@@ -1,0 +1,535 @@
+[
+  {
+    "english": "sofa",
+    "pron": "ˈsoʊfə",
+    "kana": "ソファ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "アラビア語 suffah（長いす）",
+    "ld_level": "4級",
+    "badges": ["中学生〜", "英検4級", "CEFR A1", "基本語"],
+    "meaning_main": "ソファ ／ 長いす",
+    "description": "sofa（ソファ）の意味は「ソファ・長いす」。on the sofa の使い方、couch との違い、語源、例文やクイズで解説。",
+    "keywords": ["sofa 意味", "sofa 使い方", "on the sofa", "sofa couch 違い", "sofa 例文"],
+    "meanings": [
+      { "hinshi": "【名詞】ソファ・長いす", "note": "数人が座れるクッション付きのいす。" }
+    ],
+    "usages": [
+      { "title": "① ソファで（on the sofa）", "desc": "「ソファに座って・寝そべって」。", "example_en": "He is sitting on the sofa.", "example_ja": "彼はソファに座っている。" },
+      { "title": "② くつろぐ", "desc": "relax on the sofa（ソファでくつろぐ)。", "example_en": "I like to relax on the sofa.", "example_ja": "私はソファでくつろぐのが好きだ。" },
+      { "title": "③ couch との違い", "desc": "sofa と couch はほぼ同じ。アメリカでは couch も一般的。", "example_en": "Have a seat on the sofa.", "example_ja": "ソファにおかけください。" }
+    ],
+    "warn": [
+      "「ソファに（座る）」は on the sofa（in ではない）",
+      "sofa と couch はほぼ同じ意味。アメリカでは couch もよく使う"
+    ],
+    "etym_note": "アラビア語 suffah（壁ぎわに置く長いす・ベンチ）に由来し、トルコ語・フランス語を経て英語に入った。「クッション付きの長いす＝ソファ」を表す。",
+    "etym_chain": [
+      { "node": "suffah", "sub": "長いす", "era": "アラビア語" },
+      { "node": "sofa", "sub": "長いす", "era": "17世紀英語" },
+      { "node": "sofa", "sub": "ソファ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "on the sofa", "ja": "ソファで" },
+      { "en": "sit on the sofa", "ja": "ソファに座る" },
+      { "en": "a leather sofa", "ja": "革のソファ" },
+      { "en": "a sofa bed", "ja": "ソファベッド" },
+      { "en": "relax on the sofa", "ja": "ソファでくつろぐ" },
+      { "en": "a comfortable sofa", "ja": "座り心地のよいソファ" }
+    ],
+    "related": [
+      { "en": "couch", "ja": "ソファ・寝いす" },
+      { "en": "chair", "ja": "いす" },
+      { "en": "seat", "ja": "座席" },
+      { "en": "furniture", "ja": "家具" }
+    ],
+    "faq": [
+      { "q": "「ソファに座る」は英語で？", "a": "sit on the sofa と言います。前置詞は on を使います。" },
+      { "q": "sofa と couch の違いは？", "a": "ほぼ同じ意味です。アメリカでは couch もよく使われます。" }
+    ],
+    "quiz": [
+      { "q": "\"He fell asleep on the ___.\"（ソファ）の空所に入るのは？", "A": "sofa", "B": "soft", "C": "soap", "D": "soil", "correct": "A" },
+      { "q": "sofa とほぼ同じ意味の語はどれ？", "A": "couch", "B": "chair", "C": "table", "D": "bed", "correct": "A" }
+    ]
+  },
+  {
+    "english": "software",
+    "pron": "ˈsɔːftweər",
+    "kana": "ソフトウェア",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "soft（柔らかい）+ ware（製品）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "頻出語"],
+    "meaning_main": "ソフトウェア ／ ソフト",
+    "description": "software（ソフトウェア）の意味は「ソフトウェア」。不可算名詞である点、hardware との対、語源、例文やクイズで解説。",
+    "keywords": ["software 意味", "software 使い方", "software hardware", "software 不可算", "software 例文"],
+    "meanings": [
+      { "hinshi": "【名詞】ソフトウェア", "note": "コンピューターのプログラム類。数えられない名詞。" }
+    ],
+    "usages": [
+      { "title": "① ソフトウェア（不可算名詞）", "desc": "a software とは言わない。a piece of software で数える。", "example_en": "I installed new software.", "example_ja": "私は新しいソフトをインストールした。" },
+      { "title": "② hardware との対", "desc": "software（プログラム）⇔ hardware（機器)。", "example_en": "A computer needs both hardware and software.", "example_ja": "コンピューターには機器とソフトの両方が必要だ。" },
+      { "title": "③ ソフトの種類", "desc": "antivirus software（ウイルス対策ソフト)。", "example_en": "Update your antivirus software.", "example_ja": "ウイルス対策ソフトを更新して。" }
+    ],
+    "warn": [
+      "software は数えられない名詞。a software とは言わず、a piece of software / some software で数える",
+      "software（プログラム）⇔ hardware（機器）"
+    ],
+    "etym_note": "soft（柔らかい）と ware（製品・品物）を組み合わせた語。物理的な機器 hardware に対し、形のないプログラム類を「やわらかい製品＝software」と呼んだ20世紀の語。",
+    "etym_chain": [
+      { "node": "soft + ware", "sub": "柔らかい＋製品", "era": "20世紀英語" },
+      { "node": "software", "sub": "プログラム類", "era": "20世紀英語" },
+      { "node": "software", "sub": "ソフトウェア", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a piece of software", "ja": "ソフト1つ" },
+      { "en": "install software", "ja": "ソフトをインストールする" },
+      { "en": "antivirus software", "ja": "ウイルス対策ソフト" },
+      { "en": "software update", "ja": "ソフトウェア更新" },
+      { "en": "free software", "ja": "無料ソフト" },
+      { "en": "computer software", "ja": "コンピューターソフト" }
+    ],
+    "related": [
+      { "en": "hardware", "ja": "ハードウェア・機器" },
+      { "en": "program", "ja": "プログラム" },
+      { "en": "app", "ja": "アプリ" },
+      { "en": "computer", "ja": "コンピューター" }
+    ],
+    "faq": [
+      { "q": "software は数えられる？", "a": "いいえ、数えられない名詞です。a software とは言わず、a piece of software / some software のように数えます。" },
+      { "q": "software と hardware の違いは？", "a": "software は「（形のない)プログラム類」、hardware は「（物理的な)機器・装置」です。" }
+    ],
+    "quiz": [
+      { "q": "\"I need to update the ___.\"（ソフト）の空所に入るのは？", "A": "software", "B": "hardware", "C": "software's", "D": "softwares", "correct": "A" },
+      { "q": "software の正しい数え方はどれ？", "A": "a piece of software", "B": "a software", "C": "two softwares", "D": "many softwares", "correct": "A" }
+    ]
+  },
+  {
+    "english": "solar",
+    "pron": "ˈsoʊlər",
+    "kana": "ソーラー",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 sol（太陽）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "頻出語"],
+    "meaning_main": "太陽の ／ 太陽光の",
+    "description": "solar（ソーラー）の意味は「太陽の・太陽光の」。solar energy の使い方、the solar system、lunar（月の)との対、語源、例文やクイズで解説。",
+    "keywords": ["solar 意味", "solar 使い方", "solar energy", "solar system", "solar 例文"],
+    "meanings": [
+      { "hinshi": "【形容詞】太陽の・太陽光の・太陽エネルギーの", "note": "太陽に関する。solar power（太陽光発電)。" }
+    ],
+    "usages": [
+      { "title": "① 太陽エネルギー（solar energy）", "desc": "太陽光から得るエネルギー。", "example_en": "Solar energy is clean.", "example_ja": "太陽エネルギーはクリーンだ。" },
+      { "title": "② 太陽系（the solar system）", "desc": "太陽とその惑星。", "example_en": "Earth is part of the solar system.", "example_ja": "地球は太陽系の一部だ。" },
+      { "title": "③ ソーラーパネル（solar panels）", "desc": "太陽光発電の装置。", "example_en": "They put solar panels on the roof.", "example_ja": "彼らは屋根にソーラーパネルを設置した。" }
+    ],
+    "warn": [
+      "solar は「太陽の」、lunar は「月の」。対で覚える",
+      "solar power / solar energy（太陽光発電・太陽エネルギー）、the solar system（太陽系）"
+    ],
+    "etym_note": "ラテン語 sol（太陽）に由来する。「太陽の」を表す形容詞で、solar system（太陽系）、solar power（太陽光）などに使う。英語の sun とは別系統だが意味は同じ「太陽」。",
+    "etym_chain": [
+      { "node": "sol", "sub": "太陽", "era": "ラテン語" },
+      { "node": "solaris", "sub": "太陽の", "era": "ラテン語" },
+      { "node": "solar", "sub": "太陽の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "solar energy", "ja": "太陽エネルギー" },
+      { "en": "solar power", "ja": "太陽光発電" },
+      { "en": "the solar system", "ja": "太陽系" },
+      { "en": "solar panels", "ja": "ソーラーパネル" },
+      { "en": "a solar eclipse", "ja": "日食" },
+      { "en": "solar cells", "ja": "太陽電池" }
+    ],
+    "related": [
+      { "en": "lunar", "ja": "月の" },
+      { "en": "sun", "ja": "太陽" },
+      { "en": "energy", "ja": "エネルギー" },
+      { "en": "planet", "ja": "惑星" }
+    ],
+    "faq": [
+      { "q": "solar の反対の概念は？", "a": "lunar（月の）です。solar（太陽の）⇔ lunar（月の）で対になります。" },
+      { "q": "a solar eclipse とは？", "a": "「日食」のことです。a lunar eclipse は「月食」です。" }
+    ],
+    "quiz": [
+      { "q": "\"___ energy comes from the sun.\"（太陽の）の空所に入るのは？", "A": "Solar", "B": "Lunar", "C": "Soil", "D": "Sole", "correct": "A" },
+      { "q": "「太陽系」を表すのはどれ？", "A": "the solar system", "B": "solar panels", "C": "a solar eclipse", "D": "solar cells", "correct": "A" }
+    ]
+  },
+  {
+    "english": "somebody",
+    "pron": "ˈsʌmbədi",
+    "kana": "サムバディ",
+    "hinshi": "代名詞",
+    "ld_pos": "代名詞",
+    "ld_etym": "some（ある）+ body（人）",
+    "ld_level": "4級",
+    "badges": ["中学生〜", "英検4級", "CEFR A2", "基本語"],
+    "meaning_main": "だれか ／ ある人",
+    "description": "somebody（サムバディ）の意味は「だれか」。someone との違い、anybody との使い分け、語源、例文やクイズで解説。",
+    "keywords": ["somebody 意味", "somebody 使い方", "somebody someone 違い", "somebody anybody", "somebody 例文"],
+    "meanings": [
+      { "hinshi": "【代名詞】だれか・ある人", "note": "someone とほぼ同じ。肯定文で使う。" },
+      { "hinshi": "【名詞】ひとかどの人物", "note": "be somebody（重要人物である)。" }
+    ],
+    "usages": [
+      { "title": "① だれか（肯定文）", "desc": "ふつう肯定文で使う。", "example_en": "Somebody is knocking at the door.", "example_ja": "だれかがドアをノックしている。" },
+      { "title": "② someone との違い", "desc": "意味は同じ。somebody のほうがややくだけた言い方。", "example_en": "Somebody / Someone called you.", "example_ja": "だれかがあなたに電話した。" },
+      { "title": "③ ひとかどの人物（be somebody）", "desc": "「重要な人物だ」。", "example_en": "He wants to be somebody.", "example_ja": "彼は一角の人物になりたがっている。" }
+    ],
+    "warn": [
+      "somebody は肯定文で使う。否定文・疑問文では anybody を使うのが原則",
+      "somebody ≒ someone（意味は同じ）。somebody はややくだけた言い方"
+    ],
+    "etym_note": "some（ある・いくらかの）と body（人・体）を組み合わせた語。「ある人＝だれか」を表す。someone と同じく不特定の人を指す。",
+    "etym_chain": [
+      { "node": "some + body", "sub": "ある＋人", "era": "中英語" },
+      { "node": "somebody", "sub": "だれか", "era": "中英語" },
+      { "node": "somebody", "sub": "だれか", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "somebody else", "ja": "だれかほかの人" },
+      { "en": "somebody like you", "ja": "あなたのような人" },
+      { "en": "be somebody", "ja": "ひとかどの人物である" },
+      { "en": "somebody's coming", "ja": "だれかが来る" },
+      { "en": "ask somebody", "ja": "だれかに尋ねる" },
+      { "en": "tell somebody", "ja": "だれかに伝える" }
+    ],
+    "related": [
+      { "en": "someone", "ja": "だれか" },
+      { "en": "anybody", "ja": "だれか・だれでも（否定・疑問)" },
+      { "en": "nobody", "ja": "だれも～ない" },
+      { "en": "everybody", "ja": "みんな" }
+    ],
+    "faq": [
+      { "q": "somebody と someone の違いは？", "a": "意味は同じ「だれか」です。somebody のほうがややくだけた話し言葉的、someone のほうがやや丁寧・書き言葉的です。" },
+      { "q": "somebody と anybody の使い分けは？", "a": "somebody は肯定文、anybody は否定文・疑問文で使うのが原則です。" }
+    ],
+    "quiz": [
+      { "q": "\"___ is at the door.\"（だれか）の空所に入るのは？", "A": "Somebody", "B": "Anybody", "C": "Nobody", "D": "Everybody", "correct": "A" },
+      { "q": "somebody とほぼ同じ意味の語はどれ？", "A": "someone", "B": "anybody", "C": "nobody", "D": "something", "correct": "A" }
+    ]
+  },
+  {
+    "english": "someone",
+    "pron": "ˈsʌmwʌn",
+    "kana": "サムワン",
+    "hinshi": "代名詞",
+    "ld_pos": "代名詞",
+    "ld_etym": "some（ある）+ one（人）",
+    "ld_level": "4級",
+    "badges": ["中学生〜", "英検4級", "CEFR A2", "基本語"],
+    "meaning_main": "だれか ／ ある人",
+    "description": "someone（サムワン）の意味は「だれか」。somebody との違い、anyone との使い分け、語源、例文やクイズで解説。",
+    "keywords": ["someone 意味", "someone 使い方", "someone somebody 違い", "someone anyone", "someone 例文"],
+    "meanings": [
+      { "hinshi": "【代名詞】だれか・ある人", "note": "somebody とほぼ同じ。肯定文で使う。" }
+    ],
+    "usages": [
+      { "title": "① だれか（肯定文）", "desc": "ふつう肯定文で使う。", "example_en": "Someone is waiting for you.", "example_ja": "だれかがあなたを待っている。" },
+      { "title": "② ～な人（someone who ～)", "desc": "関係詞で説明できる。", "example_en": "I need someone who can help.", "example_ja": "助けてくれる人が必要だ。" },
+      { "title": "③ anyone との使い分け", "desc": "否定文・疑問文では anyone。", "example_en": "Is there anyone here?", "example_ja": "ここにだれかいますか？" }
+    ],
+    "warn": [
+      "someone は肯定文で使う。否定文・疑問文では anyone を使うのが原則",
+      "someone ≒ somebody（意味は同じ）。someone のほうがやや丁寧・書き言葉的"
+    ],
+    "etym_note": "some（ある）と one（一人・人）を組み合わせた語。「ある一人＝だれか」を表す。somebody と同じ意味。",
+    "etym_chain": [
+      { "node": "some + one", "sub": "ある＋一人", "era": "中英語" },
+      { "node": "someone", "sub": "だれか", "era": "中英語" },
+      { "node": "someone", "sub": "だれか", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "someone else", "ja": "だれかほかの人" },
+      { "en": "someone who", "ja": "～する人" },
+      { "en": "someone special", "ja": "特別な人" },
+      { "en": "ask someone", "ja": "だれかに尋ねる" },
+      { "en": "meet someone", "ja": "だれかに会う" },
+      { "en": "love someone", "ja": "だれかを愛する" }
+    ],
+    "related": [
+      { "en": "somebody", "ja": "だれか" },
+      { "en": "anyone", "ja": "だれか・だれでも（否定・疑問)" },
+      { "en": "no one", "ja": "だれも～ない" },
+      { "en": "everyone", "ja": "みんな" }
+    ],
+    "faq": [
+      { "q": "someone と somebody の違いは？", "a": "意味は同じ「だれか」です。someone のほうがやや丁寧・書き言葉的、somebody のほうがややくだけた話し言葉的です。" },
+      { "q": "someone と anyone の使い分けは？", "a": "someone は肯定文、anyone は否定文・疑問文で使うのが原則です。" }
+    ],
+    "quiz": [
+      { "q": "\"___ left a message for you.\"（だれか）の空所に入るのは？", "A": "Someone", "B": "Anyone", "C": "No one", "D": "Everyone", "correct": "A" },
+      { "q": "否定文・疑問文で「だれか」を表すのはどれ？", "A": "anyone", "B": "someone", "C": "somebody", "D": "everyone", "correct": "A" }
+    ]
+  },
+  {
+    "english": "something",
+    "pron": "ˈsʌmθɪŋ",
+    "kana": "サムシング",
+    "hinshi": "代名詞",
+    "ld_pos": "代名詞",
+    "ld_etym": "some（ある）+ thing（もの）",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "基本語"],
+    "meaning_main": "何か ／ あるもの",
+    "description": "something（サムシング）の意味は「何か」。anything との使い分け、something to eat の形、語源、例文やクイズで解説。",
+    "keywords": ["something 意味", "something 使い方", "something anything 違い", "something to eat", "something 例文"],
+    "meanings": [
+      { "hinshi": "【代名詞】何か・あるもの", "note": "不特定のもの。肯定文で使う。" }
+    ],
+    "usages": [
+      { "title": "① 何か（肯定文）", "desc": "ふつう肯定文で使う。", "example_en": "I have something to tell you.", "example_ja": "あなたに言いたいことがある。" },
+      { "title": "② 何か食べ物（something to eat）", "desc": "「something + to不定詞」で「～する何か」。", "example_en": "Let's get something to eat.", "example_ja": "何か食べるものを買おう。" },
+      { "title": "③ 形容詞は後ろ（something cold）", "desc": "something を修飾する形容詞は後ろに置く。", "example_en": "I want something cold to drink.", "example_ja": "何か冷たい飲み物がほしい。" }
+    ],
+    "warn": [
+      "something は肯定文、anything は否定文・疑問文で使うのが原則（勧誘の疑問文では something）",
+      "something を修飾する形容詞は後ろに置く（something cold、×cold something）"
+    ],
+    "etym_note": "some（ある）と thing（もの）を組み合わせた語。「あるもの＝何か」を表す。anything（何でも・何か）と対になる。",
+    "etym_chain": [
+      { "node": "some + thing", "sub": "ある＋もの", "era": "古英語" },
+      { "node": "something", "sub": "何か", "era": "中英語" },
+      { "node": "something", "sub": "何か", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "something to eat", "ja": "何か食べるもの" },
+      { "en": "something else", "ja": "何かほかのもの" },
+      { "en": "something cold", "ja": "何か冷たいもの" },
+      { "en": "something like", "ja": "～のようなもの・およそ" },
+      { "en": "something wrong", "ja": "何かおかしいこと" },
+      { "en": "or something", "ja": "～か何か" }
+    ],
+    "related": [
+      { "en": "anything", "ja": "何でも・何か（否定・疑問)" },
+      { "en": "nothing", "ja": "何も～ない" },
+      { "en": "everything", "ja": "すべて" },
+      { "en": "someone", "ja": "だれか" }
+    ],
+    "faq": [
+      { "q": "something と anything の使い分けは？", "a": "something は肯定文、anything は否定文・疑問文で使うのが原則です。ただし「～はいかが？」と勧める疑問文では something を使います。" },
+      { "q": "something cold の語順は？", "a": "something を修飾する形容詞は後ろに置きます（something cold＝何か冷たいもの）。×cold something とは言いません。" }
+    ],
+    "quiz": [
+      { "q": "\"I have ___ to tell you.\"（何か）の空所に入るのは？", "A": "something", "B": "anything", "C": "nothing", "D": "everything", "correct": "A" },
+      { "q": "「何か冷たい飲み物」の正しい語順はどれ？", "A": "something cold to drink", "B": "cold something to drink", "C": "something to cold drink", "D": "to drink something cold", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sometimes",
+    "pron": "ˈsʌmtaɪmz",
+    "kana": "サムタイムズ",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "some（ある）+ times（時）",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "基本語"],
+    "meaning_main": "時々 ／ たまに",
+    "description": "sometimes（サムタイムズ）の意味は「時々・たまに」。頻度の副詞、sometime（いつか)との違い、語順、語源、例文やクイズで解説。",
+    "keywords": ["sometimes 意味", "sometimes 使い方", "sometimes sometime 違い", "頻度 副詞", "sometimes 例文"],
+    "meanings": [
+      { "hinshi": "【副詞】時々・たまに", "note": "ときどき～する。頻度を表す。" }
+    ],
+    "usages": [
+      { "title": "① 時々（sometimes）", "desc": "一般動詞の前、be動詞の後、文頭にも置ける。", "example_en": "I sometimes walk to school.", "example_ja": "私は時々歩いて学校へ行く。" },
+      { "title": "② 頻度の位置", "desc": "always > usually > often > sometimes > seldom > never。", "example_en": "Sometimes it rains here.", "example_ja": "ここでは時々雨が降る。" },
+      { "title": "③ sometime との違い", "desc": "sometimes（時々）、sometime（いつか・あるとき)。s の有無で意味が違う。", "example_en": "Let's meet sometime. / Sometimes we meet.", "example_ja": "いつか会おう。／時々会う。" }
+    ],
+    "warn": [
+      "sometimes（時々・頻度）と sometime（いつか・あるとき）は s の有無で意味が違う。混同注意",
+      "頻度は always＞usually＞often＞sometimes＞seldom＞never"
+    ],
+    "etym_note": "some（ある）と times（時・回）を組み合わせた語。「あるときどき＝時々」を表す副詞。語尾の s に注意（sometime とは別語）。",
+    "etym_chain": [
+      { "node": "some + times", "sub": "ある＋時", "era": "中英語" },
+      { "node": "sometimes", "sub": "時々", "era": "中英語" },
+      { "node": "sometimes", "sub": "時々", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "sometimes ～, sometimes ～", "ja": "あるときは～、あるときは～" },
+      { "en": "only sometimes", "ja": "たまにしか～ない" },
+      { "en": "more than sometimes", "ja": "時々以上に" },
+      { "en": "Sometimes I wonder", "ja": "時々思うことがある" },
+      { "en": "sometimes or other", "ja": "ときどき" },
+      { "en": "every now and then", "ja": "時々（同義表現)" }
+    ],
+    "related": [
+      { "en": "often", "ja": "しばしば" },
+      { "en": "usually", "ja": "ふつう" },
+      { "en": "seldom", "ja": "めったに～ない" },
+      { "en": "sometime", "ja": "いつか" }
+    ],
+    "faq": [
+      { "q": "sometimes と sometime の違いは？", "a": "sometimes は「時々（頻度）」、sometime は「いつか・あるとき（不特定の時点）」です。s の有無で意味が大きく違うので注意しましょう。" },
+      { "q": "sometimes の頻度はどのくらい？", "a": "always＞usually＞often＞sometimes＞seldom＞never の順で、sometimes は「ときどき」にあたります。" }
+    ],
+    "quiz": [
+      { "q": "\"I ___ play tennis on weekends.\"（時々）の空所に入るのは？", "A": "sometimes", "B": "sometime", "C": "always not", "D": "never not", "correct": "A" },
+      { "q": "「いつか会おう」に合うのはどれ？", "A": "Let's meet sometime.", "B": "Let's meet sometimes.", "C": "Let's meet sometime ago.", "D": "Let's meet sometimes ago.", "correct": "A" }
+    ]
+  },
+  {
+    "english": "somewhere",
+    "pron": "ˈsʌmweər",
+    "kana": "サムウェア",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "some（ある）+ where（場所）",
+    "ld_level": "4級",
+    "badges": ["中学生〜", "英検4級", "CEFR A2", "基本語"],
+    "meaning_main": "どこかに ／ どこかへ",
+    "description": "somewhere（サムウェア）の意味は「どこかに・どこかへ」。anywhere との使い分け、somewhere to ～ の形、語源、例文やクイズで解説。",
+    "keywords": ["somewhere 意味", "somewhere 使い方", "somewhere anywhere 違い", "somewhere to go", "somewhere 例文"],
+    "meanings": [
+      { "hinshi": "【副詞】どこかに・どこかへ", "note": "不特定の場所。肯定文で使う。" }
+    ],
+    "usages": [
+      { "title": "① どこかに（肯定文）", "desc": "ふつう肯定文で使う。", "example_en": "I left my keys somewhere.", "example_ja": "私はどこかに鍵を置き忘れた。" },
+      { "title": "② どこか行く所（somewhere to go）", "desc": "「somewhere + to不定詞」。", "example_en": "Let's find somewhere to eat.", "example_ja": "どこか食べる場所を見つけよう。" },
+      { "title": "③ anywhere との使い分け", "desc": "否定文・疑問文では anywhere。", "example_en": "I can't find it anywhere.", "example_ja": "どこにも見つからない。" }
+    ],
+    "warn": [
+      "somewhere は肯定文、anywhere は否定文・疑問文で使うのが原則",
+      "「どこか暖かい所」のように形容詞は後ろ（somewhere warm）"
+    ],
+    "etym_note": "some（ある）と where（場所）を組み合わせた語。「ある場所＝どこか」を表す副詞。anywhere（どこでも・どこか）と対になる。",
+    "etym_chain": [
+      { "node": "some + where", "sub": "ある＋場所", "era": "中英語" },
+      { "node": "somewhere", "sub": "どこかに", "era": "中英語" },
+      { "node": "somewhere", "sub": "どこかに", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "somewhere else", "ja": "どこかほかの所" },
+      { "en": "somewhere to go", "ja": "どこか行く所" },
+      { "en": "somewhere warm", "ja": "どこか暖かい所" },
+      { "en": "somewhere around", "ja": "どこかその辺に" },
+      { "en": "live somewhere", "ja": "どこかに住む" },
+      { "en": "get somewhere", "ja": "進展する・うまくいく" }
+    ],
+    "related": [
+      { "en": "anywhere", "ja": "どこでも・どこか（否定・疑問)" },
+      { "en": "nowhere", "ja": "どこにも～ない" },
+      { "en": "everywhere", "ja": "どこでも" },
+      { "en": "somewhat", "ja": "いくぶん" }
+    ],
+    "faq": [
+      { "q": "somewhere と anywhere の使い分けは？", "a": "somewhere は肯定文、anywhere は否定文・疑問文で使うのが原則です。" },
+      { "q": "get somewhere の意味は？", "a": "「進展する・成果が出る・うまくいく」という意味の表現です。Now we're getting somewhere.（やっと進展してきた）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "\"I left my umbrella ___.\"（どこかに）の空所に入るのは？", "A": "somewhere", "B": "anywhere", "C": "nowhere", "D": "everywhere", "correct": "A" },
+      { "q": "「どこか暖かい所」の正しい語順はどれ？", "A": "somewhere warm", "B": "warm somewhere", "C": "somewhere to warm", "D": "warm to somewhere", "correct": "A" }
+    ]
+  },
+  {
+    "english": "souvenir",
+    "pron": "ˌsuːvəˈnɪər",
+    "kana": "スーベニア",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 souvenir（思い出す）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "頻出語"],
+    "meaning_main": "おみやげ ／ 記念品",
+    "description": "souvenir（スーベニア）の意味は「おみやげ・記念品」。a souvenir shop の使い方、present との違い、語源、例文やクイズで解説。",
+    "keywords": ["souvenir 意味", "souvenir 使い方", "souvenir shop", "souvenir present 違い", "souvenir 例文"],
+    "meanings": [
+      { "hinshi": "【名詞】おみやげ・記念品", "note": "旅行先などで買う、思い出の品。" }
+    ],
+    "usages": [
+      { "title": "① おみやげを買う（buy a souvenir）", "desc": "旅行の記念品。", "example_en": "I bought souvenirs for my family.", "example_ja": "私は家族におみやげを買った。" },
+      { "title": "② みやげ物店（a souvenir shop）", "desc": "記念品を売る店。", "example_en": "We visited a souvenir shop.", "example_ja": "私たちはみやげ物店に行った。" },
+      { "title": "③ present との違い", "desc": "souvenir は「（旅の)記念品・おみやげ」、present は「贈り物・プレゼント」。", "example_en": "This is a souvenir from Kyoto.", "example_ja": "これは京都のおみやげだ。" }
+    ],
+    "warn": [
+      "souvenir は主に「（旅行先の)記念品・おみやげ（自分や人のため）」。誕生日などの「贈り物」は present / gift",
+      "発音は「スーベニア（ˌsuːvəˈnɪər）」。アクセントは後ろ"
+    ],
+    "etym_note": "フランス語 souvenir（思い出す、ラテン語 subvenire＝心に浮かぶ に由来）から英語に入った。「思い出させるもの＝記念品・おみやげ」を表す。",
+    "etym_chain": [
+      { "node": "subvenire", "sub": "心に浮かぶ", "era": "ラテン語" },
+      { "node": "souvenir", "sub": "思い出す・記念品", "era": "フランス語" },
+      { "node": "souvenir", "sub": "おみやげ・記念品", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "buy a souvenir", "ja": "おみやげを買う" },
+      { "en": "a souvenir shop", "ja": "みやげ物店" },
+      { "en": "a souvenir from", "ja": "～のおみやげ" },
+      { "en": "souvenirs for friends", "ja": "友達へのおみやげ" },
+      { "en": "a nice souvenir", "ja": "すてきな記念品" },
+      { "en": "as a souvenir", "ja": "記念に" }
+    ],
+    "related": [
+      { "en": "present", "ja": "贈り物・プレゼント" },
+      { "en": "gift", "ja": "贈り物" },
+      { "en": "memory", "ja": "思い出" },
+      { "en": "trip", "ja": "旅行" }
+    ],
+    "faq": [
+      { "q": "souvenir と present の違いは？", "a": "souvenir は「（旅行先の)記念品・おみやげ」、present は「（誕生日などの)贈り物・プレゼント」です。" },
+      { "q": "souvenir の発音は？", "a": "「スーベニア（ˌsuːvəˈnɪər）」です。アクセントは最後の nir にあります。" }
+    ],
+    "quiz": [
+      { "q": "\"I bought a ___ from Hawaii.\"（おみやげ）の空所に入るのは？", "A": "souvenir", "B": "souvenirs only", "C": "present", "D": "source", "correct": "A" },
+      { "q": "「みやげ物店」を表すのはどれ？", "A": "a souvenir shop", "B": "a souvenir from", "C": "as a souvenir", "D": "a nice souvenir", "correct": "A" }
+    ]
+  },
+  {
+    "english": "spare",
+    "pron": "speər",
+    "kana": "スペア",
+    "hinshi": "形容詞 / 動詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "古英語 sparian（惜しむ・とっておく）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "頻出語"],
+    "meaning_main": "予備の ／ 余分の ／ （時間などを)割く",
+    "description": "spare（スペア）の意味は「予備の・余分の・割く」。spare time の使い方、語源、例文やクイズでわかりやすく解説。",
+    "keywords": ["spare 意味", "spare 使い方", "spare time", "spare 予備", "spare 例文"],
+    "meanings": [
+      { "hinshi": "【形容詞】予備の・余分の", "note": "a spare key（予備の鍵)、spare time（余った時間)。" },
+      { "hinshi": "【動詞】（時間・お金を)割く・さく", "note": "Can you spare a minute?（少し時間ある?)。" },
+      { "hinshi": "【動詞】（手間などを)省く・容赦する", "note": "spare no effort（労を惜しまない)。" }
+    ],
+    "usages": [
+      { "title": "① 余暇（spare time）", "desc": "「空いた時間・自由な時間」。", "example_en": "I read in my spare time.", "example_ja": "私は余暇に読書する。" },
+      { "title": "② 予備の（a spare ～）", "desc": "「予備の・替えの」。", "example_en": "Do you have a spare key?", "example_ja": "予備の鍵はある？" },
+      { "title": "③ 時間を割く（spare time for）", "desc": "「（人に)時間を割く」。", "example_en": "Can you spare a few minutes?", "example_ja": "少し時間をもらえますか？" }
+    ],
+    "warn": [
+      "spare time は「余暇・自由時間」（= free time）。a spare key は「予備の鍵」",
+      "動詞 spare は「（時間・金を)割く」「（手間を)省く」など。Spare me the details.（詳細は省いて）"
+    ],
+    "etym_note": "古英語 sparian（惜しむ・とっておく・容赦する）に由来する。「とっておく＝予備の」「（時間を)惜しんで割く」という意味に発展した。",
+    "etym_chain": [
+      { "node": "sparian", "sub": "惜しむ・とっておく", "era": "古英語" },
+      { "node": "spare", "sub": "予備の・割く", "era": "中英語" },
+      { "node": "spare", "sub": "予備の・割く", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "spare time", "ja": "余暇・自由時間" },
+      { "en": "a spare key", "ja": "予備の鍵" },
+      { "en": "a spare room", "ja": "客間・空き部屋" },
+      { "en": "spare parts", "ja": "予備の部品・スペアパーツ" },
+      { "en": "spare no effort", "ja": "労を惜しまない" },
+      { "en": "to spare", "ja": "余分に・あり余って" }
+    ],
+    "related": [
+      { "en": "extra", "ja": "余分の" },
+      { "en": "free", "ja": "自由な・暇な" },
+      { "en": "save", "ja": "とっておく・節約する" },
+      { "en": "reserve", "ja": "予備・取っておく" }
+    ],
+    "faq": [
+      { "q": "spare time の意味は？", "a": "「余暇・自由時間」という意味です。free time とほぼ同じです。in my spare time（暇なときに）のように使います。" },
+      { "q": "Can you spare a minute? の意味は？", "a": "「少し時間をもらえますか？」という意味です。spare は「（時間・お金を)割く」という動詞です。" }
+    ],
+    "quiz": [
+      { "q": "\"I read books in my ___ time.\"（余暇の）の空所に入るのは？", "A": "spare", "B": "space", "C": "spend", "D": "spread", "correct": "A" },
+      { "q": "「予備の鍵」を表すのはどれ？", "A": "a spare key", "B": "spare time", "C": "spare parts", "D": "to spare", "correct": "A" }
+    ]
+  }
+]
