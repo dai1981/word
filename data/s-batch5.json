@@ -1,0 +1,555 @@
+[
+  {
+    "english": "set",
+    "pron": "set",
+    "kana": "セット",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古英語 settan（座らせる・置く）",
+    "ld_level": "4級",
+    "badges": ["中学生〜", "英検4級", "CEFR A1", "基本語"],
+    "meaning_main": "置く ／ 設定する ／ ひとそろい",
+    "description": "set（セット）の意味は「置く・設定する・ひとそろい」。set up の使い方、過去形も set の無変化、語源、例文やクイズでわかりやすく解説。",
+    "keywords": ["set 意味", "set 使い方", "set up", "set 過去形", "set 例文"],
+    "meanings": [
+      { "hinshi": "【動詞】置く・据える", "note": "She set the cup on the table.（カップをテーブルに置いた）" },
+      { "hinshi": "【動詞】設定する・合わせる", "note": "set an alarm（アラームをセットする）、set a goal（目標を定める）。" },
+      { "hinshi": "【動詞】（太陽が）沈む", "note": "The sun sets in the west.（太陽は西に沈む）" },
+      { "hinshi": "【名詞】ひとそろい・組", "note": "a set of dishes（食器ひとそろい）。" }
+    ],
+    "usages": [
+      { "title": "① ～を準備する・設立する（set up）", "desc": "機器の設置・会社の設立など幅広く使う頻出句動詞。", "example_en": "They set up a new company last year.", "example_ja": "彼らは昨年新しい会社を設立した。" },
+      { "title": "② 設定する（set an alarm / goal）", "desc": "時刻・目標・規則などを「定める」。", "example_en": "I set my alarm for six o'clock.", "example_ja": "私は6時にアラームをセットした。" },
+      { "title": "③ ひとそろい（a set of）", "desc": "名詞として「組・セット」を表す。", "example_en": "He bought a set of tools.", "example_ja": "彼は工具をひとそろい買った。" }
+    ],
+    "warn": [
+      "過去形・過去分詞も set（無変化）。put, cut と同じパターン",
+      "「太陽が沈む」は set、「太陽が昇る」は rise。あわせて覚える"
+    ],
+    "etym_note": "古英語 settan は「座らせる・置く」を意味し、sit（座る）の使役形にあたる。ゲルマン祖語 *satjaną に由来し、「何かを所定の位置に据える」という基本義を保っている。",
+    "etym_chain": [
+      { "node": "*satjaną", "sub": "座らせる・置く", "era": "ゲルマン祖語" },
+      { "node": "settan", "sub": "置く・据える", "era": "古英語" },
+      { "node": "set", "sub": "置く・設定する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "set up", "ja": "準備する・設立する" },
+      { "en": "set off", "ja": "出発する・引き起こす" },
+      { "en": "set out", "ja": "出発する・着手する" },
+      { "en": "set a goal", "ja": "目標を定める" },
+      { "en": "set the table", "ja": "食卓の用意をする" },
+      { "en": "a set of", "ja": "ひとそろいの～" }
+    ],
+    "related": [
+      { "en": "put", "ja": "置く" },
+      { "en": "place", "ja": "置く・配置する" },
+      { "en": "rise", "ja": "昇る・上がる" },
+      { "en": "setting", "ja": "設定・環境・舞台" }
+    ],
+    "faq": [
+      { "q": "set の過去形は？", "a": "set です。原形・過去形・過去分詞すべて set で変化しません（put や cut と同じ無変化動詞です）。" },
+      { "q": "set up はどんな意味？", "a": "「準備する・設置する・設立する」という意味の句動詞です。機器の設置から会社の設立まで幅広く使えます。" }
+    ],
+    "quiz": [
+      { "q": "set の過去形はどれ？", "A": "setted", "B": "set", "C": "sat", "D": "setting", "correct": "B" },
+      { "q": "「会社を設立する」に合う句動詞はどれ？", "A": "set up", "B": "set off", "C": "set the table", "D": "set a goal", "correct": "A" }
+    ]
+  },
+  {
+    "english": "settle",
+    "pron": "ˈsetl",
+    "kana": "セトル",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古英語 setlan（座らせる・落ち着かせる）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "頻出語"],
+    "meaning_main": "解決する ／ 定住する ／ 落ち着く",
+    "description": "settle（セトル）の意味は「解決する・定住する・落ち着く」。settle down の使い方、settle a problem、語源、例文やクイズでわかりやすく解説。",
+    "keywords": ["settle 意味", "settle 使い方", "settle down", "settle 解決", "settle 例文"],
+    "meanings": [
+      { "hinshi": "【動詞】（問題を）解決する・決着をつける", "note": "settle a dispute（争いを解決する）。" },
+      { "hinshi": "【動詞】定住する・移り住む", "note": "settle in a new town（新しい町に移り住む）。" },
+      { "hinshi": "【動詞】落ち着く・安定する", "note": "settle down（身を固める・落ち着く）。" }
+    ],
+    "usages": [
+      { "title": "① 落ち着く・身を固める（settle down）", "desc": "「定住して安定した生活を送る」「気持ちが静まる」を表す。", "example_en": "He wants to settle down and start a family.", "example_ja": "彼は身を固めて家庭を持ちたいと思っている。" },
+      { "title": "② 問題を解決する（settle a problem）", "desc": "争い・問題に決着をつける。", "example_en": "They finally settled the argument.", "example_ja": "彼らはついに口論に決着をつけた。" },
+      { "title": "③ 定住する（settle in）", "desc": "新しい場所に移り住み、なじむ。", "example_en": "My family settled in Canada.", "example_ja": "私の家族はカナダに定住した。" }
+    ],
+    "warn": [
+      "「解決する」「定住する」「落ち着く」と意味が幅広い。文脈で判断する",
+      "名詞 settlement は「解決・合意」「居住地・集落」の両方の意味がある"
+    ],
+    "etym_note": "古英語 setlan は「座らせる・落ち着かせる」を意味し、settle（座席・腰掛け）に関係する。sit（座る）と同根で、「腰を据える＝落ち着く・定住する」「ものごとを据える＝解決する」へと意味が広がった。",
+    "etym_chain": [
+      { "node": "setl", "sub": "座席・腰掛け", "era": "古英語" },
+      { "node": "setlan", "sub": "座らせる・落ち着かせる", "era": "古英語" },
+      { "node": "settle", "sub": "解決する・定住する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "settle down", "ja": "身を固める・落ち着く" },
+      { "en": "settle in", "ja": "（新居・新環境に）落ち着く" },
+      { "en": "settle a problem", "ja": "問題を解決する" },
+      { "en": "settle a dispute", "ja": "争いを解決する" },
+      { "en": "settle for", "ja": "（不本意ながら）～で手を打つ" },
+      { "en": "settle the bill", "ja": "勘定を払う・精算する" }
+    ],
+    "related": [
+      { "en": "solve", "ja": "解決する" },
+      { "en": "resolve", "ja": "解決する・決意する" },
+      { "en": "settlement", "ja": "解決・合意・居住地" },
+      { "en": "settler", "ja": "入植者・移住者" }
+    ],
+    "faq": [
+      { "q": "settle down の意味は？", "a": "「身を固める・落ち着いた生活を始める」「（気持ちや状況が）静まる・落ち着く」という意味です。" },
+      { "q": "settle と solve の違いは？", "a": "solve は問題・パズルなどを「解く・解決する」、settle は争いや問題に「決着をつける・折り合いをつける」というニュアンスが強い語です。" }
+    ],
+    "quiz": [
+      { "q": "\"They decided to ___ down in the countryside.\" の空所に入るのは？", "A": "settle", "B": "set", "C": "sit", "D": "seat", "correct": "A" },
+      { "q": "「争いを解決する」に合うのはどれ？", "A": "settle a dispute", "B": "settle in", "C": "settle the bill", "D": "settle for", "correct": "A" }
+    ]
+  },
+  {
+    "english": "several",
+    "pron": "ˈsevrəl",
+    "kana": "セブラル",
+    "hinshi": "形容詞 / 代名詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 separ（別々の）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "頻出語"],
+    "meaning_main": "いくつかの ／ 数個の ／ 数人の",
+    "description": "several（セブラル）の意味は「いくつかの・数個の」。some・a few・many との量の違い、several times の使い方、語源、例文やクイズで解説。",
+    "keywords": ["several 意味", "several 使い方", "several a few 違い", "several times", "several 例文"],
+    "meanings": [
+      { "hinshi": "【形容詞】いくつかの・数個の・数人の", "note": "a few より多く many より少ない、おおよそ3〜数個。" },
+      { "hinshi": "【代名詞】いくつか・数人", "note": "Several of them agreed.（彼らのうち数人が賛成した）。" }
+    ],
+    "usages": [
+      { "title": "① いくつかの～（several + 複数名詞）", "desc": "必ず数えられる名詞の複数形につく。", "example_en": "I have read several books on this topic.", "example_ja": "私はこの話題について数冊の本を読んだ。" },
+      { "title": "② 何度も（several times）", "desc": "「数回・何度か」を表す定番表現。", "example_en": "I've met him several times.", "example_ja": "私は彼に何度か会ったことがある。" },
+      { "title": "③ ～のうちいくつか（several of）", "desc": "代名詞として of を伴う。", "example_en": "Several of my friends live abroad.", "example_ja": "私の友人のうち数人は海外に住んでいる。" }
+    ],
+    "warn": [
+      "several は数えられる名詞の複数形にのみ使う（×several water）。量を表す不可算名詞には使えない",
+      "量の目安: a few（2〜3）＜ several（数個）＜ many（多数）"
+    ],
+    "etym_note": "ラテン語 separ（別々の）に由来し、中世ラテン語 separalis を経て「それぞれ別個の」を意味した。そこから「（別々の）いくつかの」という現在の意味に発展した。separate と語源を共有する。",
+    "etym_chain": [
+      { "node": "separ", "sub": "別々の", "era": "ラテン語" },
+      { "node": "separalis / several", "sub": "それぞれ別個の", "era": "中世ラテン語・古フランス語" },
+      { "node": "several", "sub": "いくつかの", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "several times", "ja": "何度か・数回" },
+      { "en": "several days", "ja": "数日" },
+      { "en": "several people", "ja": "数人" },
+      { "en": "several of", "ja": "～のうちいくつか" },
+      { "en": "several years ago", "ja": "数年前" },
+      { "en": "several reasons", "ja": "いくつかの理由" }
+    ],
+    "related": [
+      { "en": "some", "ja": "いくつかの・いくらかの" },
+      { "en": "a few", "ja": "少数の・2〜3の" },
+      { "en": "many", "ja": "多くの" },
+      { "en": "various", "ja": "さまざまな" }
+    ],
+    "faq": [
+      { "q": "several と a few の違いは？", "a": "どちらも「いくつかの」ですが、a few は2〜3個程度、several はそれより多めの「数個・数人」を表します。量は a few ＜ several ＜ many の順です。" },
+      { "q": "several は不可算名詞にも使える？", "a": "いいえ。several は数えられる名詞の複数形にのみ使います。water などの不可算名詞には some を使います。" }
+    ],
+    "quiz": [
+      { "q": "\"I've been there ___ times.\" の空所に入るのは？", "A": "several", "B": "much", "C": "a little", "D": "every", "correct": "A" },
+      { "q": "several が正しく使えるのはどれ？", "A": "several water", "B": "several books", "C": "several money", "D": "several rice", "correct": "B" }
+    ]
+  },
+  {
+    "english": "shade",
+    "pron": "ʃeɪd",
+    "kana": "シェイド",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 sceadu（影・陰）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "頻出語"],
+    "meaning_main": "日陰 ／ 色合い ／ 覆って陰にする",
+    "description": "shade（シェイド）の意味は「日陰・色合い」。shadow（影）との違い、in the shade の使い方、語源、例文やクイズでわかりやすく解説。",
+    "keywords": ["shade 意味", "shade 使い方", "shade shadow 違い", "in the shade", "shade 例文"],
+    "meanings": [
+      { "hinshi": "【名詞】日陰・陰", "note": "光がさえぎられてできる涼しい場所。in the shade で「日陰で」。" },
+      { "hinshi": "【名詞】色合い・濃淡", "note": "a shade of blue（青の色合い）。" },
+      { "hinshi": "【名詞】（光をさえぎる）ひさし・日よけ", "note": "a window shade（窓のブラインド）。" },
+      { "hinshi": "【動詞】覆って陰にする・日よけする", "note": "shade one's eyes（手で目に陰を作る）。" }
+    ],
+    "usages": [
+      { "title": "① 日陰で（in the shade）", "desc": "暑いときに涼む場所を表す定番表現。", "example_en": "Let's sit in the shade of the tree.", "example_ja": "木陰に座りましょう。" },
+      { "title": "② 色合い（a shade of）", "desc": "同じ色の中の微妙な濃淡を表す。", "example_en": "She chose a lighter shade of pink.", "example_ja": "彼女はより淡いピンクの色合いを選んだ。" },
+      { "title": "③ 陰にする（動詞）", "desc": "光をさえぎって陰を作る。", "example_en": "He shaded his eyes from the sun.", "example_ja": "彼は手で日差しから目をおおった。" }
+    ],
+    "warn": [
+      "shade は「（涼しい）日陰・陰の領域」、shadow は「（物の形をした）影」。区別に注意",
+      "色の「色合い」を表すときは a shade of ～ を使う"
+    ],
+    "etym_note": "古英語 sceadu は「影・陰」を意味し、shadow と同じ語に由来する。もともと同じ語だったが、のちに「陰の領域＝shade」と「物の形の影＝shadow」に分かれていった。",
+    "etym_chain": [
+      { "node": "sceadu", "sub": "影・陰", "era": "古英語" },
+      { "node": "schade", "sub": "陰・日陰", "era": "中英語" },
+      { "node": "shade", "sub": "日陰・色合い", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "in the shade", "ja": "日陰で" },
+      { "en": "a shade of", "ja": "～の色合い" },
+      { "en": "shades of color", "ja": "色の濃淡" },
+      { "en": "give shade", "ja": "陰をつくる" },
+      { "en": "window shade", "ja": "窓の日よけ・ブラインド" },
+      { "en": "shade one's eyes", "ja": "目に手をかざす" }
+    ],
+    "related": [
+      { "en": "shadow", "ja": "影" },
+      { "en": "shady", "ja": "陰の多い・怪しい" },
+      { "en": "shelter", "ja": "避難所・覆い" },
+      { "en": "tint", "ja": "色合い・薄い色" }
+    ],
+    "faq": [
+      { "q": "shade と shadow の違いは？", "a": "shade は光がさえぎられた「日陰・陰の領域」、shadow は物の形に沿ってできる「影」です。木の下の涼しい場所は shade、人や物の輪郭の影は shadow です。" },
+      { "q": "「青の色合い」は英語でどう言う？", "a": "a shade of blue と言います。shade は色の微妙な濃淡（色合い）も表します。" }
+    ],
+    "quiz": [
+      { "q": "\"It was hot, so we rested in the ___ of a tree.\" の空所に入るのは？", "A": "shade", "B": "shadow", "C": "shape", "D": "shake", "correct": "A" },
+      { "q": "「淡いピンクの色合い」に合うのはどれ？", "A": "a shade of pink", "B": "a shadow of pink", "C": "a shake of pink", "D": "a shape of pink", "correct": "A" }
+    ]
+  },
+  {
+    "english": "shadow",
+    "pron": "ˈʃædoʊ",
+    "kana": "シャドウ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 sceadwe（影）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "頻出語"],
+    "meaning_main": "影 ／ 暗がり ／ こっそり尾行する",
+    "description": "shadow（シャドウ）の意味は「影」。shade（日陰）との違い、cast a shadow の使い方、語源、例文やクイズでわかりやすく解説。",
+    "keywords": ["shadow 意味", "shadow 使い方", "shadow shade 違い", "cast a shadow", "shadow 例文"],
+    "meanings": [
+      { "hinshi": "【名詞】影（物の形にできる）", "note": "光が物にさえぎられてできる、物の形をした暗い部分。" },
+      { "hinshi": "【名詞】暗がり・陰", "note": "in the shadows（暗がりの中に）。" },
+      { "hinshi": "【動詞】こっそり尾行する・つきまとう", "note": "shadow a suspect（容疑者を尾行する）。" }
+    ],
+    "usages": [
+      { "title": "① 影を落とす（cast a shadow）", "desc": "「影を作る」「暗い影を落とす」を表す定番表現。", "example_en": "The tall building cast a long shadow.", "example_ja": "その高いビルは長い影を落とした。" },
+      { "title": "② 暗がり（in the shadows）", "desc": "複数形で「暗い場所・物陰」を表す。", "example_en": "Someone was waiting in the shadows.", "example_ja": "誰かが暗がりで待っていた。" },
+      { "title": "③ 尾行する（動詞）", "desc": "気づかれないように人のあとをつける。", "example_en": "The detective shadowed the man for hours.", "example_ja": "刑事はその男を何時間も尾行した。" }
+    ],
+    "warn": [
+      "shadow は「物の形をした影」、shade は「日陰・陰の領域」。混同しないこと",
+      "「影を落とす」は cast a shadow。make a shadow とは普通言わない"
+    ],
+    "etym_note": "古英語 sceadwe は sceadu（影・陰）の斜格形に由来し、shade と同じ語源を持つ。のちに「物の形をした影＝shadow」と「陰の領域＝shade」に意味が分化した。",
+    "etym_chain": [
+      { "node": "sceadu / sceadwe", "sub": "影・陰", "era": "古英語" },
+      { "node": "schadwe", "sub": "影", "era": "中英語" },
+      { "node": "shadow", "sub": "影", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "cast a shadow", "ja": "影を落とす" },
+      { "en": "in the shadows", "ja": "暗がりに・物陰に" },
+      { "en": "shadow puppet", "ja": "影絵" },
+      { "en": "without a shadow of a doubt", "ja": "一点の疑いもなく" },
+      { "en": "be a shadow of one's former self", "ja": "見る影もない" },
+      { "en": "eye shadow", "ja": "アイシャドウ" }
+    ],
+    "related": [
+      { "en": "shade", "ja": "日陰・色合い" },
+      { "en": "dark", "ja": "暗い・闇" },
+      { "en": "reflection", "ja": "反射・映った像" },
+      { "en": "shadowy", "ja": "影の多い・ぼんやりした" }
+    ],
+    "faq": [
+      { "q": "shadow と shade の違いは？", "a": "shadow は「物の形に沿ってできる影」、shade は「光がさえぎられた日陰・陰の領域」です。人や木の輪郭の影は shadow、涼しい木陰は shade です。" },
+      { "q": "「影を落とす」は英語でどう言う？", "a": "cast a shadow と言います。cast（投げかける）を使うのが定番です。" }
+    ],
+    "quiz": [
+      { "q": "\"The tree cast a long ___ on the ground.\" の空所に入るのは？", "A": "shadow", "B": "shade", "C": "shape", "D": "shake", "correct": "A" },
+      { "q": "「影を落とす」に合うのはどれ？", "A": "cast a shadow", "B": "make a shadow", "C": "do a shadow", "D": "take a shadow", "correct": "A" }
+    ]
+  },
+  {
+    "english": "shake",
+    "pron": "ʃeɪk",
+    "kana": "シェイク",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古英語 sceacan（振る・揺らす）",
+    "ld_level": "4級",
+    "badges": ["中学生〜", "英検4級", "CEFR A1", "基本語"],
+    "meaning_main": "振る ／ 揺れる ／ 握手する",
+    "description": "shake（シェイク）の意味は「振る・揺れる」。shake hands（握手する）の使い方、過去形 shook、語源、例文やクイズでわかりやすく解説。",
+    "keywords": ["shake 意味", "shake 使い方", "shake hands", "shake 過去形", "shake 例文"],
+    "meanings": [
+      { "hinshi": "【動詞】（物を）振る・揺さぶる", "note": "Shake the bottle well.（よく振ってください）。" },
+      { "hinshi": "【動詞】揺れる・震える", "note": "The ground shook during the earthquake.（地震で地面が揺れた）。" },
+      { "hinshi": "【動詞】握手する（shake hands）", "note": "あいさつや合意のしるしに手を握る。" },
+      { "hinshi": "【名詞】振ること・シェイク", "note": "a milk shake（ミルクセーキ）。" }
+    ],
+    "usages": [
+      { "title": "① 握手する（shake hands）", "desc": "「shake hands with ～」で「～と握手する」。hands は複数形。", "example_en": "They shook hands and smiled.", "example_ja": "彼らは握手して笑った。" },
+      { "title": "② 首を横に振る（shake one's head）", "desc": "「いいえ」や否定を表すしぐさ。", "example_en": "She shook her head and said no.", "example_ja": "彼女は首を横に振って「いいえ」と言った。" },
+      { "title": "③ 振る・揺さぶる（shake ～）", "desc": "瓶・木などを揺らす。", "example_en": "Don't shake the table.", "example_ja": "テーブルを揺らさないで。" }
+    ],
+    "warn": [
+      "過去形は shook（シュック）、過去分詞は shaken（シェイクン）。不規則変化に注意",
+      "「握手する」は shake hands。hands は必ず複数形にする"
+    ],
+    "etym_note": "古英語 sceacan は「振る・揺らす・急いで動く」を意味し、ゲルマン祖語 *skakaną に由来する。「すばやく前後に動かす」という基本義から「振る」「揺れる」「握手する」へと広がった。",
+    "etym_chain": [
+      { "node": "*skakaną", "sub": "振る・動かす", "era": "ゲルマン祖語" },
+      { "node": "sceacan", "sub": "振る・揺らす", "era": "古英語" },
+      { "node": "shake", "sub": "振る・揺れる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "shake hands", "ja": "握手する" },
+      { "en": "shake one's head", "ja": "首を横に振る" },
+      { "en": "shake off", "ja": "振り払う・払いのける" },
+      { "en": "shake up", "ja": "動揺させる・大改革する" },
+      { "en": "shake well", "ja": "よく振る" },
+      { "en": "milk shake", "ja": "ミルクセーキ" }
+    ],
+    "related": [
+      { "en": "tremble", "ja": "震える" },
+      { "en": "shiver", "ja": "（寒さ・恐怖で）震える" },
+      { "en": "wave", "ja": "（手を）振る・波" },
+      { "en": "vibrate", "ja": "振動する" }
+    ],
+    "faq": [
+      { "q": "shake の過去形は？", "a": "shook（シュック）です。過去分詞は shaken（シェイクン）で、不規則変化です（shake - shook - shaken）。" },
+      { "q": "「握手する」は英語でどう言う？", "a": "shake hands と言います。hands は複数形で、相手を示すときは shake hands with ～ とします。" }
+    ],
+    "quiz": [
+      { "q": "shake の過去形はどれ？", "A": "shaked", "B": "shook", "C": "shaken", "D": "shake", "correct": "B" },
+      { "q": "「彼らは握手した」に合うのはどれ？", "A": "They shook hands.", "B": "They shook hand.", "C": "They shake a hand.", "D": "They shaking hands.", "correct": "A" }
+    ]
+  },
+  {
+    "english": "shall",
+    "pron": "ʃæl",
+    "kana": "シャル",
+    "hinshi": "助動詞",
+    "ld_pos": "助動詞",
+    "ld_etym": "古英語 sceal（負っている・するべき）",
+    "ld_level": "4級",
+    "badges": ["中学生〜", "英検4級", "CEFR A2", "基本語"],
+    "meaning_main": "～しましょうか ／ ～しよう ／ ～するものとする",
+    "description": "shall（シャル）の意味と使い方。Shall I ～? / Shall we ～? の申し出・提案、will との違い、語源、例文やクイズでわかりやすく解説。",
+    "keywords": ["shall 意味", "shall 使い方", "Shall I", "Shall we", "shall will 違い"],
+    "meanings": [
+      { "hinshi": "【助動詞】Shall I ～?（～しましょうか）", "note": "相手のために何かを申し出るときの表現。" },
+      { "hinshi": "【助動詞】Shall we ～?（（一緒に）～しましょうか）", "note": "相手を誘う・提案するときの表現。" },
+      { "hinshi": "【助動詞】～するものとする（規則・契約）", "note": "法律や契約文で「義務」を表す堅い用法。" }
+    ],
+    "usages": [
+      { "title": "① ～しましょうか（Shall I ～?）", "desc": "相手のために何かしてあげると申し出る。", "example_en": "Shall I open the window?", "example_ja": "窓を開けましょうか？" },
+      { "title": "② （一緒に）～しましょうか（Shall we ～?）", "desc": "相手を誘うときの定番表現。", "example_en": "Shall we dance?", "example_ja": "踊りませんか？" },
+      { "title": "③ ～するものとする（規則・契約）", "desc": "契約・法律で「義務・規定」を表す。", "example_en": "The buyer shall pay within 30 days.", "example_ja": "買い手は30日以内に支払うものとする。" }
+    ],
+    "warn": [
+      "現代の日常英語では、未来を表す shall はあまり使わず will が一般的。shall は主に Shall I/we ～? の疑問文で使う",
+      "Shall we ～? の答えは Yes, let's. / No, let's not. が定番"
+    ],
+    "etym_note": "古英語 sceal は「負っている・するべきだ」という義務を表す語だった。中英語を経て、義務の意味から「～しましょう（申し出・意志）」へと広がった。should はこの shall の過去形にあたる。",
+    "etym_chain": [
+      { "node": "sceal", "sub": "負っている・するべき", "era": "古英語" },
+      { "node": "shal", "sub": "するべき・～しよう", "era": "中英語" },
+      { "node": "shall", "sub": "～しましょうか", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Shall I ～?", "ja": "（私が）～しましょうか" },
+      { "en": "Shall we ～?", "ja": "（一緒に）～しましょうか" },
+      { "en": "Shall we dance?", "ja": "踊りませんか" },
+      { "en": "Let's ～, shall we?", "ja": "～しましょう、ね？" },
+      { "en": "shall not (shan't)", "ja": "～しないだろう・してはならない" },
+      { "en": "what shall I do?", "ja": "どうしましょうか" }
+    ],
+    "related": [
+      { "en": "will", "ja": "～だろう・～するつもり" },
+      { "en": "should", "ja": "～すべき（shall の過去形）" },
+      { "en": "can", "ja": "～できる" },
+      { "en": "may", "ja": "～してもよい" }
+    ],
+    "faq": [
+      { "q": "shall と will の違いは？", "a": "現代英語では未来を表すのは主に will です。shall は Shall I ～?（～しましょうか）、Shall we ～?（一緒に～しましょうか）という申し出・提案の疑問文でよく使われます。" },
+      { "q": "Shall we ～? にはどう答える？", "a": "賛成なら Yes, let's.（そうしましょう）、断るなら No, let's not. が定番の答え方です。" }
+    ],
+    "quiz": [
+      { "q": "\"___ I carry your bag?\"（持ちましょうか）の空所に入るのは？", "A": "Shall", "B": "Will", "C": "Must", "D": "Do", "correct": "A" },
+      { "q": "\"Shall we go?\" への自然な答えはどれ？", "A": "Yes, let's.", "B": "Yes, I shall.", "C": "Yes, you do.", "D": "Yes, it is.", "correct": "A" }
+    ]
+  },
+  {
+    "english": "shame",
+    "pron": "ʃeɪm",
+    "kana": "シェイム",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 scamu（恥）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "頻出語"],
+    "meaning_main": "恥 ／ 恥ずかしさ ／ 残念なこと",
+    "description": "shame（シェイム）の意味は「恥・恥ずかしさ」。What a shame!（なんて残念な）の使い方、be ashamed との関係、語源、例文やクイズで解説。",
+    "keywords": ["shame 意味", "shame 使い方", "What a shame", "shame ashamed", "shame 例文"],
+    "meanings": [
+      { "hinshi": "【名詞】恥・恥ずかしさ", "note": "悪いことをしたときに感じる気持ち。feel shame（恥を感じる）。" },
+      { "hinshi": "【名詞】残念なこと・困ったこと", "note": "It's a shame ～（～は残念だ）。" },
+      { "hinshi": "【動詞】恥をかかせる", "note": "shame someone（人に恥をかかせる）。" }
+    ],
+    "usages": [
+      { "title": "① なんて残念な（What a shame!）", "desc": "「それは残念だ・気の毒に」を表す会話の定番表現。", "example_en": "You can't come? What a shame!", "example_ja": "来られないの？なんて残念！" },
+      { "title": "② ～は残念だ（It's a shame that ～）", "desc": "that 節で残念な内容を続ける。", "example_en": "It's a shame that he lost the game.", "example_ja": "彼が試合に負けたのは残念だ。" },
+      { "title": "③ 恥・恥ずかしさ（名詞）", "desc": "罪悪感や恥の感情を表す。", "example_en": "She felt no shame about it.", "example_ja": "彼女はそれについて恥とは思わなかった。" }
+    ],
+    "warn": [
+      "「恥ずかしい」と人を主語にするときは形容詞 ashamed を使う（I'm ashamed.）。shame は名詞・動詞",
+      "What a shame! は「恥」ではなく「なんて残念」の意味。文脈に注意"
+    ],
+    "etym_note": "古英語 scamu は「恥・恥ずかしさ」を意味し、ゲルマン祖語 *skamō に由来する。ドイツ語 Scham と同源。形容詞 ashamed（恥じている）もこの語から派生した。",
+    "etym_chain": [
+      { "node": "*skamō", "sub": "恥", "era": "ゲルマン祖語" },
+      { "node": "scamu", "sub": "恥・恥ずかしさ", "era": "古英語" },
+      { "node": "shame", "sub": "恥・残念なこと", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "What a shame!", "ja": "なんて残念！" },
+      { "en": "It's a shame.", "ja": "残念だ" },
+      { "en": "put ～ to shame", "ja": "～を恥じ入らせる・顔負けにする" },
+      { "en": "Shame on you!", "ja": "恥を知れ！" },
+      { "en": "feel shame", "ja": "恥を感じる" },
+      { "en": "without shame", "ja": "恥じることなく" }
+    ],
+    "related": [
+      { "en": "ashamed", "ja": "恥じている" },
+      { "en": "shameful", "ja": "恥ずべき" },
+      { "en": "embarrassed", "ja": "（きまり悪くて）恥ずかしい" },
+      { "en": "pride", "ja": "誇り・自尊心" }
+    ],
+    "faq": [
+      { "q": "What a shame! の意味は？", "a": "「なんて残念な！」「気の毒に」という意味です。「恥」ではなく、残念な気持ちを表す会話表現です。" },
+      { "q": "shame と ashamed の違いは？", "a": "shame は名詞・動詞で「恥・恥をかかせる」、ashamed は形容詞で「恥じている」です。人が主語のときは I'm ashamed of ～ のように ashamed を使います。" }
+    ],
+    "quiz": [
+      { "q": "\"You failed? What a ___!\"（なんて残念）の空所に入るのは？", "A": "shame", "B": "shy", "C": "shade", "D": "shape", "correct": "A" },
+      { "q": "「私は恥ずかしい」に合うのはどれ？", "A": "I'm ashamed.", "B": "I'm shame.", "C": "I'm shaming.", "D": "I shame.", "correct": "A" }
+    ]
+  },
+  {
+    "english": "shape",
+    "pron": "ʃeɪp",
+    "kana": "シェイプ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 gesceap（形・創造）",
+    "ld_level": "4級",
+    "badges": ["中学生〜", "英検4級", "CEFR A1", "基本語"],
+    "meaning_main": "形 ／ 体調 ／ 形づくる",
+    "description": "shape（シェイプ）の意味は「形・体調」。in good shape の使い方、form との違い、語源、例文やクイズでわかりやすく解説。",
+    "keywords": ["shape 意味", "shape 使い方", "in good shape", "shape form 違い", "shape 例文"],
+    "meanings": [
+      { "hinshi": "【名詞】形・形状", "note": "round shape（丸い形）など、物の外形を表す。" },
+      { "hinshi": "【名詞】体調・調子", "note": "in good shape（体調がよい・状態がよい）。" },
+      { "hinshi": "【動詞】形づくる・形成する", "note": "shape clay（粘土を形づくる）、shape one's future（将来を形づくる）。" }
+    ],
+    "usages": [
+      { "title": "① 調子がよい（in good shape）", "desc": "人の体調や物・組織の状態が良いことを表す。", "example_en": "She is in good shape after training.", "example_ja": "彼女はトレーニングのあと体調がよい。" },
+      { "title": "② ～の形をしている（in the shape of）", "desc": "「～の形をした」を表す。", "example_en": "The cake was in the shape of a heart.", "example_ja": "そのケーキはハートの形をしていた。" },
+      { "title": "③ 形づくる（動詞）", "desc": "物や考え・将来を作り上げる。", "example_en": "These experiences shaped his character.", "example_ja": "これらの経験が彼の人格を形づくった。" }
+    ],
+    "warn": [
+      "in good shape は「体調・状態がよい」、out of shape は「運動不足で体がなまっている・調子が悪い」",
+      "shape は目に見える「形・外形」、form はより広く「形・形式・書式」も表す"
+    ],
+    "etym_note": "古英語 gesceap は「形・創造・つくられたもの」を意味し、動詞 scieppan（つくる）に由来する。「つくられた結果＝形」から、現代では「形」「形づくる」の両方の意味で使われる。",
+    "etym_chain": [
+      { "node": "scieppan", "sub": "つくる", "era": "古英語" },
+      { "node": "gesceap", "sub": "形・創造", "era": "古英語" },
+      { "node": "shape", "sub": "形・形づくる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "in good shape", "ja": "体調・状態がよい" },
+      { "en": "out of shape", "ja": "運動不足の・調子が悪い" },
+      { "en": "in the shape of", "ja": "～の形をした" },
+      { "en": "take shape", "ja": "形になる・具体化する" },
+      { "en": "shape up", "ja": "ちゃんとする・調子を整える" },
+      { "en": "all shapes and sizes", "ja": "いろいろな形と大きさの" }
+    ],
+    "related": [
+      { "en": "form", "ja": "形・形式" },
+      { "en": "figure", "ja": "形・姿・数字" },
+      { "en": "outline", "ja": "輪郭・概要" },
+      { "en": "shapeless", "ja": "形のない・不格好な" }
+    ],
+    "faq": [
+      { "q": "in good shape の意味は？", "a": "「体調がよい」「（物や組織の）状態がよい」という意味です。反対は out of shape（運動不足・調子が悪い）です。" },
+      { "q": "shape と form の違いは？", "a": "shape は目に見える「形・外形」を指します。form はより広く、形だけでなく「形式・書式・種類」なども表します。" }
+    ],
+    "quiz": [
+      { "q": "\"He stays in good ___ by jogging.\" の空所に入るのは？", "A": "shape", "B": "shade", "C": "shame", "D": "shake", "correct": "A" },
+      { "q": "「ハートの形をした」に合うのはどれ？", "A": "in the shape of a heart", "B": "in the shade of a heart", "C": "in the shame of a heart", "D": "in the shake of a heart", "correct": "A" }
+    ]
+  },
+  {
+    "english": "share",
+    "pron": "ʃeər",
+    "kana": "シェア",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古英語 scearu（分け前・区分）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "頻出語"],
+    "meaning_main": "共有する ／ 分け合う ／ 分け前・シェア",
+    "description": "share（シェア）の意味は「共有する・分け合う」。share with の使い方、SNSの「シェア」、語源、例文やクイズでわかりやすく解説。",
+    "keywords": ["share 意味", "share 使い方", "share with", "share 共有", "share 例文"],
+    "meanings": [
+      { "hinshi": "【動詞】共有する・分け合う", "note": "share a room（部屋を共有する）、share food（食べ物を分け合う）。" },
+      { "hinshi": "【動詞】（情報・気持ちを）伝える・共有する", "note": "share an opinion（意見を伝える）。SNSの「シェア」もこれ。" },
+      { "hinshi": "【名詞】分け前・取り分", "note": "my share of the bill（私の支払い分）。" },
+      { "hinshi": "【名詞】株・市場占有率", "note": "market share（市場シェア）、buy shares（株を買う）。" }
+    ],
+    "usages": [
+      { "title": "① ～と分け合う（share with）", "desc": "「だれと共有・分け合うか」を with で示す。", "example_en": "She shared her lunch with me.", "example_ja": "彼女は昼食を私と分け合った。" },
+      { "title": "② 共有する（share a ～）", "desc": "部屋・タクシー・趣味などを共同で使う・持つ。", "example_en": "We share a room.", "example_ja": "私たちは部屋を共有している。" },
+      { "title": "③ 分け前・取り分（名詞）", "desc": "「自分の取り分・負担分」を表す。", "example_en": "Everyone paid their share.", "example_ja": "全員が自分の分を払った。" }
+    ],
+    "warn": [
+      "「～と分け合う」は share ～ with 人。to ではなく with を使う",
+      "名詞の share は「分け前」のほか「株」の意味もある（buy shares＝株を買う）"
+    ],
+    "etym_note": "古英語 scearu は「分け前・区分」を意味し、shear（刈る・切る）と同根で「切り分けたもの」という発想に基づく。「分けたもの＝分け前」から「分け合う・共有する」という動詞の意味が生まれた。",
+    "etym_chain": [
+      { "node": "scearu", "sub": "分け前・区分", "era": "古英語" },
+      { "node": "share", "sub": "分け前", "era": "中英語" },
+      { "node": "share", "sub": "共有する・分け合う", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "share with", "ja": "～と分け合う・共有する" },
+      { "en": "share a room", "ja": "部屋を共有する" },
+      { "en": "fair share", "ja": "公平な分け前" },
+      { "en": "market share", "ja": "市場シェア" },
+      { "en": "share information", "ja": "情報を共有する" },
+      { "en": "do one's share", "ja": "自分の役割を果たす" }
+    ],
+    "related": [
+      { "en": "divide", "ja": "分ける・分割する" },
+      { "en": "split", "ja": "（費用などを）分け合う・割る" },
+      { "en": "portion", "ja": "部分・一人前" },
+      { "en": "stock", "ja": "株・在庫" }
+    ],
+    "faq": [
+      { "q": "「～と分け合う」は英語でどう言う？", "a": "share ～ with 人 と言います。前置詞は to ではなく with を使います（share my cake with you）。" },
+      { "q": "share に「株」の意味もあるの？", "a": "はい。名詞の share には「株（式）」の意味があり、buy shares（株を買う）、market share（市場シェア）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "\"I'll share my umbrella ___ you.\" の空所に入るのは？", "A": "with", "B": "to", "C": "for", "D": "of", "correct": "A" },
+      { "q": "「市場シェア」を表すのはどれ？", "A": "market share", "B": "market shade", "C": "market shape", "D": "market shame", "correct": "A" }
+    ]
+  }
+]
