@@ -1,0 +1,550 @@
+[
+  {
+    "english": "shower",
+    "pron": "ˈʃaʊər",
+    "kana": "シャワー",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 scūr（にわか雨）",
+    "ld_level": "4級",
+    "badges": ["中学生〜", "英検4級", "CEFR A1", "基本語"],
+    "meaning_main": "シャワー ／ にわか雨 ／ シャワーを浴びる",
+    "description": "shower（シャワー）の意味は「シャワー・にわか雨」。take a shower の使い方、rain との違い、語源、例文やクイズでわかりやすく解説。",
+    "keywords": ["shower 意味", "shower 使い方", "take a shower", "shower にわか雨", "shower 例文"],
+    "meanings": [
+      { "hinshi": "【名詞】シャワー", "note": "take a shower（シャワーを浴びる）。" },
+      { "hinshi": "【名詞】にわか雨・夕立", "note": "短時間でやむ雨。a rain shower。" },
+      { "hinshi": "【動詞】シャワーを浴びる／浴びせる", "note": "shower（シャワーを浴びる）、shower ～ with（～を浴びせる）。" }
+    ],
+    "usages": [
+      { "title": "① シャワーを浴びる（take a shower）", "desc": "「シャワーを浴びる」は take/have a shower。", "example_en": "I take a shower every morning.", "example_ja": "私は毎朝シャワーを浴びる。" },
+      { "title": "② にわか雨（名詞）", "desc": "短時間で降ってやむ雨。", "example_en": "We had a sudden shower in the afternoon.", "example_ja": "午後に急なにわか雨があった。" },
+      { "title": "③ ～を浴びせる（shower with）", "desc": "贈り物・称賛などをたくさん与える。", "example_en": "They showered her with gifts.", "example_ja": "彼らは彼女に贈り物をたくさん贈った。" }
+    ],
+    "warn": [
+      "「シャワーを浴びる」は take a shower（米）/ have a shower（英）。do a shower とは言わない",
+      "shower は短時間の「にわか雨」。長く降る雨は rain"
+    ],
+    "etym_note": "古英語 scūr は「にわか雨・ひとしきりの降り」を意味し、ゲルマン祖語 *skūrō に由来する。「短時間に降り注ぐもの」という発想から、のちに水を浴びる「シャワー」の意味が加わった。",
+    "etym_chain": [
+      { "node": "*skūrō", "sub": "にわか雨", "era": "ゲルマン祖語" },
+      { "node": "scūr", "sub": "にわか雨", "era": "古英語" },
+      { "node": "shower", "sub": "シャワー・にわか雨", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "take a shower", "ja": "シャワーを浴びる" },
+      { "en": "have a shower", "ja": "シャワーを浴びる（英）" },
+      { "en": "a rain shower", "ja": "にわか雨" },
+      { "en": "a meteor shower", "ja": "流星群" },
+      { "en": "shower ～ with", "ja": "～に…を浴びせる" },
+      { "en": "a baby shower", "ja": "出産祝いパーティー" }
+    ],
+    "related": [
+      { "en": "rain", "ja": "雨" },
+      { "en": "bath", "ja": "入浴・浴槽" },
+      { "en": "wash", "ja": "洗う" },
+      { "en": "drizzle", "ja": "霧雨" }
+    ],
+    "faq": [
+      { "q": "「シャワーを浴びる」は英語でどう言う？", "a": "take a shower（アメリカ英語）または have a shower（イギリス英語）と言います。do a shower とは言いません。" },
+      { "q": "shower と rain の違いは？", "a": "shower は「短時間で降ってやむにわか雨」、rain は「雨」全般を指します。a meteor shower は「流星群」です。" }
+    ],
+    "quiz": [
+      { "q": "\"I ___ a shower before breakfast.\" の空所に入るのは？", "A": "take", "B": "do", "C": "make", "D": "play", "correct": "A" },
+      { "q": "「にわか雨」を表すのはどれ？", "A": "a rain shower", "B": "a heavy rain", "C": "a shower bath", "D": "a wash rain", "correct": "A" }
+    ]
+  },
+  {
+    "english": "shut",
+    "pron": "ʃʌt",
+    "kana": "シャット",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古英語 scyttan（閉じる・かんぬきをかける）",
+    "ld_level": "4級",
+    "badges": ["中学生〜", "英検4級", "CEFR A2", "基本語"],
+    "meaning_main": "閉じる ／ 閉める ／ 閉店する",
+    "description": "shut（シャット）の意味は「閉じる・閉める」。過去形も shut の無変化、close との違い、shut up / shut down の使い方、語源、例文やクイズで解説。",
+    "keywords": ["shut 意味", "shut 使い方", "shut close 違い", "shut 過去形", "shut up"],
+    "meanings": [
+      { "hinshi": "【動詞】閉じる・閉める", "note": "shut the door（ドアを閉める）。close とほぼ同じ。" },
+      { "hinshi": "【動詞】（店・施設が）閉まる・閉店する", "note": "The shop is shut.（店は閉まっている）。" }
+    ],
+    "usages": [
+      { "title": "① 閉める（shut ～）", "desc": "ドア・窓・目・口などを閉じる。", "example_en": "Please shut the window.", "example_ja": "窓を閉めてください。" },
+      { "title": "② 過去形も shut（無変化）", "desc": "原形・過去形・過去分詞すべて shut。", "example_en": "She shut the door quietly.", "example_ja": "彼女は静かにドアを閉めた。" },
+      { "title": "③ 句動詞（shut up / down）", "desc": "shut up（黙る）、shut down（閉鎖する・電源を切る）。", "example_en": "Please shut down the computer.", "example_ja": "コンピューターの電源を切ってください。" }
+    ],
+    "warn": [
+      "過去形・過去分詞も shut（無変化）。put, cut と同じパターン",
+      "shut up は「黙れ」と命令だと失礼な口調。close より shut のほうがやや強い・口語的"
+    ],
+    "etym_note": "古英語 scyttan は「閉じる・かんぬき（shot＝差し込む棒）をかける」を意味し、shoot（突き出す）と語源を共有する。「棒を差し込んで戸締まりする」という発想から「閉じる」の意味になった。",
+    "etym_chain": [
+      { "node": "scēotan", "sub": "突き出す・差し込む", "era": "古英語" },
+      { "node": "scyttan", "sub": "かんぬきをかける・閉じる", "era": "古英語" },
+      { "node": "shut", "sub": "閉じる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "shut the door", "ja": "ドアを閉める" },
+      { "en": "shut up", "ja": "黙る・黙れ" },
+      { "en": "shut down", "ja": "閉鎖する・電源を切る" },
+      { "en": "shut out", "ja": "締め出す・完封する" },
+      { "en": "shut off", "ja": "（水・ガスなどを）止める" },
+      { "en": "keep one's eyes shut", "ja": "目を閉じたままにする" }
+    ],
+    "related": [
+      { "en": "close", "ja": "閉じる・閉める" },
+      { "en": "open", "ja": "開ける・開く" },
+      { "en": "lock", "ja": "鍵をかける" },
+      { "en": "seal", "ja": "密封する" }
+    ],
+    "faq": [
+      { "q": "shut の過去形は？", "a": "shut です。原形・過去形・過去分詞すべて shut で変化しません（put や cut と同じ無変化動詞です）。" },
+      { "q": "shut と close の違いは？", "a": "意味はほぼ同じですが、shut のほうがやや口語的で強い響きがあります。標識などのていねいな表示には closed がよく使われます。" }
+    ],
+    "quiz": [
+      { "q": "shut の過去形はどれ？", "A": "shutted", "B": "shut", "C": "shuts", "D": "shot", "correct": "B" },
+      { "q": "「コンピューターの電源を切る」に合う句動詞はどれ？", "A": "shut down", "B": "shut up", "C": "shut out", "D": "shut off", "correct": "A" }
+    ]
+  },
+  {
+    "english": "shy",
+    "pron": "ʃaɪ",
+    "kana": "シャイ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "古英語 scēoh（おびえた・用心深い）",
+    "ld_level": "4級",
+    "badges": ["中学生〜", "英検4級", "CEFR A2", "基本語"],
+    "meaning_main": "恥ずかしがりの ／ 内気な ／ 臆病な",
+    "description": "shy（シャイ）の意味は「恥ずかしがりの・内気な」。be shy の使い方、shy と embarrassed の違い、語源、例文やクイズでわかりやすく解説。",
+    "keywords": ["shy 意味", "shy 使い方", "shy 内気", "shy embarrassed 違い", "shy 例文"],
+    "meanings": [
+      { "hinshi": "【形容詞】恥ずかしがりの・内気な", "note": "人前で緊張しがちな性格を表す。" },
+      { "hinshi": "【形容詞】（動物が）おびえやすい・用心深い", "note": "a shy animal（用心深い動物）。" }
+    ],
+    "usages": [
+      { "title": "① 内気だ（be shy）", "desc": "性格を表す。a shy boy のように名詞の前にも置く。", "example_en": "He is too shy to speak in public.", "example_ja": "彼は内気すぎて人前で話せない。" },
+      { "title": "② ～を恥ずかしがる（be shy of / about）", "desc": "「～を気おくれする」を表す。", "example_en": "She is shy about singing in front of others.", "example_ja": "彼女は人前で歌うのを恥ずかしがる。" },
+      { "title": "③ 用心深い（動物など）", "desc": "おびえて近づかない様子。", "example_en": "Wild deer are very shy.", "example_ja": "野生のシカはとても用心深い。" }
+    ],
+    "warn": [
+      "shy は「（性格として）内気な」、embarrassed は「（その場で）きまり悪い・恥ずかしい」。状況で使い分ける",
+      "比較級は shyer / shier、最上級は shyest / shiest（どちらの綴りも使われる）"
+    ],
+    "etym_note": "古英語 scēoh は「おびえた・用心深い」を意味し、ゲルマン祖語 *skeuhwaz に由来する。ドイツ語 scheu（臆病な）と同源。「おびえて身を引く」という意味から、「内気な・恥ずかしがりの」へと広がった。",
+    "etym_chain": [
+      { "node": "*skeuhwaz", "sub": "おびえた", "era": "ゲルマン祖語" },
+      { "node": "scēoh", "sub": "おびえた・用心深い", "era": "古英語" },
+      { "node": "shy", "sub": "内気な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be shy", "ja": "内気だ・恥ずかしがる" },
+      { "en": "a shy smile", "ja": "はにかんだ笑み" },
+      { "en": "shy away from", "ja": "～を避ける・尻込みする" },
+      { "en": "camera-shy", "ja": "写真に撮られるのを嫌がる" },
+      { "en": "don't be shy", "ja": "遠慮しないで" },
+      { "en": "painfully shy", "ja": "ひどく内気な" }
+    ],
+    "related": [
+      { "en": "timid", "ja": "おどおどした・臆病な" },
+      { "en": "embarrassed", "ja": "きまり悪い・恥ずかしい" },
+      { "en": "bold", "ja": "大胆な" },
+      { "en": "outgoing", "ja": "社交的な" }
+    ],
+    "faq": [
+      { "q": "shy と embarrassed の違いは？", "a": "shy は「（生まれつき）内気な・恥ずかしがりの性格」、embarrassed は「（失敗などで）その場できまり悪い・恥ずかしい」という一時的な気持ちです。" },
+      { "q": "shy away from の意味は？", "a": "「～を避ける・尻込みする」という意味です。He shies away from responsibility.（彼は責任を避ける）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "\"She is too ___ to talk to strangers.\"（内気）の空所に入るのは？", "A": "shy", "B": "shiny", "C": "sharp", "D": "shut", "correct": "A" },
+      { "q": "「遠慮しないで」に合うのはどれ？", "A": "Don't be shy.", "B": "Don't be short.", "C": "Don't be shy away.", "D": "Be shy.", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sick",
+    "pron": "sɪk",
+    "kana": "シック",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "古英語 sēoc（病気の）",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "基本語"],
+    "meaning_main": "病気の ／ 吐き気がする ／ うんざりして",
+    "description": "sick（シック）の意味は「病気の・吐き気がする」。be sick と ill の違い、be sick of（うんざり）の使い方、語源、例文やクイズで解説。",
+    "keywords": ["sick 意味", "sick 使い方", "sick ill 違い", "be sick of", "sick 例文"],
+    "meanings": [
+      { "hinshi": "【形容詞】病気の・具合が悪い", "note": "be sick / get sick（病気になる）。" },
+      { "hinshi": "【形容詞】吐き気がする", "note": "feel sick（気持ちが悪い・吐きそう）。" },
+      { "hinshi": "【形容詞】（～に）うんざりして", "note": "be sick of ～（～にうんざりだ）。" }
+    ],
+    "usages": [
+      { "title": "① 病気だ（be sick）", "desc": "「具合が悪い・病気だ」を表す。", "example_en": "She is sick and stayed home.", "example_ja": "彼女は具合が悪くて家にいた。" },
+      { "title": "② うんざりだ（be sick of）", "desc": "「～に飽き飽きしている」を表す。", "example_en": "I'm sick of waiting.", "example_ja": "待つのにうんざりだ。" },
+      { "title": "③ 吐き気がする（feel sick）", "desc": "「気持ち悪い・吐きそう」を表す。", "example_en": "I feel sick after the long bus ride.", "example_ja": "長いバス移動のあと気分が悪い。" }
+    ],
+    "warn": [
+      "アメリカでは sick が「病気の」一般。イギリスでは ill が「病気の」、be sick は「吐く」の意味になりやすい",
+      "be sick of ～ は「～にうんざり」。前置詞 of に注意"
+    ],
+    "etym_note": "古英語 sēoc は「病気の」を意味し、ゲルマン祖語 *seukaz に由来する。ドイツ語 siech と同源。基本義「病んでいる」から、「吐き気がする」「（精神的に）うんざりする」へと意味が広がった。",
+    "etym_chain": [
+      { "node": "*seukaz", "sub": "病気の", "era": "ゲルマン祖語" },
+      { "node": "sēoc", "sub": "病気の", "era": "古英語" },
+      { "node": "sick", "sub": "病気の・吐き気がする", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be sick", "ja": "病気だ／（英）吐く" },
+      { "en": "feel sick", "ja": "気分が悪い・吐きそう" },
+      { "en": "get sick", "ja": "病気になる" },
+      { "en": "be sick of", "ja": "～にうんざりだ" },
+      { "en": "call in sick", "ja": "病欠の連絡をする" },
+      { "en": "carsick / seasick", "ja": "車酔い／船酔いの" }
+    ],
+    "related": [
+      { "en": "ill", "ja": "病気の" },
+      { "en": "healthy", "ja": "健康な" },
+      { "en": "disease", "ja": "病気" },
+      { "en": "sickness", "ja": "病気・吐き気" }
+    ],
+    "faq": [
+      { "q": "sick と ill の違いは？", "a": "アメリカ英語では sick が「病気の」一般です。イギリス英語では ill が「病気の」を表し、be sick は「吐く」の意味になりやすいです。" },
+      { "q": "be sick of の意味は？", "a": "「～にうんざりだ・飽き飽きしている」という意味です。I'm sick of this rain.（この雨にはうんざりだ）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "\"I'm ___ of waiting for the bus.\"（うんざり）の空所に入るのは？", "A": "sick", "B": "shy", "C": "sharp", "D": "short", "correct": "A" },
+      { "q": "「病欠の連絡をする」に合うのはどれ？", "A": "call in sick", "B": "feel sick", "C": "get sick", "D": "be sick of", "correct": "A" }
+    ]
+  },
+  {
+    "english": "side",
+    "pron": "saɪd",
+    "kana": "サイド",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 sīde（側・脇腹）",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "基本語"],
+    "meaning_main": "側 ／ 横 ／ 味方・側面",
+    "description": "side（サイド）の意味は「側・横・味方」。side by side の使い方、on the other side、take sides、語源、例文やクイズで解説。",
+    "keywords": ["side 意味", "side 使い方", "side by side", "on the other side", "side 例文"],
+    "meanings": [
+      { "hinshi": "【名詞】側・横・わき", "note": "the left side（左側）、by my side（私のそばに）。" },
+      { "hinshi": "【名詞】（物事の）面・側面", "note": "the bright side（明るい面）。" },
+      { "hinshi": "【名詞】（争い・試合の）側・味方", "note": "take sides（どちらかに味方する）。" }
+    ],
+    "usages": [
+      { "title": "① 並んで（side by side）", "desc": "「横に並んで」を表す定番表現。", "example_en": "They sat side by side.", "example_ja": "彼らは並んで座った。" },
+      { "title": "② 反対側に（on the other side）", "desc": "「向こう側に」を表す。", "example_en": "The store is on the other side of the street.", "example_ja": "その店は通りの向こう側にある。" },
+      { "title": "③ 味方する（take sides）", "desc": "どちらかの立場につく。", "example_en": "Don't take sides in their argument.", "example_ja": "彼らの口論でどちらかに味方しないで。" }
+    ],
+    "warn": [
+      "「～のそばに」は by one's side、「～の側に」は on the side of。前置詞に注意",
+      "side には「面・観点」「味方」の意味もある（look on the bright side＝明るい面を見る）"
+    ],
+    "etym_note": "古英語 sīde は「側・脇腹」を意味し、ゲルマン祖語 *sīdō に由来する。ドイツ語 Seite と同源。「体の横＝脇腹」から、「物の側面」「立場・味方」へと意味が広がった。",
+    "etym_chain": [
+      { "node": "*sīdō", "sub": "側・脇腹", "era": "ゲルマン祖語" },
+      { "node": "sīde", "sub": "側・脇腹", "era": "古英語" },
+      { "node": "side", "sub": "側・面・味方", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "side by side", "ja": "並んで" },
+      { "en": "on the other side", "ja": "反対側に" },
+      { "en": "by one's side", "ja": "～のそばに" },
+      { "en": "take sides", "ja": "どちらかに味方する" },
+      { "en": "the bright side", "ja": "明るい面・良い面" },
+      { "en": "side effect", "ja": "副作用" }
+    ],
+    "related": [
+      { "en": "edge", "ja": "縁・端" },
+      { "en": "corner", "ja": "角・隅" },
+      { "en": "face", "ja": "面・表面" },
+      { "en": "beside", "ja": "～のそばに" }
+    ],
+    "faq": [
+      { "q": "side by side の意味は？", "a": "「（横に）並んで」という意味です。They walked side by side.（彼らは並んで歩いた）のように使います。" },
+      { "q": "take sides の意味は？", "a": "「（争いで）どちらかに味方する・肩を持つ」という意味です。take someone's side で「～の味方をする」となります。" }
+    ],
+    "quiz": [
+      { "q": "\"They walked ___ by ___.\"（並んで）の空所に入るのは？", "A": "side / side", "B": "step / step", "C": "hand / hand", "D": "face / face", "correct": "A" },
+      { "q": "「副作用」を表すのはどれ？", "A": "side effect", "B": "side by side", "C": "bright side", "D": "other side", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sight",
+    "pron": "saɪt",
+    "kana": "サイト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 gesiht（見ること・視覚）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "頻出語"],
+    "meaning_main": "視力 ／ 光景 ／ 見ること",
+    "description": "sight（サイト）の意味は「視力・光景・見ること」。out of sight の使い方、site（場所）との違い、語源、例文やクイズでわかりやすく解説。",
+    "keywords": ["sight 意味", "sight 使い方", "sight site 違い", "out of sight", "sight 例文"],
+    "meanings": [
+      { "hinshi": "【名詞】視力・視覚", "note": "lose one's sight（視力を失う）。" },
+      { "hinshi": "【名詞】見ること・見えること", "note": "at first sight（一目で）、in sight（見えて）。" },
+      { "hinshi": "【名詞】光景・眺め／（複数で）名所", "note": "a beautiful sight（美しい光景）、see the sights（観光する）。" }
+    ],
+    "usages": [
+      { "title": "① 見えなくなる（out of sight）", "desc": "「見えない所に」を表す。反対は in sight。", "example_en": "The ship sailed out of sight.", "example_ja": "船は見えなくなるまで進んでいった。" },
+      { "title": "② 一目で（at first sight）", "desc": "「ひと目見て」を表す。love at first sight（一目ぼれ）。", "example_en": "It was love at first sight.", "example_ja": "それは一目ぼれだった。" },
+      { "title": "③ 観光する（see the sights）", "desc": "複数形 sights は「名所」を表す。", "example_en": "We saw the sights of Kyoto.", "example_ja": "私たちは京都の名所を見て回った。" }
+    ],
+    "warn": [
+      "sight（視力・光景）と site（場所・敷地・サイト）は同音異義語。つづりと意味に注意",
+      "複数形 sights は「名所」。sightseeing は「観光」"
+    ],
+    "etym_note": "古英語 gesiht は「見ること・視覚」を意味し、動詞 sēon（見る、現代の see）に由来する。「見る働き・見えるもの」から、「視力」「光景」「名所」へと意味が広がった。",
+    "etym_chain": [
+      { "node": "sēon", "sub": "見る", "era": "古英語" },
+      { "node": "gesiht", "sub": "見ること・視覚", "era": "古英語" },
+      { "node": "sight", "sub": "視力・光景", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "out of sight", "ja": "見えない所に" },
+      { "en": "in sight", "ja": "見える所に・間近に" },
+      { "en": "at first sight", "ja": "一目で・一見して" },
+      { "en": "lose sight of", "ja": "～を見失う" },
+      { "en": "see the sights", "ja": "観光する・名所を見る" },
+      { "en": "catch sight of", "ja": "～をふと見かける" }
+    ],
+    "related": [
+      { "en": "site", "ja": "場所・敷地・サイト" },
+      { "en": "view", "ja": "眺め・見方" },
+      { "en": "scene", "ja": "場面・光景" },
+      { "en": "vision", "ja": "視力・先見の明" }
+    ],
+    "faq": [
+      { "q": "sight と site の違いは？", "a": "sight は「視力・光景・見ること」、site は「場所・敷地・（ウェブ）サイト」です。発音が同じ同音異義語なので、文脈とつづりで区別します。" },
+      { "q": "at first sight の意味は？", "a": "「一目で・一見して」という意味です。love at first sight で「一目ぼれ」になります。" }
+    ],
+    "quiz": [
+      { "q": "\"The plane flew ___ of sight.\"（見えなく）の空所に入るのは？", "A": "out", "B": "in", "C": "on", "D": "at", "correct": "A" },
+      { "q": "「一目ぼれ」に合うのはどれ？", "A": "love at first sight", "B": "love at first site", "C": "love out of sight", "D": "love in sight", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sign",
+    "pron": "saɪn",
+    "kana": "サイン",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 signum（しるし・標識）",
+    "ld_level": "4級",
+    "badges": ["中学生〜", "英検4級", "CEFR A2", "基本語"],
+    "meaning_main": "標識 ／ しるし ／ 署名する",
+    "description": "sign（サイン）の意味は「標識・しるし・署名する」。日本語の「サイン（有名人の）」は autograph、署名は signature との違いを語源・例文・クイズで解説。",
+    "keywords": ["sign 意味", "sign 使い方", "sign autograph 違い", "sign 署名", "sign 例文"],
+    "meanings": [
+      { "hinshi": "【名詞】標識・看板", "note": "a road sign（道路標識）、a stop sign。" },
+      { "hinshi": "【名詞】しるし・きざし・合図", "note": "a sign of spring（春のきざし）。" },
+      { "hinshi": "【動詞】署名する・サインする", "note": "sign a contract（契約書に署名する）。" }
+    ],
+    "usages": [
+      { "title": "① 署名する（sign）", "desc": "書類・契約書に名前を書く。", "example_en": "Please sign here.", "example_ja": "ここに署名してください。" },
+      { "title": "② 標識・看板（名詞）", "desc": "情報を示す表示。", "example_en": "The sign says 'No Parking'.", "example_ja": "標識には「駐車禁止」と書いてある。" },
+      { "title": "③ きざし・しるし（a sign of）", "desc": "何かの前ぶれや証拠。", "example_en": "Dark clouds are a sign of rain.", "example_ja": "黒い雲は雨のきざしだ。" }
+    ],
+    "warn": [
+      "有名人の「サイン」は autograph。書類への署名は signature。動詞 sign は「署名する」",
+      "sign の g は発音しない（サイン /saɪn/）。派生語 signal, signature では g を発音する"
+    ],
+    "etym_note": "ラテン語 signum は「しるし・標識・合図」を意味した。古フランス語 signe を経て英語に入り、「しるし・標識」の名詞と「署名する（しるしをつける）」の動詞の両方で使われるようになった。",
+    "etym_chain": [
+      { "node": "signum", "sub": "しるし・標識", "era": "ラテン語" },
+      { "node": "signe", "sub": "しるし", "era": "古フランス語" },
+      { "node": "sign", "sub": "標識・署名する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "sign here", "ja": "ここに署名する" },
+      { "en": "a road sign", "ja": "道路標識" },
+      { "en": "a sign of", "ja": "～のしるし・きざし" },
+      { "en": "sign up", "ja": "申し込む・登録する" },
+      { "en": "sign in / out", "ja": "サインインする／サインアウトする" },
+      { "en": "sign language", "ja": "手話" }
+    ],
+    "related": [
+      { "en": "signal", "ja": "信号・合図" },
+      { "en": "signature", "ja": "署名" },
+      { "en": "autograph", "ja": "（有名人の）サイン" },
+      { "en": "mark", "ja": "しるし・印" }
+    ],
+    "faq": [
+      { "q": "有名人の「サイン」は英語で sign？", "a": "いいえ。有名人のサインは autograph です。書類への署名は signature、動詞「署名する」は sign です。" },
+      { "q": "sign up の意味は？", "a": "「申し込む・登録する・入会する」という意味の句動詞です。sign up for a course（講座に申し込む）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "\"Please ___ your name here.\"（署名する）の空所に入るのは？", "A": "sign", "B": "signal", "C": "signature", "D": "autograph", "correct": "A" },
+      { "q": "「講座に申し込む」に合う句動詞はどれ？", "A": "sign up for", "B": "sign in", "C": "sign out", "D": "sign of", "correct": "A" }
+    ]
+  },
+  {
+    "english": "signal",
+    "pron": "ˈsɪɡnəl",
+    "kana": "シグナル",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 signum（しるし）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "頻出語"],
+    "meaning_main": "信号 ／ 合図 ／ 合図する",
+    "description": "signal（シグナル）の意味は「信号・合図」。traffic signal の使い方、sign との違い、語源、例文やクイズでわかりやすく解説。",
+    "keywords": ["signal 意味", "signal 使い方", "signal sign 違い", "traffic signal", "signal 例文"],
+    "meanings": [
+      { "hinshi": "【名詞】信号・合図", "note": "give a signal（合図する）、a traffic signal（交通信号）。" },
+      { "hinshi": "【名詞】（電波・通信の）信号", "note": "a weak signal（電波が弱い）。" },
+      { "hinshi": "【動詞】合図する・知らせる", "note": "signal to someone（人に合図する）。" }
+    ],
+    "usages": [
+      { "title": "① 合図する（signal）", "desc": "身ぶり・音などで知らせる。", "example_en": "He signaled to me to stop.", "example_ja": "彼は私に止まるよう合図した。" },
+      { "title": "② 信号・電波（名詞）", "desc": "交通信号や通信の電波を表す。", "example_en": "The phone signal is weak here.", "example_ja": "ここは電波が弱い。" },
+      { "title": "③ きざし・前兆（signal of）", "desc": "「～のしるし・前兆」を表す。", "example_en": "Rising prices are a signal of inflation.", "example_ja": "物価上昇はインフレの前兆だ。" }
+    ],
+    "warn": [
+      "sign は「標識・しるし」全般、signal は「（動きや音などで伝える）合図・信号・電波」。signal は g を発音する",
+      "つづりは signal（×signel）。動詞の過去形は signaled / signalled"
+    ],
+    "etym_note": "ラテン語 signum（しるし）の派生形 signalis（しるしの）に由来し、sign と語源を共有する。「しるしによって伝えるもの＝合図・信号」の意味で英語に入った。",
+    "etym_chain": [
+      { "node": "signum", "sub": "しるし", "era": "ラテン語" },
+      { "node": "signalis", "sub": "しるしの", "era": "後期ラテン語" },
+      { "node": "signal", "sub": "信号・合図", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "give a signal", "ja": "合図する" },
+      { "en": "a traffic signal", "ja": "交通信号" },
+      { "en": "a weak signal", "ja": "弱い電波・信号" },
+      { "en": "a warning signal", "ja": "警告信号" },
+      { "en": "send a signal", "ja": "信号を送る・意思表示する" },
+      { "en": "signal for help", "ja": "助けを求める合図をする" }
+    ],
+    "related": [
+      { "en": "sign", "ja": "標識・しるし" },
+      { "en": "gesture", "ja": "身ぶり・ジェスチャー" },
+      { "en": "indicate", "ja": "示す・指し示す" },
+      { "en": "wave", "ja": "（手を）振る・合図する" }
+    ],
+    "faq": [
+      { "q": "sign と signal の違いは？", "a": "sign は「標識・しるし」全般、signal は「動きや音・電波で伝える合図・信号」です。signal は sign と違って g を発音します。" },
+      { "q": "signal は動詞でも使える？", "a": "はい。「合図する・知らせる」という意味の動詞でも使います。He signaled to her to come.（彼は彼女に来るよう合図した）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "\"The driver gave a ___ to turn left.\"（合図）の空所に入るのは？", "A": "signal", "B": "sign", "C": "signature", "D": "sight", "correct": "A" },
+      { "q": "「交通信号」を表すのはどれ？", "A": "a traffic signal", "B": "a traffic sign", "C": "a traffic sight", "D": "a traffic site", "correct": "A" }
+    ]
+  },
+  {
+    "english": "silence",
+    "pron": "ˈsaɪləns",
+    "kana": "サイレンス",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 silere（黙る）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "頻出語"],
+    "meaning_main": "静けさ ／ 沈黙 ／ 黙らせる",
+    "description": "silence（サイレンス）の意味は「静けさ・沈黙」。in silence の使い方、silent（形容詞）との関係、語源、例文やクイズでわかりやすく解説。",
+    "keywords": ["silence 意味", "silence 使い方", "in silence", "silence silent 違い", "silence 例文"],
+    "meanings": [
+      { "hinshi": "【名詞】静けさ・無音", "note": "音がまったくない状態。complete silence（完全な静寂）。" },
+      { "hinshi": "【名詞】沈黙・無言", "note": "break the silence（沈黙を破る）。" },
+      { "hinshi": "【動詞】黙らせる・静める", "note": "silence the crowd（群衆を静める）。" }
+    ],
+    "usages": [
+      { "title": "① 黙って・静かに（in silence）", "desc": "「無言で・静寂の中で」を表す。", "example_en": "They ate dinner in silence.", "example_ja": "彼らは黙って夕食を食べた。" },
+      { "title": "② 沈黙を破る（break the silence）", "desc": "静けさ・沈黙を終わらせる。", "example_en": "A loud noise broke the silence.", "example_ja": "大きな音が静寂を破った。" },
+      { "title": "③ 黙らせる（動詞）", "desc": "人や音を静かにさせる。", "example_en": "The teacher silenced the class.", "example_ja": "先生はクラスを静かにさせた。" }
+    ],
+    "warn": [
+      "silence は名詞・動詞、silent は形容詞。「静かな」と言いたいときは silent を使う",
+      "「沈黙のうちに」は in silence（不可算名詞、a はつけない）。ただし an awkward silence のように具体的な沈黙には a がつくこともある"
+    ],
+    "etym_note": "ラテン語 silere（黙る・静かである）の名詞 silentium に由来する。古フランス語 silence を経て英語に入り、「静けさ・沈黙」を表すようになった。形容詞 silent も同じ語源。",
+    "etym_chain": [
+      { "node": "silere", "sub": "黙る・静かである", "era": "ラテン語" },
+      { "node": "silentium", "sub": "静けさ・沈黙", "era": "ラテン語" },
+      { "node": "silence", "sub": "静けさ・沈黙", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "in silence", "ja": "黙って・静かに" },
+      { "en": "break the silence", "ja": "沈黙を破る" },
+      { "en": "an awkward silence", "ja": "気まずい沈黙" },
+      { "en": "a moment of silence", "ja": "黙とう・しばしの沈黙" },
+      { "en": "Silence is golden.", "ja": "沈黙は金（ことわざ）" },
+      { "en": "in stunned silence", "ja": "あっけにとられて黙って" }
+    ],
+    "related": [
+      { "en": "silent", "ja": "静かな・無言の" },
+      { "en": "quiet", "ja": "静かな" },
+      { "en": "noise", "ja": "騒音" },
+      { "en": "calm", "ja": "穏やかな・静けさ" }
+    ],
+    "faq": [
+      { "q": "silence と silent の違いは？", "a": "silence は名詞「静けさ・沈黙」（および動詞「黙らせる」）、silent は形容詞「静かな・無言の」です。" },
+      { "q": "in silence の意味は？", "a": "「黙って・静寂の中で」という意味です。They worked in silence.（彼らは黙って働いた）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "\"They sat in ___ for a while.\"（沈黙）の空所に入るのは？", "A": "silence", "B": "silent", "C": "silently", "D": "silenced", "correct": "A" },
+      { "q": "「沈黙を破る」に合うのはどれ？", "A": "break the silence", "B": "make the silence", "C": "do the silence", "D": "take the silence", "correct": "A" }
+    ]
+  },
+  {
+    "english": "silent",
+    "pron": "ˈsaɪlənt",
+    "kana": "サイレント",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 silere（黙る）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "頻出語"],
+    "meaning_main": "静かな ／ 無言の ／ （文字が）発音されない",
+    "description": "silent（サイレント）の意味は「静かな・無言の」。be silent の使い方、quiet との違い、silent letter（黙字）、語源、例文やクイズで解説。",
+    "keywords": ["silent 意味", "silent 使い方", "silent quiet 違い", "silent letter", "silent 例文"],
+    "meanings": [
+      { "hinshi": "【形容詞】静かな・物音のない", "note": "a silent room（静まりかえった部屋）。" },
+      { "hinshi": "【形容詞】無言の・黙っている", "note": "remain silent（黙ったままでいる）。" },
+      { "hinshi": "【形容詞】（文字が）発音されない", "note": "a silent letter（黙字、例: knife の k）。" }
+    ],
+    "usages": [
+      { "title": "① 黙っている（be / remain silent）", "desc": "「黙ったままでいる」を表す。", "example_en": "He remained silent during the meeting.", "example_ja": "彼は会議の間ずっと黙っていた。" },
+      { "title": "② 静かな（形容詞）", "desc": "物音がまったくしない様子。", "example_en": "The house was completely silent.", "example_ja": "その家は完全に静まりかえっていた。" },
+      { "title": "③ 発音しない文字（silent letter）", "desc": "つづりにあるが読まない文字。", "example_en": "The 'k' in 'knife' is silent.", "example_ja": "knife の k は発音しない。" }
+    ],
+    "warn": [
+      "silent は「まったく音がしない・無言の」、quiet は「静かな・もの静かな」。silent のほうが完全な無音・無言を表す",
+      "silent は形容詞、silence は名詞。品詞を混同しない"
+    ],
+    "etym_note": "ラテン語 silere（黙る・静かである）の現在分詞 silens / silentem に由来する。silence（沈黙）と同じ語源で、英語では「静かな・無言の」を表す形容詞として使われる。",
+    "etym_chain": [
+      { "node": "silere", "sub": "黙る・静かである", "era": "ラテン語" },
+      { "node": "silentem", "sub": "黙っている", "era": "ラテン語" },
+      { "node": "silent", "sub": "静かな・無言の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be silent", "ja": "黙っている・静かだ" },
+      { "en": "remain silent", "ja": "黙ったままでいる" },
+      { "en": "keep silent", "ja": "黙っている" },
+      { "en": "a silent letter", "ja": "発音されない文字・黙字" },
+      { "en": "the silent majority", "ja": "物言わぬ多数派" },
+      { "en": "a silent film", "ja": "無声映画" }
+    ],
+    "related": [
+      { "en": "silence", "ja": "静けさ・沈黙" },
+      { "en": "quiet", "ja": "静かな" },
+      { "en": "noisy", "ja": "うるさい" },
+      { "en": "still", "ja": "静止した・静かな" }
+    ],
+    "faq": [
+      { "q": "silent と quiet の違いは？", "a": "silent は「まったく音がしない・完全に無言の」、quiet は「静かな・もの静かな」です。silent のほうが無音・無言の度合いが強い語です。" },
+      { "q": "silent letter とは？", "a": "「黙字」、つまりつづりには書くが発音しない文字のことです。knife の k、hour の h などが例です。" }
+    ],
+    "quiz": [
+      { "q": "\"Everyone was ___ during the test.\"（静か）の空所に入るのは？", "A": "silent", "B": "silence", "C": "silently", "D": "silenced", "correct": "A" },
+      { "q": "「黙ったままでいる」に合うのはどれ？", "A": "remain silent", "B": "remain silence", "C": "remain quietly", "D": "remain noise", "correct": "A" }
+    ]
+  }
+]
