@@ -482,5 +482,60 @@
       { "q": "\"___ show that prices are rising.\"（統計）の空所に入るのは？", "A": "Statistics", "B": "Statue", "C": "Status", "D": "Station", "correct": "A" },
       { "q": "「統計によると」を表すのはどれ？", "A": "according to statistics", "B": "official statistics", "C": "study statistics", "D": "crime statistics", "correct": "A" }
     ]
+  },
+  {
+    "english": "stall",
+    "pron": "stɔːl",
+    "kana": "ストール",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 steall（立つ場所・家畜小屋）",
+    "ld_level": "準2級",
+    "badges": ["高校〜", "英検準2級", "CEFR B2", "頻出語"],
+    "meaning_main": "屋台 ／ 売店 ／ （エンジンが)止まる",
+    "description": "stall（ストール）の意味は「屋台・売店」と「（エンジンが)止まる」。a market stall の使い方、語源、例文やクイズで解説。",
+    "keywords": ["stall 意味", "stall 使い方", "market stall", "stall エンスト", "stall 例文"],
+    "meanings": [
+      { "hinshi": "【名詞】屋台・売店・露店", "note": "市場などの簡単な売り場。a market stall。" },
+      { "hinshi": "【動詞】（エンジンが)止まる・失速する", "note": "The car stalled.（車がエンストした)。" },
+      { "hinshi": "【動詞】（わざと)引き延ばす", "note": "stall for time（時間かせぎをする)。" }
+    ],
+    "usages": [
+      { "title": "① 屋台（a stall）", "desc": "市場の売店。", "example_en": "She runs a vegetable stall.", "example_ja": "彼女は野菜の屋台をやっている。" },
+      { "title": "② エンストする（stall）", "desc": "エンジンが止まる。", "example_en": "The engine stalled at the light.", "example_ja": "信号でエンジンが止まった。" },
+      { "title": "③ 時間かせぎ（stall for time）", "desc": "「（わざと)引き延ばす」。", "example_en": "He stalled for time.", "example_ja": "彼は時間かせぎをした。" }
+    ],
+    "warn": [
+      "stall は「屋台・売店」「（エンジンが)止まる＝エンスト」「（わざと)引き延ばす」と幅広い",
+      "a market stall（市場の屋台）、stall for time（時間かせぎ）"
+    ],
+    "etym_note": "古英語 steall（立つ場所・家畜小屋）に由来する。「（物を置く・売る)場所＝売店・屋台」が名詞、「（動きが)止まる」が動詞の意味になった。",
+    "etym_chain": [
+      { "node": "steall", "sub": "立つ場所・小屋", "era": "古英語" },
+      { "node": "stall", "sub": "売店・仕切り", "era": "中英語" },
+      { "node": "stall", "sub": "屋台・止まる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a market stall", "ja": "市場の屋台" },
+      { "en": "a food stall", "ja": "食べ物の屋台" },
+      { "en": "stall for time", "ja": "時間かせぎをする" },
+      { "en": "the engine stalled", "ja": "エンジンが止まった" },
+      { "en": "set up a stall", "ja": "屋台を出す" },
+      { "en": "a stall holder", "ja": "屋台の店主" }
+    ],
+    "related": [
+      { "en": "stand", "ja": "屋台・売店" },
+      { "en": "booth", "ja": "ブース・屋台" },
+      { "en": "shop", "ja": "店" },
+      { "en": "delay", "ja": "遅らせる" }
+    ],
+    "faq": [
+      { "q": "stall にはどんな意味がある？", "a": "「屋台・売店・露店」「（エンジンが)止まる＝エンスト」「（わざと)引き延ばす・時間かせぎをする」など幅広い意味があります。" },
+      { "q": "stall for time の意味は？", "a": "「（わざと)時間かせぎをする・引き延ばす」という意味です。" }
+    ],
+    "quiz": [
+      { "q": "\"She bought fruit at a market ___.\"（屋台）の空所に入るのは？", "A": "stall", "B": "stale", "C": "stack", "D": "stamp", "correct": "A" },
+      { "q": "「時間かせぎをする」を表すのはどれ？", "A": "stall for time", "B": "a market stall", "C": "set up a stall", "D": "a food stall", "correct": "A" }
+    ]
   }
 ]
