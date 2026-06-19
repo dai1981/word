@@ -1,0 +1,536 @@
+[
+  {
+    "english": "scarce",
+    "pron": "skeərs",
+    "kana": "スケアス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "古ノルマン仏語 escars（乏しい）",
+    "ld_level": "準1級",
+    "badges": ["高校〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "乏しい ／ 不足した ／ まれな",
+    "description": "scarce（スケアス）の意味は「乏しい・不足した・まれな」。scarcely（ほとんど〜ない）、rare との違い、語源、例文やクイズで解説。",
+    "keywords": ["scarce 意味", "scarcely", "scarce rare 違い", "scarce 使い方", "scarce 例文"],
+    "meanings": [
+      { "hinshi": "【形容詞】乏しい・不足した・まれな", "note": "数や量が足りない。" }
+    ],
+    "usages": [
+      { "title": "① 乏しい（scarce）", "desc": "数量が足りない。", "example_en": "Water is scarce in the desert.", "example_ja": "砂漠では水が乏しい。" },
+      { "title": "② 品薄になる（become scarce）", "desc": "手に入りにくくなる。", "example_en": "Fresh vegetables became scarce.", "example_ja": "新鮮な野菜が品薄になった。" },
+      { "title": "③ ほとんど〜ない（scarcely）", "desc": "副詞 scarcely。", "example_en": "I could scarcely believe it.", "example_ja": "ほとんど信じられなかった。" }
+    ],
+    "warn": [
+      "rare は「珍しい(質的に貴重)」、scarce は「(普段あるものが)不足している」",
+      "副詞 scarcely は「ほとんど〜ない」(=hardly)。否定的な意味"
+    ],
+    "etym_note": "古ノルマン・フランス語 escars（乏しい・けちな)に由来し、俗ラテン語 excarpsus（抜き取られた）にさかのぼる。「抜き取られて少ない＝乏しい」が原義。",
+    "etym_chain": [
+      { "node": "excarpsus", "sub": "抜き取られた", "era": "俗ラテン語" },
+      { "node": "escars", "sub": "乏しい", "era": "古ノルマン仏語" },
+      { "node": "scarce", "sub": "乏しい・まれな", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "become scarce", "ja": "乏しくなる・品薄になる" },
+      { "en": "in scarce supply", "ja": "供給が乏しい" },
+      { "en": "scarce resources", "ja": "乏しい資源" },
+      { "en": "food is scarce", "ja": "食料が乏しい" },
+      { "en": "make oneself scarce", "ja": "そっと姿を消す" },
+      { "en": "scarcely any", "ja": "ほとんど〜ない" }
+    ],
+    "related": [
+      { "en": "rare", "ja": "珍しい" },
+      { "en": "sparse", "ja": "まばらな" },
+      { "en": "limited", "ja": "限られた" },
+      { "en": "abundant", "ja": "豊富な（反意）" }
+    ],
+    "faq": [
+      { "q": "scarce と rare の違いは？", "a": "rare は「(質的に)珍しい・貴重」、scarce は「(普段あるはずのものが)不足している・乏しい」です。" },
+      { "q": "scarcely の意味は？", "a": "「ほとんど〜ない」という副詞で、hardly とほぼ同義です。" }
+    ],
+    "quiz": [
+      { "q": "\"During the war, food was ___.\"（乏しい）の空所に入るのは？", "A": "scarce", "B": "scary", "C": "scarred", "D": "sacred", "correct": "A" },
+      { "q": "scarce の反対の意味の語はどれ？", "A": "abundant", "B": "rare", "C": "limited", "D": "sparse", "correct": "A" }
+    ]
+  },
+  {
+    "english": "savage",
+    "pron": "ˈsævɪdʒ",
+    "kana": "サヴィッジ",
+    "hinshi": "形容詞 / 名詞 / 動詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 silvaticus（森の・野生の）",
+    "ld_level": "準1級",
+    "badges": ["高校〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "獰猛な ／ 残忍な ／ 痛烈な",
+    "description": "savage（サヴィッジ）の意味は「獰猛な・残忍な・痛烈な」。a savage attack、savage criticism の使い方、語源、例文やクイズで解説。",
+    "keywords": ["savage 意味", "savage attack", "savage criticism", "savage 使い方", "savage 例文"],
+    "meanings": [
+      { "hinshi": "【形容詞】獰猛な・残忍な・荒々しい", "note": "暴力的で激しい。" },
+      { "hinshi": "【形容詞】痛烈な・容赦ない", "note": "批判などが手厳しい。" },
+      { "hinshi": "【動詞】激しく攻撃する・酷評する", "note": "かみつく・けなす。" }
+    ],
+    "usages": [
+      { "title": "① 獰猛な（a savage dog）", "desc": "凶暴な。", "example_en": "A savage dog attacked him.", "example_ja": "獰猛な犬が彼を襲った。" },
+      { "title": "② 痛烈な（savage criticism）", "desc": "手厳しい。", "example_en": "The film got savage reviews.", "example_ja": "その映画は痛烈な批評を受けた。" },
+      { "title": "③ 激しく攻撃する（savage）", "desc": "動詞で「酷評する」。", "example_en": "Critics savaged the play.", "example_ja": "批評家たちはその劇を酷評した。" }
+    ],
+    "warn": [
+      "「人(原住民)」の意味で savage を使うのは差別的とされ、現在は避ける",
+      "比喩で「(批判・攻撃が)痛烈な・容赦ない」でよく使う"
+    ],
+    "etym_note": "ラテン語 silvaticus（森の・野生の)に由来し、silva（森)から来ている。「森にすむ野生の」が原義で、転じて「獰猛な・残忍な・荒々しい」の意味になった。",
+    "etym_chain": [
+      { "node": "silvaticus", "sub": "森の・野生の", "era": "ラテン語" },
+      { "node": "sauvage", "sub": "野生の", "era": "古フランス語" },
+      { "node": "savage", "sub": "獰猛な・残忍な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a savage attack", "ja": "残忍な攻撃" },
+      { "en": "savage criticism", "ja": "痛烈な批判" },
+      { "en": "a savage beast", "ja": "獰猛な獣" },
+      { "en": "savage cuts", "ja": "容赦ない削減" },
+      { "en": "a savage temper", "ja": "荒々しい気性" },
+      { "en": "savage the report", "ja": "報告書を酷評する" }
+    ],
+    "related": [
+      { "en": "ferocious", "ja": "獰猛な" },
+      { "en": "brutal", "ja": "残忍な" },
+      { "en": "fierce", "ja": "猛烈な" },
+      { "en": "vicious", "ja": "悪意のある・凶暴な" }
+    ],
+    "faq": [
+      { "q": "savage の比喩的な意味は？", "a": "「(批判・攻撃・削減が)痛烈な・容赦ない」という意味でよく使います。動詞で「酷評する」にもなります。" },
+      { "q": "savage を人に使ってもいい？", "a": "「未開人・野蛮人」の意味で人に使うのは差別的とされ、現在は避けるべきです。" }
+    ],
+    "quiz": [
+      { "q": "\"The critics gave the movie a ___ review.\"（痛烈な）の空所に入るのは？", "A": "savage", "B": "salvage", "C": "savory", "D": "sage", "correct": "A" },
+      { "q": "savage に最も意味が近いのは？", "A": "ferocious", "B": "gentle", "C": "calm", "D": "mild", "correct": "A" }
+    ]
+  },
+  {
+    "english": "solemn",
+    "pron": "ˈsɒləm",
+    "kana": "ソレム",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 sollemnis（儀式の・厳粛な）",
+    "ld_level": "準1級",
+    "badges": ["高校〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "厳粛な ／ まじめな ／ 厳かな",
+    "description": "solemn（ソレム）の意味は「厳粛な・まじめな・厳かな」。n を読まない発音、a solemn promise の使い方、語源、例文やクイズで解説。",
+    "keywords": ["solemn 意味", "solemn 発音", "a solemn promise", "solemn 使い方", "solemn 例文"],
+    "meanings": [
+      { "hinshi": "【形容詞】厳粛な・厳かな", "note": "おごそかでまじめな。" },
+      { "hinshi": "【形容詞】まじめくさった・重々しい", "note": "深刻で真剣な。" }
+    ],
+    "usages": [
+      { "title": "① 厳粛な（a solemn ceremony）", "desc": "おごそかな。", "example_en": "It was a solemn ceremony.", "example_ja": "それは厳粛な式典だった。" },
+      { "title": "② まじめな表情（a solemn face）", "desc": "重々しい。", "example_en": "He had a solemn expression.", "example_ja": "彼はまじめくさった表情をしていた。" },
+      { "title": "③ 厳粛な誓い（a solemn promise）", "desc": "重い約束。", "example_en": "She made a solemn promise.", "example_ja": "彼女は厳粛な約束をした。" }
+    ],
+    "warn": [
+      "発音は「ソレム（ˈsɒləm）」で語尾の n は読まない",
+      "serious と近いが、solemn は「おごそか・厳粛」という重みのある真剣さ"
+    ],
+    "etym_note": "ラテン語 sollemnis（毎年の・儀式の・厳粛な)に由来する。宗教的な「儀式の」が原義で、そこから「厳かな・厳粛な・まじめな」の意味になった。",
+    "etym_chain": [
+      { "node": "sollemnis", "sub": "儀式の・厳粛な", "era": "ラテン語" },
+      { "node": "solempne", "sub": "厳粛な", "era": "中英語" },
+      { "node": "solemn", "sub": "厳粛な・まじめな", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a solemn ceremony", "ja": "厳粛な式典" },
+      { "en": "a solemn promise", "ja": "厳粛な約束" },
+      { "en": "a solemn vow", "ja": "厳かな誓い" },
+      { "en": "a solemn face", "ja": "まじめくさった顔" },
+      { "en": "a solemn occasion", "ja": "厳粛な場" },
+      { "en": "look solemn", "ja": "重々しく見える" }
+    ],
+    "related": [
+      { "en": "serious", "ja": "まじめな" },
+      { "en": "grave", "ja": "重々しい" },
+      { "en": "dignified", "ja": "威厳のある" },
+      { "en": "somber", "ja": "陰うつな・厳粛な" }
+    ],
+    "faq": [
+      { "q": "solemn の発音は？", "a": "「ソレム（ˈsɒləm）」で、語尾の n は発音しません。" },
+      { "q": "solemn と serious の違いは？", "a": "serious は「まじめ・深刻」一般語、solemn は「おごそか・厳粛」という重みのある真剣さを表します。" }
+    ],
+    "quiz": [
+      { "q": "\"They observed a moment of ___ silence.\"（厳粛な）の空所に入るのは？", "A": "solemn", "B": "solid", "C": "solar", "D": "sole", "correct": "A" },
+      { "q": "solemn で発音しない文字は？", "A": "n", "B": "s", "C": "l", "D": "m", "correct": "A" }
+    ]
+  },
+  {
+    "english": "slender",
+    "pron": "ˈslendər",
+    "kana": "スレンダー",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "中英語 slendre（細い）",
+    "ld_level": "準1級",
+    "badges": ["高校〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "ほっそりした ／ わずかな",
+    "description": "slender（スレンダー）の意味は「ほっそりした・わずかな」。slim との違い、a slender chance の使い方、語源、例文やクイズで解説。",
+    "keywords": ["slender 意味", "slender slim 違い", "a slender chance", "slender 使い方", "slender 例文"],
+    "meanings": [
+      { "hinshi": "【形容詞】ほっそりした・すらりとした", "note": "細くて優美な。" },
+      { "hinshi": "【形容詞】わずかな・乏しい", "note": "量・可能性が少ない。" }
+    ],
+    "usages": [
+      { "title": "① ほっそりした（slender）", "desc": "すらりと細い。", "example_en": "She has a slender figure.", "example_ja": "彼女はほっそりした体型だ。" },
+      { "title": "② 細くほっそりした（slender fingers）", "desc": "細くて優美。", "example_en": "He has long, slender fingers.", "example_ja": "彼は長くほっそりした指をしている。" },
+      { "title": "③ わずかな（a slender chance）", "desc": "可能性が少ない。", "example_en": "There's only a slender chance of success.", "example_ja": "成功の見込みはわずかしかない。" }
+    ],
+    "warn": [
+      "slim とほぼ同義で「ほっそり」(ほめ言葉)。thin は「やせた」で中立〜やや否定的",
+      "比喩で「わずかな(可能性・収入)」にも使う(a slender chance/income)"
+    ],
+    "etym_note": "中英語 slendre（細い）に由来する。明確な起源は不明だが、「細くてほっそりした」を表す。比喩で「わずかな」の意味にも広がった。",
+    "etym_chain": [
+      { "node": "slendre", "sub": "細い", "era": "中英語" },
+      { "node": "slender", "sub": "ほっそりした・わずかな", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a slender figure", "ja": "ほっそりした体型" },
+      { "en": "slender fingers", "ja": "ほっそりした指" },
+      { "en": "a slender chance", "ja": "わずかな見込み" },
+      { "en": "a slender margin", "ja": "わずかの差" },
+      { "en": "tall and slender", "ja": "背が高くすらりとした" },
+      { "en": "a slender income", "ja": "わずかな収入" }
+    ],
+    "related": [
+      { "en": "slim", "ja": "ほっそりした" },
+      { "en": "thin", "ja": "やせた・薄い" },
+      { "en": "lean", "ja": "引き締まった" },
+      { "en": "narrow", "ja": "狭い・細い" }
+    ],
+    "faq": [
+      { "q": "slender と slim の違いは？", "a": "ほぼ同義で「ほっそりした」(ほめ言葉)です。thin は「やせた」で中立〜やや否定的なニュアンスがあります。" },
+      { "q": "slender の比喩的な意味は？", "a": "「わずかな・乏しい」です。a slender chance（わずかな見込み)のように使います。" }
+    ],
+    "quiz": [
+      { "q": "\"The dancer had a tall, ___ body.\"（ほっそりした）の空所に入るのは？", "A": "slender", "B": "slander", "C": "splendid", "D": "slumber", "correct": "A" },
+      { "q": "「わずかな見込み」を表すのはどれ？", "A": "a slender chance", "B": "slender fingers", "C": "a slender figure", "D": "tall and slender", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sane",
+    "pron": "seɪn",
+    "kana": "セイン",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 sanus（健康な）",
+    "ld_level": "準1級",
+    "badges": ["高校〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "正気の ／ 分別のある",
+    "description": "sane（セイン）の意味は「正気の・分別のある」。insane との対比、a sane decision の使い方、語源、例文やクイズで解説。",
+    "keywords": ["sane 意味", "sane insane", "a sane decision", "sane 使い方", "sane 例文"],
+    "meanings": [
+      { "hinshi": "【形容詞】正気の・精神が健全な", "note": "頭がまともで正常な。" },
+      { "hinshi": "【形容詞】分別のある・道理にかなった", "note": "理にかなって賢明な。" }
+    ],
+    "usages": [
+      { "title": "① 正気の（sane）", "desc": "精神が健全な。", "example_en": "He is perfectly sane.", "example_ja": "彼はまったく正気だ。" },
+      { "title": "② 分別のある（a sane decision）", "desc": "理にかなった。", "example_en": "It was the only sane decision.", "example_ja": "それが唯一分別ある決断だった。" },
+      { "title": "③ 正気を保つ（stay sane）", "desc": "平静を保つ。", "example_en": "Exercise helps me stay sane.", "example_ja": "運動のおかげで正気を保てる。" }
+    ],
+    "warn": [
+      "insane（正気でない)の反対。名詞は sanity（正気）",
+      "sane と same（同じ)を混同しない。発音も意味も別"
+    ],
+    "etym_note": "ラテン語 sanus（健康な・健全な)に由来する。もとは「体が健康な」意味で、英語では特に「精神が健全な＝正気の」を表すようになった。sanitary（衛生の)と同語源。",
+    "etym_chain": [
+      { "node": "sanus", "sub": "健康な", "era": "ラテン語" },
+      { "node": "sane", "sub": "正気の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "perfectly sane", "ja": "まったく正気で" },
+      { "en": "a sane decision", "ja": "分別ある決断" },
+      { "en": "stay sane", "ja": "正気を保つ" },
+      { "en": "keep someone sane", "ja": "正気を保たせる" },
+      { "en": "a sane approach", "ja": "理にかなったやり方" },
+      { "en": "sane and rational", "ja": "正気で理性的な" }
+    ],
+    "related": [
+      { "en": "insane", "ja": "正気でない（反意）" },
+      { "en": "rational", "ja": "理性的な" },
+      { "en": "sensible", "ja": "分別のある" },
+      { "en": "sound", "ja": "健全な" }
+    ],
+    "faq": [
+      { "q": "sane の反対語は？", "a": "insane（正気でない・狂気の）です。名詞は sanity（正気）です。" },
+      { "q": "sane と same の違いは？", "a": "sane は「正気の(発音セイン)」、same は「同じ(発音セイム)」です。混同しないようにしましょう。" }
+    ],
+    "quiz": [
+      { "q": "\"No ___ person would do such a thing.\"（正気の）の空所に入るのは？", "A": "sane", "B": "same", "C": "sage", "D": "safe", "correct": "A" },
+      { "q": "sane の反対の意味の語はどれ？", "A": "insane", "B": "rational", "C": "sensible", "D": "sound", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sloppy",
+    "pron": "ˈslɒpi",
+    "kana": "スロッピー",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "slop（こぼれた水）+ -y",
+    "ld_level": "準1級",
+    "badges": ["高校〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "ずさんな ／ だらしない",
+    "description": "sloppy（スロッピー）の意味は「ずさんな・だらしない」。sloppy work、careless との違い、語源、例文やクイズで解説。",
+    "keywords": ["sloppy 意味", "sloppy work", "sloppy careless 違い", "sloppy 使い方", "sloppy 例文"],
+    "meanings": [
+      { "hinshi": "【形容詞】ずさんな・いいかげんな", "note": "雑で注意が足りない。" },
+      { "hinshi": "【形容詞】だらしない・しまりのない", "note": "服装などがだらしない。" }
+    ],
+    "usages": [
+      { "title": "① ずさんな（sloppy work）", "desc": "雑な仕事。", "example_en": "His work was sloppy.", "example_ja": "彼の仕事はずさんだった。" },
+      { "title": "② だらしない（sloppy clothes）", "desc": "しまりのない服装。", "example_en": "He wore sloppy clothes.", "example_ja": "彼はだらしない服を着ていた。" },
+      { "title": "③ ぐちゃぐちゃの（sloppy handwriting）", "desc": "乱雑な。", "example_en": "Her handwriting is sloppy.", "example_ja": "彼女の字は乱雑だ。" }
+    ],
+    "warn": [
+      "careless（不注意な)より「雑でだらしない・しまりがない」ニュアンス",
+      "もとは「水っぽい・ぬかるんだ」の意味もある(slop=こぼれた水)"
+    ],
+    "etym_note": "slop（こぼれた水・どろどろしたもの）に -y がついた語。「水っぽくべちゃべちゃした」が原義で、転じて「雑でだらしない・ずさんな」の意味になった。",
+    "etym_chain": [
+      { "node": "slop + -y", "sub": "水っぽい", "era": "近代英語" },
+      { "node": "sloppy", "sub": "ずさんな・だらしない", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "sloppy work", "ja": "ずさんな仕事" },
+      { "en": "sloppy handwriting", "ja": "乱雑な字" },
+      { "en": "a sloppy mistake", "ja": "不注意なミス" },
+      { "en": "sloppy clothes", "ja": "だらしない服" },
+      { "en": "be sloppy about", "ja": "〜にいいかげんだ" },
+      { "en": "a sloppy job", "ja": "いいかげんな仕事ぶり" }
+    ],
+    "related": [
+      { "en": "careless", "ja": "不注意な" },
+      { "en": "messy", "ja": "散らかった" },
+      { "en": "untidy", "ja": "だらしない" },
+      { "en": "neat", "ja": "きちんとした（反意）" }
+    ],
+    "faq": [
+      { "q": "sloppy と careless の違いは？", "a": "careless は「不注意な」、sloppy は「雑でだらしない・ずさん」というより否定的なニュアンスです。" },
+      { "q": "sloppy の反対語は？", "a": "neat / tidy（きちんとした・整った)です。" }
+    ],
+    "quiz": [
+      { "q": "\"The teacher complained about his ___ work.\"（ずさんな）の空所に入るのは？", "A": "sloppy", "B": "slippery", "C": "sleepy", "D": "snappy", "correct": "A" },
+      { "q": "sloppy に最も意味が近いのは？", "A": "careless", "B": "neat", "C": "tidy", "D": "precise", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sly",
+    "pron": "slaɪ",
+    "kana": "スライ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "古ノルド語 slœgr（ずる賢い）",
+    "ld_level": "準1級",
+    "badges": ["高校〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "ずる賢い ／ こそこそした",
+    "description": "sly（スライ）の意味は「ずる賢い・こそこそした」。a sly smile、cunning との違い、on the sly の使い方、語源、例文やクイズで解説。",
+    "keywords": ["sly 意味", "a sly smile", "on the sly", "sly cunning 違い", "sly 例文"],
+    "meanings": [
+      { "hinshi": "【形容詞】ずる賢い・こうかつな", "note": "人をだます賢さがある。" },
+      { "hinshi": "【形容詞】いたずらっぽい・意味ありげな", "note": "a sly smile など。" }
+    ],
+    "usages": [
+      { "title": "① ずる賢い（sly）", "desc": "こうかつな。", "example_en": "He's as sly as a fox.", "example_ja": "彼はキツネのようにずる賢い。" },
+      { "title": "② 意味ありげな（a sly smile）", "desc": "いたずらっぽい。", "example_en": "She gave a sly smile.", "example_ja": "彼女は意味ありげな笑みを浮かべた。" },
+      { "title": "③ こっそり（on the sly）", "desc": "ひそかに。", "example_en": "He smokes on the sly.", "example_ja": "彼はこっそりたばこを吸う。" }
+    ],
+    "warn": [
+      "cunning とほぼ同義で「ずる賢い」。否定的な意味が中心",
+      "on the sly で「こっそり・ひそかに」の慣用句"
+    ],
+    "etym_note": "古ノルド語 slœgr（ずる賢い・巧みな）に由来する。「人をだます賢さがある」が基本義で、「いたずらっぽい・意味ありげな」の意味にも使われる。",
+    "etym_chain": [
+      { "node": "slœgr", "sub": "ずる賢い", "era": "古ノルド語" },
+      { "node": "sly", "sub": "ずる賢い", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a sly smile", "ja": "意味ありげな笑み" },
+      { "en": "on the sly", "ja": "こっそり・ひそかに" },
+      { "en": "sly as a fox", "ja": "キツネのようにずる賢い" },
+      { "en": "a sly trick", "ja": "ずる賢い策略" },
+      { "en": "a sly look", "ja": "意味ありげな目つき" },
+      { "en": "a sly remark", "ja": "あてこすり" }
+    ],
+    "related": [
+      { "en": "cunning", "ja": "ずる賢い" },
+      { "en": "crafty", "ja": "こうかつな" },
+      { "en": "sneaky", "ja": "こそこそした" },
+      { "en": "devious", "ja": "腹黒い" }
+    ],
+    "faq": [
+      { "q": "on the sly の意味は？", "a": "「こっそり・ひそかに・人目を盗んで」という意味の慣用句です。" },
+      { "q": "sly と cunning の違いは？", "a": "ほぼ同義で「ずる賢い」です。sly は「いたずらっぽい・意味ありげな」という軽い意味でも使えます。" }
+    ],
+    "quiz": [
+      { "q": "\"He gave a ___ smile, as if he knew a secret.\"（意味ありげな）の空所に入るのは？", "A": "sly", "B": "shy", "C": "sky", "D": "slay", "correct": "A" },
+      { "q": "「こっそり」を表すのはどれ？", "A": "on the sly", "B": "a sly trick", "C": "a sly look", "D": "sly as a fox", "correct": "A" }
+    ]
+  },
+  {
+    "english": "stern",
+    "pron": "stɜːrn",
+    "kana": "スターン",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "古英語 styrne（厳格な）",
+    "ld_level": "準1級",
+    "badges": ["高校〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "厳格な ／ 厳しい ／ 船尾",
+    "description": "stern（スターン）の意味は「厳格な・厳しい／船尾」。a stern look、strict との違い、語源、例文やクイズで解説。",
+    "keywords": ["stern 意味", "a stern look", "stern strict 違い", "stern 使い方", "stern 例文"],
+    "meanings": [
+      { "hinshi": "【形容詞】厳格な・厳しい・いかめしい", "note": "妥協を許さず厳しい。" },
+      { "hinshi": "【名詞】船尾", "note": "船の後部。" }
+    ],
+    "usages": [
+      { "title": "① 厳しい（a stern look）", "desc": "いかめしい表情。", "example_en": "She gave me a stern look.", "example_ja": "彼女は私に厳しい目を向けた。" },
+      { "title": "② 厳格な（stern warning）", "desc": "厳しい警告。", "example_en": "He issued a stern warning.", "example_ja": "彼は厳重な警告を発した。" },
+      { "title": "③ 船尾（the stern）", "desc": "船の後部。", "example_en": "We stood at the stern of the ship.", "example_ja": "私たちは船尾に立っていた。" }
+    ],
+    "warn": [
+      "strict は「規則に厳しい」、stern は「いかめしく厳格・断固とした」表情・態度のニュアンス",
+      "船の「船尾」も stern。反対の「船首」は bow"
+    ],
+    "etym_note": "古英語 styrne（厳格な・いかめしい）に由来する。「厳しく断固とした」が形容詞の基本義。名詞「船尾」は古ノルド語 stjórn（かじ取り)由来で別系統。",
+    "etym_chain": [
+      { "node": "styrne", "sub": "厳格な", "era": "古英語" },
+      { "node": "stern", "sub": "厳格な・厳しい", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a stern look", "ja": "厳しい表情" },
+      { "en": "a stern warning", "ja": "厳重な警告" },
+      { "en": "stern measures", "ja": "厳しい措置" },
+      { "en": "a stern teacher", "ja": "厳格な先生" },
+      { "en": "stern discipline", "ja": "厳しいしつけ" },
+      { "en": "at the stern", "ja": "船尾で" }
+    ],
+    "related": [
+      { "en": "strict", "ja": "厳格な" },
+      { "en": "severe", "ja": "厳しい" },
+      { "en": "harsh", "ja": "厳しい・過酷な" },
+      { "en": "grim", "ja": "いかめしい" }
+    ],
+    "faq": [
+      { "q": "stern と strict の違いは？", "a": "strict は「規則・基準に厳しい」、stern は「いかめしく厳格・断固とした(態度・表情)」というニュアンスです。" },
+      { "q": "船の stern とは？", "a": "「船尾(船の後部)」のことです。反対の「船首」は bow と言います。" }
+    ],
+    "quiz": [
+      { "q": "\"The judge gave him a ___ warning.\"（厳重な）の空所に入るのは？", "A": "stern", "B": "stem", "C": "steam", "D": "stir", "correct": "A" },
+      { "q": "stern に最も意味が近いのは？", "A": "strict", "B": "gentle", "C": "kind", "D": "lenient", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sublime",
+    "pron": "səˈblaɪm",
+    "kana": "サブライム",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 sublimis（高く掲げられた）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "難語"],
+    "meaning_main": "崇高な ／ 荘厳な ／ この上なくすばらしい",
+    "description": "sublime（サブライム）の意味は「崇高な・荘厳な・この上なくすばらしい」。sublime beauty の使い方、語源、例文やクイズで解説。",
+    "keywords": ["sublime 意味", "sublime beauty", "sublime 崇高", "sublime 使い方", "sublime 例文"],
+    "meanings": [
+      { "hinshi": "【形容詞】崇高な・荘厳な", "note": "畏敬の念を抱かせるほど偉大な。" },
+      { "hinshi": "【形容詞】この上なくすばらしい・絶妙な", "note": "最高に見事な。" }
+    ],
+    "usages": [
+      { "title": "① 崇高な（sublime beauty）", "desc": "荘厳で偉大な。", "example_en": "The mountain scenery was sublime.", "example_ja": "山の風景は荘厳だった。" },
+      { "title": "② 絶妙な（sublime taste）", "desc": "この上なく見事な。", "example_en": "The dessert was sublime.", "example_ja": "そのデザートは絶品だった。" },
+      { "title": "③ 崇高さ（the sublime）", "desc": "名詞的に「崇高なもの」。", "example_en": "from the sublime to the ridiculous", "example_ja": "崇高なものから滑稽なものへ" }
+    ],
+    "warn": [
+      "「崇高・荘厳」という畏敬を伴う偉大さと、口語的な「最高にすばらしい」の両方で使う",
+      "from the sublime to the ridiculous は「崇高から滑稽へ(急に格が下がる)」の慣用句"
+    ],
+    "etym_note": "ラテン語 sublimis（高く掲げられた・高遠な)に由来し、sub-（〜まで)+ limen（敷居・境）から「高みに達した」が原義。「崇高な・荘厳な」の意味になった。",
+    "etym_chain": [
+      { "node": "sublimis", "sub": "高く掲げられた", "era": "ラテン語" },
+      { "node": "sublime", "sub": "崇高な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "sublime beauty", "ja": "崇高な美しさ" },
+      { "en": "sublime scenery", "ja": "荘厳な風景" },
+      { "en": "a sublime performance", "ja": "絶妙な演奏・演技" },
+      { "en": "from the sublime to the ridiculous", "ja": "崇高から滑稽へ" },
+      { "en": "sublime music", "ja": "崇高な音楽" },
+      { "en": "look sublime", "ja": "この上なくすばらしく見える" }
+    ],
+    "related": [
+      { "en": "magnificent", "ja": "壮大な" },
+      { "en": "majestic", "ja": "荘厳な" },
+      { "en": "exalted", "ja": "高遠な" },
+      { "en": "superb", "ja": "見事な" }
+    ],
+    "faq": [
+      { "q": "sublime の2つのニュアンスは？", "a": "「崇高・荘厳」という畏敬を伴う偉大さと、口語的に「この上なくすばらしい・絶妙」です。" },
+      { "q": "from the sublime to the ridiculous とは？", "a": "「崇高なものから滑稽なものへ(急に格が下がる)」という慣用句です。" }
+    ],
+    "quiz": [
+      { "q": "\"The view from the summit was ___.\"（崇高な）の空所に入るのは？", "A": "sublime", "B": "submarine", "C": "subway", "D": "sublet", "correct": "A" },
+      { "q": "sublime に最も意味が近いのは？", "A": "magnificent", "B": "ordinary", "C": "dull", "D": "plain", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sterile",
+    "pron": "ˈsterəl",
+    "kana": "ステラル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 sterilis（実らない）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "難語"],
+    "meaning_main": "無菌の ／ 不毛の ／ 無味乾燥な",
+    "description": "sterile（ステラル）の意味は「無菌の・不毛の・無味乾燥な」。a sterile environment、sterilize の使い方、語源、例文やクイズで解説。",
+    "keywords": ["sterile 意味", "sterilize", "sterile environment", "sterile 使い方", "sterile 例文"],
+    "meanings": [
+      { "hinshi": "【形容詞】無菌の・殺菌された", "note": "細菌がいない清潔な。" },
+      { "hinshi": "【形容詞】不毛の・繁殖力のない", "note": "作物が育たない、子を産めない。" },
+      { "hinshi": "【形容詞】無味乾燥な・創造性のない", "note": "味気なく生産性がない。" }
+    ],
+    "usages": [
+      { "title": "① 無菌の（sterile environment）", "desc": "細菌のいない。", "example_en": "Surgery requires a sterile environment.", "example_ja": "手術には無菌環境が必要だ。" },
+      { "title": "② 不毛の（sterile soil）", "desc": "作物が育たない。", "example_en": "The soil was sterile.", "example_ja": "その土は不毛だった。" },
+      { "title": "③ 無味乾燥な（sterile debate）", "desc": "実りのない。", "example_en": "It was a sterile discussion.", "example_ja": "それは実りのない議論だった。" }
+    ],
+    "warn": [
+      "「無菌・殺菌された」と「不毛の・繁殖力のない」「無味乾燥な」と幅広い意味がある",
+      "動詞は sterilize（殺菌する・不妊にする）、名詞は sterility"
+    ],
+    "etym_note": "ラテン語 sterilis（実らない・不毛の)に由来する。「子や作物を産まない＝不毛の」が原義で、転じて「(雑菌を含まない)無菌の」「無味乾燥な」の意味にも広がった。",
+    "etym_chain": [
+      { "node": "sterilis", "sub": "実らない", "era": "ラテン語" },
+      { "node": "sterile", "sub": "不毛の・無菌の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a sterile environment", "ja": "無菌環境" },
+      { "en": "sterile equipment", "ja": "滅菌された器具" },
+      { "en": "sterile soil", "ja": "不毛の土" },
+      { "en": "a sterile debate", "ja": "実りのない議論" },
+      { "en": "keep sterile", "ja": "無菌状態に保つ" },
+      { "en": "sterile and lifeless", "ja": "無味乾燥で生気のない" }
+    ],
+    "related": [
+      { "en": "sterilize", "ja": "殺菌する" },
+      { "en": "germ-free", "ja": "無菌の" },
+      { "en": "barren", "ja": "不毛の" },
+      { "en": "fertile", "ja": "肥沃な（反意）" }
+    ],
+    "faq": [
+      { "q": "sterile の3つの意味は？", "a": "「無菌の・殺菌された」「不毛の・繁殖力のない」「無味乾燥な・創造性のない」です。文脈で判断します。" },
+      { "q": "sterile の反対語は？", "a": "「不毛の」の反対は fertile（肥沃な・繁殖力のある）です。" }
+    ],
+    "quiz": [
+      { "q": "\"All surgical instruments must be ___.\"（無菌の）の空所に入るのは？", "A": "sterile", "B": "steric", "C": "stellar", "D": "steady", "correct": "A" },
+      { "q": "「不毛の」の意味での sterile の反対語は？", "A": "fertile", "B": "barren", "C": "germ-free", "D": "clean", "correct": "A" }
+    ]
+  }
+]
