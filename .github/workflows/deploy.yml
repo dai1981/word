@@ -25,9 +25,9 @@ jobs:
       - name: ロリポップへ FTP アップロード
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
-          server:   ${{ secrets.FTP_SERVER }}
-          username: ${{ secrets.FTP_USERNAME }}
-          password: ${{ secrets.FTP_PASSWORD }}
+          server:   ftp.lolipop.jp
+          username: lolipop.jp-dp07302908
+          password: 2021eigoduke
           protocol: ftps          # うまくいかない場合は ftp に変更
           local-dir: ./word/word/ # 末尾スラッシュ必須
           server-dir: /word/word/ # サーバー側の保存先（実環境に合わせて調整）
