@@ -59,6 +59,12 @@ meanings 3〜5 / usages 2〜3 / phrases 6〜8 / related 3〜4 / faq 2〜3 / quiz
 - GA4: `G-MKNGEYPKNJ`、AdSense: `ca-pub-3234684892462480`、JSON-LD set URL: `https://eigo-duke.com/word/word.html`
   （変更する場合は `generate.py` 冒頭の定数 `GA` / `LD_SET_URL` を編集）
 
+## コミット方針（重要）
+
+- **main ブランチに直接コミットしてください。**（PR・ブランチ作成は不要）
+- 1バッチごとに、生成した `word/word/*.html` と追加した `data/*.json` をまとめて1コミットにする。
+- コミットメッセージ例: `Add s-batch2 (15 words: say...sea)`
+
 ## 注意
 - 内容は学習者向けの正確さを優先。意味・語源・例文・クイズは公開前に目視確認を推奨。
 - `data/*.json` は追記式。過去バッチは消さない（重複チェックの基準になります）。
