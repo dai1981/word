@@ -1,0 +1,278 @@
+[
+  {
+    "english": "sentence",
+    "pron": "ˈsentəns",
+    "kana": "センテンス",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 sententia（意見・考え）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "頻出語"],
+    "meaning_main": "文 ／ 判決 ／ 刑を宣告する",
+    "description": "sentence（センテンス）の意味は「文・判決」。文法の「文」と裁判の「判決・刑」の2つの意味、make a sentence の使い方、語源、例文やクイズで解説。",
+    "keywords": ["sentence 意味", "sentence 使い方", "sentence 文", "sentence 判決", "sentence 例文"],
+    "meanings": [
+      { "hinshi": "【名詞】文（文法）", "note": "大文字で始まりピリオドで終わる、意味のまとまり。" },
+      { "hinshi": "【名詞】判決・刑", "note": "a life sentence（終身刑）、a death sentence（死刑）など。" },
+      { "hinshi": "【動詞】（刑を）宣告する", "note": "be sentenced to ～（～の刑を言い渡される）。" }
+    ],
+    "usages": [
+      { "title": "① 文を作る（make a sentence）", "desc": "英語学習でおなじみの表現。write a sentence とも言う。", "example_en": "Make a sentence using this word.", "example_ja": "この単語を使って文を作りなさい。" },
+      { "title": "② 判決・刑（名詞）", "desc": "裁判で言い渡される罰を表す。", "example_en": "He received a five-year sentence.", "example_ja": "彼は5年の刑を言い渡された。" },
+      { "title": "③ ～の刑を宣告する（sentence to）", "desc": "受け身 be sentenced to ～ の形が多い。", "example_en": "She was sentenced to ten years in prison.", "example_ja": "彼女は懲役10年を言い渡された。" }
+    ],
+    "warn": [
+      "「文」と「判決・刑」というまったく違う2つの意味がある。文脈で判断する",
+      "「文を作る」は make a sentence。a が必要（make sentence とは言わない）"
+    ],
+    "etym_note": "ラテン語 sententia は「意見・考え・判断」を意味した。古フランス語を経て英語に入り、「考えを述べたまとまり＝文」と「裁判での判断＝判決」の両方の意味を持つようになった。",
+    "etym_chain": [
+      { "node": "sententia", "sub": "意見・判断", "era": "ラテン語" },
+      { "node": "sentence", "sub": "判断・文", "era": "古フランス語" },
+      { "node": "sentence", "sub": "文・判決", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "make a sentence", "ja": "文を作る" },
+      { "en": "write a sentence", "ja": "文を書く" },
+      { "en": "a complete sentence", "ja": "完全な文" },
+      { "en": "a life sentence", "ja": "終身刑" },
+      { "en": "be sentenced to", "ja": "～の刑を言い渡される" },
+      { "en": "death sentence", "ja": "死刑判決" }
+    ],
+    "related": [
+      { "en": "word", "ja": "単語" },
+      { "en": "phrase", "ja": "句・フレーズ" },
+      { "en": "paragraph", "ja": "段落" },
+      { "en": "judge", "ja": "裁判官・判断する" }
+    ],
+    "faq": [
+      { "q": "sentence には「文」以外の意味がありますか？", "a": "はい。「判決・刑」という意味もあり、a life sentence（終身刑）や be sentenced to ～（～の刑を言い渡される）のように使います。" },
+      { "q": "「英文を作る」は英語でどう言う？", "a": "make a sentence または write a sentence と言います。a を忘れないようにしましょう。" }
+    ],
+    "quiz": [
+      { "q": "\"Please ___ a sentence with this word.\" の空所に入るのは？", "A": "make", "B": "do", "C": "take", "D": "give", "correct": "A" },
+      { "q": "「終身刑」を表すのはどれ？", "A": "a complete sentence", "B": "a life sentence", "C": "a long sentence", "D": "a short sentence", "correct": "B" }
+    ]
+  },
+  {
+    "english": "separate",
+    "pron": "ˈsepəreɪt",
+    "kana": "セパレイト",
+    "hinshi": "動詞 / 形容詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 separare（引き離す）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR A2", "頻出語"],
+    "meaning_main": "分ける ／ 引き離す ／ 別々の",
+    "description": "separate の意味は「分ける・別々の」。動詞（セパレイト）と形容詞（セパレット）で発音が違う点、separate from の使い方、語源、例文やクイズで解説。",
+    "keywords": ["separate 意味", "separate 使い方", "separate 発音", "separate from", "separate 例文"],
+    "meanings": [
+      { "hinshi": "【動詞】分ける・引き離す", "note": "発音はセパレイト（ˈsepəreɪt）。一つのものを分ける。" },
+      { "hinshi": "【動詞】別れる・離れる", "note": "The couple separated last year.（その夫婦は昨年別居した）" },
+      { "hinshi": "【形容詞】別々の・離れた", "note": "発音はセパレット（ˈseprət）。語尾の発音が動詞と違う。" }
+    ],
+    "usages": [
+      { "title": "① ～を分ける（separate A from B）", "desc": "「AをBから分ける・区別する」を表す基本形。", "example_en": "Separate the white clothes from the colored ones.", "example_ja": "白い服を色物から分けなさい。" },
+      { "title": "② 別々の（形容詞）", "desc": "名詞の前に置いて「別々の・独立した」を表す。", "example_en": "They sleep in separate rooms.", "example_ja": "彼らは別々の部屋で寝ている。" },
+      { "title": "③ 別れる・離れる（動詞）", "desc": "人や物が離ればなれになることを表す。", "example_en": "We separated at the station.", "example_ja": "私たちは駅で別れた。" }
+    ],
+    "warn": [
+      "動詞は「セパレイト」、形容詞は「セパレット」と語尾の発音が変わるので注意",
+      "つづりは se-pa-rate。真ん中は a（separate）で、e にしない（×seperate）"
+    ],
+    "etym_note": "ラテン語 separare は se-（離して）+ parare（用意する・整える）で「引き離す」を意味した。その過去分詞 separatus が英語に入り、「分ける・別々の」の意味で使われるようになった。",
+    "etym_chain": [
+      { "node": "parare", "sub": "整える・用意する", "era": "ラテン語" },
+      { "node": "separare / separatus", "sub": "引き離す", "era": "ラテン語" },
+      { "node": "separate", "sub": "分ける・別々の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "separate A from B", "ja": "AをBから分ける" },
+      { "en": "separate ways", "ja": "別々の道" },
+      { "en": "go separate ways", "ja": "それぞれの道を行く・別れる" },
+      { "en": "a separate room", "ja": "別の部屋" },
+      { "en": "keep separate", "ja": "別々にしておく" },
+      { "en": "separate into", "ja": "～に分かれる" }
+    ],
+    "related": [
+      { "en": "divide", "ja": "分割する" },
+      { "en": "split", "ja": "割る・分裂する" },
+      { "en": "join", "ja": "つなぐ・結合する" },
+      { "en": "separation", "ja": "分離・別居" }
+    ],
+    "faq": [
+      { "q": "separate の発音は動詞と形容詞で違うの？", "a": "はい。動詞は「セパレイト（ˈsepəreɪt）」、形容詞は「セパレット（ˈseprət）」と語尾の発音が変わります。" },
+      { "q": "「AをBから分ける」はどう言う？", "a": "separate A from B と言います。from を使って「何から分けるか」を示します。" }
+    ],
+    "quiz": [
+      { "q": "\"They have ___ bedrooms.\" の空所（形容詞）に入るのは？", "A": "separate", "B": "separation", "C": "separately", "D": "separates", "correct": "A" },
+      { "q": "「AをBから分ける」の正しい形はどれ？", "A": "separate A to B", "B": "separate A from B", "C": "separate A of B", "D": "separate A with B", "correct": "B" }
+    ]
+  },
+  {
+    "english": "series",
+    "pron": "ˈsɪəriːz",
+    "kana": "シリーズ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 series（つながり・連続）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "頻出語"],
+    "meaning_main": "連続 ／ ひと続き ／ シリーズ",
+    "description": "series（シリーズ）の意味は「連続・ひと続き・シリーズ」。a series of ～ の使い方、単数・複数同形の注意点、語源、例文やクイズで解説。",
+    "keywords": ["series 意味", "series 使い方", "a series of", "series 単数複数", "series 例文"],
+    "meanings": [
+      { "hinshi": "【名詞】連続・ひと続き", "note": "同種のものが次々と続くこと。a series of ～ の形が多い。" },
+      { "hinshi": "【名詞】（番組・本などの）シリーズ", "note": "a TV series（テレビの連続番組）。" },
+      { "hinshi": "【名詞】（スポーツの）連戦・シリーズ", "note": "the World Series（ワールドシリーズ）。" }
+    ],
+    "usages": [
+      { "title": "① 一連の～（a series of ～）", "desc": "「一連の・いくつもの～」を表す超頻出表現。", "example_en": "There was a series of accidents on the road.", "example_ja": "その道路では一連の事故が起きた。" },
+      { "title": "② 連続番組・シリーズ", "desc": "テレビ・書籍などの続き物を指す。", "example_en": "I'm watching a new drama series.", "example_ja": "私は新しい連続ドラマを見ている。" },
+      { "title": "③ 単数・複数が同じ形", "desc": "series は単複同形。one series / two series。", "example_en": "They produced three series of the show.", "example_ja": "彼らはその番組を3シリーズ制作した。" }
+    ],
+    "warn": [
+      "series は単数形も複数形も同じ形（×seriess とは書かない）。動詞は意味で単複を判断する",
+      "a series of の後に続く名詞は複数形（a series of events）だが、a series of 全体は単数扱いになることが多い"
+    ],
+    "etym_note": "ラテン語 series は「つながり・連続」を意味し、動詞 serere（つなぐ・結びつける）に由来する。17世紀ごろ英語に入り、「ひと続きのもの＝連続・シリーズ」を表すようになった。",
+    "etym_chain": [
+      { "node": "serere", "sub": "つなぐ・結ぶ", "era": "ラテン語" },
+      { "node": "series", "sub": "つながり・連続", "era": "ラテン語" },
+      { "node": "series", "sub": "連続・シリーズ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a series of", "ja": "一連の～・いくつもの～" },
+      { "en": "TV series", "ja": "テレビの連続番組" },
+      { "en": "a drama series", "ja": "連続ドラマ" },
+      { "en": "the World Series", "ja": "ワールドシリーズ" },
+      { "en": "a series of events", "ja": "一連の出来事" },
+      { "en": "in a series", "ja": "ひと続きで・連続して" }
+    ],
+    "related": [
+      { "en": "sequence", "ja": "連続・順序" },
+      { "en": "set", "ja": "ひとそろい・組" },
+      { "en": "row", "ja": "列・並び" },
+      { "en": "serial", "ja": "連続の・連載の" }
+    ],
+    "faq": [
+      { "q": "series の複数形は？", "a": "series は単数形も複数形も同じ形です（単複同形）。one series, two series のように使います。" },
+      { "q": "a series of の後の名詞は単数？複数？", "a": "複数形を使います（a series of accidents）。ただし a series of ～ 全体は「ひとまとまり」として単数扱いされることが多いです。" }
+    ],
+    "quiz": [
+      { "q": "\"There was a ___ of problems.\" の空所に入るのは？", "A": "series", "B": "serial", "C": "serious", "D": "serie", "correct": "A" },
+      { "q": "series の複数形はどれ？", "A": "seriess", "B": "series", "C": "serieses", "D": "seria", "correct": "B" }
+    ]
+  },
+  {
+    "english": "serious",
+    "pron": "ˈsɪəriəs",
+    "kana": "シリアス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 serius（重い・まじめな）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "頻出語"],
+    "meaning_main": "まじめな ／ 深刻な ／ 本気の",
+    "description": "serious（シリアス）の意味は「まじめな・深刻な・本気の」。a serious problem の使い方、be serious about、語源、例文やクイズでわかりやすく解説。",
+    "keywords": ["serious 意味", "serious 使い方", "serious about", "serious 深刻", "serious 例文"],
+    "meanings": [
+      { "hinshi": "【形容詞】深刻な・重大な", "note": "a serious problem / illness など、軽くない事態を表す。" },
+      { "hinshi": "【形容詞】まじめな・本気の", "note": "Are you serious?（本気なの？）でよく使う。" },
+      { "hinshi": "【形容詞】真剣な・慎重な", "note": "a serious student（真剣に取り組む学生）。" }
+    ],
+    "usages": [
+      { "title": "① 深刻な～（a serious ～）", "desc": "problem, illness, accident などにつけて「重大な」を表す。", "example_en": "This is a serious problem.", "example_ja": "これは深刻な問題だ。" },
+      { "title": "② ～に本気である（be serious about）", "desc": "「～について本気だ・真剣だ」を表す。", "example_en": "She is serious about studying abroad.", "example_ja": "彼女は留学について本気だ。" },
+      { "title": "③ 本気なの？（Are you serious?）", "desc": "驚いたときの定番フレーズ。", "example_en": "Are you serious? I can't believe it!", "example_ja": "本気なの？信じられない！" }
+    ],
+    "warn": [
+      "series（連続・シリーズ）とつづり・発音が似ているが意味は別。混同しないこと",
+      "「まじめ」と「深刻」両方の意味がある。文脈で判断する"
+    ],
+    "etym_note": "ラテン語 serius は「重い・まじめな」を意味した。後期ラテン語 seriosus を経て古フランス語に入り、英語では「まじめな」から「深刻な・重大な」へと意味が広がった。",
+    "etym_chain": [
+      { "node": "serius", "sub": "重い・まじめな", "era": "ラテン語" },
+      { "node": "seriosus / serieux", "sub": "まじめな", "era": "後期ラテン語・古フランス語" },
+      { "node": "serious", "sub": "まじめな・深刻な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a serious problem", "ja": "深刻な問題" },
+      { "en": "be serious about", "ja": "～に本気である" },
+      { "en": "Are you serious?", "ja": "本気なの？" },
+      { "en": "a serious illness", "ja": "重い病気" },
+      { "en": "take ～ seriously", "ja": "～を真剣に受け止める" },
+      { "en": "serious damage", "ja": "重大な被害" }
+    ],
+    "related": [
+      { "en": "seriously", "ja": "真剣に・深刻に" },
+      { "en": "severe", "ja": "厳しい・深刻な" },
+      { "en": "earnest", "ja": "まじめな・熱心な" },
+      { "en": "grave", "ja": "重大な・厳粛な" }
+    ],
+    "faq": [
+      { "q": "serious と series の違いは？", "a": "serious は形容詞で「まじめな・深刻な」、series は名詞で「連続・シリーズ」です。つづりが似ていますが意味も品詞も違います。" },
+      { "q": "「真剣に受け止める」は英語でどう言う？", "a": "take ～ seriously と言います。副詞の seriously（真剣に）を使う点に注意しましょう。" }
+    ],
+    "quiz": [
+      { "q": "\"Don't worry, it's not ___.\" の空所に入るのは？", "A": "serious", "B": "series", "C": "serial", "D": "seriously", "correct": "A" },
+      { "q": "「～について本気だ」の正しい形はどれ？", "A": "serious about", "B": "serious for", "C": "serious of", "D": "serious to", "correct": "A" }
+    ]
+  },
+  {
+    "english": "serve",
+    "pron": "sɜːrv",
+    "kana": "サーブ",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 servire（仕える）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "頻出語"],
+    "meaning_main": "仕える ／ 給仕する ／ 役立つ",
+    "description": "serve（サーブ）の意味は「仕える・給仕する・役立つ」。料理を出す、客に対応する、テニスのサーブなど多彩な使い方を語源・例文・クイズで解説。",
+    "keywords": ["serve 意味", "serve 使い方", "serve 料理", "serve as", "serve 例文"],
+    "meanings": [
+      { "hinshi": "【動詞】（食べ物・飲み物を）出す・給仕する", "note": "Dinner is served.（夕食の用意ができました）。" },
+      { "hinshi": "【動詞】（客などに）応対する・仕える", "note": "店員が客に対応する、組織に奉仕するなど。" },
+      { "hinshi": "【動詞】役立つ・（目的を）果たす", "note": "serve as ～（～として役立つ）。" },
+      { "hinshi": "【名詞】（テニスなどの）サーブ", "note": "a strong serve（力強いサーブ）。" }
+    ],
+    "usages": [
+      { "title": "① 料理を出す（serve food）", "desc": "レストランや家庭で食べ物・飲み物を出す。", "example_en": "They serve breakfast until 10 a.m.", "example_ja": "そこは午前10時まで朝食を出す。" },
+      { "title": "② ～として役立つ（serve as）", "desc": "「～の役割を果たす・～として機能する」を表す。", "example_en": "This box can serve as a chair.", "example_ja": "この箱は椅子として使える。" },
+      { "title": "③ 客に応対する（serve customers）", "desc": "店員が客に対応する場面で使う。", "example_en": "Are you being served?", "example_ja": "ご用は承っておりますか？（接客の決まり文句）" }
+    ],
+    "warn": [
+      "「給仕する・客に応対する」と「役立つ」など意味が幅広い。文脈で判断する",
+      "service（名詞: サービス・奉仕）や servant（召使い）と語源が同じ。あわせて覚えると便利"
+    ],
+    "etym_note": "ラテン語 servire は「仕える・奉仕する」を意味し、servus（奴隷・召使い）に由来する。古フランス語 servir を経て英語に入り、「仕える」から「給仕する」「役立つ」へと意味が広がった。",
+    "etym_chain": [
+      { "node": "servus / servire", "sub": "仕える・奉仕する", "era": "ラテン語" },
+      { "node": "servir", "sub": "仕える・給仕する", "era": "古フランス語" },
+      { "node": "serve", "sub": "仕える・役立つ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "serve as", "ja": "～として役立つ・～を務める" },
+      { "en": "serve food", "ja": "食事を出す" },
+      { "en": "serve customers", "ja": "客に応対する" },
+      { "en": "serve a purpose", "ja": "目的にかなう・役立つ" },
+      { "en": "It serves you right.", "ja": "自業自得だ・いい気味だ" },
+      { "en": "serve in the army", "ja": "軍隊で勤務する" }
+    ],
+    "related": [
+      { "en": "service", "ja": "サービス・奉仕" },
+      { "en": "servant", "ja": "召使い・使用人" },
+      { "en": "provide", "ja": "提供する" },
+      { "en": "offer", "ja": "申し出る・提供する" }
+    ],
+    "faq": [
+      { "q": "serve as の意味は？", "a": "「～として役立つ・～の役割を果たす」という意味です。This room serves as an office.（この部屋は事務所として使われている）のように使います。" },
+      { "q": "serve と service の関係は？", "a": "serve は動詞「仕える・給仕する・役立つ」、service はその名詞形で「サービス・奉仕」です。どちらもラテン語 servire に由来します。" }
+    ],
+    "quiz": [
+      { "q": "\"This box can ___ as a table.\" の空所に入るのは？", "A": "serve", "B": "service", "C": "servant", "D": "serving", "correct": "A" },
+      { "q": "\"They ___ lunch from 11 a.m.\" の空所に入るのは？", "A": "serve", "B": "save", "C": "send", "D": "sell", "correct": "A" }
+    ]
+  }
+]
