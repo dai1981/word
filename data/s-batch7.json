@@ -1,0 +1,552 @@
+[
+  {
+    "english": "shoe",
+    "pron": "ʃuː",
+    "kana": "シュー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 scōh（靴）",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "基本語"],
+    "meaning_main": "靴 ／ 片方の靴",
+    "description": "shoe（シュー）の意味は「靴（片方）」。a pair of shoes の数え方、複数形 shoes、put on / wear の使い方、語源、例文やクイズで解説。",
+    "keywords": ["shoe 意味", "shoe 使い方", "a pair of shoes", "shoes 複数形", "shoe 例文"],
+    "meanings": [
+      { "hinshi": "【名詞】靴（片方）", "note": "ふつう2つで1組なので shoes と複数で使うことが多い。" },
+      { "hinshi": "【名詞】（馬の）蹄鉄（ていてつ）", "note": "horseshoe（馬のひづめに打つ金具）。" }
+    ],
+    "usages": [
+      { "title": "① 一足の靴（a pair of shoes）", "desc": "靴は2つで1組なので a pair of で数える。", "example_en": "I bought a pair of shoes.", "example_ja": "私は靴を一足買った。" },
+      { "title": "② 靴をはく（put on / wear）", "desc": "動作は put on、状態は wear。", "example_en": "Put on your shoes. We're leaving.", "example_ja": "靴をはいて。出かけるよ。" },
+      { "title": "③ 靴をぬぐ（take off）", "desc": "「ぬぐ」は take off。", "example_en": "Please take off your shoes here.", "example_ja": "ここで靴をぬいでください。" }
+    ],
+    "warn": [
+      "片方なら a shoe、両方なら shoes / a pair of shoes",
+      "「はく（動作）」は put on、「はいている（状態）」は wear。ぬぐのは take off"
+    ],
+    "etym_note": "古英語 scōh は「靴」を意味し、ゲルマン祖語 *skōhaz に由来する。ドイツ語 Schuh と同源。古くからある基本語で、複数形はかつて shoon だったが、のちに規則的な shoes になった。",
+    "etym_chain": [
+      { "node": "*skōhaz", "sub": "靴", "era": "ゲルマン祖語" },
+      { "node": "scōh", "sub": "靴", "era": "古英語" },
+      { "node": "shoe", "sub": "靴", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a pair of shoes", "ja": "靴一足" },
+      { "en": "put on shoes", "ja": "靴をはく" },
+      { "en": "take off shoes", "ja": "靴をぬぐ" },
+      { "en": "running shoes", "ja": "ランニングシューズ" },
+      { "en": "in someone's shoes", "ja": "～の立場になって" },
+      { "en": "horseshoe", "ja": "蹄鉄" }
+    ],
+    "related": [
+      { "en": "boot", "ja": "ブーツ・長靴" },
+      { "en": "sandal", "ja": "サンダル" },
+      { "en": "sock", "ja": "靴下" },
+      { "en": "slipper", "ja": "スリッパ" }
+    ],
+    "faq": [
+      { "q": "「靴一足」は英語でどう言う？", "a": "a pair of shoes と言います。靴は2つで1組なので、数えるときは a pair of を使います。" },
+      { "q": "in someone's shoes の意味は？", "a": "「～の立場に立って・～の身になって」という意味の慣用句です。Put yourself in my shoes.（私の身になって考えて）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "「靴一足」を表すのはどれ？", "A": "a pair of shoes", "B": "a piece of shoes", "C": "a set of shoe", "D": "a glass of shoes", "correct": "A" },
+      { "q": "\"Please ___ off your shoes.\"（ぬいで）の空所に入るのは？", "A": "take", "B": "put", "C": "wear", "D": "make", "correct": "A" }
+    ]
+  },
+  {
+    "english": "shoot",
+    "pron": "ʃuːt",
+    "kana": "シュート",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古英語 scēotan（撃つ・素早く動く）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "頻出語"],
+    "meaning_main": "撃つ ／ シュートする ／ 撮影する",
+    "description": "shoot（シュート）の意味は「撃つ・シュートする・撮影する」。過去形 shot、shoot a film の使い方、語源、例文やクイズでわかりやすく解説。",
+    "keywords": ["shoot 意味", "shoot 使い方", "shoot 過去形", "shoot a film", "shoot 例文"],
+    "meanings": [
+      { "hinshi": "【動詞】（銃などを）撃つ・発射する", "note": "shoot a gun（銃を撃つ）。" },
+      { "hinshi": "【動詞】（球技で）シュートする", "note": "shoot a ball into the goal（ゴールにシュートする）。" },
+      { "hinshi": "【動詞】（写真・映画を）撮影する", "note": "shoot a movie（映画を撮影する）。" },
+      { "hinshi": "【名詞】撮影・若芽", "note": "a photo shoot（写真撮影）、a bamboo shoot（たけのこ）。" }
+    ],
+    "usages": [
+      { "title": "① 撃つ（shoot at）", "desc": "「～をねらって撃つ」は shoot at ～。", "example_en": "The hunter shot at the bird.", "example_ja": "猟師は鳥をねらって撃った。" },
+      { "title": "② 撮影する（shoot a film）", "desc": "映画・写真を「撮る」意味でよく使う。", "example_en": "They shot the film in Hawaii.", "example_ja": "彼らはその映画をハワイで撮影した。" },
+      { "title": "③ シュートする（球技）", "desc": "サッカー・バスケで「ゴールをねらう」。", "example_en": "He shot and scored.", "example_ja": "彼はシュートして得点した。" }
+    ],
+    "warn": [
+      "過去形・過去分詞は shot（ショット）。不規則変化に注意（shoot - shot - shot）",
+      "「～をねらって撃つ（命中しなくても）」は shoot at、「撃ち殺す・撃ち当てる」は shoot ～"
+    ],
+    "etym_note": "古英語 scēotan は「撃つ・素早く動く・突き出す」を意味し、ゲルマン祖語 *skeutaną に由来する。「すばやく射出する」という基本義から、「撃つ」「シュートする」「（芽が）出る」「撮影する」へと多方面に広がった。",
+    "etym_chain": [
+      { "node": "*skeutaną", "sub": "撃つ・突き出す", "era": "ゲルマン祖語" },
+      { "node": "scēotan", "sub": "撃つ・素早く動く", "era": "古英語" },
+      { "node": "shoot", "sub": "撃つ・撮影する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "shoot at", "ja": "～をねらって撃つ" },
+      { "en": "shoot a film", "ja": "映画を撮影する" },
+      { "en": "shoot a goal", "ja": "シュートを決める" },
+      { "en": "shoot up", "ja": "急上昇する・急成長する" },
+      { "en": "shooting star", "ja": "流れ星" },
+      { "en": "photo shoot", "ja": "写真撮影" }
+    ],
+    "related": [
+      { "en": "fire", "ja": "発砲する・撃つ" },
+      { "en": "aim", "ja": "ねらう" },
+      { "en": "kick", "ja": "蹴る" },
+      { "en": "shot", "ja": "発射・一撃・ショット" }
+    ],
+    "faq": [
+      { "q": "shoot の過去形は？", "a": "shot です。過去分詞も shot で不規則変化です（shoot - shot - shot）。" },
+      { "q": "shoot に「撮影する」の意味があるの？", "a": "はい。shoot a movie / shoot a photo のように「（映画・写真を）撮影する」意味で使います。名詞 a photo shoot（写真撮影）も同じ語源です。" }
+    ],
+    "quiz": [
+      { "q": "shoot の過去形はどれ？", "A": "shooted", "B": "shot", "C": "shoot", "D": "shut", "correct": "B" },
+      { "q": "「映画を撮影する」に合うのはどれ？", "A": "shoot a film", "B": "shoot at a film", "C": "shoot up a film", "D": "shoot off a film", "correct": "A" }
+    ]
+  },
+  {
+    "english": "shop",
+    "pron": "ʃɑːp",
+    "kana": "ショップ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 sceoppa（小屋・作業場）",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "基本語"],
+    "meaning_main": "店 ／ 買い物をする",
+    "description": "shop（ショップ）の意味は「店・買い物をする」。store との違い、go shopping の使い方、語源、例文やクイズでわかりやすく解説。",
+    "keywords": ["shop 意味", "shop 使い方", "shop store 違い", "go shopping", "shop 例文"],
+    "meanings": [
+      { "hinshi": "【名詞】店・小売店", "note": "比較的小さな店を指すことが多い（イギリス英語で一般的）。" },
+      { "hinshi": "【名詞】仕事場・作業場", "note": "a repair shop（修理工場）。" },
+      { "hinshi": "【動詞】買い物をする", "note": "go shopping（買い物に行く）。" }
+    ],
+    "usages": [
+      { "title": "① 買い物に行く（go shopping）", "desc": "「買い物をする」は go shopping が定番。", "example_en": "Let's go shopping this weekend.", "example_ja": "今週末、買い物に行こう。" },
+      { "title": "② 店（名詞）", "desc": "a flower shop（花屋）など、専門店を表す。", "example_en": "There is a new coffee shop near my house.", "example_ja": "家の近くに新しいコーヒー店がある。" },
+      { "title": "③ store との違い", "desc": "アメリカでは store が一般的。shop は小さめの店・専門店のイメージ。", "example_en": "She works at a small shop.", "example_ja": "彼女は小さな店で働いている。" }
+    ],
+    "warn": [
+      "「買い物に行く」は go shopping。go to shopping とは言わない（to は不要）",
+      "shop は小さな店、store は大きな店（特に米）。department store は「百貨店」"
+    ],
+    "etym_note": "古英語 sceoppa は「小屋・物置・作業場」を意味した。中英語にかけて「商品を売る作業場＝店」の意味になり、のちに動詞「買い物をする」も生まれた。",
+    "etym_chain": [
+      { "node": "sceoppa", "sub": "小屋・作業場", "era": "古英語" },
+      { "node": "shoppe", "sub": "店・作業場", "era": "中英語" },
+      { "node": "shop", "sub": "店・買い物をする", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "go shopping", "ja": "買い物に行く" },
+      { "en": "a coffee shop", "ja": "コーヒー店・喫茶店" },
+      { "en": "a gift shop", "ja": "土産物店" },
+      { "en": "shop around", "ja": "店をいくつか見て回る・買い比べる" },
+      { "en": "window shopping", "ja": "ウインドーショッピング" },
+      { "en": "shop assistant", "ja": "店員" }
+    ],
+    "related": [
+      { "en": "store", "ja": "店（特に大きな店）" },
+      { "en": "market", "ja": "市場" },
+      { "en": "mall", "ja": "ショッピングモール" },
+      { "en": "buy", "ja": "買う" }
+    ],
+    "faq": [
+      { "q": "「買い物に行く」は英語でどう言う？", "a": "go shopping と言います。go to shopping とは言わないので注意しましょう。" },
+      { "q": "shop と store の違いは？", "a": "shop は比較的小さな店・専門店（イギリスで一般的）、store は大きな店（アメリカで一般的）を指すことが多いです。department store は百貨店です。" }
+    ],
+    "quiz": [
+      { "q": "\"Let's go ___ tomorrow.\"（買い物に）の空所に入るのは？", "A": "shopping", "B": "to shop", "C": "to shopping", "D": "shop", "correct": "A" },
+      { "q": "「店員」を表すのはどれ？", "A": "shop assistant", "B": "shop around", "C": "window shopping", "D": "coffee shop", "correct": "A" }
+    ]
+  },
+  {
+    "english": "shore",
+    "pron": "ʃɔːr",
+    "kana": "ショー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "中低ドイツ語 schōr（岸）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "頻出語"],
+    "meaning_main": "岸 ／ 海岸 ／ 湖畔",
+    "description": "shore（ショー）の意味は「岸・海岸」。beach・coast との違い、on the shore の使い方、語源、例文やクイズでわかりやすく解説。",
+    "keywords": ["shore 意味", "shore 使い方", "shore beach coast 違い", "on the shore", "shore 例文"],
+    "meanings": [
+      { "hinshi": "【名詞】岸・海岸・湖畔", "note": "海・湖・川などの水際の陸地。" },
+      { "hinshi": "【名詞】陸（海から見た）", "note": "go on shore（上陸する）。" }
+    ],
+    "usages": [
+      { "title": "① 岸で・岸に（on the shore）", "desc": "水際の陸地を表す。", "example_en": "We walked along the shore.", "example_ja": "私たちは岸辺に沿って歩いた。" },
+      { "title": "② 湖畔（the shore of a lake）", "desc": "海だけでなく湖や川の岸にも使う。", "example_en": "Their house is on the shore of a lake.", "example_ja": "彼らの家は湖のほとりにある。" },
+      { "title": "③ beach との違い", "desc": "beach は砂浜、shore はより広く「水際の陸地」全般。", "example_en": "The boat reached the shore safely.", "example_ja": "ボートは無事に岸に着いた。" }
+    ],
+    "warn": [
+      "beach は「砂浜（遊ぶ場所）」、shore は「水際の陸地」全般、coast は「（地図上の）海岸線・沿岸地域」",
+      "shore（ショー）と sure（確かな）は発音が似ているが意味は別"
+    ],
+    "etym_note": "中低ドイツ語 schōr（岸）に由来し、「（陸と水が）切れ目になる所」という発想に基づくとされる。shear（切る）と関係づける説もある。中英語を経て「岸・海岸」の意味になった。",
+    "etym_chain": [
+      { "node": "schōr", "sub": "岸", "era": "中低ドイツ語" },
+      { "node": "schore", "sub": "岸・海岸", "era": "中英語" },
+      { "node": "shore", "sub": "岸・海岸", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "on the shore", "ja": "岸に・岸辺で" },
+      { "en": "the shore of a lake", "ja": "湖畔" },
+      { "en": "go on shore", "ja": "上陸する" },
+      { "en": "off shore", "ja": "沖合の・海外の" },
+      { "en": "seashore", "ja": "海岸・浜辺" },
+      { "en": "wash up on shore", "ja": "岸に打ち上げられる" }
+    ],
+    "related": [
+      { "en": "beach", "ja": "浜辺・砂浜" },
+      { "en": "coast", "ja": "海岸・沿岸" },
+      { "en": "bank", "ja": "（川の）岸・土手" },
+      { "en": "seaside", "ja": "海辺・海岸地方" }
+    ],
+    "faq": [
+      { "q": "shore と beach の違いは？", "a": "beach は砂や小石の「浜辺（遊ぶ場所）」、shore は海・湖・川の「水際の陸地」全般を指します。shore のほうが広い意味です。" },
+      { "q": "shore と coast の違いは？", "a": "shore は実際に水と接する「岸」、coast は地図上で見たときの「海岸線・沿岸地域」を指すことが多いです。" }
+    ],
+    "quiz": [
+      { "q": "\"We walked along the ___.\"（岸辺）の空所に入るのは？", "A": "shore", "B": "short", "C": "sure", "D": "shop", "correct": "A" },
+      { "q": "「湖のほとり」に合うのはどれ？", "A": "the shore of a lake", "B": "the shop of a lake", "C": "the short of a lake", "D": "the shoot of a lake", "correct": "A" }
+    ]
+  },
+  {
+    "english": "short",
+    "pron": "ʃɔːrt",
+    "kana": "ショート",
+    "hinshi": "形容詞 / 副詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "古英語 sceort（短い）",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "基本語"],
+    "meaning_main": "短い ／ 背が低い ／ 不足して",
+    "description": "short（ショート）の意味は「短い・背が低い・不足して」。long・tall との対比、be short of の使い方、語源、例文やクイズで解説。",
+    "keywords": ["short 意味", "short 使い方", "short of", "short long 違い", "short 例文"],
+    "meanings": [
+      { "hinshi": "【形容詞】（長さ・時間が）短い", "note": "a short story（短編）、a short time（短い時間）。反対は long。" },
+      { "hinshi": "【形容詞】背が低い", "note": "a short man（背の低い男性）。反対は tall。" },
+      { "hinshi": "【形容詞】不足して・足りない", "note": "be short of money（お金が足りない）。" }
+    ],
+    "usages": [
+      { "title": "① 短い（形容詞）", "desc": "長さ・時間・距離が短いこと。", "example_en": "It was a short trip.", "example_ja": "それは短い旅行だった。" },
+      { "title": "② ～が不足している（be short of）", "desc": "「～が足りない」を表す。", "example_en": "We are short of time.", "example_ja": "私たちは時間が足りない。" },
+      { "title": "③ 要するに（in short）", "desc": "話をまとめるときの表現。", "example_en": "In short, the plan failed.", "example_ja": "要するに、その計画は失敗した。" }
+    ],
+    "warn": [
+      "「短い」の反対は long、「背が低い」の反対は tall。意味で反対語が変わる",
+      "be short of ～（～が不足している）の of を忘れない"
+    ],
+    "etym_note": "古英語 sceort は「短い」を意味し、ゲルマン祖語 *skurtaz に由来する。shirt（シャツ）や skirt（スカート）と語源を共有し、「（裾を）切り詰めた＝短い」という発想に基づく。",
+    "etym_chain": [
+      { "node": "*skurtaz", "sub": "短い", "era": "ゲルマン祖語" },
+      { "node": "sceort", "sub": "短い", "era": "古英語" },
+      { "node": "short", "sub": "短い", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be short of", "ja": "～が不足している" },
+      { "en": "in short", "ja": "要するに" },
+      { "en": "for short", "ja": "略して" },
+      { "en": "short cut", "ja": "近道・手っ取り早い方法" },
+      { "en": "run short", "ja": "（在庫などが）足りなくなる" },
+      { "en": "a short while", "ja": "しばらくの間" }
+    ],
+    "related": [
+      { "en": "long", "ja": "長い" },
+      { "en": "tall", "ja": "背が高い" },
+      { "en": "brief", "ja": "短い・簡潔な" },
+      { "en": "shorten", "ja": "短くする" }
+    ],
+    "faq": [
+      { "q": "short の反対語は long？ tall？", "a": "「短い」の反対は long、「背が低い」の反対は tall です。意味によって反対語が変わります。" },
+      { "q": "be short of の意味は？", "a": "「～が不足している・足りない」という意味です。We are short of money.（お金が足りない）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "\"We are ___ of time.\"（足りない）の空所に入るのは？", "A": "short", "B": "long", "C": "tall", "D": "small", "correct": "A" },
+      { "q": "「背が低い」の反対語はどれ？", "A": "tall", "B": "long", "C": "big", "D": "wide", "correct": "A" }
+    ]
+  },
+  {
+    "english": "shot",
+    "pron": "ʃɑːt",
+    "kana": "ショット",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 sceot（発射・射撃）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "頻出語"],
+    "meaning_main": "発砲 ／ シュート ／ 写真・試み",
+    "description": "shot（ショット）の意味は「発砲・シュート・写真・試み」。shoot の過去形でもある点、a good shot の使い方、語源、例文やクイズで解説。",
+    "keywords": ["shot 意味", "shot 使い方", "shot shoot 違い", "a good shot", "shot 例文"],
+    "meanings": [
+      { "hinshi": "【名詞】発砲・射撃・一発", "note": "fire a shot（一発撃つ）。" },
+      { "hinshi": "【名詞】（球技の）シュート・一打", "note": "a good shot（ナイスショット）。" },
+      { "hinshi": "【名詞】写真・（映画の）一場面", "note": "take a shot（写真を撮る）。" },
+      { "hinshi": "【名詞】試み・チャンス／注射", "note": "give it a shot（やってみる）、a flu shot（インフルエンザの注射）。" }
+    ],
+    "usages": [
+      { "title": "① やってみる（give it a shot）", "desc": "「試しにやってみる」を表す口語表現。", "example_en": "It's hard, but I'll give it a shot.", "example_ja": "難しいけど、やってみるよ。" },
+      { "title": "② 写真を撮る（take a shot）", "desc": "「一枚撮る」を表す。", "example_en": "Let me take a shot of the sunset.", "example_ja": "夕日を一枚撮らせて。" },
+      { "title": "③ shoot の過去形", "desc": "動詞 shoot（撃つ）の過去形・過去分詞でもある。", "example_en": "He shot the ball into the goal.", "example_ja": "彼はボールをゴールに撃ち込んだ。" }
+    ],
+    "warn": [
+      "shot は名詞「発砲・シュート・写真・注射」のほか、動詞 shoot の過去形・過去分詞でもある",
+      "「注射」も a shot。get a shot で「注射を受ける」"
+    ],
+    "etym_note": "古英語 sceot は「発射・射撃・素早い動き」を意味し、動詞 scēotan（撃つ）に由来する。「撃ち出すこと」から、「一発」「シュート」「写真の一枚」「試み」など幅広い意味に発展した。",
+    "etym_chain": [
+      { "node": "scēotan", "sub": "撃つ", "era": "古英語" },
+      { "node": "sceot / shot", "sub": "発射・射撃", "era": "古英語・中英語" },
+      { "node": "shot", "sub": "発砲・一撃・写真", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "give it a shot", "ja": "やってみる・試す" },
+      { "en": "a good shot", "ja": "ナイスショット・名手" },
+      { "en": "take a shot", "ja": "撃つ・撮る・試みる" },
+      { "en": "a long shot", "ja": "成功しそうにないこと・大穴" },
+      { "en": "a flu shot", "ja": "インフルエンザの予防注射" },
+      { "en": "big shot", "ja": "大物・お偉方" }
+    ],
+    "related": [
+      { "en": "shoot", "ja": "撃つ・シュートする" },
+      { "en": "bullet", "ja": "弾丸" },
+      { "en": "photo", "ja": "写真" },
+      { "en": "try", "ja": "試み・やってみる" }
+    ],
+    "faq": [
+      { "q": "shot と shoot の関係は？", "a": "shot は名詞「発砲・シュート・写真・注射」などを表すほか、動詞 shoot（撃つ）の過去形・過去分詞でもあります。" },
+      { "q": "give it a shot の意味は？", "a": "「（試しに）やってみる」という意味の口語表現です。give it a try とほぼ同じ意味です。" }
+    ],
+    "quiz": [
+      { "q": "\"It looks difficult, but let's give it a ___.\"（やってみよう）の空所に入るのは？", "A": "shot", "B": "shop", "C": "shore", "D": "short", "correct": "A" },
+      { "q": "shoot の過去形にあたるのはどれ？", "A": "shot", "B": "shooted", "C": "shoots", "D": "shut", "correct": "A" }
+    ]
+  },
+  {
+    "english": "should",
+    "pron": "ʃʊd",
+    "kana": "シュッド",
+    "hinshi": "助動詞",
+    "ld_pos": "助動詞",
+    "ld_etym": "古英語 sceolde（shall の過去形）",
+    "ld_level": "4級",
+    "badges": ["中学生〜", "英検4級", "CEFR A2", "基本語"],
+    "meaning_main": "～すべきだ ／ ～したほうがよい ／ ～のはずだ",
+    "description": "should（シュッド）の意味と使い方。「～すべき」の助言、「～のはずだ」の推量、must との違い、語源、例文やクイズでわかりやすく解説。",
+    "keywords": ["should 意味", "should 使い方", "should must 違い", "should have", "should 例文"],
+    "meanings": [
+      { "hinshi": "【助動詞】～すべきだ・～したほうがよい", "note": "助言・義務を表す。must より弱い。" },
+      { "hinshi": "【助動詞】～のはずだ（推量）", "note": "He should be home by now.（もう家にいるはずだ）。" },
+      { "hinshi": "【助動詞】should have + 過去分詞", "note": "「～すべきだった（のにしなかった）」という後悔。" }
+    ],
+    "usages": [
+      { "title": "① ～すべきだ・したほうがよい", "desc": "アドバイスや軽い義務を表す。", "example_en": "You should see a doctor.", "example_ja": "医者に診てもらったほうがいいよ。" },
+      { "title": "② ～のはずだ（推量）", "desc": "当然そうなると予想する。", "example_en": "The train should arrive soon.", "example_ja": "電車はもうすぐ着くはずだ。" },
+      { "title": "③ ～すべきだった（should have + 過去分詞）", "desc": "しなかったことへの後悔を表す。", "example_en": "I should have studied harder.", "example_ja": "もっと一生懸命勉強すべきだった。" }
+    ],
+    "warn": [
+      "should は must より弱い「～したほうがよい」。must は「～しなければならない（強い義務）」",
+      "「～すべきだった（のにしなかった）」は should have + 過去分詞。後悔・非難を表す"
+    ],
+    "etym_note": "should は shall（古英語 sceal）の過去形 sceolde に由来する。もともと「負っていた・するはずだった」という義務の意味で、そこから「～すべきだ」「～のはずだ」という現代の用法が生まれた。",
+    "etym_chain": [
+      { "node": "sceolde", "sub": "するべきだった", "era": "古英語" },
+      { "node": "sholde", "sub": "～すべき", "era": "中英語" },
+      { "node": "should", "sub": "～すべきだ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "should have + 過去分詞", "ja": "～すべきだった" },
+      { "en": "shouldn't", "ja": "～すべきでない" },
+      { "en": "I should think so", "ja": "そうだと思う" },
+      { "en": "Why should I?", "ja": "なぜ私が（する必要がある）？" },
+      { "en": "should like to", "ja": "～したいのですが（丁寧）" },
+      { "en": "as it should be", "ja": "あるべき姿で・当然のように" }
+    ],
+    "related": [
+      { "en": "shall", "ja": "～しましょうか（should の原形）" },
+      { "en": "must", "ja": "～しなければならない" },
+      { "en": "ought to", "ja": "～すべきだ" },
+      { "en": "had better", "ja": "～したほうがよい（強め）" }
+    ],
+    "faq": [
+      { "q": "should と must の違いは？", "a": "should は「～したほうがよい」という助言・軽い義務、must は「～しなければならない」という強い義務を表します。should のほうが弱い表現です。" },
+      { "q": "should have + 過去分詞の意味は？", "a": "「～すべきだったのに（しなかった）」という後悔や非難を表します。I should have called you.（電話すべきだった）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "\"You ___ see a doctor.\"（したほうがいい）の空所に入るのは？", "A": "should", "B": "shall", "C": "would", "D": "could", "correct": "A" },
+      { "q": "「もっと勉強すべきだった」に合うのはどれ？", "A": "I should have studied.", "B": "I should study.", "C": "I should studying.", "D": "I shall study.", "correct": "A" }
+    ]
+  },
+  {
+    "english": "shoulder",
+    "pron": "ˈʃoʊldər",
+    "kana": "ショルダー",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 sculdor（肩）",
+    "ld_level": "4級",
+    "badges": ["中学生〜", "英検4級", "CEFR A2", "基本語"],
+    "meaning_main": "肩 ／ 路肩 ／ 担う",
+    "description": "shoulder（ショルダー）の意味は「肩」。shoulder bag の使い方、shoulder to shoulder などの慣用句、語源、例文やクイズでわかりやすく解説。",
+    "keywords": ["shoulder 意味", "shoulder 使い方", "shoulder bag", "肩 英語", "shoulder 例文"],
+    "meanings": [
+      { "hinshi": "【名詞】肩", "note": "首と腕のつけ根の部分。" },
+      { "hinshi": "【名詞】（道路の）路肩", "note": "the shoulder of the road（路肩）。" },
+      { "hinshi": "【動詞】（責任などを）担う・肩で押す", "note": "shoulder the responsibility（責任を負う）。" }
+    ],
+    "usages": [
+      { "title": "① 肩（名詞）", "desc": "体の部位を表す基本語。", "example_en": "He tapped me on the shoulder.", "example_ja": "彼は私の肩をたたいた。" },
+      { "title": "② ショルダーバッグ（shoulder bag）", "desc": "肩にかけるかばん。", "example_en": "She carried a shoulder bag.", "example_ja": "彼女はショルダーバッグを持っていた。" },
+      { "title": "③ 責任を担う（shoulder）", "desc": "「（重い責任を）負う」を表す動詞用法。", "example_en": "She shouldered the blame.", "example_ja": "彼女は責めを引き受けた。" }
+    ],
+    "warn": [
+      "「（体の部位を）たたく」は tap 人 on the shoulder のように on the + 部位の形をとる",
+      "shoulder には「路肩」や「（責任を）担う」という意味もある"
+    ],
+    "etym_note": "古英語 sculdor は「肩」を意味し、西ゲルマン語 *skuldru に由来する。ドイツ語 Schulter と同源。「重いものを支える体の部分」から、「責任を担う」という動詞の意味も生まれた。",
+    "etym_chain": [
+      { "node": "*skuldru", "sub": "肩", "era": "西ゲルマン語" },
+      { "node": "sculdor", "sub": "肩", "era": "古英語" },
+      { "node": "shoulder", "sub": "肩・担う", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "shoulder bag", "ja": "ショルダーバッグ" },
+      { "en": "shoulder to shoulder", "ja": "肩を並べて・協力して" },
+      { "en": "a shoulder to cry on", "ja": "（悩みを聞いてくれる）頼れる相手" },
+      { "en": "shrug one's shoulders", "ja": "肩をすくめる" },
+      { "en": "pat on the shoulder", "ja": "肩をたたく（励まし）" },
+      { "en": "cold shoulder", "ja": "冷たい態度・よそよそしさ" }
+    ],
+    "related": [
+      { "en": "arm", "ja": "腕" },
+      { "en": "neck", "ja": "首" },
+      { "en": "back", "ja": "背中" },
+      { "en": "elbow", "ja": "ひじ" }
+    ],
+    "faq": [
+      { "q": "「肩をたたく」は英語でどう言う？", "a": "tap (someone) on the shoulder と言います。体の部位をたたくときは on the + 部位 の形を使います。" },
+      { "q": "cold shoulder の意味は？", "a": "「冷たい態度・そっけない扱い」という意味の慣用句です。give someone the cold shoulder（人につれなくする）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "\"He tapped me on the ___.\"（肩）の空所に入るのは？", "A": "shoulder", "B": "should", "C": "shout", "D": "shore", "correct": "A" },
+      { "q": "「肩を並べて・協力して」を表すのはどれ？", "A": "shoulder to shoulder", "B": "cold shoulder", "C": "shoulder bag", "D": "shrug one's shoulders", "correct": "A" }
+    ]
+  },
+  {
+    "english": "shout",
+    "pron": "ʃaʊt",
+    "kana": "シャウト",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "中英語 shouten（叫ぶ）",
+    "ld_level": "4級",
+    "badges": ["中学生〜", "英検4級", "CEFR A2", "基本語"],
+    "meaning_main": "叫ぶ ／ 大声で言う ／ 叫び声",
+    "description": "shout（シャウト）の意味は「叫ぶ・大声で言う」。shout at と shout to の違い、cry・scream との違い、語源、例文やクイズで解説。",
+    "keywords": ["shout 意味", "shout 使い方", "shout at to 違い", "shout cry 違い", "shout 例文"],
+    "meanings": [
+      { "hinshi": "【動詞】叫ぶ・大声で言う", "note": "怒り・興奮・遠くの人への呼びかけなどで大声を出す。" },
+      { "hinshi": "【名詞】叫び声・大声", "note": "give a shout（大声を出す・声をかける）。" }
+    ],
+    "usages": [
+      { "title": "① ～に向かって叫ぶ（shout at / to）", "desc": "怒って叫ぶなら at、呼びかけるなら to。", "example_en": "Don't shout at me!", "example_ja": "私に怒鳴らないで！" },
+      { "title": "② 大声で呼ぶ（shout to）", "desc": "遠くの人に聞こえるように呼びかける。", "example_en": "She shouted to him across the street.", "example_ja": "彼女は通りの向こうの彼に大声で呼びかけた。" },
+      { "title": "③ 叫び声（名詞）", "desc": "a shout of joy（喜びの叫び）など。", "example_en": "We heard a shout from the crowd.", "example_ja": "群衆から叫び声が聞こえた。" }
+    ],
+    "warn": [
+      "shout at 人（怒って怒鳴る）と shout to 人（呼びかける）でニュアンスが違う",
+      "cry は「泣く・叫ぶ」、scream は「（恐怖・痛みで）金切り声をあげる」。shout は「大声を出す」一般"
+    ],
+    "etym_note": "中英語 shouten（叫ぶ）に由来するが、その先の語源ははっきりしていない。古ノルド語 skūta（あざける・叫ぶ）と関係づける説がある。「大声を出す」という意味で古くから使われてきた。",
+    "etym_chain": [
+      { "node": "skūta(?)", "sub": "叫ぶ・あざける", "era": "古ノルド語" },
+      { "node": "shouten", "sub": "叫ぶ", "era": "中英語" },
+      { "node": "shout", "sub": "叫ぶ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "shout at", "ja": "～に怒鳴る" },
+      { "en": "shout to", "ja": "～に大声で呼びかける" },
+      { "en": "shout for help", "ja": "助けを求めて叫ぶ" },
+      { "en": "give someone a shout", "ja": "～に声をかける・連絡する" },
+      { "en": "a shout of joy", "ja": "喜びの叫び" },
+      { "en": "shout out", "ja": "大声で言う・呼びかける" }
+    ],
+    "related": [
+      { "en": "cry", "ja": "泣く・叫ぶ" },
+      { "en": "scream", "ja": "金切り声をあげる" },
+      { "en": "yell", "ja": "わめく・怒鳴る" },
+      { "en": "call", "ja": "呼ぶ" }
+    ],
+    "faq": [
+      { "q": "shout at と shout to の違いは？", "a": "shout at ～ は「（怒って）～に怒鳴る」、shout to ～ は「（聞こえるように）～に大声で呼びかける」というニュアンスです。" },
+      { "q": "shout と scream の違いは？", "a": "shout は「大声を出す」一般、scream は「恐怖や痛みで金切り声をあげる」ことです。" }
+    ],
+    "quiz": [
+      { "q": "\"Don't ___ at me, please.\"（怒鳴る）の空所に入るのは？", "A": "shout", "B": "shoot", "C": "short", "D": "shut", "correct": "A" },
+      { "q": "「助けを求めて叫ぶ」に合うのはどれ？", "A": "shout for help", "B": "shout at help", "C": "shout off help", "D": "shout up help", "correct": "A" }
+    ]
+  },
+  {
+    "english": "show",
+    "pron": "ʃoʊ",
+    "kana": "ショウ",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古英語 scēawian（見る・示す）",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "基本語"],
+    "meaning_main": "見せる ／ 示す ／ ショー・番組",
+    "description": "show（ショウ）の意味は「見せる・示す」。show A B / show A to B の使い方、過去分詞 shown、show up の意味、語源、例文やクイズで解説。",
+    "keywords": ["show 意味", "show 使い方", "show 過去分詞", "show up", "show 例文"],
+    "meanings": [
+      { "hinshi": "【動詞】見せる・示す", "note": "Show me your ticket.（切符を見せて）。" },
+      { "hinshi": "【動詞】（道などを）案内する・教える", "note": "show someone the way（道を教える）。" },
+      { "hinshi": "【動詞】（感情・性質を）表す・現れる", "note": "show interest（興味を示す）。" },
+      { "hinshi": "【名詞】ショー・番組・展示会", "note": "a TV show（テレビ番組）、a fashion show。" }
+    ],
+    "usages": [
+      { "title": "① （人）に（物）を見せる（show A B / show B to A）", "desc": "「show 人 物」または「show 物 to 人」の2つの形。", "example_en": "Show me your photos. / Show your photos to me.", "example_ja": "写真を見せて。" },
+      { "title": "② 現れる・姿を見せる（show up）", "desc": "「（約束の場所に）現れる」を表す句動詞。", "example_en": "He didn't show up at the party.", "example_ja": "彼はパーティーに現れなかった。" },
+      { "title": "③ ショー・番組（名詞）", "desc": "テレビ番組・舞台・展示会など。", "example_en": "I watched a great show last night.", "example_ja": "昨夜すばらしいショーを見た。" }
+    ],
+    "warn": [
+      "過去形は showed、過去分詞は shown（または showed）。完了形では shown が一般的",
+      "show up は「姿を現す・来る」、show off は「見せびらかす」。句動詞の意味の違いに注意"
+    ],
+    "etym_note": "古英語 scēawian は「見る・ながめる・調べる」を意味した。中英語にかけて「（人に）見せる・示す」へと意味が移り変わり、現代の show になった。ドイツ語 schauen（見る）と同源。",
+    "etym_chain": [
+      { "node": "scēawian", "sub": "見る・調べる", "era": "古英語" },
+      { "node": "schewen", "sub": "見せる・示す", "era": "中英語" },
+      { "node": "show", "sub": "見せる・示す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "show up", "ja": "姿を現す・来る" },
+      { "en": "show off", "ja": "見せびらかす" },
+      { "en": "show around", "ja": "案内して回る" },
+      { "en": "show the way", "ja": "道を教える・手本を示す" },
+      { "en": "a TV show", "ja": "テレビ番組" },
+      { "en": "on show", "ja": "展示中で" }
+    ],
+    "related": [
+      { "en": "display", "ja": "展示する・表示する" },
+      { "en": "demonstrate", "ja": "実演する・示す" },
+      { "en": "reveal", "ja": "明らかにする" },
+      { "en": "hide", "ja": "隠す" }
+    ],
+    "faq": [
+      { "q": "show の過去分詞は？", "a": "shown が一般的です（showed も使われます）。過去形は showed、過去分詞は shown / showed です（show - showed - shown）。" },
+      { "q": "show up と show off の違いは？", "a": "show up は「（約束の場所に）姿を現す・来る」、show off は「見せびらかす・自慢する」という意味です。" }
+    ],
+    "quiz": [
+      { "q": "\"Can you ___ me the way to the station?\" の空所に入るのは？", "A": "show", "B": "see", "C": "look", "D": "watch", "correct": "A" },
+      { "q": "「彼はパーティーに現れた」に合う句動詞はどれ？", "A": "show up", "B": "show off", "C": "show around", "D": "show the way", "correct": "A" }
+    ]
+  }
+]
