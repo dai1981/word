@@ -1,0 +1,535 @@
+[
+  {
+    "english": "sake",
+    "pron": "seɪk",
+    "kana": "セイク",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 sacu（争い・目的）",
+    "ld_level": "準2級",
+    "badges": ["高校〜", "英検準2級", "CEFR B1", "頻出語"],
+    "meaning_main": "（for the sake of で)～のために",
+    "description": "sake（セイク）の意味は「（～の)ため」。for the sake of の使い方、for one's sake、語源、例文やクイズで解説。",
+    "keywords": ["sake 意味", "sake 使い方", "for the sake of", "for one's sake", "sake 例文"],
+    "meanings": [
+      { "hinshi": "【名詞】（for the sake of ～で)～のため・～の利益のため", "note": "目的・利益を表す。ふつう for ～'s sake / for the sake of ～ の形で使う。" }
+    ],
+    "usages": [
+      { "title": "① ～のために（for the sake of）", "desc": "「～の利益・目的のために」。", "example_en": "He did it for the sake of his family.", "example_ja": "彼は家族のためにそれをした。" },
+      { "title": "② ～のために（for one's sake）", "desc": "「（人)のために」。", "example_en": "Do it for my sake.", "example_ja": "私のためにそれをして。" },
+      { "title": "③ 強調表現", "desc": "for God's sake（お願いだから・いいかげんにして)。", "example_en": "For heaven's sake, hurry up!", "example_ja": "お願いだから急いで！" }
+    ],
+    "warn": [
+      "sake は単独ではあまり使わず、for the sake of ～ / for ～'s sake の形で「～のために」を表す",
+      "（日本酒の「酒」も英語で sake だが、発音は「サーキー/サーケイ」で別語)"
+    ],
+    "etym_note": "古英語 sacu（争い・訴訟・原因・目的）に由来する。「（訴訟などの)目的・原因」から、「～のため（目的・利益)」という現代の用法になった。",
+    "etym_chain": [
+      { "node": "sacu", "sub": "争い・目的", "era": "古英語" },
+      { "node": "sake", "sub": "目的・ため", "era": "中英語" },
+      { "node": "sake", "sub": "～のため", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "for the sake of", "ja": "～のために" },
+      { "en": "for one's sake", "ja": "（人)のために" },
+      { "en": "for God's sake", "ja": "お願いだから・いいかげんに" },
+      { "en": "for the sake of argument", "ja": "議論のために仮に" },
+      { "en": "art for art's sake", "ja": "芸術のための芸術" },
+      { "en": "for safety's sake", "ja": "安全のために" }
+    ],
+    "related": [
+      { "en": "purpose", "ja": "目的" },
+      { "en": "benefit", "ja": "利益・ため" },
+      { "en": "reason", "ja": "理由" },
+      { "en": "good", "ja": "ためになること" }
+    ],
+    "faq": [
+      { "q": "for the sake of の意味は？", "a": "「～のために・～の利益のために」という意味です。for the sake of your health（健康のために）のように使います。" },
+      { "q": "sake は単独で使える？", "a": "ふつう単独では使わず、for the sake of ～ や for ～'s sake の形で使います。" }
+    ],
+    "quiz": [
+      { "q": "\"He quit smoking for the ___ of his health.\"（ため）の空所に入るのは？", "A": "sake", "B": "lake", "C": "cake", "D": "wake", "correct": "A" },
+      { "q": "「お願いだから・いいかげんに」を表すのはどれ？", "A": "for God's sake", "B": "for one's sake", "C": "for safety's sake", "D": "for the sake of argument", "correct": "A" }
+    ]
+  },
+  {
+    "english": "scold",
+    "pron": "skoʊld",
+    "kana": "スコウルド",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古ノルド語 skáld（詩人・あざける者）",
+    "ld_level": "準2級",
+    "badges": ["高校〜", "英検準2級", "CEFR B1", "頻出語"],
+    "meaning_main": "（子どもなどを)しかる ／ 叱責する",
+    "description": "scold（スコウルド）の意味は「（子どもなどを)しかる」。scold A for B の使い方、blame との違い、語源、例文やクイズで解説。",
+    "keywords": ["scold 意味", "scold 使い方", "scold for", "scold blame 違い", "scold 例文"],
+    "meanings": [
+      { "hinshi": "【動詞】（子ども・目下を)しかる・叱責する", "note": "怒って厳しく注意する。" }
+    ],
+    "usages": [
+      { "title": "① ～をしかる（scold）", "desc": "怒って注意する。", "example_en": "The teacher scolded the students.", "example_ja": "先生は生徒たちをしかった。" },
+      { "title": "② ～のことで…をしかる（scold A for B）", "desc": "「BのことでAをしかる」。", "example_en": "She scolded him for being late.", "example_ja": "彼女は彼が遅刻したことでしかった。" },
+      { "title": "③ blame との違い", "desc": "scold は「（口に出して)しかる」、blame は「（責任を)とがめる・非難する」。", "example_en": "Don't scold the child too harshly.", "example_ja": "子どもをあまり厳しくしからないで。" }
+    ],
+    "warn": [
+      "「BのことでAをしかる」は scold A for B（for を使う）",
+      "scold は「（声に出して)しかる」、blame は「（責任があると)とがめる」。ニュアンスが違う"
+    ],
+    "etym_note": "古ノルド語 skáld（詩人・あざける者）に由来するとされる。中英語で「ののしる・がみがみ言う」の意味になり、現代の「しかる」へと落ち着いた。",
+    "etym_chain": [
+      { "node": "skáld", "sub": "詩人・あざける者", "era": "古ノルド語" },
+      { "node": "scolden", "sub": "ののしる・しかる", "era": "中英語" },
+      { "node": "scold", "sub": "しかる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "scold A for B", "ja": "BのことでAをしかる" },
+      { "en": "scold a child", "ja": "子どもをしかる" },
+      { "en": "be scolded", "ja": "しかられる" },
+      { "en": "scold harshly", "ja": "厳しくしかる" },
+      { "en": "get scolded for", "ja": "～でしかられる" },
+      { "en": "stop scolding", "ja": "しかるのをやめる" }
+    ],
+    "related": [
+      { "en": "blame", "ja": "とがめる・非難する" },
+      { "en": "tell off", "ja": "しかる（口語)" },
+      { "en": "praise", "ja": "ほめる" },
+      { "en": "criticize", "ja": "批判する" }
+    ],
+    "faq": [
+      { "q": "「～のことでしかる」はどう言う？", "a": "scold A for B と言います。scold him for being late（遅刻したことで彼をしかる）のように前置詞 for を使います。" },
+      { "q": "scold と blame の違いは？", "a": "scold は「（声に出して)しかる」、blame は「（責任があると)とがめる・非難する」です。" }
+    ],
+    "quiz": [
+      { "q": "\"His mother ___ him for breaking the window.\"（しかった）の空所に入るのは？", "A": "scolded", "B": "praised", "C": "scared", "D": "scratched", "correct": "A" },
+      { "q": "scold の反対の意味に近いのはどれ？", "A": "praise", "B": "blame", "C": "criticize", "D": "tell off", "correct": "A" }
+    ]
+  },
+  {
+    "english": "seafood",
+    "pron": "ˈsiːfuːd",
+    "kana": "シーフード",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "sea（海)+ food（食べ物）",
+    "ld_level": "4級",
+    "badges": ["中学生〜", "英検4級", "CEFR A2", "基本語"],
+    "meaning_main": "シーフード ／ 海産食品 ／ 魚介類",
+    "description": "seafood（シーフード）の意味は「魚介類・海産食品」。不可算名詞である点、語源、例文やクイズで解説。",
+    "keywords": ["seafood 意味", "seafood 使い方", "魚介類 英語", "seafood 不可算", "seafood 例文"],
+    "meanings": [
+      { "hinshi": "【名詞】魚介類・海産食品", "note": "魚・貝・エビなど海でとれる食べ物。数えられない名詞。" }
+    ],
+    "usages": [
+      { "title": "① 魚介類（seafood）", "desc": "海でとれる食材全般。", "example_en": "I love seafood.", "example_ja": "私は魚介類が大好きだ。" },
+      { "title": "② シーフードレストラン", "desc": "a seafood restaurant（海鮮料理店)。", "example_en": "We ate at a seafood restaurant.", "example_ja": "私たちは海鮮料理店で食べた。" },
+      { "title": "③ 不可算名詞", "desc": "a seafood とは言わない。some seafood で数える。", "example_en": "Would you like some seafood?", "example_ja": "魚介はいかがですか？" }
+    ],
+    "warn": [
+      "seafood は数えられない名詞。a seafood とは言わず some seafood のように使う",
+      "sea（海）+ food（食べ物）の複合語"
+    ],
+    "etym_note": "sea（海）と food（食べ物）を組み合わせた語。「海でとれる食べ物＝魚介類」を表す。",
+    "etym_chain": [
+      { "node": "sea + food", "sub": "海＋食べ物", "era": "英語" },
+      { "node": "seafood", "sub": "魚介類", "era": "19世紀英語" },
+      { "node": "seafood", "sub": "魚介類・海産食品", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "fresh seafood", "ja": "新鮮な魚介類" },
+      { "en": "a seafood restaurant", "ja": "海鮮料理店" },
+      { "en": "seafood pasta", "ja": "シーフードパスタ" },
+      { "en": "a seafood allergy", "ja": "魚介アレルギー" },
+      { "en": "grilled seafood", "ja": "焼き魚介" },
+      { "en": "love seafood", "ja": "魚介類が大好き" }
+    ],
+    "related": [
+      { "en": "fish", "ja": "魚" },
+      { "en": "shrimp", "ja": "エビ" },
+      { "en": "shellfish", "ja": "貝類" },
+      { "en": "food", "ja": "食べ物" }
+    ],
+    "faq": [
+      { "q": "seafood は数えられる？", "a": "いいえ、数えられない名詞です。a seafood とは言わず、some seafood のように使います。" },
+      { "q": "seafood の成り立ちは？", "a": "sea（海）+ food（食べ物）で「海でとれる食べ物＝魚介類」です。" }
+    ],
+    "quiz": [
+      { "q": "\"This restaurant serves fresh ___.\"（魚介類）の空所に入るのは？", "A": "seafood", "B": "seaside", "C": "seaweed only", "D": "seashell", "correct": "A" },
+      { "q": "「海鮮料理店」を表すのはどれ？", "A": "a seafood restaurant", "B": "fresh seafood", "C": "seafood pasta", "D": "grilled seafood", "correct": "A" }
+    ]
+  },
+  {
+    "english": "seaside",
+    "pron": "ˈsiːsaɪd",
+    "kana": "シーサイド",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "sea（海)+ side（側）",
+    "ld_level": "4級",
+    "badges": ["中学生〜", "英検4級", "CEFR A2", "基本語"],
+    "meaning_main": "海辺 ／ 海岸 ／ 海岸地方",
+    "description": "seaside（シーサイド）の意味は「海辺・海岸」。at the seaside の使い方、beach との違い、語源、例文やクイズで解説。",
+    "keywords": ["seaside 意味", "seaside 使い方", "at the seaside", "seaside beach 違い", "seaside 例文"],
+    "meanings": [
+      { "hinshi": "【名詞】海辺・海岸（地方)", "note": "（特に英)行楽地としての海辺。ふつう the seaside。" }
+    ],
+    "usages": [
+      { "title": "① 海辺で（at the seaside）", "desc": "「海辺で・海岸で」。", "example_en": "We spent the day at the seaside.", "example_ja": "私たちは海辺で一日過ごした。" },
+      { "title": "② 海辺へ行く（go to the seaside）", "desc": "「海辺へ出かける」。", "example_en": "Let's go to the seaside.", "example_ja": "海辺へ行こう。" },
+      { "title": "③ beach との違い", "desc": "seaside は「海辺（行楽地・地域)」、beach は「砂浜」。", "example_en": "a seaside town", "example_ja": "海辺の町" }
+    ],
+    "warn": [
+      "seaside は「海辺・海岸地方（行楽地）」、beach は「（砂浜の)浜辺」。イギリスで the seaside は「海水浴に行く海辺」を指すことが多い",
+      "「海辺で」は at the seaside"
+    ],
+    "etym_note": "sea（海）と side（側）を組み合わせた語。「海の側＝海辺・海岸」を表す。",
+    "etym_chain": [
+      { "node": "sea + side", "sub": "海＋側", "era": "英語" },
+      { "node": "seaside", "sub": "海辺", "era": "中英語" },
+      { "node": "seaside", "sub": "海辺・海岸", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "at the seaside", "ja": "海辺で" },
+      { "en": "go to the seaside", "ja": "海辺へ行く" },
+      { "en": "a seaside town", "ja": "海辺の町" },
+      { "en": "a seaside resort", "ja": "海辺のリゾート" },
+      { "en": "a seaside hotel", "ja": "海辺のホテル" },
+      { "en": "by the seaside", "ja": "海辺で" }
+    ],
+    "related": [
+      { "en": "beach", "ja": "浜辺・砂浜" },
+      { "en": "shore", "ja": "岸" },
+      { "en": "coast", "ja": "海岸・沿岸" },
+      { "en": "sea", "ja": "海" }
+    ],
+    "faq": [
+      { "q": "seaside と beach の違いは？", "a": "seaside は「海辺・海岸地方（行楽地）」、beach は「（砂浜の)浜辺」です。イギリスでは the seaside で「海水浴に行く海辺」を指すことが多いです。" },
+      { "q": "「海辺で」は英語で？", "a": "at the seaside と言います。" }
+    ],
+    "quiz": [
+      { "q": "\"We had fun at the ___.\"（海辺）の空所に入るのは？", "A": "seaside", "B": "seafood", "C": "seashore only", "D": "seasick", "correct": "A" },
+      { "q": "「海辺の町」を表すのはどれ？", "A": "a seaside town", "B": "a seaside resort", "C": "by the seaside", "D": "at the seaside", "correct": "A" }
+    ]
+  },
+  {
+    "english": "seller",
+    "pron": "ˈselər",
+    "kana": "セラー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "sell（売る)+ -er",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "頻出語"],
+    "meaning_main": "売り手 ／ 販売者 ／ 売れ行きの～な商品",
+    "description": "seller（セラー）の意味は「売り手・販売者」。buyer との対、a best seller の使い方、語源、例文やクイズで解説。",
+    "keywords": ["seller 意味", "seller 使い方", "seller buyer 違い", "best seller", "seller 例文"],
+    "meanings": [
+      { "hinshi": "【名詞】売り手・販売者", "note": "sell（売る)に -er がついた語。買い手は buyer。" },
+      { "hinshi": "【名詞】（売れ行きが)～な商品", "note": "a best seller（ベストセラー)。" }
+    ],
+    "usages": [
+      { "title": "① 売り手（a seller）", "desc": "物を売る人。", "example_en": "The seller offered a good price.", "example_ja": "売り手はよい値段を提示した。" },
+      { "title": "② buyer との対", "desc": "seller（売り手）⇔ buyer（買い手）。", "example_en": "The seller and the buyer agreed.", "example_ja": "売り手と買い手は合意した。" },
+      { "title": "③ ベストセラー（a best seller）", "desc": "「よく売れる商品・本」。", "example_en": "Her novel is a best seller.", "example_ja": "彼女の小説はベストセラーだ。" }
+    ],
+    "warn": [
+      "seller（売り手）⇔ buyer（買い手）。sell（売る）+ -er の語",
+      "a best seller / a best-seller は「（よく売れる)ベストセラー」。cellar（地下室)とは別語（同音）"
+    ],
+    "etym_note": "動詞 sell（売る）に、人を表す接尾辞 -er がついた語。「売る人＝売り手」を表す。",
+    "etym_chain": [
+      { "node": "sell + -er", "sub": "売る＋人", "era": "中英語" },
+      { "node": "seller", "sub": "売り手", "era": "中英語" },
+      { "node": "seller", "sub": "売り手・販売者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a best seller", "ja": "ベストセラー" },
+      { "en": "a top seller", "ja": "一番売れる商品" },
+      { "en": "the seller and the buyer", "ja": "売り手と買い手" },
+      { "en": "an online seller", "ja": "オンラインの販売者" },
+      { "en": "a private seller", "ja": "個人の売り手" },
+      { "en": "a street seller", "ja": "路上販売者" }
+    ],
+    "related": [
+      { "en": "buyer", "ja": "買い手" },
+      { "en": "sell", "ja": "売る" },
+      { "en": "customer", "ja": "客" },
+      { "en": "merchant", "ja": "商人" }
+    ],
+    "faq": [
+      { "q": "seller の反対語は？", "a": "buyer（買い手）です。seller（売り手）⇔ buyer（買い手）の関係です。" },
+      { "q": "a best seller とは？", "a": "「（とてもよく売れる)ベストセラー（本や商品）」のことです。" }
+    ],
+    "quiz": [
+      { "q": "\"The ___ and the buyer agreed on a price.\"（売り手）の空所に入るのは？", "A": "seller", "B": "buyer", "C": "cellar", "D": "seal", "correct": "A" },
+      { "q": "「ベストセラー」を表すのはどれ？", "A": "a best seller", "B": "an online seller", "C": "a private seller", "D": "a street seller", "correct": "A" }
+    ]
+  },
+  {
+    "english": "shrimp",
+    "pron": "ʃrɪmp",
+    "kana": "シュリンプ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "中英語 shrimpe（小さなエビ）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "基本語"],
+    "meaning_main": "エビ ／ 小エビ",
+    "description": "shrimp（シュリンプ）の意味は「エビ・小エビ」。prawn との違い、fried shrimp の使い方、語源、例文やクイズで解説。",
+    "keywords": ["shrimp 意味", "shrimp 使い方", "shrimp prawn 違い", "fried shrimp", "shrimp 例文"],
+    "meanings": [
+      { "hinshi": "【名詞】エビ・小エビ", "note": "小型のエビ。大きめのエビは prawn とも。" }
+    ],
+    "usages": [
+      { "title": "① エビ（shrimp）", "desc": "魚介の一種。", "example_en": "I ordered fried shrimp.", "example_ja": "私はエビフライを注文した。" },
+      { "title": "② prawn との違い", "desc": "shrimp は小型のエビ、prawn は大きめのエビ（英でよく使う）。", "example_en": "Shrimp are smaller than prawns.", "example_ja": "シュリンプはプローンより小さい。" },
+      { "title": "③ 複数形", "desc": "shrimp（単複同形）または shrimps。", "example_en": "We bought a lot of shrimp.", "example_ja": "私たちはたくさんのエビを買った。" }
+    ],
+    "warn": [
+      "shrimp は「（小型の)エビ」、prawn は「（大きめの)エビ」（イギリスで一般的）",
+      "複数形は shrimp（単複同形)または shrimps"
+    ],
+    "etym_note": "中英語 shrimpe（小さなエビ・小柄なもの）に由来する。「小さく縮んだもの」という発想に基づき、「小エビ」を表す。shrink（縮む）と語源的に関係するとされる。",
+    "etym_chain": [
+      { "node": "shrimpe", "sub": "小さなエビ", "era": "中英語" },
+      { "node": "shrimp", "sub": "エビ", "era": "中英語" },
+      { "node": "shrimp", "sub": "エビ・小エビ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "fried shrimp", "ja": "エビフライ" },
+      { "en": "grilled shrimp", "ja": "焼きエビ" },
+      { "en": "shrimp tempura", "ja": "エビの天ぷら" },
+      { "en": "a shrimp cocktail", "ja": "シュリンプカクテル" },
+      { "en": "fresh shrimp", "ja": "新鮮なエビ" },
+      { "en": "peel the shrimp", "ja": "エビの殻をむく" }
+    ],
+    "related": [
+      { "en": "prawn", "ja": "（大きめの)エビ" },
+      { "en": "crab", "ja": "カニ" },
+      { "en": "lobster", "ja": "ロブスター" },
+      { "en": "seafood", "ja": "魚介類" }
+    ],
+    "faq": [
+      { "q": "shrimp と prawn の違いは？", "a": "shrimp は「（小型の)エビ」、prawn は「（大きめの)エビ」です。イギリスでは prawn がよく使われます。" },
+      { "q": "shrimp の複数形は？", "a": "shrimp（単複同形）または shrimps です。" }
+    ],
+    "quiz": [
+      { "q": "\"I love fried ___.\"（エビ）の空所に入るのは？", "A": "shrimp", "B": "shrine", "C": "shrink", "D": "ship", "correct": "A" },
+      { "q": "「（大きめの)エビ」を表すのはどれ？", "A": "prawn", "B": "shrimp", "C": "crab", "D": "lobster", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sip",
+    "pron": "sɪp",
+    "kana": "シップ",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "中英語 sippen（少しずつ飲む）",
+    "ld_level": "準2級",
+    "badges": ["高校〜", "英検準2級", "CEFR B1", "頻出語"],
+    "meaning_main": "（少しずつ)すする ／ ひと口飲む",
+    "description": "sip（シップ）の意味は「（少しずつ)すする・ひと口飲む」。take a sip の使い方、gulp との違い、語源、例文やクイズで解説。",
+    "keywords": ["sip 意味", "sip 使い方", "take a sip", "sip gulp 違い", "sip 例文"],
+    "meanings": [
+      { "hinshi": "【動詞】（少しずつ)すする・ちびちび飲む", "note": "ゆっくり少量ずつ飲む。" },
+      { "hinshi": "【名詞】ひと口・ひとすすり", "note": "take a sip（ひと口飲む)。" }
+    ],
+    "usages": [
+      { "title": "① ひと口飲む（take a sip）", "desc": "「少し飲む」。", "example_en": "She took a sip of tea.", "example_ja": "彼女はお茶をひと口飲んだ。" },
+      { "title": "② すする（sip）", "desc": "少しずつ飲む。", "example_en": "He sipped his coffee slowly.", "example_ja": "彼はコーヒーをゆっくりすすった。" },
+      { "title": "③ gulp との違い", "desc": "sip は「少しずつ飲む」、gulp は「ごくごく一気に飲む」。", "example_en": "Sip it, don't gulp it.", "example_ja": "がぶ飲みせず、少しずつ飲んで。" }
+    ],
+    "warn": [
+      "sip は「（少しずつ)すする・ちびちび飲む」、gulp は「ごくごく一気に飲む」。対照的",
+      "過去形は sipped（p を重ねる）。「ひと口」は a sip"
+    ],
+    "etym_note": "中英語 sippen（少しずつ飲む）に由来し、sup（すする）と関係するとされる。「少量ずつ口に入れる」という意味で使われてきた。",
+    "etym_chain": [
+      { "node": "sippen", "sub": "少しずつ飲む", "era": "中英語" },
+      { "node": "sip", "sub": "すする", "era": "中英語" },
+      { "node": "sip", "sub": "すする・ひと口飲む", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "take a sip", "ja": "ひと口飲む" },
+      { "en": "sip slowly", "ja": "ゆっくりすする" },
+      { "en": "a sip of water", "ja": "水ひと口" },
+      { "en": "sip on", "ja": "～をちびちび飲む" },
+      { "en": "have a sip", "ja": "ひと口飲む" },
+      { "en": "tiny sips", "ja": "ほんの少しずつ" }
+    ],
+    "related": [
+      { "en": "drink", "ja": "飲む" },
+      { "en": "gulp", "ja": "ごくごく飲む" },
+      { "en": "swallow", "ja": "飲み込む" },
+      { "en": "taste", "ja": "味わう" }
+    ],
+    "faq": [
+      { "q": "sip と gulp の違いは？", "a": "sip は「（少しずつ)すする・ちびちび飲む」、gulp は「ごくごく一気に飲む」です。" },
+      { "q": "「ひと口飲む」は英語で？", "a": "take a sip または have a sip と言います。a sip of water（水ひと口）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "\"She took a ___ of her coffee.\"（ひと口）の空所に入るのは？", "A": "sip", "B": "ship", "C": "sit", "D": "tip", "correct": "A" },
+      { "q": "「ごくごく一気に飲む」を表すのは（sip ではなく）どれ？", "A": "gulp", "B": "sip", "C": "taste", "D": "drink slowly", "correct": "A" }
+    ]
+  },
+  {
+    "english": "slogan",
+    "pron": "ˈsloʊɡən",
+    "kana": "スローガン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ゲール語 sluagh-ghairm（鬨の声）",
+    "ld_level": "準2級",
+    "badges": ["高校〜", "英検準2級", "CEFR B2", "頻出語"],
+    "meaning_main": "スローガン ／ 標語 ／ 宣伝文句",
+    "description": "slogan（スローガン）の意味は「標語・宣伝文句」。a campaign slogan の使い方、語源（鬨の声)、例文やクイズで解説。",
+    "keywords": ["slogan 意味", "slogan 使い方", "campaign slogan", "標語 英語", "slogan 例文"],
+    "meanings": [
+      { "hinshi": "【名詞】標語・スローガン・宣伝文句", "note": "覚えやすく印象的な短い言葉。" }
+    ],
+    "usages": [
+      { "title": "① スローガン（a slogan）", "desc": "運動・宣伝の標語。", "example_en": "The company has a catchy slogan.", "example_ja": "その会社には印象的なスローガンがある。" },
+      { "title": "② 選挙スローガン（a campaign slogan）", "desc": "「選挙・運動の標語」。", "example_en": "\"Yes, we can\" was a campaign slogan.", "example_ja": "「Yes, we can」は選挙スローガンだった。" },
+      { "title": "③ 広告文句（an advertising slogan）", "desc": "商品の宣伝文句。", "example_en": "They created a new advertising slogan.", "example_ja": "彼らは新しい広告スローガンを作った。" }
+    ],
+    "warn": [
+      "slogan は「（覚えやすい)標語・宣伝文句」。motto（座右の銘・モットー)とは少し違う",
+      "発音は「スロウガン（ˈsloʊɡən）」"
+    ],
+    "etym_note": "スコットランド・ゲール語 sluagh-ghairm（sluagh＝軍勢 + gairm＝叫び＝鬨（とき）の声）に由来する。「（集団の)叫び・合言葉」から、「標語・スローガン」の意味になった。",
+    "etym_chain": [
+      { "node": "sluagh-ghairm", "sub": "鬨の声", "era": "ゲール語" },
+      { "node": "slogan", "sub": "鬨の声・合言葉", "era": "16世紀英語" },
+      { "node": "slogan", "sub": "標語・スローガン", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a campaign slogan", "ja": "選挙・運動のスローガン" },
+      { "en": "an advertising slogan", "ja": "広告スローガン" },
+      { "en": "a catchy slogan", "ja": "覚えやすいスローガン" },
+      { "en": "a company slogan", "ja": "会社の標語" },
+      { "en": "chant a slogan", "ja": "スローガンを唱える" },
+      { "en": "a new slogan", "ja": "新しいスローガン" }
+    ],
+    "related": [
+      { "en": "motto", "ja": "モットー・座右の銘" },
+      { "en": "phrase", "ja": "言い回し・句" },
+      { "en": "advertisement", "ja": "広告" },
+      { "en": "catchphrase", "ja": "キャッチフレーズ" }
+    ],
+    "faq": [
+      { "q": "slogan の語源は？", "a": "スコットランド・ゲール語の「鬨（とき）の声（軍勢の叫び）」に由来します。「集団の合言葉」から「標語・スローガン」の意味になりました。" },
+      { "q": "slogan と motto の違いは？", "a": "slogan は「（宣伝・運動の)標語・宣伝文句」、motto は「座右の銘・モットー（信条）」です。" }
+    ],
+    "quiz": [
+      { "q": "\"The ad has a catchy ___.\"（スローガン）の空所に入るのは？", "A": "slogan", "B": "slope", "C": "slot", "D": "slang", "correct": "A" },
+      { "q": "「選挙スローガン」を表すのはどれ？", "A": "a campaign slogan", "B": "a company slogan", "C": "a catchy slogan", "D": "a new slogan", "correct": "A" }
+    ]
+  },
+  {
+    "english": "smartphone",
+    "pron": "ˈsmɑːrtfoʊn",
+    "kana": "スマートフォン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "smart（高機能の)+ phone（電話）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "基本語"],
+    "meaning_main": "スマートフォン ／ スマホ",
+    "description": "smartphone（スマートフォン）の意味は「スマホ」。on one's smartphone の使い方、cell phone との違い、語源、例文やクイズで解説。",
+    "keywords": ["smartphone 意味", "smartphone 使い方", "on a smartphone", "cell phone 違い", "smartphone 例文"],
+    "meanings": [
+      { "hinshi": "【名詞】スマートフォン・スマホ", "note": "高機能の携帯電話。アプリやネットが使える。" }
+    ],
+    "usages": [
+      { "title": "① スマホで（on one's smartphone）", "desc": "「スマホで（操作する)」。", "example_en": "She read the news on her smartphone.", "example_ja": "彼女はスマホでニュースを読んだ。" },
+      { "title": "② スマホを使う（use a smartphone）", "desc": "「スマホを使う」。", "example_en": "Most people use smartphones now.", "example_ja": "今やほとんどの人がスマホを使う。" },
+      { "title": "③ cell phone との違い", "desc": "smartphone は高機能の携帯、cell phone は携帯電話一般（米)。", "example_en": "A smartphone can do much more than an old cell phone.", "example_ja": "スマホは昔の携帯よりずっと多くのことができる。" }
+    ],
+    "warn": [
+      "smart（高機能の）+ phone（電話）の複合語。「高機能の携帯電話」",
+      "cell phone（米)/ mobile phone（英)は携帯電話一般、smartphone は高機能のもの"
+    ],
+    "etym_note": "smart（賢い・高機能の）と phone（電話）を組み合わせた語。「高機能の（賢い)電話＝スマートフォン」を表す21世紀の語。",
+    "etym_chain": [
+      { "node": "smart + phone", "sub": "高機能＋電話", "era": "21世紀英語" },
+      { "node": "smartphone", "sub": "高機能電話", "era": "21世紀英語" },
+      { "node": "smartphone", "sub": "スマートフォン", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "on one's smartphone", "ja": "スマホで" },
+      { "en": "use a smartphone", "ja": "スマホを使う" },
+      { "en": "a smartphone app", "ja": "スマホのアプリ" },
+      { "en": "check one's smartphone", "ja": "スマホを確認する" },
+      { "en": "a new smartphone", "ja": "新しいスマホ" },
+      { "en": "smartphone addiction", "ja": "スマホ依存" }
+    ],
+    "related": [
+      { "en": "cell phone", "ja": "携帯電話（米)" },
+      { "en": "mobile phone", "ja": "携帯電話（英)" },
+      { "en": "phone", "ja": "電話" },
+      { "en": "app", "ja": "アプリ" }
+    ],
+    "faq": [
+      { "q": "smartphone と cell phone の違いは？", "a": "smartphone は「高機能の携帯（アプリ・ネットが使える）」、cell phone（米）/ mobile phone（英）は携帯電話一般です。" },
+      { "q": "smartphone の成り立ちは？", "a": "smart（賢い・高機能の）+ phone（電話）で「高機能の電話＝スマートフォン」です。" }
+    ],
+    "quiz": [
+      { "q": "\"She checked the time on her ___.\"（スマホ）の空所に入るのは？", "A": "smartphone", "B": "smart", "C": "telephone", "D": "speaker", "correct": "A" },
+      { "q": "「スマホのアプリ」を表すのはどれ？", "A": "a smartphone app", "B": "smartphone addiction", "C": "a new smartphone", "D": "use a smartphone", "correct": "A" }
+    ]
+  },
+  {
+    "english": "skull",
+    "pron": "skʌl",
+    "kana": "スカル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "中英語 skulle（頭骨）",
+    "ld_level": "準2級",
+    "badges": ["高校〜", "英検準2級", "CEFR B2", "頻出語"],
+    "meaning_main": "頭蓋骨 ／ どくろ",
+    "description": "skull（スカル）の意味は「頭蓋骨・どくろ」。fracture one's skull の使い方、bone との関係、語源、例文やクイズで解説。",
+    "keywords": ["skull 意味", "skull 使い方", "頭蓋骨 英語", "skull どくろ", "skull 例文"],
+    "meanings": [
+      { "hinshi": "【名詞】頭蓋骨（ずがいこつ)・頭骨", "note": "頭の骨。脳を守る。" },
+      { "hinshi": "【名詞】どくろ・しゃれこうべ", "note": "a skull and crossbones（どくろマーク)。" }
+    ],
+    "usages": [
+      { "title": "① 頭蓋骨（the skull）", "desc": "頭の骨。", "example_en": "The helmet protects the skull.", "example_ja": "ヘルメットは頭蓋骨を守る。" },
+      { "title": "② 頭骨を折る（fracture one's skull）", "desc": "「頭蓋骨骨折」。", "example_en": "He fractured his skull in the accident.", "example_ja": "彼は事故で頭蓋骨を骨折した。" },
+      { "title": "③ どくろマーク（skull and crossbones）", "desc": "危険・海賊の印。", "example_en": "The bottle had a skull and crossbones.", "example_ja": "そのびんにはどくろマークがあった。" }
+    ],
+    "warn": [
+      "skull は「頭蓋骨（頭の骨）」。bone は「骨」全般",
+      "a skull and crossbones は「どくろと交差した骨＝危険・毒・海賊の印」"
+    ],
+    "etym_note": "中英語 skulle / scolle（頭骨）に由来し、北欧語に関係するとされる。「頭の骨＝頭蓋骨」を表す。",
+    "etym_chain": [
+      { "node": "skulle", "sub": "頭骨", "era": "中英語" },
+      { "node": "skull", "sub": "頭蓋骨", "era": "中英語" },
+      { "node": "skull", "sub": "頭蓋骨・どくろ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "fracture one's skull", "ja": "頭蓋骨を骨折する" },
+      { "en": "a skull and crossbones", "ja": "どくろマーク" },
+      { "en": "the human skull", "ja": "人間の頭蓋骨" },
+      { "en": "inside one's skull", "ja": "頭の中で" },
+      { "en": "a thick skull", "ja": "（比喩)物わかりの悪さ" },
+      { "en": "protect the skull", "ja": "頭蓋骨を守る" }
+    ],
+    "related": [
+      { "en": "bone", "ja": "骨" },
+      { "en": "brain", "ja": "脳" },
+      { "en": "head", "ja": "頭" },
+      { "en": "skeleton", "ja": "骨格・がいこつ" }
+    ],
+    "faq": [
+      { "q": "skull と bone の違いは？", "a": "skull は「頭蓋骨（頭の骨）」、bone は「骨」全般です。" },
+      { "q": "a skull and crossbones とは？", "a": "「どくろと交差した骨」の図で、危険・毒物・海賊などを表す印です。" }
+    ],
+    "quiz": [
+      { "q": "\"The helmet protects your ___.\"（頭蓋骨）の空所に入るのは？", "A": "skull", "B": "skill", "C": "skin", "D": "scale", "correct": "A" },
+      { "q": "「どくろマーク」を表すのはどれ？", "A": "a skull and crossbones", "B": "the human skull", "C": "a thick skull", "D": "inside one's skull", "correct": "A" }
+    ]
+  }
+]
