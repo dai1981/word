@@ -1,0 +1,542 @@
+[
+  {
+    "english": "species",
+    "pron": "ˈspiːʃiːz",
+    "kana": "スピーシーズ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 species（種類・見た目）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "頻出語"],
+    "meaning_main": "（生物の)種 ／ 種類",
+    "description": "species（スピーシーズ）の意味は「（生物の)種」。単複同形である点、an endangered species の使い方、語源、例文やクイズで解説。",
+    "keywords": ["species 意味", "species 使い方", "endangered species", "species 単複同形", "species 例文"],
+    "meanings": [
+      { "hinshi": "【名詞】（生物の)種（しゅ)", "note": "生物分類の基本単位。単数も複数も species。" }
+    ],
+    "usages": [
+      { "title": "① 絶滅危惧種（an endangered species）", "desc": "絶滅の危険がある種。", "example_en": "The panda is an endangered species.", "example_ja": "パンダは絶滅危惧種だ。" },
+      { "title": "② 単複同形", "desc": "単数も複数も species（×specie / speciess）。", "example_en": "There are many species of birds.", "example_ja": "鳥には多くの種がいる。" },
+      { "title": "③ 人類（the human species）", "desc": "「人類という種」。", "example_en": "The human species has changed the planet.", "example_ja": "人類は地球を変えてきた。" }
+    ],
+    "warn": [
+      "species は単数も複数も同じ形（単複同形）。a species（一つの種）/ many species（多くの種）",
+      "発音は「スピーシーズ（ˈspiːʃiːz）」。語尾に s があるが単数でも使う"
+    ],
+    "etym_note": "ラテン語 species（見た目・種類、specere＝見る に由来）から英語に入った。「（見た目で分けた)種類＝生物の種」を表す。special や specific と同語源。",
+    "etym_chain": [
+      { "node": "specere / species", "sub": "見る・見た目・種類", "era": "ラテン語" },
+      { "node": "species", "sub": "種類", "era": "16世紀英語" },
+      { "node": "species", "sub": "（生物の)種", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an endangered species", "ja": "絶滅危惧種" },
+      { "en": "a rare species", "ja": "珍しい種" },
+      { "en": "the human species", "ja": "人類" },
+      { "en": "a new species", "ja": "新種" },
+      { "en": "many species of", "ja": "多くの種類の～" },
+      { "en": "the origin of species", "ja": "種の起源" }
+    ],
+    "related": [
+      { "en": "kind", "ja": "種類" },
+      { "en": "type", "ja": "型・種類" },
+      { "en": "animal", "ja": "動物" },
+      { "en": "creature", "ja": "生き物" }
+    ],
+    "faq": [
+      { "q": "species の複数形は？", "a": "species です。単数も複数も同じ形（単複同形）です。a species / two species のように使います。" },
+      { "q": "an endangered species とは？", "a": "「絶滅危惧種（絶滅のおそれがある生物の種）」のことです。" }
+    ],
+    "quiz": [
+      { "q": "\"The tiger is an endangered ___.\"（種）の空所に入るのは？", "A": "species", "B": "specie", "C": "speciess", "D": "special", "correct": "A" },
+      { "q": "species の複数形はどれ？", "A": "species", "B": "specieses", "C": "specie", "D": "specia", "correct": "A" }
+    ]
+  },
+  {
+    "english": "specific",
+    "pron": "spəˈsɪfɪk",
+    "kana": "スペシフィック",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 species（種類）+ -fic",
+    "ld_level": "準2級",
+    "badges": ["高校〜", "英検準2級", "CEFR B2", "頻出語"],
+    "meaning_main": "具体的な ／ 特定の ／ 明確な",
+    "description": "specific（スペシフィック）の意味は「具体的な・特定の」。be specific の使い方、general との対、語源、例文やクイズで解説。",
+    "keywords": ["specific 意味", "specific 使い方", "be specific", "specific general 違い", "specific 例文"],
+    "meanings": [
+      { "hinshi": "【形容詞】具体的な・明確な", "note": "あいまいでなくはっきりした。Be more specific.（もっと具体的に)。" },
+      { "hinshi": "【形容詞】特定の", "note": "a specific time（特定の時間)。" }
+    ],
+    "usages": [
+      { "title": "① 具体的に言う（be specific）", "desc": "「はっきり具体的に述べる」。", "example_en": "Can you be more specific?", "example_ja": "もっと具体的に言ってもらえますか？" },
+      { "title": "② 特定の（a specific ～）", "desc": "「ある特定の」。", "example_en": "Is there a specific reason?", "example_ja": "何か特定の理由はありますか？" },
+      { "title": "③ general との対", "desc": "specific（具体的・特定の）⇔ general（一般的な)。", "example_en": "Let's move from general to specific.", "example_ja": "一般的な話から具体的な話に移ろう。" }
+    ],
+    "warn": [
+      "specific（具体的・特定の）⇔ general（一般的な・全般の）",
+      "副詞 specifically（特に・具体的に言うと）。名詞 specifics（詳細・具体的な点）"
+    ],
+    "etym_note": "ラテン語 species（種類）に -fic（～にする）がついた specificus（種に特有の）に由来する。「（ある種に)特有の＝特定の・具体的な」という発想。species や special と同語源。",
+    "etym_chain": [
+      { "node": "species + -fic", "sub": "種類＋にする", "era": "ラテン語" },
+      { "node": "specificus", "sub": "種に特有の", "era": "後期ラテン語" },
+      { "node": "specific", "sub": "具体的な・特定の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be specific", "ja": "具体的に述べる" },
+      { "en": "a specific reason", "ja": "特定の理由" },
+      { "en": "a specific time", "ja": "特定の時間" },
+      { "en": "specifically", "ja": "特に・具体的に言うと" },
+      { "en": "specific to", "ja": "～に特有の" },
+      { "en": "in specific terms", "ja": "具体的な言葉で" }
+    ],
+    "related": [
+      { "en": "general", "ja": "一般的な" },
+      { "en": "particular", "ja": "特定の" },
+      { "en": "detailed", "ja": "詳細な" },
+      { "en": "exact", "ja": "正確な" }
+    ],
+    "faq": [
+      { "q": "specific と general の違いは？", "a": "specific は「具体的な・特定の」、general は「一般的な・全般の」です。対になります。" },
+      { "q": "Be more specific. の意味は？", "a": "「もっと具体的に（はっきり)言ってください」という意味です。" }
+    ],
+    "quiz": [
+      { "q": "\"Can you be more ___ about the problem?\"（具体的）の空所に入るのは？", "A": "specific", "B": "general", "C": "special", "D": "species", "correct": "A" },
+      { "q": "specific の反対語はどれ？", "A": "general", "B": "particular", "C": "exact", "D": "detailed", "correct": "A" }
+    ]
+  },
+  {
+    "english": "spider",
+    "pron": "ˈspaɪdər",
+    "kana": "スパイダー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 spīþra（紡ぐもの）",
+    "ld_level": "4級",
+    "badges": ["中学生〜", "英検4級", "CEFR A2", "基本語"],
+    "meaning_main": "クモ",
+    "description": "spider（スパイダー）の意味は「クモ」。a spider's web の使い方、語源（糸を紡ぐもの）、例文やクイズで解説。",
+    "keywords": ["spider 意味", "spider 使い方", "spider web", "クモ 英語", "spider 例文"],
+    "meanings": [
+      { "hinshi": "【名詞】クモ", "note": "8本足で巣（網）を張る生き物。昆虫ではない。" }
+    ],
+    "usages": [
+      { "title": "① クモ（名詞）", "desc": "8本足の生き物。", "example_en": "A spider is making a web.", "example_ja": "クモが巣を張っている。" },
+      { "title": "② クモの巣（a spider's web）", "desc": "クモが張る網。", "example_en": "There's a spider's web in the corner.", "example_ja": "すみにクモの巣がある。" },
+      { "title": "③ クモが怖い（afraid of spiders）", "desc": "「クモ恐怖症」など。", "example_en": "She is afraid of spiders.", "example_ja": "彼女はクモが怖い。" }
+    ],
+    "warn": [
+      "クモ（spider）は足が8本で、昆虫（insect、足6本）ではない",
+      "「クモの巣」は a spider's web / a cobweb"
+    ],
+    "etym_note": "古英語 spīþra（糸を紡ぐもの、spinnan＝紡ぐ に由来）から来ている。「（糸を)紡いで巣を作るもの＝クモ」を表す。spin（紡ぐ）と同語源。",
+    "etym_chain": [
+      { "node": "spinnan / spīþra", "sub": "紡ぐ・紡ぐもの", "era": "古英語" },
+      { "node": "spider", "sub": "クモ", "era": "中英語" },
+      { "node": "spider", "sub": "クモ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a spider's web", "ja": "クモの巣" },
+      { "en": "a cobweb", "ja": "クモの巣" },
+      { "en": "afraid of spiders", "ja": "クモが怖い" },
+      { "en": "a poisonous spider", "ja": "毒グモ" },
+      { "en": "a spider bite", "ja": "クモにかまれること" },
+      { "en": "spin a web", "ja": "巣を張る" }
+    ],
+    "related": [
+      { "en": "insect", "ja": "昆虫" },
+      { "en": "web", "ja": "クモの巣・網" },
+      { "en": "spin", "ja": "紡ぐ" },
+      { "en": "bug", "ja": "虫" }
+    ],
+    "faq": [
+      { "q": "クモは昆虫（insect）？", "a": "いいえ。クモは足が8本で、足6本の昆虫（insect）とは別の生き物です。" },
+      { "q": "「クモの巣」は英語で？", "a": "a spider's web または a cobweb と言います。" }
+    ],
+    "quiz": [
+      { "q": "\"A ___ is making a web.\"（クモ）の空所に入るのは？", "A": "spider", "B": "spin", "C": "spill", "D": "spade", "correct": "A" },
+      { "q": "「クモの巣」を表すのはどれ？", "A": "a spider's web", "B": "a spider bite", "C": "a poisonous spider", "D": "afraid of spiders", "correct": "A" }
+    ]
+  },
+  {
+    "english": "spill",
+    "pron": "spɪl",
+    "kana": "スピル",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古英語 spillan（こぼす・滅ぼす）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "頻出語"],
+    "meaning_main": "こぼす ／ こぼれる ／ 流出",
+    "description": "spill（スピル）の意味は「こぼす・こぼれる」。spill the milk の使い方、過去形 spilled/spilt、語源、例文やクイズで解説。",
+    "keywords": ["spill 意味", "spill 使い方", "spill the milk", "spill 過去形", "spill 例文"],
+    "meanings": [
+      { "hinshi": "【動詞】（液体を)こぼす・こぼれる", "note": "うっかり中身を外に出す。" },
+      { "hinshi": "【名詞】こぼれること・流出", "note": "an oil spill（石油流出)。" }
+    ],
+    "usages": [
+      { "title": "① こぼす（spill）", "desc": "液体をうっかり外に出す。", "example_en": "I spilled coffee on my shirt.", "example_ja": "シャツにコーヒーをこぼした。" },
+      { "title": "② 過去形 spilled / spilt", "desc": "どちらも使われる（米 spilled、英 spilt も）。", "example_en": "The milk spilled on the floor.", "example_ja": "牛乳が床にこぼれた。" },
+      { "title": "③ 慣用句（spill the beans）", "desc": "「秘密をうっかり漏らす」。", "example_en": "Don't spill the beans!", "example_ja": "秘密をばらさないで！" }
+    ],
+    "warn": [
+      "過去形は spilled が一般的（イギリスでは spilt も）",
+      "spill the beans は「秘密をうっかり漏らす」、cry over spilt milk は「すんだことを悔やむ」"
+    ],
+    "etym_note": "古英語 spillan（こぼす・浪費する・滅ぼす）に由来する。もとは「滅ぼす」の意味もあったが、現代では「（液体を)こぼす」が中心。",
+    "etym_chain": [
+      { "node": "spillan", "sub": "こぼす・滅ぼす", "era": "古英語" },
+      { "node": "spillen", "sub": "こぼす", "era": "中英語" },
+      { "node": "spill", "sub": "こぼす・こぼれる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "spill water", "ja": "水をこぼす" },
+      { "en": "spill the beans", "ja": "秘密を漏らす" },
+      { "en": "an oil spill", "ja": "石油流出" },
+      { "en": "cry over spilt milk", "ja": "すんだことを悔やむ" },
+      { "en": "spill out", "ja": "あふれ出る" },
+      { "en": "clean up a spill", "ja": "こぼれたものをふく" }
+    ],
+    "related": [
+      { "en": "pour", "ja": "注ぐ" },
+      { "en": "drop", "ja": "落とす" },
+      { "en": "leak", "ja": "漏れる" },
+      { "en": "overflow", "ja": "あふれる" }
+    ],
+    "faq": [
+      { "q": "spill の過去形は？", "a": "spilled が一般的です。イギリスでは spilt も使われます（spill - spilled/spilt - spilled/spilt）。" },
+      { "q": "spill the beans の意味は？", "a": "「秘密をうっかり漏らす・ばらす」という意味の慣用句です。" }
+    ],
+    "quiz": [
+      { "q": "\"Be careful not to ___ the juice.\"（こぼす）の空所に入るのは？", "A": "spill", "B": "spin", "C": "split", "D": "spell", "correct": "A" },
+      { "q": "「秘密を漏らす」を表すのはどれ？", "A": "spill the beans", "B": "an oil spill", "C": "spill out", "D": "cry over spilt milk", "correct": "A" }
+    ]
+  },
+  {
+    "english": "spin",
+    "pron": "spɪn",
+    "kana": "スピン",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古英語 spinnan（紡ぐ・回す）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "頻出語"],
+    "meaning_main": "回る ／ 回す ／ 紡ぐ",
+    "description": "spin（スピン）の意味は「回る・回す・紡ぐ」。過去形 spun、spin around の使い方、語源、例文やクイズで解説。",
+    "keywords": ["spin 意味", "spin 使い方", "spin around", "spin 過去形", "spin 例文"],
+    "meanings": [
+      { "hinshi": "【動詞】（速く)回る・回す", "note": "くるくる回転する／させる。" },
+      { "hinshi": "【動詞】（糸を)紡ぐ", "note": "spin wool into thread（羊毛を糸に紡ぐ)。" },
+      { "hinshi": "【名詞】回転・スピン", "note": "ボールや飛行機の回転。" }
+    ],
+    "usages": [
+      { "title": "① 回る・回す（spin）", "desc": "くるくる回転する。", "example_en": "The wheel spins fast.", "example_ja": "車輪が速く回る。" },
+      { "title": "② ぐるぐる回る（spin around）", "desc": "「その場で回る」。", "example_en": "She spun around to look.", "example_ja": "彼女は見ようとくるりと振り向いた。" },
+      { "title": "③ 過去形 spun", "desc": "不規則変化（spin - spun - spun）。", "example_en": "My head was spinning.", "example_ja": "頭がぐるぐるした（めまいがした)。" }
+    ],
+    "warn": [
+      "過去形・過去分詞は spun（スパン）。不規則変化に注意",
+      "My head is spinning. は「頭がくらくらする・めまいがする」"
+    ],
+    "etym_note": "古英語 spinnan（糸を紡ぐ）に由来し、ゲルマン系の語に関係する。「（糸車を)回して紡ぐ」が基本義で、「回る・回す」の意味に広がった。spider（クモ）も同語源。",
+    "etym_chain": [
+      { "node": "spinnan", "sub": "紡ぐ・回す", "era": "古英語" },
+      { "node": "spinnen", "sub": "紡ぐ", "era": "中英語" },
+      { "node": "spin", "sub": "回る・紡ぐ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "spin around", "ja": "くるりと回る" },
+      { "en": "spin a top", "ja": "こまを回す" },
+      { "en": "My head is spinning.", "ja": "頭がくらくらする" },
+      { "en": "spin a web", "ja": "クモの巣を張る" },
+      { "en": "spin out of control", "ja": "制御不能になる" },
+      { "en": "a spin dryer", "ja": "（洗濯機の)脱水機" }
+    ],
+    "related": [
+      { "en": "turn", "ja": "回る・回す" },
+      { "en": "rotate", "ja": "回転する" },
+      { "en": "twist", "ja": "ねじる" },
+      { "en": "whirl", "ja": "ぐるぐる回る" }
+    ],
+    "faq": [
+      { "q": "spin の過去形は？", "a": "spun です。過去分詞も spun で不規則変化です（spin - spun - spun）。" },
+      { "q": "My head is spinning. の意味は？", "a": "「頭がくらくらする・めまいがする・混乱している」という意味です。" }
+    ],
+    "quiz": [
+      { "q": "spin の過去形はどれ？", "A": "spinned", "B": "spun", "C": "span", "D": "spin", "correct": "B" },
+      { "q": "「くるりと回る」を表すのはどれ？", "A": "spin around", "B": "spin a top", "C": "spin a web", "D": "a spin dryer", "correct": "A" }
+    ]
+  },
+  {
+    "english": "split",
+    "pron": "splɪt",
+    "kana": "スプリット",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "中期オランダ語 splitten（裂く）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "頻出語"],
+    "meaning_main": "割る ／ 分ける ／ 分裂する",
+    "description": "split（スプリット）の意味は「割る・分ける・分裂する」。過去形も split の無変化、split the bill の使い方、語源、例文やクイズで解説。",
+    "keywords": ["split 意味", "split 使い方", "split the bill", "split 過去形", "split 例文"],
+    "meanings": [
+      { "hinshi": "【動詞】割る・裂く・分ける", "note": "縦に割る／いくつかに分ける。" },
+      { "hinshi": "【動詞】分裂する・分かれる", "note": "The group split.（グループが分裂した)。" }
+    ],
+    "usages": [
+      { "title": "① 割り勘にする（split the bill）", "desc": "「費用を分け合う」。", "example_en": "Let's split the bill.", "example_ja": "割り勘にしよう。" },
+      { "title": "② 分ける（split into）", "desc": "「いくつかに分ける」。", "example_en": "We split into two groups.", "example_ja": "私たちは2グループに分かれた。" },
+      { "title": "③ 過去形も split（無変化）", "desc": "原形・過去形・過去分詞すべて split。", "example_en": "The log split in two.", "example_ja": "丸太は2つに割れた。" }
+    ],
+    "warn": [
+      "過去形・過去分詞も split（無変化）。put, cut と同じパターン",
+      "split the bill は「割り勘にする」。go Dutch も同義"
+    ],
+    "etym_note": "中期オランダ語 splitten（裂く）に由来する。「縦に割る・裂く」が基本義で、「分ける・分裂する」の意味に広がった。",
+    "etym_chain": [
+      { "node": "splitten", "sub": "裂く", "era": "中期オランダ語" },
+      { "node": "split", "sub": "割る・裂く", "era": "16世紀英語" },
+      { "node": "split", "sub": "割る・分ける", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "split the bill", "ja": "割り勘にする" },
+      { "en": "split into", "ja": "～に分かれる" },
+      { "en": "split up", "ja": "別れる・解散する" },
+      { "en": "split in two", "ja": "2つに割れる" },
+      { "en": "a split second", "ja": "ほんの一瞬" },
+      { "en": "split the difference", "ja": "（差額を)折半する" }
+    ],
+    "related": [
+      { "en": "divide", "ja": "分割する" },
+      { "en": "separate", "ja": "分ける" },
+      { "en": "break", "ja": "割る" },
+      { "en": "share", "ja": "分け合う" }
+    ],
+    "faq": [
+      { "q": "split の過去形は？", "a": "split です。原形・過去形・過去分詞すべて split で変化しません（put や cut と同じ無変化動詞です）。" },
+      { "q": "split the bill の意味は？", "a": "「割り勘にする」という意味です。go Dutch も同じ意味で使われます。" }
+    ],
+    "quiz": [
+      { "q": "\"Let's ___ the bill.\"（割り勘）の空所に入るのは？", "A": "split", "B": "spin", "C": "spill", "D": "spread", "correct": "A" },
+      { "q": "「ほんの一瞬」を表すのはどれ？", "A": "a split second", "B": "split up", "C": "split into", "D": "split in two", "correct": "A" }
+    ]
+  },
+  {
+    "english": "spoil",
+    "pron": "spɔɪl",
+    "kana": "スポイル",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 spoliare（はぎ取る）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "頻出語"],
+    "meaning_main": "台無しにする ／ 甘やかす ／ （食品が)傷む",
+    "description": "spoil（スポイル）の意味は「台無しにする・甘やかす・傷む」。spoil a child の使い方、過去形 spoiled/spoilt、語源、例文やクイズで解説。",
+    "keywords": ["spoil 意味", "spoil 使い方", "spoil a child", "spoil 過去形", "spoil 例文"],
+    "meanings": [
+      { "hinshi": "【動詞】台無しにする・だめにする", "note": "良いものをだめにする。spoil the fun（楽しみを台無しにする)。" },
+      { "hinshi": "【動詞】（子どもを)甘やかす", "note": "spoil a child（子どもを甘やかす)。" },
+      { "hinshi": "【動詞】（食品が)傷む・腐る", "note": "The food spoiled.（食べ物が傷んだ)。" }
+    ],
+    "usages": [
+      { "title": "① 台無しにする（spoil）", "desc": "良いものをだめにする。", "example_en": "The rain spoiled our picnic.", "example_ja": "雨が私たちのピクニックを台無しにした。" },
+      { "title": "② 甘やかす（spoil a child）", "desc": "子どもを過度に甘やかす。", "example_en": "Don't spoil your children.", "example_ja": "子どもを甘やかさないで。" },
+      { "title": "③ ネタバレ（spoiler）", "desc": "「（物語の)結末を漏らす」も spoil。", "example_en": "Don't spoil the ending!", "example_ja": "結末をばらさないで！" }
+    ],
+    "warn": [
+      "過去形は spoiled が一般的（イギリスでは spoilt も）",
+      "spoil は「台無しにする」「甘やかす」「（食品が)傷む」と幅広い。a spoiler は「ネタバレ」"
+    ],
+    "etym_note": "ラテン語 spoliare（はぎ取る・略奪する）に由来し、古フランス語を経て英語に入った。「（奪って)だめにする＝台無しにする」が基本義で、「甘やかす」「傷む」の意味も生まれた。",
+    "etym_chain": [
+      { "node": "spoliare", "sub": "はぎ取る", "era": "ラテン語" },
+      { "node": "spoillen", "sub": "略奪する・だめにする", "era": "中英語" },
+      { "node": "spoil", "sub": "台無しにする・甘やかす", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "spoil a child", "ja": "子どもを甘やかす" },
+      { "en": "spoil the fun", "ja": "楽しみを台無しにする" },
+      { "en": "spoil the ending", "ja": "結末をばらす" },
+      { "en": "a spoiled child", "ja": "甘やかされた子" },
+      { "en": "spoil oneself", "ja": "自分にごほうびをあげる" },
+      { "en": "go bad / spoil", "ja": "（食品が)傷む" }
+    ],
+    "related": [
+      { "en": "ruin", "ja": "台無しにする" },
+      { "en": "damage", "ja": "損なう" },
+      { "en": "destroy", "ja": "破壊する" },
+      { "en": "rot", "ja": "腐る" }
+    ],
+    "faq": [
+      { "q": "spoil の過去形は？", "a": "spoiled が一般的です。イギリスでは spoilt も使われます（spoil - spoiled/spoilt）。" },
+      { "q": "spoil にはどんな意味がある？", "a": "「台無しにする」「（子どもを)甘やかす」「（食品が)傷む」「（物語の)結末を漏らす」など幅広い意味があります。" }
+    ],
+    "quiz": [
+      { "q": "\"The bad weather ___ our trip.\"（台無しにした）の空所に入るのは？", "A": "spoiled", "B": "spun", "C": "split", "D": "spilled", "correct": "A" },
+      { "q": "「子どもを甘やかす」に合うのはどれ？", "A": "spoil a child", "B": "spoil the fun", "C": "spoil oneself", "D": "spoil the ending", "correct": "A" }
+    ]
+  },
+  {
+    "english": "spot",
+    "pron": "spɑːt",
+    "kana": "スポット",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "中英語 spot（しみ・点）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "頻出語"],
+    "meaning_main": "地点 ／ しみ・斑点 ／ 見つける",
+    "description": "spot（スポット）の意味は「地点・しみ・見つける」。a good spot の使い方、on the spot（その場で)、語源、例文やクイズで解説。",
+    "keywords": ["spot 意味", "spot 使い方", "on the spot", "spot 見つける", "spot 例文"],
+    "meanings": [
+      { "hinshi": "【名詞】場所・地点", "note": "a nice spot（よい場所)、a tourist spot（観光地)。" },
+      { "hinshi": "【名詞】しみ・斑点・吹き出物", "note": "a spot on the shirt（シャツのしみ)。" },
+      { "hinshi": "【動詞】見つける・見分ける", "note": "spot a mistake（間違いを見つける)。" }
+    ],
+    "usages": [
+      { "title": "① よい場所（a good spot）", "desc": "「ちょうどよい地点」。", "example_en": "This is a good spot for a picnic.", "example_ja": "ここはピクニックによい場所だ。" },
+      { "title": "② その場で（on the spot）", "desc": "「即座に・その場で」。", "example_en": "He answered on the spot.", "example_ja": "彼はその場で答えた。" },
+      { "title": "③ 見つける（動詞）", "desc": "「（目立つものを)見つける」。", "example_en": "I spotted my friend in the crowd.", "example_ja": "私は人込みの中で友達を見つけた。" }
+    ],
+    "warn": [
+      "spot は「場所・地点」「しみ・斑点」「見つける（動詞）」と多義",
+      "on the spot は「その場で・即座に」という慣用句"
+    ],
+    "etym_note": "中英語 spot（しみ・小さな点）に由来する。「小さな点・しみ」が基本義で、「（特定の)地点・場所」「（点のように)見つける」の意味に広がった。",
+    "etym_chain": [
+      { "node": "spot", "sub": "しみ・点", "era": "中英語" },
+      { "node": "spot", "sub": "しみ・場所", "era": "中英語" },
+      { "node": "spot", "sub": "地点・しみ・見つける", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a good spot", "ja": "よい場所" },
+      { "en": "a tourist spot", "ja": "観光地" },
+      { "en": "on the spot", "ja": "その場で・即座に" },
+      { "en": "spot a mistake", "ja": "間違いを見つける" },
+      { "en": "a blind spot", "ja": "死角・盲点" },
+      { "en": "a parking spot", "ja": "駐車スペース" }
+    ],
+    "related": [
+      { "en": "place", "ja": "場所" },
+      { "en": "stain", "ja": "しみ" },
+      { "en": "find", "ja": "見つける" },
+      { "en": "point", "ja": "点・地点" }
+    ],
+    "faq": [
+      { "q": "spot にはどんな意味がある？", "a": "「場所・地点」「しみ・斑点・吹き出物」「（動詞)見つける・見分ける」など複数の意味があります。" },
+      { "q": "on the spot の意味は？", "a": "「その場で・即座に」という意味の慣用句です。" }
+    ],
+    "quiz": [
+      { "q": "\"This is a perfect ___ for lunch.\"（場所）の空所に入るのは？", "A": "spot", "B": "spoil", "C": "spin", "D": "split", "correct": "A" },
+      { "q": "「その場で・即座に」を表すのはどれ？", "A": "on the spot", "B": "a blind spot", "C": "a tourist spot", "D": "a good spot", "correct": "A" }
+    ]
+  },
+  {
+    "english": "staff",
+    "pron": "stæf",
+    "kana": "スタッフ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 stæf（棒・つえ）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "頻出語"],
+    "meaning_main": "職員 ／ スタッフ ／ 部員",
+    "description": "staff（スタッフ）の意味は「職員・スタッフ」。集合名詞である点、a staff member の使い方、語源、例文やクイズで解説。",
+    "keywords": ["staff 意味", "staff 使い方", "staff member", "staff 集合名詞", "staff 例文"],
+    "meanings": [
+      { "hinshi": "【名詞】職員（全体)・スタッフ", "note": "ある組織で働く人々の全体。集合名詞。" }
+    ],
+    "usages": [
+      { "title": "① 職員全体（the staff）", "desc": "組織で働く人々をまとめて指す。", "example_en": "The staff are very friendly.", "example_ja": "そこの職員はとても親切だ。" },
+      { "title": "② スタッフの一人（a staff member）", "desc": "「個々の職員」は a staff member / a member of staff。", "example_en": "Ask a staff member for help.", "example_ja": "係員に助けを求めて。" },
+      { "title": "③ 医療スタッフ（medical staff）", "desc": "分野別に使う。", "example_en": "The medical staff worked hard.", "example_ja": "医療スタッフは懸命に働いた。" }
+    ],
+    "warn": [
+      "staff は集合名詞で「職員全体」。一人を指すときは a staff member / a member of staff（×a staff とは言わない）",
+      "「スタッフ」全体を指すときはイギリスで複数扱いになることが多い（The staff are ～）"
+    ],
+    "etym_note": "古英語 stæf（棒・つえ）に由来する。「（権威を示す)つえ」から「（組織を支える)職員集団」の意味に発展した。",
+    "etym_chain": [
+      { "node": "stæf", "sub": "棒・つえ", "era": "古英語" },
+      { "node": "staff", "sub": "つえ・支え", "era": "中英語" },
+      { "node": "staff", "sub": "職員・スタッフ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a staff member", "ja": "職員・係員の一人" },
+      { "en": "a member of staff", "ja": "職員の一人（英)" },
+      { "en": "medical staff", "ja": "医療スタッフ" },
+      { "en": "teaching staff", "ja": "教職員" },
+      { "en": "the staff room", "ja": "職員室" },
+      { "en": "join the staff", "ja": "職員に加わる" }
+    ],
+    "related": [
+      { "en": "member", "ja": "メンバー" },
+      { "en": "worker", "ja": "労働者" },
+      { "en": "employee", "ja": "従業員" },
+      { "en": "team", "ja": "チーム" }
+    ],
+    "faq": [
+      { "q": "「スタッフ1人」は a staff？", "a": "いいえ。staff は集合名詞「職員全体」なので、一人を指すときは a staff member または a member of staff と言います。" },
+      { "q": "「職員室」は英語で？", "a": "the staff room です。" }
+    ],
+    "quiz": [
+      { "q": "\"Please ask a ___ member for help.\"（職員）の空所に入るのは？", "A": "staff", "B": "stuff", "C": "stage", "D": "stamp", "correct": "A" },
+      { "q": "「職員1人」を表すのはどれ？", "A": "a staff member", "B": "a staff", "C": "a staffs", "D": "one staff", "correct": "A" }
+    ]
+  },
+  {
+    "english": "standard",
+    "pron": "ˈstændərd",
+    "kana": "スタンダード",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 estandart（旗・基準）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "頻出語"],
+    "meaning_main": "基準 ／ 水準 ／ 標準の",
+    "description": "standard（スタンダード）の意味は「基準・水準・標準の」。a high standard の使い方、語源、例文やクイズでわかりやすく解説。",
+    "keywords": ["standard 意味", "standard 使い方", "high standard", "standard 標準", "standard 例文"],
+    "meanings": [
+      { "hinshi": "【名詞】基準・水準", "note": "判断や品質のものさし。a high standard（高い水準)。" },
+      { "hinshi": "【形容詞】標準の・基準となる", "note": "the standard size（標準サイズ)。" }
+    ],
+    "usages": [
+      { "title": "① 高い水準（a high standard）", "desc": "「質の高さ」。", "example_en": "The hotel has a high standard of service.", "example_ja": "そのホテルは高い水準のサービスだ。" },
+      { "title": "② 生活水準（standard of living）", "desc": "「暮らしのレベル」。", "example_en": "Their standard of living improved.", "example_ja": "彼らの生活水準は向上した。" },
+      { "title": "③ 標準の（形容詞）", "desc": "「ふつうの・基準となる」。", "example_en": "This is the standard size.", "example_ja": "これは標準サイズだ。" }
+    ],
+    "warn": [
+      "standard は名詞「基準・水準」と形容詞「標準の」の両方で使う",
+      "standard of living（生活水準）、meet the standard（基準を満たす）など"
+    ],
+    "etym_note": "古フランス語 estandart（軍の旗・目印）に由来する。「軍の集合の目印＝基準となるもの」から、「基準・水準・標準」の意味に発展した。",
+    "etym_chain": [
+      { "node": "estandart", "sub": "旗・目印", "era": "古フランス語" },
+      { "node": "standard", "sub": "基準・旗", "era": "中英語" },
+      { "node": "standard", "sub": "基準・標準の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a high standard", "ja": "高い水準" },
+      { "en": "standard of living", "ja": "生活水準" },
+      { "en": "meet the standard", "ja": "基準を満たす" },
+      { "en": "the standard size", "ja": "標準サイズ" },
+      { "en": "double standard", "ja": "二重基準・ダブルスタンダード" },
+      { "en": "set a standard", "ja": "基準を定める" }
+    ],
+    "related": [
+      { "en": "level", "ja": "水準・レベル" },
+      { "en": "quality", "ja": "品質" },
+      { "en": "average", "ja": "平均の" },
+      { "en": "normal", "ja": "標準の・普通の" }
+    ],
+    "faq": [
+      { "q": "standard の品詞は？", "a": "名詞「基準・水準」と形容詞「標準の・基準となる」の両方で使えます。" },
+      { "q": "standard of living の意味は？", "a": "「生活水準（暮らしのレベル）」のことです。" }
+    ],
+    "quiz": [
+      { "q": "\"The school has a high ___ of education.\"（水準）の空所に入るのは？", "A": "standard", "B": "staff", "C": "stage", "D": "stamp", "correct": "A" },
+      { "q": "「生活水準」を表すのはどれ？", "A": "standard of living", "B": "double standard", "C": "the standard size", "D": "meet the standard", "correct": "A" }
+    ]
+  }
+]
