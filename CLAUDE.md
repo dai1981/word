@@ -19,7 +19,7 @@
 python3 generate.py
 ```
 
-`data/` 内のすべての `*.json`（単語データの配列）を読み、`word/word/{単語}.html` を出力します。外部依存なし（標準ライブラリのみ）。
+`data/` 内のすべての `*.json`（単語データの配列）を読み、`https://www.eigo-duke.com/word/word/{単語}.html` を出力します。外部依存なし（標準ライブラリのみ）。
 
 ## データのスキーマ（1単語 = 1オブジェクト）
 
@@ -54,15 +54,15 @@ python3 generate.py
 meanings 3〜5 / usages 2〜3 / phrases 6〜8 / related 3〜4 / faq 2〜3 / quiz 2 / etym_chain 2〜3段（最後が現代英語）。
 
 ### 出力先・固定値
-- 出力: `word/word/{english}.html`（実サイトの `/word/word/` にそのまま対応）
+- 出力: `https://www.eigo-duke.com/word/word/{english}.html`（実サイトの `/word/word/` にそのまま対応）
 - canonical: `/word/word/{english}.html`
-- GA4: `G-MKNGEYPKNJ`、AdSense: `ca-pub-3234684892462480`、JSON-LD set URL: `https://eigo-duke.com/word/word.html`
+- GA4: `G-MKNGEYPKNJ`、AdSense: `ca-pub-3234684892462480`、JSON-LD set URL: `https://www.eigo-duke.com/word/word.html`
   （変更する場合は `generate.py` 冒頭の定数 `GA` / `LD_SET_URL` を編集）
 
 ## コミット方針（重要）
 
 - **main ブランチに直接コミットしてください。**（PR・ブランチ作成は不要）
-- 1バッチごとに、生成した `word/word/*.html` と追加した `data/*.json` をまとめて1コミットにする。
+- 1バッチごとに、生成した `https://www.eigo-duke.com/word/word/*.html` と追加した `data/*.json` をまとめて1コミットにする。
 - コミットメッセージ例: `Add s-batch2 (15 words: say...sea)`
 
 ## 注意
