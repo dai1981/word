@@ -1,0 +1,479 @@
+[
+  {
+    "english": "open",
+    "pron": "ˈoʊpən",
+    "kana": "オウプン",
+    "hinshi": "形容詞 / 動詞",
+    "ld_pos": "adjective / verb",
+    "ld_etym": "Old English open",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "基本"],
+    "meaning_main": "開いた・開いている／開ける・開く",
+    "description": "open は「開いた」を表す基本形容詞で、動詞では「開ける・開く」。反意 close/closed や open-minded を解説します。",
+    "keywords": ["open 意味", "open 使い方", "開ける", "closed 反意"],
+    "meanings": [
+      { "hinshi": "【形容詞】開いた・開いている", "note": "閉じていない。営業中の。an open door / The shop is open." },
+      { "hinshi": "【動詞】開ける・開く", "note": "閉じたものを開く。open the window（窓を開ける）。" }
+    ],
+    "usages": [
+      { "title": "① 形容詞", "desc": "開いている。", "example_en": "The door is open.", "example_ja": "ドアは開いている。" },
+      { "title": "② 動詞", "desc": "開ける。", "example_en": "Please open the window.", "example_ja": "窓を開けてください。" }
+    ],
+    "warn": ["反意語は形容詞 closed（閉じた）／動詞 close（閉める）。open-minded（心の広い）、in the open air（戸外で）、open up（打ち明ける・開業する）など派生表現が豊富。"],
+    "etym_note": "古英語 open に由来。up と関係し「上が開いた」イメージとされる。",
+    "etym_chain": [
+      { "node": "open", "sub": "開いた（古英語）", "era": "古英語" },
+      { "node": "open", "sub": "開いた・開ける", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "open the door", "ja": "ドアを開ける" },
+      { "en": "be open", "ja": "開いている・営業中だ" },
+      { "en": "open-minded", "ja": "心の広い・偏見のない" },
+      { "en": "in the open air", "ja": "戸外で" },
+      { "en": "open up", "ja": "打ち明ける・開業する" },
+      { "en": "an open question", "ja": "未解決の問題" }
+    ],
+    "related": [
+      { "en": "close", "ja": "閉める（反意）" },
+      { "en": "closed", "ja": "閉じた（反意）" },
+      { "en": "shut", "ja": "閉じる" }
+    ],
+    "faq": [
+      { "q": "open の反意語は？", "a": "形容詞は closed（閉じた）、動詞は close（閉める）です。" },
+      { "q": "open-minded とは？", "a": "「心が広く、新しい考えを受け入れる・偏見のない」という意味です。" }
+    ],
+    "quiz": [
+      { "q": "The shop is open. の意味は？", "A": "店は営業中だ", "B": "店は閉まっている", "C": "店は移転した", "D": "店は満員だ", "correct": "A" },
+      { "q": "open の反意（形容詞）は？", "A": "closed", "B": "opened", "C": "opener", "D": "openly", "correct": "A" }
+    ]
+  },
+  {
+    "english": "opera",
+    "pron": "ˈɒprə",
+    "kana": "オプラ",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "Italian opera 'work'",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "文化"],
+    "meaning_main": "オペラ・歌劇",
+    "description": "opera（オペラ）は歌と管弦楽で物語を上演する舞台芸術。語源「作品（opera）」や soap opera を解説します。",
+    "keywords": ["opera 意味", "オペラ 英語", "歌劇", "soap opera"],
+    "meanings": [
+      { "hinshi": "【名詞】オペラ・歌劇", "note": "歌（声楽）と管弦楽で物語を上演する舞台芸術。" }
+    ],
+    "usages": [
+      { "title": "① 舞台芸術", "desc": "歌劇。", "example_en": "We went to see an opera.", "example_ja": "私たちはオペラを観に行った。" },
+      { "title": "② 関連語", "desc": "soap opera など。", "example_en": "She loves watching soap operas.", "example_ja": "彼女は連続ドラマを見るのが好きだ。" }
+    ],
+    "warn": ["発音は「オペラ」より「オプラ（ˈɒprə）」に近い。soap opera は「（昼の）連続メロドラマ」。opera house（歌劇場）。"],
+    "etym_note": "イタリア語 opera（作品・仕事、ラテン語 opus＝作品 の複数形）に由来。",
+    "etym_chain": [
+      { "node": "opera", "sub": "作品（イタリア語）", "era": "近世" },
+      { "node": "opera", "sub": "オペラ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "go to the opera", "ja": "オペラを観に行く" },
+      { "en": "an opera singer", "ja": "オペラ歌手" },
+      { "en": "an opera house", "ja": "歌劇場" },
+      { "en": "a soap opera", "ja": "連続メロドラマ" },
+      { "en": "a grand opera", "ja": "グランドオペラ" },
+      { "en": "perform an opera", "ja": "オペラを上演する" }
+    ],
+    "related": [
+      { "en": "concert", "ja": "コンサート" },
+      { "en": "musical", "ja": "ミュージカル" },
+      { "en": "orchestra", "ja": "オーケストラ" }
+    ],
+    "faq": [
+      { "q": "opera とは？", "a": "歌（声楽）と管弦楽で物語を上演する舞台芸術（歌劇）です。" },
+      { "q": "soap opera とは？", "a": "昼間などに放送される連続メロドラマのことです（もとは石けん会社がスポンサーだったことに由来）。" }
+    ],
+    "quiz": [
+      { "q": "opera の意味は？", "A": "オペラ・歌劇", "B": "彫刻", "C": "絵画", "D": "建築", "correct": "A" },
+      { "q": "an opera house とは？", "A": "歌劇場", "B": "美術館", "C": "図書館", "D": "体育館", "correct": "A" }
+    ]
+  },
+  {
+    "english": "operate",
+    "pron": "ˈɒpəreɪt",
+    "kana": "オペレイト",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "Latin operari 'to work'",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "学術"],
+    "meaning_main": "（機械を）操作する・動かす／（事業を）運営する／手術する",
+    "description": "operate は機械を操作する、事業を運営する、また手術することを表す語。operate on（手術する）の用法を解説します。",
+    "keywords": ["operate 意味", "operate 使い方", "操作する", "手術"],
+    "meanings": [
+      { "hinshi": "【動詞】操作する・動かす", "note": "機械・装置を動かす。また機械が作動する。" },
+      { "hinshi": "【動詞】運営する", "note": "会社・制度などを運営・経営する。" },
+      { "hinshi": "【動詞】手術する", "note": "operate on someone（人を手術する）。" }
+    ],
+    "usages": [
+      { "title": "① 操作・運営", "desc": "動かす・営む。", "example_en": "He operates heavy machinery.", "example_ja": "彼は重機を操作する。" },
+      { "title": "② 手術する", "desc": "operate on。", "example_en": "The doctors operated on her heart.", "example_ja": "医師たちは彼女の心臓を手術した。" }
+    ],
+    "warn": ["「手術する」は operate on someone（前置詞 on が必要）。名詞は operation（操作・運営・手術・作戦）、operator（操作者・電話交換手）。"],
+    "etym_note": "ラテン語 operari（働く、opus＝仕事 から）に由来。operation・operator と同根。",
+    "etym_chain": [
+      { "node": "operari", "sub": "働く（ラテン語）", "era": "古代" },
+      { "node": "operate", "sub": "操作する・運営する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "operate a machine", "ja": "機械を操作する" },
+      { "en": "operate on someone", "ja": "人を手術する" },
+      { "en": "operate a business", "ja": "事業を運営する" },
+      { "en": "operate safely", "ja": "安全に作動する" },
+      { "en": "operating costs", "ja": "運営費" },
+      { "en": "how to operate", "ja": "操作のしかた" }
+    ],
+    "related": [
+      { "en": "operation", "ja": "操作・手術・運営" },
+      { "en": "operator", "ja": "操作者・交換手" },
+      { "en": "run", "ja": "運営する・動かす" }
+    ],
+    "faq": [
+      { "q": "「手術する」はどう言う？", "a": "operate on someone です（前置詞 on が必要）。" },
+      { "q": "名詞形は？", "a": "operation（操作・運営・手術・作戦）です。人は operator（操作者・交換手）。" }
+    ],
+    "quiz": [
+      { "q": "operate on her heart の意味は？", "A": "彼女の心臓を手術する", "B": "彼女の心を動かす", "C": "彼女を励ます", "D": "彼女を診察する", "correct": "A" },
+      { "q": "operate の名詞形は？", "A": "operation", "B": "operance", "C": "operature", "D": "operacy", "correct": "A" }
+    ]
+  },
+  {
+    "english": "opinion",
+    "pron": "əˈpɪnjən",
+    "kana": "オピニオン",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "Latin opinio 'belief'",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "基本"],
+    "meaning_main": "意見・考え",
+    "description": "opinion は個人の意見・考えを表す基本語。in my opinion（私の考えでは）の用法や fact との違いを解説します。",
+    "keywords": ["opinion 意味", "opinion 使い方", "意見", "in my opinion"],
+    "meanings": [
+      { "hinshi": "【名詞】意見・考え", "note": "個人の判断・見解。事実（fact）と対比される。" }
+    ],
+    "usages": [
+      { "title": "① 意見を言う", "desc": "考えを述べる。", "example_en": "What's your opinion?", "example_ja": "あなたの意見は？" },
+      { "title": "② in my opinion", "desc": "私の考えでは。", "example_en": "In my opinion, it's too expensive.", "example_ja": "私の考えでは、高すぎる。" }
+    ],
+    "warn": ["in my opinion（私の考えでは）、have an opinion on/about ~（〜について意見がある）。fact（事実）と opinion（意見）は区別する。public opinion（世論）。"],
+    "etym_note": "ラテン語 opinio（考え・思いなし、opinari＝思う から）に由来。",
+    "etym_chain": [
+      { "node": "opinio", "sub": "考え（ラテン語）", "era": "古代" },
+      { "node": "opinion", "sub": "意見", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "in my opinion", "ja": "私の考えでは" },
+      { "en": "public opinion", "ja": "世論" },
+      { "en": "express an opinion", "ja": "意見を述べる" },
+      { "en": "a second opinion", "ja": "別の専門家の意見" },
+      { "en": "have an opinion on", "ja": "〜について意見がある" },
+      { "en": "a difference of opinion", "ja": "意見の相違" }
+    ],
+    "related": [
+      { "en": "view", "ja": "見解" },
+      { "en": "belief", "ja": "信念・考え" },
+      { "en": "fact", "ja": "事実（対比）" }
+    ],
+    "faq": [
+      { "q": "in my opinion とは？", "a": "「私の考えでは・私の意見では」という前置きの表現です。" },
+      { "q": "a second opinion とは？", "a": "別の専門家（特に医師）の意見・セカンドオピニオンのことです。" }
+    ],
+    "quiz": [
+      { "q": "in my opinion の意味は？", "A": "私の考えでは", "B": "事実として", "C": "急いで", "D": "例えば", "correct": "A" },
+      { "q": "public opinion の意味は？", "A": "世論", "B": "公務", "C": "公園", "D": "公示", "correct": "A" }
+    ]
+  },
+  {
+    "english": "opponent",
+    "pron": "əˈpoʊnənt",
+    "kana": "オポウネント",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "Latin opponere 'set against'",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "学術"],
+    "meaning_main": "（試合・論争の）相手・敵／反対者",
+    "description": "opponent は試合や議論で対戦する相手、また反対者を表す語。ally（味方）との対や oppose との関係を解説します。",
+    "keywords": ["opponent 意味", "opponent 使い方", "対戦相手", "反対者"],
+    "meanings": [
+      { "hinshi": "【名詞】対戦相手・敵", "note": "試合・論争などで対立する相手。" },
+      { "hinshi": "【名詞】反対者", "note": "ある考え・政策に反対する人。an opponent of the plan。" }
+    ],
+    "usages": [
+      { "title": "① 対戦相手", "desc": "試合の相手。", "example_en": "She beat her opponent easily.", "example_ja": "彼女は相手を楽に破った。" },
+      { "title": "② 反対者", "desc": "反対する人。", "example_en": "He is an opponent of the new law.", "example_ja": "彼は新法の反対者だ。" }
+    ],
+    "warn": ["味方は ally / supporter、対義に proponent（支持者・提案者）。動詞 oppose（反対する）、形容詞 opposite（反対の）と同根。"],
+    "etym_note": "ラテン語 opponere（ob＝〜に対して＋ponere＝置く）に由来。「向かいに置かれた人＝対立する相手」の意。",
+    "etym_chain": [
+      { "node": "opponere", "sub": "向かいに置く（ラテン語）", "era": "古代" },
+      { "node": "opponent", "sub": "対戦相手・反対者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "beat an opponent", "ja": "相手を負かす" },
+      { "en": "a worthy opponent", "ja": "手ごわい相手" },
+      { "en": "a political opponent", "ja": "政敵" },
+      { "en": "an opponent of", "ja": "〜の反対者" },
+      { "en": "face an opponent", "ja": "相手と対戦する" },
+      { "en": "a formidable opponent", "ja": "手ごわい敵" }
+    ],
+    "related": [
+      { "en": "oppose", "ja": "反対する（動詞）" },
+      { "en": "proponent", "ja": "支持者・提案者（対）" },
+      { "en": "rival", "ja": "ライバル・競争相手" }
+    ],
+    "faq": [
+      { "q": "opponent とは？", "a": "試合や論争で対立する相手、またある考え・政策に反対する人です。" },
+      { "q": "対義語は？", "a": "支持者・提案者の proponent、味方の ally / supporter です。" }
+    ],
+    "quiz": [
+      { "q": "opponent の意味は？", "A": "対戦相手・反対者", "B": "味方", "C": "観客", "D": "審判", "correct": "A" },
+      { "q": "opponent と対になる語は？", "A": "proponent", "B": "opinion", "C": "option", "D": "operator", "correct": "A" }
+    ]
+  },
+  {
+    "english": "opportunity",
+    "pron": "ˌɒpərˈtuːnəti",
+    "kana": "オポチューニティ",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "Latin opportunus 'favorable'",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "基本"],
+    "meaning_main": "（好都合な）機会・チャンス",
+    "description": "opportunity は何かをするのに good な機会・チャンスを表す語。have/take the opportunity to の用法を解説します。",
+    "keywords": ["opportunity 意味", "opportunity 使い方", "機会", "チャンス"],
+    "meanings": [
+      { "hinshi": "【名詞】機会・チャンス", "note": "何かをするのに都合のよいとき。an opportunity to do（〜する機会）。" }
+    ],
+    "usages": [
+      { "title": "① 機会を得る", "desc": "チャンスがある。", "example_en": "I had the opportunity to study abroad.", "example_ja": "私は留学する機会を得た。" },
+      { "title": "② 機会を生かす", "desc": "take the opportunity。", "example_en": "Take every opportunity to practice.", "example_ja": "練習する機会を逃さず生かしなさい。" }
+    ],
+    "warn": ["an opportunity to do / for ~（〜する機会）。take/seize an opportunity（機会をつかむ）、miss an opportunity（機会を逃す）。chance より「好都合な・前向きな機会」のニュアンス。"],
+    "etym_note": "ラテン語 opportunus（好都合な、もとは ob portum＝港に向かう＝順風の意）に由来。",
+    "etym_chain": [
+      { "node": "opportunus", "sub": "好都合な（ラテン語）", "era": "古代" },
+      { "node": "opportunity", "sub": "機会", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an opportunity to do", "ja": "〜する機会" },
+      { "en": "take the opportunity", "ja": "機会を生かす" },
+      { "en": "miss an opportunity", "ja": "機会を逃す" },
+      { "en": "a golden opportunity", "ja": "絶好の機会" },
+      { "en": "seize the opportunity", "ja": "好機をつかむ" },
+      { "en": "equal opportunity", "ja": "機会均等" }
+    ],
+    "related": [
+      { "en": "chance", "ja": "機会・見込み" },
+      { "en": "occasion", "ja": "機会・場合" },
+      { "en": "opening", "ja": "好機・空き" }
+    ],
+    "faq": [
+      { "q": "opportunity と chance の違いは？", "a": "意味は近いですが、opportunity は「好都合な・前向きな機会」というニュアンスが強い語です。" },
+      { "q": "典型表現は？", "a": "an opportunity to do（〜する機会）、take/seize the opportunity（機会を生かす）です。" }
+    ],
+    "quiz": [
+      { "q": "miss an opportunity の意味は？", "A": "機会を逃す", "B": "機会をつかむ", "C": "機会を作る", "D": "機会を待つ", "correct": "A" },
+      { "q": "a golden opportunity の意味は？", "A": "絶好の機会", "B": "金もうけ", "C": "金メダル", "D": "黄金時代", "correct": "A" }
+    ]
+  },
+  {
+    "english": "oppose",
+    "pron": "əˈpoʊz",
+    "kana": "オポウズ",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "Latin opponere 'set against'",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "学術"],
+    "meaning_main": "（〜に）反対する・対抗する",
+    "description": "oppose は計画・考え・人に反対し対抗することを表す語。be opposed to や as opposed to の用法を解説します。",
+    "keywords": ["oppose 意味", "oppose 使い方", "反対する", "be opposed to"],
+    "meanings": [
+      { "hinshi": "【動詞】反対する・対抗する", "note": "他動詞。oppose the plan（計画に反対する）。be opposed to ~（〜に反対している）。" }
+    ],
+    "usages": [
+      { "title": "① 反対する", "desc": "対抗する。", "example_en": "Many people oppose the plan.", "example_ja": "多くの人がその計画に反対している。" },
+      { "title": "② be opposed to", "desc": "反対の立場。", "example_en": "I am opposed to the idea.", "example_ja": "私はその考えに反対だ。" }
+    ],
+    "warn": ["他動詞なので oppose the plan（oppose to は不可）。ただし状態は be opposed to ~。as opposed to ~（〜とは対照的に）も頻出。名詞は opposition。"],
+    "etym_note": "ラテン語 opponere（ob＝〜に対して＋ponere＝置く）に由来。opponent・opposite と同根。",
+    "etym_chain": [
+      { "node": "opponere", "sub": "向かいに置く（ラテン語）", "era": "古代" },
+      { "node": "oppose", "sub": "反対する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "oppose the plan", "ja": "計画に反対する" },
+      { "en": "be opposed to", "ja": "〜に反対している" },
+      { "en": "as opposed to", "ja": "〜とは対照的に" },
+      { "en": "strongly oppose", "ja": "強く反対する" },
+      { "en": "oppose a decision", "ja": "決定に反対する" },
+      { "en": "fiercely opposed", "ja": "激しく反対して" }
+    ],
+    "related": [
+      { "en": "opposition", "ja": "反対・野党" },
+      { "en": "opponent", "ja": "反対者・対戦相手" },
+      { "en": "resist", "ja": "抵抗する" }
+    ],
+    "faq": [
+      { "q": "oppose に to は必要？", "a": "動詞 oppose は他動詞で oppose the plan のように使います（oppose to は不可）。状態は be opposed to ~ です。" },
+      { "q": "as opposed to とは？", "a": "「〜とは対照的に・〜ではなく」という意味の表現です。" }
+    ],
+    "quiz": [
+      { "q": "be opposed to the idea の意味は？", "A": "その考えに反対している", "B": "その考えに賛成している", "C": "その考えを思いついた", "D": "その考えを忘れた", "correct": "A" },
+      { "q": "oppose の名詞形は？", "A": "opposition", "B": "oppression", "C": "opposal", "D": "opposement", "correct": "A" }
+    ]
+  },
+  {
+    "english": "opposite",
+    "pron": "ˈɒpəzɪt",
+    "kana": "オポジット",
+    "hinshi": "形容詞 / 名詞 / 前置詞",
+    "ld_pos": "adjective / noun / preposition",
+    "ld_etym": "Latin oppositus",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "基本"],
+    "meaning_main": "正反対の／反対のもの／〜の向かい側に",
+    "description": "opposite は「正反対の」形容詞、「反対のもの」名詞、「〜の向かいに」前置詞として使う語。the opposite of の用法を解説します。",
+    "keywords": ["opposite 意味", "opposite 使い方", "正反対の", "the opposite of"],
+    "meanings": [
+      { "hinshi": "【形容詞】正反対の・向かいの", "note": "全く逆の。向かい側の。the opposite direction（反対方向）。" },
+      { "hinshi": "【名詞】反対のもの", "note": "the opposite of ~（〜の反対）。" },
+      { "hinshi": "【前置詞】〜の向かい側に", "note": "opposite the station（駅の向かいに）。" }
+    ],
+    "usages": [
+      { "title": "① 形容詞・名詞", "desc": "正反対。", "example_en": "'Hot' is the opposite of 'cold'.", "example_ja": "hot は cold の反対だ。" },
+      { "title": "② 前置詞", "desc": "向かいに。", "example_en": "The bank is opposite the post office.", "example_ja": "銀行は郵便局の向かいにある。" }
+    ],
+    "warn": ["the opposite of ~（〜の反対）。前置詞では opposite ~（〜の向かいに、to なしでも可）。opposite sex（異性）も頻出。"],
+    "etym_note": "ラテン語 oppositus（opponere＝向かいに置く の過去分詞）に由来。oppose・opponent と同根。",
+    "etym_chain": [
+      { "node": "oppositus", "sub": "向かいに置かれた（ラテン語）", "era": "古代" },
+      { "node": "opposite", "sub": "正反対の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the opposite of", "ja": "〜の反対" },
+      { "en": "the opposite direction", "ja": "反対方向" },
+      { "en": "opposite the station", "ja": "駅の向かいに" },
+      { "en": "the opposite sex", "ja": "異性" },
+      { "en": "quite the opposite", "ja": "まったく逆" },
+      { "en": "opposite sides", "ja": "反対側どうし" }
+    ],
+    "related": [
+      { "en": "oppose", "ja": "反対する" },
+      { "en": "reverse", "ja": "逆の・逆転" },
+      { "en": "contrary", "ja": "反対の" }
+    ],
+    "faq": [
+      { "q": "the opposite of とは？", "a": "「〜の反対（のもの）」という意味です（例: the opposite of hot is cold）。" },
+      { "q": "前置詞の使い方は？", "a": "opposite ~（〜の向かいに）です。to を付けずに使えます。" }
+    ],
+    "quiz": [
+      { "q": "the opposite of 'hot' は？", "A": "cold", "B": "warm", "C": "hotter", "D": "heat", "correct": "A" },
+      { "q": "opposite the station の意味は？", "A": "駅の向かいに", "B": "駅の中に", "C": "駅の近くに", "D": "駅から遠くに", "correct": "A" }
+    ]
+  },
+  {
+    "english": "option",
+    "pron": "ˈɒpʃən",
+    "kana": "オプション",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "Latin optio 'choice'",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "基本"],
+    "meaning_main": "選択肢・選べるもの",
+    "description": "option は選べるもの・選択肢を表す語。have the option to/of の用法や形容詞 optional を解説します。",
+    "keywords": ["option 意味", "option 使い方", "選択肢", "optional"],
+    "meanings": [
+      { "hinshi": "【名詞】選択肢", "note": "選べるもの・選ぶ自由。have no option（選択の余地がない）。" }
+    ],
+    "usages": [
+      { "title": "① 選択肢", "desc": "選べるもの。", "example_en": "You have two options.", "example_ja": "選択肢が二つあります。" },
+      { "title": "② 余地がない", "desc": "have no option。", "example_en": "We had no option but to wait.", "example_ja": "私たちは待つしかなかった。" }
+    ],
+    "warn": ["have the option to do / of doing（〜する選択肢がある）。have no option but to do（〜するしかない）。形容詞 optional（任意の・選択の）。"],
+    "etym_note": "ラテン語 optio（選択、optare＝選ぶ から）に由来。opt（選ぶ）・optional と同根。",
+    "etym_chain": [
+      { "node": "optio", "sub": "選択（ラテン語）", "era": "古代" },
+      { "node": "option", "sub": "選択肢", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "have options", "ja": "選択肢がある" },
+      { "en": "the best option", "ja": "最善の選択肢" },
+      { "en": "have no option but to", "ja": "〜するしかない" },
+      { "en": "keep your options open", "ja": "選択の幅を残しておく" },
+      { "en": "a range of options", "ja": "さまざまな選択肢" },
+      { "en": "an optional extra", "ja": "任意の追加" }
+    ],
+    "related": [
+      { "en": "optional", "ja": "任意の・選択の" },
+      { "en": "choice", "ja": "選択" },
+      { "en": "alternative", "ja": "代替案・選択肢" }
+    ],
+    "faq": [
+      { "q": "have no option but to do とは？", "a": "「〜するより仕方がない・〜するしかない」という意味です。" },
+      { "q": "形容詞形は？", "a": "optional（任意の・選択できる）です。" }
+    ],
+    "quiz": [
+      { "q": "have no option but to wait の意味は？", "A": "待つしかない", "B": "待つのをやめる", "C": "待たずに帰る", "D": "待つのが好き", "correct": "A" },
+      { "q": "option の形容詞形は？", "A": "optional", "B": "optionable", "C": "optionous", "D": "optionary", "correct": "A" }
+    ]
+  },
+  {
+    "english": "oral",
+    "pron": "ˈɔːrəl",
+    "kana": "オーラル",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "Latin os 'mouth'",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "学術"],
+    "meaning_main": "口頭の・口述の／口の・口腔の",
+    "description": "oral は「口頭の（話す）」「口の（口腔の）」を表す語。written（書面の）との対や同音語 aural との違いを解説します。",
+    "keywords": ["oral 意味", "oral 使い方", "口頭の", "aural 違い"],
+    "meanings": [
+      { "hinshi": "【形容詞】口頭の・口述の", "note": "話して伝える。an oral exam（口述試験）。written の対。" },
+      { "hinshi": "【形容詞】口の・口腔の", "note": "口に関する。oral hygiene（口腔衛生）。" }
+    ],
+    "usages": [
+      { "title": "① 口頭の", "desc": "話す。", "example_en": "We had an oral exam.", "example_ja": "私たちは口述試験を受けた。" },
+      { "title": "② 口の", "desc": "口腔の。", "example_en": "Good oral hygiene prevents cavities.", "example_ja": "よい口腔衛生は虫歯を防ぐ。" }
+    ],
+    "warn": ["written（書面の）の対。同音の aural（耳の・聴覚の）と混同しやすいので注意。語源はラテン語 os（口）。"],
+    "etym_note": "ラテン語 os（口、属格 oris）に由来。「口の・口を使った」の意。",
+    "etym_chain": [
+      { "node": "os / oris", "sub": "口（ラテン語）", "era": "古代" },
+      { "node": "oral", "sub": "口頭の・口の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an oral exam", "ja": "口述試験" },
+      { "en": "oral history", "ja": "口述による歴史・口承史" },
+      { "en": "oral hygiene", "ja": "口腔衛生" },
+      { "en": "an oral tradition", "ja": "口承の伝統" },
+      { "en": "oral and written", "ja": "口頭と書面の" },
+      { "en": "oral communication", "ja": "口頭でのやり取り" }
+    ],
+    "related": [
+      { "en": "aural", "ja": "耳の・聴覚の（同音）" },
+      { "en": "verbal", "ja": "言葉の・口頭の" },
+      { "en": "written", "ja": "書面の（対）" }
+    ],
+    "faq": [
+      { "q": "oral の意味は？", "a": "①口頭の・口述の（話す）、②口の・口腔の、です。" },
+      { "q": "aural との違いは？", "a": "発音は同じですが、oral は「口の」、aural は「耳の・聴覚の」で別語です。" }
+    ],
+    "quiz": [
+      { "q": "an oral exam の意味は？", "A": "口述試験", "B": "筆記試験", "C": "実技試験", "D": "聴力試験", "correct": "A" },
+      { "q": "oral と同音の語は？", "A": "aural（耳の）", "B": "moral", "C": "rural", "D": "coral", "correct": "A" }
+    ]
+  }
+]
