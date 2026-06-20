@@ -1,0 +1,475 @@
+[
+  {
+    "english": "sashimi",
+    "pron": "səˈʃiːmi",
+    "kana": "サシーミ",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "Japanese sashimi",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "食文化"],
+    "meaning_main": "刺身（生の魚介を薄く切った日本料理）",
+    "description": "sashimi（刺身）は生の魚介を薄く切って供する日本料理。英語では不可算で、sushi との違いを解説します。",
+    "keywords": ["sashimi 意味", "刺身 英語", "sashimi sushi 違い", "生魚"],
+    "meanings": [
+      { "hinshi": "【名詞】刺身", "note": "生の魚介を薄く切り、しょうゆ・わさびで食べる日本料理。" }
+    ],
+    "usages": [
+      { "title": "① 料理として", "desc": "生魚の薄切りを指す。", "example_en": "I ordered tuna sashimi.", "example_ja": "マグロの刺身を注文した。" },
+      { "title": "② 文脈で", "desc": "新鮮さが重視される。", "example_en": "The sashimi was incredibly fresh.", "example_ja": "その刺身は驚くほど新鮮だった。" }
+    ],
+    "warn": ["英語でも不可算名詞。sushi（酢飯を使う料理）と違い、sashimi は飯を使わない生魚そのもの。"],
+    "etym_note": "日本語「刺身（さしみ）」に由来する借用語。",
+    "etym_chain": [
+      { "node": "刺身 (sashimi)", "sub": "刺身（日本語）", "era": "近世日本" },
+      { "node": "sashimi", "sub": "刺身", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "tuna sashimi", "ja": "マグロの刺身" },
+      { "en": "eat sashimi", "ja": "刺身を食べる" },
+      { "en": "fresh sashimi", "ja": "新鮮な刺身" },
+      { "en": "a sashimi platter", "ja": "刺身の盛り合わせ" },
+      { "en": "salmon sashimi", "ja": "サーモンの刺身" },
+      { "en": "sashimi-grade fish", "ja": "刺身用の魚" }
+    ],
+    "related": [
+      { "en": "sushi", "ja": "寿司（酢飯を使う）" },
+      { "en": "wasabi", "ja": "わさび" },
+      { "en": "Japan", "ja": "日本" }
+    ],
+    "faq": [
+      { "q": "sashimi と sushi の違いは？", "a": "sashimi は飯を使わない生魚の薄切り、sushi は酢飯を使った料理です。" },
+      { "q": "sashimi は数えられる？", "a": "ふつう不可算名詞です。a sashimi platter のように表します。" }
+    ],
+    "quiz": [
+      { "q": "sashimi の特徴は？", "A": "飯を使わない生魚", "B": "酢飯の握り", "C": "揚げ物", "D": "焼き魚", "correct": "A" },
+      { "q": "sashimi はどこの料理？", "A": "日本", "B": "中国", "C": "タイ", "D": "韓国", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sheikh",
+    "pron": "ʃeɪk",
+    "kana": "シェイク",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "Arabic shaykh 'elder'",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "文化"],
+    "meaning_main": "シェイク（アラブの族長・首長・指導者）",
+    "description": "sheikh（シェイク）はアラブ社会の族長・首長・宗教指導者を表す語。発音や別綴り sheik を解説します。",
+    "keywords": ["sheikh 意味", "シェイク 英語", "アラブ 首長", "sheik 綴り"],
+    "meanings": [
+      { "hinshi": "【名詞】シェイク", "note": "アラブの部族の長、首長国の支配者、またはイスラムの宗教指導者。" }
+    ],
+    "usages": [
+      { "title": "① 首長・支配者として", "desc": "アラブの指導者を指す。", "example_en": "The sheikh rules a wealthy emirate.", "example_ja": "そのシェイクは豊かな首長国を治めている。" },
+      { "title": "② 敬称として", "desc": "名前の前に付けて使う。", "example_en": "Sheikh Mohammed opened the event.", "example_ja": "ムハンマド殿下が式典を開会した。" }
+    ],
+    "warn": ["発音は /ʃeɪk/ で shake（振る）とほぼ同音。別綴り sheik もある。アラブ首長国連邦（UAE）の支配者などを指すことが多い。"],
+    "etym_note": "アラビア語 shaykh（長老・年長者）に由来する借用語。",
+    "etym_chain": [
+      { "node": "shaykh", "sub": "長老（アラビア語）", "era": "中世" },
+      { "node": "sheikh", "sub": "シェイク", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a wealthy sheikh", "ja": "裕福なシェイク" },
+      { "en": "the sheikh's palace", "ja": "シェイクの宮殿" },
+      { "en": "an oil sheikh", "ja": "石油王（のシェイク）" },
+      { "en": "Sheikh Mohammed", "ja": "シェイク・ムハンマド" },
+      { "en": "a tribal sheikh", "ja": "部族の長" },
+      { "en": "the ruling sheikh", "ja": "統治するシェイク" }
+    ],
+    "related": [
+      { "en": "sultan", "ja": "スルタン（君主）" },
+      { "en": "emir", "ja": "首長（アミール）" },
+      { "en": "Arabia", "ja": "アラビア" }
+    ],
+    "faq": [
+      { "q": "sheikh とは？", "a": "アラブの部族の長や首長国の支配者、またはイスラムの宗教指導者を指す語です。" },
+      { "q": "sheikh の発音は？", "a": "/ʃeɪk/ で shake（振る）とほぼ同音です。別綴り sheik もあります。" }
+    ],
+    "quiz": [
+      { "q": "sheikh と同じ発音の語は？", "A": "shake", "B": "sheep", "C": "shock", "D": "shark", "correct": "A" },
+      { "q": "sheikh の語源 shaykh の意味は？", "A": "長老", "B": "戦士", "C": "商人", "D": "農夫", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sherpa",
+    "pron": "ˈʃɜːrpə",
+    "kana": "シェルパ",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "Tibetan 'eastern people'",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "文化"],
+    "meaning_main": "シェルパ（ヒマラヤの民族／登山案内人）",
+    "description": "sherpa（シェルパ）はヒマラヤ地方の民族で、登山隊の案内・荷運びで有名。比喩的な「案内役」の用法も解説します。",
+    "keywords": ["sherpa 意味", "シェルパ 英語", "ヒマラヤ 登山", "案内人"],
+    "meanings": [
+      { "hinshi": "【名詞】シェルパ（民族）", "note": "ネパール東部・ヒマラヤ地方に住む民族。Sherpa と大文字でも書く。" },
+      { "hinshi": "【名詞】登山案内人", "note": "高地登山で案内や荷運びを担う人。比喩で「案内役・補佐役」。" }
+    ],
+    "usages": [
+      { "title": "① 民族・案内人として", "desc": "ヒマラヤ登山を支える人々を指す。", "example_en": "The sherpa guided them to the summit.", "example_ja": "シェルパは彼らを頂上へ導いた。" },
+      { "title": "② 比喩として", "desc": "交渉などの「補佐役」。", "example_en": "He acted as a sherpa for the negotiations.", "example_ja": "彼は交渉の補佐役を務めた。" }
+    ],
+    "warn": ["本来は民族名（Sherpa）。エベレスト登山の案内・荷運びで知られ、転じて「案内役・補佐役」の意でも使う。"],
+    "etym_note": "チベット語で「東の人々」を意味する語に由来。ヒマラヤ東部から移住した民族にちなむ。",
+    "etym_chain": [
+      { "node": "shar-pa", "sub": "東の人（チベット語）", "era": "中世" },
+      { "node": "sherpa", "sub": "シェルパ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a mountain sherpa", "ja": "山岳ガイドのシェルパ" },
+      { "en": "hire a sherpa", "ja": "シェルパを雇う" },
+      { "en": "the Sherpa people", "ja": "シェルパ族" },
+      { "en": "climb with a sherpa", "ja": "シェルパと登る" },
+      { "en": "act as a sherpa", "ja": "案内役を務める" },
+      { "en": "an experienced sherpa", "ja": "経験豊富なシェルパ" }
+    ],
+    "related": [
+      { "en": "Everest", "ja": "エベレスト" },
+      { "en": "Himalayas", "ja": "ヒマラヤ" },
+      { "en": "Nepal", "ja": "ネパール" }
+    ],
+    "faq": [
+      { "q": "sherpa とは？", "a": "ヒマラヤ地方の民族で、登山隊の案内や荷運びを担うことで知られます。比喩で「案内役」にも使います。" },
+      { "q": "なぜ登山で有名？", "a": "高地への適応力が高く、エベレスト登山などで案内人・ポーターとして活躍してきたためです。" }
+    ],
+    "quiz": [
+      { "q": "sherpa が活躍する場所は？", "A": "ヒマラヤの高山", "B": "砂漠", "C": "大洋", "D": "極地の海", "correct": "A" },
+      { "q": "sherpa の比喩的な意味は？", "A": "案内役・補佐役", "B": "敵対者", "C": "観客", "D": "審判", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sultan",
+    "pron": "ˈsʌltən",
+    "kana": "サルタン",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "Arabic sultan 'authority'",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "文化"],
+    "meaning_main": "スルタン（イスラム諸国の君主）",
+    "description": "sultan（スルタン）はイスラム諸国の君主・支配者。語源「権威」や sultanate（スルタン国）との関係を解説します。",
+    "keywords": ["sultan 意味", "スルタン 英語", "sultanate", "イスラム 君主"],
+    "meanings": [
+      { "hinshi": "【名詞】スルタン", "note": "イスラム諸国の君主・支配者。" },
+      { "hinshi": "【関連】sultanate", "note": "スルタンが治める国（スルタン国）。" }
+    ],
+    "usages": [
+      { "title": "① 君主として", "desc": "イスラム国の支配者を指す。", "example_en": "The sultan ruled the empire for decades.", "example_ja": "スルタンは数十年その帝国を治めた。" },
+      { "title": "② 国の文脈で", "desc": "sultanate（スルタン国）とともに用いる。", "example_en": "Oman is a sultanate.", "example_ja": "オマーンはスルタン国だ。" }
+    ],
+    "warn": ["スルタンが治める国は sultanate（スルタン国）。干しぶどうの一種 sultana（サルタナ）も同語源だが別物。"],
+    "etym_note": "アラビア語 sultan（権威・支配権）に由来。オスマン帝国の君主の称号として広く知られる。",
+    "etym_chain": [
+      { "node": "sultan", "sub": "権威（アラビア語）", "era": "中世" },
+      { "node": "sultan", "sub": "スルタン", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the sultan's palace", "ja": "スルタンの宮殿" },
+      { "en": "the Sultan of Oman", "ja": "オマーンのスルタン" },
+      { "en": "a powerful sultan", "ja": "強大なスルタン" },
+      { "en": "the Ottoman sultan", "ja": "オスマン帝国のスルタン" },
+      { "en": "the sultanate", "ja": "スルタン国" },
+      { "en": "serve the sultan", "ja": "スルタンに仕える" }
+    ],
+    "related": [
+      { "en": "sultanate", "ja": "スルタン国" },
+      { "en": "sheikh", "ja": "シェイク（首長）" },
+      { "en": "emperor", "ja": "皇帝" }
+    ],
+    "faq": [
+      { "q": "sultan とは？", "a": "イスラム諸国の君主・支配者を指す称号です。オスマン帝国の君主などが有名です。" },
+      { "q": "sultanate とは？", "a": "スルタンが統治する国家、すなわち「スルタン国」です。例: オマーン。" }
+    ],
+    "quiz": [
+      { "q": "sultan が治める国を何という？", "A": "sultanate", "B": "kingdom", "C": "republic", "D": "duchy", "correct": "A" },
+      { "q": "sultan の語源 sultan の意味は？", "A": "権威", "B": "太陽", "C": "山", "D": "海", "correct": "A" }
+    ]
+  },
+  {
+    "english": "shaman",
+    "pron": "ˈʃɑːmən",
+    "kana": "シャーマン",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "Tungus šaman",
+    "ld_level": "準1級",
+    "badges": ["大学生〜", "英検準1級", "CEFR B2", "文化"],
+    "meaning_main": "シャーマン（霊と交わる呪術師・祈祷師）",
+    "description": "shaman（シャーマン）は霊界と交わり病気治療や占いを行う呪術師。形容詞 shamanic や shamanism を解説します。",
+    "keywords": ["shaman 意味", "シャーマン 英語", "shamanism", "呪術師"],
+    "meanings": [
+      { "hinshi": "【名詞】シャーマン", "note": "トランス状態で霊と交流し、治療・占い・儀式を行う呪術師・祈祷師。" },
+      { "hinshi": "【関連】shamanism / shamanic", "note": "シャーマニズム（信仰）／シャーマンの（形容詞）。" }
+    ],
+    "usages": [
+      { "title": "① 呪術師として", "desc": "霊と交わる人を指す。", "example_en": "The shaman performed a healing ritual.", "example_ja": "シャーマンは治癒の儀式を行った。" },
+      { "title": "② 信仰の文脈で", "desc": "shamanism とともに用いる。", "example_en": "Shamanism is practiced in many cultures.", "example_ja": "シャーマニズムは多くの文化で行われている。" }
+    ],
+    "warn": ["複数形は shamans。シャーマンの信仰体系は shamanism、形容詞は shamanic。"],
+    "etym_note": "シベリアのツングース語 šaman（「知る者」）に由来し、ロシア語を経て英語に入った。",
+    "etym_chain": [
+      { "node": "šaman", "sub": "知る者（ツングース語）", "era": "近世" },
+      { "node": "shaman", "sub": "シャーマン", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a tribal shaman", "ja": "部族のシャーマン" },
+      { "en": "a healing shaman", "ja": "治癒を行うシャーマン" },
+      { "en": "the shaman's ritual", "ja": "シャーマンの儀式" },
+      { "en": "consult a shaman", "ja": "シャーマンに相談する" },
+      { "en": "shamanic practices", "ja": "シャーマン的な習俗" },
+      { "en": "the role of the shaman", "ja": "シャーマンの役割" }
+    ],
+    "related": [
+      { "en": "shamanism", "ja": "シャーマニズム" },
+      { "en": "ritual", "ja": "儀式" },
+      { "en": "spirit", "ja": "霊・精霊" }
+    ],
+    "faq": [
+      { "q": "shaman とは？", "a": "トランス状態で霊界と交わり、治療・占い・儀式を行う呪術師・祈祷師です。" },
+      { "q": "shamanism とは？", "a": "シャーマンを介して霊と関わる信仰体系（シャーマニズム）です。" }
+    ],
+    "quiz": [
+      { "q": "shaman の役割は？", "A": "霊と交わり治療や占いをする", "B": "国を統治する", "C": "軍を率いる", "D": "商売をする", "correct": "A" },
+      { "q": "shaman の信仰体系を何という？", "A": "shamanism", "B": "shamanship", "C": "shamanary", "D": "shamanhood", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sari",
+    "pron": "ˈsɑːri",
+    "kana": "サーリー",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "Hindi sari",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "服飾"],
+    "meaning_main": "サリー（インド女性の巻き衣装）",
+    "description": "sari（サリー）はインドなどの女性が身につける長い一枚布の衣装。別綴り saree や着方を解説します。",
+    "keywords": ["sari 意味", "サリー 英語", "インド 衣装", "saree"],
+    "meanings": [
+      { "hinshi": "【名詞】サリー", "note": "インド・南アジアの女性が体に巻きつけて着る長い一枚布の衣装。" }
+    ],
+    "usages": [
+      { "title": "① 衣装として", "desc": "巻きつける民族衣装を指す。", "example_en": "She wore a beautiful silk sari.", "example_ja": "彼女は美しい絹のサリーを着ていた。" },
+      { "title": "② 場面で", "desc": "結婚式や祭礼で着用される。", "example_en": "Many guests wore saris to the wedding.", "example_ja": "多くの招待客が結婚式にサリーを着てきた。" }
+    ],
+    "warn": ["別綴り saree もよく使われる。縫製せず体に巻きつけて着る点が特徴。"],
+    "etym_note": "ヒンディー語 sārī に由来する借用語。サンスクリット語の「細長い布」に遡る。",
+    "etym_chain": [
+      { "node": "sārī", "sub": "サリー（ヒンディー語）", "era": "中世" },
+      { "node": "sari", "sub": "サリー", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a silk sari", "ja": "絹のサリー" },
+      { "en": "wear a sari", "ja": "サリーを着る" },
+      { "en": "a wedding sari", "ja": "結婚式用のサリー" },
+      { "en": "wrap a sari", "ja": "サリーを巻く" },
+      { "en": "a colorful sari", "ja": "色鮮やかなサリー" },
+      { "en": "a cotton sari", "ja": "綿のサリー" }
+    ],
+    "related": [
+      { "en": "India", "ja": "インド" },
+      { "en": "sarong", "ja": "サロン（巻きスカート）" },
+      { "en": "dress", "ja": "衣装・ドレス" }
+    ],
+    "faq": [
+      { "q": "sari とは？", "a": "インドや南アジアの女性が体に巻きつけて着る、長い一枚布の民族衣装です。" },
+      { "q": "別の綴りはある？", "a": "はい、saree という綴りもよく使われます。" }
+    ],
+    "quiz": [
+      { "q": "sari はどこの衣装？", "A": "インド・南アジア", "B": "北欧", "C": "南米", "D": "西アフリカ", "correct": "A" },
+      { "q": "sari の特徴は？", "A": "巻きつけて着る一枚布", "B": "ボタンで留める上着", "C": "革のブーツ", "D": "毛皮の帽子", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sarong",
+    "pron": "səˈrɒŋ",
+    "kana": "サロン",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "Malay sarung 'sheath'",
+    "ld_level": "準1級",
+    "badges": ["大学生〜", "英検準1級", "CEFR B2", "服飾"],
+    "meaning_main": "サロン（腰に巻く一枚布の衣装）",
+    "description": "sarong（サロン）は東南アジアなどで腰に巻く一枚布の衣装。発音やビーチでの用法を解説します。",
+    "keywords": ["sarong 意味", "サロン 英語", "東南アジア 衣装", "巻きスカート"],
+    "meanings": [
+      { "hinshi": "【名詞】サロン", "note": "東南アジア・南アジア・太平洋諸島で、腰や体に巻いて着る一枚布の衣装。" }
+    ],
+    "usages": [
+      { "title": "① 民族衣装として", "desc": "腰に巻く布を指す。", "example_en": "He wore a sarong around his waist.", "example_ja": "彼は腰にサロンを巻いていた。" },
+      { "title": "② ビーチで", "desc": "水着の上に羽織る用途でも。", "example_en": "She tied a sarong over her swimsuit.", "example_ja": "彼女は水着の上にサロンを巻いた。" }
+    ],
+    "warn": ["日本語の「サロン（社交の場、salon）」とは無関係の別語。発音は /səˈrɒŋ/。男女ともに着る。"],
+    "etym_note": "マレー語 sarung（「鞘（さや）・覆い」）に由来する借用語。",
+    "etym_chain": [
+      { "node": "sarung", "sub": "鞘・覆い（マレー語）", "era": "近世" },
+      { "node": "sarong", "sub": "サロン", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "wear a sarong", "ja": "サロンを巻く" },
+      { "en": "a beach sarong", "ja": "ビーチ用のサロン" },
+      { "en": "tie a sarong", "ja": "サロンを結ぶ" },
+      { "en": "a colorful sarong", "ja": "色鮮やかなサロン" },
+      { "en": "wrap a sarong", "ja": "サロンを巻きつける" },
+      { "en": "a cotton sarong", "ja": "綿のサロン" }
+    ],
+    "related": [
+      { "en": "sari", "ja": "サリー（インドの巻き衣装）" },
+      { "en": "Indonesia", "ja": "インドネシア" },
+      { "en": "Malaysia", "ja": "マレーシア" }
+    ],
+    "faq": [
+      { "q": "sarong とは？", "a": "東南アジアなどで腰や体に巻いて着る、一枚布の衣装です。男女ともに着用します。" },
+      { "q": "日本語の「サロン」と同じ？", "a": "いいえ。社交の場の「サロン（salon）」とは別語です。" }
+    ],
+    "quiz": [
+      { "q": "sarong はどう着る？", "A": "腰や体に巻く", "B": "頭にかぶる", "C": "足に履く", "D": "肩に背負う", "correct": "A" },
+      { "q": "sarong の語源 sarung の意味は？", "A": "鞘・覆い", "B": "海", "C": "花", "D": "王", "correct": "A" }
+    ]
+  },
+  {
+    "english": "scimitar",
+    "pron": "ˈsɪmɪtər",
+    "kana": "シミター",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "via Italian scimitarra",
+    "ld_level": "準1級",
+    "badges": ["大学生〜", "英検準1級", "CEFR B2", "武器"],
+    "meaning_main": "シミター（湾曲した刀剣）",
+    "description": "scimitar（シミター）は中東で用いられた湾曲した片刃の刀剣。発音（c は無音）や形状を解説します。",
+    "keywords": ["scimitar 意味", "シミター 英語", "湾曲した刀", "中東 剣"],
+    "meanings": [
+      { "hinshi": "【名詞】シミター", "note": "中東・西アジアで使われた、刃が大きく湾曲した片刃の刀剣。" }
+    ],
+    "usages": [
+      { "title": "① 武器として", "desc": "三日月状に反った剣を指す。", "example_en": "The warrior drew his scimitar.", "example_ja": "戦士はシミターを抜いた。" },
+      { "title": "② 描写として", "desc": "湾曲した形のたとえにも。", "example_en": "The beach curved like a scimitar.", "example_ja": "浜辺はシミターのように湾曲していた。" }
+    ],
+    "warn": ["発音は /ˈsɪmɪtər/ で、最初の c は読まず「シミター」。刃が大きく湾曲している点が特徴。"],
+    "etym_note": "イタリア語 scimitarra などを経て英語に入った語。さらに東方の言語に遡るとされる。",
+    "etym_chain": [
+      { "node": "scimitarra", "sub": "シミター（イタリア語）", "era": "中世" },
+      { "node": "scimitar", "sub": "シミター", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "draw a scimitar", "ja": "シミターを抜く" },
+      { "en": "a curved scimitar", "ja": "湾曲したシミター" },
+      { "en": "a sharp scimitar", "ja": "鋭いシミター" },
+      { "en": "wield a scimitar", "ja": "シミターを振るう" },
+      { "en": "the blade of a scimitar", "ja": "シミターの刃" },
+      { "en": "a gleaming scimitar", "ja": "きらめくシミター" }
+    ],
+    "related": [
+      { "en": "sword", "ja": "剣" },
+      { "en": "blade", "ja": "刃" },
+      { "en": "saber", "ja": "サーベル（湾曲した剣）" }
+    ],
+    "faq": [
+      { "q": "scimitar とは？", "a": "中東・西アジアで使われた、刃が大きく湾曲した片刃の刀剣です。" },
+      { "q": "scimitar の発音は？", "a": "/ˈsɪmɪtər/「シミター」です。最初の c は発音しません。" }
+    ],
+    "quiz": [
+      { "q": "scimitar の特徴は？", "A": "湾曲した刃", "B": "まっすぐで両刃", "C": "短い棒", "D": "鎖状", "correct": "A" },
+      { "q": "scimitar の最初の c は？", "A": "発音しない", "B": "/k/ と読む", "C": "/tʃ/ と読む", "D": "/s/ を二重に読む", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sombrero",
+    "pron": "sɒmˈbrɛəroʊ",
+    "kana": "ソンブレロ",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "Spanish sombra 'shade'",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "服飾"],
+    "meaning_main": "ソンブレロ（つばの広いメキシコの帽子）",
+    "description": "sombrero（ソンブレロ）はメキシコなどで使われるつばの広い帽子。語源「日陰（sombra）」を解説します。",
+    "keywords": ["sombrero 意味", "ソンブレロ 英語", "メキシコ 帽子", "sombra"],
+    "meanings": [
+      { "hinshi": "【名詞】ソンブレロ", "note": "強い日差しを防ぐ、つばの非常に広いメキシコ・スペイン風の帽子。" }
+    ],
+    "usages": [
+      { "title": "① 帽子として", "desc": "つばの広い帽子を指す。", "example_en": "He wore a big sombrero in the sun.", "example_ja": "彼は日差しの下で大きなソンブレロをかぶっていた。" },
+      { "title": "② 文化の象徴として", "desc": "メキシコの象徴として登場。", "example_en": "The dancers wore colorful sombreros.", "example_ja": "踊り手たちは色鮮やかなソンブレロをかぶっていた。" }
+    ],
+    "warn": ["語源はスペイン語 sombra（日陰）で、「日差しをさえぎるもの」の意。複数形は sombreros。"],
+    "etym_note": "スペイン語 sombrero（sombra＝日陰 から）に由来。日よけの帽子を意味する。",
+    "etym_chain": [
+      { "node": "sombra", "sub": "日陰（スペイン語）", "era": "中世" },
+      { "node": "sombrero", "sub": "ソンブレロ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "wear a sombrero", "ja": "ソンブレロをかぶる" },
+      { "en": "a wide-brimmed sombrero", "ja": "つばの広いソンブレロ" },
+      { "en": "a colorful sombrero", "ja": "色鮮やかなソンブレロ" },
+      { "en": "a Mexican sombrero", "ja": "メキシコのソンブレロ" },
+      { "en": "under a sombrero", "ja": "ソンブレロの下で" },
+      { "en": "a straw sombrero", "ja": "麦わらのソンブレロ" }
+    ],
+    "related": [
+      { "en": "Mexico", "ja": "メキシコ" },
+      { "en": "hat", "ja": "帽子" },
+      { "en": "Spanish", "ja": "スペイン語（語源）" }
+    ],
+    "faq": [
+      { "q": "sombrero の語源は？", "a": "スペイン語 sombra（日陰）に由来し、「日差しをさえぎるもの」を意味します。" },
+      { "q": "sombrero の特徴は？", "a": "つばが非常に広く、強い日差しから顔や首を守るようにできています。" }
+    ],
+    "quiz": [
+      { "q": "sombrero の語源 sombra の意味は？", "A": "日陰", "B": "太陽", "C": "風", "D": "雨", "correct": "A" },
+      { "q": "sombrero はどんな帽子？", "A": "つばの広い帽子", "B": "縁なしの帽子", "C": "毛皮の帽子", "D": "ヘルメット", "correct": "A" }
+    ]
+  },
+  {
+    "english": "swastika",
+    "pron": "ˈswɒstɪkə",
+    "kana": "スワスティカ",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "Sanskrit svastika 'well-being'",
+    "ld_level": "準1級",
+    "badges": ["大学生〜", "英検準1級", "CEFR B2", "象徴"],
+    "meaning_main": "スワスティカ（卍形の図形・鉤十字）",
+    "description": "swastika（スワスティカ）は古来の吉祥のしるしであり、ナチスの鉤十字でもある図形。文化的に正反対の意味を解説します。",
+    "keywords": ["swastika 意味", "スワスティカ 英語", "卍 鉤十字", "svastika"],
+    "meanings": [
+      { "hinshi": "【名詞】スワスティカ", "note": "腕が直角に曲がった十字形の図形。アジアでは吉祥（卍）、近代欧州ではナチスの象徴（鉤十字）。" }
+    ],
+    "usages": [
+      { "title": "① 古来の吉祥のしるし", "desc": "仏教・ヒンドゥー教などで幸運の象徴。", "example_en": "In Asia, the swastika is an ancient symbol of good fortune.", "example_ja": "アジアではスワスティカは幸運を表す古い象徴だ。" },
+      { "title": "② ナチスの象徴", "desc": "20世紀には憎悪の象徴に。", "example_en": "The Nazi swastika became a symbol of hate.", "example_ja": "ナチスの鉤十字は憎悪の象徴となった。" }
+    ],
+    "warn": ["文化により意味が正反対。アジアの卍（仏教の吉祥）とナチスの鉤十字（傾いた向き）は区別が必要で、欧米では強い負の含意を持つため扱いに注意。"],
+    "etym_note": "サンスクリット語 svastika（「幸福・無事であること」）に由来。本来は吉祥のしるしだったが、20世紀にナチスが採用し意味が一変した。",
+    "etym_chain": [
+      { "node": "svastika", "sub": "幸福（サンスクリット）", "era": "古代" },
+      { "node": "swastika", "sub": "スワスティカ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an ancient swastika", "ja": "古代のスワスティカ" },
+      { "en": "the Nazi swastika", "ja": "ナチスの鉤十字" },
+      { "en": "a symbol of good fortune", "ja": "幸運の象徴" },
+      { "en": "ban the swastika", "ja": "鉤十字を禁止する" },
+      { "en": "a religious swastika", "ja": "宗教上のスワスティカ" },
+      { "en": "the meaning of the swastika", "ja": "スワスティカの意味" }
+    ],
+    "related": [
+      { "en": "symbol", "ja": "象徴・記号" },
+      { "en": "Sanskrit", "ja": "サンスクリット語（語源）" },
+      { "en": "Buddhism", "ja": "仏教" }
+    ],
+    "faq": [
+      { "q": "swastika の本来の意味は？", "a": "サンスクリット語で「幸福・無事」を意味し、アジアでは古来、吉祥（幸運）のしるしでした。" },
+      { "q": "なぜ負のイメージがある？", "a": "20世紀にナチス・ドイツが鉤十字として採用したため、欧米では憎悪・差別の象徴として強い負の含意を持ちます。" }
+    ],
+    "quiz": [
+      { "q": "swastika の語源 svastika の意味は？", "A": "幸福・無事", "B": "戦争", "C": "死", "D": "嵐", "correct": "A" },
+      { "q": "swastika について正しいのは？", "A": "文化により意味が正反対になりうる", "B": "常に同じ意味", "C": "近代に作られた図形", "D": "数字を表す記号", "correct": "A" }
+    ]
+  }
+]

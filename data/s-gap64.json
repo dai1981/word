@@ -1,0 +1,475 @@
+[
+  {
+    "english": "synthesize",
+    "pron": "ˈsɪnθəsaɪz",
+    "kana": "シンセサイズ",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "Greek synthesis 'putting together'",
+    "ld_level": "準1級",
+    "badges": ["大学生〜", "英検準1級", "CEFR B2", "学術"],
+    "meaning_main": "（要素を）統合する／（化学的に）合成する",
+    "description": "synthesize は複数の要素を組み合わせて一つにまとめること、また化学的に合成すること。名詞 synthesis との関係を解説します。",
+    "keywords": ["synthesize 意味", "synthesize 使い方", "synthesis", "合成"],
+    "meanings": [
+      { "hinshi": "【動詞】統合する", "note": "別々の考え・情報を組み合わせて一つにまとめる。" },
+      { "hinshi": "【動詞】合成する", "note": "化学物質などを人工的につくり出す。音を電子的に作る意味も。" }
+    ],
+    "usages": [
+      { "title": "① 統合する", "desc": "情報をまとめる。", "example_en": "She synthesized the research into a clear report.", "example_ja": "彼女は研究を明快な報告にまとめ上げた。" },
+      { "title": "② 合成する", "desc": "人工的に作る。", "example_en": "The drug is synthesized in a lab.", "example_ja": "その薬は研究室で合成される。" }
+    ],
+    "warn": ["名詞は synthesis（統合・合成、複数 syntheses）。analyze（分析する＝分ける）と対をなす（synthesize＝まとめる）。英綴り synthesise。"],
+    "etym_note": "ギリシャ語 synthesis（syn＝共に＋thesis＝置くこと）に由来し、「組み合わせて置く」が原義。",
+    "etym_chain": [
+      { "node": "syn + thesis", "sub": "共に＋置く（ギリシャ語）", "era": "古代" },
+      { "node": "synthesize", "sub": "統合・合成する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "synthesize information", "ja": "情報を統合する" },
+      { "en": "synthesize ideas", "ja": "考えをまとめる" },
+      { "en": "synthesize a compound", "ja": "化合物を合成する" },
+      { "en": "synthesize data", "ja": "データを統合する" },
+      { "en": "synthesize sound", "ja": "音を合成する" },
+      { "en": "synthesize findings", "ja": "知見をまとめる" }
+    ],
+    "related": [
+      { "en": "synthesis", "ja": "統合・合成（名詞）" },
+      { "en": "analyze", "ja": "分析する（対）" },
+      { "en": "integrate", "ja": "統合する" }
+    ],
+    "faq": [
+      { "q": "synthesize とは？", "a": "複数の要素を組み合わせて一つにまとめること、また化学的に人工的につくり出すことです。" },
+      { "q": "analyze との関係は？", "a": "analyze は「分けて調べる」、synthesize は「組み合わせてまとめる」で対をなします。" }
+    ],
+    "quiz": [
+      { "q": "synthesize information の意味は？", "A": "情報を統合する", "B": "情報を消す", "C": "情報を隠す", "D": "情報を疑う", "correct": "A" },
+      { "q": "synthesize と対をなす語は？", "A": "analyze", "B": "summarize", "C": "memorize", "D": "organize", "correct": "A" }
+    ]
+  },
+  {
+    "english": "symbolize",
+    "pron": "ˈsɪmbəlaɪz",
+    "kana": "シンボライズ",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "Greek symbolon 'token'",
+    "ld_level": "準1級",
+    "badges": ["大学生〜", "英検準1級", "CEFR B2", "学術"],
+    "meaning_main": "（〜の）象徴である・象徴する",
+    "description": "symbolize はあるものが別の概念を象徴・表すこと。symbol（象徴）との関係や represent との違いを解説します。",
+    "keywords": ["symbolize 意味", "symbolize 使い方", "symbol 象徴", "represent 違い"],
+    "meanings": [
+      { "hinshi": "【動詞】象徴する", "note": "あるものが、抽象的な概念や価値を表す・象徴する。" }
+    ],
+    "usages": [
+      { "title": "① 象徴する", "desc": "概念を表す。", "example_en": "The dove symbolizes peace.", "example_ja": "ハトは平和を象徴する。" },
+      { "title": "② 体現する", "desc": "代表的に表す。", "example_en": "The fall of the wall symbolized freedom.", "example_ja": "壁の崩壊は自由を象徴した。" }
+    ],
+    "warn": ["名詞は symbol（象徴）、形容詞は symbolic（象徴的な）。represent より「抽象概念を象徴的に表す」ニュアンスが強い。英綴り symbolise。"],
+    "etym_note": "ギリシャ語 symbolon（しるし・割り符、syn＝共に＋ballein＝投げる）に由来。「合わせて意味を示すもの」が原義。",
+    "etym_chain": [
+      { "node": "symbolon", "sub": "しるし（ギリシャ語）", "era": "古代" },
+      { "node": "symbolize", "sub": "象徴する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "symbolize peace", "ja": "平和を象徴する" },
+      { "en": "symbolize hope", "ja": "希望を象徴する" },
+      { "en": "come to symbolize", "ja": "〜の象徴となる" },
+      { "en": "symbolize unity", "ja": "団結を象徴する" },
+      { "en": "symbolize a new era", "ja": "新時代を象徴する" },
+      { "en": "symbolically represent", "ja": "象徴的に表す" }
+    ],
+    "related": [
+      { "en": "symbol", "ja": "象徴（名詞）" },
+      { "en": "represent", "ja": "表す・代表する" },
+      { "en": "embody", "ja": "体現する" }
+    ],
+    "faq": [
+      { "q": "symbolize とは？", "a": "あるものが平和・自由などの抽象的な概念を象徴・表すことです。" },
+      { "q": "represent とどう違う？", "a": "represent は広く「表す・代表する」、symbolize は「象徴的に表す」ニュアンスが強い語です。" }
+    ],
+    "quiz": [
+      { "q": "The dove symbolizes peace. の意味は？", "A": "ハトは平和を象徴する", "B": "ハトは平和を壊す", "C": "ハトは平和を嫌う", "D": "ハトは平和を売る", "correct": "A" },
+      { "q": "「象徴」を表す基本の名詞は？", "A": "symbol", "B": "symbolify", "C": "symbolment", "D": "symbolage", "correct": "A" }
+    ]
+  },
+  {
+    "english": "systematize",
+    "pron": "ˈsɪstəmətaɪz",
+    "kana": "システマタイズ",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "from system",
+    "ld_level": "1級",
+    "badges": ["難関大〜", "英検1級", "CEFR C1", "ビジネス"],
+    "meaning_main": "体系化する・組織立てる",
+    "description": "systematize はばらばらのものを秩序ある体系・方式にまとめること。systematic（体系的な）との関係を解説します。",
+    "keywords": ["systematize 意味", "systematize 使い方", "systematic", "体系化"],
+    "meanings": [
+      { "hinshi": "【動詞】体系化する", "note": "雑然としたものを、秩序ある体系・方式に整理してまとめる。" }
+    ],
+    "usages": [
+      { "title": "① 体系化する", "desc": "秩序立てる。", "example_en": "They systematized the filing process.", "example_ja": "彼らは書類整理の手順を体系化した。" },
+      { "title": "② 知識を", "desc": "整理してまとめる。", "example_en": "He systematized the rules into a manual.", "example_ja": "彼は規則を一冊のマニュアルに体系化した。" }
+    ],
+    "warn": ["形容詞 systematic（体系的な・組織立った）、名詞 system（体系）。英綴り systematise。「秩序ある仕組みにまとめる」が要点。"],
+    "etym_note": "system（体系、ギリシャ語 systēma＝組み合わせたもの）＋ -ize から。",
+    "etym_chain": [
+      { "node": "systēma", "sub": "組み合わせ（ギリシャ語）", "era": "古代" },
+      { "node": "systematize", "sub": "体系化する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "systematize the process", "ja": "手順を体系化する" },
+      { "en": "systematize knowledge", "ja": "知識を体系化する" },
+      { "en": "systematize the data", "ja": "データを整理体系化する" },
+      { "en": "a systematized approach", "ja": "体系立った手法" },
+      { "en": "systematize procedures", "ja": "手続きを体系化する" },
+      { "en": "fully systematize", "ja": "完全に体系化する" }
+    ],
+    "related": [
+      { "en": "systematic", "ja": "体系的な（形容詞）" },
+      { "en": "organize", "ja": "組織する・整理する" },
+      { "en": "codify", "ja": "成文化する・体系化する" }
+    ],
+    "faq": [
+      { "q": "systematize とは？", "a": "雑然としたものを、秩序ある体系・方式に整理してまとめることです。" },
+      { "q": "形容詞・名詞は？", "a": "形容詞は systematic（体系的な）、関連名詞は system（体系）です。" }
+    ],
+    "quiz": [
+      { "q": "systematize の意味は？", "A": "体系化する・組織立てる", "B": "ばらばらにする", "C": "破棄する", "D": "暗記する", "correct": "A" },
+      { "q": "systematize の形容詞形は？", "A": "systematic", "B": "systemative", "C": "systemal", "D": "systemous", "correct": "A" }
+    ]
+  },
+  {
+    "english": "subordinate",
+    "pron": "səˈbɔːrdɪnət",
+    "kana": "サボーディネット",
+    "hinshi": "形容詞 / 名詞 / 動詞",
+    "ld_pos": "adjective / noun / verb",
+    "ld_etym": "Latin sub + ordinare 'arrange'",
+    "ld_level": "準1級",
+    "badges": ["大学生〜", "英検準1級", "CEFR B2", "ビジネス・文法"],
+    "meaning_main": "下位の／部下／（〜より）下位に置く",
+    "description": "subordinate は地位・重要度が下位であること、また部下。文法の「従属節」や動詞用法、品詞による発音差を解説します。",
+    "keywords": ["subordinate 意味", "subordinate 使い方", "部下", "subordinate clause"],
+    "meanings": [
+      { "hinshi": "【形容詞】下位の・従属する", "note": "地位・重要度が下である。subordinate to ~（〜より下位の）。発音 -nət。" },
+      { "hinshi": "【名詞】部下", "note": "目下の人・部下。" },
+      { "hinshi": "【動詞】下位に置く", "note": "〜より低く扱う。subordinate A to B（AをBの下に置く）。発音 -neɪt。" }
+    ],
+    "usages": [
+      { "title": "① 形容詞・名詞", "desc": "下位の／部下。", "example_en": "He is subordinate to the manager.", "example_ja": "彼は部長の下位にある。" },
+      { "title": "② 動詞", "desc": "下位に置く。", "example_en": "They subordinated profit to safety.", "example_ja": "彼らは利益より安全を優先した（利益を安全の下に置いた）。" }
+    ],
+    "warn": ["形容詞・名詞は語尾を弱く -nət、動詞は -neɪt と発音が変わる。文法用語 subordinate clause は「従属節」。"],
+    "etym_note": "ラテン語 sub（下に）＋ ordinare（並べる、order と同根）から。「下位に並べる」の意。",
+    "etym_chain": [
+      { "node": "sub + ordinare", "sub": "下に＋並べる（ラテン語）", "era": "古代" },
+      { "node": "subordinate", "sub": "下位の・下位に置く", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "subordinate to", "ja": "〜より下位の" },
+      { "en": "a subordinate role", "ja": "従属的な役割" },
+      { "en": "a subordinate clause", "ja": "従属節" },
+      { "en": "subordinate A to B", "ja": "AをBの下に置く" },
+      { "en": "junior subordinate", "ja": "下位の部下" },
+      { "en": "treat as subordinate", "ja": "下位として扱う" }
+    ],
+    "related": [
+      { "en": "superior", "ja": "上位の・上司（反意）" },
+      { "en": "inferior", "ja": "劣った・下位の" },
+      { "en": "subordinate clause", "ja": "従属節" }
+    ],
+    "faq": [
+      { "q": "subordinate とは？", "a": "地位や重要度が下位であること（形容詞）、部下（名詞）、〜より下位に置く（動詞）の意味があります。" },
+      { "q": "subordinate clause とは？", "a": "主節に従属する「従属節」のことです（例: when it rains の部分）。" }
+    ],
+    "quiz": [
+      { "q": "be subordinate to ~ の意味は？", "A": "〜より下位である", "B": "〜より上位である", "C": "〜と同等である", "D": "〜と無関係である", "correct": "A" },
+      { "q": "subordinate clause の意味は？", "A": "従属節", "B": "主節", "C": "感嘆文", "D": "命令文", "correct": "A" }
+    ]
+  },
+  {
+    "english": "subsist",
+    "pron": "səbˈsɪst",
+    "kana": "サブシスト",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "Latin subsistere 'stand firm'",
+    "ld_level": "1級",
+    "badges": ["難関大〜", "英検1級", "CEFR C1", "学術"],
+    "meaning_main": "（最低限のもので）生き延びる・暮らす",
+    "description": "subsist は最低限の食料や手段でかろうじて生きながらえること。subsist on の形や名詞 subsistence を解説します。",
+    "keywords": ["subsist 意味", "subsist on 使い方", "subsistence", "生き延びる"],
+    "meanings": [
+      { "hinshi": "【動詞】かろうじて生き延びる", "note": "必要最低限のもので命をつなぐ。ふつう subsist on ~。" }
+    ],
+    "usages": [
+      { "title": "① subsist on ~", "desc": "〜で食いつなぐ。", "example_en": "They subsisted on rice and beans.", "example_ja": "彼らは米と豆で食いつないだ。" },
+      { "title": "② 暮らす", "desc": "わずかな手段で生きる。", "example_en": "Many families subsist below the poverty line.", "example_ja": "多くの家族が貧困線以下で暮らしている。" }
+    ],
+    "warn": ["典型は subsist on ~（〜で食いつなぐ）。名詞は subsistence（最低限の生活、subsistence farming＝自給自足農業）。"],
+    "etym_note": "ラテン語 subsistere（sub＝下に＋sistere＝立つ）に由来し、「持ちこたえる・存続する」が原義。",
+    "etym_chain": [
+      { "node": "sub + sistere", "sub": "下に＋立つ（ラテン語）", "era": "古代" },
+      { "node": "subsist", "sub": "生き延びる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "subsist on", "ja": "〜で食いつなぐ" },
+      { "en": "barely subsist", "ja": "かろうじて生きる" },
+      { "en": "subsistence farming", "ja": "自給自足農業" },
+      { "en": "a subsistence wage", "ja": "最低生活賃金" },
+      { "en": "subsist on charity", "ja": "施しで暮らす" },
+      { "en": "subsist in poverty", "ja": "貧困の中で生きる" }
+    ],
+    "related": [
+      { "en": "subsistence", "ja": "最低限の生活（名詞）" },
+      { "en": "survive", "ja": "生き延びる" },
+      { "en": "exist", "ja": "存在する" }
+    ],
+    "faq": [
+      { "q": "subsist とは？", "a": "必要最低限のもので、かろうじて生きながらえることです。ふつう subsist on ~ の形で使います。" },
+      { "q": "subsistence farming とは？", "a": "自分たちが食べる分だけを作る「自給自足の農業」です。" }
+    ],
+    "quiz": [
+      { "q": "subsist on ~ の意味は？", "A": "〜で食いつなぐ", "B": "〜を浪費する", "C": "〜を売る", "D": "〜を発明する", "correct": "A" },
+      { "q": "subsist の名詞形は？", "A": "subsistence", "B": "subsistment", "C": "subsistion", "D": "subsistage", "correct": "A" }
+    ]
+  },
+  {
+    "english": "subdivide",
+    "pron": "ˌsʌbdɪˈvaɪd",
+    "kana": "サブディヴァイド",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "sub- + divide",
+    "ld_level": "準1級",
+    "badges": ["大学生〜", "英検準1級", "CEFR B2", "学術"],
+    "meaning_main": "さらに細分する・小分けにする",
+    "description": "subdivide はすでに分けたものをさらに細かく分けること。土地の分譲や名詞 subdivision を解説します。",
+    "keywords": ["subdivide 意味", "subdivide 使い方", "subdivision", "細分する"],
+    "meanings": [
+      { "hinshi": "【動詞】さらに細分する", "note": "一度分けたものを、さらに小さい部分に分ける。" }
+    ],
+    "usages": [
+      { "title": "① 細分する", "desc": "さらに分ける。", "example_en": "The chapter is subdivided into sections.", "example_ja": "その章はさらに節に細分されている。" },
+      { "title": "② 土地を", "desc": "区画に分ける。", "example_en": "The land was subdivided into building lots.", "example_ja": "その土地は宅地に分割された。" }
+    ],
+    "warn": ["名詞 subdivision は「細分・小区分」、特に米では「（分譲）住宅地」を指すこともある。divide より「さらに細かく分ける」含み。"],
+    "etym_note": "接頭辞 sub-（さらに下位に）＋ divide（分ける）から。",
+    "etym_chain": [
+      { "node": "sub + divide", "sub": "さらに＋分ける", "era": "近代" },
+      { "node": "subdivide", "sub": "細分する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "subdivide into", "ja": "〜に細分する" },
+      { "en": "subdivide the land", "ja": "土地を分割する" },
+      { "en": "subdivide a chapter", "ja": "章を細分する" },
+      { "en": "be further subdivided", "ja": "さらに細分される" },
+      { "en": "subdivide into groups", "ja": "グループに小分けする" },
+      { "en": "a subdivided plot", "ja": "区分された区画" }
+    ],
+    "related": [
+      { "en": "divide", "ja": "分ける" },
+      { "en": "subdivision", "ja": "細分・小区分（名詞）" },
+      { "en": "partition", "ja": "区分する" }
+    ],
+    "faq": [
+      { "q": "subdivide とは？", "a": "一度分けたものを、さらに細かい部分に分けることです。" },
+      { "q": "subdivision とは？", "a": "「細分・小区分」のことです。米では分譲された住宅地区を指すこともあります。" }
+    ],
+    "quiz": [
+      { "q": "subdivide の意味は？", "A": "さらに細分する", "B": "まとめる", "C": "拡大する", "D": "削除する", "correct": "A" },
+      { "q": "subdivide の名詞形は？", "A": "subdivision", "B": "subdividend", "C": "subdividure", "D": "subdivity", "correct": "A" }
+    ]
+  },
+  {
+    "english": "stigmatize",
+    "pron": "ˈstɪɡmətaɪz",
+    "kana": "スティグマタイズ",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "Greek stigma 'mark, brand'",
+    "ld_level": "1級",
+    "badges": ["難関大〜", "英検1級", "CEFR C1", "社会"],
+    "meaning_main": "汚名を着せる・烙印を押す",
+    "description": "stigmatize は人や物事に不名誉な烙印を押し、否定的に扱うこと。名詞 stigma との関係を解説します。",
+    "keywords": ["stigmatize 意味", "stigmatize 使い方", "stigma 烙印", "汚名"],
+    "meanings": [
+      { "hinshi": "【動詞】汚名を着せる・烙印を押す", "note": "恥ずべきもの・劣ったものとして不当に扱い、レッテルを貼る。多く受け身。" }
+    ],
+    "usages": [
+      { "title": "① 烙印を押す", "desc": "不名誉な扱いをする。", "example_en": "Mental illness is often stigmatized.", "example_ja": "精神疾患はしばしば偏見の目で見られる。" },
+      { "title": "② レッテルを貼る", "desc": "否定的に分類する。", "example_en": "They were stigmatized as outsiders.", "example_ja": "彼らはよそ者という烙印を押された。" }
+    ],
+    "warn": ["名詞は stigma（恥・汚名・烙印、複数 stigmas/stigmata）。社会的偏見の文脈で頻出。英綴り stigmatise。"],
+    "etym_note": "ギリシャ語 stigma（焼き印・しるし）に由来。もとは奴隷や罪人に押した印を表した。",
+    "etym_chain": [
+      { "node": "stigma", "sub": "焼き印（ギリシャ語）", "era": "古代" },
+      { "node": "stigmatize", "sub": "烙印を押す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be stigmatized", "ja": "汚名を着せられる" },
+      { "en": "stigmatize as", "ja": "〜という烙印を押す" },
+      { "en": "socially stigmatized", "ja": "社会的に偏見を持たれた" },
+      { "en": "stigmatize the poor", "ja": "貧しい人を烙印で扱う" },
+      { "en": "a stigmatized group", "ja": "偏見を受ける集団" },
+      { "en": "reduce stigma", "ja": "偏見を減らす" }
+    ],
+    "related": [
+      { "en": "stigma", "ja": "恥・汚名・烙印（名詞）" },
+      { "en": "label", "ja": "レッテルを貼る" },
+      { "en": "brand", "ja": "烙印を押す" }
+    ],
+    "faq": [
+      { "q": "stigmatize とは？", "a": "人や物事に不名誉な烙印・レッテルを押し、恥ずべきものとして不当に扱うことです。" },
+      { "q": "名詞形は？", "a": "stigma（恥・汚名・烙印）です。" }
+    ],
+    "quiz": [
+      { "q": "stigmatize の意味は？", "A": "汚名を着せる・烙印を押す", "B": "称賛する", "C": "援助する", "D": "昇進させる", "correct": "A" },
+      { "q": "stigmatize の語源 stigma の意味は？", "A": "焼き印・しるし", "B": "光", "C": "歌", "D": "種", "correct": "A" }
+    ]
+  },
+  {
+    "english": "stultify",
+    "pron": "ˈstʌltɪfaɪ",
+    "kana": "スタルティファイ",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "Latin stultus 'foolish'",
+    "ld_level": "1級",
+    "badges": ["難関大〜", "英検1級", "CEFR C1", "文語"],
+    "meaning_main": "（活力・能力を）失わせる・無気力にする",
+    "description": "stultify は退屈・抑圧などで知力や活力を鈍らせ無気力にすること。形容詞 stultifying を解説します。",
+    "keywords": ["stultify 意味", "stultify 使い方", "stultifying", "無気力にする"],
+    "meanings": [
+      { "hinshi": "【動詞】無気力にする・鈍らせる", "note": "退屈・束縛・無意味な反復などが、知力・創造力・活力を失わせる。" }
+    ],
+    "usages": [
+      { "title": "① 活力を奪う", "desc": "鈍らせる。", "example_en": "Routine work can stultify the mind.", "example_ja": "単調な仕事は心を鈍らせることがある。" },
+      { "title": "② stultifying", "desc": "うんざりさせる。", "example_en": "The lecture was stultifying.", "example_ja": "その講義はうんざりするほど退屈だった。" }
+    ],
+    "warn": ["形容詞 stultifying（うんざりさせる・無気力にさせる）が頻出。語源はラテン語 stultus（愚かな）。"],
+    "etym_note": "ラテン語 stultus（愚かな）＋ -fy から。「愚かにする＝知力を鈍らせる」の意。",
+    "etym_chain": [
+      { "node": "stultus", "sub": "愚かな（ラテン語）", "era": "古代" },
+      { "node": "stultify", "sub": "無気力にする", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "stultify the mind", "ja": "心を鈍らせる" },
+      { "en": "a stultifying routine", "ja": "無気力にさせる単調な日課" },
+      { "en": "stultifying boredom", "ja": "うんざりする退屈" },
+      { "en": "stultify creativity", "ja": "創造力を奪う" },
+      { "en": "mentally stultified", "ja": "知的に鈍った" },
+      { "en": "a stultifying atmosphere", "ja": "活気を奪う雰囲気" }
+    ],
+    "related": [
+      { "en": "stifle", "ja": "抑える・窒息させる" },
+      { "en": "dull", "ja": "鈍らせる" },
+      { "en": "numb", "ja": "麻痺させる" }
+    ],
+    "faq": [
+      { "q": "stultify とは？", "a": "退屈や束縛などが、知力・創造力・活力を鈍らせ無気力にすることです。" },
+      { "q": "stultifying とは？", "a": "「うんざりさせる・無気力にさせる」という意味の形容詞です。" }
+    ],
+    "quiz": [
+      { "q": "stultify の意味は？", "A": "活力・能力を失わせる", "B": "元気づける", "C": "賢くする", "D": "加速させる", "correct": "A" },
+      { "q": "stultify の語源 stultus の意味は？", "A": "愚かな", "B": "強い", "C": "速い", "D": "聖なる", "correct": "A" }
+    ]
+  },
+  {
+    "english": "syncopate",
+    "pron": "ˈsɪŋkəpeɪt",
+    "kana": "シンコペイト",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "Greek synkope 'cutting short'",
+    "ld_level": "1級",
+    "badges": ["難関大〜", "英検1級", "CEFR C1", "音楽"],
+    "meaning_main": "（音楽で）シンコペーションをつける・拍子をずらす",
+    "description": "syncopate は弱拍を強調するなどリズムの強勢をずらすこと（シンコペーション）。名詞 syncopation を解説します。",
+    "keywords": ["syncopate 意味", "syncopation", "シンコペーション", "拍子ずらし"],
+    "meanings": [
+      { "hinshi": "【動詞】シンコペーションをつける", "note": "通常の強拍ではなく弱拍を強調し、リズムの強勢をずらす。" }
+    ],
+    "usages": [
+      { "title": "① リズムをずらす", "desc": "弱拍を強調する。", "example_en": "Jazz often syncopates the rhythm.", "example_ja": "ジャズはしばしばリズムにシンコペーションをつける。" },
+      { "title": "② 形容詞的に", "desc": "syncopated rhythm。", "example_en": "The song has a syncopated beat.", "example_ja": "その曲はシンコペーションの効いたビートだ。" }
+    ],
+    "warn": ["名詞は syncopation（シンコペーション、切分音）。ジャズやラグタイムなどで特徴的なリズム技法。"],
+    "etym_note": "ギリシャ語 synkope（切り縮め、syn＝共に＋koptein＝切る）に由来。「（拍を）切り詰める」イメージ。",
+    "etym_chain": [
+      { "node": "synkope", "sub": "切り縮め（ギリシャ語）", "era": "古代" },
+      { "node": "syncopate", "sub": "拍子をずらす", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "syncopate the rhythm", "ja": "リズムにシンコペーションをつける" },
+      { "en": "a syncopated beat", "ja": "シンコペーションの効いたビート" },
+      { "en": "syncopated rhythm", "ja": "切分のリズム" },
+      { "en": "heavily syncopated", "ja": "シンコペーションの強い" },
+      { "en": "syncopate the melody", "ja": "旋律の拍をずらす" },
+      { "en": "jazz syncopation", "ja": "ジャズのシンコペーション" }
+    ],
+    "related": [
+      { "en": "syncopation", "ja": "シンコペーション（名詞）" },
+      { "en": "rhythm", "ja": "リズム" },
+      { "en": "beat", "ja": "拍・ビート" }
+    ],
+    "faq": [
+      { "q": "syncopate とは？", "a": "通常の強拍ではなく弱拍を強調するなど、リズムの強勢をずらすことです（シンコペーション）。" },
+      { "q": "名詞形は？", "a": "syncopation（シンコペーション・切分音）です。" }
+    ],
+    "quiz": [
+      { "q": "syncopate の意味は？", "A": "リズムの強勢をずらす", "B": "音量を上げる", "C": "テンポを一定にする", "D": "音を消す", "correct": "A" },
+      { "q": "syncopate の名詞形は？", "A": "syncopation", "B": "syncopance", "C": "syncopement", "D": "syncopage", "correct": "A" }
+    ]
+  },
+  {
+    "english": "supplicate",
+    "pron": "ˈsʌplɪkeɪt",
+    "kana": "サプリケイト",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "Latin supplicare 'plead humbly'",
+    "ld_level": "1級",
+    "badges": ["難関大〜", "英検1級", "CEFR C1", "文語"],
+    "meaning_main": "（へりくだって）懇願する・嘆願する",
+    "description": "supplicate はひざまずくように、へりくだって熱心に願い求める文語的な語。名詞 supplication との関係を解説します。",
+    "keywords": ["supplicate 意味", "supplicate 使い方", "supplication", "嘆願"],
+    "meanings": [
+      { "hinshi": "【動詞】懇願する・嘆願する", "note": "へりくだって、切に願い求める（文語的・宗教的）。" }
+    ],
+    "usages": [
+      { "title": "① 嘆願する", "desc": "切に願う。", "example_en": "They supplicated the king for mercy.", "example_ja": "彼らは王に慈悲を嘆願した。" },
+      { "title": "② 祈り求める", "desc": "神に願う。", "example_en": "She supplicated for forgiveness.", "example_ja": "彼女は許しを請い願った。" }
+    ],
+    "warn": ["名詞は supplication（嘆願・祈願）。beg や implore より格式ばり、「ひざまずく」ほどへりくだる含み。"],
+    "etym_note": "ラテン語 supplicare（sub＝下に＋plicare＝折る）に由来し、「身をかがめて願う」が原義。",
+    "etym_chain": [
+      { "node": "sub + plicare", "sub": "下に＋折る（ラテン語）", "era": "古代" },
+      { "node": "supplicate", "sub": "懇願する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "supplicate for mercy", "ja": "慈悲を嘆願する" },
+      { "en": "supplicate the gods", "ja": "神々に祈り願う" },
+      { "en": "humbly supplicate", "ja": "へりくだって願う" },
+      { "en": "supplicate for help", "ja": "助けを請い願う" },
+      { "en": "a gesture of supplication", "ja": "嘆願の身ぶり" },
+      { "en": "supplicate on one's knees", "ja": "ひざまずいて願う" }
+    ],
+    "related": [
+      { "en": "supplication", "ja": "嘆願・祈願（名詞）" },
+      { "en": "implore", "ja": "懇願する" },
+      { "en": "beseech", "ja": "切に願う" }
+    ],
+    "faq": [
+      { "q": "supplicate とは？", "a": "へりくだって切に願い求めることです。文語的・宗教的な響きを持ちます。" },
+      { "q": "beg とどう違う？", "a": "beg より格式ばり、「身をかがめる・ひざまずく」ほどへりくだる含みが強い語です。" }
+    ],
+    "quiz": [
+      { "q": "supplicate の意味は？", "A": "へりくだって懇願する", "B": "命令する", "C": "拒否する", "D": "供給する", "correct": "A" },
+      { "q": "supplicate の名詞形は？", "A": "supplication", "B": "supplicance", "C": "supplicature", "D": "supplicity", "correct": "A" }
+    ]
+  }
+]
