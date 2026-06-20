@@ -1,0 +1,483 @@
+[
+  {
+    "english": "occasion",
+    "pron": "əˈkeɪʒən",
+    "kana": "オケイジョン",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "Latin occasio 'opportunity'",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "基本"],
+    "meaning_main": "（特定の）時・場合／行事・機会",
+    "description": "occasion は特定の出来事の起こる時・場合、また特別な行事を表す語。on this occasion などの用法を解説します。",
+    "keywords": ["occasion 意味", "occasion 使い方", "場合", "行事"],
+    "meanings": [
+      { "hinshi": "【名詞】（特定の）時・場合", "note": "ある出来事が起こるとき。on several occasions（何度か）。" },
+      { "hinshi": "【名詞】行事・特別な機会", "note": "祝い事などの特別な催し。a special occasion。" }
+    ],
+    "usages": [
+      { "title": "① 場合・時", "desc": "ある出来事の時。", "example_en": "I met him on several occasions.", "example_ja": "私は何度か彼に会った。" },
+      { "title": "② 特別な行事", "desc": "祝い事など。", "example_en": "We saved the wine for a special occasion.", "example_ja": "私たちは特別な日のためにワインを取っておいた。" }
+    ],
+    "warn": ["on this/that occasion（このとき・あのとき）、on occasion（時々）が頻出。形容詞 occasional（時々の）、副詞 occasionally（時々）。"],
+    "etym_note": "ラテン語 occasio（好機・機会、occidere＝落ちかかる から）に由来。",
+    "etym_chain": [
+      { "node": "occasio", "sub": "好機（ラテン語）", "era": "古代" },
+      { "node": "occasion", "sub": "時・行事", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "on this occasion", "ja": "このとき" },
+      { "en": "a special occasion", "ja": "特別な日" },
+      { "en": "on occasion", "ja": "時々" },
+      { "en": "for the occasion", "ja": "その行事のために" },
+      { "en": "rise to the occasion", "ja": "難局でうまく対応する" },
+      { "en": "on several occasions", "ja": "何度か" }
+    ],
+    "related": [
+      { "en": "occasional", "ja": "時々の" },
+      { "en": "event", "ja": "出来事・行事" },
+      { "en": "opportunity", "ja": "機会" }
+    ],
+    "faq": [
+      { "q": "occasion とは？", "a": "ある出来事が起こる「時・場合」、また祝い事などの「特別な行事」を表す語です。" },
+      { "q": "rise to the occasion とは？", "a": "難しい局面でうまく対応する、という慣用表現です。" }
+    ],
+    "quiz": [
+      { "q": "a special occasion の意味は？", "A": "特別な日・行事", "B": "ふつうの平日", "C": "ささいな間違い", "D": "短い休憩", "correct": "A" },
+      { "q": "occasion の形容詞形は？", "A": "occasional", "B": "occasionable", "C": "occasive", "D": "occasionary", "correct": "A" }
+    ]
+  },
+  {
+    "english": "occupy",
+    "pron": "ˈɒkjupaɪ",
+    "kana": "オキュパイ",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "Latin occupare 'seize'",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "学術"],
+    "meaning_main": "（場所・時間を）占める／占領する／（心を）ふさぐ",
+    "description": "occupy は場所や時間を占めること、占領すること、心を占めることを表す語。be occupied with の用法を解説します。",
+    "keywords": ["occupy 意味", "occupy 使い方", "占める", "occupied"],
+    "meanings": [
+      { "hinshi": "【動詞】（場所・時間を）占める", "note": "空間や時間を使う・ふさぐ。" },
+      { "hinshi": "【動詞】占領する", "note": "軍などが支配下に置く。" },
+      { "hinshi": "【動詞】（心・人を）忙しくさせる", "note": "be occupied with ~（〜で忙しい・心を奪われる）。" }
+    ],
+    "usages": [
+      { "title": "① 場所を占める", "desc": "空間を使う。", "example_en": "The sofa occupies half the room.", "example_ja": "そのソファは部屋の半分を占めている。" },
+      { "title": "② 心を占める", "desc": "忙しくさせる。", "example_en": "She was occupied with work.", "example_ja": "彼女は仕事で忙しかった。" }
+    ],
+    "warn": ["be occupied with ~（〜で忙しい）、occupy oneself with ~（〜して時を過ごす）。トイレなどの「使用中」は Occupied。名詞は occupation（職業／占領）。"],
+    "etym_note": "ラテン語 occupare（ob＝〜に＋capere＝つかむ）に由来。「つかんで占める」の意。capture と同根。",
+    "etym_chain": [
+      { "node": "occupare", "sub": "つかむ・占める（ラテン語）", "era": "古代" },
+      { "node": "occupy", "sub": "占める", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "occupy space", "ja": "場所を占める" },
+      { "en": "be occupied with", "ja": "〜で忙しい" },
+      { "en": "occupy a position", "ja": "地位を占める" },
+      { "en": "occupy one's time", "ja": "時間を使う" },
+      { "en": "occupy a country", "ja": "国を占領する" },
+      { "en": "keep oneself occupied", "ja": "暇をつぶす" }
+    ],
+    "related": [
+      { "en": "occupation", "ja": "職業・占領" },
+      { "en": "occupant", "ja": "居住者・使用者" },
+      { "en": "fill", "ja": "満たす" }
+    ],
+    "faq": [
+      { "q": "be occupied with とは？", "a": "「〜で忙しい・〜に心を奪われている」という意味です。" },
+      { "q": "名詞形は？", "a": "occupation（職業、また占領）です。" }
+    ],
+    "quiz": [
+      { "q": "be occupied with work の意味は？", "A": "仕事で忙しい", "B": "仕事を辞める", "C": "仕事を探す", "D": "仕事を嫌う", "correct": "A" },
+      { "q": "occupy の名詞形は？", "A": "occupation", "B": "occasion", "C": "occurrence", "D": "obligation", "correct": "A" }
+    ]
+  },
+  {
+    "english": "occur",
+    "pron": "əˈkɜːr",
+    "kana": "オカー",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "Latin occurrere 'run to meet'",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "学術"],
+    "meaning_main": "（出来事が）起こる／（考えが）心に浮かぶ",
+    "description": "occur は出来事が起こること、また考えがふと心に浮かぶことを表す語。occur to の用法やつづり（rを重ねる）を解説します。",
+    "keywords": ["occur 意味", "occur 使い方", "起こる", "occur to"],
+    "meanings": [
+      { "hinshi": "【動詞】起こる・生じる", "note": "出来事が発生する。happen のややフォーマルな語。" },
+      { "hinshi": "【動詞】心に浮かぶ", "note": "occur to someone（人にふと考えが浮かぶ）。" }
+    ],
+    "usages": [
+      { "title": "① 起こる", "desc": "発生する。", "example_en": "The accident occurred at night.", "example_ja": "その事故は夜に起こった。" },
+      { "title": "② 心に浮かぶ", "desc": "ふと思いつく。", "example_en": "It occurred to me that I was wrong.", "example_ja": "私は間違っているとふと気づいた。" }
+    ],
+    "warn": ["過去形・-ing は r を重ねて occurred / occurring（つづり注意）。It occurs to me that ~（〜とふと思う）の構文が頻出。名詞は occurrence。"],
+    "etym_note": "ラテン語 occurrere（ob＝〜に向かって＋currere＝走る）に由来。「（出来事が）向かってくる＝起こる」の意。",
+    "etym_chain": [
+      { "node": "occurrere", "sub": "向かって走る（ラテン語）", "era": "古代" },
+      { "node": "occur", "sub": "起こる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "occur to someone", "ja": "ふと心に浮かぶ" },
+      { "en": "it occurred to me that", "ja": "〜とふと思った" },
+      { "en": "occur naturally", "ja": "自然に生じる" },
+      { "en": "rarely occur", "ja": "めったに起こらない" },
+      { "en": "occur again", "ja": "再び起こる" },
+      { "en": "an error occurred", "ja": "エラーが発生した" }
+    ],
+    "related": [
+      { "en": "occurrence", "ja": "出来事・発生" },
+      { "en": "happen", "ja": "起こる（口語）" },
+      { "en": "arise", "ja": "生じる" }
+    ],
+    "faq": [
+      { "q": "occur to me とは？", "a": "「（考えが）私の心にふと浮かぶ」という意味です。It occurred to me that ~ の形でよく使います。" },
+      { "q": "つづりの注意は？", "a": "過去形は occurred、-ing は occurring と r を二つ重ねます。" }
+    ],
+    "quiz": [
+      { "q": "It occurred to me that ~ の意味は？", "A": "〜とふと心に浮かんだ", "B": "〜を忘れた", "C": "〜を見た", "D": "〜を疑った", "correct": "A" },
+      { "q": "occur の過去形は？", "A": "occurred", "B": "occured", "C": "occurd", "D": "occuring", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ocean",
+    "pron": "ˈoʊʃən",
+    "kana": "オウシャン",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "Greek Okeanos",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A1", "自然"],
+    "meaning_main": "海・大洋",
+    "description": "ocean（海・大洋）は地球の大きな海を表す基本語。sea との違いや、五大洋の名称を解説します。",
+    "keywords": ["ocean 意味", "海 英語", "大洋", "sea 違い"],
+    "meanings": [
+      { "hinshi": "【名詞】海・大洋", "note": "地球をおおう塩水の広がり。特に大きな海（太平洋など）。" }
+    ],
+    "usages": [
+      { "title": "① 海として", "desc": "広大な海。", "example_en": "The ship sailed across the ocean.", "example_ja": "その船は大洋を横断した。" },
+      { "title": "② 名称", "desc": "the Pacific Ocean など。", "example_en": "The Pacific Ocean is the largest.", "example_ja": "太平洋は最も大きい。" }
+    ],
+    "warn": ["ocean は特に大きな海（大洋）、sea はより小さい・陸に近い海を指すことが多い。固有の大洋名には the を付ける（the Atlantic Ocean）。"],
+    "etym_note": "ギリシャ神話で世界を取り巻く大河の神オケアノス（Okeanos）に由来。",
+    "etym_chain": [
+      { "node": "Okeanos", "sub": "オケアノス（ギリシャ語）", "era": "古代" },
+      { "node": "ocean", "sub": "海・大洋", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the Pacific Ocean", "ja": "太平洋" },
+      { "en": "across the ocean", "ja": "海を越えて" },
+      { "en": "the deep ocean", "ja": "深海" },
+      { "en": "ocean waves", "ja": "海の波" },
+      { "en": "an ocean view", "ja": "海の眺め" },
+      { "en": "ocean currents", "ja": "海流" }
+    ],
+    "related": [
+      { "en": "sea", "ja": "海" },
+      { "en": "wave", "ja": "波" },
+      { "en": "coast", "ja": "海岸" }
+    ],
+    "faq": [
+      { "q": "ocean と sea の違いは？", "a": "ocean は特に大きな海（大洋）、sea はより小さく陸に近い海を指すことが多いです。" },
+      { "q": "五大洋は？", "a": "Pacific（太平洋）/ Atlantic（大西洋）/ Indian（インド洋）/ Southern（南極海）/ Arctic（北極海）です。" }
+    ],
+    "quiz": [
+      { "q": "最も大きい ocean は？", "A": "the Pacific Ocean", "B": "the Indian Ocean", "C": "the Arctic Ocean", "D": "the Atlantic Ocean", "correct": "A" },
+      { "q": "ocean の意味は？", "A": "海・大洋", "B": "山", "C": "砂漠", "D": "森", "correct": "A" }
+    ]
+  },
+  {
+    "english": "odd",
+    "pron": "ɒd",
+    "kana": "オッド",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "Old Norse oddi",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "基本"],
+    "meaning_main": "奇妙な・変な／奇数の／（一方だけの）半端な",
+    "description": "odd は「奇妙な」「奇数の」「対の片方だけ」など複数の意味を持つ語。even（偶数）との対や odd socks の用法を解説します。",
+    "keywords": ["odd 意味", "odd 使い方", "奇数", "奇妙な"],
+    "meanings": [
+      { "hinshi": "【形容詞】奇妙な・変な", "note": "ふつうと違って妙な。an odd noise（変な音）。" },
+      { "hinshi": "【形容詞】奇数の", "note": "2で割り切れない数。1, 3, 5 など。even の対。" },
+      { "hinshi": "【形容詞】半端な・片方だけの", "note": "対のうち片方だけの。odd socks（ちぐはぐな靴下）。" }
+    ],
+    "usages": [
+      { "title": "① 奇妙な", "desc": "変な。", "example_en": "That's an odd thing to say.", "example_ja": "それは変な言い方だ。" },
+      { "title": "② 奇数の", "desc": "even の対。", "example_en": "1, 3, and 5 are odd numbers.", "example_ja": "1、3、5は奇数だ。" }
+    ],
+    "warn": ["奇数 odd ↔ 偶数 even。odd socks（左右ちぐはぐの靴下）、odd jobs（雑用）、odds（見込み・賭け率）など派生表現も多い。"],
+    "etym_note": "古ノルド語 oddi（三角形の先・余り）に由来。「対にならない余り＝奇数・半端」の意になった。",
+    "etym_chain": [
+      { "node": "oddi", "sub": "余り・先端（古ノルド語）", "era": "中世" },
+      { "node": "odd", "sub": "奇妙な・奇数の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an odd number", "ja": "奇数" },
+      { "en": "odd socks", "ja": "ちぐはぐな靴下" },
+      { "en": "odd jobs", "ja": "雑用" },
+      { "en": "an odd thing", "ja": "変なこと" },
+      { "en": "the odd one out", "ja": "仲間外れ・例外" },
+      { "en": "odd behavior", "ja": "奇妙な行動" }
+    ],
+    "related": [
+      { "en": "even", "ja": "偶数の（対）" },
+      { "en": "strange", "ja": "奇妙な" },
+      { "en": "weird", "ja": "風変わりな" }
+    ],
+    "faq": [
+      { "q": "odd の主な意味は？", "a": "①奇妙な、②奇数の、③（対の）片方だけの半端な、です。" },
+      { "q": "the odd one out とは？", "a": "「仲間外れ・ひとつだけ違うもの」という意味です。" }
+    ],
+    "quiz": [
+      { "q": "odd number の意味は？", "A": "奇数", "B": "偶数", "C": "整数", "D": "小数", "correct": "A" },
+      { "q": "odd の反意（偶数）は？", "A": "even", "B": "odder", "C": "equal", "D": "extra", "correct": "A" }
+    ]
+  },
+  {
+    "english": "odor",
+    "pron": "ˈoʊdər",
+    "kana": "オウダー",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "Latin odor 'smell'",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "感覚"],
+    "meaning_main": "におい・臭気（特に不快なにおい）",
+    "description": "odor は（特に強い・不快な）においを表す語。英綴り odour や smell/scent との違いを解説します。",
+    "keywords": ["odor 意味", "odor 使い方", "におい", "odour"],
+    "meanings": [
+      { "hinshi": "【名詞】におい・臭気", "note": "鼻で感じるにおい。特に強い・不快なにおいを指すことが多い。" }
+    ],
+    "usages": [
+      { "title": "① 不快なにおい", "desc": "悪臭。", "example_en": "A strange odor filled the room.", "example_ja": "変なにおいが部屋に充満した。" },
+      { "title": "② 体臭など", "desc": "body odor。", "example_en": "The cream prevents body odor.", "example_ja": "そのクリームは体臭を防ぐ。" }
+    ],
+    "warn": ["英綴りは odour。中立の smell より「不快なにおい」を指すことが多い。よい香りは scent / fragrance / aroma を使う。body odor（体臭）は B.O. と略す。"],
+    "etym_note": "ラテン語 odor（におい）に由来。odorless（無臭の）などの派生語がある。",
+    "etym_chain": [
+      { "node": "odor", "sub": "におい（ラテン語）", "era": "古代" },
+      { "node": "odor", "sub": "におい・臭気", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a strange odor", "ja": "変なにおい" },
+      { "en": "body odor", "ja": "体臭" },
+      { "en": "a foul odor", "ja": "ひどい悪臭" },
+      { "en": "an unpleasant odor", "ja": "不快なにおい" },
+      { "en": "odorless", "ja": "無臭の" },
+      { "en": "give off an odor", "ja": "においを放つ" }
+    ],
+    "related": [
+      { "en": "smell", "ja": "におい（中立）" },
+      { "en": "scent", "ja": "よい香り" },
+      { "en": "aroma", "ja": "（食べ物などの）よい香り" }
+    ],
+    "faq": [
+      { "q": "odor と smell の違いは？", "a": "smell は中立的な「におい」、odor は特に強い・不快なにおいを指すことが多いです。" },
+      { "q": "イギリス式綴りは？", "a": "odour です（アメリカ式は odor）。" }
+    ],
+    "quiz": [
+      { "q": "odor がよく表すのは？", "A": "（特に不快な）におい", "B": "よい香りだけ", "C": "音", "D": "色", "correct": "A" },
+      { "q": "body odor の意味は？", "A": "体臭", "B": "体温", "C": "体重", "D": "体格", "correct": "A" }
+    ]
+  },
+  {
+    "english": "offend",
+    "pron": "əˈfɛnd",
+    "kana": "オフェンド",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "Latin offendere 'strike against'",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "感情"],
+    "meaning_main": "（人の）気分を害する・怒らせる／（規則に）違反する",
+    "description": "offend は人の感情を傷つけ怒らせること、また規則・道徳に反することを表す語。be offended by の用法を解説します。",
+    "keywords": ["offend 意味", "offend 使い方", "気分を害する", "offended"],
+    "meanings": [
+      { "hinshi": "【動詞】気分を害する・怒らせる", "note": "言動で人の感情を傷つける。be offended by ~（〜に気を悪くする）。" },
+      { "hinshi": "【動詞】（規則・感覚に）反する", "note": "法・道徳・好みに背く。offend against ~。" }
+    ],
+    "usages": [
+      { "title": "① 怒らせる", "desc": "感情を傷つける。", "example_en": "I didn't mean to offend you.", "example_ja": "あなたを怒らせるつもりはなかった。" },
+      { "title": "② 気を悪くする", "desc": "受け身で。", "example_en": "She was offended by his joke.", "example_ja": "彼女は彼の冗談に気を悪くした。" }
+    ],
+    "warn": ["be offended by/at ~（〜に気を悪くする）が頻出。名詞は offense（米）/offence（英）（違反・侮辱）、形容詞 offensive（不快な・攻撃的な）、offender（犯罪者）。"],
+    "etym_note": "ラテン語 offendere（ob＝〜に＋fendere＝打つ）に由来。「ぶつかって傷つける」の意。defend と同根。",
+    "etym_chain": [
+      { "node": "offendere", "sub": "打ちつける（ラテン語）", "era": "古代" },
+      { "node": "offend", "sub": "気分を害する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be offended by", "ja": "〜に気を悪くする" },
+      { "en": "mean to offend", "ja": "怒らせるつもりで" },
+      { "en": "offend someone", "ja": "人の気分を害する" },
+      { "en": "deeply offended", "ja": "ひどく気を悪くして" },
+      { "en": "offend against the law", "ja": "法に違反する" },
+      { "en": "no offense", "ja": "悪気はないけど" }
+    ],
+    "related": [
+      { "en": "offense", "ja": "違反・侮辱（名詞）" },
+      { "en": "offensive", "ja": "不快な・攻撃的な" },
+      { "en": "insult", "ja": "侮辱する" }
+    ],
+    "faq": [
+      { "q": "be offended by とは？", "a": "「〜に気を悪くする・腹を立てる」という意味です。" },
+      { "q": "No offense. とは？", "a": "「悪気はないけど（気を悪くしないでね）」という前置きの表現です。" }
+    ],
+    "quiz": [
+      { "q": "I didn't mean to offend you. の意味は？", "A": "あなたを怒らせるつもりはなかった", "B": "あなたを助けたかった", "C": "あなたを探していた", "D": "あなたを忘れていた", "correct": "A" },
+      { "q": "offend の形容詞形は？", "A": "offensive", "B": "offendful", "C": "offendous", "D": "offendary", "correct": "A" }
+    ]
+  },
+  {
+    "english": "offer",
+    "pron": "ˈɒfər",
+    "kana": "オファー",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "verb / noun",
+    "ld_etym": "Latin offerre 'present'",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "基本"],
+    "meaning_main": "申し出る・提供する／申し出・提案",
+    "description": "offer は何かを差し出す・申し出る基本動詞で、名詞は申し出・提案。offer to do の用法を解説します。",
+    "keywords": ["offer 意味", "offer 使い方", "申し出る", "提供する"],
+    "meanings": [
+      { "hinshi": "【動詞】申し出る・提供する", "note": "差し出す・進んで〜しようと言う。offer to do（〜しようと申し出る）。" },
+      { "hinshi": "【名詞】申し出・提案", "note": "提供・提案。a job offer（仕事の打診）。" }
+    ],
+    "usages": [
+      { "title": "① 動詞", "desc": "申し出る。", "example_en": "He offered to help me.", "example_ja": "彼は手伝おうと申し出てくれた。" },
+      { "title": "② 名詞", "desc": "申し出。", "example_en": "I accepted the job offer.", "example_ja": "私はその仕事の打診を受けた。" }
+    ],
+    "warn": ["offer to do（〜しようと申し出る）、offer someone something（人に物を差し出す）。名詞 a special offer（特売）、on offer（販売中・特価で）も頻出。"],
+    "etym_note": "ラテン語 offerre（ob＝〜に＋ferre＝運ぶ）に由来。「差し出す」の意。transfer などの -fer と同根。",
+    "etym_chain": [
+      { "node": "offerre", "sub": "差し出す（ラテン語）", "era": "古代" },
+      { "node": "offer", "sub": "申し出る・提供する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "offer to help", "ja": "手伝おうと申し出る" },
+      { "en": "a job offer", "ja": "仕事の打診" },
+      { "en": "a special offer", "ja": "特別提供・特売" },
+      { "en": "on offer", "ja": "販売中・特価で" },
+      { "en": "accept an offer", "ja": "申し出を受ける" },
+      { "en": "offer advice", "ja": "助言を与える" }
+    ],
+    "related": [
+      { "en": "provide", "ja": "提供する" },
+      { "en": "propose", "ja": "提案する" },
+      { "en": "suggest", "ja": "提案する" }
+    ],
+    "faq": [
+      { "q": "offer to do とは？", "a": "「自分から〜しようと申し出る」という意味です（例: offer to help）。" },
+      { "q": "a special offer とは？", "a": "「特別提供・特売（お買い得の提案）」のことです。" }
+    ],
+    "quiz": [
+      { "q": "He offered to help. の意味は？", "A": "彼は手伝おうと申し出た", "B": "彼は助けを断った", "C": "彼は助けを求めた", "D": "彼は助けを忘れた", "correct": "A" },
+      { "q": "a job offer の意味は？", "A": "仕事の打診・内定", "B": "仕事の失敗", "C": "仕事の休み", "D": "仕事の締め切り", "correct": "A" }
+    ]
+  },
+  {
+    "english": "office",
+    "pron": "ˈɒfɪs",
+    "kana": "オフィス",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "Latin officium 'duty, service'",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A1", "基本"],
+    "meaning_main": "事務所・会社／（公の）職・役職",
+    "description": "office（オフィス）は仕事をする事務所、また公の職・役職を表す基本語。take office（就任する）の用法を解説します。",
+    "keywords": ["office 意味", "オフィス 英語", "事務所", "take office"],
+    "meanings": [
+      { "hinshi": "【名詞】事務所・会社", "note": "仕事をする部屋・建物。go to the office（出社する）。" },
+      { "hinshi": "【名詞】（公の）職・役職", "note": "公職・地位。take office（就任する）、in office（在任中）。" }
+    ],
+    "usages": [
+      { "title": "① 事務所", "desc": "働く場所。", "example_en": "She works in a busy office.", "example_ja": "彼女は忙しい事務所で働いている。" },
+      { "title": "② 公職", "desc": "役職。", "example_en": "The president took office in January.", "example_ja": "大統領は1月に就任した。" }
+    ],
+    "warn": ["the office（職場）と office（公職）の二系統。take office（就任する）、run for office（立候補する）、in/out of office（在任中／退任して）。officer（役人・将校）は別語。"],
+    "etym_note": "ラテン語 officium（務め・職務）に由来。officer や official と同根。",
+    "etym_chain": [
+      { "node": "officium", "sub": "務め（ラテン語）", "era": "古代" },
+      { "node": "office", "sub": "事務所・職", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "go to the office", "ja": "出社する" },
+      { "en": "a head office", "ja": "本社" },
+      { "en": "take office", "ja": "就任する" },
+      { "en": "run for office", "ja": "立候補する" },
+      { "en": "in office", "ja": "在任中で" },
+      { "en": "a post office", "ja": "郵便局" }
+    ],
+    "related": [
+      { "en": "officer", "ja": "役人・将校" },
+      { "en": "official", "ja": "公式の／役人" },
+      { "en": "company", "ja": "会社" }
+    ],
+    "faq": [
+      { "q": "take office とは？", "a": "（公職に）就任するという意味です。退任は leave office です。" },
+      { "q": "office と officer の違いは？", "a": "office は「事務所・職」、officer は「役人・警官・将校（人）」です。" }
+    ],
+    "quiz": [
+      { "q": "take office の意味は？", "A": "（公職に）就任する", "B": "事務所を建てる", "C": "退職する", "D": "出張する", "correct": "A" },
+      { "q": "a post office とは？", "A": "郵便局", "B": "警察署", "C": "市役所", "D": "図書館", "correct": "A" }
+    ]
+  },
+  {
+    "english": "officer",
+    "pron": "ˈɒfɪsər",
+    "kana": "オフィサー",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "Latin officiarius",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "基本"],
+    "meaning_main": "（軍の）将校／警官／（組織の）役員・幹部",
+    "description": "officer は軍の将校、警官、組織の役員などを表す語。police officer や officer の呼びかけ用法を解説します。",
+    "keywords": ["officer 意味", "officer 使い方", "将校", "警官"],
+    "meanings": [
+      { "hinshi": "【名詞】将校・士官", "note": "軍隊で部下を指揮する地位の人。" },
+      { "hinshi": "【名詞】警官", "note": "a police officer（警察官）。呼びかけで Officer。" },
+      { "hinshi": "【名詞】役員・幹部", "note": "組織の役職者。a chief executive officer（CEO）。" }
+    ],
+    "usages": [
+      { "title": "① 警官", "desc": "police officer。", "example_en": "A police officer stopped the car.", "example_ja": "警官が車を止めた。" },
+      { "title": "② 将校・役員", "desc": "指揮・役職。", "example_en": "He is a naval officer.", "example_ja": "彼は海軍の将校だ。" }
+    ],
+    "warn": ["呼びかけで Officer（おまわりさん）。CEO/CFO の O は officer。office（事務所・職）とは別語。"],
+    "etym_note": "ラテン語 officiarius（職務を担う人、officium＝務め から）に由来。office と同根。",
+    "etym_chain": [
+      { "node": "officiarius", "sub": "職務を担う人（ラテン語）", "era": "中世" },
+      { "node": "officer", "sub": "将校・役人", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a police officer", "ja": "警察官" },
+      { "en": "a naval officer", "ja": "海軍の将校" },
+      { "en": "a senior officer", "ja": "上級職員・上官" },
+      { "en": "an army officer", "ja": "陸軍の将校" },
+      { "en": "a chief officer", "ja": "最高責任者" },
+      { "en": "Yes, Officer.", "ja": "はい、おまわりさん。" }
+    ],
+    "related": [
+      { "en": "office", "ja": "事務所・職" },
+      { "en": "official", "ja": "公式の／役人" },
+      { "en": "soldier", "ja": "兵士" }
+    ],
+    "faq": [
+      { "q": "officer の主な意味は？", "a": "①軍の将校・士官、②警官、③組織の役員・幹部、です。" },
+      { "q": "CEO の O は？", "a": "Officer です（Chief Executive Officer＝最高経営責任者）。" }
+    ],
+    "quiz": [
+      { "q": "a police officer の意味は？", "A": "警察官", "B": "事務員", "C": "弁護士", "D": "運転手", "correct": "A" },
+      { "q": "CEO の O が表す語は？", "A": "Officer", "B": "Office", "C": "Order", "D": "Owner", "correct": "A" }
+    ]
+  }
+]
