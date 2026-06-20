@@ -1,0 +1,476 @@
+[
+  {
+    "english": "shunt",
+    "pron": "ʃʌnt",
+    "kana": "シャント",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "verb / noun",
+    "ld_etym": "perhaps from shun",
+    "ld_level": "1級",
+    "badges": ["難関大〜", "英検1級", "CEFR C1", "日常"],
+    "meaning_main": "（わきへ）押しやる・移す／（医療の）シャント",
+    "description": "shunt は人や物を別の場所へ押しやり移すこと、また鉄道車両の入れ換えや医療の短絡路を表す語。用法を解説します。",
+    "keywords": ["shunt 意味", "shunt 使い方", "押しやる", "shunt 医療"],
+    "meanings": [
+      { "hinshi": "【動詞】わきへ押しやる・移す", "note": "人・物を（じゃまな所から）別の場所へ移動させる。多く shunt ~ aside/off。" },
+      { "hinshi": "【名詞】シャント・短絡路", "note": "医療で体液を別経路に流す管。電気の分流路。鉄道の入れ換え。" }
+    ],
+    "usages": [
+      { "title": "① 押しやる", "desc": "わきへ移す。", "example_en": "The patients were shunted from ward to ward.", "example_ja": "患者たちは病棟から病棟へたらい回しにされた。" },
+      { "title": "② 名詞", "desc": "短絡路。", "example_en": "The surgeon inserted a shunt.", "example_ja": "外科医はシャント（短絡路）を挿入した。" }
+    ],
+    "warn": ["shunt ~ aside / off（わきへ押しやる）の形が多く、「軽んじて追いやる」否定的な含みも。医療では「シャント（短絡路）」。"],
+    "etym_note": "語源は不確かだが、shun（避ける）と関連するとされる。「わきへそらす」イメージ。",
+    "etym_chain": [
+      { "node": "shunt", "sub": "わきへそらす（中英語）", "era": "中世" },
+      { "node": "shunt", "sub": "押しやる・短絡路", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "shunt aside", "ja": "わきへ押しやる" },
+      { "en": "shunt off", "ja": "別へ追いやる" },
+      { "en": "be shunted around", "ja": "あちこち回される" },
+      { "en": "shunt the blame", "ja": "責任を転嫁する" },
+      { "en": "a heart shunt", "ja": "心臓のシャント" },
+      { "en": "shunt trains", "ja": "列車を入れ換える" }
+    ],
+    "related": [
+      { "en": "divert", "ja": "そらす・迂回させる" },
+      { "en": "shove", "ja": "押しやる" },
+      { "en": "sideline", "ja": "わきへ追いやる" }
+    ],
+    "faq": [
+      { "q": "shunt とは？", "a": "人や物を別の場所へ押しやり移すことです。医療では体液を別経路に流す「シャント」も指します。" },
+      { "q": "否定的な含みは？", "a": "shunt ~ aside（わきへ押しやる）は「軽んじて追いやる」という否定的なニュアンスを持つことがあります。" }
+    ],
+    "quiz": [
+      { "q": "shunt aside の意味は？", "A": "わきへ押しやる", "B": "中央に置く", "C": "高く掲げる", "D": "大切に保管する", "correct": "A" },
+      { "q": "医療の shunt とは？", "A": "体液を別経路に流す管", "B": "手術用のメス", "C": "包帯", "D": "麻酔薬", "correct": "A" }
+    ]
+  },
+  {
+    "english": "shush",
+    "pron": "ʃʊʃ",
+    "kana": "シュッシュ",
+    "hinshi": "間投詞 / 動詞",
+    "ld_pos": "interjection / verb",
+    "ld_etym": "imitative",
+    "ld_level": "準1級",
+    "badges": ["大学生〜", "英検準1級", "CEFR B2", "口語"],
+    "meaning_main": "シーッ（静かに）／（人を）黙らせる",
+    "description": "shush は「シーッ」と静かにさせる擬音的な語で、動詞で「黙らせる」の意。hush との関係を解説します。",
+    "keywords": ["shush 意味", "shush 使い方", "シーッ", "黙らせる"],
+    "meanings": [
+      { "hinshi": "【間投詞】シーッ", "note": "静かにするよう促す声。" },
+      { "hinshi": "【動詞】黙らせる・静かにさせる", "note": "「シーッ」と言って静かにさせる。" }
+    ],
+    "usages": [
+      { "title": "① 間投詞", "desc": "静かに。", "example_en": "Shush! The baby is sleeping.", "example_ja": "シーッ！赤ちゃんが寝てるの。" },
+      { "title": "② 動詞", "desc": "黙らせる。", "example_en": "She shushed the children.", "example_ja": "彼女は子どもたちを静かにさせた。" }
+    ],
+    "warn": ["くだけた口語。hush（静める）と近いが、shush は「シーッ」という音そのものに近く、より直接的に黙らせる。"],
+    "etym_note": "「シーッ」という音をまねた擬音語。hush と同系統。",
+    "etym_chain": [
+      { "node": "sh-", "sub": "静かにの音（擬音）", "era": "近代" },
+      { "node": "shush", "sub": "シーッ・黙らせる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "shush someone", "ja": "人を黙らせる" },
+      { "en": "shush, please", "ja": "シーッ、静かに" },
+      { "en": "shush the crowd", "ja": "群衆を静める" },
+      { "en": "go shush", "ja": "シーッと言う" },
+      { "en": "shush a baby", "ja": "赤ちゃんをあやして静める" },
+      { "en": "stop shushing me", "ja": "シーッと言うのをやめて" }
+    ],
+    "related": [
+      { "en": "hush", "ja": "静める・静けさ" },
+      { "en": "quiet", "ja": "静かにさせる" },
+      { "en": "silence", "ja": "黙らせる" }
+    ],
+    "faq": [
+      { "q": "shush とは？", "a": "「シーッ」と静かにさせる擬音的な語で、動詞では「（人を）黙らせる」という意味です。" },
+      { "q": "hush との違いは？", "a": "意味は近いですが、shush はより口語的で「シーッ」という音に直結した語です。" }
+    ],
+    "quiz": [
+      { "q": "shush the children の意味は？", "A": "子どもたちを静かにさせる", "B": "子どもたちを叱る", "C": "子どもたちを集める", "D": "子どもたちをほめる", "correct": "A" },
+      { "q": "shush に最も近い語は？", "A": "hush", "B": "rush", "C": "push", "D": "crush", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sidle",
+    "pron": "ˈsaɪdl",
+    "kana": "サイドル",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "back-formation from sideling",
+    "ld_level": "1級",
+    "badges": ["難関大〜", "英検1級", "CEFR C1", "動作"],
+    "meaning_main": "（こっそり・遠慮がちに）横歩きで近づく",
+    "description": "sidle は体を横向きにして、こっそり・気おくれしながらにじり寄ることを表す語。sidle up to の形を解説します。",
+    "keywords": ["sidle 意味", "sidle 使い方", "にじり寄る", "sidle up to"],
+    "meanings": [
+      { "hinshi": "【動詞】横歩きでこっそり近づく", "note": "体を横にして、目立たぬよう・遠慮がちに近寄る。ふつう sidle up to ~。" }
+    ],
+    "usages": [
+      { "title": "① にじり寄る", "desc": "こっそり近づく。", "example_en": "He sidled up to her at the party.", "example_ja": "彼はパーティーで彼女にそっとにじり寄った。" },
+      { "title": "② 横歩き", "desc": "横向きで進む。", "example_en": "The crab sidled along the rock.", "example_ja": "カニは岩沿いを横歩きで進んだ。" }
+    ],
+    "warn": ["sidle up to ~（〜にそっとにじり寄る）の形が典型。side（横）から来た語で「横向き・こっそり」のニュアンス。"],
+    "etym_note": "side（横）に関係する sideling から派生した語。「横向きに進む」の意。",
+    "etym_chain": [
+      { "node": "side", "sub": "横", "era": "古英語" },
+      { "node": "sidle", "sub": "横歩きで近づく", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "sidle up to", "ja": "〜にそっとにじり寄る" },
+      { "en": "sidle along", "ja": "横歩きで進む" },
+      { "en": "sidle away", "ja": "そっと離れる" },
+      { "en": "sidle over", "ja": "こっそり近づく" },
+      { "en": "sidle past", "ja": "横向きにすり抜ける" },
+      { "en": "sidle into the room", "ja": "そっと部屋に入る" }
+    ],
+    "related": [
+      { "en": "edge", "ja": "じりじり進む" },
+      { "en": "creep", "ja": "忍び寄る" },
+      { "en": "slink", "ja": "こそこそ動く" }
+    ],
+    "faq": [
+      { "q": "sidle とは？", "a": "体を横向きにして、目立たぬよう・遠慮がちにこっそり近づくことです。" },
+      { "q": "典型表現は？", "a": "sidle up to ~（〜にそっとにじり寄る）です。" }
+    ],
+    "quiz": [
+      { "q": "sidle up to の意味は？", "A": "そっとにじり寄る", "B": "走って逃げる", "C": "大声で呼ぶ", "D": "飛びかかる", "correct": "A" },
+      { "q": "sidle の元になった語は？", "A": "side（横）", "B": "slide（滑る）", "C": "ride（乗る）", "D": "hide（隠す）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "simper",
+    "pron": "ˈsɪmpər",
+    "kana": "シンパー",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "verb / noun",
+    "ld_etym": "16th c., origin uncertain",
+    "ld_level": "1級",
+    "badges": ["難関大〜", "英検1級", "CEFR C1", "感情"],
+    "meaning_main": "作り笑いをする・にやにやする／作り笑い",
+    "description": "simper はわざとらしく気取った作り笑いをすることを表す語。smile との違い（ばかげた・媚びた笑み）を解説します。",
+    "keywords": ["simper 意味", "simper 使い方", "作り笑い", "にやにや"],
+    "meanings": [
+      { "hinshi": "【動詞】作り笑いをする", "note": "気取って、または媚びてわざとらしくにやにや笑う。" },
+      { "hinshi": "【名詞】作り笑い", "note": "ばかげた・気取った笑み。" }
+    ],
+    "usages": [
+      { "title": "① 動詞", "desc": "わざとらしく笑う。", "example_en": "She simpered at the compliment.", "example_ja": "彼女はほめ言葉に気取った作り笑いを浮かべた。" },
+      { "title": "② 名詞", "desc": "作り笑い。", "example_en": "He gave a silly simper.", "example_ja": "彼はばかげた作り笑いを見せた。" }
+    ],
+    "warn": ["ふつうの笑顔 smile と違い、「気取った・媚びた・ばかげた」否定的な作り笑いを指す。"],
+    "etym_note": "16世紀に現れた語で語源は不確か。「気取って笑う」さまを表す。",
+    "etym_chain": [
+      { "node": "simper", "sub": "気取って笑う（16世紀）", "era": "近世" },
+      { "node": "simper", "sub": "作り笑いをする", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "simper at", "ja": "〜に作り笑いをする" },
+      { "en": "a silly simper", "ja": "ばかげた作り笑い" },
+      { "en": "simper coyly", "ja": "しなを作って笑う" },
+      { "en": "an affected simper", "ja": "気取った作り笑い" },
+      { "en": "simper and blush", "ja": "作り笑いして赤らめる" },
+      { "en": "with a simper", "ja": "作り笑いを浮かべて" }
+    ],
+    "related": [
+      { "en": "smirk", "ja": "にやにや笑い" },
+      { "en": "grin", "ja": "歯を見せて笑う" },
+      { "en": "giggle", "ja": "くすくす笑う" }
+    ],
+    "faq": [
+      { "q": "simper とは？", "a": "気取って、または媚びてわざとらしくにやにや笑うこと（作り笑い）です。" },
+      { "q": "smile との違いは？", "a": "smile は普通の笑顔、simper は「気取った・媚びた・ばかげた」否定的な作り笑いです。" }
+    ],
+    "quiz": [
+      { "q": "simper の意味は？", "A": "わざとらしい作り笑いをする", "B": "大声で泣く", "C": "怒鳴る", "D": "黙り込む", "correct": "A" },
+      { "q": "simper に近い語は？", "A": "smirk", "B": "sob", "C": "shout", "D": "snore", "correct": "A" }
+    ]
+  },
+  {
+    "english": "skitter",
+    "pron": "ˈskɪtər",
+    "kana": "スキター",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "perhaps from skite 'move quickly'",
+    "ld_level": "1級",
+    "badges": ["難関大〜", "英検1級", "CEFR C1", "動作"],
+    "meaning_main": "（小動物などが）すばやくちょこちょこ走る・滑るように動く",
+    "description": "skitter は小さな生き物などが軽やかにすばやく走り回る・水面を滑るように動くさまを表す語。語感を解説します。",
+    "keywords": ["skitter 意味", "skitter 使い方", "ちょこちょこ走る", "滑るように"],
+    "meanings": [
+      { "hinshi": "【動詞】すばやくちょこちょこ動く", "note": "小動物・葉・水面などが軽やかにすばやく走る・滑る。" }
+    ],
+    "usages": [
+      { "title": "① 小動物", "desc": "ちょこちょこ走る。", "example_en": "A mouse skittered across the floor.", "example_ja": "ネズミが床をちょこちょこ走った。" },
+      { "title": "② 物が滑る", "desc": "軽く滑る。", "example_en": "Leaves skittered across the pavement.", "example_ja": "落ち葉が舗道を滑るように舞った。" }
+    ],
+    "warn": ["軽くすばやい動きを表す擬態的な語。scatter（まき散らす）と語感が似るが別語。"],
+    "etym_note": "「すばやく動く」を表す skite に関連するとされる擬態的な語。",
+    "etym_chain": [
+      { "node": "skite", "sub": "すばやく動く（方言）", "era": "近世" },
+      { "node": "skitter", "sub": "ちょこちょこ走る", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "skitter across", "ja": "〜を横切ってちょこちょこ走る" },
+      { "en": "skitter away", "ja": "さっと逃げる" },
+      { "en": "skitter over the water", "ja": "水面を滑るように動く" },
+      { "en": "skitter around", "ja": "あちこち走り回る" },
+      { "en": "leaves skitter", "ja": "落ち葉が舞い散る" },
+      { "en": "skitter off", "ja": "ちょこちょこ立ち去る" }
+    ],
+    "related": [
+      { "en": "scurry", "ja": "ちょこちょこ走る" },
+      { "en": "scamper", "ja": "すばやく走り回る" },
+      { "en": "dart", "ja": "さっと動く" }
+    ],
+    "faq": [
+      { "q": "skitter とは？", "a": "小動物・葉・水面などが軽やかにすばやく走る・滑るように動くさまを表す語です。" },
+      { "q": "scatter と同じ？", "a": "いいえ。scatter は「まき散らす」、skitter は「すばやくちょこちょこ動く」で別語です。" }
+    ],
+    "quiz": [
+      { "q": "skitter の意味は？", "A": "すばやくちょこちょこ動く", "B": "重々しく歩く", "C": "じっと止まる", "D": "高く跳ぶ", "correct": "A" },
+      { "q": "skitter に近い語は？", "A": "scurry", "B": "stroll", "C": "stagger", "D": "settle", "correct": "A" }
+    ]
+  },
+  {
+    "english": "skulk",
+    "pron": "skʌlk",
+    "kana": "スカルク",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "Scandinavian origin",
+    "ld_level": "1級",
+    "badges": ["難関大〜", "英検1級", "CEFR C1", "動作"],
+    "meaning_main": "（悪意を持って）こそこそ隠れる・うろつく",
+    "description": "skulk は人目を避け、後ろ暗い意図でこそこそ隠れたりうろついたりすることを表す語。lurk との違いを解説します。",
+    "keywords": ["skulk 意味", "skulk 使い方", "こそこそ", "lurk 違い"],
+    "meanings": [
+      { "hinshi": "【動詞】こそこそ隠れる・うろつく", "note": "後ろ暗い意図で、人目を避けて潜んだり徘徊したりする。" }
+    ],
+    "usages": [
+      { "title": "① 隠れる", "desc": "潜む。", "example_en": "Someone was skulking in the shadows.", "example_ja": "誰かが物陰にこそこそ潜んでいた。" },
+      { "title": "② うろつく", "desc": "こそこそ歩く。", "example_en": "He skulked around the building.", "example_ja": "彼は建物の周りをこそこそうろついた。" }
+    ],
+    "warn": ["lurk（潜んで待つ）と近いが、skulk は「卑怯さ・後ろめたさ」を伴い、隠れて動き回る含みが強い。"],
+    "etym_note": "スカンジナビア系の語に由来するとされ、「こそこそ隠れる」の意。",
+    "etym_chain": [
+      { "node": "skulk", "sub": "こそこそ隠れる（北欧系）", "era": "中世" },
+      { "node": "skulk", "sub": "こそこそうろつく", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "skulk in the shadows", "ja": "物陰にこそこそ潜む" },
+      { "en": "skulk around", "ja": "こそこそうろつく" },
+      { "en": "skulk behind", "ja": "〜の後ろに隠れる" },
+      { "en": "skulk away", "ja": "こそこそ立ち去る" },
+      { "en": "skulk in corners", "ja": "隅に潜む" },
+      { "en": "skulk about", "ja": "うろつき回る" }
+    ],
+    "related": [
+      { "en": "lurk", "ja": "潜む" },
+      { "en": "prowl", "ja": "（獲物を求め）うろつく" },
+      { "en": "sneak", "ja": "こそこそ動く" }
+    ],
+    "faq": [
+      { "q": "skulk とは？", "a": "後ろ暗い意図で人目を避け、こそこそ隠れたりうろついたりすることです。" },
+      { "q": "lurk との違いは？", "a": "lurk は「潜んで待つ」、skulk は卑怯さ・後ろめたさを伴い「隠れて動き回る」含みが強い語です。" }
+    ],
+    "quiz": [
+      { "q": "skulk の意味は？", "A": "こそこそ隠れてうろつく", "B": "堂々と歩く", "C": "高く跳ぶ", "D": "じっと座る", "correct": "A" },
+      { "q": "skulk に近い語は？", "A": "lurk", "B": "leap", "C": "laugh", "D": "lift", "correct": "A" }
+    ]
+  },
+  {
+    "english": "slather",
+    "pron": "ˈslæðər",
+    "kana": "スラザー",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "19th c., origin uncertain",
+    "ld_level": "1級",
+    "badges": ["難関大〜", "英検1級", "CEFR C1", "日常"],
+    "meaning_main": "（たっぷり）厚く塗りつける",
+    "description": "slather はクリームやソースなどをたっぷり惜しみなく塗りつけることを表すくだけた語。slather on/with の形を解説します。",
+    "keywords": ["slather 意味", "slather 使い方", "たっぷり塗る", "厚塗り"],
+    "meanings": [
+      { "hinshi": "【動詞】たっぷり塗りつける", "note": "クリーム・バター・ソースなどを惜しみなく厚く塗る。slather A on B / slather B with A。" }
+    ],
+    "usages": [
+      { "title": "① 塗りつける", "desc": "たっぷり塗る。", "example_en": "She slathered butter on the toast.", "example_ja": "彼女はトーストにバターをたっぷり塗った。" },
+      { "title": "② 体に", "desc": "塗りたくる。", "example_en": "Slather sunscreen on before swimming.", "example_ja": "泳ぐ前に日焼け止めをたっぷり塗りなさい。" }
+    ],
+    "warn": ["くだけた語。slather A on/onto B、または slather B with A の形で使う。「たっぷり・惜しみなく」の量感が要点。"],
+    "etym_note": "19世紀のアメリカ英語に現れた語で語源は不確か。「どっさり」の意の方言から。",
+    "etym_chain": [
+      { "node": "slather", "sub": "どっさり（方言）", "era": "近代" },
+      { "node": "slather", "sub": "たっぷり塗る", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "slather on", "ja": "たっぷり塗る" },
+      { "en": "slather butter", "ja": "バターを厚く塗る" },
+      { "en": "slather with cream", "ja": "クリームをたっぷり塗る" },
+      { "en": "slather sunscreen", "ja": "日焼け止めを塗りたくる" },
+      { "en": "slather it on thick", "ja": "厚く塗りつける" },
+      { "en": "slather mayonnaise", "ja": "マヨネーズをたっぷり塗る" }
+    ],
+    "related": [
+      { "en": "spread", "ja": "塗り広げる" },
+      { "en": "smear", "ja": "塗りつける" },
+      { "en": "coat", "ja": "覆う・塗る" }
+    ],
+    "faq": [
+      { "q": "slather とは？", "a": "クリーム・バター・ソースなどをたっぷり惜しみなく厚く塗りつけることを表すくだけた語です。" },
+      { "q": "どう使う？", "a": "slather A on B / slather B with A（BにAをたっぷり塗る）の形で使います。" }
+    ],
+    "quiz": [
+      { "q": "slather の意味は？", "A": "たっぷり厚く塗りつける", "B": "薄く削り取る", "C": "強くたたく", "D": "細かく刻む", "correct": "A" },
+      { "q": "slather butter on toast の意味は？", "A": "トーストにバターをたっぷり塗る", "B": "トーストを焦がす", "C": "トーストを切る", "D": "トーストを焼く", "correct": "A" }
+    ]
+  },
+  {
+    "english": "slink",
+    "pron": "slɪŋk",
+    "kana": "スリンク",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "Old English slincan 'to creep'",
+    "ld_level": "1級",
+    "badges": ["難関大〜", "英検1級", "CEFR C1", "動作"],
+    "meaning_main": "（恥・後ろめたさで）こそこそ動く・忍び去る",
+    "description": "slink は恥や恐れ、後ろめたさからこそこそ忍び歩くことを表す語。活用 slink-slunk-slunk を解説します。",
+    "keywords": ["slink 意味", "slink 使い方", "こそこそ", "slunk"],
+    "meanings": [
+      { "hinshi": "【動詞】こそこそ動く・忍び去る", "note": "恥・恐れ・後ろめたさから、人目を避けてそっと動く。slink off/away。" }
+    ],
+    "usages": [
+      { "title": "① 忍び去る", "desc": "こっそり立ち去る。", "example_en": "He slunk off in embarrassment.", "example_ja": "彼はきまり悪そうにこそこそ立ち去った。" },
+      { "title": "② 忍び込む", "desc": "そっと動く。", "example_en": "The cat slunk under the bed.", "example_ja": "猫はベッドの下にそっと潜り込んだ。" }
+    ],
+    "warn": ["活用は slink-slunk-slunk（不規則）。slink off/away（こそこそ立ち去る）が頻出。恥や後ろめたさの含みが強い。"],
+    "etym_note": "古英語 slincan（はう・忍び歩く）に由来する。",
+    "etym_chain": [
+      { "node": "slincan", "sub": "はう（古英語）", "era": "古英語" },
+      { "node": "slink", "sub": "こそこそ動く", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "slink off", "ja": "こそこそ立ち去る" },
+      { "en": "slink away", "ja": "そっと逃げ去る" },
+      { "en": "slink back", "ja": "こっそり戻る" },
+      { "en": "slink into", "ja": "そっと入り込む" },
+      { "en": "slink past", "ja": "こっそりすり抜ける" },
+      { "en": "slink out of the room", "ja": "そっと部屋を出る" }
+    ],
+    "related": [
+      { "en": "sneak", "ja": "こそこそ動く" },
+      { "en": "creep", "ja": "忍び寄る" },
+      { "en": "skulk", "ja": "こそこそ潜む" }
+    ],
+    "faq": [
+      { "q": "slink とは？", "a": "恥・恐れ・後ろめたさから、人目を避けてこそこそ忍び歩く・立ち去ることです。" },
+      { "q": "活用は？", "a": "slink-slunk-slunk です。slink off/away（こそこそ立ち去る）の形が多いです。" }
+    ],
+    "quiz": [
+      { "q": "slink off の意味は？", "A": "こそこそ立ち去る", "B": "堂々と入場する", "C": "走って追いかける", "D": "大声で呼ぶ", "correct": "A" },
+      { "q": "slink の過去形は？", "A": "slunk", "B": "slinked", "C": "slank", "D": "slonk", "correct": "A" }
+    ]
+  },
+  {
+    "english": "splay",
+    "pron": "spleɪ",
+    "kana": "スプレイ",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "shortened from display",
+    "ld_level": "1級",
+    "badges": ["難関大〜", "英検1級", "CEFR C1", "動作"],
+    "meaning_main": "（手足・指などを）大きく広げる・開く",
+    "description": "splay は指・手足・物の端などを外向きに大きく広げることを表す語。splay out や splayed の形を解説します。",
+    "keywords": ["splay 意味", "splay 使い方", "広げる", "splayed"],
+    "meanings": [
+      { "hinshi": "【動詞】大きく広げる・開く", "note": "指・手足・物などを外向きに広げる。splay out。" }
+    ],
+    "usages": [
+      { "title": "① 手足・指", "desc": "広げる。", "example_en": "He splayed his fingers on the desk.", "example_ja": "彼は机の上に指を大きく広げた。" },
+      { "title": "② 受け身・形容詞的", "desc": "広がった。", "example_en": "Her legs were splayed out.", "example_ja": "彼女の脚は大きく開かれていた。" }
+    ],
+    "warn": ["splay out（外側に広げる）や splayed（広がった）の形が多い。display（展示する）を短くした語に由来する。"],
+    "etym_note": "display（広げる・展示する）を短縮した語に由来。「外に広げる」の意。",
+    "etym_chain": [
+      { "node": "display", "sub": "広げる（短縮）", "era": "中世" },
+      { "node": "splay", "sub": "大きく広げる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "splay out", "ja": "外側に広げる" },
+      { "en": "splay one's fingers", "ja": "指を広げる" },
+      { "en": "legs splayed", "ja": "脚を広げて" },
+      { "en": "splayed feet", "ja": "外向きに開いた足" },
+      { "en": "splay across", "ja": "〜の上に広がる" },
+      { "en": "splay the arms", "ja": "腕を広げる" }
+    ],
+    "related": [
+      { "en": "spread", "ja": "広げる" },
+      { "en": "fan out", "ja": "扇状に広げる" },
+      { "en": "stretch", "ja": "伸ばす" }
+    ],
+    "faq": [
+      { "q": "splay とは？", "a": "指・手足・物の端などを外向きに大きく広げることです。" },
+      { "q": "語源は？", "a": "display（広げる・展示する）を短くした語です。" }
+    ],
+    "quiz": [
+      { "q": "splay one's fingers の意味は？", "A": "指を大きく広げる", "B": "指を握る", "C": "指を折る", "D": "指を隠す", "correct": "A" },
+      { "q": "splay の由来となった語は？", "A": "display", "B": "play", "C": "spray", "D": "splash", "correct": "A" }
+    ]
+  },
+  {
+    "english": "snuffle",
+    "pron": "ˈsnʌfl",
+    "kana": "スナッフル",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "verb / noun",
+    "ld_etym": "related to snuff/sniff",
+    "ld_level": "1級",
+    "badges": ["難関大〜", "英検1級", "CEFR C1", "描写"],
+    "meaning_main": "（鼻づまりで）ぐすぐす鼻を鳴らす・鼻をすする",
+    "description": "snuffle は鼻づまりや泣きべそで、ぐすぐす鼻を鳴らすことを表す語。sniffle や snuffle の語感を解説します。",
+    "keywords": ["snuffle 意味", "snuffle 使い方", "鼻をすする", "ぐすぐす"],
+    "meanings": [
+      { "hinshi": "【動詞】ぐすぐす鼻を鳴らす", "note": "鼻づまり・泣き・においをかぐなどで、鼻を音を立ててすする。" },
+      { "hinshi": "【名詞】鼻をすする音", "note": "ぐすぐすという鼻音。" }
+    ],
+    "usages": [
+      { "title": "① 鼻づまり", "desc": "ぐすぐすする。", "example_en": "The child snuffled with a cold.", "example_ja": "その子は風邪でぐすぐす鼻を鳴らした。" },
+      { "title": "② 動物が", "desc": "鼻を鳴らしてかぐ。", "example_en": "The dog snuffled at the ground.", "example_ja": "犬は地面を鼻を鳴らしてかいだ。" }
+    ],
+    "warn": ["sniffle（鼻をすすってめそめそする）と非常に近い。snuffle は鼻づまりの「ぐすぐす」した音や、動物が鼻でかぐ動きにも使う。"],
+    "etym_note": "snuff / sniff（鼻でかぐ・すする）に関連する擬音的な語。",
+    "etym_chain": [
+      { "node": "snuff / sniff", "sub": "鼻でかぐ（擬音）", "era": "近世" },
+      { "node": "snuffle", "sub": "ぐすぐす鼻を鳴らす", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "snuffle with a cold", "ja": "風邪でぐすぐすする" },
+      { "en": "snuffle and sneeze", "ja": "鼻をすすってくしゃみする" },
+      { "en": "snuffle at", "ja": "〜を鼻でかぐ" },
+      { "en": "a snuffle of laughter", "ja": "鼻を鳴らす笑い" },
+      { "en": "snuffle into a tissue", "ja": "ティッシュにぐすぐす" },
+      { "en": "stop snuffling", "ja": "ぐすぐすするのをやめる" }
+    ],
+    "related": [
+      { "en": "sniffle", "ja": "鼻をすする・めそめそする" },
+      { "en": "sniff", "ja": "鼻をすする・かぐ" },
+      { "en": "snort", "ja": "鼻を鳴らす" }
+    ],
+    "faq": [
+      { "q": "snuffle とは？", "a": "鼻づまりや泣き、においをかぐなどで、ぐすぐす鼻を鳴らす・すすることです。" },
+      { "q": "sniffle との違いは？", "a": "ほぼ同義です。snuffle は鼻づまりの「ぐすぐす」音や、動物が鼻でかぐ動きにも使います。" }
+    ],
+    "quiz": [
+      { "q": "snuffle の意味は？", "A": "ぐすぐす鼻を鳴らす", "B": "大声で笑う", "C": "速く走る", "D": "強くたたく", "correct": "A" },
+      { "q": "snuffle に近い語は？", "A": "sniffle", "B": "shuffle", "C": "snuggle", "D": "scuffle", "correct": "A" }
+    ]
+  }
+]
