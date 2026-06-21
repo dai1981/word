@@ -428,5 +428,53 @@
       { "q": "be overwhelmed by の意味は？", "A": "〜に圧倒される", "B": "〜を無視する", "C": "〜を支配する", "D": "〜に勝つ", "correct": "A" },
       { "q": "an overwhelming majority の意味は？", "A": "圧倒的多数", "B": "わずかな差", "C": "少数派", "D": "全会一致", "correct": "A" }
     ]
+  },
+  {
+    "english": "overflow",
+    "pron": "ˌoʊvərˈfloʊ",
+    "kana": "オウヴァーフロウ",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "verb / noun",
+    "ld_etym": "over + flow",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "学術"],
+    "meaning_main": "あふれる・あふれさせる／あふれること・氾濫",
+    "description": "overflow は容器・川などがあふれること、また感情があふれることを表す語。be filled to overflowing の用法を解説します。",
+    "keywords": ["overflow 意味", "overflow 使い方", "あふれる", "氾濫"],
+    "meanings": [
+      { "hinshi": "【動詞】あふれる・あふれさせる", "note": "容器・川などが満ちてあふれる。比喩で感情があふれる。" },
+      { "hinshi": "【名詞】あふれること・氾濫", "note": "あふれた状態・あふれた分。an overflow of water。" }
+    ],
+    "usages": [
+      { "title": "① あふれる", "desc": "満ちて出る。", "example_en": "The river overflowed its banks.", "example_ja": "川が堤防からあふれた。" },
+      { "title": "② 感情・人で", "desc": "あふれる。", "example_en": "Her heart overflowed with joy.", "example_ja": "彼女の心は喜びであふれた。" }
+    ],
+    "warn": ["overflow with ~（〜であふれる）、be filled to overflowing（あふれるほど満ちて）。IT では overflow（オーバーフロー＝あふれ）も。"],
+    "etym_note": "over（越えて）＋ flow（流れる）から。「越えて流れ出る＝あふれる」の意。",
+    "etym_chain": [
+      { "node": "over + flow", "sub": "越えて＋流れる", "era": "古英語" },
+      { "node": "overflow", "sub": "あふれる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "overflow with", "ja": "〜であふれる" },
+      { "en": "overflow its banks", "ja": "堤防からあふれる" },
+      { "en": "filled to overflowing", "ja": "あふれるほど満ちて" },
+      { "en": "an overflow of water", "ja": "水のあふれ" },
+      { "en": "overflow with emotion", "ja": "感情があふれる" },
+      { "en": "the overflow crowd", "ja": "あふれた群衆" }
+    ],
+    "related": [
+      { "en": "flood", "ja": "洪水・氾濫させる" },
+      { "en": "spill", "ja": "こぼれる" },
+      { "en": "brim", "ja": "縁・あふれそうになる" }
+    ],
+    "faq": [
+      { "q": "overflow とは？", "a": "容器・川などが満ちてあふれること、また感情があふれることです。名詞では「あふれ・氾濫」です。" },
+      { "q": "overflow with とは？", "a": "「〜であふれる・満ちあふれる」という意味です（例: overflow with joy）。" }
+    ],
+    "quiz": [
+      { "q": "The river overflowed its banks. の意味は？", "A": "川が堤防からあふれた", "B": "川が干上がった", "C": "川が凍った", "D": "川が澄んだ", "correct": "A" },
+      { "q": "overflow の成り立ちは？", "A": "over（越えて）＋ flow（流れる）", "B": "over＋floor", "C": "off＋low", "D": "our＋flow", "correct": "A" }
+    ]
   }
 ]
