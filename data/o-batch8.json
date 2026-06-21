@@ -425,5 +425,54 @@
       { "q": "an outlet for stress の意味は？", "A": "ストレスのはけ口", "B": "ストレスの原因", "C": "ストレスの薬", "D": "ストレスの検査", "correct": "A" },
       { "q": "（米）「コンセント」を表すのは？", "A": "outlet", "B": "consent", "C": "outline", "D": "outset", "correct": "A" }
     ]
+  },
+  {
+    "english": "outlook",
+    "pron": "ˈaʊtlʊk",
+    "kana": "アウトルック",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "out + look",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "学術"],
+    "meaning_main": "見通し・先行き／（物事への）考え方・見解／眺め",
+    "description": "outlook は将来の見通し、物事への考え方、また眺めを表す語。the economic outlook などの用法を解説します。",
+    "keywords": ["outlook 意味", "outlook 使い方", "見通し", "考え方"],
+    "meanings": [
+      { "hinshi": "【名詞】見通し・先行き", "note": "将来の予想・展望。the economic outlook（経済の見通し）。" },
+      { "hinshi": "【名詞】考え方・見解", "note": "物事への姿勢・態度。a positive outlook（前向きな見方）。" },
+      { "hinshi": "【名詞】眺め", "note": "見晴らし。" }
+    ],
+    "usages": [
+      { "title": "① 見通し", "desc": "先行き。", "example_en": "The economic outlook is bright.", "example_ja": "経済の見通しは明るい。" },
+      { "title": "② 考え方", "desc": "姿勢。", "example_en": "She has a positive outlook on life.", "example_ja": "彼女は人生に前向きな考え方を持っている。" }
+    ],
+    "warn": ["the outlook for ~（〜の見通し）、an outlook on life（人生観）。weather outlook（天気の見通し）も。eメールソフト名とは別。"],
+    "etym_note": "out（外を）＋ look（見る）から。「外を見ること＝見通し・眺め・見方」の意。",
+    "etym_chain": [
+      { "node": "out + look", "sub": "外を＋見る", "era": "近代" },
+      { "node": "outlook", "sub": "見通し・考え方", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the economic outlook", "ja": "経済の見通し" },
+      { "en": "a positive outlook", "ja": "前向きな考え方" },
+      { "en": "the outlook for", "ja": "〜の見通し" },
+      { "en": "an outlook on life", "ja": "人生観" },
+      { "en": "a bleak outlook", "ja": "暗い見通し" },
+      { "en": "the weather outlook", "ja": "天気の見通し" }
+    ],
+    "related": [
+      { "en": "prospect", "ja": "見込み・展望" },
+      { "en": "perspective", "ja": "観点・見方" },
+      { "en": "view", "ja": "見解・眺め" }
+    ],
+    "faq": [
+      { "q": "outlook の主な意味は？", "a": "①将来の見通し・先行き、②物事への考え方・見解、③眺め、です。" },
+      { "q": "an outlook on life とは？", "a": "「人生観・人生に対する考え方」という意味です。" }
+    ],
+    "quiz": [
+      { "q": "the economic outlook の意味は？", "A": "経済の見通し", "B": "経済の歴史", "C": "経済の規模", "D": "経済の崩壊", "correct": "A" },
+      { "q": "a positive outlook の意味は？", "A": "前向きな考え方", "B": "確かな証拠", "C": "高い建物", "D": "速い動き", "correct": "A" }
+    ]
   }
 ]
