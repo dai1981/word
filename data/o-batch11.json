@@ -426,5 +426,53 @@
       { "q": "on the outskirts of the city の意味は？", "A": "市のはずれに", "B": "市の中心に", "C": "市の地下に", "D": "市の屋上に", "correct": "A" },
       { "q": "outskirts の形は？", "A": "常に複数形", "B": "常に単数形", "C": "不可算名詞", "D": "形容詞", "correct": "A" }
     ]
+  },
+  {
+    "english": "outward",
+    "pron": "ˈaʊtwərd",
+    "kana": "アウトワード",
+    "hinshi": "形容詞 / 副詞",
+    "ld_pos": "adjective / adverb",
+    "ld_etym": "out + -ward",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本"],
+    "meaning_main": "外へ向かう・外見の／外側へ",
+    "description": "outward は「外へ向かう・うわべの」を表す形容詞、また「外側へ」を表す副詞。反意 inward との対を解説します。",
+    "keywords": ["outward 意味", "outward 使い方", "外へ向かう", "inward"],
+    "meanings": [
+      { "hinshi": "【形容詞】外へ向かう・外見の", "note": "外向きの、うわべの。outward appearance（外見）。" },
+      { "hinshi": "【副詞】外側へ", "note": "外の方へ（outwards とも）。The door opens outward." }
+    ],
+    "usages": [
+      { "title": "① 外見の", "desc": "うわべ。", "example_en": "Her outward calm hid her nerves.", "example_ja": "彼女のうわべの冷静さは緊張を隠していた。" },
+      { "title": "② 外へ", "desc": "外側へ。", "example_en": "The door opens outward.", "example_ja": "そのドアは外側に開く。" }
+    ],
+    "warn": ["反意は inward（内へ向かう・内面の）。副詞は outward / outwards どちらも可。the outward journey（往路）、outward appearance（外見）。"],
+    "etym_note": "out（外）＋ -ward（〜の方へ）から。「外の方へ」の意。",
+    "etym_chain": [
+      { "node": "out + ward", "sub": "外＋〜の方へ", "era": "古英語" },
+      { "node": "outward", "sub": "外へ向かう", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "outward appearance", "ja": "外見・うわべ" },
+      { "en": "the outward journey", "ja": "往路" },
+      { "en": "open outward", "ja": "外側に開く" },
+      { "en": "outward signs", "ja": "外に表れた兆候" },
+      { "en": "to all outward appearances", "ja": "見たところでは" },
+      { "en": "an outward show of", "ja": "〜の見せかけ" }
+    ],
+    "related": [
+      { "en": "inward", "ja": "内へ向かう（反意）" },
+      { "en": "external", "ja": "外部の" },
+      { "en": "outer", "ja": "外側の" }
+    ],
+    "faq": [
+      { "q": "outward の反意語は？", "a": "inward（内へ向かう・内面の）です。" },
+      { "q": "outward appearance とは？", "a": "「外見・うわべ」という意味です。" }
+    ],
+    "quiz": [
+      { "q": "outward appearance の意味は？", "A": "外見・うわべ", "B": "内面・本心", "C": "実力", "D": "経歴", "correct": "A" },
+      { "q": "outward の反意語は？", "A": "inward", "B": "onward", "C": "outer", "D": "upward", "correct": "A" }
+    ]
   }
 ]
