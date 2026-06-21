@@ -1,0 +1,476 @@
+[
+  {
+    "english": "squall",
+    "pron": "skwɔːl",
+    "kana": "スコール",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "noun / verb",
+    "ld_etym": "perhaps Scandinavian",
+    "ld_level": "1級",
+    "badges": ["難関大〜", "英検1級", "CEFR C1", "自然"],
+    "meaning_main": "突風・スコール（急な強風雨）／（子どもが）泣きわめく",
+    "description": "squall は急に吹く強風（しばしば雨や雪を伴う）を表す語。日本語の「スコール」との違いや、動詞「泣きわめく」を解説します。",
+    "keywords": ["squall 意味", "squall 使い方", "突風", "スコール"],
+    "meanings": [
+      { "hinshi": "【名詞】突風・スコール", "note": "急に吹く強い風。多く雨・雪・みぞれを伴う。" },
+      { "hinshi": "【動詞】泣きわめく", "note": "（赤ん坊などが）金切り声で激しく泣く。" }
+    ],
+    "usages": [
+      { "title": "① 突風", "desc": "急な強風雨。", "example_en": "A sudden squall hit the boat.", "example_ja": "突風が船を襲った。" },
+      { "title": "② 泣きわめく", "desc": "激しく泣く。", "example_en": "The baby squalled all night.", "example_ja": "赤ん坊は一晩中泣きわめいた。" }
+    ],
+    "warn": ["英語の squall は「急な強風（雨を伴う）」。日本語の「スコール（熱帯の激しい雨）」より風の意味が強い点に注意。"],
+    "etym_note": "スカンジナビア系の語に由来するとされ、「急に吹く強風」を表す。",
+    "etym_chain": [
+      { "node": "squall", "sub": "突風（北欧系）", "era": "近世" },
+      { "node": "squall", "sub": "突風・泣きわめく", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a sudden squall", "ja": "突然の突風" },
+      { "en": "a snow squall", "ja": "雪を伴う突風" },
+      { "en": "squall line", "ja": "スコールライン（線状の突風帯）" },
+      { "en": "ride out the squall", "ja": "突風をやり過ごす" },
+      { "en": "a rain squall", "ja": "雨を伴う突風" },
+      { "en": "the baby squalled", "ja": "赤ん坊が泣きわめいた" }
+    ],
+    "related": [
+      { "en": "gust", "ja": "突風・一吹き" },
+      { "en": "gale", "ja": "強風" },
+      { "en": "storm", "ja": "嵐" }
+    ],
+    "faq": [
+      { "q": "squall とは？", "a": "急に吹く強い風（多く雨や雪を伴う）です。動詞では「（赤ん坊などが）泣きわめく」意もあります。" },
+      { "q": "日本語の「スコール」と同じ？", "a": "近いですが、英語の squall は「急な強風」の意味が強く、必ずしも熱帯の豪雨を指しません。" }
+    ],
+    "quiz": [
+      { "q": "squall（名詞）の意味は？", "A": "急な強風（雨を伴う）", "B": "穏やかなそよ風", "C": "晴天", "D": "霧", "correct": "A" },
+      { "q": "squall（動詞）の意味は？", "A": "泣きわめく", "B": "ささやく", "C": "微笑む", "D": "うなずく", "correct": "A" }
+    ]
+  },
+  {
+    "english": "spittle",
+    "pron": "ˈspɪtl",
+    "kana": "スピトル",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "from spit",
+    "ld_level": "1級",
+    "badges": ["難関大〜", "英検1級", "CEFR C1", "描写"],
+    "meaning_main": "つば・唾液（特に口から飛んだもの）",
+    "description": "spittle は口から出る・飛び散るつば（唾液）を表すやや文語的な語。saliva との違いを解説します。",
+    "keywords": ["spittle 意味", "spittle 使い方", "つば", "saliva 違い"],
+    "meanings": [
+      { "hinshi": "【名詞】つば・唾液", "note": "口から出る、または飛び散る唾液。不可算名詞。" }
+    ],
+    "usages": [
+      { "title": "① 飛んだつば", "desc": "口から飛ぶ。", "example_en": "Spittle flew as he shouted.", "example_ja": "彼が叫ぶとつばが飛んだ。" },
+      { "title": "② 口元の唾", "desc": "たまった唾。", "example_en": "Spittle gathered at the corner of his mouth.", "example_ja": "口の端につばがたまった。" }
+    ],
+    "warn": ["saliva（唾液＝医学的・中立）に対し、spittle は「口から飛んだ・たまった唾」という描写的でやや不快な含み。"],
+    "etym_note": "spit（つばを吐く）＋ -le から。「吐かれたもの＝つば」の意。",
+    "etym_chain": [
+      { "node": "spit", "sub": "つばを吐く", "era": "古英語" },
+      { "node": "spittle", "sub": "つば", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "flecks of spittle", "ja": "つばの飛沫" },
+      { "en": "spittle flew", "ja": "つばが飛んだ" },
+      { "en": "wipe away spittle", "ja": "つばをぬぐう" },
+      { "en": "spittle on his lips", "ja": "唇についたつば" },
+      { "en": "foaming spittle", "ja": "泡だったつば" },
+      { "en": "a fleck of spittle", "ja": "つばの一滴" }
+    ],
+    "related": [
+      { "en": "saliva", "ja": "唾液（中立語）" },
+      { "en": "spit", "ja": "つばを吐く" },
+      { "en": "drool", "ja": "よだれ（をたらす）" }
+    ],
+    "faq": [
+      { "q": "spittle とは？", "a": "口から出る・飛び散るつば（唾液）を表すやや描写的な語です。" },
+      { "q": "saliva との違いは？", "a": "saliva は医学的・中立、spittle は「飛んだ・たまった唾」という描写的でやや不快な含みです。" }
+    ],
+    "quiz": [
+      { "q": "spittle の意味は？", "A": "つば・唾液", "B": "汗", "C": "涙", "D": "鼻水", "correct": "A" },
+      { "q": "spittle の語源 spit の意味は？", "A": "つばを吐く", "B": "回る", "C": "光る", "D": "縛る", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sprig",
+    "pron": "sprɪɡ",
+    "kana": "スプリグ",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "Middle English sprigge",
+    "ld_level": "1級",
+    "badges": ["難関大〜", "英検1級", "CEFR C1", "自然"],
+    "meaning_main": "小枝・若枝（葉や花のついた）",
+    "description": "sprig は葉や花のついた小さな若枝を表す語。料理の飾り（a sprig of parsley など）の用法を解説します。",
+    "keywords": ["sprig 意味", "sprig 使い方", "小枝", "a sprig of"],
+    "meanings": [
+      { "hinshi": "【名詞】小枝・若枝", "note": "葉や花のついた小さな枝。a sprig of mint（ミントの小枝）。" }
+    ],
+    "usages": [
+      { "title": "① 料理の飾り", "desc": "添える小枝。", "example_en": "Garnish with a sprig of parsley.", "example_ja": "パセリの小枝を添えて飾る。" },
+      { "title": "② 植物", "desc": "若枝。", "example_en": "She picked a sprig of lavender.", "example_ja": "彼女はラベンダーの小枝を摘んだ。" }
+    ],
+    "warn": ["a sprig of ~（〜の小枝）の形が典型で、特に料理のハーブの飾りに使う。branch（枝）より小さい「若枝・小枝」。"],
+    "etym_note": "中英語 sprigge（小枝）に由来する。",
+    "etym_chain": [
+      { "node": "sprigge", "sub": "小枝（中英語）", "era": "中世" },
+      { "node": "sprig", "sub": "小枝", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a sprig of parsley", "ja": "パセリの小枝" },
+      { "en": "a sprig of mint", "ja": "ミントの小枝" },
+      { "en": "a sprig of holly", "ja": "ヒイラギの小枝" },
+      { "en": "a sprig of rosemary", "ja": "ローズマリーの小枝" },
+      { "en": "garnish with a sprig", "ja": "小枝で飾る" },
+      { "en": "a small sprig", "ja": "小さな若枝" }
+    ],
+    "related": [
+      { "en": "twig", "ja": "小枝" },
+      { "en": "branch", "ja": "枝" },
+      { "en": "stem", "ja": "茎" }
+    ],
+    "faq": [
+      { "q": "sprig とは？", "a": "葉や花のついた小さな若枝のことです。料理の飾りのハーブによく使います。" },
+      { "q": "典型表現は？", "a": "a sprig of ~（〜の小枝）です（例: a sprig of parsley）。" }
+    ],
+    "quiz": [
+      { "q": "a sprig of parsley の意味は？", "A": "パセリの小枝", "B": "パセリ一束（大量）", "C": "パセリの根", "D": "パセリの種", "correct": "A" },
+      { "q": "sprig に近い語は？", "A": "twig", "B": "trunk", "C": "root", "D": "leafless log", "correct": "A" }
+    ]
+  },
+  {
+    "english": "stalactite",
+    "pron": "ˈstæləktaɪt",
+    "kana": "スタラクタイト",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "Greek stalaktos 'dripping'",
+    "ld_level": "1級",
+    "badges": ["難関大〜", "英検1級", "CEFR C1", "自然"],
+    "meaning_main": "鍾乳石（洞窟の天井から垂れ下がる）",
+    "description": "stalactite は洞窟の天井から垂れ下がる鍾乳石を表す語。床から伸びる stalagmite（石筍）との見分け方を解説します。",
+    "keywords": ["stalactite 意味", "stalactite 使い方", "鍾乳石", "stalagmite 違い"],
+    "meanings": [
+      { "hinshi": "【名詞】鍾乳石", "note": "洞窟の天井から、しずくの石灰分が固まって垂れ下がる柱状の岩。" }
+    ],
+    "usages": [
+      { "title": "① 鍾乳石", "desc": "天井から垂れる。", "example_en": "Stalactites hung from the cave ceiling.", "example_ja": "鍾乳石が洞窟の天井から垂れ下がっていた。" },
+      { "title": "② 形成", "desc": "しずくで育つ。", "example_en": "Stalactites form very slowly.", "example_ja": "鍾乳石はごくゆっくり形成される。" }
+    ],
+    "warn": ["天井から「垂れる」のが stalactite（c は天井 ceiling）、床から「立つ」のが stalagmite（g は地面 ground）と覚えると区別しやすい。"],
+    "etym_note": "ギリシャ語 stalaktos（したたる、stalassein＝したたる から）に由来。",
+    "etym_chain": [
+      { "node": "stalaktos", "sub": "したたる（ギリシャ語）", "era": "古代" },
+      { "node": "stalactite", "sub": "鍾乳石", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a hanging stalactite", "ja": "垂れ下がる鍾乳石" },
+      { "en": "stalactites and stalagmites", "ja": "鍾乳石と石筍" },
+      { "en": "form a stalactite", "ja": "鍾乳石を作る" },
+      { "en": "an icy stalactite", "ja": "氷の鍾乳石（つらら状）" },
+      { "en": "a limestone stalactite", "ja": "石灰岩の鍾乳石" },
+      { "en": "under the stalactites", "ja": "鍾乳石の下で" }
+    ],
+    "related": [
+      { "en": "stalagmite", "ja": "石筍（床から立つ）" },
+      { "en": "cave", "ja": "洞窟" },
+      { "en": "limestone", "ja": "石灰岩" }
+    ],
+    "faq": [
+      { "q": "stalactite とは？", "a": "洞窟の天井から垂れ下がる、石灰分が固まってできた鍾乳石のことです。" },
+      { "q": "stalagmite との見分け方は？", "a": "天井から垂れるのが stalactite（c→ceiling）、床から立つのが stalagmite（g→ground）です。" }
+    ],
+    "quiz": [
+      { "q": "stalactite はどこにできる？", "A": "洞窟の天井から垂れ下がる", "B": "洞窟の床から立ち上がる", "C": "川底に沈む", "D": "山頂に積もる", "correct": "A" },
+      { "q": "stalactite の語源 stalaktos の意味は？", "A": "したたる", "B": "燃える", "C": "凍る", "D": "光る", "correct": "A" }
+    ]
+  },
+  {
+    "english": "stalagmite",
+    "pron": "ˈstæləɡmaɪt",
+    "kana": "スタラグマイト",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "Greek stalagma 'a drop'",
+    "ld_level": "1級",
+    "badges": ["難関大〜", "英検1級", "CEFR C1", "自然"],
+    "meaning_main": "石筍（せきじゅん／洞窟の床から立ち上がる）",
+    "description": "stalagmite は洞窟の床にしずくが積もって立ち上がる石筍を表す語。stalactite との対と見分け方を解説します。",
+    "keywords": ["stalagmite 意味", "stalagmite 使い方", "石筍", "stalactite 違い"],
+    "meanings": [
+      { "hinshi": "【名詞】石筍（せきじゅん）", "note": "洞窟の床に石灰分のしずくが積もり、上へ立ち上がってできる柱状の岩。" }
+    ],
+    "usages": [
+      { "title": "① 石筍", "desc": "床から立つ。", "example_en": "A stalagmite rose from the cave floor.", "example_ja": "石筍が洞窟の床からそびえていた。" },
+      { "title": "② 対で", "desc": "鍾乳石と対。", "example_en": "Stalactites meet stalagmites to form columns.", "example_ja": "鍾乳石と石筍が出合って石柱になる。" }
+    ],
+    "warn": ["床から「立つ」のが stalagmite（g＝ground 地面）、天井から「垂れる」のが stalactite（c＝ceiling 天井）。"],
+    "etym_note": "ギリシャ語 stalagma（しずく、stalassein＝したたる から）に由来。",
+    "etym_chain": [
+      { "node": "stalagma", "sub": "しずく（ギリシャ語）", "era": "古代" },
+      { "node": "stalagmite", "sub": "石筍", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rising stalagmite", "ja": "立ち上がる石筍" },
+      { "en": "stalactites and stalagmites", "ja": "鍾乳石と石筍" },
+      { "en": "form a stalagmite", "ja": "石筍を作る" },
+      { "en": "a tall stalagmite", "ja": "高い石筍" },
+      { "en": "from the cave floor", "ja": "洞窟の床から" },
+      { "en": "a limestone stalagmite", "ja": "石灰岩の石筍" }
+    ],
+    "related": [
+      { "en": "stalactite", "ja": "鍾乳石（天井から垂れる）" },
+      { "en": "cave", "ja": "洞窟" },
+      { "en": "column", "ja": "石柱（両者が出合ったもの）" }
+    ],
+    "faq": [
+      { "q": "stalagmite とは？", "a": "洞窟の床にしずくが積もって上へ立ち上がる、石筍（せきじゅん）のことです。" },
+      { "q": "覚え方は？", "a": "床から立つ stalagmite は g＝ground（地面）、天井から垂れる stalactite は c＝ceiling（天井）と覚えます。" }
+    ],
+    "quiz": [
+      { "q": "stalagmite はどこにできる？", "A": "洞窟の床から立ち上がる", "B": "洞窟の天井から垂れる", "C": "海面に浮かぶ", "D": "山腹に張りつく", "correct": "A" },
+      { "q": "床から立つほうの語は？", "A": "stalagmite", "B": "stalactite", "C": "stalemate", "D": "stallion", "correct": "A" }
+    ]
+  },
+  {
+    "english": "stencil",
+    "pron": "ˈstɛnsl",
+    "kana": "ステンシル",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "noun / verb",
+    "ld_etym": "Old French estanceler 'to decorate'",
+    "ld_level": "1級",
+    "badges": ["難関大〜", "英検1級", "CEFR C1", "日常"],
+    "meaning_main": "型紙・ステンシル／型紙で刷る",
+    "description": "stencil は文字や模様を切り抜いた型紙、またそれで色を刷ることを表す語。動詞用法を解説します。",
+    "keywords": ["stencil 意味", "stencil 使い方", "型紙", "ステンシル"],
+    "meanings": [
+      { "hinshi": "【名詞】型紙・ステンシル", "note": "文字・模様を切り抜いた板や紙。上から色を塗ると形が転写される。" },
+      { "hinshi": "【動詞】型紙で刷る", "note": "ステンシルを使って文字・模様を写し描く。" }
+    ],
+    "usages": [
+      { "title": "① 名詞", "desc": "型紙。", "example_en": "She used a stencil to paint the letters.", "example_ja": "彼女は型紙を使って文字を描いた。" },
+      { "title": "② 動詞", "desc": "型紙で刷る。", "example_en": "They stenciled the design on the wall.", "example_ja": "彼らは壁に模様をステンシルで刷った。" }
+    ],
+    "warn": ["切り抜き部分に色を入れて転写する道具・技法。動詞では stencil A on/onto B（BにAを刷る）の形で使う。"],
+    "etym_note": "古フランス語 estanceler（きらきら飾る）に由来。装飾の技法から「型紙」の意になった。",
+    "etym_chain": [
+      { "node": "estanceler", "sub": "飾る（古フランス語）", "era": "中世" },
+      { "node": "stencil", "sub": "型紙", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "use a stencil", "ja": "型紙を使う" },
+      { "en": "a letter stencil", "ja": "文字の型紙" },
+      { "en": "stencil a pattern", "ja": "模様を型紙で刷る" },
+      { "en": "cut a stencil", "ja": "型紙を切る" },
+      { "en": "stencil onto the wall", "ja": "壁にステンシルで刷る" },
+      { "en": "a stencil design", "ja": "ステンシルの図案" }
+    ],
+    "related": [
+      { "en": "template", "ja": "型・ひな型" },
+      { "en": "pattern", "ja": "模様・型" },
+      { "en": "spray paint", "ja": "スプレー塗装" }
+    ],
+    "faq": [
+      { "q": "stencil とは？", "a": "文字や模様を切り抜いた型紙、またそれを使って色を刷ることです。" },
+      { "q": "どう使う？", "a": "名詞は use a stencil（型紙を使う）、動詞は stencil A on B（BにAを刷る）です。" }
+    ],
+    "quiz": [
+      { "q": "stencil（名詞）の意味は？", "A": "切り抜きの型紙", "B": "絵筆", "C": "額縁", "D": "画用紙", "correct": "A" },
+      { "q": "stencil（動詞）の意味は？", "A": "型紙で模様を刷る", "B": "彫刻する", "C": "破り捨てる", "D": "折りたたむ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "stratum",
+    "pron": "ˈstrɑːtəm",
+    "kana": "ストラータム",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "Latin stratum 'spread, layer'",
+    "ld_level": "1級",
+    "badges": ["難関大〜", "英検1級", "CEFR C1", "学術"],
+    "meaning_main": "地層・層／（社会の）階層",
+    "description": "stratum は地質の地層、また社会の階層を表す語。複数形 strata や stratify との関係を解説します。",
+    "keywords": ["stratum 意味", "stratum 使い方", "地層", "strata"],
+    "meanings": [
+      { "hinshi": "【名詞】地層・層", "note": "重なってできた一つの層。岩石・土・組織などの層。" },
+      { "hinshi": "【名詞】（社会の）階層", "note": "社会を構成する階級・層。a social stratum。" }
+    ],
+    "usages": [
+      { "title": "① 地層", "desc": "重なった層。", "example_en": "Each stratum reveals a different era.", "example_ja": "それぞれの地層が異なる時代を物語る。" },
+      { "title": "② 社会階層", "desc": "社会の層。", "example_en": "people from every social stratum", "example_ja": "あらゆる社会階層の人々" }
+    ],
+    "warn": ["複数形は strata（ストラータ）。動詞 stratify（層化する）、形容詞 stratified と同根。a strata とは言わない（単数は a stratum）。"],
+    "etym_note": "ラテン語 stratum（敷かれたもの・層、sternere＝敷く から）に由来。",
+    "etym_chain": [
+      { "node": "stratum", "sub": "層（ラテン語）", "era": "古代" },
+      { "node": "stratum", "sub": "地層・階層", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rock stratum", "ja": "岩の地層" },
+      { "en": "a social stratum", "ja": "社会階層" },
+      { "en": "layers of strata", "ja": "幾重もの地層" },
+      { "en": "the lowest stratum", "ja": "最下層" },
+      { "en": "every stratum of society", "ja": "社会のあらゆる層" },
+      { "en": "geological strata", "ja": "地質の地層" }
+    ],
+    "related": [
+      { "en": "strata", "ja": "地層・階層（複数形）" },
+      { "en": "stratify", "ja": "層化する（動詞）" },
+      { "en": "layer", "ja": "層" }
+    ],
+    "faq": [
+      { "q": "stratum とは？", "a": "重なってできた一つの層（地層）、また社会の階層を表す語です。" },
+      { "q": "複数形は？", "a": "strata（ストラータ）です。単数は a stratum です。" }
+    ],
+    "quiz": [
+      { "q": "stratum の意味は？", "A": "地層・（社会の）階層", "B": "頂点", "C": "境界線", "D": "中心点", "correct": "A" },
+      { "q": "stratum の複数形は？", "A": "strata", "B": "stratums", "C": "strati", "D": "stratae", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sycamore",
+    "pron": "ˈsɪkəmɔːr",
+    "kana": "シカモア",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "Greek sykomoros",
+    "ld_level": "1級",
+    "badges": ["難関大〜", "英検1級", "CEFR C1", "自然"],
+    "meaning_main": "スズカケノキ（プラタナス）／カエデの一種",
+    "description": "sycamore はプラタナス（スズカケノキ）やカエデの一種を指す樹木名。地域による意味の違いを解説します。",
+    "keywords": ["sycamore 意味", "sycamore 使い方", "プラタナス", "樹木"],
+    "meanings": [
+      { "hinshi": "【名詞】スズカケノキ／カエデの一種", "note": "大きな葉を持つ街路樹。英米で指す具体的な木がやや異なる。" }
+    ],
+    "usages": [
+      { "title": "① 街路樹", "desc": "大きな木。", "example_en": "Tall sycamores lined the avenue.", "example_ja": "背の高いプラタナスが大通りに並んでいた。" },
+      { "title": "② 木材・葉", "desc": "樹木として。", "example_en": "The leaves of the sycamore turned brown.", "example_ja": "スズカケノキの葉が茶色く色づいた。" }
+    ],
+    "warn": ["イギリスでは主にカエデの一種、北米ではプラタナス（スズカケノキ）を指すなど、地域で指す木がやや異なる。発音は「シカモア」。"],
+    "etym_note": "ギリシャ語 sykomoros（sykon＝イチジク＋moron＝桑 から）に由来する樹木名。",
+    "etym_chain": [
+      { "node": "sykomoros", "sub": "樹木名（ギリシャ語）", "era": "古代" },
+      { "node": "sycamore", "sub": "スズカケノキ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a sycamore tree", "ja": "スズカケノキ" },
+      { "en": "tall sycamores", "ja": "背の高いプラタナス" },
+      { "en": "under the sycamore", "ja": "スズカケノキの下で" },
+      { "en": "sycamore leaves", "ja": "スズカケノキの葉" },
+      { "en": "a row of sycamores", "ja": "プラタナス並木" },
+      { "en": "sycamore wood", "ja": "シカモアの木材" }
+    ],
+    "related": [
+      { "en": "maple", "ja": "カエデ" },
+      { "en": "plane tree", "ja": "プラタナス" },
+      { "en": "tree", "ja": "木" }
+    ],
+    "faq": [
+      { "q": "sycamore とは？", "a": "大きな葉を持つ樹木で、プラタナス（スズカケノキ）やカエデの一種を指します。" },
+      { "q": "国による違いは？", "a": "イギリスでは主にカエデの一種、北米ではプラタナスを指すなど、地域で指す木がやや異なります。" }
+    ],
+    "quiz": [
+      { "q": "sycamore とは何？", "A": "樹木（プラタナス／カエデの一種）", "B": "鳥", "C": "魚", "D": "鉱物", "correct": "A" },
+      { "q": "sycamore に関連する木は？", "A": "maple（カエデ）", "B": "cactus（サボテン）", "C": "bamboo（竹）", "D": "moss（コケ）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "synapse",
+    "pron": "ˈsaɪnæps",
+    "kana": "サイナプス",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "Greek synapsis 'junction'",
+    "ld_level": "1級",
+    "badges": ["難関大〜", "英検1級", "CEFR C1", "科学"],
+    "meaning_main": "シナプス（神経細胞間の接合部）",
+    "description": "synapse は神経細胞どうしが信号をやり取りする接合部（シナプス）を表す語。語源「結合」を解説します。",
+    "keywords": ["synapse 意味", "synapse 使い方", "シナプス", "神経"],
+    "meanings": [
+      { "hinshi": "【名詞】シナプス", "note": "ニューロン（神経細胞）どうしが信号を伝え合う、わずかなすき間の接合部。" }
+    ],
+    "usages": [
+      { "title": "① 神経科学", "desc": "信号の中継点。", "example_en": "Signals cross the synapse between neurons.", "example_ja": "信号はニューロン間のシナプスを越えて伝わる。" },
+      { "title": "② 学習との関連", "desc": "つながりが変化。", "example_en": "Learning strengthens synapses in the brain.", "example_ja": "学習は脳のシナプスを強化する。" }
+    ],
+    "warn": ["形容詞は synaptic（シナプスの）。ニューロン間の信号伝達の「接合部・すき間」を指す神経科学の語。"],
+    "etym_note": "ギリシャ語 synapsis（syn＝共に＋hapsis＝つかむこと）に由来。「結合・接合」の意。",
+    "etym_chain": [
+      { "node": "synapsis", "sub": "結合（ギリシャ語）", "era": "古代" },
+      { "node": "synapse", "sub": "シナプス", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "cross a synapse", "ja": "シナプスを越える" },
+      { "en": "synaptic connection", "ja": "シナプス結合" },
+      { "en": "neurons and synapses", "ja": "ニューロンとシナプス" },
+      { "en": "strengthen synapses", "ja": "シナプスを強化する" },
+      { "en": "a chemical synapse", "ja": "化学シナプス" },
+      { "en": "fire across the synapse", "ja": "シナプスを越えて発火する" }
+    ],
+    "related": [
+      { "en": "neuron", "ja": "ニューロン・神経細胞" },
+      { "en": "synaptic", "ja": "シナプスの（形容詞）" },
+      { "en": "nerve", "ja": "神経" }
+    ],
+    "faq": [
+      { "q": "synapse とは？", "a": "神経細胞（ニューロン）どうしが信号を伝え合う接合部（すき間）のことです。" },
+      { "q": "形容詞形は？", "a": "synaptic（シナプスの）です。" }
+    ],
+    "quiz": [
+      { "q": "synapse とは？", "A": "神経細胞間の接合部", "B": "骨の関節", "C": "血管の弁", "D": "皮膚の層", "correct": "A" },
+      { "q": "synapse の形容詞形は？", "A": "synaptic", "B": "synapsal", "C": "synapsic", "D": "synapsous", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sumac",
+    "pron": "ˈsuːmæk",
+    "kana": "スーマック",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "Arabic summaq",
+    "ld_level": "1級",
+    "badges": ["難関大〜", "英検1級", "CEFR C1", "自然・食"],
+    "meaning_main": "ウルシ科の低木／（中東料理の）スマック（赤い香辛料）",
+    "description": "sumac はウルシ科の低木、またその実から作る中東料理の赤い酸味のある香辛料を表す語。語源を解説します。",
+    "keywords": ["sumac 意味", "sumac 使い方", "スマック", "香辛料"],
+    "meanings": [
+      { "hinshi": "【名詞】ウルシ科の低木", "note": "秋に赤く色づく葉や実をつける低木。一部はかぶれを起こす（poison sumac）。" },
+      { "hinshi": "【名詞】スマック（香辛料）", "note": "実を乾燥・粉末にした、赤くて酸味のある中東料理の香辛料。" }
+    ],
+    "usages": [
+      { "title": "① 植物", "desc": "ウルシ科の木。", "example_en": "The sumac turned bright red in autumn.", "example_ja": "そのウルシ科の木は秋に真っ赤に色づいた。" },
+      { "title": "② 香辛料", "desc": "酸味の赤い粉。", "example_en": "Sprinkle sumac over the salad.", "example_ja": "サラダにスマックを振りかける。" }
+    ],
+    "warn": ["綴りは sumac（sumach とも）。香辛料としては中東料理で酸味づけに使う。poison sumac（ドクウルシ）はかぶれを起こすので注意。"],
+    "etym_note": "アラビア語 summaq に由来する語。中東で古くから香辛料・染料に使われた。",
+    "etym_chain": [
+      { "node": "summaq", "sub": "スマック（アラビア語）", "era": "中世" },
+      { "node": "sumac", "sub": "ウルシ科の木・香辛料", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "ground sumac", "ja": "スマックの粉" },
+      { "en": "a sumac bush", "ja": "ウルシ科の低木" },
+      { "en": "poison sumac", "ja": "ドクウルシ" },
+      { "en": "sprinkle sumac", "ja": "スマックを振りかける" },
+      { "en": "sumac berries", "ja": "スマックの実" },
+      { "en": "red sumac", "ja": "赤いウルシ" }
+    ],
+    "related": [
+      { "en": "spice", "ja": "香辛料" },
+      { "en": "shrub", "ja": "低木" },
+      { "en": "za'atar", "ja": "ザータル（スマックを含む中東の混合香辛料）" }
+    ],
+    "faq": [
+      { "q": "sumac とは？", "a": "ウルシ科の低木、またその実から作る赤くて酸味のある中東料理の香辛料です。" },
+      { "q": "poison sumac とは？", "a": "ドクウルシで、触れるとかぶれを起こす種類です。" }
+    ],
+    "quiz": [
+      { "q": "料理の sumac の特徴は？", "A": "赤くて酸味のある香辛料", "B": "甘い砂糖菓子", "C": "辛い唐辛子", "D": "苦いコーヒー", "correct": "A" },
+      { "q": "sumac の語源（アラビア語）は？", "A": "summaq", "B": "sukkar", "C": "salaam", "D": "sahra", "correct": "A" }
+    ]
+  }
+]
