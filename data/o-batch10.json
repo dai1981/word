@@ -1,0 +1,480 @@
+[
+  {
+    "english": "opaque",
+    "pron": "oʊˈpeɪk",
+    "kana": "オウペイク",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "Latin opacus 'shaded'",
+    "ld_level": "1級",
+    "badges": ["難関大〜", "英検1級", "CEFR C1", "学術"],
+    "meaning_main": "不透明な／（説明などが）難解な",
+    "description": "opaque は光を通さない不透明なさま、また分かりにくいさまを表す語。transparent との対を解説します。",
+    "keywords": ["opaque 意味", "opaque 使い方", "不透明な", "transparent 反意"],
+    "meanings": [
+      { "hinshi": "【形容詞】不透明な", "note": "光を通さず、向こうが見えない。" },
+      { "hinshi": "【形容詞】難解な・分かりにくい", "note": "比喩で、内容が不明瞭な。opaque language（分かりにくい表現）。" }
+    ],
+    "usages": [
+      { "title": "① 不透明な", "desc": "光を通さない。", "example_en": "The glass is opaque.", "example_ja": "そのガラスは不透明だ。" },
+      { "title": "② 難解な", "desc": "分かりにくい。", "example_en": "The rules are rather opaque.", "example_ja": "その規則はかなり分かりにくい。" }
+    ],
+    "warn": ["対義語は transparent（透明な）。中間は translucent（半透明の）。発音は「オウペイク」。比喩で「分かりにくい」意もある。"],
+    "etym_note": "ラテン語 opacus（陰になった・暗い）に由来。",
+    "etym_chain": [
+      { "node": "opacus", "sub": "陰になった（ラテン語）", "era": "古代" },
+      { "node": "opaque", "sub": "不透明な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "opaque glass", "ja": "不透明なガラス" },
+      { "en": "an opaque material", "ja": "不透明な素材" },
+      { "en": "opaque language", "ja": "分かりにくい表現" },
+      { "en": "become opaque", "ja": "不透明になる" },
+      { "en": "deliberately opaque", "ja": "わざと分かりにくくした" },
+      { "en": "opaque to light", "ja": "光を通さない" }
+    ],
+    "related": [
+      { "en": "transparent", "ja": "透明な（反意）" },
+      { "en": "translucent", "ja": "半透明の" },
+      { "en": "obscure", "ja": "不明瞭な" }
+    ],
+    "faq": [
+      { "q": "opaque の反意語は？", "a": "transparent（透明な）です。半透明は translucent です。" },
+      { "q": "比喩的な意味は？", "a": "「（内容が）難解な・分かりにくい」という意味でも使います。" }
+    ],
+    "quiz": [
+      { "q": "opaque の意味は？", "A": "不透明な", "B": "透明な", "C": "明るい", "D": "丸い", "correct": "A" },
+      { "q": "opaque の反意語は？", "A": "transparent", "B": "opal", "C": "opaline", "D": "opacity", "correct": "A" }
+    ]
+  },
+  {
+    "english": "optimism",
+    "pron": "ˈɒptɪmɪzəm",
+    "kana": "オプティミズム",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "Latin optimus 'best'",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "感情"],
+    "meaning_main": "楽観・楽観主義",
+    "description": "optimism は物事を良いほうに考える楽観・楽観主義を表す語。反意 pessimism との対を解説します。",
+    "keywords": ["optimism 意味", "optimism 使い方", "楽観主義", "pessimism"],
+    "meanings": [
+      { "hinshi": "【名詞】楽観・楽観主義", "note": "将来を明るく考える態度。pessimism の対。" }
+    ],
+    "usages": [
+      { "title": "① 楽観", "desc": "明るい見方。", "example_en": "There is a sense of optimism.", "example_ja": "楽観的な雰囲気がある。" },
+      { "title": "② 根拠ある楽観", "desc": "cautious optimism。", "example_en": "He expressed cautious optimism.", "example_ja": "彼は慎重ながら楽観的な見方を示した。" }
+    ],
+    "warn": ["反意は pessimism（悲観主義）。形容詞 optimistic（楽観的な）、人は optimist（楽観主義者）。語源は optimus（最善）。"],
+    "etym_note": "ラテン語 optimus（最善の）に由来。「最善を期待する態度」の意。",
+    "etym_chain": [
+      { "node": "optimus", "sub": "最善の（ラテン語）", "era": "古代" },
+      { "node": "optimism", "sub": "楽観主義", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a sense of optimism", "ja": "楽観的な雰囲気" },
+      { "en": "cautious optimism", "ja": "慎重な楽観" },
+      { "en": "grounds for optimism", "ja": "楽観の根拠" },
+      { "en": "express optimism", "ja": "楽観的な見方を示す" },
+      { "en": "renewed optimism", "ja": "再びの楽観" },
+      { "en": "optimism about the future", "ja": "将来への楽観" }
+    ],
+    "related": [
+      { "en": "optimistic", "ja": "楽観的な" },
+      { "en": "pessimism", "ja": "悲観主義（反意）" },
+      { "en": "hope", "ja": "希望" }
+    ],
+    "faq": [
+      { "q": "optimism の反意語は？", "a": "pessimism（悲観主義）です。" },
+      { "q": "形容詞・人を表す語は？", "a": "形容詞は optimistic（楽観的な）、人は optimist（楽観主義者）です。" }
+    ],
+    "quiz": [
+      { "q": "optimism の意味は？", "A": "楽観・楽観主義", "B": "悲観", "C": "無関心", "D": "怒り", "correct": "A" },
+      { "q": "optimism の反意語は？", "A": "pessimism", "B": "optimist", "C": "option", "D": "optics", "correct": "A" }
+    ]
+  },
+  {
+    "english": "optimistic",
+    "pron": "ˌɒptɪˈmɪstɪk",
+    "kana": "オプティミスティック",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "from optimism",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "感情"],
+    "meaning_main": "楽観的な・前向きな",
+    "description": "optimistic は将来を明るく考える楽観的なさまを表す語。be optimistic about の用法や pessimistic との対を解説します。",
+    "keywords": ["optimistic 意味", "optimistic 使い方", "楽観的", "pessimistic"],
+    "meanings": [
+      { "hinshi": "【形容詞】楽観的な・前向きな", "note": "物事が良くなると考える。be optimistic about ~（〜に楽観的だ）。" }
+    ],
+    "usages": [
+      { "title": "① 楽観的", "desc": "前向き。", "example_en": "She is optimistic about the future.", "example_ja": "彼女は将来に楽観的だ。" },
+      { "title": "② 見通し", "desc": "明るい予想。", "example_en": "an optimistic forecast", "example_ja": "楽観的な予測" }
+    ],
+    "warn": ["be optimistic about ~（〜について楽観的）。反意は pessimistic（悲観的な）。名詞は optimism、人は optimist。"],
+    "etym_note": "optimism（楽観主義、ラテン語 optimus＝最善 から）の形容詞形。",
+    "etym_chain": [
+      { "node": "optimus", "sub": "最善の（ラテン語）", "era": "古代" },
+      { "node": "optimistic", "sub": "楽観的な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "optimistic about", "ja": "〜に楽観的な" },
+      { "en": "remain optimistic", "ja": "楽観的なままでいる" },
+      { "en": "an optimistic view", "ja": "楽観的な見方" },
+      { "en": "overly optimistic", "ja": "楽観的すぎる" },
+      { "en": "cautiously optimistic", "ja": "慎重ながら楽観的な" },
+      { "en": "an optimistic outlook", "ja": "楽観的な見通し" }
+    ],
+    "related": [
+      { "en": "optimism", "ja": "楽観主義" },
+      { "en": "pessimistic", "ja": "悲観的な（反意）" },
+      { "en": "hopeful", "ja": "希望に満ちた" }
+    ],
+    "faq": [
+      { "q": "optimistic とは？", "a": "物事が良くなると考える、楽観的・前向きなさまを表す形容詞です。" },
+      { "q": "反意語は？", "a": "pessimistic（悲観的な）です。" }
+    ],
+    "quiz": [
+      { "q": "be optimistic about the future の意味は？", "A": "将来に楽観的だ", "B": "将来を心配する", "C": "将来を忘れる", "D": "将来を恐れる", "correct": "A" },
+      { "q": "optimistic の反意語は？", "A": "pessimistic", "B": "optional", "C": "optical", "D": "optimal", "correct": "A" }
+    ]
+  },
+  {
+    "english": "optional",
+    "pron": "ˈɒpʃənl",
+    "kana": "オプショナル",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "from option",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本"],
+    "meaning_main": "任意の・自由選択の（必須でない）",
+    "description": "optional は選んでも選ばなくてもよい、任意のさまを表す語。反意 compulsory/mandatory との対を解説します。",
+    "keywords": ["optional 意味", "optional 使い方", "任意の", "compulsory"],
+    "meanings": [
+      { "hinshi": "【形容詞】任意の・自由選択の", "note": "義務ではなく、選べる。an optional subject（選択科目）。" }
+    ],
+    "usages": [
+      { "title": "① 任意の", "desc": "必須でない。", "example_en": "Attendance is optional.", "example_ja": "出席は任意だ。" },
+      { "title": "② 選択の", "desc": "選べる。", "example_en": "an optional extra", "example_ja": "任意の追加オプション" }
+    ],
+    "warn": ["反意は compulsory / mandatory / required（必須の）。an optional subject（選択科目）。名詞は option（選択肢）。"],
+    "etym_note": "option（選択、ラテン語 optio から）の形容詞形。「選べる」の意。",
+    "etym_chain": [
+      { "node": "optio", "sub": "選択（ラテン語）", "era": "古代" },
+      { "node": "optional", "sub": "任意の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an optional subject", "ja": "選択科目" },
+      { "en": "purely optional", "ja": "まったく任意の" },
+      { "en": "an optional extra", "ja": "任意の追加" },
+      { "en": "optional equipment", "ja": "オプション装備" },
+      { "en": "make it optional", "ja": "任意にする" },
+      { "en": "optional attendance", "ja": "任意の出席" }
+    ],
+    "related": [
+      { "en": "option", "ja": "選択肢" },
+      { "en": "compulsory", "ja": "必須の（反意）" },
+      { "en": "mandatory", "ja": "義務的な（反意）" }
+    ],
+    "faq": [
+      { "q": "optional とは？", "a": "義務ではなく、選んでも選ばなくてもよい（任意の）さまを表す形容詞です。" },
+      { "q": "反意語は？", "a": "compulsory / mandatory / required（必須の・義務的な）です。" }
+    ],
+    "quiz": [
+      { "q": "Attendance is optional. の意味は？", "A": "出席は任意だ", "B": "出席は必須だ", "C": "出席は禁止だ", "D": "出席は無料だ", "correct": "A" },
+      { "q": "optional の反意語は？", "A": "compulsory", "B": "optical", "C": "optimal", "D": "operational", "correct": "A" }
+    ]
+  },
+  {
+    "english": "orient",
+    "pron": "ˈɔːriɛnt",
+    "kana": "オーリエント",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "verb / noun",
+    "ld_etym": "Latin oriens 'rising (sun)'",
+    "ld_level": "1級",
+    "badges": ["難関大〜", "英検1級", "CEFR C1", "学術"],
+    "meaning_main": "（動）方向づける・適応させる／（the Orient で）東洋",
+    "description": "orient は「方向づける・適応させる」動詞、また the Orient で「東洋」。orient oneself や orientation を解説します。",
+    "keywords": ["orient 意味", "orient 使い方", "方向づける", "orientation"],
+    "meanings": [
+      { "hinshi": "【動詞】方向づける・適応させる", "note": "目的・状況に向ける、慣れさせる。orient oneself（方角・状況をつかむ）。" },
+      { "hinshi": "【名詞】the Orient（東洋）", "note": "（やや古い語）アジア・東洋。" }
+    ],
+    "usages": [
+      { "title": "① 適応する", "desc": "向ける・慣れる。", "example_en": "It took time to orient myself.", "example_ja": "状況をつかむのに時間がかかった。" },
+      { "title": "② 方向づける", "desc": "向ける。", "example_en": "The course is oriented toward beginners.", "example_ja": "その講座は初心者向けだ。" }
+    ],
+    "warn": ["orient oneself（方角・状況を把握する）、be oriented toward ~（〜に向けられている）。名詞 orientation（方向づけ・新人研修・オリエンテーション）。語源は「日の昇る方角＝東」。"],
+    "etym_note": "ラテン語 oriens（昇る太陽＝東）に由来。地図を東に合わせたことから「方向づける」の意に。",
+    "etym_chain": [
+      { "node": "oriens", "sub": "昇る太陽・東（ラテン語）", "era": "古代" },
+      { "node": "orient", "sub": "方向づける・東洋", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "orient oneself", "ja": "方角・状況をつかむ" },
+      { "en": "be oriented toward", "ja": "〜に向けられている" },
+      { "en": "orientation", "ja": "方向づけ・新人研修" },
+      { "en": "customer-oriented", "ja": "顧客志向の" },
+      { "en": "the Orient", "ja": "東洋" },
+      { "en": "reorient", "ja": "方向を見直す" }
+    ],
+    "related": [
+      { "en": "orientation", "ja": "方向づけ・オリエンテーション" },
+      { "en": "oriental", "ja": "東洋の" },
+      { "en": "direct", "ja": "向ける" }
+    ],
+    "faq": [
+      { "q": "orient oneself とは？", "a": "「（新しい場所で）方角や状況を把握する・慣れる」という意味です。" },
+      { "q": "名詞形は？", "a": "orientation（方向づけ・新人研修・適応）です。" }
+    ],
+    "quiz": [
+      { "q": "orient oneself の意味は？", "A": "方角・状況をつかむ", "B": "道に迷う", "C": "立ち止まる", "D": "引き返す", "correct": "A" },
+      { "q": "orient の名詞形は？", "A": "orientation", "B": "orientment", "C": "oriency", "D": "orienture", "correct": "A" }
+    ]
+  },
+  {
+    "english": "outrage",
+    "pron": "ˈaʊtreɪdʒ",
+    "kana": "アウトレイジ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "noun / verb",
+    "ld_etym": "Old French outrage 'excess'",
+    "ld_level": "1級",
+    "badges": ["難関大〜", "英検1級", "CEFR C1", "感情"],
+    "meaning_main": "激しい怒り・憤慨／非道な行為／激怒させる",
+    "description": "outrage は激しい怒り、また人を激怒させるような非道な行為を表す語。形容詞 outrageous を解説します。",
+    "keywords": ["outrage 意味", "outrage 使い方", "激怒", "outrageous"],
+    "meanings": [
+      { "hinshi": "【名詞】激しい怒り・憤慨", "note": "ひどい行為に対する強い怒り。public outrage（世論の憤慨）。" },
+      { "hinshi": "【名詞】非道な行為", "note": "人を怒らせる暴挙・蛮行。" },
+      { "hinshi": "【動詞】激怒させる", "note": "多く受け身 be outraged（激怒する）。" }
+    ],
+    "usages": [
+      { "title": "① 怒り", "desc": "憤慨。", "example_en": "The decision caused public outrage.", "example_ja": "その決定は世論の憤慨を招いた。" },
+      { "title": "② 激怒する", "desc": "be outraged。", "example_en": "People were outraged by the news.", "example_ja": "人々はその知らせに激怒した。" }
+    ],
+    "warn": ["be outraged by/at ~（〜に激怒する）。public outrage（世論の怒り）。語源は「度を越すこと」で over とは無関係（out + rage の連想は誤り）。"],
+    "etym_note": "古フランス語 outrage（過度・暴挙、ラテン語 ultra＝越えて から）に由来。rage（怒り）とは語源的に別。",
+    "etym_chain": [
+      { "node": "outrage", "sub": "過度・暴挙（古フランス語）", "era": "中世" },
+      { "node": "outrage", "sub": "激怒・非道な行為", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "public outrage", "ja": "世論の憤慨" },
+      { "en": "be outraged by", "ja": "〜に激怒する" },
+      { "en": "express outrage", "ja": "憤りを示す" },
+      { "en": "a sense of outrage", "ja": "憤りの感情" },
+      { "en": "cause outrage", "ja": "憤激を引き起こす" },
+      { "en": "moral outrage", "ja": "道義的な怒り" }
+    ],
+    "related": [
+      { "en": "outrageous", "ja": "言語道断の・とんでもない" },
+      { "en": "fury", "ja": "激怒" },
+      { "en": "indignation", "ja": "（不正への）憤り" }
+    ],
+    "faq": [
+      { "q": "outrage とは？", "a": "ひどい行為に対する激しい怒り（憤慨）、またそうした非道な行為、人を激怒させること（動詞）です。" },
+      { "q": "形容詞形は？", "a": "outrageous（言語道断の・とんでもない）です。" }
+    ],
+    "quiz": [
+      { "q": "public outrage の意味は？", "A": "世論の憤慨", "B": "公の祝賀", "C": "公的支援", "D": "公開討論", "correct": "A" },
+      { "q": "be outraged by の意味は？", "A": "〜に激怒する", "B": "〜に感謝する", "C": "〜に同意する", "D": "〜に飽きる", "correct": "A" }
+    ]
+  },
+  {
+    "english": "outrageous",
+    "pron": "aʊtˈreɪdʒəs",
+    "kana": "アウトレイジャス",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "from outrage",
+    "ld_level": "1級",
+    "badges": ["難関大〜", "英検1級", "CEFR C1", "評価"],
+    "meaning_main": "言語道断の・とんでもない／（程度が）法外な・突飛な",
+    "description": "outrageous は許しがたいほどひどい、または常識外れに突飛・法外なさまを表す語。両方のニュアンスを解説します。",
+    "keywords": ["outrageous 意味", "outrageous 使い方", "言語道断", "法外な"],
+    "meanings": [
+      { "hinshi": "【形容詞】言語道断の・許しがたい", "note": "ひどくて怒りを招く。outrageous behavior（とんでもない行為）。" },
+      { "hinshi": "【形容詞】法外な・突飛な", "note": "程度が並外れている。outrageous prices（法外な値段）。" }
+    ],
+    "usages": [
+      { "title": "① 言語道断", "desc": "許しがたい。", "example_en": "That's an outrageous lie.", "example_ja": "それはとんでもない嘘だ。" },
+      { "title": "② 法外な", "desc": "並外れた。", "example_en": "outrageous prices", "example_ja": "法外な値段" }
+    ],
+    "warn": ["「許しがたいほどひどい」と「常識外れに突飛・派手」の両方に使う。後者は時に肯定的（outrageous fashion＝大胆なファッション）。"],
+    "etym_note": "outrage（過度・暴挙）の形容詞形。「度を越した」が原義。",
+    "etym_chain": [
+      { "node": "outrage", "sub": "過度・暴挙", "era": "中世" },
+      { "node": "outrageous", "sub": "言語道断の・法外な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "outrageous behavior", "ja": "とんでもない行為" },
+      { "en": "outrageous prices", "ja": "法外な値段" },
+      { "en": "an outrageous lie", "ja": "ひどい嘘" },
+      { "en": "absolutely outrageous", "ja": "まったく言語道断の" },
+      { "en": "outrageous claims", "ja": "突飛な主張" },
+      { "en": "outrageous fashion", "ja": "大胆なファッション" }
+    ],
+    "related": [
+      { "en": "outrage", "ja": "激怒・暴挙（名詞）" },
+      { "en": "shocking", "ja": "衝撃的な" },
+      { "en": "scandalous", "ja": "けしからぬ" }
+    ],
+    "faq": [
+      { "q": "outrageous とは？", "a": "許しがたいほどひどい、または常識外れに突飛・法外なさまを表す形容詞です。" },
+      { "q": "肯定的にも使う？", "a": "はい。「大胆で派手な（ファッションなど）」という意味で肯定的に使うこともあります。" }
+    ],
+    "quiz": [
+      { "q": "outrageous prices の意味は？", "A": "法外な値段", "B": "手ごろな値段", "C": "定価", "D": "割引価格", "correct": "A" },
+      { "q": "outrageous の名詞形は？", "A": "outrage", "B": "outrageness", "C": "outragement", "D": "outragity", "correct": "A" }
+    ]
+  },
+  {
+    "english": "overall",
+    "pron": "ˌoʊvərˈɔːl",
+    "kana": "オウヴァーオール",
+    "hinshi": "形容詞 / 副詞 / 名詞",
+    "ld_pos": "adjective / adverb / noun",
+    "ld_etym": "over + all",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本"],
+    "meaning_main": "全体の・総合的な／全体として／（名詞で）作業着",
+    "description": "overall は「全体の・総合的な」を表す形容詞・副詞、また名詞で作業着（overalls）。用法を解説します。",
+    "keywords": ["overall 意味", "overall 使い方", "全体の", "overalls"],
+    "meanings": [
+      { "hinshi": "【形容詞】全体の・総合的な", "note": "細部でなく全体としての。the overall cost（総費用）。" },
+      { "hinshi": "【副詞】全体として", "note": "総じて。Overall, it went well." },
+      { "hinshi": "【名詞】作業着（overalls）", "note": "複数形で胸当て付きのつなぎ・オーバーオール。" }
+    ],
+    "usages": [
+      { "title": "① 全体の", "desc": "総合的な。", "example_en": "the overall result", "example_ja": "全体の結果" },
+      { "title": "② 全体として", "desc": "総じて。", "example_en": "Overall, I'm satisfied.", "example_ja": "全体として、私は満足だ。" }
+    ],
+    "warn": ["副詞 overall（全体として）は文頭でよく使う。名詞 overalls（複数形）は胸当て付きの作業着。アクセントは形容詞・副詞でやや異なる。"],
+    "etym_note": "over（全体に）＋ all（すべて）から。「全体にわたる」の意。",
+    "etym_chain": [
+      { "node": "over + all", "sub": "全体に＋すべて", "era": "近代" },
+      { "node": "overall", "sub": "全体の・作業着", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the overall cost", "ja": "総費用" },
+      { "en": "overall, ...", "ja": "全体として、…" },
+      { "en": "the overall result", "ja": "全体の結果" },
+      { "en": "overall performance", "ja": "総合的な成績" },
+      { "en": "a pair of overalls", "ja": "オーバーオール一着" },
+      { "en": "the overall picture", "ja": "全体像" }
+    ],
+    "related": [
+      { "en": "total", "ja": "合計の" },
+      { "en": "general", "ja": "全般的な" },
+      { "en": "comprehensive", "ja": "包括的な" }
+    ],
+    "faq": [
+      { "q": "overall の主な意味は？", "a": "形容詞・副詞「全体の・全体として」、名詞（複数 overalls）「作業着（オーバーオール）」です。" },
+      { "q": "文頭の Overall, とは？", "a": "「全体として・総じて」と全体をまとめる副詞用法です。" }
+    ],
+    "quiz": [
+      { "q": "the overall cost の意味は？", "A": "総費用・全体の費用", "B": "一部の費用", "C": "追加費用", "D": "無料", "correct": "A" },
+      { "q": "overalls（複数形）の意味は？", "A": "作業着（オーバーオール）", "B": "外套", "C": "帽子", "D": "手袋", "correct": "A" }
+    ]
+  },
+  {
+    "english": "overwhelm",
+    "pron": "ˌoʊvərˈwɛlm",
+    "kana": "オウヴァーウェルム",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "over + whelm 'submerge'",
+    "ld_level": "1級",
+    "badges": ["難関大〜", "英検1級", "CEFR C1", "感情"],
+    "meaning_main": "圧倒する・打ちのめす／（感情で）いっぱいにする",
+    "description": "overwhelm は数・力・感情で圧倒し打ちのめすことを表す語。be overwhelmed by の用法を解説します。",
+    "keywords": ["overwhelm 意味", "overwhelm 使い方", "圧倒する", "overwhelmed"],
+    "meanings": [
+      { "hinshi": "【動詞】圧倒する・打ちのめす", "note": "数・力・感情などで完全に上回る。多く受け身 be overwhelmed by ~。" }
+    ],
+    "usages": [
+      { "title": "① 圧倒する", "desc": "上回る。", "example_en": "They overwhelmed the enemy.", "example_ja": "彼らは敵を圧倒した。" },
+      { "title": "② 感情で", "desc": "be overwhelmed。", "example_en": "She was overwhelmed by the support.", "example_ja": "彼女は支援に胸がいっぱいになった。" }
+    ],
+    "warn": ["be overwhelmed by/with ~（〜に圧倒される・いっぱいになる）。形容詞 overwhelming（圧倒的な）が頻出。"],
+    "etym_note": "over（上から）＋ whelm（水に沈める・覆う）から。「すっかり覆い尽くす＝圧倒する」の意。",
+    "etym_chain": [
+      { "node": "over + whelm", "sub": "上から＋沈める", "era": "中世" },
+      { "node": "overwhelm", "sub": "圧倒する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be overwhelmed by", "ja": "〜に圧倒される" },
+      { "en": "overwhelm the enemy", "ja": "敵を圧倒する" },
+      { "en": "overwhelmed with emotion", "ja": "感情でいっぱいになって" },
+      { "en": "an overwhelming majority", "ja": "圧倒的多数" },
+      { "en": "feel overwhelmed", "ja": "いっぱいいっぱいになる" },
+      { "en": "overwhelming evidence", "ja": "圧倒的な証拠" }
+    ],
+    "related": [
+      { "en": "overwhelming", "ja": "圧倒的な（形容詞）" },
+      { "en": "overpower", "ja": "力で圧倒する" },
+      { "en": "swamp", "ja": "（仕事などが）殺到する" }
+    ],
+    "faq": [
+      { "q": "be overwhelmed by とは？", "a": "「〜に圧倒される・（感情で）胸がいっぱいになる」という意味です。" },
+      { "q": "形容詞形は？", "a": "overwhelming（圧倒的な）です（an overwhelming majority＝圧倒的多数）。" }
+    ],
+    "quiz": [
+      { "q": "be overwhelmed by の意味は？", "A": "〜に圧倒される", "B": "〜を無視する", "C": "〜を支配する", "D": "〜に勝つ", "correct": "A" },
+      { "q": "an overwhelming majority の意味は？", "A": "圧倒的多数", "B": "わずかな差", "C": "少数派", "D": "全会一致", "correct": "A" }
+    ]
+  },
+  {
+    "english": "overflow",
+    "pron": "ˌoʊvərˈfloʊ",
+    "kana": "オウヴァーフロウ",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "verb / noun",
+    "ld_etym": "over + flow",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "学術"],
+    "meaning_main": "あふれる・あふれさせる／あふれること・氾濫",
+    "description": "overflow は容器・川などがあふれること、また感情があふれることを表す語。be filled to overflowing の用法を解説します。",
+    "keywords": ["overflow 意味", "overflow 使い方", "あふれる", "氾濫"],
+    "meanings": [
+      { "hinshi": "【動詞】あふれる・あふれさせる", "note": "容器・川などが満ちてあふれる。比喩で感情があふれる。" },
+      { "hinshi": "【名詞】あふれること・氾濫", "note": "あふれた状態・あふれた分。an overflow of water。" }
+    ],
+    "usages": [
+      { "title": "① あふれる", "desc": "満ちて出る。", "example_en": "The river overflowed its banks.", "example_ja": "川が堤防からあふれた。" },
+      { "title": "② 感情・人で", "desc": "あふれる。", "example_en": "Her heart overflowed with joy.", "example_ja": "彼女の心は喜びであふれた。" }
+    ],
+    "warn": ["overflow with ~（〜であふれる）、be filled to overflowing（あふれるほど満ちて）。IT では overflow（オーバーフロー＝あふれ）も。"],
+    "etym_note": "over（越えて）＋ flow（流れる）から。「越えて流れ出る＝あふれる」の意。",
+    "etym_chain": [
+      { "node": "over + flow", "sub": "越えて＋流れる", "era": "古英語" },
+      { "node": "overflow", "sub": "あふれる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "overflow with", "ja": "〜であふれる" },
+      { "en": "overflow its banks", "ja": "堤防からあふれる" },
+      { "en": "filled to overflowing", "ja": "あふれるほど満ちて" },
+      { "en": "an overflow of water", "ja": "水のあふれ" },
+      { "en": "overflow with emotion", "ja": "感情があふれる" },
+      { "en": "the overflow crowd", "ja": "あふれた群衆" }
+    ],
+    "related": [
+      { "en": "flood", "ja": "洪水・氾濫させる" },
+      { "en": "spill", "ja": "こぼれる" },
+      { "en": "brim", "ja": "縁・あふれそうになる" }
+    ],
+    "faq": [
+      { "q": "overflow とは？", "a": "容器・川などが満ちてあふれること、また感情があふれることです。名詞では「あふれ・氾濫」です。" },
+      { "q": "overflow with とは？", "a": "「〜であふれる・満ちあふれる」という意味です（例: overflow with joy）。" }
+    ],
+    "quiz": [
+      { "q": "The river overflowed its banks. の意味は？", "A": "川が堤防からあふれた", "B": "川が干上がった", "C": "川が凍った", "D": "川が澄んだ", "correct": "A" },
+      { "q": "overflow の成り立ちは？", "A": "over（越えて）＋ flow（流れる）", "B": "over＋floor", "C": "off＋low", "D": "our＋flow", "correct": "A" }
+    ]
+  }
+]
