@@ -1,0 +1,474 @@
+[
+  {
+    "english": "objective",
+    "pron": "əbˈdʒɛktɪv",
+    "kana": "オブジェクティブ",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "noun / adjective",
+    "ld_etym": "from object",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "学術"],
+    "meaning_main": "目標・目的／客観的な",
+    "description": "objective は「目標・目的」を表す名詞、また「客観的な」を表す形容詞。反意 subjective との対を解説します。",
+    "keywords": ["objective 意味", "objective 使い方", "客観的な", "目標"],
+    "meanings": [
+      { "hinshi": "【名詞】目標・目的", "note": "達成しようとする具体的な目標。the main objective（主目標）。" },
+      { "hinshi": "【形容詞】客観的な", "note": "個人の感情に左右されない。an objective view（客観的な見方）。subjective の対。" }
+    ],
+    "usages": [
+      { "title": "① 名詞", "desc": "目標。", "example_en": "Our main objective is growth.", "example_ja": "私たちの主目標は成長だ。" },
+      { "title": "② 形容詞", "desc": "客観的な。", "example_en": "We need an objective opinion.", "example_ja": "客観的な意見が必要だ。" }
+    ],
+    "warn": ["形容詞の反意は subjective（主観的な）。名詞は goal/aim に近い「目標」。副詞 objectively（客観的に）。object（物・反対する）と同根。"],
+    "etym_note": "object（前に投げ出されたもの）に由来。「対象＝目指すもの／対象として見る＝客観的」の意。",
+    "etym_chain": [
+      { "node": "obicere", "sub": "前に投げる（ラテン語）", "era": "古代" },
+      { "node": "objective", "sub": "目標・客観的な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the main objective", "ja": "主目標" },
+      { "en": "achieve an objective", "ja": "目標を達成する" },
+      { "en": "an objective view", "ja": "客観的な見方" },
+      { "en": "remain objective", "ja": "客観的でいる" },
+      { "en": "objective facts", "ja": "客観的事実" },
+      { "en": "a clear objective", "ja": "明確な目標" }
+    ],
+    "related": [
+      { "en": "subjective", "ja": "主観的な（反意）" },
+      { "en": "goal", "ja": "目標" },
+      { "en": "aim", "ja": "目的・狙い" }
+    ],
+    "faq": [
+      { "q": "objective の二つの意味は？", "a": "名詞「目標・目的」と、形容詞「客観的な」です。" },
+      { "q": "形容詞の反意語は？", "a": "subjective（主観的な）です。" }
+    ],
+    "quiz": [
+      { "q": "an objective view の意味は？", "A": "客観的な見方", "B": "主観的な見方", "C": "ぼんやりした見方", "D": "偏った見方", "correct": "A" },
+      { "q": "objective（形容詞）の反意語は？", "A": "subjective", "B": "objectional", "C": "objected", "D": "objectless", "correct": "A" }
+    ]
+  },
+  {
+    "english": "obligation",
+    "pron": "ˌɒblɪˈɡeɪʃən",
+    "kana": "オブリゲイション",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "Latin obligatio",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "学術"],
+    "meaning_main": "義務・責任",
+    "description": "obligation は果たすべき義務・責任を表す語。動詞 oblige や have an obligation to の用法を解説します。",
+    "keywords": ["obligation 意味", "obligation 使い方", "義務", "oblige"],
+    "meanings": [
+      { "hinshi": "【名詞】義務・責任", "note": "法律・道徳・約束として果たすべきこと。a legal obligation（法的義務）。" }
+    ],
+    "usages": [
+      { "title": "① 義務", "desc": "果たすべきこと。", "example_en": "We have an obligation to help.", "example_ja": "私たちには助ける義務がある。" },
+      { "title": "② 義務感なしに", "desc": "no obligation。", "example_en": "There is no obligation to buy.", "example_ja": "買う義務はありません。" }
+    ],
+    "warn": ["have an obligation to do（〜する義務がある）、under (an) obligation（義務を負って）、no obligation（義務なし）。動詞 oblige、形容詞 obligatory（義務的な）。"],
+    "etym_note": "ラテン語 obligatio（縛ること、obligare＝縛る から）に由来。oblige と同根。",
+    "etym_chain": [
+      { "node": "obligatio", "sub": "縛ること（ラテン語）", "era": "古代" },
+      { "node": "obligation", "sub": "義務", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "have an obligation to", "ja": "〜する義務がある" },
+      { "en": "a legal obligation", "ja": "法的義務" },
+      { "en": "a moral obligation", "ja": "道義的義務" },
+      { "en": "under no obligation", "ja": "何の義務もなく" },
+      { "en": "fulfill an obligation", "ja": "義務を果たす" },
+      { "en": "without obligation", "ja": "義務なしで" }
+    ],
+    "related": [
+      { "en": "oblige", "ja": "義務づける（動詞）" },
+      { "en": "duty", "ja": "義務・務め" },
+      { "en": "responsibility", "ja": "責任" }
+    ],
+    "faq": [
+      { "q": "obligation とは？", "a": "法律・道徳・約束として果たすべき義務・責任です。" },
+      { "q": "no obligation とは？", "a": "「義務はない（買わなくてもよい等）」という意味で、広告などでよく使われます。" }
+    ],
+    "quiz": [
+      { "q": "have an obligation to help の意味は？", "A": "助ける義務がある", "B": "助けを断る", "C": "助けを求める", "D": "助けを忘れる", "correct": "A" },
+      { "q": "obligation の動詞形は？", "A": "oblige", "B": "obligize", "C": "obligen", "D": "obligent", "correct": "A" }
+    ]
+  },
+  {
+    "english": "occasionally",
+    "pron": "əˈkeɪʒənəli",
+    "kana": "オケイジョナリー",
+    "hinshi": "副詞",
+    "ld_pos": "adverb",
+    "ld_etym": "from occasion",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "基本"],
+    "meaning_main": "時々・たまに",
+    "description": "occasionally は「時々・たまに」を表す頻度の副詞。sometimes / rarely との頻度の位置づけを解説します。",
+    "keywords": ["occasionally 意味", "occasionally 使い方", "時々", "頻度"],
+    "meanings": [
+      { "hinshi": "【副詞】時々・たまに", "note": "頻繁ではないが、ときどき。" }
+    ],
+    "usages": [
+      { "title": "① 頻度", "desc": "たまに。", "example_en": "I occasionally eat out.", "example_ja": "私はたまに外食する。" },
+      { "title": "② 文修飾", "desc": "ときおり。", "example_en": "Occasionally, it rains here.", "example_ja": "ここではときおり雨が降る。" }
+    ],
+    "warn": ["頻度はおおむね always > usually > often > sometimes > occasionally > rarely > never。形容詞 occasional（時々の）。occasion と同根。"],
+    "etym_note": "occasion（時・場合）＋ -al + -ly から。「時々の機会に」の意。",
+    "etym_chain": [
+      { "node": "occasio", "sub": "機会（ラテン語）", "era": "古代" },
+      { "node": "occasionally", "sub": "時々", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "occasionally eat out", "ja": "たまに外食する" },
+      { "en": "only occasionally", "ja": "ごくたまに" },
+      { "en": "occasionally visit", "ja": "ときどき訪れる" },
+      { "en": "very occasionally", "ja": "ごくまれに" },
+      { "en": "occasionally happen", "ja": "ときどき起こる" },
+      { "en": "more than occasionally", "ja": "たまにどころでなく" }
+    ],
+    "related": [
+      { "en": "occasional", "ja": "時々の（形容詞）" },
+      { "en": "sometimes", "ja": "時々" },
+      { "en": "rarely", "ja": "めったに〜ない" }
+    ],
+    "faq": [
+      { "q": "occasionally とは？", "a": "「時々・たまに」という頻度を表す副詞です。" },
+      { "q": "sometimes との違いは？", "a": "ほぼ同じですが、occasionally は「sometimes よりやや頻度が低い」ニュアンスです。" }
+    ],
+    "quiz": [
+      { "q": "occasionally の意味は？", "A": "時々・たまに", "B": "いつも", "C": "決して〜ない", "D": "突然", "correct": "A" },
+      { "q": "occasionally の形容詞形は？", "A": "occasional", "B": "occasionable", "C": "occasive", "D": "occasionate", "correct": "A" }
+    ]
+  },
+  {
+    "english": "obedience",
+    "pron": "əˈbiːdiəns",
+    "kana": "オビーディエンス",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "from obey",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "学術"],
+    "meaning_main": "服従・従順",
+    "description": "obedience は命令や規則に従うこと（服従・従順）を表す語。動詞 obey や形容詞 obedient との関係を解説します。",
+    "keywords": ["obedience 意味", "obedience 使い方", "服従", "obey"],
+    "meanings": [
+      { "hinshi": "【名詞】服従・従順", "note": "命令・規則・権威に従うこと。blind obedience（盲従）。" }
+    ],
+    "usages": [
+      { "title": "① 服従", "desc": "従うこと。", "example_en": "They demanded obedience.", "example_ja": "彼らは服従を要求した。" },
+      { "title": "② しつけ", "desc": "従順さ。", "example_en": "dog obedience training", "example_ja": "犬の服従訓練（しつけ）" }
+    ],
+    "warn": ["動詞 obey（従う）、形容詞 obedient（従順な）。in obedience to ~（〜に従って）、blind obedience（盲従）。反意は disobedience。"],
+    "etym_note": "obey（ラテン語 oboedire＝聞き従う）の名詞形。",
+    "etym_chain": [
+      { "node": "oboedire", "sub": "聞き従う（ラテン語）", "era": "古代" },
+      { "node": "obedience", "sub": "服従・従順", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "blind obedience", "ja": "盲従" },
+      { "en": "demand obedience", "ja": "服従を要求する" },
+      { "en": "in obedience to", "ja": "〜に従って" },
+      { "en": "obedience training", "ja": "服従訓練・しつけ" },
+      { "en": "unquestioning obedience", "ja": "無条件の服従" },
+      { "en": "expect obedience", "ja": "従順さを期待する" }
+    ],
+    "related": [
+      { "en": "obey", "ja": "従う（動詞）" },
+      { "en": "obedient", "ja": "従順な（形容詞）" },
+      { "en": "disobedience", "ja": "不服従（反意）" }
+    ],
+    "faq": [
+      { "q": "obedience とは？", "a": "命令・規則・権威に従うこと（服従・従順）です。" },
+      { "q": "動詞・形容詞は？", "a": "動詞は obey（従う）、形容詞は obedient（従順な）です。" }
+    ],
+    "quiz": [
+      { "q": "blind obedience の意味は？", "A": "盲従（考えずに従うこと）", "B": "公正な裁判", "C": "活発な議論", "D": "強い反抗", "correct": "A" },
+      { "q": "obedience の動詞形は？", "A": "obey", "B": "obese", "C": "obtain", "D": "object", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ominous",
+    "pron": "ˈɒmɪnəs",
+    "kana": "オミナス",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "Latin omen 'omen'",
+    "ld_level": "1級",
+    "badges": ["難関大〜", "英検1級", "CEFR C1", "描写"],
+    "meaning_main": "不吉な・縁起の悪い",
+    "description": "ominous は良くないことが起こりそうな不吉な雰囲気を表す語。名詞 omen（前兆）との関係を解説します。",
+    "keywords": ["ominous 意味", "ominous 使い方", "不吉な", "omen"],
+    "meanings": [
+      { "hinshi": "【形容詞】不吉な・縁起の悪い", "note": "悪いことが起こりそうな。ominous clouds（不吉な雲）。" }
+    ],
+    "usages": [
+      { "title": "① 雰囲気", "desc": "不吉な。", "example_en": "There was an ominous silence.", "example_ja": "不吉な沈黙があった。" },
+      { "title": "② 前ぶれ", "desc": "縁起が悪い。", "example_en": "ominous clouds gathered", "example_ja": "不吉な雲が集まった" }
+    ],
+    "warn": ["名詞 omen（前兆）の形容詞形。「悪い前ぶれを感じさせる」が中心。副詞 ominously（不吉にも）。"],
+    "etym_note": "ラテン語 omen（前兆）に由来。omen と同根で「（悪い）前兆を含む」の意。",
+    "etym_chain": [
+      { "node": "omen", "sub": "前兆（ラテン語）", "era": "古代" },
+      { "node": "ominous", "sub": "不吉な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "ominous clouds", "ja": "不吉な雲" },
+      { "en": "an ominous silence", "ja": "不吉な沈黙" },
+      { "en": "an ominous sign", "ja": "不吉な兆候" },
+      { "en": "look ominous", "ja": "不吉に見える" },
+      { "en": "an ominous warning", "ja": "不吉な警告" },
+      { "en": "ominously quiet", "ja": "不気味なほど静かな" }
+    ],
+    "related": [
+      { "en": "omen", "ja": "前兆（名詞）" },
+      { "en": "threatening", "ja": "脅かすような" },
+      { "en": "sinister", "ja": "不吉な・邪悪な" }
+    ],
+    "faq": [
+      { "q": "ominous とは？", "a": "良くないことが起こりそうな、不吉・縁起の悪い雰囲気を表す形容詞です。" },
+      { "q": "omen との関係は？", "a": "名詞 omen（前兆）の形容詞形です。" }
+    ],
+    "quiz": [
+      { "q": "ominous の意味は？", "A": "不吉な・縁起の悪い", "B": "明るい・幸先のよい", "C": "巨大な", "D": "正確な", "correct": "A" },
+      { "q": "ominous の名詞形（前兆）は？", "A": "omen", "B": "ominance", "C": "ominity", "D": "omintask", "correct": "A" }
+    ]
+  },
+  {
+    "english": "outweigh",
+    "pron": "ˌaʊtˈweɪ",
+    "kana": "アウトウェイ",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "out + weigh",
+    "ld_level": "1級",
+    "badges": ["難関大〜", "英検1級", "CEFR C1", "学術"],
+    "meaning_main": "（重要性・価値で）〜を上回る・まさる",
+    "description": "outweigh は重要性・価値・利点が他を上回ることを表す語。the benefits outweigh the risks の用法を解説します。",
+    "keywords": ["outweigh 意味", "outweigh 使い方", "上回る", "benefits outweigh"],
+    "meanings": [
+      { "hinshi": "【動詞】（重要性・価値で）上回る", "note": "重さ・重要性・価値などで他をまさる。The benefits outweigh the costs." }
+    ],
+    "usages": [
+      { "title": "① 価値で上回る", "desc": "まさる。", "example_en": "The advantages outweigh the disadvantages.", "example_ja": "利点が欠点を上回る。" },
+      { "title": "② リスクと利益", "desc": "上回る。", "example_en": "The benefits outweigh the risks.", "example_ja": "利益がリスクを上回る。" }
+    ],
+    "warn": ["the benefits/advantages outweigh the risks/costs（利益が損失を上回る）が定番。物理的な重さよりも「重要性・価値で勝る」比喩で使うことが多い。"],
+    "etym_note": "out（〜より上回って）＋ weigh（重さがある）から。「重さ・重要性で上回る」の意。",
+    "etym_chain": [
+      { "node": "out + weigh", "sub": "上回って＋重さ", "era": "近代" },
+      { "node": "outweigh", "sub": "上回る", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "outweigh the risks", "ja": "リスクを上回る" },
+      { "en": "benefits outweigh costs", "ja": "利益が費用を上回る" },
+      { "en": "advantages outweigh", "ja": "利点が上回る" },
+      { "en": "far outweigh", "ja": "はるかに上回る" },
+      { "en": "outweigh the drawbacks", "ja": "欠点を上回る" },
+      { "en": "clearly outweigh", "ja": "明らかに上回る" }
+    ],
+    "related": [
+      { "en": "exceed", "ja": "超える" },
+      { "en": "surpass", "ja": "しのぐ" },
+      { "en": "weigh", "ja": "重さがある・重要である" }
+    ],
+    "faq": [
+      { "q": "outweigh とは？", "a": "重さ・重要性・価値などで他を上回る・まさることです。" },
+      { "q": "定番表現は？", "a": "The benefits outweigh the risks/costs.（利益がリスク・費用を上回る）です。" }
+    ],
+    "quiz": [
+      { "q": "The benefits outweigh the risks. の意味は？", "A": "利益がリスクを上回る", "B": "リスクが利益を上回る", "C": "利益もリスクもない", "D": "リスクを避ける", "correct": "A" },
+      { "q": "outweigh の成り立ちは？", "A": "out（上回って）＋ weigh（重さ）", "B": "out＋way", "C": "our＋weigh", "D": "off＋weigh", "correct": "A" }
+    ]
+  },
+  {
+    "english": "overdraft",
+    "pron": "ˈoʊvərdræft",
+    "kana": "オウヴァードラフト",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "over + draft",
+    "ld_level": "1級",
+    "badges": ["難関大〜", "英検1級", "CEFR C1", "ビジネス"],
+    "meaning_main": "（銀行口座の）当座貸越・残高超過の引き出し",
+    "description": "overdraft は銀行口座の残高を超えて引き出すこと（当座貸越）を表す語。be overdrawn との関係を解説します。",
+    "keywords": ["overdraft 意味", "overdraft 使い方", "当座貸越", "残高超過"],
+    "meanings": [
+      { "hinshi": "【名詞】当座貸越・残高超過の引き出し", "note": "口座の残高を超えて（銀行の許す範囲で）引き出すこと・その金額。" }
+    ],
+    "usages": [
+      { "title": "① 当座貸越", "desc": "残高超過。", "example_en": "I have an overdraft on my account.", "example_ja": "私の口座は当座貸越になっている。" },
+      { "title": "② 限度", "desc": "overdraft limit。", "example_en": "an overdraft limit of $500", "example_ja": "500ドルの当座貸越限度" }
+    ],
+    "warn": ["残高を超えて引き出すと be overdrawn（残高がマイナスの）状態になる。an overdraft facility/limit（当座貸越の枠・限度）。"],
+    "etym_note": "over（超えて）＋ draft（引き出し）から。「残高を超えて引き出すこと」の意。",
+    "etym_chain": [
+      { "node": "over + draft", "sub": "超えて＋引き出し", "era": "近代" },
+      { "node": "overdraft", "sub": "当座貸越", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an overdraft limit", "ja": "当座貸越の限度" },
+      { "en": "have an overdraft", "ja": "当座貸越がある" },
+      { "en": "an overdraft facility", "ja": "当座貸越の枠" },
+      { "en": "pay off an overdraft", "ja": "当座貸越を返済する" },
+      { "en": "go into overdraft", "ja": "残高がマイナスになる" },
+      { "en": "an unauthorized overdraft", "ja": "無断の当座貸越" }
+    ],
+    "related": [
+      { "en": "overdrawn", "ja": "残高超過の・マイナスの" },
+      { "en": "debt", "ja": "借金" },
+      { "en": "balance", "ja": "残高" }
+    ],
+    "faq": [
+      { "q": "overdraft とは？", "a": "銀行口座の残高を超えて（銀行の許す範囲で）引き出すこと、またその金額（当座貸越）です。" },
+      { "q": "be overdrawn とは？", "a": "「残高がマイナスになっている」状態を表します。" }
+    ],
+    "quiz": [
+      { "q": "overdraft の意味は？", "A": "当座貸越・残高超過の引き出し", "B": "高額の貯金", "C": "利息", "D": "送金", "correct": "A" },
+      { "q": "an overdraft limit の意味は？", "A": "当座貸越の限度", "B": "預金の利率", "C": "口座の手数料", "D": "振込の上限", "correct": "A" }
+    ]
+  },
+  {
+    "english": "overtone",
+    "pron": "ˈoʊvərtoʊn",
+    "kana": "オウヴァートウン",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "over + tone",
+    "ld_level": "1級",
+    "badges": ["難関大〜", "英検1級", "CEFR C1", "学術"],
+    "meaning_main": "（言外の）含み・気配／（音楽）倍音",
+    "description": "overtone は言葉・状況にこめられた言外の含み・気配を表す語。多く複数形 overtones で使う点や音楽の倍音を解説します。",
+    "keywords": ["overtone 意味", "overtone 使い方", "言外の含み", "倍音"],
+    "meanings": [
+      { "hinshi": "【名詞】（言外の）含み・気配", "note": "はっきり言わないが感じられる意味合い。多く複数形 overtones。political overtones（政治的な含み）。" },
+      { "hinshi": "【名詞】（音楽）倍音", "note": "基本の音に伴って鳴る高い音。" }
+    ],
+    "usages": [
+      { "title": "① 含み", "desc": "言外の気配。", "example_en": "The speech had political overtones.", "example_ja": "その演説には政治的な含みがあった。" },
+      { "title": "② 倍音", "desc": "音楽。", "example_en": "rich overtones", "example_ja": "豊かな倍音" }
+    ],
+    "warn": ["多く複数形 overtones（〜の含み・気配）。undertone（控えめな底音・小声）と対比される。have overtones of ~（〜の気配を帯びる）。"],
+    "etym_note": "over（上に）＋ tone（音・調子）から。音楽の「倍音」、転じて「言外の含み」の意。",
+    "etym_chain": [
+      { "node": "over + tone", "sub": "上に＋音", "era": "近代" },
+      { "node": "overtone", "sub": "含み・倍音", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "political overtones", "ja": "政治的な含み" },
+      { "en": "sexual overtones", "ja": "性的な含み" },
+      { "en": "have overtones of", "ja": "〜の気配を帯びる" },
+      { "en": "religious overtones", "ja": "宗教的な含み" },
+      { "en": "carry overtones", "ja": "含みを持つ" },
+      { "en": "without overtones", "ja": "含みなしに" }
+    ],
+    "related": [
+      { "en": "undertone", "ja": "控えめな含み・底音" },
+      { "en": "connotation", "ja": "言外の意味・含意" },
+      { "en": "nuance", "ja": "微妙な意味合い" }
+    ],
+    "faq": [
+      { "q": "overtone とは？", "a": "言葉・状況にこめられた言外の含み・気配です。音楽では「倍音」を指します。" },
+      { "q": "どう使う？", "a": "多く複数形で political/sexual overtones（政治的・性的な含み）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "political overtones の意味は？", "A": "政治的な（言外の）含み", "B": "政治の本論", "C": "政治家の名前", "D": "政治の歴史", "correct": "A" },
+      { "q": "overtone と対比される語は？", "A": "undertone", "B": "overture", "C": "overall", "D": "overdue", "correct": "A" }
+    ]
+  },
+  {
+    "english": "outback",
+    "pron": "ˈaʊtbæk",
+    "kana": "アウトバック",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "out + back",
+    "ld_level": "1級",
+    "badges": ["難関大〜", "英検1級", "CEFR C1", "地理"],
+    "meaning_main": "（オーストラリアの）奥地・内陸の未開地",
+    "description": "outback はオーストラリア内陸の人里離れた奥地を表す語。the outback の形を解説します。",
+    "keywords": ["outback 意味", "outback 使い方", "オーストラリア 奥地", "the outback"],
+    "meanings": [
+      { "hinshi": "【名詞】（オーストラリアの）奥地", "note": "通常 the outback。乾燥した内陸の人里離れた地域。" }
+    ],
+    "usages": [
+      { "title": "① 奥地", "desc": "内陸の未開地。", "example_en": "They traveled into the outback.", "example_ja": "彼らは奥地へ旅した。" },
+      { "title": "② 生活", "desc": "辺境の暮らし。", "example_en": "life in the outback", "example_ja": "奥地での暮らし" }
+    ],
+    "warn": ["the outback で「オーストラリア内陸の奥地」を指す固有の語。乾燥した広大な未開地のイメージ。一般の「奥地」は the interior/wilderness など。"],
+    "etym_note": "out（外の）＋ back（奥）から。「奥まった外れの地」の意。オーストラリア英語。",
+    "etym_chain": [
+      { "node": "out + back", "sub": "外の＋奥", "era": "近代" },
+      { "node": "outback", "sub": "奥地", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the Australian outback", "ja": "オーストラリアの奥地" },
+      { "en": "in the outback", "ja": "奥地で" },
+      { "en": "life in the outback", "ja": "奥地での暮らし" },
+      { "en": "travel into the outback", "ja": "奥地へ旅する" },
+      { "en": "the remote outback", "ja": "辺境の奥地" },
+      { "en": "outback towns", "ja": "奥地の町" }
+    ],
+    "related": [
+      { "en": "wilderness", "ja": "原野・荒野" },
+      { "en": "bush", "ja": "（豪）未開の原野" },
+      { "en": "interior", "ja": "内陸部" }
+    ],
+    "faq": [
+      { "q": "outback とは？", "a": "オーストラリア内陸の、乾燥した人里離れた奥地を指す語です。通常 the outback と使います。" },
+      { "q": "どの国の語？", "a": "主にオーストラリア英語で使われます。" }
+    ],
+    "quiz": [
+      { "q": "the outback の意味は？", "A": "オーストラリアの奥地", "B": "都市の中心", "C": "海岸沿い", "D": "山頂", "correct": "A" },
+      { "q": "outback の成り立ちは？", "A": "out（外の）＋ back（奥）", "B": "out＋pack", "C": "our＋back", "D": "off＋back", "correct": "A" }
+    ]
+  },
+  {
+    "english": "overgrown",
+    "pron": "ˌoʊvərˈɡroʊn",
+    "kana": "オウヴァーグロウン",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "over + grown",
+    "ld_level": "1級",
+    "badges": ["難関大〜", "英検1級", "CEFR C1", "描写"],
+    "meaning_main": "（草木が）生い茂った・伸び放題の",
+    "description": "overgrown は草木が伸び放題に茂ったさまを表す語。be overgrown with の用法を解説します。",
+    "keywords": ["overgrown 意味", "overgrown 使い方", "生い茂った", "overgrown with"],
+    "meanings": [
+      { "hinshi": "【形容詞】生い茂った・伸び放題の", "note": "草・つるなどが手入れされず茂りすぎた。an overgrown garden（荒れ放題の庭）。" }
+    ],
+    "usages": [
+      { "title": "① 庭・道", "desc": "茂りすぎた。", "example_en": "The garden was overgrown.", "example_ja": "庭は伸び放題だった。" },
+      { "title": "② be overgrown with", "desc": "〜で覆われて。", "example_en": "The path was overgrown with weeds.", "example_ja": "小道は雑草で覆われていた。" }
+    ],
+    "warn": ["be overgrown with ~（〜が生い茂って覆われている）。over（過度に）＋ grown（grow の過去分詞）。手入れ不足の荒れた様子を表す。"],
+    "etym_note": "over（過度に）＋ grown（育った）から。「育ちすぎた＝生い茂った」の意。",
+    "etym_chain": [
+      { "node": "over + grown", "sub": "過度に＋育った", "era": "中世" },
+      { "node": "overgrown", "sub": "生い茂った", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an overgrown garden", "ja": "荒れ放題の庭" },
+      { "en": "overgrown with weeds", "ja": "雑草で覆われて" },
+      { "en": "an overgrown path", "ja": "草の伸びた小道" },
+      { "en": "become overgrown", "ja": "伸び放題になる" },
+      { "en": "overgrown with ivy", "ja": "つたで覆われて" },
+      { "en": "a wild, overgrown lot", "ja": "雑草だらけの空き地" }
+    ],
+    "related": [
+      { "en": "grow", "ja": "育つ" },
+      { "en": "wild", "ja": "手入れされていない・野生の" },
+      { "en": "untended", "ja": "手入れされていない" }
+    ],
+    "faq": [
+      { "q": "overgrown とは？", "a": "草木が手入れされず伸び放題に茂ったさまを表す形容詞です。" },
+      { "q": "be overgrown with とは？", "a": "「〜が生い茂って覆われている」という意味です（例: overgrown with weeds）。" }
+    ],
+    "quiz": [
+      { "q": "an overgrown garden の意味は？", "A": "荒れ放題の（草木が茂った）庭", "B": "手入れの行き届いた庭", "C": "枯れた庭", "D": "広い庭", "correct": "A" },
+      { "q": "be overgrown with weeds の意味は？", "A": "雑草で覆われている", "B": "花でいっぱいだ", "C": "舗装されている", "D": "刈り込まれている", "correct": "A" }
+    ]
+  }
+]
