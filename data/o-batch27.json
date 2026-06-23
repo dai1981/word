@@ -1,0 +1,475 @@
+[
+  {
+    "english": "ordnance",
+    "pron": "ˈɔːrdnəns",
+    "kana": "オードナンス",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ordinance(秩序づけ・装備)の変形",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "軍事・難語"],
+    "meaning_main": "兵器・砲・軍需品",
+    "description": "ordnance（兵器・軍需品）の意味・使い方。ordinance（条例）との紛らわしい違いを例文とクイズで学習。",
+    "keywords": ["ordnance 意味", "ordnance ordinance 違い", "兵器 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】大砲・兵器・軍需品", "note": "軍が使う武器・弾薬・装備の総称。不可算で使うことが多い。" }
+    ],
+    "usages": [
+      { "title": "① 軍の装備", "desc": "兵器や弾薬をまとめて指す。", "example_en": "The soldiers stored the ordnance in a secure depot.", "example_ja": "兵士たちは兵器を安全な倉庫に保管した。" },
+      { "title": "② 不発弾の文脈", "desc": "unexploded ordnance（不発弾）でよく使う。", "example_en": "Teams searched the field for unexploded ordnance.", "example_ja": "チームは野原で不発弾を捜索した。" }
+    ],
+    "warn": ["ordinance（条例・法令）と綴り・発音が紛らわしいので注意。ordnance は『兵器』。", "Ordnance Survey はイギリスの国家地図機関の名称。"],
+    "etym_note": "ordinance（秩序づけ・軍の装備の手配）が短縮・変形して『軍需品・兵器』を表すようになった。",
+    "etym_chain": [
+      { "node": "ordinance", "sub": "秩序づけ・装備の手配", "era": "中英語" },
+      { "node": "ordnance", "sub": "兵器・軍需品", "era": "16世紀" }
+    ],
+    "phrases": [
+      { "en": "unexploded ordnance", "ja": "不発弾" },
+      { "en": "military ordnance", "ja": "軍需品" },
+      { "en": "store ordnance", "ja": "兵器を保管する" },
+      { "en": "an ordnance depot", "ja": "兵器庫" },
+      { "en": "heavy ordnance", "ja": "重火器" },
+      { "en": "Ordnance Survey", "ja": "（英）陸地測量部" }
+    ],
+    "related": [
+      { "en": "ordinance", "ja": "条例（混同注意）" },
+      { "en": "weaponry", "ja": "兵器類" },
+      { "en": "artillery", "ja": "大砲・砲兵" }
+    ],
+    "faq": [
+      { "q": "ordnance と ordinance の違いは？", "a": "ordnance は『兵器・軍需品』、ordinance は『条例・法令』です。綴りが似ているので注意。" },
+      { "q": "unexploded ordnance とは？", "a": "戦争などで使われ爆発しなかった『不発弾』のことです。" }
+    ],
+    "quiz": [
+      { "q": "ordnance の意味は？", "A": "兵器・軍需品", "B": "条例", "C": "順序", "D": "命令", "correct": "A" },
+      { "q": "「条例」を表すよく似た語は？", "A": "ordinance", "B": "ordnance", "C": "ordeal", "D": "ordain", "correct": "A" }
+    ]
+  },
+  {
+    "english": "overarching",
+    "pron": "ˌoʊvərˈɑːrtʃɪŋ",
+    "kana": "オウヴァアーチング",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "over-(上に)+arch(アーチ)+-ing",
+    "ld_level": "準1級",
+    "badges": ["大学生〜", "英検準1級", "CEFR C1", "ビジネス・論文で頻出"],
+    "meaning_main": "包括的な・全体を覆う・最も重要な",
+    "description": "overarching（包括的な・全体を覆う）の意味・使い方。ビジネスや論文で使う「最も重要な」を例文とクイズで学習。",
+    "keywords": ["overarching 意味", "overarching 使い方", "包括的 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】全体を覆う・包括的な・最も重要な", "note": "ほかの要素すべてを包み込むほど大きく重要なさま。goal や theme と相性が良い。" }
+    ],
+    "usages": [
+      { "title": "① 全体をまとめる目標", "desc": "個別の目標を包み込む大目標。", "example_en": "Our overarching goal is to reduce waste.", "example_ja": "私たちの包括的な目標は廃棄物を減らすことだ。" },
+      { "title": "② 全体を貫くテーマ", "desc": "作品や議論全体を覆う主題。", "example_en": "Justice is the overarching theme of the novel.", "example_ja": "正義はその小説全体を貫くテーマだ。" }
+    ],
+    "warn": ["主にビジネス・学術で使うフォーマルな語。goal / theme / principle / aim とよく結びつく。", "文字どおりには『上をアーチ状に覆う』で、そこから比喩化した。"],
+    "etym_note": "over「上に」＋ arch「アーチ（をかける）」＋ -ing。上を弓なりに覆う → 全体を包み込む。",
+    "etym_chain": [
+      { "node": "over + arch", "sub": "上に・アーチをかける", "era": "近代英語" },
+      { "node": "overarching", "sub": "全体を覆う・包括的な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "overarching goal", "ja": "包括的な目標" },
+      { "en": "overarching theme", "ja": "全体を貫くテーマ" },
+      { "en": "overarching principle", "ja": "根本的な原則" },
+      { "en": "overarching strategy", "ja": "全体戦略" },
+      { "en": "overarching aim", "ja": "最も重要なねらい" },
+      { "en": "an overarching framework", "ja": "包括的な枠組み" }
+    ],
+    "related": [
+      { "en": "comprehensive", "ja": "包括的な" },
+      { "en": "overall", "ja": "全体的な" },
+      { "en": "paramount", "ja": "最重要の" }
+    ],
+    "faq": [
+      { "q": "overarching はどんな語と使う？", "a": "goal, theme, principle, aim, strategy などと結びついて『全体を覆う最も重要な～』を表します。" },
+      { "q": "overall との違いは？", "a": "overall は『全体的な』、overarching は『すべてを包み込むほど大きく重要な』というニュアンスです。" }
+    ],
+    "quiz": [
+      { "q": "overarching の意味は？", "A": "包括的な・全体を覆う", "B": "細かい", "C": "一時的な", "D": "局所的な", "correct": "A" },
+      { "q": "overarching とよく結びつく語は？", "A": "goal", "B": "shoe", "C": "rain", "D": "cup", "correct": "A" }
+    ]
+  },
+  {
+    "english": "overpriced",
+    "pron": "ˌoʊvərˈpraɪst",
+    "kana": "オウヴァプライスト",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "over-(過度に)+price(値段をつける)",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "買い物で頻出"],
+    "meaning_main": "値段が高すぎる・割高な",
+    "description": "overpriced（値段が高すぎる・割高な）の意味・使い方。買い物の場面で使う表現を例文とクイズで学習。",
+    "keywords": ["overpriced 意味", "overpriced 使い方", "割高 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】（価値に見合わず）値段が高すぎる・割高な", "note": "品質や価値に対して値段が不当に高いこと。否定的な語。" }
+    ],
+    "usages": [
+      { "title": "① 割高な商品", "desc": "価値に見合わず高い。", "example_en": "The coffee here is seriously overpriced.", "example_ja": "ここのコーヒーは本当に割高だ。" },
+      { "title": "② 不動産・チケットなど", "desc": "高すぎる価格設定を批判する。", "example_en": "The apartment was overpriced for its size.", "example_ja": "そのアパートは広さの割に高すぎた。" }
+    ],
+    "warn": ["expensive（単に高価）と違い、overpriced は『価値に見合わず高すぎる』という否定的評価を含む。", "反対は underpriced（安すぎる）。"],
+    "etym_note": "over「過度に」＋ priced「値段がつけられた」。価値以上の値がついている、の意。",
+    "etym_chain": [
+      { "node": "over + priced", "sub": "過度に・値段をつけた", "era": "近代英語" },
+      { "node": "overpriced", "sub": "割高な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "wildly overpriced", "ja": "とんでもなく割高な" },
+      { "en": "overpriced and disappointing", "ja": "割高で期待外れ" },
+      { "en": "an overpriced ticket", "ja": "割高なチケット" },
+      { "en": "overpriced for what it is", "ja": "内容の割に高すぎる" },
+      { "en": "ridiculously overpriced", "ja": "ばかげて高すぎる" },
+      { "en": "feel overpriced", "ja": "割高に感じる" }
+    ],
+    "related": [
+      { "en": "expensive", "ja": "高価な" },
+      { "en": "pricey", "ja": "値が張る" },
+      { "en": "underpriced", "ja": "安すぎる（反対語）" }
+    ],
+    "faq": [
+      { "q": "expensive と overpriced の違いは？", "a": "expensive は単に『高価』、overpriced は『価値に見合わず高すぎる』と批判的に評価する語です。" },
+      { "q": "反対語は？", "a": "underpriced（実際の価値より安すぎる）です。" }
+    ],
+    "quiz": [
+      { "q": "overpriced の意味は？", "A": "値段が高すぎる・割高な", "B": "ちょうどよい値段の", "C": "無料の", "D": "値引きされた", "correct": "A" },
+      { "q": "overpriced の反対語は？", "A": "underpriced", "B": "expensive", "C": "pricey", "D": "costly", "correct": "A" }
+    ]
+  },
+  {
+    "english": "overrun",
+    "pron": "ˌoʊvərˈrʌn",
+    "kana": "オウヴァラン",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "verb",
+    "ld_etym": "over-(越えて)+run(走る・及ぶ)",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "多義で頻出"],
+    "meaning_main": "はびこる・侵入する／（予算・時間を）超過する",
+    "description": "overrun（はびこる・超過する）の意味・使い方。雑草がはびこる・予算超過などの多義を例文とクイズで学習。",
+    "keywords": ["overrun 意味", "overrun 使い方", "超過 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】はびこる・（害虫などが）あふれる", "note": "be overrun with ～ で『～でいっぱいになる・はびこられる』。" },
+      { "hinshi": "【動詞】（敵が）侵略・制圧する", "note": "軍隊が一気に押し寄せて占領すること。" },
+      { "hinshi": "【動詞・名詞】（予算・時間を）超過する／超過分", "note": "予定の費用・時間を上回ること。" }
+    ],
+    "usages": [
+      { "title": "① はびこる", "desc": "雑草や害虫が一面に広がる。", "example_en": "The garden was overrun with weeds.", "example_ja": "庭は雑草でいっぱいになっていた。" },
+      { "title": "② 予算・時間の超過", "desc": "予定を上回ること。", "example_en": "The project overran its budget by 20%.", "example_ja": "そのプロジェクトは予算を20％超過した。" }
+    ],
+    "warn": ["活用は run と同じ: overrun - overran - overrun。", "be overrun with / by ～（～ではびこられる）の受け身が頻出。"],
+    "etym_note": "over「越えて」＋ run「走る・及ぶ」。範囲を越えて広がる、の意。",
+    "etym_chain": [
+      { "node": "over + run", "sub": "越えて・及ぶ", "era": "古英語" },
+      { "node": "overrun", "sub": "はびこる・超過する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be overrun with", "ja": "～ではびこられる" },
+      { "en": "overrun the budget", "ja": "予算を超過する" },
+      { "en": "overrun by tourists", "ja": "観光客であふれる" },
+      { "en": "overrun with weeds", "ja": "雑草がはびこる" },
+      { "en": "a cost overrun", "ja": "費用超過" },
+      { "en": "overrun the schedule", "ja": "予定を超過する" }
+    ],
+    "related": [
+      { "en": "infest", "ja": "はびこる・たかる" },
+      { "en": "exceed", "ja": "超える" },
+      { "en": "invade", "ja": "侵略する" }
+    ],
+    "faq": [
+      { "q": "overrun の活用は？", "a": "run と同じく overrun - overran - overrun です。" },
+      { "q": "be overrun with の意味は？", "a": "『～でいっぱいになる・はびこられる』という意味です（例: overrun with tourists）。" }
+    ],
+    "quiz": [
+      { "q": "be overrun with weeds の意味は？", "A": "雑草がはびこる", "B": "雑草を抜く", "C": "雑草が枯れる", "D": "雑草を植える", "correct": "A" },
+      { "q": "overrun の過去形は？", "A": "overran", "B": "overrunned", "C": "overrun", "D": "overruned", "correct": "A" }
+    ]
+  },
+  {
+    "english": "overspend",
+    "pron": "ˌoʊvərˈspend",
+    "kana": "オウヴァスペンド",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "over-(過度に)+spend(使う)",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "お金で頻出"],
+    "meaning_main": "使いすぎる・予算を超えて使う",
+    "description": "overspend（使いすぎる）の意味・使い方。家計や予算の場面で使う表現を例文とクイズで学習。",
+    "keywords": ["overspend 意味", "overspend 使い方", "使いすぎ 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】お金を使いすぎる・予算を超えて使う", "note": "予定や収入を上回って支出すること。自動詞・他動詞の両方で使う。" }
+    ],
+    "usages": [
+      { "title": "① 使いすぎる", "desc": "予算より多く支出する。", "example_en": "We overspent on the holiday this year.", "example_ja": "今年は休暇でお金を使いすぎた。" },
+      { "title": "② 予算を超過する", "desc": "他動詞で予算を目的語に。", "example_en": "The department overspent its budget.", "example_ja": "その部署は予算を超過して使った。" }
+    ],
+    "warn": ["活用は spend と同じ: overspend - overspent - overspent。", "反対は『使わなさすぎる』だが、ふつうは underspend（予算を使い残す）。"],
+    "etym_note": "over「過度に」＋ spend「使う」。使いすぎる、の意。",
+    "etym_chain": [
+      { "node": "over + spend", "sub": "過度に・使う", "era": "近代英語" },
+      { "node": "overspend", "sub": "使いすぎる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "overspend on", "ja": "～に使いすぎる" },
+      { "en": "overspend the budget", "ja": "予算を超過して使う" },
+      { "en": "tend to overspend", "ja": "使いすぎる傾向がある" },
+      { "en": "overspend at Christmas", "ja": "クリスマスに使いすぎる" },
+      { "en": "avoid overspending", "ja": "使いすぎを避ける" },
+      { "en": "consistently overspend", "ja": "いつも使いすぎる" }
+    ],
+    "related": [
+      { "en": "overspending", "ja": "支出超過" },
+      { "en": "splurge", "ja": "散財する" },
+      { "en": "underspend", "ja": "予算を使い残す（反対語）" }
+    ],
+    "faq": [
+      { "q": "overspend の活用は？", "a": "spend と同じく overspend - overspent - overspent です。" },
+      { "q": "反対の意味の語は？", "a": "underspend（予算を使い残す）です。" }
+    ],
+    "quiz": [
+      { "q": "overspend の意味は？", "A": "使いすぎる", "B": "節約する", "C": "貯金する", "D": "稼ぐ", "correct": "A" },
+      { "q": "overspend の過去形は？", "A": "overspent", "B": "overspended", "C": "overspend", "D": "overspond", "correct": "A" }
+    ]
+  },
+  {
+    "english": "offshoot",
+    "pron": "ˈɔːfʃuːt",
+    "kana": "オフシュート",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "off(離れて)+shoot(新芽)",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "比喩で頻出"],
+    "meaning_main": "派生したもの・分派／（植物の）枝・新芽",
+    "description": "offshoot（派生物・分派）の意味・使い方。組織や分野から派生したものを表す比喩を例文とクイズで学習。",
+    "keywords": ["offshoot 意味", "offshoot 使い方", "派生 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】（より大きなものから）派生したもの・分派", "note": "本体から枝分かれして生まれた組織・分野・製品など。" },
+      { "hinshi": "【名詞】（植物の）側枝・新芽", "note": "幹や茎から伸びる枝・芽。原義。" }
+    ],
+    "usages": [
+      { "title": "① 組織・分野の分派", "desc": "本体から枝分かれしたもの。", "example_en": "The company is an offshoot of a larger firm.", "example_ja": "その会社は大企業から派生した分社だ。" },
+      { "title": "② 植物の枝・新芽", "desc": "茎から伸びる枝。", "example_en": "New offshoots grew from the main stem.", "example_ja": "主茎から新しい枝が伸びた。" }
+    ],
+    "warn": ["比喩で『派生物・分派』を表す用法が頻出。an offshoot of ～（～から派生したもの）。"],
+    "etym_note": "off「離れて」＋ shoot「新芽・枝」。本体から離れて伸びた芽、が原義。",
+    "etym_chain": [
+      { "node": "off + shoot", "sub": "離れて・新芽", "era": "近代英語" },
+      { "node": "offshoot", "sub": "派生物・分派", "era": "19世紀" }
+    ],
+    "phrases": [
+      { "en": "an offshoot of", "ja": "～から派生したもの" },
+      { "en": "a direct offshoot", "ja": "直接の派生物" },
+      { "en": "an offshoot company", "ja": "分社" },
+      { "en": "a natural offshoot", "ja": "自然な派生物" },
+      { "en": "offshoots of the project", "ja": "プロジェクトの派生" },
+      { "en": "grow as an offshoot", "ja": "派生として育つ" }
+    ],
+    "related": [
+      { "en": "branch", "ja": "枝・支部" },
+      { "en": "spin-off", "ja": "派生作品・分社" },
+      { "en": "derivative", "ja": "派生物" }
+    ],
+    "faq": [
+      { "q": "offshoot の比喩的な意味は？", "a": "より大きなもの（会社・分野など）から枝分かれして生まれた『派生物・分派』です。" },
+      { "q": "spin-off との違いは？", "a": "意味は近いですが、spin-off は特に作品の続編・分社に、offshoot はより広く派生一般に使います。" }
+    ],
+    "quiz": [
+      { "q": "offshoot の意味は？", "A": "派生したもの・分派", "B": "本体・中心", "C": "終わり", "D": "原因", "correct": "A" },
+      { "q": "offshoot の原義（植物）は？", "A": "枝・新芽", "B": "根", "C": "花", "D": "種", "correct": "A" }
+    ]
+  },
+  {
+    "english": "oxygenate",
+    "pron": "ˈɑːksɪdʒəneɪt",
+    "kana": "オキシジェネイト",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "oxygen(酸素)+-ate",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "理科・医学で頻出"],
+    "meaning_main": "酸素を供給する・酸素を含ませる",
+    "description": "oxygenate（酸素を供給する）の意味・使い方。血液や水に酸素を取り込ませる様子を例文とクイズで学習。",
+    "keywords": ["oxygenate 意味", "oxygenate 使い方", "酸素供給 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】酸素を供給する・酸素を含ませる", "note": "血液・水・組織などに酸素を取り込ませること。" }
+    ],
+    "usages": [
+      { "title": "① 血液に酸素を送る", "desc": "肺が血液を酸素化する。", "example_en": "The lungs oxygenate the blood.", "example_ja": "肺が血液に酸素を供給する。" },
+      { "title": "② 水に酸素を含ませる", "desc": "水槽や川の酸素化。", "example_en": "Plants help oxygenate the water in the tank.", "example_ja": "植物は水槽の水に酸素を供給するのを助ける。" }
+    ],
+    "warn": ["oxidize（酸化する）と混同しないこと。oxygenate は『酸素を供給する』。", "形容詞 oxygenated（酸素を含んだ）／ deoxygenated（酸素の少ない）。"],
+    "etym_note": "oxygen「酸素」＋ -ate「～化する・与える」。酸素を与える、の意。",
+    "etym_chain": [
+      { "node": "oxygen", "sub": "酸素", "era": "18世紀" },
+      { "node": "oxygenate", "sub": "酸素を供給する", "era": "19世紀" }
+    ],
+    "phrases": [
+      { "en": "oxygenate the blood", "ja": "血液に酸素を供給する" },
+      { "en": "oxygenate the water", "ja": "水に酸素を含ませる" },
+      { "en": "well-oxygenated", "ja": "酸素が十分な" },
+      { "en": "oxygenated blood", "ja": "酸素を含んだ血液" },
+      { "en": "poorly oxygenated", "ja": "酸素が乏しい" },
+      { "en": "oxygenate tissues", "ja": "組織に酸素を送る" }
+    ],
+    "related": [
+      { "en": "oxygen", "ja": "酸素" },
+      { "en": "oxidize", "ja": "酸化する（別語）" },
+      { "en": "aerate", "ja": "空気を通す" }
+    ],
+    "faq": [
+      { "q": "oxygenate と oxidize の違いは？", "a": "oxygenate は『酸素を供給する』、oxidize は『酸素と化学反応して酸化する』ことです。" },
+      { "q": "oxygenated blood とは？", "a": "酸素を多く含んだ血液（動脈血など）のことです。" }
+    ],
+    "quiz": [
+      { "q": "oxygenate の意味は？", "A": "酸素を供給する", "B": "酸化してさびる", "C": "二酸化炭素を出す", "D": "脱水する", "correct": "A" },
+      { "q": "oxygenated blood とは？", "A": "酸素を含んだ血液", "B": "酸素のない血液", "C": "凝固した血液", "D": "人工血液", "correct": "A" }
+    ]
+  },
+  {
+    "english": "octopus",
+    "pron": "ˈɑːktəpəs",
+    "kana": "オクトパス",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "okto(8)+pous(足)",
+    "ld_level": "3級",
+    "badges": ["小学生〜", "英検3級", "CEFR A2", "身近な生き物"],
+    "meaning_main": "タコ",
+    "description": "octopus（タコ）の意味・使い方。oct-（8）の語源と複数形を例文とクイズでわかりやすく学習。",
+    "keywords": ["octopus 意味", "octopus 複数形", "タコ 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】タコ", "note": "8本の足を持つ海の軟体動物。複数形は octopuses が一般的（octopi も見られる）。" }
+    ],
+    "usages": [
+      { "title": "① 海の生き物", "desc": "8本足のタコ。", "example_en": "An octopus has eight arms.", "example_ja": "タコには8本の腕がある。" },
+      { "title": "② 賢さの話題", "desc": "知能の高さがよく話題になる。", "example_en": "An octopus can solve simple puzzles.", "example_ja": "タコは簡単なパズルを解くことができる。" }
+    ],
+    "warn": ["複数形は octopuses が標準。octopi は誤用とされることもあるが広く使われる。", "oct-（8）は octagon（八角形）, October（古暦の8番目の月）と同じ。"],
+    "etym_note": "ギリシャ語 okto「8」＋ pous「足」。足が8本あることから。",
+    "etym_chain": [
+      { "node": "okto + pous (ギリシャ語)", "sub": "8・足", "era": "古代ギリシャ" },
+      { "node": "octopus", "sub": "タコ", "era": "18世紀" }
+    ],
+    "phrases": [
+      { "en": "a giant octopus", "ja": "巨大なタコ" },
+      { "en": "the octopus's arms", "ja": "タコの腕" },
+      { "en": "a baby octopus", "ja": "小さなタコ" },
+      { "en": "octopus ink", "ja": "タコの墨" },
+      { "en": "catch an octopus", "ja": "タコを捕まえる" },
+      { "en": "like an octopus", "ja": "タコのように" }
+    ],
+    "related": [
+      { "en": "squid", "ja": "イカ" },
+      { "en": "tentacle", "ja": "触手" },
+      { "en": "octagon", "ja": "八角形" }
+    ],
+    "faq": [
+      { "q": "octopus の複数形は？", "a": "octopuses が標準です。octopi も使われますが厳密には語源的に不正確とされます。" },
+      { "q": "oct- は何を表す？", "a": "『8』です。タコの足が8本あることに由来します。" }
+    ],
+    "quiz": [
+      { "q": "octopus の意味は？", "A": "タコ", "B": "イカ", "C": "カニ", "D": "クラゲ", "correct": "A" },
+      { "q": "octopus の標準的な複数形は？", "A": "octopuses", "B": "octopus", "C": "octopusen", "D": "octopusi", "correct": "A" }
+    ]
+  },
+  {
+    "english": "oligarchy",
+    "pron": "ˈɑːlɪɡɑːrki",
+    "kana": "オリガーキー",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "oligos(少数)+arkhein(支配する)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "政治・難語"],
+    "meaning_main": "寡頭政治・少数支配",
+    "description": "oligarchy（寡頭政治・少数支配）の意味・使い方。democracy などとの対比を例文とクイズで学習。",
+    "keywords": ["oligarchy 意味", "oligarchy 使い方", "寡頭政治 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】寡頭政治・少数支配", "note": "少数の人々が権力を握る政治体制。またその支配層。" }
+    ],
+    "usages": [
+      { "title": "① 政治体制として", "desc": "少数者が国を支配する。", "example_en": "The country was ruled by a small oligarchy.", "example_ja": "その国は少数の支配層によって統治されていた。" },
+      { "title": "② 比喩的な少数支配", "desc": "組織や経済を少数が牛耳る。", "example_en": "Critics said the industry had become an oligarchy.", "example_ja": "批評家はその業界が少数支配になったと言った。" }
+    ],
+    "warn": ["-archy は『支配・統治』を表す（monarchy 君主制, anarchy 無政府）。oligo- は『少数』。", "democracy（民主政）, monarchy（君主政）などと並べて覚える。"],
+    "etym_note": "ギリシャ語 oligos「少数の」＋ arkhein「支配する」。少数による支配の意。",
+    "etym_chain": [
+      { "node": "oligos + arkhein (ギリシャ語)", "sub": "少数・支配する", "era": "古代ギリシャ" },
+      { "node": "oligarchy", "sub": "寡頭政治", "era": "16世紀" }
+    ],
+    "phrases": [
+      { "en": "a ruling oligarchy", "ja": "支配的な寡頭層" },
+      { "en": "live under an oligarchy", "ja": "寡頭政治の下で暮らす" },
+      { "en": "a corporate oligarchy", "ja": "企業の少数支配" },
+      { "en": "replace the oligarchy", "ja": "寡頭支配を打倒する" },
+      { "en": "a wealthy oligarchy", "ja": "富裕な支配層" },
+      { "en": "political oligarchy", "ja": "政治的な寡頭支配" }
+    ],
+    "related": [
+      { "en": "democracy", "ja": "民主政" },
+      { "en": "monarchy", "ja": "君主政" },
+      { "en": "oligarch", "ja": "寡頭支配者" }
+    ],
+    "faq": [
+      { "q": "oligarchy と democracy の違いは？", "a": "oligarchy は『少数による支配』、democracy は『国民による政治（民主政）』です。" },
+      { "q": "支配者一人ひとりは何と言う？", "a": "oligarch（寡頭支配者）です。" }
+    ],
+    "quiz": [
+      { "q": "oligarchy の意味は？", "A": "寡頭政治・少数支配", "B": "民主政", "C": "君主政", "D": "無政府", "correct": "A" },
+      { "q": "oligo- の意味は？", "A": "少数", "B": "多数", "C": "全体", "D": "唯一", "correct": "A" }
+    ]
+  },
+  {
+    "english": "optician",
+    "pron": "ɑːpˈtɪʃn",
+    "kana": "オプティシャン",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "optic(視覚の)+-ian(専門家)",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "日常・職業で頻出"],
+    "meaning_main": "眼鏡技師・眼鏡店（の人）",
+    "description": "optician（眼鏡技師・眼鏡店）の意味・使い方。optometrist との違いを例文とクイズでわかりやすく学習。",
+    "keywords": ["optician 意味", "optician 使い方", "眼鏡屋 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】眼鏡技師・眼鏡店の人", "note": "処方に基づき眼鏡やコンタクトを作り・販売する人。店自体も指す（the optician's）。" }
+    ],
+    "usages": [
+      { "title": "① 眼鏡を作る人・店", "desc": "眼鏡やレンズを扱う。", "example_en": "I need to see the optician about new glasses.", "example_ja": "新しい眼鏡のことで眼鏡店に行く必要がある。" },
+      { "title": "② the optician's（眼鏡店）", "desc": "店を指す言い方。", "example_en": "She bought contact lenses at the optician's.", "example_ja": "彼女は眼鏡店でコンタクトレンズを買った。" }
+    ],
+    "warn": ["optician（眼鏡を作る人）と optometrist（検眼士・視力検査をする人）、ophthalmologist（眼科医）の区別に注意。", "the optician's で『眼鏡店』を指す（イギリス英語でよく使う）。"],
+    "etym_note": "ギリシャ語 optikos「視覚の」に由来する optic ＋ -ian「専門家」。視覚を扱う専門家の意。",
+    "etym_chain": [
+      { "node": "optikos (ギリシャ語)", "sub": "視覚の", "era": "古代ギリシャ" },
+      { "node": "optician", "sub": "眼鏡技師", "era": "18世紀" }
+    ],
+    "phrases": [
+      { "en": "go to the optician's", "ja": "眼鏡店に行く" },
+      { "en": "see an optician", "ja": "眼鏡技師に診てもらう" },
+      { "en": "the local optician", "ja": "地元の眼鏡店" },
+      { "en": "an optician's shop", "ja": "眼鏡店" },
+      { "en": "ask the optician", "ja": "眼鏡技師に尋ねる" },
+      { "en": "a qualified optician", "ja": "資格を持つ眼鏡技師" }
+    ],
+    "related": [
+      { "en": "optometrist", "ja": "検眼士" },
+      { "en": "ophthalmologist", "ja": "眼科医" },
+      { "en": "glasses", "ja": "眼鏡" }
+    ],
+    "faq": [
+      { "q": "optician と optometrist の違いは？", "a": "optician は眼鏡・レンズを作り販売する人、optometrist は視力検査をして処方する検眼士です。" },
+      { "q": "the optician's とは？", "a": "『眼鏡店』を指す言い方です（at the optician's で『眼鏡店で』）。" }
+    ],
+    "quiz": [
+      { "q": "optician の意味は？", "A": "眼鏡技師・眼鏡店の人", "B": "歯科医", "C": "薬剤師", "D": "獣医", "correct": "A" },
+      { "q": "視力検査をして処方する人は？", "A": "optometrist", "B": "optician", "C": "optimist", "D": "operator", "correct": "A" }
+    ]
+  }
+]
