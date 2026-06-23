@@ -1,0 +1,477 @@
+[
+  {
+    "english": "ore",
+    "pron": "ɔːr",
+    "kana": "オー",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "古英 ar(鉱石・銅)",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "理科で頻出"],
+    "meaning_main": "鉱石（金属を含む岩石）",
+    "description": "ore（鉱石）の意味・使い方。鉄鉱石など金属を含む岩石を表す語を例文とクイズでわかりやすく学習。",
+    "keywords": ["ore 意味", "ore 使い方", "鉱石 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】鉱石", "note": "鉄・銅・金などの金属を含み、採掘・精錬される岩石。iron ore（鉄鉱石）。" }
+    ],
+    "usages": [
+      { "title": "① 金属を含む岩石", "desc": "鉱山から採れる原料。", "example_en": "Iron ore is mined and then smelted into metal.", "example_ja": "鉄鉱石は採掘され、精錬されて金属になる。" },
+      { "title": "② 資源・貿易の文脈", "desc": "輸出入される資源。", "example_en": "The country exports large amounts of copper ore.", "example_ja": "その国は大量の銅鉱石を輸出している。" }
+    ],
+    "warn": ["oar（オール）, or（または）と同音。文脈で区別する。", "iron ore（鉄鉱石）, copper ore（銅鉱石）のように金属名＋ ore。"],
+    "etym_note": "古英語 ar「鉱石・銅」に由来。金属を含む岩石を指す。",
+    "etym_chain": [
+      { "node": "ar (古英語)", "sub": "鉱石・銅", "era": "古英語" },
+      { "node": "ore", "sub": "鉱石", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "iron ore", "ja": "鉄鉱石" },
+      { "en": "copper ore", "ja": "銅鉱石" },
+      { "en": "mine ore", "ja": "鉱石を採掘する" },
+      { "en": "smelt ore", "ja": "鉱石を精錬する" },
+      { "en": "rich in ore", "ja": "鉱石が豊富な" },
+      { "en": "extract metal from ore", "ja": "鉱石から金属を取り出す" }
+    ],
+    "related": [
+      { "en": "mineral", "ja": "鉱物" },
+      { "en": "mine", "ja": "鉱山・採掘する" },
+      { "en": "smelt", "ja": "精錬する" }
+    ],
+    "faq": [
+      { "q": "ore と mineral の違いは？", "a": "mineral は鉱物一般、ore はそのうち『金属を採るために採掘される岩石（鉱石）』です。" },
+      { "q": "同音の語は？", "a": "oar（オール）と or（または）が同じ発音です。" }
+    ],
+    "quiz": [
+      { "q": "ore の意味は？", "A": "鉱石", "B": "砂", "C": "石炭", "D": "粘土", "correct": "A" },
+      { "q": "iron ore の意味は？", "A": "鉄鉱石", "B": "鉄棒", "C": "鉄板", "D": "鉄道", "correct": "A" }
+    ]
+  },
+  {
+    "english": "orderly",
+    "pron": "ˈɔːrdərli",
+    "kana": "オーダリー",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "adjective",
+    "ld_etym": "order(秩序)+-ly",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "多義で頻出"],
+    "meaning_main": "秩序立った・整然とした／（名）病院の用務員",
+    "description": "orderly（整然とした・病院の用務員）の意味・使い方。形容詞と名詞の二つの用法を例文とクイズで学習。",
+    "keywords": ["orderly 意味", "orderly 使い方", "整然 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】秩序立った・整然とした・きちんとした", "note": "きれいに整理され、規律正しいさま。反対は disorderly。" },
+      { "hinshi": "【名詞】（病院の）用務員・付き添い", "note": "病院で雑務・患者の世話をする職員。軍の伝令兵も指す。" }
+    ],
+    "usages": [
+      { "title": "① 整然とした（形容詞）", "desc": "きちんと整っている。", "example_en": "The students left the room in an orderly manner.", "example_ja": "生徒たちは整然と部屋を出た。" },
+      { "title": "② 病院の用務員（名詞）", "desc": "雑務や介助を担う職員。", "example_en": "An orderly helped move the patient.", "example_ja": "用務員が患者の移動を手伝った。" }
+    ],
+    "warn": ["-ly だが副詞ではなく形容詞。反対は disorderly（無秩序な）。", "名詞では『病院の用務員・付き添い』という別の意味になる。"],
+    "etym_note": "order「秩序」＋ -ly。秩序に従った、の意。",
+    "etym_chain": [
+      { "node": "order + -ly", "sub": "秩序＋らしい", "era": "近代英語" },
+      { "node": "orderly", "sub": "整然とした・用務員", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "in an orderly manner", "ja": "整然と" },
+      { "en": "an orderly queue", "ja": "整然とした列" },
+      { "en": "an orderly process", "ja": "秩序立った手順" },
+      { "en": "a hospital orderly", "ja": "病院の用務員" },
+      { "en": "neat and orderly", "ja": "きちんと整った" },
+      { "en": "an orderly retreat", "ja": "秩序ある撤退" }
+    ],
+    "related": [
+      { "en": "tidy", "ja": "整頓された" },
+      { "en": "organized", "ja": "整理された" },
+      { "en": "disorderly", "ja": "無秩序な（反対語）" }
+    ],
+    "faq": [
+      { "q": "orderly は副詞？", "a": "いいえ。-ly で終わりますが形容詞です（『整然とした』）。" },
+      { "q": "名詞の orderly とは？", "a": "病院で雑務や患者の介助をする『用務員・付き添い』のことです。" }
+    ],
+    "quiz": [
+      { "q": "orderly（形容詞）の意味は？", "A": "秩序立った・整然とした", "B": "無秩序な", "C": "急な", "D": "退屈な", "correct": "A" },
+      { "q": "orderly の反対語は？", "A": "disorderly", "B": "tidy", "C": "organized", "D": "neat", "correct": "A" }
+    ]
+  },
+  {
+    "english": "originate",
+    "pron": "əˈrɪdʒɪneɪt",
+    "kana": "オリジネイト",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "origo(始まり)+-ate",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "ビジネス・学術で頻出"],
+    "meaning_main": "起こる・始まる・生み出す",
+    "description": "originate（起こる・生み出す）の意味・使い方。originate from / in の使い分けを例文とクイズで学習。",
+    "keywords": ["originate 意味", "originate 使い方", "由来する 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】起こる・生じる・由来する（自動詞）", "note": "originate from / in ～ で『～に由来する・始まる』。" },
+      { "hinshi": "【動詞】生み出す・創始する（他動詞）", "note": "あるものを初めて作り出すこと。" }
+    ],
+    "usages": [
+      { "title": "① ～に由来する", "desc": "起源・出どころを示す。", "example_en": "The custom originated in China.", "example_ja": "その習慣は中国で始まった。" },
+      { "title": "② 生み出す", "desc": "初めて作り出す。", "example_en": "She originated a new style of dance.", "example_ja": "彼女は新しいダンスのスタイルを生み出した。" }
+    ],
+    "warn": ["自動詞では originate from / in ～（～に由来する）。名詞 origin（起源）、形容詞 original（最初の）。"],
+    "etym_note": "ラテン語 origo「始まり・起源」（oriri＝生じる）＋ -ate。始まる・生じさせる、の意。",
+    "etym_chain": [
+      { "node": "origo (ラテン語)", "sub": "始まり・起源", "era": "ラテン語" },
+      { "node": "originate", "sub": "起こる・生み出す", "era": "17世紀" }
+    ],
+    "phrases": [
+      { "en": "originate from", "ja": "～に由来する" },
+      { "en": "originate in", "ja": "～で始まる" },
+      { "en": "originate with", "ja": "～から生まれる（人・発端）" },
+      { "en": "originate an idea", "ja": "考えを生み出す" },
+      { "en": "where it originated", "ja": "それが始まった場所" },
+      { "en": "originate a new method", "ja": "新しい方法を創始する" }
+    ],
+    "related": [
+      { "en": "origin", "ja": "起源" },
+      { "en": "original", "ja": "最初の・独創的な" },
+      { "en": "derive", "ja": "由来する" }
+    ],
+    "faq": [
+      { "q": "originate from と originate in の違いは？", "a": "from は『～（出どころ）から生じる』、in は『～（場所・時代）で始まる』に使うことが多いです。" },
+      { "q": "名詞形は？", "a": "origin（起源）です。形容詞は original（最初の・独創的な）。" }
+    ],
+    "quiz": [
+      { "q": "originate の意味は？", "A": "起こる・生み出す", "B": "終わる", "C": "コピーする", "D": "破壊する", "correct": "A" },
+      { "q": "「～に由来する」の形は？", "A": "originate from", "B": "originate to", "C": "originate of", "D": "originate by", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ordinal",
+    "pron": "ˈɔːrdɪnl",
+    "kana": "オーディナル",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "adjective",
+    "ld_etym": "ordo(順序)+-al",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "文法・数学で頻出"],
+    "meaning_main": "序数の／序数（first, second…）",
+    "description": "ordinal（序数の）の意味・使い方。cardinal number（基数）との違いを例文とクイズでわかりやすく学習。",
+    "keywords": ["ordinal 意味", "ordinal number 意味", "序数 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】序数の・順序を表す", "note": "first, second, third のように順番を表す。ordinal number（序数）。" },
+      { "hinshi": "【名詞】序数", "note": "順番を示す数そのもの。" }
+    ],
+    "usages": [
+      { "title": "① 順番を表す数", "desc": "first, second など。", "example_en": "\"Third\" is an ordinal number.", "example_ja": "「third（3番目）」は序数だ。" },
+      { "title": "② cardinal との対比", "desc": "基数と区別する。", "example_en": "Cardinal numbers count; ordinal numbers rank.", "example_ja": "基数は数を数え、序数は順位を表す。" }
+    ],
+    "warn": ["cardinal number（基数: one, two…）と ordinal number（序数: first, second…）を区別する。", "ordinal は『順序』、cardinal は『量・個数』。"],
+    "etym_note": "ラテン語 ordo「順序」＋ -al。順序に関する、の意。",
+    "etym_chain": [
+      { "node": "ordo (ラテン語)", "sub": "順序", "era": "ラテン語" },
+      { "node": "ordinal", "sub": "序数の", "era": "16世紀" }
+    ],
+    "phrases": [
+      { "en": "an ordinal number", "ja": "序数" },
+      { "en": "ordinal numbers", "ja": "序数（first, second…）" },
+      { "en": "in ordinal order", "ja": "順番どおりに" },
+      { "en": "cardinal and ordinal", "ja": "基数と序数" },
+      { "en": "the ordinal position", "ja": "順位" },
+      { "en": "ordinal data", "ja": "順序尺度のデータ" }
+    ],
+    "related": [
+      { "en": "cardinal", "ja": "基数の" },
+      { "en": "number", "ja": "数" },
+      { "en": "rank", "ja": "順位" }
+    ],
+    "faq": [
+      { "q": "ordinal number と cardinal number の違いは？", "a": "ordinal は first, second など『順番』を表す序数、cardinal は one, two など『個数』を表す基数です。" },
+      { "q": "序数の例は？", "a": "first, second, third, fourth … などです。" }
+    ],
+    "quiz": [
+      { "q": "ordinal number の例は？", "A": "first", "B": "one", "C": "ten", "D": "hundred", "correct": "A" },
+      { "q": "ordinal の意味は？", "A": "序数の・順序の", "B": "基数の", "C": "小数の", "D": "分数の", "correct": "A" }
+    ]
+  },
+  {
+    "english": "omega",
+    "pron": "oʊˈmeɡə",
+    "kana": "オメガ",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ギリシャ o mega(大きいO)",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "ギリシャ文字・比喩"],
+    "meaning_main": "オメガ（ギリシャ文字の最後Ω）／終わり",
+    "description": "omega（オメガ）の意味・使い方。ギリシャ文字の最後の字と「終わり」の比喩を例文とクイズで学習。",
+    "keywords": ["omega 意味", "omega 使い方", "オメガ 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】オメガ（ギリシャ文字 Ω/ω）", "note": "ギリシャ文字の24番目（最後）の文字。" },
+      { "hinshi": "【名詞】（比喩）終わり・最後", "note": "alpha and omega で『最初から最後まで・すべて』。" }
+    ],
+    "usages": [
+      { "title": "① ギリシャ文字", "desc": "最後の文字 Ω。", "example_en": "Omega is the last letter of the Greek alphabet.", "example_ja": "オメガはギリシャ文字の最後の字だ。" },
+      { "title": "② alpha and omega", "desc": "始めと終わり＝すべて。", "example_en": "He was the alpha and omega of the project.", "example_ja": "彼はそのプロジェクトのすべて（中心）だった。" }
+    ],
+    "warn": ["alpha（最初の文字）と対で『始めと終わり＝すべて』を表す。", "omega-3（オメガ3脂肪酸）のように科学用語にも使う。"],
+    "etym_note": "ギリシャ語 o mega「大きいO」。小さいO（omicron）に対する大文字のOから。",
+    "etym_chain": [
+      { "node": "o mega (ギリシャ語)", "sub": "大きいO", "era": "古代ギリシャ" },
+      { "node": "omega", "sub": "オメガ・終わり", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "alpha and omega", "ja": "始めと終わり・すべて" },
+      { "en": "the omega symbol", "ja": "オメガ記号 Ω" },
+      { "en": "omega-3 fatty acids", "ja": "オメガ3脂肪酸" },
+      { "en": "from alpha to omega", "ja": "最初から最後まで" },
+      { "en": "the Greek letter omega", "ja": "ギリシャ文字オメガ" },
+      { "en": "the omega point", "ja": "オメガポイント（究極点）" }
+    ],
+    "related": [
+      { "en": "alpha", "ja": "アルファ（最初の文字）" },
+      { "en": "Greek alphabet", "ja": "ギリシャ文字" },
+      { "en": "end", "ja": "終わり" }
+    ],
+    "faq": [
+      { "q": "alpha and omega とは？", "a": "ギリシャ文字の最初(alpha)と最後(omega)から、『始めと終わり・すべて』を意味します。" },
+      { "q": "omega-3 とは？", "a": "魚などに含まれる『オメガ3脂肪酸』のことです。" }
+    ],
+    "quiz": [
+      { "q": "omega はギリシャ文字の何番目？", "A": "最後", "B": "最初", "C": "真ん中", "D": "2番目", "correct": "A" },
+      { "q": "alpha and omega の意味は？", "A": "始めと終わり・すべて", "B": "上と下", "C": "光と闇", "D": "左と右", "correct": "A" }
+    ]
+  },
+  {
+    "english": "optometry",
+    "pron": "ɑːpˈtɑːmətri",
+    "kana": "オプトメトリー",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "opto-(視覚)+-metry(測定)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "医療・職業"],
+    "meaning_main": "検眼（学）・視力測定",
+    "description": "optometry（検眼・視力測定）の意味・使い方。検眼士 optometrist の専門分野を例文とクイズで学習。",
+    "keywords": ["optometry 意味", "optometry 使い方", "検眼 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】検眼（学）・視力測定", "note": "視力を検査し、眼鏡やコンタクトの処方を行う分野。専門家は optometrist。" }
+    ],
+    "usages": [
+      { "title": "① 視力検査の分野", "desc": "目の機能を測る。", "example_en": "She studied optometry to become an optometrist.", "example_ja": "彼女は検眼士になるため検眼学を学んだ。" },
+      { "title": "② 処方の文脈", "desc": "眼鏡の処方など。", "example_en": "Optometry includes prescribing glasses and lenses.", "example_ja": "検眼には眼鏡やレンズの処方が含まれる。" }
+    ],
+    "warn": ["optometry（検眼）と ophthalmology（眼科学・手術可）を区別する。", "-metry は『測定』を表す（geometry, symmetry）。"],
+    "etym_note": "ギリシャ語 opto-「視覚」＋ -metria「測定」。視覚を測ること。",
+    "etym_chain": [
+      { "node": "optos + metron (ギリシャ語)", "sub": "見える・測る", "era": "古代ギリシャ" },
+      { "node": "optometry", "sub": "検眼学", "era": "20世紀" }
+    ],
+    "phrases": [
+      { "en": "study optometry", "ja": "検眼学を学ぶ" },
+      { "en": "a school of optometry", "ja": "検眼学校" },
+      { "en": "practice optometry", "ja": "検眼を行う" },
+      { "en": "a degree in optometry", "ja": "検眼学の学位" },
+      { "en": "pediatric optometry", "ja": "小児検眼" },
+      { "en": "the field of optometry", "ja": "検眼の分野" }
+    ],
+    "related": [
+      { "en": "optometrist", "ja": "検眼士" },
+      { "en": "ophthalmology", "ja": "眼科学" },
+      { "en": "optician", "ja": "眼鏡技師" }
+    ],
+    "faq": [
+      { "q": "optometry と ophthalmology の違いは？", "a": "optometry は視力検査・処方を行う検眼、ophthalmology は病気の治療や手術も行う眼科学です。" },
+      { "q": "-metry は何を表す？", "a": "『測定』を表す接尾辞です（geometry 幾何学＝土地の測定など）。" }
+    ],
+    "quiz": [
+      { "q": "optometry の意味は？", "A": "検眼（学）・視力測定", "B": "眼科手術", "C": "歯科治療", "D": "聴力検査", "correct": "A" },
+      { "q": "optometry の専門家は？", "A": "optometrist", "B": "ophthalmologist", "C": "optician", "D": "optimist", "correct": "A" }
+    ]
+  },
+  {
+    "english": "opportunist",
+    "pron": "ˌɑːpərˈtuːnɪst",
+    "kana": "オポチュニスト",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "opportune(好都合な)+-ist",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "性格・批判で頻出"],
+    "meaning_main": "ご都合主義者・日和見主義者・機会主義者",
+    "description": "opportunist（ご都合主義者・機会主義者）の意味・使い方。好機を利己的に利用する人を表す語を例文とクイズで学習。",
+    "keywords": ["opportunist 意味", "opportunist 使い方", "機会主義者 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】ご都合主義者・機会主義者", "note": "原則より、その場の好機・利益を優先して行動する人。多くは否定的。" }
+    ],
+    "usages": [
+      { "title": "① 好機につけ込む人", "desc": "利益のために立場を変える。", "example_en": "He's an opportunist who switches sides easily.", "example_ja": "彼は簡単に立場を変えるご都合主義者だ。" },
+      { "title": "② 批判的に使う", "desc": "信念のなさを非難。", "example_en": "Critics dismissed her as a political opportunist.", "example_ja": "批評家は彼女を政治的なご都合主義者だと切り捨てた。" }
+    ],
+    "warn": ["多くは否定的。考え方は opportunism（ご都合主義）、形容詞は opportunistic。", "opportunity（好機）とは語源は同じだが意味が違う（好機 vs それを利己的に使う人）。"],
+    "etym_note": "opportune「好都合な」＋ -ist「～する人」。好機を利用する人の意。",
+    "etym_chain": [
+      { "node": "opportunus (ラテン語)", "sub": "好都合な", "era": "ラテン語" },
+      { "node": "opportunist", "sub": "ご都合主義者", "era": "19世紀" }
+    ],
+    "phrases": [
+      { "en": "a political opportunist", "ja": "政治的ご都合主義者" },
+      { "en": "a shameless opportunist", "ja": "恥知らずな機会主義者" },
+      { "en": "a ruthless opportunist", "ja": "冷酷な機会主義者" },
+      { "en": "act like an opportunist", "ja": "ご都合主義的にふるまう" },
+      { "en": "labelled an opportunist", "ja": "ご都合主義者と呼ばれる" },
+      { "en": "a born opportunist", "ja": "生まれつきの機会主義者" }
+    ],
+    "related": [
+      { "en": "opportunism", "ja": "ご都合主義" },
+      { "en": "opportunistic", "ja": "日和見的な" },
+      { "en": "opportunity", "ja": "好機" }
+    ],
+    "faq": [
+      { "q": "opportunist は良い意味？", "a": "ふつう『原則より利益を優先する』という否定的な意味で使われます。" },
+      { "q": "opportunity との違いは？", "a": "opportunity は『好機』、opportunist は『その好機を利己的に利用する人』です。" }
+    ],
+    "quiz": [
+      { "q": "opportunist の意味は？", "A": "ご都合主義者・機会主義者", "B": "楽観主義者", "C": "理想主義者", "D": "完璧主義者", "correct": "A" },
+      { "q": "opportunist の考え方を表す語は？", "A": "opportunism", "B": "optimism", "C": "opportunity", "D": "operation", "correct": "A" }
+    ]
+  },
+  {
+    "english": "operable",
+    "pron": "ˈɑːpərəbl",
+    "kana": "オペラブル",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "operate(操作する)+-able",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "医療・技術で頻出"],
+    "meaning_main": "手術可能な／操作[運用]できる",
+    "description": "operable（手術可能な・操作できる）の意味・使い方。医療の inoperable との対比を例文とクイズで学習。",
+    "keywords": ["operable 意味", "operable 使い方", "手術可能 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】手術で治療できる", "note": "手術が可能な状態の。反対は inoperable（手術不可能な）。" },
+      { "hinshi": "【形容詞】操作・運用できる", "note": "機械や仕組みが使用・稼働できる状態。" }
+    ],
+    "usages": [
+      { "title": "① 手術可能な", "desc": "手術で対処できる。", "example_en": "Fortunately, the tumor was operable.", "example_ja": "幸い、その腫瘍は手術可能だった。" },
+      { "title": "② 運用できる", "desc": "機械や設備が使える。", "example_en": "The old machine is still operable.", "example_ja": "その古い機械はまだ動かせる。" }
+    ],
+    "warn": ["医療では『手術可能な』、技術では『操作・稼働できる』。反対は inoperable（手術不可能／作動しない）。"],
+    "etym_note": "ラテン語 operari「働く・作用する」由来の operate ＋ -able「できる」。",
+    "etym_chain": [
+      { "node": "operari (ラテン語)", "sub": "働く・作用する", "era": "ラテン語" },
+      { "node": "operable", "sub": "手術可能な・操作できる", "era": "17世紀" }
+    ],
+    "phrases": [
+      { "en": "an operable tumor", "ja": "手術可能な腫瘍" },
+      { "en": "still operable", "ja": "まだ操作できる" },
+      { "en": "fully operable", "ja": "完全に稼働できる" },
+      { "en": "an operable condition", "ja": "手術できる状態" },
+      { "en": "operable equipment", "ja": "稼働可能な設備" },
+      { "en": "kept operable", "ja": "稼働状態に保たれた" }
+    ],
+    "related": [
+      { "en": "inoperable", "ja": "手術不可能な（反対語）" },
+      { "en": "operate", "ja": "手術する・操作する" },
+      { "en": "functional", "ja": "機能する" }
+    ],
+    "faq": [
+      { "q": "operable の反対語は？", "a": "inoperable（手術不可能な／作動しない）です。" },
+      { "q": "医療以外でも使う？", "a": "はい。機械や設備が『操作・稼働できる』という意味でも使います。" }
+    ],
+    "quiz": [
+      { "q": "operable（医療）の意味は？", "A": "手術可能な", "B": "手術不可能な", "C": "末期の", "D": "感染した", "correct": "A" },
+      { "q": "operable の反対語は？", "A": "inoperable", "B": "operative", "C": "operational", "D": "operatic", "correct": "A" }
+    ]
+  },
+  {
+    "english": "organist",
+    "pron": "ˈɔːrɡənɪst",
+    "kana": "オーガニスト",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "organ(オルガン)+-ist",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "音楽で頻出"],
+    "meaning_main": "オルガン奏者",
+    "description": "organist（オルガン奏者）の意味・使い方。organ（オルガン）＋ -ist の語形成を例文とクイズで学習。",
+    "keywords": ["organist 意味", "organist 使い方", "オルガン奏者 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】オルガン奏者", "note": "オルガンを演奏する人。教会のオルガン奏者を指すことが多い。" }
+    ],
+    "usages": [
+      { "title": "① オルガンを弾く人", "desc": "演奏者を表す。", "example_en": "The organist played a beautiful hymn.", "example_ja": "オルガン奏者は美しい讃美歌を演奏した。" },
+      { "title": "② 教会の文脈", "desc": "礼拝で演奏する。", "example_en": "She works as the church organist.", "example_ja": "彼女は教会のオルガン奏者を務めている。" }
+    ],
+    "warn": ["-ist は『～する人・演奏者』を表す（pianist, violinist）。organ（オルガン）の奏者が organist。"],
+    "etym_note": "organ「オルガン」＋ -ist「～する人」。オルガンを演奏する人の意。",
+    "etym_chain": [
+      { "node": "organon (ギリシャ語)", "sub": "道具・楽器", "era": "古代ギリシャ" },
+      { "node": "organist", "sub": "オルガン奏者", "era": "16世紀" }
+    ],
+    "phrases": [
+      { "en": "a church organist", "ja": "教会のオルガン奏者" },
+      { "en": "a skilled organist", "ja": "巧みなオルガン奏者" },
+      { "en": "the cathedral organist", "ja": "大聖堂のオルガン奏者" },
+      { "en": "a concert organist", "ja": "コンサートオルガン奏者" },
+      { "en": "work as an organist", "ja": "オルガン奏者として働く" },
+      { "en": "a guest organist", "ja": "客演オルガン奏者" }
+    ],
+    "related": [
+      { "en": "organ", "ja": "オルガン" },
+      { "en": "pianist", "ja": "ピアニスト" },
+      { "en": "musician", "ja": "音楽家" }
+    ],
+    "faq": [
+      { "q": "organist とは？", "a": "オルガンを演奏する人で、特に教会のオルガン奏者を指すことが多いです。" },
+      { "q": "-ist は何を表す？", "a": "『～する人・演奏者』を表す接尾辞です（pianist, violinist など）。" }
+    ],
+    "quiz": [
+      { "q": "organist の意味は？", "A": "オルガン奏者", "B": "ピアニスト", "C": "指揮者", "D": "作曲家", "correct": "A" },
+      { "q": "organist が演奏する楽器は？", "A": "オルガン", "B": "ピアノ", "C": "バイオリン", "D": "ギター", "correct": "A" }
+    ]
+  },
+  {
+    "english": "oratorio",
+    "pron": "ˌɔːrəˈtɔːrioʊ",
+    "kana": "オラトリオ",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "伊 oratorio(祈祷所)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "音楽・クラシック"],
+    "meaning_main": "オラトリオ（宗教的な大規模声楽曲）",
+    "description": "oratorio（オラトリオ）の意味・使い方。ヘンデルの『メサイア』に代表される声楽曲を例文とクイズで学習。",
+    "keywords": ["oratorio 意味", "oratorio 使い方", "オラトリオ 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】オラトリオ", "note": "独唱・合唱・管弦楽による大規模な宗教的声楽曲。舞台演出のないオペラ的作品。" }
+    ],
+    "usages": [
+      { "title": "① 宗教的声楽曲", "desc": "合唱と管弦楽の大作。", "example_en": "Handel's \"Messiah\" is a famous oratorio.", "example_ja": "ヘンデルの『メサイア』は有名なオラトリオだ。" },
+      { "title": "② 演奏の文脈", "desc": "コンサートで上演される。", "example_en": "The choir performed an oratorio at Christmas.", "example_ja": "合唱団はクリスマスにオラトリオを演奏した。" }
+    ],
+    "warn": ["オペラと違い、舞台装置・演技を伴わない演奏会形式が基本。題材は宗教的なことが多い。"],
+    "etym_note": "イタリア語 oratorio「祈祷所」に由来。教会の祈祷所で演奏されたことから。ラテン語 orare（祈る）と同根。",
+    "etym_chain": [
+      { "node": "oratorio (イタリア語)", "sub": "祈祷所", "era": "17世紀" },
+      { "node": "oratorio", "sub": "オラトリオ（声楽曲）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a sacred oratorio", "ja": "宗教的オラトリオ" },
+      { "en": "perform an oratorio", "ja": "オラトリオを演奏する" },
+      { "en": "Handel's oratorio", "ja": "ヘンデルのオラトリオ" },
+      { "en": "a famous oratorio", "ja": "有名なオラトリオ" },
+      { "en": "an Easter oratorio", "ja": "復活祭のオラトリオ" },
+      { "en": "the choir in an oratorio", "ja": "オラトリオの合唱団" }
+    ],
+    "related": [
+      { "en": "opera", "ja": "オペラ" },
+      { "en": "cantata", "ja": "カンタータ" },
+      { "en": "choir", "ja": "合唱団" }
+    ],
+    "faq": [
+      { "q": "oratorio と opera の違いは？", "a": "oratorio は舞台演出のない演奏会形式の宗教的声楽曲、opera は演技・舞台装置を伴う歌劇です。" },
+      { "q": "有名な oratorio は？", "a": "ヘンデルの『メサイア』が代表例です。" }
+    ],
+    "quiz": [
+      { "q": "oratorio の意味は？", "A": "宗教的な大規模声楽曲", "B": "短い器楽曲", "C": "舞曲", "D": "独奏曲", "correct": "A" },
+      { "q": "oratorio と opera の違いは？", "A": "oratorio は舞台演出がない", "B": "oratorio は楽器だけ", "C": "opera は宗教曲だけ", "D": "違いはない", "correct": "A" }
+    ]
+  }
+]
