@@ -1,0 +1,480 @@
+[
+  {
+    "english": "now",
+    "pron": "naʊ",
+    "kana": "ナウ",
+    "hinshi": "副詞 / 名詞",
+    "ld_pos": "adverb",
+    "ld_etym": "古英 nu(今)",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "基本語"],
+    "meaning_main": "今・現在・さて",
+    "description": "now（今・さて）の意味・使い方。right now や by now などの定番表現を例文とクイズで学習。",
+    "keywords": ["now 意味", "now 使い方", "今 英語"],
+    "meanings": [
+      { "hinshi": "【副詞】今・現在・たった今", "note": "現在の時点を表す。right now（たった今）。" },
+      { "hinshi": "【副詞】さて・では（話の切り出し）", "note": "話を始める・促すときの『さて』。" }
+    ],
+    "usages": [
+      { "title": "① 今", "desc": "現在の時点。", "example_en": "I'm busy right now.", "example_ja": "私は今忙しい。" },
+      { "title": "② さて（切り出し）", "desc": "話を始める。", "example_en": "Now, let's begin.", "example_ja": "さて、始めましょう。" }
+    ],
+    "warn": ["right now（たった今）, by now（今ごろはもう）, from now on（今後は）, for now（今のところ）。", "now that ～ は『今や～なので』。"],
+    "etym_note": "古英語 nu「今」に由来。",
+    "etym_chain": [
+      { "node": "nu (古英語)", "sub": "今", "era": "古英語" },
+      { "node": "now", "sub": "今", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "right now", "ja": "たった今" },
+      { "en": "by now", "ja": "今ごろはもう" },
+      { "en": "from now on", "ja": "今後は" },
+      { "en": "for now", "ja": "今のところ" },
+      { "en": "now that", "ja": "今や～なので" },
+      { "en": "just now", "ja": "ついさっき" }
+    ],
+    "related": [
+      { "en": "currently", "ja": "現在" },
+      { "en": "immediately", "ja": "すぐに" },
+      { "en": "then", "ja": "そのとき" }
+    ],
+    "faq": [
+      { "q": "now that の意味は？", "a": "『今や～なので』という理由を表す接続表現です。" },
+      { "q": "from now on の意味は？", "a": "『今後は・これからずっと』という意味です。" }
+    ],
+    "quiz": [
+      { "q": "now の意味は？", "A": "今・現在", "B": "昨日", "C": "明日", "D": "去年", "correct": "A" },
+      { "q": "from now on の意味は？", "A": "今後は", "B": "今までは", "C": "今すぐに", "D": "今ごろ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "nowhere",
+    "pron": "ˈnoʊwer",
+    "kana": "ノウウェア",
+    "hinshi": "副詞 / 名詞",
+    "ld_pos": "adverb",
+    "ld_etym": "no(ない)+where(どこ)",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "基本語"],
+    "meaning_main": "どこにも～ない・何もない場所",
+    "description": "nowhere（どこにも～ない）の意味・使い方。out of nowhere や in the middle of nowhere を例文とクイズで学習。",
+    "keywords": ["nowhere 意味", "nowhere 使い方", "どこにもない 英語"],
+    "meanings": [
+      { "hinshi": "【副詞】どこにも～ない", "note": "それ自体に否定を含む。go nowhere（どこにも行かない・進展しない）。" },
+      { "hinshi": "【名詞】どこでもない所", "note": "the middle of nowhere（人里離れた所）。" }
+    ],
+    "usages": [
+      { "title": "① どこにも～ない", "desc": "否定の副詞。", "example_en": "The keys were nowhere to be found.", "example_ja": "鍵はどこにも見つからなかった。" },
+      { "title": "② 突然", "desc": "out of nowhere。", "example_en": "A car came out of nowhere.", "example_ja": "車がどこからともなく現れた。" }
+    ],
+    "warn": ["それ自体が否定なので not と併用しない。", "out of nowhere（突然・どこからともなく）, in the middle of nowhere（人里離れた所）, get nowhere（うまくいかない）。"],
+    "etym_note": "no「ない」＋ where「どこ」。どこにも～ない、の意。",
+    "etym_chain": [
+      { "node": "no + where", "sub": "ない・どこ", "era": "古英語" },
+      { "node": "nowhere", "sub": "どこにも～ない", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "out of nowhere", "ja": "どこからともなく・突然" },
+      { "en": "in the middle of nowhere", "ja": "人里離れた所で" },
+      { "en": "get nowhere", "ja": "うまくいかない" },
+      { "en": "nowhere to be found", "ja": "どこにも見当たらない" },
+      { "en": "nowhere near", "ja": "～には程遠い" },
+      { "en": "go nowhere", "ja": "進展しない" }
+    ],
+    "related": [
+      { "en": "somewhere", "ja": "どこかに" },
+      { "en": "anywhere", "ja": "どこにも・どこかに" },
+      { "en": "everywhere", "ja": "どこでも" }
+    ],
+    "faq": [
+      { "q": "out of nowhere の意味は？", "a": "『どこからともなく・突然』という意味です。" },
+      { "q": "in the middle of nowhere の意味は？", "a": "『人里離れた何もない所で』という意味です。" }
+    ],
+    "quiz": [
+      { "q": "nowhere の意味は？", "A": "どこにも～ない", "B": "どこでも", "C": "どこかに", "D": "ここに", "correct": "A" },
+      { "q": "out of nowhere の意味は？", "A": "どこからともなく・突然", "B": "予定どおりに", "C": "ゆっくりと", "D": "計画的に", "correct": "A" }
+    ]
+  },
+  {
+    "english": "nuclear",
+    "pron": "ˈnuːkliər",
+    "kana": "ニュークリア",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "ラテン nucleus(核)",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "科学・社会で頻出"],
+    "meaning_main": "核の・原子力の",
+    "description": "nuclear（核の・原子力の）の意味・使い方。nuclear power や nuclear family を例文とクイズで学習。",
+    "keywords": ["nuclear 意味", "nuclear 使い方", "原子力 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】原子核の・原子力の・核の", "note": "原子核のエネルギーや核兵器に関する。" },
+      { "hinshi": "【形容詞】中心の・核となる", "note": "nuclear family（核家族）のように『中心の・基本単位の』意味でも使う。" }
+    ],
+    "usages": [
+      { "title": "① 原子力・核", "desc": "エネルギー・兵器。", "example_en": "The country relies on nuclear power.", "example_ja": "その国は原子力に頼っている。" },
+      { "title": "② 核家族", "desc": "nuclear family。", "example_en": "A nuclear family includes parents and children.", "example_ja": "核家族は両親と子どもからなる。" }
+    ],
+    "warn": ["名詞 nucleus（核）。発音は『ニュークリア』/ˈnuːkliər/（×ニュキュラー）。", "nuclear power（原子力）, nuclear weapon（核兵器）, nuclear family（核家族）。"],
+    "etym_note": "ラテン語 nucleus「核・木の実の中身」に由来。中心の核に関する、の意。",
+    "etym_chain": [
+      { "node": "nucleus (ラテン語)", "sub": "核", "era": "ラテン語" },
+      { "node": "nuclear", "sub": "核の・原子力の", "era": "20世紀" }
+    ],
+    "phrases": [
+      { "en": "nuclear power", "ja": "原子力" },
+      { "en": "nuclear weapons", "ja": "核兵器" },
+      { "en": "nuclear energy", "ja": "原子力エネルギー" },
+      { "en": "a nuclear family", "ja": "核家族" },
+      { "en": "a nuclear reactor", "ja": "原子炉" },
+      { "en": "nuclear power plant", "ja": "原子力発電所" }
+    ],
+    "related": [
+      { "en": "nucleus", "ja": "核" },
+      { "en": "atomic", "ja": "原子の" },
+      { "en": "radiation", "ja": "放射線" }
+    ],
+    "faq": [
+      { "q": "nuclear の名詞形は？", "a": "nucleus（核）です。" },
+      { "q": "nuclear family とは？", "a": "両親と子どもだけからなる『核家族』のことです。" }
+    ],
+    "quiz": [
+      { "q": "nuclear の意味は？", "A": "核の・原子力の", "B": "太陽の", "C": "風の", "D": "水の", "correct": "A" },
+      { "q": "a nuclear family とは？", "A": "核家族", "B": "大家族", "C": "母子家庭", "D": "三世代家族", "correct": "A" }
+    ]
+  },
+  {
+    "english": "number",
+    "pron": "ˈnʌmbər",
+    "kana": "ナンバー",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン numerus(数)",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "基本語"],
+    "meaning_main": "数・番号／番号をつける",
+    "description": "number（数・番号）の意味・使い方。a number of や the number of の違いを例文とクイズで学習。",
+    "keywords": ["number 意味", "a number of 使い方", "数 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】数・数字・番号", "note": "数量を表す数や、電話番号・部屋番号などの番号。" },
+      { "hinshi": "【動詞】番号をつける・総数が～になる", "note": "number the pages（ページに番号をつける）。" }
+    ],
+    "usages": [
+      { "title": "① 番号", "desc": "電話番号など。", "example_en": "What's your phone number?", "example_ja": "電話番号は何番ですか。" },
+      { "title": "② a number of", "desc": "いくつかの・多くの。", "example_en": "A number of people came.", "example_ja": "かなりの人が来た。" }
+    ],
+    "warn": ["a number of ～ は『いくつかの・多くの～』（複数扱い）、the number of ～ は『～の数』（単数扱い）。", "略は No.。"],
+    "etym_note": "ラテン語 numerus「数」に由来。",
+    "etym_chain": [
+      { "node": "numerus (ラテン語)", "sub": "数", "era": "ラテン語" },
+      { "node": "number", "sub": "数・番号", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "a phone number", "ja": "電話番号" },
+      { "en": "a number of", "ja": "いくつかの・多くの" },
+      { "en": "the number of", "ja": "～の数" },
+      { "en": "a large number of", "ja": "多数の" },
+      { "en": "an odd number", "ja": "奇数" },
+      { "en": "number one", "ja": "1番・最高" }
+    ],
+    "related": [
+      { "en": "figure", "ja": "数字" },
+      { "en": "digit", "ja": "（0〜9の）数字" },
+      { "en": "count", "ja": "数える" }
+    ],
+    "faq": [
+      { "q": "a number of と the number of の違いは？", "a": "a number of ～ は『いくつかの・多くの～』（複数扱い）、the number of ～ は『～の数』（単数扱い）です。" },
+      { "q": "number の略は？", "a": "No.（ナンバー）です。" }
+    ],
+    "quiz": [
+      { "q": "number の意味は？", "A": "数・番号", "B": "色", "C": "形", "D": "音", "correct": "A" },
+      { "q": "a number of people の意味は？", "A": "かなりの人々", "B": "人の数", "C": "一人だけ", "D": "誰もいない", "correct": "A" }
+    ]
+  },
+  {
+    "english": "numerous",
+    "pron": "ˈnuːmərəs",
+    "kana": "ニューメラス",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "ラテン numerus(数)+-ous",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "フォーマルで頻出"],
+    "meaning_main": "多数の・非常に多くの",
+    "description": "numerous（多数の）の意味・使い方。many よりフォーマルな表現を例文とクイズで学習。",
+    "keywords": ["numerous 意味", "numerous 使い方", "多数の 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】多数の・非常に多くの", "note": "数えられる名詞の複数形を修飾する、ややフォーマルな語。many と近い。" }
+    ],
+    "usages": [
+      { "title": "① 多数の", "desc": "数が多い。", "example_en": "He made numerous mistakes.", "example_ja": "彼は数多くの誤りをした。" },
+      { "title": "② 改まった文で", "desc": "many の格調高い言い換え。", "example_en": "Numerous studies support this.", "example_ja": "多数の研究がこれを裏づけている。" }
+    ],
+    "warn": ["数えられる名詞の複数形を修飾する。量（不可算）には使わない（×numerous water）。", "many よりフォーマル。名詞は number（数）。"],
+    "etym_note": "ラテン語 numerus「数」＋ -ous。数の多い、の意。",
+    "etym_chain": [
+      { "node": "numerus (ラテン語)", "sub": "数", "era": "ラテン語" },
+      { "node": "numerous", "sub": "多数の", "era": "15世紀" }
+    ],
+    "phrases": [
+      { "en": "numerous times", "ja": "何度も" },
+      { "en": "numerous examples", "ja": "多数の例" },
+      { "en": "on numerous occasions", "ja": "幾度となく" },
+      { "en": "numerous studies", "ja": "多数の研究" },
+      { "en": "numerous problems", "ja": "数多くの問題" },
+      { "en": "too numerous to count", "ja": "数えきれないほど多い" }
+    ],
+    "related": [
+      { "en": "many", "ja": "多くの" },
+      { "en": "countless", "ja": "数えきれない" },
+      { "en": "few", "ja": "少ない（反対語）" }
+    ],
+    "faq": [
+      { "q": "numerous と many の違いは？", "a": "意味はほぼ同じですが、numerous の方がややフォーマルです。" },
+      { "q": "不可算名詞にも使える？", "a": "いいえ。数えられる名詞の複数形にのみ使います（量には much などを使う）。" }
+    ],
+    "quiz": [
+      { "q": "numerous の意味は？", "A": "多数の", "B": "少数の", "C": "唯一の", "D": "半分の", "correct": "A" },
+      { "q": "numerous と意味が近いのは？", "A": "many", "B": "few", "C": "single", "D": "rare", "correct": "A" }
+    ]
+  },
+  {
+    "english": "nurse",
+    "pron": "nɜːrs",
+    "kana": "ナース",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン nutrire(養う)",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "職業・基本語"],
+    "meaning_main": "看護師／看護する・大事に育てる",
+    "description": "nurse（看護師・看護する）の意味・使い方。職業の看護師と「介抱する」動詞用法を例文とクイズで学習。",
+    "keywords": ["nurse 意味", "nurse 使い方", "看護師 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】看護師", "note": "病院などで病人やけが人の世話をする専門職。" },
+      { "hinshi": "【動詞】看護する・大事に育てる・抱く", "note": "病人を介抱する、また考え・感情を心に抱き続ける意味も。" }
+    ],
+    "usages": [
+      { "title": "① 看護師", "desc": "医療の専門職。", "example_en": "The nurse checked his temperature.", "example_ja": "看護師は彼の体温を測った。" },
+      { "title": "② 看護する（動詞）", "desc": "介抱する。", "example_en": "She nursed her father back to health.", "example_ja": "彼女は父を看病して回復させた。" }
+    ],
+    "warn": ["動詞では『（病人を）看護する』のほか『（考え・恨みを）心に抱き続ける』意味もある。", "male nurse は『男性看護師』。"],
+    "etym_note": "ラテン語 nutrire「養う・育てる」に由来。nutrition（栄養）と同根。",
+    "etym_chain": [
+      { "node": "nutrire (ラテン語)", "sub": "養う", "era": "ラテン語" },
+      { "node": "nurse", "sub": "看護師・看護する", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "a school nurse", "ja": "養護教諭・保健室の先生" },
+      { "en": "a head nurse", "ja": "看護師長" },
+      { "en": "nurse a patient", "ja": "患者を看護する" },
+      { "en": "nurse a cold", "ja": "風邪を養生する" },
+      { "en": "nurse a grudge", "ja": "恨みを抱き続ける" },
+      { "en": "a nursing home", "ja": "介護施設・老人ホーム" }
+    ],
+    "related": [
+      { "en": "doctor", "ja": "医者" },
+      { "en": "patient", "ja": "患者" },
+      { "en": "care", "ja": "世話・介護" }
+    ],
+    "faq": [
+      { "q": "nurse の動詞の意味は？", "a": "『（病人を）看護する・介抱する』、また『（考え・恨みを）心に抱き続ける』です。" },
+      { "q": "a school nurse とは？", "a": "学校の保健室にいる『養護教諭』のことです。" }
+    ],
+    "quiz": [
+      { "q": "nurse の意味は？", "A": "看護師／看護する", "B": "医者", "C": "薬剤師", "D": "患者", "correct": "A" },
+      { "q": "nurse a grudge の意味は？", "A": "恨みを抱き続ける", "B": "恨みを忘れる", "C": "感謝する", "D": "謝る", "correct": "A" }
+    ]
+  },
+  {
+    "english": "nursery",
+    "pron": "ˈnɜːrsəri",
+    "kana": "ナーサリー",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "nurse(養う)+-ery",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "基本語"],
+    "meaning_main": "保育所・育児室／苗床（なえどこ）",
+    "description": "nursery（保育所・苗床）の意味・使い方。子ども向けの施設と植物の苗床を例文とクイズで学習。",
+    "keywords": ["nursery 意味", "nursery 使い方", "保育所 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】保育所・託児所・育児室", "note": "幼い子どもを預かる・世話する場所や部屋。nursery school（保育園）。" },
+      { "hinshi": "【名詞】苗床・園芸店", "note": "植物の苗を育てる場所、苗木を売る店。" }
+    ],
+    "usages": [
+      { "title": "① 保育所・育児室", "desc": "子どもの世話。", "example_en": "Her son goes to a nursery.", "example_ja": "彼女の息子は保育所に通っている。" },
+      { "title": "② 苗床・園芸店", "desc": "植物を育てる。", "example_en": "We bought plants at a garden nursery.", "example_ja": "私たちは園芸店で植物を買った。" }
+    ],
+    "warn": ["nursery school（保育園）, nursery rhyme（童謡・わらべ歌）。", "植物の『苗床・苗木店』の意味もある。"],
+    "etym_note": "nurse「養う」＋ -ery「場所」。養い育てる場所、の意。",
+    "etym_chain": [
+      { "node": "nurse + -ery", "sub": "養う・場所", "era": "中英語" },
+      { "node": "nursery", "sub": "保育所・苗床", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a nursery school", "ja": "保育園" },
+      { "en": "a nursery rhyme", "ja": "童謡・わらべ歌" },
+      { "en": "a day nursery", "ja": "託児所" },
+      { "en": "go to nursery", "ja": "保育所に通う" },
+      { "en": "a plant nursery", "ja": "園芸店・苗床" },
+      { "en": "the nursery room", "ja": "育児室" }
+    ],
+    "related": [
+      { "en": "nurse", "ja": "看護師・養う" },
+      { "en": "kindergarten", "ja": "幼稚園" },
+      { "en": "preschool", "ja": "就学前施設" }
+    ],
+    "faq": [
+      { "q": "nursery rhyme とは？", "a": "子ども向けの『童謡・わらべ歌』のことです。" },
+      { "q": "植物の nursery とは？", "a": "苗を育てる『苗床』や苗木を売る『園芸店』のことです。" }
+    ],
+    "quiz": [
+      { "q": "nursery の意味は？", "A": "保育所／苗床", "B": "病院", "C": "工場", "D": "図書館", "correct": "A" },
+      { "q": "a nursery rhyme とは？", "A": "童謡・わらべ歌", "B": "校歌", "C": "国歌", "D": "賛美歌", "correct": "A" }
+    ]
+  },
+  {
+    "english": "nut",
+    "pron": "nʌt",
+    "kana": "ナット",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "古英 hnutu(木の実)",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "食べ物・道具"],
+    "meaning_main": "木の実・ナッツ／ナット（ねじ）／（俗）変人",
+    "description": "nut（木の実・ナット）の意味・使い方。食べ物のナッツとボルトのナット、口語の「マニア」を例文とクイズで学習。",
+    "keywords": ["nut 意味", "nut 使い方", "ナッツ 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】木の実・ナッツ", "note": "固い殻に包まれた食べられる実。peanut, walnut など。" },
+      { "hinshi": "【名詞】ナット（ボルトに締める部品）", "note": "ボルトとセットで使う六角形の留め具。" },
+      { "hinshi": "【名詞】（口語）変人・熱狂的なファン", "note": "a health nut（健康オタク）のように『～マニア』の意味も。" }
+    ],
+    "usages": [
+      { "title": "① 木の実・ナッツ", "desc": "食べる実。", "example_en": "She added nuts to the salad.", "example_ja": "彼女はサラダにナッツを加えた。" },
+      { "title": "② ナット（部品）", "desc": "ボルトに締める。", "example_en": "Tighten the nut with a wrench.", "example_ja": "レンチでナットを締めなさい。" }
+    ],
+    "warn": ["食べ物のナッツも金具のナットも同じ nut。", "口語で a ～ nut は『～マニア・オタク』。be nuts は『頭がおかしい・夢中だ』。"],
+    "etym_note": "古英語 hnutu「木の実」に由来。",
+    "etym_chain": [
+      { "node": "hnutu (古英語)", "sub": "木の実", "era": "古英語" },
+      { "node": "nut", "sub": "木の実・ナット", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a mixed nut", "ja": "ミックスナッツ" },
+      { "en": "nuts and bolts", "ja": "ナットとボルト・基本的要素" },
+      { "en": "a health nut", "ja": "健康オタク" },
+      { "en": "be nuts about", "ja": "～に夢中だ" },
+      { "en": "a tough nut to crack", "ja": "手ごわい問題・人" },
+      { "en": "in a nutshell", "ja": "手短に言えば" }
+    ],
+    "related": [
+      { "en": "bolt", "ja": "ボルト" },
+      { "en": "peanut", "ja": "ピーナッツ" },
+      { "en": "shell", "ja": "殻" }
+    ],
+    "faq": [
+      { "q": "in a nutshell とは？", "a": "『ひと言で言えば・手短に言えば』という意味のイディオムです。" },
+      { "q": "nuts and bolts の比喩的意味は？", "a": "『（物事の）基本的な要素・実務的な細部』を表します。" }
+    ],
+    "quiz": [
+      { "q": "nut の意味は？", "A": "木の実・ナッツ／ナット", "B": "果物", "C": "野菜", "D": "穀物", "correct": "A" },
+      { "q": "in a nutshell の意味は？", "A": "手短に言えば", "B": "詳しく言えば", "C": "声に出して", "D": "ゆっくりと", "correct": "A" }
+    ]
+  },
+  {
+    "english": "nutrition",
+    "pron": "nuˈtrɪʃn",
+    "kana": "ニュートリション",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン nutrire(養う)",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "健康で頻出"],
+    "meaning_main": "栄養・栄養摂取",
+    "description": "nutrition（栄養）の意味・使い方。健康や食事に関わる語を nutritious との関係とともに例文とクイズで学習。",
+    "keywords": ["nutrition 意味", "nutrition 使い方", "栄養 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】栄養・栄養摂取・栄養学", "note": "食物から体に必要な成分をとること、またその学問。" }
+    ],
+    "usages": [
+      { "title": "① 栄養", "desc": "体に必要な成分。", "example_en": "Good nutrition is important for children.", "example_ja": "子どもには良い栄養が大切だ。" },
+      { "title": "② 栄養表示", "desc": "食品の情報。", "example_en": "Check the nutrition label on the package.", "example_ja": "パッケージの栄養表示を確認しなさい。" }
+    ],
+    "warn": ["形容詞 nutritious（栄養のある）、nutritional（栄養の）。", "nurse, nourish（養う）と同じ語源 nutrire。"],
+    "etym_note": "ラテン語 nutrire「養う」に由来。nurse, nourish と同根。",
+    "etym_chain": [
+      { "node": "nutrire (ラテン語)", "sub": "養う", "era": "ラテン語" },
+      { "node": "nutrition", "sub": "栄養", "era": "16世紀" }
+    ],
+    "phrases": [
+      { "en": "good nutrition", "ja": "良い栄養" },
+      { "en": "a nutrition label", "ja": "栄養表示" },
+      { "en": "proper nutrition", "ja": "適切な栄養" },
+      { "en": "poor nutrition", "ja": "栄養不足" },
+      { "en": "nutrition facts", "ja": "栄養成分" },
+      { "en": "child nutrition", "ja": "子どもの栄養" }
+    ],
+    "related": [
+      { "en": "nutritious", "ja": "栄養のある" },
+      { "en": "diet", "ja": "食事・食生活" },
+      { "en": "vitamin", "ja": "ビタミン" }
+    ],
+    "faq": [
+      { "q": "nutrition の形容詞は？", "a": "nutritious（栄養のある）や nutritional（栄養の）です。" },
+      { "q": "nutrition facts とは？", "a": "食品の『栄養成分（表示）』のことです。" }
+    ],
+    "quiz": [
+      { "q": "nutrition の意味は？", "A": "栄養・栄養摂取", "B": "運動", "C": "睡眠", "D": "病気", "correct": "A" },
+      { "q": "nutrition の形容詞は？", "A": "nutritious", "B": "nutritive", "C": "nutrient", "D": "nutrish", "correct": "A" }
+    ]
+  },
+  {
+    "english": "naive",
+    "pron": "naɪˈiːv",
+    "kana": "ナイーブ",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "仏 naïf(生まれたままの)",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "性格・カタカナ注意"],
+    "meaning_main": "世間知らずの・うぶな・単純な",
+    "description": "naive（世間知らずの・うぶな）の意味・使い方。日本語「ナイーブ」との意味の違いを例文とクイズで学習。",
+    "keywords": ["naive 意味", "naive 使い方", "世間知らず 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】世間知らずの・うぶな・単純に信じる", "note": "経験が浅く、物事を単純に信じてしまうさま。やや否定的。" }
+    ],
+    "usages": [
+      { "title": "① 世間知らずの", "desc": "うぶで単純。", "example_en": "It was naive of him to trust them.", "example_ja": "彼らを信じるとは彼も世間知らずだった。" },
+      { "title": "② 考えが甘い", "desc": "単純すぎる。", "example_en": "That's a rather naive view.", "example_ja": "それはいささか甘い見方だ。" }
+    ],
+    "warn": ["日本語『ナイーブ＝繊細』とは違い、英語の naive は『世間知らず・考えが甘い』という否定的な意味。", "綴りは naïve とも書く。名詞 naivety（うぶさ）。"],
+    "etym_note": "フランス語 naïf / naïve「生まれたままの・自然な」に由来。ラテン語 nativus（生まれつきの）と同根。",
+    "etym_chain": [
+      { "node": "naïf (フランス語)", "sub": "生まれたままの", "era": "フランス語" },
+      { "node": "naive", "sub": "世間知らずの", "era": "17世紀" }
+    ],
+    "phrases": [
+      { "en": "a naive person", "ja": "世間知らずな人" },
+      { "en": "naive to think", "ja": "～と考えるのは甘い" },
+      { "en": "politically naive", "ja": "政治に疎い" },
+      { "en": "a naive question", "ja": "うぶな質問" },
+      { "en": "naive but kind", "ja": "うぶだが優しい" },
+      { "en": "rather naive", "ja": "いささか考えが甘い" }
+    ],
+    "related": [
+      { "en": "innocent", "ja": "無邪気な" },
+      { "en": "inexperienced", "ja": "経験の浅い" },
+      { "en": "gullible", "ja": "だまされやすい" }
+    ],
+    "faq": [
+      { "q": "日本語の『ナイーブ』と同じ？", "a": "いいえ。日本語は『繊細』ですが、英語の naive は『世間知らず・考えが甘い』という否定的な意味です。" },
+      { "q": "名詞形は？", "a": "naivety / naïveté（うぶさ・単純さ）です。" }
+    ],
+    "quiz": [
+      { "q": "naive の意味は？", "A": "世間知らずの・うぶな", "B": "繊細で傷つきやすい", "C": "賢い", "D": "経験豊富な", "correct": "A" },
+      { "q": "naive に近い語は？", "A": "gullible（だまされやすい）", "B": "wise", "C": "expert", "D": "tough", "correct": "A" }
+    ]
+  }
+]
