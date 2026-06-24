@@ -1,0 +1,483 @@
+[
+  {
+    "english": "narrate",
+    "pron": "ˈnæreɪt",
+    "kana": "ナレイト",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "ラテン narrare(語る)",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "物語で頻出"],
+    "meaning_main": "物語る・語る・ナレーションする",
+    "description": "narrate（物語る・ナレーションする）の意味・使い方。物語や映像のナレーションを例文とクイズで学習。",
+    "keywords": ["narrate 意味", "narrate 使い方", "語る 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】物語る・語る・ナレーションをする", "note": "出来事や物語を順に話すこと。映像などの語りも指す。" }
+    ],
+    "usages": [
+      { "title": "① 物語を語る", "desc": "順を追って話す。", "example_en": "He narrated the story of his journey.", "example_ja": "彼は旅の物語を語った。" },
+      { "title": "② ナレーションする", "desc": "映像の語り。", "example_en": "The documentary is narrated by a famous actor.", "example_ja": "そのドキュメンタリーは有名俳優がナレーションしている。" }
+    ],
+    "warn": ["名詞は narration（語り・ナレーション）、narrative（物語・話）、narrator（語り手）。", "発音は『ナレイト』/ˈnæreɪt/。"],
+    "etym_note": "ラテン語 narrare「語る」（gnarus＝知っている）に由来。narrative と同語源。",
+    "etym_chain": [
+      { "node": "narrare (ラテン語)", "sub": "語る", "era": "古代" },
+      { "node": "narrate", "sub": "物語る", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "narrate a story", "ja": "物語を語る" },
+      { "en": "narrate events", "ja": "出来事を語る" },
+      { "en": "narrated by", "ja": "〜がナレーションする" },
+      { "en": "narrate in the first person", "ja": "一人称で語る" },
+      { "en": "narrate a documentary", "ja": "ドキュメンタリーを語る" },
+      { "en": "narrate one's experience", "ja": "体験を語る" }
+    ],
+    "related": [
+      { "en": "narrative", "ja": "物語・話" },
+      { "en": "narrator", "ja": "語り手" },
+      { "en": "recount", "ja": "詳しく語る" }
+    ],
+    "faq": [
+      { "q": "narrate と tell の違いは？", "a": "tell は広く『話す・伝える』、narrate は『（物語・出来事を）順を追って語る』ことを指します。" },
+      { "q": "narrator とは？", "a": "『語り手・ナレーター』のことです。" }
+    ],
+    "quiz": [
+      { "q": "narrate の意味は？", "A": "物語る・語る", "B": "黙る", "C": "数える", "D": "描く", "correct": "A" },
+      { "q": "narrated by の意味は？", "A": "〜がナレーションする", "B": "〜が制作する", "C": "〜が出演する", "D": "〜が監督する", "correct": "A" }
+    ]
+  },
+  {
+    "english": "nationality",
+    "pron": "ˌnæʃəˈnæləti",
+    "kana": "ナショナリティ",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン natio(生まれ)",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "日常で頻出"],
+    "meaning_main": "国籍・国民性",
+    "description": "nationality（国籍・国民性）の意味・使い方。What is your nationality? を例文とクイズで学習。",
+    "keywords": ["nationality 意味", "nationality 使い方", "国籍 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】国籍・国民であること", "note": "どの国の国民かを表す。複数形 nationalities で『さまざまな国の人々』。" }
+    ],
+    "usages": [
+      { "title": "① 国籍", "desc": "所属する国。", "example_en": "What is your nationality?", "example_ja": "あなたの国籍は何ですか。" },
+      { "title": "② 国民性", "desc": "国の集団。", "example_en": "People of many nationalities live here.", "example_ja": "多くの国籍の人々がここに住んでいる。" }
+    ],
+    "warn": ["nation（国家）, national（国民の）, nationality（国籍）の使い分けに注意。", "国籍を尋ねるときは Where are you from? もよく使う。"],
+    "etym_note": "ラテン語 natio「生まれ・民族」（nasci＝生まれる）に由来。nation, native と同語源。",
+    "etym_chain": [
+      { "node": "natio (ラテン語)", "sub": "生まれ・民族", "era": "古代" },
+      { "node": "nation", "sub": "国家", "era": "中英語" },
+      { "node": "nationality", "sub": "国籍", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "What is your nationality?", "ja": "国籍は何ですか" },
+      { "en": "dual nationality", "ja": "二重国籍" },
+      { "en": "of Japanese nationality", "ja": "日本国籍の" },
+      { "en": "people of all nationalities", "ja": "あらゆる国籍の人々" },
+      { "en": "change one's nationality", "ja": "国籍を変える" },
+      { "en": "by nationality", "ja": "国籍別に" }
+    ],
+    "related": [
+      { "en": "nation", "ja": "国家" },
+      { "en": "citizenship", "ja": "市民権・国籍" },
+      { "en": "national", "ja": "国民の・国民" }
+    ],
+    "faq": [
+      { "q": "nationality と citizenship の違いは？", "a": "どちらも『国籍』ですが、citizenship は『市民権（権利・義務を伴う）』の側面を強調します。" },
+      { "q": "dual nationality とは？", "a": "『二重国籍』のことです。" }
+    ],
+    "quiz": [
+      { "q": "nationality の意味は？", "A": "国籍", "B": "職業", "C": "年齢", "D": "性別", "correct": "A" },
+      { "q": "dual nationality の意味は？", "A": "二重国籍", "B": "無国籍", "C": "永住権", "D": "出生地", "correct": "A" }
+    ]
+  },
+  {
+    "english": "nausea",
+    "pron": "ˈnɔːziə",
+    "kana": "ノージア",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ギリシャ nausia(船酔い)",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "医療で頻出"],
+    "meaning_main": "吐き気・むかつき",
+    "description": "nausea（吐き気・むかつき）の意味・使い方。feel nausea や形容詞 nauseous を例文とクイズで学習。",
+    "keywords": ["nausea 意味", "nausea 使い方", "吐き気 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】吐き気・むかつき", "note": "胃がむかむかして吐きそうな感覚。" }
+    ],
+    "usages": [
+      { "title": "① 吐き気", "desc": "むかむかする。", "example_en": "She felt a wave of nausea.", "example_ja": "彼女は吐き気の波を感じた。" },
+      { "title": "② 症状として", "desc": "病気の兆候。", "example_en": "Nausea is a common side effect.", "example_ja": "吐き気はよくある副作用だ。" }
+    ],
+    "warn": ["形容詞は nauseous / nauseated（吐き気がする）。", "発音は『ノージア』/ˈnɔːziə/。語源は『船酔い』。"],
+    "etym_note": "ギリシャ語 nausia「船酔い」（naus＝船）に由来。nautical（航海の）と同語源。",
+    "etym_chain": [
+      { "node": "naus (ギリシャ語)", "sub": "船", "era": "古代" },
+      { "node": "nausia (ギリシャ語)", "sub": "船酔い", "era": "古代" },
+      { "node": "nausea", "sub": "吐き気", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "feel nausea", "ja": "吐き気がする" },
+      { "en": "a wave of nausea", "ja": "吐き気の波" },
+      { "en": "nausea and dizziness", "ja": "吐き気とめまい" },
+      { "en": "cause nausea", "ja": "吐き気を引き起こす" },
+      { "en": "morning sickness nausea", "ja": "つわりの吐き気" },
+      { "en": "relieve nausea", "ja": "吐き気をやわらげる" }
+    ],
+    "related": [
+      { "en": "nauseous", "ja": "吐き気がする" },
+      { "en": "sickness", "ja": "病気・吐き気" },
+      { "en": "dizziness", "ja": "めまい" }
+    ],
+    "faq": [
+      { "q": "nausea の形容詞は？", "a": "nauseous または nauseated（吐き気がする）です。" },
+      { "q": "語源は？", "a": "ギリシャ語 naus（船）から来た『船酔い』が原義です。" }
+    ],
+    "quiz": [
+      { "q": "nausea の意味は？", "A": "吐き気・むかつき", "B": "頭痛", "C": "発熱", "D": "せき", "correct": "A" },
+      { "q": "a wave of nausea の意味は？", "A": "吐き気の波", "B": "喜びの波", "C": "光の波", "D": "音の波", "correct": "A" }
+    ]
+  },
+  {
+    "english": "nautical",
+    "pron": "ˈnɔːtɪkl",
+    "kana": "ノーティカル",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "ギリシャ nautes(船乗り)",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "海事で頻出"],
+    "meaning_main": "航海の・船舶の・海事の",
+    "description": "nautical（航海の・船舶の）の意味・使い方。nautical mile（海里）を例文とクイズで学習。",
+    "keywords": ["nautical 意味", "nautical 使い方", "航海の 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】航海の・船舶の・海事の", "note": "船や航海に関すること。" }
+    ],
+    "usages": [
+      { "title": "① 航海の・海事の", "desc": "船に関する。", "example_en": "He has a lot of nautical experience.", "example_ja": "彼は航海の経験が豊富だ。" },
+      { "title": "② 海里（nautical mile）", "desc": "距離の単位。", "example_en": "The ship traveled 50 nautical miles.", "example_ja": "その船は50海里を進んだ。" }
+    ],
+    "warn": ["nautical mile（海里）は約1852m。陸上の mile とは異なる。", "naval（海軍の）と混同しないように。"],
+    "etym_note": "ギリシャ語 nautes「船乗り」（naus＝船）に由来。nausea と同語源。",
+    "etym_chain": [
+      { "node": "naus (ギリシャ語)", "sub": "船", "era": "古代" },
+      { "node": "nautikos (ギリシャ語)", "sub": "船乗りの", "era": "古代" },
+      { "node": "nautical", "sub": "航海の", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a nautical mile", "ja": "海里" },
+      { "en": "nautical terms", "ja": "海事用語" },
+      { "en": "nautical chart", "ja": "海図" },
+      { "en": "nautical experience", "ja": "航海経験" },
+      { "en": "a nautical theme", "ja": "海をテーマにした" },
+      { "en": "nautical equipment", "ja": "船舶用機器" }
+    ],
+    "related": [
+      { "en": "naval", "ja": "海軍の" },
+      { "en": "maritime", "ja": "海の・海事の" },
+      { "en": "marine", "ja": "海の" }
+    ],
+    "faq": [
+      { "q": "nautical mile とは？", "a": "『海里』のことで、約1852メートルです。" },
+      { "q": "nautical と naval の違いは？", "a": "nautical は『航海・船舶一般の』、naval は『海軍の』を指します。" }
+    ],
+    "quiz": [
+      { "q": "nautical の意味は？", "A": "航海の・船舶の", "B": "空の", "C": "山の", "D": "宇宙の", "correct": "A" },
+      { "q": "a nautical mile の意味は？", "A": "海里", "B": "光年", "C": "平方キロ", "D": "標高", "correct": "A" }
+    ]
+  },
+  {
+    "english": "navigation",
+    "pron": "ˌnævɪˈɡeɪʃn",
+    "kana": "ナビゲイション",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン navis(船)+agere(進める)",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "交通・ITで頻出"],
+    "meaning_main": "航行・操縦・ナビゲーション",
+    "description": "navigation（航行・ナビゲーション）の意味・使い方。car navigation やサイトの操作を例文とクイズで学習。",
+    "keywords": ["navigation 意味", "navigation 使い方", "航行 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】航行・操縦・道案内・ナビゲーション", "note": "船・飛行機・車の進路を決めること。サイトやアプリの『操作・案内』も指す。" }
+    ],
+    "usages": [
+      { "title": "① 航行・道案内", "desc": "進路を導く。", "example_en": "GPS makes navigation much easier.", "example_ja": "GPSは道案内をずっと楽にする。" },
+      { "title": "② 画面の操作", "desc": "ITで使う。", "example_en": "The website has simple navigation.", "example_ja": "そのサイトは操作が簡単だ。" }
+    ],
+    "warn": ["動詞は navigate（航行する・操作する）、人は navigator（航海士・案内人）。", "car navigation system は『カーナビ』。"],
+    "etym_note": "ラテン語 navis「船」＋ agere「進める」→ navigare（航海する）に由来。navy と同語源。",
+    "etym_chain": [
+      { "node": "navis (ラテン語)", "sub": "船", "era": "古代" },
+      { "node": "navigare (ラテン語)", "sub": "航海する", "era": "古代" },
+      { "node": "navigation", "sub": "航行", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "car navigation", "ja": "カーナビ" },
+      { "en": "site navigation", "ja": "サイトの操作・案内" },
+      { "en": "a navigation system", "ja": "ナビゲーションシステム" },
+      { "en": "aerial navigation", "ja": "航空航法" },
+      { "en": "ease of navigation", "ja": "操作のしやすさ" },
+      { "en": "navigation skills", "ja": "操船・道案内の技術" }
+    ],
+    "related": [
+      { "en": "navigate", "ja": "航行する・操作する" },
+      { "en": "navigator", "ja": "航海士・案内人" },
+      { "en": "route", "ja": "経路" }
+    ],
+    "faq": [
+      { "q": "navigation の動詞は？", "a": "navigate（航行する・道案内する・操作する）です。" },
+      { "q": "IT での navigation とは？", "a": "サイトやアプリの『操作・画面の移動・案内』のことです。" }
+    ],
+    "quiz": [
+      { "q": "navigation の意味は？", "A": "航行・道案内", "B": "料理", "C": "建築", "D": "演奏", "correct": "A" },
+      { "q": "car navigation の意味は？", "A": "カーナビ", "B": "洗車", "C": "車検", "D": "駐車場", "correct": "A" }
+    ]
+  },
+  {
+    "english": "niche",
+    "pron": "niːʃ",
+    "kana": "ニーチ",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "noun",
+    "ld_etym": "仏 niche(くぼみ)",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "ビジネスで頻出"],
+    "meaning_main": "適所・すき間（市場）・くぼみ／ニッチな",
+    "description": "niche（適所・すき間市場）の意味・使い方。a niche market やニッチな分野を例文とクイズで学習。",
+    "keywords": ["niche 意味", "niche 使い方", "ニッチ 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】適所・すき間（市場）・壁のくぼみ", "note": "自分に合った地位や、需要のすき間。元は壁のくぼみ（飾り棚）。" },
+      { "hinshi": "【形容詞】ニッチな・特定層向けの", "note": "a niche product（特定層向けの商品）。" }
+    ],
+    "usages": [
+      { "title": "① すき間市場", "desc": "ビジネスで。", "example_en": "They found a niche in the market.", "example_ja": "彼らは市場のすき間を見つけた。" },
+      { "title": "② 適所を見つける", "desc": "自分の居場所。", "example_en": "She found her niche in teaching.", "example_ja": "彼女は教えることに自分の適所を見つけた。" }
+    ],
+    "warn": ["発音は『ニーチ』/niːʃ/（米）または『ニッチ』。", "a niche market は『すき間市場』、niche は形容詞でも使える。"],
+    "etym_note": "フランス語 niche「くぼみ・巣」（ラテン語 nidus＝巣）に由来。元は壁のくぼみの意味。",
+    "etym_chain": [
+      { "node": "nidus (ラテン語)", "sub": "巣", "era": "古代" },
+      { "node": "niche (フランス語)", "sub": "くぼみ", "era": "近世" },
+      { "node": "niche", "sub": "適所・すき間", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a niche market", "ja": "すき間市場" },
+      { "en": "find one's niche", "ja": "適所を見つける" },
+      { "en": "a niche product", "ja": "特定層向けの商品" },
+      { "en": "carve out a niche", "ja": "独自の地位を築く" },
+      { "en": "a niche audience", "ja": "限られた客層" },
+      { "en": "fill a niche", "ja": "すき間を埋める" }
+    ],
+    "related": [
+      { "en": "segment", "ja": "区分・層" },
+      { "en": "specialty", "ja": "専門・得意" },
+      { "en": "corner", "ja": "（市場の）一角" }
+    ],
+    "faq": [
+      { "q": "a niche market とは？", "a": "大手が手を付けない『すき間市場・特定の小さな市場』のことです。" },
+      { "q": "find one's niche とは？", "a": "『自分に合った居場所・適所を見つける』という意味です。" }
+    ],
+    "quiz": [
+      { "q": "niche の意味は？", "A": "適所・すき間（市場）", "B": "大通り", "C": "頂点", "D": "全体", "correct": "A" },
+      { "q": "find one's niche の意味は？", "A": "適所を見つける", "B": "道に迷う", "C": "仕事を辞める", "D": "引っ越す", "correct": "A" }
+    ]
+  },
+  {
+    "english": "nobility",
+    "pron": "noʊˈbɪləti",
+    "kana": "ノビリティ",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン nobilis(高貴な)",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "歴史で頻出"],
+    "meaning_main": "貴族（階級）・高貴さ・気高さ",
+    "description": "nobility（貴族・高貴さ）の意味・使い方。the nobility（貴族階級）や心の気高さを例文とクイズで学習。",
+    "keywords": ["nobility 意味", "nobility 使い方", "貴族 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】貴族（階級）・高貴さ・気高さ", "note": "the nobility で『貴族階級』。性質としての『気高さ』も指す。" }
+    ],
+    "usages": [
+      { "title": "① 貴族階級", "desc": "身分としての貴族。", "example_en": "He was a member of the nobility.", "example_ja": "彼は貴族の一員だった。" },
+      { "title": "② 気高さ", "desc": "心の高潔さ。", "example_en": "She acted with great nobility.", "example_ja": "彼女はとても気高くふるまった。" }
+    ],
+    "warn": ["形容詞は noble（高貴な・気高い）。", "the nobility は集合的に『貴族階級』を表す。"],
+    "etym_note": "ラテン語 nobilis「高貴な・名高い」（noscere＝知る）に由来。noble と同語源。",
+    "etym_chain": [
+      { "node": "nobilis (ラテン語)", "sub": "高貴な", "era": "古代" },
+      { "node": "nobilité (古仏語)", "sub": "高貴さ", "era": "中世" },
+      { "node": "nobility", "sub": "貴族・気高さ", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "the nobility", "ja": "貴族階級" },
+      { "en": "a member of the nobility", "ja": "貴族の一員" },
+      { "en": "nobility of character", "ja": "人格の気高さ" },
+      { "en": "act with nobility", "ja": "気高くふるまう" },
+      { "en": "hereditary nobility", "ja": "世襲貴族" },
+      { "en": "the landed nobility", "ja": "領地を持つ貴族" }
+    ],
+    "related": [
+      { "en": "noble", "ja": "高貴な・貴族" },
+      { "en": "aristocracy", "ja": "貴族階級" },
+      { "en": "dignity", "ja": "気高さ・尊厳" }
+    ],
+    "faq": [
+      { "q": "nobility と aristocracy の違いは？", "a": "ほぼ同義で『貴族階級』ですが、nobility は『気高さ』という性質の意味も持ちます。" },
+      { "q": "the nobility とは？", "a": "集合的に『貴族（階級）』を指します。" }
+    ],
+    "quiz": [
+      { "q": "nobility の意味は？", "A": "貴族・高貴さ", "B": "貧困", "C": "群衆", "D": "農民", "correct": "A" },
+      { "q": "nobility of character の意味は？", "A": "人格の気高さ", "B": "性格の弱さ", "C": "外見の美しさ", "D": "声の大きさ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "nominal",
+    "pron": "ˈnɑːmɪnl",
+    "kana": "ノミナル",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "ラテン nomen(名前)",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "経済で頻出"],
+    "meaning_main": "名目上の・名ばかりの・ごくわずかな",
+    "description": "nominal（名目上の・わずかな）の意味・使い方。a nominal fee や nominal value を例文とクイズで学習。",
+    "keywords": ["nominal 意味", "nominal 使い方", "名目上の 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】名目上の・名ばかりの", "note": "実質ではなく名前だけの。nominal leader（名ばかりの指導者）。" },
+      { "hinshi": "【形容詞】ごくわずかな・名目だけの（金額）", "note": "a nominal fee（ごくわずかな料金）。" }
+    ],
+    "usages": [
+      { "title": "① 名目上の", "desc": "実質を伴わない。", "example_en": "He is the nominal head of the company.", "example_ja": "彼は会社の名目上のトップだ。" },
+      { "title": "② ごくわずかな", "desc": "金額が少額。", "example_en": "They charge a nominal fee.", "example_ja": "彼らはごくわずかな料金を取る。" }
+    ],
+    "warn": ["nominal value（名目価値）⇔ real value（実質価値）。経済で重要。", "副詞は nominally（名目上は）。"],
+    "etym_note": "ラテン語 nomen「名前」（→ nominalis＝名前の）に由来。name, nominate と同語源。",
+    "etym_chain": [
+      { "node": "nomen (ラテン語)", "sub": "名前", "era": "古代" },
+      { "node": "nominalis (ラテン語)", "sub": "名前の", "era": "古代" },
+      { "node": "nominal", "sub": "名目上の", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a nominal fee", "ja": "ごくわずかな料金" },
+      { "en": "nominal value", "ja": "名目価値" },
+      { "en": "the nominal head", "ja": "名目上のトップ" },
+      { "en": "a nominal amount", "ja": "ごくわずかな額" },
+      { "en": "nominal GDP", "ja": "名目GDP" },
+      { "en": "in nominal terms", "ja": "名目上は" }
+    ],
+    "related": [
+      { "en": "token", "ja": "名ばかりの・しるしの" },
+      { "en": "symbolic", "ja": "象徴的な" },
+      { "en": "negligible", "ja": "ごくわずかな" }
+    ],
+    "faq": [
+      { "q": "nominal と real の違いは？（経済）", "a": "nominal は『名目（物価変動を含む）』、real は『実質（物価変動を除いた）』値を指します。" },
+      { "q": "a nominal fee とは？", "a": "『ごくわずかな・形ばかりの料金』のことです。" }
+    ],
+    "quiz": [
+      { "q": "nominal の意味は？", "A": "名目上の・ごくわずかな", "B": "実質的な", "C": "巨大な", "D": "重要な", "correct": "A" },
+      { "q": "a nominal fee の意味は？", "A": "ごくわずかな料金", "B": "高額な料金", "C": "無料", "D": "追加料金", "correct": "A" }
+    ]
+  },
+  {
+    "english": "nonfiction",
+    "pron": "ˌnɑːnˈfɪkʃn",
+    "kana": "ノンフィクション",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "non- + fiction",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "読書で頻出"],
+    "meaning_main": "ノンフィクション・実話文学",
+    "description": "nonfiction（ノンフィクション・実話）の意味・使い方。fiction との違いを例文とクイズで学習。",
+    "keywords": ["nonfiction 意味", "nonfiction 使い方", "ノンフィクション 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】ノンフィクション・事実に基づく作品", "note": "伝記・歴史・エッセイなど、創作でない事実の文章。fiction（小説・創作）の対義語。" }
+    ],
+    "usages": [
+      { "title": "① ノンフィクション", "desc": "事実の作品。", "example_en": "She prefers nonfiction to novels.", "example_ja": "彼女は小説よりノンフィクションが好きだ。" },
+      { "title": "② 区分として", "desc": "本のジャンル。", "example_en": "The book is shelved under nonfiction.", "example_ja": "その本はノンフィクションの棚にある。" }
+    ],
+    "warn": ["fiction（小説・創作）⇔ nonfiction（事実に基づく）。", "つづりは nonfiction または non-fiction の両方がある。"],
+    "etym_note": "non-「〜でない」＋ fiction「作り話・小説」（ラテン語 fingere＝形づくる）から。",
+    "etym_chain": [
+      { "node": "fingere (ラテン語)", "sub": "形づくる", "era": "古代" },
+      { "node": "fiction", "sub": "作り話", "era": "中英語" },
+      { "node": "nonfiction", "sub": "ノンフィクション", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a work of nonfiction", "ja": "ノンフィクション作品" },
+      { "en": "narrative nonfiction", "ja": "物語風ノンフィクション" },
+      { "en": "the nonfiction section", "ja": "ノンフィクションの棚" },
+      { "en": "creative nonfiction", "ja": "創作的ノンフィクション" },
+      { "en": "read nonfiction", "ja": "ノンフィクションを読む" },
+      { "en": "a nonfiction bestseller", "ja": "ノンフィクションのベストセラー" }
+    ],
+    "related": [
+      { "en": "fiction", "ja": "小説・創作" },
+      { "en": "biography", "ja": "伝記" },
+      { "en": "essay", "ja": "随筆・エッセイ" }
+    ],
+    "faq": [
+      { "q": "fiction と nonfiction の違いは？", "a": "fiction は『創作・小説』、nonfiction は『事実に基づく作品（伝記・歴史など）』です。" },
+      { "q": "つづりは？", "a": "nonfiction でも non-fiction でも構いません。" }
+    ],
+    "quiz": [
+      { "q": "nonfiction の意味は？", "A": "ノンフィクション・実話", "B": "小説", "C": "詩", "D": "脚本", "correct": "A" },
+      { "q": "nonfiction の対義語は？", "A": "fiction", "B": "essay", "C": "biography", "D": "history", "correct": "A" }
+    ]
+  },
+  {
+    "english": "nostalgic",
+    "pron": "nɑˈstældʒɪk",
+    "kana": "ノスタルジック",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "ギリシャ nostos(帰郷)+algos(痛み)",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "感情で頻出"],
+    "meaning_main": "懐かしい・郷愁を誘う・ノスタルジックな",
+    "description": "nostalgic（懐かしい・郷愁を誘う）の意味・使い方。feel nostalgic about を例文とクイズで学習。",
+    "keywords": ["nostalgic 意味", "nostalgic 使い方", "懐かしい 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】懐かしい・郷愁を誘う・ノスタルジックな", "note": "過去を懐かしく思う気持ち。be/feel nostalgic about（〜を懐かしむ）。" }
+    ],
+    "usages": [
+      { "title": "① 懐かしく思う", "desc": "人の気持ち。", "example_en": "I feel nostalgic about my school days.", "example_ja": "学生時代が懐かしい。" },
+      { "title": "② 郷愁を誘う", "desc": "物事の性質。", "example_en": "The song has a nostalgic feel.", "example_ja": "その曲は郷愁を誘う感じがある。" }
+    ],
+    "warn": ["名詞は nostalgia（郷愁・懐かしさ）。", "前置詞は about / for を使う（nostalgic for the past）。"],
+    "etym_note": "ギリシャ語 nostos「帰郷」＋ algos「痛み」→ nostalgia（郷愁）に由来。",
+    "etym_chain": [
+      { "node": "nostos + algos (ギリシャ語)", "sub": "帰郷＋痛み", "era": "古代" },
+      { "node": "nostalgia", "sub": "郷愁", "era": "近代英語" },
+      { "node": "nostalgic", "sub": "懐かしい", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "feel nostalgic", "ja": "懐かしく感じる" },
+      { "en": "nostalgic about the past", "ja": "過去を懐かしむ" },
+      { "en": "a nostalgic feeling", "ja": "郷愁の念" },
+      { "en": "nostalgic memories", "ja": "懐かしい思い出" },
+      { "en": "nostalgic for home", "ja": "故郷を懐かしむ" },
+      { "en": "a nostalgic mood", "ja": "ノスタルジックな雰囲気" }
+    ],
+    "related": [
+      { "en": "nostalgia", "ja": "郷愁・懐かしさ" },
+      { "en": "sentimental", "ja": "感傷的な" },
+      { "en": "wistful", "ja": "もの思いにふける" }
+    ],
+    "faq": [
+      { "q": "nostalgic の名詞は？", "a": "nostalgia（郷愁・懐かしさ）です。" },
+      { "q": "前置詞は何を使う？", "a": "nostalgic about / for（〜を懐かしむ）を使います。" }
+    ],
+    "quiz": [
+      { "q": "nostalgic の意味は？", "A": "懐かしい・郷愁を誘う", "B": "退屈な", "C": "新しい", "D": "怒った", "correct": "A" },
+      { "q": "feel nostalgic about の意味は？", "A": "〜を懐かしむ", "B": "〜を恐れる", "C": "〜を嫌う", "D": "〜を忘れる", "correct": "A" }
+    ]
+  }
+]
