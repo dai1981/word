@@ -1,0 +1,479 @@
+[
+  {
+    "english": "name",
+    "pron": "neɪm",
+    "kana": "ネイム",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "noun",
+    "ld_etym": "古英 nama(名前)",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "基本語"],
+    "meaning_main": "名前／名づける",
+    "description": "name（名前・名づける）の意味・使い方。人や物の名前と「名づける」という動詞を例文とクイズでわかりやすく学習。",
+    "keywords": ["name 意味", "name 使い方", "名前 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】名前", "note": "人・物・場所などを表す呼び名。first name（名）, last name（姓）。" },
+      { "hinshi": "【動詞】名づける・名前を挙げる", "note": "名前をつける、また名指しで挙げること。" }
+    ],
+    "usages": [
+      { "title": "① 名前を尋ねる", "desc": "人や物の呼び名。", "example_en": "What is your name?", "example_ja": "あなたの名前は何ですか。" },
+      { "title": "② 名づける（動詞）", "desc": "名前をつける。", "example_en": "They named their dog Max.", "example_ja": "彼らは犬をマックスと名づけた。" }
+    ],
+    "warn": ["first name（名）, last name / family name / surname（姓）の区別に注意。", "name after ～ で『～にちなんで名づける』。"],
+    "etym_note": "古英語 nama「名前」に由来。ラテン語 nomen とも同根。",
+    "etym_chain": [
+      { "node": "nama (古英語)", "sub": "名前", "era": "古英語" },
+      { "node": "name", "sub": "名前", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "first name", "ja": "名（ファーストネーム）" },
+      { "en": "last name", "ja": "姓（ラストネーム）" },
+      { "en": "full name", "ja": "氏名・フルネーム" },
+      { "en": "name after", "ja": "～にちなんで名づける" },
+      { "en": "by name", "ja": "名前で" },
+      { "en": "a household name", "ja": "誰もが知る名前" }
+    ],
+    "related": [
+      { "en": "title", "ja": "題名・肩書き" },
+      { "en": "nickname", "ja": "あだ名" },
+      { "en": "call", "ja": "呼ぶ" }
+    ],
+    "faq": [
+      { "q": "first name と last name の違いは？", "a": "first name は『名』、last name（family name / surname）は『姓』です。" },
+      { "q": "name after の意味は？", "a": "『～にちなんで名づける』という意味です（例: named after his grandfather）。" }
+    ],
+    "quiz": [
+      { "q": "name の意味は？", "A": "名前／名づける", "B": "数字", "C": "色", "D": "時間", "correct": "A" },
+      { "q": "「姓」を表すのは？", "A": "last name", "B": "first name", "C": "nickname", "D": "pen name", "correct": "A" }
+    ]
+  },
+  {
+    "english": "nature",
+    "pron": "ˈneɪtʃər",
+    "kana": "ネイチャー",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン natura(生まれ・自然)",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "基本語"],
+    "meaning_main": "自然／性質・本質",
+    "description": "nature（自然・性質）の意味・使い方。大自然と「もともとの性質」という二つの意味を例文とクイズで学習。",
+    "keywords": ["nature 意味", "nature 使い方", "自然 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】自然・大自然", "note": "人間が作ったものではない、山・川・動植物などの世界。" },
+      { "hinshi": "【名詞】性質・本質", "note": "人や物がもともと持っている性格・特徴。human nature（人間の本性）。" }
+    ],
+    "usages": [
+      { "title": "① 大自然", "desc": "自然界のこと。", "example_en": "We enjoyed the beauty of nature.", "example_ja": "私たちは自然の美しさを楽しんだ。" },
+      { "title": "② 性質・本質", "desc": "もともとの性格。", "example_en": "It is in his nature to help others.", "example_ja": "他人を助けるのは彼の性分だ。" }
+    ],
+    "warn": ["『自然』の意味では通例 the をつけず不可算で nature。", "形容詞は natural（自然の・当然の）。"],
+    "etym_note": "ラテン語 natura「生まれ・自然」（nasci＝生まれる）に由来。",
+    "etym_chain": [
+      { "node": "natura (ラテン語)", "sub": "生まれ・自然", "era": "ラテン語" },
+      { "node": "nature", "sub": "自然・性質", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "in nature", "ja": "自然の中で" },
+      { "en": "human nature", "ja": "人間の本性" },
+      { "en": "by nature", "ja": "生まれつき" },
+      { "en": "second nature", "ja": "第二の天性・習い性" },
+      { "en": "the nature of", "ja": "～の本質" },
+      { "en": "natural beauty", "ja": "自然の美" }
+    ],
+    "related": [
+      { "en": "natural", "ja": "自然の" },
+      { "en": "environment", "ja": "環境" },
+      { "en": "character", "ja": "性格" }
+    ],
+    "faq": [
+      { "q": "by nature の意味は？", "a": "『生まれつき・もともと』という意味です（例: shy by nature）。" },
+      { "q": "nature の形容詞は？", "a": "natural（自然の・当然の）です。" }
+    ],
+    "quiz": [
+      { "q": "nature の意味は？", "A": "自然／性質・本質", "B": "国", "C": "数", "D": "音", "correct": "A" },
+      { "q": "human nature の意味は？", "A": "人間の本性", "B": "人間の住所", "C": "人間の名前", "D": "人間の体重", "correct": "A" }
+    ]
+  },
+  {
+    "english": "near",
+    "pron": "nɪr",
+    "kana": "ニア",
+    "hinshi": "形容詞 / 副詞 / 前置詞",
+    "ld_pos": "adjective",
+    "ld_etym": "古英 near(より近く)",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "基本語"],
+    "meaning_main": "近い・近くに・～の近くに",
+    "description": "near（近い・近くに）の意味・使い方。形容詞・副詞・前置詞の使い分けを例文とクイズでわかりやすく学習。",
+    "keywords": ["near 意味", "near 使い方", "近い 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】近い", "note": "距離・時間・関係が近いこと。反対は far（遠い）。" },
+      { "hinshi": "【前置詞・副詞】～の近くに・近くに", "note": "near the station（駅の近くに）のように使う。" }
+    ],
+    "usages": [
+      { "title": "① ～の近くに（前置詞）", "desc": "場所が近い。", "example_en": "The shop is near the station.", "example_ja": "その店は駅の近くにある。" },
+      { "title": "② 近い（形容詞）", "desc": "距離・時が近い。", "example_en": "The holidays are getting near.", "example_ja": "休暇が近づいている。" }
+    ],
+    "warn": ["反対は far（遠い）。比較級 nearer、最上級 nearest。", "nearby（近くの・近くに）は別語で形容詞・副詞。"],
+    "etym_note": "古英語 near（neah「近い」の比較級）に由来。",
+    "etym_chain": [
+      { "node": "near (古英語)", "sub": "より近く", "era": "古英語" },
+      { "node": "near", "sub": "近い・近くに", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "near here", "ja": "この近くに" },
+      { "en": "near the station", "ja": "駅の近くに" },
+      { "en": "come near", "ja": "近づく" },
+      { "en": "in the near future", "ja": "近い将来に" },
+      { "en": "near the end", "ja": "終わり近くに" },
+      { "en": "draw near", "ja": "近づく" }
+    ],
+    "related": [
+      { "en": "nearby", "ja": "近くの・近くに" },
+      { "en": "close", "ja": "近い" },
+      { "en": "far", "ja": "遠い（反対語）" }
+    ],
+    "faq": [
+      { "q": "near の反対語は？", "a": "far（遠い）です。" },
+      { "q": "near と nearby の違いは？", "a": "near は前置詞でも使えます（near the station）。nearby は『近くの・近くに』という形容詞・副詞で前置詞にはなりません。" }
+    ],
+    "quiz": [
+      { "q": "near の意味は？", "A": "近い・近くに", "B": "遠い", "C": "高い", "D": "速い", "correct": "A" },
+      { "q": "near の反対語は？", "A": "far", "B": "close", "C": "nearby", "D": "next", "correct": "A" }
+    ]
+  },
+  {
+    "english": "neck",
+    "pron": "nek",
+    "kana": "ネック",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "古英 hnecca(首)",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "体の部位"],
+    "meaning_main": "首",
+    "description": "neck（首）の意味・使い方。体の部位の首と、瓶の首などの比喩を例文とクイズでわかりやすく学習。",
+    "keywords": ["neck 意味", "neck 使い方", "首 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】首", "note": "頭と胴体をつなぐ部分。また、瓶などの細くくびれた部分（the neck of a bottle）。" }
+    ],
+    "usages": [
+      { "title": "① 体の首", "desc": "頭と胴をつなぐ。", "example_en": "She wore a scarf around her neck.", "example_ja": "彼女は首にスカーフを巻いていた。" },
+      { "title": "② 瓶の首", "desc": "細い部分。", "example_en": "He held the bottle by the neck.", "example_ja": "彼は瓶の首を持った。" }
+    ],
+    "warn": ["イディオム a pain in the neck は『悩みの種・うっとうしい人』。", "neck and neck は『接戦で・互角で』。"],
+    "etym_note": "古英語 hnecca「首の後ろ」に由来。",
+    "etym_chain": [
+      { "node": "hnecca (古英語)", "sub": "首", "era": "古英語" },
+      { "node": "neck", "sub": "首", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "around the neck", "ja": "首の周りに" },
+      { "en": "a stiff neck", "ja": "肩こり・首のこり" },
+      { "en": "a pain in the neck", "ja": "悩みの種" },
+      { "en": "neck and neck", "ja": "接戦で・互角で" },
+      { "en": "the neck of a bottle", "ja": "瓶の首" },
+      { "en": "break one's neck", "ja": "首の骨を折る" }
+    ],
+    "related": [
+      { "en": "throat", "ja": "のど" },
+      { "en": "shoulder", "ja": "肩" },
+      { "en": "head", "ja": "頭" }
+    ],
+    "faq": [
+      { "q": "a pain in the neck の意味は？", "a": "『悩みの種・うっとうしい人や物』という意味のイディオムです。" },
+      { "q": "neck and neck の意味は？", "a": "競争で『接戦・互角』であることを表します。" }
+    ],
+    "quiz": [
+      { "q": "neck の意味は？", "A": "首", "B": "腕", "C": "足", "D": "背中", "correct": "A" },
+      { "q": "neck and neck の意味は？", "A": "接戦で・互角で", "B": "ばらばらに", "C": "上下に", "D": "前後に", "correct": "A" }
+    ]
+  },
+  {
+    "english": "need",
+    "pron": "niːd",
+    "kana": "ニード",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "verb",
+    "ld_etym": "古英 nied(必要・強制)",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "基本語"],
+    "meaning_main": "～を必要とする／必要・要求",
+    "description": "need（必要とする・必要）の意味・使い方。need to do の形や名詞用法を例文とクイズでわかりやすく学習。",
+    "keywords": ["need 意味", "need to 使い方", "必要 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】～を必要とする・～する必要がある", "note": "need ＋名詞、または need to do（～する必要がある）。" },
+      { "hinshi": "【名詞】必要・要求・困窮", "note": "the need for ～（～の必要性）、in need（困っている）。" }
+    ],
+    "usages": [
+      { "title": "① ～する必要がある", "desc": "need to do の形。", "example_en": "I need to finish this today.", "example_ja": "今日これを終わらせる必要がある。" },
+      { "title": "② 必要・要求（名詞）", "desc": "the need for ～。", "example_en": "There is a need for more nurses.", "example_ja": "もっと看護師が必要だ。" }
+    ],
+    "warn": ["否定・疑問で助動詞的に need not（～する必要はない）も使う。", "in need は『困っている・必要としている』。"],
+    "etym_note": "古英語 nied / nēd「必要・強制」に由来。",
+    "etym_chain": [
+      { "node": "nied (古英語)", "sub": "必要・強制", "era": "古英語" },
+      { "node": "need", "sub": "必要とする", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "need to do", "ja": "～する必要がある" },
+      { "en": "the need for", "ja": "～の必要性" },
+      { "en": "in need", "ja": "困っている" },
+      { "en": "if need be", "ja": "必要なら" },
+      { "en": "need help", "ja": "助けが必要だ" },
+      { "en": "meet a need", "ja": "需要を満たす" }
+    ],
+    "related": [
+      { "en": "require", "ja": "必要とする" },
+      { "en": "want", "ja": "ほしい" },
+      { "en": "necessary", "ja": "必要な" }
+    ],
+    "faq": [
+      { "q": "need to do の意味は？", "a": "『～する必要がある』という意味です。" },
+      { "q": "in need の意味は？", "a": "『困っている・助けを必要としている』という意味です（A friend in need…）。" }
+    ],
+    "quiz": [
+      { "q": "need の意味は？", "A": "～を必要とする／必要", "B": "～を捨てる", "C": "～を売る", "D": "～を隠す", "correct": "A" },
+      { "q": "「～する必要がある」の形は？", "A": "need to do", "B": "need doing", "C": "need of do", "D": "need for do", "correct": "A" }
+    ]
+  },
+  {
+    "english": "needle",
+    "pron": "ˈniːdl",
+    "kana": "ニードル",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "古英 nædl(針)",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "道具・身近"],
+    "meaning_main": "針",
+    "description": "needle（針）の意味・使い方。裁縫・注射・計器の針などを例文とクイズでわかりやすく学習。",
+    "keywords": ["needle 意味", "needle 使い方", "針 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】針", "note": "裁縫の針、注射針、計器やレコードの針など、細くとがった針状のもの。" }
+    ],
+    "usages": [
+      { "title": "① 裁縫の針", "desc": "糸を通して縫う。", "example_en": "She threaded the needle.", "example_ja": "彼女は針に糸を通した。" },
+      { "title": "② 注射・計器の針", "desc": "医療や計器で。", "example_en": "The nurse used a clean needle.", "example_ja": "看護師は清潔な針を使った。" }
+    ],
+    "warn": ["a needle in a haystack は『干し草の中の針＝見つけるのがほぼ不可能なもの』。", "松などの『針葉』も needle。"],
+    "etym_note": "古英語 nædl「針」に由来。",
+    "etym_chain": [
+      { "node": "nædl (古英語)", "sub": "針", "era": "古英語" },
+      { "node": "needle", "sub": "針", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "thread a needle", "ja": "針に糸を通す" },
+      { "en": "a sewing needle", "ja": "裁縫針" },
+      { "en": "a needle and thread", "ja": "針と糸" },
+      { "en": "a needle in a haystack", "ja": "見つけにくいもの" },
+      { "en": "pine needles", "ja": "松葉" },
+      { "en": "the compass needle", "ja": "方位磁針の針" }
+    ],
+    "related": [
+      { "en": "thread", "ja": "糸" },
+      { "en": "pin", "ja": "ピン・まち針" },
+      { "en": "sew", "ja": "縫う" }
+    ],
+    "faq": [
+      { "q": "a needle in a haystack とは？", "a": "干し草の山の中の針のように『見つけるのがほぼ不可能なもの』を表す表現です。" },
+      { "q": "松の葉も needle？", "a": "はい。針のように細い松などの葉を pine needles（松葉）と言います。" }
+    ],
+    "quiz": [
+      { "q": "needle の意味は？", "A": "針", "B": "糸", "C": "布", "D": "ボタン", "correct": "A" },
+      { "q": "a needle in a haystack の意味は？", "A": "見つけにくいもの", "B": "簡単な作業", "C": "宝物", "D": "農作業", "correct": "A" }
+    ]
+  },
+  {
+    "english": "neighbor",
+    "pron": "ˈneɪbər",
+    "kana": "ネイバー",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "古英 neahgebur(近くに住む人)",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "基本語"],
+    "meaning_main": "隣人・近所の人",
+    "description": "neighbor（隣人・近所の人）の意味・使い方。米英の綴りの違いも含め例文とクイズでわかりやすく学習。",
+    "keywords": ["neighbor 意味", "neighbor neighbour 違い", "隣人 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】隣人・近所の人", "note": "近くに住む人、また隣り合うもの・国など。イギリス綴りは neighbour。" }
+    ],
+    "usages": [
+      { "title": "① 近所の人", "desc": "隣・近くに住む人。", "example_en": "Our neighbors are very friendly.", "example_ja": "私たちの近所の人はとても親切だ。" },
+      { "title": "② 隣り合う国・もの", "desc": "隣接するもの。", "example_en": "Canada is a neighbor of the United States.", "example_ja": "カナダはアメリカの隣国だ。" }
+    ],
+    "warn": ["アメリカ綴り neighbor、イギリス綴り neighbour。", "隣近所は the neighborhood（地域・近所）。"],
+    "etym_note": "古英語 neahgebur「近く(neah)に住む人(gebur)」に由来。",
+    "etym_chain": [
+      { "node": "neahgebur (古英語)", "sub": "近くに住む人", "era": "古英語" },
+      { "node": "neighbor", "sub": "隣人", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "next-door neighbor", "ja": "隣の家の人" },
+      { "en": "a friendly neighbor", "ja": "親切な隣人" },
+      { "en": "neighboring countries", "ja": "近隣諸国" },
+      { "en": "a good neighbor", "ja": "良き隣人" },
+      { "en": "our new neighbors", "ja": "新しい近所の人たち" },
+      { "en": "love thy neighbor", "ja": "汝の隣人を愛せよ" }
+    ],
+    "related": [
+      { "en": "neighborhood", "ja": "近所・地域" },
+      { "en": "next door", "ja": "隣の" },
+      { "en": "community", "ja": "地域社会" }
+    ],
+    "faq": [
+      { "q": "neighbor と neighbour の違いは？", "a": "neighbor がアメリカ綴り、neighbour がイギリス綴りです。意味は同じです。" },
+      { "q": "neighborhood とは？", "a": "『近所・地域』という意味です。" }
+    ],
+    "quiz": [
+      { "q": "neighbor の意味は？", "A": "隣人・近所の人", "B": "親戚", "C": "店員", "D": "先生", "correct": "A" },
+      { "q": "neighbor のイギリス綴りは？", "A": "neighbour", "B": "naybor", "C": "neighbar", "D": "neibour", "correct": "A" }
+    ]
+  },
+  {
+    "english": "nervous",
+    "pron": "ˈnɜːrvəs",
+    "kana": "ナーバス",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "ラテン nervus(神経・腱)",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "気持ちを表す語"],
+    "meaning_main": "緊張した・不安な／神経の",
+    "description": "nervous（緊張した・不安な）の意味・使い方。試験前などの気持ちを表す語を例文とクイズで学習。",
+    "keywords": ["nervous 意味", "nervous 使い方", "緊張 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】緊張した・不安な・神経質な", "note": "心配や緊張で落ち着かないさま。nervous about ～（～について不安）。" },
+      { "hinshi": "【形容詞】神経の", "note": "the nervous system（神経系）など、医学的な意味でも使う。" }
+    ],
+    "usages": [
+      { "title": "① 緊張・不安", "desc": "落ち着かない気持ち。", "example_en": "I'm nervous about the test.", "example_ja": "私は試験のことで緊張している。" },
+      { "title": "② 神経の", "desc": "the nervous system。", "example_en": "The brain is part of the nervous system.", "example_ja": "脳は神経系の一部だ。" }
+    ],
+    "warn": ["nervous about ～（～について不安）。名詞は nerve（神経・度胸）, nervousness（緊張）。", "カタカナ『ナーバス』は『神経質』寄りだが、英語では『緊張・不安』が中心。"],
+    "etym_note": "ラテン語 nervus「神経・腱」に由来。",
+    "etym_chain": [
+      { "node": "nervus (ラテン語)", "sub": "神経・腱", "era": "ラテン語" },
+      { "node": "nervous", "sub": "緊張した・神経の", "era": "16世紀" }
+    ],
+    "phrases": [
+      { "en": "nervous about", "ja": "～について不安で" },
+      { "en": "feel nervous", "ja": "緊張する" },
+      { "en": "get nervous", "ja": "緊張してくる" },
+      { "en": "a nervous smile", "ja": "ぎこちない笑み" },
+      { "en": "the nervous system", "ja": "神経系" },
+      { "en": "a nervous breakdown", "ja": "神経衰弱" }
+    ],
+    "related": [
+      { "en": "nerve", "ja": "神経・度胸" },
+      { "en": "anxious", "ja": "心配な" },
+      { "en": "calm", "ja": "落ち着いた（反対語）" }
+    ],
+    "faq": [
+      { "q": "nervous about の意味は？", "a": "『～について緊張・不安を感じる』という意味です。" },
+      { "q": "名詞形は？", "a": "nerve（神経・度胸）、nervousness（緊張・神経質）です。" }
+    ],
+    "quiz": [
+      { "q": "nervous の意味は？", "A": "緊張した・不安な", "B": "落ち着いた", "C": "うれしい", "D": "眠い", "correct": "A" },
+      { "q": "the nervous system の意味は？", "A": "神経系", "B": "消化器系", "C": "循環器系", "D": "呼吸器系", "correct": "A" }
+    ]
+  },
+  {
+    "english": "nest",
+    "pron": "nest",
+    "kana": "ネスト",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "noun",
+    "ld_etym": "古英 nest(巣)",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "自然・身近"],
+    "meaning_main": "巣／巣を作る",
+    "description": "nest（巣）の意味・使い方。鳥や虫の巣と「入れ子にする」というIT的な比喩を例文とクイズで学習。",
+    "keywords": ["nest 意味", "nest 使い方", "巣 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】巣", "note": "鳥・昆虫などがすみ、卵を産む場所。比喩で『居心地のよい場所』も。" },
+      { "hinshi": "【動詞】巣を作る／入れ子にする", "note": "巣を作る。ITでは『入れ子にする（nested）』の意味でも使う。" }
+    ],
+    "usages": [
+      { "title": "① 鳥の巣", "desc": "卵を産む場所。", "example_en": "The bird built a nest in the tree.", "example_ja": "鳥は木に巣を作った。" },
+      { "title": "② 入れ子（IT・比喩）", "desc": "中に入れ込む。", "example_en": "The tables are nested inside each other.", "example_ja": "それらの表は互いに入れ子になっている。" }
+    ],
+    "warn": ["a nest egg は『（将来のための）蓄え・へそくり』。", "leave the nest は『巣立つ・自立する』。"],
+    "etym_note": "古英語 nest「巣」に由来。",
+    "etym_chain": [
+      { "node": "nest (古英語)", "sub": "巣", "era": "古英語" },
+      { "node": "nest", "sub": "巣", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "build a nest", "ja": "巣を作る" },
+      { "en": "a bird's nest", "ja": "鳥の巣" },
+      { "en": "a nest egg", "ja": "蓄え・へそくり" },
+      { "en": "leave the nest", "ja": "巣立つ・自立する" },
+      { "en": "an empty nest", "ja": "子が巣立った家" },
+      { "en": "nested tables", "ja": "入れ子の表" }
+    ],
+    "related": [
+      { "en": "egg", "ja": "卵" },
+      { "en": "bird", "ja": "鳥" },
+      { "en": "den", "ja": "巣穴" }
+    ],
+    "faq": [
+      { "q": "a nest egg とは？", "a": "『将来のためにためたお金・蓄え』という意味です。" },
+      { "q": "ITの nested とは？", "a": "あるものの中に別のものを入れ込む『入れ子にする』ことです。" }
+    ],
+    "quiz": [
+      { "q": "nest の意味は？", "A": "巣", "B": "枝", "C": "羽", "D": "卵だけ", "correct": "A" },
+      { "q": "a nest egg の意味は？", "A": "蓄え・へそくり", "B": "朝食", "C": "鳥のひな", "D": "おもちゃ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "net",
+    "pron": "net",
+    "kana": "ネット",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "noun",
+    "ld_etym": "古英 net(網)",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "道具・基本語"],
+    "meaning_main": "網・ネット／正味の",
+    "description": "net（網・正味の）の意味・使い方。スポーツや漁の網と、経済の「正味（手取り）」を例文とクイズで学習。",
+    "keywords": ["net 意味", "net 使い方", "網 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】網・ネット", "note": "糸やひもを編んだもの。魚をとる網、テニス・サッカーのネットなど。the Net で『インターネット』も。" },
+      { "hinshi": "【形容詞】正味の・手取りの", "note": "税・経費などを差し引いた後の。net income（純利益）。反対は gross（総額の）。" }
+    ],
+    "usages": [
+      { "title": "① 網・ネット", "desc": "編んだ網。", "example_en": "The fish were caught in a net.", "example_ja": "魚は網で捕らえられた。" },
+      { "title": "② 正味の（形容詞）", "desc": "差し引き後の。", "example_en": "Her net income is lower than her salary.", "example_ja": "彼女の手取り収入は給料より低い。" }
+    ],
+    "warn": ["正味（手取り）の net ⇔ 総額の gross。", "the Net / the net で『インターネット』のくだけた言い方にもなる。"],
+    "etym_note": "古英語 net「網」に由来。形容詞『正味の』はイタリア語 netto（清潔な・正味の）由来。",
+    "etym_chain": [
+      { "node": "net (古英語)", "sub": "網", "era": "古英語" },
+      { "node": "net", "sub": "網／正味の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a fishing net", "ja": "魚をとる網" },
+      { "en": "a safety net", "ja": "安全網・セーフティネット" },
+      { "en": "net income", "ja": "純利益・手取り" },
+      { "en": "net weight", "ja": "正味重量" },
+      { "en": "the net", "ja": "ネット（インターネット）" },
+      { "en": "net profit", "ja": "純利益" }
+    ],
+    "related": [
+      { "en": "gross", "ja": "総額の（反対語）" },
+      { "en": "mesh", "ja": "網目" },
+      { "en": "web", "ja": "クモの巣・ウェブ" }
+    ],
+    "faq": [
+      { "q": "net（形容詞）の反対語は？", "a": "gross（総額の・税引き前の）です。net は『正味・手取りの』です。" },
+      { "q": "a safety net とは？", "a": "落ちたときに受け止める『安全網』、比喩で『（生活の）保障・セーフティネット』です。" }
+    ],
+    "quiz": [
+      { "q": "net の名詞の意味は？", "A": "網・ネット", "B": "石", "C": "炎", "D": "氷", "correct": "A" },
+      { "q": "net income の net の意味は？", "A": "正味の・手取りの", "B": "総額の", "C": "予想の", "D": "最大の", "correct": "A" }
+    ]
+  }
+]

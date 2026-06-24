@@ -1,0 +1,479 @@
+[
+  {
+    "english": "narrative",
+    "pron": "ˈnærətɪv",
+    "kana": "ナラティブ",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン narrare(語る)",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "文学・論述で頻出"],
+    "meaning_main": "物語・語り／物語の・叙述の",
+    "description": "narrative（物語・語り）の意味・使い方。出来事を語る筋立てや「世論を作る語り口」を例文とクイズで学習。",
+    "keywords": ["narrative 意味", "narrative 使い方", "物語 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】物語・語り・叙述", "note": "出来事を順序立てて語ったもの。動詞は narrate（語る）。" },
+      { "hinshi": "【名詞】（世論を作る）語り口・筋書き", "note": "報道・政治で『一定の見方を作る語り』。change the narrative。" }
+    ],
+    "usages": [
+      { "title": "① 物語・語り", "desc": "出来事の叙述。", "example_en": "The book has a gripping narrative.", "example_ja": "その本は引き込まれる物語だ。" },
+      { "title": "② 語り口・筋書き", "desc": "見方を作る語り。", "example_en": "The media shaped the narrative.", "example_ja": "メディアが語り口（世論）を形づくった。" }
+    ],
+    "warn": ["動詞 narrate（語る・ナレーションする）、語る人は narrator。", "近年は『（特定の見方を作る）語り口・ストーリー』の意味でも頻出。"],
+    "etym_note": "ラテン語 narrare「語る」に由来。",
+    "etym_chain": [
+      { "node": "narrare (ラテン語)", "sub": "語る", "era": "ラテン語" },
+      { "node": "narrative", "sub": "物語・語り", "era": "15世紀" }
+    ],
+    "phrases": [
+      { "en": "a personal narrative", "ja": "個人の語り・体験談" },
+      { "en": "the main narrative", "ja": "主筋" },
+      { "en": "change the narrative", "ja": "語り口を変える" },
+      { "en": "a gripping narrative", "ja": "引き込まれる物語" },
+      { "en": "a narrative voice", "ja": "語りの声" },
+      { "en": "control the narrative", "ja": "世論の語り口を握る" }
+    ],
+    "related": [
+      { "en": "narrate", "ja": "語る" },
+      { "en": "narrator", "ja": "語り手" },
+      { "en": "story", "ja": "物語" }
+    ],
+    "faq": [
+      { "q": "narrative の動詞・人は？", "a": "動詞は narrate（語る）、語る人は narrator（語り手）です。" },
+      { "q": "change the narrative とは？", "a": "『（世論を作る）語り口・筋書きを変える』という意味です。" }
+    ],
+    "quiz": [
+      { "q": "narrative の意味は？", "A": "物語・語り", "B": "数字", "C": "地図", "D": "計算", "correct": "A" },
+      { "q": "narrative の動詞形は？", "A": "narrate", "B": "narrize", "C": "narren", "D": "narriate", "correct": "A" }
+    ]
+  },
+  {
+    "english": "nasty",
+    "pron": "ˈnæsti",
+    "kana": "ナスティ",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "由来不詳(中英 nasty)",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "口語で頻出"],
+    "meaning_main": "不快な・意地の悪い・ひどい",
+    "description": "nasty（不快な・意地悪な）の意味・使い方。嫌な味・意地の悪い態度・ひどいけがなどを例文とクイズで学習。",
+    "keywords": ["nasty 意味", "nasty 使い方", "意地悪 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】不快な・いやな", "note": "味・におい・天気などが不快なこと。" },
+      { "hinshi": "【形容詞】意地の悪い・ひどい", "note": "人の態度が冷たく意地悪な、またけが・事故などが深刻なこと。" }
+    ],
+    "usages": [
+      { "title": "① 不快な", "desc": "いやな感じ。", "example_en": "There was a nasty smell in the room.", "example_ja": "部屋にいやなにおいがした。" },
+      { "title": "② 意地の悪い", "desc": "冷たい態度。", "example_en": "Don't be so nasty to her.", "example_ja": "彼女にそんなに意地悪をしないで。" }
+    ],
+    "warn": ["be nasty to ～（～に意地悪をする）。", "a nasty cut（ひどい切り傷）のように『深刻な』意味もある。反対は nice / pleasant。"],
+    "etym_note": "中英語 nasty「汚い・不快な」に由来（語源は諸説あり）。",
+    "etym_chain": [
+      { "node": "nasty (中英語)", "sub": "汚い・不快な", "era": "中英語" },
+      { "node": "nasty", "sub": "不快な・意地悪な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a nasty smell", "ja": "いやなにおい" },
+      { "en": "be nasty to", "ja": "～に意地悪をする" },
+      { "en": "a nasty habit", "ja": "悪い癖" },
+      { "en": "a nasty fall", "ja": "ひどい転倒" },
+      { "en": "a nasty surprise", "ja": "いやな驚き" },
+      { "en": "turn nasty", "ja": "険悪になる" }
+    ],
+    "related": [
+      { "en": "unpleasant", "ja": "不快な" },
+      { "en": "mean", "ja": "意地悪な" },
+      { "en": "pleasant", "ja": "感じのよい（反対語）" }
+    ],
+    "faq": [
+      { "q": "be nasty to の意味は？", "a": "『～に意地悪をする・冷たくあたる』という意味です。" },
+      { "q": "nasty の反対語は？", "a": "nice / pleasant（感じのよい）です。" }
+    ],
+    "quiz": [
+      { "q": "nasty の意味は？", "A": "不快な・意地の悪い", "B": "親切な", "C": "明るい", "D": "正直な", "correct": "A" },
+      { "q": "be nasty to の意味は？", "A": "～に意地悪をする", "B": "～に親切にする", "C": "～を助ける", "D": "～をほめる", "correct": "A" }
+    ]
+  },
+  {
+    "english": "naughty",
+    "pron": "ˈnɔːti",
+    "kana": "ノーティ",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "naught(無・ゼロ)+-y",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "子ども・口語"],
+    "meaning_main": "（子どもが）いたずらな・言うことを聞かない",
+    "description": "naughty（いたずらな・行儀の悪い）の意味・使い方。子どもの行動を表す語を例文とクイズで学習。",
+    "keywords": ["naughty 意味", "naughty 使い方", "いたずら 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】（子どもが）いたずらな・行儀の悪い・言うことを聞かない", "note": "子どもがわるさをするさま。反対は good（よい子の）。" }
+    ],
+    "usages": [
+      { "title": "① いたずらな子", "desc": "わるさをする。", "example_en": "The naughty boy hid his sister's shoes.", "example_ja": "そのいたずらな男の子は妹の靴を隠した。" },
+      { "title": "② 叱るとき", "desc": "言うことを聞かない。", "example_en": "Don't be naughty!", "example_ja": "わるさをしないの！" }
+    ],
+    "warn": ["主に子どもの『いたずら・行儀の悪さ』に使う。", "naught は古語で『無・ゼロ』。反対は good（よい子）。"],
+    "etym_note": "naught「無・取るに足らない」＋ -y。もとは『無価値な』、のちに『行儀の悪い』へ。",
+    "etym_chain": [
+      { "node": "naught + -y", "sub": "無・取るに足らない", "era": "中英語" },
+      { "node": "naughty", "sub": "いたずらな", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a naughty child", "ja": "いたずらな子" },
+      { "en": "Don't be naughty.", "ja": "わるさをしないで" },
+      { "en": "a naughty smile", "ja": "いたずらっぽい笑み" },
+      { "en": "the naughty step", "ja": "おしおきの場所" },
+      { "en": "naughty behavior", "ja": "行儀の悪い行い" },
+      { "en": "a naughty puppy", "ja": "いたずらな子犬" }
+    ],
+    "related": [
+      { "en": "mischievous", "ja": "いたずら好きな" },
+      { "en": "disobedient", "ja": "言うことを聞かない" },
+      { "en": "well-behaved", "ja": "行儀のよい（反対語）" }
+    ],
+    "faq": [
+      { "q": "naughty は誰に使う？", "a": "主に子どもの『いたずら・行儀の悪さ』に使います。" },
+      { "q": "naughty の反対は？", "a": "good（よい子の）や well-behaved（行儀のよい）です。" }
+    ],
+    "quiz": [
+      { "q": "naughty の意味は？", "A": "いたずらな・行儀の悪い", "B": "賢い", "C": "静かな", "D": "親切な", "correct": "A" },
+      { "q": "naughty に近い語は？", "A": "mischievous", "B": "polite", "C": "honest", "D": "calm", "correct": "A" }
+    ]
+  },
+  {
+    "english": "navigate",
+    "pron": "ˈnævɪɡeɪt",
+    "kana": "ナビゲイト",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "ラテン navis(船)+agere(進める)",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "IT・旅行で頻出"],
+    "meaning_main": "進路を取る・操縦する／（難所を）うまく切り抜ける",
+    "description": "navigate（航行する・うまく進む）の意味・使い方。地図やサイトを進む・困難を切り抜ける用法を例文とクイズで学習。",
+    "keywords": ["navigate 意味", "navigate 使い方", "ナビ 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】進路を取る・航行する・操縦する", "note": "船・車・飛行機などの進路を決めて進むこと。" },
+      { "hinshi": "【動詞】（複雑な状況・サイトを）うまく進む・切り抜ける", "note": "navigate a website（サイトを操作する）、navigate difficulties（困難を切り抜ける）。" }
+    ],
+    "usages": [
+      { "title": "① 進路を取る", "desc": "道を見つけて進む。", "example_en": "He navigated the ship through the storm.", "example_ja": "彼は嵐の中で船を操縦した。" },
+      { "title": "② うまく切り抜ける", "desc": "複雑な状況を進む。", "example_en": "It's hard to navigate the new system.", "example_ja": "新しいシステムを使いこなすのは難しい。" }
+    ],
+    "warn": ["名詞 navigation（航行・ナビゲーション）、ナビ役は navigator。", "カーナビは car navigation system。"],
+    "etym_note": "ラテン語 navis「船」＋ agere「進める」。船を進める、の意。",
+    "etym_chain": [
+      { "node": "navis + agere (ラテン語)", "sub": "船・進める", "era": "ラテン語" },
+      { "node": "navigate", "sub": "航行する", "era": "16世紀" }
+    ],
+    "phrases": [
+      { "en": "navigate a ship", "ja": "船を操縦する" },
+      { "en": "navigate a website", "ja": "サイトを操作する" },
+      { "en": "navigate through", "ja": "～を通り抜ける" },
+      { "en": "navigate difficulties", "ja": "困難を切り抜ける" },
+      { "en": "easy to navigate", "ja": "操作しやすい" },
+      { "en": "navigate by the stars", "ja": "星を頼りに進む" }
+    ],
+    "related": [
+      { "en": "navigation", "ja": "航行・ナビ" },
+      { "en": "navigator", "ja": "ナビ役・航海士" },
+      { "en": "steer", "ja": "操縦する" }
+    ],
+    "faq": [
+      { "q": "navigate の名詞形は？", "a": "navigation（航行・ナビゲーション）です。" },
+      { "q": "比喩的な意味は？", "a": "『複雑な状況やサイトをうまく進む・切り抜ける』という意味でも使います。" }
+    ],
+    "quiz": [
+      { "q": "navigate の意味は？", "A": "進路を取る・うまく進む", "B": "止まる", "C": "壊す", "D": "眠る", "correct": "A" },
+      { "q": "navigate の名詞形は？", "A": "navigation", "B": "navigance", "C": "navigament", "D": "navigity", "correct": "A" }
+    ]
+  },
+  {
+    "english": "nearby",
+    "pron": "ˌnɪrˈbaɪ",
+    "kana": "ニアバイ",
+    "hinshi": "形容詞 / 副詞",
+    "ld_pos": "adjective",
+    "ld_etym": "near(近く)+by(そばに)",
+    "ld_level": "4級",
+    "badges": ["中学生〜", "英検4級", "CEFR A2", "基本語"],
+    "meaning_main": "近くの・近くに",
+    "description": "nearby（近くの・近くに）の意味・使い方。near との違いを例文とクイズでわかりやすく学習。",
+    "keywords": ["nearby 意味", "nearby near 違い", "近くの 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】近くの", "note": "名詞の前で『近くの～』。a nearby shop（近くの店）。" },
+      { "hinshi": "【副詞】近くに", "note": "live nearby（近くに住む）。" }
+    ],
+    "usages": [
+      { "title": "① 近くの（形容詞）", "desc": "名詞を修飾。", "example_en": "We ate at a nearby restaurant.", "example_ja": "私たちは近くのレストランで食べた。" },
+      { "title": "② 近くに（副詞）", "desc": "場所を表す。", "example_en": "They live nearby.", "example_ja": "彼らは近くに住んでいる。" }
+    ],
+    "warn": ["nearby は前置詞にはならない（×nearby the station）。前置詞は near。", "形容詞・副詞の両方で使える。"],
+    "etym_note": "near「近く」＋ by「そばに」。すぐそばの、の意。",
+    "etym_chain": [
+      { "node": "near + by", "sub": "近く・そばに", "era": "近代英語" },
+      { "node": "nearby", "sub": "近くの・近くに", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a nearby town", "ja": "近くの町" },
+      { "en": "live nearby", "ja": "近くに住む" },
+      { "en": "a nearby shop", "ja": "近くの店" },
+      { "en": "somewhere nearby", "ja": "近くのどこかに" },
+      { "en": "a nearby station", "ja": "近くの駅" },
+      { "en": "stay nearby", "ja": "近くにとどまる" }
+    ],
+    "related": [
+      { "en": "near", "ja": "近い・～の近くに" },
+      { "en": "close", "ja": "近い" },
+      { "en": "neighboring", "ja": "近隣の" }
+    ],
+    "faq": [
+      { "q": "nearby と near の違いは？", "a": "near は前置詞にもなれます（near the station）。nearby は形容詞・副詞で、前置詞にはなりません。" },
+      { "q": "nearby は名詞の前？後ろ？", "a": "形容詞として名詞の前（a nearby shop）、副詞として動詞の後ろ（live nearby）で使えます。" }
+    ],
+    "quiz": [
+      { "q": "nearby の意味は？", "A": "近くの・近くに", "B": "遠くの", "C": "上の", "D": "外の", "correct": "A" },
+      { "q": "nearby のもとになった語は？", "A": "near", "B": "new", "C": "now", "D": "name", "correct": "A" }
+    ]
+  },
+  {
+    "english": "nearly",
+    "pron": "ˈnɪrli",
+    "kana": "ニアリー",
+    "hinshi": "副詞",
+    "ld_pos": "adverb",
+    "ld_etym": "near(近く)+-ly",
+    "ld_level": "4級",
+    "badges": ["中学生〜", "英検4級", "CEFR A2", "基本語"],
+    "meaning_main": "ほとんど・もう少しで",
+    "description": "nearly（ほとんど・もう少しで）の意味・使い方。almost との関係を例文とクイズでわかりやすく学習。",
+    "keywords": ["nearly 意味", "nearly almost 違い", "ほとんど 英語"],
+    "meanings": [
+      { "hinshi": "【副詞】ほとんど・もう少しで・危うく", "note": "完全ではないが非常に近い程度。almost とほぼ同義。" }
+    ],
+    "usages": [
+      { "title": "① ほとんど", "desc": "完全に近い。", "example_en": "It's nearly five o'clock.", "example_ja": "もうすぐ5時だ。" },
+      { "title": "② もう少しで・危うく", "desc": "あやうく～しかけた。", "example_en": "I nearly missed the train.", "example_ja": "私はあやうく電車に乗り遅れるところだった。" }
+    ],
+    "warn": ["almost とほぼ同義。ただし not nearly は『～には程遠い・全然～ない』。", "nearly always（ほとんどいつも）など頻度にも使う。"],
+    "etym_note": "near「近く」＋ -ly（副詞化）。近い程度で、の意。",
+    "etym_chain": [
+      { "node": "near + -ly", "sub": "近く・副詞化", "era": "中英語" },
+      { "node": "nearly", "sub": "ほとんど", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "nearly always", "ja": "ほとんどいつも" },
+      { "en": "nearly all", "ja": "ほとんどすべて" },
+      { "en": "nearly done", "ja": "もうすぐ終わる" },
+      { "en": "not nearly", "ja": "～には程遠い" },
+      { "en": "nearly an hour", "ja": "ほぼ1時間" },
+      { "en": "very nearly", "ja": "すんでのところで" }
+    ],
+    "related": [
+      { "en": "almost", "ja": "ほとんど" },
+      { "en": "about", "ja": "およそ" },
+      { "en": "approximately", "ja": "おおよそ" }
+    ],
+    "faq": [
+      { "q": "nearly と almost の違いは？", "a": "ほぼ同義です。どちらも『ほとんど・もう少しで』を表します。" },
+      { "q": "not nearly の意味は？", "a": "『～には程遠い・全然～ない』という強い否定です。" }
+    ],
+    "quiz": [
+      { "q": "nearly の意味は？", "A": "ほとんど・もう少しで", "B": "全く～ない", "C": "ときどき", "D": "いつも", "correct": "A" },
+      { "q": "nearly と意味が近いのは？", "A": "almost", "B": "never", "C": "rarely", "D": "always", "correct": "A" }
+    ]
+  },
+  {
+    "english": "necklace",
+    "pron": "ˈnekləs",
+    "kana": "ネックレス",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "neck(首)+lace(ひも)",
+    "ld_level": "4級",
+    "badges": ["中学生〜", "英検4級", "CEFR A2", "身近・装飾"],
+    "meaning_main": "ネックレス・首飾り",
+    "description": "necklace（ネックレス・首飾り）の意味・使い方。neck（首）＋ lace（ひも）の成り立ちを例文とクイズで学習。",
+    "keywords": ["necklace 意味", "necklace 使い方", "ネックレス 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】ネックレス・首飾り", "note": "首にかける装身具。" }
+    ],
+    "usages": [
+      { "title": "① 首飾り", "desc": "首にかける。", "example_en": "She wore a pearl necklace.", "example_ja": "彼女は真珠のネックレスをしていた。" },
+      { "title": "② 贈り物として", "desc": "プレゼントに。", "example_en": "He gave her a gold necklace.", "example_ja": "彼は彼女に金のネックレスを贈った。" }
+    ],
+    "warn": ["発音は『ネックレス』だが、後半は /ləs/（レイスではない）。", "関連: bracelet（腕輪）, ring（指輪）, earring（イヤリング）。"],
+    "etym_note": "neck「首」＋ lace「ひも・レース」。首にかけるひも飾り、の意。",
+    "etym_chain": [
+      { "node": "neck + lace", "sub": "首・ひも", "era": "16世紀" },
+      { "node": "necklace", "sub": "ネックレス", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a pearl necklace", "ja": "真珠のネックレス" },
+      { "en": "a gold necklace", "ja": "金のネックレス" },
+      { "en": "wear a necklace", "ja": "ネックレスをつける" },
+      { "en": "a diamond necklace", "ja": "ダイヤのネックレス" },
+      { "en": "a beaded necklace", "ja": "ビーズのネックレス" },
+      { "en": "put on a necklace", "ja": "ネックレスをつける" }
+    ],
+    "related": [
+      { "en": "bracelet", "ja": "腕輪・ブレスレット" },
+      { "en": "ring", "ja": "指輪" },
+      { "en": "jewelry", "ja": "宝飾品" }
+    ],
+    "faq": [
+      { "q": "necklace の成り立ちは？", "a": "neck（首）＋ lace（ひも）で『首飾り』です。" },
+      { "q": "発音の注意は？", "a": "後半は /ləs/ で『レス』に近く、『レイス』とは読みません。" }
+    ],
+    "quiz": [
+      { "q": "necklace の意味は？", "A": "ネックレス・首飾り", "B": "指輪", "C": "腕輪", "D": "帽子", "correct": "A" },
+      { "q": "necklace の成り立ちは？", "A": "neck+lace", "B": "new+lace", "C": "near+lace", "D": "neck+less", "correct": "A" }
+    ]
+  },
+  {
+    "english": "needy",
+    "pron": "ˈniːdi",
+    "kana": "ニーディ",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "need(必要)+-y",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "社会・性格で頻出"],
+    "meaning_main": "貧しい・困窮した／（愛情に）かまってほしがる",
+    "description": "needy（貧しい・かまってほしがる）の意味・使い方。経済的困窮と「依存的な性格」を例文とクイズで学習。",
+    "keywords": ["needy 意味", "needy 使い方", "困窮 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】貧しい・困窮した", "note": "生活に困っているさま。the needy で『困窮者（人々）』。" },
+      { "hinshi": "【形容詞】（愛情・関心を）かまってほしがる・依存的な", "note": "つねに注目・愛情を求める性格。やや否定的。" }
+    ],
+    "usages": [
+      { "title": "① 困窮した", "desc": "経済的に苦しい。", "example_en": "They donate food to needy families.", "example_ja": "彼らは困窮した家庭に食料を寄付する。" },
+      { "title": "② かまってほしがる", "desc": "依存的な性格。", "example_en": "He can be a bit needy in relationships.", "example_ja": "彼は恋愛では少しかまってちゃんになることがある。" }
+    ],
+    "warn": ["the needy で『困窮している人々』。", "性格を表すときは『（愛情・関心を）過度に求める』やや否定的な意味。"],
+    "etym_note": "need「必要・困窮」＋ -y。困っている、の意。",
+    "etym_chain": [
+      { "node": "need + -y", "sub": "必要・多い", "era": "古英語" },
+      { "node": "needy", "sub": "貧しい・依存的な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "needy families", "ja": "困窮した家庭" },
+      { "en": "help the needy", "ja": "困窮者を助ける" },
+      { "en": "a needy child", "ja": "支援を要する子" },
+      { "en": "emotionally needy", "ja": "情緒的に依存的な" },
+      { "en": "feel needy", "ja": "かまってほしくなる" },
+      { "en": "the poor and needy", "ja": "貧しく困窮した人々" }
+    ],
+    "related": [
+      { "en": "poor", "ja": "貧しい" },
+      { "en": "deprived", "ja": "恵まれない" },
+      { "en": "dependent", "ja": "依存的な" }
+    ],
+    "faq": [
+      { "q": "the needy とは？", "a": "『困窮している人々』を指します（the ＋ 形容詞で人々）。" },
+      { "q": "性格の needy とは？", "a": "つねに愛情・関心を求める『かまってほしがる・依存的な』性格を表します。" }
+    ],
+    "quiz": [
+      { "q": "needy の意味は？", "A": "貧しい・困窮した", "B": "裕福な", "C": "賢い", "D": "親切な", "correct": "A" },
+      { "q": "the needy の意味は？", "A": "困窮している人々", "B": "必要な物", "C": "針", "D": "需要", "correct": "A" }
+    ]
+  },
+  {
+    "english": "neon",
+    "pron": "ˈniːɑːn",
+    "kana": "ネオン",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ギリシャ neos(新しい)",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "科学・身近"],
+    "meaning_main": "ネオン（元素）／ネオン（鮮やかな色・看板）",
+    "description": "neon（ネオン）の意味・使い方。希ガスの元素ネオンとネオンサイン・蛍光色を例文とクイズで学習。",
+    "keywords": ["neon 意味", "neon 使い方", "ネオン 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】ネオン（元素・気体）", "note": "色がなくにおいもない希ガスの元素（記号 Ne）。放電すると赤く光る。" },
+      { "hinshi": "【名詞・形容詞】ネオン（看板）・鮮やかな蛍光色", "note": "neon sign（ネオン看板）、neon colors（蛍光色）。" }
+    ],
+    "usages": [
+      { "title": "① ネオン看板", "desc": "光る看板。", "example_en": "The street was lit by neon signs.", "example_ja": "通りはネオン看板で照らされていた。" },
+      { "title": "② 蛍光色", "desc": "鮮やかな色。", "example_en": "She wore neon green socks.", "example_ja": "彼女は蛍光グリーンの靴下をはいていた。" }
+    ],
+    "warn": ["元素記号は Ne。希ガスの一つ。", "neon sign（ネオンサイン）, neon colors（蛍光色）でよく使う。"],
+    "etym_note": "ギリシャ語 neos「新しい」に由来（発見時の『新しい気体』から）。",
+    "etym_chain": [
+      { "node": "neos (ギリシャ語)", "sub": "新しい", "era": "古代ギリシャ" },
+      { "node": "neon", "sub": "ネオン", "era": "19世紀末" }
+    ],
+    "phrases": [
+      { "en": "a neon sign", "ja": "ネオン看板" },
+      { "en": "neon lights", "ja": "ネオンの明かり" },
+      { "en": "neon colors", "ja": "蛍光色" },
+      { "en": "neon green", "ja": "蛍光グリーン" },
+      { "en": "neon pink", "ja": "蛍光ピンク" },
+      { "en": "bathed in neon", "ja": "ネオンに照らされて" }
+    ],
+    "related": [
+      { "en": "gas", "ja": "気体" },
+      { "en": "fluorescent", "ja": "蛍光の" },
+      { "en": "sign", "ja": "看板" }
+    ],
+    "faq": [
+      { "q": "neon の元素記号は？", "a": "Ne です。色もにおいもない希ガスの一つです。" },
+      { "q": "neon colors とは？", "a": "蛍光グリーンや蛍光ピンクなど『鮮やかな蛍光色』のことです。" }
+    ],
+    "quiz": [
+      { "q": "neon の意味は？", "A": "ネオン（元素・鮮やかな色）", "B": "金属", "C": "液体の油", "D": "石", "correct": "A" },
+      { "q": "neon の語源の意味は？", "A": "新しい", "B": "光る", "C": "赤い", "D": "気体", "correct": "A" }
+    ]
+  },
+  {
+    "english": "nickname",
+    "pron": "ˈnɪkneɪm",
+    "kana": "ニックネーム",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "noun",
+    "ld_etym": "中英 ekename(追加の名)の誤分解",
+    "ld_level": "4級",
+    "badges": ["中学生〜", "英検4級", "CEFR A2", "基本語"],
+    "meaning_main": "あだ名・愛称／あだ名をつける",
+    "description": "nickname（あだ名・愛称）の意味・使い方。本名以外の親しみある呼び名を例文とクイズで学習。",
+    "keywords": ["nickname 意味", "nickname 使い方", "あだ名 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】あだ名・愛称・ニックネーム", "note": "本名のかわりに親しみや特徴で呼ぶ名前。" },
+      { "hinshi": "【動詞】あだ名をつける", "note": "be nicknamed ～（～というあだ名で呼ばれる）。" }
+    ],
+    "usages": [
+      { "title": "① あだ名", "desc": "親しみの呼び名。", "example_en": "His nickname is Rob.", "example_ja": "彼のあだ名はロブだ。" },
+      { "title": "② あだ名をつける（動詞）", "desc": "be nicknamed。", "example_en": "The city is nicknamed the Big Apple.", "example_ja": "その都市はビッグアップルと呼ばれている。" }
+    ],
+    "warn": ["もとは ekename（追加の名）で、an ekename が a nekename と誤って区切られて nickname になった。", "be nicknamed ～（～と呼ばれる）。"],
+    "etym_note": "中英語 ekename「追加の名」が、an ekename → a nekename と誤分解されて nickname に。",
+    "etym_chain": [
+      { "node": "ekename (中英語)", "sub": "追加の名", "era": "中英語" },
+      { "node": "nickname", "sub": "あだ名", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "give a nickname", "ja": "あだ名をつける" },
+      { "en": "a funny nickname", "ja": "おかしなあだ名" },
+      { "en": "go by the nickname", "ja": "～という愛称で通る" },
+      { "en": "be nicknamed", "ja": "～と呼ばれる" },
+      { "en": "a childhood nickname", "ja": "子どもの頃のあだ名" },
+      { "en": "earn a nickname", "ja": "あだ名がつく" }
+    ],
+    "related": [
+      { "en": "name", "ja": "名前" },
+      { "en": "pet name", "ja": "愛称" },
+      { "en": "alias", "ja": "別名" }
+    ],
+    "faq": [
+      { "q": "nickname の語源は？", "a": "中英語 ekename（追加の名）が、an ekename → a nekename と誤って区切られて nickname になりました。" },
+      { "q": "be nicknamed の意味は？", "a": "『～というあだ名で呼ばれる』という意味です。" }
+    ],
+    "quiz": [
+      { "q": "nickname の意味は？", "A": "あだ名・愛称", "B": "本名", "C": "署名", "D": "肩書き", "correct": "A" },
+      { "q": "be nicknamed の意味は？", "A": "～と呼ばれる", "B": "～を名乗る", "C": "改名する", "D": "署名する", "correct": "A" }
+    ]
+  }
+]
