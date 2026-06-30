@@ -1,0 +1,479 @@
+[
+  {
+    "english": "nuke",
+    "pron": "nuːk",
+    "kana": "ニューク",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "noun",
+    "ld_etym": "nuclear の短縮",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "口語で頻出"],
+    "meaning_main": "（口語）核兵器／核攻撃する・（電子レンジで）チンする",
+    "description": "nuke（核兵器／核攻撃する・チンする）の意味・使い方。くだけた口語を例文とクイズで学習。",
+    "keywords": ["nuke 意味", "nuke 使い方", "核兵器 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】（口語）核兵器・原子爆弾", "note": "nuclear weapon のくだけた言い方。" },
+      { "hinshi": "【動詞】核攻撃する／（口語）電子レンジで温める", "note": "比喩で『徹底的に攻撃する』、口語で『チンする』。" }
+    ],
+    "usages": [
+      { "title": "① 核兵器", "desc": "口語。", "example_en": "The country tested a nuke.", "example_ja": "その国は核兵器を実験した。" },
+      { "title": "② チンする", "desc": "口語。", "example_en": "Just nuke it for two minutes.", "example_ja": "2分チンするだけでいいよ。" }
+    ],
+    "warn": ["くだけた口語。nuclear weapon（核兵器）の略。", "電子レンジで『チンする』の意味でも日常的に使う。"],
+    "etym_note": "nuclear「核の」の短縮形。20世紀後半に俗語として定着。",
+    "etym_chain": [
+      { "node": "nuclear", "sub": "核の", "era": "20世紀" },
+      { "node": "nuke", "sub": "核兵器・核攻撃する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a nuclear nuke", "ja": "核兵器" },
+      { "en": "nuke a city", "ja": "都市を核攻撃する" },
+      { "en": "nuke it in the microwave", "ja": "電子レンジでチンする" },
+      { "en": "build a nuke", "ja": "核兵器を作る" },
+      { "en": "ban nukes", "ja": "核兵器を禁止する" },
+      { "en": "nuke the leftovers", "ja": "残り物をチンする" }
+    ],
+    "related": [
+      { "en": "nuclear", "ja": "核の" },
+      { "en": "bomb", "ja": "爆弾" },
+      { "en": "microwave", "ja": "電子レンジ" }
+    ],
+    "faq": [
+      { "q": "nuke の二つの意味は？", "a": "名詞で『核兵器』、動詞で『核攻撃する』や口語の『電子レンジでチンする』です。" },
+      { "q": "由来は？", "a": "nuclear（核の）の短縮形です。" }
+    ],
+    "quiz": [
+      { "q": "nuke の意味は？", "A": "核兵器／核攻撃する・チンする", "B": "平和条約", "C": "発電所だけ", "D": "天然ガス", "correct": "A" },
+      { "q": "nuke it in the microwave の意味は？", "A": "電子レンジでチンする", "B": "冷蔵庫で冷やす", "C": "オーブンで焼く", "D": "鍋で煮る", "correct": "A" }
+    ]
+  },
+  {
+    "english": "null",
+    "pron": "nʌl",
+    "kana": "ナル",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "adjective",
+    "ld_etym": "ラテン nullus(無い)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "法律・ITで頻出"],
+    "meaning_main": "無効の・ゼロの／（IT）値がないこと",
+    "description": "null（無効の・ゼロの）の意味・使い方。null and void や IT の null 値を例文とクイズで学習。",
+    "keywords": ["null 意味", "null 使い方", "無効 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】無効の・ゼロの・存在しない", "note": "効力がない、または値がゼロ。null and void で『無効の』。" },
+      { "hinshi": "【名詞】（IT・数学）ゼロ・値がないこと（null）", "note": "プログラミングで『値がない』状態。" }
+    ],
+    "usages": [
+      { "title": "① 無効の", "desc": "法律。", "example_en": "The contract is null and void.", "example_ja": "その契約は無効だ。" },
+      { "title": "② null値（IT）", "desc": "プログラミング。", "example_en": "The field returned null.", "example_ja": "その項目は null を返した。" }
+    ],
+    "warn": ["null and void は『（完全に）無効の』という法律の定番表現。", "動詞は nullify（無効にする）、名詞 nullity（無効）。"],
+    "etym_note": "ラテン語 nullus「無い」（ne＋ullus＝どれも〜ない）に由来。nullify, nullity と同語源。",
+    "etym_chain": [
+      { "node": "nullus (ラテン語)", "sub": "無い", "era": "古代" },
+      { "node": "null", "sub": "無効の・ゼロの", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "null and void", "ja": "無効の" },
+      { "en": "declare null", "ja": "無効と宣言する" },
+      { "en": "a null result", "ja": "ゼロの結果・有意でない結果" },
+      { "en": "return null", "ja": "（IT）nullを返す" },
+      { "en": "the null hypothesis", "ja": "帰無仮説" },
+      { "en": "a null value", "ja": "null値" }
+    ],
+    "related": [
+      { "en": "void", "ja": "無効の" },
+      { "en": "nullify", "ja": "無効にする" },
+      { "en": "zero", "ja": "ゼロ" }
+    ],
+    "faq": [
+      { "q": "null and void とは？", "a": "『（完全に）無効の』という意味の法律でよく使う表現です。" },
+      { "q": "the null hypothesis とは？", "a": "統計学の『帰無仮説（差がないとする仮説）』のことです。" }
+    ],
+    "quiz": [
+      { "q": "null の意味は？", "A": "無効の・ゼロの", "B": "有効の", "C": "巨大な", "D": "確実な", "correct": "A" },
+      { "q": "null and void の意味は？", "A": "無効の", "B": "有効の", "C": "保留中の", "D": "更新済みの", "correct": "A" }
+    ]
+  },
+  {
+    "english": "numbskull",
+    "pron": "ˈnʌmskʌl",
+    "kana": "ナムスカル",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "numb(感覚のない)+skull(頭)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "口語で頻出"],
+    "meaning_main": "（口語）まぬけ・とんま・あほ",
+    "description": "numbskull（まぬけ・とんま）の意味・使い方。くだけた悪口表現を例文とクイズで学習。",
+    "keywords": ["numbskull 意味", "numbskull 使い方", "まぬけ 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】（口語）まぬけ・とんま・あほ", "note": "頭の鈍い人をからかう・けなす口語。" }
+    ],
+    "usages": [
+      { "title": "① まぬけ", "desc": "軽い悪口。", "example_en": "Don't be such a numbskull.", "example_ja": "そんなまぬけなことをするな。" },
+      { "title": "② からかって", "desc": "親しい間で。", "example_en": "You numbskull, that's the wrong way!", "example_ja": "このとんま、そっちは逆だよ！" }
+    ],
+    "warn": ["numskull とも綴る。numb（感覚のない）＋ skull（頭）から。", "nitwit, dimwit などと同じくくだけた『まぬけ』系の語。"],
+    "etym_note": "numb「感覚のない」＋ skull「頭蓋骨・頭」から。『頭の鈍い者』。",
+    "etym_chain": [
+      { "node": "numb + skull", "sub": "感覚のない＋頭", "era": "近代英語" },
+      { "node": "numbskull", "sub": "まぬけ", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a complete numbskull", "ja": "とんだまぬけ" },
+      { "en": "you numbskull", "ja": "このとんま" },
+      { "en": "act like a numbskull", "ja": "ばかなことをする" },
+      { "en": "some numbskull", "ja": "どこかのまぬけ" },
+      { "en": "call someone a numbskull", "ja": "人をまぬけ呼ばわりする" },
+      { "en": "a real numbskull", "ja": "本物のとんま" }
+    ],
+    "related": [
+      { "en": "nitwit", "ja": "まぬけ" },
+      { "en": "dimwit", "ja": "のろま" },
+      { "en": "fool", "ja": "ばか" }
+    ],
+    "faq": [
+      { "q": "numbskull とは？", "a": "頭の鈍い人をからかう・けなす口語で『まぬけ・とんま』です。" },
+      { "q": "由来は？", "a": "numb『感覚のない』＋ skull『頭』で『頭の鈍い者』が原義です。" }
+    ],
+    "quiz": [
+      { "q": "numbskull の意味は？", "A": "まぬけ・とんま", "B": "天才", "C": "学者", "D": "達人", "correct": "A" },
+      { "q": "numbskull と似た意味の語は？", "A": "nitwit（まぬけ）", "B": "expert（専門家）", "C": "genius（天才）", "D": "hero（英雄）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "noisemaker",
+    "pron": "ˈnɔɪzmeɪkər",
+    "kana": "ノイズメイカー",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "noise(音)+maker(作る物)",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "行事で頻出"],
+    "meaning_main": "（パーティー用の）鳴り物・音を立てる物[人]",
+    "description": "noisemaker（鳴り物・音を立てる物）の意味・使い方。パーティーの鳴り物を例文とクイズで学習。",
+    "keywords": ["noisemaker 意味", "noisemaker 使い方", "鳴り物 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】（パーティー用の）鳴り物・音を出す道具", "note": "笛・ガラガラなど、お祝いで大きな音を立てる道具。" },
+      { "hinshi": "【名詞】騒ぐ人・騒音を立てる物", "note": "" }
+    ],
+    "usages": [
+      { "title": "① パーティーの鳴り物", "desc": "行事。", "example_en": "Kids blew noisemakers at the party.", "example_ja": "子どもたちはパーティーで鳴り物を吹いた。" },
+      { "title": "② 音を立てる物", "desc": "一般的に。", "example_en": "The toy is a real noisemaker.", "example_ja": "そのおもちゃはとてもうるさい。" }
+    ],
+    "warn": ["noise（音・騒音）＋ maker（作る物・人）の複合語。", "新年やパーティーで使う『鳴り物（パーティーホーンなど）』を指すことが多い。"],
+    "etym_note": "noise「音・騒音」＋ maker「作るもの・人」を組み合わせた複合語。",
+    "etym_chain": [
+      { "node": "noise + maker", "sub": "音＋作る物", "era": "近代英語" },
+      { "node": "noisemaker", "sub": "鳴り物", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "party noisemakers", "ja": "パーティーの鳴り物" },
+      { "en": "blow a noisemaker", "ja": "鳴り物を吹く" },
+      { "en": "New Year's noisemakers", "ja": "新年の鳴り物" },
+      { "en": "a paper noisemaker", "ja": "紙の鳴り物" },
+      { "en": "hand out noisemakers", "ja": "鳴り物を配る" },
+      { "en": "a loud noisemaker", "ja": "うるさい鳴り物" }
+    ],
+    "related": [
+      { "en": "noise", "ja": "音・騒音" },
+      { "en": "whistle", "ja": "笛" },
+      { "en": "rattle", "ja": "ガラガラ" }
+    ],
+    "faq": [
+      { "q": "noisemaker とは？", "a": "パーティーやお祝いで大きな音を立てる『鳴り物（笛・ガラガラなど）』です。" },
+      { "q": "いつ使う？", "a": "新年やパーティーなど、お祝いの場でよく使われます。" }
+    ],
+    "quiz": [
+      { "q": "noisemaker の意味は？", "A": "（パーティー用の）鳴り物", "B": "消音器", "C": "防音材", "D": "イヤホン", "correct": "A" },
+      { "q": "noisemaker を使う場面は？", "A": "パーティー・新年", "B": "図書館", "C": "葬儀", "D": "会議", "correct": "A" }
+    ]
+  },
+  {
+    "english": "nightspot",
+    "pron": "ˈnaɪtspɑːt",
+    "kana": "ナイトスポット",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "night(夜)+spot(場所)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "娯楽で頻出"],
+    "meaning_main": "ナイトスポット・夜の遊び場（クラブ・バーなど）",
+    "description": "nightspot（夜の遊び場）の意味・使い方。クラブやバーなど夜の娯楽施設を例文とクイズで学習。",
+    "keywords": ["nightspot 意味", "nightspot 使い方", "夜の遊び場 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】ナイトスポット・夜の遊び場", "note": "夜に楽しむクラブ・バー・ライブハウスなどの店。" }
+    ],
+    "usages": [
+      { "title": "① 夜の遊び場", "desc": "娯楽。", "example_en": "It's a popular nightspot downtown.", "example_ja": "そこは繁華街の人気ナイトスポットだ。" },
+      { "title": "② 店", "desc": "外出先。", "example_en": "They visited several nightspots.", "example_ja": "彼らはいくつかの夜の店を回った。" }
+    ],
+    "warn": ["nightclub（ナイトクラブ）より広く、バー・ライブハウスなども含む。", "1語または night spot。"],
+    "etym_note": "night「夜」＋ spot「場所・店」を組み合わせた複合語。",
+    "etym_chain": [
+      { "node": "night + spot", "sub": "夜＋場所", "era": "近代英語" },
+      { "node": "nightspot", "sub": "夜の遊び場", "era": "20世紀英語" }
+    ],
+    "phrases": [
+      { "en": "a popular nightspot", "ja": "人気のナイトスポット" },
+      { "en": "a trendy nightspot", "ja": "流行りの夜の店" },
+      { "en": "visit a nightspot", "ja": "夜の店に行く" },
+      { "en": "the city's nightspots", "ja": "その街の夜の遊び場" },
+      { "en": "a lively nightspot", "ja": "活気ある夜の店" },
+      { "en": "a famous nightspot", "ja": "有名なナイトスポット" }
+    ],
+    "related": [
+      { "en": "nightclub", "ja": "ナイトクラブ" },
+      { "en": "bar", "ja": "バー" },
+      { "en": "venue", "ja": "（催しの）会場" }
+    ],
+    "faq": [
+      { "q": "nightspot とは？", "a": "夜に楽しむクラブ・バー・ライブハウスなどの『夜の遊び場』です。" },
+      { "q": "nightclub との違いは？", "a": "nightspot はより広く、バーやライブハウスなども含みます。" }
+    ],
+    "quiz": [
+      { "q": "nightspot の意味は？", "A": "夜の遊び場・ナイトスポット", "B": "夜の星", "C": "夜勤の現場", "D": "夜間診療所", "correct": "A" },
+      { "q": "nightspot の例は？", "A": "クラブ・バー", "B": "図書館", "C": "学校", "D": "病院", "correct": "A" }
+    ]
+  },
+  {
+    "english": "nutriment",
+    "pron": "ˈnuːtrɪmənt",
+    "kana": "ニュートリメント",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン nutrire(養う)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "学術で頻出"],
+    "meaning_main": "栄養（物）・滋養分",
+    "description": "nutriment（栄養物・滋養分）の意味・使い方。やや硬い『栄養』の語を例文とクイズで学習。",
+    "keywords": ["nutriment 意味", "nutriment 使い方", "栄養物 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】栄養（物）・滋養分", "note": "成長や生命維持に必要な養分。nourishment より硬い語。" }
+    ],
+    "usages": [
+      { "title": "① 栄養物", "desc": "学術的。", "example_en": "Plants draw nutriment from the soil.", "example_ja": "植物は土から栄養を得る。" },
+      { "title": "② 滋養分", "desc": "生命維持。", "example_en": "The diet lacks essential nutriment.", "example_ja": "その食事には必要な栄養が欠けている。" }
+    ],
+    "warn": ["nutrient（栄養素）, nutrition（栄養）, nourishment（栄養・糧）と同系。", "やや文語的・学術的な語。"],
+    "etym_note": "ラテン語 nutrire「養う」（nutrimentum＝栄養）に由来。nutrient, nutrition と同語源。",
+    "etym_chain": [
+      { "node": "nutrire (ラテン語)", "sub": "養う", "era": "古代" },
+      { "node": "nutrimentum (ラテン語)", "sub": "栄養", "era": "古代" },
+      { "node": "nutriment", "sub": "栄養物", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "draw nutriment from", "ja": "〜から栄養を得る" },
+      { "en": "essential nutriment", "ja": "必要な栄養" },
+      { "en": "provide nutriment", "ja": "栄養を与える" },
+      { "en": "lack nutriment", "ja": "栄養が欠ける" },
+      { "en": "spiritual nutriment", "ja": "心の糧" },
+      { "en": "a source of nutriment", "ja": "栄養源" }
+    ],
+    "related": [
+      { "en": "nutrient", "ja": "栄養素" },
+      { "en": "nourishment", "ja": "栄養・糧" },
+      { "en": "sustenance", "ja": "滋養・食べ物" }
+    ],
+    "faq": [
+      { "q": "nutriment と nutrient の違いは？", "a": "ほぼ同義ですが、nutriment は『栄養物・滋養分』をやや文語的に指す語です。" },
+      { "q": "nourishment との違いは？", "a": "どちらも『栄養』ですが、nutriment の方が硬い・学術的な響きです。" }
+    ],
+    "quiz": [
+      { "q": "nutriment の意味は？", "A": "栄養（物）・滋養分", "B": "毒物", "C": "排泄物", "D": "添加物", "correct": "A" },
+      { "q": "draw nutriment from the soil の意味は？", "A": "土から栄養を得る", "B": "土を耕す", "C": "土を捨てる", "D": "土を運ぶ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "narc",
+    "pron": "nɑːrk",
+    "kana": "ナーク",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "noun",
+    "ld_etym": "narcotic の短縮",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "米俗語で頻出"],
+    "meaning_main": "（米・俗）麻薬取締官／（口語）密告する",
+    "description": "narc（麻薬取締官／密告する）の意味・使い方。アメリカの俗語を例文とクイズで学習。",
+    "keywords": ["narc 意味", "narc 使い方", "麻薬取締官 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】（米・俗語）麻薬取締官・麻薬捜査官", "note": "narcotics officer のくだけた言い方。" },
+      { "hinshi": "【動詞】（口語）密告する・告げ口する", "note": "narc on someone で『〜を密告する』。" }
+    ],
+    "usages": [
+      { "title": "① 麻薬取締官", "desc": "俗語。", "example_en": "An undercover narc made the arrest.", "example_ja": "潜入捜査の麻薬捜査官が逮捕した。" },
+      { "title": "② 密告する", "desc": "口語。", "example_en": "Don't narc on your friends.", "example_ja": "友達を密告するな。" }
+    ],
+    "warn": ["narcotic（麻薬）の短縮。くだけた俗語で、密告者をけなす含みもある。", "narc on someone で『〜を告げ口する』。"],
+    "etym_note": "narcotic「麻薬」（ギリシャ語 narke＝麻痺）の短縮形。",
+    "etym_chain": [
+      { "node": "narke (ギリシャ語)", "sub": "麻痺", "era": "古代" },
+      { "node": "narcotic", "sub": "麻薬", "era": "近代英語" },
+      { "node": "narc", "sub": "麻薬取締官・密告する", "era": "20世紀英語" }
+    ],
+    "phrases": [
+      { "en": "an undercover narc", "ja": "潜入捜査の麻薬取締官" },
+      { "en": "narc on someone", "ja": "〜を密告する" },
+      { "en": "don't be a narc", "ja": "告げ口するな" },
+      { "en": "a narc squad", "ja": "麻薬捜査班" },
+      { "en": "call the narcs", "ja": "麻薬取締官を呼ぶ" },
+      { "en": "narc someone out", "ja": "〜を密告する" }
+    ],
+    "related": [
+      { "en": "narcotic", "ja": "麻薬" },
+      { "en": "informer", "ja": "密告者" },
+      { "en": "officer", "ja": "警官・捜査官" }
+    ],
+    "faq": [
+      { "q": "narc とは？", "a": "アメリカ俗語で『麻薬取締官』、または動詞で『密告する』です。" },
+      { "q": "narc on someone とは？", "a": "『〜を（警察などに）密告する・告げ口する』という意味です。" }
+    ],
+    "quiz": [
+      { "q": "narc の意味は？", "A": "麻薬取締官／密告する", "B": "弁護士", "C": "薬剤師", "D": "医師", "correct": "A" },
+      { "q": "narc on someone の意味は？", "A": "〜を密告する", "B": "〜を助ける", "C": "〜をほめる", "D": "〜を雇う", "correct": "A" }
+    ]
+  },
+  {
+    "english": "nubbin",
+    "pron": "ˈnʌbɪn",
+    "kana": "ナビン",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "nub(こぶ)の指小語",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "口語で頻出"],
+    "meaning_main": "小さなこぶ・残りかす・発育不良のもの",
+    "description": "nubbin（小さなこぶ・残りかす）の意味・使い方。すり減った小片や小突起を例文とクイズで学習。",
+    "keywords": ["nubbin 意味", "nubbin 使い方", "こぶ 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】小さなこぶ・小突起・残りかす", "note": "小さく突き出たもの、またはすり減って残った小片。発育不良の小さな実なども。" }
+    ],
+    "usages": [
+      { "title": "① 小さな突起", "desc": "形状。", "example_en": "A nubbin of a tail wagged.", "example_ja": "短いしっぽの先がふられた。" },
+      { "title": "② 残りかす", "desc": "すり減り。", "example_en": "Only a nubbin of the candle was left.", "example_ja": "ろうそくの小さな残りだけがあった。" }
+    ],
+    "warn": ["nub（こぶ・核心）の指小語で、より小さいものを指す。", "発育不良の小さなトウモロコシの実なども nubbin と呼ぶ。"],
+    "etym_note": "nub「こぶ・小さなかたまり」の指小形（-in）から。",
+    "etym_chain": [
+      { "node": "nub", "sub": "こぶ", "era": "近代英語" },
+      { "node": "nubbin", "sub": "小さなこぶ", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a small nubbin", "ja": "小さなこぶ" },
+      { "en": "a nubbin of a tail", "ja": "短いしっぽ" },
+      { "en": "a nubbin of chalk", "ja": "チョークの残り" },
+      { "en": "worn to a nubbin", "ja": "すり減って小片に" },
+      { "en": "a corn nubbin", "ja": "発育不良のトウモロコシ" },
+      { "en": "just a nubbin left", "ja": "わずかな残りだけ" }
+    ],
+    "related": [
+      { "en": "nub", "ja": "こぶ・核心" },
+      { "en": "stub", "ja": "切れ端" },
+      { "en": "lump", "ja": "かたまり" }
+    ],
+    "faq": [
+      { "q": "nubbin とは？", "a": "『小さなこぶ・小突起』、またはすり減って残った『小片・残りかす』です。" },
+      { "q": "nub との違いは？", "a": "nubbin は nub（こぶ）の指小語で、より小さいものを指します。" }
+    ],
+    "quiz": [
+      { "q": "nubbin の意味は？", "A": "小さなこぶ・残りかす", "B": "大きな山", "C": "深い穴", "D": "広い平原", "correct": "A" },
+      { "q": "worn to a nubbin の意味は？", "A": "すり減って小片になる", "B": "新品になる", "C": "大きくなる", "D": "光り出す", "correct": "A" }
+    ]
+  },
+  {
+    "english": "nonce",
+    "pron": "nɑːns",
+    "kana": "ナンス",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "中英 for the nonce(当面)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文語・専門で頻出"],
+    "meaning_main": "当面・さしあたり（for the nonce）／その場限りの",
+    "description": "nonce（当面・その場限りの）の意味・使い方。for the nonce や nonce word を例文とクイズで学習。",
+    "keywords": ["nonce 意味", "nonce 使い方", "当面 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】当面・さしあたり（for the nonce）", "note": "『さしあたり・今のところ』という古風な表現で使う。" },
+      { "hinshi": "【形容詞的】その場限りの・臨時の", "note": "nonce word は『その場限りの造語』。" }
+    ],
+    "usages": [
+      { "title": "① さしあたり", "desc": "文語。", "example_en": "It will do for the nonce.", "example_ja": "さしあたりそれで間に合う。" },
+      { "title": "② その場限りの語", "desc": "言語学。", "example_en": "a nonce word", "example_ja": "その場限りの造語" }
+    ],
+    "warn": ["主に for the nonce（さしあたり）の形で使う古風な語。", "言語学の nonce word は『一度きりの造語』。暗号技術の nonce（使い捨ての値）も。"],
+    "etym_note": "中英語 for then anes「その一度のために」が for the nonce と誤分割されて生まれた。",
+    "etym_chain": [
+      { "node": "for then anes (中英語)", "sub": "その一度のために", "era": "中世" },
+      { "node": "for the nonce", "sub": "さしあたり", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "for the nonce", "ja": "さしあたり・当面" },
+      { "en": "a nonce word", "ja": "その場限りの造語" },
+      { "en": "a nonce form", "ja": "臨時の語形" },
+      { "en": "coined for the nonce", "ja": "その場で作られた" },
+      { "en": "serve for the nonce", "ja": "当面の用に足りる" },
+      { "en": "a nonce use", "ja": "一度きりの用法" }
+    ],
+    "related": [
+      { "en": "temporary", "ja": "一時的な" },
+      { "en": "ad hoc", "ja": "その場限りの" },
+      { "en": "occasional", "ja": "臨時の・時々の" }
+    ],
+    "faq": [
+      { "q": "for the nonce とは？", "a": "『さしあたり・当面・今のところ』という古風な表現です。" },
+      { "q": "nonce word とは？", "a": "言語学で『その場限りに作られた語（一度きりの造語）』を指します。" }
+    ],
+    "quiz": [
+      { "q": "for the nonce の意味は？", "A": "さしあたり・当面", "B": "永遠に", "C": "二度と", "D": "正式に", "correct": "A" },
+      { "q": "a nonce word の意味は？", "A": "その場限りの造語", "B": "正式な専門用語", "C": "外来語", "D": "古語", "correct": "A" }
+    ]
+  },
+  {
+    "english": "notepaper",
+    "pron": "ˈnoʊtpeɪpər",
+    "kana": "ノウトペイパー",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "note(便り)+paper(紙)",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "日常で頻出"],
+    "meaning_main": "便せん・メモ用紙",
+    "description": "notepaper（便せん・メモ用紙）の意味・使い方。手紙やメモを書く紙を例文とクイズで学習。",
+    "keywords": ["notepaper 意味", "notepaper 使い方", "便せん 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】便せん・メモ用紙・筆記用紙", "note": "手紙やメモを書くための紙。" }
+    ],
+    "usages": [
+      { "title": "① 便せん", "desc": "手紙。", "example_en": "She wrote on cream notepaper.", "example_ja": "彼女はクリーム色の便せんに書いた。" },
+      { "title": "② メモ用紙", "desc": "筆記。", "example_en": "a sheet of notepaper", "example_ja": "便せん一枚" }
+    ],
+    "warn": ["不可算名詞。a sheet of notepaper（便せん一枚）。", "headed notepaper は『（社名などの）印刷された便せん（レターヘッド）』。"],
+    "etym_note": "note「便り・メモ」＋ paper「紙」を組み合わせた複合語。",
+    "etym_chain": [
+      { "node": "note + paper", "sub": "便り＋紙", "era": "近代英語" },
+      { "node": "notepaper", "sub": "便せん", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a sheet of notepaper", "ja": "便せん一枚" },
+      { "en": "write on notepaper", "ja": "便せんに書く" },
+      { "en": "headed notepaper", "ja": "レターヘッド付き便せん" },
+      { "en": "personal notepaper", "ja": "個人用の便せん" },
+      { "en": "cream notepaper", "ja": "クリーム色の便せん" },
+      { "en": "a box of notepaper", "ja": "便せん一箱" }
+    ],
+    "related": [
+      { "en": "stationery", "ja": "文房具・便せん類" },
+      { "en": "letter", "ja": "手紙" },
+      { "en": "memo", "ja": "メモ" }
+    ],
+    "faq": [
+      { "q": "notepaper とは？", "a": "手紙やメモを書くための紙『便せん・メモ用紙』です。" },
+      { "q": "headed notepaper とは？", "a": "社名や住所が印刷された便せん（レターヘッド）のことです。" }
+    ],
+    "quiz": [
+      { "q": "notepaper の意味は？", "A": "便せん・メモ用紙", "B": "新聞紙", "C": "段ボール", "D": "包装紙", "correct": "A" },
+      { "q": "a sheet of notepaper の意味は？", "A": "便せん一枚", "B": "新聞一部", "C": "本一冊", "D": "封筒一枚", "correct": "A" }
+    ]
+  }
+]

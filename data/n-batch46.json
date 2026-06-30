@@ -1,0 +1,476 @@
+[
+  {
+    "english": "nab",
+    "pron": "næb",
+    "kana": "ナブ",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "由来不詳(つかむ)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "口語で頻出"],
+    "meaning_main": "（口語）（犯人を）捕まえる・（さっと）手に入れる",
+    "description": "nab（捕まえる・さっと手に入れる）の意味・使い方。くだけた口語を例文とクイズで学習。",
+    "keywords": ["nab 意味", "nab 使い方", "捕まえる 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】（口語）（犯人を）捕まえる・逮捕する", "note": "悪いことをした人をすばやく取り押さえる。" },
+      { "hinshi": "【動詞】（口語）（さっと）手に入れる・ひっつかむ", "note": "すばやく取る・ものにする。" }
+    ],
+    "usages": [
+      { "title": "① 捕まえる", "desc": "逮捕。", "example_en": "The police nabbed the thief.", "example_ja": "警察は泥棒を捕まえた。" },
+      { "title": "② さっと手に入れる", "desc": "口語。", "example_en": "I nabbed the last seat.", "example_ja": "私は最後の席をさっと取った。" }
+    ],
+    "warn": ["くだけた口語。catch（捕まえる）／grab（つかむ）に近い。", "過去形は nabbed（b を重ねる）。"],
+    "etym_note": "18世紀ごろからの俗語で『つかむ・捕らえる』。由来は不確か。",
+    "etym_chain": [
+      { "node": "nab (俗語)", "sub": "つかむ", "era": "18世紀" },
+      { "node": "nab", "sub": "捕まえる", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "nab a thief", "ja": "泥棒を捕まえる" },
+      { "en": "get nabbed", "ja": "捕まる" },
+      { "en": "nab a seat", "ja": "席をさっと取る" },
+      { "en": "nab a bargain", "ja": "掘り出し物を手に入れる" },
+      { "en": "nab the suspect", "ja": "容疑者を逮捕する" },
+      { "en": "nab the last one", "ja": "最後の一つをものにする" }
+    ],
+    "related": [
+      { "en": "catch", "ja": "捕まえる" },
+      { "en": "grab", "ja": "つかむ" },
+      { "en": "arrest", "ja": "逮捕する" }
+    ],
+    "faq": [
+      { "q": "nab の二つの意味は？", "a": "口語で『（犯人を）捕まえる』と『（さっと）手に入れる』です。" },
+      { "q": "過去形は？", "a": "nabbed（b を重ねる）です。" }
+    ],
+    "quiz": [
+      { "q": "nab の意味は？", "A": "捕まえる・さっと手に入れる", "B": "逃がす", "C": "落とす", "D": "壊す", "correct": "A" },
+      { "q": "nab a seat の意味は？", "A": "席をさっと取る", "B": "席を譲る", "C": "席を立つ", "D": "席を予約する", "correct": "A" }
+    ]
+  },
+  {
+    "english": "nameplate",
+    "pron": "ˈneɪmpleɪt",
+    "kana": "ネイムプレイト",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "name(名前)+plate(板)",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "日常で頻出"],
+    "meaning_main": "表札・名札・銘板",
+    "description": "nameplate（表札・名札・銘板）の意味・使い方。名前を記した板を例文とクイズで学習。",
+    "keywords": ["nameplate 意味", "nameplate 使い方", "表札 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】表札・名札・銘板（めいばん）", "note": "ドア・机・製品などに付ける、名前や名称を記した板。" }
+    ],
+    "usages": [
+      { "title": "① 表札・名札", "desc": "ドア・机。", "example_en": "Her name was on the nameplate.", "example_ja": "彼女の名前が表札に書いてあった。" },
+      { "title": "② 銘板", "desc": "製品。", "example_en": "the nameplate on the machine", "example_ja": "機械の銘板" }
+    ],
+    "warn": ["name（名前）＋ plate（板）の複合語。", "製品の『定格を示す銘板（nameplate rating）』にも使う。"],
+    "etym_note": "name「名前」＋ plate「板」を組み合わせた複合語。",
+    "etym_chain": [
+      { "node": "name + plate", "sub": "名前＋板", "era": "近代英語" },
+      { "node": "nameplate", "sub": "表札・名札", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a brass nameplate", "ja": "真鍮の表札" },
+      { "en": "a door nameplate", "ja": "ドアの表札" },
+      { "en": "a desk nameplate", "ja": "机の名札" },
+      { "en": "the nameplate on the door", "ja": "ドアの表札" },
+      { "en": "an engraved nameplate", "ja": "彫り込まれた銘板" },
+      { "en": "a nameplate rating", "ja": "（製品の）定格" }
+    ],
+    "related": [
+      { "en": "name tag", "ja": "名札（衣服用）" },
+      { "en": "plaque", "ja": "銘板・額" },
+      { "en": "label", "ja": "ラベル" }
+    ],
+    "faq": [
+      { "q": "nameplate とは？", "a": "ドア・机・製品などに付ける、名前を記した『表札・名札・銘板』です。" },
+      { "q": "name tag との違いは？", "a": "name tag は『（衣服に付ける）名札』、nameplate は『（板状の）表札・銘板』です。" }
+    ],
+    "quiz": [
+      { "q": "nameplate の意味は？", "A": "表札・名札・銘板", "B": "皿", "C": "切手", "D": "看板の電球", "correct": "A" },
+      { "q": "a door nameplate の意味は？", "A": "ドアの表札", "B": "ドアの取っ手", "C": "ドアの鍵", "D": "ドアの蝶番", "correct": "A" }
+    ]
+  },
+  {
+    "english": "namby-pamby",
+    "pron": "ˌnæmbiˈpæmbi",
+    "kana": "ナンビーパンビー",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "adjective",
+    "ld_etym": "詩人 Ambrose Philips への揶揄",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "口語で頻出"],
+    "meaning_main": "めめしい・優柔不断な・甘ったるい",
+    "description": "namby-pamby（めめしい・優柔不断な）の意味・使い方。気の弱い甘い態度を例文とクイズで学習。",
+    "keywords": ["namby-pamby 意味", "namby-pamby 使い方", "めめしい 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】めめしい・優柔不断な・甘ったるい・腰抜けの", "note": "気が弱く、はっきりしない・感傷的すぎる様子。軽蔑的。" },
+      { "hinshi": "【名詞】めめしい人・腰抜け", "note": "" }
+    ],
+    "usages": [
+      { "title": "① めめしい", "desc": "態度。", "example_en": "Don't be so namby-pamby.", "example_ja": "そんなにめめしくするな。" },
+      { "title": "② 甘ったるい", "desc": "批判。", "example_en": "a namby-pamby approach", "example_ja": "甘ったるい手ぬるいやり方" }
+    ],
+    "warn": ["軽蔑的な口語。18世紀の詩人アンブローズ・フィリップスへの揶揄から生まれた。", "wishy-washy（煮え切らない）に近い。"],
+    "etym_note": "18世紀の詩人 Ambrose Philips の甘い作風を揶揄した愛称 Namby Pamby に由来。",
+    "etym_chain": [
+      { "node": "Ambrose Philips", "sub": "詩人（揶揄）", "era": "18世紀" },
+      { "node": "namby-pamby", "sub": "めめしい", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a namby-pamby attitude", "ja": "めめしい態度" },
+      { "en": "namby-pamby nonsense", "ja": "甘ったるいたわごと" },
+      { "en": "don't be namby-pamby", "ja": "めめしくするな" },
+      { "en": "a namby-pamby approach", "ja": "手ぬるいやり方" },
+      { "en": "namby-pamby liberals", "ja": "（揶揄）腰抜けのリベラル" },
+      { "en": "too namby-pamby", "ja": "あまりに優柔不断な" }
+    ],
+    "related": [
+      { "en": "wishy-washy", "ja": "煮え切らない" },
+      { "en": "feeble", "ja": "弱々しい" },
+      { "en": "spineless", "ja": "意気地のない" }
+    ],
+    "faq": [
+      { "q": "namby-pamby とは？", "a": "『めめしい・優柔不断な・甘ったるい』という軽蔑的な口語です。" },
+      { "q": "由来は？", "a": "18世紀の詩人アンブローズ・フィリップスの甘い作風を揶揄したあだ名から来ています。" }
+    ],
+    "quiz": [
+      { "q": "namby-pamby の意味は？", "A": "めめしい・優柔不断な", "B": "勇敢な", "C": "断固とした", "D": "厳格な", "correct": "A" },
+      { "q": "namby-pamby に近い語は？", "A": "wishy-washy（煮え切らない）", "B": "bold（大胆な）", "C": "firm（断固とした）", "D": "brave（勇敢な）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "neonatal",
+    "pron": "ˌniːoʊˈneɪtl",
+    "kana": "ネオネイタル",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "neo-(新)+natal(出生の)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "医療で頻出"],
+    "meaning_main": "新生児の・生後間もない",
+    "description": "neonatal（新生児の）の意味・使い方。neonatal care などを例文とクイズで学習。",
+    "keywords": ["neonatal 意味", "neonatal 使い方", "新生児 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】新生児の・生後間もない（通常は生後28日まで）", "note": "生まれて間もない赤ちゃんに関する。" }
+    ],
+    "usages": [
+      { "title": "① 新生児の", "desc": "医療。", "example_en": "the neonatal intensive care unit", "example_ja": "新生児集中治療室（NICU）" },
+      { "title": "② 生後間もない", "desc": "ケア。", "example_en": "neonatal care", "example_ja": "新生児のケア" }
+    ],
+    "warn": ["neonate は『新生児』。NICU は neonatal intensive care unit（新生児集中治療室）。", "prenatal（出生前の）, postnatal（出生後の）と関連。"],
+    "etym_note": "ギリシャ語 neos「新しい」＋ ラテン語 natalis「出生の」から。",
+    "etym_chain": [
+      { "node": "neos + natalis", "sub": "新しい＋出生の", "era": "古代" },
+      { "node": "neonatal", "sub": "新生児の", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "neonatal care", "ja": "新生児ケア" },
+      { "en": "neonatal intensive care unit", "ja": "新生児集中治療室（NICU）" },
+      { "en": "neonatal mortality", "ja": "新生児死亡率" },
+      { "en": "a neonatal nurse", "ja": "新生児担当の看護師" },
+      { "en": "the neonatal period", "ja": "新生児期" },
+      { "en": "neonatal screening", "ja": "新生児スクリーニング" }
+    ],
+    "related": [
+      { "en": "neonate", "ja": "新生児" },
+      { "en": "natal", "ja": "出生の" },
+      { "en": "infant", "ja": "乳児" }
+    ],
+    "faq": [
+      { "q": "neonatal とは？", "a": "『新生児の・生後間もない（通常生後28日まで）』という意味です。" },
+      { "q": "NICU とは？", "a": "neonatal intensive care unit（新生児集中治療室）の略です。" }
+    ],
+    "quiz": [
+      { "q": "neonatal の意味は？", "A": "新生児の・生後間もない", "B": "高齢の", "C": "思春期の", "D": "妊娠中の", "correct": "A" },
+      { "q": "NICU の neonatal は？", "A": "新生児（の）", "B": "神経（の）", "C": "腎臓（の）", "D": "心臓（の）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "necromancer",
+    "pron": "ˈnekrəmænsər",
+    "kana": "ネクロマンサー",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ギリシャ nekros(死者)+manteia(占い)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "ファンタジーで頻出"],
+    "meaning_main": "降霊術師・死者を操る魔術師・ネクロマンサー",
+    "description": "necromancer（降霊術師・ネクロマンサー）の意味・使い方。死者を呼び出す魔術師を例文とクイズで学習。",
+    "keywords": ["necromancer 意味", "necromancer 使い方", "降霊術師 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】降霊術師・死者を操る魔術師・ネクロマンサー", "note": "死者の霊を呼び出し、占ったり操ったりする魔術を使う人。" }
+    ],
+    "usages": [
+      { "title": "① 降霊術師", "desc": "魔術。", "example_en": "The necromancer summoned the dead.", "example_ja": "降霊術師は死者を呼び出した。" },
+      { "title": "② ファンタジー", "desc": "物語。", "example_en": "an evil necromancer", "example_ja": "邪悪なネクロマンサー" }
+    ],
+    "warn": ["術は necromancy（降霊術）。ファンタジー作品で死者を操る敵役として頻出。", "ギリシャ語 nekros（死者）＋ manteia（占い）。"],
+    "etym_note": "ギリシャ語 nekros「死者」＋ manteia「占い」＋ -er「〜する人」から。",
+    "etym_chain": [
+      { "node": "nekros + manteia (ギリシャ語)", "sub": "死者＋占い", "era": "古代" },
+      { "node": "necromancy", "sub": "降霊術", "era": "中英語" },
+      { "node": "necromancer", "sub": "降霊術師", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "an evil necromancer", "ja": "邪悪なネクロマンサー" },
+      { "en": "a powerful necromancer", "ja": "強力な降霊術師" },
+      { "en": "the necromancer's spell", "ja": "降霊術師の呪文" },
+      { "en": "a dark necromancer", "ja": "闇の降霊術師" },
+      { "en": "summon the dead", "ja": "死者を呼び出す" },
+      { "en": "defeat the necromancer", "ja": "降霊術師を倒す" }
+    ],
+    "related": [
+      { "en": "necromancy", "ja": "降霊術" },
+      { "en": "sorcerer", "ja": "魔術師" },
+      { "en": "wizard", "ja": "魔法使い" }
+    ],
+    "faq": [
+      { "q": "necromancer とは？", "a": "死者の霊を呼び出して操る魔術を使う人『降霊術師・ネクロマンサー』です。" },
+      { "q": "術は何と呼ぶ？", "a": "necromancy（降霊術）です。" }
+    ],
+    "quiz": [
+      { "q": "necromancer の意味は？", "A": "降霊術師・死者を操る魔術師", "B": "占星術師", "C": "錬金術師", "D": "薬剤師", "correct": "A" },
+      { "q": "necromancer が使う術は？", "A": "necromancy（降霊術）", "B": "astronomy（天文学）", "C": "chemistry（化学）", "D": "economy（経済）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "needlepoint",
+    "pron": "ˈniːdlpɔɪnt",
+    "kana": "ニードルポイント",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "needle(針)+point(先)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "手芸で頻出"],
+    "meaning_main": "ニードルポイント（網目状の布に施す刺しゅう）",
+    "description": "needlepoint（ニードルポイント）の意味・使い方。キャンバス地に施す刺しゅう手芸を例文とクイズで学習。",
+    "keywords": ["needlepoint 意味", "needlepoint 使い方", "ニードルポイント 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】ニードルポイント（網目状のキャンバス地に糸を通す刺しゅう）", "note": "目の粗い布（キャンバス）の網目を糸で埋めていく刺しゅう手芸。" }
+    ],
+    "usages": [
+      { "title": "① ニードルポイント", "desc": "手芸。", "example_en": "She does needlepoint as a hobby.", "example_ja": "彼女は趣味でニードルポイントをする。" },
+      { "title": "② 作品", "desc": "成果物。", "example_en": "a needlepoint cushion", "example_ja": "ニードルポイントのクッション" }
+    ],
+    "warn": ["needle（針）＋ point（先・点）から。cross-stitch（クロスステッチ）の一種に近い。", "embroidery（刺しゅう）の一分野。"],
+    "etym_note": "needle「針」＋ point「先・点」を組み合わせた語。",
+    "etym_chain": [
+      { "node": "needle + point", "sub": "針＋先", "era": "近代英語" },
+      { "node": "needlepoint", "sub": "ニードルポイント", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "do needlepoint", "ja": "ニードルポイントをする" },
+      { "en": "a needlepoint cushion", "ja": "ニードルポイントのクッション" },
+      { "en": "a needlepoint design", "ja": "ニードルポイントの図案" },
+      { "en": "needlepoint canvas", "ja": "ニードルポイント用キャンバス" },
+      { "en": "a piece of needlepoint", "ja": "ニードルポイント作品" },
+      { "en": "fine needlepoint", "ja": "精巧なニードルポイント" }
+    ],
+    "related": [
+      { "en": "embroidery", "ja": "刺しゅう" },
+      { "en": "cross-stitch", "ja": "クロスステッチ" },
+      { "en": "needlework", "ja": "針仕事" }
+    ],
+    "faq": [
+      { "q": "needlepoint とは？", "a": "目の粗いキャンバス地の網目を糸で埋めていく刺しゅう手芸『ニードルポイント』です。" },
+      { "q": "embroidery との違いは？", "a": "needlepoint は embroidery（刺しゅう）の一分野で、特にキャンバス地に施すものです。" }
+    ],
+    "quiz": [
+      { "q": "needlepoint の意味は？", "A": "キャンバス地に施す刺しゅう手芸", "B": "編み物", "C": "織物機", "D": "ミシン縫い", "correct": "A" },
+      { "q": "needlepoint に使う道具は？", "A": "針と糸", "B": "のこぎり", "C": "ハンマー", "D": "筆", "correct": "A" }
+    ]
+  },
+  {
+    "english": "nebbish",
+    "pron": "ˈnebɪʃ",
+    "kana": "ネビッシュ",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "イディッシュ nebekh",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "口語で頻出"],
+    "meaning_main": "気の弱い人・うだつの上がらない人・いくじなし",
+    "description": "nebbish（気の弱い人・いくじなし）の意味・使い方。存在感のない冴えない人を例文とクイズで学習。",
+    "keywords": ["nebbish 意味", "nebbish 使い方", "いくじなし 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】気の弱い人・うだつの上がらない人・いくじなし", "note": "存在感がなく、おどおどした冴えない人。イディッシュ語由来の口語。" }
+    ],
+    "usages": [
+      { "title": "① 気の弱い人", "desc": "口語。", "example_en": "He's a bit of a nebbish.", "example_ja": "彼はちょっと冴えない気の弱い人だ。" },
+      { "title": "② いくじなし", "desc": "評価。", "example_en": "a timid nebbish", "example_ja": "おどおどしたいくじなし" }
+    ],
+    "warn": ["イディッシュ語 nebekh（哀れな）に由来する口語。形容詞 nebbishy も。", "アメリカ口語で『冴えない・存在感のない人』。"],
+    "etym_note": "イディッシュ語 nebekh「哀れな・かわいそうな」に由来。",
+    "etym_chain": [
+      { "node": "nebekh (イディッシュ語)", "sub": "哀れな", "era": "近世" },
+      { "node": "nebbish", "sub": "気の弱い人", "era": "20世紀英語" }
+    ],
+    "phrases": [
+      { "en": "a bit of a nebbish", "ja": "ちょっと冴えない人" },
+      { "en": "a timid nebbish", "ja": "おどおどしたいくじなし" },
+      { "en": "a hapless nebbish", "ja": "運のないさえない男" },
+      { "en": "act like a nebbish", "ja": "気の弱い人のようにふるまう" },
+      { "en": "a nebbish character", "ja": "冴えない登場人物" },
+      { "en": "no nebbish", "ja": "いくじなしではない" }
+    ],
+    "related": [
+      { "en": "milquetoast", "ja": "気の弱い人" },
+      { "en": "wimp", "ja": "弱虫" },
+      { "en": "loser", "ja": "ぱっとしない人" }
+    ],
+    "faq": [
+      { "q": "nebbish とは？", "a": "存在感がなく、おどおどした『気の弱い・冴えない人』を指すイディッシュ語由来の口語です。" },
+      { "q": "由来は？", "a": "イディッシュ語 nebekh『哀れな』に由来します。" }
+    ],
+    "quiz": [
+      { "q": "nebbish の意味は？", "A": "気の弱い人・いくじなし", "B": "強気な人", "C": "人気者", "D": "指導者", "correct": "A" },
+      { "q": "nebbish に近い語は？", "A": "wimp（弱虫）", "B": "hero（英雄）", "C": "leader（指導者）", "D": "star（花形）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "neckband",
+    "pron": "ˈnekbænd",
+    "kana": "ネックバンド",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "neck(首)+band(帯)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "服飾で頻出"],
+    "meaning_main": "（衣服の）襟の付け根の帯／首に着ける帯状のもの",
+    "description": "neckband（襟帯・首に着ける帯）の意味・使い方。シャツの襟の付け根や首輪を例文とクイズで学習。",
+    "keywords": ["neckband 意味", "neckband 使い方", "ネックバンド 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】（シャツの）襟の付け根の帯・首回りの帯", "note": "襟が付く前の、首回りを囲う布の帯。" },
+      { "hinshi": "【名詞】首に着ける帯状のもの", "note": "ネックバンド型のイヤホン・首輪など。" }
+    ],
+    "usages": [
+      { "title": "① 襟の付け根の帯", "desc": "服。", "example_en": "The shirt has a stiff neckband.", "example_ja": "そのシャツは襟の付け根が固い帯になっている。" },
+      { "title": "② 首に着けるもの", "desc": "機器など。", "example_en": "neckband headphones", "example_ja": "ネックバンド型ヘッドホン" }
+    ],
+    "warn": ["neck（首）＋ band（帯）の複合語。シャツの構造部分や、首掛け型の機器に使う。", "collar（襟）の付け根の帯を指す裁縫用語。"],
+    "etym_note": "neck「首」＋ band「帯」を組み合わせた複合語。",
+    "etym_chain": [
+      { "node": "neck + band", "sub": "首＋帯", "era": "近代英語" },
+      { "node": "neckband", "sub": "襟帯", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a stiff neckband", "ja": "固い襟帯" },
+      { "en": "a shirt neckband", "ja": "シャツの襟の付け根" },
+      { "en": "neckband headphones", "ja": "ネックバンド型ヘッドホン" },
+      { "en": "a buttoned neckband", "ja": "ボタン留めの襟帯" },
+      { "en": "a fabric neckband", "ja": "布の首帯" },
+      { "en": "adjust the neckband", "ja": "ネックバンドを調節する" }
+    ],
+    "related": [
+      { "en": "collar", "ja": "襟" },
+      { "en": "band", "ja": "帯" },
+      { "en": "neckline", "ja": "襟ぐり" }
+    ],
+    "faq": [
+      { "q": "neckband とは？", "a": "シャツの『襟の付け根の帯』、または首掛け型機器などの『首に着ける帯』を指します。" },
+      { "q": "collar との違いは？", "a": "collar は『襟』そのもの、neckband は襟が付く『首回りの帯（土台）』を指します。" }
+    ],
+    "quiz": [
+      { "q": "neckband の意味は？", "A": "襟の付け根の帯・首に着ける帯", "B": "そで口", "C": "ベルト", "D": "靴ひも", "correct": "A" },
+      { "q": "neckband headphones の意味は？", "A": "ネックバンド型ヘッドホン", "B": "耳栓", "C": "マイク", "D": "スピーカー", "correct": "A" }
+    ]
+  },
+  {
+    "english": "neap",
+    "pron": "niːp",
+    "kana": "ニープ",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "noun",
+    "ld_etym": "古英 nep(乏しい潮)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "海・天文で頻出"],
+    "meaning_main": "小潮（こしお）／小潮の",
+    "description": "neap（小潮）の意味・使い方。干満の差が小さい潮 neap tide を例文とクイズで学習。",
+    "keywords": ["neap 意味", "neap 使い方", "小潮 英語"],
+    "meanings": [
+      { "hinshi": "【名詞・形容詞】小潮（こしお）（の）", "note": "上弦・下弦の月のころの、満潮と干潮の差が最も小さい潮。neap tide。" }
+    ],
+    "usages": [
+      { "title": "① 小潮", "desc": "海・天文。", "example_en": "During neap tides, the water rises less.", "example_ja": "小潮のときは潮の上がり方が小さい。" },
+      { "title": "② 小潮の", "desc": "形容詞。", "example_en": "a neap tide", "example_ja": "小潮" }
+    ],
+    "warn": ["対になるのは spring tide（大潮）。neap tide は干満差が最小。", "上弦・下弦の月のころに起こる。"],
+    "etym_note": "古英語 nep「（潮が）乏しい」（nepflod＝小潮）に由来。",
+    "etym_chain": [
+      { "node": "nep (古英語)", "sub": "乏しい潮", "era": "古英語" },
+      { "node": "neap", "sub": "小潮", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "a neap tide", "ja": "小潮" },
+      { "en": "during neap tides", "ja": "小潮の間" },
+      { "en": "neap and spring tides", "ja": "小潮と大潮" },
+      { "en": "the neap range", "ja": "小潮の干満差" },
+      { "en": "at neap", "ja": "小潮のときに" },
+      { "en": "a low neap", "ja": "低い小潮" }
+    ],
+    "related": [
+      { "en": "spring tide", "ja": "大潮" },
+      { "en": "tide", "ja": "潮" },
+      { "en": "ebb", "ja": "引き潮" }
+    ],
+    "faq": [
+      { "q": "neap tide とは？", "a": "満潮と干潮の差が最も小さい『小潮』のことです。" },
+      { "q": "対になる潮は？", "a": "spring tide（大潮：干満差が最も大きい潮）です。" }
+    ],
+    "quiz": [
+      { "q": "neap（tide）の意味は？", "A": "小潮（干満差が小さい潮）", "B": "大潮", "C": "津波", "D": "高波", "correct": "A" },
+      { "q": "neap tide と対になるのは？", "A": "spring tide（大潮）", "B": "low tide（干潮）", "C": "high tide（満潮）", "D": "red tide（赤潮）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "nelson",
+    "pron": "ˈnelsn",
+    "kana": "ネルソン",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "人名 Nelson に由来",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "レスリングで頻出"],
+    "meaning_main": "ネルソン（レスリングの首固め技）",
+    "description": "nelson（ネルソン）の意味・使い方。レスリングの首固め技を例文とクイズで学習。",
+    "keywords": ["nelson 意味", "nelson 使い方", "ネルソン 技 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】ネルソン（レスリングの首固め技）", "note": "相手の脇から腕を入れ、首の後ろを押さえる技。half nelson, full nelson がある。" }
+    ],
+    "usages": [
+      { "title": "① 首固め技", "desc": "レスリング。", "example_en": "He put his opponent in a half nelson.", "example_ja": "彼は相手にハーフネルソンをかけた。" },
+      { "title": "② フルネルソン", "desc": "技の種類。", "example_en": "a full nelson", "example_ja": "フルネルソン（両腕での首固め）" }
+    ],
+    "warn": ["half nelson（片腕の首固め）, full nelson（両腕の首固め）。", "人名 Nelson に由来するとされる（語源は諸説あり）。"],
+    "etym_note": "人名 Nelson に由来するとされる（19世紀のレスリング用語、由来は諸説あり）。",
+    "etym_chain": [
+      { "node": "Nelson (人名)", "sub": "ネルソン", "era": "19世紀" },
+      { "node": "nelson", "sub": "首固め技", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a half nelson", "ja": "ハーフネルソン" },
+      { "en": "a full nelson", "ja": "フルネルソン" },
+      { "en": "put in a nelson", "ja": "ネルソンをかける" },
+      { "en": "apply a nelson", "ja": "首固めを決める" },
+      { "en": "break a nelson", "ja": "ネルソンを外す" },
+      { "en": "a tight nelson", "ja": "きつい首固め" }
+    ],
+    "related": [
+      { "en": "wrestling", "ja": "レスリング" },
+      { "en": "hold", "ja": "（組み技の）固め技" },
+      { "en": "grapple", "ja": "組み合う" }
+    ],
+    "faq": [
+      { "q": "nelson とは？", "a": "相手の脇から腕を入れて首の後ろを押さえる、レスリングの『首固め技』です。" },
+      { "q": "half と full の違いは？", "a": "half nelson は片腕、full nelson は両腕を使う首固めです。" }
+    ],
+    "quiz": [
+      { "q": "nelson の意味は？", "A": "レスリングの首固め技", "B": "サッカーの反則", "C": "テニスの打法", "D": "野球の球種", "correct": "A" },
+      { "q": "a full nelson の意味は？", "A": "両腕での首固め", "B": "片足タックル", "C": "投げ技", "D": "関節技だけ", "correct": "A" }
+    ]
+  }
+]
