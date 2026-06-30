@@ -1,0 +1,477 @@
+[
+  {
+    "english": "nag",
+    "pron": "næɡ",
+    "kana": "ナグ",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "verb",
+    "ld_etym": "北欧語 nagga(かじる)",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "日常で頻出"],
+    "meaning_main": "（しつこく）小言を言う・せがむ／（不安などが）つきまとう",
+    "description": "nag（小言を言う・つきまとう）の意味・使い方。nag someone to do を例文とクイズで学習。",
+    "keywords": ["nag 意味", "nag 使い方", "小言 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】しつこく小言を言う・せがむ", "note": "繰り返しうるさく言うこと。nag someone to do（〜するようせがむ）。" },
+      { "hinshi": "【動詞・名詞】（不安などが）つきまとう／小言の多い人", "note": "気がかりが心に残る。a nag は『口やかましい人』。" }
+    ],
+    "usages": [
+      { "title": "① 小言を言う", "desc": "うるさく言う。", "example_en": "She nagged him to clean his room.", "example_ja": "彼女は部屋を片付けるよう彼にうるさく言った。" },
+      { "title": "② つきまとう", "desc": "不安など。", "example_en": "A doubt kept nagging at me.", "example_ja": "ある疑念が私につきまとって離れなかった。" }
+    ],
+    "warn": ["nag at someone で『〜に小言を言う』。a nagging pain は『しつこく続く痛み』。", "形容詞的な nagging（しつこい・気がかりな）も頻出。"],
+    "etym_note": "スカンジナビア系の語 nagga「かじる・いらだたせる」に由来。",
+    "etym_chain": [
+      { "node": "nagga (北欧語)", "sub": "かじる", "era": "中世" },
+      { "node": "nag", "sub": "小言を言う", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "nag someone to do", "ja": "〜するようせがむ" },
+      { "en": "nag at someone", "ja": "〜に小言を言う" },
+      { "en": "a nagging doubt", "ja": "つきまとう疑念" },
+      { "en": "a nagging pain", "ja": "しつこい痛み" },
+      { "en": "stop nagging", "ja": "小言をやめる" },
+      { "en": "nag constantly", "ja": "絶えず小言を言う" }
+    ],
+    "related": [
+      { "en": "pester", "ja": "しつこく悩ます" },
+      { "en": "scold", "ja": "しかる" },
+      { "en": "harp on", "ja": "くどくど言う" }
+    ],
+    "faq": [
+      { "q": "a nagging doubt とは？", "a": "『（消えずに）つきまとう疑念・気がかり』という意味です。" },
+      { "q": "nag at の意味は？", "a": "『〜に（しつこく）小言を言う』です。" }
+    ],
+    "quiz": [
+      { "q": "nag の意味は？", "A": "しつこく小言を言う", "B": "ほめる", "C": "励ます", "D": "無視する", "correct": "A" },
+      { "q": "a nagging pain の意味は？", "A": "しつこく続く痛み", "B": "突然の激痛", "C": "心地よい感覚", "D": "軽い疲れ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "namely",
+    "pron": "ˈneɪmli",
+    "kana": "ネイムリー",
+    "hinshi": "副詞",
+    "ld_pos": "adverb",
+    "ld_etym": "name(名)+ -ly",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "文章で頻出"],
+    "meaning_main": "すなわち・つまり・具体的に言うと",
+    "description": "namely（すなわち・具体的に言うと）の意味・使い方。具体例を挙げる用法を例文とクイズで学習。",
+    "keywords": ["namely 意味", "namely 使い方", "すなわち 英語"],
+    "meanings": [
+      { "hinshi": "【副詞】すなわち・つまり・具体的に言うと", "note": "前に述べたものを具体的に特定して挙げるときに使う。" }
+    ],
+    "usages": [
+      { "title": "① すなわち・具体的に", "desc": "特定して挙げる。", "example_en": "One student passed, namely Tom.", "example_ja": "一人の生徒が合格した、すなわちトムだ。" },
+      { "title": "② 限定して述べる", "desc": "詳細化。", "example_en": "We need two things, namely time and money.", "example_ja": "私たちには二つ、つまり時間とお金が必要だ。" }
+    ],
+    "warn": ["for example（例を一つ挙げる）と違い、namely は『該当するものすべてを特定して』挙げる。", "i.e.（すなわち）に近い改まった語。"],
+    "etym_note": "name「名前」＋ -ly から。『名指しして』が原義。",
+    "etym_chain": [
+      { "node": "nama (古英語)", "sub": "名前", "era": "古英語" },
+      { "node": "namely", "sub": "すなわち", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "namely that", "ja": "すなわち〜ということ" },
+      { "en": "two countries, namely", "ja": "二か国、すなわち〜" },
+      { "en": "one person, namely", "ja": "一人、つまり〜" },
+      { "en": "namely the following", "ja": "すなわち次のもの" },
+      { "en": "for one reason, namely", "ja": "一つの理由、つまり〜" },
+      { "en": "namely, X and Y", "ja": "すなわち X と Y" }
+    ],
+    "related": [
+      { "en": "specifically", "ja": "具体的には" },
+      { "en": "that is", "ja": "すなわち" },
+      { "en": "viz.", "ja": "すなわち（書き言葉）" }
+    ],
+    "faq": [
+      { "q": "namely と for example の違いは？", "a": "for example は『例を一つ挙げる』、namely は『該当するものを具体的に特定して挙げる』ときに使います。" },
+      { "q": "i.e. と同じ？", "a": "近い意味です。namely / i.e. はどちらも『すなわち（具体的に言うと）』を表します。" }
+    ],
+    "quiz": [
+      { "q": "namely の意味は？", "A": "すなわち・具体的に言うと", "B": "おそらく", "C": "意外にも", "D": "残念ながら", "correct": "A" },
+      { "q": "「One student passed, namely Tom.」の意味は？", "A": "一人すなわちトムが合格した", "B": "トム以外が合格した", "C": "全員が合格した", "D": "誰も合格しなかった", "correct": "A" }
+    ]
+  },
+  {
+    "english": "nameless",
+    "pron": "ˈneɪmləs",
+    "kana": "ネイムレス",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "name(名)+ -less(無い)",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "文章で頻出"],
+    "meaning_main": "名前のない・無名の・名状しがたい",
+    "description": "nameless（名前のない・無名の）の意味・使い方。a nameless fear などを例文とクイズで学習。",
+    "keywords": ["nameless 意味", "nameless 使い方", "無名 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】名前のない・無名の・名前を明かさない", "note": "名前がない、または名前を伏せた。" },
+      { "hinshi": "【形容詞】名状しがたい・言い表せない", "note": "a nameless fear（言い知れぬ恐怖）。" }
+    ],
+    "usages": [
+      { "title": "① 無名の・名を伏せた", "desc": "匿名。", "example_en": "A nameless donor gave the money.", "example_ja": "名を伏せた寄付者がそのお金を出した。" },
+      { "title": "② 言い知れぬ", "desc": "感情。", "example_en": "She felt a nameless dread.", "example_ja": "彼女は名状しがたい恐怖を感じた。" }
+    ],
+    "warn": ["who shall remain nameless は『名前は伏せておくが』という決まり文句。", "a nameless fear/dread で『言い知れぬ恐怖』。"],
+    "etym_note": "name「名前」＋ -less「〜がない」から。",
+    "etym_chain": [
+      { "node": "nama (古英語)", "sub": "名前", "era": "古英語" },
+      { "node": "nameless", "sub": "名前のない", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "a nameless donor", "ja": "名を伏せた寄付者" },
+      { "en": "a nameless fear", "ja": "言い知れぬ恐怖" },
+      { "en": "who shall remain nameless", "ja": "名前は伏せておくが" },
+      { "en": "nameless victims", "ja": "無名の犠牲者たち" },
+      { "en": "a nameless grave", "ja": "無名の墓" },
+      { "en": "nameless dread", "ja": "名状しがたい恐れ" }
+    ],
+    "related": [
+      { "en": "anonymous", "ja": "匿名の" },
+      { "en": "unnamed", "ja": "名を明かさない" },
+      { "en": "unknown", "ja": "無名の" }
+    ],
+    "faq": [
+      { "q": "who shall remain nameless とは？", "a": "『（あえて）名前は伏せておくが』という、人をぼかして言うときの定番表現です。" },
+      { "q": "a nameless fear とは？", "a": "『はっきり言い表せない・言い知れぬ恐怖』という意味です。" }
+    ],
+    "quiz": [
+      { "q": "nameless の意味は？", "A": "名前のない・無名の", "B": "有名な", "C": "公式の", "D": "名高い", "correct": "A" },
+      { "q": "a nameless fear の意味は？", "A": "言い知れぬ恐怖", "B": "明確な目標", "C": "大きな喜び", "D": "強い自信", "correct": "A" }
+    ]
+  },
+  {
+    "english": "narrator",
+    "pron": "ˈnæreɪtər",
+    "kana": "ナレイター",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン narrare(語る)",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "物語で頻出"],
+    "meaning_main": "語り手・ナレーター",
+    "description": "narrator（語り手・ナレーター）の意味・使い方。物語の話し手や映像の語りを例文とクイズで学習。",
+    "keywords": ["narrator 意味", "narrator 使い方", "語り手 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】語り手・ナレーター", "note": "物語を語る人。映画・番組で進行を語る人。" }
+    ],
+    "usages": [
+      { "title": "① 物語の語り手", "desc": "文学で。", "example_en": "The narrator tells the story in the first person.", "example_ja": "語り手は一人称で物語を語る。" },
+      { "title": "② ナレーター", "desc": "映像で。", "example_en": "A famous actor was the narrator.", "example_ja": "有名な俳優がナレーターを務めた。" }
+    ],
+    "warn": ["動詞は narrate（物語る）、名詞 narrative（物語）/ narration（語り）。", "an unreliable narrator は『信頼できない語り手』という文学用語。"],
+    "etym_note": "ラテン語 narrare「語る」（narrator＝語る人）に由来。narrate と同語源。",
+    "etym_chain": [
+      { "node": "narrare (ラテン語)", "sub": "語る", "era": "古代" },
+      { "node": "narrator (ラテン語)", "sub": "語る人", "era": "古代" },
+      { "node": "narrator", "sub": "語り手", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "the narrator of the story", "ja": "物語の語り手" },
+      { "en": "a first-person narrator", "ja": "一人称の語り手" },
+      { "en": "an unreliable narrator", "ja": "信頼できない語り手" },
+      { "en": "act as narrator", "ja": "ナレーターを務める" },
+      { "en": "an omniscient narrator", "ja": "全知の語り手" },
+      { "en": "the narrator's voice", "ja": "語り手の声" }
+    ],
+    "related": [
+      { "en": "narrate", "ja": "物語る" },
+      { "en": "narrative", "ja": "物語" },
+      { "en": "storyteller", "ja": "語り部" }
+    ],
+    "faq": [
+      { "q": "an unreliable narrator とは？", "a": "語る内容が当てにならない『信頼できない語り手』という文学用語です。" },
+      { "q": "動詞は？", "a": "narrate（物語る・ナレーションする）です。" }
+    ],
+    "quiz": [
+      { "q": "narrator の意味は？", "A": "語り手・ナレーター", "B": "観客", "C": "編集者", "D": "出版社", "correct": "A" },
+      { "q": "a first-person narrator の意味は？", "A": "一人称の語り手", "B": "脇役", "C": "作曲家", "D": "翻訳者", "correct": "A" }
+    ]
+  },
+  {
+    "english": "nebula",
+    "pron": "ˈnebjələ",
+    "kana": "ネビュラ",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン nebula(霧・雲)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "天文で頻出"],
+    "meaning_main": "星雲",
+    "description": "nebula（星雲）の意味・使い方。宇宙のガスと塵の雲を例文とクイズで学習。",
+    "keywords": ["nebula 意味", "nebula 使い方", "星雲 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】星雲", "note": "宇宙空間に広がるガスや塵の雲。星が生まれる場所にもなる。" }
+    ],
+    "usages": [
+      { "title": "① 星雲", "desc": "天文で。", "example_en": "The telescope captured a distant nebula.", "example_ja": "望遠鏡は遠くの星雲をとらえた。" },
+      { "title": "② 星の誕生", "desc": "天体。", "example_en": "Stars form within a nebula.", "example_ja": "星は星雲の中で生まれる。" }
+    ],
+    "warn": ["複数形は nebulae（ネビュリー）または nebulas。", "形容詞 nebulous は『漠然とした・曖昧な』。"],
+    "etym_note": "ラテン語 nebula「霧・雲」に由来。nebulous（曖昧な）と同語源。",
+    "etym_chain": [
+      { "node": "nebula (ラテン語)", "sub": "霧・雲", "era": "古代" },
+      { "node": "nebula", "sub": "星雲", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a distant nebula", "ja": "遠くの星雲" },
+      { "en": "a planetary nebula", "ja": "惑星状星雲" },
+      { "en": "the Orion Nebula", "ja": "オリオン大星雲" },
+      { "en": "a glowing nebula", "ja": "輝く星雲" },
+      { "en": "a gas nebula", "ja": "ガス星雲" },
+      { "en": "form a nebula", "ja": "星雲を形作る" }
+    ],
+    "related": [
+      { "en": "galaxy", "ja": "銀河" },
+      { "en": "nebulous", "ja": "漠然とした" },
+      { "en": "star", "ja": "星" }
+    ],
+    "faq": [
+      { "q": "nebula の複数形は？", "a": "nebulae（ネビュリー）または nebulas です。" },
+      { "q": "nebulous との関係は？", "a": "同語源で、nebulous は『（霧のように）漠然とした・曖昧な』を意味します。" }
+    ],
+    "quiz": [
+      { "q": "nebula の意味は？", "A": "星雲", "B": "彗星", "C": "惑星", "D": "衛星", "correct": "A" },
+      { "q": "nebula の複数形は？", "A": "nebulae", "B": "nebulus", "C": "nebuli", "D": "nebula's", "correct": "A" }
+    ]
+  },
+  {
+    "english": "nectar",
+    "pron": "ˈnektər",
+    "kana": "ネクター",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ギリシャ nektar(神々の飲料)",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "自然・飲食で頻出"],
+    "meaning_main": "花の蜜・果汁飲料／（比喩）甘美な飲み物",
+    "description": "nectar（花の蜜・果汁飲料）の意味・使い方。蜂が集める蜜やネクターを例文とクイズで学習。",
+    "keywords": ["nectar 意味", "nectar 使い方", "花の蜜 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】花の蜜", "note": "植物が分泌する甘い液。蜂が集めてはちみつになる。" },
+      { "hinshi": "【名詞】果汁飲料（ネクター）／甘美な飲み物", "note": "とろりとした果汁飲料。神話では『神々の飲料』。" }
+    ],
+    "usages": [
+      { "title": "① 花の蜜", "desc": "自然で。", "example_en": "Bees collect nectar from flowers.", "example_ja": "蜂は花から蜜を集める。" },
+      { "title": "② 果汁飲料", "desc": "飲み物。", "example_en": "She drank peach nectar.", "example_ja": "彼女は桃のネクターを飲んだ。" }
+    ],
+    "warn": ["ギリシャ神話では『神々の飲み物』。比喩で『甘美な飲み物』。", "ambrosia（神々の食べ物）と対になる語。"],
+    "etym_note": "ギリシャ語 nektar「神々の飲料」に由来。",
+    "etym_chain": [
+      { "node": "nektar (ギリシャ語)", "sub": "神々の飲料", "era": "古代" },
+      { "node": "nectar", "sub": "花の蜜・甘い飲料", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "collect nectar", "ja": "蜜を集める" },
+      { "en": "flower nectar", "ja": "花の蜜" },
+      { "en": "peach nectar", "ja": "桃のネクター" },
+      { "en": "sweet as nectar", "ja": "蜜のように甘い" },
+      { "en": "nectar of the gods", "ja": "神々の飲料" },
+      { "en": "feed on nectar", "ja": "蜜を吸う" }
+    ],
+    "related": [
+      { "en": "honey", "ja": "はちみつ" },
+      { "en": "ambrosia", "ja": "神々の食べ物" },
+      { "en": "juice", "ja": "果汁" }
+    ],
+    "faq": [
+      { "q": "nectar の二つの意味は？", "a": "『花の蜜』と『果汁飲料（または神々の甘美な飲み物）』です。" },
+      { "q": "ambrosia との関係は？", "a": "ギリシャ神話で nectar は『神々の飲み物』、ambrosia は『神々の食べ物』です。" }
+    ],
+    "quiz": [
+      { "q": "nectar の意味は？", "A": "花の蜜・甘い飲料", "B": "苦い薬", "C": "塩水", "D": "酢", "correct": "A" },
+      { "q": "Bees collect nectar. の意味は？", "A": "蜂は蜜を集める", "B": "蜂は巣を作る", "C": "蜂は刺す", "D": "蜂は飛ぶ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "nepotism",
+    "pron": "ˈnepətɪzəm",
+    "kana": "ネポティズム",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン nepos(甥)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "社会で頻出"],
+    "meaning_main": "縁故主義・身内びいき",
+    "description": "nepotism（縁故主義・身内びいき）の意味・使い方。親族を優遇する不公平を例文とクイズで学習。",
+    "keywords": ["nepotism 意味", "nepotism 使い方", "縁故主義 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】縁故主義・身内びいき", "note": "地位や権力を使って親族・身内を不当に優遇すること。" }
+    ],
+    "usages": [
+      { "title": "① 縁故主義", "desc": "採用など。", "example_en": "He got the job through nepotism.", "example_ja": "彼は縁故でその職を得た。" },
+      { "title": "② 身内びいき", "desc": "批判的に。", "example_en": "The company was accused of nepotism.", "example_ja": "その会社は身内びいきだと非難された。" }
+    ],
+    "warn": ["否定的な語。favoritism（えこひいき）の中でも特に『親族の優遇』。", "cronyism は『仲間内びいき（縁故ではなく友人）』。"],
+    "etym_note": "ラテン語 nepos「甥・孫」に由来。聖職者が甥を優遇したことから生まれた語。",
+    "etym_chain": [
+      { "node": "nepos (ラテン語)", "sub": "甥・孫", "era": "古代" },
+      { "node": "nepotismo (イタリア語)", "sub": "縁故主義", "era": "近世" },
+      { "node": "nepotism", "sub": "縁故主義", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "accused of nepotism", "ja": "縁故主義だと非難される" },
+      { "en": "through nepotism", "ja": "縁故で" },
+      { "en": "blatant nepotism", "ja": "あからさまな身内びいき" },
+      { "en": "a culture of nepotism", "ja": "縁故主義の風潮" },
+      { "en": "fight nepotism", "ja": "縁故主義と闘う" },
+      { "en": "nepotism and corruption", "ja": "縁故主義と腐敗" }
+    ],
+    "related": [
+      { "en": "favoritism", "ja": "えこひいき" },
+      { "en": "cronyism", "ja": "仲間内びいき" },
+      { "en": "corruption", "ja": "腐敗" }
+    ],
+    "faq": [
+      { "q": "nepotism と cronyism の違いは？", "a": "nepotism は『親族の優遇』、cronyism は『友人・仲間内の優遇』を指します。" },
+      { "q": "語源は？", "a": "ラテン語 nepos『甥』から来ており、聖職者が甥を優遇したことに由来します。" }
+    ],
+    "quiz": [
+      { "q": "nepotism の意味は？", "A": "縁故主義・身内びいき", "B": "実力主義", "C": "公平な競争", "D": "平等主義", "correct": "A" },
+      { "q": "got the job through nepotism の意味は？", "A": "縁故でその職を得た", "B": "実力で合格した", "C": "試験で選ばれた", "D": "抽選で当たった", "correct": "A" }
+    ]
+  },
+  {
+    "english": "nerd",
+    "pron": "nɜːrd",
+    "kana": "ナード",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "由来不詳(20世紀米)",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "口語で頻出"],
+    "meaning_main": "オタク・がり勉・（一分野に詳しい）変わり者",
+    "description": "nerd（オタク・がり勉）の意味・使い方。a computer nerd などを例文とクイズで学習。",
+    "keywords": ["nerd 意味", "nerd 使い方", "オタク 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】オタク・がり勉・（特定分野に）熱中する人", "note": "勉強や特定の趣味に没頭する、やや社交下手とされる人。近年は肯定的にも使う。" }
+    ],
+    "usages": [
+      { "title": "① オタク・がり勉", "desc": "口語で。", "example_en": "He's a total computer nerd.", "example_ja": "彼は完全なコンピューターオタクだ。" },
+      { "title": "② 肯定的に", "desc": "誇りを込めて。", "example_en": "I'm proud to be a science nerd.", "example_ja": "私は科学オタクであることを誇りに思う。" }
+    ],
+    "warn": ["geek（ある分野に詳しいオタク）と近い。近年は肯定的に使われることも多い。", "もとは軽蔑的だったが、現在は中立〜肯定的にも使う。"],
+    "etym_note": "20世紀半ばのアメリカ俗語。1950年の児童書に登場した造語が起源とされる（諸説あり）。",
+    "etym_chain": [
+      { "node": "nerd (米俗語)", "sub": "変わり者", "era": "20世紀" },
+      { "node": "nerd", "sub": "オタク", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a computer nerd", "ja": "コンピューターオタク" },
+      { "en": "a science nerd", "ja": "科学オタク" },
+      { "en": "a total nerd", "ja": "根っからのオタク" },
+      { "en": "a band nerd", "ja": "音楽好きのオタク" },
+      { "en": "nerd out", "ja": "夢中で語り込む" },
+      { "en": "a math nerd", "ja": "数学オタク" }
+    ],
+    "related": [
+      { "en": "geek", "ja": "オタク・マニア" },
+      { "en": "bookworm", "ja": "本の虫" },
+      { "en": "enthusiast", "ja": "熱中する人" }
+    ],
+    "faq": [
+      { "q": "nerd と geek の違いは？", "a": "ほぼ同義ですが、nerd は『勉強熱心・がり勉』、geek は『特定分野に詳しいマニア』のニュアンスが強めです。" },
+      { "q": "悪い意味だけ？", "a": "もとは軽蔑的でしたが、近年は誇りを込めて肯定的にも使われます。" }
+    ],
+    "quiz": [
+      { "q": "nerd の意味は？", "A": "オタク・がり勉", "B": "運動選手", "C": "怠け者", "D": "人気者", "correct": "A" },
+      { "q": "a computer nerd の意味は？", "A": "コンピューターオタク", "B": "機械の故障", "C": "新しいパソコン", "D": "プログラムのバグ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "newfound",
+    "pron": "ˌnuːˈfaʊnd",
+    "kana": "ニューファウンド",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "new(新しい)+found(見つけた)",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "文章で頻出"],
+    "meaning_main": "新たに得た・新しく見つけた",
+    "description": "newfound（新たに得た・新しく見つけた）の意味・使い方。newfound confidence を例文とクイズで学習。",
+    "keywords": ["newfound 意味", "newfound 使い方", "新たに得た 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】新たに得た・新しく見つけた・近ごろ手に入れた", "note": "最近になって獲得・発見した。名詞の前で使う。" }
+    ],
+    "usages": [
+      { "title": "① 新たに得た", "desc": "能力・自信など。", "example_en": "She enjoyed her newfound freedom.", "example_ja": "彼女は新たに得た自由を楽しんだ。" },
+      { "title": "② 近ごろの", "desc": "関係・人気。", "example_en": "his newfound fame", "example_ja": "彼が最近手にした名声" }
+    ],
+    "warn": ["通例 newfound + 名詞（confidence, freedom, fame など）の形で使う。", "1語または new-found。"],
+    "etym_note": "new「新しい」＋ found「見つけた（find の過去分詞）」から。",
+    "etym_chain": [
+      { "node": "new + found", "sub": "新しく見つけた", "era": "近代英語" },
+      { "node": "newfound", "sub": "新たに得た", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "newfound confidence", "ja": "新たに得た自信" },
+      { "en": "newfound freedom", "ja": "新たな自由" },
+      { "en": "newfound fame", "ja": "近ごろ得た名声" },
+      { "en": "newfound respect", "ja": "新たに芽生えた敬意" },
+      { "en": "newfound wealth", "ja": "新たに得た富" },
+      { "en": "a newfound interest", "ja": "新たに芽生えた関心" }
+    ],
+    "related": [
+      { "en": "fresh", "ja": "新しい・新鮮な" },
+      { "en": "recent", "ja": "最近の" },
+      { "en": "emerging", "ja": "新たに現れる" }
+    ],
+    "faq": [
+      { "q": "newfound はどう使う？", "a": "newfound confidence / freedom / fame のように、名詞の前に置いて『新たに得た〜』を表します。" },
+      { "q": "つづりは？", "a": "newfound でも new-found でも構いません。" }
+    ],
+    "quiz": [
+      { "q": "newfound の意味は？", "A": "新たに得た・新しく見つけた", "B": "古くからの", "C": "失われた", "D": "忘れられた", "correct": "A" },
+      { "q": "newfound confidence の意味は？", "A": "新たに得た自信", "B": "失った自信", "C": "生まれつきの才能", "D": "昔の習慣", "correct": "A" }
+    ]
+  },
+  {
+    "english": "neural",
+    "pron": "ˈnʊrəl",
+    "kana": "ニューラル",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "ギリシャ neuron(神経)",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "理科・ITで頻出"],
+    "meaning_main": "神経の・神経系の",
+    "description": "neural（神経の）の意味・使い方。neural network（ニューラルネットワーク）を例文とクイズで学習。",
+    "keywords": ["neural 意味", "neural 使い方", "神経の 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】神経の・神経系の", "note": "神経やその働きに関する。AIの『神経回路をまねた』にも使う。" }
+    ],
+    "usages": [
+      { "title": "① 神経の", "desc": "生理学。", "example_en": "Neural signals travel quickly.", "example_ja": "神経信号は速く伝わる。" },
+      { "title": "② ニューラルネットワーク", "desc": "AIで。", "example_en": "A neural network can learn from data.", "example_ja": "ニューラルネットワークはデータから学習できる。" }
+    ],
+    "warn": ["名詞は neuron（神経細胞）、nerve（神経）。", "neural network（ニューラルネットワーク）はAIの重要用語。"],
+    "etym_note": "ギリシャ語 neuron「神経・腱」に由来。neuron, neurotic と同語源。",
+    "etym_chain": [
+      { "node": "neuron (ギリシャ語)", "sub": "神経", "era": "古代" },
+      { "node": "neural", "sub": "神経の", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a neural network", "ja": "ニューラルネットワーク" },
+      { "en": "neural signals", "ja": "神経信号" },
+      { "en": "neural pathways", "ja": "神経経路" },
+      { "en": "neural activity", "ja": "神経活動" },
+      { "en": "the neural system", "ja": "神経系" },
+      { "en": "deep neural networks", "ja": "深層ニューラルネットワーク" }
+    ],
+    "related": [
+      { "en": "neuron", "ja": "神経細胞" },
+      { "en": "nerve", "ja": "神経" },
+      { "en": "cerebral", "ja": "脳の" }
+    ],
+    "faq": [
+      { "q": "neural network とは？", "a": "脳の神経回路をまねた『ニューラルネットワーク（AIの仕組み）』のことです。" },
+      { "q": "名詞は？", "a": "neuron（神経細胞）や nerve（神経）です。" }
+    ],
+    "quiz": [
+      { "q": "neural の意味は？", "A": "神経の・神経系の", "B": "筋肉の", "C": "骨の", "D": "血液の", "correct": "A" },
+      { "q": "a neural network の意味は？", "A": "ニューラルネットワーク", "B": "送電網", "C": "交通網", "D": "通信回線", "correct": "A" }
+    ]
+  }
+]
