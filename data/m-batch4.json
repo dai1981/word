@@ -1,0 +1,482 @@
+[
+  {
+    "english": "meeting",
+    "pron": "ˈmiːtɪŋ",
+    "kana": "ミーティング",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "meet + -ing(会うこと)",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "日常必須"],
+    "meaning_main": "会議／会合／ミーティング",
+    "description": "meeting（ミーティング）の意味・使い方。『会議・会合』を表す基礎語を、例文とクイズでわかりやすく学習。",
+    "keywords": ["meeting 意味", "meeting 使い方", "会議 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】会議、会合", "note": "人が集まって話し合う場。可算名詞。" }
+    ],
+    "usages": [
+      { "title": "① 会議", "desc": "have/hold で開く。", "example_en": "We have a meeting at three.", "example_ja": "3時に会議があります。" },
+      { "title": "② 出会い・面会", "desc": "人と会うこと。", "example_en": "It was our first meeting.", "example_ja": "それが私たちの初対面だった。" }
+    ],
+    "warn": ["動詞 meet の名詞形。『会議を開く』は have/hold a meeting。", "『会議中』は in a meeting。"],
+    "etym_note": "動詞 meet に -ing が付いて名詞化した語。",
+    "etym_chain": [
+      { "node": "metan (古英語)", "sub": "出会う", "era": "古英語" },
+      { "node": "meeting", "sub": "会議", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "have a meeting", "ja": "会議をする" },
+      { "en": "hold a meeting", "ja": "会議を開く" },
+      { "en": "attend a meeting", "ja": "会議に出席する" },
+      { "en": "in a meeting", "ja": "会議中で" },
+      { "en": "a staff meeting", "ja": "職員会議" },
+      { "en": "cancel a meeting", "ja": "会議を中止する" }
+    ],
+    "related": [
+      { "en": "meet", "ja": "会う（動詞）" },
+      { "en": "conference", "ja": "会議・協議会" },
+      { "en": "gathering", "ja": "集まり" }
+    ],
+    "faq": [
+      { "q": "『会議を開く』は英語で？", "a": "have a meeting または hold a meeting です。" },
+      { "q": "『会議中です』は？", "a": "I'm in a meeting. と言います。" }
+    ],
+    "quiz": [
+      { "q": "have a meeting の意味は？", "A": "会議をする", "B": "会議を欠席する", "C": "会議を延期する", "D": "会議を録画する", "correct": "A" },
+      { "q": "in a meeting の意味は？", "A": "会議中で", "B": "会議の後で", "C": "会議の前に", "D": "会議室で", "correct": "A" }
+    ]
+  },
+  {
+    "english": "member",
+    "pron": "ˈmembər",
+    "kana": "メンバー",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 membrum(手足・部分)",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "日常必須"],
+    "meaning_main": "会員／一員／メンバー",
+    "description": "member（メンバー）の意味・使い方。『会員・一員』を表す基礎語を、例文とクイズでわかりやすく学習。",
+    "keywords": ["member 意味", "member 使い方", "メンバー 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】会員、一員、構成員", "note": "団体・グループに属する一人。member of 〜。" }
+    ],
+    "usages": [
+      { "title": "① 会員", "desc": "of で所属を示す。", "example_en": "She is a member of the club.", "example_ja": "彼女はそのクラブの会員だ。" },
+      { "title": "② 一員", "desc": "家族・チームの。", "example_en": "a member of the team", "example_ja": "チームの一員" }
+    ],
+    "warn": ["『〜の一員』は a member of 〜。", "名詞形 membership は『会員資格・会員であること』。"],
+    "etym_note": "ラテン語 membrum『手足・体の部分』に由来。全体の一部という意味から。",
+    "etym_chain": [
+      { "node": "membrum (ラテン語)", "sub": "手足・部分", "era": "古代" },
+      { "node": "membre (古フランス語)", "sub": "一員", "era": "中世" },
+      { "node": "member", "sub": "会員・一員", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a member of the club", "ja": "クラブの会員" },
+      { "en": "a family member", "ja": "家族の一員" },
+      { "en": "a team member", "ja": "チームの一員" },
+      { "en": "a board member", "ja": "役員・理事" },
+      { "en": "a staff member", "ja": "職員の一人" },
+      { "en": "become a member", "ja": "会員になる" }
+    ],
+    "related": [
+      { "en": "membership", "ja": "会員資格" },
+      { "en": "group", "ja": "集団" },
+      { "en": "participant", "ja": "参加者" }
+    ],
+    "faq": [
+      { "q": "『〜の一員』は英語で？", "a": "a member of 〜 です。" },
+      { "q": "membership の意味は？", "a": "『会員資格・会員であること』です。" }
+    ],
+    "quiz": [
+      { "q": "a member of the club の意味は？", "A": "クラブの会員", "B": "クラブの建物", "C": "クラブの規則", "D": "クラブの会長", "correct": "A" },
+      { "q": "member の名詞形（会員資格）は？", "A": "membership", "B": "memberment", "C": "memberity", "D": "memberness", "correct": "A" }
+    ]
+  },
+  {
+    "english": "memory",
+    "pron": "ˈmeməri",
+    "kana": "メモリー",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 memoria(記憶)",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "日常必須"],
+    "meaning_main": "記憶／思い出／(PCの)メモリ",
+    "description": "memory（メモリー）の意味・使い方。『記憶・思い出』を表す基礎語を、例文とクイズでわかりやすく学習。",
+    "keywords": ["memory 意味", "memory 使い方", "記憶 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】記憶（力）", "note": "覚えておく力・能力。have a good memory（記憶力がよい）。" },
+      { "hinshi": "【名詞】思い出／（PCの）メモリ", "note": "過去の出来事の記憶。コンピュータの記憶装置も。" }
+    ],
+    "usages": [
+      { "title": "① 記憶力", "desc": "能力を表す。", "example_en": "He has a good memory.", "example_ja": "彼は記憶力がよい。" },
+      { "title": "② 思い出", "desc": "複数形が多い。", "example_en": "happy memories of childhood", "example_ja": "子ども時代の楽しい思い出" }
+    ],
+    "warn": ["動詞は remember（覚えている）、memorize（暗記する）。", "『思い出』の意味では複数形 memories がよく使われる。"],
+    "etym_note": "ラテン語 memoria『記憶』に由来。",
+    "etym_chain": [
+      { "node": "memoria (ラテン語)", "sub": "記憶", "era": "古代" },
+      { "node": "memorie (古フランス語)", "sub": "記憶", "era": "中世" },
+      { "node": "memory", "sub": "記憶・思い出", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a good memory", "ja": "良い記憶力" },
+      { "en": "childhood memories", "ja": "子ども時代の思い出" },
+      { "en": "in memory of", "ja": "〜を偲んで・追悼して" },
+      { "en": "from memory", "ja": "記憶を頼りに" },
+      { "en": "lose one's memory", "ja": "記憶を失う" },
+      { "en": "a fond memory", "ja": "懐かしい思い出" }
+    ],
+    "related": [
+      { "en": "remember", "ja": "覚えている" },
+      { "en": "memorize", "ja": "暗記する" },
+      { "en": "recall", "ja": "思い出す" }
+    ],
+    "faq": [
+      { "q": "memory と remember の関係は？", "a": "memory は名詞『記憶』、remember は動詞『覚えている』です。" },
+      { "q": "in memory of の意味は？", "a": "『〜を偲んで・追悼して』です。" }
+    ],
+    "quiz": [
+      { "q": "have a good memory の意味は？", "A": "記憶力がよい", "B": "気分がよい", "C": "運がよい", "D": "仲がよい", "correct": "A" },
+      { "q": "childhood memories の意味は？", "A": "子ども時代の思い出", "B": "子どもの記憶力", "C": "幼い子ども", "D": "思い出す力", "correct": "A" }
+    ]
+  },
+  {
+    "english": "mention",
+    "pron": "ˈmenʃən",
+    "kana": "メンション",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "verb",
+    "ld_etym": "ラテン語 mentio(言及)",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "会話頻出"],
+    "meaning_main": "言及する／（ちょっと）触れる",
+    "description": "mention（メンション）の意味・使い方。『言及する・触れる』を表す動詞を、Don't mention it などの例文とクイズで学習。",
+    "keywords": ["mention 意味", "mention 使い方", "don't mention it"],
+    "meanings": [
+      { "hinshi": "【動詞】（軽く）言及する、話に出す", "note": "詳しくは述べず、ちょっと触れる。" },
+      { "hinshi": "【名詞】言及", "note": "make (a) mention of で『〜に言及する』。" }
+    ],
+    "usages": [
+      { "title": "① 言及する", "desc": "that節・名詞を続ける。", "example_en": "He mentioned your name.", "example_ja": "彼はあなたの名前を口にした。" },
+      { "title": "② Don't mention it.", "desc": "お礼への返答。", "example_en": "\"Thank you.\" \"Don't mention it.\"", "example_ja": "「ありがとう」「どういたしまして」" }
+    ],
+    "warn": ["mention は他動詞。mention about 〜 とはしない（about は不要）。", "Don't mention it. は『どういたしまして』の決まり文句。"],
+    "etym_note": "ラテン語 mentio『言及すること』に由来。",
+    "etym_chain": [
+      { "node": "mentio (ラテン語)", "sub": "言及", "era": "古代" },
+      { "node": "mention", "sub": "言及する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Don't mention it.", "ja": "どういたしまして" },
+      { "en": "mention that ...", "ja": "〜だと言及する" },
+      { "en": "not to mention", "ja": "〜は言うまでもなく" },
+      { "en": "as mentioned above", "ja": "上述のとおり" },
+      { "en": "make no mention of", "ja": "〜に一切触れない" },
+      { "en": "mention someone's name", "ja": "〜の名前を出す" }
+    ],
+    "related": [
+      { "en": "refer", "ja": "言及する・参照する" },
+      { "en": "state", "ja": "述べる" },
+      { "en": "note", "ja": "指摘する" }
+    ],
+    "faq": [
+      { "q": "mention about は正しい？", "a": "誤りです。mention は他動詞で、mention the plan のように直接目的語を取ります。" },
+      { "q": "Don't mention it. の意味は？", "a": "お礼への返答で『どういたしまして』です。" }
+    ],
+    "quiz": [
+      { "q": "Don't mention it. の意味は？", "A": "どういたしまして", "B": "言わないで", "C": "気をつけて", "D": "ごめんなさい", "correct": "A" },
+      { "q": "not to mention の意味は？", "A": "〜は言うまでもなく", "B": "〜を忘れずに", "C": "〜に反対して", "D": "〜の代わりに", "correct": "A" }
+    ]
+  },
+  {
+    "english": "menu",
+    "pron": "ˈmenjuː",
+    "kana": "メニュー",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "フランス語 menu(詳細な一覧)",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "日常必須"],
+    "meaning_main": "メニュー／献立／（PCの）メニュー",
+    "description": "menu（メニュー）の意味・使い方。『献立・メニュー』を表す基礎語を、例文とクイズでわかりやすく学習。",
+    "keywords": ["menu 意味", "menu 使い方", "メニュー 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】メニュー、献立表", "note": "料理の一覧。またコンピュータの操作項目一覧。" }
+    ],
+    "usages": [
+      { "title": "① 献立・料理一覧", "desc": "飲食店で。", "example_en": "Can I see the menu?", "example_ja": "メニューを見せてもらえますか？" },
+      { "title": "② PCのメニュー", "desc": "操作項目。", "example_en": "Open the file menu.", "example_ja": "ファイルメニューを開いて。" }
+    ],
+    "warn": ["フランス語由来で発音は /ˈmenjuː/。", "『本日のおすすめ』は today's special など。"],
+    "etym_note": "フランス語 menu『詳細な・こまかい（一覧）』に由来。ラテン語 minutus（小さい）から。",
+    "etym_chain": [
+      { "node": "minutus (ラテン語)", "sub": "小さい", "era": "古代" },
+      { "node": "menu (フランス語)", "sub": "詳細な一覧", "era": "近世" },
+      { "node": "menu", "sub": "献立表", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "see the menu", "ja": "メニューを見る" },
+      { "en": "on the menu", "ja": "メニューに載って" },
+      { "en": "a lunch menu", "ja": "ランチメニュー" },
+      { "en": "a set menu", "ja": "セットメニュー・定食" },
+      { "en": "the main menu", "ja": "メインメニュー" },
+      { "en": "a drop-down menu", "ja": "プルダウンメニュー" }
+    ],
+    "related": [
+      { "en": "dish", "ja": "料理" },
+      { "en": "course", "ja": "コース" },
+      { "en": "list", "ja": "一覧" }
+    ],
+    "faq": [
+      { "q": "menu の発音は？", "a": "/ˈmenjuː/（メニュー）です。フランス語由来です。" },
+      { "q": "on the menu の意味は？", "a": "『メニューに載っている』です。" }
+    ],
+    "quiz": [
+      { "q": "Can I see the menu? の意味は？", "A": "メニューを見せて", "B": "会計をお願い", "C": "注文したい", "D": "席を替えて", "correct": "A" },
+      { "q": "a set menu の意味は？", "A": "セットメニュー・定食", "B": "空のメニュー", "C": "手書きメニュー", "D": "英語のメニュー", "correct": "A" }
+    ]
+  },
+  {
+    "english": "mess",
+    "pron": "mes",
+    "kana": "メス",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "noun",
+    "ld_etym": "古フランス語 mes(一皿の料理)",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "会話頻出"],
+    "meaning_main": "散らかり／めちゃくちゃ／混乱",
+    "description": "mess（メス）の意味・使い方。『散らかり・めちゃくちゃ』を表す語を、make a mess などの例文とクイズで学習。",
+    "keywords": ["mess 意味", "mess 使い方", "make a mess"],
+    "meanings": [
+      { "hinshi": "【名詞】散らかった状態、混乱", "note": "整理されていない乱雑な状態。" },
+      { "hinshi": "【動詞】台無しにする、いじる", "note": "mess up（しくじる）、mess with（かかわる・いじる）。" }
+    ],
+    "usages": [
+      { "title": "① 散らかり", "desc": "名詞用法。", "example_en": "Your room is a mess.", "example_ja": "君の部屋はめちゃくちゃだ。" },
+      { "title": "② mess up", "desc": "しくじる。", "example_en": "I messed up the test.", "example_ja": "私はテストで失敗した。" }
+    ],
+    "warn": ["a mess で『散らかった状態・ひどい状態』。", "mess up は『台無しにする・しくじる』、mess with は『（危険なものに）かかわる』。"],
+    "etym_note": "古フランス語 mes『一皿の料理』に由来。『（混ぜた）ごた混ぜの料理』から乱雑の意味へ。",
+    "etym_chain": [
+      { "node": "mes (古フランス語)", "sub": "一皿の料理", "era": "中世" },
+      { "node": "mess", "sub": "ごた混ぜ・混乱", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "make a mess", "ja": "散らかす" },
+      { "en": "a mess up", "ja": "しくじり・失敗" },
+      { "en": "clean up the mess", "ja": "散らかりを片づける" },
+      { "en": "mess with", "ja": "〜にちょっかいを出す" },
+      { "en": "in a mess", "ja": "めちゃくちゃで" },
+      { "en": "What a mess!", "ja": "なんて散らかりよう！" }
+    ],
+    "related": [
+      { "en": "messy", "ja": "散らかった" },
+      { "en": "disorder", "ja": "無秩序・混乱" },
+      { "en": "chaos", "ja": "大混乱" }
+    ],
+    "faq": [
+      { "q": "make a mess の意味は？", "a": "『散らかす・ぐちゃぐちゃにする』です。" },
+      { "q": "mess up の意味は？", "a": "『台無しにする・しくじる』です。" }
+    ],
+    "quiz": [
+      { "q": "Your room is a mess. の意味は？", "A": "部屋がめちゃくちゃだ", "B": "部屋がきれいだ", "C": "部屋が広い", "D": "部屋が暗い", "correct": "A" },
+      { "q": "mess up の意味は？", "A": "しくじる", "B": "掃除する", "C": "整える", "D": "組み立てる", "correct": "A" }
+    ]
+  },
+  {
+    "english": "message",
+    "pron": "ˈmesɪdʒ",
+    "kana": "メッセージ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 mittere(送る)",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "日常必須"],
+    "meaning_main": "伝言／メッセージ／（作品の）主張",
+    "description": "message（メッセージ）の意味・使い方。『伝言・メッセージ』を表す基礎語を、例文とクイズで学習。",
+    "keywords": ["message 意味", "message 使い方", "伝言 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】伝言、メッセージ", "note": "人に伝える言葉・情報。leave a message（伝言を残す）。" },
+      { "hinshi": "【動詞】メッセージを送る", "note": "SNS などで『（人に）連絡する』。" }
+    ],
+    "usages": [
+      { "title": "① 伝言", "desc": "leave / take で。", "example_en": "Can I leave a message?", "example_ja": "伝言をお願いできますか？" },
+      { "title": "② 作品の主張", "desc": "込められた意味。", "example_en": "The movie has a strong message.", "example_ja": "その映画は強いメッセージを持つ。" }
+    ],
+    "warn": ["『伝言を残す』は leave a message、『受ける』は take a message。", "動詞用法（〜にメッセージを送る）も一般的。"],
+    "etym_note": "ラテン語 mittere『送る』に由来。missus（送られたもの）から。",
+    "etym_chain": [
+      { "node": "mittere (ラテン語)", "sub": "送る", "era": "古代" },
+      { "node": "message (古フランス語)", "sub": "伝言", "era": "中世" },
+      { "node": "message", "sub": "伝言", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "leave a message", "ja": "伝言を残す" },
+      { "en": "take a message", "ja": "伝言を受ける" },
+      { "en": "a text message", "ja": "テキストメッセージ・SMS" },
+      { "en": "send a message", "ja": "メッセージを送る" },
+      { "en": "get the message", "ja": "意図を理解する" },
+      { "en": "a voice message", "ja": "音声メッセージ" }
+    ],
+    "related": [
+      { "en": "note", "ja": "メモ・書き置き" },
+      { "en": "text", "ja": "（携帯の）メール" },
+      { "en": "email", "ja": "電子メール" }
+    ],
+    "faq": [
+      { "q": "『伝言を残す』は英語で？", "a": "leave a message です。受ける側は take a message。" },
+      { "q": "get the message の意味は？", "a": "『（暗に示された）意図を理解する』です。" }
+    ],
+    "quiz": [
+      { "q": "leave a message の意味は？", "A": "伝言を残す", "B": "伝言を消す", "C": "手紙を書く", "D": "電話を切る", "correct": "A" },
+      { "q": "message の語源の意味は？", "A": "送る", "B": "書く", "C": "話す", "D": "集める", "correct": "A" }
+    ]
+  },
+  {
+    "english": "metal",
+    "pron": "ˈmetl",
+    "kana": "メタル",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ギリシャ語 metallon(鉱山)",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "理科で頻出"],
+    "meaning_main": "金属",
+    "description": "metal（メタル）の意味・使い方。『金属』を表す基礎語を、medal との違いや例文・クイズで学習。",
+    "keywords": ["metal 意味", "metal medal 違い", "金属 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】金属", "note": "鉄・銅・金・アルミなどの総称。可算・不可算どちらも。" }
+    ],
+    "usages": [
+      { "title": "① 金属（素材）", "desc": "素材として。", "example_en": "This box is made of metal.", "example_ja": "この箱は金属でできている。" },
+      { "title": "② 金属の種類", "desc": "可算でも。", "example_en": "Gold is a precious metal.", "example_ja": "金は貴金属だ。" }
+    ],
+    "warn": ["metal（金属）と medal（メダル）は綴り・発音が違うので注意。", "『金属製の』は形容詞 metal または metallic。"],
+    "etym_note": "ギリシャ語 metallon『鉱山・鉱石』に由来。",
+    "etym_chain": [
+      { "node": "metallon (ギリシャ語)", "sub": "鉱山", "era": "古代" },
+      { "node": "metallum (ラテン語)", "sub": "金属", "era": "古代" },
+      { "node": "metal", "sub": "金属", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "made of metal", "ja": "金属でできた" },
+      { "en": "a precious metal", "ja": "貴金属" },
+      { "en": "heavy metal", "ja": "重金属・ヘヴィメタル" },
+      { "en": "a metal detector", "ja": "金属探知機" },
+      { "en": "scrap metal", "ja": "くず鉄・金属くず" },
+      { "en": "a sheet of metal", "ja": "金属板" }
+    ],
+    "related": [
+      { "en": "metallic", "ja": "金属の・金属質の" },
+      { "en": "iron", "ja": "鉄" },
+      { "en": "steel", "ja": "鋼鉄" }
+    ],
+    "faq": [
+      { "q": "metal と medal の違いは？", "a": "metal は『金属』、medal は『メダル（勲章）』です。綴りに注意。" },
+      { "q": "precious metal の意味は？", "a": "『貴金属』（金・銀・プラチナなど）です。" }
+    ],
+    "quiz": [
+      { "q": "metal の意味は？", "A": "金属", "B": "メダル", "C": "モデル", "D": "金属探知", "correct": "A" },
+      { "q": "made of metal の意味は？", "A": "金属でできた", "B": "金属を売る", "C": "金属を溶かす", "D": "金属を磨く", "correct": "A" }
+    ]
+  },
+  {
+    "english": "method",
+    "pron": "ˈmeθəd",
+    "kana": "メソッド",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ギリシャ語 methodos(追求の道)",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "英作文で有用"],
+    "meaning_main": "方法／方式／手法",
+    "description": "method（メソッド）の意味・使い方。『方法・手法』を表す重要語を、例文とクイズでわかりやすく学習。",
+    "keywords": ["method 意味", "method 使い方", "方法 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】方法、方式", "note": "体系立った、決まったやり方。" }
+    ],
+    "usages": [
+      { "title": "① 方法", "desc": "of / for で対象。", "example_en": "This is a good method of learning.", "example_ja": "これは良い学習方法だ。" },
+      { "title": "② 手法", "desc": "研究・技術の。", "example_en": "a new teaching method", "example_ja": "新しい教授法" }
+    ],
+    "warn": ["way より体系的・整った『方法』を指すことが多い。", "形容詞 methodical は『整然とした・几帳面な』。"],
+    "etym_note": "ギリシャ語 methodos『（目的への）道の追求』に由来。meta（後を追って）＋hodos（道）。",
+    "etym_chain": [
+      { "node": "methodos (ギリシャ語)", "sub": "追求の道", "era": "古代" },
+      { "node": "method", "sub": "方法", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a method of payment", "ja": "支払い方法" },
+      { "en": "a teaching method", "ja": "教授法" },
+      { "en": "the scientific method", "ja": "科学的方法" },
+      { "en": "a new method", "ja": "新しい方法" },
+      { "en": "traditional methods", "ja": "従来の方法" },
+      { "en": "an effective method", "ja": "効果的な方法" }
+    ],
+    "related": [
+      { "en": "way", "ja": "やり方" },
+      { "en": "technique", "ja": "技法" },
+      { "en": "approach", "ja": "取り組み方" }
+    ],
+    "faq": [
+      { "q": "method と way の違いは？", "a": "method はより体系的・整ったやり方、way はより一般的な『やり方』を指します。" },
+      { "q": "method の形容詞は？", "a": "methodical（整然とした・几帳面な）です。" }
+    ],
+    "quiz": [
+      { "q": "a method of payment の意味は？", "A": "支払い方法", "B": "支払い期限", "C": "支払い金額", "D": "支払い場所", "correct": "A" },
+      { "q": "method の語源の意味は？", "A": "追求の道", "B": "秩序", "C": "計算", "D": "命令", "correct": "A" }
+    ]
+  },
+  {
+    "english": "middle",
+    "pron": "ˈmɪdl",
+    "kana": "ミドル",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "noun",
+    "ld_etym": "古英語 middel(真ん中の)",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "日常必須"],
+    "meaning_main": "真ん中／中央／中間の",
+    "description": "middle（ミドル）の意味・使い方。『真ん中・中央』を表す基礎語を、in the middle of などの例文とクイズで学習。",
+    "keywords": ["middle 意味", "middle 使い方", "真ん中 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】真ん中、中央", "note": "the middle of 〜 で『〜の真ん中』。" },
+      { "hinshi": "【形容詞】真ん中の、中間の", "note": "middle school（中学校）など名詞を修飾。" }
+    ],
+    "usages": [
+      { "title": "① 真ん中", "desc": "in the middle of。", "example_en": "Stand in the middle of the room.", "example_ja": "部屋の真ん中に立って。" },
+      { "title": "② 最中", "desc": "時間的な途中。", "example_en": "in the middle of the night", "example_ja": "真夜中に" }
+    ],
+    "warn": ["『〜の真ん中／最中』は in the middle of 〜。", "middle は名詞の前で形容詞的にも使う（middle finger＝中指）。"],
+    "etym_note": "古英語 middel『真ん中の』に由来。",
+    "etym_chain": [
+      { "node": "middel (古英語)", "sub": "真ん中の", "era": "古英語" },
+      { "node": "middle", "sub": "真ん中", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "in the middle of", "ja": "〜の真ん中に・最中に" },
+      { "en": "the middle of the night", "ja": "真夜中" },
+      { "en": "middle school", "ja": "中学校" },
+      { "en": "the Middle Ages", "ja": "中世" },
+      { "en": "the middle finger", "ja": "中指" },
+      { "en": "middle age", "ja": "中年" }
+    ],
+    "related": [
+      { "en": "center", "ja": "中心" },
+      { "en": "central", "ja": "中央の" },
+      { "en": "midst", "ja": "真ん中・最中" }
+    ],
+    "faq": [
+      { "q": "in the middle of の意味は？", "a": "『〜の真ん中に』または『〜の最中に』です。" },
+      { "q": "middle school とは？", "a": "『中学校』のことです（米国の学校区分）。" }
+    ],
+    "quiz": [
+      { "q": "in the middle of the room の意味は？", "A": "部屋の真ん中に", "B": "部屋の隅に", "C": "部屋の外に", "D": "部屋の前に", "correct": "A" },
+      { "q": "the Middle Ages の意味は？", "A": "中世", "B": "中年", "C": "中学校", "D": "中間試験", "correct": "A" }
+    ]
+  }
+]
