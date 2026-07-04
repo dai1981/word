@@ -1,0 +1,481 @@
+[
+  {
+    "english": "matter",
+    "pron": "ˈmætər",
+    "kana": "マター",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 materia(素材)",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "会話頻出"],
+    "meaning_main": "事柄／問題／物質／重要である",
+    "description": "matter（マター）の意味・使い方。『事柄・問題』の名詞と『重要である』の動詞を、例文とクイズで学習。",
+    "keywords": ["matter 意味", "matter 使い方", "what's the matter"],
+    "meanings": [
+      { "hinshi": "【名詞】事柄、問題、物質", "note": "扱うべき事・問題。物理では『物質』。" },
+      { "hinshi": "【動詞】重要である", "note": "It doesn't matter.（それは問題ではない）のように使う。" }
+    ],
+    "usages": [
+      { "title": "① 事柄・問題", "desc": "名詞用法。", "example_en": "This is a serious matter.", "example_ja": "これは深刻な問題だ。" },
+      { "title": "② 重要である", "desc": "動詞用法。", "example_en": "Your opinion matters.", "example_ja": "あなたの意見は大切だ。" }
+    ],
+    "warn": ["What's the matter? は『どうしたの？』と相手を気遣う定番表現。", "動詞の matter は『重要である』で、否定・疑問でよく使う。"],
+    "etym_note": "ラテン語 materia『素材・材料』に由来。",
+    "etym_chain": [
+      { "node": "materia (ラテン語)", "sub": "素材", "era": "古代" },
+      { "node": "matere (古フランス語)", "sub": "物質・事柄", "era": "中世" },
+      { "node": "matter", "sub": "事柄・物質", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "What's the matter?", "ja": "どうしたの？" },
+      { "en": "no matter what", "ja": "何があっても" },
+      { "en": "as a matter of fact", "ja": "実は・実際のところ" },
+      { "en": "a matter of time", "ja": "時間の問題" },
+      { "en": "It doesn't matter.", "ja": "問題ない・気にしないで" },
+      { "en": "money matters", "ja": "金銭問題" }
+    ],
+    "related": [
+      { "en": "issue", "ja": "問題・論点" },
+      { "en": "affair", "ja": "事柄・問題" },
+      { "en": "substance", "ja": "物質" }
+    ],
+    "faq": [
+      { "q": "What's the matter? の意味は？", "a": "『どうしたの？・何かあったの？』と相手を気遣う表現です。" },
+      { "q": "no matter what の意味は？", "a": "『何があっても・たとえ何であろうと』です。" }
+    ],
+    "quiz": [
+      { "q": "What's the matter? の意味は？", "A": "どうしたの？", "B": "何時ですか？", "C": "いくらですか？", "D": "だれですか？", "correct": "A" },
+      { "q": "Your opinion matters. の matter の意味は？", "A": "重要である", "B": "問題を起こす", "C": "物質だ", "D": "変わる", "correct": "A" }
+    ]
+  },
+  {
+    "english": "may",
+    "pron": "meɪ",
+    "kana": "メイ",
+    "hinshi": "助動詞",
+    "ld_pos": "auxiliary verb",
+    "ld_etym": "古英語 mæg(できる)",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "最重要助動詞"],
+    "meaning_main": "〜かもしれない／〜してもよい",
+    "description": "may（メイ）の意味・使い方。『〜かもしれない・〜してもよい』を表す助動詞を、例文とクイズで学習。",
+    "keywords": ["may 意味", "may 使い方", "may might 違い"],
+    "meanings": [
+      { "hinshi": "【助動詞】〜かもしれない（推量）", "note": "実現の可能性を表す。after は動詞の原形。" },
+      { "hinshi": "【助動詞】〜してもよい（許可）", "note": "May I …? で丁寧に許可を求める。" }
+    ],
+    "usages": [
+      { "title": "① 推量", "desc": "may + 原形。", "example_en": "It may rain tomorrow.", "example_ja": "明日は雨かもしれない。" },
+      { "title": "② 許可", "desc": "May I …?。", "example_en": "May I come in?", "example_ja": "入ってもいいですか？" }
+    ],
+    "warn": ["過去形・より控えめな推量は might。", "後ろは必ず動詞の原形。三単現の s も付けない。"],
+    "etym_note": "古英語 mæg『できる・力がある』に由来。",
+    "etym_chain": [
+      { "node": "mæg (古英語)", "sub": "できる", "era": "古英語" },
+      { "node": "may", "sub": "〜かもしれない", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "may be", "ja": "〜かもしれない" },
+      { "en": "May I help you?", "ja": "お手伝いしましょうか？" },
+      { "en": "may as well", "ja": "〜する方がよい" },
+      { "en": "may well", "ja": "たぶん〜だろう" },
+      { "en": "come what may", "ja": "何が起ころうとも" },
+      { "en": "May I ask ...?", "ja": "お尋ねしてもいいですか？" }
+    ],
+    "related": [
+      { "en": "might", "ja": "〜かもしれない（控えめ）" },
+      { "en": "can", "ja": "〜できる・してもよい" },
+      { "en": "maybe", "ja": "たぶん（副詞）" }
+    ],
+    "faq": [
+      { "q": "may と might の違いは？", "a": "might の方が可能性が低い・控えめな推量を表します。" },
+      { "q": "may の後ろの動詞の形は？", "a": "必ず原形です。三単現の s も付けません。" }
+    ],
+    "quiz": [
+      { "q": "It may rain. の意味は？", "A": "雨が降るかもしれない", "B": "雨が降っている", "C": "雨は降らない", "D": "雨が降った", "correct": "A" },
+      { "q": "May I come in? の意味は？", "A": "入ってもいいですか？", "B": "入りません", "C": "入りたくない", "D": "誰が入る？", "correct": "A" }
+    ]
+  },
+  {
+    "english": "maybe",
+    "pron": "ˈmeɪbi",
+    "kana": "メイビー",
+    "hinshi": "副詞",
+    "ld_pos": "adverb",
+    "ld_etym": "may + be(〜かもしれない)",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "会話頻出"],
+    "meaning_main": "たぶん／もしかすると／ひょっとしたら",
+    "description": "maybe（メイビー）の意味・使い方。『たぶん・もしかすると』を表す副詞を、例文とクイズで学習。",
+    "keywords": ["maybe 意味", "maybe 使い方", "maybe perhaps 違い"],
+    "meanings": [
+      { "hinshi": "【副詞】たぶん、もしかすると", "note": "確信度は50%くらい。文頭に置くことが多い。" }
+    ],
+    "usages": [
+      { "title": "① 推量の副詞", "desc": "文頭に置く。", "example_en": "Maybe she is tired.", "example_ja": "たぶん彼女は疲れているのだろう。" },
+      { "title": "② やんわり提案", "desc": "控えめな提案に。", "example_en": "Maybe we should go now.", "example_ja": "そろそろ行った方がいいかもね。" }
+    ],
+    "warn": ["1語の maybe は副詞『たぶん』。2語の may be は『〜かもしれない』（助動詞＋be）。", "確信度は probably より低い。"],
+    "etym_note": "may be（〜かもしれない）が1語に固まってできた副詞。",
+    "etym_chain": [
+      { "node": "it may be (中英語)", "sub": "〜かもしれない", "era": "中世" },
+      { "node": "maybe", "sub": "たぶん", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "maybe not", "ja": "たぶん違う・そうでもない" },
+      { "en": "maybe so", "ja": "たぶんそうだ" },
+      { "en": "maybe later", "ja": "また後でね" },
+      { "en": "maybe next time", "ja": "また今度ね" },
+      { "en": "just maybe", "ja": "ひょっとしたら" },
+      { "en": "maybe tomorrow", "ja": "たぶん明日" }
+    ],
+    "related": [
+      { "en": "perhaps", "ja": "たぶん（やや堅い）" },
+      { "en": "probably", "ja": "おそらく（確信高め）" },
+      { "en": "possibly", "ja": "ひょっとすると" }
+    ],
+    "faq": [
+      { "q": "maybe と may be の違いは？", "a": "maybe は1語の副詞『たぶん』、may be は助動詞＋be で『〜かもしれない』です。" },
+      { "q": "maybe と probably の違いは？", "a": "probably の方が確信度が高いです（maybe は約50%）。" }
+    ],
+    "quiz": [
+      { "q": "Maybe she is tired. の意味は？", "A": "たぶん彼女は疲れている", "B": "彼女は疲れていない", "C": "彼女は元気だ", "D": "彼女は寝ている", "correct": "A" },
+      { "q": "副詞『たぶん』の正しい綴りは？", "A": "maybe", "B": "may be", "C": "mabye", "D": "maybee", "correct": "A" }
+    ]
+  },
+  {
+    "english": "meal",
+    "pron": "miːl",
+    "kana": "ミール",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "古英語 mǣl(食事の時)",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "日常必須"],
+    "meaning_main": "食事／一食",
+    "description": "meal（ミール）の意味・使い方。『食事』を表す基礎語を、例文とクイズでわかりやすく学習。",
+    "keywords": ["meal 意味", "meal 使い方", "食事 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】食事、一食", "note": "朝・昼・夕などの一回の食事。可算名詞。" }
+    ],
+    "usages": [
+      { "title": "① 食事（一回分）", "desc": "可算名詞。", "example_en": "We had a big meal.", "example_ja": "私たちはたくさん食べた。" },
+      { "title": "② 〜meal の複合", "desc": "時間帯を表す語と。", "example_en": "Breakfast is my favorite meal.", "example_ja": "朝食は私の一番好きな食事だ。" }
+    ],
+    "warn": ["meal は数えられる名詞（食事の回）。food は数えられない『食べ物』。", "three meals a day で『一日三食』。"],
+    "etym_note": "古英語 mǣl『定めた時・食事の時』に由来。",
+    "etym_chain": [
+      { "node": "mǣl (古英語)", "sub": "定めた時・食事", "era": "古英語" },
+      { "node": "meal", "sub": "食事", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "have a meal", "ja": "食事をする" },
+      { "en": "three meals a day", "ja": "一日三食" },
+      { "en": "a light meal", "ja": "軽い食事" },
+      { "en": "a home-cooked meal", "ja": "家庭料理" },
+      { "en": "enjoy your meal", "ja": "食事を楽しんで（召し上がれ）" },
+      { "en": "skip a meal", "ja": "食事を抜く" }
+    ],
+    "related": [
+      { "en": "food", "ja": "食べ物" },
+      { "en": "dish", "ja": "料理・皿" },
+      { "en": "breakfast", "ja": "朝食" }
+    ],
+    "faq": [
+      { "q": "meal と food の違いは？", "a": "meal は『一回の食事』（可算）、food は『食べ物』（不可算）です。" },
+      { "q": "『一日三食』は英語で？", "a": "three meals a day です。" }
+    ],
+    "quiz": [
+      { "q": "three meals a day の意味は？", "A": "一日三食", "B": "三種類の料理", "C": "三日分の食料", "D": "一食三皿", "correct": "A" },
+      { "q": "skip a meal の意味は？", "A": "食事を抜く", "B": "食事を作る", "C": "食事を注文する", "D": "食事を楽しむ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "mean",
+    "pron": "miːn",
+    "kana": "ミーン",
+    "hinshi": "動詞 / 形容詞",
+    "ld_pos": "verb",
+    "ld_etym": "古英語 mænan(意図する)",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "最重要動詞"],
+    "meaning_main": "意味する／意図する／意地悪な",
+    "description": "mean（ミーン）の意味・使い方。『意味する・意図する』の動詞と『意地悪な』の形容詞を、例文とクイズで学習。",
+    "keywords": ["mean 意味", "mean 使い方", "what do you mean"],
+    "meanings": [
+      { "hinshi": "【動詞】意味する、意図する", "note": "『〜という意味だ』『〜するつもりだ』。過去形は meant。" },
+      { "hinshi": "【形容詞】意地悪な、けちな", "note": "口語で『冷たい・意地の悪い』。" }
+    ],
+    "usages": [
+      { "title": "① 意味する", "desc": "動詞用法。", "example_en": "What does this word mean?", "example_ja": "この単語はどういう意味ですか？" },
+      { "title": "② 意地悪な", "desc": "形容詞用法。", "example_en": "Don't be so mean.", "example_ja": "そんなに意地悪しないで。" }
+    ],
+    "warn": ["過去形・過去分詞は meant（メント）。発音が変わる。", "mean to do で『〜するつもりだ』。I mean は会話のつなぎ『つまり』にも。"],
+    "etym_note": "古英語 mænan『意図する・言おうとする』に由来。",
+    "etym_chain": [
+      { "node": "mænan (古英語)", "sub": "意図する", "era": "古英語" },
+      { "node": "mean", "sub": "意味する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "What do you mean?", "ja": "どういう意味ですか？" },
+      { "en": "mean to do", "ja": "〜するつもりだ" },
+      { "en": "I mean it.", "ja": "本気だよ" },
+      { "en": "be mean to someone", "ja": "〜に意地悪をする" },
+      { "en": "You mean ...?", "ja": "つまり〜ということ？" },
+      { "en": "mean well", "ja": "悪気はない・善意でする" }
+    ],
+    "related": [
+      { "en": "meaning", "ja": "意味" },
+      { "en": "intend", "ja": "意図する" },
+      { "en": "cruel", "ja": "残酷な" }
+    ],
+    "faq": [
+      { "q": "mean の過去形は？", "a": "meant（メント）です。発音に注意。" },
+      { "q": "mean to do の意味は？", "a": "『〜するつもりだ・〜しようと意図する』です。" }
+    ],
+    "quiz": [
+      { "q": "What does it mean? の意味は？", "A": "それはどういう意味？", "B": "それは誰の？", "C": "それはいくら？", "D": "それはどこ？", "correct": "A" },
+      { "q": "mean の過去形は？", "A": "meant", "B": "meaned", "C": "ment", "D": "mained", "correct": "A" }
+    ]
+  },
+  {
+    "english": "meaning",
+    "pron": "ˈmiːnɪŋ",
+    "kana": "ミーニング",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "mean + -ing(意味すること)",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "日常必須"],
+    "meaning_main": "意味／意義",
+    "description": "meaning（ミーニング）の意味・使い方。『意味・意義』を表す基礎語を、例文とクイズでわかりやすく学習。",
+    "keywords": ["meaning 意味", "meaning 使い方", "意味 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】意味", "note": "語・文・行為などが表す内容。" },
+      { "hinshi": "【名詞】意義、目的", "note": "『生きる意味』のような価値・目的。" }
+    ],
+    "usages": [
+      { "title": "① 語の意味", "desc": "of で対象を示す。", "example_en": "What is the meaning of this word?", "example_ja": "この単語の意味は何ですか？" },
+      { "title": "② 意義", "desc": "人生などの目的。", "example_en": "She found meaning in her work.", "example_ja": "彼女は仕事に意義を見出した。" }
+    ],
+    "warn": ["動詞 mean の名詞形。形容詞 meaningful（意義深い）も頻出。", "『〜の意味』は the meaning of 〜。"],
+    "etym_note": "動詞 mean に -ing が付いて名詞化した語。",
+    "etym_chain": [
+      { "node": "mænan (古英語)", "sub": "意図する", "era": "古英語" },
+      { "node": "meaning", "sub": "意味", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the meaning of life", "ja": "人生の意味" },
+      { "en": "the meaning of a word", "ja": "単語の意味" },
+      { "en": "hidden meaning", "ja": "隠された意味" },
+      { "en": "double meaning", "ja": "二重の意味" },
+      { "en": "full of meaning", "ja": "意味深長な" },
+      { "en": "make meaning clear", "ja": "意味を明確にする" }
+    ],
+    "related": [
+      { "en": "mean", "ja": "意味する（動詞）" },
+      { "en": "meaningful", "ja": "意義深い" },
+      { "en": "sense", "ja": "意味・語義" }
+    ],
+    "faq": [
+      { "q": "meaning の動詞形は？", "a": "mean（意味する）です。" },
+      { "q": "meaningful の意味は？", "a": "『意義深い・有意義な』という形容詞です。" }
+    ],
+    "quiz": [
+      { "q": "the meaning of this word の意味は？", "A": "この単語の意味", "B": "この単語の発音", "C": "この単語の綴り", "D": "この単語の起源", "correct": "A" },
+      { "q": "meaning の品詞は？", "A": "名詞", "B": "動詞", "C": "形容詞", "D": "副詞", "correct": "A" }
+    ]
+  },
+  {
+    "english": "measure",
+    "pron": "ˈmeʒər",
+    "kana": "メジャー",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "verb",
+    "ld_etym": "ラテン語 mensura(測ること)",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "会話頻出"],
+    "meaning_main": "測る／寸法／対策・措置",
+    "description": "measure（メジャー）の意味・使い方。『測る』の動詞と『対策・寸法』の名詞を、例文とクイズで学習。",
+    "keywords": ["measure 意味", "measure 使い方", "measures 対策"],
+    "meanings": [
+      { "hinshi": "【動詞】測る、測定する", "note": "長さ・量・程度などを計測する。" },
+      { "hinshi": "【名詞】対策、措置／寸法", "note": "複数形 measures で『対策・手段』。" }
+    ],
+    "usages": [
+      { "title": "① 測る", "desc": "動詞用法。", "example_en": "Measure the length of the desk.", "example_ja": "机の長さを測って。" },
+      { "title": "② 対策", "desc": "measures と複数で。", "example_en": "We took safety measures.", "example_ja": "私たちは安全対策を取った。" }
+    ],
+    "warn": ["名詞の『メジャー（巻き尺）』は tape measure。発音は /ˈmeʒər/。", "複数 measures は『対策・措置』という重要な意味。"],
+    "etym_note": "ラテン語 mensura『測ること』に由来。metiri（測る）から。",
+    "etym_chain": [
+      { "node": "mensura (ラテン語)", "sub": "測ること", "era": "古代" },
+      { "node": "mesure (古フランス語)", "sub": "寸法", "era": "中世" },
+      { "node": "measure", "sub": "測る・寸法", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "measure the length", "ja": "長さを測る" },
+      { "en": "take measures", "ja": "対策を講じる" },
+      { "en": "safety measures", "ja": "安全対策" },
+      { "en": "a tape measure", "ja": "巻き尺" },
+      { "en": "beyond measure", "ja": "計り知れないほど" },
+      { "en": "made to measure", "ja": "オーダーメイドの" }
+    ],
+    "related": [
+      { "en": "measurement", "ja": "測定・寸法" },
+      { "en": "size", "ja": "大きさ" },
+      { "en": "step", "ja": "手段・措置" }
+    ],
+    "faq": [
+      { "q": "measures（複数）の意味は？", "a": "『対策・措置・手段』です。take measures で『対策を講じる』。" },
+      { "q": "『巻き尺』は英語で？", "a": "a tape measure です。" }
+    ],
+    "quiz": [
+      { "q": "take measures の意味は？", "A": "対策を講じる", "B": "距離を歩く", "C": "写真を撮る", "D": "順番を待つ", "correct": "A" },
+      { "q": "measure the length の意味は？", "A": "長さを測る", "B": "長さを伸ばす", "C": "長さを比べる", "D": "長さを書く", "correct": "A" }
+    ]
+  },
+  {
+    "english": "meat",
+    "pron": "miːt",
+    "kana": "ミート",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "古英語 mete(食物)",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "日常必須"],
+    "meaning_main": "肉／食肉",
+    "description": "meat（ミート）の意味・使い方。『肉』を表す基礎語を、meet との同音や例文・クイズで学習。",
+    "keywords": ["meat 意味", "meat meet 違い", "肉 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】（食用の）肉", "note": "牛・豚・鶏などの食肉。数えられない名詞。" }
+    ],
+    "usages": [
+      { "title": "① 食肉", "desc": "不可算名詞。", "example_en": "I don't eat meat.", "example_ja": "私は肉を食べない。" },
+      { "title": "② 種類を示す", "desc": "red meat など。", "example_en": "Beef is a kind of red meat.", "example_ja": "牛肉は赤身肉の一種だ。" }
+    ],
+    "warn": ["meat（肉）と meet（会う）は同音異義語。綴りに注意。", "肉は不可算名詞。数えるときは a piece of meat など。"],
+    "etym_note": "古英語 mete『食物』に由来。元は食べ物全般を指した。",
+    "etym_chain": [
+      { "node": "mete (古英語)", "sub": "食物", "era": "古英語" },
+      { "node": "meat", "sub": "肉", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "red meat", "ja": "赤身肉（牛・羊など）" },
+      { "en": "white meat", "ja": "白身肉（鶏など）" },
+      { "en": "raw meat", "ja": "生肉" },
+      { "en": "a piece of meat", "ja": "一切れの肉" },
+      { "en": "ground meat", "ja": "ひき肉" },
+      { "en": "meat and vegetables", "ja": "肉と野菜" }
+    ],
+    "related": [
+      { "en": "beef", "ja": "牛肉" },
+      { "en": "pork", "ja": "豚肉" },
+      { "en": "chicken", "ja": "鶏肉" }
+    ],
+    "faq": [
+      { "q": "meat と meet の違いは？", "a": "meat は『肉』、meet は『会う』です。発音は同じ /miːt/。" },
+      { "q": "meat は数えられる？", "a": "不可算名詞です。a piece of meat のように数えます。" }
+    ],
+    "quiz": [
+      { "q": "meat の意味は？", "A": "肉", "B": "会う", "C": "米", "D": "魚", "correct": "A" },
+      { "q": "meat と同じ発音の単語は？", "A": "meet", "B": "mat", "C": "met", "D": "might", "correct": "A" }
+    ]
+  },
+  {
+    "english": "medicine",
+    "pron": "ˈmedɪsɪn",
+    "kana": "メディスン",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 medicina(治療術)",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "日常必須"],
+    "meaning_main": "薬／医学",
+    "description": "medicine（メディスン）の意味・使い方。『薬・医学』を表す基礎語を、take medicine などの例文とクイズで学習。",
+    "keywords": ["medicine 意味", "medicine 使い方", "薬 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】薬（特に飲み薬）", "note": "病気を治すために飲むもの。" },
+      { "hinshi": "【名詞】医学", "note": "『医学（学問・分野）』。study medicine（医学を学ぶ）。" }
+    ],
+    "usages": [
+      { "title": "① 薬", "desc": "take で『飲む』。", "example_en": "Take this medicine after meals.", "example_ja": "この薬を食後に飲んでください。" },
+      { "title": "② 医学", "desc": "学問分野。", "example_en": "He studies medicine.", "example_ja": "彼は医学を学んでいる。" }
+    ],
+    "warn": ["薬を『飲む』は drink ではなく take medicine。", "『薬』の意味では不可算のことが多い。錠剤は pill / tablet。"],
+    "etym_note": "ラテン語 medicina『治療術』に由来。mederi（癒す）から。",
+    "etym_chain": [
+      { "node": "medicina (ラテン語)", "sub": "治療術", "era": "古代" },
+      { "node": "medicine", "sub": "薬・医学", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "take medicine", "ja": "薬を飲む" },
+      { "en": "cold medicine", "ja": "風邪薬" },
+      { "en": "study medicine", "ja": "医学を学ぶ" },
+      { "en": "modern medicine", "ja": "現代医学" },
+      { "en": "Chinese medicine", "ja": "漢方・中国医学" },
+      { "en": "a bottle of medicine", "ja": "薬一瓶" }
+    ],
+    "related": [
+      { "en": "medical", "ja": "医学の・医療の" },
+      { "en": "drug", "ja": "薬・薬物" },
+      { "en": "pill", "ja": "錠剤" }
+    ],
+    "faq": [
+      { "q": "『薬を飲む』は drink medicine？", "a": "いいえ、take medicine が正しい表現です。" },
+      { "q": "medicine の2つの意味は？", "a": "『薬』と『医学（学問）』です。" }
+    ],
+    "quiz": [
+      { "q": "『薬を飲む』の正しい表現は？", "A": "take medicine", "B": "drink medicine", "C": "eat medicine", "D": "have medicine", "correct": "A" },
+      { "q": "study medicine の意味は？", "A": "医学を学ぶ", "B": "薬を作る", "C": "薬を売る", "D": "病院で働く", "correct": "A" }
+    ]
+  },
+  {
+    "english": "meet",
+    "pron": "miːt",
+    "kana": "ミート",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "古英語 metan(出会う)",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "最重要動詞"],
+    "meaning_main": "会う／出会う／満たす",
+    "description": "meet（ミート）の意味・使い方。『会う・出会う』を表す最重要基本動詞を、活用・例文・クイズで学習。",
+    "keywords": ["meet 意味", "meet 使い方", "nice to meet you"],
+    "meanings": [
+      { "hinshi": "【動詞】会う、出会う", "note": "人と対面する。初対面にも約束の再会にも使う。過去形は met。" },
+      { "hinshi": "【動詞】（要求・条件を）満たす", "note": "meet the needs（ニーズを満たす）など。" }
+    ],
+    "usages": [
+      { "title": "① 会う", "desc": "基本の意味。", "example_en": "Let's meet at the station.", "example_ja": "駅で会いましょう。" },
+      { "title": "② 満たす", "desc": "条件・要求を。", "example_en": "This meets our needs.", "example_ja": "これは私たちの要望を満たす。" }
+    ],
+    "warn": ["過去形・過去分詞は met。", "Nice to meet you. は初対面のあいさつ。再会は Nice to see you again.。"],
+    "etym_note": "古英語 metan『出会う・見つける』に由来。",
+    "etym_chain": [
+      { "node": "metan (古英語)", "sub": "出会う", "era": "古英語" },
+      { "node": "meet", "sub": "会う", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Nice to meet you.", "ja": "はじめまして" },
+      { "en": "meet a friend", "ja": "友達に会う" },
+      { "en": "meet the deadline", "ja": "締め切りに間に合う" },
+      { "en": "meet the needs", "ja": "ニーズを満たす" },
+      { "en": "meet up with", "ja": "〜と落ち合う" },
+      { "en": "pleased to meet you", "ja": "お会いできてうれしいです" }
+    ],
+    "related": [
+      { "en": "met", "ja": "meet の過去形" },
+      { "en": "meeting", "ja": "会議・会合" },
+      { "en": "see", "ja": "会う・見る" }
+    ],
+    "faq": [
+      { "q": "meet の過去形は？", "a": "met です。過去分詞も met。" },
+      { "q": "meet と see の違いは？", "a": "meet は『（約束して・初めて）会う』、see は『（すでに知っている人と）会う』でよく使い分けます。" }
+    ],
+    "quiz": [
+      { "q": "Nice to meet you. の意味は？", "A": "はじめまして", "B": "さようなら", "C": "ありがとう", "D": "おかえり", "correct": "A" },
+      { "q": "meet の過去形は？", "A": "met", "B": "meeted", "C": "meat", "D": "meten", "correct": "A" }
+    ]
+  }
+]

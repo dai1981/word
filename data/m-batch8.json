@@ -1,0 +1,480 @@
+[
+  {
+    "english": "movie",
+    "pron": "ˈmuːvi",
+    "kana": "ムービー",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "moving picture(動く絵)の短縮",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "日常必須"],
+    "meaning_main": "映画",
+    "description": "movie（ムービー）の意味・使い方。『映画』を表す基礎語を、film との違いや例文・クイズで学習。",
+    "keywords": ["movie 意味", "movie film 違い", "映画 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】映画", "note": "主に米国で使う語。可算名詞。" }
+    ],
+    "usages": [
+      { "title": "① 映画（作品）", "desc": "可算名詞。", "example_en": "Let's watch a movie.", "example_ja": "映画を見よう。" },
+      { "title": "② 映画館へ行く", "desc": "go to the movies。", "example_en": "We went to the movies.", "example_ja": "私たちは映画を見に行った。" }
+    ],
+    "warn": ["米国では movie、英国では film が一般的。", "『映画を見に行く』は go to the movies（複数形・the 付き）。"],
+    "etym_note": "moving picture『動く絵』の短縮形 movie から。",
+    "etym_chain": [
+      { "node": "moving picture", "sub": "動く絵", "era": "近代" },
+      { "node": "movie", "sub": "映画", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "watch a movie", "ja": "映画を見る" },
+      { "en": "go to the movies", "ja": "映画を見に行く" },
+      { "en": "a movie theater", "ja": "映画館" },
+      { "en": "a movie star", "ja": "映画スター" },
+      { "en": "a horror movie", "ja": "ホラー映画" },
+      { "en": "an action movie", "ja": "アクション映画" }
+    ],
+    "related": [
+      { "en": "film", "ja": "映画（英）" },
+      { "en": "cinema", "ja": "映画館（英）" },
+      { "en": "theater", "ja": "劇場・映画館" }
+    ],
+    "faq": [
+      { "q": "movie と film の違いは？", "a": "米国では movie、英国では film が一般的です。意味はほぼ同じ。" },
+      { "q": "『映画を見に行く』は？", "a": "go to the movies です（複数形で the が付きます）。" }
+    ],
+    "quiz": [
+      { "q": "watch a movie の意味は？", "A": "映画を見る", "B": "映画を作る", "C": "映画を録る", "D": "映画に出る", "correct": "A" },
+      { "q": "英国で『映画』を表す語は？", "A": "film", "B": "movie", "C": "video", "D": "drama", "correct": "A" }
+    ]
+  },
+  {
+    "english": "much",
+    "pron": "mʌtʃ",
+    "kana": "マッチ",
+    "hinshi": "形容詞 / 副詞 / 代名詞",
+    "ld_pos": "adjective",
+    "ld_etym": "古英語 mycel(多くの)",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "最重要基礎語"],
+    "meaning_main": "たくさんの／多く／とても",
+    "description": "much（マッチ）の意味・使い方。『たくさんの・とても』を表す基礎語を、many との使い分けや例文・クイズで学習。",
+    "keywords": ["much 意味", "much many 違い", "much 使い方"],
+    "meanings": [
+      { "hinshi": "【形容詞・代名詞】たくさんの、多く", "note": "数えられない名詞に付く。much water など。" },
+      { "hinshi": "【副詞】とても、大いに", "note": "動詞や比較級を強める。much better（ずっと良い）。" }
+    ],
+    "usages": [
+      { "title": "① 不可算名詞に", "desc": "数えられない名詞。", "example_en": "How much water do you need?", "example_ja": "水はどれくらい必要ですか？" },
+      { "title": "② 比較級を強める", "desc": "much + 比較級。", "example_en": "This is much better.", "example_ja": "これはずっと良い。" }
+    ],
+    "warn": ["数えられない名詞には much、数えられる名詞には many を使う。", "肯定文では a lot of がよく使われる（much は疑問・否定に多い）。"],
+    "etym_note": "古英語 mycel『多くの・大きい』に由来。",
+    "etym_chain": [
+      { "node": "mycel (古英語)", "sub": "多くの", "era": "古英語" },
+      { "node": "much", "sub": "たくさんの", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "how much", "ja": "いくら・どれくらい" },
+      { "en": "too much", "ja": "多すぎる" },
+      { "en": "so much", "ja": "とてもたくさん" },
+      { "en": "much better", "ja": "ずっと良い" },
+      { "en": "not much", "ja": "あまり多くない" },
+      { "en": "as much as", "ja": "〜と同じくらい" }
+    ],
+    "related": [
+      { "en": "many", "ja": "（可算に）多くの" },
+      { "en": "a lot of", "ja": "たくさんの" },
+      { "en": "little", "ja": "ほとんどない" }
+    ],
+    "faq": [
+      { "q": "much と many の違いは？", "a": "much は数えられない名詞、many は数えられる名詞に付きます。" },
+      { "q": "『いくらですか？』は？", "a": "How much is it? です。" }
+    ],
+    "quiz": [
+      { "q": "much が付くのはどれ？", "A": "water", "B": "books", "C": "apples", "D": "cars", "correct": "A" },
+      { "q": "This is ___ better.（ずっと）に入るのは？", "A": "much", "B": "many", "C": "very", "D": "more", "correct": "A" }
+    ]
+  },
+  {
+    "english": "mud",
+    "pron": "mʌd",
+    "kana": "マッド",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "中低ドイツ語 mudde(泥)",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "日常必須"],
+    "meaning_main": "泥／ぬかるみ",
+    "description": "mud（マッド）の意味・使い方。『泥・ぬかるみ』を表す語を、例文とクイズでわかりやすく学習。",
+    "keywords": ["mud 意味", "mud 使い方", "泥 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】泥、ぬかるみ", "note": "水と土が混じったもの。数えられない名詞。" }
+    ],
+    "usages": [
+      { "title": "① 泥", "desc": "不可算名詞。", "example_en": "My shoes are covered in mud.", "example_ja": "私の靴は泥だらけだ。" },
+      { "title": "② 泥まみれになる", "desc": "get muddy。", "example_en": "The kids got muddy.", "example_ja": "子どもたちは泥だらけになった。" }
+    ],
+    "warn": ["形容詞は muddy（泥だらけの・濁った）。", "mud は不可算名詞。"],
+    "etym_note": "中低ドイツ語 mudde『泥』に由来。",
+    "etym_chain": [
+      { "node": "mudde (中低ドイツ語)", "sub": "泥", "era": "中世" },
+      { "node": "mud", "sub": "泥", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "covered in mud", "ja": "泥だらけの" },
+      { "en": "stuck in the mud", "ja": "泥にはまって" },
+      { "en": "a mud puddle", "ja": "ぬかるみの水たまり" },
+      { "en": "throw mud at", "ja": "〜を中傷する" },
+      { "en": "as clear as mud", "ja": "さっぱり分からない" },
+      { "en": "a mud bath", "ja": "泥風呂・泥浴" }
+    ],
+    "related": [
+      { "en": "muddy", "ja": "泥だらけの" },
+      { "en": "dirt", "ja": "土・汚れ" },
+      { "en": "soil", "ja": "土壌" }
+    ],
+    "faq": [
+      { "q": "mud の形容詞形は？", "a": "muddy（泥だらけの・濁った）です。" },
+      { "q": "as clear as mud の意味は？", "a": "皮肉表現で『さっぱり分からない』です。" }
+    ],
+    "quiz": [
+      { "q": "covered in mud の意味は？", "A": "泥だらけの", "B": "雪まみれの", "C": "水浸しの", "D": "ほこりだらけの", "correct": "A" },
+      { "q": "mud の形容詞形は？", "A": "muddy", "B": "mudful", "C": "mudy", "D": "mudish", "correct": "A" }
+    ]
+  },
+  {
+    "english": "muscle",
+    "pron": "ˈmʌsl",
+    "kana": "マッスル",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 musculus(小さなネズミ)",
+    "ld_level": "準2級",
+    "badges": ["高校生〜", "英検準2級", "CEFR B1", "理科で頻出"],
+    "meaning_main": "筋肉／腕力",
+    "description": "muscle（マッスル）の意味・使い方。『筋肉』を表す語を、綴りの注意点や例文・クイズで学習。",
+    "keywords": ["muscle 意味", "muscle 使い方", "筋肉 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】筋肉", "note": "体を動かす組織。可算・不可算どちらも。" },
+      { "hinshi": "【名詞】腕力、力", "note": "『力・強み』の比喩でも。" }
+    ],
+    "usages": [
+      { "title": "① 筋肉", "desc": "体の組織。", "example_en": "Exercise builds muscle.", "example_ja": "運動は筋肉をつくる。" },
+      { "title": "② 筋肉痛など", "desc": "具体的な筋肉。", "example_en": "I pulled a muscle.", "example_ja": "私は筋を違えた。" }
+    ],
+    "warn": ["綴りに c があるが発音しない（サイレントc）。/ˈmʌsl/。", "形容詞は muscular（筋肉の・たくましい）。"],
+    "etym_note": "ラテン語 musculus『小さなネズミ』に由来。筋肉の動きがネズミに似ているとされたことから。",
+    "etym_chain": [
+      { "node": "musculus (ラテン語)", "sub": "小さなネズミ", "era": "古代" },
+      { "node": "muscle", "sub": "筋肉", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "build muscle", "ja": "筋肉をつける" },
+      { "en": "pull a muscle", "ja": "筋を違える" },
+      { "en": "muscle pain", "ja": "筋肉痛" },
+      { "en": "strong muscles", "ja": "強い筋肉" },
+      { "en": "a muscle car", "ja": "マッスルカー（高出力車）" },
+      { "en": "flex one's muscles", "ja": "力を誇示する" }
+    ],
+    "related": [
+      { "en": "muscular", "ja": "筋肉質の" },
+      { "en": "bone", "ja": "骨" },
+      { "en": "strength", "ja": "力・強さ" }
+    ],
+    "faq": [
+      { "q": "muscle の発音の注意は？", "a": "c は発音しません。/ˈmʌsl/（マッスル）です。" },
+      { "q": "pull a muscle の意味は？", "a": "『筋を違える・肉離れを起こす』です。" }
+    ],
+    "quiz": [
+      { "q": "build muscle の意味は？", "A": "筋肉をつける", "B": "骨を折る", "C": "体重を減らす", "D": "背を伸ばす", "correct": "A" },
+      { "q": "muscle の形容詞形は？", "A": "muscular", "B": "muscley", "C": "muscleful", "D": "musclic", "correct": "A" }
+    ]
+  },
+  {
+    "english": "museum",
+    "pron": "mjuˈziːəm",
+    "kana": "ミュージアム",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ギリシャ語 mouseion(ムーサの神殿)",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "日常必須"],
+    "meaning_main": "博物館／美術館",
+    "description": "museum（ミュージアム）の意味・使い方。『博物館・美術館』を表す基礎語を、例文とクイズで学習。",
+    "keywords": ["museum 意味", "museum 使い方", "博物館 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】博物館、美術館", "note": "資料や作品を集めて展示する施設。可算名詞。" }
+    ],
+    "usages": [
+      { "title": "① 博物館", "desc": "可算名詞。", "example_en": "We visited a museum.", "example_ja": "私たちは博物館を訪れた。" },
+      { "title": "② 美術館", "desc": "art museum。", "example_en": "an art museum", "example_ja": "美術館" }
+    ],
+    "warn": ["アクセントは -se- の部分（ミューズィーアム）。", "『美術館』は art museum または gallery とも。"],
+    "etym_note": "ギリシャ語 mouseion『ムーサ（芸術の女神）の神殿』に由来。",
+    "etym_chain": [
+      { "node": "mouseion (ギリシャ語)", "sub": "ムーサの神殿", "era": "古代" },
+      { "node": "museum (ラテン語)", "sub": "学問の場", "era": "古代" },
+      { "node": "museum", "sub": "博物館", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "visit a museum", "ja": "博物館を訪れる" },
+      { "en": "an art museum", "ja": "美術館" },
+      { "en": "a science museum", "ja": "科学博物館" },
+      { "en": "a museum exhibit", "ja": "博物館の展示" },
+      { "en": "a natural history museum", "ja": "自然史博物館" },
+      { "en": "the British Museum", "ja": "大英博物館" }
+    ],
+    "related": [
+      { "en": "gallery", "ja": "画廊・美術館" },
+      { "en": "exhibition", "ja": "展覧会" },
+      { "en": "library", "ja": "図書館" }
+    ],
+    "faq": [
+      { "q": "museum のアクセントは？", "a": "-se- の部分にあります（mjuˈziːəm）。" },
+      { "q": "『美術館』は museum？", "a": "art museum、または gallery とも言います。" }
+    ],
+    "quiz": [
+      { "q": "an art museum の意味は？", "A": "美術館", "B": "画材店", "C": "劇場", "D": "図書館", "correct": "A" },
+      { "q": "museum の語源の意味は？", "A": "ムーサ（女神）の神殿", "B": "王の宮殿", "C": "秘密の部屋", "D": "商人の館", "correct": "A" }
+    ]
+  },
+  {
+    "english": "music",
+    "pron": "ˈmjuːzɪk",
+    "kana": "ミュージック",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ギリシャ語 mousike(ムーサの技)",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "最重要基礎語"],
+    "meaning_main": "音楽",
+    "description": "music（ミュージック）の意味・使い方。『音楽』を表す最重要基礎語を、可算性や例文・クイズで学習。",
+    "keywords": ["music 意味", "music 使い方", "音楽 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】音楽", "note": "音を組み合わせた芸術。数えられない名詞。" }
+    ],
+    "usages": [
+      { "title": "① 音楽", "desc": "不可算名詞。", "example_en": "I like listening to music.", "example_ja": "私は音楽を聴くのが好きだ。" },
+      { "title": "② 種類を示す", "desc": "classical music など。", "example_en": "I enjoy classical music.", "example_ja": "私はクラシック音楽が好きだ。" }
+    ],
+    "warn": ["music は不可算名詞。a music とは言わない。", "『音楽を聴く』は listen to music（to が必要）。"],
+    "etym_note": "ギリシャ語 mousike『ムーサ（芸術の女神）の技』に由来。",
+    "etym_chain": [
+      { "node": "mousike (ギリシャ語)", "sub": "ムーサの技", "era": "古代" },
+      { "node": "musica (ラテン語)", "sub": "音楽", "era": "古代" },
+      { "node": "music", "sub": "音楽", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "listen to music", "ja": "音楽を聴く" },
+      { "en": "play music", "ja": "音楽を演奏する・かける" },
+      { "en": "classical music", "ja": "クラシック音楽" },
+      { "en": "pop music", "ja": "ポップミュージック" },
+      { "en": "sheet music", "ja": "楽譜" },
+      { "en": "live music", "ja": "生演奏" }
+    ],
+    "related": [
+      { "en": "musician", "ja": "音楽家" },
+      { "en": "song", "ja": "歌" },
+      { "en": "sound", "ja": "音" }
+    ],
+    "faq": [
+      { "q": "music は数えられる？", "a": "不可算名詞です。a music とは言いません。" },
+      { "q": "『音楽を聴く』は英語で？", "a": "listen to music です（to が必要）。" }
+    ],
+    "quiz": [
+      { "q": "『音楽を聴く』の正しい形は？", "A": "listen to music", "B": "listen music", "C": "hear to music", "D": "listen at music", "correct": "A" },
+      { "q": "music の可算性は？", "A": "不可算名詞", "B": "可算名詞", "C": "動詞のみ", "D": "形容詞", "correct": "A" }
+    ]
+  },
+  {
+    "english": "must",
+    "pron": "mʌst",
+    "kana": "マスト",
+    "hinshi": "助動詞",
+    "ld_pos": "auxiliary verb",
+    "ld_etym": "古英語 moste(〜しなければ)",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "最重要助動詞"],
+    "meaning_main": "〜しなければならない／〜にちがいない",
+    "description": "must（マスト）の意味・使い方。『〜しなければならない・〜にちがいない』を表す助動詞を、例文とクイズで学習。",
+    "keywords": ["must 意味", "must have to 違い", "must 使い方"],
+    "meanings": [
+      { "hinshi": "【助動詞】〜しなければならない（義務）", "note": "強い義務・必要。後ろは動詞の原形。" },
+      { "hinshi": "【助動詞】〜にちがいない（推量）", "note": "確信のある推量。You must be tired.（疲れているにちがいない）。" }
+    ],
+    "usages": [
+      { "title": "① 義務", "desc": "must + 原形。", "example_en": "You must finish your homework.", "example_ja": "宿題を終わらせなければならない。" },
+      { "title": "② 推量", "desc": "must be 〜。", "example_en": "You must be joking.", "example_ja": "冗談でしょう（にちがいない）。" }
+    ],
+    "warn": ["否定 must not は『〜してはいけない（禁止）』。『〜する必要はない』は don't have to。", "過去の義務は had to で表す（must に過去形がないため）。"],
+    "etym_note": "古英語 moste『〜しなければならなかった』に由来。",
+    "etym_chain": [
+      { "node": "moste (古英語)", "sub": "〜しなければ", "era": "古英語" },
+      { "node": "must", "sub": "〜しなければならない", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "must not", "ja": "〜してはいけない" },
+      { "en": "must have done", "ja": "〜したにちがいない" },
+      { "en": "a must", "ja": "必需品・必見のもの" },
+      { "en": "You must be kidding.", "ja": "冗談でしょう" },
+      { "en": "must-see", "ja": "必見の" },
+      { "en": "if you must", "ja": "どうしてもと言うなら" }
+    ],
+    "related": [
+      { "en": "have to", "ja": "〜しなければならない" },
+      { "en": "should", "ja": "〜すべきだ" },
+      { "en": "need", "ja": "〜する必要がある" }
+    ],
+    "faq": [
+      { "q": "must not と don't have to の違いは？", "a": "must not は『禁止』、don't have to は『〜する必要はない』です。" },
+      { "q": "must の過去はどう表す？", "a": "had to を使います（must に過去形はありません）。" }
+    ],
+    "quiz": [
+      { "q": "You must be tired. の意味は？", "A": "疲れているにちがいない", "B": "疲れてはいけない", "C": "疲れる必要はない", "D": "疲れるだろう", "correct": "A" },
+      { "q": "must not の意味は？", "A": "〜してはいけない", "B": "〜する必要はない", "C": "〜かもしれない", "D": "〜したい", "correct": "A" }
+    ]
+  },
+  {
+    "english": "myself",
+    "pron": "maɪˈself",
+    "kana": "マイセルフ",
+    "hinshi": "代名詞",
+    "ld_pos": "pronoun",
+    "ld_etym": "my + self(私自身)",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "日常必須"],
+    "meaning_main": "私自身／自分で",
+    "description": "myself（マイセルフ）の意味・使い方。再帰代名詞『私自身・自分で』を、例文とクイズでわかりやすく学習。",
+    "keywords": ["myself 意味", "myself 使い方", "私自身 英語"],
+    "meanings": [
+      { "hinshi": "【代名詞】私自身（を）", "note": "主語が I のとき目的語に。再帰代名詞。" },
+      { "hinshi": "【代名詞】私自身で、自分で", "note": "強調に。by myself（独りで）。" }
+    ],
+    "usages": [
+      { "title": "① 再帰用法", "desc": "主語=目的語。", "example_en": "I hurt myself.", "example_ja": "私は怪我をした（自分を傷つけた）。" },
+      { "title": "② 強調・独りで", "desc": "by myself。", "example_en": "I did it by myself.", "example_ja": "私は自分一人でそれをした。" }
+    ],
+    "warn": ["by myself で『独りで・自力で』。", "主語が I のときの目的語は me ではなく myself を使う（I saw myself in the mirror）。"],
+    "etym_note": "my（私の）＋self（自身）が結び付いた再帰代名詞。",
+    "etym_chain": [
+      { "node": "me self (中英語)", "sub": "私自身", "era": "中世" },
+      { "node": "myself", "sub": "私自身", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "by myself", "ja": "独りで・自力で" },
+      { "en": "myself included", "ja": "私自身も含めて" },
+      { "en": "I told myself", "ja": "自分に言い聞かせた" },
+      { "en": "help yourself", "ja": "ご自由にどうぞ（yourself版）" },
+      { "en": "enjoy myself", "ja": "楽しむ" },
+      { "en": "all by myself", "ja": "たった一人で" }
+    ],
+    "related": [
+      { "en": "me", "ja": "私を" },
+      { "en": "yourself", "ja": "あなた自身" },
+      { "en": "himself", "ja": "彼自身" }
+    ],
+    "faq": [
+      { "q": "by myself の意味は？", "a": "『独りで・自力で』です。" },
+      { "q": "myself と me の使い分けは？", "a": "主語が I で目的語も同じ人を指すときは myself を使います（I hurt myself）。" }
+    ],
+    "quiz": [
+      { "q": "by myself の意味は？", "A": "独りで", "B": "みんなで", "C": "彼と", "D": "急いで", "correct": "A" },
+      { "q": "I hurt ___ .（私は怪我をした）に入るのは？", "A": "myself", "B": "me", "C": "my", "D": "mine", "correct": "A" }
+    ]
+  },
+  {
+    "english": "mystery",
+    "pron": "ˈmɪstəri",
+    "kana": "ミステリー",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ギリシャ語 mysterion(秘儀)",
+    "ld_level": "準2級",
+    "badges": ["高校生〜", "英検準2級", "CEFR B1", "会話頻出"],
+    "meaning_main": "謎／神秘／推理もの",
+    "description": "mystery（ミステリー）の意味・使い方。『謎・神秘』を表す語を、例文とクイズでわかりやすく学習。",
+    "keywords": ["mystery 意味", "mystery 使い方", "謎 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】謎、神秘", "note": "説明のつかない不思議なこと。" },
+      { "hinshi": "【名詞】推理小説・ミステリー", "note": "謎解きを扱う小説・映画のジャンル。" }
+    ],
+    "usages": [
+      { "title": "① 謎", "desc": "不可解なこと。", "example_en": "His death remains a mystery.", "example_ja": "彼の死は謎のままだ。" },
+      { "title": "② 推理もの", "desc": "ジャンル。", "example_en": "I love mystery novels.", "example_ja": "私は推理小説が大好きだ。" }
+    ],
+    "warn": ["形容詞は mysterious（謎めいた・神秘的な）。", "『謎のままだ』は remain a mystery。"],
+    "etym_note": "ギリシャ語 mysterion『秘儀・秘密の儀式』に由来。",
+    "etym_chain": [
+      { "node": "mysterion (ギリシャ語)", "sub": "秘儀", "era": "古代" },
+      { "node": "mystery", "sub": "謎", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a mystery novel", "ja": "推理小説" },
+      { "en": "remain a mystery", "ja": "謎のままである" },
+      { "en": "solve a mystery", "ja": "謎を解く" },
+      { "en": "a mystery to me", "ja": "私には謎だ" },
+      { "en": "shrouded in mystery", "ja": "謎に包まれて" },
+      { "en": "an unsolved mystery", "ja": "未解決の謎" }
+    ],
+    "related": [
+      { "en": "mysterious", "ja": "謎めいた" },
+      { "en": "secret", "ja": "秘密" },
+      { "en": "puzzle", "ja": "難問・パズル" }
+    ],
+    "faq": [
+      { "q": "mystery の形容詞形は？", "a": "mysterious（謎めいた・神秘的な）です。" },
+      { "q": "solve a mystery の意味は？", "a": "『謎を解く』です。" }
+    ],
+    "quiz": [
+      { "q": "remain a mystery の意味は？", "A": "謎のままである", "B": "謎が解けた", "C": "秘密を守る", "D": "話題になる", "correct": "A" },
+      { "q": "mystery の形容詞形は？", "A": "mysterious", "B": "mysteryful", "C": "mysteric", "D": "mysterial", "correct": "A" }
+    ]
+  },
+  {
+    "english": "myth",
+    "pron": "mɪθ",
+    "kana": "ミス",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ギリシャ語 mythos(物語)",
+    "ld_level": "準2級",
+    "badges": ["高校生〜", "英検準2級", "CEFR B1", "英作文で有用"],
+    "meaning_main": "神話／作り話・俗説",
+    "description": "myth（ミス）の意味・使い方。『神話・俗説』を表す語を、例文とクイズでわかりやすく学習。",
+    "keywords": ["myth 意味", "myth 使い方", "神話 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】神話", "note": "神々や英雄を語る古い物語。" },
+      { "hinshi": "【名詞】俗説、作り話", "note": "広く信じられているが事実でない話。" }
+    ],
+    "usages": [
+      { "title": "① 神話", "desc": "古い物語。", "example_en": "Greek myths are famous.", "example_ja": "ギリシャ神話は有名だ。" },
+      { "title": "② 俗説", "desc": "誤った通説。", "example_en": "That is a common myth.", "example_ja": "それはよくある誤解だ。" }
+    ],
+    "warn": ["形容詞は mythical（神話の・架空の）。集合的な『神話（体系）』は mythology。", "『事実でない通説』の意味も頻出。"],
+    "etym_note": "ギリシャ語 mythos『物語・言い伝え』に由来。",
+    "etym_chain": [
+      { "node": "mythos (ギリシャ語)", "sub": "物語", "era": "古代" },
+      { "node": "myth", "sub": "神話", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a Greek myth", "ja": "ギリシャ神話" },
+      { "en": "a common myth", "ja": "よくある俗説" },
+      { "en": "myth and legend", "ja": "神話と伝説" },
+      { "en": "bust a myth", "ja": "俗説を打ち破る" },
+      { "en": "an urban myth", "ja": "都市伝説" },
+      { "en": "the myth that ...", "ja": "〜という俗説" }
+    ],
+    "related": [
+      { "en": "mythology", "ja": "神話（体系）" },
+      { "en": "legend", "ja": "伝説" },
+      { "en": "mythical", "ja": "神話の・架空の" }
+    ],
+    "faq": [
+      { "q": "myth と legend の違いは？", "a": "myth は神々の『神話』、legend は歴史的人物などの『伝説』を指すことが多いです。" },
+      { "q": "myth に『俗説』の意味は？", "a": "あります。『広く信じられているが事実でない話』です。" }
+    ],
+    "quiz": [
+      { "q": "a Greek myth の意味は？", "A": "ギリシャ神話", "B": "ギリシャ語", "C": "ギリシャ料理", "D": "ギリシャ史", "correct": "A" },
+      { "q": "a common myth の意味は？", "A": "よくある俗説", "B": "共通の神殿", "C": "有名な英雄", "D": "共通の言語", "correct": "A" }
+    ]
+  }
+]
