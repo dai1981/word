@@ -1,0 +1,483 @@
+[
+  {
+    "english": "manage",
+    "pron": "ˈmænɪdʒ",
+    "kana": "マネッジ",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "イタリア語 maneggiare(手で扱う)",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "英作文で有用"],
+    "meaning_main": "管理する／経営する／なんとかやり遂げる",
+    "description": "manage（マネッジ）の意味・使い方。『管理する・なんとかする』を表す重要動詞を、例文とクイズで学習。",
+    "keywords": ["manage 意味", "manage 使い方", "manage to"],
+    "meanings": [
+      { "hinshi": "【動詞】管理する、経営する", "note": "組織・仕事・時間などを取り仕切る。" },
+      { "hinshi": "【動詞】なんとかやり遂げる", "note": "manage to do で『どうにか〜する』。" }
+    ],
+    "usages": [
+      { "title": "① 管理する", "desc": "組織や仕事を扱う。", "example_en": "She manages a small team.", "example_ja": "彼女は小さなチームを管理している。" },
+      { "title": "② なんとか〜する", "desc": "manage to do。", "example_en": "We managed to finish on time.", "example_ja": "私たちはなんとか時間内に終えた。" }
+    ],
+    "warn": ["manage to do は『（困難を乗り越えて）どうにか〜する』の意味。", "名詞形は management（経営・管理）、人は manager。"],
+    "etym_note": "イタリア語 maneggiare『（馬を）手で扱う』に由来。ラテン語 manus（手）から。",
+    "etym_chain": [
+      { "node": "manus (ラテン語)", "sub": "手", "era": "古代" },
+      { "node": "maneggiare (イタリア語)", "sub": "手で扱う", "era": "中世" },
+      { "node": "manage", "sub": "管理する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "manage a company", "ja": "会社を経営する" },
+      { "en": "manage to do", "ja": "なんとか〜する" },
+      { "en": "manage time", "ja": "時間を管理する" },
+      { "en": "manage a project", "ja": "プロジェクトを管理する" },
+      { "en": "hard to manage", "ja": "扱いにくい" },
+      { "en": "manage on one's own", "ja": "自力でやりくりする" }
+    ],
+    "related": [
+      { "en": "management", "ja": "経営・管理" },
+      { "en": "manager", "ja": "管理者" },
+      { "en": "handle", "ja": "扱う" }
+    ],
+    "faq": [
+      { "q": "manage to do の意味は？", "a": "『どうにか〜する・なんとか〜し遂げる』です。" },
+      { "q": "manage の名詞形は？", "a": "management（経営・管理）です。" }
+    ],
+    "quiz": [
+      { "q": "We managed to finish. の意味は？", "A": "なんとか終えた", "B": "終えられなかった", "C": "終える予定だ", "D": "終えたくない", "correct": "A" },
+      { "q": "manage の名詞形は？", "A": "management", "B": "managation", "C": "managence", "D": "managment", "correct": "A" }
+    ]
+  },
+  {
+    "english": "manager",
+    "pron": "ˈmænɪdʒər",
+    "kana": "マネジャー",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "manage + -er(する人)",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "日常必須"],
+    "meaning_main": "管理者／経営者／支配人／マネージャー",
+    "description": "manager（マネジャー）の意味・使い方。『管理者・経営者』を表す基礎語を、例文とクイズで学習。",
+    "keywords": ["manager 意味", "manager 使い方", "マネージャー 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】管理者、経営者", "note": "組織・店・部署などを取り仕切る人。監督・支配人も。" }
+    ],
+    "usages": [
+      { "title": "① 管理者", "desc": "職位を表す。", "example_en": "He is the manager of this store.", "example_ja": "彼はこの店の店長だ。" },
+      { "title": "② 監督・マネージャー", "desc": "スポーツ・芸能でも。", "example_en": "The team hired a new manager.", "example_ja": "チームは新しい監督を雇った。" }
+    ],
+    "warn": ["日本語の部活『マネージャー』とは意味が違い、英語では『管理する立場の人』。", "動詞 manage、名詞 management とセットで覚える。"],
+    "etym_note": "動詞 manage に『〜する人』を表す -er が付いた形。",
+    "etym_chain": [
+      { "node": "manage", "sub": "管理する", "era": "中世" },
+      { "node": "manager", "sub": "管理者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a store manager", "ja": "店長" },
+      { "en": "a general manager", "ja": "総支配人・GM" },
+      { "en": "a project manager", "ja": "プロジェクト責任者" },
+      { "en": "a bank manager", "ja": "銀行の支店長" },
+      { "en": "a sales manager", "ja": "営業部長" },
+      { "en": "the team manager", "ja": "チーム監督" }
+    ],
+    "related": [
+      { "en": "manage", "ja": "管理する" },
+      { "en": "management", "ja": "経営・管理" },
+      { "en": "director", "ja": "取締役・部長" }
+    ],
+    "faq": [
+      { "q": "部活のマネージャーは英語で manager？", "a": "意味が違います。英語の manager は『管理・監督する人』。世話係は assistant などが近いです。" },
+      { "q": "manager と director の違いは？", "a": "manager は現場の管理者、director はより上位の役員・部門長を指すことが多いです。" }
+    ],
+    "quiz": [
+      { "q": "a store manager の意味は？", "A": "店長", "B": "店員", "C": "客", "D": "オーナー", "correct": "A" },
+      { "q": "manager の動詞形は？", "A": "manage", "B": "manager", "C": "management", "D": "managing", "correct": "A" }
+    ]
+  },
+  {
+    "english": "many",
+    "pron": "ˈmeni",
+    "kana": "メニー",
+    "hinshi": "形容詞 / 代名詞",
+    "ld_pos": "adjective",
+    "ld_etym": "古英語 manig(多くの)",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "最重要基礎語"],
+    "meaning_main": "多くの／たくさんの",
+    "description": "many（メニー）の意味・使い方。『多くの』を表す最重要基礎語を、可算名詞との使い分けや例文・クイズで学習。",
+    "keywords": ["many 意味", "many much 違い", "many 使い方"],
+    "meanings": [
+      { "hinshi": "【形容詞】多くの、たくさんの", "note": "数えられる名詞（複数形）に付く。many books など。" },
+      { "hinshi": "【代名詞】多く（の人・物）", "note": "many of us（私たちの多く）のように使う。" }
+    ],
+    "usages": [
+      { "title": "① 多くの＋可算名詞", "desc": "数えられる名詞に。", "example_en": "There are many books here.", "example_ja": "ここには本がたくさんある。" },
+      { "title": "② many of 〜", "desc": "代名詞的に。", "example_en": "Many of them agreed.", "example_ja": "彼らの多くが賛成した。" }
+    ],
+    "warn": ["数えられる名詞には many、数えられない名詞には much を使う。", "肯定文では a lot of もよく使われる。"],
+    "etym_note": "古英語 manig『多くの』に由来。",
+    "etym_chain": [
+      { "node": "manig (古英語)", "sub": "多くの", "era": "古英語" },
+      { "node": "many", "sub": "多くの", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "many people", "ja": "多くの人々" },
+      { "en": "many times", "ja": "何度も" },
+      { "en": "how many", "ja": "いくつ（数を尋ねる）" },
+      { "en": "so many", "ja": "とても多くの" },
+      { "en": "many of them", "ja": "彼らの多く" },
+      { "en": "a great many", "ja": "非常に多くの" }
+    ],
+    "related": [
+      { "en": "much", "ja": "（不可算に）多くの" },
+      { "en": "a lot of", "ja": "たくさんの" },
+      { "en": "few", "ja": "ほとんどない" }
+    ],
+    "faq": [
+      { "q": "many と much の違いは？", "a": "many は数えられる名詞、much は数えられない名詞に付きます。" },
+      { "q": "『いくつ？』と数を尋ねるには？", "a": "How many + 複数名詞 …? を使います。" }
+    ],
+    "quiz": [
+      { "q": "many が付くのはどれ？", "A": "books", "B": "water", "C": "money", "D": "milk", "correct": "A" },
+      { "q": "『何度も』を表すのは？", "A": "many times", "B": "much time", "C": "many time", "D": "much times", "correct": "A" }
+    ]
+  },
+  {
+    "english": "map",
+    "pron": "mæp",
+    "kana": "マップ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 mappa(布)",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "日常必須"],
+    "meaning_main": "地図／地図に表す",
+    "description": "map（マップ）の意味・使い方。『地図』を表す基礎語を、例文とクイズでわかりやすく学習。",
+    "keywords": ["map 意味", "map 使い方", "マップ 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】地図", "note": "土地や地域を縮めて図に表したもの。" },
+      { "hinshi": "【動詞】地図を作る、（計画を）練る", "note": "map out で『詳細に計画する』。" }
+    ],
+    "usages": [
+      { "title": "① 地図", "desc": "基本の意味。", "example_en": "Look at the map.", "example_ja": "地図を見て。" },
+      { "title": "② map out", "desc": "計画を練る。", "example_en": "Let's map out our trip.", "example_ja": "旅行の計画を立てよう。" }
+    ],
+    "warn": ["『地図』は可算名詞。a map of Japan のように of で対象を示す。", "語源は『布』。昔は布に地図を描いた。"],
+    "etym_note": "ラテン語 mappa『布・ナプキン』に由来。地図が布に描かれたことから。",
+    "etym_chain": [
+      { "node": "mappa (ラテン語)", "sub": "布", "era": "古代" },
+      { "node": "map", "sub": "地図", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a map of the world", "ja": "世界地図" },
+      { "en": "read a map", "ja": "地図を読む" },
+      { "en": "a road map", "ja": "道路地図・行程表" },
+      { "en": "map out a plan", "ja": "計画を練る" },
+      { "en": "on the map", "ja": "地図上に・有名で" },
+      { "en": "a weather map", "ja": "天気図" }
+    ],
+    "related": [
+      { "en": "atlas", "ja": "地図帳" },
+      { "en": "globe", "ja": "地球儀" },
+      { "en": "chart", "ja": "海図・図表" }
+    ],
+    "faq": [
+      { "q": "map out の意味は？", "a": "『（計画などを）詳しく立てる・練る』です。" },
+      { "q": "『日本地図』は英語で？", "a": "a map of Japan と言います。" }
+    ],
+    "quiz": [
+      { "q": "a map of the world の意味は？", "A": "世界地図", "B": "地球儀", "C": "世界一周", "D": "世界史", "correct": "A" },
+      { "q": "map out a plan の意味は？", "A": "計画を練る", "B": "計画を捨てる", "C": "計画を隠す", "D": "計画に反対する", "correct": "A" }
+    ]
+  },
+  {
+    "english": "mark",
+    "pron": "mɑːrk",
+    "kana": "マーク",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "noun",
+    "ld_etym": "古英語 mearc(境界・印)",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "日常必須"],
+    "meaning_main": "印／跡／点数／印をつける",
+    "description": "mark（マーク）の意味・使い方。『印・跡・点数』を表す多義の基礎語を、例文とクイズで学習。",
+    "keywords": ["mark 意味", "mark 使い方", "マーク 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】印、跡、記号", "note": "しるし全般。question mark（疑問符）など。" },
+      { "hinshi": "【動詞】印をつける、採点する", "note": "英国では試験を『採点する』の意味でも使う。" }
+    ],
+    "usages": [
+      { "title": "① 印・跡", "desc": "名詞用法。", "example_en": "There is a mark on the wall.", "example_ja": "壁に跡がある。" },
+      { "title": "② 印をつける", "desc": "動詞用法。", "example_en": "Mark the correct answer.", "example_ja": "正しい答えに印をつけて。" }
+    ],
+    "warn": ["英国では成績・点数の意味でも使う（good marks＝良い成績）。米国では grade が一般的。", "『目印にする・注意する』の意味もある（Mark my words＝よく聞け）。"],
+    "etym_note": "古英語 mearc『境界・しるし』に由来。",
+    "etym_chain": [
+      { "node": "mearc (古英語)", "sub": "境界・印", "era": "古英語" },
+      { "node": "mark", "sub": "印・跡", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a question mark", "ja": "疑問符（？）" },
+      { "en": "an exclamation mark", "ja": "感嘆符（！）" },
+      { "en": "leave a mark", "ja": "跡を残す" },
+      { "en": "get good marks", "ja": "良い成績を取る" },
+      { "en": "mark my words", "ja": "私の言うことをよく聞け" },
+      { "en": "a trademark", "ja": "商標" }
+    ],
+    "related": [
+      { "en": "sign", "ja": "しるし・標識" },
+      { "en": "spot", "ja": "しみ・地点" },
+      { "en": "grade", "ja": "成績（米）" }
+    ],
+    "faq": [
+      { "q": "mark に『点数』の意味はある？", "a": "英国英語であります。get good marks で『良い成績を取る』です。" },
+      { "q": "question mark とは？", "a": "疑問符『？』のことです。" }
+    ],
+    "quiz": [
+      { "q": "a question mark とは？", "A": "疑問符（？）", "B": "感嘆符（！）", "C": "句点（。）", "D": "コンマ（,）", "correct": "A" },
+      { "q": "get good marks の意味は？", "A": "良い成績を取る", "B": "印を消す", "C": "遅刻する", "D": "質問する", "correct": "A" }
+    ]
+  },
+  {
+    "english": "market",
+    "pron": "ˈmɑːrkɪt",
+    "kana": "マーケット",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 mercatus(商取引)",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "日常必須"],
+    "meaning_main": "市場／マーケット／販売する",
+    "description": "market（マーケット）の意味・使い方。『市場』を表す基礎語を、経済用法・例文・クイズで学習。",
+    "keywords": ["market 意味", "market 使い方", "マーケット 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】市場、市（いち）", "note": "物を売買する場所。また経済的な『需要・取引の場』。" },
+      { "hinshi": "【動詞】売り出す、販売する", "note": "marketing（マーケティング）はこの派生。" }
+    ],
+    "usages": [
+      { "title": "① 市場（場所）", "desc": "売買の場。", "example_en": "I bought fish at the market.", "example_ja": "私は市場で魚を買った。" },
+      { "title": "② 市場（経済）", "desc": "需要・取引。", "example_en": "The stock market went up.", "example_ja": "株式市場が上がった。" }
+    ],
+    "warn": ["場所の『市場』と、経済の『市場（マーケット）』の両方を表す。", "動詞では『売り込む』。名詞 marketing とセットで覚える。"],
+    "etym_note": "ラテン語 mercatus『商取引・市』に由来。mercari（商う）から。",
+    "etym_chain": [
+      { "node": "mercatus (ラテン語)", "sub": "商取引・市", "era": "古代" },
+      { "node": "market", "sub": "市場", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a fish market", "ja": "魚市場" },
+      { "en": "the stock market", "ja": "株式市場" },
+      { "en": "a supermarket", "ja": "スーパーマーケット" },
+      { "en": "the job market", "ja": "労働市場・求人市場" },
+      { "en": "market price", "ja": "市場価格・時価" },
+      { "en": "on the market", "ja": "売りに出て" }
+    ],
+    "related": [
+      { "en": "marketing", "ja": "マーケティング" },
+      { "en": "shop", "ja": "店" },
+      { "en": "trade", "ja": "取引・貿易" }
+    ],
+    "faq": [
+      { "q": "market の2つの意味は？", "a": "売買する『場所（市場）』と、経済の『市場（需要・取引）』です。" },
+      { "q": "the stock market とは？", "a": "株式市場のことです。" }
+    ],
+    "quiz": [
+      { "q": "the stock market の意味は？", "A": "株式市場", "B": "魚市場", "C": "青空市場", "D": "スーパー", "correct": "A" },
+      { "q": "on the market の意味は？", "A": "売りに出て", "B": "市場の中で", "C": "満員で", "D": "閉店して", "correct": "A" }
+    ]
+  },
+  {
+    "english": "marriage",
+    "pron": "ˈmærɪdʒ",
+    "kana": "マリッジ",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "古フランス語 mariage(結婚)",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "会話頻出"],
+    "meaning_main": "結婚／結婚生活／婚姻",
+    "description": "marriage（マリッジ）の意味・使い方。『結婚』を表す基礎語を、marry との違いや例文・クイズで学習。",
+    "keywords": ["marriage 意味", "marriage marry 違い", "結婚 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】結婚、婚姻", "note": "結婚という状態・制度、または結婚生活。" }
+    ],
+    "usages": [
+      { "title": "① 結婚（制度・状態）", "desc": "名詞。", "example_en": "Their marriage was happy.", "example_ja": "彼らの結婚生活は幸せだった。" },
+      { "title": "② marriage to 〜", "desc": "相手は to で示す。", "example_en": "Her marriage to him surprised us.", "example_ja": "彼女が彼と結婚したことは私たちを驚かせた。" }
+    ],
+    "warn": ["marriage は名詞『結婚』、marry は動詞『結婚する』、married は形容詞『既婚の』。", "『〜と結婚』は marriage to 〜（with ではない）。"],
+    "etym_note": "古フランス語 mariage『結婚』に由来。ラテン語 maritare（結婚させる）から。",
+    "etym_chain": [
+      { "node": "maritare (ラテン語)", "sub": "結婚させる", "era": "古代" },
+      { "node": "mariage (古フランス語)", "sub": "結婚", "era": "中世" },
+      { "node": "marriage", "sub": "結婚", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a happy marriage", "ja": "幸せな結婚生活" },
+      { "en": "marriage to someone", "ja": "〜との結婚" },
+      { "en": "a marriage ceremony", "ja": "結婚式" },
+      { "en": "propose marriage", "ja": "結婚を申し込む" },
+      { "en": "a marriage certificate", "ja": "婚姻証明書" },
+      { "en": "an arranged marriage", "ja": "お見合い結婚" }
+    ],
+    "related": [
+      { "en": "marry", "ja": "結婚する（動詞）" },
+      { "en": "married", "ja": "既婚の" },
+      { "en": "wedding", "ja": "結婚式" }
+    ],
+    "faq": [
+      { "q": "marriage と wedding の違いは？", "a": "marriage は『結婚（状態・制度）』、wedding は『結婚式（儀式）』です。" },
+      { "q": "『彼との結婚』は？", "a": "marriage to him です。to を使います。" }
+    ],
+    "quiz": [
+      { "q": "marriage の品詞は？", "A": "名詞", "B": "動詞", "C": "形容詞", "D": "副詞", "correct": "A" },
+      { "q": "marriage と wedding の違いは？", "A": "wedding は結婚式", "B": "同じ意味", "C": "marriage は式のみ", "D": "wedding は既婚", "correct": "A" }
+    ]
+  },
+  {
+    "english": "marry",
+    "pron": "ˈmæri",
+    "kana": "マリー",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "ラテン語 maritare(結婚させる)",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "会話頻出"],
+    "meaning_main": "結婚する／結婚させる",
+    "description": "marry（マリー）の意味・使い方。『結婚する』を表す基礎動詞を、get married との違いや例文・クイズで学習。",
+    "keywords": ["marry 意味", "marry get married 違い", "結婚する 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】結婚する、〜と結婚する", "note": "marry + 人 で『〜と結婚する』。with は付けない。" }
+    ],
+    "usages": [
+      { "title": "① 〜と結婚する", "desc": "目的語に相手を直接置く。", "example_en": "He married Ann last year.", "example_ja": "彼は昨年アンと結婚した。" },
+      { "title": "② get married to 〜", "desc": "状態の変化を表す。", "example_en": "She got married to a doctor.", "example_ja": "彼女は医師と結婚した。" }
+    ],
+    "warn": ["marry him（○）／marry with him（×）。前置詞は不要。", "『〜と結婚している（状態）』は be married to 〜。"],
+    "etym_note": "ラテン語 maritare『結婚させる』に由来。",
+    "etym_chain": [
+      { "node": "maritare (ラテン語)", "sub": "結婚させる", "era": "古代" },
+      { "node": "marier (古フランス語)", "sub": "結婚させる", "era": "中世" },
+      { "node": "marry", "sub": "結婚する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "marry someone", "ja": "〜と結婚する" },
+      { "en": "get married", "ja": "結婚する（状態変化）" },
+      { "en": "be married to", "ja": "〜と結婚している" },
+      { "en": "marry for love", "ja": "恋愛結婚する" },
+      { "en": "marry into a family", "ja": "〜家に嫁ぐ・婿入りする" },
+      { "en": "Will you marry me?", "ja": "結婚してくれますか？" }
+    ],
+    "related": [
+      { "en": "marriage", "ja": "結婚（名詞）" },
+      { "en": "married", "ja": "既婚の" },
+      { "en": "wed", "ja": "結婚する（文語）" }
+    ],
+    "faq": [
+      { "q": "『彼と結婚する』は marry with him？", "a": "いいえ、marry him です。with は付けません。" },
+      { "q": "marry と get married の違いは？", "a": "marry は動作、get married は『結婚する（状態になる）』を強調します。" }
+    ],
+    "quiz": [
+      { "q": "『彼女と結婚する』の正しい形は？", "A": "marry her", "B": "marry with her", "C": "marry to her", "D": "marry of her", "correct": "A" },
+      { "q": "『結婚してくれますか？』は？", "A": "Will you marry me?", "B": "Will you marry with me?", "C": "Do you marriage me?", "D": "Are you marry me?", "correct": "A" }
+    ]
+  },
+  {
+    "english": "master",
+    "pron": "ˈmæstər",
+    "kana": "マスター",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 magister(師・長)",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "会話頻出"],
+    "meaning_main": "主人／名人／習得する／修士",
+    "description": "master（マスター）の意味・使い方。『主人・名人・習得する』を表す多義語を、例文とクイズで学習。",
+    "keywords": ["master 意味", "master 使い方", "マスター 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】主人、名人、達人", "note": "支配する人、技を極めた人。修士（master's degree）も。" },
+      { "hinshi": "【動詞】習得する、使いこなす", "note": "技術・言語などを完全に身につける。" }
+    ],
+    "usages": [
+      { "title": "① 名人・達人", "desc": "名詞用法。", "example_en": "He is a master of chess.", "example_ja": "彼はチェスの名人だ。" },
+      { "title": "② 習得する", "desc": "動詞用法。", "example_en": "She mastered French.", "example_ja": "彼女はフランス語を習得した。" }
+    ],
+    "warn": ["日本語の『（喫茶店の）マスター』は和製英語寄り。英語では owner などが自然。", "『修士号』は a master's degree。"],
+    "etym_note": "ラテン語 magister『師・長』に由来。",
+    "etym_chain": [
+      { "node": "magister (ラテン語)", "sub": "師・長", "era": "古代" },
+      { "node": "maister (中英語)", "sub": "主人", "era": "中世" },
+      { "node": "master", "sub": "主人・名人", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "master a skill", "ja": "技術を習得する" },
+      { "en": "a master of art", "ja": "芸術の巨匠" },
+      { "en": "a master's degree", "ja": "修士号" },
+      { "en": "a master key", "ja": "マスターキー・親鍵" },
+      { "en": "master and servant", "ja": "主人と召使い" },
+      { "en": "a chess master", "ja": "チェスの名人" }
+    ],
+    "related": [
+      { "en": "expert", "ja": "専門家" },
+      { "en": "owner", "ja": "所有者" },
+      { "en": "mistress", "ja": "女主人" }
+    ],
+    "faq": [
+      { "q": "master の動詞の意味は？", "a": "『（技術・言語を）習得する・使いこなす』です。" },
+      { "q": "『修士号』は英語で？", "a": "a master's degree です。" }
+    ],
+    "quiz": [
+      { "q": "She mastered French. の意味は？", "A": "フランス語を習得した", "B": "フランス語を教えた", "C": "フランス語が苦手だ", "D": "フランス語を忘れた", "correct": "A" },
+      { "q": "a master's degree の意味は？", "A": "修士号", "B": "博士号", "C": "学士号", "D": "免許", "correct": "A" }
+    ]
+  },
+  {
+    "english": "match",
+    "pron": "mætʃ",
+    "kana": "マッチ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "noun",
+    "ld_etym": "古英語 gemæcca(相手)",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "日常必須"],
+    "meaning_main": "試合／マッチ棒／似合う・一致する",
+    "description": "match（マッチ）の意味・使い方。『試合・マッチ棒・一致する』の多義を、例文とクイズで学習。",
+    "keywords": ["match 意味", "match 使い方", "マッチ 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】試合、（火をつける）マッチ、好敵手", "note": "スポーツの試合、火をつける道具、釣り合う相手など。" },
+      { "hinshi": "【動詞】一致する、似合う", "note": "色や条件がぴったり合う。" }
+    ],
+    "usages": [
+      { "title": "① 試合", "desc": "英国で game より一般的。", "example_en": "We watched a soccer match.", "example_ja": "私たちはサッカーの試合を見た。" },
+      { "title": "② 似合う・一致する", "desc": "動詞用法。", "example_en": "This tie matches your shirt.", "example_ja": "このネクタイはシャツに似合う。" }
+    ],
+    "warn": ["火の『マッチ』と『試合』と『一致する』は全て同じ綴り。文脈で判断。", "英国では試合を match、米国では game と言う傾向。"],
+    "etym_note": "『相手・つり合うもの』は古英語 gemæcca に由来。火のマッチは別語源（ろうそくの芯 mèche）。",
+    "etym_chain": [
+      { "node": "gemæcca (古英語)", "sub": "相手・仲間", "era": "古英語" },
+      { "node": "match", "sub": "つり合う相手・試合", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a soccer match", "ja": "サッカーの試合" },
+      { "en": "light a match", "ja": "マッチをする" },
+      { "en": "a perfect match", "ja": "完璧な組み合わせ・お似合い" },
+      { "en": "match the colors", "ja": "色を合わせる" },
+      { "en": "a good match", "ja": "良い相手・好取組" },
+      { "en": "no match for", "ja": "〜には敵わない" }
+    ],
+    "related": [
+      { "en": "game", "ja": "試合（米）" },
+      { "en": "fit", "ja": "合う" },
+      { "en": "pair", "ja": "組・対" }
+    ],
+    "faq": [
+      { "q": "match と game の違いは？", "a": "英国では試合を match、米国では game と言うことが多いです。" },
+      { "q": "no match for の意味は？", "a": "『〜には敵わない・かなわない』です。" }
+    ],
+    "quiz": [
+      { "q": "a soccer match の意味は？", "A": "サッカーの試合", "B": "サッカー選手", "C": "サッカー場", "D": "サッカーボール", "correct": "A" },
+      { "q": "This tie matches your shirt. の match の意味は？", "A": "似合う", "B": "燃やす", "C": "試合する", "D": "壊す", "correct": "A" }
+    ]
+  }
+]
