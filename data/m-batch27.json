@@ -1,0 +1,475 @@
+[
+  {
+    "english": "momentous",
+    "pron": "moʊˈmentəs",
+    "kana": "モメンタス",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "moment(重要性) + -ous",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "英作文で有用"],
+    "meaning_main": "重大な／重要な／画期的な",
+    "description": "momentous（モメンタス）の意味・使い方。『重大な・画期的な』を表す形容詞を、例文とクイズで学習。",
+    "keywords": ["momentous 意味", "momentous 使い方", "重大 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】重大な、画期的な", "note": "歴史的に重要で影響が大きい。" }
+    ],
+    "usages": [
+      { "title": "① 重大な", "desc": "出来事・決定。", "example_en": "a momentous decision", "example_ja": "重大な決断" },
+      { "title": "② 画期的な", "desc": "歴史的。", "example_en": "a momentous occasion", "example_ja": "画期的な出来事" }
+    ],
+    "warn": ["moment（瞬間）ではなく moment（重要性）の派生。『重大な』の意味。", "momentary（一瞬の）とは別語なので注意。"],
+    "etym_note": "moment『重要性』に -ous が付いた語。",
+    "etym_chain": [
+      { "node": "momentum (ラテン語)", "sub": "動き・重み", "era": "古代" },
+      { "node": "momentous", "sub": "重大な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a momentous decision", "ja": "重大な決断" },
+      { "en": "a momentous occasion", "ja": "画期的な出来事" },
+      { "en": "a momentous event", "ja": "重大な出来事" },
+      { "en": "a momentous day", "ja": "記念すべき日" },
+      { "en": "a momentous change", "ja": "重大な変化" },
+      { "en": "of momentous importance", "ja": "極めて重要な" }
+    ],
+    "related": [
+      { "en": "significant", "ja": "重要な" },
+      { "en": "historic", "ja": "歴史的な" },
+      { "en": "momentary", "ja": "一瞬の" }
+    ],
+    "faq": [
+      { "q": "momentous と momentary の違いは？", "a": "momentous は『重大な』、momentary は『一瞬の』です。混同しないよう注意。" },
+      { "q": "a momentous decision の意味は？", "a": "『重大な決断』です。" }
+    ],
+    "quiz": [
+      { "q": "a momentous decision の意味は？", "A": "重大な決断", "B": "一瞬の迷い", "C": "簡単な選択", "D": "小さな変更", "correct": "A" },
+      { "q": "momentous と紛らわしい語は？", "A": "momentary", "B": "memorable", "C": "monotonous", "D": "monstrous", "correct": "A" }
+    ]
+  },
+  {
+    "english": "monarchy",
+    "pron": "ˈmɑːnərki",
+    "kana": "モナーキー",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ギリシャ語 monarkhia(単独支配)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "歴史で頻出"],
+    "meaning_main": "君主制／王政／君主国",
+    "description": "monarchy（モナーキー）の意味・使い方。『君主制・王政』を表す語を、republic との対比や例文・クイズで学習。",
+    "keywords": ["monarchy 意味", "monarchy 使い方", "君主制 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】君主制、王政", "note": "国王・女王などの君主が治める政治体制。" },
+      { "hinshi": "【名詞】君主国", "note": "君主が統治する国。" }
+    ],
+    "usages": [
+      { "title": "① 君主制", "desc": "政治体制。", "example_en": "a constitutional monarchy", "example_ja": "立憲君主制" },
+      { "title": "② 王政", "desc": "統治形態。", "example_en": "abolish the monarchy", "example_ja": "君主制を廃止する" }
+    ],
+    "warn": ["対義語は republic（共和制）。", "君主は monarch。『立憲君主制』は a constitutional monarchy。"],
+    "etym_note": "ギリシャ語 monarkhia『単独支配』に由来。monos（単一）＋arkhein（支配する）。",
+    "etym_chain": [
+      { "node": "monarkhia (ギリシャ語)", "sub": "単独支配", "era": "古代" },
+      { "node": "monarchy", "sub": "君主制", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a constitutional monarchy", "ja": "立憲君主制" },
+      { "en": "an absolute monarchy", "ja": "絶対君主制" },
+      { "en": "abolish the monarchy", "ja": "君主制を廃止する" },
+      { "en": "the British monarchy", "ja": "英国王室・君主制" },
+      { "en": "support the monarchy", "ja": "君主制を支持する" },
+      { "en": "the fall of the monarchy", "ja": "王政の崩壊" }
+    ],
+    "related": [
+      { "en": "monarch", "ja": "君主" },
+      { "en": "republic", "ja": "共和制" },
+      { "en": "kingdom", "ja": "王国" }
+    ],
+    "faq": [
+      { "q": "monarchy の対義語は？", "a": "republic（共和制）です。" },
+      { "q": "a constitutional monarchy の意味は？", "a": "『立憲君主制（憲法で君主の権限が制限される制度）』です。" }
+    ],
+    "quiz": [
+      { "q": "a constitutional monarchy の意味は？", "A": "立憲君主制", "B": "共和制", "C": "民主制", "D": "独裁制", "correct": "A" },
+      { "q": "monarchy の対義語は？", "A": "republic", "B": "monarch", "C": "kingdom", "D": "empire", "correct": "A" }
+    ]
+  },
+  {
+    "english": "monopolize",
+    "pron": "məˈnɑːpəlaɪz",
+    "kana": "モノポライズ",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "monopoly(独占) + -ize",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "英作文で有用"],
+    "meaning_main": "独占する／独り占めする",
+    "description": "monopolize（モノポライズ）の意味・使い方。『独占する・独り占めする』を表す動詞を、例文とクイズで学習。",
+    "keywords": ["monopolize 意味", "monopolize 使い方", "独占 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】独占する、独り占めする", "note": "市場・話題・時間などを一人・一社で占める。" }
+    ],
+    "usages": [
+      { "title": "① 市場を独占する", "desc": "経済。", "example_en": "monopolize the market", "example_ja": "市場を独占する" },
+      { "title": "② 独り占めする", "desc": "会話など。", "example_en": "monopolize the conversation", "example_ja": "会話を独占する" }
+    ],
+    "warn": ["名詞は monopoly（独占）。英綴りは monopolise。", "『会話を独り占めする』のような日常的な使い方も。"],
+    "etym_note": "monopoly（独占）に動詞化語尾 -ize が付いた語。",
+    "etym_chain": [
+      { "node": "monopoly (現代英語)", "sub": "独占", "era": "現代英語" },
+      { "node": "monopolize", "sub": "独占する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "monopolize the market", "ja": "市場を独占する" },
+      { "en": "monopolize the conversation", "ja": "会話を独り占めする" },
+      { "en": "monopolize someone's time", "ja": "〜の時間を独占する" },
+      { "en": "monopolize an industry", "ja": "産業を独占する" },
+      { "en": "monopolize attention", "ja": "注目を独占する" },
+      { "en": "monopolize control", "ja": "支配を独占する" }
+    ],
+    "related": [
+      { "en": "monopoly", "ja": "独占" },
+      { "en": "dominate", "ja": "支配する" },
+      { "en": "control", "ja": "支配する" }
+    ],
+    "faq": [
+      { "q": "monopolize の名詞形は？", "a": "monopoly（独占）です。" },
+      { "q": "monopolize the conversation の意味は？", "a": "『会話を独り占めする（一人でしゃべり続ける）』です。" }
+    ],
+    "quiz": [
+      { "q": "monopolize the market の意味は？", "A": "市場を独占する", "B": "市場を開放する", "C": "市場から撤退する", "D": "市場を調べる", "correct": "A" },
+      { "q": "monopolize の名詞形は？", "A": "monopoly", "B": "monopolization のみ", "C": "monopol", "D": "monopolism", "correct": "A" }
+    ]
+  },
+  {
+    "english": "morsel",
+    "pron": "ˈmɔːrsl",
+    "kana": "モーセル",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "古フランス語 morsel(ひとかじり)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "会話頻出"],
+    "meaning_main": "一口／少量／ひとかけら",
+    "description": "morsel（モーセル）の意味・使い方。『一口・少量』を表す語を、例文とクイズで学習。",
+    "keywords": ["morsel 意味", "morsel 使い方", "一口 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】一口、ひとかけら、少量", "note": "食べ物の小さな一片。ごく少量。可算名詞。" }
+    ],
+    "usages": [
+      { "title": "① 一口", "desc": "食べ物。", "example_en": "a morsel of bread", "example_ja": "一口のパン" },
+      { "title": "② ごく少量", "desc": "比喩。", "example_en": "a morsel of information", "example_ja": "わずかな情報" }
+    ],
+    "warn": ["食べ物の『一口・ひとかけら』が基本。比喩で『わずかな〜』にも。", "a morsel of 〜 で『ひとかけらの〜』。"],
+    "etym_note": "古フランス語 morsel『ひとかじり』に由来。mordre（かむ）から。",
+    "etym_chain": [
+      { "node": "morsel (古フランス語)", "sub": "ひとかじり", "era": "中世" },
+      { "node": "morsel", "sub": "一口", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a morsel of food", "ja": "一口の食べ物" },
+      { "en": "a tasty morsel", "ja": "おいしい一口" },
+      { "en": "a morsel of bread", "ja": "一口のパン" },
+      { "en": "a morsel of information", "ja": "わずかな情報" },
+      { "en": "not a morsel", "ja": "少しも〜ない" },
+      { "en": "every last morsel", "ja": "最後のひとかけらまで" }
+    ],
+    "related": [
+      { "en": "bite", "ja": "一口" },
+      { "en": "piece", "ja": "かけら" },
+      { "en": "crumb", "ja": "パンくず・ごく少量" }
+    ],
+    "faq": [
+      { "q": "a morsel of information の意味は？", "a": "『わずかな情報・ひとかけらの情報』です。" },
+      { "q": "not a morsel の意味は？", "a": "『少しも〜ない（一口も〜ない）』です。" }
+    ],
+    "quiz": [
+      { "q": "a morsel of bread の意味は？", "A": "一口のパン", "B": "一斤のパン", "C": "焼きたてのパン", "D": "古いパン", "correct": "A" },
+      { "q": "morsel の意味は？", "A": "一口・少量", "B": "大盛り", "C": "食器", "D": "食卓", "correct": "A" }
+    ]
+  },
+  {
+    "english": "mosque",
+    "pron": "mɑːsk",
+    "kana": "モスク",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "アラビア語 masjid(礼拝所)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "会話頻出"],
+    "meaning_main": "モスク／イスラム教の礼拝所",
+    "description": "mosque（モスク）の意味・使い方。『モスク』を表す語を、例文とクイズでわかりやすく学習。",
+    "keywords": ["mosque 意味", "mosque 使い方", "モスク 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】モスク、イスラム教の礼拝所", "note": "イスラム教徒が礼拝する建物。可算名詞。" }
+    ],
+    "usages": [
+      { "title": "① モスク", "desc": "可算名詞。", "example_en": "pray at a mosque", "example_ja": "モスクで祈る" },
+      { "title": "② 建築", "desc": "礼拝所。", "example_en": "a beautiful old mosque", "example_ja": "美しい古いモスク" }
+    ],
+    "warn": ["キリスト教は church、仏教は temple、イスラム教は mosque。", "発音は /mɑːsk/（モスク）。綴りに que。"],
+    "etym_note": "アラビア語 masjid『礼拝所（ひれ伏す場所）』に由来。",
+    "etym_chain": [
+      { "node": "masjid (アラビア語)", "sub": "礼拝所", "era": "中世" },
+      { "node": "mosque", "sub": "モスク", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "pray at a mosque", "ja": "モスクで祈る" },
+      { "en": "a grand mosque", "ja": "大モスク" },
+      { "en": "the Blue Mosque", "ja": "ブルーモスク" },
+      { "en": "go to the mosque", "ja": "モスクへ行く" },
+      { "en": "the dome of a mosque", "ja": "モスクのドーム" },
+      { "en": "a historic mosque", "ja": "歴史あるモスク" }
+    ],
+    "related": [
+      { "en": "church", "ja": "教会" },
+      { "en": "temple", "ja": "寺院" },
+      { "en": "Islam", "ja": "イスラム教" }
+    ],
+    "faq": [
+      { "q": "イスラム教の礼拝所は英語で？", "a": "mosque（モスク）です。" },
+      { "q": "mosque の発音は？", "a": "/mɑːsk/（モスク）です。" }
+    ],
+    "quiz": [
+      { "q": "mosque の意味は？", "A": "イスラム教の礼拝所", "B": "教会", "C": "寺院", "D": "神社", "correct": "A" },
+      { "q": "pray at a mosque の意味は？", "A": "モスクで祈る", "B": "モスクを建てる", "C": "モスクを訪ねる", "D": "モスクを描く", "correct": "A" }
+    ]
+  },
+  {
+    "english": "motorway",
+    "pron": "ˈmoʊtərweɪ",
+    "kana": "モーターウェイ",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "motor(自動車) + way(道)",
+    "ld_level": "準1級",
+    "badges": ["大学生〜", "英検準1級", "CEFR B2", "日常必須"],
+    "meaning_main": "高速道路（英）",
+    "description": "motorway（モーターウェイ）の意味・使い方。『高速道路』を表す語を、highway との違いや例文・クイズで学習。",
+    "keywords": ["motorway 意味", "motorway highway 違い", "高速道路 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】高速道路（英国）", "note": "自動車専用の高速道路。英国での言い方。可算名詞。" }
+    ],
+    "usages": [
+      { "title": "① 高速道路", "desc": "英国。", "example_en": "drive on the motorway", "example_ja": "高速道路を走る" },
+      { "title": "② 交通", "desc": "幹線。", "example_en": "a busy motorway", "example_ja": "混雑した高速道路" }
+    ],
+    "warn": ["英国では motorway、米国では highway / freeway / expressway。", "『高速で』は on the motorway（in ではない）。"],
+    "etym_note": "motor（自動車）＋way（道）から。",
+    "etym_chain": [
+      { "node": "motor + way", "sub": "自動車の道", "era": "近代" },
+      { "node": "motorway", "sub": "高速道路", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "on the motorway", "ja": "高速道路で" },
+      { "en": "a busy motorway", "ja": "混雑した高速道路" },
+      { "en": "a motorway junction", "ja": "高速道路のジャンクション" },
+      { "en": "join the motorway", "ja": "高速道路に入る" },
+      { "en": "a motorway service area", "ja": "高速のサービスエリア" },
+      { "en": "a three-lane motorway", "ja": "3車線の高速道路" }
+    ],
+    "related": [
+      { "en": "highway", "ja": "幹線道路（米）" },
+      { "en": "freeway", "ja": "高速道路（米）" },
+      { "en": "expressway", "ja": "高速道路" }
+    ],
+    "faq": [
+      { "q": "motorway と highway の違いは？", "a": "どちらも高速道路。motorway は英国、highway は米国で一般的です。" },
+      { "q": "『高速道路で』は英語で？", "a": "on the motorway です（in ではありません）。" }
+    ],
+    "quiz": [
+      { "q": "motorway の意味は？", "A": "高速道路（英）", "B": "自動車工場", "C": "駐車場", "D": "交差点", "correct": "A" },
+      { "q": "米国で『高速道路』を表すのは？", "A": "highway", "B": "motorway", "C": "roadway", "D": "byway", "correct": "A" }
+    ]
+  },
+  {
+    "english": "mucus",
+    "pron": "ˈmjuːkəs",
+    "kana": "ミューカス",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 mucus(粘液)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "理科で頻出"],
+    "meaning_main": "粘液／鼻水",
+    "description": "mucus（ミューカス）の意味・使い方。『粘液・鼻水』を表す語を、例文とクイズで学習。",
+    "keywords": ["mucus 意味", "mucus 使い方", "粘液 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】粘液、鼻水", "note": "鼻や気道などから出るねばねばした液。不可算。" }
+    ],
+    "usages": [
+      { "title": "① 粘液", "desc": "医学・生物。", "example_en": "The nose produces mucus.", "example_ja": "鼻は粘液を作る。" },
+      { "title": "② 鼻水", "desc": "日常。", "example_en": "clear mucus", "example_ja": "透明な鼻水" }
+    ],
+    "warn": ["形容詞は mucous（粘液の）。名詞 mucus と綴りが違うので注意。", "『粘膜』は mucous membrane。"],
+    "etym_note": "ラテン語 mucus『粘液』に由来。",
+    "etym_chain": [
+      { "node": "mucus (ラテン語)", "sub": "粘液", "era": "古代" },
+      { "node": "mucus", "sub": "粘液", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "produce mucus", "ja": "粘液を出す" },
+      { "en": "clear mucus", "ja": "透明な粘液" },
+      { "en": "thick mucus", "ja": "濃い粘液" },
+      { "en": "nasal mucus", "ja": "鼻の粘液・鼻水" },
+      { "en": "a mucous membrane", "ja": "粘膜" },
+      { "en": "excess mucus", "ja": "過剰な粘液" }
+    ],
+    "related": [
+      { "en": "mucous", "ja": "粘液の" },
+      { "en": "phlegm", "ja": "痰" },
+      { "en": "saliva", "ja": "唾液" }
+    ],
+    "faq": [
+      { "q": "mucus と mucous の違いは？", "a": "mucus は名詞『粘液』、mucous は形容詞『粘液の』です。" },
+      { "q": "a mucous membrane の意味は？", "a": "『粘膜』です。" }
+    ],
+    "quiz": [
+      { "q": "mucus の意味は？", "A": "粘液・鼻水", "B": "血液", "C": "汗", "D": "涙", "correct": "A" },
+      { "q": "『粘液の』を表す形容詞は？", "A": "mucous", "B": "mucus", "C": "mucusy", "D": "mucal", "correct": "A" }
+    ]
+  },
+  {
+    "english": "muffle",
+    "pron": "ˈmʌfl",
+    "kana": "マッフル",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "古フランス語 mofle(厚手の手袋)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "会話頻出"],
+    "meaning_main": "（音を）消す・弱める／（暖かく）くるむ",
+    "description": "muffle（マッフル）の意味・使い方。『（音を）消す・くるむ』を表す動詞を、例文とクイズで学習。",
+    "keywords": ["muffle 意味", "muffle 使い方", "音を消す 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】（音を）消す、弱める", "note": "音をこもらせて小さくする。" },
+      { "hinshi": "【動詞】（暖かく）くるむ、包む", "note": "muffle up で『（防寒に）体を包む』。" }
+    ],
+    "usages": [
+      { "title": "① 音を弱める", "desc": "音を。", "example_en": "muffle the sound", "example_ja": "音を弱める" },
+      { "title": "② くるむ", "desc": "防寒。", "example_en": "muffle up in a scarf", "example_ja": "マフラーで身を包む" }
+    ],
+    "warn": ["『マフラー（襟巻き）』muffler と同語源。音を『こもらせる』ニュアンス。", "a muffled voice で『くぐもった声』。"],
+    "etym_note": "古フランス語 mofle『厚手の手袋』に由来。包む・こもらせるの意味へ。",
+    "etym_chain": [
+      { "node": "mofle (古フランス語)", "sub": "厚手の手袋", "era": "中世" },
+      { "node": "muffle", "sub": "音を消す・くるむ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "muffle the sound", "ja": "音を弱める" },
+      { "en": "a muffled voice", "ja": "くぐもった声" },
+      { "en": "muffle up", "ja": "暖かく身を包む" },
+      { "en": "muffle one's cough", "ja": "咳を抑える" },
+      { "en": "muffled footsteps", "ja": "こもった足音" },
+      { "en": "muffle a scream", "ja": "叫び声を抑える" }
+    ],
+    "related": [
+      { "en": "muffler", "ja": "マフラー・消音器" },
+      { "en": "silence", "ja": "静める" },
+      { "en": "wrap", "ja": "包む" }
+    ],
+    "faq": [
+      { "q": "a muffled voice の意味は？", "a": "『くぐもった声・こもった声』です。" },
+      { "q": "muffle up の意味は？", "a": "『（防寒に）暖かく身を包む』です。" }
+    ],
+    "quiz": [
+      { "q": "muffle the sound の意味は？", "A": "音を弱める", "B": "音を大きくする", "C": "音を録音する", "D": "音を流す", "correct": "A" },
+      { "q": "a muffled voice の意味は？", "A": "くぐもった声", "B": "大きな声", "C": "澄んだ声", "D": "高い声", "correct": "A" }
+    ]
+  },
+  {
+    "english": "multitude",
+    "pron": "ˈmʌltɪtuːd",
+    "kana": "マルチチュード",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 multitudo(多数)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "英作文で有用"],
+    "meaning_main": "多数／大勢／群衆",
+    "description": "multitude（マルチチュード）の意味・使い方。『多数・大勢』を表す語を、例文とクイズで学習。",
+    "keywords": ["multitude 意味", "multitude 使い方", "多数 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】多数、大勢", "note": "a multitude of 〜 で『多数の〜』。ややかたい。" },
+      { "hinshi": "【名詞】群衆", "note": "the multitude で『大衆』。" }
+    ],
+    "usages": [
+      { "title": "① 多数", "desc": "a multitude of。", "example_en": "a multitude of problems", "example_ja": "多数の問題" },
+      { "title": "② 群衆", "desc": "大勢の人。", "example_en": "a vast multitude", "example_ja": "膨大な群衆" }
+    ],
+    "warn": ["a multitude of 〜 で『無数の・多数の〜』。文語的。", "『欠点を覆い隠す』の cover a multitude of sins という慣用も。"],
+    "etym_note": "ラテン語 multitudo『多数』に由来。multus（多い）から。",
+    "etym_chain": [
+      { "node": "multitudo (ラテン語)", "sub": "多数", "era": "古代" },
+      { "node": "multitude", "sub": "多数", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a multitude of", "ja": "多数の〜" },
+      { "en": "a vast multitude", "ja": "膨大な群衆" },
+      { "en": "for a multitude of reasons", "ja": "さまざまな理由で" },
+      { "en": "the multitude", "ja": "大衆" },
+      { "en": "a multitude of stars", "ja": "無数の星" },
+      { "en": "cover a multitude of sins", "ja": "多くの欠点を覆い隠す" }
+    ],
+    "related": [
+      { "en": "crowd", "ja": "群衆" },
+      { "en": "throng", "ja": "群集" },
+      { "en": "myriad", "ja": "無数の" }
+    ],
+    "faq": [
+      { "q": "a multitude of の意味は？", "a": "『多数の・無数の〜』です。ややかたい表現です。" },
+      { "q": "the multitude の意味は？", "a": "『大衆・一般の人々』です。" }
+    ],
+    "quiz": [
+      { "q": "a multitude of problems の意味は？", "A": "多数の問題", "B": "一つの問題", "C": "解決した問題", "D": "小さな問題", "correct": "A" },
+      { "q": "multitude に最も近い語は？", "A": "crowd", "B": "single", "C": "silence", "D": "solitude", "correct": "A" }
+    ]
+  },
+  {
+    "english": "municipality",
+    "pron": "mjuːˌnɪsɪˈpæləti",
+    "kana": "ミュニシパリティ",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 municipium(自治市)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "ニュース頻出"],
+    "meaning_main": "地方自治体／市町村",
+    "description": "municipality（ミュニシパリティ）の意味・使い方。『地方自治体・市町村』を表す語を、例文とクイズで学習。",
+    "keywords": ["municipality 意味", "municipality 使い方", "自治体 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】地方自治体、市町村", "note": "自治権を持つ市・町・村などの行政単位。可算名詞。" }
+    ],
+    "usages": [
+      { "title": "① 地方自治体", "desc": "行政単位。", "example_en": "the local municipality", "example_ja": "地元の自治体" },
+      { "title": "② 市町村", "desc": "行政区分。", "example_en": "a rural municipality", "example_ja": "農村自治体" }
+    ],
+    "warn": ["形容詞は municipal（市の・自治体の）。", "『市役所』は city hall / municipal office。"],
+    "etym_note": "ラテン語 municipium『自治市』に由来。",
+    "etym_chain": [
+      { "node": "municipium (ラテン語)", "sub": "自治市", "era": "古代" },
+      { "node": "municipality", "sub": "地方自治体", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the local municipality", "ja": "地元の自治体" },
+      { "en": "a rural municipality", "ja": "農村自治体" },
+      { "en": "run by the municipality", "ja": "自治体が運営する" },
+      { "en": "a municipality's budget", "ja": "自治体の予算" },
+      { "en": "each municipality", "ja": "各市町村" },
+      { "en": "merge municipalities", "ja": "市町村を合併する" }
+    ],
+    "related": [
+      { "en": "municipal", "ja": "市の・自治体の" },
+      { "en": "city", "ja": "市" },
+      { "en": "town", "ja": "町" }
+    ],
+    "faq": [
+      { "q": "municipality の形容詞形は？", "a": "municipal（市の・自治体の）です。" },
+      { "q": "municipality の意味は？", "a": "『地方自治体・市町村』です。" }
+    ],
+    "quiz": [
+      { "q": "the local municipality の意味は？", "A": "地元の自治体", "B": "地元の学校", "C": "地元の会社", "D": "地元の店", "correct": "A" },
+      { "q": "municipality の形容詞形は？", "A": "municipal", "B": "municipalic", "C": "municipalous", "D": "municipial", "correct": "A" }
+    ]
+  }
+]
