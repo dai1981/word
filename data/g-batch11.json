@@ -1,0 +1,495 @@
+[
+  {
+    "english": "grasp",
+    "pron": "ɡræsp",
+    "kana": "グラスプ",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "verb",
+    "ld_etym": "中英語 graspen（つかむ）に由来",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "しっかりつかむ / 理解する / 把握",
+    "description": "grasp（グラスプ）の意味・発音・使い方。しっかりつかむ・理解する・把握を表す頻出英単語。例文・語源・クイズで学べます。",
+    "keywords": ["grasp 意味", "grasp 使い方", "grasp 例文", "つかむ 理解 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】しっかりつかむ、握る", "note": "力を入れて握る。grasp a rope（ロープをつかむ）。" },
+      { "hinshi": "【動詞】理解する、把握する", "note": "grasp the meaning（意味を理解する）。" },
+      { "hinshi": "【名詞】理解、把握", "note": "a good grasp of ~（～のよい理解）。" }
+    ],
+    "usages": [
+      { "title": "① しっかりつかむ", "desc": "物理的に握る", "example_en": "He grasped my hand firmly.", "example_ja": "彼は私の手をしっかり握った。" },
+      { "title": "② 理解する", "desc": "抽象的に把握", "example_en": "I couldn't grasp what he meant.", "example_ja": "私は彼の言いたいことを理解できなかった。" }
+    ],
+    "warn": ["grip（握り続ける）と近いが、grasp は『理解する』の比喩でよく使う。a grasp of ~ で『～の理解度』。"],
+    "etym_note": "中英語 graspen（手さぐりでつかむ）に由来するゲルマン系の語。grab・grip と同じ語群で、『手でしっかり握る』ことから『頭でつかむ＝理解する』へ広がった。",
+    "etym_chain": [
+      { "node": "graspen", "sub": "つかむ", "era": "中英語" },
+      { "node": "grasp", "sub": "しっかりつかむ", "era": "近代英語" },
+      { "node": "grasp", "sub": "つかむ・理解する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "grasp a rope", "ja": "ロープをつかむ" },
+      { "en": "grasp the meaning", "ja": "意味を理解する" },
+      { "en": "a good grasp of ~", "ja": "～のよい理解" },
+      { "en": "within one's grasp", "ja": "手の届く範囲に" },
+      { "en": "beyond one's grasp", "ja": "理解・力の及ばない" },
+      { "en": "grasp an opportunity", "ja": "好機をつかむ" }
+    ],
+    "related": [
+      { "en": "grip", "ja": "しっかり握る" },
+      { "en": "understand", "ja": "理解する" },
+      { "en": "seize", "ja": "つかむ" }
+    ],
+    "faq": [
+      { "q": "grasp と understand の違いは？", "a": "どちらも『理解する』ですが、grasp は難しいことを『しっかりつかんで理解する』ニュアンスがあります。" },
+      { "q": "a good grasp of ~ とは？", "a": "『～についてよく理解していること』を表す表現です。" }
+    ],
+    "quiz": [
+      { "q": "「私は彼の言いたいことを理解できなかった」= I couldn't ___ what he meant.", "A": "grasp", "B": "gasp", "C": "guess", "D": "greet", "correct": "A" },
+      { "q": "a good grasp of ~ の意味は？", "A": "～のよい理解", "B": "～の大きな損失", "C": "～の速い動き", "D": "～の暗い部屋", "correct": "A" }
+    ]
+  },
+  {
+    "english": "generate",
+    "pron": "ˈdʒenəreɪt",
+    "kana": "ジェネレイト",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "ラテン語 generare（生み出す）に由来",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "生み出す / 発生させる / 発電する",
+    "description": "generate（ジェネレイト）の意味・発音・使い方。生み出す・発生させる・発電するを表す頻出英単語。例文・語源・クイズで学べます。",
+    "keywords": ["generate 意味", "generate 使い方", "generate 例文", "生み出す 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】生み出す、発生させる", "note": "新たに作り出す。generate ideas（アイデアを生む）。" },
+      { "hinshi": "【動詞】(電気・熱などを)発生させる", "note": "generate electricity（発電する）。" }
+    ],
+    "usages": [
+      { "title": "① 生み出す", "desc": "作り出す", "example_en": "The plan will generate new jobs.", "example_ja": "その計画は新たな雇用を生み出すだろう。" },
+      { "title": "② 発電する", "desc": "エネルギー", "example_en": "This dam generates electricity.", "example_ja": "このダムは電気を発生させる。" }
+    ],
+    "warn": ["名詞は generation（発生・世代）、generator（発電機）。create（創造する）と近いが、generate は継続的・技術的に『生み出す』ニュアンス。"],
+    "etym_note": "ラテン語 generare（生む・生み出す、genus＝種類 に由来）から。generation（世代）、generous（気前のよい）と同じ語根で、『生み出す』を核とする。",
+    "etym_chain": [
+      { "node": "generare", "sub": "生み出す", "era": "ラテン語" },
+      { "node": "generate", "sub": "生み出す", "era": "近代英語" },
+      { "node": "generate", "sub": "生み出す・発生させる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "generate electricity", "ja": "発電する" },
+      { "en": "generate ideas", "ja": "アイデアを生む" },
+      { "en": "generate income", "ja": "収入を生む" },
+      { "en": "generate interest", "ja": "関心を呼ぶ" },
+      { "en": "generate power", "ja": "電力を生む" },
+      { "en": "generate heat", "ja": "熱を発生させる" }
+    ],
+    "related": [
+      { "en": "create", "ja": "創造する" },
+      { "en": "produce", "ja": "生産する" },
+      { "en": "generator", "ja": "発電機" }
+    ],
+    "faq": [
+      { "q": "generate の名詞形は？", "a": "generation（発生・世代）や generator（発電機）があります。" },
+      { "q": "generate と create の違いは？", "a": "create は『無から創り出す』、generate は電気やアイデアなどを『継続的・技術的に生み出す』ニュアンスです。" }
+    ],
+    "quiz": [
+      { "q": "「このダムは電気を発生させる」= This dam ___ electricity.", "A": "generates", "B": "gathers", "C": "governs", "D": "grabs", "correct": "A" },
+      { "q": "generate の名詞形（発電機）は？", "A": "generator", "B": "generation", "C": "generous", "D": "genius", "correct": "A" }
+    ]
+  },
+  {
+    "english": "gene",
+    "pron": "dʒiːn",
+    "kana": "ジーン",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ギリシャ語 genos（生まれ・種）に由来",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "遺伝子",
+    "description": "gene（ジーン）の意味・発音・使い方。生物の遺伝情報を担う遺伝子を表す頻出英単語。例文・語源・クイズで学べます。",
+    "keywords": ["gene 意味", "gene 使い方", "gene 例文", "遺伝子 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】遺伝子", "note": "親から子へ形質を伝える単位。carry a gene（遺伝子を持つ）。" }
+    ],
+    "usages": [
+      { "title": "① 遺伝子", "desc": "生物の情報", "example_en": "Genes determine our eye color.", "example_ja": "遺伝子が私たちの目の色を決める。" },
+      { "title": "② 遺伝で受け継ぐ", "desc": "inherit a gene", "example_en": "She inherited the gene from her mother.", "example_ja": "彼女はその遺伝子を母から受け継いだ。" }
+    ],
+    "warn": ["発音は /dʒiːn/ で人名 Jean と同じ音。形容詞は genetic（遺伝の）。ジーンズ（jeans）とは別語。"],
+    "etym_note": "ギリシャ語 genos（生まれ・種・血統）に由来する語で、20世紀初めに遺伝の単位を表す学術語として作られた。genetics（遺伝学）も同語源。",
+    "etym_chain": [
+      { "node": "genos", "sub": "生まれ・種", "era": "古代ギリシャ語" },
+      { "node": "gene", "sub": "遺伝子（造語）", "era": "20世紀初頭" },
+      { "node": "gene", "sub": "遺伝子", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "carry a gene", "ja": "遺伝子を持つ" },
+      { "en": "a dominant gene", "ja": "優性遺伝子" },
+      { "en": "a recessive gene", "ja": "劣性遺伝子" },
+      { "en": "gene therapy", "ja": "遺伝子治療" },
+      { "en": "in one's genes", "ja": "生まれつきの資質で" },
+      { "en": "a defective gene", "ja": "欠陥のある遺伝子" }
+    ],
+    "related": [
+      { "en": "genetic", "ja": "遺伝の" },
+      { "en": "DNA", "ja": "DNA" },
+      { "en": "heredity", "ja": "遺伝" }
+    ],
+    "faq": [
+      { "q": "gene の形容詞形は？", "a": "genetic（遺伝の・遺伝子の）です。" },
+      { "q": "in one's genes とは？", "a": "『生まれつき備わっている・遺伝的な』ことを表す表現です。" }
+    ],
+    "quiz": [
+      { "q": "「遺伝子が私たちの目の色を決める」= ___ determine our eye color.", "A": "Genes", "B": "Germs", "C": "Gems", "D": "Gears", "correct": "A" },
+      { "q": "gene の形容詞形は？", "A": "genetic", "B": "general", "C": "genuine", "D": "generous", "correct": "A" }
+    ]
+  },
+  {
+    "english": "gender",
+    "pron": "ˈdʒendər",
+    "kana": "ジェンダー",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 genus（種類）に由来",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "性別 / (社会的・文法上の)性",
+    "description": "gender（ジェンダー）の意味・発音・使い方。性別・社会的な性・文法上の性を表す頻出英単語。例文・語源・クイズで学べます。",
+    "keywords": ["gender 意味", "gender 使い方", "gender 例文", "性別 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】性別、（社会的な）性", "note": "男女などの区分。gender equality（男女平等）。" },
+      { "hinshi": "【名詞】(文法の)性", "note": "名詞の性（男性・女性・中性）。" }
+    ],
+    "usages": [
+      { "title": "① 性別", "desc": "男女の区分", "example_en": "The form asks for your name and gender.", "example_ja": "その用紙は名前と性別を尋ねる。" },
+      { "title": "② 男女平等", "desc": "gender equality", "example_en": "We should work for gender equality.", "example_ja": "私たちは男女平等のために取り組むべきだ。" }
+    ],
+    "warn": ["sex（生物学的な性）に対し、gender は社会的・文化的な『性』を指すことが多い。gender equality（男女平等）は頻出。"],
+    "etym_note": "ラテン語 genus（種類・区分）に由来し、フランス語を経て英語に入った。もとは『種類・分類』の意で、そこから『性別・（文法の）性』の意味になった。genre（ジャンル）と同語源。",
+    "etym_chain": [
+      { "node": "genus", "sub": "種類・区分", "era": "ラテン語" },
+      { "node": "gendre", "sub": "種類・性", "era": "古フランス語" },
+      { "node": "gender", "sub": "性別", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "gender equality", "ja": "男女平等" },
+      { "en": "gender gap", "ja": "男女格差" },
+      { "en": "gender roles", "ja": "性別による役割" },
+      { "en": "regardless of gender", "ja": "性別に関係なく" },
+      { "en": "gender difference", "ja": "性差" },
+      { "en": "name and gender", "ja": "名前と性別" }
+    ],
+    "related": [
+      { "en": "sex", "ja": "性（生物学的）" },
+      { "en": "equality", "ja": "平等" },
+      { "en": "male", "ja": "男性の" }
+    ],
+    "faq": [
+      { "q": "gender と sex の違いは？", "a": "sex は生物学的な性、gender は社会的・文化的な性を指すことが多いです。" },
+      { "q": "gender equality とは？", "a": "『男女平等』を意味し、社会でよく使われる重要語です。" }
+    ],
+    "quiz": [
+      { "q": "「その用紙は名前と性別を尋ねる」= The form asks for your name and ___.", "A": "gender", "B": "gene", "C": "genius", "D": "general", "correct": "A" },
+      { "q": "gender equality の意味は？", "A": "男女平等", "B": "世代交代", "C": "地球温暖化", "D": "総選挙", "correct": "A" }
+    ]
+  },
+  {
+    "english": "gem",
+    "pron": "dʒem",
+    "kana": "ジェム",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 gemma（宝石・つぼみ）に由来",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "宝石 / 逸品 / 貴重な人",
+    "description": "gem（ジェム）の意味・発音・使い方。宝石・逸品・貴重な人を表す頻出英単語。例文・語源・クイズで学べます。",
+    "keywords": ["gem 意味", "gem 使い方", "gem 例文", "宝石 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】宝石", "note": "磨いた貴石。a precious gem（貴重な宝石）。jewel とほぼ同じ。" },
+      { "hinshi": "【名詞】逸品、すばらしいもの・人", "note": "比喩で『貴重な存在』。a hidden gem（隠れた名品）。" }
+    ],
+    "usages": [
+      { "title": "① 宝石", "desc": "貴石として", "example_en": "The ring is set with precious gems.", "example_ja": "その指輪には貴重な宝石がはめ込まれている。" },
+      { "title": "② 逸品・貴重な存在", "desc": "比喩的に", "example_en": "This little café is a real gem.", "example_ja": "この小さなカフェは本当の逸品だ。" }
+    ],
+    "warn": ["jewel とほぼ同義。比喩で『すばらしい人・もの』を表す用法が重要。a hidden gem（隠れた名所・名品）。"],
+    "etym_note": "ラテン語 gemma（宝石・芽・つぼみ）に由来し、古フランス語を経て英語に入った。もとは『芽』の意もあり、輝く小さなものを表した。",
+    "etym_chain": [
+      { "node": "gemma", "sub": "宝石・つぼみ", "era": "ラテン語" },
+      { "node": "gemme", "sub": "宝石", "era": "古フランス語" },
+      { "node": "gem", "sub": "宝石・逸品", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a precious gem", "ja": "貴重な宝石" },
+      { "en": "a hidden gem", "ja": "隠れた名品・名所" },
+      { "en": "a real gem", "ja": "本物の逸品" },
+      { "en": "cut a gem", "ja": "宝石を研磨する" },
+      { "en": "a rare gem", "ja": "希少な宝石" },
+      { "en": "gems and jewels", "ja": "宝石類" }
+    ],
+    "related": [
+      { "en": "jewel", "ja": "宝石" },
+      { "en": "diamond", "ja": "ダイヤモンド" },
+      { "en": "treasure", "ja": "宝物" }
+    ],
+    "faq": [
+      { "q": "gem と jewel の違いは？", "a": "ほぼ同義ですが、gem は磨いた『宝石そのもの』、jewel は宝石を使った『宝飾品』を指すこともあります。" },
+      { "q": "a hidden gem とは？", "a": "あまり知られていない『隠れた名所・名品』を表す比喩表現です。" }
+    ],
+    "quiz": [
+      { "q": "「この小さなカフェは本当の逸品だ」= This little café is a real ___.", "A": "gem", "B": "gene", "C": "germ", "D": "gear", "correct": "A" },
+      { "q": "gem に近い意味の語は？", "A": "jewel", "B": "garbage", "C": "grass", "D": "goat", "correct": "A" }
+    ]
+  },
+  {
+    "english": "gum",
+    "pron": "ɡʌm",
+    "kana": "ガム",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 gummi（樹脂）に由来",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "基本語"],
+    "meaning_main": "ガム / 樹脂 / 歯ぐき",
+    "description": "gum（ガム）の意味・発音・使い方。チューインガム・樹脂・歯ぐきを表す基本英単語。例文・語源・クイズで学べます。",
+    "keywords": ["gum 意味", "gum 使い方", "gum 例文", "ガム 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】チューインガム", "note": "かんで楽しむ菓子。chewing gum の略。chew gum（ガムをかむ）。" },
+      { "hinshi": "【名詞】ゴム、樹脂", "note": "植物から出る粘りけのある物質。" },
+      { "hinshi": "【名詞】(ふつう複数gumsで)歯ぐき", "note": "healthy gums（健康な歯ぐき）。" }
+    ],
+    "usages": [
+      { "title": "① ガム（菓子）", "desc": "chew gum", "example_en": "She is chewing gum.", "example_ja": "彼女はガムをかんでいる。" },
+      { "title": "② 歯ぐき", "desc": "複数形 gums", "example_en": "Brush your teeth to keep your gums healthy.", "example_ja": "歯ぐきを健康に保つために歯をみがきなさい。" }
+    ],
+    "warn": ["菓子の『ガム』は数えない名詞。1枚は a piece of gum。『歯ぐき』はふつう複数形 gums。"],
+    "etym_note": "ラテン語 gummi（樹脂・ゴム）に由来し、古フランス語を経て英語に入った。もとは植物の樹脂を指し、そこからかむ菓子『ガム』の意味にも広がった。",
+    "etym_chain": [
+      { "node": "gummi", "sub": "樹脂・ゴム", "era": "ラテン語" },
+      { "node": "gomme", "sub": "ゴム・樹脂", "era": "古フランス語" },
+      { "node": "gum", "sub": "ガム・樹脂・歯ぐき", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "chew gum", "ja": "ガムをかむ" },
+      { "en": "chewing gum", "ja": "チューインガム" },
+      { "en": "a piece of gum", "ja": "ガム1枚" },
+      { "en": "bubble gum", "ja": "風船ガム" },
+      { "en": "healthy gums", "ja": "健康な歯ぐき" },
+      { "en": "stick of gum", "ja": "板ガム1枚" }
+    ],
+    "related": [
+      { "en": "candy", "ja": "キャンディー" },
+      { "en": "rubber", "ja": "ゴム" },
+      { "en": "tooth", "ja": "歯" }
+    ],
+    "faq": [
+      { "q": "gum は数えられる？", "a": "菓子の『ガム』は数えない名詞で、1枚は a piece of gum と言います。" },
+      { "q": "『歯ぐき』はどう使う？", "a": "ふつう複数形 gums で使い、healthy gums（健康な歯ぐき）のように言います。" }
+    ],
+    "quiz": [
+      { "q": "「彼女はガムをかんでいる」= She is chewing ___.", "A": "gum", "B": "gem", "C": "gene", "D": "gear", "correct": "A" },
+      { "q": "複数形 gums の意味は？", "A": "歯ぐき", "B": "手袋", "C": "めがね", "D": "くつ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "gulf",
+    "pron": "ɡʌlf",
+    "kana": "ガルフ",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ギリシャ語 kolpos（湾・ふところ）に由来",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "湾 / 大きな隔たり",
+    "description": "gulf（ガルフ）の意味・発音・使い方。大きな湾・深い隔たりを表す頻出英単語。例文・語源・クイズで学べます。",
+    "keywords": ["gulf 意味", "gulf 使い方", "gulf 例文", "湾 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】湾", "note": "陸に深く入り込んだ大きな海。bay より大きい。the Gulf of Mexico（メキシコ湾）。" },
+      { "hinshi": "【名詞】大きな隔たり、深い溝", "note": "意見や立場の大きな差。a gulf between ~（～の間の深い溝）。" }
+    ],
+    "usages": [
+      { "title": "① 湾", "desc": "地形として", "example_en": "The Gulf of Mexico is very large.", "example_ja": "メキシコ湾はとても大きい。" },
+      { "title": "② 大きな隔たり", "desc": "比喩的に", "example_en": "There is a wide gulf between the two sides.", "example_ja": "両者の間には大きな隔たりがある。" }
+    ],
+    "warn": ["bay（小さめの湾）より大きい湾を gulf と言う。比喩で『埋めがたい大きな隔たり』も表す。"],
+    "etym_note": "ギリシャ語 kolpos（湾・ふところ）に由来し、イタリア語・フランス語を経て英語に入った。地形の『湾』から、比喩的な『深い隔たり』の意味にも広がった。",
+    "etym_chain": [
+      { "node": "kolpos", "sub": "湾・ふところ", "era": "古代ギリシャ語" },
+      { "node": "golfe", "sub": "湾", "era": "古フランス語" },
+      { "node": "gulf", "sub": "湾・隔たり", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the Gulf of Mexico", "ja": "メキシコ湾" },
+      { "en": "the Persian Gulf", "ja": "ペルシャ湾" },
+      { "en": "a gulf between ~", "ja": "～の間の深い溝" },
+      { "en": "a wide gulf", "ja": "大きな隔たり" },
+      { "en": "bridge the gulf", "ja": "隔たりを埋める" },
+      { "en": "the Gulf Stream", "ja": "メキシコ湾流" }
+    ],
+    "related": [
+      { "en": "bay", "ja": "湾" },
+      { "en": "sea", "ja": "海" },
+      { "en": "gap", "ja": "隔たり" }
+    ],
+    "faq": [
+      { "q": "gulf と bay の違いは？", "a": "どちらも湾ですが、gulf は大きく深く入り込んだ湾、bay はより小さめの湾を指すことが多いです。" },
+      { "q": "比喩の gulf とは？", "a": "意見や立場の『埋めがたい大きな隔たり』を表します。" }
+    ],
+    "quiz": [
+      { "q": "「メキシコ湾はとても大きい」= The ___ of Mexico is very large.", "A": "Gulf", "B": "Gum", "C": "Gene", "D": "Gem", "correct": "A" },
+      { "q": "比喩の a gulf between ~ の意味は？", "A": "～の間の深い隔たり", "B": "～の間の橋", "C": "～の間の道", "D": "～の間の壁のみ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "gospel",
+    "pron": "ˈɡɒspl",
+    "kana": "ゴスペル",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "古英語 gōdspel（よい知らせ）に由来",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "福音 / ゴスペル / 絶対の真実",
+    "description": "gospel（ゴスペル）の意味・発音・使い方。福音・ゴスペル音楽・絶対の真実を表す頻出英単語。例文・語源・クイズで学べます。",
+    "keywords": ["gospel 意味", "gospel 使い方", "gospel 例文", "福音 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】福音", "note": "キリストの教え・新約聖書の福音書。the Gospel（福音）。" },
+      { "hinshi": "【名詞】ゴスペル(音楽)", "note": "黒人教会から生まれた宗教音楽。gospel music。" },
+      { "hinshi": "【名詞】絶対の真実", "note": "take ~ as gospel（～を絶対と信じる）。" }
+    ],
+    "usages": [
+      { "title": "① 福音", "desc": "宗教的な教え", "example_en": "The priest read from the Gospel.", "example_ja": "司祭は福音書を読み上げた。" },
+      { "title": "② ゴスペル音楽", "desc": "音楽ジャンル", "example_en": "She sings in a gospel choir.", "example_ja": "彼女はゴスペル聖歌隊で歌っている。" }
+    ],
+    "warn": ["take something as gospel で『～を絶対の真実として信じる』。音楽ジャンルの『ゴスペル』もこの語。"],
+    "etym_note": "古英語 gōdspel（gōd＝よい + spel＝知らせ）で『よい知らせ＝福音』を意味した。ギリシャ語 euangelion（福音）の翻訳語として作られた。",
+    "etym_chain": [
+      { "node": "gōd + spel", "sub": "よい + 知らせ", "era": "古英語" },
+      { "node": "gospel", "sub": "福音", "era": "中英語" },
+      { "node": "gospel", "sub": "福音・ゴスペル", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the Gospel", "ja": "福音（書）" },
+      { "en": "gospel music", "ja": "ゴスペル音楽" },
+      { "en": "a gospel choir", "ja": "ゴスペル聖歌隊" },
+      { "en": "spread the gospel", "ja": "福音を広める" },
+      { "en": "take it as gospel", "ja": "それを絶対と信じる" },
+      { "en": "the gospel truth", "ja": "絶対の真実" }
+    ],
+    "related": [
+      { "en": "faith", "ja": "信仰" },
+      { "en": "church", "ja": "教会" },
+      { "en": "Bible", "ja": "聖書" }
+    ],
+    "faq": [
+      { "q": "gospel の元の意味は？", "a": "古英語で『よい知らせ』を意味し、キリスト教の『福音』を表すようになりました。" },
+      { "q": "take it as gospel とは？", "a": "『それを絶対の真実として信じる』という意味の表現です。" }
+    ],
+    "quiz": [
+      { "q": "「彼女はゴスペル聖歌隊で歌っている」= She sings in a ___ choir.", "A": "gospel", "B": "gossip", "C": "grocery", "D": "golden", "correct": "A" },
+      { "q": "gospel のもとの意味は？", "A": "よい知らせ", "B": "悪い夢", "C": "重い荷物", "D": "長い旅", "correct": "A" }
+    ]
+  },
+  {
+    "english": "gossip",
+    "pron": "ˈɡɒsɪp",
+    "kana": "ゴシップ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "noun",
+    "ld_etym": "古英語 godsibb（名づけ親・親しい人）に由来",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "うわさ話 / 陰口 / うわさ話をする",
+    "description": "gossip（ゴシップ）の意味・発音・使い方。うわさ話・陰口・うわさ話をするを表す頻出英単語。例文・語源・クイズで学べます。",
+    "keywords": ["gossip 意味", "gossip 使い方", "gossip 例文", "うわさ話 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】うわさ話、陰口", "note": "他人についての私的な話。数えない名詞。spread gossip（うわさを広める）。" },
+      { "hinshi": "【動詞】うわさ話をする", "note": "gossip about ~（～についてうわさする）。" }
+    ],
+    "usages": [
+      { "title": "① うわさ話", "desc": "名詞として", "example_en": "Don't believe every piece of gossip.", "example_ja": "うわさ話を何でも信じてはいけない。" },
+      { "title": "② うわさをする", "desc": "動詞として", "example_en": "They gossiped about their neighbors.", "example_ja": "彼らは近所の人たちのうわさをした。" }
+    ],
+    "warn": ["うわさ話の意味では数えない名詞。1つの話題は a piece of gossip。しばしば否定的な『陰口』を含む。"],
+    "etym_note": "古英語 godsibb（god＝神 + sibb＝親族、『名づけ親』の意）に由来する。親しい人同士の内輪話から、『うわさ話』の意味に変化した。",
+    "etym_chain": [
+      { "node": "godsibb", "sub": "名づけ親・親しい人", "era": "古英語" },
+      { "node": "gossib", "sub": "親しい仲間・世間話", "era": "中英語" },
+      { "node": "gossip", "sub": "うわさ話", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "spread gossip", "ja": "うわさを広める" },
+      { "en": "a piece of gossip", "ja": "うわさ話1つ" },
+      { "en": "gossip about ~", "ja": "～のうわさをする" },
+      { "en": "idle gossip", "ja": "くだらないうわさ話" },
+      { "en": "the latest gossip", "ja": "最新のうわさ" },
+      { "en": "a gossip column", "ja": "ゴシップ欄" }
+    ],
+    "related": [
+      { "en": "rumor", "ja": "うわさ" },
+      { "en": "chat", "ja": "おしゃべり" },
+      { "en": "whisper", "ja": "ささやく" }
+    ],
+    "faq": [
+      { "q": "gossip と rumor の違いは？", "a": "gossip は身近な人についての『うわさ話・陰口』、rumor は真偽の不確かな『うわさ』全般を指します。" },
+      { "q": "数えられる？", "a": "数えない名詞です。1つの話題は a piece of gossip と言います。" }
+    ],
+    "quiz": [
+      { "q": "「彼らは近所の人たちのうわさをした」= They ___ about their neighbors.", "A": "gossiped", "B": "gasped", "C": "grasped", "D": "gathered", "correct": "A" },
+      { "q": "gossip に近い意味の語は？", "A": "rumor", "B": "gospel", "C": "grammar", "D": "grocery", "correct": "A" }
+    ]
+  },
+  {
+    "english": "glide",
+    "pron": "ɡlaɪd",
+    "kana": "グライド",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "verb",
+    "ld_etym": "古英語 glīdan（滑る）に由来",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "滑るように動く / 滑空する / 滑走",
+    "description": "glide（グライド）の意味・発音・使い方。滑るように動く・滑空する・滑走を表す頻出英単語。例文・語源・クイズで学べます。",
+    "keywords": ["glide 意味", "glide 使い方", "glide 例文", "滑る 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】滑るように動く", "note": "なめらかに音もなく進む。glide across the ice（氷上を滑るように進む）。" },
+      { "hinshi": "【動詞】(鳥・グライダーが)滑空する", "note": "エンジンなしで空を滑る。" },
+      { "hinshi": "【名詞】滑走、滑空", "note": "a smooth glide（なめらかな滑走）。" }
+    ],
+    "usages": [
+      { "title": "① 滑るように動く", "desc": "なめらかな動き", "example_en": "The skaters glided across the ice.", "example_ja": "スケーターたちは氷上を滑るように進んだ。" },
+      { "title": "② 滑空する", "desc": "空を滑る", "example_en": "The bird glided through the air.", "example_ja": "その鳥は空を滑空した。" }
+    ],
+    "warn": ["slide（滑り落ちる・すべる）と近いが、glide は『なめらかに優雅に滑る』ニュアンス。グライダー（glider）はこの語から。"],
+    "etym_note": "古英語 glīdan（滑る・なめらかに進む）に由来するゲルマン系の語。『音もなくなめらかに動く』ことを表し、glider（グライダー）もこの語からできた。",
+    "etym_chain": [
+      { "node": "glīdan", "sub": "滑る", "era": "古英語" },
+      { "node": "gliden", "sub": "滑る", "era": "中英語" },
+      { "node": "glide", "sub": "滑るように動く・滑空する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "glide across the ice", "ja": "氷上を滑るように進む" },
+      { "en": "glide through the air", "ja": "空を滑空する" },
+      { "en": "glide silently", "ja": "音もなく滑る" },
+      { "en": "a smooth glide", "ja": "なめらかな滑走" },
+      { "en": "glide over the water", "ja": "水面を滑るように進む" },
+      { "en": "glide down", "ja": "滑り降りる" }
+    ],
+    "related": [
+      { "en": "slide", "ja": "すべる" },
+      { "en": "float", "ja": "浮かぶ" },
+      { "en": "glider", "ja": "グライダー" }
+    ],
+    "faq": [
+      { "q": "glide と slide の違いは？", "a": "slide は『すべる・すべり落ちる』全般、glide は『なめらかで優雅に音もなく滑る』ニュアンスがあります。" },
+      { "q": "glider との関係は？", "a": "glider（グライダー＝滑空機）は、glide（滑空する）に『～するもの』を表す -er がついた語です。" }
+    ],
+    "quiz": [
+      { "q": "「スケーターたちは氷上を滑るように進んだ」= The skaters ___ across the ice.", "A": "glided", "B": "grasped", "C": "gossiped", "D": "gasped", "correct": "A" },
+      { "q": "glide の意味に近いのは？", "A": "滑るように動く", "B": "飛び跳ねる", "C": "立ち止まる", "D": "転がり落ちる", "correct": "A" }
+    ]
+  }
+]
