@@ -1,0 +1,483 @@
+[
+  {
+    "english": "gentrify",
+    "pron": "ˈdʒentrɪfaɪ",
+    "kana": "ジェントリファイ",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "gentry（上流階級）+ -fy（〜化する）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "社会"],
+    "meaning_main": "（地区を）高級化する / 中産階級化する",
+    "description": "gentrify（ジェントリファイ）の意味・使い方・例文。労働者街などが再開発で高級化し中産階級化する、という社会用語を解説。",
+    "keywords": ["gentrify 意味", "gentrify 使い方", "ジェントリフィケーション", "高級化 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】（地区を）高級化する / 中産階級化する", "note": "古い下町が再開発で高級化し、地価上昇で元の住民が押し出される現象。" }
+    ],
+    "usages": [
+      { "title": "① 地区の高級化", "desc": "再開発による変化。", "example_en": "The old district has been gentrified.", "example_ja": "その古い地区は高級化された。" },
+      { "title": "② 住民の入れ替わり", "desc": "社会問題として。", "example_en": "Gentrifying the area pushed out longtime residents.", "example_ja": "地区の高級化は昔からの住民を追い出した。" }
+    ],
+    "warn": ["gentrify の名詞は gentrification（ジェントリフィケーション）。しばしば「元住民の追い出し」という否定的文脈で使う。"],
+    "etym_note": "gentry（上流・地主階級。古フランス語 genterie から）に「〜化する」を表す -fy が付いた造語。1960年代に社会学者 Ruth Glass が用いた。",
+    "etym_chain": [
+      { "node": "genterie", "sub": "上流階級", "era": "古フランス語" },
+      { "node": "gentry", "sub": "地主・上流階級", "era": "16世紀英語" },
+      { "node": "gentrify", "sub": "高級化する", "era": "1960年代英語" }
+    ],
+    "phrases": [
+      { "en": "gentrify a neighborhood", "ja": "地区を高級化する" },
+      { "en": "a gentrified area", "ja": "高級化した地区" },
+      { "en": "rapidly gentrifying", "ja": "急速に高級化して" },
+      { "en": "resist gentrification", "ja": "高級化に抵抗する" },
+      { "en": "gentrify the waterfront", "ja": "ウォーターフロントを再開発する" },
+      { "en": "increasingly gentrified", "ja": "ますます高級化して" }
+    ],
+    "related": [
+      { "en": "gentrification", "ja": "ジェントリフィケーション・高級化" },
+      { "en": "redevelop", "ja": "再開発する" },
+      { "en": "urban", "ja": "都市の" }
+    ],
+    "faq": [
+      { "q": "gentrify はなぜ問題視される？", "a": "地価や家賃が上がり、もとから住んでいた低所得の住民が住み続けられなくなる（追い出される）ためです。" },
+      { "q": "gentrify の名詞形は？", "a": "gentrification（ジェントリフィケーション・高級化）です。" }
+    ],
+    "quiz": [
+      { "q": "「その古い地区は高級化された」= The old district has been ___.", "A": "gentrified", "B": "glorified", "C": "gratified", "D": "germinated", "correct": "A" },
+      { "q": "gentrify の名詞形は？", "A": "gentrification", "B": "generation", "C": "germination", "D": "gravitation", "correct": "A" }
+    ]
+  },
+  {
+    "english": "genome",
+    "pron": "ˈdʒiːnoʊm",
+    "kana": "ジーノーム",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "gene（遺伝子）+ chromosome（染色体）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "科学"],
+    "meaning_main": "ゲノム / 全遺伝情報",
+    "description": "genome（ジーノーム）の意味・使い方・例文。生物がもつ遺伝子の全体、全遺伝情報（ゲノム）、という意味の科学用語を解説。",
+    "keywords": ["genome 意味", "genome 使い方", "ゲノム 英語", "全遺伝情報 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】ゲノム / 全遺伝情報", "note": "ある生物がもつ遺伝子（DNA）の一そろい全体。" }
+    ],
+    "usages": [
+      { "title": "① 全遺伝情報", "desc": "生物学の用語。", "example_en": "Scientists mapped the human genome.", "example_ja": "科学者たちはヒトゲノムを解読した。" },
+      { "title": "② 遺伝子研究", "desc": "医療への応用。", "example_en": "Genome sequencing helps diagnose diseases.", "example_ja": "ゲノム解析は病気の診断に役立つ。" }
+    ],
+    "warn": ["genome は「全遺伝情報」、gene は「個々の遺伝子」。発音は「ジーノーム」。形容詞は genomic。"],
+    "etym_note": "gene（遺伝子）と chromosome（染色体）を合成した語で、1920年ごろドイツ語 Genom から。「遺伝子の総体」を表す。",
+    "etym_chain": [
+      { "node": "genos", "sub": "生まれ・種族", "era": "古代ギリシャ語" },
+      { "node": "Genom", "sub": "遺伝子の総体", "era": "1920年ドイツ語" },
+      { "node": "genome", "sub": "ゲノム", "era": "20世紀英語" }
+    ],
+    "phrases": [
+      { "en": "the human genome", "ja": "ヒトゲノム" },
+      { "en": "genome sequencing", "ja": "ゲノム解析" },
+      { "en": "map the genome", "ja": "ゲノムを解読する" },
+      { "en": "genome editing", "ja": "ゲノム編集" },
+      { "en": "the entire genome", "ja": "全ゲノム" },
+      { "en": "a viral genome", "ja": "ウイルスのゲノム" }
+    ],
+    "related": [
+      { "en": "gene", "ja": "遺伝子" },
+      { "en": "DNA", "ja": "デオキシリボ核酸（DNA）" },
+      { "en": "chromosome", "ja": "染色体" }
+    ],
+    "faq": [
+      { "q": "genome と gene の違いは？", "a": "gene は「個々の遺伝子」、genome はその生物がもつ「遺伝子の総体（全遺伝情報）」を指します。" },
+      { "q": "genome の形容詞は？", "a": "genomic（ゲノムの）です。" }
+    ],
+    "quiz": [
+      { "q": "「科学者たちはヒトゲノムを解読した」= Scientists mapped the human ___.", "A": "genome", "B": "gnome", "C": "genre", "D": "gender", "correct": "A" },
+      { "q": "genome の意味は？", "A": "全遺伝情報", "B": "細胞膜", "C": "血液型", "D": "神経細胞", "correct": "A" }
+    ]
+  },
+  {
+    "english": "generational",
+    "pron": "ˌdʒenəˈreɪʃənl",
+    "kana": "ジェネレイショナル",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "generation（世代）+ -al",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "社会"],
+    "meaning_main": "世代の / 世代間の / 世代特有の",
+    "description": "generational（ジェネレイショナル）の意味・使い方・例文。世代の、世代間の、世代特有の、という意味の形容詞を解説。",
+    "keywords": ["generational 意味", "generational 使い方", "世代間の 英語", "世代の 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】世代の / 世代間の", "note": "世代に関する、または世代の間の。" },
+      { "hinshi": "【形容詞】世代特有の / 何世代も続く", "note": "「generational wealth」で「何世代も受け継がれる富」。" }
+    ],
+    "usages": [
+      { "title": "① 世代間の違い", "desc": "世代の差。", "example_en": "There is a generational gap in values.", "example_ja": "価値観に世代間の隔たりがある。" },
+      { "title": "② 何世代も続く", "desc": "世代をまたぐ。", "example_en": "They built generational wealth.", "example_ja": "彼らは何世代も続く富を築いた。" }
+    ],
+    "warn": ["generational は名詞 generation（世代）の形容詞。「generational gap（世代間格差）」「generational change（世代交代）」など頻出。"],
+    "etym_note": "名詞 generation（世代。ラテン語 generare「生む」から）に形容詞語尾 -al が付いた語。",
+    "etym_chain": [
+      { "node": "generare", "sub": "生む", "era": "ラテン語" },
+      { "node": "generation", "sub": "世代", "era": "14世紀英語" },
+      { "node": "generational", "sub": "世代の", "era": "19世紀英語" }
+    ],
+    "phrases": [
+      { "en": "generational gap", "ja": "世代間格差" },
+      { "en": "generational change", "ja": "世代交代" },
+      { "en": "generational wealth", "ja": "何世代も続く富" },
+      { "en": "generational differences", "ja": "世代間の違い" },
+      { "en": "a generational shift", "ja": "世代の移り変わり" },
+      { "en": "generational trauma", "ja": "世代を越えて続く心の傷" }
+    ],
+    "related": [
+      { "en": "generation", "ja": "世代" },
+      { "en": "intergenerational", "ja": "世代間の" },
+      { "en": "hereditary", "ja": "遺伝の・世襲の" }
+    ],
+    "faq": [
+      { "q": "generational gap とは？", "a": "考え方や価値観における「世代間の隔たり・ギャップ」を指します。" },
+      { "q": "generational の名詞は？", "a": "generation（世代）です。" }
+    ],
+    "quiz": [
+      { "q": "「価値観に世代間の隔たりがある」= There is a ___ gap in values.", "A": "generational", "B": "geographical", "C": "geometrical", "D": "gravitational", "correct": "A" },
+      { "q": "generational の名詞形は？", "A": "generation", "B": "generosity", "C": "generality", "D": "germination", "correct": "A" }
+    ]
+  },
+  {
+    "english": "galvanic",
+    "pron": "ɡælˈvænɪk",
+    "kana": "ギャルヴァニック",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "人名 Galvani（ガルバーニ）+ -ic",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "科学"],
+    "meaning_main": "電流の / ガルバニ電気の / はっとさせる",
+    "description": "galvanic（ギャルヴァニック）の意味・使い方・例文。電流の、ガルバニ電気の、はっと刺激するような、という意味の形容詞を解説。",
+    "keywords": ["galvanic 意味", "galvanic 使い方", "ガルバニ電気 英語", "電流の 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】電流の / ガルバニ電気の", "note": "化学反応で生じる電流に関する。「galvanic cell」で「ガルバニ電池」。" },
+      { "hinshi": "【形容詞】はっとさせる / 衝撃的な", "note": "電気ショックのように人を突き動かすさま。" }
+    ],
+    "usages": [
+      { "title": "① 電気化学の用語", "desc": "電流に関する。", "example_en": "A galvanic cell produces electricity from a chemical reaction.", "example_ja": "ガルバニ電池は化学反応から電気を生む。" },
+      { "title": "② 衝撃的な効果", "desc": "比喩的用法。", "example_en": "The speech had a galvanic effect on the crowd.", "example_ja": "その演説は群衆をはっと突き動かす効果があった。" }
+    ],
+    "warn": ["galvanic は「電流の」と「はっとさせる」の二義。動詞 galvanize（電気を通す・活気づける）と関連。"],
+    "etym_note": "イタリアの科学者 Luigi Galvani（ガルバーニ。カエルの筋肉と電気の実験で有名）の名に -ic が付いた語。",
+    "etym_chain": [
+      { "node": "Galvani", "sub": "人名（科学者）", "era": "18世紀イタリア" },
+      { "node": "galvanic", "sub": "電流の・はっとさせる", "era": "18〜19世紀英語" }
+    ],
+    "phrases": [
+      { "en": "a galvanic cell", "ja": "ガルバニ電池" },
+      { "en": "galvanic current", "ja": "ガルバニ電流" },
+      { "en": "a galvanic effect", "ja": "はっとさせる効果" },
+      { "en": "galvanic skin response", "ja": "皮膚電気反応（GSR）" },
+      { "en": "a galvanic reaction", "ja": "電気化学反応・衝撃的反応" },
+      { "en": "galvanic energy", "ja": "ガルバニ電気エネルギー" }
+    ],
+    "related": [
+      { "en": "galvanize", "ja": "電気を通す・活気づける" },
+      { "en": "electric", "ja": "電気の" },
+      { "en": "voltaic", "ja": "ボルタ電気の" }
+    ],
+    "faq": [
+      { "q": "galvanic の由来は？", "a": "カエルの筋肉と電気の実験で知られるイタリアの科学者 Luigi Galvani の名に由来します。" },
+      { "q": "galvanic の比喩的な意味は？", "a": "電気ショックのように「人をはっと突き動かす・衝撃的な」という意味でも使われます。" }
+    ],
+    "quiz": [
+      { "q": "「その演説は群衆をはっと突き動かす効果があった」= The speech had a ___ effect on the crowd.", "A": "galvanic", "B": "generic", "C": "genetic", "D": "geographic", "correct": "A" },
+      { "q": "galvanic の由来となった人物は？", "A": "ガルバーニ", "B": "ニュートン", "C": "ダーウィン", "D": "エジソン", "correct": "A" }
+    ]
+  },
+  {
+    "english": "gauzy",
+    "pron": "ˈɡɔːzi",
+    "kana": "ゴージー",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "gauze（薄織物・ガーゼ）+ -y",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "性質"],
+    "meaning_main": "薄く透けた / ガーゼのような / おぼろげな",
+    "description": "gauzy（ゴージー）の意味・使い方・例文。ガーゼのように薄く透けた、おぼろげな、という意味の形容詞を解説。",
+    "keywords": ["gauzy 意味", "gauzy 使い方", "薄く透けた 英語", "ガーゼのような 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】薄く透けた / ガーゼのような", "note": "薄手で向こうが透けて見える生地のようす。" },
+      { "hinshi": "【形容詞】おぼろげな / かすんだ", "note": "比喩で、はっきりしないぼんやりしたさま。" }
+    ],
+    "usages": [
+      { "title": "① 薄い生地", "desc": "透ける布。", "example_en": "She wore a gauzy white dress.", "example_ja": "彼女は薄く透けた白いドレスを着ていた。" },
+      { "title": "② おぼろげな印象", "desc": "比喩的用法。", "example_en": "The scene was seen through a gauzy haze.", "example_ja": "その光景はおぼろげなもやを通して見えた。" }
+    ],
+    "warn": ["gauzy は名詞 gauze（薄織物・医療用ガーゼ）の形容詞。発音は「ゴージー」/ˈɡɔːzi/。"],
+    "etym_note": "名詞 gauze（薄い織物。パレスチナの都市 Gaza が原産地とする説がある）に -y が付いた形容詞。",
+    "etym_chain": [
+      { "node": "gauze", "sub": "薄織物・ガーゼ", "era": "16世紀英語" },
+      { "node": "gauzy", "sub": "薄く透けた", "era": "18世紀英語" }
+    ],
+    "phrases": [
+      { "en": "a gauzy dress", "ja": "薄く透けたドレス" },
+      { "en": "gauzy curtains", "ja": "薄手のカーテン" },
+      { "en": "a gauzy veil", "ja": "薄いベール" },
+      { "en": "gauzy fabric", "ja": "透ける生地" },
+      { "en": "a gauzy haze", "ja": "おぼろげなもや" },
+      { "en": "gauzy light", "ja": "やわらかくかすんだ光" }
+    ],
+    "related": [
+      { "en": "gauze", "ja": "薄織物・ガーゼ" },
+      { "en": "sheer", "ja": "透けるほど薄い" },
+      { "en": "diaphanous", "ja": "透き通るような・薄い" }
+    ],
+    "faq": [
+      { "q": "gauzy と sheer の違いは？", "a": "どちらも「薄く透ける」ですが、gauzy は特にガーゼのようにふんわり織られた薄さを表します。" },
+      { "q": "gauzy の名詞は？", "a": "gauze（薄織物・医療用ガーゼ）です。" }
+    ],
+    "quiz": [
+      { "q": "「彼女は薄く透けた白いドレスを着ていた」= She wore a ___ white dress.", "A": "gauzy", "B": "gaudy", "C": "gusty", "D": "grubby", "correct": "A" },
+      { "q": "gauzy の名詞形は？", "A": "gauze", "B": "gaze", "C": "gauge", "D": "gorge", "correct": "A" }
+    ]
+  },
+  {
+    "english": "gaslight",
+    "pron": "ˈɡæslaɪt",
+    "kana": "ガスライト",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "verb",
+    "ld_etym": "gas（ガス）+ light（灯り）／映画 Gaslight から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "心理"],
+    "meaning_main": "（心理的に）思い込ませて正気を疑わせる / ガス灯",
+    "description": "gaslight（ガスライト）の意味・使い方・例文。相手にうそを信じ込ませ自分の正気を疑わせる心理的操作、という意味の動詞・名詞を解説。",
+    "keywords": ["gaslight 意味", "gaslighting 意味", "ガスライティング 英語", "心理操作 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】（心理操作で）正気を疑わせる", "note": "うそや否定を繰り返し、相手に自分の記憶・判断を疑わせる操作。" },
+      { "hinshi": "【名詞】ガス灯", "note": "文字どおりの「ガスの灯り」。" }
+    ],
+    "usages": [
+      { "title": "① 心理的操作", "desc": "現代的な用法。", "example_en": "He tried to gaslight her into doubting herself.", "example_ja": "彼は彼女に自分を疑わせようと心理操作しようとした。" },
+      { "title": "② 記憶を否定する", "desc": "相手を混乱させる。", "example_en": "Stop gaslighting me—I know what I saw.", "example_ja": "私を惑わすのはやめて。見たものは分かっている。" }
+    ],
+    "warn": ["現代の中心的な意味は「心理的に正気を疑わせる操作」。名詞形 gaslighting でよく使う。由来は1944年の映画『ガス燈』。"],
+    "etym_note": "1938年の戯曲・1944年の映画『Gaslight（ガス燈）』に由来。夫が妻を精神的に追い詰める筋から、「相手の正気を疑わせる操作」の意になった。",
+    "etym_chain": [
+      { "node": "gas + light", "sub": "ガス＋灯り", "era": "19世紀英語" },
+      { "node": "Gaslight", "sub": "映画（心理操作の筋）", "era": "1944年" },
+      { "node": "gaslight", "sub": "正気を疑わせる", "era": "20〜21世紀英語" }
+    ],
+    "phrases": [
+      { "en": "gaslight someone", "ja": "〜を心理操作する" },
+      { "en": "stop gaslighting me", "ja": "私を惑わすのはやめて" },
+      { "en": "a form of gaslighting", "ja": "ガスライティングの一種" },
+      { "en": "emotional gaslighting", "ja": "感情的な心理操作" },
+      { "en": "gaslight into doubting", "ja": "疑うよう仕向ける" },
+      { "en": "victim of gaslighting", "ja": "心理操作の被害者" }
+    ],
+    "related": [
+      { "en": "manipulate", "ja": "操作する・巧みに操る" },
+      { "en": "deceive", "ja": "だます・欺く" },
+      { "en": "gaslighting", "ja": "ガスライティング（心理操作）" }
+    ],
+    "faq": [
+      { "q": "gaslight の由来は？", "a": "1944年の映画『Gaslight（ガス燈）』で、夫が妻の正気を疑わせる筋から、この心理操作を指す語になりました。" },
+      { "q": "gaslighting とは？", "a": "うそや否定を繰り返して相手に自分の記憶・判断・正気を疑わせる心理的な操作のことです。" }
+    ],
+    "quiz": [
+      { "q": "「彼は彼女に自分を疑わせようと心理操作しようとした」= He tried to ___ her into doubting herself.", "A": "gaslight", "B": "greenlight", "C": "spotlight", "D": "highlight", "correct": "A" },
+      { "q": "gaslight の現代的な意味は？", "A": "正気を疑わせる心理操作", "B": "道を照らす", "C": "熱を加える", "D": "写真を撮る", "correct": "A" }
+    ]
+  },
+  {
+    "english": "gatekeeping",
+    "pron": "ˈɡeɪtkiːpɪŋ",
+    "kana": "ゲイトキーピング",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "gate（門）+ keep（守る）+ -ing",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "社会"],
+    "meaning_main": "門番役 / （情報・参加の）取捨選択・締め出し",
+    "description": "gatekeeping（ゲイトキーピング）の意味・使い方・例文。何を通し何を締め出すか管理する門番役、参加や情報の取捨選択、という意味の名詞を解説。",
+    "keywords": ["gatekeeping 意味", "gatekeeping 使い方", "門番役 英語", "情報の取捨選択 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】門番役 / 取捨選択の管理", "note": "何を通し何を止めるかを決める役割。情報・参加者・機会などの管理。" },
+      { "hinshi": "【名詞】（俗）締め出し / 排他", "note": "「本物のファンだけ」などと他者を締め出す態度を指す口語。" }
+    ],
+    "usages": [
+      { "title": "① 情報の管理", "desc": "メディアなどで。", "example_en": "Editors perform gatekeeping over what news is published.", "example_ja": "編集者はどのニュースを載せるかの取捨選択を担う。" },
+      { "title": "② 排他的な態度", "desc": "口語的用法。", "example_en": "Stop the gatekeeping—anyone can enjoy this hobby.", "example_ja": "締め出しはやめて。この趣味は誰でも楽しめる。" }
+    ],
+    "warn": ["gatekeeping は「門番役・取捨選択」。近年は「本物のファンだけ」などと他者を締め出す否定的な意味で口語的に使う。"],
+    "etym_note": "gate（門）と keeping（守ること）を合わせた語。門番が出入りを管理することから、情報や参加の管理・制限の比喩へ。",
+    "etym_chain": [
+      { "node": "gate + keep", "sub": "門＋守る", "era": "英語の複合" },
+      { "node": "gatekeeper", "sub": "門番", "era": "中英語" },
+      { "node": "gatekeeping", "sub": "取捨選択・締め出し", "era": "20〜21世紀英語" }
+    ],
+    "phrases": [
+      { "en": "media gatekeeping", "ja": "メディアの情報選別" },
+      { "en": "cultural gatekeeping", "ja": "文化的な締め出し" },
+      { "en": "act of gatekeeping", "ja": "取捨選択の行為" },
+      { "en": "gatekeeping behavior", "ja": "排他的なふるまい" },
+      { "en": "stop gatekeeping", "ja": "締め出しをやめる" },
+      { "en": "gatekeeping a community", "ja": "コミュニティを排他的に守る" }
+    ],
+    "related": [
+      { "en": "gatekeeper", "ja": "門番・管理役" },
+      { "en": "exclusion", "ja": "排除・締め出し" },
+      { "en": "filter", "ja": "選別する・フィルター" }
+    ],
+    "faq": [
+      { "q": "gatekeeping の否定的な意味は？", "a": "「本物のファンだけ」などと基準を設けて他者を締め出す、排他的な態度を指す口語的な使い方です。" },
+      { "q": "gatekeeper との違いは？", "a": "gatekeeper は「門番（人)」、gatekeeping は「その行為・役割」を指します。" }
+    ],
+    "quiz": [
+      { "q": "「編集者はどのニュースを載せるかの取捨選択を担う」= Editors perform ___ over what news is published.", "A": "gatekeeping", "B": "housekeeping", "C": "bookkeeping", "D": "safekeeping", "correct": "A" },
+      { "q": "gatekeeping の意味は？", "A": "何を通し何を締め出すかの管理", "B": "家事全般", "C": "帳簿づけ", "D": "貴重品の保管", "correct": "A" }
+    ]
+  },
+  {
+    "english": "gaucho",
+    "pron": "ˈɡaʊtʃoʊ",
+    "kana": "ガウチョ",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "南米スペイン語 gaucho（カウボーイ）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "文化"],
+    "meaning_main": "ガウチョ / 南米のカウボーイ",
+    "description": "gaucho（ガウチョ）の意味・使い方・例文。南米パンパの牧童・カウボーイ、という意味の名詞を解説。",
+    "keywords": ["gaucho 意味", "gaucho 使い方", "ガウチョ 英語", "南米 カウボーイ 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】ガウチョ / 南米のカウボーイ", "note": "アルゼンチンやウルグアイのパンパ（大草原）で牛を追う牧童。" }
+    ],
+    "usages": [
+      { "title": "① 南米の牧童", "desc": "伝統的な牛飼い。", "example_en": "The gaucho rode across the pampas.", "example_ja": "ガウチョはパンパを馬で駆けた。" },
+      { "title": "② 文化の象徴", "desc": "アルゼンチンの誇り。", "example_en": "Gauchos are a symbol of Argentine culture.", "example_ja": "ガウチョはアルゼンチン文化の象徴だ。" }
+    ],
+    "warn": ["gaucho は南米のカウボーイ。ゆったりした「ガウチョパンツ」の語源でもある。複数形は gauchos。"],
+    "etym_note": "南米スペイン語 gaucho（牧童・カウボーイ）に由来。先住民の言語やアラウカノ語由来など、語源には諸説ある。",
+    "etym_chain": [
+      { "node": "gaucho", "sub": "牧童・カウボーイ", "era": "南米スペイン語" },
+      { "node": "gaucho", "sub": "ガウチョ", "era": "19世紀英語" }
+    ],
+    "phrases": [
+      { "en": "a skilled gaucho", "ja": "腕のよいガウチョ" },
+      { "en": "gaucho culture", "ja": "ガウチョ文化" },
+      { "en": "the gaucho rode", "ja": "ガウチョが馬で駆けた" },
+      { "en": "gaucho pants", "ja": "ガウチョパンツ" },
+      { "en": "a lone gaucho", "ja": "一人のガウチョ" },
+      { "en": "gauchos of the pampas", "ja": "パンパのガウチョたち" }
+    ],
+    "related": [
+      { "en": "cowboy", "ja": "カウボーイ" },
+      { "en": "pampas", "ja": "パンパ（南米の大草原）" },
+      { "en": "herdsman", "ja": "牧夫・牛飼い" }
+    ],
+    "faq": [
+      { "q": "gaucho はどこの人？", "a": "主にアルゼンチンやウルグアイなど南米の大草原（パンパ）で牛を追う牧童・カウボーイです。" },
+      { "q": "gaucho pants とは？", "a": "ガウチョがはくようなゆったりした裾広がりのパンツで、その名の由来になっています。" }
+    ],
+    "quiz": [
+      { "q": "「ガウチョはパンパを馬で駆けた」= The ___ rode across the pampas.", "A": "gaucho", "B": "gazebo", "C": "gadget", "D": "gauntlet", "correct": "A" },
+      { "q": "gaucho の意味は？", "A": "南米のカウボーイ", "B": "スペインの闘牛士", "C": "メキシコの踊り手", "D": "ブラジルの漁師", "correct": "A" }
+    ]
+  },
+  {
+    "english": "gazump",
+    "pron": "ɡəˈzʌmp",
+    "kana": "ガザンプ",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "イディッシュ語系の俗語 gazoomph（だます）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C2", "口語"],
+    "meaning_main": "（住宅売買で）高値の横取りで契約を反故にする",
+    "description": "gazump（ガザンプ）の意味・使い方・例文。口約束の後により高い買い手に売り、先の買い手を出し抜く、という意味の（主に英）動詞を解説。",
+    "keywords": ["gazump 意味", "gazump 使い方", "住宅 横取り 英語", "gazumping"],
+    "meanings": [
+      { "hinshi": "【動詞】高値の横取りで（買い手を）出し抜く", "note": "住宅売買で、口頭で合意した後により高い値をつけた別の買い手に売ること。主に英国。" }
+    ],
+    "usages": [
+      { "title": "① 買い手を出し抜く", "desc": "住宅売買で。", "example_en": "They were gazumped at the last minute.", "example_ja": "彼らは土壇場で高値の買い手に横取りされた。" },
+      { "title": "② より高い値で売る", "desc": "売り手の行為。", "example_en": "The seller gazumped us for a higher offer.", "example_ja": "売り手はもっと高い申し出のため私たちを出し抜いた。" }
+    ],
+    "warn": ["gazump は主に英国の住宅売買の用語。名詞形 gazumping。契約成立前の口約束段階で起こる（英国では法的拘束前）。"],
+    "etym_note": "イディッシュ語系の俗語 gazoomph（だます・水増しする）に由来するとされる。1970年代の英国不動産ブームで広まった。",
+    "etym_chain": [
+      { "node": "gazoomph", "sub": "だます・水増しする", "era": "20世紀初頭の俗語" },
+      { "node": "gazump", "sub": "高値で買い手を出し抜く", "era": "1970年代英国英語" }
+    ],
+    "phrases": [
+      { "en": "be gazumped", "ja": "高値で横取りされる" },
+      { "en": "gazump a buyer", "ja": "買い手を出し抜く" },
+      { "en": "risk of gazumping", "ja": "横取りの危険" },
+      { "en": "gazumped at the last minute", "ja": "土壇場で出し抜かれて" },
+      { "en": "prevent gazumping", "ja": "横取りを防ぐ" },
+      { "en": "a gazumping seller", "ja": "高値で乗り換える売り手" }
+    ],
+    "related": [
+      { "en": "outbid", "ja": "競り勝つ・高値をつける" },
+      { "en": "gazunder", "ja": "（買い手が）土壇場で値切る" },
+      { "en": "renege", "ja": "約束を破る" }
+    ],
+    "faq": [
+      { "q": "gazump はどんな場面の語？", "a": "主に英国の住宅売買で、口約束の後に売り手がより高い買い手に乗り換え、先の買い手を出し抜くことを指します。" },
+      { "q": "gazunder との違いは？", "a": "gazump は売り手が高値で買い手を出し抜くこと、gazunder は買い手が契約直前に値下げを迫ることです。" }
+    ],
+    "quiz": [
+      { "q": "「彼らは土壇場で高値の買い手に横取りされた」= They were ___ at the last minute.", "A": "gazumped", "B": "gazetted", "C": "garnished", "D": "gathered", "correct": "A" },
+      { "q": "gazump が使われる場面は？", "A": "住宅売買", "B": "料理", "C": "スポーツ", "D": "音楽", "correct": "A" }
+    ]
+  },
+  {
+    "english": "gearbox",
+    "pron": "ˈɡɪrbɑːks",
+    "kana": "ギアボックス",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "gear（歯車）+ box（箱）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "機械"],
+    "meaning_main": "ギアボックス / 変速機 / 歯車箱",
+    "description": "gearbox（ギアボックス）の意味・使い方・例文。車などで歯車を収めて変速する装置、変速機、という意味の名詞を解説。",
+    "keywords": ["gearbox 意味", "gearbox 使い方", "変速機 英語", "ギアボックス 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】ギアボックス / 変速機", "note": "歯車を組み合わせて回転の速度やトルクを変える装置。自動車・機械に用いる。" }
+    ],
+    "usages": [
+      { "title": "① 車の変速機", "desc": "自動車部品として。", "example_en": "The car's gearbox needs repair.", "example_ja": "その車の変速機は修理が必要だ。" },
+      { "title": "② 機械の歯車箱", "desc": "動力伝達装置。", "example_en": "A manual gearbox has several gears.", "example_ja": "マニュアルのギアボックスには複数のギアがある。" }
+    ],
+    "warn": ["gearbox は「変速機（歯車箱）」。米国では transmission とも言う。gear（歯車・ギア）+ box（箱）の複合語。"],
+    "etym_note": "gear（歯車・装置。古ノルド語 gervi「装備」から）と box（箱）を合わせた語。「歯車を収めた箱」を意味する。",
+    "etym_chain": [
+      { "node": "gervi", "sub": "装備・道具", "era": "古ノルド語" },
+      { "node": "gear", "sub": "歯車・装置", "era": "中英語" },
+      { "node": "gearbox", "sub": "変速機", "era": "19〜20世紀英語" }
+    ],
+    "phrases": [
+      { "en": "a manual gearbox", "ja": "マニュアル変速機" },
+      { "en": "an automatic gearbox", "ja": "オートマチック変速機" },
+      { "en": "repair the gearbox", "ja": "変速機を修理する" },
+      { "en": "a five-speed gearbox", "ja": "5速ギアボックス" },
+      { "en": "gearbox oil", "ja": "ギアオイル" },
+      { "en": "a faulty gearbox", "ja": "故障した変速機" }
+    ],
+    "related": [
+      { "en": "gear", "ja": "歯車・ギア" },
+      { "en": "transmission", "ja": "変速機（米）" },
+      { "en": "clutch", "ja": "クラッチ" }
+    ],
+    "faq": [
+      { "q": "gearbox と transmission の違いは？", "a": "ほぼ同じ「変速機」を指します。gearbox は主に英国、transmission は主に米国で使われます。" },
+      { "q": "gearbox は何をする装置？", "a": "歯車の組み合わせを変えて、エンジンの回転速度やトルクを調整し車輪などに伝える装置です。" }
+    ],
+    "quiz": [
+      { "q": "「その車の変速機は修理が必要だ」= The car's ___ needs repair.", "A": "gearbox", "B": "mailbox", "C": "sandbox", "D": "toolbox", "correct": "A" },
+      { "q": "gearbox の意味は？", "A": "変速機", "B": "郵便受け", "C": "砂場", "D": "工具箱", "correct": "A" }
+    ]
+  }
+]
