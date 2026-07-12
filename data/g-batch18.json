@@ -1,0 +1,489 @@
+[
+  {
+    "english": "gale",
+    "pron": "ɡeɪl",
+    "kana": "ゲイル",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "由来不明（16世紀の航海用語）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "強風 / 疾風 / (笑い声などの)爆発",
+    "description": "gale（ゲイル）の意味・発音・使い方。強風・疾風・（笑いの）爆発を表す頻出英単語。例文・語源・クイズで学べます。",
+    "keywords": ["gale 意味", "gale 使い方", "gale 例文", "強風 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】強風、疾風", "note": "非常に強い風。a strong gale（激しい強風）。" },
+      { "hinshi": "【名詞】(笑いなどの)爆発", "note": "gales of laughter（どっと起こる笑い）。" }
+    ],
+    "usages": [
+      { "title": "① 強風", "desc": "気象", "example_en": "The ship struggled against the gale.", "example_ja": "船は強風と戦った。" },
+      { "title": "② 笑いの爆発", "desc": "比喩的に", "example_en": "The joke brought gales of laughter.", "example_ja": "その冗談にどっと笑いが起こった。" }
+    ],
+    "warn": ["breeze（そよ風）< wind（風）< gale（強風）< storm（嵐）。gales of laughter で『どっと起こる笑い』。"],
+    "etym_note": "16世紀の航海用語として現れた語で、正確な由来は不明。非常に強い風を表し、比喩で感情の『爆発』にも使う。",
+    "etym_chain": [
+      { "node": "gale", "sub": "強風（由来不明）", "era": "16世紀" },
+      { "node": "gale", "sub": "強風・疾風", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a strong gale", "ja": "激しい強風" },
+      { "en": "a gale warning", "ja": "強風警報" },
+      { "en": "gale-force winds", "ja": "強風並みの風" },
+      { "en": "gales of laughter", "ja": "どっと起こる笑い" },
+      { "en": "battle a gale", "ja": "強風と戦う" },
+      { "en": "in a gale", "ja": "強風の中で" }
+    ],
+    "related": [
+      { "en": "wind", "ja": "風" },
+      { "en": "storm", "ja": "嵐" },
+      { "en": "breeze", "ja": "そよ風" }
+    ],
+    "faq": [
+      { "q": "gale と storm の違いは？", "a": "gale は『非常に強い風』、storm は風雨を伴う『嵐』全体を指します。" },
+      { "q": "gales of laughter とは？", "a": "『どっと起こる大笑い』を表す比喩表現です。" }
+    ],
+    "quiz": [
+      { "q": "「船は強風と戦った」= The ship struggled against the ___.", "A": "gale", "B": "gap", "C": "gaze", "D": "gel", "correct": "A" },
+      { "q": "gales of laughter の意味は？", "A": "どっと起こる笑い", "B": "静かな沈黙", "C": "小さなささやき", "D": "低いうめき", "correct": "A" }
+    ]
+  },
+  {
+    "english": "gallant",
+    "pron": "ˈɡælənt",
+    "kana": "ギャラント",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "古フランス語 galant（勇ましい・華やかな）に由来",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "頻出語"],
+    "meaning_main": "勇敢な / (女性に)礼儀正しい / 堂々とした",
+    "description": "gallant（ギャラント）の意味・発音・使い方。勇敢な・女性に礼儀正しい・堂々としたを表す頻出英単語。例文・語源・クイズで学べます。",
+    "keywords": ["gallant 意味", "gallant 使い方", "gallant 例文", "勇敢 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】勇敢な、雄々しい", "note": "危険に立ち向かう。a gallant soldier（勇敢な兵士）。" },
+      { "hinshi": "【形容詞】(男性が女性に)礼儀正しく親切な", "note": "紳士的な。a gallant gesture（紳士的な振る舞い）。" }
+    ],
+    "usages": [
+      { "title": "① 勇敢な", "desc": "雄々しさ", "example_en": "The soldiers made a gallant effort.", "example_ja": "兵士たちは勇敢な奮闘をした。" },
+      { "title": "② 女性に紳士的な", "desc": "礼儀正しさ", "example_en": "He was gallant enough to open the door for her.", "example_ja": "彼は紳士的に彼女のためにドアを開けた。" }
+    ],
+    "warn": ["やや古風で格調の高い語。『勇敢な』と『（女性に）紳士的な』の2つの意味がある。brave（勇敢な）より文語的。"],
+    "etym_note": "古フランス語 galant（勇ましい・華やかな、galer＝楽しむ に由来）から。もとは『華やかで洗練された』意で、『勇敢な』『女性に礼儀正しい』の意味に広がった。",
+    "etym_chain": [
+      { "node": "galant", "sub": "勇ましい・華やかな", "era": "古フランス語" },
+      { "node": "gallant", "sub": "勇敢な・紳士的な", "era": "中英語" },
+      { "node": "gallant", "sub": "勇敢な・礼儀正しい", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a gallant soldier", "ja": "勇敢な兵士" },
+      { "en": "a gallant effort", "ja": "勇敢な奮闘" },
+      { "en": "a gallant gesture", "ja": "紳士的な振る舞い" },
+      { "en": "a gallant knight", "ja": "勇敢な騎士" },
+      { "en": "gallant behavior", "ja": "礼儀正しい態度" },
+      { "en": "a gallant rescue", "ja": "勇敢な救助" }
+    ],
+    "related": [
+      { "en": "brave", "ja": "勇敢な" },
+      { "en": "courageous", "ja": "勇気ある" },
+      { "en": "chivalrous", "ja": "騎士道的な" }
+    ],
+    "faq": [
+      { "q": "gallant の2つの意味は？", "a": "『勇敢な・雄々しい』ことと、『（男性が女性に）礼儀正しく親切な』ことです。" },
+      { "q": "gallant と brave の違いは？", "a": "どちらも『勇敢な』ですが、gallant はより古風・文語的で、紳士的な意味も含みます。" }
+    ],
+    "quiz": [
+      { "q": "「兵士たちは勇敢な奮闘をした」= The soldiers made a ___ effort.", "A": "gallant", "B": "gaudy", "C": "gloomy", "D": "greedy", "correct": "A" },
+      { "q": "gallant に近い意味の語は？", "A": "brave", "B": "lazy", "C": "shy", "D": "weak", "correct": "A" }
+    ]
+  },
+  {
+    "english": "galore",
+    "pron": "ɡəˈlɔːr",
+    "kana": "ガロー",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "アイルランド語 go leor（十分に）に由来",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "頻出語"],
+    "meaning_main": "たくさんの / どっさりの(名詞の後に置く)",
+    "description": "galore（ガロー）の意味・発音・使い方。たくさんの・どっさりの（名詞の後ろに置く）を表す頻出英単語。例文・語源・クイズで学べます。",
+    "keywords": ["galore 意味", "galore 使い方", "galore 例文", "たくさん 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】たくさんの、あり余るほどの", "note": "必ず名詞の後ろに置く。bargains galore（お買い得品がどっさり）。" }
+    ],
+    "usages": [
+      { "title": "① たくさんの", "desc": "名詞の後に", "example_en": "There were prizes galore at the fair.", "example_ja": "その催しには賞品がどっさりあった。" },
+      { "title": "② あり余るほど", "desc": "豊富さ", "example_en": "The shop has bargains galore.", "example_ja": "その店にはお買い得品がどっさりある。" }
+    ],
+    "warn": ["珍しく名詞の後ろに置く形容詞（後置修飾）。a galore of ~ とは言わない。ややくだけた・強調的な語。"],
+    "etym_note": "アイルランド語・スコットランド・ゲール語 go leor（十分に・たくさん）に由来する。英語に借用され、名詞の後ろに置いて『たくさんの』を表す独特の語になった。",
+    "etym_chain": [
+      { "node": "go leor", "sub": "十分に（ゲール語）", "era": "アイルランド語" },
+      { "node": "galore", "sub": "たくさんの", "era": "近代英語" },
+      { "node": "galore", "sub": "たくさんの", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "bargains galore", "ja": "お買い得品がどっさり" },
+      { "en": "prizes galore", "ja": "賞品がどっさり" },
+      { "en": "food galore", "ja": "食べ物がたっぷり" },
+      { "en": "problems galore", "ja": "問題が山ほど" },
+      { "en": "stars galore", "ja": "スターがずらり" },
+      { "en": "options galore", "ja": "選択肢がたくさん" }
+    ],
+    "related": [
+      { "en": "plenty", "ja": "たくさん" },
+      { "en": "abundant", "ja": "豊富な" },
+      { "en": "numerous", "ja": "多数の" }
+    ],
+    "faq": [
+      { "q": "galore の使い方の注意点は？", "a": "必ず名詞の後ろに置きます（例: bargains galore）。前に置くことはできません。" },
+      { "q": "どんな響き？", "a": "ややくだけた・強調的な語で、『あり余るほどたくさん』を明るく表します。" }
+    ],
+    "quiz": [
+      { "q": "「その催しには賞品がどっさりあった」= There were prizes ___ at the fair.", "A": "galore", "B": "galaxy", "C": "gallon", "D": "gallop", "correct": "A" },
+      { "q": "galore の使い方で正しいのは？", "A": "名詞の後ろに置く", "B": "名詞の前に置く", "C": "動詞の後ろに置く", "D": "文頭に置く", "correct": "A" }
+    ]
+  },
+  {
+    "english": "galvanize",
+    "pron": "ˈɡælvənaɪz",
+    "kana": "ガルヴァナイズ",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "科学者ガルバーニ(Galvani)の名に由来",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "頻出語"],
+    "meaning_main": "奮起させる / 活気づける / 亜鉛めっきする",
+    "description": "galvanize（ガルヴァナイズ）の意味・発音・使い方。奮起させる・活気づける・亜鉛めっきするを表す頻出英単語。例文・語源・クイズで学べます。",
+    "keywords": ["galvanize 意味", "galvanize 使い方", "galvanize 例文", "奮起 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】(人を)奮起させる、活気づける", "note": "強く刺激して行動させる。galvanize someone into action（人を行動に駆り立てる）。" },
+      { "hinshi": "【動詞】亜鉛めっきする", "note": "鉄を亜鉛で覆いさびを防ぐ。galvanized steel（亜鉛めっき鋼）。" }
+    ],
+    "usages": [
+      { "title": "① 奮起させる", "desc": "刺激して行動させる", "example_en": "The speech galvanized the crowd.", "example_ja": "その演説は群衆を奮い立たせた。" },
+      { "title": "② 亜鉛めっきする", "desc": "金属加工", "example_en": "The fence is made of galvanized iron.", "example_ja": "その柵は亜鉛めっき鉄でできている。" }
+    ],
+    "warn": ["galvanize someone into action で『人を行動に駆り立てる』が頻出。電気で刺激した実験に由来する。"],
+    "etym_note": "カエルの脚に電気を流す実験をしたイタリアの科学者ルイジ・ガルバーニ（Galvani）の名に由来する。『電気で刺激する』意から『奮起させる』の比喩が生まれた。",
+    "etym_chain": [
+      { "node": "Galvani", "sub": "科学者の名", "era": "18世紀" },
+      { "node": "galvanize", "sub": "電気で刺激する", "era": "近代英語" },
+      { "node": "galvanize", "sub": "奮起させる・めっきする", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "galvanize into action", "ja": "行動に駆り立てる" },
+      { "en": "galvanize support", "ja": "支持を呼び起こす" },
+      { "en": "galvanize public opinion", "ja": "世論を動かす" },
+      { "en": "galvanized steel", "ja": "亜鉛めっき鋼" },
+      { "en": "galvanize a team", "ja": "チームを奮い立たせる" },
+      { "en": "be galvanized by ~", "ja": "～に奮起する" }
+    ],
+    "related": [
+      { "en": "stimulate", "ja": "刺激する" },
+      { "en": "inspire", "ja": "奮い立たせる" },
+      { "en": "energize", "ja": "活気づける" }
+    ],
+    "faq": [
+      { "q": "galvanize の名前の由来は？", "a": "電気の実験をした科学者ガルバーニ（Galvani）の名にちなみます。" },
+      { "q": "galvanize into action とは？", "a": "『（人を強く刺激して）行動に駆り立てる』という頻出表現です。" }
+    ],
+    "quiz": [
+      { "q": "「その演説は群衆を奮い立たせた」= The speech ___ the crowd.", "A": "galvanized", "B": "gathered", "C": "gained", "D": "grabbed", "correct": "A" },
+      { "q": "galvanize に近い意味の語は？", "A": "stimulate", "B": "calm", "C": "bore", "D": "delay", "correct": "A" }
+    ]
+  },
+  {
+    "english": "gambit",
+    "pron": "ˈɡæmbɪt",
+    "kana": "ギャンビット",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "イタリア語 gambetto（足かけ）に由来",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "頻出語"],
+    "meaning_main": "(有利を狙う)先手 / 策略 / 話の切り出し",
+    "description": "gambit（ギャンビット）の意味・発音・使い方。有利を狙う先手・策略・話の切り出しを表す頻出英単語。例文・語源・クイズで学べます。",
+    "keywords": ["gambit 意味", "gambit 使い方", "gambit 例文", "策略 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】(有利を得るための)策略、駆け引きの一手", "note": "もとチェスで駒を捨てて優位を狙う手。an opening gambit（最初の一手）。" },
+      { "hinshi": "【名詞】(会話の)切り出し", "note": "a conversational gambit（話の切り出し）。" }
+    ],
+    "usages": [
+      { "title": "① 戦略的な一手", "desc": "駆け引き", "example_en": "The offer was a clever gambit.", "example_ja": "その申し出は巧妙な策略だった。" },
+      { "title": "② 話の切り出し", "desc": "会話術", "example_en": "\"Nice weather\" is a common opening gambit.", "example_ja": "「いい天気ですね」はよくある会話の切り出しだ。" }
+    ],
+    "warn": ["もとはチェス用語で『駒を犠牲にして優位を狙う手』。転じて『駆け引きの一手・話の切り出し』。gamble（賭ける）とは別語。"],
+    "etym_note": "イタリア語 gambetto（足をかけて倒す技、gamba＝脚 に由来）から。チェスで『駒を犠牲にして優位を狙う手』を指し、転じて一般の『策略・切り出し』になった。",
+    "etym_chain": [
+      { "node": "gambetto", "sub": "足かけ", "era": "イタリア語" },
+      { "node": "gambit", "sub": "チェスの捨て駒戦法", "era": "近代英語" },
+      { "node": "gambit", "sub": "策略・切り出し", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an opening gambit", "ja": "最初の一手・切り出し" },
+      { "en": "a clever gambit", "ja": "巧妙な策略" },
+      { "en": "a conversational gambit", "ja": "会話の切り出し" },
+      { "en": "a risky gambit", "ja": "危険な賭けの一手" },
+      { "en": "a political gambit", "ja": "政治的な策略" },
+      { "en": "try a gambit", "ja": "策を試みる" }
+    ],
+    "related": [
+      { "en": "tactic", "ja": "戦術" },
+      { "en": "strategy", "ja": "戦略" },
+      { "en": "ploy", "ja": "策略" }
+    ],
+    "faq": [
+      { "q": "gambit の由来は？", "a": "チェスで『駒を犠牲にして優位を狙う手』を指す語で、イタリア語の『足かけ』に由来します。" },
+      { "q": "an opening gambit とは？", "a": "『最初の一手』『会話の切り出し』を意味します。" }
+    ],
+    "quiz": [
+      { "q": "「その申し出は巧妙な策略だった」= The offer was a clever ___.", "A": "gambit", "B": "gadget", "C": "gallon", "D": "gauge", "correct": "A" },
+      { "q": "gambit に近い意味の語は？", "A": "tactic", "B": "garden", "C": "grass", "D": "goat", "correct": "A" }
+    ]
+  },
+  {
+    "english": "gamut",
+    "pron": "ˈɡæmət",
+    "kana": "ガマット",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "中世の音階名 gamma + ut に由来",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "頻出語"],
+    "meaning_main": "全範囲 / 全域 / あらゆる種類",
+    "description": "gamut（ガマット）の意味・発音・使い方。全範囲・全域・あらゆる種類を表す頻出英単語。例文・語源・クイズで学べます。",
+    "keywords": ["gamut 意味", "gamut 使い方", "gamut 例文", "全範囲 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】全範囲、全域", "note": "ある範囲の初めから終わりまで全部。the whole gamut（全域）。" }
+    ],
+    "usages": [
+      { "title": "① 全範囲", "desc": "あらゆる幅", "example_en": "Her emotions ran the gamut from joy to despair.", "example_ja": "彼女の感情は喜びから絶望まで全域にわたった。" },
+      { "title": "② あらゆる種類", "desc": "幅広さ", "example_en": "The store sells the whole gamut of tools.", "example_ja": "その店はあらゆる種類の工具を売っている。" }
+    ],
+    "warn": ["run the gamut (from A to B) で『（AからBまで）全域にわたる』が最頻出。range（範囲）に近い。"],
+    "etym_note": "中世の音楽で最低音を表した gamma と、階名 ut を合わせた gamut に由来する。『音階の全域』から『全範囲・あらゆる幅』の意味に広がった。",
+    "etym_chain": [
+      { "node": "gamma + ut", "sub": "最低音 + 階名", "era": "中世" },
+      { "node": "gamut", "sub": "音階の全域", "era": "近代英語" },
+      { "node": "gamut", "sub": "全範囲", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "run the gamut", "ja": "全域にわたる" },
+      { "en": "the whole gamut", "ja": "あらゆる範囲" },
+      { "en": "the gamut of emotions", "ja": "あらゆる感情" },
+      { "en": "from A to B, the gamut", "ja": "AからBまでの全域" },
+      { "en": "cover the gamut", "ja": "全範囲を網羅する" },
+      { "en": "the full gamut", "ja": "全域" }
+    ],
+    "related": [
+      { "en": "range", "ja": "範囲" },
+      { "en": "spectrum", "ja": "全域、スペクトル" },
+      { "en": "scope", "ja": "範囲" }
+    ],
+    "faq": [
+      { "q": "run the gamut とは？", "a": "『（ある範囲の）全域にわたる』という意味で、run the gamut from A to B のように使います。" },
+      { "q": "gamut と range の違いは？", "a": "ほぼ同義ですが、gamut は『考えうる全域・端から端まで』を強調する語です。" }
+    ],
+    "quiz": [
+      { "q": "「彼女の感情は喜びから絶望まで全域にわたった」= Her emotions ran the ___ from joy to despair.", "A": "gamut", "B": "gadget", "C": "gallon", "D": "gauge", "correct": "A" },
+      { "q": "gamut に近い意味の語は？", "A": "range", "B": "garden", "C": "grass", "D": "goat", "correct": "A" }
+    ]
+  },
+  {
+    "english": "gape",
+    "pron": "ɡeɪp",
+    "kana": "ゲイプ",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "古ノルド語 gapa（口を開ける）に由来",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "頻出語"],
+    "meaning_main": "ぽかんと口を開けて見る / 大きく開く",
+    "description": "gape（ゲイプ）の意味・発音・使い方。ぽかんと口を開けて見る・大きく開くを表す頻出英単語。例文・語源・クイズで学べます。",
+    "keywords": ["gape 意味", "gape 使い方", "gape 例文", "ぽかんと 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】ぽかんと口を開けて見つめる", "note": "驚いてあっけにとられる。gape at ~（～をぽかんと見る）。" },
+      { "hinshi": "【動詞】(穴・口が)大きく開く", "note": "a gaping hole（ぽっかり開いた穴）。" }
+    ],
+    "usages": [
+      { "title": "① ぽかんと見る", "desc": "驚いて", "example_en": "The children gaped at the magician.", "example_ja": "子どもたちは手品師をぽかんと見つめた。" },
+      { "title": "② 大きく開く", "desc": "穴など", "example_en": "A gaping hole appeared in the wall.", "example_ja": "壁にぽっかりと穴が開いた。" }
+    ],
+    "warn": ["gap（すき間）と同語源。gape at ~ で『～をぽかんと見る』。gaping（ぽっかり開いた）という現在分詞も頻出。"],
+    "etym_note": "古ノルド語 gapa（口を大きく開ける）に由来する。gap（すき間）と同じ語群で、『大きく開く・口をあけて見る』ことを表す。",
+    "etym_chain": [
+      { "node": "gapa", "sub": "口を開ける", "era": "古ノルド語" },
+      { "node": "gapen", "sub": "口を開ける", "era": "中英語" },
+      { "node": "gape", "sub": "ぽかんと見る・大きく開く", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "gape at ~", "ja": "～をぽかんと見る" },
+      { "en": "gape in astonishment", "ja": "驚いてあっけにとられる" },
+      { "en": "a gaping hole", "ja": "ぽっかり開いた穴" },
+      { "en": "a gaping wound", "ja": "大きく開いた傷" },
+      { "en": "stand and gape", "ja": "立ち尽くしてぽかんとする" },
+      { "en": "gaping mouth", "ja": "ぽかんと開いた口" }
+    ],
+    "related": [
+      { "en": "stare", "ja": "じっと見る" },
+      { "en": "gaze", "ja": "見つめる" },
+      { "en": "gap", "ja": "すき間" }
+    ],
+    "faq": [
+      { "q": "gape と stare の違いは？", "a": "stare は『じっと見つめる』、gape は『驚いてぽかんと口を開けて見る』ことです。" },
+      { "q": "a gaping hole とは？", "a": "『ぽっかりと大きく開いた穴』を表します。" }
+    ],
+    "quiz": [
+      { "q": "「子どもたちは手品師をぽかんと見つめた」= The children ___ at the magician.", "A": "gaped", "B": "gazed", "C": "grabbed", "D": "gained", "correct": "A" },
+      { "q": "a gaping hole の意味は？", "A": "ぽっかり開いた穴", "B": "小さな点", "C": "細い線", "D": "高い壁", "correct": "A" }
+    ]
+  },
+  {
+    "english": "garnish",
+    "pron": "ˈɡɑːrnɪʃ",
+    "kana": "ガーニッシュ",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "verb",
+    "ld_etym": "古フランス語 garnir（備える・飾る）に由来",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "頻出語"],
+    "meaning_main": "(料理に)添える / 飾りつける / つけ合わせ",
+    "description": "garnish（ガーニッシュ）の意味・発音・使い方。料理に添える・飾りつける・つけ合わせを表す頻出英単語。例文・語源・クイズで学べます。",
+    "keywords": ["garnish 意味", "garnish 使い方", "garnish 例文", "つけ合わせ 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】(料理を)飾りつける、添える", "note": "彩りに食材を添える。garnish with parsley（パセリを添える）。" },
+      { "hinshi": "【名詞】つけ合わせ、飾り", "note": "料理に添える彩りの食材。" }
+    ],
+    "usages": [
+      { "title": "① 料理に添える", "desc": "動詞として", "example_en": "Garnish the dish with lemon.", "example_ja": "その料理にレモンを添えなさい。" },
+      { "title": "② つけ合わせ", "desc": "名詞として", "example_en": "A sprig of mint is a nice garnish.", "example_ja": "ミントの小枝はよいつけ合わせになる。" }
+    ],
+    "warn": ["料理の彩りに『添える』のが本義。garment（衣服）や garnet（ざくろ石）と語源が近いが別語。"],
+    "etym_note": "古フランス語 garnir（備える・整える・飾る）に由来する。もとは『整え備える』意で、料理を『彩りよく飾りつける』の意味になった。garment（衣服）と同語源。",
+    "etym_chain": [
+      { "node": "garnir", "sub": "備える・飾る", "era": "古フランス語" },
+      { "node": "garnish", "sub": "飾りつける", "era": "中英語" },
+      { "node": "garnish", "sub": "料理に添える", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "garnish with ~", "ja": "～を添える" },
+      { "en": "garnish a dish", "ja": "料理を飾りつける" },
+      { "en": "a garnish of parsley", "ja": "パセリのつけ合わせ" },
+      { "en": "as a garnish", "ja": "つけ合わせとして" },
+      { "en": "garnish with lemon", "ja": "レモンを添える" },
+      { "en": "a colorful garnish", "ja": "彩りのよいつけ合わせ" }
+    ],
+    "related": [
+      { "en": "decorate", "ja": "飾る" },
+      { "en": "topping", "ja": "トッピング" },
+      { "en": "dish", "ja": "料理" }
+    ],
+    "faq": [
+      { "q": "garnish はどんな場面で使う？", "a": "料理の彩りに食材を『添える・飾りつける』ときに使います。名詞では『つけ合わせ』です。" },
+      { "q": "garnish with ~ とは？", "a": "『～を添えて飾る』という意味で、garnish with parsley（パセリを添える）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "「その料理にレモンを添えなさい」= ___ the dish with lemon.", "A": "Garnish", "B": "Gamble", "C": "Gather", "D": "Gauge", "correct": "A" },
+      { "q": "garnish に近い意味の語は？", "A": "decorate", "B": "destroy", "C": "digest", "D": "deliver", "correct": "A" }
+    ]
+  },
+  {
+    "english": "grate",
+    "pron": "ɡreɪt",
+    "kana": "グレイト",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "verb",
+    "ld_etym": "古フランス語 grater（削る・こする）に由来",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "頻出語"],
+    "meaning_main": "すりおろす / きしむ / いらいらさせる",
+    "description": "grate（グレイト）の意味・発音・使い方。すりおろす・きしむ・いらいらさせるを表す頻出英単語。例文・語源・クイズで学べます。",
+    "keywords": ["grate 意味", "grate 使い方", "grate 例文", "すりおろす 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】すりおろす", "note": "おろし金で細かくする。grate cheese（チーズをすりおろす）。" },
+      { "hinshi": "【動詞】きしる音を立てる／いらいらさせる", "note": "grate on someone's nerves（人の神経にさわる）。" },
+      { "hinshi": "【名詞】(暖炉などの)火格子", "note": "薪をのせる格子。" }
+    ],
+    "usages": [
+      { "title": "① すりおろす", "desc": "料理で", "example_en": "Grate some cheese over the pasta.", "example_ja": "パスタにチーズをすりおろしなさい。" },
+      { "title": "② いらいらさせる", "desc": "比喩的に", "example_en": "His voice grates on my nerves.", "example_ja": "彼の声は私の神経にさわる。" }
+    ],
+    "warn": ["great（偉大な）と同音・別語。grate on someone's nerves で『神経にさわる』。名詞は『火格子』。"],
+    "etym_note": "古フランス語 grater（削る・こする）に由来する。『こすって削る』意から『すりおろす』、こすれる不快な音から『きしむ・いらいらさせる』の意味になった。",
+    "etym_chain": [
+      { "node": "grater", "sub": "削る・こする", "era": "古フランス語" },
+      { "node": "graten", "sub": "こする・削る", "era": "中英語" },
+      { "node": "grate", "sub": "すりおろす・きしむ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "grate cheese", "ja": "チーズをすりおろす" },
+      { "en": "grated cheese", "ja": "粉チーズ" },
+      { "en": "grate on someone's nerves", "ja": "神経にさわる" },
+      { "en": "a grating sound", "ja": "きしむ音" },
+      { "en": "grate one's teeth", "ja": "歯ぎしりする" },
+      { "en": "a fire grate", "ja": "暖炉の火格子" }
+    ],
+    "related": [
+      { "en": "grind", "ja": "すりつぶす" },
+      { "en": "scrape", "ja": "こすり取る" },
+      { "en": "irritate", "ja": "いらいらさせる" }
+    ],
+    "faq": [
+      { "q": "grate と great の違いは？", "a": "同音ですが、grate は『すりおろす・きしむ』（動詞）、great は『偉大な』（形容詞）です。" },
+      { "q": "grate on someone's nerves とは？", "a": "『人の神経にさわる・いらいらさせる』という意味の表現です。" }
+    ],
+    "quiz": [
+      { "q": "「パスタにチーズをすりおろしなさい」= ___ some cheese over the pasta.", "A": "Grate", "B": "Great", "C": "Grade", "D": "Grape", "correct": "A" },
+      { "q": "grate on someone's nerves の意味は？", "A": "神経にさわる", "B": "元気づける", "C": "眠らせる", "D": "笑わせる", "correct": "A" }
+    ]
+  },
+  {
+    "english": "greasy",
+    "pron": "ˈɡriːsi",
+    "kana": "グリーシー",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "grease（脂）+ -y",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "脂っこい / 油まみれの / つるつるした",
+    "description": "greasy（グリーシー）の意味・発音・使い方。脂っこい・油まみれの・つるつるしたを表す頻出英単語。例文・語源・クイズで学べます。",
+    "keywords": ["greasy 意味", "greasy 使い方", "greasy 例文", "脂っこい 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】脂っこい、油まみれの", "note": "脂や油がついている。greasy food（脂っこい食べ物）。" },
+      { "hinshi": "【形容詞】(油で)つるつるした", "note": "greasy hands（油でぬるぬるの手）。" }
+    ],
+    "usages": [
+      { "title": "① 脂っこい", "desc": "食べ物", "example_en": "I don't like greasy food.", "example_ja": "私は脂っこい食べ物が好きではない。" },
+      { "title": "② 油まみれの", "desc": "表面", "example_en": "His hands were greasy from the machine.", "example_ja": "彼の手は機械の油でべとべとだった。" }
+    ],
+    "warn": ["名詞 grease（脂）の形容詞。食べ物・髪・手など『脂・油がついた』状態を表す。しばしば否定的。"],
+    "etym_note": "名詞 grease（動物性の脂・潤滑油）に、形容詞をつくる -y がついた語。『脂・油がついた・脂っこい』状態を表す。",
+    "etym_chain": [
+      { "node": "grease + -y", "sub": "脂 + ～な", "era": "中英語" },
+      { "node": "greasy", "sub": "脂っこい", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "greasy food", "ja": "脂っこい食べ物" },
+      { "en": "greasy hair", "ja": "脂ぎった髪" },
+      { "en": "greasy hands", "ja": "油まみれの手" },
+      { "en": "a greasy plate", "ja": "脂で汚れた皿" },
+      { "en": "greasy skin", "ja": "脂性の肌" },
+      { "en": "a greasy spoon", "ja": "安食堂" }
+    ],
+    "related": [
+      { "en": "grease", "ja": "脂" },
+      { "en": "oily", "ja": "油っぽい" },
+      { "en": "slippery", "ja": "滑りやすい" }
+    ],
+    "faq": [
+      { "q": "greasy の名詞形は？", "a": "grease（脂・油）です。" },
+      { "q": "a greasy spoon とは？", "a": "脂っこい料理を出す『安食堂・大衆食堂』を指す口語表現です。" }
+    ],
+    "quiz": [
+      { "q": "「私は脂っこい食べ物が好きではない」= I don't like ___ food.", "A": "greasy", "B": "grassy", "C": "gritty", "D": "grimy", "correct": "A" },
+      { "q": "greasy の名詞形は？", "A": "grease", "B": "green", "C": "grade", "D": "grid", "correct": "A" }
+    ]
+  }
+]
