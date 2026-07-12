@@ -1,0 +1,490 @@
+[
+  {
+    "english": "grab",
+    "pron": "ɡræb",
+    "kana": "グラブ",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "verb",
+    "ld_etym": "中低ドイツ語 grabben（つかむ）に由来",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "頻出語"],
+    "meaning_main": "つかむ / ひっつかむ / さっと取る",
+    "description": "grab（グラブ）の意味・発音・使い方。つかむ・ひっつかむ・さっと取るを表す頻出動詞。例文・語源・クイズで学べます。",
+    "keywords": ["grab 意味", "grab 使い方", "grab 例文", "つかむ 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】つかむ、ひっつかむ", "note": "すばやく手で握る。grab someone's arm（腕をつかむ）。" },
+      { "hinshi": "【動詞】(食事などを)さっととる", "note": "口語で grab a bite（さっと食べる）。" }
+    ],
+    "usages": [
+      { "title": "① つかむ", "desc": "すばやく握る", "example_en": "He grabbed my hand.", "example_ja": "彼は私の手をつかんだ。" },
+      { "title": "② さっととる", "desc": "口語表現", "example_en": "Let's grab a coffee.", "example_ja": "コーヒーでもさっと飲もう。" }
+    ],
+    "warn": ["過去形は grabbed（b を重ねる）。take よりも急で乱暴なニュアンスがある。"],
+    "etym_note": "中低ドイツ語やオランダ語の grabben（つかむ）に由来するとされる。『すばやく手を伸ばして握る』動作を表す。",
+    "etym_chain": [
+      { "node": "grabben", "sub": "つかむ", "era": "中低ドイツ語" },
+      { "node": "grab", "sub": "つかむ", "era": "近代英語" },
+      { "node": "grab", "sub": "つかむ・さっと取る", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "grab someone's arm", "ja": "腕をつかむ" },
+      { "en": "grab a bite", "ja": "さっと食べる" },
+      { "en": "grab a coffee", "ja": "コーヒーをさっと飲む" },
+      { "en": "grab a chance", "ja": "チャンスをつかむ" },
+      { "en": "grab attention", "ja": "注目を集める" },
+      { "en": "grab hold of ~", "ja": "～をしっかりつかむ" }
+    ],
+    "related": [
+      { "en": "catch", "ja": "捕まえる" },
+      { "en": "seize", "ja": "つかむ" },
+      { "en": "take", "ja": "取る" }
+    ],
+    "faq": [
+      { "q": "grab の過去形は？", "a": "grabbed です。b を重ねてから ed をつけます。" },
+      { "q": "grab と take の違いは？", "a": "grab は『すばやく・急につかむ』ニュアンス、take はより中立的な『取る』です。" }
+    ],
+    "quiz": [
+      { "q": "「彼は私の手をつかんだ」= He ___ my hand.", "A": "grabbed", "B": "greeted", "C": "guided", "D": "guarded", "correct": "A" },
+      { "q": "grab a bite の意味は？", "A": "さっと食べる", "B": "眠る", "C": "掃除する", "D": "走る", "correct": "A" }
+    ]
+  },
+  {
+    "english": "general",
+    "pron": "ˈdʒenərəl",
+    "kana": "ジェネラル",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "adjective",
+    "ld_etym": "ラテン語 generalis（全体に関わる）に由来",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "頻出語"],
+    "meaning_main": "一般的な / 全体の / 大将",
+    "description": "general（ジェネラル）の意味・発音・使い方。一般的な・全体の・大将を表す頻出英単語。例文・語源・クイズで学べます。",
+    "keywords": ["general 意味", "general 使い方", "general 例文", "一般的 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】一般的な、全体の", "note": "特定でなく広く全体に関わる。general knowledge（一般常識）。" },
+      { "hinshi": "【名詞】将軍、大将", "note": "軍の高い階級。an army general（陸軍大将）。" }
+    ],
+    "usages": [
+      { "title": "① 一般的な", "desc": "形容詞として", "example_en": "This is a general rule.", "example_ja": "これは一般的な規則だ。" },
+      { "title": "② 全体的に見て", "desc": "in general", "example_en": "In general, prices are rising.", "example_ja": "全般的に、物価は上がっている。" }
+    ],
+    "warn": ["in general で『一般に・概して』。副詞 generally（一般に）も頻出。名詞では『将軍』。"],
+    "etym_note": "ラテン語 generalis（種族全体に関わる、genus＝種類 に由来）から。『特定の一部でなく全体に共通する』意味を核とする。",
+    "etym_chain": [
+      { "node": "generalis", "sub": "全体に関わる", "era": "ラテン語" },
+      { "node": "general", "sub": "一般的な", "era": "古フランス語" },
+      { "node": "general", "sub": "一般的な・将軍", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "in general", "ja": "一般に、概して" },
+      { "en": "a general rule", "ja": "一般的な規則" },
+      { "en": "general knowledge", "ja": "一般常識" },
+      { "en": "the general public", "ja": "一般大衆" },
+      { "en": "a general idea", "ja": "だいたいの考え" },
+      { "en": "an army general", "ja": "陸軍大将" }
+    ],
+    "related": [
+      { "en": "common", "ja": "共通の" },
+      { "en": "usual", "ja": "普通の" },
+      { "en": "specific", "ja": "特定の（反対）" }
+    ],
+    "faq": [
+      { "q": "in general の意味は？", "a": "『一般に・概して』という意味の決まった表現です。" },
+      { "q": "general に『将軍』の意味もある？", "a": "はい。名詞で軍の高位の階級『将軍・大将』を指します。" }
+    ],
+    "quiz": [
+      { "q": "「全般的に、物価は上がっている」= ___ general, prices are rising.", "A": "In", "B": "On", "C": "At", "D": "By", "correct": "A" },
+      { "q": "general の反対に近い意味の語は？", "A": "specific", "B": "common", "C": "usual", "D": "normal", "correct": "A" }
+    ]
+  },
+  {
+    "english": "generous",
+    "pron": "ˈdʒenərəs",
+    "kana": "ジェネラス",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "ラテン語 generosus（生まれのよい）に由来",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "頻出語"],
+    "meaning_main": "気前のよい / 寛大な / たっぷりの",
+    "description": "generous（ジェネラス）の意味・発音・使い方。気前のよい・寛大な・たっぷりのを表す頻出英単語。例文・語源・クイズで学べます。",
+    "keywords": ["generous 意味", "generous 使い方", "generous 例文", "気前のよい 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】気前のよい、寛大な", "note": "人に惜しみなく与える。a generous person（気前のよい人）。" },
+      { "hinshi": "【形容詞】(量が)たっぷりの", "note": "a generous portion（たっぷりの盛りつけ）。" }
+    ],
+    "usages": [
+      { "title": "① 気前のよい", "desc": "人柄について", "example_en": "She is very generous to her friends.", "example_ja": "彼女は友達にとても気前がよい。" },
+      { "title": "② たっぷりの", "desc": "量について", "example_en": "He gave me a generous helping of rice.", "example_ja": "彼は私にごはんをたっぷり盛ってくれた。" }
+    ],
+    "warn": ["名詞形は generosity（寛大さ）。反対は stingy / mean（けちな）。"],
+    "etym_note": "ラテン語 generosus（生まれ・血統がよい）に由来し、『高貴な人は寛大である』という発想から『気前がよい』の意味に発展した。generation などと同語源。",
+    "etym_chain": [
+      { "node": "generosus", "sub": "生まれのよい", "era": "ラテン語" },
+      { "node": "genereux", "sub": "寛大な", "era": "古フランス語" },
+      { "node": "generous", "sub": "気前のよい", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a generous person", "ja": "気前のよい人" },
+      { "en": "generous to ~", "ja": "～に気前がよい" },
+      { "en": "a generous gift", "ja": "気前のよい贈り物" },
+      { "en": "a generous portion", "ja": "たっぷりの分量" },
+      { "en": "be generous with ~", "ja": "～を惜しまない" },
+      { "en": "a generous offer", "ja": "寛大な申し出" }
+    ],
+    "related": [
+      { "en": "kind", "ja": "親切な" },
+      { "en": "generosity", "ja": "寛大さ" },
+      { "en": "stingy", "ja": "けちな（反対）" }
+    ],
+    "faq": [
+      { "q": "generous の名詞形は？", "a": "generosity（寛大さ・気前のよさ）です。" },
+      { "q": "generous の反対は？", "a": "stingy や mean（けちな）です。" }
+    ],
+    "quiz": [
+      { "q": "「彼女は友達にとても気前がよい」= She is very ___ to her friends.", "A": "generous", "B": "general", "C": "gentle", "D": "grateful", "correct": "A" },
+      { "q": "generous の反対に近い語は？", "A": "stingy", "B": "kind", "C": "rich", "D": "large", "correct": "A" }
+    ]
+  },
+  {
+    "english": "gather",
+    "pron": "ˈɡæðər",
+    "kana": "ギャザー",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "古英語 gaderian（集める）に由来",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "頻出語"],
+    "meaning_main": "集める / 集まる / 推測する",
+    "description": "gather（ギャザー）の意味・発音・使い方。集める・集まる・推測するを表す頻出動詞。例文・語源・クイズで学べます。",
+    "keywords": ["gather 意味", "gather 使い方", "gather 例文", "集める 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】集める", "note": "散らばったものを一つにする。gather information（情報を集める）。" },
+      { "hinshi": "【動詞】集まる", "note": "人などが一か所に寄る。A crowd gathered.（人が集まった）。" },
+      { "hinshi": "【動詞】(話などから)推測する", "note": "I gather that ~（～だと察する）。" }
+    ],
+    "usages": [
+      { "title": "① 集める", "desc": "他動詞", "example_en": "They gathered wood for the fire.", "example_ja": "彼らは火のために薪を集めた。" },
+      { "title": "② 集まる", "desc": "自動詞", "example_en": "People gathered in the square.", "example_ja": "人々が広場に集まった。" }
+    ],
+    "warn": ["th は有声音 /ð/。collect と近いが、gather は『あちこちから寄せ集める』ニュアンスがある。"],
+    "etym_note": "古英語 gaderian（集める・寄せる）に由来するゲルマン系の語。together（一緒に）と同じ語根で、『一つにまとめる』ことを表す。",
+    "etym_chain": [
+      { "node": "gaderian", "sub": "集める", "era": "古英語" },
+      { "node": "gaderen", "sub": "集める", "era": "中英語" },
+      { "node": "gather", "sub": "集める・集まる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "gather information", "ja": "情報を集める" },
+      { "en": "gather together", "ja": "寄り集まる" },
+      { "en": "gather around", "ja": "周りに集まる" },
+      { "en": "gather speed", "ja": "速度を増す" },
+      { "en": "a gathering", "ja": "集まり・会合" },
+      { "en": "gather one's thoughts", "ja": "考えをまとめる" }
+    ],
+    "related": [
+      { "en": "collect", "ja": "収集する" },
+      { "en": "assemble", "ja": "集合させる" },
+      { "en": "meet", "ja": "会う" }
+    ],
+    "faq": [
+      { "q": "gather と collect の違いは？", "a": "collect は目的を持って『収集する』、gather は『あちこちから寄せ集める・集まる』ニュアンスです。" },
+      { "q": "『～だと察する』の意味もある？", "a": "はい。I gather that ~ で『（話などから）～だと推測する』を表します。" }
+    ],
+    "quiz": [
+      { "q": "「人々が広場に集まった」= People ___ in the square.", "A": "gathered", "B": "guarded", "C": "greeted", "D": "grabbed", "correct": "A" },
+      { "q": "gather information の意味は？", "A": "情報を集める", "B": "情報を消す", "C": "情報を隠す", "D": "情報を売る", "correct": "A" }
+    ]
+  },
+  {
+    "english": "golf",
+    "pron": "ɡɒlf",
+    "kana": "ゴルフ",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "中世オランダ語 colf（棒・クラブ）に由来する説",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "基本語"],
+    "meaning_main": "ゴルフ",
+    "description": "golf（ゴルフ）の意味・発音・使い方。スポーツのゴルフを表す基本英単語。例文・語源・クイズで学べます。",
+    "keywords": ["golf 意味", "golf 使い方", "golf 例文", "ゴルフ 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】ゴルフ", "note": "クラブでボールを打って穴に入れるスポーツ。play golf（ゴルフをする）。" }
+    ],
+    "usages": [
+      { "title": "① ゴルフをする", "desc": "play golf", "example_en": "My father plays golf every Sunday.", "example_ja": "父は毎週日曜にゴルフをする。" },
+      { "title": "② ゴルフ場", "desc": "a golf course", "example_en": "There is a golf course near my house.", "example_ja": "家の近くにゴルフ場がある。" }
+    ],
+    "warn": ["スポーツ名なので play golf に the はつけない（play soccer と同じ）。発音は /ɡɒlf/。"],
+    "etym_note": "中世オランダ語 colf / colve（棒・クラブ）に由来する説が有力。スコットランドで発達したスポーツの名として広まった。",
+    "etym_chain": [
+      { "node": "colf", "sub": "棒・クラブ", "era": "中世オランダ語" },
+      { "node": "golf", "sub": "ゴルフ", "era": "近代英語" },
+      { "node": "golf", "sub": "ゴルフ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "play golf", "ja": "ゴルフをする" },
+      { "en": "a golf course", "ja": "ゴルフ場" },
+      { "en": "a golf club", "ja": "ゴルフクラブ" },
+      { "en": "a golf ball", "ja": "ゴルフボール" },
+      { "en": "a round of golf", "ja": "ゴルフ1ラウンド" },
+      { "en": "a golf player", "ja": "ゴルファー" }
+    ],
+    "related": [
+      { "en": "tennis", "ja": "テニス" },
+      { "en": "sport", "ja": "スポーツ" },
+      { "en": "club", "ja": "クラブ（用具）" }
+    ],
+    "faq": [
+      { "q": "『ゴルフをする』は？", "a": "play golf です。スポーツ名なので the はつけません。" },
+      { "q": "golf club には2つの意味がある？", "a": "はい。『ゴルフの用具（クラブ）』と『ゴルフ愛好会・クラブ』の両方を指します。" }
+    ],
+    "quiz": [
+      { "q": "「父は毎週日曜にゴルフをする」= My father plays ___ every Sunday.", "A": "golf", "B": "gold", "C": "goal", "D": "goat", "correct": "A" },
+      { "q": "a golf course の意味は？", "A": "ゴルフ場", "B": "ゴルフの授業", "C": "ゴルフの試合", "D": "ゴルフの道具", "correct": "A" }
+    ]
+  },
+  {
+    "english": "grateful",
+    "pron": "ˈɡreɪtfl",
+    "kana": "グレイトフル",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "ラテン語 gratus（感謝する・喜ばしい）に由来",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "頻出語"],
+    "meaning_main": "感謝している / ありがたく思う",
+    "description": "grateful（グレイトフル）の意味・発音・使い方。感謝している・ありがたく思うを表す頻出英単語。例文・語源・クイズで学べます。",
+    "keywords": ["grateful 意味", "grateful 使い方", "grateful 例文", "感謝 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】感謝している", "note": "be grateful to 人 for ~ で『～のことで人に感謝する』。" }
+    ],
+    "usages": [
+      { "title": "① 人に感謝する", "desc": "be grateful to ~", "example_en": "I'm grateful to you for your help.", "example_ja": "手伝ってくれてあなたに感謝しています。" },
+      { "title": "② ～に感謝する", "desc": "be grateful for ~", "example_en": "We are grateful for your kindness.", "example_ja": "ご親切に感謝します。" }
+    ],
+    "warn": ["『人に』は to、『事柄に』は for を使う。名詞形は gratitude（感謝）。thankful と近い。"],
+    "etym_note": "ラテン語 gratus（喜ばしい・感謝すべき）に由来する形容詞に、英語の接尾辞 -ful がついてできた語。great（偉大な）とは別語源なので注意。",
+    "etym_chain": [
+      { "node": "gratus", "sub": "感謝すべき・喜ばしい", "era": "ラテン語" },
+      { "node": "grate", "sub": "喜ばしい", "era": "近代英語" },
+      { "node": "grateful", "sub": "感謝している", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be grateful to ~", "ja": "～に感謝する" },
+      { "en": "be grateful for ~", "ja": "～のことで感謝する" },
+      { "en": "deeply grateful", "ja": "深く感謝して" },
+      { "en": "a grateful smile", "ja": "感謝の笑み" },
+      { "en": "I'd be grateful if ~", "ja": "～していただけるとありがたい" },
+      { "en": "eternally grateful", "ja": "永遠に感謝して" }
+    ],
+    "related": [
+      { "en": "thankful", "ja": "感謝している" },
+      { "en": "gratitude", "ja": "感謝" },
+      { "en": "appreciate", "ja": "感謝する" }
+    ],
+    "faq": [
+      { "q": "grateful の後の前置詞は？", "a": "『人に』は to、『事柄に』は for を使います。grateful to you for your help のように両方使えます。" },
+      { "q": "grateful と great の関係は？", "a": "つづりは似ていますが別語源です。grateful はラテン語 gratus（感謝）に由来します。" }
+    ],
+    "quiz": [
+      { "q": "「ご親切に感謝します」= We are grateful ___ your kindness.", "A": "for", "B": "at", "C": "on", "D": "of", "correct": "A" },
+      { "q": "grateful の名詞形は？", "A": "gratitude", "B": "greatness", "C": "greeting", "D": "grade", "correct": "A" }
+    ]
+  },
+  {
+    "english": "garage",
+    "pron": "ɡəˈrɑːʒ",
+    "kana": "ガラージ",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "フランス語 garer（しまう・停める）に由来",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "基本語"],
+    "meaning_main": "車庫 / ガレージ / 自動車修理工場",
+    "description": "garage（ガラージ）の意味・発音・使い方。車庫・ガレージ・修理工場を表す基本英単語。例文・語源・クイズで学べます。",
+    "keywords": ["garage 意味", "garage 使い方", "garage 例文", "車庫 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】車庫、ガレージ", "note": "車を入れておく建物。park in the garage（車庫に停める）。" },
+      { "hinshi": "【名詞】自動車修理工場", "note": "車を修理・整備する店。" }
+    ],
+    "usages": [
+      { "title": "① 車庫", "desc": "車を入れる場所", "example_en": "He parked the car in the garage.", "example_ja": "彼は車を車庫に停めた。" },
+      { "title": "② 修理工場", "desc": "整備の場として", "example_en": "I took my car to the garage.", "example_ja": "私は車を修理工場に持って行った。" }
+    ],
+    "warn": ["発音は米 /ɡəˈrɑːʒ/・英 /ˈɡærɑːʒ/ など揺れがある。語尾 -age は /ɑːʒ/ の音。"],
+    "etym_note": "フランス語 garer（しまう・（船や車を）停める）に由来し、20世紀初め、自動車の普及とともに英語に入った比較的新しい外来語。",
+    "etym_chain": [
+      { "node": "garer", "sub": "しまう・停める", "era": "フランス語" },
+      { "node": "garage", "sub": "車庫", "era": "20世紀初頭" },
+      { "node": "garage", "sub": "車庫・修理工場", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "park in the garage", "ja": "車庫に停める" },
+      { "en": "a two-car garage", "ja": "車2台分の車庫" },
+      { "en": "take a car to the garage", "ja": "車を修理工場に出す" },
+      { "en": "an underground garage", "ja": "地下駐車場" },
+      { "en": "a garage sale", "ja": "ガレージセール" },
+      { "en": "clean the garage", "ja": "車庫を掃除する" }
+    ],
+    "related": [
+      { "en": "parking", "ja": "駐車（場）" },
+      { "en": "car", "ja": "車" },
+      { "en": "repair", "ja": "修理" }
+    ],
+    "faq": [
+      { "q": "garage sale とは？", "a": "自宅の車庫や庭で不用品を売る『ガレージセール』のことです。" },
+      { "q": "『修理工場』の意味もある？", "a": "はい。特に英国では車の修理・整備をする店を garage と呼びます。" }
+    ],
+    "quiz": [
+      { "q": "「彼は車を車庫に停めた」= He parked the car in the ___.", "A": "garage", "B": "garden", "C": "gate", "D": "grade", "correct": "A" },
+      { "q": "a garage sale の意味は？", "A": "ガレージセール", "B": "中古車販売店", "C": "駐車違反", "D": "洗車場", "correct": "A" }
+    ]
+  },
+  {
+    "english": "garbage",
+    "pron": "ˈɡɑːrbɪdʒ",
+    "kana": "ガービッジ",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "中英語 garbage（くず・臓物）に由来",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "基本語"],
+    "meaning_main": "ごみ / 生ごみ / くだらないもの",
+    "description": "garbage（ガービッジ）の意味・発音・使い方。ごみ・生ごみ・くだらないものを表す基本英単語。例文・語源・クイズで学べます。",
+    "keywords": ["garbage 意味", "garbage 使い方", "garbage 例文", "ごみ 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】ごみ、生ごみ", "note": "主に米国で台所などのごみ。数えない名詞。take out the garbage（ごみを出す）。" },
+      { "hinshi": "【名詞】くだらないもの", "note": "比喩的に『たわごと・くだらない内容』。" }
+    ],
+    "usages": [
+      { "title": "① ごみ", "desc": "台所などのごみ", "example_en": "Please take out the garbage.", "example_ja": "ごみを出してください。" },
+      { "title": "② くだらないもの", "desc": "比喩的に", "example_en": "That movie was garbage.", "example_ja": "あの映画はくだらなかった。" }
+    ],
+    "warn": ["米国で garbage、英国では rubbish が一般的。数えない名詞。trash も似た意味。"],
+    "etym_note": "中英語 garbage（鳥などの臓物・くず）に由来する。もとは『捨てる肉くず』を指し、そこから『ごみ』全般へ意味が広がった。",
+    "etym_chain": [
+      { "node": "garbage", "sub": "臓物・くず", "era": "中英語" },
+      { "node": "garbage", "sub": "ごみ", "era": "近代英語" },
+      { "node": "garbage", "sub": "ごみ・くだらないもの", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "take out the garbage", "ja": "ごみを出す" },
+      { "en": "a garbage can", "ja": "ごみ箱（米）" },
+      { "en": "a garbage truck", "ja": "ごみ収集車" },
+      { "en": "garbage bag", "ja": "ごみ袋" },
+      { "en": "throw away garbage", "ja": "ごみを捨てる" },
+      { "en": "kitchen garbage", "ja": "生ごみ" }
+    ],
+    "related": [
+      { "en": "trash", "ja": "ごみ（米）" },
+      { "en": "rubbish", "ja": "ごみ（英）" },
+      { "en": "waste", "ja": "廃棄物" }
+    ],
+    "faq": [
+      { "q": "garbage と rubbish の違いは？", "a": "意味は同じ『ごみ』で、garbage は主に米国、rubbish は英国で使われます。" },
+      { "q": "数えられる？", "a": "数えない名詞です。『ごみ箱』は a garbage can のように容器で数えます。" }
+    ],
+    "quiz": [
+      { "q": "「ごみを出してください」= Please take out the ___.", "A": "garbage", "B": "garage", "C": "garden", "D": "grammar", "correct": "A" },
+      { "q": "a garbage truck の意味は？", "A": "ごみ収集車", "B": "消防車", "C": "救急車", "D": "郵便車", "correct": "A" }
+    ]
+  },
+  {
+    "english": "garlic",
+    "pron": "ˈɡɑːrlɪk",
+    "kana": "ガーリック",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "古英語 gārlēac（槍のようなネギ）に由来",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "基本語"],
+    "meaning_main": "にんにく",
+    "description": "garlic（ガーリック）の意味・発音・使い方。香味野菜のにんにくを表す基本英単語。例文・語源・クイズで学べます。",
+    "keywords": ["garlic 意味", "garlic 使い方", "garlic 例文", "にんにく 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】にんにく", "note": "強い香りの香味野菜。数えない名詞。a clove of garlic（にんにく1片）。" }
+    ],
+    "usages": [
+      { "title": "① にんにく（食材）", "desc": "料理で", "example_en": "This soup has a lot of garlic in it.", "example_ja": "このスープにはにんにくがたくさん入っている。" },
+      { "title": "② にんにく1片", "desc": "a clove of garlic", "example_en": "Add one clove of garlic.", "example_ja": "にんにくを1片加えなさい。" }
+    ],
+    "warn": ["数えない名詞。1片は a clove of garlic、丸ごと1つは a bulb / head of garlic。"],
+    "etym_note": "古英語 gārlēac に由来し、gār（槍）+ lēac（ネギ）で『槍のようなネギ』を意味した。細長い葉の形にちなむ。leek（西洋ネギ）と同じ lēac。",
+    "etym_chain": [
+      { "node": "gārlēac", "sub": "槍のようなネギ", "era": "古英語" },
+      { "node": "garlek", "sub": "にんにく", "era": "中英語" },
+      { "node": "garlic", "sub": "にんにく", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a clove of garlic", "ja": "にんにく1片" },
+      { "en": "garlic bread", "ja": "ガーリックブレッド" },
+      { "en": "chopped garlic", "ja": "刻んだにんにく" },
+      { "en": "fresh garlic", "ja": "生のにんにく" },
+      { "en": "garlic powder", "ja": "ガーリックパウダー" },
+      { "en": "the smell of garlic", "ja": "にんにくのにおい" }
+    ],
+    "related": [
+      { "en": "onion", "ja": "たまねぎ" },
+      { "en": "ginger", "ja": "しょうが" },
+      { "en": "vegetable", "ja": "野菜" }
+    ],
+    "faq": [
+      { "q": "にんにく1片は英語で？", "a": "a clove of garlic と言います。丸ごと1つは a bulb of garlic です。" },
+      { "q": "garlic は数えられる？", "a": "ふつう数えない名詞です。数えるときは clove（片）や bulb（球）を使います。" }
+    ],
+    "quiz": [
+      { "q": "「にんにく1片」= a ___ of garlic.", "A": "clove", "B": "cup", "C": "glass", "D": "slice", "correct": "A" },
+      { "q": "garlic の意味は？", "A": "にんにく", "B": "たまねぎ", "C": "にんじん", "D": "じゃがいも", "correct": "A" }
+    ]
+  },
+  {
+    "english": "gap",
+    "pron": "ɡæp",
+    "kana": "ギャップ",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "古ノルド語 gap（すき間・裂け目）に由来",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "頻出語"],
+    "meaning_main": "すき間 / 隔たり / 空白",
+    "description": "gap（ギャップ）の意味・発音・使い方。すき間・隔たり・空白を表す頻出英単語。例文・語源・クイズで学べます。",
+    "keywords": ["gap 意味", "gap 使い方", "gap 例文", "すき間 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】すき間、割れ目", "note": "物と物のあいだの空間。a gap in the fence（塀のすき間）。" },
+      { "hinshi": "【名詞】隔たり、差", "note": "the generation gap（世代間のずれ）、a wage gap（賃金格差）。" }
+    ],
+    "usages": [
+      { "title": "① すき間", "desc": "物理的な空間", "example_en": "There is a gap between the two houses.", "example_ja": "2軒の家の間にすき間がある。" },
+      { "title": "② 隔たり・差", "desc": "抽象的なずれ", "example_en": "There is a big gap between rich and poor.", "example_ja": "貧富の間には大きな差がある。" }
+    ],
+    "warn": ["日本語の『ギャップ（意外性）』とは意味がずれる。英語の gap は『すき間・隔たり・差』が中心。"],
+    "etym_note": "古ノルド語 gap（口を開けたすき間・裂け目）に由来する。gape（口を大きく開ける）と同じ系統で、『開いた空間』を表す。",
+    "etym_chain": [
+      { "node": "gap", "sub": "すき間・裂け目", "era": "古ノルド語" },
+      { "node": "gap", "sub": "すき間", "era": "中英語" },
+      { "node": "gap", "sub": "すき間・隔たり", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a gap between ~", "ja": "～の間のすき間" },
+      { "en": "the generation gap", "ja": "世代間のずれ" },
+      { "en": "close the gap", "ja": "差を縮める" },
+      { "en": "bridge the gap", "ja": "隔たりを埋める" },
+      { "en": "a wide gap", "ja": "大きな隔たり" },
+      { "en": "a gap year", "ja": "ギャップイヤー（進学前の休学年）" }
+    ],
+    "related": [
+      { "en": "space", "ja": "空間" },
+      { "en": "hole", "ja": "穴" },
+      { "en": "difference", "ja": "違い" }
+    ],
+    "faq": [
+      { "q": "英語の gap と日本語の『ギャップ』は同じ？", "a": "英語の gap は『すき間・隔たり・差』が中心で、日本語の『意外性』の意味は含みません。" },
+      { "q": "the generation gap とは？", "a": "親と子など『世代間の考え方のずれ』を指す表現です。" }
+    ],
+    "quiz": [
+      { "q": "「2軒の家の間にすき間がある」= There is a ___ between the two houses.", "A": "gap", "B": "gas", "C": "gate", "D": "grade", "correct": "A" },
+      { "q": "close the gap の意味は？", "A": "差を縮める", "B": "門を閉じる", "C": "穴を掘る", "D": "道を開く", "correct": "A" }
+    ]
+  }
+]
