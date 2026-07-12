@@ -1,0 +1,494 @@
+[
+  {
+    "english": "grade",
+    "pron": "ɡreɪd",
+    "kana": "グレイド",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 gradus（歩み・段階）に由来",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "基本語"],
+    "meaning_main": "成績 / 学年 / 等級",
+    "description": "grade（グレイド）の意味・発音・使い方。成績・学年・等級を表す基本英単語。例文・語源・クイズで学べます。",
+    "keywords": ["grade 意味", "grade 使い方", "grade 例文", "成績 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】成績、評点", "note": "テストなどの評価。get a good grade（よい成績を取る）。" },
+      { "hinshi": "【名詞】学年", "note": "主に米国で。the sixth grade（6年生）。" },
+      { "hinshi": "【動詞】採点する、等級をつける", "note": "grade the tests（テストを採点する）。" }
+    ],
+    "usages": [
+      { "title": "① 成績", "desc": "評点として", "example_en": "She got the best grade in the class.", "example_ja": "彼女はクラスで一番よい成績を取った。" },
+      { "title": "② 学年", "desc": "米国式", "example_en": "My brother is in the fifth grade.", "example_ja": "弟は5年生だ。" }
+    ],
+    "warn": ["英国では『学年』を year、『成績』を mark とも言う。grade は主に米国式。"],
+    "etym_note": "ラテン語 gradus（歩み・段・段階）に由来し、フランス語を経て英語に入った。『段階・区分』の意味から、成績や学年へ広がった。",
+    "etym_chain": [
+      { "node": "gradus", "sub": "歩み・段階", "era": "ラテン語" },
+      { "node": "grade", "sub": "等級", "era": "フランス語" },
+      { "node": "grade", "sub": "成績・学年", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "get a good grade", "ja": "よい成績を取る" },
+      { "en": "the first grade", "ja": "1年生" },
+      { "en": "grade the tests", "ja": "テストを採点する" },
+      { "en": "top grade", "ja": "最高等級" },
+      { "en": "a passing grade", "ja": "合格点" },
+      { "en": "grade point average", "ja": "成績平均点（GPA）" }
+    ],
+    "related": [
+      { "en": "mark", "ja": "評点（英）" },
+      { "en": "score", "ja": "得点" },
+      { "en": "level", "ja": "水準" }
+    ],
+    "faq": [
+      { "q": "grade と mark の違いは？", "a": "どちらも成績を表しますが、grade は主に米国、mark は英国でよく使われます。" },
+      { "q": "『5年生』は？", "a": "米国式で the fifth grade と言います。" }
+    ],
+    "quiz": [
+      { "q": "「よい成績を取る」= get a good ___.", "A": "grade", "B": "grass", "C": "glass", "D": "gate", "correct": "A" },
+      { "q": "the fifth grade の意味は？", "A": "5年生", "B": "5時", "C": "5冊", "D": "5階", "correct": "A" }
+    ]
+  },
+  {
+    "english": "guitar",
+    "pron": "ɡɪˈtɑːr",
+    "kana": "ギター",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ギリシャ語 kithara（弦楽器）に由来",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "基本語"],
+    "meaning_main": "ギター",
+    "description": "guitar（ギター）の意味・発音・使い方。弦楽器ギターを表す基本英単語。例文・語源・クイズで学べます。",
+    "keywords": ["guitar 意味", "guitar 使い方", "guitar 例文", "ギター 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】ギター", "note": "6本の弦をはじいて演奏する楽器。an electric guitar（エレキギター）。" }
+    ],
+    "usages": [
+      { "title": "① ギターを弾く", "desc": "play the guitar", "example_en": "He can play the guitar very well.", "example_ja": "彼はとても上手にギターを弾ける。" },
+      { "title": "② 楽器として", "desc": "種類を示す", "example_en": "She bought a new guitar.", "example_ja": "彼女は新しいギターを買った。" }
+    ],
+    "warn": ["『ギターを弾く』は楽器名の前に the をつけて play the guitar と言うのが基本。発音は後ろに強勢 /ɡɪˈtɑːr/。"],
+    "etym_note": "ギリシャ語 kithara（竪琴の一種）に由来し、アラビア語・スペイン語 guitarra を経て英語に入った。中東・南欧を通じて伝わった弦楽器の名。",
+    "etym_chain": [
+      { "node": "kithara", "sub": "弦楽器", "era": "古代ギリシャ語" },
+      { "node": "guitarra", "sub": "ギター", "era": "スペイン語" },
+      { "node": "guitar", "sub": "ギター", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "play the guitar", "ja": "ギターを弾く" },
+      { "en": "an electric guitar", "ja": "エレキギター" },
+      { "en": "an acoustic guitar", "ja": "アコースティックギター" },
+      { "en": "a guitar lesson", "ja": "ギターのレッスン" },
+      { "en": "a guitar string", "ja": "ギターの弦" },
+      { "en": "a bass guitar", "ja": "ベースギター" }
+    ],
+    "related": [
+      { "en": "piano", "ja": "ピアノ" },
+      { "en": "violin", "ja": "バイオリン" },
+      { "en": "music", "ja": "音楽" }
+    ],
+    "faq": [
+      { "q": "『ギターを弾く』は？", "a": "play the guitar と、楽器名の前に the をつけて言うのが一般的です。" },
+      { "q": "エレキギターは？", "a": "an electric guitar と言います。" }
+    ],
+    "quiz": [
+      { "q": "「ギターを弾く」= play the ___.", "A": "guitar", "B": "guess", "C": "guide", "D": "guest", "correct": "A" },
+      { "q": "an electric guitar の意味は？", "A": "エレキギター", "B": "電子ピアノ", "C": "太鼓", "D": "笛", "correct": "A" }
+    ]
+  },
+  {
+    "english": "guess",
+    "pron": "ɡes",
+    "kana": "ゲス",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "verb",
+    "ld_etym": "中英語 gessen（推測する）に由来",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "基本語"],
+    "meaning_main": "推測する / 言い当てる / 思う",
+    "description": "guess（ゲス）の意味・発音・使い方。推測する・言い当てる・思うを表す基本動詞。例文・語源・クイズで学べます。",
+    "keywords": ["guess 意味", "guess 使い方", "guess 例文", "推測 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】推測する、言い当てる", "note": "確かでないことを見当をつける。Guess what!（当ててみて！）。" },
+      { "hinshi": "【動詞】(I guessで)～だと思う", "note": "口語で控えめに『たぶん～だと思う』。" },
+      { "hinshi": "【名詞】推測", "note": "make a guess（推測する）。" }
+    ],
+    "usages": [
+      { "title": "① 推測する", "desc": "見当をつける", "example_en": "Can you guess my age?", "example_ja": "私の年齢を当てられる？" },
+      { "title": "② ～だと思う", "desc": "I guess で", "example_en": "I guess you're right.", "example_ja": "たぶん君が正しいと思う。" }
+    ],
+    "warn": ["I guess は I think よりくだけた・控えめな『～だと思う』。主に会話で使う。"],
+    "etym_note": "中英語 gessen（見当をつける）に由来し、古ノルド語系の語につながるとされる。『確かでないことを推し量る』意味を保っている。",
+    "etym_chain": [
+      { "node": "gessen", "sub": "推測する", "era": "中英語" },
+      { "node": "guess", "sub": "推測する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Guess what!", "ja": "当ててみて！／ねえ聞いて！" },
+      { "en": "I guess so", "ja": "たぶんそうだと思う" },
+      { "en": "make a guess", "ja": "推測する" },
+      { "en": "a good guess", "ja": "いい線の推測" },
+      { "en": "guess right", "ja": "言い当てる" },
+      { "en": "a wild guess", "ja": "あてずっぽう" }
+    ],
+    "related": [
+      { "en": "think", "ja": "思う" },
+      { "en": "suppose", "ja": "推測する" },
+      { "en": "imagine", "ja": "想像する" }
+    ],
+    "faq": [
+      { "q": "guess と think の違いは？", "a": "guess は確かでない『推測』、think は考えた上での『思う』です。I guess はより控えめな響きです。" },
+      { "q": "Guess what! の意味は？", "a": "『当ててみて！』『ねえ聞いて！』と、話を切り出すときの決まり文句です。" }
+    ],
+    "quiz": [
+      { "q": "「私の年齢を当てられる？」= Can you ___ my age?", "A": "guess", "B": "guide", "C": "guard", "D": "guest", "correct": "A" },
+      { "q": "make a guess の意味は？", "A": "推測する", "B": "約束する", "C": "感謝する", "D": "命令する", "correct": "A" }
+    ]
+  },
+  {
+    "english": "guest",
+    "pron": "ɡest",
+    "kana": "ゲスト",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "古ノルド語 gestr（客）に由来",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "基本語"],
+    "meaning_main": "客 / 招待客 / 宿泊客",
+    "description": "guest（ゲスト）の意味・発音・使い方。客・招待客・宿泊客を表す基本英単語。例文・語源・クイズで学べます。",
+    "keywords": ["guest 意味", "guest 使い方", "guest 例文", "客 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】客、招待客", "note": "家やパーティーに招かれた人。a dinner guest（夕食の客）。" },
+      { "hinshi": "【名詞】(ホテルの)宿泊客", "note": "hotel guests（ホテルの宿泊客）。" }
+    ],
+    "usages": [
+      { "title": "① 招待客", "desc": "招かれた人", "example_en": "We had ten guests at the party.", "example_ja": "パーティーには10人の客が来た。" },
+      { "title": "② 宿泊客", "desc": "ホテルなどで", "example_en": "The hotel welcomes its guests warmly.", "example_ja": "そのホテルは宿泊客を温かく迎える。" }
+    ],
+    "warn": ["招かれた『客』は guest、店の『客』は customer、乗客は passenger と使い分ける。"],
+    "etym_note": "古ノルド語 gestr（客・よそ者）に由来するゲルマン系の語。ラテン語 hostis（よそ者・敵）と同じ語根で、『訪れる外部の人』を表す。",
+    "etym_chain": [
+      { "node": "gestr", "sub": "客・よそ者", "era": "古ノルド語" },
+      { "node": "gest", "sub": "客", "era": "中英語" },
+      { "node": "guest", "sub": "客", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a dinner guest", "ja": "夕食の客" },
+      { "en": "a special guest", "ja": "特別ゲスト" },
+      { "en": "welcome guests", "ja": "客を迎える" },
+      { "en": "a guest room", "ja": "客間・来客用の部屋" },
+      { "en": "a hotel guest", "ja": "ホテルの宿泊客" },
+      { "en": "a guest of honor", "ja": "主賓" }
+    ],
+    "related": [
+      { "en": "host", "ja": "主人役" },
+      { "en": "visitor", "ja": "訪問者" },
+      { "en": "customer", "ja": "顧客" }
+    ],
+    "faq": [
+      { "q": "guest と customer の違いは？", "a": "guest は招かれた客・宿泊客、customer は店で買い物をする客です。" },
+      { "q": "guest の対になる語は？", "a": "もてなす側の host（主人役）です。" }
+    ],
+    "quiz": [
+      { "q": "「パーティーには10人の客が来た」= We had ten ___ at the party.", "A": "guests", "B": "guesses", "C": "guides", "D": "guards", "correct": "A" },
+      { "q": "guest の対になる語は？", "A": "host", "B": "goal", "C": "grade", "D": "grass", "correct": "A" }
+    ]
+  },
+  {
+    "english": "guide",
+    "pron": "ɡaɪd",
+    "kana": "ガイド",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "noun",
+    "ld_etym": "古フランス語 guider（導く）に由来",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "基本語"],
+    "meaning_main": "案内人 / 手引き / 案内する",
+    "description": "guide（ガイド）の意味・発音・使い方。案内人・手引き・案内するを表す基本英単語。例文・語源・クイズで学べます。",
+    "keywords": ["guide 意味", "guide 使い方", "guide 例文", "案内 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】案内人、ガイド", "note": "道や観光を案内する人。a tour guide（観光ガイド）。" },
+      { "hinshi": "【名詞】手引き、案内書", "note": "a guidebook（ガイドブック）。" },
+      { "hinshi": "【動詞】案内する、導く", "note": "guide someone to ~（人を～へ案内する）。" }
+    ],
+    "usages": [
+      { "title": "① 案内人", "desc": "人を指して", "example_en": "The guide showed us around the city.", "example_ja": "ガイドが私たちに街を案内してくれた。" },
+      { "title": "② 案内する", "desc": "動詞として", "example_en": "She guided us to the station.", "example_ja": "彼女は私たちを駅まで案内した。" }
+    ],
+    "warn": ["名詞・動詞どちらでも使える。案内書の意味では guidebook とも言う。"],
+    "etym_note": "古フランス語 guider（導く）に由来し、さらにゲルマン系の『見る・知る』を表す語につながる。『先に立って導くこと』を核とする。",
+    "etym_chain": [
+      { "node": "guider", "sub": "導く", "era": "古フランス語" },
+      { "node": "guide", "sub": "案内する", "era": "中英語" },
+      { "node": "guide", "sub": "案内人・案内する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a tour guide", "ja": "観光ガイド" },
+      { "en": "a guidebook", "ja": "ガイドブック" },
+      { "en": "a study guide", "ja": "学習の手引き" },
+      { "en": "guide someone to ~", "ja": "人を～へ案内する" },
+      { "en": "a guide dog", "ja": "盲導犬" },
+      { "en": "a travel guide", "ja": "旅行案内（書・人）" }
+    ],
+    "related": [
+      { "en": "lead", "ja": "導く" },
+      { "en": "show", "ja": "案内する" },
+      { "en": "direct", "ja": "指し示す" }
+    ],
+    "faq": [
+      { "q": "guide は名詞と動詞どちらで使う？", "a": "両方で使えます。『案内人』の名詞、『案内する』の動詞です。" },
+      { "q": "『盲導犬』は？", "a": "a guide dog と言います。" }
+    ],
+    "quiz": [
+      { "q": "「ガイドが街を案内してくれた」= The ___ showed us around the city.", "A": "guide", "B": "guess", "C": "guest", "D": "guard", "correct": "A" },
+      { "q": "a guidebook の意味は？", "A": "ガイドブック", "B": "教科書", "C": "辞書", "D": "小説", "correct": "A" }
+    ]
+  },
+  {
+    "english": "gun",
+    "pron": "ɡʌn",
+    "kana": "ガン",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "女性名 Gunnhildr の愛称に由来する説",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "基本語"],
+    "meaning_main": "銃 / 鉄砲 / 大砲",
+    "description": "gun（ガン）の意味・発音・使い方。銃・鉄砲・大砲を表す基本英単語。例文・語源・クイズで学べます。",
+    "keywords": ["gun 意味", "gun 使い方", "gun 例文", "銃 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】銃、鉄砲", "note": "弾丸を発射する武器の総称。a toy gun（おもちゃの銃）。" },
+      { "hinshi": "【名詞】大砲、砲", "note": "大型のものを指すこともある。" }
+    ],
+    "usages": [
+      { "title": "① 銃", "desc": "武器として", "example_en": "The police officer carried a gun.", "example_ja": "その警官は銃を携帯していた。" },
+      { "title": "② 発砲する", "desc": "fire a gun", "example_en": "He fired the gun into the air.", "example_ja": "彼は空に向けて銃を発砲した。" }
+    ],
+    "warn": ["けん銃は pistol / handgun、ライフルは rifle。gun はそれらを含む総称。"],
+    "etym_note": "中世に大型の兵器につけられた女性名 Gunnhildr（『戦い』を意味する要素を含む）の愛称に由来するとされる。武器を擬人化して呼んだ名残とされる。",
+    "etym_chain": [
+      { "node": "Gunnhildr", "sub": "女性名（『戦い』の意）", "era": "古ノルド語" },
+      { "node": "gunne", "sub": "大型兵器", "era": "中英語" },
+      { "node": "gun", "sub": "銃", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a toy gun", "ja": "おもちゃの銃" },
+      { "en": "fire a gun", "ja": "銃を発砲する" },
+      { "en": "carry a gun", "ja": "銃を携帯する" },
+      { "en": "point a gun", "ja": "銃を向ける" },
+      { "en": "a water gun", "ja": "水鉄砲" },
+      { "en": "gun control", "ja": "銃規制" }
+    ],
+    "related": [
+      { "en": "pistol", "ja": "けん銃" },
+      { "en": "rifle", "ja": "ライフル" },
+      { "en": "weapon", "ja": "武器" }
+    ],
+    "faq": [
+      { "q": "gun と pistol の違いは？", "a": "gun は銃の総称、pistol は片手で扱う小型のけん銃です。" },
+      { "q": "『水鉄砲』は？", "a": "a water gun と言います。" }
+    ],
+    "quiz": [
+      { "q": "「その警官は銃を携帯していた」= The police officer carried a ___.", "A": "gun", "B": "gum", "C": "cap", "D": "cup", "correct": "A" },
+      { "q": "gun の意味は？", "A": "銃", "B": "傘", "C": "靴", "D": "鍵", "correct": "A" }
+    ]
+  },
+  {
+    "english": "grape",
+    "pron": "ɡreɪp",
+    "kana": "グレイプ",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "古フランス語 grape（房）に由来",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "基本語"],
+    "meaning_main": "ぶどう",
+    "description": "grape（グレイプ）の意味・発音・使い方。果物のぶどうを表す基本英単語。例文・語源・クイズで学べます。",
+    "keywords": ["grape 意味", "grape 使い方", "grape 例文", "ぶどう 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】ぶどう", "note": "小さな粒が房になる果物。ふつう複数形 grapes で扱う。" }
+    ],
+    "usages": [
+      { "title": "① ぶどう（果物）", "desc": "食べ物として", "example_en": "I like to eat grapes.", "example_ja": "私はぶどうを食べるのが好きだ。" },
+      { "title": "② 一房のぶどう", "desc": "a bunch of grapes", "example_en": "She bought a bunch of grapes.", "example_ja": "彼女はぶどうを一房買った。" }
+    ],
+    "warn": ["1粒ずつ数えられるので、ふつう複数形 grapes。一房は a bunch of grapes。ワインは grape から作る。"],
+    "etym_note": "古フランス語 grape（房・ぶどうの房）に由来し、もとは『（実をもぎ取る）かぎ・つかむもの』を表す語につながる。房状に実ることから名づけられた。",
+    "etym_chain": [
+      { "node": "grape", "sub": "房", "era": "古フランス語" },
+      { "node": "grape", "sub": "ぶどう", "era": "中英語" },
+      { "node": "grape", "sub": "ぶどう", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a bunch of grapes", "ja": "ぶどう一房" },
+      { "en": "green grapes", "ja": "緑のぶどう" },
+      { "en": "eat grapes", "ja": "ぶどうを食べる" },
+      { "en": "grape juice", "ja": "ぶどうジュース" },
+      { "en": "seedless grapes", "ja": "種なしぶどう" },
+      { "en": "sour grapes", "ja": "負け惜しみ" }
+    ],
+    "related": [
+      { "en": "wine", "ja": "ワイン" },
+      { "en": "fruit", "ja": "果物" },
+      { "en": "raisin", "ja": "干しぶどう" }
+    ],
+    "faq": [
+      { "q": "grape は単数？複数？", "a": "1粒ずつ数えられるので、食べるときはふつう複数形 grapes を使います。" },
+      { "q": "sour grapes とは？", "a": "『負け惜しみ』を表す慣用句で、イソップ寓話に由来します。" }
+    ],
+    "quiz": [
+      { "q": "「ぶどう一房」= a bunch of ___.", "A": "grapes", "B": "grades", "C": "guests", "D": "guides", "correct": "A" },
+      { "q": "grape juice の意味は？", "A": "ぶどうジュース", "B": "りんごジュース", "C": "牛乳", "D": "お茶", "correct": "A" }
+    ]
+  },
+  {
+    "english": "gray",
+    "pron": "ɡreɪ",
+    "kana": "グレイ",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "adjective",
+    "ld_etym": "古英語 grǣg（灰色の）に由来",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "基本語"],
+    "meaning_main": "灰色の / グレー / どんよりした",
+    "description": "gray（グレイ）の意味・発音・使い方。灰色・グレー・どんよりしたを表す基本英単語。例文・語源・クイズで学べます。",
+    "keywords": ["gray 意味", "gray 使い方", "gray 例文", "灰色 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】灰色の、グレーの", "note": "白と黒の中間の色。a gray suit（グレーのスーツ）。" },
+      { "hinshi": "【形容詞】(髪が)白髪の", "note": "gray hair（白髪）。" },
+      { "hinshi": "【形容詞】どんよりした", "note": "a gray sky（どんよりした空）。" }
+    ],
+    "usages": [
+      { "title": "① 灰色の", "desc": "色を表す", "example_en": "He is wearing a gray coat.", "example_ja": "彼は灰色のコートを着ている。" },
+      { "title": "② 白髪の", "desc": "髪について", "example_en": "Her hair is turning gray.", "example_ja": "彼女の髪は白髪になりつつある。" }
+    ],
+    "warn": ["米国式は gray、英国式は grey とつづる。どちらも正しい。"],
+    "etym_note": "古英語 grǣg（灰色の）に由来するゲルマン系の語。天候・髪・気分など、はっきりしない中間的なものを表すのに広く使われる。",
+    "etym_chain": [
+      { "node": "grǣg", "sub": "灰色の", "era": "古英語" },
+      { "node": "grey", "sub": "灰色の", "era": "中英語" },
+      { "node": "gray", "sub": "灰色の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a gray suit", "ja": "グレーのスーツ" },
+      { "en": "gray hair", "ja": "白髪" },
+      { "en": "a gray sky", "ja": "どんよりした空" },
+      { "en": "dark gray", "ja": "濃い灰色" },
+      { "en": "light gray", "ja": "薄い灰色" },
+      { "en": "a gray area", "ja": "あいまいな領域" }
+    ],
+    "related": [
+      { "en": "grey", "ja": "灰色の（英）" },
+      { "en": "black", "ja": "黒" },
+      { "en": "white", "ja": "白" }
+    ],
+    "faq": [
+      { "q": "gray と grey の違いは？", "a": "同じ意味で、gray は米国式、grey は英国式のつづりです。" },
+      { "q": "a gray area とは？", "a": "白黒はっきりしない『あいまいな領域』を表す比喩表現です。" }
+    ],
+    "quiz": [
+      { "q": "「彼は灰色のコートを着ている」= He is wearing a ___ coat.", "A": "gray", "B": "grape", "C": "grade", "D": "grass", "correct": "A" },
+      { "q": "gray の英国式つづりは？", "A": "grey", "B": "graigh", "C": "graye", "D": "grai", "correct": "A" }
+    ]
+  },
+  {
+    "english": "guy",
+    "pron": "ɡaɪ",
+    "kana": "ガイ",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "人名 Guy Fawkes に由来",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "口語語"],
+    "meaning_main": "男 / やつ / (複数で)みんな",
+    "description": "guy（ガイ）の意味・発音・使い方。男・やつ・みんなを表す口語の基本英単語。例文・語源・クイズで学べます。",
+    "keywords": ["guy 意味", "guy 使い方", "guy 例文", "やつ 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】男、やつ", "note": "くだけた言い方で『男の人』。a nice guy（いいやつ）。" },
+      { "hinshi": "【名詞】(you guysで)みんな", "note": "口語で男女問わず『みんな』への呼びかけ。" }
+    ],
+    "usages": [
+      { "title": "① 男・やつ", "desc": "くだけた表現", "example_en": "He's a really nice guy.", "example_ja": "彼は本当にいいやつだ。" },
+      { "title": "② みんな（呼びかけ）", "desc": "you guys で", "example_en": "Hey, you guys! Let's go.", "example_ja": "ねえみんな！行こう。" }
+    ],
+    "warn": ["guy は主に会話で使うくだけた語。you guys は男女混合の集団への呼びかけにも使える。"],
+    "etym_note": "1605年に英国議会の爆破を企てたガイ・フォークス（Guy Fawkes）の名に由来する。彼の人形を『guy』と呼んだことから『男・やつ』の意味に広がった。",
+    "etym_chain": [
+      { "node": "Guy Fawkes", "sub": "人名", "era": "17世紀" },
+      { "node": "guy", "sub": "（人形の）男", "era": "近代英語" },
+      { "node": "guy", "sub": "男・やつ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a nice guy", "ja": "いいやつ" },
+      { "en": "you guys", "ja": "君たち、みんな" },
+      { "en": "a tough guy", "ja": "強がりの男、タフなやつ" },
+      { "en": "the good guys", "ja": "善玉、味方" },
+      { "en": "the bad guys", "ja": "悪玉、敵" },
+      { "en": "a big guy", "ja": "大柄な男" }
+    ],
+    "related": [
+      { "en": "man", "ja": "男性" },
+      { "en": "fellow", "ja": "やつ、仲間" },
+      { "en": "person", "ja": "人" }
+    ],
+    "faq": [
+      { "q": "guy は失礼な言葉？", "a": "いいえ。くだけた会話で普通に使う語で、a nice guy のように好意的にも使えます。" },
+      { "q": "you guys は女性にも使う？", "a": "はい。口語では男女混合の集団への呼びかけとして広く使われます。" }
+    ],
+    "quiz": [
+      { "q": "「彼は本当にいいやつだ」= He's a really nice ___.", "A": "guy", "B": "guide", "C": "guest", "D": "guard", "correct": "A" },
+      { "q": "the bad guys の意味は？", "A": "悪玉・敵", "B": "先生たち", "C": "客", "D": "審判", "correct": "A" }
+    ]
+  },
+  {
+    "english": "gas",
+    "pron": "ɡæs",
+    "kana": "ガス",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ギリシャ語 khaos（混沌）をもとにした造語",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "基本語"],
+    "meaning_main": "気体 / ガス / (米)ガソリン",
+    "description": "gas（ガス）の意味・発音・使い方。気体・ガス・ガソリンを表す基本英単語。例文・語源・クイズで学べます。",
+    "keywords": ["gas 意味", "gas 使い方", "gas 例文", "ガス 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】気体", "note": "固体・液体に対する状態。oxygen is a gas（酸素は気体だ）。" },
+      { "hinshi": "【名詞】ガス（燃料）", "note": "調理・暖房用の燃料。a gas stove（ガスコンロ）。" },
+      { "hinshi": "【名詞】(米)ガソリン", "note": "gasoline の略。米国では車の燃料を gas と言う。" }
+    ],
+    "usages": [
+      { "title": "① 気体", "desc": "物質の状態", "example_en": "Water becomes gas when it boils.", "example_ja": "水は沸騰すると気体になる。" },
+      { "title": "② ガソリン（米）", "desc": "車の燃料", "example_en": "We need to get some gas.", "example_ja": "ガソリンを入れる必要がある。" }
+    ],
+    "warn": ["米国では車の燃料（ガソリン）を gas、英国では petrol と言う。複数形は gases。"],
+    "etym_note": "17世紀の科学者ヘルモントが、ギリシャ語 khaos（混沌）をもとに『気体』を表す語として造った。学術的な造語が日常語になった珍しい例。",
+    "etym_chain": [
+      { "node": "khaos", "sub": "混沌", "era": "古代ギリシャ語" },
+      { "node": "gas", "sub": "気体（造語）", "era": "17世紀" },
+      { "node": "gas", "sub": "気体・ガス", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a gas stove", "ja": "ガスコンロ" },
+      { "en": "natural gas", "ja": "天然ガス" },
+      { "en": "a gas station", "ja": "ガソリンスタンド（米）" },
+      { "en": "run out of gas", "ja": "ガス欠になる" },
+      { "en": "poison gas", "ja": "毒ガス" },
+      { "en": "gas and oil", "ja": "ガスと石油" }
+    ],
+    "related": [
+      { "en": "gasoline", "ja": "ガソリン" },
+      { "en": "petrol", "ja": "ガソリン（英）" },
+      { "en": "liquid", "ja": "液体" }
+    ],
+    "faq": [
+      { "q": "gas と petrol の違いは？", "a": "車の燃料を、米国では gas、英国では petrol と言います。" },
+      { "q": "『ガソリンスタンド』は？", "a": "米国では a gas station、英国では a petrol station と言います。" }
+    ],
+    "quiz": [
+      { "q": "「水は沸騰すると気体になる」= Water becomes ___ when it boils.", "A": "gas", "B": "grass", "C": "glass", "D": "guess", "correct": "A" },
+      { "q": "a gas station（米）の意味は？", "A": "ガソリンスタンド", "B": "駅", "C": "空港", "D": "港", "correct": "A" }
+    ]
+  }
+]
