@@ -1,0 +1,493 @@
+[
+  {
+    "english": "grand",
+    "pron": "ɡrænd",
+    "kana": "グランド",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "ラテン語 grandis（大きい・偉大な）に由来",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "頻出語"],
+    "meaning_main": "壮大な / 豪華な / 堂々とした",
+    "description": "grand（グランド）の意味・発音・使い方。壮大な・豪華な・堂々としたを表す頻出英単語。例文・語源・クイズで学べます。",
+    "keywords": ["grand 意味", "grand 使い方", "grand 例文", "壮大 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】壮大な、豪華な", "note": "規模が大きく立派な。a grand hotel（豪華なホテル）。" },
+      { "hinshi": "【形容詞】堂々とした、主要な", "note": "the grand prize（大賞）、the grand total（総計）。" }
+    ],
+    "usages": [
+      { "title": "① 壮大な・豪華な", "desc": "規模の大きさ", "example_en": "They live in a grand old house.", "example_ja": "彼らは壮大な古い家に住んでいる。" },
+      { "title": "② 主要な・最高の", "desc": "grand prize など", "example_en": "She won the grand prize.", "example_ja": "彼女は大賞を取った。" }
+    ],
+    "warn": ["日本語の『グラウンド（運動場）』は ground。grand（壮大な）とは別語。"],
+    "etym_note": "ラテン語 grandis（大きい・偉大な）に由来し、フランス語 grand を経て英語に入った。『大きくて立派』という価値づけを含む点が big/large と異なる。",
+    "etym_chain": [
+      { "node": "grandis", "sub": "大きい・偉大な", "era": "ラテン語" },
+      { "node": "grand", "sub": "大きい・立派な", "era": "古フランス語" },
+      { "node": "grand", "sub": "壮大な・豪華な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a grand hotel", "ja": "豪華なホテル" },
+      { "en": "the grand prize", "ja": "大賞" },
+      { "en": "the grand total", "ja": "総計" },
+      { "en": "a grand piano", "ja": "グランドピアノ" },
+      { "en": "on a grand scale", "ja": "大規模に" },
+      { "en": "a grand design", "ja": "壮大な構想" }
+    ],
+    "related": [
+      { "en": "magnificent", "ja": "壮麗な" },
+      { "en": "great", "ja": "偉大な" },
+      { "en": "splendid", "ja": "見事な" }
+    ],
+    "faq": [
+      { "q": "grand と ground の違いは？", "a": "grand は『壮大な』という形容詞、ground は『地面・運動場』という名詞です。まったく別の語です。" },
+      { "q": "the grand total とは？", "a": "すべてを合計した『総計』を指します。" }
+    ],
+    "quiz": [
+      { "q": "「彼女は大賞を取った」= She won the grand ___.", "A": "prize", "B": "price", "C": "place", "D": "piece", "correct": "A" },
+      { "q": "grand の意味に近いのは？", "A": "壮大な", "B": "小さな", "C": "退屈な", "D": "静かな", "correct": "A" }
+    ]
+  },
+  {
+    "english": "generation",
+    "pron": "ˌdʒenəˈreɪʃn",
+    "kana": "ジェネレイション",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 generare（生み出す）に由来",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "頻出語"],
+    "meaning_main": "世代 / 同世代の人々 / 発生",
+    "description": "generation（ジェネレイション）の意味・発音・使い方。世代・同世代の人々・発生を表す頻出英単語。例文・語源・クイズで学べます。",
+    "keywords": ["generation 意味", "generation 使い方", "generation 例文", "世代 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】世代", "note": "親・子・孫のような区切り。the younger generation（若い世代）。" },
+      { "hinshi": "【名詞】(電力などの)発生", "note": "power generation（発電）。" }
+    ],
+    "usages": [
+      { "title": "① 世代", "desc": "年齢層の区切り", "example_en": "This custom has passed down for generations.", "example_ja": "この習慣は何世代も受け継がれてきた。" },
+      { "title": "② 発生", "desc": "作り出すこと", "example_en": "The dam is used for power generation.", "example_ja": "そのダムは発電に使われている。" }
+    ],
+    "warn": ["the next generation（次世代）、the generation gap（世代間のずれ）など複合表現が多い。動詞は generate（生み出す）。"],
+    "etym_note": "ラテン語 generare（生み出す・産む、genus＝種類 に由来）から。『生み出されたひとまとまり＝同時期に生まれた人々』の意味に発展した。",
+    "etym_chain": [
+      { "node": "generare", "sub": "生み出す", "era": "ラテン語" },
+      { "node": "generacion", "sub": "世代", "era": "古フランス語" },
+      { "node": "generation", "sub": "世代・発生", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the younger generation", "ja": "若い世代" },
+      { "en": "the next generation", "ja": "次世代" },
+      { "en": "for generations", "ja": "何世代にもわたって" },
+      { "en": "the generation gap", "ja": "世代間のずれ" },
+      { "en": "power generation", "ja": "発電" },
+      { "en": "from generation to generation", "ja": "世代から世代へ" }
+    ],
+    "related": [
+      { "en": "generate", "ja": "生み出す" },
+      { "en": "age", "ja": "年齢、時代" },
+      { "en": "descendant", "ja": "子孫" }
+    ],
+    "faq": [
+      { "q": "generation の動詞形は？", "a": "generate（生み出す・発生させる）です。" },
+      { "q": "1世代はおよそ何年？", "a": "厳密な定義はありませんが、親から子までのおよそ25〜30年を1世代とすることが多いです。" }
+    ],
+    "quiz": [
+      { "q": "「この習慣は何世代も受け継がれてきた」= for ___.", "A": "generations", "B": "gardens", "C": "gestures", "D": "guards", "correct": "A" },
+      { "q": "power generation の意味は？", "A": "発電", "B": "節電", "C": "停電", "D": "送電", "correct": "A" }
+    ]
+  },
+  {
+    "english": "gesture",
+    "pron": "ˈdʒestʃər",
+    "kana": "ジェスチャー",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 gerere（行う・ふるまう）に由来",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "頻出語"],
+    "meaning_main": "身ぶり / しぐさ / (好意などの)表れ",
+    "description": "gesture（ジェスチャー）の意味・発音・使い方。身ぶり・しぐさ・好意の表れを表す頻出英単語。例文・語源・クイズで学べます。",
+    "keywords": ["gesture 意味", "gesture 使い方", "gesture 例文", "身ぶり 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】身ぶり、しぐさ", "note": "手や体で気持ちを表す動作。make a gesture（身ぶりをする）。" },
+      { "hinshi": "【名詞】(気持ちの)表れ、意思表示", "note": "a kind gesture（親切な心づかい）。" },
+      { "hinshi": "【動詞】身ぶりで示す", "note": "gesture to someone（人に身ぶりで合図する）。" }
+    ],
+    "usages": [
+      { "title": "① 身ぶり", "desc": "動作として", "example_en": "He made a friendly gesture with his hand.", "example_ja": "彼は手で親しげな身ぶりをした。" },
+      { "title": "② 気持ちの表れ", "desc": "抽象的に", "example_en": "Sending flowers was a kind gesture.", "example_ja": "花を贈るのは親切な心づかいだった。" }
+    ],
+    "warn": ["発音は /ˈdʒestʃər/。日本語の『ジェスチャー』とほぼ同じ意味だが、『好意の表れ』の用法も重要。"],
+    "etym_note": "ラテン語 gerere（行う・身にまとう・ふるまう）に由来し、『体を使ったふるまい』を表す語として英語に入った。",
+    "etym_chain": [
+      { "node": "gerere", "sub": "行う・ふるまう", "era": "ラテン語" },
+      { "node": "gestura", "sub": "身ぶり", "era": "中世ラテン語" },
+      { "node": "gesture", "sub": "身ぶり", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "make a gesture", "ja": "身ぶりをする" },
+      { "en": "a hand gesture", "ja": "手の身ぶり" },
+      { "en": "a kind gesture", "ja": "親切な心づかい" },
+      { "en": "a gesture of goodwill", "ja": "好意のしるし" },
+      { "en": "a friendly gesture", "ja": "友好的な意思表示" },
+      { "en": "gesture with one's hands", "ja": "手で身ぶりをする" }
+    ],
+    "related": [
+      { "en": "sign", "ja": "合図" },
+      { "en": "motion", "ja": "動作" },
+      { "en": "signal", "ja": "信号、合図" }
+    ],
+    "faq": [
+      { "q": "gesture の『好意の表れ』の意味は？", "a": "a kind gesture（親切な心づかい）のように、気持ちを示す行為そのものを指します。" },
+      { "q": "動詞でも使える？", "a": "はい。gesture to someone で『人に身ぶりで合図する』の意味です。" }
+    ],
+    "quiz": [
+      { "q": "「彼は手で親しげな身ぶりをした」= He made a friendly ___ with his hand.", "A": "gesture", "B": "guess", "C": "guard", "D": "grade", "correct": "A" },
+      { "q": "a gesture of goodwill の意味は？", "A": "好意のしるし", "B": "怒りの表現", "C": "拒否の合図", "D": "命令", "correct": "A" }
+    ]
+  },
+  {
+    "english": "gentleman",
+    "pron": "ˈdʒentlmən",
+    "kana": "ジェントルマン",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "gentle（生まれのよい）+ man（男）",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "基本語"],
+    "meaning_main": "紳士 / 男性(ていねいな言い方)",
+    "description": "gentleman（ジェントルマン）の意味・発音・使い方。紳士・（丁寧な）男性を表す基本英単語。例文・語源・クイズで学べます。",
+    "keywords": ["gentleman 意味", "gentleman 使い方", "gentleman 例文", "紳士 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】紳士、礼儀正しい男性", "note": "品位のある男性。a real gentleman（真の紳士）。" },
+      { "hinshi": "【名詞】(丁寧に)男性の方", "note": "呼びかけ Ladies and gentlemen（皆さま）。" }
+    ],
+    "usages": [
+      { "title": "① 紳士", "desc": "礼儀正しい男性", "example_en": "He is a perfect gentleman.", "example_ja": "彼は完璧な紳士だ。" },
+      { "title": "② 呼びかけ", "desc": "丁寧な言い方", "example_en": "Ladies and gentlemen, welcome!", "example_ja": "皆さま、ようこそ！" }
+    ],
+    "warn": ["複数形は gentlemen（発音は /ˈdʒentlmən/ とほぼ同じ）。女性の対は lady。"],
+    "etym_note": "gentle（生まれのよい・上品な）と man（男）が結びついた語。もとは『家柄のよい男性』を指し、のちに『礼儀正しい男性＝紳士』の意味に広がった。",
+    "etym_chain": [
+      { "node": "gentil + man", "sub": "上品な + 男", "era": "中英語" },
+      { "node": "gentleman", "sub": "紳士", "era": "近代英語" },
+      { "node": "gentleman", "sub": "紳士・男性の方", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a real gentleman", "ja": "真の紳士" },
+      { "en": "a perfect gentleman", "ja": "完璧な紳士" },
+      { "en": "Ladies and gentlemen", "ja": "皆さま（呼びかけ）" },
+      { "en": "an old gentleman", "ja": "年配の紳士" },
+      { "en": "act like a gentleman", "ja": "紳士的にふるまう" },
+      { "en": "a gentleman's agreement", "ja": "紳士協定" }
+    ],
+    "related": [
+      { "en": "lady", "ja": "淑女" },
+      { "en": "man", "ja": "男性" },
+      { "en": "gentle", "ja": "優しい" }
+    ],
+    "faq": [
+      { "q": "gentleman の複数形は？", "a": "gentlemen です。呼びかけの Ladies and gentlemen でよく使います。" },
+      { "q": "gentleman の対になる語は？", "a": "女性を指す lady（淑女）です。" }
+    ],
+    "quiz": [
+      { "q": "「皆さま、ようこそ！」= Ladies and ___, welcome!", "A": "gentlemen", "B": "gentles", "C": "generals", "D": "guests", "correct": "A" },
+      { "q": "gentleman の対になる語は？", "A": "lady", "B": "guard", "C": "guest", "D": "giant", "correct": "A" }
+    ]
+  },
+  {
+    "english": "golden",
+    "pron": "ˈɡoʊldən",
+    "kana": "ゴウルデン",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "gold（金）+ -en（～でできた）",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "基本語"],
+    "meaning_main": "金色の / 金の / 貴重な",
+    "description": "golden（ゴウルデン）の意味・発音・使い方。金色の・金の・貴重なを表す基本英単語。例文・語源・クイズで学べます。",
+    "keywords": ["golden 意味", "golden 使い方", "golden 例文", "金色 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】金色の", "note": "金のように輝く色。golden hair（金色の髪）。" },
+      { "hinshi": "【形容詞】貴重な、絶好の", "note": "比喩的に。a golden opportunity（絶好の機会）。" }
+    ],
+    "usages": [
+      { "title": "① 金色の", "desc": "色を表す", "example_en": "The field looked golden in the evening sun.", "example_ja": "その野原は夕日で金色に見えた。" },
+      { "title": "② 絶好の", "desc": "比喩的に", "example_en": "This is a golden opportunity.", "example_ja": "これは絶好の機会だ。" }
+    ],
+    "warn": ["gold（金・金製の）と golden（金色の・貴重な）は使い分ける。golden は比喩に使いやすい。"],
+    "etym_note": "名詞 gold（金）に『～でできた・～のような』を表す接尾辞 -en がついた形容詞。物理的な金色から『貴重な・すばらしい』の比喩へ広がった。",
+    "etym_chain": [
+      { "node": "gold + -en", "sub": "金 + ～でできた", "era": "古英語" },
+      { "node": "golden", "sub": "金色の", "era": "中英語" },
+      { "node": "golden", "sub": "金色の・貴重な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "golden hair", "ja": "金色の髪" },
+      { "en": "a golden opportunity", "ja": "絶好の機会" },
+      { "en": "the golden age", "ja": "黄金時代" },
+      { "en": "a golden rule", "ja": "黄金律・大原則" },
+      { "en": "golden light", "ja": "金色の光" },
+      { "en": "a golden ring", "ja": "金色の指輪" }
+    ],
+    "related": [
+      { "en": "gold", "ja": "金" },
+      { "en": "yellow", "ja": "黄色" },
+      { "en": "shiny", "ja": "輝く" }
+    ],
+    "faq": [
+      { "q": "gold と golden の違いは？", "a": "gold は『金・金製の』、golden は『金色の・貴重な』で、比喩的な表現に多く使われます。" },
+      { "q": "a golden opportunity とは？", "a": "めったにない『絶好の機会』を表す表現です。" }
+    ],
+    "quiz": [
+      { "q": "「これは絶好の機会だ」= This is a ___ opportunity.", "A": "golden", "B": "gold", "C": "goal", "D": "goat", "correct": "A" },
+      { "q": "the golden age の意味は？", "A": "黄金時代", "B": "青年期", "C": "老後", "D": "石器時代", "correct": "A" }
+    ]
+  },
+  {
+    "english": "govern",
+    "pron": "ˈɡʌvərn",
+    "kana": "ガヴァン",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "ラテン語 gubernare（かじを取る）に由来",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "頻出語"],
+    "meaning_main": "統治する / 治める / 支配する",
+    "description": "govern（ガヴァン）の意味・発音・使い方。統治する・治める・支配するを表す頻出動詞。例文・語源・クイズで学べます。",
+    "keywords": ["govern 意味", "govern 使い方", "govern 例文", "統治 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】統治する、治める", "note": "国や地域を治める。govern a country（国を治める）。" },
+      { "hinshi": "【動詞】(規則などが)支配する", "note": "The law governs our lives.（法が私たちの生活を規律する）。" }
+    ],
+    "usages": [
+      { "title": "① 国を治める", "desc": "統治する", "example_en": "The king governed the country wisely.", "example_ja": "王は賢く国を治めた。" },
+      { "title": "② 規律する", "desc": "規則が支配する", "example_en": "Strict rules govern the game.", "example_ja": "厳しい規則がその競技を律している。" }
+    ],
+    "warn": ["名詞は government（政府）、governor（知事）。control（管理する）と近いが、govern は『公的に治める』ニュアンス。"],
+    "etym_note": "ラテン語 gubernare（船のかじを取る）に由来し、フランス語 gouverner を経て英語に入った。『国というかじを取る＝治める』という比喩から。",
+    "etym_chain": [
+      { "node": "gubernare", "sub": "かじを取る", "era": "ラテン語" },
+      { "node": "governer", "sub": "治める", "era": "古フランス語" },
+      { "node": "govern", "sub": "統治する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "govern a country", "ja": "国を治める" },
+      { "en": "govern wisely", "ja": "賢く統治する" },
+      { "en": "the ruling party governs", "ja": "与党が政権を担う" },
+      { "en": "rules that govern ~", "ja": "～を規律する規則" },
+      { "en": "govern oneself", "ja": "自制する" },
+      { "en": "hard to govern", "ja": "治めにくい" }
+    ],
+    "related": [
+      { "en": "rule", "ja": "支配する" },
+      { "en": "control", "ja": "管理する" },
+      { "en": "government", "ja": "政府" }
+    ],
+    "faq": [
+      { "q": "govern の名詞形は？", "a": "government（政府・統治）と governor（知事・総督）があります。" },
+      { "q": "govern と control の違いは？", "a": "control は『管理・制御する』全般、govern は『国や組織を公的に治める』ことに重点があります。" }
+    ],
+    "quiz": [
+      { "q": "「王は賢く国を治めた」= The king ___ the country wisely.", "A": "governed", "B": "gathered", "C": "greeted", "D": "guarded", "correct": "A" },
+      { "q": "govern の名詞形は？", "A": "government", "B": "goodness", "C": "greatness", "D": "gratitude", "correct": "A" }
+    ]
+  },
+  {
+    "english": "glory",
+    "pron": "ˈɡlɔːri",
+    "kana": "グローリー",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 gloria（栄光）に由来",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "頻出語"],
+    "meaning_main": "栄光 / 名誉 / 荘厳さ",
+    "description": "glory（グローリー）の意味・発音・使い方。栄光・名誉・荘厳さを表す頻出英単語。例文・語源・クイズで学べます。",
+    "keywords": ["glory 意味", "glory 使い方", "glory 例文", "栄光 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】栄光、名誉", "note": "大きな称賛や誇り。win glory（栄光を勝ち取る）。" },
+      { "hinshi": "【名詞】荘厳さ、美しさ", "note": "the glory of nature（自然の荘厳さ）。" }
+    ],
+    "usages": [
+      { "title": "① 栄光", "desc": "称賛・誇り", "example_en": "The team returned home in glory.", "example_ja": "チームは栄光に包まれて帰郷した。" },
+      { "title": "② 荘厳さ", "desc": "美しさ・壮麗さ", "example_en": "We admired the glory of the sunset.", "example_ja": "私たちは夕日の荘厳さに見とれた。" }
+    ],
+    "warn": ["形容詞は glorious（輝かしい・見事な）。honor（名誉）と近いが、glory はより輝かしく大きな栄誉。"],
+    "etym_note": "ラテン語 gloria（栄光・名声）に由来し、フランス語を経て英語に入った。宗教的な『神の栄光』から世俗的な『名誉』まで幅広く使われる。",
+    "etym_chain": [
+      { "node": "gloria", "sub": "栄光・名声", "era": "ラテン語" },
+      { "node": "glorie", "sub": "栄光", "era": "古フランス語" },
+      { "node": "glory", "sub": "栄光", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "win glory", "ja": "栄光を勝ち取る" },
+      { "en": "in glory", "ja": "栄光に包まれて" },
+      { "en": "days of glory", "ja": "栄光の日々" },
+      { "en": "the glory of ~", "ja": "～の荘厳さ" },
+      { "en": "fame and glory", "ja": "名声と栄光" },
+      { "en": "past glory", "ja": "かつての栄光" }
+    ],
+    "related": [
+      { "en": "honor", "ja": "名誉" },
+      { "en": "fame", "ja": "名声" },
+      { "en": "glorious", "ja": "輝かしい" }
+    ],
+    "faq": [
+      { "q": "glory の形容詞形は？", "a": "glorious（輝かしい・見事な）です。" },
+      { "q": "glory と honor の違いは？", "a": "honor は『名誉・敬意』全般、glory はより輝かしく大きな『栄光』を表します。" }
+    ],
+    "quiz": [
+      { "q": "「栄光を勝ち取る」= ___ glory.", "A": "win", "B": "lose", "C": "buy", "D": "sell", "correct": "A" },
+      { "q": "glory の形容詞形は？", "A": "glorious", "B": "glory", "C": "glorify", "D": "gloriness", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ginger",
+    "pron": "ˈdʒɪndʒər",
+    "kana": "ジンジャー",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "サンスクリット語 śṛṅgavera に由来",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "基本語"],
+    "meaning_main": "しょうが / ジンジャー",
+    "description": "ginger（ジンジャー）の意味・発音・使い方。香味野菜のしょうがを表す基本英単語。例文・語源・クイズで学べます。",
+    "keywords": ["ginger 意味", "ginger 使い方", "ginger 例文", "しょうが 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】しょうが", "note": "辛みと香りのある根の香味野菜。数えない名詞。fresh ginger（生しょうが）。" },
+      { "hinshi": "【形容詞】(髪などが)赤茶色の", "note": "英国で ginger hair（赤毛）。" }
+    ],
+    "usages": [
+      { "title": "① しょうが（食材）", "desc": "料理で", "example_en": "Add some ginger to the soup.", "example_ja": "スープにしょうがを少し加えなさい。" },
+      { "title": "② ジンジャーの飲み物", "desc": "ginger ale など", "example_en": "I'd like a glass of ginger ale.", "example_ja": "ジンジャーエールを1杯ください。" }
+    ],
+    "warn": ["発音は /ˈdʒɪndʒər/ で『ジンジャー』。数えない名詞。英国では『赤毛』の意味の形容詞にもなる。"],
+    "etym_note": "サンスクリット語 śṛṅgavera（角の形をした根）に由来し、ギリシャ語・ラテン語・古フランス語を経て英語に入った。根の形にちなむ古い外来語。",
+    "etym_chain": [
+      { "node": "śṛṅgavera", "sub": "角の形の根（サンスクリット語）", "era": "古代インド" },
+      { "node": "gingivere", "sub": "しょうが", "era": "古フランス語" },
+      { "node": "ginger", "sub": "しょうが", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "fresh ginger", "ja": "生しょうが" },
+      { "en": "ginger ale", "ja": "ジンジャーエール" },
+      { "en": "ginger tea", "ja": "しょうが湯・ジンジャーティー" },
+      { "en": "grated ginger", "ja": "すりおろししょうが" },
+      { "en": "a ginger cookie", "ja": "ジンジャークッキー" },
+      { "en": "ginger hair", "ja": "赤毛（英）" }
+    ],
+    "related": [
+      { "en": "garlic", "ja": "にんにく" },
+      { "en": "spice", "ja": "香辛料" },
+      { "en": "root", "ja": "根" }
+    ],
+    "faq": [
+      { "q": "ginger の発音は？", "a": "/ˈdʒɪndʒər/ で『ジンジャー』です。数えない名詞です。" },
+      { "q": "『赤毛』の意味もある？", "a": "はい。特に英国で、赤茶色の髪を ginger hair と言います。" }
+    ],
+    "quiz": [
+      { "q": "「スープにしょうがを少し加えなさい」= Add some ___ to the soup.", "A": "ginger", "B": "giant", "C": "gesture", "D": "gate", "correct": "A" },
+      { "q": "ginger ale とは？", "A": "しょうが風味の飲み物", "B": "しょうがの薬", "C": "しょうがの畑", "D": "しょうがの缶詰", "correct": "A" }
+    ]
+  },
+  {
+    "english": "glance",
+    "pron": "ɡlæns",
+    "kana": "グランス",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "verb",
+    "ld_etym": "古フランス語 glacier（滑る）に由来",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "頻出語"],
+    "meaning_main": "ちらっと見る / 一瞥 / ざっと目を通す",
+    "description": "glance（グランス）の意味・発音・使い方。ちらっと見る・一瞥・ざっと見るを表す頻出英単語。例文・語源・クイズで学べます。",
+    "keywords": ["glance 意味", "glance 使い方", "glance 例文", "ちらっと見る 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】ちらっと見る", "note": "glance at ~ で『～をちらっと見る』。" },
+      { "hinshi": "【名詞】ちらっと見ること、一瞥", "note": "at a glance（一目で）。" }
+    ],
+    "usages": [
+      { "title": "① ちらっと見る", "desc": "glance at ~", "example_en": "She glanced at her watch.", "example_ja": "彼女は腕時計をちらっと見た。" },
+      { "title": "② 一目で", "desc": "at a glance", "example_en": "I understood the chart at a glance.", "example_ja": "私はその図を一目で理解した。" }
+    ],
+    "warn": ["glance は『ちらっと』短く見る、stare は『じっと』見つめる、gaze は『見とれる』。見る動作の使い分けに注意。"],
+    "etym_note": "古フランス語 glacier（滑る）に由来し、『視線がさっと滑る＝ちらっと見る』という発想から意味が生まれたとされる。glass（ガラス）とは別語源。",
+    "etym_chain": [
+      { "node": "glacier", "sub": "滑る", "era": "古フランス語" },
+      { "node": "glance", "sub": "さっと動く・ちらっと見る", "era": "中英語" },
+      { "node": "glance", "sub": "ちらっと見る", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "glance at ~", "ja": "～をちらっと見る" },
+      { "en": "at a glance", "ja": "一目で" },
+      { "en": "take a glance", "ja": "ちらっと見る" },
+      { "en": "a quick glance", "ja": "すばやい一瞥" },
+      { "en": "glance through ~", "ja": "～にざっと目を通す" },
+      { "en": "exchange glances", "ja": "目を見交わす" }
+    ],
+    "related": [
+      { "en": "look", "ja": "見る" },
+      { "en": "stare", "ja": "じっと見る" },
+      { "en": "gaze", "ja": "見つめる" }
+    ],
+    "faq": [
+      { "q": "glance と stare の違いは？", "a": "glance は『ちらっと短く見る』、stare は『じっと見つめる』です。" },
+      { "q": "at a glance とは？", "a": "『一目で・ぱっと見て』という意味の決まった表現です。" }
+    ],
+    "quiz": [
+      { "q": "「彼女は腕時計をちらっと見た」= She ___ at her watch.", "A": "glanced", "B": "gathered", "C": "grabbed", "D": "greeted", "correct": "A" },
+      { "q": "at a glance の意味は？", "A": "一目で", "B": "急いで", "C": "静かに", "D": "何度も", "correct": "A" }
+    ]
+  },
+  {
+    "english": "goods",
+    "pron": "ɡʊdz",
+    "kana": "グッズ",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "good（よいもの）の複数形に由来",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "頻出語"],
+    "meaning_main": "商品 / 品物 / 貨物",
+    "description": "goods（グッズ）の意味・発音・使い方。商品・品物・貨物を表す頻出英単語。例文・語源・クイズで学べます。",
+    "keywords": ["goods 意味", "goods 使い方", "goods 例文", "商品 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】商品、品物", "note": "売り買いされる品。つねに複数扱い。household goods（家庭用品）。" },
+      { "hinshi": "【名詞】(英)貨物", "note": "英国で運送される荷物。a goods train（貨物列車）。" }
+    ],
+    "usages": [
+      { "title": "① 商品", "desc": "売買される品", "example_en": "The store sells a variety of goods.", "example_ja": "その店はさまざまな商品を売っている。" },
+      { "title": "② 貨物（英）", "desc": "運送物として", "example_en": "The goods were delivered by truck.", "example_ja": "その品物はトラックで配達された。" }
+    ],
+    "warn": ["つねに複数形 goods で、単数の good（善・利益）とは意味が異なる。数詞で数えず a lot of goods のように言う。"],
+    "etym_note": "形容詞 good（よい）の複数形が名詞化し、『よいもの＝財産・商品』を意味するようになった。中英語期から『所有物・商品』の意味で使われている。",
+    "etym_chain": [
+      { "node": "gōd", "sub": "よい", "era": "古英語" },
+      { "node": "goods", "sub": "財産・商品", "era": "中英語" },
+      { "node": "goods", "sub": "商品・貨物", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "household goods", "ja": "家庭用品" },
+      { "en": "leather goods", "ja": "革製品" },
+      { "en": "sell goods", "ja": "商品を売る" },
+      { "en": "electrical goods", "ja": "電気製品" },
+      { "en": "a goods train", "ja": "貨物列車（英）" },
+      { "en": "canned goods", "ja": "缶詰食品" }
+    ],
+    "related": [
+      { "en": "product", "ja": "製品" },
+      { "en": "item", "ja": "品目" },
+      { "en": "merchandise", "ja": "商品" }
+    ],
+    "faq": [
+      { "q": "goods は単数？複数？", "a": "つねに複数扱いの名詞です。a good（善）とは別の意味になります。" },
+      { "q": "goods と product の違いは？", "a": "goods は売買される『品物全般』、product は作られた『製品』を指すことが多いです。" }
+    ],
+    "quiz": [
+      { "q": "「その店はさまざまな商品を売っている」= The store sells a variety of ___.", "A": "goods", "B": "good", "C": "golds", "D": "goals", "correct": "A" },
+      { "q": "household goods の意味は？", "A": "家庭用品", "B": "食料品店", "C": "貨物列車", "D": "商店街", "correct": "A" }
+    ]
+  }
+]
