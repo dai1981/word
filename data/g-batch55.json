@@ -1,0 +1,479 @@
+[
+  {
+    "english": "gauntlet",
+    "pron": "ˈɡɔːntlət",
+    "kana": "ゴーントレット",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "古フランス語 gantelet（小さな手袋）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "歴史"],
+    "meaning_main": "（甲冑の）こて / 長手袋 / 挑戦",
+    "description": "gauntlet（ゴーントレット）の意味・使い方・例文。甲冑の手甲（こて）や長手袋、比喩で「挑戦」、という意味の名詞を解説。",
+    "keywords": ["gauntlet 意味", "gauntlet 使い方", "こて 英語", "throw down the gauntlet 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】（甲冑の）こて / 手甲", "note": "鎧の手を守る金属製の手袋。" },
+      { "hinshi": "【名詞】長手袋 / 挑戦", "note": "「throw down the gauntlet」で「挑戦する」、「take up the gauntlet」で「挑戦に応じる」。" }
+    ],
+    "usages": [
+      { "title": "① 挑戦する", "desc": "決まり文句。", "example_en": "She threw down the gauntlet to her rivals.", "example_ja": "彼女はライバルたちに挑戦状をたたきつけた。" },
+      { "title": "② 甲冑のこて", "desc": "武具として。", "example_en": "The knight's gauntlet was made of steel.", "example_ja": "その騎士のこては鋼鉄製だった。" }
+    ],
+    "warn": ["「手袋・挑戦」の意は gauntlet が本来。「厳しい試練（run the gauntlet/gantlet）」の意では gantlet とも綴る（別語源との混同）。"],
+    "etym_note": "古フランス語 gantelet（gant「手袋」の縮小形＝小さな手袋）に由来。中世に手袋を投げつけて決闘を申し込んだことから「挑戦」の意になった。",
+    "etym_chain": [
+      { "node": "gant", "sub": "手袋", "era": "古フランス語" },
+      { "node": "gantelet", "sub": "小さな手袋", "era": "古フランス語" },
+      { "node": "gauntlet", "sub": "こて・挑戦", "era": "15世紀英語" }
+    ],
+    "phrases": [
+      { "en": "throw down the gauntlet", "ja": "挑戦状をたたきつける" },
+      { "en": "take up the gauntlet", "ja": "挑戦に応じる" },
+      { "en": "a steel gauntlet", "ja": "鋼鉄のこて" },
+      { "en": "a leather gauntlet", "ja": "革の長手袋" },
+      { "en": "pick up the gauntlet", "ja": "挑戦を受けて立つ" },
+      { "en": "a knight's gauntlet", "ja": "騎士のこて" }
+    ],
+    "related": [
+      { "en": "glove", "ja": "手袋" },
+      { "en": "challenge", "ja": "挑戦" },
+      { "en": "armor", "ja": "鎧・甲冑" }
+    ],
+    "faq": [
+      { "q": "throw down the gauntlet の意味は？", "a": "中世に手袋を投げて決闘を申し込んだことから、「挑戦する・挑戦状をたたきつける」という意味の成句です。" },
+      { "q": "gauntlet と gantlet の違いは？", "a": "「手袋・挑戦」は gauntlet が本来。「二列の間を走る厳しい試練」は gantlet（別語源）ですが、この意味では両綴りが使われます。" }
+    ],
+    "quiz": [
+      { "q": "「彼女はライバルたちに挑戦状をたたきつけた」= She threw down the ___ to her rivals.", "A": "gauntlet", "B": "goblet", "C": "gadget", "D": "garland", "correct": "A" },
+      { "q": "throw down the gauntlet の意味は？", "A": "挑戦する", "B": "降参する", "C": "感謝する", "D": "謝罪する", "correct": "A" }
+    ]
+  },
+  {
+    "english": "galvanometer",
+    "pron": "ˌɡælvəˈnɑːmɪtər",
+    "kana": "ガルバノメーター",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "Galvani（人名）+ -meter（計器）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C2", "科学"],
+    "meaning_main": "検流計 / 微小電流計",
+    "description": "galvanometer（ガルバノメーター）の意味・使い方・例文。微弱な電流の有無や大きさ・向きを測る検流計、という意味の科学用語を解説。",
+    "keywords": ["galvanometer 意味", "galvanometer 使い方", "検流計 英語", "電流計 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】検流計 / 微小電流計", "note": "ごく弱い電流の有無・大きさ・向きを検出・測定する装置。" }
+    ],
+    "usages": [
+      { "title": "① 電流の検出", "desc": "実験器具。", "example_en": "The galvanometer detected a tiny current.", "example_ja": "検流計はごく微弱な電流を検出した。" },
+      { "title": "② 針の振れ", "desc": "測定のようす。", "example_en": "The needle of the galvanometer moved.", "example_ja": "検流計の針が振れた。" }
+    ],
+    "warn": ["galvanometer は「検流計（微小電流計）」。ammeter（電流計）より微弱な電流を扱う。人名 Galvani に由来。"],
+    "etym_note": "イタリアの科学者 Galvani（ガルバーニ）の名に、「計器」を表す -meter が付いた語。ガルバニ電流を測ることから。",
+    "etym_chain": [
+      { "node": "Galvani", "sub": "人名（科学者）", "era": "18世紀イタリア" },
+      { "node": "galvanometer", "sub": "検流計", "era": "19世紀英語" }
+    ],
+    "phrases": [
+      { "en": "a sensitive galvanometer", "ja": "高感度の検流計" },
+      { "en": "read the galvanometer", "ja": "検流計を読む" },
+      { "en": "the galvanometer deflects", "ja": "検流計の針が振れる" },
+      { "en": "a mirror galvanometer", "ja": "鏡式検流計" },
+      { "en": "connect a galvanometer", "ja": "検流計をつなぐ" },
+      { "en": "the galvanometer reading", "ja": "検流計の読み" }
+    ],
+    "related": [
+      { "en": "ammeter", "ja": "電流計" },
+      { "en": "voltmeter", "ja": "電圧計" },
+      { "en": "galvanic", "ja": "電流の・ガルバニ電気の" }
+    ],
+    "faq": [
+      { "q": "galvanometer と ammeter の違いは？", "a": "galvanometer はごく微弱な電流の検出・測定に使い、ammeter はより大きな電流の測定に使います。" },
+      { "q": "galvanometer の由来は？", "a": "電気の実験で知られる科学者 Galvani の名に、計器を表す -meter を付けた語です。" }
+    ],
+    "quiz": [
+      { "q": "「検流計はごく微弱な電流を検出した」= The ___ detected a tiny current.", "A": "galvanometer", "B": "thermometer", "C": "barometer", "D": "odometer", "correct": "A" },
+      { "q": "galvanometer が測るのは？", "A": "微弱な電流", "B": "温度", "C": "気圧", "D": "距離", "correct": "A" }
+    ]
+  },
+  {
+    "english": "garrulity",
+    "pron": "ɡəˈruːləti",
+    "kana": "ガルーリティ",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 garrulus（おしゃべりな）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C2", "性質"],
+    "meaning_main": "おしゃべり / 多弁 / 冗長",
+    "description": "garrulity（ガルーリティ）の意味・使い方・例文。とりとめなくしゃべり続けること、多弁、冗長、という意味の名詞を解説。",
+    "keywords": ["garrulity 意味", "garrulity 使い方", "多弁 英語", "おしゃべり 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】おしゃべり / 多弁 / 冗長", "note": "つまらないことを長々と話し続けること。しばしば否定的。" }
+    ],
+    "usages": [
+      { "title": "① 多弁", "desc": "しゃべりすぎ。", "example_en": "His garrulity wore out his listeners.", "example_ja": "彼の多弁は聞き手をうんざりさせた。" },
+      { "title": "② 冗長な語り", "desc": "話が長い。", "example_en": "The old man's garrulity charmed the children.", "example_ja": "その老人のおしゃべりは子どもたちを楽しませた。" }
+    ],
+    "warn": ["garrulity は形容詞 garrulous（おしゃべりな）の名詞形。garrulousness とも言う。多くは否定的なニュアンス。"],
+    "etym_note": "ラテン語 garrulus（おしゃべりな。garrire「ぺちゃくちゃ言う」から）に由来し、名詞化した語。",
+    "etym_chain": [
+      { "node": "garrire", "sub": "ぺちゃくちゃ言う", "era": "ラテン語" },
+      { "node": "garrulus", "sub": "おしゃべりな", "era": "ラテン語" },
+      { "node": "garrulity", "sub": "多弁・おしゃべり", "era": "17世紀英語" }
+    ],
+    "phrases": [
+      { "en": "endless garrulity", "ja": "とめどないおしゃべり" },
+      { "en": "his garrulity", "ja": "彼の多弁" },
+      { "en": "tiresome garrulity", "ja": "うんざりする多弁" },
+      { "en": "a fit of garrulity", "ja": "しゃべりまくること" },
+      { "en": "the garrulity of old age", "ja": "老年の多弁" },
+      { "en": "drunken garrulity", "ja": "酔ってのおしゃべり" }
+    ],
+    "related": [
+      { "en": "garrulous", "ja": "おしゃべりな・多弁な" },
+      { "en": "loquacity", "ja": "多弁・能弁" },
+      { "en": "talkativeness", "ja": "おしゃべりなこと" }
+    ],
+    "faq": [
+      { "q": "garrulity の形容詞は？", "a": "garrulous（おしゃべりな・多弁な）です。" },
+      { "q": "garrulity と loquacity の違いは？", "a": "どちらも多弁ですが、garrulity は「とりとめのないおしゃべり」、loquacity は「よくしゃべる能弁さ」を指すことが多いです。" }
+    ],
+    "quiz": [
+      { "q": "「彼の多弁は聞き手をうんざりさせた」= His ___ wore out his listeners.", "A": "garrulity", "B": "gratuity", "C": "gravity", "D": "granularity", "correct": "A" },
+      { "q": "garrulity の形容詞は？", "A": "garrulous", "B": "gracious", "C": "generous", "D": "grievous", "correct": "A" }
+    ]
+  },
+  {
+    "english": "gaudiness",
+    "pron": "ˈɡɔːdinəs",
+    "kana": "ゴーディネス",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "gaudy（けばけばしい）+ -ness",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "性質"],
+    "meaning_main": "けばけばしさ / 派手で下品なこと",
+    "description": "gaudiness（ゴーディネス）の意味・使い方・例文。派手で品のないけばけばしさ、という意味の名詞を解説。",
+    "keywords": ["gaudiness 意味", "gaudiness 使い方", "けばけばしさ 英語", "派手 下品 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】けばけばしさ / 派手で下品なこと", "note": "色や飾りが過剰で、趣味の悪い派手さ。否定的。" }
+    ],
+    "usages": [
+      { "title": "① けばけばしい装飾", "desc": "過剰な派手さ。", "example_en": "The gaudiness of the decorations was overwhelming.", "example_ja": "その装飾のけばけばしさは圧倒的だった。" },
+      { "title": "② 悪趣味な華美", "desc": "品のなさ。", "example_en": "She disliked the gaudiness of the resort.", "example_ja": "彼女はそのリゾートのけばけばしさを嫌った。" }
+    ],
+    "warn": ["gaudiness は gaudy（けばけばしい・派手で下品な）の名詞形。単なる「華やか」ではなく否定的な「悪趣味」を含む。"],
+    "etym_note": "形容詞 gaudy（けばけばしい。ラテン語 gaudium「喜び」や中英語 gaud「装身具」に由来）に -ness が付いた語。",
+    "etym_chain": [
+      { "node": "gaudium", "sub": "喜び", "era": "ラテン語" },
+      { "node": "gaudy", "sub": "けばけばしい", "era": "16世紀英語" },
+      { "node": "gaudiness", "sub": "けばけばしさ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the gaudiness of the decor", "ja": "装飾のけばけばしさ" },
+      { "en": "sheer gaudiness", "ja": "まったくのけばけばしさ" },
+      { "en": "vulgar gaudiness", "ja": "下品なけばけばしさ" },
+      { "en": "colorful gaudiness", "ja": "けばけばしい色使い" },
+      { "en": "avoid gaudiness", "ja": "けばけばしさを避ける" },
+      { "en": "a touch of gaudiness", "ja": "少し派手すぎるところ" }
+    ],
+    "related": [
+      { "en": "gaudy", "ja": "けばけばしい・派手で下品な" },
+      { "en": "garishness", "ja": "けばけばしさ・どぎつさ" },
+      { "en": "tawdriness", "ja": "安っぽいけばけばしさ" }
+    ],
+    "faq": [
+      { "q": "gaudiness は良い意味ですか？", "a": "いいえ。単なる「華やか」ではなく、過剰で趣味の悪い「けばけばしさ」を表す否定的な語です。" },
+      { "q": "gaudiness の形容詞は？", "a": "gaudy（けばけばしい・派手で下品な）です。" }
+    ],
+    "quiz": [
+      { "q": "「その装飾のけばけばしさは圧倒的だった」= The ___ of the decorations was overwhelming.", "A": "gaudiness", "B": "gladness", "C": "goodness", "D": "greatness", "correct": "A" },
+      { "q": "gaudiness の形容詞は？", "A": "gaudy", "B": "gauzy", "C": "gusty", "D": "gutsy", "correct": "A" }
+    ]
+  },
+  {
+    "english": "gavotte",
+    "pron": "ɡəˈvɑːt",
+    "kana": "ガボット",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "フランス語 gavotte（ガボット舞曲）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C2", "音楽"],
+    "meaning_main": "ガボット / 17〜18世紀の舞曲",
+    "description": "gavotte（ガボット）の意味・使い方・例文。17〜18世紀フランス起源の中庸なテンポの舞曲、ガボット、という意味の音楽用語を解説。",
+    "keywords": ["gavotte 意味", "gavotte 使い方", "ガボット 英語", "舞曲 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】ガボット", "note": "17〜18世紀フランス起源の、4分の4拍子で中庸なテンポの優雅な舞曲。組曲の一部にも用いられた。" }
+    ],
+    "usages": [
+      { "title": "① 舞曲として", "desc": "宮廷舞踏。", "example_en": "They danced a stately gavotte.", "example_ja": "彼らは優雅なガボットを踊った。" },
+      { "title": "② 組曲の楽章", "desc": "バロック音楽。", "example_en": "Bach included a gavotte in the suite.", "example_ja": "バッハはその組曲にガボットを入れた。" }
+    ],
+    "warn": ["gavotte は「17〜18世紀の舞曲」。バロック組曲の一楽章としても現れる。発音は「ガボット」/ɡəˈvɑːt/。"],
+    "etym_note": "フランス語 gavotte に由来し、南仏の Gavot 地方（の人々）の踊りから名づけられたとされる。",
+    "etym_chain": [
+      { "node": "Gavot", "sub": "南仏の地方（人）", "era": "フランス語" },
+      { "node": "gavotte", "sub": "ガボット舞曲", "era": "17世紀フランス語〜英語" }
+    ],
+    "phrases": [
+      { "en": "dance a gavotte", "ja": "ガボットを踊る" },
+      { "en": "a stately gavotte", "ja": "優雅なガボット" },
+      { "en": "a gavotte in G", "ja": "ト調のガボット" },
+      { "en": "play a gavotte", "ja": "ガボットを演奏する" },
+      { "en": "a baroque gavotte", "ja": "バロックのガボット" },
+      { "en": "the rhythm of a gavotte", "ja": "ガボットのリズム" }
+    ],
+    "related": [
+      { "en": "minuet", "ja": "メヌエット" },
+      { "en": "suite", "ja": "組曲" },
+      { "en": "waltz", "ja": "ワルツ" }
+    ],
+    "faq": [
+      { "q": "gavotte とはどんな音楽？", "a": "17〜18世紀フランス起源の、4分の4拍子で中庸なテンポの優雅な舞曲です。バロック組曲にも現れます。" },
+      { "q": "gavotte と minuet の違いは？", "a": "どちらも古い舞曲ですが、minuet（メヌエット）は4分の3拍子、gavotte は4分の4拍子です。" }
+    ],
+    "quiz": [
+      { "q": "「彼らは優雅なガボットを踊った」= They danced a stately ___.", "A": "gavotte", "B": "gazette", "C": "gadget", "D": "goblet", "correct": "A" },
+      { "q": "gavotte とは何？", "A": "17〜18世紀の舞曲", "B": "打楽器", "C": "歌劇", "D": "民族衣装", "correct": "A" }
+    ]
+  },
+  {
+    "english": "gearshift",
+    "pron": "ˈɡɪrʃɪft",
+    "kana": "ギアシフト",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "gear（歯車・ギア）+ shift（切り替え）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "機械"],
+    "meaning_main": "変速レバー / シフトレバー",
+    "description": "gearshift（ギアシフト）の意味・使い方・例文。車のギアを切り替える変速レバー、シフトレバー、という意味の名詞を解説。",
+    "keywords": ["gearshift 意味", "gearshift 使い方", "シフトレバー 英語", "変速レバー 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】変速レバー / シフトレバー", "note": "車で歯車（ギア）を切り替える操作レバー。gear lever とも言う。" }
+    ],
+    "usages": [
+      { "title": "① ギアを変える", "desc": "運転操作。", "example_en": "He moved the gearshift into first gear.", "example_ja": "彼はシフトレバーを1速に入れた。" },
+      { "title": "② 車の装備", "desc": "部品として。", "example_en": "The gearshift is on the center console.", "example_ja": "シフトレバーはセンターコンソールにある。" }
+    ],
+    "warn": ["gearshift は「変速レバー」。英国では gear lever / gearstick とも言う。歯車箱そのものは gearbox。"],
+    "etym_note": "gear（歯車・ギア）と shift（移す・切り替える）を合わせた語。「ギアを切り替えるもの」を意味する。",
+    "etym_chain": [
+      { "node": "gear + shift", "sub": "ギア＋切り替え", "era": "英語の複合" },
+      { "node": "gearshift", "sub": "変速レバー", "era": "20世紀英語" }
+    ],
+    "phrases": [
+      { "en": "move the gearshift", "ja": "シフトレバーを動かす" },
+      { "en": "grab the gearshift", "ja": "シフトレバーを握る" },
+      { "en": "a manual gearshift", "ja": "マニュアルのシフトレバー" },
+      { "en": "the gearshift lever", "ja": "変速レバー" },
+      { "en": "shift into gear", "ja": "ギアを入れる" },
+      { "en": "a floor gearshift", "ja": "フロア式シフトレバー" }
+    ],
+    "related": [
+      { "en": "gearbox", "ja": "変速機・ギアボックス" },
+      { "en": "clutch", "ja": "クラッチ" },
+      { "en": "gear lever", "ja": "変速レバー（英）" }
+    ],
+    "faq": [
+      { "q": "gearshift と gearbox の違いは？", "a": "gearshift は運転者が操作する「変速レバー」、gearbox はギアを収めた「変速機（本体）」です。" },
+      { "q": "gearshift の別の言い方は？", "a": "英国では gear lever や gearstick とも呼ばれます。" }
+    ],
+    "quiz": [
+      { "q": "「彼はシフトレバーを1速に入れた」= He moved the ___ into first gear.", "A": "gearshift", "B": "gearbox", "C": "gangway", "D": "gasket", "correct": "A" },
+      { "q": "gearshift の意味は？", "A": "変速レバー", "B": "変速機本体", "C": "エンジン", "D": "ブレーキ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "gemology",
+    "pron": "dʒeˈmɑːlədʒi",
+    "kana": "ジェモロジー",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "gem（宝石）+ -ology（学問）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "学問"],
+    "meaning_main": "宝石学",
+    "description": "gemology（ジェモロジー）の意味・使い方・例文。宝石の性質・鑑別・評価を研究する宝石学、という意味の名詞を解説。",
+    "keywords": ["gemology 意味", "gemology 使い方", "宝石学 英語", "宝石鑑別 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】宝石学", "note": "宝石の種類・性質・産地・鑑別・評価を研究する学問。英つづり gemmology とも。" }
+    ],
+    "usages": [
+      { "title": "① 学問分野", "desc": "宝石の研究。", "example_en": "She studied gemology to become an appraiser.", "example_ja": "彼女は鑑定士になるため宝石学を学んだ。" },
+      { "title": "② 宝石の鑑別", "desc": "実務への応用。", "example_en": "Gemology helps distinguish real from fake stones.", "example_ja": "宝石学は本物と偽物の石を見分けるのに役立つ。" }
+    ],
+    "warn": ["gemology は「宝石学」。専門家は gemologist（宝石学者・鑑定士）。英国式綴りは gemmology。"],
+    "etym_note": "gem（宝石。ラテン語 gemma「芽・宝石」から）に「学問」を表す -ology が付いた語。",
+    "etym_chain": [
+      { "node": "gemma", "sub": "芽・宝石", "era": "ラテン語" },
+      { "node": "gem", "sub": "宝石", "era": "中英語" },
+      { "node": "gemology", "sub": "宝石学", "era": "20世紀英語" }
+    ],
+    "phrases": [
+      { "en": "study gemology", "ja": "宝石学を学ぶ" },
+      { "en": "a gemology course", "ja": "宝石学の講座" },
+      { "en": "the field of gemology", "ja": "宝石学の分野" },
+      { "en": "modern gemology", "ja": "現代の宝石学" },
+      { "en": "a gemology certificate", "ja": "宝石学の資格" },
+      { "en": "gemology lab", "ja": "宝石鑑別所" }
+    ],
+    "related": [
+      { "en": "gemologist", "ja": "宝石学者・鑑定士" },
+      { "en": "gem", "ja": "宝石" },
+      { "en": "mineralogy", "ja": "鉱物学" }
+    ],
+    "faq": [
+      { "q": "gemology とは何を学ぶ？", "a": "宝石の種類・性質・産地・鑑別・評価などを研究する学問です。" },
+      { "q": "gemology の専門家は？", "a": "gemologist（宝石学者・宝石鑑定士）です。" }
+    ],
+    "quiz": [
+      { "q": "「彼女は鑑定士になるため宝石学を学んだ」= She studied ___ to become an appraiser.", "A": "gemology", "B": "geology", "C": "genealogy", "D": "gerontology", "correct": "A" },
+      { "q": "gemology が扱うのは？", "A": "宝石", "B": "岩石・地層", "C": "家系", "D": "老化", "correct": "A" }
+    ]
+  },
+  {
+    "english": "gendarme",
+    "pron": "ˈʒɑːndɑːrm",
+    "kana": "ジャンダルム",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "フランス語 gens d'armes（武装した人々）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "社会"],
+    "meaning_main": "（フランスなどの）憲兵 / 国家憲兵隊員",
+    "description": "gendarme（ジャンダルム）の意味・使い方・例文。フランスなどの国家憲兵隊（軍組織の警察）の隊員、という意味の名詞を解説。",
+    "keywords": ["gendarme 意味", "gendarme 使い方", "憲兵 英語", "フランス 警察 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】（フランスなどの）憲兵 / 国家憲兵隊員", "note": "フランス・イタリアなどで、軍隊の一部として治安維持を担う警察官。" }
+    ],
+    "usages": [
+      { "title": "① フランスの警官", "desc": "治安維持。", "example_en": "A gendarme directed traffic in the village.", "example_ja": "憲兵が村で交通整理をしていた。" },
+      { "title": "② 国家憲兵隊", "desc": "組織として。", "example_en": "The gendarmes patrolled the border.", "example_ja": "国家憲兵隊が国境を巡回した。" }
+    ],
+    "warn": ["gendarme はフランス等の「国家憲兵（軍組織の警察）」。組織は gendarmerie。発音は「ジャンダルム」。"],
+    "etym_note": "フランス語 gens d'armes（武装した人々）が縮まった語。もとは重装騎兵を指し、のち治安を担う警察官の意になった。",
+    "etym_chain": [
+      { "node": "gens d'armes", "sub": "武装した人々", "era": "古フランス語" },
+      { "node": "gendarme", "sub": "憲兵", "era": "18世紀英語" }
+    ],
+    "phrases": [
+      { "en": "a French gendarme", "ja": "フランスの憲兵" },
+      { "en": "gendarmes on patrol", "ja": "巡回中の憲兵" },
+      { "en": "the gendarmerie", "ja": "国家憲兵隊" },
+      { "en": "a mounted gendarme", "ja": "騎馬憲兵" },
+      { "en": "call the gendarmes", "ja": "憲兵を呼ぶ" },
+      { "en": "a village gendarme", "ja": "村の憲兵" }
+    ],
+    "related": [
+      { "en": "gendarmerie", "ja": "国家憲兵隊" },
+      { "en": "policeman", "ja": "警察官" },
+      { "en": "constable", "ja": "巡査" }
+    ],
+    "faq": [
+      { "q": "gendarme はふつうの警官と違う？", "a": "gendarme は軍の一部として治安維持を担う「憲兵」で、フランスやイタリアなどにあります。都市部の一般警察とは組織が異なります。" },
+      { "q": "gendarme の組織名は？", "a": "gendarmerie（国家憲兵隊）です。" }
+    ],
+    "quiz": [
+      { "q": "「憲兵が村で交通整理をしていた」= A ___ directed traffic in the village.", "A": "gendarme", "B": "gentleman", "C": "gardener", "D": "governor", "correct": "A" },
+      { "q": "gendarme はどの国の制度で有名？", "A": "フランス", "B": "日本", "C": "アメリカ", "D": "中国", "correct": "A" }
+    ]
+  },
+  {
+    "english": "gazillion",
+    "pron": "ɡəˈzɪljən",
+    "kana": "ガジリオン",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "million/billion をもじった造語",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "口語"],
+    "meaning_main": "無数 / ものすごくたくさん（の数）",
+    "description": "gazillion（ガジリオン）の意味・使い方・例文。数え切れないほど膨大な数を表すくだけた造語、という意味の名詞を解説。",
+    "keywords": ["gazillion 意味", "gazillion 使い方", "無数 英語", "ものすごい数 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】無数 / ものすごくたくさん", "note": "million（100万）や billion（10億）をもじった、実在しないおどけた大きな数。「数え切れないほど」の意。" }
+    ],
+    "usages": [
+      { "title": "① 誇張の数", "desc": "くだけた強調。", "example_en": "I've told you a gazillion times.", "example_ja": "もう何百万回も言ったでしょ。" },
+      { "title": "② 膨大な量", "desc": "おどけた表現。", "example_en": "There were a gazillion stars in the sky.", "example_ja": "空には数え切れないほどの星があった。" }
+    ],
+    "warn": ["gazillion は実在の数ではなく、おどけて「ものすごい数」を表すくだけた語。zillion, bazillion なども同種。正式な場面には不向き。"],
+    "etym_note": "million や billion の語尾 -illion に、擬似的な接頭部 gaz- を付けて作られた戯言的な造語。20世紀のアメリカ口語。",
+    "etym_chain": [
+      { "node": "-illion", "sub": "大きな数の語尾", "era": "英語" },
+      { "node": "gazillion", "sub": "無数・膨大な数", "era": "20世紀アメリカ口語" }
+    ],
+    "phrases": [
+      { "en": "a gazillion times", "ja": "何百万回も" },
+      { "en": "a gazillion dollars", "ja": "とてつもない大金" },
+      { "en": "gazillions of stars", "ja": "無数の星" },
+      { "en": "cost a gazillion", "ja": "べらぼうに高い" },
+      { "en": "a gazillion reasons", "ja": "数え切れない理由" },
+      { "en": "gazillions of them", "ja": "それが無数に" }
+    ],
+    "related": [
+      { "en": "zillion", "ja": "無数・膨大な数" },
+      { "en": "umpteen", "ja": "何十もの・たくさんの" },
+      { "en": "countless", "ja": "数え切れない" }
+    ],
+    "faq": [
+      { "q": "gazillion は本当の数ですか？", "a": "いいえ。million や billion をもじった架空の数で、「数え切れないほど多い」ことをおどけて表す口語です。" },
+      { "q": "gazillion と zillion の違いは？", "a": "どちらも「無数」を表すくだけた造語で、意味はほぼ同じです。" }
+    ],
+    "quiz": [
+      { "q": "「もう何百万回も言ったでしょ」= I've told you a ___ times.", "A": "gazillion", "B": "million", "C": "medallion", "D": "battalion", "correct": "A" },
+      { "q": "gazillion の意味は？", "A": "無数・ものすごい数", "B": "ちょうど100", "C": "半分", "D": "ゼロ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "gauging",
+    "pron": "ˈɡeɪdʒɪŋ",
+    "kana": "ゲイジング",
+    "hinshi": "名詞 / 動詞（現在分詞）",
+    "ld_pos": "noun",
+    "ld_etym": "gauge（測る・計器）+ -ing",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "計測"],
+    "meaning_main": "測定 / 見積もり / 判断すること",
+    "description": "gauging（ゲイジング）の意味・使い方・例文。寸法や量を測ること、程度を見積もり・判断すること、という意味の語を解説。",
+    "keywords": ["gauging 意味", "gauging 使い方", "測定 英語", "見積もり 英語", "gauge 動名詞"],
+    "meanings": [
+      { "hinshi": "【名詞・動名詞】測定 / 計測", "note": "計器で寸法・量などを正確に測ること。" },
+      { "hinshi": "【動名詞】見積もり / 判断すること", "note": "様子や程度を推し量ること。動詞 gauge の -ing 形。" }
+    ],
+    "usages": [
+      { "title": "① 寸法の測定", "desc": "計器での計測。", "example_en": "Gauging the thickness requires a precise tool.", "example_ja": "厚みの測定には精密な道具が要る。" },
+      { "title": "② 程度を判断する", "desc": "推し量ること。", "example_en": "Gauging public opinion is difficult.", "example_ja": "世論を推し量るのは難しい。" }
+    ],
+    "warn": ["gauging は動詞 gauge（測る・見積もる）の -ing 形。gauge の綴り（gau-ge）と発音「ゲイジ」に注意。"],
+    "etym_note": "動詞 gauge（測る・標準寸法で測定する。古ノルマン仏語 gauger から）に -ing が付いた語。",
+    "etym_chain": [
+      { "node": "gauger", "sub": "測る", "era": "古ノルマン仏語" },
+      { "node": "gauge", "sub": "測る・計器", "era": "15世紀英語" },
+      { "node": "gauging", "sub": "測定・見積もり", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "gauging the distance", "ja": "距離を測ること" },
+      { "en": "gauging reactions", "ja": "反応を推し量ること" },
+      { "en": "gauging the mood", "ja": "雰囲気を読むこと" },
+      { "en": "gauging demand", "ja": "需要を見積もること" },
+      { "en": "precise gauging", "ja": "精密な測定" },
+      { "en": "gauging the depth", "ja": "深さを測ること" }
+    ],
+    "related": [
+      { "en": "gauge", "ja": "測る・計器" },
+      { "en": "measuring", "ja": "測定" },
+      { "en": "assessing", "ja": "評価・判断" }
+    ],
+    "faq": [
+      { "q": "gauging の元の動詞は？", "a": "gauge（測る・見積もる・推し量る）です。発音は「ゲイジ」です。" },
+      { "q": "gauging には測定以外の意味も？", "a": "はい。「世論・反応・雰囲気などを推し量る・判断する」という意味でも使われます。" }
+    ],
+    "quiz": [
+      { "q": "「世論を推し量るのは難しい」= ___ public opinion is difficult.", "A": "Gauging", "B": "Gauzing", "C": "Gorging", "D": "Gauling", "correct": "A" },
+      { "q": "gauging の元になる動詞は？", "A": "gauge", "B": "gaze", "C": "gain", "D": "gasp", "correct": "A" }
+    ]
+  }
+]

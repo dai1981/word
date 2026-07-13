@@ -1,0 +1,482 @@
+[
+  {
+    "english": "gigabyte",
+    "pron": "ˈɡɪɡəbaɪt",
+    "kana": "ギガバイト",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "giga（10億）+ byte（バイト）",
+    "ld_level": "準1級",
+    "badges": ["中学生〜", "英検準1級", "CEFR B1", "IT"],
+    "meaning_main": "ギガバイト / 約10億バイトの情報量",
+    "description": "gigabyte（ギガバイト）の意味・使い方・例文。約10億バイトのデータ量を表す単位、という意味のIT用語を解説。",
+    "keywords": ["gigabyte 意味", "gigabyte 使い方", "ギガバイト 英語", "データ量 単位"],
+    "meanings": [
+      { "hinshi": "【名詞】ギガバイト（GB）", "note": "約10億バイト（10^9、または2^30バイト）のデータ量の単位。" }
+    ],
+    "usages": [
+      { "title": "① 記憶容量", "desc": "ストレージの単位。", "example_en": "This phone has 128 gigabytes of storage.", "example_ja": "このスマホは128ギガバイトの記憶容量がある。" },
+      { "title": "② データ通信量", "desc": "通信の単位。", "example_en": "The video used up two gigabytes of data.", "example_ja": "その動画は2ギガバイトのデータを消費した。" }
+    ],
+    "warn": ["gigabyte は約10億バイト。1000倍で terabyte（テラバイト）、1000分の1で megabyte（メガバイト）。略号は GB。"],
+    "etym_note": "ギリシャ語 gigas（巨人）に由来する接頭辞 giga-（10億＝10^9）と、情報量の単位 byte を合わせた語。",
+    "etym_chain": [
+      { "node": "gigas", "sub": "巨人", "era": "古代ギリシャ語" },
+      { "node": "giga-", "sub": "10億（接頭辞）", "era": "20世紀（SI接頭辞）" },
+      { "node": "gigabyte", "sub": "ギガバイト", "era": "20世紀英語" }
+    ],
+    "phrases": [
+      { "en": "a gigabyte of data", "ja": "1ギガバイトのデータ" },
+      { "en": "128 gigabytes of storage", "ja": "128ギガバイトの記憶容量" },
+      { "en": "gigabytes of memory", "ja": "何ギガバイトものメモリ" },
+      { "en": "use up gigabytes", "ja": "何ギガバイトも消費する" },
+      { "en": "several gigabytes", "ja": "数ギガバイト" },
+      { "en": "free gigabytes", "ja": "空きギガバイト" }
+    ],
+    "related": [
+      { "en": "megabyte", "ja": "メガバイト" },
+      { "en": "terabyte", "ja": "テラバイト" },
+      { "en": "byte", "ja": "バイト" }
+    ],
+    "faq": [
+      { "q": "gigabyte は何バイト？", "a": "約10億バイト（10^9）です。コンピュータの文脈では2^30（約10.7億）を指すこともあります。" },
+      { "q": "gigabyte の略号は？", "a": "GB です。megabyte は MB、terabyte は TB です。" }
+    ],
+    "quiz": [
+      { "q": "「このスマホは128ギガバイトの記憶容量がある」= This phone has 128 ___ of storage.", "A": "gigabytes", "B": "gigawatts", "C": "kilograms", "D": "kilometers", "correct": "A" },
+      { "q": "gigabyte の1000倍は？", "A": "terabyte", "B": "megabyte", "C": "kilobyte", "D": "byte", "correct": "A" }
+    ]
+  },
+  {
+    "english": "gimbal",
+    "pron": "ˈdʒɪmbl",
+    "kana": "ジンバル",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 gemellus（双子・対）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "機械"],
+    "meaning_main": "ジンバル / 常平架（じょうへいか）",
+    "description": "gimbal（ジンバル）の意味・使い方・例文。傾いても水平を保つ回転支持台、ジンバル、という意味の機械用語を解説。",
+    "keywords": ["gimbal 意味", "gimbal 使い方", "ジンバル 英語", "常平架 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】ジンバル / 常平架", "note": "軸で自由に回転し、土台が傾いても対象の水平・向きを保つ支持機構。カメラや羅針盤に用いる。" }
+    ],
+    "usages": [
+      { "title": "① カメラ安定装置", "desc": "手ぶれ防止。", "example_en": "She mounted the camera on a gimbal.", "example_ja": "彼女はカメラをジンバルに取り付けた。" },
+      { "title": "② 羅針盤の支持", "desc": "船上で水平を保つ。", "example_en": "The compass is held level by a gimbal.", "example_ja": "羅針盤はジンバルで水平に保たれる。" }
+    ],
+    "warn": ["gimbal は「傾いても水平・向きを保つ回転支持台」。発音は「ジンバル」で g は /dʒ/。しばしば複数の輪（gimbals）で構成。"],
+    "etym_note": "ラテン語 gemellus（双子・対）に由来し、gemel（対の輪）を経て「対になった回転リング」の意に。",
+    "etym_chain": [
+      { "node": "gemellus", "sub": "双子・対", "era": "ラテン語" },
+      { "node": "gemel", "sub": "対の輪", "era": "中英語" },
+      { "node": "gimbal", "sub": "常平架・ジンバル", "era": "17世紀英語" }
+    ],
+    "phrases": [
+      { "en": "a camera gimbal", "ja": "カメラ用ジンバル" },
+      { "en": "mount on a gimbal", "ja": "ジンバルに取り付ける" },
+      { "en": "a three-axis gimbal", "ja": "3軸ジンバル" },
+      { "en": "held on gimbals", "ja": "ジンバルで支えられて" },
+      { "en": "a stabilizing gimbal", "ja": "安定化ジンバル" },
+      { "en": "gimbal lock", "ja": "ジンバルロック（軸の自由度が失われる現象）" }
+    ],
+    "related": [
+      { "en": "pivot", "ja": "回転軸・旋回点" },
+      { "en": "stabilizer", "ja": "安定装置" },
+      { "en": "mount", "ja": "取り付け台" }
+    ],
+    "faq": [
+      { "q": "gimbal は何に使う？", "a": "カメラの手ぶれ防止や、船・航空機の羅針盤・計器を、土台が傾いても水平・一定の向きに保つのに使います。" },
+      { "q": "gimbal の発音は？", "a": "「ジンバル」/ˈdʒɪmbl/ で、g は /dʒ/ の音です。" }
+    ],
+    "quiz": [
+      { "q": "「彼女はカメラをジンバルに取り付けた」= She mounted the camera on a ___.", "A": "gimbal", "B": "gimlet", "C": "girdle", "D": "gizmo", "correct": "A" },
+      { "q": "gimbal の働きは？", "A": "傾いても水平・向きを保つ", "B": "光を発する", "C": "音を増幅する", "D": "熱を蓄える", "correct": "A" }
+    ]
+  },
+  {
+    "english": "glaucoma",
+    "pron": "ɡlɔːˈkoʊmə",
+    "kana": "グラウコーマ",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ギリシャ語 glaukos（青緑色の）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "医学"],
+    "meaning_main": "緑内障",
+    "description": "glaucoma（グラウコーマ）の意味・使い方・例文。眼圧上昇などで視神経が傷つき視野が欠ける病気、緑内障、という医学用語を解説。",
+    "keywords": ["glaucoma 意味", "glaucoma 使い方", "緑内障 英語", "眼圧 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】緑内障", "note": "眼圧の上昇などで視神経が損なわれ、視野が徐々に欠けていく目の病気。失明原因の一つ。" }
+    ],
+    "usages": [
+      { "title": "① 目の病気", "desc": "視神経の障害。", "example_en": "Glaucoma can lead to blindness if untreated.", "example_ja": "緑内障は放置すると失明に至ることがある。" },
+      { "title": "② 早期発見", "desc": "検査の重要性。", "example_en": "Regular eye exams help detect glaucoma early.", "example_ja": "定期的な眼科検診は緑内障の早期発見に役立つ。" }
+    ],
+    "warn": ["glaucoma は「緑内障」。眼圧が主な要因だが正常眼圧でも起こる。cataract（白内障）とは別の病気。"],
+    "etym_note": "ギリシャ語 glaukos（青緑色の・輝く灰色の）に由来。かつて瞳が青緑色に濁って見える状態を指したことから。",
+    "etym_chain": [
+      { "node": "glaukos", "sub": "青緑色の", "era": "古代ギリシャ語" },
+      { "node": "glaukoma", "sub": "目の濁り", "era": "後期ギリシャ語" },
+      { "node": "glaucoma", "sub": "緑内障", "era": "17世紀英語" }
+    ],
+    "phrases": [
+      { "en": "develop glaucoma", "ja": "緑内障を発症する" },
+      { "en": "treat glaucoma", "ja": "緑内障を治療する" },
+      { "en": "glaucoma screening", "ja": "緑内障検診" },
+      { "en": "acute glaucoma", "ja": "急性緑内障" },
+      { "en": "the risk of glaucoma", "ja": "緑内障のリスク" },
+      { "en": "eye drops for glaucoma", "ja": "緑内障用の点眼薬" }
+    ],
+    "related": [
+      { "en": "cataract", "ja": "白内障" },
+      { "en": "optic nerve", "ja": "視神経" },
+      { "en": "ophthalmology", "ja": "眼科学" }
+    ],
+    "faq": [
+      { "q": "glaucoma と cataract の違いは？", "a": "glaucoma（緑内障）は視神経が損なわれ視野が欠ける病気、cataract（白内障）は水晶体が濁る病気で別のものです。" },
+      { "q": "glaucoma は治りますか？", "a": "失われた視野は戻りませんが、点眼や手術で進行を抑えられます。早期発見が重要です。" }
+    ],
+    "quiz": [
+      { "q": "「緑内障は放置すると失明に至ることがある」= ___ can lead to blindness if untreated.", "A": "Glaucoma", "B": "Gauge", "C": "Glucose", "D": "Gland", "correct": "A" },
+      { "q": "glaucoma はどの器官の病気？", "A": "目", "B": "耳", "C": "肺", "D": "胃", "correct": "A" }
+    ]
+  },
+  {
+    "english": "glockenspiel",
+    "pron": "ˈɡlɑːkənspiːl",
+    "kana": "グロッケンシュピール",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ドイツ語 Glocken（鐘）+ Spiel（演奏）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "音楽"],
+    "meaning_main": "グロッケンシュピール / 鉄琴",
+    "description": "glockenspiel（グロッケンシュピール）の意味・使い方・例文。金属の音板を並べ、澄んだ音を出す鉄琴、という意味の楽器名を解説。",
+    "keywords": ["glockenspiel 意味", "glockenspiel 使い方", "鉄琴 英語", "グロッケン 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】グロッケンシュピール / 鉄琴", "note": "金属製の音板を並べ、小さなばちで叩いて澄んだ高音を出す打楽器。" }
+    ],
+    "usages": [
+      { "title": "① 楽器として", "desc": "澄んだ高音。", "example_en": "She played a melody on the glockenspiel.", "example_ja": "彼女はグロッケンシュピールで旋律を奏でた。" },
+      { "title": "② 吹奏楽で", "desc": "オーケストラ・吹奏楽。", "example_en": "The glockenspiel added a bright, bell-like tone.", "example_ja": "鉄琴は明るく鐘のような音色を加えた。" }
+    ],
+    "warn": ["glockenspiel は金属音板の「鉄琴」。木製音板の xylophone（木琴）とは音色が異なる。ドイツ語由来の綴りに注意。"],
+    "etym_note": "ドイツ語 Glocken（鐘）と Spiel（演奏・遊び）を合わせた語で、「鐘の演奏」を意味する。もとは組み鐘を指した。",
+    "etym_chain": [
+      { "node": "Glocke + Spiel", "sub": "鐘＋演奏", "era": "ドイツ語" },
+      { "node": "glockenspiel", "sub": "鉄琴", "era": "18〜19世紀英語" }
+    ],
+    "phrases": [
+      { "en": "play the glockenspiel", "ja": "グロッケンシュピールを演奏する" },
+      { "en": "a bright glockenspiel", "ja": "明るい音色の鉄琴" },
+      { "en": "strike the glockenspiel", "ja": "鉄琴を叩く" },
+      { "en": "an orchestral glockenspiel", "ja": "オーケストラ用鉄琴" },
+      { "en": "the glockenspiel's tone", "ja": "鉄琴の音色" },
+      { "en": "a toy glockenspiel", "ja": "おもちゃの鉄琴" }
+    ],
+    "related": [
+      { "en": "xylophone", "ja": "木琴" },
+      { "en": "vibraphone", "ja": "ビブラフォン" },
+      { "en": "chimes", "ja": "チャイム・組み鐘" }
+    ],
+    "faq": [
+      { "q": "glockenspiel と xylophone の違いは？", "a": "glockenspiel は金属の音板で澄んだ高音、xylophone（木琴）は木の音板で温かい音を出します。" },
+      { "q": "glockenspiel の由来は？", "a": "ドイツ語で「鐘の演奏（Glocken+Spiel）」を意味し、もとは組み鐘を指しました。" }
+    ],
+    "quiz": [
+      { "q": "「彼女はグロッケンシュピールで旋律を奏でた」= She played a melody on the ___.", "A": "glockenspiel", "B": "grand piano", "C": "guitar", "D": "gong", "correct": "A" },
+      { "q": "glockenspiel はどんな楽器？", "A": "金属音板の鉄琴", "B": "木製の木琴", "C": "弦楽器", "D": "管楽器", "correct": "A" }
+    ]
+  },
+  {
+    "english": "glutamate",
+    "pron": "ˈɡluːtəmeɪt",
+    "kana": "グルタメイト",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "gluten（グルテン）+ -ate",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "科学"],
+    "meaning_main": "グルタミン酸塩 / グルタミン酸",
+    "description": "glutamate（グルタメイト）の意味・使い方・例文。うま味成分や神経伝達物質として働くグルタミン酸（塩）、という意味の化学・生物用語を解説。",
+    "keywords": ["glutamate 意味", "glutamate 使い方", "グルタミン酸 英語", "うま味 英語", "MSG"],
+    "meanings": [
+      { "hinshi": "【名詞】グルタミン酸塩 / グルタミン酸", "note": "うま味のもとになるアミノ酸の一種。MSG（グルタミン酸ナトリウム）は調味料。" },
+      { "hinshi": "【名詞】（神経科学）主要な興奮性神経伝達物質", "note": "脳内で信号を伝える重要な物質でもある。" }
+    ],
+    "usages": [
+      { "title": "① うま味成分", "desc": "食品化学の用語。", "example_en": "Glutamate gives foods a savory umami taste.", "example_ja": "グルタミン酸は食品にうま味を与える。" },
+      { "title": "② 神経伝達物質", "desc": "脳内の働き。", "example_en": "Glutamate is a key neurotransmitter in the brain.", "example_ja": "グルタミン酸は脳の主要な神経伝達物質だ。" }
+    ],
+    "warn": ["glutamate は「グルタミン酸(塩)」。調味料の MSG は monosodium glutamate（グルタミン酸ナトリウム）。gluten（小麦のグルテン）とは別。"],
+    "etym_note": "小麦タンパク gluten（グルテン。ラテン語 gluten「にかわ」から）に化学で塩・エステルを表す -ate が付いた語。グルタミン酸が小麦グルテンから発見されたことに由来。",
+    "etym_chain": [
+      { "node": "gluten", "sub": "にかわ・グルテン", "era": "ラテン語" },
+      { "node": "glutamic acid", "sub": "グルタミン酸", "era": "19世紀（化学）" },
+      { "node": "glutamate", "sub": "グルタミン酸塩", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "monosodium glutamate", "ja": "グルタミン酸ナトリウム（MSG）" },
+      { "en": "glutamate receptor", "ja": "グルタミン酸受容体" },
+      { "en": "high in glutamate", "ja": "グルタミン酸を多く含む" },
+      { "en": "glutamate levels", "ja": "グルタミン酸濃度" },
+      { "en": "release glutamate", "ja": "グルタミン酸を放出する" },
+      { "en": "natural glutamate", "ja": "天然のグルタミン酸" }
+    ],
+    "related": [
+      { "en": "umami", "ja": "うま味" },
+      { "en": "amino acid", "ja": "アミノ酸" },
+      { "en": "neurotransmitter", "ja": "神経伝達物質" }
+    ],
+    "faq": [
+      { "q": "glutamate と MSG の関係は？", "a": "MSG（グルタミン酸ナトリウム）はグルタミン酸のナトリウム塩で、うま味調味料として使われます。" },
+      { "q": "glutamate は体内にもある？", "a": "はい。脳の主要な興奮性神経伝達物質として、信号伝達に重要な役割を果たします。" }
+    ],
+    "quiz": [
+      { "q": "「グルタミン酸は食品にうま味を与える」= ___ gives foods a savory umami taste.", "A": "Glutamate", "B": "Gluten", "C": "Glucose", "D": "Glycerol", "correct": "A" },
+      { "q": "うま味調味料 MSG の正式名は？", "A": "monosodium glutamate", "B": "monosodium glucose", "C": "sodium chloride", "D": "citric acid", "correct": "A" }
+    ]
+  },
+  {
+    "english": "goalpost",
+    "pron": "ˈɡoʊlpoʊst",
+    "kana": "ゴールポスト",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "goal（ゴール）+ post（柱）",
+    "ld_level": "準1級",
+    "badges": ["中学生〜", "英検準1級", "CEFR B1", "スポーツ"],
+    "meaning_main": "ゴールポスト / （比喩）目標・基準",
+    "description": "goalpost（ゴールポスト）の意味・使い方・例文。サッカーなどのゴールの柱、比喩で「目標・基準」、という意味の名詞を解説。",
+    "keywords": ["goalpost 意味", "goalpost 使い方", "ゴールポスト 英語", "move the goalposts"],
+    "meanings": [
+      { "hinshi": "【名詞】ゴールポスト", "note": "サッカー・ラグビーなどのゴールの左右の柱。" },
+      { "hinshi": "【名詞】（比喩）目標 / 基準", "note": "「move the goalposts」で「（勝手に）目標・条件を変える」。" }
+    ],
+    "usages": [
+      { "title": "① ゴールの柱", "desc": "スポーツで。", "example_en": "The ball hit the goalpost.", "example_ja": "ボールはゴールポストに当たった。" },
+      { "title": "② 基準を変える", "desc": "比喩表現。", "example_en": "They keep moving the goalposts.", "example_ja": "彼らはたびたび目標（条件）を勝手に変える。" }
+    ],
+    "warn": ["move the goalposts は「（都合よく）目標・基準を途中で変える」という頻出の比喩表現。しばしば不公平さを非難して使う。"],
+    "etym_note": "goal（ゴール。中英語 gol「境界」から）と post（柱）を合わせた語。スポーツのゴールの柱から、比喩で「目標」の意へ。",
+    "etym_chain": [
+      { "node": "goal + post", "sub": "ゴール＋柱", "era": "英語の複合" },
+      { "node": "goalpost", "sub": "ゴールポスト・目標", "era": "19〜20世紀英語" }
+    ],
+    "phrases": [
+      { "en": "hit the goalpost", "ja": "ゴールポストに当たる" },
+      { "en": "move the goalposts", "ja": "目標・基準を勝手に変える" },
+      { "en": "between the goalposts", "ja": "ゴールポストの間に" },
+      { "en": "shift the goalposts", "ja": "条件を途中で変える" },
+      { "en": "the left goalpost", "ja": "左のゴールポスト" },
+      { "en": "rattle the goalpost", "ja": "ゴールポストを揺らす" }
+    ],
+    "related": [
+      { "en": "goal", "ja": "ゴール・目標" },
+      { "en": "crossbar", "ja": "クロスバー（ゴールの横木）" },
+      { "en": "benchmark", "ja": "基準・指標" }
+    ],
+    "faq": [
+      { "q": "move the goalposts とは？", "a": "物事の途中で、目標や達成条件を（しばしば都合よく）変えてしまうことを非難する比喩表現です。" },
+      { "q": "goalpost と crossbar の違いは？", "a": "goalpost は左右の縦の柱、crossbar は上の横木を指します。" }
+    ],
+    "quiz": [
+      { "q": "「ボールはゴールポストに当たった」= The ball hit the ___.", "A": "goalpost", "B": "signpost", "C": "lamppost", "D": "outpost", "correct": "A" },
+      { "q": "move the goalposts の意味は？", "A": "目標・基準を勝手に変える", "B": "全力で走る", "C": "試合に勝つ", "D": "審判を呼ぶ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "gasify",
+    "pron": "ˈɡæsɪfaɪ",
+    "kana": "ギャシファイ",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "gas（ガス）+ -ify（〜化する）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "科学"],
+    "meaning_main": "ガス化する / 気体にする",
+    "description": "gasify（ギャシファイ）の意味・使い方・例文。固体や液体を気体（ガス）に変える、ガス化する、という意味の科学・工業用語を解説。",
+    "keywords": ["gasify 意味", "gasify 使い方", "ガス化 英語", "気体にする 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】ガス化する / 気体にする", "note": "石炭・バイオマスなどの固体を可燃性ガスに変える。自動詞で「気体になる」の意も。" }
+    ],
+    "usages": [
+      { "title": "① 燃料のガス化", "desc": "工業プロセス。", "example_en": "Coal can be gasified to produce fuel gas.", "example_ja": "石炭はガス化して燃料ガスを作ることができる。" },
+      { "title": "② 気体になる", "desc": "状態変化。", "example_en": "The liquid gasifies when heated.", "example_ja": "その液体は熱すると気体になる。" }
+    ],
+    "warn": ["gasify は「ガス化する」。名詞は gasification（ガス化）。液化する liquefy の対義的なイメージ。"],
+    "etym_note": "名詞 gas（気体。17世紀にヘルモントが chaos をもとに造語）に「〜化する」を表す -ify が付いた語。",
+    "etym_chain": [
+      { "node": "gas", "sub": "気体", "era": "17世紀（造語）" },
+      { "node": "gasify", "sub": "ガス化する", "era": "19世紀英語" }
+    ],
+    "phrases": [
+      { "en": "gasify coal", "ja": "石炭をガス化する" },
+      { "en": "gasify biomass", "ja": "バイオマスをガス化する" },
+      { "en": "gasify the fuel", "ja": "燃料をガス化する" },
+      { "en": "coal gasification", "ja": "石炭ガス化" },
+      { "en": "gasify at high temperature", "ja": "高温でガス化する" },
+      { "en": "gasify into syngas", "ja": "合成ガスにガス化する" }
+    ],
+    "related": [
+      { "en": "gasification", "ja": "ガス化" },
+      { "en": "liquefy", "ja": "液化する" },
+      { "en": "vaporize", "ja": "気化させる・蒸発させる" }
+    ],
+    "faq": [
+      { "q": "gasify と vaporize の違いは？", "a": "gasify は主に固体（石炭など）を化学反応で可燃性ガスに変えること、vaporize は液体を蒸発させて気体にすることを指します。" },
+      { "q": "gasify の名詞は？", "a": "gasification（ガス化）です。" }
+    ],
+    "quiz": [
+      { "q": "「石炭はガス化して燃料ガスを作ることができる」= Coal can be ___ to produce fuel gas.", "A": "gasified", "B": "glorified", "C": "gratified", "D": "classified", "correct": "A" },
+      { "q": "gasify の名詞形は？", "A": "gasification", "B": "generation", "C": "gravitation", "D": "germination", "correct": "A" }
+    ]
+  },
+  {
+    "english": "garnishee",
+    "pron": "ˌɡɑːrnɪˈʃiː",
+    "kana": "ガーニシー",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "noun",
+    "ld_etym": "古フランス語 garnir（警告する・差し押さえる）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C2", "法律"],
+    "meaning_main": "第三債務者 / （給与などを）差し押さえる",
+    "description": "garnishee（ガーニシー）の意味・使い方・例文。債務者の給与・預金を差し押さえられる第三者、それを差し押さえる、という法律用語を解説。",
+    "keywords": ["garnishee 意味", "garnishee 使い方", "差し押さえ 英語", "第三債務者 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】第三債務者", "note": "債務者に金を支払う立場にあり、差し押さえの通告を受ける第三者（雇用主・銀行など）。" },
+      { "hinshi": "【動詞】（給与・預金を）差し押さえる", "note": "裁判所命令で第三者の手元にある金を債権者に回す。garnish とも言う。" }
+    ],
+    "usages": [
+      { "title": "① 給与の差し押さえ", "desc": "動詞として。", "example_en": "The court ordered his wages to be garnisheed.", "example_ja": "裁判所は彼の給与の差し押さえを命じた。" },
+      { "title": "② 第三債務者", "desc": "名詞として。", "example_en": "The employer was named as the garnishee.", "example_ja": "雇用主が第三債務者として指定された。" }
+    ],
+    "warn": ["garnishee は法律用語。動詞は garnish とも言い、「（料理を）飾る」の garnish と同綴りだが意味は別。名詞 garnishment（差し押さえ命令）。"],
+    "etym_note": "古フランス語 garnir（警告する・備える・差し押さえる）に由来し、法律で「差し押さえを通告される者」を表す -ee が付いた語。",
+    "etym_chain": [
+      { "node": "garnir", "sub": "警告する・備える", "era": "古フランス語" },
+      { "node": "garnish", "sub": "差し押さえる（法律）", "era": "中英語" },
+      { "node": "garnishee", "sub": "第三債務者", "era": "17世紀英語" }
+    ],
+    "phrases": [
+      { "en": "garnishee wages", "ja": "給与を差し押さえる" },
+      { "en": "a garnishee order", "ja": "第三債務者差押命令" },
+      { "en": "named as garnishee", "ja": "第三債務者に指定される" },
+      { "en": "garnishee a bank account", "ja": "銀行口座を差し押さえる" },
+      { "en": "garnishee proceedings", "ja": "差し押さえ手続き" },
+      { "en": "the garnishee must pay", "ja": "第三債務者は支払わねばならない" }
+    ],
+    "related": [
+      { "en": "garnishment", "ja": "差し押さえ命令" },
+      { "en": "creditor", "ja": "債権者" },
+      { "en": "debtor", "ja": "債務者" }
+    ],
+    "faq": [
+      { "q": "garnishee とは誰のこと？", "a": "債務者に給与や預金を支払う立場にあり、差し押さえの通告を受ける第三者（雇用主・銀行など）を指します。" },
+      { "q": "料理の garnish と同じ？", "a": "綴りは似ていますが別語です。料理の garnish は「飾り付ける」、法律の garnishee は「差し押さえの第三債務者」です。" }
+    ],
+    "quiz": [
+      { "q": "「裁判所は彼の給与の差し押さえを命じた」= The court ordered his wages to be ___.", "A": "garnisheed", "B": "garnished", "C": "gathered", "D": "guaranteed", "correct": "A" },
+      { "q": "garnishee の意味は？", "A": "第三債務者・給与などを差し押さえる", "B": "料理を彩る飾り", "C": "庭の手入れ", "D": "衣類の装飾", "correct": "A" }
+    ]
+  },
+  {
+    "english": "gouty",
+    "pron": "ˈɡaʊti",
+    "kana": "ガウティ",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "gout（痛風）+ -y",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "医学"],
+    "meaning_main": "痛風の / 痛風にかかった",
+    "description": "gouty（ガウティ）の意味・使い方・例文。痛風の、痛風にかかった、という意味の形容詞を解説。",
+    "keywords": ["gouty 意味", "gouty 使い方", "痛風 英語", "gout 形容詞"],
+    "meanings": [
+      { "hinshi": "【形容詞】痛風の / 痛風にかかった", "note": "尿酸が関節にたまって激しく痛む病気「痛風（gout）」に関する。" }
+    ],
+    "usages": [
+      { "title": "① 痛風の症状", "desc": "関節の痛み。", "example_en": "He suffered from a gouty toe.", "example_ja": "彼は痛風で足の指を痛めた。" },
+      { "title": "② 痛風持ちの人", "desc": "体質の説明。", "example_en": "The gouty old man avoided rich food.", "example_ja": "痛風持ちの老人は脂っこい食事を避けた。" }
+    ],
+    "warn": ["gouty は名詞 gout（痛風）の形容詞。痛風は尿酸が関節（特に足の親指）にたまって激痛を起こす。"],
+    "etym_note": "名詞 gout（痛風。古フランス語 goute「しずく」から。悪い体液が関節に「したたる」と考えられたことに由来）に -y が付いた形容詞。",
+    "etym_chain": [
+      { "node": "gutta", "sub": "しずく", "era": "ラテン語" },
+      { "node": "goute", "sub": "しずく・痛風", "era": "古フランス語" },
+      { "node": "gouty", "sub": "痛風の", "era": "14世紀英語" }
+    ],
+    "phrases": [
+      { "en": "a gouty toe", "ja": "痛風の足指" },
+      { "en": "a gouty joint", "ja": "痛風の関節" },
+      { "en": "gouty arthritis", "ja": "痛風性関節炎" },
+      { "en": "a gouty patient", "ja": "痛風の患者" },
+      { "en": "gouty pain", "ja": "痛風の痛み" },
+      { "en": "become gouty", "ja": "痛風にかかる" }
+    ],
+    "related": [
+      { "en": "gout", "ja": "痛風" },
+      { "en": "uric acid", "ja": "尿酸" },
+      { "en": "arthritic", "ja": "関節炎の" }
+    ],
+    "faq": [
+      { "q": "gouty の名詞は？", "a": "gout（痛風）です。尿酸が関節にたまって激しく痛む病気です。" },
+      { "q": "痛風はどこが痛む？", "a": "特に足の親指の付け根の関節に激痛が起こることが多い病気です。" }
+    ],
+    "quiz": [
+      { "q": "「彼は痛風で足の指を痛めた」= He suffered from a ___ toe.", "A": "gouty", "B": "gauzy", "C": "gusty", "D": "grouty", "correct": "A" },
+      { "q": "gouty の名詞形は？", "A": "gout", "B": "goat", "C": "gate", "D": "gauge", "correct": "A" }
+    ]
+  },
+  {
+    "english": "gladiola",
+    "pron": "ˌɡlædiˈoʊlə",
+    "kana": "グラディオラ",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 gladiolus（小さな剣）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "植物"],
+    "meaning_main": "グラジオラス（の花）",
+    "description": "gladiola（グラディオラ）の意味・使い方・例文。剣のような細長い葉と穂状の花をつける園芸植物、グラジオラス、という意味の名詞を解説。",
+    "keywords": ["gladiola 意味", "gladiola 使い方", "グラジオラス 英語", "花 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】グラジオラス（の花）", "note": "剣状の葉と、縦に並ぶ華やかな花をつける球根植物。gladiolus とも言う。" }
+    ],
+    "usages": [
+      { "title": "① 園芸の花", "desc": "夏に咲く花。", "example_en": "She planted gladiolas along the fence.", "example_ja": "彼女は塀に沿ってグラジオラスを植えた。" },
+      { "title": "② 切り花として", "desc": "花束・装飾に。", "example_en": "The vase was full of red gladiolas.", "example_ja": "花瓶は赤いグラジオラスでいっぱいだった。" }
+    ],
+    "warn": ["gladiola は口語的な形で、正式・単数は gladiolus。複数形は gladioli / gladiolas。剣状の葉が名の由来。"],
+    "etym_note": "ラテン語 gladiolus（gladius「剣」の縮小形＝小さな剣）に由来。細長く剣のような葉の形から名づけられた。",
+    "etym_chain": [
+      { "node": "gladius", "sub": "剣", "era": "ラテン語" },
+      { "node": "gladiolus", "sub": "小さな剣", "era": "ラテン語" },
+      { "node": "gladiola", "sub": "グラジオラス", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "plant gladiolas", "ja": "グラジオラスを植える" },
+      { "en": "a bunch of gladiolas", "ja": "グラジオラスの一束" },
+      { "en": "red gladiolas", "ja": "赤いグラジオラス" },
+      { "en": "gladiola bulbs", "ja": "グラジオラスの球根" },
+      { "en": "tall gladiolas", "ja": "背の高いグラジオラス" },
+      { "en": "a spike of gladiolas", "ja": "穂状のグラジオラス" }
+    ],
+    "related": [
+      { "en": "gladiolus", "ja": "グラジオラス（正式名）" },
+      { "en": "bulb", "ja": "球根" },
+      { "en": "iris", "ja": "アヤメ・アイリス" }
+    ],
+    "faq": [
+      { "q": "gladiola と gladiolus の違いは？", "a": "同じ花を指します。gladiolus が正式な単数形、gladiola は口語的な形です。" },
+      { "q": "gladiola の名の由来は？", "a": "ラテン語で「小さな剣」を意味し、細長く剣のような葉の形に由来します。" }
+    ],
+    "quiz": [
+      { "q": "「彼女は塀に沿ってグラジオラスを植えた」= She planted ___ along the fence.", "A": "gladiolas", "B": "gladiators", "C": "glaciers", "D": "gladioli", "correct": "A" },
+      { "q": "gladiola の名の由来（ラテン語）は？", "A": "小さな剣", "B": "黄金の花", "C": "夜の女王", "D": "太陽の光", "correct": "A" }
+    ]
+  }
+]

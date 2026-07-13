@@ -1,0 +1,487 @@
+[
+  {
+    "english": "giraffe",
+    "pron": "dʒəˈræf",
+    "kana": "ジラフ",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "アラビア語 zarāfa に由来",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "基本語"],
+    "meaning_main": "キリン",
+    "description": "giraffe（ジラフ）の意味・発音・使い方。首の長い動物キリンを表す基本英単語。例文・語源・クイズで学べます。",
+    "keywords": ["giraffe 意味", "giraffe 使い方", "giraffe 例文", "キリン 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】キリン", "note": "首と足が長いアフリカの草食動物。世界一背の高い動物。a tall giraffe（背の高いキリン）。" }
+    ],
+    "usages": [
+      { "title": "① キリン（動物）", "desc": "動物として", "example_en": "The giraffe has a very long neck.", "example_ja": "キリンはとても長い首を持っている。" },
+      { "title": "② 動物園で", "desc": "見る対象", "example_en": "We saw giraffes at the zoo.", "example_ja": "私たちは動物園でキリンを見た。" }
+    ],
+    "warn": ["発音は /dʒəˈræf/ で後ろに強勢。日本語の『キリン』は英語では giraffe。飲料の『キリン』とは無関係。"],
+    "etym_note": "アラビア語 zarāfa（キリン）に由来し、イタリア語・フランス語を経て英語に入った。アフリカからアラビアを通じて名が伝わった動物名。",
+    "etym_chain": [
+      { "node": "zarāfa", "sub": "キリン（アラビア語）", "era": "アラビア語" },
+      { "node": "giraffa", "sub": "キリン", "era": "イタリア語" },
+      { "node": "giraffe", "sub": "キリン", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a tall giraffe", "ja": "背の高いキリン" },
+      { "en": "a baby giraffe", "ja": "子どものキリン" },
+      { "en": "the neck of a giraffe", "ja": "キリンの首" },
+      { "en": "a group of giraffes", "ja": "キリンの群れ" },
+      { "en": "feed a giraffe", "ja": "キリンに餌をやる" },
+      { "en": "a wild giraffe", "ja": "野生のキリン" }
+    ],
+    "related": [
+      { "en": "zebra", "ja": "シマウマ" },
+      { "en": "elephant", "ja": "ゾウ" },
+      { "en": "animal", "ja": "動物" }
+    ],
+    "faq": [
+      { "q": "giraffe の発音の注意点は？", "a": "/dʒəˈræf/ と後ろの音節に強勢を置きます。『ジラフ』のように読みます。" },
+      { "q": "キリンの特徴は？", "a": "非常に長い首と足を持ち、陸上で世界一背の高い動物です。" }
+    ],
+    "quiz": [
+      { "q": "「キリンはとても長い首を持っている」= The ___ has a very long neck.", "A": "giraffe", "B": "gorilla", "C": "goat", "D": "goose", "correct": "A" },
+      { "q": "giraffe の意味は？", "A": "キリン", "B": "ゾウ", "C": "サル", "D": "ライオン", "correct": "A" }
+    ]
+  },
+  {
+    "english": "germ",
+    "pron": "dʒɜːrm",
+    "kana": "ジャーム",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 germen（芽・種）に由来",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "細菌 / ばい菌 / 芽・萌芽",
+    "description": "germ（ジャーム）の意味・発音・使い方。細菌・ばい菌・芽（萌芽）を表す頻出英単語。例文・語源・クイズで学べます。",
+    "keywords": ["germ 意味", "germ 使い方", "germ 例文", "細菌 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】細菌、ばい菌", "note": "病気を起こす微生物。ふつう複数形 germs。spread germs（ばい菌を広める）。" },
+      { "hinshi": "【名詞】芽、萌芽、（考えの）芽生え", "note": "the germ of an idea（アイデアの芽）。" }
+    ],
+    "usages": [
+      { "title": "① ばい菌", "desc": "病気の原因", "example_en": "Wash your hands to kill germs.", "example_ja": "ばい菌を殺すために手を洗いなさい。" },
+      { "title": "② 芽生え", "desc": "考えの発端", "example_en": "That was the germ of a great idea.", "example_ja": "それがすばらしい考えの芽生えだった。" }
+    ],
+    "warn": ["『細菌』の意味ではふつう複数形 germs。virus（ウイルス）や bacteria（バクテリア）より日常的でくだけた語。"],
+    "etym_note": "ラテン語 germen（芽・種・生じるもの）に由来し、フランス語を経て英語に入った。もとは『芽・萌芽』の意で、そこから病気を『生じさせるもの＝細菌』の意味に広がった。germinate（発芽する）と同語源。",
+    "etym_chain": [
+      { "node": "germen", "sub": "芽・種", "era": "ラテン語" },
+      { "node": "germe", "sub": "芽", "era": "古フランス語" },
+      { "node": "germ", "sub": "芽・細菌", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "spread germs", "ja": "ばい菌を広める" },
+      { "en": "kill germs", "ja": "ばい菌を殺す" },
+      { "en": "carry germs", "ja": "細菌を運ぶ" },
+      { "en": "the germ of an idea", "ja": "アイデアの芽" },
+      { "en": "cold germs", "ja": "かぜのばい菌" },
+      { "en": "germ-free", "ja": "無菌の" }
+    ],
+    "related": [
+      { "en": "bacteria", "ja": "バクテリア" },
+      { "en": "virus", "ja": "ウイルス" },
+      { "en": "disease", "ja": "病気" }
+    ],
+    "faq": [
+      { "q": "germ と virus の違いは？", "a": "germ は病気を起こす微生物全般を指すくだけた語、virus はその一種の『ウイルス』です。" },
+      { "q": "『芽生え』の意味もある？", "a": "はい。the germ of an idea で『アイデアの芽・発端』を表します。" }
+    ],
+    "quiz": [
+      { "q": "「ばい菌を殺すために手を洗いなさい」= Wash your hands to kill ___.", "A": "germs", "B": "gems", "C": "genes", "D": "gears", "correct": "A" },
+      { "q": "the germ of an idea の germ の意味は？", "A": "芽・発端", "B": "終わり", "C": "誤り", "D": "重さ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "grease",
+    "pron": "ɡriːs",
+    "kana": "グリース",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 crassus（太った・脂の多い）に由来",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "油 / 脂 / 油を塗る",
+    "description": "grease（グリース）の意味・発音・使い方。油・脂・油を塗るを表す頻出英単語。例文・語源・クイズで学べます。",
+    "keywords": ["grease 意味", "grease 使い方", "grease 例文", "油 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】(動物性の)脂、潤滑油", "note": "料理の脂や機械の潤滑油。数えない名詞。cooking grease（調理の脂）。" },
+      { "hinshi": "【動詞】油を塗る、脂を引く", "note": "grease a pan（フライパンに油を引く）。" }
+    ],
+    "usages": [
+      { "title": "① 脂・油（名詞）", "desc": "潤滑・料理の油", "example_en": "The machine needs some grease.", "example_ja": "その機械には潤滑油が必要だ。" },
+      { "title": "② 油を塗る（動詞）", "desc": "調理などで", "example_en": "Grease the pan before baking.", "example_ja": "焼く前にフライパンに油を塗りなさい。" }
+    ],
+    "warn": ["oil（液状の油）より粘りけのある『脂・グリース』。形容詞 greasy（脂っこい）。発音は名詞 /ɡriːs/、動詞は /ɡriːz/ になることも。"],
+    "etym_note": "ラテン語 crassus（太った・脂の多い）に由来し、古フランス語 graisse を経て英語に入った。動物性の『脂』や機械の『潤滑油』を表す。",
+    "etym_chain": [
+      { "node": "crassus", "sub": "脂の多い", "era": "ラテン語" },
+      { "node": "graisse", "sub": "脂", "era": "古フランス語" },
+      { "node": "grease", "sub": "脂・潤滑油", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "grease a pan", "ja": "フライパンに油を引く" },
+      { "en": "cooking grease", "ja": "調理の脂" },
+      { "en": "elbow grease", "ja": "力仕事、精を出すこと" },
+      { "en": "grease stains", "ja": "油じみ" },
+      { "en": "axle grease", "ja": "車軸用グリース" },
+      { "en": "greasy food", "ja": "脂っこい食べ物" }
+    ],
+    "related": [
+      { "en": "oil", "ja": "油" },
+      { "en": "fat", "ja": "脂肪" },
+      { "en": "greasy", "ja": "脂っこい" }
+    ],
+    "faq": [
+      { "q": "grease と oil の違いは？", "a": "oil は液状の油、grease はより粘りけのある『脂・グリース』を指します。" },
+      { "q": "elbow grease とは？", "a": "『（ひじを使うような）力仕事・骨折り』を表すユーモラスな表現です。" }
+    ],
+    "quiz": [
+      { "q": "「焼く前にフライパンに油を塗りなさい」= ___ the pan before baking.", "A": "Grease", "B": "Grasp", "C": "Grip", "D": "Grab", "correct": "A" },
+      { "q": "greasy の意味は？", "A": "脂っこい", "B": "甘い", "C": "辛い", "D": "冷たい", "correct": "A" }
+    ]
+  },
+  {
+    "english": "grandson",
+    "pron": "ˈɡrænsʌn",
+    "kana": "グランドサン",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "grand（一世代下の）+ son（息子）",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "基本語"],
+    "meaning_main": "孫息子",
+    "description": "grandson（グランドサン）の意味・発音・使い方。息子や娘の息子、孫息子を表す基本英単語。例文・語源・クイズで学べます。",
+    "keywords": ["grandson 意味", "grandson 使い方", "grandson 例文", "孫 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】孫息子", "note": "自分の子どもの息子。男の孫。granddaughter（孫娘）の対。" }
+    ],
+    "usages": [
+      { "title": "① 孫息子", "desc": "男の孫", "example_en": "Their grandson is five years old.", "example_ja": "彼らの孫息子は5歳だ。" },
+      { "title": "② 孫をかわいがる", "desc": "家族関係", "example_en": "She loves her grandson very much.", "example_ja": "彼女は孫息子をとてもかわいがっている。" }
+    ],
+    "warn": ["男の孫は grandson、女の孫は granddaughter、まとめて grandchild(ren)。祖父母は grandparent。"],
+    "etym_note": "grand（親等が一段離れていることを表す接頭辞的用法）と son（息子）が結びついた語。同様に granddaughter（孫娘）もできている。",
+    "etym_chain": [
+      { "node": "grand + son", "sub": "一世代下の + 息子", "era": "近代英語" },
+      { "node": "grandson", "sub": "孫息子", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "their grandson", "ja": "彼らの孫息子" },
+      { "en": "an only grandson", "ja": "たった一人の孫息子" },
+      { "en": "a baby grandson", "ja": "赤ちゃんの孫息子" },
+      { "en": "a great-grandson", "ja": "ひ孫（息子）" },
+      { "en": "my eldest grandson", "ja": "私のいちばん上の孫息子" },
+      { "en": "play with a grandson", "ja": "孫息子と遊ぶ" }
+    ],
+    "related": [
+      { "en": "granddaughter", "ja": "孫娘" },
+      { "en": "grandchild", "ja": "孫" },
+      { "en": "grandparent", "ja": "祖父母" }
+    ],
+    "faq": [
+      { "q": "grandson の対になる語は？", "a": "女の孫を指す granddaughter（孫娘）です。" },
+      { "q": "ひ孫は？", "a": "great-grandson（ひ孫の男の子）と言います。" }
+    ],
+    "quiz": [
+      { "q": "「彼らの孫息子は5歳だ」= Their ___ is five years old.", "A": "grandson", "B": "grandfather", "C": "gentleman", "D": "guardian", "correct": "A" },
+      { "q": "grandson の対になる語は？", "A": "granddaughter", "B": "grandfather", "C": "grandmother", "D": "guest", "correct": "A" }
+    ]
+  },
+  {
+    "english": "granddaughter",
+    "pron": "ˈɡrænˌdɔːtər",
+    "kana": "グランドドーター",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "grand（一世代下の）+ daughter（娘）",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "基本語"],
+    "meaning_main": "孫娘",
+    "description": "granddaughter（グランドドーター）の意味・発音・使い方。息子や娘の娘、孫娘を表す基本英単語。例文・語源・クイズで学べます。",
+    "keywords": ["granddaughter 意味", "granddaughter 使い方", "granddaughter 例文", "孫娘 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】孫娘", "note": "自分の子どもの娘。女の孫。grandson（孫息子）の対。" }
+    ],
+    "usages": [
+      { "title": "① 孫娘", "desc": "女の孫", "example_en": "His granddaughter goes to elementary school.", "example_ja": "彼の孫娘は小学校に通っている。" },
+      { "title": "② 孫をかわいがる", "desc": "家族関係", "example_en": "They are proud of their granddaughter.", "example_ja": "彼らは孫娘を誇りに思っている。" }
+    ],
+    "warn": ["つづりは grand + daughter で d が2つ続く（granddaughter）。女の孫は granddaughter、男は grandson。"],
+    "etym_note": "grand（親等が一段離れていることを表す用法）と daughter（娘）が結びついた語。grandson（孫息子）と対をなす。",
+    "etym_chain": [
+      { "node": "grand + daughter", "sub": "一世代下の + 娘", "era": "近代英語" },
+      { "node": "granddaughter", "sub": "孫娘", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "his granddaughter", "ja": "彼の孫娘" },
+      { "en": "a baby granddaughter", "ja": "赤ちゃんの孫娘" },
+      { "en": "an only granddaughter", "ja": "たった一人の孫娘" },
+      { "en": "a great-granddaughter", "ja": "ひ孫（娘）" },
+      { "en": "my youngest granddaughter", "ja": "私のいちばん下の孫娘" },
+      { "en": "spoil a granddaughter", "ja": "孫娘を甘やかす" }
+    ],
+    "related": [
+      { "en": "grandson", "ja": "孫息子" },
+      { "en": "grandchild", "ja": "孫" },
+      { "en": "daughter", "ja": "娘" }
+    ],
+    "faq": [
+      { "q": "granddaughter のつづりの注意点は？", "a": "grand と daughter が結びつくため、d が2つ続きます（granddaughter）。" },
+      { "q": "granddaughter の対になる語は？", "a": "男の孫を指す grandson（孫息子）です。" }
+    ],
+    "quiz": [
+      { "q": "「彼の孫娘は小学校に通っている」= His ___ goes to elementary school.", "A": "granddaughter", "B": "grandmother", "C": "grandfather", "D": "gentleman", "correct": "A" },
+      { "q": "granddaughter の対になる語は？", "A": "grandson", "B": "grandmother", "C": "goddess", "D": "guest", "correct": "A" }
+    ]
+  },
+  {
+    "english": "gauge",
+    "pron": "ɡeɪdʒ",
+    "kana": "ゲイジ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "noun",
+    "ld_etym": "古北フランス語 gauge（測定の基準）に由来",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "計器 / 基準 / 測定する・判断する",
+    "description": "gauge（ゲイジ）の意味・発音・使い方。計器・基準・測定する/判断するを表す頻出英単語。つづりに注意。例文・語源・クイズで学べます。",
+    "keywords": ["gauge 意味", "gauge 使い方", "gauge 例文", "計器 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】計器、ゲージ", "note": "量を測る器具。a fuel gauge（燃料計）。" },
+      { "hinshi": "【名詞】基準、標準寸法", "note": "線路の幅など。standard gauge（標準軌）。" },
+      { "hinshi": "【動詞】測定する、判断する", "note": "gauge the situation（状況を判断する）。" }
+    ],
+    "usages": [
+      { "title": "① 計器（名詞）", "desc": "測る器具", "example_en": "The fuel gauge shows the tank is empty.", "example_ja": "燃料計はタンクが空だと示している。" },
+      { "title": "② 判断する（動詞）", "desc": "見きわめる", "example_en": "It's hard to gauge his reaction.", "example_ja": "彼の反応を見きわめるのは難しい。" }
+    ],
+    "warn": ["つづりは gauge（gu-au-ge）で間違えやすい。発音は /ɡeɪdʒ/ で『ゲイジ』。measure（測る）に近いが、gauge は『見きわめ・判断』にも使う。"],
+    "etym_note": "古北フランス語 gauge（測定の基準・ものさし）に由来する。もとは寸法や量を測る基準を表し、そこから計器や『判断する』の意味に広がった。",
+    "etym_chain": [
+      { "node": "gauge", "sub": "測定の基準（古北フランス語）", "era": "中世" },
+      { "node": "gauge", "sub": "計器・基準", "era": "近代英語" },
+      { "node": "gauge", "sub": "計器・測定する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a fuel gauge", "ja": "燃料計" },
+      { "en": "a pressure gauge", "ja": "圧力計" },
+      { "en": "gauge the situation", "ja": "状況を判断する" },
+      { "en": "gauge public opinion", "ja": "世論を推し量る" },
+      { "en": "a rain gauge", "ja": "雨量計" },
+      { "en": "standard gauge", "ja": "標準軌" }
+    ],
+    "related": [
+      { "en": "measure", "ja": "測る" },
+      { "en": "meter", "ja": "計器" },
+      { "en": "estimate", "ja": "見積もる" }
+    ],
+    "faq": [
+      { "q": "gauge のつづりの注意点は？", "a": "gauge（g-a-u-g-e）と書き、間違えやすい単語です。発音は /ɡeɪdʒ/『ゲイジ』です。" },
+      { "q": "動詞の gauge の意味は？", "a": "『測定する』のほか、『（反応や状況を）見きわめる・判断する』の意味でよく使います。" }
+    ],
+    "quiz": [
+      { "q": "「彼の反応を見きわめるのは難しい」= It's hard to ___ his reaction.", "A": "gauge", "B": "grease", "C": "grasp", "D": "gasp", "correct": "A" },
+      { "q": "a fuel gauge の意味は？", "A": "燃料計", "B": "燃料タンク", "C": "燃料代", "D": "燃料切れ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "glamour",
+    "pron": "ˈɡlæmər",
+    "kana": "グラマー",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "grammar（学問・魔術）の変化形に由来",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "魅力 / はなやかさ / あこがれ",
+    "description": "glamour（グラマー）の意味・発音・使い方。人を引きつける魅力・はなやかさを表す頻出英単語。例文・語源・クイズで学べます。",
+    "keywords": ["glamour 意味", "glamour 使い方", "glamour 例文", "魅力 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】魅力、はなやかさ", "note": "人を引きつける華やかで魅惑的な魅力。the glamour of Hollywood（ハリウッドの華やかさ）。" }
+    ],
+    "usages": [
+      { "title": "① はなやかな魅力", "desc": "華やかさ", "example_en": "She was attracted by the glamour of city life.", "example_ja": "彼女は都会生活の華やかさに引かれた。" },
+      { "title": "② 華やかな世界", "desc": "あこがれ", "example_en": "The film shows the glamour of the 1950s.", "example_ja": "その映画は1950年代の華やかさを描いている。" }
+    ],
+    "warn": ["日本語の『グラマー（体つき）』とは意味が違い、英語では『華やかな魅力』。米つづり glamor もある。形容詞は glamorous。"],
+    "etym_note": "意外にも grammar（文法・学問）の変化形で、中世に『学問＝魔術』と結びつき『魔法・魅惑』の意味になった。そこから『人を引きつける魅力』へ発展した。",
+    "etym_chain": [
+      { "node": "grammar", "sub": "学問・魔術", "era": "中世" },
+      { "node": "glamour", "sub": "魔法・魅惑", "era": "近代英語" },
+      { "node": "glamour", "sub": "魅力・華やかさ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the glamour of ~", "ja": "～の華やかさ" },
+      { "en": "full of glamour", "ja": "魅力にあふれた" },
+      { "en": "add glamour to ~", "ja": "～に華やかさを添える" },
+      { "en": "the glamour of Hollywood", "ja": "ハリウッドの華やかさ" },
+      { "en": "lose its glamour", "ja": "魅力を失う" },
+      { "en": "a glamorous star", "ja": "華やかなスター" }
+    ],
+    "related": [
+      { "en": "charm", "ja": "魅力" },
+      { "en": "glamorous", "ja": "華やかな" },
+      { "en": "attraction", "ja": "魅力" }
+    ],
+    "faq": [
+      { "q": "英語の glamour と日本語の『グラマー』は同じ？", "a": "違います。英語の glamour は『華やかな魅力』を指し、体つきの意味はありません。" },
+      { "q": "形容詞は？", "a": "glamorous（華やかで魅力的な）です。" }
+    ],
+    "quiz": [
+      { "q": "「彼女は都会生活の華やかさに引かれた」= She was attracted by the ___ of city life.", "A": "glamour", "B": "grammar", "C": "grocery", "D": "gravity", "correct": "A" },
+      { "q": "glamour の形容詞形は？", "A": "glamorous", "B": "glamoury", "C": "glamourful", "D": "glamoured", "correct": "A" }
+    ]
+  },
+  {
+    "english": "glare",
+    "pron": "ɡleər",
+    "kana": "グレア",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "verb",
+    "ld_etym": "中英語 glaren（ぎらぎら光る・にらむ）に由来",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "にらみつける / ぎらぎら光る / まぶしい光",
+    "description": "glare（グレア）の意味・発音・使い方。にらみつける・ぎらぎら光る・まぶしい光を表す頻出英単語。例文・語源・クイズで学べます。",
+    "keywords": ["glare 意味", "glare 使い方", "glare 例文", "にらむ 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】にらみつける", "note": "怒って鋭く見る。glare at ~（～をにらむ）。" },
+      { "hinshi": "【動詞】ぎらぎら光る", "note": "強くまぶしく光る。" },
+      { "hinshi": "【名詞】まぶしい光／鋭いにらみ", "note": "the glare of the sun（太陽のぎらつき）。" }
+    ],
+    "usages": [
+      { "title": "① にらみつける", "desc": "glare at ~", "example_en": "She glared at him angrily.", "example_ja": "彼女は怒って彼をにらみつけた。" },
+      { "title": "② まぶしい光", "desc": "名詞として", "example_en": "The glare of the headlights blinded me.", "example_ja": "ヘッドライトのまぶしさで目がくらんだ。" }
+    ],
+    "warn": ["stare（じっと見る）より強く『怒ってにらむ』。『ぎらぎらした光・まぶしさ』の意味もある。"],
+    "etym_note": "中英語 glaren（ぎらぎら光る・鋭く見る）に由来するゲルマン系の語。glow・glitter と同じ光を表す語群で、『まぶしく光る』から『鋭くにらむ』へ広がった。",
+    "etym_chain": [
+      { "node": "glaren", "sub": "ぎらぎら光る・にらむ", "era": "中英語" },
+      { "node": "glare", "sub": "ぎらつく・にらむ", "era": "近代英語" },
+      { "node": "glare", "sub": "にらむ・まぶしい光", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "glare at ~", "ja": "～をにらみつける" },
+      { "en": "the glare of the sun", "ja": "太陽のぎらつき" },
+      { "en": "an angry glare", "ja": "怒りのにらみ" },
+      { "en": "the glare of headlights", "ja": "ヘッドライトのまぶしさ" },
+      { "en": "reduce glare", "ja": "まぶしさを抑える" },
+      { "en": "in the glare of publicity", "ja": "世間の注目の中で" }
+    ],
+    "related": [
+      { "en": "stare", "ja": "じっと見る" },
+      { "en": "shine", "ja": "輝く" },
+      { "en": "dazzle", "ja": "目をくらませる" }
+    ],
+    "faq": [
+      { "q": "glare と stare の違いは？", "a": "stare は『じっと見つめる』、glare は『怒って鋭くにらみつける』ことです。" },
+      { "q": "『光』の意味は？", "a": "『ぎらぎらしたまぶしい光』を指し、the glare of the sun（太陽のぎらつき）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "「彼女は怒って彼をにらみつけた」= She ___ at him angrily.", "A": "glared", "B": "gazed", "C": "glanced", "D": "gasped", "correct": "A" },
+      { "q": "glare と stare の違いで正しいのは？", "A": "glare は怒ってにらむ", "B": "glare はやさしく見る", "C": "glare は目を閉じる", "D": "glare は遠くを見る", "correct": "A" }
+    ]
+  },
+  {
+    "english": "gleam",
+    "pron": "ɡliːm",
+    "kana": "グリーム",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "verb",
+    "ld_etym": "古英語 glǣm（輝き）に由来",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "かすかに光る / きらめく / 微光",
+    "description": "gleam（グリーム）の意味・発音・使い方。かすかに光る・きらめく・微光を表す頻出英単語。例文・語源・クイズで学べます。",
+    "keywords": ["gleam 意味", "gleam 使い方", "gleam 例文", "かすかに光る 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】かすかに光る、きらめく", "note": "つやのある面がやわらかく光る。gleam in the dark（暗がりでかすかに光る）。" },
+      { "hinshi": "【名詞】かすかな光、ひらめき", "note": "a gleam of hope（一筋の希望）。" }
+    ],
+    "usages": [
+      { "title": "① かすかに光る", "desc": "動詞として", "example_en": "The polished floor gleamed in the light.", "example_ja": "磨かれた床が光の中でつやつや光った。" },
+      { "title": "② 一筋の光", "desc": "名詞・比喩", "example_en": "There was a gleam of hope.", "example_ja": "一筋の希望があった。" }
+    ],
+    "warn": ["glow（ほのかに継続して光る）や glitter（ちらちら光る）と近い。gleam は『つやのある面がかすかにきらめく』。a gleam of ~（一筋の～）。"],
+    "etym_note": "古英語 glǣm（輝き・きらめき）に由来するゲルマン系の語。glimmer（明滅する）や glimpse（ちらっと見る）と同じ語群で、『かすかな光』を表す。",
+    "etym_chain": [
+      { "node": "glǣm", "sub": "輝き", "era": "古英語" },
+      { "node": "gleam", "sub": "かすかに光る", "era": "中英語" },
+      { "node": "gleam", "sub": "かすかに光る・微光", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "gleam in the dark", "ja": "暗がりでかすかに光る" },
+      { "en": "a gleam of hope", "ja": "一筋の希望" },
+      { "en": "a gleam of light", "ja": "かすかな光" },
+      { "en": "eyes gleam", "ja": "目が輝く" },
+      { "en": "a gleam in one's eye", "ja": "目のきらめき（思いつき）" },
+      { "en": "gleaming white", "ja": "つやのある白" }
+    ],
+    "related": [
+      { "en": "glow", "ja": "ほのかに光る" },
+      { "en": "glitter", "ja": "きらきら光る" },
+      { "en": "shine", "ja": "輝く" }
+    ],
+    "faq": [
+      { "q": "gleam と glow の違いは？", "a": "glow は『やわらかく継続して光る』、gleam は『つやのある面がかすかにきらめく』ことを表します。" },
+      { "q": "a gleam of hope とは？", "a": "『一筋の希望・わずかな望み』を表す比喩表現です。" }
+    ],
+    "quiz": [
+      { "q": "「一筋の希望があった」= There was a ___ of hope.", "A": "gleam", "B": "glare", "C": "grease", "D": "grief", "correct": "A" },
+      { "q": "gleam の意味に近いのは？", "A": "かすかに光る", "B": "大きく鳴る", "C": "速く動く", "D": "強くにおう", "correct": "A" }
+    ]
+  },
+  {
+    "english": "gigantic",
+    "pron": "dʒaɪˈɡæntɪk",
+    "kana": "ジャイガンティック",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "ギリシャ語 gigas（巨人）に由来",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "巨大な / とてつもなく大きい",
+    "description": "gigantic（ジャイガンティック）の意味・発音・使い方。巨大な・とてつもなく大きいを表す頻出英単語。例文・語源・クイズで学べます。",
+    "keywords": ["gigantic 意味", "gigantic 使い方", "gigantic 例文", "巨大 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】巨大な、とてつもなく大きい", "note": "非常に大きい。big や large を強めた語。a gigantic building（巨大な建物）。" }
+    ],
+    "usages": [
+      { "title": "① 巨大な（もの）", "desc": "大きさを強調", "example_en": "They built a gigantic tower.", "example_ja": "彼らは巨大な塔を建てた。" },
+      { "title": "② とてつもない（規模）", "desc": "程度を強調", "example_en": "The project was a gigantic success.", "example_ja": "その計画はとてつもない成功だった。" }
+    ],
+    "warn": ["名詞 giant（巨人）の形容詞形。huge / enormous と同様に『非常に大きい』を強調する語。"],
+    "etym_note": "ギリシャ神話の巨人族ギガンテス（gigas）に由来し、giant（巨人）と同語源。『巨人のように大きい＝巨大な』を意味する。",
+    "etym_chain": [
+      { "node": "gigas", "sub": "巨人", "era": "古代ギリシャ語" },
+      { "node": "giganticus", "sub": "巨人の", "era": "ラテン語" },
+      { "node": "gigantic", "sub": "巨大な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a gigantic building", "ja": "巨大な建物" },
+      { "en": "a gigantic wave", "ja": "巨大な波" },
+      { "en": "a gigantic success", "ja": "とてつもない成功" },
+      { "en": "on a gigantic scale", "ja": "とてつもない規模で" },
+      { "en": "a gigantic effort", "ja": "多大な努力" },
+      { "en": "gigantic in size", "ja": "大きさが巨大な" }
+    ],
+    "related": [
+      { "en": "huge", "ja": "巨大な" },
+      { "en": "enormous", "ja": "莫大な" },
+      { "en": "giant", "ja": "巨人" }
+    ],
+    "faq": [
+      { "q": "gigantic と big の違いは？", "a": "big は一般的な『大きい』、gigantic は『とてつもなく大きい』と大きさを強く強調します。" },
+      { "q": "gigantic の名詞形は？", "a": "giant（巨人）が関連する名詞です。" }
+    ],
+    "quiz": [
+      { "q": "「彼らは巨大な塔を建てた」= They built a ___ tower.", "A": "gigantic", "B": "gentle", "C": "genuine", "D": "general", "correct": "A" },
+      { "q": "gigantic に近い意味の語は？", "A": "huge", "B": "tiny", "C": "narrow", "D": "quiet", "correct": "A" }
+    ]
+  }
+]

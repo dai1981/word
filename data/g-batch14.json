@@ -1,0 +1,489 @@
+[
+  {
+    "english": "gloom",
+    "pron": "ɡluːm",
+    "kana": "グルーム",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "中英語 gloumen（暗くなる）に由来",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "暗がり / 憂うつ / 陰気",
+    "description": "gloom（グルーム）の意味・発音・使い方。暗がり・憂うつ・陰気を表す頻出英単語。例文・語源・クイズで学べます。",
+    "keywords": ["gloom 意味", "gloom 使い方", "gloom 例文", "憂うつ 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】暗がり、薄暗さ", "note": "光が乏しい状態。in the gloom（暗がりの中で）。" },
+      { "hinshi": "【名詞】憂うつ、陰気", "note": "沈んだ気分。a mood of gloom（暗い雰囲気）。" }
+    ],
+    "usages": [
+      { "title": "① 暗がり", "desc": "光の乏しさ", "example_en": "We could barely see in the gloom.", "example_ja": "暗がりの中でほとんど見えなかった。" },
+      { "title": "② 憂うつ", "desc": "気分の暗さ", "example_en": "A sense of gloom filled the room.", "example_ja": "暗い雰囲気が部屋に満ちた。" }
+    ],
+    "warn": ["形容詞は gloomy（薄暗い・陰気な）。物理的な『暗がり』と心理的な『憂うつ』の両方を表す。"],
+    "etym_note": "中英語 gloumen（暗くなる・不機嫌になる）に由来する。形容詞 gloomy（薄暗い・陰気な）はこの語群から生まれ、『暗さ』を核とする。",
+    "etym_chain": [
+      { "node": "gloumen", "sub": "暗くなる", "era": "中英語" },
+      { "node": "gloom", "sub": "暗がり", "era": "近代英語" },
+      { "node": "gloom", "sub": "暗がり・憂うつ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "in the gloom", "ja": "暗がりの中で" },
+      { "en": "a sense of gloom", "ja": "暗い雰囲気" },
+      { "en": "doom and gloom", "ja": "お先真っ暗な悲観論" },
+      { "en": "the evening gloom", "ja": "夕暮れの暗がり" },
+      { "en": "cast a gloom over ~", "ja": "～に暗い影を落とす" },
+      { "en": "economic gloom", "ja": "経済の暗い見通し" }
+    ],
+    "related": [
+      { "en": "gloomy", "ja": "陰気な" },
+      { "en": "darkness", "ja": "暗さ" },
+      { "en": "depression", "ja": "落ち込み" }
+    ],
+    "faq": [
+      { "q": "gloom の形容詞形は？", "a": "gloomy（薄暗い・陰気な）です。" },
+      { "q": "doom and gloom とは？", "a": "『お先真っ暗な悲観的な見方』を表す決まった言い回しです。" }
+    ],
+    "quiz": [
+      { "q": "「暗がりの中でほとんど見えなかった」= We could barely see in the ___.", "A": "gloom", "B": "glow", "C": "gleam", "D": "grief", "correct": "A" },
+      { "q": "gloom の形容詞形は？", "A": "gloomy", "B": "gloomful", "C": "gloomic", "D": "gloomed", "correct": "A" }
+    ]
+  },
+  {
+    "english": "grid",
+    "pron": "ɡrɪd",
+    "kana": "グリッド",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "gridiron（焼き網）の短縮形",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "格子 / 碁盤目 / 送電網",
+    "description": "grid（グリッド）の意味・発音・使い方。格子・碁盤目・送電網を表す頻出英単語。例文・語源・クイズで学べます。",
+    "keywords": ["grid 意味", "grid 使い方", "grid 例文", "格子 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】格子、碁盤目", "note": "縦横に交わる線の模様。a grid of streets（碁盤目状の道路）。" },
+      { "hinshi": "【名詞】(電力などの)供給網", "note": "the power grid（送電網）。" }
+    ],
+    "usages": [
+      { "title": "① 碁盤目", "desc": "格子状", "example_en": "The city is laid out on a grid.", "example_ja": "その都市は碁盤目状に配置されている。" },
+      { "title": "② 送電網", "desc": "the power grid", "example_en": "A storm damaged the power grid.", "example_ja": "嵐が送電網を傷つけた。" }
+    ],
+    "warn": ["地図の『座標のマス目』や、電気・ガスなどの『供給網』にも使う。off the grid で『供給網から離れた（自給自足の）』。"],
+    "etym_note": "gridiron（焼き網・格子）の短縮形。縦横に交差する線でできた『格子』を表し、そこから地図の座標や電力の『供給網』の意味に広がった。",
+    "etym_chain": [
+      { "node": "gridiron", "sub": "焼き網・格子", "era": "近代英語" },
+      { "node": "grid", "sub": "格子", "era": "近代英語" },
+      { "node": "grid", "sub": "格子・供給網", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a grid of streets", "ja": "碁盤目状の道路" },
+      { "en": "the power grid", "ja": "送電網" },
+      { "en": "on a grid", "ja": "碁盤目状に" },
+      { "en": "off the grid", "ja": "供給網から離れて、自給自足で" },
+      { "en": "a grid pattern", "ja": "格子模様" },
+      { "en": "grid lines", "ja": "格子線" }
+    ],
+    "related": [
+      { "en": "net", "ja": "網" },
+      { "en": "network", "ja": "ネットワーク" },
+      { "en": "pattern", "ja": "模様" }
+    ],
+    "faq": [
+      { "q": "the power grid とは？", "a": "発電所から各地へ電力を送る『送電網』のことです。" },
+      { "q": "off the grid とは？", "a": "電気・水道などの『供給網から離れた（自給自足の）』生活を表す表現です。" }
+    ],
+    "quiz": [
+      { "q": "「その都市は碁盤目状に配置されている」= The city is laid out on a ___.", "A": "grid", "B": "grip", "C": "grill", "D": "grin", "correct": "A" },
+      { "q": "the power grid の意味は？", "A": "送電網", "B": "発電所1つ", "C": "電池", "D": "電球", "correct": "A" }
+    ]
+  },
+  {
+    "english": "gel",
+    "pron": "dʒel",
+    "kana": "ジェル",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "noun",
+    "ld_etym": "gelatin（ゼラチン）の短縮形",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "ジェル / ゲル / まとまる",
+    "description": "gel（ジェル）の意味・発音・使い方。ジェル状の物質・ゲル・（考えなどが）まとまるを表す頻出英単語。例文・語源・クイズで学べます。",
+    "keywords": ["gel 意味", "gel 使い方", "gel 例文", "ジェル 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】ジェル、ゲル", "note": "とろりとした半固形の物質。hair gel（整髪ジェル）。" },
+      { "hinshi": "【動詞】ゲル状になる／(考え・チームが)まとまる", "note": "The team started to gel.（チームがまとまり始めた）。" }
+    ],
+    "usages": [
+      { "title": "① ジェル（物質）", "desc": "名詞として", "example_en": "She used hair gel to style her hair.", "example_ja": "彼女は整髪ジェルで髪をセットした。" },
+      { "title": "② まとまる", "desc": "動詞として", "example_en": "The players began to gel as a team.", "example_ja": "選手たちはチームとしてまとまり始めた。" }
+    ],
+    "warn": ["発音は /dʒel/ で『ジェル』。gelatin（ゼラチン）に由来。動詞で『（考えやチームが）うまくまとまる』の比喩も重要。"],
+    "etym_note": "gelatin（ゼラチン、ラテン語 gelare＝凍らせる に由来）を短縮した語。半固形の物質を指し、そこから『（ばらばらのものが）固まってまとまる』の動詞用法も生まれた。",
+    "etym_chain": [
+      { "node": "gelare", "sub": "凍らせる・固める", "era": "ラテン語" },
+      { "node": "gelatin", "sub": "ゼラチン", "era": "近代英語" },
+      { "node": "gel", "sub": "ジェル・まとまる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "hair gel", "ja": "整髪ジェル" },
+      { "en": "shower gel", "ja": "ボディソープ（ジェル）" },
+      { "en": "a gel pen", "ja": "ゲルインクのペン" },
+      { "en": "the team gels", "ja": "チームがまとまる" },
+      { "en": "ideas gel", "ja": "考えがまとまる" },
+      { "en": "start to gel", "ja": "まとまり始める" }
+    ],
+    "related": [
+      { "en": "jelly", "ja": "ゼリー" },
+      { "en": "cream", "ja": "クリーム" },
+      { "en": "gelatin", "ja": "ゼラチン" }
+    ],
+    "faq": [
+      { "q": "gel の動詞の意味は？", "a": "『ゲル状になる』のほか、『（考えやチームが）うまくまとまる』の比喩でよく使います。" },
+      { "q": "gel の発音は？", "a": "/dʒel/ で『ジェル』です。" }
+    ],
+    "quiz": [
+      { "q": "「彼女は整髪ジェルで髪をセットした」= She used hair ___ to style her hair.", "A": "gel", "B": "gem", "C": "gene", "D": "germ", "correct": "A" },
+      { "q": "動詞 gel の比喩的な意味は？", "A": "まとまる", "B": "崩れる", "C": "燃える", "D": "凍る", "correct": "A" }
+    ]
+  },
+  {
+    "english": "genesis",
+    "pron": "ˈdʒenəsɪs",
+    "kana": "ジェネシス",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ギリシャ語 genesis（起源・誕生）に由来",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR C1", "頻出語"],
+    "meaning_main": "起源 / 発端 / (Genesisで)創世記",
+    "description": "genesis（ジェネシス）の意味・発音・使い方。起源・発端・（Genesis で）創世記を表す頻出英単語。例文・語源・クイズで学べます。",
+    "keywords": ["genesis 意味", "genesis 使い方", "genesis 例文", "起源 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】起源、発端", "note": "物事の始まり。the genesis of an idea（考えの始まり）。" },
+      { "hinshi": "【名詞】(Genesisで)創世記", "note": "旧約聖書の最初の書。" }
+    ],
+    "usages": [
+      { "title": "① 起源・発端", "desc": "物事の始まり", "example_en": "The genesis of the project was a simple idea.", "example_ja": "その計画の発端は単純な思いつきだった。" },
+      { "title": "② 創世記", "desc": "聖書の書名", "example_en": "Genesis is the first book of the Bible.", "example_ja": "創世記は聖書の最初の書だ。" }
+    ],
+    "warn": ["格調の高い語で『起源・始まり』を表す。gene（遺伝子）や generate（生み出す）と同語源。"],
+    "etym_note": "ギリシャ語 genesis（誕生・起源、genos＝生まれ に由来）から。gene・generate・generation と同じ語根で、『生まれ・始まり』を核とする。",
+    "etym_chain": [
+      { "node": "genesis", "sub": "誕生・起源", "era": "古代ギリシャ語" },
+      { "node": "genesis", "sub": "起源", "era": "ラテン語" },
+      { "node": "genesis", "sub": "起源・発端", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the genesis of ~", "ja": "～の起源・発端" },
+      { "en": "the genesis of an idea", "ja": "考えの始まり" },
+      { "en": "at the genesis", "ja": "発端において" },
+      { "en": "the Book of Genesis", "ja": "創世記" },
+      { "en": "trace the genesis", "ja": "起源をたどる" },
+      { "en": "the genesis of life", "ja": "生命の起源" }
+    ],
+    "related": [
+      { "en": "origin", "ja": "起源" },
+      { "en": "beginning", "ja": "始まり" },
+      { "en": "birth", "ja": "誕生" }
+    ],
+    "faq": [
+      { "q": "genesis と origin の違いは？", "a": "ほぼ同義ですが、genesis はより格調が高く『（複雑なものの）誕生・発端』を表します。" },
+      { "q": "Genesis（大文字）は？", "a": "旧約聖書の最初の書『創世記』を指します。" }
+    ],
+    "quiz": [
+      { "q": "「その計画の発端は単純な思いつきだった」= The ___ of the project was a simple idea.", "A": "genesis", "B": "genius", "C": "genuine", "D": "gender", "correct": "A" },
+      { "q": "genesis に近い意味の語は？", "A": "origin", "B": "ending", "C": "middle", "D": "copy", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ghetto",
+    "pron": "ˈɡetoʊ",
+    "kana": "ゲットー",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "イタリア語 ghetto（隔離地区）に由来",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR C1", "頻出語"],
+    "meaning_main": "スラム / (少数民族の)隔離地区",
+    "description": "ghetto（ゲットー）の意味・発音・使い方。都市の貧困地区・少数民族の隔離地区を表す頻出英単語。例文・語源・クイズで学べます。",
+    "keywords": ["ghetto 意味", "ghetto 使い方", "ghetto 例文", "スラム 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】(少数民族・貧困層の)集住地区、スラム", "note": "特定の集団が集まって住む貧しい地区。live in a ghetto（ゲットーに住む）。" },
+      { "hinshi": "【名詞】(歴史)ユダヤ人隔離地区", "note": "かつてユダヤ人が強制的に住まわされた区域。" }
+    ],
+    "usages": [
+      { "title": "① 貧困の集住地区", "desc": "社会の話題で", "example_en": "Many families were trapped in the ghetto.", "example_ja": "多くの家族がゲットーに閉じ込められていた。" },
+      { "title": "② 歴史的な隔離地区", "desc": "歴史の文脈で", "example_en": "The Jewish ghetto had high walls.", "example_ja": "ユダヤ人隔離地区には高い壁があった。" }
+    ],
+    "warn": ["複数形は ghettos / ghettoes。歴史的な『ユダヤ人隔離地区』と、現代の『貧困・少数民族の集住地区』の両方を指す。"],
+    "etym_note": "イタリア語 ghetto に由来し、16世紀ベネチアでユダヤ人が住まわされた区域の名から広まった。のちに少数民族や貧困層の集住地区を広く指すようになった。",
+    "etym_chain": [
+      { "node": "ghetto", "sub": "隔離地区（イタリア語）", "era": "16世紀" },
+      { "node": "ghetto", "sub": "ユダヤ人地区", "era": "近代英語" },
+      { "node": "ghetto", "sub": "集住地区・スラム", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "live in a ghetto", "ja": "ゲットーに住む" },
+      { "en": "the Jewish ghetto", "ja": "ユダヤ人隔離地区" },
+      { "en": "an urban ghetto", "ja": "都市のスラム" },
+      { "en": "grow up in the ghetto", "ja": "スラムで育つ" },
+      { "en": "escape the ghetto", "ja": "スラムを抜け出す" },
+      { "en": "ghetto life", "ja": "ゲットーでの生活" }
+    ],
+    "related": [
+      { "en": "slum", "ja": "スラム" },
+      { "en": "district", "ja": "地区" },
+      { "en": "poverty", "ja": "貧困" }
+    ],
+    "faq": [
+      { "q": "ghetto の由来は？", "a": "16世紀ベネチアでユダヤ人が住まわされた区域の名に由来し、のちに少数民族・貧困層の集住地区を指すようになりました。" },
+      { "q": "ghetto と slum の違いは？", "a": "slum は一般的な『貧民街』、ghetto は特定の民族・集団が集まって住む地区という含みがあります。" }
+    ],
+    "quiz": [
+      { "q": "「多くの家族がゲットーに閉じ込められていた」= Many families were trapped in the ___.", "A": "ghetto", "B": "gutter", "C": "grotto", "D": "grid", "correct": "A" },
+      { "q": "ghetto に近い意味の語は？", "A": "slum", "B": "palace", "C": "garden", "D": "harbor", "correct": "A" }
+    ]
+  },
+  {
+    "english": "gorge",
+    "pron": "ɡɔːrdʒ",
+    "kana": "ゴージ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "noun",
+    "ld_etym": "古フランス語 gorge（のど）に由来",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR C1", "頻出語"],
+    "meaning_main": "峡谷 / のど / がつがつ食べる",
+    "description": "gorge（ゴージ）の意味・発音・使い方。峡谷・のど・がつがつ食べるを表す頻出英単語。例文・語源・クイズで学べます。",
+    "keywords": ["gorge 意味", "gorge 使い方", "gorge 例文", "峡谷 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】峡谷", "note": "深く切り立った谷。a deep gorge（深い峡谷）。" },
+      { "hinshi": "【動詞】がつがつ食べる、満腹にする", "note": "gorge oneself on ~（～をがつがつ食べる）。" }
+    ],
+    "usages": [
+      { "title": "① 峡谷", "desc": "地形として", "example_en": "The river runs through a deep gorge.", "example_ja": "川は深い峡谷を流れている。" },
+      { "title": "② がつがつ食べる", "desc": "動詞として", "example_en": "They gorged themselves on cake.", "example_ja": "彼らはケーキをがつがつ食べた。" }
+    ],
+    "warn": ["gorgeous（華やかな）とはつづりが似るが別語。地形の『峡谷』と『がつがつ食べる』の両方の意味がある。"],
+    "etym_note": "古フランス語 gorge（のど・のどのように狭い所）に由来する。『のど』の意から、山が狭まった『峡谷』や、のどに詰め込む『がつがつ食べる』の意味に広がった。",
+    "etym_chain": [
+      { "node": "gorge", "sub": "のど（古フランス語）", "era": "中世" },
+      { "node": "gorge", "sub": "のど・峡谷", "era": "中英語" },
+      { "node": "gorge", "sub": "峡谷・がつがつ食べる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a deep gorge", "ja": "深い峡谷" },
+      { "en": "a river gorge", "ja": "川の峡谷" },
+      { "en": "gorge oneself on ~", "ja": "～をがつがつ食べる" },
+      { "en": "the mouth of the gorge", "ja": "峡谷の入り口" },
+      { "en": "a narrow gorge", "ja": "狭い峡谷" },
+      { "en": "gorge on food", "ja": "食べ物をがつがつ食べる" }
+    ],
+    "related": [
+      { "en": "valley", "ja": "谷" },
+      { "en": "canyon", "ja": "峡谷" },
+      { "en": "cliff", "ja": "崖" }
+    ],
+    "faq": [
+      { "q": "gorge と canyon の違いは？", "a": "どちらも深い谷ですが、gorge は特に狭く切り立った峡谷、canyon はより大規模な峡谷を指すことが多いです。" },
+      { "q": "動詞の gorge の意味は？", "a": "gorge oneself on ~ で『～をがつがつ食べる・満腹になるまで食べる』の意味です。" }
+    ],
+    "quiz": [
+      { "q": "「川は深い峡谷を流れている」= The river runs through a deep ___.", "A": "gorge", "B": "gorgeous", "C": "grid", "D": "grove", "correct": "A" },
+      { "q": "gorge oneself on ~ の意味は？", "A": "～をがつがつ食べる", "B": "～を軽く味わう", "C": "～を捨てる", "D": "～を売る", "correct": "A" }
+    ]
+  },
+  {
+    "english": "grudge",
+    "pron": "ɡrʌdʒ",
+    "kana": "グラッジ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "noun",
+    "ld_etym": "古フランス語 grouchier（不平を言う）に由来",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR C1", "頻出語"],
+    "meaning_main": "恨み / 遺恨 / (与えるのを)惜しむ",
+    "description": "grudge（グラッジ）の意味・発音・使い方。恨み・遺恨・出し惜しむを表す頻出英単語。例文・語源・クイズで学べます。",
+    "keywords": ["grudge 意味", "grudge 使い方", "grudge 例文", "恨み 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】恨み、遺恨", "note": "いつまでも消えない悪感情。hold a grudge（恨みを抱く）。" },
+      { "hinshi": "【動詞】(与えるのを)惜しむ、ねたむ", "note": "grudge someone their success（人の成功をねたむ）。" }
+    ],
+    "usages": [
+      { "title": "① 恨み", "desc": "名詞として", "example_en": "She still holds a grudge against him.", "example_ja": "彼女はまだ彼に恨みを抱いている。" },
+      { "title": "② 出し惜しむ", "desc": "動詞として", "example_en": "I don't grudge him his success.", "example_ja": "私は彼の成功をねたんだりはしない。" }
+    ],
+    "warn": ["hold / bear a grudge で『恨みを抱く』が最頻出。grudgingly（しぶしぶ）という副詞も重要。"],
+    "etym_note": "古フランス語 grouchier（不平を言う・つぶやく）に由来する。『不満をためこむ』ことから『恨み』の意味が生まれた。grouch（不平屋）と同語源。",
+    "etym_chain": [
+      { "node": "grouchier", "sub": "不平を言う", "era": "古フランス語" },
+      { "node": "grucchen", "sub": "つぶやく・恨む", "era": "中英語" },
+      { "node": "grudge", "sub": "恨み・惜しむ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "hold a grudge", "ja": "恨みを抱く" },
+      { "en": "bear a grudge", "ja": "遺恨をもつ" },
+      { "en": "a grudge against ~", "ja": "～に対する恨み" },
+      { "en": "settle a grudge", "ja": "恨みを晴らす" },
+      { "en": "an old grudge", "ja": "昔からの恨み" },
+      { "en": "nurse a grudge", "ja": "恨みを抱き続ける" }
+    ],
+    "related": [
+      { "en": "resentment", "ja": "憤り" },
+      { "en": "hatred", "ja": "憎しみ" },
+      { "en": "envy", "ja": "ねたみ" }
+    ],
+    "faq": [
+      { "q": "hold a grudge とは？", "a": "『（人に対して）恨みを抱き続ける』という意味の頻出表現です。" },
+      { "q": "grudge の副詞形は？", "a": "grudgingly（しぶしぶ・いやいやながら）です。" }
+    ],
+    "quiz": [
+      { "q": "「彼女はまだ彼に恨みを抱いている」= She still holds a ___ against him.", "A": "grudge", "B": "grid", "C": "grill", "D": "grief", "correct": "A" },
+      { "q": "grudge に近い意味の語は？", "A": "resentment", "B": "gratitude", "C": "grace", "D": "glory", "correct": "A" }
+    ]
+  },
+  {
+    "english": "gruesome",
+    "pron": "ˈɡruːsəm",
+    "kana": "グルーサム",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "スコットランド語 grue（身震いする）+ -some",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR C1", "頻出語"],
+    "meaning_main": "身の毛もよだつ / 陰惨な / ぞっとする",
+    "description": "gruesome（グルーサム）の意味・発音・使い方。身の毛もよだつ・陰惨な・ぞっとするを表す頻出英単語。例文・語源・クイズで学べます。",
+    "keywords": ["gruesome 意味", "gruesome 使い方", "gruesome 例文", "陰惨 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】身の毛もよだつ、陰惨な", "note": "血なまぐさく恐ろしい。a gruesome scene（陰惨な光景）。" }
+    ],
+    "usages": [
+      { "title": "① 陰惨な", "desc": "恐ろしい様子", "example_en": "The movie had a gruesome ending.", "example_ja": "その映画は陰惨な結末だった。" },
+      { "title": "② ぞっとする詳細", "desc": "むごい描写", "example_en": "He described the crime in gruesome detail.", "example_ja": "彼はその犯罪を身の毛もよだつほど詳しく述べた。" }
+    ],
+    "warn": ["horrible（恐ろしい）より『血なまぐさく気味の悪い』ニュアンスが強い。事故・犯罪・傷などの描写に使う。"],
+    "etym_note": "スコットランド語・方言の grue（身震いする・ぞっとする）に、形容詞をつくる -some がついた語。『思わず身震いするほど恐ろしい』を表す。",
+    "etym_chain": [
+      { "node": "grue + -some", "sub": "身震いする + ～な", "era": "中英語・方言" },
+      { "node": "grewsome", "sub": "ぞっとする", "era": "近代英語" },
+      { "node": "gruesome", "sub": "身の毛もよだつ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a gruesome scene", "ja": "陰惨な光景" },
+      { "en": "gruesome details", "ja": "身の毛もよだつ詳細" },
+      { "en": "a gruesome crime", "ja": "陰惨な犯罪" },
+      { "en": "a gruesome discovery", "ja": "ぞっとする発見" },
+      { "en": "gruesome injuries", "ja": "むごい負傷" },
+      { "en": "look gruesome", "ja": "ぞっとする見た目だ" }
+    ],
+    "related": [
+      { "en": "horrible", "ja": "恐ろしい" },
+      { "en": "grisly", "ja": "身の毛もよだつ" },
+      { "en": "ghastly", "ja": "ぞっとする" }
+    ],
+    "faq": [
+      { "q": "gruesome と horrible の違いは？", "a": "horrible は広く『恐ろしい』、gruesome は『血なまぐさく気味が悪い』という具体的な恐ろしさを表します。" },
+      { "q": "どんな場面で使う？", "a": "事故・犯罪・傷など、むごたらしい光景の描写によく使われます。" }
+    ],
+    "quiz": [
+      { "q": "「その映画は陰惨な結末だった」= The movie had a ___ ending.", "A": "gruesome", "B": "gorgeous", "C": "grateful", "D": "genuine", "correct": "A" },
+      { "q": "gruesome に近い意味の語は？", "A": "horrible", "B": "lovely", "C": "peaceful", "D": "gentle", "correct": "A" }
+    ]
+  },
+  {
+    "english": "gimmick",
+    "pron": "ˈɡɪmɪk",
+    "kana": "ギミック",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "20世紀アメリカ英語の語（由来不明）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR C1", "頻出語"],
+    "meaning_main": "客寄せの仕掛け / 巧妙な工夫 / からくり",
+    "description": "gimmick（ギミック）の意味・発音・使い方。客寄せの仕掛け・巧妙な工夫・からくりを表す頻出英単語。例文・語源・クイズで学べます。",
+    "keywords": ["gimmick 意味", "gimmick 使い方", "gimmick 例文", "仕掛け 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】(注意を引く)仕掛け、からくり", "note": "客寄せや宣伝のための巧妙な工夫。しばしば見せかけの意を含む。a marketing gimmick（販売の仕掛け）。" }
+    ],
+    "usages": [
+      { "title": "① 客寄せの仕掛け", "desc": "宣伝の工夫", "example_en": "The free gift is just a gimmick.", "example_ja": "その無料プレゼントはただの客寄せにすぎない。" },
+      { "title": "② 目新しい工夫", "desc": "話題づくり", "example_en": "The ad relies on a clever gimmick.", "example_ja": "その広告は巧妙な仕掛けに頼っている。" }
+    ],
+    "warn": ["しばしば『中身より見せかけの仕掛け』という否定的な含みがある。日本語の『ギミック（からくり）』より批判的なことも。"],
+    "etym_note": "20世紀初めのアメリカ英語で生まれた語で、語源ははっきりしない。手品師のからくりや、宣伝の巧妙な仕掛けを指す語として広まった。",
+    "etym_chain": [
+      { "node": "gimmick", "sub": "からくり（由来不明）", "era": "20世紀初頭" },
+      { "node": "gimmick", "sub": "客寄せの仕掛け", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a marketing gimmick", "ja": "販売の仕掛け" },
+      { "en": "a publicity gimmick", "ja": "宣伝の仕掛け" },
+      { "en": "just a gimmick", "ja": "ただの客寄せ" },
+      { "en": "a clever gimmick", "ja": "巧妙な仕掛け" },
+      { "en": "a sales gimmick", "ja": "販売のからくり" },
+      { "en": "a cheap gimmick", "ja": "安っぽい仕掛け" }
+    ],
+    "related": [
+      { "en": "trick", "ja": "策略" },
+      { "en": "device", "ja": "工夫、仕掛け" },
+      { "en": "ploy", "ja": "策略" }
+    ],
+    "faq": [
+      { "q": "gimmick はよい意味？", "a": "『巧妙な工夫』を指しますが、しばしば『中身のない見せかけの仕掛け』という否定的な含みがあります。" },
+      { "q": "a marketing gimmick とは？", "a": "商品を売るための『客寄せの仕掛け・宣伝の工夫』を指します。" }
+    ],
+    "quiz": [
+      { "q": "「その無料プレゼントはただの客寄せにすぎない」= The free gift is just a ___.", "A": "gimmick", "B": "gadget", "C": "grid", "D": "gem", "correct": "A" },
+      { "q": "gimmick に近い意味の語は？", "A": "trick", "B": "truth", "C": "grace", "D": "gift", "correct": "A" }
+    ]
+  },
+  {
+    "english": "giddy",
+    "pron": "ˈɡɪdi",
+    "kana": "ギディ",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "古英語 gydig（神がかりの・気の狂った）に由来",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR C1", "頻出語"],
+    "meaning_main": "めまいがする / ふらつく / (うれしくて)舞い上がった",
+    "description": "giddy（ギディ）の意味・発音・使い方。めまいがする・ふらつく・浮かれたを表す頻出英単語。例文・語源・クイズで学べます。",
+    "keywords": ["giddy 意味", "giddy 使い方", "giddy 例文", "めまい 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】めまいがする、ふらつく", "note": "頭がくらくらする。feel giddy（めまいがする）。" },
+      { "hinshi": "【形容詞】(うれしさ・興奮で)舞い上がった", "note": "giddy with excitement（興奮で浮かれて）。" }
+    ],
+    "usages": [
+      { "title": "① めまいがする", "desc": "身体の状態", "example_en": "She felt giddy after the ride.", "example_ja": "彼女は乗り物のあとめまいがした。" },
+      { "title": "② 舞い上がった", "desc": "気分の高揚", "example_en": "He was giddy with joy.", "example_ja": "彼はうれしくて舞い上がっていた。" }
+    ],
+    "warn": ["dizzy（めまいがする）と近い。『うれしさや興奮で浮かれた』の比喩もよく使う。giddy with ~ で『～で舞い上がって』。"],
+    "etym_note": "古英語 gydig（神がかりの・我を忘れた）に由来する。もとは『神霊にとりつかれたようにふらつく』意で、そこから『めまい』『浮かれた』の意味になった。",
+    "etym_chain": [
+      { "node": "gydig", "sub": "神がかりの・我を忘れた", "era": "古英語" },
+      { "node": "gidy", "sub": "ふらつく", "era": "中英語" },
+      { "node": "giddy", "sub": "めまいがする・浮かれた", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "feel giddy", "ja": "めまいがする" },
+      { "en": "giddy with excitement", "ja": "興奮で舞い上がって" },
+      { "en": "giddy with joy", "ja": "うれしくて浮かれて" },
+      { "en": "a giddy height", "ja": "めまいがするほどの高さ" },
+      { "en": "go giddy", "ja": "くらくらする" },
+      { "en": "giddy heights", "ja": "めまいのするような高み（成功）" }
+    ],
+    "related": [
+      { "en": "dizzy", "ja": "めまいがする" },
+      { "en": "lightheaded", "ja": "頭がふらつく" },
+      { "en": "excited", "ja": "興奮した" }
+    ],
+    "faq": [
+      { "q": "giddy と dizzy の違いは？", "a": "ほぼ同義で『めまいがする』ですが、giddy は『うれしさで浮かれた』の比喩でもよく使われます。" },
+      { "q": "giddy with ~ とは？", "a": "『～で舞い上がって・浮かれて』を表し、giddy with joy（うれしくて浮かれて）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "「彼女は乗り物のあとめまいがした」= She felt ___ after the ride.", "A": "giddy", "B": "gruesome", "C": "genuine", "D": "grateful", "correct": "A" },
+      { "q": "giddy に近い意味の語は？", "A": "dizzy", "B": "calm", "C": "heavy", "D": "quiet", "correct": "A" }
+    ]
+  }
+]
