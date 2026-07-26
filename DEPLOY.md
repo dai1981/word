@@ -13,29 +13,13 @@ FTPのパスワードは GitHub の Secrets に保存され、コードや会話
 - FTPアカウント（FTP・WebDAVアカウント）
 - FTPパスワード（FTP・WebDAVパスワード）
 
-## 2. GitHub に Secret を登録
-
-リポジトリの **Settings → Secrets and variables → Actions → New repository secret** で登録:
-
-| 名前 | 値 |
-|------|----|
-| `FTP_PASSWORD` | FTPパスワード |
-
-FTPサーバーとアカウントは秘匿情報ではないため、`.github/workflows/deploy.yml` に
-直接書いてあります。パスワードだけを Secret にしています。
-
-> **パスワードを直書きしないこと。**
-> 一度でもワークフローに平文で書くと、コミット履歴から永久に消えません。
-> 誤って書いてしまった場合は、ロリポップ側でパスワードを変更したうえで
-> Secret を登録し直してください。履歴の書き換えでは対処できません。
-
-## 3. 保存先パスを確認
+## 2. 保存先パスを確認
 
 `.github/workflows/deploy.yml` の `server-dir: /word/word/` が、実サイトで
 `https://www.eigo-duke.com/word/word/` に対応するサーバー上の場所と一致しているか確認。
 違う場合だけ書き換えてください（多くの場合このままでOK）。
 
-## 4. 実行（ワンボタン・手動のみ）
+## 3. 実行（ワンボタン・手動のみ）
 
 GitHub の **Actions タブ → 「Deploy to Lolipop (s-)」→ 右上の「Run workflow」** を押すだけ。
 `word/word/` のHTMLがロリポップへアップロードされます。
