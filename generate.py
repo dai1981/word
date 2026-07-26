@@ -1,10 +1,26 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-import json, html, os, zipfile
+"""
+/word 英単語辞書ページ生成スクリプト
+
+data/*.json を読み込み、word/word/{english}.html を出力する。
+外部依存なし（標準ライブラリのみ）。
+
+--- 404防止ルール（2026/07 対応済み・変更しないこと） ---
+JSON-LD の発音をスラッシュで囲まない。
+Googlebot は JSON-LD 内の "value": "/ˈweðər/" を「引用符で囲まれたパス」と解釈し、
+https://www.eigo-duke.com/ˈweðər/ をクロールして 404 を大量発生させる（約1万件）。
+本文の「発音：/ˈweðər/（ウェザー）」は地の文なので影響が小さく、従来どおりでよい。
+"""
+
+import json
+import html
+import os
+import glob
 
 OUT = "word/word"
 GA = "G-MKNGEYPKNJ"
-LD_SET_URL = "https://eigo-duke.com/word/word.html"
+LD_SET_URL = "https://www.eigo-duke.com/word/word.html"
 
 SPK = ('<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">'
        '<path d="M3 9v6h4l5 5V4L7 9H3z"/>'
@@ -15,38 +31,52 @@ EXSPK = ('<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 9v6h4l5 5V4L7 
 BM = ('<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">'
       '<path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/></svg>')
 
-def e(s): return html.escape(str(s if s is not None else ""), quote=False)
-def ea(s): return html.escape(str(s if s is not None else ""), quote=True)
+
+def e(s):
+    return html.escape(str(s if s is not None else ""), quote=False)
+
+
+def ea(s):
+    return html.escape(str(s if s is not None else ""), quote=True)
+
+
+def strip_slashes(s):
+    """発音記号の前後スラッシュを除去する。data 側に /.../ が混入していても安全に落とす。"""
+    return str(s if s is not None else "").strip().strip("/")
+
 
 def build(d):
     w = e(d["english"])
     fn = d["english"].lower()
-    desc = e(d.get("description") or d.get("meaning_main",""))
+    desc = e(d.get("description") or d.get("meaning_main", ""))
     kw = ea(",".join(d.get("keywords", [])))
+    pron = strip_slashes(d.get("pron", ""))
+
     ld1 = {
-        "@context":"https://schema.org","@type":"DefinedTerm","name":d["english"],
-        "description":d.get("description") or d.get("meaning_main",""),
-        "inDefinedTermSet":{"@type":"DefinedTermSet","name":"英単語辞書","url":LD_SET_URL},
-        "additionalProperty":[
-            {"@type":"PropertyValue","name":"品詞","value":d.get("ld_pos") or d.get("hinshi","")},
-            {"@type":"PropertyValue","name":"発音","value":"/"+d.get("pron","")+"/"},
-            {"@type":"PropertyValue","name":"語源","value":d.get("ld_etym","")},
-            {"@type":"PropertyValue","name":"英検レベル","value":d.get("ld_level","")},
+        "@context": "https://schema.org", "@type": "DefinedTerm", "name": d["english"],
+        "description": d.get("description") or d.get("meaning_main", ""),
+        "inDefinedTermSet": {"@type": "DefinedTermSet", "name": "英単語辞書", "url": LD_SET_URL},
+        "additionalProperty": [
+            {"@type": "PropertyValue", "name": "品詞", "value": d.get("ld_pos") or d.get("hinshi", "")},
+            # 404防止：ここをスラッシュで囲まない（囲むと約1万件の404が再発する）
+            {"@type": "PropertyValue", "name": "発音", "value": pron},
+            {"@type": "PropertyValue", "name": "語源", "value": d.get("ld_etym", "")},
+            {"@type": "PropertyValue", "name": "英検レベル", "value": d.get("ld_level", "")},
         ],
     }
     faq = d.get("faq", [])
     faq_ld = None
     if faq:
-        faq_ld = {"@context":"https://schema.org","@type":"FAQPage",
-                  "mainEntity":[{"@type":"Question","name":f["q"],
-                                 "acceptedAnswer":{"@type":"Answer","text":f["a"]}} for f in faq]}
+        faq_ld = {"@context": "https://schema.org", "@type": "FAQPage",
+                  "mainEntity": [{"@type": "Question", "name": f["q"],
+                                  "acceptedAnswer": {"@type": "Answer", "text": f["a"]}} for f in faq]}
 
     badges = "\n      ".join('<span class="word-badge">%s</span>' % e(b) for b in d.get("badges", []))
 
     meanings = "\n".join(
         ('      <li>\n        <span class="meaning-num">%d</span>\n        <span>\n'
          '          <span class="meaning-ja">%s</span>\n          <span class="meaning-note">%s</span>\n'
-         '        </span>\n      </li>') % (i+1, e(m["hinshi"]), e(m["note"]))
+         '        </span>\n      </li>') % (i + 1, e(m["hinshi"]), e(m["note"]))
         for i, m in enumerate(d.get("meanings", [])))
 
     usages = "\n".join(
@@ -69,26 +99,27 @@ def build(d):
         chain = ""
         n = len(chain_data)
         for i, s in enumerate(chain_data):
-            center = " flow-center" if i == n-1 else ""
+            center = " flow-center" if i == n - 1 else ""
             sub = ('<br><small>%s</small>' % e(s["sub"])) if s.get("sub") else ""
             chain += ('        <div class="flow-step" style="animation-delay:%.2fs">\n'
                       '          <div class="flow-node%s">%s%s</div>\n'
-                      '          <div class="flow-era">%s</div>\n        </div>\n') % (i*0.18, center, e(s["node"]), sub, e(s.get("era","")))
-            if i < n-1:
-                dly = i*0.18+0.1
+                      '          <div class="flow-era">%s</div>\n        </div>\n') % (
+                         i * 0.18, center, e(s["node"]), sub, e(s.get("era", "")))
+            if i < n - 1:
+                dly = i * 0.18 + 0.1
                 chain += ('        <div class="flow-connector" style="animation-delay:%.2fs">\n'
                           '          <div class="flow-line" style="animation-delay:%.2fs"></div>\n'
                           '          <div class="flow-arrow"></div>\n        </div>\n') % (dly, dly)
         etym = ('  <div class="info-card">\n    <span class="card-label label-etym">🏛 語源・歴史</span>\n'
                 '    <p class="etym-note">%s</p>\n    <div class="flow-scroll">\n      <div class="flow-chain">\n%s'
-                '      </div>\n    </div>\n  </div>\n') % (e(d.get("etym_note","")), chain)
+                '      </div>\n    </div>\n  </div>\n') % (e(d.get("etym_note", "")), chain)
 
     phrases = ""
     if d.get("phrases"):
         items = "\n".join(
             ('      <div class="phrase-item" style="animation-delay:%.2fs">\n'
              '        <div class="phrase-en">%s</div>\n        <div class="phrase-ja">%s</div>\n      </div>') %
-            (i*0.06, e(p["en"]), e(p["ja"])) for i, p in enumerate(d["phrases"]))
+            (i * 0.06, e(p["en"]), e(p["ja"])) for i, p in enumerate(d["phrases"]))
         phrases = ('  <div class="info-card">\n    <span class="card-label label-phrase">💬 %s を使った頻出表現</span>\n'
                    '    <div class="phrase-grid">\n%s\n    </div>\n  </div>\n') % (w, items)
 
@@ -102,10 +133,10 @@ def build(d):
             if " " in en:
                 # スペースを含む関連語はリンクにしない（give up, 日本語混入など）
                 chips.append('      <span class="word-chip" style="animation-delay:%.2fs">\n%s\n      </span>'
-                             % (i*0.07, inner))
+                             % (i * 0.07, inner))
             else:
                 chips.append('      <a class="word-chip" href="/word/word/%s.html" style="animation-delay:%.2fs">\n%s\n      </a>'
-                             % (en.lower(), i*0.07, inner))
+                             % (en.lower(), i * 0.07, inner))
         items = "\n".join(chips)
         related = ('  <div class="info-card">\n    <span class="card-label label-related">🔗 関連語・あわせて覚えよう</span>\n'
                    '    <div class="chips-grid">\n%s\n    </div>\n  </div>\n') % items
@@ -115,18 +146,19 @@ def build(d):
         qs = []
         for i, q in enumerate(d["quiz"]):
             stem = ('Q%d. %s<br>\n        A&nbsp;%s &nbsp;&nbsp; B&nbsp;%s &nbsp;&nbsp; C&nbsp;%s &nbsp;&nbsp; D&nbsp;%s'
-                    % (i+1, e(q["q"]), e(q["A"]), e(q["B"]), e(q["C"]), e(q["D"])))
+                    % (i + 1, e(q["q"]), e(q["A"]), e(q["B"]), e(q["C"]), e(q["D"])))
             qs.append('    <div class="quiz-q" data-correct="%s">\n      <div class="quiz-blank">%s\n      </div>\n'
                       '      <div class="quiz-choices">\n'
                       '        <button type="button" class="quiz-choice" data-ans="A">A</button>\n'
                       '        <button type="button" class="quiz-choice" data-ans="B">B</button>\n'
                       '        <button type="button" class="quiz-choice" data-ans="C">C</button>\n'
                       '        <button type="button" class="quiz-choice" data-ans="D">D</button>\n'
-                      '      </div>\n      <div class="quiz-feedback"></div>\n    </div>' % (ea(q.get("correct","A")), stem))
+                      '      </div>\n      <div class="quiz-feedback"></div>\n    </div>' % (ea(q.get("correct", "A")), stem))
         quiz = ('  <div class="info-card quiz-card">\n    <span class="card-label label-quiz">🧩 確認クイズ</span>\n'
                 + "\n".join(qs) + '\n    <div class="quiz-score" style="display:none"></div>\n  </div>\n')
 
-    faq_ld_block = ('<script type="application/ld+json">\n%s\n</script>\n' % json.dumps(faq_ld, ensure_ascii=False, indent=2)) if faq_ld else ""
+    faq_ld_block = ('<script type="application/ld+json">\n%s\n</script>\n'
+                    % json.dumps(faq_ld, ensure_ascii=False, indent=2)) if faq_ld else ""
 
     return (
 '<!DOCTYPE html>\n<html lang="ja">\n<head>\n'
@@ -176,14 +208,13 @@ def build(d):
         w, desc, kw, fn, w, desc,
         json.dumps(ld1, ensure_ascii=False, indent=2), faq_ld_block,
         GA, GA,
-        w, ea(d["english"]), SPK, ea(d["english"]), BM, e(d.get("hinshi","")),
-        e(d.get("pron","")), e(d.get("kana","")), badges, e(d.get("meaning_main","")),
+        w, ea(d["english"]), SPK, ea(d["english"]), BM, e(d.get("hinshi", "")),
+        e(pron), e(d.get("kana", "")), badges, e(d.get("meaning_main", "")),
         meanings, usages, warn, etym, phrases, related, quiz,
     )
 
 
 # -------------------- データ読み込み & 生成 --------------------
-import glob
 
 def load_words():
     words = []
@@ -194,6 +225,7 @@ def load_words():
                 batch = [batch]
             words.extend(batch)
     return words
+
 
 if __name__ == "__main__":
     os.makedirs(OUT, exist_ok=True)
