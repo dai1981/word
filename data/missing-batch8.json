@@ -1,0 +1,963 @@
+[
+  {
+    "english": "bow",
+    "pron": "ˈbaʊ",
+    "kana": "バウ / ボウ",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "verb",
+    "ld_etym": "古英語 būgan（曲げる・かがむ）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "頻出語"],
+    "meaning_main": "おじぎする / 弓 / ちょう結び（発音で意味が変わる）",
+    "description": "bow の意味・使い方・例文。発音で意味が変わる語で、「バウ」＝おじぎ(する)、「ボウ」＝弓・ちょう結び、を解説します。",
+    "keywords": ["bow 意味", "bow 使い方", "おじぎ 英語", "弓 英語", "bow 発音"],
+    "meanings": [
+      { "hinshi": "【動詞・名詞】(baʊ・バウ)おじぎ(する)", "note": "頭・上体を下げて敬意を示す。「take a bow」で「(拍手に応えて)おじぎする」。" },
+      { "hinshi": "【名詞】(boʊ・ボウ)弓 / ちょう結び / (楽器の)弓", "note": "矢を射る弓、リボンのちょう結び、バイオリンの弓。" }
+    ],
+    "usages": [
+      { "title": "① おじぎする（バウ）", "desc": "動詞。", "example_en": "The actors bowed to the audience.", "example_ja": "俳優たちは観客におじぎした。" },
+      { "title": "② 弓・ちょう結び（ボウ）", "desc": "名詞。", "example_en": "She tied the ribbon in a bow.", "example_ja": "彼女はリボンをちょう結びにした。" }
+    ],
+    "warn": ["bow は発音で意味が変わる。「バウ」/baʊ/＝おじぎ(する)・(船首)、「ボウ」/boʊ/＝弓・ちょう結び。同じつづりで別語（多義同形異音語）。"],
+    "etym_note": "古英語 būgan（曲げる・かがむ）に由来。「体をかがめる＝おじぎ」「曲がった道具＝弓」など、いずれも「曲げる」から派生。",
+    "etym_chain": [
+      { "node": "būgan", "sub": "曲げる・かがむ", "era": "古英語" },
+      { "node": "bow", "sub": "おじぎ・弓", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "take a bow", "ja": "（拍手に応えて）おじぎする" },
+      { "en": "bow deeply", "ja": "深くおじぎする" },
+      { "en": "a bow and arrow", "ja": "弓矢" },
+      { "en": "tie a bow", "ja": "ちょう結びにする" },
+      { "en": "bow tie", "ja": "ちょうネクタイ" },
+      { "en": "bow one's head", "ja": "頭を下げる" }
+    ],
+    "related": [
+      { "en": "bend", "ja": "曲げる・かがむ" },
+      { "en": "arrow", "ja": "矢" },
+      { "en": "ribbon", "ja": "リボン" }
+    ],
+    "faq": [
+      { "q": "bow の発音は2通りある？", "a": "はい。「バウ」/baʊ/ は『おじぎ(する)』、「ボウ」/boʊ/ は『弓・ちょう結び』です。つづりは同じですが発音と意味が異なります。" },
+      { "q": "take a bow の意味は？", "a": "「(拍手に応えて)おじぎをする」という意味の表現です。" }
+    ],
+    "quiz": [
+      { "q": "「彼女はリボンをちょう結びにした」= She tied the ribbon in a ___.", "A": "bow", "B": "bar", "C": "bag", "D": "box", "correct": "A" },
+      { "q": "「おじぎする」の bow の発音は？", "A": "バウ /baʊ/", "B": "ボウ /boʊ/", "C": "ビー /biː/", "D": "ボー /bɔː/", "correct": "A" }
+    ]
+  },
+  {
+    "english": "broadcast",
+    "pron": "ˈbrɔːdkæst",
+    "kana": "ブロードキャスト",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "verb",
+    "ld_etym": "broad（広く）+ cast（まく・投げる）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出語"],
+    "meaning_main": "放送する / 放送（番組）",
+    "description": "broadcast（ブロードキャスト）の意味・使い方・例文。テレビやラジオで「放送する」、また「放送（番組）」という意味の動詞・名詞を解説。",
+    "keywords": ["broadcast 意味", "broadcast 使い方", "放送する 英語", "放送 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】放送する / 広める", "note": "テレビ・ラジオ・ネットで番組を流す。活用は broadcast – broadcast – broadcast（変化しない）。" },
+      { "hinshi": "【名詞】放送 / 番組", "note": "放送された番組・内容。" }
+    ],
+    "usages": [
+      { "title": "① 放送する", "desc": "動詞として。", "example_en": "The game was broadcast live.", "example_ja": "その試合は生放送された。" },
+      { "title": "② 放送（番組）", "desc": "名詞として。", "example_en": "We watched the news broadcast.", "example_ja": "私たちはニュース番組を見た。" }
+    ],
+    "warn": ["broadcast は broad（広く）+ cast（まく）。活用は broadcast – broadcast – broadcast で変化しない（broadcasted も使われる）。放送局は broadcaster。"],
+    "etym_note": "broad（広い）と cast（投げる・まく）を合わせた語。もとは「種を広くまく」の意で、そこから「電波を広く流す＝放送する」へ。",
+    "etym_chain": [
+      { "node": "broad + cast", "sub": "広く＋まく", "era": "英語の複合" },
+      { "node": "broadcast", "sub": "放送する", "era": "20世紀英語" }
+    ],
+    "phrases": [
+      { "en": "broadcast live", "ja": "生放送する" },
+      { "en": "a news broadcast", "ja": "ニュース番組" },
+      { "en": "a live broadcast", "ja": "生放送" },
+      { "en": "broadcast nationwide", "ja": "全国に放送する" },
+      { "en": "a radio broadcast", "ja": "ラジオ放送" },
+      { "en": "broadcast rights", "ja": "放送権" }
+    ],
+    "related": [
+      { "en": "broadcaster", "ja": "放送局・アナウンサー" },
+      { "en": "air", "ja": "放送する・電波" },
+      { "en": "transmit", "ja": "送信する・伝える" }
+    ],
+    "faq": [
+      { "q": "broadcast の活用は？", "a": "broadcast – broadcast – broadcast と変化しないのが基本です（broadcasted も使われます）。" },
+      { "q": "broadcast の成り立ちは？", "a": "broad（広く）+ cast（まく）で、もとは「種を広くまく」の意から「電波を広く流す＝放送する」になりました。" }
+    ],
+    "quiz": [
+      { "q": "「その試合は生放送された」= The game was ___ live.", "A": "broadcast", "B": "broadcloth", "C": "broadside", "D": "broadband", "correct": "A" },
+      { "q": "broadcast の成り立ちは？", "A": "broad（広く）+ cast（まく）", "B": "board + cast", "C": "bro + adcast", "D": "broa + dcast", "correct": "A" }
+    ]
+  },
+  {
+    "english": "calculated",
+    "pron": "ˈkælkjuleɪtɪd",
+    "kana": "カルキュレイテッド",
+    "hinshi": "形容詞 / 動詞（calculate の過去形）",
+    "ld_pos": "adjective",
+    "ld_etym": "ラテン語 calculare（小石で数える）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出語"],
+    "meaning_main": "計算された / 意図的な / 計算する(の過去形)",
+    "description": "calculated（カルキュレイテッド）の意味・使い方・例文。よく考えて仕組まれた「計算された・意図的な」という形容詞、また calculate（計算する）の過去形を解説。",
+    "keywords": ["calculated 意味", "calculated 使い方", "計算された 英語", "意図的な 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】計算された / 意図的な / 打算的な", "note": "偶然でなく、意図してよく練られた。「a calculated risk」で「計算されたリスク」。" },
+      { "hinshi": "【動詞】calculate の過去形・過去分詞", "note": "calculate（計算する・見積もる）の過去形。" }
+    ],
+    "usages": [
+      { "title": "① 計算された・意図的な", "desc": "形容詞として。", "example_en": "It was a calculated move to win support.", "example_ja": "それは支持を得るための計算された動きだった。" },
+      { "title": "② 計算した", "desc": "動詞として。", "example_en": "She calculated the total cost.", "example_ja": "彼女は総費用を計算した。" }
+    ],
+    "warn": ["calculated は形容詞「計算された・意図的な」と、動詞 calculate（計算する）の過去形の両方。「a calculated risk（承知のうえで取るリスク）」は頻出。名詞 calculation、計算機 calculator。"],
+    "etym_note": "ラテン語 calculare（calculus「小石」から＝小石を並べて数える）に由来する calculate の過去分詞・形容詞。",
+    "etym_chain": [
+      { "node": "calculus", "sub": "小石", "era": "ラテン語" },
+      { "node": "calculate", "sub": "計算する", "era": "16世紀英語" },
+      { "node": "calculated", "sub": "計算された・意図的な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a calculated risk", "ja": "計算されたリスク" },
+      { "en": "a calculated move", "ja": "計算された行動" },
+      { "en": "calculated to", "ja": "〜するよう仕組まれた" },
+      { "en": "cold and calculated", "ja": "冷静で打算的な" },
+      { "en": "a calculated decision", "ja": "熟慮した決定" },
+      { "en": "well calculated", "ja": "よく練られた" }
+    ],
+    "related": [
+      { "en": "calculate", "ja": "計算する・見積もる" },
+      { "en": "calculation", "ja": "計算" },
+      { "en": "deliberate", "ja": "意図的な・慎重な" }
+    ],
+    "faq": [
+      { "q": "a calculated risk の意味は？", "a": "「(危険を承知のうえで)よく考えて取るリスク・計算されたリスク」という意味です。" },
+      { "q": "calculated の動詞・名詞は？", "a": "動詞は calculate（計算する）、名詞は calculation（計算）です。" }
+    ],
+    "quiz": [
+      { "q": "「それは支持を得るための計算された動きだった」= It was a ___ move to win support.", "A": "calculated", "B": "cultivated", "C": "circulated", "D": "celebrated", "correct": "A" },
+      { "q": "calculated の動詞形は？", "A": "calculate", "B": "circulate", "C": "cultivate", "D": "celebrate", "correct": "A" }
+    ]
+  },
+  {
+    "english": "circumvent",
+    "pron": "ˌsɜːrkəmˈvent",
+    "kana": "サーカムベント",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "ラテン語 circumvenire（周りを回る・出し抜く）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "論説で頻出"],
+    "meaning_main": "(規則などを)迂回して逃れる / 回避する",
+    "description": "circumvent（サーカムベント）の意味・使い方・例文。規則・障害などを巧みに回避する・かいくぐる、という意味の動詞を解説。",
+    "keywords": ["circumvent 意味", "circumvent 使い方", "回避する 英語", "かいくぐる 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】(規則・困難を)迂回して逃れる / 回避する", "note": "正面から向き合わず、うまく抜け道を通ってかわす。" }
+    ],
+    "usages": [
+      { "title": "① 規則をかいくぐる", "desc": "抜け道。", "example_en": "They found a way to circumvent the rules.", "example_ja": "彼らは規則をかいくぐる方法を見つけた。" },
+      { "title": "② 障害を回避する", "desc": "困難。", "example_en": "The new route circumvents the traffic.", "example_ja": "新しい経路は渋滞を回避する。" }
+    ],
+    "warn": ["circumvent は「(規則・障害を)巧みに回避する・かいくぐる」。circum-（周り）+ vent（来る・行く）。avoid より「抜け道を使ってすり抜ける」ニュアンスが強い。"],
+    "etym_note": "ラテン語 circumvenire（circum-「周りを」+ venire「来る・行く」＝周りを回って出し抜く）に由来。",
+    "etym_chain": [
+      { "node": "circumvenire", "sub": "周りを回る・出し抜く", "era": "ラテン語" },
+      { "node": "circumvent", "sub": "迂回して逃れる", "era": "15世紀英語" }
+    ],
+    "phrases": [
+      { "en": "circumvent the rules", "ja": "規則をかいくぐる" },
+      { "en": "circumvent the law", "ja": "法をかいくぐる" },
+      { "en": "circumvent a problem", "ja": "問題を回避する" },
+      { "en": "circumvent restrictions", "ja": "制限をかいくぐる" },
+      { "en": "circumvent security", "ja": "セキュリティを回避する" },
+      { "en": "attempt to circumvent", "ja": "回避しようと試みる" }
+    ],
+    "related": [
+      { "en": "bypass", "ja": "迂回する・回避する" },
+      { "en": "evade", "ja": "逃れる・回避する" },
+      { "en": "avoid", "ja": "避ける" }
+    ],
+    "faq": [
+      { "q": "circumvent と avoid の違いは？", "a": "avoid は単に「避ける」、circumvent は「(規則・障害を)抜け道を使って巧みにすり抜ける」という含みがあります。" },
+      { "q": "circumvent の成り立ちは？", "a": "circum-（周りを）+ vent（来る・行く）で、「周りを回って出し抜く」が原義です。" }
+    ],
+    "quiz": [
+      { "q": "「彼らは規則をかいくぐる方法を見つけた」= They found a way to ___ the rules.", "A": "circumvent", "B": "circulate", "C": "circumscribe", "D": "circumstance", "correct": "A" },
+      { "q": "circumvent の意味は？", "A": "迂回して逃れる・回避する", "B": "正面から立ち向かう", "C": "破壊する", "D": "支持する", "correct": "A" }
+    ]
+  },
+  {
+    "english": "consequences",
+    "pron": "ˈkɑːnsɪkwensɪz",
+    "kana": "コンシクエンシズ",
+    "hinshi": "名詞（consequence の複数形）",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 consequi（後に続く）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出語"],
+    "meaning_main": "結果 / 影響 / (行いの)報い（consequence の複数形）",
+    "description": "consequences（コンシクエンシズ）の意味・使い方・例文。consequence（結果・影響・報い）の複数形です。特に行動の「(悪い)結果・報い」を表す使い方を解説します。",
+    "keywords": ["consequences 意味", "consequence 複数形", "結果 英語", "報い 英語"],
+    "meanings": [
+      { "hinshi": "【名詞（複数）】結果 / 影響 / 報い", "note": "consequence（結果・影響）の複数形。特に「行動の(好ましくない)結果・報い」を表すことが多い。「face the consequences」で「その報いを受ける」。" }
+    ],
+    "usages": [
+      { "title": "① 行いの結果・報い", "desc": "しばしば悪い結果。", "example_en": "You must face the consequences of your actions.", "example_ja": "自分の行動の結果（報い）を受け止めなければならない。" },
+      { "title": "② 影響", "desc": "波及。", "example_en": "The decision had serious consequences.", "example_ja": "その決定は重大な影響をもたらした。" }
+    ],
+    "warn": ["consequences は consequence（結果・影響・重大さ）の複数形。特に「行動の(悪い)結果・報い」を指すことが多い。「as a consequence（その結果）」も重要。"],
+    "etym_note": "ラテン語 consequi（con-「共に」+ sequi「続く」＝後に続いて起こる）に由来する consequence の複数形。",
+    "etym_chain": [
+      { "node": "consequi", "sub": "後に続く", "era": "ラテン語" },
+      { "node": "consequence", "sub": "結果・影響", "era": "14世紀英語" },
+      { "node": "consequences", "sub": "結果・報い（複数）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "face the consequences", "ja": "報いを受ける" },
+      { "en": "serious consequences", "ja": "重大な結果" },
+      { "en": "suffer the consequences", "ja": "報いを被る" },
+      { "en": "unintended consequences", "ja": "意図しない結果" },
+      { "en": "the consequences of", "ja": "〜の結果" },
+      { "en": "far-reaching consequences", "ja": "広範囲に及ぶ影響" }
+    ],
+    "related": [
+      { "en": "consequence", "ja": "結果・影響（単数）" },
+      { "en": "result", "ja": "結果" },
+      { "en": "effect", "ja": "影響・効果" }
+    ],
+    "faq": [
+      { "q": "consequences は何の複数形？", "a": "consequence（結果・影響・重大さ）の複数形です。" },
+      { "q": "face the consequences の意味は？", "a": "「(自分の行動の)結果・報いを受け止める・引き受ける」という意味の表現です。" }
+    ],
+    "quiz": [
+      { "q": "「自分の行動の報いを受け止めねばならない」= You must face the ___ of your actions.", "A": "consequences", "B": "conferences", "C": "consciences", "D": "consequently", "correct": "A" },
+      { "q": "consequences は何の複数形？", "A": "consequence", "B": "conference", "C": "conscience", "D": "confidence", "correct": "A" }
+    ]
+  },
+  {
+    "english": "context",
+    "pron": "ˈkɑːntekst",
+    "kana": "コンテクスト",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 contextus（織り合わされたもの）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出語"],
+    "meaning_main": "文脈 / 状況 / 背景",
+    "description": "context（コンテクスト）の意味・使い方・例文。言葉の前後関係「文脈」、また物事の「状況・背景」という意味の名詞を解説。",
+    "keywords": ["context 意味", "context 使い方", "文脈 英語", "状況 背景 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】文脈 / 前後関係", "note": "ある語・文の前後のつながり。意味を判断する手がかり。" },
+      { "hinshi": "【名詞】状況 / 背景", "note": "物事が起こる周囲の事情。「in the context of 〜」で「〜の状況では」。" }
+    ],
+    "usages": [
+      { "title": "① 文脈", "desc": "言葉。", "example_en": "Guess the word's meaning from the context.", "example_ja": "文脈からその語の意味を推測しなさい。" },
+      { "title": "② 状況・背景", "desc": "事情。", "example_en": "We must consider the historical context.", "example_ja": "私たちは歴史的背景を考慮しなければならない。" }
+    ],
+    "warn": ["context は「文脈・状況・背景」。「out of context（文脈を無視して・切り取って)」「in context（文脈の中で)」が頻出。形容詞 contextual（文脈上の）。"],
+    "etym_note": "ラテン語 contextus（con-「共に」+ texere「織る」＝織り合わされたもの）に由来。「言葉が織りなすつながり」を意味する。",
+    "etym_chain": [
+      { "node": "contextus", "sub": "織り合わされたもの", "era": "ラテン語" },
+      { "node": "context", "sub": "文脈・状況", "era": "15世紀英語" }
+    ],
+    "phrases": [
+      { "en": "in this context", "ja": "この文脈・状況では" },
+      { "en": "out of context", "ja": "文脈を無視して" },
+      { "en": "the historical context", "ja": "歴史的背景" },
+      { "en": "in the context of", "ja": "〜の状況において" },
+      { "en": "cultural context", "ja": "文化的背景" },
+      { "en": "context clues", "ja": "文脈の手がかり" }
+    ],
+    "related": [
+      { "en": "situation", "ja": "状況" },
+      { "en": "background", "ja": "背景" },
+      { "en": "contextual", "ja": "文脈上の" }
+    ],
+    "faq": [
+      { "q": "out of context の意味は？", "a": "「文脈を無視して・(発言の)一部だけを切り取って」という意味で、誤解を招く引用などに使います。" },
+      { "q": "context の形容詞は？", "a": "contextual（文脈上の・状況に応じた）です。" }
+    ],
+    "quiz": [
+      { "q": "「文脈からその語の意味を推測しなさい」= Guess the word's meaning from the ___.", "A": "context", "B": "contest", "C": "contact", "D": "content", "correct": "A" },
+      { "q": "out of context の意味は？", "A": "文脈を無視して", "B": "順番どおりに", "C": "詳しく", "D": "正確に", "correct": "A" }
+    ]
+  },
+  {
+    "english": "conventional",
+    "pron": "kənˈvenʃənl",
+    "kana": "コンベンショナル",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "ラテン語 convenire（集まる・一致する）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "論説で頻出"],
+    "meaning_main": "従来の / 伝統的な / 型どおりの",
+    "description": "conventional（コンベンショナル）の意味・使い方・例文。昔からの習慣・慣例に従った「従来の・伝統的な・型どおりの」という意味の形容詞を解説。",
+    "keywords": ["conventional 意味", "conventional 使い方", "従来の 英語", "伝統的な 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】従来の / 伝統的な / 型どおりの", "note": "昔からの慣例・一般的なやり方に従った。ときに「目新しさのない・ありきたりの」という含みも。" }
+    ],
+    "usages": [
+      { "title": "① 従来の方法", "desc": "一般的。", "example_en": "They still use conventional methods.", "example_ja": "彼らはいまだに従来の方法を使っている。" },
+      { "title": "② 型どおりの", "desc": "ありきたり。", "example_en": "His ideas are rather conventional.", "example_ja": "彼の考えはかなりありきたりだ。" }
+    ],
+    "warn": ["conventional は「従来の・型どおりの」。名詞 convention（慣習・大会・条約）。反対は unconventional / innovative（型破りな・革新的な）。"],
+    "etym_note": "ラテン語 convenire（con-「共に」+ venire「来る」＝集まる・一致する）に由来する convention（人々が一致して認めた慣習）の形容詞。",
+    "etym_chain": [
+      { "node": "convenire", "sub": "集まる・一致する", "era": "ラテン語" },
+      { "node": "convention", "sub": "慣習・取り決め", "era": "15世紀英語" },
+      { "node": "conventional", "sub": "従来の・型どおりの", "era": "16世紀英語" }
+    ],
+    "phrases": [
+      { "en": "conventional methods", "ja": "従来の方法" },
+      { "en": "conventional wisdom", "ja": "一般に信じられている考え" },
+      { "en": "conventional weapons", "ja": "通常兵器" },
+      { "en": "a conventional approach", "ja": "型どおりのやり方" },
+      { "en": "break with convention", "ja": "慣習を破る" },
+      { "en": "conventional energy", "ja": "従来型エネルギー" }
+    ],
+    "related": [
+      { "en": "convention", "ja": "慣習・大会・条約" },
+      { "en": "traditional", "ja": "伝統的な" },
+      { "en": "unconventional", "ja": "型破りな（反意）" }
+    ],
+    "faq": [
+      { "q": "conventional wisdom とは？", "a": "「世間で一般に正しいと信じられている考え・通説」という意味の表現です。" },
+      { "q": "conventional の反対語は？", "a": "unconventional（型破りな）や innovative（革新的な）です。" }
+    ],
+    "quiz": [
+      { "q": "「彼らはいまだに従来の方法を使っている」= They still use ___ methods.", "A": "conventional", "B": "confidential", "C": "controversial", "D": "conditional", "correct": "A" },
+      { "q": "conventional の名詞形は？", "A": "convention", "B": "conversation", "C": "conviction", "D": "connection", "correct": "A" }
+    ]
+  },
+  {
+    "english": "creat",
+    "pron": "kriˈeɪt",
+    "kana": "（正しくは create／クリエイト）",
+    "hinshi": "つづり間違い（正しくは create）",
+    "ld_pos": "misspelling",
+    "ld_etym": "create のつづり間違い",
+    "ld_level": "つづり注意",
+    "badges": ["つづり間違い", "正しくは create", "検索ログ由来", "英単語ではありません"],
+    "meaning_main": "「creat」は誤り。正しいつづりは create（作り出す・創造する）",
+    "description": "creat は英単語ではなく、create（作り出す・創造する）のつづり間違いです。正しいつづり create の意味・使い方を解説します。",
+    "keywords": ["creat 正しい", "create つづり", "作り出す 英語", "創造する 英語"],
+    "meanings": [
+      { "hinshi": "【つづり間違い】正しくは create", "note": "creat という英単語はありません。create（クリエイト＝作り出す・創造する・引き起こす）のつづり間違い（最後の e が抜けた形）です。正しくは c-r-e-a-t-e と、最後に e を付けて書きます。" }
+    ],
+    "usages": [
+      { "title": "① 正しい形：作り出す", "desc": "create を使う。", "example_en": "Artists create new works. (× creat)", "example_ja": "芸術家は新しい作品を作り出す。（creat は誤り）" },
+      { "title": "② 引き起こす", "desc": "create の用法。", "example_en": "The plan created many jobs.", "example_ja": "その計画は多くの雇用を生み出した。" }
+    ],
+    "warn": ["creat は英単語ではなく、create のつづり間違いです。最後に e を忘れずに c-r-e-a-t-e と書きます。名詞は creation（創造）、形容詞 creative（創造的な）。"],
+    "etym_note": "正しい語 create はラテン語 creare（生み出す・作る）に由来します。creat は末尾の e が抜けた誤ったつづりです。",
+    "etym_chain": [
+      { "node": "creare", "sub": "生み出す・作る", "era": "ラテン語" },
+      { "node": "create", "sub": "作り出す・創造する（正しい形）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "create a plan", "ja": "計画を作る" },
+      { "en": "create jobs", "ja": "雇用を生み出す" },
+      { "en": "create a problem", "ja": "問題を引き起こす" },
+      { "en": "create art", "ja": "芸術を創造する" },
+      { "en": "create an account", "ja": "アカウントを作成する" },
+      { "en": "create an impression", "ja": "印象を与える" }
+    ],
+    "related": [
+      { "en": "create", "ja": "作り出す（正しいつづり）" },
+      { "en": "creation", "ja": "創造・創作物" },
+      { "en": "creative", "ja": "創造的な" }
+    ],
+    "faq": [
+      { "q": "creat は正しい英単語ですか？", "a": "いいえ。create のつづり間違いです。最後に e を付けて c-r-e-a-t-e と書きます。" },
+      { "q": "create の名詞・形容詞は？", "a": "名詞は creation（創造・創作物）、形容詞は creative（創造的な）です。" }
+    ],
+    "quiz": [
+      { "q": "正しいつづりはどれ？", "A": "create", "B": "creat", "C": "creaet", "D": "creyate", "correct": "A" },
+      { "q": "create の意味は？", "A": "作り出す・創造する", "B": "壊す", "C": "見つける", "D": "運ぶ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "destination",
+    "pron": "ˌdestɪˈneɪʃn",
+    "kana": "デスティネーション",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 destinare（定める）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出語"],
+    "meaning_main": "目的地 / 行き先",
+    "description": "destination（デスティネーション）の意味・使い方・例文。旅行や配送などの「目的地・行き先」を表す名詞を解説。",
+    "keywords": ["destination 意味", "destination 使い方", "目的地 英語", "行き先 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】目的地 / 行き先", "note": "人・物が向かう最終的な場所。旅行・輸送などで使う。" }
+    ],
+    "usages": [
+      { "title": "① 旅行の目的地", "desc": "旅行。", "example_en": "Paris is a popular tourist destination.", "example_ja": "パリは人気の観光地（目的地）だ。" },
+      { "title": "② 配送先", "desc": "輸送。", "example_en": "The package reached its destination.", "example_ja": "その荷物は目的地に到着した。" }
+    ],
+    "warn": ["destination は「目的地・行き先」。動詞 destine（運命づける）、名詞 destiny（運命）と同語源。「final destination」で「最終目的地」。"],
+    "etym_note": "ラテン語 destinare（しっかり定める）に由来。「向かうべく定められた場所」を意味する。destiny（運命）と同語源。",
+    "etym_chain": [
+      { "node": "destinare", "sub": "定める", "era": "ラテン語" },
+      { "node": "destination", "sub": "目的地", "era": "15世紀英語" }
+    ],
+    "phrases": [
+      { "en": "a tourist destination", "ja": "観光地・観光の目的地" },
+      { "en": "final destination", "ja": "最終目的地" },
+      { "en": "reach one's destination", "ja": "目的地に着く" },
+      { "en": "a popular destination", "ja": "人気の行き先" },
+      { "en": "travel destination", "ja": "旅行先" },
+      { "en": "arrive at the destination", "ja": "目的地に到着する" }
+    ],
+    "related": [
+      { "en": "destiny", "ja": "運命" },
+      { "en": "arrival", "ja": "到着" },
+      { "en": "journey", "ja": "旅・行程" }
+    ],
+    "faq": [
+      { "q": "destination と destiny の違いは？", "a": "同語源ですが、destination は「目的地（場所）」、destiny は「運命」です。" },
+      { "q": "final destination の意味は？", "a": "「最終目的地」という意味です。" }
+    ],
+    "quiz": [
+      { "q": "「パリは人気の観光地だ」= Paris is a popular tourist ___.", "A": "destination", "B": "declaration", "C": "destruction", "D": "description", "correct": "A" },
+      { "q": "destination の意味は？", "A": "目的地・行き先", "B": "出発地のみ", "C": "地図", "D": "切符", "correct": "A" }
+    ]
+  },
+  {
+    "english": "dilute",
+    "pron": "daɪˈluːt",
+    "kana": "ダイルート",
+    "hinshi": "動詞 / 形容詞",
+    "ld_pos": "verb",
+    "ld_etym": "ラテン語 diluere（洗い流す・薄める）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "科学"],
+    "meaning_main": "薄める / 希釈する / 弱める",
+    "description": "dilute（ダイルート）の意味・使い方・例文。水などを加えて液体を薄める・希釈する、また力・効果を弱める、という意味の動詞を解説。",
+    "keywords": ["dilute 意味", "dilute 使い方", "薄める 英語", "希釈する 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】薄める / 希釈する", "note": "水などを加えて濃度を下げる。" },
+      { "hinshi": "【動詞】(力・効果を)弱める", "note": "比喩で影響・効果を薄める。" }
+    ],
+    "usages": [
+      { "title": "① 液体を薄める", "desc": "科学・料理。", "example_en": "Dilute the juice with water.", "example_ja": "そのジュースを水で薄めて。" },
+      { "title": "② 効果を弱める", "desc": "比喩。", "example_en": "The changes diluted the plan's impact.", "example_ja": "その変更は計画の効果を弱めた。" }
+    ],
+    "warn": ["dilute は「薄める・希釈する・弱める」。名詞は dilution（希釈）。反対は concentrate（濃くする）。"],
+    "etym_note": "ラテン語 diluere（di-「離す」+ luere「洗う」＝洗い流す・薄める）に由来。",
+    "etym_chain": [
+      { "node": "diluere", "sub": "洗い流す・薄める", "era": "ラテン語" },
+      { "node": "dilute", "sub": "薄める・希釈する", "era": "16世紀英語" }
+    ],
+    "phrases": [
+      { "en": "dilute with water", "ja": "水で薄める" },
+      { "en": "a dilute solution", "ja": "希薄な溶液" },
+      { "en": "dilute the effect", "ja": "効果を弱める" },
+      { "en": "highly diluted", "ja": "かなり薄められた" },
+      { "en": "dilute the concentration", "ja": "濃度を下げる" },
+      { "en": "dilute the impact", "ja": "影響を弱める" }
+    ],
+    "related": [
+      { "en": "dilution", "ja": "希釈" },
+      { "en": "concentrate", "ja": "濃縮する（反意）" },
+      { "en": "weaken", "ja": "弱める" }
+    ],
+    "faq": [
+      { "q": "dilute の反対語は？", "a": "concentrate（濃くする・濃縮する）です。" },
+      { "q": "dilute の名詞は？", "a": "dilution（希釈・薄めること）です。" }
+    ],
+    "quiz": [
+      { "q": "「そのジュースを水で薄めて」= ___ the juice with water.", "A": "Dilute", "B": "Delete", "C": "Devote", "D": "Divide", "correct": "A" },
+      { "q": "dilute の反対語は？", "A": "concentrate", "B": "calculate", "C": "circulate", "D": "cultivate", "correct": "A" }
+    ]
+  },
+  {
+    "english": "estuary",
+    "pron": "ˈestʃueri",
+    "kana": "エスチュアリー",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 aestuarium（潮の出入りする所）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "地理・科学"],
+    "meaning_main": "河口 / 入り江（海水と淡水が混じる所）",
+    "description": "estuary（エスチュアリー）の意味・使い方・例文。川が海に注ぐ「河口」で、海水と淡水が混じり合う水域を表す名詞を解説。",
+    "keywords": ["estuary 意味", "estuary 使い方", "河口 英語", "汽水域 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】河口 / 入り江", "note": "川が海に流れ込む広い河口で、海水と淡水が混じる（汽水域）。潮の満ち引きの影響を受ける。" }
+    ],
+    "usages": [
+      { "title": "① 河口", "desc": "地理。", "example_en": "The city lies at the estuary of a large river.", "example_ja": "その都市は大きな川の河口に位置している。" },
+      { "title": "② 生態系", "desc": "自然。", "example_en": "Estuaries are rich in wildlife.", "example_ja": "河口（汽水域）は野生生物が豊かだ。" }
+    ],
+    "warn": ["estuary は「河口・汽水域」（海水と淡水が混じる所）。単なる川の end ではなく、潮の影響を受ける広い河口を指す。"],
+    "etym_note": "ラテン語 aestuarium（aestus「潮・沸き立ち」から＝潮の出入りする所）に由来。",
+    "etym_chain": [
+      { "node": "aestus", "sub": "潮・沸き立ち", "era": "ラテン語" },
+      { "node": "aestuarium", "sub": "潮の出入りする所", "era": "ラテン語" },
+      { "node": "estuary", "sub": "河口", "era": "16世紀英語" }
+    ],
+    "phrases": [
+      { "en": "a river estuary", "ja": "川の河口" },
+      { "en": "at the estuary", "ja": "河口で" },
+      { "en": "a tidal estuary", "ja": "潮の影響を受ける河口" },
+      { "en": "the mouth of an estuary", "ja": "河口の入り口" },
+      { "en": "estuary wildlife", "ja": "河口の野生生物" },
+      { "en": "a wide estuary", "ja": "広い河口" }
+    ],
+    "related": [
+      { "en": "river", "ja": "川" },
+      { "en": "tide", "ja": "潮・潮の満ち引き" },
+      { "en": "delta", "ja": "三角州" }
+    ],
+    "faq": [
+      { "q": "estuary とは？", "a": "川が海に注ぐ広い「河口」で、海水と淡水が混じり合い、潮の満ち引きの影響を受ける水域（汽水域）です。" },
+      { "q": "estuary と delta の違いは？", "a": "estuary は潮の影響を受けるラッパ状の「河口」、delta は土砂が堆積してできる「三角州」です。" }
+    ],
+    "quiz": [
+      { "q": "「その都市は大きな川の河口に位置している」= The city lies at the ___ of a large river.", "A": "estuary", "B": "estimate", "C": "estate", "D": "essay", "correct": "A" },
+      { "q": "estuary はどんな場所？", "A": "海水と淡水が混じる河口", "B": "山の頂上", "C": "砂漠", "D": "森の奥", "correct": "A" }
+    ]
+  },
+  {
+    "english": "forecast",
+    "pron": "ˈfɔːrkæst",
+    "kana": "フォーキャスト",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "noun",
+    "ld_etym": "fore-（前もって）+ cast（投げる・見積もる）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出語"],
+    "meaning_main": "予報 / 予測 / 予報する",
+    "description": "forecast（フォーキャスト）の意味・使い方・例文。天気予報や経済の予測など「予報・予測」、また「予報する」という意味の名詞・動詞を解説。",
+    "keywords": ["forecast 意味", "forecast 使い方", "予報 英語", "予測 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】予報 / 予測", "note": "将来の天気・経済などを前もって見積もったもの。「weather forecast」で「天気予報」。" },
+      { "hinshi": "【動詞】予報する / 予測する", "note": "将来を見通して予測する。活用は forecast – forecast – forecast（変化しない）。" }
+    ],
+    "usages": [
+      { "title": "① 天気予報", "desc": "名詞として。", "example_en": "The weather forecast says it will rain.", "example_ja": "天気予報では雨が降るそうだ。" },
+      { "title": "② 予測する", "desc": "動詞として。", "example_en": "Experts forecast slow growth.", "example_ja": "専門家は緩やかな成長を予測している。" }
+    ],
+    "warn": ["forecast は fore-（前もって）+ cast（投げる・見積もる）。活用は forecast – forecast – forecast（変化しない。forecasted も可）。predict と近い。"],
+    "etym_note": "fore-（前もって）と cast（投げる・計算する・見積もる）を合わせた語。「前もって見積もる」を意味する。",
+    "etym_chain": [
+      { "node": "fore- + cast", "sub": "前もって＋見積もる", "era": "中英語" },
+      { "node": "forecast", "sub": "予報・予測", "era": "16世紀英語" }
+    ],
+    "phrases": [
+      { "en": "the weather forecast", "ja": "天気予報" },
+      { "en": "a sales forecast", "ja": "売上予測" },
+      { "en": "forecast the future", "ja": "将来を予測する" },
+      { "en": "an economic forecast", "ja": "経済予測" },
+      { "en": "as forecast", "ja": "予測どおり" },
+      { "en": "a long-range forecast", "ja": "長期予報" }
+    ],
+    "related": [
+      { "en": "predict", "ja": "予言する・予測する" },
+      { "en": "prediction", "ja": "予測" },
+      { "en": "outlook", "ja": "見通し" }
+    ],
+    "faq": [
+      { "q": "forecast の活用は？", "a": "forecast – forecast – forecast と変化しないのが基本です（forecasted も使われます）。" },
+      { "q": "forecast と predict の違いは？", "a": "ほぼ同義ですが、forecast は特に天気・経済などデータに基づく「予報・予測」に使うことが多いです。" }
+    ],
+    "quiz": [
+      { "q": "「天気予報では雨が降るそうだ」= The weather ___ says it will rain.", "A": "forecast", "B": "forehead", "C": "foreign", "D": "forest", "correct": "A" },
+      { "q": "forecast の成り立ちは？", "A": "fore（前もって）+ cast（見積もる）", "B": "for + ecast", "C": "fore + coast", "D": "four + cast", "correct": "A" }
+    ]
+  },
+  {
+    "english": "games",
+    "pron": "ˈɡeɪmz",
+    "kana": "ゲイムズ",
+    "hinshi": "名詞（game の複数形）",
+    "ld_pos": "noun",
+    "ld_etym": "古英語 gamen（遊び・楽しみ）",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "基本語"],
+    "meaning_main": "ゲーム・試合・競技（game の複数形）",
+    "description": "games（ゲイムズ）の意味・使い方・例文。game（ゲーム・試合・遊び）の複数形です。ビデオゲームや、オリンピックなどの「大会（the Games）」の使い方も解説します。",
+    "keywords": ["games 意味", "game 複数形", "ゲーム 英語", "オリンピック Games"],
+    "meanings": [
+      { "hinshi": "【名詞（複数）】ゲーム / 試合 / 遊び", "note": "game（ゲーム・試合・競技・遊び）の複数形。video games（テレビゲーム）、board games（ボードゲーム）など。" },
+      { "hinshi": "【名詞】(the Games)大会 / 競技会", "note": "「the Olympic Games（オリンピック大会）」のように、複数の競技からなる大会を指す。" }
+    ],
+    "usages": [
+      { "title": "① 複数のゲーム", "desc": "遊び・試合。", "example_en": "The kids played games all afternoon.", "example_ja": "子どもたちは午後じゅうゲームをして遊んだ。" },
+      { "title": "② オリンピック", "desc": "大会。", "example_en": "The Olympic Games are held every four years.", "example_ja": "オリンピックは4年ごとに開催される。" }
+    ],
+    "warn": ["games は game の複数形。ビデオゲームは video games。オリンピックなどの「大会」は the Olympic Games のように大文字＋複数で表す。「play games with someone」で「(人を)もてあそぶ」の比喩も。"],
+    "etym_note": "古英語 gamen（遊び・楽しみ）に由来する game の複数形。",
+    "etym_chain": [
+      { "node": "gamen", "sub": "遊び・楽しみ", "era": "古英語" },
+      { "node": "game", "sub": "ゲーム・試合", "era": "中英語" },
+      { "node": "games", "sub": "ゲーム（複数）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "video games", "ja": "テレビゲーム" },
+      { "en": "board games", "ja": "ボードゲーム" },
+      { "en": "the Olympic Games", "ja": "オリンピック大会" },
+      { "en": "play games", "ja": "ゲームをする" },
+      { "en": "win two games", "ja": "2試合勝つ" },
+      { "en": "mind games", "ja": "心理的かけひき" }
+    ],
+    "related": [
+      { "en": "game", "ja": "ゲーム・試合（単数）" },
+      { "en": "match", "ja": "試合" },
+      { "en": "play", "ja": "遊ぶ・(競技を)する" }
+    ],
+    "faq": [
+      { "q": "games は何の複数形？", "a": "game（ゲーム・試合・遊び）の複数形です。" },
+      { "q": "the Olympic Games はなぜ複数？", "a": "オリンピックは多くの競技（games）の集まりだからで、大会全体を複数形＋the で表します。" }
+    ],
+    "quiz": [
+      { "q": "「オリンピックは4年ごとに開催される」= The Olympic ___ are held every four years.", "A": "Games", "B": "Names", "C": "Frames", "D": "Flames", "correct": "A" },
+      { "q": "games は何の複数形？", "A": "game", "B": "gum", "C": "gate", "D": "gap", "correct": "A" }
+    ]
+  },
+  {
+    "english": "guardian",
+    "pron": "ˈɡɑːrdiən",
+    "kana": "ガーディアン",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "古フランス語 guardien（見張る人）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出語"],
+    "meaning_main": "保護者 / 後見人 / 守護者",
+    "description": "guardian（ガーディアン）の意味・使い方・例文。子どもの「保護者・後見人」、また「守護者・番人」という意味の名詞を解説。",
+    "keywords": ["guardian 意味", "guardian 使い方", "保護者 英語", "後見人 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】保護者 / 後見人", "note": "親に代わって未成年などの世話・法的責任を負う人。" },
+      { "hinshi": "【名詞】守護者 / 番人", "note": "何かを守り管理する人・存在。「guardian angel」で「守護天使」。" }
+    ],
+    "usages": [
+      { "title": "① 保護者・後見人", "desc": "法律・家庭。", "example_en": "A parent or guardian must sign the form.", "example_ja": "親または保護者が用紙に署名する必要がある。" },
+      { "title": "② 守護者", "desc": "比喩。", "example_en": "They see themselves as guardians of nature.", "example_ja": "彼らは自分たちを自然の守護者と考えている。" }
+    ],
+    "warn": ["guardian は「保護者・後見人・守護者」。動詞 guard（守る・見張る）と同語源。「guardian angel（守護天使）」「legal guardian（法的後見人）」が頻出。"],
+    "etym_note": "古フランス語 guardien（守る人・見張る人。guarder「守る」から）に由来。guard（守る）と同語源。",
+    "etym_chain": [
+      { "node": "guarder", "sub": "守る・見張る", "era": "古フランス語" },
+      { "node": "guardien", "sub": "見張る人", "era": "古フランス語" },
+      { "node": "guardian", "sub": "保護者・守護者", "era": "15世紀英語" }
+    ],
+    "phrases": [
+      { "en": "a legal guardian", "ja": "法的後見人" },
+      { "en": "a parent or guardian", "ja": "親または保護者" },
+      { "en": "guardian angel", "ja": "守護天使" },
+      { "en": "the guardian of", "ja": "〜の守護者" },
+      { "en": "appoint a guardian", "ja": "後見人を選任する" },
+      { "en": "guardians of the law", "ja": "法の番人" }
+    ],
+    "related": [
+      { "en": "guard", "ja": "守る・見張り" },
+      { "en": "protector", "ja": "保護者・保護具" },
+      { "en": "custodian", "ja": "管理人・保護者" }
+    ],
+    "faq": [
+      { "q": "guardian と parent の違いは？", "a": "parent は「親」、guardian は親に代わって世話・法的責任を負う「保護者・後見人」で、親でない場合も含みます。" },
+      { "q": "guardian angel とは？", "a": "その人を見守り守ってくれるとされる「守護天使」のことです。" }
+    ],
+    "quiz": [
+      { "q": "「親または保護者が用紙に署名する必要がある」= A parent or ___ must sign the form.", "A": "guardian", "B": "gardener", "C": "guidance", "D": "guarantee", "correct": "A" },
+      { "q": "guardian と同語源の動詞は？", "A": "guard", "B": "guide", "C": "gather", "D": "grant", "correct": "A" }
+    ]
+  },
+  {
+    "english": "harvest",
+    "pron": "ˈhɑːrvɪst",
+    "kana": "ハーベスト",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "noun",
+    "ld_etym": "古英語 hærfest（秋・収穫期）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出語"],
+    "meaning_main": "収穫 / 収穫物 / 収穫する",
+    "description": "harvest（ハーベスト）の意味・使い方・例文。農作物を取り入れる「収穫」、その「収穫物」、また「収穫する」という意味の名詞・動詞を解説。",
+    "keywords": ["harvest 意味", "harvest 使い方", "収穫 英語", "収穫する 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】収穫 / 収穫期 / 収穫物", "note": "実った作物を取り入れること、その時期や量。" },
+      { "hinshi": "【動詞】収穫する / 取り入れる", "note": "作物を刈り取る・集める。" }
+    ],
+    "usages": [
+      { "title": "① 収穫", "desc": "名詞として。", "example_en": "This year's rice harvest was excellent.", "example_ja": "今年の米の収穫は素晴らしかった。" },
+      { "title": "② 収穫する", "desc": "動詞として。", "example_en": "Farmers harvest the wheat in summer.", "example_ja": "農家は夏に小麦を収穫する。" }
+    ],
+    "warn": ["harvest は「収穫（する）」。豊作は a good/bumper harvest、不作は a poor harvest。比喩で「(努力の)成果を得る」の意も。"],
+    "etym_note": "古英語 hærfest（秋・収穫期）に由来。もとは「秋」を意味し、収穫の季節から「収穫」の意になった。ドイツ語 Herbst（秋）と同語源。",
+    "etym_chain": [
+      { "node": "hærfest", "sub": "秋・収穫期", "era": "古英語" },
+      { "node": "harvest", "sub": "収穫", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "a good harvest", "ja": "豊作" },
+      { "en": "a poor harvest", "ja": "不作" },
+      { "en": "the harvest season", "ja": "収穫期" },
+      { "en": "harvest the crops", "ja": "作物を収穫する" },
+      { "en": "a bumper harvest", "ja": "大豊作" },
+      { "en": "harvest festival", "ja": "収穫祭" }
+    ],
+    "related": [
+      { "en": "crop", "ja": "作物・収穫高" },
+      { "en": "reap", "ja": "刈り取る・収穫する" },
+      { "en": "gather", "ja": "集める" }
+    ],
+    "faq": [
+      { "q": "harvest は動詞にもなる？", "a": "はい。「(作物を)収穫する・取り入れる」という意味の動詞にもなります。" },
+      { "q": "「豊作」「不作」は英語で？", "a": "豊作は a good/bumper harvest、不作は a poor harvest です。" }
+    ],
+    "quiz": [
+      { "q": "「今年の米の収穫は素晴らしかった」= This year's rice ___ was excellent.", "A": "harvest", "B": "harbor", "C": "hardware", "D": "harmony", "correct": "A" },
+      { "q": "harvest の意味は？", "A": "収穫（する）", "B": "種まき", "C": "耕すこと", "D": "水やり", "correct": "A" }
+    ]
+  },
+  {
+    "english": "hint",
+    "pron": "ˈhɪnt",
+    "kana": "ヒント",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "noun",
+    "ld_etym": "古英語 hentan（つかむ）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "頻出語"],
+    "meaning_main": "ヒント / 暗示 / ほのめかす / ごくわずか",
+    "description": "hint（ヒント）の意味・使い方・例文。手がかりの「ヒント・暗示」、また「ほのめかす」、ごく少量の「気配」という意味の名詞・動詞を解説。",
+    "keywords": ["hint 意味", "hint 使い方", "ヒント 英語", "ほのめかす 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】ヒント / 手がかり / 暗示", "note": "答えや意図をそれとなく示すもの。" },
+      { "hinshi": "【名詞】ごくわずか / 気配", "note": "「a hint of 〜」で「わずかな〜・〜の気配」。" },
+      { "hinshi": "【動詞】ほのめかす / それとなく言う", "note": "「hint at 〜」で「〜をほのめかす」。" }
+    ],
+    "usages": [
+      { "title": "① ヒント・手がかり", "desc": "名詞として。", "example_en": "Give me a hint.", "example_ja": "ヒントをちょうだい。" },
+      { "title": "② ほのめかす", "desc": "動詞として。", "example_en": "She hinted at a possible change.", "example_ja": "彼女は変更の可能性をほのめかした。" }
+    ],
+    "warn": ["hint は「ヒント・暗示・ほのめかす」。「a hint of 〜（わずかな〜・〜の気配）」も頻出（a hint of garlic＝ほんのりニンニクの風味）。「hint at 〜」で「〜を遠回しに言う」。"],
+    "etym_note": "古英語 hentan（つかむ・とらえる）に由来するとされる。「（意味を）つかませるもの」から「暗示・ヒント」へ。",
+    "etym_chain": [
+      { "node": "hentan", "sub": "つかむ", "era": "古英語" },
+      { "node": "hint", "sub": "暗示・ヒント", "era": "16世紀英語" }
+    ],
+    "phrases": [
+      { "en": "give a hint", "ja": "ヒントを与える" },
+      { "en": "a hint of", "ja": "わずかな〜・〜の気配" },
+      { "en": "hint at", "ja": "〜をほのめかす" },
+      { "en": "drop a hint", "ja": "それとなく示す" },
+      { "en": "take a hint", "ja": "暗示を察する" },
+      { "en": "a subtle hint", "ja": "かすかな暗示" }
+    ],
+    "related": [
+      { "en": "clue", "ja": "手がかり" },
+      { "en": "suggest", "ja": "示唆する・提案する" },
+      { "en": "imply", "ja": "ほのめかす・暗示する" }
+    ],
+    "faq": [
+      { "q": "a hint of の意味は？", "a": "「わずかな〜・ほんの少しの〜・〜の気配」という意味です。a hint of a smile（かすかなほほえみ）のように使います。" },
+      { "q": "take a hint の意味は？", "a": "「(遠回しの)暗示を察する・空気を読む」という意味です。" }
+    ],
+    "quiz": [
+      { "q": "「ヒントをちょうだい」= Give me a ___.", "A": "hint", "B": "hunt", "C": "hind", "D": "hit", "correct": "A" },
+      { "q": "hint at の意味は？", "A": "〜をほのめかす", "B": "〜を叫ぶ", "C": "〜を隠す", "D": "〜を数える", "correct": "A" }
+    ]
+  },
+  {
+    "english": "horn",
+    "pron": "ˈhɔːrn",
+    "kana": "ホーン",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "古英語 horn（角・角笛）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "頻出語"],
+    "meaning_main": "(動物の)角 / 警笛・クラクション / 角笛・ホルン",
+    "description": "horn（ホーン）の意味・使い方・例文。動物の「角」、車の「警笛（クラクション）」、また楽器の「角笛・ホルン」という意味の名詞を解説。",
+    "keywords": ["horn 意味", "horn 使い方", "角 英語", "クラクション 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】(動物の)角", "note": "牛・鹿などの頭に生える硬い角。" },
+      { "hinshi": "【名詞】警笛 / クラクション", "note": "車などの音を鳴らす装置。「honk the horn」で「クラクションを鳴らす」。" },
+      { "hinshi": "【名詞】角笛 / (金管の)ホルン", "note": "角で作った笛、また金管楽器のホルン。" }
+    ],
+    "usages": [
+      { "title": "① 動物の角", "desc": "自然。", "example_en": "The bull has sharp horns.", "example_ja": "その雄牛は鋭い角を持っている。" },
+      { "title": "② クラクション", "desc": "車。", "example_en": "He honked the horn at the car.", "example_ja": "彼はその車にクラクションを鳴らした。" }
+    ],
+    "warn": ["horn は「角・警笛・ホルン」と多義。日本語の車の『クラクション』は英語では horn（honk the horn＝クラクションを鳴らす）。「the horns of a dilemma（板ばさみ）」の比喩も。"],
+    "etym_note": "古英語 horn（角・角笛）に由来。角で笛を作ったことから「角笛」、さらに音を出す「警笛・ホルン」へ広がった。",
+    "etym_chain": [
+      { "node": "horn", "sub": "角・角笛", "era": "古英語" },
+      { "node": "horn", "sub": "角・警笛・ホルン", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "honk the horn", "ja": "クラクションを鳴らす" },
+      { "en": "sound the horn", "ja": "警笛を鳴らす" },
+      { "en": "a pair of horns", "ja": "一対の角" },
+      { "en": "the French horn", "ja": "フレンチホルン" },
+      { "en": "a foghorn", "ja": "霧笛" },
+      { "en": "take the bull by the horns", "ja": "困難に敢然と立ち向かう" }
+    ],
+    "related": [
+      { "en": "antler", "ja": "（鹿の）枝角" },
+      { "en": "trumpet", "ja": "トランペット" },
+      { "en": "honk", "ja": "警笛を鳴らす" }
+    ],
+    "faq": [
+      { "q": "車の「クラクション」は英語で？", "a": "horn です。「クラクションを鳴らす」は honk/sound the horn と言います（klaxon は商標由来の別語）。" },
+      { "q": "take the bull by the horns の意味は？", "a": "「(牛の角をつかむように)困難に敢然と立ち向かう」という慣用表現です。" }
+    ],
+    "quiz": [
+      { "q": "「彼はその車にクラクションを鳴らした」= He honked the ___ at the car.", "A": "horn", "B": "corn", "C": "born", "D": "barn", "correct": "A" },
+      { "q": "horn の意味に含まれないものは？", "A": "羽根", "B": "動物の角", "C": "警笛", "D": "ホルン", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ideal",
+    "pron": "aɪˈdiːəl",
+    "kana": "アイディーアル",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "adjective",
+    "ld_etym": "ギリシャ語 idea（理念・原型）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出語"],
+    "meaning_main": "理想的な / 最適の / 理想",
+    "description": "ideal（アイディーアル）の意味・使い方・例文。この上なく望ましい「理想的な・最適の」という形容詞、また「理想」という名詞を解説。",
+    "keywords": ["ideal 意味", "ideal 使い方", "理想的な 英語", "最適の 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】理想的な / 最適の", "note": "望みうる最良の。「ideal for 〜」で「〜に最適の」。" },
+      { "hinshi": "【名詞】理想 / 理想像", "note": "目指すべき最良の状態・目標。" }
+    ],
+    "usages": [
+      { "title": "① 理想的な", "desc": "形容詞として。", "example_en": "This is an ideal place for a picnic.", "example_ja": "ここはピクニックに理想的な場所だ。" },
+      { "title": "② 理想", "desc": "名詞として。", "example_en": "She never gave up her ideals.", "example_ja": "彼女は自分の理想を決してあきらめなかった。" }
+    ],
+    "warn": ["ideal は「理想的な・最適の」（形容詞）と「理想」（名詞）。副詞 ideally（理想的には）、名詞 idealism（理想主義）。idea（考え）と同語源だが意味が違う。"],
+    "etym_note": "ギリシャ語 idea（見えるもの・理念・原型）に由来。「頭の中に描く最良の姿」から「理想（的な）」へ。",
+    "etym_chain": [
+      { "node": "idea", "sub": "理念・原型", "era": "古代ギリシャ語" },
+      { "node": "ideal", "sub": "理想的な・理想", "era": "16世紀英語" }
+    ],
+    "phrases": [
+      { "en": "ideal for", "ja": "〜に最適の" },
+      { "en": "an ideal solution", "ja": "理想的な解決策" },
+      { "en": "far from ideal", "ja": "理想には程遠い" },
+      { "en": "the ideal candidate", "ja": "最適な候補者" },
+      { "en": "high ideals", "ja": "高い理想" },
+      { "en": "ideally suited", "ja": "理想的に適した" }
+    ],
+    "related": [
+      { "en": "perfect", "ja": "完璧な" },
+      { "en": "idealism", "ja": "理想主義" },
+      { "en": "ideally", "ja": "理想的には" }
+    ],
+    "faq": [
+      { "q": "ideal と idea の違いは？", "a": "idea は「考え・アイデア」、ideal は「理想的な・理想」です。同語源ですが意味が異なります。" },
+      { "q": "ideal for の意味は？", "a": "「〜に最適の・ぴったりの」という意味です。" }
+    ],
+    "quiz": [
+      { "q": "「ここはピクニックに理想的な場所だ」= This is an ___ place for a picnic.", "A": "ideal", "B": "idea", "C": "idle", "D": "island", "correct": "A" },
+      { "q": "ideal の意味は？", "A": "理想的な・最適の", "B": "退屈な", "C": "危険な", "D": "普通の", "correct": "A" }
+    ]
+  },
+  {
+    "english": "identical",
+    "pron": "aɪˈdentɪkl",
+    "kana": "アイデンティカル",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "ラテン語 idem（同じ）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出語"],
+    "meaning_main": "まったく同一の / そっくりの",
+    "description": "identical（アイデンティカル）の意味・使い方・例文。細部までまったく同じ「同一の・そっくりの」という意味の形容詞を解説。一卵性双生児にも使う。",
+    "keywords": ["identical 意味", "identical 使い方", "同一の 英語", "そっくり 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】まったく同一の / そっくりの", "note": "細かいところまで完全に同じ。「identical to/with 〜」で「〜と同一の」。" }
+    ],
+    "usages": [
+      { "title": "① そっくり同じ", "desc": "比較。", "example_en": "The two bags are identical.", "example_ja": "その2つのかばんはまったく同じだ。" },
+      { "title": "② 一卵性双生児", "desc": "生物。", "example_en": "They are identical twins.", "example_ja": "彼らは一卵性双生児だ。" }
+    ],
+    "warn": ["identical は「まったく同一の」。similar（似ている）より強く「完全に同じ」を表す。「identical twins」で「一卵性双生児」。identity（正体・同一性）と同語源。"],
+    "etym_note": "ラテン語 idem（同じ）に由来する identity と同系統の語。「同じものである」を意味する。",
+    "etym_chain": [
+      { "node": "idem", "sub": "同じ", "era": "ラテン語" },
+      { "node": "identical", "sub": "同一の", "era": "17世紀英語" }
+    ],
+    "phrases": [
+      { "en": "identical twins", "ja": "一卵性双生児" },
+      { "en": "identical to", "ja": "〜と同一の" },
+      { "en": "almost identical", "ja": "ほとんど同じ" },
+      { "en": "virtually identical", "ja": "事実上同じ" },
+      { "en": "an identical copy", "ja": "同一のコピー" },
+      { "en": "nearly identical", "ja": "ほぼ同一の" }
+    ],
+    "related": [
+      { "en": "identity", "ja": "正体・同一性" },
+      { "en": "same", "ja": "同じ" },
+      { "en": "similar", "ja": "似ている" }
+    ],
+    "faq": [
+      { "q": "identical と similar の違いは？", "a": "similar は「似ている（多少の違いあり）」、identical は「まったく同一（違いがない）」を表します。" },
+      { "q": "identical twins とは？", "a": "1つの受精卵から生まれ見た目もそっくりな「一卵性双生児」のことです。" }
+    ],
+    "quiz": [
+      { "q": "「その2つのかばんはまったく同じだ」= The two bags are ___.", "A": "identical", "B": "identify", "C": "identity", "D": "incredible", "correct": "A" },
+      { "q": "identical の意味は？", "A": "まったく同一の", "B": "少し似ている", "C": "正反対の", "D": "無関係の", "correct": "A" }
+    ]
+  },
+  {
+    "english": "impermanent",
+    "pron": "ɪmˈpɜːrmənənt",
+    "kana": "インパーマネント",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "im-（否定）+ permanent（永続的な）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "頻出語"],
+    "meaning_main": "永続しない / 一時的な / 無常の",
+    "description": "impermanent（インパーマネント）の意味・使い方・例文。永続しない・一時的な、また仏教的な「無常の」という意味の形容詞を解説。permanent の反対。",
+    "keywords": ["impermanent 意味", "impermanent 使い方", "無常 英語", "一時的な 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】永続しない / 一時的な / 無常の", "note": "永遠には続かず、いつか変わり消えていく。permanent（永続的な）に否定の im- が付いた語。" }
+    ],
+    "usages": [
+      { "title": "① 永続しない", "desc": "一般。", "example_en": "All material things are impermanent.", "example_ja": "すべての物質的なものは永続しない。" },
+      { "title": "② 無常", "desc": "哲学・仏教。", "example_en": "Buddhism teaches that life is impermanent.", "example_ja": "仏教は人生が無常であると教える。" }
+    ],
+    "warn": ["impermanent は permanent（永続的な）に否定の im- が付いた語で「永続しない・一時的な・無常の」。名詞は impermanence（無常・はかなさ）。temporary と近い。"],
+    "etym_note": "否定の接頭辞 im-（〜でない）と permanent（永続的な。ラテン語 permanere「とどまり続ける」から）を合わせた語。",
+    "etym_chain": [
+      { "node": "permanere", "sub": "とどまり続ける", "era": "ラテン語" },
+      { "node": "permanent", "sub": "永続的な", "era": "15世紀英語" },
+      { "node": "impermanent", "sub": "永続しない・無常の", "era": "17世紀英語" }
+    ],
+    "phrases": [
+      { "en": "impermanent things", "ja": "永続しないもの" },
+      { "en": "the impermanent nature of", "ja": "〜のはかない性質" },
+      { "en": "life is impermanent", "ja": "人生は無常だ" },
+      { "en": "an impermanent state", "ja": "一時的な状態" },
+      { "en": "everything is impermanent", "ja": "すべては移ろう" },
+      { "en": "impermanent beauty", "ja": "はかない美しさ" }
+    ],
+    "related": [
+      { "en": "permanent", "ja": "永続的な（反意）" },
+      { "en": "impermanence", "ja": "無常・はかなさ" },
+      { "en": "temporary", "ja": "一時的な" }
+    ],
+    "faq": [
+      { "q": "impermanent の反対語は？", "a": "permanent（永続的な・常設の）です。im- は否定を表す接頭辞です。" },
+      { "q": "impermanent の名詞は？", "a": "impermanence（無常・はかなさ・永続しないこと）です。" }
+    ],
+    "quiz": [
+      { "q": "「仏教は人生が無常であると教える」= Buddhism teaches that life is ___.", "A": "impermanent", "B": "important", "C": "impatient", "D": "imperfect", "correct": "A" },
+      { "q": "impermanent の反対語は？", "A": "permanent", "B": "prominent", "C": "prevalent", "D": "pertinent", "correct": "A" }
+    ]
+  }
+]
