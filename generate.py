@@ -3,8 +3,19 @@
 """
 /word 英単語辞書ページ生成スクリプト
 
-data/*.json を読み込み、word/word/{english}.html を出力する。
-外部依存なし（標準ライブラリのみ）。
+使い方:
+  python3 generate.py
+      data/*.json をすべて読み、word/word/*.html を出力（従来どおり）
+
+  python3 generate.py --batch missing-batch1
+      data/missing-batch1.json だけを読み、word/word/*.html を出力
+
+  python3 generate.py --batch missing-batch1 --out _deploy
+      data/missing-batch1.json だけを読み、_deploy/*.html を出力
+      （デプロイ用。このバッチのページだけをサーバーへ送るときに使う）
+
+  python3 generate.py --batch missing-batch1,missing-batch2 --out _deploy
+      複数バッチはカンマ区切り
 
 --- 404防止ルール（2026/07 対応済み・変更しないこと） ---
 JSON-LD の発音をスラッシュで囲まない。
@@ -13,6 +24,7 @@ https://www.eigo-duke.com/ˈweðər/ をクロールして 404 を大量発生�
 本文の「発音：/ˈweðər/（ウェザー）」は地の文なので影響が小さく、従来どおりでよい。
 """
 
+import argparse
 import json
 import html
 import os
@@ -216,9 +228,29 @@ def build(d):
 
 # -------------------- データ読み込み & 生成 --------------------
 
-def load_words():
+def resolve_paths(batch):
+    """--batch の指定を data/*.json のパス一覧に変換する。未指定なら全件。"""
+    if not batch or not batch.strip():
+        return sorted(glob.glob("data/*.json"))
+    paths = []
+    for name in batch.split(","):
+        name = name.strip()
+        if not name:
+            continue
+        if not name.endswith(".json"):
+            name += ".json"
+        p = name if ("/" in name or os.sep in name) else os.path.join("data", name)
+        if not os.path.isfile(p):
+            raise SystemExit(f"エラー: {p} が見つかりません")
+        paths.append(p)
+    if not paths:
+        raise SystemExit("エラー: --batch の指定が空です")
+    return paths
+
+
+def load_words(paths):
     words = []
-    for path in sorted(glob.glob("data/*.json")):
+    for path in paths:
         with open(path, encoding="utf-8") as f:
             batch = json.load(f)
             if isinstance(batch, dict):
@@ -227,15 +259,32 @@ def load_words():
     return words
 
 
-if __name__ == "__main__":
-    os.makedirs(OUT, exist_ok=True)
-    words = load_words()
+def main():
+    ap = argparse.ArgumentParser(description="単語ページを生成する")
+    ap.add_argument("--batch", default="",
+                    help="data/{名前}.json を指定（拡張子省略可、カンマ区切りで複数可）。省略時は data/*.json 全件")
+    ap.add_argument("--out", default=OUT,
+                    help=f"出力先ディレクトリ（既定: {OUT}）")
+    args = ap.parse_args()
+
+    paths = resolve_paths(args.batch)
+    words = load_words(paths)
+    if not words:
+        raise SystemExit("エラー: 単語データが0件です")
+
+    os.makedirs(args.out, exist_ok=True)
     made = []
     for d in words:
-        p = os.path.join(OUT, d["english"].lower() + ".html")
+        p = os.path.join(args.out, d["english"].lower() + ".html")
         with open(p, "w", encoding="utf-8") as f:
             f.write(build(d))
         made.append(os.path.basename(p))
-    print(f"{len(made)} ページを生成しました -> {OUT}/")
+
+    print(f"読み込み: {len(paths)} ファイル -> {', '.join(os.path.basename(p) for p in paths)}")
+    print(f"{len(made)} ページを生成しました -> {args.out}/")
     for n in made:
         print("  ", n)
+
+
+if __name__ == "__main__":
+    main()
