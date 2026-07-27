@@ -1,0 +1,994 @@
+[
+  {
+    "english": "across",
+    "pron": "əˈkrɔːs",
+    "kana": "アクロス",
+    "hinshi": "前置詞 / 副詞",
+    "ld_pos": "preposition",
+    "ld_etym": "a-（〜に）+ cross（十字・横切る）",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "基本前置詞"],
+    "meaning_main": "〜を横切って／〜の向こう側に／(表面)一面に",
+    "description": "across（アクロス）の意味・使い方を解説。〜を横切って、〜の向こう側にという意味の基本前置詞・副詞です。",
+    "keywords": ["across 意味", "across 使い方", "across 前置詞", "across 例文", "横切って 英語"],
+    "meanings": [
+      { "hinshi": "【前置詞】〜を横切って、〜を渡って", "note": "端から端へ横断する" },
+      { "hinshi": "【前置詞】〜の向こう側に", "note": "across the street（通りの向こう）" },
+      { "hinshi": "【副詞】横切って、向こう側へ", "note": "単独で使う" }
+    ],
+    "usages": [
+      { "title": "① 横切って・渡って", "desc": "端から反対側へ", "example_en": "We walked across the bridge.", "example_ja": "私たちは橋を渡った。" },
+      { "title": "② 向こう側に", "desc": "across from ～（〜の向かいに）", "example_en": "The bank is across from the station.", "example_ja": "銀行は駅の向かいにある。" }
+    ],
+    "warn": ["come across ～ は「〜に偶然出会う・出くわす」。across from ～ で「〜の向かいに」。along（〜に沿って）と混同しない"],
+    "etym_note": "a-（〜に）+ cross（十字・横切る、ラテン語 crux「十字架」から）で、「十字に横切って」が原義です。",
+    "etym_chain": [
+      { "node": "crux", "sub": "十字架", "era": "ラテン語" },
+      { "node": "a-cross", "sub": "横切って", "era": "中英語" },
+      { "node": "across", "sub": "〜を横切って", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "across the street", "ja": "通りの向こうに" },
+      { "en": "across from", "ja": "〜の向かいに" },
+      { "en": "walk across", "ja": "歩いて渡る" },
+      { "en": "come across", "ja": "〜に偶然出会う" },
+      { "en": "across the country", "ja": "国中で" },
+      { "en": "run across", "ja": "〜に偶然出くわす" }
+    ],
+    "related": [
+      { "en": "cross", "ja": "横切る" },
+      { "en": "over", "ja": "〜を越えて" },
+      { "en": "through", "ja": "〜を通り抜けて" },
+      { "en": "along", "ja": "〜に沿って" }
+    ],
+    "faq": [
+      { "q": "come across の意味は？", "a": "「〜に偶然出会う・(物を)たまたま見つける」という句動詞です。I came across an old photo.（古い写真をたまたま見つけた）のように使います。" },
+      { "q": "across from とは？", "a": "「〜の向かいに・真向かいに」という意味です。across from the park（公園の向かいに）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "across の意味は？", "A": "〜を横切って・向こう側に", "B": "〜の下に", "C": "〜の後に", "D": "〜の中に", "correct": "A" },
+      { "q": "come across の意味は？", "A": "〜に偶然出会う", "B": "〜を避ける", "C": "〜を壊す", "D": "〜を作る", "correct": "A" }
+    ]
+  },
+  {
+    "english": "advertent",
+    "pron": "ədˈvɜːrtnt",
+    "kana": "アドヴァータント",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "ラテン語 advertere（注意を向ける）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "注意深い"],
+    "meaning_main": "注意を払っている／意図的な（※まれな語。多くは反対の inadvertent で使う）",
+    "description": "advertent（アドヴァータント）の意味・語源を解説。注意深い、意図的なという意味の形容詞です。反対語 inadvertent（うっかりした）の方が一般的です。",
+    "keywords": ["advertent 意味", "advertent inadvertent", "advertent 語源", "advertent 例文", "注意深い 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】注意を払っている、意図的な", "note": "気をつけている・わざとの。使用頻度は低い" }
+    ],
+    "usages": [
+      { "title": "① 注意を払った・意図的な", "desc": "気づいてわざと行う", "example_en": "It was an advertent choice, not an accident.", "example_ja": "それは事故ではなく意図的な選択だった。" },
+      { "title": "② 多くは反対語で使う", "desc": "inadvertent（うっかりした）が一般的", "example_en": "an inadvertent mistake", "example_ja": "うっかりした間違い（反対語 inadvertent）。" }
+    ],
+    "warn": ["advertent 単独はまれ。実際には反対語 inadvertent（不注意な・うっかりした）や副詞 inadvertently（うっかり）の形でよく使われる"],
+    "etym_note": "ラテン語 advertere（ad-「〜へ」+ vertere「向ける」＝注意を向ける）に由来し、advertise（広告する＝注意を向けさせる）と同語根です。",
+    "etym_chain": [
+      { "node": "vertere", "sub": "向ける", "era": "ラテン語" },
+      { "node": "advertere", "sub": "注意を向ける", "era": "ラテン語" },
+      { "node": "advertent", "sub": "注意を払った", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "advertent action", "ja": "意図的な行為" },
+      { "en": "an advertent choice", "ja": "意図的な選択" },
+      { "en": "inadvertent (反対語)", "ja": "うっかりした・不注意な" },
+      { "en": "inadvertently", "ja": "うっかりと" },
+      { "en": "advertent to", "ja": "〜に注意を払って" },
+      { "en": "an advertent decision", "ja": "意図的な決定" }
+    ],
+    "related": [
+      { "en": "inadvertent", "ja": "うっかりした（反対）" },
+      { "en": "attentive", "ja": "注意深い" },
+      { "en": "deliberate", "ja": "意図的な" },
+      { "en": "advertise", "ja": "広告する（同語源）" }
+    ],
+    "faq": [
+      { "q": "advertent はよく使う語？", "a": "いいえ、単独ではまれです。実際には反対語の inadvertent（うっかりした・不注意な）や副詞 inadvertently（うっかりと）の形でよく使われます。" },
+      { "q": "advertent の反対語は？", "a": "inadvertent（不注意な・意図しない）です。an inadvertent error（うっかりミス）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "advertent の意味は？", "A": "注意を払った・意図的な", "B": "退屈な", "C": "巨大な", "D": "冷たい", "correct": "A" },
+      { "q": "advertent の反対語は？", "A": "inadvertent", "B": "important", "C": "innocent", "D": "instant", "correct": "A" }
+    ]
+  },
+  {
+    "english": "allocate",
+    "pron": "ˈæləkeɪt",
+    "kana": "アロケイト",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "ラテン語 allocare（割り当てる）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "割り当てる"],
+    "meaning_main": "(資源・時間・お金を)割り当てる／配分する",
+    "description": "allocate（アロケイト）の意味・使い方・語源を解説。資源や時間を割り当てる、配分するという意味の動詞です。",
+    "keywords": ["allocate 意味", "allocate 使い方", "allocate 語源", "allocate 例文", "割り当てる 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】(資源・お金・時間を)割り当てる、配分する", "note": "allocate A to/for B" }
+    ],
+    "usages": [
+      { "title": "① 資源を割り当てる", "desc": "allocate A to/for B", "example_en": "The government allocated funds to education.", "example_ja": "政府は教育に資金を割り当てた。" },
+      { "title": "② 時間を配分する", "desc": "計画的に振り分ける", "example_en": "We need to allocate more time for testing.", "example_ja": "テストにもっと時間を割り当てる必要がある。" }
+    ],
+    "warn": ["allocate A to/for B の形。名詞は allocation（割り当て・配分）。ビジネスや行政でよく使う語"],
+    "etym_note": "ラテン語 allocare（ad-「〜へ」+ locare「置く」＝所定の場所に置く）に由来し、location（場所）と同語根です。",
+    "etym_chain": [
+      { "node": "locare", "sub": "置く", "era": "ラテン語" },
+      { "node": "allocare", "sub": "割り当てる", "era": "中世ラテン語" },
+      { "node": "allocate", "sub": "割り当てる・配分する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "allocate funds", "ja": "資金を割り当てる" },
+      { "en": "allocate resources", "ja": "資源を配分する" },
+      { "en": "allocate time", "ja": "時間を割り当てる" },
+      { "en": "allocate A to B", "ja": "AをBに割り当てる" },
+      { "en": "budget allocation", "ja": "予算配分" },
+      { "en": "allocate a budget", "ja": "予算を割り当てる" }
+    ],
+    "related": [
+      { "en": "allocation", "ja": "割り当て・配分" },
+      { "en": "assign", "ja": "割り当てる" },
+      { "en": "distribute", "ja": "分配する" },
+      { "en": "budget", "ja": "予算" }
+    ],
+    "faq": [
+      { "q": "allocate の名詞形は？", "a": "allocation（割り当て・配分）です。resource allocation（資源配分）のように使います。" },
+      { "q": "allocate と assign の違いは？", "a": "どちらも「割り当てる」ですが、allocate は「(資源・お金・時間を)配分する」、assign は「(仕事・役割を人に)割り当てる」場面でよく使います。" }
+    ],
+    "quiz": [
+      { "q": "allocate の意味は？", "A": "割り当てる・配分する", "B": "破壊する", "C": "隠す", "D": "延期する", "correct": "A" },
+      { "q": "allocate の名詞形は？", "A": "allocation", "B": "allocment", "C": "allocity", "D": "allocance", "correct": "A" }
+    ]
+  },
+  {
+    "english": "allowed",
+    "pron": "əˈlaʊd",
+    "kana": "アラウド",
+    "hinshi": "動詞（allow の過去・過去分詞） / 形容詞的",
+    "ld_pos": "verb",
+    "ld_etym": "allow（許す）+ -ed",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A1", "許された"],
+    "meaning_main": "allow（許す）の過去・過去分詞／許された（※同音の aloud「声に出して」と混同注意）",
+    "description": "allowed（アラウド）の意味・使い方を解説。allow（許す）の過去・過去分詞形で、「許された」を表します。同音の aloud（声に出して）との違いも解説。",
+    "keywords": ["allowed 意味", "allowed aloud 違い", "allowed 使い方", "allowed 例文", "許された 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】allow(許す・認める)の過去・過去分詞", "note": "be allowed to do で「〜することを許されている」" },
+      { "hinshi": "【形容詞的】許された、認められた", "note": "not allowed（禁止されている）" }
+    ],
+    "usages": [
+      { "title": "① 〜が許されている", "desc": "be allowed to do", "example_en": "You are allowed to leave early today.", "example_ja": "今日は早く帰ってよいことになっている。" },
+      { "title": "② 禁止されている", "desc": "not allowed", "example_en": "Smoking is not allowed here.", "example_ja": "ここでは喫煙は許されていない。" }
+    ],
+    "warn": ["allowed /əˈlaʊd/（許された）と aloud /əˈlaʊd/（声に出して）は同音だが意味が別。read aloud は「音読する」、be allowed は「許されている」。混同注意"],
+    "etym_note": "動詞 allow（許す、古フランス語 alouer から）に -ed が付いた過去・過去分詞形です。ラテン語 allocare / allaudare にさかのぼります。",
+    "etym_chain": [
+      { "node": "alouer", "sub": "許す・認める", "era": "古フランス語" },
+      { "node": "allow", "sub": "許す", "era": "中英語" },
+      { "node": "allowed", "sub": "許された", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be allowed to", "ja": "〜することを許されている" },
+      { "en": "not allowed", "ja": "許されていない・禁止" },
+      { "en": "allowed to enter", "ja": "入場を許された" },
+      { "en": "pets are not allowed", "ja": "ペットは禁止" },
+      { "en": "as allowed by law", "ja": "法で認められた通り" },
+      { "en": "allowed access", "ja": "アクセスを許された" }
+    ],
+    "related": [
+      { "en": "allow", "ja": "許す" },
+      { "en": "aloud", "ja": "声に出して（同音異義）" },
+      { "en": "permit", "ja": "許可する" },
+      { "en": "forbid", "ja": "禁じる（反対）" }
+    ],
+    "faq": [
+      { "q": "allowed と aloud の違いは？", "a": "発音は同じ /əˈlaʊd/ ですが、allowed は「許された（allow の過去形）」、aloud は「声に出して」という副詞です。read aloud（音読する）／be allowed（許されている）と使い分けます。" },
+      { "q": "be allowed to の意味は？", "a": "「〜することを許されている・してよい」という意味です。can（能力・許可）に近く、規則で許可されていることを表します。" }
+    ],
+    "quiz": [
+      { "q": "allowed の意味は？", "A": "許された(allow の過去形)", "B": "声に出して", "C": "大声で", "D": "静かに", "correct": "A" },
+      { "q": "「音読する」で使うのは？", "A": "read aloud", "B": "read allowed", "C": "read allow", "D": "read alowd", "correct": "A" }
+    ]
+  },
+  {
+    "english": "also-ran",
+    "pron": "ˈɔːlsoʊræn",
+    "kana": "オールソウラン",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "also ran（〜も走った）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "敗者"],
+    "meaning_main": "(競争・選挙の)敗者／入賞しなかった人・二流の人",
+    "description": "also-ran（オールソウラン）の意味・語源を解説。競争で入賞しなかった人、二流の人という意味の名詞です。",
+    "keywords": ["also-ran 意味", "also-ran 使い方", "also-ran 語源", "also-ran 例文", "敗者 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】(競走・選挙などの)敗者、入賞しなかった人", "note": "上位に入れなかった人" },
+      { "hinshi": "【名詞】平凡な人・もの、二流の存在", "note": "目立たない存在" }
+    ],
+    "usages": [
+      { "title": "① 入賞しなかった人", "desc": "上位に入れなかった競技者・候補", "example_en": "He was just an also-ran in the election.", "example_ja": "彼は選挙では入賞しない候補にすぎなかった。" },
+      { "title": "② 平凡な存在", "desc": "目立たない二流の存在", "example_en": "The product became an also-ran in the market.", "example_ja": "その製品は市場で二流の存在になった。" }
+    ],
+    "warn": ["競馬の成績表で上位以外を also ran（〜も走った）と記したことに由来。ハイフン付きで also-ran と書く。やや否定的な語"],
+    "etym_note": "競馬の結果表示で、入賞馬の後に「also ran（これらも走った）」と敗者を列挙したことに由来します。そこから「敗者・二流の人」の意味になりました。",
+    "etym_chain": [
+      { "node": "also ran", "sub": "〜も走った", "era": "19世紀の競馬用語" },
+      { "node": "also-ran", "sub": "入賞しなかった馬", "era": "近代英語" },
+      { "node": "also-ran", "sub": "敗者・二流の人", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "just an also-ran", "ja": "単なる敗者にすぎない" },
+      { "en": "a political also-ran", "ja": "選挙の敗者" },
+      { "en": "become an also-ran", "ja": "二流に転落する" },
+      { "en": "one of the also-rans", "ja": "敗者の一人" },
+      { "en": "an also-ran candidate", "ja": "泡沫候補" },
+      { "en": "no longer an also-ran", "ja": "もはや二流ではない" }
+    ],
+    "related": [
+      { "en": "loser", "ja": "敗者" },
+      { "en": "runner-up", "ja": "次点・準優勝者" },
+      { "en": "winner", "ja": "勝者（反対）" },
+      { "en": "underdog", "ja": "勝ち目の薄い者" }
+    ],
+    "faq": [
+      { "q": "also-ran の由来は？", "a": "競馬の成績表で、入賞馬以外を「also ran（これらも走った）」とまとめて記したことに由来します。そこから「入賞しなかった人・敗者・二流の存在」の意味になりました。" },
+      { "q": "also-ran と runner-up の違いは？", "a": "runner-up は「次点・準優勝者（2位など上位）」、also-ran は「入賞しなかった人・目立たない敗者」で、やや否定的です。" }
+    ],
+    "quiz": [
+      { "q": "also-ran の意味は？", "A": "(競争の)敗者・二流の人", "B": "優勝者", "C": "審判", "D": "観客", "correct": "A" },
+      { "q": "also-ran の由来となった分野は？", "A": "競馬", "B": "料理", "C": "音楽", "D": "医学", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ambiance",
+    "pron": "ˈæmbiəns",
+    "kana": "アンビアンス",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "フランス語 ambiance（周囲・雰囲気）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "雰囲気"],
+    "meaning_main": "(場所の)雰囲気／ムード（特に店・部屋などの）",
+    "description": "ambiance（アンビアンス）の意味・語源を解説。店や部屋などの場所が持つ雰囲気・ムードという意味の名詞です。",
+    "keywords": ["ambiance 意味", "ambiance ambience", "ambiance 語源", "ambiance 例文", "雰囲気 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】(場所の)雰囲気、ムード", "note": "特にレストラン・部屋などが醸し出す空気感。ambience とも書く" }
+    ],
+    "usages": [
+      { "title": "① 店・部屋の雰囲気", "desc": "空間が醸し出すムード", "example_en": "The restaurant has a cozy ambiance.", "example_ja": "そのレストランは居心地のよい雰囲気がある。" },
+      { "title": "② 心地よい空気感", "desc": "照明や音楽で作る雰囲気", "example_en": "Soft music added to the ambiance.", "example_ja": "静かな音楽が雰囲気を高めた。" }
+    ],
+    "warn": ["ambiance（仏語式）と ambience（英語化した形）の両つづりがあり、どちらも正しい。atmosphere と近いが、ambiance は特に「心地よさ・洗練された空気感」を指すことが多い"],
+    "etym_note": "フランス語 ambiance（周囲・環境、ambiant「取り巻く」から）に由来し、ラテン語 ambire（周りを回る）にさかのぼります。",
+    "etym_chain": [
+      { "node": "ambire", "sub": "周りを回る", "era": "ラテン語" },
+      { "node": "ambiance", "sub": "周囲・雰囲気", "era": "フランス語" },
+      { "node": "ambiance", "sub": "雰囲気・ムード", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a cozy ambiance", "ja": "居心地のよい雰囲気" },
+      { "en": "a relaxing ambiance", "ja": "くつろげる雰囲気" },
+      { "en": "the ambiance of the room", "ja": "部屋の雰囲気" },
+      { "en": "create an ambiance", "ja": "雰囲気を作る" },
+      { "en": "a romantic ambiance", "ja": "ロマンチックな雰囲気" },
+      { "en": "enhance the ambiance", "ja": "雰囲気を高める" }
+    ],
+    "related": [
+      { "en": "ambience", "ja": "雰囲気（別つづり）" },
+      { "en": "atmosphere", "ja": "雰囲気・大気" },
+      { "en": "mood", "ja": "ムード・気分" },
+      { "en": "setting", "ja": "環境・舞台" }
+    ],
+    "faq": [
+      { "q": "ambiance と ambience の違いは？", "a": "意味は同じ「雰囲気」で、ambiance はフランス語式、ambience は英語化したつづりです。どちらも正しく使えます。" },
+      { "q": "ambiance と atmosphere の違いは？", "a": "どちらも「雰囲気」ですが、ambiance は特にレストランや部屋の「心地よい空気感・ムード」を指すことが多いです。" }
+    ],
+    "quiz": [
+      { "q": "ambiance の意味は？", "A": "(場所の)雰囲気・ムード", "B": "救急車", "C": "野望", "D": "大使", "correct": "A" },
+      { "q": "ambiance の別つづりは？", "A": "ambience", "B": "ambiense", "C": "ambianse", "D": "ambeance", "correct": "A" }
+    ]
+  },
+  {
+    "english": "amplifier",
+    "pron": "ˈæmplɪfaɪər",
+    "kana": "アンプリファイアー",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "amplify（増幅する）+ -er",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "増幅器"],
+    "meaning_main": "アンプ／増幅器（音や信号を大きくする装置）",
+    "description": "amplifier（アンプリファイアー）の意味・語源を解説。音や電気信号を大きくする装置「アンプ」を表す名詞です。",
+    "keywords": ["amplifier 意味", "amplifier 使い方", "amplifier 語源", "amplifier とは", "アンプ 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】増幅器、アンプ", "note": "音声や電気信号を大きくする装置。略して amp とも言う" }
+    ],
+    "usages": [
+      { "title": "① 音を大きくする装置", "desc": "ギターやスピーカーに使う", "example_en": "He plugged his guitar into the amplifier.", "example_ja": "彼はギターをアンプにつないだ。" },
+      { "title": "② 略して amp", "desc": "口語では amp と呼ぶ", "example_en": "Turn up the amp.", "example_ja": "アンプの音量を上げて。" }
+    ],
+    "warn": ["口語では amp と略す。動詞は amplify（増幅する・拡大する）、名詞 amplification（増幅）。ample（豊富な）と同語根"],
+    "etym_note": "動詞 amplify（ラテン語 amplus「広い・豊富な」+ facere「する」＝大きくする）に「〜するもの」の -er が付いた語です。",
+    "etym_chain": [
+      { "node": "amplus", "sub": "広い・豊富な", "era": "ラテン語" },
+      { "node": "amplify", "sub": "増幅する", "era": "中英語" },
+      { "node": "amplifier", "sub": "増幅器・アンプ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a guitar amplifier", "ja": "ギターアンプ" },
+      { "en": "an audio amplifier", "ja": "音声増幅器" },
+      { "en": "plug into an amplifier", "ja": "アンプにつなぐ" },
+      { "en": "a power amplifier", "ja": "パワーアンプ" },
+      { "en": "turn up the amplifier", "ja": "アンプの音量を上げる" },
+      { "en": "a signal amplifier", "ja": "信号増幅器" }
+    ],
+    "related": [
+      { "en": "amplify", "ja": "増幅する" },
+      { "en": "speaker", "ja": "スピーカー" },
+      { "en": "sound", "ja": "音" },
+      { "en": "volume", "ja": "音量" }
+    ],
+    "faq": [
+      { "q": "amplifier の略は？", "a": "amp（アンプ）です。口語では guitar amp（ギターアンプ）のように短く言います。" },
+      { "q": "amplifier の動詞形は？", "a": "amplify（増幅する・(音・信号・程度を)大きくする）です。名詞は amplification（増幅）です。" }
+    ],
+    "quiz": [
+      { "q": "amplifier とは？", "A": "音や信号を大きくする装置", "B": "冷却装置", "C": "計算機", "D": "浄水器", "correct": "A" },
+      { "q": "amplifier の動詞形は？", "A": "amplify", "B": "apply", "C": "amaze", "D": "annoy", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ancestry",
+    "pron": "ˈænsestri",
+    "kana": "アンセストリー",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 antecessor（先に行く者）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "祖先"],
+    "meaning_main": "祖先／家系／血統・出自",
+    "description": "ancestry（アンセストリー）の意味・使い方・語源を解説。祖先、家系、血統という意味の名詞です。",
+    "keywords": ["ancestry 意味", "ancestry 使い方", "ancestry 語源", "ancestry 例文", "祖先 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】(集合的に)祖先、先祖", "note": "代々の先祖全体" },
+      { "hinshi": "【名詞】家系、血統、出自", "note": "of ～ ancestry（〜系の）" }
+    ],
+    "usages": [
+      { "title": "① 祖先・家系", "desc": "代々の先祖・血筋", "example_en": "She traced her ancestry back 200 years.", "example_ja": "彼女は自分の家系を200年前までたどった。" },
+      { "title": "② 〜系の出自", "desc": "of ～ ancestry", "example_en": "He is of Irish ancestry.", "example_ja": "彼はアイルランド系の血を引いている。" }
+    ],
+    "warn": ["個々の先祖は ancestor、集合的な「祖先・家系」は ancestry。不可算的に使うことが多い。反対に「子孫」は descendants"],
+    "etym_note": "ラテン語 antecessor（ante-「前に」+ cedere「行く」＝先に行く者）に由来し、ancestor（祖先）と同語源です。",
+    "etym_chain": [
+      { "node": "antecessor", "sub": "先に行く者", "era": "ラテン語" },
+      { "node": "ancestre", "sub": "祖先", "era": "古フランス語" },
+      { "node": "ancestry", "sub": "祖先・家系", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "trace one's ancestry", "ja": "家系をたどる" },
+      { "en": "of Irish ancestry", "ja": "アイルランド系の" },
+      { "en": "mixed ancestry", "ja": "混血の家系" },
+      { "en": "common ancestry", "ja": "共通の祖先" },
+      { "en": "noble ancestry", "ja": "高貴な家系" },
+      { "en": "one's ancestry", "ja": "〜の祖先・出自" }
+    ],
+    "related": [
+      { "en": "ancestor", "ja": "祖先(個々)" },
+      { "en": "descendant", "ja": "子孫（反対）" },
+      { "en": "heritage", "ja": "遺産・伝統" },
+      { "en": "lineage", "ja": "血統・家系" }
+    ],
+    "faq": [
+      { "q": "ancestry と ancestor の違いは？", "a": "ancestor は「(個々の)祖先」、ancestry は「(集合的な)祖先・家系・血統」を指します。my ancestors（私の先祖たち）／my ancestry（私の家系・出自）のように使います。" },
+      { "q": "of ～ ancestry とは？", "a": "「〜系の・〜の血を引く」という意味です。of Japanese ancestry（日系の）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "ancestry の意味は？", "A": "祖先・家系", "B": "子孫", "C": "友人", "D": "隣人", "correct": "A" },
+      { "q": "ancestry の反対に近い語は？", "A": "descendant（子孫）", "B": "ancestor（祖先）", "C": "heritage（遺産）", "D": "lineage（血統）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "anomaly",
+    "pron": "əˈnɑːməli",
+    "kana": "アノマリー",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ギリシャ語 anomalos（不規則な）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "異常"],
+    "meaning_main": "異常／変則／例外的なもの（通常と違うこと）",
+    "description": "anomaly（アノマリー）の意味・使い方・語源を解説。異常、変則、例外的なものという意味の名詞です。",
+    "keywords": ["anomaly 意味", "anomaly 使い方", "anomaly 語源", "anomaly 例文", "異常 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】異常、変則、例外", "note": "通常のパターンや規則から外れたもの" }
+    ],
+    "usages": [
+      { "title": "① 例外的な異常", "desc": "通常と違うもの", "example_en": "The data showed a strange anomaly.", "example_ja": "そのデータは奇妙な異常を示した。" },
+      { "title": "② 統計・自然の変則", "desc": "規則から外れた現象", "example_en": "The temperature anomaly puzzled scientists.", "example_ja": "その気温の異常は科学者を困惑させた。" }
+    ],
+    "warn": ["形容詞は anomalous（異常な・変則的な）。normal（正常な）や norm（標準）と対比される。科学・統計でよく使う"],
+    "etym_note": "ギリシャ語 anomalos（an-「否定」+ homalos「均一な」＝均一でない）に由来します。「規則的でないこと」が原義です。",
+    "etym_chain": [
+      { "node": "homalos", "sub": "均一な", "era": "ギリシャ語" },
+      { "node": "anomalos", "sub": "不規則な", "era": "ギリシャ語" },
+      { "node": "anomaly", "sub": "異常・変則", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a statistical anomaly", "ja": "統計上の異常" },
+      { "en": "an anomaly in the data", "ja": "データの異常値" },
+      { "en": "a rare anomaly", "ja": "まれな例外" },
+      { "en": "detect an anomaly", "ja": "異常を検出する" },
+      { "en": "a temperature anomaly", "ja": "気温の異常" },
+      { "en": "explain the anomaly", "ja": "異常を説明する" }
+    ],
+    "related": [
+      { "en": "anomalous", "ja": "異常な・変則的な" },
+      { "en": "abnormality", "ja": "異常" },
+      { "en": "irregularity", "ja": "不規則" },
+      { "en": "exception", "ja": "例外" }
+    ],
+    "faq": [
+      { "q": "anomaly の形容詞形は？", "a": "anomalous（異常な・変則的な）です。an anomalous result（異常な結果）のように使います。" },
+      { "q": "anomaly はどんな分野で使う？", "a": "科学・統計・データ分析でよく使い、「通常のパターンから外れた異常値・現象」を指します。" }
+    ],
+    "quiz": [
+      { "q": "anomaly の意味は？", "A": "異常・変則・例外", "B": "標準", "C": "多数", "D": "平均", "correct": "A" },
+      { "q": "anomaly の形容詞形は？", "A": "anomalous", "B": "anomalic", "C": "anomalive", "D": "anomalful", "correct": "A" }
+    ]
+  },
+  {
+    "english": "applying",
+    "pron": "əˈplaɪɪŋ",
+    "kana": "アプライイング",
+    "hinshi": "動詞（apply の -ing 形）",
+    "ld_pos": "verb",
+    "ld_etym": "apply（適用する・応募する）+ -ing",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "apply の-ing形"],
+    "meaning_main": "apply（応募する・適用する・塗る）の -ing 形（現在分詞・動名詞）",
+    "description": "applying（アプライイング）の意味・使い方を解説。動詞 apply（応募する・適用する・塗る）の -ing 形（現在分詞・動名詞）です。",
+    "keywords": ["applying 意味", "apply applying つづり", "applying 使い方", "applying 例文", "応募する 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】apply(応募する)の-ing形", "note": "apply for a job で「仕事に応募する」" },
+      { "hinshi": "【動詞】apply(適用する・塗る)の-ing形", "note": "規則を当てはめる／クリームを塗る" }
+    ],
+    "usages": [
+      { "title": "① 応募している", "desc": "apply for ～（〜に応募する）の-ing形", "example_en": "I am applying for a new job.", "example_ja": "私は新しい仕事に応募している。" },
+      { "title": "② 適用する・塗る", "desc": "規則の適用やクリームを塗る", "example_en": "Applying sunscreen protects your skin.", "example_ja": "日焼け止めを塗ることは肌を守る。" }
+    ],
+    "warn": ["つづりは apply → applying。語尾の y はそのまま（y の前が子音でも -ing の前では y を保つ）。三人称は applies、過去は applied と y→i になる点に注意"],
+    "etym_note": "動詞 apply（ラテン語 applicare「結びつける」から）に -ing が付いた現在分詞・動名詞です。",
+    "etym_chain": [
+      { "node": "applicare", "sub": "結びつける・当てる", "era": "ラテン語" },
+      { "node": "apply", "sub": "適用する・応募する", "era": "中英語" },
+      { "node": "applying", "sub": "apply の-ing形", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "applying for a job", "ja": "仕事に応募する" },
+      { "en": "applying to a university", "ja": "大学に出願する" },
+      { "en": "applying the rules", "ja": "規則を適用する" },
+      { "en": "applying pressure", "ja": "圧力をかける" },
+      { "en": "applying cream", "ja": "クリームを塗る" },
+      { "en": "worth applying", "ja": "応募する価値がある" }
+    ],
+    "related": [
+      { "en": "apply", "ja": "応募する・適用する" },
+      { "en": "application", "ja": "応募・申請・適用" },
+      { "en": "applicant", "ja": "応募者" },
+      { "en": "applied", "ja": "適用された・応用の" }
+    ],
+    "faq": [
+      { "q": "apply の -ing 形のつづりは？", "a": "applying です。y はそのまま残します。ただし三人称単数は applies、過去形は applied のように y が i に変わる点に注意しましょう。" },
+      { "q": "apply for と apply to の違いは？", "a": "apply for ～ は「(仕事・許可など)を求めて応募する」、apply to ～ は「(学校・機関)に出願する／(規則が)〜に当てはまる」です。" }
+    ],
+    "quiz": [
+      { "q": "applying は何の-ing形？", "A": "apply（応募する・適用する）", "B": "appear（現れる）", "C": "apologize（謝る）", "D": "appeal（訴える）", "correct": "A" },
+      { "q": "「仕事に応募する」の正しい形は？", "A": "applying for a job", "B": "applying of a job", "C": "applying at a job", "D": "applying with a job", "correct": "A" }
+    ]
+  },
+  {
+    "english": "arrived",
+    "pron": "əˈraɪvd",
+    "kana": "アライブド",
+    "hinshi": "動詞（arrive の過去・過去分詞）",
+    "ld_pos": "verb",
+    "ld_etym": "arrive（到着する）+ -ed",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A1", "arrive の過去形"],
+    "meaning_main": "arrive（到着する）の過去・過去分詞形（到着した）",
+    "description": "arrived（アライブド）の意味・使い方を解説。動詞 arrive（到着する）の過去・過去分詞形で、「到着した」を表します。",
+    "keywords": ["arrived 意味", "arrive arrived", "arrived 使い方", "arrived 例文", "到着した 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】arrive(到着する)の過去・過去分詞", "note": "arrive at/in ～ で「〜に到着する」" }
+    ],
+    "usages": [
+      { "title": "① 到着した", "desc": "arrive at（狭い場所）/ in（広い場所）", "example_en": "We arrived at the station on time.", "example_ja": "私たちは時間通りに駅に着いた。" },
+      { "title": "② 広い場所への到着", "desc": "arrive in + 都市・国", "example_en": "She arrived in Tokyo yesterday.", "example_ja": "彼女は昨日、東京に到着した。" }
+    ],
+    "warn": ["arrive の後の前置詞は at（狭い地点）／in（都市・国など広い場所）。home には arrive home（前置詞不要）。reach は他動詞なので前置詞不要（reach the station）"],
+    "etym_note": "動詞 arrive（ラテン語 ad-「〜へ」+ ripa「岸」＝岸に着く）に -ed が付いた過去・過去分詞形です。元は「岸に到着する」意味でした。",
+    "etym_chain": [
+      { "node": "ad + ripa", "sub": "岸へ着く", "era": "ラテン語" },
+      { "node": "arrive", "sub": "到着する", "era": "中英語" },
+      { "node": "arrived", "sub": "到着した", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "arrived at the station", "ja": "駅に到着した" },
+      { "en": "arrived in Japan", "ja": "日本に到着した" },
+      { "en": "arrived home", "ja": "帰宅した" },
+      { "en": "arrived late", "ja": "遅れて到着した" },
+      { "en": "arrived on time", "ja": "時間通りに着いた" },
+      { "en": "the day arrived", "ja": "その日が来た" }
+    ],
+    "related": [
+      { "en": "arrive", "ja": "到着する" },
+      { "en": "arrival", "ja": "到着" },
+      { "en": "reach", "ja": "到達する" },
+      { "en": "depart", "ja": "出発する（反対）" }
+    ],
+    "faq": [
+      { "q": "arrive の後の前置詞は at？in？", "a": "狭い地点（駅・空港など）には arrive at、広い場所（都市・国）には arrive in を使います。home には前置詞なしで arrive home とします。" },
+      { "q": "arrive と reach の違いは？", "a": "arrive は自動詞なので前置詞が必要（arrive at the station）、reach は他動詞なので前置詞なし（reach the station）で「到達する」を表します。" }
+    ],
+    "quiz": [
+      { "q": "arrived は何の過去形？", "A": "arrive（到着する）", "B": "arrange（並べる）", "C": "argue（議論する）", "D": "arrest（逮捕する）", "correct": "A" },
+      { "q": "「東京に到着した」の正しい形は？", "A": "arrived in Tokyo", "B": "arrived at Tokyo", "C": "arrived to Tokyo", "D": "arrived on Tokyo", "correct": "A" }
+    ]
+  },
+  {
+    "english": "aruge",
+    "pron": "ˈɑːrɡjuː",
+    "kana": "アーギュー",
+    "hinshi": "つづり間違い（正しくは argue）",
+    "ld_pos": "misspelling",
+    "ld_etym": "argue のつづり間違い",
+    "ld_level": "つづり注意",
+    "badges": ["つづり間違い", "正しくは argue", "英単語ではありません", "スペル注意"],
+    "meaning_main": "※これはつづり間違いです。正しくは argue（議論する・主張する）",
+    "description": "aruge は argue のつづり間違いです。正しくは argue（議論する・言い争う・主張する）と書きます。u と e の順番に注意。",
+    "keywords": ["aruge 正しい", "aruge argue", "aruge つづり", "argue 意味", "議論する 英語"],
+    "meanings": [
+      { "hinshi": "【正しくは argue】議論する、言い争う、主張する", "note": "aruge は u と e の順が誤り。正しくは ar-gue の順で argue" }
+    ],
+    "usages": [
+      { "title": "① 正しいつづりは argue", "desc": "gu-e の順（ar-gue）", "example_en": "They often argue about money.", "example_ja": "彼らはよくお金のことで言い争う。（正: argue）" },
+      { "title": "② 主張する", "desc": "argue that ～（〜だと主張する）", "example_en": "She argued that the plan was too risky.", "example_ja": "彼女はその計画は危険すぎると主張した。（正: argue）" }
+    ],
+    "warn": ["aruge は誤り。正しくは argue（-gue で終わる）。名詞は argument（議論・口論、つづりは e が消えて argu-ment）。league や vague と同じ -gue の並び"],
+    "etym_note": "正しい語 argue は、ラテン語 arguere（明らかにする・主張する）に由来します。-gue で終わる語（league, vague, plague）と同じつづりの並びと覚えましょう。",
+    "etym_chain": [
+      { "node": "arguere", "sub": "明らかにする・主張する", "era": "ラテン語" },
+      { "node": "argue", "sub": "議論する（正しいつづり）", "era": "中英語" },
+      { "node": "aruge", "sub": "誤ったつづり", "era": "つづり間違い" }
+    ],
+    "phrases": [
+      { "en": "argue (正)", "ja": "議論する・主張する（正しいつづり）" },
+      { "en": "aruge (誤)", "ja": "つづり間違い" },
+      { "en": "argue about", "ja": "〜について言い争う" },
+      { "en": "argue that", "ja": "〜だと主張する" },
+      { "en": "argue with", "ja": "〜と口論する" },
+      { "en": "argument (名詞)", "ja": "議論・口論" }
+    ],
+    "related": [
+      { "en": "argue", "ja": "議論する（正しい語）" },
+      { "en": "argument", "ja": "議論・口論" },
+      { "en": "debate", "ja": "討論する" },
+      { "en": "dispute", "ja": "論争する" }
+    ],
+    "faq": [
+      { "q": "aruge は正しい英単語ですか？", "a": "いいえ、つづり間違いです。正しくは argue（議論する・言い争う・主張する）で、u と e の順が逆になっています（ar-gue が正しい）。" },
+      { "q": "argue のつづりのコツは？", "a": "-gue で終わる語です。league（リーグ）や vague（あいまいな）と同じ並びと覚えましょう。名詞 argument では e が消える点にも注意です。" }
+    ],
+    "quiz": [
+      { "q": "正しいつづりはどれ？", "A": "argue", "B": "aruge", "C": "argeu", "D": "aргue", "correct": "A" },
+      { "q": "argue の意味は？", "A": "議論する・主張する", "B": "到着する", "C": "適用する", "D": "配達する", "correct": "A" }
+    ]
+  },
+  {
+    "english": "athletics",
+    "pron": "æθˈletɪks",
+    "kana": "アスレティックス",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ギリシャ語 athletes（競技者）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "陸上競技"],
+    "meaning_main": "(英)陸上競技／(米)運動競技・スポーツ全般",
+    "description": "athletics（アスレティックス）の意味・語源を解説。陸上競技、運動競技全般という意味の名詞です。",
+    "keywords": ["athletics 意味", "athletics 使い方", "athletics 語源", "athletics 例文", "陸上競技 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】(英)陸上競技", "note": "走・跳・投などの競技。track and field" },
+      { "hinshi": "【名詞】(米)運動競技、スポーツ全般", "note": "学校の体育・スポーツ活動" }
+    ],
+    "usages": [
+      { "title": "① 陸上競技（英）", "desc": "走・跳・投の競技", "example_en": "She competes in athletics.", "example_ja": "彼女は陸上競技に出場している。" },
+      { "title": "② スポーツ全般（米）", "desc": "学校の運動競技", "example_en": "The school is known for its athletics program.", "example_ja": "その学校は運動部の活動で知られている。" }
+    ],
+    "warn": ["イギリスでは「陸上競技」、アメリカでは「運動競技・スポーツ全般」を指すことが多い。形は複数形だが単数扱い（Athletics is ～）。形容詞は athletic（運動の・たくましい）"],
+    "etym_note": "ギリシャ語 athletes（競技者、athlon「賞・競技」から）に由来し、athlete（運動選手）と同語根です。",
+    "etym_chain": [
+      { "node": "athlon", "sub": "賞・競技", "era": "ギリシャ語" },
+      { "node": "athletes", "sub": "競技者", "era": "ギリシャ語" },
+      { "node": "athletics", "sub": "運動競技・陸上競技", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "track and field athletics", "ja": "陸上競技" },
+      { "en": "compete in athletics", "ja": "陸上競技に出る" },
+      { "en": "college athletics", "ja": "大学スポーツ" },
+      { "en": "an athletics club", "ja": "陸上部" },
+      { "en": "an athletics meet", "ja": "陸上競技大会" },
+      { "en": "professional athletics", "ja": "プロスポーツ" }
+    ],
+    "related": [
+      { "en": "athlete", "ja": "運動選手" },
+      { "en": "athletic", "ja": "運動の・たくましい" },
+      { "en": "sport", "ja": "スポーツ" },
+      { "en": "track and field", "ja": "陸上競技" }
+    ],
+    "faq": [
+      { "q": "athletics は単数？複数扱い？", "a": "形は -s で終わりますが、「競技・分野」を指すときは単数扱いです（Athletics is a popular sport.）。" },
+      { "q": "athletics はイギリスとアメリカで意味が違う？", "a": "はい。イギリスでは主に「陸上競技」、アメリカでは「運動競技・スポーツ全般」を指すことが多いです。" }
+    ],
+    "quiz": [
+      { "q": "athletics（英）の意味は？", "A": "陸上競技", "B": "水泳", "C": "料理", "D": "音楽", "correct": "A" },
+      { "q": "athletics の形容詞形は？", "A": "athletic", "B": "athletive", "C": "athletful", "D": "athletous", "correct": "A" }
+    ]
+  },
+  {
+    "english": "auther",
+    "pron": "ˈɔːθər",
+    "kana": "オーサー",
+    "hinshi": "つづり間違い（正しくは author）",
+    "ld_pos": "misspelling",
+    "ld_etym": "author のつづり間違い",
+    "ld_level": "つづり注意",
+    "badges": ["つづり間違い", "正しくは author", "英単語ではありません", "スペル注意"],
+    "meaning_main": "※これはつづり間違いです。正しくは author（著者・作家）",
+    "description": "auther は author のつづり間違いです。正しくは author（著者・作家・(を)著す）と書きます。真ん中は -tho- です。",
+    "keywords": ["auther 正しい", "auther author", "auther つづり", "author 意味", "著者 英語"],
+    "meanings": [
+      { "hinshi": "【正しくは author】著者、作家／(本などを)著す", "note": "auther は誤り。正しくは au-thor（-thor で終わる）" }
+    ],
+    "usages": [
+      { "title": "① 正しいつづりは author", "desc": "-thor で終わる（au-thor）", "example_en": "She is the author of many novels.", "example_ja": "彼女は多くの小説の著者だ。（正: author）" },
+      { "title": "② 著す（動詞）", "desc": "本や記事を書く", "example_en": "He authored several textbooks.", "example_ja": "彼は数冊の教科書を著した。（正: author）" }
+    ],
+    "warn": ["auther は誤り。正しくは author（-thor で終わる、-ther ではない）。同じ th を含む mother, father の -ther とは違い、author は -thor。名詞・動詞の両方で使う"],
+    "etym_note": "正しい語 author は、ラテン語 auctor（生み出す人、augere「増やす」から）に由来します。authority（権威）や authorize（権限を与える）と同語根です。",
+    "etym_chain": [
+      { "node": "auctor", "sub": "生み出す人", "era": "ラテン語" },
+      { "node": "author", "sub": "著者（正しいつづり）", "era": "中英語" },
+      { "node": "auther", "sub": "誤ったつづり", "era": "つづり間違い" }
+    ],
+    "phrases": [
+      { "en": "author (正)", "ja": "著者・作家（正しいつづり）" },
+      { "en": "auther (誤)", "ja": "つづり間違い" },
+      { "en": "the author of", "ja": "〜の著者" },
+      { "en": "a best-selling author", "ja": "ベストセラー作家" },
+      { "en": "author a book", "ja": "本を著す" },
+      { "en": "authorship", "ja": "著作・原作者であること" }
+    ],
+    "related": [
+      { "en": "author", "ja": "著者（正しい語）" },
+      { "en": "writer", "ja": "作家・書き手" },
+      { "en": "authority", "ja": "権威（同語源）" },
+      { "en": "novel", "ja": "小説" }
+    ],
+    "faq": [
+      { "q": "auther は正しい英単語ですか？", "a": "いいえ、つづり間違いです。正しくは author（-thor で終わる）で、著者・作家を意味します。" },
+      { "q": "author のつづりのコツは？", "a": "au-thor と、-thor で終わります。mother・father の -ther とは違うので注意しましょう。authority（権威）と同じ author- で始まると覚えると確実です。" }
+    ],
+    "quiz": [
+      { "q": "正しいつづりはどれ？", "A": "author", "B": "auther", "C": "arthor", "D": "authur", "correct": "A" },
+      { "q": "author の意味は？", "A": "著者・作家", "B": "読者", "C": "編集者", "D": "出版社", "correct": "A" }
+    ]
+  },
+  {
+    "english": "autoimmnity",
+    "pron": "ˌɔːtoʊɪˈmjuːnəti",
+    "kana": "オートイミュニティ",
+    "hinshi": "つづり間違い（正しくは autoimmunity）",
+    "ld_pos": "misspelling",
+    "ld_etym": "autoimmunity のつづり間違い",
+    "ld_level": "つづり注意",
+    "badges": ["つづり間違い", "正しくは autoimmunity", "英単語ではありません", "スペル注意"],
+    "meaning_main": "※これはつづり間違いです。正しくは autoimmunity（自己免疫）",
+    "description": "autoimmnity は autoimmunity のつづり間違いです。正しくは autoimmunity（自己免疫）と書きます。immun-i-ty と u が必要です。",
+    "keywords": ["autoimmnity 正しい", "autoimmunity 意味", "autoimmnity つづり", "自己免疫 英語", "autoimmune"],
+    "meanings": [
+      { "hinshi": "【正しくは autoimmunity】自己免疫", "note": "autoimmnity は u が抜けた誤り。正しくは immun-i-ty で autoimmunity。免疫システム が自分の体を攻撃してしまう状態" }
+    ],
+    "usages": [
+      { "title": "① 正しいつづりは autoimmunity", "desc": "immun-i-ty（u が必要）", "example_en": "Autoimmunity occurs when the body attacks itself.", "example_ja": "自己免疫は体が自分自身を攻撃するときに起こる。（正: autoimmunity）" },
+      { "title": "② 自己免疫疾患", "desc": "autoimmune disease（自己免疫疾患）", "example_en": "Type 1 diabetes is an autoimmune disease.", "example_ja": "1型糖尿病は自己免疫疾患だ。（正: autoimmune）" }
+    ],
+    "warn": ["autoimmnity は誤り（u が抜けている）。正しくは autoimmunity で、auto-（自己）+ immunity（免疫）。形容詞は autoimmune（自己免疫の）"],
+    "etym_note": "正しい語 autoimmunity は、ギリシャ語 auto-（自己）+ ラテン語 immunis（免除された→免疫の）から成り、「自分自身に対する免疫」を意味します。immunity（免疫）と同語根です。",
+    "etym_chain": [
+      { "node": "immunis", "sub": "免除された", "era": "ラテン語" },
+      { "node": "immunity", "sub": "免疫", "era": "近代英語" },
+      { "node": "autoimmunity", "sub": "自己免疫（正しいつづり）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "autoimmunity (正)", "ja": "自己免疫（正しいつづり）" },
+      { "en": "autoimmnity (誤)", "ja": "つづり間違い" },
+      { "en": "an autoimmune disease", "ja": "自己免疫疾患" },
+      { "en": "免疫システム", "ja": "免疫システム" },
+      { "en": "cause autoimmunity", "ja": "自己免疫を引き起こす" },
+      { "en": "immunity", "ja": "免疫" }
+    ],
+    "related": [
+      { "en": "autoimmunity", "ja": "自己免疫（正しい語）" },
+      { "en": "immunity", "ja": "免疫" },
+      { "en": "autoimmune", "ja": "自己免疫の" },
+      { "en": "antibody", "ja": "抗体" }
+    ],
+    "faq": [
+      { "q": "autoimmnity は正しいつづり？", "a": "いいえ、u が抜けた間違いです。正しくは autoimmunity（自己免疫）で、immun-i-ty と綴ります。" },
+      { "q": "autoimmunity（自己免疫）とは？", "a": "本来は外敵を攻撃する免疫システム が、誤って自分自身の体（細胞や組織）を攻撃してしまう状態のことです。関節リウマチや1型糖尿病などがその例です。" }
+    ],
+    "quiz": [
+      { "q": "正しいつづりはどれ？", "A": "autoimmunity", "B": "autoimmnity", "C": "autoimunity", "D": "autoimmunty", "correct": "A" },
+      { "q": "autoimmunity（自己免疫）とは？", "A": "免疫が自分の体を攻撃する状態", "B": "免疫が全くない状態", "C": "外傷", "D": "栄養不足", "correct": "A" }
+    ]
+  },
+  {
+    "english": "awsome",
+    "pron": "ˈɔːsəm",
+    "kana": "オーサム",
+    "hinshi": "つづり間違い（正しくは awesome）",
+    "ld_pos": "misspelling",
+    "ld_etym": "awesome のつづり間違い",
+    "ld_level": "つづり注意",
+    "badges": ["つづり間違い", "正しくは awesome", "英単語ではありません", "スペル注意"],
+    "meaning_main": "※これはつづり間違いです。正しくは awesome（すごい・素晴らしい）",
+    "description": "awsome は awesome のつづり間違いです。正しくは awesome（すごい・素晴らしい）と書きます。awe（畏敬）+ some で、e が必要です。",
+    "keywords": ["awsome 正しい", "awsome awesome", "awsome つづり", "awesome 意味", "すごい 英語"],
+    "meanings": [
+      { "hinshi": "【正しくは awesome】すごい、素晴らしい、見事な", "note": "awsome は e が抜けた誤り。正しくは awe（畏敬）+ some で awesome" }
+    ],
+    "usages": [
+      { "title": "① 正しいつづりは awesome", "desc": "awe + some（e が必要）", "example_en": "The view from the top was awesome.", "example_ja": "頂上からの眺めは素晴らしかった。（正: awesome）" },
+      { "title": "② 口語で「最高！」", "desc": "強い称賛の口語", "example_en": "That's awesome!", "example_ja": "それは最高だね！（正: awesome）" }
+    ],
+    "warn": ["awsome は誤り（e が抜けている）。正しくは awesome で、awe（畏敬・畏怖）+ some。元は「畏敬の念を起こさせる」だが、口語では「すごい・最高」の意味で広く使う"],
+    "etym_note": "正しい語 awesome は、awe（畏敬・畏怖、古ノルド語 agi「恐怖」から）+ -some（〜を起こさせる）で、「畏敬の念を起こさせる」が原義です。",
+    "etym_chain": [
+      { "node": "agi", "sub": "恐怖・畏敬", "era": "古ノルド語" },
+      { "node": "awe + some", "sub": "畏敬を起こさせる", "era": "16世紀英語" },
+      { "node": "awesome", "sub": "すごい・素晴らしい（正しいつづり）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "awesome (正)", "ja": "すごい・素晴らしい（正しいつづり）" },
+      { "en": "awsome (誤)", "ja": "つづり間違い" },
+      { "en": "That's awesome!", "ja": "それは最高！" },
+      { "en": "an awesome view", "ja": "素晴らしい眺め" },
+      { "en": "look awesome", "ja": "すごく素敵に見える" },
+      { "en": "awe (名詞)", "ja": "畏敬・畏怖" }
+    ],
+    "related": [
+      { "en": "awesome", "ja": "すごい（正しい語）" },
+      { "en": "awe", "ja": "畏敬・畏怖" },
+      { "en": "amazing", "ja": "驚くべき・素晴らしい" },
+      { "en": "awful", "ja": "ひどい（awe+ful だが意味は逆）" }
+    ],
+    "faq": [
+      { "q": "awsome は正しいつづり？", "a": "いいえ、e が抜けた間違いです。正しくは awesome で、awe（畏敬）+ some と綴ります。" },
+      { "q": "awesome と awful の関係は？", "a": "どちらも awe（畏敬・畏怖）から来ていますが、awesome は「すごい・素晴らしい」、awful は「ひどい・恐ろしい」と意味が逆になりました。" }
+    ],
+    "quiz": [
+      { "q": "正しいつづりはどれ？", "A": "awesome", "B": "awsome", "C": "awesom", "D": "ausome", "correct": "A" },
+      { "q": "awesome の意味は？", "A": "すごい・素晴らしい", "B": "退屈な", "C": "危険な", "D": "小さな", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ballad",
+    "pron": "ˈbæləd",
+    "kana": "バラッド",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "古フランス語 balade（踊りの歌）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "バラード"],
+    "meaning_main": "バラード／物語詩／叙情的な歌",
+    "description": "ballad（バラッド）の意味・使い方・語源を解説。物語詩、叙情的な歌「バラード」という意味の名詞です。",
+    "keywords": ["ballad 意味", "ballad 使い方", "ballad 語源", "ballad 例文", "バラード 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】バラード、叙情的な歌", "note": "ゆったりした感傷的な歌（特にラブソング）" },
+      { "hinshi": "【名詞】物語詩、譚詩(たんし)", "note": "物語を歌う形式の詩" }
+    ],
+    "usages": [
+      { "title": "① 叙情的な歌", "desc": "ゆったりしたラブソングなど", "example_en": "The band played a slow ballad.", "example_ja": "そのバンドはゆったりしたバラードを演奏した。" },
+      { "title": "② 物語詩", "desc": "物語を語る詩", "example_en": "This old ballad tells a tragic story.", "example_ja": "この古いバラードは悲劇的な物語を語る。" }
+    ],
+    "warn": ["綴りが似た ballet（バレエ）、ballot（投票）と混同注意。ballad は「歌・詩」。語源は「踊りの歌」"],
+    "etym_note": "古フランス語 balade（踊りながら歌う歌、baller「踊る」から）に由来します。ballet（バレエ）や ball（舞踏会）と同語源です。",
+    "etym_chain": [
+      { "node": "baller", "sub": "踊る", "era": "古フランス語" },
+      { "node": "balade", "sub": "踊りの歌", "era": "古フランス語" },
+      { "node": "ballad", "sub": "バラード・物語詩", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a love ballad", "ja": "ラブバラード" },
+      { "en": "a slow ballad", "ja": "スローバラード" },
+      { "en": "sing a ballad", "ja": "バラードを歌う" },
+      { "en": "a folk ballad", "ja": "民謡・フォークバラード" },
+      { "en": "a power ballad", "ja": "パワーバラード" },
+      { "en": "an old ballad", "ja": "古い物語詩" }
+    ],
+    "related": [
+      { "en": "song", "ja": "歌" },
+      { "en": "melody", "ja": "メロディー" },
+      { "en": "ballet", "ja": "バレエ（別語）" },
+      { "en": "poem", "ja": "詩" }
+    ],
+    "faq": [
+      { "q": "ballad と ballet の違いは？", "a": "ballad（バラッド）は「叙情的な歌・物語詩」、ballet（バレエ）は「舞踊」です。つづりと発音が違うので混同しないよう注意しましょう。" },
+      { "q": "power ballad とは？", "a": "ロックバンドなどが演奏する、感情豊かで盛り上がりのあるバラードのことです。" }
+    ],
+    "quiz": [
+      { "q": "ballad の意味は？", "A": "叙情的な歌・物語詩", "B": "舞踊", "C": "投票", "D": "風船", "correct": "A" },
+      { "q": "ballad と混同しやすい「舞踊」を表す語は？", "A": "ballet", "B": "ballot", "C": "balloon", "D": "ball", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ballet",
+    "pron": "bæˈleɪ",
+    "kana": "バレイ",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "フランス語 ballet（小さな踊り）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "バレエ"],
+    "meaning_main": "バレエ（優雅な舞踊芸術）／バレエ団・バレエ作品",
+    "description": "ballet（バレイ）の意味・使い方・語源を解説。優雅な舞踊芸術「バレエ」という意味の名詞です。",
+    "keywords": ["ballet 意味", "ballet 使い方", "ballet 発音", "ballet 例文", "バレエ 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】バレエ", "note": "つま先立ちなどの技法を用いる優雅な舞踊芸術" },
+      { "hinshi": "【名詞】バレエ団、バレエ作品", "note": "the Royal Ballet（英国ロイヤルバレエ団）など" }
+    ],
+    "usages": [
+      { "title": "① 舞踊芸術のバレエ", "desc": "優雅な踊り", "example_en": "She has studied ballet since she was five.", "example_ja": "彼女は5歳からバレエを習っている。" },
+      { "title": "② バレエ作品・公演", "desc": "作品や団体を指す", "example_en": "We watched a ballet at the theater.", "example_ja": "私たちは劇場でバレエを鑑賞した。" }
+    ],
+    "warn": ["フランス語由来で発音は「バレイ」/bæˈleɪ/（語尾の t は読まない）。ballad（バラード・歌）、ballot（投票）と混同注意"],
+    "etym_note": "フランス語 ballet（イタリア語 balletto「小さな踊り」から）に由来し、ball（舞踏会）や ballad（踊りの歌）と同語源です。",
+    "etym_chain": [
+      { "node": "ballare", "sub": "踊る", "era": "後期ラテン語" },
+      { "node": "balletto", "sub": "小さな踊り", "era": "イタリア語" },
+      { "node": "ballet", "sub": "バレエ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "study ballet", "ja": "バレエを習う" },
+      { "en": "a ballet dancer", "ja": "バレエダンサー" },
+      { "en": "classical ballet", "ja": "クラシックバレエ" },
+      { "en": "a ballet company", "ja": "バレエ団" },
+      { "en": "ballet shoes", "ja": "バレエシューズ" },
+      { "en": "watch a ballet", "ja": "バレエを鑑賞する" }
+    ],
+    "related": [
+      { "en": "dance", "ja": "踊り" },
+      { "en": "dancer", "ja": "ダンサー" },
+      { "en": "opera", "ja": "オペラ" },
+      { "en": "performance", "ja": "公演" }
+    ],
+    "faq": [
+      { "q": "ballet の発音は？", "a": "/bæˈleɪ/「バレイ」で、フランス語由来のため語尾の t は発音しません。アクセントは後半にあります。" },
+      { "q": "ballet と ballad の違いは？", "a": "ballet（バレイ）は「舞踊芸術」、ballad（バラッド）は「叙情的な歌・物語詩」です。つづりも発音も別なので注意しましょう。" }
+    ],
+    "quiz": [
+      { "q": "ballet の意味は？", "A": "優雅な舞踊芸術(バレエ)", "B": "歌", "C": "投票", "D": "風船", "correct": "A" },
+      { "q": "ballet の発音で正しいのは？", "A": "バレイ(語尾の t は読まない)", "B": "バレット", "C": "ボールレット", "D": "バロット", "correct": "A" }
+    ]
+  },
+  {
+    "english": "bandage",
+    "pron": "ˈbændɪdʒ",
+    "kana": "バンディッジ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "noun",
+    "ld_etym": "フランス語 bande（帯）+ -age",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "包帯"],
+    "meaning_main": "包帯／(に)包帯を巻く",
+    "description": "bandage（バンディッジ）の意味・使い方・語源を解説。包帯、包帯を巻くという意味の名詞・動詞です。",
+    "keywords": ["bandage 意味", "bandage 使い方", "bandage 語源", "bandage 例文", "包帯 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】包帯", "note": "傷口を保護するために巻く布" },
+      { "hinshi": "【動詞】(に)包帯を巻く", "note": "bandage a wound（傷に包帯を巻く）" }
+    ],
+    "usages": [
+      { "title": "① 包帯（名詞）", "desc": "傷を保護する布", "example_en": "The nurse wrapped a bandage around his arm.", "example_ja": "看護師は彼の腕に包帯を巻いた。" },
+      { "title": "② 包帯を巻く（動詞）", "desc": "bandage a wound", "example_en": "She bandaged the cut carefully.", "example_ja": "彼女はその切り傷に丁寧に包帯を巻いた。" }
+    ],
+    "warn": ["絆創膏（小さい貼るもの）は (adhesive) bandage / Band-Aid（商標）。bandage は巻く「包帯」。語源はフランス語 bande（帯）"],
+    "etym_note": "フランス語 bande（帯、ひも）に -age が付いた語で、「帯状のもの」から「包帯」を表します。band（帯・バンド）と同語源です。",
+    "etym_chain": [
+      { "node": "bande", "sub": "帯・ひも", "era": "フランス語" },
+      { "node": "bandage", "sub": "帯状のもの", "era": "16世紀フランス語" },
+      { "node": "bandage", "sub": "包帯", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "wrap a bandage", "ja": "包帯を巻く" },
+      { "en": "bandage a wound", "ja": "傷に包帯を巻く" },
+      { "en": "an elastic bandage", "ja": "伸縮包帯" },
+      { "en": "change the bandage", "ja": "包帯を替える" },
+      { "en": "a sterile bandage", "ja": "滅菌包帯" },
+      { "en": "remove the bandage", "ja": "包帯を外す" }
+    ],
+    "related": [
+      { "en": "band", "ja": "帯・バンド" },
+      { "en": "wound", "ja": "傷" },
+      { "en": "gauze", "ja": "ガーゼ" },
+      { "en": "dressing", "ja": "傷の手当て・被覆材" }
+    ],
+    "faq": [
+      { "q": "bandage と Band-Aid の違いは？", "a": "bandage は巻く「包帯」全般、Band-Aid は小さな貼る「絆創膏」の商標名（一般には adhesive bandage）です。" },
+      { "q": "bandage は動詞にもなる？", "a": "はい。「(に)包帯を巻く」という動詞にもなります。bandage the wound（傷に包帯を巻く）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "bandage の意味は？", "A": "包帯", "B": "包丁", "C": "毛布", "D": "手袋", "correct": "A" },
+      { "q": "bandage a wound の意味は？", "A": "傷に包帯を巻く", "B": "傷を消毒する", "C": "傷を縫う", "D": "傷を洗う", "correct": "A" }
+    ]
+  },
+  {
+    "english": "barbarism",
+    "pron": "ˈbɑːrbərɪzəm",
+    "kana": "バーバリズム",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ギリシャ語 barbaros（異国の・野蛮な）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "野蛮"],
+    "meaning_main": "野蛮／未開／残虐な行い／(言葉の)不規則な用法",
+    "description": "barbarism（バーバリズム）の意味・使い方・語源を解説。野蛮、未開、残虐な行いという意味の名詞です。",
+    "keywords": ["barbarism 意味", "barbarism 使い方", "barbarism 語源", "barbarism 例文", "野蛮 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】野蛮、未開(の状態)", "note": "文明化されていない状態" },
+      { "hinshi": "【名詞】残虐な行い、蛮行", "note": "むごい行為" },
+      { "hinshi": "【名詞】(言葉の)不規則・粗野な用法", "note": "誤った語法" }
+    ],
+    "usages": [
+      { "title": "① 野蛮・蛮行", "desc": "残虐で未開な行い", "example_en": "The war brought terrible acts of barbarism.", "example_ja": "その戦争はひどい蛮行をもたらした。" },
+      { "title": "② 未開の状態", "desc": "文明の対極", "example_en": "They saw it as a return to barbarism.", "example_ja": "彼らはそれを野蛮への逆戻りと見なした。" }
+    ],
+    "warn": ["形容詞は barbaric / barbarous（野蛮な）、名詞 barbarian は「野蛮人」。反対は civilization（文明）。語源は「言葉が通じない異国人」"],
+    "etym_note": "ギリシャ語 barbaros（訳の分からない言葉を話す異国人）に由来します。ギリシャ人に「バルバル」と聞こえる言葉を話す外国人を指したのが始まりです。",
+    "etym_chain": [
+      { "node": "barbaros", "sub": "異国の・言葉が通じない", "era": "ギリシャ語" },
+      { "node": "barbarismus", "sub": "野蛮・粗野な語法", "era": "ラテン語" },
+      { "node": "barbarism", "sub": "野蛮・蛮行", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "acts of barbarism", "ja": "蛮行" },
+      { "en": "a return to barbarism", "ja": "野蛮への逆戻り" },
+      { "en": "sink into barbarism", "ja": "野蛮に陥る" },
+      { "en": "sheer barbarism", "ja": "まったくの野蛮" },
+      { "en": "civilization and barbarism", "ja": "文明と野蛮" },
+      { "en": "an act of barbarism", "ja": "野蛮な行為" }
+    ],
+    "related": [
+      { "en": "barbaric", "ja": "野蛮な" },
+      { "en": "barbarian", "ja": "野蛮人" },
+      { "en": "cruelty", "ja": "残酷さ" },
+      { "en": "civilization", "ja": "文明（反対）" }
+    ],
+    "faq": [
+      { "q": "barbarism の語源は？", "a": "ギリシャ語 barbaros に由来します。ギリシャ人に意味の分からない言葉が「バルバル」と聞こえたことから、「言葉の通じない異国人＝野蛮な人」を指すようになりました。" },
+      { "q": "barbarism の形容詞・人を表す語は？", "a": "形容詞は barbaric / barbarous（野蛮な）、人は barbarian（野蛮人）です。" }
+    ],
+    "quiz": [
+      { "q": "barbarism の意味は？", "A": "野蛮・蛮行", "B": "文明", "C": "礼儀", "D": "平和", "correct": "A" },
+      { "q": "barbarism の反対に近い語は？", "A": "civilization（文明）", "B": "cruelty（残酷さ）", "C": "barbarian（野蛮人）", "D": "barbaric（野蛮な）", "correct": "A" }
+    ]
+  }
+]
