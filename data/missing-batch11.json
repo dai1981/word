@@ -1,0 +1,965 @@
+[
+  {
+    "english": "indomitable",
+    "pron": "ɪnˈdɑːmɪtəbl",
+    "kana": "インドミタブル",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "ラテン語 indomitabilis（征服できない）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "頻出語"],
+    "meaning_main": "不屈の / くじけない",
+    "description": "indomitable（インドミタブル）の意味・使い方・例文。困難や敵にも決して屈しない「不屈の・くじけない」という意味の形容詞を解説。",
+    "keywords": ["indomitable 意味", "indomitable 使い方", "不屈の 英語", "くじけない 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】不屈の / くじけない", "note": "困難・障害にも決して屈しない。「indomitable spirit」で「不屈の精神」。" }
+    ],
+    "usages": [
+      { "title": "① 不屈の精神", "desc": "強い意志。", "example_en": "She showed an indomitable spirit.", "example_ja": "彼女は不屈の精神を見せた。" },
+      { "title": "② くじけない意志", "desc": "困難でも。", "example_en": "His indomitable will inspired everyone.", "example_ja": "彼のくじけない意志が皆を奮い立たせた。" }
+    ],
+    "warn": ["indomitable は「不屈の」。im-/in-（否定）+ domitable（征服できる）＝「征服できない」が原義。tame（飼いならす）と語源的に関連（in-dom-）。"],
+    "etym_note": "ラテン語 indomitabilis（in-「否定」+ domitare「飼いならす・征服する」＝征服できない）に由来。domestic（家庭の）とも同語根。",
+    "etym_chain": [
+      { "node": "domitare", "sub": "飼いならす・征服する", "era": "ラテン語" },
+      { "node": "indomitabilis", "sub": "征服できない", "era": "後期ラテン語" },
+      { "node": "indomitable", "sub": "不屈の", "era": "17世紀英語" }
+    ],
+    "phrases": [
+      { "en": "an indomitable spirit", "ja": "不屈の精神" },
+      { "en": "indomitable will", "ja": "くじけない意志" },
+      { "en": "indomitable courage", "ja": "不屈の勇気" },
+      { "en": "an indomitable fighter", "ja": "不屈の闘士" },
+      { "en": "remain indomitable", "ja": "屈しないままでいる" },
+      { "en": "indomitable determination", "ja": "不屈の決意" }
+    ],
+    "related": [
+      { "en": "unyielding", "ja": "屈しない・頑とした" },
+      { "en": "resilient", "ja": "立ち直りの早い・打たれ強い" },
+      { "en": "invincible", "ja": "無敵の" }
+    ],
+    "faq": [
+      { "q": "indomitable の意味は？", "a": "「不屈の・くじけない」で、困難や敵にも決して屈しないことを表します。indomitable spirit（不屈の精神）が頻出です。" },
+      { "q": "indomitable の成り立ちは？", "a": "in-（否定）+ domitable（征服できる）で「征服できない＝不屈の」が原義です。" }
+    ],
+    "quiz": [
+      { "q": "「彼女は不屈の精神を見せた」= She showed an ___ spirit.", "A": "indomitable", "B": "inevitable", "C": "incredible", "D": "invisible", "correct": "A" },
+      { "q": "indomitable の意味は？", "A": "不屈の・くじけない", "B": "移り気な", "C": "臆病な", "D": "無関心な", "correct": "A" }
+    ]
+  },
+  {
+    "english": "input",
+    "pron": "ˈɪnpʊt",
+    "kana": "インプット",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "noun",
+    "ld_etym": "in（中へ）+ put（置く）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "IT・頻出"],
+    "meaning_main": "入力 / 投入 / 意見・貢献",
+    "description": "input（インプット）の意味・使い方・例文。データの「入力」、資源の「投入」、また人の「意見・貢献」という意味の名詞・動詞を解説。output の対。",
+    "keywords": ["input 意味", "input 使い方", "入力 英語", "output 違い"],
+    "meanings": [
+      { "hinshi": "【名詞】入力 / 投入", "note": "コンピュータへのデータ入力、また労力・資源の投入。output（出力）の反対。" },
+      { "hinshi": "【名詞】意見 / (助言としての)貢献", "note": "「your input」で「あなたの意見・力添え」。" },
+      { "hinshi": "【動詞】入力する", "note": "データを打ち込む。活用は input – input – input（または inputted）。" }
+    ],
+    "usages": [
+      { "title": "① データ入力", "desc": "IT。", "example_en": "Please input your password.", "example_ja": "パスワードを入力してください。" },
+      { "title": "② 意見・力添え", "desc": "貢献。", "example_en": "We value your input.", "example_ja": "私たちはあなたの意見を尊重します。" }
+    ],
+    "warn": ["input は「入力・投入・意見」。反対は output（出力）。「your input（あなたの意見・助言）」の使い方も重要。動詞の活用は input – input – input が一般的。"],
+    "etym_note": "in（中へ）+ put（置く）の複合語。「中に入れること」から「入力・投入」の意になった。",
+    "etym_chain": [
+      { "node": "in + put", "sub": "中へ＋置く", "era": "英語の複合" },
+      { "node": "input", "sub": "入力・投入", "era": "19〜20世紀英語" }
+    ],
+    "phrases": [
+      { "en": "data input", "ja": "データ入力" },
+      { "en": "your input", "ja": "あなたの意見・力添え" },
+      { "en": "input and output", "ja": "入力と出力" },
+      { "en": "provide input", "ja": "意見を出す" },
+      { "en": "input device", "ja": "入力装置" },
+      { "en": "valuable input", "ja": "貴重な意見" }
+    ],
+    "related": [
+      { "en": "output", "ja": "出力（反意）" },
+      { "en": "enter", "ja": "入力する・入る" },
+      { "en": "feedback", "ja": "意見・反応" }
+    ],
+    "faq": [
+      { "q": "input の反対語は？", "a": "output（出力）です。" },
+      { "q": "「your input」の意味は？", "a": "「あなたの意見・助言・力添え」という意味で、意見を求めるときによく使います。" }
+    ],
+    "quiz": [
+      { "q": "「パスワードを入力してください」= Please ___ your password.", "A": "input", "B": "output", "C": "import", "D": "inport", "correct": "A" },
+      { "q": "input の反対語は？", "A": "output", "B": "outset", "C": "outcome", "D": "outline", "correct": "A" }
+    ]
+  },
+  {
+    "english": "italy",
+    "pron": "ˈɪtəli",
+    "kana": "イタリー",
+    "hinshi": "固有名詞（国名）",
+    "ld_pos": "proper noun",
+    "ld_etym": "ラテン語 Italia",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "地理で頻出"],
+    "meaning_main": "イタリア（南ヨーロッパの国）",
+    "description": "Italy（イタリー）の意味・使い方・例文。長靴の形をした南ヨーロッパの国「イタリア」を表す固有名詞を解説。首都ローマ。",
+    "keywords": ["Italy 意味", "イタリア 英語", "Italy 首都", "イタリア 英語表記"],
+    "meanings": [
+      { "hinshi": "【固有名詞】イタリア", "note": "南ヨーロッパ・地中海に突き出た長靴形の半島の共和国。首都ローマ。芸術・料理・歴史で名高い。" }
+    ],
+    "usages": [
+      { "title": "① 国として", "desc": "地理。", "example_en": "Italy is famous for pizza and pasta.", "example_ja": "イタリアはピザとパスタで有名だ。" },
+      { "title": "② 旅行・文化", "desc": "場所。", "example_en": "We visited Rome in Italy.", "example_ja": "私たちはイタリアのローマを訪れた。" }
+    ],
+    "warn": ["Italy は英語での呼び名。イタリア語では Italia。形容詞・国民・言語は Italian（イタリアの・イタリア人・イタリア語）。首都は Rome（ローマ）。"],
+    "etym_note": "ラテン語 Italia に由来。古代の一部族名や「子牛の地」を意味する語に由来するなど諸説ある。",
+    "etym_chain": [
+      { "node": "Italia", "sub": "イタリア", "era": "ラテン語" },
+      { "node": "Italy", "sub": "イタリア", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "northern Italy", "ja": "北イタリア" },
+      { "en": "made in Italy", "ja": "イタリア製" },
+      { "en": "travel to Italy", "ja": "イタリアへ旅行する" },
+      { "en": "the capital of Italy", "ja": "イタリアの首都" },
+      { "en": "the south of Italy", "ja": "南イタリア" },
+      { "en": "live in Italy", "ja": "イタリアに住む" }
+    ],
+    "related": [
+      { "en": "Italian", "ja": "イタリアの・イタリア人・イタリア語" },
+      { "en": "Rome", "ja": "ローマ（首都）" },
+      { "en": "Europe", "ja": "ヨーロッパ" }
+    ],
+    "faq": [
+      { "q": "Italy の首都は？", "a": "ローマ（Rome）です。" },
+      { "q": "Italy の形容詞・言語は？", "a": "どちらも Italian で、「イタリアの・イタリア人・イタリア語」を表します。イタリア語では国名を Italia と言います。" }
+    ],
+    "quiz": [
+      { "q": "「イタリアはピザとパスタで有名だ」= ___ is famous for pizza and pasta.", "A": "Italy", "B": "France", "C": "Greece", "D": "Germany", "correct": "A" },
+      { "q": "Italy の首都は？", "A": "ローマ", "B": "パリ", "C": "ベルリン", "D": "アテネ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "koala",
+    "pron": "koʊˈɑːlə",
+    "kana": "コアラ",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "オーストラリア先住民の言葉 gula",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A1", "動物"],
+    "meaning_main": "コアラ（オーストラリアの有袋類）",
+    "description": "koala（コアラ）の意味・使い方・例文。ユーカリの葉を食べるオーストラリア固有の有袋類「コアラ」を表す名詞を解説。",
+    "keywords": ["koala 意味", "koala 使い方", "コアラ 英語", "有袋類 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】コアラ", "note": "オーストラリアに生息する木の上で暮らす有袋類。ユーカリの葉を食べ、育児のうを持つ。クマではない。" }
+    ],
+    "usages": [
+      { "title": "① 動物として", "desc": "自然。", "example_en": "Koalas sleep for most of the day.", "example_ja": "コアラは一日の大半を眠って過ごす。" },
+      { "title": "② 食性", "desc": "生態。", "example_en": "Koalas eat only eucalyptus leaves.", "example_ja": "コアラはユーカリの葉しか食べない。" }
+    ],
+    "warn": ["koala は「コアラ」。クマ（bear）ではなく有袋類（marsupial）。英語で koala bear と呼ぶこともあるが正確には bear ではない。"],
+    "etym_note": "オーストラリア先住民ダルグ語の gula（コアラ）に由来するとされる。「水を飲まない」の意という俗説もある。",
+    "etym_chain": [
+      { "node": "gula", "sub": "コアラ", "era": "オーストラリア先住民語" },
+      { "node": "koala", "sub": "コアラ", "era": "19世紀英語" }
+    ],
+    "phrases": [
+      { "en": "a koala in a tree", "ja": "木の上のコアラ" },
+      { "en": "a baby koala", "ja": "コアラの赤ちゃん" },
+      { "en": "koala habitat", "ja": "コアラの生息地" },
+      { "en": "protect koalas", "ja": "コアラを守る" },
+      { "en": "a sleepy koala", "ja": "眠そうなコアラ" },
+      { "en": "koalas and eucalyptus", "ja": "コアラとユーカリ" }
+    ],
+    "related": [
+      { "en": "marsupial", "ja": "有袋類" },
+      { "en": "eucalyptus", "ja": "ユーカリ" },
+      { "en": "kangaroo", "ja": "カンガルー" }
+    ],
+    "faq": [
+      { "q": "コアラはクマの仲間？", "a": "いいえ。コアラはカンガルーなどと同じ「有袋類」で、クマ（bear）ではありません。" },
+      { "q": "コアラは何を食べる？", "a": "主にユーカリ（eucalyptus）の葉を食べます。" }
+    ],
+    "quiz": [
+      { "q": "「コアラは一日の大半を眠って過ごす」= ___ sleep for most of the day.", "A": "Koalas", "B": "Cobras", "C": "Corals", "D": "Collars", "correct": "A" },
+      { "q": "コアラは何類？", "A": "有袋類", "B": "げっ歯類", "C": "霊長類", "D": "食肉類", "correct": "A" }
+    ]
+  },
+  {
+    "english": "plateau",
+    "pron": "plæˈtoʊ",
+    "kana": "プラトー",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "noun",
+    "ld_etym": "フランス語 plateau（平たいもの・台地）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "地理・頻出"],
+    "meaning_main": "高原 / 台地 / 頭打ち（の状態）",
+    "description": "plateau（プラトー）の意味・使い方・例文。周囲より高く平らな「高原・台地」、また成長が止まる「頭打ちの状態」という意味の名詞・動詞を解説。",
+    "keywords": ["plateau 意味", "plateau 使い方", "高原 英語", "頭打ち 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】高原 / 台地", "note": "周囲より高く、上が平らに広がった地形。" },
+      { "hinshi": "【名詞・動詞】頭打ち / 停滞（する）", "note": "成長・数値が伸び止まって横ばいになること。「reach a plateau」で「頭打ちになる」。" }
+    ],
+    "usages": [
+      { "title": "① 高原・台地", "desc": "地理。", "example_en": "The village sits on a high plateau.", "example_ja": "その村は高い高原の上にある。" },
+      { "title": "② 頭打ちになる", "desc": "比喩。", "example_en": "Sales reached a plateau last year.", "example_ja": "売上は昨年頭打ちになった。" }
+    ],
+    "warn": ["plateau は「高原・台地」と「頭打ち・停滞」。発音は「プラトー」/plæˈtoʊ/。「reach/hit a plateau（頭打ちになる）」が頻出。複数形は plateaus / plateaux。"],
+    "etym_note": "フランス語 plateau（平たい皿・台。plat「平らな」から）に由来。「平らに広がったもの」を意味する。",
+    "etym_chain": [
+      { "node": "plat", "sub": "平らな", "era": "古フランス語" },
+      { "node": "plateau", "sub": "台地・平たいもの", "era": "18世紀英語" }
+    ],
+    "phrases": [
+      { "en": "a high plateau", "ja": "高い高原" },
+      { "en": "reach a plateau", "ja": "頭打ちになる" },
+      { "en": "hit a plateau", "ja": "停滞する・伸び悩む" },
+      { "en": "on a plateau", "ja": "横ばいで" },
+      { "en": "a mountain plateau", "ja": "山の台地" },
+      { "en": "plateau out", "ja": "横ばいになる" }
+    ],
+    "related": [
+      { "en": "highland", "ja": "高地" },
+      { "en": "level off", "ja": "横ばいになる" },
+      { "en": "stagnate", "ja": "停滞する" }
+    ],
+    "faq": [
+      { "q": "reach a plateau の意味は？", "a": "「(成長・数値が)頭打ちになる・横ばいの状態に達する」という意味です。" },
+      { "q": "plateau の発音は？", "a": "「プラトー」/plæˈtoʊ/ で、フランス語由来のため -eau は「オー」と読みます。" }
+    ],
+    "quiz": [
+      { "q": "「その村は高い高原の上にある」= The village sits on a high ___.", "A": "plateau", "B": "plate", "C": "plaza", "D": "planet", "correct": "A" },
+      { "q": "reach a plateau の意味は？", "A": "頭打ちになる", "B": "急上昇する", "C": "崩れる", "D": "始まる", "correct": "A" }
+    ]
+  },
+  {
+    "english": "raincoat",
+    "pron": "ˈreɪnkoʊt",
+    "kana": "レインコート",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "rain（雨）+ coat（コート）",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A1", "身近な語"],
+    "meaning_main": "レインコート / 雨がっぱ",
+    "description": "raincoat（レインコート）の意味・使い方・例文。雨の日に着る防水の上着「レインコート・雨がっぱ」を表す名詞を解説。",
+    "keywords": ["raincoat 意味", "raincoat 使い方", "レインコート 英語", "雨がっぱ 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】レインコート / 雨がっぱ", "note": "雨をしのぐために着る防水の上着。rain（雨）+ coat（上着）の複合語。" }
+    ],
+    "usages": [
+      { "title": "① 雨の日に着る", "desc": "衣類。", "example_en": "Take your raincoat; it might rain.", "example_ja": "レインコートを持って行って。雨が降るかも。" },
+      { "title": "② 防水の上着", "desc": "特徴。", "example_en": "She wore a yellow raincoat.", "example_ja": "彼女は黄色いレインコートを着ていた。" }
+    ],
+    "warn": ["raincoat は rain（雨）+ coat（上着）の複合語。似た語に raincoat（コート型）、poncho（ポンチョ）、umbrella（傘）がある。"],
+    "etym_note": "rain（雨）と coat（上着・コート）を合わせた複合語。「雨用の上着」を意味する。",
+    "etym_chain": [
+      { "node": "rain + coat", "sub": "雨＋上着", "era": "英語の複合" },
+      { "node": "raincoat", "sub": "レインコート", "era": "19世紀英語" }
+    ],
+    "phrases": [
+      { "en": "wear a raincoat", "ja": "レインコートを着る" },
+      { "en": "a yellow raincoat", "ja": "黄色いレインコート" },
+      { "en": "a waterproof raincoat", "ja": "防水のレインコート" },
+      { "en": "put on a raincoat", "ja": "レインコートを着る" },
+      { "en": "a hooded raincoat", "ja": "フード付きレインコート" },
+      { "en": "a child's raincoat", "ja": "子ども用レインコート" }
+    ],
+    "related": [
+      { "en": "umbrella", "ja": "傘" },
+      { "en": "poncho", "ja": "ポンチョ" },
+      { "en": "waterproof", "ja": "防水の" }
+    ],
+    "faq": [
+      { "q": "raincoat の成り立ちは？", "a": "rain（雨）+ coat（上着）で「雨用の上着」を意味する複合語です。" },
+      { "q": "raincoat と poncho の違いは？", "a": "raincoat は袖のあるコート型、poncho は頭からかぶる袖なしの雨具です。" }
+    ],
+    "quiz": [
+      { "q": "「レインコートを持って行って」= Take your ___; it might rain.", "A": "raincoat", "B": "overcoat", "C": "raindrop", "D": "rainbow", "correct": "A" },
+      { "q": "raincoat は何を合わせた語？", "A": "rain（雨）+ coat（上着）", "B": "rain + boat", "C": "reign + coat", "D": "rain + cot", "correct": "A" }
+    ]
+  },
+  {
+    "english": "saw",
+    "pron": "ˈsɔː",
+    "kana": "ソー",
+    "hinshi": "動詞（see の過去形）/ 名詞",
+    "ld_pos": "verb",
+    "ld_etym": "see の過去形／古英語 sagu（のこぎり）",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "基本語"],
+    "meaning_main": "see（見る）の過去形 / のこぎり",
+    "description": "saw（ソー）の意味・使い方・例文。動詞 see（見る）の過去形「〜を見た」、また名詞「のこぎり」という意味を解説。同じつづりで別の意味を持つ語。",
+    "keywords": ["saw 意味", "see 過去形", "のこぎり 英語", "saw 使い方"],
+    "meanings": [
+      { "hinshi": "【動詞】saw = see の過去形", "note": "see（見る・会う・わかる）の過去形。see – saw – seen と変化する不規則動詞。「〜を見た」。" },
+      { "hinshi": "【名詞・動詞】のこぎり / のこぎりで切る", "note": "木などを切る歯のついた工具。動詞では saw – sawed – sawn/sawed。" }
+    ],
+    "usages": [
+      { "title": "① 見た（see の過去）", "desc": "動詞として。", "example_en": "I saw a movie yesterday.", "example_ja": "私は昨日、映画を見た。" },
+      { "title": "② のこぎり", "desc": "名詞として。", "example_en": "He cut the wood with a saw.", "example_ja": "彼はのこぎりで木を切った。" }
+    ],
+    "warn": ["saw は see（見る）の過去形（see – saw – seen）と、名詞「のこぎり」の2つ。同じつづりで意味が異なる。過去分詞 seen と混同しないよう注意。"],
+    "etym_note": "動詞の saw は see（古英語 sēon）の過去形。名詞の saw（のこぎり）は古英語 sagu に由来し、別語源。",
+    "etym_chain": [
+      { "node": "sēon / sagu", "sub": "見る／のこぎり", "era": "古英語" },
+      { "node": "saw", "sub": "見た／のこぎり", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "I saw him", "ja": "私は彼を見た" },
+      { "en": "as I saw it", "ja": "私が見たところでは" },
+      { "en": "a hand saw", "ja": "手引きのこぎり" },
+      { "en": "a chainsaw", "ja": "チェーンソー" },
+      { "en": "saw wood", "ja": "木をのこぎりで切る" },
+      { "en": "never saw it coming", "ja": "予想もしなかった" }
+    ],
+    "related": [
+      { "en": "see", "ja": "見る（原形）" },
+      { "en": "seen", "ja": "see の過去分詞" },
+      { "en": "cut", "ja": "切る" }
+    ],
+    "faq": [
+      { "q": "saw は何の過去形？", "a": "see（見る・会う・わかる）の過去形です。see – saw – seen と変化します。" },
+      { "q": "saw には別の意味もある？", "a": "はい。名詞で「のこぎり」、動詞で「のこぎりで切る」という意味もあります（別語源）。" }
+    ],
+    "quiz": [
+      { "q": "「私は昨日、映画を見た」= I ___ a movie yesterday.", "A": "saw", "B": "seen", "C": "see", "D": "sew", "correct": "A" },
+      { "q": "saw は何の動詞の過去形？", "A": "see", "B": "say", "C": "sit", "D": "sell", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sentimental",
+    "pron": "ˌsentɪˈmentl",
+    "kana": "センチメンタル",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "ラテン語 sentire（感じる）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "感情"],
+    "meaning_main": "感傷的な / 情に厚い / 思い出のこもった",
+    "description": "sentimental（センチメンタル）の意味・使い方・例文。感情に流されやすい「感傷的な」、また思い出がこもって「思い入れのある」という意味の形容詞を解説。",
+    "keywords": ["sentimental 意味", "sentimental 使い方", "感傷的な 英語", "思い入れ 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】感傷的な / 涙もろい", "note": "感情に動かされやすく、ときに感情過多なさま。" },
+      { "hinshi": "【形容詞】思い出のこもった / 思い入れのある", "note": "「sentimental value」で「(金銭でなく)思い出としての価値」。" }
+    ],
+    "usages": [
+      { "title": "① 感傷的な", "desc": "感情。", "example_en": "She gets sentimental at weddings.", "example_ja": "彼女は結婚式で感傷的になる。" },
+      { "title": "② 思い入れのある", "desc": "思い出。", "example_en": "The ring has sentimental value.", "example_ja": "その指輪には思い出としての価値がある。" }
+    ],
+    "warn": ["sentimental は「感傷的な・思い入れのある」。名詞 sentiment（感情・所感）、名詞 sentimentality（感傷過多）。「sentimental value（金銭では計れない思い出の価値）」は頻出。"],
+    "etym_note": "ラテン語 sentire（感じる）に由来する sentiment（感情）の形容詞。「感情に関する・感情に動かされる」を意味する。",
+    "etym_chain": [
+      { "node": "sentire", "sub": "感じる", "era": "ラテン語" },
+      { "node": "sentiment", "sub": "感情・所感", "era": "17世紀英語" },
+      { "node": "sentimental", "sub": "感傷的な", "era": "18世紀英語" }
+    ],
+    "phrases": [
+      { "en": "sentimental value", "ja": "思い出としての価値" },
+      { "en": "get sentimental", "ja": "感傷的になる" },
+      { "en": "a sentimental song", "ja": "感傷的な歌" },
+      { "en": "for sentimental reasons", "ja": "思い入れがあって" },
+      { "en": "overly sentimental", "ja": "感傷的すぎる" },
+      { "en": "a sentimental journey", "ja": "思い出の旅" }
+    ],
+    "related": [
+      { "en": "sentiment", "ja": "感情・所感" },
+      { "en": "emotional", "ja": "感情的な" },
+      { "en": "nostalgic", "ja": "郷愁を誘う・懐かしむ" }
+    ],
+    "faq": [
+      { "q": "sentimental value とは？", "a": "金銭的な価値ではなく、「思い出がこもっているがゆえの価値」を指します。" },
+      { "q": "sentimental の名詞は？", "a": "sentiment（感情・所感）です。感傷過多は sentimentality です。" }
+    ],
+    "quiz": [
+      { "q": "「その指輪には思い出としての価値がある」= The ring has ___ value.", "A": "sentimental", "B": "fundamental", "C": "experimental", "D": "environmental", "correct": "A" },
+      { "q": "sentimental の名詞形は？", "A": "sentiment", "B": "settlement", "C": "statement", "D": "sediment", "correct": "A" }
+    ]
+  },
+  {
+    "english": "tacit",
+    "pron": "ˈtæsɪt",
+    "kana": "タシット",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "ラテン語 tacitus（黙った）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "論説で頻出"],
+    "meaning_main": "暗黙の / 言葉に出さない",
+    "description": "tacit（タシット）の意味・使い方・例文。はっきり言葉にしなくても了解されている「暗黙の」という意味の形容詞を解説。",
+    "keywords": ["tacit 意味", "tacit 使い方", "暗黙の 英語", "暗黙の了解 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】暗黙の / 言葉に出さない / 無言の", "note": "はっきり述べなくても互いに了解している。「tacit agreement」で「暗黙の合意」。" }
+    ],
+    "usages": [
+      { "title": "① 暗黙の了解", "desc": "合意。", "example_en": "They had a tacit agreement.", "example_ja": "彼らには暗黙の合意があった。" },
+      { "title": "② 言葉にしない承認", "desc": "承認。", "example_en": "Her silence was tacit approval.", "example_ja": "彼女の沈黙は暗黙の承認だった。" }
+    ],
+    "warn": ["tacit は「暗黙の・言葉にしない」。反対は explicit（明示的な）や stated（明言された）。副詞 tacitly（暗黙のうちに）。silent（無音の）とは意味が違う。"],
+    "etym_note": "ラテン語 tacitus（tacere「黙る」の過去分詞＝黙った）に由来。「口に出さない」を意味する。taciturn（無口な）と同語源。",
+    "etym_chain": [
+      { "node": "tacere", "sub": "黙る", "era": "ラテン語" },
+      { "node": "tacitus", "sub": "黙った", "era": "ラテン語" },
+      { "node": "tacit", "sub": "暗黙の", "era": "17世紀英語" }
+    ],
+    "phrases": [
+      { "en": "a tacit agreement", "ja": "暗黙の合意" },
+      { "en": "tacit approval", "ja": "暗黙の承認" },
+      { "en": "tacit understanding", "ja": "暗黙の了解" },
+      { "en": "tacit consent", "ja": "暗黙の同意" },
+      { "en": "tacit knowledge", "ja": "暗黙知" },
+      { "en": "tacitly agree", "ja": "暗黙のうちに同意する" }
+    ],
+    "related": [
+      { "en": "implicit", "ja": "暗黙の・言外の" },
+      { "en": "explicit", "ja": "明示的な（反意）" },
+      { "en": "unspoken", "ja": "口に出されない" }
+    ],
+    "faq": [
+      { "q": "tacit の反対語は？", "a": "explicit（明示的な・はっきり述べた）です。" },
+      { "q": "tacit と implicit の違いは？", "a": "ほぼ同義で「暗黙の」ですが、tacit は特に「口に出さず了解されている」ことを強調します。" }
+    ],
+    "quiz": [
+      { "q": "「彼らには暗黙の合意があった」= They had a ___ agreement.", "A": "tacit", "B": "toxic", "C": "tactic", "D": "tragic", "correct": "A" },
+      { "q": "tacit の反対語は？", "A": "explicit", "B": "implicit", "C": "silent", "D": "obvious", "correct": "A" }
+    ]
+  },
+  {
+    "english": "tight",
+    "pron": "ˈtaɪt",
+    "kana": "タイト",
+    "hinshi": "形容詞 / 副詞",
+    "ld_pos": "adjective",
+    "ld_etym": "古ノルド語 þéttr（水を通さない・密な）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "頻出語"],
+    "meaning_main": "きつい / ぴんと張った / 厳しい / しっかり",
+    "description": "tight（タイト）の意味・使い方・例文。服がきつい、ロープがぴんと張った、予定・予算が厳しい、しっかり固定された、という意味の形容詞・副詞を解説。",
+    "keywords": ["tight 意味", "tight 使い方", "きつい 英語", "ぴんと張った 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】きつい / ぴったりした", "note": "服・空間などがゆとりなくきつい。loose（ゆるい）の反対。" },
+      { "hinshi": "【形容詞】ぴんと張った / しっかり固定された", "note": "ロープなどがたるまず張っている、固く締まった。" },
+      { "hinshi": "【形容詞】(予定・予算などが)厳しい / 余裕のない", "note": "「a tight schedule」で「余裕のない予定」。" }
+    ],
+    "usages": [
+      { "title": "① きつい", "desc": "服など。", "example_en": "These jeans are too tight.", "example_ja": "このジーンズはきつすぎる。" },
+      { "title": "② 余裕がない", "desc": "予定・予算。", "example_en": "We're on a tight budget.", "example_ja": "私たちは予算に余裕がない。" }
+    ],
+    "warn": ["tight は「きつい・ぴんと張った・厳しい」。反対は loose（ゆるい）。「hold tight（しっかりつかまる）」「a tight schedule（詰まった予定）」「sleep tight（ぐっすり眠る）」が頻出。"],
+    "etym_note": "古ノルド語 þéttr（密な・水を通さない）に由来。「すきまなく詰まった」を意味する。",
+    "etym_chain": [
+      { "node": "þéttr", "sub": "密な・水を通さない", "era": "古ノルド語" },
+      { "node": "tight", "sub": "きつい・張った", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "hold tight", "ja": "しっかりつかまる" },
+      { "en": "a tight schedule", "ja": "余裕のない予定" },
+      { "en": "a tight budget", "ja": "厳しい予算" },
+      { "en": "too tight", "ja": "きつすぎる" },
+      { "en": "sleep tight", "ja": "ぐっすり眠る" },
+      { "en": "a tight squeeze", "ja": "ぎゅうぎゅう詰め" }
+    ],
+    "related": [
+      { "en": "loose", "ja": "ゆるい（反意）" },
+      { "en": "tighten", "ja": "締める・きつくする" },
+      { "en": "firm", "ja": "しっかりした・固い" }
+    ],
+    "faq": [
+      { "q": "tight の反対語は？", "a": "loose（ゆるい）です。動詞は tighten（締める・きつくする）です。" },
+      { "q": "a tight schedule の意味は？", "a": "「余裕のない・詰まった予定（スケジュール）」という意味です。" }
+    ],
+    "quiz": [
+      { "q": "「このジーンズはきつすぎる」= These jeans are too ___.", "A": "tight", "B": "light", "C": "right", "D": "night", "correct": "A" },
+      { "q": "tight の反対語は？", "A": "loose", "B": "long", "C": "large", "D": "low", "correct": "A" }
+    ]
+  },
+  {
+    "english": "adaptation",
+    "pron": "ˌædæpˈteɪʃn",
+    "kana": "アダプテーション",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 adaptare（適合させる）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出語"],
+    "meaning_main": "適応 / 順応 / (作品の)脚色・翻案",
+    "description": "adaptation（アダプテーション）の意味・使い方・例文。環境への「適応・順応」、また小説などの「脚色・翻案（映画化など）」という意味の名詞を解説。",
+    "keywords": ["adaptation 意味", "adaptation 使い方", "適応 英語", "翻案 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】適応 / 順応", "note": "環境・状況に合わせて変化・対応すること。生物学の「適応」も。" },
+      { "hinshi": "【名詞】(作品の)脚色 / 翻案", "note": "小説を映画・劇などに作り変えたもの。「a film adaptation」で「映画化作品」。" }
+    ],
+    "usages": [
+      { "title": "① 適応", "desc": "生物・環境。", "example_en": "Adaptation to cold is vital for survival.", "example_ja": "寒さへの適応は生存に不可欠だ。" },
+      { "title": "② 翻案・映画化", "desc": "作品。", "example_en": "The movie is an adaptation of a novel.", "example_ja": "その映画は小説の映画化だ。" }
+    ],
+    "warn": ["adaptation は「適応」と「脚色・翻案」。動詞 adapt（適応する・脚色する）、形容詞 adaptable（適応できる）。adopt（採用する・養子にする）と混同注意。"],
+    "etym_note": "ラテン語 adaptare（ad-「〜へ」+ aptare「合わせる」＝適合させる）に由来する adapt の名詞形。",
+    "etym_chain": [
+      { "node": "adaptare", "sub": "適合させる", "era": "ラテン語" },
+      { "node": "adapt", "sub": "適応する・脚色する", "era": "15世紀英語" },
+      { "node": "adaptation", "sub": "適応・翻案", "era": "17世紀英語" }
+    ],
+    "phrases": [
+      { "en": "a film adaptation", "ja": "映画化作品" },
+      { "en": "adaptation to", "ja": "〜への適応" },
+      { "en": "climate adaptation", "ja": "気候への適応" },
+      { "en": "a stage adaptation", "ja": "舞台化作品" },
+      { "en": "require adaptation", "ja": "適応を要する" },
+      { "en": "evolutionary adaptation", "ja": "進化的適応" }
+    ],
+    "related": [
+      { "en": "adapt", "ja": "適応する・脚色する" },
+      { "en": "adaptable", "ja": "適応できる" },
+      { "en": "adjust", "ja": "調整する・順応する" }
+    ],
+    "faq": [
+      { "q": "adaptation と adoption の違いは？", "a": "adaptation は「適応・脚色」（動詞 adapt）、adoption は「採用・養子縁組」（動詞 adopt）で別の語です。" },
+      { "q": "a film adaptation とは？", "a": "小説などを原作にした「映画化作品」のことです。" }
+    ],
+    "quiz": [
+      { "q": "「その映画は小説の映画化だ」= The movie is an ___ of a novel.", "A": "adaptation", "B": "adoption", "C": "addition", "D": "admiration", "correct": "A" },
+      { "q": "adaptation の動詞形は？", "A": "adapt", "B": "adopt", "C": "adept", "D": "admit", "correct": "A" }
+    ]
+  },
+  {
+    "english": "amateur",
+    "pron": "ˈæmətʃər",
+    "kana": "アマチュア",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 amator（愛する人）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出語"],
+    "meaning_main": "アマチュア / 素人 / 愛好家(の)",
+    "description": "amateur（アマチュア）の意味・使い方・例文。趣味として行う「アマチュア・愛好家」、また「素人の」という意味の名詞・形容詞を解説。professional の対。",
+    "keywords": ["amateur 意味", "amateur 使い方", "アマチュア 英語", "素人 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】アマチュア / 愛好家 / 素人", "note": "報酬のためでなく趣味・楽しみで行う人。professional（プロ）の反対。" },
+      { "hinshi": "【形容詞】アマチュアの / 素人の", "note": "「amateur photographer」で「アマチュア写真家」。" }
+    ],
+    "usages": [
+      { "title": "① アマチュア", "desc": "名詞として。", "example_en": "He is a talented amateur.", "example_ja": "彼は才能あるアマチュアだ。" },
+      { "title": "② アマチュアの", "desc": "形容詞として。", "example_en": "She plays in an amateur orchestra.", "example_ja": "彼女はアマチュアのオーケストラで演奏する。" }
+    ],
+    "warn": ["amateur は「アマチュア・愛好家」。反対は professional（プロ）。もとは「愛する人」の意で必ずしも「下手」ではないが、口語で「素人くさい・下手な」の否定的な含みで使うこともある。発音は「アマチュア」。"],
+    "etym_note": "フランス語経由でラテン語 amator（amare「愛する」から＝愛する人）に由来。「(お金でなく)好きでやる人」を意味する。",
+    "etym_chain": [
+      { "node": "amare", "sub": "愛する", "era": "ラテン語" },
+      { "node": "amator", "sub": "愛する人", "era": "ラテン語" },
+      { "node": "amateur", "sub": "アマチュア・愛好家", "era": "18世紀英語" }
+    ],
+    "phrases": [
+      { "en": "an amateur photographer", "ja": "アマチュア写真家" },
+      { "en": "amateur sports", "ja": "アマチュアスポーツ" },
+      { "en": "a rank amateur", "ja": "まったくの素人" },
+      { "en": "amateur and professional", "ja": "アマとプロ" },
+      { "en": "an amateur athlete", "ja": "アマチュア選手" },
+      { "en": "look amateurish", "ja": "素人くさく見える" }
+    ],
+    "related": [
+      { "en": "professional", "ja": "プロ・専門家（反意）" },
+      { "en": "hobbyist", "ja": "趣味人・愛好家" },
+      { "en": "amateurish", "ja": "素人くさい" }
+    ],
+    "faq": [
+      { "q": "amateur の反対語は？", "a": "professional（プロ・専門家）です。" },
+      { "q": "amateur は「下手」という意味？", "a": "本来は「趣味でやる人・愛好家」で下手とは限りませんが、口語では「素人くさい・下手な（amateurish）」と否定的に使うこともあります。" }
+    ],
+    "quiz": [
+      { "q": "「彼女はアマチュアのオーケストラで演奏する」= She plays in an ___ orchestra.", "A": "amateur", "B": "amazing", "C": "amount", "D": "average", "correct": "A" },
+      { "q": "amateur の反対語は？", "A": "professional", "B": "personal", "C": "practical", "D": "particular", "correct": "A" }
+    ]
+  },
+  {
+    "english": "benevolent",
+    "pron": "bəˈnevələnt",
+    "kana": "ベネボレント",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "ラテン語 bene（良く）+ volens（望む）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "頻出語"],
+    "meaning_main": "慈悲深い / 情け深い / 親切な",
+    "description": "benevolent（ベネボレント）の意味・使い方・例文。他人の幸せを願い親切にする「慈悲深い・情け深い」という意味の形容詞を解説。",
+    "keywords": ["benevolent 意味", "benevolent 使い方", "慈悲深い 英語", "情け深い 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】慈悲深い / 情け深い / 親切な", "note": "他人の幸福を願い、寛大で親切なさま。「a benevolent smile」で「優しいほほえみ」。" }
+    ],
+    "usages": [
+      { "title": "① 慈悲深い", "desc": "人柄。", "example_en": "She was a benevolent leader.", "example_ja": "彼女は慈悲深い指導者だった。" },
+      { "title": "② 慈善の", "desc": "団体など。", "example_en": "The money came from a benevolent fund.", "example_ja": "その資金は慈善基金から出た。" }
+    ],
+    "warn": ["benevolent は「慈悲深い・親切な」。bene-（良く）+ vol（望む）＝「良かれと望む」。反対は malevolent（悪意のある）。名詞 benevolence（慈悲・善意）。"],
+    "etym_note": "ラテン語 bene（良く）+ volens（volo「望む」の現在分詞＝望む）に由来。「他人の幸福を良かれと望む」を意味する。",
+    "etym_chain": [
+      { "node": "bene + volens", "sub": "良く＋望む", "era": "ラテン語" },
+      { "node": "benevolent", "sub": "慈悲深い", "era": "15世紀英語" }
+    ],
+    "phrases": [
+      { "en": "a benevolent smile", "ja": "優しいほほえみ" },
+      { "en": "a benevolent ruler", "ja": "情け深い統治者" },
+      { "en": "benevolent to", "ja": "〜に親切で" },
+      { "en": "a benevolent society", "ja": "慈善団体" },
+      { "en": "benevolent intentions", "ja": "善意の意図" },
+      { "en": "look benevolent", "ja": "慈悲深く見える" }
+    ],
+    "related": [
+      { "en": "benevolence", "ja": "慈悲・善意" },
+      { "en": "malevolent", "ja": "悪意のある（反意）" },
+      { "en": "kind", "ja": "親切な" }
+    ],
+    "faq": [
+      { "q": "benevolent の反対語は？", "a": "malevolent（悪意のある・敵意を持った）です。bene-（良く）に対し male-（悪く）です。" },
+      { "q": "benevolent の名詞は？", "a": "benevolence（慈悲・善意・親切）です。" }
+    ],
+    "quiz": [
+      { "q": "「彼女は慈悲深い指導者だった」= She was a ___ leader.", "A": "benevolent", "B": "malevolent", "C": "prevalent", "D": "permanent", "correct": "A" },
+      { "q": "benevolent の反対語は？", "A": "malevolent", "B": "brilliant", "C": "relevant", "D": "elegant", "correct": "A" }
+    ]
+  },
+  {
+    "english": "border",
+    "pron": "ˈbɔːrdər",
+    "kana": "ボーダー",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "noun",
+    "ld_etym": "古フランス語 bordure（縁）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "頻出語"],
+    "meaning_main": "国境 / 境界 / 縁 / 接する",
+    "description": "border（ボーダー）の意味・使い方・例文。国と国の「国境」、物の「境界・縁」、また「〜と接する」という意味の名詞・動詞を解説。",
+    "keywords": ["border 意味", "border 使い方", "国境 英語", "境界 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】国境 / 境界", "note": "国・地域を分ける境目。「cross the border」で「国境を越える」。" },
+      { "hinshi": "【名詞】縁 / へり", "note": "布・紙などのふち。" },
+      { "hinshi": "【動詞】〜と境を接する", "note": "「border on 〜」で「〜と接する・〜に近い」。" }
+    ],
+    "usages": [
+      { "title": "① 国境", "desc": "地理。", "example_en": "They crossed the border into Canada.", "example_ja": "彼らは国境を越えてカナダに入った。" },
+      { "title": "② 〜と接する", "desc": "動詞として。", "example_en": "France borders Spain.", "example_ja": "フランスはスペインと国境を接している。" }
+    ],
+    "warn": ["border は「国境・境界・縁」と、動詞「境を接する」。「border on 〜」で「〜と接する／〜に近い（border on rude＝失礼に近い）」。日本語の柄の『ボーダー（横縞）』は英語では stripes。"],
+    "etym_note": "古フランス語 bordure（縁・へり。bord「縁」から）に由来。「へり・境目」を意味する。",
+    "etym_chain": [
+      { "node": "bord", "sub": "縁", "era": "古フランス語" },
+      { "node": "bordure", "sub": "縁・へり", "era": "古フランス語" },
+      { "node": "border", "sub": "国境・境界", "era": "14世紀英語" }
+    ],
+    "phrases": [
+      { "en": "cross the border", "ja": "国境を越える" },
+      { "en": "the border between", "ja": "〜の間の国境" },
+      { "en": "border on", "ja": "〜と接する・〜に近い" },
+      { "en": "a national border", "ja": "国境" },
+      { "en": "border control", "ja": "国境管理・入国審査" },
+      { "en": "across the border", "ja": "国境の向こうに" }
+    ],
+    "related": [
+      { "en": "boundary", "ja": "境界" },
+      { "en": "frontier", "ja": "国境・辺境" },
+      { "en": "edge", "ja": "縁・端" }
+    ],
+    "faq": [
+      { "q": "border on の意味は？", "a": "「〜と境を接する」また「(ある状態に)近い」の意味です。border on rude で「失礼すれすれ」など。" },
+      { "q": "洋服の「ボーダー（横縞）」は英語で？", "a": "英語では stripes（ストライプ）と言います。英語の border は「縁・境界」です。" }
+    ],
+    "quiz": [
+      { "q": "「彼らは国境を越えてカナダに入った」= They crossed the ___ into Canada.", "A": "border", "B": "boarder", "C": "boulder", "D": "broader", "correct": "A" },
+      { "q": "border on の意味は？", "A": "〜と接する・〜に近い", "B": "〜を退屈させる", "C": "〜を借りる", "D": "〜を焼く", "correct": "A" }
+    ]
+  },
+  {
+    "english": "canopy",
+    "pron": "ˈkænəpi",
+    "kana": "キャノピー",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ギリシャ語 kōnōpeion（蚊帳付きの寝台）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "頻出語"],
+    "meaning_main": "天蓋 / (森の)林冠 / おおい",
+    "description": "canopy（キャノピー）の意味・使い方・例文。ベッドや玄関の「天蓋・おおい」、また森の樹木の上層「林冠」という意味の名詞を解説。",
+    "keywords": ["canopy 意味", "canopy 使い方", "天蓋 英語", "林冠 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】天蓋 / おおい / ひさし", "note": "ベッド・玉座・入り口の上に張る布や屋根状のおおい。" },
+      { "hinshi": "【名詞】林冠（りんかん）", "note": "森で樹木の枝葉が重なり合って空をおおう上層部分。" }
+    ],
+    "usages": [
+      { "title": "① 天蓋・おおい", "desc": "覆い。", "example_en": "The bed had a lace canopy.", "example_ja": "そのベッドにはレースの天蓋があった。" },
+      { "title": "② 林冠", "desc": "森林。", "example_en": "Sunlight filtered through the forest canopy.", "example_ja": "日光が森の林冠を通して差し込んだ。" }
+    ],
+    "warn": ["canopy は「天蓋・おおい」と、森の「林冠（樹冠が空をおおう上層）」。パラシュートの傘部分も canopy。複数形は canopies。"],
+    "etym_note": "ギリシャ語 kōnōpeion（kōnōps「蚊」＝蚊帳付きの寝台）に由来。もとは蚊よけの覆いから「天蓋」へ。",
+    "etym_chain": [
+      { "node": "kōnōpeion", "sub": "蚊帳付きの寝台", "era": "古代ギリシャ語" },
+      { "node": "canopy", "sub": "天蓋・林冠", "era": "14世紀英語" }
+    ],
+    "phrases": [
+      { "en": "a forest canopy", "ja": "森の林冠" },
+      { "en": "the tree canopy", "ja": "樹冠・林冠" },
+      { "en": "a canopy bed", "ja": "天蓋付きベッド" },
+      { "en": "under a canopy", "ja": "天蓋の下で" },
+      { "en": "a canopy of leaves", "ja": "葉のおおい" },
+      { "en": "the canopy of the rainforest", "ja": "熱帯雨林の林冠" }
+    ],
+    "related": [
+      { "en": "awning", "ja": "日よけ・ひさし" },
+      { "en": "shelter", "ja": "覆い・避難所" },
+      { "en": "foliage", "ja": "葉・茂み" }
+    ],
+    "faq": [
+      { "q": "森の canopy とは？", "a": "樹木の枝葉が重なり合って空をおおう森の「上層部分（林冠・樹冠）」のことです。多くの生き物のすみかになります。" },
+      { "q": "canopy の複数形は？", "a": "canopies です（-y → -ies）。" }
+    ],
+    "quiz": [
+      { "q": "「日光が森の林冠を通して差し込んだ」= Sunlight filtered through the forest ___.", "A": "canopy", "B": "company", "C": "canyon", "D": "capacity", "correct": "A" },
+      { "q": "canopy の意味に含まれないものは？", "A": "地下室", "B": "天蓋", "C": "林冠", "D": "おおい", "correct": "A" }
+    ]
+  },
+  {
+    "english": "cloak",
+    "pron": "ˈkloʊk",
+    "kana": "クローク",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "noun",
+    "ld_etym": "中世ラテン語 clocca（鐘・釣鐘形の外套）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出語"],
+    "meaning_main": "マント / (体を覆う)外套 / 覆い隠す",
+    "description": "cloak（クローク）の意味・使い方・例文。袖のない「マント・外套」、また「(実態を)覆い隠すもの」「覆い隠す」という意味の名詞・動詞を解説。",
+    "keywords": ["cloak 意味", "cloak 使い方", "マント 英語", "覆い隠す 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】マント / 外套（がいとう）", "note": "肩から羽織る袖のない外衣。" },
+      { "hinshi": "【名詞・動詞】覆い隠すもの / 覆い隠す", "note": "実態を隠すもの。「a cloak of secrecy」で「秘密のベール」。" }
+    ],
+    "usages": [
+      { "title": "① マント", "desc": "衣類。", "example_en": "He wore a long black cloak.", "example_ja": "彼は長い黒いマントを着ていた。" },
+      { "title": "② 覆い隠す", "desc": "比喩。", "example_en": "The plan was cloaked in secrecy.", "example_ja": "その計画は秘密に包まれていた。" }
+    ],
+    "warn": ["cloak は「マント・外套」と、比喩「覆い隠す(もの)」。「cloak-and-dagger（陰謀・スパイもの）」の表現も。荷物を預ける「クローク（cloakroom）」もこの語（もとは外套を預ける所）。"],
+    "etym_note": "中世ラテン語 clocca（鐘）に由来。釣鐘のような形の外套を指したことから「マント」に。cloakroom（携帯品預かり所）はもと外套を預ける部屋。",
+    "etym_chain": [
+      { "node": "clocca", "sub": "鐘・釣鐘形の外套", "era": "中世ラテン語" },
+      { "node": "cloak", "sub": "マント・覆い隠す", "era": "13世紀英語" }
+    ],
+    "phrases": [
+      { "en": "a long cloak", "ja": "長いマント" },
+      { "en": "cloak-and-dagger", "ja": "陰謀の・スパイもの的な" },
+      { "en": "a cloak of secrecy", "ja": "秘密のベール" },
+      { "en": "cloaked in mystery", "ja": "謎に包まれて" },
+      { "en": "under the cloak of", "ja": "〜に隠れて・〜に乗じて" },
+      { "en": "a cloakroom", "ja": "携帯品預かり所・クローク" }
+    ],
+    "related": [
+      { "en": "cape", "ja": "ケープ（短いマント）" },
+      { "en": "conceal", "ja": "隠す" },
+      { "en": "disguise", "ja": "変装・隠す" }
+    ],
+    "faq": [
+      { "q": "cloak-and-dagger の意味は？", "a": "「陰謀・スパイ活動にまつわる」という意味の表現です（マントと短剣＝密偵のイメージ）。" },
+      { "q": "荷物を預ける「クローク」との関係は？", "a": "cloakroom（携帯品預かり所）はもともと外套（cloak）を預ける部屋を指したことに由来します。" }
+    ],
+    "quiz": [
+      { "q": "「彼は長い黒いマントを着ていた」= He wore a long black ___.", "A": "cloak", "B": "clock", "C": "block", "D": "clerk", "correct": "A" },
+      { "q": "cloak の比喩の意味は？", "A": "覆い隠す（もの）", "B": "急がせる", "C": "祝う", "D": "数える", "correct": "A" }
+    ]
+  },
+  {
+    "english": "commotion",
+    "pron": "kəˈmoʊʃn",
+    "kana": "コモーション",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 commotio（動揺・混乱）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "頻出語"],
+    "meaning_main": "騒動 / 動揺 / 混乱",
+    "description": "commotion（コモーション）の意味・使い方・例文。人々が騒ぎ立てる「騒動・混乱・動揺」という意味の名詞を解説。",
+    "keywords": ["commotion 意味", "commotion 使い方", "騒動 英語", "混乱 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】騒動 / 騒ぎ / 混乱", "note": "急に人々が騒ぎ立てて生じる混乱・動揺。「cause a commotion」で「騒ぎを起こす」。" }
+    ],
+    "usages": [
+      { "title": "① 騒動", "desc": "混乱。", "example_en": "There was a commotion in the street.", "example_ja": "通りで騒動が起きていた。" },
+      { "title": "② 騒ぎを起こす", "desc": "使い方。", "example_en": "The news caused quite a commotion.", "example_ja": "その知らせはかなりの騒ぎを引き起こした。" }
+    ],
+    "warn": ["commotion は「騒動・混乱・動揺」。「cause/create a commotion（騒ぎを起こす）」が頻出。com-（共に）+ motion（動き）＝「みなが動いて騒ぐこと」。"],
+    "etym_note": "ラテン語 commotio（com-「共に」+ motio「動き」＝みなが動くこと・動揺）に由来。motion（動き）と同語源。",
+    "etym_chain": [
+      { "node": "commotio", "sub": "動揺・混乱", "era": "ラテン語" },
+      { "node": "commotion", "sub": "騒動・混乱", "era": "14世紀英語" }
+    ],
+    "phrases": [
+      { "en": "cause a commotion", "ja": "騒ぎを起こす" },
+      { "en": "create a commotion", "ja": "騒動を引き起こす" },
+      { "en": "a sudden commotion", "ja": "突然の騒ぎ" },
+      { "en": "amid the commotion", "ja": "騒ぎの最中に" },
+      { "en": "hear a commotion", "ja": "騒ぎ声を聞く" },
+      { "en": "quite a commotion", "ja": "かなりの騒ぎ" }
+    ],
+    "related": [
+      { "en": "disturbance", "ja": "騒動・妨害" },
+      { "en": "uproar", "ja": "大騒ぎ" },
+      { "en": "chaos", "ja": "混乱・大混乱" }
+    ],
+    "faq": [
+      { "q": "commotion の成り立ちは？", "a": "com-（共に）+ motion（動き）で、「みなが動いて騒ぐこと＝騒動・混乱」を意味します。" },
+      { "q": "cause a commotion の意味は？", "a": "「騒ぎ・騒動を引き起こす」という意味の表現です。" }
+    ],
+    "quiz": [
+      { "q": "「通りで騒動が起きていた」= There was a ___ in the street.", "A": "commotion", "B": "commission", "C": "completion", "D": "connection", "correct": "A" },
+      { "q": "commotion の意味は？", "A": "騒動・混乱", "B": "静けさ", "C": "喜び", "D": "疲れ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "composed",
+    "pron": "kəmˈpoʊzd",
+    "kana": "コンポーズド",
+    "hinshi": "形容詞 / 動詞（compose の過去形）",
+    "ld_pos": "adjective",
+    "ld_etym": "ラテン語 componere（組み立てる）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出語"],
+    "meaning_main": "落ち着いた / 冷静な / 〜から成る",
+    "description": "composed（コンポーズド）の意味・使い方・例文。感情を抑えて「落ち着いた・冷静な」という形容詞、また compose（構成する・作曲する）の過去形を解説。",
+    "keywords": ["composed 意味", "composed 使い方", "落ち着いた 英語", "冷静な 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】落ち着いた / 冷静な", "note": "感情を抑え、取り乱していないさま。calm に近い。" },
+      { "hinshi": "【動詞】compose の過去形・過去分詞", "note": "compose（構成する・作曲する・(気持ちを)静める）の過去形。「be composed of 〜」で「〜から成る」。" }
+    ],
+    "usages": [
+      { "title": "① 冷静な", "desc": "態度。", "example_en": "She stayed calm and composed.", "example_ja": "彼女は冷静で落ち着いたままだった。" },
+      { "title": "② 〜から成る", "desc": "be composed of。", "example_en": "Water is composed of hydrogen and oxygen.", "example_ja": "水は水素と酸素から成る。" }
+    ],
+    "warn": ["composed は形容詞「落ち着いた」と、compose の過去形。「be composed of 〜（〜から構成される）」が頻出。動詞 compose は「構成する・作曲する・(気を)静める」。名詞 composure（落ち着き）、composition（構成・作曲）。"],
+    "etym_note": "ラテン語 componere（com-「共に」+ ponere「置く」＝組み立てる）に由来する compose の過去分詞・形容詞。「よくまとまった＝落ち着いた」へ。",
+    "etym_chain": [
+      { "node": "componere", "sub": "組み立てる", "era": "ラテン語" },
+      { "node": "compose", "sub": "構成する・落ち着かせる", "era": "15世紀英語" },
+      { "node": "composed", "sub": "落ち着いた", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "calm and composed", "ja": "冷静で落ち着いた" },
+      { "en": "be composed of", "ja": "〜から構成される" },
+      { "en": "remain composed", "ja": "落ち着きを保つ" },
+      { "en": "a composed manner", "ja": "落ち着いた態度" },
+      { "en": "look composed", "ja": "落ち着いて見える" },
+      { "en": "regain composure", "ja": "落ち着きを取り戻す" }
+    ],
+    "related": [
+      { "en": "compose", "ja": "構成する・作曲する・静める" },
+      { "en": "composure", "ja": "落ち着き・平静" },
+      { "en": "calm", "ja": "穏やかな・冷静な" }
+    ],
+    "faq": [
+      { "q": "be composed of の意味は？", "a": "「〜から構成される・〜から成る」という意味です。be made up of とほぼ同じです。" },
+      { "q": "composed の名詞は？", "a": "落ち着きの意では composure、構成・作曲の意では composition です。" }
+    ],
+    "quiz": [
+      { "q": "「彼女は冷静で落ち着いたままだった」= She stayed calm and ___.", "A": "composed", "B": "confused", "C": "concerned", "D": "confined", "correct": "A" },
+      { "q": "「水は水素と酸素から成る」= Water is ___ of hydrogen and oxygen.", "A": "composed", "B": "consisted", "C": "contained", "D": "comprised", "correct": "A" }
+    ]
+  },
+  {
+    "english": "comprehension",
+    "pron": "ˌkɑːmprɪˈhenʃn",
+    "kana": "コンプリヘンション",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 comprehendere（把握する）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "学習で頻出"],
+    "meaning_main": "理解 / 理解力 / 読解",
+    "description": "comprehension（コンプリヘンション）の意味・使い方・例文。物事を「理解すること・理解力」、また学習の「読解（問題）」という意味の名詞を解説。",
+    "keywords": ["comprehension 意味", "comprehension 使い方", "理解 英語", "読解 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】理解 / 理解力", "note": "物事の意味をつかむこと・その能力。「beyond comprehension」で「理解を超えて」。" },
+      { "hinshi": "【名詞】読解（問題）", "note": "文章を読んで内容を理解する学習・テスト。「reading comprehension」で「読解」。" }
+    ],
+    "usages": [
+      { "title": "① 理解", "desc": "把握。", "example_en": "The topic is beyond my comprehension.", "example_ja": "その話題は私の理解を超えている。" },
+      { "title": "② 読解", "desc": "学習。", "example_en": "We had a reading comprehension test.", "example_ja": "私たちは読解のテストを受けた。" }
+    ],
+    "warn": ["comprehension は「理解・理解力・読解」。動詞 comprehend（理解する）、形容詞 comprehensible（理解できる）/ comprehensive（包括的な）。comprehensive とは意味が違うので注意。"],
+    "etym_note": "ラテン語 comprehendere（com-「共に」+ prehendere「つかむ」＝しっかりつかむ）に由来する comprehend の名詞形。「意味をつかむこと」を意味する。",
+    "etym_chain": [
+      { "node": "comprehendere", "sub": "把握する", "era": "ラテン語" },
+      { "node": "comprehend", "sub": "理解する", "era": "14世紀英語" },
+      { "node": "comprehension", "sub": "理解・読解", "era": "16世紀英語" }
+    ],
+    "phrases": [
+      { "en": "reading comprehension", "ja": "読解" },
+      { "en": "beyond comprehension", "ja": "理解を超えて" },
+      { "en": "listening comprehension", "ja": "リスニング（聞き取り）" },
+      { "en": "ease of comprehension", "ja": "理解のしやすさ" },
+      { "en": "a comprehension test", "ja": "読解テスト" },
+      { "en": "lack of comprehension", "ja": "理解の欠如" }
+    ],
+    "related": [
+      { "en": "comprehend", "ja": "理解する" },
+      { "en": "understanding", "ja": "理解" },
+      { "en": "comprehensible", "ja": "理解できる" }
+    ],
+    "faq": [
+      { "q": "comprehension と comprehensive の違いは？", "a": "comprehension は名詞「理解・読解」、comprehensive は形容詞「包括的な・総合的な」で、意味が異なります。" },
+      { "q": "reading comprehension とは？", "a": "文章を読んで内容を理解する力、またそれを問う「読解（問題）」のことです。" }
+    ],
+    "quiz": [
+      { "q": "「その話題は私の理解を超えている」= The topic is beyond my ___.", "A": "comprehension", "B": "composition", "C": "competition", "D": "compensation", "correct": "A" },
+      { "q": "comprehension の動詞形は？", "A": "comprehend", "B": "compress", "C": "compose", "D": "compare", "correct": "A" }
+    ]
+  },
+  {
+    "english": "comprehensive",
+    "pron": "ˌkɑːmprɪˈhensɪv",
+    "kana": "コンプリヘンシブ",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "ラテン語 comprehendere（すべてを含む）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B2", "論説で頻出"],
+    "meaning_main": "包括的な / 総合的な / 網羅的な",
+    "description": "comprehensive（コンプリヘンシブ）の意味・使い方・例文。必要な範囲をすべて含む「包括的な・総合的な・網羅的な」という意味の形容詞を解説。",
+    "keywords": ["comprehensive 意味", "comprehensive 使い方", "包括的な 英語", "総合的な 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】包括的な / 総合的な / 網羅的な", "note": "必要な要素・範囲を広くすべて含んでいる。「a comprehensive guide」で「総合的な手引き」。" }
+    ],
+    "usages": [
+      { "title": "① 包括的な", "desc": "広く網羅。", "example_en": "The report is very comprehensive.", "example_ja": "その報告書はとても包括的だ。" },
+      { "title": "② 総合的な計画", "desc": "全体的。", "example_en": "They need a comprehensive plan.", "example_ja": "彼らには総合的な計画が必要だ。" }
+    ],
+    "warn": ["comprehensive は「包括的な・網羅的な」。理解の comprehension、理解できる comprehensible と混同注意。副詞 comprehensively（包括的に）。保険では「総合（車両）保険」を comprehensive insurance という。"],
+    "etym_note": "ラテン語 comprehendere（すべてをつかむ・含む）に由来。「必要なものを広く含んでいる」を意味する。",
+    "etym_chain": [
+      { "node": "comprehendere", "sub": "すべてを含む・把握する", "era": "ラテン語" },
+      { "node": "comprehensive", "sub": "包括的な", "era": "17世紀英語" }
+    ],
+    "phrases": [
+      { "en": "a comprehensive guide", "ja": "総合的な手引き" },
+      { "en": "a comprehensive plan", "ja": "総合的な計画" },
+      { "en": "comprehensive coverage", "ja": "包括的な補償・網羅" },
+      { "en": "a comprehensive study", "ja": "包括的な研究" },
+      { "en": "comprehensive insurance", "ja": "総合保険・車両保険" },
+      { "en": "a comprehensive list", "ja": "網羅的なリスト" }
+    ],
+    "related": [
+      { "en": "thorough", "ja": "徹底的な" },
+      { "en": "extensive", "ja": "広範囲の" },
+      { "en": "comprehension", "ja": "理解（混同注意）" }
+    ],
+    "faq": [
+      { "q": "comprehensive と comprehension の違いは？", "a": "comprehensive は形容詞「包括的な・網羅的な」、comprehension は名詞「理解・読解」です。" },
+      { "q": "comprehensive の類義語は？", "a": "thorough（徹底的な）、extensive（広範な）、all-inclusive（すべてを含む）などです。" }
+    ],
+    "quiz": [
+      { "q": "「その報告書はとても包括的だ」= The report is very ___.", "A": "comprehensive", "B": "comprehension", "C": "compressive", "D": "competitive", "correct": "A" },
+      { "q": "comprehensive の意味は？", "A": "包括的な・網羅的な", "B": "部分的な", "C": "競争的な", "D": "圧縮する", "correct": "A" }
+    ]
+  }
+]
