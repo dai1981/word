@@ -1,0 +1,963 @@
+[
+  {
+    "english": "fit",
+    "pron": "ˈfɪt",
+    "kana": "フィット",
+    "hinshi": "動詞 / 形容詞 / 名詞",
+    "ld_pos": "verb",
+    "ld_etym": "中英語 fitten（合う）",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A1", "頻出語"],
+    "meaning_main": "(サイズが)合う / ぴったりの / 健康な",
+    "description": "fit（フィット）の意味・使い方・例文。サイズが合う、ぴったりはまる、また形容詞で「健康な・適した」という意味を解説。",
+    "keywords": ["fit 意味", "fit 使い方", "サイズが合う 英語", "健康な 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】(サイズ・形が)合う / ぴったりはまる", "note": "服・部品などが合う。fit – fit(fitted) – fit(fitted)。" },
+      { "hinshi": "【形容詞】健康な / 適した", "note": "体調がよい、ふさわしい。「keep fit」で「健康を保つ」。" },
+      { "hinshi": "【名詞】適合 / (発作の)ひきつけ", "note": "合い具合。「a fit of anger」で「かっとなること」。" }
+    ],
+    "usages": [
+      { "title": "① サイズが合う", "desc": "動詞として。", "example_en": "These shoes don't fit me.", "example_ja": "この靴は私に合わない。" },
+      { "title": "② 健康な", "desc": "形容詞として。", "example_en": "He stays fit by running.", "example_ja": "彼は走ることで健康を保っている。" }
+    ],
+    "warn": ["fit は「(サイズが)合う」「健康な」「適した」など多義。服が「似合う（色・スタイル）」は suit、大きさが「合う」は fit と使い分ける。"],
+    "etym_note": "中英語 fitten（適合する・整える）に由来。「ちょうど合う」を基本の意味とする。",
+    "etym_chain": [
+      { "node": "fitten", "sub": "合う・整える", "era": "中英語" },
+      { "node": "fit", "sub": "合う・健康な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "fit well", "ja": "よく合う" },
+      { "en": "keep fit", "ja": "健康を保つ" },
+      { "en": "a perfect fit", "ja": "ぴったり合うこと" },
+      { "en": "fit in", "ja": "溶け込む・うまくはまる" },
+      { "en": "physically fit", "ja": "体が健康な" },
+      { "en": "a fit of anger", "ja": "かっとなること" }
+    ],
+    "related": [
+      { "en": "suit", "ja": "似合う" },
+      { "en": "match", "ja": "調和する・合う" },
+      { "en": "fitness", "ja": "健康・適性" }
+    ],
+    "faq": [
+      { "q": "fit と suit の違いは？", "a": "fit は「サイズ・大きさが合う」、suit は「(色・スタイルが)似合う」を表します。" },
+      { "q": "keep fit の意味は？", "a": "「(運動などで)健康・体調を保つ」という意味です。" }
+    ],
+    "quiz": [
+      { "q": "「この靴は私に合わない」= These shoes don't ___ me.", "A": "fit", "B": "fix", "C": "fill", "D": "feel", "correct": "A" },
+      { "q": "keep fit の意味は？", "A": "健康を保つ", "B": "静かにする", "C": "急いで走る", "D": "服を買う", "correct": "A" }
+    ]
+  },
+  {
+    "english": "fix",
+    "pron": "ˈfɪks",
+    "kana": "フィックス",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "verb",
+    "ld_etym": "ラテン語 fixus（固定された）",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "頻出語"],
+    "meaning_main": "修理する / 固定する / 決める / 用意する",
+    "description": "fix（フィックス）の意味・使い方・例文。壊れたものを修理する、しっかり固定する、日時を決める、食事を用意する、という意味の動詞を解説。",
+    "keywords": ["fix 意味", "fix 使い方", "修理する 英語", "固定する 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】修理する / 直す", "note": "壊れたもの・問題を直す。repair に近い。" },
+      { "hinshi": "【動詞】固定する / 取り付ける", "note": "動かないようしっかり留める。" },
+      { "hinshi": "【動詞】(日時などを)決める / (食事を)用意する", "note": "「fix a date」で日取りを決める、「fix dinner」で夕食を作る。" }
+    ],
+    "usages": [
+      { "title": "① 修理する", "desc": "動詞として。", "example_en": "Can you fix my bike?", "example_ja": "私の自転車を直してくれる？" },
+      { "title": "② 日時を決める", "desc": "予定。", "example_en": "Let's fix a date for the meeting.", "example_ja": "会議の日取りを決めましょう。" }
+    ],
+    "warn": ["fix は「修理する・固定する・決める・用意する」と多義。米口語では「fix dinner（夕食を作る）」も。名詞で「a quick fix（その場しのぎの解決）」も頻出。"],
+    "etym_note": "ラテン語 fixus（figere「固定する」の過去分詞＝固定された）に由来。「固定する」から「直す・決める」へ広がった。",
+    "etym_chain": [
+      { "node": "figere", "sub": "固定する", "era": "ラテン語" },
+      { "node": "fixus", "sub": "固定された", "era": "ラテン語" },
+      { "node": "fix", "sub": "固定する・直す", "era": "15世紀英語" }
+    ],
+    "phrases": [
+      { "en": "fix a problem", "ja": "問題を解決する" },
+      { "en": "fix a date", "ja": "日取りを決める" },
+      { "en": "fix a car", "ja": "車を修理する" },
+      { "en": "a quick fix", "ja": "その場しのぎの解決策" },
+      { "en": "fix in place", "ja": "所定の位置に固定する" },
+      { "en": "fix dinner", "ja": "夕食を用意する" }
+    ],
+    "related": [
+      { "en": "repair", "ja": "修理する" },
+      { "en": "mend", "ja": "直す・繕う" },
+      { "en": "fasten", "ja": "留める・固定する" }
+    ],
+    "faq": [
+      { "q": "fix と repair の違いは？", "a": "ほぼ同義ですが、fix はより口語的で幅広く「直す・解決する」に使い、repair はやや正式で「(機械などを)修理する」に使います。" },
+      { "q": "a quick fix の意味は？", "a": "「その場しのぎの手っ取り早い解決策」という意味の表現です。" }
+    ],
+    "quiz": [
+      { "q": "「私の自転車を直してくれる？」= Can you ___ my bike?", "A": "fix", "B": "fit", "C": "fill", "D": "fine", "correct": "A" },
+      { "q": "fix の意味に含まれないものは？", "A": "壊す", "B": "修理する", "C": "固定する", "D": "決める", "correct": "A" }
+    ]
+  },
+  {
+    "english": "fossil",
+    "pron": "ˈfɑːsl",
+    "kana": "フォッスル",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 fossilis（掘り出された）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "科学"],
+    "meaning_main": "化石",
+    "description": "fossil（フォッスル）の意味・使い方・例文。大昔の生物が地層に残した「化石」を表す名詞を解説。fossil fuel（化石燃料）でも頻出。",
+    "keywords": ["fossil 意味", "fossil 使い方", "化石 英語", "化石燃料 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】化石", "note": "大昔の生物の骨・跡が地層の中で石のように残ったもの。" }
+    ],
+    "usages": [
+      { "title": "① 化石", "desc": "科学・地質。", "example_en": "They found a dinosaur fossil in the rock.", "example_ja": "彼らは岩の中から恐竜の化石を見つけた。" },
+      { "title": "② 化石燃料", "desc": "エネルギー。", "example_en": "Coal and oil are fossil fuels.", "example_ja": "石炭と石油は化石燃料だ。" }
+    ],
+    "warn": ["fossil は「化石」。fossil fuel（化石燃料）は石炭・石油・天然ガスの総称。比喩で「時代遅れの人・物」を指すことも。"],
+    "etym_note": "ラテン語 fossilis（fodere「掘る」から＝掘り出されたもの）に由来。「地中から掘り出したもの」を意味する。",
+    "etym_chain": [
+      { "node": "fodere", "sub": "掘る", "era": "ラテン語" },
+      { "node": "fossilis", "sub": "掘り出された", "era": "ラテン語" },
+      { "node": "fossil", "sub": "化石", "era": "17世紀英語" }
+    ],
+    "phrases": [
+      { "en": "a dinosaur fossil", "ja": "恐竜の化石" },
+      { "en": "fossil fuel", "ja": "化石燃料" },
+      { "en": "a fossil record", "ja": "化石記録" },
+      { "en": "find a fossil", "ja": "化石を見つける" },
+      { "en": "a marine fossil", "ja": "海の生物の化石" },
+      { "en": "a living fossil", "ja": "生きた化石" }
+    ],
+    "related": [
+      { "en": "dinosaur", "ja": "恐竜" },
+      { "en": "extinct", "ja": "絶滅した" },
+      { "en": "geology", "ja": "地質学" }
+    ],
+    "faq": [
+      { "q": "fossil fuel とは？", "a": "石炭・石油・天然ガスなど、大昔の生物が変化してできた「化石燃料」のことです。" },
+      { "q": "a living fossil とは？", "a": "「生きた化石」＝大昔からほとんど姿を変えず現存する生物（シーラカンスなど）を指す表現です。" }
+    ],
+    "quiz": [
+      { "q": "「彼らは岩の中から恐竜の化石を見つけた」= They found a dinosaur ___ in the rock.", "A": "fossil", "B": "flossil", "C": "fossel", "D": "fusil", "correct": "A" },
+      { "q": "fossil fuel に含まれるのは？", "A": "石炭・石油", "B": "太陽光", "C": "風力", "D": "水力", "correct": "A" }
+    ]
+  },
+  {
+    "english": "france",
+    "pron": "ˈfræns",
+    "kana": "フランス",
+    "hinshi": "固有名詞（国名）",
+    "ld_pos": "proper noun",
+    "ld_etym": "ゲルマン系部族 Franks（フランク族）にちなむ",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "地理で頻出"],
+    "meaning_main": "フランス（西ヨーロッパの国）",
+    "description": "France（フランス）の意味・使い方・例文。西ヨーロッパの国「フランス」を表す固有名詞を解説。首都パリ。",
+    "keywords": ["France 意味", "フランス 英語", "France 首都", "フランス 英語表記"],
+    "meanings": [
+      { "hinshi": "【固有名詞】フランス", "note": "西ヨーロッパの共和国。首都パリ。芸術・料理・ファッションで名高い。" }
+    ],
+    "usages": [
+      { "title": "① 国として", "desc": "地理。", "example_en": "France is famous for its wine and cheese.", "example_ja": "フランスはワインとチーズで有名だ。" },
+      { "title": "② 旅行・文化", "desc": "場所。", "example_en": "We visited Paris in France.", "example_ja": "私たちはフランスのパリを訪れた。" }
+    ],
+    "warn": ["France は国名。形容詞・国民・言語は French（フランスの・フランス人・フランス語）。首都は Paris（パリ）。"],
+    "etym_note": "ゲルマン系の部族 Franks（フランク族）の地を意味する Francia に由来。「フランク族の国」を意味する。",
+    "etym_chain": [
+      { "node": "Franks", "sub": "フランク族", "era": "ゲルマン系部族" },
+      { "node": "Francia", "sub": "フランク族の地", "era": "中世ラテン語" },
+      { "node": "France", "sub": "フランス", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the south of France", "ja": "南フランス" },
+      { "en": "made in France", "ja": "フランス製" },
+      { "en": "travel to France", "ja": "フランスへ旅行する" },
+      { "en": "the capital of France", "ja": "フランスの首都" },
+      { "en": "the king of France", "ja": "フランス王" },
+      { "en": "live in France", "ja": "フランスに住む" }
+    ],
+    "related": [
+      { "en": "French", "ja": "フランスの・フランス人・フランス語" },
+      { "en": "Paris", "ja": "パリ（首都）" },
+      { "en": "Europe", "ja": "ヨーロッパ" }
+    ],
+    "faq": [
+      { "q": "France の首都は？", "a": "パリ（Paris）です。" },
+      { "q": "France の形容詞・言語は？", "a": "どちらも French で、「フランスの・フランス人・フランス語」を表します。" }
+    ],
+    "quiz": [
+      { "q": "「フランスはワインとチーズで有名だ」= ___ is famous for its wine and cheese.", "A": "France", "B": "Greece", "C": "Ghana", "D": "Georgia", "correct": "A" },
+      { "q": "France の首都は？", "A": "パリ", "B": "ローマ", "C": "ベルリン", "D": "マドリード", "correct": "A" }
+    ]
+  },
+  {
+    "english": "freight",
+    "pron": "ˈfreɪt",
+    "kana": "フレイト",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "中期オランダ語 vrecht（運送料・積み荷）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出語"],
+    "meaning_main": "貨物 / 貨物輸送 / 運送料",
+    "description": "freight（フレイト）の意味・使い方・例文。船・列車・トラックで運ぶ「貨物」、また貨物輸送・運送料という意味の名詞を解説。ei で「エイ」と読む。",
+    "keywords": ["freight 意味", "freight 使い方", "貨物 英語", "貨物輸送 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】貨物 / 積み荷", "note": "船・列車・トラック・飛行機で運ぶ荷物。" },
+      { "hinshi": "【名詞】貨物輸送 / 運送料", "note": "貨物を運ぶこと、またその料金。「freight train」で「貨物列車」。" }
+    ],
+    "usages": [
+      { "title": "① 貨物", "desc": "輸送。", "example_en": "The freight was loaded onto the ship.", "example_ja": "貨物が船に積み込まれた。" },
+      { "title": "② 貨物列車", "desc": "鉄道。", "example_en": "A long freight train passed by.", "example_ja": "長い貨物列車が通り過ぎた。" }
+    ],
+    "warn": ["freight は「貨物・貨物輸送」。ei は「エイ」/eɪ/ と読む（eight と同じ）。cargo（積み荷）と近いが、freight は輸送全般・運送料も指す。"],
+    "etym_note": "中期オランダ語・低地ドイツ語 vrecht（運送料・積み荷）に由来。海運を通じて英語に入った。",
+    "etym_chain": [
+      { "node": "vrecht", "sub": "運送料・積み荷", "era": "中期オランダ語" },
+      { "node": "freight", "sub": "貨物", "era": "15世紀英語" }
+    ],
+    "phrases": [
+      { "en": "a freight train", "ja": "貨物列車" },
+      { "en": "air freight", "ja": "航空貨物" },
+      { "en": "freight charges", "ja": "運送料" },
+      { "en": "freight company", "ja": "運送会社" },
+      { "en": "load freight", "ja": "貨物を積む" },
+      { "en": "freight forwarder", "ja": "貨物輸送業者" }
+    ],
+    "related": [
+      { "en": "cargo", "ja": "積み荷・貨物" },
+      { "en": "shipment", "ja": "積み荷・発送" },
+      { "en": "transport", "ja": "輸送" }
+    ],
+    "faq": [
+      { "q": "freight の発音は？", "a": "「フレイト」/freɪt/ で、ei は eight と同じ「エイ」の音です。" },
+      { "q": "freight と cargo の違いは？", "a": "どちらも「貨物」ですが、freight は輸送そのものや運送料も含む広い語、cargo は主に船・飛行機の「積み荷」を指します。" }
+    ],
+    "quiz": [
+      { "q": "「長い貨物列車が通り過ぎた」= A long ___ train passed by.", "A": "freight", "B": "flight", "C": "fright", "D": "freeze", "correct": "A" },
+      { "q": "freight の意味は？", "A": "貨物・貨物輸送", "B": "恐怖", "C": "飛行", "D": "凍結", "correct": "A" }
+    ]
+  },
+  {
+    "english": "fungus",
+    "pron": "ˈfʌŋɡəs",
+    "kana": "ファンガス",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 fungus（きのこ）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "科学・生物"],
+    "meaning_main": "菌類 / カビ / きのこ",
+    "description": "fungus（ファンガス）の意味・使い方・例文。カビ・きのこ・酵母などを含む「菌類」を表す名詞を解説。複数形は fungi。",
+    "keywords": ["fungus 意味", "fungus 使い方", "菌類 英語", "カビ 英語", "fungi 複数形"],
+    "meanings": [
+      { "hinshi": "【名詞】菌類 / カビ / きのこ", "note": "植物でも動物でもない生物のグループ。カビ・きのこ・酵母を含む。複数形は fungi（ファンジャイ／ファンガイ）。" }
+    ],
+    "usages": [
+      { "title": "① カビ・菌", "desc": "生物。", "example_en": "A fungus was growing on the old bread.", "example_ja": "古いパンにカビ（菌）が生えていた。" },
+      { "title": "② 菌類の研究", "desc": "科学。", "example_en": "Mushrooms are a type of fungus.", "example_ja": "きのこは菌類の一種だ。" }
+    ],
+    "warn": ["fungus の複数形は fungi。菌類はカビ・きのこ・酵母を含み、植物とは別のグループ。形容詞は fungal（菌類の）。"],
+    "etym_note": "ラテン語 fungus（きのこ）に由来。ギリシャ語 sphongos（スポンジ）とも関連する。",
+    "etym_chain": [
+      { "node": "fungus", "sub": "きのこ", "era": "ラテン語" },
+      { "node": "fungus", "sub": "菌類・カビ", "era": "16世紀英語" }
+    ],
+    "phrases": [
+      { "en": "a type of fungus", "ja": "菌類の一種" },
+      { "en": "fungi and bacteria", "ja": "菌類と細菌" },
+      { "en": "a fungal infection", "ja": "真菌感染症" },
+      { "en": "grow fungus", "ja": "カビが生える" },
+      { "en": "toe fungus", "ja": "足の水虫菌" },
+      { "en": "edible fungi", "ja": "食用きのこ" }
+    ],
+    "related": [
+      { "en": "mold", "ja": "カビ" },
+      { "en": "mushroom", "ja": "きのこ" },
+      { "en": "bacteria", "ja": "細菌" }
+    ],
+    "faq": [
+      { "q": "fungus の複数形は？", "a": "fungi（ファンジャイ）です。ラテン語由来の複数形です。" },
+      { "q": "菌類は植物？", "a": "いいえ。菌類（fungus/fungi）は植物とも動物とも異なる独自のグループで、カビ・きのこ・酵母を含みます。" }
+    ],
+    "quiz": [
+      { "q": "「きのこは菌類の一種だ」= Mushrooms are a type of ___.", "A": "fungus", "B": "focus", "C": "famous", "D": "furnace", "correct": "A" },
+      { "q": "fungus の複数形は？", "A": "fungi", "B": "funguses only", "C": "fungas", "D": "fungums", "correct": "A" }
+    ]
+  },
+  {
+    "english": "furniture",
+    "pron": "ˈfɜːrnɪtʃər",
+    "kana": "ファーニチャー",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "フランス語 fourniture（備え付け）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "頻出語"],
+    "meaning_main": "家具（総称）",
+    "description": "furniture（ファーニチャー）の意味・使い方・例文。机・いす・ベッドなどの「家具」を表す名詞を解説。数えられない名詞（不可算）である点に注意。",
+    "keywords": ["furniture 意味", "furniture 使い方", "家具 英語", "furniture 不可算"],
+    "meanings": [
+      { "hinshi": "【名詞】家具（総称・不可算）", "note": "机・いす・ベッド・棚などの総称。数えられない名詞なので a furniture や furnitures とは言わない。1点は a piece of furniture。" }
+    ],
+    "usages": [
+      { "title": "① 家具全般", "desc": "総称。", "example_en": "We bought new furniture for the living room.", "example_ja": "私たちは居間の新しい家具を買った。" },
+      { "title": "② 1点の家具", "desc": "数える形。", "example_en": "This is an expensive piece of furniture.", "example_ja": "これは高価な家具（1点）だ。" }
+    ],
+    "warn": ["furniture は数えられない名詞（不可算）。× a furniture / furnitures とは言わず、1点は a piece of furniture、数量は some/much furniture で表す。"],
+    "etym_note": "フランス語 fourniture（fournir「備え付ける・供給する」から＝備え付けるもの）に由来。",
+    "etym_chain": [
+      { "node": "fournir", "sub": "備え付ける・供給する", "era": "フランス語" },
+      { "node": "furniture", "sub": "家具", "era": "16世紀英語" }
+    ],
+    "phrases": [
+      { "en": "a piece of furniture", "ja": "家具1点" },
+      { "en": "office furniture", "ja": "オフィス家具" },
+      { "en": "wooden furniture", "ja": "木製家具" },
+      { "en": "arrange the furniture", "ja": "家具を配置する" },
+      { "en": "antique furniture", "ja": "アンティーク家具" },
+      { "en": "furniture store", "ja": "家具店" }
+    ],
+    "related": [
+      { "en": "furnish", "ja": "家具を備え付ける" },
+      { "en": "chair", "ja": "いす" },
+      { "en": "table", "ja": "机・テーブル" }
+    ],
+    "faq": [
+      { "q": "furniture は数えられる？", "a": "いいえ、数えられない名詞（不可算）です。1点を数えるときは a piece of furniture と言います。" },
+      { "q": "furniture の動詞は？", "a": "furnish（家具を備え付ける）です。" }
+    ],
+    "quiz": [
+      { "q": "「これは高価な家具（1点）だ」= This is an expensive ___ of furniture.", "A": "piece", "B": "sheet", "C": "slice", "D": "loaf", "correct": "A" },
+      { "q": "furniture の性質として正しいのは？", "A": "数えられない名詞", "B": "常に複数形", "C": "a をつけて数える", "D": "動詞", "correct": "A" }
+    ]
+  },
+  {
+    "english": "guilty",
+    "pron": "ˈɡɪlti",
+    "kana": "ギルティ",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "古英語 gyltig（罪のある）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出語"],
+    "meaning_main": "有罪の / 罪の意識のある / 後ろめたい",
+    "description": "guilty（ギルティ）の意味・使い方・例文。罪を犯した「有罪の」、また悪いことをしたと感じる「後ろめたい」という意味の形容詞を解説。",
+    "keywords": ["guilty 意味", "guilty 使い方", "有罪 英語", "後ろめたい 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】有罪の / 罪を犯した", "note": "法的に罪があると認められた。innocent（無罪の）の反対。" },
+      { "hinshi": "【形容詞】罪の意識のある / 後ろめたい", "note": "「feel guilty」で「後ろめたく感じる」。" }
+    ],
+    "usages": [
+      { "title": "① 有罪の", "desc": "裁判。", "example_en": "The jury found him guilty.", "example_ja": "陪審は彼を有罪とした。" },
+      { "title": "② 後ろめたい", "desc": "感情。", "example_en": "I feel guilty about forgetting her birthday.", "example_ja": "彼女の誕生日を忘れて後ろめたい。" }
+    ],
+    "warn": ["guilty は「有罪の」と「後ろめたい」。反対は innocent（無罪の・無実の）。名詞は guilt（罪・罪悪感）。「guilty of 〜」で「〜の罪を犯した」。"],
+    "etym_note": "古英語 gyltig（gylt「罪」から＝罪のある）に由来。",
+    "etym_chain": [
+      { "node": "gylt", "sub": "罪", "era": "古英語" },
+      { "node": "gyltig", "sub": "罪のある", "era": "古英語" },
+      { "node": "guilty", "sub": "有罪の・後ろめたい", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "feel guilty", "ja": "後ろめたく感じる" },
+      { "en": "guilty of", "ja": "〜の罪を犯した" },
+      { "en": "plead guilty", "ja": "罪を認める" },
+      { "en": "a guilty conscience", "ja": "やましい良心" },
+      { "en": "found guilty", "ja": "有罪と判断される" },
+      { "en": "a guilty pleasure", "ja": "後ろめたい楽しみ" }
+    ],
+    "related": [
+      { "en": "guilt", "ja": "罪・罪悪感" },
+      { "en": "innocent", "ja": "無罪の・無実の（反意）" },
+      { "en": "ashamed", "ja": "恥じている" }
+    ],
+    "faq": [
+      { "q": "guilty の反対語は？", "a": "innocent（無罪の・無実の）です。" },
+      { "q": "feel guilty の意味は？", "a": "「(悪いことをしたと)後ろめたく・やましく感じる」という意味です。" }
+    ],
+    "quiz": [
+      { "q": "「陪審は彼を有罪とした」= The jury found him ___.", "A": "guilty", "B": "guilt", "C": "gently", "D": "guild", "correct": "A" },
+      { "q": "guilty の反対語は？", "A": "innocent", "B": "guilty", "C": "obvious", "D": "curious", "correct": "A" }
+    ]
+  },
+  {
+    "english": "internet",
+    "pron": "ˈɪntərnet",
+    "kana": "インターネット",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "inter-（間の）+ net(work)（網・通信網）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "IT頻出"],
+    "meaning_main": "インターネット（世界規模のコンピュータ通信網）",
+    "description": "internet（インターネット）の意味・使い方・例文。世界中のコンピュータをつなぐ通信網「インターネット」を表す名詞を解説。ふつう the internet。",
+    "keywords": ["internet 意味", "internet 使い方", "インターネット 英語", "the internet"],
+    "meanings": [
+      { "hinshi": "【名詞】インターネット", "note": "世界中のコンピュータをつなぐ巨大な通信網。ふつう the internet と the をつける。" }
+    ],
+    "usages": [
+      { "title": "① 情報を探す", "desc": "日常。", "example_en": "I found the recipe on the internet.", "example_ja": "私はそのレシピをインターネットで見つけた。" },
+      { "title": "② 接続する", "desc": "IT。", "example_en": "Is there internet access in this hotel?", "example_ja": "このホテルにはインターネット接続はありますか？" }
+    ],
+    "warn": ["internet はふつう the internet と the をつける。inter-（間の）+ net（網）から。Web（ウェブ）はインターネット上のサービスの一つで、厳密には別概念。"],
+    "etym_note": "inter-（〜の間の）+ network（通信網）の net を合わせた語。「ネットワーク間をつなぐ網」を意味する。1970年代に生まれた。",
+    "etym_chain": [
+      { "node": "inter- + network", "sub": "間の＋通信網", "era": "20世紀英語" },
+      { "node": "internet", "sub": "インターネット", "era": "1970年代〜" }
+    ],
+    "phrases": [
+      { "en": "on the internet", "ja": "インターネットで・ネット上で" },
+      { "en": "internet access", "ja": "インターネット接続" },
+      { "en": "surf the internet", "ja": "ネットを見て回る" },
+      { "en": "internet connection", "ja": "ネット接続" },
+      { "en": "high-speed internet", "ja": "高速インターネット" },
+      { "en": "internet shopping", "ja": "ネットショッピング" }
+    ],
+    "related": [
+      { "en": "web", "ja": "ウェブ（World Wide Web）" },
+      { "en": "online", "ja": "オンラインの" },
+      { "en": "network", "ja": "通信網・ネットワーク" }
+    ],
+    "faq": [
+      { "q": "internet と web の違いは？", "a": "internet は世界中のコンピュータをつなぐ通信網そのもの、web（World Wide Web）はその上で動くサービスの一つです。" },
+      { "q": "internet に the はつける？", "a": "はい。ふつう the internet と the をつけて使います。" }
+    ],
+    "quiz": [
+      { "q": "「私はそのレシピをインターネットで見つけた」= I found the recipe on the ___.", "A": "internet", "B": "internal", "C": "interval", "D": "interview", "correct": "A" },
+      { "q": "internet の成り立ちは？", "A": "inter（間の）+ net（網）", "B": "in + ter + net", "C": "intern + et", "D": "inte + rnet", "correct": "A" }
+    ]
+  },
+  {
+    "english": "pristine",
+    "pron": "ˈprɪstiːn",
+    "kana": "プリスティーン",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "ラテン語 pristinus（元の・最初の）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "頻出語"],
+    "meaning_main": "手つかずの / 汚れのない / 新品同様の",
+    "description": "pristine（プリスティーン）の意味・使い方・例文。自然などが手つかずで汚れていない、また新品同様にきれいな、という意味の形容詞を解説。",
+    "keywords": ["pristine 意味", "pristine 使い方", "手つかず 英語", "新品同様 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】手つかずの / 汚れのない", "note": "自然などが本来のまま損なわれていない。" },
+      { "hinshi": "【形容詞】新品同様の / まっさらな", "note": "使ったのに新品のようにきれいな。" }
+    ],
+    "usages": [
+      { "title": "① 手つかずの自然", "desc": "自然。", "example_en": "The beach was pristine and empty.", "example_ja": "その浜は手つかずで人けがなかった。" },
+      { "title": "② 新品同様", "desc": "状態。", "example_en": "The car is in pristine condition.", "example_ja": "その車は新品同様の状態だ。" }
+    ],
+    "warn": ["pristine は「手つかずの・汚れのない・新品同様の」。「in pristine condition（新品同様の状態で）」が頻出。"],
+    "etym_note": "ラテン語 pristinus（元の・かつての・最初の）に由来。「本来のまま損なわれていない」を意味する。",
+    "etym_chain": [
+      { "node": "pristinus", "sub": "元の・最初の", "era": "ラテン語" },
+      { "node": "pristine", "sub": "手つかずの・新品同様の", "era": "16世紀英語" }
+    ],
+    "phrases": [
+      { "en": "in pristine condition", "ja": "新品同様の状態で" },
+      { "en": "pristine wilderness", "ja": "手つかずの原野" },
+      { "en": "pristine white", "ja": "汚れのない白" },
+      { "en": "a pristine beach", "ja": "手つかずの浜辺" },
+      { "en": "keep pristine", "ja": "きれいなまま保つ" },
+      { "en": "pristine snow", "ja": "踏み荒らされていない雪" }
+    ],
+    "related": [
+      { "en": "immaculate", "ja": "汚れ一つない・完璧な" },
+      { "en": "unspoiled", "ja": "損なわれていない" },
+      { "en": "spotless", "ja": "しみ一つない" }
+    ],
+    "faq": [
+      { "q": "pristine はどんなときに使う？", "a": "手つかずの自然や、使っても新品同様にきれいな状態を表すときに使います（in pristine condition）。" },
+      { "q": "pristine と immaculate の違いは？", "a": "どちらも「汚れのない」ですが、pristine は「本来のまま・手つかず」、immaculate は「一点の汚れもなく完璧」を強調します。" }
+    ],
+    "quiz": [
+      { "q": "「その車は新品同様の状態だ」= The car is in ___ condition.", "A": "pristine", "B": "routine", "C": "marine", "D": "genuine", "correct": "A" },
+      { "q": "pristine の意味は？", "A": "手つかずの・新品同様の", "B": "汚れた", "C": "壊れた", "D": "古びた", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reserved",
+    "pron": "rɪˈzɜːrvd",
+    "kana": "リザーブド",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "reserve（取っておく・控える）+ -ed",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出語"],
+    "meaning_main": "控えめな / 予約済みの / 取ってある",
+    "description": "reserved（リザーブド）の意味・使い方・例文。感情をあまり表さない「控えめな」、また「予約済みの・取ってある」という意味の形容詞を解説。",
+    "keywords": ["reserved 意味", "reserved 使い方", "控えめな 英語", "予約済み 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】控えめな / 遠慮がちな", "note": "感情や意見をあまり表に出さない性格。" },
+      { "hinshi": "【形容詞】予約済みの / 取ってある", "note": "席・部屋などが確保されている。「reserved seat」で「予約席・指定席」。" }
+    ],
+    "usages": [
+      { "title": "① 控えめな性格", "desc": "人柄。", "example_en": "She is quiet and reserved.", "example_ja": "彼女は物静かで控えめだ。" },
+      { "title": "② 予約済みの", "desc": "席・場所。", "example_en": "This table is reserved.", "example_ja": "このテーブルは予約済みです。" }
+    ],
+    "warn": ["reserved は「控えめな」と「予約済みの」。動詞 reserve（取っておく・予約する）、名詞 reservation（予約）。控えめな性格は shy（内気）とは少しニュアンスが違う。"],
+    "etym_note": "動詞 reserve（re-「後ろに」+ serve「保つ」＝取っておく）の過去分詞・形容詞。「取っておかれた」「(自分を)控えた」の意へ。",
+    "etym_chain": [
+      { "node": "reservare", "sub": "取っておく", "era": "ラテン語" },
+      { "node": "reserve", "sub": "取っておく・控える", "era": "14世紀英語" },
+      { "node": "reserved", "sub": "控えめな・予約済みの", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a reserved seat", "ja": "予約席・指定席" },
+      { "en": "reserved for", "ja": "〜のために取ってある" },
+      { "en": "quiet and reserved", "ja": "物静かで控えめな" },
+      { "en": "all rights reserved", "ja": "無断転載禁止（版権所有）" },
+      { "en": "a reserved manner", "ja": "控えめな態度" },
+      { "en": "reserved parking", "ja": "専用駐車場" }
+    ],
+    "related": [
+      { "en": "reserve", "ja": "取っておく・予約する" },
+      { "en": "reservation", "ja": "予約" },
+      { "en": "shy", "ja": "内気な" }
+    ],
+    "faq": [
+      { "q": "reserved の二つの意味は？", "a": "人については「控えめな・遠慮がちな」、席や場所については「予約済みの・取ってある」を表します。" },
+      { "q": "all rights reserved の意味は？", "a": "「無断転載禁止・すべての権利を保有」という著作権表示の決まり文句です。" }
+    ],
+    "quiz": [
+      { "q": "「彼女は物静かで控えめだ」= She is quiet and ___.", "A": "reserved", "B": "observed", "C": "deserved", "D": "preserved", "correct": "A" },
+      { "q": "a reserved seat の意味は？", "A": "予約席・指定席", "B": "空席", "C": "壊れた席", "D": "無料の席", "correct": "A" }
+    ]
+  },
+  {
+    "english": "skeleton",
+    "pron": "ˈskelɪtn",
+    "kana": "スケルトン",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ギリシャ語 skeletos（干からびた体）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "身体・科学"],
+    "meaning_main": "骨格 / がい骨 / 骨組み",
+    "description": "skeleton（スケルトン）の意味・使い方・例文。体を支える「骨格・がい骨」、また建物や計画の「骨組み」という意味の名詞を解説。",
+    "keywords": ["skeleton 意味", "skeleton 使い方", "骨格 英語", "がい骨 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】骨格 / がい骨", "note": "体を支える骨の組み合わせ全体。" },
+      { "hinshi": "【名詞】(建物・計画の)骨組み / 概略", "note": "「a skeleton crew」で「最小限の人員」。" }
+    ],
+    "usages": [
+      { "title": "① 骨格・がい骨", "desc": "身体。", "example_en": "The museum displays a dinosaur skeleton.", "example_ja": "その博物館は恐竜の骨格を展示している。" },
+      { "title": "② 骨組み・概略", "desc": "比喩。", "example_en": "This is just the skeleton of the plan.", "example_ja": "これは計画の骨組みにすぎない。" }
+    ],
+    "warn": ["skeleton は「骨格・がい骨・骨組み」。「a skeleton in the closet（人に隠している秘密）」「a skeleton crew（最小限の人員）」など比喩表現も頻出。"],
+    "etym_note": "ギリシャ語 skeletos（干からびた・ミイラ化した体）に由来。「乾いた体＝骨だけの体」を意味する。",
+    "etym_chain": [
+      { "node": "skeletos", "sub": "干からびた体", "era": "古代ギリシャ語" },
+      { "node": "skeleton", "sub": "骨格・がい骨", "era": "16世紀英語" }
+    ],
+    "phrases": [
+      { "en": "the human skeleton", "ja": "人体の骨格" },
+      { "en": "a skeleton crew", "ja": "最小限の人員" },
+      { "en": "a skeleton in the closet", "ja": "人に隠している秘密" },
+      { "en": "the skeleton of a building", "ja": "建物の骨組み" },
+      { "en": "a skeleton key", "ja": "マスターキー・合いかぎ" },
+      { "en": "reduced to a skeleton", "ja": "骨と皮になって" }
+    ],
+    "related": [
+      { "en": "bone", "ja": "骨" },
+      { "en": "skull", "ja": "頭がい骨" },
+      { "en": "framework", "ja": "骨組み・枠組み" }
+    ],
+    "faq": [
+      { "q": "a skeleton in the closet の意味は？", "a": "「(戸棚の中のがい骨＝)人に隠している恥ずべき秘密」という意味の慣用表現です。" },
+      { "q": "a skeleton crew とは？", "a": "業務を回すための「必要最小限の人員」を指す表現です。" }
+    ],
+    "quiz": [
+      { "q": "「その博物館は恐竜の骨格を展示している」= The museum displays a dinosaur ___.", "A": "skeleton", "B": "skeptic", "C": "sketch", "D": "skillet", "correct": "A" },
+      { "q": "a skeleton in the closet の意味は？", "A": "人に隠している秘密", "B": "古い家具", "C": "壊れた道具", "D": "宝物", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sustainable",
+    "pron": "səˈsteɪnəbl",
+    "kana": "サステイナブル",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "sustain（維持する）+ -able",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "社会・環境"],
+    "meaning_main": "持続可能な / 環境を損なわない",
+    "description": "sustainable（サステイナブル）の意味・使い方・例文。資源や環境を損なわずに続けられる「持続可能な」という意味の形容詞を解説。",
+    "keywords": ["sustainable 意味", "sustainable 使い方", "持続可能な 英語", "サステナブル"],
+    "meanings": [
+      { "hinshi": "【形容詞】持続可能な / 維持できる", "note": "環境・資源を損なわず長く続けられる。SDGs で話題。" }
+    ],
+    "usages": [
+      { "title": "① 環境", "desc": "サステナビリティ。", "example_en": "We need sustainable energy sources.", "example_ja": "私たちには持続可能なエネルギー源が必要だ。" },
+      { "title": "② 続けられる", "desc": "一般。", "example_en": "This level of spending is not sustainable.", "example_ja": "この水準の支出は続けられない。" }
+    ],
+    "warn": ["sustainable は「持続可能な」。動詞 sustain（維持する・支える）、名詞 sustainability（持続可能性）。SDGs（持続可能な開発目標）の sustainable。"],
+    "etym_note": "動詞 sustain（sus-「下から」+ tain「保つ」＝支え続ける。ラテン語 sustinere から）に -able が付いた語。「支え続けられる」を意味する。",
+    "etym_chain": [
+      { "node": "sustinere", "sub": "支え続ける", "era": "ラテン語" },
+      { "node": "sustain", "sub": "維持する", "era": "14世紀英語" },
+      { "node": "sustainable", "sub": "持続可能な", "era": "20世紀英語" }
+    ],
+    "phrases": [
+      { "en": "sustainable development", "ja": "持続可能な開発" },
+      { "en": "sustainable energy", "ja": "持続可能なエネルギー" },
+      { "en": "environmentally sustainable", "ja": "環境的に持続可能な" },
+      { "en": "a sustainable future", "ja": "持続可能な未来" },
+      { "en": "sustainable growth", "ja": "持続可能な成長" },
+      { "en": "sustainable farming", "ja": "持続可能な農業" }
+    ],
+    "related": [
+      { "en": "sustain", "ja": "維持する・支える" },
+      { "en": "sustainability", "ja": "持続可能性" },
+      { "en": "renewable", "ja": "再生可能な" }
+    ],
+    "faq": [
+      { "q": "sustainable の名詞は？", "a": "sustainability（持続可能性）です。動詞は sustain（維持する）です。" },
+      { "q": "sustainable と renewable の違いは？", "a": "renewable は「(資源が)再生可能な」、sustainable は「環境を損なわず長く続けられる」で、より広い概念です。" }
+    ],
+    "quiz": [
+      { "q": "「私たちには持続可能なエネルギー源が必要だ」= We need ___ energy sources.", "A": "sustainable", "B": "suitable", "C": "sensible", "D": "valuable", "correct": "A" },
+      { "q": "sustainable の名詞形は？", "A": "sustainability", "B": "sustenance", "C": "suspension", "D": "substance", "correct": "A" }
+    ]
+  },
+  {
+    "english": "treatment",
+    "pron": "ˈtriːtmənt",
+    "kana": "トリートメント",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "treat（扱う・治療する）+ -ment",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "頻出語"],
+    "meaning_main": "治療 / 扱い / 処理",
+    "description": "treatment（トリートメント）の意味・使い方・例文。病気の「治療」、人や物の「扱い」、また「処理」という意味の名詞を解説。",
+    "keywords": ["treatment 意味", "treatment 使い方", "治療 英語", "扱い 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】治療 / 手当て", "note": "病気・けがを治すこと。「medical treatment」で「医療・治療」。" },
+      { "hinshi": "【名詞】扱い / 待遇", "note": "人や物への接し方。" },
+      { "hinshi": "【名詞】処理 / 加工", "note": "材料などへの処理。" }
+    ],
+    "usages": [
+      { "title": "① 治療", "desc": "医療。", "example_en": "She is receiving treatment for cancer.", "example_ja": "彼女はがんの治療を受けている。" },
+      { "title": "② 扱い・待遇", "desc": "対応。", "example_en": "The prisoners complained about their treatment.", "example_ja": "囚人たちは自分たちの扱いに不満を訴えた。" }
+    ],
+    "warn": ["treatment は「治療・扱い・処理」。動詞は treat（扱う・治療する・おごる）。髪の「トリートメント」もこの語だが、英語では hair conditioner とも言う。"],
+    "etym_note": "動詞 treat（扱う・治療する。ラテン語 tractare「扱う」から）に、名詞語尾 -ment が付いた語。",
+    "etym_chain": [
+      { "node": "tractare", "sub": "扱う", "era": "ラテン語" },
+      { "node": "treat", "sub": "扱う・治療する", "era": "14世紀英語" },
+      { "node": "treatment", "sub": "治療・扱い", "era": "16世紀英語" }
+    ],
+    "phrases": [
+      { "en": "medical treatment", "ja": "医療・治療" },
+      { "en": "receive treatment", "ja": "治療を受ける" },
+      { "en": "special treatment", "ja": "特別扱い" },
+      { "en": "fair treatment", "ja": "公平な扱い" },
+      { "en": "water treatment", "ja": "水処理" },
+      { "en": "treatment plan", "ja": "治療計画" }
+    ],
+    "related": [
+      { "en": "treat", "ja": "扱う・治療する" },
+      { "en": "cure", "ja": "治療・治す" },
+      { "en": "therapy", "ja": "療法・セラピー" }
+    ],
+    "faq": [
+      { "q": "treatment の動詞は？", "a": "treat（扱う・治療する・(食事などを)おごる）です。" },
+      { "q": "treatment と cure の違いは？", "a": "treatment は「治療（の過程・方法）」、cure は「治すこと・完治(させるもの)」を指します。" }
+    ],
+    "quiz": [
+      { "q": "「彼女はがんの治療を受けている」= She is receiving ___ for cancer.", "A": "treatment", "B": "agreement", "C": "movement", "D": "statement", "correct": "A" },
+      { "q": "treatment の動詞形は？", "A": "treat", "B": "trade", "C": "trace", "D": "train", "correct": "A" }
+    ]
+  },
+  {
+    "english": "aconpany",
+    "pron": "əˈkʌmpəni",
+    "kana": "（正しくは accompany／アカンパニー）",
+    "hinshi": "つづり間違い（正しくは accompany）",
+    "ld_pos": "misspelling",
+    "ld_etym": "accompany のつづり間違い",
+    "ld_level": "つづり注意",
+    "badges": ["つづり間違い", "正しくは accompany", "検索ログ由来", "英単語ではありません"],
+    "meaning_main": "「aconpany」は誤り。正しいつづりは accompany（同行する・伴う）",
+    "description": "aconpany は英単語ではなく、accompany（同行する・伴う）のつづり間違いです。正しいつづり accompany の意味・使い方を解説します。",
+    "keywords": ["aconpany 正しい", "accompany つづり", "同行する 英語", "伴う 英語"],
+    "meanings": [
+      { "hinshi": "【つづり間違い】正しくは accompany", "note": "aconpany という英単語はありません。accompany（アカンパニー＝一緒に行く・付き添う・伴う）のつづり間違い（cc と m が正しい）です。正しくは a-c-c-o-m-p-a-n-y と書きます。" }
+    ],
+    "usages": [
+      { "title": "① 正しい形：同行する", "desc": "accompany を使う。", "example_en": "I will accompany you to the station. (× aconpany)", "example_ja": "私はあなたに駅まで付き添います。（aconpany は誤り）" },
+      { "title": "② 伴う", "desc": "accompany の用法。", "example_en": "Thunder often accompanies lightning.", "example_ja": "雷鳴はしばしば稲妻を伴う。" }
+    ],
+    "warn": ["aconpany は英単語ではなく、accompany のつづり間違いです。正しくは c を2つ、そして m（n ではない）で a-c-c-o-m-p-a-n-y です。"],
+    "etym_note": "正しい語 accompany は古フランス語 accompagner（a-「〜へ」+ compagnon「仲間」）に由来します。aconpany はその誤ったつづりです。",
+    "etym_chain": [
+      { "node": "accompagner", "sub": "仲間になる・同行する", "era": "古フランス語" },
+      { "node": "accompany", "sub": "同行する・伴う（正しい形）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "accompany someone", "ja": "〜に付き添う" },
+      { "en": "be accompanied by", "ja": "〜を伴う・〜に付き添われて" },
+      { "en": "accompany on the piano", "ja": "ピアノで伴奏する" },
+      { "en": "accompany a meal", "ja": "食事に添える" },
+      { "en": "children must be accompanied", "ja": "子どもは同伴が必要" },
+      { "en": "accompany the report", "ja": "報告書に添付される" }
+    ],
+    "related": [
+      { "en": "accompany", "ja": "同行する（正しいつづり）" },
+      { "en": "accompaniment", "ja": "付随物・伴奏" },
+      { "en": "companion", "ja": "仲間・連れ" }
+    ],
+    "faq": [
+      { "q": "aconpany は正しい英単語ですか？", "a": "いいえ。accompany のつづり間違いです。正しくは c を2つ、そして m で accompany です。" },
+      { "q": "accompany の意味は？", "a": "「一緒に行く・付き添う・(物事を)伴う・伴奏する」という意味の動詞です。" }
+    ],
+    "quiz": [
+      { "q": "正しいつづりはどれ？", "A": "accompany", "B": "aconpany", "C": "acompany", "D": "accompani", "correct": "A" },
+      { "q": "accompany の意味は？", "A": "同行する・伴う", "B": "完成する", "C": "比較する", "D": "説明する", "correct": "A" }
+    ]
+  },
+  {
+    "english": "alert",
+    "pron": "əˈlɜːrt",
+    "kana": "アラート",
+    "hinshi": "形容詞 / 名詞 / 動詞",
+    "ld_pos": "adjective",
+    "ld_etym": "イタリア語 all'erta（見張りに立って）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出語"],
+    "meaning_main": "警戒した / 油断のない / 警報 / 警告する",
+    "description": "alert（アラート）の意味・使い方・例文。用心して気を配る「警戒した」、また「警報・注意報」「警告する」という意味の形容詞・名詞・動詞を解説。",
+    "keywords": ["alert 意味", "alert 使い方", "警戒 英語", "警報 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】警戒した / 油断のない / 機敏な", "note": "危険などに気を配り、すぐ反応できる状態。" },
+      { "hinshi": "【名詞】警報 / 注意報", "note": "危険を知らせる合図。「on alert」で「警戒態勢で」。" },
+      { "hinshi": "【動詞】警告する / 注意を促す", "note": "「alert someone to 〜」で「〜を(人に)知らせる」。" }
+    ],
+    "usages": [
+      { "title": "① 警戒した", "desc": "形容詞として。", "example_en": "Stay alert while driving.", "example_ja": "運転中は油断せず気を配って。" },
+      { "title": "② 警報", "desc": "名詞として。", "example_en": "A weather alert was issued.", "example_ja": "気象警報が出された。" }
+    ],
+    "warn": ["alert は「警戒した」「警報」「警告する」と品詞が複数。「on (the) alert（警戒して）」「red alert（非常警戒）」が頻出。スマホの「アラート（通知）」もこの語。"],
+    "etym_note": "イタリア語 all'erta（all'「〜に」+ erta「見張りの高台」＝見張りに立って）に由来。軍事用語として英語に入った。",
+    "etym_chain": [
+      { "node": "all'erta", "sub": "見張りに立って", "era": "イタリア語" },
+      { "node": "alert", "sub": "警戒した・警報", "era": "17世紀英語" }
+    ],
+    "phrases": [
+      { "en": "stay alert", "ja": "警戒を怠らない" },
+      { "en": "on alert", "ja": "警戒態勢で" },
+      { "en": "a security alert", "ja": "警備警報" },
+      { "en": "alert someone to", "ja": "〜を（人に）知らせる" },
+      { "en": "a red alert", "ja": "非常警戒" },
+      { "en": "an amber alert", "ja": "子ども誘拐の緊急警報" }
+    ],
+    "related": [
+      { "en": "warning", "ja": "警告・注意" },
+      { "en": "vigilant", "ja": "油断のない・用心深い" },
+      { "en": "aware", "ja": "気づいている" }
+    ],
+    "faq": [
+      { "q": "on alert の意味は？", "a": "「警戒態勢で・いつでも対応できる状態で」という意味です。" },
+      { "q": "alert は動詞にもなる？", "a": "はい。「(人に危険などを)警告する・知らせる」という意味の動詞にもなります（alert someone to danger）。" }
+    ],
+    "quiz": [
+      { "q": "「運転中は油断せず気を配って」= Stay ___ while driving.", "A": "alert", "B": "alter", "C": "alive", "D": "aloud", "correct": "A" },
+      { "q": "on alert の意味は？", "A": "警戒態勢で", "B": "眠って", "C": "休憩して", "D": "退屈して", "correct": "A" }
+    ]
+  },
+  {
+    "english": "appriciete",
+    "pron": "əˈpriːʃieɪt",
+    "kana": "（正しくは appreciate／アプリーシエイト）",
+    "hinshi": "つづり間違い（正しくは appreciate）",
+    "ld_pos": "misspelling",
+    "ld_etym": "appreciate のつづり間違い",
+    "ld_level": "つづり注意",
+    "badges": ["つづり間違い", "正しくは appreciate", "検索ログ由来", "英単語ではありません"],
+    "meaning_main": "「appriciete」は誤り。正しいつづりは appreciate（感謝する・評価する）",
+    "description": "appriciete は英単語ではなく、appreciate（感謝する・正しく評価する）のつづり間違いです。正しいつづり appreciate の意味・使い方を解説します。",
+    "keywords": ["appriciete 正しい", "appreciate つづり", "感謝する 英語", "評価する 英語"],
+    "meanings": [
+      { "hinshi": "【つづり間違い】正しくは appreciate", "note": "appriciete という英単語はありません。appreciate（アプリーシエイト＝感謝する・正しく評価する・(価値が)上がる）のつづり間違いです。正しくは a-p-p-r-e-c-i-a-t-e と書きます（-ciate で終わる）。" }
+    ],
+    "usages": [
+      { "title": "① 正しい形：感謝する", "desc": "appreciate を使う。", "example_en": "I appreciate your help. (× appriciete)", "example_ja": "あなたの助けに感謝します。（appriciete は誤り）" },
+      { "title": "② 正しく評価する", "desc": "appreciate の用法。", "example_en": "They appreciate good music.", "example_ja": "彼らは良い音楽の価値がわかる。" }
+    ],
+    "warn": ["appriciete は英単語ではなく、appreciate のつづり間違いです。正しくは -pre- と -ciate に注意して a-p-p-r-e-c-i-a-t-e です。名詞は appreciation（感謝・評価）。"],
+    "etym_note": "正しい語 appreciate はラテン語 appretiare（ad-「〜へ」+ pretium「価格」＝値をつける・評価する）に由来します。appriciete はその誤ったつづりです。",
+    "etym_chain": [
+      { "node": "appretiare", "sub": "値をつける・評価する", "era": "後期ラテン語" },
+      { "node": "appreciate", "sub": "感謝する・評価する（正しい形）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "I appreciate it", "ja": "感謝します・ありがたいです" },
+      { "en": "appreciate your help", "ja": "助けに感謝する" },
+      { "en": "appreciate the difference", "ja": "違いを正しく理解する" },
+      { "en": "would appreciate it if", "ja": "〜していただけるとありがたい" },
+      { "en": "fully appreciate", "ja": "十分に理解する" },
+      { "en": "appreciate in value", "ja": "価値が上がる" }
+    ],
+    "related": [
+      { "en": "appreciate", "ja": "感謝する（正しいつづり）" },
+      { "en": "appreciation", "ja": "感謝・評価・値上がり" },
+      { "en": "grateful", "ja": "感謝している" }
+    ],
+    "faq": [
+      { "q": "appriciete は正しい英単語ですか？", "a": "いいえ。appreciate のつづり間違いです。正しくは a-p-p-r-e-c-i-a-t-e（-pre-, -ciate）です。" },
+      { "q": "appreciate の意味は？", "a": "「感謝する・(価値を)正しく評価する・(価値が)上がる」という意味の動詞です。" }
+    ],
+    "quiz": [
+      { "q": "正しいつづりはどれ？", "A": "appreciate", "B": "appriciete", "C": "appriciate", "D": "apreciate", "correct": "A" },
+      { "q": "appreciate の意味は？", "A": "感謝する・評価する", "B": "近づく", "C": "適用する", "D": "現れる", "correct": "A" }
+    ]
+  },
+  {
+    "english": "artless",
+    "pron": "ˈɑːrtləs",
+    "kana": "アートレス",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "art（技巧）+ -less（〜がない）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "頻出語"],
+    "meaning_main": "飾り気のない / 素朴な / 無邪気な",
+    "description": "artless（アートレス）の意味・使い方・例文。技巧や作為がなく素朴で無邪気な、飾り気のない、という意味の形容詞を解説。",
+    "keywords": ["artless 意味", "artless 使い方", "素朴な 英語", "無邪気な 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】飾り気のない / 素朴な / 無邪気な", "note": "技巧・作為がなく、自然で純真なさま。多くは肯定的。" }
+    ],
+    "usages": [
+      { "title": "① 素朴・無邪気", "desc": "人柄。", "example_en": "She has an artless charm.", "example_ja": "彼女には飾り気のない魅力がある。" },
+      { "title": "② 作為のない", "desc": "態度・言葉。", "example_en": "His artless honesty won them over.", "example_ja": "彼の飾らない正直さが彼らの心をつかんだ。" }
+    ],
+    "warn": ["artless は art（技巧・作為）+ -less（〜がない）で「作為のない・素朴な」。「芸術性がない（下手な）」の意ではなく、多くは肯定的に「純真・自然」を表す。反対は artful（巧妙な・ずる賢い）。"],
+    "etym_note": "名詞 art（技術・技巧・作為）に否定の -less（〜がない）が付いた語。「技巧・作為がない＝素朴」を意味する。",
+    "etym_chain": [
+      { "node": "art", "sub": "技術・技巧・作為", "era": "中英語" },
+      { "node": "artless", "sub": "素朴な・無邪気な", "era": "16世紀英語" }
+    ],
+    "phrases": [
+      { "en": "artless charm", "ja": "飾り気のない魅力" },
+      { "en": "artless simplicity", "ja": "素朴な純真さ" },
+      { "en": "an artless smile", "ja": "無邪気な笑み" },
+      { "en": "artless honesty", "ja": "飾らない正直さ" },
+      { "en": "an artless remark", "ja": "何気ない一言" },
+      { "en": "seemingly artless", "ja": "一見素朴な" }
+    ],
+    "related": [
+      { "en": "artful", "ja": "巧妙な・ずる賢い（反意）" },
+      { "en": "naive", "ja": "純真な・世間知らずの" },
+      { "en": "innocent", "ja": "無邪気な・純真な" }
+    ],
+    "faq": [
+      { "q": "artless は「芸術性がない」という意味？", "a": "いいえ。art の「技巧・作為」に -less が付いた語で、「作為のない・素朴な・無邪気な」を表します。多くは肯定的な語です。" },
+      { "q": "artless の反対語は？", "a": "artful（巧妙な・ずる賢い）です。" }
+    ],
+    "quiz": [
+      { "q": "「彼女には飾り気のない魅力がある」= She has an ___ charm.", "A": "artless", "B": "artful", "C": "artistic", "D": "awkward", "correct": "A" },
+      { "q": "artless の意味は？", "A": "飾り気のない・素朴な", "B": "巧妙な", "C": "芸術的な", "D": "怒りっぽい", "correct": "A" }
+    ]
+  },
+  {
+    "english": "badlly",
+    "pron": "ˈbædli",
+    "kana": "（正しくは badly／バドリー）",
+    "hinshi": "つづり間違い（正しくは badly）",
+    "ld_pos": "misspelling",
+    "ld_etym": "badly のつづり間違い",
+    "ld_level": "つづり注意",
+    "badges": ["つづり間違い", "正しくは badly", "検索ログ由来", "英単語ではありません"],
+    "meaning_main": "「badlly」は誤り。正しいつづりは badly（ひどく・下手に）",
+    "description": "badlly は英単語ではなく、badly（ひどく・下手に・とても）のつづり間違いです。正しいつづり badly の意味・使い方を解説します。",
+    "keywords": ["badlly 正しい", "badly つづり", "ひどく 英語", "下手に 英語"],
+    "meanings": [
+      { "hinshi": "【つづり間違い】正しくは badly", "note": "badlly という英単語はありません。badly（バドリー＝ひどく・悪く・下手に・とても）のつづり間違い（l が1つ多い）です。正しくは bad + ly で b-a-d-l-y と書きます。" }
+    ],
+    "usages": [
+      { "title": "① 正しい形：下手に・ひどく", "desc": "badly を使う。", "example_en": "He sings badly. (× badlly)", "example_ja": "彼は歌が下手だ。（badlly は誤り）" },
+      { "title": "② とても（強調）", "desc": "badly の用法。", "example_en": "I badly want to go.", "example_ja": "私はとても行きたい。" }
+    ],
+    "warn": ["badlly は英単語ではなく、badly のつづり間違いです。bad（形容詞）+ ly（副詞語尾）なので、l は1つで badly です。"],
+    "etym_note": "正しい語 badly は形容詞 bad（悪い）に副詞語尾 -ly が付いた語です。badlly は l を重ねすぎた誤ったつづりです。",
+    "etym_chain": [
+      { "node": "bad + -ly", "sub": "悪い＋副詞語尾", "era": "英語" },
+      { "node": "badly", "sub": "ひどく・下手に（正しい形）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "do badly", "ja": "できが悪い・失敗する" },
+      { "en": "badly hurt", "ja": "ひどくけがをして" },
+      { "en": "badly need", "ja": "ひどく必要とする" },
+      { "en": "behave badly", "ja": "行儀が悪い" },
+      { "en": "go badly", "ja": "うまくいかない" },
+      { "en": "want badly", "ja": "とても欲しい" }
+    ],
+    "related": [
+      { "en": "badly", "ja": "ひどく・下手に（正しいつづり）" },
+      { "en": "bad", "ja": "悪い（形容詞）" },
+      { "en": "well", "ja": "上手に（反意）" }
+    ],
+    "faq": [
+      { "q": "badlly は正しい英単語ですか？", "a": "いいえ。badly のつづり間違いです。bad + ly なので l は1つで badly です。" },
+      { "q": "badly の意味は？", "a": "「ひどく・悪く・下手に」のほか、動詞を強めて「とても（〜したい・必要だ）」という意味にもなります。" }
+    ],
+    "quiz": [
+      { "q": "正しいつづりはどれ？", "A": "badly", "B": "badlly", "C": "badely", "D": "baddly", "correct": "A" },
+      { "q": "badly の意味に含まれないものは？", "A": "上手に", "B": "ひどく", "C": "下手に", "D": "とても", "correct": "A" }
+    ]
+  },
+  {
+    "english": "behave",
+    "pron": "bɪˈheɪv",
+    "kana": "ビヘイブ",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "be-（強め）+ have（持つ・ふるまう）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "頻出語"],
+    "meaning_main": "ふるまう / 行儀よくする",
+    "description": "behave（ビヘイブ）の意味・使い方・例文。ある態度でふるまう、また「行儀よくする」という意味の動詞を解説。名詞 behavior（ふるまい）。",
+    "keywords": ["behave 意味", "behave 使い方", "ふるまう 英語", "行儀 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】ふるまう / 行動する", "note": "ある態度・やり方で行動する。「behave well/badly」で「行儀がよい/悪い」。" },
+      { "hinshi": "【動詞】行儀よくする", "note": "「behave (oneself)」で「行儀よくする・おとなしくする」。" }
+    ],
+    "usages": [
+      { "title": "① ふるまう", "desc": "態度。", "example_en": "He behaved strangely at the party.", "example_ja": "彼はパーティーで奇妙なふるまいをした。" },
+      { "title": "② 行儀よくする", "desc": "命令など。", "example_en": "Behave yourself!", "example_ja": "行儀よくしなさい！" }
+    ],
+    "warn": ["behave は「ふるまう」。単独で「behave!」なら「行儀よくして！」。名詞は behavior（米）/ behaviour（英）。反対の「不作法にふるまう」は misbehave。"],
+    "etym_note": "be-（強調の接頭辞）+ have（持つ・保つ）から。「自分を(きちんと)保つ＝ふるまう」を意味するようになった。",
+    "etym_chain": [
+      { "node": "be- + have", "sub": "強め＋持つ・保つ", "era": "中英語" },
+      { "node": "behave", "sub": "ふるまう", "era": "15世紀英語" }
+    ],
+    "phrases": [
+      { "en": "behave well", "ja": "行儀よくする" },
+      { "en": "behave badly", "ja": "行儀が悪い" },
+      { "en": "behave yourself", "ja": "行儀よくしなさい" },
+      { "en": "behave like", "ja": "〜のようにふるまう" },
+      { "en": "behave toward", "ja": "〜に対してふるまう" },
+      { "en": "misbehave", "ja": "不作法にふるまう" }
+    ],
+    "related": [
+      { "en": "behavior", "ja": "ふるまい・行動" },
+      { "en": "act", "ja": "行動する" },
+      { "en": "misbehave", "ja": "不作法にふるまう" }
+    ],
+    "faq": [
+      { "q": "behave の名詞は？", "a": "behavior（米つづり）/ behaviour（英つづり）で「ふるまい・行動」です。" },
+      { "q": "「Behave yourself!」の意味は？", "a": "「行儀よくしなさい！・おとなしくしなさい！」という意味です。" }
+    ],
+    "quiz": [
+      { "q": "「彼はパーティーで奇妙なふるまいをした」= He ___ strangely at the party.", "A": "behaved", "B": "believed", "C": "belonged", "D": "beheld", "correct": "A" },
+      { "q": "behave の名詞形は？", "A": "behavior", "B": "belief", "C": "benefit", "D": "beginning", "correct": "A" }
+    ]
+  }
+]
