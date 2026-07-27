@@ -1,0 +1,968 @@
+[
+  {
+    "english": "distort",
+    "pron": "dɪˈstɔːrt",
+    "kana": "ディストート",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "ラテン語 distorquere（ねじ曲げる）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "ゆがめる / ねじ曲げる / 歪曲する",
+    "description": "distort（ディストート）の意味・使い方・例文。形・音・事実などをゆがめる・ねじ曲げる、という意味の動詞を解説。",
+    "keywords": ["distort 意味", "distort 使い方", "ゆがめる 英語", "歪曲する 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】(形・音を)ゆがめる", "note": "本来の形・音を不自然に変える。" },
+      { "hinshi": "【動詞】(事実などを)歪曲する / ねじ曲げる", "note": "事実・意味を都合よく変えて伝える。" }
+    ],
+    "usages": [
+      { "title": "① 形をゆがめる", "desc": "物理的。", "example_en": "The mirror distorted his face.", "example_ja": "その鏡は彼の顔をゆがめて映した。" },
+      { "title": "② 事実を歪曲する", "desc": "比喩。", "example_en": "The report distorted the facts.", "example_ja": "その報道は事実を歪曲した。" }
+    ],
+    "warn": ["distort は「(形・音・事実を)ゆがめる」。名詞は distortion（ゆがみ・歪曲）。"],
+    "etym_note": "ラテン語 distorquere（dis-「ばらばらに」+ torquere「ねじる」＝ねじ曲げる）に由来。",
+    "etym_chain": [
+      { "node": "distorquere", "sub": "ねじ曲げる", "era": "ラテン語" },
+      { "node": "distort", "sub": "ゆがめる", "era": "16世紀英語" }
+    ],
+    "phrases": [
+      { "en": "distort the truth", "ja": "真実をゆがめる" },
+      { "en": "distort the facts", "ja": "事実を歪曲する" },
+      { "en": "a distorted image", "ja": "ゆがんだ像" },
+      { "en": "distort the sound", "ja": "音をゆがめる" },
+      { "en": "distort reality", "ja": "現実をゆがめる" },
+      { "en": "grossly distort", "ja": "ひどく歪曲する" }
+    ],
+    "related": [
+      { "en": "distortion", "ja": "ゆがみ・歪曲" },
+      { "en": "twist", "ja": "ねじる・ゆがめる" },
+      { "en": "misrepresent", "ja": "誤って伝える" }
+    ],
+    "faq": [
+      { "q": "distort の名詞は？", "a": "distortion（ゆがみ・歪曲）です。" },
+      { "q": "distort は事実にも使う？", "a": "はい。「事実・真実を歪曲する（都合よくねじ曲げる）」という意味でよく使われます。" }
+    ],
+    "quiz": [
+      { "q": "「その報道は事実を歪曲した」= The report ___ the facts.", "A": "distorted", "B": "disturbed", "C": "distributed", "D": "discovered", "correct": "A" },
+      { "q": "distort の名詞形は？", "A": "distortion", "B": "distraction", "C": "distinction", "D": "distribution", "correct": "A" }
+    ]
+  },
+  {
+    "english": "focus",
+    "pron": "ˈfoʊkəs",
+    "kana": "フォーカス",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "verb",
+    "ld_etym": "ラテン語 focus（炉・中心）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "頻出語"],
+    "meaning_main": "集中する / 焦点 / ピントを合わせる",
+    "description": "focus（フォーカス）の意味・使い方・例文。注意を集中する、カメラのピントを合わせる、また名詞で「焦点・中心」という意味を解説。",
+    "keywords": ["focus 意味", "focus 使い方", "集中する 英語", "焦点 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】集中する / 焦点を合わせる", "note": "「focus on 〜」で「〜に集中する・注目する」。カメラのピント合わせにも。" },
+      { "hinshi": "【名詞】焦点 / 中心 / 注目の的", "note": "レンズの焦点、関心の中心。" }
+    ],
+    "usages": [
+      { "title": "① 集中する", "desc": "focus on。", "example_en": "You need to focus on your studies.", "example_ja": "あなたは勉強に集中する必要がある。" },
+      { "title": "② 焦点・中心", "desc": "名詞として。", "example_en": "Safety is the main focus of the meeting.", "example_ja": "安全がその会議の主な焦点だ。" }
+    ],
+    "warn": ["focus は「focus on 〜」で「〜に集中する」。複数形・過去形は focuses/focused（英で focusses/focussed も可）。「out of focus」でピンぼけ。"],
+    "etym_note": "ラテン語 focus（炉・かまど）に由来。光が一点に集まる「焦点」の意で科学に用いられ、「中心・集中」へ広がった。",
+    "etym_chain": [
+      { "node": "focus", "sub": "炉・かまど", "era": "ラテン語" },
+      { "node": "focus", "sub": "焦点・集中", "era": "17世紀英語" }
+    ],
+    "phrases": [
+      { "en": "focus on", "ja": "〜に集中する・注目する" },
+      { "en": "in focus", "ja": "ピントが合って" },
+      { "en": "out of focus", "ja": "ピンぼけで" },
+      { "en": "the focus of attention", "ja": "注目の的" },
+      { "en": "lose focus", "ja": "集中を失う" },
+      { "en": "shift the focus", "ja": "焦点を移す" }
+    ],
+    "related": [
+      { "en": "concentrate", "ja": "集中する" },
+      { "en": "attention", "ja": "注意・注目" },
+      { "en": "center", "ja": "中心" }
+    ],
+    "faq": [
+      { "q": "focus の後の前置詞は？", "a": "on を使い、focus on 〜（〜に集中する・注目する）の形が基本です。" },
+      { "q": "out of focus の意味は？", "a": "「ピンぼけで・焦点が合っていない」という意味です。反対は in focus（ピントが合って）です。" }
+    ],
+    "quiz": [
+      { "q": "「あなたは勉強に集中する必要がある」= You need to ___ on your studies.", "A": "focus", "B": "force", "C": "focus", "D": "faces", "correct": "A" },
+      { "q": "「ピンぼけで」を表すのは？", "A": "out of focus", "B": "in focus", "C": "on focus", "D": "off focus", "correct": "A" }
+    ]
+  },
+  {
+    "english": "frame",
+    "pron": "ˈfreɪm",
+    "kana": "フレーム",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "noun",
+    "ld_etym": "古英語 framian（役立つ・形づくる）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "頻出語"],
+    "meaning_main": "枠 / 額縁 / 骨組み / 枠にはめる",
+    "description": "frame（フレーム）の意味・使い方・例文。額縁・枠、建物や体の骨組み、また「枠にはめる・(罪を)着せる」という意味の名詞・動詞を解説。",
+    "keywords": ["frame 意味", "frame 使い方", "枠 英語", "額縁 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】枠 / 額縁 / 骨組み", "note": "写真・絵の額縁、窓枠、建物や体の骨組み。" },
+      { "hinshi": "【動詞】枠にはめる / 額に入れる", "note": "額装する、囲む。" },
+      { "hinshi": "【動詞】(無実の罪を)着せる", "note": "「frame someone」で「(人に)ぬれぎぬを着せる」。" }
+    ],
+    "usages": [
+      { "title": "① 額縁", "desc": "名詞として。", "example_en": "She put the photo in a wooden frame.", "example_ja": "彼女はその写真を木の額縁に入れた。" },
+      { "title": "② 罪を着せる", "desc": "動詞として。", "example_en": "He was framed for a crime he didn't commit.", "example_ja": "彼はやってもいない罪を着せられた。" }
+    ],
+    "warn": ["frame は「枠・額縁・骨組み」。動詞で「額装する」のほか「(無実の罪を)着せる」の意味もある。眼鏡の「フレーム」も frames。"],
+    "etym_note": "古英語 framian（役立つ・準備する）に由来し、「形づくる・組み立てる」から「枠・骨組み」の意になった。",
+    "etym_chain": [
+      { "node": "framian", "sub": "役立つ・形づくる", "era": "古英語" },
+      { "node": "frame", "sub": "枠・骨組み", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "a picture frame", "ja": "写真の額縁" },
+      { "en": "a window frame", "ja": "窓枠" },
+      { "en": "frame of mind", "ja": "心の状態・気分" },
+      { "en": "frame someone", "ja": "〜に罪を着せる" },
+      { "en": "a time frame", "ja": "時間の枠・期間" },
+      { "en": "the frame of a bike", "ja": "自転車の骨組み" }
+    ],
+    "related": [
+      { "en": "framework", "ja": "枠組み・骨組み" },
+      { "en": "border", "ja": "縁・境界" },
+      { "en": "structure", "ja": "構造" }
+    ],
+    "faq": [
+      { "q": "frame someone の意味は？", "a": "「(人に)無実の罪を着せる・はめる」という意味です。" },
+      { "q": "frame of mind の意味は？", "a": "「心の状態・気分」という意味の表現です。" }
+    ],
+    "quiz": [
+      { "q": "「彼女はその写真を木の額縁に入れた」= She put the photo in a wooden ___.", "A": "frame", "B": "flame", "C": "fame", "D": "frade", "correct": "A" },
+      { "q": "frame someone の意味は？", "A": "〜に罪を着せる", "B": "〜を助ける", "C": "〜を撮影する", "D": "〜を額装する", "correct": "A" }
+    ]
+  },
+  {
+    "english": "hello",
+    "pron": "həˈloʊ",
+    "kana": "ハロー",
+    "hinshi": "間投詞 / 名詞",
+    "ld_pos": "interjection",
+    "ld_etym": "呼びかけの hollo/hallo から",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "あいさつ"],
+    "meaning_main": "こんにちは / もしもし / やあ",
+    "description": "hello（ハロー）の意味・使い方・例文。出会ったときや電話での基本のあいさつ「こんにちは・もしもし」を表す間投詞を解説。",
+    "keywords": ["hello 意味", "hello 使い方", "こんにちは 英語", "もしもし 英語"],
+    "meanings": [
+      { "hinshi": "【間投詞】こんにちは / やあ", "note": "人に会ったときの基本のあいさつ。時間帯を問わず使える。" },
+      { "hinshi": "【間投詞】もしもし", "note": "電話で相手を呼ぶとき。" }
+    ],
+    "usages": [
+      { "title": "① あいさつ", "desc": "対面。", "example_en": "Hello, nice to meet you.", "example_ja": "こんにちは、はじめまして。" },
+      { "title": "② 電話", "desc": "電話口で。", "example_en": "Hello? Who's calling?", "example_ja": "もしもし、どちら様ですか？" }
+    ],
+    "warn": ["hello は時間帯を問わない基本のあいさつ。hi はよりくだけた言い方。つづりは hallo / hullo とも書くが hello が標準。"],
+    "etym_note": "人の注意を引く呼びかけ hollo / hallo（おーい）に由来。19世紀後半、電話の普及とともに応答語として広まった。",
+    "etym_chain": [
+      { "node": "hollo", "sub": "おーい（呼びかけ）", "era": "初期近代英語" },
+      { "node": "hello", "sub": "こんにちは・もしもし", "era": "19世紀英語" }
+    ],
+    "phrases": [
+      { "en": "say hello", "ja": "あいさつする" },
+      { "en": "hello there", "ja": "やあ・こんにちは" },
+      { "en": "say hello to", "ja": "〜によろしく伝える" },
+      { "en": "a warm hello", "ja": "温かいあいさつ" },
+      { "en": "wave hello", "ja": "手を振ってあいさつする" },
+      { "en": "hello, everyone", "ja": "皆さん、こんにちは" }
+    ],
+    "related": [
+      { "en": "hi", "ja": "やあ（くだけた）" },
+      { "en": "goodbye", "ja": "さようなら（対）" },
+      { "en": "greeting", "ja": "あいさつ" }
+    ],
+    "faq": [
+      { "q": "hello と hi の違いは？", "a": "どちらも「こんにちは」ですが、hi のほうがよりくだけた・親しい言い方です。" },
+      { "q": "「say hello to 〜」の意味は？", "a": "「〜によろしく伝える」という意味でも使われます。" }
+    ],
+    "quiz": [
+      { "q": "「こんにちは、はじめまして」= ___, nice to meet you.", "A": "Hello", "B": "Yellow", "C": "Hollow", "D": "Fellow", "correct": "A" },
+      { "q": "hello のよりくだけた言い方は？", "A": "hi", "B": "bye", "C": "no", "D": "yes", "correct": "A" }
+    ]
+  },
+  {
+    "english": "knight",
+    "pron": "ˈnaɪt",
+    "kana": "ナイト",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "古英語 cniht（若者・従者）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "歴史・文化"],
+    "meaning_main": "騎士 / (英)ナイト爵位の人 / (チェス)ナイト",
+    "description": "knight（ナイト）の意味・使い方・例文。中世の「騎士」、英国のナイト爵位、チェスの駒「ナイト」という意味の名詞を解説。k は黙字。",
+    "keywords": ["knight 意味", "knight 使い方", "騎士 英語", "night 違い"],
+    "meanings": [
+      { "hinshi": "【名詞】騎士", "note": "中世ヨーロッパで、馬に乗り主君に仕えた武人。" },
+      { "hinshi": "【名詞】(英)ナイト（Sir の称号を持つ人）", "note": "英国王から与えられる爵位。名前の前に Sir を付ける。" },
+      { "hinshi": "【名詞】(チェス)ナイト", "note": "馬の形をした、L字に動く駒。" }
+    ],
+    "usages": [
+      { "title": "① 中世の騎士", "desc": "歴史。", "example_en": "The brave knight fought the dragon.", "example_ja": "その勇敢な騎士は竜と戦った。" },
+      { "title": "② 叙勲される", "desc": "英国。", "example_en": "He was knighted by the Queen.", "example_ja": "彼は女王からナイトの爵位を授けられた。" }
+    ],
+    "warn": ["knight の k は発音しません（「ナイト」）。同音の night（夜）とつづり・意味が違うので注意。動詞で「ナイトに叙する」の意も（knight）。"],
+    "etym_note": "古英語 cniht（若者・従者）に由来。「主君に仕える若者」から「騎士」へ意味が発展した。k はかつて発音されたが黙字化した。",
+    "etym_chain": [
+      { "node": "cniht", "sub": "若者・従者", "era": "古英語" },
+      { "node": "knight", "sub": "騎士", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "a brave knight", "ja": "勇敢な騎士" },
+      { "en": "a knight in shining armor", "ja": "白馬の騎士（頼れる救い手）" },
+      { "en": "be knighted", "ja": "ナイトに叙せられる" },
+      { "en": "a medieval knight", "ja": "中世の騎士" },
+      { "en": "the Knights of the Round Table", "ja": "円卓の騎士" },
+      { "en": "move the knight", "ja": "（チェスで）ナイトを動かす" }
+    ],
+    "related": [
+      { "en": "night", "ja": "夜（同音異義）" },
+      { "en": "armor", "ja": "よろい・甲冑" },
+      { "en": "knighthood", "ja": "騎士の身分・ナイト爵位" }
+    ],
+    "faq": [
+      { "q": "knight と night の違いは？", "a": "発音は同じ /naɪt/ ですが、knight は「騎士」、night は「夜」です。knight は k が黙字です。" },
+      { "q": "「a knight in shining armor」の意味は？", "a": "「白馬の騎士」＝困ったときに現れる頼もしい救い手を表す比喩です。" }
+    ],
+    "quiz": [
+      { "q": "「その勇敢な騎士は竜と戦った」= The brave ___ fought the dragon.", "A": "knight", "B": "night", "C": "knife", "D": "kite", "correct": "A" },
+      { "q": "knight の k は発音する？", "A": "しない（黙字）", "B": "する", "C": "時々する", "D": "ク と読む", "correct": "A" }
+    ]
+  },
+  {
+    "english": "mediterranean",
+    "pron": "ˌmedɪtəˈreɪniən",
+    "kana": "メディタレーニアン",
+    "hinshi": "固有名詞 / 形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "ラテン語 mediterraneus（陸の中央の）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "地理で頻出"],
+    "meaning_main": "地中海 / 地中海の",
+    "description": "Mediterranean（メディタレーニアン）の意味・使い方・例文。ヨーロッパ・アフリカ・アジアに囲まれた「地中海」、また「地中海の」という意味を解説。",
+    "keywords": ["Mediterranean 意味", "地中海 英語", "地中海性気候 英語", "Mediterranean Sea"],
+    "meanings": [
+      { "hinshi": "【固有名詞】地中海（the Mediterranean）", "note": "ヨーロッパ・北アフリカ・西アジアに囲まれた海。the Mediterranean (Sea) の形で使う。" },
+      { "hinshi": "【形容詞】地中海の / 地中海性の", "note": "地中海地域に関する。気候・料理などに使う。" }
+    ],
+    "usages": [
+      { "title": "① 地中海", "desc": "地理。", "example_en": "They sailed across the Mediterranean.", "example_ja": "彼らは地中海を横断して航海した。" },
+      { "title": "② 地中海性気候", "desc": "気候・文化。", "example_en": "The region has a Mediterranean climate.", "example_ja": "その地域は地中海性気候だ。" }
+    ],
+    "warn": ["Mediterranean は固有名詞なので大文字で始める（当サイトはファイル名の都合で見出しは小文字表記）。長いつづりだが medi（中）+ terra（陸）で覚えやすい。"],
+    "etym_note": "ラテン語 mediterraneus（medius「中央の」+ terra「陸」＝陸に囲まれた・陸の中央の）に由来。「陸に囲まれた海」を意味する。",
+    "etym_chain": [
+      { "node": "medius + terra", "sub": "中央＋陸", "era": "ラテン語" },
+      { "node": "mediterraneus", "sub": "陸の中央の", "era": "ラテン語" },
+      { "node": "Mediterranean", "sub": "地中海（の）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the Mediterranean Sea", "ja": "地中海" },
+      { "en": "a Mediterranean climate", "ja": "地中海性気候" },
+      { "en": "Mediterranean cuisine", "ja": "地中海料理" },
+      { "en": "across the Mediterranean", "ja": "地中海を越えて" },
+      { "en": "the Mediterranean coast", "ja": "地中海沿岸" },
+      { "en": "a Mediterranean island", "ja": "地中海の島" }
+    ],
+    "related": [
+      { "en": "sea", "ja": "海" },
+      { "en": "Europe", "ja": "ヨーロッパ" },
+      { "en": "climate", "ja": "気候" }
+    ],
+    "faq": [
+      { "q": "Mediterranean climate とは？", "a": "夏は乾燥して暑く、冬は温暖で雨が多い「地中海性気候」のことです。" },
+      { "q": "Mediterranean の覚え方は？", "a": "medi（中央）+ terra（陸）で「陸に囲まれた（海）」と覚えると綴りやすいです。" }
+    ],
+    "quiz": [
+      { "q": "「彼らは地中海を横断して航海した」= They sailed across the ___.", "A": "Mediterranean", "B": "Atlantic", "C": "Pacific", "D": "Caribbean", "correct": "A" },
+      { "q": "Mediterranean の語源の意味は？", "A": "陸に囲まれた", "B": "深い青", "C": "波の荒い", "D": "南の", "correct": "A" }
+    ]
+  },
+  {
+    "english": "percussion",
+    "pron": "pərˈkʌʃn",
+    "kana": "パーカッション",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 percutere（強く打つ）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "音楽"],
+    "meaning_main": "打楽器（類） / 打診 / 衝撃",
+    "description": "percussion（パーカッション）の意味・使い方・例文。太鼓やシンバルなど「打楽器」の総称、また医学の「打診」という意味の名詞を解説。",
+    "keywords": ["percussion 意味", "percussion 使い方", "打楽器 英語", "パーカッション"],
+    "meanings": [
+      { "hinshi": "【名詞】打楽器（総称）", "note": "たたいて音を出す楽器の総称（ドラム、シンバル、木琴など）。" },
+      { "hinshi": "【名詞】(医学)打診", "note": "体を軽くたたいて内部の状態を調べる診察法。" }
+    ],
+    "usages": [
+      { "title": "① 打楽器", "desc": "音楽。", "example_en": "He plays percussion in the orchestra.", "example_ja": "彼はオーケストラで打楽器を演奏する。" },
+      { "title": "② パーカッションの音", "desc": "音楽。", "example_en": "The song has a strong percussion beat.", "example_ja": "その曲は力強い打楽器のビートがある。" }
+    ],
+    "warn": ["percussion は打楽器の総称。奏者は percussionist。金管 brass、木管 woodwind、弦 strings と並ぶオーケストラのセクション。"],
+    "etym_note": "ラテン語 percutere（per-「すっかり」+ quatere「打つ」＝強く打つ）に由来。「打つこと」を意味する。",
+    "etym_chain": [
+      { "node": "percutere", "sub": "強く打つ", "era": "ラテン語" },
+      { "node": "percussion", "sub": "打楽器・打診", "era": "16世紀英語" }
+    ],
+    "phrases": [
+      { "en": "percussion instruments", "ja": "打楽器" },
+      { "en": "play percussion", "ja": "打楽器を演奏する" },
+      { "en": "the percussion section", "ja": "打楽器パート" },
+      { "en": "a percussion ensemble", "ja": "打楽器アンサンブル" },
+      { "en": "add percussion", "ja": "打楽器を加える" },
+      { "en": "heavy percussion", "ja": "力強い打楽器" }
+    ],
+    "related": [
+      { "en": "drum", "ja": "太鼓・ドラム" },
+      { "en": "percussionist", "ja": "打楽器奏者" },
+      { "en": "rhythm", "ja": "リズム" }
+    ],
+    "faq": [
+      { "q": "percussion とは？", "a": "太鼓・シンバル・木琴など、たたいて音を出す「打楽器」の総称です。" },
+      { "q": "打楽器奏者は英語で？", "a": "percussionist（パーカッショニスト）です。" }
+    ],
+    "quiz": [
+      { "q": "「彼はオーケストラで打楽器を演奏する」= He plays ___ in the orchestra.", "A": "percussion", "B": "permission", "C": "possession", "D": "profession", "correct": "A" },
+      { "q": "percussion に含まれる楽器は？", "A": "太鼓・シンバル", "B": "バイオリン", "C": "フルート", "D": "トランペット", "correct": "A" }
+    ]
+  },
+  {
+    "english": "temper",
+    "pron": "ˈtempər",
+    "kana": "テンパー",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 temperare（適度に調整する）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "感情"],
+    "meaning_main": "気性 / 短気 / 和らげる / 鍛える",
+    "description": "temper（テンパー）の意味・使い方・例文。気性・機嫌、特に「短気・かんしゃく」、また動詞で「和らげる・(金属を)鍛える」という意味を解説。",
+    "keywords": ["temper 意味", "temper 使い方", "短気 英語", "かんしゃく 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】気性 / 機嫌 / 短気", "note": "怒りやすさ。「lose one's temper」で「かっとなる」。" },
+      { "hinshi": "【動詞】和らげる / 加減する", "note": "厳しさなどをやわらげる。" },
+      { "hinshi": "【動詞】(金属を)鍛える / 焼き戻す", "note": "熱処理で強くする。" }
+    ],
+    "usages": [
+      { "title": "① 短気・かんしゃく", "desc": "感情。", "example_en": "He lost his temper and shouted.", "example_ja": "彼はかっとなって叫んだ。" },
+      { "title": "② 和らげる", "desc": "動詞として。", "example_en": "She tempered her criticism with kindness.", "example_ja": "彼女は批判を優しさで和らげた。" }
+    ],
+    "warn": ["temper は「気性・短気」。「lose one's temper（かっとなる）」「keep one's temper（平静を保つ）」「short-tempered（短気な）」が頻出。temperature（温度）とは別語。"],
+    "etym_note": "ラテン語 temperare（適度に混ぜる・調整する）に由来。「調子・気質の混ざり具合」から「気性」へ。",
+    "etym_chain": [
+      { "node": "temperare", "sub": "適度に調整する", "era": "ラテン語" },
+      { "node": "temper", "sub": "気性・和らげる", "era": "古英語〜中英語" }
+    ],
+    "phrases": [
+      { "en": "lose one's temper", "ja": "かっとなる・怒る" },
+      { "en": "keep one's temper", "ja": "平静を保つ" },
+      { "en": "a bad temper", "ja": "怒りっぽい気性" },
+      { "en": "a quick temper", "ja": "短気" },
+      { "en": "short-tempered", "ja": "短気な" },
+      { "en": "temper justice with mercy", "ja": "正義を慈悲で和らげる" }
+    ],
+    "related": [
+      { "en": "temperament", "ja": "気質・気性" },
+      { "en": "mood", "ja": "気分・機嫌" },
+      { "en": "anger", "ja": "怒り" }
+    ],
+    "faq": [
+      { "q": "lose one's temper の意味は？", "a": "「かっとなる・平静を失って怒る」という意味です。反対は keep one's temper（平静を保つ）です。" },
+      { "q": "temper と temperature の違いは？", "a": "temper は「気性・短気」、temperature は「温度・体温」で別の語です。" }
+    ],
+    "quiz": [
+      { "q": "「彼はかっとなって叫んだ」= He lost his ___ and shouted.", "A": "temper", "B": "temple", "C": "temperature", "D": "tempo", "correct": "A" },
+      { "q": "short-tempered の意味は？", "A": "短気な", "B": "背が低い", "C": "気前のよい", "D": "落ち着いた", "correct": "A" }
+    ]
+  },
+  {
+    "english": "titanium",
+    "pron": "taɪˈteɪniəm",
+    "kana": "タイタニウム",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ギリシャ神話の巨神 Titan にちなむ",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "科学"],
+    "meaning_main": "チタン（軽くて強い金属元素）",
+    "description": "titanium（タイタニウム）の意味・使い方・例文。軽くて強く、さびにくい金属元素「チタン」を表す名詞を解説。記号 Ti。",
+    "keywords": ["titanium 意味", "titanium 使い方", "チタン 英語", "金属 元素 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】チタン", "note": "軽くて強く、さびにくい銀白色の金属元素。元素記号 Ti。航空機・医療・眼鏡などに使われる。" }
+    ],
+    "usages": [
+      { "title": "① 軽くて強い金属", "desc": "素材。", "example_en": "The frame is made of lightweight titanium.", "example_ja": "そのフレームは軽量なチタンでできている。" },
+      { "title": "② 医療・工業", "desc": "用途。", "example_en": "Titanium is used in artificial joints.", "example_ja": "チタンは人工関節に使われる。" }
+    ],
+    "warn": ["titanium は「チタン」（元素記号 Ti）。軽量・高強度・耐食性・生体適合性が特長。発音は「タイテイニアム」に近い。"],
+    "etym_note": "ギリシャ神話の巨大な神々 Titans（タイタン）にちなんで、その強さから名づけられた。1795年に命名。",
+    "etym_chain": [
+      { "node": "Titan", "sub": "ギリシャ神話の巨神", "era": "ギリシャ神話" },
+      { "node": "titanium", "sub": "チタン", "era": "1795年（命名）" }
+    ],
+    "phrases": [
+      { "en": "made of titanium", "ja": "チタン製の" },
+      { "en": "a titanium frame", "ja": "チタンのフレーム" },
+      { "en": "titanium alloy", "ja": "チタン合金" },
+      { "en": "lightweight titanium", "ja": "軽量チタン" },
+      { "en": "titanium implants", "ja": "チタン製インプラント" },
+      { "en": "strong as titanium", "ja": "チタンのように強い" }
+    ],
+    "related": [
+      { "en": "metal", "ja": "金属" },
+      { "en": "aluminum", "ja": "アルミニウム" },
+      { "en": "alloy", "ja": "合金" }
+    ],
+    "faq": [
+      { "q": "titanium はどんな金属？", "a": "軽くて強く、さびにくい銀白色の金属元素（記号 Ti）で、航空機・眼鏡・人工関節などに使われます。" },
+      { "q": "titanium の名前の由来は？", "a": "ギリシャ神話の巨神タイタン（Titans）にちなみ、その強さから名づけられました。" }
+    ],
+    "quiz": [
+      { "q": "「そのフレームは軽量なチタンでできている」= The frame is made of lightweight ___.", "A": "titanium", "B": "aluminum", "C": "uranium", "D": "calcium", "correct": "A" },
+      { "q": "titanium の名の由来は？", "A": "ギリシャ神話の巨神タイタン", "B": "発見者の名前", "C": "産地の地名", "D": "色の名前", "correct": "A" }
+    ]
+  },
+  {
+    "english": "trail",
+    "pron": "ˈtreɪl",
+    "kana": "トレイル",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "noun",
+    "ld_etym": "古フランス語 trailler（引きずる）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出語"],
+    "meaning_main": "小道 / 跡 / 引きずる / 後を追う",
+    "description": "trail（トレイル）の意味・使い方・例文。山や自然の中の「小道」、通った「跡」、また「引きずる・後を追う」という意味の名詞・動詞を解説。",
+    "keywords": ["trail 意味", "trail 使い方", "小道 英語", "跡 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】小道 / 山道（トレイル）", "note": "自然の中の踏み分け道・ハイキングコース。" },
+      { "hinshi": "【名詞】跡 / 痕跡", "note": "残された跡（足跡・けむりの筋など）。" },
+      { "hinshi": "【動詞】引きずる / 後を追う / (競技で)負けている", "note": "引きずる、あとをつける、リードを許している。" }
+    ],
+    "usages": [
+      { "title": "① 山道・小道", "desc": "名詞として。", "example_en": "We hiked along a mountain trail.", "example_ja": "私たちは山の小道を歩いた。" },
+      { "title": "② 後を追う・負けている", "desc": "動詞として。", "example_en": "The home team is trailing by two points.", "example_ja": "ホームチームは2点差で負けている。" }
+    ],
+    "warn": ["trail は「小道・跡・引きずる」。ハイキングコースの意味が身近。track/trace と近いが、trail は「自然の中の踏み分け道」の意が特徴。"],
+    "etym_note": "古フランス語 trailler（引きずる。ラテン語 tragula「引き網」から）に由来。「引きずった跡」から「小道・跡」へ。",
+    "etym_chain": [
+      { "node": "trailler", "sub": "引きずる", "era": "古フランス語" },
+      { "node": "trail", "sub": "跡・小道・引きずる", "era": "14世紀英語" }
+    ],
+    "phrases": [
+      { "en": "a hiking trail", "ja": "ハイキングコース" },
+      { "en": "a nature trail", "ja": "自然歩道" },
+      { "en": "follow the trail", "ja": "跡をたどる" },
+      { "en": "a trail of smoke", "ja": "けむりの筋" },
+      { "en": "trail behind", "ja": "遅れをとる・後ろをついていく" },
+      { "en": "on the trail of", "ja": "〜を追跡して" }
+    ],
+    "related": [
+      { "en": "path", "ja": "小道・進路" },
+      { "en": "track", "ja": "跡・追跡する" },
+      { "en": "trace", "ja": "跡・たどる" }
+    ],
+    "faq": [
+      { "q": "trail の身近な意味は？", "a": "山や自然の中の「小道・ハイキングコース」の意味でよく使われます（a hiking trail）。" },
+      { "q": "trail は「負けている」の意味もある？", "a": "はい。スポーツで「(点差で)負けている・リードを許している」という意味の動詞にもなります。" }
+    ],
+    "quiz": [
+      { "q": "「私たちは山の小道を歩いた」= We hiked along a mountain ___.", "A": "trail", "B": "train", "C": "trial", "D": "trait", "correct": "A" },
+      { "q": "a hiking trail の意味は？", "A": "ハイキングコース", "B": "登山電車", "C": "山小屋", "D": "地図", "correct": "A" }
+    ]
+  },
+  {
+    "english": "trivial",
+    "pron": "ˈtrɪviəl",
+    "kana": "トリビアル",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "ラテン語 trivium（三叉路＝ありふれた場所）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "ささいな / つまらない / 取るに足りない",
+    "description": "trivial（トリビアル）の意味・使い方・例文。重要でない、ささいでつまらない、取るに足りない、という意味の形容詞を解説。",
+    "keywords": ["trivial 意味", "trivial 使い方", "ささいな 英語", "取るに足りない 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】ささいな / 取るに足りない", "note": "重要でなく、わざわざ気にする価値のない。" }
+    ],
+    "usages": [
+      { "title": "① ささいな問題", "desc": "重要でない。", "example_en": "Don't worry about such trivial matters.", "example_ja": "そんなささいなことで悩まないで。" },
+      { "title": "② つまらない理由", "desc": "取るに足りない。", "example_en": "They argued over something trivial.", "example_ja": "彼らはつまらないことで言い争った。" }
+    ],
+    "warn": ["trivial は「ささいな・取るに足りない」。名詞 trivia（雑学・つまらないこと）。日本語の「トリビア（雑学）」はこの trivia から。"],
+    "etym_note": "ラテン語 trivium（tri-「3つの」+ via「道」＝三叉路）に由来。人が集まる三叉路の「ありふれた・どこにでもある」から「ささいな」へ。",
+    "etym_chain": [
+      { "node": "trivium", "sub": "三叉路・ありふれた場所", "era": "ラテン語" },
+      { "node": "trivial", "sub": "ささいな", "era": "15世紀英語" }
+    ],
+    "phrases": [
+      { "en": "a trivial matter", "ja": "ささいな事柄" },
+      { "en": "trivial details", "ja": "取るに足りない細部" },
+      { "en": "far from trivial", "ja": "決してささいではない" },
+      { "en": "a trivial mistake", "ja": "ささいなミス" },
+      { "en": "dismiss as trivial", "ja": "取るに足りないと片づける" },
+      { "en": "seemingly trivial", "ja": "一見ささいな" }
+    ],
+    "related": [
+      { "en": "trivia", "ja": "雑学・つまらないこと" },
+      { "en": "insignificant", "ja": "取るに足りない" },
+      { "en": "minor", "ja": "小さな・重要でない" }
+    ],
+    "faq": [
+      { "q": "trivial の反対語は？", "a": "important（重要な）や significant（重大な）です。" },
+      { "q": "日本語の「トリビア」との関係は？", "a": "trivial の名詞形 trivia（雑学・ささいなこと）が、日本語の「トリビア」の由来です。" }
+    ],
+    "quiz": [
+      { "q": "「そんなささいなことで悩まないで」= Don't worry about such ___ matters.", "A": "trivial", "B": "crucial", "C": "critical", "D": "central", "correct": "A" },
+      { "q": "trivial の意味は？", "A": "ささいな・取るに足りない", "B": "重大な", "C": "危険な", "D": "複雑な", "correct": "A" }
+    ]
+  },
+  {
+    "english": "acute",
+    "pron": "əˈkjuːt",
+    "kana": "アキュート",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "ラテン語 acutus（鋭い）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "鋭い / 深刻な / 急性の / 鋭角の",
+    "description": "acute（アキュート）の意味・使い方・例文。感覚が鋭い、問題が深刻な、病気が急性の、角度が鋭角の、という意味の形容詞を解説。",
+    "keywords": ["acute 意味", "acute 使い方", "鋭い 英語", "急性の 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】鋭い / 鋭敏な", "note": "感覚・知覚がするどい。" },
+      { "hinshi": "【形容詞】深刻な / 激しい", "note": "問題・不足などが差し迫って深刻。" },
+      { "hinshi": "【形容詞】急性の / 鋭角の", "note": "医学で「急性の」（⇔慢性 chronic）。数学で90度未満の「鋭角の」。" }
+    ],
+    "usages": [
+      { "title": "① 深刻な", "desc": "問題。", "example_en": "There is an acute shortage of water.", "example_ja": "深刻な水不足がある。" },
+      { "title": "② 急性の", "desc": "医学。", "example_en": "He was treated for acute pain.", "example_ja": "彼は急性の痛みの治療を受けた。" }
+    ],
+    "warn": ["acute は「鋭い・深刻な・急性の・鋭角の」と多義。医学では急性 acute ⇔ 慢性 chronic。数学の鋭角 acute angle ⇔ 鈍角 obtuse angle。"],
+    "etym_note": "ラテン語 acutus（acuere「とがらせる」の過去分詞＝鋭くされた）に由来。",
+    "etym_chain": [
+      { "node": "acutus", "sub": "鋭い", "era": "ラテン語" },
+      { "node": "acute", "sub": "鋭い・深刻な", "era": "14世紀英語" }
+    ],
+    "phrases": [
+      { "en": "an acute shortage", "ja": "深刻な不足" },
+      { "en": "acute pain", "ja": "激しい痛み・急性の痛み" },
+      { "en": "an acute sense of smell", "ja": "鋭い嗅覚" },
+      { "en": "an acute angle", "ja": "鋭角" },
+      { "en": "acute awareness", "ja": "鋭い認識" },
+      { "en": "become acute", "ja": "深刻になる" }
+    ],
+    "related": [
+      { "en": "chronic", "ja": "慢性の（医学の対）" },
+      { "en": "sharp", "ja": "鋭い" },
+      { "en": "severe", "ja": "深刻な・厳しい" }
+    ],
+    "faq": [
+      { "q": "医学の acute の反対は？", "a": "chronic（慢性の）です。acute は「急性の」を意味します。" },
+      { "q": "acute angle とは？", "a": "90度未満の「鋭角」のことです。反対は obtuse angle（鈍角）です。" }
+    ],
+    "quiz": [
+      { "q": "「深刻な水不足がある」= There is an ___ shortage of water.", "A": "acute", "B": "cute", "C": "acid", "D": "actual", "correct": "A" },
+      { "q": "医学で acute（急性）の反対は？", "A": "chronic", "B": "clinic", "C": "classic", "D": "cosmic", "correct": "A" }
+    ]
+  },
+  {
+    "english": "boost",
+    "pron": "ˈbuːst",
+    "kana": "ブースト",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "verb",
+    "ld_etym": "由来不詳（18世紀アメリカ英語）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出語"],
+    "meaning_main": "押し上げる / 高める / 後押し",
+    "description": "boost（ブースト）の意味・使い方・例文。売上や自信などを押し上げて高める、勢いを与える、という意味の動詞・名詞を解説。",
+    "keywords": ["boost 意味", "boost 使い方", "高める 英語", "後押し 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】押し上げる / 高める / 増やす", "note": "数値・意欲・人気などを引き上げる。" },
+      { "hinshi": "【名詞】後押し / 増加 / 励み", "note": "「a boost to 〜」で「〜への後押し」。" }
+    ],
+    "usages": [
+      { "title": "① 高める", "desc": "動詞として。", "example_en": "The ad campaign boosted sales.", "example_ja": "その広告キャンペーンは売上を押し上げた。" },
+      { "title": "② 励み・後押し", "desc": "名詞として。", "example_en": "Winning gave the team a real boost.", "example_ja": "勝利はチームに大きな励みを与えた。" }
+    ],
+    "warn": ["boost は「押し上げる・高める」。売上 boost sales、自信 boost confidence、士気 boost morale など幅広い。"],
+    "etym_note": "18世紀アメリカ英語で現れた語で、正確な由来は不明。「下から押し上げる」という基本イメージを持つ。",
+    "etym_chain": [
+      { "node": "boost", "sub": "押し上げる", "era": "18世紀アメリカ英語" }
+    ],
+    "phrases": [
+      { "en": "boost sales", "ja": "売上を押し上げる" },
+      { "en": "boost confidence", "ja": "自信を高める" },
+      { "en": "boost morale", "ja": "士気を高める" },
+      { "en": "a boost to the economy", "ja": "経済への後押し" },
+      { "en": "give a boost", "ja": "後押しする・励みを与える" },
+      { "en": "boost the immune system", "ja": "免疫力を高める" }
+    ],
+    "related": [
+      { "en": "increase", "ja": "増やす" },
+      { "en": "enhance", "ja": "高める・強化する" },
+      { "en": "encourage", "ja": "励ます" }
+    ],
+    "faq": [
+      { "q": "boost はどんなものを目的語にとる？", "a": "sales（売上）、confidence（自信）、morale（士気）、economy（経済）など、高めたいもの全般に使えます。" },
+      { "q": "boost は名詞にもなる？", "a": "はい。「後押し・増加・励み」という名詞にもなります（give a boost）。" }
+    ],
+    "quiz": [
+      { "q": "「その広告キャンペーンは売上を押し上げた」= The ad campaign ___ sales.", "A": "boosted", "B": "boasted", "C": "roasted", "D": "busted", "correct": "A" },
+      { "q": "boost の意味は？", "A": "押し上げる・高める", "B": "減らす", "C": "壊す", "D": "隠す", "correct": "A" }
+    ]
+  },
+  {
+    "english": "breed",
+    "pron": "ˈbriːd",
+    "kana": "ブリード",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "verb",
+    "ld_etym": "古英語 brēdan（子を産む・育てる）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出語"],
+    "meaning_main": "繁殖する / (動物を)飼育する / 品種",
+    "description": "breed（ブリード）の意味・使い方・例文。動物が繁殖する・繁殖させる、また名詞で「品種」という意味を解説。breed-bred-bred。",
+    "keywords": ["breed 意味", "breed 使い方", "繁殖 英語", "品種 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】繁殖する / (動物を)繁殖させる・飼育する", "note": "子を産んで増える、または増やす。breed – bred – bred と変化。" },
+      { "hinshi": "【名詞】品種 / 種類", "note": "犬・家畜などの品種。" }
+    ],
+    "usages": [
+      { "title": "① 繁殖させる", "desc": "動詞として。", "example_en": "They breed horses on the farm.", "example_ja": "彼らはその牧場で馬を繁殖させている。" },
+      { "title": "② 品種", "desc": "名詞として。", "example_en": "What breed is your dog?", "example_ja": "あなたの犬は何という品種ですか？" }
+    ],
+    "warn": ["breed は breed – bred – bred と変化する不規則動詞。比喩で「(問題・不満などを)生み出す」の意も（Poverty breeds crime.）。名詞は「品種」。"],
+    "etym_note": "古英語 brēdan（子を産む・温める・育てる。brōd「ひな・子」から）に由来。",
+    "etym_chain": [
+      { "node": "brēdan", "sub": "子を産む・育てる", "era": "古英語" },
+      { "node": "breed", "sub": "繁殖する・品種", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "breed animals", "ja": "動物を繁殖させる" },
+      { "en": "a breed of dog", "ja": "犬の品種" },
+      { "en": "breed in captivity", "ja": "飼育下で繁殖する" },
+      { "en": "familiarity breeds contempt", "ja": "慣れは軽蔑を生む（ことわざ）" },
+      { "en": "a rare breed", "ja": "珍しい種類・変わり者" },
+      { "en": "selectively breed", "ja": "選択的に交配する" }
+    ],
+    "related": [
+      { "en": "breeding", "ja": "繁殖・飼育" },
+      { "en": "raise", "ja": "育てる・飼育する" },
+      { "en": "species", "ja": "（生物の）種" }
+    ],
+    "faq": [
+      { "q": "breed の活用は？", "a": "breed – bred – bred と変化する不規則動詞です。" },
+      { "q": "breed は比喩でも使う？", "a": "はい。「(悪いものなどを)生み出す」という意味でも使います。例: Poverty breeds crime.（貧困は犯罪を生む）" }
+    ],
+    "quiz": [
+      { "q": "「あなたの犬は何という品種ですか？」= What ___ is your dog?", "A": "breed", "B": "bread", "C": "broad", "D": "breeze", "correct": "A" },
+      { "q": "breed の過去形は？", "A": "bred", "B": "breeded", "C": "broad", "D": "brought", "correct": "A" }
+    ]
+  },
+  {
+    "english": "economy",
+    "pron": "ɪˈkɑːnəmi",
+    "kana": "エコノミー",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ギリシャ語 oikonomia（家政・家の管理）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "社会・経済"],
+    "meaning_main": "経済 / 節約",
+    "description": "economy（エコノミー）の意味・使い方・例文。国や地域の「経済」、また無駄を省く「節約」という意味の名詞を解説。",
+    "keywords": ["economy 意味", "economy 使い方", "経済 英語", "節約 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】経済", "note": "国・地域の生産・消費・お金の動き全体。" },
+      { "hinshi": "【名詞】節約 / 倹約", "note": "無駄を省くこと。「economy class」でエコノミークラス（割安の座席）。" }
+    ],
+    "usages": [
+      { "title": "① 経済", "desc": "社会。", "example_en": "The country's economy is growing.", "example_ja": "その国の経済は成長している。" },
+      { "title": "② 節約", "desc": "倹約。", "example_en": "We flew economy class to save money.", "example_ja": "私たちは節約のためエコノミークラスで飛んだ。" }
+    ],
+    "warn": ["economy は「経済」と「節約」。形容詞 economic（経済の）と economical（節約になる）は意味が違うので注意。名詞 economics は「経済学」。"],
+    "etym_note": "ギリシャ語 oikonomia（oikos「家」+ nomos「管理」＝家政・家の切り盛り）に由来。「家の管理」から「経済・節約」へ。",
+    "etym_chain": [
+      { "node": "oikonomia", "sub": "家政・家の管理", "era": "古代ギリシャ語" },
+      { "node": "economy", "sub": "経済・節約", "era": "16世紀英語" }
+    ],
+    "phrases": [
+      { "en": "the global economy", "ja": "世界経済" },
+      { "en": "a strong economy", "ja": "力強い経済" },
+      { "en": "economy class", "ja": "エコノミークラス" },
+      { "en": "the local economy", "ja": "地域経済" },
+      { "en": "boost the economy", "ja": "経済を活性化する" },
+      { "en": "a market economy", "ja": "市場経済" }
+    ],
+    "related": [
+      { "en": "economic", "ja": "経済の" },
+      { "en": "economical", "ja": "経済的な・節約になる" },
+      { "en": "economics", "ja": "経済学" }
+    ],
+    "faq": [
+      { "q": "economic と economical の違いは？", "a": "economic は「経済の（経済に関する）」、economical は「経済的な・節約になる」で、意味が異なります。" },
+      { "q": "economy と economics の違いは？", "a": "economy は「経済（そのもの）」、economics は「経済学（学問）」です。" }
+    ],
+    "quiz": [
+      { "q": "「その国の経済は成長している」= The country's ___ is growing.", "A": "economy", "B": "economic", "C": "economics", "D": "economical", "correct": "A" },
+      { "q": "「経済学」を表すのは？", "A": "economics", "B": "economy", "C": "economic", "D": "economize", "correct": "A" }
+    ]
+  },
+  {
+    "english": "fade",
+    "pron": "ˈfeɪd",
+    "kana": "フェイド",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "古フランス語 fader（しおれる・色あせる）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出語"],
+    "meaning_main": "色あせる / 薄れる / 次第に消える",
+    "description": "fade（フェイド）の意味・使い方・例文。色や音・記憶などが次第に薄れて消えていく、色あせる、という意味の動詞を解説。",
+    "keywords": ["fade 意味", "fade 使い方", "色あせる 英語", "薄れる 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】色あせる / 薄れる", "note": "色・光が次第に薄くなる。" },
+      { "hinshi": "【動詞】次第に消える / 弱まる", "note": "音・記憶・感情などが徐々に消えていく。「fade away」で「消えていく」。" }
+    ],
+    "usages": [
+      { "title": "① 色あせる", "desc": "色。", "example_en": "The curtains have faded in the sun.", "example_ja": "そのカーテンは日光で色あせた。" },
+      { "title": "② 次第に消える", "desc": "音・記憶。", "example_en": "The music slowly faded away.", "example_ja": "その音楽は徐々に消えていった。" }
+    ],
+    "warn": ["fade は「色あせる・薄れる・次第に消える」。「fade away（消えていく）」「fade out（フェードアウト）」が頻出。映像・音の「フェード」もこの語。"],
+    "etym_note": "古フランス語 fader（しおれる・色あせる。ラテン語 fatuus「味気ない」から）に由来。",
+    "etym_chain": [
+      { "node": "fader", "sub": "しおれる・色あせる", "era": "古フランス語" },
+      { "node": "fade", "sub": "色あせる・薄れる", "era": "14世紀英語" }
+    ],
+    "phrases": [
+      { "en": "fade away", "ja": "次第に消えていく" },
+      { "en": "fade out", "ja": "フェードアウトする" },
+      { "en": "fade into the distance", "ja": "遠くへ消えていく" },
+      { "en": "colors fade", "ja": "色があせる" },
+      { "en": "memories fade", "ja": "記憶が薄れる" },
+      { "en": "fade from view", "ja": "見えなくなる" }
+    ],
+    "related": [
+      { "en": "disappear", "ja": "消える" },
+      { "en": "diminish", "ja": "減少する・薄れる" },
+      { "en": "vanish", "ja": "消え去る" }
+    ],
+    "faq": [
+      { "q": "fade away の意味は？", "a": "「次第に消えていく・弱まっていく」という意味です。音・記憶・存在などに使います。" },
+      { "q": "fade は色以外にも使う？", "a": "はい。音・記憶・感情・光など「次第に薄れて消えるもの」全般に使えます。" }
+    ],
+    "quiz": [
+      { "q": "「そのカーテンは日光で色あせた」= The curtains have ___ in the sun.", "A": "faded", "B": "fainted", "C": "failed", "D": "folded", "correct": "A" },
+      { "q": "fade away の意味は？", "A": "次第に消えていく", "B": "急に現れる", "C": "強くなる", "D": "固まる", "correct": "A" }
+    ]
+  },
+  {
+    "english": "flavor",
+    "pron": "ˈfleɪvər",
+    "kana": "フレーバー",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "noun",
+    "ld_etym": "古フランス語 flaor（香り・におい）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "頻出語"],
+    "meaning_main": "風味 / 味 / 特色 / 味つけする",
+    "description": "flavor（フレーバー）の意味・使い方・例文。食べ物の「風味・味」、また物事の「特色・持ち味」という意味の名詞・動詞を解説。英つづり flavour。",
+    "keywords": ["flavor 意味", "flavor 使い方", "風味 英語", "flavour 違い"],
+    "meanings": [
+      { "hinshi": "【名詞】風味 / 味 / 香味", "note": "食べ物・飲み物の味と香りの組み合わせ。英つづりは flavour。" },
+      { "hinshi": "【名詞】特色 / 持ち味", "note": "物事の独特の雰囲気・味わい。" },
+      { "hinshi": "【動詞】味つけする / 風味を加える", "note": "香味をつける。" }
+    ],
+    "usages": [
+      { "title": "① 風味・味", "desc": "食べ物。", "example_en": "This ice cream has a rich flavor.", "example_ja": "このアイスは濃厚な風味がある。" },
+      { "title": "② 特色", "desc": "比喩。", "example_en": "The town has a European flavor.", "example_ja": "その町にはヨーロッパ風の趣がある。" }
+    ],
+    "warn": ["flavor は米つづり、英つづりは flavour（u が入る）。「味」の taste と近いが、flavor は「味＋香り」の総合的な風味を指す。"],
+    "etym_note": "古フランス語 flaor（香り・におい）に由来し、ラテン語 flare「吹く」と関連する。「味と香り」を表す。",
+    "etym_chain": [
+      { "node": "flaor", "sub": "香り・におい", "era": "古フランス語" },
+      { "node": "flavor / flavour", "sub": "風味", "era": "中英語〜現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rich flavor", "ja": "濃厚な風味" },
+      { "en": "add flavor", "ja": "風味を加える" },
+      { "en": "a strawberry flavor", "ja": "いちご味" },
+      { "en": "full of flavor", "ja": "風味豊かな" },
+      { "en": "the flavor of the month", "ja": "今の一番人気・流行り" },
+      { "en": "natural flavor", "ja": "天然の香味" }
+    ],
+    "related": [
+      { "en": "flavour", "ja": "風味（英つづり）" },
+      { "en": "taste", "ja": "味・味わう" },
+      { "en": "aroma", "ja": "香り・芳香" }
+    ],
+    "faq": [
+      { "q": "flavor と taste の違いは？", "a": "taste は主に舌で感じる「味」、flavor は味と香りが合わさった「総合的な風味」を指します。" },
+      { "q": "flavor のイギリス式の綴りは？", "a": "flavour（u が入る）です。" }
+    ],
+    "quiz": [
+      { "q": "「このアイスは濃厚な風味がある」= This ice cream has a rich ___.", "A": "flavor", "B": "favor", "C": "flower", "D": "floor", "correct": "A" },
+      { "q": "flavor のイギリス式の綴りは？", "A": "flavour", "B": "flaver", "C": "flavior", "D": "flauvor", "correct": "A" }
+    ]
+  },
+  {
+    "english": "halt",
+    "pron": "ˈhɔːlt",
+    "kana": "ホルト",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "verb",
+    "ld_etym": "ドイツ語 Halt（停止）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "停止する / 止める / 停止",
+    "description": "halt（ホルト）の意味・使い方・例文。進行や活動を止める・停止する、また名詞で「停止」という意味の動詞・名詞を解説。",
+    "keywords": ["halt 意味", "halt 使い方", "停止する 英語", "止める 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】停止する / 止める", "note": "進行・活動をやめる・やめさせる。ややかたい語。" },
+      { "hinshi": "【名詞】停止 / 中断", "note": "「come to a halt」で「停止する」、「bring to a halt」で「止める」。" }
+    ],
+    "usages": [
+      { "title": "① 止める・止まる", "desc": "動詞として。", "example_en": "The government halted the construction.", "example_ja": "政府はその工事を停止させた。" },
+      { "title": "② 停止する", "desc": "名詞として。", "example_en": "The train came to a halt.", "example_ja": "その電車は停止した。" }
+    ],
+    "warn": ["halt は stop よりかたい語で、しばしば公式・命令的な文脈で使う。「Halt!」は「止まれ！」の号令。「come to a halt（停止する）」が頻出。"],
+    "etym_note": "ドイツ語 Halt（停止。halten「保つ・止める」から）に由来し、軍隊の号令として英語に入った。",
+    "etym_chain": [
+      { "node": "Halt", "sub": "停止", "era": "ドイツ語" },
+      { "node": "halt", "sub": "停止する", "era": "17世紀英語" }
+    ],
+    "phrases": [
+      { "en": "come to a halt", "ja": "停止する" },
+      { "en": "bring to a halt", "ja": "止める・停止させる" },
+      { "en": "halt production", "ja": "生産を停止する" },
+      { "en": "grind to a halt", "ja": "徐々に止まる・行き詰まる" },
+      { "en": "call a halt to", "ja": "〜に終止符を打つ" },
+      { "en": "a temporary halt", "ja": "一時停止" }
+    ],
+    "related": [
+      { "en": "stop", "ja": "止める・止まる" },
+      { "en": "pause", "ja": "一時停止する" },
+      { "en": "suspend", "ja": "一時中止する" }
+    ],
+    "faq": [
+      { "q": "halt と stop の違いは？", "a": "意味は近いですが、halt のほうがかたく公式・命令的な響きがあります（「Halt!」＝止まれ！）。" },
+      { "q": "come to a halt の意味は？", "a": "「(乗り物などが)停止する・止まる」という意味の表現です。" }
+    ],
+    "quiz": [
+      { "q": "「その電車は停止した」= The train came to a ___.", "A": "halt", "B": "hall", "C": "hold", "D": "half", "correct": "A" },
+      { "q": "halt の意味は？", "A": "停止する・止める", "B": "始める", "C": "続ける", "D": "急ぐ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "honor",
+    "pron": "ˈɑːnər",
+    "kana": "オナー",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 honor（名誉・敬意）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "頻出語"],
+    "meaning_main": "名誉 / 敬意 / 光栄 / 尊敬する",
+    "description": "honor（オナー）の意味・使い方・例文。名誉・光栄、敬意、また「尊敬する・(約束を)守る」という意味の名詞・動詞を解説。英つづり honour。h は黙字。",
+    "keywords": ["honor 意味", "honor 使い方", "名誉 英語", "honour 違い"],
+    "meanings": [
+      { "hinshi": "【名詞】名誉 / 光栄 / 敬意", "note": "誇りや尊敬に値すること。「It's an honor to 〜」で「〜は光栄だ」。英つづり honour。" },
+      { "hinshi": "【動詞】敬意を表す / (約束・契約を)守る", "note": "たたえる、尊重する、履行する。" }
+    ],
+    "usages": [
+      { "title": "① 光栄", "desc": "名詞として。", "example_en": "It's a great honor to be here.", "example_ja": "ここにいられることは大変光栄です。" },
+      { "title": "② 敬意を表す・守る", "desc": "動詞として。", "example_en": "We must honor our promises.", "example_ja": "私たちは約束を守らなければならない。" }
+    ],
+    "warn": ["honor は h を発音しません（「オナー」）。米つづり honor、英つづり honour。動詞で「(約束・契約を)守る・履行する」の意も重要。"],
+    "etym_note": "ラテン語 honor（名誉・敬意・地位）に由来し、古フランス語を経て英語へ。h は語源にはあるが発音されない。",
+    "etym_chain": [
+      { "node": "honor", "sub": "名誉・敬意", "era": "ラテン語" },
+      { "node": "honour", "sub": "名誉", "era": "古フランス語〜中英語" },
+      { "node": "honor / honour", "sub": "名誉・尊敬する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "in honor of", "ja": "〜に敬意を表して・〜を記念して" },
+      { "en": "it's an honor", "ja": "光栄です" },
+      { "en": "honor a promise", "ja": "約束を守る" },
+      { "en": "a sense of honor", "ja": "名誉心" },
+      { "en": "with honors", "ja": "優等で" },
+      { "en": "guest of honor", "ja": "主賓" }
+    ],
+    "related": [
+      { "en": "honour", "ja": "名誉（英つづり）" },
+      { "en": "honorable", "ja": "立派な・名誉ある" },
+      { "en": "respect", "ja": "尊敬・敬意" }
+    ],
+    "faq": [
+      { "q": "honor の h は発音する？", "a": "いいえ、黙字で発音しません。「オナー」/ˈɑːnər/ と読みます。冠詞も an honor になります。" },
+      { "q": "honor のイギリス式の綴りは？", "a": "honour（u が入る）です。" }
+    ],
+    "quiz": [
+      { "q": "「ここにいられることは大変光栄です」= It's a great ___ to be here.", "A": "honor", "B": "horror", "C": "honer", "D": "humor", "correct": "A" },
+      { "q": "honor の h は発音する？", "A": "しない（黙字）", "B": "する", "C": "ハ と読む", "D": "時々する", "correct": "A" }
+    ]
+  },
+  {
+    "english": "image",
+    "pron": "ˈɪmɪdʒ",
+    "kana": "イメージ",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 imago（像・似姿）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "頻出語"],
+    "meaning_main": "画像 / 像 / 印象・イメージ",
+    "description": "image（イメージ）の意味・使い方・例文。写真などの「画像・像」、また人や物の「印象・イメージ」という意味の名詞を解説。",
+    "keywords": ["image 意味", "image 使い方", "画像 英語", "印象 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】画像 / 像 / 映像", "note": "写真・絵・鏡や画面に映る像。" },
+      { "hinshi": "【名詞】印象 / イメージ", "note": "人や組織が与える印象・世間の見方。" },
+      { "hinshi": "【名詞】心に描く像 / 心象", "note": "頭の中に思い浮かべる姿。" }
+    ],
+    "usages": [
+      { "title": "① 画像・像", "desc": "視覚。", "example_en": "The image on the screen was blurry.", "example_ja": "画面の画像はぼやけていた。" },
+      { "title": "② 印象・イメージ", "desc": "評判。", "example_en": "The company wants to improve its image.", "example_ja": "その会社はイメージを良くしたいと思っている。" }
+    ],
+    "warn": ["image は「画像・像」と「印象・イメージ」。動詞 imagine（想像する）、名詞 imagination（想像力）と同語源。日本語の『イメージする（想像する）』は英語では imagine を使う。"],
+    "etym_note": "ラテン語 imago（像・似姿・面影）に由来。「写し出された姿」から「画像・印象・心象」へ広がった。",
+    "etym_chain": [
+      { "node": "imago", "sub": "像・似姿", "era": "ラテン語" },
+      { "node": "image", "sub": "像・印象", "era": "13世紀英語" }
+    ],
+    "phrases": [
+      { "en": "a clear image", "ja": "鮮明な画像" },
+      { "en": "public image", "ja": "世間のイメージ・対外的印象" },
+      { "en": "improve one's image", "ja": "イメージを良くする" },
+      { "en": "a mirror image", "ja": "鏡像・そっくりなもの" },
+      { "en": "a mental image", "ja": "心に描く像" },
+      { "en": "image processing", "ja": "画像処理" }
+    ],
+    "related": [
+      { "en": "imagine", "ja": "想像する" },
+      { "en": "imagination", "ja": "想像力" },
+      { "en": "picture", "ja": "絵・写真・像" }
+    ],
+    "faq": [
+      { "q": "日本語の「イメージする」は image でいい？", "a": "いいえ。「想像する」の意味では動詞 imagine を使います。image は主に名詞「画像・印象」です。" },
+      { "q": "image の関連語は？", "a": "動詞 imagine（想像する）、名詞 imagination（想像力）です。" }
+    ],
+    "quiz": [
+      { "q": "「その会社はイメージを良くしたいと思っている」= The company wants to improve its ___.", "A": "image", "B": "imagine", "C": "village", "D": "message", "correct": "A" },
+      { "q": "「想像する」を表す動詞は？", "A": "imagine", "B": "image", "C": "damage", "D": "manage", "correct": "A" }
+    ]
+  }
+]
