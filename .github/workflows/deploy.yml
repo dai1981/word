@@ -1,27 +1,86 @@
-name: Deploy to Lolipop (s-)
-# 手動実行のみ（Actions タブの「Run workflow」ボタン）。
-# push では動かない ＝ コミットしても勝手に同期が走らない。
+name: Deploy to Lolipop
+
+# 指定したバッチのページ「だけ」をロリポップへアップロードする。
+#
+# ■ 設計 ■
+#   1. generate.py --batch {指定} --out _deploy で、そのバッチのHTMLだけを _deploy/ に生成
+#   2. lftp の mput で _deploy/ の中身だけを /word/word/ へ送る
+#
+#   過去バッチのファイルには一切触れない（生成すらしない）。
+#   mput はアップロード専用コマンドなので、サーバー側のファイル削除は
+#   構造的に起こり得ない。
+#
+# ■ 実行 ■
+#   Actions タブ → このワークフロー → Run workflow →
+#   batch 欄に「missing-batch1」と入力して実行。
+#   複数まとめて送る場合はカンマ区切り「missing-batch1,missing-batch2」。
+
 on:
   workflow_dispatch:
+    inputs:
+      batch:
+        description: 'アップロードするバッチ名（例: missing-batch1／カンマ区切りで複数可）'
+        required: true
+        type: string
+      dry_run:
+        description: '転送せず対象ファイル一覧だけ表示する'
+        required: false
+        default: false
+        type: boolean
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
       - name: リポジトリを取得
         uses: actions/checkout@v4
+
       - name: Python を準備
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: HTML を生成（data/*.json -> word/word/*.html）
-        run: python3 generate.py
-      - name: ロリポップへ FTP アップロード
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
-        with:
-          server:   ftp.lolipop.jp
-          username: lolipop.jp-dp07302908
-          password: 2021eigoduke
-          protocol: ftps          # 以前これで接続できていた設定
-          local-dir: ./word/word/
-          server-dir: /word/word/
-          state-name: .ftp-deploy-s.json   # ★s-専用の状態ファイル（r-とは別名）
+
+      - name: 指定バッチのHTMLだけを _deploy に生成
+        run: python3 generate.py --batch "${{ inputs.batch }}" --out _deploy
+
+      - name: 転送対象を確認
+        run: |
+          COUNT=$(find ./_deploy -name '*.html' | wc -l)
+          echo "転送対象: ${COUNT} ファイル"
+          ls -1 ./_deploy
+          if [ "$COUNT" -eq 0 ]; then
+            echo "::error::転送対象が0件です。中止します。"
+            exit 1
+          fi
+          if [ "$COUNT" -gt 500 ]; then
+            echo "::error::転送対象が ${COUNT} 件と多すぎます。batch の指定を確認してください。"
+            exit 1
+          fi
+
+      - name: lftp を導入
+        if: ${{ inputs.dry_run == false }}
+        run: sudo apt-get update -qq && sudo apt-get install -y lftp
+
+      - name: ロリポップへアップロード（追加・上書きのみ／削除なし）
+        if: ${{ inputs.dry_run == false }}
+        env:
+          FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
+        run: |
+          lftp -c "
+            set ftp:ssl-force true;
+            set ftp:ssl-protect-data true;
+            set ssl:verify-certificate no;
+            set net:max-retries 3;
+            set net:timeout 30;
+            set xfer:clobber true;
+            open -u 'lolipop.jp-dp07302908','$FTP_PASSWORD' 'ftp.lolipop.jp';
+            lcd ./_deploy;
+            cd /word/word;
+            mput *.html;
+            bye;
+          "
+          echo "アップロード完了"
+
+      - name: DRY RUN のため転送していません
+        if: ${{ inputs.dry_run == true }}
+        run: echo "上の一覧が転送対象です。実際に送るには dry_run のチェックを外して再実行してください。"
