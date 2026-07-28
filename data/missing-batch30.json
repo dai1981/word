@@ -1,0 +1,992 @@
+[
+  {
+    "english": "depose",
+    "pron": "dɪˈpoʊz",
+    "kana": "ディポウズ",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "ラテン語 deponere（下に置く）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "退位させる"],
+    "meaning_main": "(王・権力者を)退位させる／失脚させる／(法廷で)証言する",
+    "description": "depose（ディポウズ）の意味・使い方・語源を解説。王や権力者を退位させる、証言するという意味の動詞です。",
+    "keywords": ["depose 意味", "depose 使い方", "depose 語源", "depose 例文", "退位させる 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】(王・権力者を)退位させる、失脚させる", "note": "地位から引きずり降ろす" },
+      { "hinshi": "【動詞】(法廷で)宣誓証言する", "note": "法律用語" }
+    ],
+    "usages": [
+      { "title": "① 退位・失脚させる", "desc": "権力の座から降ろす", "example_en": "The king was deposed by the rebels.", "example_ja": "王は反乱軍によって退位させられた。" },
+      { "title": "② 証言する（法律）", "desc": "宣誓のうえ証言する", "example_en": "The witness was deposed under oath.", "example_ja": "証人は宣誓のうえ証言した。" }
+    ],
+    "warn": ["「退位させる」の名詞は deposition（退位・免職）。同じ deposition は「(法廷の)証言」「(化学の)堆積」の意味も持つ。pose（置く）と同語根"],
+    "etym_note": "ラテン語 deponere（de-「下に」+ ponere「置く」＝下に置く＝地位から降ろす）に由来し、pose（置く・ポーズ）や position（位置）と同語根です。",
+    "etym_chain": [
+      { "node": "ponere", "sub": "置く", "era": "ラテン語" },
+      { "node": "deponere", "sub": "下に置く", "era": "ラテン語" },
+      { "node": "depose", "sub": "退位させる・証言する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "depose a king", "ja": "王を退位させる" },
+      { "en": "be deposed", "ja": "失脚させられる" },
+      { "en": "depose a dictator", "ja": "独裁者を失脚させる" },
+      { "en": "depose a witness", "ja": "証人を尋問する" },
+      { "en": "deposed leader", "ja": "失脚した指導者" },
+      { "en": "depose under oath", "ja": "宣誓のうえ証言する" }
+    ],
+    "related": [
+      { "en": "deposition", "ja": "退位・免職・証言" },
+      { "en": "overthrow", "ja": "打倒する" },
+      { "en": "dethrone", "ja": "王位を奪う" },
+      { "en": "testify", "ja": "証言する" }
+    ],
+    "faq": [
+      { "q": "depose の名詞形は？", "a": "deposition です。「退位・免職」のほか、法律で「(宣誓のうえの)証言」、化学で「堆積」も意味します。" },
+      { "q": "depose と overthrow の違いは？", "a": "どちらも「権力の座から引きずり降ろす」ですが、depose は特に「王・元首を退位させる」、overthrow は「(政府・体制を)武力などで打倒する」に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "depose の意味は？", "A": "退位させる・失脚させる", "B": "即位させる", "C": "祝福する", "D": "配達する", "correct": "A" },
+      { "q": "depose の名詞形は？", "A": "deposition", "B": "deposement", "C": "deposal", "D": "deposity", "correct": "A" }
+    ]
+  },
+  {
+    "english": "detest",
+    "pron": "dɪˈtest",
+    "kana": "ディテスト",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "ラテン語 detestari（呪う・忌み嫌う）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "ひどく嫌う"],
+    "meaning_main": "(を)ひどく嫌う／忌み嫌う／毛嫌いする",
+    "description": "detest（ディテスト）の意味・使い方・語源を解説。ひどく嫌う、忌み嫌うという意味の動詞です。",
+    "keywords": ["detest 意味", "detest 使い方", "detest 語源", "detest 例文", "ひどく嫌う 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】(を)ひどく嫌う、忌み嫌う", "note": "hate より強い嫌悪。detest doing ～" }
+    ],
+    "usages": [
+      { "title": "① ひどく嫌う", "desc": "強い嫌悪", "example_en": "I detest dishonesty.", "example_ja": "私は不正直をひどく嫌う。" },
+      { "title": "② 〜するのが大嫌い", "desc": "detest doing ～", "example_en": "She detests being kept waiting.", "example_ja": "彼女は待たされるのが大嫌いだ。" }
+    ],
+    "warn": ["hate よりさらに強い「毛嫌い」。形容詞は detestable（忌まわしい）、名詞 detestation（嫌悪）。test（試す）とは無関係。目的語は動名詞（detest doing）"],
+    "etym_note": "ラテン語 detestari（de-「強調」+ testari「証言する・呪う」＝神々の前で呪う）に由来します。testify（証言する）と同語根です。",
+    "etym_chain": [
+      { "node": "testari", "sub": "証言する・呪う", "era": "ラテン語" },
+      { "node": "detestari", "sub": "忌み嫌う", "era": "ラテン語" },
+      { "node": "detest", "sub": "ひどく嫌う", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "detest lying", "ja": "うそを嫌う" },
+      { "en": "detest doing", "ja": "〜するのが大嫌い" },
+      { "en": "utterly detest", "ja": "心底嫌う" },
+      { "en": "detestable behavior", "ja": "忌まわしい行い" },
+      { "en": "detest each other", "ja": "互いに毛嫌いする" },
+      { "en": "detest the idea", "ja": "その考えを嫌う" }
+    ],
+    "related": [
+      { "en": "hate", "ja": "憎む・嫌う" },
+      { "en": "loathe", "ja": "ひどく嫌う" },
+      { "en": "abhor", "ja": "忌み嫌う" },
+      { "en": "detestable", "ja": "忌まわしい" }
+    ],
+    "faq": [
+      { "q": "detest と hate の違いは？", "a": "どちらも「嫌う」ですが、detest は hate よりさらに強い「毛嫌い・忌み嫌う」という激しい嫌悪を表す、ややフォーマルな語です。" },
+      { "q": "detest の後は何形？", "a": "動名詞（-ing）が続きます。detest doing something（〜するのが大嫌い）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "detest の意味は？", "A": "ひどく嫌う・忌み嫌う", "B": "大好きだ", "C": "試す", "D": "感謝する", "correct": "A" },
+      { "q": "detest の形容詞形（忌まわしい）は？", "A": "detestable", "B": "detestive", "C": "detestful", "D": "detestous", "correct": "A" }
+    ]
+  },
+  {
+    "english": "detour",
+    "pron": "ˈdiːtʊr",
+    "kana": "ディートゥア",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "noun",
+    "ld_etym": "フランス語 détour（回り道）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "回り道"],
+    "meaning_main": "回り道／迂回(路)／(を)迂回する",
+    "description": "detour（ディートゥア）の意味・使い方・語源を解説。回り道、迂回路という意味の名詞・動詞です。",
+    "keywords": ["detour 意味", "detour 使い方", "detour 語源", "detour 例文", "回り道 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】回り道、迂回(路)", "note": "通常の道を避けて回る道" },
+      { "hinshi": "【動詞】(を)迂回する、回り道する", "note": "遠回りして進む" }
+    ],
+    "usages": [
+      { "title": "① 迂回路（名詞）", "desc": "make/take a detour", "example_en": "We had to take a detour because of roadwork.", "example_ja": "道路工事のため回り道をしなければならなかった。" },
+      { "title": "② 迂回する（動詞）", "desc": "遠回りする", "example_en": "The bus detoured around the accident.", "example_ja": "バスは事故を避けて迂回した。" }
+    ],
+    "warn": ["make/take a detour（回り道をする）が定番。フランス語由来で発音は「ディートゥア」。工事現場などの「迂回路」の標識にも使う"],
+    "etym_note": "フランス語 détour（回り道、détourner「向きを変える」から）に由来します。turn（回る）と語源的につながります。",
+    "etym_chain": [
+      { "node": "détourner", "sub": "向きを変える", "era": "フランス語" },
+      { "node": "détour", "sub": "回り道", "era": "フランス語" },
+      { "node": "detour", "sub": "回り道・迂回", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "take a detour", "ja": "回り道をする" },
+      { "en": "make a detour", "ja": "迂回する" },
+      { "en": "a short detour", "ja": "ちょっとした回り道" },
+      { "en": "a detour sign", "ja": "迂回路の標識" },
+      { "en": "a scenic detour", "ja": "景色のよい回り道" },
+      { "en": "detour around", "ja": "〜を迂回する" }
+    ],
+    "related": [
+      { "en": "shortcut", "ja": "近道（反対的）" },
+      { "en": "diversion", "ja": "迂回・気晴らし" },
+      { "en": "route", "ja": "経路" },
+      { "en": "bypass", "ja": "バイパス・迂回する" }
+    ],
+    "faq": [
+      { "q": "take a detour とは？", "a": "「回り道をする・迂回する」という意味です。道路工事や事故などで通常の道を避けて遠回りするときに使います。" },
+      { "q": "detour の反対のような語は？", "a": "shortcut（近道）です。detour（回り道）とは逆に、最短で進む道を指します。" }
+    ],
+    "quiz": [
+      { "q": "detour の意味は？", "A": "回り道・迂回", "B": "近道", "C": "行き止まり", "D": "交差点", "correct": "A" },
+      { "q": "take a detour の意味は？", "A": "回り道をする", "B": "近道をする", "C": "引き返す", "D": "停止する", "correct": "A" }
+    ]
+  },
+  {
+    "english": "deviate",
+    "pron": "ˈdiːvieɪt",
+    "kana": "ディーヴィエイト",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "ラテン語 deviare（道からそれる）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "それる"],
+    "meaning_main": "(標準・進路から)それる／逸脱する／外れる",
+    "description": "deviate（ディーヴィエイト）の意味・使い方・語源を解説。標準や進路からそれる、逸脱するという意味の動詞です。",
+    "keywords": ["deviate 意味", "deviate 使い方", "deviate 語源", "deviate 例文", "逸脱する 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】(標準・進路・計画から)それる、逸脱する", "note": "deviate from ～（〜から外れる）" }
+    ],
+    "usages": [
+      { "title": "① 標準からそれる", "desc": "deviate from ～", "example_en": "The results deviate from the norm.", "example_ja": "その結果は標準から外れている。" },
+      { "title": "② 計画・進路を外れる", "desc": "予定と違う方へ", "example_en": "Don't deviate from the plan.", "example_ja": "計画から逸脱しないように。" }
+    ],
+    "warn": ["deviate from ～ で「〜から外れる」。名詞は deviation（逸脱・偏差、standard deviation＝標準偏差）。via（道）が語源で「道からそれる」"],
+    "etym_note": "ラテン語 deviare（de-「離れて」+ via「道」＝道からそれる）に由来します。via（〜経由で）や obvious（明白な＝道の上にある）と同語根です。",
+    "etym_chain": [
+      { "node": "via", "sub": "道", "era": "ラテン語" },
+      { "node": "deviare", "sub": "道からそれる", "era": "ラテン語" },
+      { "node": "deviate", "sub": "それる・逸脱する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "deviate from", "ja": "〜からそれる・外れる" },
+      { "en": "deviate from the norm", "ja": "標準から逸脱する" },
+      { "en": "deviate from the plan", "ja": "計画から外れる" },
+      { "en": "standard deviation", "ja": "標準偏差" },
+      { "en": "never deviate", "ja": "決して外れない" },
+      { "en": "deviate slightly", "ja": "少しそれる" }
+    ],
+    "related": [
+      { "en": "deviation", "ja": "逸脱・偏差" },
+      { "en": "diverge", "ja": "分岐する・それる" },
+      { "en": "stray", "ja": "はぐれる" },
+      { "en": "conform", "ja": "従う（反対）" }
+    ],
+    "faq": [
+      { "q": "deviate from とは？", "a": "「〜からそれる・逸脱する・外れる」という意味です。deviate from the rules（規則から外れる）のように使います。" },
+      { "q": "standard deviation とは？", "a": "統計用語で「標準偏差」を意味します。データが平均からどれくらいばらついているかを示す値です。" }
+    ],
+    "quiz": [
+      { "q": "deviate の意味は？", "A": "(標準・進路から)それる・逸脱する", "B": "従う", "C": "祝う", "D": "配達する", "correct": "A" },
+      { "q": "deviate の名詞形は？", "A": "deviation", "B": "deviatement", "C": "deviatness", "D": "deviatical", "correct": "A" }
+    ]
+  },
+  {
+    "english": "diagram",
+    "pron": "ˈdaɪəɡræm",
+    "kana": "ダイアグラム",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ギリシャ語 diagramma（図形）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "図表"],
+    "meaning_main": "図／図表／(仕組みを示す)略図・ダイアグラム",
+    "description": "diagram（ダイアグラム）の意味・使い方・語源を解説。図、図表、仕組みを示す略図という意味の名詞です。",
+    "keywords": ["diagram 意味", "diagram 使い方", "diagram 語源", "diagram 例文", "図表 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】図、図表、略図", "note": "仕組み・関係・手順を線や記号で示したもの" }
+    ],
+    "usages": [
+      { "title": "① 仕組みを示す図", "desc": "構造や流れを図示", "example_en": "The diagram shows how the engine works.", "example_ja": "その図はエンジンの仕組みを示している。" },
+      { "title": "② 説明の図表", "desc": "手順や関係を図で", "example_en": "Draw a diagram to explain your idea.", "example_ja": "考えを説明するために図を描きなさい。" }
+    ],
+    "warn": ["chart（グラフ・表）、graph（グラフ）、figure（図）と近いが、diagram は「仕組み・関係を示す略図」に重点。a flow diagram（流れ図）、a Venn diagram（ベン図）"],
+    "etym_note": "ギリシャ語 diagramma（dia-「通して」+ graphein「描く」＝描き出したもの）に由来し、graph（グラフ）や program（プログラム）と同語根です。",
+    "etym_chain": [
+      { "node": "graphein", "sub": "描く", "era": "ギリシャ語" },
+      { "node": "diagramma", "sub": "図形", "era": "ギリシャ語" },
+      { "node": "diagram", "sub": "図・図表", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "draw a diagram", "ja": "図を描く" },
+      { "en": "a flow diagram", "ja": "流れ図・フローチャート" },
+      { "en": "a Venn diagram", "ja": "ベン図" },
+      { "en": "a wiring diagram", "ja": "配線図" },
+      { "en": "as shown in the diagram", "ja": "図に示すように" },
+      { "en": "a simple diagram", "ja": "簡単な図" }
+    ],
+    "related": [
+      { "en": "chart", "ja": "図表・グラフ" },
+      { "en": "graph", "ja": "グラフ" },
+      { "en": "figure", "ja": "図・数字" },
+      { "en": "illustration", "ja": "図解・挿絵" }
+    ],
+    "faq": [
+      { "q": "diagram と chart の違いは？", "a": "diagram は「仕組み・関係・手順を示す略図」、chart は「数値やデータを示す図表・グラフ」を指すことが多いです。" },
+      { "q": "Venn diagram とは？", "a": "「ベン図」のことです。複数の集合の重なりを円で表す図で、共通点や違いを視覚的に示します。" }
+    ],
+    "quiz": [
+      { "q": "diagram の意味は？", "A": "図・図表・略図", "B": "文章", "C": "写真", "D": "音声", "correct": "A" },
+      { "q": "「流れ図」を英語で？", "A": "a flow diagram", "B": "a flow river", "C": "a flow line", "D": "a flow stream", "correct": "A" }
+    ]
+  },
+  {
+    "english": "dicide",
+    "pron": "dɪˈsaɪd",
+    "kana": "ディサイド",
+    "hinshi": "つづり間違い（正しくは decide）",
+    "ld_pos": "misspelling",
+    "ld_etym": "decide のつづり間違い",
+    "ld_level": "つづり注意",
+    "badges": ["つづり間違い", "正しくは decide", "英単語ではありません", "スペル注意"],
+    "meaning_main": "※これはつづり間違いです。正しくは decide（決める・決心する）",
+    "description": "dicide は decide のつづり間違いです。最初は i でなく e です。正しくは decide（決める・決心する）と書きます。",
+    "keywords": ["dicide 正しい", "dicide decide", "dicide つづり", "decide 意味", "決める 英語"],
+    "meanings": [
+      { "hinshi": "【正しくは decide】決める、決心する、判断する", "note": "dicide は最初が i の誤り。正しくは de-cide で decide" }
+    ],
+    "usages": [
+      { "title": "① 正しいつづりは decide", "desc": "de-cide（最初は e）", "example_en": "I can't decide what to eat.", "example_ja": "何を食べるか決められない。（正: decide）" },
+      { "title": "② decide to do", "desc": "〜することに決める", "example_en": "She decided to study abroad.", "example_ja": "彼女は留学することに決めた。（正: decide）" }
+    ],
+    "warn": ["dicide は誤り（最初は i ではなく e）。正しくは decide。名詞は decision（決定）、形容詞 decisive（決定的な）。-cide は「切る」で、迷いを切り捨てて決めるイメージ"],
+    "etym_note": "正しい語 decide は、ラテン語 decidere（de-「離して」+ caedere「切る」＝切り離して決める）に由来します。scissors（はさみ）や suicide と同じ「切る」の語根 -cide を含みます。",
+    "etym_chain": [
+      { "node": "caedere", "sub": "切る", "era": "ラテン語" },
+      { "node": "decidere", "sub": "切り離して決める", "era": "ラテン語" },
+      { "node": "dicide", "sub": "誤ったつづり", "era": "つづり間違い" }
+    ],
+    "phrases": [
+      { "en": "decide (正)", "ja": "決める（正しいつづり）" },
+      { "en": "dicide (誤)", "ja": "つづり間違い" },
+      { "en": "decide to do", "ja": "〜することに決める" },
+      { "en": "decide on", "ja": "〜に決める" },
+      { "en": "hard to decide", "ja": "決めにくい" },
+      { "en": "decision (名詞)", "ja": "決定" }
+    ],
+    "related": [
+      { "en": "decide", "ja": "決める（正しい語）" },
+      { "en": "decision", "ja": "決定" },
+      { "en": "decisive", "ja": "決定的な" },
+      { "en": "choose", "ja": "選ぶ" }
+    ],
+    "faq": [
+      { "q": "dicide は正しいつづり？", "a": "いいえ、最初が i の間違いです。正しくは decide（de-cide）で、「決める・決心する」を意味します。" },
+      { "q": "decide の名詞形は？", "a": "decision（決定・決断）です。make a decision で「決断する」を意味します。" }
+    ],
+    "quiz": [
+      { "q": "正しいつづりはどれ？", "A": "decide", "B": "dicide", "C": "decyde", "D": "deside", "correct": "A" },
+      { "q": "decide の意味は？", "A": "決める・決心する", "B": "配達する", "C": "破壊する", "D": "祝う", "correct": "A" }
+    ]
+  },
+  {
+    "english": "dictatorship",
+    "pron": "dɪkˈteɪtərʃɪp",
+    "kana": "ディクテイターシップ",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 dictare（命令する）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "独裁"],
+    "meaning_main": "独裁政治／独裁国家／独裁体制",
+    "description": "dictatorship（ディクテイターシップ）の意味・使い方・語源を解説。独裁政治、独裁体制という意味の名詞です。",
+    "keywords": ["dictatorship 意味", "dictatorship 使い方", "dictatorship 語源", "dictatorship 例文", "独裁 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】独裁政治、独裁体制", "note": "一人または一党が絶対的権力を握る政治" },
+      { "hinshi": "【名詞】独裁国家、独裁者の統治(期間)", "note": "民主主義 democracy の対極" }
+    ],
+    "usages": [
+      { "title": "① 独裁体制", "desc": "絶対的権力による支配", "example_en": "The country was ruled by a military dictatorship.", "example_ja": "その国は軍事独裁体制に支配されていた。" },
+      { "title": "② 民主主義との対比", "desc": "democracy の反対", "example_en": "They fought against dictatorship.", "example_ja": "彼らは独裁政治と戦った。" }
+    ],
+    "warn": ["独裁者は dictator、動詞 dictate は「命令する・書き取らせる」。反対は democracy（民主主義）。-ship は「状態・地位」を表す接尾辞"],
+    "etym_note": "ラテン語 dictare（繰り返し言う・命令する）から生まれた dictator（命令する人＝独裁官）に -ship（地位・状態）が付いた語です。dictate（口述する・命令する）と同語根です。",
+    "etym_chain": [
+      { "node": "dictare", "sub": "命令する・言う", "era": "ラテン語" },
+      { "node": "dictator", "sub": "独裁官", "era": "ラテン語" },
+      { "node": "dictatorship", "sub": "独裁政治", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a military dictatorship", "ja": "軍事独裁" },
+      { "en": "under a dictatorship", "ja": "独裁体制下で" },
+      { "en": "overthrow a dictatorship", "ja": "独裁を打倒する" },
+      { "en": "a brutal dictatorship", "ja": "残虐な独裁" },
+      { "en": "one-party dictatorship", "ja": "一党独裁" },
+      { "en": "the fall of the dictatorship", "ja": "独裁の崩壊" }
+    ],
+    "related": [
+      { "en": "dictator", "ja": "独裁者" },
+      { "en": "dictate", "ja": "命令する・口述する" },
+      { "en": "democracy", "ja": "民主主義（反対）" },
+      { "en": "tyranny", "ja": "専制・暴政" }
+    ],
+    "faq": [
+      { "q": "dictatorship の反対語は？", "a": "democracy（民主主義）です。dictatorship は一人・一党が絶対的権力を握る体制、democracy は国民が主権を持つ体制です。" },
+      { "q": "dictatorship の -ship とは？", "a": "「状態・地位」を表す接尾辞です。friendship（友情）、leadership（指導力）と同じく、dictator（独裁者）に付いて「独裁の体制・地位」を表します。" }
+    ],
+    "quiz": [
+      { "q": "dictatorship の意味は？", "A": "独裁政治・独裁体制", "B": "民主主義", "C": "君主制", "D": "共和制", "correct": "A" },
+      { "q": "dictatorship の反対語は？", "A": "democracy", "B": "dictator", "C": "tyranny", "D": "monarchy", "correct": "A" }
+    ]
+  },
+  {
+    "english": "diligent",
+    "pron": "ˈdɪlɪdʒənt",
+    "kana": "ディリジェント",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "ラテン語 diligere（大切にする・励む）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "勤勉な"],
+    "meaning_main": "勤勉な／熱心な／こつこつ努力する",
+    "description": "diligent（ディリジェント）の意味・使い方・語源を解説。勤勉な、熱心なという意味の形容詞です。",
+    "keywords": ["diligent 意味", "diligent 使い方", "diligent 語源", "diligent 例文", "勤勉な 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】勤勉な、熱心な、努力を怠らない", "note": "こつこつまじめに取り組む" }
+    ],
+    "usages": [
+      { "title": "① 勤勉な人", "desc": "まじめに努力する", "example_en": "She is a diligent student.", "example_ja": "彼女は勤勉な学生だ。" },
+      { "title": "② 入念な取り組み", "desc": "diligent work", "example_en": "His diligent research paid off.", "example_ja": "彼の入念な研究が報われた。" }
+    ],
+    "warn": ["l は1つ（di-li-gent）。つづり間違い dilligent（l が2つ）に注意。名詞は diligence（勤勉）、副詞 diligently。lazy（怠惰な）の反対"],
+    "etym_note": "ラテン語 diligere（大切にする、愛情を込めて選ぶ、後に「熱心に励む」）に由来します。「愛情を込めて丁寧に取り組む」が原義です。",
+    "etym_chain": [
+      { "node": "diligere", "sub": "大切にする・励む", "era": "ラテン語" },
+      { "node": "diligent", "sub": "熱心な", "era": "中英語" },
+      { "node": "diligent", "sub": "勤勉な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a diligent worker", "ja": "勤勉な働き手" },
+      { "en": "a diligent student", "ja": "勤勉な学生" },
+      { "en": "diligent effort", "ja": "たゆまぬ努力" },
+      { "en": "diligent research", "ja": "入念な研究" },
+      { "en": "hardworking and diligent", "ja": "働き者で勤勉な" },
+      { "en": "diligent in", "ja": "〜に熱心な" }
+    ],
+    "related": [
+      { "en": "diligence", "ja": "勤勉" },
+      { "en": "hardworking", "ja": "勤勉な・働き者の" },
+      { "en": "industrious", "ja": "勤勉な" },
+      { "en": "lazy", "ja": "怠惰な（反対）" }
+    ],
+    "faq": [
+      { "q": "diligent のつづりで注意する点は？", "a": "l は1つで di-li-gent です。dilligent（l が2つ）は間違いなので注意しましょう。" },
+      { "q": "diligent の名詞形は？", "a": "diligence（勤勉・入念さ）です。due diligence（デューデリジェンス＝(取引前の)適正評価・精査）という表現もあります。" }
+    ],
+    "quiz": [
+      { "q": "diligent の意味は？", "A": "勤勉な・熱心な", "B": "怠惰な", "C": "臆病な", "D": "無礼な", "correct": "A" },
+      { "q": "diligent の反対語は？", "A": "lazy", "B": "diligence", "C": "industrious", "D": "hardworking", "correct": "A" }
+    ]
+  },
+  {
+    "english": "dilligent",
+    "pron": "ˈdɪlɪdʒənt",
+    "kana": "ディリジェント",
+    "hinshi": "つづり間違い（正しくは diligent）",
+    "ld_pos": "misspelling",
+    "ld_etym": "diligent のつづり間違い",
+    "ld_level": "つづり注意",
+    "badges": ["つづり間違い", "正しくは diligent", "英単語ではありません", "スペル注意"],
+    "meaning_main": "※これはつづり間違いです。正しくは diligent（勤勉な）",
+    "description": "dilligent は diligent のつづり間違いです。l が1つ多いです。正しくは diligent（勤勉な・熱心な）と書きます。",
+    "keywords": ["dilligent 正しい", "dilligent diligent", "dilligent つづり", "diligent 意味", "勤勉な 英語"],
+    "meanings": [
+      { "hinshi": "【正しくは diligent】勤勉な、熱心な、努力を怠らない", "note": "dilligent は l が余分な誤り。正しくは di-li-gent（l は1つ）で diligent" }
+    ],
+    "usages": [
+      { "title": "① 正しいつづりは diligent", "desc": "di-li-gent（l は1つ）", "example_en": "He is a diligent worker.", "example_ja": "彼は勤勉な働き手だ。（正: diligent）" },
+      { "title": "② こつこつ努力する", "desc": "まじめな取り組み", "example_en": "Diligent study leads to success.", "example_ja": "こつこつした勉強が成功につながる。（正: diligent）" }
+    ],
+    "warn": ["dilligent は誤り（l が2つ）。正しくは diligent（l は1つ）。di-li-gent と区切ると l が1つだと分かる。名詞は diligence（勤勉）"],
+    "etym_note": "正しい語 diligent は、ラテン語 diligere（大切にする・励む）に由来します。l は1つで、di-li-gent と綴ります。",
+    "etym_chain": [
+      { "node": "diligere", "sub": "大切にする・励む", "era": "ラテン語" },
+      { "node": "diligent", "sub": "勤勉な（正しいつづり）", "era": "中英語" },
+      { "node": "dilligent", "sub": "誤ったつづり", "era": "つづり間違い" }
+    ],
+    "phrases": [
+      { "en": "diligent (正)", "ja": "勤勉な（正しいつづり）" },
+      { "en": "dilligent (誤)", "ja": "つづり間違い" },
+      { "en": "a diligent student", "ja": "勤勉な学生" },
+      { "en": "diligent effort", "ja": "たゆまぬ努力" },
+      { "en": "diligence (名詞)", "ja": "勤勉" },
+      { "en": "work diligently", "ja": "勤勉に働く" }
+    ],
+    "related": [
+      { "en": "diligent", "ja": "勤勉な（正しい語）" },
+      { "en": "diligence", "ja": "勤勉" },
+      { "en": "hardworking", "ja": "働き者の" },
+      { "en": "lazy", "ja": "怠惰な（反対）" }
+    ],
+    "faq": [
+      { "q": "dilligent は正しいつづり？", "a": "いいえ、l が1つ多い間違いです。正しくは diligent（di-li-gent、l は1つ）で、「勤勉な・熱心な」を意味します。" },
+      { "q": "diligent のつづりのコツは？", "a": "di-li-gent と3つに区切ると、l が1つずつしかないことが分かります。dilligent と l を重ねないよう注意しましょう。" }
+    ],
+    "quiz": [
+      { "q": "正しいつづりはどれ？", "A": "diligent", "B": "dilligent", "C": "diligant", "D": "dilligant", "correct": "A" },
+      { "q": "diligent の意味は？", "A": "勤勉な・熱心な", "B": "怠惰な", "C": "臆病な", "D": "無礼な", "correct": "A" }
+    ]
+  },
+  {
+    "english": "dimension",
+    "pron": "dɪˈmenʃn",
+    "kana": "ディメンション",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 dimetiri（測る）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "次元"],
+    "meaning_main": "次元／(通例複数で)寸法・大きさ／(問題などの)側面",
+    "description": "dimension（ディメンション）の意味・使い方・語源を解説。次元、寸法、側面という意味の名詞です。",
+    "keywords": ["dimension 意味", "dimension 使い方", "dimension 語源", "dimension 例文", "次元 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】次元", "note": "three dimensions（三次元）など" },
+      { "hinshi": "【名詞】(通例 dimensions)寸法、大きさ", "note": "縦・横・高さなどの測定値" },
+      { "hinshi": "【名詞】(問題などの)側面、局面", "note": "a new dimension（新たな側面）" }
+    ],
+    "usages": [
+      { "title": "① 次元・寸法", "desc": "three-dimensional（三次元の）", "example_en": "We measured the dimensions of the room.", "example_ja": "私たちは部屋の寸法を測った。" },
+      { "title": "② 側面（比喩）", "desc": "a new dimension", "example_en": "The discovery added a new dimension to the study.", "example_ja": "その発見は研究に新たな側面を加えた。" }
+    ],
+    "warn": ["「寸法」の意味では通常複数形 dimensions。3D は three-dimensional（三次元の）。measure（測る）と同語根。比喩で「側面・広がり」の意味も重要"],
+    "etym_note": "ラテン語 dimetiri（di-「すっかり」+ metiri「測る」＝測り出す）に由来し、measure（測る）や meter（メートル）と同語根です。",
+    "etym_chain": [
+      { "node": "metiri", "sub": "測る", "era": "ラテン語" },
+      { "node": "dimensio", "sub": "測ること・広がり", "era": "ラテン語" },
+      { "node": "dimension", "sub": "次元・寸法", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "three dimensions", "ja": "三次元" },
+      { "en": "the dimensions of", "ja": "〜の寸法" },
+      { "en": "a new dimension", "ja": "新たな側面" },
+      { "en": "three-dimensional", "ja": "三次元の・立体の" },
+      { "en": "the fourth dimension", "ja": "四次元" },
+      { "en": "measure the dimensions", "ja": "寸法を測る" }
+    ],
+    "related": [
+      { "en": "measurement", "ja": "測定・寸法" },
+      { "en": "size", "ja": "大きさ" },
+      { "en": "aspect", "ja": "側面" },
+      { "en": "scale", "ja": "規模" }
+    ],
+    "faq": [
+      { "q": "dimension の「寸法」は単数？複数？", "a": "「寸法・大きさ」の意味では通常複数形 dimensions を使います。the dimensions of the box（箱の寸法）のように言います。" },
+      { "q": "add a new dimension とは？", "a": "「新たな側面・広がりを加える」という比喩表現です。物事に新しい要素や深みが加わることを表します。" }
+    ],
+    "quiz": [
+      { "q": "dimension の意味は？", "A": "次元・寸法・側面", "B": "会話", "C": "契約", "D": "招待", "correct": "A" },
+      { "q": "three-dimensional の意味は？", "A": "三次元の・立体の", "B": "三回の", "C": "三日間の", "D": "三人の", "correct": "A" }
+    ]
+  },
+  {
+    "english": "dis",
+    "pron": "dɪs",
+    "kana": "ディス",
+    "hinshi": "動詞 / 名詞（スラング）",
+    "ld_pos": "verb",
+    "ld_etym": "disrespect（軽視する）の短縮",
+    "ld_level": "スラング",
+    "badges": ["口語・スラング", "けなす", "SNS用語", "diss とも綴る"],
+    "meaning_main": "(を)けなす／軽んじる／侮辱する（口語・スラング。diss とも綴る）",
+    "description": "dis（ディス）の意味・語源を解説。人をけなす・軽んじるという意味の口語スラングです。diss とも綴り、disrespect の短縮から生まれました。",
+    "keywords": ["dis 意味", "diss 意味", "dis スラング", "ディスる 英語", "けなす 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】(を)けなす、軽んじる、侮辱する", "note": "disrespect の短縮。diss とも綴る。口語・スラング" },
+      { "hinshi": "【名詞】けなし、侮辱", "note": "a dis / a diss（けなし）" }
+    ],
+    "usages": [
+      { "title": "① 人をけなす", "desc": "軽んじる・侮辱する", "example_en": "Don't dis my friends.", "example_ja": "私の友達をけなさないで。（スラング）" },
+      { "title": "② けなし（名詞）", "desc": "diss track（けなし歌）", "example_en": "The rapper released a diss track.", "example_ja": "そのラッパーはディス曲を発表した。（スラング）" }
+    ],
+    "warn": ["一般的な英単語ではなくスラングです。disrespect（軽視する・失礼な態度をとる）の短縮形で、diss とも綴ります。日本語の「ディスる」の元。接頭辞の dis-（否定）とは別"],
+    "etym_note": "disrespect（軽んじる・敬意を欠く）の短縮から、1980年代のヒップホップ文化を通じて広まったスラングです。接頭辞 dis-（否定・分離）そのものとは区別されます。",
+    "etym_chain": [
+      { "node": "disrespect", "sub": "軽視する", "era": "近代英語" },
+      { "node": "dis / diss", "sub": "けなす", "era": "1980年代スラング" },
+      { "node": "dis", "sub": "けなす（スラング）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "dis someone", "ja": "人をけなす" },
+      { "en": "a diss track", "ja": "けなし歌・ディス曲" },
+      { "en": "get dissed", "ja": "けなされる" },
+      { "en": "stop dissing", "ja": "けなすのをやめる" },
+      { "en": "a total diss", "ja": "完全な侮辱" },
+      { "en": "disrespect (正式)", "ja": "軽視する（元の語）" }
+    ],
+    "related": [
+      { "en": "disrespect", "ja": "軽視する・無礼" },
+      { "en": "insult", "ja": "侮辱する" },
+      { "en": "mock", "ja": "あざける" },
+      { "en": "belittle", "ja": "見下す" }
+    ],
+    "faq": [
+      { "q": "dis は正式な英単語？", "a": "口語・スラングです。disrespect（軽んじる）の短縮形で、diss とも綴ります。日本語の「ディスる」の元になった語で、フォーマルな場では使いません。" },
+      { "q": "diss track とは？", "a": "主にヒップホップで、特定の相手をけなす・攻撃する内容の曲のことです。" }
+    ],
+    "quiz": [
+      { "q": "スラングの dis(diss) の意味は？", "A": "けなす・軽んじる", "B": "ほめる", "C": "感謝する", "D": "手伝う", "correct": "A" },
+      { "q": "dis は何の短縮形？", "A": "disrespect（軽視する）", "B": "discuss（議論する）", "C": "dismiss（解雇する）", "D": "display（表示する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "disapproval",
+    "pron": "ˌdɪsəˈpruːvl",
+    "kana": "ディサプルーヴァル",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "dis-（否定）+ approval（承認）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "不賛成"],
+    "meaning_main": "不賛成／不承認／非難の気持ち",
+    "description": "disapproval（ディサプルーヴァル）の意味・使い方・語源を解説。不賛成、不承認という意味の名詞です。",
+    "keywords": ["disapproval 意味", "disapproval 使い方", "disapproval 語源", "disapproval 例文", "不賛成 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】不賛成、不承認、非難", "note": "よくないと思う気持ち。反対は approval（承認）" }
+    ],
+    "usages": [
+      { "title": "① 不賛成の気持ち", "desc": "よくないと思う態度", "example_en": "She shook her head in disapproval.", "example_ja": "彼女は不賛成で首を振った。" },
+      { "title": "② 非難を示す", "desc": "express disapproval", "example_en": "He expressed strong disapproval of the plan.", "example_ja": "彼はその計画への強い不賛成を示した。" }
+    ],
+    "warn": ["dis-（否定）+ approval（承認）＝「承認しないこと」。動詞は disapprove（不賛成である）、反対は approval（承認）／approve（賛成する）"],
+    "etym_note": "否定の dis- に approval（承認、approve「賛成する」から）が付いた語です。approve はラテン語 approbare（よいと認める）に由来します。",
+    "etym_chain": [
+      { "node": "approbare", "sub": "よいと認める", "era": "ラテン語" },
+      { "node": "approval", "sub": "承認", "era": "近代英語" },
+      { "node": "disapproval", "sub": "不賛成", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "express disapproval", "ja": "不賛成を示す" },
+      { "en": "in disapproval", "ja": "不賛成で" },
+      { "en": "strong disapproval", "ja": "強い不賛成" },
+      { "en": "a look of disapproval", "ja": "非難のまなざし" },
+      { "en": "public disapproval", "ja": "世間の反発" },
+      { "en": "show disapproval", "ja": "不賛成を表す" }
+    ],
+    "related": [
+      { "en": "disapprove", "ja": "不賛成である" },
+      { "en": "approval", "ja": "承認（反対）" },
+      { "en": "criticism", "ja": "批判" },
+      { "en": "objection", "ja": "反対・異議" }
+    ],
+    "faq": [
+      { "q": "disapproval の反対語は？", "a": "approval（承認・賛成）です。頭の dis- が「否定」を表します。" },
+      { "q": "disapproval の動詞形は？", "a": "disapprove（不賛成である・よくないと思う）です。disapprove of ～（〜に反対する）の形で使います。" }
+    ],
+    "quiz": [
+      { "q": "disapproval の意味は？", "A": "不賛成・不承認", "B": "承認", "C": "感謝", "D": "喜び", "correct": "A" },
+      { "q": "disapproval の反対語は？", "A": "approval", "B": "arrival", "C": "appraisal", "D": "approach", "correct": "A" }
+    ]
+  },
+  {
+    "english": "discout",
+    "pron": "ˈdɪskaʊnt",
+    "kana": "ディスカウント",
+    "hinshi": "つづり間違い（正しくは discount）",
+    "ld_pos": "misspelling",
+    "ld_etym": "discount のつづり間違い",
+    "ld_level": "つづり注意",
+    "badges": ["つづり間違い", "正しくは discount", "英単語ではありません", "スペル注意"],
+    "meaning_main": "※これはつづり間違いです。正しくは discount（割引・値引き）",
+    "description": "discout は discount のつづり間違いです。n が抜けています。正しくは discount（割引・値引き）と書きます。",
+    "keywords": ["discout 正しい", "discout discount", "discout つづり", "discount 意味", "割引 英語"],
+    "meanings": [
+      { "hinshi": "【正しくは discount】割引、値引き／(を)割り引く／軽視する", "note": "discout は n が抜けた誤り。正しくは dis-count（n）で discount" }
+    ],
+    "usages": [
+      { "title": "① 正しいつづりは discount", "desc": "dis-count（n を忘れずに）", "example_en": "They offer a 10% discount.", "example_ja": "彼らは10%の割引を提供している。（正: discount）" },
+      { "title": "② 割り引く・軽視する", "desc": "discount a story（話を割り引いて聞く）", "example_en": "The shop discounted the price.", "example_ja": "その店は値段を割り引いた。（正: discount）" }
+    ],
+    "warn": ["discout は誤り（n が抜けている）。正しくは discount。dis-（分離）+ count（数える）と分けると n が分かる。at a discount で「割引価格で」"],
+    "etym_note": "正しい語 discount は、古フランス語 desconter（dis-「分離」+ conter「数える」＝差し引いて数える）に由来します。count（数える）と同語根です。",
+    "etym_chain": [
+      { "node": "conter", "sub": "数える", "era": "古フランス語" },
+      { "node": "discount", "sub": "割引（正しいつづり）", "era": "近代英語" },
+      { "node": "discout", "sub": "誤ったつづり", "era": "つづり間違い" }
+    ],
+    "phrases": [
+      { "en": "discount (正)", "ja": "割引・値引き（正しいつづり）" },
+      { "en": "discout (誤)", "ja": "つづり間違い" },
+      { "en": "a 10% discount", "ja": "10%の割引" },
+      { "en": "at a discount", "ja": "割引価格で" },
+      { "en": "a discount store", "ja": "ディスカウントストア" },
+      { "en": "give a discount", "ja": "値引きする" }
+    ],
+    "related": [
+      { "en": "discount", "ja": "割引（正しい語）" },
+      { "en": "sale", "ja": "特売" },
+      { "en": "reduction", "ja": "値下げ" },
+      { "en": "count", "ja": "数える" }
+    ],
+    "faq": [
+      { "q": "discout は正しいつづり？", "a": "いいえ、n が抜けた間違いです。正しくは discount（dis-count）で、「割引・値引き」を意味します。" },
+      { "q": "at a discount とは？", "a": "「割引価格で・値引きして」という意味です。buy it at a discount（割引価格で買う）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "正しいつづりはどれ？", "A": "discount", "B": "discout", "C": "discont", "D": "descount", "correct": "A" },
+      { "q": "discount の意味は？", "A": "割引・値引き", "B": "追加料金", "C": "税金", "D": "手数料", "correct": "A" }
+    ]
+  },
+  {
+    "english": "discovery",
+    "pron": "dɪˈskʌvəri",
+    "kana": "ディスカバリー",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "dis-（除去）+ cover（覆う）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "発見"],
+    "meaning_main": "発見／(発見された)もの・事実",
+    "description": "discovery（ディスカバリー）の意味・使い方・語源を解説。発見、発見された事実という意味の名詞です。",
+    "keywords": ["discovery 意味", "discovery 使い方", "discovery 語源", "discovery 例文", "発見 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】発見(すること)", "note": "初めて見つけ出すこと" },
+      { "hinshi": "【名詞】発見されたもの・事実", "note": "新しく見つかった事柄" }
+    ],
+    "usages": [
+      { "title": "① 発見すること", "desc": "the discovery of ～", "example_en": "The discovery of gold changed the region.", "example_ja": "金の発見はその地域を変えた。" },
+      { "title": "② 発見されたもの", "desc": "新事実・新種など", "example_en": "This is an exciting scientific discovery.", "example_ja": "これは胸躍る科学的発見だ。" }
+    ],
+    "warn": ["動詞は discover（発見する）。invention（発明＝新しく作り出す）とは別（discovery は「もともとあったものを見つける」）。dis-（除去）+ cover（覆い）＝「覆いを取り除く」"],
+    "etym_note": "dis-（除去）+ cover（覆う、ラテン語 cooperire から）で、「覆いを取り除く＝見つけ出す」が原義です。discover（発見する）と同語源です。",
+    "etym_chain": [
+      { "node": "dis + cover", "sub": "覆いを取り除く", "era": "古フランス語" },
+      { "node": "discover", "sub": "発見する", "era": "中英語" },
+      { "node": "discovery", "sub": "発見", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the discovery of", "ja": "〜の発見" },
+      { "en": "a scientific discovery", "ja": "科学的発見" },
+      { "en": "make a discovery", "ja": "発見をする" },
+      { "en": "a major discovery", "ja": "大発見" },
+      { "en": "the age of discovery", "ja": "大航海時代・発見の時代" },
+      { "en": "a chance discovery", "ja": "偶然の発見" }
+    ],
+    "related": [
+      { "en": "discover", "ja": "発見する" },
+      { "en": "invention", "ja": "発明" },
+      { "en": "finding", "ja": "発見・調査結果" },
+      { "en": "exploration", "ja": "探検" }
+    ],
+    "faq": [
+      { "q": "discovery と invention の違いは？", "a": "discovery（発見）は「もともと存在していたものを見つけ出すこと」、invention（発明）は「新しく作り出すこと」です。惑星は discover、機械は invent します。" },
+      { "q": "discovery の動詞形は？", "a": "discover（発見する）です。dis-（除去）+ cover（覆い）で「覆いを取り除いて見つける」が原義です。" }
+    ],
+    "quiz": [
+      { "q": "discovery の意味は？", "A": "発見", "B": "発明", "C": "破壊", "D": "隠蔽", "correct": "A" },
+      { "q": "discovery の動詞形は？", "A": "discover", "B": "discuss", "C": "disturb", "D": "dismiss", "correct": "A" }
+    ]
+  },
+  {
+    "english": "disgust",
+    "pron": "dɪsˈɡʌst",
+    "kana": "ディスガスト",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 gustare（味わう）+ dis-（否定）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "嫌悪"],
+    "meaning_main": "嫌悪／むかつき／(を)むかつかせる・うんざりさせる",
+    "description": "disgust（ディスガスト）の意味・使い方・語源を解説。嫌悪、むかつき、むかつかせるという意味の名詞・動詞です。",
+    "keywords": ["disgust 意味", "disgust 使い方", "disgust 語源", "disgust 例文", "嫌悪 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】嫌悪、むかつき、反感", "note": "強い不快感" },
+      { "hinshi": "【動詞】(を)むかつかせる、うんざりさせる", "note": "強い不快感を与える" }
+    ],
+    "usages": [
+      { "title": "① 嫌悪（名詞）", "desc": "in disgust（うんざりして）", "example_en": "She left the room in disgust.", "example_ja": "彼女はうんざりして部屋を出た。" },
+      { "title": "② むかつかせる（動詞）", "desc": "his behavior disgusts me", "example_en": "The smell disgusted everyone.", "example_ja": "そのにおいはみんなをむかつかせた。" }
+    ],
+    "warn": ["形容詞 disgusting は「(物事が)むかつく」、disgusted は「(人が)うんざりした」。in disgust（うんざりして）。gust（味）が語源で「味わうのも嫌」"],
+    "etym_note": "ラテン語 gustare（味わう）に否定の dis- が付き、「味わうのも嫌なほど不快」が原義です。gusto（喜び・熱意）と同語根です。",
+    "etym_chain": [
+      { "node": "gustare", "sub": "味わう", "era": "ラテン語" },
+      { "node": "disgust", "sub": "むかつかせる", "era": "16世紀英語" },
+      { "node": "disgust", "sub": "嫌悪・むかつかせる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "in disgust", "ja": "うんざりして" },
+      { "en": "a look of disgust", "ja": "嫌悪の表情" },
+      { "en": "to my disgust", "ja": "うんざりしたことに" },
+      { "en": "filled with disgust", "ja": "嫌悪でいっぱいの" },
+      { "en": "disgust at", "ja": "〜への嫌悪" },
+      { "en": "sheer disgust", "ja": "まったくの嫌悪" }
+    ],
+    "related": [
+      { "en": "disgusting", "ja": "むかつく・不快な" },
+      { "en": "disgusted", "ja": "うんざりした" },
+      { "en": "revulsion", "ja": "強い嫌悪" },
+      { "en": "loathing", "ja": "ひどい嫌悪" }
+    ],
+    "faq": [
+      { "q": "disgusting と disgusted の違いは？", "a": "disgusting は「(物事が)むかつかせる・不快な」、disgusted は「(人が)うんざりした・むかついた」です。The food is disgusting.／I'm disgusted. のように使い分けます。" },
+      { "q": "in disgust とは？", "a": "「うんざりして・嫌気がさして」という意味です。walk away in disgust（あきれて立ち去る）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "disgust の意味は？", "A": "嫌悪・むかつかせる", "B": "喜び", "C": "感謝", "D": "驚き", "correct": "A" },
+      { "q": "in disgust の意味は？", "A": "うんざりして", "B": "喜んで", "C": "急いで", "D": "静かに", "correct": "A" }
+    ]
+  },
+  {
+    "english": "dishonest",
+    "pron": "dɪsˈɑːnɪst",
+    "kana": "ディスオネスト",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "dis-（否定）+ honest（正直な）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "不正直な"],
+    "meaning_main": "不正直な／不誠実な／うそをつく",
+    "description": "dishonest（ディスオネスト）の意味・使い方・語源を解説。不正直な、不誠実なという意味の形容詞です。",
+    "keywords": ["dishonest 意味", "dishonest 使い方", "dishonest 語源", "dishonest 例文", "不正直な 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】不正直な、不誠実な", "note": "うそやごまかしをする。反対は honest（正直な）" }
+    ],
+    "usages": [
+      { "title": "① 不正直な人", "desc": "うそをつく・ごまかす", "example_en": "It was dishonest of him to lie about it.", "example_ja": "それについてうそをつくとは彼は不誠実だった。" },
+      { "title": "② 不正な手段", "desc": "dishonest means", "example_en": "He made money by dishonest means.", "example_ja": "彼は不正な手段で金を稼いだ。" }
+    ],
+    "warn": ["dis-（否定）+ honest（正直な）＝「正直でない」。名詞は dishonesty（不正直）、副詞 dishonestly。反対は honest（正直な）。h は発音しない（オネスト）"],
+    "etym_note": "否定の dis- に honest（正直な、ラテン語 honestus「名誉ある」から）が付いた語です。honor（名誉）と同語根です。",
+    "etym_chain": [
+      { "node": "honestus", "sub": "名誉ある", "era": "ラテン語" },
+      { "node": "honest", "sub": "正直な", "era": "中英語" },
+      { "node": "dishonest", "sub": "不正直な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a dishonest person", "ja": "不正直な人" },
+      { "en": "dishonest means", "ja": "不正な手段" },
+      { "en": "be dishonest about", "ja": "〜についてうそをつく" },
+      { "en": "dishonest behavior", "ja": "不誠実な行い" },
+      { "en": "morally dishonest", "ja": "道徳的に不誠実な" },
+      { "en": "a dishonest answer", "ja": "うそ偽りの答え" }
+    ],
+    "related": [
+      { "en": "dishonesty", "ja": "不正直" },
+      { "en": "honest", "ja": "正直な（反対）" },
+      { "en": "deceptive", "ja": "人を欺くような" },
+      { "en": "untruthful", "ja": "うそをつく" }
+    ],
+    "faq": [
+      { "q": "dishonest の反対語は？", "a": "honest（正直な・誠実な）です。頭の dis- が「否定」を表します。" },
+      { "q": "dishonest の名詞形は？", "a": "dishonesty（不正直・不誠実）です。" }
+    ],
+    "quiz": [
+      { "q": "dishonest の意味は？", "A": "不正直な・不誠実な", "B": "正直な", "C": "勇敢な", "D": "親切な", "correct": "A" },
+      { "q": "dishonest の反対語は？", "A": "honest", "B": "honor", "C": "honey", "D": "hollow", "correct": "A" }
+    ]
+  },
+  {
+    "english": "dislect",
+    "pron": "ˈdaɪəlekt",
+    "kana": "ダイアレクト",
+    "hinshi": "つづり間違い（正しくは dialect）",
+    "ld_pos": "misspelling",
+    "ld_etym": "dialect のつづり間違い",
+    "ld_level": "つづり注意",
+    "badges": ["つづり間違い", "正しくは dialect", "英単語ではありません", "スペル注意"],
+    "meaning_main": "※これはつづり間違いです。正しくは dialect（方言）",
+    "description": "dislect は dialect のつづり間違いです。s ではなく a を使い、正しくは dialect（方言）と書きます。",
+    "keywords": ["dislect 正しい", "dislect dialect", "dislect つづり", "dialect 意味", "方言 英語"],
+    "meanings": [
+      { "hinshi": "【正しくは dialect】方言、(地域・集団の)言葉遣い", "note": "dislect は s が誤り。正しくは di-a-lect（a）で dialect" }
+    ],
+    "usages": [
+      { "title": "① 正しいつづりは dialect", "desc": "di-a-lect（a を使う）", "example_en": "She speaks a southern dialect.", "example_ja": "彼女は南部の方言を話す。（正: dialect）" },
+      { "title": "② 地域ごとの言葉", "desc": "標準語との違い", "example_en": "Each region has its own dialect.", "example_ja": "地域ごとに独自の方言がある。（正: dialect）" }
+    ],
+    "warn": ["dislect は誤り（s ではなく a）。正しくは dialect。dia-（通して）+ -lect（話す）と分けると a が分かる。dialogue（対話）と同じ dia- を持つ"],
+    "etym_note": "正しい語 dialect は、ギリシャ語 dialektos（dia-「通して」+ legein「話す」＝話し方・言葉）に由来します。dialogue（対話）や lecture（講義）と同語根です。",
+    "etym_chain": [
+      { "node": "legein", "sub": "話す", "era": "ギリシャ語" },
+      { "node": "dialektos", "sub": "話し方・言葉", "era": "ギリシャ語" },
+      { "node": "dislect", "sub": "誤ったつづり", "era": "つづり間違い" }
+    ],
+    "phrases": [
+      { "en": "dialect (正)", "ja": "方言（正しいつづり）" },
+      { "en": "dislect (誤)", "ja": "つづり間違い" },
+      { "en": "a local dialect", "ja": "地方の方言" },
+      { "en": "speak a dialect", "ja": "方言を話す" },
+      { "en": "a regional dialect", "ja": "地域方言" },
+      { "en": "the Osaka dialect", "ja": "大阪弁" }
+    ],
+    "related": [
+      { "en": "dialect", "ja": "方言（正しい語）" },
+      { "en": "accent", "ja": "なまり・アクセント" },
+      { "en": "language", "ja": "言語" },
+      { "en": "standard", "ja": "標準語" }
+    ],
+    "faq": [
+      { "q": "dislect は正しいつづり？", "a": "いいえ、s ではなく a が正しく、dialect と綴ります。「方言」を意味します。" },
+      { "q": "dialect のつづりのコツは？", "a": "di-a-lect と、真ん中に a が入ります。dialogue（対話）と同じ dia-（通して）で始まると覚えると a を忘れません。" }
+    ],
+    "quiz": [
+      { "q": "正しいつづりはどれ？", "A": "dialect", "B": "dislect", "C": "dilect", "D": "dyalect", "correct": "A" },
+      { "q": "dialect の意味は？", "A": "方言", "B": "会話", "C": "辞書", "D": "文法", "correct": "A" }
+    ]
+  },
+  {
+    "english": "displomacy",
+    "pron": "dɪˈploʊməsi",
+    "kana": "ディプロマシー",
+    "hinshi": "つづり間違い（正しくは diplomacy）",
+    "ld_pos": "misspelling",
+    "ld_etym": "diplomacy のつづり間違い",
+    "ld_level": "つづり注意",
+    "badges": ["つづり間違い", "正しくは diplomacy", "英単語ではありません", "スペル注意"],
+    "meaning_main": "※これはつづり間違いです。正しくは diplomacy（外交・外交手腕）",
+    "description": "displomacy は diplomacy のつづり間違いです。s が余分です。正しくは diplomacy（外交・駆け引きのうまさ）と書きます。",
+    "keywords": ["displomacy 正しい", "diplomacy 意味", "displomacy つづり", "diplomacy 外交", "外交 英語"],
+    "meanings": [
+      { "hinshi": "【正しくは diplomacy】外交、外交手腕、(人付き合いの)機転", "note": "displomacy は s が余分な誤り。正しくは di-plomacy（s なし）で diplomacy" }
+    ],
+    "usages": [
+      { "title": "① 正しいつづりは diplomacy", "desc": "di-plomacy（s は入らない）", "example_en": "The conflict was solved through diplomacy.", "example_ja": "その紛争は外交によって解決された。（正: diplomacy）" },
+      { "title": "② 人付き合いの機転", "desc": "角を立てない対応", "example_en": "She handled it with great diplomacy.", "example_ja": "彼女はそれをとても巧みに（角を立てず）処理した。（正: diplomacy）" }
+    ],
+    "warn": ["displomacy は誤り（s が余分）。正しくは diplomacy。外交官は diplomat、形容詞 diplomatic（外交の・如才ない）。diploma（卒業証書）と同語源"],
+    "etym_note": "正しい語 diplomacy は、ギリシャ語 diploma（二つ折りの公文書）に由来します。外交官が携えた公文書から「外交」の意味になりました。diploma（卒業証書）と同語源です。",
+    "etym_chain": [
+      { "node": "diploma", "sub": "二つ折りの公文書", "era": "ギリシャ語" },
+      { "node": "diplomacy", "sub": "外交（正しいつづり）", "era": "18世紀英語" },
+      { "node": "displomacy", "sub": "誤ったつづり", "era": "つづり間違い" }
+    ],
+    "phrases": [
+      { "en": "diplomacy (正)", "ja": "外交（正しいつづり）" },
+      { "en": "displomacy (誤)", "ja": "つづり間違い" },
+      { "en": "international diplomacy", "ja": "国際外交" },
+      { "en": "through diplomacy", "ja": "外交を通じて" },
+      { "en": "handle with diplomacy", "ja": "如才なく対処する" },
+      { "en": "a diplomat", "ja": "外交官" }
+    ],
+    "related": [
+      { "en": "diplomacy", "ja": "外交（正しい語）" },
+      { "en": "diplomat", "ja": "外交官" },
+      { "en": "diplomatic", "ja": "外交の・如才ない" },
+      { "en": "negotiation", "ja": "交渉" }
+    ],
+    "faq": [
+      { "q": "displomacy は正しいつづり？", "a": "いいえ、s が余分な間違いです。正しくは diplomacy（di-plomacy）で、「外交・外交手腕・如才なさ」を意味します。" },
+      { "q": "diplomacy の関連語は？", "a": "外交官は diplomat、形容詞は diplomatic（外交の・如才ない）です。diploma（卒業証書）と同じ語源です。" }
+    ],
+    "quiz": [
+      { "q": "正しいつづりはどれ？", "A": "diplomacy", "B": "displomacy", "C": "diplomasy", "D": "deplomacy", "correct": "A" },
+      { "q": "diplomacy の意味は？", "A": "外交・外交手腕", "B": "民主主義", "C": "独裁", "D": "戦争", "correct": "A" }
+    ]
+  },
+  {
+    "english": "dissect",
+    "pron": "dɪˈsekt",
+    "kana": "ディセクト",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "ラテン語 dissecare（切り分ける）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "解剖する"],
+    "meaning_main": "(を)解剖する／(を)細かく分析する・分解する",
+    "description": "dissect（ディセクト）の意味・使い方・語源を解説。解剖する、細かく分析するという意味の動詞です。",
+    "keywords": ["dissect 意味", "dissect 使い方", "dissect 語源", "dissect 例文", "解剖する 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】(生物を)解剖する", "note": "体を切り開いて調べる" },
+      { "hinshi": "【動詞】(を)細かく分析する、詳しく調べる", "note": "問題や文章を分解して吟味する" }
+    ],
+    "usages": [
+      { "title": "① 解剖する", "desc": "生物学の実験など", "example_en": "Students dissected a frog in biology class.", "example_ja": "生徒は生物の授業でカエルを解剖した。" },
+      { "title": "② 細かく分析する（比喩）", "desc": "問題を分解して調べる", "example_en": "The critics dissected the film in detail.", "example_ja": "批評家たちはその映画を細かく分析した。" }
+    ],
+    "warn": ["名詞は dissection（解剖・分析）。s が2つ（dis-sect）に注意。sect（切る）が語根で、section（区分）や insect（昆虫）と同語根"],
+    "etym_note": "ラテン語 dissecare（dis-「分けて」+ secare「切る」＝切り分ける）に由来し、section（区分）や insect（節のある虫）と同語根です。",
+    "etym_chain": [
+      { "node": "secare", "sub": "切る", "era": "ラテン語" },
+      { "node": "dissecare", "sub": "切り分ける", "era": "ラテン語" },
+      { "node": "dissect", "sub": "解剖する・分析する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "dissect a frog", "ja": "カエルを解剖する" },
+      { "en": "dissect the problem", "ja": "問題を細かく分析する" },
+      { "en": "carefully dissect", "ja": "入念に分析する" },
+      { "en": "dissect a text", "ja": "文章を詳しく分析する" },
+      { "en": "dissect the data", "ja": "データを細かく調べる" },
+      { "en": "dissection (名詞)", "ja": "解剖・分析" }
+    ],
+    "related": [
+      { "en": "dissection", "ja": "解剖・分析" },
+      { "en": "analyze", "ja": "分析する" },
+      { "en": "examine", "ja": "調べる" },
+      { "en": "section", "ja": "区分・部分" }
+    ],
+    "faq": [
+      { "q": "dissect の2つの意味は？", "a": "①「(生物を)解剖する」と、②比喩で「(問題・文章を)細かく分析する・分解して調べる」の両方があります。" },
+      { "q": "dissect のつづりで注意する点は？", "a": "s が2つで dis-sect です（dis-＋sect）。secare（切る）が語根で、section や insect と同じ仲間です。" }
+    ],
+    "quiz": [
+      { "q": "dissect の意味は？", "A": "解剖する・細かく分析する", "B": "組み立てる", "C": "隠す", "D": "祝う", "correct": "A" },
+      { "q": "dissect の名詞形は？", "A": "dissection", "B": "dissectment", "C": "dissectance", "D": "dissectity", "correct": "A" }
+    ]
+  },
+  {
+    "english": "distill",
+    "pron": "dɪˈstɪl",
+    "kana": "ディスティル",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "ラテン語 distillare（したたり落ちる）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "蒸留する"],
+    "meaning_main": "(を)蒸留する／(要点・本質を)抽出する・まとめる",
+    "description": "distill（ディスティル）の意味・使い方・語源を解説。蒸留する、本質を抽出するという意味の動詞です。",
+    "keywords": ["distill 意味", "distill 使い方", "distill 語源", "distill 例文", "蒸留する 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】(を)蒸留する", "note": "熱して蒸気にし、冷やして純粋な液体を得る" },
+      { "hinshi": "【動詞】(本質・要点を)抽出する、凝縮する", "note": "distill A into B（AをBにまとめる）" }
+    ],
+    "usages": [
+      { "title": "① 蒸留する", "desc": "純粋な液体を得る", "example_en": "Whiskey is distilled from grain.", "example_ja": "ウイスキーは穀物から蒸留される。" },
+      { "title": "② 本質を抽出する（比喩）", "desc": "要点を凝縮する", "example_en": "He distilled the report into three points.", "example_ja": "彼は報告書を3点に凝縮した。" }
+    ],
+    "warn": ["イギリス英語では distil（l が1つ）とも綴る。名詞は distillation（蒸留）、蒸留所は distillery。distilled water（蒸留水）。比喩で「本質を抽出する」の用法も重要"],
+    "etym_note": "ラテン語 distillare（de-「下へ」+ stillare「したたる」＝したたり落ちる）に由来します。蒸気が冷えてしずくとなって落ちることから「蒸留」の意味になりました。",
+    "etym_chain": [
+      { "node": "stillare", "sub": "したたる", "era": "ラテン語" },
+      { "node": "distillare", "sub": "したたり落ちる", "era": "ラテン語" },
+      { "node": "distill", "sub": "蒸留する・抽出する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "distill water", "ja": "水を蒸留する" },
+      { "en": "distilled water", "ja": "蒸留水" },
+      { "en": "distill into", "ja": "〜に凝縮する" },
+      { "en": "distill the essence", "ja": "本質を抽出する" },
+      { "en": "a distillery", "ja": "蒸留所" },
+      { "en": "distill knowledge", "ja": "知識を凝縮する" }
+    ],
+    "related": [
+      { "en": "distillation", "ja": "蒸留" },
+      { "en": "distillery", "ja": "蒸留所" },
+      { "en": "extract", "ja": "抽出する" },
+      { "en": "condense", "ja": "凝縮する" }
+    ],
+    "faq": [
+      { "q": "distill の比喩的な意味は？", "a": "「(多くのものから)本質・要点を抽出する・凝縮する」という意味です。distill a book into a summary（本を要約に凝縮する）のように使います。" },
+      { "q": "distill と distil の違いは？", "a": "意味は同じで、distill はアメリカ式（l が2つ）、distil はイギリス式（l が1つ）のつづりです。" }
+    ],
+    "quiz": [
+      { "q": "distill の意味は？", "A": "蒸留する・本質を抽出する", "B": "混ぜる", "C": "凍らせる", "D": "壊す", "correct": "A" },
+      { "q": "distilled water の意味は？", "A": "蒸留水", "B": "炭酸水", "C": "海水", "D": "泥水", "correct": "A" }
+    ]
+  }
+]
