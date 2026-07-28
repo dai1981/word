@@ -1,0 +1,991 @@
+[
+  {
+    "english": "kettle",
+    "pron": "ˈketl",
+    "kana": "ケトル",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 catillus（小さな鉢）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "やかん"],
+    "meaning_main": "やかん／湯沸かし器",
+    "description": "kettle（ケトル）の意味・使い方・語源を解説。湯を沸かす「やかん」を表す名詞です。",
+    "keywords": ["kettle 意味", "kettle 使い方", "kettle 語源", "kettle 例文", "やかん 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】やかん、湯沸かし器", "note": "水を入れて火にかけ湯を沸かす道具。電気ケトルも含む" }
+    ],
+    "usages": [
+      { "title": "① 湯を沸かす道具", "desc": "put the kettle on（やかんを火にかける）", "example_en": "I'll put the kettle on for tea.", "example_ja": "お茶のためにやかんを火にかけるよ。" },
+      { "title": "② 沸騰する", "desc": "the kettle is boiling", "example_en": "The kettle is boiling.", "example_ja": "やかんが沸いている。" }
+    ],
+    "warn": ["put the kettle on は「(お茶のために)やかんを火にかける」定番表現。pot（鍋・ポット）とは別。The pot calling the kettle black は「五十歩百歩」のことわざ"],
+    "etym_note": "ラテン語 catillus（小さな鉢、catinus「鉢」の指小形）に由来し、古ノルド語を経て英語へ入りました。",
+    "etym_chain": [
+      { "node": "catillus", "sub": "小さな鉢", "era": "ラテン語" },
+      { "node": "ketill", "sub": "釜", "era": "古ノルド語" },
+      { "node": "kettle", "sub": "やかん", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "put the kettle on", "ja": "やかんを火にかける" },
+      { "en": "an electric kettle", "ja": "電気ケトル" },
+      { "en": "the kettle is boiling", "ja": "やかんが沸いている" },
+      { "en": "boil the kettle", "ja": "やかんの湯を沸かす" },
+      { "en": "a kettle of water", "ja": "やかん一杯の水" },
+      { "en": "the kettle whistles", "ja": "やかんが笛を鳴らす" }
+    ],
+    "related": [
+      { "en": "pot", "ja": "鍋・ポット" },
+      { "en": "teapot", "ja": "急須・ティーポット" },
+      { "en": "boil", "ja": "沸かす" },
+      { "en": "stove", "ja": "コンロ" }
+    ],
+    "faq": [
+      { "q": "kettle と teapot の違いは？", "a": "kettle は「湯を沸かすやかん」、teapot は「お茶をいれる急須・ポット」です。kettle で沸かした湯を teapot に注いでお茶をいれます。" },
+      { "q": "put the kettle on とは？", "a": "「(お茶をいれるために)やかんを火にかける」という決まった言い方です。イギリスでよく使われます。" }
+    ],
+    "quiz": [
+      { "q": "kettle の意味は？", "A": "やかん・湯沸かし器", "B": "フライパン", "C": "皿", "D": "コップ", "correct": "A" },
+      { "q": "put the kettle on の意味は？", "A": "やかんを火にかける", "B": "やかんを洗う", "C": "やかんを片づける", "D": "やかんを買う", "correct": "A" }
+    ]
+  },
+  {
+    "english": "keyboard",
+    "pron": "ˈkiːbɔːrd",
+    "kana": "キーボード",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "key（鍵・キー）+ board（板）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "キーボード"],
+    "meaning_main": "(パソコンの)キーボード／(楽器の)鍵盤",
+    "description": "keyboard（キーボード）の意味・使い方・語源を解説。パソコンのキーボード、楽器の鍵盤という意味の名詞です。",
+    "keywords": ["keyboard 意味", "keyboard 使い方", "keyboard 語源", "keyboard 例文", "キーボード 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】(パソコン・タイプライターの)キーボード", "note": "文字を入力するためのキーが並んだ装置" },
+      { "hinshi": "【名詞】(ピアノなどの)鍵盤／鍵盤楽器", "note": "音を出すキーの並び" }
+    ],
+    "usages": [
+      { "title": "① 入力用キーボード", "desc": "文字を打つ装置", "example_en": "He typed quickly on the keyboard.", "example_ja": "彼はキーボードで素早く入力した。" },
+      { "title": "② 楽器の鍵盤", "desc": "ピアノなどの鍵盤", "example_en": "She plays the keyboard in a band.", "example_ja": "彼女はバンドでキーボードを演奏する。" }
+    ],
+    "warn": ["key（鍵・キー）+ board（板）＝「キーが並んだ板」。関連語 mouse（マウス）、monitor（画面）。楽器の「鍵盤」の意味も"],
+    "etym_note": "key（鍵・キー、古英語 cæg）+ board（板、古英語 bord）を組み合わせた語で、「キーが並んだ板」を表します。",
+    "etym_chain": [
+      { "node": "key + board", "sub": "キー + 板", "era": "近代英語" },
+      { "node": "keyboard", "sub": "鍵盤", "era": "18世紀英語" },
+      { "node": "keyboard", "sub": "キーボード・鍵盤", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "type on the keyboard", "ja": "キーボードで入力する" },
+      { "en": "a computer keyboard", "ja": "パソコンのキーボード" },
+      { "en": "a wireless keyboard", "ja": "ワイヤレスキーボード" },
+      { "en": "play the keyboard", "ja": "キーボードを演奏する" },
+      { "en": "keyboard shortcuts", "ja": "キーボードショートカット" },
+      { "en": "a piano keyboard", "ja": "ピアノの鍵盤" }
+    ],
+    "related": [
+      { "en": "key", "ja": "キー・鍵" },
+      { "en": "mouse", "ja": "マウス" },
+      { "en": "type", "ja": "入力する" },
+      { "en": "piano", "ja": "ピアノ" }
+    ],
+    "faq": [
+      { "q": "keyboard の成り立ちは？", "a": "key（キー・鍵）+ board（板）で、「キーが並んだ板」を表します。パソコンの入力装置と、ピアノなどの鍵盤の両方を指します。" },
+      { "q": "keyboard shortcut とは？", "a": "「キーボードショートカット」で、キーの組み合わせで操作を素早く行う機能のことです（例: Ctrl+C でコピー）。" }
+    ],
+    "quiz": [
+      { "q": "keyboard の意味は？", "A": "キーボード・鍵盤", "B": "画面", "C": "スピーカー", "D": "電源", "correct": "A" },
+      { "q": "keyboard は何と何の複合語？", "A": "key（キー）+ board（板）", "B": "keep + board", "C": "key + word", "D": "key + bird", "correct": "A" }
+    ]
+  },
+  {
+    "english": "knit",
+    "pron": "nɪt",
+    "kana": "ニット",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "verb",
+    "ld_etym": "古英語 cnyttan（結ぶ）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "編む"],
+    "meaning_main": "(を)編む／(眉を)寄せる／(名詞)ニット・編み物",
+    "description": "knit（ニット）の意味・使い方・語源を解説。編む、眉を寄せるという意味の動詞・名詞です。",
+    "keywords": ["knit 意味", "knit 使い方", "knit 語源", "knit 例文", "編む 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】(毛糸などを)編む", "note": "棒針や機械で編み物を作る" },
+      { "hinshi": "【動詞】(眉を)寄せる／固く結びつける", "note": "knit one's brows（眉をひそめる）" },
+      { "hinshi": "【名詞】ニット、編み物", "note": "編んだ衣類・生地" }
+    ],
+    "usages": [
+      { "title": "① 毛糸を編む", "desc": "編み物を作る", "example_en": "She knitted a warm scarf.", "example_ja": "彼女は暖かいマフラーを編んだ。" },
+      { "title": "② 固く結びつく", "desc": "a close-knit family（結束の固い家族）", "example_en": "They are a close-knit community.", "example_ja": "彼らは結束の固い地域社会だ。" }
+    ],
+    "warn": ["k は発音しない黙字（ニット）。活用は knit-knitted-knitted（または knit-knit-knit）。close-knit は「結束の固い」。knit one's brows は「眉をひそめる」"],
+    "etym_note": "古英語 cnyttan（結ぶ、cnotta「結び目」から）に由来し、knot（結び目）と同語源です。「糸を結んで作る＝編む」の意味です。",
+    "etym_chain": [
+      { "node": "cnyttan", "sub": "結ぶ", "era": "古英語" },
+      { "node": "knitten", "sub": "編む・結ぶ", "era": "中英語" },
+      { "node": "knit", "sub": "編む・結びつける", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "knit a sweater", "ja": "セーターを編む" },
+      { "en": "a close-knit family", "ja": "結束の固い家族" },
+      { "en": "knit one's brows", "ja": "眉をひそめる" },
+      { "en": "hand-knitted", "ja": "手編みの" },
+      { "en": "a knit cap", "ja": "ニット帽" },
+      { "en": "knit and purl", "ja": "表編みと裏編み" }
+    ],
+    "related": [
+      { "en": "knot", "ja": "結び目" },
+      { "en": "sew", "ja": "縫う" },
+      { "en": "weave", "ja": "織る" },
+      { "en": "wool", "ja": "毛糸・羊毛" }
+    ],
+    "faq": [
+      { "q": "knit の k は発音する？", "a": "いいえ、k は発音しない黙字（サイレントレター）で、/nɪt/「ニット」と読みます。know（知る）や knee（膝）と同じく kn- の k は読みません。" },
+      { "q": "close-knit とは？", "a": "「(家族・集団の)結束が固い・きずなの強い」という意味です。a close-knit community（結びつきの強い地域社会）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "knit の意味は？", "A": "(毛糸を)編む", "B": "織る", "C": "縫う", "D": "染める", "correct": "A" },
+      { "q": "close-knit の意味は？", "A": "結束の固い", "B": "ばらばらの", "C": "新しい", "D": "大きな", "correct": "A" }
+    ]
+  },
+  {
+    "english": "lanky",
+    "pron": "ˈlæŋki",
+    "kana": "ランキー",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "lank（やせた）+ -y",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "ひょろ長い"],
+    "meaning_main": "(人が)ひょろ長い／やせて背が高い",
+    "description": "lanky（ランキー）の意味・使い方・語源を解説。ひょろ長い、やせて背が高いという意味の形容詞です。",
+    "keywords": ["lanky 意味", "lanky 使い方", "lanky 語源", "lanky 例文", "ひょろ長い 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】(人が)ひょろ長い、やせて背が高い", "note": "手足が細長く不格好な印象" }
+    ],
+    "usages": [
+      { "title": "① やせて背が高い", "desc": "手足が細長い", "example_en": "The lanky teenager towered over his friends.", "example_ja": "そのひょろ長いティーンは友達より頭一つ高かった。" },
+      { "title": "② ひょろっとした体型", "desc": "細身で長い", "example_en": "He was tall and lanky.", "example_ja": "彼は背が高くてひょろっとしていた。" }
+    ],
+    "warn": ["主に人の体型に使う。tall（背が高い）に「やせて不格好」という含みを加えた語。slender（ほっそりした）よりやや否定的なことも"],
+    "etym_note": "lank（やせた・細長い、古英語 hlanc「しなやかな」から）に形容詞をつくる -y が付いた語です。",
+    "etym_chain": [
+      { "node": "hlanc", "sub": "しなやかな・細い", "era": "古英語" },
+      { "node": "lank", "sub": "やせた・細長い", "era": "中英語" },
+      { "node": "lanky", "sub": "ひょろ長い", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a lanky teenager", "ja": "ひょろ長いティーン" },
+      { "en": "tall and lanky", "ja": "背が高くひょろっとした" },
+      { "en": "a lanky frame", "ja": "ひょろっとした体つき" },
+      { "en": "lanky arms and legs", "ja": "細長い手足" },
+      { "en": "a lanky figure", "ja": "ひょろ長い姿" },
+      { "en": "look lanky", "ja": "ひょろっとして見える" }
+    ],
+    "related": [
+      { "en": "tall", "ja": "背が高い" },
+      { "en": "slim", "ja": "ほっそりした" },
+      { "en": "gangly", "ja": "ひょろひょろの" },
+      { "en": "stocky", "ja": "がっしりした（反対）" }
+    ],
+    "faq": [
+      { "q": "lanky はどんな体型？", "a": "「やせて背が高く、手足が細長い」体型を表します。tall（背が高い）に「ひょろっとして不格好」という含みが加わった語です。" },
+      { "q": "lanky の反対に近い語は？", "a": "stocky（がっしりした・ずんぐりした）です。lanky は「ひょろ長い」、stocky は「がっしり」です。" }
+    ],
+    "quiz": [
+      { "q": "lanky の意味は？", "A": "ひょろ長い・やせて背が高い", "B": "がっしりした", "C": "小柄な", "D": "太った", "correct": "A" },
+      { "q": "lanky の反対に近い語は？", "A": "stocky", "B": "tall", "C": "slim", "D": "gangly", "correct": "A" }
+    ]
+  },
+  {
+    "english": "lemur",
+    "pron": "ˈliːmər",
+    "kana": "リーマー",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 lemures（死者の霊）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "キツネザル"],
+    "meaning_main": "キツネザル（マダガスカルにすむ霊長類）",
+    "description": "lemur（リーマー）の意味・語源を解説。マダガスカル島にすむ霊長類「キツネザル」を表す名詞です。",
+    "keywords": ["lemur 意味", "lemur 使い方", "lemur 語源", "lemur とは", "キツネザル 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】キツネザル", "note": "マダガスカル島に生息する原始的な霊長類。大きな目と長い尾が特徴" }
+    ],
+    "usages": [
+      { "title": "① マダガスカルの動物", "desc": "大きな目の霊長類", "example_en": "Lemurs are found only in Madagascar.", "example_ja": "キツネザルはマダガスカルにしか生息しない。" },
+      { "title": "② 特徴的な姿", "desc": "長い尾と大きな目", "example_en": "The ring-tailed lemur has a striped tail.", "example_ja": "ワオキツネザルは縞模様の尾を持つ。" }
+    ],
+    "warn": ["monkey（サル）や ape（類人猿）とは別の原始的な霊長類。ワオキツネザル（ring-tailed lemur）が有名。夜行性の種が多く、名は「夜に現れる死者の霊」に由来"],
+    "etym_note": "ラテン語 lemures（夜に現れる死者の霊）に由来します。夜行性で、暗がりに現れる大きな目の姿が幽霊を思わせたことから名づけられました。",
+    "etym_chain": [
+      { "node": "lemures", "sub": "死者の霊", "era": "ラテン語" },
+      { "node": "lemur", "sub": "キツネザル(命名)", "era": "18世紀" },
+      { "node": "lemur", "sub": "キツネザル", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a ring-tailed lemur", "ja": "ワオキツネザル" },
+      { "en": "lemurs in Madagascar", "ja": "マダガスカルのキツネザル" },
+      { "en": "a nocturnal lemur", "ja": "夜行性のキツネザル" },
+      { "en": "a mouse lemur", "ja": "ネズミキツネザル" },
+      { "en": "endangered lemurs", "ja": "絶滅危惧のキツネザル" },
+      { "en": "a lemur's tail", "ja": "キツネザルの尾" }
+    ],
+    "related": [
+      { "en": "monkey", "ja": "サル" },
+      { "en": "primate", "ja": "霊長類" },
+      { "en": "madagascar", "ja": "マダガスカル" },
+      { "en": "ape", "ja": "類人猿" }
+    ],
+    "faq": [
+      { "q": "lemur とはどんな動物？", "a": "マダガスカル島にだけ生息する原始的な霊長類（サルの仲間）です。大きな目と長い尾が特徴で、ワオキツネザルが有名です。" },
+      { "q": "lemur の名前の由来は？", "a": "ラテン語 lemures（死者の霊）に由来します。夜行性で暗がりに大きな目で現れる姿が幽霊を思わせたためです。" }
+    ],
+    "quiz": [
+      { "q": "lemur とは？", "A": "マダガスカルのキツネザル", "B": "海の魚", "C": "鳥の一種", "D": "昆虫", "correct": "A" },
+      { "q": "lemur は主にどこに生息する？", "A": "マダガスカル", "B": "北極", "C": "砂漠", "D": "深海", "correct": "A" }
+    ]
+  },
+  {
+    "english": "lenient",
+    "pron": "ˈliːniənt",
+    "kana": "リーニエント",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "ラテン語 lenire（和らげる）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "寛大な"],
+    "meaning_main": "寛大な／(罰などが)手ぬるい／甘い",
+    "description": "lenient（リーニエント）の意味・使い方・語源を解説。寛大な、手ぬるいという意味の形容詞です。",
+    "keywords": ["lenient 意味", "lenient 使い方", "lenient 語源", "lenient 例文", "寛大な 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】寛大な、手ぬるい、甘い", "note": "罰や規則がきびしくない。lenient on/with/toward ～" }
+    ],
+    "usages": [
+      { "title": "① 罰に寛大な", "desc": "きびしくない", "example_en": "The judge was lenient with the young offender.", "example_ja": "裁判官はその若い犯罪者に寛大だった。" },
+      { "title": "② 甘い扱い", "desc": "lenient rules", "example_en": "The school has lenient rules.", "example_ja": "その学校は規則が甘い。" }
+    ],
+    "warn": ["be lenient on/with/toward ～（〜に寛大である）。名詞は leniency（寛大さ）。strict（厳格な）や harsh（厳しい）の反対。時に「甘すぎる」という否定的含み"],
+    "etym_note": "ラテン語 lenire（和らげる、lenis「柔らかい・穏やかな」から）に由来します。「(罰などを)和らげる＝寛大な」の意味です。",
+    "etym_chain": [
+      { "node": "lenis", "sub": "柔らかい・穏やかな", "era": "ラテン語" },
+      { "node": "lenire", "sub": "和らげる", "era": "ラテン語" },
+      { "node": "lenient", "sub": "寛大な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be lenient with", "ja": "〜に寛大である" },
+      { "en": "a lenient sentence", "ja": "軽い判決" },
+      { "en": "lenient treatment", "ja": "寛大な扱い" },
+      { "en": "too lenient", "ja": "甘すぎる" },
+      { "en": "lenient rules", "ja": "甘い規則" },
+      { "en": "a lenient teacher", "ja": "寛大な先生" }
+    ],
+    "related": [
+      { "en": "leniency", "ja": "寛大さ" },
+      { "en": "merciful", "ja": "慈悲深い" },
+      { "en": "tolerant", "ja": "寛容な" },
+      { "en": "strict", "ja": "厳格な（反対）" }
+    ],
+    "faq": [
+      { "q": "lenient の反対語は？", "a": "strict（厳格な）や harsh / severe（厳しい）です。lenient は「寛大な・手ぬるい」の意味です。" },
+      { "q": "lenient の名詞形は？", "a": "leniency（寛大さ・寛容）です。show leniency（寛大さを示す）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "lenient の意味は？", "A": "寛大な・手ぬるい", "B": "厳格な", "C": "危険な", "D": "退屈な", "correct": "A" },
+      { "q": "lenient の反対語は？", "A": "strict", "B": "merciful", "C": "tolerant", "D": "gentle", "correct": "A" }
+    ]
+  },
+  {
+    "english": "lesion",
+    "pron": "ˈliːʒn",
+    "kana": "リージョン",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 laesio（傷つけること）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "病変"],
+    "meaning_main": "(医学)病変／(組織の)損傷・傷害",
+    "description": "lesion（リージョン）の意味・語源を解説。病気やけがによる組織の傷「病変」を表す医学用語の名詞です。",
+    "keywords": ["lesion 意味", "lesion 使い方", "lesion 語源", "lesion 例文", "病変 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】(医学)病変、(組織の)損傷・傷害", "note": "病気やけがで異常が生じた組織の部分" }
+    ],
+    "usages": [
+      { "title": "① 皮膚などの病変", "desc": "組織の異常な部分", "example_en": "The doctor examined a skin lesion.", "example_ja": "医師は皮膚の病変を調べた。" },
+      { "title": "② 脳などの損傷", "desc": "brain lesion", "example_en": "The scan revealed a brain lesion.", "example_ja": "検査で脳の病変が見つかった。" }
+    ],
+    "warn": ["医学用語。皮膚・脳・臓器などの「病変・損傷部分」を指す。region（地域）と発音が似るが別語。laesio（傷つける）が語源で、injury（けが）と同語根"],
+    "etym_note": "ラテン語 laesio（傷つけること、laedere「傷つける」から）に由来します。injure（傷つける）や collide（衝突する）と語根を共有します。",
+    "etym_chain": [
+      { "node": "laedere", "sub": "傷つける", "era": "ラテン語" },
+      { "node": "laesio", "sub": "傷つけること", "era": "ラテン語" },
+      { "node": "lesion", "sub": "病変・損傷", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a skin lesion", "ja": "皮膚の病変" },
+      { "en": "a brain lesion", "ja": "脳の病変" },
+      { "en": "a benign lesion", "ja": "良性の病変" },
+      { "en": "detect a lesion", "ja": "病変を発見する" },
+      { "en": "a malignant lesion", "ja": "悪性の病変" },
+      { "en": "multiple lesions", "ja": "複数の病変" }
+    ],
+    "related": [
+      { "en": "injury", "ja": "けが・損傷" },
+      { "en": "wound", "ja": "傷" },
+      { "en": "tumor", "ja": "腫瘍" },
+      { "en": "damage", "ja": "損傷" }
+    ],
+    "faq": [
+      { "q": "lesion とは？", "a": "医学用語で、病気やけがによって組織に生じた異常・傷「病変」を指します。皮膚（skin lesion）・脳（brain lesion）など、体のさまざまな部分に使います。" },
+      { "q": "lesion と region の違いは？", "a": "発音が似ていますが、lesion /ˈliːʒn/ は「病変・損傷」、region /ˈriːdʒn/ は「地域・領域」でまったく別の語です。" }
+    ],
+    "quiz": [
+      { "q": "lesion の意味は？", "A": "(医学)病変・組織の損傷", "B": "地域", "C": "宗教", "D": "会話", "correct": "A" },
+      { "q": "a skin lesion の意味は？", "A": "皮膚の病変", "B": "皮膚の色", "C": "皮膚科医", "D": "化粧品", "correct": "A" }
+    ]
+  },
+  {
+    "english": "lethargy",
+    "pron": "ˈleθərdʒi",
+    "kana": "レサジー",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ギリシャ語 lethargos（忘れっぽい・眠い）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "無気力"],
+    "meaning_main": "無気力／倦怠(けんたい)／気だるさ",
+    "description": "lethargy（レサジー）の意味・使い方・語源を解説。無気力、倦怠、気だるさという意味の名詞です。",
+    "keywords": ["lethargy 意味", "lethargy 使い方", "lethargy 語源", "lethargy 例文", "無気力 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】無気力、倦怠(けんたい)、気だるさ", "note": "元気ややる気が出ず、だるく眠い状態" }
+    ],
+    "usages": [
+      { "title": "① だるくやる気が出ない", "desc": "気だるい状態", "example_en": "The heat left me in a state of lethargy.", "example_ja": "暑さで私は無気力な状態になった。" },
+      { "title": "② 病気による倦怠", "desc": "気力の低下", "example_en": "Lethargy can be a symptom of illness.", "example_ja": "倦怠感は病気の症状であることがある。" }
+    ],
+    "warn": ["形容詞は lethargic（無気力な・だるい）。energy（活力）の反対的な状態。ギリシャ神話の「忘却の川 Lethe（レテ）」と同語源"],
+    "etym_note": "ギリシャ語 lethargos（忘れっぽい・眠い、lethe「忘却」から）に由来します。忘却の川 Lethe（レテ）と同語源で、「意識がぼんやりした状態」を表します。",
+    "etym_chain": [
+      { "node": "lethe", "sub": "忘却", "era": "ギリシャ語" },
+      { "node": "lethargos", "sub": "忘れっぽい・眠い", "era": "ギリシャ語" },
+      { "node": "lethargy", "sub": "無気力・倦怠", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a feeling of lethargy", "ja": "気だるさ" },
+      { "en": "overcome lethargy", "ja": "無気力を克服する" },
+      { "en": "a state of lethargy", "ja": "無気力状態" },
+      { "en": "summer lethargy", "ja": "夏の気だるさ" },
+      { "en": "sink into lethargy", "ja": "無気力に陥る" },
+      { "en": "physical lethargy", "ja": "身体的な倦怠" }
+    ],
+    "related": [
+      { "en": "lethargic", "ja": "無気力な・だるい" },
+      { "en": "fatigue", "ja": "疲労" },
+      { "en": "laziness", "ja": "怠惰" },
+      { "en": "energy", "ja": "活力（反対）" }
+    ],
+    "faq": [
+      { "q": "lethargy の形容詞形は？", "a": "lethargic（無気力な・だるい・不活発な）です。feel lethargic（だるい）のように使います。" },
+      { "q": "lethargy と fatigue の違いは？", "a": "fatigue は「(体の)疲労」、lethargy は「やる気が出ずだるく眠い無気力な状態」で、気力の低下に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "lethargy の意味は？", "A": "無気力・倦怠・気だるさ", "B": "活力", "C": "興奮", "D": "喜び", "correct": "A" },
+      { "q": "lethargy の形容詞形は？", "A": "lethargic", "B": "lethargous", "C": "lethargal", "D": "lethargful", "correct": "A" }
+    ]
+  },
+  {
+    "english": "loan-shark",
+    "pron": "ˈloʊnʃɑːrk",
+    "kana": "ローンシャーク",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "loan（貸付）+ shark（サメ・悪徳業者）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "高利貸し"],
+    "meaning_main": "高利貸し／(法外な金利で貸す)悪徳金融業者",
+    "description": "loan-shark（ローンシャーク）の意味・語源を解説。法外な金利で金を貸す「高利貸し」を表す名詞です。",
+    "keywords": ["loan-shark 意味", "loan shark 使い方", "loan-shark 語源", "loan-shark とは", "高利貸し 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】高利貸し、悪徳金融業者", "note": "法外に高い金利で金を貸し、しばしば暴力的に取り立てる者。loan shark とも書く" }
+    ],
+    "usages": [
+      { "title": "① 高利貸し", "desc": "法外な金利で貸す", "example_en": "He borrowed money from a loan shark.", "example_ja": "彼は高利貸しから金を借りた。" },
+      { "title": "② 悪質な取り立て", "desc": "危険な金融業者", "example_en": "Loan sharks charge illegal interest rates.", "example_ja": "高利貸しは違法な金利を取る。" }
+    ],
+    "warn": ["shark（サメ）は比喩で「(獲物を食い物にする)強欲な悪徳業者」。loan shark（ハイフンなし）とも書く。合法的な貸し手は lender"],
+    "etym_note": "loan（貸付・ローン）+ shark（サメ、比喩で「他人を食い物にする貪欲な人」）を組み合わせた語で、「借り手を食い物にする貸金業者」を表します。",
+    "etym_chain": [
+      { "node": "loan + shark", "sub": "貸付 + サメ(悪徳者)", "era": "19世紀末アメリカ" },
+      { "node": "loan shark", "sub": "高利貸し", "era": "近代英語" },
+      { "node": "loan-shark", "sub": "高利貸し", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "borrow from a loan shark", "ja": "高利貸しから借りる" },
+      { "en": "a ruthless loan shark", "ja": "冷酷な高利貸し" },
+      { "en": "loan shark interest", "ja": "高利貸しの金利" },
+      { "en": "fall into the hands of loan sharks", "ja": "高利貸しの餌食になる" },
+      { "en": "illegal loan sharks", "ja": "違法な高利貸し" },
+      { "en": "loan-shark debt", "ja": "高利貸しの借金" }
+    ],
+    "related": [
+      { "en": "loan", "ja": "貸付・ローン" },
+      { "en": "lender", "ja": "貸し手" },
+      { "en": "interest", "ja": "金利・利子" },
+      { "en": "debt", "ja": "借金" }
+    ],
+    "faq": [
+      { "q": "loan-shark とは？", "a": "「高利貸し」のことです。法外に高い金利で金を貸し、しばしば強引・暴力的に取り立てる悪徳金融業者を指します。" },
+      { "q": "なぜ shark（サメ）と呼ぶ？", "a": "shark はサメの貪欲さから比喩的に「他人を食い物にする強欲な人・悪徳業者」を意味します。借り手を食い物にすることから loan shark と呼ばれます。" }
+    ],
+    "quiz": [
+      { "q": "loan-shark の意味は？", "A": "高利貸し・悪徳金融業者", "B": "銀行員", "C": "会計士", "D": "投資家", "correct": "A" },
+      { "q": "loan-shark の shark が表すのは？", "A": "他人を食い物にする悪徳業者", "B": "泳ぎの得意な人", "C": "海の研究者", "D": "魚屋", "correct": "A" }
+    ]
+  },
+  {
+    "english": "loquacious",
+    "pron": "loʊˈkweɪʃəs",
+    "kana": "ロクウェイシャス",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "ラテン語 loqui（話す）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "おしゃべりな"],
+    "meaning_main": "おしゃべりな／多弁な／話好きの",
+    "description": "loquacious（ロクウェイシャス）の意味・使い方・語源を解説。おしゃべりな、多弁なという意味の形容詞です。",
+    "keywords": ["loquacious 意味", "loquacious 使い方", "loquacious 語源", "loquacious 例文", "おしゃべりな 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】おしゃべりな、多弁な、話好きの", "note": "よくしゃべる。ややフォーマルな語" }
+    ],
+    "usages": [
+      { "title": "① よくしゃべる", "desc": "話好きな様子", "example_en": "He became loquacious after a few drinks.", "example_ja": "彼は数杯飲んでおしゃべりになった。" },
+      { "title": "② 多弁な人", "desc": "話が止まらない", "example_en": "Our loquacious host kept us entertained.", "example_ja": "話好きな主人が私たちを楽しませてくれた。" }
+    ],
+    "warn": ["talkative（おしゃべりな）のフォーマルな語。名詞は loquacity（多弁）。しばしば「しゃべりすぎ」という含み。反対は taciturn（無口な）／reticent（口数の少ない）"],
+    "etym_note": "ラテン語 loqui（話す）から生まれた loquax（おしゃべりな）に由来し、eloquent（雄弁な）や dialogue（対話）と同語根です。",
+    "etym_chain": [
+      { "node": "loqui", "sub": "話す", "era": "ラテン語" },
+      { "node": "loquax", "sub": "おしゃべりな", "era": "ラテン語" },
+      { "node": "loquacious", "sub": "おしゃべりな", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a loquacious person", "ja": "おしゃべりな人" },
+      { "en": "become loquacious", "ja": "おしゃべりになる" },
+      { "en": "a loquacious guest", "ja": "話好きな客" },
+      { "en": "unusually loquacious", "ja": "いつになく多弁な" },
+      { "en": "loquacious and friendly", "ja": "話好きで親しみやすい" },
+      { "en": "a loquacious speaker", "ja": "多弁な話し手" }
+    ],
+    "related": [
+      { "en": "talkative", "ja": "おしゃべりな" },
+      { "en": "chatty", "ja": "おしゃべりな(口語)" },
+      { "en": "eloquent", "ja": "雄弁な" },
+      { "en": "taciturn", "ja": "無口な（反対）" }
+    ],
+    "faq": [
+      { "q": "loquacious と talkative の違いは？", "a": "意味はほぼ同じ「おしゃべりな」ですが、loquacious はよりフォーマル・文語的な語です。日常では talkative や chatty がよく使われます。" },
+      { "q": "loquacious の反対語は？", "a": "taciturn（無口な）や reticent（口数の少ない）です。" }
+    ],
+    "quiz": [
+      { "q": "loquacious の意味は？", "A": "おしゃべりな・多弁な", "B": "無口な", "C": "臆病な", "D": "正直な", "correct": "A" },
+      { "q": "loquacious の反対語は？", "A": "taciturn", "B": "talkative", "C": "chatty", "D": "eloquent", "correct": "A" }
+    ]
+  },
+  {
+    "english": "maguma",
+    "pron": "ˈmæɡmə",
+    "kana": "マグマ",
+    "hinshi": "つづり間違い（正しくは magma）",
+    "ld_pos": "misspelling",
+    "ld_etym": "magma のつづり間違い（またはローマ字）",
+    "ld_level": "つづり注意",
+    "badges": ["つづり間違い", "正しくは magma", "英単語ではありません", "スペル注意"],
+    "meaning_main": "※これはつづり間違いです。正しくは magma（マグマ・岩漿）",
+    "description": "maguma は magma のつづり間違いです。u が余分です（日本語「マグマ」のローマ字読みの影響）。正しくは magma（マグマ）と書きます。",
+    "keywords": ["maguma 正しい", "maguma magma", "maguma つづり", "magma 意味", "マグマ 英語"],
+    "meanings": [
+      { "hinshi": "【正しくは magma】マグマ、岩漿(がんしょう)", "note": "maguma は u が余分な誤り。正しくは mag-ma（u なし）で magma。地下の高温で溶けた岩石" }
+    ],
+    "usages": [
+      { "title": "① 正しいつづりは magma", "desc": "mag-ma（u は入らない）", "example_en": "Magma rises to the surface during an eruption.", "example_ja": "噴火の際にマグマが地表へ上昇する。（正: magma）" },
+      { "title": "② 溶けた岩石", "desc": "地下の高温の岩石", "example_en": "The volcano is full of molten magma.", "example_ja": "その火山は溶けたマグマで満ちている。（正: magma）" }
+    ],
+    "warn": ["maguma は誤り（u が余分。日本語「マグマ」につられた読み）。正しくは magma（mag-ma）。地表に噴き出したマグマは lava（溶岩）と呼ぶ"],
+    "etym_note": "正しい語 magma は、ギリシャ語 magma（練り物・こねたもの、massein「こねる」から）に由来します。u は入らず mag-ma と綴ります。",
+    "etym_chain": [
+      { "node": "massein", "sub": "こねる", "era": "ギリシャ語" },
+      { "node": "magma", "sub": "練り物", "era": "ラテン語" },
+      { "node": "maguma", "sub": "誤ったつづり", "era": "つづり間違い" }
+    ],
+    "phrases": [
+      { "en": "magma (正)", "ja": "マグマ（正しいつづり）" },
+      { "en": "maguma (誤)", "ja": "つづり間違い" },
+      { "en": "molten magma", "ja": "溶けたマグマ" },
+      { "en": "a magma chamber", "ja": "マグマだまり" },
+      { "en": "magma rises", "ja": "マグマが上昇する" },
+      { "en": "lava (別)", "ja": "溶岩(地表のマグマ)" }
+    ],
+    "related": [
+      { "en": "magma", "ja": "マグマ（正しい語）" },
+      { "en": "lava", "ja": "溶岩" },
+      { "en": "volcano", "ja": "火山" },
+      { "en": "eruption", "ja": "噴火" }
+    ],
+    "faq": [
+      { "q": "maguma は正しいつづり？", "a": "いいえ、u が余分な間違いです（日本語「マグマ」のローマ字読みにつられたもの）。正しくは magma（mag-ma）で、地下の溶けた岩石を意味します。" },
+      { "q": "magma と lava の違いは？", "a": "magma は「地下にある溶けた岩石」、lava は「地表に噴き出したマグマ（溶岩）」です。同じ物質ですが、地下か地表かで呼び名が変わります。" }
+    ],
+    "quiz": [
+      { "q": "正しいつづりはどれ？", "A": "magma", "B": "maguma", "C": "magmma", "D": "magmaa", "correct": "A" },
+      { "q": "magma と lava の違いは？", "A": "magmaは地下、lavaは地表のマグマ", "B": "同じ場所を指す", "C": "magmaは水、lavaは火", "D": "全く無関係", "correct": "A" }
+    ]
+  },
+  {
+    "english": "mandala",
+    "pron": "ˈmʌndələ",
+    "kana": "マンダラ",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "サンスクリット語 mandala（円）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "曼荼羅"],
+    "meaning_main": "曼荼羅(まんだら)／(仏教・ヒンドゥー教の)円形の宗教画・図形",
+    "description": "mandala（マンダラ）の意味・語源を解説。仏教やヒンドゥー教で用いられる円形の宗教的な図「曼荼羅」を表す名詞です。",
+    "keywords": ["mandala 意味", "mandala 使い方", "mandala 語源", "mandala とは", "曼荼羅 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】曼荼羅(まんだら)", "note": "仏教・ヒンドゥー教で、宇宙や悟りの世界を象徴する円形・幾何学的な図。瞑想にも用いる" }
+    ],
+    "usages": [
+      { "title": "① 宗教的な円形の図", "desc": "宇宙を象徴する", "example_en": "The monks created a sand mandala.", "example_ja": "僧侶たちは砂で曼荼羅を作った。" },
+      { "title": "② 瞑想・芸術に", "desc": "集中や心の癒やしに", "example_en": "Coloring a mandala can be relaxing.", "example_ja": "曼荼羅を塗るのは心を落ち着かせる。" }
+    ],
+    "warn": ["サンスクリット語で「円」を意味する。仏教・ヒンドゥー教の宗教的シンボルだが、近年は塗り絵や心理療法（曼荼羅アート）でも親しまれる"],
+    "etym_note": "サンスクリット語 mandala（円・輪）に由来します。仏教とともにアジアに広まり、円を基本とする宇宙・悟りの象徴図となりました。",
+    "etym_chain": [
+      { "node": "mandala", "sub": "円・輪", "era": "サンスクリット語" },
+      { "node": "mandala", "sub": "曼荼羅(宗教画)", "era": "仏教・ヒンドゥー教" },
+      { "node": "mandala", "sub": "曼荼羅", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a sand mandala", "ja": "砂曼荼羅" },
+      { "en": "draw a mandala", "ja": "曼荼羅を描く" },
+      { "en": "a mandala pattern", "ja": "曼荼羅模様" },
+      { "en": "a Buddhist mandala", "ja": "仏教の曼荼羅" },
+      { "en": "color a mandala", "ja": "曼荼羅を塗る" },
+      { "en": "a mandala design", "ja": "曼荼羅のデザイン" }
+    ],
+    "related": [
+      { "en": "buddhism", "ja": "仏教" },
+      { "en": "meditation", "ja": "瞑想" },
+      { "en": "circle", "ja": "円" },
+      { "en": "symbol", "ja": "象徴" }
+    ],
+    "faq": [
+      { "q": "mandala とは？", "a": "仏教やヒンドゥー教で、宇宙や悟りの世界を象徴する円形・幾何学的な図「曼荼羅」のことです。瞑想の対象や芸術としても用いられます。" },
+      { "q": "mandala の語源は？", "a": "サンスクリット語で「円・輪」を意味する mandala に由来します。円を基本とする図形であることから来ています。" }
+    ],
+    "quiz": [
+      { "q": "mandala とは？", "A": "円形の宗教的な図(曼荼羅)", "B": "楽器", "C": "料理", "D": "動物", "correct": "A" },
+      { "q": "mandala の語源の意味は？", "A": "円・輪", "B": "山", "C": "水", "D": "火", "correct": "A" }
+    ]
+  },
+  {
+    "english": "mast",
+    "pron": "mæst",
+    "kana": "マスト",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "古英語 mæst（帆柱）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "帆柱"],
+    "meaning_main": "(船の)帆柱・マスト／(旗・アンテナの)柱",
+    "description": "mast（マスト）の意味・使い方・語源を解説。船の帆柱、旗やアンテナの柱という意味の名詞です。",
+    "keywords": ["mast 意味", "mast 使い方", "mast 語源", "mast 例文", "帆柱 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】(船の)帆柱、マスト", "note": "帆やロープを支える垂直の柱" },
+      { "hinshi": "【名詞】(旗・アンテナなどの)柱、支柱", "note": "高く立てる柱" }
+    ],
+    "usages": [
+      { "title": "① 船の帆柱", "desc": "帆を張る柱", "example_en": "The ship had three tall masts.", "example_ja": "その船には3本の高い帆柱があった。" },
+      { "title": "② 旗・アンテナの柱", "desc": "flag at half-mast（半旗）", "example_en": "The flag flew at half-mast.", "example_ja": "旗は半旗に掲げられた。" }
+    ],
+    "warn": ["at half-mast（半旗で＝弔意を表す）は決まった表現。sail（帆）、deck（甲板）と関連。food の mast（ブナ・ナラの実）は別語"],
+    "etym_note": "古英語 mæst（帆柱）に由来する古い語で、ゲルマン諸語に共通します。",
+    "etym_chain": [
+      { "node": "mæst", "sub": "帆柱", "era": "古英語" },
+      { "node": "mast", "sub": "帆柱", "era": "中英語" },
+      { "node": "mast", "sub": "帆柱・支柱", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a ship's mast", "ja": "船の帆柱" },
+      { "en": "at half-mast", "ja": "半旗で" },
+      { "en": "a tall mast", "ja": "高い帆柱" },
+      { "en": "climb the mast", "ja": "帆柱に登る" },
+      { "en": "a radio mast", "ja": "無線の鉄塔" },
+      { "en": "the main mast", "ja": "メインマスト・主柱" }
+    ],
+    "related": [
+      { "en": "sail", "ja": "帆" },
+      { "en": "ship", "ja": "船" },
+      { "en": "pole", "ja": "棒・柱" },
+      { "en": "deck", "ja": "甲板" }
+    ],
+    "faq": [
+      { "q": "at half-mast とは？", "a": "「半旗で」という意味です。旗を柱の中ほどまで下げて掲げることで、弔意（追悼の気持ち）を表します。" },
+      { "q": "mast は船以外にも使う？", "a": "はい。旗を掲げる「旗ざお」や、アンテナ・無線の「鉄塔・支柱」など、高く立てる柱にも使います。" }
+    ],
+    "quiz": [
+      { "q": "mast の意味は？", "A": "(船の)帆柱・柱", "B": "いかり", "C": "オール", "D": "甲板", "correct": "A" },
+      { "q": "at half-mast の意味は？", "A": "半旗で(弔意を表す)", "B": "全速力で", "C": "満帆で", "D": "停泊して", "correct": "A" }
+    ]
+  },
+  {
+    "english": "medi",
+    "pron": "ˈmiːdi",
+    "kana": "メディ",
+    "hinshi": "入力途中・つづり間違い（英単語ではありません）",
+    "ld_pos": "misspelling",
+    "ld_etym": "media / medium / medical などの入力途中か",
+    "ld_level": "つづり注意",
+    "badges": ["英単語ではありません", "入力途中", "たぶん media/medium", "スペル注意"],
+    "meaning_main": "※これは英単語ではありません。入力途中で、media（メディア）・medium（媒体）・medical（医療の）などの途中かもしれません",
+    "description": "medi は英単語ではありません。入力途中と考えられ、media（メディア）・medium（媒体・中間）・medical（医療の）・medicine（薬）などを打とうとしたものかもしれません。",
+    "keywords": ["medi 意味", "medi media", "medi medium", "medi medical", "medi とは"],
+    "meanings": [
+      { "hinshi": "【入力途中の可能性】", "note": "medi- は「中間・媒体」を表す語根。media（メディア）、medium（媒体・中くらいの）、medical（医療の）、medicine（薬）などの入力途中と考えられる" }
+    ],
+    "usages": [
+      { "title": "① media（メディア）だとすると", "desc": "情報伝達の媒体", "example_en": "The news spread through social media.", "example_ja": "そのニュースはSNSで広まった。（正: media）" },
+      { "title": "② medium（媒体・中間）だとすると", "desc": "中くらい・手段", "example_en": "I'll have a medium coffee.", "example_ja": "Mサイズのコーヒーをください。（正: medium）" }
+    ],
+    "warn": ["medi は英単語ではなく、語根・入力途中です。medi-（中間）から始まる語には media（メディア）、medium（媒体・中間）、medical（医療の）、medicine（薬）、medieval（中世の）などがあります。意図した語を確認しましょう"],
+    "etym_note": "medi- はラテン語 medius（中間の）に由来する語根で、middle（真ん中）と同語源です。media / medium / medical などはこの語根から生まれています。",
+    "etym_chain": [
+      { "node": "medius", "sub": "中間の", "era": "ラテン語" },
+      { "node": "medi-", "sub": "中間を表す語根", "era": "近代英語" },
+      { "node": "medi", "sub": "入力途中（英単語ではない）", "era": "入力途中" }
+    ],
+    "phrases": [
+      { "en": "media (正)", "ja": "メディア（候補）" },
+      { "en": "medium (正)", "ja": "媒体・中くらいの（候補）" },
+      { "en": "medical (正)", "ja": "医療の（候補）" },
+      { "en": "medicine (正)", "ja": "薬・医学（候補）" },
+      { "en": "social media", "ja": "SNS" },
+      { "en": "medieval", "ja": "中世の（候補）" }
+    ],
+    "related": [
+      { "en": "media", "ja": "メディア（候補）" },
+      { "en": "medium", "ja": "媒体・中間（候補）" },
+      { "en": "medical", "ja": "医療の（候補）" },
+      { "en": "middle", "ja": "真ん中（同語源）" }
+    ],
+    "faq": [
+      { "q": "medi は正しい英単語ですか？", "a": "いいえ、単独では英単語ではありません。「中間・媒体」を表す語根で、media（メディア）、medium（媒体・中間）、medical（医療の）、medicine（薬）などの入力途中と考えられます。" },
+      { "q": "media と medium の関係は？", "a": "media は medium の複数形でもあります。medium（媒体・手段）が複数集まると media（メディア＝情報伝達の媒体）になります。" }
+    ],
+    "quiz": [
+      { "q": "medi は正しい英単語？", "A": "いいえ、入力途中・語根", "B": "はい、メディアの意味", "C": "はい、薬の意味", "D": "はい、地名", "correct": "A" },
+      { "q": "medi- が表す意味は？", "A": "中間・媒体", "B": "上", "C": "下", "D": "外", "correct": "A" }
+    ]
+  },
+  {
+    "english": "membership",
+    "pron": "ˈmembərʃɪp",
+    "kana": "メンバーシップ",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "member（会員）+ -ship（状態・資格）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "会員資格"],
+    "meaning_main": "会員資格／会員であること／(全)会員数",
+    "description": "membership（メンバーシップ）の意味・使い方・語源を解説。会員資格、会員であることという意味の名詞です。",
+    "keywords": ["membership 意味", "membership 使い方", "membership 語源", "membership 例文", "会員資格 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】会員資格、会員であること", "note": "組織・クラブに属する権利・立場" },
+      { "hinshi": "【名詞】(全)会員数、会員たち", "note": "組織のメンバー全体" }
+    ],
+    "usages": [
+      { "title": "① 会員資格", "desc": "クラブなどに属する権利", "example_en": "I renewed my gym membership.", "example_ja": "私はジムの会員資格を更新した。" },
+      { "title": "② 会員数", "desc": "メンバー全体", "example_en": "The club's membership is growing.", "example_ja": "そのクラブの会員数は増えている。" }
+    ],
+    "warn": ["member（会員）+ -ship（状態・資格）。membership fee（会費）、membership card（会員証）。-ship は「状態・地位」を表す（friendship, leadership と同じ）"],
+    "etym_note": "member（会員、ラテン語 membrum「手足・一部」から）に「状態・資格」を表す -ship が付いた語です。",
+    "etym_chain": [
+      { "node": "membrum", "sub": "手足・一部", "era": "ラテン語" },
+      { "node": "member", "sub": "会員・一員", "era": "中英語" },
+      { "node": "membership", "sub": "会員資格", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a membership fee", "ja": "会費" },
+      { "en": "a membership card", "ja": "会員証" },
+      { "en": "renew one's membership", "ja": "会員資格を更新する" },
+      { "en": "apply for membership", "ja": "入会を申し込む" },
+      { "en": "club membership", "ja": "クラブ会員資格" },
+      { "en": "cancel a membership", "ja": "退会する" }
+    ],
+    "related": [
+      { "en": "member", "ja": "会員・一員" },
+      { "en": "belong", "ja": "所属する" },
+      { "en": "join", "ja": "加入する" },
+      { "en": "club", "ja": "クラブ" }
+    ],
+    "faq": [
+      { "q": "membership の -ship とは？", "a": "「状態・地位・資格」を表す接尾辞です。friendship（友情）、leadership（指導力）と同じく、member（会員）に付いて「会員である資格・状態」を表します。" },
+      { "q": "membership fee とは？", "a": "「会費」のことです。会員でいるために支払うお金を指します。" }
+    ],
+    "quiz": [
+      { "q": "membership の意味は？", "A": "会員資格・会員数", "B": "退会", "C": "旅行", "D": "記憶", "correct": "A" },
+      { "q": "membership fee の意味は？", "A": "会費", "B": "入場料", "C": "税金", "D": "罰金", "correct": "A" }
+    ]
+  },
+  {
+    "english": "merciful",
+    "pron": "ˈmɜːrsɪfl",
+    "kana": "マーシフル",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "mercy（慈悲）+ -ful（満ちた）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "慈悲深い"],
+    "meaning_main": "慈悲深い／情け深い／(苦しみを終わらせて)ありがたい",
+    "description": "merciful（マーシフル）の意味・使い方・語源を解説。慈悲深い、情け深いという意味の形容詞です。",
+    "keywords": ["merciful 意味", "merciful 使い方", "merciful 語源", "merciful 例文", "慈悲深い 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】慈悲深い、情け深い", "note": "苦しむ者に情けをかける。反対は merciless（無慈悲な）" },
+      { "hinshi": "【形容詞】(苦しみを終わらせて)ありがたい、恵みの", "note": "a merciful release（苦しみからの解放）" }
+    ],
+    "usages": [
+      { "title": "① 慈悲深い", "desc": "情けをかける", "example_en": "The king was merciful to his enemies.", "example_ja": "王は敵に対して慈悲深かった。" },
+      { "title": "② ありがたい・恵みの", "desc": "苦しみを終わらせる", "example_en": "His death was a merciful release.", "example_ja": "彼の死は苦しみからの恵みの解放だった。" }
+    ],
+    "warn": ["mercy（慈悲）+ -ful（満ちた）＝「慈悲に満ちた」。反対は merciless（無慈悲な）／cruel（残酷な）。神や権力者の「慈悲」に使うことが多い"],
+    "etym_note": "mercy（慈悲、ラテン語 merces「報酬・恵み」から）に「〜に満ちた」の -ful が付いた語です。",
+    "etym_chain": [
+      { "node": "merces", "sub": "報酬・恵み", "era": "ラテン語" },
+      { "node": "mercy", "sub": "慈悲", "era": "中英語" },
+      { "node": "merciful", "sub": "慈悲深い", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a merciful god", "ja": "慈悲深い神" },
+      { "en": "be merciful to", "ja": "〜に情けをかける" },
+      { "en": "a merciful act", "ja": "情け深い行い" },
+      { "en": "a merciful release", "ja": "苦しみからの解放" },
+      { "en": "merciful and kind", "ja": "慈悲深く親切な" },
+      { "en": "show mercy", "ja": "慈悲を示す" }
+    ],
+    "related": [
+      { "en": "mercy", "ja": "慈悲" },
+      { "en": "compassionate", "ja": "思いやりのある" },
+      { "en": "forgiving", "ja": "寛容な" },
+      { "en": "merciless", "ja": "無慈悲な（反対）" }
+    ],
+    "faq": [
+      { "q": "merciful の反対語は？", "a": "merciless（無慈悲な）や cruel（残酷な）です。-ful（満ちた）が -less（〜がない）に変わると反対になります。" },
+      { "q": "merciful の名詞形は？", "a": "mercy（慈悲・情け）です。show mercy（慈悲を示す）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "merciful の意味は？", "A": "慈悲深い・情け深い", "B": "無慈悲な", "C": "臆病な", "D": "退屈な", "correct": "A" },
+      { "q": "merciful の反対語は？", "A": "merciless", "B": "mercy", "C": "compassionate", "D": "forgiving", "correct": "A" }
+    ]
+  },
+  {
+    "english": "merciless",
+    "pron": "ˈmɜːrsɪləs",
+    "kana": "マーシレス",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "mercy（慈悲）+ -less（〜がない）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "無慈悲な"],
+    "meaning_main": "無慈悲な／容赦ない／(暑さなどが)過酷な",
+    "description": "merciless（マーシレス）の意味・使い方・語源を解説。無慈悲な、容赦ないという意味の形容詞です。",
+    "keywords": ["merciless 意味", "merciless 使い方", "merciless 語源", "merciless 例文", "無慈悲な 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】無慈悲な、容赦ない、冷酷な", "note": "情け容赦がない。反対は merciful（慈悲深い）" },
+      { "hinshi": "【形容詞】(暑さ・攻撃などが)過酷な、情け容赦ない", "note": "the merciless sun（容赦ない日差し）" }
+    ],
+    "usages": [
+      { "title": "① 無慈悲な・容赦ない", "desc": "情けをかけない", "example_en": "The dictator was merciless to his opponents.", "example_ja": "その独裁者は敵対者に無慈悲だった。" },
+      { "title": "② 過酷な（自然など）", "desc": "the merciless heat", "example_en": "They walked under the merciless sun.", "example_ja": "彼らは容赦ない日差しの下を歩いた。" }
+    ],
+    "warn": ["mercy（慈悲）+ -less（〜がない）＝「慈悲がない」。反対は merciful（慈悲深い）。cruel（残酷な）、ruthless（冷酷な）と近い"],
+    "etym_note": "mercy（慈悲）に「〜がない」を表す -less が付いた語です。merciful（慈悲深い）が -ful、merciless が -less で対になります。",
+    "etym_chain": [
+      { "node": "merces", "sub": "報酬・恵み", "era": "ラテン語" },
+      { "node": "mercy", "sub": "慈悲", "era": "中英語" },
+      { "node": "merciless", "sub": "無慈悲な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a merciless attack", "ja": "容赦ない攻撃" },
+      { "en": "the merciless sun", "ja": "容赦ない日差し" },
+      { "en": "merciless criticism", "ja": "手厳しい批判" },
+      { "en": "a merciless enemy", "ja": "無慈悲な敵" },
+      { "en": "show no mercy", "ja": "情け容赦しない" },
+      { "en": "merciless and cruel", "ja": "無慈悲で残酷な" }
+    ],
+    "related": [
+      { "en": "merciful", "ja": "慈悲深い（反対）" },
+      { "en": "cruel", "ja": "残酷な" },
+      { "en": "ruthless", "ja": "冷酷な" },
+      { "en": "brutal", "ja": "残忍な" }
+    ],
+    "faq": [
+      { "q": "merciless の反対語は？", "a": "merciful（慈悲深い・情け深い）です。-less（〜がない）が -ful（満ちた）に変わると反対になります。" },
+      { "q": "merciless と cruel の違いは？", "a": "どちらも「無慈悲な・残酷な」ですが、merciless は「情け容赦がない（許さない）」、cruel は「苦痛を与えて平気な」に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "merciless の意味は？", "A": "無慈悲な・容赦ない", "B": "慈悲深い", "C": "親切な", "D": "楽しい", "correct": "A" },
+      { "q": "merciless の反対語は？", "A": "merciful", "B": "cruel", "C": "ruthless", "D": "brutal", "correct": "A" }
+    ]
+  },
+  {
+    "english": "millitally",
+    "pron": "ˈmɪlɪterɪli",
+    "kana": "ミリタリリー",
+    "hinshi": "つづり間違い（英単語ではありません）",
+    "ld_pos": "misspelling",
+    "ld_etym": "militarily / literally のつづり間違いか",
+    "ld_level": "つづり注意",
+    "badges": ["つづり間違い", "英単語ではありません", "たぶん militarily", "スペル注意"],
+    "meaning_main": "※これは英単語ではありません。つづり間違いで、おそらく militarily（軍事的に）か literally（文字通り）",
+    "description": "millitally は英単語ではありません。つづり間違いで、おそらく militarily（軍事的に）か literally（文字通り）を打とうとしたものと思われます。",
+    "keywords": ["millitally 正しい", "millitally militarily", "millitally literally", "militarily 意味", "軍事的に 英語"],
+    "meanings": [
+      { "hinshi": "【たぶん militarily】軍事的に、軍事の面で", "note": "military（軍事の）の副詞。mili-tar-ily と綴る" },
+      { "hinshi": "【または literally】文字通り、まさに", "note": "literal（文字通りの）の副詞" }
+    ],
+    "usages": [
+      { "title": "① militarily（軍事的に）だとすると", "desc": "軍事の面で", "example_en": "The country is militarily strong.", "example_ja": "その国は軍事的に強い。（正: militarily）" },
+      { "title": "② literally（文字通り）だとすると", "desc": "まさに・文字通り", "example_en": "I literally can't believe it.", "example_ja": "まさに信じられない。（正: literally）" }
+    ],
+    "warn": ["millitally は英単語ではありません。文脈から militarily（軍事的に、military の副詞）か literally（文字通り、literal の副詞）のつづり間違いと考えられます"],
+    "etym_note": "militarily は military（軍事の、ラテン語 miles「兵士」から）の副詞、literally は literal（文字通りの、ラテン語 littera「文字」から）の副詞です。millitally という語は存在しません。",
+    "etym_chain": [
+      { "node": "miles / littera", "sub": "兵士／文字", "era": "ラテン語" },
+      { "node": "militarily / literally", "sub": "軍事的に／文字通り（正しい語）", "era": "英語" },
+      { "node": "millitally", "sub": "存在しないつづり", "era": "つづり間違い" }
+    ],
+    "phrases": [
+      { "en": "militarily (正)", "ja": "軍事的に（候補）" },
+      { "en": "literally (正)", "ja": "文字通り（候補）" },
+      { "en": "militarily strong", "ja": "軍事的に強い" },
+      { "en": "act militarily", "ja": "軍事的に行動する" },
+      { "en": "literally true", "ja": "文字通り本当の" },
+      { "en": "literally means", "ja": "文字通りには〜を意味する" }
+    ],
+    "related": [
+      { "en": "militarily", "ja": "軍事的に（候補）" },
+      { "en": "literally", "ja": "文字通り（候補）" },
+      { "en": "military", "ja": "軍事の・軍隊" },
+      { "en": "literal", "ja": "文字通りの" }
+    ],
+    "faq": [
+      { "q": "millitally は正しい英単語ですか？", "a": "いいえ、英単語ではありません。文脈から militarily（軍事的に）か literally（文字通り）のつづり間違いと考えられます。" },
+      { "q": "militarily の正しいつづりは？", "a": "military（軍事の）の副詞で、mili-tar-ily と綴ります。l は1つずつです。" }
+    ],
+    "quiz": [
+      { "q": "millitally は正しい英単語？", "A": "いいえ、つづり間違い", "B": "はい、軍事的の意味", "C": "はい、文字通りの意味", "D": "はい、地名", "correct": "A" },
+      { "q": "「軍事的に」の正しいつづりは？", "A": "militarily", "B": "millitally", "C": "militaly", "D": "milittarily", "correct": "A" }
+    ]
+  },
+  {
+    "english": "miser",
+    "pron": "ˈmaɪzər",
+    "kana": "マイザー",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 miser（みじめな）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "けち"],
+    "meaning_main": "けち／守銭奴／(お金をため込んで使わない)欲張り",
+    "description": "miser（マイザー）の意味・使い方・語源を解説。けち、守銭奴という意味の名詞です。",
+    "keywords": ["miser 意味", "miser 使い方", "miser 語源", "miser 例文", "けち 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】けち、守銭奴", "note": "お金をため込んで使うのを嫌がる人" }
+    ],
+    "usages": [
+      { "title": "① お金を使わない人", "desc": "極端なけち", "example_en": "The old miser hoarded all his money.", "example_ja": "その老いた守銭奴は金をすべてため込んだ。" },
+      { "title": "② 惜しむ人", "desc": "使うのを嫌がる", "example_en": "Don't be such a miser.", "example_ja": "そんなにけちけちするな。" }
+    ],
+    "warn": ["形容詞は miserly（けちな）。miserable（みじめな・悲惨な）と語源は同じだが意味は別。generous（気前のよい）の反対的存在"],
+    "etym_note": "ラテン語 miser（みじめな・不幸な）に由来します。「(金に執着して)みじめな人」から「けち・守銭奴」の意味になりました。miserable（みじめな）と同語源です。",
+    "etym_chain": [
+      { "node": "miser", "sub": "みじめな", "era": "ラテン語" },
+      { "node": "miser", "sub": "けち・守銭奴", "era": "16世紀英語" },
+      { "node": "miser", "sub": "けち・守銭奴", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an old miser", "ja": "老いた守銭奴" },
+      { "en": "a stingy miser", "ja": "けちな守銭奴" },
+      { "en": "act like a miser", "ja": "けちくさく振る舞う" },
+      { "en": "a miser's fortune", "ja": "守銭奴の財産" },
+      { "en": "a mean miser", "ja": "けちな人" },
+      { "en": "a miserly attitude", "ja": "けちな態度" }
+    ],
+    "related": [
+      { "en": "miserly", "ja": "けちな" },
+      { "en": "stingy", "ja": "けちな" },
+      { "en": "greedy", "ja": "強欲な" },
+      { "en": "generous", "ja": "気前のよい（反対）" }
+    ],
+    "faq": [
+      { "q": "miser と miserable の違いは？", "a": "語源は同じ miser（みじめな）ですが、miser は名詞「けち・守銭奴」、miserable は形容詞「みじめな・悲惨な」です。意味が異なります。" },
+      { "q": "miser の形容詞形は？", "a": "miserly（けちな・しみったれた）です。a miserly person（けちな人）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "miser の意味は？", "A": "けち・守銭奴", "B": "気前のよい人", "C": "金持ち", "D": "貧乏人", "correct": "A" },
+      { "q": "miser の反対に近い語は？", "A": "generous（気前のよい）", "B": "stingy（けちな）", "C": "greedy（強欲な）", "D": "miserly（けちな）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "msa",
+    "pron": "ˌemesˈeɪ",
+    "kana": "エムエスエイ",
+    "hinshi": "略語・つづり間違い（英単語ではありません）",
+    "ld_pos": "abbreviation",
+    "ld_etym": "略語または打ち間違い",
+    "ld_level": "略語",
+    "badges": ["英単語ではありません", "略語の可能性", "打ち間違いの可能性", "スペル注意"],
+    "meaning_main": "※これは英単語ではありません。分野ごとの略語（MSA）か、打ち間違いの可能性",
+    "description": "msa は英単語ではありません。分野によってさまざまな意味を持つ略語 MSA か、打ち間違いと考えられます。",
+    "keywords": ["msa 意味", "msa とは", "MSA 略語", "msa 英語", "略語 MSA"],
+    "meanings": [
+      { "hinshi": "【略語の可能性】MSA", "note": "分野により意味が異なる略語（例: 統計の Metropolitan Statistical Area＝大都市統計圏、生物学の multiple sequence alignment＝多重配列アラインメントなど）。一般的な英単語ではない" },
+      { "hinshi": "【または打ち間違い】", "note": "mass（かたまり）などの打ち間違いの可能性もある" }
+    ],
+    "usages": [
+      { "title": "① 略語として", "desc": "分野で意味が変わる", "example_en": "MSA can stand for different things.", "example_ja": "MSA は分野によって異なるものを表す。" },
+      { "title": "② 一般語ではない", "desc": "単独では意味を持たない", "example_en": "\"msa\" is not a standard English word.", "example_ja": "「msa」は標準的な英単語ではない。" }
+    ],
+    "warn": ["msa は一般的な英単語ではありません。文脈のない略語（MSA は分野ごとに複数の意味を持つ）か、打ち間違いと考えられます。意図した語・略語を確認してみてください"],
+    "etym_note": "msa は英語の一般語ではなく、各分野で使われる頭字語（略語）です。何の略かは文脈によって異なります。単独では特定の意味を持ちません。",
+    "etym_chain": [
+      { "node": "各分野の頭文字", "sub": "M・S・A", "era": "現代" },
+      { "node": "MSA", "sub": "分野ごとの略語", "era": "現代" },
+      { "node": "msa", "sub": "略語または打ち間違い", "era": "現代" }
+    ],
+    "phrases": [
+      { "en": "an abbreviation", "ja": "略語" },
+      { "en": "an acronym", "ja": "頭字語" },
+      { "en": "depends on the field", "ja": "分野による" },
+      { "en": "not a common word", "ja": "一般的な語ではない" },
+      { "en": "stand for", "ja": "〜を表す・略す" },
+      { "en": "check the context", "ja": "文脈を確認する" }
+    ],
+    "related": [
+      { "en": "abbreviation", "ja": "略語" },
+      { "en": "acronym", "ja": "頭字語" },
+      { "en": "mass", "ja": "かたまり（打ち間違いの候補）" },
+      { "en": "initial", "ja": "頭文字" }
+    ],
+    "faq": [
+      { "q": "msa は英単語ですか？", "a": "いいえ、一般的な英単語ではありません。分野ごとに異なる意味を持つ略語（MSA）か、打ち間違いと考えられます。何を意図したか文脈を確認してみてください。" },
+      { "q": "MSA は何の略？", "a": "分野によって異なります。例えば統計では Metropolitan Statistical Area（大都市統計圏）、生物学では multiple sequence alignment（多重配列アラインメント）など、文脈次第で意味が変わります。" }
+    ],
+    "quiz": [
+      { "q": "msa は正しい英単語？", "A": "いいえ、略語または打ち間違い", "B": "はい、動詞", "C": "はい、名詞", "D": "はい、形容詞", "correct": "A" },
+      { "q": "MSA のような大文字の頭文字の並びを何という？", "A": "略語・頭字語", "B": "動詞", "C": "前置詞", "D": "感嘆詞", "correct": "A" }
+    ]
+  }
+]

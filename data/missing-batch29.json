@@ -1,0 +1,998 @@
+[
+  {
+    "english": "cropy",
+    "pron": "ˈkɑːpi",
+    "kana": "コピー",
+    "hinshi": "つづり間違い（正しくは copy）",
+    "ld_pos": "misspelling",
+    "ld_etym": "copy のつづり間違い",
+    "ld_level": "つづり注意",
+    "badges": ["つづり間違い", "正しくは copy", "英単語ではありません", "スペル注意"],
+    "meaning_main": "※これはつづり間違いです。正しくは copy（コピー・複写・写す）",
+    "description": "cropy は copy のつづり間違いです。r が余分です。正しくは copy（複写・写す・部数）と書きます。",
+    "keywords": ["cropy 正しい", "cropy copy", "cropy つづり", "copy 意味", "コピー 英語"],
+    "meanings": [
+      { "hinshi": "【正しくは copy】コピー、複写／(を)写す、まねる", "note": "cropy は r が余分な誤り。正しくは co-py で copy" }
+    ],
+    "usages": [
+      { "title": "① 正しいつづりは copy", "desc": "co-py（r は入らない）", "example_en": "Please make a copy of this page.", "example_ja": "このページをコピーしてください。（正: copy）" },
+      { "title": "② 写す・まねる", "desc": "copy A（Aを写す）", "example_en": "Don't copy others' work.", "example_ja": "他人の作品をまねてはいけない。（正: copy）" }
+    ],
+    "warn": ["cropy は誤り（r が余分）。正しくは copy。crop（作物・切り取る）とは別の語。名詞では「(本・新聞の)部」の意味もある（a copy of the book）"],
+    "etym_note": "正しい語 copy は、ラテン語 copia（豊富・写し）に由来します。「豊富に生み出す＝複製する」から「写し」の意味になりました。",
+    "etym_chain": [
+      { "node": "copia", "sub": "豊富・写し", "era": "ラテン語" },
+      { "node": "copy", "sub": "写し（正しいつづり）", "era": "中英語" },
+      { "node": "cropy", "sub": "誤ったつづり", "era": "つづり間違い" }
+    ],
+    "phrases": [
+      { "en": "copy (正)", "ja": "コピー・写す（正しいつづり）" },
+      { "en": "cropy (誤)", "ja": "つづり間違い" },
+      { "en": "make a copy", "ja": "コピーを取る" },
+      { "en": "copy and paste", "ja": "コピーして貼り付ける" },
+      { "en": "a copy of the book", "ja": "その本の一部" },
+      { "en": "copy someone", "ja": "人のまねをする" }
+    ],
+    "related": [
+      { "en": "copy", "ja": "コピー・写す（正しい語）" },
+      { "en": "duplicate", "ja": "複製する" },
+      { "en": "imitate", "ja": "まねる" },
+      { "en": "crop", "ja": "作物・切り取る（別語）" }
+    ],
+    "faq": [
+      { "q": "cropy は正しいつづり？", "a": "いいえ、r が余分な間違いです。正しくは copy（co-py）で、「コピー・複写・写す」を意味します。" },
+      { "q": "copy の意味は？", "a": "「コピー・複写」「(を)写す・まねる」のほか、名詞で「(本・新聞などの)部（a copy of ～）」の意味もあります。" }
+    ],
+    "quiz": [
+      { "q": "正しいつづりはどれ？", "A": "copy", "B": "cropy", "C": "coppy", "D": "copey", "correct": "A" },
+      { "q": "copy の意味は？", "A": "コピー・複写・写す", "B": "作物", "C": "洞窟", "D": "橋", "correct": "A" }
+    ]
+  },
+  {
+    "english": "crow",
+    "pron": "kroʊ",
+    "kana": "クロウ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "noun",
+    "ld_etym": "古英語 crawe（カラス）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "カラス"],
+    "meaning_main": "カラス／(おんどりが)鳴く・(勝ち誇って)自慢する",
+    "description": "crow（クロウ）の意味・使い方・語源を解説。カラス、おんどりが鳴くという意味の名詞・動詞です。",
+    "keywords": ["crow 意味", "crow 使い方", "crow 語源", "crow 例文", "カラス 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】カラス", "note": "黒い大型の鳥。賢いことで知られる" },
+      { "hinshi": "【動詞】(おんどりが)コケコッコーと鳴く", "note": "夜明けに鳴く" },
+      { "hinshi": "【動詞】(勝ち誇って)自慢する、はしゃぐ", "note": "crow about ～" }
+    ],
+    "usages": [
+      { "title": "① 鳥のカラス", "desc": "黒くて賢い鳥", "example_en": "A crow perched on the wire.", "example_ja": "カラスが電線にとまった。" },
+      { "title": "② おんどりが鳴く", "desc": "夜明けの鳴き声", "example_en": "The rooster crowed at dawn.", "example_ja": "おんどりが夜明けに鳴いた。" }
+    ],
+    "warn": ["as the crow flies は「一直線に・直線距離で」。crow about ～ は「〜を得意げに自慢する」。近縁の raven（ワタリガラス）はより大型"],
+    "etym_note": "古英語 crawe（カラス）に由来し、その鳴き声を模した擬音語から生まれたとされます。動詞「鳴く」も同源です。",
+    "etym_chain": [
+      { "node": "crawe", "sub": "カラス", "era": "古英語" },
+      { "node": "crowe", "sub": "カラス", "era": "中英語" },
+      { "node": "crow", "sub": "カラス・鳴く", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a black crow", "ja": "黒いカラス" },
+      { "en": "as the crow flies", "ja": "一直線に・直線距離で" },
+      { "en": "the rooster crows", "ja": "おんどりが鳴く" },
+      { "en": "crow about", "ja": "〜を得意げに自慢する" },
+      { "en": "a flock of crows", "ja": "カラスの群れ" },
+      { "en": "a crow's nest", "ja": "(船の)見張り台" }
+    ],
+    "related": [
+      { "en": "raven", "ja": "ワタリガラス" },
+      { "en": "bird", "ja": "鳥" },
+      { "en": "rooster", "ja": "おんどり" },
+      { "en": "boast", "ja": "自慢する" }
+    ],
+    "faq": [
+      { "q": "as the crow flies とは？", "a": "「一直線に・直線距離で」という慣用句です。カラスが目的地までまっすぐ飛ぶことから、道のりでなく直線距離を表します。" },
+      { "q": "crow と raven の違いは？", "a": "どちらも黒い鳥ですが、raven（ワタリガラス）のほうが crow（カラス）より大型で、くちばしや尾の形も異なります。" }
+    ],
+    "quiz": [
+      { "q": "crow の意味は？", "A": "カラス", "B": "スズメ", "C": "ハト", "D": "ワシ", "correct": "A" },
+      { "q": "as the crow flies の意味は？", "A": "一直線に・直線距離で", "B": "ゆっくりと", "C": "遠回りして", "D": "夜に", "correct": "A" }
+    ]
+  },
+  {
+    "english": "crowded",
+    "pron": "ˈkraʊdɪd",
+    "kana": "クラウディッド",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "crowd（群衆）+ -ed",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A1", "混雑した"],
+    "meaning_main": "混雑した／人でいっぱいの／ぎゅうぎゅうの",
+    "description": "crowded（クラウディッド）の意味・使い方・語源を解説。混雑した、人でいっぱいのという意味の形容詞です。",
+    "keywords": ["crowded 意味", "crowded 使い方", "crowded 語源", "crowded 例文", "混雑した 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】混雑した、人でいっぱいの", "note": "多くの人や物で詰まっている" }
+    ],
+    "usages": [
+      { "title": "① 人で混雑した", "desc": "人がいっぱいの状態", "example_en": "The train was very crowded.", "example_ja": "電車はとても混んでいた。" },
+      { "title": "② 物が詰まった", "desc": "crowded with ～", "example_en": "The shelf was crowded with books.", "example_ja": "その棚は本でいっぱいだった。" }
+    ],
+    "warn": ["名詞・動詞は crowd（群衆・押し寄せる）。crowded with ～ で「〜でいっぱいの」。反対は empty（空の）"],
+    "etym_note": "名詞・動詞 crowd（群衆・押し寄せる、古英語 crudan「押す」から）に -ed が付いた形容詞です。",
+    "etym_chain": [
+      { "node": "crudan", "sub": "押す", "era": "古英語" },
+      { "node": "crowd", "sub": "群衆・押し寄せる", "era": "中英語" },
+      { "node": "crowded", "sub": "混雑した", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a crowded train", "ja": "混んだ電車" },
+      { "en": "crowded with", "ja": "〜でいっぱいの" },
+      { "en": "a crowded street", "ja": "混雑した通り" },
+      { "en": "get crowded", "ja": "混んでくる" },
+      { "en": "a crowded room", "ja": "人でいっぱいの部屋" },
+      { "en": "overcrowded", "ja": "過密の・混みすぎた" }
+    ],
+    "related": [
+      { "en": "crowd", "ja": "群衆" },
+      { "en": "packed", "ja": "ぎっしり詰まった" },
+      { "en": "busy", "ja": "にぎわった" },
+      { "en": "empty", "ja": "空の（反対）" }
+    ],
+    "faq": [
+      { "q": "crowded with とは？", "a": "「〜でいっぱいの・〜でごった返した」という意味です。The beach was crowded with tourists.（ビーチは観光客でいっぱいだった）のように使います。" },
+      { "q": "crowded の反対語は？", "a": "empty（空の）や deserted（人けのない）です。" }
+    ],
+    "quiz": [
+      { "q": "crowded の意味は？", "A": "混雑した・人でいっぱいの", "B": "空っぽの", "C": "静かな", "D": "広い", "correct": "A" },
+      { "q": "crowded の反対語は？", "A": "empty", "B": "packed", "C": "busy", "D": "full", "correct": "A" }
+    ]
+  },
+  {
+    "english": "curtail",
+    "pron": "kərˈteɪl",
+    "kana": "カーテイル",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "ラテン語 curtus（短い）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "削減する"],
+    "meaning_main": "(を)短縮する／縮小する／(費用・自由などを)切り詰める・制限する",
+    "description": "curtail（カーテイル）の意味・使い方・語源を解説。短縮する、縮小するという意味の動詞です。",
+    "keywords": ["curtail 意味", "curtail 使い方", "curtail 語源", "curtail 例文", "削減する 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】(を)短縮する、縮小する、切り詰める", "note": "費用・活動・自由などを減らす・制限する" }
+    ],
+    "usages": [
+      { "title": "① 費用・活動を切り詰める", "desc": "削減・縮小する", "example_en": "The company curtailed its spending.", "example_ja": "その会社は支出を切り詰めた。" },
+      { "title": "② 自由・権利を制限する", "desc": "curtail freedom", "example_en": "The new law curtails civil rights.", "example_ja": "その新法は市民の権利を制限する。" }
+    ],
+    "warn": ["名詞は curtailment（短縮・削減）。tail（尾）が含まれるが「尾を切る＝短くする」というイメージ。フォーマルな語で reduce より堅い"],
+    "etym_note": "ラテン語 curtus（短い、切られた）に由来し、後に tail（尾）と結びついて「尾を短く切る」の意味が加わりました。short や curt（そっけない）と同語根です。",
+    "etym_chain": [
+      { "node": "curtus", "sub": "短い", "era": "ラテン語" },
+      { "node": "curtal", "sub": "尾を切る", "era": "近代英語" },
+      { "node": "curtail", "sub": "短縮する・削減する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "curtail spending", "ja": "支出を切り詰める" },
+      { "en": "curtail freedom", "ja": "自由を制限する" },
+      { "en": "curtail activities", "ja": "活動を縮小する" },
+      { "en": "severely curtail", "ja": "大幅に削減する" },
+      { "en": "curtail costs", "ja": "費用を切り詰める" },
+      { "en": "curtail rights", "ja": "権利を制限する" }
+    ],
+    "related": [
+      { "en": "reduce", "ja": "減らす" },
+      { "en": "cut", "ja": "削る" },
+      { "en": "restrict", "ja": "制限する" },
+      { "en": "shorten", "ja": "短くする" }
+    ],
+    "faq": [
+      { "q": "curtail と reduce の違いは？", "a": "どちらも「減らす」ですが、curtail はよりフォーマルで「活動・費用・自由などを切り詰める・制限する」という含みが強い語です。" },
+      { "q": "curtail の名詞形は？", "a": "curtailment（短縮・削減・制限）です。" }
+    ],
+    "quiz": [
+      { "q": "curtail の意味は？", "A": "短縮する・切り詰める", "B": "増やす", "C": "始める", "D": "祝う", "correct": "A" },
+      { "q": "curtail spending の意味は？", "A": "支出を切り詰める", "B": "支出を増やす", "C": "支出を記録する", "D": "支出を隠す", "correct": "A" }
+    ]
+  },
+  {
+    "english": "dahlia",
+    "pron": "ˈdæliə",
+    "kana": "ダリア",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "植物学者ダール(Dahl)の名から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "花"],
+    "meaning_main": "ダリア（大きく華やかな花をつける園芸植物）",
+    "description": "dahlia（ダリア）の意味・語源を解説。大きく華やかな花をつける園芸植物「ダリア」を表す名詞です。",
+    "keywords": ["dahlia 意味", "dahlia 使い方", "dahlia 語源", "dahlia とは", "ダリア 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】ダリア", "note": "メキシコ原産のキク科の園芸植物。大きく色鮮やかな花をつける" }
+    ],
+    "usages": [
+      { "title": "① 華やかな園芸花", "desc": "夏〜秋に咲く", "example_en": "The garden was full of colorful dahlias.", "example_ja": "庭は色とりどりのダリアでいっぱいだった。" },
+      { "title": "② 品種が豊富", "desc": "さまざまな色・形がある", "example_en": "There are thousands of dahlia varieties.", "example_ja": "ダリアには何千もの品種がある。" }
+    ],
+    "warn": ["スウェーデンの植物学者アンデシュ・ダール（Anders Dahl）にちなむ名。発音は「ダリア」/ˈdæliə/。メキシコの国花"],
+    "etym_note": "18世紀のスウェーデンの植物学者アンデシュ・ダール（Dahl）にちなんで名付けられました。人名から生まれた花の名です。",
+    "etym_chain": [
+      { "node": "Dahl", "sub": "植物学者の名", "era": "18世紀" },
+      { "node": "dahlia", "sub": "ダールの花", "era": "近代英語" },
+      { "node": "dahlia", "sub": "ダリア", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a red dahlia", "ja": "赤いダリア" },
+      { "en": "grow dahlias", "ja": "ダリアを育てる" },
+      { "en": "a bunch of dahlias", "ja": "ダリアの花束" },
+      { "en": "colorful dahlias", "ja": "色とりどりのダリア" },
+      { "en": "a dahlia garden", "ja": "ダリア園" },
+      { "en": "a giant dahlia", "ja": "巨大なダリア" }
+    ],
+    "related": [
+      { "en": "flower", "ja": "花" },
+      { "en": "garden", "ja": "庭" },
+      { "en": "bloom", "ja": "咲く・花" },
+      { "en": "rose", "ja": "バラ" }
+    ],
+    "faq": [
+      { "q": "dahlia の名前の由来は？", "a": "18世紀のスウェーデンの植物学者アンデシュ・ダール（Dahl）にちなんで名付けられました。人名から生まれた花の名です。" },
+      { "q": "dahlia はどんな花？", "a": "メキシコ原産のキク科の園芸植物で、大きく色鮮やかな花をつけます。品種が非常に多く、メキシコの国花でもあります。" }
+    ],
+    "quiz": [
+      { "q": "dahlia とは？", "A": "華やかな花をつける園芸植物", "B": "木の実", "C": "野菜", "D": "香辛料", "correct": "A" },
+      { "q": "dahlia の名前の由来は？", "A": "植物学者ダールの名", "B": "地名", "C": "色の名前", "D": "神話の神", "correct": "A" }
+    ]
+  },
+  {
+    "english": "dairy",
+    "pron": "ˈderi",
+    "kana": "デアリー",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "noun",
+    "ld_etym": "中英語 deye（乳しぼりの女）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "乳製品"],
+    "meaning_main": "乳製品／酪農／乳製品加工所／乳製品の",
+    "description": "dairy（デアリー）の意味・使い方・語源を解説。乳製品、酪農という意味の名詞・形容詞です。diary（日記）との違いも解説。",
+    "keywords": ["dairy 意味", "dairy diary 違い", "dairy 語源", "dairy 例文", "乳製品 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】乳製品(業)、酪農", "note": "牛乳・チーズ・バターなど、またその生産" },
+      { "hinshi": "【名詞】乳製品加工所・販売所", "note": "牛乳を扱う施設" },
+      { "hinshi": "【形容詞】乳製品の、酪農の", "note": "dairy products（乳製品）" }
+    ],
+    "usages": [
+      { "title": "① 乳製品", "desc": "牛乳・チーズなど", "example_en": "She avoids dairy products.", "example_ja": "彼女は乳製品を避けている。" },
+      { "title": "② 酪農（形容詞）", "desc": "dairy farm（酪農場）", "example_en": "They run a dairy farm.", "example_ja": "彼らは酪農場を営んでいる。" }
+    ],
+    "warn": ["dairy /ˈderi/（乳製品）と diary /ˈdaɪəri/（日記）はつづり・発音・意味がすべて別。dairy は「乳」、diary は「日記」。混同注意"],
+    "etym_note": "中英語 deye（乳しぼりの女、古英語 dæge「パンをこねる女」から）に由来し、「乳しぼりの女が働く場所」から「酪農・乳製品」の意味になりました。",
+    "etym_chain": [
+      { "node": "dæge", "sub": "こねる女", "era": "古英語" },
+      { "node": "deye + -ery", "sub": "乳しぼりの場所", "era": "中英語" },
+      { "node": "dairy", "sub": "乳製品・酪農", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "dairy products", "ja": "乳製品" },
+      { "en": "a dairy farm", "ja": "酪農場" },
+      { "en": "dairy cattle", "ja": "乳牛" },
+      { "en": "dairy-free", "ja": "乳製品を含まない" },
+      { "en": "the dairy industry", "ja": "酪農業" },
+      { "en": "fresh dairy", "ja": "新鮮な乳製品" }
+    ],
+    "related": [
+      { "en": "milk", "ja": "牛乳" },
+      { "en": "cheese", "ja": "チーズ" },
+      { "en": "butter", "ja": "バター" },
+      { "en": "diary", "ja": "日記（別語）" }
+    ],
+    "faq": [
+      { "q": "dairy と diary の違いは？", "a": "dairy /ˈderi/「デアリー」は「乳製品・酪農」、diary /ˈdaɪəri/「ダイアリー」は「日記」です。つづり（air と iar）も発音も意味も別なので混同しないよう注意しましょう。" },
+      { "q": "dairy-free とは？", "a": "「乳製品を含まない・乳製品不使用の」という意味です。乳製品アレルギーの人向けの食品などに表示されます。" }
+    ],
+    "quiz": [
+      { "q": "dairy の意味は？", "A": "乳製品・酪農", "B": "日記", "C": "砂漠", "D": "妖精", "correct": "A" },
+      { "q": "「日記」を表す語は？", "A": "diary", "B": "dairy", "C": "dowry", "D": "diaria", "correct": "A" }
+    ]
+  },
+  {
+    "english": "dampen",
+    "pron": "ˈdæmpən",
+    "kana": "ダンペン",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "damp（湿った）+ -en",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "湿らせる"],
+    "meaning_main": "(を)湿らせる／(勢い・気持ちを)くじく・弱める",
+    "description": "dampen（ダンペン）の意味・使い方・語源を解説。湿らせる、気持ちをくじくという意味の動詞です。",
+    "keywords": ["dampen 意味", "dampen 使い方", "dampen 語源", "dampen 例文", "湿らせる 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】(を)湿らせる、ぬらす", "note": "少し水分を与える" },
+      { "hinshi": "【動詞】(勢い・熱意・気分を)くじく、弱める", "note": "dampen enthusiasm（熱意をそぐ）" }
+    ],
+    "usages": [
+      { "title": "① 湿らせる", "desc": "少しぬらす", "example_en": "Dampen the cloth before wiping.", "example_ja": "拭く前に布を湿らせて。" },
+      { "title": "② 気持ちをくじく", "desc": "dampen one's spirits", "example_en": "The bad news dampened our spirits.", "example_ja": "その悪い知らせは私たちの気分をくじいた。" }
+    ],
+    "warn": ["形容詞は damp（湿った・じめじめした）。-en は「〜にする」を作る接尾辞（例: wide→widen）。dampen one's spirits/enthusiasm（気持ち・熱意をそぐ）が定番"],
+    "etym_note": "damp（湿った、中英語 damp「蒸気・霧」から）に「〜にする」を表す -en が付いた語です。「湿った状態にする」が原義で、「熱を冷ます＝くじく」の意味へ広がりました。",
+    "etym_chain": [
+      { "node": "damp", "sub": "蒸気・湿気", "era": "中英語" },
+      { "node": "damp", "sub": "湿った", "era": "近代英語" },
+      { "node": "dampen", "sub": "湿らせる・くじく", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "dampen a cloth", "ja": "布を湿らせる" },
+      { "en": "dampen enthusiasm", "ja": "熱意をそぐ" },
+      { "en": "dampen one's spirits", "ja": "気分をくじく" },
+      { "en": "dampen the mood", "ja": "雰囲気を台無しにする" },
+      { "en": "slightly dampen", "ja": "少し湿らせる" },
+      { "en": "nothing could dampen", "ja": "何も〜をくじけなかった" }
+    ],
+    "related": [
+      { "en": "damp", "ja": "湿った" },
+      { "en": "moisten", "ja": "湿らせる" },
+      { "en": "discourage", "ja": "落胆させる" },
+      { "en": "weaken", "ja": "弱める" }
+    ],
+    "faq": [
+      { "q": "dampen の2つの意味は？", "a": "①「(を)湿らせる・ぬらす」と、②比喩で「(勢い・熱意・気分を)くじく・そぐ・弱める」の両方があります。" },
+      { "q": "dampen one's spirits とは？", "a": "「(人の)気分をくじく・意気消沈させる」という意味です。悪い出来事が楽しい気分を台無しにするときに使います。" }
+    ],
+    "quiz": [
+      { "q": "dampen の意味は？", "A": "湿らせる／気持ちをくじく", "B": "乾かす", "C": "燃やす", "D": "凍らせる", "correct": "A" },
+      { "q": "dampen enthusiasm の意味は？", "A": "熱意をそぐ", "B": "熱意を高める", "C": "熱意を保つ", "D": "熱意を示す", "correct": "A" }
+    ]
+  },
+  {
+    "english": "david",
+    "pron": "ˈdeɪvɪd",
+    "kana": "デイヴィッド",
+    "hinshi": "固有名詞",
+    "ld_pos": "proper noun",
+    "ld_etym": "ヘブライ語 Dawidh（愛される者）",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "固有名詞", "人名", "デイビッド"],
+    "meaning_main": "デイビッド（英語圏に多い男性の名前／聖書のダビデ王／ミケランジェロの彫刻）",
+    "description": "David（デイヴィッド）の意味・語源を解説。英語圏で一般的な男性名、旧約聖書のダビデ王、ミケランジェロの彫刻などを表す固有名詞です。",
+    "keywords": ["David 意味", "David 名前", "David ダビデ", "David 語源", "David 発音"],
+    "meanings": [
+      { "hinshi": "【固有名詞】デイビッド", "note": "英語圏で一般的な男性の名前。愛称は Dave（デイブ）" },
+      { "hinshi": "【固有名詞（聖書）】ダビデ", "note": "旧約聖書に登場する古代イスラエルの王。巨人ゴリアテを倒した" },
+      { "hinshi": "【固有名詞（美術）】ダビデ像", "note": "ミケランジェロ作の有名な大理石彫刻" }
+    ],
+    "usages": [
+      { "title": "① 男性の名前", "desc": "愛称は Dave", "example_en": "David is my best friend.", "example_ja": "デイビッドは私の親友だ。" },
+      { "title": "② 聖書のダビデ王", "desc": "ゴリアテを倒した王", "example_en": "David defeated the giant Goliath.", "example_ja": "ダビデは巨人ゴリアテを倒した。" }
+    ],
+    "warn": ["固有名詞なので必ず大文字で David と書く。愛称（ニックネーム）は Dave（デイブ）や Davy。聖書の「ダビデ」、ミケランジェロの「ダビデ像」も同じ David"],
+    "etym_note": "ヘブライ語 Dawidh（愛される者）に由来します。旧約聖書のダビデ王の名として広まり、キリスト教圏で人気の男性名になりました。",
+    "etym_chain": [
+      { "node": "Dawidh", "sub": "愛される者", "era": "ヘブライ語" },
+      { "node": "David", "sub": "ダビデ・デイビッド", "era": "聖書経由の英語" },
+      { "node": "David", "sub": "デイビッド(人名)", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "King David", "ja": "ダビデ王" },
+      { "en": "David and Goliath", "ja": "ダビデとゴリアテ" },
+      { "en": "the statue of David", "ja": "ダビデ像" },
+      { "en": "call me Dave", "ja": "デイブと呼んで" },
+      { "en": "the Star of David", "ja": "ダビデの星(六芒星)" },
+      { "en": "Michelangelo's David", "ja": "ミケランジェロのダビデ像" }
+    ],
+    "related": [
+      { "en": "dave", "ja": "デイブ（David の愛称）" },
+      { "en": "goliath", "ja": "ゴリアテ（巨人）" },
+      { "en": "name", "ja": "名前" },
+      { "en": "bible", "ja": "聖書" }
+    ],
+    "faq": [
+      { "q": "David の愛称は？", "a": "Dave（デイブ）や Davy（デイビー）です。親しい間柄で使われます。" },
+      { "q": "David and Goliath とは？", "a": "旧約聖書の物語で、少年ダビデ（David）が巨人ゴリアテ（Goliath）を倒した話です。転じて「弱者が強者に立ち向かう」たとえとして使われます。" }
+    ],
+    "quiz": [
+      { "q": "David とは？", "A": "英語圏に多い男性名／聖書のダビデ王", "B": "国名", "C": "料理名", "D": "動物", "correct": "A" },
+      { "q": "David の愛称は？", "A": "Dave", "B": "Dan", "C": "Don", "D": "Doug", "correct": "A" }
+    ]
+  },
+  {
+    "english": "deadly",
+    "pron": "ˈdedli",
+    "kana": "デッドリー",
+    "hinshi": "形容詞 / 副詞",
+    "ld_pos": "adjective",
+    "ld_etym": "dead（死んだ）+ -ly",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "致命的な"],
+    "meaning_main": "致命的な／命にかかわる／(強調して)ひどく・実に",
+    "description": "deadly（デッドリー）の意味・使い方・語源を解説。致命的な、命にかかわるという意味の形容詞・副詞です。",
+    "keywords": ["deadly 意味", "deadly 使い方", "deadly 語源", "deadly 例文", "致命的な 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】致命的な、命にかかわる", "note": "死をもたらすほどの" },
+      { "hinshi": "【副詞】(強調して)ひどく、実に", "note": "deadly serious（大まじめの）" }
+    ],
+    "usages": [
+      { "title": "① 致命的な", "desc": "死をもたらす", "example_en": "The snake's venom is deadly.", "example_ja": "そのヘビの毒は致命的だ。" },
+      { "title": "② ひどく（強調）", "desc": "deadly serious（大まじめ）", "example_en": "He was deadly serious about it.", "example_ja": "彼はそれについて大まじめだった。" }
+    ],
+    "warn": ["-ly で終わるが「形容詞」（致命的な）。副詞的に「ひどく」の用法もある。deadly（死をもたらす）と deathly（死のような・青ざめた）は別。the seven deadly sins は「七つの大罪」"],
+    "etym_note": "dead（死んだ、古英語 dead）に -ly が付いた語で、「死をもたらす」が原義です。",
+    "etym_chain": [
+      { "node": "dead", "sub": "死んだ", "era": "古英語" },
+      { "node": "deadlic", "sub": "死をもたらす", "era": "古英語" },
+      { "node": "deadly", "sub": "致命的な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a deadly weapon", "ja": "凶器・致命的な武器" },
+      { "en": "a deadly disease", "ja": "命にかかわる病気" },
+      { "en": "deadly poison", "ja": "猛毒" },
+      { "en": "deadly serious", "ja": "大まじめの" },
+      { "en": "the seven deadly sins", "ja": "七つの大罪" },
+      { "en": "a deadly mistake", "ja": "致命的なミス" }
+    ],
+    "related": [
+      { "en": "fatal", "ja": "致命的な" },
+      { "en": "lethal", "ja": "致死の" },
+      { "en": "dead", "ja": "死んだ" },
+      { "en": "deathly", "ja": "死のような（別語）" }
+    ],
+    "faq": [
+      { "q": "deadly は形容詞？副詞？", "a": "-ly で終わりますが主に「形容詞（致命的な）」です。deadly serious（大まじめ）のように副詞的に「ひどく」の意味でも使います。" },
+      { "q": "deadly と fatal の違いは？", "a": "どちらも「致命的な」ですが、deadly は「死をもたらす力を持つ（deadly weapon）」、fatal は「(実際に)死を招いた・取り返しのつかない（fatal accident）」に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "deadly の意味は？", "A": "致命的な・命にかかわる", "B": "安全な", "C": "楽しい", "D": "静かな", "correct": "A" },
+      { "q": "deadly serious の意味は？", "A": "大まじめの", "B": "少し冗談の", "C": "退屈な", "D": "うれしい", "correct": "A" }
+    ]
+  },
+  {
+    "english": "dealer",
+    "pron": "ˈdiːlər",
+    "kana": "ディーラー",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "deal（取引する）+ -er",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "販売業者"],
+    "meaning_main": "販売業者／ディーラー／(トランプの)親／(麻薬の)売人",
+    "description": "dealer（ディーラー）の意味・使い方・語源を解説。販売業者、ディーラーという意味の名詞です。",
+    "keywords": ["dealer 意味", "dealer 使い方", "dealer 語源", "dealer 例文", "販売業者 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】販売業者、ディーラー", "note": "特定の商品を売買する業者" },
+      { "hinshi": "【名詞】(トランプの)親、カードを配る人", "note": "ゲームでカードを配る役" },
+      { "hinshi": "【名詞】(麻薬の)売人", "note": "drug dealer" }
+    ],
+    "usages": [
+      { "title": "① 販売業者", "desc": "car dealer（自動車販売店）など", "example_en": "I bought the car from a local dealer.", "example_ja": "私は地元の販売店でその車を買った。" },
+      { "title": "② トランプの親", "desc": "カードを配る人", "example_en": "The dealer gave each player five cards.", "example_ja": "親は各プレーヤーに5枚ずつカードを配った。" }
+    ],
+    "warn": ["動詞は deal（取引する・(カードを)配る）、名詞は「取引・お買い得」。car dealer（自動車ディーラー）、art dealer（美術商）、drug dealer（麻薬の売人）"],
+    "etym_note": "動詞 deal（分ける・取引する、古英語 dælan「分ける」から）に「〜する人」の -er が付いた語です。",
+    "etym_chain": [
+      { "node": "dælan", "sub": "分ける", "era": "古英語" },
+      { "node": "deal", "sub": "取引する・配る", "era": "中英語" },
+      { "node": "dealer", "sub": "販売業者・ディーラー", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a car dealer", "ja": "自動車販売店" },
+      { "en": "an art dealer", "ja": "美術商" },
+      { "en": "a drug dealer", "ja": "麻薬の売人" },
+      { "en": "a used car dealer", "ja": "中古車販売店" },
+      { "en": "an authorized dealer", "ja": "正規販売店" },
+      { "en": "the dealer deals cards", "ja": "親がカードを配る" }
+    ],
+    "related": [
+      { "en": "deal", "ja": "取引する・取引" },
+      { "en": "seller", "ja": "売り手" },
+      { "en": "merchant", "ja": "商人" },
+      { "en": "trader", "ja": "貿易商・トレーダー" }
+    ],
+    "faq": [
+      { "q": "dealer の元の動詞は？", "a": "deal（取引する・分配する・(カードを)配る）です。名詞では「取引・お買い得な買い物」の意味もあります。" },
+      { "q": "car dealer とは？", "a": "「自動車販売店・カーディーラー」のことです。特定のメーカーの車を扱う正規販売店を指すことが多いです。" }
+    ],
+    "quiz": [
+      { "q": "dealer の意味は？", "A": "販売業者・ディーラー", "B": "顧客", "C": "審判", "D": "運転手", "correct": "A" },
+      { "q": "dealer の元の動詞は？", "A": "deal（取引する）", "B": "deny（否定する）", "C": "delay（遅らせる）", "D": "detect（見つける）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "dec",
+    "pron": "dɪˈsembər",
+    "kana": "ディセンバー",
+    "hinshi": "略語（Dec. = December）",
+    "ld_pos": "abbreviation",
+    "ld_etym": "December の略",
+    "ld_level": "略語",
+    "badges": ["略語", "December の略", "月の名前", "12月"],
+    "meaning_main": "Dec. は December（12月）の略語",
+    "description": "Dec は December（12月）の略語です。カレンダーや日付表記で使われる、月の名前の短縮形を解説します。",
+    "keywords": ["Dec 意味", "Dec December 略", "Dec 12月", "月 略語 英語", "December 略"],
+    "meanings": [
+      { "hinshi": "【略語】Dec.＝December（12月）", "note": "月の名前を短くした表記。日付やカレンダーで使う" }
+    ],
+    "usages": [
+      { "title": "① 日付の表記", "desc": "Dec. 25 = 12月25日", "example_en": "The event is on Dec. 25.", "example_ja": "そのイベントは12月25日だ。（Dec.＝December）" },
+      { "title": "② カレンダーで", "desc": "月名の短縮", "example_en": "Dec is the last month of the year.", "example_ja": "12月（December）は一年の最後の月だ。" }
+    ],
+    "warn": ["Dec は単独の英単語ではなく December（12月）の略語です。正式な文章では December と書きます。他の月も Jan.（January）, Feb.（February）… のように略します"],
+    "etym_note": "December はラテン語 decem（10）に由来します。古代ローマ暦では3月始まりで12月が「10番目の月」だったためです。deca-（10）と同語根です。",
+    "etym_chain": [
+      { "node": "decem", "sub": "10", "era": "ラテン語" },
+      { "node": "December", "sub": "(元は)10番目の月", "era": "ラテン語" },
+      { "node": "Dec.", "sub": "December の略", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Dec. 25", "ja": "12月25日" },
+      { "en": "in December", "ja": "12月に" },
+      { "en": "early December", "ja": "12月初旬" },
+      { "en": "late Dec.", "ja": "12月下旬" },
+      { "en": "Dec 31st", "ja": "12月31日" },
+      { "en": "December holidays", "ja": "12月の休暇" }
+    ],
+    "related": [
+      { "en": "December", "ja": "12月（正式な語）" },
+      { "en": "month", "ja": "月" },
+      { "en": "november", "ja": "11月" },
+      { "en": "january", "ja": "1月" }
+    ],
+    "faq": [
+      { "q": "Dec は何の略？", "a": "December（12月）の略語です。日付やカレンダーで Dec. 25（12月25日）のように使います。正式な文章では December と書きます。" },
+      { "q": "December の語源は？", "a": "ラテン語 decem（10）に由来します。古代ローマ暦は3月始まりで、December は「10番目の月」だったためこの名前になりました。" }
+    ],
+    "quiz": [
+      { "q": "Dec は何の略？", "A": "December（12月）", "B": "decade（10年）", "C": "decide（決める）", "D": "declare（宣言する）", "correct": "A" },
+      { "q": "December は何月？", "A": "12月", "B": "10月", "C": "1月", "D": "11月", "correct": "A" }
+    ]
+  },
+  {
+    "english": "decendant",
+    "pron": "dɪˈsendənt",
+    "kana": "ディセンダント",
+    "hinshi": "つづり間違い（正しくは descendant）",
+    "ld_pos": "misspelling",
+    "ld_etym": "descendant のつづり間違い",
+    "ld_level": "つづり注意",
+    "badges": ["つづり間違い", "正しくは descendant", "英単語ではありません", "スペル注意"],
+    "meaning_main": "※これはつづり間違いです。正しくは descendant（子孫）",
+    "description": "decendant は descendant のつづり間違いです。s が抜けています。正しくは descendant（子孫）と書きます。",
+    "keywords": ["decendant 正しい", "descendant 意味", "decendant つづり", "descendant 子孫", "子孫 英語"],
+    "meanings": [
+      { "hinshi": "【正しくは descendant】子孫、後裔(こうえい)", "note": "decendant は s が抜けた誤り。正しくは de-s-cendant で descendant" }
+    ],
+    "usages": [
+      { "title": "① 正しいつづりは descendant", "desc": "de-scend-ant（s が必要）", "example_en": "She is a descendant of a famous king.", "example_ja": "彼女は有名な王の子孫だ。（正: descendant）" },
+      { "title": "② 反対語は ancestor", "desc": "descendant（子孫）↔ ancestor（祖先）", "example_en": "descendants and ancestors", "example_ja": "子孫と祖先。" }
+    ],
+    "warn": ["decendant は誤り（s が抜けている）。正しくは descendant。動詞 descend（降りる）に s があるのと同じ。反対語は ancestor（祖先）"],
+    "etym_note": "正しい語 descendant は、ラテン語 descendere（de-「下へ」+ scandere「登る」＝降りる）に由来する動詞 descend（降りる・血を引く）から生まれました。「血筋を下って受け継ぐ者」が原義です。",
+    "etym_chain": [
+      { "node": "descendere", "sub": "降りる", "era": "ラテン語" },
+      { "node": "descendant", "sub": "子孫（正しいつづり）", "era": "中英語" },
+      { "node": "decendant", "sub": "誤ったつづり", "era": "つづり間違い" }
+    ],
+    "phrases": [
+      { "en": "descendant (正)", "ja": "子孫（正しいつづり）" },
+      { "en": "decendant (誤)", "ja": "つづり間違い" },
+      { "en": "a descendant of", "ja": "〜の子孫" },
+      { "en": "direct descendants", "ja": "直系の子孫" },
+      { "en": "descendants and ancestors", "ja": "子孫と祖先" },
+      { "en": "living descendants", "ja": "現存する子孫" }
+    ],
+    "related": [
+      { "en": "descendant", "ja": "子孫（正しい語）" },
+      { "en": "descend", "ja": "降りる・血を引く" },
+      { "en": "ancestor", "ja": "祖先（反対）" },
+      { "en": "offspring", "ja": "子孫・子" }
+    ],
+    "faq": [
+      { "q": "decendant は正しいつづり？", "a": "いいえ、s が抜けた間違いです。正しくは descendant（de-scend-ant）で、「子孫」を意味します。" },
+      { "q": "descendant のつづりのコツは？", "a": "動詞 descend（降りる）に -ant が付いた形です。descend の s を忘れないようにしましょう。反対語は ancestor（祖先）です。" }
+    ],
+    "quiz": [
+      { "q": "正しいつづりはどれ？", "A": "descendant", "B": "decendant", "C": "desendant", "D": "descendint", "correct": "A" },
+      { "q": "descendant の意味は？", "A": "子孫", "B": "祖先", "C": "隣人", "D": "他人", "correct": "A" }
+    ]
+  },
+  {
+    "english": "deeds",
+    "pron": "diːdz",
+    "kana": "ディーヅ",
+    "hinshi": "名詞（deed の複数形）",
+    "ld_pos": "noun",
+    "ld_etym": "古英語 dæd（行い）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "行い"],
+    "meaning_main": "deed（行い・行為／(法律の)証書）の複数形",
+    "description": "deeds（ディーヅ）の意味・使い方を解説。deed（行い・行為、または法律の証書）の複数形です。",
+    "keywords": ["deed 意味", "deeds 複数", "good deeds 意味", "deed 例文", "行い 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】(意図的な)行い、行為(の複数形)", "note": "good deeds（善行）、brave deeds（勇敢な行い）" },
+      { "hinshi": "【名詞】(法律の)証書、権利証(の複数形)", "note": "土地・家などの権利を証明する文書" }
+    ],
+    "usages": [
+      { "title": "① 行い・行為", "desc": "good deeds（善行）", "example_en": "He is known for his good deeds.", "example_ja": "彼は善行で知られている。" },
+      { "title": "② 権利証（法律）", "desc": "the deeds to the house（家の権利証）", "example_en": "She keeps the deeds to the house in a safe.", "example_ja": "彼女は家の権利証を金庫に保管している。" }
+    ],
+    "warn": ["単数は deed（行い・証書）。good deed（善行）、a deed of ～。Actions speak louder than words. の action と近いが、deed はやや文語的・道徳的な「行い」。do（する）と同語源"],
+    "etym_note": "古英語 dæd（行い、do「する」から）に由来する古い語です。動詞 do（する）と同じ語根です。",
+    "etym_chain": [
+      { "node": "dæd", "sub": "行い", "era": "古英語" },
+      { "node": "dede", "sub": "行い", "era": "中英語" },
+      { "node": "deeds", "sub": "行い・証書(複数)", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "good deeds", "ja": "善行" },
+      { "en": "brave deeds", "ja": "勇敢な行い" },
+      { "en": "words and deeds", "ja": "言葉と行い" },
+      { "en": "a good deed", "ja": "善い行い" },
+      { "en": "the deeds to a house", "ja": "家の権利証" },
+      { "en": "evil deeds", "ja": "悪事" }
+    ],
+    "related": [
+      { "en": "deed", "ja": "行い・証書(単数)" },
+      { "en": "act", "ja": "行為" },
+      { "en": "action", "ja": "行動" },
+      { "en": "achievement", "ja": "功績" }
+    ],
+    "faq": [
+      { "q": "good deeds とは？", "a": "「善行・善い行い」のことです。do a good deed で「善い行いをする・人助けをする」を意味します。" },
+      { "q": "deed には行い以外の意味もある？", "a": "はい。法律用語で「証書・権利証（特に土地や家の所有を証明する文書）」の意味もあります。the deeds to the house（家の権利証）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "deeds（deed）の意味は？", "A": "行い・行為／権利証", "B": "言葉", "C": "考え", "D": "夢", "correct": "A" },
+      { "q": "good deeds の意味は？", "A": "善行", "B": "悪事", "C": "うわさ", "D": "約束", "correct": "A" }
+    ]
+  },
+  {
+    "english": "deiivery",
+    "pron": "dɪˈlɪvəri",
+    "kana": "デリバリー",
+    "hinshi": "つづり間違い（正しくは delivery）",
+    "ld_pos": "misspelling",
+    "ld_etym": "delivery のつづり間違い",
+    "ld_level": "つづり注意",
+    "badges": ["つづり間違い", "正しくは delivery", "英単語ではありません", "スペル注意"],
+    "meaning_main": "※これはつづり間違いです。正しくは delivery（配達・配送）",
+    "description": "deiivery は delivery のつづり間違いです。l が i になっています。正しくは delivery（配達・配送）と書きます。",
+    "keywords": ["deiivery 正しい", "delivery 意味", "deiivery つづり", "delivery 配達", "配達 英語"],
+    "meanings": [
+      { "hinshi": "【正しくは delivery】配達、配送、出産、話し方", "note": "deiivery は l が i になった誤り。正しくは de-l-ivery で delivery" }
+    ],
+    "usages": [
+      { "title": "① 正しいつづりは delivery", "desc": "de-l-ivery（l を使う）", "example_en": "The delivery will arrive tomorrow.", "example_ja": "配達は明日届く。（正: delivery）" },
+      { "title": "② 出産・話しぶりも", "desc": "delivery には「出産」「話し方」の意味も", "example_en": "free delivery", "example_ja": "送料無料（正: delivery）" }
+    ],
+    "warn": ["deiivery は誤り（l が i に化けている）。正しくは delivery。動詞は deliver（配達する・果たす・出産する）。似た誤り deivery（l 抜け）にも注意"],
+    "etym_note": "正しい語 delivery は、動詞 deliver（古フランス語 delivrer「解き放つ・引き渡す」から）に由来します。free（自由な）と同じ語根 liber（自由）を含みます。",
+    "etym_chain": [
+      { "node": "delivrer", "sub": "引き渡す・解き放つ", "era": "古フランス語" },
+      { "node": "delivery", "sub": "配達（正しいつづり）", "era": "中英語" },
+      { "node": "deiivery", "sub": "誤ったつづり", "era": "つづり間違い" }
+    ],
+    "phrases": [
+      { "en": "delivery (正)", "ja": "配達・配送（正しいつづり）" },
+      { "en": "deiivery (誤)", "ja": "つづり間違い" },
+      { "en": "free delivery", "ja": "送料無料" },
+      { "en": "home delivery", "ja": "宅配" },
+      { "en": "delivery service", "ja": "配達サービス" },
+      { "en": "next-day delivery", "ja": "翌日配達" }
+    ],
+    "related": [
+      { "en": "delivery", "ja": "配達（正しい語）" },
+      { "en": "deliver", "ja": "配達する" },
+      { "en": "shipping", "ja": "発送" },
+      { "en": "package", "ja": "小包" }
+    ],
+    "faq": [
+      { "q": "deiivery は正しいつづり？", "a": "いいえ、l が i に化けた間違いです。正しくは delivery（de-l-ivery）で、「配達・配送」を意味します。" },
+      { "q": "delivery の他の意味は？", "a": "「配達」のほか、「出産（お産）」や「(スピーチなどの)話しぶり・伝え方」の意味もあります。" }
+    ],
+    "quiz": [
+      { "q": "正しいつづりはどれ？", "A": "delivery", "B": "deiivery", "C": "delivary", "D": "deliverly", "correct": "A" },
+      { "q": "delivery の意味は？", "A": "配達・配送", "B": "掃除", "C": "料理", "D": "洗濯", "correct": "A" }
+    ]
+  },
+  {
+    "english": "deivery",
+    "pron": "dɪˈlɪvəri",
+    "kana": "デリバリー",
+    "hinshi": "つづり間違い（正しくは delivery）",
+    "ld_pos": "misspelling",
+    "ld_etym": "delivery のつづり間違い",
+    "ld_level": "つづり注意",
+    "badges": ["つづり間違い", "正しくは delivery", "英単語ではありません", "スペル注意"],
+    "meaning_main": "※これはつづり間違いです。正しくは delivery（配達・配送）",
+    "description": "deivery は delivery のつづり間違いです。l が抜けています。正しくは delivery（配達・配送）と書きます。",
+    "keywords": ["deivery 正しい", "delivery 意味", "deivery つづり", "delivery 配達", "配達 英語"],
+    "meanings": [
+      { "hinshi": "【正しくは delivery】配達、配送、出産、話し方", "note": "deivery は l が抜けた誤り。正しくは de-l-ivery で delivery" }
+    ],
+    "usages": [
+      { "title": "① 正しいつづりは delivery", "desc": "de-l-ivery（l を忘れずに）", "example_en": "I ordered food for delivery.", "example_ja": "私は配達で食べ物を注文した。（正: delivery）" },
+      { "title": "② 動詞は deliver", "desc": "deliver（配達する）", "example_en": "They deliver within an hour.", "example_ja": "彼らは1時間以内に配達する。（正: deliver）" }
+    ],
+    "warn": ["deivery は誤り（l が抜けている）。正しくは delivery。de-l-ivery と l を忘れないこと。deliver（配達する）の l と同じ。似た誤り deiivery（l が i に化けたもの）にも注意"],
+    "etym_note": "正しい語 delivery は、動詞 deliver（古フランス語 delivrer「解き放つ・引き渡す」から）に由来します。荷物を「相手の手に引き渡す」ことから「配達」の意味になりました。",
+    "etym_chain": [
+      { "node": "delivrer", "sub": "引き渡す", "era": "古フランス語" },
+      { "node": "delivery", "sub": "配達（正しいつづり）", "era": "中英語" },
+      { "node": "deivery", "sub": "誤ったつづり", "era": "つづり間違い" }
+    ],
+    "phrases": [
+      { "en": "delivery (正)", "ja": "配達・配送（正しいつづり）" },
+      { "en": "deivery (誤)", "ja": "つづり間違い" },
+      { "en": "food delivery", "ja": "料理の配達" },
+      { "en": "delivery time", "ja": "配達時間" },
+      { "en": "a delivery driver", "ja": "配達員" },
+      { "en": "express delivery", "ja": "速達" }
+    ],
+    "related": [
+      { "en": "delivery", "ja": "配達（正しい語）" },
+      { "en": "deliver", "ja": "配達する" },
+      { "en": "courier", "ja": "宅配便・配達人" },
+      { "en": "order", "ja": "注文" }
+    ],
+    "faq": [
+      { "q": "deivery は正しいつづり？", "a": "いいえ、l が抜けた間違いです。正しくは delivery（de-l-ivery）で、「配達・配送」を意味します。" },
+      { "q": "delivery のつづりのコツは？", "a": "動詞 deliver（配達する）に -y が付いた形です。deliver の l を忘れないようにしましょう（× deivery、× deiivery）。" }
+    ],
+    "quiz": [
+      { "q": "正しいつづりはどれ？", "A": "delivery", "B": "deivery", "C": "deiivery", "D": "delevery", "correct": "A" },
+      { "q": "delivery の動詞形は？", "A": "deliver", "B": "delay", "C": "deny", "D": "decide", "correct": "A" }
+    ]
+  },
+  {
+    "english": "deliberate",
+    "pron": "dɪˈlɪbərət",
+    "kana": "ディリバレット",
+    "hinshi": "形容詞 / 動詞",
+    "ld_pos": "adjective",
+    "ld_etym": "ラテン語 deliberare（よく考える）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "意図的な"],
+    "meaning_main": "意図的な／慎重な／(動詞)熟考する・審議する",
+    "description": "deliberate（ディリバレット）の意味・使い方・語源を解説。意図的な、慎重な、熟考するという意味の形容詞・動詞です。",
+    "keywords": ["deliberate 意味", "deliberate 使い方", "deliberate 語源", "deliberate 例文", "意図的な 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】意図的な、故意の", "note": "わざと行う。反対は accidental" },
+      { "hinshi": "【形容詞】慎重な、落ち着いた", "note": "急がず注意深い" },
+      { "hinshi": "【動詞】(を)熟考する、審議する", "note": "動詞では発音が /-reɪt/ になる" }
+    ],
+    "usages": [
+      { "title": "① 意図的な・故意の", "desc": "わざとの", "example_en": "It was a deliberate act of sabotage.", "example_ja": "それは意図的な妨害行為だった。" },
+      { "title": "② 熟考する（動詞）", "desc": "審議する", "example_en": "The jury deliberated for hours.", "example_ja": "陪審は何時間も審議した。" }
+    ],
+    "warn": ["形容詞（意図的な・慎重な）は /-rət/、動詞（熟考する）は /-reɪt/ と発音が変わる。名詞は deliberation（熟考・審議）、副詞 deliberately（わざと・慎重に）"],
+    "etym_note": "ラテン語 deliberare（de-「すっかり」+ librare「はかりにかける」＝よく考量する）に由来し、libra（天秤）と同語根です。",
+    "etym_chain": [
+      { "node": "librare", "sub": "はかりにかける", "era": "ラテン語" },
+      { "node": "deliberare", "sub": "よく考える", "era": "ラテン語" },
+      { "node": "deliberate", "sub": "意図的な・熟考する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a deliberate lie", "ja": "意図的なうそ" },
+      { "en": "a deliberate choice", "ja": "熟慮した選択" },
+      { "en": "slow and deliberate", "ja": "ゆっくりと慎重な" },
+      { "en": "deliberate on", "ja": "〜について審議する" },
+      { "en": "a deliberate decision", "ja": "熟考した決定" },
+      { "en": "quite deliberate", "ja": "全く意図的な" }
+    ],
+    "related": [
+      { "en": "deliberately", "ja": "わざと・慎重に" },
+      { "en": "intentional", "ja": "意図的な" },
+      { "en": "careful", "ja": "慎重な" },
+      { "en": "accidental", "ja": "偶然の（反対）" }
+    ],
+    "faq": [
+      { "q": "deliberate の形容詞と動詞で発音は違う？", "a": "はい。形容詞（意図的な・慎重な）は /dɪˈlɪbərət/、動詞（熟考する）は /dɪˈlɪbəreɪt/ と語尾の発音が変わります。" },
+      { "q": "deliberate の反対語は？", "a": "「意図的な」の反対は accidental（偶然の）や unintentional（意図しない）です。" }
+    ],
+    "quiz": [
+      { "q": "deliberate（形容詞）の意味は？", "A": "意図的な・慎重な", "B": "偶然の", "C": "無関係な", "D": "退屈な", "correct": "A" },
+      { "q": "動詞 deliberate の意味は？", "A": "熟考する・審議する", "B": "配達する", "C": "破壊する", "D": "祝う", "correct": "A" }
+    ]
+  },
+  {
+    "english": "delirious",
+    "pron": "dɪˈlɪriəs",
+    "kana": "ディリリアス",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "ラテン語 delirare（正気を失う）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "うわ言の"],
+    "meaning_main": "(高熱などで)うわ言を言う・意識がもうろうとした／(喜びで)有頂天の",
+    "description": "delirious（ディリリアス）の意味・使い方・語源を解説。うわ言を言う、意識がもうろうとした、有頂天のという意味の形容詞です。",
+    "keywords": ["delirious 意味", "delirious 使い方", "delirious 語源", "delirious 例文", "うわ言 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】(高熱などで)うわ言を言う、意識がもうろうとした", "note": "熱・病気で正気を失った状態" },
+      { "hinshi": "【形容詞】(喜び・興奮で)有頂天の、狂喜した", "note": "delirious with joy" }
+    ],
+    "usages": [
+      { "title": "① うわ言を言う", "desc": "高熱で意識が混濁", "example_en": "He was delirious with fever.", "example_ja": "彼は高熱でうわ言を言っていた。" },
+      { "title": "② 有頂天の", "desc": "delirious with joy", "example_en": "The fans were delirious with excitement.", "example_ja": "ファンたちは興奮で有頂天だった。" }
+    ],
+    "warn": ["名詞は delirium（せん妄・熱狂）。delirious with ～（〜で有頂天）。「うわ言」と「大喜び」の両方の意味がある。語源は「(畑の)畝からそれる＝正気からそれる」"],
+    "etym_note": "ラテン語 delirare（de-「離れて」+ lira「畝(うね)」＝畝からそれる＝正気を失う）に由来します。畑仕事で真っすぐな畝から外れる様子が原義です。",
+    "etym_chain": [
+      { "node": "lira", "sub": "畝(うね)", "era": "ラテン語" },
+      { "node": "delirare", "sub": "畝からそれる・正気を失う", "era": "ラテン語" },
+      { "node": "delirious", "sub": "うわ言の・有頂天の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "delirious with fever", "ja": "高熱でうわ言を言う" },
+      { "en": "delirious with joy", "ja": "喜びで有頂天の" },
+      { "en": "become delirious", "ja": "意識がもうろうとする" },
+      { "en": "a delirious crowd", "ja": "熱狂した群衆" },
+      { "en": "delirious happiness", "ja": "狂おしいほどの幸福" },
+      { "en": "half delirious", "ja": "半ばもうろうとして" }
+    ],
+    "related": [
+      { "en": "delirium", "ja": "せん妄・熱狂" },
+      { "en": "feverish", "ja": "熱っぽい" },
+      { "en": "ecstatic", "ja": "有頂天の" },
+      { "en": "confused", "ja": "混乱した" }
+    ],
+    "faq": [
+      { "q": "delirious の2つの意味は？", "a": "①「(高熱などで)うわ言を言う・意識がもうろうとした」と、②「(喜び・興奮で)有頂天の・狂喜した」の両方があります。文脈で判断します。" },
+      { "q": "delirious の名詞形は？", "a": "delirium（せん妄・(病的な)熱狂）です。" }
+    ],
+    "quiz": [
+      { "q": "delirious の意味は？", "A": "うわ言を言う／有頂天の", "B": "冷静な", "C": "退屈な", "D": "健康な", "correct": "A" },
+      { "q": "delirious with joy の意味は？", "A": "喜びで有頂天の", "B": "悲しみに沈んだ", "C": "怒り狂った", "D": "疲れ果てた", "correct": "A" }
+    ]
+  },
+  {
+    "english": "deluge",
+    "pron": "ˈdeljuːdʒ",
+    "kana": "デリュージ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 diluvium（大洪水）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "大洪水"],
+    "meaning_main": "大洪水／豪雨／(の)殺到・氾濫／(を)殺到させる",
+    "description": "deluge（デリュージ）の意味・使い方・語源を解説。大洪水、豪雨、殺到という意味の名詞・動詞です。",
+    "keywords": ["deluge 意味", "deluge 使い方", "deluge 語源", "deluge 例文", "大洪水 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】大洪水、豪雨", "note": "圧倒的な量の水" },
+      { "hinshi": "【名詞】(手紙・要求などの)殺到、氾濫", "note": "a deluge of ～（〜の殺到）" },
+      { "hinshi": "【動詞】(を)水浸しにする、殺到する", "note": "be deluged with ～（〜が殺到する）" }
+    ],
+    "usages": [
+      { "title": "① 大洪水・豪雨", "desc": "圧倒的な水", "example_en": "The village was destroyed by the deluge.", "example_ja": "その村は大洪水で破壊された。" },
+      { "title": "② 殺到（比喩）", "desc": "a deluge of ～", "example_en": "We received a deluge of complaints.", "example_ja": "私たちには苦情が殺到した。" }
+    ],
+    "warn": ["be deluged with ～（〜が殺到する）で受け身でよく使う。the Deluge（大文字）は聖書のノアの洪水。flood より大規模で圧倒的なイメージ"],
+    "etym_note": "ラテン語 diluvium（洗い流すもの、大洪水、diluere「洗い流す」から）に由来します。",
+    "etym_chain": [
+      { "node": "diluvium", "sub": "大洪水", "era": "ラテン語" },
+      { "node": "deluge", "sub": "大洪水", "era": "古フランス語" },
+      { "node": "deluge", "sub": "大洪水・殺到", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a deluge of rain", "ja": "豪雨" },
+      { "en": "a deluge of", "ja": "〜の殺到" },
+      { "en": "be deluged with", "ja": "〜が殺到する" },
+      { "en": "the Deluge", "ja": "(聖書の)大洪水" },
+      { "en": "a deluge of emails", "ja": "メールの殺到" },
+      { "en": "after the deluge", "ja": "大洪水の後" }
+    ],
+    "related": [
+      { "en": "flood", "ja": "洪水" },
+      { "en": "downpour", "ja": "土砂降り" },
+      { "en": "torrent", "ja": "激流・殺到" },
+      { "en": "drought", "ja": "干ばつ（反対）" }
+    ],
+    "faq": [
+      { "q": "deluge と flood の違いは？", "a": "どちらも「洪水」ですが、deluge のほうがより大規模で圧倒的な「大洪水・豪雨」を表し、比喩で「(要求・手紙などの)殺到」にも使います。" },
+      { "q": "be deluged with とは？", "a": "「〜が殺到する・〜であふれる」という意味です。be deluged with questions（質問が殺到する）のように受け身で使います。" }
+    ],
+    "quiz": [
+      { "q": "deluge の意味は？", "A": "大洪水・殺到", "B": "干ばつ", "C": "そよ風", "D": "静けさ", "correct": "A" },
+      { "q": "a deluge of complaints の意味は？", "A": "苦情の殺到", "B": "苦情の解決", "C": "苦情の記録", "D": "苦情の無視", "correct": "A" }
+    ]
+  },
+  {
+    "english": "denim",
+    "pron": "ˈdenɪm",
+    "kana": "デニム",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "フランス語 serge de Nîmes（ニームの綾織り）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "デニム"],
+    "meaning_main": "デニム（ジーンズなどに使う丈夫な綿の綾織り生地）",
+    "description": "denim（デニム）の意味・語源を解説。ジーンズなどに使われる丈夫な綿の生地「デニム」を表す名詞です。",
+    "keywords": ["denim 意味", "denim 使い方", "denim 語源", "denim とは", "デニム 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】デニム(生地)", "note": "ジーンズなどに使う、丈夫な綿の綾織り生地。不可算" }
+    ],
+    "usages": [
+      { "title": "① 丈夫な綿生地", "desc": "ジーンズの素材", "example_en": "These jeans are made of denim.", "example_ja": "このジーンズはデニムでできている。" },
+      { "title": "② デニム製品", "desc": "ジャケットなどにも", "example_en": "He wore a denim jacket.", "example_ja": "彼はデニムのジャケットを着ていた。" }
+    ],
+    "warn": ["不可算名詞。jeans（ジーンズ）はデニムで作った「ズボン」で常に複数形。語源はフランスの都市ニーム（Nîmes）"],
+    "etym_note": "フランス語 serge de Nîmes（フランスの都市ニームの綾織り）が短くなって denim になりました。生地の産地の名に由来します。",
+    "etym_chain": [
+      { "node": "serge de Nîmes", "sub": "ニームの綾織り", "era": "フランス語" },
+      { "node": "de Nîmes", "sub": "ニームの", "era": "フランス語" },
+      { "node": "denim", "sub": "デニム", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a denim jacket", "ja": "デニムジャケット" },
+      { "en": "denim jeans", "ja": "デニムのジーンズ" },
+      { "en": "made of denim", "ja": "デニム製の" },
+      { "en": "blue denim", "ja": "青いデニム" },
+      { "en": "a denim shirt", "ja": "デニムシャツ" },
+      { "en": "faded denim", "ja": "色あせたデニム" }
+    ],
+    "related": [
+      { "en": "jeans", "ja": "ジーンズ" },
+      { "en": "fabric", "ja": "布地" },
+      { "en": "cotton", "ja": "綿" },
+      { "en": "cloth", "ja": "布" }
+    ],
+    "faq": [
+      { "q": "denim と jeans の違いは？", "a": "denim は「生地（丈夫な綿の綾織り）」、jeans は「そのデニムで作ったズボン」です。jeans は常に複数形で使います。" },
+      { "q": "denim の語源は？", "a": "フランスの都市ニーム（Nîmes）の綾織り生地を意味する serge de Nîmes が短くなったものです。産地の名に由来します。" }
+    ],
+    "quiz": [
+      { "q": "denim とは？", "A": "丈夫な綿の生地", "B": "金属", "C": "食べ物", "D": "飲み物", "correct": "A" },
+      { "q": "denim で作ったズボンは？", "A": "jeans", "B": "socks", "C": "gloves", "D": "hats", "correct": "A" }
+    ]
+  },
+  {
+    "english": "dependable",
+    "pron": "dɪˈpendəbl",
+    "kana": "ディペンダブル",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "depend（頼る）+ -able",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頼りになる"],
+    "meaning_main": "頼りになる／信頼できる／当てになる",
+    "description": "dependable（ディペンダブル）の意味・使い方・語源を解説。頼りになる、信頼できるという意味の形容詞です。",
+    "keywords": ["dependable 意味", "dependable 使い方", "dependable 語源", "dependable 例文", "頼りになる 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】頼りになる、信頼できる、当てになる", "note": "人・物が期待どおりに機能する" }
+    ],
+    "usages": [
+      { "title": "① 頼りになる人", "desc": "信頼できて当てになる", "example_en": "She is a dependable and honest worker.", "example_ja": "彼女は頼りになる誠実な働き手だ。" },
+      { "title": "② 信頼できる物・仕組み", "desc": "故障せず期待どおり", "example_en": "This car is old but dependable.", "example_ja": "この車は古いが頼りになる。" }
+    ],
+    "warn": ["depend（頼る）+ -able（〜できる）＝「頼ることができる」。動詞は depend（on）、名詞 dependence（依存）。reliable（信頼できる）とほぼ同義。反対は unreliable（当てにならない）"],
+    "etym_note": "動詞 depend（ラテン語 de-「下に」+ pendere「ぶら下がる」＝〜に頼る）に「〜できる」の -able が付いた語です。pendant（ペンダント）と同語根です。",
+    "etym_chain": [
+      { "node": "pendere", "sub": "ぶら下がる", "era": "ラテン語" },
+      { "node": "depend", "sub": "頼る", "era": "中英語" },
+      { "node": "dependable", "sub": "頼りになる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a dependable friend", "ja": "頼りになる友人" },
+      { "en": "a dependable source", "ja": "信頼できる情報源" },
+      { "en": "reliable and dependable", "ja": "信頼できて頼りになる" },
+      { "en": "a dependable car", "ja": "頼りになる車" },
+      { "en": "dependable service", "ja": "信頼できるサービス" },
+      { "en": "highly dependable", "ja": "非常に頼りになる" }
+    ],
+    "related": [
+      { "en": "depend", "ja": "頼る" },
+      { "en": "reliable", "ja": "信頼できる" },
+      { "en": "trustworthy", "ja": "信頼に足る" },
+      { "en": "unreliable", "ja": "当てにならない（反対）" }
+    ],
+    "faq": [
+      { "q": "dependable と reliable の違いは？", "a": "ほぼ同義で「信頼できる・頼りになる」を意味します。どちらも人・物に使え、ほとんど置き換えられます。" },
+      { "q": "dependable の反対語は？", "a": "unreliable（当てにならない・信頼できない）です。" }
+    ],
+    "quiz": [
+      { "q": "dependable の意味は？", "A": "頼りになる・信頼できる", "B": "当てにならない", "C": "危険な", "D": "退屈な", "correct": "A" },
+      { "q": "dependable の反対語は？", "A": "unreliable", "B": "reliable", "C": "trustworthy", "D": "capable", "correct": "A" }
+    ]
+  }
+]
