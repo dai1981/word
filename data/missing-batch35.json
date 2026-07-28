@@ -1,0 +1,991 @@
+[
+  {
+    "english": "inm",
+    "pron": "ɪn",
+    "kana": "イン",
+    "hinshi": "入力途中・つづり間違い（英単語ではありません）",
+    "ld_pos": "misspelling",
+    "ld_etym": "入力途中か inn などのつづり間違い",
+    "ld_level": "つづり注意",
+    "badges": ["英単語ではありません", "入力途中", "たぶん inn / in", "スペル注意"],
+    "meaning_main": "※これは英単語ではありません。入力途中か、inn（宿屋）・in（〜の中に）などの打ち間違いの可能性",
+    "description": "inm は英単語ではありません。入力途中や打ち間違いと考えられ、inn（宿屋）や in（〜の中に）などを打とうとしたものかもしれません。",
+    "keywords": ["inm 意味", "inm とは", "inm 英語", "inn 宿屋", "in 前置詞"],
+    "meanings": [
+      { "hinshi": "【入力途中・打ち間違いの可能性】", "note": "inm は英単語ではない。inn（宿屋）、in（〜の中に）、inmate（収容者）などの入力途中・打ち間違いの可能性がある" }
+    ],
+    "usages": [
+      { "title": "① inn（宿屋）だとすると", "desc": "小さな宿・旅籠", "example_en": "We stayed at a country inn.", "example_ja": "私たちは田舎の宿に泊まった。（正: inn）" },
+      { "title": "② in（〜の中に）だとすると", "desc": "基本の前置詞", "example_en": "The keys are in the box.", "example_ja": "鍵は箱の中にある。（正: in）" }
+    ],
+    "warn": ["inm は英単語ではありません。入力途中や打ち間違いと思われます。inn（宿屋）、in（〜の中に）、inmate（収容者）など、意図した語を確認してもう一度入力してみてください"],
+    "etym_note": "inm という語は英語には存在しません。inn は古英語 inn（宿）、in は古英語 in（中に）に由来します。",
+    "etym_chain": [
+      { "node": "inn / in", "sub": "宿／中に", "era": "古英語" },
+      { "node": "inn / in", "sub": "宿屋／〜の中に（正しい語）", "era": "英語" },
+      { "node": "inm", "sub": "存在しないつづり", "era": "入力途中・打ち間違い" }
+    ],
+    "phrases": [
+      { "en": "inn (正)", "ja": "宿屋（候補）" },
+      { "en": "in (正)", "ja": "〜の中に（候補）" },
+      { "en": "a country inn", "ja": "田舎の宿" },
+      { "en": "in the box", "ja": "箱の中に" },
+      { "en": "an inmate", "ja": "収容者（候補）" },
+      { "en": "stay at an inn", "ja": "宿に泊まる" }
+    ],
+    "related": [
+      { "en": "inn", "ja": "宿屋（候補）" },
+      { "en": "in", "ja": "〜の中に（候補）" },
+      { "en": "inmate", "ja": "収容者（候補）" },
+      { "en": "into", "ja": "〜の中へ" }
+    ],
+    "faq": [
+      { "q": "inm は正しい英単語ですか？", "a": "いいえ、英単語ではありません。入力途中や打ち間違いと思われます。inn（宿屋）、in（〜の中に）、inmate（収容者）など、意図した語を確認してみてください。" },
+      { "q": "inn と in の違いは？", "a": "inn（インン）は名詞「宿屋・旅籠」、in（イン）は前置詞「〜の中に」です。n の数が違い、意味も別です。" }
+    ],
+    "quiz": [
+      { "q": "inm は正しい英単語？", "A": "いいえ、入力途中・打ち間違い", "B": "はい、宿屋", "C": "はい、前置詞", "D": "はい、地名", "correct": "A" },
+      { "q": "「宿屋」を表す語は？", "A": "inn", "B": "inm", "C": "in", "D": "ink", "correct": "A" }
+    ]
+  },
+  {
+    "english": "inpermanent",
+    "pron": "ɪmˈpɜːrmənənt",
+    "kana": "インパーマネント",
+    "hinshi": "つづり間違い（正しくは impermanent）",
+    "ld_pos": "misspelling",
+    "ld_etym": "impermanent のつづり間違い",
+    "ld_level": "つづり注意",
+    "badges": ["つづり間違い", "正しくは impermanent", "英単語ではありません", "スペル注意"],
+    "meaning_main": "※これはつづり間違いです。正しくは impermanent（一時的な・永続しない）",
+    "description": "inpermanent は impermanent のつづり間違いです。p の前は n でなく m です。正しくは impermanent（一時的な・永続しない）と書きます。",
+    "keywords": ["inpermanent 正しい", "impermanent 意味", "inpermanent つづり", "impermanent 一時的", "無常 英語"],
+    "meanings": [
+      { "hinshi": "【正しくは impermanent】一時的な、永続しない、はかない", "note": "inpermanent は n が誤り。p の前は m で、正しくは im-permanent" }
+    ],
+    "usages": [
+      { "title": "① 正しいつづりは impermanent", "desc": "im-permanent（p の前は m）", "example_en": "Everything in life is impermanent.", "example_ja": "人生のすべては永続しない。（正: impermanent）" },
+      { "title": "② 一時的な状態", "desc": "永続しないもの", "example_en": "The changes are impermanent.", "example_ja": "その変化は一時的なものだ。（正: impermanent）" }
+    ],
+    "warn": ["inpermanent は誤り（p の前は n ではなく m）。正しくは impermanent。im-（否定）+ permanent（永続的な）。p・b・m の前の否定接頭辞は im-（impossible, imbalance と同じ）。反対は permanent（永続的な）"],
+    "etym_note": "正しい語 impermanent は、否定の im- に permanent（永続的な、ラテン語 permanere「とどまり続ける」から）が付いた語です。p の前では否定接頭辞が im- になります。",
+    "etym_chain": [
+      { "node": "permanere", "sub": "とどまり続ける", "era": "ラテン語" },
+      { "node": "permanent", "sub": "永続的な", "era": "中英語" },
+      { "node": "impermanent", "sub": "一時的な（正しいつづり）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "impermanent (正)", "ja": "一時的な（正しいつづり）" },
+      { "en": "inpermanent (誤)", "ja": "つづり間違い" },
+      { "en": "impermanent things", "ja": "はかないもの" },
+      { "en": "permanent (反対)", "ja": "永続的な" },
+      { "en": "impermanence (名詞)", "ja": "無常・はかなさ" },
+      { "en": "temporary and impermanent", "ja": "一時的で永続しない" }
+    ],
+    "related": [
+      { "en": "impermanent", "ja": "一時的な（正しい語）" },
+      { "en": "permanent", "ja": "永続的な（反対）" },
+      { "en": "temporary", "ja": "一時的な" },
+      { "en": "fleeting", "ja": "つかの間の" }
+    ],
+    "faq": [
+      { "q": "inpermanent は正しいつづり？", "a": "いいえ、p の前は n ではなく m が正しく、impermanent と綴ります。「一時的な・永続しない・はかない」を意味します。" },
+      { "q": "なぜ p の前は im- なの？", "a": "否定の接頭辞は、p・b・m の前では発音しやすいように im- になります（impossible, imbalance, immature など）。permanent → impermanent となります。" }
+    ],
+    "quiz": [
+      { "q": "正しいつづりはどれ？", "A": "impermanent", "B": "inpermanent", "C": "imparmanent", "D": "impermenent", "correct": "A" },
+      { "q": "impermanent の意味は？", "A": "一時的な・永続しない", "B": "永久の", "C": "巨大な", "D": "危険な", "correct": "A" }
+    ]
+  },
+  {
+    "english": "insert",
+    "pron": "ɪnˈsɜːrt",
+    "kana": "インサート",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "verb",
+    "ld_etym": "ラテン語 inserere（差し込む）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "挿入する"],
+    "meaning_main": "(を)挿入する／差し込む／(名詞)挿入物・折り込み広告",
+    "description": "insert（インサート）の意味・使い方・語源を解説。挿入する、差し込むという意味の動詞・名詞です。",
+    "keywords": ["insert 意味", "insert 使い方", "insert 語源", "insert 例文", "挿入する 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】(を)挿入する、差し込む、(言葉を)入れる", "note": "insert A into/in B" },
+      { "hinshi": "【名詞】挿入物、折り込み広告", "note": "新聞などに挟むチラシ" }
+    ],
+    "usages": [
+      { "title": "① 差し込む・挿入する", "desc": "insert A into B", "example_en": "Insert the card into the slot.", "example_ja": "カードを差込口に入れてください。" },
+      { "title": "② 言葉を入れる", "desc": "文章に付け加える", "example_en": "Insert a comma here.", "example_ja": "ここにコンマを入れなさい。" }
+    ],
+    "warn": ["insert A into/in B の形。名詞は insertion（挿入）。動詞と名詞でアクセントが変わる（動詞 in-SERT、名詞 IN-sert）。反対は remove（取り除く）"],
+    "etym_note": "ラテン語 inserere（in-「中に」+ serere「つなぐ・植える」＝中に差し込む）に由来し、series（連続）と同語根です。",
+    "etym_chain": [
+      { "node": "serere", "sub": "つなぐ・植える", "era": "ラテン語" },
+      { "node": "inserere", "sub": "差し込む", "era": "ラテン語" },
+      { "node": "insert", "sub": "挿入する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "insert into", "ja": "〜に差し込む" },
+      { "en": "insert a coin", "ja": "コインを入れる" },
+      { "en": "insert a card", "ja": "カードを差し込む" },
+      { "en": "insert a word", "ja": "語を挿入する" },
+      { "en": "a newspaper insert", "ja": "新聞の折り込み広告" },
+      { "en": "insert a comment", "ja": "コメントを入れる" }
+    ],
+    "related": [
+      { "en": "insertion", "ja": "挿入" },
+      { "en": "add", "ja": "加える" },
+      { "en": "put in", "ja": "入れる" },
+      { "en": "remove", "ja": "取り除く（反対）" }
+    ],
+    "faq": [
+      { "q": "insert の前置詞は？", "a": "insert A into B / insert A in B（AをBに差し込む・挿入する）の形で使います。Insert the key into the lock.（鍵を錠に差し込む）のように使います。" },
+      { "q": "insert の名詞形は？", "a": "insertion（挿入）です。insert 自体も名詞で「挿入物・(新聞の)折り込み広告」を意味します。" }
+    ],
+    "quiz": [
+      { "q": "insert の意味は？", "A": "挿入する・差し込む", "B": "取り除く", "C": "破壊する", "D": "祝う", "correct": "A" },
+      { "q": "insert の反対語は？", "A": "remove", "B": "add", "C": "put in", "D": "include", "correct": "A" }
+    ]
+  },
+  {
+    "english": "instinguish",
+    "pron": "dɪˈstɪŋɡwɪʃ",
+    "kana": "ディスティングウィッシュ",
+    "hinshi": "つづり間違い（英単語ではありません）",
+    "ld_pos": "misspelling",
+    "ld_etym": "distinguish / extinguish のつづり間違いか",
+    "ld_level": "つづり注意",
+    "badges": ["つづり間違い", "英単語ではありません", "たぶん distinguish", "スペル注意"],
+    "meaning_main": "※これは英単語ではありません。つづり間違いで、おそらく distinguish（区別する）か extinguish（消す）",
+    "description": "instinguish は英単語ではありません。つづり間違いで、おそらく distinguish（区別する）か extinguish（火を消す）を打とうとしたものと思われます。",
+    "keywords": ["instinguish 正しい", "instinguish distinguish", "instinguish extinguish", "distinguish 意味", "区別する 英語"],
+    "meanings": [
+      { "hinshi": "【たぶん distinguish】区別する、見分ける", "note": "di- で始まる。distinguish A from B" },
+      { "hinshi": "【または extinguish】(火・希望を)消す", "note": "ex- で始まる。extinguish a fire" }
+    ],
+    "usages": [
+      { "title": "① distinguish（区別する）だとすると", "desc": "distinguish A from B", "example_en": "It's hard to distinguish the twins.", "example_ja": "その双子を見分けるのは難しい。（正: distinguish）" },
+      { "title": "② extinguish（消す）だとすると", "desc": "火を消す", "example_en": "Firefighters extinguished the fire.", "example_ja": "消防士が火を消した。（正: extinguish）" }
+    ],
+    "warn": ["instinguish は英単語ではありません。-stinguish の部分は共通ですが、頭は distinguish（区別する、di-）か extinguish（消す、ex-）です。どちらを意図したか確認しましょう"],
+    "etym_note": "distinguish はラテン語 distinguere（区別する）、extinguish はラテン語 extinguere（消す）に由来し、ともに stinguere（刺す・消す）を語根に持ちます。instinguish という語は存在しません。",
+    "etym_chain": [
+      { "node": "stinguere", "sub": "刺す・消す", "era": "ラテン語" },
+      { "node": "distinguish / extinguish", "sub": "区別する／消す（正しい語）", "era": "英語" },
+      { "node": "instinguish", "sub": "存在しないつづり", "era": "つづり間違い" }
+    ],
+    "phrases": [
+      { "en": "distinguish (正)", "ja": "区別する（候補）" },
+      { "en": "extinguish (正)", "ja": "消す（候補）" },
+      { "en": "distinguish A from B", "ja": "AをBと区別する" },
+      { "en": "distinguish between", "ja": "〜を見分ける" },
+      { "en": "extinguish a fire", "ja": "火を消す" },
+      { "en": "hard to distinguish", "ja": "見分けにくい" }
+    ],
+    "related": [
+      { "en": "distinguish", "ja": "区別する（候補）" },
+      { "en": "extinguish", "ja": "消す（候補）" },
+      { "en": "difference", "ja": "違い" },
+      { "en": "recognize", "ja": "認識する" }
+    ],
+    "faq": [
+      { "q": "instinguish は正しい英単語ですか？", "a": "いいえ、英単語ではありません。-stinguish の部分から、distinguish（区別する）か extinguish（火を消す）のつづり間違いと考えられます。" },
+      { "q": "distinguish と extinguish の違いは？", "a": "distinguish は「区別する・見分ける」、extinguish は「(火・希望を)消す」です。語根 stinguish は共通ですが、頭（di- / ex-）で意味が全く変わります。" }
+    ],
+    "quiz": [
+      { "q": "instinguish は正しい英単語？", "A": "いいえ、つづり間違い", "B": "はい、区別する意味", "C": "はい、消す意味", "D": "はい、本能の意味", "correct": "A" },
+      { "q": "「区別する」の正しいつづりは？", "A": "distinguish", "B": "instinguish", "C": "distinquish", "D": "distinghish", "correct": "A" }
+    ]
+  },
+  {
+    "english": "interpret",
+    "pron": "ɪnˈtɜːrprət",
+    "kana": "インタープリット",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "ラテン語 interpretari（説明する)",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "解釈する"],
+    "meaning_main": "(を)解釈する／(意味を)理解する／通訳する",
+    "description": "interpret（インタープリット）の意味・使い方・語源を解説。解釈する、通訳するという意味の動詞です。",
+    "keywords": ["interpret 意味", "interpret 使い方", "interpret 語源", "interpret 例文", "解釈する 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】(を)解釈する、(意味を)理解する", "note": "interpret A as B（AをBと解釈する）" },
+      { "hinshi": "【動詞】通訳する", "note": "話し言葉を別の言語に訳す" }
+    ],
+    "usages": [
+      { "title": "① 解釈する", "desc": "interpret A as B", "example_en": "She interpreted his silence as agreement.", "example_ja": "彼女は彼の沈黙を同意と解釈した。" },
+      { "title": "② 通訳する", "desc": "話し言葉を訳す", "example_en": "He interpreted for the foreign visitors.", "example_ja": "彼は外国からの訪問者のために通訳した。" }
+    ],
+    "warn": ["通訳（話し言葉）は interpret、翻訳（書き言葉）は translate。名詞は interpretation（解釈・通訳）、通訳者は interpreter"],
+    "etym_note": "ラテン語 interpretari（inter-「間で」+ pret-「取引する・仲介する」＝仲立ちして説明する）に由来します。",
+    "etym_chain": [
+      { "node": "interpretari", "sub": "仲介して説明する", "era": "ラテン語" },
+      { "node": "interpreten", "sub": "解釈する", "era": "中英語" },
+      { "node": "interpret", "sub": "解釈する・通訳する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "interpret A as B", "ja": "AをBと解釈する" },
+      { "en": "interpret the data", "ja": "データを解釈する" },
+      { "en": "interpret for", "ja": "〜のために通訳する" },
+      { "en": "misinterpret", "ja": "誤解する" },
+      { "en": "interpret the results", "ja": "結果を読み解く" },
+      { "en": "hard to interpret", "ja": "解釈しにくい" }
+    ],
+    "related": [
+      { "en": "interpretation", "ja": "解釈・通訳" },
+      { "en": "interpreter", "ja": "通訳者" },
+      { "en": "translate", "ja": "翻訳する" },
+      { "en": "understand", "ja": "理解する" }
+    ],
+    "faq": [
+      { "q": "interpret と translate の違いは？", "a": "interpret は主に「(話し言葉を)通訳する」または「(意味を)解釈する」、translate は「(書き言葉を)翻訳する」です。通訳者は interpreter、翻訳者は translator です。" },
+      { "q": "interpret の名詞形は？", "a": "interpretation（解釈・通訳・演奏解釈）です。人は interpreter（通訳者）です。" }
+    ],
+    "quiz": [
+      { "q": "interpret の意味は？", "A": "解釈する・通訳する", "B": "破壊する", "C": "配達する", "D": "祝う", "correct": "A" },
+      { "q": "「通訳者」を表す語は？", "A": "interpreter", "B": "inventor", "C": "investor", "D": "inspector", "correct": "A" }
+    ]
+  },
+  {
+    "english": "interstellar",
+    "pron": "ˌɪntərˈstelər",
+    "kana": "インターステラー",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "inter-（間の）+ ラテン語 stella（星）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "星間の"],
+    "meaning_main": "星間の／恒星間の（星と星の間の）",
+    "description": "interstellar（インターステラー）の意味・語源を解説。星と星の間の空間に関する「星間の」という意味の形容詞です。",
+    "keywords": ["interstellar 意味", "interstellar 使い方", "interstellar 語源", "interstellar 例文", "星間 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】星間の、恒星間の", "note": "恒星と恒星の間の空間に関する。天文学の語" }
+    ],
+    "usages": [
+      { "title": "① 星と星の間の", "desc": "宇宙空間について", "example_en": "Interstellar space is nearly empty.", "example_ja": "星間空間はほとんど空っぽだ。" },
+      { "title": "② 恒星間の旅", "desc": "interstellar travel", "example_en": "Interstellar travel is still science fiction.", "example_ja": "恒星間の旅はまだSFの世界だ。" }
+    ],
+    "warn": ["inter-（間の）+ stella（星）＝「星と星の間の」。惑星間は interplanetary、銀河間は intergalactic。同名の映画『インターステラー』でも知られる"],
+    "etym_note": "inter-（〜の間の）+ ラテン語 stella（星）を組み合わせた語で、「星と星の間の」を表します。stellar（恒星の）や constellation（星座）と同語根です。",
+    "etym_chain": [
+      { "node": "stella", "sub": "星", "era": "ラテン語" },
+      { "node": "inter + stellar", "sub": "星の間の", "era": "近代英語" },
+      { "node": "interstellar", "sub": "星間の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "interstellar space", "ja": "星間空間" },
+      { "en": "interstellar travel", "ja": "恒星間の旅" },
+      { "en": "interstellar dust", "ja": "星間物質・星間塵" },
+      { "en": "interstellar medium", "ja": "星間物質" },
+      { "en": "an interstellar journey", "ja": "星間の旅" },
+      { "en": "interstellar gas", "ja": "星間ガス" }
+    ],
+    "related": [
+      { "en": "stellar", "ja": "恒星の" },
+      { "en": "interplanetary", "ja": "惑星間の" },
+      { "en": "galaxy", "ja": "銀河" },
+      { "en": "space", "ja": "宇宙・空間" }
+    ],
+    "faq": [
+      { "q": "interstellar とは？", "a": "「星間の・恒星間の」という意味で、恒星（星）と恒星の間の広大な空間に関することを表す天文学の語です。" },
+      { "q": "interstellar と interplanetary の違いは？", "a": "interstellar は「星（恒星）と星の間の」、interplanetary は「惑星と惑星の間の」です。スケールが大きく異なります。" }
+    ],
+    "quiz": [
+      { "q": "interstellar の意味は？", "A": "星間の・恒星間の", "B": "地下の", "C": "海底の", "D": "地上の", "correct": "A" },
+      { "q": "interstellar の -stellar が表すのは？", "A": "星", "B": "水", "C": "光", "D": "音", "correct": "A" }
+    ]
+  },
+  {
+    "english": "intest",
+    "pron": "ˈɪntrəst",
+    "kana": "インタレスト",
+    "hinshi": "つづり間違い（英単語ではありません）",
+    "ld_pos": "misspelling",
+    "ld_etym": "interest などのつづり間違いか",
+    "ld_level": "つづり注意",
+    "badges": ["英単語ではありません", "たぶん interest", "つづり間違い", "スペル注意"],
+    "meaning_main": "※これは英単語ではありません。つづり間違いで、おそらく interest（興味・利子）",
+    "description": "intest は英単語ではありません。つづり間違いで、おそらく interest（興味・関心・利子）を打とうとしたものと思われます。",
+    "keywords": ["intest 正しい", "intest interest", "intest つづり", "interest 意味", "興味 英語"],
+    "meanings": [
+      { "hinshi": "【たぶん interest】興味、関心、利子、利害", "note": "intest は文字が足りない誤り。正しくは in-ter-est で interest" }
+    ],
+    "usages": [
+      { "title": "① interest（興味）だとすると", "desc": "興味・関心を持つ", "example_en": "I have a strong interest in music.", "example_ja": "私は音楽に強い興味がある。（正: interest）" },
+      { "title": "② 利子・金利", "desc": "銀行の利子", "example_en": "The loan has a high interest rate.", "example_ja": "そのローンは金利が高い。（正: interest）" }
+    ],
+    "warn": ["intest は英単語ではありません。文脈から interest（興味・関心・利子）のつづり間違いと考えられます。正しくは in-ter-est。intestine（腸）の入力途中の可能性もあります"],
+    "etym_note": "interest はラテン語 interest（重要である、inter-「間に」+ esse「ある」）に由来します。intest という語は英語には存在しません。",
+    "etym_chain": [
+      { "node": "interesse", "sub": "重要である", "era": "ラテン語" },
+      { "node": "interest", "sub": "興味・利子（正しい語）", "era": "中英語" },
+      { "node": "intest", "sub": "存在しないつづり", "era": "つづり間違い" }
+    ],
+    "phrases": [
+      { "en": "interest (正)", "ja": "興味・利子（候補）" },
+      { "en": "intest (誤)", "ja": "つづり間違い" },
+      { "en": "have an interest in", "ja": "〜に興味がある" },
+      { "en": "an interest rate", "ja": "金利" },
+      { "en": "lose interest", "ja": "興味を失う" },
+      { "en": "of interest", "ja": "興味深い" }
+    ],
+    "related": [
+      { "en": "interest", "ja": "興味・利子（候補）" },
+      { "en": "interesting", "ja": "興味深い" },
+      { "en": "interested", "ja": "興味を持った" },
+      { "en": "curiosity", "ja": "好奇心" }
+    ],
+    "faq": [
+      { "q": "intest は正しい英単語ですか？", "a": "いいえ、英単語ではありません。文脈から interest（興味・関心・利子）のつづり間違いと考えられます。正しくは in-ter-est です。" },
+      { "q": "interest の意味は？", "a": "「興味・関心」のほか、「(お金の)利子・金利」「利害・利益」の意味もあります。an interest rate は「金利」です。" }
+    ],
+    "quiz": [
+      { "q": "intest は正しい英単語？", "A": "いいえ、つづり間違い", "B": "はい、興味の意味", "C": "はい、利子の意味", "D": "はい、地名", "correct": "A" },
+      { "q": "「興味・利子」の正しいつづりは？", "A": "interest", "B": "intest", "C": "intrest", "D": "interst", "correct": "A" }
+    ]
+  },
+  {
+    "english": "intetact",
+    "pron": "ˌɪntərˈækt",
+    "kana": "インタラクト",
+    "hinshi": "つづり間違い（正しくは interact）",
+    "ld_pos": "misspelling",
+    "ld_etym": "interact のつづり間違い",
+    "ld_level": "つづり注意",
+    "badges": ["つづり間違い", "正しくは interact", "英単語ではありません", "スペル注意"],
+    "meaning_main": "※これはつづり間違いです。正しくは interact（交流する・相互に作用する）",
+    "description": "intetact は interact のつづり間違いです。r が t になっています。正しくは interact（交流する・相互に作用する）と書きます。",
+    "keywords": ["intetact 正しい", "intetact interact", "intetact つづり", "interact 意味", "交流する 英語"],
+    "meanings": [
+      { "hinshi": "【正しくは interact】交流する、ふれあう、相互に作用する", "note": "intetact は r が t になった誤り。正しくは in-ter-act で interact" }
+    ],
+    "usages": [
+      { "title": "① 正しいつづりは interact", "desc": "in-ter-act（ter の r に注意）", "example_en": "Children learn by interacting with others.", "example_ja": "子どもは他者と交流することで学ぶ。（正: interact）" },
+      { "title": "② 相互に作用する", "desc": "interact with ～", "example_en": "These chemicals interact with each other.", "example_ja": "これらの化学物質は互いに作用し合う。（正: interact）" }
+    ],
+    "warn": ["intetact は誤り（r が t になっている）。正しくは interact。inter-（相互に）+ act（行動する）＝「互いに働きかける」。名詞は interaction（交流・相互作用）、形容詞 interactive（双方向の）"],
+    "etym_note": "正しい語 interact は、inter-（相互に）+ act（行動する、ラテン語 agere「行う」から）で、「互いに働きかける」を表します。action（行動）と同語根です。",
+    "etym_chain": [
+      { "node": "inter + act", "sub": "相互に + 行動する", "era": "近代英語" },
+      { "node": "interact", "sub": "交流する（正しいつづり）", "era": "近代英語" },
+      { "node": "intetact", "sub": "誤ったつづり", "era": "つづり間違い" }
+    ],
+    "phrases": [
+      { "en": "interact (正)", "ja": "交流する（正しいつづり）" },
+      { "en": "intetact (誤)", "ja": "つづり間違い" },
+      { "en": "interact with", "ja": "〜と交流する・作用する" },
+      { "en": "interaction (名詞)", "ja": "交流・相互作用" },
+      { "en": "interactive", "ja": "双方向の・対話型の" },
+      { "en": "social interaction", "ja": "社会的交流" }
+    ],
+    "related": [
+      { "en": "interact", "ja": "交流する（正しい語）" },
+      { "en": "interaction", "ja": "交流・相互作用" },
+      { "en": "communicate", "ja": "意思を伝える" },
+      { "en": "cooperate", "ja": "協力する" }
+    ],
+    "faq": [
+      { "q": "intetact は正しいつづり？", "a": "いいえ、r が t になった間違いです。正しくは interact（in-ter-act）で、「交流する・ふれあう・相互に作用する」を意味します。" },
+      { "q": "interact の名詞形は？", "a": "interaction（交流・相互作用）です。形容詞 interactive は「双方向の・対話型の」を意味します。" }
+    ],
+    "quiz": [
+      { "q": "正しいつづりはどれ？", "A": "interact", "B": "intetact", "C": "interct", "D": "intaract", "correct": "A" },
+      { "q": "interact の意味は？", "A": "交流する・相互に作用する", "B": "孤立する", "C": "破壊する", "D": "祝う", "correct": "A" }
+    ]
+  },
+  {
+    "english": "intrigue",
+    "pron": "ɪnˈtriːɡ",
+    "kana": "イントリーグ",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "verb",
+    "ld_etym": "イタリア語 intrigare（もつれさせる）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "興味をそそる"],
+    "meaning_main": "(の)興味をそそる／(名詞)陰謀・策略",
+    "description": "intrigue（イントリーグ）の意味・使い方・語源を解説。興味をそそる、陰謀という意味の動詞・名詞です。",
+    "keywords": ["intrigue 意味", "intrigue 使い方", "intrigue 語源", "intrigue 例文", "興味をそそる 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】(の)興味をそそる、好奇心をかき立てる", "note": "be intrigued by ～（〜に興味をそそられる）" },
+      { "hinshi": "【名詞】陰謀、策略、たくらみ", "note": "political intrigue（政治的陰謀）" }
+    ],
+    "usages": [
+      { "title": "① 興味をそそる（動詞）", "desc": "be intrigued by ～", "example_en": "The mystery intrigued her.", "example_ja": "その謎は彼女の興味をそそった。" },
+      { "title": "② 陰謀（名詞）", "desc": "たくらみ", "example_en": "The palace was full of intrigue.", "example_ja": "宮廷は陰謀に満ちていた。" }
+    ],
+    "warn": ["形容詞 intriguing は「興味をそそる」、be intrigued は「興味をそそられた」。名詞では「陰謀・策略」。「もつれさせる」が語源で trick（策略）と近い"],
+    "etym_note": "イタリア語 intrigare（もつれさせる、ラテン語 intricare「もつれさせる」から）に由来します。「複雑にもつれさせる」から「陰謀」「(謎めいて)興味をそそる」の意味に。",
+    "etym_chain": [
+      { "node": "intricare", "sub": "もつれさせる", "era": "ラテン語" },
+      { "node": "intrigare", "sub": "もつれさせる・たくらむ", "era": "イタリア語" },
+      { "node": "intrigue", "sub": "興味をそそる・陰謀", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be intrigued by", "ja": "〜に興味をそそられる" },
+      { "en": "intriguing", "ja": "興味をそそる" },
+      { "en": "political intrigue", "ja": "政治的陰謀" },
+      { "en": "an air of intrigue", "ja": "謎めいた雰囲気" },
+      { "en": "full of intrigue", "ja": "陰謀に満ちた" },
+      { "en": "intrigue and mystery", "ja": "陰謀と謎" }
+    ],
+    "related": [
+      { "en": "intriguing", "ja": "興味をそそる" },
+      { "en": "fascinate", "ja": "魅了する" },
+      { "en": "plot", "ja": "陰謀・筋書き" },
+      { "en": "scheme", "ja": "たくらみ" }
+    ],
+    "faq": [
+      { "q": "be intrigued by とは？", "a": "「〜に興味をそそられる・好奇心をかき立てられる」という意味です。I was intrigued by the story.（その話に引き込まれた）のように使います。" },
+      { "q": "名詞の intrigue の意味は？", "a": "「陰謀・策略・たくらみ」です。political intrigue（政治的陰謀）のように使います。「もつれさせる」という語源から来ています。" }
+    ],
+    "quiz": [
+      { "q": "動詞 intrigue の意味は？", "A": "興味をそそる", "B": "退屈させる", "C": "怒らせる", "D": "眠らせる", "correct": "A" },
+      { "q": "名詞 intrigue の意味は？", "A": "陰謀・策略", "B": "友情", "C": "祝福", "D": "休息", "correct": "A" }
+    ]
+  },
+  {
+    "english": "invention",
+    "pron": "ɪnˈvenʃn",
+    "kana": "インベンション",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 invenire（見つけ出す・考え出す）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "発明"],
+    "meaning_main": "発明／発明品／(事実でない)作り話",
+    "description": "invention（インベンション）の意味・使い方・語源を解説。発明、発明品という意味の名詞です。",
+    "keywords": ["invention 意味", "invention 使い方", "invention 語源", "invention 例文", "発明 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】発明、発明品", "note": "新しく作り出すこと・作り出されたもの" },
+      { "hinshi": "【名詞】(事実でない)作り話、でっち上げ", "note": "a pure invention（まったくの作り話）" }
+    ],
+    "usages": [
+      { "title": "① 発明・発明品", "desc": "新しく作り出したもの", "example_en": "The telephone was a great invention.", "example_ja": "電話は偉大な発明だった。" },
+      { "title": "② 作り話", "desc": "事実でない話", "example_en": "His excuse was a complete invention.", "example_ja": "彼の言い訳はまったくのでっち上げだった。" }
+    ],
+    "warn": ["動詞は invent（発明する・でっち上げる）。discovery（発見＝もとからあるものを見つける）とは別。「必要は発明の母」Necessity is the mother of invention."],
+    "etym_note": "ラテン語 invenire（in-「上に」+ venire「来る」＝行き当たる・考え出す）から生まれた inventio に由来します。venture（冒険）や event（出来事）と同語根です。",
+    "etym_chain": [
+      { "node": "invenire", "sub": "見つけ出す・考え出す", "era": "ラテン語" },
+      { "node": "inventio", "sub": "考案", "era": "ラテン語" },
+      { "node": "invention", "sub": "発明", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a great invention", "ja": "偉大な発明" },
+      { "en": "a new invention", "ja": "新しい発明品" },
+      { "en": "the invention of", "ja": "〜の発明" },
+      { "en": "a pure invention", "ja": "まったくの作り話" },
+      { "en": "Necessity is the mother of invention.", "ja": "必要は発明の母" },
+      { "en": "a clever invention", "ja": "巧妙な発明" }
+    ],
+    "related": [
+      { "en": "invent", "ja": "発明する" },
+      { "en": "inventor", "ja": "発明家" },
+      { "en": "discovery", "ja": "発見" },
+      { "en": "creation", "ja": "創造・創作" }
+    ],
+    "faq": [
+      { "q": "invention と discovery の違いは？", "a": "invention（発明）は「新しく作り出すこと」、discovery（発見）は「もともとあったものを見つけ出すこと」です。機械は invent、惑星は discover します。" },
+      { "q": "invention に「作り話」の意味もある？", "a": "はい。「事実でない作り話・でっち上げ」の意味もあります。a pure invention（まったくの作り話）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "invention の意味は？", "A": "発明・発明品", "B": "発見", "C": "破壊", "D": "会話", "correct": "A" },
+      { "q": "invention の動詞形は？", "A": "invent", "B": "invest", "C": "invite", "D": "involve", "correct": "A" }
+    ]
+  },
+  {
+    "english": "invest",
+    "pron": "ɪnˈvest",
+    "kana": "インベスト",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "ラテン語 investire（衣服を着せる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "投資する"],
+    "meaning_main": "(お金・時間・労力を)投資する／(に)つぎ込む",
+    "description": "invest（インベスト）の意味・使い方・語源を解説。お金や時間を投資する、つぎ込むという意味の動詞です。",
+    "keywords": ["invest 意味", "invest 使い方", "invest 語源", "invest 例文", "投資する 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】(お金を)投資する", "note": "利益を期待してお金を出す" },
+      { "hinshi": "【動詞】(時間・労力を)つぎ込む、注ぐ", "note": "invest time in ～" }
+    ],
+    "usages": [
+      { "title": "① お金を投資する", "desc": "invest in ～", "example_en": "She invested in real estate.", "example_ja": "彼女は不動産に投資した。" },
+      { "title": "② 時間・労力をつぎ込む", "desc": "invest time/effort in ～", "example_en": "He invested a lot of time in the project.", "example_ja": "彼はその企画に多くの時間をつぎ込んだ。" }
+    ],
+    "warn": ["invest in ～（〜に投資する・つぎ込む）。名詞は investment（投資）、投資家は investor。「衣服を着せる」が語源（お金に役割を「着せる」イメージ）"],
+    "etym_note": "ラテン語 investire（in-「中に」+ vestire「衣服を着せる」）に由来します。もとは「(役職の)衣服を着せる＝就任させる」で、後に「お金に役割を与える＝投資する」の意味に。vest（ベスト）と同語根です。",
+    "etym_chain": [
+      { "node": "vestire", "sub": "衣服を着せる", "era": "ラテン語" },
+      { "node": "investire", "sub": "着せる・就任させる", "era": "ラテン語" },
+      { "node": "invest", "sub": "投資する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "invest in", "ja": "〜に投資する・つぎ込む" },
+      { "en": "invest money", "ja": "お金を投資する" },
+      { "en": "invest time", "ja": "時間をつぎ込む" },
+      { "en": "a good investment", "ja": "良い投資" },
+      { "en": "invest heavily", "ja": "多額を投資する" },
+      { "en": "invest in the future", "ja": "将来に投資する" }
+    ],
+    "related": [
+      { "en": "investment", "ja": "投資" },
+      { "en": "investor", "ja": "投資家" },
+      { "en": "fund", "ja": "資金・出資する" },
+      { "en": "finance", "ja": "融資する" }
+    ],
+    "faq": [
+      { "q": "invest in とは？", "a": "「〜に投資する・(時間・労力を)つぎ込む」という意味です。invest in stocks（株に投資する）、invest in education（教育につぎ込む）のように使います。" },
+      { "q": "invest の名詞形は？", "a": "investment（投資）です。投資する人は investor（投資家）です。" }
+    ],
+    "quiz": [
+      { "q": "invest の意味は？", "A": "投資する・つぎ込む", "B": "浪費する", "C": "破壊する", "D": "隠す", "correct": "A" },
+      { "q": "invest の名詞形は？", "A": "investment", "B": "invention", "C": "invitation", "D": "involvement", "correct": "A" }
+    ]
+  },
+  {
+    "english": "irrelevant",
+    "pron": "ɪˈreləvənt",
+    "kana": "イレレヴァント",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "ir-（否定）+ relevant（関連した）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "無関係の"],
+    "meaning_main": "無関係の／的外れの／重要でない",
+    "description": "irrelevant（イレレヴァント）の意味・使い方・語源を解説。無関係の、的外れのという意味の形容詞です。",
+    "keywords": ["irrelevant 意味", "irrelevant 使い方", "irrelevant 語源", "irrelevant 例文", "無関係の 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】無関係の、的外れの、重要でない", "note": "話題や問題に関係がない。反対は relevant（関連した）" }
+    ],
+    "usages": [
+      { "title": "① 話題に無関係", "desc": "irrelevant to ～", "example_en": "That point is irrelevant to the discussion.", "example_ja": "その点は議論とは無関係だ。" },
+      { "title": "② 的外れな発言", "desc": "重要でない", "example_en": "His comment was completely irrelevant.", "example_ja": "彼の発言はまったく的外れだった。" }
+    ],
+    "warn": ["ir-（否定）+ relevant（関連した）＝「関連がない」。r で始まる語の否定は ir-（irregular, irresponsible と同じ、r が2つ）。irrelevant to ～（〜に無関係）。反対は relevant"],
+    "etym_note": "否定の ir- に relevant（関連した、ラテン語 relevare「持ち上げる・助ける」から）が付いた語です。r で始まる語の前では否定接頭辞が ir- になります。",
+    "etym_chain": [
+      { "node": "relevare", "sub": "持ち上げる・助ける", "era": "ラテン語" },
+      { "node": "relevant", "sub": "関連した", "era": "近代英語" },
+      { "node": "irrelevant", "sub": "無関係の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "irrelevant to", "ja": "〜に無関係の" },
+      { "en": "completely irrelevant", "ja": "まったく的外れの" },
+      { "en": "an irrelevant detail", "ja": "どうでもいい細部" },
+      { "en": "become irrelevant", "ja": "無関係になる・時代遅れになる" },
+      { "en": "largely irrelevant", "ja": "ほぼ無関係の" },
+      { "en": "an irrelevant question", "ja": "的外れな質問" }
+    ],
+    "related": [
+      { "en": "relevant", "ja": "関連した（反対）" },
+      { "en": "unrelated", "ja": "無関係の" },
+      { "en": "immaterial", "ja": "重要でない" },
+      { "en": "beside the point", "ja": "的外れの" }
+    ],
+    "faq": [
+      { "q": "irrelevant の反対語は？", "a": "relevant（関連した・適切な）です。頭の ir- が「否定」を表します。" },
+      { "q": "なぜ ir- なの？", "a": "否定の接頭辞は、r で始まる語の前では発音しやすいように ir- になります（irregular, irresponsible など）。relevant → irrelevant となり、r が2つになります。" }
+    ],
+    "quiz": [
+      { "q": "irrelevant の意味は？", "A": "無関係の・的外れの", "B": "関連した", "C": "重要な", "D": "正確な", "correct": "A" },
+      { "q": "irrelevant の反対語は？", "A": "relevant", "B": "reliable", "C": "relative", "D": "relaxed", "correct": "A" }
+    ]
+  },
+  {
+    "english": "irritat",
+    "pron": "ˈɪrɪteɪt",
+    "kana": "イリテイト",
+    "hinshi": "つづり間違い（正しくは irritate）",
+    "ld_pos": "misspelling",
+    "ld_etym": "irritate のつづり間違い",
+    "ld_level": "つづり注意",
+    "badges": ["つづり間違い", "正しくは irritate", "英単語ではありません", "スペル注意"],
+    "meaning_main": "※これはつづり間違いです。正しくは irritate（いらだたせる・刺激する）",
+    "description": "irritat は irritate のつづり間違いです。語尾の e が抜けています。正しくは irritate（いらだたせる・刺激する）と書きます。",
+    "keywords": ["irritat 正しい", "irritat irritate", "irritat つづり", "irritate 意味", "いらだたせる 英語"],
+    "meanings": [
+      { "hinshi": "【正しくは irritate】いらだたせる、怒らせる、(皮膚などを)刺激する", "note": "irritat は語尾の e が抜けた誤り。正しくは irri-t-a-t-e で irritate" }
+    ],
+    "usages": [
+      { "title": "① 正しいつづりは irritate", "desc": "irritate（語尾に e）", "example_en": "His rude comments irritated me.", "example_ja": "彼の無礼な発言は私をいらだたせた。（正: irritate）" },
+      { "title": "② 皮膚を刺激する", "desc": "肌がひりひりする", "example_en": "The soap can irritate the skin.", "example_ja": "その石けんは肌を刺激することがある。（正: irritate）" }
+    ],
+    "warn": ["irritat は誤り（語尾の e が抜けている）。正しくは irritate。名詞は irritation（いらだち・刺激）、形容詞 irritable（怒りっぽい）／irritated（いらだった）／irritating（いらだたせる）"],
+    "etym_note": "正しい語 irritate は、ラテン語 irritare（いらだたせる・刺激する）に由来します。r が2つで語尾に e が付き、irritate と綴ります。",
+    "etym_chain": [
+      { "node": "irritare", "sub": "いらだたせる・刺激する", "era": "ラテン語" },
+      { "node": "irritate", "sub": "いらだたせる（正しいつづり）", "era": "近代英語" },
+      { "node": "irritat", "sub": "誤ったつづり", "era": "つづり間違い" }
+    ],
+    "phrases": [
+      { "en": "irritate (正)", "ja": "いらだたせる（正しいつづり）" },
+      { "en": "irritat (誤)", "ja": "つづり間違い" },
+      { "en": "irritate someone", "ja": "人をいらだたせる" },
+      { "en": "irritate the skin", "ja": "肌を刺激する" },
+      { "en": "irritation (名詞)", "ja": "いらだち・刺激" },
+      { "en": "irritating (形容詞)", "ja": "いらだたせる" }
+    ],
+    "related": [
+      { "en": "irritate", "ja": "いらだたせる（正しい語）" },
+      { "en": "irritation", "ja": "いらだち・刺激" },
+      { "en": "annoy", "ja": "いらだたせる" },
+      { "en": "bother", "ja": "悩ませる" }
+    ],
+    "faq": [
+      { "q": "irritat は正しいつづり？", "a": "いいえ、語尾の e が抜けた間違いです。正しくは irritate（irri-t-a-t-e）で、「いらだたせる・刺激する」を意味します。" },
+      { "q": "irritate の名詞形は？", "a": "irritation（いらだち・刺激）です。形容詞は irritated（いらだった）、irritating（いらだたせる）、irritable（怒りっぽい）です。" }
+    ],
+    "quiz": [
+      { "q": "正しいつづりはどれ？", "A": "irritate", "B": "irritat", "C": "iritate", "D": "irritait", "correct": "A" },
+      { "q": "irritate の意味は？", "A": "いらだたせる・刺激する", "B": "喜ばせる", "C": "落ち着かせる", "D": "祝う", "correct": "A" }
+    ]
+  },
+  {
+    "english": "itwistedmyankle",
+    "pron": "aɪ ˈtwɪstɪd maɪ ˈæŋkl",
+    "kana": "アイ・トゥイステッド・マイ・アンクル",
+    "hinshi": "文（スペースなしで入力された英文）",
+    "ld_pos": "phrase",
+    "ld_etym": "I twisted my ankle をつなげたもの",
+    "ld_level": "文の解説",
+    "badges": ["文の入力", "スペース抜け", "I twisted my ankle", "フレーズ解説"],
+    "meaning_main": "※これは単語ではなく英文です。I twisted my ankle.（足首をひねった／捻挫した）をスペースなしで入力したもの",
+    "description": "itwistedmyankle は単語ではなく、英文 I twisted my ankle.（足首をひねった）をスペースなしで続けて入力したものです。正しくは I twisted my ankle. と分けて書きます。",
+    "keywords": ["itwistedmyankle 意味", "I twisted my ankle", "足首 ひねった 英語", "twist ankle", "捻挫 英語"],
+    "meanings": [
+      { "hinshi": "【英文】I twisted my ankle.（足首をひねった・捻挫した）", "note": "itwistedmyankle は単語ではなく、この文をスペースなしでつなげたもの。正しくは I / twisted / my / ankle と分ける" }
+    ],
+    "usages": [
+      { "title": "① 正しくは I twisted my ankle.", "desc": "足首をひねった", "example_en": "I twisted my ankle while running.", "example_ja": "走っているときに足首をひねった。" },
+      { "title": "② twist（ひねる）+ ankle（足首）", "desc": "捻挫を表す言い方", "example_en": "Be careful not to twist your ankle.", "example_ja": "足首をひねらないよう気をつけて。" }
+    ],
+    "warn": ["itwistedmyankle は単語ではなく、I twisted my ankle.（足首をひねった）という英文をスペースなしで続けて入力したものです。単語ごとにスペースを空けて書きましょう"],
+    "etym_note": "I（私は）+ twisted（twist「ひねる」の過去形）+ my（私の）+ ankle（足首）からなる文です。twist は「ねじる・ひねる」、ankle は「足首」です。",
+    "etym_chain": [
+      { "node": "I twisted my ankle", "sub": "私は足首をひねった", "era": "英文" },
+      { "node": "itwistedmyankle", "sub": "スペースを省いた入力", "era": "入力ミス" },
+      { "node": "I twisted my ankle.", "sub": "正しい書き方", "era": "英語" }
+    ],
+    "phrases": [
+      { "en": "twist one's ankle", "ja": "足首をひねる・捻挫する" },
+      { "en": "sprain one's ankle", "ja": "足首を捻挫する" },
+      { "en": "I twisted my ankle.", "ja": "足首をひねった。" },
+      { "en": "a twisted ankle", "ja": "ひねった足首" },
+      { "en": "hurt one's ankle", "ja": "足首を痛める" },
+      { "en": "a sprained ankle", "ja": "捻挫した足首" }
+    ],
+    "related": [
+      { "en": "twist", "ja": "ひねる・ねじる" },
+      { "en": "ankle", "ja": "足首" },
+      { "en": "sprain", "ja": "捻挫する" },
+      { "en": "injury", "ja": "けが" }
+    ],
+    "faq": [
+      { "q": "itwistedmyankle とは？", "a": "単語ではなく、I twisted my ankle.（足首をひねった・捻挫した）という英文をスペースなしで続けて入力したものです。正しくは単語ごとにスペースを空けて I twisted my ankle. と書きます。" },
+      { "q": "「足首をひねった」を英語で？", "a": "I twisted my ankle. または I sprained my ankle.（足首を捻挫した）と言います。twist は「ひねる」、ankle は「足首」です。" }
+    ],
+    "quiz": [
+      { "q": "itwistedmyankle は何？", "A": "英文「足首をひねった」をつなげたもの", "B": "1つの英単語", "C": "地名", "D": "料理名", "correct": "A" },
+      { "q": "「足首」を表す英語は？", "A": "ankle", "B": "elbow", "C": "wrist", "D": "knee", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ivory",
+    "pron": "ˈaɪvəri",
+    "kana": "アイヴォリー",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 ebur（象牙）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "象牙"],
+    "meaning_main": "象牙／象牙色（クリーム色がかった白）",
+    "description": "ivory（アイヴォリー）の意味・使い方・語源を解説。象牙、象牙色という意味の名詞・形容詞です。",
+    "keywords": ["ivory 意味", "ivory 使い方", "ivory 語源", "ivory 例文", "象牙 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】象牙", "note": "ゾウの牙。細工物などに使われた。不可算" },
+      { "hinshi": "【名詞・形容詞】象牙色(の)、乳白色(の)", "note": "クリーム色がかった白" }
+    ],
+    "usages": [
+      { "title": "① 象牙", "desc": "ゾウの牙", "example_en": "The trade in ivory is now banned.", "example_ja": "象牙の取引は現在禁止されている。" },
+      { "title": "② 象牙色", "desc": "クリーム色がかった白", "example_en": "She wore an ivory dress.", "example_ja": "彼女は象牙色のドレスを着ていた。" }
+    ],
+    "warn": ["象牙の取引はゾウ保護のため多くの国で禁止・規制されている。an ivory tower は「象牙の塔（現実離れした学問の世界）」。tusk（牙）から採れる"],
+    "etym_note": "ラテン語 ebur（象牙）に由来し、古フランス語 ivurie を経て英語へ入りました。",
+    "etym_chain": [
+      { "node": "ebur", "sub": "象牙", "era": "ラテン語" },
+      { "node": "ivurie", "sub": "象牙", "era": "古フランス語" },
+      { "node": "ivory", "sub": "象牙・象牙色", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the ivory trade", "ja": "象牙の取引" },
+      { "en": "an ivory tower", "ja": "象牙の塔(現実離れした世界)" },
+      { "en": "ivory white", "ja": "象牙色・乳白色" },
+      { "en": "carved ivory", "ja": "彫刻された象牙" },
+      { "en": "an ivory dress", "ja": "象牙色のドレス" },
+      { "en": "elephant ivory", "ja": "ゾウの象牙" }
+    ],
+    "related": [
+      { "en": "elephant", "ja": "ゾウ" },
+      { "en": "tusk", "ja": "牙" },
+      { "en": "cream", "ja": "クリーム色" },
+      { "en": "bone", "ja": "骨" }
+    ],
+    "faq": [
+      { "q": "an ivory tower とは？", "a": "「象牙の塔」という比喩で、現実の問題から切り離された学問や思索の世界を指します。しばしば「現実離れした」という否定的な含みで使われます。" },
+      { "q": "ivory は色も表す？", "a": "はい。「象牙色・乳白色（クリーム色がかった白）」という色も表します。ivory white とも言います。" }
+    ],
+    "quiz": [
+      { "q": "ivory の意味は？", "A": "象牙・象牙色", "B": "金", "C": "銀", "D": "鉄", "correct": "A" },
+      { "q": "ivory は何から採れる？", "A": "ゾウの牙", "B": "貝殻", "C": "木", "D": "石", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jamany",
+    "pron": "ˈdʒɜːrməni",
+    "kana": "ジャーマニー",
+    "hinshi": "つづり間違い（正しくは Germany）",
+    "ld_pos": "misspelling",
+    "ld_etym": "Germany のつづり間違い",
+    "ld_level": "つづり注意",
+    "badges": ["つづり間違い", "正しくは Germany", "国名", "スペル注意"],
+    "meaning_main": "※これはつづり間違いです。正しくは Germany（ドイツ）",
+    "description": "jamany は Germany のつづり間違いです。正しくは Germany（ドイツ）と書きます。発音「ジャーマニー」につられた誤りです。",
+    "keywords": ["jamany 正しい", "jamany Germany", "jamany つづり", "Germany ドイツ", "ドイツ 英語"],
+    "meanings": [
+      { "hinshi": "【正しくは Germany】ドイツ（中央ヨーロッパの国）", "note": "jamany は発音につられた誤り。正しくは Ger-ma-ny で Germany（大文字で始める）" }
+    ],
+    "usages": [
+      { "title": "① 正しいつづりは Germany", "desc": "Ger-ma-ny（Gで始まる）", "example_en": "Berlin is the capital of Germany.", "example_ja": "ベルリンはドイツの首都だ。（正: Germany）" },
+      { "title": "② 中央ヨーロッパの国", "desc": "ドイツ", "example_en": "She studied in Germany.", "example_ja": "彼女はドイツで学んだ。（正: Germany）" }
+    ],
+    "warn": ["jamany は誤り。正しくは Germany（Ger- で始まる、固有名詞なので大文字）。発音「ジャーマニー」/ˈdʒɜːrməni/ につられて誤りやすい。形容詞・国民・言語は German（ドイツの・ドイツ人・ドイツ語）"],
+    "etym_note": "正しい語 Germany は、ラテン語 Germania（ゲルマン人の地）に由来します。ゲルマン諸部族の名から来ています。日本語「ドイツ」はドイツ語 Deutschland から来ています。",
+    "etym_chain": [
+      { "node": "Germania", "sub": "ゲルマン人の地", "era": "ラテン語" },
+      { "node": "Germany", "sub": "ドイツ（正しいつづり）", "era": "英語" },
+      { "node": "jamany", "sub": "誤ったつづり", "era": "つづり間違い" }
+    ],
+    "phrases": [
+      { "en": "Germany (正)", "ja": "ドイツ（正しいつづり）" },
+      { "en": "jamany (誤)", "ja": "つづり間違い" },
+      { "en": "the capital of Germany", "ja": "ドイツの首都" },
+      { "en": "travel to Germany", "ja": "ドイツへ旅行する" },
+      { "en": "made in Germany", "ja": "ドイツ製" },
+      { "en": "German (形容詞)", "ja": "ドイツの・ドイツ人・ドイツ語" }
+    ],
+    "related": [
+      { "en": "germany", "ja": "ドイツ（正しい語）" },
+      { "en": "german", "ja": "ドイツの・ドイツ人" },
+      { "en": "europe", "ja": "ヨーロッパ" },
+      { "en": "berlin", "ja": "ベルリン(首都)" }
+    ],
+    "faq": [
+      { "q": "jamany は正しいつづり？", "a": "いいえ、つづり間違いです。正しくは Germany（Ger- で始まる、大文字）で、中央ヨーロッパの国「ドイツ」を意味します。" },
+      { "q": "Germany の形容詞・国民・言語は？", "a": "German です。「ドイツの」「ドイツ人」「ドイツ語」のいずれも表します。" }
+    ],
+    "quiz": [
+      { "q": "正しいつづりはどれ？", "A": "Germany", "B": "jamany", "C": "Jermany", "D": "Germeny", "correct": "A" },
+      { "q": "Germany の形容詞（〜の・〜人）は？", "A": "German", "B": "Germanish", "C": "Germanian", "D": "Germanese", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jouy",
+    "pron": "dʒɔɪ",
+    "kana": "ジョイ",
+    "hinshi": "つづり間違い（正しくは joy）",
+    "ld_pos": "misspelling",
+    "ld_etym": "joy のつづり間違い",
+    "ld_level": "つづり注意",
+    "badges": ["つづり間違い", "正しくは joy", "英単語ではありません", "スペル注意"],
+    "meaning_main": "※これはつづり間違いです。正しくは joy（喜び・うれしさ）",
+    "description": "jouy は joy のつづり間違いです。u が余分です。正しくは joy（喜び・うれしさ）と書きます。",
+    "keywords": ["jouy 正しい", "jouy joy", "jouy つづり", "joy 意味", "喜び 英語"],
+    "meanings": [
+      { "hinshi": "【正しくは joy】喜び、うれしさ、楽しみ", "note": "jouy は u が余分な誤り。正しくは j-o-y で joy" }
+    ],
+    "usages": [
+      { "title": "① 正しいつづりは joy", "desc": "j-o-y（u は入らない）", "example_en": "The children jumped for joy.", "example_ja": "子どもたちは喜んで飛び跳ねた。（正: joy）" },
+      { "title": "② 喜びを与えるもの", "desc": "a joy to ～", "example_en": "It's a joy to see you.", "example_ja": "あなたに会えてうれしい。（正: joy）" }
+    ],
+    "warn": ["jouy は誤り（u が余分）。正しくは joy（j-o-y の3文字）。形容詞は joyful（喜びに満ちた）／joyous（うれしい）。enjoy（楽しむ）とも関連。反対は sorrow（悲しみ）"],
+    "etym_note": "正しい語 joy は、古フランス語 joie（喜び、ラテン語 gaudium「喜び」から）に由来します。j-o-y の3文字で綴ります。enjoy（楽しむ）と同語源です。",
+    "etym_chain": [
+      { "node": "gaudium", "sub": "喜び", "era": "ラテン語" },
+      { "node": "joie", "sub": "喜び", "era": "古フランス語" },
+      { "node": "joy", "sub": "喜び（正しいつづり）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "joy (正)", "ja": "喜び（正しいつづり）" },
+      { "en": "jouy (誤)", "ja": "つづり間違い" },
+      { "en": "jump for joy", "ja": "喜んで飛び跳ねる" },
+      { "en": "tears of joy", "ja": "うれし涙" },
+      { "en": "full of joy", "ja": "喜びに満ちた" },
+      { "en": "a joy to watch", "ja": "見ていて楽しい" }
+    ],
+    "related": [
+      { "en": "joy", "ja": "喜び（正しい語）" },
+      { "en": "joyful", "ja": "喜びに満ちた" },
+      { "en": "enjoy", "ja": "楽しむ" },
+      { "en": "sorrow", "ja": "悲しみ（反対）" }
+    ],
+    "faq": [
+      { "q": "jouy は正しいつづり？", "a": "いいえ、u が余分な間違いです。正しくは joy（j-o-y の3文字）で、「喜び・うれしさ・楽しみ」を意味します。" },
+      { "q": "joy の形容詞形は？", "a": "joyful（喜びに満ちた）や joyous（うれしい・楽しい）です。動詞的には enjoy（楽しむ）が関連します。" }
+    ],
+    "quiz": [
+      { "q": "正しいつづりはどれ？", "A": "joy", "B": "jouy", "C": "joi", "D": "joye", "correct": "A" },
+      { "q": "joy の意味は？", "A": "喜び・うれしさ", "B": "悲しみ", "C": "怒り", "D": "恐怖", "correct": "A" }
+    ]
+  },
+  {
+    "english": "junction",
+    "pron": "ˈdʒʌŋkʃn",
+    "kana": "ジャンクション",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 jungere（つなぐ）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "交差点"],
+    "meaning_main": "交差点／接合点／(道路・線路の)分岐点・合流点",
+    "description": "junction（ジャンクション）の意味・使い方・語源を解説。交差点、接合点という意味の名詞です。",
+    "keywords": ["junction 意味", "junction 使い方", "junction 語源", "junction 例文", "交差点 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】(道路・線路の)交差点、分岐点、合流点", "note": "道や線路が交わる・分かれる場所" },
+      { "hinshi": "【名詞】接合点、連結部", "note": "物がつながる箇所" }
+    ],
+    "usages": [
+      { "title": "① 道路・線路の交差点", "desc": "道が交わる場所", "example_en": "Turn left at the next junction.", "example_ja": "次の交差点で左に曲がって。" },
+      { "title": "② 接合点", "desc": "物がつながる箇所", "example_en": "The pipe leaked at the junction.", "example_ja": "パイプは接合部で漏れていた。" }
+    ],
+    "warn": ["intersection（交差点）と近いが、junction は「(高速道路の)ジャンクション・分岐合流点」や「(鉄道の)接続駅」にも使う。動詞 join（つなぐ）と同語根"],
+    "etym_note": "ラテン語 jungere（つなぐ・結ぶ）から生まれた junctio に由来し、join（つなぐ）や joint（継ぎ目）と同語根です。",
+    "etym_chain": [
+      { "node": "jungere", "sub": "つなぐ", "era": "ラテン語" },
+      { "node": "junctio", "sub": "つなぐこと", "era": "ラテン語" },
+      { "node": "junction", "sub": "交差点・接合点", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a road junction", "ja": "道路の交差点" },
+      { "en": "a railway junction", "ja": "鉄道の分岐点・接続駅" },
+      { "en": "at the junction", "ja": "交差点で" },
+      { "en": "a T-junction", "ja": "T字路" },
+      { "en": "a motorway junction", "ja": "高速道路のジャンクション" },
+      { "en": "the junction of two roads", "ja": "2つの道の合流点" }
+    ],
+    "related": [
+      { "en": "intersection", "ja": "交差点" },
+      { "en": "crossroads", "ja": "十字路" },
+      { "en": "join", "ja": "つなぐ" },
+      { "en": "joint", "ja": "継ぎ目・関節" }
+    ],
+    "faq": [
+      { "q": "junction と intersection の違いは？", "a": "どちらも「交差点」ですが、junction は「(道路・線路が)分岐・合流する地点」やジャンクション、接続駅にも使います。intersection は主に「道路が十字に交わる交差点」を指します。" },
+      { "q": "a T-junction とは？", "a": "「T字路（丁字路）」のことです。道がT字形に交わる場所を指します。" }
+    ],
+    "quiz": [
+      { "q": "junction の意味は？", "A": "交差点・接合点", "B": "行き止まり", "C": "頂上", "D": "地下室", "correct": "A" },
+      { "q": "a railway junction の意味は？", "A": "鉄道の分岐点・接続駅", "B": "鉄道の終点", "C": "鉄道の車庫", "D": "鉄道の踏切", "correct": "A" }
+    ]
+  },
+  {
+    "english": "keen",
+    "pron": "kiːn",
+    "kana": "キーン",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "古英語 cene（勇敢な・鋭い）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "熱心な"],
+    "meaning_main": "熱心な／〜したがっている／(感覚・知力が)鋭い",
+    "description": "keen（キーン）の意味・使い方・語源を解説。熱心な、鋭いという意味の形容詞です。",
+    "keywords": ["keen 意味", "keen 使い方", "keen on 使い方", "keen 例文", "熱心な 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】熱心な、〜したがっている", "note": "be keen on/to ～（〜に熱心・〜したがる）" },
+      { "hinshi": "【形容詞】(感覚・知力が)鋭い、敏感な", "note": "a keen sense of smell（鋭い嗅覚）" }
+    ],
+    "usages": [
+      { "title": "① 熱心な・したがる", "desc": "be keen on/to ～", "example_en": "She is keen on tennis.", "example_ja": "彼女はテニスに熱心だ。" },
+      { "title": "② 感覚が鋭い", "desc": "a keen sense of ～", "example_en": "Dogs have a keen sense of smell.", "example_ja": "犬は鋭い嗅覚を持つ。" }
+    ],
+    "warn": ["be keen on ～（〜に熱心・〜が好き）、be keen to do（〜したがる）。イギリス英語でよく使う。「鋭い」の意味も（a keen mind＝鋭い頭脳）。反対（熱意がない）は indifferent"],
+    "etym_note": "古英語 cene（勇敢な・鋭い）に由来する古い語です。「刃物が鋭い」から「感覚・知力が鋭い」「熱心な」の意味に広がりました。",
+    "etym_chain": [
+      { "node": "cene", "sub": "勇敢な・鋭い", "era": "古英語" },
+      { "node": "kene", "sub": "鋭い・熱心な", "era": "中英語" },
+      { "node": "keen", "sub": "熱心な・鋭い", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be keen on", "ja": "〜に熱心だ・〜が好きだ" },
+      { "en": "be keen to do", "ja": "〜したがっている" },
+      { "en": "a keen interest", "ja": "強い関心" },
+      { "en": "a keen sense of", "ja": "鋭い〜の感覚" },
+      { "en": "a keen eye", "ja": "鋭い観察眼" },
+      { "en": "keen competition", "ja": "激しい競争" }
+    ],
+    "related": [
+      { "en": "eager", "ja": "熱心な" },
+      { "en": "enthusiastic", "ja": "熱意のある" },
+      { "en": "sharp", "ja": "鋭い" },
+      { "en": "acute", "ja": "鋭敏な" }
+    ],
+    "faq": [
+      { "q": "be keen on とは？", "a": "「〜に熱心だ・〜が好きだ」という意味で、特にイギリス英語でよく使います。I'm keen on cooking.（料理が好きだ）のように使います。be keen to do は「〜したがっている」です。" },
+      { "q": "keen の「鋭い」の意味は？", "a": "「(感覚・知力が)鋭い・敏感な」という意味もあります。a keen sense of smell（鋭い嗅覚）、a keen mind（鋭い頭脳）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "keen の意味は？", "A": "熱心な・鋭い", "B": "退屈な", "C": "怠惰な", "D": "鈍い", "correct": "A" },
+      { "q": "be keen on ～ の意味は？", "A": "〜に熱心だ・〜が好きだ", "B": "〜を嫌う", "C": "〜を無視する", "D": "〜を忘れる", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kenya",
+    "pron": "ˈkenjə",
+    "kana": "ケニア",
+    "hinshi": "固有名詞",
+    "ld_pos": "proper noun",
+    "ld_etym": "ケニア山(Mount Kenya)に由来",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "固有名詞", "国名", "ケニア"],
+    "meaning_main": "ケニア（東アフリカの共和国）",
+    "description": "Kenya（ケニア）の意味・語源を解説。東アフリカにある国「ケニア」の英語名です。サバンナの野生動物で知られます。",
+    "keywords": ["Kenya 意味", "Kenya 英語", "ケニア 英語", "Kenya 語源", "Kenya 発音"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ケニア", "note": "東アフリカに位置する共和国。首都はナイロビ。サバンナの野生動物や陸上長距離走の強豪で知られる" }
+    ],
+    "usages": [
+      { "title": "① 東アフリカの国", "desc": "サバンナと野生動物", "example_en": "Kenya is famous for its wildlife safaris.", "example_ja": "ケニアは野生動物のサファリで有名だ。" },
+      { "title": "② 陸上の強豪国", "desc": "長距離走で知られる", "example_en": "Many great runners come from Kenya.", "example_ja": "多くの偉大なランナーがケニア出身だ。" }
+    ],
+    "warn": ["固有名詞なので必ず大文字で Kenya と書く。形容詞・国民は Kenyan（ケニアの・ケニア人）。首都はナイロビ（Nairobi）"],
+    "etym_note": "国名はケニア山（Mount Kenya）に由来します。現地の言葉で「白い山・輝く山」を意味するとされ、赤道近くにありながら山頂に雪をいただくことから名づけられました。",
+    "etym_chain": [
+      { "node": "Kirinyaga (?)", "sub": "白い山・輝く山", "era": "現地の言語" },
+      { "node": "Mount Kenya", "sub": "ケニア山", "era": "近代" },
+      { "node": "Kenya", "sub": "ケニア(国名)", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the capital of Kenya", "ja": "ケニアの首都" },
+      { "en": "travel to Kenya", "ja": "ケニアへ旅行する" },
+      { "en": "a safari in Kenya", "ja": "ケニアでのサファリ" },
+      { "en": "wildlife in Kenya", "ja": "ケニアの野生動物" },
+      { "en": "Mount Kenya", "ja": "ケニア山" },
+      { "en": "Kenyan runners", "ja": "ケニアのランナー" }
+    ],
+    "related": [
+      { "en": "kenyan", "ja": "ケニアの・ケニア人" },
+      { "en": "africa", "ja": "アフリカ" },
+      { "en": "safari", "ja": "サファリ" },
+      { "en": "nairobi", "ja": "ナイロビ(首都)" }
+    ],
+    "faq": [
+      { "q": "Kenya はどこにある国？", "a": "東アフリカに位置する共和国です。首都はナイロビで、サバンナの野生動物（サファリ）や、陸上長距離走の強豪国として知られています。" },
+      { "q": "Kenya の形容詞・国民は？", "a": "Kenyan（ケニアの・ケニア人）です。Kenyan runners（ケニアのランナー）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "Kenya はどこにある国？", "A": "東アフリカ", "B": "南アメリカ", "C": "北ヨーロッパ", "D": "東アジア", "correct": "A" },
+      { "q": "Kenya の形容詞（〜の・〜人）は？", "A": "Kenyan", "B": "Kenyish", "C": "Kenyese", "D": "Kenyian", "correct": "A" }
+    ]
+  }
+]
