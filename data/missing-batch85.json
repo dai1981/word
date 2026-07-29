@@ -1,0 +1,990 @@
+[
+  {
+    "english": "steward",
+    "pron": "ˈstuːərd",
+    "kana": "スチュワード",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "古英語 stigweard(家の番人)",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "職業・社会"],
+    "meaning_main": "（船・飛行機の）接客係／（財産・組織の）管理人・世話役／（資源などの）守り手",
+    "description": "steward（スチュワード）は「（船・飛行機の）接客係」という意味の名詞。乗客の世話をする男性の乗務員を指します（女性は stewardess）。また「（他人の財産・組織・土地の）管理人・世話役」や、「（自然・資源などの）守り手」の意味でも使われる、責任を持って何かを預かり守る人を表す語です。",
+    "keywords": ["steward 意味", "スチュワード 英語", "管理人 英語", "接客係 飛行機", "steward 使い方"],
+    "meanings": [
+      { "hinshi": "【名】（船・飛行機の）接客係、乗務員", "note": "乗客の世話をする係。女性は stewardess。可算" },
+      { "hinshi": "【名】（財産・組織・資源の）管理人、世話役、守り手", "note": "steward of the land（土地の管理人）" }
+    ],
+    "usages": [
+      { "title": "① 接客係・乗務員", "desc": "船や飛行機で乗客の世話をする係を指す使い方。", "example_en": "The steward brought us drinks.", "example_ja": "接客係が私たちに飲み物を持ってきた。" },
+      { "title": "② 管理人・守り手", "desc": "財産や資源を責任を持って管理する人を表す使い方。", "example_en": "We are stewards of the natural world.", "example_ja": "私たちは自然界の守り手だ。" }
+    ],
+    "warn": ["steward は「（船・飛行機の）接客係」（女性は stewardess）や、「（他人のものを預かり守る）管理人・世話役」。名詞 stewardship は「（責任を持った）管理・世話」。近年は flight attendant（客室乗務員）という性別中立の語が一般的です。"],
+    "etym_note": "古英語 stigweard（stig 家・広間 + weard 番人＝家の番人）に由来。「（家や財産の）番人・管理人」の意味です。ward（守る）と同語根です。",
+    "etym_chain": [
+      { "node": "stigweard", "sub": "家の番人", "era": "古英語" },
+      { "node": "steward", "sub": "管理人", "era": "中英語" },
+      { "node": "steward", "sub": "接客係・管理人", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a flight steward", "ja": "飛行機の接客係" },
+      { "en": "a ship's steward", "ja": "船の接客係" },
+      { "en": "steward of the land", "ja": "土地の管理人" },
+      { "en": "environmental stewardship", "ja": "環境の管理・保全" },
+      { "en": "a shop steward", "ja": "（労組の）職場代表" },
+      { "en": "act as a steward", "ja": "世話役を務める" }
+    ],
+    "related": [
+      { "en": "stewardess", "ja": "（女性の）接客係・客室乗務員" },
+      { "en": "stewardship", "ja": "管理・世話" },
+      { "en": "attendant", "ja": "係員・付き添い人" },
+      { "en": "caretaker", "ja": "管理人・世話人" }
+    ],
+    "faq": [
+      { "q": "steward の主な意味は？", "a": "①「（船・飛行機の）接客係・乗務員」と、②「（他人の財産・組織・資源を責任を持って預かり守る）管理人・世話役・守り手」です。近年、客室乗務員は flight attendant と呼ぶのが一般的です。" },
+      { "q": "stewardship とは？", "a": "「（責任を持った）管理・世話・保全」という意味の名詞です。environmental stewardship（環境の保全）のように、自然や資源を大切に管理することを表すのによく使われます。" }
+    ],
+    "quiz": [
+      { "q": "steward の意味として最も適切なものは？", "A": "（船・飛行機の）接客係／（財産・資源の）管理人・守り手", "B": "客・乗客", "C": "運転手", "D": "医者", "correct": "A" },
+      { "q": "steward の名詞形 stewardship の意味は？", "A": "（責任を持った）管理・世話", "B": "破壊", "C": "販売", "D": "無関心", "correct": "A" }
+    ]
+  },
+  {
+    "english": "stoical",
+    "pron": "ˈstoʊɪkl",
+    "kana": "ストイカル",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "Stoic(ストア派)+-al",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "描写語"],
+    "meaning_main": "（苦難・痛みに）動じない／じっと耐える・平然とした",
+    "description": "stoical（ストイカル）は「（苦難・痛みに）動じない／じっと耐える」という意味の形容詞。つらいことや痛みがあっても、不平を言わず、感情を表に出さずに黙って耐える様子を表します。古代ギリシャの哲学「ストア派（Stoic）」に由来し、感情に流されない態度を表す語です。",
+    "keywords": ["stoical 意味", "動じない 英語", "じっと耐える 英語", "ストア派 stoic", "stoical 使い方"],
+    "meanings": [
+      { "hinshi": "【形】（苦難・痛みに）動じない、じっと耐える、平然とした", "note": "感情を出さず耐える。a stoical attitude（動じない態度）" }
+    ],
+    "usages": [
+      { "title": "① 苦難に動じず耐える", "desc": "つらさや痛みを黙って耐える様子を表す使い方。", "example_en": "She remained stoical despite the pain.", "example_ja": "彼女は痛みにもかかわらず動じずにいた。" },
+      { "title": "② 感情を表に出さない", "desc": "不平を言わず平然としている様子を表す使い方。", "example_en": "He accepted the bad news with stoical calm.", "example_ja": "彼は悪い知らせを平然と受け止めた。" }
+    ],
+    "warn": ["stoical（stoic とも）は「（苦難・痛みに）動じない・じっと耐える・平然とした」。古代ギリシャのストア派（Stoicism＝感情に左右されず理性的に生きる哲学）に由来します。日本語の『ストイック（自分に厳しい）』とは少しニュアンスが違い、英語では『じっと耐える』意味が中心です。"],
+    "etym_note": "Stoic（ストア派の。古代ギリシャの哲学者ゼノンが柱廊 stoa で教えたことに由来）に -al が付いた語。「ストア派のように（感情に動じず）耐える」の意味です。",
+    "etym_chain": [
+      { "node": "stoa", "sub": "柱廊", "era": "ギリシャ語" },
+      { "node": "Stoic", "sub": "ストア派の", "era": "ラテン語" },
+      { "node": "stoical", "sub": "動じない・耐える", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a stoical attitude", "ja": "動じない態度" },
+      { "en": "remain stoical", "ja": "じっと耐える" },
+      { "en": "stoical calm", "ja": "平然とした落ち着き" },
+      { "en": "stoical acceptance", "ja": "黙って受け入れること" },
+      { "en": "a stoical endurance", "ja": "じっと耐える忍耐" },
+      { "en": "stoical in the face of", "ja": "〜に直面しても動じない" }
+    ],
+    "related": [
+      { "en": "stoic", "ja": "動じない・ストア派の人" },
+      { "en": "impassive", "ja": "感情を表さない" },
+      { "en": "unemotional", "ja": "感情を出さない" },
+      { "en": "patient", "ja": "忍耐強い" }
+    ],
+    "faq": [
+      { "q": "stoical とはどういう意味？", "a": "「（苦難・痛みに）動じない・じっと耐える・平然とした」という意味です。つらいことがあっても、不平を言わず感情を表に出さずに黙って耐える様子を表します。古代ギリシャのストア派哲学に由来します。" },
+      { "q": "英語の stoical と日本語の『ストイック』は同じ？", "a": "少し違います。日本語の『ストイック』は『自分に厳しい・禁欲的』の意味で使われがちですが、英語の stoical は『（苦難に）じっと耐える・動じない』が中心の意味です。" }
+    ],
+    "quiz": [
+      { "q": "stoical の意味として最も適切なものは？", "A": "（苦難・痛みに）動じない、じっと耐える", "B": "すぐ取り乱す", "C": "陽気で騒がしい", "D": "気まぐれな", "correct": "A" },
+      { "q": "stoical の由来となった古代ギリシャの哲学は？", "A": "ストア派（Stoicism）", "B": "エピクロス派だけ", "C": "近代の実存主義", "D": "現代の資本主義", "correct": "A" }
+    ]
+  },
+  {
+    "english": "subscriber",
+    "pron": "səbˈskraɪbər",
+    "kana": "サブスクライバー",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "subscribe(定期購読する)+-er",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "ビジネス・IT"],
+    "meaning_main": "（定期購読・契約の）加入者・購読者／（動画などの）チャンネル登録者",
+    "description": "subscriber（サブスクライバー）は「加入者・購読者」という意味の名詞。新聞・雑誌の定期購読者や、電話・通信・動画配信などのサービスの契約者を指します。近年は、YouTube などの「チャンネル登録者」の意味でもよく使われます。動詞 subscribe（定期購読する・登録する）に -er が付いた語です。",
+    "keywords": ["subscriber 意味", "購読者 英語", "加入者 英語", "チャンネル登録者 英語", "subscriber 使い方"],
+    "meanings": [
+      { "hinshi": "【名】（定期購読・契約の）加入者、購読者、登録者", "note": "サービスの契約者・購読者。a magazine subscriber（雑誌の定期購読者）。可算" }
+    ],
+    "usages": [
+      { "title": "① 定期購読者・契約者", "desc": "新聞・雑誌やサービスの契約者を指す使い方。", "example_en": "The magazine has millions of subscribers.", "example_ja": "その雑誌には数百万の定期購読者がいる。" },
+      { "title": "② チャンネル登録者", "desc": "動画配信などの登録者を指す使い方。", "example_en": "His channel gained many new subscribers.", "example_ja": "彼のチャンネルは多くの新しい登録者を獲得した。" }
+    ],
+    "warn": ["動詞は subscribe（定期購読する・（サービスに）加入する・登録する。subscribe to ~）。名詞 subscription は「（定期）購読・契約・サブスク」。近年の『サブスク（subscription）』サービスの契約者や、動画の『チャンネル登録者』も subscriber と言います。"],
+    "etym_note": "subscribe（下に署名する→定期購読を申し込む。ラテン語 sub- 下に + scribere 書く から）に、「〜する人」を表す -er が付いた語。「（購読・契約を）申し込む人＝加入者」の意味です。",
+    "etym_chain": [
+      { "node": "subscribere", "sub": "下に署名する", "era": "ラテン語" },
+      { "node": "subscribe", "sub": "定期購読する", "era": "近代英語" },
+      { "node": "subscriber", "sub": "購読者・登録者", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a magazine subscriber", "ja": "雑誌の定期購読者" },
+      { "en": "a new subscriber", "ja": "新規の登録者" },
+      { "en": "gain subscribers", "ja": "登録者を得る" },
+      { "en": "millions of subscribers", "ja": "数百万の登録者" },
+      { "en": "a paying subscriber", "ja": "有料会員" },
+      { "en": "channel subscribers", "ja": "チャンネル登録者" }
+    ],
+    "related": [
+      { "en": "subscribe", "ja": "定期購読する・登録する" },
+      { "en": "subscription", "ja": "定期購読・契約・サブスク" },
+      { "en": "member", "ja": "会員" },
+      { "en": "follower", "ja": "フォロワー" }
+    ],
+    "faq": [
+      { "q": "subscriber と follower の違いは？", "a": "subscriber は「（有料・無料の）定期購読者・契約者・チャンネル登録者」、follower は「（SNSなどの）フォロワー」です。YouTube では subscriber、Twitter/X などでは follower と使い分けられます。" },
+      { "q": "subscriber の動詞・名詞は？", "a": "動詞は subscribe（定期購読する・登録する、subscribe to ~）、関連名詞は subscription（定期購読・契約・サブスク）です。" }
+    ],
+    "quiz": [
+      { "q": "subscriber の意味として最も適切なものは？", "A": "（定期購読・契約の）加入者・登録者", "B": "配達員", "C": "販売員", "D": "作家", "correct": "A" },
+      { "q": "subscriber の動詞形は？", "A": "subscribe（定期購読する・登録する）", "B": "describe（描写する）", "C": "prescribe（処方する）", "D": "scribble（走り書きする）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "supersonic",
+    "pron": "ˌsuːpərˈsɑːnɪk",
+    "kana": "スーパーソニック",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "super-(超)+sonic(音の)",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "科学・技術"],
+    "meaning_main": "超音速の（音より速い速度の）",
+    "description": "supersonic（スーパーソニック）は「超音速の」という意味の形容詞。空気中を伝わる音の速さ（時速約1,225km）よりも速い速度を表します。超音速の飛行機やミサイルなどに使われます。音速を超えるとソニックブーム（衝撃音）が発生します。super-（超）+ sonic（音の）でできた語です。",
+    "keywords": ["supersonic 意味", "超音速 英語", "音速 英語", "sonic 音の", "supersonic 使い方"],
+    "meanings": [
+      { "hinshi": "【形】超音速の（音より速い）", "note": "音速を超える速度の。a supersonic jet（超音速ジェット機）" }
+    ],
+    "usages": [
+      { "title": "① 超音速の", "desc": "音より速い速度を表す使い方。", "example_en": "The jet can fly at supersonic speeds.", "example_ja": "そのジェット機は超音速で飛べる。" },
+      { "title": "② 超音速の乗り物", "desc": "超音速の飛行機やミサイルを表す使い方。", "example_en": "Concorde was a famous supersonic aircraft.", "example_ja": "コンコルドは有名な超音速旅客機だった。" }
+    ],
+    "warn": ["super-（超）+ sonic（音の）で「超音速の（音より速い）」。音速より遅いのは subsonic（亜音速）、音速の何倍もなら hypersonic（極超音速）。音速を超えるとソニックブームという衝撃音が出ます。ultrasonic（超音波の）とは別の語（音の周波数の話）なので混同注意。"],
+    "etym_note": "super-（超、上に。ラテン語 super）+ sonic（音の。ラテン語 sonus 音 から）から。「音（速）を超えた＝超音速の」の意味です。sound, sonic と同語根です。",
+    "etym_chain": [
+      { "node": "super + sonic", "sub": "超 + 音の", "era": "ラテン語要素" },
+      { "node": "supersonic", "sub": "超音速の", "era": "20世紀 英語" },
+      { "node": "supersonic", "sub": "超音速の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "supersonic speed", "ja": "超音速" },
+      { "en": "a supersonic jet", "ja": "超音速ジェット機" },
+      { "en": "break the sound barrier", "ja": "音の壁を破る（超音速に達する）" },
+      { "en": "a supersonic aircraft", "ja": "超音速機" },
+      { "en": "supersonic flight", "ja": "超音速飛行" },
+      { "en": "travel at supersonic speeds", "ja": "超音速で移動する" }
+    ],
+    "related": [
+      { "en": "sonic", "ja": "音の・音速の" },
+      { "en": "subsonic", "ja": "亜音速の（音より遅い）" },
+      { "en": "hypersonic", "ja": "極超音速の" },
+      { "en": "ultrasonic", "ja": "超音波の（別の意味）" }
+    ],
+    "faq": [
+      { "q": "supersonic とは？", "a": "「超音速の」です。空気中を伝わる音の速さ（時速約1,225km、マッハ1）よりも速い速度を表します。超音速の飛行機やミサイルなどに使われます。音速を超えるとソニックブーム（衝撃音）が発生します。" },
+      { "q": "supersonic と ultrasonic の違いは？", "a": "supersonic は『超音速（音より速い速度）』、ultrasonic は『超音波（人の耳に聞こえないほど高い周波数の音）』です。前者は速さ、後者は音の高さの話で、別の意味です。" }
+    ],
+    "quiz": [
+      { "q": "supersonic の意味は？", "A": "超音速の（音より速い）", "B": "音より遅い", "C": "とても静かな", "D": "とても大きな音の", "correct": "A" },
+      { "q": "supersonic の反対（音より遅い）を表す語は？", "A": "subsonic（亜音速の）", "B": "hypersonic（極超音速の）", "C": "ultrasonic（超音波の）", "D": "sonic（音の）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "surveyor",
+    "pron": "sərˈveɪər",
+    "kana": "サーベイヤー",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "survey(測量する)+-or",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "職業"],
+    "meaning_main": "測量士／（建物・土地の）調査員・鑑定人",
+    "description": "surveyor（サーベイヤー）は「測量士」という意味の名詞。土地や建物の位置・面積・境界などを、器械を使って正確に測る専門家を指します。また、建物の状態を調べる調査員・鑑定人（building surveyor）も指します。動詞 survey（測量する・調査する）に -or が付いた語です。",
+    "keywords": ["surveyor 意味", "測量士 英語", "調査員 英語", "survey 測量する", "surveyor 使い方"],
+    "meanings": [
+      { "hinshi": "【名】測量士、（土地・建物の）調査員・鑑定人", "note": "土地や建物を測る・調べる専門家。a land surveyor（土地測量士）。可算" }
+    ],
+    "usages": [
+      { "title": "① 土地の測量士", "desc": "土地の位置・面積・境界を測る専門家を指す使い方。", "example_en": "The surveyor measured the boundaries of the land.", "example_ja": "測量士は土地の境界を測った。" },
+      { "title": "② 建物の調査員・鑑定人", "desc": "建物の状態を調べる専門家を指す使い方。", "example_en": "A surveyor checked the house for damage.", "example_ja": "調査員が家に損傷がないか調べた。" }
+    ],
+    "warn": ["動詞は survey（測量する・（全体を）見渡す・調査する）、名詞 survey は「調査・アンケート・測量」。surveyor は「測量士」または「（建物・土地の）調査員・鑑定人」。イギリスでは住宅購入前に surveyor が建物を調べます。"],
+    "etym_note": "survey（測量する、見渡す。古フランス語 surveeir＝sur- 上から + veeir 見る から）に、「〜する人」を表す -or が付いた語。「（土地を）見て測る人＝測量士」の意味です。view, vision と同語根です。",
+    "etym_chain": [
+      { "node": "surveeir", "sub": "上から見る", "era": "古フランス語" },
+      { "node": "survey", "sub": "測量する・見渡す", "era": "中英語" },
+      { "node": "surveyor", "sub": "測量士", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a land surveyor", "ja": "土地測量士" },
+      { "en": "a building surveyor", "ja": "建物調査員" },
+      { "en": "a quantity surveyor", "ja": "積算士（建築費用を見積もる）" },
+      { "en": "hire a surveyor", "ja": "測量士を雇う" },
+      { "en": "the surveyor's report", "ja": "調査員の報告書" },
+      { "en": "a licensed surveyor", "ja": "資格を持つ測量士" }
+    ],
+    "related": [
+      { "en": "survey", "ja": "測量する・調査する" },
+      { "en": "measurement", "ja": "測定" },
+      { "en": "inspector", "ja": "検査官・調査員" },
+      { "en": "appraiser", "ja": "鑑定人" }
+    ],
+    "faq": [
+      { "q": "surveyor とは何をする人？", "a": "「測量士」で、土地や建物の位置・面積・境界などを器械を使って正確に測る専門家です。また、建物の状態を調べる調査員・鑑定人（building surveyor）も指します。" },
+      { "q": "surveyor の動詞・名詞は？", "a": "動詞は survey（測量する・見渡す・調査する）、名詞 survey は「調査・アンケート・測量」です。conduct a survey（調査を行う）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "surveyor の意味は？", "A": "測量士／（土地・建物の）調査員・鑑定人", "B": "料理人", "C": "運転手", "D": "医者", "correct": "A" },
+      { "q": "surveyor の動詞形は？", "A": "survey（測量する・調査する）", "B": "serve（仕える）", "C": "supply（供給する）", "D": "survive（生き残る）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "survivor",
+    "pron": "sərˈvaɪvər",
+    "kana": "サバイバー",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "survive(生き残る)+-or",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出"],
+    "meaning_main": "生存者・生き残った人／（困難を）乗り越えた人・打たれ強い人",
+    "description": "survivor（サバイバー）は「生存者・生き残った人」という意味の名詞。事故・災害・戦争・病気などを生き延びた人を指します。比喩で「（つらい経験を）乗り越えて生き抜く、打たれ強い人」の意味でも使われます。動詞 survive（生き残る・生き延びる）に -or が付いた語です。",
+    "keywords": ["survivor 意味", "生存者 英語", "生き残り 英語", "survive 生き残る", "survivor 使い方"],
+    "meanings": [
+      { "hinshi": "【名】生存者、生き残った人", "note": "事故・災害などを生き延びた人。the only survivor（唯一の生存者）。可算" },
+      { "hinshi": "【名】（困難を）乗り越えた人、打たれ強い人", "note": "She's a survivor.（彼女は打たれ強い人だ）" }
+    ],
+    "usages": [
+      { "title": "① 生存者・生き残った人", "desc": "事故・災害などを生き延びた人を指す使い方。", "example_en": "There were three survivors of the crash.", "example_ja": "その事故には3人の生存者がいた。" },
+      { "title": "② 困難を乗り越える人（比喩）", "desc": "つらい経験を乗り越えて生き抜く人を表す使い方。", "example_en": "Despite everything, she's a survivor.", "example_ja": "何があっても、彼女は打たれ強い人だ。" }
+    ],
+    "warn": ["動詞は survive（生き残る・生き延びる・（困難を）切り抜ける）。survivor は「生存者・生き残り」。a cancer survivor は「がんを克服した人」。比喩で「（つらいことがあっても）くじけず生き抜く打たれ強い人」も表します。victim（犠牲者）と対になることもあります。"],
+    "etym_note": "survive（生き残る。ラテン語 supervivere＝super 上に・越えて + vivere 生きる から）に、「〜する人」を表す -or が付いた語。「（危機を）生き越えた人＝生存者」の意味です。vivid, revive と同語根です。",
+    "etym_chain": [
+      { "node": "supervivere", "sub": "越えて生きる", "era": "ラテン語" },
+      { "node": "survive", "sub": "生き残る", "era": "中英語" },
+      { "node": "survivor", "sub": "生存者", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "the only survivor", "ja": "唯一の生存者" },
+      { "en": "a cancer survivor", "ja": "がんを克服した人" },
+      { "en": "search for survivors", "ja": "生存者を捜す" },
+      { "en": "the sole survivor", "ja": "ただ一人の生存者" },
+      { "en": "a survivor of the war", "ja": "戦争の生き残り" },
+      { "en": "she's a survivor", "ja": "彼女は打たれ強い人だ" }
+    ],
+    "related": [
+      { "en": "survive", "ja": "生き残る・生き延びる" },
+      { "en": "survival", "ja": "生き残ること・生存" },
+      { "en": "victim", "ja": "犠牲者" },
+      { "en": "escapee", "ja": "脱出した人" }
+    ],
+    "faq": [
+      { "q": "survivor の比喩的な意味は？", "a": "「（つらい経験を）乗り越えて生き抜く、打たれ強い人」です。She's a survivor.（彼女はどんなことがあっても立ち直る強い人だ）のように、逆境に負けない人をほめて言います。" },
+      { "q": "a cancer survivor とは？", "a": "「がんを克服した人・がんを乗り越えて生き延びた人」です。survivor は「（病気・災害を）生き延びた人」を広く指します。" }
+    ],
+    "quiz": [
+      { "q": "survivor の意味として最も適切なものは？", "A": "生存者・生き残った人／困難を乗り越えた人", "B": "犠牲者だけ", "C": "傍観者", "D": "案内人", "correct": "A" },
+      { "q": "survivor の動詞形は？", "A": "survive（生き残る）", "B": "serve（仕える）", "C": "survey（測量する）", "D": "supply（供給する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "swede",
+    "pron": "swiːd",
+    "kana": "スウィード",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "Swedish turnip(スウェーデンかぶ)より",
+    "ld_level": "1級",
+    "badges": ["中学生〜", "英検1級", "CEFR C1", "食べ物・植物"],
+    "meaning_main": "（英）スウェーデンかぶ・ルタバガ（かぶに似た根菜）／（Swede で）スウェーデン人",
+    "description": "swede（スウィード）は「スウェーデンかぶ・ルタバガ」という意味の名詞（主にイギリス英語）。かぶに似た、黄色みがかった大きな根菜で、煮込み料理などに使われます。アメリカでは rutabaga と呼ばれます。大文字の Swede は「スウェーデン人」を意味します。",
+    "keywords": ["swede 意味", "スウェーデンかぶ 英語", "ルタバガ 英語", "rutabaga 違い", "swede 使い方"],
+    "meanings": [
+      { "hinshi": "【名】（英）スウェーデンかぶ、ルタバガ", "note": "かぶに似た黄色みがかった根菜。米では rutabaga。可算・不可算" },
+      { "hinshi": "【名】（Swede で）スウェーデン人", "note": "スウェーデン出身の人" }
+    ],
+    "usages": [
+      { "title": "① 根菜のスウェーデンかぶ", "desc": "かぶに似た大きな根菜を指す使い方。", "example_en": "She added swede to the stew.", "example_ja": "彼女はシチューにスウェーデンかぶを加えた。" },
+      { "title": "② スウェーデン人（Swede）", "desc": "大文字でスウェーデン出身の人を指す使い方。", "example_en": "He is a Swede living in London.", "example_ja": "彼はロンドンに住むスウェーデン人だ。" }
+    ],
+    "warn": ["野菜の swede（スウェーデンかぶ・ルタバガ）は主にイギリス英語で、アメリカでは rutabaga。かぶ（turnip）に似ていますが、より大きく黄色みがかっています。大文字の Swede は「スウェーデン人」で別の意味です。"],
+    "etym_note": "Swedish turnip（スウェーデンかぶ）を短縮した語。スウェーデンから広まった根菜であることに由来します。人を指す Swede（スウェーデン人）も Sweden（スウェーデン）から来ています。",
+    "etym_chain": [
+      { "node": "Swedish turnip", "sub": "スウェーデンかぶ", "era": "近代英語" },
+      { "node": "swede", "sub": "スウェーデンかぶ", "era": "19世紀 英語" },
+      { "node": "swede", "sub": "スウェーデンかぶ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "mashed swede", "ja": "スウェーデンかぶのマッシュ" },
+      { "en": "swede and carrots", "ja": "スウェーデンかぶとにんじん" },
+      { "en": "add swede to the stew", "ja": "シチューにスウェーデンかぶを加える" },
+      { "en": "roast swede", "ja": "ローストしたスウェーデンかぶ" },
+      { "en": "a Swede from Stockholm", "ja": "ストックホルム出身のスウェーデン人" },
+      { "en": "diced swede", "ja": "さいの目に切ったスウェーデンかぶ" }
+    ],
+    "related": [
+      { "en": "rutabaga", "ja": "ルタバガ（米での呼び名）" },
+      { "en": "turnip", "ja": "かぶ" },
+      { "en": "vegetable", "ja": "野菜" },
+      { "en": "sweden", "ja": "スウェーデン" }
+    ],
+    "faq": [
+      { "q": "swede と turnip の違いは？", "a": "どちらもかぶの仲間ですが、swede（スウェーデンかぶ・ルタバガ）はより大きく、黄色みがかった果肉を持ちます。turnip（かぶ）は小さめで白っぽいです。swede はアメリカでは rutabaga と呼ばれます。" },
+      { "q": "swede と Swede の違いは？", "a": "小文字の swede は「スウェーデンかぶ（野菜）」、大文字の Swede は「スウェーデン人」です。文脈と大文字・小文字で見分けます。" }
+    ],
+    "quiz": [
+      { "q": "野菜の swede の意味は？", "A": "スウェーデンかぶ・ルタバガ（かぶに似た根菜）", "B": "りんご", "C": "キャベツ", "D": "とうもろこし", "correct": "A" },
+      { "q": "swede のアメリカ英語での呼び名は？", "A": "rutabaga", "B": "potato", "C": "carrot", "D": "onion", "correct": "A" }
+    ]
+  },
+  {
+    "english": "systematic",
+    "pron": "ˌsɪstəˈmætɪk",
+    "kana": "システマティック",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "system(体系)+-atic",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出"],
+    "meaning_main": "体系的な／系統立った・きちんと順序立てた（計画的で秩序ある）",
+    "description": "systematic（システマティック）は「体系的な／系統立った」という意味の形容詞。物事を、決まった手順や計画にそって、秩序立てて進める様子を表します。行き当たりばったりでなく、順序よく整理された方法を指します。名詞 system（体系・組織）の形容詞形です。",
+    "keywords": ["systematic 意味", "体系的 英語", "系統立った 英語", "system 体系", "systematic 使い方"],
+    "meanings": [
+      { "hinshi": "【形】体系的な、系統立った、きちんと順序立てた", "note": "計画的で秩序ある。a systematic approach（体系的な手法）" }
+    ],
+    "usages": [
+      { "title": "① 体系的な・順序立てた", "desc": "決まった手順にそって秩序立てて進める様子を表す使い方。", "example_en": "They took a systematic approach to the problem.", "example_ja": "彼らはその問題に体系的な手法で取り組んだ。" },
+      { "title": "② きちんと整理された方法", "desc": "行き当たりばったりでなく整理された方法を表す使い方。", "example_en": "We need a systematic way to organize the data.", "example_ja": "データを整理する体系的な方法が必要だ。" }
+    ],
+    "warn": ["systematic（体系的な・順序立った）と systemic（システム全体に関わる・全身性の）は似ていますが別の語。systematic は「（方法が）系統立った」、systemic は「（システム・体全体に）広がった」の意味です。副詞は systematically（体系的に）。反対は random（行き当たりばったりの）、haphazard（無計画な）。"],
+    "etym_note": "system（体系、組織。ギリシャ語 systema 組み合わされたもの から）に、形容詞をつくる -atic が付いた語。「体系にそった＝体系的な」の意味です。",
+    "etym_chain": [
+      { "node": "systema", "sub": "組み合わされたもの", "era": "ギリシャ語" },
+      { "node": "system", "sub": "体系・組織", "era": "近代英語" },
+      { "node": "systematic", "sub": "体系的な", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a systematic approach", "ja": "体系的な手法" },
+      { "en": "a systematic way", "ja": "体系的な方法" },
+      { "en": "systematic research", "ja": "系統立った研究" },
+      { "en": "systematic and thorough", "ja": "体系的で徹底した" },
+      { "en": "a systematic review", "ja": "系統的レビュー" },
+      { "en": "in a systematic manner", "ja": "体系的なやり方で" }
+    ],
+    "related": [
+      { "en": "system", "ja": "体系・組織" },
+      { "en": "methodical", "ja": "きちょうめんな・順序立てた" },
+      { "en": "organized", "ja": "整理された" },
+      { "en": "random", "ja": "行き当たりばったりの（反対語）" }
+    ],
+    "faq": [
+      { "q": "systematic と systemic の違いは？", "a": "systematic は「（方法が）体系的な・順序立った」、systemic は「（システムや体の）全体に関わる・広がった」です。a systematic approach（体系的な手法）／ a systemic problem（システム全体の問題）のように使い分けます。" },
+      { "q": "systematic の反対語は？", "a": "random（行き当たりばったりの）や haphazard（無計画な・でたらめな）です。systematic は「計画的で秩序ある」を表します。" }
+    ],
+    "quiz": [
+      { "q": "systematic の意味として最も適切なものは？", "A": "体系的な、系統立った、順序立てた", "B": "行き当たりばったりの", "C": "混乱した", "D": "偶然の", "correct": "A" },
+      { "q": "systematic のもとになった system の意味は？", "A": "体系・組織", "B": "感情", "C": "料理", "D": "音楽", "correct": "A" }
+    ]
+  },
+  {
+    "english": "tabular",
+    "pron": "ˈtæbjələr",
+    "kana": "タビュラー",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "ラテン語 tabula(板・表)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "頻出"],
+    "meaning_main": "表の・表形式の（データを表にまとめた）／平板状の",
+    "description": "tabular（タビュラー）は「表の・表形式の」という意味の形容詞。データや情報を、行と列に整理した「表」の形で示すことを表します。in tabular form（表形式で）のように使われます。もとは「平たい板状の」の意味もあります。ラテン語 tabula（板・表）に由来する語です。",
+    "keywords": ["tabular 意味", "表形式 英語", "表の 英語", "table 表", "tabular 使い方"],
+    "meanings": [
+      { "hinshi": "【形】表の、表形式の", "note": "行と列の表の形の。in tabular form（表形式で）" },
+      { "hinshi": "【形】平板状の、平たい", "note": "薄い板のような形の" }
+    ],
+    "usages": [
+      { "title": "① 表形式の", "desc": "データを行と列の表にまとめた形を表す使い方。", "example_en": "The results are presented in tabular form.", "example_ja": "結果は表形式で示されている。" },
+      { "title": "② データの整理で", "desc": "情報を表にまとめることを表す使い方。", "example_en": "Tabular data is easy to compare.", "example_ja": "表形式のデータは比較しやすい。" }
+    ],
+    "warn": ["in tabular form / tabular format（表形式で）が定番。名詞 table（表・テーブル）の形容詞。tabulate は「（データを）表にまとめる」、tabulation は「作表」。データを見やすく整理するときの表現でよく使われます。"],
+    "etym_note": "ラテン語 tabula（板、書字板、表）に由来する tabularis から。「表の・板状の」の意味です。table, tablet と同語根です。",
+    "etym_chain": [
+      { "node": "tabula", "sub": "板・表", "era": "ラテン語" },
+      { "node": "tabularis", "sub": "表の・板状の", "era": "ラテン語" },
+      { "node": "tabular", "sub": "表形式の", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "in tabular form", "ja": "表形式で" },
+      { "en": "tabular data", "ja": "表形式のデータ" },
+      { "en": "tabular format", "ja": "表形式" },
+      { "en": "present in tabular form", "ja": "表形式で示す" },
+      { "en": "a tabular summary", "ja": "表にまとめた要約" },
+      { "en": "tabular results", "ja": "表形式の結果" }
+    ],
+    "related": [
+      { "en": "table", "ja": "表・テーブル" },
+      { "en": "tabulate", "ja": "表にまとめる" },
+      { "en": "chart", "ja": "図表" },
+      { "en": "grid", "ja": "格子・表組み" }
+    ],
+    "faq": [
+      { "q": "in tabular form とは？", "a": "「表形式で」という意味です。データや情報を、行と列に整理した表の形で示すことを表します。The data is shown in tabular form.（データは表形式で示されている）のように使います。" },
+      { "q": "tabular の動詞形は？", "a": "tabulate（データを表にまとめる・作表する）です。tabulate the results（結果を表にまとめる）のように使います。名詞は tabulation（作表）です。" }
+    ],
+    "quiz": [
+      { "q": "tabular の意味として最も適切なものは？", "A": "表の・表形式の", "B": "円グラフの", "C": "音声の", "D": "立体の", "correct": "A" },
+      { "q": "in tabular form の意味は？", "A": "表形式で", "B": "音声で", "C": "絵で", "D": "口頭で", "correct": "A" }
+    ]
+  },
+  {
+    "english": "tactless",
+    "pron": "ˈtæktləs",
+    "kana": "タクトレス",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "tact(機転)+-less(〜がない)",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "性格・描写"],
+    "meaning_main": "機転のきかない／無神経な・気配りに欠ける（相手の気持ちを考えない）",
+    "description": "tactless（タクトレス）は「機転のきかない／無神経な」という意味の形容詞。相手の気持ちや場の状況を考えずに、失礼なことや傷つけることを言ったりしたりする様子を表します。tact（機転・気配り）に「〜がない」を表す -less が付いた語で、反対は tactful（機転のきく）です。",
+    "keywords": ["tactless 意味", "機転がきかない 英語", "無神経 英語", "tact 機転", "tactless 使い方"],
+    "meanings": [
+      { "hinshi": "【形】機転のきかない、無神経な、気配りに欠ける", "note": "相手の気持ちを考えない。a tactless remark（無神経な発言）" }
+    ],
+    "usages": [
+      { "title": "① 無神経な・気配りに欠ける", "desc": "相手の気持ちを考えず失礼なことを言う様子を表す使い方。", "example_en": "It was tactless of him to mention her age.", "example_ja": "彼女の年齢を口にするとは、彼は無神経だった。" },
+      { "title": "② 機転のきかない言動", "desc": "場の状況を考えない言動を表す使い方。", "example_en": "She made a tactless comment at the funeral.", "example_ja": "彼女は葬儀で無神経な発言をした。" }
+    ],
+    "warn": ["tact（機転・気配り・如才なさ）+ -less（〜がない）で「機転のきかない・無神経な」。反対は tactful（機転のきく・如才ない）。insensitive（無神経な）と近い意味。相手の気持ちや場をわきまえない言動に使います。"],
+    "etym_note": "tact（機転、気配り。ラテン語 tactus 触れること から。人の気持ちに『触れる』感覚）に、「〜がない」を表す -less が付いた語。「機転がない＝無神経な」の意味です。tactile, contact と同語根です。",
+    "etym_chain": [
+      { "node": "tactus", "sub": "触れること", "era": "ラテン語" },
+      { "node": "tact", "sub": "機転・気配り", "era": "近代英語" },
+      { "node": "tactless", "sub": "機転のきかない", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a tactless remark", "ja": "無神経な発言" },
+      { "en": "a tactless comment", "ja": "気配りに欠ける発言" },
+      { "en": "tactless of him", "ja": "彼にしては無神経な" },
+      { "en": "a tactless question", "ja": "無神経な質問" },
+      { "en": "clumsy and tactless", "ja": "不器用で無神経な" },
+      { "en": "sound tactless", "ja": "無神経に聞こえる" }
+    ],
+    "related": [
+      { "en": "tact", "ja": "機転・気配り" },
+      { "en": "tactful", "ja": "機転のきく（反対語）" },
+      { "en": "insensitive", "ja": "無神経な" },
+      { "en": "blunt", "ja": "無遠慮な・ぶっきらぼうな" }
+    ],
+    "faq": [
+      { "q": "tactless の反対語は？", "a": "tactful（機転のきく・如才ない・気配りのある）です。tactless は「機転がきかない・無神経な」、tactful は「相手の気持ちを考えて上手にふるまう」を表します。" },
+      { "q": "tactless と insensitive の違いは？", "a": "どちらも「無神経な」ですが、tactless は「（場や相手の気持ちを考えず）機転のきかない言動」、insensitive は「（他人の気持ちに）鈍感で思いやりがない」ニュアンスです。近い意味です。" }
+    ],
+    "quiz": [
+      { "q": "tactless の意味として最も適切なものは？", "A": "機転のきかない、無神経な", "B": "気配りのある", "C": "とても親切な", "D": "話し上手な", "correct": "A" },
+      { "q": "tactless の反対の意味を持つ語は？", "A": "tactful（機転のきく）", "B": "insensitive（無神経な）", "C": "blunt（無遠慮な）", "D": "careless（不注意な）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "tartar",
+    "pron": "ˈtɑːrtər",
+    "kana": "タルタル",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "中世ラテン語 tartarum(歯石・酒石)",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "医学・化学"],
+    "meaning_main": "歯石（歯にたまる固い付着物）／（ワインの）酒石",
+    "description": "tartar（タルタル）は「歯石」という意味の名詞。歯みがきで落としきれなかった歯垢（プラーク）が固まって、歯の表面にたまる固い付着物を指します。歯周病の原因になります。また、ワインづくりでできる沈殿物（酒石）も指します。タルタルソースの『タルタル』とは語源が異なります。",
+    "keywords": ["tartar 意味", "歯石 英語", "歯垢 歯石 違い", "酒石 英語", "tartar 使い方"],
+    "meanings": [
+      { "hinshi": "【名】歯石", "note": "歯にたまる固い付着物。歯周病の原因。不可算" },
+      { "hinshi": "【名】（ワインの）酒石", "note": "ワインづくりでできる沈殿物（酒石酸の結晶）" }
+    ],
+    "usages": [
+      { "title": "① 歯にたまる歯石", "desc": "歯垢が固まってできる固い付着物を指す使い方。", "example_en": "The dentist removed the tartar from my teeth.", "example_ja": "歯医者が私の歯から歯石を取り除いた。" },
+      { "title": "② 予防・歯の健康の話題で", "desc": "歯石の予防について使う。", "example_en": "Regular brushing helps prevent tartar.", "example_ja": "こまめな歯みがきは歯石の予防に役立つ。" }
+    ],
+    "warn": ["歯垢（plaque）が固まると歯石（tartar）になります。歯石は歯みがきでは落ちず、歯科で除去します。歯周病の原因に。cream of tartar は料理に使う「酒石英（クリームタータ）」。タルタルソース（tartar sauce）の tartar は別語源（遊牧民タタール人から）です。"],
+    "etym_note": "中世ラテン語 tartarum（歯石、酒石）に由来。もとはワインの樽にできる沈殿物（酒石）を指し、歯にたまる固い付着物（歯石）も同じ語で呼ばれるようになりました。",
+    "etym_chain": [
+      { "node": "tartarum", "sub": "歯石・酒石", "era": "中世ラテン語" },
+      { "node": "tartar", "sub": "歯石", "era": "近代英語" },
+      { "node": "tartar", "sub": "歯石・酒石", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "remove tartar", "ja": "歯石を取り除く" },
+      { "en": "tartar buildup", "ja": "歯石の蓄積" },
+      { "en": "prevent tartar", "ja": "歯石を防ぐ" },
+      { "en": "tartar control toothpaste", "ja": "歯石予防歯みがき粉" },
+      { "en": "plaque and tartar", "ja": "歯垢と歯石" },
+      { "en": "cream of tartar", "ja": "クリームタータ（酒石英）" }
+    ],
+    "related": [
+      { "en": "plaque", "ja": "歯垢・プラーク" },
+      { "en": "tooth", "ja": "歯" },
+      { "en": "dentist", "ja": "歯科医" },
+      { "en": "gum", "ja": "歯ぐき" }
+    ],
+    "faq": [
+      { "q": "歯垢（plaque）と歯石（tartar）の違いは？", "a": "歯垢（plaque）は「歯につく細菌のかたまり（やわらかい）」、歯石（tartar）は「その歯垢が固まって石のように歯にこびりついたもの」です。歯石は歯みがきでは落ちず、歯科で除去します。" },
+      { "q": "tartar とタルタルソースの tartar は同じ？", "a": "いいえ、別の語源です。歯石の tartar は中世ラテン語 tartarum（歯石・酒石）から、タルタルソースの tartar は遊牧民タタール人（Tartar）に由来するとされます。" }
+    ],
+    "quiz": [
+      { "q": "tartar の意味として最も適切なものは？", "A": "歯石（歯にたまる固い付着物）", "B": "虫歯の穴", "C": "入れ歯", "D": "歯ブラシ", "correct": "A" },
+      { "q": "歯石（tartar）のもとになるものは？", "A": "歯垢（plaque）が固まったもの", "B": "食べ物の色", "C": "だ液だけ", "D": "水", "correct": "A" }
+    ]
+  },
+  {
+    "english": "tattoo",
+    "pron": "tæˈtuː",
+    "kana": "タトゥー",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "noun",
+    "ld_etym": "タヒチ語 tatau(印をつける)",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "文化・身体"],
+    "meaning_main": "入れ墨・タトゥー（皮膚に針で色を入れた模様）／（皮膚に）入れ墨を彫る",
+    "description": "tattoo（タトゥー）は「入れ墨・タトゥー」という意味の名詞。針で皮膚に色（インク）を入れて、消えない模様や絵、文字をつけたものを指します。動詞で「（皮膚に）入れ墨を彫る」の意味にもなります。もとは太平洋の島々の言葉に由来する、身体装飾を表す語です。",
+    "keywords": ["tattoo 意味", "入れ墨 英語", "タトゥー 英語", "tattoo 彫る", "tattoo 使い方"],
+    "meanings": [
+      { "hinshi": "【名】入れ墨、タトゥー", "note": "針で皮膚に色を入れた模様。get a tattoo（タトゥーを入れる）。可算" },
+      { "hinshi": "【動】（皮膚に）入れ墨を彫る", "note": "have a design tattooed（模様を彫ってもらう）" }
+    ],
+    "usages": [
+      { "title": "① 皮膚の入れ墨・タトゥー", "desc": "皮膚に色を入れた消えない模様を指す使い方。", "example_en": "He has a dragon tattoo on his arm.", "example_ja": "彼は腕に龍のタトゥーがある。" },
+      { "title": "② 入れ墨を彫る（動詞）", "desc": "皮膚に入れ墨を入れることを表す使い方。", "example_en": "She had a star tattooed on her wrist.", "example_ja": "彼女は手首に星のタトゥーを彫ってもらった。" }
+    ],
+    "warn": ["get a tattoo（タトゥーを入れる）が定番。動詞にもなります（tattoo - tattooed）。タトゥーは一度入れると簡単には消せません。太平洋の島々（タヒチなど）の言葉 tatau に由来し、18世紀に英語に入りました。（別語源で『帰営らっぱ・軍楽の演技』の意味の tattoo もあります。）"],
+    "etym_note": "タヒチ語・ポリネシア語の tatau（印をつける、たたく音）に由来。18世紀にキャプテン・クックらの太平洋航海を通じて英語に入りました。",
+    "etym_chain": [
+      { "node": "tatau", "sub": "印をつける", "era": "タヒチ語" },
+      { "node": "tattoo", "sub": "入れ墨", "era": "18世紀 英語" },
+      { "node": "tattoo", "sub": "入れ墨・タトゥー", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "get a tattoo", "ja": "タトゥーを入れる" },
+      { "en": "a tattoo on one's arm", "ja": "腕のタトゥー" },
+      { "en": "a tattoo artist", "ja": "彫り師・タトゥーアーティスト" },
+      { "en": "a tattoo parlor", "ja": "タトゥーの店" },
+      { "en": "remove a tattoo", "ja": "タトゥーを消す" },
+      { "en": "a temporary tattoo", "ja": "はり付けのタトゥー（シール）" }
+    ],
+    "related": [
+      { "en": "ink", "ja": "インク・入れ墨" },
+      { "en": "skin", "ja": "皮膚" },
+      { "en": "body art", "ja": "ボディアート" },
+      { "en": "piercing", "ja": "ピアス（穴あけ）" }
+    ],
+    "faq": [
+      { "q": "tattoo とは？", "a": "「入れ墨・タトゥー」です。針で皮膚に色（インク）を入れて、消えない模様や絵、文字をつけたものを指します。動詞で「（皮膚に）入れ墨を彫る」の意味にもなります。" },
+      { "q": "tattoo の語源は？", "a": "太平洋の島々（タヒチなど）の言葉 tatau（印をつける）に由来します。18世紀にキャプテン・クックらの太平洋航海を通じて英語に取り入れられました。" }
+    ],
+    "quiz": [
+      { "q": "tattoo の意味は？", "A": "入れ墨・タトゥー（皮膚に色を入れた模様）", "B": "シャツの模様", "C": "髪型", "D": "帽子", "correct": "A" },
+      { "q": "get a tattoo の意味は？", "A": "タトゥー（入れ墨）を入れる", "B": "タトゥーを消す", "C": "絵を描く", "D": "服を買う", "correct": "A" }
+    ]
+  },
+  {
+    "english": "teat",
+    "pron": "tiːt",
+    "kana": "ティート",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "古英語 titt(乳首)",
+    "ld_level": "1級",
+    "badges": ["中学生〜", "英検1級", "CEFR C1", "動物・身体"],
+    "meaning_main": "（動物の）乳首／（哺乳びんの）乳首・ゴム乳首",
+    "description": "teat（ティート）は「（動物の）乳首」という意味の名詞。牛やヤギなど、ほ乳類の母親が子に乳を与える乳首を指します。また、哺乳びんの先につける「（ゴムの）乳首」も指します（主にイギリス英語。アメリカでは nipple）。搾乳や授乳に関する場面で使われる語です。",
+    "keywords": ["teat 意味", "乳首 動物 英語", "哺乳びん 乳首 英語", "nipple 違い", "teat 使い方"],
+    "meanings": [
+      { "hinshi": "【名】（動物の）乳首", "note": "ほ乳類の母親が乳を与える乳首。可算名詞" },
+      { "hinshi": "【名】（哺乳びんの）乳首、ゴム乳首", "note": "哺乳びんの先の乳首（主に英）。米では nipple" }
+    ],
+    "usages": [
+      { "title": "① 動物の乳首", "desc": "牛やヤギなどが子に乳を与える乳首を指す使い方。", "example_en": "The calf sucked milk from the cow's teat.", "example_ja": "子牛は牛の乳首から乳を吸った。" },
+      { "title": "② 哺乳びんの乳首", "desc": "哺乳びんの先につけるゴム乳首を指す使い方。", "example_en": "She put a teat on the baby's bottle.", "example_ja": "彼女は赤ちゃんの哺乳びんに乳首をつけた。" }
+    ],
+    "warn": ["teat は「（動物の）乳首」や「（哺乳びんの）ゴム乳首」（主にイギリス英語）。アメリカ英語では哺乳びんの乳首は nipple と言います。搾乳（milking）や授乳の場面で使う語です。人の乳首は主に nipple を使います。"],
+    "etym_note": "古英語 titt（乳首）に由来し、古フランス語 tete の影響で teat の形に。ゲルマン系の古い語で、「乳首」を意味します。",
+    "etym_chain": [
+      { "node": "titt", "sub": "乳首", "era": "古英語" },
+      { "node": "teat", "sub": "乳首", "era": "中英語" },
+      { "node": "teat", "sub": "乳首・ゴム乳首", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the cow's teat", "ja": "牛の乳首" },
+      { "en": "suck the teat", "ja": "乳首を吸う" },
+      { "en": "a rubber teat", "ja": "ゴムの乳首" },
+      { "en": "a bottle teat", "ja": "哺乳びんの乳首" },
+      { "en": "milk from the teat", "ja": "乳首からの乳" },
+      { "en": "four teats", "ja": "4つの乳首" }
+    ],
+    "related": [
+      { "en": "nipple", "ja": "乳首（人・米の哺乳びん）" },
+      { "en": "udder", "ja": "（牛などの）乳房" },
+      { "en": "milk", "ja": "乳・ミルク" },
+      { "en": "suckle", "ja": "乳を吸わせる" }
+    ],
+    "faq": [
+      { "q": "teat と nipple の違いは？", "a": "teat は主に「（動物の）乳首」や「（哺乳びんの）ゴム乳首（イギリス英語）」を指します。nipple は「人の乳首」や、アメリカ英語で「哺乳びんの乳首」を指します。" },
+      { "q": "teat と udder の違いは？", "a": "udder は「（牛・ヤギなどの）乳房（乳を作りためる袋状の器官）」、teat はその乳房についている「乳首（乳を出す先の部分）」です。" }
+    ],
+    "quiz": [
+      { "q": "teat の意味として最も適切なものは？", "A": "（動物の）乳首／（哺乳びんの）ゴム乳首", "B": "しっぽ", "C": "角（つの）", "D": "ひづめ", "correct": "A" },
+      { "q": "teat と関連する、牛の乳房を表す語は？", "A": "udder（乳房）", "B": "hoof（ひづめ）", "C": "mane（たてがみ）", "D": "horn（角）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "teeth",
+    "pron": "tiːθ",
+    "kana": "ティース",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "tooth(歯)の複数形",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A1", "身体・頻出"],
+    "meaning_main": "歯（tooth の複数形）",
+    "description": "teeth（ティース）は「歯」という意味の名詞。tooth（1本の歯）の不規則な複数形です。食べ物をかんだり、発音を助けたりする、口の中の白いかたい器官です。brush one's teeth（歯をみがく）のように日常でよく使われます。tooth → teeth と母音が変化する不規則複数です。",
+    "keywords": ["teeth 意味", "歯 英語", "tooth 複数形", "brush teeth 歯をみがく", "teeth 発音"],
+    "meanings": [
+      { "hinshi": "【名】歯（tooth の複数形）", "note": "口の中のかたい器官。tooth の不規則複数。可算名詞の複数形" }
+    ],
+    "usages": [
+      { "title": "① 複数の歯", "desc": "口の中の複数の歯を指す使い方。", "example_en": "Brush your teeth twice a day.", "example_ja": "1日2回歯をみがきなさい。" },
+      { "title": "② 歯に関する表現で", "desc": "歯の健康や状態を表す使い方。", "example_en": "She has beautiful white teeth.", "example_ja": "彼女は美しい白い歯をしている。" }
+    ],
+    "warn": ["tooth → teeth と、母音が変化する不規則複数（-s はつけません）。1本は a tooth、複数は teeth。歯をみがくは brush one's teeth。歯医者は dentist、虫歯は cavity / tooth decay。foot → feet と同じ変化パターンです。"],
+    "etym_note": "tooth（歯。古英語 tōth）の複数形。古英語では tēth で、母音が変化して複数を表す古い形（i-mutation）が残っています。foot→feet と同じパターンです。",
+    "etym_chain": [
+      { "node": "toth", "sub": "歯", "era": "古英語" },
+      { "node": "teth", "sub": "歯（複数）", "era": "古英語" },
+      { "node": "teeth", "sub": "歯（複数）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "brush one's teeth", "ja": "歯をみがく" },
+      { "en": "white teeth", "ja": "白い歯" },
+      { "en": "front teeth", "ja": "前歯" },
+      { "en": "clench one's teeth", "ja": "歯を食いしばる" },
+      { "en": "grind one's teeth", "ja": "歯ぎしりをする" },
+      { "en": "baby teeth", "ja": "乳歯" }
+    ],
+    "related": [
+      { "en": "tooth", "ja": "歯（単数）" },
+      { "en": "dentist", "ja": "歯科医" },
+      { "en": "gum", "ja": "歯ぐき" },
+      { "en": "cavity", "ja": "虫歯" }
+    ],
+    "faq": [
+      { "q": "tooth の複数形は？", "a": "teeth です。-s はつけず、母音が変化する不規則複数です。1本は a tooth、複数は teeth と言います。foot → feet と同じ変化パターンです。" },
+      { "q": "「歯をみがく」は英語で？", "a": "brush one's teeth です。I brush my teeth every morning.（私は毎朝歯をみがく）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "teeth はどの語の複数形？", "A": "tooth（歯）", "B": "teach（教える）", "C": "tea（お茶）", "D": "team（チーム）", "correct": "A" },
+      { "q": "tooth の複数形として正しいものは？", "A": "teeth", "B": "tooths", "C": "toothes", "D": "teeths", "correct": "A" }
+    ]
+  },
+  {
+    "english": "telegram",
+    "pron": "ˈtelɪɡræm",
+    "kana": "テレグラム",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "tele-(遠い)+gram(書いたもの)",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "通信・歴史"],
+    "meaning_main": "電報（電信で送られる短いメッセージ）",
+    "description": "telegram（テレグラム）は「電報」という意味の名詞。電信（電気信号）を使って遠くへ送られる、短い文章のメッセージを指します。電話やメールが普及する前は、急ぎの連絡やお祝い・お悔やみに広く使われました。tele-（遠い）+ gram（書いたもの）でできた語です。",
+    "keywords": ["telegram 意味", "電報 英語", "電信 英語", "tele 遠い", "telegram 使い方"],
+    "meanings": [
+      { "hinshi": "【名】電報", "note": "電信で送られる短いメッセージ。send a telegram（電報を送る）。可算" }
+    ],
+    "usages": [
+      { "title": "① 電信のメッセージ", "desc": "電信で遠くへ送る短い文章を指す使い方。", "example_en": "He sent a telegram to his family.", "example_ja": "彼は家族に電報を送った。" },
+      { "title": "② 歴史・急ぎの連絡で", "desc": "電話普及前の急ぎの連絡手段として使う。", "example_en": "In the past, news often came by telegram.", "example_ja": "昔は知らせがよく電報で届いた。" }
+    ],
+    "warn": ["tele-（遠い）+ gram（書いたもの、記録）で「遠くへ送る文＝電報」。telegraph は「電信（送る仕組み・電報を打つこと）」、telegram は「送られたメッセージ（電報）」。今はメールなどに取って代わられましたが、お祝い電報などで今も使われます。"],
+    "etym_note": "ギリシャ語 tele-（遠い）+ gram（-gramma 書かれたもの）から。「遠くへ送る書いたもの＝電報」の意味です。telephone, telegraph, program と同じ tele-/-gram を持ちます。",
+    "etym_chain": [
+      { "node": "tele + gram", "sub": "遠い + 書いたもの", "era": "ギリシャ語要素" },
+      { "node": "telegram", "sub": "電報", "era": "19世紀 英語" },
+      { "node": "telegram", "sub": "電報", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "send a telegram", "ja": "電報を送る" },
+      { "en": "receive a telegram", "ja": "電報を受け取る" },
+      { "en": "a congratulatory telegram", "ja": "祝電" },
+      { "en": "by telegram", "ja": "電報で" },
+      { "en": "an urgent telegram", "ja": "至急電報" },
+      { "en": "a telegram of condolence", "ja": "弔電（ちょうでん）" }
+    ],
+    "related": [
+      { "en": "telegraph", "ja": "電信・電報を打つ" },
+      { "en": "message", "ja": "メッセージ・伝言" },
+      { "en": "telephone", "ja": "電話" },
+      { "en": "cable", "ja": "海外電報・ケーブル" }
+    ],
+    "faq": [
+      { "q": "telegram（電報）とは？", "a": "電信（電気信号）を使って遠くへ送られる、短い文章のメッセージです。電話やメールが普及する前は、急ぎの連絡やお祝い・お悔やみに広く使われました。" },
+      { "q": "telegram と telegraph の違いは？", "a": "telegraph は「電信（電報を送る仕組み・技術）」、telegram は「その電信で送られたメッセージ（電報そのもの）」です。telegraph は仕組み、telegram は中身を指します。" }
+    ],
+    "quiz": [
+      { "q": "telegram の意味は？", "A": "電報（電信で送られる短いメッセージ）", "B": "電話機", "C": "テレビ番組", "D": "新聞", "correct": "A" },
+      { "q": "telegram の tele- が表す意味は？", "A": "遠い", "B": "近い", "C": "速い", "D": "大きい", "correct": "A" }
+    ]
+  },
+  {
+    "english": "temptation",
+    "pron": "tempˈteɪʃn",
+    "kana": "テンプテイション",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 temptare(試みる・誘惑する)",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出"],
+    "meaning_main": "誘惑／（したくなる）衝動・そそのかし／誘惑するもの",
+    "description": "temptation（テンプテイション）は「誘惑」という意味の名詞。よくないと分かっていても、してみたくなる気持ちや、そう思わせるものを指します。resist temptation（誘惑に耐える）、give in to temptation（誘惑に負ける）のように使われます。動詞 tempt（誘惑する）の名詞形です。",
+    "keywords": ["temptation 意味", "誘惑 英語", "衝動 英語", "tempt 誘惑する", "temptation 使い方"],
+    "meanings": [
+      { "hinshi": "【名】誘惑、（したくなる）衝動、誘惑するもの", "note": "してみたくなる気持ち・もの。resist temptation（誘惑に耐える）。可算・不可算" }
+    ],
+    "usages": [
+      { "title": "① 誘惑・したくなる衝動", "desc": "よくないと分かってもしたくなる気持ちを指す使い方。", "example_en": "She resisted the temptation to eat the cake.", "example_ja": "彼女はケーキを食べたい誘惑に耐えた。" },
+      { "title": "② 誘惑するもの", "desc": "人を引きつけ、そうさせようとするものを表す使い方。", "example_en": "The sale was too great a temptation.", "example_ja": "そのセールはあらがえない誘惑だった。" }
+    ],
+    "warn": ["resist temptation（誘惑に耐える）、give in to temptation（誘惑に負ける）、the temptation to do（〜したい誘惑）が頻出。動詞は tempt（誘惑する・そそる）、形容詞 tempting（そそる・魅力的な）。"],
+    "etym_note": "ラテン語 temptare（試みる、試す、誘惑する）に由来する temptation。「（心を）試すもの＝誘惑」の意味です。attempt（試みる）と同語根です。",
+    "etym_chain": [
+      { "node": "temptare", "sub": "試みる・誘惑する", "era": "ラテン語" },
+      { "node": "tempt", "sub": "誘惑する", "era": "中英語" },
+      { "node": "temptation", "sub": "誘惑", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "resist temptation", "ja": "誘惑に耐える" },
+      { "en": "give in to temptation", "ja": "誘惑に負ける" },
+      { "en": "the temptation to", "ja": "〜したい誘惑" },
+      { "en": "a great temptation", "ja": "大きな誘惑" },
+      { "en": "avoid temptation", "ja": "誘惑を避ける" },
+      { "en": "yield to temptation", "ja": "誘惑に屈する" }
+    ],
+    "related": [
+      { "en": "tempt", "ja": "誘惑する・そそる" },
+      { "en": "tempting", "ja": "そそる・魅力的な" },
+      { "en": "lure", "ja": "誘い・おびき寄せるもの" },
+      { "en": "urge", "ja": "衝動・したい気持ち" }
+    ],
+    "faq": [
+      { "q": "resist temptation とは？", "a": "「誘惑に耐える・誘惑に負けない」という意味です。反対に give in to temptation は「誘惑に負ける・屈する」を表します。" },
+      { "q": "temptation の動詞・形容詞は？", "a": "動詞は tempt（誘惑する・そそる）、形容詞は tempting（そそる・魅力的な）です。a tempting offer（そそられる申し出）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "temptation の意味として最も適切なものは？", "A": "誘惑、したくなる衝動", "B": "退屈", "C": "義務", "D": "恐怖", "correct": "A" },
+      { "q": "resist temptation の意味は？", "A": "誘惑に耐える", "B": "誘惑に負ける", "C": "誘惑する", "D": "誘惑を作る", "correct": "A" }
+    ]
+  },
+  {
+    "english": "tetrapod",
+    "pron": "ˈtetrəpɑːd",
+    "kana": "テトラポッド",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ギリシャ語 tetra-(4)+pod(足)",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "生物・工学"],
+    "meaning_main": "四肢動物（4本の足を持つ脊椎動物）／（消波用の）テトラポッド",
+    "description": "tetrapod（テトラポッド）は「四肢動物」という意味の名詞。生物学では、4本の足（あし）を持つ脊椎動物のグループを指します（両生類・爬虫類・鳥類・ほ乳類）。また、海岸で波を弱めるために置く、4本の脚を持つコンクリートブロック（消波ブロック）も指します。tetra-（4）+ pod（足）でできた語です。",
+    "keywords": ["tetrapod 意味", "四肢動物 英語", "テトラポッド 消波ブロック", "tetra 4", "tetrapod 使い方"],
+    "meanings": [
+      { "hinshi": "【名】四肢動物（4本足の脊椎動物）", "note": "両生類・爬虫類・鳥類・ほ乳類のグループ。可算" },
+      { "hinshi": "【名】（消波用の）テトラポッド", "note": "波を弱める4本脚のコンクリートブロック" }
+    ],
+    "usages": [
+      { "title": "① 四肢動物", "desc": "4本の足を持つ脊椎動物のグループを指す使い方。", "example_en": "Amphibians were among the first tetrapods.", "example_ja": "両生類は最初の四肢動物の一つだった。" },
+      { "title": "② 消波ブロックのテトラポッド", "desc": "海岸で波を弱めるブロックを指す使い方。", "example_en": "Tetrapods protect the shore from waves.", "example_ja": "テトラポッドは海岸を波から守る。" }
+    ],
+    "warn": ["tetra-（4）+ pod（足）で「4本足のもの」。生物学の「四肢動物（tetrapod）」は、4本足の脊椎動物（両生類・爬虫類・鳥類・ほ乳類）を指し、進化の重要なグループです。工学の「テトラポッド」は消波ブロック（商標に由来）。文脈で意味が変わります。"],
+    "etym_note": "ギリシャ語 tetra-（4）+ pod / pous（足）から。「4本の足を持つもの＝四肢動物」の意味です。tripod（三脚）、octopus（8本足＝タコ）と同じ pod（足）を持ちます。",
+    "etym_chain": [
+      { "node": "tetra + pod", "sub": "4 + 足", "era": "ギリシャ語" },
+      { "node": "tetrapod", "sub": "四肢動物", "era": "近代英語" },
+      { "node": "tetrapod", "sub": "四肢動物・テトラポッド", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "early tetrapods", "ja": "初期の四肢動物" },
+      { "en": "the first tetrapods", "ja": "最初の四肢動物" },
+      { "en": "tetrapod evolution", "ja": "四肢動物の進化" },
+      { "en": "a concrete tetrapod", "ja": "コンクリートのテトラポッド" },
+      { "en": "tetrapods on the shore", "ja": "海岸のテトラポッド" },
+      { "en": "four-limbed tetrapods", "ja": "4本の四肢を持つ動物" }
+    ],
+    "related": [
+      { "en": "vertebrate", "ja": "脊椎動物" },
+      { "en": "amphibian", "ja": "両生類" },
+      { "en": "tripod", "ja": "三脚" },
+      { "en": "limb", "ja": "手足・四肢" }
+    ],
+    "faq": [
+      { "q": "生物学の tetrapod（四肢動物）とは？", "a": "4本の足（四肢）を持つ脊椎動物のグループです。両生類・爬虫類・鳥類・ほ乳類が含まれ、水中の魚から陸上へ進化する重要な段階として知られます。ヘビのように足を失ったものも、祖先が四肢動物なら含まれます。" },
+      { "q": "工学のテトラポッドとは？", "a": "海岸で波の力を弱めるために置く、4本の脚を持つコンクリートブロック（消波ブロック）です。もとは商品名で、脚が4方向に伸びた形をしています。" }
+    ],
+    "quiz": [
+      { "q": "生物学の tetrapod（四肢動物）に含まれないものは？", "A": "魚類（えらだけで足がない）", "B": "両生類", "C": "爬虫類", "D": "ほ乳類", "correct": "A" },
+      { "q": "tetrapod の tetra- が表す数は？", "A": "4", "B": "2", "C": "3", "D": "8", "correct": "A" }
+    ]
+  },
+  {
+    "english": "thankless",
+    "pron": "ˈθæŋkləs",
+    "kana": "サンクレス",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "thank(感謝)+-less(〜がない)",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "描写語"],
+    "meaning_main": "感謝されない／報われない（やっても認められない骨折り仕事）",
+    "description": "thankless（サンクレス）は「感謝されない／報われない」という意味の形容詞。一生けんめいやっても、だれからも感謝も評価もされない、割に合わない仕事や役目を表します。a thankless task/job（報われない仕事）のように使われます。thank（感謝）に「〜がない」を表す -less が付いた語です。",
+    "keywords": ["thankless 意味", "感謝されない 英語", "報われない 英語", "thankless task", "thankless 使い方"],
+    "meanings": [
+      { "hinshi": "【形】感謝されない、報われない", "note": "やっても認められない。a thankless task（報われない仕事）" }
+    ],
+    "usages": [
+      { "title": "① 報われない・感謝されない", "desc": "やっても評価されない割に合わないことを表す使い方。", "example_en": "Cleaning up after everyone is a thankless task.", "example_ja": "みんなの後片づけをするのは報われない仕事だ。" },
+      { "title": "② 骨折り仕事", "desc": "苦労しても認められない役目を表す使い方。", "example_en": "Being a referee is often a thankless job.", "example_ja": "審判をするのはしばしば報われない役目だ。" }
+    ],
+    "warn": ["a thankless task / job（報われない・感謝されない仕事）が定番。thank（感謝）+ -less（〜がない）で「感謝されない・報われない」。一生けんめいやっても評価も感謝もされない、割に合わないことに使います。副詞は thanklessly。"],
+    "etym_note": "thank（感謝。古英語 thanc 考え・感謝 から）に、「〜がない」を表す -less が付いた語。「感謝されない・報われない」の意味です。",
+    "etym_chain": [
+      { "node": "thanc", "sub": "考え・感謝", "era": "古英語" },
+      { "node": "thank", "sub": "感謝", "era": "中英語" },
+      { "node": "thankless", "sub": "感謝されない", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a thankless task", "ja": "報われない仕事" },
+      { "en": "a thankless job", "ja": "感謝されない役目" },
+      { "en": "a thankless role", "ja": "報われない役割" },
+      { "en": "thankless work", "ja": "報われない労働" },
+      { "en": "a thankless chore", "ja": "報われない雑用" },
+      { "en": "feel thankless", "ja": "報われないと感じる" }
+    ],
+    "related": [
+      { "en": "unrewarded", "ja": "報われない" },
+      { "en": "unappreciated", "ja": "評価されない" },
+      { "en": "ungrateful", "ja": "感謝しない（人が）" },
+      { "en": "rewarding", "ja": "やりがいのある（反対語）" }
+    ],
+    "faq": [
+      { "q": "a thankless task とは？", "a": "「報われない・感謝されない仕事」という意味です。一生けんめいやっても、だれからも感謝も評価もされない、割に合わない仕事や役目を指します。" },
+      { "q": "thankless の反対語は？", "a": "rewarding（やりがいのある・報われる）です。thankless は「報われない」、rewarding は「（努力が）報われる・満足感のある」を表します。" }
+    ],
+    "quiz": [
+      { "q": "thankless の意味として最も適切なものは？", "A": "感謝されない、報われない", "B": "とても感謝される", "C": "楽しい", "D": "簡単な", "correct": "A" },
+      { "q": "a thankless task の意味は？", "A": "報われない・感謝されない仕事", "B": "楽しい遊び", "C": "報酬の高い仕事", "D": "簡単な作業", "correct": "A" }
+    ]
+  },
+  {
+    "english": "thee",
+    "pron": "ðiː",
+    "kana": "ジー",
+    "hinshi": "代名詞 (古語)",
+    "ld_pos": "pronoun",
+    "ld_etym": "古英語 thē(あなたを・に)",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "古語・文学"],
+    "meaning_main": "（古語）あなたを・あなたに（you の目的格の古い形）",
+    "description": "thee（ジー）は「（古語で）あなたを・あなたに」という意味の代名詞。現代の you（あなた）の目的格にあたる、古い英語の言葉です。thou（あなたは＝主格）と対になり、聖書やシェイクスピアの作品、古い祈りや詩などで見られます。今は日常では使われません。",
+    "keywords": ["thee 意味", "古語 あなた 英語", "thou thee 違い", "you 古い形", "thee 使い方"],
+    "meanings": [
+      { "hinshi": "【代】（古語）あなたを、あなたに", "note": "you の目的格の古い形。thou（主格）と対。今は使われない" }
+    ],
+    "usages": [
+      { "title": "① あなたを・あなたに（目的格）", "desc": "動詞や前置詞の後ろで「あなた」を指す古い使い方。", "example_en": "I love thee.", "example_ja": "私はあなたを愛している。" },
+      { "title": "② 古い詩・祈りで", "desc": "聖書やシェイクスピアなどで見られる使い方。", "example_en": "How do I love thee?", "example_ja": "私はどれほどあなたを愛しているか？" }
+    ],
+    "warn": ["thee は you の『目的格（あなたを・に）』の古い形。主格（あなたは）は thou、所有格（あなたの）は thy / thine。今では日常で使わず、聖書・シェイクスピア・古い詩や祈り、一部の方言でのみ見られます。親しい相手への『きみ』のような響きでした。"],
+    "etym_note": "古英語 thē（thou の目的格）に由来。かつては一人の親しい相手を指す代名詞で、thou（主格）・thee（目的格）・thy/thine（所有格）と変化しました。のちに you に統一されました。",
+    "etym_chain": [
+      { "node": "the", "sub": "あなたを・に", "era": "古英語" },
+      { "node": "thee", "sub": "あなたを・に", "era": "中英語" },
+      { "node": "thee", "sub": "（古語）あなたを・に", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "I love thee", "ja": "私はあなたを愛している" },
+      { "en": "with thee", "ja": "あなたとともに" },
+      { "en": "to thee", "ja": "あなたに" },
+      { "en": "for thee", "ja": "あなたのために" },
+      { "en": "how do I love thee", "ja": "どれほどあなたを愛しているか" },
+      { "en": "thou and thee", "ja": "（主格の）thou と（目的格の）thee" }
+    ],
+    "related": [
+      { "en": "thou", "ja": "（古語）あなたは（主格）" },
+      { "en": "thy", "ja": "（古語）あなたの（所有格）" },
+      { "en": "you", "ja": "あなた（現代）" },
+      { "en": "thine", "ja": "（古語）あなたのもの" }
+    ],
+    "faq": [
+      { "q": "thee と thou の違いは？", "a": "thou は「あなたは（主格）」、thee は「あなたを・あなたに（目的格）」です。現代の you が主格・目的格を兼ねているのに対し、古い英語では thou と thee を使い分けました。" },
+      { "q": "thee は今でも使う？", "a": "日常では使いません。聖書やシェイクスピアの作品、古い祈りや詩、一部の方言でのみ見られる古語です。「あなたを・あなたに」という古風な言い方です。" }
+    ],
+    "quiz": [
+      { "q": "thee の意味として最も適切なものは？", "A": "（古語）あなたを・あなたに", "B": "私を", "C": "彼を", "D": "それを", "correct": "A" },
+      { "q": "thee（目的格）と対になる主格の古語は？", "A": "thou（あなたは）", "B": "thy（あなたの）", "C": "thine（あなたのもの）", "D": "them（彼らを）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "theoretical",
+    "pron": "ˌθiːəˈretɪkl",
+    "kana": "シアレティカル",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "theory(理論)+-ical",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出"],
+    "meaning_main": "理論的な／理論上の（実際の経験でなく理論にもとづく）",
+    "description": "theoretical（シアレティカル）は「理論的な／理論上の」という意味の形容詞。実際の経験や実践でなく、理論・考えにもとづくことを表します。理論上はそうだが実際はどうか分からない、という意味合いでも使われます。名詞 theory（理論）の形容詞形で、practical（実践的な）と対になる語です。",
+    "keywords": ["theoretical 意味", "理論的 英語", "理論上 英語", "theory 理論", "theoretical 使い方"],
+    "meanings": [
+      { "hinshi": "【形】理論的な、理論上の", "note": "実践でなく理論にもとづく。a theoretical possibility（理論上の可能性）" }
+    ],
+    "usages": [
+      { "title": "① 理論にもとづく", "desc": "実践でなく理論・考えにもとづくことを表す使い方。", "example_en": "This is a theoretical problem, not a practical one.", "example_ja": "これは実践上ではなく理論上の問題だ。" },
+      { "title": "② 理論上はそうだが（実際は不明）", "desc": "理論上の可能性を表す使い方。", "example_en": "There is a theoretical risk of infection.", "example_ja": "理論上は感染のリスクがある。" }
+    ],
+    "warn": ["反対は practical（実践的な・実際の）。theoretical は「理論的な・理論上の（実際に確かめられていない）」。副詞は theoretically（理論上は・理屈では）。名詞 theory（理論・学説）。abstract（抽象的な）とも近いですが、theoretical は「理論にもとづく」に重点があります。"],
+    "etym_note": "theory（理論。ギリシャ語 theoria 観察・考察 から）に、形容詞をつくる -ical が付いた語。「理論にもとづく＝理論的な」の意味です。",
+    "etym_chain": [
+      { "node": "theoria", "sub": "観察・考察", "era": "ギリシャ語" },
+      { "node": "theory", "sub": "理論", "era": "近代英語" },
+      { "node": "theoretical", "sub": "理論的な", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a theoretical possibility", "ja": "理論上の可能性" },
+      { "en": "theoretical physics", "ja": "理論物理学" },
+      { "en": "purely theoretical", "ja": "まったく理論上の" },
+      { "en": "a theoretical framework", "ja": "理論的枠組み" },
+      { "en": "theoretical knowledge", "ja": "理論的な知識" },
+      { "en": "theoretical and practical", "ja": "理論的かつ実践的な" }
+    ],
+    "related": [
+      { "en": "theory", "ja": "理論・学説" },
+      { "en": "practical", "ja": "実践的な（反対語）" },
+      { "en": "abstract", "ja": "抽象的な" },
+      { "en": "hypothetical", "ja": "仮定の・仮説の" }
+    ],
+    "faq": [
+      { "q": "theoretical と practical の違いは？", "a": "theoretical は「理論的な・理論上の（考えにもとづく）」、practical は「実践的な・実際の（経験や実行にもとづく）」です。theoretical knowledge（理論的知識）／ practical skills（実践的技能）のように対になります。" },
+      { "q": "theoretically とは？", "a": "「理論上は・理屈では」という副詞です。Theoretically, it should work.（理論上は、それはうまくいくはずだ）のように、実際はどうか分からないが理屈ではそうだ、という意味で使います。" }
+    ],
+    "quiz": [
+      { "q": "theoretical の意味として最も適切なものは？", "A": "理論的な、理論上の", "B": "実践的な・実際の", "C": "感情的な", "D": "身体的な", "correct": "A" },
+      { "q": "theoretical の反対の意味を持つ語は？", "A": "practical（実践的な）", "B": "abstract（抽象的な）", "C": "hypothetical（仮定の）", "D": "logical（論理的な）", "correct": "A" }
+    ]
+  }
+]

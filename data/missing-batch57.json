@@ -1,0 +1,991 @@
+[
+  {
+    "english": "ton",
+    "pron": "tʌn",
+    "kana": "タン",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "tun（大だる）の変形",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "トン(重さ)"],
+    "meaning_main": "トン（重さの単位。約1000kg）／(口語)たくさん・大量",
+    "description": "ton（タン）の意味・語源を解説。重さの単位「トン(約1000kg)」、また口語で「たくさん・大量」を表す名詞です。",
+    "keywords": ["ton 意味", "ton 使い方", "ton 語源", "ton とは", "トン 重さ 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】トン(重さの単位)", "note": "重さの単位。メートル法では約1000kg(metric ton)。米・英で少し異なる" },
+      { "hinshi": "【名詞・口語】たくさん、大量", "note": "tons of ～（たくさんの〜）。a ton of work（山ほどの仕事）" }
+    ],
+    "usages": [
+      { "title": "① 重さのトン", "desc": "約1000kg", "example_en": "The truck can carry ten tons.", "example_ja": "そのトラックは10トン積める。" },
+      { "title": "② たくさん（口語）", "desc": "tons of", "example_en": "I have tons of homework.", "example_ja": "私は山ほど宿題がある。" }
+    ],
+    "warn": ["重さの単位「トン」。metric ton(メートルトン、1000kg)、long ton(英、約1016kg)、short ton(米、約907kg)と少し異なる。口語の tons of ～（たくさんの〜、a lot of と同じ）も頻出。tone(音・調子)とは別の語。もとは「大だる(tun)」から"],
+    "etym_note": "tun（大きな酒だる、古英語 tunne)の変形で、もとは「(だる1つ分の)大きな重さ・容量」を表しました。そこから重さの単位「トン」になりました。",
+    "etym_chain": [
+      { "node": "tunne", "sub": "大だる", "era": "古英語" },
+      { "node": "tun/ton", "sub": "大だる分の重さ", "era": "中英語" },
+      { "node": "ton", "sub": "トン(重さの単位)", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "ten tons", "ja": "10トン" },
+      { "en": "a metric ton", "ja": "メートルトン(1000kg)" },
+      { "en": "tons of", "ja": "たくさんの〜" },
+      { "en": "a ton of work", "ja": "山ほどの仕事" },
+      { "en": "weigh a ton", "ja": "とても重い(トンの重さ)" },
+      { "en": "tons of money", "ja": "大金" }
+    ],
+    "related": [
+      { "en": "kilogram", "ja": "キログラム" },
+      { "en": "weight", "ja": "重さ" },
+      { "en": "pound", "ja": "ポンド(重さの単位)" },
+      { "en": "a lot of", "ja": "たくさんの" }
+    ],
+    "faq": [
+      { "q": "ton の意味は？", "a": "①重さの単位「トン(メートル法では約1000kg)」、②口語で「たくさん・大量(tons of ～＝たくさんの〜)」です。The truck carries ten tons.（10トン積む）、tons of homework（山ほどの宿題）のように使います。" },
+      { "q": "ton は国によって違う？", "a": "はい。メートルトン(metric ton)は1000kg、イギリスの long ton は約1016kg、アメリカの short ton は約907kg と少しずつ異なります。" }
+    ],
+    "quiz": [
+      { "q": "ton の意味に含まれるのは？", "A": "重さの単位トン／(口語)たくさん", "B": "長さの単位", "C": "時間", "D": "温度", "correct": "A" },
+      { "q": "tons of の意味は？", "A": "たくさんの〜", "B": "少しの〜", "C": "〜がない", "D": "半分の〜", "correct": "A" }
+    ]
+  },
+  {
+    "english": "torsion",
+    "pron": "ˈtɔːrʃn",
+    "kana": "トーション",
+    "hinshi": "名詞（物理・工学用語）",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 torquere（ねじる）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "ねじれ"],
+    "meaning_main": "ねじれ・ねじり（物体をねじる力・ねじれた状態）",
+    "description": "torsion（トーション）の意味・語源を解説。物体をねじる力、またねじれた状態「ねじれ・ねじり」を表す物理・工学の名詞です。",
+    "keywords": ["torsion 意味", "torsion 物理", "torsion 語源", "torsion とは", "ねじれ 英語"],
+    "meanings": [
+      { "hinshi": "【名詞・物理/工学】ねじれ、ねじり", "note": "物体の両端を逆向きに回そうとして生じるねじれ・その力。torsion bar（トーションバー、ねじり棒ばね)" }
+    ],
+    "usages": [
+      { "title": "① ねじる力", "desc": "物体のねじれ", "example_en": "The bar broke under torsion.", "example_ja": "その棒はねじれによって折れた。" },
+      { "title": "② ねじれた状態", "desc": "工学", "example_en": "Torsion tests measure how a material twists.", "example_ja": "ねじれ試験は材料がどうねじれるかを測る。" }
+    ],
+    "warn": ["物体をねじる力・ねじれた状態を表す物理・工学用語。torsion bar(トーションバー、ねじりばね、車のサスペンションに使う)。tension(引っ張る力)、compression(圧縮)、torsion(ねじり)は力の種類。医学の「精巣捻転(testicular torsion)」もこれ。ラテン語 torquere(ねじる)から"],
+    "etym_note": "ラテン語 torquere（ねじる)から生まれた torsio（ねじること)に由来します。「ねじること・ねじれ」を表します。torque（トルク・回転力）、torture(拷問、もとは「ねじる」)、distort(ゆがめる)と同語根です。",
+    "etym_chain": [
+      { "node": "torquere", "sub": "ねじる", "era": "ラテン語" },
+      { "node": "torsio", "sub": "ねじること", "era": "後期ラテン語" },
+      { "node": "torsion", "sub": "ねじれ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "under torsion", "ja": "ねじれによって" },
+      { "en": "a torsion bar", "ja": "トーションバー(ねじり棒ばね)" },
+      { "en": "torsion force", "ja": "ねじる力" },
+      { "en": "resist torsion", "ja": "ねじれに耐える" },
+      { "en": "a torsion test", "ja": "ねじれ試験" },
+      { "en": "torsional stress", "ja": "ねじり応力" }
+    ],
+    "related": [
+      { "en": "twist", "ja": "ねじる・ねじれ" },
+      { "en": "torque", "ja": "トルク・回転力" },
+      { "en": "tension", "ja": "張力・引っ張る力" },
+      { "en": "compression", "ja": "圧縮" }
+    ],
+    "faq": [
+      { "q": "torsion とは？", "a": "物体の両端を逆向きに回そうとして生じる「ねじれ・ねじり」、またその力を表す物理・工学の用語です。ねじり棒ばね(torsion bar)は車のサスペンションなどに使われます。" },
+      { "q": "torsion の語源は？", "a": "ラテン語 torquere（ねじる）です。torque（トルク・回転させる力）、distort（ゆがめる）、torture（拷問、もとは「ねじる」）などと同じ語源で、「ねじる」に関する語です。" }
+    ],
+    "quiz": [
+      { "q": "torsion の意味は？", "A": "ねじれ・ねじり", "B": "引っ張り", "C": "圧縮", "D": "曲げ", "correct": "A" },
+      { "q": "torsion と同語源なのは？", "A": "torque（トルク・回転力）", "B": "tour（旅行）", "C": "torch（たいまつ）", "D": "total（合計）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "touching",
+    "pron": "ˈtʌtʃɪŋ",
+    "kana": "タッチング",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "touch（触れる・感動させる）+ -ing",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "感動的な"],
+    "meaning_main": "感動的な・胸を打つ・心を動かす",
+    "description": "touching（タッチング）の意味・使い方・語源を解説。心を動かす「感動的な・胸を打つ」という意味の形容詞です。",
+    "keywords": ["touching 意味", "touching 使い方", "touching 語源", "touching 例文", "感動的 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】感動的な、胸を打つ、心を動かす", "note": "人の心を優しく動かして、じんとさせる。a touching story（感動的な物語）" }
+    ],
+    "usages": [
+      { "title": "① 感動的な", "desc": "胸を打つ", "example_en": "It was a touching moment.", "example_ja": "それは感動的な瞬間だった。" },
+      { "title": "② 心を動かす", "desc": "じんとくる", "example_en": "She wrote a touching letter.", "example_ja": "彼女は胸を打つ手紙を書いた。" }
+    ],
+    "warn": ["動詞 touch（触れる・感動させる）+ -ing。「(心を優しく動かして)感動的な・胸を打つ」。moving(感動させる)が近い。be touched（感動する）。a touching story/scene（感動的な物語/場面）。名詞 touch(触れること・(手法の)タッチ)は別。exciting(わくわくさせる)とはニュアンスが違う"],
+    "etym_note": "touch（触れる、古フランス語 tochier から。「心に触れる＝感動させる」の意味も持つ)の -ing 形です。「(心に)触れる＝感動的な」を表します。",
+    "etym_chain": [
+      { "node": "tochier", "sub": "触れる", "era": "古フランス語" },
+      { "node": "touch", "sub": "触れる・感動させる", "era": "中英語" },
+      { "node": "touching", "sub": "感動的な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a touching story", "ja": "感動的な物語" },
+      { "en": "a touching moment", "ja": "感動的な瞬間" },
+      { "en": "a touching scene", "ja": "胸を打つ場面" },
+      { "en": "deeply touching", "ja": "深く胸を打つ" },
+      { "en": "a touching tribute", "ja": "感動的な追悼" },
+      { "en": "a touching gesture", "ja": "心温まる心づかい" }
+    ],
+    "related": [
+      { "en": "touch", "ja": "触れる・感動させる" },
+      { "en": "moving", "ja": "感動させる" },
+      { "en": "heartwarming", "ja": "心温まる" },
+      { "en": "emotional", "ja": "感動的な・感情的な" }
+    ],
+    "faq": [
+      { "q": "touching の意味は？", "a": "「感動的な・胸を打つ・心を動かす(人の心を優しく動かして、じんとさせる)」という意味の形容詞です。a touching story（感動的な物語）のように使います。動詞 touch（心に触れる・感動させる）+ -ing からできています。" },
+      { "q": "touching と moving の違いは？", "a": "どちらも「感動的な・感動させる」で、ほぼ同じように使えます。touching は「(優しく)心に触れて、じんとさせる」、moving は「(強く)心を動かす」というニュアンスが少しあります。" }
+    ],
+    "quiz": [
+      { "q": "touching の意味は？", "A": "感動的な・胸を打つ", "B": "退屈な", "C": "こわい", "D": "うるさい", "correct": "A" },
+      { "q": "touching に近い語は？", "A": "moving（感動させる）", "B": "boring（退屈な）", "C": "scary（こわい）", "D": "funny（おかしい）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "trailer",
+    "pron": "ˈtreɪlər",
+    "kana": "トレイラー",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "trail（引きずる）+ -er",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "トレーラー・予告編"],
+    "meaning_main": "(車に引かれる)トレーラー・荷台／(映画・番組の)予告編",
+    "description": "trailer（トレイラー）の意味・語源を解説。車に引かれる「トレーラー・荷台」、また映画などの「予告編」を表す名詞です。",
+    "keywords": ["trailer 意味", "trailer 使い方", "trailer 語源", "trailer とは", "トレーラー 予告編 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】(車に引かれる)トレーラー、荷台、移動住宅", "note": "自動車などに連結して引っ張る車両・荷台。a trailer home（トレーラーハウス)" },
+      { "hinshi": "【名詞】(映画・番組の)予告編", "note": "公開前に見どころを短く見せる宣伝映像。a movie trailer（映画の予告編)" }
+    ],
+    "usages": [
+      { "title": "① トレーラー・荷台", "desc": "車に引かれる", "example_en": "The truck was pulling a trailer.", "example_ja": "トラックはトレーラーを引いていた。" },
+      { "title": "② 映画の予告編", "desc": "宣伝映像", "example_en": "I watched the trailer for the new movie.", "example_ja": "私は新作映画の予告編を見た。" }
+    ],
+    "warn": ["trail（引きずる・引く）+ -er。「①(車に引かれる)トレーラー・荷台・移動住宅(trailer home) ②(映画・番組の)予告編(a movie trailer)」。予告編がなぜ trailer か: もとは映画の後ろ(trail＝あとを引く)に流れたことから。preview(試写・予告)も予告編を指す"],
+    "etym_note": "trail（引きずる・あとを引く、古フランス語 trailler から)に「〜するもの」の -er が付いた語です。「引かれるもの＝トレーラー」を表し、予告編は「本編のあとに引いて流れたもの」から来ています。",
+    "etym_chain": [
+      { "node": "trailler", "sub": "引きずる", "era": "古フランス語" },
+      { "node": "trail", "sub": "引きずる・あとを引く", "era": "中英語" },
+      { "node": "trailer", "sub": "トレーラー・予告編", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a movie trailer", "ja": "映画の予告編" },
+      { "en": "pull a trailer", "ja": "トレーラーを引く" },
+      { "en": "a trailer home", "ja": "トレーラーハウス" },
+      { "en": "watch the trailer", "ja": "予告編を見る" },
+      { "en": "a truck trailer", "ja": "トラックのトレーラー" },
+      { "en": "an official trailer", "ja": "公式予告編" }
+    ],
+    "related": [
+      { "en": "trail", "ja": "引きずる・小道" },
+      { "en": "preview", "ja": "試写・予告" },
+      { "en": "truck", "ja": "トラック" },
+      { "en": "advertisement", "ja": "宣伝・広告" }
+    ],
+    "faq": [
+      { "q": "trailer の意味は？", "a": "①「(車に引かれる)トレーラー・荷台・移動住宅(a trailer home)」、②「(映画・番組の)予告編(a movie trailer)」です。trail（引きずる）+ -er からできています。" },
+      { "q": "なぜ映画の予告編を trailer というの？", "a": "もともとは映画の「後ろ(trail＝あとを引いて)」に流された宣伝映像だったことに由来します。今は本編の前に流れますが、名前は trailer のまま残っています。" }
+    ],
+    "quiz": [
+      { "q": "trailer の意味に含まれるのは？", "A": "(車に引かれる)トレーラー／映画の予告編", "B": "エンジン", "C": "ハンドル", "D": "タイヤだけ", "correct": "A" },
+      { "q": "a movie trailer とは？", "A": "映画の予告編", "B": "映画館", "C": "映画のチケット", "D": "映画監督", "correct": "A" }
+    ]
+  },
+  {
+    "english": "transatlantic",
+    "pron": "ˌtrænzətˈlæntɪk",
+    "kana": "トランスアトランティック",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "trans-（越えて）+ Atlantic（大西洋）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "大西洋横断の"],
+    "meaning_main": "大西洋横断の／大西洋をはさんだ（欧米間の）",
+    "description": "transatlantic（トランスアトランティック）の意味・語源を解説。大西洋を越える「大西洋横断の」、また大西洋をはさんだ「欧米間の」という意味の形容詞です。",
+    "keywords": ["transatlantic 意味", "transatlantic 使い方", "transatlantic 語源", "transatlantic 例文", "大西洋横断 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】大西洋横断の、大西洋を越える", "note": "大西洋を横切る。a transatlantic flight（大西洋横断便）" },
+      { "hinshi": "【形容詞】大西洋をはさんだ、(ヨーロッパとアメリカの)両岸の", "note": "欧米間の。transatlantic relations（大西洋をはさんだ関係＝欧米関係）" }
+    ],
+    "usages": [
+      { "title": "① 大西洋横断の", "desc": "大西洋を越える", "example_en": "They took a transatlantic flight.", "example_ja": "彼らは大西洋横断便に乗った。" },
+      { "title": "② 欧米間の", "desc": "大西洋をはさんだ", "example_en": "transatlantic trade between Europe and America", "example_ja": "ヨーロッパとアメリカの間の大西洋をはさんだ貿易" }
+    ],
+    "warn": ["trans-（越えて）+ Atlantic（大西洋）で「大西洋横断の・大西洋をはさんだ」。ヨーロッパとアメリカ(北米)の間を指すことが多い。a transatlantic flight/cable（大西洋横断便/ケーブル)。同様に transpacific(太平洋横断の)、transcontinental(大陸横断の)。trans-(越えて)は transport(輸送)などにも"],
+    "etym_note": "ラテン語 trans（越えて・横切って)+ Atlantic（大西洋)を組み合わせた語で、「大西洋を越える」を表します。trans- は transfer(移す)、translate(翻訳する)などにも使われます。",
+    "etym_chain": [
+      { "node": "trans + Atlantic", "sub": "越えて + 大西洋", "era": "英語" },
+      { "node": "transatlantic", "sub": "大西洋横断の", "era": "18世紀" },
+      { "node": "transatlantic", "sub": "大西洋横断の・欧米間の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a transatlantic flight", "ja": "大西洋横断便" },
+      { "en": "a transatlantic voyage", "ja": "大西洋横断の航海" },
+      { "en": "transatlantic trade", "ja": "大西洋をはさんだ貿易" },
+      { "en": "transatlantic relations", "ja": "欧米関係" },
+      { "en": "a transatlantic cable", "ja": "大西洋横断ケーブル" },
+      { "en": "transatlantic cooperation", "ja": "欧米間の協力" }
+    ],
+    "related": [
+      { "en": "Atlantic", "ja": "大西洋" },
+      { "en": "transpacific", "ja": "太平洋横断の" },
+      { "en": "transcontinental", "ja": "大陸横断の" },
+      { "en": "overseas", "ja": "海外の" }
+    ],
+    "faq": [
+      { "q": "transatlantic の意味は？", "a": "①「大西洋横断の・大西洋を越える(a transatlantic flight＝大西洋横断便)」、②「大西洋をはさんだ・(ヨーロッパとアメリカの)欧米間の(transatlantic relations＝欧米関係)」です。trans-（越えて）+ Atlantic（大西洋）からできています。" },
+      { "q": "transatlantic と transpacific の違いは？", "a": "transatlantic は「大西洋を横断する(欧米間)」、transpacific は「太平洋を横断する(アジア・北米間など)」です。越える海が異なります。" }
+    ],
+    "quiz": [
+      { "q": "transatlantic の意味は？", "A": "大西洋横断の・欧米間の", "B": "太平洋の", "C": "地中海の", "D": "内陸の", "correct": "A" },
+      { "q": "a transatlantic flight とは？", "A": "大西洋横断便", "B": "国内便", "C": "太平洋横断便", "D": "初便", "correct": "A" }
+    ]
+  },
+  {
+    "english": "transcription",
+    "pron": "trænˈskrɪpʃn",
+    "kana": "トランスクリプション",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 transcribere（書き写す）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "書き起こし・転写"],
+    "meaning_main": "(音声などの)書き起こし・文字化／書き写し・転写／(生物の)転写",
+    "description": "transcription（トランスクリプション）の意味・語源を解説。音声を文字に書き起こすこと、書き写し、また生物学の「転写」を表す名詞です。",
+    "keywords": ["transcription 意味", "transcription 使い方", "transcription 語源", "transcription とは", "書き起こし 転写 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】(音声などの)書き起こし、文字化、書き写し", "note": "話された言葉を文字にすること・その文書。a transcription of the interview（インタビューの書き起こし）" },
+      { "hinshi": "【名詞・音声学】発音記号での表記、音写", "note": "phonetic transcription（発音記号表記）" },
+      { "hinshi": "【名詞・生物】転写(てんしゃ)", "note": "DNAの情報がRNAに写し取られること" }
+    ],
+    "usages": [
+      { "title": "① 書き起こし", "desc": "音声を文字に", "example_en": "I made a transcription of the recording.", "example_ja": "私はその録音を書き起こした。" },
+      { "title": "② 生物の転写", "desc": "DNA→RNA", "example_en": "Transcription copies DNA into RNA.", "example_ja": "転写はDNAをRNAに写し取る。" }
+    ],
+    "warn": ["動詞は transcribe（書き写す・書き起こす・転写する）。「①(音声の)書き起こし・文字化 ②(音声学の)発音記号表記 ③(生物の)転写(DNA→RNA)」。trans-(越えて)+ scribe(書く)で「写し取る」。translation(翻訳)とは別(transcription は同じ言語で文字化・書き写し)"],
+    "etym_note": "ラテン語 transcribere（trans-「越えて」+ scribere「書く」＝書き写す)に由来する transcribe の名詞です。「(別の形に)書き写すこと」を表します。scribe(写字生)、describe(描写する)、script(台本)と同語根です。",
+    "etym_chain": [
+      { "node": "scribere", "sub": "書く", "era": "ラテン語" },
+      { "node": "transcribere", "sub": "書き写す", "era": "ラテン語" },
+      { "node": "transcription", "sub": "書き起こし・転写", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a transcription of the interview", "ja": "インタビューの書き起こし" },
+      { "en": "phonetic transcription", "ja": "発音記号表記" },
+      { "en": "audio transcription", "ja": "音声の書き起こし" },
+      { "en": "DNA transcription", "ja": "DNAの転写" },
+      { "en": "make a transcription", "ja": "書き起こす" },
+      { "en": "an accurate transcription", "ja": "正確な書き起こし" }
+    ],
+    "related": [
+      { "en": "transcribe", "ja": "書き写す・書き起こす" },
+      { "en": "translation", "ja": "翻訳(別言語へ)" },
+      { "en": "recording", "ja": "録音" },
+      { "en": "text", "ja": "文字・本文" }
+    ],
+    "faq": [
+      { "q": "transcription の意味は？", "a": "①「(音声などの)書き起こし・文字化・書き写し(話された言葉を文字にすること)」、②音声学の「発音記号での表記」、③生物学の「転写(DNAの情報がRNAに写し取られること)」です。動詞は transcribe です。" },
+      { "q": "transcription と translation の違いは？", "a": "transcription(書き起こし・転写)は「同じ言語で音声を文字にする・別の形に写す」こと、translation(翻訳)は「別の言語に置き換える」ことです。写すか訳すかの違いです。" }
+    ],
+    "quiz": [
+      { "q": "transcription の意味に含まれるのは？", "A": "書き起こし・書き写し・(生物の)転写", "B": "翻訳(別言語へ)のみ", "C": "破壊", "D": "計算", "correct": "A" },
+      { "q": "transcription の動詞形は？", "A": "transcribe（書き写す）", "B": "translate（翻訳する）", "C": "transfer（移す）", "D": "transform（変える）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "translucent",
+    "pron": "trænzˈluːsnt",
+    "kana": "トランスルーセント",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "trans-（通して）+ ラテン語 lucere（光る）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "半透明の"],
+    "meaning_main": "半透明の（光は通すが、向こうははっきり見えない）",
+    "description": "translucent（トランスルーセント）の意味・語源を解説。光は通すが向こうがはっきり見えない「半透明の」という意味の形容詞です。",
+    "keywords": ["translucent 意味", "translucent 使い方", "translucent 語源", "translucent 例文", "半透明 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】半透明の", "note": "光は通すが、向こう側がはっきりとは見えない。すりガラスや薄い紙のような状態。translucent glass（すりガラス)" }
+    ],
+    "usages": [
+      { "title": "① 半透明の", "desc": "光は通す", "example_en": "The lamp has a translucent shade.", "example_ja": "そのランプは半透明のかさがついている。" },
+      { "title": "② すりガラスのような", "desc": "向こうがぼやける", "example_en": "The window is made of translucent glass.", "example_ja": "その窓は半透明のガラスでできている。" }
+    ],
+    "warn": ["「半透明の(光は通すが向こうがはっきり見えない、すりガラス・薄紙など)」。区別: transparent(透明、向こうがはっきり見える、ガラス・水)、translucent(半透明、光は通すがぼやける)、opaque(不透明、光を通さない、木・金属)。trans-(通して)+ luc-(光る、lucid＝明快な と同語源)"],
+    "etym_note": "ラテン語 translucere（trans-「通して」+ lucere「光る」＝通して光る)に由来します。「光が通り抜ける＝半透明の」を表します。lucid(明快な)、lucent(光る)、translate(翻訳、trans-越えて)と語根がつながります。",
+    "etym_chain": [
+      { "node": "lucere", "sub": "光る", "era": "ラテン語" },
+      { "node": "translucere", "sub": "通して光る", "era": "ラテン語" },
+      { "node": "translucent", "sub": "半透明の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "translucent glass", "ja": "すりガラス・半透明のガラス" },
+      { "en": "a translucent material", "ja": "半透明の素材" },
+      { "en": "translucent skin", "ja": "透き通るような肌" },
+      { "en": "a translucent shade", "ja": "半透明のかさ" },
+      { "en": "translucent paper", "ja": "半透明の紙" },
+      { "en": "slightly translucent", "ja": "わずかに半透明の" }
+    ],
+    "related": [
+      { "en": "transparent", "ja": "透明の(はっきり見える)" },
+      { "en": "opaque", "ja": "不透明の(光を通さない)" },
+      { "en": "clear", "ja": "透明な・澄んだ" },
+      { "en": "frosted", "ja": "すりガラスの・くもった" }
+    ],
+    "faq": [
+      { "q": "translucent の意味は？", "a": "「半透明の(光は通すが、向こう側がはっきりとは見えない)」という意味の形容詞です。すりガラスや薄い紙のような状態を表します。translucent glass（すりガラス）のように使います。" },
+      { "q": "transparent と translucent と opaque の違いは？", "a": "transparent(透明)は「向こうがはっきり見える(ガラス・水)」、translucent(半透明)は「光は通すが向こうがぼやける(すりガラス)」、opaque(不透明)は「光を通さない(木・金属)」です。光の通し方が異なります。" }
+    ],
+    "quiz": [
+      { "q": "translucent の意味は？", "A": "半透明の(光は通すが向こうはぼやける)", "B": "完全に透明", "C": "真っ暗", "D": "光を通さない", "correct": "A" },
+      { "q": "translucent と transparent の違いは？", "A": "translucentは半透明、transparentは(はっきり見える)透明", "B": "どちらも同じ", "C": "translucentは不透明", "D": "transparentは半透明", "correct": "A" }
+    ]
+  },
+  {
+    "english": "transmitter",
+    "pron": "trænzˈmɪtər",
+    "kana": "トランスミッター",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "transmit（送信する）+ -er",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR B2", "送信機"],
+    "meaning_main": "送信機・発信機（電波・信号を送り出す装置）／伝えるもの",
+    "description": "transmitter（トランスミッター）の意味・語源を解説。電波や信号を送り出す装置「送信機・発信機」を表す名詞です。",
+    "keywords": ["transmitter 意味", "transmitter 使い方", "transmitter 語源", "transmitter とは", "送信機 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】送信機、発信機", "note": "電波・信号を送り出す装置。receiver（受信機）の反対。a radio transmitter（無線送信機)" },
+      { "hinshi": "【名詞】伝えるもの、伝達するもの", "note": "(病気・情報などを)伝えるもの。a transmitter of disease（病気を媒介するもの)" }
+    ],
+    "usages": [
+      { "title": "① 送信機", "desc": "電波を送る", "example_en": "The radio transmitter sends signals.", "example_ja": "無線送信機は信号を送る。" },
+      { "title": "② 伝えるもの", "desc": "媒介するもの", "example_en": "Mosquitoes are transmitters of malaria.", "example_ja": "蚊はマラリアを媒介するものだ。" }
+    ],
+    "warn": ["動詞 transmit（送信する・伝える・(病気を)うつす）+ -er（〜するもの）。反対は receiver（受信機）。「①送信機・発信機(電波・信号を送る) ②(病気・情報を)伝えるもの・媒介するもの」。transmission(送信・伝達・(車の)変速機)。神経の「神経伝達物質」は neurotransmitter"],
+    "etym_note": "transmit（送信する、ラテン語 transmittere: trans-「越えて」+ mittere「送る」）に「〜するもの」の -er が付いた語です。「(越えて)送るもの＝送信機」を表します。mission(任務、送ること)、submit(提出する)と同語根です。",
+    "etym_chain": [
+      { "node": "transmittere", "sub": "越えて送る", "era": "ラテン語" },
+      { "node": "transmit", "sub": "送信する・伝える", "era": "近代英語" },
+      { "node": "transmitter", "sub": "送信機", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a radio transmitter", "ja": "無線送信機" },
+      { "en": "a TV transmitter", "ja": "テレビ送信機" },
+      { "en": "a transmitter and receiver", "ja": "送信機と受信機" },
+      { "en": "a wireless transmitter", "ja": "無線送信機" },
+      { "en": "a disease transmitter", "ja": "病気を媒介するもの" },
+      { "en": "install a transmitter", "ja": "送信機を設置する" }
+    ],
+    "related": [
+      { "en": "transmit", "ja": "送信する・伝える" },
+      { "en": "receiver", "ja": "受信機（反対）" },
+      { "en": "transmission", "ja": "送信・伝達" },
+      { "en": "signal", "ja": "信号" }
+    ],
+    "faq": [
+      { "q": "transmitter の意味は？", "a": "①「送信機・発信機(電波・信号を送り出す装置、a radio transmitter＝無線送信機)」、②「(病気・情報などを)伝えるもの・媒介するもの」です。動詞は transmit（送信する・伝える）です。反対は receiver（受信機）です。" },
+      { "q": "transmitter と receiver の違いは？", "a": "transmitter は「送信機(信号を送り出す)」、receiver は「受信機(信号を受け取る)」です。無線通信では、送信機が電波を送り、受信機がそれを受け取ります。" }
+    ],
+    "quiz": [
+      { "q": "transmitter の意味は？", "A": "送信機・発信機", "B": "受信機", "C": "録音機", "D": "計算機", "correct": "A" },
+      { "q": "transmitter の反対語は？", "A": "receiver（受信機）", "B": "transmit（送信する）", "C": "transmission（送信）", "D": "transport（輸送）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "transverse",
+    "pron": "trænzˈvɜːrs",
+    "kana": "トランスバース",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "ラテン語 transvertere（横切る）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "横断の・横方向の"],
+    "meaning_main": "横断する・横向きの・横方向の（長い方向に対して直角の）",
+    "description": "transverse（トランスバース）の意味・語源を解説。長い方向に対して直角に「横切る・横方向の」という意味の形容詞です。",
+    "keywords": ["transverse 意味", "transverse 使い方", "transverse 語源", "transverse 例文", "横方向 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】横断する、横向きの、横方向の、横の", "note": "主となる方向(長軸)に対して直角に横切る。a transverse section（横断面）、transverse waves（横波)" }
+    ],
+    "usages": [
+      { "title": "① 横断する・横方向の", "desc": "直角に横切る", "example_en": "The beam runs in a transverse direction.", "example_ja": "その梁は横方向に走っている。" },
+      { "title": "② 横波・横断面", "desc": "物理・解剖", "example_en": "Light is a transverse wave.", "example_ja": "光は横波だ。" }
+    ],
+    "warn": ["「(長い方向に対して)直角に横切る・横方向の」。物理の transverse waves(横波、振動が進行方向に直角。光など)は longitudinal waves(縦波、音など)の対。解剖の transverse plane(横断面)。数学・工学・解剖でよく使う。ラテン語 trans-(越えて)+ vertere(向ける)"],
+    "etym_note": "ラテン語 transvertere（trans-「越えて」+ vertere「向ける・回す」＝横に向ける・横切る)に由来します。「横切る＝横方向の」を表します。version(版)、reverse(逆の)、universe(宇宙)と語根(vertere＝回す)がつながります。",
+    "etym_chain": [
+      { "node": "vertere", "sub": "向ける・回す", "era": "ラテン語" },
+      { "node": "transvertere", "sub": "横切る", "era": "ラテン語" },
+      { "node": "transverse", "sub": "横断の・横方向の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a transverse section", "ja": "横断面" },
+      { "en": "transverse waves", "ja": "横波" },
+      { "en": "the transverse plane", "ja": "横断面(解剖)" },
+      { "en": "a transverse beam", "ja": "横梁(はり)" },
+      { "en": "in a transverse direction", "ja": "横方向に" },
+      { "en": "the transverse axis", "ja": "横軸" }
+    ],
+    "related": [
+      { "en": "longitudinal", "ja": "縦の・縦方向の(対)" },
+      { "en": "horizontal", "ja": "水平の" },
+      { "en": "lateral", "ja": "横の・側面の" },
+      { "en": "cross", "ja": "横切る・十字" }
+    ],
+    "faq": [
+      { "q": "transverse の意味は？", "a": "「横断する・横向きの・横方向の(主となる方向＝長軸に対して直角に横切る)」という意味の形容詞です。a transverse section（横断面）、transverse waves（横波）のように、数学・物理・解剖で使われます。" },
+      { "q": "transverse waves(横波)とは？", "a": "「横波」のことです。振動が波の進行方向に対して直角に起こる波で、光がその例です。反対の「縦波(longitudinal waves)」は振動が進行方向と同じで、音がその例です。" }
+    ],
+    "quiz": [
+      { "q": "transverse の意味は？", "A": "横断する・横方向の", "B": "縦方向の", "C": "円形の", "D": "斜めの", "correct": "A" },
+      { "q": "transverse waves(横波)の例は？", "A": "光", "B": "音", "C": "風", "D": "水の流れ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "traveler",
+    "pron": "ˈtrævələr",
+    "kana": "トラベラー",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "travel（旅行する）+ -er",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "旅行者"],
+    "meaning_main": "旅行者・旅人",
+    "description": "traveler（トラベラー）の意味・語源を解説。旅をする人「旅行者・旅人」を表す名詞です。（英・traveller）",
+    "keywords": ["traveler 意味", "traveler 使い方", "traveler 語源", "traveler 例文", "旅行者 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】旅行者、旅人", "note": "旅をする人。a frequent traveler（よく旅する人）" }
+    ],
+    "usages": [
+      { "title": "① 旅行者", "desc": "旅をする人", "example_en": "The hotel is popular with travelers.", "example_ja": "そのホテルは旅行者に人気だ。" },
+      { "title": "② 旅慣れた人", "desc": "よく旅する", "example_en": "She is a seasoned traveler.", "example_ja": "彼女は旅慣れた旅行者だ。" }
+    ],
+    "warn": ["アメリカ英語 traveler、イギリス英語 traveller（l が2つ）。動詞 travel（旅行する）+ -er。名詞 travel（旅行）。tourist(観光客、楽しみのため)より広く「旅する人全般」。a traveler's check は「トラベラーズチェック(旅行小切手)」"],
+    "etym_note": "travel（旅行する、古フランス語 travailler「苦労する」から。昔の旅は苦労を伴ったことから)に「〜する人」の -er が付いた語です。「旅する人」を表します。travail(骨折り)と同語源です。",
+    "etym_chain": [
+      { "node": "travailler", "sub": "苦労する", "era": "古フランス語" },
+      { "node": "travel", "sub": "旅行する", "era": "中英語" },
+      { "node": "traveler", "sub": "旅行者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a frequent traveler", "ja": "よく旅する人" },
+      { "en": "a seasoned traveler", "ja": "旅慣れた人" },
+      { "en": "a fellow traveler", "ja": "旅の道連れ" },
+      { "en": "a business traveler", "ja": "出張者" },
+      { "en": "a solo traveler", "ja": "一人旅の人" },
+      { "en": "a traveler's check", "ja": "トラベラーズチェック" }
+    ],
+    "related": [
+      { "en": "travel", "ja": "旅行(する)" },
+      { "en": "tourist", "ja": "観光客" },
+      { "en": "journey", "ja": "旅" },
+      { "en": "trip", "ja": "旅行" }
+    ],
+    "faq": [
+      { "q": "traveler とは？", "a": "旅をする人「旅行者・旅人」です。travel（旅行する）+ -er（〜する人）からできています。a frequent traveler（よく旅する人）、a seasoned traveler（旅慣れた人）のように使います。" },
+      { "q": "traveler と tourist の違いは？", "a": "traveler は「旅する人全般」、tourist は「(楽しみ・見物のための)観光客」です。traveler の方が広く、出張者や長期の旅人なども含みます。" }
+    ],
+    "quiz": [
+      { "q": "traveler の意味は？", "A": "旅行者・旅人", "B": "運転手", "C": "案内人", "D": "料理人", "correct": "A" },
+      { "q": "traveler の動詞形は？", "A": "travel（旅行する）", "B": "trace（たどる）", "C": "trade（取引する）", "D": "train（訓練する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "trilogy",
+    "pron": "ˈtrɪlədʒi",
+    "kana": "トリロジー",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ギリシャ語 tri（3）+ logos（物語）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "三部作"],
+    "meaning_main": "三部作（関連する3つの作品からなる一続きの物語）",
+    "description": "trilogy（トリロジー）の意味・語源を解説。関連する3つの作品からなる一続きの物語「三部作」を表す名詞です。",
+    "keywords": ["trilogy 意味", "trilogy 使い方", "trilogy 語源", "trilogy とは", "三部作 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】三部作", "note": "関連する3つの作品(小説・映画など)が一続きの物語をなすもの。the Lord of the Rings trilogy（指輪物語三部作)" }
+    ],
+    "usages": [
+      { "title": "① 三部作", "desc": "3つの作品", "example_en": "The movie is the first part of a trilogy.", "example_ja": "その映画は三部作の第1作だ。" },
+      { "title": "② 一続きの物語", "desc": "小説・映画", "example_en": "She wrote a fantasy trilogy.", "example_ja": "彼女はファンタジー三部作を書いた。" }
+    ],
+    "warn": ["tri-（3）+ -logy（物語・言葉）で「3つの物語＝三部作」。2作品は「二部作(duology)」はまれで、ふつう a series(シリーズ)。tri-(3)は triangle(三角形)、tricycle(三輪車)などに。-logy(学問・言葉)は biology(生物学)などに。もとは古代ギリシャの悲劇の3部構成から"],
+    "etym_note": "ギリシャ語 trilogia（tri-「3」+ logos「言葉・物語」＝3つの物語)に由来します。もとは古代ギリシャの悲劇が3部構成で上演されたことに由来します。tri-(3)、-logy(言葉・学問)を含みます。",
+    "etym_chain": [
+      { "node": "tri + logos", "sub": "3 + 物語", "era": "ギリシャ語" },
+      { "node": "trilogia", "sub": "3部の物語", "era": "ギリシャ語" },
+      { "node": "trilogy", "sub": "三部作", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a movie trilogy", "ja": "映画の三部作" },
+      { "en": "a fantasy trilogy", "ja": "ファンタジー三部作" },
+      { "en": "the first of the trilogy", "ja": "三部作の第1作" },
+      { "en": "complete the trilogy", "ja": "三部作を完結させる" },
+      { "en": "an original trilogy", "ja": "オリジナル三部作" },
+      { "en": "a classic trilogy", "ja": "名作三部作" }
+    ],
+    "related": [
+      { "en": "series", "ja": "シリーズ・連作" },
+      { "en": "sequel", "ja": "続編" },
+      { "en": "saga", "ja": "長編物語・サーガ" },
+      { "en": "installment", "ja": "(連載の)1回分" }
+    ],
+    "faq": [
+      { "q": "trilogy とは？", "a": "関連する3つの作品(小説・映画など)が一続きの物語をなす「三部作」です。tri-（3）+ -logy（物語）からできています。the Lord of the Rings trilogy（指輪物語三部作）のように使います。" },
+      { "q": "trilogy の語源は？", "a": "ギリシャ語 tri（3）+ logos（物語・言葉）で「3つの物語」を表します。tri-(3)は triangle(三角形)、tricycle(三輪車)などにも使われます。" }
+    ],
+    "quiz": [
+      { "q": "trilogy とは？", "A": "3つの作品からなる三部作", "B": "2つの作品", "C": "1つの作品", "D": "たくさんの作品", "correct": "A" },
+      { "q": "trilogy の tri- は何を表す？", "A": "3", "B": "1", "C": "2", "D": "多数", "correct": "A" }
+    ]
+  },
+  {
+    "english": "trinity",
+    "pron": "ˈtrɪnəti",
+    "kana": "トリニティ",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 trinitas（三つ組）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "三位一体・三つ組"],
+    "meaning_main": "(キリスト教の)三位一体／(一般に)三つ組・3つで一組のもの",
+    "description": "trinity（トリニティ）の意味・語源を解説。キリスト教の「三位一体」、また一般に「三つ組・3つで一組のもの」を表す名詞です。",
+    "keywords": ["trinity 意味", "trinity 使い方", "trinity 語源", "trinity とは", "三位一体 英語"],
+    "meanings": [
+      { "hinshi": "【名詞・宗教】(the Trinity)三位一体", "note": "キリスト教で、父なる神・子キリスト・聖霊が一体であるとする教え。大文字で the Trinity" },
+      { "hinshi": "【名詞】三つ組、3つで一組のもの", "note": "密接に結びついた3つのもの。a trinity of ～（〜の三つ組)" }
+    ],
+    "usages": [
+      { "title": "① 三位一体", "desc": "キリスト教", "example_en": "The Holy Trinity is central to Christianity.", "example_ja": "三位一体はキリスト教の中心だ。" },
+      { "title": "② 三つ組", "desc": "3つで一組", "example_en": "Body, mind, and spirit form a trinity.", "example_ja": "体・心・魂は三つ組をなす。" }
+    ],
+    "warn": ["大文字 the (Holy) Trinity は「(キリスト教の)三位一体(父・子・聖霊)」。小文字 trinity は一般に「三つ組・3つで一組」。tri-(3)から。ペア(2つ)は pair/duo、3つは trinity/trio/triad。ラテン語 trinitas(三つ組)から"],
+    "etym_note": "ラテン語 trinitas（三つ組、trini「3つずつ」から)に由来します。tri-(3)を含み、「3つで一組」を表します。キリスト教の教義「三位一体」として広まりました。",
+    "etym_chain": [
+      { "node": "trini", "sub": "3つずつ", "era": "ラテン語" },
+      { "node": "trinitas", "sub": "三つ組", "era": "ラテン語" },
+      { "node": "trinity", "sub": "三位一体・三つ組", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the Holy Trinity", "ja": "三位一体" },
+      { "en": "the doctrine of the Trinity", "ja": "三位一体の教義" },
+      { "en": "a trinity of", "ja": "〜の三つ組" },
+      { "en": "an unholy trinity", "ja": "(皮肉)悪の三人組" },
+      { "en": "believe in the Trinity", "ja": "三位一体を信じる" },
+      { "en": "form a trinity", "ja": "三つ組をなす" }
+    ],
+    "related": [
+      { "en": "triad", "ja": "三つ組・三和音" },
+      { "en": "trio", "ja": "3人組・三重奏" },
+      { "en": "trilogy", "ja": "三部作" },
+      { "en": "three", "ja": "3" }
+    ],
+    "faq": [
+      { "q": "trinity の意味は？", "a": "①大文字 the (Holy) Trinity で「(キリスト教の)三位一体(父なる神・子キリスト・聖霊が一体であるとする教え)」、②小文字 trinity で「三つ組・3つで一組のもの」です。" },
+      { "q": "trinity の語源は？", "a": "ラテン語 trinitas（三つ組）で、tri-（3）を含みます。trio（3人組）、triad（三つ組）、trilogy（三部作）などと同じく「3」に関する語です。" }
+    ],
+    "quiz": [
+      { "q": "trinity の意味に含まれるのは？", "A": "三位一体／三つ組", "B": "二つ組", "C": "四つ組", "D": "一つ", "correct": "A" },
+      { "q": "the Holy Trinity とは？", "A": "(キリスト教の)三位一体", "B": "四大元素", "C": "七つの大罪", "D": "十戒", "correct": "A" }
+    ]
+  },
+  {
+    "english": "tropic",
+    "pron": "ˈtrɑːpɪk",
+    "kana": "トロピック",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ギリシャ語 tropikos（回帰の・転回の）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "回帰線・熱帯"],
+    "meaning_main": "回帰線／(the tropics で)熱帯（赤道付近の暑い地域）",
+    "description": "tropic（トロピック）の意味・語源を解説。回帰線、また複数形 the tropics で赤道付近の暑い地域「熱帯」を表す名詞です。",
+    "keywords": ["tropic 意味", "tropic 使い方", "tropic 語源", "tropic とは", "熱帯 回帰線 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】回帰線", "note": "地球の南北の緯度約23.4度にある線。the Tropic of Cancer（北回帰線）、the Tropic of Capricorn（南回帰線)" },
+      { "hinshi": "【名詞】(the tropics)熱帯", "note": "南北の回帰線にはさまれた、赤道付近の暑い地域。複数形で使う" }
+    ],
+    "usages": [
+      { "title": "① 回帰線", "desc": "緯度の線", "example_en": "The Tropic of Cancer passes through Egypt.", "example_ja": "北回帰線はエジプトを通っている。" },
+      { "title": "② 熱帯", "desc": "the tropics", "example_en": "Bananas grow in the tropics.", "example_ja": "バナナは熱帯で育つ。" }
+    ],
+    "warn": ["「①回帰線(北回帰線 Tropic of Cancer、南回帰線 Tropic of Capricorn) ②(the tropics)熱帯」。形容詞は tropical（熱帯の、tropical fruit＝熱帯の果物）。回帰線は太陽が真上に来る北・南の限界の線(そこで太陽が「引き返す」)。ギリシャ語 tropos(転回)から"],
+    "etym_note": "ギリシャ語 tropikos（tropos「転回」から＝(太陽が)引き返す点)に由来します。太陽が真上に来て「引き返す」限界の線(回帰線)を指し、そこにはさまれた地域が熱帯です。トロフィー(trophy)や -trope(転回)と語根がつながります。",
+    "etym_chain": [
+      { "node": "tropos", "sub": "転回", "era": "ギリシャ語" },
+      { "node": "tropikos", "sub": "回帰の", "era": "ギリシャ語" },
+      { "node": "tropic", "sub": "回帰線・熱帯", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the Tropic of Cancer", "ja": "北回帰線" },
+      { "en": "the Tropic of Capricorn", "ja": "南回帰線" },
+      { "en": "the tropics", "ja": "熱帯" },
+      { "en": "in the tropics", "ja": "熱帯で" },
+      { "en": "tropical climate", "ja": "熱帯気候" },
+      { "en": "live in the tropics", "ja": "熱帯に住む" }
+    ],
+    "related": [
+      { "en": "tropical", "ja": "熱帯の" },
+      { "en": "equator", "ja": "赤道" },
+      { "en": "latitude", "ja": "緯度" },
+      { "en": "subtropical", "ja": "亜熱帯の" }
+    ],
+    "faq": [
+      { "q": "tropic の意味は？", "a": "①「回帰線(北回帰線 the Tropic of Cancer、南回帰線 the Tropic of Capricorn)」、②複数形 the tropics で「熱帯(回帰線にはさまれた赤道付近の暑い地域)」です。形容詞は tropical（熱帯の）です。" },
+      { "q": "回帰線とは？", "a": "太陽が真上(頭の真上)に来る北・南の限界の線です。ここで太陽が「引き返す(回帰する)」ように見えることから回帰線と呼ばれます。北回帰線と南回帰線があり、その間が熱帯です。" }
+    ],
+    "quiz": [
+      { "q": "the tropics の意味は？", "A": "熱帯(赤道付近の暑い地域)", "B": "極地(寒い地域)", "C": "砂漠", "D": "海の底", "correct": "A" },
+      { "q": "tropic の形容詞形は？", "A": "tropical（熱帯の）", "B": "topical（話題の）", "C": "typical（典型的な）", "D": "tricky（ずるい）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ukraine",
+    "pron": "juːˈkreɪn",
+    "kana": "ユークレイン",
+    "hinshi": "固有名詞（国名）",
+    "ld_pos": "proper noun",
+    "ld_etym": "スラブ語 ukraina（辺境・国土）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "固有名詞", "CEFR B1", "ウクライナ"],
+    "meaning_main": "ウクライナ（Ukraine：東ヨーロッパの国。首都はキーウ）",
+    "description": "Ukraine（ユークレイン）の意味・語源を解説。東ヨーロッパの国「ウクライナ」を表す固有名詞です。英語では先頭を大文字にして Ukraine と書きます。",
+    "keywords": ["Ukraine 意味", "Ukraine ウクライナ", "Ukraine 英語", "ウクライナ 英語 つづり", "Ukraine とは"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ウクライナ", "note": "東ヨーロッパの国。ロシアの西隣。首都はキーウ(Kyiv)。ヨーロッパで面積が大きい国の一つ。英語では Ukraine と書く" }
+    ],
+    "usages": [
+      { "title": "① 東ヨーロッパの国", "desc": "国名", "example_en": "Ukraine is a country in Eastern Europe.", "example_ja": "ウクライナは東ヨーロッパの国だ。" },
+      { "title": "② 首都キーウ", "desc": "地理", "example_en": "The capital of Ukraine is Kyiv.", "example_ja": "ウクライナの首都はキーウだ。" }
+    ],
+    "warn": ["固有名詞なので英語では先頭を大文字にして Ukraine。形容詞・国民・言語は Ukrainian（ウクライナの・ウクライナ人・ウクライナ語）。首都はキーウ(Kyiv、旧表記キエフ Kiev)。以前は the Ukraine と the をつけたが、現在は Ukraine が一般的。ヨーロッパで面積の大きい国"],
+    "etym_note": "スラブ語 ukraina（辺境・国土)に由来するとされます。もとは「(国の)ふち・地方」を意味した語が国名になりました。",
+    "etym_chain": [
+      { "node": "ukraina", "sub": "辺境・国土", "era": "スラブ語" },
+      { "node": "Ukraine", "sub": "ウクライナ(英語表記)", "era": "近代" },
+      { "node": "Ukraine", "sub": "ウクライナ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "in Ukraine", "ja": "ウクライナで" },
+      { "en": "the capital of Ukraine", "ja": "ウクライナの首都" },
+      { "en": "the people of Ukraine", "ja": "ウクライナの人々" },
+      { "en": "the Ukrainian language", "ja": "ウクライナ語" },
+      { "en": "Eastern Europe", "ja": "東ヨーロッパ" },
+      { "en": "Kyiv, Ukraine", "ja": "ウクライナのキーウ" }
+    ],
+    "related": [
+      { "en": "Ukrainian", "ja": "ウクライナの・ウクライナ人・ウクライナ語" },
+      { "en": "Kyiv", "ja": "キーウ" },
+      { "en": "Europe", "ja": "ヨーロッパ" },
+      { "en": "country", "ja": "国" }
+    ],
+    "faq": [
+      { "q": "Ukraine は英語でどう書く？", "a": "固有名詞なので、先頭を大文字にして Ukraine と書きます。東ヨーロッパの国で、首都はキーウ(Kyiv)、形容詞・国民・言語は Ukrainian（ウクライナの・ウクライナ人・ウクライナ語）です。" },
+      { "q": "Ukraine に the はつける？", "a": "以前は the Ukraine とも言いましたが、現在は the をつけずに Ukraine と言うのが一般的です。独立国であることを明確にするため、the を外す形が定着しました。" }
+    ],
+    "quiz": [
+      { "q": "Ukraine とは？", "A": "東ヨーロッパの国(ウクライナ)", "B": "アフリカの国", "C": "南米の国", "D": "アジアの島", "correct": "A" },
+      { "q": "Ukraine の首都は？", "A": "キーウ(Kyiv)", "B": "モスクワ", "C": "パリ", "D": "ローマ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "umbrage",
+    "pron": "ˈʌmbrɪdʒ",
+    "kana": "アンブリッジ",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 umbra（影）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "立腹・不快"],
+    "meaning_main": "(侮辱されたと感じる)立腹・不快・憤慨",
+    "description": "umbrage（アンブリッジ）の意味・語源を解説。侮辱されたと感じて腹を立てる「立腹・不快・憤慨」を表す、やや古風な名詞です。",
+    "keywords": ["umbrage 意味", "umbrage 使い方", "umbrage 語源", "umbrage 例文", "立腹 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】(侮辱されたと感じる)立腹、不快、憤慨", "note": "気分を害すること。take umbrage (at ～)（〜に腹を立てる・気分を害する）というかたい表現で使う" }
+    ],
+    "usages": [
+      { "title": "① 立腹・不快", "desc": "気分を害す", "example_en": "He took umbrage at her comment.", "example_ja": "彼は彼女の発言に気分を害した。" },
+      { "title": "② 憤慨する", "desc": "take umbrage", "example_en": "She took umbrage at being ignored.", "example_ja": "彼女は無視されたことに腹を立てた。" }
+    ],
+    "warn": ["ほぼ take umbrage (at ～)（〜に立腹する・気分を害する)という決まった形でのみ使う、かたく古風な語。「(侮辱されたと感じて)腹を立てる」。offense(気分を害すること)が近い(take offense at ～)。もとはラテン語 umbra(影)で、「影＝疑い・不快」の意味に転じた。umbrella(傘、小さい影)と同語源"],
+    "etym_note": "ラテン語 umbra（影)に由来します。もとは「影・木陰」の意味で、そこから「(心にさす)影＝疑い・不快・立腹」の意味に転じました。umbrella(傘、「小さな影」)や somber(陰気な)と同語源です。",
+    "etym_chain": [
+      { "node": "umbra", "sub": "影", "era": "ラテン語" },
+      { "node": "umbrage", "sub": "影・不快", "era": "中英語" },
+      { "node": "umbrage", "sub": "立腹・憤慨", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "take umbrage at", "ja": "〜に立腹する・気分を害する" },
+      { "en": "cause umbrage", "ja": "不快を引き起こす" },
+      { "en": "give umbrage", "ja": "気分を害させる" },
+      { "en": "take great umbrage", "ja": "ひどく腹を立てる" },
+      { "en": "without umbrage", "ja": "気分を害さずに" },
+      { "en": "a sense of umbrage", "ja": "不快感" }
+    ],
+    "related": [
+      { "en": "offense", "ja": "気分を害すること・侮辱" },
+      { "en": "resentment", "ja": "憤り・恨み" },
+      { "en": "indignation", "ja": "憤慨" },
+      { "en": "annoyance", "ja": "いらだち" }
+    ],
+    "faq": [
+      { "q": "umbrage の意味は？", "a": "「(侮辱されたと感じる)立腹・不快・憤慨」という意味の、やや古風でかたい名詞です。ほぼ take umbrage (at ～)（〜に腹を立てる・気分を害する）という決まった形で使います。" },
+      { "q": "take umbrage とは？", "a": "「(〜に)気分を害する・立腹する・憤慨する」という意味の表現です。He took umbrage at the joke.（彼はその冗談に気分を害した）のように使います。take offense と似た意味です。" }
+    ],
+    "quiz": [
+      { "q": "umbrage の意味は？", "A": "(侮辱されたと感じる)立腹・不快", "B": "喜び", "C": "感謝", "D": "驚き", "correct": "A" },
+      { "q": "take umbrage at の意味は？", "A": "〜に立腹する・気分を害する", "B": "〜を喜ぶ", "C": "〜を無視する", "D": "〜に感謝する", "correct": "A" }
+    ]
+  },
+  {
+    "english": "underfed",
+    "pron": "ˌʌndərˈfed",
+    "kana": "アンダーフェッド",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "under-（不足して）+ fed（食べさせられた）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "栄養不足の"],
+    "meaning_main": "栄養不足の・食べ物が足りない（十分に食べさせられていない）",
+    "description": "underfed（アンダーフェッド）の意味・語源を解説。十分に食べさせられていない「栄養不足の・食べ物が足りない」という意味の形容詞です。",
+    "keywords": ["underfed 意味", "underfed 使い方", "underfed 語源", "underfed 例文", "栄養不足 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】栄養不足の、食べ物が足りない、養いが足りない", "note": "十分な食べ物を与えられていない。an underfed child（栄養不足の子ども)" }
+    ],
+    "usages": [
+      { "title": "① 栄養不足の", "desc": "食べ物が足りない", "example_en": "The stray dog looked thin and underfed.", "example_ja": "その野良犬はやせて栄養不足に見えた。" },
+      { "title": "② 十分に食べていない", "desc": "養いが足りない", "example_en": "Many children in poverty are underfed.", "example_ja": "貧困の中の多くの子どもは栄養不足だ。" }
+    ],
+    "warn": ["under-（不足して）+ fed（feed「食べさせる」の過去分詞）で「十分に食べさせられていない＝栄養不足の」。反対は overfed（食べ過ぎの）、well-fed（十分に食べている）。malnourished(栄養失調の)が近い。feed - fed - fed。人・動物に使う"],
+    "etym_note": "接頭辞 under-（〜以下・不足して)と、feed（食べさせる)の過去分詞 fed を組み合わせた語です。「不足して食べさせられた＝栄養不足の」を表します。",
+    "etym_chain": [
+      { "node": "under + fed", "sub": "不足して + 食べさせられた", "era": "英語" },
+      { "node": "underfed", "sub": "栄養不足の", "era": "近代英語" },
+      { "node": "underfed", "sub": "栄養不足の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an underfed child", "ja": "栄養不足の子ども" },
+      { "en": "thin and underfed", "ja": "やせて栄養不足の" },
+      { "en": "look underfed", "ja": "栄養不足に見える" },
+      { "en": "poorly fed and underfed", "ja": "食事が乏しく栄養不足の" },
+      { "en": "an underfed animal", "ja": "えさが足りない動物" },
+      { "en": "chronically underfed", "ja": "慢性的に栄養不足の" }
+    ],
+    "related": [
+      { "en": "feed", "ja": "食べさせる・えさをやる" },
+      { "en": "malnourished", "ja": "栄養失調の" },
+      { "en": "well-fed", "ja": "十分に食べている（反対）" },
+      { "en": "overfed", "ja": "食べ過ぎの（反対）" }
+    ],
+    "faq": [
+      { "q": "underfed の意味は？", "a": "「栄養不足の・食べ物が足りない・養いが足りない(十分に食べさせられていない)」という意味の形容詞です。under-（不足して）+ fed（食べさせられた）でできています。an underfed child（栄養不足の子ども）のように使います。" },
+      { "q": "underfed の反対語は？", "a": "well-fed（十分に食べている・栄養が足りている）や overfed（食べ過ぎの）です。under-（不足）に対して well-（十分)や over-（過剰)を使います。" }
+    ],
+    "quiz": [
+      { "q": "underfed の意味は？", "A": "栄養不足の・食べ物が足りない", "B": "食べ過ぎの", "C": "健康な", "D": "太った", "correct": "A" },
+      { "q": "underfed は何と何の組み合わせ？", "A": "under（不足して）+ fed（食べさせられた）", "B": "under（下）+ bed（ベッド）", "C": "under（下）+ red（赤）", "D": "understand の一部", "correct": "A" }
+    ]
+  },
+  {
+    "english": "unison",
+    "pron": "ˈjuːnɪsn",
+    "kana": "ユニゾン",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 uni（1）+ sonus（音）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "斉唱・一致"],
+    "meaning_main": "(音楽の)斉唱・ユニゾン(同じ音)／(みなが)一致・そろっての行動",
+    "description": "unison（ユニゾン）の意味・語源を解説。音楽で同じ音を一緒に出す「斉唱・ユニゾン」、また「(みなが)一致・そろっての行動」を表す名詞です。",
+    "keywords": ["unison 意味", "unison 使い方", "unison 語源", "unison とは", "斉唱 一致 英語"],
+    "meanings": [
+      { "hinshi": "【名詞・音楽】斉唱、ユニゾン(同じ高さの音を一緒に出すこと)", "note": "複数の人・楽器が同じ音・旋律を一緒に演奏・歌唱すること。sing in unison（斉唱する)" },
+      { "hinshi": "【名詞】一致、調和、そろっての行動", "note": "in unison（一斉に・声をそろえて・協調して)" }
+    ],
+    "usages": [
+      { "title": "① 斉唱・ユニゾン", "desc": "同じ音を一緒に", "example_en": "The choir sang in unison.", "example_ja": "合唱団は斉唱した(同じ旋律をそろえて歌った)。" },
+      { "title": "② 一斉に・そろって", "desc": "in unison", "example_en": "The crowd shouted in unison.", "example_ja": "群衆は声をそろえて叫んだ。" }
+    ],
+    "warn": ["in unison（①(音楽)斉唱で・同じ音で ②一斉に・声をそろえて・協調して)が最重要表現。「みんなが同じことを一緒に・そろって」。harmony(和声、異なる音を重ねる)とは違い、unison は「同じ音・そろって」。uni-(1)+ sonus(音)で「1つの音」。反対はばらばら"],
+    "etym_note": "ラテン語 unisonus（uni-「1」+ sonus「音」＝1つの音)に由来します。「同じ音を出す＝斉唱・一致」を表します。unite(結合する)、sound(音)、sonic(音の)と語根がつながります。",
+    "etym_chain": [
+      { "node": "uni + sonus", "sub": "1 + 音", "era": "ラテン語" },
+      { "node": "unisonus", "sub": "1つの音", "era": "後期ラテン語" },
+      { "node": "unison", "sub": "斉唱・一致", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "in unison", "ja": "一斉に・声をそろえて・斉唱で" },
+      { "en": "sing in unison", "ja": "斉唱する" },
+      { "en": "act in unison", "ja": "そろって行動する" },
+      { "en": "shout in unison", "ja": "声をそろえて叫ぶ" },
+      { "en": "move in unison", "ja": "そろって動く" },
+      { "en": "in perfect unison", "ja": "完全にそろって" }
+    ],
+    "related": [
+      { "en": "harmony", "ja": "和声・調和" },
+      { "en": "together", "ja": "一緒に" },
+      { "en": "chorus", "ja": "合唱・斉唱" },
+      { "en": "accord", "ja": "一致" }
+    ],
+    "faq": [
+      { "q": "unison の意味は？", "a": "①音楽で「斉唱・ユニゾン(複数の人・楽器が同じ音・旋律を一緒に出すこと)」、②「一致・そろっての行動」です。in unison（①斉唱で ②一斉に・声をそろえて・協調して）が最もよく使われる表現です。" },
+      { "q": "unison と harmony の違いは？", "a": "unison(ユニゾン)は「同じ音を一緒に出す(そろえる)」こと、harmony(ハーモニー・和声)は「異なる音を重ねて調和させる」ことです。同じ音か、異なる音を重ねるかが違います。" }
+    ],
+    "quiz": [
+      { "q": "in unison の意味は？", "A": "一斉に・声をそろえて", "B": "ばらばらに", "C": "静かに", "D": "順番に", "correct": "A" },
+      { "q": "unison の語源(uni + sonus)の意味は？", "A": "1 + 音", "B": "多 + 声", "C": "大 + きな音", "D": "小 + さな音", "correct": "A" }
+    ]
+  },
+  {
+    "english": "unrestricted",
+    "pron": "ˌʌnrɪˈstrɪktɪd",
+    "kana": "アンリストリクテッド",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "un-（否定）+ restricted（制限された）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR B2", "無制限の"],
+    "meaning_main": "無制限の・制限のない・自由な",
+    "description": "unrestricted（アンリストリクテッド）の意味・使い方・語源を解説。制限がない「無制限の・制限のない・自由な」という意味の形容詞です。",
+    "keywords": ["unrestricted 意味", "unrestricted 使い方", "unrestricted 語源", "unrestricted 例文", "無制限 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】無制限の、制限のない、自由な", "note": "制限・規制がなく自由な。unrestricted access（無制限のアクセス)" }
+    ],
+    "usages": [
+      { "title": "① 無制限の", "desc": "制限がない", "example_en": "Members have unrestricted access to the library.", "example_ja": "会員は図書館を無制限に利用できる。" },
+      { "title": "② 自由な", "desc": "規制のない", "example_en": "The data is available without unrestricted use.", "example_ja": "そのデータは制限なく利用できる。" }
+    ],
+    "warn": ["un-（否定）+ restricted（制限された、restrict「制限する」の過去分詞）で「制限のない＝無制限の」。反対は restricted（制限された）。unrestricted access（無制限のアクセス）、unrestricted freedom（無制限の自由）。free / unlimited(無制限の)が近い"],
+    "etym_note": "restricted（制限された、restrict「制限する」、ラテン語 restringere「縛り戻す」から)に否定の un- が付いた語です。「制限されていない＝無制限の」を表します。strict(厳しい)と同語根です。",
+    "etym_chain": [
+      { "node": "restringere", "sub": "縛り戻す・制限する", "era": "ラテン語" },
+      { "node": "restricted", "sub": "制限された", "era": "近代英語" },
+      { "node": "unrestricted", "sub": "無制限の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "unrestricted access", "ja": "無制限のアクセス" },
+      { "en": "unrestricted freedom", "ja": "無制限の自由" },
+      { "en": "unrestricted use", "ja": "制限のない利用" },
+      { "en": "unrestricted view", "ja": "さえぎるもののない眺め" },
+      { "en": "unrestricted growth", "ja": "無制限の成長" },
+      { "en": "virtually unrestricted", "ja": "事実上無制限の" }
+    ],
+    "related": [
+      { "en": "restricted", "ja": "制限された（反対）" },
+      { "en": "restrict", "ja": "制限する" },
+      { "en": "unlimited", "ja": "無制限の" },
+      { "en": "free", "ja": "自由な" }
+    ],
+    "faq": [
+      { "q": "unrestricted の意味は？", "a": "「無制限の・制限のない・自由な(制限・規制がなく自由な)」という意味の形容詞です。restricted（制限された）に否定の un- が付いた語です。unrestricted access（無制限のアクセス）のように使います。" },
+      { "q": "unrestricted の反対語は？", "a": "restricted（制限された・限られた）です。un-（否定）を外した形です。動詞は restrict（制限する）、名詞は restriction（制限）です。" }
+    ],
+    "quiz": [
+      { "q": "unrestricted の意味は？", "A": "無制限の・制限のない", "B": "制限された", "C": "禁止された", "D": "限られた", "correct": "A" },
+      { "q": "unrestricted の反対語は？", "A": "restricted（制限された）", "B": "restrict（制限する）", "C": "restriction（制限）", "D": "restrain（抑える）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "unwanted",
+    "pron": "ˌʌnˈwɑːntɪd",
+    "kana": "アンウォンテッド",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "un-（否定）+ wanted（望まれた）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "望まれない"],
+    "meaning_main": "望まれない・不要な・じゃまな（欲しくない）",
+    "description": "unwanted（アンウォンテッド）の意味・使い方・語源を解説。欲しくない・必要とされない「望まれない・不要な」という意味の形容詞です。",
+    "keywords": ["unwanted 意味", "unwanted 使い方", "unwanted 語源", "unwanted 例文", "望まれない 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】望まれない、不要な、じゃまな、歓迎されない", "note": "欲しくない・必要とされない。unwanted gifts（いらない贈り物)、unwanted attention（ありがた迷惑な注目)" }
+    ],
+    "usages": [
+      { "title": "① 不要な", "desc": "いらない", "example_en": "Get rid of unwanted items.", "example_ja": "不要な物を処分しなさい。" },
+      { "title": "② 望まれない", "desc": "歓迎されない", "example_en": "She felt unwanted at the party.", "example_ja": "彼女はパーティーで自分が歓迎されていないと感じた。" }
+    ],
+    "warn": ["un-（否定）+ wanted（want「欲する」の過去分詞＝望まれた）で「望まれない＝不要な・いらない」。反対は wanted（望まれた・お尋ね者の）。unwanted gifts（いらない物）、unwanted attention（ありがた迷惑）、unwanted side effects（好ましくない副作用）。unwilling(気が進まない)とは別"],
+    "etym_note": "want（欲する、古ノルド語 vanta「欠けている」から)の過去分詞 wanted に否定の un- が付いた語です。「望まれていない＝不要な」を表します。",
+    "etym_chain": [
+      { "node": "vanta", "sub": "欠けている", "era": "古ノルド語" },
+      { "node": "wanted", "sub": "望まれた", "era": "中英語" },
+      { "node": "unwanted", "sub": "望まれない・不要な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "unwanted items", "ja": "不要な物" },
+      { "en": "unwanted gifts", "ja": "いらない贈り物" },
+      { "en": "unwanted attention", "ja": "ありがた迷惑な注目" },
+      { "en": "unwanted side effects", "ja": "好ましくない副作用" },
+      { "en": "feel unwanted", "ja": "歓迎されていないと感じる" },
+      { "en": "unwanted hair", "ja": "むだ毛" }
+    ],
+    "related": [
+      { "en": "wanted", "ja": "望まれた・お尋ね者の（反対）" },
+      { "en": "unnecessary", "ja": "不要な" },
+      { "en": "undesirable", "ja": "望ましくない" },
+      { "en": "unwelcome", "ja": "歓迎されない" }
+    ],
+    "faq": [
+      { "q": "unwanted の意味は？", "a": "「望まれない・不要な・じゃまな・歓迎されない(欲しくない・必要とされない)」という意味の形容詞です。unwanted gifts（いらない贈り物）、unwanted attention（ありがた迷惑な注目）のように使います。" },
+      { "q": "unwanted の反対語は？", "a": "wanted（望まれた・欲しがられた）です。ただし wanted には「(指名手配の)お尋ね者の」という別の意味もあります(a wanted criminal＝指名手配犯)。" }
+    ],
+    "quiz": [
+      { "q": "unwanted の意味は？", "A": "望まれない・不要な", "B": "望まれた・必要な", "C": "有名な", "D": "高価な", "correct": "A" },
+      { "q": "unwanted は何と何の組み合わせ？", "A": "un（否定）+ wanted（望まれた）", "B": "under（下）+ wanted", "C": "one（1つ）+ wanted", "D": "up（上）+ wanted", "correct": "A" }
+    ]
+  },
+  {
+    "english": "unwillingly",
+    "pron": "ˌʌnˈwɪlɪŋli",
+    "kana": "アンウィリングリー",
+    "hinshi": "副詞",
+    "ld_pos": "adverb",
+    "ld_etym": "un-（否定）+ willing（進んで〜する）+ -ly",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "いやいやながら"],
+    "meaning_main": "いやいやながら・しぶしぶ・不本意に",
+    "description": "unwillingly（アンウィリングリー）の意味・使い方・語源を解説。気が進まないまま「いやいやながら・しぶしぶ」という意味の副詞です。",
+    "keywords": ["unwillingly 意味", "unwillingly 使い方", "unwillingly 語源", "unwillingly 例文", "いやいや 英語"],
+    "meanings": [
+      { "hinshi": "【副詞】いやいやながら、しぶしぶ、不本意に", "note": "したくない気持ちのまま。気が進まないのに。He agreed unwillingly.（彼はしぶしぶ同意した)" }
+    ],
+    "usages": [
+      { "title": "① いやいやながら", "desc": "しぶしぶ", "example_en": "She unwillingly agreed to help.", "example_ja": "彼女はいやいやながら手伝うことに同意した。" },
+      { "title": "② 不本意に", "desc": "気が進まず", "example_en": "He unwillingly handed over the money.", "example_ja": "彼はしぶしぶお金を渡した。" }
+    ],
+    "warn": ["un-（否定）+ willing（進んで〜する・いとわない）+ -ly（副詞）で「進んでではなく＝いやいやながら」。反対は willingly（喜んで・進んで）。形容詞 unwilling（気が進まない、be unwilling to do＝〜したがらない）。reluctantly(しぶしぶ)が同義"],
+    "etym_note": "willing（進んで〜する・いとわない、will「意志」から)に否定の un- と副詞の -ly が付いた語です。「進んでではなく＝いやいやながら」を表します。will(意志・〜だろう)と同語源です。",
+    "etym_chain": [
+      { "node": "will", "sub": "意志", "era": "古英語" },
+      { "node": "willing", "sub": "進んで〜する", "era": "中英語" },
+      { "node": "unwillingly", "sub": "いやいやながら", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "agree unwillingly", "ja": "しぶしぶ同意する" },
+      { "en": "unwillingly accept", "ja": "いやいや受け入れる" },
+      { "en": "go unwillingly", "ja": "いやいや行く" },
+      { "en": "unwillingly obey", "ja": "しぶしぶ従う" },
+      { "en": "do it unwillingly", "ja": "いやいやそれをする" },
+      { "en": "somewhat unwillingly", "ja": "やや気が進まないながら" }
+    ],
+    "related": [
+      { "en": "willingly", "ja": "喜んで・進んで（反対）" },
+      { "en": "unwilling", "ja": "気が進まない" },
+      { "en": "reluctantly", "ja": "しぶしぶ" },
+      { "en": "grudgingly", "ja": "いやいやながら・しぶしぶ" }
+    ],
+    "faq": [
+      { "q": "unwillingly の意味は？", "a": "「いやいやながら・しぶしぶ・不本意に(したくない気持ちのまま、気が進まないのに)」という意味の副詞です。un-（否定）+ willing（進んで〜する）+ -ly でできています。He agreed unwillingly.（彼はしぶしぶ同意した）のように使います。" },
+      { "q": "unwillingly の反対語は？", "a": "willingly（喜んで・進んで・快く）です。un-（否定）を外した形です。形容詞は unwilling（気が進まない）↔ willing（進んで〜する）です。" }
+    ],
+    "quiz": [
+      { "q": "unwillingly の意味は？", "A": "いやいやながら・しぶしぶ", "B": "喜んで", "C": "急いで", "D": "静かに", "correct": "A" },
+      { "q": "unwillingly の反対語は？", "A": "willingly（喜んで）", "B": "unwilling（気が進まない）", "C": "unkindly（不親切に）", "D": "unluckily（不運にも）", "correct": "A" }
+    ]
+  }
+]

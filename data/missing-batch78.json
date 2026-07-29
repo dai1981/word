@@ -1,0 +1,987 @@
+[
+  {
+    "english": "men",
+    "pron": "men",
+    "kana": "メン",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "man(男・人)の複数形",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A1", "頻出"],
+    "meaning_main": "男たち／人々（man の複数形）",
+    "description": "men（メン）は「男たち／人々」という意味の名詞。man（男・人）の不規則な複数形です。発音は「メン」で、単数 man（マン）と区別します。women（女性たち）と対で覚えると便利な、基本的で頻出の語です。",
+    "keywords": ["men 意味", "man 複数形", "男たち 英語", "men women", "men 発音"],
+    "meanings": [
+      { "hinshi": "【名】男たち、人々（man の複数形）", "note": "man の不規則複数。発音は「メン」。可算名詞の複数形" }
+    ],
+    "usages": [
+      { "title": "① 男たち・男性たち", "desc": "複数の男性を指す使い方。", "example_en": "Three men were waiting outside.", "example_ja": "3人の男性が外で待っていた。" },
+      { "title": "② 人々（男女を含む古い用法）", "desc": "「人類・人々」を表す古風な使い方（今は people が一般的）。", "example_en": "All men are equal.", "example_ja": "すべての人は平等だ。" }
+    ],
+    "warn": ["man → men と不規則に変化します（-s はつけません）。発音は単数 man /mæn/、複数 men /men/ で母音が違います。woman → women（発音も違う）と合わせて覚えましょう。"],
+    "etym_note": "man（男・人。古英語 mann）の複数形。古英語では menn で、母音が変化して複数を表す古い形（i-mutation）が残っています。",
+    "etym_chain": [
+      { "node": "mann", "sub": "人・男", "era": "古英語" },
+      { "node": "menn", "sub": "人々（複数）", "era": "古英語" },
+      { "node": "men", "sub": "男たち・人々", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "men and women", "ja": "男性と女性" },
+      { "en": "two men", "ja": "2人の男性" },
+      { "en": "young men", "ja": "若い男性たち" },
+      { "en": "men's clothing", "ja": "紳士服" },
+      { "en": "businessmen", "ja": "実業家たち" },
+      { "en": "a group of men", "ja": "男性の一団" }
+    ],
+    "related": [
+      { "en": "man", "ja": "男・人（単数）" },
+      { "en": "women", "ja": "女性たち" },
+      { "en": "people", "ja": "人々" },
+      { "en": "male", "ja": "男性の・オスの" }
+    ],
+    "faq": [
+      { "q": "man の複数形は？", "a": "men です。-s はつけず、母音が変化する不規則複数です。発音も man /mæn/ → men /men/ と変わります。" },
+      { "q": "men と man の発音の違いは？", "a": "man は「マン /mæn/」、men は「メン /men/」で、母音が違います。聞き分け・言い分けに注意しましょう。" }
+    ],
+    "quiz": [
+      { "q": "men はどの語の複数形？", "A": "man（男・人）", "B": "mean（意味する）", "C": "mane（たてがみ）", "D": "menu（メニュー）", "correct": "A" },
+      { "q": "man の複数形として正しいものは？", "A": "men", "B": "mans", "C": "mens", "D": "manes", "correct": "A" }
+    ]
+  },
+  {
+    "english": "menthol",
+    "pron": "ˈmenθɔːl",
+    "kana": "メントール",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "mentha(ハッカ)+-ol(アルコール)",
+    "ld_level": "1級",
+    "badges": ["中学生〜", "英検1級", "CEFR C1", "科学・日常"],
+    "meaning_main": "メントール（ハッカから得られる、清涼感のある成分）",
+    "description": "menthol（メントール）は「メントール」という意味の名詞。ハッカ（ミント）から得られる、すーっとした清涼感を与える成分です。冷たく感じさせる働きがあり、のどあめ・歯みがき・湿布・化粧品などに広く使われます。ミントの香りと清涼感のもとになる物質です。",
+    "keywords": ["menthol 意味", "メントール 英語", "ハッカ 成分", "清涼感 英語", "menthol 使い方"],
+    "meanings": [
+      { "hinshi": "【名】メントール", "note": "ハッカから得られる清涼感のある成分。のどあめ・歯みがきなどに使う。不可算" }
+    ],
+    "usages": [
+      { "title": "① 清涼感のある成分", "desc": "すーっとした冷感を与えるハッカ由来の成分を指す使い方。", "example_en": "The cough drops contain menthol.", "example_ja": "そののどあめにはメントールが含まれている。" },
+      { "title": "② 製品の成分として", "desc": "歯みがき・湿布・化粧品などに使われることを表す。", "example_en": "Menthol gives toothpaste its cool, minty feel.", "example_ja": "メントールは歯みがきに冷たいミントの感じを与える。" }
+    ],
+    "warn": ["メントールはハッカ（peppermint など）から得られる成分で、実際に温度を下げなくても「冷たい・すーっとする」と感じさせます。のどあめ・歯みがき・湿布・リップクリームなどに使われます。mint（ミント）は植物、menthol はその成分の一つです。"],
+    "etym_note": "ラテン語 mentha（ハッカ、ミント）+ -ol（アルコールを表す化学接尾辞）から作られた語。「ハッカのアルコール（成分）＝メントール」の意味です。mint と同語源です。",
+    "etym_chain": [
+      { "node": "mentha", "sub": "ハッカ", "era": "ラテン語" },
+      { "node": "menthol", "sub": "メントール", "era": "19世紀 化学" },
+      { "node": "menthol", "sub": "メントール", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "contain menthol", "ja": "メントールを含む" },
+      { "en": "menthol cigarettes", "ja": "メンソールたばこ" },
+      { "en": "a menthol lozenge", "ja": "メントールののどあめ" },
+      { "en": "the cool feel of menthol", "ja": "メントールの清涼感" },
+      { "en": "menthol cream", "ja": "メントール入りのクリーム" },
+      { "en": "menthol flavor", "ja": "メントールの風味" }
+    ],
+    "related": [
+      { "en": "mint", "ja": "ミント・ハッカ" },
+      { "en": "peppermint", "ja": "ペパーミント" },
+      { "en": "cooling", "ja": "冷やす・清涼の" },
+      { "en": "compound", "ja": "化合物" }
+    ],
+    "faq": [
+      { "q": "menthol（メントール）とは？", "a": "ハッカ（ミント）から得られる成分で、すーっとした清涼感（冷感）を与えます。実際に温度を下げなくても冷たく感じさせるため、のどあめ・歯みがき・湿布などに広く使われます。" },
+      { "q": "menthol と mint の違いは？", "a": "mint（ミント・ハッカ）は植物そのもの、menthol（メントール）はその植物から得られる、清涼感のもとになる成分の一つです。" }
+    ],
+    "quiz": [
+      { "q": "menthol の意味は？", "A": "ハッカから得られる清涼感のある成分（メントール）", "B": "赤い色素", "C": "甘味料", "D": "接着剤", "correct": "A" },
+      { "q": "menthol の特徴は？", "A": "すーっとした清涼感（冷感）を与える", "B": "強い甘みを与える", "C": "酸っぱくする", "D": "色を黒くする", "correct": "A" }
+    ]
+  },
+  {
+    "english": "merger",
+    "pron": "ˈmɜːrdʒər",
+    "kana": "マージャー",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "merge(合併する)+-er",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "ビジネス"],
+    "meaning_main": "（会社などの）合併／統合",
+    "description": "merger（マージャー）は「（会社などの）合併」という意味の名詞。2つ以上の会社や組織が1つに合わさって、新しい1つの組織になることを指します。ビジネスの M&A（合併・買収）で頻出する語です。動詞 merge（合併する・溶け合う）の名詞形です。",
+    "keywords": ["merger 意味", "合併 英語", "M&A 英語", "merge 合併する", "merger 使い方"],
+    "meanings": [
+      { "hinshi": "【名】（会社などの）合併、統合", "note": "複数が1つに合わさること。a merger between two firms（2社の合併）。可算" }
+    ],
+    "usages": [
+      { "title": "① 会社の合併", "desc": "複数の会社が1つに合わさることを指す使い方。", "example_en": "The two banks announced a merger.", "example_ja": "その2つの銀行は合併を発表した。" },
+      { "title": "② M&Aの文脈で", "desc": "mergers and acquisitions（M&A）として使う。", "example_en": "The firm specializes in mergers and acquisitions.", "example_ja": "その会社はM&A（合併・買収）を専門にしている。" }
+    ],
+    "warn": ["mergers and acquisitions（M&A）は「合併・買収」。merger（合併＝対等に1つになる）と acquisition（買収＝一方が他方を買い取る）は区別されます。動詞は merge（合併する・溶け込む）。"],
+    "etym_note": "merge（合併する、溶け込む。ラテン語 mergere 沈める・浸す から）に、名詞をつくる -er が付いた語（法律用語由来）。「合わさること＝合併」の意味です。",
+    "etym_chain": [
+      { "node": "mergere", "sub": "沈める・浸す", "era": "ラテン語" },
+      { "node": "merge", "sub": "合併する", "era": "近代英語" },
+      { "node": "merger", "sub": "合併", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a merger between", "ja": "〜どうしの合併" },
+      { "en": "mergers and acquisitions", "ja": "合併・買収（M&A）" },
+      { "en": "a proposed merger", "ja": "提案された合併" },
+      { "en": "complete a merger", "ja": "合併を完了する" },
+      { "en": "a corporate merger", "ja": "企業合併" },
+      { "en": "block a merger", "ja": "合併を阻止する" }
+    ],
+    "related": [
+      { "en": "merge", "ja": "合併する・溶け合う" },
+      { "en": "acquisition", "ja": "買収・獲得" },
+      { "en": "takeover", "ja": "（企業の）乗っ取り・買収" },
+      { "en": "consolidation", "ja": "統合・合併" }
+    ],
+    "faq": [
+      { "q": "merger と acquisition の違いは？", "a": "merger（合併）は「複数の会社が対等に1つに合わさる」、acquisition（買収）は「一方の会社が他方を買い取る」ことです。まとめて M&A（mergers and acquisitions）と呼ばれます。" },
+      { "q": "merger の動詞形は？", "a": "merge（合併する・溶け合う）です。The two companies merged.（2社は合併した）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "merger の意味として最も適切なものは？", "A": "（会社などの）合併・統合", "B": "倒産", "C": "解散", "D": "設立", "correct": "A" },
+      { "q": "merger の動詞形は？", "A": "merge（合併する）", "B": "merit（長所）", "C": "murmur（つぶやく）", "D": "manage（管理する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "merman",
+    "pron": "ˈmɜːrmæn",
+    "kana": "マーマン",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "mere(海)+man(人)",
+    "ld_level": "1級",
+    "badges": ["小学生〜", "英検1級", "CEFR C1", "物語・空想"],
+    "meaning_main": "人魚（男の）／半人半魚の男の空想上の生き物",
+    "description": "merman（マーマン）は「（男の）人魚」という意味の名詞。上半身は人間の男性、下半身は魚という、伝説・物語に登場する空想上の生き物を指します。女性の人魚 mermaid（マーメイド）に対応する男性版で、複数形は mermen です。",
+    "keywords": ["merman 意味", "人魚 男 英語", "mermaid 対", "半人半魚 英語", "merman 使い方"],
+    "meanings": [
+      { "hinshi": "【名】（男の）人魚", "note": "上半身が男性、下半身が魚の空想上の生き物。複数 mermen。可算" }
+    ],
+    "usages": [
+      { "title": "① 男の人魚", "desc": "半人半魚の男性の空想上の生き物を指す使い方。", "example_en": "The story features a merman who lives under the sea.", "example_ja": "その物語は海の底に住む男の人魚が登場する。" },
+      { "title": "② 物語・伝説で", "desc": "mermaid（女の人魚）と対にして使う。", "example_en": "Mermaids and mermen appear in many legends.", "example_ja": "人魚（女・男）は多くの伝説に登場する。" }
+    ],
+    "warn": ["merman（男の人魚）⇔ mermaid（女の人魚）。複数形は mermen。mer- は「海」を表す古い語根（フランス語 mer 海）。上半身が人間、下半身が魚の空想上の生き物です。"],
+    "etym_note": "mere（海、湖。古英語 mere）+ man（人・男）から。「海の男＝男の人魚」の意味です。mermaid（mere + maid 乙女）と対になります。",
+    "etym_chain": [
+      { "node": "mere + man", "sub": "海 + 男", "era": "中英語" },
+      { "node": "merman", "sub": "男の人魚", "era": "近代英語" },
+      { "node": "merman", "sub": "男の人魚", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a merman in the sea", "ja": "海の男の人魚" },
+      { "en": "mermaids and mermen", "ja": "女の人魚と男の人魚" },
+      { "en": "a legendary merman", "ja": "伝説の男の人魚" },
+      { "en": "the tail of a merman", "ja": "男の人魚の尾" },
+      { "en": "a mythical merman", "ja": "神話上の男の人魚" },
+      { "en": "a young merman", "ja": "若い男の人魚" }
+    ],
+    "related": [
+      { "en": "mermaid", "ja": "（女の）人魚" },
+      { "en": "myth", "ja": "神話" },
+      { "en": "legend", "ja": "伝説" },
+      { "en": "creature", "ja": "生き物" }
+    ],
+    "faq": [
+      { "q": "merman と mermaid の違いは？", "a": "merman は「男の人魚」、mermaid は「女の人魚」です。どちらも上半身が人間、下半身が魚の空想上の生き物です。merman の複数形は mermen です。" },
+      { "q": "mer- はどんな意味？", "a": "「海」を表す古い語根です（フランス語 mer 海と関連）。merman（海の男）、mermaid（海の乙女）に使われています。" }
+    ],
+    "quiz": [
+      { "q": "merman の意味は？", "A": "（男の）人魚（半人半魚の生き物）", "B": "船乗り", "C": "海の神だけ", "D": "漁師", "correct": "A" },
+      { "q": "merman に対応する「女の人魚」を表す語は？", "A": "mermaid", "B": "maiden", "C": "mermaness", "D": "merlady", "correct": "A" }
+    ]
+  },
+  {
+    "english": "metalloid",
+    "pron": "ˈmetəlɔɪd",
+    "kana": "メタロイド",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "metal(金属)+-oid(〜のような)",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "科学・化学"],
+    "meaning_main": "半金属（金属と非金属の中間の性質を持つ元素）",
+    "description": "metalloid（メタロイド）は「半金属」という意味の名詞。金属と非金属の中間の性質を持つ元素を指します。ケイ素（シリコン）・ホウ素・ヒ素などが例です。電気を通しにくいが少しは通す（半導体）などの性質があり、電子部品の材料として重要です。",
+    "keywords": ["metalloid 意味", "半金属 英語", "ケイ素 半導体", "metal 金属", "metalloid 使い方"],
+    "meanings": [
+      { "hinshi": "【名】半金属（金属と非金属の中間の元素）", "note": "ケイ素・ホウ素・ヒ素など。半導体の性質を持つ。可算名詞" }
+    ],
+    "usages": [
+      { "title": "① 中間の性質を持つ元素", "desc": "金属と非金属の中間の元素を指す使い方。", "example_en": "Silicon is a metalloid used in electronics.", "example_ja": "ケイ素は電子機器に使われる半金属だ。" },
+      { "title": "② 半導体としての利用", "desc": "電子部品の材料として使われることを表す使い方。", "example_en": "Metalloids are important in making semiconductors.", "example_ja": "半金属は半導体を作るのに重要だ。" }
+    ],
+    "warn": ["metalloid（半金属）は metal（金属）と nonmetal（非金属）の中間。ケイ素（silicon）・ホウ素（boron）・ヒ素（arsenic）などが例。-oid は「〜のような」を表す接尾辞で、「金属のような（が完全な金属ではない）」の意味です。半導体（semiconductor）の材料になります。"],
+    "etym_note": "metal（金属。ギリシャ語 metallon 鉱山・金属 から）+ -oid（〜に似た。ギリシャ語 -oeides から）から。「金属に似た（元素）＝半金属」の意味です。",
+    "etym_chain": [
+      { "node": "metallon", "sub": "金属", "era": "ギリシャ語" },
+      { "node": "metal + -oid", "sub": "金属 + 似た", "era": "近代英語" },
+      { "node": "metalloid", "sub": "半金属", "era": "19世紀 英語" }
+    ],
+    "phrases": [
+      { "en": "silicon is a metalloid", "ja": "ケイ素は半金属だ" },
+      { "en": "metals and metalloids", "ja": "金属と半金属" },
+      { "en": "a metalloid element", "ja": "半金属の元素" },
+      { "en": "properties of metalloids", "ja": "半金属の性質" },
+      { "en": "metalloids in semiconductors", "ja": "半導体の中の半金属" },
+      { "en": "boron, a metalloid", "ja": "半金属のホウ素" }
+    ],
+    "related": [
+      { "en": "metal", "ja": "金属" },
+      { "en": "nonmetal", "ja": "非金属" },
+      { "en": "semiconductor", "ja": "半導体" },
+      { "en": "element", "ja": "元素" }
+    ],
+    "faq": [
+      { "q": "metalloid（半金属）とは？", "a": "金属と非金属の中間の性質を持つ元素です。ケイ素・ホウ素・ヒ素などが例で、電気を少しだけ通す（半導体）などの性質があり、電子部品の材料として重要です。" },
+      { "q": "-oid はどんな意味？", "a": "「〜のような・〜に似た」を表す接尾辞です。metalloid（金属に似た＝半金属）、humanoid（人間に似た）、asteroid（星に似た）などに使われます。" }
+    ],
+    "quiz": [
+      { "q": "metalloid の意味は？", "A": "半金属（金属と非金属の中間の元素）", "B": "純粋な金", "C": "気体だけ", "D": "液体の金属", "correct": "A" },
+      { "q": "metalloid の例として正しいものは？", "A": "ケイ素（シリコン）", "B": "水素", "C": "酸素", "D": "水", "correct": "A" }
+    ]
+  },
+  {
+    "english": "meteorite",
+    "pron": "ˈmiːtiəraɪt",
+    "kana": "ミーティオライト",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "meteor(流星)+-ite(鉱物)",
+    "ld_level": "1級",
+    "badges": ["中学生〜", "英検1級", "CEFR C1", "科学・宇宙"],
+    "meaning_main": "隕石（宇宙から落ちてきて地表に達した岩石・金属のかたまり）",
+    "description": "meteorite（ミーティオライト）は「隕石（いんせき）」という意味の名詞。宇宙をただよっていた岩石や金属のかたまりが、大気を通り抜けて燃えつきずに地表まで落ちてきたものを指します。宇宙空間の小さな天体が地球に落下した、貴重な研究対象です。",
+    "keywords": ["meteorite 意味", "隕石 英語", "流星 隕石 違い", "meteor 流星", "meteorite 使い方"],
+    "meanings": [
+      { "hinshi": "【名】隕石", "note": "宇宙から落ちて地表に達した岩石・金属のかたまり。可算名詞" }
+    ],
+    "usages": [
+      { "title": "① 落下した隕石", "desc": "宇宙から地表に落ちてきた岩石・金属を指す使い方。", "example_en": "The meteorite left a large crater.", "example_ja": "その隕石は大きなクレーターを残した。" },
+      { "title": "② 研究・発見の話題で", "desc": "宇宙の物質を調べる対象として使う。", "example_en": "Scientists studied the fallen meteorite.", "example_ja": "科学者たちは落ちた隕石を調べた。" }
+    ],
+    "warn": ["meteoroid（宇宙をただよう小天体）→ meteor（大気に入って光る＝流星）→ meteorite（燃えつきず地表に落ちたもの＝隕石）と区別します。-ite は「鉱物・石」を表す接尾辞。地表に達したものだけが meteorite（隕石）です。"],
+    "etym_note": "meteor（流星。ギリシャ語 meteoron 空中の現象 から）に、鉱物・石を表す -ite が付いた語。「（流星が）落ちてできた石＝隕石」の意味です。",
+    "etym_chain": [
+      { "node": "meteoron", "sub": "空中の現象", "era": "ギリシャ語" },
+      { "node": "meteor", "sub": "流星", "era": "近代英語" },
+      { "node": "meteorite", "sub": "隕石", "era": "19世紀 英語" }
+    ],
+    "phrases": [
+      { "en": "a fallen meteorite", "ja": "落下した隕石" },
+      { "en": "a meteorite crater", "ja": "隕石のクレーター" },
+      { "en": "a meteorite impact", "ja": "隕石の衝突" },
+      { "en": "study a meteorite", "ja": "隕石を調べる" },
+      { "en": "an iron meteorite", "ja": "鉄隕石" },
+      { "en": "a meteorite strike", "ja": "隕石の落下" }
+    ],
+    "related": [
+      { "en": "meteor", "ja": "流星" },
+      { "en": "meteoroid", "ja": "流星物質（宇宙の小天体）" },
+      { "en": "asteroid", "ja": "小惑星" },
+      { "en": "comet", "ja": "彗星" }
+    ],
+    "faq": [
+      { "q": "meteor と meteorite の違いは？", "a": "meteor（流星）は「大気に入って光る現象（流れ星）」、meteorite（隕石）は「燃えつきずに地表まで落ちてきた岩石・金属のかたまり」です。地表に達したものが隕石です。" },
+      { "q": "meteoroid とは？", "a": "「流星物質」です。宇宙空間をただよう小さな天体（岩石など）で、これが大気に入ると meteor（流星）、地表に落ちると meteorite（隕石）になります。" }
+    ],
+    "quiz": [
+      { "q": "meteorite の意味は？", "A": "隕石（地表に落ちてきた宇宙の岩石・金属）", "B": "雷", "C": "虹", "D": "オーロラ", "correct": "A" },
+      { "q": "meteor（流星）と meteorite（隕石）の違いは？", "A": "地表に達したものが隕石", "B": "同じもの", "C": "隕石は空で光る現象", "D": "流星は地面の石", "correct": "A" }
+    ]
+  },
+  {
+    "english": "meteorologist",
+    "pron": "ˌmiːtiəˈrɑːlədʒɪst",
+    "kana": "ミーティオロロジスト",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "meteorology(気象学)+-ist(専門家)",
+    "ld_level": "1級",
+    "badges": ["中学生〜", "英検1級", "CEFR C1", "科学・職業"],
+    "meaning_main": "気象学者／気象予報士（天気を研究・予報する専門家）",
+    "description": "meteorologist（ミーティオロロジスト）は「気象学者／気象予報士」という意味の名詞。大気の状態や天気の変化を研究し、天気を予報する専門家を指します。テレビの天気予報を伝える人や、気象を科学的に研究する人を表します。気象学は meteorology です。",
+    "keywords": ["meteorologist 意味", "気象学者 英語", "気象予報士 英語", "meteorology 気象学", "meteorologist 使い方"],
+    "meanings": [
+      { "hinshi": "【名】気象学者、気象予報士", "note": "天気を研究・予報する専門家。可算名詞" }
+    ],
+    "usages": [
+      { "title": "① 天気を予報する専門家", "desc": "天気を予報し伝える専門家を指す使い方。", "example_en": "The meteorologist predicted heavy rain.", "example_ja": "気象予報士は大雨を予報した。" },
+      { "title": "② 気象を研究する人", "desc": "大気や気候を科学的に研究する人を指す使い方。", "example_en": "Meteorologists study weather patterns.", "example_ja": "気象学者は天気のパターンを研究する。" }
+    ],
+    "warn": ["気象学は meteorology、気象学者・気象予報士は meteorologist。meteor（流星）と語源は同じ（もとは『空の現象』の意味）ですが、meteorology は「気象学」で流星の学問ではありません。-logy（学問）+ -ist（専門家）の作りです。"],
+    "etym_note": "meteorology（気象学。ギリシャ語 meteoron 空中の現象 + -logy 学問 から）に、「専門家」を表す -ist が付いた語。「気象を研究する人＝気象学者」の意味です。",
+    "etym_chain": [
+      { "node": "meteoron + logy", "sub": "空の現象 + 学問", "era": "ギリシャ語要素" },
+      { "node": "meteorology", "sub": "気象学", "era": "近代英語" },
+      { "node": "meteorologist", "sub": "気象学者", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a TV meteorologist", "ja": "テレビの気象予報士" },
+      { "en": "the meteorologist predicted", "ja": "気象予報士は予報した" },
+      { "en": "a professional meteorologist", "ja": "プロの気象学者" },
+      { "en": "ask a meteorologist", "ja": "気象予報士に尋ねる" },
+      { "en": "meteorologists warn of", "ja": "気象学者が〜を警告する" },
+      { "en": "a research meteorologist", "ja": "研究気象学者" }
+    ],
+    "related": [
+      { "en": "meteorology", "ja": "気象学" },
+      { "en": "weather", "ja": "天気" },
+      { "en": "forecast", "ja": "予報" },
+      { "en": "climate", "ja": "気候" }
+    ],
+    "faq": [
+      { "q": "meteorologist とは何をする人？", "a": "大気の状態や天気の変化を研究し、天気を予報する専門家です。テレビの天気予報を伝える人や、気象を科学的に研究する人を指します。気象学は meteorology です。" },
+      { "q": "meteorology は流星の学問？", "a": "いいえ。meteorology は「気象学（天気の学問）」です。語源は meteor と同じ『空の現象』ですが、流星（隕石）の学問ではなく、天気・大気を研究する分野です。" }
+    ],
+    "quiz": [
+      { "q": "meteorologist の意味は？", "A": "気象学者・気象予報士（天気を研究・予報する人）", "B": "天文学者", "C": "地質学者", "D": "生物学者", "correct": "A" },
+      { "q": "meteorologist が扱うのは？", "A": "天気・気象", "B": "星や惑星だけ", "C": "岩石だけ", "D": "動物だけ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "millet",
+    "pron": "ˈmɪlɪt",
+    "kana": "ミレット",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 milium(キビ)",
+    "ld_level": "1級",
+    "badges": ["中学生〜", "英検1級", "CEFR C1", "食べ物・穀物"],
+    "meaning_main": "キビ・アワ（雑穀）／イネ科の小さな穀物",
+    "description": "millet（ミレット）は「キビ・アワ」という意味の名詞。小さな粒の穀物で、イネ科の雑穀の総称です。乾燥に強く、やせた土地でも育つため、古くから世界各地で栽培されてきました。食用のほか、小鳥のえさにも使われます。日本では雑穀米やごはんに混ぜて食べられます。",
+    "keywords": ["millet 意味", "キビ 英語", "アワ 英語", "雑穀 英語", "millet 使い方"],
+    "meanings": [
+      { "hinshi": "【名】キビ、アワ（イネ科の小さな穀物・雑穀）", "note": "乾燥に強い小粒の穀物。食用・鳥のえさに。不可算" }
+    ],
+    "usages": [
+      { "title": "① 穀物のキビ・アワ", "desc": "小さな粒の雑穀を指す使い方。", "example_en": "Millet is a nutritious grain.", "example_ja": "キビは栄養のある穀物だ。" },
+      { "title": "② 食用・えさとして", "desc": "食べ物や小鳥のえさとして使われることを表す。", "example_en": "The birdseed contains millet.", "example_ja": "その鳥のえさにはアワが入っている。" }
+    ],
+    "warn": ["millet は「キビ・アワなどイネ科の小さな穀物（雑穀）」の総称。乾燥に強く、やせた土地でも育ちます。米（rice）や麦（wheat）とは別の穀物で、雑穀米に使われたり、小鳥のえさになったりします。"],
+    "etym_note": "ラテン語 milium（キビ）に由来する古フランス語 millet（小さな milium）から。「小さな穀物＝キビ・アワ」の意味です。",
+    "etym_chain": [
+      { "node": "milium", "sub": "キビ", "era": "ラテン語" },
+      { "node": "millet", "sub": "キビ・アワ", "era": "古フランス語" },
+      { "node": "millet", "sub": "キビ・アワ", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "grow millet", "ja": "キビを育てる" },
+      { "en": "millet porridge", "ja": "キビのかゆ" },
+      { "en": "millet and rice", "ja": "雑穀と米" },
+      { "en": "pearl millet", "ja": "トウジンビエ（キビの一種）" },
+      { "en": "a field of millet", "ja": "キビ畑" },
+      { "en": "birdseed with millet", "ja": "アワ入りの鳥のえさ" }
+    ],
+    "related": [
+      { "en": "grain", "ja": "穀物" },
+      { "en": "wheat", "ja": "小麦" },
+      { "en": "rice", "ja": "米" },
+      { "en": "cereal", "ja": "穀物・シリアル" }
+    ],
+    "faq": [
+      { "q": "millet（キビ・アワ）とはどんな穀物？", "a": "イネ科の小さな粒の穀物（雑穀）の総称です。乾燥に強く、やせた土地でも育つため、古くから世界各地で栽培されてきました。食用のほか、小鳥のえさにも使われます。" },
+      { "q": "millet は米や麦と同じ？", "a": "いずれも穀物ですが別の種類です。millet（キビ・アワ）は小粒の雑穀、rice（米）・wheat（小麦）は主食となる穀物です。日本では雑穀米として米に混ぜられます。" }
+    ],
+    "quiz": [
+      { "q": "millet の意味は？", "A": "キビ・アワ（イネ科の小さな穀物）", "B": "牛乳", "C": "砂糖", "D": "塩", "correct": "A" },
+      { "q": "millet の特徴として正しいものは？", "A": "乾燥に強く、やせた土地でも育つ小粒の穀物", "B": "水中でしか育たない", "C": "果物の一種", "D": "海藻の一種", "correct": "A" }
+    ]
+  },
+  {
+    "english": "misleading",
+    "pron": "ˌmɪsˈliːdɪŋ",
+    "kana": "ミスリーディング",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "mis-(誤って)+leading(導く)",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出"],
+    "meaning_main": "誤解を招く／人を惑わせる・紛らわしい",
+    "description": "misleading（ミスリーディング）は「誤解を招く／人を惑わせる」という意味の形容詞。実際とは違う印象を与えて、人を間違った理解や判断に導いてしまう様子を表します。広告・情報・言い方などが、うそではなくても紛らわしいときに使われる語です。",
+    "keywords": ["misleading 意味", "誤解を招く 英語", "紛らわしい 英語", "mislead 惑わす", "misleading 使い方"],
+    "meanings": [
+      { "hinshi": "【形】誤解を招く、人を惑わせる、紛らわしい", "note": "間違った理解に導く。misleading information（誤解を招く情報）" }
+    ],
+    "usages": [
+      { "title": "① 誤解を招く・紛らわしい", "desc": "実際と違う印象を与えて人を惑わせる様子を表す使い方。", "example_en": "The advertisement was misleading.", "example_ja": "その広告は誤解を招くものだった。" },
+      { "title": "② 間違った判断に導く", "desc": "情報や言い方が人を間違った理解に導くことを表す使い方。", "example_en": "The statistics can be misleading.", "example_ja": "その統計は誤解を招くことがある。" }
+    ],
+    "warn": ["mis-（誤って）+ leading（導く）で「誤った方向に導く＝誤解を招く」。動詞は mislead（惑わす・誤解させる、過去形 misled）。うそ（lie）とは違い、misleading は「（うそでなくても）紛らわしく誤解させる」ニュアンスです。"],
+    "etym_note": "mislead（誤って導く。mis- 誤って + lead 導く）に -ing が付いた形容詞。「（人を）誤った理解に導くような＝誤解を招く」の意味です。",
+    "etym_chain": [
+      { "node": "mis + lead", "sub": "誤って + 導く", "era": "古英語由来" },
+      { "node": "mislead", "sub": "惑わす", "era": "中英語" },
+      { "node": "misleading", "sub": "誤解を招く", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "misleading information", "ja": "誤解を招く情報" },
+      { "en": "a misleading advertisement", "ja": "誤解を招く広告" },
+      { "en": "highly misleading", "ja": "非常に紛らわしい" },
+      { "en": "misleading statistics", "ja": "誤解を招く統計" },
+      { "en": "a misleading impression", "ja": "誤った印象" },
+      { "en": "somewhat misleading", "ja": "やや紛らわしい" }
+    ],
+    "related": [
+      { "en": "mislead", "ja": "惑わす・誤解させる" },
+      { "en": "deceptive", "ja": "人を欺くような" },
+      { "en": "confusing", "ja": "混乱させる・紛らわしい" },
+      { "en": "accurate", "ja": "正確な（反対の方向）" }
+    ],
+    "faq": [
+      { "q": "misleading と lying の違いは？", "a": "lying（うそをつくこと）は「事実でないことを言う」、misleading は「（うそではなくても）紛らわしく誤解を招く」です。misleading は事実の一部を強調するなどして、間違った印象を与えることも含みます。" },
+      { "q": "misleading の動詞形は？", "a": "mislead（惑わす・誤解させる）です。過去形・過去分詞は misled（ミスレッド）です。Don't be misled by ~（〜に惑わされないで）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "misleading の意味として最も適切なものは？", "A": "誤解を招く、人を惑わせる", "B": "とても正確な", "C": "親切な", "D": "退屈な", "correct": "A" },
+      { "q": "misleading の動詞形は？", "A": "mislead（惑わす）", "B": "misread（読み間違える）", "C": "mismatch（合わない）", "D": "misuse（誤用する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "miso",
+    "pron": "ˈmiːsoʊ",
+    "kana": "ミソ",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "日本語「味噌」より",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "食べ物・文化"],
+    "meaning_main": "みそ（大豆を発酵させて作る日本の調味料）",
+    "description": "miso（ミソ）は「みそ（味噌）」という意味の名詞。大豆に麹（こうじ）と塩を加えて発酵させて作る、日本の伝統的な調味料です。みそ汁（miso soup）をはじめ、和食に欠かせません。日本語がそのまま英語になった語で、健康食としても世界で知られています。",
+    "keywords": ["miso 意味", "みそ 英語", "味噌 英語", "miso soup みそ汁", "miso 使い方"],
+    "meanings": [
+      { "hinshi": "【名】みそ（味噌）", "note": "大豆を発酵させて作る日本の調味料。miso soup（みそ汁）。不可算" }
+    ],
+    "usages": [
+      { "title": "① 調味料のみそ", "desc": "大豆を発酵させた日本の調味料を指す使い方。", "example_en": "Miso is made from fermented soybeans.", "example_ja": "みそは発酵させた大豆から作られる。" },
+      { "title": "② みそ汁・料理で", "desc": "miso soup（みそ汁）など料理に使う。", "example_en": "I had miso soup for breakfast.", "example_ja": "私は朝食にみそ汁を飲んだ。" }
+    ],
+    "warn": ["miso（みそ）は日本語がそのまま英語になった語。miso soup（みそ汁）が世界的に有名です。大豆（soybean）に麹（koji）と塩を加えて発酵させて作ります。発酵食品として健康にもよいとされます。"],
+    "etym_note": "日本語の「味噌（みそ）」がそのまま英語に取り入れられた語（借用語）。和食の広まりとともに世界で使われるようになりました。",
+    "etym_chain": [
+      { "node": "味噌", "sub": "みそ", "era": "日本語" },
+      { "node": "miso", "sub": "みそ", "era": "20世紀 英語" },
+      { "node": "miso", "sub": "みそ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "miso soup", "ja": "みそ汁" },
+      { "en": "made with miso", "ja": "みそで作った" },
+      { "en": "red miso", "ja": "赤みそ" },
+      { "en": "white miso", "ja": "白みそ" },
+      { "en": "miso paste", "ja": "みそ（ペースト状の）" },
+      { "en": "a bowl of miso soup", "ja": "みそ汁1杯" }
+    ],
+    "related": [
+      { "en": "soybean", "ja": "大豆" },
+      { "en": "tofu", "ja": "豆腐" },
+      { "en": "soy sauce", "ja": "しょうゆ" },
+      { "en": "ferment", "ja": "発酵させる" }
+    ],
+    "faq": [
+      { "q": "miso（みそ）とは？", "a": "大豆に麹（こうじ）と塩を加えて発酵させて作る、日本の伝統的な調味料です。みそ汁をはじめ和食に欠かせません。日本語がそのまま英語になった語です。" },
+      { "q": "miso soup とは？", "a": "「みそ汁」です。だしにみそを溶かし、豆腐やわかめ、ねぎなどの具を入れた日本の代表的なスープで、世界的にも知られています。" }
+    ],
+    "quiz": [
+      { "q": "miso の意味は？", "A": "みそ（大豆を発酵させた日本の調味料）", "B": "砂糖", "C": "小麦粉", "D": "バター", "correct": "A" },
+      { "q": "miso の主な原料は？", "A": "大豆（発酵させたもの）", "B": "牛乳", "C": "米だけ", "D": "とうもろこし", "correct": "A" }
+    ]
+  },
+  {
+    "english": "misunderstanding",
+    "pron": "ˌmɪsʌndərˈstændɪŋ",
+    "kana": "ミスアンダースタンディング",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "mis-(誤って)+understanding(理解)",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出"],
+    "meaning_main": "誤解／思い違い／（誤解による）ちょっとした言い争い",
+    "description": "misunderstanding（ミスアンダースタンディング）は「誤解／思い違い」という意味の名詞。相手の意図や言葉を間違って理解することを指します。また、その誤解が原因で起こる「ちょっとした言い争い・行き違い」も表します。mis-（誤って）+ understanding（理解）でできた語です。",
+    "keywords": ["misunderstanding 意味", "誤解 英語", "思い違い 英語", "misunderstand 誤解する", "misunderstanding 使い方"],
+    "meanings": [
+      { "hinshi": "【名】誤解、思い違い", "note": "間違って理解すること。a slight misunderstanding（ちょっとした誤解）。可算" },
+      { "hinshi": "【名】（誤解による）ちょっとした言い争い、行き違い", "note": "誤解から生じる小さな対立" }
+    ],
+    "usages": [
+      { "title": "① 誤解・思い違い", "desc": "相手の意図や言葉を間違って理解することを表す使い方。", "example_en": "There was a misunderstanding about the time.", "example_ja": "時間について誤解があった。" },
+      { "title": "② 誤解による行き違い", "desc": "誤解が原因の小さな言い争いを表す使い方。", "example_en": "They had a minor misunderstanding.", "example_ja": "彼らはちょっとした行き違いがあった。" }
+    ],
+    "warn": ["mis-（誤って）+ understanding（理解）で「誤った理解＝誤解」。動詞は misunderstand（誤解する、過去形 misunderstood）。clear up a misunderstanding は「誤解を解く」。反対は understanding（理解・了解）。"],
+    "etym_note": "misunderstand（誤解する。mis- 誤って + understand 理解する）に -ing が付いた名詞。「誤って理解すること＝誤解」の意味です。",
+    "etym_chain": [
+      { "node": "mis + understand", "sub": "誤って + 理解する", "era": "中英語" },
+      { "node": "misunderstand", "sub": "誤解する", "era": "近代英語" },
+      { "node": "misunderstanding", "sub": "誤解", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a slight misunderstanding", "ja": "ちょっとした誤解" },
+      { "en": "clear up a misunderstanding", "ja": "誤解を解く" },
+      { "en": "a misunderstanding about", "ja": "〜についての誤解" },
+      { "en": "avoid misunderstanding", "ja": "誤解を避ける" },
+      { "en": "due to a misunderstanding", "ja": "誤解のために" },
+      { "en": "a common misunderstanding", "ja": "よくある誤解" }
+    ],
+    "related": [
+      { "en": "misunderstand", "ja": "誤解する" },
+      { "en": "understanding", "ja": "理解（反対の方向）" },
+      { "en": "confusion", "ja": "混乱・思い違い" },
+      { "en": "mix-up", "ja": "取り違え・混同" }
+    ],
+    "faq": [
+      { "q": "clear up a misunderstanding とは？", "a": "「誤解を解く・解消する」という意味です。話し合いなどで、間違った理解を正して行き違いをなくすことを表します。" },
+      { "q": "misunderstanding の動詞形は？", "a": "misunderstand（誤解する）です。過去形・過去分詞は misunderstood（ミスアンダーストゥッド）です。I misunderstood you.（あなたを誤解していた）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "misunderstanding の意味として最も適切なものは？", "A": "誤解、思い違い", "B": "完全な理解", "C": "命令", "D": "祝賀", "correct": "A" },
+      { "q": "clear up a misunderstanding の意味は？", "A": "誤解を解く", "B": "誤解を深める", "C": "誤解を隠す", "D": "誤解を作る", "correct": "A" }
+    ]
+  },
+  {
+    "english": "modernize",
+    "pron": "ˈmɑːdərnaɪz",
+    "kana": "モダナイズ",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "modern(現代の)+-ize",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出"],
+    "meaning_main": "近代化する／現代的にする・最新のものに更新する",
+    "description": "modernize（モダナイズ）は「近代化する／現代的にする」という意味の動詞。古い設備・方法・制度などを、新しく現代に合ったものに変えることを指します。工場の設備を更新したり、古い制度を改めたりする場面で使われます。イギリス式つづりは modernise です。",
+    "keywords": ["modernize 意味", "近代化 英語", "現代的にする 英語", "modern 現代の", "modernize 使い方"],
+    "meanings": [
+      { "hinshi": "【動】近代化する、現代的にする、最新のものに更新する", "note": "古いものを新しくする。modernize the factory（工場を近代化する）" }
+    ],
+    "usages": [
+      { "title": "① 設備・方法を近代化する", "desc": "古い設備・やり方を新しくすることを表す使い方。", "example_en": "The company modernized its equipment.", "example_ja": "その会社は設備を近代化した。" },
+      { "title": "② 制度・都市を現代化する", "desc": "古い制度や街を現代に合わせることを表す使い方。", "example_en": "The government aims to modernize the education system.", "example_ja": "政府は教育制度の近代化を目指している。" }
+    ],
+    "warn": ["modern（現代の）+ -ize（〜化する）で「近代化する・現代的にする」。名詞は modernization（近代化）。イギリス式は modernise。古いものを新しく更新する意味で、設備・制度・都市などに使います。"],
+    "etym_note": "modern（現代の。ラテン語 modo 最近・今しがた から）に、動詞をつくる -ize が付いた語。「現代のものにする＝近代化する」の意味です。",
+    "etym_chain": [
+      { "node": "modo", "sub": "最近・今", "era": "ラテン語" },
+      { "node": "modern", "sub": "現代の", "era": "近代英語" },
+      { "node": "modernize", "sub": "近代化する", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "modernize the factory", "ja": "工場を近代化する" },
+      { "en": "modernize the system", "ja": "制度を近代化する" },
+      { "en": "modernize equipment", "ja": "設備を更新する" },
+      { "en": "modernize the country", "ja": "国を近代化する" },
+      { "en": "efforts to modernize", "ja": "近代化への取り組み" },
+      { "en": "modernize the infrastructure", "ja": "インフラを近代化する" }
+    ],
+    "related": [
+      { "en": "modern", "ja": "現代の" },
+      { "en": "modernization", "ja": "近代化（名詞）" },
+      { "en": "update", "ja": "更新する" },
+      { "en": "renovate", "ja": "改修する" }
+    ],
+    "faq": [
+      { "q": "modernize の名詞形は？", "a": "modernization（近代化・現代化）です。the modernization of industry（産業の近代化）のように使います。イギリス式は modernisation です。" },
+      { "q": "modernize と update の違いは？", "a": "どちらも「新しくする」ですが、modernize は「（古いもの全体を）現代に合わせて近代化する」、update は「（情報・ソフトなどを）最新の状態に更新する」に使うことが多いです。" }
+    ],
+    "quiz": [
+      { "q": "modernize の意味として最も適切なものは？", "A": "近代化する、現代的にする", "B": "古くする", "C": "破壊する", "D": "隠す", "correct": "A" },
+      { "q": "modernize のもとになった modern の意味は？", "A": "現代の", "B": "巨大な", "C": "遠い", "D": "安い", "correct": "A" }
+    ]
+  },
+  {
+    "english": "monitoring",
+    "pron": "ˈmɑːnɪtərɪŋ",
+    "kana": "モニタリング",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "monitor(監視する)+-ing",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出"],
+    "meaning_main": "監視／観測・継続的なチェック（状態を見守り続けること）",
+    "description": "monitoring（モニタリング）は「監視／観測」という意味の名詞。ある状態や変化を、継続的に見守り、記録・確認することを指します。健康状態・環境・機械・ネットワークなどを常にチェックする場面で使われます。動詞 monitor（監視する）の名詞形です。",
+    "keywords": ["monitoring 意味", "監視 英語", "観測 英語", "monitor 監視する", "monitoring 使い方"],
+    "meanings": [
+      { "hinshi": "【名】監視、観測、継続的なチェック", "note": "状態を見守り続けること。continuous monitoring（継続的な監視）。不可算" }
+    ],
+    "usages": [
+      { "title": "① 状態を見守り続ける", "desc": "健康・環境・機械などを継続的にチェックすることを表す使い方。", "example_en": "The patient needs constant monitoring.", "example_ja": "その患者には絶えず監視（経過観察）が必要だ。" },
+      { "title": "② 環境・システムの観測", "desc": "環境やシステムを継続的に観測することを表す使い方。", "example_en": "Air quality monitoring is important.", "example_ja": "大気の質の観測は重要だ。" }
+    ],
+    "warn": ["monitoring は「（継続的に）状態を見守り記録すること」。動詞は monitor（監視する・観測する）、名詞 monitor は「モニター（画面）・監視装置・監視する人」。surveillance（（防犯・治安の）監視）とも近いですが、monitoring は「状態のチェック」に広く使います。"],
+    "etym_note": "monitor（監視する。ラテン語 monere 警告する・忠告する から）に -ing が付いた語。「見守り続けること＝監視・観測」の意味です。",
+    "etym_chain": [
+      { "node": "monere", "sub": "警告する", "era": "ラテン語" },
+      { "node": "monitor", "sub": "監視する", "era": "近代英語" },
+      { "node": "monitoring", "sub": "監視・観測", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "continuous monitoring", "ja": "継続的な監視" },
+      { "en": "close monitoring", "ja": "綿密な監視" },
+      { "en": "health monitoring", "ja": "健康状態の観測" },
+      { "en": "environmental monitoring", "ja": "環境モニタリング" },
+      { "en": "monitoring equipment", "ja": "監視機器" },
+      { "en": "real-time monitoring", "ja": "リアルタイム監視" }
+    ],
+    "related": [
+      { "en": "monitor", "ja": "監視する・モニター" },
+      { "en": "surveillance", "ja": "監視・見張り" },
+      { "en": "observation", "ja": "観察・観測" },
+      { "en": "tracking", "ja": "追跡・追尾" }
+    ],
+    "faq": [
+      { "q": "monitoring と surveillance の違いは？", "a": "monitoring は「（状態・変化を）継続的にチェック・観測すること」全般、surveillance は特に「（防犯・治安のための）監視・見張り」を指すことが多いです。monitoring の方が広い意味です。" },
+      { "q": "monitoring の動詞形は？", "a": "monitor（監視する・観測する）です。monitor the situation（状況を監視する）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "monitoring の意味として最も適切なものは？", "A": "監視・観測（状態を見守り続けること）", "B": "破壊", "C": "販売", "D": "配達", "correct": "A" },
+      { "q": "monitoring の動詞形は？", "A": "monitor（監視する）", "B": "mention（言及する）", "C": "mount（登る）", "D": "modify（修正する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "movable",
+    "pron": "ˈmuːvəbl",
+    "kana": "ムーバブル",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "move(動かす)+-able",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出"],
+    "meaning_main": "動かせる／可動の／（日付が）移動する",
+    "description": "movable（ムーバブル）は「動かせる／可動の」という意味の形容詞。固定されておらず、位置を移動できることを表します。また「（祝日などの日付が）年によって移動する」意味でも使われます。move（動かす）に「〜できる」を表す -able が付いた語です。moveable とも書きます。",
+    "keywords": ["movable 意味", "動かせる 英語", "可動 英語", "move 動かす", "movable 使い方"],
+    "meanings": [
+      { "hinshi": "【形】動かせる、可動の", "note": "位置を移動できる。movable furniture（動かせる家具）" },
+      { "hinshi": "【形】（日付が）移動する", "note": "a movable holiday（毎年日付が変わる祝日）" }
+    ],
+    "usages": [
+      { "title": "① 動かせる・可動の", "desc": "固定されず位置を移動できることを表す使い方。", "example_en": "The chairs are movable.", "example_ja": "そのいすは動かせる。" },
+      { "title": "② 日付が移動する", "desc": "a movable holiday（年で日付が変わる祝日）のように使う。", "example_en": "Easter is a movable holiday.", "example_ja": "イースターは日付が移動する祝日だ。" }
+    ],
+    "warn": ["反対は fixed（固定された）、immovable（動かせない）。movable / moveable どちらのつづりも使われます。「動かせる」のほか、「（祝日が）年によって日付が変わる」の意味（a movable feast）も。movable type は「活版印刷の活字」。"],
+    "etym_note": "move（動かす。ラテン語 movere 動かす から）に、「〜できる」を表す -able が付いた語。「動かせる」の意味です。move, motion と同語根です。",
+    "etym_chain": [
+      { "node": "movere", "sub": "動かす", "era": "ラテン語" },
+      { "node": "move", "sub": "動かす", "era": "中英語" },
+      { "node": "movable", "sub": "動かせる", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "movable furniture", "ja": "動かせる家具" },
+      { "en": "a movable part", "ja": "可動部分" },
+      { "en": "movable type", "ja": "活版印刷の活字" },
+      { "en": "a movable holiday", "ja": "日付が移動する祝日" },
+      { "en": "easily movable", "ja": "簡単に動かせる" },
+      { "en": "a movable feast", "ja": "移動祝日" }
+    ],
+    "related": [
+      { "en": "move", "ja": "動かす・動く" },
+      { "en": "portable", "ja": "持ち運べる" },
+      { "en": "fixed", "ja": "固定された（反対語）" },
+      { "en": "immovable", "ja": "動かせない（反対語）" }
+    ],
+    "faq": [
+      { "q": "movable の反対語は？", "a": "immovable（動かせない）や fixed（固定された）です。movable は「動かせる・可動の」を表します。" },
+      { "q": "a movable holiday とは？", "a": "「日付が移動する祝日」です。イースター（復活祭）のように、決まった日ではなく年によって日付が変わる祝日を指します（a movable feast とも言います）。" }
+    ],
+    "quiz": [
+      { "q": "movable の意味として最も適切なものは？", "A": "動かせる、可動の", "B": "固定された", "C": "壊れた", "D": "透明な", "correct": "A" },
+      { "q": "movable の反対の意味を持つ語は？", "A": "immovable（動かせない）", "B": "portable（持ち運べる）", "C": "flexible（柔軟な）", "D": "removable（取り外せる）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "moving",
+    "pron": "ˈmuːvɪŋ",
+    "kana": "ムービング",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "move(動く・感動させる)+-ing",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出"],
+    "meaning_main": "感動的な／心を打つ／（物理的に）動いている",
+    "description": "moving（ムービング）は「感動的な／心を打つ」という意味の形容詞。人の心を強く動かし、感動させるような様子を表します。また「（物理的に）動いている」という意味もあります。動詞 move（動かす・感動させる）の形容詞形で、心と体の両方の「動く」を表す語です。",
+    "keywords": ["moving 意味", "感動的 英語", "心を打つ 英語", "move 感動させる", "moving 使い方"],
+    "meanings": [
+      { "hinshi": "【形】感動的な、心を打つ", "note": "人の心を動かす。a moving speech（感動的なスピーチ）" },
+      { "hinshi": "【形】（物理的に）動いている", "note": "a moving vehicle（動いている車）" }
+    ],
+    "usages": [
+      { "title": "① 感動的な・心を打つ", "desc": "人の心を強く動かし感動させる様子を表す使い方。", "example_en": "It was a deeply moving story.", "example_ja": "それは深く心を打つ物語だった。" },
+      { "title": "② 動いている（物理的）", "desc": "実際に動いている状態を表す使い方。", "example_en": "Don't get off a moving train.", "example_ja": "動いている電車から降りてはいけない。" }
+    ],
+    "warn": ["move には「動かす」と「感動させる」の両方の意味があり、moving も「感動的な」と「動いている」の両方を表します。文脈で判断します。（人が）感動している場合は moved（感動して）を使います。名詞 moving は「引っ越し」も指します。"],
+    "etym_note": "move（動かす、感動させる。ラテン語 movere 動かす から）に -ing が付いた形容詞。「（心を）動かす＝感動的な」「（物が）動いている」の意味です。",
+    "etym_chain": [
+      { "node": "movere", "sub": "動かす", "era": "ラテン語" },
+      { "node": "move", "sub": "動かす・感動させる", "era": "中英語" },
+      { "node": "moving", "sub": "感動的な・動いている", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a moving speech", "ja": "感動的なスピーチ" },
+      { "en": "a deeply moving story", "ja": "深く心を打つ物語" },
+      { "en": "a moving experience", "ja": "感動的な体験" },
+      { "en": "a moving vehicle", "ja": "動いている車" },
+      { "en": "moving parts", "ja": "可動部分・動く部分" },
+      { "en": "a moving tribute", "ja": "感動的な追悼" }
+    ],
+    "related": [
+      { "en": "move", "ja": "動かす・感動させる" },
+      { "en": "moved", "ja": "感動して（人の状態）" },
+      { "en": "touching", "ja": "心を打つ・感動的な" },
+      { "en": "emotional", "ja": "感情的な・感動的な" }
+    ],
+    "faq": [
+      { "q": "moving と moved の違いは？", "a": "moving は「（人を）感動させるような（もの・話）」、moved は「（人が）感動している」です。a moving film（感動的な映画）／ I was moved.（私は感動した）のように使い分けます。" },
+      { "q": "moving と touching の違いは？", "a": "どちらも「感動的な・心を打つ」で、ほぼ同義です。moving は感動の度合いが大きめ、touching は「（じんとくる）心温まる」ニュアンスがあります。" }
+    ],
+    "quiz": [
+      { "q": "moving の「感動的な」の意味を使った表現は？", "A": "a moving speech（感動的なスピーチ）", "B": "a moving box（引っ越しの箱）", "C": "a moving van（引っ越しトラック）", "D": "a moving day（引っ越しの日）", "correct": "A" },
+      { "q": "「私は感動した」を表すのは？", "A": "I was moved.", "B": "I was moving.", "C": "I was move.", "D": "I was movement.", "correct": "A" }
+    ]
+  },
+  {
+    "english": "mysterious",
+    "pron": "mɪˈstɪriəs",
+    "kana": "ミステリアス",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "mystery(なぞ)+-ous",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出"],
+    "meaning_main": "なぞめいた／不可解な・神秘的な",
+    "description": "mysterious（ミステリアス）は「なぞめいた／不可解な」という意味の形容詞。原因や正体が分からず、なぞに包まれている様子を表します。神秘的で人を引きつける魅力にも、説明のつかない不気味さにも使われます。名詞 mystery（なぞ・神秘）の形容詞形です。",
+    "keywords": ["mysterious 意味", "なぞめいた 英語", "不可解 英語", "mystery なぞ", "mysterious 使い方"],
+    "meanings": [
+      { "hinshi": "【形】なぞめいた、不可解な、神秘的な", "note": "正体・原因が分からない。a mysterious event（なぞめいた出来事）" }
+    ],
+    "usages": [
+      { "title": "① なぞめいた・不可解な", "desc": "原因や正体が分からない様子を表す使い方。", "example_en": "A mysterious light appeared in the sky.", "example_ja": "なぞめいた光が空に現れた。" },
+      { "title": "② 神秘的で人を引きつける", "desc": "神秘的な魅力を持つ様子を表す使い方。", "example_en": "She had a mysterious smile.", "example_ja": "彼女はなぞめいた笑みを浮かべていた。" }
+    ],
+    "warn": ["名詞は mystery（なぞ・神秘・推理小説）。mysterious は「なぞめいた・不可解な」で、良い意味（神秘的な魅力）にも、不気味・不安な意味にも使えます。副詞は mysteriously（不可解にも）。"],
+    "etym_note": "mystery（なぞ、神秘。ギリシャ語 mysterion 秘儀 から）に、「〜に満ちた」を表す -ous が付いた語。「なぞに満ちた＝なぞめいた」の意味です。",
+    "etym_chain": [
+      { "node": "mysterion", "sub": "秘儀", "era": "ギリシャ語" },
+      { "node": "mystery", "sub": "なぞ・神秘", "era": "中英語" },
+      { "node": "mysterious", "sub": "なぞめいた", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a mysterious event", "ja": "なぞめいた出来事" },
+      { "en": "a mysterious stranger", "ja": "なぞめいた見知らぬ人" },
+      { "en": "a mysterious disappearance", "ja": "なぞの失踪" },
+      { "en": "a mysterious smile", "ja": "なぞめいた笑み" },
+      { "en": "for mysterious reasons", "ja": "なぞの理由で" },
+      { "en": "a mysterious force", "ja": "なぞめいた力" }
+    ],
+    "related": [
+      { "en": "mystery", "ja": "なぞ・神秘" },
+      { "en": "enigmatic", "ja": "なぞめいた・不可解な" },
+      { "en": "puzzling", "ja": "まごつかせる・不可解な" },
+      { "en": "obvious", "ja": "明白な（反対の方向）" }
+    ],
+    "faq": [
+      { "q": "mysterious は良い意味？悪い意味？", "a": "両方あります。「神秘的で人を引きつける（a mysterious smile なぞめいた笑み）」という良い意味にも、「不気味で不安な（a mysterious noise 不可解な物音）」という意味にも使えます。文脈で判断します。" },
+      { "q": "mysterious の名詞形は？", "a": "mystery（なぞ・神秘・推理小説）です。solve a mystery（なぞを解く）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "mysterious の意味として最も適切なものは？", "A": "なぞめいた、不可解な、神秘的な", "B": "明白な", "C": "退屈な", "D": "安全な", "correct": "A" },
+      { "q": "mysterious の名詞形は？", "A": "mystery（なぞ・神秘）", "B": "misery（悲惨）", "C": "mystic（神秘家）だけ", "D": "master（達人）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "mysticism",
+    "pron": "ˈmɪstɪsɪzəm",
+    "kana": "ミスティシズム",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "mystic(神秘の)+-ism",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "宗教・哲学"],
+    "meaning_main": "神秘主義（瞑想などを通して神や究極の真理と一体になろうとする信仰・思想）",
+    "description": "mysticism（ミスティシズム）は「神秘主義」という意味の名詞。理屈や言葉を超えて、瞑想や祈り・直観などを通じて、神や宇宙の究極の真理と直接ふれあい、一体になろうとする信仰や思想を指します。多くの宗教に見られる、神秘的な体験を重んじる考え方です。",
+    "keywords": ["mysticism 意味", "神秘主義 英語", "mystic 神秘家", "瞑想 信仰", "mysticism 使い方"],
+    "meanings": [
+      { "hinshi": "【名】神秘主義", "note": "瞑想などで神・究極の真理と一体になろうとする信仰・思想。不可算" }
+    ],
+    "usages": [
+      { "title": "① 神秘主義の思想", "desc": "神や究極の真理と直接ふれあおうとする信仰を指す使い方。", "example_en": "Mysticism seeks direct union with the divine.", "example_ja": "神秘主義は神との直接の一体化を求める。" },
+      { "title": "② 宗教・哲学の話題で", "desc": "各宗教の神秘的な伝統を指す使い方。", "example_en": "Many religions have traditions of mysticism.", "example_ja": "多くの宗教に神秘主義の伝統がある。" }
+    ],
+    "warn": ["mysticism（神秘主義）は「瞑想・直観などで神や究極の真理と直接ふれあおうとする思想・信仰」。mystic（神秘家・神秘の）、mystical（神秘的な）と関連。占いや超常現象（the occult）とは区別されることが多い、宗教・哲学の概念です。"],
+    "etym_note": "mystic（神秘の。ギリシャ語 mystikos 秘儀の、mystes 秘儀に入った者 から）に、主義・思想を表す -ism が付いた語。「神秘の思想＝神秘主義」の意味です。mystery と同語根です。",
+    "etym_chain": [
+      { "node": "mystikos", "sub": "秘儀の", "era": "ギリシャ語" },
+      { "node": "mystic", "sub": "神秘の", "era": "近代英語" },
+      { "node": "mysticism", "sub": "神秘主義", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "religious mysticism", "ja": "宗教的神秘主義" },
+      { "en": "the tradition of mysticism", "ja": "神秘主義の伝統" },
+      { "en": "Eastern mysticism", "ja": "東洋の神秘主義" },
+      { "en": "a form of mysticism", "ja": "神秘主義の一形態" },
+      { "en": "medieval mysticism", "ja": "中世の神秘主義" },
+      { "en": "practice mysticism", "ja": "神秘主義を実践する" }
+    ],
+    "related": [
+      { "en": "mystic", "ja": "神秘家・神秘の" },
+      { "en": "mystical", "ja": "神秘的な" },
+      { "en": "spirituality", "ja": "精神性・霊性" },
+      { "en": "meditation", "ja": "瞑想" }
+    ],
+    "faq": [
+      { "q": "mysticism（神秘主義）とは？", "a": "理屈や言葉を超えて、瞑想や祈り・直観を通じて神や宇宙の究極の真理と直接ふれあい、一体になろうとする信仰・思想です。多くの宗教に神秘主義の伝統があります。" },
+      { "q": "mysticism と mystery の違いは？", "a": "mystery は「なぞ・神秘（分からないこと）」全般、mysticism は「（神・真理と一体になろうとする）神秘主義という思想・信仰」です。mysticism は宗教・哲学の体系を指します。" }
+    ],
+    "quiz": [
+      { "q": "mysticism の意味として最も適切なものは？", "A": "神秘主義（神や究極の真理と一体になろうとする思想）", "B": "無神論", "C": "科学的方法", "D": "資本主義", "correct": "A" },
+      { "q": "mysticism と関連する語は？", "A": "mystic（神秘家・神秘の）", "B": "mistake（間違い）", "C": "mist（もや）", "D": "mister（〜さん）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "nasal",
+    "pron": "ˈneɪzl",
+    "kana": "ネイザル",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "ラテン語 nasus(鼻)",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "身体・音声"],
+    "meaning_main": "鼻の／鼻に関する／（声・音が）鼻にかかった・鼻音の",
+    "description": "nasal（ネイザル）は「鼻の／鼻に関する」という意味の形容詞。鼻そのものや、鼻から出す音・声を表します。声が「鼻にかかった（鼻声の）」ことや、言語学で「鼻音（m・n など鼻から息を出す音）」を指すのにも使われます。ラテン語 nasus（鼻）に由来する語です。",
+    "keywords": ["nasal 意味", "鼻の 英語", "鼻声 英語", "鼻音 英語", "nasal 使い方"],
+    "meanings": [
+      { "hinshi": "【形】鼻の、鼻に関する", "note": "the nasal passage（鼻腔）。nasal spray（点鼻薬）" },
+      { "hinshi": "【形】（声・音が）鼻にかかった、鼻音の", "note": "a nasal voice（鼻声）。nasal sounds（鼻音）" }
+    ],
+    "usages": [
+      { "title": "① 鼻の・鼻に関する", "desc": "鼻そのものや鼻の器官を表す使い方。", "example_en": "She used a nasal spray for her cold.", "example_ja": "彼女は風邪のために点鼻薬を使った。" },
+      { "title": "② 鼻にかかった声・鼻音", "desc": "鼻声や、言語学の鼻音を表す使い方。", "example_en": "He spoke in a nasal voice.", "example_ja": "彼は鼻にかかった声で話した。" }
+    ],
+    "warn": ["nasal は「鼻の・鼻に関する」。a nasal voice は「鼻声（鼻にかかった声）」。言語学では nasal sounds は「鼻音」（m, n, ng など鼻から息を出す音）。ラテン語 nasus（鼻）に由来し、nose と関連します。"],
+    "etym_note": "ラテン語 nasus（鼻）に、「〜の」を表す -al が付いた語（nasalis）。「鼻の」の意味です。nose（鼻）と同語源です。",
+    "etym_chain": [
+      { "node": "nasus", "sub": "鼻", "era": "ラテン語" },
+      { "node": "nasalis", "sub": "鼻の", "era": "中世ラテン語" },
+      { "node": "nasal", "sub": "鼻の", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a nasal voice", "ja": "鼻声" },
+      { "en": "nasal spray", "ja": "点鼻薬" },
+      { "en": "the nasal passage", "ja": "鼻腔（びくう）" },
+      { "en": "nasal congestion", "ja": "鼻づまり" },
+      { "en": "nasal sounds", "ja": "鼻音（m・nなど）" },
+      { "en": "a nasal tone", "ja": "鼻にかかった調子" }
+    ],
+    "related": [
+      { "en": "nose", "ja": "鼻" },
+      { "en": "nostril", "ja": "鼻の穴" },
+      { "en": "sinus", "ja": "副鼻腔" },
+      { "en": "oral", "ja": "口の（対になる語）" }
+    ],
+    "faq": [
+      { "q": "nasal はどんなときに使う？", "a": "「鼻の・鼻に関する」ことに使います。nasal spray（点鼻薬）、nasal congestion（鼻づまり）など。また「鼻にかかった声（a nasal voice）」や、言語学の「鼻音（m, n など）」にも使います。" },
+      { "q": "nasal sounds（鼻音）とは？", "a": "m・n・ng（日本語のナ行・マ行など）のように、鼻から息を出して作る音のことです。口だけでなく鼻に息を通す音を「鼻音」と呼びます。" }
+    ],
+    "quiz": [
+      { "q": "nasal の意味として最も適切なものは？", "A": "鼻の、鼻に関する／鼻にかかった", "B": "耳の", "C": "目の", "D": "口だけの", "correct": "A" },
+      { "q": "a nasal voice の意味は？", "A": "鼻声（鼻にかかった声）", "B": "大きな声", "C": "低い声", "D": "美しい声", "correct": "A" }
+    ]
+  },
+  {
+    "english": "nauseous",
+    "pron": "ˈnɔːʃəs",
+    "kana": "ノーシャス",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "ラテン語 nausea(船酔い)",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "健康・身体"],
+    "meaning_main": "吐き気がする／むかむかする／(人を)むかつかせる",
+    "description": "nauseous（ノーシャス）は「吐き気がする／むかむかする」という意味の形容詞。胃がむかむかして今にも吐きそうな状態を表します。feel nauseous（吐き気がする）の形でよく使われます。名詞は nausea（吐き気）です。乗り物酔いや体調不良などの場面で使う語です。",
+    "keywords": ["nauseous 意味", "吐き気 英語", "むかむか 英語", "nausea 吐き気", "nauseous 使い方"],
+    "meanings": [
+      { "hinshi": "【形】吐き気がする、むかむかする", "note": "今にも吐きそうな。feel nauseous（吐き気がする）" },
+      { "hinshi": "【形】（人を）むかつかせる、吐き気を催させる", "note": "a nauseous smell（むかつく匂い）" }
+    ],
+    "usages": [
+      { "title": "① 吐き気がする", "desc": "胃がむかむかして吐きそうな状態を表す使い方。", "example_en": "I felt nauseous on the boat.", "example_ja": "私は船の上で吐き気がした。" },
+      { "title": "② むかつかせる（匂いなど）", "desc": "吐き気を催させるものを表す使い方。", "example_en": "There was a nauseous smell in the room.", "example_ja": "部屋にはむかつく匂いがした。" }
+    ],
+    "warn": ["feel nauseous / feel sick で「吐き気がする」。名詞は nausea（吐き気）、動詞 nauseate（吐き気を催させる）。伝統的には nauseous は「吐き気を催させる（原因側）」、nauseated は「吐き気がする（感じる側）」と区別されましたが、現在は feel nauseous で「吐き気がする」も広く使われます。"],
+    "etym_note": "ラテン語 nauseosus（吐き気を催す、nausea 船酔い・吐き気 から。ギリシャ語 naus 船 から）に由来。「船酔いのような＝吐き気がする」の意味です。nautical（航海の）と同語根です。",
+    "etym_chain": [
+      { "node": "naus", "sub": "船", "era": "ギリシャ語" },
+      { "node": "nausea", "sub": "船酔い・吐き気", "era": "ラテン語" },
+      { "node": "nauseous", "sub": "吐き気がする", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "feel nauseous", "ja": "吐き気がする" },
+      { "en": "slightly nauseous", "ja": "少しむかむかする" },
+      { "en": "a nauseous feeling", "ja": "むかむかする感じ" },
+      { "en": "become nauseous", "ja": "吐き気がしてくる" },
+      { "en": "a nauseous smell", "ja": "むかつく匂い" },
+      { "en": "nauseous and dizzy", "ja": "吐き気がしてめまいがする" }
+    ],
+    "related": [
+      { "en": "nausea", "ja": "吐き気（名詞）" },
+      { "en": "nauseated", "ja": "吐き気がする" },
+      { "en": "queasy", "ja": "むかむかする" },
+      { "en": "sick", "ja": "気分が悪い・吐き気がする" }
+    ],
+    "faq": [
+      { "q": "feel nauseous とはどういう意味？", "a": "「吐き気がする・むかむかする」という意味です。乗り物酔いや体調不良で、今にも吐きそうな状態を表します。feel sick とほぼ同じ意味です。" },
+      { "q": "nauseous と nauseated の違いは？", "a": "伝統的には nauseous は「吐き気を催させる（原因）」、nauseated は「吐き気がする（感じる側）」と区別されましたが、現在は feel nauseous で「吐き気がする」も広く使われています。" }
+    ],
+    "quiz": [
+      { "q": "nauseous の意味として最も適切なものは？", "A": "吐き気がする、むかむかする", "B": "元気いっぱいの", "C": "空腹の", "D": "眠い", "correct": "A" },
+      { "q": "nauseous の名詞形は？", "A": "nausea（吐き気）", "B": "nature（自然）", "C": "navy（海軍）", "D": "nation（国）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "neighboring",
+    "pron": "ˈneɪbərɪŋ",
+    "kana": "ネイバリング",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "neighbor(隣人)+-ing",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出"],
+    "meaning_main": "隣接する／近隣の・隣の（国・地域など）",
+    "description": "neighboring（ネイバリング）は「隣接する／近隣の」という意味の形容詞。すぐ隣にある、または近くにある国・町・地域などを表します。neighboring countries（近隣諸国）のように使われます。イギリス式つづりは neighbouring です。neighbor（隣人）から来た語です。",
+    "keywords": ["neighboring 意味", "近隣 英語", "隣接 英語", "neighbor 隣人", "neighboring 使い方"],
+    "meanings": [
+      { "hinshi": "【形】隣接する、近隣の、隣の", "note": "すぐ隣・近くの。neighboring countries（近隣諸国）" }
+    ],
+    "usages": [
+      { "title": "① 隣接する・近隣の", "desc": "すぐ隣や近くの国・地域を表す使い方。", "example_en": "People came from neighboring towns.", "example_ja": "近隣の町々から人々が来た。" },
+      { "title": "② 隣の国・地域", "desc": "neighboring countries（近隣諸国）のように使う。", "example_en": "The two neighboring countries share a border.", "example_ja": "その隣り合う2国は国境を接している。" }
+    ],
+    "warn": ["イギリス式つづりは neighbouring（u が入る）。neighboring countries/towns/areas（近隣諸国・町・地域）が定番。neighbor（隣人・近所の人）+ -ing の作りです。nearby（近くの）とも近い意味です。"],
+    "etym_note": "neighbor（隣人。古英語 nēahgebūr＝nēah 近い + gebūr 住人 から）に -ing が付いた形容詞。「隣に住む＝隣接する・近隣の」の意味です。",
+    "etym_chain": [
+      { "node": "neahgebur", "sub": "近くの住人", "era": "古英語" },
+      { "node": "neighbor", "sub": "隣人", "era": "中英語" },
+      { "node": "neighboring", "sub": "隣接する・近隣の", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "neighboring countries", "ja": "近隣諸国" },
+      { "en": "neighboring towns", "ja": "近隣の町" },
+      { "en": "a neighboring country", "ja": "隣国" },
+      { "en": "neighboring areas", "ja": "近隣地域" },
+      { "en": "the neighboring house", "ja": "隣の家" },
+      { "en": "neighboring states", "ja": "隣接する州" }
+    ],
+    "related": [
+      { "en": "neighbor", "ja": "隣人・近所の人" },
+      { "en": "nearby", "ja": "近くの" },
+      { "en": "adjacent", "ja": "隣接した" },
+      { "en": "surrounding", "ja": "周囲の" }
+    ],
+    "faq": [
+      { "q": "neighboring と nearby の違いは？", "a": "どちらも「近くの」ですが、neighboring は「隣接する・すぐ隣の（国・地域）」というニュアンスが強く、nearby は「（距離が）近くにある」全般を指します。neighboring countries（隣り合う国々）のように使います。" },
+      { "q": "neighboring のイギリス式つづりは？", "a": "neighbouring（u が入る）です。アメリカ式は neighboring です。名詞 neighbor / neighbour も同様です。" }
+    ],
+    "quiz": [
+      { "q": "neighboring の意味として最も適切なものは？", "A": "隣接する、近隣の", "B": "遠く離れた", "C": "地下の", "D": "空の", "correct": "A" },
+      { "q": "neighboring countries の意味は？", "A": "近隣諸国（隣り合う国々）", "B": "外国の敵", "C": "遠い国", "D": "無人島", "correct": "A" }
+    ]
+  }
+]
