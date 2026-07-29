@@ -1,0 +1,992 @@
+[
+  {
+    "english": "learning",
+    "pron": "ˈlɜːrnɪŋ",
+    "kana": "ラーニング",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "learn(学ぶ)+-ing",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "頻出"],
+    "meaning_main": "学ぶこと／学習／（身につけた）学問・知識",
+    "description": "learning（ラーニング）は「学ぶこと／学習」という意味の名詞。知識や技能を身につける過程やその行為を指します。また「（学んで得た）学問・知識」を表すこともあります。machine learning（機械学習）、e-learning（オンライン学習）などの表現でも使われる語です。",
+    "keywords": ["learning 意味", "学習 英語", "学ぶこと 英語", "machine learning", "learning 使い方"],
+    "meanings": [
+      { "hinshi": "【名】学ぶこと、学習", "note": "知識・技能を身につける過程。language learning（言語学習）。不可算" },
+      { "hinshi": "【名】（身につけた）学問、知識", "note": "a person of great learning（博学な人）" }
+    ],
+    "usages": [
+      { "title": "① 学ぶこと・学習の過程", "desc": "知識や技能を身につける過程を指す使い方。", "example_en": "Learning a new language takes time.", "example_ja": "新しい言語を学ぶには時間がかかる。" },
+      { "title": "② 学問・知識", "desc": "学んで得た深い知識を表す使い方。", "example_en": "He was a man of great learning.", "example_ja": "彼は博学な人だった。" }
+    ],
+    "warn": ["machine learning（機械学習）、e-learning（オンライン学習）、a learning curve（習熟の過程・学習曲線）などの複合語で頻出。動詞は learn（学ぶ）。「学習障害」は a learning disability。"],
+    "etym_note": "learn（学ぶ。古英語 leornian）に -ing が付いた語。「学ぶこと＝学習」の意味です。lore（伝承・知識）と同語根です。",
+    "etym_chain": [
+      { "node": "leornian", "sub": "学ぶ", "era": "古英語" },
+      { "node": "learning", "sub": "学ぶこと", "era": "中英語" },
+      { "node": "learning", "sub": "学習・学問", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "machine learning", "ja": "機械学習" },
+      { "en": "a learning curve", "ja": "習熟の過程・学習曲線" },
+      { "en": "language learning", "ja": "言語学習" },
+      { "en": "lifelong learning", "ja": "生涯学習" },
+      { "en": "online learning", "ja": "オンライン学習" },
+      { "en": "a love of learning", "ja": "学ぶことへの愛" }
+    ],
+    "related": [
+      { "en": "learn", "ja": "学ぶ" },
+      { "en": "education", "ja": "教育" },
+      { "en": "study", "ja": "勉強・研究" },
+      { "en": "knowledge", "ja": "知識" }
+    ],
+    "faq": [
+      { "q": "a learning curve とは？", "a": "「習熟の過程・学習曲線」です。新しいことを覚えるのにかかる労力や上達の度合いを表します。a steep learning curve は「（最初は）習得が大変な過程」を意味します。" },
+      { "q": "machine learning とは？", "a": "「機械学習」です。コンピューターがデータから自動的にパターンを学び、判断や予測を改善していくAIの技術を指します。" }
+    ],
+    "quiz": [
+      { "q": "learning の意味として最も適切なものは？", "A": "学ぶこと、学習", "B": "教えること", "C": "忘れること", "D": "遊ぶこと", "correct": "A" },
+      { "q": "a learning curve の意味は？", "A": "習熟の過程・学習曲線", "B": "道路のカーブ", "C": "グラフの色", "D": "曲がった線だけ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "legato",
+    "pron": "lɪˈɡɑːtoʊ",
+    "kana": "レガート",
+    "hinshi": "副詞 / 形容詞",
+    "ld_pos": "adverb",
+    "ld_etym": "イタリア語 legato(つながれた)",
+    "ld_level": "1級",
+    "badges": ["中学生〜", "英検1級", "CEFR C1", "音楽"],
+    "meaning_main": "レガート（音を切れ目なくなめらかにつなげて演奏する）",
+    "description": "legato（レガート）は「レガート」という意味の音楽用語（副詞・形容詞）。音と音の間に切れ目を作らず、なめらかにつなげて演奏することを指します。反対は staccato（スタッカート＝音を短く切って弾く）。楽譜では音符をつなぐスラーで示されます。",
+    "keywords": ["legato 意味", "レガート 音楽", "なめらか 演奏", "staccato 反対", "legato 使い方"],
+    "meanings": [
+      { "hinshi": "【副/形】レガートで、なめらかに（音をつなげて）", "note": "音を切れ目なくつなげて演奏する。⇔ staccato" }
+    ],
+    "usages": [
+      { "title": "① なめらかに演奏する", "desc": "音を切らずつなげて弾くことを表す使い方。", "example_en": "Play this passage legato.", "example_ja": "この部分をレガートで（なめらかに）演奏しなさい。" },
+      { "title": "② 演奏法の指示として", "desc": "楽譜や指導での指示として使う。", "example_en": "The melody should be smooth and legato.", "example_ja": "その旋律はなめらかにレガートで弾くべきだ。" }
+    ],
+    "warn": ["legato（レガート＝音をなめらかにつなげる）⇔ staccato（スタッカート＝音を短く切る）。楽譜では音符をつなぐ弧（スラー）で示されます。イタリア語由来の音楽用語です。"],
+    "etym_note": "イタリア語 legato（つながれた、legare 結ぶ から。ラテン語 ligare 結ぶ）に由来。「（音が）つながれた＝なめらかにつなげて」の意味です。ligament（じん帯）と同語根です。",
+    "etym_chain": [
+      { "node": "ligare", "sub": "結ぶ", "era": "ラテン語" },
+      { "node": "legato", "sub": "つながれた", "era": "イタリア語" },
+      { "node": "legato", "sub": "レガート", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "play legato", "ja": "レガートで演奏する" },
+      { "en": "smooth and legato", "ja": "なめらかにレガートで" },
+      { "en": "a legato passage", "ja": "レガートの部分" },
+      { "en": "legato phrasing", "ja": "レガートの弾き方" },
+      { "en": "sing legato", "ja": "レガートで歌う" },
+      { "en": "legato and staccato", "ja": "レガートとスタッカート" }
+    ],
+    "related": [
+      { "en": "staccato", "ja": "スタッカート（反対）" },
+      { "en": "slur", "ja": "スラー（つなぎの弧）" },
+      { "en": "smooth", "ja": "なめらかな" },
+      { "en": "melody", "ja": "旋律" }
+    ],
+    "faq": [
+      { "q": "legato と staccato の違いは？", "a": "legato（レガート）は「音を切れ目なくなめらかにつなげて演奏する」、staccato（スタッカート）は「音を短く切って一つ一つはっきり演奏する」ことです。正反対の演奏法です。" },
+      { "q": "legato はどう指示される？", "a": "楽譜では、つなげたい音符の上（または下）に弧（スラー）を書いて示します。イタリア語で legato と書かれることもあります。" }
+    ],
+    "quiz": [
+      { "q": "legato の意味は？", "A": "音をなめらかにつなげて演奏する", "B": "音を短く切って演奏する", "C": "とても大きな音で", "D": "とても速く", "correct": "A" },
+      { "q": "legato の反対の演奏法は？", "A": "staccato（音を短く切る）", "B": "forte（強く）", "C": "piano（弱く）", "D": "tempo（速さ）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "legume",
+    "pron": "ˈleɡjuːm",
+    "kana": "レギューム",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 legumen(豆)",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "食べ物・植物"],
+    "meaning_main": "マメ科の植物／豆類（大豆・えんどう・レンズ豆など）",
+    "description": "legume（レギューム）は「マメ科の植物／豆類」という意味の名詞。さやの中に種（豆）が並んでできる植物や、その食用の豆を指します。大豆・えんどう豆・レンズ豆・ひよこ豆などが含まれます。たんぱく質が豊富で、土を肥やす働きでも知られます。",
+    "keywords": ["legume 意味", "豆類 英語", "マメ科 英語", "legume たんぱく質", "legume 使い方"],
+    "meanings": [
+      { "hinshi": "【名】マメ科の植物、豆類", "note": "さやに豆が入る植物・食用の豆。大豆・えんどうなど。可算名詞" }
+    ],
+    "usages": [
+      { "title": "① 食用の豆類", "desc": "大豆・えんどう・レンズ豆など食用の豆を指す使い方。", "example_en": "Legumes are a good source of protein.", "example_ja": "豆類はたんぱく質のよい供給源だ。" },
+      { "title": "② マメ科の植物", "desc": "土を肥やす働きなど、植物としての性質を表す使い方。", "example_en": "Legumes can enrich the soil with nitrogen.", "example_ja": "マメ科の植物は土を窒素で肥やすことができる。" }
+    ],
+    "warn": ["legume は「マメ科の植物・豆類」全般。bean（インゲンなどの豆）、pea（えんどう）、lentil（レンズ豆）、soybean（大豆）などが含まれます。マメ科は根に細菌を共生させ、空気中の窒素を取り込んで土を肥やします。"],
+    "etym_note": "ラテン語 legumen（豆。legere 集める・摘む から）に由来する古フランス語 legume から。「摘み集めるもの＝豆」の意味です。",
+    "etym_chain": [
+      { "node": "legumen", "sub": "豆", "era": "ラテン語" },
+      { "node": "legume", "sub": "豆", "era": "古フランス語" },
+      { "node": "legume", "sub": "マメ科植物・豆類", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "eat more legumes", "ja": "豆類をもっと食べる" },
+      { "en": "legumes and grains", "ja": "豆類と穀物" },
+      { "en": "a legume crop", "ja": "マメ科の作物" },
+      { "en": "protein-rich legumes", "ja": "たんぱく質豊富な豆類" },
+      { "en": "dried legumes", "ja": "乾燥豆" },
+      { "en": "legumes fix nitrogen", "ja": "マメ科は窒素を固定する" }
+    ],
+    "related": [
+      { "en": "bean", "ja": "豆（インゲンなど）" },
+      { "en": "pea", "ja": "えんどう豆" },
+      { "en": "lentil", "ja": "レンズ豆" },
+      { "en": "soybean", "ja": "大豆" }
+    ],
+    "faq": [
+      { "q": "legume にはどんな豆が含まれる？", "a": "大豆（soybean）、えんどう豆（pea）、レンズ豆（lentil）、ひよこ豆（chickpea）、インゲン豆（bean）など、さやに豆が入るマメ科の植物と食用の豆が含まれます。" },
+      { "q": "マメ科の植物が土を肥やすのはなぜ？", "a": "マメ科の植物は根に根粒菌という細菌を共生させ、空気中の窒素を植物が使える形に変える（窒素固定）ためです。そのため土が肥え、農業でも利用されます。" }
+    ],
+    "quiz": [
+      { "q": "legume の意味は？", "A": "マメ科の植物・豆類", "B": "果物", "C": "きのこ", "D": "海藻", "correct": "A" },
+      { "q": "legume に含まれないものは？", "A": "りんご", "B": "大豆", "C": "えんどう豆", "D": "レンズ豆", "correct": "A" }
+    ]
+  },
+  {
+    "english": "license",
+    "pron": "ˈlaɪsns",
+    "kana": "ライセンス",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 licere(許される)",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出"],
+    "meaning_main": "免許（証）／許可（証）／（〜の）認可を与える",
+    "description": "license（ライセンス）は「免許（証）／許可（証）」という意味の名詞。ある行為や仕事を公式に認める許可、またそれを示す証明書を指します。運転免許（driver's license）などが例です。動詞で「（公式に）認可する・許可を与える」の意味にもなります。",
+    "keywords": ["license 意味", "免許 英語", "許可 英語", "driver's license", "license 使い方"],
+    "meanings": [
+      { "hinshi": "【名】免許（証）、許可（証）", "note": "公式の許可・証明書。a driver's license（運転免許証）。可算" },
+      { "hinshi": "【動】（公式に）認可する、許可を与える", "note": "license a business（事業を認可する）" }
+    ],
+    "usages": [
+      { "title": "① 免許・許可証", "desc": "公式に認められた許可やその証明書を指す使い方。", "example_en": "You need a license to drive a car.", "example_ja": "車を運転するには免許が必要だ。" },
+      { "title": "② 認可する（動詞）", "desc": "公式に許可を与えることを表す使い方。", "example_en": "The company is licensed to sell insurance.", "example_ja": "その会社は保険を売る認可を受けている。" }
+    ],
+    "warn": ["アメリカ英語では名詞・動詞とも license。イギリス英語では名詞 licence／動詞 license と使い分けます。a driver's license（運転免許）、a business license（営業許可）。動詞は「認可する・許可を与える」。"],
+    "etym_note": "ラテン語 licentia（許可、licere 許される から）に由来する古フランス語 licence から。「許されること＝許可・免許」の意味です。",
+    "etym_chain": [
+      { "node": "licere", "sub": "許される", "era": "ラテン語" },
+      { "node": "licentia", "sub": "許可", "era": "ラテン語" },
+      { "node": "license", "sub": "免許・許可", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "a driver's license", "ja": "運転免許証" },
+      { "en": "a business license", "ja": "営業許可" },
+      { "en": "get a license", "ja": "免許を取る" },
+      { "en": "a license to sell", "ja": "販売許可" },
+      { "en": "a fishing license", "ja": "釣りの許可証" },
+      { "en": "renew a license", "ja": "免許を更新する" }
+    ],
+    "related": [
+      { "en": "permit", "ja": "許可（証）" },
+      { "en": "permission", "ja": "許可" },
+      { "en": "certificate", "ja": "証明書" },
+      { "en": "authorize", "ja": "権限を与える" }
+    ],
+    "faq": [
+      { "q": "license と licence の違いは？", "a": "つづりの違いです。アメリカ英語では名詞・動詞とも license。イギリス英語では名詞を licence、動詞を license と使い分けます（practice/practise と同じパターン）。" },
+      { "q": "license と permit の違いは？", "a": "どちらも「許可（証）」ですが、license は「（資格を示す）免許・許可」（運転免許など）、permit は「（特定の行為の）許可証」（駐車許可など）を指すことが多いです。" }
+    ],
+    "quiz": [
+      { "q": "license の意味として最も適切なものは？", "A": "免許（証）、許可（証）", "B": "禁止", "C": "罰金", "D": "地図", "correct": "A" },
+      { "q": "a driver's license の意味は？", "A": "運転免許証", "B": "運転手の名簿", "C": "車の説明書", "D": "駐車券", "correct": "A" }
+    ]
+  },
+  {
+    "english": "liturgy",
+    "pron": "ˈlɪtərdʒi",
+    "kana": "リタジー",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ギリシャ語 leitourgia(公の奉仕)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "宗教"],
+    "meaning_main": "礼拝の式次第／典礼（決まった形式の宗教儀式）",
+    "description": "liturgy（リタジー）は「典礼／礼拝の式次第」という意味の名詞。教会などで定められた順序・形式にそって行う、公式の宗教儀式を指します。祈り・聖歌・朗読などの決まった流れを含みます。キリスト教をはじめ、宗教の正式な礼拝の形式を表す語です。",
+    "keywords": ["liturgy 意味", "典礼 英語", "礼拝 式次第 英語", "liturgy 宗教", "liturgy 使い方"],
+    "meanings": [
+      { "hinshi": "【名】典礼、礼拝の式次第", "note": "定められた形式の宗教儀式。the liturgy of the Mass（ミサの典礼）。可算・不可算" }
+    ],
+    "usages": [
+      { "title": "① 定められた宗教儀式", "desc": "順序・形式にそって行う公式の礼拝を指す使い方。", "example_en": "The priest led the liturgy.", "example_ja": "司祭が典礼を導いた。" },
+      { "title": "② 礼拝の流れ・式次第", "desc": "祈り・聖歌などの決まった流れを表す使い方。", "example_en": "The liturgy includes prayers and hymns.", "example_ja": "その典礼には祈りと聖歌が含まれる。" }
+    ],
+    "warn": ["liturgy は「（定められた形式の）公式の礼拝・典礼」。形容詞は liturgical（典礼の）。個人的な祈り（prayer）や説教（sermon）とは違い、定型の儀式全体の流れを指します。キリスト教・ユダヤ教などで使われます。"],
+    "etym_note": "ギリシャ語 leitourgia（公の奉仕。leos 人々 + ergon 仕事 から）に由来。もとは「公共への奉仕」を意味し、のちに「（神への）公の礼拝＝典礼」の意味になりました。energy（ergon 仕事）と同語根です。",
+    "etym_chain": [
+      { "node": "leitourgia", "sub": "公の奉仕", "era": "ギリシャ語" },
+      { "node": "liturgia", "sub": "典礼", "era": "後期ラテン語" },
+      { "node": "liturgy", "sub": "典礼", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "the liturgy of the Mass", "ja": "ミサの典礼" },
+      { "en": "lead the liturgy", "ja": "典礼を導く" },
+      { "en": "a church liturgy", "ja": "教会の典礼" },
+      { "en": "the Sunday liturgy", "ja": "日曜の礼拝" },
+      { "en": "liturgical music", "ja": "典礼音楽" },
+      { "en": "follow the liturgy", "ja": "式次第に従う" }
+    ],
+    "related": [
+      { "en": "ritual", "ja": "儀式" },
+      { "en": "worship", "ja": "礼拝" },
+      { "en": "ceremony", "ja": "式典・儀式" },
+      { "en": "mass", "ja": "ミサ" }
+    ],
+    "faq": [
+      { "q": "liturgy とは何ですか？", "a": "教会などで定められた順序・形式にそって行う、公式の宗教儀式（典礼・礼拝の式次第）です。祈り・聖歌・朗読などの決まった流れを含みます。" },
+      { "q": "liturgy と prayer の違いは？", "a": "prayer は「（個人的な）祈り」、liturgy は「（定型の形式にそった）公式の礼拝・儀式全体」です。liturgy はその中に祈りや聖歌を含む、決まった流れを指します。" }
+    ],
+    "quiz": [
+      { "q": "liturgy の意味として最も適切なものは？", "A": "典礼・礼拝の式次第（定められた宗教儀式）", "B": "個人の日記", "C": "科学実験", "D": "スポーツの試合", "correct": "A" },
+      { "q": "liturgy の形容詞形は？", "A": "liturgical（典礼の）", "B": "literary（文学の）", "C": "literal（文字どおりの）", "D": "liberal（自由な）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "loquacity",
+    "pron": "loʊˈkwæsəti",
+    "kana": "ロークワシティ",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 loqui(話す)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "格式"],
+    "meaning_main": "多弁／おしゃべり・口数の多さ",
+    "description": "loquacity（ロークワシティ）は「多弁／おしゃべり」という意味の名詞。とてもよくしゃべること、口数が多いことを指す、ややかたい語です。形容詞 loquacious（おしゃべりな・多弁な）の名詞形で、しばしば「しゃべりすぎ」というニュアンスを含みます。",
+    "keywords": ["loquacity 意味", "多弁 英語", "おしゃべり 英語", "loquacious 形容詞", "loquacity 使い方"],
+    "meanings": [
+      { "hinshi": "【名】多弁、おしゃべり、口数の多さ", "note": "よくしゃべること。ややかたい語。不可算" }
+    ],
+    "usages": [
+      { "title": "① 口数の多さ・多弁", "desc": "とてもよくしゃべることを表す使い方。", "example_en": "His loquacity often tired his listeners.", "example_ja": "彼の多弁はしばしば聞き手を疲れさせた。" },
+      { "title": "② しゃべりすぎ", "desc": "話しすぎる傾向を表す使い方。", "example_en": "She was known for her loquacity.", "example_ja": "彼女はおしゃべりで知られていた。" }
+    ],
+    "warn": ["loquacity はかたい語で「多弁・おしゃべり」。形容詞は loquacious（おしゃべりな・多弁な）。しばしば「しゃべりすぎ」という否定的な含みがあります。反対は taciturnity（無口）、reticence（口数の少なさ）。"],
+    "etym_note": "ラテン語 loquacitas（多弁。loqui 話す から）に由来。「話すことの多さ＝多弁」の意味です。eloquent（雄弁な）、colloquial（口語の）と同語根です。",
+    "etym_chain": [
+      { "node": "loqui", "sub": "話す", "era": "ラテン語" },
+      { "node": "loquacitas", "sub": "多弁", "era": "ラテン語" },
+      { "node": "loquacity", "sub": "多弁", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "his loquacity", "ja": "彼の多弁" },
+      { "en": "known for loquacity", "ja": "おしゃべりで知られる" },
+      { "en": "endless loquacity", "ja": "とどまらないおしゃべり" },
+      { "en": "cheerful loquacity", "ja": "陽気なおしゃべり" },
+      { "en": "tiresome loquacity", "ja": "うんざりする多弁" },
+      { "en": "with great loquacity", "ja": "とても多弁に" }
+    ],
+    "related": [
+      { "en": "loquacious", "ja": "おしゃべりな（形容詞）" },
+      { "en": "talkativeness", "ja": "おしゃべりなこと" },
+      { "en": "verbosity", "ja": "冗長・言葉数の多さ" },
+      { "en": "reticence", "ja": "口数の少なさ（反対語）" }
+    ],
+    "faq": [
+      { "q": "loquacity の形容詞は？", "a": "loquacious（おしゃべりな・多弁な）です。a loquacious person（おしゃべりな人）のように使います。どちらもかたい語です。" },
+      { "q": "loquacity の反対語は？", "a": "reticence（口数の少なさ・寡黙）や taciturnity（無口）です。loquacity は「多弁・おしゃべり」を表します。" }
+    ],
+    "quiz": [
+      { "q": "loquacity の意味として最も適切なものは？", "A": "多弁、おしゃべり", "B": "無口", "C": "正直さ", "D": "勇気", "correct": "A" },
+      { "q": "loquacity の形容詞形は？", "A": "loquacious（おしゃべりな）", "B": "local（地元の）", "C": "logical（論理的な）", "D": "loyal（忠実な）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "lozenge",
+    "pron": "ˈlɑːzɪndʒ",
+    "kana": "ロゼンジ",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "古フランス語 losenge(ひし形)",
+    "ld_level": "1級",
+    "badges": ["中学生〜", "英検1級", "CEFR C1", "日常・図形"],
+    "meaning_main": "（のど）あめ・トローチ／ひし形（の図形）",
+    "description": "lozenge（ロゼンジ）は「（のど）あめ・トローチ」という意味の名詞。のどの痛みやせきをやわらげるために、口の中でゆっくりなめる薬用のあめを指します。もとは「ひし形」の意味で、あめがひし形をしていたことに由来します。図形の「ひし形」も指します。",
+    "keywords": ["lozenge 意味", "のどあめ 英語", "トローチ 英語", "ひし形 英語", "lozenge 使い方"],
+    "meanings": [
+      { "hinshi": "【名】（のど）あめ、トローチ", "note": "口でなめる薬用のあめ。a throat lozenge（のどあめ）。可算" },
+      { "hinshi": "【名】ひし形（の図形）", "note": "紋章や図形で使うひし形" }
+    ],
+    "usages": [
+      { "title": "① のどあめ・トローチ", "desc": "のどの痛みをやわらげるなめる薬を指す使い方。", "example_en": "She sucked a throat lozenge for her cough.", "example_ja": "彼女はせきのためにのどあめをなめた。" },
+      { "title": "② ひし形", "desc": "図形や紋章のひし形を指す使い方。", "example_en": "The pattern was made of colorful lozenges.", "example_ja": "その模様はカラフルなひし形でできていた。" }
+    ],
+    "warn": ["a throat lozenge / cough lozenge は「のどあめ・トローチ」で、口の中でゆっくりなめる薬。もとは「ひし形」の意味で、あめの形に由来します。かむのではなく、なめて溶かして使います。"],
+    "etym_note": "古フランス語 losenge（ひし形）に由来。もとは「ひし形」を意味し、薬用のあめがひし形をしていたことから「のどあめ・トローチ」の意味も生まれました。",
+    "etym_chain": [
+      { "node": "losenge", "sub": "ひし形", "era": "古フランス語" },
+      { "node": "lozenge", "sub": "ひし形・のどあめ", "era": "中英語" },
+      { "node": "lozenge", "sub": "のどあめ・ひし形", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a throat lozenge", "ja": "のどあめ" },
+      { "en": "a cough lozenge", "ja": "せき止めトローチ" },
+      { "en": "suck a lozenge", "ja": "のどあめをなめる" },
+      { "en": "a menthol lozenge", "ja": "メントールののどあめ" },
+      { "en": "a lozenge shape", "ja": "ひし形" },
+      { "en": "a box of lozenges", "ja": "のどあめの箱" }
+    ],
+    "related": [
+      { "en": "candy", "ja": "あめ・キャンディ" },
+      { "en": "tablet", "ja": "錠剤" },
+      { "en": "diamond", "ja": "ひし形・ダイヤ" },
+      { "en": "rhombus", "ja": "ひし形（数学）" }
+    ],
+    "faq": [
+      { "q": "lozenge とは？", "a": "のどの痛みやせきをやわらげるために、口の中でゆっくりなめる薬用のあめ（トローチ・のどあめ）です。もとは『ひし形』の意味で、あめがひし形だったことに由来します。" },
+      { "q": "lozenge はかむの？なめるの？", "a": "なめて溶かして使います。かまずに口の中でゆっくり溶かすことで、のどに成分がとどまり効果を発揮します。" }
+    ],
+    "quiz": [
+      { "q": "lozenge の意味として最も適切なものは？", "A": "（のど）あめ・トローチ／ひし形", "B": "包帯", "C": "注射器", "D": "体温計", "correct": "A" },
+      { "q": "a throat lozenge の意味は？", "A": "のどあめ", "B": "うがい薬", "C": "マスク", "D": "はみがき粉", "correct": "A" }
+    ]
+  },
+  {
+    "english": "luzon",
+    "pron": "luːˈzɑːn",
+    "kana": "ルソン",
+    "hinshi": "名詞 (固有名詞)",
+    "ld_pos": "proper noun",
+    "ld_etym": "地名（フィリピン最大の島）",
+    "ld_level": "1級",
+    "badges": ["中学生〜", "固有名詞", "地名", "地理"],
+    "meaning_main": "ルソン島（フィリピン最大・最北の島）",
+    "description": "Luzon（ルソン）は、フィリピンで最も大きく、北部に位置する島です。首都マニラがあり、政治・経済の中心地です。人口も最も多く、フィリピンの中心的な島として知られます。かつては日本との交易でも「ルソン」の名で知られていました。",
+    "keywords": ["luzon 意味", "ルソン島 英語", "フィリピン 島", "マニラ ルソン", "luzon 場所"],
+    "meanings": [
+      { "hinshi": "【名】ルソン島", "note": "フィリピン最大・最北の島。首都マニラがある。固有名詞" }
+    ],
+    "usages": [
+      { "title": "① フィリピン最大の島", "desc": "フィリピン北部の最大の島を指す使い方。", "example_en": "Luzon is the largest island in the Philippines.", "example_ja": "ルソン島はフィリピンで最も大きい島だ。" },
+      { "title": "② 首都・中心地として", "desc": "マニラがある政治・経済の中心として語られる。", "example_en": "Manila, the capital, is located on Luzon.", "example_ja": "首都マニラはルソン島にある。" }
+    ],
+    "warn": ["固有名詞なので文中では大文字 Luzon（このページの見出し語はサイト規則で小文字）。フィリピンは大きく Luzon（ルソン、北部）、Visayas（ビサヤ、中部）、Mindanao（ミンダナオ、南部）の3地域に分かれます。首都マニラはルソン島にあります。"],
+    "etym_note": "フィリピンの地名で、語源には諸説あります（現地語で臼を意味する語などに由来するとも）。フィリピン最大の島の名として使われています。",
+    "etym_chain": [
+      { "node": "Luzon", "sub": "ルソン島", "era": "地名" },
+      { "node": "Luzon", "sub": "ルソン島", "era": "近代英語" },
+      { "node": "Luzon", "sub": "ルソン島", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the island of Luzon", "ja": "ルソン島" },
+      { "en": "northern Luzon", "ja": "ルソン島北部" },
+      { "en": "in Luzon", "ja": "ルソン島で" },
+      { "en": "Luzon and Mindanao", "ja": "ルソン島とミンダナオ島" },
+      { "en": "central Luzon", "ja": "ルソン島中部" },
+      { "en": "the largest island, Luzon", "ja": "最大の島ルソン" }
+    ],
+    "related": [
+      { "en": "philippines", "ja": "フィリピン" },
+      { "en": "manila", "ja": "マニラ" },
+      { "en": "island", "ja": "島" },
+      { "en": "mindanao", "ja": "ミンダナオ島" }
+    ],
+    "faq": [
+      { "q": "Luzon（ルソン島）はどこにある？", "a": "フィリピンの北部にある、同国最大の島です。首都マニラがあり、政治・経済の中心地です。人口も最も多い島です。" },
+      { "q": "フィリピンの主な島は？", "a": "大きく Luzon（ルソン、北部）、Visayas（ビサヤ諸島、中部）、Mindanao（ミンダナオ、南部）の3つの地域に分かれます。ルソン島が最大です。" }
+    ],
+    "quiz": [
+      { "q": "Luzon（ルソン島）はどの国の島ですか？", "A": "フィリピン", "B": "インドネシア", "C": "タイ", "D": "ベトナム", "correct": "A" },
+      { "q": "ルソン島にあるフィリピンの首都は？", "A": "マニラ", "B": "ジャカルタ", "C": "バンコク", "D": "ハノイ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "machinery",
+    "pron": "məˈʃiːnəri",
+    "kana": "マシーナリー",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "machine(機械)+-ry",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出"],
+    "meaning_main": "機械類（全体）／（組織などの）仕組み・機構",
+    "description": "machinery（マシーナリー）は「機械類」という意味の名詞。機械をひとまとめにした総称で、工場の設備などを指します。不可算名詞で、1台の機械は a machine と数えます。比喩で「（組織・制度の）仕組み・機構」を表すこともある語です。",
+    "keywords": ["machinery 意味", "機械類 英語", "machine 違い", "machinery 仕組み", "machinery 使い方"],
+    "meanings": [
+      { "hinshi": "【名】機械類（全体）", "note": "機械の総称。heavy machinery（重機）。不可算名詞" },
+      { "hinshi": "【名】（組織などの）仕組み、機構", "note": "the machinery of government（政府の機構）" }
+    ],
+    "usages": [
+      { "title": "① 機械類の総称", "desc": "機械をひとまとめにした総称を表す使い方。", "example_en": "The factory installed new machinery.", "example_ja": "その工場は新しい機械を導入した。" },
+      { "title": "② 組織の仕組み（比喩）", "desc": "the machinery of ~ で「〜の仕組み・機構」を表す使い方。", "example_en": "the machinery of the state（国家の機構）", "example_ja": "国家の機構" }
+    ],
+    "warn": ["machinery は不可算名詞。1台なら a machine、数えるときは a piece of machinery。heavy machinery は「重機」。比喩で「（組織・制度の）仕組み・機構」も表します。machine（機械・1台）と使い分けます。"],
+    "etym_note": "machine（機械。ギリシャ語 mekhane 仕掛け から）に、集合を表す -ry が付いた語。「機械の集まり＝機械類」の意味です。mechanic, mechanism と同語根です。",
+    "etym_chain": [
+      { "node": "mekhane", "sub": "仕掛け", "era": "ギリシャ語" },
+      { "node": "machine", "sub": "機械", "era": "近代英語" },
+      { "node": "machinery", "sub": "機械類", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "heavy machinery", "ja": "重機" },
+      { "en": "farm machinery", "ja": "農業機械" },
+      { "en": "a piece of machinery", "ja": "機械1台" },
+      { "en": "operate machinery", "ja": "機械を操作する" },
+      { "en": "industrial machinery", "ja": "産業機械" },
+      { "en": "the machinery of government", "ja": "政府の機構" }
+    ],
+    "related": [
+      { "en": "machine", "ja": "機械（1台）" },
+      { "en": "equipment", "ja": "設備・機器" },
+      { "en": "apparatus", "ja": "装置・器具" },
+      { "en": "mechanism", "ja": "仕組み・機構" }
+    ],
+    "faq": [
+      { "q": "machinery と machine の違いは？", "a": "machine は「機械（1台、可算）」、machinery は「機械類（総称、不可算）」です。1台は a machine、数えるときは a piece of machinery とします。" },
+      { "q": "machinery は数えられる？", "a": "不可算名詞なので、a machinery とは言いません。「機械1台」は a machine または a piece of machinery、「たくさんの機械」は a lot of machinery とします。" }
+    ],
+    "quiz": [
+      { "q": "machinery の意味として最も適切なものは？", "A": "機械類（機械の総称）", "B": "1台の機械だけ", "C": "手工具", "D": "電池", "correct": "A" },
+      { "q": "machinery の数え方として正しいものは？", "A": "a piece of machinery", "B": "a machinery", "C": "two machineries", "D": "many machinery（可算として）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "mahogany",
+    "pron": "məˈhɑːɡəni",
+    "kana": "マホガニー",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "中南米の言語に由来",
+    "ld_level": "1級",
+    "badges": ["中学生〜", "英検1級", "CEFR C1", "素材・木材"],
+    "meaning_main": "マホガニー（赤褐色の高級木材・その木）／赤茶色",
+    "description": "mahogany（マホガニー）は「マホガニー」という意味の名詞。熱帯地方に育つ木からとれる、赤褐色でつやのある高級な木材です。かたく丈夫で美しいため、高級家具や楽器（ギターなど）に使われます。その色から「赤茶色」を表すこともあります。",
+    "keywords": ["mahogany 意味", "マホガニー 英語", "高級木材 英語", "赤褐色 英語", "mahogany 使い方"],
+    "meanings": [
+      { "hinshi": "【名】マホガニー（赤褐色の高級木材・その木）", "note": "熱帯産の高級木材。家具・楽器に使う。不可算・可算" },
+      { "hinshi": "【名/形】赤茶色（の）", "note": "マホガニーのような赤褐色" }
+    ],
+    "usages": [
+      { "title": "① 高級木材のマホガニー", "desc": "赤褐色でつやのある高級木材を指す使い方。", "example_en": "The desk was made of polished mahogany.", "example_ja": "その机は磨かれたマホガニーでできていた。" },
+      { "title": "② 赤茶色", "desc": "マホガニーのような赤褐色を表す使い方。", "example_en": "She dyed her hair a rich mahogany.", "example_ja": "彼女は髪を深い赤茶色に染めた。" }
+    ],
+    "warn": ["mahogany は「赤褐色でつやのある高級木材」。かたく丈夫で美しく、高級家具やギターなどの楽器に使われます。乱伐で希少になり、保護対象の樹種もあります。色としては「赤茶色」を表すこともあります。"],
+    "etym_note": "17世紀にカリブ海・中南米の先住民の言語に由来するとされる語で、正確な由来は不明です。熱帯産の高級木材の名として英語に入りました。",
+    "etym_chain": [
+      { "node": "mahogany", "sub": "マホガニー", "era": "17世紀（中南米由来）" },
+      { "node": "mahogany", "sub": "マホガニー", "era": "近代英語" },
+      { "node": "mahogany", "sub": "マホガニー・赤茶色", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "polished mahogany", "ja": "磨かれたマホガニー" },
+      { "en": "a mahogany table", "ja": "マホガニーのテーブル" },
+      { "en": "dark mahogany", "ja": "濃いマホガニー（赤褐色）" },
+      { "en": "solid mahogany", "ja": "無垢のマホガニー" },
+      { "en": "a mahogany finish", "ja": "マホガニー仕上げ" },
+      { "en": "made of mahogany", "ja": "マホガニーでできた" }
+    ],
+    "related": [
+      { "en": "wood", "ja": "木材" },
+      { "en": "hardwood", "ja": "硬材" },
+      { "en": "oak", "ja": "オーク・ナラ" },
+      { "en": "teak", "ja": "チーク" }
+    ],
+    "faq": [
+      { "q": "mahogany（マホガニー）とはどんな木材？", "a": "熱帯地方に育つ木からとれる、赤褐色でつやのある高級木材です。かたく丈夫で美しいため、高級家具やギターなどの楽器に使われます。" },
+      { "q": "mahogany は色も表す？", "a": "はい。マホガニー材のような「赤茶色（赤褐色）」を表すこともあります。髪や塗料の色などで a mahogany color（マホガニー色）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "mahogany の意味として最も適切なものは？", "A": "赤褐色の高級木材（マホガニー）", "B": "軽い金属", "C": "透明なガラス", "D": "やわらかい布", "correct": "A" },
+      { "q": "mahogany がよく使われるものは？", "A": "高級家具や楽器", "B": "食品の包装", "C": "使い捨ての皿", "D": "電池", "correct": "A" }
+    ]
+  },
+  {
+    "english": "mallard",
+    "pron": "ˈmælərd",
+    "kana": "マラード",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "古フランス語 malart(野生のカモ)",
+    "ld_level": "1級",
+    "badges": ["中学生〜", "英検1級", "CEFR C1", "動物・鳥"],
+    "meaning_main": "マガモ（緑色の頭を持つ野生のカモ）",
+    "description": "mallard（マラード）は「マガモ」という意味の名詞。オスは光沢のある緑色の頭を持つ、川や池に広く見られる野生のカモです。家畜のアヒルの原種でもあります。公園の池などでもよく見かける、身近な水鳥として知られます。",
+    "keywords": ["mallard 意味", "マガモ 英語", "カモ 英語", "duck 違い", "mallard 使い方"],
+    "meanings": [
+      { "hinshi": "【名】マガモ", "note": "オスは緑色の頭を持つ野生のカモ。アヒルの原種。可算名詞" }
+    ],
+    "usages": [
+      { "title": "① 野生のカモ（マガモ）", "desc": "緑色の頭を持つ野生のカモを指す使い方。", "example_en": "A mallard swam across the pond.", "example_ja": "マガモが池を泳いで渡った。" },
+      { "title": "② 水辺の風景で", "desc": "川や池の水鳥として登場する使い方。", "example_en": "Mallards are common in city parks.", "example_ja": "マガモは都市の公園によく見られる。" }
+    ],
+    "warn": ["mallard（マガモ）は、家畜のアヒル（domestic duck）の原種。オスは光沢のある緑色の頭、メスは地味な茶色。duck（カモ・アヒル全般）の中の一種です。川・池に広く見られます。"],
+    "etym_note": "古フランス語 malart / mallart（野生の雄ガモ）に由来。「（野生の）カモ」を意味する語で、中英語を経て英語に定着しました。",
+    "etym_chain": [
+      { "node": "malart", "sub": "野生のカモ", "era": "古フランス語" },
+      { "node": "mallard", "sub": "マガモ", "era": "中英語" },
+      { "node": "mallard", "sub": "マガモ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a male mallard", "ja": "マガモのオス" },
+      { "en": "a mallard duck", "ja": "マガモ" },
+      { "en": "mallards on the pond", "ja": "池のマガモ" },
+      { "en": "a pair of mallards", "ja": "つがいのマガモ" },
+      { "en": "a wild mallard", "ja": "野生のマガモ" },
+      { "en": "the green head of a mallard", "ja": "マガモの緑の頭" }
+    ],
+    "related": [
+      { "en": "duck", "ja": "カモ・アヒル" },
+      { "en": "drake", "ja": "雄のカモ・アヒル" },
+      { "en": "waterfowl", "ja": "水鳥" },
+      { "en": "pond", "ja": "池" }
+    ],
+    "faq": [
+      { "q": "mallard（マガモ）とはどんな鳥？", "a": "オスは光沢のある緑色の頭を持つ、川や池に広く見られる野生のカモです。家畜のアヒルの原種でもあり、公園の池などでもよく見かけます。" },
+      { "q": "mallard と duck の違いは？", "a": "duck は「カモ・アヒル全般」を指す総称、mallard は「マガモ（緑の頭を持つ特定の種）」です。マガモは duck の一種です。" }
+    ],
+    "quiz": [
+      { "q": "mallard の意味は？", "A": "マガモ（緑色の頭を持つ野生のカモ）", "B": "ワシ", "C": "ハト", "D": "スズメ", "correct": "A" },
+      { "q": "マガモ（mallard）のオスの特徴は？", "A": "光沢のある緑色の頭", "B": "真っ白な体", "C": "長い首だけ", "D": "赤い羽根", "correct": "A" }
+    ]
+  },
+  {
+    "english": "malnourished",
+    "pron": "ˌmælˈnɜːrɪʃt",
+    "kana": "マルナリッシュト",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "mal-(悪い)+nourished(栄養を与えられた)",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "健康・社会"],
+    "meaning_main": "栄養不良の／栄養が足りていない・栄養失調の",
+    "description": "malnourished（マルナリッシュト）は「栄養不良の／栄養失調の」という意味の形容詞。食べ物や栄養が十分でなく、健康な状態を保てていないことを表します。飢餓や貧困、偏った食生活などが原因で起こります。mal-（悪い）+ nourished（栄養を与えられた）でできた語です。",
+    "keywords": ["malnourished 意味", "栄養不良 英語", "栄養失調 英語", "nourish 栄養を与える", "malnourished 使い方"],
+    "meanings": [
+      { "hinshi": "【形】栄養不良の、栄養が足りていない、栄養失調の", "note": "十分な栄養がとれていない。malnourished children（栄養不良の子どもたち）" }
+    ],
+    "usages": [
+      { "title": "① 栄養が足りていない", "desc": "食べ物・栄養が不十分で健康を保てない状態を表す使い方。", "example_en": "Many children in the region are malnourished.", "example_ja": "その地域では多くの子どもが栄養不良だ。" },
+      { "title": "② 飢餓・貧困の文脈で", "desc": "栄養失調の深刻さを表す使い方。", "example_en": "The refugees were weak and malnourished.", "example_ja": "難民たちは衰弱し栄養失調だった。" }
+    ],
+    "warn": ["mal-（悪い・不十分）+ nourished（栄養を与えられた）で「栄養が足りていない」。名詞は malnutrition（栄養失調）。動詞 nourish は「栄養を与える・育てる」。栄養の「量」だけでなく「バランスの悪さ」による栄養不良も含みます。"],
+    "etym_note": "mal-（悪い、不十分。ラテン語 malus 悪い から）+ nourished（栄養を与えられた。nourish、ラテン語 nutrire 養う から）から。「（栄養を）悪く与えられた＝栄養不良の」の意味です。nutrition, nurse と同語根です。",
+    "etym_chain": [
+      { "node": "nutrire", "sub": "養う", "era": "ラテン語" },
+      { "node": "nourish", "sub": "栄養を与える", "era": "中英語" },
+      { "node": "malnourished", "sub": "栄養不良の", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "malnourished children", "ja": "栄養不良の子どもたち" },
+      { "en": "severely malnourished", "ja": "重度の栄養失調の" },
+      { "en": "weak and malnourished", "ja": "衰弱し栄養失調で" },
+      { "en": "become malnourished", "ja": "栄養不良になる" },
+      { "en": "chronically malnourished", "ja": "慢性的に栄養不良で" },
+      { "en": "malnourished and underweight", "ja": "栄養不良で低体重の" }
+    ],
+    "related": [
+      { "en": "malnutrition", "ja": "栄養失調（名詞）" },
+      { "en": "nourish", "ja": "栄養を与える" },
+      { "en": "nutrition", "ja": "栄養" },
+      { "en": "well-fed", "ja": "十分に栄養をとった（反対の方向）" }
+    ],
+    "faq": [
+      { "q": "malnourished の名詞形は？", "a": "malnutrition（栄養失調・栄養不良）です。suffer from malnutrition（栄養失調に苦しむ）のように使います。" },
+      { "q": "malnourished は食べ物が少ないだけ？", "a": "いいえ。食べ物の『量』が足りない場合だけでなく、『栄養バランスが悪い』ことによる栄養不良も含みます。必要な栄養素がとれていない状態全般を指します。" }
+    ],
+    "quiz": [
+      { "q": "malnourished の意味として最も適切なものは？", "A": "栄養不良の、栄養が足りていない", "B": "健康で丈夫な", "C": "食べすぎの", "D": "背が高い", "correct": "A" },
+      { "q": "malnourished の接頭辞 mal- が表す意味は？", "A": "悪い・不十分な", "B": "とても良い", "C": "多い", "D": "速い", "correct": "A" }
+    ]
+  },
+  {
+    "english": "maneuver",
+    "pron": "məˈnuːvər",
+    "kana": "マヌーバー",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 manu operari(手で働く)",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "頻出"],
+    "meaning_main": "巧みな動き・操作／（軍の）作戦行動／策略／巧みに操る",
+    "description": "maneuver（マヌーバー）は「巧みな動き・操作」という意味の名詞。乗り物などを慎重・巧みに動かすことや、目的のための巧妙な策略を指します。軍事では「作戦行動・演習」も表します。動詞で「巧みに操る・動かす」の意味にもなります。イギリス式は manoeuvre。",
+    "keywords": ["maneuver 意味", "操作 英語", "策略 英語", "軍事 作戦", "maneuver 使い方"],
+    "meanings": [
+      { "hinshi": "【名】巧みな動き、操作", "note": "慎重・巧みに動かすこと。a difficult maneuver（難しい操作）。可算" },
+      { "hinshi": "【名】（軍の）作戦行動、演習／策略", "note": "military maneuvers（軍事演習）" },
+      { "hinshi": "【動】巧みに操る、動かす", "note": "maneuver a car into a space（車を巧みに駐車する）" }
+    ],
+    "usages": [
+      { "title": "① 巧みな操作・動き", "desc": "乗り物などを慎重・巧みに動かすことを表す使い方。", "example_en": "Parking in a tight space requires careful maneuvering.", "example_ja": "狭い場所への駐車は慎重な操作が必要だ。" },
+      { "title": "② 策略・作戦", "desc": "目的のための巧妙な策略や軍の作戦を表す使い方。", "example_en": "It was a clever political maneuver.", "example_ja": "それは巧妙な政治的策略だった。" }
+    ],
+    "warn": ["アメリカ式つづり maneuver、イギリス式 manoeuvre。動詞・名詞とも同形。「（乗り物の）巧みな操作」「（目的のための）策略」「（軍の）作戦・演習」の意味があります。room to maneuver は「（動きの）余地・自由」。"],
+    "etym_note": "ラテン語 manu operari（手で働く。manus 手 + operari 働く）に由来するフランス語 manœuvre から。「手で操作すること＝巧みな動き・操作」の意味です。manual, operate と同語根です。",
+    "etym_chain": [
+      { "node": "manu operari", "sub": "手で働く", "era": "ラテン語" },
+      { "node": "manœuvre", "sub": "操作・策略", "era": "フランス語" },
+      { "node": "maneuver", "sub": "巧みな動き・操作", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a difficult maneuver", "ja": "難しい操作" },
+      { "en": "military maneuvers", "ja": "軍事演習" },
+      { "en": "a clever maneuver", "ja": "巧妙な策略" },
+      { "en": "room to maneuver", "ja": "動きの余地・自由" },
+      { "en": "maneuver into position", "ja": "巧みに位置につける" },
+      { "en": "an evasive maneuver", "ja": "回避行動" }
+    ],
+    "related": [
+      { "en": "manipulate", "ja": "巧みに操る" },
+      { "en": "tactic", "ja": "戦術・策" },
+      { "en": "operate", "ja": "操作する" },
+      { "en": "strategy", "ja": "戦略" }
+    ],
+    "faq": [
+      { "q": "maneuver の主な意味は？", "a": "①「（乗り物などの）巧みな動き・操作」、②「（目的のための）巧妙な策略」、③「（軍の）作戦行動・演習」です。動詞で「巧みに操る・動かす」の意味にもなります。" },
+      { "q": "room to maneuver とは？", "a": "「（動きや行動の）余地・自由・融通のきく余地」という意味です。政治や交渉で「まだ動ける余地がある」ことを表すのにも使います。" }
+    ],
+    "quiz": [
+      { "q": "maneuver の意味として最も適切なものは？", "A": "巧みな動き・操作／策略／作戦行動", "B": "完全な停止", "C": "偶然の出来事", "D": "大きな音", "correct": "A" },
+      { "q": "military maneuvers の意味は？", "A": "軍事演習・作戦行動", "B": "軍の食事", "C": "軍の制服", "D": "軍の音楽", "correct": "A" }
+    ]
+  },
+  {
+    "english": "marginalized",
+    "pron": "ˈmɑːrdʒɪnəlaɪzd",
+    "kana": "マージナライズド",
+    "hinshi": "形容詞 / 動詞",
+    "ld_pos": "adjective",
+    "ld_etym": "margin(周辺)+-al+-ize+-ed",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "社会"],
+    "meaning_main": "（社会の）周辺に追いやられた／疎外された・軽んじられた",
+    "description": "marginalized（マージナライズド）は「（社会の）周辺に追いやられた／疎外された」という意味の形容詞。ある集団や人が、社会の中心から締め出され、力や機会を奪われて軽んじられている状態を表します。差別・貧困・少数派などの文脈でよく使われる語です。イギリス式は marginalised。",
+    "keywords": ["marginalized 意味", "疎外 英語", "周辺に追いやる 英語", "margin 周辺", "marginalized 使い方"],
+    "meanings": [
+      { "hinshi": "【形】（社会の）周辺に追いやられた、疎外された、軽んじられた", "note": "中心から締め出された。marginalized groups（社会的に疎外された集団）" }
+    ],
+    "usages": [
+      { "title": "① 社会的に疎外された", "desc": "社会の中心から締め出され軽んじられた状態を表す使い方。", "example_en": "The policy helps marginalized communities.", "example_ja": "その政策は社会的に疎外された地域社会を助ける。" },
+      { "title": "② 力・機会を奪われた", "desc": "差別や貧困で機会を奪われた人々を表す使い方。", "example_en": "Marginalized groups often lack access to education.", "example_ja": "疎外された集団は教育を受ける機会に恵まれないことが多い。" }
+    ],
+    "warn": ["動詞 marginalize は「（社会の）周辺に追いやる・軽んじる」。margin（周辺・へり）から。marginalized groups/communities（社会的に疎外された集団・地域）が定番。差別・貧困・少数派の文脈でよく使われます。"],
+    "etym_note": "margin（周辺、へり。ラテン語 margo 縁 から）に、-al（形容詞化）+ -ize（動詞化）+ -ed が付いた語。「（社会の）縁に追いやられた＝疎外された」の意味です。",
+    "etym_chain": [
+      { "node": "margo", "sub": "縁・へり", "era": "ラテン語" },
+      { "node": "marginal", "sub": "周辺の", "era": "近代英語" },
+      { "node": "marginalized", "sub": "周辺に追いやられた", "era": "20世紀 英語" }
+    ],
+    "phrases": [
+      { "en": "marginalized groups", "ja": "社会的に疎外された集団" },
+      { "en": "marginalized communities", "ja": "疎外された地域社会" },
+      { "en": "marginalized people", "ja": "疎外された人々" },
+      { "en": "feel marginalized", "ja": "疎外されていると感じる" },
+      { "en": "the marginalized", "ja": "疎外された人々（全体）" },
+      { "en": "socially marginalized", "ja": "社会的に疎外された" }
+    ],
+    "related": [
+      { "en": "marginalize", "ja": "周辺に追いやる（動詞）" },
+      { "en": "exclude", "ja": "締め出す・除外する" },
+      { "en": "disadvantaged", "ja": "恵まれない・不利な" },
+      { "en": "oppressed", "ja": "抑圧された" }
+    ],
+    "faq": [
+      { "q": "marginalized とはどういう意味？", "a": "「（社会の）周辺に追いやられ、力や機会を奪われて軽んじられている」という意味です。margin（周辺）から来ており、社会の中心から締め出された状態を表します。" },
+      { "q": "marginalized の動詞形は？", "a": "marginalize（周辺に追いやる・軽んじる）です。marginalize a group（ある集団を疎外する）のように使います。イギリス式は marginalise です。" }
+    ],
+    "quiz": [
+      { "q": "marginalized の意味として最も適切なものは？", "A": "（社会の）周辺に追いやられた、疎外された", "B": "社会の中心にいる", "C": "とても裕福な", "D": "有名な", "correct": "A" },
+      { "q": "marginalized のもとになった margin の意味は？", "A": "周辺・へり", "B": "中心", "C": "頂点", "D": "底", "correct": "A" }
+    ]
+  },
+  {
+    "english": "marigold",
+    "pron": "ˈmærɪɡoʊld",
+    "kana": "マリーゴールド",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "Mary(聖母マリア)+gold(金)",
+    "ld_level": "1級",
+    "badges": ["小学生〜", "英検1級", "CEFR C1", "植物・花"],
+    "meaning_main": "マリーゴールド（黄色〜オレンジ色の花を咲かせる植物）",
+    "description": "marigold（マリーゴールド）は「マリーゴールド」という意味の名詞。黄色からオレンジ色の丸い花を咲かせる、育てやすい草花です。花壇や畑でよく見られ、独特の香りで虫を寄せつけにくいため、コンパニオンプランツ（共栄作物）としても植えられます。",
+    "keywords": ["marigold 意味", "マリーゴールド 英語", "オレンジ 花", "marigold 花壇", "marigold 使い方"],
+    "meanings": [
+      { "hinshi": "【名】マリーゴールド", "note": "黄〜オレンジ色の花を咲かせる草花。育てやすい。可算名詞" }
+    ],
+    "usages": [
+      { "title": "① 花・植物としてのマリーゴールド", "desc": "黄色〜オレンジの花を咲かせる草花を指す使い方。", "example_en": "She planted marigolds in the garden.", "example_ja": "彼女は庭にマリーゴールドを植えた。" },
+      { "title": "② 花壇・畑の植物として", "desc": "虫よけの効果もある植物として使う。", "example_en": "Marigolds are often planted to keep pests away.", "example_ja": "マリーゴールドは害虫よけによく植えられる。" }
+    ],
+    "warn": ["marigold（マリーゴールド）は黄色〜オレンジ色の花で、育てやすく花壇でよく見られます。独特の香りで害虫を遠ざける効果があるとされ、野菜と一緒に植えられることも。名は「聖母マリア（Mary）の金の花」に由来します。"],
+    "etym_note": "Mary（聖母マリア）+ gold（金、金色）から。「聖母マリアの金色の花」の意味とされます。中世に聖母マリアに関連づけられた金色の花にちなむ名です。",
+    "etym_chain": [
+      { "node": "Mary + gold", "sub": "聖母マリア + 金", "era": "中英語" },
+      { "node": "marigold", "sub": "マリーゴールド", "era": "中英語" },
+      { "node": "marigold", "sub": "マリーゴールド", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "plant marigolds", "ja": "マリーゴールドを植える" },
+      { "en": "bright marigolds", "ja": "鮮やかなマリーゴールド" },
+      { "en": "orange marigolds", "ja": "オレンジ色のマリーゴールド" },
+      { "en": "a bed of marigolds", "ja": "マリーゴールドの花壇" },
+      { "en": "marigold flowers", "ja": "マリーゴールドの花" },
+      { "en": "grow marigolds", "ja": "マリーゴールドを育てる" }
+    ],
+    "related": [
+      { "en": "flower", "ja": "花" },
+      { "en": "sunflower", "ja": "ひまわり" },
+      { "en": "garden", "ja": "庭" },
+      { "en": "petal", "ja": "花びら" }
+    ],
+    "faq": [
+      { "q": "marigold（マリーゴールド）とはどんな花？", "a": "黄色からオレンジ色の丸い花を咲かせる、育てやすい草花です。花壇や畑でよく見られ、独特の香りで害虫を遠ざける効果があるとされます。" },
+      { "q": "marigold の名の由来は？", "a": "Mary（聖母マリア）+ gold（金色）で、「聖母マリアの金色の花」を意味するとされます。中世に聖母マリアに関連づけられた花にちなむ名です。" }
+    ],
+    "quiz": [
+      { "q": "marigold の意味は？", "A": "黄〜オレンジ色の花を咲かせる草花（マリーゴールド）", "B": "松の木", "C": "サボテン", "D": "コケ", "correct": "A" },
+      { "q": "marigold の花の色は？", "A": "黄色〜オレンジ色", "B": "真っ黒", "C": "真っ青", "D": "透明", "correct": "A" }
+    ]
+  },
+  {
+    "english": "marketing",
+    "pron": "ˈmɑːrkɪtɪŋ",
+    "kana": "マーケティング",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "market(市場)+-ing",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "ビジネス"],
+    "meaning_main": "マーケティング（商品を売るための市場活動：宣伝・販売促進など）",
+    "description": "marketing（マーケティング）は「マーケティング」という意味の名詞。商品やサービスを売るために、市場のニーズを調べ、宣伝・販売促進・価格設定などを行う一連の活動を指します。ビジネスで欠かせない分野で、広告や市場調査もその一部です。",
+    "keywords": ["marketing 意味", "マーケティング 英語", "市場活動 英語", "market 市場", "marketing 使い方"],
+    "meanings": [
+      { "hinshi": "【名】マーケティング（市場活動）", "note": "商品を売るための市場調査・宣伝・販売促進など。不可算名詞" }
+    ],
+    "usages": [
+      { "title": "① 市場活動としてのマーケティング", "desc": "商品を売るための宣伝・販促などの活動を指す使い方。", "example_en": "The company invested a lot in marketing.", "example_ja": "その会社はマーケティングに多額を投じた。" },
+      { "title": "② 部門・戦略として", "desc": "マーケティング部門や戦略を表す使い方。", "example_en": "She works in the marketing department.", "example_ja": "彼女はマーケティング部門で働いている。" }
+    ],
+    "warn": ["marketing は「（商品を売るための）市場活動全般」で、宣伝（advertising）はその一部。市場調査・商品企画・価格設定・販売促進・広告などを含みます。動詞 market は「（市場に）売り出す・宣伝する」。sales（販売）とは区別します。"],
+    "etym_note": "market（市場。ラテン語 mercatus 取引・市場 から）に -ing が付いた語。「市場での活動＝マーケティング」の意味です。merchant, commerce と同語根です。",
+    "etym_chain": [
+      { "node": "mercatus", "sub": "取引・市場", "era": "ラテン語" },
+      { "node": "market", "sub": "市場", "era": "中英語" },
+      { "node": "marketing", "sub": "マーケティング", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a marketing strategy", "ja": "マーケティング戦略" },
+      { "en": "the marketing department", "ja": "マーケティング部門" },
+      { "en": "digital marketing", "ja": "デジタルマーケティング" },
+      { "en": "a marketing campaign", "ja": "マーケティングキャンペーン" },
+      { "en": "marketing research", "ja": "市場調査" },
+      { "en": "online marketing", "ja": "オンラインマーケティング" }
+    ],
+    "related": [
+      { "en": "advertising", "ja": "広告・宣伝" },
+      { "en": "sales", "ja": "販売・営業" },
+      { "en": "market", "ja": "市場・売り込む" },
+      { "en": "promotion", "ja": "販売促進" }
+    ],
+    "faq": [
+      { "q": "marketing と advertising の違いは？", "a": "marketing（マーケティング）は「商品を売るための市場活動全般（市場調査・企画・価格設定・販促・広告）」、advertising（広告）はその一部で「宣伝すること」です。広告はマーケティングの一手段です。" },
+      { "q": "marketing にはどんな活動が含まれる？", "a": "市場調査（顧客のニーズ調べ）、商品企画、価格設定、販売促進、広告・宣伝、ブランド作りなど、商品を売るための幅広い活動が含まれます。" }
+    ],
+    "quiz": [
+      { "q": "marketing の意味として最も適切なものは？", "A": "商品を売るための市場活動（宣伝・販促など）", "B": "商品を作ること", "C": "商品を運ぶこと", "D": "商品を捨てること", "correct": "A" },
+      { "q": "marketing に含まれるものは？", "A": "市場調査や広告・販売促進", "B": "工場での製造だけ", "C": "商品の配送だけ", "D": "経理だけ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "mat",
+    "pron": "mæt",
+    "kana": "マット",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "古英語 meatte(敷物)",
+    "ld_level": "3級",
+    "badges": ["小学生〜", "英検3級", "CEFR A1", "日常語"],
+    "meaning_main": "マット・敷物（床や地面に敷く平たいもの）",
+    "description": "mat（マット）は「マット・敷物」という意味の名詞。床や地面に敷く、平たい厚手のしきものを指します。玄関マット（door mat）、体操やヨガのマット、テーブルの下敷き（place mat）など、用途はさまざまです。汚れ防止・保護・滑り止めなどに使われる身近な語です。",
+    "keywords": ["mat 意味", "マット 英語", "敷物 英語", "door mat", "mat 使い方"],
+    "meanings": [
+      { "hinshi": "【名】マット、敷物", "note": "床や地面に敷く平たいもの。a door mat（玄関マット）。可算名詞" }
+    ],
+    "usages": [
+      { "title": "① 床に敷くマット", "desc": "玄関やヨガなど床に敷くマットを指す使い方。", "example_en": "Wipe your shoes on the mat.", "example_ja": "マットで靴をふいてください。" },
+      { "title": "② 下敷き・敷物として", "desc": "テーブルの下敷きや保護用の敷物を表す使い方。", "example_en": "She put a hot pot on the mat.", "example_ja": "彼女は熱いなべを敷物の上に置いた。" }
+    ],
+    "warn": ["a door mat（玄関マット）、a yoga mat（ヨガマット）、a place mat（ランチョンマット）、a bath mat（バスマット）など用途で呼び分けます。rug（ラグ・小さめのじゅうたん）、carpet（カーペット）とは区別します。"],
+    "etym_note": "古英語 meatte（敷物。ラテン語 matta 敷物 から）に由来。「（床に敷く）しきもの」を意味する古い語です。",
+    "etym_chain": [
+      { "node": "matta", "sub": "敷物", "era": "ラテン語" },
+      { "node": "meatte", "sub": "敷物", "era": "古英語" },
+      { "node": "mat", "sub": "マット・敷物", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a door mat", "ja": "玄関マット" },
+      { "en": "a yoga mat", "ja": "ヨガマット" },
+      { "en": "a bath mat", "ja": "バスマット" },
+      { "en": "a place mat", "ja": "ランチョンマット" },
+      { "en": "a welcome mat", "ja": "歓迎のマット（玄関マット）" },
+      { "en": "wipe your feet on the mat", "ja": "マットで足をふく" }
+    ],
+    "related": [
+      { "en": "rug", "ja": "ラグ・敷物" },
+      { "en": "carpet", "ja": "カーペット" },
+      { "en": "pad", "ja": "当て・パッド" },
+      { "en": "floor", "ja": "床" }
+    ],
+    "faq": [
+      { "q": "mat と rug の違いは？", "a": "mat は「（玄関・ヨガなど用途別の）平たい敷物・マット」、rug は「（部屋の一部に敷く）小さめのじゅうたん・ラグ」です。mat は薄手で機能的、rug は装飾も兼ねることが多いです。" },
+      { "q": "mat にはどんな種類がある？", "a": "door mat（玄関マット）、yoga mat（ヨガマット）、bath mat（バスマット）、place mat（ランチョンマット）など、用途によって呼び分けられます。" }
+    ],
+    "quiz": [
+      { "q": "mat の意味は？", "A": "床や地面に敷く平たいもの（マット・敷物）", "B": "天井の照明", "C": "窓のカーテン", "D": "壁の絵", "correct": "A" },
+      { "q": "a door mat の意味は？", "A": "玄関マット", "B": "ドアの取っ手", "C": "ドアの鍵", "D": "ドアベル", "correct": "A" }
+    ]
+  },
+  {
+    "english": "measurement",
+    "pron": "ˈmeʒərmənt",
+    "kana": "メジャーメント",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "measure(測る)+-ment",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出"],
+    "meaning_main": "測定／計測／（測った）寸法・大きさ",
+    "description": "measurement（メジャーメント）は「測定／計測」という意味の名詞。長さ・重さ・大きさなどを測ることや、測って得られた値（寸法）を指します。動詞 measure（測る）の名詞形で、take measurements（寸法を測る）のように使われる頻出語です。",
+    "keywords": ["measurement 意味", "測定 英語", "寸法 英語", "measure 測る", "measurement 使い方"],
+    "meanings": [
+      { "hinshi": "【名】測定、計測", "note": "測ること。accurate measurement（正確な測定）。不可算" },
+      { "hinshi": "【名】（測った）寸法、大きさ", "note": "take measurements（寸法を測る）。可算" }
+    ],
+    "usages": [
+      { "title": "① 測定・計測", "desc": "長さ・重さなどを測ることを指す使い方。", "example_en": "Accurate measurement is essential in science.", "example_ja": "科学では正確な測定が不可欠だ。" },
+      { "title": "② 測った寸法・大きさ", "desc": "測って得られた値を指す使い方。", "example_en": "The tailor took my measurements.", "example_ja": "仕立て屋が私の寸法を測った。" }
+    ],
+    "warn": ["take measurements（寸法を測る）、a unit of measurement（測定の単位）が頻出。動詞は measure（測る）、道具は a tape measure（巻き尺）。「測ること（不可算）」と「測った値・寸法（可算、しばしば複数形）」の両方の意味があります。"],
+    "etym_note": "measure（測る。ラテン語 metiri 測る、mensura 測ること から）に、名詞をつくる -ment が付いた語。「測ること・測った値＝測定・寸法」の意味です。measure, dimension と同語根です。",
+    "etym_chain": [
+      { "node": "mensura", "sub": "測ること", "era": "ラテン語" },
+      { "node": "measure", "sub": "測る", "era": "中英語" },
+      { "node": "measurement", "sub": "測定・寸法", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "take measurements", "ja": "寸法を測る" },
+      { "en": "accurate measurement", "ja": "正確な測定" },
+      { "en": "a unit of measurement", "ja": "測定の単位" },
+      { "en": "precise measurements", "ja": "精密な計測" },
+      { "en": "body measurements", "ja": "体の寸法" },
+      { "en": "systems of measurement", "ja": "度量衡（測定の体系）" }
+    ],
+    "related": [
+      { "en": "measure", "ja": "測る・寸法" },
+      { "en": "dimension", "ja": "寸法・次元" },
+      { "en": "size", "ja": "大きさ・サイズ" },
+      { "en": "unit", "ja": "単位" }
+    ],
+    "faq": [
+      { "q": "take measurements とはどういう意味？", "a": "「寸法を測る・計測する」という意味です。仕立てや工作などで、必要な部分の長さ・大きさを測ることを表します。" },
+      { "q": "measurement と measure の違いは？", "a": "measure は動詞「測る」または名詞「（測る）尺度・手段・対策」、measurement は名詞で「測定・計測」や「（測った）寸法」を指します。" }
+    ],
+    "quiz": [
+      { "q": "measurement の意味として最も適切なものは？", "A": "測定、計測／寸法", "B": "破壊", "C": "運搬", "D": "販売", "correct": "A" },
+      { "q": "take measurements の意味は？", "A": "寸法を測る", "B": "薬を飲む", "C": "写真を撮る", "D": "手紙を書く", "correct": "A" }
+    ]
+  },
+  {
+    "english": "mechanical",
+    "pron": "məˈkænɪkl",
+    "kana": "メカニカル",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "ギリシャ語 mekhane(仕掛け)",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出"],
+    "meaning_main": "機械の／機械仕掛けの／（動作が）機械的な・型どおりの",
+    "description": "mechanical（メカニカル）は「機械の／機械仕掛けの」という意味の形容詞。機械に関することや、機械のように動くことを表します。比喩で「（感情がこもらず）機械的な・型どおりの」動作や反応を指すこともあります。機械・工学の話題で頻出する語です。",
+    "keywords": ["mechanical 意味", "機械の 英語", "機械的 英語", "mechanic 整備士", "mechanical 使い方"],
+    "meanings": [
+      { "hinshi": "【形】機械の、機械仕掛けの", "note": "機械に関する。a mechanical problem（機械の故障）" },
+      { "hinshi": "【形】（動作が）機械的な、型どおりの", "note": "感情がこもらず自動的な。a mechanical response（機械的な返答）" }
+    ],
+    "usages": [
+      { "title": "① 機械の・機械仕掛けの", "desc": "機械に関することを表す使い方。", "example_en": "The car had a mechanical fault.", "example_ja": "その車は機械的な故障があった。" },
+      { "title": "② 機械的な・型どおりの（比喩）", "desc": "感情がこもらず自動的な動作・反応を表す使い方。", "example_en": "She gave a mechanical nod.", "example_ja": "彼女は機械的にうなずいた。" }
+    ],
+    "warn": ["mechanical は「機械の・機械仕掛けの」と、比喩で「（感情がこもらず）機械的な・型どおりの」の両方。名詞 mechanic は「整備士・機械工」、mechanics は「力学・機械学」。mechanical engineering は「機械工学」。"],
+    "etym_note": "ギリシャ語 mekhane（仕掛け、機械）に由来する mechanical から。「機械の・機械に関する」の意味です。machine, mechanism と同語根です。",
+    "etym_chain": [
+      { "node": "mekhane", "sub": "仕掛け・機械", "era": "ギリシャ語" },
+      { "node": "mechanicus", "sub": "機械の", "era": "ラテン語" },
+      { "node": "mechanical", "sub": "機械の・機械的な", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "a mechanical problem", "ja": "機械の故障" },
+      { "en": "mechanical engineering", "ja": "機械工学" },
+      { "en": "a mechanical failure", "ja": "機械的な故障" },
+      { "en": "a mechanical response", "ja": "機械的な返答" },
+      { "en": "mechanical parts", "ja": "機械部品" },
+      { "en": "a mechanical pencil", "ja": "シャープペンシル" }
+    ],
+    "related": [
+      { "en": "mechanic", "ja": "整備士・機械工" },
+      { "en": "mechanism", "ja": "仕組み・機構" },
+      { "en": "machine", "ja": "機械" },
+      { "en": "automatic", "ja": "自動の" }
+    ],
+    "faq": [
+      { "q": "mechanical の2つの意味は？", "a": "①「機械の・機械仕掛けの（a mechanical problem 機械の故障）」と、②比喩で「（感情がこもらず）機械的な・型どおりの（a mechanical smile 機械的な笑み）」です。文脈で判断します。" },
+      { "q": "a mechanical pencil とは？", "a": "「シャープペンシル」です。芯を機械的に押し出して使う鉛筆で、日本語の『シャーペン』にあたります。" }
+    ],
+    "quiz": [
+      { "q": "mechanical の意味として最も適切なものは？", "A": "機械の／機械的な・型どおりの", "B": "自然の", "C": "手作りの", "D": "透明な", "correct": "A" },
+      { "q": "a mechanical pencil の意味は？", "A": "シャープペンシル", "B": "色鉛筆", "C": "万年筆", "D": "クレヨン", "correct": "A" }
+    ]
+  },
+  {
+    "english": "mechanics",
+    "pron": "məˈkænɪks",
+    "kana": "メカニクス",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ギリシャ語 mekhane(仕掛け)",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "科学・物理"],
+    "meaning_main": "力学（物理学の一分野）／（物事の）仕組み・手順",
+    "description": "mechanics（メカニクス）は「力学」という意味の名詞。物体にはたらく力と、その運動を扱う物理学の一分野を指します。学問名として単数扱いです。また複数扱いで「（物事の具体的な）仕組み・手順・やり方」を表すこともある語です。",
+    "keywords": ["mechanics 意味", "力学 英語", "仕組み 英語", "mechanical 機械の", "mechanics 使い方"],
+    "meanings": [
+      { "hinshi": "【名】力学（物理学の一分野）", "note": "力と運動を扱う学問。quantum mechanics（量子力学）。単数扱い" },
+      { "hinshi": "【名】（物事の）仕組み、手順、やり方", "note": "the mechanics of ~（〜の仕組み）。複数扱い" }
+    ],
+    "usages": [
+      { "title": "① 学問の力学", "desc": "力と運動を扱う物理学の分野を指す使い方。単数扱い。", "example_en": "Mechanics is a branch of physics.", "example_ja": "力学は物理学の一分野だ。" },
+      { "title": "② 物事の仕組み・手順", "desc": "the mechanics of ~ で「〜の具体的な仕組み・やり方」を表す使い方。", "example_en": "He explained the mechanics of the process.", "example_ja": "彼はその過程の仕組みを説明した。" }
+    ],
+    "warn": ["学問「力学」の意味では -ics で終わる語として単数扱い（Mechanics is ~）。quantum mechanics（量子力学）が有名。「（物事の）仕組み・手順」の意味では複数扱いになります（the mechanics of ~）。整備士 mechanic とは別（複数形 mechanics は「整備士たち」の意味にもなる点に注意）。"],
+    "etym_note": "ギリシャ語 mekhane（仕掛け、機械）に由来する mechanic に、学問を表す -s が付いた語。「機械・力を扱う学問＝力学」の意味です。mechanical, machine と同語根です。",
+    "etym_chain": [
+      { "node": "mekhane", "sub": "仕掛け・機械", "era": "ギリシャ語" },
+      { "node": "mechanic", "sub": "機械の", "era": "中英語" },
+      { "node": "mechanics", "sub": "力学・仕組み", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "quantum mechanics", "ja": "量子力学" },
+      { "en": "classical mechanics", "ja": "古典力学" },
+      { "en": "fluid mechanics", "ja": "流体力学" },
+      { "en": "the mechanics of", "ja": "〜の仕組み・手順" },
+      { "en": "study mechanics", "ja": "力学を学ぶ" },
+      { "en": "the mechanics of the deal", "ja": "その取引の具体的な仕組み" }
+    ],
+    "related": [
+      { "en": "mechanical", "ja": "機械の・力学の" },
+      { "en": "physics", "ja": "物理学" },
+      { "en": "dynamics", "ja": "動力学・力学" },
+      { "en": "mechanism", "ja": "仕組み・機構" }
+    ],
+    "faq": [
+      { "q": "mechanics（力学）は単数？複数？", "a": "学問「力学」の意味では、-ics で終わる語として単数扱いです（Mechanics is difficult. 力学は難しい）。ただし「（物事の）仕組み・手順」の意味では複数扱いになります。" },
+      { "q": "quantum mechanics とは？", "a": "「量子力学」です。原子や電子など、とても小さな粒子のふるまいを扱う物理学の分野で、現代物理学の柱の一つです。" }
+    ],
+    "quiz": [
+      { "q": "mechanics（学問）の意味は？", "A": "力学（力と運動を扱う物理学の分野）", "B": "文学", "C": "歴史学", "D": "音楽", "correct": "A" },
+      { "q": "quantum mechanics の意味は？", "A": "量子力学", "B": "経済学", "C": "天文学だけ", "D": "生物学", "correct": "A" }
+    ]
+  }
+]
