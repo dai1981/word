@@ -1,0 +1,995 @@
+[
+  {
+    "english": "hitch",
+    "pron": "hɪtʃ",
+    "kana": "ヒッチ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "noun",
+    "ld_etym": "中英語 hicchen(動かす・引っかける)",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出"],
+    "meaning_main": "（ちょっとした）障害・支障／（〜を）つなぐ・引っかける／ヒッチハイクする",
+    "description": "hitch（ヒッチ）は「（ちょっとした）障害・支障」という意味の名詞。物事の進行をわずかに妨げる小さなトラブルを指します。動詞で「（〜を）つなぐ・引っかける」、また「ヒッチハイクする（車に乗せてもらう）」の意味でも使われます。",
+    "keywords": ["hitch 意味", "支障 英語", "ヒッチハイク 英語", "without a hitch", "hitch 使い方"],
+    "meanings": [
+      { "hinshi": "【名】（ちょっとした）障害、支障、問題", "note": "小さなトラブル。without a hitch（滞りなく）。可算" },
+      { "hinshi": "【動】（〜を）つなぐ、引っかける、結びつける", "note": "hitch a trailer（トレーラーをつなぐ）" },
+      { "hinshi": "【動】ヒッチハイクする（車に乗せてもらう）", "note": "hitch a ride（車に乗せてもらう）" }
+    ],
+    "usages": [
+      { "title": "① ちょっとした支障", "desc": "物事の進行をわずかに妨げる小さなトラブルを表す使い方。", "example_en": "The event went off without a hitch.", "example_ja": "イベントは滞りなく進んだ。" },
+      { "title": "② つなぐ・乗せてもらう（動詞）", "desc": "つなぐ、または車に乗せてもらうことを表す使い方。", "example_en": "He hitched a ride to the next town.", "example_ja": "彼は隣町まで車に乗せてもらった。" }
+    ],
+    "warn": ["without a hitch は「滞りなく・問題なく」という頻出表現。hitch a ride / hitchhike は「（車に）乗せてもらう」。動詞「つなぐ」の意味では hitch a trailer（トレーラーを連結する）のように使います。"],
+    "etym_note": "中英語 hicchen（急に動かす、引っかける）に由来。「ぐいと動かす・引っかける」の意味から、「つなぐ」「（進行に）引っかかる障害」の意味に広がりました。",
+    "etym_chain": [
+      { "node": "hicchen", "sub": "動かす・引っかける", "era": "中英語" },
+      { "node": "hitch", "sub": "つなぐ・障害", "era": "近代英語" },
+      { "node": "hitch", "sub": "支障・つなぐ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "without a hitch", "ja": "滞りなく・問題なく" },
+      { "en": "a technical hitch", "ja": "技術的な支障" },
+      { "en": "hitch a ride", "ja": "車に乗せてもらう" },
+      { "en": "a slight hitch", "ja": "ちょっとした支障" },
+      { "en": "hitch up", "ja": "（ズボンなどを）引き上げる・連結する" },
+      { "en": "run into a hitch", "ja": "支障にぶつかる" }
+    ],
+    "related": [
+      { "en": "snag", "ja": "思わぬ障害" },
+      { "en": "obstacle", "ja": "障害" },
+      { "en": "problem", "ja": "問題" },
+      { "en": "hitchhike", "ja": "ヒッチハイクする" }
+    ],
+    "faq": [
+      { "q": "without a hitch とはどういう意味？", "a": "「滞りなく・問題なく・支障なく」という意味の頻出表現です。The plan went off without a hitch.（計画は問題なく進んだ）のように使います。" },
+      { "q": "hitch a ride とは？", "a": "「（通りかかった車に）乗せてもらう・ヒッチハイクする」という意味です。hitchhike も同じ意味の動詞です。" }
+    ],
+    "quiz": [
+      { "q": "名詞 hitch の意味として最も適切なものは？", "A": "（ちょっとした）障害・支障", "B": "大成功", "C": "祝賀", "D": "休日", "correct": "A" },
+      { "q": "without a hitch の意味は？", "A": "滞りなく・問題なく", "B": "大失敗して", "C": "急いで", "D": "こっそり", "correct": "A" }
+    ]
+  },
+  {
+    "english": "homeless",
+    "pron": "ˈhoʊmləs",
+    "kana": "ホームレス",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "home(家)+-less(〜がない)",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "社会"],
+    "meaning_main": "家のない／住む家を失った（人）／ホームレスの",
+    "description": "homeless（ホームレス）は「家のない／住む家を失った」という意味の形容詞。決まった住まいを持たず、路上や施設で暮らす状態を表します。the homeless で「家のない人々」を指します。home（家）に「〜がない」を表す -less が付いた語です。",
+    "keywords": ["homeless 意味", "家のない 英語", "ホームレス 英語", "the homeless", "homeless 使い方"],
+    "meanings": [
+      { "hinshi": "【形】家のない、住む家を失った", "note": "決まった住まいがない。a homeless person（家のない人）" }
+    ],
+    "usages": [
+      { "title": "① 家のない・住まいを失った", "desc": "決まった住まいを持たない状態を表す使い方。", "example_en": "Many people became homeless after the disaster.", "example_ja": "災害のあと、多くの人が家を失った。" },
+      { "title": "② the homeless（家のない人々）", "desc": "the + homeless で「家のない人々」を表す使い方。", "example_en": "The charity helps the homeless.", "example_ja": "その慈善団体は家のない人々を助ける。" }
+    ],
+    "warn": ["the homeless で「家のない人々（全体）」を表します（the + 形容詞で人々の集まり）。home（家）+ -less（〜がない）でできた語。より配慮ある表現として people experiencing homelessness も使われます。名詞は homelessness。"],
+    "etym_note": "home（家、古英語 hām）に、「〜がない」を表す -less が付いた語。「家がない＝住む家を失った」の意味です。",
+    "etym_chain": [
+      { "node": "home + -less", "sub": "家 + ない", "era": "近代英語" },
+      { "node": "homeless", "sub": "家のない", "era": "近代英語" },
+      { "node": "homeless", "sub": "家のない・ホームレスの", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a homeless person", "ja": "家のない人" },
+      { "en": "the homeless", "ja": "家のない人々" },
+      { "en": "become homeless", "ja": "家を失う" },
+      { "en": "homeless people", "ja": "家のない人々" },
+      { "en": "a homeless shelter", "ja": "ホームレス用の保護施設" },
+      { "en": "help the homeless", "ja": "家のない人々を助ける" }
+    ],
+    "related": [
+      { "en": "homelessness", "ja": "住む家がないこと" },
+      { "en": "shelter", "ja": "避難所・保護施設" },
+      { "en": "poverty", "ja": "貧困" },
+      { "en": "housing", "ja": "住宅" }
+    ],
+    "faq": [
+      { "q": "the homeless とは？", "a": "「家のない人々（全体）」を指します。〈the + 形容詞〉で「〜な人々」を表す用法です。help the homeless で「家のない人々を助ける」を意味します。" },
+      { "q": "homeless の名詞形は？", "a": "homelessness（住む家がないこと・ホームレスの状態）です。tackle homelessness（ホームレス問題に取り組む）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "homeless の意味として最も適切なものは？", "A": "家のない、住む家を失った", "B": "大きな家を持つ", "C": "引っ越したばかりの", "D": "家を建てている", "correct": "A" },
+      { "q": "the homeless の意味は？", "A": "家のない人々", "B": "大きな家", "C": "家の持ち主", "D": "空き家", "correct": "A" }
+    ]
+  },
+  {
+    "english": "honorary",
+    "pron": "ˈɑːnəreri",
+    "kana": "オノラリー",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "ラテン語 honorarius(名誉の)",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "社会"],
+    "meaning_main": "名誉の／名誉職の／（称号などが）名誉として与えられる・無報酬の",
+    "description": "honorary（オノラリー）は「名誉の／名誉職の」という意味の形容詞。実際の資格や仕事にもとづかず、功績をたたえて名誉として与えられる称号・地位を表します。an honorary degree（名誉学位）のように使われます。報酬を伴わない役職も指します。",
+    "keywords": ["honorary 意味", "名誉 英語", "名誉学位 英語", "honor 名誉", "honorary 使い方"],
+    "meanings": [
+      { "hinshi": "【形】名誉の、名誉職の、名誉として与えられる", "note": "功績をたたえて贈られる。an honorary degree（名誉学位）" },
+      { "hinshi": "【形】無報酬の（名誉職の）", "note": "報酬を伴わない名誉ある役職" }
+    ],
+    "usages": [
+      { "title": "① 名誉として与えられる称号", "desc": "功績をたたえて贈られる称号・学位を表す使い方。", "example_en": "She received an honorary doctorate.", "example_ja": "彼女は名誉博士号を授与された。" },
+      { "title": "② 名誉職・無報酬の役職", "desc": "報酬を伴わない名誉ある役職を表す使い方。", "example_en": "He serves as honorary president of the club.", "example_ja": "彼はそのクラブの名誉会長を務めている。" }
+    ],
+    "warn": ["an honorary degree（名誉学位）は、実際の課程を修めずに功績をたたえて贈られる学位。honorary は「名誉の・名誉職の（しばしば無報酬）」。名詞 honor（名誉）、形容詞 honorable（立派な・名誉ある）と区別しましょう。"],
+    "etym_note": "ラテン語 honorarius（名誉の、honor 名誉 から）に由来。「名誉として与えられる」の意味です。honor（名誉）と同語根です。",
+    "etym_chain": [
+      { "node": "honor", "sub": "名誉", "era": "ラテン語" },
+      { "node": "honorarius", "sub": "名誉の", "era": "ラテン語" },
+      { "node": "honorary", "sub": "名誉の・名誉職の", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "an honorary degree", "ja": "名誉学位" },
+      { "en": "an honorary doctorate", "ja": "名誉博士号" },
+      { "en": "honorary membership", "ja": "名誉会員" },
+      { "en": "an honorary title", "ja": "名誉称号" },
+      { "en": "honorary president", "ja": "名誉会長" },
+      { "en": "an honorary citizen", "ja": "名誉市民" }
+    ],
+    "related": [
+      { "en": "honor", "ja": "名誉・敬意" },
+      { "en": "honorable", "ja": "立派な・名誉ある" },
+      { "en": "ceremonial", "ja": "儀礼的な" },
+      { "en": "nominal", "ja": "名目上の" }
+    ],
+    "faq": [
+      { "q": "an honorary degree とは？", "a": "「名誉学位」です。実際に大学の課程を修めなくても、功績や社会への貢献をたたえて贈られる学位です。名誉博士号（honorary doctorate）などがあります。" },
+      { "q": "honorary と honorable の違いは？", "a": "honorary は「名誉として与えられる・名誉職の」、honorable は「立派な・名誉ある・尊敬すべき」です。an honorary title（名誉称号）／ an honorable person（立派な人）のように使い分けます。" }
+    ],
+    "quiz": [
+      { "q": "honorary の意味として最も適切なものは？", "A": "名誉の、名誉として与えられる", "B": "違法の", "C": "一時的な", "D": "秘密の", "correct": "A" },
+      { "q": "an honorary degree の意味は？", "A": "名誉学位（功績をたたえて贈られる学位）", "B": "普通の卒業証書", "C": "運転免許", "D": "参加賞", "correct": "A" }
+    ]
+  },
+  {
+    "english": "hoof",
+    "pron": "huːf",
+    "kana": "フーフ",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "古英語 hof(ひづめ)",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "動物"],
+    "meaning_main": "ひづめ（馬・牛などの足先のかたい部分）",
+    "description": "hoof（フーフ）は「ひづめ」という意味の名詞。馬・牛・鹿などの足先にある、かたい角質のおおいを指します。体重を支え、歩行を助けます。複数形は hooves または hoofs です。ひづめを持つ動物のことを話すときに使う語です。",
+    "keywords": ["hoof 意味", "ひづめ 英語", "hooves 複数形", "馬 ひづめ 英語", "hoof 使い方"],
+    "meanings": [
+      { "hinshi": "【名】ひづめ", "note": "馬・牛などの足先のかたい部分。複数 hooves / hoofs。可算" }
+    ],
+    "usages": [
+      { "title": "① 動物のひづめ", "desc": "馬・牛などの足先のかたい部分を指す使い方。", "example_en": "The horse's hooves clattered on the road.", "example_ja": "馬のひづめが道の上でカッカッと音を立てた。" },
+      { "title": "② 手入れ・健康の話題で", "desc": "ひづめの手入れや状態を説明する使い方。", "example_en": "The farrier trimmed the horse's hooves.", "example_ja": "蹄鉄工（ていてつこう）は馬のひづめを整えた。" }
+    ],
+    "warn": ["複数形は hooves（フーヴズ）が一般的で、hoofs も使えます。ひづめを持つ動物は「有蹄類（ゆうているい）」。ひづめに打ちつける金具は horseshoe（蹄鉄）。paw（肉球のある足）は犬・猫などの足で、ひづめとは違います。"],
+    "etym_note": "古英語 hōf（ひづめ）に由来。ゲルマン系の古い語で、「動物の足先のかたい部分」を意味します。",
+    "etym_chain": [
+      { "node": "hof", "sub": "ひづめ", "era": "古英語" },
+      { "node": "hoof", "sub": "ひづめ", "era": "中英語" },
+      { "node": "hoof", "sub": "ひづめ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a horse's hoof", "ja": "馬のひづめ" },
+      { "en": "cloven hooves", "ja": "割れたひづめ（偶蹄）" },
+      { "en": "trim the hooves", "ja": "ひづめを整える" },
+      { "en": "hooves clattering", "ja": "カッカッと鳴るひづめ" },
+      { "en": "on the hoof", "ja": "（家畜が）生きたままで／急いで" },
+      { "en": "a broken hoof", "ja": "傷ついたひづめ" }
+    ],
+    "related": [
+      { "en": "horseshoe", "ja": "蹄鉄" },
+      { "en": "paw", "ja": "（肉球のある）足" },
+      { "en": "claw", "ja": "かぎ爪" },
+      { "en": "horse", "ja": "馬" }
+    ],
+    "faq": [
+      { "q": "hoof の複数形は？", "a": "hooves（フーヴズ）が一般的で、hoofs も使えます。two hooves（2つのひづめ）のように使います。" },
+      { "q": "hoof と paw の違いは？", "a": "hoof（ひづめ）は馬・牛など有蹄類の足先のかたい部分、paw（前足・肉球のある足）は犬・猫・熊などの足です。動物の足の種類が違います。" }
+    ],
+    "quiz": [
+      { "q": "hoof の意味は？", "A": "ひづめ（馬・牛などの足先のかたい部分）", "B": "しっぽ", "C": "角（つの）", "D": "耳", "correct": "A" },
+      { "q": "hoof の複数形は？", "A": "hooves", "B": "hoofes", "C": "hoofies", "D": "hoof", "correct": "A" }
+    ]
+  },
+  {
+    "english": "hopeful",
+    "pron": "ˈhoʊpfl",
+    "kana": "ホープフル",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "hope(希望)+-ful(満ちた)",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "感情表現"],
+    "meaning_main": "希望に満ちた／期待している／有望な・見込みのある",
+    "description": "hopeful（ホープフル）は「希望に満ちた／期待している」という意味の形容詞。よい結果になることを望み、前向きな気持ちでいる様子を表します。また状況が「有望な・見込みのある」ことも表します。hope（希望）に -ful が付いた語です。",
+    "keywords": ["hopeful 意味", "希望に満ちた 英語", "期待 英語", "hope 希望", "hopeful 使い方"],
+    "meanings": [
+      { "hinshi": "【形】希望に満ちた、期待している", "note": "よい結果を望む。be hopeful that ~（〜だと期待する）" },
+      { "hinshi": "【形】有望な、見込みのある", "note": "a hopeful sign（有望なきざし）" }
+    ],
+    "usages": [
+      { "title": "① 希望に満ちた・期待して", "desc": "よい結果を望み前向きでいる様子を表す使い方。", "example_en": "We are hopeful about the future.", "example_ja": "私たちは未来に希望を持っている。" },
+      { "title": "② 有望な・見込みのある", "desc": "状況がよくなりそうなことを表す使い方。", "example_en": "There are hopeful signs of recovery.", "example_ja": "回復の有望なきざしがある。" }
+    ],
+    "warn": ["be hopeful that/about ~ で「〜だと期待している・〜に希望を持っている」。反対は hopeless（絶望的な・見込みのない）。名詞は hope（希望）、副詞は hopefully（うまくいけば・希望を込めて）。"],
+    "etym_note": "hope（希望、古英語 hopa）に、「〜に満ちた」を表す -ful が付いた語。「希望に満ちた」の意味です。hopeless（希望のない）と対になります。",
+    "etym_chain": [
+      { "node": "hope + -ful", "sub": "希望 + 満ちた", "era": "中英語" },
+      { "node": "hopeful", "sub": "希望に満ちた", "era": "近代英語" },
+      { "node": "hopeful", "sub": "希望に満ちた・有望な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be hopeful that", "ja": "〜だと期待する" },
+      { "en": "hopeful about", "ja": "〜に希望を持つ" },
+      { "en": "a hopeful sign", "ja": "有望なきざし" },
+      { "en": "remain hopeful", "ja": "希望を持ち続ける" },
+      { "en": "a hopeful future", "ja": "希望に満ちた未来" },
+      { "en": "cautiously hopeful", "ja": "慎重ながら希望を持って" }
+    ],
+    "related": [
+      { "en": "hope", "ja": "希望・望む" },
+      { "en": "optimistic", "ja": "楽観的な" },
+      { "en": "hopeless", "ja": "絶望的な（反対語）" },
+      { "en": "promising", "ja": "有望な" }
+    ],
+    "faq": [
+      { "q": "hopeful と optimistic の違いは？", "a": "どちらも前向きですが、hopeful は「（特定のことに）よい結果を望んで期待している」、optimistic は「（性格的に）物事を楽観的にとらえる」ニュアンスです。" },
+      { "q": "hopeful の反対語は？", "a": "hopeless（絶望的な・見込みのない）です。hopeful は希望に満ちた、hopeless は希望のない状態を表します。" }
+    ],
+    "quiz": [
+      { "q": "hopeful の意味として最も適切なものは？", "A": "希望に満ちた、期待している", "B": "絶望した", "C": "退屈した", "D": "怒っている", "correct": "A" },
+      { "q": "hopeful の反対の意味を持つ語は？", "A": "hopeless（絶望的な）", "B": "optimistic（楽観的な）", "C": "promising（有望な）", "D": "hope（希望）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "hornet",
+    "pron": "ˈhɔːrnɪt",
+    "kana": "ホーネット",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "古英語 hyrnet(スズメバチ)",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "動物・昆虫"],
+    "meaning_main": "スズメバチ（大型で攻撃的なハチ）",
+    "description": "hornet（ホーネット）は「スズメバチ」という意味の名詞。ハチの中でも大型で、強い毒針を持ち攻撃的なことで知られます。刺されると危険です。慣用句 stir up a hornet's nest（スズメバチの巣をつつく＝大騒動を引き起こす）でも使われます。",
+    "keywords": ["hornet 意味", "スズメバチ 英語", "hornet's nest", "ハチ 英語", "hornet 使い方"],
+    "meanings": [
+      { "hinshi": "【名】スズメバチ", "note": "大型で毒針を持つ攻撃的なハチ。可算名詞" }
+    ],
+    "usages": [
+      { "title": "① 昆虫のスズメバチ", "desc": "大型で攻撃的なハチを指す使い方。", "example_en": "A hornet stung him on the arm.", "example_ja": "スズメバチが彼の腕を刺した。" },
+      { "title": "② 慣用句で", "desc": "stir up a hornet's nest（大騒動を起こす）で使う。", "example_en": "His comments stirred up a hornet's nest.", "example_ja": "彼の発言は大騒動を巻き起こした。" }
+    ],
+    "warn": ["hornet（スズメバチ）は wasp（アシナガバチなどのハチ）の中でも特に大型のもの。honeybee（ミツバチ）とは違い、蜜を作らず攻撃的です。stir up a hornet's nest は「（軽率に）大騒動・面倒を引き起こす」の慣用句。"],
+    "etym_note": "古英語 hyrnet（スズメバチ）に由来。ゲルマン系の語で、horn（角）と関連するとも、鳴き声を表す語根に由来するともいわれます。",
+    "etym_chain": [
+      { "node": "hyrnet", "sub": "スズメバチ", "era": "古英語" },
+      { "node": "hornet", "sub": "スズメバチ", "era": "中英語" },
+      { "node": "hornet", "sub": "スズメバチ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a hornet's nest", "ja": "スズメバチの巣" },
+      { "en": "stir up a hornet's nest", "ja": "大騒動を引き起こす" },
+      { "en": "stung by a hornet", "ja": "スズメバチに刺されて" },
+      { "en": "a giant hornet", "ja": "オオスズメバチ" },
+      { "en": "a swarm of hornets", "ja": "スズメバチの群れ" },
+      { "en": "mad as a hornet", "ja": "かんかんに怒って" }
+    ],
+    "related": [
+      { "en": "wasp", "ja": "ハチ（スズメバチ・アシナガバチ）" },
+      { "en": "bee", "ja": "ミツバチ" },
+      { "en": "sting", "ja": "刺す・針" },
+      { "en": "insect", "ja": "昆虫" }
+    ],
+    "faq": [
+      { "q": "hornet と bee の違いは？", "a": "hornet（スズメバチ）は大型で毒針を持ち攻撃的なハチ、bee（特に honeybee ミツバチ）は蜜を作る比較的おとなしいハチです。hornet は蜜を作りません。" },
+      { "q": "stir up a hornet's nest とは？", "a": "「（軽率な言動で）大騒動・面倒を引き起こす」という慣用句です。スズメバチの巣をつつくと大変なことになる様子にたとえた表現です。" }
+    ],
+    "quiz": [
+      { "q": "hornet の意味は？", "A": "スズメバチ（大型で攻撃的なハチ）", "B": "チョウ", "C": "アリ", "D": "テントウムシ", "correct": "A" },
+      { "q": "stir up a hornet's nest の意味は？", "A": "大騒動を引き起こす", "B": "静かにする", "C": "問題を解決する", "D": "巣を作る", "correct": "A" }
+    ]
+  },
+  {
+    "english": "household",
+    "pron": "ˈhaʊshoʊld",
+    "kana": "ハウスホールド",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "noun",
+    "ld_etym": "house(家)+hold(保つ・世帯)",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出"],
+    "meaning_main": "世帯／（同じ家に住む）家族全体／家庭の・家事の",
+    "description": "household（ハウスホールド）は「世帯／家族全体」という意味の名詞。同じ家に住み、生計をともにする人々のまとまりを指します。形容詞で「家庭の・家事の」も表します。household name（だれもが知る有名な名前）という表現でも使われます。",
+    "keywords": ["household 意味", "世帯 英語", "家庭 英語", "household name", "household 使い方"],
+    "meanings": [
+      { "hinshi": "【名】世帯、（同じ家に住む）家族全体", "note": "同じ家に住み生計をともにする人々。a household of four（4人世帯）。可算" },
+      { "hinshi": "【形】家庭の、家事の", "note": "household chores（家事）。household items（家庭用品）" }
+    ],
+    "usages": [
+      { "title": "① 世帯・家族全体", "desc": "同じ家に住む人々のまとまりを指す使い方。", "example_en": "The average household has three members.", "example_ja": "平均的な世帯は3人からなる。" },
+      { "title": "② 家庭の・家事の（形容詞）", "desc": "家庭用品や家事に関することを表す使い方。", "example_en": "She does most of the household chores.", "example_ja": "彼女が家事の大半をこなしている。" }
+    ],
+    "warn": ["a household name は「だれもが知っている（有名な）名前・人・物」。household は「世帯（住居と生計の単位）」で、family（血縁の家族）とは少し違います。household chores（家事）、household items（家庭用品）が頻出。"],
+    "etym_note": "house（家）+ hold（保つ、家の管理。household は「家を保つこと・家の一団」）から。「同じ家に住む一団＝世帯」の意味です。",
+    "etym_chain": [
+      { "node": "house + hold", "sub": "家 + 保つ", "era": "中英語" },
+      { "node": "household", "sub": "世帯", "era": "中英語" },
+      { "node": "household", "sub": "世帯・家庭の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a household name", "ja": "だれもが知る有名な名前" },
+      { "en": "household chores", "ja": "家事" },
+      { "en": "household items", "ja": "家庭用品" },
+      { "en": "household income", "ja": "世帯収入" },
+      { "en": "the head of the household", "ja": "世帯主" },
+      { "en": "a low-income household", "ja": "低所得世帯" }
+    ],
+    "related": [
+      { "en": "family", "ja": "家族" },
+      { "en": "home", "ja": "家・家庭" },
+      { "en": "domestic", "ja": "家庭の・国内の" },
+      { "en": "residence", "ja": "住居" }
+    ],
+    "faq": [
+      { "q": "a household name とは？", "a": "「だれもが知っている（有名な）名前・人・物」という意味です。The brand has become a household name.（そのブランドは誰もが知る名前になった）のように使います。" },
+      { "q": "household と family の違いは？", "a": "household は「世帯（同じ家に住み生計をともにする単位）」、family は「家族（血縁でつながる人々）」です。一人暮らしも1世帯（household）ですが、family とは限りません。" }
+    ],
+    "quiz": [
+      { "q": "household の意味として最も適切なものは？", "A": "世帯／家庭の", "B": "会社", "C": "学校", "D": "国", "correct": "A" },
+      { "q": "a household name の意味は？", "A": "だれもが知る有名な名前", "B": "家の住所", "C": "家族の姓", "D": "家の値段", "correct": "A" }
+    ]
+  },
+  {
+    "english": "humanoid",
+    "pron": "ˈhjuːmənɔɪd",
+    "kana": "ヒューマノイド",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "noun",
+    "ld_etym": "human(人間)+-oid(〜のような)",
+    "ld_level": "1級",
+    "badges": ["中学生〜", "英検1級", "CEFR C1", "科学・SF"],
+    "meaning_main": "人間型の（ロボット・生き物）／ヒューマノイド",
+    "description": "humanoid（ヒューマノイド）は「人間型の」という意味の形容詞・名詞。頭・胴・二本の腕と脚など、人間に似た姿・形をしたロボットや生き物を指します。SFやロボット工学でよく使われ、human（人間）+ -oid（〜のような）でできた語です。",
+    "keywords": ["humanoid 意味", "人間型 英語", "ヒューマノイド ロボット", "human 人間", "humanoid 使い方"],
+    "meanings": [
+      { "hinshi": "【形】人間型の、人間に似た", "note": "人間に似た姿・形の。a humanoid robot（人間型ロボット）" },
+      { "hinshi": "【名】人間型のもの（ロボット・生き物）", "note": "人間に似た存在。可算名詞" }
+    ],
+    "usages": [
+      { "title": "① 人間型のロボット", "desc": "人間に似た姿のロボットを表す使い方。", "example_en": "The company developed a humanoid robot.", "example_ja": "その会社は人間型ロボットを開発した。" },
+      { "title": "② 人間に似た存在（SF）", "desc": "人間に似た生き物・宇宙人などを表す使い方。", "example_en": "The alien had a humanoid form.", "example_ja": "その宇宙人は人間に似た姿をしていた。" }
+    ],
+    "warn": ["-oid は「〜のような・〜に似た」を表す接尾辞（android アンドロイド、asteroid 小惑星）。humanoid は「人間に似た姿の（ロボット・生き物）」。android は特に「人間そっくりのロボット」を指すことが多いです。"],
+    "etym_note": "human（人間、ラテン語 humanus）+ -oid（〜のような、〜に似た。ギリシャ語 -oeides から）から。「人間に似た（もの）」の意味です。android（男性型ロボット）と近い作りの語です。",
+    "etym_chain": [
+      { "node": "human + -oid", "sub": "人間 + 似た", "era": "近代英語" },
+      { "node": "humanoid", "sub": "人間型の", "era": "19世紀 英語" },
+      { "node": "humanoid", "sub": "人間型の・ヒューマノイド", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a humanoid robot", "ja": "人間型ロボット" },
+      { "en": "a humanoid figure", "ja": "人間型の姿" },
+      { "en": "humanoid form", "ja": "人間に似た形" },
+      { "en": "a humanoid creature", "ja": "人間型の生き物" },
+      { "en": "humanoid features", "ja": "人間のような特徴" },
+      { "en": "a lifelike humanoid", "ja": "生きているような人間型ロボット" }
+    ],
+    "related": [
+      { "en": "android", "ja": "アンドロイド（人間型ロボット）" },
+      { "en": "robot", "ja": "ロボット" },
+      { "en": "human", "ja": "人間" },
+      { "en": "cyborg", "ja": "サイボーグ" }
+    ],
+    "faq": [
+      { "q": "humanoid と android の違いは？", "a": "humanoid は「人間に似た姿の（ロボット・生き物）」全般、android は特に「人間そっくりに作られたロボット」を指すことが多いです。android は humanoid の一種と考えられます。" },
+      { "q": "-oid とはどんな意味？", "a": "「〜のような・〜に似た」を表す接尾辞です。humanoid（人間に似た）、asteroid（星に似た＝小惑星）、android（男性に似た）などに使われます。" }
+    ],
+    "quiz": [
+      { "q": "humanoid の意味として最も適切なものは？", "A": "人間型の、人間に似た", "B": "動物型の", "C": "植物型の", "D": "機械音のする", "correct": "A" },
+      { "q": "接尾辞 -oid が表す意味は？", "A": "〜のような・〜に似た", "B": "〜がない", "C": "〜より前の", "D": "〜の反対の", "correct": "A" }
+    ]
+  },
+  {
+    "english": "humerus",
+    "pron": "ˈhjuːmərəs",
+    "kana": "ヒューメラス",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 humerus(肩・上腕骨)",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "医学・身体"],
+    "meaning_main": "上腕骨（じょうわんこつ／肩からひじまでの腕の骨）",
+    "description": "humerus（ヒューメラス）は「上腕骨」という意味の名詞。肩からひじまでの、上腕にある1本の長い骨を指します。ひじから手首までの2本の骨（橈骨・尺骨）とつながって腕を構成します。複数形は humeri。同音の humorous（おかしい）と混同しやすい語です。",
+    "keywords": ["humerus 意味", "上腕骨 英語", "腕の骨 英語", "humerus 発音", "humerus 使い方"],
+    "meanings": [
+      { "hinshi": "【名】上腕骨", "note": "肩からひじまでの腕の骨。複数 humeri。可算名詞" }
+    ],
+    "usages": [
+      { "title": "① 上腕の骨", "desc": "肩からひじまでの腕の骨を指す使い方。", "example_en": "He fractured his humerus in the fall.", "example_ja": "彼は転倒で上腕骨を折った。" },
+      { "title": "② 解剖・医学の説明で", "desc": "腕の骨の構成を説明する使い方。", "example_en": "The humerus connects the shoulder to the elbow.", "example_ja": "上腕骨は肩とひじをつないでいる。" }
+    ],
+    "warn": ["同音の humorous（おかしい・ユーモアのある）と混同注意。humerus は「上腕骨（骨）」です。ひじから先の2本の骨は radius（橈骨）と ulna（尺骨）。ひじの内側の神経に触れると痛む場所を funny bone と呼ぶのは、humerus と humorous の言葉遊びからです。"],
+    "etym_note": "ラテン語 humerus / umerus（肩、上腕）に由来。もとは「肩」を指し、のちに「肩からひじまでの骨（上腕骨）」を意味するようになりました。",
+    "etym_chain": [
+      { "node": "humerus", "sub": "肩・上腕", "era": "ラテン語" },
+      { "node": "humerus", "sub": "上腕骨", "era": "近代医学ラテン語" },
+      { "node": "humerus", "sub": "上腕骨", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "fracture the humerus", "ja": "上腕骨を折る" },
+      { "en": "the head of the humerus", "ja": "上腕骨頭（肩側の端）" },
+      { "en": "the humerus bone", "ja": "上腕骨" },
+      { "en": "a broken humerus", "ja": "折れた上腕骨" },
+      { "en": "the upper arm humerus", "ja": "上腕の上腕骨" },
+      { "en": "injure the humerus", "ja": "上腕骨を痛める" }
+    ],
+    "related": [
+      { "en": "radius", "ja": "橈骨（前腕の骨）" },
+      { "en": "ulna", "ja": "尺骨（前腕の骨）" },
+      { "en": "bone", "ja": "骨" },
+      { "en": "elbow", "ja": "ひじ" }
+    ],
+    "faq": [
+      { "q": "humerus と humorous の違いは？", "a": "発音は似ていますが、humerus は「上腕骨（腕の骨）」、humorous は「おかしい・ユーモアのある」という形容詞です。つづりと意味が違うので混同注意です。" },
+      { "q": "humerus はどこの骨？", "a": "「上腕骨」で、肩からひじまでの上腕にある1本の長い骨です。ひじから先の橈骨（radius）・尺骨（ulna）とつながって腕を構成します。" }
+    ],
+    "quiz": [
+      { "q": "humerus の意味は？", "A": "上腕骨（肩からひじまでの骨）", "B": "背骨", "C": "頭の骨", "D": "あばら骨", "correct": "A" },
+      { "q": "humerus と混同しやすい「おかしい」を表す語は？", "A": "humorous", "B": "humble", "C": "humid", "D": "human", "correct": "A" }
+    ]
+  },
+  {
+    "english": "humiliate",
+    "pron": "hjuːˈmɪlieɪt",
+    "kana": "ヒューミリエイト",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "ラテン語 humilis(低い)",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "頻出"],
+    "meaning_main": "（人に）恥をかかせる／屈辱を与える・面目を失わせる",
+    "description": "humiliate（ヒューミリエイト）は「（人に）恥をかかせる」という意味の動詞。人前でみじめな思いをさせ、プライドや面目を傷つけることを指します。embarrass（気まずくさせる）より強く、深く傷つける屈辱を与えることを表す語です。",
+    "keywords": ["humiliate 意味", "恥をかかせる 英語", "屈辱 英語", "humiliation 名詞", "humiliate 使い方"],
+    "meanings": [
+      { "hinshi": "【動】（人に）恥をかかせる、屈辱を与える、面目を失わせる", "note": "人前でみじめにさせる。humiliate someone in public（人前で恥をかかせる）" }
+    ],
+    "usages": [
+      { "title": "① 恥をかかせる・屈辱を与える", "desc": "人前でみじめな思いをさせプライドを傷つけることを表す使い方。", "example_en": "He humiliated her in front of everyone.", "example_ja": "彼はみんなの前で彼女に恥をかかせた。" },
+      { "title": "② 面目を失わせる", "desc": "大敗などで面目を失わせることを表す使い方。", "example_en": "The team was humiliated by a huge defeat.", "example_ja": "そのチームは大敗して面目を失った。" }
+    ],
+    "warn": ["名詞は humiliation（屈辱）、形容詞は humiliating（屈辱的な）。embarrass（気まずくさせる）より強く、深く傷つける「屈辱を与える」の意味です。humble（謙虚な・へりくだる）と同語源（低い）です。"],
+    "etym_note": "ラテン語 humiliare（低くする、humilis 低い・へりくだった から）に由来。「（人を）低くする＝恥をかかせる」の意味です。humble（謙虚な）と同語根で、humus（土）にさかのぼります。",
+    "etym_chain": [
+      { "node": "humilis", "sub": "低い", "era": "ラテン語" },
+      { "node": "humiliare", "sub": "低くする", "era": "ラテン語" },
+      { "node": "humiliate", "sub": "恥をかかせる", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "humiliate someone", "ja": "人に恥をかかせる" },
+      { "en": "humiliate in public", "ja": "人前で恥をかかせる" },
+      { "en": "feel humiliated", "ja": "屈辱を感じる" },
+      { "en": "be publicly humiliated", "ja": "公然と恥をかかされる" },
+      { "en": "a humiliating defeat", "ja": "屈辱的な敗北" },
+      { "en": "humiliate oneself", "ja": "恥をかく・自ら恥をさらす" }
+    ],
+    "related": [
+      { "en": "humiliation", "ja": "屈辱（名詞）" },
+      { "en": "embarrass", "ja": "気まずくさせる" },
+      { "en": "shame", "ja": "恥をかかせる・恥" },
+      { "en": "humble", "ja": "謙虚な（同語根）" }
+    ],
+    "faq": [
+      { "q": "humiliate と embarrass の違いは？", "a": "embarrass は「（ちょっと）気まずくさせる・恥ずかしい思いをさせる」、humiliate は「（人前で深く）みじめにさせ屈辱を与える」という、より強く傷つける語です。" },
+      { "q": "humiliate の名詞・形容詞は？", "a": "名詞は humiliation（屈辱）、形容詞は humiliating（屈辱的な）です。a humiliating experience（屈辱的な経験）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "humiliate の意味として最も適切なものは？", "A": "（人に）恥をかかせる、屈辱を与える", "B": "ほめたたえる", "C": "励ます", "D": "手伝う", "correct": "A" },
+      { "q": "humiliate の名詞形は？", "A": "humiliation（屈辱）", "B": "humor（ユーモア）", "C": "humidity（湿度）", "D": "humility（謙虚さ）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "hunter",
+    "pron": "ˈhʌntər",
+    "kana": "ハンター",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "hunt(狩る)+-er",
+    "ld_level": "3級",
+    "badges": ["小学生〜", "英検3級", "CEFR A2", "頻出"],
+    "meaning_main": "狩人・猟師／狩りをする動物・人／（〜を）探し求める人",
+    "description": "hunter（ハンター）は「狩人・猟師」という意味の名詞。動物を狩る人や、獲物を追う動物を指します。比喩で「（あるものを）探し求める人」も表します（bargain hunter＝掘り出し物を探す人など）。動詞 hunt（狩る・探す）に -er が付いた語です。",
+    "keywords": ["hunter 意味", "狩人 英語", "猟師 英語", "hunt 狩る", "hunter 使い方"],
+    "meanings": [
+      { "hinshi": "【名】狩人、猟師", "note": "動物を狩る人。可算名詞" },
+      { "hinshi": "【名】狩りをする動物", "note": "獲物を追う動物。Lions are skilled hunters.（ライオンは狩りの名手）" },
+      { "hinshi": "【名】（〜を）探し求める人", "note": "a bargain hunter（掘り出し物を探す人）" }
+    ],
+    "usages": [
+      { "title": "① 動物を狩る人", "desc": "動物を狩る狩人・猟師を指す使い方。", "example_en": "The hunter tracked the deer through the forest.", "example_ja": "狩人は森の中で鹿を追跡した。" },
+      { "title": "② 探し求める人（比喩）", "desc": "あるものを探し求める人を表す使い方。", "example_en": "She's a bargain hunter.", "example_ja": "彼女は掘り出し物を探すのが好きだ。" }
+    ],
+    "warn": ["hunter は「狩人・猟師」だけでなく、獲物を追う「捕食動物」や、比喩で「（あるものを）探し求める人」も表します。a job hunter は「求職者」、a bargain hunter は「掘り出し物を探す人」。動詞は hunt（狩る・探す）。"],
+    "etym_note": "hunt（狩る、古英語 huntian）に、「〜する人」を表す -er が付いた語。「狩る人＝狩人」の意味です。",
+    "etym_chain": [
+      { "node": "huntian", "sub": "狩る", "era": "古英語" },
+      { "node": "hunt + -er", "sub": "狩る + 人", "era": "中英語" },
+      { "node": "hunter", "sub": "狩人・猟師", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a skilled hunter", "ja": "腕のよい狩人" },
+      { "en": "a bargain hunter", "ja": "掘り出し物を探す人" },
+      { "en": "a job hunter", "ja": "求職者" },
+      { "en": "a bounty hunter", "ja": "賞金稼ぎ" },
+      { "en": "hunters and gatherers", "ja": "狩猟採集民" },
+      { "en": "a fortune hunter", "ja": "玉の輿ねらいの人" }
+    ],
+    "related": [
+      { "en": "hunt", "ja": "狩る・探す" },
+      { "en": "prey", "ja": "獲物" },
+      { "en": "predator", "ja": "捕食者" },
+      { "en": "gatherer", "ja": "採集する人" }
+    ],
+    "faq": [
+      { "q": "hunter は人だけを指す？", "a": "いいえ。「狩人・猟師」のほか、獲物を追う「捕食動物」（Lions are hunters. ライオンは狩りをする動物）や、比喩で「（あるものを）探し求める人」（bargain hunter 掘り出し物を探す人）も指します。" },
+      { "q": "hunters and gatherers とは？", "a": "「狩猟採集民」です。農耕が始まる前、狩り（hunting）と採集（gathering）で食料を得ていた人々を指します。" }
+    ],
+    "quiz": [
+      { "q": "hunter の意味として最も適切なものは？", "A": "狩人・猟師（狩りをする人・動物）", "B": "農夫", "C": "漁師だけ", "D": "料理人", "correct": "A" },
+      { "q": "a bargain hunter の意味は？", "A": "掘り出し物を探す人", "B": "動物を狩る人", "C": "賞金稼ぎ", "D": "求職者", "correct": "A" }
+    ]
+  },
+  {
+    "english": "hurdle",
+    "pron": "ˈhɜːrdl",
+    "kana": "ハードル",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "noun",
+    "ld_etym": "古英語 hyrdel(編み垣)",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "スポーツ・比喩"],
+    "meaning_main": "ハードル（陸上で跳び越える障害）／（比喩）障害・困難",
+    "description": "hurdle（ハードル）は「ハードル」という意味の名詞。陸上競技で走りながら跳び越える障害物を指します。比喩で「（乗り越えるべき）障害・困難」も表します。動詞で「（ハードルを）跳び越える」の意味にもなる、スポーツと日常で使う語です。",
+    "keywords": ["hurdle 意味", "ハードル 英語", "障害 英語", "hurdle 困難", "hurdle 使い方"],
+    "meanings": [
+      { "hinshi": "【名】ハードル（陸上の障害）", "note": "走りながら跳び越える障害物。the 110m hurdles（110mハードル）。可算" },
+      { "hinshi": "【名】（比喩）障害、困難、乗り越えるべき壁", "note": "a major hurdle（大きな障害）" },
+      { "hinshi": "【動】（ハードルを）跳び越える", "note": "跳び越えて進む" }
+    ],
+    "usages": [
+      { "title": "① 陸上のハードル", "desc": "走りながら跳び越える障害物を指す使い方。", "example_en": "She knocked over the last hurdle.", "example_ja": "彼女は最後のハードルを倒した。" },
+      { "title": "② 障害・困難（比喩）", "desc": "乗り越えるべき困難を表す使い方。", "example_en": "Getting a visa was the biggest hurdle.", "example_ja": "ビザの取得が最大の障害だった。" }
+    ],
+    "warn": ["比喩で「（乗り越えるべき）障害・困難」の意味が頻出です。overcome/clear a hurdle は「障害を乗り越える」。obstacle（障害物）と近いですが、hurdle は「（努力して）乗り越える壁」というニュアンスがあります。"],
+    "etym_note": "古英語 hyrdel（編み垣、格子）に由来。もとは「（枝を編んだ）移動式の柵」を指し、それを競技で跳び越える障害物に使ったことから「ハードル」の意味になりました。",
+    "etym_chain": [
+      { "node": "hyrdel", "sub": "編み垣", "era": "古英語" },
+      { "node": "hurdle", "sub": "柵・ハードル", "era": "中英語" },
+      { "node": "hurdle", "sub": "ハードル・障害", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "clear a hurdle", "ja": "ハードルを跳び越える・障害を乗り越える" },
+      { "en": "overcome a hurdle", "ja": "障害を乗り越える" },
+      { "en": "a major hurdle", "ja": "大きな障害" },
+      { "en": "the final hurdle", "ja": "最後の障害" },
+      { "en": "the 100m hurdles", "ja": "100メートルハードル" },
+      { "en": "the first hurdle", "ja": "最初の障害" }
+    ],
+    "related": [
+      { "en": "obstacle", "ja": "障害物" },
+      { "en": "barrier", "ja": "障壁" },
+      { "en": "challenge", "ja": "難題・課題" },
+      { "en": "difficulty", "ja": "困難" }
+    ],
+    "faq": [
+      { "q": "hurdle の比喩的な意味は？", "a": "「（乗り越えるべき）障害・困難・壁」です。clear/overcome a hurdle で「障害を乗り越える」を表します。目標達成の途中にある困難を、跳び越えるハードルにたとえた表現です。" },
+      { "q": "hurdle と obstacle の違いは？", "a": "どちらも「障害」ですが、hurdle は「（努力して）跳び越える・乗り越える壁」というニュアンス、obstacle は「進行を妨げる障害物」全般です。" }
+    ],
+    "quiz": [
+      { "q": "hurdle の意味として最も適切なものは？", "A": "ハードル／（乗り越えるべき）障害・困難", "B": "ゴール", "C": "休憩所", "D": "応援席", "correct": "A" },
+      { "q": "clear a hurdle の意味は？", "A": "障害を乗り越える", "B": "障害を作る", "C": "立ち止まる", "D": "あきらめる", "correct": "A" }
+    ]
+  },
+  {
+    "english": "hurl",
+    "pron": "hɜːrl",
+    "kana": "ハール",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "中英語 hurlen(投げつける)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "描写語"],
+    "meaning_main": "（〜を）力いっぱい投げつける／（悪口などを）浴びせる",
+    "description": "hurl（ハール）は「（〜を）力いっぱい投げつける」という意味の動詞。ものを勢いよく激しく投げることを指します。また hurl abuse/insults（悪口・ののしりを浴びせる）のように、言葉を激しく投げつける意味でも使われます。throw より激しいニュアンスの語です。",
+    "keywords": ["hurl 意味", "投げつける 英語", "hurl abuse", "throw 違い", "hurl 使い方"],
+    "meanings": [
+      { "hinshi": "【動】（〜を）力いっぱい投げつける、ほうり投げる", "note": "勢いよく激しく投げる。hurl a rock（石を投げつける）" },
+      { "hinshi": "【動】（悪口・非難を）浴びせる", "note": "hurl insults（ののしりを浴びせる）" }
+    ],
+    "usages": [
+      { "title": "① 力いっぱい投げつける", "desc": "ものを勢いよく激しく投げることを表す使い方。", "example_en": "He hurled the ball against the wall.", "example_ja": "彼はボールを壁に力いっぱい投げつけた。" },
+      { "title": "② 悪口を浴びせる", "desc": "hurl abuse/insults で「ののしりを浴びせる」を表す使い方。", "example_en": "The crowd hurled insults at the referee.", "example_ja": "観衆は審判にののしりを浴びせた。" }
+    ],
+    "warn": ["throw（投げる）より激しく「力いっぱい・勢いよく投げつける」ニュアンス。hurl abuse/insults at ~（〜にののしりを浴びせる）は頻出。(口語で hurl には「吐く・もどす」の意味もあります。)"],
+    "etym_note": "中英語 hurlen（投げつける、激しく動かす）に由来する擬音的な語。「勢いよく投げる・突き動かす」の意味です。",
+    "etym_chain": [
+      { "node": "hurlen", "sub": "投げつける", "era": "中英語" },
+      { "node": "hurl", "sub": "投げつける", "era": "近代英語" },
+      { "node": "hurl", "sub": "投げつける・浴びせる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "hurl a rock", "ja": "石を投げつける" },
+      { "en": "hurl insults", "ja": "ののしりを浴びせる" },
+      { "en": "hurl abuse at", "ja": "〜に悪口を浴びせる" },
+      { "en": "hurl himself", "ja": "身を投げ出す" },
+      { "en": "hurl into", "ja": "〜に投げ込む" },
+      { "en": "hurl accusations", "ja": "非難を浴びせる" }
+    ],
+    "related": [
+      { "en": "throw", "ja": "投げる" },
+      { "en": "fling", "ja": "ほうり投げる" },
+      { "en": "toss", "ja": "軽く投げる" },
+      { "en": "launch", "ja": "打ち出す・投げ出す" }
+    ],
+    "faq": [
+      { "q": "hurl と throw の違いは？", "a": "どちらも「投げる」ですが、hurl は「力いっぱい・勢いよく激しく投げつける」というより強いニュアンスです。throw はより一般的です。" },
+      { "q": "hurl insults とは？", "a": "「ののしり・悪口を浴びせる」という意味です。言葉を激しく投げつけるイメージで、hurl abuse at ~（〜に暴言を浴びせる）とも言います。" }
+    ],
+    "quiz": [
+      { "q": "hurl の意味として最も適切なものは？", "A": "（〜を）力いっぱい投げつける", "B": "そっと置く", "C": "拾い上げる", "D": "隠す", "correct": "A" },
+      { "q": "hurl insults の意味は？", "A": "ののしりを浴びせる", "B": "ほめる", "C": "静かにする", "D": "謝る", "correct": "A" }
+    ]
+  },
+  {
+    "english": "hype",
+    "pron": "haɪp",
+    "kana": "ハイプ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "noun",
+    "ld_etym": "20世紀の口語（hyperbole の短縮説）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "メディア・口語"],
+    "meaning_main": "（大げさな）宣伝・あおり／誇大な話題／（〜を）派手に宣伝する",
+    "description": "hype（ハイプ）は「（大げさな）宣伝・あおり」という意味の名詞。実際以上によく見せようと大々的に宣伝し、話題や期待をあおることを指します。動詞で「派手に宣伝する・あおる」の意味にもなります。しばしば「中身が伴わない誇大宣伝」を批判的に表します。",
+    "keywords": ["hype 意味", "誇大宣伝 英語", "あおり 英語", "hype up", "hype 使い方"],
+    "meanings": [
+      { "hinshi": "【名】（大げさな）宣伝、あおり、誇大な話題", "note": "実際以上に期待をあおる宣伝。media hype（メディアのあおり）。不可算" },
+      { "hinshi": "【動】（〜を）派手に宣伝する、あおる", "note": "hype up（大げさに盛り上げる）" }
+    ],
+    "usages": [
+      { "title": "① 大げさな宣伝・あおり", "desc": "実際以上に期待をあおる宣伝を指す使い方。", "example_en": "The new phone got a lot of hype.", "example_ja": "その新しいスマホは大いに話題になった（あおられた）。" },
+      { "title": "② 派手に宣伝する（動詞）", "desc": "hype up で「大げさに盛り上げる・あおる」を表す使い方。", "example_en": "The movie was hyped up before its release.", "example_ja": "その映画は公開前に大々的に宣伝された。" }
+    ],
+    "warn": ["hype はしばしば「中身が伴わない誇大宣伝・過剰なあおり」という批判的な含みで使われます。live up to the hype は「前評判どおりだ・期待を裏切らない」。hype up は「（気分・期待を）盛り上げる・あおる」。"],
+    "etym_note": "20世紀のアメリカ口語で、hyperbole（誇張）や hyperactive（過度の）の hyper- を短縮したものとされます（諸説あり）。「大げさに騒ぎ立てること」を意味します。",
+    "etym_chain": [
+      { "node": "hyper- / hyperbole", "sub": "過度の・誇張", "era": "ギリシャ語要素" },
+      { "node": "hype", "sub": "誇大宣伝", "era": "20世紀 米口語" },
+      { "node": "hype", "sub": "誇大宣伝・あおる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "media hype", "ja": "メディアのあおり" },
+      { "en": "live up to the hype", "ja": "前評判どおりだ" },
+      { "en": "hype up", "ja": "大げさに盛り上げる" },
+      { "en": "all the hype", "ja": "大騒ぎ・過剰な期待" },
+      { "en": "believe the hype", "ja": "誇大宣伝を信じる" },
+      { "en": "a lot of hype", "ja": "多くの話題・あおり" }
+    ],
+    "related": [
+      { "en": "publicity", "ja": "宣伝・広報" },
+      { "en": "exaggeration", "ja": "誇張" },
+      { "en": "buzz", "ja": "うわさ・話題" },
+      { "en": "promotion", "ja": "販促・宣伝" }
+    ],
+    "faq": [
+      { "q": "live up to the hype とは？", "a": "「前評判どおりである・期待を裏切らない」という意味です。The movie lived up to the hype.（その映画は前評判どおりだった）のように使います。" },
+      { "q": "hype は良い意味？悪い意味？", "a": "しばしば「中身が伴わない誇大宣伝・過剰なあおり」という批判的な含みで使われます。ただ「大きな話題・盛り上がり」を中立的に表すこともあります。" }
+    ],
+    "quiz": [
+      { "q": "hype の意味として最も適切なものは？", "A": "（大げさな）宣伝・あおり", "B": "静かな沈黙", "C": "正確な報告", "D": "秘密", "correct": "A" },
+      { "q": "live up to the hype の意味は？", "A": "前評判どおりだ・期待を裏切らない", "B": "期待外れだ", "C": "宣伝をやめる", "D": "うわさを消す", "correct": "A" }
+    ]
+  },
+  {
+    "english": "iamb",
+    "pron": "ˈaɪæmb",
+    "kana": "アイアム",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ギリシャ語 iambos(弱強の詩脚)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文学・詩"],
+    "meaning_main": "弱強格（詩の韻律で、弱い音節+強い音節のひとまとまり）",
+    "description": "iamb（アイアム）は「弱強格（じゃくきょうかく）」という意味の名詞。英語の詩の韻律（リズム）で、「弱い音節＋強い音節」の順に並ぶ2音節のまとまりを指します。英詩で最も一般的なリズムで、シェイクスピアの詩に多い iambic pentameter（弱強五歩格）の基本単位です。",
+    "keywords": ["iamb 意味", "弱強格 英語", "詩 韻律 英語", "iambic pentameter", "iamb 使い方"],
+    "meanings": [
+      { "hinshi": "【名】弱強格、弱強の詩脚（しきゃく）", "note": "弱い音節+強い音節のまとまり。形容詞 iambic。可算名詞" }
+    ],
+    "usages": [
+      { "title": "① 詩のリズムの単位", "desc": "弱い音節と強い音節のまとまりを指す使い方。", "example_en": "The word \"begin\" is an iamb.", "example_ja": "\"begin\"（ビ・ギン）は弱強格の一例だ。" },
+      { "title": "② 詩の分析で", "desc": "iambic pentameter（弱強五歩格）などの説明で使う。", "example_en": "Shakespeare often wrote in iambs.", "example_ja": "シェイクスピアはよく弱強格で書いた。" }
+    ],
+    "warn": ["iamb（弱強格）は「弱＋強（daDUM）」の2音節のリズム。形容詞は iambic。iambic pentameter（弱強五歩格）は、この弱強を1行に5つ並べた形で、英詩・シェイクスピアの基本リズムです。反対の並びは trochee（強弱格）。"],
+    "etym_note": "ギリシャ語 iambos（弱強の詩脚。もとは風刺詩に使われた韻律）に由来。古代ギリシャの詩の韻律の一つで、英語の詩にも受け継がれました。",
+    "etym_chain": [
+      { "node": "iambos", "sub": "弱強の詩脚", "era": "ギリシャ語" },
+      { "node": "iambus", "sub": "弱強格", "era": "ラテン語" },
+      { "node": "iamb", "sub": "弱強格", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "an iamb", "ja": "弱強格1つ" },
+      { "en": "iambic pentameter", "ja": "弱強五歩格" },
+      { "en": "iambic rhythm", "ja": "弱強のリズム" },
+      { "en": "write in iambs", "ja": "弱強格で書く" },
+      { "en": "an iambic line", "ja": "弱強格の詩行" },
+      { "en": "stressed and unstressed", "ja": "強音節と弱音節" }
+    ],
+    "related": [
+      { "en": "iambic", "ja": "弱強格の（形容詞）" },
+      { "en": "trochee", "ja": "強弱格" },
+      { "en": "meter", "ja": "韻律・拍子" },
+      { "en": "syllable", "ja": "音節" }
+    ],
+    "faq": [
+      { "q": "iamb（弱強格）とは？", "a": "英語の詩の韻律で、「弱い音節＋強い音節」の順に並ぶ2音節のまとまりです。\"begin\"（ビ・ギン）のように、後ろを強く読むリズムです。英詩で最も一般的です。" },
+      { "q": "iambic pentameter とは？", "a": "「弱強五歩格」です。弱強格（iamb）を1行に5つ並べた韻律で、シェイクスピアの戯曲やソネットの基本リズムとして知られます。" }
+    ],
+    "quiz": [
+      { "q": "iamb の意味は？", "A": "弱強格（弱い音節+強い音節のまとまり）", "B": "強弱の逆", "C": "詩の題名", "D": "詩の作者", "correct": "A" },
+      { "q": "iamb を5つ並べた韻律の名は？", "A": "iambic pentameter（弱強五歩格）", "B": "haiku（俳句）", "C": "sonnet（ソネット）だけ", "D": "prose（散文）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "idealize",
+    "pron": "aɪˈdiːəlaɪz",
+    "kana": "アイディアライズ",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "ideal(理想の)+-ize",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "頻出"],
+    "meaning_main": "（実際以上に）理想化する／美化する・理想的に考える",
+    "description": "idealize（アイディアライズ）は「（実際以上に）理想化する」という意味の動詞。人や物事を、欠点を無視して実際より完璧・すばらしいものとして思い描くことを指します。過去や恋人などを美化してとらえる場面でよく使われます。イギリス式つづりは idealise。",
+    "keywords": ["idealize 意味", "理想化 英語", "美化 英語", "ideal 理想", "idealize 使い方"],
+    "meanings": [
+      { "hinshi": "【動】（実際以上に）理想化する、美化する", "note": "欠点を無視して完璧に思い描く。idealize the past（過去を美化する）" }
+    ],
+    "usages": [
+      { "title": "① 理想化する・美化する", "desc": "実際より完璧・すばらしいものとして思い描くことを表す使い方。", "example_en": "People often idealize their childhood.", "example_ja": "人はよく自分の子ども時代を美化する。" },
+      { "title": "② 人を理想化する", "desc": "恋人や有名人などを実際以上によく見ることを表す使い方。", "example_en": "She idealized her boyfriend at first.", "example_ja": "彼女は最初、恋人を理想化していた。" }
+    ],
+    "warn": ["idealize は「（欠点を無視して）実際以上によく思い描く」で、しばしば「現実を見ていない」という含みがあります。名詞は idealization（理想化）、形容詞 ideal（理想的な）。イギリス式は idealise。"],
+    "etym_note": "ideal（理想の、理想的な。ギリシャ語 idea 形・観念 から）に、動詞をつくる -ize が付いた語。「理想的なものにする＝理想化する」の意味です。idea, ideal と同語根です。",
+    "etym_chain": [
+      { "node": "idea", "sub": "形・観念", "era": "ギリシャ語" },
+      { "node": "ideal", "sub": "理想の", "era": "近代英語" },
+      { "node": "idealize", "sub": "理想化する", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "idealize the past", "ja": "過去を美化する" },
+      { "en": "idealize someone", "ja": "人を理想化する" },
+      { "en": "tend to idealize", "ja": "理想化しがちだ" },
+      { "en": "an idealized image", "ja": "理想化されたイメージ" },
+      { "en": "idealize love", "ja": "愛を理想化する" },
+      { "en": "an idealized version", "ja": "美化された姿" }
+    ],
+    "related": [
+      { "en": "ideal", "ja": "理想の・理想" },
+      { "en": "idealization", "ja": "理想化（名詞）" },
+      { "en": "romanticize", "ja": "美化する・ロマンチックに描く" },
+      { "en": "glorify", "ja": "美化する・たたえる" }
+    ],
+    "faq": [
+      { "q": "idealize と romanticize の違いは？", "a": "どちらも「実際以上によく描く」ですが、idealize は「（欠点を無視して）理想的・完璧に思い描く」、romanticize は「（現実より）ロマンチックで魅力的に美化する」ニュアンスです。近い意味です。" },
+      { "q": "idealize の名詞形は？", "a": "idealization（理想化）です。an idealization of the past（過去の理想化）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "idealize の意味として最も適切なものは？", "A": "（実際以上に）理想化する、美化する", "B": "けなす・見下す", "C": "正確に測る", "D": "破壊する", "correct": "A" },
+      { "q": "idealize the past の意味は？", "A": "過去を（実際以上に）美化する", "B": "過去を忘れる", "C": "過去を記録する", "D": "過去を後悔する", "correct": "A" }
+    ]
+  },
+  {
+    "english": "illegible",
+    "pron": "ɪˈledʒəbl",
+    "kana": "イレジブル",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "il-(否定)+legible(読める)",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "頻出"],
+    "meaning_main": "（字などが）読みにくい／判読できない・読めない",
+    "description": "illegible（イレジブル）は「（字などが）読みにくい・判読できない」という意味の形容詞。字が乱れていたり、かすれていたりして読めない状態を表します。legible（読める・判読できる）に否定の il- が付いた反対語です。字の状態について使う語です。",
+    "keywords": ["illegible 意味", "読めない 英語", "判読できない 英語", "legible 反対", "illegible 使い方"],
+    "meanings": [
+      { "hinshi": "【形】（字などが）読みにくい、判読できない、読めない", "note": "字が乱れ・かすれて読めない。illegible handwriting（読めない字）" }
+    ],
+    "usages": [
+      { "title": "① 読めない字", "desc": "字が乱れて判読できない状態を表す使い方。", "example_en": "His handwriting is almost illegible.", "example_ja": "彼の字はほとんど判読できない。" },
+      { "title": "② かすれ・にじみで読めない", "desc": "印刷や文字がかすれて読めないことを表す使い方。", "example_en": "The old document was faded and illegible.", "example_ja": "その古い文書は色あせて読めなかった。" }
+    ],
+    "warn": ["illegible は「（字が乱れて・かすれて）読めない」。反対は legible（読める・判読できる）。「（内容が難しくて）理解できない」は unintelligible / incomprehensible を使います。illegible は文字の見た目の読みにくさを指します。"],
+    "etym_note": "il-（否定、in- の変形）+ legible（読める。ラテン語 legere 読む から）から。「読めない」の意味です。legible, legend, lecture と同語根（読む）です。",
+    "etym_chain": [
+      { "node": "legere", "sub": "読む", "era": "ラテン語" },
+      { "node": "legible", "sub": "読める", "era": "近代英語" },
+      { "node": "illegible", "sub": "読めない", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "illegible handwriting", "ja": "読めない字" },
+      { "en": "almost illegible", "ja": "ほとんど判読できない" },
+      { "en": "an illegible signature", "ja": "判読できない署名" },
+      { "en": "faded and illegible", "ja": "色あせて読めない" },
+      { "en": "become illegible", "ja": "読めなくなる" },
+      { "en": "an illegible scrawl", "ja": "読めない走り書き" }
+    ],
+    "related": [
+      { "en": "legible", "ja": "読める（反対語）" },
+      { "en": "unreadable", "ja": "読めない" },
+      { "en": "unintelligible", "ja": "（意味が）理解できない" },
+      { "en": "scrawl", "ja": "走り書き" }
+    ],
+    "faq": [
+      { "q": "illegible の反対語は？", "a": "legible（読める・判読できる）です。illegible は「字が乱れて読めない」、legible は「はっきりしていて読める」を表します。" },
+      { "q": "illegible と unintelligible の違いは？", "a": "illegible は「（字の見た目が）読めない・判読できない」、unintelligible は「（内容・意味が）理解できない」です。illegible は文字の読みにくさを指します。" }
+    ],
+    "quiz": [
+      { "q": "illegible の意味として最も適切なものは？", "A": "（字が）読みにくい、判読できない", "B": "とても読みやすい", "C": "大きな字の", "D": "美しい字の", "correct": "A" },
+      { "q": "illegible の反対の意味を持つ語は？", "A": "legible（読める）", "B": "unreadable（読めない）", "C": "unintelligible（理解できない）", "D": "invisible（見えない）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "illiterate",
+    "pron": "ɪˈlɪtərət",
+    "kana": "イリテレット",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "il-(否定)+literate(読み書きできる)",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "社会・教育"],
+    "meaning_main": "読み書きができない／文字を知らない／（ある分野に）無知の",
+    "description": "illiterate（イリテレット）は「読み書きができない」という意味の形容詞。文字の読み書きを習っていない、またはできない状態を表します。literate（読み書きできる）に否定の il- が付いた反対語です。比喩で「（ある分野に）知識のない」の意味でも使われます。",
+    "keywords": ["illiterate 意味", "読み書きできない 英語", "非識字 英語", "literate 反対", "illiterate 使い方"],
+    "meanings": [
+      { "hinshi": "【形】読み書きができない、文字を知らない", "note": "文字の読み書きができない。illiteracy（非識字）。" },
+      { "hinshi": "【形】（ある分野に）無知の、知識のない", "note": "computer illiterate（コンピューターに不慣れな）" }
+    ],
+    "usages": [
+      { "title": "① 読み書きができない", "desc": "文字の読み書きを習っていない状態を表す使い方。", "example_en": "Many adults in the region are illiterate.", "example_ja": "その地域では多くの大人が読み書きできない。" },
+      { "title": "② ある分野に無知（比喩）", "desc": "computer illiterate（コンピューターに不慣れ）のように使う。", "example_en": "He admitted he was computer illiterate.", "example_ja": "彼は自分がコンピューターに不慣れだと認めた。" }
+    ],
+    "warn": ["illiterate は「読み書きができない」で、人の能力について使うため配慮が必要な語です。反対は literate（読み書きできる）。名詞は illiteracy（非識字）。computer illiterate は「コンピューターに不慣れな」の比喩です。"],
+    "etym_note": "il-（否定）+ literate（読み書きできる。ラテン語 littera 文字 から）から。「文字を知らない＝読み書きができない」の意味です。literature（文学）、literal（文字どおりの）と同語根です。",
+    "etym_chain": [
+      { "node": "littera", "sub": "文字", "era": "ラテン語" },
+      { "node": "literate", "sub": "読み書きできる", "era": "中英語" },
+      { "node": "illiterate", "sub": "読み書きできない", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "functionally illiterate", "ja": "実質的に読み書きできない" },
+      { "en": "computer illiterate", "ja": "コンピューターに不慣れな" },
+      { "en": "illiterate adults", "ja": "読み書きできない大人" },
+      { "en": "remain illiterate", "ja": "読み書きできないままだ" },
+      { "en": "the illiterate", "ja": "読み書きのできない人々" },
+      { "en": "largely illiterate", "ja": "大半が非識字の" }
+    ],
+    "related": [
+      { "en": "literate", "ja": "読み書きできる（反対語）" },
+      { "en": "illiteracy", "ja": "非識字（名詞）" },
+      { "en": "education", "ja": "教育" },
+      { "en": "literacy", "ja": "識字・読み書き能力" }
+    ],
+    "faq": [
+      { "q": "illiterate の反対語は？", "a": "literate（読み書きできる）です。illiterate は「読み書きができない」、literate は「読み書きできる」を表します。名詞は illiteracy（非識字）／ literacy（識字）です。" },
+      { "q": "computer illiterate とは？", "a": "「コンピューターに不慣れな・使いこなせない」という意味です。illiterate を「（ある分野に）知識がない」という比喩で使った表現です。" }
+    ],
+    "quiz": [
+      { "q": "illiterate の意味として最も適切なものは？", "A": "読み書きができない", "B": "とても博識な", "C": "話し上手な", "D": "計算が得意な", "correct": "A" },
+      { "q": "illiterate の反対の意味を持つ語は？", "A": "literate（読み書きできる）", "B": "illegible（読めない）", "C": "literature（文学）", "D": "literal（文字どおりの）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "imaginary",
+    "pron": "ɪˈmædʒɪneri",
+    "kana": "イマジナリー",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "ラテン語 imaginari(思い描く)",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出"],
+    "meaning_main": "想像上の／実在しない／架空の（心の中だけの）",
+    "description": "imaginary（イマジナリー）は「想像上の／実在しない」という意味の形容詞。心の中で思い描いただけで、実際には存在しないものを表します。an imaginary friend（空想上の友達）のように使われます。動詞 imagine（想像する）の形容詞形の一つです。",
+    "keywords": ["imaginary 意味", "想像上 英語", "架空 英語", "imaginative 違い", "imaginary 使い方"],
+    "meanings": [
+      { "hinshi": "【形】想像上の、実在しない、架空の", "note": "心の中だけで実在しない。an imaginary friend（空想上の友達）" }
+    ],
+    "usages": [
+      { "title": "① 想像上の・実在しない", "desc": "心の中だけで実際には存在しないものを表す使い方。", "example_en": "The child has an imaginary friend.", "example_ja": "その子には空想上の友達がいる。" },
+      { "title": "② 架空の線・境界など", "desc": "実際には引かれていない想像上の線などを表す使い方。", "example_en": "The equator is an imaginary line.", "example_ja": "赤道は想像上の（架空の）線だ。" }
+    ],
+    "warn": ["imaginary（想像上の・実在しない）と imaginative（想像力豊かな）、imaginable（想像できる）を区別。imaginary は「実在しない（もの）」、imaginative は「（人が）想像力に富む」。数学の虚数は imaginary number。"],
+    "etym_note": "ラテン語 imaginarius（想像上の。imago 像・イメージ から）に由来。「心に思い描いた＝実在しない・想像上の」の意味です。image, imagine と同語根です。",
+    "etym_chain": [
+      { "node": "imago", "sub": "像・イメージ", "era": "ラテン語" },
+      { "node": "imaginarius", "sub": "想像上の", "era": "ラテン語" },
+      { "node": "imaginary", "sub": "想像上の", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "an imaginary friend", "ja": "空想上の友達" },
+      { "en": "an imaginary line", "ja": "想像上の線" },
+      { "en": "an imaginary world", "ja": "架空の世界" },
+      { "en": "an imaginary number", "ja": "虚数" },
+      { "en": "purely imaginary", "ja": "まったく想像上の" },
+      { "en": "an imaginary fear", "ja": "実体のない恐れ" }
+    ],
+    "related": [
+      { "en": "imagine", "ja": "想像する" },
+      { "en": "imaginative", "ja": "想像力豊かな" },
+      { "en": "fictional", "ja": "架空の・作り話の" },
+      { "en": "real", "ja": "実在の（反対語）" }
+    ],
+    "faq": [
+      { "q": "imaginary と imaginative の違いは？", "a": "imaginary は「想像上の・実在しない（もの）」、imaginative は「（人が）想像力豊かな・創造的な」です。an imaginary friend（空想上の友達）／ an imaginative child（想像力豊かな子）のように使い分けます。" },
+      { "q": "an imaginary number とは？", "a": "数学の「虚数」です。2乗するとマイナスになる数（i を使う数）で、実在しない想像上の数という意味からこう呼ばれます。" }
+    ],
+    "quiz": [
+      { "q": "imaginary の意味として最も適切なものは？", "A": "想像上の、実在しない", "B": "実在する", "C": "巨大な", "D": "危険な", "correct": "A" },
+      { "q": "imaginary と混同しやすい「想像力豊かな」を表す語は？", "A": "imaginative", "B": "imaginable", "C": "imagined", "D": "imaging", "correct": "A" }
+    ]
+  },
+  {
+    "english": "imminent",
+    "pron": "ˈɪmɪnənt",
+    "kana": "イミネント",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "ラテン語 imminere(差し迫る)",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "頻出"],
+    "meaning_main": "（危険・出来事が）差し迫った／今にも起こりそうな",
+    "description": "imminent（イミネント）は「（危険・出来事が）差し迫った」という意味の形容詞。よくないことが今にも起ころうとしている、切迫した状態を表します。特に危険・脅威・災害などが近づいていることに使われる、緊張感のある語です。",
+    "keywords": ["imminent 意味", "差し迫った 英語", "今にも 英語", "imminent danger", "imminent 使い方"],
+    "meanings": [
+      { "hinshi": "【形】（危険・出来事が）差し迫った、今にも起こりそうな", "note": "切迫している。imminent danger（差し迫った危険）" }
+    ],
+    "usages": [
+      { "title": "① 差し迫った危険・脅威", "desc": "よくないことが今にも起こりそうな状態を表す使い方。", "example_en": "The town was in imminent danger of flooding.", "example_ja": "その町は今にも洪水になる危険にあった。" },
+      { "title": "② 出来事が切迫している", "desc": "重大な出来事がすぐに起こりそうなことを表す使い方。", "example_en": "War seemed imminent.", "example_ja": "戦争は差し迫っているように見えた。" }
+    ],
+    "warn": ["imminent は主に「（よくないこと・危険が）差し迫った」に使います。似た eminent（著名な・優れた）、immanent（内在する）とつづり・意味が違うので混同注意。imminent danger/threat（差し迫った危険・脅威）が頻出。"],
+    "etym_note": "ラテン語 imminere（in- 上に + minere 突き出る＝上に覆いかぶさる・差し迫る）に由来。「（上から）今にも迫っている」の意味です。",
+    "etym_chain": [
+      { "node": "imminere", "sub": "差し迫る", "era": "ラテン語" },
+      { "node": "imminent", "sub": "差し迫った", "era": "近代英語" },
+      { "node": "imminent", "sub": "差し迫った", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "imminent danger", "ja": "差し迫った危険" },
+      { "en": "an imminent threat", "ja": "差し迫った脅威" },
+      { "en": "imminent collapse", "ja": "今にも崩れそうな状態" },
+      { "en": "seem imminent", "ja": "差し迫っているように見える" },
+      { "en": "an imminent attack", "ja": "差し迫った攻撃" },
+      { "en": "in imminent danger of", "ja": "今にも〜の危険にある" }
+    ],
+    "related": [
+      { "en": "impending", "ja": "差し迫った・切迫した" },
+      { "en": "looming", "ja": "（不気味に）迫りくる" },
+      { "en": "approaching", "ja": "近づいている" },
+      { "en": "eminent", "ja": "著名な（別語）" }
+    ],
+    "faq": [
+      { "q": "imminent と eminent の違いは？", "a": "つづりが似ていますが別の語です。imminent は「（危険などが）差し迫った」、eminent は「著名な・優れた」です。混同注意です。" },
+      { "q": "imminent と impending の違いは？", "a": "どちらも「差し迫った」ですが、ほぼ同義で使えます。impending もよくないことが近づいている意味でよく使われます。" }
+    ],
+    "quiz": [
+      { "q": "imminent の意味として最も適切なものは？", "A": "（危険などが）差し迫った、今にも起こりそうな", "B": "遠い先の", "C": "終わった", "D": "安全な", "correct": "A" },
+      { "q": "imminent と混同しやすい「著名な」を表す語は？", "A": "eminent", "B": "immanent", "C": "imminent とは無関係の imitate", "D": "immense", "correct": "A" }
+    ]
+  }
+]
