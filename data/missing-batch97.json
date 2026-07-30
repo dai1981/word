@@ -1,0 +1,995 @@
+[
+  {
+    "english": "burette",
+    "pron": "bjʊˈret",
+    "kana": "ビュレット",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 burette（小さな水差し）から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "化学・器具"],
+    "meaning_main": "ビュレット(液量を測る細長い実験器具)",
+    "description": "burette の意味・発音・使い方。滴定などで液体を少しずつ正確に注ぐ実験器具「ビュレット」を表す化学用語。用途や語源を例文とともに解説します。",
+    "keywords": ["burette 意味", "burette 使い方", "burette 発音", "ビュレット 意味"],
+    "meanings": [
+      { "hinshi": "【名】ビュレット", "note": "目盛りとコックの付いた細長いガラス管。滴定で液体を少しずつ正確に加える。可算。米つづり buret" }
+    ],
+    "usages": [
+      { "title": "① 化学の「ビュレット」", "desc": "液量を測って注ぐ器具。", "example_en": "Fill the burette with the acid solution.", "example_ja": "ビュレットに酸の溶液を入れなさい。" },
+      { "title": "② 滴定で", "desc": "少しずつ滴下する。", "example_en": "Read the burette to measure the volume used.", "example_ja": "使った量を測るためビュレットの目盛りを読みなさい。" }
+    ],
+    "warn": ["滴定(titration)で使う。ピペット(pipette)は決まった量を取る器具で、ビュレットは注いだ量を測る点が違う。"],
+    "etym_note": "フランス語 burette（小さな水差し。buire「壺」から)に由来します。",
+    "etym_chain": [
+      { "node": "buire", "sub": "壺", "era": "古フランス語" },
+      { "node": "burette", "sub": "小さな水差し", "era": "フランス語" },
+      { "node": "burette", "sub": "ビュレット", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "fill the burette", "ja": "ビュレットに満たす" },
+      { "en": "read the burette", "ja": "ビュレットの目盛りを読む" },
+      { "en": "a burette clamp", "ja": "ビュレット挟み" },
+      { "en": "the burette tap", "ja": "ビュレットのコック" },
+      { "en": "a 50 mL burette", "ja": "50mLのビュレット" },
+      { "en": "titrate with a burette", "ja": "ビュレットで滴定する" }
+    ],
+    "related": [
+      { "en": "pipette", "ja": "ピペット" },
+      { "en": "titration", "ja": "滴定" },
+      { "en": "flask", "ja": "フラスコ" },
+      { "en": "beaker", "ja": "ビーカー" }
+    ],
+    "faq": [
+      { "q": "burette と pipette の違いは？", "a": "burette は目盛りとコックで『注いだ量を測りながら少しずつ加える』器具、pipette は『決まった量を正確に取る』器具です。" },
+      { "q": "何に使いますか？", "a": "主に滴定(titration)で、反応が完了するまで液体を少しずつ加え、その量を測るのに使います。" }
+    ],
+    "quiz": [
+      { "q": "burette とは？", "A": "液量を測る実験器具", "B": "温度計", "C": "顕微鏡", "D": "はかり", "correct": "A" },
+      { "q": "burette がよく使われるのは？", "A": "滴定", "B": "料理", "C": "掃除", "D": "洗濯", "correct": "A" }
+    ]
+  },
+  {
+    "english": "burglary",
+    "pron": "ˈbɜːɡləri",
+    "kana": "バーグラリー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "中世ラテン語 burglaria（押し込み）から",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "犯罪・法律"],
+    "meaning_main": "住居侵入(窃盗) / 押し込み強盗 / 不法侵入盗",
+    "description": "burglary の意味・発音・使い方。建物に侵入して盗みを働く「住居侵入窃盗」を表す名詞。robbery や theft との違いを例文とともに解説します。",
+    "keywords": ["burglary 意味", "burglary 使い方", "burglary 発音", "空き巣 英語"],
+    "meanings": [
+      { "hinshi": "【名】住居侵入(窃盗)、不法侵入盗", "note": "建物に不法に侵入して盗みなどを行う罪。可算・不可算。犯人は burglar" }
+    ],
+    "usages": [
+      { "title": "① 「侵入窃盗」", "desc": "建物に侵入して盗む罪。", "example_en": "There was a burglary next door last night.", "example_ja": "昨夜、隣の家で空き巣があった。" },
+      { "title": "② 法律・報道で", "desc": "犯罪として扱う。", "example_en": "He was arrested for burglary.", "example_ja": "彼は住居侵入窃盗で逮捕された。" }
+    ],
+    "warn": ["burglary=建物に侵入して盗む、robbery=暴力・脅しで奪う、theft=単なる窃盗。犯人は burglar。"],
+    "etym_note": "中世ラテン語 burglaria（押し込み・侵入盗)に由来します。",
+    "etym_chain": [
+      { "node": "burglaria", "sub": "押し込み", "era": "中世ラテン語" },
+      { "node": "burglary", "sub": "侵入窃盗", "era": "16世紀英語" },
+      { "node": "burglary", "sub": "住居侵入窃盗", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "commit burglary", "ja": "侵入窃盗を働く" },
+      { "en": "report a burglary", "ja": "空き巣を通報する" },
+      { "en": "a burglary suspect", "ja": "侵入窃盗の容疑者" },
+      { "en": "attempted burglary", "ja": "侵入未遂" },
+      { "en": "a series of burglaries", "ja": "連続空き巣" },
+      { "en": "prevent burglary", "ja": "空き巣を防ぐ" }
+    ],
+    "related": [
+      { "en": "burglar", "ja": "侵入盗、空き巣" },
+      { "en": "robbery", "ja": "強盗" },
+      { "en": "theft", "ja": "窃盗" },
+      { "en": "break-in", "ja": "侵入" }
+    ],
+    "faq": [
+      { "q": "burglary と robbery の違いは？", "a": "burglary は『建物に侵入して盗む罪』、robbery は『暴力や脅しで人から奪う強盗』です。robbery は人が対象、burglary は場所への侵入が中心です。" },
+      { "q": "犯人は何と言いますか？", "a": "burglar(侵入盗・空き巣)です。" }
+    ],
+    "quiz": [
+      { "q": "burglary の意味は？", "A": "住居侵入(窃盗)", "B": "詐欺", "C": "放火", "D": "誘拐", "correct": "A" },
+      { "q": "burglary の犯人は？", "A": "burglar", "B": "robber", "C": "thief", "D": "pirate", "correct": "A" }
+    ]
+  },
+  {
+    "english": "burr",
+    "pron": "bɜːr",
+    "kana": "バー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "北欧語源(とげのある種の殻)から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "自然・道具"],
+    "meaning_main": "(植物の)とげのある実 / (金属の)ばり / 巻き舌のr音",
+    "description": "burr の意味・発音・使い方。服にくっつく「とげのある実」や、金属加工で出る「ばり」、なまりの「巻き舌の r 音」を表す名詞。用法を例文で解説します。",
+    "keywords": ["burr 意味", "burr 使い方", "burr 発音", "バー 意味"],
+    "meanings": [
+      { "hinshi": "【名】(植物の)とげのある実・殻", "note": "服や動物の毛にくっつくとげのある種の殻。可算" },
+      { "hinshi": "【名】(金属加工の)ばり", "note": "切削でできる縁の突起・かえり" },
+      { "hinshi": "【名】巻き舌の r 音", "note": "地方なまりの、のどを震わせる r の発音" }
+    ],
+    "usages": [
+      { "title": "① 「とげのある実」", "desc": "服にくっつく種の殻。", "example_en": "Burrs stuck to my socks after the walk.", "example_ja": "散歩のあと、とげのある実が靴下にくっついた。" },
+      { "title": "② 「ばり・巻き舌のr」", "desc": "金属のばりやなまりの音。", "example_en": "File off the burr on the metal edge.", "example_ja": "金属の縁のばりをやすりで取りなさい。" }
+    ],
+    "warn": ["面ファスナー(velcro)は burr(とげのある実)が服にくっつく仕組みをヒントに発明された。bur とも綴る。"],
+    "etym_note": "北欧語源とされ、『とげのある種の殻』を表す語です。金属の『ばり』や『巻き舌のr』の意味は後に広がりました。",
+    "etym_chain": [
+      { "node": "北欧語源", "sub": "とげのある殻", "era": "中英語" },
+      { "node": "burr", "sub": "とげのある実", "era": "近代英語" },
+      { "node": "burr", "sub": "実・ばり・巻き舌のr", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a prickly burr", "ja": "とげのある実" },
+      { "en": "remove the burr", "ja": "ばりを取り除く" },
+      { "en": "burrs on clothing", "ja": "服についたとげの実" },
+      { "en": "a metal burr", "ja": "金属のばり" },
+      { "en": "a rolling burr", "ja": "巻き舌の r 音" },
+      { "en": "file off a burr", "ja": "ばりをやすりで取る" }
+    ],
+    "related": [
+      { "en": "thorn", "ja": "とげ" },
+      { "en": "prickle", "ja": "とげ、ちくちくする" },
+      { "en": "velcro", "ja": "面ファスナー" },
+      { "en": "edge", "ja": "縁、端" }
+    ],
+    "faq": [
+      { "q": "burr とはどんなものですか？", "a": "主に『服や毛にくっつくとげのある実(種の殻)』を指します。ほかに金属加工で出る『ばり』、方言の『巻き舌の r 音』の意味もあります。" },
+      { "q": "面ファスナーと関係ありますか？", "a": "はい。burr が服にくっつく仕組みがヒントになって、面ファスナー(velcro)が発明されたといわれています。" }
+    ],
+    "quiz": [
+      { "q": "burr(植物)の意味は？", "A": "とげのある実(服にくっつく)", "B": "花びら", "C": "根", "D": "葉", "correct": "A" },
+      { "q": "金属加工の burr とは？", "A": "縁にできる突起(ばり)", "B": "光沢", "C": "色", "D": "におい", "correct": "A" }
+    ]
+  },
+  {
+    "english": "burrow",
+    "pron": "ˈbʌrəʊ",
+    "kana": "バロー",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 burg（避難所・砦）から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "動物・動作"],
+    "meaning_main": "(動物の)巣穴 / 穴を掘る / もぐり込む",
+    "description": "burrow の意味・発音・使い方。ウサギやモグラなどが掘る「巣穴」を表す名詞と、「穴を掘る・もぐり込む」を表す動詞。両方の用法を例文で解説します。",
+    "keywords": ["burrow 意味", "burrow 使い方", "burrow 発音", "巣穴 英語"],
+    "meanings": [
+      { "hinshi": "【名】(動物の)巣穴", "note": "ウサギ・モグラなどが地中に掘る穴。可算" },
+      { "hinshi": "【動】穴を掘る、もぐり込む", "note": "burrow into ...(〜に掘り進む・もぐり込む)" }
+    ],
+    "usages": [
+      { "title": "① 名詞「巣穴」", "desc": "地中の動物の住みか。", "example_en": "The rabbit disappeared into its burrow.", "example_ja": "ウサギは巣穴に消えていった。" },
+      { "title": "② 動詞「もぐり込む」", "desc": "穴を掘る・もぐり込む。", "example_en": "The mole burrowed under the lawn.", "example_ja": "モグラは芝生の下を掘り進んだ。" }
+    ],
+    "warn": ["borough(自治区)と発音が似て紛らわしい。burrow=巣穴/掘る、borough=行政区。"],
+    "etym_note": "古英語 burg（避難所・砦。『守られた場所』)に由来し、『動物が身を守る巣穴』の意味になりました。",
+    "etym_chain": [
+      { "node": "burg", "sub": "避難所・砦", "era": "古英語" },
+      { "node": "burrow", "sub": "巣穴", "era": "中英語" },
+      { "node": "burrow", "sub": "巣穴・穴を掘る", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rabbit burrow", "ja": "ウサギの巣穴" },
+      { "en": "dig a burrow", "ja": "巣穴を掘る" },
+      { "en": "burrow into", "ja": "〜に掘り進む、もぐり込む" },
+      { "en": "burrow underground", "ja": "地中に掘り進む" },
+      { "en": "burrow under the blanket", "ja": "毛布にもぐり込む" },
+      { "en": "an animal's burrow", "ja": "動物の巣穴" }
+    ],
+    "related": [
+      { "en": "tunnel", "ja": "トンネル、坑道" },
+      { "en": "den", "ja": "巣、ねぐら" },
+      { "en": "dig", "ja": "掘る" },
+      { "en": "hole", "ja": "穴" }
+    ],
+    "faq": [
+      { "q": "burrow と borough の違いは？", "a": "発音が似ていますが、burrow は『(動物の)巣穴・穴を掘る』、borough は『(市の)行政区』です。意味がまったく異なります。" },
+      { "q": "burrow into とは？", "a": "『〜に掘り進む・もぐり込む』という意味です。比喩で『(資料などに)深く入り込む』の意味でも使います。" }
+    ],
+    "quiz": [
+      { "q": "burrow(名詞)の意味は？", "A": "(動物の)巣穴", "B": "木の枝", "C": "川", "D": "山頂", "correct": "A" },
+      { "q": "burrow(動詞)の意味は？", "A": "穴を掘る、もぐり込む", "B": "飛ぶ", "C": "泳ぐ", "D": "登る", "correct": "A" }
+    ]
+  },
+  {
+    "english": "butte",
+    "pron": "bjuːt",
+    "kana": "ビュート",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 butte（小丘）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "地形・自然"],
+    "meaning_main": "ビュート(頂上が平らで側面が急な孤立した丘)",
+    "description": "butte の意味・発音・使い方。頂上が平らで側面が切り立った孤立丘「ビュート」を表す地形用語。メサとの違いを例文とともに解説します。",
+    "keywords": ["butte 意味", "butte 使い方", "butte 発音", "ビュート 地形"],
+    "meanings": [
+      { "hinshi": "【名】ビュート(孤立した平頂丘)", "note": "頂上が平らで側面が急な、周囲から孤立した丘。乾燥地に多い。発音は[bjuːt]。可算" }
+    ],
+    "usages": [
+      { "title": "① 地形「ビュート」", "desc": "平らな頂の孤立丘。", "example_en": "A tall butte rose from the desert floor.", "example_ja": "高いビュートが砂漠の地面からそびえていた。" },
+      { "title": "② 風景の説明で", "desc": "アメリカ西部などに多い。", "example_en": "Monument Valley is famous for its buttes.", "example_ja": "モニュメントバレーはビュートで有名だ。" }
+    ],
+    "warn": ["発音は[bjuːt]『ビュート』でbeauteと同音。メサ(mesa)より小さく細い。butt(尻・端)とは別語。"],
+    "etym_note": "フランス語 butte（小丘)に由来し、アメリカ西部の地形を表す語として英語に定着しました。",
+    "etym_chain": [
+      { "node": "butte", "sub": "小丘", "era": "フランス語" },
+      { "node": "butte", "sub": "孤立丘", "era": "19世紀アメリカ英語" },
+      { "node": "butte", "sub": "ビュート", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a tall butte", "ja": "高いビュート" },
+      { "en": "a flat-topped butte", "ja": "頂の平らなビュート" },
+      { "en": "a rocky butte", "ja": "岩のビュート" },
+      { "en": "climb the butte", "ja": "ビュートに登る" },
+      { "en": "a desert butte", "ja": "砂漠のビュート" },
+      { "en": "mesas and buttes", "ja": "メサとビュート" }
+    ],
+    "related": [
+      { "en": "mesa", "ja": "メサ、卓状台地" },
+      { "en": "plateau", "ja": "高原、台地" },
+      { "en": "hill", "ja": "丘" },
+      { "en": "cliff", "ja": "崖" }
+    ],
+    "faq": [
+      { "q": "butte と mesa の違いは？", "a": "どちらも頂上が平らで側面が急な地形ですが、mesa(メサ)は幅広く卓状、butte(ビュート)はより小さく細い塔状の孤立丘です。" },
+      { "q": "発音は？", "a": "[bjuːt]『ビュート』です。beaut(美人)と同じ音で、butt(尻・端)とは別の語です。" }
+    ],
+    "quiz": [
+      { "q": "butte とは？", "A": "頂が平らで側面が急な孤立丘", "B": "深い谷", "C": "広い湖", "D": "長い川", "correct": "A" },
+      { "q": "butte より幅広い似た地形は？", "A": "mesa(メサ)", "B": "valley(谷)", "C": "canyon(峡谷)", "D": "delta(三角州)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "by",
+    "pron": "baɪ",
+    "kana": "バイ",
+    "hinshi": "前置詞 / 副詞",
+    "ld_pos": "前置詞",
+    "ld_etym": "古英語 bī（そばに）から",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "基本前置詞"],
+    "meaning_main": "〜によって / 〜のそばに / 〜までに / 〜で(手段)",
+    "description": "by の意味・発音・使い方。「〜によって」「〜のそばに」「〜までに」「〜で(手段)」など多彩な意味をもつ基本前置詞。用法を例文で解説します。",
+    "keywords": ["by 意味", "by 使い方", "by 発音", "by until 違い"],
+    "meanings": [
+      { "hinshi": "【前】〜によって(受動態の動作主)", "note": "written by him(彼によって書かれた)" },
+      { "hinshi": "【前】〜のそばに", "note": "by the window(窓のそばに)" },
+      { "hinshi": "【前】〜までに(期限)", "note": "by five o'clock(5時までに)" },
+      { "hinshi": "【前】〜で(手段・方法)", "note": "by train(電車で)、by hand(手で)" }
+    ],
+    "usages": [
+      { "title": "① 「〜によって」", "desc": "受動態の動作主を表す。", "example_en": "This book was written by a famous author.", "example_ja": "この本は有名な作家によって書かれた。" },
+      { "title": "② 「〜までに・〜で」", "desc": "期限や手段を表す。", "example_en": "Finish it by Friday. I go by bus.", "example_ja": "金曜までに終わらせて。私はバスで行く。" }
+    ],
+    "warn": ["期限の by(〜までに)と until(〜までずっと)は違う。by=その時点までに完了、until=その時点まで継続。"],
+    "etym_note": "古英語 bī（そばに)に由来し、『そばに』から『〜によって・〜で』など多くの意味に広がりました。",
+    "etym_chain": [
+      { "node": "bī", "sub": "そばに", "era": "古英語" },
+      { "node": "by", "sub": "〜のそばに・〜によって", "era": "中英語" },
+      { "node": "by", "sub": "〜によって・〜までに", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "by the way", "ja": "ところで" },
+      { "en": "by train", "ja": "電車で" },
+      { "en": "by hand", "ja": "手で" },
+      { "en": "by mistake", "ja": "間違って" },
+      { "en": "step by step", "ja": "一歩ずつ" },
+      { "en": "by five o'clock", "ja": "5時までに" }
+    ],
+    "related": [
+      { "en": "until", "ja": "〜までずっと" },
+      { "en": "with", "ja": "〜で、〜と共に" },
+      { "en": "beside", "ja": "〜のそばに" },
+      { "en": "through", "ja": "〜を通して" }
+    ],
+    "faq": [
+      { "q": "by と until の違いは？", "a": "by は『(その時点)までに完了』(期限)、until は『(その時点)までずっと継続』です。Finish by 5(5時までに終える)/Wait until 5(5時まで待つ)。" },
+      { "q": "by と with の違いは？", "a": "手段では by は方法・手段(by bus)、with は道具(with a pen)を表します。" }
+    ],
+    "quiz": [
+      { "q": "『5時までに終える』を表す前置詞は？", "A": "by", "B": "until", "C": "during", "D": "for", "correct": "A" },
+      { "q": "by train の意味は？", "A": "電車で", "B": "電車のそばで", "C": "電車まで", "D": "電車について", "correct": "A" }
+    ]
+  },
+  {
+    "english": "byte",
+    "pron": "baɪt",
+    "kana": "バイト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "bit（ビット）をもとにした造語",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "IT・単位"],
+    "meaning_main": "バイト(情報量の単位、通常8ビット)",
+    "description": "byte の意味・発音・使い方。コンピューターの情報量を表す単位「バイト」を表す名詞。bit との関係やキロバイトなどの単位を例文で解説します。",
+    "keywords": ["byte 意味", "byte 使い方", "byte 発音", "バイト 単位"],
+    "meanings": [
+      { "hinshi": "【名】バイト(情報量の単位)", "note": "通常8ビット(bit)からなる情報量の基本単位。可算。KB/MB/GB などで使う" }
+    ],
+    "usages": [
+      { "title": "① 情報の単位「バイト」", "desc": "データ量の基本単位。", "example_en": "One byte is usually eight bits.", "example_ja": "1バイトは通常8ビットだ。" },
+      { "title": "② 容量の表現で", "desc": "KB・MB・GB などで使う。", "example_en": "The file is about two megabytes.", "example_ja": "そのファイルは約2メガバイトだ。" }
+    ],
+    "warn": ["bit(ビット、0か1の最小単位)8個で1 byte。bite(かむ)と発音が同じ[baɪt]で紛らわしい。"],
+    "etym_note": "bit（ビット)をもとに、それより大きな単位として作られた造語です。bite(かむ)との混同を避けて y の綴りにしたとされます。",
+    "etym_chain": [
+      { "node": "bit", "sub": "ビット(最小単位)", "era": "20世紀英語" },
+      { "node": "byte", "sub": "バイト", "era": "20世紀" },
+      { "node": "byte", "sub": "バイト", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "eight bits per byte", "ja": "1バイトあたり8ビット" },
+      { "en": "a kilobyte (KB)", "ja": "1キロバイト" },
+      { "en": "a megabyte (MB)", "ja": "1メガバイト" },
+      { "en": "a gigabyte (GB)", "ja": "1ギガバイト" },
+      { "en": "bytes of data", "ja": "データのバイト数" },
+      { "en": "file size in bytes", "ja": "バイト単位のファイルサイズ" }
+    ],
+    "related": [
+      { "en": "bit", "ja": "ビット" },
+      { "en": "data", "ja": "データ" },
+      { "en": "memory", "ja": "メモリ、記憶装置" },
+      { "en": "gigabyte", "ja": "ギガバイト" }
+    ],
+    "faq": [
+      { "q": "byte と bit の違いは？", "a": "bit は 0 か 1 の最小単位、byte は通常 8 ビットからなる情報量の基本単位です。1 byte = 8 bits です。" },
+      { "q": "bite と同じ発音ですか？", "a": "はい、発音は同じ[baɪt]です。綴りで byte(情報単位)と bite(かむ)を区別します。" }
+    ],
+    "quiz": [
+      { "q": "1バイトは通常何ビット？", "A": "8ビット", "B": "2ビット", "C": "16ビット", "D": "100ビット", "correct": "A" },
+      { "q": "byte と同じ発音の語は？", "A": "bite(かむ)", "B": "boot(長靴)", "C": "bat(コウモリ)", "D": "beat(打つ)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "caesar",
+    "pron": "ˈsiːzər",
+    "kana": "シーザー",
+    "hinshi": "名詞(固有名詞・称号)",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ローマの将軍 Julius Caesar の名から",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "歴史・固有名詞"],
+    "meaning_main": "カエサル(シーザー) / (のちに)皇帝の称号",
+    "description": "Caesar（カエサル/シーザー）の意味・発音。古代ローマの将軍・政治家ユリウス・カエサルの名で、のちに『皇帝』の称号にもなった語。特徴を例文で解説します。",
+    "keywords": ["caesar 意味", "caesar 読み方", "caesar 発音", "シーザー 意味"],
+    "meanings": [
+      { "hinshi": "【名】カエサル(シーザー)", "note": "古代ローマの将軍・政治家ユリウス・カエサル。英語読みは『シーザー』" },
+      { "hinshi": "【名】皇帝の称号", "note": "彼の名にちなみ、のちに『皇帝』を表す語に。独 Kaiser・露 Tsar の語源" }
+    ],
+    "usages": [
+      { "title": "① 人名「カエサル」", "desc": "ローマの英雄。", "example_en": "Julius Caesar was a famous Roman general.", "example_ja": "ユリウス・カエサルは有名なローマの将軍だった。" },
+      { "title": "② 称号「皇帝」", "desc": "のちに皇帝の称号になった。", "example_en": "The title 'Caesar' came to mean emperor.", "example_ja": "『カエサル』の称号は皇帝を意味するようになった。" }
+    ],
+    "warn": ["固有名詞なので大文字 Caesar。ドイツ語 Kaiser(カイザー)、ロシア語 Tsar(ツァーリ)は彼の名に由来する。サラダの Caesar salad は人名が別由来。"],
+    "etym_note": "ローマの政治家ユリウス・カエサルの家名 Caesar に由来し、のちに『皇帝』を表す称号となりました。",
+    "etym_chain": [
+      { "node": "Caesar", "sub": "ローマの家名", "era": "古代ローマ" },
+      { "node": "Caesar", "sub": "皇帝の称号", "era": "ローマ帝国" },
+      { "node": "Caesar", "sub": "カエサル・皇帝", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Julius Caesar", "ja": "ユリウス・カエサル" },
+      { "en": "Caesar's army", "ja": "カエサルの軍" },
+      { "en": "hail Caesar", "ja": "カエサル万歳" },
+      { "en": "the title of Caesar", "ja": "カエサルの称号" },
+      { "en": "a Caesar salad", "ja": "シーザーサラダ" },
+      { "en": "render unto Caesar", "ja": "カエサルのものはカエサルに" }
+    ],
+    "related": [
+      { "en": "emperor", "ja": "皇帝" },
+      { "en": "rome", "ja": "ローマ" },
+      { "en": "kaiser", "ja": "カイザー(独の皇帝)" },
+      { "en": "tsar", "ja": "ツァーリ(露の皇帝)" }
+    ],
+    "faq": [
+      { "q": "Caesar はなぜ皇帝の意味になったの？", "a": "ユリウス・カエサルの名声から、後継の皇帝たちが Caesar を名乗り、やがて『皇帝』を表す称号になりました。ドイツの Kaiser、ロシアの Tsar もこの語に由来します。" },
+      { "q": "シーザーサラダと関係ありますか？", "a": "いいえ。シーザーサラダは考案者の名前(Caesar Cardini)に由来し、ローマのカエサルとは直接関係ありません。" }
+    ],
+    "quiz": [
+      { "q": "Caesar とは？", "A": "ローマの将軍/皇帝の称号", "B": "山の名前", "C": "楽器", "D": "宝石", "correct": "A" },
+      { "q": "Caesar に由来する皇帝の称号は？", "A": "Kaiser や Tsar", "B": "King", "C": "President", "D": "Duke", "correct": "A" }
+    ]
+  },
+  {
+    "english": "calculus",
+    "pron": "ˈkælkjələs",
+    "kana": "カルキュラス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 calculus（小石）から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "数学・専門"],
+    "meaning_main": "微積分学(数学) / (医学)結石",
+    "description": "calculus の意味・発音・使い方。変化や面積を扱う数学の分野「微積分学」を表す名詞。医学の「結石」の意味や語源も例文とともに解説します。",
+    "keywords": ["calculus 意味", "calculus 使い方", "calculus 発音", "微積分 英語"],
+    "meanings": [
+      { "hinshi": "【名】微積分学", "note": "変化率(微分)と面積・総和(積分)を扱う数学の分野。不可算" },
+      { "hinshi": "【名】(医学)結石、歯石", "note": "体内にできる硬いかたまり。複数形 calculi" }
+    ],
+    "usages": [
+      { "title": "① 数学の「微積分」", "desc": "変化や面積を扱う分野。", "example_en": "She is studying calculus in college.", "example_ja": "彼女は大学で微積分を学んでいる。" },
+      { "title": "② 医学の「結石」", "desc": "体内の硬いかたまり。", "example_en": "A kidney calculus can be very painful.", "example_ja": "腎結石は非常に痛むことがある。" }
+    ],
+    "warn": ["語源はラテン語で『小石』。古代に計算に小石を使ったことから数学の意味に。calculate(計算する)と同語源。"],
+    "etym_note": "ラテン語 calculus（小石。計算に小石を使ったことから)に由来します。『微積分』と『結石(硬い小石状のもの)』の両方の意味があります。",
+    "etym_chain": [
+      { "node": "calculus", "sub": "小石", "era": "ラテン語" },
+      { "node": "calculus", "sub": "計算・微積分", "era": "17世紀英語" },
+      { "node": "calculus", "sub": "微積分・結石", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "differential calculus", "ja": "微分学" },
+      { "en": "integral calculus", "ja": "積分学" },
+      { "en": "study calculus", "ja": "微積分を学ぶ" },
+      { "en": "a calculus problem", "ja": "微積分の問題" },
+      { "en": "a kidney calculus", "ja": "腎結石" },
+      { "en": "dental calculus", "ja": "歯石" }
+    ],
+    "related": [
+      { "en": "calculate", "ja": "計算する" },
+      { "en": "mathematics", "ja": "数学" },
+      { "en": "derivative", "ja": "導関数、微分" },
+      { "en": "integral", "ja": "積分" }
+    ],
+    "faq": [
+      { "q": "calculus とは何ですか？", "a": "数学では、微分(変化率)と積分(面積・総和)を扱う『微積分学』を指します。ニュートンとライプニッツが確立したとされます。" },
+      { "q": "なぜ『結石』の意味もあるの？", "a": "語源のラテン語 calculus は『小石』です。体内にできる硬い小石状のかたまりも calculus と呼ばれます。" }
+    ],
+    "quiz": [
+      { "q": "calculus(数学)の意味は？", "A": "微積分学", "B": "幾何学", "C": "統計学", "D": "代数のみ", "correct": "A" },
+      { "q": "calculus の語源(ラテン語)の意味は？", "A": "小石", "B": "星", "C": "水", "D": "火", "correct": "A" }
+    ]
+  },
+  {
+    "english": "campfire",
+    "pron": "ˈkæmpfaɪər",
+    "kana": "キャンプファイア",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "camp（野営）+ fire（火）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "アウトドア・基本語"],
+    "meaning_main": "キャンプファイア / 野営の焚き火",
+    "description": "campfire の意味・発音・使い方。屋外の野営でたく「キャンプファイア・焚き火」を表す名詞。用途や複合語の成り立ちを例文とともに解説します。",
+    "keywords": ["campfire 意味", "campfire 使い方", "campfire 発音", "キャンプファイア 英語"],
+    "meanings": [
+      { "hinshi": "【名】キャンプファイア、野営の焚き火", "note": "キャンプで屋外にたく火。暖・調理・語らいのために使う。可算" }
+    ],
+    "usages": [
+      { "title": "① 「焚き火」", "desc": "キャンプでたく屋外の火。", "example_en": "We sang songs around the campfire.", "example_ja": "私たちは焚き火を囲んで歌を歌った。" },
+      { "title": "② 語らいの場として", "desc": "火を囲んで過ごす。", "example_en": "They told stories by the campfire.", "example_ja": "彼らは焚き火のそばで物語を語った。" }
+    ],
+    "warn": ["camp(野営)+ fire(火)の複合語。屋外で火を扱うので安全・消火に注意。bonfire(大きな焚き火・かがり火)とは規模が違う。"],
+    "etym_note": "camp（野営)と fire（火)を組み合わせた語で、『野営の焚き火』を表します。",
+    "etym_chain": [
+      { "node": "camp + fire", "sub": "野営+火", "era": "近代英語" },
+      { "node": "campfire", "sub": "キャンプの焚き火", "era": "19世紀" },
+      { "node": "campfire", "sub": "キャンプファイア", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "around the campfire", "ja": "焚き火を囲んで" },
+      { "en": "light a campfire", "ja": "焚き火をおこす" },
+      { "en": "sit by the campfire", "ja": "焚き火のそばに座る" },
+      { "en": "a campfire song", "ja": "キャンプファイアの歌" },
+      { "en": "put out the campfire", "ja": "焚き火を消す" },
+      { "en": "cook over a campfire", "ja": "焚き火で調理する" }
+    ],
+    "related": [
+      { "en": "camp", "ja": "キャンプ、野営" },
+      { "en": "bonfire", "ja": "大きな焚き火、かがり火" },
+      { "en": "fire", "ja": "火" },
+      { "en": "tent", "ja": "テント" }
+    ],
+    "faq": [
+      { "q": "campfire と bonfire の違いは？", "a": "campfire はキャンプでたく小〜中規模の焚き火、bonfire は祭りやイベントの大きな焚き火・かがり火を指します。" },
+      { "q": "使うときの注意は？", "a": "屋外で火を扱うため、火の始末(消火)や周囲への燃え広がりに十分注意が必要です。" }
+    ],
+    "quiz": [
+      { "q": "campfire の意味は？", "A": "キャンプの焚き火", "B": "電気ストーブ", "C": "花火", "D": "ろうそく", "correct": "A" },
+      { "q": "around the campfire の意味は？", "A": "焚き火を囲んで", "B": "火を消して", "C": "テントの中で", "D": "川のそばで", "correct": "A" }
+    ]
+  },
+  {
+    "english": "cancellation",
+    "pron": "ˌkænsəˈleɪʃ(ə)n",
+    "kana": "キャンセレーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "cancel（取り消す）+ -ation",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "予約・手続き"],
+    "meaning_main": "取り消し / キャンセル / (予約・契約の)解約",
+    "description": "cancellation の意味・発音・使い方。予約や契約などの「取り消し・キャンセル」を表す名詞。動詞 cancel との関係や綴りを例文とともに解説します。",
+    "keywords": ["cancellation 意味", "cancellation 使い方", "cancellation 発音", "キャンセル 英語"],
+    "meanings": [
+      { "hinshi": "【名】取り消し、キャンセル、解約", "note": "予約・契約・イベントなどを取りやめること。可算・不可算。a cancellation fee(キャンセル料)" }
+    ],
+    "usages": [
+      { "title": "① 「取り消し・キャンセル」", "desc": "予約などを取りやめる。", "example_en": "We received a cancellation notice.", "example_ja": "私たちはキャンセルの通知を受け取った。" },
+      { "title": "② 手続き・料金で", "desc": "キャンセル料などに使う。", "example_en": "There is no cancellation fee.", "example_ja": "キャンセル料はかかりません。" }
+    ],
+    "warn": ["動詞 cancel は l を重ねて cancelled/cancelling(英)。名詞 cancellation は l 2つ。米では canceled も可だが cancellation は常に ll。"],
+    "etym_note": "cancel（取り消す。ラテン語 cancellare「格子状に消す」から)に名詞化の -ation が付いた語です。",
+    "etym_chain": [
+      { "node": "cancellare", "sub": "格子状に消す", "era": "ラテン語" },
+      { "node": "cancel", "sub": "取り消す", "era": "中英語" },
+      { "node": "cancellation", "sub": "取り消し", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a cancellation fee", "ja": "キャンセル料" },
+      { "en": "a cancellation policy", "ja": "キャンセル規定" },
+      { "en": "flight cancellation", "ja": "欠航" },
+      { "en": "last-minute cancellation", "ja": "直前のキャンセル" },
+      { "en": "notice of cancellation", "ja": "取り消しの通知" },
+      { "en": "a free cancellation", "ja": "無料キャンセル" }
+    ],
+    "related": [
+      { "en": "cancel", "ja": "取り消す、キャンセルする" },
+      { "en": "reservation", "ja": "予約" },
+      { "en": "refund", "ja": "払い戻し" },
+      { "en": "postponement", "ja": "延期" }
+    ],
+    "faq": [
+      { "q": "cancellation の綴りの注意点は？", "a": "l を2つ重ねて cancellation です。動詞 cancel は米では canceled(l 1つ)も使いますが、名詞 cancellation は常に ll です。" },
+      { "q": "cancellation と postponement の違いは？", "a": "cancellation は『取り消し(中止)』、postponement は『延期(後日に回す)』です。" }
+    ],
+    "quiz": [
+      { "q": "cancellation の意味は？", "A": "取り消し、キャンセル", "B": "予約", "C": "確認", "D": "支払い", "correct": "A" },
+      { "q": "cancellation の動詞形は？", "A": "cancel", "B": "council", "C": "counsel", "D": "conceal", "correct": "A" }
+    ]
+  },
+  {
+    "english": "canned",
+    "pron": "kænd",
+    "kana": "キャンド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "can（缶に詰める）+ -ed",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "食品・比喩"],
+    "meaning_main": "缶詰の / (比喩)使い回しの・録音済みの",
+    "description": "canned の意味・発音・使い方。「缶詰の」を表す形容詞。比喩的な「あらかじめ用意した・使い回しの」の用法も例文とともに解説します。",
+    "keywords": ["canned 意味", "canned 使い方", "canned 発音", "缶詰 英語"],
+    "meanings": [
+      { "hinshi": "【形】缶詰の", "note": "缶に詰めて保存した。canned food(缶詰食品)" },
+      { "hinshi": "【形】(比喩)あらかじめ用意した、使い回しの", "note": "canned laughter(録音された笑い声)、canned response(定型の返答)" }
+    ],
+    "usages": [
+      { "title": "① 「缶詰の」", "desc": "缶に詰めた食品。", "example_en": "We ate canned soup.", "example_ja": "私たちは缶詰のスープを食べた。" },
+      { "title": "② 「使い回しの」", "desc": "定型の・録音済みのもの。", "example_en": "The show uses canned laughter.", "example_ja": "その番組は録音された笑い声を使っている。" }
+    ],
+    "warn": ["動詞 can には『缶詰にする』の意味がある。比喩の canned は『生でなく作り置きの・型どおりの』で、やや否定的なことも。英では tinned とも言う。"],
+    "etym_note": "can（缶。動詞で『缶に詰める』)の過去分詞から形容詞化しました。",
+    "etym_chain": [
+      { "node": "can", "sub": "缶", "era": "近代英語" },
+      { "node": "can + -ed", "sub": "缶に詰めた", "era": "19世紀英語" },
+      { "node": "canned", "sub": "缶詰の・使い回しの", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "canned food", "ja": "缶詰食品" },
+      { "en": "canned soup", "ja": "缶詰のスープ" },
+      { "en": "canned laughter", "ja": "録音された笑い声" },
+      { "en": "canned response", "ja": "定型の返答" },
+      { "en": "canned vegetables", "ja": "野菜の缶詰" },
+      { "en": "canned music", "ja": "録音された音楽" }
+    ],
+    "related": [
+      { "en": "can", "ja": "缶、缶詰にする" },
+      { "en": "tinned", "ja": "缶詰の(英)" },
+      { "en": "preserved", "ja": "保存された" },
+      { "en": "fresh", "ja": "新鮮な、生の" }
+    ],
+    "faq": [
+      { "q": "canned の比喩的な意味は？", "a": "『あらかじめ用意した・使い回しの・型どおりの』という意味です。canned laughter(録音された笑い声)、canned response(定型の返答)などで使い、やや否定的なこともあります。" },
+      { "q": "tinned と同じですか？", "a": "はい。『缶詰の』はアメリカ英語で canned、イギリス英語で tinned と言うことが多いです。" }
+    ],
+    "quiz": [
+      { "q": "canned の意味は？", "A": "缶詰の", "B": "焼きたての", "C": "冷凍の", "D": "生の", "correct": "A" },
+      { "q": "canned laughter の意味は？", "A": "録音された笑い声", "B": "大爆笑", "C": "作り笑い(表情)", "D": "静けさ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "canvass",
+    "pron": "ˈkænvəs",
+    "kana": "キャンバス",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "canvas（麻布）から(ふるいにかける意)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "政治・調査"],
+    "meaning_main": "(票・意見を)集めて回る / 選挙運動をする / 世論調査をする",
+    "description": "canvass の意味・発音・使い方。選挙で「票を求めて回る」や「意見・注文を集めて回る」を表す動詞。canvas(画布)との違いを例文で解説します。",
+    "keywords": ["canvass 意味", "canvass 使い方", "canvass 発音", "選挙運動 英語"],
+    "meanings": [
+      { "hinshi": "【動】(票・支持を求めて)戸別に回る、選挙運動をする", "note": "canvass for votes(票を集めて回る)" },
+      { "hinshi": "【動】(意見・注文を)集めて回る、調査する", "note": "canvass opinions(意見を聞いて回る)" }
+    ],
+    "usages": [
+      { "title": "① 「票を求めて回る」", "desc": "選挙で支持を集める。", "example_en": "Volunteers canvassed the neighborhood for votes.", "example_ja": "ボランティアが票を求めて近所を回った。" },
+      { "title": "② 「意見を集める」", "desc": "世論や注文を聞いて回る。", "example_en": "They canvassed customers for feedback.", "example_ja": "彼らは顧客の意見を集めて回った。" }
+    ],
+    "warn": ["canvas(画布・帆布)とは綴り・意味が違う。canvass=集めて回る(s 2つ)、canvas=画布(s 1つ)。"],
+    "etym_note": "canvas（麻布)から派生し、『麻布でふるいにかける→念入りに調べる・集めて回る』の意味になりました。",
+    "etym_chain": [
+      { "node": "canvas", "sub": "麻布", "era": "中英語" },
+      { "node": "canvass", "sub": "ふるいにかける・調べる", "era": "16世紀英語" },
+      { "node": "canvass", "sub": "票・意見を集めて回る", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "canvass for votes", "ja": "票を求めて回る" },
+      { "en": "canvass opinions", "ja": "意見を聞いて回る" },
+      { "en": "canvass door to door", "ja": "戸別訪問する" },
+      { "en": "canvass support", "ja": "支持を集めて回る" },
+      { "en": "canvass the area", "ja": "地域を回る" },
+      { "en": "a canvassing campaign", "ja": "戸別訪問運動" }
+    ],
+    "related": [
+      { "en": "canvas", "ja": "画布、帆布" },
+      { "en": "campaign", "ja": "運動、選挙活動" },
+      { "en": "survey", "ja": "調査する" },
+      { "en": "solicit", "ja": "求める、勧誘する" }
+    ],
+    "faq": [
+      { "q": "canvass と canvas の違いは？", "a": "canvass(s 2つ)は動詞で『票・意見を集めて回る』、canvas(s 1つ)は名詞で『画布・帆布』です。発音は同じですが綴りと意味が異なります。" },
+      { "q": "選挙以外でも使いますか？", "a": "はい。『意見・注文を聞いて回る・調査する』の意味で、ビジネスや世論調査などでも使います。" }
+    ],
+    "quiz": [
+      { "q": "canvass の意味は？", "A": "票・意見を集めて回る", "B": "絵を描く", "C": "布を織る", "D": "船を漕ぐ", "correct": "A" },
+      { "q": "canvass と canvas の違いは？", "A": "canvassは動詞(集めて回る)、canvasは画布", "B": "同じ意味", "C": "canvassは画布", "D": "どちらも布", "correct": "A" }
+    ]
+  },
+  {
+    "english": "caprice",
+    "pron": "kəˈpriːs",
+    "kana": "カプリース",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "イタリア語 capriccio（気まぐれ）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "感情・抽象語"],
+    "meaning_main": "気まぐれ / 移り気 / 思いつきの行動",
+    "description": "caprice の意味・発音・使い方。「気まぐれ・移り気」を表すやや文語的な名詞。形容詞 capricious との関係を例文とともに解説します。",
+    "keywords": ["caprice 意味", "caprice 使い方", "caprice 発音", "気まぐれ 英語"],
+    "meanings": [
+      { "hinshi": "【名】気まぐれ、移り気、思いつき", "note": "急に気が変わること・理由のない思いつきの行動。文語的。可算・不可算" }
+    ],
+    "usages": [
+      { "title": "① 「気まぐれ」", "desc": "急な思いつきや移り気。", "example_en": "He changed the plan on a caprice.", "example_ja": "彼は気まぐれで計画を変えた。" },
+      { "title": "② 移り気な性質", "desc": "予測できない気分。", "example_en": "The weather changes with the caprice of the sea.", "example_ja": "天気は海の気まぐれとともに変わる。" }
+    ],
+    "warn": ["形容詞は capricious(気まぐれな)。音楽用語の『カプリッチョ(奇想曲)』も同語源。whim(気まぐれ)とほぼ同義。"],
+    "etym_note": "イタリア語 capriccio（気まぐれ・奇想。もとは『身震い』の意)に由来します。音楽の『カプリッチョ』も同じ語源です。",
+    "etym_chain": [
+      { "node": "capriccio", "sub": "気まぐれ・奇想", "era": "イタリア語" },
+      { "node": "caprice", "sub": "気まぐれ", "era": "17世紀フランス語" },
+      { "node": "caprice", "sub": "気まぐれ・移り気", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "on a caprice", "ja": "気まぐれで" },
+      { "en": "a passing caprice", "ja": "一時の気まぐれ" },
+      { "en": "at the caprice of", "ja": "〜の気まぐれに任せて" },
+      { "en": "a sudden caprice", "ja": "突然の思いつき" },
+      { "en": "the caprice of fashion", "ja": "流行の気まぐれ" },
+      { "en": "yield to caprice", "ja": "気まぐれに従う" }
+    ],
+    "related": [
+      { "en": "capricious", "ja": "気まぐれな" },
+      { "en": "whim", "ja": "気まぐれ、思いつき" },
+      { "en": "impulse", "ja": "衝動" },
+      { "en": "fancy", "ja": "気まぐれ、空想" }
+    ],
+    "faq": [
+      { "q": "caprice と whim の違いは？", "a": "ほぼ同義で『気まぐれ・思いつき』です。caprice のほうがやや文語的で、移り気・気分の変わりやすさを含みます。" },
+      { "q": "形容詞形は？", "a": "capricious(気まぐれな・移り気な)です。" }
+    ],
+    "quiz": [
+      { "q": "caprice の意味は？", "A": "気まぐれ、移り気", "B": "堅実さ", "C": "怒り", "D": "喜び", "correct": "A" },
+      { "q": "caprice の形容詞形は？", "A": "capricious", "B": "captive", "C": "capable", "D": "captious", "correct": "A" }
+    ]
+  },
+  {
+    "english": "captivity",
+    "pron": "kæpˈtɪvəti",
+    "kana": "キャプティビティ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 captivus（捕らわれた）+ -ity",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "抽象語・動物"],
+    "meaning_main": "捕らわれの状態 / 監禁 / (動物の)飼育下",
+    "description": "captivity の意味・発音・使い方。「捕らわれの状態・監禁」を表す名詞。動物園などの「飼育下」を表す用法も例文とともに解説します。",
+    "keywords": ["captivity 意味", "captivity 使い方", "captivity 発音", "捕らわれ 英語"],
+    "meanings": [
+      { "hinshi": "【名】捕らわれの状態、監禁", "note": "自由を奪われ閉じ込められた状態。in captivity(捕らわれて)。不可算" },
+      { "hinshi": "【名】(動物の)飼育下", "note": "野生でなく人の管理下にある状態。bred in captivity(飼育下で繁殖した)" }
+    ],
+    "usages": [
+      { "title": "① 「捕らわれの状態」", "desc": "自由を奪われた状態。", "example_en": "The prisoners endured years of captivity.", "example_ja": "捕虜たちは何年もの監禁に耐えた。" },
+      { "title": "② 動物の「飼育下」", "desc": "動物園などの管理下。", "example_en": "Some animals don't breed well in captivity.", "example_ja": "一部の動物は飼育下ではうまく繁殖しない。" }
+    ],
+    "warn": ["in captivity(捕らわれて・飼育下で)の形が頻出。反対は freedom(自由)/the wild(野生)。動詞は capture(捕らえる)、形容詞 captive。"],
+    "etym_note": "ラテン語 captivus（捕らわれた。capere「捕らえる」から)に -ity が付いた語です。",
+    "etym_chain": [
+      { "node": "captivus", "sub": "捕らわれた", "era": "ラテン語" },
+      { "node": "captivity", "sub": "捕らわれの状態", "era": "中英語" },
+      { "node": "captivity", "sub": "監禁・飼育下", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "in captivity", "ja": "捕らわれて、飼育下で" },
+      { "en": "held in captivity", "ja": "監禁されて" },
+      { "en": "bred in captivity", "ja": "飼育下で繁殖した" },
+      { "en": "years of captivity", "ja": "長年の監禁" },
+      { "en": "escape captivity", "ja": "捕らわれから逃れる" },
+      { "en": "release from captivity", "ja": "監禁からの解放" }
+    ],
+    "related": [
+      { "en": "captive", "ja": "捕らわれた、捕虜" },
+      { "en": "capture", "ja": "捕らえる" },
+      { "en": "freedom", "ja": "自由" },
+      { "en": "imprisonment", "ja": "投獄、監禁" }
+    ],
+    "faq": [
+      { "q": "in captivity とは？", "a": "『捕らわれて・飼育下で』という意味です。人については『監禁されて』、動物については『(動物園などの)飼育下で』を表します。" },
+      { "q": "反対語は？", "a": "freedom(自由)や、動物では the wild(野生)です。" }
+    ],
+    "quiz": [
+      { "q": "captivity の意味は？", "A": "捕らわれの状態、飼育下", "B": "自由", "C": "旅行", "D": "祝祭", "correct": "A" },
+      { "q": "bred in captivity の意味は？", "A": "飼育下で繁殖した", "B": "野生で生まれた", "C": "逃げ出した", "D": "絶滅した", "correct": "A" }
+    ]
+  },
+  {
+    "english": "capuchin",
+    "pron": "ˈkæpjʊtʃɪn",
+    "kana": "カプチン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "イタリア語 cappuccino（頭巾）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "動物・宗教"],
+    "meaning_main": "オマキザル(カプチンモンキー) / カプチン会の修道士",
+    "description": "capuchin の意味・発音・使い方。頭の毛が頭巾のように見える「オマキザル」や、カプチン会の修道士を表す名詞。コーヒーとの語源のつながりも解説します。",
+    "keywords": ["capuchin 意味", "capuchin 使い方", "capuchin 発音", "オマキザル 英語"],
+    "meanings": [
+      { "hinshi": "【名】オマキザル(カプチンモンキー)", "note": "中南米にすむ賢い小型のサル。頭の毛が頭巾のように見える。可算" },
+      { "hinshi": "【名】カプチン会の修道士", "note": "茶色い頭巾付きの修道服で知られるフランシスコ会系の修道士" }
+    ],
+    "usages": [
+      { "title": "① サル「オマキザル」", "desc": "賢く器用な小型のサル。", "example_en": "Capuchins are known for using tools.", "example_ja": "オマキザルは道具を使うことで知られる。" },
+      { "title": "② カプチン会の修道士", "desc": "頭巾付きの修道服が特徴。", "example_en": "Capuchin monks wear brown hooded robes.", "example_ja": "カプチン会の修道士は茶色い頭巾付きの服を着る。" }
+    ],
+    "warn": ["コーヒーの『カプチーノ(cappuccino)』も、修道士の頭巾(茶色)の色にちなむ同語源。頭巾を表すイタリア語 cappuccio が元。"],
+    "etym_note": "イタリア語 cappuccio（頭巾)に由来します。頭の毛や修道服の頭巾が語源で、カプチーノも同じ語源です。",
+    "etym_chain": [
+      { "node": "cappuccio", "sub": "頭巾", "era": "イタリア語" },
+      { "node": "capuchin", "sub": "頭巾の修道士", "era": "16世紀" },
+      { "node": "capuchin", "sub": "オマキザル・修道士", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a capuchin monkey", "ja": "オマキザル" },
+      { "en": "capuchin monks", "ja": "カプチン会の修道士" },
+      { "en": "a clever capuchin", "ja": "賢いオマキザル" },
+      { "en": "capuchins use tools", "ja": "オマキザルは道具を使う" },
+      { "en": "the Capuchin order", "ja": "カプチン修道会" },
+      { "en": "a troop of capuchins", "ja": "オマキザルの群れ" }
+    ],
+    "related": [
+      { "en": "monkey", "ja": "サル" },
+      { "en": "primate", "ja": "霊長類" },
+      { "en": "monk", "ja": "修道士" },
+      { "en": "cappuccino", "ja": "カプチーノ" }
+    ],
+    "faq": [
+      { "q": "capuchin とは？", "a": "主に中南米にすむ賢い小型のサル『オマキザル』を指します。また、頭巾付きの修道服で知られる『カプチン会の修道士』の意味もあります。" },
+      { "q": "カプチーノと関係ありますか？", "a": "はい。どちらも頭巾を表すイタリア語 cappuccio が語源です。カプチーノの色が修道士の茶色い頭巾に似ていることにちなみます。" }
+    ],
+    "quiz": [
+      { "q": "capuchin(動物)とは？", "A": "オマキザル", "B": "リス", "C": "ネコ", "D": "鳥", "correct": "A" },
+      { "q": "capuchin と語源が同じ飲み物は？", "A": "カプチーノ", "B": "紅茶", "C": "コーラ", "D": "ジュース", "correct": "A" }
+    ]
+  },
+  {
+    "english": "caramel",
+    "pron": "ˈkærəmel",
+    "kana": "キャラメル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "スペイン語/フランス語 caramelo/caramel から",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "食べ物・お菓子"],
+    "meaning_main": "キャラメル / (砂糖を焦がした)カラメル",
+    "description": "caramel の意味・発音・使い方。砂糖を加熱して作る「キャラメル・カラメル」を表す名詞。菓子とソースの用法や語源を例文とともに解説します。",
+    "keywords": ["caramel 意味", "caramel 使い方", "caramel 発音", "キャラメル 英語"],
+    "meanings": [
+      { "hinshi": "【名】キャラメル(菓子)", "note": "砂糖・バター・牛乳などを煮て作るやわらかい菓子。可算・不可算" },
+      { "hinshi": "【名】カラメル(砂糖を焦がしたもの)", "note": "砂糖を加熱して作る茶色い風味づけ。プリンなどに使う" }
+    ],
+    "usages": [
+      { "title": "① 「キャラメル」", "desc": "やわらかい甘い菓子。", "example_en": "She loves salted caramel.", "example_ja": "彼女は塩キャラメルが大好きだ。" },
+      { "title": "② 「カラメル」", "desc": "砂糖を焦がした風味づけ。", "example_en": "The pudding is topped with caramel sauce.", "example_ja": "そのプリンにはカラメルソースがかかっている。" }
+    ],
+    "warn": ["菓子のキャラメルも、プリンなどの茶色いカラメルも同じ caramel。動詞 caramelize は『(砂糖を)カラメル状にする』。"],
+    "etym_note": "スペイン語 caramelo・フランス語 caramel に由来し、砂糖を加熱したものを表します。",
+    "etym_chain": [
+      { "node": "caramelo", "sub": "砂糖菓子", "era": "スペイン語" },
+      { "node": "caramel", "sub": "キャラメル", "era": "18世紀フランス語" },
+      { "node": "caramel", "sub": "キャラメル・カラメル", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "salted caramel", "ja": "塩キャラメル" },
+      { "en": "caramel sauce", "ja": "カラメルソース" },
+      { "en": "a caramel candy", "ja": "キャラメル(菓子)" },
+      { "en": "caramel color", "ja": "カラメル色" },
+      { "en": "caramel latte", "ja": "キャラメルラテ" },
+      { "en": "melt into caramel", "ja": "カラメル状に溶ける" }
+    ],
+    "related": [
+      { "en": "sugar", "ja": "砂糖" },
+      { "en": "candy", "ja": "キャンディー、菓子" },
+      { "en": "toffee", "ja": "タフィー(硬めのキャラメル)" },
+      { "en": "caramelize", "ja": "カラメル状にする" }
+    ],
+    "faq": [
+      { "q": "キャラメルとカラメルは違いますか？", "a": "英語ではどちらも caramel です。やわらかい菓子の『キャラメル』も、砂糖を焦がした『カラメル(プリンのソースなど)』も同じ語です。" },
+      { "q": "caramelize とは？", "a": "『(砂糖を加熱して)カラメル状にする・こんがり焼く』という意味の動詞です。玉ねぎを甘く炒めるときにも使います。" }
+    ],
+    "quiz": [
+      { "q": "caramel の意味は？", "A": "キャラメル・カラメル(砂糖を加熱したもの)", "B": "塩", "C": "小麦粉", "D": "バターだけ", "correct": "A" },
+      { "q": "caramelize の意味は？", "A": "カラメル状にする", "B": "凍らせる", "C": "きざむ", "D": "水にひたす", "correct": "A" }
+    ]
+  },
+  {
+    "english": "cardiac",
+    "pron": "ˈkɑːdiæk",
+    "kana": "カーディアック",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ギリシャ語 kardia（心臓）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "医学・心臓"],
+    "meaning_main": "心臓の / 心臓に関する",
+    "description": "cardiac の意味・発音・使い方。「心臓の・心臓に関する」を表す医学の形容詞。cardiac arrest(心停止)などの用法を例文とともに解説します。",
+    "keywords": ["cardiac 意味", "cardiac 使い方", "cardiac 発音", "心臓の 英語"],
+    "meanings": [
+      { "hinshi": "【形】心臓の、心臓に関する", "note": "心臓に関する医学用語。cardiac arrest(心停止)、cardiac muscle(心筋)" }
+    ],
+    "usages": [
+      { "title": "① 「心臓の」", "desc": "心臓に関することを表す。", "example_en": "He suffered a cardiac arrest.", "example_ja": "彼は心停止を起こした。" },
+      { "title": "② 医療の用語で", "desc": "検査・治療で使う。", "example_en": "She was taken to the cardiac unit.", "example_ja": "彼女は心臓病棟に運ばれた。" }
+    ],
+    "warn": ["ギリシャ語 kardia(心臓)由来。cardiology(心臓病学)、cardiac arrest(心停止)などで使う。日常では heart を使うことが多い。"],
+    "etym_note": "ギリシャ語 kardia（心臓)に由来する医学用語です。",
+    "etym_chain": [
+      { "node": "kardia", "sub": "心臓", "era": "古代ギリシャ語" },
+      { "node": "cardiacus", "sub": "心臓の", "era": "ラテン語" },
+      { "node": "cardiac", "sub": "心臓の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "cardiac arrest", "ja": "心停止" },
+      { "en": "cardiac muscle", "ja": "心筋" },
+      { "en": "a cardiac patient", "ja": "心臓病の患者" },
+      { "en": "cardiac surgery", "ja": "心臓外科(手術)" },
+      { "en": "cardiac disease", "ja": "心臓病" },
+      { "en": "the cardiac unit", "ja": "心臓病棟" }
+    ],
+    "related": [
+      { "en": "heart", "ja": "心臓" },
+      { "en": "cardiology", "ja": "心臓病学" },
+      { "en": "coronary", "ja": "冠状動脈の" },
+      { "en": "pulse", "ja": "脈拍" }
+    ],
+    "faq": [
+      { "q": "cardiac arrest とは？", "a": "『心停止』のことです。心臓が突然拍動を止めた状態で、緊急の処置が必要です。heart attack(心臓発作)とは厳密には異なります。" },
+      { "q": "heart とどう違いますか？", "a": "意味は『心臓の』で同じですが、cardiac は医学的・専門的な形容詞、heart は日常的な名詞・形容詞的用法です。" }
+    ],
+    "quiz": [
+      { "q": "cardiac の意味は？", "A": "心臓の", "B": "肺の", "C": "胃の", "D": "脳の", "correct": "A" },
+      { "q": "cardiac arrest の意味は？", "A": "心停止", "B": "頭痛", "C": "骨折", "D": "発熱", "correct": "A" }
+    ]
+  },
+  {
+    "english": "cardiology",
+    "pron": "ˌkɑːdiˈɒlədʒi",
+    "kana": "カーディオロジー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 kardia（心臓）+ -logy（学問）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "医学・分野"],
+    "meaning_main": "心臓病学 / 循環器学",
+    "description": "cardiology の意味・発音・使い方。心臓や血管の病気を扱う医学分野「心臓病学(循環器学)」を表す名詞。専門医 cardiologist との関係を例文で解説します。",
+    "keywords": ["cardiology 意味", "cardiology 使い方", "cardiology 発音", "心臓病学 英語"],
+    "meanings": [
+      { "hinshi": "【名】心臓病学、循環器学", "note": "心臓や血管の病気を研究・治療する医学の分野。不可算。専門医は cardiologist" }
+    ],
+    "usages": [
+      { "title": "① 医学分野「心臓病学」", "desc": "心臓の病気を扱う分野。", "example_en": "She specializes in cardiology.", "example_ja": "彼女は心臓病学を専門にしている。" },
+      { "title": "② 診療科として", "desc": "循環器内科などで使う。", "example_en": "He works in the cardiology department.", "example_ja": "彼は循環器科で働いている。" }
+    ],
+    "warn": ["-logy(学問)+ cardio-(心臓)。専門医は cardiologist(心臓専門医)。関連分野の neurology(神経学)などと同じ作り。"],
+    "etym_note": "ギリシャ語 kardia（心臓)+ -logia（学問)から、『心臓を研究する学問』を表します。",
+    "etym_chain": [
+      { "node": "kardia + logia", "sub": "心臓+学問", "era": "古代ギリシャ語" },
+      { "node": "cardiology", "sub": "心臓病学", "era": "19世紀英語" },
+      { "node": "cardiology", "sub": "心臓病学", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "study cardiology", "ja": "心臓病学を学ぶ" },
+      { "en": "the cardiology department", "ja": "循環器科" },
+      { "en": "specialize in cardiology", "ja": "心臓病学を専門とする" },
+      { "en": "a cardiology clinic", "ja": "循環器のクリニック" },
+      { "en": "pediatric cardiology", "ja": "小児循環器学" },
+      { "en": "advances in cardiology", "ja": "心臓病学の進歩" }
+    ],
+    "related": [
+      { "en": "cardiologist", "ja": "心臓専門医" },
+      { "en": "cardiac", "ja": "心臓の" },
+      { "en": "heart", "ja": "心臓" },
+      { "en": "medicine", "ja": "医学" }
+    ],
+    "faq": [
+      { "q": "cardiology とは？", "a": "心臓や血管の病気を研究・診断・治療する医学の分野『心臓病学(循環器学)』です。専門医を cardiologist と言います。" },
+      { "q": "cardiac との違いは？", "a": "cardiology は名詞『心臓病学(分野)』、cardiac は形容詞『心臓の』です。" }
+    ],
+    "quiz": [
+      { "q": "cardiology の意味は？", "A": "心臓病学", "B": "皮膚科学", "C": "眼科学", "D": "神経学", "correct": "A" },
+      { "q": "cardiology の専門医は？", "A": "cardiologist", "B": "neurologist", "C": "dermatologist", "D": "dentist", "correct": "A" }
+    ]
+  },
+  {
+    "english": "caregiver",
+    "pron": "ˈkeəɡɪvər",
+    "kana": "ケアギバー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "care（世話）+ giver（与える人）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "介護・福祉"],
+    "meaning_main": "介護者 / 世話をする人 / 養育者",
+    "description": "caregiver の意味・発音・使い方。病人・高齢者・子どもなどの「世話をする人・介護者」を表す名詞。家族や専門職の用法を例文とともに解説します。",
+    "keywords": ["caregiver 意味", "caregiver 使い方", "caregiver 発音", "介護者 英語"],
+    "meanings": [
+      { "hinshi": "【名】介護者、世話をする人、養育者", "note": "病人・高齢者・子どもなどの世話を担う人。家族も専門職も含む。可算。英つづり carer" }
+    ],
+    "usages": [
+      { "title": "① 「介護者」", "desc": "高齢者や病人の世話をする人。", "example_en": "She is the main caregiver for her elderly mother.", "example_ja": "彼女は高齢の母の主な介護者だ。" },
+      { "title": "② 養育者として", "desc": "子どもの世話をする人。", "example_en": "A child's primary caregiver is often a parent.", "example_ja": "子どもの主な養育者はたいてい親だ。" }
+    ],
+    "warn": ["care(世話)+ giver(与える人)。イギリス英語では carer とも言う。専門職の介護士も家族の介護者も含む広い語。"],
+    "etym_note": "care（世話)と giver（与える人)を組み合わせた語で、『世話を与える人』を表します。",
+    "etym_chain": [
+      { "node": "care + giver", "sub": "世話+与える人", "era": "20世紀英語" },
+      { "node": "caregiver", "sub": "介護者", "era": "20世紀" },
+      { "node": "caregiver", "sub": "介護者・養育者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a primary caregiver", "ja": "主な介護者・養育者" },
+      { "en": "a family caregiver", "ja": "家族の介護者" },
+      { "en": "a full-time caregiver", "ja": "常勤の介護者" },
+      { "en": "support for caregivers", "ja": "介護者への支援" },
+      { "en": "an elderly caregiver", "ja": "高齢者の介護者" },
+      { "en": "the child's caregiver", "ja": "子どもの養育者" }
+    ],
+    "related": [
+      { "en": "carer", "ja": "介護者(英)" },
+      { "en": "nurse", "ja": "看護師" },
+      { "en": "care", "ja": "世話、介護" },
+      { "en": "guardian", "ja": "保護者、後見人" }
+    ],
+    "faq": [
+      { "q": "caregiver と caretaker の違いは？", "a": "caregiver は『人の世話・介護をする人』、caretaker は『建物などの管理人』を指すことが多いです(ただし米ではcaretakerが人の世話の意味になることも)。" },
+      { "q": "carer と同じですか？", "a": "はい。イギリス英語では carer、アメリカ英語では caregiver がよく使われます。意味は同じです。" }
+    ],
+    "quiz": [
+      { "q": "caregiver の意味は？", "A": "介護者、世話をする人", "B": "運転手", "C": "配達員", "D": "警備員", "correct": "A" },
+      { "q": "caregiver のイギリス英語の言い方は？", "A": "carer", "B": "caretaker", "C": "career", "D": "carrier", "correct": "A" }
+    ]
+  }
+]
