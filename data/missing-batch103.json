@@ -1,0 +1,990 @@
+[
+  {
+    "english": "coprime",
+    "pron": "ˌkəʊˈpraɪm",
+    "kana": "コプライム",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "co-（共に）+ prime（素の）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "数学・専門"],
+    "meaning_main": "互いに素な(2数の最大公約数が1)",
+    "description": "coprime の意味・発音・使い方。2つの整数の最大公約数が1である「互いに素な」を表す数学用語。relatively prime とも言う用法を例文で解説します。",
+    "keywords": ["coprime 意味", "coprime 使い方", "互いに素 英語", "coprime 数学"],
+    "meanings": [
+      { "hinshi": "【形】互いに素な", "note": "2つ以上の整数の最大公約数(GCD)が1であること。relatively prime とも言う" }
+    ],
+    "usages": [
+      { "title": "① 「互いに素な」", "desc": "最大公約数が1の関係。", "example_en": "8 and 15 are coprime.", "example_ja": "8と15は互いに素だ。" },
+      { "title": "② 数学の説明で", "desc": "共通因数をもたない。", "example_en": "Two numbers are coprime if they share no common factor other than 1.", "example_ja": "2数は1以外の共通因数をもたなければ互いに素だ。" }
+    ],
+    "warn": ["prime number(素数)とは別概念。coprime は『2数の関係』(最大公約数が1)。relatively prime とも言う。"],
+    "etym_note": "co-（共に)+ prime（素の)から、『(互いに)素である』を表します。",
+    "etym_chain": [
+      { "node": "co- + prime", "sub": "共に+素の", "era": "近代英語" },
+      { "node": "coprime", "sub": "互いに素な", "era": "20世紀数学英語" },
+      { "node": "coprime", "sub": "互いに素な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "coprime integers", "ja": "互いに素な整数" },
+      { "en": "be coprime to", "ja": "〜と互いに素である" },
+      { "en": "coprime numbers", "ja": "互いに素な数" },
+      { "en": "relatively prime", "ja": "互いに素な(別の言い方)" },
+      { "en": "pairwise coprime", "ja": "どの2つも互いに素な" },
+      { "en": "coprime with", "ja": "〜と互いに素な" }
+    ],
+    "related": [
+      { "en": "prime", "ja": "素数、素の" },
+      { "en": "factor", "ja": "因数、約数" },
+      { "en": "divisor", "ja": "約数" },
+      { "en": "integer", "ja": "整数" }
+    ],
+    "faq": [
+      { "q": "coprime と prime の違いは？", "a": "prime(素数)は『1とその数以外に約数をもたない数』、coprime(互いに素)は『2つの数の最大公約数が1である関係』です。別の概念です。" },
+      { "q": "8と15は互いに素ですか？", "a": "はい。8の約数は1,2,4,8、15の約数は1,3,5,15で、共通の約数は1だけなので互いに素です。" }
+    ],
+    "quiz": [
+      { "q": "coprime の意味は？", "A": "互いに素な(最大公約数が1)", "B": "素数", "C": "偶数", "D": "分数", "correct": "A" },
+      { "q": "互いに素なのはどれ？", "A": "8と15", "B": "6と9", "C": "10と15", "D": "12と18", "correct": "A" }
+    ]
+  },
+  {
+    "english": "cork",
+    "pron": "kɔːk",
+    "kana": "コルク",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "スペイン語 alcorque（コルク樫）から",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "素材・日用品"],
+    "meaning_main": "コルク / (ワインの)コルク栓 / 栓をする",
+    "description": "cork の意味・発音・使い方。コルク樫の樹皮からできる素材「コルク」やワインの「コルク栓」を表す名詞。動詞用法も例文とともに解説します。",
+    "keywords": ["cork 意味", "cork 使い方", "cork 発音", "コルク 英語"],
+    "meanings": [
+      { "hinshi": "【名】コルク(素材)", "note": "コルク樫の樹皮からできる軽くて弾力のある素材。不可算" },
+      { "hinshi": "【名】(ワインなどの)コルク栓", "note": "びんの口をふさぐ栓。可算" },
+      { "hinshi": "【動】コルクの栓をする", "note": "" }
+    ],
+    "usages": [
+      { "title": "① 素材「コルク」", "desc": "軽く弾力のある素材。", "example_en": "The board is made of cork.", "example_ja": "その掲示板はコルクでできている。" },
+      { "title": "② 「コルク栓」", "desc": "ワインなどの栓。", "example_en": "He pulled the cork out of the bottle.", "example_ja": "彼はびんからコルク栓を抜いた。" }
+    ],
+    "warn": ["栓を抜く道具は corkscrew(コルク抜き)。素材のコルクは不可算、コルク栓は可算。"],
+    "etym_note": "スペイン語 alcorque(コルク樫の靴)などを経て、コルク樫の樹皮の素材を表すようになりました。",
+    "etym_chain": [
+      { "node": "alcorque", "sub": "コルク樫", "era": "スペイン語" },
+      { "node": "cork", "sub": "コルク", "era": "中英語" },
+      { "node": "cork", "sub": "コルク・コルク栓", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "pull the cork", "ja": "コルク栓を抜く" },
+      { "en": "a cork board", "ja": "コルクボード" },
+      { "en": "a wine cork", "ja": "ワインのコルク栓" },
+      { "en": "made of cork", "ja": "コルク製の" },
+      { "en": "pop the cork", "ja": "コルク栓をポンと抜く" },
+      { "en": "a corkscrew", "ja": "コルク抜き" }
+    ],
+    "related": [
+      { "en": "bottle", "ja": "びん" },
+      { "en": "stopper", "ja": "栓" },
+      { "en": "corkscrew", "ja": "コルク抜き" },
+      { "en": "wine", "ja": "ワイン" }
+    ],
+    "faq": [
+      { "q": "cork とは？", "a": "コルク樫の樹皮からできる、軽くて弾力のある素材です。また、ワインなどのびんをふさぐ『コルク栓』も指します。" },
+      { "q": "コルク抜きは英語で？", "a": "corkscrew(コルクスクリュー)です。らせん状の金具でコルク栓を抜く道具です。" }
+    ],
+    "quiz": [
+      { "q": "cork の意味は？", "A": "コルク・コルク栓", "B": "ガラス", "C": "金属", "D": "紙", "correct": "A" },
+      { "q": "コルク抜きは英語で？", "A": "corkscrew", "B": "cork opener", "C": "bottle knife", "D": "cork puller", "correct": "A" }
+    ]
+  },
+  {
+    "english": "cornea",
+    "pron": "ˈkɔːniə",
+    "kana": "コーニア",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 cornu（角）から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "医学・体"],
+    "meaning_main": "角膜(かくまく)(目の透明な前面部分)",
+    "description": "cornea の意味・発音・使い方。眼球の前面をおおう透明な膜「角膜」を表す医学用語。役割や関連語を例文とともに解説します。",
+    "keywords": ["cornea 意味", "cornea 使い方", "cornea 発音", "角膜 英語"],
+    "meanings": [
+      { "hinshi": "【名】角膜(かくまく)", "note": "眼球の前面をおおう透明な膜。光を通し、屈折させる。可算。複数形 corneas/corneae" }
+    ],
+    "usages": [
+      { "title": "① 「角膜」", "desc": "目の透明な前面部分。", "example_en": "The cornea covers the front of the eye.", "example_ja": "角膜は目の前面をおおっている。" },
+      { "title": "② 医療の説明で", "desc": "移植や手術の対象。", "example_en": "He received a cornea transplant.", "example_ja": "彼は角膜移植を受けた。" }
+    ],
+    "warn": ["形容詞は corneal(角膜の)。retina(網膜)は目の奥の膜で別。cornea は目の一番前の透明な膜。"],
+    "etym_note": "ラテン語 cornu（角。角のように硬く透明なことから)に由来します。",
+    "etym_chain": [
+      { "node": "cornu", "sub": "角", "era": "ラテン語" },
+      { "node": "cornea", "sub": "角膜", "era": "中英語" },
+      { "node": "cornea", "sub": "角膜", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a cornea transplant", "ja": "角膜移植" },
+      { "en": "damage the cornea", "ja": "角膜を傷つける" },
+      { "en": "the cornea of the eye", "ja": "目の角膜" },
+      { "en": "a scratched cornea", "ja": "傷ついた角膜" },
+      { "en": "corneal surgery", "ja": "角膜手術" },
+      { "en": "protect the cornea", "ja": "角膜を守る" }
+    ],
+    "related": [
+      { "en": "retina", "ja": "網膜" },
+      { "en": "pupil", "ja": "瞳孔" },
+      { "en": "iris", "ja": "虹彩" },
+      { "en": "eye", "ja": "目" }
+    ],
+    "faq": [
+      { "q": "cornea とは？", "a": "眼球の前面をおおう透明な膜『角膜』です。光を通して屈折させ、ものを見るのに重要な役割を果たします。" },
+      { "q": "retina との違いは？", "a": "cornea(角膜)は目の一番前の透明な膜、retina(網膜)は目の奥にあって光を感じ取る膜です。位置と役割が異なります。" }
+    ],
+    "quiz": [
+      { "q": "cornea の意味は？", "A": "角膜(目の透明な前面部分)", "B": "網膜", "C": "まぶた", "D": "まつ毛", "correct": "A" },
+      { "q": "cornea は目のどこ？", "A": "一番前の透明な膜", "B": "一番奥の膜", "C": "目の裏", "D": "眉毛", "correct": "A" }
+    ]
+  },
+  {
+    "english": "corroboration",
+    "pron": "kəˌrɒbəˈreɪʃ(ə)n",
+    "kana": "コロボレーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 corroborare（強める）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "証拠・法律"],
+    "meaning_main": "(証拠などによる)裏付け / 確証 / 補強",
+    "description": "corroboration の意味・発音・使い方。証言や説を「裏付ける証拠・確証」を表すフォーマルな名詞。動詞 corroborate との関係を例文とともに解説します。",
+    "keywords": ["corroboration 意味", "corroboration 使い方", "corroboration 発音", "裏付け 英語"],
+    "meanings": [
+      { "hinshi": "【名】(証拠などによる)裏付け、確証、補強", "note": "他の証拠で確かめること。in corroboration of ...(〜を裏付けて)。不可算" }
+    ],
+    "usages": [
+      { "title": "① 「裏付け」", "desc": "証拠で確かめること。", "example_en": "There is little corroboration of his story.", "example_ja": "彼の話にはほとんど裏付けがない。" },
+      { "title": "② 証言の確証", "desc": "別の証拠で補強する。", "example_en": "The witness provided corroboration.", "example_ja": "その証人は裏付けを提供した。" }
+    ],
+    "warn": ["動詞は corroborate(裏付ける)。collaboration(協力)と綴りが似て紛らわしい。corroboration=裏付け、collaboration=協力。"],
+    "etym_note": "ラテン語 corroborare（cor-「強意」+ roborare「強くする」。robur「力」から)「強める」に由来します。",
+    "etym_chain": [
+      { "node": "corroborare", "sub": "強める", "era": "ラテン語" },
+      { "node": "corroboration", "sub": "裏付け", "era": "16世紀英語" },
+      { "node": "corroboration", "sub": "裏付け・確証", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "in corroboration of", "ja": "〜を裏付けて" },
+      { "en": "need corroboration", "ja": "裏付けが必要だ" },
+      { "en": "provide corroboration", "ja": "裏付けを提供する" },
+      { "en": "lack corroboration", "ja": "裏付けを欠く" },
+      { "en": "independent corroboration", "ja": "独立した裏付け" },
+      { "en": "corroboration of evidence", "ja": "証拠の補強" }
+    ],
+    "related": [
+      { "en": "corroborate", "ja": "裏付ける" },
+      { "en": "confirmation", "ja": "確認、確証" },
+      { "en": "evidence", "ja": "証拠" },
+      { "en": "verification", "ja": "検証" }
+    ],
+    "faq": [
+      { "q": "corroboration と collaboration の違いは？", "a": "corroboration は『(証拠による)裏付け・確証』、collaboration は『協力・共同作業』です。綴りが似ていますが意味がまったく異なります。" },
+      { "q": "動詞形は？", "a": "corroborate(裏付ける・確証する)です。corroborate the story(話を裏付ける)のように使います。" }
+    ],
+    "quiz": [
+      { "q": "corroboration の意味は？", "A": "(証拠による)裏付け・確証", "B": "協力", "C": "反論", "D": "破壊", "correct": "A" },
+      { "q": "corroboration と紛らわしい語は？", "A": "collaboration(協力)", "B": "corrosion(腐食)", "C": "correction(訂正)", "D": "corridor(廊下)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "corrosion",
+    "pron": "kəˈrəʊʒ(ə)n",
+    "kana": "コロージョン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 corrodere（かじり取る）から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "化学・材料"],
+    "meaning_main": "腐食 / さび / (徐々に)むしばむこと",
+    "description": "corrosion の意味・発音・使い方。金属が化学反応でさびる「腐食」を表す名詞。動詞 corrode との関係や比喩用法を例文とともに解説します。",
+    "keywords": ["corrosion 意味", "corrosion 使い方", "corrosion 発音", "腐食 英語"],
+    "meanings": [
+      { "hinshi": "【名】腐食、さび", "note": "金属などが化学反応で徐々に劣化すること。不可算" },
+      { "hinshi": "【名】(徐々に)むしばむこと", "note": "corrosion of trust(信頼の侵食)。比喩" }
+    ],
+    "usages": [
+      { "title": "① 「腐食・さび」", "desc": "金属の化学的劣化。", "example_en": "The pipes showed signs of corrosion.", "example_ja": "そのパイプには腐食の兆候が見られた。" },
+      { "title": "② 「むしばむこと」の比喩", "desc": "徐々に損なうこと。", "example_en": "the slow corrosion of public trust", "example_ja": "国民の信頼が徐々にむしばまれること" }
+    ],
+    "warn": ["動詞は corrode(腐食する)、形容詞 corrosive(腐食性の)。rust(さび)は特に鉄のさびを指す。"],
+    "etym_note": "ラテン語 corrodere（cor-「強意」+ rodere「かじる」)「かじり取る」に由来します。",
+    "etym_chain": [
+      { "node": "corrodere", "sub": "かじり取る", "era": "ラテン語" },
+      { "node": "corrosion", "sub": "腐食", "era": "中英語" },
+      { "node": "corrosion", "sub": "腐食・むしばむこと", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "prevent corrosion", "ja": "腐食を防ぐ" },
+      { "en": "signs of corrosion", "ja": "腐食の兆候" },
+      { "en": "resist corrosion", "ja": "腐食に耐える" },
+      { "en": "corrosion-resistant", "ja": "耐腐食性の" },
+      { "en": "metal corrosion", "ja": "金属の腐食" },
+      { "en": "the corrosion of trust", "ja": "信頼の侵食" }
+    ],
+    "related": [
+      { "en": "corrode", "ja": "腐食する" },
+      { "en": "corrosive", "ja": "腐食性の" },
+      { "en": "rust", "ja": "さび、さびる" },
+      { "en": "erosion", "ja": "侵食" }
+    ],
+    "faq": [
+      { "q": "corrosion と rust の違いは？", "a": "corrosion(腐食)は金属全般が化学反応で劣化すること、rust(さび)は特に『鉄が酸化してできる赤茶色のさび』を指します。rust は corrosion の一種です。" },
+      { "q": "動詞形は？", "a": "corrode(腐食する)です。形容詞は corrosive(腐食性の)です。" }
+    ],
+    "quiz": [
+      { "q": "corrosion の意味は？", "A": "腐食、さび", "B": "強化", "C": "冷却", "D": "潤滑", "correct": "A" },
+      { "q": "corrosion の動詞形は？", "A": "corrode", "B": "correct", "C": "correspond", "D": "corrupt", "correct": "A" }
+    ]
+  },
+  {
+    "english": "cosmetics",
+    "pron": "kɒzˈmetɪks",
+    "kana": "コスメティックス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 kosmetikos（飾る）から",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "美容・日用品"],
+    "meaning_main": "化粧品 / コスメ",
+    "description": "cosmetics の意味・発音・使い方。肌や顔を美しく整える「化粧品」を表す名詞。通例複数形で使う点や形容詞 cosmetic を例文とともに解説します。",
+    "keywords": ["cosmetics 意味", "cosmetics 使い方", "cosmetics 発音", "化粧品 英語"],
+    "meanings": [
+      { "hinshi": "【名】化粧品、コスメ", "note": "肌・顔を美しくする製品。通例複数形 cosmetics。口紅・ファンデーションなど" }
+    ],
+    "usages": [
+      { "title": "① 「化粧品」", "desc": "美容のための製品。", "example_en": "She sells cosmetics at a department store.", "example_ja": "彼女はデパートで化粧品を売っている。" },
+      { "title": "② 業界・製品で", "desc": "美容製品全般。", "example_en": "The cosmetics industry is huge.", "example_ja": "化粧品業界は巨大だ。" }
+    ],
+    "warn": ["通例複数形 cosmetics。形容詞 cosmetic は『化粧の』のほか『(実質を伴わない)うわべだけの』の意味もある(cosmetic changes=表面的な変更)。"],
+    "etym_note": "ギリシャ語 kosmetikos（kosmos「秩序・飾り」から。飾る)に由来します。cosmos(宇宙・秩序)と同語源です。",
+    "etym_chain": [
+      { "node": "kosmetikos", "sub": "飾る", "era": "古代ギリシャ語" },
+      { "node": "cosmetic", "sub": "化粧の", "era": "17世紀英語" },
+      { "node": "cosmetics", "sub": "化粧品", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "sell cosmetics", "ja": "化粧品を売る" },
+      { "en": "the cosmetics industry", "ja": "化粧品業界" },
+      { "en": "natural cosmetics", "ja": "自然派化粧品" },
+      { "en": "cosmetics counter", "ja": "化粧品売り場" },
+      { "en": "a cosmetics brand", "ja": "化粧品ブランド" },
+      { "en": "apply cosmetics", "ja": "化粧品を使う" }
+    ],
+    "related": [
+      { "en": "cosmetic", "ja": "化粧の、うわべの" },
+      { "en": "makeup", "ja": "化粧、メイク" },
+      { "en": "beauty", "ja": "美容、美しさ" },
+      { "en": "skincare", "ja": "スキンケア" }
+    ],
+    "faq": [
+      { "q": "cosmetics は単数ですか複数ですか？", "a": "通例複数形 cosmetics で使います。個々の化粧品は a cosmetic product などと言います。" },
+      { "q": "形容詞 cosmetic の別の意味は？", "a": "『(実質を伴わない)うわべだけの・表面的な』という意味もあります。cosmetic changes(表面的な変更)のように使います。" }
+    ],
+    "quiz": [
+      { "q": "cosmetics の意味は？", "A": "化粧品", "B": "食器", "C": "文房具", "D": "工具", "correct": "A" },
+      { "q": "cosmetic changes の意味は？", "A": "表面的な変更", "B": "抜本的な変更", "C": "化粧の変更", "D": "値段の変更", "correct": "A" }
+    ]
+  },
+  {
+    "english": "cosmogony",
+    "pron": "kɒzˈmɒɡəni",
+    "kana": "コスモゴニー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 kosmos（宇宙）+ gonia（生成）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "宇宙・神話"],
+    "meaning_main": "宇宙生成論 / 宇宙の起源に関する説・神話",
+    "description": "cosmogony の意味・発音・使い方。宇宙がどのように生まれたかを説く「宇宙生成論・宇宙起源の神話」を表す専門語。cosmology との違いを例文で解説します。",
+    "keywords": ["cosmogony 意味", "cosmogony 使い方", "cosmogony 発音", "宇宙生成論 英語"],
+    "meanings": [
+      { "hinshi": "【名】宇宙生成論、宇宙起源の説・神話", "note": "宇宙がどのように生まれたかを説く理論や神話。可算・不可算" }
+    ],
+    "usages": [
+      { "title": "① 「宇宙生成論」", "desc": "宇宙の始まりを説く理論。", "example_en": "Ancient cosmogony often involved gods.", "example_ja": "古代の宇宙生成論はしばしば神々を伴った。" },
+      { "title": "② 神話としての起源譚", "desc": "宇宙創造の物語。", "example_en": "Every culture has its own cosmogony.", "example_ja": "どの文化にも独自の宇宙起源の物語がある。" }
+    ],
+    "warn": ["cosmology(宇宙論=宇宙の構造・全体を扱う)より狭く、『宇宙の起源・始まり』に焦点をあてる。kosmos(宇宙)由来。"],
+    "etym_note": "ギリシャ語 kosmos（宇宙・秩序)+ gonia（生成)から、『宇宙の生成を説くこと』を表します。",
+    "etym_chain": [
+      { "node": "kosmos + gonia", "sub": "宇宙+生成", "era": "古代ギリシャ語" },
+      { "node": "cosmogony", "sub": "宇宙生成論", "era": "17世紀英語" },
+      { "node": "cosmogony", "sub": "宇宙生成論", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "ancient cosmogony", "ja": "古代の宇宙生成論" },
+      { "en": "a creation cosmogony", "ja": "創造の起源譚" },
+      { "en": "mythical cosmogony", "ja": "神話的宇宙生成論" },
+      { "en": "scientific cosmogony", "ja": "科学的宇宙生成論" },
+      { "en": "study cosmogony", "ja": "宇宙生成論を研究する" },
+      { "en": "a cosmogony myth", "ja": "宇宙起源の神話" }
+    ],
+    "related": [
+      { "en": "cosmology", "ja": "宇宙論" },
+      { "en": "cosmos", "ja": "宇宙、秩序" },
+      { "en": "creation", "ja": "創造" },
+      { "en": "myth", "ja": "神話" }
+    ],
+    "faq": [
+      { "q": "cosmogony と cosmology の違いは？", "a": "cosmogony は『宇宙の起源・始まり』を説く理論・神話、cosmology は『宇宙の構造・全体・歴史』を扱う学問です。cosmogony のほうが起源に特化しています。" },
+      { "q": "科学と神話どちらで使う？", "a": "両方で使います。古代の神話的な宇宙起源譚にも、科学的な宇宙生成理論にも用いられます。" }
+    ],
+    "quiz": [
+      { "q": "cosmogony の意味は？", "A": "宇宙生成論・宇宙起源の説", "B": "地質学", "C": "気象学", "D": "生物学", "correct": "A" },
+      { "q": "cosmogony が焦点をあてるのは？", "A": "宇宙の起源・始まり", "B": "生物の進化", "C": "地球の内部", "D": "天気の変化", "correct": "A" }
+    ]
+  },
+  {
+    "english": "counsel",
+    "pron": "ˈkaʊns(ə)l",
+    "kana": "カウンセル",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 consilium（助言・協議）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "助言・法律"],
+    "meaning_main": "助言 / 弁護士 / (専門的に)助言する",
+    "description": "counsel の意味・発音・使い方。「(専門的な)助言」や「弁護士」を表す名詞と、「助言する」を表す動詞。council との違いを例文とともに解説します。",
+    "keywords": ["counsel 意味", "counsel 使い方", "counsel 発音", "助言 英語"],
+    "meanings": [
+      { "hinshi": "【名】助言、忠告", "note": "専門的・思慮深い助言。seek counsel(助言を求める)。不可算" },
+      { "hinshi": "【名】弁護士、法律顧問", "note": "法廷で依頼人を代理する。counsel for the defense(被告側弁護人)" },
+      { "hinshi": "【動】(専門的に)助言する、カウンセリングする", "note": "" }
+    ],
+    "usages": [
+      { "title": "① 「助言」", "desc": "思慮深い忠告。", "example_en": "She sought legal counsel.", "example_ja": "彼女は法律的な助言を求めた。" },
+      { "title": "② 「弁護士」", "desc": "法廷での代理人。", "example_en": "The defendant's counsel objected.", "example_ja": "被告の弁護士は異議を唱えた。" }
+    ],
+    "warn": ["council(評議会・議会)と発音が同じ[ˈkaʊns(ə)l]で紛らわしい。counsel=助言/弁護士、council=評議会。助言者は counselor。"],
+    "etym_note": "ラテン語 consilium（助言・協議)に由来します。council(評議会)とは語源が異なるが発音が同じです。",
+    "etym_chain": [
+      { "node": "consilium", "sub": "助言・協議", "era": "ラテン語" },
+      { "node": "counsel", "sub": "助言", "era": "中英語" },
+      { "node": "counsel", "sub": "助言・弁護士", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "seek counsel", "ja": "助言を求める" },
+      { "en": "legal counsel", "ja": "法律顧問、弁護士" },
+      { "en": "wise counsel", "ja": "賢明な助言" },
+      { "en": "counsel for the defense", "ja": "被告側弁護人" },
+      { "en": "give counsel", "ja": "助言を与える" },
+      { "en": "keep one's own counsel", "ja": "考えを胸に秘めておく" }
+    ],
+    "related": [
+      { "en": "counselor", "ja": "助言者、カウンセラー" },
+      { "en": "advice", "ja": "助言" },
+      { "en": "council", "ja": "評議会、議会" },
+      { "en": "lawyer", "ja": "弁護士" }
+    ],
+    "faq": [
+      { "q": "counsel と council の違いは？", "a": "発音は同じ[ˈkaʊnsl]ですが、counsel は『助言・弁護士・助言する』、council は『評議会・議会』です。綴りと意味が異なります。" },
+      { "q": "keep one's own counsel とは？", "a": "『自分の考えを胸に秘めておく・人に明かさない』という慣用句です。" }
+    ],
+    "quiz": [
+      { "q": "counsel の意味は？", "A": "助言・弁護士", "B": "評議会", "C": "郡", "D": "会議室", "correct": "A" },
+      { "q": "counsel と同じ発音の語は？", "A": "council(評議会)", "B": "cancel(取り消す)", "C": "consul(領事)", "D": "console(慰める)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "countable",
+    "pron": "ˈkaʊntəb(ə)l",
+    "kana": "カウンタブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "count（数える）+ -able",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "文法・数学"],
+    "meaning_main": "数えられる / (文法)可算の",
+    "description": "countable の意味・発音・使い方。「数えられる・可算の」を表す形容詞。英文法の可算名詞や、反対語 uncountable を例文とともに解説します。",
+    "keywords": ["countable 意味", "countable 使い方", "countable 発音", "可算名詞 英語"],
+    "meanings": [
+      { "hinshi": "【形】数えられる、(文法)可算の", "note": "一つ二つと数えられる。a countable noun(可算名詞)。反対は uncountable(不可算の)" }
+    ],
+    "usages": [
+      { "title": "① 「数えられる」", "desc": "一つ二つと数えられる。", "example_en": "'Apple' is a countable noun.", "example_ja": "『apple』は可算名詞だ。" },
+      { "title": "② 文法の説明で", "desc": "複数形にできる名詞。", "example_en": "Countable nouns can be plural.", "example_ja": "可算名詞は複数形にできる。" }
+    ],
+    "warn": ["反対は uncountable(不可算の)。water や information などは不可算。可算名詞は a/an や複数形が使える。"],
+    "etym_note": "count（数える)に『〜できる』を表す -able が付いた語です。",
+    "etym_chain": [
+      { "node": "count", "sub": "数える", "era": "中英語" },
+      { "node": "count + -able", "sub": "数えられる", "era": "近代英語" },
+      { "node": "countable", "sub": "数えられる・可算の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a countable noun", "ja": "可算名詞" },
+      { "en": "countable nouns", "ja": "可算名詞" },
+      { "en": "easily countable", "ja": "簡単に数えられる" },
+      { "en": "countable and uncountable", "ja": "可算と不可算" },
+      { "en": "a countable set", "ja": "可算集合(数学)" },
+      { "en": "countable amounts", "ja": "数えられる量" }
+    ],
+    "related": [
+      { "en": "count", "ja": "数える" },
+      { "en": "uncountable", "ja": "不可算の" },
+      { "en": "noun", "ja": "名詞" },
+      { "en": "plural", "ja": "複数(形)" }
+    ],
+    "faq": [
+      { "q": "countable noun とは？", "a": "『可算名詞』のことです。apple, book のように一つ二つと数えられ、a/an をつけたり複数形にしたりできる名詞です。" },
+      { "q": "反対語は？", "a": "uncountable(不可算の)です。water, information などは不可算名詞で、a/an や複数形をとりません。" }
+    ],
+    "quiz": [
+      { "q": "countable の意味は？", "A": "数えられる、可算の", "B": "数えられない", "C": "重い", "D": "透明な", "correct": "A" },
+      { "q": "countable の反対語は？", "A": "uncountable", "B": "countdown", "C": "counter", "D": "county", "correct": "A" }
+    ]
+  },
+  {
+    "english": "counterargument",
+    "pron": "ˈkaʊntərɑːɡjumənt",
+    "kana": "カウンターアーギュメント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "counter-（対抗の）+ argument（論)",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "議論・論理"],
+    "meaning_main": "反論 / 反対意見 / 対抗する主張",
+    "description": "counterargument の意味・発音・使い方。ある主張に対する「反論・対抗する主張」を表す名詞。ディベートや小論文での用法を例文とともに解説します。",
+    "keywords": ["counterargument 意味", "counterargument 使い方", "counterargument 発音", "反論 英語"],
+    "meanings": [
+      { "hinshi": "【名】反論、対抗する主張", "note": "ある主張に反対して示す論。counter-(対抗)+ argument(論)。可算" }
+    ],
+    "usages": [
+      { "title": "① 「反論」", "desc": "対抗する主張。", "example_en": "She anticipated the counterargument.", "example_ja": "彼女は反論を予想していた。" },
+      { "title": "② 小論文・議論で", "desc": "相手の論に反対する。", "example_en": "A good essay addresses counterarguments.", "example_ja": "よい小論文は反論にも触れる。" }
+    ],
+    "warn": ["counter-(対抗の)を使った複合語。反論は counterargument、対応語は counterpart など counter- は『対抗・反対』を表す。"],
+    "etym_note": "counter-（対抗の・反対の)と argument（論・主張)を組み合わせた語です。",
+    "etym_chain": [
+      { "node": "counter- + argument", "sub": "対抗+論", "era": "近代英語" },
+      { "node": "counterargument", "sub": "反論", "era": "現代英語" },
+      { "node": "counterargument", "sub": "反論・対抗主張", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "make a counterargument", "ja": "反論する" },
+      { "en": "a strong counterargument", "ja": "強力な反論" },
+      { "en": "address counterarguments", "ja": "反論に対処する" },
+      { "en": "anticipate the counterargument", "ja": "反論を予想する" },
+      { "en": "a valid counterargument", "ja": "妥当な反論" },
+      { "en": "raise a counterargument", "ja": "反論を持ち出す" }
+    ],
+    "related": [
+      { "en": "argument", "ja": "論、主張" },
+      { "en": "rebuttal", "ja": "反ばく" },
+      { "en": "objection", "ja": "異議" },
+      { "en": "counter", "ja": "対抗する" }
+    ],
+    "faq": [
+      { "q": "counterargument とは？", "a": "ある主張に反対して示す『反論・対抗する主張』のことです。ディベートや小論文で、相手の論に反論するときに使います。" },
+      { "q": "rebuttal との違いは？", "a": "counterargument は『対抗する主張』全般、rebuttal は特に『相手の反論に対する再反論(反ばく)』を指すことが多いです。" }
+    ],
+    "quiz": [
+      { "q": "counterargument の意味は？", "A": "反論、対抗する主張", "B": "賛成意見", "C": "要約", "D": "質問", "correct": "A" },
+      { "q": "counter- が表す意味は？", "A": "対抗・反対", "B": "強調", "C": "小ささ", "D": "繰り返し", "correct": "A" }
+    ]
+  },
+  {
+    "english": "counterpart",
+    "pron": "ˈkaʊntəpɑːt",
+    "kana": "カウンターパート",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "counter-（対応の）+ part（部分）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "対応・関係"],
+    "meaning_main": "対応する人・もの / (相手側の)同等の立場の人",
+    "description": "counterpart の意味・発音・使い方。「(別の組織・国などで)対応する立場の人・もの」を表す名詞。同等の相手を表す用法を例文とともに解説します。",
+    "keywords": ["counterpart 意味", "counterpart 使い方", "counterpart 発音", "カウンターパート 意味"],
+    "meanings": [
+      { "hinshi": "【名】対応する人・もの、同等の立場の人", "note": "別の組織・国・分野で同じ役割・地位にある存在。可算" }
+    ],
+    "usages": [
+      { "title": "① 「対応する人」", "desc": "相手側の同じ立場の人。", "example_en": "The foreign minister met her Japanese counterpart.", "example_ja": "外相は日本側の対応相手(外相)と会った。" },
+      { "title": "② 「対応するもの」", "desc": "似た役割のもの。", "example_en": "The film is darker than its book counterpart.", "example_ja": "その映画は原作の本より暗い。" }
+    ],
+    "warn": ["counter-(対応の)+ part(部分)。『敵』ではなく『相手側で同じ立場・役割の人・もの』を指す。"],
+    "etym_note": "counter-（対応の)と part（部分)を組み合わせた語で、もとは『(契約書の)控え』を意味しました。",
+    "etym_chain": [
+      { "node": "counter- + part", "sub": "対応+部分", "era": "16世紀英語" },
+      { "node": "counterpart", "sub": "控え・対応するもの", "era": "近代英語" },
+      { "node": "counterpart", "sub": "対応する人・もの", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "one's counterpart", "ja": "対応する相手" },
+      { "en": "a foreign counterpart", "ja": "外国の対応相手" },
+      { "en": "male and female counterparts", "ja": "男女それぞれの対応者" },
+      { "en": "meet one's counterpart", "ja": "対応相手に会う" },
+      { "en": "the modern counterpart", "ja": "現代版の対応するもの" },
+      { "en": "a British counterpart", "ja": "イギリス側の対応者" }
+    ],
+    "related": [
+      { "en": "equivalent", "ja": "同等のもの" },
+      { "en": "peer", "ja": "同等の立場の人" },
+      { "en": "match", "ja": "対、匹敵するもの" },
+      { "en": "opposite number", "ja": "対応する相手" }
+    ],
+    "faq": [
+      { "q": "counterpart とは？", "a": "『別の組織・国・分野で、同じ役割や地位にある人・もの』です。日本の外相にとってのアメリカの国務長官などが counterpart です。" },
+      { "q": "『敵』の意味はありますか？", "a": "いいえ。counterpart は『敵』ではなく『相手側で同等の立場にある人・もの』を指します。" }
+    ],
+    "quiz": [
+      { "q": "counterpart の意味は？", "A": "対応する人・もの、同等の立場の人", "B": "敵", "C": "部下", "D": "見知らぬ人", "correct": "A" },
+      { "q": "『外相が相手国の外相に会う』の相手国の外相は？", "A": "counterpart", "B": "enemy", "C": "stranger", "D": "servant", "correct": "A" }
+    ]
+  },
+  {
+    "english": "countertop",
+    "pron": "ˈkaʊntətɒp",
+    "kana": "カウンタートップ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "counter（台）+ top（上面）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "住居・キッチン"],
+    "meaning_main": "(台所などの)作業台の天板 / カウンターの上面",
+    "description": "countertop の意味・発音・使い方。台所などの作業台の「天板・カウンターの上面」を表す名詞。素材や用途を例文とともに解説します。",
+    "keywords": ["countertop 意味", "countertop 使い方", "countertop 発音", "天板 英語"],
+    "meanings": [
+      { "hinshi": "【名】(台所などの)天板、カウンターの上面", "note": "調理などをする作業台の平らな上面。米で一般的。英では worktop。可算" }
+    ],
+    "usages": [
+      { "title": "① 「天板・作業台の上面」", "desc": "調理をする平らな面。", "example_en": "Wipe down the kitchen countertop.", "example_ja": "台所の天板を拭きなさい。" },
+      { "title": "② 素材の話題で", "desc": "大理石・人工石など。", "example_en": "They chose a granite countertop.", "example_ja": "彼らは御影石の天板を選んだ。" }
+    ],
+    "warn": ["米では countertop、英では worktop。台所の作業台の天板を指す。counter(台・カウンター)+ top(上面)。"],
+    "etym_note": "counter（台・カウンター)と top（上面)を組み合わせた語です。",
+    "etym_chain": [
+      { "node": "counter + top", "sub": "台+上面", "era": "20世紀英語" },
+      { "node": "countertop", "sub": "天板", "era": "20世紀" },
+      { "node": "countertop", "sub": "作業台の天板", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a kitchen countertop", "ja": "台所の天板" },
+      { "en": "a granite countertop", "ja": "御影石の天板" },
+      { "en": "wipe the countertop", "ja": "天板を拭く" },
+      { "en": "clear the countertop", "ja": "天板を片づける" },
+      { "en": "a marble countertop", "ja": "大理石の天板" },
+      { "en": "on the countertop", "ja": "天板の上に" }
+    ],
+    "related": [
+      { "en": "counter", "ja": "台、カウンター" },
+      { "en": "worktop", "ja": "作業台の天板(英)" },
+      { "en": "kitchen", "ja": "台所" },
+      { "en": "surface", "ja": "表面" }
+    ],
+    "faq": [
+      { "q": "countertop とは？", "a": "台所などの作業台の平らな『天板・上面』のことです。調理や作業をする面で、大理石や人工石などの素材があります。" },
+      { "q": "worktop と同じですか？", "a": "はい。アメリカ英語では countertop、イギリス英語では worktop と言います。意味は同じです。" }
+    ],
+    "quiz": [
+      { "q": "countertop の意味は？", "A": "作業台の天板・カウンターの上面", "B": "床", "C": "天井", "D": "窓", "correct": "A" },
+      { "q": "countertop のイギリス英語は？", "A": "worktop", "B": "tabletop", "C": "desktop", "D": "rooftop", "correct": "A" }
+    ]
+  },
+  {
+    "english": "couscous",
+    "pron": "ˈkuːskuːs",
+    "kana": "クスクス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "アラビア語(ベルベル語) kuskus から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "料理・食材"],
+    "meaning_main": "クスクス(粒状に加工した小麦の食品)",
+    "description": "couscous の意味・発音・使い方。デュラム小麦を粒状に加工した北アフリカの食品「クスクス」を表す名詞。bulgur との違いや用法を例文で解説します。",
+    "keywords": ["couscous 意味", "couscous 使い方", "couscous 発音", "クスクス 英語"],
+    "meanings": [
+      { "hinshi": "【名】クスクス", "note": "デュラム小麦の粉を粒状に丸めて蒸した北アフリカ発祥の食品。不可算。発音は[ˈkuːskuːs]" }
+    ],
+    "usages": [
+      { "title": "① 食材「クスクス」", "desc": "粒状の小麦の食品。", "example_en": "We had couscous with vegetables.", "example_ja": "私たちは野菜と一緒にクスクスを食べた。" },
+      { "title": "② 調理法", "desc": "湯や蒸気で戻す。", "example_en": "Pour hot water over the couscous.", "example_ja": "クスクスに熱湯を注ぎなさい。" }
+    ],
+    "warn": ["bulgur(挽き割り小麦)とは別。couscous は小麦粉を粒状に『加工』したもの。北アフリカ(モロッコなど)の料理。"],
+    "etym_note": "北アフリカのベルベル語・アラビア語 kuskus に由来し、フランス語を経て英語に入りました。",
+    "etym_chain": [
+      { "node": "kuskus", "sub": "クスクス", "era": "ベルベル語/アラビア語" },
+      { "node": "couscous", "sub": "クスクス", "era": "フランス語" },
+      { "node": "couscous", "sub": "クスクス", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "cook couscous", "ja": "クスクスを調理する" },
+      { "en": "couscous with vegetables", "ja": "野菜のクスクス" },
+      { "en": "a bowl of couscous", "ja": "クスクス一杯" },
+      { "en": "fluffy couscous", "ja": "ふわっとしたクスクス" },
+      { "en": "Moroccan couscous", "ja": "モロッコのクスクス" },
+      { "en": "steam the couscous", "ja": "クスクスを蒸す" }
+    ],
+    "related": [
+      { "en": "bulgur", "ja": "ブルグル(挽き割り小麦)" },
+      { "en": "semolina", "ja": "セモリナ(デュラム小麦の粉)" },
+      { "en": "grain", "ja": "穀物" },
+      { "en": "wheat", "ja": "小麦" }
+    ],
+    "faq": [
+      { "q": "couscous とは？", "a": "デュラム小麦の粉(セモリナ)を粒状に丸めて蒸した、北アフリカ発祥の食品です。肉や野菜と一緒に食べます。" },
+      { "q": "bulgur との違いは？", "a": "couscous は小麦粉を『粒状に加工』したもの、bulgur は小麦を『ゆでて砕いた』ものです。別の食材です。" }
+    ],
+    "quiz": [
+      { "q": "couscous とは？", "A": "粒状に加工した小麦の食品", "B": "肉料理", "C": "スープ", "D": "デザート", "correct": "A" },
+      { "q": "couscous の発祥は？", "A": "北アフリカ", "B": "日本", "C": "北欧", "D": "南米", "correct": "A" }
+    ]
+  },
+  {
+    "english": "cowardice",
+    "pron": "ˈkaʊədɪs",
+    "kana": "カワディス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "coward（臆病者）+ -ice",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "性質・道徳"],
+    "meaning_main": "臆病 / 卑怯(ひきょう) / 勇気のなさ",
+    "description": "cowardice の意味・発音・使い方。「臆病・勇気のなさ・卑怯さ」を表す名詞。coward(臆病者)との関係や courage(勇気)との対比を例文で解説します。",
+    "keywords": ["cowardice 意味", "cowardice 使い方", "cowardice 発音", "臆病 英語"],
+    "meanings": [
+      { "hinshi": "【名】臆病、勇気のなさ、卑怯", "note": "危険や困難に立ち向かえない性質。反対は courage(勇気)。不可算" }
+    ],
+    "usages": [
+      { "title": "① 「臆病・勇気のなさ」", "desc": "困難に立ち向かえない。", "example_en": "He was accused of cowardice.", "example_ja": "彼は臆病(卑怯)だと非難された。" },
+      { "title": "② 道徳的な非難で", "desc": "逃げる態度への批判。", "example_en": "Running away was an act of cowardice.", "example_ja": "逃げることは臆病な行為だった。" }
+    ],
+    "warn": ["臆病者は coward、形容詞 cowardly(臆病な)。反対は courage(勇気)/bravery(勇敢さ)。綴りは cowardice(-ice)。"],
+    "etym_note": "coward（臆病者。古フランス語 couard から。ラテン語 cauda「尾」→尾を巻いて逃げる)に -ice が付いた語です。",
+    "etym_chain": [
+      { "node": "couard", "sub": "臆病者", "era": "古フランス語" },
+      { "node": "coward", "sub": "臆病者", "era": "中英語" },
+      { "node": "cowardice", "sub": "臆病", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an act of cowardice", "ja": "臆病な行為" },
+      { "en": "accuse of cowardice", "ja": "臆病だと非難する" },
+      { "en": "sheer cowardice", "ja": "まったくの臆病" },
+      { "en": "moral cowardice", "ja": "道徳的臆病" },
+      { "en": "out of cowardice", "ja": "臆病から" },
+      { "en": "cowardice and fear", "ja": "臆病と恐れ" }
+    ],
+    "related": [
+      { "en": "coward", "ja": "臆病者" },
+      { "en": "cowardly", "ja": "臆病な" },
+      { "en": "courage", "ja": "勇気" },
+      { "en": "bravery", "ja": "勇敢さ" }
+    ],
+    "faq": [
+      { "q": "cowardice の反対語は？", "a": "courage(勇気)や bravery(勇敢さ)です。cowardice は『臆病・勇気のなさ』を表します。" },
+      { "q": "臆病者・臆病なは英語で？", "a": "臆病者は coward(名詞)、臆病なは cowardly(形容詞)です。cowardice はその性質(臆病さ)を表す名詞です。" }
+    ],
+    "quiz": [
+      { "q": "cowardice の意味は？", "A": "臆病、勇気のなさ", "B": "勇気", "C": "正直さ", "D": "親切さ", "correct": "A" },
+      { "q": "cowardice の反対語は？", "A": "courage(勇気)", "B": "cowardly(臆病な)", "C": "coward(臆病者)", "D": "fear(恐れ)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "cozy",
+    "pron": "ˈkəʊzi",
+    "kana": "コージー",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "スコットランド語 cosie（心地よい）から",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "描写・快適"],
+    "meaning_main": "居心地のよい / こぢんまりして暖かい / くつろげる",
+    "description": "cozy の意味・発音・使い方。「居心地がよく暖かい・くつろげる」を表す形容詞。小さくて温かい空間の心地よさを表す用法を例文で解説します。",
+    "keywords": ["cozy 意味", "cozy 使い方", "cozy 発音", "居心地 英語"],
+    "meanings": [
+      { "hinshi": "【形】居心地のよい、こぢんまりして暖かい", "note": "小さくても暖かくくつろげる。a cozy room(居心地のよい部屋)。英つづり cosy" }
+    ],
+    "usages": [
+      { "title": "① 「居心地のよい」", "desc": "暖かくくつろげる。", "example_en": "The cabin was small but cozy.", "example_ja": "その小屋は小さいが居心地がよかった。" },
+      { "title": "② 暖かい雰囲気で", "desc": "ほっとする心地よさ。", "example_en": "We spent a cozy evening by the fire.", "example_ja": "私たちは暖炉のそばで居心地のよい夜を過ごした。" }
+    ],
+    "warn": ["英つづりは cosy。『広くて豪華』ではなく『こぢんまりして暖かく心地よい』ニュアンス。comfortable と近い。"],
+    "etym_note": "スコットランド語 cosie(心地よい)に由来するとされます。",
+    "etym_chain": [
+      { "node": "cosie", "sub": "心地よい", "era": "スコットランド語" },
+      { "node": "cozy/cosy", "sub": "居心地のよい", "era": "18世紀英語" },
+      { "node": "cozy", "sub": "居心地のよい", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a cozy room", "ja": "居心地のよい部屋" },
+      { "en": "cozy and warm", "ja": "暖かく居心地のよい" },
+      { "en": "a cozy cafe", "ja": "こぢんまりしたカフェ" },
+      { "en": "get cozy", "ja": "くつろぐ" },
+      { "en": "a cozy atmosphere", "ja": "居心地のよい雰囲気" },
+      { "en": "cozy up", "ja": "身を寄せてくつろぐ" }
+    ],
+    "related": [
+      { "en": "comfortable", "ja": "快適な" },
+      { "en": "snug", "ja": "こぢんまりして暖かい" },
+      { "en": "warm", "ja": "暖かい" },
+      { "en": "homely", "ja": "家庭的な、居心地のよい" }
+    ],
+    "faq": [
+      { "q": "cozy と comfortable の違いは？", "a": "comfortable は『快適な』全般、cozy は特に『こぢんまりして暖かく、ほっとくつろげる』心地よさに重点があります。" },
+      { "q": "英つづりは？", "a": "イギリス英語では cosy と綴ります。意味は同じです。" }
+    ],
+    "quiz": [
+      { "q": "cozy の意味は？", "A": "居心地のよい、こぢんまりして暖かい", "B": "寒々しい", "C": "広くて豪華な", "D": "うるさい", "correct": "A" },
+      { "q": "cozy のイギリスつづりは？", "A": "cosy", "B": "cosey", "C": "cozey", "D": "cozzy", "correct": "A" }
+    ]
+  },
+  {
+    "english": "crag",
+    "pron": "kræɡ",
+    "kana": "クラグ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ケルト語 carrec（岩）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "自然・地形"],
+    "meaning_main": "険しい岩山 / ごつごつした岩壁",
+    "description": "crag の意味・発音・使い方。切り立ってごつごつした「険しい岩山・岩壁」を表す名詞。登山の描写などでの用法を例文とともに解説します。",
+    "keywords": ["crag 意味", "crag 使い方", "crag 発音", "岩山 英語"],
+    "meanings": [
+      { "hinshi": "【名】険しい岩山、ごつごつした岩壁", "note": "切り立った険しい岩。可算" }
+    ],
+    "usages": [
+      { "title": "① 「険しい岩山」", "desc": "切り立った岩壁。", "example_en": "The castle stood on a rocky crag.", "example_ja": "その城は険しい岩山の上に立っていた。" },
+      { "title": "② 登山の描写で", "desc": "ごつごつした岩場。", "example_en": "Climbers scaled the steep crag.", "example_ja": "登山者たちは険しい岩壁をよじ登った。" }
+    ],
+    "warn": ["形容詞 craggy(ごつごつした・岩だらけの)は顔の描写にも使う(a craggy face=いかつい顔)。cliff(崖)より『ごつごつした岩』の印象。"],
+    "etym_note": "ケルト語 carrec(岩)に由来する語です。",
+    "etym_chain": [
+      { "node": "carrec", "sub": "岩", "era": "ケルト語" },
+      { "node": "crag", "sub": "岩山", "era": "中英語" },
+      { "node": "crag", "sub": "険しい岩山", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rocky crag", "ja": "険しい岩山" },
+      { "en": "a steep crag", "ja": "切り立った岩壁" },
+      { "en": "climb the crag", "ja": "岩壁をよじ登る" },
+      { "en": "on a crag", "ja": "岩山の上に" },
+      { "en": "a craggy peak", "ja": "ごつごつした峰" },
+      { "en": "a high crag", "ja": "高い岩山" }
+    ],
+    "related": [
+      { "en": "cliff", "ja": "崖" },
+      { "en": "rock", "ja": "岩" },
+      { "en": "peak", "ja": "山頂、峰" },
+      { "en": "craggy", "ja": "ごつごつした" }
+    ],
+    "faq": [
+      { "q": "crag と cliff の違いは？", "a": "cliff は『(垂直に切り立った)崖』、crag は『ごつごつして険しい岩山・岩壁』を指します。crag は岩の荒々しさに重点があります。" },
+      { "q": "craggy とは？", "a": "『ごつごつした・岩だらけの』という形容詞です。a craggy face のように、いかつい顔の描写にも使います。" }
+    ],
+    "quiz": [
+      { "q": "crag の意味は？", "A": "険しい岩山、ごつごつした岩壁", "B": "砂浜", "C": "草原", "D": "湖", "correct": "A" },
+      { "q": "craggy の意味は？", "A": "ごつごつした", "B": "なめらかな", "C": "小さな", "D": "明るい", "correct": "A" }
+    ]
+  },
+  {
+    "english": "cram",
+    "pron": "kræm",
+    "kana": "クラム",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古英語 crammian（詰め込む）から",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "動作・学習"],
+    "meaning_main": "詰め込む / (直前に)一夜漬けで勉強する",
+    "description": "cram の意味・発音・使い方。「(狭い場所に)ぎっしり詰め込む」を表す動詞。試験前に「一夜漬けで詰め込み勉強する」の用法も例文で解説します。",
+    "keywords": ["cram 意味", "cram 使い方", "cram 発音", "詰め込む 英語"],
+    "meanings": [
+      { "hinshi": "【動】(狭い場所に)詰め込む、押し込む", "note": "cram A into B(AをBに詰め込む)。t を重ねて crammed/cramming" },
+      { "hinshi": "【動】(試験前に)詰め込み勉強する、一夜漬けする", "note": "cram for an exam(試験のため詰め込む)" }
+    ],
+    "usages": [
+      { "title": "① 「詰め込む」", "desc": "ぎっしり押し込む。", "example_en": "She crammed her clothes into the suitcase.", "example_ja": "彼女は服をスーツケースに詰め込んだ。" },
+      { "title": "② 「一夜漬け」", "desc": "試験前に詰め込み勉強。", "example_en": "He crammed all night for the test.", "example_ja": "彼はテストのため一晩中詰め込み勉強をした。" }
+    ],
+    "warn": ["m を重ねて活用: crammed/cramming。cram school は『学習塾(予備校)』(和製英語ではない)。"],
+    "etym_note": "古英語 crammian（詰め込む)に由来します。",
+    "etym_chain": [
+      { "node": "crammian", "sub": "詰め込む", "era": "古英語" },
+      { "node": "cram", "sub": "詰め込む", "era": "中英語" },
+      { "node": "cram", "sub": "詰め込む・一夜漬けする", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "cram into", "ja": "〜に詰め込む" },
+      { "en": "cram for an exam", "ja": "試験のため一夜漬けする" },
+      { "en": "cram school", "ja": "学習塾、予備校" },
+      { "en": "crammed with", "ja": "〜で詰まった" },
+      { "en": "cram everything in", "ja": "全部詰め込む" },
+      { "en": "cram in", "ja": "詰め込む" }
+    ],
+    "related": [
+      { "en": "stuff", "ja": "詰め込む" },
+      { "en": "pack", "ja": "詰める" },
+      { "en": "squeeze", "ja": "押し込む" },
+      { "en": "study", "ja": "勉強する" }
+    ],
+    "faq": [
+      { "q": "cram for an exam とは？", "a": "『試験のために(直前に)詰め込み勉強・一夜漬けする』という意味です。短期間で大量に覚え込むことを表します。" },
+      { "q": "cram school とは？", "a": "『学習塾・予備校』のことです。試験対策などのために集中的に勉強する塾を指します。" }
+    ],
+    "quiz": [
+      { "q": "cram の意味は？", "A": "詰め込む・一夜漬けする", "B": "捨てる", "C": "掃除する", "D": "休む", "correct": "A" },
+      { "q": "cram for an exam の意味は？", "A": "試験のため一夜漬けする", "B": "試験をサボる", "C": "試験を受ける", "D": "試験を作る", "correct": "A" }
+    ]
+  },
+  {
+    "english": "cramped",
+    "pron": "kræmpt",
+    "kana": "クランプト",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "cramp（けいれん・締めつけ）+ -ed",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "空間・描写"],
+    "meaning_main": "(場所が)狭苦しい / 窮屈な / (字が)詰まった",
+    "description": "cramped の意味・発音・使い方。「(場所が)狭くて窮屈な」を表す形容詞。狭い空間や詰まった字を表す用法を例文とともに解説します。",
+    "keywords": ["cramped 意味", "cramped 使い方", "cramped 発音", "狭苦しい 英語"],
+    "meanings": [
+      { "hinshi": "【形】(場所が)狭苦しい、窮屈な", "note": "十分な空間がなく窮屈。a cramped room(狭苦しい部屋)" },
+      { "hinshi": "【形】(字が)詰まって読みにくい", "note": "cramped handwriting(詰まった字)" }
+    ],
+    "usages": [
+      { "title": "① 「狭苦しい」", "desc": "窮屈で余裕がない。", "example_en": "The apartment felt cramped.", "example_ja": "そのアパートは狭苦しく感じられた。" },
+      { "title": "② 「詰まった字」", "desc": "字が窮屈に詰まる。", "example_en": "His cramped handwriting was hard to read.", "example_ja": "彼の詰まった字は読みにくかった。" }
+    ],
+    "warn": ["cramp(けいれん・締めつけ)+ -ed。反対は spacious(広々とした)/roomy(ゆったりした)。"],
+    "etym_note": "cramp（けいれん・締めつけ)の過去分詞から形容詞化し、『締めつけられて窮屈な』を表します。",
+    "etym_chain": [
+      { "node": "cramp", "sub": "けいれん・締めつけ", "era": "中英語" },
+      { "node": "cramped", "sub": "窮屈な", "era": "近代英語" },
+      { "node": "cramped", "sub": "狭苦しい・窮屈な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a cramped room", "ja": "狭苦しい部屋" },
+      { "en": "cramped conditions", "ja": "窮屈な状況" },
+      { "en": "feel cramped", "ja": "窮屈に感じる" },
+      { "en": "cramped space", "ja": "狭い空間" },
+      { "en": "cramped handwriting", "ja": "詰まった字" },
+      { "en": "a cramped seat", "ja": "窮屈な座席" }
+    ],
+    "related": [
+      { "en": "cramp", "ja": "けいれん、締めつけ" },
+      { "en": "crowded", "ja": "混雑した" },
+      { "en": "spacious", "ja": "広々とした" },
+      { "en": "roomy", "ja": "ゆったりした" }
+    ],
+    "faq": [
+      { "q": "cramped と crowded の違いは？", "a": "cramped は『(空間が)狭くて窮屈』、crowded は『(人・物で)混雑している』に重点があります。狭くて人も多ければ両方使えます。" },
+      { "q": "反対語は？", "a": "spacious(広々とした)や roomy(ゆったりした)です。" }
+    ],
+    "quiz": [
+      { "q": "cramped の意味は？", "A": "狭苦しい、窮屈な", "B": "広々とした", "C": "明るい", "D": "静かな", "correct": "A" },
+      { "q": "cramped の反対語は？", "A": "spacious(広々とした)", "B": "crowded(混雑した)", "C": "narrow(狭い)", "D": "tight(きつい)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "craton",
+    "pron": "ˈkreɪtɒn",
+    "kana": "クラトン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 kratos（力・強さ）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "地質学・専門"],
+    "meaning_main": "クラトン(安定大陸塊) / 大陸の古い安定した地殻部分",
+    "description": "craton の意味・発音・使い方。長期間ほとんど変形していない大陸地殻の古く安定した部分「クラトン」を表す地質学用語を例文とともに解説します。",
+    "keywords": ["craton 意味", "craton 使い方", "craton 発音", "クラトン 地質"],
+    "meanings": [
+      { "hinshi": "【名】クラトン、安定大陸塊", "note": "長い間ほとんど変形せず安定した、大陸の古い地殻部分。可算" }
+    ],
+    "usages": [
+      { "title": "① 「安定大陸塊」", "desc": "変形しない古い地殻。", "example_en": "A craton is a stable part of a continent.", "example_ja": "クラトンは大陸の安定した部分だ。" },
+      { "title": "② 地質学の説明で", "desc": "地質年代の古い地域。", "example_en": "The oldest rocks are found in cratons.", "example_ja": "最も古い岩石はクラトンで見つかる。" }
+    ],
+    "warn": ["地質学の専門語。長期間地殻変動を受けずに安定した大陸の中核部を指す。楯状地(shield)や卓状地を含む。"],
+    "etym_note": "ギリシャ語 kratos（力・強さ)に由来し、『(変形に耐える)強く安定した地塊』を表します。",
+    "etym_chain": [
+      { "node": "kratos", "sub": "力・強さ", "era": "古代ギリシャ語" },
+      { "node": "kratogen/craton", "sub": "安定地塊", "era": "20世紀地質学" },
+      { "node": "craton", "sub": "クラトン", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a stable craton", "ja": "安定したクラトン" },
+      { "en": "an ancient craton", "ja": "古いクラトン" },
+      { "en": "the continental craton", "ja": "大陸クラトン" },
+      { "en": "cratons and shields", "ja": "クラトンと楯状地" },
+      { "en": "form a craton", "ja": "クラトンを形成する" },
+      { "en": "rocks in the craton", "ja": "クラトンの岩石" }
+    ],
+    "related": [
+      { "en": "continent", "ja": "大陸" },
+      { "en": "shield", "ja": "楯状地" },
+      { "en": "crust", "ja": "地殻" },
+      { "en": "tectonic", "ja": "地殻変動の" }
+    ],
+    "faq": [
+      { "q": "craton とは？", "a": "大陸地殻のうち、長い地質年代の間ほとんど変形せずに安定している古い部分『クラトン(安定大陸塊)』です。地球最古の岩石が見つかることがあります。" },
+      { "q": "shield との関係は？", "a": "shield(楯状地)はクラトンのうち、古い岩石が地表に露出している部分を指します。クラトンの一部です。" }
+    ],
+    "quiz": [
+      { "q": "craton とは？", "A": "大陸の古く安定した地殻部分", "B": "火山", "C": "海溝", "D": "砂漠", "correct": "A" },
+      { "q": "craton の特徴は？", "A": "長い間ほとんど変形していない", "B": "頻繁に噴火する", "C": "海の底にある", "D": "毎年動く", "correct": "A" }
+    ]
+  },
+  {
+    "english": "crease",
+    "pron": "kriːs",
+    "kana": "クリース",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "中英語 creaste（折り目）から",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "衣類・描写"],
+    "meaning_main": "折り目 / しわ / (折り目やしわを)つける",
+    "description": "crease の意味・発音・使い方。衣服や紙の「折り目・しわ」を表す名詞と、「折り目・しわをつける」を表す動詞。wrinkle との違いを例文で解説します。",
+    "keywords": ["crease 意味", "crease 使い方", "crease 発音", "折り目 英語"],
+    "meanings": [
+      { "hinshi": "【名】折り目、しわ", "note": "布・紙などの折れた線やしわ。可算" },
+      { "hinshi": "【動】(折り目・しわを)つける、しわになる", "note": "" }
+    ],
+    "usages": [
+      { "title": "① 「折り目・しわ」", "desc": "布や紙の折れ線。", "example_en": "Iron out the creases in your shirt.", "example_ja": "シャツのしわをアイロンで伸ばしなさい。" },
+      { "title": "② 動詞「しわをつける」", "desc": "折り目がつく。", "example_en": "Don't crease the paper.", "example_ja": "その紙にしわをつけないで。" }
+    ],
+    "warn": ["crease(意図的な折り目/しわ)は wrinkle(不規則な細かいしわ)より『折れ線・折り目』の印象が強い。ズボンの折り目も crease。"],
+    "etym_note": "中英語 creaste(折り目・稜線)に由来します。",
+    "etym_chain": [
+      { "node": "creaste", "sub": "折り目", "era": "中英語" },
+      { "node": "crease", "sub": "折り目・しわ", "era": "近代英語" },
+      { "node": "crease", "sub": "折り目・しわをつける", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "iron out the creases", "ja": "しわを伸ばす" },
+      { "en": "a sharp crease", "ja": "くっきりした折り目" },
+      { "en": "creases in the trousers", "ja": "ズボンの折り目" },
+      { "en": "crease the paper", "ja": "紙に折り目をつける" },
+      { "en": "a crease in the fabric", "ja": "布のしわ" },
+      { "en": "crease-resistant", "ja": "しわになりにくい" }
+    ],
+    "related": [
+      { "en": "wrinkle", "ja": "しわ" },
+      { "en": "fold", "ja": "折る、折り目" },
+      { "en": "pleat", "ja": "プリーツ、ひだ" },
+      { "en": "iron", "ja": "アイロンをかける" }
+    ],
+    "faq": [
+      { "q": "crease と wrinkle の違いは？", "a": "crease は主に『折りたたみでできる折り目・折れ線』、wrinkle は『不規則な細かいしわ』を指します。ズボンの折り目は crease です。" },
+      { "q": "crease-resistant とは？", "a": "『しわになりにくい』という意味です。衣類の加工や素材の性質を表します。" }
+    ],
+    "quiz": [
+      { "q": "crease の意味は？", "A": "折り目、しわ", "B": "ボタン", "C": "そで", "D": "えり", "correct": "A" },
+      { "q": "iron out the creases の意味は？", "A": "しわを伸ばす", "B": "しわをつける", "C": "布を切る", "D": "服を洗う", "correct": "A" }
+    ]
+  }
+]
