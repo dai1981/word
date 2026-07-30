@@ -1,0 +1,994 @@
+[
+  {
+    "english": "backspin",
+    "pron": "ˈbækspɪn",
+    "kana": "バックスピン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "back（後ろ）+ spin（回転）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "スポーツ"],
+    "meaning_main": "バックスピン / 逆回転",
+    "description": "backspin の意味・発音・使い方。ボールが進行方向と逆に回る「バックスピン(逆回転)」を表す名詞。球技での効果を例文とともに解説します。",
+    "keywords": ["backspin 意味", "backspin 使い方", "backspin 発音", "バックスピン 意味"],
+    "meanings": [
+      { "hinshi": "【名】バックスピン、逆回転", "note": "ボールが進む向きと逆に回る回転。テニス・卓球・ゴルフなどで使う。不可算" }
+    ],
+    "usages": [
+      { "title": "① 球技の「逆回転」", "desc": "ボールにかける後ろ向きの回転。", "example_en": "She hit the ball with heavy backspin.", "example_ja": "彼女は強いバックスピンをかけてボールを打った。" },
+      { "title": "② 効果の説明", "desc": "止まりやすく・伸びにくくなる。", "example_en": "Backspin makes the ball stop quickly on the green.", "example_ja": "バックスピンはグリーン上でボールを素早く止める。" }
+    ],
+    "warn": ["反対は topspin(トップスピン、順回転)。back(後ろ)+ spin(回転)の複合語。"],
+    "etym_note": "back（後ろ)と spin（回転)を組み合わせた語で、「後ろ向きの回転」を表します。",
+    "etym_chain": [
+      { "node": "back + spin", "sub": "後ろ+回転", "era": "近代英語" },
+      { "node": "backspin", "sub": "逆回転", "era": "20世紀" },
+      { "node": "backspin", "sub": "バックスピン", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "heavy backspin", "ja": "強いバックスピン" },
+      { "en": "put backspin on the ball", "ja": "ボールに逆回転をかける" },
+      { "en": "with backspin", "ja": "バックスピンをかけて" },
+      { "en": "apply backspin", "ja": "逆回転をかける" },
+      { "en": "a shot with backspin", "ja": "逆回転のかかったショット" },
+      { "en": "generate backspin", "ja": "バックスピンを生む" }
+    ],
+    "related": [
+      { "en": "topspin", "ja": "トップスピン、順回転" },
+      { "en": "spin", "ja": "回転" },
+      { "en": "curve", "ja": "曲がる、カーブ" },
+      { "en": "serve", "ja": "サーブ" }
+    ],
+    "faq": [
+      { "q": "backspin と topspin の違いは？", "a": "backspin はボールが進む向きと逆に回る『逆回転』、topspin は進む向きと同じに回る『順回転』です。効果が正反対です。" },
+      { "q": "backspin の効果は？", "a": "着地後にボールが止まりやすく、また空中では失速しやすくなります。ゴルフや卓球でよく利用されます。" }
+    ],
+    "quiz": [
+      { "q": "backspin の意味は？", "A": "逆回転(バックスピン)", "B": "順回転", "C": "無回転", "D": "横回転のみ", "correct": "A" },
+      { "q": "backspin の反対は？", "A": "topspin", "B": "sidespin", "C": "no spin", "D": "backhand", "correct": "A" }
+    ]
+  },
+  {
+    "english": "backup",
+    "pron": "ˈbækʌp",
+    "kana": "バックアップ",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "back up（支える・控えにする）から",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "IT・基本語"],
+    "meaning_main": "バックアップ(控えのデータ) / 支援 / 予備の",
+    "description": "backup の意味・発音・使い方。データの「控え(バックアップ)」や「支援・予備」を表す名詞・形容詞。動詞 back up との違いを例文で解説します。",
+    "keywords": ["backup 意味", "backup 使い方", "backup 発音", "バックアップ 意味"],
+    "meanings": [
+      { "hinshi": "【名】バックアップ(控えのデータ・複製)", "note": "データの予備コピー。make a backup(バックアップを取る)" },
+      { "hinshi": "【名】支援、後ろ盾", "note": "助けや応援。call for backup(応援を呼ぶ)" },
+      { "hinshi": "【形】予備の、控えの", "note": "a backup plan(予備の計画)" }
+    ],
+    "usages": [
+      { "title": "① データの「バックアップ」", "desc": "万一に備えた複製。", "example_en": "Always keep a backup of your files.", "example_ja": "ファイルのバックアップは必ず取っておきなさい。" },
+      { "title": "② 「支援・予備」", "desc": "助けや代わりを表す。", "example_en": "The police called for backup.", "example_ja": "警察は応援を要請した。" }
+    ],
+    "warn": ["名詞・形容詞は1語 backup、動詞は2語 back up(バックアップを取る/支援する)。"],
+    "etym_note": "句動詞 back up（支える・後退させる)から生まれた名詞・形容詞です。",
+    "etym_chain": [
+      { "node": "back up", "sub": "支える・控えにする", "era": "近代英語" },
+      { "node": "backup", "sub": "予備・支援", "era": "20世紀" },
+      { "node": "backup", "sub": "バックアップ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "make a backup", "ja": "バックアップを取る" },
+      { "en": "a backup plan", "ja": "予備の計画" },
+      { "en": "call for backup", "ja": "応援を呼ぶ" },
+      { "en": "backup copy", "ja": "控えのコピー" },
+      { "en": "backup power", "ja": "予備電源" },
+      { "en": "backup singer", "ja": "バックコーラス歌手" }
+    ],
+    "related": [
+      { "en": "back up", "ja": "バックアップを取る、支援する" },
+      { "en": "copy", "ja": "複製、コピー" },
+      { "en": "support", "ja": "支援" },
+      { "en": "spare", "ja": "予備の" }
+    ],
+    "faq": [
+      { "q": "backup と back up の違いは？", "a": "backup(1語)は名詞・形容詞『控え・予備の』、back up(2語)は動詞『バックアップを取る・支援する』です。" },
+      { "q": "a backup plan とは？", "a": "『予備の計画・代替案』のことです。うまくいかなかったときのための第二の計画を指します。" }
+    ],
+    "quiz": [
+      { "q": "backup(名詞)の意味は？", "A": "控え・予備・支援", "B": "前進", "C": "破壊", "D": "削除", "correct": "A" },
+      { "q": "動詞『バックアップを取る』は？", "A": "backup(1語)", "B": "back up(2語)", "C": "up back", "D": "backing", "correct": "B" }
+    ]
+  },
+  {
+    "english": "bacon",
+    "pron": "ˈbeɪk(ə)n",
+    "kana": "ベイコン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 bacon（豚の背肉）から",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A1", "食べ物・基本語"],
+    "meaning_main": "ベーコン(塩漬け・薫製した豚肉)",
+    "description": "bacon の意味・発音・使い方。塩漬けにして薫製した豚肉「ベーコン」を表す名詞。不可算名詞である点や慣用句を例文とともに解説します。",
+    "keywords": ["bacon 意味", "bacon 使い方", "bacon 発音", "ベーコン 英語"],
+    "meanings": [
+      { "hinshi": "【名】ベーコン", "note": "豚肉を塩漬け・薫製した食品。不可算名詞。数えるときは a slice/piece of bacon" }
+    ],
+    "usages": [
+      { "title": "① 食べ物「ベーコン」", "desc": "朝食などで焼いて食べる。", "example_en": "I had bacon and eggs for breakfast.", "example_ja": "朝食にベーコンエッグを食べた。" },
+      { "title": "② 数え方", "desc": "不可算なので slice などで数える。", "example_en": "She fried two slices of bacon.", "example_ja": "彼女はベーコンを2枚焼いた。" }
+    ],
+    "warn": ["不可算名詞。a bacon とは言わず、a slice/piece of bacon と数える。bring home the bacon(生活費を稼ぐ)という慣用句もある。"],
+    "etym_note": "古フランス語 bacon（豚の背肉)に由来し、もとはゲルマン語系の語です。",
+    "etym_chain": [
+      { "node": "bako", "sub": "背肉", "era": "ゲルマン語" },
+      { "node": "bacon", "sub": "豚の背肉", "era": "古フランス語" },
+      { "node": "bacon", "sub": "ベーコン", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "bacon and eggs", "ja": "ベーコンエッグ" },
+      { "en": "a slice of bacon", "ja": "ベーコン1枚" },
+      { "en": "crispy bacon", "ja": "カリカリのベーコン" },
+      { "en": "fry some bacon", "ja": "ベーコンを焼く" },
+      { "en": "bring home the bacon", "ja": "生活費を稼ぐ" },
+      { "en": "smoked bacon", "ja": "薫製ベーコン" }
+    ],
+    "related": [
+      { "en": "ham", "ja": "ハム" },
+      { "en": "sausage", "ja": "ソーセージ" },
+      { "en": "pork", "ja": "豚肉" },
+      { "en": "breakfast", "ja": "朝食" }
+    ],
+    "faq": [
+      { "q": "bacon は数えられますか？", "a": "いいえ、不可算名詞です。数えるときは a slice of bacon(ベーコン1枚)や a piece of bacon のように言います。" },
+      { "q": "bring home the bacon とは？", "a": "『生活費を稼ぐ・成功する』という意味の慣用句です。" }
+    ],
+    "quiz": [
+      { "q": "bacon の意味は？", "A": "ベーコン(薫製した豚肉)", "B": "パン", "C": "チーズ", "D": "卵", "correct": "A" },
+      { "q": "bacon の正しい数え方は？", "A": "a slice of bacon", "B": "a bacon", "C": "two bacons", "D": "many bacon", "correct": "A" }
+    ]
+  },
+  {
+    "english": "badger",
+    "pron": "ˈbædʒər",
+    "kana": "バジャー",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "由来には諸説あり(額の白い模様 badge から等)",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "動物・動作"],
+    "meaning_main": "アナグマ / (人を)しつこく悩ませる・せがむ",
+    "description": "badger の意味・発音・使い方。動物の「アナグマ」を表す名詞と、「しつこくせがむ・悩ませる」を表す動詞。両方の用法を例文で解説します。",
+    "keywords": ["badger 意味", "badger 使い方", "badger 発音", "アナグマ 英語"],
+    "meanings": [
+      { "hinshi": "【名】アナグマ", "note": "地面に巣穴を掘って暮らす夜行性の哺乳類。可算名詞" },
+      { "hinshi": "【動】(人を)しつこく悩ませる、せがむ", "note": "badger someone into ...(しつこくせがんで〜させる)" }
+    ],
+    "usages": [
+      { "title": "① 動物「アナグマ」", "desc": "夜行性で穴を掘って暮らす。", "example_en": "A badger dug a hole under the fence.", "example_ja": "アナグマが柵の下に穴を掘った。" },
+      { "title": "② 「しつこくせがむ」", "desc": "何度も頼んで人を困らせる。", "example_en": "The kids badgered their parents for a puppy.", "example_ja": "子どもたちは子犬をせがんで親を困らせた。" }
+    ],
+    "warn": ["動詞の『しつこく悩ませる』は、かつてアナグマをいじめる遊び(badger-baiting)に由来するとされる。"],
+    "etym_note": "名詞の由来には諸説あり、額の白い縞を badge（記章)に見立てたともいわれます。動詞は後に生まれました。",
+    "etym_chain": [
+      { "node": "badge?", "sub": "額の白い模様", "era": "16世紀英語" },
+      { "node": "badger", "sub": "アナグマ", "era": "近代英語" },
+      { "node": "badger", "sub": "アナグマ・しつこく悩ます", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a badger's burrow", "ja": "アナグマの巣穴" },
+      { "en": "badger someone", "ja": "(人を)しつこく悩ませる" },
+      { "en": "badger into", "ja": "せがんで〜させる" },
+      { "en": "stop badgering me", "ja": "しつこくせがまないで" },
+      { "en": "badger for", "ja": "〜をせがむ" },
+      { "en": "a nocturnal badger", "ja": "夜行性のアナグマ" }
+    ],
+    "related": [
+      { "en": "pester", "ja": "しつこく悩ませる" },
+      { "en": "nag", "ja": "がみがみ言う" },
+      { "en": "burrow", "ja": "巣穴、穴を掘る" },
+      { "en": "mammal", "ja": "哺乳類" }
+    ],
+    "faq": [
+      { "q": "badger の動詞の意味は？", "a": "『(人を)しつこく悩ませる・何度もせがむ』です。badger someone into doing(せがんで〜させる)のように使います。" },
+      { "q": "badger と pester の違いは？", "a": "ほぼ同義で『しつこく悩ませる』ですが、badger は特に『何度も頼んで困らせる』ニュアンスが強い語です。" }
+    ],
+    "quiz": [
+      { "q": "badger(名詞)の意味は？", "A": "アナグマ", "B": "キツネ", "C": "リス", "D": "ウサギ", "correct": "A" },
+      { "q": "badger(動詞)の意味は？", "A": "しつこくせがむ・悩ませる", "B": "静かにする", "C": "ほめる", "D": "無視する", "correct": "A" }
+    ]
+  },
+  {
+    "english": "baffle",
+    "pron": "ˈbæf(ə)l",
+    "kana": "バッフル",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "由来不確か(16世紀スコットランド語 bawchill 等)",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "感情・思考"],
+    "meaning_main": "(人を)当惑させる / まごつかせる / 理解を超える",
+    "description": "baffle の意味・発音・使い方。「(難問などが人を)まったく理解できず当惑させる」を表す動詞。be baffled by の形を例文とともに解説します。",
+    "keywords": ["baffle 意味", "baffle 使い方", "baffle 発音", "バッフル 意味"],
+    "meanings": [
+      { "hinshi": "【動】(人を)当惑させる、まごつかせる", "note": "理解できなくて困らせる。しばしば受動態 be baffled by(〜に当惑する)" }
+    ],
+    "usages": [
+      { "title": "① 「当惑させる」", "desc": "理解できずに困らせる。", "example_en": "The puzzle baffled everyone.", "example_ja": "そのパズルは皆を当惑させた。" },
+      { "title": "② be baffled by", "desc": "『〜に当惑する』は受動態。", "example_en": "Scientists were baffled by the results.", "example_ja": "科学者たちはその結果に当惑した。" }
+    ],
+    "warn": ["confuse より『まったく説明がつかず途方に暮れる』ニュアンスが強い。be baffled by の形が多い。"],
+    "etym_note": "16世紀の英語・スコットランド語に由来するとされますが、語源ははっきりしていません。",
+    "etym_chain": [
+      { "node": "bawchill?", "sub": "辱める", "era": "16世紀スコットランド語" },
+      { "node": "baffle", "sub": "くじく・当惑させる", "era": "近代英語" },
+      { "node": "baffle", "sub": "当惑させる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be baffled by", "ja": "〜に当惑する" },
+      { "en": "completely baffled", "ja": "すっかり当惑して" },
+      { "en": "baffle the experts", "ja": "専門家を困らせる" },
+      { "en": "a baffling problem", "ja": "訳のわからない問題" },
+      { "en": "baffle description", "ja": "言葉で言い表せない" },
+      { "en": "leave someone baffled", "ja": "(人を)当惑させたままにする" }
+    ],
+    "related": [
+      { "en": "confuse", "ja": "混乱させる" },
+      { "en": "puzzle", "ja": "当惑させる、難問" },
+      { "en": "perplex", "ja": "困惑させる" },
+      { "en": "mystify", "ja": "煙に巻く、当惑させる" }
+    ],
+    "faq": [
+      { "q": "baffle と confuse の違いは？", "a": "confuse は『混乱させる』一般、baffle は『まったく理解・説明できず途方に暮れさせる』強い当惑を表します。" },
+      { "q": "baffling とは？", "a": "『訳がわからない・当惑させる』という意味の形容詞です。a baffling mystery(理解しがたい謎)のように使います。" }
+    ],
+    "quiz": [
+      { "q": "baffle の意味は？", "A": "当惑させる、まごつかせる", "B": "励ます", "C": "手伝う", "D": "笑わせる", "correct": "A" },
+      { "q": "be baffled by の意味は？", "A": "〜に当惑する", "B": "〜に感謝する", "C": "〜を好む", "D": "〜を作る", "correct": "A" }
+    ]
+  },
+  {
+    "english": "baht",
+    "pron": "bɑːt",
+    "kana": "バーツ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "タイ語 บาท（bāt）から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "通貨・固有名詞"],
+    "meaning_main": "バーツ(タイの通貨単位)",
+    "description": "baht の意味・発音・使い方。タイの通貨単位「バーツ」を表す名詞。通貨記号や使い方を例文とともに解説します。",
+    "keywords": ["baht 意味", "baht 使い方", "baht 発音", "バーツ タイ"],
+    "meanings": [
+      { "hinshi": "【名】バーツ", "note": "タイの通貨単位。記号は ฿、通貨コードは THB。単複同形で使うことが多い" }
+    ],
+    "usages": [
+      { "title": "① タイの通貨「バーツ」", "desc": "金額を表す。", "example_en": "The meal cost 200 baht.", "example_ja": "その食事は200バーツだった。" },
+      { "title": "② 両替の話題で", "desc": "旅行などで使う。", "example_en": "I exchanged my yen for baht.", "example_ja": "私は円をバーツに両替した。" }
+    ],
+    "warn": ["数量を表すとき複数形でも baht のまま(200 baht)。日本語では『バーツ』と表記する。"],
+    "etym_note": "タイ語 บาท（bāt)に由来する通貨単位名です。",
+    "etym_chain": [
+      { "node": "บาท (bāt)", "sub": "重さ・通貨単位", "era": "タイ語" },
+      { "node": "baht", "sub": "バーツ", "era": "近代英語" },
+      { "node": "baht", "sub": "タイの通貨", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "100 baht", "ja": "100バーツ" },
+      { "en": "the Thai baht", "ja": "タイバーツ" },
+      { "en": "exchange for baht", "ja": "バーツに両替する" },
+      { "en": "in baht", "ja": "バーツで" },
+      { "en": "cost 50 baht", "ja": "50バーツする" },
+      { "en": "pay in baht", "ja": "バーツで支払う" }
+    ],
+    "related": [
+      { "en": "thailand", "ja": "タイ" },
+      { "en": "currency", "ja": "通貨" },
+      { "en": "yen", "ja": "円" },
+      { "en": "exchange", "ja": "両替、交換" }
+    ],
+    "faq": [
+      { "q": "baht はどこの通貨ですか？", "a": "タイ王国の通貨単位です。記号は ฿、通貨コードは THB です。" },
+      { "q": "複数形は？", "a": "金額を表すときは複数でも baht のまま使うのが一般的です(例: 200 baht)。" }
+    ],
+    "quiz": [
+      { "q": "baht はどこの通貨？", "A": "タイ", "B": "日本", "C": "韓国", "D": "中国", "correct": "A" },
+      { "q": "baht の通貨コードは？", "A": "THB", "B": "JPY", "C": "USD", "D": "KRW", "correct": "A" }
+    ]
+  },
+  {
+    "english": "bald",
+    "pron": "bɔːld",
+    "kana": "ボールド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "中英語 balled（白い斑点のある）から",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "外見・基本語"],
+    "meaning_main": "はげた / 毛のない / (タイヤなどが)すり減った",
+    "description": "bald の意味・発音・使い方。「頭がはげた・毛のない」を表す形容詞。タイヤの摩耗や『ありのままの』の比喩用法も例文で解説します。",
+    "keywords": ["bald 意味", "bald 使い方", "bald 発音", "ボールド 意味"],
+    "meanings": [
+      { "hinshi": "【形】はげた、毛のない", "note": "頭髪がない状態。go bald(はげる)" },
+      { "hinshi": "【形】(タイヤが)すり減った", "note": "bald tires(すり減ったタイヤ)" },
+      { "hinshi": "【形】(表現が)そっけない、ありのままの", "note": "the bald truth(ありのままの真実)" }
+    ],
+    "usages": [
+      { "title": "① 「はげた」", "desc": "頭髪がない状態を表す。", "example_en": "My uncle is going bald.", "example_ja": "おじは髪が薄くなってきている。" },
+      { "title": "② 「すり減った・そっけない」", "desc": "タイヤや表現にも使う。", "example_en": "The bald tires are dangerous.", "example_ja": "すり減ったタイヤは危険だ。" }
+    ],
+    "warn": ["太字の bold(大胆な・太字の)と発音・綴りが似て紛らわしいので注意。bald は『はげた』。"],
+    "etym_note": "中英語 balled（白い斑点のある→毛のない)に由来します。鳥の白い頭を『bald』と呼んだことにも通じます。",
+    "etym_chain": [
+      { "node": "balled", "sub": "白い斑点のある", "era": "中英語" },
+      { "node": "bald", "sub": "はげた", "era": "近代英語" },
+      { "node": "bald", "sub": "はげた・毛のない", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "go bald", "ja": "はげる、髪が薄くなる" },
+      { "en": "a bald head", "ja": "はげ頭" },
+      { "en": "bald tires", "ja": "すり減ったタイヤ" },
+      { "en": "the bald truth", "ja": "ありのままの真実" },
+      { "en": "a bald eagle", "ja": "ハクトウワシ" },
+      { "en": "bald patch", "ja": "はげた部分" }
+    ],
+    "related": [
+      { "en": "hairless", "ja": "毛のない" },
+      { "en": "hair", "ja": "髪" },
+      { "en": "shave", "ja": "そる" },
+      { "en": "bold", "ja": "大胆な、太字の" }
+    ],
+    "faq": [
+      { "q": "bald と bold の違いは？", "a": "bald は『はげた』[bɔːld]、bold は『大胆な・太字の』[bəʊld]です。綴りも発音も似ていますが意味が異なります。" },
+      { "q": "bald eagle とは？", "a": "『ハクトウワシ』のことです。頭が白い羽で覆われているため、白い=bald と呼ばれます(実際にはげているわけではありません)。" }
+    ],
+    "quiz": [
+      { "q": "bald の意味は？", "A": "はげた、毛のない", "B": "太字の", "C": "毛深い", "D": "背の高い", "correct": "A" },
+      { "q": "go bald の意味は？", "A": "はげる", "B": "太る", "C": "旅に出る", "D": "怒る", "correct": "A" }
+    ]
+  },
+  {
+    "english": "baldachin",
+    "pron": "ˈbɔːldəkɪn",
+    "kana": "ボールダキン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "イタリア語 baldacchino（バグダッド産の布）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "建築・宗教"],
+    "meaning_main": "天蓋(てんがい) / (祭壇や玉座の上の)装飾的な覆い",
+    "description": "baldachin の意味・発音・使い方。祭壇や玉座の上に設けられる装飾的な「天蓋(てんがい)」を表す建築・宗教用語。特徴を例文とともに解説します。",
+    "keywords": ["baldachin 意味", "baldachin 使い方", "baldachin 発音", "天蓋 英語"],
+    "meanings": [
+      { "hinshi": "【名】天蓋、装飾的な覆い", "note": "祭壇・玉座・ベッドなどの上に張る、布や石でできた飾りの屋根。baldaquin とも綴る。可算" }
+    ],
+    "usages": [
+      { "title": "① 祭壇の「天蓋」", "desc": "教会の祭壇の上を覆う装飾。", "example_en": "A golden baldachin stands over the altar.", "example_ja": "金色の天蓋が祭壇の上にそびえている。" },
+      { "title": "② 玉座・ベッドにも", "desc": "権威や格式を示す覆い。", "example_en": "The throne was topped with a rich baldachin.", "example_ja": "玉座には豪華な天蓋がかけられていた。" }
+    ],
+    "warn": ["canopy(天蓋・日よけ)の一種で、特に祭壇や玉座の格式ある覆いを指す専門語。baldaquin とも綴る。"],
+    "etym_note": "イタリア語 baldacchino（Baldacco=バグダッドから来た絹布)に由来します。高級な布で作られたことにちなみます。",
+    "etym_chain": [
+      { "node": "Baldacco", "sub": "バグダッド", "era": "中世イタリア語" },
+      { "node": "baldacchino", "sub": "高級布・天蓋", "era": "イタリア語" },
+      { "node": "baldachin", "sub": "天蓋", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a golden baldachin", "ja": "金色の天蓋" },
+      { "en": "over the altar", "ja": "祭壇の上に" },
+      { "en": "a stone baldachin", "ja": "石造りの天蓋" },
+      { "en": "an ornate baldachin", "ja": "装飾的な天蓋" },
+      { "en": "a baldachin over the throne", "ja": "玉座の上の天蓋" },
+      { "en": "beneath the baldachin", "ja": "天蓋の下で" }
+    ],
+    "related": [
+      { "en": "canopy", "ja": "天蓋、覆い" },
+      { "en": "altar", "ja": "祭壇" },
+      { "en": "throne", "ja": "玉座" },
+      { "en": "cathedral", "ja": "大聖堂" }
+    ],
+    "faq": [
+      { "q": "baldachin と canopy の違いは？", "a": "canopy は『天蓋・日よけ』全般、baldachin は特に祭壇や玉座の上に設ける格式ある装飾的な天蓋を指します。" },
+      { "q": "名前の由来は？", "a": "中世に高級な絹布がバグダッド(イタリア語で Baldacco)から輸入され、その布で作られた天蓋を baldacchino と呼んだことにちなみます。" }
+    ],
+    "quiz": [
+      { "q": "baldachin の意味は？", "A": "天蓋(祭壇や玉座の上の覆い)", "B": "床のタイル", "C": "階段", "D": "窓枠", "correct": "A" },
+      { "q": "baldachin の名の由来となった都市は？", "A": "バグダッド", "B": "ローマ", "C": "パリ", "D": "ロンドン", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ballerina",
+    "pron": "ˌbæləˈriːnə",
+    "kana": "バレリーナ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "イタリア語 ballerina（女性の踊り手）から",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "芸術・職業"],
+    "meaning_main": "バレリーナ / (女性の)バレエダンサー",
+    "description": "ballerina の意味・発音・使い方。「女性のバレエダンサー(バレリーナ)」を表す名詞。ballet との関係や語源を例文とともに解説します。",
+    "keywords": ["ballerina 意味", "ballerina 使い方", "ballerina 発音", "バレリーナ 英語"],
+    "meanings": [
+      { "hinshi": "【名】バレリーナ、(女性の)バレエダンサー", "note": "特にバレエ団の女性の主要ダンサー。可算名詞" }
+    ],
+    "usages": [
+      { "title": "① 「バレリーナ」", "desc": "女性のバレエダンサー。", "example_en": "She dreams of becoming a ballerina.", "example_ja": "彼女はバレリーナになるのが夢だ。" },
+      { "title": "② 舞台の描写で", "desc": "優雅な踊りを表す。", "example_en": "The ballerina spun gracefully on stage.", "example_ja": "バレリーナは舞台で優雅に回った。" }
+    ],
+    "warn": ["ballerina は主に『女性』のバレエダンサー。男性は ballet dancer や(主役級は)danseur という。踊り全般は ballet。"],
+    "etym_note": "イタリア語 ballerina（ballare「踊る」から。女性の踊り手)に由来します。ballet と同語源です。",
+    "etym_chain": [
+      { "node": "ballare", "sub": "踊る", "era": "イタリア語" },
+      { "node": "ballerina", "sub": "女性の踊り手", "era": "イタリア語" },
+      { "node": "ballerina", "sub": "バレリーナ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a prima ballerina", "ja": "プリマバレリーナ(主役)" },
+      { "en": "become a ballerina", "ja": "バレリーナになる" },
+      { "en": "a graceful ballerina", "ja": "優雅なバレリーナ" },
+      { "en": "a young ballerina", "ja": "若いバレリーナ" },
+      { "en": "the lead ballerina", "ja": "主役のバレリーナ" },
+      { "en": "a ballerina's tutu", "ja": "バレリーナのチュチュ" }
+    ],
+    "related": [
+      { "en": "ballet", "ja": "バレエ" },
+      { "en": "dancer", "ja": "ダンサー、踊り手" },
+      { "en": "dance", "ja": "踊る、ダンス" },
+      { "en": "stage", "ja": "舞台" }
+    ],
+    "faq": [
+      { "q": "ballerina と ballet の違いは？", "a": "ballet は『バレエ(踊りそのもの)』、ballerina は『(それを踊る)女性のバレエダンサー』です。" },
+      { "q": "prima ballerina とは？", "a": "バレエ団で最も主要な役を踊る『主役のバレリーナ』のことです。prima はイタリア語で『第一の』の意味です。" }
+    ],
+    "quiz": [
+      { "q": "ballerina の意味は？", "A": "女性のバレエダンサー", "B": "歌手", "C": "画家", "D": "指揮者", "correct": "A" },
+      { "q": "prima ballerina とは？", "A": "主役のバレリーナ", "B": "初心者のダンサー", "C": "衣装係", "D": "振付師", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ballista",
+    "pron": "bəˈlɪstə",
+    "kana": "バリスタ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 ballista（投石機）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "歴史・兵器"],
+    "meaning_main": "バリスタ(古代の大型弩(いしゆみ)・投射兵器)",
+    "description": "ballista の意味・発音・使い方。ねじりの力で矢や石を放つ古代・中世の攻城兵器「バリスタ」を表す名詞。特徴や語源を例文で解説します。",
+    "keywords": ["ballista 意味", "ballista 使い方", "ballista 発音", "バリスタ 兵器"],
+    "meanings": [
+      { "hinshi": "【名】バリスタ(大型の弩・投射兵器)", "note": "ねじった腱(けん)の力で大きな矢や石を発射する古代ローマなどの攻城兵器。複数形 ballistae/ballistas。可算" }
+    ],
+    "usages": [
+      { "title": "① 古代の「攻城兵器」", "desc": "城や敵陣に矢・石を放つ。", "example_en": "The Romans used a ballista to attack the city walls.", "example_ja": "ローマ軍は城壁を攻めるのにバリスタを使った。" },
+      { "title": "② 仕組みの説明", "desc": "ねじりの反発力で発射する。", "example_en": "A ballista launches projectiles using twisted cords.", "example_ja": "バリスタはねじった綱の力で発射物を放つ。" }
+    ],
+    "warn": ["コーヒーの『バリスタ(barista)』とは別語。ballista は古代の兵器。ballistic(弾道の)の語源でもある。"],
+    "etym_note": "ラテン語 ballista（ギリシャ語 ballein「投げる」から)に由来します。ballistic(弾道の)と同語源です。",
+    "etym_chain": [
+      { "node": "ballein", "sub": "投げる", "era": "古代ギリシャ語" },
+      { "node": "ballista", "sub": "投石機", "era": "ラテン語" },
+      { "node": "ballista", "sub": "バリスタ(兵器)", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a Roman ballista", "ja": "ローマのバリスタ" },
+      { "en": "fire a ballista", "ja": "バリスタを発射する" },
+      { "en": "a siege ballista", "ja": "攻城用のバリスタ" },
+      { "en": "load the ballista", "ja": "バリスタに装填する" },
+      { "en": "a giant ballista", "ja": "巨大なバリスタ" },
+      { "en": "ballista bolts", "ja": "バリスタの大矢" }
+    ],
+    "related": [
+      { "en": "catapult", "ja": "カタパルト、投石機" },
+      { "en": "crossbow", "ja": "クロスボウ、弩" },
+      { "en": "siege", "ja": "包囲(攻撃)" },
+      { "en": "ballistic", "ja": "弾道の" }
+    ],
+    "faq": [
+      { "q": "ballista と catapult の違いは？", "a": "どちらも古代の投射兵器ですが、ballista は大型の弩のように『矢・石を直線的に飛ばす』もの、catapult は主に『石などを放物線状に投げる』ものを指すことが多いです。" },
+      { "q": "コーヒーの『バリスタ』と同じ？", "a": "いいえ。コーヒーを淹れる人は barista(イタリア語由来)で、兵器の ballista とは別の語です。" }
+    ],
+    "quiz": [
+      { "q": "ballista とは？", "A": "古代の投射兵器(大型の弩)", "B": "コーヒーを淹れる人", "C": "楽器", "D": "船の一種", "correct": "A" },
+      { "q": "ballista と同語源の語は？", "A": "ballistic(弾道の)", "B": "ballet(バレエ)", "C": "balloon(風船)", "D": "ballot(投票)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "bamboo",
+    "pron": "bæmˈbuː",
+    "kana": "バンブー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "マレー語 bambu から",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "植物・自然"],
+    "meaning_main": "竹",
+    "description": "bamboo の意味・発音・使い方。成長が速く、建材や工芸に使われる「竹」を表す名詞。不可算名詞である点や用途を例文とともに解説します。",
+    "keywords": ["bamboo 意味", "bamboo 使い方", "bamboo 発音", "竹 英語"],
+    "meanings": [
+      { "hinshi": "【名】竹", "note": "イネ科の大型の草。成長が速く、建材・家具・食用(たけのこ)に使う。通例不可算" }
+    ],
+    "usages": [
+      { "title": "① 植物「竹」", "desc": "まっすぐ伸びる中空の茎をもつ。", "example_en": "Pandas eat bamboo.", "example_ja": "パンダは竹を食べる。" },
+      { "title": "② 素材として", "desc": "家具や道具の材料になる。", "example_en": "The chair is made of bamboo.", "example_ja": "そのいすは竹でできている。" }
+    ],
+    "warn": ["通例不可算名詞。数えるときは a bamboo stalk/cane(竹1本)などと言う。成長の速さで知られる。"],
+    "etym_note": "マレー語 bambu が、オランダ語などを経て英語に入りました。",
+    "etym_chain": [
+      { "node": "bambu", "sub": "竹", "era": "マレー語" },
+      { "node": "bamboe", "sub": "竹", "era": "オランダ語" },
+      { "node": "bamboo", "sub": "竹", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "bamboo shoots", "ja": "たけのこ" },
+      { "en": "a bamboo forest", "ja": "竹林" },
+      { "en": "made of bamboo", "ja": "竹でできた" },
+      { "en": "bamboo furniture", "ja": "竹製の家具" },
+      { "en": "a bamboo cane", "ja": "竹の棒" },
+      { "en": "grow like bamboo", "ja": "竹のように速く育つ" }
+    ],
+    "related": [
+      { "en": "grass", "ja": "草" },
+      { "en": "reed", "ja": "アシ、葦" },
+      { "en": "cane", "ja": "茎、杖" },
+      { "en": "panda", "ja": "パンダ" }
+    ],
+    "faq": [
+      { "q": "bamboo は数えられますか？", "a": "通例は不可算名詞です。数えるときは a bamboo cane/stalk(竹1本)や a piece of bamboo のように言います。" },
+      { "q": "bamboo shoots とは？", "a": "『たけのこ』のことです。竹の若い芽で、食用にされます。" }
+    ],
+    "quiz": [
+      { "q": "bamboo の意味は？", "A": "竹", "B": "杉", "C": "松", "D": "麦", "correct": "A" },
+      { "q": "bamboo shoots とは？", "A": "たけのこ", "B": "竹の花", "C": "竹の根だけ", "D": "竹炭", "correct": "A" }
+    ]
+  },
+  {
+    "english": "banality",
+    "pron": "bəˈnæləti",
+    "kana": "バナリティ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 banal（ありふれた）+ -ity",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "抽象語"],
+    "meaning_main": "平凡さ / ありふれていること / 陳腐な言葉",
+    "description": "banality の意味・発音・使い方。「ありふれていて退屈なこと・陳腐さ」を表す名詞。形容詞 banal との関係を例文とともに解説します。",
+    "keywords": ["banality 意味", "banality 使い方", "banality 発音", "バナリティ 意味"],
+    "meanings": [
+      { "hinshi": "【名】平凡さ、陳腐さ", "note": "新鮮味がなくありふれていること。不可算" },
+      { "hinshi": "【名】陳腐な言葉・決まり文句", "note": "ありきたりな発言。可算" }
+    ],
+    "usages": [
+      { "title": "① 「平凡さ・陳腐さ」", "desc": "ありふれて退屈な性質。", "example_en": "The film was criticized for its banality.", "example_ja": "その映画は陳腐さを批判された。" },
+      { "title": "② 「陳腐な言葉」", "desc": "ありきたりな決まり文句。", "example_en": "He spoke in banalities.", "example_ja": "彼はありきたりな言葉ばかり口にした。" }
+    ],
+    "warn": ["形容詞は banal(ありふれた・陳腐な)。発音は[bəˈnæləti]。哲学の『悪の陳腐さ(the banality of evil)』でも有名。"],
+    "etym_note": "フランス語 banal（もとは領主の共同施設『みんなの』→『ありふれた』)に -ity が付いた語です。",
+    "etym_chain": [
+      { "node": "banal", "sub": "共同の→ありふれた", "era": "フランス語" },
+      { "node": "banality", "sub": "平凡さ", "era": "19世紀英語" },
+      { "node": "banality", "sub": "陳腐さ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the banality of ...", "ja": "〜の陳腐さ" },
+      { "en": "sheer banality", "ja": "まったくの平凡さ" },
+      { "en": "speak in banalities", "ja": "ありきたりな言葉を言う" },
+      { "en": "the banality of evil", "ja": "悪の陳腐さ" },
+      { "en": "everyday banality", "ja": "日常の平凡さ" },
+      { "en": "avoid banality", "ja": "陳腐さを避ける" }
+    ],
+    "related": [
+      { "en": "banal", "ja": "ありふれた、陳腐な" },
+      { "en": "triteness", "ja": "陳腐さ" },
+      { "en": "cliché", "ja": "決まり文句、陳腐な表現" },
+      { "en": "dullness", "ja": "退屈さ" }
+    ],
+    "faq": [
+      { "q": "banality の形容詞形は？", "a": "banal(ありふれた・陳腐な)です。a banal remark(ありきたりな発言)のように使います。" },
+      { "q": "the banality of evil とは？", "a": "哲学者ハンナ・アーレントの言葉で、『悪は特別な怪物ではなく、ありふれた平凡な人間によっても行われる』という考えを表します。" }
+    ],
+    "quiz": [
+      { "q": "banality の意味は？", "A": "平凡さ、陳腐さ", "B": "独創性", "C": "危険", "D": "豪華さ", "correct": "A" },
+      { "q": "banality の形容詞形は？", "A": "banal", "B": "banative", "C": "banalous", "D": "banalic", "correct": "A" }
+    ]
+  },
+  {
+    "english": "banister",
+    "pron": "ˈbænɪstər",
+    "kana": "バニスター",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "baluster（手すり子）の変形",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "建築・住居"],
+    "meaning_main": "(階段の)手すり",
+    "description": "banister の意味・発音・使い方。階段の脇にある「手すり」を表す名詞。手で握って体を支える部分を指す用法を例文とともに解説します。",
+    "keywords": ["banister 意味", "banister 使い方", "banister 発音", "手すり 英語"],
+    "meanings": [
+      { "hinshi": "【名】(階段の)手すり", "note": "階段の脇に付いた、手で握って支える横木や柵。bannister とも綴る。可算" }
+    ],
+    "usages": [
+      { "title": "① 階段の「手すり」", "desc": "上り下りで体を支える。", "example_en": "Hold on to the banister as you go down.", "example_ja": "下りるときは手すりにつかまりなさい。" },
+      { "title": "② 描写で", "desc": "住居の様子を表す。", "example_en": "The old wooden banister creaked.", "example_ja": "その古い木の手すりはきしんだ。" }
+    ],
+    "warn": ["handrail(手すり)とほぼ同義。banister は特に『階段の手すり』を指す。bannister と綴ることもある。"],
+    "etym_note": "baluster（手すりを支える柱『手すり子』)がなまって banister になった語です。",
+    "etym_chain": [
+      { "node": "baluster", "sub": "手すり子", "era": "17世紀英語" },
+      { "node": "bannister/banister", "sub": "手すり", "era": "近代英語" },
+      { "node": "banister", "sub": "階段の手すり", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "hold the banister", "ja": "手すりを握る" },
+      { "en": "slide down the banister", "ja": "手すりを滑り降りる" },
+      { "en": "grab the banister", "ja": "手すりをつかむ" },
+      { "en": "a wooden banister", "ja": "木の手すり" },
+      { "en": "lean on the banister", "ja": "手すりにもたれる" },
+      { "en": "the stair banister", "ja": "階段の手すり" }
+    ],
+    "related": [
+      { "en": "handrail", "ja": "手すり" },
+      { "en": "railing", "ja": "手すり、柵" },
+      { "en": "staircase", "ja": "階段" },
+      { "en": "baluster", "ja": "手すり子" }
+    ],
+    "faq": [
+      { "q": "banister と handrail の違いは？", "a": "ほぼ同じ『手すり』ですが、banister は特に『階段の手すり(支柱を含む柵)』を指すことが多いです。handrail はより一般的な語です。" },
+      { "q": "綴りは banister と bannister どちら？", "a": "どちらも使われます。n が1つの banister が一般的ですが、bannister も正しい綴りです。" }
+    ],
+    "quiz": [
+      { "q": "banister の意味は？", "A": "階段の手すり", "B": "屋根", "C": "窓", "D": "床", "correct": "A" },
+      { "q": "banister はどこにある？", "A": "階段", "B": "台所の流し", "C": "天井", "D": "庭の池", "correct": "A" }
+    ]
+  },
+  {
+    "english": "bankrupt",
+    "pron": "ˈbæŋkrʌpt",
+    "kana": "バンクラプト",
+    "hinshi": "形容詞 / 動詞 / 名詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "イタリア語 banca rotta（壊れた台）から",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "経済・ビジネス"],
+    "meaning_main": "破産した / 支払い不能の / (〜が)まったく欠けた",
+    "description": "bankrupt の意味・発音・使い方。「破産した・支払い不能の」を表す形容詞。go bankrupt の形や『(道徳などが)欠けた』の比喩用法を例文で解説します。",
+    "keywords": ["bankrupt 意味", "bankrupt 使い方", "bankrupt 発音", "破産 英語"],
+    "meanings": [
+      { "hinshi": "【形】破産した、支払い不能の", "note": "借金を返せず法的に破産した状態。go bankrupt(破産する)" },
+      { "hinshi": "【形】(道徳・思想などが)まったく欠けた", "note": "morally bankrupt(道徳的に破綻した)。比喩" },
+      { "hinshi": "【名/動】破産者、破産させる", "note": "" }
+    ],
+    "usages": [
+      { "title": "① 「破産した」", "desc": "借金を返せなくなる。", "example_en": "The company went bankrupt last year.", "example_ja": "その会社は昨年破産した。" },
+      { "title": "② 比喩「〜が欠けた」", "desc": "道徳・アイデアなどの欠如。", "example_en": "The plan is morally bankrupt.", "example_ja": "その計画は道徳的に破綻している。" }
+    ],
+    "warn": ["名詞は bankruptcy(破産)。go bankrupt(破産する)の形が重要。"],
+    "etym_note": "イタリア語 banca rotta（壊れた台。両替商が支払い不能になると台が壊されたことに由来)から生まれた語です。",
+    "etym_chain": [
+      { "node": "banca rotta", "sub": "壊れた台", "era": "イタリア語" },
+      { "node": "bankrupt", "sub": "破産した", "era": "16世紀英語" },
+      { "node": "bankrupt", "sub": "破産した", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "go bankrupt", "ja": "破産する" },
+      { "en": "declare bankrupt", "ja": "破産を宣告する" },
+      { "en": "morally bankrupt", "ja": "道徳的に破綻した" },
+      { "en": "a bankrupt company", "ja": "破産した会社" },
+      { "en": "financially bankrupt", "ja": "財政的に破綻した" },
+      { "en": "become bankrupt", "ja": "破産する" }
+    ],
+    "related": [
+      { "en": "bankruptcy", "ja": "破産" },
+      { "en": "insolvent", "ja": "支払い不能の" },
+      { "en": "broke", "ja": "無一文の(口語)" },
+      { "en": "debt", "ja": "借金、負債" }
+    ],
+    "faq": [
+      { "q": "bankrupt と broke の違いは？", "a": "bankrupt は『(法的に)破産した』フォーマルな語、broke は口語で『(一時的に)お金がない・無一文の』を表します。" },
+      { "q": "morally bankrupt とは？", "a": "『道徳的に破綻した・良心が欠けた』という比喩表現です。お金の破産ではなく、道徳の欠如を表します。" }
+    ],
+    "quiz": [
+      { "q": "bankrupt の意味は？", "A": "破産した", "B": "裕福な", "C": "健康な", "D": "有名な", "correct": "A" },
+      { "q": "go bankrupt の意味は？", "A": "破産する", "B": "出世する", "C": "引退する", "D": "旅立つ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "barb",
+    "pron": "bɑːb",
+    "kana": "バーブ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 barba（ひげ）から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "道具・比喩"],
+    "meaning_main": "(釣り針などの)かえし / とげ / 皮肉なひと言",
+    "description": "barb の意味・発音・使い方。釣り針や有刺鉄線の「かえし・とげ」を表す名詞。比喩的な「皮肉なひと言」の用法も例文で解説します。",
+    "keywords": ["barb 意味", "barb 使い方", "barb 発音", "バーブ 意味"],
+    "meanings": [
+      { "hinshi": "【名】(釣り針などの)かえし、とげ", "note": "抜けにくくするための逆向きのとげ。barbed wire(有刺鉄線)" },
+      { "hinshi": "【名】皮肉なひと言、とげのある言葉", "note": "人を刺すような批判・当てこすり" }
+    ],
+    "usages": [
+      { "title": "① 「かえし・とげ」", "desc": "釣り針などの逆向きのとげ。", "example_en": "The fishhook has a sharp barb.", "example_ja": "その釣り針には鋭いかえしがある。" },
+      { "title": "② 「皮肉なひと言」", "desc": "人を刺すような言葉。", "example_en": "She threw a few barbs at her rival.", "example_ja": "彼女はライバルに皮肉をいくつか浴びせた。" }
+    ],
+    "warn": ["barbed wire は『有刺鉄線』。比喩の『とげのある言葉』の意味も覚えておくとよい。"],
+    "etym_note": "ラテン語 barba（ひげ)に由来し、『ひげのように突き出たもの→とげ』の意味になりました。",
+    "etym_chain": [
+      { "node": "barba", "sub": "ひげ", "era": "ラテン語" },
+      { "node": "barbe", "sub": "とげ", "era": "古フランス語" },
+      { "node": "barb", "sub": "かえし・とげ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "barbed wire", "ja": "有刺鉄線" },
+      { "en": "a sharp barb", "ja": "鋭いかえし" },
+      { "en": "throw barbs at", "ja": "〜に皮肉を浴びせる" },
+      { "en": "a verbal barb", "ja": "とげのある言葉" },
+      { "en": "the barb of a hook", "ja": "釣り針のかえし" },
+      { "en": "a cutting barb", "ja": "痛烈な皮肉" }
+    ],
+    "related": [
+      { "en": "thorn", "ja": "とげ" },
+      { "en": "spike", "ja": "とがったもの、スパイク" },
+      { "en": "hook", "ja": "釣り針、フック" },
+      { "en": "jibe", "ja": "あざけり、皮肉" }
+    ],
+    "faq": [
+      { "q": "barb と thorn の違いは？", "a": "thorn は植物の『とげ』、barb は釣り針や矢などの『逆向きのかえし(抜けにくくするとげ)』を指します。比喩では barb は『皮肉なひと言』も表します。" },
+      { "q": "barbed wire とは？", "a": "『有刺鉄線』のことです。とげ(barb)の付いた鉄線で、柵などに使われます。" }
+    ],
+    "quiz": [
+      { "q": "barb の意味は？", "A": "(釣り針などの)かえし・とげ", "B": "取っ手", "C": "ふた", "D": "車輪", "correct": "A" },
+      { "q": "barbed wire の意味は？", "A": "有刺鉄線", "B": "電線", "C": "ロープ", "D": "鎖", "correct": "A" }
+    ]
+  },
+  {
+    "english": "bard",
+    "pron": "bɑːd",
+    "kana": "バード",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ケルト語 bardos（詩人）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文学・歴史"],
+    "meaning_main": "吟遊詩人 / 詩人 / (the Bard で)シェイクスピア",
+    "description": "bard の意味・発音・使い方。古代ケルトの「吟遊詩人」や詩人を表す名詞。the Bard がシェイクスピアを指す用法も例文とともに解説します。",
+    "keywords": ["bard 意味", "bard 使い方", "bard 発音", "吟遊詩人 英語"],
+    "meanings": [
+      { "hinshi": "【名】吟遊詩人、詩人", "note": "古代ケルトで英雄の物語を歌った詩人。詩人一般を指す文語でもある。可算" },
+      { "hinshi": "【名】(the Bard で)シェイクスピア", "note": "『詩聖』として英文学の巨匠シェイクスピアの愛称" }
+    ],
+    "usages": [
+      { "title": "① 「吟遊詩人」", "desc": "物語や英雄詩を歌う詩人。", "example_en": "The bard sang of ancient heroes.", "example_ja": "その吟遊詩人は古代の英雄たちを歌った。" },
+      { "title": "② the Bard = シェイクスピア", "desc": "英文学ではこう呼ばれる。", "example_en": "The Bard wrote many famous plays.", "example_ja": "詩聖(シェイクスピア)は多くの名作戯曲を書いた。" }
+    ],
+    "warn": ["大文字の the Bard は特にシェイクスピアを指す。bird(鳥)と発音が似ているので注意。"],
+    "etym_note": "ケルト語 bardos（詩人)に由来し、古代ケルト社会で物語を歌い伝えた詩人を指しました。",
+    "etym_chain": [
+      { "node": "bardos", "sub": "詩人", "era": "ケルト語" },
+      { "node": "bard", "sub": "吟遊詩人", "era": "中英語" },
+      { "node": "bard", "sub": "詩人・シェイクスピア", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a wandering bard", "ja": "さすらいの吟遊詩人" },
+      { "en": "the Bard of Avon", "ja": "エイヴォンの詩人(シェイクスピア)" },
+      { "en": "an ancient bard", "ja": "古代の詩人" },
+      { "en": "the bard's tale", "ja": "吟遊詩人の物語" },
+      { "en": "a Celtic bard", "ja": "ケルトの吟遊詩人" },
+      { "en": "sing like a bard", "ja": "吟遊詩人のように歌う" }
+    ],
+    "related": [
+      { "en": "poet", "ja": "詩人" },
+      { "en": "minstrel", "ja": "吟遊詩人" },
+      { "en": "storyteller", "ja": "語り部" },
+      { "en": "shakespeare", "ja": "シェイクスピア" }
+    ],
+    "faq": [
+      { "q": "the Bard とは誰のこと？", "a": "大文字で the Bard(または the Bard of Avon)というと、英文学の巨匠ウィリアム・シェイクスピアを指す愛称です。" },
+      { "q": "bard と minstrel の違いは？", "a": "どちらも『吟遊詩人』ですが、bard は特にケルト系で英雄詩を作り歌う詩人、minstrel は中世に各地を巡って歌や演奏を披露した芸人を指すことが多いです。" }
+    ],
+    "quiz": [
+      { "q": "bard の意味は？", "A": "吟遊詩人、詩人", "B": "戦士", "C": "商人", "D": "農民", "correct": "A" },
+      { "q": "the Bard が指す人物は？", "A": "シェイクスピア", "B": "ニュートン", "C": "ダーウィン", "D": "コロンブス", "correct": "A" }
+    ]
+  },
+  {
+    "english": "barge",
+    "pron": "bɑːdʒ",
+    "kana": "バージ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 barge（小舟）から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "乗り物・動作"],
+    "meaning_main": "はしけ / 平底の運搬船 / (乱暴に)突き進む・割り込む",
+    "description": "barge の意味・発音・使い方。川や運河で貨物を運ぶ平底船「はしけ」を表す名詞と、「乱暴に突き進む・割り込む」を表す動詞。両方の用法を例文で解説します。",
+    "keywords": ["barge 意味", "barge 使い方", "barge 発音", "はしけ 英語"],
+    "meanings": [
+      { "hinshi": "【名】はしけ、平底の運搬船", "note": "川・運河で貨物を運ぶ底の平らな船。可算名詞" },
+      { "hinshi": "【動】乱暴に突き進む、割り込む", "note": "barge in(割り込む・押し入る)、barge into(〜にぶつかる/割り込む)" }
+    ],
+    "usages": [
+      { "title": "① 船「はしけ」", "desc": "運河などで荷物を運ぶ平底船。", "example_en": "A barge carried coal down the river.", "example_ja": "はしけが石炭を川下へ運んだ。" },
+      { "title": "② 「乱暴に割り込む」", "desc": "無遠慮に突き進む・割り込む。", "example_en": "He barged into the room without knocking.", "example_ja": "彼はノックもせず部屋に押し入った。" }
+    ],
+    "warn": ["動詞の barge in(割り込む・押し入る)、barge into(〜に突っ込む)が頻出。無遠慮な動作を表す。"],
+    "etym_note": "古フランス語 barge（小舟)に由来します。のちに『(船のように)乱暴に突き進む』の動詞用法が生まれました。",
+    "etym_chain": [
+      { "node": "barge", "sub": "小舟", "era": "古フランス語" },
+      { "node": "barge", "sub": "はしけ", "era": "中英語" },
+      { "node": "barge", "sub": "はしけ・突き進む", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "barge in", "ja": "割り込む、押し入る" },
+      { "en": "barge into", "ja": "〜に突っ込む・割り込む" },
+      { "en": "a river barge", "ja": "川のはしけ" },
+      { "en": "barge past", "ja": "押しのけて通る" },
+      { "en": "a cargo barge", "ja": "貨物運搬船" },
+      { "en": "barge through the crowd", "ja": "人ごみを押し分けて進む" }
+    ],
+    "related": [
+      { "en": "boat", "ja": "船、ボート" },
+      { "en": "ferry", "ja": "フェリー、渡し船" },
+      { "en": "push", "ja": "押す" },
+      { "en": "intrude", "ja": "立ち入る、じゃまする" }
+    ],
+    "faq": [
+      { "q": "barge in とはどういう意味ですか？", "a": "『(遠慮なく)割り込む・押し入る』という意味です。Sorry to barge in.(お邪魔してすみません)のようにも使います。" },
+      { "q": "名詞と動詞でどう違いますか？", "a": "名詞は『はしけ(平底の運搬船)』、動詞は『乱暴に突き進む・割り込む』です。動詞は船が重々しく進むイメージから生まれました。" }
+    ],
+    "quiz": [
+      { "q": "barge(名詞)の意味は？", "A": "はしけ(平底の運搬船)", "B": "飛行機", "C": "自転車", "D": "電車", "correct": "A" },
+      { "q": "barge in の意味は？", "A": "割り込む・押し入る", "B": "静かに去る", "C": "ゆっくり座る", "D": "手を挙げる", "correct": "A" }
+    ]
+  },
+  {
+    "english": "baritone",
+    "pron": "ˈbærɪtəʊn",
+    "kana": "バリトン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 barytonos（低い音の）から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "音楽・声"],
+    "meaning_main": "バリトン(男声の中音域) / その声の歌手",
+    "description": "baritone の意味・発音・使い方。テノールとバスの間の男声「バリトン」を表す名詞。声域や歌手を指す用法を例文とともに解説します。",
+    "keywords": ["baritone 意味", "baritone 使い方", "baritone 発音", "バリトン 意味"],
+    "meanings": [
+      { "hinshi": "【名】バリトン(男声の中音域)", "note": "テノール(高)とバス(低)の間の男声。またその声の歌手。可算" }
+    ],
+    "usages": [
+      { "title": "① 声域「バリトン」", "desc": "男声の中間の音域。", "example_en": "He sings in a rich baritone.", "example_ja": "彼は豊かなバリトンで歌う。" },
+      { "title": "② 歌手を指して", "desc": "その声域の歌手にも使う。", "example_en": "The opera's lead is a baritone.", "example_ja": "そのオペラの主役はバリトン歌手だ。" }
+    ],
+    "warn": ["男声は高い順に tenor(テノール)→ baritone(バリトン)→ bass(バス)。女声とは別の区分。"],
+    "etym_note": "ギリシャ語 barytonos（barys「重い・低い」+ tonos「音」)「低い音の」に由来します。",
+    "etym_chain": [
+      { "node": "barytonos", "sub": "低い音の", "era": "古代ギリシャ語" },
+      { "node": "baritono", "sub": "バリトン", "era": "イタリア語" },
+      { "node": "baritone", "sub": "バリトン", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rich baritone", "ja": "豊かなバリトン" },
+      { "en": "a baritone voice", "ja": "バリトンの声" },
+      { "en": "a baritone singer", "ja": "バリトン歌手" },
+      { "en": "sing baritone", "ja": "バリトンを歌う" },
+      { "en": "a deep baritone", "ja": "低いバリトン" },
+      { "en": "the baritone part", "ja": "バリトンのパート" }
+    ],
+    "related": [
+      { "en": "tenor", "ja": "テノール" },
+      { "en": "bass", "ja": "バス(最低音の男声)" },
+      { "en": "soprano", "ja": "ソプラノ" },
+      { "en": "voice", "ja": "声" }
+    ],
+    "faq": [
+      { "q": "baritone は男声・女声どちら？", "a": "主に男声の中音域を指します。高い順に tenor(テノール)→ baritone(バリトン)→ bass(バス)です。" },
+      { "q": "tenor と bass の違いは？", "a": "tenor は男声の高音域、bass は最も低い男声です。baritone はその中間の音域にあたります。" }
+    ],
+    "quiz": [
+      { "q": "baritone とは？", "A": "男声の中音域(の歌手)", "B": "女声の最高音", "C": "打楽器", "D": "弦楽器", "correct": "A" },
+      { "q": "男声を高い順に並べると？", "A": "tenor→baritone→bass", "B": "bass→baritone→tenor", "C": "baritone→tenor→bass", "D": "soprano→alto→tenor", "correct": "A" }
+    ]
+  },
+  {
+    "english": "baroque",
+    "pron": "bəˈrɒk",
+    "kana": "バロック",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ポルトガル語 barroco（いびつな真珠）から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "芸術・歴史"],
+    "meaning_main": "バロック(様式)の / 装飾過剰な / (17〜18世紀の)豪華な芸術様式",
+    "description": "baroque の意味・発音・使い方。17〜18世紀ヨーロッパの豪華で装飾的な芸術様式「バロック」を表す語。音楽・建築での用法を例文で解説します。",
+    "keywords": ["baroque 意味", "baroque 使い方", "baroque 発音", "バロック 意味"],
+    "meanings": [
+      { "hinshi": "【形】バロック様式の", "note": "17〜18世紀の豪華で劇的な芸術様式。Baroque music(バロック音楽)" },
+      { "hinshi": "【形】装飾過剰な、凝りすぎた", "note": "比喩的に『ごてごてと飾り立てた』" }
+    ],
+    "usages": [
+      { "title": "① 芸術様式「バロック」", "desc": "豪華で劇的な様式。", "example_en": "Bach composed baroque music.", "example_ja": "バッハはバロック音楽を作曲した。" },
+      { "title": "② 「装飾過剰な」", "desc": "凝りすぎた様子を表す。", "example_en": "The room had a baroque, ornate style.", "example_ja": "その部屋はバロック風の装飾過剰な様式だった。" }
+    ],
+    "warn": ["時代・様式を指すときは大文字 Baroque のことも。ルネサンスの後、ロココの前の時代。"],
+    "etym_note": "ポルトガル語 barroco（いびつな形の真珠)に由来し、『不規則で凝った』様式を表すようになりました。",
+    "etym_chain": [
+      { "node": "barroco", "sub": "いびつな真珠", "era": "ポルトガル語" },
+      { "node": "baroque", "sub": "バロックの", "era": "18世紀フランス語" },
+      { "node": "baroque", "sub": "バロック様式の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "baroque music", "ja": "バロック音楽" },
+      { "en": "baroque architecture", "ja": "バロック建築" },
+      { "en": "the Baroque period", "ja": "バロック時代" },
+      { "en": "a baroque style", "ja": "バロック様式" },
+      { "en": "baroque art", "ja": "バロック芸術" },
+      { "en": "ornate and baroque", "ja": "装飾的でバロック風の" }
+    ],
+    "related": [
+      { "en": "renaissance", "ja": "ルネサンス" },
+      { "en": "rococo", "ja": "ロココ(様式)" },
+      { "en": "ornate", "ja": "装飾的な" },
+      { "en": "classical", "ja": "古典派の、古典的な" }
+    ],
+    "faq": [
+      { "q": "baroque とはどんな様式？", "a": "17〜18世紀のヨーロッパで栄えた、豪華で劇的、装飾的な芸術様式です。音楽ではバッハやヴィヴァルディ、建築では豪奢な教会などが代表例です。" },
+      { "q": "語源は？", "a": "ポルトガル語 barroco(いびつな真珠)からで、『不規則で凝った』様式のイメージにつながっています。" }
+    ],
+    "quiz": [
+      { "q": "baroque の意味は？", "A": "バロック様式の(豪華で装飾的な)", "B": "簡素な", "C": "近未来的な", "D": "壊れた", "correct": "A" },
+      { "q": "baroque music の作曲家は？", "A": "バッハ", "B": "モーツァルト(古典派)", "C": "ビートルズ", "D": "ショパン(ロマン派)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "barracuda",
+    "pron": "ˌbærəˈkuːdə",
+    "kana": "バラクーダ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "スペイン語 barracuda から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "生物・魚"],
+    "meaning_main": "バラクーダ / オニカマス(鋭い歯をもつ肉食魚)",
+    "description": "barracuda の意味・発音・使い方。鋭い歯と細長い体をもつ肉食の海水魚「バラクーダ(オニカマス)」を表す名詞。特徴を例文とともに解説します。",
+    "keywords": ["barracuda 意味", "barracuda 使い方", "barracuda 発音", "バラクーダ 魚"],
+    "meanings": [
+      { "hinshi": "【名】バラクーダ、オニカマス", "note": "細長い体と鋭い歯をもつ肉食の海水魚。素早く泳ぐ。可算。複数形 barracuda(s)" }
+    ],
+    "usages": [
+      { "title": "① 肉食魚「バラクーダ」", "desc": "鋭い歯で小魚を捕らえる。", "example_en": "A barracuda has sharp, fang-like teeth.", "example_ja": "バラクーダは牙のような鋭い歯をもつ。" },
+      { "title": "② 海の描写で", "desc": "熱帯・亜熱帯の海にすむ。", "example_en": "Divers spotted a large barracuda.", "example_ja": "ダイバーたちは大きなバラクーダを見つけた。" }
+    ],
+    "warn": ["和名は『オニカマス』。素早い動きと鋭い歯で知られる。比喩で『攻撃的で抜け目ない人』を指すこともある。"],
+    "etym_note": "スペイン語 barracuda に由来する語で、カリブ海地域の言葉が元とされます。",
+    "etym_chain": [
+      { "node": "barracuda", "sub": "バラクーダ", "era": "スペイン語" },
+      { "node": "barracuda", "sub": "オニカマス", "era": "18世紀英語" },
+      { "node": "barracuda", "sub": "バラクーダ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a great barracuda", "ja": "オオカマス(大型のバラクーダ)" },
+      { "en": "a school of barracuda", "ja": "バラクーダの群れ" },
+      { "en": "a barracuda's teeth", "ja": "バラクーダの歯" },
+      { "en": "spot a barracuda", "ja": "バラクーダを見つける" },
+      { "en": "a fast barracuda", "ja": "素早いバラクーダ" },
+      { "en": "a predatory barracuda", "ja": "肉食のバラクーダ" }
+    ],
+    "related": [
+      { "en": "fish", "ja": "魚" },
+      { "en": "predator", "ja": "捕食者" },
+      { "en": "shark", "ja": "サメ" },
+      { "en": "reef", "ja": "岩礁、サンゴ礁" }
+    ],
+    "faq": [
+      { "q": "barracuda とはどんな魚ですか？", "a": "細長い体と鋭い歯をもつ肉食の海水魚です。素早く泳いで小魚を捕らえます。和名は『オニカマス』です。" },
+      { "q": "人にたとえて使うことはありますか？", "a": "はい。比喩的に『攻撃的で抜け目のない人』を barracuda と呼ぶことがあります。" }
+    ],
+    "quiz": [
+      { "q": "barracuda とは？", "A": "鋭い歯をもつ肉食魚", "B": "貝の一種", "C": "海藻", "D": "鳥", "correct": "A" },
+      { "q": "barracuda の和名は？", "A": "オニカマス", "B": "マグロ", "C": "イワシ", "D": "サケ", "correct": "A" }
+    ]
+  }
+]
