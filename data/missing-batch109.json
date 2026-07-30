@@ -1,0 +1,992 @@
+[
+  {
+    "english": "displace",
+    "pron": "dɪsˈpleɪs",
+    "kana": "ディスプレイス",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "dis-（離れて）+ place（置く）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "移動・社会"],
+    "meaning_main": "(元の場所から)移動させる / 立ち退かせる / 取って代わる",
+    "description": "displace の意味・発音・使い方。「(元の場所から)追い出す・立ち退かせる」「取って代わる」を表す動詞。難民や物理での用法を例文で解説します。",
+    "keywords": ["displace 意味", "displace 使い方", "displace 発音", "立ち退かせる 英語"],
+    "meanings": [
+      { "hinshi": "【動】(元の場所から)移動させる、立ち退かせる", "note": "人を住み慣れた場所から追い出す。displaced people(避難民)" },
+      { "hinshi": "【動】取って代わる、押しのける", "note": "Machines displaced workers.(機械が労働者に取って代わった)" }
+    ],
+    "usages": [
+      { "title": "① 「立ち退かせる」", "desc": "元の場所から追う。", "example_en": "The war displaced millions of people.", "example_ja": "その戦争は何百万人もの人々を避難させた。" },
+      { "title": "② 「取って代わる」", "desc": "押しのけて代わる。", "example_en": "New technology displaced old jobs.", "example_ja": "新技術が古い仕事に取って代わった。" }
+    ],
+    "warn": ["名詞は displacement(移動・立ち退き)。displaced person(避難民)。replace(取り替える)と近いが、displace は『押しのける・追い出す』ニュアンス。"],
+    "etym_note": "dis-（離れて)と place（置く)を組み合わせた語で、『元の場所から動かす』を表します。",
+    "etym_chain": [
+      { "node": "dis- + place", "sub": "離れて+置く", "era": "16世紀英語" },
+      { "node": "displace", "sub": "移動させる", "era": "近代英語" },
+      { "node": "displace", "sub": "立ち退かせる・取って代わる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "displace people", "ja": "人々を避難させる" },
+      { "en": "displaced persons", "ja": "避難民" },
+      { "en": "displace workers", "ja": "労働者に取って代わる" },
+      { "en": "be displaced by", "ja": "〜に取って代わられる" },
+      { "en": "displace water", "ja": "水を押しのける" },
+      { "en": "internally displaced", "ja": "国内避難した" }
+    ],
+    "related": [
+      { "en": "displacement", "ja": "移動、立ち退き" },
+      { "en": "replace", "ja": "取り替える" },
+      { "en": "relocate", "ja": "移転させる" },
+      { "en": "supplant", "ja": "取って代わる" }
+    ],
+    "faq": [
+      { "q": "displace と replace の違いは？", "a": "replace は『(古いものを新しいものに)取り替える』、displace は『(元の場所から)押しのける・追い出す・取って代わる』ニュアンスです。" },
+      { "q": "displaced person とは？", "a": "戦争や災害などで住み慣れた場所を追われた『避難民』のことです。" }
+    ],
+    "quiz": [
+      { "q": "displace の意味は？", "A": "立ち退かせる・取って代わる", "B": "元に戻す", "C": "建てる", "D": "守る", "correct": "A" },
+      { "q": "displaced persons の意味は？", "A": "避難民", "B": "労働者", "C": "観光客", "D": "住民", "correct": "A" }
+    ]
+  },
+  {
+    "english": "displacement",
+    "pron": "dɪsˈpleɪsmənt",
+    "kana": "ディスプレイスメント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "displace（移動させる）+ -ment",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "物理・社会"],
+    "meaning_main": "移動 / 立ち退き / (物理)変位・排水量",
+    "description": "displacement の意味・発音・使い方。「(元の場所からの)移動・立ち退き」を表す名詞。物理の『変位』や船の『排水量』の意味も例文で解説します。",
+    "keywords": ["displacement 意味", "displacement 使い方", "displacement 発音", "変位 英語"],
+    "meanings": [
+      { "hinshi": "【名】移動、立ち退き", "note": "元の場所から追われること。forced displacement(強制退去)。不可算" },
+      { "hinshi": "【名】(物理)変位、排水量", "note": "位置の変化、または船が押しのける水の量" }
+    ],
+    "usages": [
+      { "title": "① 「立ち退き・移動」", "desc": "元の場所からの移動。", "example_en": "The flood caused mass displacement.", "example_ja": "その洪水は大規模な避難を引き起こした。" },
+      { "title": "② 物理の「変位」", "desc": "位置の変化。", "example_en": "Displacement is a vector quantity.", "example_ja": "変位はベクトル量だ。" }
+    ],
+    "warn": ["動詞は displace(移動させる)。物理では『変位(位置の変化)』、船では『排水量』。社会では『(強制的な)立ち退き・避難』。"],
+    "etym_note": "displace（移動させる)に名詞化の -ment が付いた語です。",
+    "etym_chain": [
+      { "node": "displace", "sub": "移動させる", "era": "近代英語" },
+      { "node": "displacement", "sub": "移動", "era": "18世紀英語" },
+      { "node": "displacement", "sub": "移動・変位・排水量", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "forced displacement", "ja": "強制退去" },
+      { "en": "mass displacement", "ja": "大規模な避難" },
+      { "en": "displacement of people", "ja": "人々の立ち退き" },
+      { "en": "engine displacement", "ja": "エンジン排気量" },
+      { "en": "water displacement", "ja": "排水量" },
+      { "en": "distance and displacement", "ja": "距離と変位" }
+    ],
+    "related": [
+      { "en": "displace", "ja": "移動させる" },
+      { "en": "relocation", "ja": "移転" },
+      { "en": "migration", "ja": "移住" },
+      { "en": "movement", "ja": "動き、移動" }
+    ],
+    "faq": [
+      { "q": "displacement の物理的な意味は？", "a": "『変位(位置の変化)』を指します。始点から終点への向きと大きさをもつベクトル量で、道のり(distance)とは区別されます。" },
+      { "q": "船の displacement とは？", "a": "『排水量』のことです。船が押しのける水の量(重さ)で、船の大きさを表す指標です。" }
+    ],
+    "quiz": [
+      { "q": "displacement の意味は？", "A": "移動・立ち退き・変位", "B": "建設", "C": "貯金", "D": "祝福", "correct": "A" },
+      { "q": "engine displacement の意味は？", "A": "エンジン排気量", "B": "エンジン故障", "C": "エンジン交換", "D": "エンジン始動", "correct": "A" }
+    ]
+  },
+  {
+    "english": "disprove",
+    "pron": "dɪsˈpruːv",
+    "kana": "ディスプルーブ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "dis-（否定）+ prove（証明する）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "論理・証明"],
+    "meaning_main": "(誤りを)証明する / 反証する / 論破する",
+    "description": "disprove の意味・発音・使い方。「(主張や説が誤りであることを)証明する・反証する」を表す動詞。prove との対比を例文とともに解説します。",
+    "keywords": ["disprove 意味", "disprove 使い方", "disprove 発音", "反証 英語"],
+    "meanings": [
+      { "hinshi": "【動】(誤りを)証明する、反証する、論破する", "note": "主張・説が間違っていることを示す。disprove a theory(説を反証する)。反対は prove(証明する)" }
+    ],
+    "usages": [
+      { "title": "① 「反証する」", "desc": "誤りを証明する。", "example_en": "The experiment disproved the theory.", "example_ja": "その実験は説を反証した。" },
+      { "title": "② 論破", "desc": "主張を覆す。", "example_en": "He disproved her claim with evidence.", "example_ja": "彼は証拠で彼女の主張を覆した。" }
+    ],
+    "warn": ["dis-(否定)+ prove(証明する)。反対は prove(正しいと証明する)。名詞は disproof(反証)。"],
+    "etym_note": "dis-（否定)と prove（証明する。ラテン語 probare から)を組み合わせた語で、『誤りを証明する』を表します。",
+    "etym_chain": [
+      { "node": "dis- + prove", "sub": "否定+証明", "era": "中英語" },
+      { "node": "disprove", "sub": "反証する", "era": "近代英語" },
+      { "node": "disprove", "sub": "反証する・論破する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "disprove a theory", "ja": "説を反証する" },
+      { "en": "disprove a claim", "ja": "主張を覆す" },
+      { "en": "disprove the myth", "ja": "俗説を反証する" },
+      { "en": "hard to disprove", "ja": "反証しにくい" },
+      { "en": "disprove a hypothesis", "ja": "仮説を反証する" },
+      { "en": "prove or disprove", "ja": "証明するか反証する" }
+    ],
+    "related": [
+      { "en": "prove", "ja": "証明する" },
+      { "en": "refute", "ja": "論破する、反ばくする" },
+      { "en": "rebut", "ja": "反ばくする" },
+      { "en": "confirm", "ja": "確認する" }
+    ],
+    "faq": [
+      { "q": "disprove の反対語は？", "a": "prove(正しいと証明する)です。disprove は『誤りであることを証明する・反証する』です。" },
+      { "q": "refute との違いは？", "a": "どちらも『反証・論破する』ですが、disprove は『証拠で誤りを示す』、refute は『議論で反ばくする』に重点があることがあります。" }
+    ],
+    "quiz": [
+      { "q": "disprove の意味は？", "A": "(誤りを)反証する、論破する", "B": "証明する", "C": "承認する", "D": "無視する", "correct": "A" },
+      { "q": "disprove の反対語は？", "A": "prove(証明する)", "B": "refute(論破する)", "C": "rebut(反ばくする)", "D": "deny(否定する)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "disrespectful",
+    "pron": "ˌdɪsrɪˈspektfl",
+    "kana": "ディスリスペクトフル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "disrespect（無礼）+ -ful",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "態度・礼儀"],
+    "meaning_main": "無礼な / 失礼な / 敬意を欠いた",
+    "description": "disrespectful の意味・発音・使い方。「無礼な・失礼な・敬意を欠いた」を表す形容詞。respectful(礼儀正しい)との対比を例文とともに解説します。",
+    "keywords": ["disrespectful 意味", "disrespectful 使い方", "disrespectful 発音", "無礼 英語"],
+    "meanings": [
+      { "hinshi": "【形】無礼な、失礼な、敬意を欠いた", "note": "相手への敬意がない。disrespectful to ...(〜に失礼な)。反対は respectful" }
+    ],
+    "usages": [
+      { "title": "① 「無礼な」", "desc": "敬意を欠いた態度。", "example_en": "It's disrespectful to interrupt others.", "example_ja": "人の話をさえぎるのは失礼だ。" },
+      { "title": "② disrespectful to", "desc": "『〜に失礼な』。", "example_en": "He was disrespectful to his teacher.", "example_ja": "彼は先生に無礼だった。" }
+    ],
+    "warn": ["disrespect(無礼・敬意を欠く)+ -ful。反対は respectful(礼儀正しい)。disrespectful to/toward(〜に失礼な)。"],
+    "etym_note": "disrespect（dis-「否定」+ respect「敬意」)に『〜に満ちた』を表す -ful が付いた語です。",
+    "etym_chain": [
+      { "node": "disrespect", "sub": "無礼", "era": "17世紀英語" },
+      { "node": "disrespectful", "sub": "無礼な", "era": "近代英語" },
+      { "node": "disrespectful", "sub": "無礼な・失礼な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "disrespectful to", "ja": "〜に失礼な" },
+      { "en": "disrespectful behavior", "ja": "無礼な態度" },
+      { "en": "rude and disrespectful", "ja": "無作法で失礼な" },
+      { "en": "a disrespectful remark", "ja": "失礼な発言" },
+      { "en": "disrespectful toward", "ja": "〜に対して無礼な" },
+      { "en": "highly disrespectful", "ja": "きわめて失礼な" }
+    ],
+    "related": [
+      { "en": "disrespect", "ja": "無礼、敬意を欠くこと" },
+      { "en": "rude", "ja": "無作法な" },
+      { "en": "impolite", "ja": "失礼な" },
+      { "en": "respectful", "ja": "礼儀正しい" }
+    ],
+    "faq": [
+      { "q": "disrespectful の反対語は？", "a": "respectful(礼儀正しい・敬意を払う)です。disrespectful は『無礼な・敬意を欠いた』です。" },
+      { "q": "rude との違いは？", "a": "rude は『無作法な・失礼な』全般、disrespectful は特に『(相手への)敬意を欠いた』ことに重点があります。" }
+    ],
+    "quiz": [
+      { "q": "disrespectful の意味は？", "A": "無礼な、失礼な", "B": "礼儀正しい", "C": "親切な", "D": "静かな", "correct": "A" },
+      { "q": "disrespectful の反対語は？", "A": "respectful(礼儀正しい)", "B": "rude(無作法な)", "C": "impolite(失礼な)", "D": "disrespect(無礼)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "disruption",
+    "pron": "dɪsˈrʌpʃ(ə)n",
+    "kana": "ディスラプション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 disrumpere（引き裂く）から",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "混乱・変化"],
+    "meaning_main": "混乱 / 中断 / (秩序・業界の)破壊的な変革",
+    "description": "disruption の意味・発音・使い方。「(通常の流れの)混乱・中断」や、ビジネスの「破壊的な変革」を表す名詞。動詞 disrupt との関係を例文で解説します。",
+    "keywords": ["disruption 意味", "disruption 使い方", "disruption 発音", "混乱 英語"],
+    "meanings": [
+      { "hinshi": "【名】混乱、中断、妨害", "note": "通常の流れが乱れること。cause disruption(混乱を引き起こす)。可算・不可算" },
+      { "hinshi": "【名】(業界などの)破壊的な変革", "note": "既存の秩序を覆す革新。digital disruption(デジタル変革)" }
+    ],
+    "usages": [
+      { "title": "① 「混乱・中断」", "desc": "通常の流れが乱れる。", "example_en": "The storm caused travel disruption.", "example_ja": "その嵐は交通の混乱を引き起こした。" },
+      { "title": "② 「破壊的変革」", "desc": "業界を覆す革新。", "example_en": "Streaming caused disruption in the music industry.", "example_ja": "配信は音楽業界に破壊的変革をもたらした。" }
+    ],
+    "warn": ["動詞は disrupt(混乱させる・中断させる)。ビジネスでは『既存の秩序を覆す革新(ディスラプション)』の意味でも使う。"],
+    "etym_note": "ラテン語 disrumpere（dis-「分けて」+ rumpere「破る」→引き裂く)に由来します。",
+    "etym_chain": [
+      { "node": "disrumpere", "sub": "引き裂く", "era": "ラテン語" },
+      { "node": "disruption", "sub": "混乱", "era": "中英語" },
+      { "node": "disruption", "sub": "混乱・破壊的変革", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "cause disruption", "ja": "混乱を引き起こす" },
+      { "en": "travel disruption", "ja": "交通の混乱" },
+      { "en": "digital disruption", "ja": "デジタル変革" },
+      { "en": "major disruption", "ja": "大きな混乱" },
+      { "en": "avoid disruption", "ja": "混乱を避ける" },
+      { "en": "market disruption", "ja": "市場の変革" }
+    ],
+    "related": [
+      { "en": "disrupt", "ja": "混乱させる、中断させる" },
+      { "en": "disturbance", "ja": "妨害、騒動" },
+      { "en": "interruption", "ja": "中断" },
+      { "en": "chaos", "ja": "混沌" }
+    ],
+    "faq": [
+      { "q": "disruption の2つの意味は？", "a": "① 『(通常の流れの)混乱・中断』② ビジネスで『既存の秩序を覆す破壊的な変革(ディスラプション)』です。文脈で判断します。" },
+      { "q": "動詞形は？", "a": "disrupt(混乱させる・中断させる・覆す)です。" }
+    ],
+    "quiz": [
+      { "q": "disruption の意味は？", "A": "混乱・中断・破壊的変革", "B": "秩序", "C": "完成", "D": "静けさ", "correct": "A" },
+      { "q": "disruption の動詞形は？", "A": "disrupt", "B": "disperse", "C": "dismiss", "D": "distort", "correct": "A" }
+    ]
+  },
+  {
+    "english": "dissonance",
+    "pron": "ˈdɪsənəns",
+    "kana": "ディソナンス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 dissonare（音が合わない）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "音楽・心理"],
+    "meaning_main": "不協和音 / 不調和 / (心理)認知的不協和",
+    "description": "dissonance の意味・発音・使い方。音楽の「不協和音」や、考えの「不調和」を表す名詞。cognitive dissonance(認知的不協和)の用法を例文で解説します。",
+    "keywords": ["dissonance 意味", "dissonance 使い方", "dissonance 発音", "不協和音 英語"],
+    "meanings": [
+      { "hinshi": "【名】不協和音、不調和", "note": "調和しない音や状態。反対は harmony/consonance(調和)。不可算" },
+      { "hinshi": "【名】(心理)認知的不協和", "note": "cognitive dissonance(矛盾した考えによる心の不快)" }
+    ],
+    "usages": [
+      { "title": "① 「不協和音」", "desc": "調和しない音。", "example_en": "The chord created a sense of dissonance.", "example_ja": "その和音は不協和音の感じを生んだ。" },
+      { "title": "② cognitive dissonance", "desc": "考えの矛盾による不快。", "example_en": "He felt cognitive dissonance about his choice.", "example_ja": "彼は自分の選択に認知的不協和を感じた。" }
+    ],
+    "warn": ["形容詞 dissonant(不協和の)。反対は consonance/harmony(協和・調和)。cognitive dissonance(認知的不協和)は心理学の重要概念。"],
+    "etym_note": "ラテン語 dissonare（dis-「離れて」+ sonare「鳴る」→音が合わない)に由来します。",
+    "etym_chain": [
+      { "node": "dissonare", "sub": "音が合わない", "era": "ラテン語" },
+      { "node": "dissonance", "sub": "不協和音", "era": "中英語" },
+      { "node": "dissonance", "sub": "不協和音・不調和", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "cognitive dissonance", "ja": "認知的不協和" },
+      { "en": "musical dissonance", "ja": "音楽の不協和音" },
+      { "en": "a sense of dissonance", "ja": "不調和の感じ" },
+      { "en": "create dissonance", "ja": "不協和を生む" },
+      { "en": "resolve dissonance", "ja": "不協和を解消する" },
+      { "en": "harmony and dissonance", "ja": "協和と不協和" }
+    ],
+    "related": [
+      { "en": "dissonant", "ja": "不協和の" },
+      { "en": "harmony", "ja": "調和、和音" },
+      { "en": "consonance", "ja": "協和" },
+      { "en": "discord", "ja": "不一致、不協和" }
+    ],
+    "faq": [
+      { "q": "dissonance の反対語は？", "a": "harmony(調和・ハーモニー)や consonance(協和)です。dissonance は『不協和・不調和』です。" },
+      { "q": "cognitive dissonance とは？", "a": "『認知的不協和』のことです。矛盾する考えや行動を同時にもつときに感じる心の不快感を指す心理学の概念です。" }
+    ],
+    "quiz": [
+      { "q": "dissonance の意味は？", "A": "不協和音、不調和", "B": "調和", "C": "静けさ", "D": "喜び", "correct": "A" },
+      { "q": "dissonance の反対語は？", "A": "harmony(調和)", "B": "discord(不一致)", "C": "dissonant(不協和の)", "D": "noise(騒音)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "distraction",
+    "pron": "dɪˈstrækʃ(ə)n",
+    "kana": "ディストラクション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 distrahere（引き離す）から",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "注意・心理"],
+    "meaning_main": "気を散らすもの / 注意散漫 / 気晴らし",
+    "description": "distraction の意味・発音・使い方。「気を散らすもの・注意散漫」を表す名詞。気晴らしの意味も含め、動詞 distract との関係を例文で解説します。",
+    "keywords": ["distraction 意味", "distraction 使い方", "distraction 発音", "気を散らす 英語"],
+    "meanings": [
+      { "hinshi": "【名】気を散らすもの、注意散漫", "note": "注意をそらすもの。a distraction from work(仕事の妨げ)。可算・不可算" },
+      { "hinshi": "【名】気晴らし、気分転換", "note": "楽しみとしての気そらし" }
+    ],
+    "usages": [
+      { "title": "① 「気を散らすもの」", "desc": "注意をそらすもの。", "example_en": "Turn off your phone to avoid distractions.", "example_ja": "気が散るのを避けるためスマホを切りなさい。" },
+      { "title": "② 「気晴らし」", "desc": "気分転換。", "example_en": "Reading is a pleasant distraction.", "example_ja": "読書は楽しい気晴らしだ。" }
+    ],
+    "warn": ["動詞 distract(気を散らす)。a distraction from ...(〜からの気そらし)。運転中の『わき見(distracted driving)』も関連。"],
+    "etym_note": "ラテン語 distrahere（dis-「離れて」+ trahere「引く」→引き離す)に由来します。",
+    "etym_chain": [
+      { "node": "distrahere", "sub": "引き離す", "era": "ラテン語" },
+      { "node": "distraction", "sub": "気を散らすこと", "era": "中英語" },
+      { "node": "distraction", "sub": "気を散らすもの・気晴らし", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "avoid distractions", "ja": "気が散るのを避ける" },
+      { "en": "a distraction from", "ja": "〜からの気そらし" },
+      { "en": "cause a distraction", "ja": "気を散らす" },
+      { "en": "a welcome distraction", "ja": "うれしい気晴らし" },
+      { "en": "constant distractions", "ja": "絶え間ない妨げ" },
+      { "en": "without distraction", "ja": "気を散らさずに" }
+    ],
+    "related": [
+      { "en": "distract", "ja": "気を散らす" },
+      { "en": "diversion", "ja": "気晴らし、そらすこと" },
+      { "en": "interruption", "ja": "中断" },
+      { "en": "focus", "ja": "集中" }
+    ],
+    "faq": [
+      { "q": "distraction の2つの意味は？", "a": "① 『気を散らすもの・注意散漫』(妨げ)② 『気晴らし・気分転換』(楽しみ)です。文脈で判断します。" },
+      { "q": "動詞形は？", "a": "distract(気を散らす・注意をそらす)です。" }
+    ],
+    "quiz": [
+      { "q": "distraction の意味は？", "A": "気を散らすもの・気晴らし", "B": "集中", "C": "破壊", "D": "貯蓄", "correct": "A" },
+      { "q": "avoid distractions の意味は？", "A": "気が散るのを避ける", "B": "気晴らしをする", "C": "集中をやめる", "D": "眠る", "correct": "A" }
+    ]
+  },
+  {
+    "english": "disturbance",
+    "pron": "dɪˈstɜːbəns",
+    "kana": "ディスターバンス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "disturb（かき乱す）+ -ance",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "混乱・騒動"],
+    "meaning_main": "妨害 / 騒動 / (心の)動揺・(生態の)撹乱",
+    "description": "disturbance の意味・発音・使い方。「妨害・騒動・かき乱すこと」を表す名詞。動詞 disturb との関係や治安・生態の用法を例文で解説します。",
+    "keywords": ["disturbance 意味", "disturbance 使い方", "disturbance 発音", "騒動 英語"],
+    "meanings": [
+      { "hinshi": "【名】妨害、騒動、乱れ", "note": "平穏をかき乱すこと。a public disturbance(治安を乱す騒動)。可算・不可算" },
+      { "hinshi": "【名】(心の)動揺、(生態などの)撹乱", "note": "emotional disturbance(情緒の乱れ)" }
+    ],
+    "usages": [
+      { "title": "① 「騒動・妨害」", "desc": "平穏をかき乱す。", "example_en": "Police were called to a disturbance.", "example_ja": "警察が騒動に呼ばれた。" },
+      { "title": "② 「乱れ・撹乱」", "desc": "状態が乱される。", "example_en": "The construction caused a disturbance to wildlife.", "example_ja": "その工事は野生生物の撹乱を引き起こした。" }
+    ],
+    "warn": ["動詞は disturb(かき乱す・じゃまする)。cause a disturbance(騒ぎを起こす)。sleep disturbance(睡眠障害)など幅広く使う。"],
+    "etym_note": "disturb（かき乱す。ラテン語 disturbare「混乱させる」から)に -ance が付いた語です。",
+    "etym_chain": [
+      { "node": "disturbare", "sub": "混乱させる", "era": "ラテン語" },
+      { "node": "disturb", "sub": "かき乱す", "era": "中英語" },
+      { "node": "disturbance", "sub": "妨害・騒動", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "cause a disturbance", "ja": "騒ぎを起こす" },
+      { "en": "a public disturbance", "ja": "治安を乱す騒動" },
+      { "en": "sleep disturbance", "ja": "睡眠障害" },
+      { "en": "emotional disturbance", "ja": "情緒の乱れ" },
+      { "en": "a minor disturbance", "ja": "ちょっとした騒ぎ" },
+      { "en": "without disturbance", "ja": "妨げられずに" }
+    ],
+    "related": [
+      { "en": "disturb", "ja": "かき乱す、じゃまする" },
+      { "en": "disruption", "ja": "混乱" },
+      { "en": "commotion", "ja": "騒動" },
+      { "en": "peace", "ja": "平穏" }
+    ],
+    "faq": [
+      { "q": "disturbance と disruption の違いは？", "a": "どちらも『混乱・妨害』ですが、disturbance は『平穏・秩序をかき乱す騒動』、disruption は『(流れの)中断・破壊的変化』に重点があることがあります。" },
+      { "q": "動詞形は？", "a": "disturb(かき乱す・じゃまする)です。" }
+    ],
+    "quiz": [
+      { "q": "disturbance の意味は？", "A": "妨害、騒動、乱れ", "B": "平穏", "C": "秩序", "D": "静けさ", "correct": "A" },
+      { "q": "cause a disturbance の意味は？", "A": "騒ぎを起こす", "B": "静かにする", "C": "掃除する", "D": "手伝う", "correct": "A" }
+    ]
+  },
+  {
+    "english": "divisor",
+    "pron": "dɪˈvaɪzər",
+    "kana": "ディバイザー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 dividere（分ける）から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "数学"],
+    "meaning_main": "除数(割る数) / 約数",
+    "description": "divisor の意味・発音・使い方。割り算で「割る数(除数)」や、割り切れる「約数」を表す数学用語。dividend との違いを例文とともに解説します。",
+    "keywords": ["divisor 意味", "divisor 使い方", "divisor 発音", "除数 英語"],
+    "meanings": [
+      { "hinshi": "【名】除数(割る数)", "note": "割り算で割るほうの数。6÷2 の 2。dividend(割られる数)の反対" },
+      { "hinshi": "【名】約数", "note": "ある数を割り切る数。common divisor(公約数)" }
+    ],
+    "usages": [
+      { "title": "① 「除数」", "desc": "割る数。", "example_en": "In 10÷5, 5 is the divisor.", "example_ja": "10÷5 では、5が除数だ。" },
+      { "title": "② 「約数」", "desc": "割り切る数。", "example_en": "The divisors of 12 include 1, 2, 3, 4, 6, and 12.", "example_ja": "12の約数には1,2,3,4,6,12が含まれる。" }
+    ],
+    "warn": ["dividend(割られる数)÷ divisor(割る数)= quotient(商)。greatest common divisor(GCD)は『最大公約数』。"],
+    "etym_note": "ラテン語 dividere（分ける)に由来し、『分ける数=割る数』を表します。",
+    "etym_chain": [
+      { "node": "dividere", "sub": "分ける", "era": "ラテン語" },
+      { "node": "divisor", "sub": "除数", "era": "中英語" },
+      { "node": "divisor", "sub": "除数・約数", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the divisor", "ja": "除数" },
+      { "en": "a common divisor", "ja": "公約数" },
+      { "en": "the greatest common divisor", "ja": "最大公約数" },
+      { "en": "divide by the divisor", "ja": "除数で割る" },
+      { "en": "divisors of a number", "ja": "ある数の約数" },
+      { "en": "a proper divisor", "ja": "真の約数" }
+    ],
+    "related": [
+      { "en": "dividend", "ja": "被除数(割られる数)" },
+      { "en": "quotient", "ja": "商" },
+      { "en": "factor", "ja": "因数、約数" },
+      { "en": "divide", "ja": "割る" }
+    ],
+    "faq": [
+      { "q": "divisor と dividend の違いは？", "a": "divisor は『割る数(除数)』、dividend は『割られる数(被除数)』です。10÷5 では 10 が dividend、5 が divisor です。" },
+      { "q": "greatest common divisor とは？", "a": "『最大公約数(GCD)』のことです。2つ以上の数を割り切る最大の数です。" }
+    ],
+    "quiz": [
+      { "q": "divisor の意味は？", "A": "除数(割る数)・約数", "B": "割られる数", "C": "商", "D": "余り", "correct": "A" },
+      { "q": "10÷5 の divisor は？", "A": "5", "B": "10", "C": "2", "D": "50", "correct": "A" }
+    ]
+  },
+  {
+    "english": "documented",
+    "pron": "ˈdɒkjumentɪd",
+    "kana": "ドキュメンティッド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "document（記録する）+ -ed",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "記録・証拠"],
+    "meaning_main": "記録された / 文書で裏付けられた / 実証された",
+    "description": "documented の意味・発音・使い方。「記録された・文書で裏付けられた」を表す形容詞。証拠や記録に基づく事実を表す用法を例文で解説します。",
+    "keywords": ["documented 意味", "documented 使い方", "documented 発音", "記録された 英語"],
+    "meanings": [
+      { "hinshi": "【形】記録された、文書で裏付けられた、実証された", "note": "記録・証拠がある。a well-documented case(よく記録された事例)。反対は undocumented" }
+    ],
+    "usages": [
+      { "title": "① 「記録された」", "desc": "証拠・記録がある。", "example_en": "The effects are well documented.", "example_ja": "その影響はよく記録されている。" },
+      { "title": "② 文書での裏付け", "desc": "証拠に基づく。", "example_en": "It's a documented fact.", "example_ja": "それは記録に残された事実だ。" }
+    ],
+    "warn": ["動詞 document(記録する)。反対は undocumented(記録のない・無登録の)。well-documented(十分に記録された)が定番。"],
+    "etym_note": "document（記録する。ラテン語 documentum「教える例・証拠」から)の過去分詞から形容詞化しました。",
+    "etym_chain": [
+      { "node": "documentum", "sub": "証拠・例", "era": "ラテン語" },
+      { "node": "document", "sub": "記録する", "era": "近代英語" },
+      { "node": "documented", "sub": "記録された", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "well documented", "ja": "十分に記録された" },
+      { "en": "a documented case", "ja": "記録された事例" },
+      { "en": "a documented fact", "ja": "記録に残された事実" },
+      { "en": "fully documented", "ja": "完全に記録された" },
+      { "en": "poorly documented", "ja": "記録が乏しい" },
+      { "en": "documented evidence", "ja": "文書化された証拠" }
+    ],
+    "related": [
+      { "en": "document", "ja": "記録する、文書" },
+      { "en": "recorded", "ja": "記録された" },
+      { "en": "verified", "ja": "検証された" },
+      { "en": "undocumented", "ja": "記録のない、無登録の" }
+    ],
+    "faq": [
+      { "q": "well-documented とは？", "a": "『十分に記録された・よく証拠が残されている』という意味です。多くの記録や証拠で裏付けられている事柄に使います。" },
+      { "q": "反対語は？", "a": "undocumented(記録のない・無登録の)です。移民の文脈では『在留資格のない』の意味でも使われます。" }
+    ],
+    "quiz": [
+      { "q": "documented の意味は？", "A": "記録された、文書で裏付けられた", "B": "記録のない", "C": "秘密の", "D": "偽の", "correct": "A" },
+      { "q": "documented の反対語は？", "A": "undocumented(記録のない)", "B": "document(文書)", "C": "documentary(記録の)", "D": "recorded(記録された)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "dodecagon",
+    "pron": "dəʊˈdekəɡɒn",
+    "kana": "ドデカゴン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 dodeka（12）+ gonia（角）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "数学・図形"],
+    "meaning_main": "十二角形(12の辺と角をもつ多角形)",
+    "description": "dodecagon の意味・発音・使い方。12の辺と角をもつ多角形「十二角形」を表す数学用語。多角形の名前の作り方を例文とともに解説します。",
+    "keywords": ["dodecagon 意味", "dodecagon 使い方", "dodecagon 発音", "十二角形 英語"],
+    "meanings": [
+      { "hinshi": "【名】十二角形", "note": "12本の辺と12の角をもつ多角形。dodeca(12)+ gon(角)。可算" }
+    ],
+    "usages": [
+      { "title": "① 「十二角形」", "desc": "12辺の多角形。", "example_en": "A dodecagon has twelve sides.", "example_ja": "十二角形は12本の辺をもつ。" },
+      { "title": "② 図形の説明で", "desc": "正十二角形など。", "example_en": "A regular dodecagon has equal sides and angles.", "example_ja": "正十二角形は等しい辺と角をもつ。" }
+    ],
+    "warn": ["dodeca-(12)+ -gon(角)。多角形は角の数で名づける: pentagon(5)、hexagon(6)、octagon(8)、decagon(10)、dodecagon(12)。"],
+    "etym_note": "ギリシャ語 dodeka（12)+ gonia（角)から、『12の角をもつもの』を表します。",
+    "etym_chain": [
+      { "node": "dodeka + gonia", "sub": "12+角", "era": "古代ギリシャ語" },
+      { "node": "dodecagon", "sub": "十二角形", "era": "17世紀英語" },
+      { "node": "dodecagon", "sub": "十二角形", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a regular dodecagon", "ja": "正十二角形" },
+      { "en": "a twelve-sided dodecagon", "ja": "12辺の十二角形" },
+      { "en": "draw a dodecagon", "ja": "十二角形を描く" },
+      { "en": "the angles of a dodecagon", "ja": "十二角形の角" },
+      { "en": "a dodecagon shape", "ja": "十二角形の形" },
+      { "en": "sides of a dodecagon", "ja": "十二角形の辺" }
+    ],
+    "related": [
+      { "en": "polygon", "ja": "多角形" },
+      { "en": "decagon", "ja": "十角形" },
+      { "en": "octagon", "ja": "八角形" },
+      { "en": "hexagon", "ja": "六角形" }
+    ],
+    "faq": [
+      { "q": "dodecagon とは？", "a": "12本の辺と12の角をもつ多角形『十二角形』です。dodeca(12)+ gon(角)からなる語です。" },
+      { "q": "多角形の名前の作り方は？", "a": "角の数を表すギリシャ語 + gon で作ります。pentagon(5角)、hexagon(6角)、octagon(8角)、decagon(10角)、dodecagon(12角)などです。" }
+    ],
+    "quiz": [
+      { "q": "dodecagon の辺の数は？", "A": "12", "B": "10", "C": "8", "D": "6", "correct": "A" },
+      { "q": "dodecagon とは？", "A": "十二角形", "B": "十角形", "C": "八角形", "D": "六角形", "correct": "A" }
+    ]
+  },
+  {
+    "english": "dodgeball",
+    "pron": "ˈdɒdʒbɔːl",
+    "kana": "ドッジボール",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "dodge（よける）+ ball（ボール）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "スポーツ・遊び"],
+    "meaning_main": "ドッジボール(ボールを当て合う球技)",
+    "description": "dodgeball の意味・発音・使い方。ボールを投げ当て、よけ合う球技「ドッジボール」を表す名詞。dodge(よける)の意味や語源を例文とともに解説します。",
+    "keywords": ["dodgeball 意味", "dodgeball 使い方", "dodgeball 発音", "ドッジボール 英語"],
+    "meanings": [
+      { "hinshi": "【名】ドッジボール", "note": "2チームに分かれ、ボールを相手に当て、当てられないようによける球技。dodge(よける)+ ball。不可算" }
+    ],
+    "usages": [
+      { "title": "① 球技「ドッジボール」", "desc": "ボールを当て合う遊び。", "example_en": "We played dodgeball in gym class.", "example_ja": "体育の授業でドッジボールをした。" },
+      { "title": "② ルールの説明で", "desc": "当てられたら退場。", "example_en": "In dodgeball, you're out if you get hit.", "example_ja": "ドッジボールでは、当てられたら退場だ。" }
+    ],
+    "warn": ["dodge(すばやくよける)+ ball。dodge は動詞『よける・かわす』の意味もあり、比喩で『(質問などを)はぐらかす』にも使う。"],
+    "etym_note": "dodge（すばやくよける・かわす)と ball（ボール)を組み合わせた語です。",
+    "etym_chain": [
+      { "node": "dodge + ball", "sub": "よける+ボール", "era": "近代英語" },
+      { "node": "dodgeball", "sub": "ドッジボール", "era": "20世紀" },
+      { "node": "dodgeball", "sub": "ドッジボール", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "play dodgeball", "ja": "ドッジボールをする" },
+      { "en": "a game of dodgeball", "ja": "ドッジボールの試合" },
+      { "en": "dodge the ball", "ja": "ボールをよける" },
+      { "en": "a dodgeball match", "ja": "ドッジボールの試合" },
+      { "en": "get out in dodgeball", "ja": "ドッジボールで退場になる" },
+      { "en": "throw in dodgeball", "ja": "ドッジボールで投げる" }
+    ],
+    "related": [
+      { "en": "dodge", "ja": "よける、かわす" },
+      { "en": "ball", "ja": "ボール" },
+      { "en": "throw", "ja": "投げる" },
+      { "en": "game", "ja": "ゲーム、試合" }
+    ],
+    "faq": [
+      { "q": "dodgeball とは？", "a": "2チームに分かれ、ボールを相手に投げ当て、当てられないようによけ合う球技『ドッジボール』です。dodge(よける)+ ball からなる語です。" },
+      { "q": "dodge の意味は？", "a": "『すばやくよける・かわす』という意味です。比喩で『(質問などを)はぐらかす』の意味でも使います。" }
+    ],
+    "quiz": [
+      { "q": "dodgeball とは？", "A": "ボールを当て合いよける球技", "B": "サッカー", "C": "野球", "D": "テニス", "correct": "A" },
+      { "q": "dodge の意味は？", "A": "よける、かわす", "B": "投げる", "C": "つかむ", "D": "走る", "correct": "A" }
+    ]
+  },
+  {
+    "english": "dogfish",
+    "pron": "ˈdɒɡfɪʃ",
+    "kana": "ドッグフィッシュ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "dog（犬）+ fish（魚）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "生物・魚"],
+    "meaning_main": "ツノザメ(小型のサメの一種)",
+    "description": "dogfish の意味・発音・使い方。小型のサメの一種「ツノザメ」を表す名詞。群れで泳ぐ習性や食用としての用法を例文とともに解説します。",
+    "keywords": ["dogfish 意味", "dogfish 使い方", "dogfish 発音", "ツノザメ 英語"],
+    "meanings": [
+      { "hinshi": "【名】ツノザメ、小型のサメ", "note": "群れで泳ぐ小型のサメの総称。食用にもなる。複数形も dogfish。可算" }
+    ],
+    "usages": [
+      { "title": "① 「ツノザメ」", "desc": "小型のサメ。", "example_en": "Dogfish are small sharks that swim in groups.", "example_ja": "ツノザメは群れで泳ぐ小型のサメだ。" },
+      { "title": "② 食用として", "desc": "フィッシュ&チップスにも。", "example_en": "Dogfish is sometimes used in fish and chips.", "example_ja": "ツノザメはフィッシュ&チップスに使われることがある。" }
+    ],
+    "warn": ["犬のように群れで泳ぐことから dog + fish。複数形も通例 dogfish。イギリスではフィッシュ&チップスの魚に使われることがある。"],
+    "etym_note": "dog（犬)と fish（魚)を組み合わせた語で、群れで泳ぐ習性が犬の群れを思わせることに由来するとされます。",
+    "etym_chain": [
+      { "node": "dog + fish", "sub": "犬+魚", "era": "中英語" },
+      { "node": "dogfish", "sub": "ツノザメ", "era": "近代英語" },
+      { "node": "dogfish", "sub": "ツノザメ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a spiny dogfish", "ja": "アブラツノザメ" },
+      { "en": "a school of dogfish", "ja": "ツノザメの群れ" },
+      { "en": "catch dogfish", "ja": "ツノザメを捕まえる" },
+      { "en": "dogfish in the sea", "ja": "海のツノザメ" },
+      { "en": "a small dogfish", "ja": "小さなツノザメ" },
+      { "en": "grilled dogfish", "ja": "焼いたツノザメ" }
+    ],
+    "related": [
+      { "en": "shark", "ja": "サメ" },
+      { "en": "fish", "ja": "魚" },
+      { "en": "ray", "ja": "エイ" },
+      { "en": "sea", "ja": "海" }
+    ],
+    "faq": [
+      { "q": "dogfish とは？", "a": "群れで泳ぐ小型のサメの総称『ツノザメ』です。犬のように群れることから dog + fish と呼ばれます。食用にもなります。" },
+      { "q": "複数形は？", "a": "通例 dogfish のままです(fish は単複同形)。" }
+    ],
+    "quiz": [
+      { "q": "dogfish とは？", "A": "小型のサメ(ツノザメ)", "B": "犬", "C": "貝", "D": "海藻", "correct": "A" },
+      { "q": "dogfish の名の由来は？", "A": "犬のように群れで泳ぐから", "B": "犬に似た顔だから", "C": "犬が食べるから", "D": "犬が捕るから", "correct": "A" }
+    ]
+  },
+  {
+    "english": "dogma",
+    "pron": "ˈdɒɡmə",
+    "kana": "ドグマ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 dogma（意見・教義）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "宗教・思想"],
+    "meaning_main": "教義 / (疑いを許さない)信条・定説",
+    "description": "dogma の意味・発音・使い方。宗教や思想の「教義」や、疑いを許さない「独断的な信条・定説」を表す名詞。形容詞 dogmatic を例文とともに解説します。",
+    "keywords": ["dogma 意味", "dogma 使い方", "dogma 発音", "教義 英語"],
+    "meanings": [
+      { "hinshi": "【名】教義、(疑いを許さない)信条・定説", "note": "権威によって定められ、疑ってはならないとされる考え。しばしば否定的。不可算・可算" }
+    ],
+    "usages": [
+      { "title": "① 「教義」", "desc": "宗教の定められた信条。", "example_en": "Church dogma shaped their beliefs.", "example_ja": "教会の教義が彼らの信仰を形作った。" },
+      { "title": "② 「独断的な定説」", "desc": "疑いを許さない考え。", "example_en": "He rejected the political dogma.", "example_ja": "彼はその政治的な独断論を退けた。" }
+    ],
+    "warn": ["形容詞 dogmatic(独断的な・教条的な)。しばしば『疑いを許さず押しつける』否定的なニュアンスを含む。"],
+    "etym_note": "ギリシャ語 dogma（意見・決定・教義。dokein「思う」から)に由来します。",
+    "etym_chain": [
+      { "node": "dogma", "sub": "意見・教義", "era": "古代ギリシャ語" },
+      { "node": "dogma", "sub": "教義", "era": "17世紀英語" },
+      { "node": "dogma", "sub": "教義・独断的信条", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "religious dogma", "ja": "宗教の教義" },
+      { "en": "political dogma", "ja": "政治的な独断論" },
+      { "en": "challenge dogma", "ja": "教義に異を唱える" },
+      { "en": "reject dogma", "ja": "独断論を退ける" },
+      { "en": "rigid dogma", "ja": "融通のきかない教義" },
+      { "en": "party dogma", "ja": "党の定説" }
+    ],
+    "related": [
+      { "en": "dogmatic", "ja": "独断的な、教条的な" },
+      { "en": "doctrine", "ja": "教義、主義" },
+      { "en": "creed", "ja": "信条" },
+      { "en": "belief", "ja": "信念" }
+    ],
+    "faq": [
+      { "q": "dogma と doctrine の違いは？", "a": "どちらも『教義・主義』ですが、dogma は『権威が定め、疑いを許さない信条』で否定的なこともあり、doctrine は『(体系的な)教え・主義』全般です。" },
+      { "q": "形容詞形は？", "a": "dogmatic(独断的な・教条的な)です。押しつけがましい態度を表します。" }
+    ],
+    "quiz": [
+      { "q": "dogma の意味は？", "A": "教義、(疑いを許さない)信条", "B": "疑問", "C": "実験", "D": "感想", "correct": "A" },
+      { "q": "dogma の形容詞形は？", "A": "dogmatic", "B": "dogmatize", "C": "dogmal", "D": "dogmish", "correct": "A" }
+    ]
+  },
+  {
+    "english": "dolphin",
+    "pron": "ˈdɒlfɪn",
+    "kana": "ドルフィン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 delphis（イルカ）から",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "生物・海"],
+    "meaning_main": "イルカ",
+    "description": "dolphin の意味・発音・使い方。知能が高く群れで泳ぐ海の哺乳類「イルカ」を表す名詞。特徴や whale との違いを例文とともに解説します。",
+    "keywords": ["dolphin 意味", "dolphin 使い方", "dolphin 発音", "イルカ 英語"],
+    "meanings": [
+      { "hinshi": "【名】イルカ", "note": "知能が高く群れで泳ぐ海の哺乳類。クジラの仲間。可算" }
+    ],
+    "usages": [
+      { "title": "① 「イルカ」", "desc": "知能の高い海の哺乳類。", "example_en": "Dolphins are known for their intelligence.", "example_ja": "イルカは知能の高さで知られている。" },
+      { "title": "② 特徴の説明で", "desc": "群れで泳ぎ跳ねる。", "example_en": "A dolphin leaped out of the water.", "example_ja": "イルカが水面から跳び上がった。" }
+    ],
+    "warn": ["イルカもクジラ(whale)も哺乳類。一般に小型のものを dolphin、大型を whale と呼ぶ。魚ではない。"],
+    "etym_note": "ギリシャ語 delphis（イルカ)に由来します。",
+    "etym_chain": [
+      { "node": "delphis", "sub": "イルカ", "era": "古代ギリシャ語" },
+      { "node": "dolphin", "sub": "イルカ", "era": "中英語" },
+      { "node": "dolphin", "sub": "イルカ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a bottlenose dolphin", "ja": "バンドウイルカ" },
+      { "en": "a pod of dolphins", "ja": "イルカの群れ" },
+      { "en": "dolphins jumping", "ja": "跳ねるイルカ" },
+      { "en": "swim with dolphins", "ja": "イルカと泳ぐ" },
+      { "en": "a friendly dolphin", "ja": "人なつっこいイルカ" },
+      { "en": "dolphin intelligence", "ja": "イルカの知能" }
+    ],
+    "related": [
+      { "en": "whale", "ja": "クジラ" },
+      { "en": "porpoise", "ja": "ネズミイルカ" },
+      { "en": "mammal", "ja": "哺乳類" },
+      { "en": "ocean", "ja": "海" }
+    ],
+    "faq": [
+      { "q": "dolphin は魚ですか？", "a": "いいえ。イルカは魚ではなく哺乳類です。肺で呼吸し、子を乳で育てます。クジラの仲間です。" },
+      { "q": "whale との違いは？", "a": "どちらもクジラ目の哺乳類ですが、一般に小型のものを dolphin(イルカ)、大型のものを whale(クジラ)と呼びます。" }
+    ],
+    "quiz": [
+      { "q": "dolphin の意味は？", "A": "イルカ", "B": "サメ", "C": "タコ", "D": "カニ", "correct": "A" },
+      { "q": "dolphin は何類？", "A": "哺乳類", "B": "魚類", "C": "は虫類", "D": "鳥類", "correct": "A" }
+    ]
+  },
+  {
+    "english": "doodle",
+    "pron": "ˈduːd(ə)l",
+    "kana": "ドゥードゥル",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "由来には諸説あり(低地ドイツ語 dudeltopf 等)",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "描く・遊び"],
+    "meaning_main": "(退屈しのぎに)いたずら書きをする / 落書き",
+    "description": "doodle の意味・発音・使い方。「(考え事や退屈しのぎに)無意識にいたずら書きをする」を表す動詞と、その「落書き」を表す名詞。用法を例文で解説します。",
+    "keywords": ["doodle 意味", "doodle 使い方", "doodle 発音", "いたずら書き 英語"],
+    "meanings": [
+      { "hinshi": "【動】(退屈しのぎに)いたずら書きをする", "note": "考え事などをしながら無意識に絵や線を描く" },
+      { "hinshi": "【名】いたずら書き、落書き", "note": "そうして描かれた絵や線" }
+    ],
+    "usages": [
+      { "title": "① 「いたずら書きをする」", "desc": "無意識に描く。", "example_en": "He doodled in the margins of his notebook.", "example_ja": "彼はノートの余白にいたずら書きをした。" },
+      { "title": "② 名詞「落書き」", "desc": "描かれた絵。", "example_en": "The page was covered in doodles.", "example_ja": "そのページは落書きで覆われていた。" }
+    ],
+    "warn": ["graffiti(壁などへの落書き)とは違い、doodle は『ノートなどへの無意識のいたずら書き』。悪意はなく、退屈しのぎの意味。"],
+    "etym_note": "由来には諸説あり、低地ドイツ語 dudeltopf(まぬけ)などと関連するとされます。",
+    "etym_chain": [
+      { "node": "dudeltopf?", "sub": "まぬけ", "era": "低地ドイツ語" },
+      { "node": "doodle", "sub": "いたずら書き", "era": "20世紀英語" },
+      { "node": "doodle", "sub": "いたずら書き(をする)", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "doodle in a notebook", "ja": "ノートにいたずら書きする" },
+      { "en": "a little doodle", "ja": "ちょっとした落書き" },
+      { "en": "doodle on paper", "ja": "紙に落書きする" },
+      { "en": "covered in doodles", "ja": "落書きだらけの" },
+      { "en": "a doodle of a cat", "ja": "猫のいたずら書き" },
+      { "en": "absentminded doodling", "ja": "うわの空の落書き" }
+    ],
+    "related": [
+      { "en": "sketch", "ja": "スケッチ、下絵" },
+      { "en": "scribble", "ja": "走り書き、なぐり書き" },
+      { "en": "graffiti", "ja": "落書き(壁など)" },
+      { "en": "draw", "ja": "描く" }
+    ],
+    "faq": [
+      { "q": "doodle と graffiti の違いは？", "a": "doodle は『ノートなどへの無意識のいたずら書き』(退屈しのぎ)、graffiti は『壁などへの(しばしば無許可の)落書き』です。" },
+      { "q": "scribble との違いは？", "a": "scribble は『走り書き・なぐり書き(文字や線)』、doodle は『(考え事をしながらの)いたずら書き(絵)』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "doodle の意味は？", "A": "(退屈しのぎに)いたずら書きをする", "B": "きれいに描く", "C": "消す", "D": "破る", "correct": "A" },
+      { "q": "doodle が描かれる場所は？", "A": "ノートの余白など", "B": "美術館の壁", "C": "空", "D": "海", "correct": "A" }
+    ]
+  },
+  {
+    "english": "doohickey",
+    "pron": "ˈduːhɪki",
+    "kana": "ドゥーヒッキー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "20世紀アメリカ英語の造語",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "口語・俗語"],
+    "meaning_main": "(名前の分からない)小物・装置 / あれ / なんとかいうもの",
+    "description": "doohickey の意味・発音・使い方。名前が分からない・思い出せない「小さな装置・部品」を指すくだけた口語。thingamajig との違いを例文で解説します。",
+    "keywords": ["doohickey 意味", "doohickey 使い方", "doohickey 発音", "ドゥーヒッキー 意味"],
+    "meanings": [
+      { "hinshi": "【名】(名前の分からない)小物、装置、あれ", "note": "名前を知らない・思い出せない小さな道具や部品を指す口語。可算" }
+    ],
+    "usages": [
+      { "title": "① 「あれ、なんとかいうもの」", "desc": "名前不明の小物。", "example_en": "Hand me that doohickey over there.", "example_ja": "そこのあれ(なんとかいうやつ)を取って。" },
+      { "title": "② 部品などに", "desc": "名前を知らない装置。", "example_en": "This little doohickey holds the wire in place.", "example_ja": "この小さな部品が線を固定している。" }
+    ],
+    "warn": ["くだけた口語。thingamajig, whatchamacallit, gizmo などと同じく『名前が分からないもの』を指す。フォーマルな場では使わない。"],
+    "etym_note": "20世紀初頭のアメリカ英語で生まれた造語で、由来ははっきりしていません。",
+    "etym_chain": [
+      { "node": "doohickey", "sub": "名前不明の小物", "era": "20世紀アメリカ英語" },
+      { "node": "doohickey", "sub": "あれ、なんとかいうもの", "era": "現代英語" },
+      { "node": "doohickey", "sub": "小物・装置", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "that doohickey", "ja": "あのなんとかいうやつ" },
+      { "en": "a little doohickey", "ja": "小さな部品" },
+      { "en": "some kind of doohickey", "ja": "何かの装置" },
+      { "en": "the doohickey on the machine", "ja": "機械の(あの)部品" },
+      { "en": "a plastic doohickey", "ja": "プラスチックの小物" },
+      { "en": "what's this doohickey?", "ja": "このなんとかいうやつは何？" }
+    ],
+    "related": [
+      { "en": "thingamajig", "ja": "なんとかいうもの" },
+      { "en": "gizmo", "ja": "小道具、装置" },
+      { "en": "gadget", "ja": "小道具、便利な装置" },
+      { "en": "whatchamacallit", "ja": "なんとかいうもの" }
+    ],
+    "faq": [
+      { "q": "doohickey とはどういう意味ですか？", "a": "名前を知らない・思い出せない『小さな装置や部品・あれ』を指すくだけた口語です。thingamajig や whatchamacallit と同じ用法です。" },
+      { "q": "gadget との違いは？", "a": "gadget は『便利な小道具・装置』を指す一般語、doohickey は特に『名前が分からないもの』を指すくだけた語です。" }
+    ],
+    "quiz": [
+      { "q": "doohickey の意味は？", "A": "(名前の分からない)小物・装置", "B": "大きな機械", "C": "食べ物", "D": "動物", "correct": "A" },
+      { "q": "doohickey と同じ用法の語は？", "A": "thingamajig(なんとかいうもの)", "B": "computer(コンピューター)", "C": "table(テーブル)", "D": "book(本)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "doorstep",
+    "pron": "ˈdɔːstep",
+    "kana": "ドアステップ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "door（ドア）+ step（段）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "住居・場所"],
+    "meaning_main": "玄関前の段 / 戸口の踏み段 / (比喩)すぐ近く",
+    "description": "doorstep の意味・発音・使い方。玄関ドアの前の「踏み段」を表す名詞。on one's doorstep(すぐ近くに)の比喩表現も例文で解説します。",
+    "keywords": ["doorstep 意味", "doorstep 使い方", "doorstep 発音", "玄関 英語"],
+    "meanings": [
+      { "hinshi": "【名】玄関前の段、戸口の踏み段", "note": "ドアの外側にある一段高い踏み段。可算" },
+      { "hinshi": "【名】(比喩)すぐ近く", "note": "on one's doorstep(すぐそばに)" }
+    ],
+    "usages": [
+      { "title": "① 「玄関前の段」", "desc": "ドアの外の踏み段。", "example_en": "She left the milk on the doorstep.", "example_ja": "彼女は牛乳を玄関前に置いた。" },
+      { "title": "② on one's doorstep", "desc": "『すぐ近くに』の比喩。", "example_en": "The beach is right on our doorstep.", "example_ja": "浜辺はすぐそばにある。" }
+    ],
+    "warn": ["door(ドア)+ step(段)。on one's doorstep(すぐ近くに)、doorstep someone(玄関先で待ち伏せる)などの用法もある。"],
+    "etym_note": "door（ドア)と step（段)を組み合わせた語で、『玄関の踏み段』を表します。",
+    "etym_chain": [
+      { "node": "door + step", "sub": "ドア+段", "era": "近代英語" },
+      { "node": "doorstep", "sub": "玄関前の段", "era": "18世紀" },
+      { "node": "doorstep", "sub": "玄関前の段・すぐ近く", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "on the doorstep", "ja": "玄関先に、すぐ近くに" },
+      { "en": "on one's doorstep", "ja": "すぐそばに" },
+      { "en": "leave on the doorstep", "ja": "玄関前に置く" },
+      { "en": "sit on the doorstep", "ja": "玄関前の段に座る" },
+      { "en": "right on your doorstep", "ja": "まさにすぐ近くに" },
+      { "en": "a doorstep delivery", "ja": "玄関先への配達" }
+    ],
+    "related": [
+      { "en": "threshold", "ja": "敷居、戸口" },
+      { "en": "porch", "ja": "玄関ポーチ" },
+      { "en": "entrance", "ja": "入り口" },
+      { "en": "step", "ja": "段、歩み" }
+    ],
+    "faq": [
+      { "q": "on one's doorstep とは？", "a": "『すぐ近くに・すぐそばに』という比喩表現です。The park is on our doorstep.(公園はすぐそばにある)のように使います。" },
+      { "q": "threshold との違いは？", "a": "doorstep は『ドアの外の踏み段』、threshold は『戸口の敷居(ドアの下の横木)』です。位置が異なります。" }
+    ],
+    "quiz": [
+      { "q": "doorstep の意味は？", "A": "玄関前の段・すぐ近く", "B": "屋根", "C": "地下室", "D": "煙突", "correct": "A" },
+      { "q": "on one's doorstep の意味は？", "A": "すぐ近くに", "B": "遠くに", "C": "屋根の上に", "D": "地下に", "correct": "A" }
+    ]
+  },
+  {
+    "english": "dough",
+    "pron": "dəʊ",
+    "kana": "ドウ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 dag（練った粉）から",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "料理・食べ物"],
+    "meaning_main": "(パン・菓子の)生地 / 練り粉 / (俗)お金",
+    "description": "dough の意味・発音・使い方。小麦粉に水を加えて練った「生地・練り粉」を表す名詞。俗語の『お金』の意味や発音を例文とともに解説します。",
+    "keywords": ["dough 意味", "dough 使い方", "dough 発音", "生地 英語"],
+    "meanings": [
+      { "hinshi": "【名】(パン・菓子の)生地、練り粉", "note": "小麦粉に水などを加えて練ったもの。不可算。発音は[dəʊ]" },
+      { "hinshi": "【名】(俗)お金", "note": "口語でお金を指すことがある" }
+    ],
+    "usages": [
+      { "title": "① 「生地」", "desc": "練った粉。", "example_en": "Knead the dough for ten minutes.", "example_ja": "生地を10分こねなさい。" },
+      { "title": "② (俗)「お金」", "desc": "口語表現。", "example_en": "He made a lot of dough.", "example_ja": "彼はたくさん稼いだ。" }
+    ],
+    "warn": ["発音は[dəʊ]『ドウ』(gh は発音しない)。batter(流動状の生地)より固い練り生地が dough。do や doe(雌鹿)と同音。"],
+    "etym_note": "古英語 dag（練った粉)に由来します。gh は現在発音されません。",
+    "etym_chain": [
+      { "node": "dag", "sub": "練った粉", "era": "古英語" },
+      { "node": "dough", "sub": "生地", "era": "中英語" },
+      { "node": "dough", "sub": "生地・お金(俗)", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "knead the dough", "ja": "生地をこねる" },
+      { "en": "bread dough", "ja": "パン生地" },
+      { "en": "cookie dough", "ja": "クッキー生地" },
+      { "en": "let the dough rise", "ja": "生地を発酵させる" },
+      { "en": "roll out the dough", "ja": "生地をのばす" },
+      { "en": "make some dough", "ja": "金を稼ぐ(俗)" }
+    ],
+    "related": [
+      { "en": "batter", "ja": "(流動状の)生地" },
+      { "en": "flour", "ja": "小麦粉" },
+      { "en": "knead", "ja": "こねる" },
+      { "en": "bake", "ja": "焼く" }
+    ],
+    "faq": [
+      { "q": "dough と batter の違いは？", "a": "dough は『こねられる固めの生地』(パン・クッキーなど)、batter は『流動状のゆるい生地』(パンケーキ・天ぷらなど)です。" },
+      { "q": "発音は？", "a": "[dəʊ]『ドウ』です。gh は発音しません。do や doe(雌鹿)と同じ音です。" }
+    ],
+    "quiz": [
+      { "q": "dough の意味は？", "A": "(パン・菓子の)生地", "B": "焼き上がったパン", "C": "小麦畑", "D": "オーブン", "correct": "A" },
+      { "q": "dough の発音は？", "A": "[dəʊ]ドウ", "B": "[daʊ]ダウ", "C": "[dʌf]ダフ", "D": "[duː]ドゥー", "correct": "A" }
+    ]
+  },
+  {
+    "english": "dowel",
+    "pron": "ˈdaʊəl",
+    "kana": "ダウエル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "中英語 dowle（棒・くさび）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "工具・木工"],
+    "meaning_main": "ダボ / 木ダボ(木材をつなぐ丸い棒)",
+    "description": "dowel の意味・発音・使い方。木材や板をつなぐために穴に差し込む丸い棒「ダボ(木ダボ)」を表す木工用語。用途や語源を例文とともに解説します。",
+    "keywords": ["dowel 意味", "dowel 使い方", "dowel 発音", "ダボ 英語"],
+    "meanings": [
+      { "hinshi": "【名】ダボ、木ダボ", "note": "木材や板を接合するために、両方の穴に差し込む丸い棒(または金属の栓)。可算。dowel pin とも" }
+    ],
+    "usages": [
+      { "title": "① 「ダボ」", "desc": "木材をつなぐ丸棒。", "example_en": "Insert a dowel to join the two boards.", "example_ja": "2枚の板をつなぐためダボを差し込みなさい。" },
+      { "title": "② 木工で", "desc": "家具の組み立てに使う。", "example_en": "The shelf is held together with dowels.", "example_ja": "その棚はダボで組み立てられている。" }
+    ],
+    "warn": ["dowel は木材接合用の丸い棒(木ダボ)。dowel rod は棒材、dowel pin は接合用の短いダボ。釘(nail)やネジ(screw)とは違う接合方法。"],
+    "etym_note": "中英語 dowle（棒・くさび)に由来する語で、木工の接合に使う丸棒を表します。",
+    "etym_chain": [
+      { "node": "dowle", "sub": "棒・くさび", "era": "中英語" },
+      { "node": "dowel", "sub": "ダボ", "era": "近代英語" },
+      { "node": "dowel", "sub": "ダボ(木ダボ)", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a wooden dowel", "ja": "木ダボ" },
+      { "en": "a dowel pin", "ja": "ダボピン" },
+      { "en": "a dowel rod", "ja": "丸棒材" },
+      { "en": "insert a dowel", "ja": "ダボを差し込む" },
+      { "en": "join with dowels", "ja": "ダボでつなぐ" },
+      { "en": "drill a dowel hole", "ja": "ダボ穴をあける" }
+    ],
+    "related": [
+      { "en": "peg", "ja": "くぎ、ペグ" },
+      { "en": "joint", "ja": "接合部" },
+      { "en": "nail", "ja": "釘" },
+      { "en": "woodwork", "ja": "木工" }
+    ],
+    "faq": [
+      { "q": "dowel とは？", "a": "木材や板を接合するために、両方にあけた穴へ差し込む丸い棒『ダボ(木ダボ)』です。家具の組み立てなどに使われます。" },
+      { "q": "釘やネジとの違いは？", "a": "釘(nail)やネジ(screw)は打ち込む・ねじ込むのに対し、dowel は接着剤とともに穴に差し込んで木材どうしをつなぎます。目立たない接合ができます。" }
+    ],
+    "quiz": [
+      { "q": "dowel とは？", "A": "木材をつなぐ丸い棒(ダボ)", "B": "のこぎり", "C": "ハンマー", "D": "ペンキ", "correct": "A" },
+      { "q": "dowel の用途は？", "A": "木材や板を接合する", "B": "木を切る", "C": "木を塗る", "D": "木を燃やす", "correct": "A" }
+    ]
+  }
+]
