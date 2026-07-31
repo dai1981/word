@@ -1,0 +1,970 @@
+[
+  {
+    "english": "japanese",
+    "pron": "ˌdʒæpəˈniːz",
+    "kana": "ジャパニーズ",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "Japan（日本）+ -ese",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A1", "国・言語"],
+    "meaning_main": "日本の／日本人／日本語",
+    "description": "Japanese（ジャパニーズ）の意味と使い方。日本の（形容詞）、日本人・日本語（名詞）を表す語を解説。常に大文字。",
+    "keywords": ["Japanese 意味", "Japanese 使い方", "日本の 英語", "日本語 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】日本の", "note": "日本や日本人・日本語に関する。固有形容詞で常に大文字 Japanese" },
+      { "hinshi": "【名詞】日本人／日本語", "note": "日本の国民（単複同形）、または日本語（言語）" }
+    ],
+    "usages": [
+      { "title": "① 日本の（形容詞）", "desc": "Japanese food（日本料理）", "example_en": "I love Japanese food.", "example_ja": "私は日本料理が大好きだ。" },
+      { "title": "② 日本語・日本人（名詞）", "desc": "言語や国民", "example_en": "She speaks Japanese fluently.", "example_ja": "彼女は日本語を流ちょうに話す。" }
+    ],
+    "warn": ["常に大文字 Japanese。国名は Japan、日本人は単複同形（a Japanese / two Japanese）。-ese は国民・言語を表す接尾辞"],
+    "etym_note": "Japan（日本、マレー語・中国語経由で『日本国』の音から）に国民・言語を表す -ese がついた語。Chinese, Portuguese などと同じ作り。",
+    "etym_chain": [
+      { "node": "Japan", "sub": "日本", "era": "近代英語" },
+      { "node": "Japanese", "sub": "日本の・日本人・日本語", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "speak Japanese", "ja": "日本語を話す" },
+      { "en": "Japanese food", "ja": "日本料理" },
+      { "en": "the Japanese language", "ja": "日本語" },
+      { "en": "a Japanese company", "ja": "日本企業" },
+      { "en": "Japanese culture", "ja": "日本文化" },
+      { "en": "traditional Japanese", "ja": "伝統的な日本の" }
+    ],
+    "related": [
+      { "en": "japan", "ja": "日本（国名）" },
+      { "en": "chinese", "ja": "中国の・中国語" },
+      { "en": "korean", "ja": "韓国の・韓国語" },
+      { "en": "language", "ja": "言語" }
+    ],
+    "faq": [
+      { "q": "Japanese と Japan の違いは？", "a": "Japan は国名『日本』、Japanese は日本の（形容詞）・日本人・日本語です。" },
+      { "q": "日本人の複数形は？", "a": "単複同形です。two Japanese（2人の日本人）のように言います。" }
+    ],
+    "quiz": [
+      { "q": "Japanese の意味は？", "A": "中国の", "B": "日本の／日本人／日本語", "C": "韓国の", "D": "タイの", "correct": "B" },
+      { "q": "日本（国名）は英語で？", "A": "Japanese", "B": "Japan", "C": "Japanic", "D": "Japanish", "correct": "B" }
+    ]
+  },
+  {
+    "english": "judea",
+    "pron": "dʒuːˈdiːə",
+    "kana": "ジュディーア",
+    "hinshi": "名詞（固有名詞）",
+    "ld_pos": "名詞",
+    "ld_etym": "ヘブライ語 Yehudah（ユダ）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "歴史・地名"],
+    "meaning_main": "ユダヤ（古代の地方名。現在のイスラエル南部）",
+    "description": "Judea（ジュディーア）の意味と使い方。古代の地方名で、エルサレムを含む現在のイスラエル南部を表す固有名詞を解説。",
+    "keywords": ["Judea 意味", "ユダヤ 英語", "Judea エルサレム", "Judea 歴史"],
+    "meanings": [
+      { "hinshi": "【名詞】ユダヤ（地方）", "note": "古代の地方名。エルサレムを含む、現在のイスラエル南部にあたる地域。聖書に多く登場する。固有名詞で常に大文字 Judea" }
+    ],
+    "usages": [
+      { "title": "① 古代の地方名", "desc": "エルサレムを含む", "example_en": "Jesus was born in Bethlehem in Judea.", "example_ja": "イエスはユダヤのベツレヘムで生まれた。" },
+      { "title": "② 聖書の舞台", "desc": "古代ユダヤ人の地", "example_en": "Judea was a Roman province in ancient times.", "example_ja": "ユダヤは古代にはローマの属州だった。" }
+    ],
+    "warn": ["常に大文字 Judea。Judea/Judaea 両つづりあり。ユダヤ教は Judaism、ユダヤ人は Jewish people など別の語"],
+    "etym_note": "ヘブライ語 Yehudah（ユダ＝ヤコブの子・部族名）に由来する地名。古代イスラエルの南部王国『ユダ王国』の地にあたる。",
+    "etym_chain": [
+      { "node": "Yehudah", "sub": "ユダ", "era": "ヘブライ語" },
+      { "node": "Judaea", "sub": "ユダヤ地方", "era": "ラテン語" },
+      { "node": "Judea", "sub": "ユダヤ", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "the region of Judea", "ja": "ユダヤ地方" },
+      { "en": "ancient Judea", "ja": "古代ユダヤ" },
+      { "en": "the hills of Judea", "ja": "ユダヤの丘陵" },
+      { "en": "Roman Judea", "ja": "ローマ時代のユダヤ" },
+      { "en": "the province of Judea", "ja": "ユダヤ属州" },
+      { "en": "Judea and Samaria", "ja": "ユダヤとサマリア" }
+    ],
+    "related": [
+      { "en": "jerusalem", "ja": "エルサレム" },
+      { "en": "israel", "ja": "イスラエル" },
+      { "en": "judaism", "ja": "ユダヤ教" },
+      { "en": "bethlehem", "ja": "ベツレヘム" }
+    ],
+    "faq": [
+      { "q": "Judea はどこですか？", "a": "エルサレムを含む、現在のイスラエル南部にあたる古代の地方名です。" },
+      { "q": "ユダヤ教とは違う？", "a": "はい。Judea は地名、ユダヤ教は Judaism、ユダヤ人（信仰・民族）は Jewish people です。" }
+    ],
+    "quiz": [
+      { "q": "Judea とは？", "A": "古代の地方名（現在のイスラエル南部）", "B": "アフリカの川", "C": "ヨーロッパの山", "D": "アジアの砂漠", "correct": "A" },
+      { "q": "Judea に含まれる都市は？", "A": "エルサレム", "B": "パリ", "C": "東京", "D": "ローマ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kingfisher",
+    "pron": "ˈkɪŋfɪʃər",
+    "kana": "キングフィッシャー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "king（王）+ fisher（漁をするもの）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "生物・鳥"],
+    "meaning_main": "カワセミ（水辺で魚を捕る色鮮やかな小鳥）",
+    "description": "kingfisher（キングフィッシャー）の意味と使い方。水辺で水に飛び込んで魚を捕る、青く色鮮やかな小鳥カワセミを表す名詞を解説。",
+    "keywords": ["kingfisher 意味", "kingfisher 使い方", "カワセミ 英語", "kingfisher 鳥"],
+    "meanings": [
+      { "hinshi": "【名詞】カワセミ", "note": "水辺にすみ、水面に飛び込んで魚を捕る、青や緑に輝く色鮮やかな小鳥。可算名詞" }
+    ],
+    "usages": [
+      { "title": "① 水辺で魚を捕る鳥", "desc": "水に飛び込む", "example_en": "A kingfisher dived into the river for a fish.", "example_ja": "カワセミが魚を捕ろうと川に飛び込んだ。" },
+      { "title": "② 鮮やかな青", "desc": "宝石のような色", "example_en": "The kingfisher flashed bright blue as it flew.", "example_ja": "カワセミは飛ぶとき鮮やかな青にきらめいた。" }
+    ],
+    "warn": ["king（王）＋fisher（漁をするもの）＝『漁の名手の鳥』。青緑の羽が美しく『飛ぶ宝石』とも呼ばれる"],
+    "etym_note": "king（王）と fisher（漁をするもの）の複合。もとは『王の漁師』の意で、魚捕りの名手であることからの命名とされる。",
+    "etym_chain": [
+      { "node": "king + fisher", "sub": "王の漁師", "era": "中英語" },
+      { "node": "kingfisher", "sub": "カワセミ", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a common kingfisher", "ja": "カワセミ" },
+      { "en": "a kingfisher dives", "ja": "カワセミが飛び込む" },
+      { "en": "the kingfisher's blue", "ja": "カワセミの青" },
+      { "en": "spot a kingfisher", "ja": "カワセミを見つける" },
+      { "en": "a kingfisher by the river", "ja": "川辺のカワセミ" },
+      { "en": "a flash of kingfisher blue", "ja": "カワセミブルーのきらめき" }
+    ],
+    "related": [
+      { "en": "bird", "ja": "鳥" },
+      { "en": "river", "ja": "川" },
+      { "en": "fish", "ja": "魚" },
+      { "en": "beak", "ja": "くちばし" }
+    ],
+    "faq": [
+      { "q": "kingfisher とは？", "a": "水辺で水に飛び込んで魚を捕る、青く色鮮やかな小鳥（カワセミ）です。" },
+      { "q": "名前の由来は？", "a": "king（王）＋fisher（漁師）で、魚捕りの名手であることにちなむとされます。" }
+    ],
+    "quiz": [
+      { "q": "kingfisher の意味は？", "A": "水辺で魚を捕る鳥（カワセミ）", "B": "王様", "C": "釣り人", "D": "熱帯魚", "correct": "A" },
+      { "q": "kingfisher の特徴は？", "A": "鮮やかな青い羽と水への飛び込み", "B": "泳げない", "C": "夜行性で灰色", "D": "地中に巣穴を持たない", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kitchenette",
+    "pron": "ˌkɪtʃɪˈnet",
+    "kana": "キチネット",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "kitchen（台所）+ -ette（小さい）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "生活・住まい"],
+    "meaning_main": "簡易キッチン／小さな台所（ワンルームなどの）",
+    "description": "kitchenette（キチネット）の意味と使い方。ワンルームやホテルなどにある、簡単な調理ができる小さな台所を表す名詞を解説。",
+    "keywords": ["kitchenette 意味", "kitchenette 使い方", "簡易キッチン 英語", "小さな台所 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】簡易キッチン・小さな台所", "note": "ワンルーム・ホテル・オフィスなどにある、コンロや流しを備えた最小限の小さな台所。可算名詞" }
+    ],
+    "usages": [
+      { "title": "① 最小限の調理設備", "desc": "コンロ・流し・小型冷蔵庫など", "example_en": "The studio apartment has a small kitchenette.", "example_ja": "そのワンルームには小さな簡易キッチンがある。" },
+      { "title": "② ホテルの部屋にも", "desc": "簡単な自炊ができる", "example_en": "The hotel room came with a kitchenette.", "example_ja": "そのホテルの部屋には簡易キッチンが付いていた。" }
+    ],
+    "warn": ["-ette は『小さいもの』を表す接尾辞（cigarette など）。full kitchen（本格的な台所）より小さく簡素"],
+    "etym_note": "kitchen（台所）に『小さいもの』を表す接尾辞 -ette がついた語。『小さな台所』の意。",
+    "etym_chain": [
+      { "node": "kitchen", "sub": "台所", "era": "古英語" },
+      { "node": "kitchenette", "sub": "簡易キッチン", "era": "近代英語（20世紀）" }
+    ],
+    "phrases": [
+      { "en": "a small kitchenette", "ja": "小さな簡易キッチン" },
+      { "en": "a fully equipped kitchenette", "ja": "設備の整った簡易キッチン" },
+      { "en": "a room with a kitchenette", "ja": "簡易キッチン付きの部屋" },
+      { "en": "cook in the kitchenette", "ja": "簡易キッチンで料理する" },
+      { "en": "a shared kitchenette", "ja": "共用の簡易キッチン" },
+      { "en": "an office kitchenette", "ja": "オフィスの簡易キッチン" }
+    ],
+    "related": [
+      { "en": "kitchen", "ja": "台所" },
+      { "en": "stove", "ja": "コンロ" },
+      { "en": "sink", "ja": "流し" },
+      { "en": "apartment", "ja": "アパート" }
+    ],
+    "faq": [
+      { "q": "kitchenette とは？", "a": "ワンルームやホテルなどにある、コンロや流しを備えた最小限の小さな台所です。" },
+      { "q": "-ette の意味は？", "a": "『小さいもの』を表す接尾辞です（cigarette など）。" }
+    ],
+    "quiz": [
+      { "q": "kitchenette の意味は？", "A": "簡易キッチン・小さな台所", "B": "大広間", "C": "浴室", "D": "地下室", "correct": "A" },
+      { "q": "-ette が表すのは？", "A": "小さいもの", "B": "大きいもの", "C": "古いもの", "D": "速いもの", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kneecap",
+    "pron": "ˈniːkæp",
+    "kana": "ニーキャップ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "knee（ひざ）+ cap（覆い）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "身体・医学"],
+    "meaning_main": "膝蓋骨（しつがいこつ）／ひざの皿",
+    "description": "kneecap（ニーキャップ）の意味と使い方。ひざの前面にある皿状の骨、ひざの皿を表す名詞を解説。",
+    "keywords": ["kneecap 意味", "kneecap 使い方", "膝の皿 英語", "膝蓋骨 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】ひざの皿・膝蓋骨", "note": "ひざの前面にある、丸く平たい皿状の骨。ひざ関節を守る。医学用語では patella。可算名詞" }
+    ],
+    "usages": [
+      { "title": "① ひざの皿", "desc": "ひざの前の骨", "example_en": "He fell and cracked his kneecap.", "example_ja": "彼は転んでひざの皿を割った。" },
+      { "title": "② ひざを守る骨", "desc": "関節を保護する", "example_en": "The kneecap protects the knee joint.", "example_ja": "膝蓋骨はひざの関節を守る。" }
+    ],
+    "warn": ["knee（ひざ）＋cap（覆い・皿）。k は黙字で[niː]。医学用語は patella（膝蓋骨）"],
+    "etym_note": "knee（ひざ）と cap（覆い・帽子状のもの）の複合。『ひざを覆う皿状の骨』の意。knee の k は発音しない。",
+    "etym_chain": [
+      { "node": "cneow", "sub": "ひざ", "era": "古英語" },
+      { "node": "knee + cap", "sub": "ひざの覆い", "era": "近代英語" },
+      { "node": "kneecap", "sub": "膝蓋骨", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "break a kneecap", "ja": "ひざの皿を折る" },
+      { "en": "dislocate the kneecap", "ja": "膝蓋骨を脱臼する" },
+      { "en": "the kneecap protects", "ja": "膝蓋骨が守る" },
+      { "en": "injure one's kneecap", "ja": "ひざの皿を痛める" },
+      { "en": "a fractured kneecap", "ja": "折れた膝蓋骨" },
+      { "en": "below the kneecap", "ja": "ひざの皿の下" }
+    ],
+    "related": [
+      { "en": "patella", "ja": "膝蓋骨（医学）" },
+      { "en": "knee", "ja": "ひざ" },
+      { "en": "joint", "ja": "関節" },
+      { "en": "bone", "ja": "骨" }
+    ],
+    "faq": [
+      { "q": "kneecap の医学名は？", "a": "patella（膝蓋骨）です。日常では kneecap を使います。" },
+      { "q": "発音の注意は？", "a": "knee の k は発音せず[niː]です。" }
+    ],
+    "quiz": [
+      { "q": "kneecap の意味は？", "A": "ひざの皿（膝蓋骨）", "B": "ひじ", "C": "かかと", "D": "手首", "correct": "A" },
+      { "q": "kneecap の医学用語は？", "A": "patella", "B": "pupil", "C": "pancreas", "D": "pelvis", "correct": "A" }
+    ]
+  },
+  {
+    "english": "knickknack",
+    "pron": "ˈnɪknæk",
+    "kana": "ニックナック",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "knack（小道具）の重ね言葉",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "日常・口語"],
+    "meaning_main": "小さな装飾品／こまごました置物・がらくた",
+    "description": "knickknack（ニックナック）の意味と使い方。棚などに飾るこまごました小さな装飾品・置物を表す名詞を解説。",
+    "keywords": ["knickknack 意味", "knickknack 使い方", "置物 英語", "小物 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】小さな装飾品・こまごました置物", "note": "実用性より飾りのための小物。棚や机に置くちょっとした置物。しばしば複数形 knickknacks。可算名詞" }
+    ],
+    "usages": [
+      { "title": "① 飾りの小物", "desc": "棚に並べる置物", "example_en": "The shelf was full of little knickknacks.", "example_ja": "その棚は小さな置物でいっぱいだった。" },
+      { "title": "② おみやげの小物にも", "desc": "こまごました記念品", "example_en": "She collects knickknacks from her travels.", "example_ja": "彼女は旅先のこまごました小物を集めている。" }
+    ],
+    "warn": ["k は黙字で[nɪk]。knack（こつ・小道具）を重ねた語。trinket（安物のアクセサリー）と近い"],
+    "etym_note": "knack（こつ・気の利いた小道具）を重ねた畳語（reduplication）。『こまごました小物』を表す口語的な語。",
+    "etym_chain": [
+      { "node": "knack", "sub": "小道具・こつ", "era": "中英語" },
+      { "node": "knickknack", "sub": "小さな装飾品", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "little knickknacks", "ja": "こまごました置物" },
+      { "en": "a shelf of knickknacks", "ja": "置物の並んだ棚" },
+      { "en": "collect knickknacks", "ja": "小物を集める" },
+      { "en": "dust the knickknacks", "ja": "置物のほこりを払う" },
+      { "en": "cheap knickknacks", "ja": "安物の小物" },
+      { "en": "souvenirs and knickknacks", "ja": "おみやげと小物" }
+    ],
+    "related": [
+      { "en": "trinket", "ja": "安物のアクセサリー" },
+      { "en": "ornament", "ja": "装飾品" },
+      { "en": "souvenir", "ja": "おみやげ" },
+      { "en": "bauble", "ja": "安ぴかもの" }
+    ],
+    "faq": [
+      { "q": "knickknack とは？", "a": "実用性より飾りのための、こまごました小さな装飾品・置物です。" },
+      { "q": "発音の注意は？", "a": "先頭の k は発音せず[nɪknæk]（ニックナック）です。" }
+    ],
+    "quiz": [
+      { "q": "knickknack の意味は？", "A": "こまごました小さな装飾品・置物", "B": "大型家具", "C": "食器一式", "D": "工具箱", "correct": "A" },
+      { "q": "knickknack と近い語は？", "A": "trinket（安物のアクセサリー）", "B": "furniture", "C": "vehicle", "D": "appliance", "correct": "A" }
+    ]
+  },
+  {
+    "english": "knives",
+    "pron": "naɪvz",
+    "kana": "ナイヴズ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "knife（ナイフ）の複数形",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "頻出・文法"],
+    "meaning_main": "ナイフ（knife）の複数形／数本のナイフ・刃物",
+    "description": "knives（ナイヴズ）の意味と使い方。knife（ナイフ）の複数形を表す名詞を解説。-fe が -ves になる不規則変化のパターンも。",
+    "keywords": ["knives 意味", "knives 使い方", "knife 複数形", "ナイフ 複数 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】ナイフ（knife）の複数形", "note": "刃物のナイフの複数形。knife → knives と、語尾 -fe が -ves に変わる不規則な複数形" }
+    ],
+    "usages": [
+      { "title": "① 複数のナイフ", "desc": "knife の複数形", "example_en": "The chef sharpened all the knives.", "example_ja": "料理人はすべてのナイフを研いだ。" },
+      { "title": "② -fe → -ves のパターン", "desc": "life→lives, wife→wives と同じ", "example_en": "\"Knife\" becomes \"knives\" in the plural.", "example_ja": "knife は複数形で knives になる。" }
+    ],
+    "warn": ["knife の k は黙字で[naɪf]／[naɪvz]。-fe / -f が -ves になる名詞：knife→knives, life→lives, leaf→leaves など"],
+    "etym_note": "knife（ナイフ、古英語 cnif）の複数形。古英語で語尾の f が有声化して v になる音変化の名残で、-fe が -ves になる。",
+    "etym_chain": [
+      { "node": "cnif", "sub": "ナイフ", "era": "古英語" },
+      { "node": "knife / knives", "sub": "ナイフ（単数/複数）", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "sharp knives", "ja": "よく切れるナイフ" },
+      { "en": "kitchen knives", "ja": "包丁" },
+      { "en": "a set of knives", "ja": "ナイフのセット" },
+      { "en": "sharpen the knives", "ja": "ナイフを研ぐ" },
+      { "en": "knives and forks", "ja": "ナイフとフォーク" },
+      { "en": "carving knives", "ja": "肉切りナイフ" }
+    ],
+    "related": [
+      { "en": "knife", "ja": "ナイフ（単数）" },
+      { "en": "blade", "ja": "刃" },
+      { "en": "fork", "ja": "フォーク" },
+      { "en": "cutlery", "ja": "食卓用ナイフ・フォーク類" }
+    ],
+    "faq": [
+      { "q": "knife の複数形は？", "a": "knives です。語尾の -fe が -ves に変わります。" },
+      { "q": "同じ変化をする語は？", "a": "life→lives, wife→wives, leaf→leaves, shelf→shelves などです。" }
+    ],
+    "quiz": [
+      { "q": "knives は何の複数形？", "A": "knife（ナイフ）", "B": "knee", "C": "knight", "D": "knot", "correct": "A" },
+      { "q": "knife と同じ複数変化をする語は？", "A": "life（→lives）", "B": "book", "C": "car", "D": "box", "correct": "A" }
+    ]
+  },
+  {
+    "english": "knuckle",
+    "pron": "ˈnʌkəl",
+    "kana": "ナックル",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "中英語 knokel（指の関節）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "身体・慣用"],
+    "meaning_main": "指の関節（こぶし）／（動）屈する・専念する",
+    "description": "knuckle（ナックル）の意味と使い方。手の指の関節・こぶしの出っ張り、また句動詞での用法を表す語を解説。",
+    "keywords": ["knuckle 意味", "knuckle 使い方", "指の関節 英語", "knuckle down"],
+    "meanings": [
+      { "hinshi": "【名詞】指の関節・こぶし", "note": "手を握ったときに出る指の付け根の関節。可算名詞。k は黙字で[nʌkəl]" },
+      { "hinshi": "【動詞】（句動詞で）屈する・専念する", "note": "knuckle down（本気で取り組む）、knuckle under（屈する）" }
+    ],
+    "usages": [
+      { "title": "① 指の関節", "desc": "こぶしの出っ張り", "example_en": "He rapped on the door with his knuckles.", "example_ja": "彼はこぶし（指の関節）でドアをたたいた。" },
+      { "title": "② knuckle down（本気で取り組む）", "desc": "真剣に集中する", "example_en": "It's time to knuckle down and study.", "example_ja": "そろそろ本腰を入れて勉強する時だ。" }
+    ],
+    "warn": ["k は黙字で[nʌkəl]。knuckle down（本気で取り組む）、knuckle under（屈服する）は頻出の句動詞。white-knuckle（手に汗握る）も"],
+    "etym_note": "中英語 knokel（指の関節・小さな骨）に由来。ゲルマン系の語で、関節の出っ張りを表す。",
+    "etym_chain": [
+      { "node": "knokel", "sub": "指の関節", "era": "中英語" },
+      { "node": "knuckle", "sub": "指の関節", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "knuckle down", "ja": "本気で取り組む" },
+      { "en": "knuckle under", "ja": "屈服する" },
+      { "en": "rap with one's knuckles", "ja": "こぶしでたたく" },
+      { "en": "white-knuckle", "ja": "手に汗握る" },
+      { "en": "crack one's knuckles", "ja": "指の関節を鳴らす" },
+      { "en": "a brass knuckle", "ja": "メリケンサック" }
+    ],
+    "related": [
+      { "en": "joint", "ja": "関節" },
+      { "en": "fist", "ja": "こぶし" },
+      { "en": "finger", "ja": "指" },
+      { "en": "hand", "ja": "手" }
+    ],
+    "faq": [
+      { "q": "knuckle down とは？", "a": "『本腰を入れて真剣に取り組む』という意味の句動詞です。" },
+      { "q": "発音の注意は？", "a": "先頭の k は発音せず[nʌkəl]（ナックル）です。" }
+    ],
+    "quiz": [
+      { "q": "knuckle の意味は？", "A": "指の関節・こぶし", "B": "つま先", "C": "耳", "D": "鼻", "correct": "A" },
+      { "q": "knuckle down の意味は？", "A": "本気で取り組む", "B": "あきらめる", "C": "眠る", "D": "逃げる", "correct": "A" }
+    ]
+  },
+  {
+    "english": "koto",
+    "pron": "ˈkoʊtoʊ",
+    "kana": "コト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "日本語『琴』から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "音楽・外来語"],
+    "meaning_main": "琴（こと。日本の伝統的な弦楽器）",
+    "description": "koto（コト）の意味と使い方。日本語由来で英語になった、13本の弦を持つ日本の伝統的な弦楽器『琴』を表す名詞を解説。",
+    "keywords": ["koto 意味", "koto 使い方", "琴 英語", "日本の楽器 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】琴（こと）", "note": "長い木の胴に張った13本ほどの弦を、指につけた爪ではじいて演奏する日本の伝統的な弦楽器。可算名詞" }
+    ],
+    "usages": [
+      { "title": "① 日本の弦楽器", "desc": "弦を爪ではじく", "example_en": "She played a beautiful melody on the koto.", "example_ja": "彼女は琴で美しい旋律を奏でた。" },
+      { "title": "② 伝統音楽で", "desc": "和楽の中心的な楽器", "example_en": "The koto is central to traditional Japanese music.", "example_ja": "琴は日本の伝統音楽の中心的な楽器だ。" }
+    ],
+    "warn": ["日本語『琴』由来。13本ほどの弦を柱(じ)で調律し、爪ではじく。harp（ハープ）とは別の楽器"],
+    "etym_note": "日本語『琴（こと）』に由来。日本の伝統的な撥弦楽器として英語に取り入れられた。",
+    "etym_chain": [
+      { "node": "琴", "sub": "弦楽器", "era": "日本語" },
+      { "node": "koto", "sub": "琴", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "play the koto", "ja": "琴を弾く" },
+      { "en": "a koto player", "ja": "琴の奏者" },
+      { "en": "the sound of the koto", "ja": "琴の音色" },
+      { "en": "learn the koto", "ja": "琴を習う" },
+      { "en": "a thirteen-string koto", "ja": "13弦の琴" },
+      { "en": "traditional koto music", "ja": "伝統的な琴の音楽" }
+    ],
+    "related": [
+      { "en": "harp", "ja": "ハープ" },
+      { "en": "string instrument", "ja": "弦楽器" },
+      { "en": "shamisen", "ja": "三味線" },
+      { "en": "music", "ja": "音楽" }
+    ],
+    "faq": [
+      { "q": "koto とは？", "a": "13本ほどの弦を爪ではじいて演奏する、日本の伝統的な弦楽器（琴）です。" },
+      { "q": "harp と同じ？", "a": "どちらも弦楽器ですが別物です。koto は横長の胴に弦を張り、柱で調律して爪で弾きます。" }
+    ],
+    "quiz": [
+      { "q": "koto の意味は？", "A": "日本の弦楽器（琴）", "B": "日本の太鼓", "C": "日本の笛", "D": "日本の踊り", "correct": "A" },
+      { "q": "koto の演奏方法は？", "A": "弦を爪ではじく", "B": "たたく", "C": "吹く", "D": "こする", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kowtow",
+    "pron": "ˌkaʊˈtaʊ",
+    "kana": "カウタウ",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "中国語『叩頭（こうとう）』から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文語・文化"],
+    "meaning_main": "（比喩）ぺこぺこする・こびへつらう／（元来）ひざまずいて額を地につける礼",
+    "description": "kowtow（カウタウ）の意味と使い方。もとは中国で額を地につける礼、転じて『こびへつらう』を表す動詞を解説。",
+    "keywords": ["kowtow 意味", "kowtow 使い方", "こびへつらう 英語", "kowtow to"],
+    "meanings": [
+      { "hinshi": "【動詞】（比喩）ぺこぺこする・こびへつらう", "note": "権威・権力者に卑屈にへつらう。kowtow to ～（～にこびへつらう）。否定的" },
+      { "hinshi": "【動詞・名詞】（元来）叩頭の礼", "note": "中国で、ひざまずいて額を地面につける最敬礼" }
+    ],
+    "usages": [
+      { "title": "① こびへつらう（比喩）", "desc": "kowtow to ～", "example_en": "He refused to kowtow to his boss.", "example_ja": "彼は上司にぺこぺこするのを拒んだ。" },
+      { "title": "② 額を地につける礼（元来）", "desc": "中国の最敬礼", "example_en": "Visitors had to kowtow before the emperor.", "example_ja": "訪問者は皇帝の前で叩頭しなければならなかった。" }
+    ],
+    "warn": ["中国語『叩頭（額を打ちつける礼）』由来。比喩の kowtow to ～（～にこびへつらう）が現代では中心。否定的"],
+    "etym_note": "中国語『叩頭（kētóu、額を地につける礼）』の広東語音に由来。額を地につける最敬礼から、『卑屈にへつらう』の比喩になった。",
+    "etym_chain": [
+      { "node": "叩頭", "sub": "額を地につける礼", "era": "中国語" },
+      { "node": "kowtow", "sub": "叩頭・こびへつらう", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "kowtow to", "ja": "～にこびへつらう" },
+      { "en": "refuse to kowtow", "ja": "へつらうのを拒む" },
+      { "en": "kowtow to power", "ja": "権力にこびる" },
+      { "en": "kowtow to authority", "ja": "権威にへつらう" },
+      { "en": "won't kowtow", "ja": "こびへつらわない" },
+      { "en": "a kowtow to the emperor", "ja": "皇帝への叩頭" }
+    ],
+    "related": [
+      { "en": "grovel", "ja": "平身低頭する" },
+      { "en": "fawn", "ja": "こびる" },
+      { "en": "bow", "ja": "お辞儀する" },
+      { "en": "submit", "ja": "従う" }
+    ],
+    "faq": [
+      { "q": "kowtow の現代的な意味は？", "a": "『（権威・権力者に）卑屈にこびへつらう』という比喩です。kowtow to ～ で使います。" },
+      { "q": "語源は？", "a": "中国語『叩頭（額を地につける最敬礼）』です。" }
+    ],
+    "quiz": [
+      { "q": "kowtow（比喩）の意味は？", "A": "こびへつらう・ぺこぺこする", "B": "堂々と反抗する", "C": "無視する", "D": "指導する", "correct": "A" },
+      { "q": "kowtow の語源は？", "A": "中国語の『叩頭』", "B": "日本語", "C": "ラテン語", "D": "アラビア語", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kremlin",
+    "pron": "ˈkremlɪn",
+    "kana": "クレムリン",
+    "hinshi": "名詞（固有名詞的）",
+    "ld_pos": "名詞",
+    "ld_etym": "ロシア語 kreml（城塞）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "政治・地名"],
+    "meaning_main": "クレムリン（モスクワの城塞／ロシア政府の象徴）",
+    "description": "Kremlin（クレムリン）の意味と使い方。モスクワにある城塞、転じてロシア政府そのものを指す語を解説。",
+    "keywords": ["Kremlin 意味", "クレムリン 英語", "Kremlin ロシア政府", "Kremlin モスクワ"],
+    "meanings": [
+      { "hinshi": "【名詞】クレムリン", "note": "モスクワの中心にある城壁に囲まれた城塞・宮殿群。大文字 the Kremlin でロシア政府・政権そのものの象徴としても使う" }
+    ],
+    "usages": [
+      { "title": "① モスクワの城塞", "desc": "宮殿・大聖堂がある", "example_en": "The Kremlin stands in the heart of Moscow.", "example_ja": "クレムリンはモスクワの中心にある。" },
+      { "title": "② ロシア政府の象徴", "desc": "『政府・政権』の意で", "example_en": "The Kremlin denied the reports.", "example_ja": "ロシア政府（クレムリン）はその報道を否定した。" }
+    ],
+    "warn": ["大文字 the Kremlin で特にモスクワのクレムリン・ロシア政府を指す。小文字 kremlin はロシアの都市の城塞一般"],
+    "etym_note": "ロシア語 kreml（城塞・要塞）に由来。ロシアの古い都市の中心にある城塞を指し、特にモスクワのものが有名。",
+    "etym_chain": [
+      { "node": "kreml", "sub": "城塞", "era": "ロシア語" },
+      { "node": "Kremlin", "sub": "クレムリン", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "the Kremlin", "ja": "クレムリン・ロシア政府" },
+      { "en": "inside the Kremlin", "ja": "クレムリンの中で" },
+      { "en": "a Kremlin spokesman", "ja": "クレムリンの報道官" },
+      { "en": "Kremlin officials", "ja": "ロシア政府高官" },
+      { "en": "the walls of the Kremlin", "ja": "クレムリンの城壁" },
+      { "en": "Kremlin policy", "ja": "ロシア政府の政策" }
+    ],
+    "related": [
+      { "en": "moscow", "ja": "モスクワ" },
+      { "en": "russia", "ja": "ロシア" },
+      { "en": "fortress", "ja": "要塞" },
+      { "en": "government", "ja": "政府" }
+    ],
+    "faq": [
+      { "q": "the Kremlin とは？", "a": "モスクワの中心にある城塞・宮殿群です。転じてロシア政府・政権そのものの象徴としても使われます。" },
+      { "q": "語源は？", "a": "ロシア語 kreml（城塞）です。" }
+    ],
+    "quiz": [
+      { "q": "the Kremlin の意味は？", "A": "モスクワの城塞／ロシア政府", "B": "ロシアの川", "C": "ロシアの山", "D": "ロシアの通貨", "correct": "A" },
+      { "q": "kremlin の語源の意味は？", "A": "城塞", "B": "皇帝", "C": "雪", "D": "森", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kyoto",
+    "pron": "kiˈoʊtoʊ",
+    "kana": "キョウト",
+    "hinshi": "名詞（固有名詞）",
+    "ld_pos": "名詞",
+    "ld_etym": "日本語『京都』から",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "地名・日本"],
+    "meaning_main": "京都（日本の古都）",
+    "description": "Kyoto（キョウト）の意味と使い方。かつて日本の都だった、寺社や伝統文化で知られる古都・京都を表す固有名詞を解説。",
+    "keywords": ["Kyoto 意味", "京都 英語", "Kyoto 古都", "Kyoto 観光"],
+    "meanings": [
+      { "hinshi": "【名詞】京都", "note": "日本の本州中西部の都市。794年から長く日本の都だった古都で、寺社・庭園・伝統文化で知られる。固有名詞で常に大文字 Kyoto" }
+    ],
+    "usages": [
+      { "title": "① 日本の古都", "desc": "かつての都", "example_en": "Kyoto was the capital of Japan for over a thousand years.", "example_ja": "京都は千年以上にわたり日本の都だった。" },
+      { "title": "② 寺社・文化の街", "desc": "世界的な観光地", "example_en": "Kyoto is famous for its temples and gardens.", "example_ja": "京都は寺院と庭園で有名だ。" }
+    ],
+    "warn": ["常に大文字 Kyoto。日本語『京都』のローマ字表記。気候変動の『京都議定書』は Kyoto Protocol"],
+    "etym_note": "日本語『京都（きょうと）』のローマ字表記。『みやこ（京）』を意味する地名で、かつての日本の都。",
+    "etym_chain": [
+      { "node": "京都", "sub": "みやこ", "era": "日本語" },
+      { "node": "Kyoto", "sub": "京都", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the city of Kyoto", "ja": "京都市" },
+      { "en": "travel to Kyoto", "ja": "京都へ旅する" },
+      { "en": "the temples of Kyoto", "ja": "京都の寺院" },
+      { "en": "the Kyoto Protocol", "ja": "京都議定書" },
+      { "en": "old Kyoto", "ja": "古い京都" },
+      { "en": "born in Kyoto", "ja": "京都生まれ" }
+    ],
+    "related": [
+      { "en": "tokyo", "ja": "東京" },
+      { "en": "japan", "ja": "日本" },
+      { "en": "temple", "ja": "寺" },
+      { "en": "capital", "ja": "都・首都" }
+    ],
+    "faq": [
+      { "q": "Kyoto はどんな都市ですか？", "a": "かつて日本の都だった古都で、寺社・庭園・伝統文化で知られる観光都市です。" },
+      { "q": "Kyoto Protocol とは？", "a": "地球温暖化対策のための国際的な約束『京都議定書』です。京都で採択されたことにちなみます。" }
+    ],
+    "quiz": [
+      { "q": "Kyoto はどこの都市？", "A": "日本の古都", "B": "中国の都市", "C": "韓国の都市", "D": "タイの都市", "correct": "A" },
+      { "q": "Kyoto Protocol は何に関する約束？", "A": "地球温暖化対策", "B": "貿易", "C": "宇宙開発", "D": "核兵器", "correct": "A" }
+    ]
+  },
+  {
+    "english": "laborer",
+    "pron": "ˈleɪbərər",
+    "kana": "レイバラー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "labor（労働）+ -er",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "社会・仕事"],
+    "meaning_main": "肉体労働者／作業員",
+    "description": "laborer（レイバラー）の意味と使い方。主に体を使って働く肉体労働者・作業員を表す名詞を解説。英つづり labourer も。",
+    "keywords": ["laborer 意味", "laborer 使い方", "肉体労働者 英語", "labourer つづり"],
+    "meanings": [
+      { "hinshi": "【名詞】肉体労働者・作業員", "note": "主に体を使う仕事をする人。特に建設現場などの単純作業に従事する人。可算名詞" }
+    ],
+    "usages": [
+      { "title": "① 肉体労働者", "desc": "建設・農作業など", "example_en": "The laborers worked from dawn to dusk.", "example_ja": "労働者たちは夜明けから日暮れまで働いた。" },
+      { "title": "② 日雇い労働者", "desc": "a day laborer", "example_en": "He found work as a day laborer.", "example_ja": "彼は日雇い労働者として仕事を見つけた。" }
+    ],
+    "warn": ["米 laborer / 英 labourer とつづりが違う。動詞は labor（労働する・骨折る）。worker（労働者一般）より肉体労働を指す"],
+    "etym_note": "labor（労働、ラテン語 labor＝骨折り・苦労）に『～する人』の -er がついた語。『労働する人』の意。",
+    "etym_chain": [
+      { "node": "labor", "sub": "骨折り・労働", "era": "ラテン語" },
+      { "node": "labor / labour", "sub": "労働", "era": "中英語" },
+      { "node": "laborer", "sub": "肉体労働者", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "a day laborer", "ja": "日雇い労働者" },
+      { "en": "a manual laborer", "ja": "肉体労働者" },
+      { "en": "a construction laborer", "ja": "建設作業員" },
+      { "en": "a farm laborer", "ja": "農業労働者" },
+      { "en": "hire laborers", "ja": "作業員を雇う" },
+      { "en": "an unskilled laborer", "ja": "熟練を要しない労働者" }
+    ],
+    "related": [
+      { "en": "labor", "ja": "労働" },
+      { "en": "worker", "ja": "労働者" },
+      { "en": "workman", "ja": "職人・作業員" },
+      { "en": "employee", "ja": "従業員" }
+    ],
+    "faq": [
+      { "q": "laborer と worker の違いは？", "a": "worker は労働者一般、laborer は特に体を使う肉体労働者を指します。" },
+      { "q": "つづりの違いは？", "a": "米 laborer / 英 labourer です。" }
+    ],
+    "quiz": [
+      { "q": "laborer の意味は？", "A": "肉体労働者・作業員", "B": "経営者", "C": "教師", "D": "医者", "correct": "A" },
+      { "q": "laborer のイギリスつづりは？", "A": "labourer", "B": "laborar", "C": "laborrer", "D": "laberer", "correct": "A" }
+    ]
+  },
+  {
+    "english": "lackey",
+    "pron": "ˈlæki",
+    "kana": "ラキー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 laquais（従僕）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文語・軽蔑"],
+    "meaning_main": "こびへつらう従者／（軽蔑的に）言いなりの手先",
+    "description": "lackey（ラキー）の意味と使い方。もとは従僕、転じて権力者に卑屈に従う手先・子分を表す軽蔑的な名詞を解説。",
+    "keywords": ["lackey 意味", "lackey 使い方", "手先 英語", "従者 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】こびへつらう従者・言いなりの手先", "note": "権力者や強い者に卑屈に従い、その言いなりになって働く人。軽蔑的。可算名詞。元来は制服を着た従僕の意" }
+    ],
+    "usages": [
+      { "title": "① 言いなりの手先", "desc": "権力者の子分", "example_en": "He was just a lackey of the corrupt boss.", "example_ja": "彼は腐敗したボスの言いなりの手先にすぎなかった。" },
+      { "title": "② 卑屈に従う人", "desc": "自分の意見を持たない", "example_en": "The politician surrounded himself with lackeys.", "example_ja": "その政治家は言いなりの取り巻きで周りを固めた。" }
+    ],
+    "warn": ["軽蔑的な語。元来は『制服を着た従僕』の意だったが、現代では『卑屈な手先・子分』の否定的な意味が中心"],
+    "etym_note": "フランス語 laquais（従僕・下男）に由来。もとは制服を着た召使いの意で、転じて『卑屈に従う手先』の軽蔑的な意になった。",
+    "etym_chain": [
+      { "node": "laquais", "sub": "従僕", "era": "フランス語" },
+      { "node": "lackey", "sub": "従者・言いなりの手先", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a lackey of", "ja": "～の言いなりの手先" },
+      { "en": "a corporate lackey", "ja": "会社の手先" },
+      { "en": "surrounded by lackeys", "ja": "取り巻きに囲まれて" },
+      { "en": "a political lackey", "ja": "政治的な手先" },
+      { "en": "act as a lackey", "ja": "言いなりの手先として働く" },
+      { "en": "a mere lackey", "ja": "ただの手先" }
+    ],
+    "related": [
+      { "en": "servant", "ja": "召使い" },
+      { "en": "minion", "ja": "手下" },
+      { "en": "flunky", "ja": "取り巻き・こびへつらう者" },
+      { "en": "stooge", "ja": "手先・かいらい" }
+    ],
+    "faq": [
+      { "q": "lackey とは？", "a": "権力者などに卑屈に従い、言いなりになって働く手先・子分を指す軽蔑的な語です。" },
+      { "q": "元来の意味は？", "a": "制服を着た従僕・召使いです。そこから否定的な『卑屈な手先』の意になりました。" }
+    ],
+    "quiz": [
+      { "q": "lackey の意味は？", "A": "言いなりの手先・こびへつらう従者", "B": "指導者", "C": "反逆者", "D": "傍観者", "correct": "A" },
+      { "q": "lackey の語感は？", "A": "軽蔑的", "B": "敬意ある", "C": "中立的", "D": "親しみのある", "correct": "A" }
+    ]
+  },
+  {
+    "english": "laconic",
+    "pron": "ləˈkɒnɪk",
+    "kana": "ラコニック",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ギリシャ語 Lakon（スパルタ人）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文語"],
+    "meaning_main": "（言葉が）簡潔な／口数の少ない／そっけないほど短い",
+    "description": "laconic（ラコニック）の意味と使い方。無駄がなく簡潔で、口数が少ない話し方を表す形容詞を解説。語源のスパルタも。",
+    "keywords": ["laconic 意味", "laconic 使い方", "簡潔 英語", "口数少ない 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】簡潔な・口数の少ない", "note": "言葉が少なく無駄がない。ときにそっけない・愛想がないほど短い" }
+    ],
+    "usages": [
+      { "title": "① 簡潔な話し方", "desc": "無駄がなく短い", "example_en": "He gave a laconic reply: \"No.\"", "example_ja": "彼は「ノー」とそっけなく短く答えた。" },
+      { "title": "② 寡黙な性格", "desc": "口数が少ない", "example_en": "She is famously laconic.", "example_ja": "彼女は寡黙なことで知られる。" }
+    ],
+    "warn": ["古代スパルタ（Laconia 地方）の人々が言葉少なだったことに由来。verbose（多弁な）の反対。ほめにも皮肉にもなる"],
+    "etym_note": "ギリシャ語 Lakon（スパルタのあるラコニア地方の人）に由来。スパルタ人が簡潔な物言いを好んだことから『簡潔な』の意になった。",
+    "etym_chain": [
+      { "node": "Lakon", "sub": "スパルタ人", "era": "古典ギリシャ語" },
+      { "node": "laconic", "sub": "簡潔な", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a laconic reply", "ja": "簡潔な返事" },
+      { "en": "a laconic style", "ja": "簡潔な文体" },
+      { "en": "laconic and dry", "ja": "そっけなく淡々とした" },
+      { "en": "a laconic remark", "ja": "簡潔な一言" },
+      { "en": "famously laconic", "ja": "寡黙で有名な" },
+      { "en": "laconic wit", "ja": "簡潔な機知" }
+    ],
+    "related": [
+      { "en": "terse", "ja": "簡潔な・そっけない" },
+      { "en": "concise", "ja": "簡潔な" },
+      { "en": "taciturn", "ja": "無口な" },
+      { "en": "verbose", "ja": "多弁な" }
+    ],
+    "faq": [
+      { "q": "laconic の意味は？", "a": "言葉が少なく簡潔で、ときにそっけないほど短い話し方を表します。" },
+      { "q": "語源は？", "a": "簡潔な物言いを好んだ古代スパルタ（ラコニア地方）の人々にちなみます。" }
+    ],
+    "quiz": [
+      { "q": "laconic の意味は？", "A": "多弁な", "B": "簡潔な・口数の少ない", "C": "おおげさな", "D": "騒がしい", "correct": "B" },
+      { "q": "laconic の反対語は？", "A": "verbose（多弁な）", "B": "terse", "C": "concise", "D": "brief", "correct": "A" }
+    ]
+  },
+  {
+    "english": "lance",
+    "pron": "lɑːns",
+    "kana": "ランス",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 lancea（槍）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "歴史・医療"],
+    "meaning_main": "槍（やり。騎士が馬上で使う長い槍）／（動）（腫れ物を）切開する",
+    "description": "lance（ランス）の意味と使い方。騎士が馬上で構える長い槍、また医療で腫れ物を切開するを表す名詞・動詞を解説。",
+    "keywords": ["lance 意味", "lance 使い方", "槍 英語", "lance 切開"],
+    "meanings": [
+      { "hinshi": "【名詞】槍（ランス）", "note": "騎士が馬上で構える、長い柄の先にとがった穂をつけた武器。可算名詞" },
+      { "hinshi": "【動詞】（腫れ物を）切開する", "note": "はれもの・膿を出すために刃で切り開く" }
+    ],
+    "usages": [
+      { "title": "① 騎士の槍", "desc": "馬上槍試合など", "example_en": "The knight charged with his lance.", "example_ja": "騎士は槍を構えて突撃した。" },
+      { "title": "② 腫れ物を切開する", "desc": "膿を出す", "example_en": "The doctor lanced the boil.", "example_ja": "医者はそのはれものを切開した。" }
+    ],
+    "warn": ["武器の spear（歩兵の槍）より、lance は馬上で使う長い槍を指すことが多い。動詞は『（膿を出すため）切開する』"],
+    "etym_note": "ラテン語 lancea（槍）に由来。lancet（ランセット＝小型の外科用メス）と同語源で、動詞の『切開する』の意にもつながる。",
+    "etym_chain": [
+      { "node": "lancea", "sub": "槍", "era": "ラテン語" },
+      { "node": "lance", "sub": "槍・切開する", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "a knight's lance", "ja": "騎士の槍" },
+      { "en": "charge with a lance", "ja": "槍で突撃する" },
+      { "en": "lance a boil", "ja": "はれものを切開する" },
+      { "en": "a jousting lance", "ja": "馬上槍試合用の槍" },
+      { "en": "lance the abscess", "ja": "膿瘍を切開する" },
+      { "en": "lower the lance", "ja": "槍を構える" }
+    ],
+    "related": [
+      { "en": "spear", "ja": "槍" },
+      { "en": "lancet", "ja": "ランセット（外科用メス）" },
+      { "en": "knight", "ja": "騎士" },
+      { "en": "javelin", "ja": "投げ槍" }
+    ],
+    "faq": [
+      { "q": "lance と spear の違いは？", "a": "spear は歩兵の槍全般、lance は特に騎士が馬上で構える長い槍を指すことが多いです。" },
+      { "q": "動詞の意味は？", "a": "医療で『（はれもの・膿を出すため）切開する』という意味です。" }
+    ],
+    "quiz": [
+      { "q": "lance の意味は？", "A": "（騎士の）槍／切開する", "B": "盾", "C": "弓", "D": "旗", "correct": "A" },
+      { "q": "動詞 lance の意味は？", "A": "腫れ物を切開する", "B": "縫合する", "C": "包帯を巻く", "D": "麻酔する", "correct": "A" }
+    ]
+  },
+  {
+    "english": "landfill",
+    "pron": "ˈlændfɪl",
+    "kana": "ランドフィル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "land（土地）+ fill（埋める）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "環境・社会"],
+    "meaning_main": "埋め立て地／ごみ埋め立て（処分場）",
+    "description": "landfill（ランドフィル）の意味と使い方。ごみを埋めて処分する埋め立て地、その処分方法を表す名詞を解説。",
+    "keywords": ["landfill 意味", "landfill 使い方", "埋め立て地 英語", "ごみ処分 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】ごみ埋め立て地・埋め立て処分", "note": "ごみを地中に埋めて処分する場所、またはその方法。可算・不可算どちらも" }
+    ],
+    "usages": [
+      { "title": "① ごみの埋め立て地", "desc": "廃棄物を埋める場所", "example_en": "Most of the waste ends up in a landfill.", "example_ja": "廃棄物の大半は埋め立て地に行き着く。" },
+      { "title": "② 環境問題として", "desc": "埋め立て量を減らす", "example_en": "Recycling reduces the amount of landfill.", "example_ja": "リサイクルは埋め立てごみの量を減らす。" }
+    ],
+    "warn": ["land（土地）＋fill（埋める）。焼却は incineration、リサイクルは recycling。ごみ問題の頻出語"],
+    "etym_note": "land（土地）と fill（満たす・埋める）の複合。『土地をごみで埋めること・埋めた場所』の意。",
+    "etym_chain": [
+      { "node": "land + fill", "sub": "土地を埋める", "era": "近代英語" },
+      { "node": "landfill", "sub": "ごみ埋め立て地", "era": "現代英語（20世紀）" }
+    ],
+    "phrases": [
+      { "en": "end up in a landfill", "ja": "埋め立て地に行き着く" },
+      { "en": "a landfill site", "ja": "埋め立て処分場" },
+      { "en": "reduce landfill", "ja": "埋め立てごみを減らす" },
+      { "en": "landfill waste", "ja": "埋め立てごみ" },
+      { "en": "a full landfill", "ja": "満杯の埋め立て地" },
+      { "en": "go to landfill", "ja": "埋め立て処分される" }
+    ],
+    "related": [
+      { "en": "waste", "ja": "廃棄物" },
+      { "en": "garbage", "ja": "ごみ" },
+      { "en": "recycling", "ja": "リサイクル" },
+      { "en": "incineration", "ja": "焼却" }
+    ],
+    "faq": [
+      { "q": "landfill とは？", "a": "ごみを地中に埋めて処分する場所（埋め立て地）や、その処分方法です。" },
+      { "q": "他の処分方法は？", "a": "焼却（incineration）やリサイクル（recycling）があります。" }
+    ],
+    "quiz": [
+      { "q": "landfill の意味は？", "A": "ごみ埋め立て地", "B": "農地", "C": "遊園地", "D": "駐車場", "correct": "A" },
+      { "q": "landfill を減らすには？", "A": "リサイクルする", "B": "ごみを増やす", "C": "土地を買う", "D": "水を使う", "correct": "A" }
+    ]
+  },
+  {
+    "english": "landslide",
+    "pron": "ˈlændslaɪd",
+    "kana": "ランドスライド",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "land（土地）+ slide（滑る）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "自然・政治"],
+    "meaning_main": "地滑り／土砂崩れ／（選挙の）圧勝",
+    "description": "landslide（ランドスライド）の意味と使い方。斜面が崩れる地滑り・土砂崩れ、また選挙での圧倒的勝利を表す名詞を解説。",
+    "keywords": ["landslide 意味", "landslide 使い方", "地滑り 英語", "圧勝 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】地滑り・土砂崩れ", "note": "斜面の土や岩が大量に崩れ落ちること。可算名詞" },
+      { "hinshi": "【名詞】（選挙の）圧勝", "note": "選挙で圧倒的な差で勝つこと。a landslide victory（地滑り的勝利＝圧勝）" }
+    ],
+    "usages": [
+      { "title": "① 土砂崩れ", "desc": "斜面が崩れる", "example_en": "Heavy rain caused a landslide.", "example_ja": "大雨が土砂崩れを引き起こした。" },
+      { "title": "② 選挙の圧勝", "desc": "a landslide victory", "example_en": "She won the election by a landslide.", "example_ja": "彼女は選挙で圧勝した。" }
+    ],
+    "warn": ["win by a landslide / a landslide victory（圧勝する）は政治で頻出。地滑りの意味と圧勝の意味を文脈で判断"],
+    "etym_note": "land（土地）と slide（滑る）の複合。『土地が滑り落ちること』から、選挙で票がなだれのように一方へ動く『圧勝』の比喩になった。",
+    "etym_chain": [
+      { "node": "land + slide", "sub": "土地が滑る", "era": "近代英語" },
+      { "node": "landslide", "sub": "地滑り・圧勝", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "cause a landslide", "ja": "土砂崩れを起こす" },
+      { "en": "a landslide victory", "ja": "地滑り的勝利・圧勝" },
+      { "en": "win by a landslide", "ja": "圧勝する" },
+      { "en": "a mudslide and landslide", "ja": "泥流と地滑り" },
+      { "en": "buried in a landslide", "ja": "土砂崩れに埋もれる" },
+      { "en": "a landslide win", "ja": "圧勝" }
+    ],
+    "related": [
+      { "en": "mudslide", "ja": "泥流・土石流" },
+      { "en": "avalanche", "ja": "雪崩" },
+      { "en": "erosion", "ja": "浸食" },
+      { "en": "victory", "ja": "勝利" }
+    ],
+    "faq": [
+      { "q": "landslide の政治的な意味は？", "a": "選挙での『圧倒的な勝利（圧勝）』です。win by a landslide などと使います。" },
+      { "q": "mudslide との違いは？", "a": "landslide は土や岩の地滑り、mudslide は水を含んだ泥が流れる土石流を指します。" }
+    ],
+    "quiz": [
+      { "q": "landslide の意味は？", "A": "地滑り・土砂崩れ／選挙の圧勝", "B": "地震", "C": "洪水", "D": "火事", "correct": "A" },
+      { "q": "a landslide victory の意味は？", "A": "圧勝", "B": "僅差の勝利", "C": "敗北", "D": "引き分け", "correct": "A" }
+    ]
+  },
+  {
+    "english": "larch",
+    "pron": "lɑːrtʃ",
+    "kana": "ラーチ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 larix（カラマツ）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "植物・木材"],
+    "meaning_main": "カラマツ（秋に葉を落とす針葉樹）",
+    "description": "larch（ラーチ）の意味と使い方。針葉樹でありながら秋に葉を落とす、黄葉が美しいカラマツを表す名詞を解説。",
+    "keywords": ["larch 意味", "larch 使い方", "カラマツ 英語", "larch 木"],
+    "meanings": [
+      { "hinshi": "【名詞】カラマツ", "note": "松の仲間の針葉樹だが、秋に黄葉して葉を落とす珍しい落葉針葉樹。丈夫な木材にもなる。可算・不可算どちらも" }
+    ],
+    "usages": [
+      { "title": "① 落葉する針葉樹", "desc": "秋に黄葉して葉を落とす", "example_en": "The larch turns golden yellow in autumn.", "example_ja": "カラマツは秋に黄金色に色づく。" },
+      { "title": "② 木材として", "desc": "丈夫で耐久性がある", "example_en": "Larch is a durable wood used for fences.", "example_ja": "カラマツは柵に使われる耐久性のある木材だ。" }
+    ],
+    "warn": ["針葉樹だが落葉する珍しい木（deciduous conifer）。pine（マツ）や fir（モミ）は常緑で対照的"],
+    "etym_note": "ラテン語 larix（カラマツ）に由来。ドイツ語 Lärche を経て英語に入った。落葉する珍しい針葉樹を指す。",
+    "etym_chain": [
+      { "node": "larix", "sub": "カラマツ", "era": "ラテン語" },
+      { "node": "larch", "sub": "カラマツ", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a larch tree", "ja": "カラマツの木" },
+      { "en": "larch wood", "ja": "カラマツ材" },
+      { "en": "a larch forest", "ja": "カラマツ林" },
+      { "en": "golden larch", "ja": "黄葉したカラマツ" },
+      { "en": "larch needles", "ja": "カラマツの葉" },
+      { "en": "a stand of larch", "ja": "カラマツの木立" }
+    ],
+    "related": [
+      { "en": "pine", "ja": "マツ" },
+      { "en": "fir", "ja": "モミ" },
+      { "en": "conifer", "ja": "針葉樹" },
+      { "en": "timber", "ja": "木材" }
+    ],
+    "faq": [
+      { "q": "larch とは？", "a": "松の仲間の針葉樹ですが、秋に黄葉して葉を落とす珍しい落葉針葉樹（カラマツ）です。" },
+      { "q": "pine とどう違う？", "a": "pine（マツ）は常緑ですが、larch は秋に葉を落とす点が違います。" }
+    ],
+    "quiz": [
+      { "q": "larch の意味は？", "A": "秋に葉を落とす針葉樹（カラマツ）", "B": "熱帯の花", "C": "海の魚", "D": "きのこ", "correct": "A" },
+      { "q": "larch の珍しい点は？", "A": "針葉樹なのに落葉する", "B": "水中で育つ", "C": "花が咲かない", "D": "実をつけない", "correct": "A" }
+    ]
+  },
+  {
+    "english": "lariat",
+    "pron": "ˈlæriət",
+    "kana": "ラリアット",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "スペイン語 la reata（つなぎ縄）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文化・道具"],
+    "meaning_main": "投げ縄（家畜を捕らえる縄。ラソー）",
+    "description": "lariat（ラリアット）の意味と使い方。カウボーイが牛や馬を捕らえるのに使う輪のついた投げ縄を表す名詞を解説。lasso とも。",
+    "keywords": ["lariat 意味", "lariat 使い方", "投げ縄 英語", "lasso"],
+    "meanings": [
+      { "hinshi": "【名詞】投げ縄", "note": "先に輪を作った長い縄で、家畜を捕らえたりつないだりするのに使う。lasso（ラソー）とも。可算名詞" }
+    ],
+    "usages": [
+      { "title": "① 家畜を捕らえる縄", "desc": "カウボーイの道具", "example_en": "The cowboy swung his lariat over his head.", "example_ja": "カウボーイは投げ縄を頭上で振り回した。" },
+      { "title": "② 輪を投げてかける", "desc": "牛や馬を捕らえる", "example_en": "He roped the calf with a lariat.", "example_ja": "彼は投げ縄で子牛を捕らえた。" }
+    ],
+    "warn": ["lasso（ラソー）とほぼ同義。プロレスの『ラリアット（腕での打撃技）』とは別で、本来は投げ縄。スペイン語 la reata 由来"],
+    "etym_note": "スペイン語 la reata（つなぎ縄、reatar＝再び縛る）に由来。アメリカ西部のカウボーイ文化を通じて英語に入った。",
+    "etym_chain": [
+      { "node": "la reata", "sub": "つなぎ縄", "era": "スペイン語" },
+      { "node": "lariat", "sub": "投げ縄", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "swing a lariat", "ja": "投げ縄を振り回す" },
+      { "en": "throw a lariat", "ja": "投げ縄を投げる" },
+      { "en": "a coiled lariat", "ja": "巻いた投げ縄" },
+      { "en": "rope with a lariat", "ja": "投げ縄で捕らえる" },
+      { "en": "the loop of the lariat", "ja": "投げ縄の輪" },
+      { "en": "a cowboy's lariat", "ja": "カウボーイの投げ縄" }
+    ],
+    "related": [
+      { "en": "lasso", "ja": "投げ縄・ラソー" },
+      { "en": "rope", "ja": "縄・ロープ" },
+      { "en": "cowboy", "ja": "カウボーイ" },
+      { "en": "cattle", "ja": "牛" }
+    ],
+    "faq": [
+      { "q": "lariat とは？", "a": "先に輪を作った長い縄で、家畜を捕らえたりつないだりするのに使う投げ縄です。" },
+      { "q": "lasso と同じ？", "a": "ほぼ同義です。どちらも輪のついた投げ縄を指します。" }
+    ],
+    "quiz": [
+      { "q": "lariat の意味は？", "A": "家畜を捕らえる投げ縄", "B": "むち", "C": "鞍", "D": "拍車", "correct": "A" },
+      { "q": "lariat と同義の語は？", "A": "lasso", "B": "leash", "C": "harness", "D": "bridle", "correct": "A" }
+    ]
+  }
+]
