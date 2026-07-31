@@ -1,0 +1,969 @@
+[
+  {
+    "english": "mane",
+    "pron": "meɪn",
+    "kana": "メイン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 manu（たてがみ）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "生物・日常"],
+    "meaning_main": "たてがみ（馬・ライオンの首の毛）／（比喩）豊かな髪",
+    "description": "mane（メイン）の意味と使い方。馬やライオンの首まわりに生える長い毛たてがみ、また比喩で豊かな髪を表す名詞を解説。",
+    "keywords": ["mane 意味", "mane 使い方", "たてがみ 英語", "mane main 違い"],
+    "meanings": [
+      { "hinshi": "【名詞】たてがみ", "note": "馬・ライオンなどの首まわりや背に生える長い毛。可算名詞" },
+      { "hinshi": "【名詞】（比喩）豊かな髪", "note": "人のふさふさした長い髪をたとえて" }
+    ],
+    "usages": [
+      { "title": "① 動物のたてがみ", "desc": "馬・ライオンの首の毛", "example_en": "The lion shook its mane.", "example_ja": "ライオンはたてがみを振った。" },
+      { "title": "② 豊かな髪の比喩", "desc": "a mane of hair", "example_en": "She had a mane of thick red hair.", "example_ja": "彼女は豊かな赤毛のたてがみのような髪をしていた。" }
+    ],
+    "warn": ["main（主要な）と同音[meɪn]だが別語。たてがみは馬・ライオンに使う。人の豊かな髪の比喩にも"],
+    "etym_note": "古英語 manu（たてがみ）に由来。ゲルマン系の古い語で、首まわりの長い毛を表す。",
+    "etym_chain": [
+      { "node": "manu", "sub": "たてがみ", "era": "古英語" },
+      { "node": "mane", "sub": "たてがみ", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "a lion's mane", "ja": "ライオンのたてがみ" },
+      { "en": "a horse's mane", "ja": "馬のたてがみ" },
+      { "en": "a mane of hair", "ja": "たてがみのような髪" },
+      { "en": "shake its mane", "ja": "たてがみを振る" },
+      { "en": "a flowing mane", "ja": "なびくたてがみ" },
+      { "en": "brush the mane", "ja": "たてがみをとかす" }
+    ],
+    "related": [
+      { "en": "fur", "ja": "毛皮" },
+      { "en": "hair", "ja": "髪・毛" },
+      { "en": "lion", "ja": "ライオン" },
+      { "en": "horse", "ja": "馬" }
+    ],
+    "faq": [
+      { "q": "mane と main の違いは？", "a": "発音は同じ[meɪn]ですが、mane は『たてがみ』、main は『主要な』です。" },
+      { "q": "人にも使う？", "a": "比喩的に、人のふさふさした豊かな髪を a mane of hair などと表現します。" }
+    ],
+    "quiz": [
+      { "q": "mane の意味は？", "A": "たてがみ", "B": "しっぽ", "C": "ひづめ", "D": "つの", "correct": "A" },
+      { "q": "mane と同音の語は？", "A": "main（主要な）", "B": "men", "C": "mine", "D": "moon", "correct": "A" }
+    ]
+  },
+  {
+    "english": "manger",
+    "pron": "ˈmeɪndʒər",
+    "kana": "メインジャー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 mandere（かむ・食べる）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "日常・文化"],
+    "meaning_main": "飼い葉おけ（家畜の餌を入れる箱）",
+    "description": "manger（メインジャー）の意味と使い方。牛や馬などの家畜に餌を与えるための箱、飼い葉おけを表す名詞を解説。クリスマスとの関わりも。",
+    "keywords": ["manger 意味", "manger 使い方", "飼い葉おけ 英語", "manger キリスト"],
+    "meanings": [
+      { "hinshi": "【名詞】飼い葉おけ", "note": "牛・馬などの家畜が餌を食べるための、長方形の箱や容器。可算名詞。発音は[ˈmeɪndʒər]" }
+    ],
+    "usages": [
+      { "title": "① 家畜の餌箱", "desc": "干し草などを入れる", "example_en": "The horse ate hay from the manger.", "example_ja": "馬は飼い葉おけから干し草を食べた。" },
+      { "title": "② キリスト降誕の場面", "desc": "イエスが寝かされた場所", "example_en": "Baby Jesus was laid in a manger.", "example_ja": "幼子イエスは飼い葉おけに寝かされた。" }
+    ],
+    "warn": ["manager（管理職）とつづり・発音が似るが別語。キリスト降誕（Nativity）でイエスが寝かされた場所として有名"],
+    "etym_note": "ラテン語 mandere（かむ・食べる）に由来する古フランス語 mangeoire から。『（家畜が）食べる場所』の意。manger（フランス語で『食べる』）と同語源。",
+    "etym_chain": [
+      { "node": "mandere", "sub": "かむ・食べる", "era": "ラテン語" },
+      { "node": "mangeoire", "sub": "飼い葉おけ", "era": "古フランス語" },
+      { "node": "manger", "sub": "飼い葉おけ", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "hay in the manger", "ja": "飼い葉おけの干し草" },
+      { "en": "laid in a manger", "ja": "飼い葉おけに寝かされて" },
+      { "en": "a wooden manger", "ja": "木の飼い葉おけ" },
+      { "en": "eat from the manger", "ja": "飼い葉おけから食べる" },
+      { "en": "a stable and manger", "ja": "馬小屋と飼い葉おけ" },
+      { "en": "a dog in the manger", "ja": "意地悪な人（慣用句）" }
+    ],
+    "related": [
+      { "en": "trough", "ja": "飼い葉おけ・水おけ" },
+      { "en": "stable", "ja": "馬小屋" },
+      { "en": "hay", "ja": "干し草" },
+      { "en": "barn", "ja": "納屋" }
+    ],
+    "faq": [
+      { "q": "manger とは？", "a": "牛や馬などの家畜が餌を食べるための箱（飼い葉おけ）です。キリスト降誕の場面でも有名です。" },
+      { "q": "a dog in the manger とは？", "a": "『自分には不要なのに他人にも使わせない意地悪な人』を表すことわざです。" }
+    ],
+    "quiz": [
+      { "q": "manger の意味は？", "A": "家畜の飼い葉おけ", "B": "管理職", "C": "台所", "D": "倉庫", "correct": "A" },
+      { "q": "manger で有名な物語は？", "A": "キリストの降誕", "B": "ノアの箱舟", "C": "アダムとイブ", "D": "出エジプト", "correct": "A" }
+    ]
+  },
+  {
+    "english": "manly",
+    "pron": "ˈmænli",
+    "kana": "マンリー",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "man（男）+ -ly",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "性格・日常"],
+    "meaning_main": "男らしい／たくましい・勇敢な",
+    "description": "manly（マンリー）の意味と使い方。男性らしく、たくましく勇敢な様子を表す形容詞を解説。masculine との違いも。",
+    "keywords": ["manly 意味", "manly 使い方", "男らしい 英語", "manly masculine"],
+    "meanings": [
+      { "hinshi": "【形容詞】男らしい・たくましい", "note": "力強さ・勇敢さ・度胸など、男性に望ましいとされる性質を持つ。ほめ言葉として使うことが多い" }
+    ],
+    "usages": [
+      { "title": "① たくましく勇敢な", "desc": "男性的な強さ", "example_en": "He faced the danger in a manly way.", "example_ja": "彼は男らしく危険に立ち向かった。" },
+      { "title": "② 見た目・声など", "desc": "男性らしい特徴", "example_en": "He has a deep, manly voice.", "example_ja": "彼は低く男らしい声をしている。" }
+    ],
+    "warn": ["masculine（男性の・男性形の）が中立的なのに対し、manly は『たくましい・勇敢な』という称賛の含みがある。反対は effeminate（女々しい）"],
+    "etym_note": "man（男・人）に『～らしい』の -ly がついた語。『男らしい』の意。古英語 mann（人）に由来する。",
+    "etym_chain": [
+      { "node": "mann", "sub": "人・男", "era": "古英語" },
+      { "node": "manly", "sub": "男らしい", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "in a manly way", "ja": "男らしく" },
+      { "en": "a manly voice", "ja": "男らしい声" },
+      { "en": "manly courage", "ja": "男らしい勇気" },
+      { "en": "look manly", "ja": "たくましく見える" },
+      { "en": "a manly figure", "ja": "たくましい体つき" },
+      { "en": "manly strength", "ja": "男らしい力強さ" }
+    ],
+    "related": [
+      { "en": "masculine", "ja": "男性の・男性らしい" },
+      { "en": "macho", "ja": "マッチョな" },
+      { "en": "virile", "ja": "たくましい" },
+      { "en": "effeminate", "ja": "女々しい" }
+    ],
+    "faq": [
+      { "q": "manly と masculine の違いは？", "a": "masculine は『男性の・男性らしい』で中立的、manly は『たくましい・勇敢な』という称賛の含みがあります。" },
+      { "q": "反対は？", "a": "effeminate（女々しい）です。" }
+    ],
+    "quiz": [
+      { "q": "manly の意味は？", "A": "女々しい", "B": "男らしい・たくましい", "C": "子どもっぽい", "D": "臆病な", "correct": "B" },
+      { "q": "manly の反対語は？", "A": "effeminate", "B": "masculine", "C": "macho", "D": "virile", "correct": "A" }
+    ]
+  },
+  {
+    "english": "manned",
+    "pron": "mænd",
+    "kana": "マンド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "man（人を配置する）+ -ed",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "科学・技術"],
+    "meaning_main": "（人が）乗り込んだ／有人の／人を配置した",
+    "description": "manned（マンド）の意味と使い方。宇宙船などに人が乗り込んだ有人の、また人を配置したことを表す形容詞を解説。反対語 unmanned も。",
+    "keywords": ["manned 意味", "manned 使い方", "有人 英語", "manned unmanned"],
+    "meanings": [
+      { "hinshi": "【形容詞】有人の・人が乗り込んだ", "note": "宇宙船・探査機などに人が乗っている。また持ち場に人が配置された状態。反対は unmanned（無人の）" }
+    ],
+    "usages": [
+      { "title": "① 有人の飛行・探査", "desc": "人が乗っている", "example_en": "The first manned spaceflight took place in 1961.", "example_ja": "最初の有人宇宙飛行は1961年に行われた。" },
+      { "title": "② 人を配置した", "desc": "持ち場に人がいる", "example_en": "The checkpoint was manned by soldiers.", "example_ja": "その検問所には兵士が配置されていた。" }
+    ],
+    "warn": ["反対は unmanned（無人の）。動詞 man（人を配置する・乗り込む）から。近年は crewed（乗員のいる）という中立語も使われる"],
+    "etym_note": "man の動詞用法（人を配置する・乗り込む）の過去分詞から形容詞化した語。『人が配置された・乗り込んだ』の意。",
+    "etym_chain": [
+      { "node": "mann", "sub": "人", "era": "古英語" },
+      { "node": "man", "sub": "人を配置する", "era": "中英語" },
+      { "node": "manned", "sub": "有人の", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a manned spacecraft", "ja": "有人宇宙船" },
+      { "en": "manned spaceflight", "ja": "有人宇宙飛行" },
+      { "en": "a manned mission", "ja": "有人ミッション" },
+      { "en": "manned and unmanned", "ja": "有人と無人" },
+      { "en": "a manned checkpoint", "ja": "人の配置された検問所" },
+      { "en": "fully manned", "ja": "人員が十分配置された" }
+    ],
+    "related": [
+      { "en": "unmanned", "ja": "無人の" },
+      { "en": "crewed", "ja": "乗員のいる" },
+      { "en": "staffed", "ja": "人員配置された" },
+      { "en": "operated", "ja": "運用された" }
+    ],
+    "faq": [
+      { "q": "manned の反対は？", "a": "unmanned（無人の）です。" },
+      { "q": "他の言い方は？", "a": "性別に中立な crewed（乗員のいる）も近年使われます。" }
+    ],
+    "quiz": [
+      { "q": "manned の意味は？", "A": "無人の", "B": "有人の・人が乗り込んだ", "C": "自動の", "D": "壊れた", "correct": "B" },
+      { "q": "manned の反対語は？", "A": "unmanned", "B": "manly", "C": "manual", "D": "manned のみ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "manor",
+    "pron": "ˈmænər",
+    "kana": "マナー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 manere（とどまる・住む）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "歴史・住まい"],
+    "meaning_main": "荘園／領主の邸宅（マナーハウス）",
+    "description": "manor（マナー）の意味と使い方。中世の荘園、また領主が住む大きな邸宅マナーハウスを表す名詞を解説。manner との同音に注意。",
+    "keywords": ["manor 意味", "manor 使い方", "荘園 英語", "manor manner 違い"],
+    "meanings": [
+      { "hinshi": "【名詞】荘園・領主の邸宅", "note": "中世ヨーロッパで領主が支配した土地（荘園）、またはその中心にある大きな邸宅（manor house）。可算名詞" }
+    ],
+    "usages": [
+      { "title": "① 領主の大邸宅", "desc": "manor house", "example_en": "They live in a grand country manor.", "example_ja": "彼らは田舎の壮大な領主邸に住んでいる。" },
+      { "title": "② 中世の荘園", "desc": "領主が支配した土地", "example_en": "The lord ruled over the manor.", "example_ja": "領主はその荘園を支配していた。" }
+    ],
+    "warn": ["manner（作法・方法）と同音[ˈmænər]だが別語。manor は『荘園・邸宅』。manor house（領主の館）が定番"],
+    "etym_note": "ラテン語 manere（とどまる・住む）に由来する古フランス語 manoir から。『（人が）住む所』の意。remain, mansion と同語源。",
+    "etym_chain": [
+      { "node": "manere", "sub": "とどまる・住む", "era": "ラテン語" },
+      { "node": "manoir", "sub": "住まい・邸宅", "era": "古フランス語" },
+      { "node": "manor", "sub": "荘園・邸宅", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "a manor house", "ja": "領主の邸宅" },
+      { "en": "a country manor", "ja": "田舎の領主邸" },
+      { "en": "the lord of the manor", "ja": "荘園の領主" },
+      { "en": "a grand manor", "ja": "壮大な邸宅" },
+      { "en": "the manor grounds", "ja": "邸宅の敷地" },
+      { "en": "an old manor", "ja": "古い荘園・邸宅" }
+    ],
+    "related": [
+      { "en": "manor house", "ja": "領主の館" },
+      { "en": "mansion", "ja": "大邸宅" },
+      { "en": "estate", "ja": "地所・屋敷" },
+      { "en": "lord", "ja": "領主" }
+    ],
+    "faq": [
+      { "q": "manor と manner の違いは？", "a": "発音は同じ[ˈmænər]ですが、manor は『荘園・邸宅』、manner は『作法・方法』です。" },
+      { "q": "manor house とは？", "a": "領主が住む大きな邸宅・館のことです。" }
+    ],
+    "quiz": [
+      { "q": "manor の意味は？", "A": "荘園・領主の邸宅", "B": "作法", "C": "工場", "D": "港", "correct": "A" },
+      { "q": "manor と同音の語は？", "A": "manner（作法）", "B": "minor", "C": "miner", "D": "manor のみ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "markhor",
+    "pron": "ˈmɑːrkɔːr",
+    "kana": "マーコール",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ペルシャ語 mar（蛇）+ khor（食べる）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "生物・動物"],
+    "meaning_main": "マーコール（らせん状の角を持つ大型の野生ヤギ）",
+    "description": "markhor（マーコール）の意味と使い方。中央アジア〜南アジアの山岳にすむ、らせん状にねじれた角を持つ大型の野生ヤギを表す名詞を解説。",
+    "keywords": ["markhor 意味", "markhor 使い方", "マーコール 英語", "野生ヤギ 角"],
+    "meanings": [
+      { "hinshi": "【名詞】マーコール", "note": "中央アジア〜南アジアの険しい山岳にすむ大型の野生ヤギ。オスはらせん状にねじれた長い角を持つ。パキスタンの国獣。可算名詞" }
+    ],
+    "usages": [
+      { "title": "① らせん角の野生ヤギ", "desc": "ねじれた角が特徴", "example_en": "The markhor has long, spiral horns.", "example_ja": "マーコールは長くらせん状の角を持つ。" },
+      { "title": "② 山岳にすむ", "desc": "険しい岩場を登る", "example_en": "Markhors live high in the mountains.", "example_ja": "マーコールは山の高地にすむ。" }
+    ],
+    "warn": ["ibex（アイベックス）と同じく山岳の野生ヤギだが、markhor は角がらせん状にねじれる点が特徴。パキスタンの国獣"],
+    "etym_note": "ペルシャ語 mar（蛇）と khor（食べる）から『蛇を食べるもの』の意とされるが、角が蛇のようにねじれることに由来するとも言われる。",
+    "etym_chain": [
+      { "node": "mar + khor", "sub": "蛇＋食べる", "era": "ペルシャ語" },
+      { "node": "markhor", "sub": "マーコール", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a wild markhor", "ja": "野生のマーコール" },
+      { "en": "the markhor's spiral horns", "ja": "マーコールのらせん角" },
+      { "en": "a male markhor", "ja": "オスのマーコール" },
+      { "en": "markhor in the mountains", "ja": "山岳のマーコール" },
+      { "en": "protect the markhor", "ja": "マーコールを保護する" },
+      { "en": "a herd of markhor", "ja": "マーコールの群れ" }
+    ],
+    "related": [
+      { "en": "ibex", "ja": "アイベックス" },
+      { "en": "goat", "ja": "ヤギ" },
+      { "en": "horn", "ja": "角" },
+      { "en": "mountain", "ja": "山" }
+    ],
+    "faq": [
+      { "q": "markhor とは？", "a": "中央アジア〜南アジアの山岳にすむ、らせん状の角を持つ大型の野生ヤギです。パキスタンの国獣です。" },
+      { "q": "ibex との違いは？", "a": "どちらも山岳の野生ヤギですが、markhor は角がらせん状にねじれる点が特徴です。" }
+    ],
+    "quiz": [
+      { "q": "markhor の意味は？", "A": "らせん角を持つ野生のヤギ", "B": "海の魚", "C": "熱帯の鳥", "D": "砂漠のトカゲ", "correct": "A" },
+      { "q": "markhor の角の特徴は？", "A": "らせん状にねじれている", "B": "枝分かれしている", "C": "角がない", "D": "1本だけ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "marlin",
+    "pron": "ˈmɑːrlɪn",
+    "kana": "マーリン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "marlinspike（船具）+ 形が似ることから",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "生物・魚"],
+    "meaning_main": "カジキ（長い槍のような上あごを持つ大型の海魚）",
+    "description": "marlin（マーリン）の意味と使い方。長く鋭い上あごを持ち、高速で泳ぐ大型の海魚カジキを表す名詞を解説。",
+    "keywords": ["marlin 意味", "marlin 使い方", "カジキ 英語", "marlin 魚"],
+    "meanings": [
+      { "hinshi": "【名詞】カジキ", "note": "長く鋭い槍のような上あごを持つ、大型で高速の海魚。スポーツフィッシングの対象として人気。可算名詞（複数は marlin / marlins）" }
+    ],
+    "usages": [
+      { "title": "① 槍のような口の大魚", "desc": "高速で泳ぐ", "example_en": "A blue marlin can grow very large.", "example_ja": "クロカジキは非常に大きく育つことがある。" },
+      { "title": "② 釣りの対象魚", "desc": "スポーツフィッシング", "example_en": "He caught a huge marlin off the coast.", "example_ja": "彼は沖で巨大なカジキを釣り上げた。" }
+    ],
+    "warn": ["swordfish（メカジキ）とは近縁だが別種。細長い上あご（吻＝bill）が特徴。マーリンの名は船具 marlinspike に形が似ることから"],
+    "etym_note": "船の索具を扱う細長い道具 marlinspike に、吻の形が似ることから名づけられたとされる。",
+    "etym_chain": [
+      { "node": "marlinspike", "sub": "細長い船具", "era": "近代英語" },
+      { "node": "marlin", "sub": "カジキ", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a blue marlin", "ja": "クロカジキ" },
+      { "en": "catch a marlin", "ja": "カジキを釣る" },
+      { "en": "a leaping marlin", "ja": "跳ねるカジキ" },
+      { "en": "a giant marlin", "ja": "巨大なカジキ" },
+      { "en": "the marlin's bill", "ja": "カジキの吻" },
+      { "en": "marlin fishing", "ja": "カジキ釣り" }
+    ],
+    "related": [
+      { "en": "swordfish", "ja": "メカジキ" },
+      { "en": "tuna", "ja": "マグロ" },
+      { "en": "sailfish", "ja": "バショウカジキ" },
+      { "en": "fish", "ja": "魚" }
+    ],
+    "faq": [
+      { "q": "marlin とは？", "a": "長く鋭い槍のような上あごを持つ、大型で高速の海魚（カジキ）です。" },
+      { "q": "swordfish との違いは？", "a": "近縁ですが別種です。marlin は背びれや体形が異なります。" }
+    ],
+    "quiz": [
+      { "q": "marlin の意味は？", "A": "槍のような口を持つ大型の海魚（カジキ）", "B": "貝", "C": "海藻", "D": "サンゴ", "correct": "A" },
+      { "q": "marlin の特徴は？", "A": "長く鋭い上あご", "B": "8本の足", "C": "殻を持つ", "D": "泳げない", "correct": "A" }
+    ]
+  },
+  {
+    "english": "marmoset",
+    "pron": "ˈmɑːrməzet",
+    "kana": "マーモセット",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 marmouset（小さな像）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "生物・動物"],
+    "meaning_main": "マーモセット（南米の小型のサル）",
+    "description": "marmoset（マーモセット）の意味と使い方。南米の熱帯林にすむ、とても小さくかわいらしいサル、マーモセットを表す名詞を解説。",
+    "keywords": ["marmoset 意味", "marmoset 使い方", "マーモセット 英語", "小型のサル 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】マーモセット", "note": "南米の熱帯林にすむ、手のひらに乗るほど小さいサル。ふさふさした毛と長い尾を持つ。可算名詞" }
+    ],
+    "usages": [
+      { "title": "① とても小さなサル", "desc": "手のひらサイズ", "example_en": "The marmoset is one of the smallest monkeys.", "example_ja": "マーモセットは最も小さいサルの一つだ。" },
+      { "title": "② 熱帯林にすむ", "desc": "木の上で暮らす", "example_en": "Marmosets live in the rainforests of South America.", "example_ja": "マーモセットは南米の熱帯雨林にすむ。" }
+    ],
+    "warn": ["新世界ザル（南米のサル）の一種で非常に小型。tamarin（タマリン）と近縁"],
+    "etym_note": "古フランス語 marmouset（小さな像・グロテスクな人形）に由来。小さくてかわいらしい姿から名づけられた。",
+    "etym_chain": [
+      { "node": "marmouset", "sub": "小さな像", "era": "古フランス語" },
+      { "node": "marmoset", "sub": "マーモセット", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "a tiny marmoset", "ja": "とても小さなマーモセット" },
+      { "en": "a pygmy marmoset", "ja": "ピグミーマーモセット" },
+      { "en": "a marmoset in a tree", "ja": "木の上のマーモセット" },
+      { "en": "a pet marmoset", "ja": "ペットのマーモセット" },
+      { "en": "a family of marmosets", "ja": "マーモセットの家族" },
+      { "en": "the marmoset's long tail", "ja": "マーモセットの長い尾" }
+    ],
+    "related": [
+      { "en": "monkey", "ja": "サル" },
+      { "en": "tamarin", "ja": "タマリン" },
+      { "en": "primate", "ja": "霊長類" },
+      { "en": "rainforest", "ja": "熱帯雨林" }
+    ],
+    "faq": [
+      { "q": "marmoset とは？", "a": "南米の熱帯林にすむ、手のひらに乗るほど小さいサルです。" },
+      { "q": "どのくらい小さい？", "a": "ピグミーマーモセットは世界最小級のサルで、体長は十数センチほどです。" }
+    ],
+    "quiz": [
+      { "q": "marmoset の意味は？", "A": "南米の小型のサル", "B": "大型の犬", "C": "海の魚", "D": "熱帯の鳥", "correct": "A" },
+      { "q": "marmoset の特徴は？", "A": "とても小さい", "B": "空を飛ぶ", "C": "水中で暮らす", "D": "冬眠する", "correct": "A" }
+    ]
+  },
+  {
+    "english": "marxism",
+    "pron": "ˈmɑːrksɪzəm",
+    "kana": "マルクシズム",
+    "hinshi": "名詞（固有名詞的）",
+    "ld_pos": "名詞",
+    "ld_etym": "人名 Marx（マルクス）+ -ism",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "思想・政治"],
+    "meaning_main": "マルクス主義（マルクスの思想に基づく社会・経済理論）",
+    "description": "Marxism（マルクシズム）の意味と使い方。カール・マルクスの思想に基づく、階級闘争や資本主義批判を柱とする社会・経済理論を表す名詞を解説。",
+    "keywords": ["Marxism 意味", "マルクス主義 英語", "Marxism 資本主義", "Marx"],
+    "meanings": [
+      { "hinshi": "【名詞】マルクス主義", "note": "19世紀の思想家カール・マルクスの理論に基づく社会・経済思想。階級闘争や資本主義の批判、社会主義・共産主義への移行を説く。固有名詞的で常に大文字 Marxism" }
+    ],
+    "usages": [
+      { "title": "① マルクスの社会理論", "desc": "階級闘争・資本主義批判", "example_en": "Marxism analyzes society in terms of class struggle.", "example_ja": "マルクス主義は社会を階級闘争の観点から分析する。" },
+      { "title": "② 政治思想として", "desc": "社会主義の理論的基盤", "example_en": "Marxism influenced many political movements.", "example_ja": "マルクス主義は多くの政治運動に影響を与えた。" }
+    ],
+    "warn": ["常に大文字 Marxism。信奉者は Marxist（マルクス主義者／マルクス主義の）。capitalism（資本主義）と対比される"],
+    "etym_note": "ドイツの思想家カール・マルクス（Karl Marx）の名に、主義・思想を表す -ism がついた語。",
+    "etym_chain": [
+      { "node": "Marx", "sub": "人名（マルクス）", "era": "19世紀" },
+      { "node": "Marxism", "sub": "マルクス主義", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "the principles of Marxism", "ja": "マルクス主義の原理" },
+      { "en": "believe in Marxism", "ja": "マルクス主義を信奉する" },
+      { "en": "Marxism and capitalism", "ja": "マルクス主義と資本主義" },
+      { "en": "classical Marxism", "ja": "古典的マルクス主義" },
+      { "en": "the influence of Marxism", "ja": "マルクス主義の影響" },
+      { "en": "Marxist theory", "ja": "マルクス主義理論" }
+    ],
+    "related": [
+      { "en": "marxist", "ja": "マルクス主義者・の" },
+      { "en": "communism", "ja": "共産主義" },
+      { "en": "socialism", "ja": "社会主義" },
+      { "en": "capitalism", "ja": "資本主義" }
+    ],
+    "faq": [
+      { "q": "Marxism とは？", "a": "カール・マルクスの思想に基づく、階級闘争や資本主義批判を柱とする社会・経済理論です。" },
+      { "q": "信奉者は？", "a": "Marxist（マルクス主義者）です。形容詞としても使います。" }
+    ],
+    "quiz": [
+      { "q": "Marxism の意味は？", "A": "マルクス主義（社会・経済理論）", "B": "資本主義", "C": "自由貿易", "D": "民主主義", "correct": "A" },
+      { "q": "Marxism の名の由来は？", "A": "思想家マルクス", "B": "地名", "C": "動物の名", "D": "ラテン語の数字", "correct": "A" }
+    ]
+  },
+  {
+    "english": "mascarpone",
+    "pron": "ˌmæskɑːrˈpoʊneɪ",
+    "kana": "マスカルポーネ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "イタリア語 mascarpone（チーズ名）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "食・料理"],
+    "meaning_main": "マスカルポーネ（なめらかで濃厚なイタリアのクリームチーズ）",
+    "description": "mascarpone（マスカルポーネ）の意味と使い方。ティラミスなどに使う、なめらかで濃厚なイタリアのフレッシュチーズを表す名詞を解説。",
+    "keywords": ["mascarpone 意味", "mascarpone 使い方", "マスカルポーネ 英語", "ティラミス チーズ"],
+    "meanings": [
+      { "hinshi": "【名詞】マスカルポーネ", "note": "クリームを固めて作る、なめらかで濃厚なイタリアのフレッシュチーズ。ティラミスなどのデザートに使う。通常は不可算" }
+    ],
+    "usages": [
+      { "title": "① ティラミスのチーズ", "desc": "濃厚でなめらか", "example_en": "Tiramisu is made with mascarpone.", "example_ja": "ティラミスはマスカルポーネで作られる。" },
+      { "title": "② 料理にも", "desc": "ソースや詰め物に", "example_en": "She added mascarpone to the pasta sauce.", "example_ja": "彼女はパスタソースにマスカルポーネを加えた。" }
+    ],
+    "warn": ["イタリア語由来。発音は[ˌmæskɑːrˈpoʊneɪ]。cream cheese（クリームチーズ）より脂肪分が高くなめらか"],
+    "etym_note": "イタリア語 mascarpone（このチーズの名）に由来。イタリア・ロンバルディア地方発祥のフレッシュチーズ。",
+    "etym_chain": [
+      { "node": "mascarpone", "sub": "チーズ名", "era": "イタリア語" },
+      { "node": "mascarpone", "sub": "マスカルポーネ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a tub of mascarpone", "ja": "マスカルポーネ一箱" },
+      { "en": "made with mascarpone", "ja": "マスカルポーネで作った" },
+      { "en": "mascarpone cheese", "ja": "マスカルポーネチーズ" },
+      { "en": "whip the mascarpone", "ja": "マスカルポーネを泡立てる" },
+      { "en": "creamy mascarpone", "ja": "クリーミーなマスカルポーネ" },
+      { "en": "mascarpone filling", "ja": "マスカルポーネの詰め物" }
+    ],
+    "related": [
+      { "en": "cheese", "ja": "チーズ" },
+      { "en": "cream cheese", "ja": "クリームチーズ" },
+      { "en": "ricotta", "ja": "リコッタ" },
+      { "en": "tiramisu", "ja": "ティラミス" }
+    ],
+    "faq": [
+      { "q": "mascarpone とは？", "a": "クリームを固めて作る、なめらかで濃厚なイタリアのフレッシュチーズです。ティラミスに使われます。" },
+      { "q": "cream cheese との違いは？", "a": "マスカルポーネの方が脂肪分が高く、よりなめらかで濃厚です。" }
+    ],
+    "quiz": [
+      { "q": "mascarpone の意味は？", "A": "イタリアの濃厚なクリームチーズ", "B": "パスタの一種", "C": "ワイン", "D": "オリーブオイル", "correct": "A" },
+      { "q": "mascarpone を使う有名なデザートは？", "A": "ティラミス", "B": "プリン", "C": "ゼリー", "D": "せんべい", "correct": "A" }
+    ]
+  },
+  {
+    "english": "massacre",
+    "pron": "ˈmæsəkər",
+    "kana": "マサカー",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 massacre（虐殺）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "社会・歴史"],
+    "meaning_main": "虐殺／大量殺りく／（動）虐殺する",
+    "description": "massacre（マサカー）の意味と使い方。多くの人（特に無抵抗の人々）を残酷に殺す虐殺・大量殺りくを表す名詞・動詞を解説。",
+    "keywords": ["massacre 意味", "massacre 使い方", "虐殺 英語", "大量殺りく 英語"],
+    "meanings": [
+      { "hinshi": "【名詞・動詞】虐殺・大量殺りく（する）", "note": "多くの人、特に無抵抗の人々を残酷に殺すこと。可算名詞。発音は[ˈmæsəkər]（語尾は re だが『カー』）" }
+    ],
+    "usages": [
+      { "title": "① 大量虐殺", "desc": "無抵抗の人々を殺す", "example_en": "Hundreds died in the massacre.", "example_ja": "その虐殺で数百人が亡くなった。" },
+      { "title": "② 動詞の用法", "desc": "虐殺する", "example_en": "The soldiers massacred the villagers.", "example_ja": "兵士たちは村人を虐殺した。" }
+    ],
+    "warn": ["発音は[ˈmæsəkər]で語尾の -re は『カー』。slaughter（大量殺りく・屠殺）と近い。スポーツで『大敗させる』の比喩も"],
+    "etym_note": "フランス語 massacre（虐殺・食肉処理場）に由来。正確な語源は不明だが、『大量に殺すこと』を表す。",
+    "etym_chain": [
+      { "node": "massacre", "sub": "虐殺", "era": "フランス語" },
+      { "node": "massacre", "sub": "虐殺・大量殺りく", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a brutal massacre", "ja": "残忍な虐殺" },
+      { "en": "the site of the massacre", "ja": "虐殺の現場" },
+      { "en": "carry out a massacre", "ja": "虐殺を行う" },
+      { "en": "victims of the massacre", "ja": "虐殺の犠牲者" },
+      { "en": "a mass massacre", "ja": "大量虐殺" },
+      { "en": "commemorate the massacre", "ja": "虐殺を追悼する" }
+    ],
+    "related": [
+      { "en": "slaughter", "ja": "大量殺りく・屠殺" },
+      { "en": "genocide", "ja": "集団虐殺" },
+      { "en": "carnage", "ja": "大虐殺・惨殺" },
+      { "en": "atrocity", "ja": "残虐行為" }
+    ],
+    "faq": [
+      { "q": "massacre と genocide の違いは？", "a": "massacre は特定の場面での『大量虐殺』、genocide は特定の民族・集団を計画的に絶滅させる『集団虐殺（ジェノサイド）』です。" },
+      { "q": "発音の注意は？", "a": "[ˈmæsəkər]で、語尾の -re は『カー』と読みます。" }
+    ],
+    "quiz": [
+      { "q": "massacre の意味は？", "A": "虐殺・大量殺りく", "B": "救助", "C": "祝賀", "D": "建設", "correct": "A" },
+      { "q": "massacre と近い語は？", "A": "slaughter（大量殺りく）", "B": "rescue", "C": "protect", "D": "heal", "correct": "A" }
+    ]
+  },
+  {
+    "english": "matchless",
+    "pron": "ˈmætʃləs",
+    "kana": "マッチレス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "match（匹敵するもの）+ -less（～のない）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文語"],
+    "meaning_main": "比類のない／並ぶもののない／無比の",
+    "description": "matchless（マッチレス）の意味と使い方。比べられるものがないほど優れている、無比・無双を表す形容詞を解説。",
+    "keywords": ["matchless 意味", "matchless 使い方", "比類のない 英語", "無比 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】比類のない・並ぶもののない", "note": "匹敵するもの（match）がないほど優れている。ほめ言葉。文語的" }
+    ],
+    "usages": [
+      { "title": "① 並ぶもののない優秀さ", "desc": "無比・無双", "example_en": "She has matchless skill as a violinist.", "example_ja": "彼女はバイオリニストとして比類のない技量を持つ。" },
+      { "title": "② 無比の美しさ", "desc": "比べられない", "example_en": "The view was of matchless beauty.", "example_ja": "その眺めは比類のない美しさだった。" }
+    ],
+    "warn": ["-less は『～のない』を表す接尾辞。match（匹敵するもの）＋less で『匹敵するものがない』。unmatched, unrivaled と近い"],
+    "etym_note": "match（対等のもの・匹敵するもの）に『～のない』の -less がついた語。『匹敵するものがない』の意。",
+    "etym_chain": [
+      { "node": "match", "sub": "匹敵するもの", "era": "古英語" },
+      { "node": "matchless", "sub": "比類のない", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "matchless skill", "ja": "比類のない技量" },
+      { "en": "matchless beauty", "ja": "無比の美しさ" },
+      { "en": "a matchless performance", "ja": "並ぶもののない演技" },
+      { "en": "of matchless quality", "ja": "無比の品質の" },
+      { "en": "matchless courage", "ja": "並ぶもののない勇気" },
+      { "en": "a matchless record", "ja": "破られない記録" }
+    ],
+    "related": [
+      { "en": "unmatched", "ja": "並ぶもののない" },
+      { "en": "unrivaled", "ja": "無比の" },
+      { "en": "peerless", "ja": "比類のない" },
+      { "en": "incomparable", "ja": "比較できないほどの" }
+    ],
+    "faq": [
+      { "q": "matchless の意味は？", "a": "匹敵するものがないほど優れている『比類のない・並ぶもののない』という意味のほめ言葉です。" },
+      { "q": "-less の意味は？", "a": "『～のない』を表す接尾辞です（match＋less＝匹敵するもののない）。" }
+    ],
+    "quiz": [
+      { "q": "matchless の意味は？", "A": "平凡な", "B": "比類のない・並ぶもののない", "C": "危険な", "D": "退屈な", "correct": "B" },
+      { "q": "matchless と近い語は？", "A": "unmatched（並ぶもののない）", "B": "matched", "C": "common", "D": "ordinary", "correct": "A" }
+    ]
+  },
+  {
+    "english": "matriarchy",
+    "pron": "ˈmeɪtriɑːrki",
+    "kana": "メイトリアーキー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 mater（母）+ ギリシャ語 archein（支配する）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "社会・人類学"],
+    "meaning_main": "母系社会／女性が支配する社会・制度",
+    "description": "matriarchy（メイトリアーキー）の意味と使い方。女性・母親が家族や社会の中心となって支配する母系社会を表す名詞を解説。反対語 patriarchy も。",
+    "keywords": ["matriarchy 意味", "matriarchy 使い方", "母系社会 英語", "matriarchy patriarchy"],
+    "meanings": [
+      { "hinshi": "【名詞】母系社会・女性支配の制度", "note": "女性・母親が家族や社会の権力・財産を受け継ぎ、中心となる社会や制度。反対は patriarchy（家父長制）。可算・不可算どちらも" }
+    ],
+    "usages": [
+      { "title": "① 女性中心の社会", "desc": "女性が権力を持つ", "example_en": "In a matriarchy, women hold the main power.", "example_ja": "母系社会では女性が主な権力を持つ。" },
+      { "title": "② 母系の家族", "desc": "母方の血筋を重んじる", "example_en": "Some cultures have a matriarchy.", "example_ja": "母系社会を持つ文化もある。" }
+    ],
+    "warn": ["反対は patriarchy（家父長制・男性支配）。-archy は『支配』を表す接尾辞（monarchy＝君主制）。matri-（母）は maternal と同語源"],
+    "etym_note": "ラテン語 mater（母）とギリシャ語 archein（支配する）から。『母による支配』の意。patriarchy（父による支配）と対をなす。",
+    "etym_chain": [
+      { "node": "mater", "sub": "母", "era": "ラテン語" },
+      { "node": "matriarchy", "sub": "母系社会", "era": "近代英語（19世紀）" }
+    ],
+    "phrases": [
+      { "en": "live in a matriarchy", "ja": "母系社会で暮らす" },
+      { "en": "a matriarchy and patriarchy", "ja": "母系制と父系制" },
+      { "en": "matriarchal society", "ja": "母系社会" },
+      { "en": "the head of the matriarchy", "ja": "母系社会の長" },
+      { "en": "a strong matriarchy", "ja": "強固な母系社会" },
+      { "en": "traces of matriarchy", "ja": "母系制の痕跡" }
+    ],
+    "related": [
+      { "en": "patriarchy", "ja": "家父長制" },
+      { "en": "matriarch", "ja": "女家長" },
+      { "en": "maternal", "ja": "母の" },
+      { "en": "monarchy", "ja": "君主制" }
+    ],
+    "faq": [
+      { "q": "matriarchy の反対は？", "a": "patriarchy（家父長制・男性支配の制度）です。" },
+      { "q": "-archy の意味は？", "a": "『支配・統治』を表す接尾辞です（monarchy＝君主制、anarchy＝無政府）。" }
+    ],
+    "quiz": [
+      { "q": "matriarchy の意味は？", "A": "母系社会・女性支配の制度", "B": "君主制", "C": "無政府状態", "D": "軍事政権", "correct": "A" },
+      { "q": "matriarchy の反対語は？", "A": "patriarchy", "B": "monarchy", "C": "anarchy", "D": "oligarchy", "correct": "A" }
+    ]
+  },
+  {
+    "english": "maturity",
+    "pron": "məˈtʃʊərəti",
+    "kana": "マチュアリティ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 maturus（熟した）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "成熟／円熟／（金融）満期",
+    "description": "maturity（マチュアリティ）の意味と使い方。心身の成熟・大人らしさ、また金融の満期を表す名詞を解説。",
+    "keywords": ["maturity 意味", "maturity 使い方", "成熟 英語", "満期 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】成熟・円熟", "note": "心身が十分に発達し、大人らしい分別があること。通常は不可算" },
+      { "hinshi": "【名詞】（金融）満期", "note": "債券・預金などの支払い期限。maturity date（満期日）" }
+    ],
+    "usages": [
+      { "title": "① 心の成熟", "desc": "大人らしい分別", "example_en": "She handled the situation with great maturity.", "example_ja": "彼女はその状況を実に大人らしく対処した。" },
+      { "title": "② 金融の満期", "desc": "支払い期限", "example_en": "The bond reaches maturity in ten years.", "example_ja": "その債券は10年で満期になる。" }
+    ],
+    "warn": ["形容詞は mature（成熟した・熟した）、動詞も mature（成熟する・満期になる）。反対は immaturity（未熟）"],
+    "etym_note": "ラテン語 maturus（熟した・時期にかなった）に由来する mature の名詞形。『熟していること』の意。",
+    "etym_chain": [
+      { "node": "maturus", "sub": "熟した", "era": "ラテン語" },
+      { "node": "mature", "sub": "成熟した", "era": "中英語" },
+      { "node": "maturity", "sub": "成熟", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "emotional maturity", "ja": "情緒的な成熟" },
+      { "en": "reach maturity", "ja": "成熟に達する・満期になる" },
+      { "en": "a sign of maturity", "ja": "成熟のしるし" },
+      { "en": "maturity date", "ja": "満期日" },
+      { "en": "act with maturity", "ja": "大人らしくふるまう" },
+      { "en": "sexual maturity", "ja": "性成熟" }
+    ],
+    "related": [
+      { "en": "mature", "ja": "成熟した" },
+      { "en": "immaturity", "ja": "未熟" },
+      { "en": "adulthood", "ja": "成人期" },
+      { "en": "ripeness", "ja": "熟していること" }
+    ],
+    "faq": [
+      { "q": "maturity の反対は？", "a": "immaturity（未熟）です。" },
+      { "q": "金融での maturity とは？", "a": "債券・預金などの支払い期限『満期』のことです。maturity date（満期日）と使います。" }
+    ],
+    "quiz": [
+      { "q": "maturity の意味は？", "A": "成熟・円熟／満期", "B": "未熟", "C": "混乱", "D": "破壊", "correct": "A" },
+      { "q": "maturity の形容詞形は？", "A": "mature", "B": "major", "C": "massive", "D": "manual", "correct": "A" }
+    ]
+  },
+  {
+    "english": "meaningless",
+    "pron": "ˈmiːnɪŋləs",
+    "kana": "ミーニングレス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "meaning（意味）+ -less（～のない）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "無意味な／意味のない／むなしい",
+    "description": "meaningless（ミーニングレス）の意味と使い方。意味や価値・目的がない、むなしいことを表す形容詞を解説。反対語 meaningful も。",
+    "keywords": ["meaningless 意味", "meaningless 使い方", "無意味 英語", "meaningless meaningful"],
+    "meanings": [
+      { "hinshi": "【形容詞】無意味な・意味のない・むなしい", "note": "意味・価値・目的を持たない。反対は meaningful（意味のある）" }
+    ],
+    "usages": [
+      { "title": "① 意味をなさない", "desc": "理解できない・無意味", "example_en": "The words were meaningless to me.", "example_ja": "その言葉は私には無意味だった。" },
+      { "title": "② むなしい・無価値な", "desc": "目的や価値がない", "example_en": "He felt his job was meaningless.", "example_ja": "彼は自分の仕事がむなしいと感じた。" }
+    ],
+    "warn": ["反対は meaningful（意味のある・意義深い）。-less は『～のない』を表す接尾辞。pointless（無意味な）と近い"],
+    "etym_note": "meaning（意味、mean＝意味するから）に『～のない』の -less がついた語。『意味のない』の意。",
+    "etym_chain": [
+      { "node": "mean", "sub": "意味する", "era": "古英語" },
+      { "node": "meaning", "sub": "意味", "era": "中英語" },
+      { "node": "meaningless", "sub": "無意味な", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "utterly meaningless", "ja": "まったく無意味な" },
+      { "en": "a meaningless gesture", "ja": "無意味な身ぶり" },
+      { "en": "seem meaningless", "ja": "むなしく思える" },
+      { "en": "meaningless words", "ja": "意味のない言葉" },
+      { "en": "a meaningless life", "ja": "むなしい人生" },
+      { "en": "become meaningless", "ja": "無意味になる" }
+    ],
+    "related": [
+      { "en": "meaningful", "ja": "意味のある" },
+      { "en": "pointless", "ja": "無意味な" },
+      { "en": "senseless", "ja": "無分別な・無意味な" },
+      { "en": "futile", "ja": "無益な" }
+    ],
+    "faq": [
+      { "q": "meaningless の反対は？", "a": "meaningful（意味のある・意義深い）です。" },
+      { "q": "pointless との違いは？", "a": "ほぼ同義ですが、meaningless は『意味・価値がない』、pointless は『目的・効果がない』を強調します。" }
+    ],
+    "quiz": [
+      { "q": "meaningless の意味は？", "A": "意味のある", "B": "無意味な・むなしい", "C": "正確な", "D": "貴重な", "correct": "B" },
+      { "q": "meaningless の反対語は？", "A": "meaningful", "B": "harmless", "C": "hopeless", "D": "helpless", "correct": "A" }
+    ]
+  },
+  {
+    "english": "medication",
+    "pron": "ˌmedɪˈkeɪʃən",
+    "kana": "メディケイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 medicari（治療する）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "医療・頻出"],
+    "meaning_main": "薬／薬物治療（病気の治療に使う薬）",
+    "description": "medication（メディケイション）の意味と使い方。病気の治療に使う薬、また薬による治療を表す名詞を解説。medicine との違いも。",
+    "keywords": ["medication 意味", "medication 使い方", "薬 英語", "medication medicine"],
+    "meanings": [
+      { "hinshi": "【名詞】薬・薬物治療", "note": "病気の治療のために処方・使用される薬、またそれを用いた治療。可算・不可算どちらも" }
+    ],
+    "usages": [
+      { "title": "① 処方された薬", "desc": "take medication（薬を服用する）", "example_en": "She takes medication for her blood pressure.", "example_ja": "彼女は血圧の薬を服用している。" },
+      { "title": "② 薬による治療", "desc": "on medication（薬物治療中で）", "example_en": "He is on medication for depression.", "example_ja": "彼はうつの薬物治療を受けている。" }
+    ],
+    "warn": ["medicine（薬・医学）とほぼ同義だが、medication は特に『処方・使用される薬（と治療）』を指す。動詞は medicate（薬を与える）"],
+    "etym_note": "ラテン語 medicari（治療する、medicus＝医者から）に由来。medicine, medical と同語源。『薬で治療すること』の意。",
+    "etym_chain": [
+      { "node": "medicari", "sub": "治療する", "era": "ラテン語" },
+      { "node": "medication", "sub": "薬・薬物治療", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "take medication", "ja": "薬を服用する" },
+      { "en": "on medication", "ja": "薬物治療中で" },
+      { "en": "prescribe medication", "ja": "薬を処方する" },
+      { "en": "prescription medication", "ja": "処方薬" },
+      { "en": "stop taking medication", "ja": "薬をやめる" },
+      { "en": "a course of medication", "ja": "一連の薬物治療" }
+    ],
+    "related": [
+      { "en": "medicine", "ja": "薬・医学" },
+      { "en": "drug", "ja": "薬・薬物" },
+      { "en": "prescription", "ja": "処方（せん）" },
+      { "en": "treatment", "ja": "治療" }
+    ],
+    "faq": [
+      { "q": "medication と medicine の違いは？", "a": "ほぼ同義ですが、medication は特に『処方・使用される薬（や薬物治療）』を、medicine は『薬』全般や『医学』も指します。" },
+      { "q": "on medication とは？", "a": "『（ある病気の）薬物治療を受けている』という意味です。" }
+    ],
+    "quiz": [
+      { "q": "medication の意味は？", "A": "薬・薬物治療", "B": "手術", "C": "運動", "D": "食事療法のみ", "correct": "A" },
+      { "q": "『薬を服用する』は？", "A": "take medication", "B": "make medication", "C": "read medication", "D": "wear medication", "correct": "A" }
+    ]
+  },
+  {
+    "english": "menfolk",
+    "pron": "ˈmenfoʊk",
+    "kana": "メンフォーク",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "men（男たち）+ folk（人々）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文語・古風"],
+    "meaning_main": "（一家・共同体の）男たち／男性たち",
+    "description": "menfolk（メンフォーク）の意味と使い方。家族や共同体の男性たちをまとめて指す、古風・方言的な名詞を解説。womenfolk との対も。",
+    "keywords": ["menfolk 意味", "menfolk 使い方", "男たち 英語", "menfolk womenfolk"],
+    "meanings": [
+      { "hinshi": "【名詞】（一家・共同体の）男たち", "note": "家族や集団の男性たちをまとめて指す。古風・方言的で、複数扱い。反対は womenfolk（女たち）" }
+    ],
+    "usages": [
+      { "title": "① 一家の男性たち", "desc": "まとめて指す", "example_en": "The menfolk went out to hunt.", "example_ja": "男たちは狩りに出かけた。" },
+      { "title": "② 共同体の男性", "desc": "村などの男たち", "example_en": "The menfolk gathered in the square.", "example_ja": "男衆が広場に集まった。" }
+    ],
+    "warn": ["古風・方言的な語。folk（人々）＋men。反対は womenfolk（女たち）。現代では men や the men を使うのが普通"],
+    "etym_note": "men（男たち）と folk（人々・一族）の複合。『一家・共同体の男性たち』の意。古風・方言的な集合名詞。",
+    "etym_chain": [
+      { "node": "men + folk", "sub": "男たちの一族", "era": "近代英語" },
+      { "node": "menfolk", "sub": "男たち", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "the menfolk", "ja": "男たち・男衆" },
+      { "en": "the menfolk of the village", "ja": "村の男たち" },
+      { "en": "menfolk and womenfolk", "ja": "男衆と女衆" },
+      { "en": "leave the menfolk", "ja": "男たちを残す" },
+      { "en": "the menfolk worked", "ja": "男たちは働いた" },
+      { "en": "gather the menfolk", "ja": "男衆を集める" }
+    ],
+    "related": [
+      { "en": "womenfolk", "ja": "女たち・女衆" },
+      { "en": "folk", "ja": "人々" },
+      { "en": "men", "ja": "男たち" },
+      { "en": "kinfolk", "ja": "親族" }
+    ],
+    "faq": [
+      { "q": "menfolk とは？", "a": "家族や共同体の男性たちをまとめて指す、古風・方言的な語です。" },
+      { "q": "反対は？", "a": "womenfolk（女たち・女衆）です。" }
+    ],
+    "quiz": [
+      { "q": "menfolk の意味は？", "A": "（一家・共同体の）男たち", "B": "労働組合", "C": "軍隊", "D": "会議", "correct": "A" },
+      { "q": "menfolk の反対語は？", "A": "womenfolk", "B": "kinfolk", "C": "menu", "D": "mankind", "correct": "A" }
+    ]
+  },
+  {
+    "english": "mesosphere",
+    "pron": "ˈmesoʊsfɪər",
+    "kana": "メソスフィア",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 mesos（中間の）+ sphere（層）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "科学・気象"],
+    "meaning_main": "中間圏（大気の層。成層圏の上、熱圏の下）",
+    "description": "mesosphere（メソスフィア）の意味と使い方。地球大気で成層圏の上、熱圏の下にある層、中間圏を表す気象・科学用語を解説。",
+    "keywords": ["mesosphere 意味", "mesosphere 使い方", "中間圏 英語", "大気 層"],
+    "meanings": [
+      { "hinshi": "【名詞】中間圏", "note": "地球大気の層の一つで、成層圏(stratosphere)の上、熱圏(thermosphere)の下（およそ高度50〜85km）。上ほど温度が下がり、流れ星が燃える層。通常は単数扱い" }
+    ],
+    "usages": [
+      { "title": "① 大気の中間の層", "desc": "成層圏と熱圏の間", "example_en": "The mesosphere lies above the stratosphere.", "example_ja": "中間圏は成層圏の上にある。" },
+      { "title": "② 流れ星が燃える層", "desc": "隕石が燃え尽きる", "example_en": "Most meteors burn up in the mesosphere.", "example_ja": "ほとんどの流れ星は中間圏で燃え尽きる。" }
+    ],
+    "warn": ["meso-（中間の）＋sphere（層）。大気の層は下から troposphere（対流圏）→stratosphere（成層圏）→mesosphere（中間圏）→thermosphere（熱圏）"],
+    "etym_note": "ギリシャ語 mesos（中間の）と sphere（球・層）から。『中間の層』の意。大気の層を表す気象用語。",
+    "etym_chain": [
+      { "node": "mesos + sphaira", "sub": "中間の球", "era": "古典ギリシャ語" },
+      { "node": "mesosphere", "sub": "中間圏", "era": "現代英語（気象）" }
+    ],
+    "phrases": [
+      { "en": "in the mesosphere", "ja": "中間圏で" },
+      { "en": "the top of the mesosphere", "ja": "中間圏の最上部" },
+      { "en": "temperatures in the mesosphere", "ja": "中間圏の気温" },
+      { "en": "meteors in the mesosphere", "ja": "中間圏の流れ星" },
+      { "en": "the mesosphere and thermosphere", "ja": "中間圏と熱圏" },
+      { "en": "study the mesosphere", "ja": "中間圏を研究する" }
+    ],
+    "related": [
+      { "en": "stratosphere", "ja": "成層圏" },
+      { "en": "thermosphere", "ja": "熱圏" },
+      { "en": "troposphere", "ja": "対流圏" },
+      { "en": "atmosphere", "ja": "大気" }
+    ],
+    "faq": [
+      { "q": "mesosphere とは？", "a": "地球大気で成層圏の上、熱圏の下にある層（中間圏）です。流れ星が燃える層です。" },
+      { "q": "大気の層の順番は？", "a": "下から対流圏→成層圏→中間圏→熱圏の順です。" }
+    ],
+    "quiz": [
+      { "q": "mesosphere の意味は？", "A": "中間圏（成層圏の上、熱圏の下）", "B": "海底", "C": "地殻", "D": "マントル", "correct": "A" },
+      { "q": "mesosphere でよく起こることは？", "A": "流れ星が燃え尽きる", "B": "雨が降る", "C": "火山が噴火する", "D": "地震が起きる", "correct": "A" }
+    ]
+  },
+  {
+    "english": "metatarsus",
+    "pron": "ˌmetəˈtɑːrsəs",
+    "kana": "メタターサス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 meta（後）+ tarsos（足首・足根）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "医学・解剖"],
+    "meaning_main": "中足骨（ちゅうそくこつ。足の甲を作る骨）",
+    "description": "metatarsus（メタターサス）の意味と使い方。足の甲を作る、足首の骨と指の骨の間にある骨の集まり、中足骨を表す解剖学用語を解説。",
+    "keywords": ["metatarsus 意味", "metatarsus 使い方", "中足骨 英語", "足の骨 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】中足骨", "note": "足の甲を作る、足根骨(tarsus)と足の指の骨の間にある5本の細長い骨（の集まり）。複数形は metatarsi。1本は metatarsal" }
+    ],
+    "usages": [
+      { "title": "① 足の甲の骨", "desc": "足首と指の間", "example_en": "The metatarsus forms the middle of the foot.", "example_ja": "中足骨は足の中央部分を作る。" },
+      { "title": "② スポーツでの骨折", "desc": "疲労骨折が多い部位", "example_en": "He fractured a bone in his metatarsus.", "example_ja": "彼は中足骨を骨折した。" }
+    ],
+    "warn": ["手の同じ位置の骨は metacarpus（中手骨）。tarsus（足根骨＝足首側）と phalanges（指骨）の間。1本ずつは metatarsal（bone）"],
+    "etym_note": "ギリシャ語 meta（後・向こう）と tarsos（足根・足の平らな部分）から。『足根骨の先（向こう）にある骨』の意。",
+    "etym_chain": [
+      { "node": "meta + tarsos", "sub": "足根の先", "era": "古典ギリシャ語" },
+      { "node": "metatarsus", "sub": "中足骨", "era": "近代英語（解剖）" }
+    ],
+    "phrases": [
+      { "en": "the bones of the metatarsus", "ja": "中足骨の骨" },
+      { "en": "a metatarsal fracture", "ja": "中足骨骨折" },
+      { "en": "the fifth metatarsus", "ja": "第5中足骨" },
+      { "en": "injure the metatarsus", "ja": "中足骨を痛める" },
+      { "en": "the tarsus and metatarsus", "ja": "足根骨と中足骨" },
+      { "en": "pain in the metatarsus", "ja": "中足骨の痛み" }
+    ],
+    "related": [
+      { "en": "tarsus", "ja": "足根骨" },
+      { "en": "metacarpus", "ja": "中手骨（手）" },
+      { "en": "phalanges", "ja": "指骨" },
+      { "en": "foot", "ja": "足" }
+    ],
+    "faq": [
+      { "q": "metatarsus とは？", "a": "足の甲を作る、足首の骨と足指の骨の間にある5本の細長い骨（中足骨）です。" },
+      { "q": "手の同じ骨は？", "a": "metacarpus（中手骨）です。" }
+    ],
+    "quiz": [
+      { "q": "metatarsus の意味は？", "A": "足の甲の骨（中足骨）", "B": "頭の骨", "C": "背骨", "D": "肋骨", "correct": "A" },
+      { "q": "手の同じ位置の骨は？", "A": "metacarpus（中手骨）", "B": "tarsus", "C": "femur", "D": "pelvis", "correct": "A" }
+    ]
+  },
+  {
+    "english": "mice",
+    "pron": "maɪs",
+    "kana": "マイス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "mouse（ネズミ）の複数形",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "頻出・文法"],
+    "meaning_main": "マウス（mouse）の複数形／数匹のネズミ",
+    "description": "mice（マイス）の意味と使い方。mouse（ネズミ）の複数形を表す名詞を解説。母音が変化する不規則複数のパターンも。",
+    "keywords": ["mice 意味", "mice 使い方", "mouse 複数形", "ネズミ 複数 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】マウス（mouse）の複数形", "note": "小さなネズミ mouse の複数形。mouse → mice と、語中の母音が変わる不規則な複数形" }
+    ],
+    "usages": [
+      { "title": "① 複数のネズミ", "desc": "mouse の複数形", "example_en": "There are mice in the attic.", "example_ja": "屋根裏にネズミがいる。" },
+      { "title": "② 母音が変わる複数", "desc": "man→men, foot→feet と同じ型", "example_en": "One mouse, two mice.", "example_ja": "ネズミ1匹、2匹（で mice）。" }
+    ],
+    "warn": ["コンピューターのマウスの複数形は mice / mouses 両方使われる。母音変化の不規則複数：mouse→mice, man→men, foot→feet, tooth→teeth"],
+    "etym_note": "mouse（ネズミ、古英語 mūs）の複数形。古英語の母音変化（i-mutation）の名残で、複数形で母音が変わる。",
+    "etym_chain": [
+      { "node": "mūs / mȳs", "sub": "ネズミ（単/複）", "era": "古英語" },
+      { "node": "mouse / mice", "sub": "ネズミ（単/複）", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "three blind mice", "ja": "3匹の目の見えないネズミ（童謡）" },
+      { "en": "catch mice", "ja": "ネズミを捕まえる" },
+      { "en": "field mice", "ja": "野ネズミ" },
+      { "en": "mice and rats", "ja": "ハツカネズミとドブネズミ" },
+      { "en": "as quiet as mice", "ja": "とても静かに" },
+      { "en": "lab mice", "ja": "実験用マウス" }
+    ],
+    "related": [
+      { "en": "mouse", "ja": "ネズミ（単数）" },
+      { "en": "rat", "ja": "ドブネズミ" },
+      { "en": "rodent", "ja": "げっ歯類" },
+      { "en": "feet", "ja": "足（foot の複数）" }
+    ],
+    "faq": [
+      { "q": "mouse の複数形は？", "a": "mice です。語中の母音が変わる不規則な複数形です。" },
+      { "q": "同じ変化をする語は？", "a": "man→men, foot→feet, tooth→teeth, goose→geese などです。" }
+    ],
+    "quiz": [
+      { "q": "mice は何の複数形？", "A": "mouse（ネズミ）", "B": "mile", "C": "mind", "D": "mix", "correct": "A" },
+      { "q": "mouse と同じ複数変化をする語は？", "A": "foot（→feet）", "B": "book", "C": "car", "D": "dog", "correct": "A" }
+    ]
+  }
+]
