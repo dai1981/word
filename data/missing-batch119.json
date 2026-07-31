@@ -1,0 +1,980 @@
+[
+  {
+    "english": "funnel",
+    "pron": "ˈfʌnəl",
+    "kana": "ファネル",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 infundibulum（注ぎ込むもの）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "日常・科学"],
+    "meaning_main": "じょうご／煙突／（動）（狭い所に）集める・流し込む",
+    "description": "funnel（ファネル）の意味と使い方。液体を注ぐじょうご、船の煙突、また『（一点に）集める』動詞を解説。",
+    "keywords": ["funnel 意味", "funnel 使い方", "じょうご 英語", "funnel 集める"],
+    "meanings": [
+      { "hinshi": "【名詞】じょうご", "note": "口の狭い容器に液体や粉を注ぐための円錐形の道具" },
+      { "hinshi": "【名詞】（船・機関車の）煙突", "note": "蒸気船などの太い煙突" },
+      { "hinshi": "【動詞】（狭い所に）流し込む・集中させる", "note": "資金・人・情報などを一方向に集める比喩でも使う" }
+    ],
+    "usages": [
+      { "title": "① 液体を注ぐじょうご", "desc": "円錐形の道具", "example_en": "She used a funnel to pour oil into the bottle.", "example_ja": "彼女はじょうごを使って油を瓶に注いだ。" },
+      { "title": "② 資金・人を集中させる（動詞）", "desc": "funnel money into ～（資金を～に注ぎ込む）", "example_en": "The company funneled money into research.", "example_ja": "その会社は研究に資金を注ぎ込んだ。" }
+    ],
+    "warn": ["過去形は funneled（米）/ funnelled（英）。動詞では『一点に集める・流し込む』の比喩で頻出"],
+    "etym_note": "ラテン語 infundibulum（注ぎ込む道具、infundere＝注ぎ込む）に由来。fund, refund と同じ fundere（注ぐ）の系統。",
+    "etym_chain": [
+      { "node": "fundere", "sub": "注ぐ", "era": "ラテン語" },
+      { "node": "infundibulum", "sub": "じょうご", "era": "ラテン語" },
+      { "node": "funnel", "sub": "じょうご・煙突", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "use a funnel", "ja": "じょうごを使う" },
+      { "en": "funnel money into", "ja": "資金を～に注ぎ込む" },
+      { "en": "funnel-shaped", "ja": "じょうご形の" },
+      { "en": "the ship's funnel", "ja": "船の煙突" },
+      { "en": "funnel resources", "ja": "資源を集中させる" },
+      { "en": "a sales funnel", "ja": "セールスファネル（販売の絞り込み）" }
+    ],
+    "related": [
+      { "en": "channel", "ja": "導く・水路" },
+      { "en": "chimney", "ja": "煙突" },
+      { "en": "pour", "ja": "注ぐ" },
+      { "en": "direct", "ja": "向ける" }
+    ],
+    "faq": [
+      { "q": "funnel の動詞の意味は？", "a": "『（狭い所に）流し込む・一点に集中させる』です。資金や人を集める比喩でよく使います。" },
+      { "q": "a sales funnel とは？", "a": "見込み客を段階的に絞り込んで購入へ導く『販売の漏斗（ファネル）』のことです。" }
+    ],
+    "quiz": [
+      { "q": "funnel の意味は？", "A": "じょうご／集中させる", "B": "はしご", "C": "毛布", "D": "地図", "correct": "A" },
+      { "q": "funnel money into ～ の意味は？", "A": "資金を～に注ぎ込む", "B": "資金を隠す", "C": "資金を返す", "D": "資金を数える", "correct": "A" }
+    ]
+  },
+  {
+    "english": "furl",
+    "pron": "fɜːrl",
+    "kana": "ファール",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古フランス語 ferlier（しっかり縛る）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "航海・文語"],
+    "meaning_main": "（帆・旗・傘を）巻き上げる／たたむ",
+    "description": "furl（ファール）の意味と使い方。帆や旗、傘などを巻いてたたむを表す動詞を解説。反対語 unfurl も。",
+    "keywords": ["furl 意味", "furl 使い方", "帆をたたむ 英語", "unfurl"],
+    "meanings": [
+      { "hinshi": "【動詞】巻き上げる・たたむ", "note": "帆・旗・傘などを巻いてまとめる。反対は unfurl（広げる）" }
+    ],
+    "usages": [
+      { "title": "① 帆を巻き上げる", "desc": "航海で帆をたたむ", "example_en": "The sailors furled the sails before the storm.", "example_ja": "船員たちは嵐の前に帆を巻き上げた。" },
+      { "title": "② 傘・旗をたたむ", "desc": "巻いてまとめる", "example_en": "He furled his umbrella as the rain stopped.", "example_ja": "雨がやんで彼は傘をたたんだ。" }
+    ],
+    "warn": ["反対は unfurl（帆・旗を広げる・繰り広げる）。文語的・専門的で日常会話ではまれ"],
+    "etym_note": "古フランス語 ferlier（fer＝しっかり＋lier＝縛る）に由来するとされる。『しっかり縛ってまとめる』の意。",
+    "etym_chain": [
+      { "node": "ferlier", "sub": "しっかり縛る", "era": "古フランス語" },
+      { "node": "furl", "sub": "巻き上げる", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "furl the sails", "ja": "帆を巻き上げる" },
+      { "en": "furl a flag", "ja": "旗を巻く" },
+      { "en": "furl an umbrella", "ja": "傘をたたむ" },
+      { "en": "furl and unfurl", "ja": "巻いたり広げたり" },
+      { "en": "neatly furl", "ja": "きちんと巻く" },
+      { "en": "furl the banner", "ja": "旗をたたむ" }
+    ],
+    "related": [
+      { "en": "unfurl", "ja": "広げる" },
+      { "en": "roll up", "ja": "巻き上げる" },
+      { "en": "fold", "ja": "たたむ" },
+      { "en": "wrap", "ja": "包む" }
+    ],
+    "faq": [
+      { "q": "furl の反対は？", "a": "unfurl（帆や旗を広げる・繰り広げる）です。" },
+      { "q": "日常で使いますか？", "a": "航海や文語での使用が中心で、日常会話ではまれです。" }
+    ],
+    "quiz": [
+      { "q": "furl の意味は？", "A": "広げる", "B": "（帆・旗を）巻き上げる・たたむ", "C": "破る", "D": "燃やす", "correct": "B" },
+      { "q": "furl の反対語は？", "A": "unfurl", "B": "curl", "C": "hurl", "D": "swirl", "correct": "A" }
+    ]
+  },
+  {
+    "english": "futon",
+    "pron": "ˈfuːtɒn",
+    "kana": "フートン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "日本語『布団』から",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "外来語・生活"],
+    "meaning_main": "布団／（欧米式の）ソファーベッド用マットレス",
+    "description": "futon（フートン）の意味と使い方。日本語由来で英語になった『布団』を表す名詞を解説。欧米での意味の違いも。",
+    "keywords": ["futon 意味", "futon 使い方", "布団 英語", "futon ソファ"],
+    "meanings": [
+      { "hinshi": "【名詞】布団", "note": "日本の敷き布団。英語圏では折りたたみ式ソファーベッドのマットレスを指すことも多い。可算名詞" }
+    ],
+    "usages": [
+      { "title": "① 日本式の布団", "desc": "床に敷く寝具", "example_en": "In Japan, many people sleep on a futon.", "example_ja": "日本では多くの人が布団で寝る。" },
+      { "title": "② 欧米のソファーベッド", "desc": "折りたたんでソファにもなる家具", "example_en": "We slept on the futon in the living room.", "example_ja": "私たちはリビングのソファーベッドで寝た。" }
+    ],
+    "warn": ["日本語由来。英語圏の futon は『折りたたみソファーベッド』を指すことが多く、日本の敷き布団とは形が異なる"],
+    "etym_note": "日本語『布団（ふとん）』がそのまま英語に取り入れられた語。20世紀後半に欧米へ広まった。",
+    "etym_chain": [
+      { "node": "布団", "sub": "敷き寝具", "era": "日本語" },
+      { "node": "futon", "sub": "布団・ソファーベッド", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "sleep on a futon", "ja": "布団で寝る" },
+      { "en": "a futon mattress", "ja": "布団のマットレス" },
+      { "en": "roll up the futon", "ja": "布団を巻く・たたむ" },
+      { "en": "a futon sofa", "ja": "ソファーベッド" },
+      { "en": "lay out a futon", "ja": "布団を敷く" },
+      { "en": "a comfortable futon", "ja": "快適な布団" }
+    ],
+    "related": [
+      { "en": "mattress", "ja": "マットレス" },
+      { "en": "bed", "ja": "ベッド" },
+      { "en": "sofa", "ja": "ソファ" },
+      { "en": "bedding", "ja": "寝具" }
+    ],
+    "faq": [
+      { "q": "英語の futon は日本の布団と同じ？", "a": "由来は同じですが、英語圏では折りたたみソファーベッドのマットレスを指すことが多いです。" },
+      { "q": "どの言語由来？", "a": "日本語『布団』です。" }
+    ],
+    "quiz": [
+      { "q": "futon の意味は？", "A": "布団・ソファーベッド", "B": "枕", "C": "毛布", "D": "机", "correct": "A" },
+      { "q": "futon はどの言語由来？", "A": "中国語", "B": "日本語", "C": "韓国語", "D": "タイ語", "correct": "B" }
+    ]
+  },
+  {
+    "english": "gall",
+    "pron": "ɡɔːl",
+    "kana": "ゴール",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 galla（胆汁）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文語・日常"],
+    "meaning_main": "ずうずうしさ／胆汁／（動）いらだたせる",
+    "description": "gall（ゴール）の意味と使い方。厚かましさ、胆汁、また『いらだたせる』を表す名詞・動詞を解説。",
+    "keywords": ["gall 意味", "gall 使い方", "厚かましさ 英語", "gall bladder"],
+    "meanings": [
+      { "hinshi": "【名詞】ずうずうしさ・厚かましさ", "note": "the gall to do で『ずうずうしくも～する（あつかましさ）』" },
+      { "hinshi": "【名詞】胆汁", "note": "肝臓が作る消化液。gall bladder（胆のう）" },
+      { "hinshi": "【動詞】いらだたせる・苦しめる", "note": "しゃくにさわらせる。it galls me that ～（～が悔しい）" }
+    ],
+    "usages": [
+      { "title": "① ずうずうしさ", "desc": "have the gall to do（ずうずうしくも～する）", "example_en": "He had the gall to ask for more money.", "example_ja": "彼はずうずうしくもさらにお金を求めた。" },
+      { "title": "② いらだたせる（動詞）", "desc": "しゃくにさわる", "example_en": "It galls me to see him get all the credit.", "example_ja": "彼が手柄を独り占めするのを見るとしゃくにさわる。" }
+    ],
+    "warn": ["have the gall to do（ずうずうしくも～する）が定番。gall bladder（胆のう）は解剖用語。goal（目標）と発音が近いので注意"],
+    "etym_note": "古英語 galla（胆汁）に由来。苦い胆汁の連想から『苦々しさ・にがにがしい厚かましさ』の意味に広がった。",
+    "etym_chain": [
+      { "node": "galla", "sub": "胆汁", "era": "古英語" },
+      { "node": "gall", "sub": "胆汁・苦々しさ", "era": "中英語" },
+      { "node": "gall", "sub": "ずうずうしさ", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "have the gall to", "ja": "ずうずうしくも～する" },
+      { "en": "the sheer gall", "ja": "まったくの厚かましさ" },
+      { "en": "gall bladder", "ja": "胆のう" },
+      { "en": "it galls me that", "ja": "～が悔しい" },
+      { "en": "bitter as gall", "ja": "胆汁のように苦い" },
+      { "en": "the gall of it", "ja": "そのずうずうしさときたら" }
+    ],
+    "related": [
+      { "en": "nerve", "ja": "ずうずうしさ" },
+      { "en": "audacity", "ja": "大胆さ・厚かましさ" },
+      { "en": "bile", "ja": "胆汁" },
+      { "en": "irritate", "ja": "いらだたせる" }
+    ],
+    "faq": [
+      { "q": "have the gall to do とは？", "a": "『ずうずうしくも～する』という意味の表現です。" },
+      { "q": "gall bladder とは？", "a": "胆汁をためる器官『胆のう』のことです。" }
+    ],
+    "quiz": [
+      { "q": "gall の意味の一つは？", "A": "謙虚さ", "B": "ずうずうしさ・厚かましさ", "C": "優しさ", "D": "正直さ", "correct": "B" },
+      { "q": "『ずうずうしくも～する』は？", "A": "have the gall to", "B": "make the gall of", "C": "take the gall at", "D": "give the gall for", "correct": "A" }
+    ]
+  },
+  {
+    "english": "garnet",
+    "pron": "ˈɡɑːrnɪt",
+    "kana": "ガーネット",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 granatum（ザクロ）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "宝石・鉱物"],
+    "meaning_main": "ガーネット（1月の誕生石／深紅の宝石）",
+    "description": "garnet（ガーネット）の意味と使い方。深い赤色をした宝石ガーネット、1月の誕生石を表す名詞を解説。",
+    "keywords": ["garnet 意味", "garnet 使い方", "ガーネット 英語", "1月 誕生石"],
+    "meanings": [
+      { "hinshi": "【名詞】ガーネット", "note": "深紅を代表とする宝石・鉱物。1月の誕生石。研磨材にも使う。可算・不可算どちらも" }
+    ],
+    "usages": [
+      { "title": "① 深紅の宝石", "desc": "1月の誕生石として有名", "example_en": "She wore a ring set with a deep-red garnet.", "example_ja": "彼女は深紅のガーネットをはめた指輪をつけていた。" },
+      { "title": "② 色の名前にも", "desc": "garnet red（ガーネット色）", "example_en": "The dress was a rich garnet color.", "example_ja": "そのドレスは深いガーネット色だった。" }
+    ],
+    "warn": ["名前はラテン語『ザクロ（granatum）』に由来。ザクロの実の色に似ることから"],
+    "etym_note": "ラテン語 granatum（ザクロ、grain＝粒から）に由来。ザクロの赤い実に色が似ることから宝石の名になった。pomegranate（ザクロ）と同語源。",
+    "etym_chain": [
+      { "node": "granatum", "sub": "ザクロ", "era": "ラテン語" },
+      { "node": "grenat", "sub": "深紅の石", "era": "古フランス語" },
+      { "node": "garnet", "sub": "ガーネット", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "a deep-red garnet", "ja": "深紅のガーネット" },
+      { "en": "a garnet ring", "ja": "ガーネットの指輪" },
+      { "en": "garnet red", "ja": "ガーネット色" },
+      { "en": "January's birthstone", "ja": "1月の誕生石" },
+      { "en": "a polished garnet", "ja": "磨いたガーネット" },
+      { "en": "set with garnets", "ja": "ガーネットをちりばめた" }
+    ],
+    "related": [
+      { "en": "gemstone", "ja": "宝石" },
+      { "en": "ruby", "ja": "ルビー" },
+      { "en": "birthstone", "ja": "誕生石" },
+      { "en": "mineral", "ja": "鉱物" }
+    ],
+    "faq": [
+      { "q": "garnet は何月の誕生石？", "a": "1月の誕生石です。" },
+      { "q": "名前の由来は？", "a": "ラテン語のザクロ（granatum）で、ザクロの実の赤色に似ることにちなみます。" }
+    ],
+    "quiz": [
+      { "q": "garnet の意味は？", "A": "青い宝石", "B": "深紅の宝石（ガーネット）", "C": "金属", "D": "貝殻", "correct": "B" },
+      { "q": "garnet は何月の誕生石？", "A": "1月", "B": "5月", "C": "9月", "D": "12月", "correct": "A" }
+    ]
+  },
+  {
+    "english": "garrulous",
+    "pron": "ˈɡærələs",
+    "kana": "ギャルラス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 garrire（おしゃべりする）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文語"],
+    "meaning_main": "おしゃべりな／（とりとめなく）多弁な",
+    "description": "garrulous（ギャルラス）の意味と使い方。とりとめなくよくしゃべる、多弁なを表す形容詞を解説。",
+    "keywords": ["garrulous 意味", "garrulous 使い方", "おしゃべり 英語", "多弁 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】おしゃべりな・多弁な", "note": "とりとめのないことをだらだら話す。しばしば否定的な語感" }
+    ],
+    "usages": [
+      { "title": "① よくしゃべる", "desc": "とりとめなく話し続ける", "example_en": "The garrulous old man talked for hours.", "example_ja": "そのおしゃべりな老人は何時間も話し続けた。" },
+      { "title": "② 冗長な", "desc": "話が長く要点がない様子", "example_en": "Her garrulous style made the story too long.", "example_ja": "彼女の多弁な語り口で話が長くなりすぎた。" }
+    ],
+    "warn": ["否定的な語感が強い。talkative（おしゃべりな、中立寄り）より『冗長でとりとめない』ニュアンス。反対は taciturn（無口な）"],
+    "etym_note": "ラテン語 garrire（ぺちゃくちゃしゃべる）に由来する garrulus から。擬音的な語源で『おしゃべり』を表す。",
+    "etym_chain": [
+      { "node": "garrire", "sub": "おしゃべりする", "era": "ラテン語" },
+      { "node": "garrulus", "sub": "おしゃべりな", "era": "ラテン語" },
+      { "node": "garrulous", "sub": "多弁な", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a garrulous old man", "ja": "おしゃべりな老人" },
+      { "en": "garrulous chatter", "ja": "とりとめないおしゃべり" },
+      { "en": "become garrulous", "ja": "多弁になる" },
+      { "en": "a garrulous host", "ja": "おしゃべりな主人" },
+      { "en": "garrulous and rambling", "ja": "多弁でとりとめない" },
+      { "en": "a garrulous companion", "ja": "おしゃべりな連れ" }
+    ],
+    "related": [
+      { "en": "talkative", "ja": "おしゃべりな" },
+      { "en": "loquacious", "ja": "多弁な" },
+      { "en": "chatty", "ja": "おしゃべりな" },
+      { "en": "taciturn", "ja": "無口な" }
+    ],
+    "faq": [
+      { "q": "garrulous と talkative の違いは？", "a": "talkative は中立寄り、garrulous は『冗長でとりとめない』という否定的な含みが強めです。" },
+      { "q": "反対は？", "a": "taciturn（無口な・口数の少ない）です。" }
+    ],
+    "quiz": [
+      { "q": "garrulous の意味は？", "A": "無口な", "B": "おしゃべりな・多弁な", "C": "正直な", "D": "臆病な", "correct": "B" },
+      { "q": "garrulous の反対語は？", "A": "taciturn", "B": "talkative", "C": "loquacious", "D": "chatty", "correct": "A" }
+    ]
+  },
+  {
+    "english": "gelato",
+    "pron": "dʒəˈlɑːtoʊ",
+    "kana": "ジェラート",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "イタリア語 gelato（凍った）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "食・外来語"],
+    "meaning_main": "ジェラート（イタリア式アイスクリーム）",
+    "description": "gelato（ジェラート）の意味と使い方。イタリア式の濃厚な氷菓ジェラートを表す名詞を解説。アイスクリームとの違いも。",
+    "keywords": ["gelato 意味", "gelato 使い方", "ジェラート 英語", "gelato ice cream"],
+    "meanings": [
+      { "hinshi": "【名詞】ジェラート", "note": "イタリア発祥の氷菓。一般的なアイスクリームより乳脂肪が少なく空気の含有も少ないため、濃厚でなめらか。通常は不可算" }
+    ],
+    "usages": [
+      { "title": "① イタリアの氷菓", "desc": "濃厚でなめらかな味わい", "example_en": "We had lemon gelato in Rome.", "example_ja": "私たちはローマでレモンのジェラートを食べた。" },
+      { "title": "② アイスクリームとの違い", "desc": "乳脂肪が少なく密度が高い", "example_en": "Gelato has less fat than regular ice cream.", "example_ja": "ジェラートは普通のアイスクリームより脂肪が少ない。" }
+    ],
+    "warn": ["イタリア語由来。複数形は gelati（イタリア語式）または gelatos。ice cream より乳脂肪が少なく濃密"],
+    "etym_note": "イタリア語 gelato（凍った、gelare＝凍らせる）に由来。ラテン語 gelare（凍る）から。gelatin（ゼラチン）と同語源。",
+    "etym_chain": [
+      { "node": "gelare", "sub": "凍らせる", "era": "ラテン語" },
+      { "node": "gelato", "sub": "凍ったもの", "era": "イタリア語" },
+      { "node": "gelato", "sub": "ジェラート", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a scoop of gelato", "ja": "ジェラート一すくい" },
+      { "en": "lemon gelato", "ja": "レモンのジェラート" },
+      { "en": "Italian gelato", "ja": "イタリアのジェラート" },
+      { "en": "artisan gelato", "ja": "手作りのジェラート" },
+      { "en": "eat gelato", "ja": "ジェラートを食べる" },
+      { "en": "a gelato shop", "ja": "ジェラート店" }
+    ],
+    "related": [
+      { "en": "ice cream", "ja": "アイスクリーム" },
+      { "en": "sorbet", "ja": "シャーベット" },
+      { "en": "dessert", "ja": "デザート" },
+      { "en": "frozen", "ja": "凍った" }
+    ],
+    "faq": [
+      { "q": "gelato と ice cream の違いは？", "a": "gelato は乳脂肪が少なく空気の含有も少ないため、より濃厚でなめらかです。" },
+      { "q": "どの言語由来？", "a": "イタリア語 gelato（凍ったもの）です。" }
+    ],
+    "quiz": [
+      { "q": "gelato の意味は？", "A": "イタリア式アイスクリーム", "B": "パスタ", "C": "ピザ", "D": "コーヒー", "correct": "A" },
+      { "q": "gelato はどの言語由来？", "A": "フランス語", "B": "イタリア語", "C": "スペイン語", "D": "ドイツ語", "correct": "B" }
+    ]
+  },
+  {
+    "english": "generalization",
+    "pron": "ˌdʒenərələˈzeɪʃən",
+    "kana": "ジェネラリゼイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "generalize（一般化する）+ -ation",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "論説・学術"],
+    "meaning_main": "一般化／概括／（十分な根拠のない）決めつけ",
+    "description": "generalization（ジェネラリゼイション）の意味と使い方。個々の例から一般法則を導くこと、また安易な決めつけを表す名詞を解説。",
+    "keywords": ["generalization 意味", "generalization 使い方", "一般化 英語", "決めつけ 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】一般化・概括", "note": "個々の事例から広く当てはまる結論を導くこと" },
+      { "hinshi": "【名詞】（安易な）決めつけ", "note": "十分な根拠なく全体を決めつけること。a sweeping generalization（乱暴な一般化）" }
+    ],
+    "usages": [
+      { "title": "① 一般化", "desc": "例からルールを導く", "example_en": "From these cases, we can make a generalization.", "example_ja": "これらの事例から一般化ができる。" },
+      { "title": "② 乱暴な決めつけ", "desc": "根拠の薄い一括りにする言い方", "example_en": "That's a sweeping generalization about teenagers.", "example_ja": "それはティーンエイジャーに対する乱暴な決めつけだ。" }
+    ],
+    "warn": ["米 generalization / 英 generalisation。a sweeping generalization（乱暴な一般化）は否定的な決まり文句。動詞は generalize"],
+    "etym_note": "generalize（一般化する、general＝一般の＋-ize）に -ation がついた語。general はラテン語 genus（種類）に由来。",
+    "etym_chain": [
+      { "node": "genus", "sub": "種類", "era": "ラテン語" },
+      { "node": "generalize", "sub": "一般化する", "era": "近代英語" },
+      { "node": "generalization", "sub": "一般化", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a sweeping generalization", "ja": "乱暴な一般化" },
+      { "en": "make a generalization", "ja": "一般化する" },
+      { "en": "a broad generalization", "ja": "大まかな概括" },
+      { "en": "avoid generalizations", "ja": "決めつけを避ける" },
+      { "en": "a valid generalization", "ja": "妥当な一般化" },
+      { "en": "overgeneralization", "ja": "過度の一般化" }
+    ],
+    "related": [
+      { "en": "generalize", "ja": "一般化する" },
+      { "en": "assumption", "ja": "思い込み" },
+      { "en": "stereotype", "ja": "固定観念" },
+      { "en": "abstraction", "ja": "抽象化" }
+    ],
+    "faq": [
+      { "q": "a sweeping generalization とは？", "a": "十分な根拠なく全体を一括りにする『乱暴な一般化・決めつけ』のことです。" },
+      { "q": "つづりの違いは？", "a": "米 generalization / 英 generalisation です。" }
+    ],
+    "quiz": [
+      { "q": "generalization の意味は？", "A": "一般化・概括／決めつけ", "B": "分解", "C": "翻訳", "D": "暗号化", "correct": "A" },
+      { "q": "『乱暴な一般化』は？", "A": "a sweeping generalization", "B": "a narrow generalization", "C": "a small generalization", "D": "a quiet generalization", "correct": "A" }
+    ]
+  },
+  {
+    "english": "gentleness",
+    "pron": "ˈdʒentlnəs",
+    "kana": "ジェントルネス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "gentle（優しい）+ -ness",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "頻出語"],
+    "meaning_main": "優しさ／穏やかさ／（扱いの）丁寧さ",
+    "description": "gentleness（ジェントルネス）の意味と使い方。人への優しさ、穏やかさ、扱いの丁寧さを表す名詞を解説。",
+    "keywords": ["gentleness 意味", "gentleness 使い方", "優しさ 英語", "穏やかさ 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】優しさ・穏やかさ", "note": "人・動物・物への思いやりのある穏やかな扱い。通常は不可算" }
+    ],
+    "usages": [
+      { "title": "① 人への優しさ", "desc": "思いやりのある穏やかさ", "example_en": "She treated the patients with great gentleness.", "example_ja": "彼女は患者たちをとても優しく扱った。" },
+      { "title": "② 扱いの丁寧さ", "desc": "物や動物へのそっとした扱い", "example_en": "Handle the baby bird with gentleness.", "example_ja": "その雛はそっと丁寧に扱いなさい。" }
+    ],
+    "warn": ["反対は roughness / harshness（乱暴さ・厳しさ）。形容詞は gentle（優しい・穏やかな）"],
+    "etym_note": "gentle（優しい・穏やかな、もとは『家柄のよい』）に名詞化の -ness がついた語。ラテン語 gentilis（同族の）に由来。",
+    "etym_chain": [
+      { "node": "gentilis", "sub": "同族の・家柄のよい", "era": "ラテン語" },
+      { "node": "gentle", "sub": "優しい", "era": "中英語" },
+      { "node": "gentleness", "sub": "優しさ", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "with gentleness", "ja": "優しく" },
+      { "en": "treat with gentleness", "ja": "優しく扱う" },
+      { "en": "a sense of gentleness", "ja": "穏やかさ" },
+      { "en": "gentleness and kindness", "ja": "優しさと親切" },
+      { "en": "handle with gentleness", "ja": "そっと扱う" },
+      { "en": "quiet gentleness", "ja": "静かな優しさ" }
+    ],
+    "related": [
+      { "en": "gentle", "ja": "優しい" },
+      { "en": "kindness", "ja": "親切" },
+      { "en": "tenderness", "ja": "優しさ・思いやり" },
+      { "en": "harshness", "ja": "厳しさ" }
+    ],
+    "faq": [
+      { "q": "gentleness の反対は？", "a": "roughness（乱暴さ）や harshness（厳しさ）です。" },
+      { "q": "形容詞形は？", "a": "gentle（優しい・穏やかな）です。" }
+    ],
+    "quiz": [
+      { "q": "gentleness の意味は？", "A": "乱暴さ", "B": "優しさ・穏やかさ", "C": "怒り", "D": "冷たさ", "correct": "B" },
+      { "q": "gentleness の形容詞形は？", "A": "gentle", "B": "genuine", "C": "general", "D": "generous", "correct": "A" }
+    ]
+  },
+  {
+    "english": "genus",
+    "pron": "ˈdʒiːnəs",
+    "kana": "ジーナス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 genus（種類・生まれ）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "生物・分類"],
+    "meaning_main": "（生物分類の）属／種類",
+    "description": "genus（ジーナス）の意味と使い方。生物分類で『科』と『種』の間に位置する『属』を表す名詞を解説。複数形にも注意。",
+    "keywords": ["genus 意味", "genus 使い方", "属 英語", "genus species"],
+    "meanings": [
+      { "hinshi": "【名詞】（生物分類の）属", "note": "科(family)と種(species)の間の分類階級。学名の最初の語が属名。複数形は genera" }
+    ],
+    "usages": [
+      { "title": "① 生物分類の属", "desc": "科と種の間の階級", "example_en": "The genus Panthera includes lions and tigers.", "example_ja": "パンテラ属にはライオンやトラが含まれる。" },
+      { "title": "② 学名の属名", "desc": "学名の最初の語（大文字）", "example_en": "In 'Homo sapiens', 'Homo' is the genus.", "example_ja": "『ホモ・サピエンス』の Homo は属名だ。" }
+    ],
+    "warn": ["複数形は genera（-us→-era の不規則）。分類の順は界・門・綱・目・科・属・種。学名は『属＋種』"],
+    "etym_note": "ラテン語 genus（生まれ・種類・血統）に由来。gene（遺伝子）、general, generate と同語源で『生まれ・種類』が核心。",
+    "etym_chain": [
+      { "node": "genus", "sub": "種類・生まれ", "era": "ラテン語" },
+      { "node": "genus", "sub": "属（分類）", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "the genus name", "ja": "属名" },
+      { "en": "a new genus", "ja": "新しい属" },
+      { "en": "belong to the genus", "ja": "～属に属する" },
+      { "en": "several genera", "ja": "いくつかの属" },
+      { "en": "genus and species", "ja": "属と種" },
+      { "en": "classify by genus", "ja": "属で分類する" }
+    ],
+    "related": [
+      { "en": "species", "ja": "種" },
+      { "en": "family", "ja": "科" },
+      { "en": "classification", "ja": "分類" },
+      { "en": "taxonomy", "ja": "分類学" }
+    ],
+    "faq": [
+      { "q": "genus の複数形は？", "a": "genera（ジェネラ）です。-us が -era になる不規則変化です。" },
+      { "q": "genus と species の違いは？", "a": "genus は『属』、species は『種』で、属の方が上位の分類階級です。学名は属名＋種小名で表します。" }
+    ],
+    "quiz": [
+      { "q": "genus の意味は？", "A": "（生物分類の）属", "B": "細胞", "C": "生息地", "D": "進化", "correct": "A" },
+      { "q": "genus の複数形は？", "A": "genuses only", "B": "genera", "C": "geni", "D": "genii", "correct": "B" }
+    ]
+  },
+  {
+    "english": "geodesy",
+    "pron": "dʒiːˈɒdɪsi",
+    "kana": "ジオデシー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 geodaisia（土地の分割）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "科学・専門"],
+    "meaning_main": "測地学（地球の形・大きさを測る学問）",
+    "description": "geodesy（ジオデシー）の意味と使い方。地球の形・大きさ・重力場を精密に測定する学問、測地学を表す名詞を解説。",
+    "keywords": ["geodesy 意味", "geodesy 使い方", "測地学 英語", "geodesy 地球"],
+    "meanings": [
+      { "hinshi": "【名詞】測地学", "note": "地球の形・大きさ・重力場や、地表の点の正確な位置を測定・研究する学問。通常は不可算" }
+    ],
+    "usages": [
+      { "title": "① 地球を測る学問", "desc": "地図やGPSの基礎", "example_en": "Geodesy is essential for making accurate maps.", "example_ja": "測地学は正確な地図作りに不可欠だ。" },
+      { "title": "② GPSとの関係", "desc": "衛星測位の基礎にもなる", "example_en": "Modern geodesy relies on satellite data.", "example_ja": "現代の測地学は衛星データに依存する。" }
+    ],
+    "warn": ["形容詞は geodetic（測地の）。geology（地質学）とは別。geo-（地球）＋ -desy（分割・測定）"],
+    "etym_note": "ギリシャ語 geodaisia（gē＝地球＋daiein＝分ける＝土地を分割・測量する）に由来。geography（地理学）と同じ geo- の語。",
+    "etym_chain": [
+      { "node": "gē", "sub": "地球・大地", "era": "古典ギリシャ語" },
+      { "node": "geodaisia", "sub": "土地の分割・測量", "era": "ギリシャ語" },
+      { "node": "geodesy", "sub": "測地学", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "the study of geodesy", "ja": "測地学の研究" },
+      { "en": "satellite geodesy", "ja": "衛星測地学" },
+      { "en": "modern geodesy", "ja": "現代の測地学" },
+      { "en": "geodesy and mapping", "ja": "測地学と地図作成" },
+      { "en": "principles of geodesy", "ja": "測地学の原理" },
+      { "en": "physical geodesy", "ja": "物理測地学" }
+    ],
+    "related": [
+      { "en": "geography", "ja": "地理学" },
+      { "en": "surveying", "ja": "測量" },
+      { "en": "cartography", "ja": "地図作成学" },
+      { "en": "geodetic", "ja": "測地の" }
+    ],
+    "faq": [
+      { "q": "geodesy と geology の違いは？", "a": "geodesy は地球の形や大きさを測る測地学、geology は地球の岩石や構造を研究する地質学です。" },
+      { "q": "何の役に立つ？", "a": "正確な地図作り、GPSなどの衛星測位、地殻変動の観測などに使われます。" }
+    ],
+    "quiz": [
+      { "q": "geodesy の意味は？", "A": "地質学", "B": "測地学（地球の形を測る学問）", "C": "気象学", "D": "天文学", "correct": "B" },
+      { "q": "geodesy の geo- が表すのは？", "A": "地球・大地", "B": "水", "C": "火", "D": "空気", "correct": "A" }
+    ]
+  },
+  {
+    "english": "geopolitics",
+    "pron": "ˌdʒiːoʊˈpɒlɪtɪks",
+    "kana": "ジオポリティクス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "geo（地理）+ politics（政治）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "政治・時事"],
+    "meaning_main": "地政学／地理と政治の関係",
+    "description": "geopolitics（ジオポリティクス）の意味と使い方。地理的条件が国際政治や国家の力関係に与える影響を研究する地政学を解説。",
+    "keywords": ["geopolitics 意味", "geopolitics 使い方", "地政学 英語", "geopolitical"],
+    "meanings": [
+      { "hinshi": "【名詞】地政学", "note": "地理的な位置・資源・国境などが国際政治や国家間の力関係に与える影響を研究する分野。単数扱い" }
+    ],
+    "usages": [
+      { "title": "① 地理と政治の関係", "desc": "位置や資源が国際関係を左右する", "example_en": "The region's geopolitics are complex.", "example_ja": "その地域の地政学は複雑だ。" },
+      { "title": "② 形容詞 geopolitical", "desc": "地政学的な緊張など", "example_en": "Rising geopolitical tensions worried investors.", "example_ja": "高まる地政学的緊張が投資家を不安にさせた。" }
+    ],
+    "warn": ["形容詞は geopolitical（地政学的な）。-ics で終わるが単数扱い（politics と同様）"],
+    "etym_note": "geo（地理・地球）と politics（政治）の複合。地理的条件と政治権力の関係を研究する分野として20世紀に確立した。",
+    "etym_chain": [
+      { "node": "gē", "sub": "地球・大地", "era": "古典ギリシャ語" },
+      { "node": "geopolitics", "sub": "地政学", "era": "現代英語（20世紀）" }
+    ],
+    "phrases": [
+      { "en": "global geopolitics", "ja": "世界の地政学" },
+      { "en": "geopolitical tensions", "ja": "地政学的緊張" },
+      { "en": "the geopolitics of oil", "ja": "石油の地政学" },
+      { "en": "regional geopolitics", "ja": "地域の地政学" },
+      { "en": "geopolitical risk", "ja": "地政学的リスク" },
+      { "en": "shifting geopolitics", "ja": "変化する地政学" }
+    ],
+    "related": [
+      { "en": "politics", "ja": "政治" },
+      { "en": "geography", "ja": "地理" },
+      { "en": "diplomacy", "ja": "外交" },
+      { "en": "strategy", "ja": "戦略" }
+    ],
+    "faq": [
+      { "q": "geopolitics とは？", "a": "地理的条件（位置・資源・国境など）が国際政治や国家間の力関係に与える影響を研究する『地政学』です。" },
+      { "q": "形容詞形は？", "a": "geopolitical（地政学的な）です。" }
+    ],
+    "quiz": [
+      { "q": "geopolitics の意味は？", "A": "地質学", "B": "地政学（地理と政治の関係）", "C": "地図作成", "D": "気象学", "correct": "B" },
+      { "q": "geopolitics の形容詞形は？", "A": "geopolitical", "B": "geological", "C": "geographic", "D": "geodetic", "correct": "A" }
+    ]
+  },
+  {
+    "english": "german",
+    "pron": "ˈdʒɜːrmən",
+    "kana": "ジャーマン",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 Germanus（ゲルマン人）",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A1", "国・言語"],
+    "meaning_main": "ドイツの／ドイツ人／ドイツ語",
+    "description": "German（ジャーマン）の意味と使い方。ドイツの（形容詞）、ドイツ人・ドイツ語（名詞）を表す語を解説。常に大文字。",
+    "keywords": ["German 意味", "German 使い方", "ドイツ 英語", "ドイツ語 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】ドイツの", "note": "ドイツやドイツ人・ドイツ語に関する。固有形容詞で常に大文字 German" },
+      { "hinshi": "【名詞】ドイツ人／ドイツ語", "note": "ドイツの国民、またはドイツ語（言語）" }
+    ],
+    "usages": [
+      { "title": "① ドイツの（形容詞）", "desc": "German car（ドイツ車）", "example_en": "He drives a German car.", "example_ja": "彼はドイツ車に乗っている。" },
+      { "title": "② ドイツ語・ドイツ人（名詞）", "desc": "言語や国民を指す", "example_en": "She speaks German fluently.", "example_ja": "彼女はドイツ語を流ちょうに話す。" }
+    ],
+    "warn": ["常に大文字 German。国名は Germany、言語・国民・形容詞は German。germane（密接に関連した）は別語"],
+    "etym_note": "ラテン語 Germanus（ゲルマン人・ドイツ人）に由来。国名 Germany もここから。ドイツ語自体では Deutsch と呼ぶ。",
+    "etym_chain": [
+      { "node": "Germanus", "sub": "ゲルマン人", "era": "ラテン語" },
+      { "node": "German", "sub": "ドイツの・ドイツ人", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "speak German", "ja": "ドイツ語を話す" },
+      { "en": "a German car", "ja": "ドイツ車" },
+      { "en": "German food", "ja": "ドイツ料理" },
+      { "en": "the German language", "ja": "ドイツ語" },
+      { "en": "a German citizen", "ja": "ドイツ国民" },
+      { "en": "German culture", "ja": "ドイツ文化" }
+    ],
+    "related": [
+      { "en": "germany", "ja": "ドイツ（国名）" },
+      { "en": "french", "ja": "フランスの・フランス語" },
+      { "en": "european", "ja": "ヨーロッパの" },
+      { "en": "language", "ja": "言語" }
+    ],
+    "faq": [
+      { "q": "German と Germany の違いは？", "a": "Germany は国名『ドイツ』、German はドイツの（形容詞）・ドイツ人・ドイツ語です。" },
+      { "q": "germane と同じですか？", "a": "違います。germane は『密接に関連した』という別の語です。" }
+    ],
+    "quiz": [
+      { "q": "German の意味は？", "A": "フランスの", "B": "ドイツの／ドイツ人／ドイツ語", "C": "オランダの", "D": "スイスの", "correct": "B" },
+      { "q": "ドイツ（国名）は？", "A": "German", "B": "Germany", "C": "Germanic", "D": "Germane", "correct": "B" }
+    ]
+  },
+  {
+    "english": "geta",
+    "pron": "ˈɡetə",
+    "kana": "ゲタ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "日本語『下駄』から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文化・外来語"],
+    "meaning_main": "下駄（日本の伝統的な木製サンダル）",
+    "description": "geta（ゲタ）の意味と使い方。日本語由来で英語になった、木製の台に鼻緒をつけた伝統的な履物『下駄』を解説。",
+    "keywords": ["geta 意味", "geta 使い方", "下駄 英語", "geta 履物"],
+    "meanings": [
+      { "hinshi": "【名詞】下駄", "note": "木の台に二本の歯をつけ、鼻緒で足を固定する日本の伝統的な履物。可算名詞（複数も geta）" }
+    ],
+    "usages": [
+      { "title": "① 日本の伝統的履物", "desc": "浴衣や着物に合わせる", "example_en": "She wore geta with her summer kimono.", "example_ja": "彼女は夏の着物に下駄を合わせた。" },
+      { "title": "② カランという音", "desc": "歩くと特徴的な音がする", "example_en": "You can hear the clack of geta on the stone path.", "example_ja": "石畳で下駄のカランという音が聞こえる。" }
+    ],
+    "warn": ["日本語由来の外来語。木製の台に鼻緒(thong)をつけた履物。sandal（サンダル）の一種として説明されることが多い"],
+    "etym_note": "日本語『下駄（げた）』がそのまま英語に取り入れられた語。日本文化を紹介する文脈で使われる。",
+    "etym_chain": [
+      { "node": "下駄", "sub": "木製の履物", "era": "日本語" },
+      { "node": "geta", "sub": "下駄", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "wear geta", "ja": "下駄をはく" },
+      { "en": "a pair of geta", "ja": "下駄一足" },
+      { "en": "wooden geta", "ja": "木製の下駄" },
+      { "en": "the clack of geta", "ja": "下駄の音" },
+      { "en": "traditional geta", "ja": "伝統的な下駄" },
+      { "en": "geta and kimono", "ja": "下駄と着物" }
+    ],
+    "related": [
+      { "en": "sandal", "ja": "サンダル" },
+      { "en": "kimono", "ja": "着物" },
+      { "en": "footwear", "ja": "履物" },
+      { "en": "thong", "ja": "鼻緒" }
+    ],
+    "faq": [
+      { "q": "geta とは何ですか？", "a": "木の台に鼻緒をつけた、日本の伝統的な木製の履物『下駄』です。" },
+      { "q": "どの言語由来？", "a": "日本語『下駄』です。" }
+    ],
+    "quiz": [
+      { "q": "geta の意味は？", "A": "着物", "B": "下駄（木製の履物）", "C": "扇子", "D": "帯", "correct": "B" },
+      { "q": "geta はどの言語由来？", "A": "中国語", "B": "日本語", "C": "韓国語", "D": "タイ語", "correct": "B" }
+    ]
+  },
+  {
+    "english": "geyser",
+    "pron": "ˈɡaɪzər",
+    "kana": "ガイザー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "アイスランド語 Geysir（噴出する温泉の名）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "自然・地学"],
+    "meaning_main": "間欠泉（熱湯や蒸気を噴き上げる温泉）",
+    "description": "geyser（ガイザー）の意味と使い方。地下から熱湯や蒸気を周期的に噴き上げる間欠泉を表す名詞を解説。",
+    "keywords": ["geyser 意味", "geyser 使い方", "間欠泉 英語", "geyser 発音"],
+    "meanings": [
+      { "hinshi": "【名詞】間欠泉", "note": "地下で熱せられた水が蒸気とともに周期的に噴き上がる温泉。可算名詞" }
+    ],
+    "usages": [
+      { "title": "① 噴き上がる温泉", "desc": "熱湯と蒸気を吹き上げる", "example_en": "The geyser erupted, shooting hot water into the air.", "example_ja": "間欠泉が噴き上がり、熱湯を空中へ吹き上げた。" },
+      { "title": "② 有名な間欠泉", "desc": "アメリカのオールドフェイスフルなど", "example_en": "Old Faithful is a famous geyser in Yellowstone.", "example_ja": "オールドフェイスフルはイエローストーンの有名な間欠泉だ。" }
+    ],
+    "warn": ["発音は[ˈɡaɪzər]（ガイザー）。アイスランドの間欠泉 Geysir が語源。英で『瞬間湯沸かし器』の意味もある"],
+    "etym_note": "アイスランドの有名な間欠泉 Geysir（『噴き出すもの』、geysa＝噴出する）に由来。固有名から一般名詞になった。",
+    "etym_chain": [
+      { "node": "geysa", "sub": "噴出する", "era": "古ノルド語" },
+      { "node": "Geysir", "sub": "間欠泉の名", "era": "アイスランド語" },
+      { "node": "geyser", "sub": "間欠泉", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a geyser erupts", "ja": "間欠泉が噴き上がる" },
+      { "en": "a spouting geyser", "ja": "噴き上げる間欠泉" },
+      { "en": "hot spring and geyser", "ja": "温泉と間欠泉" },
+      { "en": "a geyser of steam", "ja": "蒸気の噴出" },
+      { "en": "a famous geyser", "ja": "有名な間欠泉" },
+      { "en": "watch the geyser", "ja": "間欠泉を眺める" }
+    ],
+    "related": [
+      { "en": "hot spring", "ja": "温泉" },
+      { "en": "eruption", "ja": "噴出" },
+      { "en": "volcano", "ja": "火山" },
+      { "en": "steam", "ja": "蒸気" }
+    ],
+    "faq": [
+      { "q": "geyser の発音は？", "a": "[ˈɡaɪzər]（ガイザー）です。つづりから『ゲイザー』と読み間違えやすいので注意。" },
+      { "q": "geyser の由来は？", "a": "アイスランドの有名な間欠泉 Geysir の名が一般名詞になったものです。" }
+    ],
+    "quiz": [
+      { "q": "geyser の意味は？", "A": "滝", "B": "間欠泉（熱湯を噴き上げる温泉）", "C": "氷河", "D": "洞窟", "correct": "B" },
+      { "q": "geyser の語源はどこの言葉？", "A": "アイスランド語", "B": "スペイン語", "C": "日本語", "D": "アラビア語", "correct": "A" }
+    ]
+  },
+  {
+    "english": "giga",
+    "pron": "ˈɡɪɡə",
+    "kana": "ギガ",
+    "hinshi": "接頭辞（口語で名詞的にも）",
+    "ld_pos": "接頭辞",
+    "ld_etym": "ギリシャ語 gigas（巨人）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "IT・単位"],
+    "meaning_main": "ギガ（10億倍を表す接頭辞、G）",
+    "description": "giga（ギガ）の意味と使い方。10億倍（10⁹）を表す単位の接頭辞を解説。gigabyte など、日本語の『ギガ＝通信量』との違いも。",
+    "keywords": ["giga 意味", "giga 使い方", "ギガ 単位", "gigabyte"],
+    "meanings": [
+      { "hinshi": "【接頭辞】ギガ（10億倍）", "note": "10の9乗（10億）倍を表す単位の接頭辞。記号は G。gigabyte（ギガバイト）、gigahertz（ギガヘルツ）など" }
+    ],
+    "usages": [
+      { "title": "① 10億倍を表す", "desc": "gigabyte, gigawatt など", "example_en": "A gigabyte is about one billion bytes.", "example_ja": "1ギガバイトは約10億バイトだ。" },
+      { "title": "② 日本語の『ギガ』", "desc": "日本では通信データ量の口語にも", "example_en": "\"Giga\" alone is not used for mobile data in English.", "example_ja": "英語では『ギガ』単独でモバイル通信量を指す使い方はしない。" }
+    ],
+    "warn": ["単独の名詞ではなく接頭辞。日本語の『ギガが減る（通信量）』という言い方は和製で、英語では data (usage) と言う"],
+    "etym_note": "ギリシャ語 gigas（巨人）に由来する国際単位系(SI)の接頭辞。giant（巨人）と同語源。10億(10⁹)倍を表す。",
+    "etym_chain": [
+      { "node": "gigas", "sub": "巨人", "era": "古典ギリシャ語" },
+      { "node": "giga-", "sub": "10億倍", "era": "現代（SI単位）" }
+    ],
+    "phrases": [
+      { "en": "a gigabyte (GB)", "ja": "ギガバイト" },
+      { "en": "a gigahertz (GHz)", "ja": "ギガヘルツ" },
+      { "en": "a gigawatt (GW)", "ja": "ギガワット" },
+      { "en": "several gigabytes of data", "ja": "数ギガバイトのデータ" },
+      { "en": "giga- means billion", "ja": "ギガは10億を意味する" },
+      { "en": "storage in gigabytes", "ja": "ギガバイト単位の容量" }
+    ],
+    "related": [
+      { "en": "mega", "ja": "メガ（100万倍）" },
+      { "en": "tera", "ja": "テラ（1兆倍）" },
+      { "en": "byte", "ja": "バイト" },
+      { "en": "kilo", "ja": "キロ（1000倍）" }
+    ],
+    "faq": [
+      { "q": "giga はどのくらいの大きさ？", "a": "10億（10の9乗）倍を表します。1つ下は mega（100万倍）、1つ上は tera（1兆倍）です。" },
+      { "q": "『ギガが減る』は英語で？", "a": "その言い方は和製です。英語では I'm running low on data. などと言います。" }
+    ],
+    "quiz": [
+      { "q": "giga が表す大きさは？", "A": "100万倍", "B": "10億倍", "C": "1000倍", "D": "1兆倍", "correct": "B" },
+      { "q": "giga の1つ上の接頭辞は？", "A": "mega", "B": "tera", "C": "kilo", "D": "milli", "correct": "B" }
+    ]
+  },
+  {
+    "english": "glycerol",
+    "pron": "ˈɡlɪsərɒl",
+    "kana": "グリセロール",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 glykeros（甘い）+ -ol",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "化学・生物"],
+    "meaning_main": "グリセロール（グリセリン）／甘みのある無色の液体",
+    "description": "glycerol（グリセロール）の意味と使い方。脂肪の構成成分で、化粧品や食品にも使われる無色で甘い液体を表す化学用語を解説。",
+    "keywords": ["glycerol 意味", "glycerol 使い方", "グリセリン 英語", "glycerol glycerin"],
+    "meanings": [
+      { "hinshi": "【名詞】グリセロール（グリセリン）", "note": "3つの水酸基を持つ無色でとろりとした甘い液体。脂肪（トリグリセリド）の骨格になり、保湿剤・食品添加物などに使う。通常は不可算" }
+    ],
+    "usages": [
+      { "title": "① 脂肪の構成成分", "desc": "脂肪酸と結びついて中性脂肪になる", "example_en": "Fats are made of glycerol and fatty acids.", "example_ja": "脂肪はグリセロールと脂肪酸からできている。" },
+      { "title": "② 保湿剤・食品添加物", "desc": "化粧品やお菓子にも使われる", "example_en": "Glycerol is used as a moisturizer in cosmetics.", "example_ja": "グリセロールは化粧品で保湿剤として使われる。" }
+    ],
+    "warn": ["glycerol（化学名）＝ glycerin / glycerine（一般名グリセリン）。ほぼ同じものを指す"],
+    "etym_note": "ギリシャ語 glykeros（甘い）に、アルコールを表す接尾辞 -ol がついた語。glucose（ブドウ糖）と同じ glyk（甘い）の語根。",
+    "etym_chain": [
+      { "node": "glykeros", "sub": "甘い", "era": "古典ギリシャ語" },
+      { "node": "glycerine", "sub": "グリセリン", "era": "近代英語" },
+      { "node": "glycerol", "sub": "グリセロール", "era": "近代英語（化学）" }
+    ],
+    "phrases": [
+      { "en": "glycerol and fatty acids", "ja": "グリセロールと脂肪酸" },
+      { "en": "a molecule of glycerol", "ja": "グリセロール分子" },
+      { "en": "glycerol as a moisturizer", "ja": "保湿剤としてのグリセロール" },
+      { "en": "food-grade glycerol", "ja": "食品グレードのグリセロール" },
+      { "en": "contain glycerol", "ja": "グリセロールを含む" },
+      { "en": "synthetic glycerol", "ja": "合成グリセロール" }
+    ],
+    "related": [
+      { "en": "glycerin", "ja": "グリセリン" },
+      { "en": "fat", "ja": "脂肪" },
+      { "en": "fatty acid", "ja": "脂肪酸" },
+      { "en": "alcohol", "ja": "アルコール" }
+    ],
+    "faq": [
+      { "q": "glycerol と glycerin の違いは？", "a": "ほぼ同じものです。glycerol は化学名、glycerin(e) は一般名（グリセリン）です。" },
+      { "q": "何に使われますか？", "a": "保湿剤（化粧品）、食品添加物、医薬品などに広く使われます。" }
+    ],
+    "quiz": [
+      { "q": "glycerol の意味は？", "A": "グリセロール（甘い無色の液体）", "B": "食塩", "C": "酸素", "D": "鉄", "correct": "A" },
+      { "q": "glycerol の別名は？", "A": "glycerin（グリセリン）", "B": "glucose", "C": "gluten", "D": "gelatin", "correct": "A" }
+    ]
+  },
+  {
+    "english": "gnu",
+    "pron": "nuː",
+    "kana": "ヌー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "コイコイ語 t'gnu（動物の鳴き声から）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "生物・動物"],
+    "meaning_main": "ヌー（アフリカの大型の草食動物、ウシカモシカ）",
+    "description": "gnu（ヌー）の意味と使い方。アフリカの草原に群れをなす大型の草食動物ヌーを表す名詞を解説。発音とつづりに注意。",
+    "keywords": ["gnu 意味", "gnu 使い方", "ヌー 英語", "gnu 発音"],
+    "meanings": [
+      { "hinshi": "【名詞】ヌー（ウシカモシカ）", "note": "アフリカのサバンナに群れで生息する大型の草食動物。wildebeest（ウィルドビースト）とも呼ぶ。可算名詞（複数は gnu / gnus）" }
+    ],
+    "usages": [
+      { "title": "① サバンナの草食動物", "desc": "大群で季節移動する", "example_en": "Thousands of gnu migrate across the plains.", "example_ja": "何千頭ものヌーが平原を横断して移動する。" },
+      { "title": "② wildebeest とも呼ぶ", "desc": "同じ動物の別名", "example_en": "A gnu is also called a wildebeest.", "example_ja": "ヌーはウィルドビーストとも呼ばれる。" }
+    ],
+    "warn": ["先頭の g は発音しない（黙字）。発音は[nuː]（ヌー）。new と同音。別名は wildebeest"],
+    "etym_note": "アフリカ南部のコイコイ語で、この動物の鳴き声を写した語 t'gnu に由来するとされる。英語ではつづりの g を発音しない。",
+    "etym_chain": [
+      { "node": "t'gnu", "sub": "ヌーの鳴き声", "era": "コイコイ語" },
+      { "node": "gnu", "sub": "ヌー", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a herd of gnu", "ja": "ヌーの群れ" },
+      { "en": "gnu migration", "ja": "ヌーの移動" },
+      { "en": "a wildebeest (gnu)", "ja": "ヌー（ウィルドビースト）" },
+      { "en": "gnu on the savanna", "ja": "サバンナのヌー" },
+      { "en": "grazing gnu", "ja": "草をはむヌー" },
+      { "en": "the Great Migration", "ja": "（ヌーの）大移動" }
+    ],
+    "related": [
+      { "en": "wildebeest", "ja": "ヌー（別名）" },
+      { "en": "antelope", "ja": "レイヨウ" },
+      { "en": "savanna", "ja": "サバンナ" },
+      { "en": "herd", "ja": "群れ" }
+    ],
+    "faq": [
+      { "q": "gnu の発音は？", "a": "先頭の g は読まず、[nuː]（ヌー）と発音します。new と同じ音です。" },
+      { "q": "gnu の別名は？", "a": "wildebeest（ウィルドビースト）です。同じ動物を指します。" }
+    ],
+    "quiz": [
+      { "q": "gnu の意味は？", "A": "アフリカの草食動物（ヌー）", "B": "海の魚", "C": "熱帯の鳥", "D": "砂漠の植物", "correct": "A" },
+      { "q": "gnu の発音は？", "A": "グヌー", "B": "ヌー（g は読まない）", "C": "ジーエヌユー", "D": "ガヌ", "correct": "B" }
+    ]
+  },
+  {
+    "english": "goalkeeper",
+    "pron": "ˈɡoʊlkiːpər",
+    "kana": "ゴールキーパー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "goal（ゴール）+ keeper（守る人）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "スポーツ"],
+    "meaning_main": "ゴールキーパー（ゴールを守る選手）",
+    "description": "goalkeeper（ゴールキーパー）の意味と使い方。サッカーやホッケーでゴールを守る選手を表す名詞を解説。",
+    "keywords": ["goalkeeper 意味", "goalkeeper 使い方", "ゴールキーパー 英語", "GK 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】ゴールキーパー", "note": "サッカー・ホッケー・ハンドボールなどで、ゴールを守り相手の得点を防ぐ選手。可算名詞。略して keeper とも" }
+    ],
+    "usages": [
+      { "title": "① ゴールを守る選手", "desc": "サッカーで手を使える唯一の選手", "example_en": "The goalkeeper made a brilliant save.", "example_ja": "ゴールキーパーは見事なセーブをした。" },
+      { "title": "② 略して keeper", "desc": "口語では keeper とも呼ぶ", "example_en": "Their keeper is one of the best in the league.", "example_ja": "彼らのキーパーはリーグ屈指だ。" }
+    ],
+    "warn": ["米サッカーでは goalie（ゴーリー）とも言う。goal（ゴール）＋keeper（守る人）の複合"],
+    "etym_note": "goal（ゴール・目標）と keeper（守る人、keep＝保つ）の複合。『ゴールを守る人』という素直な作り。",
+    "etym_chain": [
+      { "node": "goal + keeper", "sub": "ゴールを守る人", "era": "近代英語" },
+      { "node": "goalkeeper", "sub": "ゴールキーパー", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a great goalkeeper", "ja": "優れたゴールキーパー" },
+      { "en": "the goalkeeper saves", "ja": "キーパーがセーブする" },
+      { "en": "play goalkeeper", "ja": "ゴールキーパーを務める" },
+      { "en": "the opposing goalkeeper", "ja": "相手のゴールキーパー" },
+      { "en": "beat the goalkeeper", "ja": "キーパーを破る" },
+      { "en": "a goalkeeper's gloves", "ja": "キーパーグローブ" }
+    ],
+    "related": [
+      { "en": "goalie", "ja": "ゴーリー（口語）" },
+      { "en": "goal", "ja": "ゴール" },
+      { "en": "defender", "ja": "ディフェンダー" },
+      { "en": "save", "ja": "セーブ" }
+    ],
+    "faq": [
+      { "q": "goalkeeper と goalie の違いは？", "a": "同じ選手を指します。goalie はよりくだけた呼び方です。" },
+      { "q": "サッカーで手を使えるのは？", "a": "自陣のペナルティエリア内のゴールキーパーだけです。" }
+    ],
+    "quiz": [
+      { "q": "goalkeeper の意味は？", "A": "得点係", "B": "ゴールを守る選手", "C": "審判", "D": "監督", "correct": "B" },
+      { "q": "goalkeeper のくだけた呼び方は？", "A": "goalie", "B": "goalist", "C": "goaler only", "D": "goalman", "correct": "A" }
+    ]
+  },
+  {
+    "english": "graduation",
+    "pron": "ˌɡrædʒuˈeɪʃən",
+    "kana": "グラデュエイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 gradus（段階・歩み）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "頻出語"],
+    "meaning_main": "卒業／卒業式／（目盛りの）等級づけ",
+    "description": "graduation（グラデュエイション）の意味と使い方。学校の卒業・卒業式、また計器の目盛りを表す名詞を解説。",
+    "keywords": ["graduation 意味", "graduation 使い方", "卒業 英語", "卒業式 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】卒業・卒業式", "note": "学業の課程を修了すること、またその式典。通常は不可算だが式典は可算にも" },
+      { "hinshi": "【名詞】目盛り・等級づけ", "note": "計器などにつけた段階的な目盛り" }
+    ],
+    "usages": [
+      { "title": "① 卒業・卒業式", "desc": "after graduation（卒業後）", "example_en": "After graduation, she found a job in Tokyo.", "example_ja": "卒業後、彼女は東京で仕事を見つけた。" },
+      { "title": "② 卒業式の式典", "desc": "attend a graduation（卒業式に出る）", "example_en": "Her parents came to her graduation.", "example_ja": "彼女の両親が卒業式に来た。" }
+    ],
+    "warn": ["動詞は graduate（卒業する）。名詞 graduate は『卒業生』。graduation ceremony（卒業式）とも言う"],
+    "etym_note": "ラテン語 gradus（段階・歩み）に由来する graduate（段階を進む＝学位を授ける）の名詞形。grade（等級）、gradual（段階的な）と同語源。",
+    "etym_chain": [
+      { "node": "gradus", "sub": "段階・歩み", "era": "ラテン語" },
+      { "node": "graduate", "sub": "卒業する", "era": "中英語" },
+      { "node": "graduation", "sub": "卒業", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "after graduation", "ja": "卒業後" },
+      { "en": "a graduation ceremony", "ja": "卒業式" },
+      { "en": "attend graduation", "ja": "卒業式に出る" },
+      { "en": "high school graduation", "ja": "高校の卒業" },
+      { "en": "a graduation gown", "ja": "卒業式のガウン" },
+      { "en": "graduation day", "ja": "卒業の日" }
+    ],
+    "related": [
+      { "en": "graduate", "ja": "卒業する・卒業生" },
+      { "en": "diploma", "ja": "卒業証書" },
+      { "en": "degree", "ja": "学位" },
+      { "en": "ceremony", "ja": "式典" }
+    ],
+    "faq": [
+      { "q": "graduation の動詞形は？", "a": "graduate（卒業する）です。名詞 graduate は『卒業生』です。" },
+      { "q": "『卒業後』は？", "a": "after graduation と言います。" }
+    ],
+    "quiz": [
+      { "q": "graduation の意味は？", "A": "入学", "B": "卒業・卒業式", "C": "退学", "D": "留学", "correct": "B" },
+      { "q": "『卒業後』は？", "A": "before graduation", "B": "after graduation", "C": "during graduation", "D": "instead of graduation", "correct": "B" }
+    ]
+  }
+]
