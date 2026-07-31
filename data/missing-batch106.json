@@ -1,0 +1,989 @@
+[
+  {
+    "english": "deface",
+    "pron": "dɪˈfeɪs",
+    "kana": "ディフェイス",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "de-（取り去る）+ face（表面・外見）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "破損・犯罪"],
+    "meaning_main": "(表面を)汚す・傷つける / 落書きなどで見苦しくする",
+    "description": "deface の意味・発音・使い方。「(建物や像などの表面を)落書きや傷で見苦しくする」を表す動詞。器物損壊の文脈での用法を例文で解説します。",
+    "keywords": ["deface 意味", "deface 使い方", "deface 発音", "汚す 英語"],
+    "meanings": [
+      { "hinshi": "【動】(表面を)汚す、傷つける、見苦しくする", "note": "落書き・傷などで外見を損なう。deface a wall(壁を落書きで汚す)" }
+    ],
+    "usages": [
+      { "title": "① 「表面を汚す」", "desc": "落書きや傷で損なう。", "example_en": "Vandals defaced the monument.", "example_ja": "心ない者が記念碑を落書きで汚した。" },
+      { "title": "② 器物損壊で", "desc": "外見を見苦しくする。", "example_en": "It's illegal to deface public property.", "example_ja": "公共物を汚損するのは違法だ。" }
+    ],
+    "warn": ["de-(取り去る)+ face(外見)。名詞は defacement(汚損)。破壊行為は vandalism。落書き・傷で『外見を損なう』ことに焦点。"],
+    "etym_note": "de-（取り去る)と face（表面・外見)を組み合わせた語で、『外見を損なう』を表します。",
+    "etym_chain": [
+      { "node": "de- + face", "sub": "取り去る+外見", "era": "中英語" },
+      { "node": "deface", "sub": "外見を損なう", "era": "近代英語" },
+      { "node": "deface", "sub": "汚す・見苦しくする", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "deface a wall", "ja": "壁を落書きで汚す" },
+      { "en": "deface property", "ja": "器物を汚損する" },
+      { "en": "deface a statue", "ja": "像を傷つける" },
+      { "en": "deface with graffiti", "ja": "落書きで汚す" },
+      { "en": "deface a poster", "ja": "ポスターを汚す" },
+      { "en": "be defaced", "ja": "汚損される" }
+    ],
+    "related": [
+      { "en": "vandalize", "ja": "破壊する、汚す" },
+      { "en": "defacement", "ja": "汚損" },
+      { "en": "damage", "ja": "傷つける、損傷" },
+      { "en": "graffiti", "ja": "落書き" }
+    ],
+    "faq": [
+      { "q": "deface と vandalize の違いは？", "a": "vandalize は『破壊・損壊する』全般、deface は特に『(落書きや傷で)表面・外見を見苦しくする』に焦点があります。" },
+      { "q": "名詞形は？", "a": "defacement(汚損・外見を損なうこと)です。" }
+    ],
+    "quiz": [
+      { "q": "deface の意味は？", "A": "(表面を)汚す・見苦しくする", "B": "きれいにする", "C": "建てる", "D": "守る", "correct": "A" },
+      { "q": "deface a wall の意味は？", "A": "壁を落書きで汚す", "B": "壁を建てる", "C": "壁を塗り直す", "D": "壁を掃除する", "correct": "A" }
+    ]
+  },
+  {
+    "english": "defensive",
+    "pron": "dɪˈfensɪv",
+    "kana": "ディフェンシブ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "defend（守る）+ -ive",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "態度・スポーツ"],
+    "meaning_main": "防御的な / 守りの / (批判に)身構えた・むきになる",
+    "description": "defensive の意味・発音・使い方。「防御的な・守りの」を表す形容詞。批判に対して『身構える・むきになる』という心理的な用法も例文で解説します。",
+    "keywords": ["defensive 意味", "defensive 使い方", "defensive 発音", "防御的 英語"],
+    "meanings": [
+      { "hinshi": "【形】防御的な、守りの", "note": "攻撃から守るための。a defensive strategy(守りの戦略)。反対は offensive(攻撃的な)" },
+      { "hinshi": "【形】(批判に)身構えた、むきになる", "note": "get defensive(むきになる、身構える)" }
+    ],
+    "usages": [
+      { "title": "① 「守りの」", "desc": "防御のための。", "example_en": "The team played a defensive game.", "example_ja": "そのチームは守りの試合をした。" },
+      { "title": "② 「身構える」", "desc": "批判にむきになる。", "example_en": "He got defensive when I criticized him.", "example_ja": "私が批判すると彼はむきになった。" }
+    ],
+    "warn": ["反対は offensive(攻撃的な)。get/become defensive で『(批判に)身構える・むきになる』心理的な意味も重要。名詞は defense(防御)。"],
+    "etym_note": "defend（守る。ラテン語 defendere から)に『〜する性質の』を表す -ive が付いた語です。",
+    "etym_chain": [
+      { "node": "defendere", "sub": "守る", "era": "ラテン語" },
+      { "node": "defensive", "sub": "防御的な", "era": "中英語" },
+      { "node": "defensive", "sub": "防御的な・身構えた", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "get defensive", "ja": "むきになる、身構える" },
+      { "en": "a defensive strategy", "ja": "守りの戦略" },
+      { "en": "on the defensive", "ja": "守勢に立って" },
+      { "en": "a defensive attitude", "ja": "身構えた態度" },
+      { "en": "defensive driving", "ja": "防衛運転" },
+      { "en": "a defensive posture", "ja": "防御の姿勢" }
+    ],
+    "related": [
+      { "en": "defend", "ja": "守る" },
+      { "en": "defense", "ja": "防御" },
+      { "en": "offensive", "ja": "攻撃的な" },
+      { "en": "protective", "ja": "保護的な" }
+    ],
+    "faq": [
+      { "q": "get defensive とは？", "a": "『(批判されて)むきになる・身構える』という意味です。自分を守ろうとして過剰に反応する様子を表します。" },
+      { "q": "反対語は？", "a": "offensive(攻撃的な)です。defensive(守りの)⇔offensive(攻めの)。" }
+    ],
+    "quiz": [
+      { "q": "defensive の意味は？", "A": "防御的な・身構えた", "B": "攻撃的な", "C": "無関心な", "D": "友好的な", "correct": "A" },
+      { "q": "get defensive の意味は？", "A": "むきになる、身構える", "B": "落ち着く", "C": "喜ぶ", "D": "謝る", "correct": "A" }
+    ]
+  },
+  {
+    "english": "defiled",
+    "pron": "dɪˈfaɪld",
+    "kana": "ディファイルド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "defile（汚す）+ -ed",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "宗教・道徳"],
+    "meaning_main": "汚された / (神聖なものを)けがされた / 冒とくされた",
+    "description": "defiled の意味・発音・使い方。「(神聖なもの・清いものを)汚された・けがされた」を表す形容詞。動詞 defile との関係を例文とともに解説します。",
+    "keywords": ["defiled 意味", "defiled 使い方", "defiled 発音", "けがす 英語"],
+    "meanings": [
+      { "hinshi": "【形】汚された、けがされた、冒とくされた", "note": "神聖・清いものが汚された状態。a defiled temple(けがされた神殿)。文語的" }
+    ],
+    "usages": [
+      { "title": "① 「けがされた」", "desc": "神聖なものが汚される。", "example_en": "The sacred site was defiled.", "example_ja": "その聖地はけがされた。" },
+      { "title": "② 汚された状態", "desc": "清さが損なわれる。", "example_en": "They found the shrine defiled.", "example_ja": "彼らは神社がけがされているのを見つけた。" }
+    ],
+    "warn": ["動詞 defile(汚す・けがす)。file(ファイル・やすり)とは無関係。宗教的・道徳的に『神聖・清いものを汚す』文語的な語。"],
+    "etym_note": "defile（汚す。古フランス語 defouler「踏みつける」から)の過去分詞から形容詞化しました。",
+    "etym_chain": [
+      { "node": "defouler", "sub": "踏みつける・汚す", "era": "古フランス語" },
+      { "node": "defile", "sub": "汚す・けがす", "era": "中英語" },
+      { "node": "defiled", "sub": "けがされた", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a defiled temple", "ja": "けがされた神殿" },
+      { "en": "be defiled", "ja": "けがされる" },
+      { "en": "a defiled altar", "ja": "けがされた祭壇" },
+      { "en": "defiled ground", "ja": "けがされた地" },
+      { "en": "ritually defiled", "ja": "儀礼的に汚された" },
+      { "en": "a defiled sanctuary", "ja": "けがされた聖域" }
+    ],
+    "related": [
+      { "en": "defile", "ja": "汚す、けがす" },
+      { "en": "desecrate", "ja": "神聖を汚す、冒とくする" },
+      { "en": "profane", "ja": "冒とくする、俗な" },
+      { "en": "pure", "ja": "清らかな" }
+    ],
+    "faq": [
+      { "q": "defiled と defaced の違いは？", "a": "defaced は『(表面を落書きなどで)見苦しくする』、defiled は『(神聖・清いものを)道徳的・宗教的に汚す・けがす』に重点があります。" },
+      { "q": "動詞形は？", "a": "defile(汚す・けがす)です。desecrate(神聖を汚す)と近い意味です。" }
+    ],
+    "quiz": [
+      { "q": "defiled の意味は？", "A": "汚された、けがされた", "B": "きれいな", "C": "新しい", "D": "大きな", "correct": "A" },
+      { "q": "defiled の動詞形は？", "A": "defile", "B": "defy", "C": "define", "D": "defend", "correct": "A" }
+    ]
+  },
+  {
+    "english": "defrost",
+    "pron": "diːˈfrɒst",
+    "kana": "ディフロスト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "de-（除く）+ frost（霜・凍結）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "料理・家電"],
+    "meaning_main": "(冷凍食品を)解凍する / (冷蔵庫の)霜を取る",
+    "description": "defrost の意味・発音・使い方。冷凍した食品を「解凍する」や、冷蔵庫・窓の「霜を取る」を表す動詞。thaw との違いを例文とともに解説します。",
+    "keywords": ["defrost 意味", "defrost 使い方", "defrost 発音", "解凍 英語"],
+    "meanings": [
+      { "hinshi": "【動】(冷凍食品を)解凍する", "note": "凍った食品を溶かす。defrost the chicken(鶏肉を解凍する)" },
+      { "hinshi": "【動】(冷蔵庫・窓の)霜を取る、霜取りする", "note": "de-(除く)+ frost(霜)" }
+    ],
+    "usages": [
+      { "title": "① 「解凍する」", "desc": "冷凍食品を溶かす。", "example_en": "Defrost the meat before cooking.", "example_ja": "調理の前に肉を解凍しなさい。" },
+      { "title": "② 「霜を取る」", "desc": "冷蔵庫や窓の霜を除く。", "example_en": "I need to defrost the freezer.", "example_ja": "冷凍庫の霜取りをする必要がある。" }
+    ],
+    "warn": ["de-(除く)+ frost(霜)。thaw(解凍する・雪が溶ける)とほぼ同義。電子レンジの『解凍』も defrost。反対は freeze(凍らせる)。"],
+    "etym_note": "de-（除く)と frost（霜・凍結)を組み合わせた語で、『霜・凍結を取り除く』を表します。",
+    "etym_chain": [
+      { "node": "de- + frost", "sub": "除く+霜", "era": "20世紀英語" },
+      { "node": "defrost", "sub": "解凍する", "era": "20世紀" },
+      { "node": "defrost", "sub": "解凍する・霜取りする", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "defrost the chicken", "ja": "鶏肉を解凍する" },
+      { "en": "defrost the freezer", "ja": "冷凍庫の霜取りをする" },
+      { "en": "defrost in the microwave", "ja": "電子レンジで解凍する" },
+      { "en": "defrost overnight", "ja": "一晩かけて解凍する" },
+      { "en": "the defrost setting", "ja": "解凍モード" },
+      { "en": "let it defrost", "ja": "自然解凍する" }
+    ],
+    "related": [
+      { "en": "thaw", "ja": "解凍する、溶ける" },
+      { "en": "freeze", "ja": "凍らせる" },
+      { "en": "frost", "ja": "霜" },
+      { "en": "melt", "ja": "溶ける、溶かす" }
+    ],
+    "faq": [
+      { "q": "defrost と thaw の違いは？", "a": "ほぼ同義で『解凍する』ですが、defrost は家電(冷蔵庫・電子レンジ)の機能や霜取りにもよく使い、thaw は自然に凍結が溶けることにも広く使います。" },
+      { "q": "反対語は？", "a": "freeze(凍らせる)です。defrost(解凍)⇔freeze(冷凍)。" }
+    ],
+    "quiz": [
+      { "q": "defrost の意味は？", "A": "解凍する・霜を取る", "B": "凍らせる", "C": "焼く", "D": "煮る", "correct": "A" },
+      { "q": "defrost の反対語は？", "A": "freeze(凍らせる)", "B": "thaw(解凍する)", "C": "melt(溶ける)", "D": "cook(料理する)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "deft",
+    "pron": "deft",
+    "kana": "デフト",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "古英語 gedæfte（適した・穏やかな）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "技能・描写"],
+    "meaning_main": "器用な / 巧みな / 手際のよい",
+    "description": "deft の意味・発音・使い方。「(手つきや扱いが)器用で巧みな・手際のよい」を表す形容詞。すばやく上手な動作を表す用法を例文とともに解説します。",
+    "keywords": ["deft 意味", "deft 使い方", "deft 発音", "器用 英語"],
+    "meanings": [
+      { "hinshi": "【形】器用な、巧みな、手際のよい", "note": "すばやく上手に扱う。a deft touch(巧みな手さばき)。ほめ言葉" }
+    ],
+    "usages": [
+      { "title": "① 「器用な・巧みな」", "desc": "すばやく上手な手つき。", "example_en": "She handled the situation with a deft touch.", "example_ja": "彼女は巧みな手腕でその状況をさばいた。" },
+      { "title": "② 手さばきの描写で", "desc": "手際のよい動作。", "example_en": "The chef made deft cuts with the knife.", "example_ja": "そのシェフは包丁で手際よく切った。" }
+    ],
+    "warn": ["副詞は deftly(巧みに)。skillful(熟練した)と近いが、deft は特に『すばやく軽やかで器用な』ニュアンス。反対は clumsy(不器用な)。"],
+    "etym_note": "古英語 gedæfte（適した・穏やかな。daft「愚かな」と同語源だが意味が分かれた)に由来します。",
+    "etym_chain": [
+      { "node": "gedæfte", "sub": "適した・穏やかな", "era": "古英語" },
+      { "node": "deft", "sub": "器用な", "era": "中英語" },
+      { "node": "deft", "sub": "器用な・巧みな", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a deft touch", "ja": "巧みな手さばき" },
+      { "en": "deft hands", "ja": "器用な手" },
+      { "en": "a deft move", "ja": "巧みな動き" },
+      { "en": "deft handling", "ja": "手際のよい扱い" },
+      { "en": "with a deft flick", "ja": "巧みなひと振りで" },
+      { "en": "a deft manipulation", "ja": "巧みな操作" }
+    ],
+    "related": [
+      { "en": "deftly", "ja": "巧みに" },
+      { "en": "skillful", "ja": "熟練した" },
+      { "en": "adroit", "ja": "器用な、機敏な" },
+      { "en": "clumsy", "ja": "不器用な" }
+    ],
+    "faq": [
+      { "q": "deft と skillful の違いは？", "a": "どちらも『上手な』ですが、deft は特に『すばやく軽やかで器用な手さばき』を強調します。skillful は『熟練した』全般です。" },
+      { "q": "反対語は？", "a": "clumsy(不器用な・ぎこちない)です。" }
+    ],
+    "quiz": [
+      { "q": "deft の意味は？", "A": "器用な、巧みな", "B": "不器用な", "C": "遅い", "D": "弱い", "correct": "A" },
+      { "q": "deft の反対語は？", "A": "clumsy(不器用な)", "B": "skillful(熟練した)", "C": "adroit(器用な)", "D": "quick(すばやい)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "deftly",
+    "pron": "ˈdeftli",
+    "kana": "デフトリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "deft（器用な）+ -ly",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "技能・描写"],
+    "meaning_main": "巧みに / 器用に / 手際よく",
+    "description": "deftly の意味・発音・使い方。「巧みに・器用に・手際よく」を表す副詞。すばやく上手に行う動作を表す用法を例文とともに解説します。",
+    "keywords": ["deftly 意味", "deftly 使い方", "deftly 発音", "巧みに 英語"],
+    "meanings": [
+      { "hinshi": "【副】巧みに、器用に、手際よく", "note": "すばやく上手に。deftly handle(巧みに扱う)。ほめる表現" }
+    ],
+    "usages": [
+      { "title": "① 「巧みに」", "desc": "すばやく上手に。", "example_en": "She deftly caught the falling cup.", "example_ja": "彼女は落ちるカップを巧みに受け止めた。" },
+      { "title": "② 手際のよさ", "desc": "器用にこなす。", "example_en": "He deftly avoided the question.", "example_ja": "彼は巧みにその質問をかわした。" }
+    ],
+    "warn": ["形容詞は deft(器用な)。skillfully(上手に)と近いが、deftly は特に『すばやく軽やかに器用に』のニュアンス。"],
+    "etym_note": "deft（器用な)に副詞を作る -ly が付いた語です。",
+    "etym_chain": [
+      { "node": "deft", "sub": "器用な", "era": "中英語" },
+      { "node": "deftly", "sub": "巧みに", "era": "近代英語" },
+      { "node": "deftly", "sub": "巧みに・手際よく", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "deftly handle", "ja": "巧みに扱う" },
+      { "en": "deftly avoid", "ja": "巧みにかわす" },
+      { "en": "move deftly", "ja": "器用に動く" },
+      { "en": "deftly maneuver", "ja": "巧みに操る" },
+      { "en": "deftly catch", "ja": "巧みに受け止める" },
+      { "en": "deftly weave", "ja": "巧みに織り込む" }
+    ],
+    "related": [
+      { "en": "deft", "ja": "器用な、巧みな" },
+      { "en": "skillfully", "ja": "上手に" },
+      { "en": "adroitly", "ja": "器用に、機敏に" },
+      { "en": "clumsily", "ja": "不器用に" }
+    ],
+    "faq": [
+      { "q": "deftly の形容詞形は？", "a": "deft(器用な・巧みな)です。deftly はその副詞で『巧みに・器用に』を表します。" },
+      { "q": "反対語は？", "a": "clumsily(不器用に・ぎこちなく)です。" }
+    ],
+    "quiz": [
+      { "q": "deftly の意味は？", "A": "巧みに、器用に", "B": "不器用に", "C": "ゆっくり", "D": "乱暴に", "correct": "A" },
+      { "q": "deftly の形容詞形は？", "A": "deft", "B": "daft", "C": "draft", "D": "deaf", "correct": "A" }
+    ]
+  },
+  {
+    "english": "deign",
+    "pron": "deɪn",
+    "kana": "デイン",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 dignari（値すると認める）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "態度・文語"],
+    "meaning_main": "(恩着せがましく)〜してやる / わざわざ〜する / 身を落として〜する",
+    "description": "deign の意味・発音・使い方。「(尊大に・しぶしぶ)身を落として〜してやる」を表す文語的な動詞。deign to do の形を例文とともに解説します。",
+    "keywords": ["deign 意味", "deign 使い方", "deign 発音", "デイン 意味"],
+    "meanings": [
+      { "hinshi": "【動】(恩着せがましく)〜してやる、わざわざ〜する", "note": "尊大な態度で身を落として何かをする。deign to do(わざわざ〜してやる)。しばしば否定・皮肉で" }
+    ],
+    "usages": [
+      { "title": "① 「〜してやる」", "desc": "尊大に身を落とす。", "example_en": "She didn't even deign to reply.", "example_ja": "彼女は返事すらしてくれなかった。" },
+      { "title": "② 皮肉をこめて", "desc": "しぶしぶ・恩着せがましく。", "example_en": "He finally deigned to speak to us.", "example_ja": "彼はやっと私たちに話しかけてくれた(という皮肉)。" }
+    ],
+    "warn": ["deign to do の形。発音は[deɪn]『デイン』。しばしば否定形や皮肉で使い、相手の尊大さを皮肉る。dignity(尊厳)と同語源。"],
+    "etym_note": "ラテン語 dignari（dignus「値する」から。値すると認める)に由来します。dignity(尊厳)と同語源です。",
+    "etym_chain": [
+      { "node": "dignari", "sub": "値すると認める", "era": "ラテン語" },
+      { "node": "deign", "sub": "〜してやる", "era": "中英語" },
+      { "node": "deign", "sub": "身を落として〜する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "deign to do", "ja": "わざわざ〜してやる" },
+      { "en": "not deign to reply", "ja": "返事すらしない" },
+      { "en": "deign to speak", "ja": "話しかけてやる" },
+      { "en": "hardly deign", "ja": "ほとんど〜してくれない" },
+      { "en": "deign to notice", "ja": "気にかけてやる" },
+      { "en": "would not deign", "ja": "〜してやろうとしない" }
+    ],
+    "related": [
+      { "en": "condescend", "ja": "見下しながら〜してやる" },
+      { "en": "stoop", "ja": "身を落とす" },
+      { "en": "dignity", "ja": "尊厳" },
+      { "en": "disdain", "ja": "軽蔑" }
+    ],
+    "faq": [
+      { "q": "deign to do とは？", "a": "『(尊大に・しぶしぶ)わざわざ〜してやる・身を落として〜する』という意味です。しばしば否定形や皮肉で、相手の尊大さを表します。" },
+      { "q": "condescend との違いは？", "a": "どちらも『見下しながら〜してやる』ですが、deign は『身を落として何かをする』行為、condescend は『恩着せがましい態度』全般に使えます。" }
+    ],
+    "quiz": [
+      { "q": "deign の意味は？", "A": "(尊大に)身を落として〜してやる", "B": "喜んで助ける", "C": "急いで逃げる", "D": "静かに眠る", "correct": "A" },
+      { "q": "not deign to reply の意味は？", "A": "返事すらしない", "B": "すぐ返事する", "C": "丁寧に答える", "D": "質問する", "correct": "A" }
+    ]
+  },
+  {
+    "english": "delectable",
+    "pron": "dɪˈlektəb(ə)l",
+    "kana": "ディレクタブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 delectare（喜ばせる）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "料理・描写"],
+    "meaning_main": "とてもおいしい / 美味な / 実に楽しい",
+    "description": "delectable の意味・発音・使い方。「とてもおいしい・美味な」を表すフォーマルな形容詞。delicious との違いや語源を例文とともに解説します。",
+    "keywords": ["delectable 意味", "delectable 使い方", "delectable 発音", "おいしい 英語"],
+    "meanings": [
+      { "hinshi": "【形】とてもおいしい、美味な、実に楽しい", "note": "非常に味がよい、または魅力的で楽しい。delicious のややフォーマルな語" }
+    ],
+    "usages": [
+      { "title": "① 「とてもおいしい」", "desc": "非常に味がよい。", "example_en": "The chef prepared a delectable meal.", "example_ja": "シェフはとてもおいしい料理を用意した。" },
+      { "title": "② 「実に楽しい」", "desc": "味以外にも魅力的。", "example_en": "a delectable sense of humor", "example_ja": "実に楽しいユーモアのセンス" }
+    ],
+    "warn": ["delicious(おいしい)よりフォーマル・文語的。delight(喜び)と同語源で、『喜ばせるほど魅力的』の意味も含む。"],
+    "etym_note": "ラテン語 delectare（喜ばせる)に由来し、delight(喜び)と同語源です。",
+    "etym_chain": [
+      { "node": "delectare", "sub": "喜ばせる", "era": "ラテン語" },
+      { "node": "delectable", "sub": "楽しい・おいしい", "era": "中英語" },
+      { "node": "delectable", "sub": "とてもおいしい", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a delectable meal", "ja": "とてもおいしい料理" },
+      { "en": "a delectable dessert", "ja": "美味なデザート" },
+      { "en": "delectable flavors", "ja": "おいしい風味" },
+      { "en": "utterly delectable", "ja": "この上なくおいしい" },
+      { "en": "a delectable treat", "ja": "おいしいごちそう" },
+      { "en": "look delectable", "ja": "おいしそうに見える" }
+    ],
+    "related": [
+      { "en": "delicious", "ja": "おいしい" },
+      { "en": "delightful", "ja": "楽しい、うれしい" },
+      { "en": "tasty", "ja": "おいしい" },
+      { "en": "scrumptious", "ja": "とてもおいしい(口語)" }
+    ],
+    "faq": [
+      { "q": "delectable と delicious の違いは？", "a": "どちらも『おいしい』ですが、delectable はよりフォーマル・文語的で、『喜ばせるほど魅力的』というニュアンスを含みます。" },
+      { "q": "食べ物以外にも使えますか？", "a": "はい。『実に楽しい・魅力的な』の意味で、ユーモアや光景などにも使えます。" }
+    ],
+    "quiz": [
+      { "q": "delectable の意味は？", "A": "とてもおいしい、美味な", "B": "まずい", "C": "冷たい", "D": "苦い", "correct": "A" },
+      { "q": "delectable と同語源の語は？", "A": "delight(喜び)", "B": "detect(検知する)", "C": "delete(削除する)", "D": "deliver(届ける)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "deletion",
+    "pron": "dɪˈliːʃ(ə)n",
+    "kana": "ディリーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "delete（削除する）+ -ion",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "IT・編集"],
+    "meaning_main": "削除 / (データ・文の)消去 / 削除された部分",
+    "description": "deletion の意味・発音・使い方。「(データや文字の)削除・消去」を表す名詞。動詞 delete との関係や遺伝子の欠失の用法も例文で解説します。",
+    "keywords": ["deletion 意味", "deletion 使い方", "deletion 発音", "削除 英語"],
+    "meanings": [
+      { "hinshi": "【名】削除、消去", "note": "データ・文字などを消すこと・消された部分。可算・不可算" },
+      { "hinshi": "【名】(遺伝子の)欠失", "note": "DNA配列の一部が失われること。専門用法" }
+    ],
+    "usages": [
+      { "title": "① 「削除」", "desc": "データや文字を消す。", "example_en": "The deletion of the file was accidental.", "example_ja": "そのファイルの削除は誤操作だった。" },
+      { "title": "② 編集での消去", "desc": "文の一部を除く。", "example_en": "The editor suggested some deletions.", "example_ja": "編集者はいくつかの削除を提案した。" }
+    ],
+    "warn": ["動詞は delete(削除する)。反対は addition(追加)/insertion(挿入)。遺伝子学では『欠失』の意味もある。"],
+    "etym_note": "delete（削除する。ラテン語 delere「消す」から)に名詞化の -ion が付いた語です。",
+    "etym_chain": [
+      { "node": "delere", "sub": "消す", "era": "ラテン語" },
+      { "node": "delete", "sub": "削除する", "era": "近代英語" },
+      { "node": "deletion", "sub": "削除", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the deletion of data", "ja": "データの削除" },
+      { "en": "accidental deletion", "ja": "誤削除" },
+      { "en": "permanent deletion", "ja": "完全削除" },
+      { "en": "suggest a deletion", "ja": "削除を提案する" },
+      { "en": "a gene deletion", "ja": "遺伝子の欠失" },
+      { "en": "file deletion", "ja": "ファイルの削除" }
+    ],
+    "related": [
+      { "en": "delete", "ja": "削除する" },
+      { "en": "removal", "ja": "除去" },
+      { "en": "erasure", "ja": "消去" },
+      { "en": "insertion", "ja": "挿入" }
+    ],
+    "faq": [
+      { "q": "deletion の反対語は？", "a": "addition(追加)や insertion(挿入)です。deletion は『削除・消去』を表します。" },
+      { "q": "遺伝子の deletion とは？", "a": "遺伝学では、DNA配列の一部が失われる『欠失』を指します。突然変異の一種です。" }
+    ],
+    "quiz": [
+      { "q": "deletion の意味は？", "A": "削除、消去", "B": "追加", "C": "保存", "D": "複製", "correct": "A" },
+      { "q": "deletion の動詞形は？", "A": "delete", "B": "delay", "C": "deliver", "D": "declare", "correct": "A" }
+    ]
+  },
+  {
+    "english": "delhi",
+    "pron": "ˈdeli",
+    "kana": "デリー",
+    "hinshi": "名詞(固有名詞)",
+    "ld_pos": "固有名詞",
+    "ld_etym": "由来には諸説ある地名",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "固有名詞・地名"],
+    "meaning_main": "デリー(インドの都市) / (New Delhi はインドの首都)",
+    "description": "Delhi（デリー）の意味・発音。インド北部の大都市で、New Delhi(ニューデリー)はインドの首都。歴史や特徴を例文とともに解説します。",
+    "keywords": ["delhi 意味", "delhi 読み方", "delhi 発音", "デリー インド"],
+    "meanings": [
+      { "hinshi": "【名】デリー", "note": "インド北部の大都市。首都圏を形成し、その中の New Delhi(ニューデリー)がインドの首都。発音は[ˈdeli]" }
+    ],
+    "usages": [
+      { "title": "① インドの大都市", "desc": "北部の歴史ある都市。", "example_en": "Delhi is one of India's largest cities.", "example_ja": "デリーはインド最大級の都市の一つだ。" },
+      { "title": "② New Delhi は首都", "desc": "首都はニューデリー。", "example_en": "New Delhi is the capital of India.", "example_ja": "ニューデリーはインドの首都だ。" }
+    ],
+    "warn": ["固有名詞なので大文字 Delhi。発音は[ˈdeli]『デリー』(h は発音しない)。首都は正確には New Delhi(ニューデリー)。"],
+    "etym_note": "地名の由来には諸説あり、古代の王の名などにちなむとされます。",
+    "etym_chain": [
+      { "node": "古代の地名", "sub": "諸説あり", "era": "古代" },
+      { "node": "Delhi", "sub": "都市名として定着", "era": "中世〜" },
+      { "node": "Delhi", "sub": "インドの大都市", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "New Delhi", "ja": "ニューデリー(インドの首都)" },
+      { "en": "Old Delhi", "ja": "オールドデリー(旧市街)" },
+      { "en": "in Delhi", "ja": "デリーで" },
+      { "en": "the streets of Delhi", "ja": "デリーの街並み" },
+      { "en": "travel to Delhi", "ja": "デリーへ旅する" },
+      { "en": "Delhi, India", "ja": "インドのデリー" }
+    ],
+    "related": [
+      { "en": "india", "ja": "インド" },
+      { "en": "capital", "ja": "首都" },
+      { "en": "mumbai", "ja": "ムンバイ" },
+      { "en": "city", "ja": "都市" }
+    ],
+    "faq": [
+      { "q": "Delhi はインドの首都ですか？", "a": "首都は正確には New Delhi(ニューデリー)です。ニューデリーはデリー首都圏の中にあり、デリーはより広い都市圏全体を指します。" },
+      { "q": "発音は？", "a": "[ˈdeli]『デリー』です。h は発音しません。" }
+    ],
+    "quiz": [
+      { "q": "Delhi はどこの国の都市？", "A": "インド", "B": "中国", "C": "エジプト", "D": "トルコ", "correct": "A" },
+      { "q": "インドの首都は？", "A": "ニューデリー", "B": "ムンバイ", "C": "コルカタ", "D": "チェンナイ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "delinquency",
+    "pron": "dɪˈlɪŋkwənsi",
+    "kana": "デリンクエンシー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 delinquere（過ちを犯す）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "社会・犯罪"],
+    "meaning_main": "(特に少年の)非行 / 犯罪傾向 / (支払いの)延滞",
+    "description": "delinquency の意味・発音・使い方。「(特に若者の)非行・軽犯罪」を表す名詞。juvenile delinquency(少年非行)や支払いの延滞の用法を例文で解説します。",
+    "keywords": ["delinquency 意味", "delinquency 使い方", "delinquency 発音", "非行 英語"],
+    "meanings": [
+      { "hinshi": "【名】(特に少年の)非行、軽犯罪", "note": "juvenile delinquency(少年非行)。若者の反社会的行動" },
+      { "hinshi": "【名】(支払いの)延滞、義務の不履行", "note": "loan delinquency(ローンの延滞)" }
+    ],
+    "usages": [
+      { "title": "① 「非行」", "desc": "若者の反社会的行動。", "example_en": "Juvenile delinquency is a social problem.", "example_ja": "少年非行は社会問題だ。" },
+      { "title": "② 「延滞」", "desc": "支払いの不履行。", "example_en": "The bank reported loan delinquency.", "example_ja": "銀行はローンの延滞を報告した。" }
+    ],
+    "warn": ["非行少年・怠慢な者は delinquent。juvenile delinquency(少年非行)が定番。金融では『延滞』の意味もある。"],
+    "etym_note": "ラテン語 delinquere（de-「離れて」+ linquere「残す」→義務を怠る)に由来します。",
+    "etym_chain": [
+      { "node": "delinquere", "sub": "過ちを犯す", "era": "ラテン語" },
+      { "node": "delinquency", "sub": "非行・怠慢", "era": "17世紀英語" },
+      { "node": "delinquency", "sub": "非行・延滞", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "juvenile delinquency", "ja": "少年非行" },
+      { "en": "reduce delinquency", "ja": "非行を減らす" },
+      { "en": "loan delinquency", "ja": "ローンの延滞" },
+      { "en": "a history of delinquency", "ja": "非行の経歴" },
+      { "en": "tackle delinquency", "ja": "非行に取り組む" },
+      { "en": "payment delinquency", "ja": "支払いの延滞" }
+    ],
+    "related": [
+      { "en": "delinquent", "ja": "非行少年、延滞した" },
+      { "en": "crime", "ja": "犯罪" },
+      { "en": "misconduct", "ja": "非行、不正行為" },
+      { "en": "default", "ja": "債務不履行" }
+    ],
+    "faq": [
+      { "q": "juvenile delinquency とは？", "a": "『少年非行』のことです。未成年者による反社会的行動や軽犯罪を指します。" },
+      { "q": "金融の delinquency とは？", "a": "『(支払いの)延滞・不履行』を指します。ローンやクレジットの返済が遅れることです。" }
+    ],
+    "quiz": [
+      { "q": "delinquency の意味は？", "A": "(少年の)非行・延滞", "B": "優等生", "C": "貯蓄", "D": "祝福", "correct": "A" },
+      { "q": "juvenile delinquency の意味は？", "A": "少年非行", "B": "少年野球", "C": "少年漫画", "D": "少年合唱", "correct": "A" }
+    ]
+  },
+  {
+    "english": "demonstration",
+    "pron": "ˌdemənˈstreɪʃ(ə)n",
+    "kana": "デモンストレーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 demonstrare（示す）から",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "説明・社会"],
+    "meaning_main": "実演 / 実証 / デモ(抗議行動)",
+    "description": "demonstration の意味・発音・使い方。「実演・実証」や「デモ(抗議行動)」を表す名詞。動詞 demonstrate との関係を例文とともに解説します。",
+    "keywords": ["demonstration 意味", "demonstration 使い方", "demonstration 発音", "デモ 英語"],
+    "meanings": [
+      { "hinshi": "【名】実演、実証、説明", "note": "やって見せること・証明すること。a product demonstration(製品の実演)。可算" },
+      { "hinshi": "【名】デモ、抗議行動", "note": "大勢で意思表示する集会。a peaceful demonstration(平和なデモ)" }
+    ],
+    "usages": [
+      { "title": "① 「実演・実証」", "desc": "やって見せる・証明する。", "example_en": "He gave a cooking demonstration.", "example_ja": "彼は料理の実演をした。" },
+      { "title": "② 「デモ」", "desc": "抗議の集会。", "example_en": "Thousands joined the demonstration.", "example_ja": "数千人がデモに参加した。" }
+    ],
+    "warn": ["動詞は demonstrate(実演する・実証する・デモをする)。略して demo。抗議行動のデモも demonstration。"],
+    "etym_note": "ラテン語 demonstrare（de-「完全に」+ monstrare「示す」)「示す」に由来します。",
+    "etym_chain": [
+      { "node": "demonstrare", "sub": "示す", "era": "ラテン語" },
+      { "node": "demonstration", "sub": "実証・実演", "era": "中英語" },
+      { "node": "demonstration", "sub": "実演・デモ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a product demonstration", "ja": "製品の実演" },
+      { "en": "a cooking demonstration", "ja": "料理の実演" },
+      { "en": "a peaceful demonstration", "ja": "平和なデモ" },
+      { "en": "hold a demonstration", "ja": "デモを行う" },
+      { "en": "a demonstration of skill", "ja": "技術の実演" },
+      { "en": "a mass demonstration", "ja": "大規模なデモ" }
+    ],
+    "related": [
+      { "en": "demonstrate", "ja": "実演する、デモをする" },
+      { "en": "protest", "ja": "抗議(する)" },
+      { "en": "display", "ja": "展示、示す" },
+      { "en": "rally", "ja": "集会" }
+    ],
+    "faq": [
+      { "q": "demonstration の2つの意味は？", "a": "① 『実演・実証(やって見せること・証明すること)』② 『デモ・抗議行動(大勢で意思表示する集会)』です。文脈で判断します。" },
+      { "q": "動詞形は？", "a": "demonstrate(実演する・実証する・デモをする)です。" }
+    ],
+    "quiz": [
+      { "q": "demonstration の意味は？", "A": "実演・実証・デモ", "B": "破壊", "C": "貯金", "D": "睡眠", "correct": "A" },
+      { "q": "a product demonstration の意味は？", "A": "製品の実演", "B": "製品の破壊", "C": "製品の値段", "D": "製品の在庫", "correct": "A" }
+    ]
+  },
+  {
+    "english": "demonstrative",
+    "pron": "dɪˈmɒnstrətɪv",
+    "kana": "デモンストラティブ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "demonstrate（示す）+ -ive",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "感情・文法"],
+    "meaning_main": "感情を率直に表す / (文法)指示の(this/that など)",
+    "description": "demonstrative の意味・発音・使い方。「感情を率直に表す・愛情表現が豊かな」を表す形容詞。文法の『指示詞(this/that)』の意味も例文で解説します。",
+    "keywords": ["demonstrative 意味", "demonstrative 使い方", "demonstrative 発音", "指示詞 英語"],
+    "meanings": [
+      { "hinshi": "【形】感情を率直に表す、愛情表現が豊かな", "note": "気持ちをはっきり態度に出す。a demonstrative person(感情表現の豊かな人)" },
+      { "hinshi": "【形】(文法)指示の", "note": "demonstrative pronoun/adjective(指示代名詞/指示形容詞。this, that など)" }
+    ],
+    "usages": [
+      { "title": "① 「感情を表す」", "desc": "気持ちを率直に出す。", "example_en": "He is very demonstrative in showing affection.", "example_ja": "彼は愛情表現がとても豊かだ。" },
+      { "title": "② 文法「指示の」", "desc": "this/that など。", "example_en": "'This' and 'that' are demonstrative pronouns.", "example_ja": "『this』や『that』は指示代名詞だ。" }
+    ],
+    "warn": ["動詞 demonstrate(示す)から。感情の意味では『気持ちを態度に出す』、文法では『指示の(this, that, these, those)』の意味。"],
+    "etym_note": "demonstrate（示す)に『〜する性質の』を表す -ive が付いた語です。",
+    "etym_chain": [
+      { "node": "demonstrare", "sub": "示す", "era": "ラテン語" },
+      { "node": "demonstrative", "sub": "示す・指示の", "era": "中英語" },
+      { "node": "demonstrative", "sub": "感情を表す・指示の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a demonstrative person", "ja": "感情表現の豊かな人" },
+      { "en": "openly demonstrative", "ja": "率直に感情を表す" },
+      { "en": "not very demonstrative", "ja": "あまり感情を出さない" },
+      { "en": "a demonstrative pronoun", "ja": "指示代名詞" },
+      { "en": "a demonstrative adjective", "ja": "指示形容詞" },
+      { "en": "demonstrative of affection", "ja": "愛情を示す" }
+    ],
+    "related": [
+      { "en": "demonstrate", "ja": "示す" },
+      { "en": "expressive", "ja": "表情豊かな" },
+      { "en": "affectionate", "ja": "愛情のこもった" },
+      { "en": "reserved", "ja": "控えめな" }
+    ],
+    "faq": [
+      { "q": "demonstrative の感情の意味は？", "a": "『(愛情などの)感情を率直に態度に出す・表現が豊かな』という意味です。a demonstrative person(感情表現の豊かな人)のように使います。" },
+      { "q": "文法の demonstrative とは？", "a": "『指示の』という意味で、demonstrative pronoun(指示代名詞: this, that, these, those)などを指します。" }
+    ],
+    "quiz": [
+      { "q": "demonstrative の意味は？", "A": "感情を率直に表す/指示の", "B": "無感情な", "C": "秘密の", "D": "危険な", "correct": "A" },
+      { "q": "demonstrative pronoun の例は？", "A": "this, that", "B": "run, jump", "C": "big, small", "D": "quickly, slowly", "correct": "A" }
+    ]
+  },
+  {
+    "english": "dependability",
+    "pron": "dɪˌpendəˈbɪləti",
+    "kana": "ディペンダビリティ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "dependable（頼りになる）+ -ity",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "性質・信頼"],
+    "meaning_main": "信頼性 / 頼りになること / 当てにできること",
+    "description": "dependability の意味・発音・使い方。「頼りになること・信頼性」を表す名詞。人や製品が当てにできる性質を表す用法を例文とともに解説します。",
+    "keywords": ["dependability 意味", "dependability 使い方", "dependability 発音", "信頼性 英語"],
+    "meanings": [
+      { "hinshi": "【名】信頼性、頼りになること", "note": "いつも当てにできる性質。a reputation for dependability(信頼できるという評判)。不可算" }
+    ],
+    "usages": [
+      { "title": "① 「信頼性」", "desc": "当てにできる性質。", "example_en": "The car is known for its dependability.", "example_ja": "その車は信頼性で知られている。" },
+      { "title": "② 人柄の評価で", "desc": "頼りになること。", "example_en": "Her dependability makes her a great employee.", "example_ja": "彼女の頼りがいのよさが優秀な社員たらしめている。" }
+    ],
+    "warn": ["形容詞は dependable(頼りになる)、動詞 depend(頼る)。reliability(信頼性)とほぼ同義。反対は unreliability(当てにならなさ)。"],
+    "etym_note": "dependable（depend「頼る」+ -able)に『〜であること』を表す -ity が付いた語です。",
+    "etym_chain": [
+      { "node": "depend", "sub": "頼る", "era": "中英語" },
+      { "node": "dependable", "sub": "頼りになる", "era": "近代英語" },
+      { "node": "dependability", "sub": "信頼性", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a reputation for dependability", "ja": "信頼できるという評判" },
+      { "en": "known for dependability", "ja": "信頼性で知られる" },
+      { "en": "prove one's dependability", "ja": "信頼性を証明する" },
+      { "en": "value dependability", "ja": "信頼性を重んじる" },
+      { "en": "reliability and dependability", "ja": "信頼性と頼りがい" },
+      { "en": "product dependability", "ja": "製品の信頼性" }
+    ],
+    "related": [
+      { "en": "dependable", "ja": "頼りになる" },
+      { "en": "reliability", "ja": "信頼性" },
+      { "en": "trustworthiness", "ja": "信頼できること" },
+      { "en": "depend", "ja": "頼る" }
+    ],
+    "faq": [
+      { "q": "dependability と reliability の違いは？", "a": "ほぼ同義で『信頼性・頼りになること』です。どちらも人や製品がいつも当てにできる性質を表します。" },
+      { "q": "形容詞形は？", "a": "dependable(頼りになる・信頼できる)です。" }
+    ],
+    "quiz": [
+      { "q": "dependability の意味は？", "A": "信頼性、頼りになること", "B": "危険性", "C": "複雑さ", "D": "速さ", "correct": "A" },
+      { "q": "dependability の形容詞形は？", "A": "dependable", "B": "dependent", "C": "depending", "D": "depended", "correct": "A" }
+    ]
+  },
+  {
+    "english": "deplete",
+    "pron": "dɪˈpliːt",
+    "kana": "ディプリート",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 deplere（空にする）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "資源・環境"],
+    "meaning_main": "(資源などを)使い果たす / 激減させる / 枯渇させる",
+    "description": "deplete の意味・発音・使い方。「(資源・体力などを)使い果たす・激減させる」を表す動詞。資源や在庫の枯渇を表す用法を例文とともに解説します。",
+    "keywords": ["deplete 意味", "deplete 使い方", "deplete 発音", "枯渇 英語"],
+    "meanings": [
+      { "hinshi": "【動】(資源などを)使い果たす、激減させる、枯渇させる", "note": "量を大きく減らす。deplete natural resources(天然資源を枯渇させる)" }
+    ],
+    "usages": [
+      { "title": "① 「使い果たす」", "desc": "資源などを激減させる。", "example_en": "Overfishing depletes fish stocks.", "example_ja": "乱獲は魚の資源を枯渇させる。" },
+      { "title": "② 体力・貯蓄に", "desc": "大きく減らす。", "example_en": "The illness depleted his energy.", "example_ja": "その病気は彼の体力を消耗させた。" }
+    ],
+    "warn": ["名詞は depletion(枯渇)、形容詞 depleted(使い果たした)。反対は replenish(補充する)。resources(資源)によく使う。"],
+    "etym_note": "ラテン語 deplere（de-「取り去る」+ plere「満たす」→空にする)に由来します。",
+    "etym_chain": [
+      { "node": "deplere", "sub": "空にする", "era": "ラテン語" },
+      { "node": "deplete", "sub": "使い果たす", "era": "19世紀英語" },
+      { "node": "deplete", "sub": "枯渇させる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "deplete resources", "ja": "資源を枯渇させる" },
+      { "en": "deplete reserves", "ja": "備蓄を使い果たす" },
+      { "en": "deplete the ozone layer", "ja": "オゾン層を破壊する" },
+      { "en": "severely deplete", "ja": "著しく枯渇させる" },
+      { "en": "deplete energy", "ja": "体力を消耗させる" },
+      { "en": "become depleted", "ja": "枯渇する" }
+    ],
+    "related": [
+      { "en": "depletion", "ja": "枯渇" },
+      { "en": "exhaust", "ja": "使い果たす" },
+      { "en": "drain", "ja": "使い尽くす" },
+      { "en": "replenish", "ja": "補充する" }
+    ],
+    "faq": [
+      { "q": "deplete の反対語は？", "a": "replenish(補充する)や restore(回復させる)です。deplete は『使い果たす・枯渇させる』です。" },
+      { "q": "名詞形は？", "a": "depletion(枯渇)です。ozone depletion(オゾン層の破壊)などで使います。" }
+    ],
+    "quiz": [
+      { "q": "deplete の意味は？", "A": "使い果たす、枯渇させる", "B": "補充する", "C": "作り出す", "D": "保存する", "correct": "A" },
+      { "q": "deplete の反対語は？", "A": "replenish(補充する)", "B": "exhaust(使い果たす)", "C": "drain(使い尽くす)", "D": "reduce(減らす)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "depravity",
+    "pron": "dɪˈprævəti",
+    "kana": "ディプラビティ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 depravare（曲げる・堕落させる）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "道徳・悪徳"],
+    "meaning_main": "堕落 / 邪悪 / 道徳的退廃",
+    "description": "depravity の意味・発音・使い方。「(道徳的な)堕落・邪悪・退廃」を表すフォーマルな名詞。形容詞 depraved との関係を例文とともに解説します。",
+    "keywords": ["depravity 意味", "depravity 使い方", "depravity 発音", "堕落 英語"],
+    "meanings": [
+      { "hinshi": "【名】堕落、邪悪、道徳的退廃", "note": "道徳的に極度に堕落した状態・行い。moral depravity(道徳的堕落)。不可算" }
+    ],
+    "usages": [
+      { "title": "① 「堕落・邪悪」", "desc": "道徳的な退廃。", "example_en": "The novel depicts human depravity.", "example_ja": "その小説は人間の堕落を描いている。" },
+      { "title": "② 極度の悪徳", "desc": "邪悪な行い。", "example_en": "They were shocked by his depravity.", "example_ja": "彼らは彼の邪悪さに衝撃を受けた。" }
+    ],
+    "warn": ["形容詞は depraved(堕落した・邪悪な)。virtue(美徳)/purity(清らかさ)の反対。強い道徳的非難を含む語。"],
+    "etym_note": "ラテン語 depravare（de-「強意」+ pravus「曲がった・邪悪な」)「堕落させる」に由来します。",
+    "etym_chain": [
+      { "node": "depravare", "sub": "曲げる・堕落させる", "era": "ラテン語" },
+      { "node": "depravity", "sub": "堕落", "era": "16世紀英語" },
+      { "node": "depravity", "sub": "堕落・邪悪", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "moral depravity", "ja": "道徳的堕落" },
+      { "en": "human depravity", "ja": "人間の堕落" },
+      { "en": "utter depravity", "ja": "完全な堕落" },
+      { "en": "acts of depravity", "ja": "邪悪な行い" },
+      { "en": "sink into depravity", "ja": "堕落する" },
+      { "en": "a life of depravity", "ja": "堕落した人生" }
+    ],
+    "related": [
+      { "en": "depraved", "ja": "堕落した、邪悪な" },
+      { "en": "corruption", "ja": "腐敗、堕落" },
+      { "en": "wickedness", "ja": "邪悪さ" },
+      { "en": "virtue", "ja": "美徳" }
+    ],
+    "faq": [
+      { "q": "depravity と corruption の違いは？", "a": "corruption は『(組織・道徳の)腐敗』全般、depravity は特に『(個人の)道徳的に極度に堕落した状態・邪悪さ』に重点があります。" },
+      { "q": "形容詞形は？", "a": "depraved(堕落した・邪悪な)です。" }
+    ],
+    "quiz": [
+      { "q": "depravity の意味は？", "A": "堕落、邪悪、道徳的退廃", "B": "美徳", "C": "清らかさ", "D": "勇気", "correct": "A" },
+      { "q": "depravity の形容詞形は？", "A": "depraved", "B": "deprived", "C": "depressed", "D": "deprecated", "correct": "A" }
+    ]
+  },
+  {
+    "english": "depressed",
+    "pron": "dɪˈprest",
+    "kana": "ディプレスト",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "depress（落ち込ませる）+ -ed",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "感情・医療"],
+    "meaning_main": "落ち込んだ / 憂鬱な / (経済が)不振の",
+    "description": "depressed の意味・発音・使い方。「落ち込んだ・憂鬱な」を表す形容詞。うつ状態や経済の不振を表す用法を例文とともに解説します。",
+    "keywords": ["depressed 意味", "depressed 使い方", "depressed 発音", "落ち込む 英語"],
+    "meanings": [
+      { "hinshi": "【形】落ち込んだ、憂鬱な", "note": "気分が沈んだ。医学ではうつ状態も。feel depressed(落ち込む)" },
+      { "hinshi": "【形】(経済が)不振の、沈滞した", "note": "a depressed economy(不況の経済)" }
+    ],
+    "usages": [
+      { "title": "① 「落ち込んだ」", "desc": "気分が沈む。", "example_en": "She felt depressed after the news.", "example_ja": "彼女はその知らせのあと落ち込んだ。" },
+      { "title": "② 「経済が不振の」", "desc": "沈滞した状態。", "example_en": "The region has a depressed economy.", "example_ja": "その地域は経済が不振だ。" }
+    ],
+    "warn": ["動詞 depress(落ち込ませる)、名詞 depression(うつ病・不況)。医学的な『うつ病』は clinical depression。深刻な場合は専門家に相談を。"],
+    "etym_note": "depress（ラテン語 deprimere「下へ押す」から)の過去分詞から形容詞化しました。",
+    "etym_chain": [
+      { "node": "deprimere", "sub": "下へ押す", "era": "ラテン語" },
+      { "node": "depress", "sub": "落ち込ませる", "era": "中英語" },
+      { "node": "depressed", "sub": "落ち込んだ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "feel depressed", "ja": "落ち込む" },
+      { "en": "get depressed", "ja": "憂鬱になる" },
+      { "en": "a depressed mood", "ja": "沈んだ気分" },
+      { "en": "clinically depressed", "ja": "臨床的にうつ状態の" },
+      { "en": "a depressed economy", "ja": "不況の経済" },
+      { "en": "deeply depressed", "ja": "深く落ち込んで" }
+    ],
+    "related": [
+      { "en": "depress", "ja": "落ち込ませる" },
+      { "en": "depression", "ja": "うつ病、不況" },
+      { "en": "sad", "ja": "悲しい" },
+      { "en": "cheerful", "ja": "陽気な" }
+    ],
+    "faq": [
+      { "q": "depressed と sad の違いは？", "a": "sad は一時的な『悲しい』、depressed は『(より深く長く)落ち込んだ・憂鬱な』状態を表します。医学的には『うつ状態』を指すこともあります。" },
+      { "q": "経済の depressed とは？", "a": "『(経済が)不振の・沈滞した』という意味です。a depressed economy(不況の経済)のように使います。" }
+    ],
+    "quiz": [
+      { "q": "depressed の意味は？", "A": "落ち込んだ、憂鬱な", "B": "元気な", "C": "興奮した", "D": "怒った", "correct": "A" },
+      { "q": "a depressed economy の意味は？", "A": "不振の経済", "B": "好況の経済", "C": "新しい経済", "D": "大きな経済", "correct": "A" }
+    ]
+  },
+  {
+    "english": "deranged",
+    "pron": "dɪˈreɪndʒd",
+    "kana": "ディレインジド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "derange（混乱させる）+ -ed",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "精神・描写"],
+    "meaning_main": "(精神が)錯乱した / 常軌を逸した / 狂気じみた",
+    "description": "deranged の意味・発音・使い方。「(精神が)錯乱した・常軌を逸した」を表す形容詞。正常な判断ができない状態を表す用法を例文とともに解説します。",
+    "keywords": ["deranged 意味", "deranged 使い方", "deranged 発音", "錯乱 英語"],
+    "meanings": [
+      { "hinshi": "【形】(精神が)錯乱した、常軌を逸した、狂気じみた", "note": "正常な精神状態を失った。a deranged mind(錯乱した精神)。強い語" }
+    ],
+    "usages": [
+      { "title": "① 「錯乱した」", "desc": "正常な判断ができない。", "example_en": "The attacker appeared deranged.", "example_ja": "その襲撃者は錯乱しているように見えた。" },
+      { "title": "② 「常軌を逸した」", "desc": "狂気じみた様子。", "example_en": "It was a deranged plan.", "example_ja": "それは常軌を逸した計画だった。" }
+    ],
+    "warn": ["動詞 derange(混乱させる)。de-(乱す)+ range(整った状態)。強い語で、人に軽々しく使うと失礼。insane(正気でない)と近い。"],
+    "etym_note": "derange（フランス語 déranger「列を乱す」から。de-「乱す」+ rang「列」)の過去分詞から形容詞化しました。",
+    "etym_chain": [
+      { "node": "déranger", "sub": "列を乱す", "era": "フランス語" },
+      { "node": "derange", "sub": "混乱させる", "era": "18世紀英語" },
+      { "node": "deranged", "sub": "錯乱した", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a deranged mind", "ja": "錯乱した精神" },
+      { "en": "mentally deranged", "ja": "精神が錯乱した" },
+      { "en": "a deranged killer", "ja": "常軌を逸した殺人者" },
+      { "en": "appear deranged", "ja": "錯乱して見える" },
+      { "en": "a deranged plan", "ja": "常軌を逸した計画" },
+      { "en": "become deranged", "ja": "錯乱する" }
+    ],
+    "related": [
+      { "en": "derange", "ja": "混乱させる" },
+      { "en": "insane", "ja": "正気でない" },
+      { "en": "mad", "ja": "気の狂った" },
+      { "en": "sane", "ja": "正気の" }
+    ],
+    "faq": [
+      { "q": "deranged と insane の違いは？", "a": "どちらも『正気でない』ですが、deranged は特に『(一時的または深刻に)精神が錯乱・混乱した』状態、insane は『(法律・医学的にも)正気でない』を指すことがあります。" },
+      { "q": "使うときの注意は？", "a": "強い語なので、人に対して軽々しく使うと失礼・差別的になることがあります。文脈に注意が必要です。" }
+    ],
+    "quiz": [
+      { "q": "deranged の意味は？", "A": "(精神が)錯乱した、常軌を逸した", "B": "落ち着いた", "C": "賢明な", "D": "健康な", "correct": "A" },
+      { "q": "deranged の反対にあたる語は？", "A": "sane(正気の)", "B": "insane(正気でない)", "C": "mad(狂った)", "D": "crazy(気の狂った)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "dermatitis",
+    "pron": "ˌdɜːməˈtaɪtɪs",
+    "kana": "ダーマタイティス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 derma（皮膚）+ -itis（炎症）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "医学・皮膚"],
+    "meaning_main": "皮膚炎",
+    "description": "dermatitis の意味・発音・使い方。皮膚が炎症を起こす「皮膚炎」を表す医学用語。かゆみや赤みを伴う症状や関連語を例文とともに解説します。",
+    "keywords": ["dermatitis 意味", "dermatitis 使い方", "dermatitis 発音", "皮膚炎 英語"],
+    "meanings": [
+      { "hinshi": "【名】皮膚炎", "note": "皮膚が炎症を起こし、かゆみ・赤み・湿疹などを伴う状態。不可算。derma(皮膚)+ -itis(炎症)" }
+    ],
+    "usages": [
+      { "title": "① 「皮膚炎」", "desc": "皮膚の炎症。", "example_en": "She was diagnosed with dermatitis.", "example_ja": "彼女は皮膚炎と診断された。" },
+      { "title": "② 種類の説明で", "desc": "接触性皮膚炎など。", "example_en": "Contact dermatitis is caused by irritants.", "example_ja": "接触性皮膚炎は刺激物によって起こる。" }
+    ],
+    "warn": ["-itis(炎症)は arthritis(関節炎)などと同じ。皮膚科医は dermatologist、皮膚科学は dermatology。atopic dermatitis はアトピー性皮膚炎。"],
+    "etym_note": "ギリシャ語 derma（皮膚)に『炎症』を表す接尾辞 -itis が付いた語です。",
+    "etym_chain": [
+      { "node": "derma + -itis", "sub": "皮膚+炎症", "era": "近代医学ラテン語" },
+      { "node": "dermatitis", "sub": "皮膚炎", "era": "19世紀英語" },
+      { "node": "dermatitis", "sub": "皮膚炎", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "atopic dermatitis", "ja": "アトピー性皮膚炎" },
+      { "en": "contact dermatitis", "ja": "接触性皮膚炎" },
+      { "en": "treat dermatitis", "ja": "皮膚炎を治療する" },
+      { "en": "suffer from dermatitis", "ja": "皮膚炎に苦しむ" },
+      { "en": "chronic dermatitis", "ja": "慢性皮膚炎" },
+      { "en": "signs of dermatitis", "ja": "皮膚炎の兆候" }
+    ],
+    "related": [
+      { "en": "dermatology", "ja": "皮膚科学" },
+      { "en": "dermatologist", "ja": "皮膚科医" },
+      { "en": "eczema", "ja": "湿疹" },
+      { "en": "rash", "ja": "発疹" }
+    ],
+    "faq": [
+      { "q": "dermatitis とは？", "a": "皮膚が炎症を起こし、かゆみ・赤み・湿疹などを伴う状態『皮膚炎』です。接触性皮膚炎やアトピー性皮膚炎などの種類があります。" },
+      { "q": "-itis とは？", "a": "『炎症』を表す接尾辞です。dermatitis(皮膚炎)、arthritis(関節炎)、bronchitis(気管支炎)などに使われます。" }
+    ],
+    "quiz": [
+      { "q": "dermatitis の意味は？", "A": "皮膚炎", "B": "骨折", "C": "頭痛", "D": "腹痛", "correct": "A" },
+      { "q": "-itis が表す意味は？", "A": "炎症", "B": "手術", "C": "薬", "D": "検査", "correct": "A" }
+    ]
+  },
+  {
+    "english": "deserving",
+    "pron": "dɪˈzɜːvɪŋ",
+    "kana": "ディザービング",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "deserve（値する）+ -ing",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "評価・価値"],
+    "meaning_main": "(援助・報酬に)値する / ふさわしい / 立派な",
+    "description": "deserving の意味・発音・使い方。「(援助や報酬に)値する・ふさわしい」を表す形容詞。deserving of の形を例文とともに解説します。",
+    "keywords": ["deserving 意味", "deserving 使い方", "deserving 発音", "値する 英語"],
+    "meanings": [
+      { "hinshi": "【形】(援助・報酬に)値する、ふさわしい、立派な", "note": "受けるにふさわしい。deserving of ...(〜に値する)。a deserving cause(援助にふさわしい活動)" }
+    ],
+    "usages": [
+      { "title": "① 「値する・ふさわしい」", "desc": "受けるにふさわしい。", "example_en": "The award went to a deserving candidate.", "example_ja": "その賞はふさわしい候補者に贈られた。" },
+      { "title": "② deserving of", "desc": "『〜に値する』。", "example_en": "She is deserving of praise.", "example_ja": "彼女は称賛に値する。" }
+    ],
+    "warn": ["動詞 deserve(値する)から。deserving of ...(〜に値する)の形。反対は undeserving(値しない)。a deserving cause(支援に値する活動)。"],
+    "etym_note": "deserve（ラテン語 deservire「熱心に仕える」から)に -ing が付いた語です。",
+    "etym_chain": [
+      { "node": "deservire", "sub": "熱心に仕える", "era": "ラテン語" },
+      { "node": "deserve", "sub": "値する", "era": "中英語" },
+      { "node": "deserving", "sub": "値する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "deserving of", "ja": "〜に値する" },
+      { "en": "a deserving cause", "ja": "支援にふさわしい活動" },
+      { "en": "a deserving winner", "ja": "ふさわしい勝者" },
+      { "en": "deserving of praise", "ja": "称賛に値する" },
+      { "en": "the deserving poor", "ja": "支援に値する貧しい人々" },
+      { "en": "well deserving", "ja": "十分にふさわしい" }
+    ],
+    "related": [
+      { "en": "deserve", "ja": "値する" },
+      { "en": "worthy", "ja": "値する、立派な" },
+      { "en": "meritorious", "ja": "功績のある" },
+      { "en": "undeserving", "ja": "値しない" }
+    ],
+    "faq": [
+      { "q": "deserving of とは？", "a": "『〜に値する・ふさわしい』という意味です。deserving of respect(尊敬に値する)のように使います。" },
+      { "q": "反対語は？", "a": "undeserving(値しない・ふさわしくない)です。" }
+    ],
+    "quiz": [
+      { "q": "deserving の意味は？", "A": "(援助・報酬に)値する、ふさわしい", "B": "値しない", "C": "危険な", "D": "退屈な", "correct": "A" },
+      { "q": "deserving of praise の意味は？", "A": "称賛に値する", "B": "批判に値する", "C": "無視される", "D": "罰せられる", "correct": "A" }
+    ]
+  }
+]

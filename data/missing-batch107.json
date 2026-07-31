@@ -1,0 +1,990 @@
+[
+  {
+    "english": "desktop",
+    "pron": "ˈdesktɒp",
+    "kana": "デスクトップ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "desk（机）+ top（上面）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "IT・基本語"],
+    "meaning_main": "机の上 / デスクトップパソコン / (画面の)デスクトップ",
+    "description": "desktop の意味・発音・使い方。「机の上」や、据え置き型の「デスクトップパソコン」、画面の「デスクトップ」を表す名詞。laptop との違いを例文で解説します。",
+    "keywords": ["desktop 意味", "desktop 使い方", "desktop 発音", "デスクトップ 英語"],
+    "meanings": [
+      { "hinshi": "【名】デスクトップパソコン", "note": "机に置いて使う据え置き型のパソコン。laptop(ノート)の反対。可算" },
+      { "hinshi": "【名】(画面の)デスクトップ、机の上", "note": "パソコン画面の基本画面。また文字通り『机の上』" }
+    ],
+    "usages": [
+      { "title": "① 「デスクトップPC」", "desc": "据え置き型パソコン。", "example_en": "I work on a desktop at the office.", "example_ja": "私は職場でデスクトップパソコンを使う。" },
+      { "title": "② 画面の「デスクトップ」", "desc": "基本画面。", "example_en": "The icon is on the desktop.", "example_ja": "そのアイコンはデスクトップにある。" }
+    ],
+    "warn": ["desk(机)+ top(上面)。持ち運ぶノートパソコンは laptop。画面の基本画面もデスクトップ。"],
+    "etym_note": "desk（机)と top（上面)を組み合わせた語で、『机の上』が原義です。",
+    "etym_chain": [
+      { "node": "desk + top", "sub": "机+上面", "era": "近代英語" },
+      { "node": "desktop", "sub": "机の上", "era": "20世紀" },
+      { "node": "desktop", "sub": "デスクトップPC・画面", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a desktop computer", "ja": "デスクトップパソコン" },
+      { "en": "on the desktop", "ja": "デスクトップ(画面)に" },
+      { "en": "desktop and laptop", "ja": "デスクトップとノート" },
+      { "en": "a desktop icon", "ja": "デスクトップのアイコン" },
+      { "en": "desktop publishing", "ja": "DTP、卓上出版" },
+      { "en": "clear the desktop", "ja": "デスクトップを片づける" }
+    ],
+    "related": [
+      { "en": "laptop", "ja": "ノートパソコン" },
+      { "en": "computer", "ja": "コンピューター" },
+      { "en": "screen", "ja": "画面" },
+      { "en": "monitor", "ja": "モニター" }
+    ],
+    "faq": [
+      { "q": "desktop と laptop の違いは？", "a": "desktop は机に据え置いて使う『デスクトップパソコン』、laptop は持ち運べる『ノートパソコン』です。" },
+      { "q": "画面の desktop とは？", "a": "パソコンを起動したときに表示される『基本画面(デスクトップ)』のことです。アイコンなどが並んでいます。" }
+    ],
+    "quiz": [
+      { "q": "desktop の意味は？", "A": "机の上・デスクトップPC・画面", "B": "ノートパソコンだけ", "C": "スマホ", "D": "プリンター", "correct": "A" },
+      { "q": "desktop の反対にあたる語は？", "A": "laptop(ノートパソコン)", "B": "monitor(モニター)", "C": "keyboard(キーボード)", "D": "mouse(マウス)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "desolate",
+    "pron": "ˈdesələt",
+    "kana": "デソレット",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 desolare（見捨てる・孤立させる）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "描写・感情"],
+    "meaning_main": "荒れ果てた / 人けのない / (心が)寂しく孤独な",
+    "description": "desolate の意味・発音・使い方。「(場所が)荒れ果てて人けのない」や「(心が)寂しく孤独な」を表す形容詞。荒涼とした風景や深い孤独を例文で解説します。",
+    "keywords": ["desolate 意味", "desolate 使い方", "desolate 発音", "荒れ果てた 英語"],
+    "meanings": [
+      { "hinshi": "【形】荒れ果てた、人けのない、荒涼とした", "note": "見捨てられて寂しい。a desolate landscape(荒涼とした風景)" },
+      { "hinshi": "【形】(心が)寂しく孤独な、打ちひしがれた", "note": "feel desolate(打ちひしがれる)" }
+    ],
+    "usages": [
+      { "title": "① 「荒れ果てた」", "desc": "人けのない荒涼とした様子。", "example_en": "The area was cold and desolate.", "example_ja": "その地域は寒く荒涼としていた。" },
+      { "title": "② 「寂しく孤独な」", "desc": "深い孤独感。", "example_en": "She felt desolate after the loss.", "example_ja": "彼女は喪失のあと打ちひしがれた。" }
+    ],
+    "warn": ["名詞は desolation(荒廃・寂寞)。deserted(見捨てられた)と近いが、desolate は『荒涼とした寂しさ』や『心の孤独』も含む。"],
+    "etym_note": "ラテン語 desolare（de-「完全に」+ solus「ひとり」→見捨てて孤立させる)に由来します。",
+    "etym_chain": [
+      { "node": "desolare", "sub": "見捨てる・孤立させる", "era": "ラテン語" },
+      { "node": "desolate", "sub": "荒れ果てた", "era": "中英語" },
+      { "node": "desolate", "sub": "荒れ果てた・孤独な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a desolate landscape", "ja": "荒涼とした風景" },
+      { "en": "a desolate place", "ja": "人けのない場所" },
+      { "en": "feel desolate", "ja": "打ちひしがれる" },
+      { "en": "a desolate wasteland", "ja": "荒れ果てた荒野" },
+      { "en": "bleak and desolate", "ja": "わびしく荒涼とした" },
+      { "en": "look desolate", "ja": "荒涼として見える" }
+    ],
+    "related": [
+      { "en": "desolation", "ja": "荒廃、寂寞" },
+      { "en": "barren", "ja": "不毛の" },
+      { "en": "deserted", "ja": "見捨てられた" },
+      { "en": "bleak", "ja": "わびしい、荒涼とした" }
+    ],
+    "faq": [
+      { "q": "desolate の2つの意味は？", "a": "① 場所が『荒れ果てて人けのない・荒涼とした』② 心が『寂しく孤独な・打ちひしがれた』です。どちらも見捨てられた寂しさを含みます。" },
+      { "q": "deserted との違いは？", "a": "deserted は『(人が)いなくなった・見捨てられた』、desolate はそれに加えて『荒涼とした寂しさ・孤独感』を強く含みます。" }
+    ],
+    "quiz": [
+      { "q": "desolate の意味は？", "A": "荒れ果てた・寂しく孤独な", "B": "にぎやかな", "C": "豊かな", "D": "暖かい", "correct": "A" },
+      { "q": "feel desolate の意味は？", "A": "打ちひしがれる", "B": "元気になる", "C": "興奮する", "D": "満足する", "correct": "A" }
+    ]
+  },
+  {
+    "english": "despot",
+    "pron": "ˈdespɒt",
+    "kana": "デスポット",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 despotes（主人・支配者）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "政治・権力"],
+    "meaning_main": "専制君主 / 独裁者 / 暴君",
+    "description": "despot の意味・発音・使い方。「絶対的な権力をふるう専制君主・独裁者」を表す名詞。形容詞 despotic との関係を例文とともに解説します。",
+    "keywords": ["despot 意味", "despot 使い方", "despot 発音", "専制君主 英語"],
+    "meanings": [
+      { "hinshi": "【名】専制君主、独裁者、暴君", "note": "絶対的な権力を握り、人々を支配する統治者。否定的。可算" }
+    ],
+    "usages": [
+      { "title": "① 「専制君主・暴君」", "desc": "絶対権力の支配者。", "example_en": "The country was ruled by a cruel despot.", "example_ja": "その国は残忍な専制君主に支配された。" },
+      { "title": "② 権力の批判で", "desc": "独裁的な支配者。", "example_en": "He ruled as a despot for decades.", "example_ja": "彼は何十年も独裁者として支配した。" }
+    ],
+    "warn": ["形容詞 despotic(専制的な)、名詞 despotism(専制政治)。tyrant(暴君)、dictator(独裁者)と近い。"],
+    "etym_note": "ギリシャ語 despotes（主人・絶対的支配者)に由来します。",
+    "etym_chain": [
+      { "node": "despotes", "sub": "主人・支配者", "era": "古代ギリシャ語" },
+      { "node": "despot", "sub": "専制君主", "era": "16世紀英語" },
+      { "node": "despot", "sub": "専制君主・独裁者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a cruel despot", "ja": "残忍な専制君主" },
+      { "en": "rule as a despot", "ja": "独裁者として支配する" },
+      { "en": "an enlightened despot", "ja": "啓蒙専制君主" },
+      { "en": "a ruthless despot", "ja": "冷酷な暴君" },
+      { "en": "overthrow a despot", "ja": "専制君主を倒す" },
+      { "en": "under a despot", "ja": "専制君主の下で" }
+    ],
+    "related": [
+      { "en": "despotic", "ja": "専制的な" },
+      { "en": "tyrant", "ja": "暴君" },
+      { "en": "dictator", "ja": "独裁者" },
+      { "en": "autocrat", "ja": "独裁者" }
+    ],
+    "faq": [
+      { "q": "despot と tyrant の違いは？", "a": "どちらも『独裁的な支配者』ですが、despot は『絶対的権力を握る専制君主』、tyrant は特に『残忍・不当に支配する暴君』に重点があります。" },
+      { "q": "enlightened despot とは？", "a": "『啓蒙専制君主』のことです。絶対的な権力をもちながら、啓蒙思想に基づいて改革を行った君主を指します。" }
+    ],
+    "quiz": [
+      { "q": "despot の意味は？", "A": "専制君主、独裁者", "B": "民主的な指導者", "C": "商人", "D": "農民", "correct": "A" },
+      { "q": "despot の形容詞形は？", "A": "despotic", "B": "desperate", "C": "despicable", "D": "despondent", "correct": "A" }
+    ]
+  },
+  {
+    "english": "detention",
+    "pron": "dɪˈtenʃ(ə)n",
+    "kana": "ディテンション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 detinere（引き止める）から",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "学校・法律"],
+    "meaning_main": "拘留 / 勾留 / (罰としての)居残り",
+    "description": "detention の意味・発音・使い方。「(法律上の)拘留・勾留」や、学校の罰としての「居残り」を表す名詞。動詞 detain との関係を例文で解説します。",
+    "keywords": ["detention 意味", "detention 使い方", "detention 発音", "拘留 英語"],
+    "meanings": [
+      { "hinshi": "【名】拘留、勾留、監禁", "note": "身柄を引き止めておくこと。in detention(拘留されて)。不可算" },
+      { "hinshi": "【名】(罰としての)居残り", "note": "学校で放課後に残らせる罰。get detention(居残りになる)" }
+    ],
+    "usages": [
+      { "title": "① 「拘留」", "desc": "身柄を引き止める。", "example_en": "He was held in detention for two days.", "example_ja": "彼は2日間拘留された。" },
+      { "title": "② 学校の「居残り」", "desc": "罰として放課後に残す。", "example_en": "She got detention for being late.", "example_ja": "彼女は遅刻して居残りになった。" }
+    ],
+    "warn": ["動詞は detain(引き止める・拘留する)。detention center は『拘留施設』。学校では『居残りの罰』。"],
+    "etym_note": "ラテン語 detinere（de-「離れて」+ tenere「保つ」→引き止める)に由来します。",
+    "etym_chain": [
+      { "node": "detinere", "sub": "引き止める", "era": "ラテン語" },
+      { "node": "detention", "sub": "拘留", "era": "中英語" },
+      { "node": "detention", "sub": "拘留・居残り", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "in detention", "ja": "拘留されて" },
+      { "en": "a detention center", "ja": "拘留施設" },
+      { "en": "get detention", "ja": "居残りになる" },
+      { "en": "release from detention", "ja": "拘留から解放する" },
+      { "en": "after-school detention", "ja": "放課後の居残り" },
+      { "en": "hold in detention", "ja": "拘留する" }
+    ],
+    "related": [
+      { "en": "detain", "ja": "引き止める、拘留する" },
+      { "en": "custody", "ja": "拘留、保護" },
+      { "en": "imprisonment", "ja": "投獄" },
+      { "en": "confinement", "ja": "監禁" }
+    ],
+    "faq": [
+      { "q": "detention の2つの意味は？", "a": "① 法律上の『拘留・勾留(身柄を引き止めること)』② 学校で罰として『放課後に残らせる居残り』です。文脈で判断します。" },
+      { "q": "動詞形は？", "a": "detain(引き止める・拘留する)です。" }
+    ],
+    "quiz": [
+      { "q": "detention の意味は？", "A": "拘留・居残り", "B": "解放", "C": "表彰", "D": "休暇", "correct": "A" },
+      { "q": "get detention(学校)の意味は？", "A": "居残りになる", "B": "早退する", "C": "表彰される", "D": "遠足に行く", "correct": "A" }
+    ]
+  },
+  {
+    "english": "deteriorate",
+    "pron": "dɪˈtɪəriəreɪt",
+    "kana": "ディティアリオレイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 deterior（より悪い）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "変化・悪化"],
+    "meaning_main": "悪化する / 劣化する / (質・状態が)低下する",
+    "description": "deteriorate の意味・発音・使い方。「(状態・関係・健康などが)悪化する・劣化する」を表す動詞。徐々に悪くなる様子を表す用法を例文で解説します。",
+    "keywords": ["deteriorate 意味", "deteriorate 使い方", "deteriorate 発音", "悪化 英語"],
+    "meanings": [
+      { "hinshi": "【動】悪化する、劣化する、低下する", "note": "だんだん悪くなる。健康・関係・状況・品質などに使う。反対は improve(改善する)" }
+    ],
+    "usages": [
+      { "title": "① 「悪化する」", "desc": "状態が悪くなる。", "example_en": "His health began to deteriorate.", "example_ja": "彼の健康は悪化し始めた。" },
+      { "title": "② 「劣化する」", "desc": "品質などが低下する。", "example_en": "The building has deteriorated over the years.", "example_ja": "その建物は年月とともに劣化した。" }
+    ],
+    "warn": ["名詞は deterioration(悪化・劣化)。反対は improve(改善する)。徐々に悪くなることに使う。"],
+    "etym_note": "ラテン語 deterior（より悪い)に由来し、『より悪くなる』を表します。",
+    "etym_chain": [
+      { "node": "deterior", "sub": "より悪い", "era": "ラテン語" },
+      { "node": "deteriorate", "sub": "悪化する", "era": "17世紀英語" },
+      { "node": "deteriorate", "sub": "悪化する・劣化する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "deteriorate rapidly", "ja": "急速に悪化する" },
+      { "en": "conditions deteriorate", "ja": "状況が悪化する" },
+      { "en": "health deteriorates", "ja": "健康が悪化する" },
+      { "en": "deteriorate over time", "ja": "時とともに劣化する" },
+      { "en": "relations deteriorate", "ja": "関係が悪化する" },
+      { "en": "start to deteriorate", "ja": "悪化し始める" }
+    ],
+    "related": [
+      { "en": "deterioration", "ja": "悪化、劣化" },
+      { "en": "worsen", "ja": "悪化する" },
+      { "en": "decline", "ja": "低下する" },
+      { "en": "improve", "ja": "改善する" }
+    ],
+    "faq": [
+      { "q": "deteriorate の反対語は？", "a": "improve(改善する)や get better(よくなる)です。deteriorate は『悪化する・劣化する』です。" },
+      { "q": "worsen との違いは？", "a": "ほぼ同義で『悪化する』です。deteriorate はフォーマルで、徐々に劣化・低下するニュアンスがあります。" }
+    ],
+    "quiz": [
+      { "q": "deteriorate の意味は？", "A": "悪化する、劣化する", "B": "改善する", "C": "完成する", "D": "始まる", "correct": "A" },
+      { "q": "deteriorate の反対語は？", "A": "improve(改善する)", "B": "worsen(悪化する)", "C": "decline(低下する)", "D": "decay(腐る)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "dethrone",
+    "pron": "diːˈθrəʊn",
+    "kana": "ディスローン",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "de-（下ろす）+ throne（王座）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "権力・スポーツ"],
+    "meaning_main": "(王などを)退位させる / 王座から引きずり下ろす / (王者を)倒す",
+    "description": "dethrone の意味・発音・使い方。「(王を)退位させる・王座から引きずり下ろす」を表す動詞。スポーツで王者を倒す比喩用法も例文で解説します。",
+    "keywords": ["dethrone 意味", "dethrone 使い方", "dethrone 発音", "退位 英語"],
+    "meanings": [
+      { "hinshi": "【動】(王などを)退位させる、王座から引きずり下ろす", "note": "de-(下ろす)+ throne(王座)。権力の座から追う" },
+      { "hinshi": "【動】(王者・首位を)倒す", "note": "スポーツなどで首位・王者を破る比喩" }
+    ],
+    "usages": [
+      { "title": "① 「退位させる」", "desc": "王座から引きずり下ろす。", "example_en": "The king was dethroned by rebels.", "example_ja": "王は反乱者たちに退位させられた。" },
+      { "title": "② 「王者を倒す」の比喩", "desc": "首位・チャンピオンを破る。", "example_en": "The challenger dethroned the champion.", "example_ja": "挑戦者はチャンピオンを倒した。" }
+    ],
+    "warn": ["de-(下ろす)+ throne(王座)。反対は enthrone(即位させる)。スポーツで『王者を倒す』の比喩でもよく使う。"],
+    "etym_note": "de-（下ろす)と throne（王座)を組み合わせた語で、『王座から下ろす』を表します。",
+    "etym_chain": [
+      { "node": "de- + throne", "sub": "下ろす+王座", "era": "17世紀英語" },
+      { "node": "dethrone", "sub": "退位させる", "era": "近代英語" },
+      { "node": "dethrone", "sub": "退位させる・王者を倒す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "dethrone the king", "ja": "王を退位させる" },
+      { "en": "be dethroned", "ja": "退位させられる" },
+      { "en": "dethrone the champion", "ja": "チャンピオンを倒す" },
+      { "en": "dethrone the leader", "ja": "首位を引きずり下ろす" },
+      { "en": "dethrone a monarch", "ja": "君主を退位させる" },
+      { "en": "dethrone the top team", "ja": "首位チームを倒す" }
+    ],
+    "related": [
+      { "en": "throne", "ja": "王座" },
+      { "en": "enthrone", "ja": "即位させる" },
+      { "en": "overthrow", "ja": "打倒する" },
+      { "en": "depose", "ja": "退位させる、罷免する" }
+    ],
+    "faq": [
+      { "q": "dethrone の反対語は？", "a": "enthrone(即位させる・王座につかせる)です。dethrone は『王座から引きずり下ろす』です。" },
+      { "q": "スポーツでの意味は？", "a": "『(それまでの王者・首位を)倒す・破る』の比喩で使います。dethrone the champion(チャンピオンを倒す)。" }
+    ],
+    "quiz": [
+      { "q": "dethrone の意味は？", "A": "退位させる、王座から引きずり下ろす", "B": "即位させる", "C": "王座を作る", "D": "王を守る", "correct": "A" },
+      { "q": "dethrone の反対語は？", "A": "enthrone(即位させる)", "B": "overthrow(打倒する)", "C": "depose(罷免する)", "D": "throne(王座)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "detriment",
+    "pron": "ˈdetrɪmənt",
+    "kana": "デトリメント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 deterere（すり減らす）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "損害・抽象語"],
+    "meaning_main": "損害 / 不利益 / 害",
+    "description": "detriment の意味・発音・使い方。「損害・不利益・害」を表すフォーマルな名詞。to the detriment of の形を例文とともに解説します。",
+    "keywords": ["detriment 意味", "detriment 使い方", "detriment 発音", "損害 英語"],
+    "meanings": [
+      { "hinshi": "【名】損害、不利益、害", "note": "何かに悪影響を与えること。to the detriment of ...(〜を犠牲にして)。不可算" }
+    ],
+    "usages": [
+      { "title": "① 「損害・不利益」", "desc": "悪影響を及ぼすこと。", "example_en": "He worked long hours to the detriment of his health.", "example_ja": "彼は健康を犠牲にして長時間働いた。" },
+      { "title": "② without detriment to", "desc": "『〜を損なわずに』。", "example_en": "We can save money without detriment to quality.", "example_ja": "品質を損なわずにお金を節約できる。" }
+    ],
+    "warn": ["形容詞 detrimental(有害な)。to the detriment of ...(〜を犠牲にして・害して)の形が頻出。フォーマルな語。"],
+    "etym_note": "ラテン語 deterere（de-「離れて」+ terere「すり減らす」)「すり減らす→損なう」に由来します。",
+    "etym_chain": [
+      { "node": "deterere", "sub": "すり減らす", "era": "ラテン語" },
+      { "node": "detriment", "sub": "損害", "era": "中英語" },
+      { "node": "detriment", "sub": "損害・不利益", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "to the detriment of", "ja": "〜を犠牲にして、害して" },
+      { "en": "without detriment to", "ja": "〜を損なわずに" },
+      { "en": "a serious detriment", "ja": "重大な損害" },
+      { "en": "cause detriment", "ja": "損害を与える" },
+      { "en": "to one's detriment", "ja": "自らを害して" },
+      { "en": "financial detriment", "ja": "経済的な損害" }
+    ],
+    "related": [
+      { "en": "detrimental", "ja": "有害な" },
+      { "en": "harm", "ja": "害" },
+      { "en": "damage", "ja": "損害" },
+      { "en": "benefit", "ja": "利益" }
+    ],
+    "faq": [
+      { "q": "to the detriment of とは？", "a": "『〜を犠牲にして・〜を害して』という意味の表現です。to the detriment of his health(健康を犠牲にして)のように使います。" },
+      { "q": "形容詞形は？", "a": "detrimental(有害な・不利益な)です。" }
+    ],
+    "quiz": [
+      { "q": "detriment の意味は？", "A": "損害、不利益、害", "B": "利益", "C": "祝福", "D": "感謝", "correct": "A" },
+      { "q": "to the detriment of の意味は？", "A": "〜を犠牲にして、害して", "B": "〜のおかげで", "C": "〜と一緒に", "D": "〜の代わりに", "correct": "A" }
+    ]
+  },
+  {
+    "english": "detrimental",
+    "pron": "ˌdetrɪˈment(ə)l",
+    "kana": "デトリメンタル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "detriment（損害）+ -al",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "健康・影響"],
+    "meaning_main": "有害な / 不利益な / (〜に)悪影響を及ぼす",
+    "description": "detrimental の意味・発音・使い方。「有害な・悪影響を及ぼす」を表すフォーマルな形容詞。detrimental to の形を例文とともに解説します。",
+    "keywords": ["detrimental 意味", "detrimental 使い方", "detrimental 発音", "有害 英語"],
+    "meanings": [
+      { "hinshi": "【形】有害な、不利益な、悪影響を及ぼす", "note": "detrimental to ...(〜に有害な)。harmful のフォーマルな語" }
+    ],
+    "usages": [
+      { "title": "① 「有害な」", "desc": "悪影響を及ぼす。", "example_en": "Smoking is detrimental to your health.", "example_ja": "喫煙は健康に有害だ。" },
+      { "title": "② detrimental to", "desc": "『〜に悪影響を及ぼす』。", "example_en": "The delay was detrimental to the project.", "example_ja": "その遅れはプロジェクトに悪影響を及ぼした。" }
+    ],
+    "warn": ["名詞 detriment(損害)。detrimental to ...(〜に有害な)の形。harmful(有害な)よりフォーマル。反対は beneficial(有益な)。"],
+    "etym_note": "detriment（損害)に『〜の性質の』を表す -al が付いた語です。",
+    "etym_chain": [
+      { "node": "detriment", "sub": "損害", "era": "中英語" },
+      { "node": "detriment + -al", "sub": "損害の", "era": "近代英語" },
+      { "node": "detrimental", "sub": "有害な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "detrimental to health", "ja": "健康に有害な" },
+      { "en": "detrimental effects", "ja": "有害な影響" },
+      { "en": "highly detrimental", "ja": "きわめて有害な" },
+      { "en": "detrimental to the environment", "ja": "環境に有害な" },
+      { "en": "prove detrimental", "ja": "有害だと判明する" },
+      { "en": "have a detrimental impact", "ja": "悪影響を与える" }
+    ],
+    "related": [
+      { "en": "detriment", "ja": "損害" },
+      { "en": "harmful", "ja": "有害な" },
+      { "en": "damaging", "ja": "損害を与える" },
+      { "en": "beneficial", "ja": "有益な" }
+    ],
+    "faq": [
+      { "q": "detrimental to とは？", "a": "『〜に有害な・悪影響を及ぼす』という意味です。detrimental to your health(健康に有害な)のように使います。" },
+      { "q": "反対語は？", "a": "beneficial(有益な)です。detrimental(有害な)⇔beneficial(有益な)。" }
+    ],
+    "quiz": [
+      { "q": "detrimental の意味は？", "A": "有害な、悪影響を及ぼす", "B": "有益な", "C": "無害な", "D": "楽しい", "correct": "A" },
+      { "q": "detrimental の反対語は？", "A": "beneficial(有益な)", "B": "harmful(有害な)", "C": "damaging(損害を与える)", "D": "detriment(損害)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "developing",
+    "pron": "dɪˈveləpɪŋ",
+    "kana": "ディベロッピング",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "develop（発展する）+ -ing",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "発展・社会"],
+    "meaning_main": "発展途上の / 発展しつつある / (話が)展開中の",
+    "description": "developing の意味・発音・使い方。「発展途上の・発展しつつある」を表す形容詞。developing country(発展途上国)などの用法を例文とともに解説します。",
+    "keywords": ["developing 意味", "developing 使い方", "developing 発音", "発展途上 英語"],
+    "meanings": [
+      { "hinshi": "【形】発展途上の、発展しつつある", "note": "経済などが成長の途中にある。a developing country(発展途上国)" },
+      { "hinshi": "【形】(状況・話が)展開中の", "note": "a developing story(展開中のニュース)" }
+    ],
+    "usages": [
+      { "title": "① 「発展途上の」", "desc": "経済成長の途中。", "example_en": "India is a developing country.", "example_ja": "インドは発展途上国だ。" },
+      { "title": "② 「展開中の」", "desc": "進行中の状況。", "example_en": "This is a developing situation.", "example_ja": "これは進行中の状況だ。" }
+    ],
+    "warn": ["動詞 develop(発展させる・現像する)。developed country(先進国)の反対が developing country(発展途上国)。"],
+    "etym_note": "develop（発展させる。古フランス語 desveloper「包みを開く」から)に -ing が付いた語です。",
+    "etym_chain": [
+      { "node": "desveloper", "sub": "包みを開く", "era": "古フランス語" },
+      { "node": "develop", "sub": "発展させる", "era": "17世紀英語" },
+      { "node": "developing", "sub": "発展途上の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a developing country", "ja": "発展途上国" },
+      { "en": "the developing world", "ja": "発展途上の国々" },
+      { "en": "a developing situation", "ja": "進行中の状況" },
+      { "en": "a developing story", "ja": "展開中のニュース" },
+      { "en": "a rapidly developing area", "ja": "急速に発展する地域" },
+      { "en": "developing economies", "ja": "新興経済圏" }
+    ],
+    "related": [
+      { "en": "develop", "ja": "発展させる" },
+      { "en": "development", "ja": "発展、開発" },
+      { "en": "developed", "ja": "発展した、先進の" },
+      { "en": "emerging", "ja": "新興の" }
+    ],
+    "faq": [
+      { "q": "developing country と developed country の違いは？", "a": "developing country は『発展途上国(経済成長の途中)』、developed country は『先進国(発展した国)』です。" },
+      { "q": "a developing story とは？", "a": "『展開中の(まだ進行している)ニュース・状況』という意味です。続報が出る可能性のある話題を指します。" }
+    ],
+    "quiz": [
+      { "q": "developing の意味は？", "A": "発展途上の、発展しつつある", "B": "衰退した", "C": "完成した", "D": "止まった", "correct": "A" },
+      { "q": "developing country の意味は？", "A": "発展途上国", "B": "先進国", "C": "無人島", "D": "都市国家", "correct": "A" }
+    ]
+  },
+  {
+    "english": "dhow",
+    "pron": "daʊ",
+    "kana": "ダウ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "アラビア語/スワヒリ語に由来する船名",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "船・文化"],
+    "meaning_main": "ダウ船(アラビア海の伝統的な三角帆の帆船)",
+    "description": "dhow の意味・発音・使い方。アラビア海やインド洋で使われる、三角帆をもつ伝統的な木造帆船「ダウ船」を表す名詞。特徴や用法を例文で解説します。",
+    "keywords": ["dhow 意味", "dhow 使い方", "dhow 発音", "ダウ船 英語"],
+    "meanings": [
+      { "hinshi": "【名】ダウ船", "note": "アラビア海・インド洋で使われる、三角帆(ラティーンセイル)をもつ伝統的な木造帆船。可算。発音は[daʊ]" }
+    ],
+    "usages": [
+      { "title": "① 「ダウ船」", "desc": "三角帆の伝統帆船。", "example_en": "Traders used dhows to cross the Indian Ocean.", "example_ja": "商人たちはインド洋を渡るのにダウ船を使った。" },
+      { "title": "② 文化・観光で", "desc": "伝統的な船として。", "example_en": "We took a dhow cruise along the coast.", "example_ja": "私たちは海岸沿いをダウ船で巡った。" }
+    ],
+    "warn": ["発音は[daʊ]『ダウ』(株価指数の Dow と同音)。三角帆(lateen sail)が特徴。アラビア・東アフリカの伝統船。"],
+    "etym_note": "アラビア語・スワヒリ語などに由来する船の名で、インド洋交易で使われました。",
+    "etym_chain": [
+      { "node": "アラビア語系", "sub": "帆船", "era": "中世" },
+      { "node": "dhow", "sub": "ダウ船", "era": "近代英語" },
+      { "node": "dhow", "sub": "ダウ船", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a wooden dhow", "ja": "木造のダウ船" },
+      { "en": "a dhow cruise", "ja": "ダウ船クルーズ" },
+      { "en": "sail on a dhow", "ja": "ダウ船で帆走する" },
+      { "en": "a traditional dhow", "ja": "伝統的なダウ船" },
+      { "en": "a fishing dhow", "ja": "漁業用のダウ船" },
+      { "en": "dhows in the harbor", "ja": "港のダウ船" }
+    ],
+    "related": [
+      { "en": "sailboat", "ja": "帆船、ヨット" },
+      { "en": "vessel", "ja": "船" },
+      { "en": "sail", "ja": "帆" },
+      { "en": "trade", "ja": "交易" }
+    ],
+    "faq": [
+      { "q": "dhow とは？", "a": "アラビア海やインド洋で使われる、三角帆(ラティーンセイル)をもつ伝統的な木造帆船『ダウ船』です。古くから交易や漁業に使われました。" },
+      { "q": "発音は？", "a": "[daʊ]『ダウ』です。株価指数の Dow(ダウ)と同じ音です。" }
+    ],
+    "quiz": [
+      { "q": "dhow とは？", "A": "三角帆の伝統的な帆船", "B": "潜水艦", "C": "飛行機", "D": "自動車", "correct": "A" },
+      { "q": "dhow が使われた海域は？", "A": "アラビア海・インド洋", "B": "北極海", "C": "地中海だけ", "D": "五大湖", "correct": "A" }
+    ]
+  },
+  {
+    "english": "diacritic",
+    "pron": "ˌdaɪəˈkrɪtɪk",
+    "kana": "ダイアクリティック",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 diakritikos（区別する）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "言語・文字"],
+    "meaning_main": "発音区別符号 / ダイアクリティカルマーク(文字に付ける記号)",
+    "description": "diacritic の意味・発音・使い方。文字に付けて発音や意味を区別する記号「発音区別符号(ダイアクリティカルマーク)」を表す言語学用語を例文で解説します。",
+    "keywords": ["diacritic 意味", "diacritic 使い方", "diacritic 発音", "発音区別符号 英語"],
+    "meanings": [
+      { "hinshi": "【名】発音区別符号、ダイアクリティカルマーク", "note": "文字に付けて発音や意味を区別する記号。é のアクセント記号、ñ の波線など。可算" }
+    ],
+    "usages": [
+      { "title": "① 「発音区別符号」", "desc": "文字に付ける記号。", "example_en": "The accent in 'café' is a diacritic.", "example_ja": "『café』のアクセント記号は発音区別符号だ。" },
+      { "title": "② 言語の説明で", "desc": "各言語で使う記号。", "example_en": "French uses several diacritics.", "example_ja": "フランス語はいくつかの発音区別符号を使う。" }
+    ],
+    "warn": ["形容詞は diacritical(区別の)。é(アクサン)、ñ(ティルデ)、ü(ウムラウト)などが例。英語ではまれだが多くの言語で使う。"],
+    "etym_note": "ギリシャ語 diakritikos（区別する。dia-「分けて」+ krinein「分ける」)に由来します。",
+    "etym_chain": [
+      { "node": "diakritikos", "sub": "区別する", "era": "古代ギリシャ語" },
+      { "node": "diacritic", "sub": "区別符号", "era": "17世紀英語" },
+      { "node": "diacritic", "sub": "発音区別符号", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a diacritic mark", "ja": "発音区別符号" },
+      { "en": "add a diacritic", "ja": "区別符号を付ける" },
+      { "en": "diacritics in French", "ja": "フランス語の区別符号" },
+      { "en": "an accent diacritic", "ja": "アクセント記号" },
+      { "en": "omit the diacritic", "ja": "区別符号を省く" },
+      { "en": "use diacritics", "ja": "区別符号を使う" }
+    ],
+    "related": [
+      { "en": "accent", "ja": "アクセント記号" },
+      { "en": "umlaut", "ja": "ウムラウト" },
+      { "en": "tilde", "ja": "ティルデ(波線 ~)" },
+      { "en": "symbol", "ja": "記号" }
+    ],
+    "faq": [
+      { "q": "diacritic とは？", "a": "文字に付けて発音や意味を区別する記号『発音区別符号』です。café の é(アクサン)、señor の ñ(ティルデ)、über の ü(ウムラウト)などが例です。" },
+      { "q": "英語でも使いますか？", "a": "英語ではまれですが、café や naïve など外来語で使われることがあります。多くの言語(仏・独・西など)では一般的です。" }
+    ],
+    "quiz": [
+      { "q": "diacritic とは？", "A": "文字に付ける発音区別符号", "B": "句読点", "C": "数字", "D": "絵文字", "correct": "A" },
+      { "q": "diacritic の例は？", "A": "é の上のアクセント記号", "B": "ピリオド", "C": "スペース", "D": "ハイフン", "correct": "A" }
+    ]
+  },
+  {
+    "english": "diadem",
+    "pron": "ˈdaɪədem",
+    "kana": "ダイアデム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 diadema（巻きつけるもの・王冠）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "装飾・王権"],
+    "meaning_main": "王冠 / (王権の象徴の)冠 / 宝冠",
+    "description": "diadem の意味・発音・使い方。王や女王がかぶる「王冠・宝冠」を表す名詞。crown や tiara との違いを例文とともに解説します。",
+    "keywords": ["diadem 意味", "diadem 使い方", "diadem 発音", "王冠 英語"],
+    "meanings": [
+      { "hinshi": "【名】王冠、宝冠", "note": "王権の象徴として頭にかぶる冠。もとは布や帯状の冠。可算。文語的" }
+    ],
+    "usages": [
+      { "title": "① 「王冠」", "desc": "王権の象徴の冠。", "example_en": "The queen wore a jeweled diadem.", "example_ja": "女王は宝石をちりばめた宝冠をかぶっていた。" },
+      { "title": "② 文学・歴史で", "desc": "王権の象徴として。", "example_en": "The diadem symbolized royal power.", "example_ja": "その宝冠は王権を象徴していた。" }
+    ],
+    "warn": ["crown(王冠)とほぼ同義だが、diadem はもとは布や帯状の冠。tiara(ティアラ)は頭の前面を飾る小型の冠。文語的な語。"],
+    "etym_note": "ギリシャ語 diadema（dia-「周りに」+ dein「巻く」→巻きつけるもの)に由来します。",
+    "etym_chain": [
+      { "node": "diadema", "sub": "巻きつけるもの", "era": "古代ギリシャ語" },
+      { "node": "diadem", "sub": "王冠", "era": "中英語" },
+      { "node": "diadem", "sub": "王冠・宝冠", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a jeweled diadem", "ja": "宝石の宝冠" },
+      { "en": "wear a diadem", "ja": "宝冠をかぶる" },
+      { "en": "a royal diadem", "ja": "王家の冠" },
+      { "en": "a golden diadem", "ja": "金の宝冠" },
+      { "en": "the diadem of a queen", "ja": "女王の宝冠" },
+      { "en": "an ancient diadem", "ja": "古代の宝冠" }
+    ],
+    "related": [
+      { "en": "crown", "ja": "王冠" },
+      { "en": "tiara", "ja": "ティアラ" },
+      { "en": "coronet", "ja": "小冠" },
+      { "en": "royalty", "ja": "王族、王権" }
+    ],
+    "faq": [
+      { "q": "diadem と crown の違いは？", "a": "どちらも『王冠』ですが、diadem はもとは布や帯状の冠で、王権の象徴を指す文語的な語です。crown はより一般的な『王冠』です。" },
+      { "q": "tiara との違いは？", "a": "tiara(ティアラ)は頭の前面を飾る小型の冠で、女性が式典などでかぶります。diadem は王権の象徴の冠です。" }
+    ],
+    "quiz": [
+      { "q": "diadem の意味は？", "A": "王冠、宝冠", "B": "指輪", "C": "首飾り", "D": "剣", "correct": "A" },
+      { "q": "diadem が象徴するものは？", "A": "王権", "B": "戦争", "C": "農業", "D": "商業", "correct": "A" }
+    ]
+  },
+  {
+    "english": "diaeresis",
+    "pron": "daɪˈerəsɪs",
+    "kana": "ダイエレシス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 diairesis（分割）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "言語・表記"],
+    "meaning_main": "分音記号(母音の上の2点 ¨。naïve の ï など)",
+    "description": "diaeresis の意味・発音・使い方。連続する母音を別々に発音することを示す「分音記号(母音の上の2つの点)」を表す言語学用語。naïve などの例を解説します。",
+    "keywords": ["diaeresis 意味", "diaeresis 使い方", "diaeresis 発音", "分音記号 英語"],
+    "meanings": [
+      { "hinshi": "【名】分音記号(¨)", "note": "母音の上に付ける2つの点。連続する母音を別々に発音することを示す。naïve の ï など。米つづり dieresis" }
+    ],
+    "usages": [
+      { "title": "① 「分音記号」", "desc": "母音を分けて読む記号。", "example_en": "The word 'naïve' has a diaeresis.", "example_ja": "『naïve』には分音記号がある。" },
+      { "title": "② 表記の説明で", "desc": "2母音を別々に読む。", "example_en": "A diaeresis shows the vowels are pronounced separately.", "example_ja": "分音記号は母音を別々に発音することを示す。" }
+    ],
+    "warn": ["見た目はドイツ語のウムラウト(ü)と同じ2点だが、役割が違う。diaeresis は『母音を分けて読む』、umlaut は『母音の音を変える』。米つづり dieresis。"],
+    "etym_note": "ギリシャ語 diairesis（dia-「分けて」+ hairein「取る」→分割)に由来します。",
+    "etym_chain": [
+      { "node": "diairesis", "sub": "分割", "era": "古代ギリシャ語" },
+      { "node": "diaeresis", "sub": "分音記号", "era": "17世紀英語" },
+      { "node": "diaeresis", "sub": "分音記号", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a diaeresis mark", "ja": "分音記号" },
+      { "en": "add a diaeresis", "ja": "分音記号を付ける" },
+      { "en": "the diaeresis in naïve", "ja": "naïve の分音記号" },
+      { "en": "use a diaeresis", "ja": "分音記号を使う" },
+      { "en": "a diaeresis over the vowel", "ja": "母音の上の分音記号" },
+      { "en": "the two dots of a diaeresis", "ja": "分音記号の2点" }
+    ],
+    "related": [
+      { "en": "umlaut", "ja": "ウムラウト" },
+      { "en": "diacritic", "ja": "発音区別符号" },
+      { "en": "vowel", "ja": "母音" },
+      { "en": "accent", "ja": "アクセント記号" }
+    ],
+    "faq": [
+      { "q": "diaeresis とは？", "a": "母音の上に付ける2つの点で、連続する母音を『別々に発音する』ことを示す記号です。naïve(ナイーブ)の ï などが例です。" },
+      { "q": "ウムラウトとの違いは？", "a": "見た目は同じ2点ですが、diaeresis は『母音を分けて読む』(英・仏)、umlaut は『母音の音を変える』(独)の役割です。" }
+    ],
+    "quiz": [
+      { "q": "diaeresis とは？", "A": "母音を分けて読ませる2点の記号", "B": "疑問符", "C": "数字", "D": "句読点", "correct": "A" },
+      { "q": "diaeresis の例がある語は？", "A": "naïve", "B": "apple", "C": "dog", "D": "run", "correct": "A" }
+    ]
+  },
+  {
+    "english": "dial",
+    "pron": "ˈdaɪəl",
+    "kana": "ダイアル",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 dies（日）から(日時計)",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "機器・日常"],
+    "meaning_main": "(時計・計器の)文字盤 / ダイヤル / (電話を)かける",
+    "description": "dial の意味・発音・使い方。時計や計器の「文字盤・ダイヤル」を表す名詞と、電話を「かける」を表す動詞。両方の用法を例文で解説します。",
+    "keywords": ["dial 意味", "dial 使い方", "dial 発音", "ダイヤル 英語"],
+    "meanings": [
+      { "hinshi": "【名】(時計・計器の)文字盤、ダイヤル", "note": "数字や目盛りのある円い面、または回して操作するつまみ。可算" },
+      { "hinshi": "【動】(電話番号を)かける、ダイヤルする", "note": "dial a number(番号をかける)" }
+    ],
+    "usages": [
+      { "title": "① 「文字盤・ダイヤル」", "desc": "時計や計器の面。", "example_en": "The watch has a black dial.", "example_ja": "その時計は黒い文字盤だ。" },
+      { "title": "② 「電話をかける」", "desc": "番号を入力する。", "example_en": "Dial 911 in an emergency.", "example_ja": "緊急時は911にかけなさい。" }
+    ],
+    "warn": ["l を重ねて dialled/dialling(英)。米では dialed/dialing も。dial tone は『発信音』。turn the dial は『つまみを回す』。"],
+    "etym_note": "ラテン語 dies（日)に由来し、もとは『日時計の文字盤』を指しました。",
+    "etym_chain": [
+      { "node": "dies", "sub": "日", "era": "ラテン語" },
+      { "node": "dial", "sub": "日時計・文字盤", "era": "中英語" },
+      { "node": "dial", "sub": "文字盤・電話をかける", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "dial a number", "ja": "番号をかける" },
+      { "en": "a clock dial", "ja": "時計の文字盤" },
+      { "en": "turn the dial", "ja": "つまみを回す" },
+      { "en": "the dial tone", "ja": "発信音" },
+      { "en": "dial up", "ja": "電話をかける、強める" },
+      { "en": "a watch dial", "ja": "腕時計の文字盤" }
+    ],
+    "related": [
+      { "en": "clock", "ja": "時計" },
+      { "en": "knob", "ja": "つまみ" },
+      { "en": "gauge", "ja": "計器" },
+      { "en": "call", "ja": "電話をかける" }
+    ],
+    "faq": [
+      { "q": "dial の名詞と動詞の意味は？", "a": "名詞は『(時計・計器の)文字盤・ダイヤル(つまみ)』、動詞は『(電話番号を)かける・ダイヤルする』です。" },
+      { "q": "dial tone とは？", "a": "電話をかけるときに聞こえる『発信音』のことです。" }
+    ],
+    "quiz": [
+      { "q": "dial(名詞)の意味は？", "A": "文字盤・ダイヤル", "B": "画面", "C": "電池", "D": "電線", "correct": "A" },
+      { "q": "dial a number の意味は？", "A": "番号をかける", "B": "番号を消す", "C": "番号を書く", "D": "番号を数える", "correct": "A" }
+    ]
+  },
+  {
+    "english": "diatribe",
+    "pron": "ˈdaɪətraɪb",
+    "kana": "ダイアトライブ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 diatribe（時間つぶし・議論）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "議論・批判"],
+    "meaning_main": "痛烈な非難 / 長々とした批判の演説・文章",
+    "description": "diatribe の意味・発音・使い方。「(長々とした)痛烈な非難・批判の演説や文章」を表すフォーマルな名詞。用法や語源を例文とともに解説します。",
+    "keywords": ["diatribe 意味", "diatribe 使い方", "diatribe 発音", "痛烈な非難 英語"],
+    "meanings": [
+      { "hinshi": "【名】痛烈な非難、長々とした批判の演説・文章", "note": "怒りをこめて長々と攻撃する言葉。a diatribe against ...(〜への痛烈な非難)。可算" }
+    ],
+    "usages": [
+      { "title": "① 「痛烈な非難」", "desc": "長々とした激しい批判。", "example_en": "He launched into a diatribe against the government.", "example_ja": "彼は政府への痛烈な非難を始めた。" },
+      { "title": "② 演説・文章で", "desc": "怒りをこめた攻撃。", "example_en": "The article was a diatribe against modern art.", "example_ja": "その記事は現代美術への痛烈な批判だった。" }
+    ],
+    "warn": ["a diatribe against ...(〜への痛烈な非難)の形。criticism(批判)より激しく長々とした攻撃。tirade(激しい非難)と近い。"],
+    "etym_note": "ギリシャ語 diatribe（もとは『時間つぶし・学問的議論』→のちに『論争・非難』)に由来します。",
+    "etym_chain": [
+      { "node": "diatribe", "sub": "時間つぶし・議論", "era": "古代ギリシャ語" },
+      { "node": "diatribe", "sub": "論争・非難", "era": "16世紀英語" },
+      { "node": "diatribe", "sub": "痛烈な非難", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a diatribe against", "ja": "〜への痛烈な非難" },
+      { "en": "launch into a diatribe", "ja": "痛烈な非難を始める" },
+      { "en": "a lengthy diatribe", "ja": "長々とした非難" },
+      { "en": "a bitter diatribe", "ja": "手厳しい非難" },
+      { "en": "deliver a diatribe", "ja": "非難の演説をする" },
+      { "en": "an angry diatribe", "ja": "怒りの非難" }
+    ],
+    "related": [
+      { "en": "tirade", "ja": "激しい非難、長広舌" },
+      { "en": "rant", "ja": "わめき立てること" },
+      { "en": "criticism", "ja": "批判" },
+      { "en": "harangue", "ja": "熱弁、長々とした説教" }
+    ],
+    "faq": [
+      { "q": "diatribe と criticism の違いは？", "a": "criticism は『批判』全般、diatribe は特に『長々とした痛烈な非難の演説・文章』です。より激しく攻撃的です。" },
+      { "q": "tirade との違いは？", "a": "どちらも『激しい非難』ですが、diatribe は書かれた文章にも使い、tirade は特に『(口頭の)長広舌・怒りのまくし立て』を指すことが多いです。" }
+    ],
+    "quiz": [
+      { "q": "diatribe の意味は？", "A": "痛烈な非難、長々とした批判", "B": "称賛の演説", "C": "楽しい話", "D": "短い挨拶", "correct": "A" },
+      { "q": "a diatribe against の意味は？", "A": "〜への痛烈な非難", "B": "〜への称賛", "C": "〜への感謝", "D": "〜への質問", "correct": "A" }
+    ]
+  },
+  {
+    "english": "dice",
+    "pron": "daɪs",
+    "kana": "ダイス",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "die（さいころ)の複数形から",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "遊び・料理"],
+    "meaning_main": "さいころ / (食材を)さいの目に切る",
+    "description": "dice の意味・発音・使い方。ゲームで使う「さいころ」を表す名詞と、食材を「さいの目に切る」を表す動詞。単数 die との関係を例文で解説します。",
+    "keywords": ["dice 意味", "dice 使い方", "dice 発音", "さいころ 英語"],
+    "meanings": [
+      { "hinshi": "【名】さいころ", "note": "ゲームで使う立方体。もとは die(単数)の複数形だが、現在は単複両方に dice を使うことが多い" },
+      { "hinshi": "【動】(食材を)さいの目に切る", "note": "dice an onion(玉ねぎをさいの目に切る)" }
+    ],
+    "usages": [
+      { "title": "① 「さいころ」", "desc": "ゲームの立方体。", "example_en": "Roll the dice to move.", "example_ja": "さいころを振って進みなさい。" },
+      { "title": "② 「さいの目に切る」", "desc": "食材を小さく切る。", "example_en": "Dice the carrots finely.", "example_ja": "にんじんを細かくさいの目に切りなさい。" }
+    ],
+    "warn": ["単数は die(1個のさいころ)だが、現在は dice を単数にも使うことが多い。roll/throw the dice(さいころを振る)。料理では『さいの目に切る』。"],
+    "etym_note": "die（さいころ)の複数形から来た語で、現在は単複両方に dice を使うことが一般的です。",
+    "etym_chain": [
+      { "node": "die", "sub": "さいころ(単数)", "era": "中英語" },
+      { "node": "dice", "sub": "さいころ(複数)", "era": "中英語" },
+      { "node": "dice", "sub": "さいころ・さいの目に切る", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "roll the dice", "ja": "さいころを振る" },
+      { "en": "throw the dice", "ja": "さいころを投げる" },
+      { "en": "a pair of dice", "ja": "さいころ2個" },
+      { "en": "dice the vegetables", "ja": "野菜をさいの目に切る" },
+      { "en": "finely diced", "ja": "細かくさいの目に切った" },
+      { "en": "no dice", "ja": "だめだ、うまくいかない(口語)" }
+    ],
+    "related": [
+      { "en": "die", "ja": "さいころ(単数)" },
+      { "en": "roll", "ja": "振る、転がす" },
+      { "en": "cube", "ja": "立方体、角切り" },
+      { "en": "chop", "ja": "刻む" }
+    ],
+    "faq": [
+      { "q": "dice の単数形は？", "a": "本来は die(1個のさいころ)ですが、現在は単数にも dice を使うことが一般的です。" },
+      { "q": "料理の dice とは？", "a": "『食材をさいの目(小さな立方体)に切る』という意味です。dice an onion(玉ねぎをさいの目に切る)のように使います。" }
+    ],
+    "quiz": [
+      { "q": "dice の意味は？", "A": "さいころ・さいの目に切る", "B": "トランプ", "C": "ボール", "D": "コイン", "correct": "A" },
+      { "q": "dice the vegetables の意味は？", "A": "野菜をさいの目に切る", "B": "野菜を洗う", "C": "野菜をゆでる", "D": "野菜を植える", "correct": "A" }
+    ]
+  },
+  {
+    "english": "diesel",
+    "pron": "ˈdiːz(ə)l",
+    "kana": "ディーゼル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "発明者 Rudolf Diesel の名から",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "機械・燃料"],
+    "meaning_main": "ディーゼル(エンジン) / 軽油(ディーゼル燃料)",
+    "description": "diesel の意味・発音・使い方。圧縮着火で動く「ディーゼルエンジン」や、その燃料「軽油」を表す名詞。発明者にちなむ語源を例文とともに解説します。",
+    "keywords": ["diesel 意味", "diesel 使い方", "diesel 発音", "ディーゼル 英語"],
+    "meanings": [
+      { "hinshi": "【名】ディーゼルエンジン、ディーゼル車", "note": "圧縮した空気で燃料を着火させるエンジン・その車。可算" },
+      { "hinshi": "【名】軽油、ディーゼル燃料", "note": "ディーゼルエンジンの燃料。不可算" }
+    ],
+    "usages": [
+      { "title": "① 「ディーゼルエンジン・車」", "desc": "圧縮着火のエンジン。", "example_en": "The truck runs on a diesel engine.", "example_ja": "そのトラックはディーゼルエンジンで動く。" },
+      { "title": "② 「軽油」", "desc": "ディーゼルの燃料。", "example_en": "Fill the tank with diesel.", "example_ja": "タンクに軽油を入れなさい。" }
+    ],
+    "warn": ["発明者ルドルフ・ディーゼル(Rudolf Diesel)の名にちなむ。ガソリン(gasoline/petrol)とは別の燃料。diesel は軽油、圧縮着火。"],
+    "etym_note": "ディーゼルエンジンを発明したドイツの技術者ルドルフ・ディーゼル(Rudolf Diesel)の名にちなんで名づけられました。",
+    "etym_chain": [
+      { "node": "Rudolf Diesel", "sub": "発明者", "era": "19世紀" },
+      { "node": "diesel", "sub": "ディーゼルエンジン", "era": "20世紀英語" },
+      { "node": "diesel", "sub": "ディーゼル・軽油", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a diesel engine", "ja": "ディーゼルエンジン" },
+      { "en": "a diesel car", "ja": "ディーゼル車" },
+      { "en": "run on diesel", "ja": "軽油で走る" },
+      { "en": "diesel fuel", "ja": "ディーゼル燃料、軽油" },
+      { "en": "a diesel truck", "ja": "ディーゼルトラック" },
+      { "en": "fill up with diesel", "ja": "軽油を満タンにする" }
+    ],
+    "related": [
+      { "en": "gasoline", "ja": "ガソリン" },
+      { "en": "petrol", "ja": "ガソリン(英)" },
+      { "en": "engine", "ja": "エンジン" },
+      { "en": "fuel", "ja": "燃料" }
+    ],
+    "faq": [
+      { "q": "diesel の語源は？", "a": "ディーゼルエンジンを発明したドイツの技術者ルドルフ・ディーゼルの名にちなみます。人名が一般名詞になった例です。" },
+      { "q": "ガソリンとの違いは？", "a": "diesel(軽油)は圧縮した空気の熱で着火させるディーゼルエンジンの燃料、gasoline/petrol(ガソリン)は火花で着火させるエンジンの燃料です。" }
+    ],
+    "quiz": [
+      { "q": "diesel の意味は？", "A": "ディーゼルエンジン・軽油", "B": "電気", "C": "水", "D": "石炭", "correct": "A" },
+      { "q": "diesel の語源は？", "A": "発明者の名前", "B": "地名", "C": "動物", "D": "数字", "correct": "A" }
+    ]
+  },
+  {
+    "english": "digestion",
+    "pron": "daɪˈdʒestʃ(ə)n",
+    "kana": "ダイジェスチョン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 digerere（分解する・消化する）から",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "医学・体"],
+    "meaning_main": "消化 / 消化作用",
+    "description": "digestion の意味・発音・使い方。食べ物を体が吸収できる形に分解する「消化」を表す名詞。動詞 digest との関係や消化器官を例文で解説します。",
+    "keywords": ["digestion 意味", "digestion 使い方", "digestion 発音", "消化 英語"],
+    "meanings": [
+      { "hinshi": "【名】消化、消化作用", "note": "食べ物を体が吸収できる形に分解すること。aid digestion(消化を助ける)。不可算" }
+    ],
+    "usages": [
+      { "title": "① 「消化」", "desc": "食べ物を分解する働き。", "example_en": "Chewing well helps digestion.", "example_ja": "よくかむことは消化を助ける。" },
+      { "title": "② 消化器の話題で", "desc": "胃腸の働き。", "example_en": "Fiber is good for digestion.", "example_ja": "食物繊維は消化によい。" }
+    ],
+    "warn": ["動詞は digest(消化する・要点をまとめる)、形容詞 digestive(消化の)。消化器系は the digestive system。"],
+    "etym_note": "ラテン語 digerere（di-「分けて」+ gerere「運ぶ」→分解する)に由来します。",
+    "etym_chain": [
+      { "node": "digerere", "sub": "分解する", "era": "ラテン語" },
+      { "node": "digestion", "sub": "消化", "era": "中英語" },
+      { "node": "digestion", "sub": "消化", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "aid digestion", "ja": "消化を助ける" },
+      { "en": "good for digestion", "ja": "消化によい" },
+      { "en": "the process of digestion", "ja": "消化の過程" },
+      { "en": "poor digestion", "ja": "消化不良" },
+      { "en": "the digestive system", "ja": "消化器系" },
+      { "en": "improve digestion", "ja": "消化を改善する" }
+    ],
+    "related": [
+      { "en": "digest", "ja": "消化する" },
+      { "en": "digestive", "ja": "消化の" },
+      { "en": "stomach", "ja": "胃" },
+      { "en": "intestine", "ja": "腸" }
+    ],
+    "faq": [
+      { "q": "digestion とは？", "a": "食べ物を体が吸収できる小さな形に分解する働き『消化』です。口・胃・腸などの消化器官で行われます。" },
+      { "q": "動詞・形容詞形は？", "a": "動詞は digest(消化する)、形容詞は digestive(消化の)です。the digestive system(消化器系)。" }
+    ],
+    "quiz": [
+      { "q": "digestion の意味は？", "A": "消化", "B": "呼吸", "C": "循環", "D": "排泄だけ", "correct": "A" },
+      { "q": "digestion の動詞形は？", "A": "digest", "B": "digress", "C": "dignify", "D": "diminish", "correct": "A" }
+    ]
+  },
+  {
+    "english": "digraph",
+    "pron": "ˈdaɪɡrɑːf",
+    "kana": "ダイグラフ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 di-（2つの）+ graph（書いたもの）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "言語・音声"],
+    "meaning_main": "二重音字(2文字で1つの音を表す組み合わせ。sh, ch, th など)",
+    "description": "digraph の意味・発音・使い方。2つの文字が組み合わさって1つの音を表す「二重音字」を表す言語学用語。sh, ch, th などの例を例文で解説します。",
+    "keywords": ["digraph 意味", "digraph 使い方", "digraph 発音", "二重音字 英語"],
+    "meanings": [
+      { "hinshi": "【名】二重音字", "note": "2つの文字が組み合わさって1つの音を表すもの。sh, ch, th, ph など。可算" }
+    ],
+    "usages": [
+      { "title": "① 「二重音字」", "desc": "2文字で1つの音。", "example_en": "'Sh' in 'ship' is a digraph.", "example_ja": "『ship』の『sh』は二重音字だ。" },
+      { "title": "② 音声の説明で", "desc": "英語の綴りに多い。", "example_en": "English has many consonant digraphs.", "example_ja": "英語には多くの子音の二重音字がある。" }
+    ],
+    "warn": ["di-(2つ)+ graph(書いたもの)。sh, ch, th, ph, wh などが例。3文字は trigraph。フォニックス学習で重要。"],
+    "etym_note": "ギリシャ語 di-（2つの)+ graphe（書いたもの)から、『2文字で表すもの』を表します。",
+    "etym_chain": [
+      { "node": "di- + graphe", "sub": "2つ+書いたもの", "era": "古代ギリシャ語" },
+      { "node": "digraph", "sub": "二重音字", "era": "18世紀英語" },
+      { "node": "digraph", "sub": "二重音字", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a consonant digraph", "ja": "子音の二重音字" },
+      { "en": "a vowel digraph", "ja": "母音の二重音字" },
+      { "en": "the digraph 'sh'", "ja": "二重音字の sh" },
+      { "en": "learn digraphs", "ja": "二重音字を学ぶ" },
+      { "en": "common digraphs", "ja": "よくある二重音字" },
+      { "en": "digraphs and trigraphs", "ja": "二重音字と三重音字" }
+    ],
+    "related": [
+      { "en": "phoneme", "ja": "音素" },
+      { "en": "phonics", "ja": "フォニックス" },
+      { "en": "consonant", "ja": "子音" },
+      { "en": "trigraph", "ja": "三重音字" }
+    ],
+    "faq": [
+      { "q": "digraph とは？", "a": "2つの文字が組み合わさって1つの音を表すもの『二重音字』です。sh(シュ)、ch(チ)、th(ス)、ph(フ)などが例です。" },
+      { "q": "trigraph との違いは？", "a": "digraph は『2文字で1音』、trigraph は『3文字で1音』(例: -tch の tch)です。文字の数が違います。" }
+    ],
+    "quiz": [
+      { "q": "digraph とは？", "A": "2文字で1つの音を表す組み合わせ", "B": "1つの文字", "C": "数字", "D": "句読点", "correct": "A" },
+      { "q": "digraph の例は？", "A": "sh, ch, th", "B": "a, b, c", "C": "1, 2, 3", "D": ". , !", "correct": "A" }
+    ]
+  },
+  {
+    "english": "dimwit",
+    "pron": "ˈdɪmwɪt",
+    "kana": "ディムウィット",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "dim（ぼんやりした）+ wit（知恵）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "口語・俗語"],
+    "meaning_main": "まぬけ / のろま / 頭の鈍い人(口語)",
+    "description": "dimwit の意味・発音・使い方。「まぬけ・頭の鈍い人」を表すくだけた名詞。dim(ぼんやり)+ wit(知恵)の成り立ちや使い方を例文で解説します。",
+    "keywords": ["dimwit 意味", "dimwit 使い方", "dimwit 発音", "まぬけ 英語"],
+    "meanings": [
+      { "hinshi": "【名】まぬけ、のろま、頭の鈍い人", "note": "dim(ぼんやり)+ wit(知恵)。理解が遅い人を指すくだけた語。しばしば冗談や軽い侮蔑で" }
+    ],
+    "usages": [
+      { "title": "① 「まぬけ」", "desc": "頭の鈍い人。", "example_en": "Don't be such a dimwit.", "example_ja": "そんなまぬけなことをするな。" },
+      { "title": "② 冗談・軽い侮蔑で", "desc": "からかいの表現。", "example_en": "Some dimwit parked in my spot.", "example_ja": "どこかのまぬけが私の場所に駐車した。" }
+    ],
+    "warn": ["くだけた語で軽い侮蔑を含む。形容詞は dim-witted(頭の鈍い)。人に向けると失礼になるので注意。"],
+    "etym_note": "dim（ぼんやりした・薄暗い)と wit（知恵・機知)を組み合わせた語で、『知恵がぼんやりした人』を表します。",
+    "etym_chain": [
+      { "node": "dim + wit", "sub": "ぼんやり+知恵", "era": "20世紀英語" },
+      { "node": "dimwit", "sub": "まぬけ", "era": "20世紀" },
+      { "node": "dimwit", "sub": "まぬけ・のろま", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "you dimwit", "ja": "このまぬけ" },
+      { "en": "a total dimwit", "ja": "とんだまぬけ" },
+      { "en": "some dimwit", "ja": "どこかのまぬけ" },
+      { "en": "act like a dimwit", "ja": "まぬけなふるまいをする" },
+      { "en": "a dimwit idea", "ja": "ばかげた考え" },
+      { "en": "dim-witted", "ja": "頭の鈍い" }
+    ],
+    "related": [
+      { "en": "fool", "ja": "ばか者" },
+      { "en": "idiot", "ja": "ばか" },
+      { "en": "nitwit", "ja": "まぬけ" },
+      { "en": "wit", "ja": "知恵、機知" }
+    ],
+    "faq": [
+      { "q": "dimwit の成り立ちは？", "a": "dim(ぼんやりした・薄暗い)+ wit(知恵)で、『知恵がぼんやりした人=まぬけ』を表すくだけた語です。" },
+      { "q": "使うときの注意は？", "a": "軽い侮蔑・からかいの語です。人に向けると失礼になるので、冗談以外では注意が必要です。" }
+    ],
+    "quiz": [
+      { "q": "dimwit の意味は？", "A": "まぬけ、頭の鈍い人", "B": "天才", "C": "先生", "D": "医者", "correct": "A" },
+      { "q": "dimwit の成り立ちは？", "A": "dim(ぼんやり)+wit(知恵)", "B": "day+night", "C": "big+small", "D": "up+down", "correct": "A" }
+    ]
+  }
+]

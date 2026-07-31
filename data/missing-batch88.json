@@ -1,0 +1,991 @@
+[
+  {
+    "english": "abide",
+    "pron": "əˈbaɪd",
+    "kana": "アバイド",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古英語 abidan（とどまって待つ）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "動詞・熟語"],
+    "meaning_main": "(規則に)従う / 我慢する / とどまる",
+    "description": "abide の意味・発音・使い方。abide by（〜に従う）、can't abide（我慢できない）の熟語が重要。やや文語的な動詞を例文とともに解説します。",
+    "keywords": ["abide 意味", "abide by 使い方", "abide 発音", "アバイド 意味"],
+    "meanings": [
+      { "hinshi": "【動】abide by で(規則・約束に)従う", "note": "最重要の用法。abide by the rules（規則に従う)" },
+      { "hinshi": "【動】(can't とともに)我慢する、耐える", "note": "can't abide ...（〜が我慢できない)。否定文が多い" },
+      { "hinshi": "【動】とどまる、(状態が)続く", "note": "文語的。abide with me（そばにいて)" }
+    ],
+    "usages": [
+      { "title": "① abide by「従う」", "desc": "規則・決定・約束を守る。", "example_en": "All members must abide by the rules.", "example_ja": "全会員は規則に従わなければならない。" },
+      { "title": "② can't abide「我慢できない」", "desc": "強い嫌悪を表す。否定文で使う。", "example_en": "I can't abide rudeness.", "example_ja": "私は無礼なことが我慢できない。" }
+    ],
+    "warn": ["過去形は abided（by の場合)または abode（古風)。日常では abide by と can't abide の形で覚える。"],
+    "etym_note": "古英語 abidan（a-「完全に」+ bidan「待つ」)「とどまって待つ」に由来します。",
+    "etym_chain": [
+      { "node": "abidan", "sub": "とどまって待つ", "era": "古英語" },
+      { "node": "abide", "sub": "とどまる・従う", "era": "中英語" },
+      { "node": "abide", "sub": "従う・我慢する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "abide by the rules", "ja": "規則に従う" },
+      { "en": "abide by the decision", "ja": "決定に従う" },
+      { "en": "can't abide", "ja": "我慢できない" },
+      { "en": "abide by the agreement", "ja": "合意を守る" },
+      { "en": "abiding love", "ja": "変わらぬ愛" },
+      { "en": "law-abiding", "ja": "法を守る、順法の" }
+    ],
+    "related": [
+      { "en": "obey", "ja": "従う" },
+      { "en": "comply", "ja": "従う、応じる" },
+      { "en": "tolerate", "ja": "我慢する" },
+      { "en": "endure", "ja": "耐える" }
+    ],
+    "faq": [
+      { "q": "abide by と obey の違いは？", "a": "どちらも「従う」ですが、abide by は規則・決定・約束に「従う・守る」、obey は命令や人に「服従する」ニュアンスが強いです。" },
+      { "q": "law-abiding とは？", "a": "「法を守る、順法の」という意味の形容詞です。a law-abiding citizen(法を守る市民)のように使います。" }
+    ],
+    "quiz": [
+      { "q": "abide by the rules の意味は？", "A": "規則を破る", "B": "規則に従う", "C": "規則を作る", "D": "規則を無視する", "correct": "B" },
+      { "q": "can't abide の意味は？", "A": "我慢できない", "B": "理解できない", "C": "信じられない", "D": "見つからない", "correct": "A" }
+    ]
+  },
+  {
+    "english": "aboard",
+    "pron": "əˈbɔːd",
+    "kana": "アボード",
+    "hinshi": "副詞 / 前置詞",
+    "ld_pos": "副詞",
+    "ld_etym": "a-（〜に）+ board（船・乗り物の甲板）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "移動・基本語"],
+    "meaning_main": "(乗り物に)乗って / 搭乗して / (組織に)加わって",
+    "description": "aboard の意味・発音・使い方。「(船・飛行機・電車に)乗って」を表す副詞・前置詞。All aboard! やwelcome aboard の表現も例文で解説します。",
+    "keywords": ["aboard 意味", "aboard 使い方", "aboard 発音", "アボード 意味"],
+    "meanings": [
+      { "hinshi": "【副/前】(乗り物に)乗って、搭乗して", "note": "船・飛行機・電車・バスなどに乗った状態。go aboard（乗り込む)" },
+      { "hinshi": "【副】(チーム・組織に)加わって", "note": "welcome aboard（仲間入り歓迎)。比喩的用法" }
+    ],
+    "usages": [
+      { "title": "① 「乗って」", "desc": "乗り物に乗っている状態を表す。", "example_en": "Everyone is aboard the train.", "example_ja": "全員が電車に乗っている。" },
+      { "title": "② welcome aboard", "desc": "新メンバーを迎える定番表現。", "example_en": "Welcome aboard! We're glad to have you.", "example_ja": "ようこそ！仲間に加わってくれてうれしいです。" }
+    ],
+    "warn": ["abroad（海外へ)と混同注意。aboard は「乗り物に乗って」、abroad は「外国へ」。"],
+    "etym_note": "a-（〜に)と board（船の甲板・板)を組み合わせた語で、「甲板に乗って」が原義です。",
+    "etym_chain": [
+      { "node": "a + board", "sub": "甲板に", "era": "中英語" },
+      { "node": "aboard", "sub": "船に乗って", "era": "近代英語" },
+      { "node": "aboard", "sub": "乗り物に乗って", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "All aboard!", "ja": "皆さんご乗車ください！" },
+      { "en": "welcome aboard", "ja": "ようこそ(仲間入り歓迎)" },
+      { "en": "go aboard", "ja": "乗り込む" },
+      { "en": "climb aboard", "ja": "よじ登って乗る" },
+      { "en": "aboard the ship", "ja": "その船に乗って" },
+      { "en": "get aboard", "ja": "乗り込む" }
+    ],
+    "related": [
+      { "en": "board", "ja": "乗り込む、板" },
+      { "en": "abroad", "ja": "海外へ" },
+      { "en": "onboard", "ja": "搭載された、乗って" },
+      { "en": "embark", "ja": "乗船する" }
+    ],
+    "faq": [
+      { "q": "aboard と abroad の違いは？", "a": "aboard は「(乗り物に)乗って」、abroad は「外国へ・海外で」です。つづりが似ているので注意しましょう。" },
+      { "q": "welcome aboard の意味は？", "a": "新しく加わった人を歓迎する「ようこそ・仲間入り歓迎」という決まり文句です。" }
+    ],
+    "quiz": [
+      { "q": "aboard の意味は？", "A": "海外へ", "B": "(乗り物に)乗って", "C": "退屈して", "D": "board(板)", "correct": "B" },
+      { "q": "welcome aboard の意味は？", "A": "お帰りなさい", "B": "ようこそ(仲間入り歓迎)", "C": "さようなら", "D": "おめでとう", "correct": "B" }
+    ]
+  },
+  {
+    "english": "abolish",
+    "pron": "əˈbɒlɪʃ",
+    "kana": "アボリッシュ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 abolere（消し去る）から",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "社会・制度"],
+    "meaning_main": "(制度・法律を)廃止する / 撤廃する",
+    "description": "abolish の意味・発音・使い方。「(制度・法律・慣習を)廃止する」を表す動詞。奴隷制の廃止など、制度に対して使う用法を例文で解説します。",
+    "keywords": ["abolish 意味", "abolish 使い方", "abolish 発音", "アボリッシュ 意味"],
+    "meanings": [
+      { "hinshi": "【動】(制度・法律・慣習を)廃止する", "note": "法律・制度など「仕組み」を対象にする。物には使わない" }
+    ],
+    "usages": [
+      { "title": "① 「制度を廃止する」", "desc": "公式に制度・法律をなくす。", "example_en": "The country abolished slavery in the 19th century.", "example_ja": "その国は19世紀に奴隷制を廃止した。" },
+      { "title": "② 税・規則の撤廃", "desc": "税や規則をなくす文脈でも使う。", "example_en": "They voted to abolish the tax.", "example_ja": "彼らはその税の廃止に投票した。" }
+    ],
+    "warn": ["対象は制度・法律など抽象的な仕組み。物を「壊す」は destroy。名詞は abolition(廃止)。"],
+    "etym_note": "ラテン語 abolere（ab-「離れて」+ olere「成長する」→「消し去る」)に由来します。",
+    "etym_chain": [
+      { "node": "abolere", "sub": "消し去る", "era": "ラテン語" },
+      { "node": "aboliss-", "sub": "廃止する", "era": "フランス語" },
+      { "node": "abolish", "sub": "廃止する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "abolish slavery", "ja": "奴隷制を廃止する" },
+      { "en": "abolish the death penalty", "ja": "死刑を廃止する" },
+      { "en": "abolish a law", "ja": "法律を廃止する" },
+      { "en": "abolish the tax", "ja": "税を撤廃する" },
+      { "en": "call to abolish", "ja": "廃止を求める" },
+      { "en": "completely abolish", "ja": "完全に廃止する" }
+    ],
+    "related": [
+      { "en": "abolition", "ja": "廃止" },
+      { "en": "eliminate", "ja": "取り除く、排除する" },
+      { "en": "repeal", "ja": "(法律を)廃止する" },
+      { "en": "establish", "ja": "設立する、制定する" }
+    ],
+    "faq": [
+      { "q": "abolish と repeal の違いは？", "a": "abolish は制度・慣習など広く「廃止する」、repeal は特に「法律を廃止する」に使います。" },
+      { "q": "反対語は？", "a": "establish(設立・制定する)や introduce(導入する)が対になります。名詞は abolition(廃止)です。" }
+    ],
+    "quiz": [
+      { "q": "abolish の意味は？", "A": "設立する", "B": "廃止する", "C": "修理する", "D": "延期する", "correct": "B" },
+      { "q": "abolish の目的語にふさわしいのは？", "A": "スマホ", "B": "奴隷制", "C": "コップ", "D": "建物", "correct": "B" }
+    ]
+  },
+  {
+    "english": "aboveground",
+    "pron": "əˈbʌvɡraʊnd",
+    "kana": "アバブグラウンド",
+    "hinshi": "形容詞 / 副詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "above（上に）+ ground（地面）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "位置・比喩"],
+    "meaning_main": "地上の / 地上で / 合法的な・表立った",
+    "description": "aboveground の意味・発音・使い方。「地上の・地上で」を表す語。underground(地下の)の反対で、比喩的に「合法的な・表立った」の意味でも使います。",
+    "keywords": ["aboveground 意味", "aboveground 使い方", "aboveground 発音", "アバブグラウンド 意味"],
+    "meanings": [
+      { "hinshi": "【形/副】地上の、地上で", "note": "地面より上にある。an aboveground pool（地上設置型プール)" },
+      { "hinshi": "【形】合法的な、表立った", "note": "underground(非合法な)の反対。比喩的用法" }
+    ],
+    "usages": [
+      { "title": "① 「地上の」", "desc": "地下ではなく地面の上にある。", "example_en": "They installed an aboveground pool.", "example_ja": "彼らは地上設置型のプールを設置した。" },
+      { "title": "② 「表立った・合法の」", "desc": "隠れていない、公然の意味で使う。", "example_en": "The group operates aboveground now.", "example_ja": "その団体は今では表立って活動している。" }
+    ],
+    "warn": ["反対は underground(地下の・非合法の)。above ground と2語で書くこともある。"],
+    "etym_note": "above（上に)と ground（地面)を組み合わせた語で、「地面の上」を表します。",
+    "etym_chain": [
+      { "node": "above + ground", "sub": "地面の上", "era": "近代英語" },
+      { "node": "aboveground", "sub": "地上の", "era": "現代英語" },
+      { "node": "aboveground", "sub": "地上の・表立った", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an aboveground pool", "ja": "地上設置型プール" },
+      { "en": "aboveground storage", "ja": "地上保管" },
+      { "en": "aboveground nuclear test", "ja": "地上核実験" },
+      { "en": "stay aboveground", "ja": "地上にとどまる" },
+      { "en": "aboveground economy", "ja": "表の経済" },
+      { "en": "aboveground pipeline", "ja": "地上のパイプライン" }
+    ],
+    "related": [
+      { "en": "underground", "ja": "地下の、非合法の" },
+      { "en": "surface", "ja": "地表、表面" },
+      { "en": "above", "ja": "上に" },
+      { "en": "ground", "ja": "地面" }
+    ],
+    "faq": [
+      { "q": "aboveground の反対語は？", "a": "underground(地下の)です。比喩的には「非合法・秘密の」の反対で「合法・表立った」の意味にもなります。" },
+      { "q": "above ground と1語・2語どちらが正しい？", "a": "どちらも使われます。形容詞として名詞の前に置くときは aboveground と1語で書くことが多いです。" }
+    ],
+    "quiz": [
+      { "q": "aboveground の意味は？", "A": "地下の", "B": "地上の", "C": "空中の", "D": "水中の", "correct": "B" },
+      { "q": "aboveground の反対語は？", "A": "surface", "B": "underground", "C": "overhead", "D": "outdoor", "correct": "B" }
+    ]
+  },
+  {
+    "english": "abrade",
+    "pron": "əˈbreɪd",
+    "kana": "アブレイド",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 abradere（削り取る）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "専門・動作"],
+    "meaning_main": "(こすって)すり減らす / 擦りむく / 摩耗させる",
+    "description": "abrade の意味・発音・使い方。「こすってすり減らす・擦りむく」を表すやや専門的な動詞。摩擦による摩耗を表す用法を例文とともに解説します。",
+    "keywords": ["abrade 意味", "abrade 使い方", "abrade 発音", "アブレイド 意味"],
+    "meanings": [
+      { "hinshi": "【動】(こすって)すり減らす、摩耗させる", "note": "摩擦で表面を削る。工学・医学などで使う" },
+      { "hinshi": "【動】(皮膚を)擦りむく", "note": "abrade the skin(皮膚を擦りむく)" }
+    ],
+    "usages": [
+      { "title": "① 「すり減らす」", "desc": "摩擦で表面を削り取る。", "example_en": "Sand can abrade the surface of glass.", "example_ja": "砂はガラスの表面をすり減らすことがある。" },
+      { "title": "② 「擦りむく」", "desc": "皮膚などがこすれて傷つく。", "example_en": "She abraded her knee when she fell.", "example_ja": "彼女は転んでひざを擦りむいた。" }
+    ],
+    "warn": ["名詞は abrasion(擦り傷・摩耗)、形容詞は abrasive(研磨性の・耳障りな)。"],
+    "etym_note": "ラテン語 abradere（ab-「離れて」+ radere「削る」)「削り取る」に由来します。razor(かみそり)と同語源です。",
+    "etym_chain": [
+      { "node": "abradere", "sub": "削り取る", "era": "ラテン語" },
+      { "node": "abrade", "sub": "すり減らす", "era": "17世紀英語" },
+      { "node": "abrade", "sub": "摩耗させる・擦りむく", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "abrade the surface", "ja": "表面をすり減らす" },
+      { "en": "abrade the skin", "ja": "皮膚を擦りむく" },
+      { "en": "abrade the rock", "ja": "岩を削る" },
+      { "en": "abrade away", "ja": "こすり取る" },
+      { "en": "abraded surface", "ja": "摩耗した表面" },
+      { "en": "abrade the coating", "ja": "コーティングを削る" }
+    ],
+    "related": [
+      { "en": "abrasion", "ja": "擦り傷、摩耗" },
+      { "en": "abrasive", "ja": "研磨性の、耳障りな" },
+      { "en": "scrape", "ja": "こすり取る" },
+      { "en": "erode", "ja": "侵食する" }
+    ],
+    "faq": [
+      { "q": "abrade と erode の違いは？", "a": "abrade は「摩擦でこすってすり減らす」、erode は「水・風などで徐々に侵食する」に重点があります。" },
+      { "q": "名詞形は？", "a": "abrasion(擦り傷・摩耗)です。形容詞は abrasive(研磨性の・耳障りな)です。" }
+    ],
+    "quiz": [
+      { "q": "abrade の意味は？", "A": "磨いて光らせる", "B": "こすってすり減らす", "C": "接着する", "D": "塗装する", "correct": "B" },
+      { "q": "abrade の名詞形は？", "A": "abrasion", "B": "abrader", "C": "abradement", "D": "abradation", "correct": "A" }
+    ]
+  },
+  {
+    "english": "abridged",
+    "pron": "əˈbrɪdʒd",
+    "kana": "アブリッジド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "abridge（短縮する）+ -ed。ラテン語 abbreviare から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "書籍・出版"],
+    "meaning_main": "(本などが)要約された / 短縮版の / 簡約された",
+    "description": "abridged の意味・発音・使い方。「(本・作品が)要約された・短縮版の」を表す形容詞。unabridged(完全版の)との対比を例文とともに解説します。",
+    "keywords": ["abridged 意味", "abridged 使い方", "abridged 発音", "アブリッジド 意味"],
+    "meanings": [
+      { "hinshi": "【形】要約された、短縮版の", "note": "本や作品を短くまとめたもの。an abridged edition(簡約版)" }
+    ],
+    "usages": [
+      { "title": "① 「短縮版の」", "desc": "長い作品を短くまとめた版。", "example_en": "I read an abridged version of the novel.", "example_ja": "私はその小説の短縮版を読んだ。" },
+      { "title": "② unabridged との対比", "desc": "un- が付くと「完全版・省略なし」。", "example_en": "This is the unabridged edition, not the abridged one.", "example_ja": "これは短縮版ではなく完全版だ。" }
+    ],
+    "warn": ["動詞は abridge(短縮する)。反対は unabridged(完全版の・省略なしの)。"],
+    "etym_note": "abridge（ラテン語 abbreviare「短くする」由来。brief と同語源)の過去分詞から形容詞化しました。",
+    "etym_chain": [
+      { "node": "abbreviare", "sub": "短くする", "era": "ラテン語" },
+      { "node": "abregier", "sub": "短縮する", "era": "古フランス語" },
+      { "node": "abridged", "sub": "要約された", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an abridged version", "ja": "短縮版" },
+      { "en": "an abridged edition", "ja": "簡約版" },
+      { "en": "abridged dictionary", "ja": "簡約辞典" },
+      { "en": "abridged text", "ja": "要約されたテキスト" },
+      { "en": "slightly abridged", "ja": "少し短縮された" },
+      { "en": "abridged audiobook", "ja": "短縮版オーディオブック" }
+    ],
+    "related": [
+      { "en": "abridge", "ja": "短縮する" },
+      { "en": "unabridged", "ja": "完全版の、省略なしの" },
+      { "en": "condensed", "ja": "要約された、濃縮した" },
+      { "en": "summary", "ja": "要約" }
+    ],
+    "faq": [
+      { "q": "abridged と unabridged の違いは？", "a": "abridged は「短縮・要約された版」、unabridged は「省略のない完全版」です。オーディオブックや古典の版でよく区別されます。" },
+      { "q": "動詞形は？", "a": "abridge(短縮する)です。an abridged version は「短縮された版」となります。" }
+    ],
+    "quiz": [
+      { "q": "abridged の意味は？", "A": "完全版の", "B": "要約された、短縮版の", "C": "翻訳された", "D": "絶版の", "correct": "B" },
+      { "q": "abridged の反対語は？", "A": "condensed", "B": "unabridged", "C": "shortened", "D": "brief", "correct": "B" }
+    ]
+  },
+  {
+    "english": "absenteeism",
+    "pron": "ˌæbsənˈtiːɪzəm",
+    "kana": "アブセンティーイズム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "absentee（欠席者）+ -ism",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "ビジネス・社会"],
+    "meaning_main": "(常習的な)欠勤 / 欠席 / 無断欠勤の多さ",
+    "description": "absenteeism の意味・発音・使い方。学校や職場の「(常習的な)欠勤・欠席」を表す名詞。ビジネスや労務管理でよく使う語を例文で解説します。",
+    "keywords": ["absenteeism 意味", "absenteeism 使い方", "absenteeism 発音", "アブセンティーイズム 意味"],
+    "meanings": [
+      { "hinshi": "【名】(常習的な)欠勤、欠席の多さ", "note": "職場や学校を頻繁に休むこと。労務管理・統計で使う。不可算" }
+    ],
+    "usages": [
+      { "title": "① 職場の「欠勤」", "desc": "従業員が頻繁に休むこと。", "example_en": "High absenteeism is hurting productivity.", "example_ja": "欠勤の多さが生産性を損なっている。" },
+      { "title": "② 学校の「欠席」", "desc": "生徒の欠席の多さにも使う。", "example_en": "The school is trying to reduce absenteeism.", "example_ja": "その学校は欠席を減らそうとしている。" }
+    ],
+    "warn": ["個々の「欠席」は absence。absenteeism は「欠席・欠勤が多い状態・傾向」を指す。"],
+    "etym_note": "absentee（欠席者。absent「不在の」+ -ee)に「状態・主義」を表す -ism が付いた語です。",
+    "etym_chain": [
+      { "node": "absent", "sub": "不在の", "era": "中英語" },
+      { "node": "absentee", "sub": "欠席者", "era": "近代英語" },
+      { "node": "absenteeism", "sub": "欠勤の多さ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "high absenteeism", "ja": "欠勤の多さ" },
+      { "en": "reduce absenteeism", "ja": "欠勤を減らす" },
+      { "en": "employee absenteeism", "ja": "従業員の欠勤" },
+      { "en": "chronic absenteeism", "ja": "常習的な欠席" },
+      { "en": "absenteeism rate", "ja": "欠勤率" },
+      { "en": "workplace absenteeism", "ja": "職場での欠勤" }
+    ],
+    "related": [
+      { "en": "absence", "ja": "欠席、不在" },
+      { "en": "absent", "ja": "不在の、欠席の" },
+      { "en": "attendance", "ja": "出席" },
+      { "en": "truancy", "ja": "(学校の)無断欠席" }
+    ],
+    "faq": [
+      { "q": "absenteeism と absence の違いは？", "a": "absence は個々の「欠席・不在」、absenteeism は「欠席・欠勤が常習的に多い状態」を指す語です。" },
+      { "q": "truancy との違いは？", "a": "truancy は特に生徒の「無断欠席・ずる休み」を指します。absenteeism はより広く欠勤・欠席全般に使います。" }
+    ],
+    "quiz": [
+      { "q": "absenteeism の意味は？", "A": "常習的な欠勤・欠席", "B": "皆勤", "C": "遅刻", "D": "早退", "correct": "A" },
+      { "q": "absenteeism の反対にあたる語は？", "A": "absence", "B": "attendance", "C": "truancy", "D": "leave", "correct": "B" }
+    ]
+  },
+  {
+    "english": "absorbent",
+    "pron": "əbˈzɔːbənt",
+    "kana": "アブゾーベント",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 absorbere（吸い込む）から",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "性質・日用品"],
+    "meaning_main": "吸収性の / よく吸い込む / 吸収剤",
+    "description": "absorbent の意味・発音・使い方。「吸収性の・よく水を吸う」を表す形容詞。タオルやおむつなど日用品の性質を表す用法を例文で解説します。",
+    "keywords": ["absorbent 意味", "absorbent 使い方", "absorbent 発音", "アブゾーベント 意味"],
+    "meanings": [
+      { "hinshi": "【形】吸収性の、よく吸い込む", "note": "水分などをよく吸う性質。highly absorbent(吸水性が高い)" },
+      { "hinshi": "【名】吸収剤、吸収材", "note": "水分などを吸い取る物質" }
+    ],
+    "usages": [
+      { "title": "① 「吸収性の」", "desc": "水分をよく吸う性質を表す。", "example_en": "These towels are very absorbent.", "example_ja": "これらのタオルはとても吸水性が高い。" },
+      { "title": "② 名詞「吸収剤」", "desc": "水分・においなどを吸う材料。", "example_en": "The powder acts as an absorbent.", "example_ja": "その粉末は吸収剤として働く。" }
+    ],
+    "warn": ["動詞は absorb(吸収する)、名詞は absorption(吸収)。つづり b と s の順に注意(absorb)。"],
+    "etym_note": "ラテン語 absorbere（ab-「離れて」+ sorbere「吸う」)「吸い込む」に由来します。",
+    "etym_chain": [
+      { "node": "absorbere", "sub": "吸い込む", "era": "ラテン語" },
+      { "node": "absorbent", "sub": "吸収する", "era": "17世紀英語" },
+      { "node": "absorbent", "sub": "吸収性の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "highly absorbent", "ja": "吸水性が高い" },
+      { "en": "absorbent paper", "ja": "吸水紙" },
+      { "en": "absorbent material", "ja": "吸収性素材" },
+      { "en": "super absorbent", "ja": "超吸収性の" },
+      { "en": "absorbent cotton", "ja": "脱脂綿" },
+      { "en": "an absorbent cloth", "ja": "よく吸う布" }
+    ],
+    "related": [
+      { "en": "absorb", "ja": "吸収する" },
+      { "en": "absorption", "ja": "吸収" },
+      { "en": "porous", "ja": "多孔性の、しみ込みやすい" },
+      { "en": "waterproof", "ja": "防水の" }
+    ],
+    "faq": [
+      { "q": "absorbent と waterproof の違いは？", "a": "absorbent は「水をよく吸う」、waterproof は「水を通さない・防水の」で正反対の性質です。" },
+      { "q": "動詞・名詞形は？", "a": "動詞は absorb(吸収する)、名詞は absorption(吸収)です。" }
+    ],
+    "quiz": [
+      { "q": "absorbent の意味は？", "A": "防水の", "B": "吸収性の", "C": "透明な", "D": "丈夫な", "correct": "B" },
+      { "q": "absorbent の動詞形は？", "A": "absorb", "B": "absent", "C": "absolve", "D": "abstain", "correct": "A" }
+    ]
+  },
+  {
+    "english": "abstention",
+    "pron": "əbˈstenʃ(ə)n",
+    "kana": "アブステンション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 abstinere（差し控える）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "政治・投票"],
+    "meaning_main": "棄権 / 差し控えること / 節制",
+    "description": "abstention の意味・発音・使い方。投票の「棄権」や、飲酒などを「差し控えること」を表す名詞。動詞 abstain との関係を例文で解説します。",
+    "keywords": ["abstention 意味", "abstention 使い方", "abstention 発音", "アブステンション 意味"],
+    "meanings": [
+      { "hinshi": "【名】(投票の)棄権", "note": "賛成にも反対にも投じないこと。ten abstentions(棄権10票)" },
+      { "hinshi": "【名】差し控えること、節制", "note": "飲酒などを控えること。abstention from alcohol(禁酒)" }
+    ],
+    "usages": [
+      { "title": "① 投票の「棄権」", "desc": "採決で票を投じないこと。", "example_en": "The motion passed with three abstentions.", "example_ja": "その動議は棄権3票で可決された。" },
+      { "title": "② 「差し控えること」", "desc": "from を続けて「〜を控えること」。", "example_en": "Abstention from smoking improves health.", "example_ja": "喫煙を控えることは健康を改善する。" }
+    ],
+    "warn": ["動詞は abstain(棄権する・差し控える)。abstain from ...(〜を控える)の形で使う。"],
+    "etym_note": "ラテン語 abstinere（abs-「離れて」+ tenere「保つ」)「差し控える」に由来します。",
+    "etym_chain": [
+      { "node": "abstinere", "sub": "差し控える", "era": "ラテン語" },
+      { "node": "abstention", "sub": "差し控えること", "era": "近代英語" },
+      { "node": "abstention", "sub": "棄権・節制", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "three abstentions", "ja": "棄権3票" },
+      { "en": "abstention from alcohol", "ja": "禁酒" },
+      { "en": "vote abstention", "ja": "投票の棄権" },
+      { "en": "record an abstention", "ja": "棄権を記録する" },
+      { "en": "abstention rate", "ja": "棄権率" },
+      { "en": "call for abstention", "ja": "棄権を呼びかける" }
+    ],
+    "related": [
+      { "en": "abstain", "ja": "棄権する、控える" },
+      { "en": "vote", "ja": "投票(する)" },
+      { "en": "refrain", "ja": "差し控える" },
+      { "en": "abstinence", "ja": "節制、禁欲" }
+    ],
+    "faq": [
+      { "q": "abstention と abstinence の違いは？", "a": "abstention は主に「(投票の)棄権」や一時的に「差し控えること」、abstinence は「(酒・欲などの)継続的な節制・禁欲」を指します。" },
+      { "q": "動詞形は？", "a": "abstain(棄権する・差し控える)です。abstain from voting(投票を棄権する)のように使います。" }
+    ],
+    "quiz": [
+      { "q": "abstention の意味は？", "A": "賛成", "B": "棄権・差し控えること", "C": "反対", "D": "推薦", "correct": "B" },
+      { "q": "abstention の動詞形は？", "A": "abstain", "B": "absorb", "C": "abstract", "D": "abolish", "correct": "A" }
+    ]
+  },
+  {
+    "english": "abut",
+    "pron": "əˈbʌt",
+    "kana": "アバット",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古フランス語 abouter（端が接する）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "専門・不動産"],
+    "meaning_main": "(土地・建物が)隣接する / 接する",
+    "description": "abut の意味・発音・使い方。「(土地や建物が)隣り合って接する」を表すやや専門的な動詞。不動産・建築でよく使う語を例文とともに解説します。",
+    "keywords": ["abut 意味", "abut 使い方", "abut 発音", "アバット 意味"],
+    "meanings": [
+      { "hinshi": "【動】(土地・建物が)隣接する、接する", "note": "境界が接している。abut on/onto ...(〜に接する)。不動産・建築用語" }
+    ],
+    "usages": [
+      { "title": "① 「隣接する」", "desc": "土地や建物の境界が接する。", "example_en": "Our garden abuts the park.", "example_ja": "うちの庭は公園に隣接している。" },
+      { "title": "② abut on/onto", "desc": "「〜に接する」は on/onto を続ける。", "example_en": "The building abuts onto the main road.", "example_ja": "その建物は大通りに面して接している。" }
+    ],
+    "warn": ["ダブル t で活用: abutted / abutting。名詞 abutment(橋台・接合部)。"],
+    "etym_note": "古フランス語 abouter（a-「〜に」+ bout「端」)「端が接する」に由来します。",
+    "etym_chain": [
+      { "node": "abouter", "sub": "端が接する", "era": "古フランス語" },
+      { "node": "abut", "sub": "隣接する", "era": "中英語" },
+      { "node": "abut", "sub": "接する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "abut on", "ja": "〜に接する" },
+      { "en": "abut onto", "ja": "〜に面して接する" },
+      { "en": "abut the property", "ja": "その土地に隣接する" },
+      { "en": "abutting land", "ja": "隣接地" },
+      { "en": "abut against", "ja": "〜に突き当たる" },
+      { "en": "directly abut", "ja": "直接接する" }
+    ],
+    "related": [
+      { "en": "adjoin", "ja": "隣接する" },
+      { "en": "border", "ja": "境を接する" },
+      { "en": "adjacent", "ja": "隣接した" },
+      { "en": "abutment", "ja": "橋台、接合部" }
+    ],
+    "faq": [
+      { "q": "abut と adjoin の違いは？", "a": "ほぼ同義で「隣接する」ですが、abut は特に境界がぴったり「接している」ことを強調し、不動産・建築でよく使います。" },
+      { "q": "活用は？", "a": "t を重ねて abutted / abutting となります。" }
+    ],
+    "quiz": [
+      { "q": "abut の意味は？", "A": "遠く離れる", "B": "(土地・建物が)隣接する", "C": "取り壊す", "D": "移動する", "correct": "B" },
+      { "q": "abut の -ing 形は？", "A": "abuting", "B": "abutting", "C": "abuteing", "D": "abutingg", "correct": "B" }
+    ]
+  },
+  {
+    "english": "acacia",
+    "pron": "əˈkeɪʃə",
+    "kana": "アケイシャ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 akakia（とげのある木）から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "植物・自然"],
+    "meaning_main": "アカシア(の木) / ミモザなどの近縁樹",
+    "description": "acacia の意味・発音・使い方。とげや黄色い花で知られる「アカシア」を表す名詞。乾燥地に育つ木の特徴や語源を例文とともに解説します。",
+    "keywords": ["acacia 意味", "acacia 使い方", "acacia 発音", "アカシア 木"],
+    "meanings": [
+      { "hinshi": "【名】アカシア(の木)", "note": "マメ科の樹木。乾燥地に多く、黄色い花やとげをもつ種が多い。可算名詞" }
+    ],
+    "usages": [
+      { "title": "① 乾燥地の木「アカシア」", "desc": "サバンナや乾燥地に育つ丈夫な木。", "example_en": "Giraffes feed on acacia leaves.", "example_ja": "キリンはアカシアの葉を食べる。" },
+      { "title": "② 花や木材として", "desc": "黄色い花や硬い木材で知られる。", "example_en": "The acacia was covered in yellow flowers.", "example_ja": "そのアカシアは黄色い花で覆われていた。" }
+    ],
+    "warn": ["日本で街路樹の「ニセアカシア」は正確には Robinia(ハリエンジュ)で別属。ミモザも近縁のアカシア類。"],
+    "etym_note": "ギリシャ語 akakia（とげのある木の意)に由来し、ラテン語を経て英語に入りました。",
+    "etym_chain": [
+      { "node": "akakia", "sub": "とげのある木", "era": "古代ギリシャ語" },
+      { "node": "acacia", "sub": "アカシア", "era": "ラテン語" },
+      { "node": "acacia", "sub": "アカシアの木", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an acacia tree", "ja": "アカシアの木" },
+      { "en": "acacia leaves", "ja": "アカシアの葉" },
+      { "en": "acacia wood", "ja": "アカシア材" },
+      { "en": "acacia honey", "ja": "アカシアの蜂蜜" },
+      { "en": "a grove of acacias", "ja": "アカシアの木立" },
+      { "en": "acacia flowers", "ja": "アカシアの花" }
+    ],
+    "related": [
+      { "en": "tree", "ja": "木" },
+      { "en": "mimosa", "ja": "ミモザ" },
+      { "en": "savanna", "ja": "サバンナ" },
+      { "en": "thorn", "ja": "とげ" }
+    ],
+    "faq": [
+      { "q": "acacia とはどんな木ですか？", "a": "マメ科の樹木で、乾燥地に多く育ちます。黄色い花やとげをもつ種が多く、アフリカのサバンナの象徴的な木です。" },
+      { "q": "ミモザと同じですか？", "a": "ミモザは近縁のアカシア類の通称です。厳密には植物学上の分類が異なる場合があります。" }
+    ],
+    "quiz": [
+      { "q": "acacia とは何？", "A": "木の一種", "B": "鳥の一種", "C": "岩石の一種", "D": "昆虫の一種", "correct": "A" },
+      { "q": "acacia がよく育つ環境は？", "A": "深海", "B": "乾燥地・サバンナ", "C": "北極", "D": "洞窟", "correct": "B" }
+    ]
+  },
+  {
+    "english": "accepting",
+    "pron": "əkˈseptɪŋ",
+    "kana": "アクセプティング",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "accept（受け入れる）+ -ing",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "性格・感情"],
+    "meaning_main": "受け入れる / 寛容な / (違いを)認める",
+    "description": "accepting の意味・発音・使い方。「(人や違いを)寛容に受け入れる」を表す形容詞。accepting of の形を例文とともに解説します。",
+    "keywords": ["accepting 意味", "accepting 使い方", "accepting 発音", "アクセプティング 意味"],
+    "meanings": [
+      { "hinshi": "【形】(進んで)受け入れる、寛容な", "note": "人や違いを偏見なく受け入れる態度。accepting of ...(〜を受け入れる)" }
+    ],
+    "usages": [
+      { "title": "① 「寛容な」", "desc": "違いや欠点を認めて受け入れる。", "example_en": "She is very accepting of other cultures.", "example_ja": "彼女は他の文化にとても寛容だ。" },
+      { "title": "② 現状を「受け入れる」", "desc": "変えられない事実を穏やかに受け入れる。", "example_en": "He became more accepting of his situation.", "example_ja": "彼は自分の状況をより受け入れるようになった。" }
+    ],
+    "warn": ["動詞 accept の現在分詞でもある。形容詞として「寛容な」の意味で使う点に注目。"],
+    "etym_note": "accept（ラテン語 accipere「受け取る」由来)に -ing が付いた語です。",
+    "etym_chain": [
+      { "node": "accipere", "sub": "受け取る", "era": "ラテン語" },
+      { "node": "accept", "sub": "受け入れる", "era": "中英語" },
+      { "node": "accepting", "sub": "寛容な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "accepting of others", "ja": "他者を受け入れる" },
+      { "en": "accepting of differences", "ja": "違いを認める" },
+      { "en": "an accepting attitude", "ja": "寛容な態度" },
+      { "en": "more accepting", "ja": "より寛容な" },
+      { "en": "warm and accepting", "ja": "温かく寛容な" },
+      { "en": "accepting environment", "ja": "受け入れる雰囲気の環境" }
+    ],
+    "related": [
+      { "en": "accept", "ja": "受け入れる" },
+      { "en": "tolerant", "ja": "寛容な" },
+      { "en": "open-minded", "ja": "偏見のない" },
+      { "en": "welcoming", "ja": "歓迎する" }
+    ],
+    "faq": [
+      { "q": "accepting と tolerant の違いは？", "a": "tolerant は「(嫌でも)耐えて認める」寛容さ、accepting は「進んで受け入れる」前向きな態度に重点があります。" },
+      { "q": "accepting of の形とは？", "a": "「〜を受け入れる」の意味で of を続けます。accepting of change(変化を受け入れる)のように使います。" }
+    ],
+    "quiz": [
+      { "q": "accepting(形容詞)の意味は？", "A": "拒絶する", "B": "寛容な、受け入れる", "C": "怒りっぽい", "D": "臆病な", "correct": "B" },
+      { "q": "「違いを受け入れる」を表す形は？", "A": "accepting of differences", "B": "accept difference", "C": "acceptable difference", "D": "acceptance differ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "acclaimed",
+    "pron": "əˈkleɪmd",
+    "kana": "アクレイムド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "acclaim（称賛する）+ -ed。ラテン語 acclamare から",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "評価・芸術"],
+    "meaning_main": "称賛された / 高く評価された / 好評の",
+    "description": "acclaimed の意味・発音・使い方。「(作品・人が)高く評価された・称賛された」を表す形容詞。critically acclaimed の表現を例文とともに解説します。",
+    "keywords": ["acclaimed 意味", "acclaimed 使い方", "acclaimed 発音", "アクレイムド 意味"],
+    "meanings": [
+      { "hinshi": "【形】称賛された、高く評価された", "note": "映画・本・人などが広く高評価を得た。an acclaimed novel(高評価の小説)" }
+    ],
+    "usages": [
+      { "title": "① 「高く評価された」", "desc": "作品や人が広く称賛される。", "example_en": "She is an acclaimed author.", "example_ja": "彼女は高く評価された作家だ。" },
+      { "title": "② critically acclaimed", "desc": "「批評家から称賛された」の定番表現。", "example_en": "The film was critically acclaimed.", "example_ja": "その映画は批評家から高く評価された。" }
+    ],
+    "warn": ["動詞は acclaim(称賛する)、名詞は acclaim(称賛)。claim(主張する)とは意味が異なる。"],
+    "etym_note": "ラテン語 acclamare（ad-「〜に」+ clamare「叫ぶ」)「歓呼して称える」に由来します。",
+    "etym_chain": [
+      { "node": "acclamare", "sub": "歓呼して称える", "era": "ラテン語" },
+      { "node": "acclaim", "sub": "称賛する", "era": "17世紀英語" },
+      { "node": "acclaimed", "sub": "称賛された", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "critically acclaimed", "ja": "批評家から称賛された" },
+      { "en": "an acclaimed author", "ja": "高評価の作家" },
+      { "en": "widely acclaimed", "ja": "広く称賛された" },
+      { "en": "an acclaimed film", "ja": "高く評価された映画" },
+      { "en": "internationally acclaimed", "ja": "国際的に評価された" },
+      { "en": "highly acclaimed", "ja": "非常に高く評価された" }
+    ],
+    "related": [
+      { "en": "acclaim", "ja": "称賛(する)" },
+      { "en": "praised", "ja": "称賛された" },
+      { "en": "renowned", "ja": "名高い" },
+      { "en": "celebrated", "ja": "有名な、名高い" }
+    ],
+    "faq": [
+      { "q": "acclaimed と famous の違いは？", "a": "famous は単に「有名な」、acclaimed は「(質の高さで)高く評価された・称賛された」に重点があります。" },
+      { "q": "critically acclaimed とは？", "a": "「批評家(critics)から高く評価された」という意味の決まり文句です。映画・本の宣伝でよく使われます。" }
+    ],
+    "quiz": [
+      { "q": "acclaimed の意味は？", "A": "酷評された", "B": "称賛された、高く評価された", "C": "無名の", "D": "禁止された", "correct": "B" },
+      { "q": "critically acclaimed の意味は？", "A": "批評家から称賛された", "B": "批判された", "C": "秘密にされた", "D": "却下された", "correct": "A" }
+    ]
+  },
+  {
+    "english": "accountable",
+    "pron": "əˈkaʊntəb(ə)l",
+    "kana": "アカウンタブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "account（説明する）+ -able",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "ビジネス・責任"],
+    "meaning_main": "(結果に)責任がある / 説明責任のある",
+    "description": "accountable の意味・発音・使い方。「(自分の行動・結果に)責任がある・説明責任のある」を表す形容詞。hold someone accountable の形を例文で解説します。",
+    "keywords": ["accountable 意味", "accountable 使い方", "accountable 発音", "アカウンタブル 意味"],
+    "meanings": [
+      { "hinshi": "【形】(結果・行動に)責任がある、説明責任のある", "note": "accountable for ...(〜に責任がある)、accountable to ...(〜に対して責任を負う)" }
+    ],
+    "usages": [
+      { "title": "① 「責任がある」", "desc": "自分の行動・結果に責任を負う。", "example_en": "Managers are accountable for their team's results.", "example_ja": "管理職はチームの結果に責任がある。" },
+      { "title": "② hold ... accountable", "desc": "「〜に責任を取らせる」の定番表現。", "example_en": "Voters can hold politicians accountable.", "example_ja": "有権者は政治家に責任を取らせることができる。" }
+    ],
+    "warn": ["responsible と近いが、accountable は特に「説明・報告する義務」を含む。名詞は accountability(説明責任)。"],
+    "etym_note": "account（説明する・報告する)に「〜できる・〜すべき」を表す -able が付いた語です。",
+    "etym_chain": [
+      { "node": "account", "sub": "説明する", "era": "中英語" },
+      { "node": "account + -able", "sub": "説明すべき", "era": "近代英語" },
+      { "node": "accountable", "sub": "責任がある", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "accountable for", "ja": "〜に責任がある" },
+      { "en": "accountable to", "ja": "〜に対して責任を負う" },
+      { "en": "hold someone accountable", "ja": "〜に責任を取らせる" },
+      { "en": "be held accountable", "ja": "責任を問われる" },
+      { "en": "fully accountable", "ja": "全面的に責任がある" },
+      { "en": "accountable government", "ja": "説明責任を果たす政府" }
+    ],
+    "related": [
+      { "en": "accountability", "ja": "説明責任" },
+      { "en": "responsible", "ja": "責任がある" },
+      { "en": "liable", "ja": "法的責任がある" },
+      { "en": "answerable", "ja": "責任を負う" }
+    ],
+    "faq": [
+      { "q": "accountable と responsible の違いは？", "a": "どちらも「責任がある」ですが、accountable は特に「結果を説明・報告する義務」を強調します。responsible は「(職務として)担当・責任がある」に広く使えます。" },
+      { "q": "hold someone accountable とは？", "a": "「(人)に責任を取らせる・責任を問う」という意味の重要表現です。" }
+    ],
+    "quiz": [
+      { "q": "accountable の意味は？", "A": "無責任な", "B": "責任がある、説明責任のある", "C": "自由な", "D": "有名な", "correct": "B" },
+      { "q": "hold someone accountable の意味は？", "A": "〜をほめる", "B": "〜に責任を取らせる", "C": "〜を無視する", "D": "〜を助ける", "correct": "B" }
+    ]
+  },
+  {
+    "english": "accretion",
+    "pron": "əˈkriːʃ(ə)n",
+    "kana": "アクリーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 accrescere（成長して増す）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "専門・科学"],
+    "meaning_main": "(徐々の)増大 / 付着・堆積による成長 / 付加物",
+    "description": "accretion の意味・発音・使い方。「少しずつ付け加わって増えること・堆積による成長」を表す専門的な名詞。天文・地質・法律の用法を例文で解説します。",
+    "keywords": ["accretion 意味", "accretion 使い方", "accretion 発音", "アクリーション 意味"],
+    "meanings": [
+      { "hinshi": "【名】(付着・堆積による)増大、成長", "note": "少しずつ積み重なって増えること。gradual accretion(徐々の増大)" },
+      { "hinshi": "【名】付け加わったもの、付加物", "note": "積み重なった結果の付着物・堆積物" }
+    ],
+    "usages": [
+      { "title": "① 「徐々の増大」", "desc": "少しずつ積み重なって増える過程。", "example_en": "The reef grew by slow accretion over centuries.", "example_ja": "そのサンゴ礁は何世紀もかけてゆっくりと成長した。" },
+      { "title": "② 天文・地質で", "desc": "物質が集まって天体や地層ができる過程。", "example_en": "Planets form through the accretion of dust and gas.", "example_ja": "惑星はちりやガスの集積によって形成される。" }
+    ],
+    "warn": ["動詞は accrete(付着して増える)、また利息などが「増える」は accrue。文語・専門的な語。"],
+    "etym_note": "ラテン語 accrescere（ad-「〜に」+ crescere「成長する」)「成長して増す」に由来します。",
+    "etym_chain": [
+      { "node": "accrescere", "sub": "成長して増す", "era": "ラテン語" },
+      { "node": "accretio", "sub": "増大", "era": "ラテン語" },
+      { "node": "accretion", "sub": "堆積による成長", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "gradual accretion", "ja": "徐々の増大" },
+      { "en": "accretion of material", "ja": "物質の集積" },
+      { "en": "by accretion", "ja": "堆積・積み重ねによって" },
+      { "en": "accretion disk", "ja": "降着円盤(天文)" },
+      { "en": "slow accretion", "ja": "ゆっくりした成長" },
+      { "en": "accretion of knowledge", "ja": "知識の積み重ね" }
+    ],
+    "related": [
+      { "en": "accumulation", "ja": "蓄積" },
+      { "en": "growth", "ja": "成長" },
+      { "en": "buildup", "ja": "蓄積、増強" },
+      { "en": "deposit", "ja": "堆積(物)" }
+    ],
+    "faq": [
+      { "q": "accretion と accumulation の違いは？", "a": "どちらも「蓄積・増大」ですが、accretion は特に「付着・堆積して外側に付け加わる形で増える」ことを指し、天文・地質でよく使います。" },
+      { "q": "accretion disk とは？", "a": "天文学で、天体の周りにガスやちりが渦を巻いて集まってできる「降着円盤」のことです。" }
+    ],
+    "quiz": [
+      { "q": "accretion の意味は？", "A": "急激な減少", "B": "付着・堆積による増大", "C": "分解", "D": "移動", "correct": "B" },
+      { "q": "accretion がよく使われる分野は？", "A": "天文・地質", "B": "料理", "C": "音楽", "D": "スポーツ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "acquiesce",
+    "pron": "ˌækwiˈes",
+    "kana": "アクウィエス",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 acquiescere（静まる・落ち着く）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "抽象語・態度"],
+    "meaning_main": "(しぶしぶ)黙って従う / 默認する / 応じる",
+    "description": "acquiesce の意味・発音・使い方。「(積極的ではないが)黙って従う・默認する」を表すフォーマルな動詞。acquiesce in/to の形を例文で解説します。",
+    "keywords": ["acquiesce 意味", "acquiesce 使い方", "acquiesce 発音", "アクウィエス 意味"],
+    "meanings": [
+      { "hinshi": "【動】(異議を唱えず)黙って従う、默認する", "note": "積極的な賛成ではなく、不満でも受け入れる。acquiesce in/to ...(〜に従う)" }
+    ],
+    "usages": [
+      { "title": "① 「黙って従う」", "desc": "反対せず、消極的に受け入れる。", "example_en": "She reluctantly acquiesced to their demands.", "example_ja": "彼女はしぶしぶ彼らの要求に従った。" },
+      { "title": "② acquiesce in", "desc": "「〜を默認する」は in を続ける。", "example_en": "They acquiesced in the decision.", "example_ja": "彼らはその決定を默認した。" }
+    ],
+    "warn": ["発音は語尾にアクセント[ˌækwiˈes]。名詞は acquiescence(默認)。フォーマルな語。"],
+    "etym_note": "ラテン語 acquiescere（ad-「〜に」+ quiescere「静まる」)「静まって受け入れる」に由来します。quiet と同語源です。",
+    "etym_chain": [
+      { "node": "acquiescere", "sub": "静まる", "era": "ラテン語" },
+      { "node": "acquiesce", "sub": "黙って従う", "era": "17世紀英語" },
+      { "node": "acquiesce", "sub": "默認する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "acquiesce in", "ja": "〜を默認する" },
+      { "en": "acquiesce to", "ja": "〜に従う" },
+      { "en": "reluctantly acquiesce", "ja": "しぶしぶ従う" },
+      { "en": "acquiesce in silence", "ja": "黙って受け入れる" },
+      { "en": "readily acquiesce", "ja": "すんなり応じる" },
+      { "en": "acquiesce to demands", "ja": "要求に従う" }
+    ],
+    "related": [
+      { "en": "acquiescence", "ja": "默認、黙従" },
+      { "en": "comply", "ja": "従う" },
+      { "en": "consent", "ja": "同意する" },
+      { "en": "submit", "ja": "屈する、従う" }
+    ],
+    "faq": [
+      { "q": "acquiesce と agree の違いは？", "a": "agree は積極的に「賛成する」、acquiesce は「積極的ではないが異議を唱えず黙って従う・默認する」ニュアンスです。" },
+      { "q": "名詞形は？", "a": "acquiescence(默認・黙従)です。" }
+    ],
+    "quiz": [
+      { "q": "acquiesce の意味は？", "A": "強く反対する", "B": "黙って従う、默認する", "C": "質問する", "D": "命令する", "correct": "B" },
+      { "q": "acquiesce のニュアンスは？", "A": "熱心な賛成", "B": "しぶしぶの黙従", "C": "強い拒否", "D": "無関心", "correct": "B" }
+    ]
+  },
+  {
+    "english": "acre",
+    "pron": "ˈeɪkər",
+    "kana": "エイカー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 æcer（耕地）から",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "単位・面積"],
+    "meaning_main": "エーカー(面積の単位) / (複数形で)広大な土地",
+    "description": "acre の意味・発音・使い方。土地の面積を表す単位「エーカー」(約4047平方メートル)を表す名詞。広さの目安や複数形の用法を例文で解説します。",
+    "keywords": ["acre 意味", "acre 使い方", "acre 発音", "エーカー 面積"],
+    "meanings": [
+      { "hinshi": "【名】エーカー(面積の単位)", "note": "1エーカー ≒ 4047平方メートル ≒ 約1224坪。英米で使う土地の単位" },
+      { "hinshi": "【名】(複数形 acres で)広大な土地", "note": "acres of land(広大な土地)。「たくさんの」の意味でも使う" }
+    ],
+    "usages": [
+      { "title": "① 面積の単位「エーカー」", "desc": "土地の広さを表す。", "example_en": "The farm covers about 200 acres.", "example_ja": "その農場は約200エーカーの広さだ。" },
+      { "title": "② 「広大な〜」", "desc": "acres of で「たくさんの」を表す。", "example_en": "There were acres of open space.", "example_ja": "広々とした空間が広がっていた。" }
+    ],
+    "warn": ["発音は[ˈeɪkər]「エイカー」。1エーカーは約4047平方メートル(サッカー場の約半分強)。"],
+    "etym_note": "古英語 æcer（耕地。もとは「1日で耕せる広さ」)に由来し、のちに面積の単位になりました。",
+    "etym_chain": [
+      { "node": "æcer", "sub": "耕地", "era": "古英語" },
+      { "node": "acre", "sub": "耕地・面積の単位", "era": "中英語" },
+      { "node": "acre", "sub": "エーカー", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "two hundred acres", "ja": "200エーカー" },
+      { "en": "acres of land", "ja": "広大な土地" },
+      { "en": "a five-acre farm", "ja": "5エーカーの農場" },
+      { "en": "per acre", "ja": "1エーカーあたり" },
+      { "en": "acres of forest", "ja": "広大な森" },
+      { "en": "square acre", "ja": "(誤用注意)エーカーは面積単位" }
+    ],
+    "related": [
+      { "en": "hectare", "ja": "ヘクタール" },
+      { "en": "area", "ja": "面積、地域" },
+      { "en": "land", "ja": "土地" },
+      { "en": "field", "ja": "野原、畑" }
+    ],
+    "faq": [
+      { "q": "1エーカーはどれくらいの広さ？", "a": "約4047平方メートルです。サッカーの競技場の半分強にあたります。1ヘクタール(10000平方メートル)は約2.47エーカーです。" },
+      { "q": "acres of ... とは？", "a": "「広大な〜・たくさんの〜」という意味で、acres of land(広大な土地)のように誇張的にも使います。" }
+    ],
+    "quiz": [
+      { "q": "acre は何の単位？", "A": "面積", "B": "重さ", "C": "速さ", "D": "体積", "correct": "A" },
+      { "q": "1エーカーはおよそ何平方メートル？", "A": "約40平方メートル", "B": "約4047平方メートル", "C": "約100万平方メートル", "D": "約10平方メートル", "correct": "B" }
+    ]
+  },
+  {
+    "english": "acrimonious",
+    "pron": "ˌækrɪˈməʊniəs",
+    "kana": "アクリモウニアス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 acrimonia（辛辣さ・鋭さ）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "感情・対立"],
+    "meaning_main": "(議論・関係が)とげとげしい / 辛辣な / 険悪な",
+    "description": "acrimonious の意味・発音・使い方。「(口論・関係が)とげとげしく険悪な」を表すフォーマルな形容詞。離婚や議論の描写に使う用法を例文で解説します。",
+    "keywords": ["acrimonious 意味", "acrimonious 使い方", "acrimonious 発音", "アクリモウニアス 意味"],
+    "meanings": [
+      { "hinshi": "【形】(議論・関係が)とげとげしい、険悪な", "note": "怒りや恨みに満ちた対立を表す。an acrimonious dispute(険悪な争い)" }
+    ],
+    "usages": [
+      { "title": "① 「険悪な議論」", "desc": "感情的で敵意に満ちた口論。", "example_en": "The debate became acrimonious.", "example_ja": "その討論はとげとげしくなった。" },
+      { "title": "② 「険悪な別れ」", "desc": "離婚や決別が敵意に満ちている。", "example_en": "They went through an acrimonious divorce.", "example_ja": "彼らは険悪な離婚を経験した。" }
+    ],
+    "warn": ["名詞は acrimony(辛辣さ・とげとげしさ)。フォーマルで書き言葉に多い。"],
+    "etym_note": "ラテン語 acrimonia（acer「鋭い・辛い」から)「辛辣さ・鋭さ」に由来します。acid(酸)とも語源的に近い語です。",
+    "etym_chain": [
+      { "node": "acrimonia", "sub": "辛辣さ", "era": "ラテン語" },
+      { "node": "acrimonious", "sub": "とげとげしい", "era": "17世紀英語" },
+      { "node": "acrimonious", "sub": "険悪な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an acrimonious dispute", "ja": "険悪な争い" },
+      { "en": "acrimonious divorce", "ja": "険悪な離婚" },
+      { "en": "acrimonious debate", "ja": "とげとげしい討論" },
+      { "en": "become acrimonious", "ja": "険悪になる" },
+      { "en": "acrimonious exchange", "ja": "とげとげしいやり取り" },
+      { "en": "increasingly acrimonious", "ja": "ますます険悪な" }
+    ],
+    "related": [
+      { "en": "acrimony", "ja": "辛辣さ、とげとげしさ" },
+      { "en": "bitter", "ja": "つらい、恨みを含んだ" },
+      { "en": "hostile", "ja": "敵意のある" },
+      { "en": "amicable", "ja": "友好的な、円満な" }
+    ],
+    "faq": [
+      { "q": "acrimonious の反対語は？", "a": "amicable(友好的な・円満な)です。an amicable divorce(円満な離婚)のように対比されます。" },
+      { "q": "名詞形は？", "a": "acrimony(辛辣さ・とげとげしさ)です。" }
+    ],
+    "quiz": [
+      { "q": "acrimonious の意味は？", "A": "友好的な", "B": "とげとげしい、険悪な", "C": "楽しい", "D": "静かな", "correct": "B" },
+      { "q": "acrimonious の反対語は？", "A": "hostile", "B": "amicable", "C": "bitter", "D": "harsh", "correct": "B" }
+    ]
+  },
+  {
+    "english": "actuator",
+    "pron": "ˈæktʃueɪtər",
+    "kana": "アクチュエーター",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "actuate（作動させる）+ -or",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "工学・機械"],
+    "meaning_main": "アクチュエーター / 作動装置 / 駆動装置",
+    "description": "actuator の意味・発音・使い方。信号を受けて機械を「動かす部品」を表す工学用語。ロボットや自動車の駆動装置を表す用法を例文で解説します。",
+    "keywords": ["actuator 意味", "actuator 使い方", "actuator 発音", "アクチュエーター 意味"],
+    "meanings": [
+      { "hinshi": "【名】アクチュエーター、作動装置", "note": "電気信号などを物理的な動き(回転・直線運動)に変える部品。可算名詞" }
+    ],
+    "usages": [
+      { "title": "① 機械の「駆動部品」", "desc": "信号を受けて動きを生み出す装置。", "example_en": "The robot arm is moved by an electric actuator.", "example_ja": "そのロボットアームは電動アクチュエーターで動かされる。" },
+      { "title": "② 自動車・機器で", "desc": "ドアロックやバルブの開閉などに使う。", "example_en": "A faulty actuator caused the valve to stick.", "example_ja": "アクチュエーターの不具合でバルブが固着した。" }
+    ],
+    "warn": ["センサー(sensor)が「入力を感知」するのに対し、アクチュエーターは「出力として動かす」装置。"],
+    "etym_note": "actuate（動詞。act「行う」から「作動させる」)に「〜するもの」を表す -or が付いた語です。",
+    "etym_chain": [
+      { "node": "actuate", "sub": "作動させる", "era": "17世紀英語" },
+      { "node": "actuate + -or", "sub": "作動させるもの", "era": "近代英語" },
+      { "node": "actuator", "sub": "作動装置", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "electric actuator", "ja": "電動アクチュエーター" },
+      { "en": "linear actuator", "ja": "直動アクチュエーター" },
+      { "en": "hydraulic actuator", "ja": "油圧アクチュエーター" },
+      { "en": "a faulty actuator", "ja": "不具合のあるアクチュエーター" },
+      { "en": "actuator motor", "ja": "アクチュエーター用モーター" },
+      { "en": "control the actuator", "ja": "アクチュエーターを制御する" }
+    ],
+    "related": [
+      { "en": "sensor", "ja": "センサー、感知器" },
+      { "en": "motor", "ja": "モーター" },
+      { "en": "mechanism", "ja": "機構、仕組み" },
+      { "en": "valve", "ja": "バルブ、弁" }
+    ],
+    "faq": [
+      { "q": "actuator とは何ですか？", "a": "電気などの信号を受けて、回転や直線運動といった物理的な動きを生み出す装置です。ロボット・自動車・産業機械などに使われます。" },
+      { "q": "sensor との違いは？", "a": "sensor は状態を「感知して入力する」装置、actuator は指示を受けて「動かして出力する」装置です。役割が逆です。" }
+    ],
+    "quiz": [
+      { "q": "actuator の役割は？", "A": "信号を受けて機械を動かす", "B": "温度を測る", "C": "光を発する", "D": "音を録音する", "correct": "A" },
+      { "q": "actuator と対になる装置は？", "A": "sensor", "B": "screen", "C": "battery", "D": "speaker", "correct": "A" }
+    ]
+  },
+  {
+    "english": "adaptability",
+    "pron": "əˌdæptəˈbɪləti",
+    "kana": "アダプタビリティ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "adapt（適応する）+ -ability",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "能力・性格"],
+    "meaning_main": "適応力 / 順応性 / 融通のきくこと",
+    "description": "adaptability の意味・発音・使い方。「変化に対応する適応力・順応性」を表す名詞。仕事や生物の適応能力を表す用法を例文とともに解説します。",
+    "keywords": ["adaptability 意味", "adaptability 使い方", "adaptability 発音", "アダプタビリティ 意味"],
+    "meanings": [
+      { "hinshi": "【名】適応力、順応性", "note": "新しい状況・環境に合わせて変わる力。不可算" }
+    ],
+    "usages": [
+      { "title": "① 仕事の「適応力」", "desc": "変化に柔軟に対応できる能力。", "example_en": "Employers value adaptability in the workplace.", "example_ja": "雇用主は職場での適応力を重視する。" },
+      { "title": "② 生物・製品の「順応性」", "desc": "環境や用途に合わせる能力。", "example_en": "The species is known for its adaptability.", "example_ja": "その種は順応性の高さで知られる。" }
+    ],
+    "warn": ["動詞は adapt(適応する)、形容詞は adaptable(適応できる)。adopt(採用する)と混同注意。"],
+    "etym_note": "adapt（ラテン語 adaptare「合わせる」由来)に「〜できること」を表す -ability が付いた語です。",
+    "etym_chain": [
+      { "node": "adaptare", "sub": "合わせる", "era": "ラテン語" },
+      { "node": "adaptable", "sub": "適応できる", "era": "近代英語" },
+      { "node": "adaptability", "sub": "適応力", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "great adaptability", "ja": "高い適応力" },
+      { "en": "show adaptability", "ja": "適応力を示す" },
+      { "en": "adaptability to change", "ja": "変化への順応性" },
+      { "en": "flexibility and adaptability", "ja": "柔軟性と適応力" },
+      { "en": "improve adaptability", "ja": "適応力を高める" },
+      { "en": "remarkable adaptability", "ja": "驚くべき適応力" }
+    ],
+    "related": [
+      { "en": "adapt", "ja": "適応する" },
+      { "en": "adaptable", "ja": "適応できる" },
+      { "en": "flexibility", "ja": "柔軟性" },
+      { "en": "versatility", "ja": "多才さ、汎用性" }
+    ],
+    "faq": [
+      { "q": "adaptability と flexibility の違いは？", "a": "flexibility は「柔軟に曲げられる・変えられる」性質全般、adaptability は特に「新しい環境・状況に合わせて変わる力」に重点があります。" },
+      { "q": "adapt と adopt の違いは？", "a": "adapt は「適応する・改変する」、adopt は「採用する・養子にする」です。つづりが似ているので注意しましょう。" }
+    ],
+    "quiz": [
+      { "q": "adaptability の意味は？", "A": "適応力、順応性", "B": "頑固さ", "C": "正直さ", "D": "速さ", "correct": "A" },
+      { "q": "adaptability の形容詞形は？", "A": "adoptable", "B": "adaptable", "C": "adaptive", "D": "adapting", "correct": "B" }
+    ]
+  }
+]

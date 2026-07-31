@@ -1,0 +1,990 @@
+[
+  {
+    "english": "constrained",
+    "pron": "kənˈstreɪnd",
+    "kana": "コンストレインド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "constrain（強制する・制限する）+ -ed",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "抽象語・制約"],
+    "meaning_main": "制約された / (行動が)束縛された / ぎこちない",
+    "description": "constrained の意味・発音・使い方。「制約された・束縛されて自由に動けない」を表す形容詞。feel constrained や態度がぎこちない用法を例文で解説します。",
+    "keywords": ["constrained 意味", "constrained 使い方", "constrained 発音", "制約された 英語"],
+    "meanings": [
+      { "hinshi": "【形】制約された、束縛された", "note": "自由に行動・選択できない。feel constrained(制約を感じる)、be constrained by ...(〜に制約される)" },
+      { "hinshi": "【形】(態度が)ぎこちない、堅苦しい", "note": "自然でなく無理をした様子" }
+    ],
+    "usages": [
+      { "title": "① 「制約された」", "desc": "自由に動けない状態。", "example_en": "The company is constrained by a tight budget.", "example_ja": "その会社は厳しい予算に制約されている。" },
+      { "title": "② 「ぎこちない」", "desc": "無理をした不自然な様子。", "example_en": "He gave a constrained smile.", "example_ja": "彼はぎこちない笑みを浮かべた。" }
+    ],
+    "warn": ["動詞 constrain(制約する・強いる)、名詞 constraint(制約)。be constrained by/to の形が多い。"],
+    "etym_note": "constrain（ラテン語 constringere「きつく縛る」から)の過去分詞から形容詞化しました。",
+    "etym_chain": [
+      { "node": "constringere", "sub": "きつく縛る", "era": "ラテン語" },
+      { "node": "constrain", "sub": "制約する", "era": "中英語" },
+      { "node": "constrained", "sub": "制約された", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "feel constrained", "ja": "制約を感じる" },
+      { "en": "be constrained by", "ja": "〜に制約される" },
+      { "en": "constrained to do", "ja": "〜せざるをえない" },
+      { "en": "financially constrained", "ja": "財政的に制約された" },
+      { "en": "a constrained smile", "ja": "ぎこちない笑み" },
+      { "en": "severely constrained", "ja": "厳しく制約された" }
+    ],
+    "related": [
+      { "en": "constrain", "ja": "制約する、強いる" },
+      { "en": "constraint", "ja": "制約" },
+      { "en": "restricted", "ja": "制限された" },
+      { "en": "limited", "ja": "限られた" }
+    ],
+    "faq": [
+      { "q": "be constrained by とは？", "a": "『〜によって制約される・束縛される』という意味です。be constrained by rules(規則に縛られる)のように使います。" },
+      { "q": "動詞・名詞形は？", "a": "動詞は constrain(制約する)、名詞は constraint(制約)です。" }
+    ],
+    "quiz": [
+      { "q": "constrained の意味は？", "A": "制約された、束縛された", "B": "自由な", "C": "裕福な", "D": "有名な", "correct": "A" },
+      { "q": "constrained の名詞形は？", "A": "constraint", "B": "construction", "C": "constellation", "D": "constant", "correct": "A" }
+    ]
+  },
+  {
+    "english": "constraint",
+    "pron": "kənˈstreɪnt",
+    "kana": "コンストレイント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 constringere（きつく縛る）から",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "抽象語・制約"],
+    "meaning_main": "制約 / 制限 / (行動を縛る)束縛",
+    "description": "constraint の意味・発音・使い方。行動や選択を縛る「制約・制限」を表す名詞。budget constraints(予算の制約)などの用法を例文で解説します。",
+    "keywords": ["constraint 意味", "constraint 使い方", "constraint 発音", "制約 英語"],
+    "meanings": [
+      { "hinshi": "【名】制約、制限、束縛", "note": "行動・選択を縛るもの。budget constraints(予算の制約)。可算・不可算" }
+    ],
+    "usages": [
+      { "title": "① 「制約」", "desc": "行動を縛るもの。", "example_en": "We worked within tight budget constraints.", "example_ja": "私たちは厳しい予算の制約の中で働いた。" },
+      { "title": "② 時間・資源の制約", "desc": "限られた条件。", "example_en": "Time constraints forced us to hurry.", "example_ja": "時間の制約で私たちは急がされた。" }
+    ],
+    "warn": ["動詞は constrain(制約する)、形容詞 constrained(制約された)。restriction(制限)とほぼ同義。"],
+    "etym_note": "ラテン語 constringere（con-「共に」+ stringere「締める」)「きつく縛る」に由来します。",
+    "etym_chain": [
+      { "node": "constringere", "sub": "きつく縛る", "era": "ラテン語" },
+      { "node": "constraint", "sub": "制約", "era": "中英語" },
+      { "node": "constraint", "sub": "制約・制限", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "budget constraints", "ja": "予算の制約" },
+      { "en": "time constraints", "ja": "時間の制約" },
+      { "en": "financial constraints", "ja": "財政的な制約" },
+      { "en": "without constraint", "ja": "制約なしに" },
+      { "en": "impose constraints", "ja": "制約を課す" },
+      { "en": "under constraint", "ja": "制約のもとで" }
+    ],
+    "related": [
+      { "en": "constrain", "ja": "制約する" },
+      { "en": "restriction", "ja": "制限" },
+      { "en": "limitation", "ja": "限界、制限" },
+      { "en": "freedom", "ja": "自由" }
+    ],
+    "faq": [
+      { "q": "constraint と restriction の違いは？", "a": "ほぼ同義で『制約・制限』です。constraint は『(条件として)行動を縛るもの』、restriction は『(規則などによる)制限』に重点があることがあります。" },
+      { "q": "動詞形は？", "a": "constrain(制約する・強いる)です。" }
+    ],
+    "quiz": [
+      { "q": "constraint の意味は？", "A": "制約、制限", "B": "自由", "C": "拡大", "D": "許可", "correct": "A" },
+      { "q": "budget constraints の意味は？", "A": "予算の制約", "B": "予算の増額", "C": "予算の廃止", "D": "予算の余り", "correct": "A" }
+    ]
+  },
+  {
+    "english": "constrict",
+    "pron": "kənˈstrɪkt",
+    "kana": "コンストリクト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 constringere（締めつける）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "医学・動作"],
+    "meaning_main": "締めつける / (血管などを)収縮させる / 制限する",
+    "description": "constrict の意味・発音・使い方。「(血管・のどなどを)締めつける・収縮させる」を表す動詞。比喩的な『制限する』の用法も例文で解説します。",
+    "keywords": ["constrict 意味", "constrict 使い方", "constrict 発音", "収縮 英語"],
+    "meanings": [
+      { "hinshi": "【動】締めつける、(血管などを)収縮させる", "note": "細く狭くする。constrict the blood vessels(血管を収縮させる)。反対は dilate(拡張する)" },
+      { "hinshi": "【動】(自由・活動を)制限する", "note": "比喩的に締めつける" }
+    ],
+    "usages": [
+      { "title": "① 「収縮させる」", "desc": "血管などを狭める。", "example_en": "Cold weather constricts the blood vessels.", "example_ja": "寒さは血管を収縮させる。" },
+      { "title": "② 「制限する」", "desc": "自由を締めつける。", "example_en": "Strict rules can constrict creativity.", "example_ja": "厳しい規則は創造性を制限しうる。" }
+    ],
+    "warn": ["名詞は constriction(収縮・締めつけ)。医学では血管の収縮に、反対は dilate(拡張する)。ヘビの constrictor(締めつけて獲物を殺すヘビ)も関連。"],
+    "etym_note": "ラテン語 constringere（con-「共に」+ stringere「締める」)「締めつける」に由来します。",
+    "etym_chain": [
+      { "node": "constringere", "sub": "締めつける", "era": "ラテン語" },
+      { "node": "constrict", "sub": "収縮させる", "era": "17世紀英語" },
+      { "node": "constrict", "sub": "締めつける・収縮させる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "constrict the blood vessels", "ja": "血管を収縮させる" },
+      { "en": "constrict the airway", "ja": "気道を狭める" },
+      { "en": "constrict movement", "ja": "動きを制限する" },
+      { "en": "feel constricted", "ja": "締めつけられる感じがする" },
+      { "en": "constrict the throat", "ja": "のどを締めつける" },
+      { "en": "a constricting feeling", "ja": "締めつけられる感覚" }
+    ],
+    "related": [
+      { "en": "constriction", "ja": "収縮、締めつけ" },
+      { "en": "dilate", "ja": "拡張する" },
+      { "en": "tighten", "ja": "締める" },
+      { "en": "narrow", "ja": "狭める" }
+    ],
+    "faq": [
+      { "q": "constrict の反対語は？", "a": "dilate(拡張する)です。血管などが constrict(収縮)する⇔dilate(拡張)する、のように対で使います。" },
+      { "q": "boa constrictor とは？", "a": "『ボアコンストリクター』という大蛇です。獲物を締めつけて(constrict)動きを封じることからこの名があります。" }
+    ],
+    "quiz": [
+      { "q": "constrict の意味は？", "A": "締めつける・収縮させる", "B": "広げる", "C": "壊す", "D": "温める", "correct": "A" },
+      { "q": "constrict の反対語は？", "A": "dilate(拡張する)", "B": "tighten(締める)", "C": "narrow(狭める)", "D": "squeeze(圧迫する)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "consubstantiation",
+    "pron": "ˌkɒnsəbˌstænʃiˈeɪʃ(ə)n",
+    "kana": "コンサブスタンシエーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "con-（共に）+ substantia（実体）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "神学・専門"],
+    "meaning_main": "共在説(聖餐でパンとキリストの体が共に存在するとする説)",
+    "description": "consubstantiation の意味・発音・使い方。キリスト教の聖餐で、パンとぶどう酒にキリストの体と血が『共に存在する』とする神学説「共在説」を表す専門用語を解説します。",
+    "keywords": ["consubstantiation 意味", "consubstantiation 使い方", "共在説 英語"],
+    "meanings": [
+      { "hinshi": "【名】共在説", "note": "聖餐でパンとぶどう酒が実体を保ったまま、そこにキリストの体と血が共に存在するとする神学説。主にルター派。不可算" }
+    ],
+    "usages": [
+      { "title": "① 神学の「共在説」", "desc": "パンとキリストが共存する説。", "example_en": "Lutherans traditionally hold to consubstantiation.", "example_ja": "ルター派は伝統的に共在説を支持する。" },
+      { "title": "② 化体説との対比", "desc": "カトリックの説と異なる。", "example_en": "Consubstantiation differs from transubstantiation.", "example_ja": "共在説は化体説とは異なる。" }
+    ],
+    "warn": ["カトリックの transubstantiation(化体説=パンが完全にキリストの体に変わる)と対比される。専門的な神学用語。"],
+    "etym_note": "ラテン語 con-（共に)+ substantia（実体)から、『実体が共に存在すること』を表します。",
+    "etym_chain": [
+      { "node": "con- + substantia", "sub": "共に+実体", "era": "ラテン語" },
+      { "node": "consubstantiation", "sub": "共在説", "era": "16世紀英語" },
+      { "node": "consubstantiation", "sub": "共在説", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the doctrine of consubstantiation", "ja": "共在説の教義" },
+      { "en": "believe in consubstantiation", "ja": "共在説を信じる" },
+      { "en": "consubstantiation vs transubstantiation", "ja": "共在説と化体説" },
+      { "en": "Lutheran consubstantiation", "ja": "ルター派の共在説" },
+      { "en": "reject consubstantiation", "ja": "共在説を退ける" },
+      { "en": "the idea of consubstantiation", "ja": "共在説の考え" }
+    ],
+    "related": [
+      { "en": "transubstantiation", "ja": "化体説" },
+      { "en": "communion", "ja": "聖餐" },
+      { "en": "eucharist", "ja": "聖体、聖餐" },
+      { "en": "doctrine", "ja": "教義" }
+    ],
+    "faq": [
+      { "q": "consubstantiation とは？", "a": "キリスト教の聖餐で、パンとぶどう酒が実体を保ったまま、そこにキリストの体と血が『共に存在する』とする神学説『共在説』です。主にルター派の立場です。" },
+      { "q": "transubstantiation との違いは？", "a": "transubstantiation(化体説)はパンとぶどう酒が『完全にキリストの体と血に変化する』とするカトリックの説、consubstantiation(共在説)は『共に存在する』とする説です。" }
+    ],
+    "quiz": [
+      { "q": "consubstantiation とは？", "A": "聖餐でパンとキリストが共に存在するとする説", "B": "洗礼の一種", "C": "祈りの言葉", "D": "教会の建築", "correct": "A" },
+      { "q": "consubstantiation と対比される説は？", "A": "transubstantiation(化体説)", "B": "reincarnation(輪廻)", "C": "creation(創造)", "D": "salvation(救済)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "consumer",
+    "pron": "kənˈsjuːmər",
+    "kana": "コンシューマー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "consume（消費する）+ -er",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "経済・ビジネス"],
+    "meaning_main": "消費者 / (商品・サービスを)使う人",
+    "description": "consumer の意味・発音・使い方。商品やサービスを買って使う「消費者」を表す名詞。producer(生産者)との対比や関連語を例文とともに解説します。",
+    "keywords": ["consumer 意味", "consumer 使い方", "consumer 発音", "消費者 英語"],
+    "meanings": [
+      { "hinshi": "【名】消費者", "note": "商品・サービスを買って使う人。producer(生産者)の反対。可算" }
+    ],
+    "usages": [
+      { "title": "① 「消費者」", "desc": "商品を買って使う人。", "example_en": "Consumers want cheaper products.", "example_ja": "消費者はより安い商品を求める。" },
+      { "title": "② 経済の話題で", "desc": "市場・経済を支える存在。", "example_en": "Consumer spending drives the economy.", "example_ja": "消費者の支出が経済を動かす。" }
+    ],
+    "warn": ["動詞は consume(消費する)、名詞 consumption(消費)。反対は producer(生産者)。consumer goods は『消費財』。"],
+    "etym_note": "consume（消費する。ラテン語 consumere から)に『〜する人』を表す -er が付いた語です。",
+    "etym_chain": [
+      { "node": "consumere", "sub": "消費する", "era": "ラテン語" },
+      { "node": "consume", "sub": "消費する", "era": "中英語" },
+      { "node": "consumer", "sub": "消費者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "consumer goods", "ja": "消費財" },
+      { "en": "consumer spending", "ja": "消費者の支出" },
+      { "en": "consumer demand", "ja": "消費者の需要" },
+      { "en": "protect consumers", "ja": "消費者を守る" },
+      { "en": "consumer rights", "ja": "消費者の権利" },
+      { "en": "the average consumer", "ja": "一般消費者" }
+    ],
+    "related": [
+      { "en": "consume", "ja": "消費する" },
+      { "en": "consumption", "ja": "消費" },
+      { "en": "producer", "ja": "生産者" },
+      { "en": "customer", "ja": "顧客" }
+    ],
+    "faq": [
+      { "q": "consumer と customer の違いは？", "a": "consumer は『(商品を実際に使う)消費者』、customer は『(店で買う)顧客・客』です。買う人と使う人が同じとは限りません。" },
+      { "q": "反対語は？", "a": "producer(生産者)です。consumer(消費する側)⇔producer(生産する側)です。" }
+    ],
+    "quiz": [
+      { "q": "consumer の意味は？", "A": "消費者", "B": "生産者", "C": "労働者", "D": "投資家", "correct": "A" },
+      { "q": "consumer の反対語は？", "A": "producer(生産者)", "B": "customer(顧客)", "C": "buyer(買い手)", "D": "seller(売り手)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "contamination",
+    "pron": "kənˌtæmɪˈneɪʃ(ə)n",
+    "kana": "コンタミネーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 contaminare（汚す）から",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "環境・衛生"],
+    "meaning_main": "汚染 / 混入 / 不純物の混入",
+    "description": "contamination の意味・発音・使い方。有害物質や細菌による「汚染・混入」を表す名詞。食品・環境・実験での用法を例文とともに解説します。",
+    "keywords": ["contamination 意味", "contamination 使い方", "contamination 発音", "汚染 英語"],
+    "meanings": [
+      { "hinshi": "【名】汚染、混入", "note": "有害物質・細菌などが混じって汚れること。food contamination(食品汚染)。不可算" }
+    ],
+    "usages": [
+      { "title": "① 「汚染」", "desc": "有害物質による汚れ。", "example_en": "Water contamination is a serious problem.", "example_ja": "水質汚染は深刻な問題だ。" },
+      { "title": "② 「混入」", "desc": "不純物が混じること。", "example_en": "They tested the samples for contamination.", "example_ja": "彼らは検体の汚染(混入)を調べた。" }
+    ],
+    "warn": ["動詞は contaminate(汚染する)、形容詞 contaminated(汚染された)。pollution(公害・環境汚染)とは重なるが、contamination は『不純物の混入』に重点。"],
+    "etym_note": "ラテン語 contaminare（汚す・触れて汚染する)に由来します。",
+    "etym_chain": [
+      { "node": "contaminare", "sub": "汚す", "era": "ラテン語" },
+      { "node": "contamination", "sub": "汚染", "era": "中英語" },
+      { "node": "contamination", "sub": "汚染・混入", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "food contamination", "ja": "食品汚染" },
+      { "en": "water contamination", "ja": "水質汚染" },
+      { "en": "cross-contamination", "ja": "交差汚染" },
+      { "en": "prevent contamination", "ja": "汚染を防ぐ" },
+      { "en": "soil contamination", "ja": "土壌汚染" },
+      { "en": "radioactive contamination", "ja": "放射能汚染" }
+    ],
+    "related": [
+      { "en": "contaminate", "ja": "汚染する" },
+      { "en": "pollution", "ja": "公害、汚染" },
+      { "en": "impurity", "ja": "不純物" },
+      { "en": "infection", "ja": "感染" }
+    ],
+    "faq": [
+      { "q": "contamination と pollution の違いは？", "a": "どちらも『汚染』ですが、pollution は主に『環境の公害』、contamination は『(食品・水・実験などへの)有害物質や細菌の混入』に重点があります。" },
+      { "q": "cross-contamination とは？", "a": "『交差汚染』のことです。ある食品や物から別のものへ細菌などが移って汚染することを指します。" }
+    ],
+    "quiz": [
+      { "q": "contamination の意味は？", "A": "汚染、混入", "B": "浄化", "C": "生産", "D": "節約", "correct": "A" },
+      { "q": "contamination の動詞形は？", "A": "contaminate", "B": "contain", "C": "continue", "D": "contact", "correct": "A" }
+    ]
+  },
+  {
+    "english": "contemplation",
+    "pron": "ˌkɒntəmˈpleɪʃ(ə)n",
+    "kana": "コンテンプレーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 contemplari（じっと見る・熟考する）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "思考・精神"],
+    "meaning_main": "熟考 / 瞑想 / じっと考えること",
+    "description": "contemplation の意味・発音・使い方。「じっくり考えること・瞑想」を表す名詞。動詞 contemplate との関係を例文とともに解説します。",
+    "keywords": ["contemplation 意味", "contemplation 使い方", "contemplation 発音", "熟考 英語"],
+    "meanings": [
+      { "hinshi": "【名】熟考、瞑想、じっと考えること", "note": "静かに深く考えること・見つめること。lost in contemplation(物思いにふけって)。不可算" }
+    ],
+    "usages": [
+      { "title": "① 「熟考・瞑想」", "desc": "静かに深く考える。", "example_en": "He sat in quiet contemplation.", "example_ja": "彼は静かに物思いにふけって座っていた。" },
+      { "title": "② 検討・熟慮", "desc": "計画などをじっくり考える。", "example_en": "The plan is under contemplation.", "example_ja": "その計画は検討中だ。" }
+    ],
+    "warn": ["動詞は contemplate(熟考する・じっと見る)。meditation(瞑想)と近いが、contemplation は『じっくり考えること』全般。"],
+    "etym_note": "ラテン語 contemplari（con-「強意」+ templum「見わたす場所」→じっと見る・熟考する)に由来します。",
+    "etym_chain": [
+      { "node": "contemplari", "sub": "じっと見る・熟考する", "era": "ラテン語" },
+      { "node": "contemplation", "sub": "熟考", "era": "中英語" },
+      { "node": "contemplation", "sub": "熟考・瞑想", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "lost in contemplation", "ja": "物思いにふけって" },
+      { "en": "quiet contemplation", "ja": "静かな熟考" },
+      { "en": "under contemplation", "ja": "検討中で" },
+      { "en": "deep contemplation", "ja": "深い熟考" },
+      { "en": "a moment of contemplation", "ja": "熟考のひととき" },
+      { "en": "in contemplation", "ja": "熟考して" }
+    ],
+    "related": [
+      { "en": "contemplate", "ja": "熟考する、じっと見る" },
+      { "en": "meditation", "ja": "瞑想" },
+      { "en": "reflection", "ja": "熟考、内省" },
+      { "en": "thought", "ja": "思考、考え" }
+    ],
+    "faq": [
+      { "q": "contemplation と meditation の違いは？", "a": "meditation は特に『(精神統一の)瞑想』、contemplation は『何かをじっくり考えること・熟考』全般を指します。重なる部分もあります。" },
+      { "q": "動詞形は？", "a": "contemplate(熟考する・じっと見つめる)です。" }
+    ],
+    "quiz": [
+      { "q": "contemplation の意味は？", "A": "熟考、瞑想", "B": "無関心", "C": "行動", "D": "睡眠", "correct": "A" },
+      { "q": "lost in contemplation の意味は？", "A": "物思いにふけって", "B": "道に迷って", "C": "眠りに落ちて", "D": "興奮して", "correct": "A" }
+    ]
+  },
+  {
+    "english": "contempt",
+    "pron": "kənˈtempt",
+    "kana": "コンテンプト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 contemnere（軽んじる）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "感情・法律"],
+    "meaning_main": "軽蔑 / さげすみ / (法律)侮辱罪",
+    "description": "contempt の意味・発音・使い方。「軽蔑・さげすみ」を表す名詞。法律の『法廷侮辱罪』の意味や、contempt for の形を例文とともに解説します。",
+    "keywords": ["contempt 意味", "contempt 使い方", "contempt 発音", "軽蔑 英語"],
+    "meanings": [
+      { "hinshi": "【名】軽蔑、さげすみ", "note": "見下してばかにする気持ち。contempt for ...(〜への軽蔑)。不可算" },
+      { "hinshi": "【名】(法律)侮辱罪", "note": "contempt of court(法廷侮辱罪)" }
+    ],
+    "usages": [
+      { "title": "① 「軽蔑」", "desc": "見下す気持ち。", "example_en": "She looked at him with contempt.", "example_ja": "彼女は軽蔑のまなざしで彼を見た。" },
+      { "title": "② contempt of court", "desc": "『法廷侮辱罪』。", "example_en": "He was held in contempt of court.", "example_ja": "彼は法廷侮辱罪に問われた。" }
+    ],
+    "warn": ["形容詞 contemptuous(軽蔑的な)、contemptible(軽蔑に値する)。beneath contempt(軽蔑にも値しない)、contempt of court(法廷侮辱)。"],
+    "etym_note": "ラテン語 contemnere（con-「強意」+ temnere「軽んじる」)「軽んじる」に由来します。",
+    "etym_chain": [
+      { "node": "contemnere", "sub": "軽んじる", "era": "ラテン語" },
+      { "node": "contempt", "sub": "軽蔑", "era": "中英語" },
+      { "node": "contempt", "sub": "軽蔑・侮辱罪", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "contempt for", "ja": "〜への軽蔑" },
+      { "en": "with contempt", "ja": "軽蔑をこめて" },
+      { "en": "contempt of court", "ja": "法廷侮辱罪" },
+      { "en": "beneath contempt", "ja": "軽蔑にも値しない" },
+      { "en": "show contempt", "ja": "軽蔑を示す" },
+      { "en": "hold in contempt", "ja": "軽蔑する" }
+    ],
+    "related": [
+      { "en": "contemptuous", "ja": "軽蔑的な" },
+      { "en": "scorn", "ja": "軽蔑、あざけり" },
+      { "en": "disdain", "ja": "軽蔑" },
+      { "en": "respect", "ja": "尊敬" }
+    ],
+    "faq": [
+      { "q": "contempt for とは？", "a": "『〜への軽蔑・さげすみ』という意味です。contempt for the rules(規則を軽んじること)のように使います。" },
+      { "q": "contempt of court とは？", "a": "『法廷侮辱罪』のことです。裁判所の命令に従わなかったり、法廷の秩序を乱したりする行為を指します。" }
+    ],
+    "quiz": [
+      { "q": "contempt の意味は？", "A": "軽蔑、さげすみ", "B": "尊敬", "C": "感謝", "D": "同情", "correct": "A" },
+      { "q": "contempt of court の意味は？", "A": "法廷侮辱罪", "B": "テニスコート", "C": "宮廷", "D": "中庭", "correct": "A" }
+    ]
+  },
+  {
+    "english": "contested",
+    "pron": "kənˈtestɪd",
+    "kana": "コンテスティッド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "contest（争う）+ -ed",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "争い・議論"],
+    "meaning_main": "争われた / 異議のある / 競われた",
+    "description": "contested の意味・発音・使い方。「争われた・異議のある」を表す形容詞。選挙や領土などが競われる様子を例文とともに解説します。",
+    "keywords": ["contested 意味", "contested 使い方", "contested 発音", "争われた 英語"],
+    "meanings": [
+      { "hinshi": "【形】争われた、異議のある、競われた", "note": "複数の主張が対立している。a hotly contested election(激戦の選挙)。反対は uncontested(無競争の)" }
+    ],
+    "usages": [
+      { "title": "① 「激しく争われた」", "desc": "選挙や試合の競争。", "example_en": "It was a hotly contested election.", "example_ja": "それは激戦の選挙だった。" },
+      { "title": "② 「異議のある」", "desc": "主張が対立している。", "example_en": "The results are being contested.", "example_ja": "その結果は異議を唱えられている。" }
+    ],
+    "warn": ["動詞 contest(争う・異議を唱える)。反対は uncontested(無投票の・争われない)。hotly contested(激しく争われた)が定番。"],
+    "etym_note": "contest（ラテン語 contestari「証人を立てて争う」から)の過去分詞から形容詞化しました。",
+    "etym_chain": [
+      { "node": "contestari", "sub": "証人を立てて争う", "era": "ラテン語" },
+      { "node": "contest", "sub": "争う", "era": "16世紀英語" },
+      { "node": "contested", "sub": "争われた", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a hotly contested election", "ja": "激戦の選挙" },
+      { "en": "contested territory", "ja": "係争地" },
+      { "en": "a contested issue", "ja": "議論のある問題" },
+      { "en": "fiercely contested", "ja": "激しく争われた" },
+      { "en": "a contested result", "ja": "異議のある結果" },
+      { "en": "a contested claim", "ja": "争われている主張" }
+    ],
+    "related": [
+      { "en": "contest", "ja": "争う、競技" },
+      { "en": "disputed", "ja": "争われた、異論のある" },
+      { "en": "uncontested", "ja": "無競争の" },
+      { "en": "controversial", "ja": "議論を呼ぶ" }
+    ],
+    "faq": [
+      { "q": "contested と disputed の違いは？", "a": "ほぼ同義で『争われた・異論のある』です。contested は特に『(選挙・試合などで)競われる』意味でもよく使います。" },
+      { "q": "反対語は？", "a": "uncontested(無競争の・争われない)です。an uncontested election(無投票の選挙)のように使います。" }
+    ],
+    "quiz": [
+      { "q": "contested の意味は？", "A": "争われた、異議のある", "B": "決定した", "C": "無視された", "D": "承認された", "correct": "A" },
+      { "q": "a hotly contested election の意味は？", "A": "激戦の選挙", "B": "無投票の選挙", "C": "延期された選挙", "D": "小さな選挙", "correct": "A" }
+    ]
+  },
+  {
+    "english": "contiguous",
+    "pron": "kənˈtɪɡjuəs",
+    "kana": "コンティギュアス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 contiguus（接している）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "位置・地理"],
+    "meaning_main": "隣接した / 接している / 連続した",
+    "description": "contiguous の意味・発音・使い方。「(境を接して)隣接した・連続した」を表すフォーマルな形容詞。地理や区画の用法を例文とともに解説します。",
+    "keywords": ["contiguous 意味", "contiguous 使い方", "contiguous 発音", "隣接 英語"],
+    "meanings": [
+      { "hinshi": "【形】隣接した、接している、連続した", "note": "境を接してつながっている。contiguous to/with ...(〜に隣接した)。フォーマル" }
+    ],
+    "usages": [
+      { "title": "① 「隣接した」", "desc": "境を接している。", "example_en": "The two countries are contiguous.", "example_ja": "その2国は隣接している。" },
+      { "title": "② 「連続した」", "desc": "途切れずつながる。", "example_en": "the contiguous United States", "example_ja": "(アラスカ・ハワイを除く)地続きのアメリカ本土" }
+    ],
+    "warn": ["adjacent(隣接した)とほぼ同義だが、contiguous は特に『境を接して連続している』ニュアンス。continuous(連続的な)とは別語。"],
+    "etym_note": "ラテン語 contiguus（contingere「触れる」から)「接している」に由来します。",
+    "etym_chain": [
+      { "node": "contiguus", "sub": "接している", "era": "ラテン語" },
+      { "node": "contiguous", "sub": "隣接した", "era": "17世紀英語" },
+      { "node": "contiguous", "sub": "隣接した・連続した", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "contiguous to", "ja": "〜に隣接した" },
+      { "en": "contiguous states", "ja": "隣接する州" },
+      { "en": "the contiguous US", "ja": "地続きのアメリカ本土" },
+      { "en": "contiguous areas", "ja": "隣接する地域" },
+      { "en": "contiguous land", "ja": "地続きの土地" },
+      { "en": "a contiguous border", "ja": "接する国境" }
+    ],
+    "related": [
+      { "en": "adjacent", "ja": "隣接した" },
+      { "en": "neighboring", "ja": "隣の" },
+      { "en": "abutting", "ja": "接している" },
+      { "en": "continuous", "ja": "連続的な" }
+    ],
+    "faq": [
+      { "q": "contiguous と adjacent の違いは？", "a": "どちらも『隣接した』ですが、contiguous は特に『境を接して連続している(地続きの)』ニュアンス、adjacent は『隣り合っている』全般を指します。" },
+      { "q": "the contiguous United States とは？", "a": "アラスカ州とハワイ州を除く、地続きにつながったアメリカ本土48州を指す表現です。" }
+    ],
+    "quiz": [
+      { "q": "contiguous の意味は？", "A": "隣接した、接している", "B": "遠く離れた", "C": "透明な", "D": "危険な", "correct": "A" },
+      { "q": "contiguous と近い意味の語は？", "A": "adjacent(隣接した)", "B": "distant(遠い)", "C": "separate(別々の)", "D": "isolated(孤立した)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "contribution",
+    "pron": "ˌkɒntrɪˈbjuːʃ(ə)n",
+    "kana": "コントリビューション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 contribuere（共に出す）から",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "貢献・寄付"],
+    "meaning_main": "貢献 / 寄付 / 寄稿",
+    "description": "contribution の意味・発音・使い方。「貢献・寄付・寄稿」を表す名詞。make a contribution to(〜に貢献する)などの用法を例文とともに解説します。",
+    "keywords": ["contribution 意味", "contribution 使い方", "contribution 発音", "貢献 英語"],
+    "meanings": [
+      { "hinshi": "【名】貢献、寄与", "note": "何かに役立つこと。make a contribution to ...(〜に貢献する)。可算" },
+      { "hinshi": "【名】寄付、寄稿", "note": "お金・記事などを差し出すこと" }
+    ],
+    "usages": [
+      { "title": "① 「貢献」", "desc": "役に立つこと。", "example_en": "She made a great contribution to science.", "example_ja": "彼女は科学に大きな貢献をした。" },
+      { "title": "② 「寄付・寄稿」", "desc": "お金や記事を出す。", "example_en": "Thank you for your generous contribution.", "example_ja": "ご寛大な寄付をありがとうございます。" }
+    ],
+    "warn": ["動詞は contribute(貢献する・寄付する)。make a contribution to ...(〜に貢献する)の形が定番。"],
+    "etym_note": "ラテン語 contribuere（con-「共に」+ tribuere「与える」)「共に出す」に由来します。",
+    "etym_chain": [
+      { "node": "contribuere", "sub": "共に出す", "era": "ラテン語" },
+      { "node": "contribution", "sub": "貢献・寄付", "era": "中英語" },
+      { "node": "contribution", "sub": "貢献・寄付・寄稿", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "make a contribution", "ja": "貢献する、寄付する" },
+      { "en": "a contribution to", "ja": "〜への貢献" },
+      { "en": "a valuable contribution", "ja": "貴重な貢献" },
+      { "en": "a generous contribution", "ja": "寛大な寄付" },
+      { "en": "an important contribution", "ja": "重要な貢献" },
+      { "en": "charitable contributions", "ja": "慈善への寄付" }
+    ],
+    "related": [
+      { "en": "contribute", "ja": "貢献する、寄付する" },
+      { "en": "donation", "ja": "寄付" },
+      { "en": "input", "ja": "投入、意見" },
+      { "en": "involvement", "ja": "関与" }
+    ],
+    "faq": [
+      { "q": "make a contribution to とは？", "a": "『〜に貢献する・寄付する』という意味です。make a contribution to society(社会に貢献する)のように使います。" },
+      { "q": "動詞形は？", "a": "contribute(貢献する・寄付する・寄稿する)です。" }
+    ],
+    "quiz": [
+      { "q": "contribution の意味は？", "A": "貢献、寄付、寄稿", "B": "破壊", "C": "拒否", "D": "無視", "correct": "A" },
+      { "q": "contribution の動詞形は？", "A": "contribute", "B": "continue", "C": "control", "D": "convince", "correct": "A" }
+    ]
+  },
+  {
+    "english": "contrived",
+    "pron": "kənˈtraɪvd",
+    "kana": "コントライブド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "contrive（工夫する・たくらむ）+ -ed",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "描写・評価"],
+    "meaning_main": "わざとらしい / 不自然な / 作り物めいた",
+    "description": "contrived の意味・発音・使い方。「わざとらしい・不自然な」を表す形容詞。話の展開や態度が作り物めいている様子を例文とともに解説します。",
+    "keywords": ["contrived 意味", "contrived 使い方", "contrived 発音", "わざとらしい 英語"],
+    "meanings": [
+      { "hinshi": "【形】わざとらしい、不自然な、作り物めいた", "note": "計算高く作られ、自然さに欠ける。a contrived plot(不自然な筋書き)。否定的" }
+    ],
+    "usages": [
+      { "title": "① 「わざとらしい」", "desc": "自然でなく作り物めいた。", "example_en": "The ending felt contrived.", "example_ja": "その結末はわざとらしく感じられた。" },
+      { "title": "② 態度・話に", "desc": "計算された不自然さ。", "example_en": "Her enthusiasm seemed contrived.", "example_ja": "彼女の熱意はわざとらしく見えた。" }
+    ],
+    "warn": ["動詞 contrive(工夫する・たくらむ)から。『不自然に作られた』という否定的な評価語。反対は natural(自然な)/spontaneous(自然発生的な)。"],
+    "etym_note": "contrive（考案する・たくらむ)の過去分詞から形容詞化し、『(わざと)作られた→不自然な』の意味になりました。",
+    "etym_chain": [
+      { "node": "contrive", "sub": "工夫する・たくらむ", "era": "中英語" },
+      { "node": "contrived", "sub": "作られた", "era": "近代英語" },
+      { "node": "contrived", "sub": "わざとらしい・不自然な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a contrived plot", "ja": "不自然な筋書き" },
+      { "en": "feel contrived", "ja": "わざとらしく感じる" },
+      { "en": "a contrived ending", "ja": "わざとらしい結末" },
+      { "en": "seem contrived", "ja": "わざとらしく見える" },
+      { "en": "overly contrived", "ja": "過度にわざとらしい" },
+      { "en": "a contrived situation", "ja": "作為的な状況" }
+    ],
+    "related": [
+      { "en": "contrive", "ja": "工夫する、たくらむ" },
+      { "en": "artificial", "ja": "人工的な、不自然な" },
+      { "en": "forced", "ja": "無理な、こじつけの" },
+      { "en": "natural", "ja": "自然な" }
+    ],
+    "faq": [
+      { "q": "contrived はよい意味ですか？", "a": "いいえ、否定的な語です。『(計算されて)わざとらしく不自然な・作り物めいた』という意味で、物語や態度を批判するときに使います。" },
+      { "q": "反対語は？", "a": "natural(自然な)や spontaneous(自然発生的な・自発的な)です。" }
+    ],
+    "quiz": [
+      { "q": "contrived の意味は？", "A": "わざとらしい、不自然な", "B": "自然な", "C": "巨大な", "D": "安価な", "correct": "A" },
+      { "q": "contrived の反対にあたる語は？", "A": "natural(自然な)", "B": "artificial(人工的な)", "C": "forced(無理な)", "D": "fake(偽の)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "controlled",
+    "pron": "kənˈtrəʊld",
+    "kana": "コントロールド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "control（管理する）+ -ed",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "管理・実験"],
+    "meaning_main": "制御された / 管理された / 抑制された",
+    "description": "controlled の意味・発音・使い方。「制御・管理された・抑制された」を表す形容詞。実験や感情の管理を表す用法を例文とともに解説します。",
+    "keywords": ["controlled 意味", "controlled 使い方", "controlled 発音", "制御された 英語"],
+    "meanings": [
+      { "hinshi": "【形】制御された、管理された", "note": "きちんと管理・調整された。a controlled experiment(対照実験)、controlled substances(規制薬物)" },
+      { "hinshi": "【形】(感情が)抑制された、落ち着いた", "note": "感情を抑えた様子" }
+    ],
+    "usages": [
+      { "title": "① 「管理された」", "desc": "きちんと制御された状態。", "example_en": "The temperature is carefully controlled.", "example_ja": "温度は慎重に管理されている。" },
+      { "title": "② 「抑制された」", "desc": "感情を抑えた様子。", "example_en": "She spoke in a controlled voice.", "example_ja": "彼女は抑えた声で話した。" }
+    ],
+    "warn": ["動詞は control(管理する)。l を重ねる(controlled/controlling)。a controlled experiment(対照実験)、controlled substances(規制薬物)。"],
+    "etym_note": "control（管理する。中世フランス語 contrerole「照合台帳」から)の過去分詞から形容詞化しました。",
+    "etym_chain": [
+      { "node": "contrerole", "sub": "照合台帳", "era": "中世フランス語" },
+      { "node": "control", "sub": "管理する", "era": "近代英語" },
+      { "node": "controlled", "sub": "制御された", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a controlled experiment", "ja": "対照実験" },
+      { "en": "controlled substances", "ja": "規制薬物" },
+      { "en": "under controlled conditions", "ja": "管理された条件下で" },
+      { "en": "a controlled environment", "ja": "管理された環境" },
+      { "en": "a controlled voice", "ja": "抑えた声" },
+      { "en": "remotely controlled", "ja": "遠隔操作された" }
+    ],
+    "related": [
+      { "en": "control", "ja": "管理する、制御" },
+      { "en": "regulated", "ja": "規制された" },
+      { "en": "managed", "ja": "管理された" },
+      { "en": "uncontrolled", "ja": "制御されない" }
+    ],
+    "faq": [
+      { "q": "a controlled experiment とは？", "a": "『対照実験』のことです。1つの条件だけを変え、他を一定に保って比較する実験で、結果の原因を正確に調べられます。" },
+      { "q": "controlled substances とは？", "a": "『規制薬物』のことです。法律で製造・所持・使用が管理されている薬物を指します。" }
+    ],
+    "quiz": [
+      { "q": "controlled の意味は？", "A": "制御された、管理された", "B": "野放しの", "C": "壊れた", "D": "無料の", "correct": "A" },
+      { "q": "a controlled experiment とは？", "A": "対照実験", "B": "失敗した実験", "C": "危険な実験", "D": "違法な実験", "correct": "A" }
+    ]
+  },
+  {
+    "english": "convalescence",
+    "pron": "ˌkɒnvəˈlesns",
+    "kana": "コンバレッセンス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 convalescere（力を取り戻す）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "医療・回復"],
+    "meaning_main": "(病後の)回復 / 療養 / 快復期",
+    "description": "convalescence の意味・発音・使い方。病気やけがのあとの「回復・療養期間」を表す名詞。動詞 convalesce との関係を例文とともに解説します。",
+    "keywords": ["convalescence 意味", "convalescence 使い方", "convalescence 発音", "療養 英語"],
+    "meanings": [
+      { "hinshi": "【名】(病後の)回復、療養、快復期", "note": "病気・手術のあと、体力を取り戻す期間。不可算" }
+    ],
+    "usages": [
+      { "title": "① 「病後の回復」", "desc": "体力を取り戻す期間。", "example_en": "He needs a long period of convalescence.", "example_ja": "彼には長い療養期間が必要だ。" },
+      { "title": "② 療養の説明で", "desc": "手術後の回復など。", "example_en": "She spent her convalescence at home.", "example_ja": "彼女は自宅で療養期間を過ごした。" }
+    ],
+    "warn": ["動詞は convalesce(病後に回復する)、形容詞 convalescent(回復期の)。recovery(回復)より『(病後の)ゆっくりした療養』のニュアンス。"],
+    "etym_note": "ラテン語 convalescere（con-「強意」+ valescere「強くなる」)「力を取り戻す」に由来します。",
+    "etym_chain": [
+      { "node": "convalescere", "sub": "力を取り戻す", "era": "ラテン語" },
+      { "node": "convalescence", "sub": "回復", "era": "15世紀英語" },
+      { "node": "convalescence", "sub": "病後の回復・療養", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a period of convalescence", "ja": "療養期間" },
+      { "en": "during convalescence", "ja": "療養中に" },
+      { "en": "a long convalescence", "ja": "長い療養" },
+      { "en": "rest and convalescence", "ja": "休養と療養" },
+      { "en": "a convalescent home", "ja": "療養所" },
+      { "en": "aid convalescence", "ja": "回復を助ける" }
+    ],
+    "related": [
+      { "en": "convalesce", "ja": "病後に回復する" },
+      { "en": "recovery", "ja": "回復" },
+      { "en": "recuperation", "ja": "回復、療養" },
+      { "en": "rehabilitation", "ja": "リハビリ、社会復帰" }
+    ],
+    "faq": [
+      { "q": "convalescence と recovery の違いは？", "a": "recovery は『回復』全般、convalescence は特に『病気・手術のあと、ゆっくり体力を取り戻す療養期間』を指します。" },
+      { "q": "形容詞形は？", "a": "convalescent(回復期の)です。a convalescent home(療養所)のように使います。" }
+    ],
+    "quiz": [
+      { "q": "convalescence の意味は？", "A": "(病後の)回復・療養", "B": "発病", "C": "手術", "D": "検査", "correct": "A" },
+      { "q": "convalescence の動詞形は？", "A": "convalesce", "B": "converse", "C": "convert", "D": "convene", "correct": "A" }
+    ]
+  },
+  {
+    "english": "convenient",
+    "pron": "kənˈviːniənt",
+    "kana": "コンビニエント",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 convenire（都合よく合う）から",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A1", "基本語・生活"],
+    "meaning_main": "便利な / 都合のよい / 手近な",
+    "description": "convenient の意味・発音・使い方。「便利な・都合のよい」を表す基本形容詞。人ではなく物・事を主語にする点や反対語を例文とともに解説します。",
+    "keywords": ["convenient 意味", "convenient 使い方", "convenient 発音", "便利 英語"],
+    "meanings": [
+      { "hinshi": "【形】便利な、都合のよい、手近な", "note": "使いやすく手間が省ける。反対は inconvenient(不便な)。物・事を主語にする" }
+    ],
+    "usages": [
+      { "title": "① 「便利な」", "desc": "使いやすく手間がない。", "example_en": "The station is very convenient.", "example_ja": "その駅はとても便利だ。" },
+      { "title": "② 「都合のよい」", "desc": "時間・場所が合う。", "example_en": "Is Monday convenient for you?", "example_ja": "月曜はご都合いかがですか？" }
+    ],
+    "warn": ["『私は便利だ』は誤り。人ではなく物・事を主語にする(× I am convenient)。名詞 convenience(便利)。convenience store は『コンビニ』。"],
+    "etym_note": "ラテン語 convenire（con-「共に」+ venire「来る」→都合よく合う)に由来します。",
+    "etym_chain": [
+      { "node": "convenire", "sub": "都合よく合う", "era": "ラテン語" },
+      { "node": "convenient", "sub": "都合のよい", "era": "中英語" },
+      { "node": "convenient", "sub": "便利な・都合のよい", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "convenient for", "ja": "〜に都合がよい" },
+      { "en": "a convenient location", "ja": "便利な立地" },
+      { "en": "at a convenient time", "ja": "都合のよいときに" },
+      { "en": "a convenience store", "ja": "コンビニ" },
+      { "en": "quick and convenient", "ja": "手早くて便利" },
+      { "en": "convenient to use", "ja": "使いやすい" }
+    ],
+    "related": [
+      { "en": "convenience", "ja": "便利、好都合" },
+      { "en": "handy", "ja": "便利な、手近な" },
+      { "en": "inconvenient", "ja": "不便な" },
+      { "en": "practical", "ja": "実用的な" }
+    ],
+    "faq": [
+      { "q": "『私は月曜が便利です』は英語で？", "a": "Monday is convenient for me. と言います。人を主語にして I am convenient とは言いません。物・事を主語にします。" },
+      { "q": "反対語は？", "a": "inconvenient(不便な・都合の悪い)です。" }
+    ],
+    "quiz": [
+      { "q": "convenient の意味は？", "A": "便利な、都合のよい", "B": "不便な", "C": "危険な", "D": "高価な", "correct": "A" },
+      { "q": "convenient の反対語は？", "A": "inconvenient", "B": "convenience", "C": "convene", "D": "convention", "correct": "A" }
+    ]
+  },
+  {
+    "english": "convincing",
+    "pron": "kənˈvɪnsɪŋ",
+    "kana": "コンビンシング",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "convince（納得させる）+ -ing",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "評価・説得"],
+    "meaning_main": "説得力のある / 納得のいく / (勝利が)圧倒的な",
+    "description": "convincing の意味・発音・使い方。「説得力のある・納得のいく」を表す形容詞。証拠や議論が人を納得させる様子を例文とともに解説します。",
+    "keywords": ["convincing 意味", "convincing 使い方", "convincing 発音", "説得力 英語"],
+    "meanings": [
+      { "hinshi": "【形】説得力のある、納得のいく", "note": "人を納得させる。a convincing argument(説得力のある主張)。反対は unconvincing" },
+      { "hinshi": "【形】(勝利などが)圧倒的な、決定的な", "note": "a convincing victory(圧勝)" }
+    ],
+    "usages": [
+      { "title": "① 「説得力のある」", "desc": "納得させる力がある。", "example_en": "He gave a convincing explanation.", "example_ja": "彼は説得力のある説明をした。" },
+      { "title": "② 「圧倒的な」", "desc": "勝利などが決定的。", "example_en": "The team won a convincing victory.", "example_ja": "そのチームは圧勝した。" }
+    ],
+    "warn": ["動詞 convince(納得させる)。compelling(思わず引き込まれる)と近いが、convincing は『納得させる』に重点。反対は unconvincing。"],
+    "etym_note": "convince（ラテン語 convincere「打ち負かす・証明する」から)に -ing が付いた語です。",
+    "etym_chain": [
+      { "node": "convincere", "sub": "打ち負かす・証明する", "era": "ラテン語" },
+      { "node": "convince", "sub": "納得させる", "era": "16世紀英語" },
+      { "node": "convincing", "sub": "説得力のある", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a convincing argument", "ja": "説得力のある主張" },
+      { "en": "a convincing explanation", "ja": "納得のいく説明" },
+      { "en": "a convincing victory", "ja": "圧勝" },
+      { "en": "highly convincing", "ja": "非常に説得力のある" },
+      { "en": "not entirely convincing", "ja": "完全には納得できない" },
+      { "en": "convincing evidence", "ja": "説得力のある証拠" }
+    ],
+    "related": [
+      { "en": "convince", "ja": "納得させる" },
+      { "en": "persuasive", "ja": "説得力のある" },
+      { "en": "compelling", "ja": "説得力のある、引き込まれる" },
+      { "en": "unconvincing", "ja": "説得力のない" }
+    ],
+    "faq": [
+      { "q": "convincing と compelling の違いは？", "a": "convincing は『(理屈で)納得させる』、compelling は『思わず引き込まれる・従わざるをえない』ほど強力、というニュアンスの違いがあります。" },
+      { "q": "反対語は？", "a": "unconvincing(説得力のない・納得できない)です。" }
+    ],
+    "quiz": [
+      { "q": "convincing の意味は？", "A": "説得力のある、納得のいく", "B": "退屈な", "C": "あいまいな", "D": "弱い", "correct": "A" },
+      { "q": "a convincing victory の意味は？", "A": "圧勝", "B": "惜敗", "C": "引き分け", "D": "無効試合", "correct": "A" }
+    ]
+  },
+  {
+    "english": "convoluted",
+    "pron": "ˈkɒnvəluːtɪd",
+    "kana": "コンボルーテッド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 convolvere（巻き込む）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "描写・抽象語"],
+    "meaning_main": "入り組んだ / 複雑でわかりにくい / 込み入った",
+    "description": "convoluted の意味・発音・使い方。「(理解しにくいほど)入り組んだ・複雑でわかりにくい」を表す形容詞。話や仕組みの分かりにくさを例文で解説します。",
+    "keywords": ["convoluted 意味", "convoluted 使い方", "convoluted 発音", "入り組んだ 英語"],
+    "meanings": [
+      { "hinshi": "【形】入り組んだ、複雑でわかりにくい", "note": "複雑すぎて理解しにくい。a convoluted explanation(わかりにくい説明)。否定的" }
+    ],
+    "usages": [
+      { "title": "① 「わかりにくく複雑な」", "desc": "入り組んで理解しにくい。", "example_en": "The plot was too convoluted to follow.", "example_ja": "その筋は入り組みすぎて追えなかった。" },
+      { "title": "② 手続き・議論に", "desc": "回りくどく複雑。", "example_en": "The rules are needlessly convoluted.", "example_ja": "その規則は無用に込み入っている。" }
+    ],
+    "warn": ["complex(複雑な)よりも『複雑すぎてわかりにくい』という否定的なニュアンス。反対は simple/straightforward(明快な)。"],
+    "etym_note": "ラテン語 convolvere（con-「共に」+ volvere「巻く」)「巻き込む」に由来し、『ぐるぐる入り組んだ』を表します。",
+    "etym_chain": [
+      { "node": "convolvere", "sub": "巻き込む", "era": "ラテン語" },
+      { "node": "convoluted", "sub": "巻いた・入り組んだ", "era": "18世紀英語" },
+      { "node": "convoluted", "sub": "入り組んだ・複雑な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a convoluted plot", "ja": "入り組んだ筋書き" },
+      { "en": "a convoluted explanation", "ja": "わかりにくい説明" },
+      { "en": "convoluted rules", "ja": "込み入った規則" },
+      { "en": "overly convoluted", "ja": "過度に複雑な" },
+      { "en": "a convoluted argument", "ja": "回りくどい議論" },
+      { "en": "convoluted logic", "ja": "こじれた理屈" }
+    ],
+    "related": [
+      { "en": "complicated", "ja": "複雑な" },
+      { "en": "complex", "ja": "複雑な" },
+      { "en": "tangled", "ja": "もつれた" },
+      { "en": "straightforward", "ja": "明快な、率直な" }
+    ],
+    "faq": [
+      { "q": "convoluted と complex の違いは？", "a": "complex は『複雑な』(中立的)、convoluted は『複雑すぎてわかりにくい・回りくどい』という否定的なニュアンスが強い語です。" },
+      { "q": "反対語は？", "a": "simple(単純な)や straightforward(明快な・率直な)です。" }
+    ],
+    "quiz": [
+      { "q": "convoluted の意味は？", "A": "入り組んだ、わかりにくく複雑な", "B": "単純な", "C": "明快な", "D": "短い", "correct": "A" },
+      { "q": "convoluted の反対にあたる語は？", "A": "straightforward(明快な)", "B": "complicated(複雑な)", "C": "tangled(もつれた)", "D": "complex(複雑な)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "cooker",
+    "pron": "ˈkʊkər",
+    "kana": "クッカー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "cook（料理する）+ -er",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "調理器具"],
+    "meaning_main": "調理器具 / (英)コンロ・レンジ / 加熱調理器",
+    "description": "cooker の意味・発音・使い方。「調理器具・(英)コンロ」を表す名詞。cook(料理人)との違いや rice cooker などの用法を例文で解説します。",
+    "keywords": ["cooker 意味", "cooker 使い方", "cooker 発音", "調理器具 英語"],
+    "meanings": [
+      { "hinshi": "【名】調理器具、加熱調理器", "note": "料理に使う器具。rice cooker(炊飯器)、pressure cooker(圧力鍋)。可算" },
+      { "hinshi": "【名】(英)コンロ、レンジ", "note": "イギリス英語でガスコンロ・オーブンなどの調理台。米では stove/range" }
+    ],
+    "usages": [
+      { "title": "① 「調理器具」", "desc": "料理に使う器具。", "example_en": "I bought a new rice cooker.", "example_ja": "新しい炊飯器を買った。" },
+      { "title": "② (英)「コンロ・レンジ」", "desc": "イギリスの調理台。", "example_en": "She put the pot on the cooker.", "example_ja": "彼女は鍋をコンロにかけた。" }
+    ],
+    "warn": ["cooker は『調理器具』。料理をする『人(料理人)』は cook。cooker≠人。rice cooker(炊飯器)、pressure cooker(圧力鍋)。"],
+    "etym_note": "cook（料理する)に『〜する道具・もの』を表す -er が付いた語です。",
+    "etym_chain": [
+      { "node": "cook", "sub": "料理する", "era": "古英語" },
+      { "node": "cook + -er", "sub": "料理する道具", "era": "近代英語" },
+      { "node": "cooker", "sub": "調理器具", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rice cooker", "ja": "炊飯器" },
+      { "en": "a pressure cooker", "ja": "圧力鍋" },
+      { "en": "a slow cooker", "ja": "スロークッカー、煮込み器" },
+      { "en": "a gas cooker", "ja": "ガスコンロ(英)" },
+      { "en": "an electric cooker", "ja": "電気コンロ(英)" },
+      { "en": "put on the cooker", "ja": "コンロにかける(英)" }
+    ],
+    "related": [
+      { "en": "cook", "ja": "料理する、料理人" },
+      { "en": "stove", "ja": "コンロ、ストーブ" },
+      { "en": "oven", "ja": "オーブン" },
+      { "en": "appliance", "ja": "電化製品、器具" }
+    ],
+    "faq": [
+      { "q": "cooker と cook の違いは？", "a": "cooker は『調理器具』(道具)、cook は『料理をする人(料理人)』または『料理する(動詞)』です。cooker は人ではありません。" },
+      { "q": "cooker はコンロの意味もありますか？", "a": "はい。イギリス英語ではガスコンロやオーブンなどの調理台を cooker と呼びます。アメリカ英語では stove/range が一般的です。" }
+    ],
+    "quiz": [
+      { "q": "cooker の意味は？", "A": "調理器具・(英)コンロ", "B": "料理人", "C": "皿", "D": "レシピ", "correct": "A" },
+      { "q": "a rice cooker とは？", "A": "炊飯器", "B": "米屋", "C": "米農家", "D": "米袋", "correct": "A" }
+    ]
+  },
+  {
+    "english": "coolant",
+    "pron": "ˈkuːlənt",
+    "kana": "クーラント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "cool（冷やす）+ -ant（〜する物質）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "機械・技術"],
+    "meaning_main": "冷却材 / 冷却液 / クーラント",
+    "description": "coolant の意味・発音・使い方。エンジンや機械を冷やす「冷却液・冷却材」を表す名詞。自動車や工業での用法を例文とともに解説します。",
+    "keywords": ["coolant 意味", "coolant 使い方", "coolant 発音", "冷却液 英語"],
+    "meanings": [
+      { "hinshi": "【名】冷却材、冷却液、クーラント", "note": "機械やエンジンの熱を下げるために使う液体・物質。可算・不可算" }
+    ],
+    "usages": [
+      { "title": "① 「冷却液」", "desc": "エンジンなどを冷やす液体。", "example_en": "Check the engine coolant level.", "example_ja": "エンジンの冷却液の量を確認しなさい。" },
+      { "title": "② 工業・機械で", "desc": "熱を逃がす材料。", "example_en": "The reactor uses water as a coolant.", "example_ja": "その原子炉は水を冷却材として使う。" }
+    ],
+    "warn": ["cool(冷やす)+ -ant(〜する物質)。自動車では不凍液(antifreeze)を含む冷却液を指すことが多い。"],
+    "etym_note": "cool（冷やす)に『〜する物質・作用するもの』を表す -ant が付いた語です。",
+    "etym_chain": [
+      { "node": "cool", "sub": "冷やす", "era": "古英語" },
+      { "node": "cool + -ant", "sub": "冷やす物質", "era": "20世紀英語" },
+      { "node": "coolant", "sub": "冷却材", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "engine coolant", "ja": "エンジンの冷却液" },
+      { "en": "add coolant", "ja": "冷却液を足す" },
+      { "en": "check the coolant", "ja": "冷却液を点検する" },
+      { "en": "a coolant leak", "ja": "冷却液漏れ" },
+      { "en": "reactor coolant", "ja": "原子炉の冷却材" },
+      { "en": "top up the coolant", "ja": "冷却液を補充する" }
+    ],
+    "related": [
+      { "en": "cool", "ja": "冷やす、涼しい" },
+      { "en": "antifreeze", "ja": "不凍液" },
+      { "en": "radiator", "ja": "ラジエーター、放熱器" },
+      { "en": "refrigerant", "ja": "冷媒" }
+    ],
+    "faq": [
+      { "q": "coolant とは？", "a": "エンジンや機械、原子炉などの熱を下げるために使う『冷却液・冷却材』です。自動車では不凍液を含む液体が使われます。" },
+      { "q": "antifreeze との違いは？", "a": "antifreeze(不凍液)は凍結を防ぐ添加剤で、水と混ぜて coolant(冷却液)として使います。coolant のほうが広い意味です。" }
+    ],
+    "quiz": [
+      { "q": "coolant の意味は？", "A": "冷却材、冷却液", "B": "燃料", "C": "潤滑油だけ", "D": "接着剤", "correct": "A" },
+      { "q": "coolant は何に使う？", "A": "エンジンや機械を冷やす", "B": "エンジンを温める", "C": "音を消す", "D": "光を出す", "correct": "A" }
+    ]
+  },
+  {
+    "english": "coordinated",
+    "pron": "kəʊˈɔːdɪneɪtɪd",
+    "kana": "コーディネイテッド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "coordinate（調整する）+ -ed",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "組織・動作"],
+    "meaning_main": "統制のとれた / 連携した / (動きが)よく調和した",
+    "description": "coordinated の意味・発音・使い方。「統制のとれた・連携した・よく調和した」を表す形容詞。組織的な動きや体の動きの調和を例文とともに解説します。",
+    "keywords": ["coordinated 意味", "coordinated 使い方", "coordinated 発音", "連携 英語"],
+    "meanings": [
+      { "hinshi": "【形】統制のとれた、連携した", "note": "複数の要素がうまく組み合わされた。a coordinated effort(連携した取り組み)" },
+      { "hinshi": "【形】(体の動きが)よく調和した", "note": "well-coordinated(運動神経のよい)" }
+    ],
+    "usages": [
+      { "title": "① 「連携した」", "desc": "組織的にまとまった。", "example_en": "The rescue was a coordinated effort.", "example_ja": "その救助は連携した取り組みだった。" },
+      { "title": "② 「よく調和した動き」", "desc": "体の動きが滑らか。", "example_en": "She is very well coordinated.", "example_ja": "彼女はとても運動神経がよい。" }
+    ],
+    "warn": ["動詞 coordinate(調整する・連携させる)、名詞 coordination(調整・連携)。反対は uncoordinated(ばらばらの)。"],
+    "etym_note": "coordinate（ラテン語 co-「共に」+ ordinare「整える」から)の過去分詞から形容詞化しました。",
+    "etym_chain": [
+      { "node": "co- + ordinare", "sub": "共に+整える", "era": "ラテン語" },
+      { "node": "coordinate", "sub": "調整する", "era": "17世紀英語" },
+      { "node": "coordinated", "sub": "統制のとれた", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a coordinated effort", "ja": "連携した取り組み" },
+      { "en": "a coordinated attack", "ja": "連携した攻撃" },
+      { "en": "well coordinated", "ja": "統制のとれた、運動神経のよい" },
+      { "en": "a coordinated response", "ja": "連携した対応" },
+      { "en": "coordinated movement", "ja": "調和のとれた動き" },
+      { "en": "poorly coordinated", "ja": "連携の悪い" }
+    ],
+    "related": [
+      { "en": "coordinate", "ja": "調整する、連携させる" },
+      { "en": "coordination", "ja": "調整、連携" },
+      { "en": "organized", "ja": "組織立った" },
+      { "en": "uncoordinated", "ja": "ばらばらの、不器用な" }
+    ],
+    "faq": [
+      { "q": "a coordinated effort とは？", "a": "『(複数の人・組織が)連携してまとまった取り組み』という意味です。皆が協力して同じ目標に向かう様子を表します。" },
+      { "q": "well coordinated が人に使われると？", "a": "『運動神経がよい・体の動きがよく調和している』という意味になります。" }
+    ],
+    "quiz": [
+      { "q": "coordinated の意味は？", "A": "統制のとれた、連携した", "B": "ばらばらの", "C": "壊れた", "D": "遅い", "correct": "A" },
+      { "q": "coordinated の反対語は？", "A": "uncoordinated", "B": "coordination", "C": "coordinate", "D": "coordinator", "correct": "A" }
+    ]
+  }
+]
