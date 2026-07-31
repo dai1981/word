@@ -1,0 +1,986 @@
+[
+  {
+    "english": "ineligible",
+    "pron": "ɪnˈelɪdʒəbəl",
+    "kana": "インエリジブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "in（否定）+ eligible（資格のある）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "制度・法律"],
+    "meaning_main": "資格がない／該当しない（条件を満たさない）",
+    "description": "ineligible（インエリジブル）の意味と使い方。必要な資格・条件を満たさず該当しないことを表す形容詞を解説。反対語 eligible も。",
+    "keywords": ["ineligible 意味", "ineligible 使い方", "資格がない 英語", "ineligible eligible"],
+    "meanings": [
+      { "hinshi": "【形容詞】資格がない・該当しない", "note": "必要な条件・要件を満たさず対象にならない。反対は eligible（資格のある）。ineligible for ～（～の資格がない）" }
+    ],
+    "usages": [
+      { "title": "① 資格を満たさない", "desc": "ineligible for ～", "example_en": "He was ineligible for the scholarship.", "example_ja": "彼はその奨学金の資格がなかった。" },
+      { "title": "② 対象外", "desc": "条件に合わない", "example_en": "Part-time workers are ineligible for the bonus.", "example_ja": "パート従業員はそのボーナスの対象外だ。" }
+    ],
+    "warn": ["反対は eligible（資格のある）。ineligible for ～（～の資格がない）／to do の形。illegible（判読できない）と混同注意"],
+    "etym_note": "eligible（選ばれる資格のある、ラテン語 eligere＝選び出す）に否定の in- がついた語。『選ばれる資格がない』の意。elect, select と同語源。",
+    "etym_chain": [
+      { "node": "eligere", "sub": "選び出す", "era": "ラテン語" },
+      { "node": "eligible", "sub": "資格のある", "era": "近代英語" },
+      { "node": "ineligible", "sub": "資格がない", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "ineligible for", "ja": "～の資格がない" },
+      { "en": "ineligible to vote", "ja": "投票資格がない" },
+      { "en": "declared ineligible", "ja": "資格なしとされる" },
+      { "en": "ineligible for benefits", "ja": "給付の対象外" },
+      { "en": "become ineligible", "ja": "資格を失う" },
+      { "en": "ineligible candidates", "ja": "資格のない候補者" }
+    ],
+    "related": [
+      { "en": "eligible", "ja": "資格のある" },
+      { "en": "unqualified", "ja": "資格のない" },
+      { "en": "disqualified", "ja": "失格の" },
+      { "en": "ineligibility", "ja": "資格のなさ" }
+    ],
+    "faq": [
+      { "q": "ineligible の反対は？", "a": "eligible（資格のある・条件を満たす）です。" },
+      { "q": "illegible と同じ？", "a": "違います。illegible は『（字が）判読できない』で別の語です。混同注意。" }
+    ],
+    "quiz": [
+      { "q": "ineligible の意味は？", "A": "資格のある", "B": "資格がない・該当しない", "C": "必要な", "D": "無料の", "correct": "B" },
+      { "q": "ineligible の反対語は？", "A": "eligible", "B": "illegible", "C": "invisible", "D": "incredible", "correct": "A" }
+    ]
+  },
+  {
+    "english": "inertia",
+    "pron": "ɪˈnɜːrʃə",
+    "kana": "イナーシャ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 iners（無為の・不活発な）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "科学・社会"],
+    "meaning_main": "慣性／（変化への）不活発・惰性",
+    "description": "inertia（イナーシャ）の意味と使い方。物理の慣性、また物事が変わらず動き出さない惰性・不活発を表す名詞を解説。",
+    "keywords": ["inertia 意味", "inertia 使い方", "慣性 英語", "惰性 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】慣性", "note": "物体が運動状態を保とうとする性質。物理の用語。通常は不可算" },
+      { "hinshi": "【名詞】惰性・不活発", "note": "変化や行動を起こそうとしない状態。組織や人の『動きの鈍さ』" }
+    ],
+    "usages": [
+      { "title": "① 物理の慣性", "desc": "運動状態を保とうとする性質", "example_en": "A seatbelt protects you from inertia in a crash.", "example_ja": "シートベルトは衝突時の慣性から身を守る。" },
+      { "title": "② 変化への惰性", "desc": "動き出せない停滞", "example_en": "Bureaucratic inertia slowed the reforms.", "example_ja": "官僚的な惰性が改革を遅らせた。" }
+    ],
+    "warn": ["形容詞は inert（不活発な・不活性の）。日常では『惰性・動きの鈍さ』の比喩で使うことが多い"],
+    "etym_note": "ラテン語 iners（in＝否定＋ars＝技・活動＝無為の）に由来。『何もしない状態』から、物理の慣性・比喩の惰性の意になった。",
+    "etym_chain": [
+      { "node": "iners", "sub": "無為の・不活発な", "era": "ラテン語" },
+      { "node": "inertia", "sub": "慣性・惰性", "era": "近代英語（物理）" }
+    ],
+    "phrases": [
+      { "en": "the law of inertia", "ja": "慣性の法則" },
+      { "en": "bureaucratic inertia", "ja": "官僚的な惰性" },
+      { "en": "a sense of inertia", "ja": "惰性・停滞感" },
+      { "en": "overcome inertia", "ja": "惰性を打ち破る" },
+      { "en": "institutional inertia", "ja": "組織の停滞" },
+      { "en": "the inertia of the system", "ja": "制度の動きの鈍さ" }
+    ],
+    "related": [
+      { "en": "inert", "ja": "不活発な・不活性の" },
+      { "en": "momentum", "ja": "勢い・運動量" },
+      { "en": "stagnation", "ja": "停滞" },
+      { "en": "apathy", "ja": "無気力" }
+    ],
+    "faq": [
+      { "q": "inertia の物理的な意味は？", "a": "物体が今の運動状態（静止または等速運動）を保とうとする性質（慣性）です。" },
+      { "q": "比喩ではどう使う？", "a": "組織や人が変化を起こせない『惰性・停滞』を表します。" }
+    ],
+    "quiz": [
+      { "q": "inertia の意味は？", "A": "慣性／惰性・不活発", "B": "加速", "C": "爆発", "D": "回転", "correct": "A" },
+      { "q": "inertia の形容詞形は？", "A": "inert", "B": "inner", "C": "inept", "D": "inertial のみ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "inevitable",
+    "pron": "ɪnˈevɪtəbəl",
+    "kana": "イネヴィタブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "in（否定）+ ラテン語 evitare（避ける）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "避けられない／必然の／当然起こる",
+    "description": "inevitable（イネヴィタブル）の意味と使い方。避けようがなく必ず起こる、必然的なことを表す形容詞を解説。",
+    "keywords": ["inevitable 意味", "inevitable 使い方", "避けられない 英語", "必然 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】避けられない・必然の", "note": "どうやっても避けられず、必ず起こる。the inevitable（避けられないこと）と名詞的にも" }
+    ],
+    "usages": [
+      { "title": "① 必ず起こること", "desc": "避けようがない", "example_en": "A clash between them seemed inevitable.", "example_ja": "彼らの衝突は避けられないように思えた。" },
+      { "title": "② the inevitable", "desc": "『避けられない事態』", "example_en": "We must accept the inevitable.", "example_ja": "私たちは避けられない現実を受け入れねばならない。" }
+    ],
+    "warn": ["副詞は inevitably（必然的に・当然）。avoid（避ける）と語源が同じ。反対は avoidable（避けられる）"],
+    "etym_note": "ラテン語 evitare（e＝外へ＋vitare＝避ける）に否定の in- がついた語。『避けられない』の意。",
+    "etym_chain": [
+      { "node": "vitare", "sub": "避ける", "era": "ラテン語" },
+      { "node": "evitare", "sub": "避ける", "era": "ラテン語" },
+      { "node": "inevitable", "sub": "避けられない", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "seem inevitable", "ja": "避けられないように思える" },
+      { "en": "the inevitable result", "ja": "必然の結果" },
+      { "en": "accept the inevitable", "ja": "避けられない現実を受け入れる" },
+      { "en": "an inevitable consequence", "ja": "必然的な結果" },
+      { "en": "almost inevitable", "ja": "ほとんど避けられない" },
+      { "en": "inevitably lead to", "ja": "必然的に～に至る" }
+    ],
+    "related": [
+      { "en": "unavoidable", "ja": "避けられない" },
+      { "en": "certain", "ja": "確実な" },
+      { "en": "inescapable", "ja": "逃れられない" },
+      { "en": "avoidable", "ja": "避けられる" }
+    ],
+    "faq": [
+      { "q": "inevitable の反対は？", "a": "avoidable（避けられる）です。" },
+      { "q": "the inevitable とは？", "a": "『避けられない事態・現実』を名詞的に表した言い方です。" }
+    ],
+    "quiz": [
+      { "q": "inevitable の意味は？", "A": "避けられる", "B": "避けられない・必然の", "C": "任意の", "D": "まれな", "correct": "B" },
+      { "q": "inevitable の副詞形は？", "A": "inevitably", "B": "invisibly", "C": "innocently", "D": "instantly", "correct": "A" }
+    ]
+  },
+  {
+    "english": "inexorable",
+    "pron": "ɪnˈeksərəbəl",
+    "kana": "イネクソラブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "in（否定）+ ラテン語 exorare（懇願して動かす）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文語"],
+    "meaning_main": "止められない／容赦ない／（懇願しても）動かせない",
+    "description": "inexorable（イネクソラブル）の意味と使い方。何をしても止められず容赦なく進むこと、また懇願しても心を変えないことを表す形容詞を解説。",
+    "keywords": ["inexorable 意味", "inexorable 使い方", "止められない 英語", "容赦ない 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】止められない・容赦ない", "note": "どうしても止められず進み続ける（過程・力）。または懇願しても動かせない（人・意志）。文語的" }
+    ],
+    "usages": [
+      { "title": "① 止められない流れ", "desc": "変化・時間・力が容赦なく進む", "example_en": "the inexorable rise of technology", "example_ja": "止めようのない技術の台頭" },
+      { "title": "② 懇願しても動かない", "desc": "情に流されない", "example_en": "The judge was inexorable and refused to reduce the sentence.", "example_ja": "裁判官は容赦なく、刑の軽減を拒んだ。" }
+    ],
+    "warn": ["副詞は inexorably（容赦なく・着実に）。『懇願(exorare)しても動かせない』が原義。relentless（容赦ない）と近い"],
+    "etym_note": "ラテン語 exorare（ex＝強調＋orare＝祈る・懇願する＝懇願して動かす）に否定の in- がついた語。『懇願しても動かせない』の意。oral, orator と同じ orare（話す・祈る）から。",
+    "etym_chain": [
+      { "node": "orare", "sub": "祈る・懇願する", "era": "ラテン語" },
+      { "node": "exorare", "sub": "懇願して動かす", "era": "ラテン語" },
+      { "node": "inexorable", "sub": "止められない・容赦ない", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "the inexorable rise of", "ja": "止められない～の台頭" },
+      { "en": "inexorable progress", "ja": "止めようのない進展" },
+      { "en": "an inexorable force", "ja": "容赦ない力" },
+      { "en": "inexorable logic", "ja": "動かしがたい論理" },
+      { "en": "inexorably drawn to", "ja": "抗いがたく引きつけられて" },
+      { "en": "the inexorable march of time", "ja": "止められない時の歩み" }
+    ],
+    "related": [
+      { "en": "relentless", "ja": "容赦ない" },
+      { "en": "unstoppable", "ja": "止められない" },
+      { "en": "implacable", "ja": "なだめられない" },
+      { "en": "inevitable", "ja": "避けられない" }
+    ],
+    "faq": [
+      { "q": "inexorable の意味は？", "a": "何をしても止められず容赦なく進む、または懇願しても心を変えない、という意味の文語です。" },
+      { "q": "relentless との違いは？", "a": "ほぼ同義ですが、inexorable は特に『懇願・訴えが通じない』という含みを持つことがあります。" }
+    ],
+    "quiz": [
+      { "q": "inexorable の意味は？", "A": "簡単に止められる", "B": "止められない・容赦ない", "C": "楽しい", "D": "あいまいな", "correct": "B" },
+      { "q": "inexorable と近い語は？", "A": "relentless（容赦ない）", "B": "gentle", "C": "flexible", "D": "temporary", "correct": "A" }
+    ]
+  },
+  {
+    "english": "infallible",
+    "pron": "ɪnˈfæləbəl",
+    "kana": "インファリブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "in（否定）+ ラテン語 fallere（誤らせる）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文語・論説"],
+    "meaning_main": "決して誤らない／絶対確実な／間違えようがない",
+    "description": "infallible（インファリブル）の意味と使い方。決して間違えない、絶対に確実で失敗しないことを表す形容詞を解説。",
+    "keywords": ["infallible 意味", "infallible 使い方", "決して誤らない 英語", "絶対確実 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】決して誤らない・絶対確実な", "note": "間違いや失敗をしない、または効果が確実で失敗しない。人・判断・方法について" }
+    ],
+    "usages": [
+      { "title": "① 決して間違えない人", "desc": "誤りを犯さない", "example_en": "No one is infallible.", "example_ja": "誤りを犯さない人はいない。" },
+      { "title": "② 絶対確実な方法", "desc": "確実に効く", "example_en": "There is no infallible cure for the cold.", "example_ja": "風邪に絶対効く治療法はない。" }
+    ],
+    "warn": ["反対は fallible（誤りを犯しうる）。in-（否定）＋fallible。fail（失敗する）、false と同じ fallere（誤らせる）から"],
+    "etym_note": "ラテン語 fallere（誤らせる・欺く）に由来する fallible（誤りうる）に否定の in- がついた語。『誤りえない』の意。fail, false, fault と同語源。",
+    "etym_chain": [
+      { "node": "fallere", "sub": "誤らせる・欺く", "era": "ラテン語" },
+      { "node": "fallible", "sub": "誤りうる", "era": "中英語" },
+      { "node": "infallible", "sub": "決して誤らない", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "no one is infallible", "ja": "誰も完璧ではない" },
+      { "en": "an infallible method", "ja": "絶対確実な方法" },
+      { "en": "an infallible sign", "ja": "確実な兆候" },
+      { "en": "not infallible", "ja": "完璧ではない" },
+      { "en": "an infallible memory", "ja": "決して誤らない記憶" },
+      { "en": "infallible judgment", "ja": "絶対確実な判断" }
+    ],
+    "related": [
+      { "en": "fallible", "ja": "誤りを犯しうる" },
+      { "en": "unerring", "ja": "決して誤らない" },
+      { "en": "foolproof", "ja": "絶対失敗しない" },
+      { "en": "flawless", "ja": "完璧な" }
+    ],
+    "faq": [
+      { "q": "infallible の反対は？", "a": "fallible（誤りを犯しうる・間違えることがある）です。" },
+      { "q": "語源は？", "a": "ラテン語 fallere（誤らせる・欺く）で、fail や false と同語源です。" }
+    ],
+    "quiz": [
+      { "q": "infallible の意味は？", "A": "よく間違える", "B": "決して誤らない・絶対確実な", "C": "退屈な", "D": "危険な", "correct": "B" },
+      { "q": "infallible の反対語は？", "A": "fallible", "B": "invisible", "C": "incredible", "D": "inedible", "correct": "A" }
+    ]
+  },
+  {
+    "english": "infidelity",
+    "pron": "ˌɪnfɪˈdeləti",
+    "kana": "インフィデリティ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "in（否定）+ fidelity（忠実・貞節）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "社会・人間関係"],
+    "meaning_main": "不貞／浮気／不実",
+    "description": "infidelity（インフィデリティ）の意味と使い方。配偶者や恋人を裏切る不貞・浮気を表す名詞を解説。反対語 fidelity も。",
+    "keywords": ["infidelity 意味", "infidelity 使い方", "不貞 英語", "浮気 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】不貞・浮気・不実", "note": "配偶者や恋人に対して誠実さを裏切ること。特に性的な裏切り。可算・不可算どちらも" }
+    ],
+    "usages": [
+      { "title": "① 配偶者への不貞", "desc": "浮気・不倫", "example_en": "Their marriage ended because of infidelity.", "example_ja": "彼らの結婚は不貞が原因で終わった。" },
+      { "title": "② 信義の裏切り", "desc": "忠実さを欠くこと", "example_en": "She could not forgive his infidelity.", "example_ja": "彼女は彼の不貞を許せなかった。" }
+    ],
+    "warn": ["反対は fidelity（忠実・貞節）。in-（否定）＋fidelity。faith（信頼）と同じ fides（信義）から"],
+    "etym_note": "fidelity（忠実・貞節、ラテン語 fides＝信義）に否定の in- がついた語。『忠実さがないこと＝不貞』の意。faith, confide と同語源。",
+    "etym_chain": [
+      { "node": "fides", "sub": "信義・信頼", "era": "ラテン語" },
+      { "node": "fidelity", "sub": "忠実・貞節", "era": "中英語" },
+      { "node": "infidelity", "sub": "不貞", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "marital infidelity", "ja": "夫婦間の不貞" },
+      { "en": "accuse of infidelity", "ja": "浮気を責める" },
+      { "en": "an act of infidelity", "ja": "不貞行為" },
+      { "en": "suspect infidelity", "ja": "浮気を疑う" },
+      { "en": "forgive infidelity", "ja": "不貞を許す" },
+      { "en": "sexual infidelity", "ja": "性的な不貞" }
+    ],
+    "related": [
+      { "en": "fidelity", "ja": "忠実・貞節" },
+      { "en": "adultery", "ja": "不倫・姦通" },
+      { "en": "betrayal", "ja": "裏切り" },
+      { "en": "affair", "ja": "浮気・情事" }
+    ],
+    "faq": [
+      { "q": "infidelity の反対は？", "a": "fidelity（忠実・貞節）です。" },
+      { "q": "adultery との違いは？", "a": "adultery は法律・宗教で言う『（既婚者の）姦通』、infidelity はより広く『不貞・浮気・不実』を指します。" }
+    ],
+    "quiz": [
+      { "q": "infidelity の意味は？", "A": "忠実さ", "B": "不貞・浮気・不実", "C": "友情", "D": "感謝", "correct": "B" },
+      { "q": "infidelity の反対語は？", "A": "fidelity", "B": "infinity", "C": "identity", "D": "ability", "correct": "A" }
+    ]
+  },
+  {
+    "english": "inflate",
+    "pron": "ɪnˈfleɪt",
+    "kana": "インフレイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 inflare（吹き込んで膨らませる）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "膨らませる／（数値・価格を）つり上げる・水増しする",
+    "description": "inflate（インフレイト）の意味と使い方。空気で膨らませる、また価格や数値を不当につり上げる・水増しするを表す動詞を解説。",
+    "keywords": ["inflate 意味", "inflate 使い方", "膨らませる 英語", "inflate 水増し"],
+    "meanings": [
+      { "hinshi": "【動詞】膨らませる", "note": "空気やガスを入れて膨らませる。反対は deflate（空気を抜く）" },
+      { "hinshi": "【動詞】（数値・価格を）つり上げる・水増しする", "note": "実際より大きく見せる。inflate prices（価格をつり上げる）" }
+    ],
+    "usages": [
+      { "title": "① 空気で膨らませる", "desc": "風船・タイヤなど", "example_en": "He inflated the balloons for the party.", "example_ja": "彼はパーティー用に風船を膨らませた。" },
+      { "title": "② 数値を水増しする", "desc": "誇張・つり上げ", "example_en": "The company inflated its profits.", "example_ja": "その会社は利益を水増しした。" }
+    ],
+    "warn": ["反対は deflate（空気を抜く・しぼませる）。名詞 inflation（膨張・インフレ＝物価上昇）"],
+    "etym_note": "ラテン語 inflare（in＝中に＋flare＝吹く＝吹き込んで膨らませる）に由来。『空気を吹き込む』が原義。inflation（インフレ）の動詞。",
+    "etym_chain": [
+      { "node": "flare", "sub": "吹く", "era": "ラテン語" },
+      { "node": "inflare", "sub": "吹き込んで膨らませる", "era": "ラテン語" },
+      { "node": "inflate", "sub": "膨らませる・つり上げる", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "inflate a balloon", "ja": "風船を膨らませる" },
+      { "en": "inflate the tires", "ja": "タイヤに空気を入れる" },
+      { "en": "inflate prices", "ja": "価格をつり上げる" },
+      { "en": "inflate figures", "ja": "数字を水増しする" },
+      { "en": "artificially inflate", "ja": "不当につり上げる" },
+      { "en": "inflate and deflate", "ja": "膨らませたりしぼませたり" }
+    ],
+    "related": [
+      { "en": "deflate", "ja": "空気を抜く" },
+      { "en": "inflation", "ja": "膨張・インフレ" },
+      { "en": "exaggerate", "ja": "誇張する" },
+      { "en": "expand", "ja": "拡大する" }
+    ],
+    "faq": [
+      { "q": "inflate の反対は？", "a": "deflate（空気を抜く・しぼませる）です。" },
+      { "q": "名詞形は？", "a": "inflation（膨張・物価上昇＝インフレ）です。" }
+    ],
+    "quiz": [
+      { "q": "inflate の意味は？", "A": "膨らませる／数値をつり上げる", "B": "しぼませる", "C": "冷やす", "D": "折る", "correct": "A" },
+      { "q": "inflate の反対語は？", "A": "deflate", "B": "inflame", "C": "inform", "D": "infect", "correct": "A" }
+    ]
+  },
+  {
+    "english": "informer",
+    "pron": "ɪnˈfɔːrmər",
+    "kana": "インフォーマー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "inform（知らせる）+ -er",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "社会・法律"],
+    "meaning_main": "密告者／情報提供者（当局への）",
+    "description": "informer（インフォーマー）の意味と使い方。警察や当局に他人の犯罪などをこっそり知らせる密告者を表す名詞を解説。",
+    "keywords": ["informer 意味", "informer 使い方", "密告者 英語", "情報提供者 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】密告者・情報提供者", "note": "警察や当局に、他人の犯罪や秘密の情報をこっそり知らせる人。しばしば否定的。可算名詞" }
+    ],
+    "usages": [
+      { "title": "① 警察への密告者", "desc": "犯罪情報を通報する", "example_en": "The police relied on a secret informer.", "example_ja": "警察はある秘密の密告者に頼っていた。" },
+      { "title": "② 裏切りの含み", "desc": "仲間を売る意味も", "example_en": "He was branded an informer by the gang.", "example_ja": "彼はギャングに密告者の烙印を押された。" }
+    ],
+    "warn": ["informant（情報提供者）は中立的、informer は特に『密告者』で否定的なことが多い。動詞は inform（知らせる）"],
+    "etym_note": "inform（知らせる、ラテン語 informare＝形づくる・知らせる）に『～する人』の -er がついた語。『（当局に）知らせる人』の意。",
+    "etym_chain": [
+      { "node": "informare", "sub": "知らせる・形づくる", "era": "ラテン語" },
+      { "node": "inform", "sub": "知らせる", "era": "中英語" },
+      { "node": "informer", "sub": "密告者", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a police informer", "ja": "警察の情報提供者" },
+      { "en": "a secret informer", "ja": "秘密の密告者" },
+      { "en": "a paid informer", "ja": "報酬を受ける密告者" },
+      { "en": "act as an informer", "ja": "密告者として働く" },
+      { "en": "an informer for the enemy", "ja": "敵の内通者" },
+      { "en": "brand as an informer", "ja": "密告者呼ばわりする" }
+    ],
+    "related": [
+      { "en": "informant", "ja": "情報提供者（中立）" },
+      { "en": "inform", "ja": "知らせる" },
+      { "en": "snitch", "ja": "密告者（俗）" },
+      { "en": "spy", "ja": "スパイ" }
+    ],
+    "faq": [
+      { "q": "informer と informant の違いは？", "a": "informant は中立的な『情報提供者』、informer は特に警察などへの『密告者』で否定的なことが多いです。" },
+      { "q": "動詞形は？", "a": "inform（知らせる）です。inform on ～ で『～を密告する』。" }
+    ],
+    "quiz": [
+      { "q": "informer の意味は？", "A": "密告者・（当局への）情報提供者", "B": "教師", "C": "記者", "D": "翻訳者", "correct": "A" },
+      { "q": "informer の動詞形は？", "A": "inform", "B": "inflate", "C": "infect", "D": "infer", "correct": "A" }
+    ]
+  },
+  {
+    "english": "infrastructure",
+    "pron": "ˈɪnfrəstrʌktʃər",
+    "kana": "インフラストラクチャー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 infra（下）+ structure（構造）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "社会・経済"],
+    "meaning_main": "インフラ／（社会の）基盤設備（道路・電気・水道など）",
+    "description": "infrastructure（インフラストラクチャー）の意味と使い方。道路・電気・水道・通信など社会の基盤となる設備、インフラを表す名詞を解説。",
+    "keywords": ["infrastructure 意味", "infrastructure 使い方", "インフラ 英語", "基盤設備 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】インフラ・社会基盤設備", "note": "道路・鉄道・電気・水道・通信など、社会や経済の活動を支える基盤となる設備。通常は不可算" }
+    ],
+    "usages": [
+      { "title": "① 社会の基盤設備", "desc": "道路・電気・水道など", "example_en": "The country needs to improve its infrastructure.", "example_ja": "その国はインフラを改善する必要がある。" },
+      { "title": "② IT・組織の基盤にも", "desc": "IT infrastructure など", "example_en": "The company invested in its IT infrastructure.", "example_ja": "その会社はITインフラに投資した。" }
+    ],
+    "warn": ["infra-（下）＋structure（構造）で『下部構造』が原義。日本語の『インフラ』の元。通常は不可算"],
+    "etym_note": "ラテン語 infra（下）と structure（構造）から。『下部にある構造＝基盤』の意。structure, construct と同じ struere（積む）から。",
+    "etym_chain": [
+      { "node": "infra + structure", "sub": "下部の構造", "era": "近代（20世紀）" },
+      { "node": "infrastructure", "sub": "基盤設備", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "improve infrastructure", "ja": "インフラを改善する" },
+      { "en": "transport infrastructure", "ja": "交通インフラ" },
+      { "en": "aging infrastructure", "ja": "老朽化したインフラ" },
+      { "en": "invest in infrastructure", "ja": "インフラに投資する" },
+      { "en": "IT infrastructure", "ja": "ITインフラ" },
+      { "en": "critical infrastructure", "ja": "重要インフラ" }
+    ],
+    "related": [
+      { "en": "facilities", "ja": "施設・設備" },
+      { "en": "structure", "ja": "構造" },
+      { "en": "utilities", "ja": "公共設備" },
+      { "en": "network", "ja": "網・ネットワーク" }
+    ],
+    "faq": [
+      { "q": "infrastructure とは？", "a": "道路・電気・水道・通信など、社会や経済を支える基盤となる設備（インフラ）です。" },
+      { "q": "語源は？", "a": "infra-（下）＋structure（構造）で『下部にある構造＝基盤』の意です。" }
+    ],
+    "quiz": [
+      { "q": "infrastructure の意味は？", "A": "社会の基盤設備（インフラ）", "B": "上層階級", "C": "情報番組", "D": "地下鉄のみ", "correct": "A" },
+      { "q": "infrastructure に含まれるものは？", "A": "道路・電気・水道など", "B": "衣類のみ", "C": "食料のみ", "D": "本のみ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "infusion",
+    "pron": "ɪnˈfjuːʒən",
+    "kana": "インフュージョン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 infundere（注ぎ込む）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "医療・料理"],
+    "meaning_main": "注入／（資金などの）投入／煎じ出し（ハーブティー）",
+    "description": "infusion（インフュージョン）の意味と使い方。液体や資金の注入・投入、ハーブなどを煎じ出した液を表す名詞を解説。",
+    "keywords": ["infusion 意味", "infusion 使い方", "注入 英語", "infusion ハーブ"],
+    "meanings": [
+      { "hinshi": "【名詞】注入・投入", "note": "液体を体に注入すること（点滴）、また資金・要素を注ぎ込むこと。an infusion of ～（～の投入）" },
+      { "hinshi": "【名詞】煎じ出し・浸出液", "note": "ハーブや茶葉を湯に浸して成分を出した液" }
+    ],
+    "usages": [
+      { "title": "① 資金・要素の投入", "desc": "an infusion of ～", "example_en": "The company needed an infusion of cash.", "example_ja": "その会社は資金の注入を必要としていた。" },
+      { "title": "② 点滴・煎じ出し", "desc": "医療の点滴やハーブティー", "example_en": "The patient was given an intravenous infusion.", "example_ja": "患者は点滴を受けた。" }
+    ],
+    "warn": ["動詞は infuse（注ぎ込む・浸す）。an infusion of ～（～の注入・投入）が定番。funnel, refund と同じ fundere（注ぐ）から"],
+    "etym_note": "ラテン語 infundere（in＝中へ＋fundere＝注ぐ＝注ぎ込む）に由来。『注ぎ込むこと』の意。fund, refund と同語源。",
+    "etym_chain": [
+      { "node": "fundere", "sub": "注ぐ", "era": "ラテン語" },
+      { "node": "infundere", "sub": "注ぎ込む", "era": "ラテン語" },
+      { "node": "infusion", "sub": "注入・煎じ出し", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "an infusion of cash", "ja": "資金の注入" },
+      { "en": "an infusion of new ideas", "ja": "新しい発想の投入" },
+      { "en": "an intravenous infusion", "ja": "点滴（静脈注入）" },
+      { "en": "a herbal infusion", "ja": "ハーブの煎じ液" },
+      { "en": "a cash infusion", "ja": "資金投入" },
+      { "en": "an infusion of energy", "ja": "活力の注入" }
+    ],
+    "related": [
+      { "en": "infuse", "ja": "注ぎ込む・浸す" },
+      { "en": "injection", "ja": "注射・注入" },
+      { "en": "transfusion", "ja": "輸血" },
+      { "en": "brew", "ja": "煎じる" }
+    ],
+    "faq": [
+      { "q": "an infusion of ～ とは？", "a": "『～の注入・投入（資金・要素などを注ぎ込むこと）』という意味です。" },
+      { "q": "動詞形は？", "a": "infuse（注ぎ込む・浸して成分を出す）です。" }
+    ],
+    "quiz": [
+      { "q": "infusion の意味は？", "A": "注入・投入／煎じ出し", "B": "分解", "C": "削除", "D": "回転", "correct": "A" },
+      { "q": "an infusion of cash の意味は？", "A": "資金の注入", "B": "資金の返済", "C": "資金の凍結", "D": "資金の削減", "correct": "A" }
+    ]
+  },
+  {
+    "english": "inhibitor",
+    "pron": "ɪnˈhɪbɪtər",
+    "kana": "インヒビター",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "inhibit（抑制する）+ -or",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "化学・医学"],
+    "meaning_main": "抑制物質／阻害剤（反応や働きを抑えるもの）",
+    "description": "inhibitor（インヒビター）の意味と使い方。化学反応や酵素・体の働きを抑える物質、阻害剤を表す名詞を解説。",
+    "keywords": ["inhibitor 意味", "inhibitor 使い方", "阻害剤 英語", "抑制物質 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】抑制物質・阻害剤", "note": "化学反応や酵素・生体の働きを遅らせたり止めたりする物質。可算名詞" }
+    ],
+    "usages": [
+      { "title": "① 反応を抑える物質", "desc": "さび止め・酵素阻害剤など", "example_en": "The drug acts as an enzyme inhibitor.", "example_ja": "その薬は酵素阻害剤として働く。" },
+      { "title": "② 医薬・工業で", "desc": "腐食抑制剤なども", "example_en": "A corrosion inhibitor protects the metal.", "example_ja": "腐食抑制剤が金属を保護する。" }
+    ],
+    "warn": ["動詞は inhibit（抑制する・妨げる）。反対の働きをするものは promoter / catalyst（促進剤・触媒）"],
+    "etym_note": "inhibit（抑制する、ラテン語 inhibere＝押しとどめる）に『～するもの』の -or がついた語。『抑えるもの』の意。",
+    "etym_chain": [
+      { "node": "inhibere", "sub": "押しとどめる", "era": "ラテン語" },
+      { "node": "inhibit", "sub": "抑制する", "era": "中英語" },
+      { "node": "inhibitor", "sub": "阻害剤", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "an enzyme inhibitor", "ja": "酵素阻害剤" },
+      { "en": "a corrosion inhibitor", "ja": "腐食抑制剤" },
+      { "en": "act as an inhibitor", "ja": "阻害剤として働く" },
+      { "en": "a growth inhibitor", "ja": "成長抑制物質" },
+      { "en": "a protease inhibitor", "ja": "プロテアーゼ阻害剤" },
+      { "en": "add an inhibitor", "ja": "抑制剤を加える" }
+    ],
+    "related": [
+      { "en": "inhibit", "ja": "抑制する" },
+      { "en": "catalyst", "ja": "触媒" },
+      { "en": "enzyme", "ja": "酵素" },
+      { "en": "suppressor", "ja": "抑制するもの" }
+    ],
+    "faq": [
+      { "q": "inhibitor とは？", "a": "化学反応や酵素・生体の働きを抑える物質（阻害剤・抑制剤）です。" },
+      { "q": "反対の働きをするものは？", "a": "catalyst（触媒）や promoter（促進剤）です。" }
+    ],
+    "quiz": [
+      { "q": "inhibitor の意味は？", "A": "反応を促進するもの", "B": "反応や働きを抑える物質（阻害剤）", "C": "溶かすもの", "D": "温めるもの", "correct": "B" },
+      { "q": "inhibitor の動詞形は？", "A": "inhibit", "B": "inhabit", "C": "inhale", "D": "inherit", "correct": "A" }
+    ]
+  },
+  {
+    "english": "inlay",
+    "pron": "ˈɪnleɪ",
+    "kana": "インレイ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "in（中に）+ lay（置く）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "工芸・歯科"],
+    "meaning_main": "象眼（ぞうがん）／はめ込み細工／（歯科）インレー",
+    "description": "inlay（インレイ）の意味と使い方。木や金属の表面に別の素材をはめ込む象眼細工、また歯の詰め物を表す名詞・動詞を解説。",
+    "keywords": ["inlay 意味", "inlay 使い方", "象眼 英語", "インレー 歯"],
+    "meanings": [
+      { "hinshi": "【名詞】象眼・はめ込み細工", "note": "木・金属などの表面に、貝・金属・宝石などをはめ込んで模様を作る装飾。可算・不可算どちらも" },
+      { "hinshi": "【名詞・動詞】（歯科）インレー／はめ込む", "note": "歯の穴に作って詰める詰め物。動詞で『はめ込む』" }
+    ],
+    "usages": [
+      { "title": "① 象眼細工", "desc": "貝や金属の装飾", "example_en": "The box had a beautiful mother-of-pearl inlay.", "example_ja": "その箱には美しい真珠貝の象眼があった。" },
+      { "title": "② 歯の詰め物", "desc": "歯科のインレー", "example_en": "The dentist fitted a gold inlay.", "example_ja": "歯医者は金のインレーをはめた。" }
+    ],
+    "warn": ["動詞の活用は inlay - inlaid - inlaid（不規則）。表面にはめ込む装飾が『象眼』。歯科では詰め物"],
+    "etym_note": "in（中に）と lay（置く）の複合。『中に置き入れる＝はめ込む』の意。動詞は lay と同じく inlaid と変化する。",
+    "etym_chain": [
+      { "node": "in + lay", "sub": "中に置く", "era": "近代英語" },
+      { "node": "inlay", "sub": "象眼・はめ込み", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a mother-of-pearl inlay", "ja": "真珠貝の象眼" },
+      { "en": "gold inlay", "ja": "金の象眼・インレー" },
+      { "en": "wood inlay", "ja": "木象眼" },
+      { "en": "inlaid with", "ja": "～をはめ込んだ" },
+      { "en": "a decorative inlay", "ja": "装飾的な象眼" },
+      { "en": "a dental inlay", "ja": "歯のインレー" }
+    ],
+    "related": [
+      { "en": "mosaic", "ja": "モザイク" },
+      { "en": "engraving", "ja": "彫刻" },
+      { "en": "ornament", "ja": "装飾" },
+      { "en": "veneer", "ja": "化粧張り" }
+    ],
+    "faq": [
+      { "q": "inlay とは？", "a": "木や金属の表面に別の素材をはめ込んで模様を作る装飾（象眼）や、歯の詰め物を指します。" },
+      { "q": "動詞の活用は？", "a": "inlay - inlaid - inlaid です（lay と同じく不規則）。" }
+    ],
+    "quiz": [
+      { "q": "inlay の意味は？", "A": "象眼・はめ込み細工／歯の詰め物", "B": "屋根", "C": "地下室", "D": "煙突", "correct": "A" },
+      { "q": "inlay の過去分詞は？", "A": "inlaid", "B": "inlayed", "C": "inlain", "D": "inlew", "correct": "A" }
+    ]
+  },
+  {
+    "english": "innovator",
+    "pron": "ˈɪnəveɪtər",
+    "kana": "イノベーター",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "innovate（革新する）+ -or",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "ビジネス"],
+    "meaning_main": "革新者／新しいものを生み出す人",
+    "description": "innovator（イノベーター）の意味と使い方。新しい方法・製品・考えを生み出す革新者を表す名詞を解説。",
+    "keywords": ["innovator 意味", "innovator 使い方", "革新者 英語", "innovation"],
+    "meanings": [
+      { "hinshi": "【名詞】革新者・新しいものを生み出す人", "note": "新しい技術・製品・方法・考えを導入し、変革をもたらす人。可算名詞" }
+    ],
+    "usages": [
+      { "title": "① 革新をもたらす人", "desc": "新技術・新製品を生む", "example_en": "She is a leading innovator in green energy.", "example_ja": "彼女はグリーンエネルギー分野の第一線の革新者だ。" },
+      { "title": "② 早期採用者にも", "desc": "新しいものをいち早く取り入れる層", "example_en": "Innovators are the first to adopt new technology.", "example_ja": "イノベーターは新技術を最初に取り入れる層だ。" }
+    ],
+    "warn": ["動詞は innovate（革新する）、名詞（行為）は innovation（革新）、形容詞は innovative（革新的な）"],
+    "etym_note": "innovate（革新する、ラテン語 innovare＝新しくする、novus＝新しい）に『～する人』の -or がついた語。『新しくする人』の意。",
+    "etym_chain": [
+      { "node": "novus", "sub": "新しい", "era": "ラテン語" },
+      { "node": "innovate", "sub": "革新する", "era": "近代英語" },
+      { "node": "innovator", "sub": "革新者", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a great innovator", "ja": "偉大な革新者" },
+      { "en": "a technological innovator", "ja": "技術革新者" },
+      { "en": "a leading innovator", "ja": "第一線の革新者" },
+      { "en": "an innovator in the field", "ja": "その分野の革新者" },
+      { "en": "innovators and pioneers", "ja": "革新者と先駆者" },
+      { "en": "a serial innovator", "ja": "次々と革新する人" }
+    ],
+    "related": [
+      { "en": "innovate", "ja": "革新する" },
+      { "en": "innovation", "ja": "革新" },
+      { "en": "pioneer", "ja": "先駆者" },
+      { "en": "inventor", "ja": "発明家" }
+    ],
+    "faq": [
+      { "q": "innovator の動詞形は？", "a": "innovate（革新する）です。名詞は innovation（革新）、形容詞は innovative（革新的な）です。" },
+      { "q": "inventor との違いは？", "a": "inventor は『発明する人』、innovator は『新しいものを生み出し変革をもたらす人』で、より広い概念です。" }
+    ],
+    "quiz": [
+      { "q": "innovator の意味は？", "A": "模倣する人", "B": "革新者・新しいものを生み出す人", "C": "反対する人", "D": "傍観者", "correct": "B" },
+      { "q": "innovator の名詞（革新）は？", "A": "innovation", "B": "invasion", "C": "invitation", "D": "insertion", "correct": "A" }
+    ]
+  },
+  {
+    "english": "inoculation",
+    "pron": "ɪˌnɒkjəˈleɪʃən",
+    "kana": "イノキュレイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 inoculare（芽を接ぐ）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "医学"],
+    "meaning_main": "予防接種／接種（病原体などを体に入れて免疫をつけること）",
+    "description": "inoculation（イノキュレイション）の意味と使い方。弱めた病原体などを体に入れて免疫をつける予防接種を表す名詞を解説。",
+    "keywords": ["inoculation 意味", "inoculation 使い方", "予防接種 英語", "接種 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】予防接種・接種", "note": "弱めた病原体やワクチンを体に入れて、病気への免疫をつけること。可算・不可算どちらも" }
+    ],
+    "usages": [
+      { "title": "① 予防接種", "desc": "免疫をつける", "example_en": "You need inoculation before traveling to some countries.", "example_ja": "国によっては渡航前に予防接種が必要だ。" },
+      { "title": "② 接種を受ける", "desc": "get an inoculation", "example_en": "The children got their inoculations at the clinic.", "example_ja": "子どもたちは診療所で予防接種を受けた。" }
+    ],
+    "warn": ["動詞は inoculate（接種する）。vaccination（ワクチン接種）とほぼ同義。もとは『芽接ぎ』の意で、植物の接ぎ木から"],
+    "etym_note": "ラテン語 inoculare（in＝中に＋oculus＝目・芽＝芽を接ぐ）に由来。植物の『芽接ぎ』から、体に病原体を『接ぐ＝接種する』の意になった。",
+    "etym_chain": [
+      { "node": "oculus", "sub": "目・芽", "era": "ラテン語" },
+      { "node": "inoculare", "sub": "芽を接ぐ", "era": "ラテン語" },
+      { "node": "inoculation", "sub": "接種・予防接種", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "get an inoculation", "ja": "予防接種を受ける" },
+      { "en": "require inoculation", "ja": "接種を必要とする" },
+      { "en": "an inoculation program", "ja": "予防接種計画" },
+      { "en": "inoculation against", "ja": "～に対する予防接種" },
+      { "en": "childhood inoculations", "ja": "子どもの予防接種" },
+      { "en": "a travel inoculation", "ja": "渡航用の予防接種" }
+    ],
+    "related": [
+      { "en": "inoculate", "ja": "接種する" },
+      { "en": "vaccination", "ja": "ワクチン接種" },
+      { "en": "immunity", "ja": "免疫" },
+      { "en": "vaccine", "ja": "ワクチン" }
+    ],
+    "faq": [
+      { "q": "inoculation と vaccination の違いは？", "a": "ほぼ同義です。inoculation は病原体などを体に入れて免疫をつけること全般、vaccination は特にワクチンによる接種を指します。" },
+      { "q": "語源は？", "a": "植物の『芽接ぎ（inoculare）』で、体に病原体を『接ぐ』という比喩から来ています。" }
+    ],
+    "quiz": [
+      { "q": "inoculation の意味は？", "A": "予防接種・接種", "B": "手術", "C": "レントゲン", "D": "リハビリ", "correct": "A" },
+      { "q": "inoculation の動詞形は？", "A": "inoculate", "B": "innovate", "C": "inaugurate", "D": "inhabit", "correct": "A" }
+    ]
+  },
+  {
+    "english": "insignificant",
+    "pron": "ˌɪnsɪɡˈnɪfɪkənt",
+    "kana": "インシグニフィカント",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "in（否定）+ significant（重要な）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "取るに足りない／ささいな／重要でない",
+    "description": "insignificant（インシグニフィカント）の意味と使い方。重要でなく取るに足りない、ささいなことを表す形容詞を解説。反対語 significant も。",
+    "keywords": ["insignificant 意味", "insignificant 使い方", "取るに足りない 英語", "insignificant significant"],
+    "meanings": [
+      { "hinshi": "【形容詞】取るに足りない・ささいな", "note": "重要性や影響が小さく、取り上げるほどでない。反対は significant（重要な）" }
+    ],
+    "usages": [
+      { "title": "① ささいな量・違い", "desc": "無視できるほど小さい", "example_en": "The difference is insignificant.", "example_ja": "その違いは取るに足りない。" },
+      { "title": "② 重要でない存在", "desc": "influence がほとんどない", "example_en": "He felt small and insignificant.", "example_ja": "彼は自分がちっぽけで取るに足りないと感じた。" }
+    ],
+    "warn": ["反対は significant（重要な・意味のある）。in-（否定）＋significant。副詞は insignificantly"],
+    "etym_note": "significant（重要な、ラテン語 significare＝意味を示す）に否定の in- がついた語。『意味・重要性がない』の意。sign, signal と同語源。",
+    "etym_chain": [
+      { "node": "significare", "sub": "意味を示す", "era": "ラテン語" },
+      { "node": "significant", "sub": "重要な", "era": "近代英語" },
+      { "node": "insignificant", "sub": "取るに足りない", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "an insignificant amount", "ja": "取るに足りない量" },
+      { "en": "seem insignificant", "ja": "ささいに思える" },
+      { "en": "a relatively insignificant", "ja": "比較的重要でない" },
+      { "en": "small and insignificant", "ja": "ちっぽけで取るに足りない" },
+      { "en": "an insignificant detail", "ja": "ささいな細部" },
+      { "en": "statistically insignificant", "ja": "統計的に有意でない" }
+    ],
+    "related": [
+      { "en": "significant", "ja": "重要な" },
+      { "en": "trivial", "ja": "ささいな" },
+      { "en": "negligible", "ja": "無視できるほどの" },
+      { "en": "minor", "ja": "小さな・重要でない" }
+    ],
+    "faq": [
+      { "q": "insignificant の反対は？", "a": "significant（重要な・意味のある）です。" },
+      { "q": "statistically insignificant とは？", "a": "統計的に『有意でない（偶然の範囲内で意味がない）』という意味です。" }
+    ],
+    "quiz": [
+      { "q": "insignificant の意味は？", "A": "重要な", "B": "取るに足りない・ささいな", "C": "危険な", "D": "巨大な", "correct": "B" },
+      { "q": "insignificant の反対語は？", "A": "significant", "B": "sufficient", "C": "sincere", "D": "sensible", "correct": "A" }
+    ]
+  },
+  {
+    "english": "instigator",
+    "pron": "ˈɪnstɪɡeɪtər",
+    "kana": "インスティゲイター",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "instigate（扇動する）+ -or",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "社会・法律"],
+    "meaning_main": "扇動者／（もめ事などの）けしかけ役・首謀者",
+    "description": "instigator（インスティゲイター）の意味と使い方。争い・暴動・問題行動をけしかけ引き起こす扇動者・首謀者を表す名詞を解説。",
+    "keywords": ["instigator 意味", "instigator 使い方", "扇動者 英語", "首謀者 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】扇動者・けしかけ役・首謀者", "note": "争い・暴動・問題行動などをそそのかして引き起こす人。しばしば否定的。可算名詞" }
+    ],
+    "usages": [
+      { "title": "① もめ事のけしかけ役", "desc": "争いをそそのかす", "example_en": "He was the instigator of the riot.", "example_ja": "彼はその暴動の首謀者だった。" },
+      { "title": "② 中立的な『発起人』にも", "desc": "計画などを始めた人", "example_en": "She was the instigator of the reform movement.", "example_ja": "彼女はその改革運動の発起人だった。" }
+    ],
+    "warn": ["動詞は instigate（扇動する・引き起こす）。多くは否定的（けしかけ役）だが、『発起人』の中立的な用法もある"],
+    "etym_note": "instigate（扇動する、ラテン語 instigare＝突き刺す・かき立てる）に『～する人』の -or がついた語。『かき立てる人』の意。",
+    "etym_chain": [
+      { "node": "instigare", "sub": "突き刺す・かき立てる", "era": "ラテン語" },
+      { "node": "instigate", "sub": "扇動する", "era": "近代英語" },
+      { "node": "instigator", "sub": "扇動者", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "the instigator of", "ja": "～の首謀者" },
+      { "en": "the main instigator", "ja": "主犯格の扇動者" },
+      { "en": "an instigator of violence", "ja": "暴力の扇動者" },
+      { "en": "identify the instigator", "ja": "首謀者を特定する" },
+      { "en": "the instigator of the plot", "ja": "陰謀の首謀者" },
+      { "en": "a troublemaker and instigator", "ja": "問題を起こすけしかけ役" }
+    ],
+    "related": [
+      { "en": "instigate", "ja": "扇動する" },
+      { "en": "ringleader", "ja": "首謀者" },
+      { "en": "agitator", "ja": "扇動者" },
+      { "en": "provoker", "ja": "挑発する人" }
+    ],
+    "faq": [
+      { "q": "instigator の動詞形は？", "a": "instigate（扇動する・けしかける・引き起こす）です。" },
+      { "q": "いつも悪い意味？", "a": "多くは否定的な『けしかけ役』ですが、計画などの『発起人』という中立的な使い方もあります。" }
+    ],
+    "quiz": [
+      { "q": "instigator の意味は？", "A": "仲裁者", "B": "扇動者・けしかけ役・首謀者", "C": "傍観者", "D": "被害者", "correct": "B" },
+      { "q": "instigator の動詞形は？", "A": "instigate", "B": "install", "C": "instruct", "D": "instill", "correct": "A" }
+    ]
+  },
+  {
+    "english": "insurgent",
+    "pron": "ɪnˈsɜːrdʒənt",
+    "kana": "インサージェント",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 insurgere（立ち上がる）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "政治・軍事"],
+    "meaning_main": "反乱者／反政府勢力（の）／反体制の",
+    "description": "insurgent（インサージェント）の意味と使い方。政府や体制に武力で反抗する反乱者・反政府勢力を表す名詞・形容詞を解説。",
+    "keywords": ["insurgent 意味", "insurgent 使い方", "反乱者 英語", "反政府勢力 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】反乱者・反政府勢力", "note": "確立した政府・体制に武力で反抗する人・集団。可算名詞" },
+      { "hinshi": "【形容詞】反乱の・反体制の", "note": "insurgent forces（反政府軍）" }
+    ],
+    "usages": [
+      { "title": "① 反政府勢力", "desc": "武力で政府に抵抗", "example_en": "Insurgents attacked the government forces.", "example_ja": "反乱勢力が政府軍を攻撃した。" },
+      { "title": "② 政治の反主流派にも", "desc": "党内の反体制派", "example_en": "The insurgent candidate challenged the party leadership.", "example_ja": "反主流派の候補が党指導部に挑戦した。" }
+    ],
+    "warn": ["名詞は insurgency（反乱・武装闘争）。rebel（反逆者）と近い。『立ち上がる（insurgere）者』が原義"],
+    "etym_note": "ラテン語 insurgere（in＝上へ＋surgere＝立ち上がる＝立ち上がる）に由来。『（体制に）立ち上がる者』の意。surge, resurrect と同じ surgere から。",
+    "etym_chain": [
+      { "node": "surgere", "sub": "立ち上がる", "era": "ラテン語" },
+      { "node": "insurgere", "sub": "立ち上がる・反抗する", "era": "ラテン語" },
+      { "node": "insurgent", "sub": "反乱者", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "insurgent forces", "ja": "反政府軍" },
+      { "en": "armed insurgents", "ja": "武装した反乱者" },
+      { "en": "an insurgent group", "ja": "反乱勢力" },
+      { "en": "insurgent attacks", "ja": "反乱勢力の攻撃" },
+      { "en": "fight the insurgents", "ja": "反乱者と戦う" },
+      { "en": "an insurgent movement", "ja": "反乱運動" }
+    ],
+    "related": [
+      { "en": "rebel", "ja": "反逆者" },
+      { "en": "insurgency", "ja": "反乱・武装闘争" },
+      { "en": "revolutionary", "ja": "革命家" },
+      { "en": "guerrilla", "ja": "ゲリラ" }
+    ],
+    "faq": [
+      { "q": "insurgent と rebel の違いは？", "a": "ほぼ同義ですが、insurgent は特に確立した政府に武力で組織的に反抗する勢力を指すことが多いです。" },
+      { "q": "名詞（反乱そのもの）は？", "a": "insurgency（反乱・武装闘争）です。" }
+    ],
+    "quiz": [
+      { "q": "insurgent の意味は？", "A": "反乱者・反政府勢力", "B": "政府の役人", "C": "外交官", "D": "警察官", "correct": "A" },
+      { "q": "insurgent の語源の意味は？", "A": "立ち上がる", "B": "眠る", "C": "隠れる", "D": "逃げる", "correct": "A" }
+    ]
+  },
+  {
+    "english": "intake",
+    "pron": "ˈɪnteɪk",
+    "kana": "インテイク",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "in（中へ）+ take（取り入れる）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "健康・一般"],
+    "meaning_main": "摂取（量）／取り入れ／（新規の）受け入れ人数",
+    "description": "intake（インテイク）の意味と使い方。食物・水・空気などの摂取量、また新規に受け入れる人数を表す名詞を解説。",
+    "keywords": ["intake 意味", "intake 使い方", "摂取量 英語", "calorie intake"],
+    "meanings": [
+      { "hinshi": "【名詞】摂取（量）・取り入れ", "note": "食物・水・空気などを体に取り入れること、またその量。daily intake（1日の摂取量）" },
+      { "hinshi": "【名詞】（新規の）受け入れ人数", "note": "学校・組織が新たに受け入れる人数。this year's intake（今年度の新入り）" }
+    ],
+    "usages": [
+      { "title": "① 摂取量", "desc": "calorie/water intake", "example_en": "You should reduce your salt intake.", "example_ja": "塩分の摂取量を減らすべきだ。" },
+      { "title": "② 受け入れ人数", "desc": "新入生・新入社員など", "example_en": "The school has an annual intake of 200 students.", "example_ja": "その学校の年間の受け入れは200人だ。" }
+    ],
+    "warn": ["動詞句は take in（取り入れる）。output（産出・排出）と対比されることも。日常では『摂取量』の意味が多い"],
+    "etym_note": "in（中へ）と take（取る）の複合。『中へ取り入れること』の意。output（外へ出すこと）と対になる。",
+    "etym_chain": [
+      { "node": "in + take", "sub": "中へ取り入れる", "era": "近代英語" },
+      { "node": "intake", "sub": "摂取・取り入れ", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "calorie intake", "ja": "カロリー摂取量" },
+      { "en": "daily intake", "ja": "1日の摂取量" },
+      { "en": "reduce salt intake", "ja": "塩分摂取を減らす" },
+      { "en": "water intake", "ja": "水分摂取" },
+      { "en": "the annual intake", "ja": "年間受け入れ人数" },
+      { "en": "an air intake", "ja": "空気取り入れ口" }
+    ],
+    "related": [
+      { "en": "consumption", "ja": "消費・摂取" },
+      { "en": "output", "ja": "産出・排出" },
+      { "en": "absorption", "ja": "吸収" },
+      { "en": "admission", "ja": "受け入れ・入学" }
+    ],
+    "faq": [
+      { "q": "intake の主な意味は？", "a": "食物・水・空気などの『摂取（量）』です。また学校・組織が新たに受け入れる『人数』の意味もあります。" },
+      { "q": "動詞では？", "a": "take in（取り入れる）という句動詞を使います。" }
+    ],
+    "quiz": [
+      { "q": "intake の意味は？", "A": "摂取（量）／受け入れ人数", "B": "排出", "C": "拒否", "D": "返品", "correct": "A" },
+      { "q": "calorie intake の意味は？", "A": "カロリー摂取量", "B": "カロリー消費", "C": "カロリー計算式", "D": "カロリー制限令", "correct": "A" }
+    ]
+  },
+  {
+    "english": "integration",
+    "pron": "ˌɪntɪˈɡreɪʃən",
+    "kana": "インテグレイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 integrare（全体にする）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "社会・IT"],
+    "meaning_main": "統合／一体化／（社会への）融合・溶け込み",
+    "description": "integration（インテグレイション）の意味と使い方。異なる部分を一つにまとめる統合、社会への融合を表す名詞を解説。",
+    "keywords": ["integration 意味", "integration 使い方", "統合 英語", "social integration"],
+    "meanings": [
+      { "hinshi": "【名詞】統合・一体化", "note": "異なる要素・システム・部分を一つにまとめること。system integration（システム統合）。通常は不可算" },
+      { "hinshi": "【名詞】（社会への）融合・溶け込み", "note": "移民や少数派が社会に溶け込むこと。social integration" }
+    ],
+    "usages": [
+      { "title": "① システム・組織の統合", "desc": "一つにまとめる", "example_en": "The integration of the two companies took years.", "example_ja": "その2社の統合には何年もかかった。" },
+      { "title": "② 社会への融合", "desc": "移民の社会統合など", "example_en": "The program supports the integration of immigrants.", "example_ja": "その計画は移民の社会への融合を支援する。" }
+    ],
+    "warn": ["動詞は integrate（統合する・溶け込む）。反対は segregation（分離・隔離）／disintegration（崩壊）"],
+    "etym_note": "ラテン語 integrare（全体にする、integer＝完全な・欠けのない）に由来。『欠けを補って全体にする＝統合する』の意。integer（整数）と同語源。",
+    "etym_chain": [
+      { "node": "integer", "sub": "完全な・欠けのない", "era": "ラテン語" },
+      { "node": "integrare", "sub": "全体にする", "era": "ラテン語" },
+      { "node": "integration", "sub": "統合", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "economic integration", "ja": "経済統合" },
+      { "en": "social integration", "ja": "社会統合" },
+      { "en": "system integration", "ja": "システム統合" },
+      { "en": "racial integration", "ja": "人種の融合" },
+      { "en": "the integration of", "ja": "～の統合" },
+      { "en": "seamless integration", "ja": "シームレスな統合" }
+    ],
+    "related": [
+      { "en": "integrate", "ja": "統合する" },
+      { "en": "unification", "ja": "統一" },
+      { "en": "segregation", "ja": "分離・隔離" },
+      { "en": "assimilation", "ja": "同化" }
+    ],
+    "faq": [
+      { "q": "integration の反対は？", "a": "segregation（分離・隔離）や disintegration（崩壊・分解）です。" },
+      { "q": "動詞形は？", "a": "integrate（統合する・溶け込む）です。" }
+    ],
+    "quiz": [
+      { "q": "integration の意味は？", "A": "分離", "B": "統合・一体化／社会への融合", "C": "破壊", "D": "拒否", "correct": "B" },
+      { "q": "integration の反対語は？", "A": "segregation", "B": "innovation", "C": "invitation", "D": "irritation", "correct": "A" }
+    ]
+  },
+  {
+    "english": "intellectual",
+    "pron": "ˌɪntəˈlektʃuəl",
+    "kana": "インテレクチュアル",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 intellectus（理解・知性）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "知的な／知性の／（名）知識人・インテリ",
+    "description": "intellectual（インテレクチュアル）の意味と使い方。知性・理解に関する知的な（形容詞）、また知識人（名詞）を表す語を解説。",
+    "keywords": ["intellectual 意味", "intellectual 使い方", "知的 英語", "知識人 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】知的な・知性の", "note": "頭を使う、知性・理解に関する。intellectual property（知的財産）" },
+      { "hinshi": "【名詞】知識人・インテリ", "note": "学問や思想に深く関わる人。可算名詞" }
+    ],
+    "usages": [
+      { "title": "① 知的な活動", "desc": "頭を使う", "example_en": "Chess is an intellectual challenge.", "example_ja": "チェスは知的な挑戦だ。" },
+      { "title": "② 知識人（名詞）", "desc": "学者・思想家など", "example_en": "She is a respected intellectual.", "example_ja": "彼女は尊敬される知識人だ。" }
+    ],
+    "warn": ["intellectual property（知的財産）は頻出。名詞 intellect（知性）、intelligence（知能）と区別。intelligent（賢い）とは別の形容詞"],
+    "etym_note": "ラテン語 intellectus（理解・知性、intellegere＝理解する、inter＝間＋legere＝選ぶ）に由来。『物事を見分ける知性の』の意。",
+    "etym_chain": [
+      { "node": "intellegere", "sub": "理解する", "era": "ラテン語" },
+      { "node": "intellectus", "sub": "理解・知性", "era": "ラテン語" },
+      { "node": "intellectual", "sub": "知的な・知識人", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "intellectual property", "ja": "知的財産" },
+      { "en": "an intellectual challenge", "ja": "知的な挑戦" },
+      { "en": "intellectual curiosity", "ja": "知的好奇心" },
+      { "en": "a leading intellectual", "ja": "第一線の知識人" },
+      { "en": "intellectual ability", "ja": "知的能力" },
+      { "en": "an intellectual debate", "ja": "知的な議論" }
+    ],
+    "related": [
+      { "en": "intellect", "ja": "知性" },
+      { "en": "intelligent", "ja": "賢い" },
+      { "en": "cerebral", "ja": "理知的な" },
+      { "en": "scholar", "ja": "学者" }
+    ],
+    "faq": [
+      { "q": "intellectual と intelligent の違いは？", "a": "intellectual は『知的な（知性・学問に関する）／知識人』、intelligent は『賢い・頭がよい』です。" },
+      { "q": "intellectual property とは？", "a": "特許・著作権など、知的な創作物に関する権利『知的財産』のことです。" }
+    ],
+    "quiz": [
+      { "q": "intellectual の意味は？", "A": "肉体的な", "B": "知的な・知性の／知識人", "C": "感情的な", "D": "商業的な", "correct": "B" },
+      { "q": "intellectual property の意味は？", "A": "知的財産", "B": "不動産", "C": "個人資産", "D": "共有地", "correct": "A" }
+    ]
+  }
+]

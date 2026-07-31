@@ -1,0 +1,979 @@
+[
+  {
+    "english": "lark",
+    "pron": "lɑːrk",
+    "kana": "ラーク",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 lāwerce（ヒバリ）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "生物・日常"],
+    "meaning_main": "ヒバリ／（口語）浮かれ騒ぎ・ふざけ／早起きの人",
+    "description": "lark（ラーク）の意味と使い方。空高くさえずる鳥ヒバリ、また『ふざけ・浮かれ騒ぎ』や『早起きの人』を表す語を解説。",
+    "keywords": ["lark 意味", "lark 使い方", "ヒバリ 英語", "early bird lark"],
+    "meanings": [
+      { "hinshi": "【名詞】ヒバリ", "note": "空高く舞い上がりながら美しくさえずる小鳥。可算名詞" },
+      { "hinshi": "【名詞】（口語）浮かれ騒ぎ・ふざけ", "note": "for a lark（面白半分に・ふざけて）" },
+      { "hinshi": "【名詞】早起きの人", "note": "朝型の人。反対は night owl（夜型の人）" }
+    ],
+    "usages": [
+      { "title": "① 空でさえずる鳥", "desc": "早朝に美しく鳴く", "example_en": "A lark sang high above the field.", "example_ja": "ヒバリが野原の上空高くでさえずった。" },
+      { "title": "② for a lark（ふざけて）", "desc": "面白半分に", "example_en": "They did it just for a lark.", "example_ja": "彼らはただ面白半分にそれをやった。" }
+    ],
+    "warn": ["for a lark（ふざけて・面白半分に）は口語の慣用句。早起きの人 lark ↔ 夜型の人 night owl も覚えておくと便利"],
+    "etym_note": "古英語 lāwerce（ヒバリ）に由来。早朝に高くさえずることから『早起きの人』、陽気にさえずる様子から『浮かれ騒ぎ』の意も生まれた。",
+    "etym_chain": [
+      { "node": "lāwerce", "sub": "ヒバリ", "era": "古英語" },
+      { "node": "lark", "sub": "ヒバリ・ふざけ", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "for a lark", "ja": "ふざけて・面白半分に" },
+      { "en": "a lark sings", "ja": "ヒバリがさえずる" },
+      { "en": "up with the lark", "ja": "早起きして" },
+      { "en": "a bit of a lark", "ja": "ちょっとした遊び" },
+      { "en": "an early lark", "ja": "早起きの人" },
+      { "en": "what a lark", "ja": "なんて愉快な" }
+    ],
+    "related": [
+      { "en": "skylark", "ja": "ヒバリ" },
+      { "en": "night owl", "ja": "夜型の人" },
+      { "en": "prank", "ja": "いたずら" },
+      { "en": "fun", "ja": "楽しみ" }
+    ],
+    "faq": [
+      { "q": "for a lark とは？", "a": "『面白半分に・ふざけて』という意味の口語表現です。" },
+      { "q": "早起きの人の意味は？", "a": "はい。朝型の人を lark、夜型の人を night owl と言います。" }
+    ],
+    "quiz": [
+      { "q": "lark の意味の一つは？", "A": "ヒバリ", "B": "カラス", "C": "ワシ", "D": "フクロウ", "correct": "A" },
+      { "q": "for a lark の意味は？", "A": "面白半分に・ふざけて", "B": "まじめに", "C": "急いで", "D": "こっそり", "correct": "A" }
+    ]
+  },
+  {
+    "english": "lasting",
+    "pron": "ˈlɑːstɪŋ",
+    "kana": "ラスティング",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "last（続く）+ -ing",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "長続きする／永続的な／末永い",
+    "description": "lasting（ラスティング）の意味と使い方。長く続く、永続的な影響・関係などを表す形容詞を解説。",
+    "keywords": ["lasting 意味", "lasting 使い方", "長続き 英語", "lasting impression"],
+    "meanings": [
+      { "hinshi": "【形容詞】長続きする・永続的な", "note": "長い間続く、消えずに残る。影響・関係・平和などに使う" }
+    ],
+    "usages": [
+      { "title": "① 長く残る影響", "desc": "a lasting impression（強い印象）", "example_en": "The trip left a lasting impression on me.", "example_ja": "その旅行は私に強い（消えない）印象を残した。" },
+      { "title": "② 末永い関係・平和", "desc": "long-lasting とも", "example_en": "They built a lasting friendship.", "example_ja": "彼らは末永い友情を築いた。" }
+    ],
+    "warn": ["動詞は last（続く）。long-lasting（長持ちする）も頻出。反対は temporary / fleeting（一時的な・つかの間の）"],
+    "etym_note": "last（続く・持ちこたえる、古英語 lǣstan＝続く）に -ing がついた形容詞。『続いていく』の意。",
+    "etym_chain": [
+      { "node": "lǣstan", "sub": "続く", "era": "古英語" },
+      { "node": "last", "sub": "続く", "era": "中英語" },
+      { "node": "lasting", "sub": "長続きする", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "a lasting impression", "ja": "消えない印象" },
+      { "en": "a lasting impact", "ja": "永続的な影響" },
+      { "en": "lasting peace", "ja": "恒久的な平和" },
+      { "en": "a lasting relationship", "ja": "末永い関係" },
+      { "en": "long-lasting", "ja": "長持ちする" },
+      { "en": "leave a lasting mark", "ja": "消えない跡を残す" }
+    ],
+    "related": [
+      { "en": "last", "ja": "続く" },
+      { "en": "permanent", "ja": "永続的な" },
+      { "en": "enduring", "ja": "永続する" },
+      { "en": "temporary", "ja": "一時的な" }
+    ],
+    "faq": [
+      { "q": "lasting の反対は？", "a": "temporary（一時的な）や fleeting（つかの間の）です。" },
+      { "q": "a lasting impression とは？", "a": "『長く消えない強い印象』という意味の定番表現です。" }
+    ],
+    "quiz": [
+      { "q": "lasting の意味は？", "A": "一時的な", "B": "長続きする・永続的な", "C": "小さな", "D": "危険な", "correct": "B" },
+      { "q": "lasting の反対語は？", "A": "temporary", "B": "permanent", "C": "enduring", "D": "eternal", "correct": "A" }
+    ]
+  },
+  {
+    "english": "latch",
+    "pron": "lætʃ",
+    "kana": "ラッチ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 læccan（つかむ）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "日常・道具"],
+    "meaning_main": "掛け金／留め金／（動）掛け金をかける・しがみつく",
+    "description": "latch（ラッチ）の意味と使い方。ドアや門を閉める掛け金・留め金、また『しがみつく』の句動詞を表す語を解説。",
+    "keywords": ["latch 意味", "latch 使い方", "掛け金 英語", "latch onto"],
+    "meanings": [
+      { "hinshi": "【名詞】掛け金・留め金", "note": "ドア・門・窓を閉めておくための、持ち上げたり回したりする簡単な金具。可算名詞" },
+      { "hinshi": "【動詞】掛け金をかける／しがみつく", "note": "latch onto ～（～に飛びつく・しがみつく・執着する）" }
+    ],
+    "usages": [
+      { "title": "① 掛け金", "desc": "ドアを閉めておく金具", "example_en": "She lifted the latch and opened the gate.", "example_ja": "彼女は掛け金を上げて門を開けた。" },
+      { "title": "② latch onto（飛びつく・執着する）", "desc": "考え・人にしがみつく", "example_en": "The media latched onto the story.", "example_ja": "メディアはその話に飛びついた。" }
+    ],
+    "warn": ["latch onto ～（～に飛びつく・執着する）は句動詞。lock（鍵）より簡単な留め具。onto の綴りに注意"],
+    "etym_note": "古英語 læccan（つかむ・捕らえる）に由来。『つかんで留めるもの』の意。『しがみつく』の動詞義にもつながる。",
+    "etym_chain": [
+      { "node": "læccan", "sub": "つかむ", "era": "古英語" },
+      { "node": "latch", "sub": "掛け金・つかむ", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "lift the latch", "ja": "掛け金を上げる" },
+      { "en": "latch the door", "ja": "ドアに掛け金をかける" },
+      { "en": "latch onto", "ja": "～に飛びつく・執着する" },
+      { "en": "a door latch", "ja": "ドアの掛け金" },
+      { "en": "on the latch", "ja": "掛け金だけかけて（鍵はかけずに）" },
+      { "en": "a safety latch", "ja": "安全掛け金" }
+    ],
+    "related": [
+      { "en": "lock", "ja": "鍵" },
+      { "en": "bolt", "ja": "かんぬき" },
+      { "en": "catch", "ja": "留め金・つかむ" },
+      { "en": "clasp", "ja": "留め金" }
+    ],
+    "faq": [
+      { "q": "latch onto とは？", "a": "『～に飛びつく・しがみつく・執着する』という意味の句動詞です。" },
+      { "q": "lock との違いは？", "a": "lock は鍵でしっかり施錠するもの、latch は持ち上げたり回したりする簡単な留め金です。" }
+    ],
+    "quiz": [
+      { "q": "latch の意味は？", "A": "掛け金・留め金／しがみつく", "B": "窓ガラス", "C": "屋根", "D": "階段", "correct": "A" },
+      { "q": "latch onto の意味は？", "A": "～に飛びつく・執着する", "B": "～を捨てる", "C": "～を無視する", "D": "～を壊す", "correct": "A" }
+    ]
+  },
+  {
+    "english": "lateen",
+    "pron": "ləˈtiːn",
+    "kana": "ラティーン",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "フランス語 (voile) latine（ラテンの帆）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "航海・専門"],
+    "meaning_main": "大三角帆の／ラテンセイル（三角形の縦帆）",
+    "description": "lateen（ラティーン）の意味と使い方。地中海の帆船で使われた大きな三角形の帆、ラテンセイルを表す語を解説。",
+    "keywords": ["lateen 意味", "lateen 使い方", "三角帆 英語", "lateen sail"],
+    "meanings": [
+      { "hinshi": "【形容詞・名詞】大三角帆（の）", "note": "長い斜桁（しゃこう）に張った大きな三角形の帆（縦帆）。地中海やアラブの帆船で使われ、風上へ進みやすい。a lateen sail" }
+    ],
+    "usages": [
+      { "title": "① 三角形の帆", "desc": "地中海の帆船で", "example_en": "The dhow had a large lateen sail.", "example_ja": "そのダウ船は大きな三角帆を張っていた。" },
+      { "title": "② 風上に進める", "desc": "縦帆で操縦性が高い", "example_en": "Lateen sails allowed ships to sail closer to the wind.", "example_ja": "三角帆は船が風に近い角度で進むのを可能にした。" }
+    ],
+    "warn": ["『ラテンの（地中海の）帆』が語源で、Latin（ラテン）と同じ語根。四角い横帆(square sail)と対照的な三角の縦帆"],
+    "etym_note": "フランス語 (voile) latine（ラテンの帆＝地中海の帆）に由来。Latin（ラテン）と同語源で、地中海地域で使われた三角帆を指す。",
+    "etym_chain": [
+      { "node": "latine", "sub": "ラテンの・地中海の", "era": "フランス語" },
+      { "node": "lateen", "sub": "大三角帆の", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a lateen sail", "ja": "大三角帆" },
+      { "en": "a lateen rig", "ja": "ラテン帆装" },
+      { "en": "a lateen-rigged boat", "ja": "三角帆の船" },
+      { "en": "hoist the lateen", "ja": "三角帆を上げる" },
+      { "en": "a triangular lateen", "ja": "三角形の縦帆" },
+      { "en": "the lateen yard", "ja": "三角帆の斜桁" }
+    ],
+    "related": [
+      { "en": "sail", "ja": "帆" },
+      { "en": "mast", "ja": "帆柱" },
+      { "en": "dhow", "ja": "ダウ船" },
+      { "en": "rigging", "ja": "帆装・索具" }
+    ],
+    "faq": [
+      { "q": "lateen sail とは？", "a": "長い斜桁に張った大きな三角形の帆（縦帆）で、地中海やアラブの帆船で使われました。" },
+      { "q": "語源は？", "a": "フランス語『ラテンの（地中海の）帆』で、Latin と同語源です。" }
+    ],
+    "quiz": [
+      { "q": "lateen とは？", "A": "大きな三角形の帆", "B": "四角い旗", "C": "船の錨", "D": "オール", "correct": "A" },
+      { "q": "lateen の語源は？", "A": "ラテンの（地中海の）帆", "B": "北欧の言葉", "C": "日本語", "D": "中国語", "correct": "A" }
+    ]
+  },
+  {
+    "english": "latent",
+    "pron": "ˈleɪtənt",
+    "kana": "レイテント",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 latere（隠れている）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "論説・科学"],
+    "meaning_main": "潜在的な／表に出ていない／潜伏している",
+    "description": "latent（レイテント）の意味と使い方。表面には現れていないが内に潜んでいる潜在的なことを表す形容詞を解説。",
+    "keywords": ["latent 意味", "latent 使い方", "潜在的 英語", "latent talent"],
+    "meanings": [
+      { "hinshi": "【形容詞】潜在的な・表に出ていない", "note": "まだ現れていないが内に潜んでいて、条件がそろえば現れる可能性のある。反対は active / apparent（現れている）" }
+    ],
+    "usages": [
+      { "title": "① 潜在的な才能・能力", "desc": "まだ現れていない", "example_en": "The training brought out his latent talent.", "example_ja": "その訓練は彼の潜在的な才能を引き出した。" },
+      { "title": "② 潜伏している病気", "desc": "症状が出ていない", "example_en": "The virus can remain latent for years.", "example_ja": "そのウイルスは何年も潜伏することがある。" }
+    ],
+    "warn": ["反対は apparent / manifest（表面に現れた）。『隠れている（latere）』が語源。latent heat（潜熱）など科学でも使う"],
+    "etym_note": "ラテン語 latere（隠れている）に由来。『隠れて潜んでいる』の意。ギリシャ神話の忘却の川 Lethe とも関連する語根。",
+    "etym_chain": [
+      { "node": "latere", "sub": "隠れている", "era": "ラテン語" },
+      { "node": "latent", "sub": "潜在的な", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "latent talent", "ja": "潜在的な才能" },
+      { "en": "latent ability", "ja": "潜在能力" },
+      { "en": "remain latent", "ja": "潜伏したままである" },
+      { "en": "a latent threat", "ja": "潜在的な脅威" },
+      { "en": "latent heat", "ja": "潜熱" },
+      { "en": "latent demand", "ja": "潜在需要" }
+    ],
+    "related": [
+      { "en": "potential", "ja": "潜在的な" },
+      { "en": "hidden", "ja": "隠れた" },
+      { "en": "dormant", "ja": "休眠中の" },
+      { "en": "apparent", "ja": "明白な" }
+    ],
+    "faq": [
+      { "q": "latent の反対は？", "a": "apparent や manifest（表面に現れた・明白な）です。" },
+      { "q": "latent と potential の違いは？", "a": "ほぼ同義ですが、latent は『隠れて潜んでいる』、potential は『将来なりうる可能性がある』ことを強調します。" }
+    ],
+    "quiz": [
+      { "q": "latent の意味は？", "A": "表に現れた", "B": "潜在的な・表に出ていない", "C": "壊れた", "D": "明るい", "correct": "B" },
+      { "q": "latent talent の意味は？", "A": "潜在的な才能", "B": "失われた才能", "C": "有名な才能", "D": "偽りの才能", "correct": "A" }
+    ]
+  },
+  {
+    "english": "latte",
+    "pron": "ˈlɑːteɪ",
+    "kana": "ラテ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "イタリア語 caffè latte（ミルクコーヒー）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "食・飲み物"],
+    "meaning_main": "カフェラテ（エスプレッソにたっぷりのミルクを加えた飲み物）",
+    "description": "latte（ラテ）の意味と使い方。エスプレッソに温めたミルクをたっぷり加えたコーヒー飲料、カフェラテを表す名詞を解説。",
+    "keywords": ["latte 意味", "latte 使い方", "カフェラテ 英語", "latte 発音"],
+    "meanings": [
+      { "hinshi": "【名詞】カフェラテ", "note": "エスプレッソに温めたミルクをたっぷり注いだコーヒー飲料。イタリア語 caffè latte（コーヒーミルク）の短縮。可算名詞" }
+    ],
+    "usages": [
+      { "title": "① ミルク多めのコーヒー", "desc": "エスプレッソ＋温めたミルク", "example_en": "I'll have a large latte, please.", "example_ja": "ラージのカフェラテをください。" },
+      { "title": "② 味の種類も", "desc": "vanilla latte など", "example_en": "She ordered a vanilla latte.", "example_ja": "彼女はバニララテを注文した。" }
+    ],
+    "warn": ["イタリア語で latte は『牛乳』の意。英語で latte だけ注文するとミルクコーヒーになる。発音は[ˈlɑːteɪ]。cappuccino よりミルクが多い"],
+    "etym_note": "イタリア語 caffè latte（コーヒー牛乳）の後半 latte（牛乳）が英語で飲み物名になった。イタリア語では latte だけだと『牛乳』の意。",
+    "etym_chain": [
+      { "node": "latte", "sub": "牛乳", "era": "イタリア語" },
+      { "node": "latte", "sub": "カフェラテ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a caffè latte", "ja": "カフェラテ" },
+      { "en": "order a latte", "ja": "ラテを注文する" },
+      { "en": "a vanilla latte", "ja": "バニララテ" },
+      { "en": "a latte with oat milk", "ja": "オーツミルクのラテ" },
+      { "en": "a hot latte", "ja": "ホットラテ" },
+      { "en": "latte art", "ja": "ラテアート" }
+    ],
+    "related": [
+      { "en": "cappuccino", "ja": "カプチーノ" },
+      { "en": "espresso", "ja": "エスプレッソ" },
+      { "en": "coffee", "ja": "コーヒー" },
+      { "en": "milk", "ja": "牛乳" }
+    ],
+    "faq": [
+      { "q": "latte と cappuccino の違いは？", "a": "どちらもエスプレッソ＋ミルクですが、latte はミルクが多くまろやか、cappuccino は泡（フォーム）が多めです。" },
+      { "q": "イタリアで latte を頼むと？", "a": "イタリア語で latte は『牛乳』なので、牛乳が出てきます。カフェラテは caffè latte と言います。" }
+    ],
+    "quiz": [
+      { "q": "latte の意味は？", "A": "ミルク多めのコーヒー（カフェラテ）", "B": "紅茶", "C": "ジュース", "D": "炭酸水", "correct": "A" },
+      { "q": "イタリア語で latte の意味は？", "A": "牛乳", "B": "砂糖", "C": "氷", "D": "パン", "correct": "A" }
+    ]
+  },
+  {
+    "english": "launder",
+    "pron": "ˈlɔːndər",
+    "kana": "ローンダー",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 lavare（洗う）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "日常・法律"],
+    "meaning_main": "洗濯する／（不正な金を）洗浄する・マネーロンダリングする",
+    "description": "launder（ローンダー）の意味と使い方。衣類を洗濯する、また不正に得た金の出所を隠す『資金洗浄』を表す動詞を解説。",
+    "keywords": ["launder 意味", "launder 使い方", "洗濯 英語", "money laundering"],
+    "meanings": [
+      { "hinshi": "【動詞】洗濯する", "note": "衣類やシーツを洗ってきれいにする" },
+      { "hinshi": "【動詞】（不正な金を）洗浄する", "note": "犯罪などで得た金の出所を隠して合法に見せる。launder money（資金洗浄する）" }
+    ],
+    "usages": [
+      { "title": "① 洗濯する", "desc": "衣類を洗う", "example_en": "The hotel launders the sheets daily.", "example_ja": "そのホテルはシーツを毎日洗濯する。" },
+      { "title": "② 資金洗浄する", "desc": "launder money", "example_en": "He was accused of laundering money.", "example_ja": "彼は資金洗浄の罪で告発された。" }
+    ],
+    "warn": ["名詞は laundry（洗濯・洗濯物）。money laundering（資金洗浄・マネーロンダリング）は犯罪の頻出語。『汚れた金をきれいに見せる』比喩"],
+    "etym_note": "ラテン語 lavare（洗う）に由来する launder（洗濯する）から。『洗ってきれいにする』意が、不正な金を『きれいに見せる＝洗浄する』の比喩になった。lavatory と同語源。",
+    "etym_chain": [
+      { "node": "lavare", "sub": "洗う", "era": "ラテン語" },
+      { "node": "launder", "sub": "洗濯する", "era": "中英語" },
+      { "node": "launder", "sub": "資金洗浄する", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "launder money", "ja": "資金洗浄する" },
+      { "en": "launder clothes", "ja": "衣類を洗濯する" },
+      { "en": "money laundering", "ja": "マネーロンダリング" },
+      { "en": "launder the proceeds", "ja": "収益を洗浄する" },
+      { "en": "freshly laundered", "ja": "洗いたての" },
+      { "en": "launder illegal funds", "ja": "違法な資金を洗浄する" }
+    ],
+    "related": [
+      { "en": "laundry", "ja": "洗濯・洗濯物" },
+      { "en": "wash", "ja": "洗う" },
+      { "en": "clean", "ja": "きれいにする" },
+      { "en": "conceal", "ja": "隠す" }
+    ],
+    "faq": [
+      { "q": "money laundering とは？", "a": "犯罪などで得た金の出所を隠して合法に見せる『資金洗浄・マネーロンダリング』のことです。" },
+      { "q": "名詞形は？", "a": "laundry（洗濯・洗濯物）です。" }
+    ],
+    "quiz": [
+      { "q": "launder の意味は？", "A": "洗濯する／不正な金を洗浄する", "B": "貯金する", "C": "投資する", "D": "寄付する", "correct": "A" },
+      { "q": "launder money の意味は？", "A": "資金洗浄する", "B": "お金を数える", "C": "お金を貯める", "D": "お金を返す", "correct": "A" }
+    ]
+  },
+  {
+    "english": "lavishly",
+    "pron": "ˈlævɪʃli",
+    "kana": "ラヴィシュリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "lavish（惜しみない）+ -ly",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文語"],
+    "meaning_main": "惜しみなく／ぜいたくに／豪華に",
+    "description": "lavishly（ラヴィシュリー）の意味と使い方。惜しみなく大量に、ぜいたく・豪華にを表す副詞を解説。",
+    "keywords": ["lavishly 意味", "lavishly 使い方", "惜しみなく 英語", "豪華に 英語"],
+    "meanings": [
+      { "hinshi": "【副詞】惜しみなく・ぜいたくに・豪華に", "note": "気前よく大量に、または費用をかけて豪華に。ほめにも批判にも使う" }
+    ],
+    "usages": [
+      { "title": "① 惜しみなく与える", "desc": "たっぷりと", "example_en": "She spent lavishly on gifts.", "example_ja": "彼女は贈り物に惜しみなくお金を使った。" },
+      { "title": "② 豪華に飾る・もてなす", "desc": "ぜいたくに", "example_en": "The hall was lavishly decorated.", "example_ja": "そのホールは豪華に飾りつけられていた。" }
+    ],
+    "warn": ["形容詞は lavish（惜しみない・豪華な）、動詞は lavish（惜しみなく与える）。frugally / sparingly（つましく・控えめに）の反対"],
+    "etym_note": "lavish（惜しみない、古フランス語 lavasse＝豪雨・大量から）に副詞化の -ly がついた語。『あふれるほど大量に』の意。",
+    "etym_chain": [
+      { "node": "lavasse", "sub": "豪雨・大量", "era": "古フランス語" },
+      { "node": "lavish", "sub": "惜しみない", "era": "中英語" },
+      { "node": "lavishly", "sub": "惜しみなく", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "spend lavishly", "ja": "惜しみなく使う" },
+      { "en": "lavishly decorated", "ja": "豪華に飾られた" },
+      { "en": "lavishly furnished", "ja": "ぜいたくに家具を備えた" },
+      { "en": "entertain lavishly", "ja": "豪華にもてなす" },
+      { "en": "praise lavishly", "ja": "手放しでほめる" },
+      { "en": "lavishly illustrated", "ja": "豪華に図版を添えた" }
+    ],
+    "related": [
+      { "en": "lavish", "ja": "惜しみない・豪華な" },
+      { "en": "generously", "ja": "気前よく" },
+      { "en": "extravagantly", "ja": "ぜいたくに" },
+      { "en": "sparingly", "ja": "控えめに" }
+    ],
+    "faq": [
+      { "q": "lavishly の反対は？", "a": "sparingly や frugally（控えめに・つましく）です。" },
+      { "q": "形容詞形は？", "a": "lavish（惜しみない・豪華な）です。" }
+    ],
+    "quiz": [
+      { "q": "lavishly の意味は？", "A": "控えめに", "B": "惜しみなく・豪華に", "C": "静かに", "D": "急いで", "correct": "B" },
+      { "q": "lavishly の反対語は？", "A": "sparingly", "B": "generously", "C": "richly", "D": "freely", "correct": "A" }
+    ]
+  },
+  {
+    "english": "leading",
+    "pron": "ˈliːdɪŋ",
+    "kana": "リーディング",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "lead（導く）+ -ing",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "頻出語"],
+    "meaning_main": "主要な／第一線の／先頭の・主導的な",
+    "description": "leading（リーディング）の意味と使い方。最も重要で第一線の、先頭に立つ主導的なを表す形容詞を解説。",
+    "keywords": ["leading 意味", "leading 使い方", "主要な 英語", "leading role"],
+    "meanings": [
+      { "hinshi": "【形容詞】主要な・第一線の・主導的な", "note": "最も重要・有力で、先頭に立つ。a leading role（主役）、a leading company（大手企業）" }
+    ],
+    "usages": [
+      { "title": "① 第一線の・大手の", "desc": "最も有力な", "example_en": "She works for a leading tech company.", "example_ja": "彼女は大手のIT企業で働いている。" },
+      { "title": "② 主役・主要な", "desc": "a leading role（主役）", "example_en": "He played the leading role in the film.", "example_ja": "彼はその映画で主役を演じた。" }
+    ],
+    "warn": ["a leading question（誘導尋問）は『答えを誘導する質問』で別の意味。動詞 lead（導く）の現在分詞由来"],
+    "etym_note": "lead（導く・先頭に立つ、古英語 lǣdan）に -ing がついた形容詞。『導く・先頭の』の意。",
+    "etym_chain": [
+      { "node": "lǣdan", "sub": "導く", "era": "古英語" },
+      { "node": "lead", "sub": "導く", "era": "中英語" },
+      { "node": "leading", "sub": "主要な・先頭の", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a leading role", "ja": "主役" },
+      { "en": "a leading company", "ja": "大手企業" },
+      { "en": "a leading expert", "ja": "第一線の専門家" },
+      { "en": "a leading cause", "ja": "主要な原因" },
+      { "en": "a leading question", "ja": "誘導尋問" },
+      { "en": "the leading edge", "ja": "最先端" }
+    ],
+    "related": [
+      { "en": "lead", "ja": "導く" },
+      { "en": "top", "ja": "最上位の" },
+      { "en": "foremost", "ja": "第一の" },
+      { "en": "principal", "ja": "主要な" }
+    ],
+    "faq": [
+      { "q": "a leading role とは？", "a": "劇や映画の『主役』のことです。" },
+      { "q": "a leading question とは？", "a": "答えをある方向へ誘導する質問『誘導尋問』のことです。" }
+    ],
+    "quiz": [
+      { "q": "leading の意味は？", "A": "主要な・第一線の・先頭の", "B": "遅れた", "C": "小さな", "D": "古い", "correct": "A" },
+      { "q": "a leading role の意味は？", "A": "主役", "B": "脇役", "C": "観客", "D": "監督", "correct": "A" }
+    ]
+  },
+  {
+    "english": "lectern",
+    "pron": "ˈlektərn",
+    "kana": "レクターン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 legere（読む）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "日常・会議"],
+    "meaning_main": "演台／書見台（立って原稿を置く台）",
+    "description": "lectern（レクターン）の意味と使い方。講演者や司会者が立って原稿を置く傾いた台、演台・書見台を表す名詞を解説。",
+    "keywords": ["lectern 意味", "lectern 使い方", "演台 英語", "書見台 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】演台・書見台", "note": "講演者・司会者・聖職者が立って、原稿や本を置いて読むための、上面が傾いた台。可算名詞" }
+    ],
+    "usages": [
+      { "title": "① 立って話すための台", "desc": "原稿を置く", "example_en": "The speaker stood at the lectern.", "example_ja": "講演者は演台に立った。" },
+      { "title": "② 教会の書見台にも", "desc": "聖書を置く台", "example_en": "The priest read from the lectern.", "example_ja": "司祭は書見台から朗読した。" }
+    ],
+    "warn": ["podium（演壇＝立つ台）や pulpit（説教壇）と近いが、lectern は『原稿を置く傾いた台』。『読む(legere)ための台』が語源"],
+    "etym_note": "ラテン語 legere（読む）に由来する中世ラテン語 lectrinum から。『読むための台』の意。lecture, lesson と同語源。",
+    "etym_chain": [
+      { "node": "legere", "sub": "読む", "era": "ラテン語" },
+      { "node": "lectrinum", "sub": "書見台", "era": "中世ラテン語" },
+      { "node": "lectern", "sub": "演台・書見台", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "stand at the lectern", "ja": "演台に立つ" },
+      { "en": "step up to the lectern", "ja": "演台に進み出る" },
+      { "en": "read from the lectern", "ja": "書見台から読む" },
+      { "en": "behind the lectern", "ja": "演台の後ろで" },
+      { "en": "grip the lectern", "ja": "演台をつかむ" },
+      { "en": "a wooden lectern", "ja": "木の書見台" }
+    ],
+    "related": [
+      { "en": "podium", "ja": "演壇" },
+      { "en": "pulpit", "ja": "説教壇" },
+      { "en": "stand", "ja": "台" },
+      { "en": "rostrum", "ja": "演壇" }
+    ],
+    "faq": [
+      { "q": "lectern と podium の違いは？", "a": "lectern は原稿を置く傾いた台、podium は話し手が立つための一段高い台（演壇）です。" },
+      { "q": "語源は？", "a": "ラテン語 legere（読む）で、『読むための台』の意です。" }
+    ],
+    "quiz": [
+      { "q": "lectern の意味は？", "A": "演台・書見台（原稿を置く傾いた台）", "B": "椅子", "C": "黒板", "D": "スクリーン", "correct": "A" },
+      { "q": "lectern の語源の意味は？", "A": "読む", "B": "立つ", "C": "書く", "D": "話す", "correct": "A" }
+    ]
+  },
+  {
+    "english": "leek",
+    "pron": "liːk",
+    "kana": "リーク",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 lēac（ネギ類）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "食・野菜"],
+    "meaning_main": "リーキ（西洋ネギ。長ネギに似た野菜）",
+    "description": "leek（リーク）の意味と使い方。長ネギに似た、太くて白い部分を食べる西洋の野菜リーキを表す名詞を解説。",
+    "keywords": ["leek 意味", "leek 使い方", "リーキ 英語", "西洋ネギ 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】リーキ・西洋ネギ", "note": "タマネギやニンニクの仲間で、長ネギに似た太くて白い茎を食べる野菜。スープなどに使う。可算名詞" }
+    ],
+    "usages": [
+      { "title": "① スープの野菜", "desc": "ポタージュなどに", "example_en": "This soup is made with potatoes and leeks.", "example_ja": "このスープはジャガイモとリーキで作られている。" },
+      { "title": "② ウェールズの象徴", "desc": "ウェールズの国花的シンボル", "example_en": "The leek is a national symbol of Wales.", "example_ja": "リーキはウェールズの国のシンボルだ。" }
+    ],
+    "warn": ["leak（漏れる・漏洩）と同音[liːk]だが別語。onion（タマネギ）、garlic（ニンニク）と同じネギ属の野菜"],
+    "etym_note": "古英語 lēac（ネギ類）に由来。garlic（garleac＝槍ネギ）の -lic もこの lēac から。ネギ属の野菜を表す古い語。",
+    "etym_chain": [
+      { "node": "lēac", "sub": "ネギ類", "era": "古英語" },
+      { "node": "leek", "sub": "リーキ", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "potato and leek soup", "ja": "ジャガイモとリーキのスープ" },
+      { "en": "chop the leeks", "ja": "リーキを刻む" },
+      { "en": "a bunch of leeks", "ja": "リーキ一束" },
+      { "en": "leeks and onions", "ja": "リーキとタマネギ" },
+      { "en": "braised leeks", "ja": "煮込んだリーキ" },
+      { "en": "the white part of the leek", "ja": "リーキの白い部分" }
+    ],
+    "related": [
+      { "en": "onion", "ja": "タマネギ" },
+      { "en": "garlic", "ja": "ニンニク" },
+      { "en": "scallion", "ja": "青ネギ" },
+      { "en": "vegetable", "ja": "野菜" }
+    ],
+    "faq": [
+      { "q": "leek とは？", "a": "長ネギに似た、太くて白い茎を食べる西洋の野菜（リーキ）です。ネギ属です。" },
+      { "q": "leak と同じ発音？", "a": "はい、どちらも[liːk]ですが、leek は野菜、leak は『漏れる・漏洩』で別の語です。" }
+    ],
+    "quiz": [
+      { "q": "leek の意味は？", "A": "西洋ネギ（リーキ）", "B": "キノコ", "C": "豆", "D": "果物", "correct": "A" },
+      { "q": "leek と同音の語は？", "A": "leak（漏れる）", "B": "lake", "C": "lick", "D": "lock", "correct": "A" }
+    ]
+  },
+  {
+    "english": "lei",
+    "pron": "leɪ",
+    "kana": "レイ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ハワイ語 lei（花輪）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文化・外来語"],
+    "meaning_main": "レイ（ハワイの花輪。首にかける歓迎の飾り）",
+    "description": "lei（レイ）の意味と使い方。ハワイで歓迎や祝福のために首にかける花や葉の輪、レイを表す名詞を解説。",
+    "keywords": ["lei 意味", "lei 使い方", "レイ 花輪 英語", "ハワイ 花輪"],
+    "meanings": [
+      { "hinshi": "【名詞】レイ（花輪）", "note": "ハワイで、花や葉・貝などをつないで作り、歓迎・祝福・愛情を表して首にかける輪。可算名詞（複数は leis）。発音は[leɪ]" }
+    ],
+    "usages": [
+      { "title": "① 歓迎の花輪", "desc": "首にかける", "example_en": "She was greeted with a flower lei at the airport.", "example_ja": "彼女は空港で花のレイで迎えられた。" },
+      { "title": "② 祝福・愛情の象徴", "desc": "卒業・結婚などにも", "example_en": "Graduates often receive leis.", "example_ja": "卒業生はよくレイを受け取る。" }
+    ],
+    "warn": ["ハワイ語由来。発音は[leɪ]（レイ）。複数形は leis。lay（横たえる）や lie とは別語"],
+    "etym_note": "ハワイ語 lei（花輪・首飾り）に由来。ハワイ文化の象徴として英語に取り入れられた。",
+    "etym_chain": [
+      { "node": "lei", "sub": "花輪", "era": "ハワイ語" },
+      { "node": "lei", "sub": "レイ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a flower lei", "ja": "花のレイ" },
+      { "en": "wear a lei", "ja": "レイをかける" },
+      { "en": "give someone a lei", "ja": "人にレイをかける" },
+      { "en": "a lei of orchids", "ja": "ランのレイ" },
+      { "en": "a welcome lei", "ja": "歓迎のレイ" },
+      { "en": "a shell lei", "ja": "貝のレイ" }
+    ],
+    "related": [
+      { "en": "garland", "ja": "花輪" },
+      { "en": "flower", "ja": "花" },
+      { "en": "hawaii", "ja": "ハワイ" },
+      { "en": "necklace", "ja": "首飾り" }
+    ],
+    "faq": [
+      { "q": "lei とは？", "a": "ハワイで歓迎や祝福のために首にかける、花や葉でできた輪（花輪）です。" },
+      { "q": "発音は？", "a": "[leɪ]（レイ）です。複数形は leis です。" }
+    ],
+    "quiz": [
+      { "q": "lei の意味は？", "A": "ハワイの花輪（首にかける飾り）", "B": "ハワイの踊り", "C": "ハワイの料理", "D": "ハワイの楽器", "correct": "A" },
+      { "q": "lei はどの言語由来？", "A": "ハワイ語", "B": "スペイン語", "C": "日本語", "D": "ラテン語", "correct": "A" }
+    ]
+  },
+  {
+    "english": "leotard",
+    "pron": "ˈliːətɑːrd",
+    "kana": "レオタード",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "曲芸師 Jules Léotard の名から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "衣服・スポーツ"],
+    "meaning_main": "レオタード（体にぴったりした運動・演技用の衣服）",
+    "description": "leotard（レオタード）の意味と使い方。バレエや体操などで着る、体にぴったりフィットする伸縮性のある衣服を表す名詞を解説。",
+    "keywords": ["leotard 意味", "leotard 使い方", "レオタード 英語", "体操 衣装"],
+    "meanings": [
+      { "hinshi": "【名詞】レオタード", "note": "バレエ・体操・ダンスなどで着る、胴と股をぴったり覆う伸縮性のある一体型の衣服。可算名詞" }
+    ],
+    "usages": [
+      { "title": "① 体にぴったりの衣服", "desc": "バレエ・体操で", "example_en": "The gymnast wore a sparkly leotard.", "example_ja": "その体操選手はきらきらしたレオタードを着ていた。" },
+      { "title": "② 動きやすい演技着", "desc": "伸縮性がある", "example_en": "Dancers often practice in leotards.", "example_ja": "ダンサーはよくレオタードで練習する。" }
+    ],
+    "warn": ["19世紀の空中曲芸師 Jules Léotard の名にちなむ（人名由来）。tights（タイツ）とセットで着ることが多い"],
+    "etym_note": "19世紀フランスの空中ブランコ曲芸師 Jules Léotard が着ていた体にぴったりの衣装にちなみ、その名から命名された。",
+    "etym_chain": [
+      { "node": "Léotard", "sub": "曲芸師の名", "era": "19世紀" },
+      { "node": "leotard", "sub": "レオタード", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "wear a leotard", "ja": "レオタードを着る" },
+      { "en": "a gymnastics leotard", "ja": "体操用レオタード" },
+      { "en": "a black leotard", "ja": "黒いレオタード" },
+      { "en": "a dance leotard", "ja": "ダンス用レオタード" },
+      { "en": "a sparkly leotard", "ja": "きらきらしたレオタード" },
+      { "en": "a leotard and tights", "ja": "レオタードとタイツ" }
+    ],
+    "related": [
+      { "en": "tights", "ja": "タイツ" },
+      { "en": "gymnastics", "ja": "体操" },
+      { "en": "ballet", "ja": "バレエ" },
+      { "en": "bodysuit", "ja": "ボディスーツ" }
+    ],
+    "faq": [
+      { "q": "leotard とは？", "a": "バレエや体操で着る、体にぴったりフィットする伸縮性のある一体型の衣服です。" },
+      { "q": "名前の由来は？", "a": "19世紀の空中曲芸師 Jules Léotard の名にちなみます。" }
+    ],
+    "quiz": [
+      { "q": "leotard の意味は？", "A": "体にぴったりした運動・演技用の衣服", "B": "分厚いコート", "C": "帽子", "D": "靴", "correct": "A" },
+      { "q": "leotard の名前の由来は？", "A": "曲芸師の名前", "B": "地名", "C": "動物の名", "D": "ラテン語の数字", "correct": "A" }
+    ]
+  },
+  {
+    "english": "lick",
+    "pron": "lɪk",
+    "kana": "リック",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古英語 liccian（なめる）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "日常語"],
+    "meaning_main": "なめる／ひとなめ／（口語）打ち負かす",
+    "description": "lick（リック）の意味と使い方。舌でなめる動作、ひとなめの量、また口語の『打ち負かす』を表す語を解説。",
+    "keywords": ["lick 意味", "lick 使い方", "なめる 英語", "lick 例文"],
+    "meanings": [
+      { "hinshi": "【動詞】なめる", "note": "舌で表面をなでる。アイスや切手をなめるなど" },
+      { "hinshi": "【名詞】ひとなめ", "note": "have a lick（ひとなめする）" },
+      { "hinshi": "【動詞】（口語）打ち負かす", "note": "相手を打ち負かす・克服する。くだけた言い方" }
+    ],
+    "usages": [
+      { "title": "① 舌でなめる", "desc": "アイス・切手など", "example_en": "The dog licked my hand.", "example_ja": "犬が私の手をなめた。" },
+      { "title": "② lick one's lips（舌なめずりする）", "desc": "おいしそうに・期待して", "example_en": "He licked his lips at the sight of the cake.", "example_ja": "彼はケーキを見て舌なめずりした。" }
+    ],
+    "warn": ["lick one's wounds（傷をいやす・立ち直ろうとする）、lick one's lips（舌なめずりする）など慣用句がある"],
+    "etym_note": "古英語 liccian（なめる）に由来。ゲルマン系の古い語で、舌でなめる動作を表す。",
+    "etym_chain": [
+      { "node": "liccian", "sub": "なめる", "era": "古英語" },
+      { "node": "lick", "sub": "なめる", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "lick an ice cream", "ja": "アイスをなめる" },
+      { "en": "lick one's lips", "ja": "舌なめずりする" },
+      { "en": "lick one's wounds", "ja": "傷をいやす・立ち直ろうとする" },
+      { "en": "have a lick", "ja": "ひとなめする" },
+      { "en": "a lick of paint", "ja": "軽くひと塗り" },
+      { "en": "lick clean", "ja": "きれいになめる" }
+    ],
+    "related": [
+      { "en": "taste", "ja": "味わう" },
+      { "en": "tongue", "ja": "舌" },
+      { "en": "lap", "ja": "（動物が）ぴちゃぴちゃなめる" },
+      { "en": "swallow", "ja": "飲み込む" }
+    ],
+    "faq": [
+      { "q": "lick one's wounds とは？", "a": "『傷をいやす・（敗北などから）立ち直ろうとする』という慣用句です。" },
+      { "q": "a lick of paint とは？", "a": "『軽くひと塗りのペンキ』という意味の表現です。" }
+    ],
+    "quiz": [
+      { "q": "lick の意味は？", "A": "なめる", "B": "つかむ", "C": "投げる", "D": "折る", "correct": "A" },
+      { "q": "lick one's lips の意味は？", "A": "舌なめずりする", "B": "口を閉じる", "C": "せきをする", "D": "あくびをする", "correct": "A" }
+    ]
+  },
+  {
+    "english": "lifeline",
+    "pron": "ˈlaɪflaɪn",
+    "kana": "ライフライン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "life（命）+ line（綱）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "社会・比喩"],
+    "meaning_main": "命綱／（比喩）頼みの綱・生命線",
+    "description": "lifeline（ライフライン）の意味と使い方。命を守る綱、また比喩で『頼みの綱・生命線』を表す名詞を解説。",
+    "keywords": ["lifeline 意味", "lifeline 使い方", "命綱 英語", "頼みの綱 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】命綱", "note": "溺れる人や高所で作業する人を守るための綱" },
+      { "hinshi": "【名詞】（比喩）頼みの綱・生命線", "note": "困難な状況で唯一の頼り・支えとなるもの。a lifeline to ～" }
+    ],
+    "usages": [
+      { "title": "① 物理的な命綱", "desc": "身を守る綱", "example_en": "The sailor clipped on his lifeline.", "example_ja": "船員は命綱を体に留めた。" },
+      { "title": "② 頼みの綱（比喩）", "desc": "唯一の支え", "example_en": "The charity is a lifeline for homeless people.", "example_ja": "その慈善団体はホームレスの人々にとって頼みの綱だ。" }
+    ],
+    "warn": ["日本語の『ライフライン（電気・水道など生活基盤）』は和製的な使い方。英語では utilities や infrastructure を使うことが多い"],
+    "etym_note": "life（命）と line（綱・線）の複合。『命を守る綱』が原義で、比喩的に『唯一の頼り・生命線』の意になった。",
+    "etym_chain": [
+      { "node": "life + line", "sub": "命の綱", "era": "近代英語" },
+      { "node": "lifeline", "sub": "命綱・頼みの綱", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a lifeline to", "ja": "～への頼みの綱" },
+      { "en": "throw a lifeline", "ja": "救いの手を差し伸べる" },
+      { "en": "a vital lifeline", "ja": "重要な生命線" },
+      { "en": "the only lifeline", "ja": "唯一の頼みの綱" },
+      { "en": "an economic lifeline", "ja": "経済的な生命線" },
+      { "en": "cut the lifeline", "ja": "命綱を断つ" }
+    ],
+    "related": [
+      { "en": "rope", "ja": "綱・ロープ" },
+      { "en": "support", "ja": "支え" },
+      { "en": "salvation", "ja": "救い" },
+      { "en": "rescue", "ja": "救助" }
+    ],
+    "faq": [
+      { "q": "lifeline の比喩的な意味は？", "a": "困難な状況で唯一の頼り・支えとなるもの『頼みの綱・生命線』です。" },
+      { "q": "日本語の『ライフライン』と同じ？", "a": "電気・水道などの生活基盤の意味は和製的です。英語ではその意味は utilities などを使います。" }
+    ],
+    "quiz": [
+      { "q": "lifeline の意味は？", "A": "命綱／頼みの綱・生命線", "B": "電話線", "C": "国境線", "D": "スタートライン", "correct": "A" },
+      { "q": "throw a lifeline の意味は？", "A": "救いの手を差し伸べる", "B": "見捨てる", "C": "無視する", "D": "叱る", "correct": "A" }
+    ]
+  },
+  {
+    "english": "limitation",
+    "pron": "ˌlɪmɪˈteɪʃən",
+    "kana": "リミテイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "limit（制限）+ -ation",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "制限／限界／（能力などの）限度",
+    "description": "limitation（リミテイション）の意味と使い方。制限・限界、また能力や物事の限度を表す名詞を解説。",
+    "keywords": ["limitation 意味", "limitation 使い方", "制限 英語", "限界 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】制限・限界・限度", "note": "できることや量を制限すること、またその限界。しばしば複数形 limitations で『（能力などの）限界』" }
+    ],
+    "usages": [
+      { "title": "① 制限・制約", "desc": "できることの制限", "example_en": "There are legal limitations on advertising.", "example_ja": "広告には法的な制限がある。" },
+      { "title": "② 能力の限界", "desc": "know one's limitations", "example_en": "It's important to know your own limitations.", "example_ja": "自分の限界を知ることが大切だ。" }
+    ],
+    "warn": ["動詞は limit（制限する）。know one's limitations（自分の限界を知る）は頻出。restriction（規制）と近い"],
+    "etym_note": "limit（制限、ラテン語 limes＝境界）に -ation がついた語。『境界を設けること・限界』の意。",
+    "etym_chain": [
+      { "node": "limes", "sub": "境界", "era": "ラテン語" },
+      { "node": "limit", "sub": "制限", "era": "中英語" },
+      { "node": "limitation", "sub": "制限・限界", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "know one's limitations", "ja": "自分の限界を知る" },
+      { "en": "legal limitations", "ja": "法的な制限" },
+      { "en": "a limitation on", "ja": "～に対する制限" },
+      { "en": "physical limitations", "ja": "身体的な限界" },
+      { "en": "impose limitations", "ja": "制限を課す" },
+      { "en": "overcome limitations", "ja": "限界を乗り越える" }
+    ],
+    "related": [
+      { "en": "limit", "ja": "制限・限界" },
+      { "en": "restriction", "ja": "規制" },
+      { "en": "constraint", "ja": "制約" },
+      { "en": "boundary", "ja": "境界" }
+    ],
+    "faq": [
+      { "q": "limitation の動詞形は？", "a": "limit（制限する）です。" },
+      { "q": "know one's limitations とは？", "a": "『自分の能力の限界を知る（わきまえる）』という意味です。" }
+    ],
+    "quiz": [
+      { "q": "limitation の意味は？", "A": "制限・限界・限度", "B": "拡大", "C": "自由", "D": "増加", "correct": "A" },
+      { "q": "limitation の動詞形は？", "A": "limit", "B": "linger", "C": "listen", "D": "link", "correct": "A" }
+    ]
+  },
+  {
+    "english": "limitless",
+    "pron": "ˈlɪmɪtləs",
+    "kana": "リミトレス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "limit（制限）+ -less（～のない）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "限りない／無限の／際限のない",
+    "description": "limitless（リミトレス）の意味と使い方。限界がなく無限に続くことを表す形容詞を解説。反対語 limited も。",
+    "keywords": ["limitless 意味", "limitless 使い方", "無限 英語", "limitless limited"],
+    "meanings": [
+      { "hinshi": "【形容詞】限りない・無限の", "note": "限界や制限がない。可能性・エネルギー・空間などに使う。反対は limited（限られた）" }
+    ],
+    "usages": [
+      { "title": "① 無限の可能性", "desc": "限界がない", "example_en": "The possibilities are limitless.", "example_ja": "可能性は無限だ。" },
+      { "title": "② 際限のないエネルギー", "desc": "尽きない", "example_en": "The child seemed to have limitless energy.", "example_ja": "その子は際限のないエネルギーを持っているようだった。" }
+    ],
+    "warn": ["反対は limited（限られた）。-less は『～のない』を表す接尾辞。infinite（無限の）、boundless（果てしない）と近い"],
+    "etym_note": "limit（制限）に『～のない』の -less がついた語。『制限のない』の意。",
+    "etym_chain": [
+      { "node": "limes", "sub": "境界", "era": "ラテン語" },
+      { "node": "limit", "sub": "制限", "era": "中英語" },
+      { "node": "limitless", "sub": "限りない", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "limitless possibilities", "ja": "無限の可能性" },
+      { "en": "limitless energy", "ja": "際限のないエネルギー" },
+      { "en": "almost limitless", "ja": "ほぼ無限の" },
+      { "en": "limitless potential", "ja": "限りない潜在力" },
+      { "en": "seem limitless", "ja": "無限に思える" },
+      { "en": "limitless resources", "ja": "尽きない資源" }
+    ],
+    "related": [
+      { "en": "limited", "ja": "限られた" },
+      { "en": "infinite", "ja": "無限の" },
+      { "en": "boundless", "ja": "果てしない" },
+      { "en": "endless", "ja": "終わりのない" }
+    ],
+    "faq": [
+      { "q": "limitless の反対は？", "a": "limited（限られた）です。" },
+      { "q": "-less の意味は？", "a": "『～のない』を表す接尾辞です（endless＝終わりのない）。" }
+    ],
+    "quiz": [
+      { "q": "limitless の意味は？", "A": "限られた", "B": "限りない・無限の", "C": "小さな", "D": "危険な", "correct": "B" },
+      { "q": "limitless の反対語は？", "A": "limited", "B": "limitation", "C": "liberal", "D": "literal", "correct": "A" }
+    ]
+  },
+  {
+    "english": "lineage",
+    "pron": "ˈlɪniɪdʒ",
+    "kana": "リニッジ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 linea（線）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文語・歴史"],
+    "meaning_main": "血統／家系／系譜",
+    "description": "lineage（リニッジ）の意味と使い方。先祖から続く血統・家系・系譜を表す名詞を解説。",
+    "keywords": ["lineage 意味", "lineage 使い方", "血統 英語", "家系 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】血統・家系・系譜", "note": "ある人・集団が受け継いできた先祖からの系統。生物や物事の由来の系統にも使う。可算・不可算どちらも" }
+    ],
+    "usages": [
+      { "title": "① 先祖からの血統", "desc": "家系・系譜", "example_en": "She can trace her lineage back to a medieval king.", "example_ja": "彼女は自分の家系を中世の王までたどれる。" },
+      { "title": "② 由来の系統", "desc": "思想・種などの系統にも", "example_en": "The breed has a long lineage.", "example_ja": "その品種は長い系統を持つ。" }
+    ],
+    "warn": ["『線(linea)』が語源で、先祖から続く『線＝系統』の意。ancestry（先祖・血統）、descent（家系）と近い"],
+    "etym_note": "ラテン語 linea（線）に由来する古フランス語 lignage から。『先祖から続く線＝系統』の意。line, linear と同語源。",
+    "etym_chain": [
+      { "node": "linea", "sub": "線", "era": "ラテン語" },
+      { "node": "lignage", "sub": "家系", "era": "古フランス語" },
+      { "node": "lineage", "sub": "血統・家系", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "trace one's lineage", "ja": "家系をたどる" },
+      { "en": "a noble lineage", "ja": "高貴な血統" },
+      { "en": "a long lineage", "ja": "長い系譜" },
+      { "en": "of royal lineage", "ja": "王家の血筋の" },
+      { "en": "an ancient lineage", "ja": "古い家系" },
+      { "en": "the lineage of", "ja": "～の系統" }
+    ],
+    "related": [
+      { "en": "ancestry", "ja": "先祖・血統" },
+      { "en": "descent", "ja": "家系・血統" },
+      { "en": "pedigree", "ja": "血統（書）" },
+      { "en": "heritage", "ja": "遺産・受け継いだもの" }
+    ],
+    "faq": [
+      { "q": "lineage とは？", "a": "先祖から続く血統・家系・系譜のことです。生物や物事の由来の系統にも使います。" },
+      { "q": "ancestry との違いは？", "a": "ほぼ同義ですが、lineage は『続いてきた線（系統）』、ancestry は『先祖（の出自）』を強調します。" }
+    ],
+    "quiz": [
+      { "q": "lineage の意味は？", "A": "血統・家系・系譜", "B": "距離", "C": "重さ", "D": "速さ", "correct": "A" },
+      { "q": "lineage の語源の意味は？", "A": "線", "B": "血", "C": "家", "D": "王", "correct": "A" }
+    ]
+  },
+  {
+    "english": "linnet",
+    "pron": "ˈlɪnɪt",
+    "kana": "リネット",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 linum（亜麻）→ 亜麻の種を食べる鳥",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "生物・鳥"],
+    "meaning_main": "ムネアカヒワ（さえずりの美しい小鳥）",
+    "description": "linnet（リネット）の意味と使い方。ヨーロッパに広くすむ、美しくさえずるフィンチ（アトリ科）の小鳥ムネアカヒワを表す名詞を解説。",
+    "keywords": ["linnet 意味", "linnet 使い方", "ムネアカヒワ 英語", "linnet 鳥"],
+    "meanings": [
+      { "hinshi": "【名詞】ムネアカヒワ", "note": "ヨーロッパなどにすむ、茶色と赤みを帯びた小型のフィンチ（アトリ科）。美しいさえずりで知られる。可算名詞" }
+    ],
+    "usages": [
+      { "title": "① さえずりの美しい小鳥", "desc": "野や生け垣にすむ", "example_en": "A linnet sang from the hedge.", "example_ja": "ムネアカヒワが生け垣でさえずった。" },
+      { "title": "② 種を食べる", "desc": "草の種などを好む", "example_en": "Linnets feed mainly on seeds.", "example_ja": "ムネアカヒワは主に種を食べる。" }
+    ],
+    "warn": ["名前は亜麻(linum)の種を好んで食べたことに由来。finch（アトリ科の小鳥）の一種。かつて美声のため飼い鳥にされた"],
+    "etym_note": "ラテン語 linum（亜麻）に由来。亜麻の種を好んで食べる鳥であることからの命名とされる。linen（リネン）と同じ linum。",
+    "etym_chain": [
+      { "node": "linum", "sub": "亜麻", "era": "ラテン語" },
+      { "node": "linette", "sub": "亜麻の鳥", "era": "古フランス語" },
+      { "node": "linnet", "sub": "ムネアカヒワ", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a singing linnet", "ja": "さえずるムネアカヒワ" },
+      { "en": "a linnet in the hedge", "ja": "生け垣のムネアカヒワ" },
+      { "en": "the linnet's song", "ja": "ムネアカヒワのさえずり" },
+      { "en": "a flock of linnets", "ja": "ムネアカヒワの群れ" },
+      { "en": "a male linnet", "ja": "オスのムネアカヒワ" },
+      { "en": "linnets and finches", "ja": "ムネアカヒワとフィンチ" }
+    ],
+    "related": [
+      { "en": "finch", "ja": "アトリ科の小鳥" },
+      { "en": "songbird", "ja": "鳴き鳥" },
+      { "en": "sparrow", "ja": "スズメ" },
+      { "en": "bird", "ja": "鳥" }
+    ],
+    "faq": [
+      { "q": "linnet とは？", "a": "ヨーロッパなどにすむ、美しくさえずる小型のフィンチ（ムネアカヒワ）です。" },
+      { "q": "名前の由来は？", "a": "亜麻（linum）の種を好んで食べたことにちなむとされます。" }
+    ],
+    "quiz": [
+      { "q": "linnet の意味は？", "A": "さえずりの美しい小鳥（ムネアカヒワ）", "B": "大型の猛禽", "C": "海鳥", "D": "夜行性の鳥", "correct": "A" },
+      { "q": "linnet の名前の由来は？", "A": "亜麻の種を食べたこと", "B": "赤い色", "C": "大きな声", "D": "長い尾", "correct": "A" }
+    ]
+  },
+  {
+    "english": "littoral",
+    "pron": "ˈlɪtərəl",
+    "kana": "リトラル",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 litus（海岸）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "地理・生物"],
+    "meaning_main": "沿岸の／海岸地帯（の）",
+    "description": "littoral（リトラル）の意味と使い方。海や湖の岸に沿った沿岸地帯を表す形容詞・名詞を解説。生態学や軍事でも使う。",
+    "keywords": ["littoral 意味", "littoral 使い方", "沿岸 英語", "littoral zone"],
+    "meanings": [
+      { "hinshi": "【形容詞・名詞】沿岸の・海岸地帯（の）", "note": "海や湖の岸に沿った地帯。特に満潮と干潮の間の潮間帯を指すことも。the littoral（沿岸地域）" }
+    ],
+    "usages": [
+      { "title": "① 沿岸地帯", "desc": "海・湖の岸沿い", "example_en": "Many species live in the littoral zone.", "example_ja": "多くの生物が沿岸帯（潮間帯）にすむ。" },
+      { "title": "② 軍事・地理で", "desc": "沿岸海域", "example_en": "The navy operates in littoral waters.", "example_ja": "海軍は沿岸海域で活動する。" }
+    ],
+    "warn": ["literal（文字どおりの）と混同注意。全く別の語。littoral zone（潮間帯・沿岸帯）は生態学の用語"],
+    "etym_note": "ラテン語 litus（海岸・岸）に由来する litoralis から。『海岸の』の意。literal（文字どおりの、littera＝文字から）とは別語。",
+    "etym_chain": [
+      { "node": "litus", "sub": "海岸", "era": "ラテン語" },
+      { "node": "litoralis", "sub": "海岸の", "era": "ラテン語" },
+      { "node": "littoral", "sub": "沿岸の", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "the littoral zone", "ja": "沿岸帯・潮間帯" },
+      { "en": "littoral waters", "ja": "沿岸海域" },
+      { "en": "littoral states", "ja": "沿岸諸国" },
+      { "en": "a littoral habitat", "ja": "沿岸の生息環境" },
+      { "en": "littoral drift", "ja": "沿岸漂砂" },
+      { "en": "along the littoral", "ja": "沿岸に沿って" }
+    ],
+    "related": [
+      { "en": "coastal", "ja": "沿岸の" },
+      { "en": "shore", "ja": "岸" },
+      { "en": "intertidal", "ja": "潮間帯の" },
+      { "en": "maritime", "ja": "海の・海洋の" }
+    ],
+    "faq": [
+      { "q": "littoral とは？", "a": "海や湖の岸に沿った沿岸地帯を表す語です。生態学では潮間帯（littoral zone）を指すこともあります。" },
+      { "q": "literal と同じ？", "a": "違います。literal は『文字どおりの』で全く別の語です。混同注意。" }
+    ],
+    "quiz": [
+      { "q": "littoral の意味は？", "A": "沿岸の・海岸地帯（の）", "B": "山地の", "C": "砂漠の", "D": "都市の", "correct": "A" },
+      { "q": "littoral と混同しやすい語は？", "A": "literal（文字どおりの）", "B": "little", "C": "letter", "D": "litter", "correct": "A" }
+    ]
+  }
+]
