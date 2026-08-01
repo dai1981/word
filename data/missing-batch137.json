@@ -1,0 +1,991 @@
+[
+  {
+    "english": "parse",
+    "pron": "pɑːrs",
+    "kana": "パース",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 pars（部分）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "IT・言語学"],
+    "meaning_main": "（文を）解析する／構文解析する",
+    "description": "parse（パース）は文法的に分析する・構文解析するという意味の動詞。言語学からプログラミングまで使う、ラテン語 pars（部分）由来の語を解説します。",
+    "keywords": ["parse 意味", "parse 発音", "構文解析 英語", "パース プログラミング"],
+    "meanings": [
+      { "hinshi": "【動詞】（文を）文法的に解析する", "note": "文を品詞や構造に分けて分析すること" },
+      { "hinshi": "【動詞】（データを）構文解析する", "note": "IT でテキストやデータを分解して読み取ること" }
+    ],
+    "usages": [
+      { "title": "① 言語学の構文解析", "desc": "文を主語・動詞などの要素に分けて分析すること。もとは文法教育の用語。", "example_en": "Students learned to parse each sentence into its parts.", "example_ja": "生徒たちは各文を要素に分けて解析することを学んだ。" },
+      { "title": "② プログラミングでの用法", "desc": "IT では、テキストやJSONなどのデータを読み取って構造化することを parse という。", "example_en": "The program parses the JSON data into objects.", "example_ja": "そのプログラムはJSONデータを解析してオブジェクトに変換する。" }
+    ],
+    "warn": ["名詞は parser（構文解析器）、parsing（構文解析）", "発音は「パース」。course や purse と混同注意"],
+    "etym_note": "ラテン語 pars「部分」に由来し、「文を部分に分ける＝品詞分解する」という文法用語から、現代のデータ解析まで意味が広がりました。",
+    "etym_chain": [
+      { "node": "pars", "sub": "部分", "era": "ラテン語" },
+      { "node": "parse", "sub": "品詞分解する", "era": "16世紀" },
+      { "node": "parse", "sub": "構文解析する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "parse a sentence", "ja": "文を解析する" },
+      { "en": "parse the data", "ja": "データを解析する" },
+      { "en": "parse JSON", "ja": "JSONを構文解析する" },
+      { "en": "hard to parse", "ja": "解析しにくい" },
+      { "en": "parse a file", "ja": "ファイルを解析する" },
+      { "en": "a parsing error", "ja": "構文解析エラー" }
+    ],
+    "related": [
+      { "en": "analyze", "ja": "分析する" },
+      { "en": "syntax", "ja": "構文" },
+      { "en": "grammar", "ja": "文法" },
+      { "en": "interpret", "ja": "解釈する" }
+    ],
+    "faq": [
+      { "q": "parse の名詞形は？", "a": "parsing（構文解析）や parser（構文解析を行うプログラム・人）です。" },
+      { "q": "プログラミングでの意味は？", "a": "テキストやデータ（JSONなど）を読み取り、意味のある構造に分解することです。parse the data のように使います。" }
+    ],
+    "quiz": [
+      { "q": "parse の意味は？", "A": "構文解析する", "B": "印刷する", "C": "翻訳する", "D": "暗記する", "correct": "A" },
+      { "q": "parse の語源 pars の意味は？", "A": "部分", "B": "言葉", "C": "紙", "D": "音", "correct": "A" }
+    ]
+  },
+  {
+    "english": "partisan",
+    "pron": "ˈpɑːrtɪzən",
+    "kana": "パーティザン",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "イタリア語 partigiano（味方の者）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "政治"],
+    "meaning_main": "熱心な支持者／党派的な／パルチザン",
+    "description": "partisan（パーティザン）は特定の党派や主張の熱心な支持者、また党派的なという意味。政治で頻出する語や「パルチザン（遊撃隊）」の意味を解説します。",
+    "keywords": ["partisan 意味", "partisan 発音", "党派的 英語", "パルチザン 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】熱心な支持者、党派の一員", "note": "特定の主義・政党を強く支持する人" },
+      { "hinshi": "【形容詞】党派的な、偏った", "note": "自分の党派に偏った態度を表す。しばしば否定的" },
+      { "hinshi": "【名詞】パルチザン（遊撃隊員）", "note": "占領軍などに抵抗する非正規の戦闘員" }
+    ],
+    "usages": [
+      { "title": "① 政治の党派性", "desc": "partisan politics（党派対立の政治）のように、自党に偏った姿勢を指す。しばしば批判的。", "example_en": "The debate became bitterly partisan.", "example_ja": "その議論は激しく党派的になった。" },
+      { "title": "② 遊撃隊の意味", "desc": "第二次大戦のレジスタンスなど、占領軍に抵抗する非正規兵をパルチザンと呼ぶ。", "example_en": "The partisans fought against the occupying army.", "example_ja": "パルチザンは占領軍と戦った。" }
+    ],
+    "warn": ["反対は nonpartisan / bipartisan（超党派の）", "「党派的」は偏った・不公平というマイナスの含みを持つことが多い"],
+    "etym_note": "イタリア語 partigiano「（一方の）味方の者」に由来し、party（党派）と同じ pars（部分）の系統から生まれた語です。",
+    "etym_chain": [
+      { "node": "pars", "sub": "部分", "era": "ラテン語" },
+      { "node": "partigiano", "sub": "味方の者", "era": "イタリア語" },
+      { "node": "partisan", "sub": "党派の支持者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "partisan politics", "ja": "党派対立の政治" },
+      { "en": "a partisan supporter", "ja": "熱心な支持者" },
+      { "en": "highly partisan", "ja": "きわめて党派的な" },
+      { "en": "partisan divide", "ja": "党派間の分断" },
+      { "en": "nonpartisan", "ja": "無党派の" },
+      { "en": "bitterly partisan", "ja": "激しく党派的な" }
+    ],
+    "related": [
+      { "en": "party", "ja": "政党、党派" },
+      { "en": "bipartisan", "ja": "超党派の" },
+      { "en": "nonpartisan", "ja": "無党派の" },
+      { "en": "supporter", "ja": "支持者" }
+    ],
+    "faq": [
+      { "q": "partisan と bipartisan の違いは？", "a": "partisan は「一つの党派に偏った」、bipartisan は「二つの党派が協力する（超党派の）」です。nonpartisan は「無党派の」です。" },
+      { "q": "「パルチザン」もこの語？", "a": "はい。同じ partisan で、占領軍などに抵抗する非正規の戦闘員（遊撃隊）を指す意味もあります。" }
+    ],
+    "quiz": [
+      { "q": "partisan（形容詞）の意味は？", "A": "中立的な", "B": "党派的な・偏った", "C": "平和的な", "D": "経済的な", "correct": "B" },
+      { "q": "partisan の反対に近い語は？", "A": "nonpartisan", "B": "important", "C": "personal", "D": "national", "correct": "A" }
+    ]
+  },
+  {
+    "english": "partisanship",
+    "pron": "ˈpɑːrtɪzənʃɪp",
+    "kana": "パーティザンシップ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "partisan（党派の）+ -ship（性質）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "政治"],
+    "meaning_main": "党派心／党派性／偏った忠誠",
+    "description": "partisanship（パーティザンシップ）は特定の党派への強い忠誠・党派心という意味の名詞。政治報道で頻出する partisan の名詞形を解説します。",
+    "keywords": ["partisanship 意味", "partisanship 発音", "党派心 英語", "党派性 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】党派心、党派性", "note": "自分の党派を強く支持する態度。数えない名詞" },
+      { "hinshi": "【名詞】偏った忠誠", "note": "公平さより党派を優先する姿勢。しばしば否定的" }
+    ],
+    "usages": [
+      { "title": "① 政治の党派対立", "desc": "党派を優先して協力が進まない状態。partisanship は分断の象徴として批判的に使われる。", "example_en": "Growing partisanship has made compromise difficult.", "example_ja": "党派心の高まりが、妥協を難しくしている。" },
+      { "title": "② put aside partisanship", "desc": "「党派心を脇に置く＝超党派で協力する」という前向きな文脈でも使う。", "example_en": "Leaders must put aside partisanship to solve the crisis.", "example_ja": "指導者は危機解決のため党派心を脇に置くべきだ。" }
+    ],
+    "warn": ["-ship は「性質・状態」を表す接尾辞（friendship, leadership）", "反対の姿勢は bipartisanship（超党派の協力）"],
+    "etym_note": "partisan（党派の支持者）に、状態・性質を表す接尾辞 -ship が付いた語で、「党派に偏った心のあり方＝党派心」を意味します。",
+    "etym_chain": [
+      { "node": "partisan", "sub": "党派の支持者", "era": "16世紀" },
+      { "node": "partisan + -ship", "sub": "党派＋性質", "era": "近代英語" },
+      { "node": "partisanship", "sub": "党派心", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "political partisanship", "ja": "政治的な党派心" },
+      { "en": "growing partisanship", "ja": "高まる党派心" },
+      { "en": "put aside partisanship", "ja": "党派心を脇に置く" },
+      { "en": "bitter partisanship", "ja": "激しい党派対立" },
+      { "en": "rise above partisanship", "ja": "党派を超える" },
+      { "en": "reduce partisanship", "ja": "党派対立を和らげる" }
+    ],
+    "related": [
+      { "en": "partisan", "ja": "党派的な" },
+      { "en": "bipartisanship", "ja": "超党派の協力" },
+      { "en": "loyalty", "ja": "忠誠" },
+      { "en": "division", "ja": "分断" }
+    ],
+    "faq": [
+      { "q": "partisanship は良い意味？悪い意味？", "a": "多くは否定的で、「公平さより党派を優先する態度」を批判する文脈で使われます。put aside partisanship（党派心を脇に置く）のように、克服すべきものとして語られます。" },
+      { "q": "-ship はどういう意味？", "a": "「性質・状態」を表す接尾辞です。friendship（友情）、leadership（指導力）と同じで、partisanship は「党派的である状態」を意味します。" }
+    ],
+    "quiz": [
+      { "q": "partisanship の意味は？", "A": "党派心", "B": "友情", "C": "指導力", "D": "職人技", "correct": "A" },
+      { "q": "partisanship の反対に近い語は？", "A": "bipartisanship", "B": "membership", "C": "ownership", "D": "hardship", "correct": "A" }
+    ]
+  },
+  {
+    "english": "patella",
+    "pron": "pəˈtelə",
+    "kana": "パテラ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 patella（小皿）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "医療・人体"],
+    "meaning_main": "膝蓋骨（しつがいこつ）／膝の皿",
+    "description": "patella（パテラ）は膝の前面にある皿状の骨、膝蓋骨という意味の名詞。ラテン語 patella（小皿）由来の医学用語を解説します。",
+    "keywords": ["patella 意味", "patella 発音", "膝蓋骨 英語", "膝の皿 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】膝蓋骨（しつがいこつ）、膝の皿", "note": "膝の前面にある小さな皿状の骨。数えられる名詞" }
+    ],
+    "usages": [
+      { "title": "① 医学・解剖の用語", "desc": "日常語では kneecap（膝の皿）。医学的には patella という。複数形は patellae。", "example_en": "He fractured his patella in the fall.", "example_ja": "彼は転倒で膝蓋骨を骨折した。" },
+      { "title": "② 語源は「小皿」", "desc": "ラテン語 patella（小皿）から。皿のような形にちなむ。plate（皿）と同系。", "example_en": "The patella protects the front of the knee joint.", "example_ja": "膝蓋骨は膝関節の前面を守っている。" }
+    ],
+    "warn": ["日常語は kneecap（膝の皿）", "複数形は patellae または patellas"],
+    "etym_note": "ラテン語 patella「小皿」（patina＝皿の縮小形）に由来し、皿のような形の骨にちなんで名づけられました。",
+    "etym_chain": [
+      { "node": "patina", "sub": "皿", "era": "ラテン語" },
+      { "node": "patella", "sub": "小皿", "era": "ラテン語" },
+      { "node": "patella", "sub": "膝蓋骨", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "fracture the patella", "ja": "膝蓋骨を骨折する" },
+      { "en": "a dislocated patella", "ja": "脱臼した膝蓋骨" },
+      { "en": "the patella tendon", "ja": "膝蓋腱" },
+      { "en": "protect the patella", "ja": "膝蓋骨を守る" },
+      { "en": "patella pain", "ja": "膝の皿の痛み" },
+      { "en": "below the patella", "ja": "膝蓋骨の下" }
+    ],
+    "related": [
+      { "en": "kneecap", "ja": "膝の皿" },
+      { "en": "knee", "ja": "膝" },
+      { "en": "joint", "ja": "関節" },
+      { "en": "bone", "ja": "骨" }
+    ],
+    "faq": [
+      { "q": "patella と kneecap の違いは？", "a": "同じ骨を指します。patella は医学用語、kneecap は日常語です。" },
+      { "q": "複数形は？", "a": "ラテン語風の patellae、または patellas のどちらも使われます。" }
+    ],
+    "quiz": [
+      { "q": "patella はどこの骨？", "A": "膝の皿", "B": "肘", "C": "背骨", "D": "あご", "correct": "A" },
+      { "q": "patella の日常的な言い方は？", "A": "kneecap", "B": "ankle", "C": "wrist", "D": "shoulder", "correct": "A" }
+    ]
+  },
+  {
+    "english": "pathway",
+    "pron": "ˈpæθweɪ",
+    "kana": "パスウェイ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "path（小道）+ way（道）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出"],
+    "meaning_main": "小道／進路／（達成への）道筋",
+    "description": "pathway（パスウェイ）は小道・進路・目標への道筋という意味の名詞。path（小道）+ way から成り、比喩でもよく使う語を解説します。",
+    "keywords": ["pathway 意味", "pathway 発音", "道筋 英語", "進路 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】小道、通路", "note": "庭や公園などの歩く道。数えられる名詞" },
+      { "hinshi": "【名詞】（目標への）道筋、進路", "note": "a pathway to success（成功への道）など比喩的に" }
+    ],
+    "usages": [
+      { "title": "① 実際の小道", "desc": "garden pathway（庭の小道）のように、歩く細い道を指す。", "example_en": "A stone pathway led to the front door.", "example_ja": "石畳の小道が玄関へと続いていた。" },
+      { "title": "② 目標への道筋（比喩）", "desc": "a pathway to success（成功への道筋）のように、目標に至る過程を表す。教育・キャリアで頻出。", "example_en": "Education is a pathway to a better future.", "example_ja": "教育はより良い未来への道筋だ。" }
+    ],
+    "warn": ["生物・医学では「経路」（neural pathway＝神経経路）も表す", "path とほぼ同義だが、pathway はやや正式・比喩的"],
+    "etym_note": "path（小道）と way（道）を組み合わせた語で、「（目標や場所へ）通じる道」を意味します。比喩的な「道筋」でも広く使われます。",
+    "etym_chain": [
+      { "node": "pæþ + weg", "sub": "小道＋道", "era": "古英語" },
+      { "node": "pathway", "sub": "小道", "era": "中英語" },
+      { "node": "pathway", "sub": "道筋", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a garden pathway", "ja": "庭の小道" },
+      { "en": "a pathway to success", "ja": "成功への道筋" },
+      { "en": "a career pathway", "ja": "キャリアの進路" },
+      { "en": "a neural pathway", "ja": "神経経路" },
+      { "en": "a clear pathway", "ja": "はっきりした道筋" },
+      { "en": "a pathway forward", "ja": "前へ進む道筋" }
+    ],
+    "related": [
+      { "en": "path", "ja": "小道" },
+      { "en": "route", "ja": "経路、道筋" },
+      { "en": "trail", "ja": "小道、跡" },
+      { "en": "course", "ja": "進路、course" }
+    ],
+    "faq": [
+      { "q": "path と pathway の違いは？", "a": "ほぼ同じですが、pathway のほうがやや正式で、比喩的な「道筋・進路」の意味でよく使われます。a pathway to success のように使います。" },
+      { "q": "医学でも使う？", "a": "はい。neural pathway（神経経路）のように、体内の信号が通る「経路」を表すのにも使います。" }
+    ],
+    "quiz": [
+      { "q": "a pathway to success の意味は？", "A": "成功への道筋", "B": "成功の失敗", "C": "成功の値段", "D": "成功の反対", "correct": "A" },
+      { "q": "pathway を構成する2語は？", "A": "path + way", "B": "pass + way", "C": "part + way", "D": "past + way", "correct": "A" }
+    ]
+  },
+  {
+    "english": "pedicab",
+    "pron": "ˈpedikæb",
+    "kana": "ペディキャブ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 pes（足）+ cab（タクシー）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "乗り物"],
+    "meaning_main": "自転車タクシー／人力の三輪タクシー",
+    "description": "pedicab（ペディキャブ）はペダルをこいで客を運ぶ自転車タクシーという意味の名詞。pedi（足）+ cab（タクシー）から成る乗り物の語を解説します。",
+    "keywords": ["pedicab 意味", "pedicab 発音", "自転車タクシー 英語", "輪タク 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】自転車タクシー、輪タク", "note": "運転手がペダルをこいで客を乗せる三輪車。数えられる名詞" }
+    ],
+    "usages": [
+      { "title": "① 観光地の乗り物", "desc": "都市の観光地やアジアの街でよく見る、ペダル式の客用三輪車。", "example_en": "We took a pedicab around the old town.", "example_ja": "私たちは旧市街を自転車タクシーで回った。" },
+      { "title": "② 環境にやさしい移動", "desc": "エンジンを使わず環境負荷が低いため、都市で見直されている。", "example_en": "Pedicabs are a fun, eco-friendly way to see the city.", "example_ja": "自転車タクシーは、街を見て回る楽しくエコな手段だ。" }
+    ],
+    "warn": ["エンジン付きの三輪は auto rickshaw と呼ぶ", "地域により rickshaw（人力車・輪タク）とも呼ばれる"],
+    "etym_note": "ラテン語 pes/pedis（足）と cab（タクシー、cabriolet の略）を組み合わせた語で、「足でこぐタクシー」を意味します。",
+    "etym_chain": [
+      { "node": "pes + cab", "sub": "足＋タクシー", "era": "20世紀" },
+      { "node": "pedicab", "sub": "自転車タクシー", "era": "20世紀" },
+      { "node": "pedicab", "sub": "自転車タクシー", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "take a pedicab", "ja": "自転車タクシーに乗る" },
+      { "en": "a pedicab driver", "ja": "自転車タクシーの運転手" },
+      { "en": "ride a pedicab", "ja": "自転車タクシーで移動する" },
+      { "en": "hail a pedicab", "ja": "自転車タクシーを呼び止める" },
+      { "en": "a pedicab tour", "ja": "自転車タクシーの観光" },
+      { "en": "an eco-friendly pedicab", "ja": "エコな自転車タクシー" }
+    ],
+    "related": [
+      { "en": "rickshaw", "ja": "人力車、輪タク" },
+      { "en": "taxi", "ja": "タクシー" },
+      { "en": "cab", "ja": "タクシー" },
+      { "en": "bicycle", "ja": "自転車" }
+    ],
+    "faq": [
+      { "q": "pedicab と rickshaw の違いは？", "a": "rickshaw は人が引く・こぐ客用車全般、pedicab は特にペダルでこぐ自転車式のものを指します。多くの場面でほぼ同じ意味で使われます。" },
+      { "q": "pedi- はどういう意味？", "a": "ラテン語 pes/pedis（足）に由来する要素で、pedal（ペダル）や pedestrian（歩行者）と同じ系統です。" }
+    ],
+    "quiz": [
+      { "q": "pedicab はどんな乗り物？", "A": "自転車タクシー", "B": "潜水艦", "C": "気球", "D": "電車", "correct": "A" },
+      { "q": "pedi- が表す意味は？", "A": "足", "B": "水", "C": "火", "D": "空", "correct": "A" }
+    ]
+  },
+  {
+    "english": "pedigree",
+    "pron": "ˈpedɪɡriː",
+    "kana": "ペディグリー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 pie de grue（鶴の足）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "文化"],
+    "meaning_main": "血統／家系／（優れた）経歴",
+    "description": "pedigree（ペディグリー）は動物の血統や人の家系、また優れた経歴という意味の名詞。「鶴の足」という面白い語源を持つ語を解説します。",
+    "keywords": ["pedigree 意味", "pedigree 発音", "血統 英語", "家系 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】（動物の）血統、血統書", "note": "純血種であることの記録。a dog with a pedigree（血統書付きの犬）" },
+      { "hinshi": "【名詞】家系、系図", "note": "先祖代々の系統" },
+      { "hinshi": "【名詞】（優れた）経歴、来歴", "note": "実績や由緒。a company with a strong pedigree" }
+    ],
+    "usages": [
+      { "title": "① 動物の血統", "desc": "犬や馬などの純血種の記録。a pedigree dog（血統書付きの犬）。", "example_en": "The puppy comes with a full pedigree.", "example_ja": "その子犬には完全な血統書が付いている。" },
+      { "title": "② 経歴・来歴（比喩）", "desc": "人や会社の「輝かしい実績・由緒」も表す。a pedigree in engineering（工学分野の実績）。", "example_en": "The firm has an impressive pedigree in design.", "example_ja": "その会社はデザイン分野で見事な実績を持つ。" }
+    ],
+    "warn": ["語源は「鶴の足（pie de grue）」＝系図の枝分かれの形にちなむ", "形容詞的に pedigree dog（血統書付きの犬）とも使う"],
+    "etym_note": "古フランス語 pie de grue「鶴の足」に由来します。系図の枝分かれが鶴の足跡に似ていたことから、「血統・系図」を意味するようになりました。",
+    "etym_chain": [
+      { "node": "pie de grue", "sub": "鶴の足", "era": "古フランス語" },
+      { "node": "pedigrew", "sub": "系図", "era": "中英語" },
+      { "node": "pedigree", "sub": "血統、経歴", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a pedigree dog", "ja": "血統書付きの犬" },
+      { "en": "a long pedigree", "ja": "由緒ある家系" },
+      { "en": "an impressive pedigree", "ja": "見事な経歴" },
+      { "en": "a racing pedigree", "ja": "レースでの実績" },
+      { "en": "of good pedigree", "ja": "血統の良い" },
+      { "en": "an academic pedigree", "ja": "学問的な経歴" }
+    ],
+    "related": [
+      { "en": "lineage", "ja": "血統、家系" },
+      { "en": "ancestry", "ja": "先祖、家系" },
+      { "en": "breed", "ja": "品種、種類" },
+      { "en": "background", "ja": "経歴、背景" }
+    ],
+    "faq": [
+      { "q": "pedigree の語源は本当に「鶴の足」？", "a": "はい。系図の枝分かれの線が鶴の足跡に似ていたことから、古フランス語 pie de grue（鶴の足）が語源とされています。" },
+      { "q": "人にも使える？", "a": "はい。「優れた経歴・由緒」の意味で、an impressive pedigree（見事な実績）のように人や会社にも使えます。" }
+    ],
+    "quiz": [
+      { "q": "pedigree の意味は？", "A": "血統・家系", "B": "料理", "C": "天気", "D": "音楽", "correct": "A" },
+      { "q": "pedigree の語源になった動物は？", "A": "鶴", "B": "馬", "C": "犬", "D": "鷹", "correct": "A" }
+    ]
+  },
+  {
+    "english": "pediment",
+    "pron": "ˈpedɪmənt",
+    "kana": "ペディメント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "pyramid の変化形とされる",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "建築"],
+    "meaning_main": "ペディメント（切妻の三角破風）",
+    "description": "pediment（ペディメント）はギリシャ神殿などの正面上部にある三角形の装飾（破風）という意味の名詞。西洋建築で使う語を解説します。",
+    "keywords": ["pediment 意味", "pediment 発音", "ペディメント 建築", "破風 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】ペディメント、切妻の三角破風", "note": "神殿や建物の正面上部の三角形の部分。数えられる名詞" }
+    ],
+    "usages": [
+      { "title": "① 古典建築の装飾", "desc": "ギリシャ・ローマ神殿の正面、柱の上にのる三角形の部分。彫刻が施されることが多い。", "example_en": "The temple's pediment was decorated with carved figures.", "example_ja": "その神殿のペディメントには彫刻の人物像が飾られていた。" },
+      { "title": "② 建物や家具にも", "desc": "玄関の上や、本棚・時計など家具の上部の三角飾りにも使われる。", "example_en": "A triangular pediment crowns the doorway.", "example_ja": "三角形のペディメントが玄関の上を飾っている。" }
+    ],
+    "warn": ["地質学では「山麓緩斜面」という別の意味もある", "pigment（顔料）と綴りが似るので混同注意"],
+    "etym_note": "pyramid（ピラミッド）が変化した語とされ、建物正面の三角形の部分を指すようになりました。",
+    "etym_chain": [
+      { "node": "pyramid", "sub": "ピラミッド", "era": "近代英語（諸説）" },
+      { "node": "periment", "sub": "破風", "era": "16世紀" },
+      { "node": "pediment", "sub": "ペディメント", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a triangular pediment", "ja": "三角形のペディメント" },
+      { "en": "the temple pediment", "ja": "神殿の破風" },
+      { "en": "a carved pediment", "ja": "彫刻を施した破風" },
+      { "en": "a broken pediment", "ja": "分割破風" },
+      { "en": "under the pediment", "ja": "破風の下" },
+      { "en": "a classical pediment", "ja": "古典様式の破風" }
+    ],
+    "related": [
+      { "en": "column", "ja": "柱" },
+      { "en": "facade", "ja": "建物の正面" },
+      { "en": "gable", "ja": "切妻" },
+      { "en": "temple", "ja": "神殿" }
+    ],
+    "faq": [
+      { "q": "pediment はどこの部分？", "a": "ギリシャ・ローマ神殿などの正面、柱の上にのる三角形の部分（破風）です。しばしば彫刻で装飾されます。" },
+      { "q": "pigment と混同しやすい？", "a": "はい。pediment（破風）と pigment（顔料）は綴りが似ていますが、まったく別の語です。" }
+    ],
+    "quiz": [
+      { "q": "pediment はどんな建築の部分？", "A": "地下室", "B": "正面上部の三角形の破風", "C": "階段", "D": "煙突", "correct": "B" },
+      { "q": "pediment がよく見られる建物は？", "A": "ギリシャ神殿", "B": "テント", "C": "灯台", "D": "洞窟", "correct": "A" }
+    ]
+  },
+  {
+    "english": "pee",
+    "pron": "piː",
+    "kana": "ピー",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "piss の頭文字 P から",
+    "ld_level": "3級",
+    "badges": ["小学生〜", "英検3級", "CEFR A2", "口語"],
+    "meaning_main": "おしっこをする／小便",
+    "description": "pee（ピー）はおしっこをする・小便という意味の口語表現。子供も使うくだけた語で、フォーマルな urinate との違いも含め解説します。",
+    "keywords": ["pee 意味", "pee 発音", "おしっこ 英語", "小便 英語 口語"],
+    "meanings": [
+      { "hinshi": "【動詞】おしっこをする", "note": "くだけた日常語。need to pee（おしっこしたい）" },
+      { "hinshi": "【名詞】おしっこ、小便", "note": "have a pee（おしっこをする、英口語）" }
+    ],
+    "usages": [
+      { "title": "① 子供も使う日常語", "desc": "口語で「おしっこ」。丁寧に言うなら go to the bathroom（トイレに行く）。", "example_en": "The little boy needs to pee.", "example_ja": "その小さな男の子はおしっこがしたい。" },
+      { "title": "② フォーマルな言い方", "desc": "医学・正式な場では urinate（排尿する）を使う。pee はあくまでカジュアル。", "example_en": "Doctors ask patients how often they urinate, not 'pee.'", "example_ja": "医師は患者に、pee ではなく urinate（排尿）の頻度を尋ねる。" }
+    ],
+    "warn": ["くだけた口語。フォーマルな場面では urinate や go to the bathroom", "アルファベットの P（ピー）と同じ発音"],
+    "etym_note": "piss（小便）の頭文字 P を婉曲に発音した語で、下品な piss を避ける遠回しな言い方として広まりました。",
+    "etym_chain": [
+      { "node": "pissen", "sub": "小便をする", "era": "中英語" },
+      { "node": "P (the letter)", "sub": "婉曲表現", "era": "18世紀" },
+      { "node": "pee", "sub": "おしっこをする", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "need to pee", "ja": "おしっこがしたい" },
+      { "en": "go pee", "ja": "おしっこに行く" },
+      { "en": "have a pee", "ja": "おしっこをする（英口語）" },
+      { "en": "pee in the toilet", "ja": "トイレでおしっこをする" },
+      { "en": "I really have to pee.", "ja": "本当におしっこしたい。" },
+      { "en": "take a pee", "ja": "おしっこをする" }
+    ],
+    "related": [
+      { "en": "urinate", "ja": "排尿する（正式）" },
+      { "en": "toilet", "ja": "トイレ" },
+      { "en": "bathroom", "ja": "トイレ、浴室" },
+      { "en": "poop", "ja": "うんち（口語）" }
+    ],
+    "faq": [
+      { "q": "pee はフォーマルな場で使える？", "a": "いいえ、くだけた口語です。医学や正式な場面では urinate（排尿する）や go to the bathroom を使いましょう。" },
+      { "q": "urinate との違いは？", "a": "意味は同じですが、pee は子供も使うカジュアルな語、urinate は医学的・正式な語です。" }
+    ],
+    "quiz": [
+      { "q": "pee のフォーマルな言い方は？", "A": "urinate", "B": "operate", "C": "generate", "D": "celebrate", "correct": "A" },
+      { "q": "pee の使い方で正しいのは？", "A": "くだけた日常語", "B": "法律用語", "C": "数学用語", "D": "音楽用語", "correct": "A" }
+    ]
+  },
+  {
+    "english": "pelican",
+    "pron": "ˈpelɪkən",
+    "kana": "ペリカン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 pelekan",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "生き物"],
+    "meaning_main": "ペリカン（大きな袋状のくちばしを持つ鳥）",
+    "description": "pelican（ペリカン）はのど袋を持つ大きな水鳥、ペリカンという意味の名詞。魚をすくうくちばしで有名な鳥を表す語を解説します。",
+    "keywords": ["pelican 意味", "pelican 発音", "ペリカン 英語", "のど袋 鳥"],
+    "meanings": [
+      { "hinshi": "【名詞】ペリカン", "note": "くちばしの下に大きな袋（のど袋）を持つ水鳥。数えられる名詞" }
+    ],
+    "usages": [
+      { "title": "① のど袋で魚をすくう鳥", "desc": "大きなくちばしの袋で水ごと魚をすくって捕らえる。海辺や湖でよく見る。", "example_en": "A pelican scooped up a fish with its huge beak.", "example_ja": "ペリカンが大きなくちばしで魚をすくい取った。" },
+      { "title": "② 群れで飛ぶ姿", "desc": "編隊を組んで飛ぶ姿でも知られる。ペンギン（penguin）とは別物なので注意。", "example_en": "A group of pelicans flew over the bay.", "example_ja": "ペリカンの群れが湾の上を飛んでいった。" }
+    ],
+    "warn": ["penguin（ペンギン）とは別の鳥。混同注意", "特徴はくちばしの下の大きな pouch（のど袋）"],
+    "etym_note": "ギリシャ語 pelekan に由来する語で、古くから知られる水鳥の名前としてラテン語を経て英語に入りました。",
+    "etym_chain": [
+      { "node": "pelekan", "sub": "ペリカン", "era": "ギリシャ語" },
+      { "node": "pellicanus", "sub": "ペリカン", "era": "後期ラテン語" },
+      { "node": "pelican", "sub": "ペリカン", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a brown pelican", "ja": "カッショクペリカン" },
+      { "en": "the pelican's pouch", "ja": "ペリカンののど袋" },
+      { "en": "a flock of pelicans", "ja": "ペリカンの群れ" },
+      { "en": "a diving pelican", "ja": "急降下するペリカン" },
+      { "en": "a white pelican", "ja": "シロペリカン" },
+      { "en": "spot a pelican", "ja": "ペリカンを見つける" }
+    ],
+    "related": [
+      { "en": "beak", "ja": "くちばし" },
+      { "en": "waterbird", "ja": "水鳥" },
+      { "en": "seagull", "ja": "カモメ" },
+      { "en": "penguin", "ja": "ペンギン" }
+    ],
+    "faq": [
+      { "q": "ペリカンの特徴は？", "a": "くちばしの下に大きな袋（のど袋、pouch）があり、これで水ごと魚をすくって捕らえます。" },
+      { "q": "penguin と混同しやすい？", "a": "はい。名前が似ていますが、pelican（ペリカン）は空を飛ぶのど袋の水鳥、penguin（ペンギン）は飛べない海鳥で、まったく別の鳥です。" }
+    ],
+    "quiz": [
+      { "q": "ペリカンの特徴は？", "A": "くちばしの下の大きな袋", "B": "長い首だけ", "C": "赤いとさか", "D": "泳げないこと", "correct": "A" },
+      { "q": "pelican と混同されやすい鳥は？", "A": "penguin", "B": "eagle", "C": "owl", "D": "crow", "correct": "A" }
+    ]
+  },
+  {
+    "english": "pensive",
+    "pron": "ˈpensɪv",
+    "kana": "ペンシブ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 pensare（よく考える）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "文語"],
+    "meaning_main": "物思いにふけった／考え込んだ",
+    "description": "pensive（ペンシブ）は物思いにふけった・もの憂げに考え込んだという意味の形容詞。ラテン語 pensare（よく考える）由来の文語的な語を解説します。",
+    "keywords": ["pensive 意味", "pensive 発音", "物思いにふける 英語", "考え込んだ 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】物思いにふけった、考え込んだ", "note": "静かに、やや憂いを帯びて考えているさま" }
+    ],
+    "usages": [
+      { "title": "① 静かに考え込む様子", "desc": "深く、少し寂しげに物思いにふける表情や気分を表す文語的な語。", "example_en": "She sat by the window with a pensive look.", "example_ja": "彼女は物思いにふけった表情で窓辺に座っていた。" },
+      { "title": "② thoughtful との違い", "desc": "thoughtful は「思いやりのある/よく考えた」、pensive は「もの憂げに考え込んだ」というニュアンス。", "example_en": "He grew pensive as he remembered the past.", "example_ja": "彼は過去を思い出して、物思いにふけっていった。" }
+    ],
+    "warn": ["expensive（高価な）とは無関係の別語", "やや文語的。日常会話では thoughtful なども使う"],
+    "etym_note": "ラテン語 pensare「よく考える、比べ量る」に由来し、「考えにふけった＝物思いがちな」を意味する形容詞になりました。",
+    "etym_chain": [
+      { "node": "pensare", "sub": "よく考える", "era": "ラテン語" },
+      { "node": "pensif", "sub": "物思いにふけった", "era": "古フランス語" },
+      { "node": "pensive", "sub": "物思いにふけった", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a pensive mood", "ja": "物思いにふけった気分" },
+      { "en": "a pensive look", "ja": "考え込んだ表情" },
+      { "en": "grow pensive", "ja": "物思いにふけっていく" },
+      { "en": "a pensive silence", "ja": "もの憂げな沈黙" },
+      { "en": "look pensive", "ja": "考え込んで見える" },
+      { "en": "a pensive expression", "ja": "物思わしげな表情" }
+    ],
+    "related": [
+      { "en": "thoughtful", "ja": "考え深い" },
+      { "en": "reflective", "ja": "思索的な" },
+      { "en": "contemplative", "ja": "瞑想的な" },
+      { "en": "wistful", "ja": "もの思わしげな" }
+    ],
+    "faq": [
+      { "q": "pensive と thoughtful の違いは？", "a": "thoughtful は「思いやりのある」「よく考えた」という広い意味ですが、pensive は「もの憂げに静かに考え込んでいる」という、やや寂しげなニュアンスを持ちます。" },
+      { "q": "expensive と関係ある？", "a": "いいえ。綴りは似ていますが、expensive（高価な）とは無関係の別語です。" }
+    ],
+    "quiz": [
+      { "q": "pensive の意味は？", "A": "物思いにふけった", "B": "怒った", "C": "うれしい", "D": "眠い", "correct": "A" },
+      { "q": "pensive と近い意味の語は？", "A": "reflective", "B": "cheerful", "C": "noisy", "D": "cheap", "correct": "A" }
+    ]
+  },
+  {
+    "english": "pentameter",
+    "pron": "penˈtæmɪtər",
+    "kana": "ペンタミター",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 penta（5）+ metron（韻律）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "文学・詩"],
+    "meaning_main": "五歩格（詩の韻律の一種）",
+    "description": "pentameter（ペンタミター）は1行に5つの韻脚を持つ詩の形式、五歩格という意味の名詞。シェイクスピアで有名な iambic pentameter を解説します。",
+    "keywords": ["pentameter 意味", "pentameter 発音", "五歩格 英語", "iambic pentameter 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】五歩格（ごほかく）", "note": "1行が5つの韻脚（拍のまとまり）から成る詩の韻律" }
+    ],
+    "usages": [
+      { "title": "① 英詩の基本リズム", "desc": "iambic pentameter（弱強五歩格）はシェイクスピアの戯曲やソネットで使われる代表的な韻律。", "example_en": "Shakespeare wrote most of his plays in iambic pentameter.", "example_ja": "シェイクスピアは戯曲の大半を弱強五歩格で書いた。" },
+      { "title": "② penta（5）系の語", "desc": "penta は「5」。pentagon（五角形）、pentathlon（五種競技）と同じ系統。", "example_en": "A line of pentameter has five metrical feet.", "example_ja": "五歩格の1行は5つの韻脚を持つ。" }
+    ],
+    "warn": ["penta（5）系: pentagon（五角形）, pentathlon（五種競技）", "iambic pentameter（弱強五歩格）はセットで覚えると便利"],
+    "etym_note": "ギリシャ語 penta（5）と metron（尺度・韻律）を組み合わせた語で、「5つの韻脚から成る詩行」を意味します。",
+    "etym_chain": [
+      { "node": "penta + metron", "sub": "5＋韻律", "era": "ギリシャ語" },
+      { "node": "pentametrus", "sub": "五歩格", "era": "ラテン語" },
+      { "node": "pentameter", "sub": "五歩格", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "iambic pentameter", "ja": "弱強五歩格" },
+      { "en": "written in pentameter", "ja": "五歩格で書かれた" },
+      { "en": "a line of pentameter", "ja": "五歩格の1行" },
+      { "en": "the rhythm of pentameter", "ja": "五歩格のリズム" },
+      { "en": "unrhymed pentameter", "ja": "無韻の五歩格" },
+      { "en": "five metrical feet", "ja": "5つの韻脚" }
+    ],
+    "related": [
+      { "en": "meter", "ja": "韻律" },
+      { "en": "verse", "ja": "韻文、詩" },
+      { "en": "iambic", "ja": "弱強格の" },
+      { "en": "sonnet", "ja": "ソネット（14行詩）" }
+    ],
+    "faq": [
+      { "q": "iambic pentameter とは？", "a": "「弱強五歩格」のことで、弱・強のリズムを5回くり返す1行から成る詩の韻律です。シェイクスピアの作品で多く使われています。" },
+      { "q": "penta はどういう意味？", "a": "ギリシャ語で「5」を表します。pentagon（五角形）、pentathlon（五種競技）と同じ系統の語です。" }
+    ],
+    "quiz": [
+      { "q": "pentameter の pent- が表す数は？", "A": "3", "B": "4", "C": "5", "D": "6", "correct": "C" },
+      { "q": "iambic pentameter で有名な作家は？", "A": "シェイクスピア", "B": "ニュートン", "C": "ダーウィン", "D": "エジソン", "correct": "A" }
+    ]
+  },
+  {
+    "english": "perjury",
+    "pron": "ˈpɜːrdʒəri",
+    "kana": "パージャリー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 perjurium（偽誓）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "法律"],
+    "meaning_main": "偽証／偽証罪",
+    "description": "perjury（パージャリー）は法廷で宣誓した上でうそをつくこと、偽証罪という意味の名詞。法律で使うラテン語 perjurium 由来の語を解説します。",
+    "keywords": ["perjury 意味", "perjury 発音", "偽証 英語", "偽証罪 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】偽証、偽証罪", "note": "宣誓したうえで法廷などでうそを述べる罪。数えない名詞" }
+    ],
+    "usages": [
+      { "title": "① 法廷での偽証", "desc": "宣誓（under oath）した証人がうそをつくこと。commit perjury（偽証を犯す）。", "example_en": "He was charged with perjury for lying under oath.", "example_ja": "彼は宣誓のうえでうそをついたため、偽証罪で起訴された。" },
+      { "title": "② 重い犯罪", "desc": "司法をゆがめる行為として重く罰せられる。The witness committed perjury.（証人は偽証した）。", "example_en": "Perjury is a serious crime punishable by prison.", "example_ja": "偽証は懲役に処されうる重大な犯罪だ。" }
+    ],
+    "warn": ["「宣誓のうえで」うそをつくのが偽証。ただのうそ（lie）とは違う", "動詞は perjure（oneself を伴い「偽証する」）"],
+    "etym_note": "ラテン語 perjurium「偽りの誓い」（per-「破って」+ jurare「誓う」）に由来し、「誓いを破ってうそをつくこと＝偽証」を意味します。",
+    "etym_chain": [
+      { "node": "per + jurare", "sub": "破って＋誓う", "era": "ラテン語" },
+      { "node": "perjurium", "sub": "偽誓", "era": "ラテン語" },
+      { "node": "perjury", "sub": "偽証", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "commit perjury", "ja": "偽証を犯す" },
+      { "en": "charged with perjury", "ja": "偽証罪で起訴された" },
+      { "en": "under oath", "ja": "宣誓のうえで" },
+      { "en": "guilty of perjury", "ja": "偽証罪で有罪の" },
+      { "en": "an act of perjury", "ja": "偽証行為" },
+      { "en": "convicted of perjury", "ja": "偽証罪で有罪となった" }
+    ],
+    "related": [
+      { "en": "oath", "ja": "宣誓" },
+      { "en": "testimony", "ja": "証言" },
+      { "en": "lie", "ja": "うそ" },
+      { "en": "witness", "ja": "証人" }
+    ],
+    "faq": [
+      { "q": "perjury と lie（うそ）の違いは？", "a": "perjury は「宣誓したうえで法廷などでうそをつくこと」で、犯罪です。単なる lie（うそ）とは違い、法的な誓いを破る点が重要です。" },
+      { "q": "動詞形は？", "a": "perjure です。perjure oneself（偽証する）の形で使います。" }
+    ],
+    "quiz": [
+      { "q": "perjury の意味は？", "A": "偽証", "B": "窃盗", "C": "放火", "D": "詐欺", "correct": "A" },
+      { "q": "perjury が成立する条件は？", "A": "宣誓のうえでうそをつく", "B": "遅刻する", "C": "無断欠席する", "D": "大声を出す", "correct": "A" }
+    ]
+  },
+  {
+    "english": "permanence",
+    "pron": "ˈpɜːrmənəns",
+    "kana": "パーマネンス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 permanere（とどまり続ける）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "文語"],
+    "meaning_main": "永続性／不変／恒久性",
+    "description": "permanence（パーマネンス）は変わらず続くこと、永続性・恒久性という意味の名詞。形容詞 permanent（永続的な）の名詞形を解説します。",
+    "keywords": ["permanence 意味", "permanence 発音", "永続性 英語", "permanent 名詞"],
+    "meanings": [
+      { "hinshi": "【名詞】永続性、恒久性", "note": "変わらずに続く性質。数えない名詞。⇔ impermanence（無常）" }
+    ],
+    "usages": [
+      { "title": "① 変わらず続くこと", "desc": "形容詞 permanent（永続的な）の名詞形。時代を超えて続く性質を表す。", "example_en": "Nothing in life has true permanence.", "example_ja": "人生に本当の永続性を持つものはない。" },
+      { "title": "② impermanence（無常）との対比", "desc": "反対は impermanence（はかなさ、無常）。哲学や芸術の文脈で対で語られる。", "example_en": "The artwork explores permanence and change.", "example_ja": "その作品は永続性と変化を探求している。" }
+    ],
+    "warn": ["反対は impermanence（無常、はかなさ）", "形容詞は permanent（永続的な）"],
+    "etym_note": "ラテン語 permanere「（最後まで）とどまり続ける」（per-「通して」+ manere「とどまる」）に由来し、「続き続ける性質＝永続性」を意味します。",
+    "etym_chain": [
+      { "node": "per + manere", "sub": "通して＋とどまる", "era": "ラテン語" },
+      { "node": "permanentia", "sub": "永続", "era": "後期ラテン語" },
+      { "node": "permanence", "sub": "永続性", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a sense of permanence", "ja": "永続性の感覚" },
+      { "en": "lasting permanence", "ja": "続く恒久性" },
+      { "en": "the illusion of permanence", "ja": "永続の幻想" },
+      { "en": "permanence and change", "ja": "永続と変化" },
+      { "en": "give a sense of permanence", "ja": "永続感を与える" },
+      { "en": "no permanence", "ja": "永続性がない" }
+    ],
+    "related": [
+      { "en": "permanent", "ja": "永続的な" },
+      { "en": "impermanence", "ja": "無常、はかなさ" },
+      { "en": "durability", "ja": "耐久性" },
+      { "en": "stability", "ja": "安定" }
+    ],
+    "faq": [
+      { "q": "permanence の反対語は？", "a": "impermanence（無常、はかなさ）です。permanent（永続的な）に否定の im- が付いた impermanent の名詞形です。" },
+      { "q": "形容詞はどれ？", "a": "permanent（永続的な、恒久的な）です。a permanent job（正社員の仕事）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "permanence の意味は？", "A": "永続性", "B": "移動", "C": "混乱", "D": "拒否", "correct": "A" },
+      { "q": "permanence の反対語は？", "A": "impermanence", "B": "importance", "C": "improvement", "D": "impatience", "correct": "A" }
+    ]
+  },
+  {
+    "english": "perpendicular",
+    "pron": "ˌpɜːrpənˈdɪkjələr",
+    "kana": "パーペンディキュラー",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 perpendiculum（下げ振り）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "数学"],
+    "meaning_main": "垂直の／直角の／垂線",
+    "description": "perpendicular（パーペンディキュラー）は垂直の・直角に交わるという意味。数学で頻出する語を、parallel（平行）との違いと共に解説します。",
+    "keywords": ["perpendicular 意味", "perpendicular 発音", "垂直 英語", "直角 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】垂直の、直角に交わる", "note": "90度で交わること。perpendicular to 〜（〜に垂直な）" },
+      { "hinshi": "【名詞】垂線、垂直", "note": "直角に交わる線" }
+    ],
+    "usages": [
+      { "title": "① 数学の直角", "desc": "二つの線が90度で交わること。perpendicular to the wall（壁に垂直な）。", "example_en": "This line is perpendicular to that one.", "example_ja": "この線はあの線に垂直だ。" },
+      { "title": "② parallel との対比", "desc": "perpendicular（垂直・直角）⇔ parallel（平行）。セットで覚える。", "example_en": "The two streets are perpendicular, not parallel.", "example_ja": "その2本の通りは平行ではなく直角に交わっている。" }
+    ],
+    "warn": ["parallel（平行）と対で覚える", "「〜に垂直」は perpendicular to 〜"],
+    "etym_note": "ラテン語 perpendiculum「下げ振り（垂直を測る重り）」に由来し、「垂直な・直角の」を意味する語になりました。",
+    "etym_chain": [
+      { "node": "perpendiculum", "sub": "下げ振り", "era": "ラテン語" },
+      { "node": "perpendicularis", "sub": "垂直の", "era": "ラテン語" },
+      { "node": "perpendicular", "sub": "垂直の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "perpendicular to", "ja": "〜に垂直な" },
+      { "en": "a perpendicular line", "ja": "垂線" },
+      { "en": "at a perpendicular angle", "ja": "直角に" },
+      { "en": "perpendicular walls", "ja": "垂直な壁" },
+      { "en": "draw a perpendicular", "ja": "垂線を引く" },
+      { "en": "nearly perpendicular", "ja": "ほぼ垂直の" }
+    ],
+    "related": [
+      { "en": "parallel", "ja": "平行の" },
+      { "en": "vertical", "ja": "垂直の" },
+      { "en": "angle", "ja": "角度" },
+      { "en": "right angle", "ja": "直角" }
+    ],
+    "faq": [
+      { "q": "perpendicular と parallel の違いは？", "a": "perpendicular は「垂直・直角に交わる」、parallel は「平行（交わらない）」です。数学で対になる重要語です。" },
+      { "q": "vertical との違いは？", "a": "vertical は「（地面に対して）鉛直・縦の」、perpendicular は「（ある線や面に対して）垂直・直角の」です。perpendicular は交わる相手が必要です。" }
+    ],
+    "quiz": [
+      { "q": "perpendicular の意味は？", "A": "平行の", "B": "垂直・直角の", "C": "斜めの", "D": "曲がった", "correct": "B" },
+      { "q": "perpendicular の反対に近い語は？", "A": "parallel", "B": "circular", "C": "central", "D": "personal", "correct": "A" }
+    ]
+  },
+  {
+    "english": "peta",
+    "pron": "ˈpetə",
+    "kana": "ペタ",
+    "hinshi": "接頭辞",
+    "ld_pos": "接頭辞",
+    "ld_etym": "ギリシャ語 pente（5）にちなむ",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "理科・単位"],
+    "meaning_main": "ペタ（10の15乗を表す接頭辞・記号P）",
+    "description": "peta（ペタ）は10の15乗（1000兆）を表すSI接頭辞という意味。記号はP。petabyte（ペタバイト）などで使う単位の語を解説します。",
+    "keywords": ["peta 意味", "peta 発音", "ペタ 単位", "petabyte 意味"],
+    "meanings": [
+      { "hinshi": "【接頭辞】ペタ（10の15乗、記号P）", "note": "1000兆を表すSI接頭辞。tera（10の12乗）の1000倍" }
+    ],
+    "usages": [
+      { "title": "① データ量の単位", "desc": "petabyte（ペタバイト、PB）は膨大なデータ量を表す。1 PB = 1000 TB。", "example_en": "The data center stores several petabytes of information.", "example_ja": "そのデータセンターは数ペタバイトの情報を保管している。" },
+      { "title": "② SI接頭辞の並び", "desc": "kilo（千）< mega（百万）< giga < tera < peta の順に大きくなる。", "example_en": "One petabyte equals one thousand terabytes.", "example_ja": "1ペタバイトは1000テラバイトに等しい。" }
+    ],
+    "warn": ["記号は大文字の P（小文字 p は pico＝10の-12乗で別物）", "tera（10^12）の1000倍が peta（10^15）"],
+    "etym_note": "ギリシャ語 pente（5）にちなんで作られたSI接頭辞で、10の15乗（＝1000の5乗）を表します。",
+    "etym_chain": [
+      { "node": "pente", "sub": "5", "era": "ギリシャ語" },
+      { "node": "peta-", "sub": "10の15乗", "era": "1975年（SI採用）" },
+      { "node": "peta", "sub": "ペタ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a petabyte", "ja": "1ペタバイト" },
+      { "en": "petabytes of data", "ja": "数ペタバイトのデータ" },
+      { "en": "petaflop", "ja": "ペタフロップス（計算速度）" },
+      { "en": "peta scale", "ja": "ペタ規模の" },
+      { "en": "one petameter", "ja": "1ペタメートル" },
+      { "en": "the peta prefix", "ja": "接頭辞ペタ" }
+    ],
+    "related": [
+      { "en": "tera", "ja": "テラ（10の12乗）" },
+      { "en": "giga", "ja": "ギガ（10の9乗）" },
+      { "en": "byte", "ja": "バイト" },
+      { "en": "prefix", "ja": "接頭辞" }
+    ],
+    "faq": [
+      { "q": "peta はどれくらいの大きさ？", "a": "10の15乗（1000兆）です。記号はP。tera（10の12乗）の1000倍で、petabyte（PB）は1000テラバイトに相当します。" },
+      { "q": "動物愛護団体の PETA とは別？", "a": "はい。ここでの peta はSI接頭辞（単位）です。動物愛護団体 PETA は別の固有名詞（頭字語）です。" }
+    ],
+    "quiz": [
+      { "q": "peta が表す大きさは？", "A": "10の9乗", "B": "10の12乗", "C": "10の15乗", "D": "10の18乗", "correct": "C" },
+      { "q": "peta の記号は？", "A": "P", "B": "p", "C": "T", "D": "G", "correct": "A" }
+    ]
+  },
+  {
+    "english": "petrel",
+    "pron": "ˈpetrəl",
+    "kana": "ペトレル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "聖ペテロ（Peter）にちなむとされる",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "生き物・海"],
+    "meaning_main": "ミズナギドリ／ウミツバメ（海鳥）",
+    "description": "petrel（ペトレル）は外洋を飛ぶ小型の海鳥、ウミツバメ・ミズナギドリの仲間という意味の名詞。水面すれすれを飛ぶ鳥を表す語を解説します。",
+    "keywords": ["petrel 意味", "petrel 発音", "ウミツバメ 英語", "ミズナギドリ 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】ウミツバメ、ミズナギドリの仲間", "note": "外洋を飛ぶ小〜中型の海鳥。数えられる名詞" }
+    ],
+    "usages": [
+      { "title": "① 外洋の海鳥", "desc": "陸から遠い海の上を飛び、水面すれすれを滑るように飛ぶ。storm petrel（ウミツバメ）が有名。", "example_en": "Storm petrels dart just above the waves.", "example_ja": "ウミツバメは波のすぐ上を素早く飛ぶ。" },
+      { "title": "② 語源の言い伝え", "desc": "水面を歩くように飛ぶ姿が、水の上を歩いた聖ペテロ（St. Peter）を思わせたことにちなむとされる。", "example_en": "The petrel seems to walk on water as it feeds.", "example_ja": "ウミツバメは餌を取るとき、水の上を歩くように見える。" }
+    ],
+    "warn": ["petrol（ガソリン、英）と綴りが1字違いなので混同注意", "storm petrel（ウミツバメ）という組み合わせで頻出"],
+    "etym_note": "水面を歩くように飛ぶ姿から、水の上を歩いた聖ペテロ（Peter）にちなんで名づけられたとされる海鳥の名です。",
+    "etym_chain": [
+      { "node": "Peter", "sub": "聖ペテロ", "era": "聖書由来" },
+      { "node": "pitteral", "sub": "海鳥", "era": "17世紀" },
+      { "node": "petrel", "sub": "ウミツバメ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a storm petrel", "ja": "ウミツバメ" },
+      { "en": "a giant petrel", "ja": "オオフルマカモメ" },
+      { "en": "petrels over the ocean", "ja": "海上を飛ぶウミツバメ" },
+      { "en": "a flock of petrels", "ja": "ウミツバメの群れ" },
+      { "en": "a diving petrel", "ja": "モグリウミツバメ" },
+      { "en": "spot a petrel", "ja": "ウミツバメを見つける" }
+    ],
+    "related": [
+      { "en": "seabird", "ja": "海鳥" },
+      { "en": "albatross", "ja": "アホウドリ" },
+      { "en": "gull", "ja": "カモメ" },
+      { "en": "ocean", "ja": "大洋" }
+    ],
+    "faq": [
+      { "q": "petrel と petrol の違いは？", "a": "petrel は「海鳥（ウミツバメ）」、petrol は「ガソリン（英）」です。綴りが1字違いなので混同に注意しましょう。" },
+      { "q": "名前の由来は？", "a": "水面を歩くように飛ぶ姿が、水の上を歩いた聖ペテロ（St. Peter）を思わせたことにちなむとされています。" }
+    ],
+    "quiz": [
+      { "q": "petrel は何の名前？", "A": "海鳥", "B": "花", "C": "鉱物", "D": "魚", "correct": "A" },
+      { "q": "petrel と混同しやすい語は？", "A": "petrol（ガソリン）", "B": "pencil（鉛筆）", "C": "petal（花びら）", "D": "pedal（ペダル）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "petrol",
+    "pron": "ˈpetrəl",
+    "kana": "ペトロル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 petra（岩）+ oleum（油）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "英・乗り物"],
+    "meaning_main": "ガソリン（英）",
+    "description": "petrol（ペトロル）はガソリンという意味の名詞（主にイギリス英語）。米語の gas/gasoline との違いを含め、車の燃料を表す語を解説します。",
+    "keywords": ["petrol 意味", "petrol 発音", "ガソリン 英語", "petrol gas 違い"],
+    "meanings": [
+      { "hinshi": "【名詞】ガソリン（英）", "note": "自動車の燃料。イギリス英語。米語では gas / gasoline。数えない名詞" }
+    ],
+    "usages": [
+      { "title": "① 英国のガソリン", "desc": "英国では車の燃料を petrol という。給油所は petrol station。", "example_en": "We need to stop for petrol before the trip.", "example_ja": "旅行の前にガソリンを入れに寄る必要がある。" },
+      { "title": "② 米英の違い", "desc": "米: gas / gasoline、英: petrol。ガソリンスタンドは米 gas station、英 petrol station。", "example_en": "In America they say 'gas,' but in Britain it's 'petrol.'", "example_ja": "アメリカでは gas、イギリスでは petrol と言う。" }
+    ],
+    "warn": ["米語では gas / gasoline。petrol は主に英国", "petrel（海鳥）と綴りが1字違いなので混同注意"],
+    "etym_note": "ラテン語 petra（岩）と oleum（油）から成る petroleum（石油）を短くした語で、「石油から作る燃料＝ガソリン」を意味します。",
+    "etym_chain": [
+      { "node": "petra + oleum", "sub": "岩＋油", "era": "ラテン語" },
+      { "node": "petroleum", "sub": "石油", "era": "中世ラテン語" },
+      { "node": "petrol", "sub": "ガソリン", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a petrol station", "ja": "ガソリンスタンド（英）" },
+      { "en": "run out of petrol", "ja": "ガス欠になる" },
+      { "en": "fill up with petrol", "ja": "ガソリンを満タンにする" },
+      { "en": "unleaded petrol", "ja": "無鉛ガソリン" },
+      { "en": "the price of petrol", "ja": "ガソリンの価格" },
+      { "en": "a petrol engine", "ja": "ガソリンエンジン" }
+    ],
+    "related": [
+      { "en": "gasoline", "ja": "ガソリン（米）" },
+      { "en": "petroleum", "ja": "石油" },
+      { "en": "diesel", "ja": "ディーゼル(油)" },
+      { "en": "fuel", "ja": "燃料" }
+    ],
+    "faq": [
+      { "q": "petrol と gas の違いは？", "a": "同じ「ガソリン」を指しますが、petrol は主にイギリス英語、gas / gasoline はアメリカ英語です。" },
+      { "q": "petroleum との違いは？", "a": "petroleum は精製前の「石油」全般、petrol はそこから作られる自動車用の「ガソリン」です。" }
+    ],
+    "quiz": [
+      { "q": "petrol の意味は？", "A": "ガソリン", "B": "水", "C": "電気", "D": "塩", "correct": "A" },
+      { "q": "petrol の米語表現は？", "A": "gas / gasoline", "B": "oil", "C": "coal", "D": "steam", "correct": "A" }
+    ]
+  },
+  {
+    "english": "pharaoh",
+    "pron": "ˈferoʊ",
+    "kana": "フェアロウ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "エジプト語 per-aa（大きな家）",
+    "ld_level": "準1級",
+    "badges": ["中学生〜", "英検準1級", "CEFR B2", "歴史"],
+    "meaning_main": "ファラオ（古代エジプトの王）",
+    "description": "pharaoh（フェアロウ）は古代エジプトの王を意味する名詞。ツタンカーメンやピラミッドで有名な、per-aa（大きな家）を語源とする語を解説します。",
+    "keywords": ["pharaoh 意味", "pharaoh 発音", "ファラオ 英語", "古代エジプト 王"],
+    "meanings": [
+      { "hinshi": "【名詞】ファラオ、古代エジプトの王", "note": "古代エジプトの君主。数えられる名詞" }
+    ],
+    "usages": [
+      { "title": "① 古代エジプトの王", "desc": "ピラミッドを築かせ、神として崇められた王。Tutankhamun（ツタンカーメン）などが有名。", "example_en": "The pharaoh was buried with great treasures.", "example_ja": "そのファラオは莫大な財宝とともに埋葬された。" },
+      { "title": "② 綴りに注意", "desc": "pharaoh は h の位置が間違えやすい語（× pharoah）。歴史の頻出単語。", "example_en": "Ancient Egyptians believed the pharaoh was a living god.", "example_ja": "古代エジプト人は、ファラオを生ける神と信じていた。" }
+    ],
+    "warn": ["綴りは pharaoh（× pharoah）。最後は -aoh", "発音は「フェアロウ」に近い"],
+    "etym_note": "エジプト語 per-aa「大きな家（＝王宮）」に由来し、やがて王宮に住む「王」そのものを指すようになった語です。",
+    "etym_chain": [
+      { "node": "per-aa", "sub": "大きな家（王宮）", "era": "古代エジプト語" },
+      { "node": "pharaō", "sub": "ファラオ", "era": "ギリシャ語" },
+      { "node": "pharaoh", "sub": "ファラオ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an Egyptian pharaoh", "ja": "エジプトのファラオ" },
+      { "en": "the pharaoh's tomb", "ja": "ファラオの墓" },
+      { "en": "the great pharaoh", "ja": "偉大なファラオ" },
+      { "en": "worship the pharaoh", "ja": "ファラオを崇める" },
+      { "en": "the pharaoh's court", "ja": "ファラオの宮廷" },
+      { "en": "an ancient pharaoh", "ja": "古代のファラオ" }
+    ],
+    "related": [
+      { "en": "egypt", "ja": "エジプト" },
+      { "en": "pyramid", "ja": "ピラミッド" },
+      { "en": "mummy", "ja": "ミイラ" },
+      { "en": "dynasty", "ja": "王朝" }
+    ],
+    "faq": [
+      { "q": "pharaoh の語源は？", "a": "エジプト語 per-aa「大きな家（王宮）」です。もとは王宮を指す言葉が、そこに住む王そのものを表すようになりました。" },
+      { "q": "綴りで気をつける点は？", "a": "pharaoh です。最後を pharoah と書き間違えやすいので注意しましょう（正しくは -aoh）。" }
+    ],
+    "quiz": [
+      { "q": "pharaoh とは？", "A": "古代エジプトの王", "B": "ギリシャの神", "C": "ローマの将軍", "D": "中国の皇帝", "correct": "A" },
+      { "q": "pharaoh の語源 per-aa の意味は？", "A": "大きな家（王宮）", "B": "太陽", "C": "川", "D": "砂", "correct": "A" }
+    ]
+  },
+  {
+    "english": "phenol",
+    "pron": "ˈfiːnɒl",
+    "kana": "フィノール",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "phene（ベンゼンの古称）+ -ol（アルコール）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "理科・化学"],
+    "meaning_main": "フェノール（石炭酸）",
+    "description": "phenol（フィノール）はベンゼン環に水酸基がついた化合物、フェノール（石炭酸）という意味の名詞。消毒薬や樹脂の原料になる化学物質を解説します。",
+    "keywords": ["phenol 意味", "phenol 発音", "フェノール 英語", "石炭酸 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】フェノール、石炭酸", "note": "ベンゼン環に -OH がついた化合物。消毒・樹脂原料。数えない名詞" }
+    ],
+    "usages": [
+      { "title": "① 化学・工業の物質", "desc": "プラスチック（フェノール樹脂）や薬品の原料。強い刺激臭を持つ。", "example_en": "Phenol is used to make plastics and disinfectants.", "example_ja": "フェノールはプラスチックや消毒薬の製造に使われる。" },
+      { "title": "② 消毒薬の歴史", "desc": "かつて外科手術の消毒に使われた（石炭酸）。ただし毒性があり扱いに注意。", "example_en": "Phenol was one of the first surgical antiseptics.", "example_ja": "フェノールは最初期の外科用消毒薬の一つだった。" }
+    ],
+    "warn": ["毒性・腐食性があり、直接触れると危険", "-ol は「アルコール類（水酸基-OH）」を示す接尾辞: ethanol, methanol"],
+    "etym_note": "ベンゼンの古い呼び名 phene に、水酸基を持つ化合物を示す接尾辞 -ol が付いた語で、「ベンゼン環＋OH の化合物」を意味します。",
+    "etym_chain": [
+      { "node": "phaino", "sub": "光る、輝く", "era": "ギリシャ語" },
+      { "node": "phene + -ol", "sub": "ベンゼン＋アルコール", "era": "19世紀" },
+      { "node": "phenol", "sub": "フェノール", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "phenol resin", "ja": "フェノール樹脂" },
+      { "en": "liquid phenol", "ja": "液体フェノール" },
+      { "en": "the smell of phenol", "ja": "フェノールの臭い" },
+      { "en": "a phenol solution", "ja": "フェノール溶液" },
+      { "en": "toxic phenol", "ja": "有毒なフェノール" },
+      { "en": "phenol compounds", "ja": "フェノール化合物" }
+    ],
+    "related": [
+      { "en": "benzene", "ja": "ベンゼン" },
+      { "en": "alcohol", "ja": "アルコール" },
+      { "en": "disinfectant", "ja": "消毒薬" },
+      { "en": "compound", "ja": "化合物" }
+    ],
+    "faq": [
+      { "q": "phenol はどんな物質？", "a": "ベンゼン環に水酸基（-OH）がついた化合物で、石炭酸とも呼ばれます。プラスチックや消毒薬の原料になりますが、毒性・腐食性があります。" },
+      { "q": "-ol は何を表す？", "a": "「水酸基（-OH）を持つ化合物」を示す接尾辞です。ethanol（エタノール）、methanol（メタノール）と同じ系統です。" }
+    ],
+    "quiz": [
+      { "q": "phenol の別名は？", "A": "石炭酸", "B": "食塩", "C": "重曹", "D": "砂糖", "correct": "A" },
+      { "q": "phenol の -ol が示すものは？", "A": "水酸基（-OH）を持つ化合物", "B": "金属", "C": "気体", "D": "塩類", "correct": "A" }
+    ]
+  }
+]
