@@ -1,0 +1,994 @@
+[
+  {
+    "english": "shuffle",
+    "pron": "ˈʃʌfəl",
+    "kana": "シャッフル",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "低地ドイツ語 schuffeln（引きずる）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出"],
+    "meaning_main": "（カードを）切る／足を引きずって歩く／並べ替える",
+    "description": "shuffle（シャッフル）はカードを切る、足を引きずって歩く、順番を混ぜて並べ替えるという意味の動詞・名詞。音楽の再生でも使う語を解説します。",
+    "keywords": ["shuffle 意味", "shuffle 発音", "カードを切る 英語", "シャッフル 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（カードを）切る、混ぜる", "note": "順番をばらばらに混ぜること。shuffle the cards（カードを切る）" },
+      { "hinshi": "【動詞】足を引きずって歩く", "note": "足を上げずにずるずると歩くこと" },
+      { "hinshi": "【名詞】シャッフル（順番の入れ替え）", "note": "曲などをランダムに再生すること" }
+    ],
+    "usages": [
+      { "title": "① カードを切る", "desc": "トランプの順番をばらばらに混ぜること。shuffle and deal（切って配る）。", "example_en": "He shuffled the cards before dealing.", "example_ja": "彼は配る前にカードを切った。" },
+      { "title": "② 足を引きずって歩く", "desc": "足を上げずにずるずると歩くさま。shuffle along（とぼとぼ歩く）。音楽では shuffle play（ランダム再生）。", "example_en": "The tired old man shuffled down the hall.", "example_ja": "疲れた老人は廊下をとぼとぼ歩いた。" }
+    ],
+    "warn": ["音楽の「シャッフル再生」は shuffle play / on shuffle", "名詞でも a shuffle（足を引きずる歩き方・入れ替え）"],
+    "etym_note": "低地ドイツ語 schuffeln「引きずる、こする」に由来し、「（足を）引きずる」「（カードを混ぜて）ずらす＝切る」を意味する語になりました。",
+    "etym_chain": [
+      { "node": "schuffeln", "sub": "引きずる", "era": "低地ドイツ語" },
+      { "node": "shuffle", "sub": "引きずる、混ぜる", "era": "16世紀" },
+      { "node": "shuffle", "sub": "シャッフルする", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "shuffle the cards", "ja": "カードを切る" },
+      { "en": "shuffle along", "ja": "とぼとぼ歩く" },
+      { "en": "on shuffle", "ja": "シャッフル再生で" },
+      { "en": "shuffle your feet", "ja": "足をもぞもぞ動かす" },
+      { "en": "a cabinet shuffle", "ja": "内閣改造" },
+      { "en": "shuffle the papers", "ja": "書類を混ぜる" }
+    ],
+    "related": [
+      { "en": "mix", "ja": "混ぜる" },
+      { "en": "rearrange", "ja": "並べ替える" },
+      { "en": "deal", "ja": "配る" },
+      { "en": "trudge", "ja": "とぼとぼ歩く" }
+    ],
+    "faq": [
+      { "q": "shuffle の主な意味は？", "a": "①カードなどを『切る・混ぜる』、②足を引きずって『とぼとぼ歩く』の2つが中心です。音楽の『シャッフル再生（ランダム再生）』でもおなじみです。" },
+      { "q": "cabinet shuffle とは？", "a": "「内閣改造」のことです。大臣の顔ぶれをシャッフル（入れ替え）することからこう呼ばれます。" }
+    ],
+    "quiz": [
+      { "q": "shuffle the cards の意味は？", "A": "カードを切る", "B": "カードを配る", "C": "カードを数える", "D": "カードを捨てる", "correct": "A" },
+      { "q": "shuffle のもう一つの意味は？", "A": "足を引きずって歩く", "B": "全力で走る", "C": "高く跳ぶ", "D": "静かに立つ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sickness",
+    "pron": "ˈsɪknəs",
+    "kana": "シックネス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "sick（病気の）+ -ness",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "頻出"],
+    "meaning_main": "病気／吐き気／不調",
+    "description": "sickness（シックネス）は病気・体の不調、また吐き気という意味の名詞。sick（病気の）+ -ness から成り、motion sickness（乗り物酔い）などで使う語を解説します。",
+    "keywords": ["sickness 意味", "sickness 発音", "病気 英語", "吐き気 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】病気、体の不調", "note": "健康でない状態全般。数えない・数える両用" },
+      { "hinshi": "【名詞】吐き気、むかつき", "note": "特に英語で。morning sickness（つわり）" }
+    ],
+    "usages": [
+      { "title": "① 病気・不調", "desc": "健康を害した状態。sickness and health（病めるときも健やかなるときも）。", "example_en": "He was absent due to sickness.", "example_ja": "彼は病気で欠席した。" },
+      { "title": "② 吐き気・〜酔い", "desc": "motion sickness（乗り物酔い）、morning sickness（つわり）など、「吐き気」を含む複合語で頻出。", "example_en": "She felt motion sickness on the boat.", "example_ja": "彼女は船で乗り物酔いを感じた。" }
+    ],
+    "warn": ["形容詞は sick（病気の、吐きそうな）", "illness（病気）とほぼ同義だが、sickness は「吐き気」も含む"],
+    "etym_note": "sick（病気の）に、状態を表す接尾辞 -ness が付いた語で、「病気であること＝病気・不調」を意味します。",
+    "etym_chain": [
+      { "node": "seoc", "sub": "病気の", "era": "古英語" },
+      { "node": "sick + -ness", "sub": "病気の＋状態", "era": "中英語" },
+      { "node": "sickness", "sub": "病気", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "motion sickness", "ja": "乗り物酔い" },
+      { "en": "morning sickness", "ja": "つわり" },
+      { "en": "in sickness and in health", "ja": "病めるときも健やかなるときも" },
+      { "en": "sickness benefit", "ja": "傷病手当" },
+      { "en": "altitude sickness", "ja": "高山病" },
+      { "en": "sea sickness", "ja": "船酔い" }
+    ],
+    "related": [
+      { "en": "sick", "ja": "病気の" },
+      { "en": "illness", "ja": "病気" },
+      { "en": "disease", "ja": "疾患" },
+      { "en": "nausea", "ja": "吐き気" }
+    ],
+    "faq": [
+      { "q": "sickness と illness の違いは？", "a": "ほぼ同じ「病気」ですが、sickness は『吐き気・むかつき』の意味も含み、motion sickness（乗り物酔い）のような複合語でよく使われます。" },
+      { "q": "motion sickness とは？", "a": "「乗り物酔い」のことです。car sickness（車酔い）、sea sickness（船酔い）、air sickness（飛行機酔い）とも言います。" }
+    ],
+    "quiz": [
+      { "q": "motion sickness の意味は？", "A": "乗り物酔い", "B": "食中毒", "C": "頭痛", "D": "風邪", "correct": "A" },
+      { "q": "sickness の形容詞形は？", "A": "sick", "B": "sicken", "C": "sickly", "D": "sicker", "correct": "A" }
+    ]
+  },
+  {
+    "english": "signatory",
+    "pron": "ˈsɪɡnətɔːri",
+    "kana": "シグナトリー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 signare（署名する）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "法律・政治"],
+    "meaning_main": "署名者／（条約などの）調印国・当事者",
+    "description": "signatory（シグナトリー）は条約や契約に署名した人・国という意味の名詞。ラテン語 signare（署名する）由来の、国際条約などで使う語を解説します。",
+    "keywords": ["signatory 意味", "signatory 発音", "調印国 英語", "署名者 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】署名者、調印国・当事者", "note": "条約・契約に署名した人や国。数えられる名詞" }
+    ],
+    "usages": [
+      { "title": "① 条約の調印国", "desc": "国際条約などに署名した国。a signatory to the treaty（条約の調印国）。", "example_en": "Japan is a signatory to the treaty.", "example_ja": "日本はその条約の調印国だ。" },
+      { "title": "② 契約の署名者", "desc": "契約書などに署名した当事者も指す。the signatories of the agreement（合意の署名者たち）。", "example_en": "All signatories must follow the agreement.", "example_ja": "すべての署名者は合意を守らなければならない。" }
+    ],
+    "warn": ["動詞は sign（署名する）、名詞 signature は「署名」", "「〜の調印国」は a signatory to / of 〜"],
+    "etym_note": "ラテン語 signare「署名する、印をつける」に由来し、「署名した者＝署名者・調印国」を意味します。sign（署名する）と同源です。",
+    "etym_chain": [
+      { "node": "signare", "sub": "署名する", "era": "ラテン語" },
+      { "node": "signatory", "sub": "署名した", "era": "17世紀" },
+      { "node": "signatory", "sub": "署名者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a signatory to the treaty", "ja": "条約の調印国" },
+      { "en": "the signatories of the agreement", "ja": "合意の署名者たち" },
+      { "en": "a founding signatory", "ja": "原加盟の調印国" },
+      { "en": "become a signatory", "ja": "調印国になる" },
+      { "en": "signatory countries", "ja": "調印各国" },
+      { "en": "the original signatories", "ja": "当初の署名者たち" }
+    ],
+    "related": [
+      { "en": "sign", "ja": "署名する" },
+      { "en": "signature", "ja": "署名" },
+      { "en": "treaty", "ja": "条約" },
+      { "en": "party", "ja": "当事者" }
+    ],
+    "faq": [
+      { "q": "signatory とは？", "a": "条約や契約に署名した人・国のことです。a signatory to the treaty（条約の調印国）のように使います。" },
+      { "q": "signature との違いは？", "a": "signatory は「署名した人・国」、signature は「署名（サインそのもの）」です。" }
+    ],
+    "quiz": [
+      { "q": "signatory の意味は？", "A": "署名者・調印国", "B": "翻訳者", "C": "観客", "D": "記者", "correct": "A" },
+      { "q": "signatory の動詞形は？", "A": "sign", "B": "signal", "C": "single", "D": "sink", "correct": "A" }
+    ]
+  },
+  {
+    "english": "significance",
+    "pron": "sɪɡˈnɪfɪkəns",
+    "kana": "シグニフィカンス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 significare（意味を示す）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出"],
+    "meaning_main": "重要性／意義／意味",
+    "description": "significance（シグニフィカンス）は重要性・意義、また意味という意味の名詞。significant（重要な）の名詞形で、学術や日常で頻出する語を解説します。",
+    "keywords": ["significance 意味", "significance 発音", "重要性 英語", "意義 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】重要性、意義", "note": "重要である度合い・価値。数えない名詞" },
+      { "hinshi": "【名詞】意味、含み", "note": "言葉や出来事が持つ意味・含意" }
+    ],
+    "usages": [
+      { "title": "① 重要性・意義", "desc": "どれほど重要かを表す。the significance of the discovery（その発見の意義）。", "example_en": "Historians debate the significance of the event.", "example_ja": "歴史家はその出来事の意義を議論する。" },
+      { "title": "② 意味・含み", "desc": "言葉や合図が持つ意味も表す。statistical significance（統計的有意性）は学術で頻出。", "example_en": "The results showed statistical significance.", "example_ja": "その結果は統計的な有意性を示した。" }
+    ],
+    "warn": ["形容詞は significant（重要な、著しい）", "反対の概念は insignificance（取るに足らないこと）"],
+    "etym_note": "ラテン語 significare「意味を示す」（signum＝印 + facere＝作る）に由来し、「意味・重要性」を意味する名詞になりました。",
+    "etym_chain": [
+      { "node": "significare", "sub": "意味を示す", "era": "ラテン語" },
+      { "node": "significance", "sub": "意味、重要性", "era": "15世紀" },
+      { "node": "significance", "sub": "重要性", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the significance of", "ja": "〜の重要性" },
+      { "en": "historical significance", "ja": "歴史的意義" },
+      { "en": "statistical significance", "ja": "統計的有意性" },
+      { "en": "great significance", "ja": "大きな意義" },
+      { "en": "attach significance to", "ja": "〜を重視する" },
+      { "en": "of little significance", "ja": "ほとんど意味のない" }
+    ],
+    "related": [
+      { "en": "significant", "ja": "重要な" },
+      { "en": "importance", "ja": "重要性" },
+      { "en": "meaning", "ja": "意味" },
+      { "en": "relevance", "ja": "関連性、意義" }
+    ],
+    "faq": [
+      { "q": "significance の形容詞形は？", "a": "significant（重要な、著しい）です。a significant increase（著しい増加）のように使います。" },
+      { "q": "statistical significance とは？", "a": "「統計的有意性」のことです。結果が偶然ではなく意味のある差だと言える度合いを表す、研究でよく使う表現です。" }
+    ],
+    "quiz": [
+      { "q": "significance の意味は？", "A": "重要性・意義", "B": "無関心", "C": "混乱", "D": "沈黙", "correct": "A" },
+      { "q": "significance の形容詞形は？", "A": "significant", "B": "signal", "C": "signature", "D": "signify", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sill",
+    "pron": "sɪl",
+    "kana": "シル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 syll（土台の横木）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "建築・生活"],
+    "meaning_main": "窓台（まどだい）／敷居／下枠",
+    "description": "sill（シル）は窓の下の水平な台（窓台）や、ドアの敷居という意味の名詞。windowsill（窓台）でよく使う、建物の下枠を表す語を解説します。",
+    "keywords": ["sill 意味", "sill 発音", "窓台 英語", "敷居 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】窓台、（窓・戸の）下枠、敷居", "note": "窓やドアの下部にある水平な台。数えられる名詞" }
+    ],
+    "usages": [
+      { "title": "① 窓台（windowsill）", "desc": "窓の下の水平な台。物を置いたり、猫が座ったりする。a window sill（窓台）。", "example_en": "The cat sat on the window sill.", "example_ja": "猫は窓台に座っていた。" },
+      { "title": "② ドアの敷居", "desc": "戸口の下枠（敷居）も指す。door sill（敷居）。つまずかないよう注意する部分。", "example_en": "She placed a plant on the sill.", "example_ja": "彼女は窓台に鉢植えを置いた。" }
+    ],
+    "warn": ["「窓台」は windowsill / window sill", "地質学では「岩床（シル）」という別の専門的意味もある"],
+    "etym_note": "古英語 syll「土台の横木、敷居」に由来し、「窓や戸の下部にある水平な台＝窓台・敷居」を意味します。",
+    "etym_chain": [
+      { "node": "syll", "sub": "土台の横木", "era": "古英語" },
+      { "node": "sille", "sub": "敷居", "era": "中英語" },
+      { "node": "sill", "sub": "窓台、敷居", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a window sill", "ja": "窓台" },
+      { "en": "on the sill", "ja": "窓台の上に" },
+      { "en": "a door sill", "ja": "敷居" },
+      { "en": "a stone sill", "ja": "石の下枠" },
+      { "en": "a plant on the sill", "ja": "窓台の鉢植え" },
+      { "en": "wipe the sill", "ja": "窓台を拭く" }
+    ],
+    "related": [
+      { "en": "windowsill", "ja": "窓台" },
+      { "en": "ledge", "ja": "出っ張り、棚状の部分" },
+      { "en": "frame", "ja": "枠" },
+      { "en": "threshold", "ja": "敷居、境目" }
+    ],
+    "faq": [
+      { "q": "sill とは？", "a": "窓やドアの下部にある水平な台（下枠）です。特に窓の下の台は windowsill（窓台）と呼び、物を置いたり猫が座ったりする部分です。" },
+      { "q": "threshold との違いは？", "a": "sill は窓・戸の下枠全般、threshold は特に『戸口の敷居（またぐ部分）』や比喩の『境目・入り口』を指します。" }
+    ],
+    "quiz": [
+      { "q": "window sill の意味は？", "A": "窓台", "B": "窓ガラス", "C": "カーテン", "D": "屋根", "correct": "A" },
+      { "q": "sill の意味は？", "A": "窓や戸の下枠", "B": "天井", "C": "煙突", "D": "階段", "correct": "A" }
+    ]
+  },
+  {
+    "english": "silversmith",
+    "pron": "ˈsɪlvərsmɪθ",
+    "kana": "シルバースミス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "silver（銀）+ smith（金属職人）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "職業"],
+    "meaning_main": "銀細工師／銀器職人",
+    "description": "silversmith（シルバースミス）は銀を加工して器や装飾品を作る職人、銀細工師という意味の名詞。silver（銀）+ smith（金属職人）から成る語を解説します。",
+    "keywords": ["silversmith 意味", "silversmith 発音", "銀細工師 英語", "銀器職人 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】銀細工師、銀器職人", "note": "銀を加工して器や装飾品を作る職人。数えられる名詞" }
+    ],
+    "usages": [
+      { "title": "① 銀を加工する職人", "desc": "銀のスプーンや装飾品、器などを作る職人。金の職人は goldsmith。", "example_en": "The silversmith crafted a beautiful silver bowl.", "example_ja": "銀細工師は美しい銀の器を作った。" },
+      { "title": "② -smith（金属職人）系", "desc": "smith は「金属を加工する職人」。blacksmith（鍛冶屋）、goldsmith（金細工師）と同系。", "example_en": "She trained for years to become a silversmith.", "example_ja": "彼女は銀細工師になるため何年も修行した。" }
+    ],
+    "warn": ["-smith（金属職人）系: blacksmith（鍛冶屋）, goldsmith（金細工師）", "smith 単独でも「鍛冶屋・金属職人」を指す"],
+    "etym_note": "silver（銀）と smith（金属を加工する職人）を組み合わせた語で、「銀を扱う職人＝銀細工師」を意味します。",
+    "etym_chain": [
+      { "node": "silver + smith", "sub": "銀＋金属職人", "era": "古英語" },
+      { "node": "silversmith", "sub": "銀細工師", "era": "中英語" },
+      { "node": "silversmith", "sub": "銀細工師", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a skilled silversmith", "ja": "熟練の銀細工師" },
+      { "en": "the silversmith's workshop", "ja": "銀細工師の工房" },
+      { "en": "a master silversmith", "ja": "銀細工の名工" },
+      { "en": "work as a silversmith", "ja": "銀細工師として働く" },
+      { "en": "a silversmith's tools", "ja": "銀細工師の道具" },
+      { "en": "trained as a silversmith", "ja": "銀細工師として修行した" }
+    ],
+    "related": [
+      { "en": "goldsmith", "ja": "金細工師" },
+      { "en": "blacksmith", "ja": "鍛冶屋" },
+      { "en": "smith", "ja": "金属職人" },
+      { "en": "craftsman", "ja": "職人" }
+    ],
+    "faq": [
+      { "q": "silversmith とは？", "a": "銀を加工して器やスプーン、装飾品などを作る職人（銀細工師）です。金を扱う職人は goldsmith と言います。" },
+      { "q": "-smith はどういう意味？", "a": "「金属を加工する職人」を表します。blacksmith（鍛冶屋）、goldsmith（金細工師）などがあり、英語の姓 Smith もここから来ています。" }
+    ],
+    "quiz": [
+      { "q": "silversmith の意味は？", "A": "銀細工師", "B": "銀行員", "C": "宝石商", "D": "画家", "correct": "A" },
+      { "q": "金を扱う職人は？", "A": "goldsmith", "B": "blacksmith", "C": "locksmith", "D": "wordsmith", "correct": "A" }
+    ]
+  },
+  {
+    "english": "simplistic",
+    "pron": "sɪmˈplɪstɪk",
+    "kana": "シンプリスティック",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "simple（単純な）+ -istic",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "文語"],
+    "meaning_main": "（単純化しすぎて）安直な／短絡的な",
+    "description": "simplistic（シンプリスティック）は物事を単純化しすぎて安直な・短絡的なという意味の形容詞。simple（単純な）とは違う否定的なニュアンスを解説します。",
+    "keywords": ["simplistic 意味", "simplistic 発音", "単純化しすぎ 英語", "simplistic simple 違い"],
+    "meanings": [
+      { "hinshi": "【形容詞】単純化しすぎた、安直な、短絡的な", "note": "複雑な物事を単純にとらえすぎているさま。否定的" }
+    ],
+    "usages": [
+      { "title": "① 単純化しすぎた見方", "desc": "複雑な問題を単純にとらえすぎること。a simplistic view（短絡的な見方）。批判的に使う。", "example_en": "That's a simplistic view of a complex problem.", "example_ja": "それは複雑な問題に対する短絡的な見方だ。" },
+      { "title": "② simple との違い", "desc": "simple は中立〜肯定の「単純な・わかりやすい」、simplistic は否定の「単純化しすぎた」。", "example_en": "His explanation was too simplistic.", "example_ja": "彼の説明は単純化しすぎていた。" }
+    ],
+    "warn": ["simple（単純な）は中立、simplistic は否定的で別物", "「わかりやすい」の意味では simple を使う"],
+    "etym_note": "simple（単純な）に -istic が付いた語で、「単純さを（度を越して）追い求めた＝単純化しすぎた」という否定的な意味になりました。",
+    "etym_chain": [
+      { "node": "simple", "sub": "単純な", "era": "中英語" },
+      { "node": "simplistic", "sub": "単純化しすぎた", "era": "19世紀" },
+      { "node": "simplistic", "sub": "安直な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a simplistic view", "ja": "短絡的な見方" },
+      { "en": "too simplistic", "ja": "単純化しすぎた" },
+      { "en": "a simplistic approach", "ja": "安直な手法" },
+      { "en": "overly simplistic", "ja": "過度に単純化した" },
+      { "en": "a simplistic explanation", "ja": "単純すぎる説明" },
+      { "en": "a simplistic answer", "ja": "短絡的な答え" }
+    ],
+    "related": [
+      { "en": "simple", "ja": "単純な" },
+      { "en": "shallow", "ja": "浅はかな" },
+      { "en": "naive", "ja": "うぶな、単純な" },
+      { "en": "reductive", "ja": "単純化した" }
+    ],
+    "faq": [
+      { "q": "simplistic と simple の違いは？", "a": "simple は「単純な・わかりやすい」という中立〜肯定の語ですが、simplistic は『複雑なものを単純化しすぎた・安直な』という否定的な語です。" },
+      { "q": "どんなときに使う？", "a": "複雑な問題を浅く単純にとらえた見方や説明を批判するときに使います。a simplistic view（短絡的な見方）が定番です。" }
+    ],
+    "quiz": [
+      { "q": "simplistic の意味は？", "A": "単純化しすぎた・安直な", "B": "複雑で難しい", "C": "正確な", "D": "詳しい", "correct": "A" },
+      { "q": "simplistic のニュアンスは？", "A": "否定的（浅はか）", "B": "とても肯定的", "C": "中立で無関係", "D": "喜ばしい", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sine",
+    "pron": "saɪn",
+    "kana": "サイン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 sinus（湾曲、ふところ）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "数学"],
+    "meaning_main": "サイン（正弦）／三角関数の一つ",
+    "description": "sine（サイン）は三角関数の一つ、正弦（せいげん）という意味の名詞。直角三角形の辺の比を表す、cosine や tangent と対の数学用語を解説します。",
+    "keywords": ["sine 意味", "sine 発音", "サイン 正弦 英語", "三角関数 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】サイン、正弦", "note": "三角関数の一つ。直角三角形で「対辺÷斜辺」。記号 sin" }
+    ],
+    "usages": [
+      { "title": "① 三角関数の正弦", "desc": "直角三角形で、ある角の対辺と斜辺の比。cosine（余弦）、tangent（正接）と対で学ぶ。", "example_en": "The sine of 30 degrees is 0.5.", "example_ja": "30度のサインは0.5だ。" },
+      { "title": "② サイン波", "desc": "sine wave（正弦波）は音や電気で基本となるなめらかな波。物理でも頻出。", "example_en": "A pure tone produces a sine wave.", "example_ja": "純音は正弦波を生み出す。" }
+    ],
+    "warn": ["署名の sign（サイン）や合図の sign とは別語", "cosine（余弦）/ tangent（正接）と対で覚える"],
+    "etym_note": "ラテン語 sinus「湾曲、ふところ」に由来します。アラビア語からの翻訳の過程で、弦の作る「湾曲」を表す語として数学に取り入れられました。",
+    "etym_chain": [
+      { "node": "sinus", "sub": "湾曲、ふところ", "era": "ラテン語" },
+      { "node": "sine", "sub": "正弦", "era": "16世紀" },
+      { "node": "sine", "sub": "サイン", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a sine wave", "ja": "正弦波" },
+      { "en": "the sine of an angle", "ja": "角のサイン" },
+      { "en": "sine and cosine", "ja": "サインとコサイン" },
+      { "en": "the sine function", "ja": "サイン関数" },
+      { "en": "calculate the sine", "ja": "サインを計算する" },
+      { "en": "sine, cosine, and tangent", "ja": "サイン・コサイン・タンジェント" }
+    ],
+    "related": [
+      { "en": "cosine", "ja": "コサイン、余弦" },
+      { "en": "tangent", "ja": "タンジェント、正接" },
+      { "en": "trigonometry", "ja": "三角法" },
+      { "en": "angle", "ja": "角度" }
+    ],
+    "faq": [
+      { "q": "sine（正弦）とは？", "a": "三角関数の一つで、直角三角形において『ある角の対辺 ÷ 斜辺』の比を表します。記号は sin です。cosine（余弦）、tangent（正接）と対で学びます。" },
+      { "q": "署名の sign と同じ？", "a": "いいえ、別の語です。数学の sine（正弦）と、署名や合図の sign（サイン）は発音は同じでも意味も綴りも違います。" }
+    ],
+    "quiz": [
+      { "q": "sine は何の一つ？", "A": "三角関数", "B": "図形", "C": "単位", "D": "定数だけ", "correct": "A" },
+      { "q": "sine と対になる三角関数は？", "A": "cosine", "B": "average", "C": "median", "D": "ratio", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sinewy",
+    "pron": "ˈsɪnjui",
+    "kana": "シニュイ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "sinew（腱）+ -y",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "文語"],
+    "meaning_main": "筋肉質でたくましい／（肉が）筋っぽい",
+    "description": "sinewy（シニュイ）は筋肉質で引き締まってたくましい、また肉が筋っぽいという意味の形容詞。sinew（腱・筋）+ -y から成る語を解説します。",
+    "keywords": ["sinewy 意味", "sinewy 発音", "筋肉質 英語", "筋っぽい 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】筋肉質でたくましい、引き締まった", "note": "太くはないが強くしなやかな体つき" },
+      { "hinshi": "【形容詞】（肉が）筋っぽい", "note": "腱や筋が多くて硬い" }
+    ],
+    "usages": [
+      { "title": "① 引き締まった体つき", "desc": "太くはないが強くしなやかな筋肉。sinewy arms（引き締まった腕）。", "example_en": "The runner had a lean, sinewy body.", "example_ja": "そのランナーは細く引き締まった体つきだった。" },
+      { "title": "② 肉が筋っぽい", "desc": "食べ物の肉について「筋が多くて硬い」の意味でも使う。sinewy meat（筋っぽい肉）。", "example_en": "The cheap steak was tough and sinewy.", "example_ja": "その安いステーキは硬くて筋っぽかった。" }
+    ],
+    "warn": ["sinew は「腱・筋」。muscular（筋骨たくましい）より「しなやかで強い」印象", "肉については「筋が多く硬い」の否定的な意味"],
+    "etym_note": "sinew（腱、筋）に形容詞をつくる -y が付いた語で、「腱・筋の発達した＝筋肉質でたくましい」を意味します。",
+    "etym_chain": [
+      { "node": "sinu", "sub": "腱、筋", "era": "古英語" },
+      { "node": "sinew + -y", "sub": "腱＋的な", "era": "中英語" },
+      { "node": "sinewy", "sub": "筋肉質の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a sinewy body", "ja": "引き締まった体" },
+      { "en": "sinewy arms", "ja": "たくましい腕" },
+      { "en": "lean and sinewy", "ja": "細く引き締まった" },
+      { "en": "sinewy hands", "ja": "筋張った手" },
+      { "en": "a sinewy figure", "ja": "引き締まった体格" },
+      { "en": "sinewy meat", "ja": "筋っぽい肉" }
+    ],
+    "related": [
+      { "en": "sinew", "ja": "腱、筋" },
+      { "en": "muscular", "ja": "筋骨たくましい" },
+      { "en": "wiry", "ja": "細身で頑丈な" },
+      { "en": "lean", "ja": "引き締まった" }
+    ],
+    "faq": [
+      { "q": "sinewy と muscular の違いは？", "a": "muscular は「筋肉が大きくたくましい」、sinewy は『太くはないが、腱や筋が発達して強くしなやか』という引き締まった印象です。" },
+      { "q": "肉にも使う？", "a": "はい。sinewy meat（筋っぽい肉）のように、腱や筋が多くて硬い肉を表すのにも使います。" }
+    ],
+    "quiz": [
+      { "q": "sinewy の意味は？", "A": "筋肉質で引き締まった", "B": "ぶよぶよした", "C": "背が高い", "D": "青白い", "correct": "A" },
+      { "q": "sinewy の元になった名詞は？", "A": "sinew（腱・筋）", "B": "skin（皮膚）", "C": "spine（背骨）", "D": "sight（視力）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sinful",
+    "pron": "ˈsɪnfəl",
+    "kana": "シンフル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "sin（罪）+ -ful",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "宗教・文語"],
+    "meaning_main": "罪深い／悪い／（口語）ぜいたくな",
+    "description": "sinful（シンフル）は道徳的・宗教的に罪深い・悪いという意味の形容詞。sin（罪）+ -ful から成り、口語では「(甘いものなど)背徳的にぜいたくな」も表す語を解説します。",
+    "keywords": ["sinful 意味", "sinful 発音", "罪深い 英語", "背徳的 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】罪深い、悪い", "note": "宗教的・道徳的に罪にあたるさま" },
+      { "hinshi": "【形容詞】（口語）背徳的にぜいたくな", "note": "甘いものなどが「罪なほどおいしい・豪華な」" }
+    ],
+    "usages": [
+      { "title": "① 宗教・道徳の罪", "desc": "sin（罪）+ -ful。宗教的に悪いとされる行いを表す。a sinful act（罪深い行い）。", "example_en": "He confessed his sinful deeds.", "example_ja": "彼は自分の罪深い行いを告白した。" },
+      { "title": "② 背徳的なぜいたく（口語）", "desc": "甘いものや豪華なものを「罪なほど（背徳的に）おいしい・ぜいたくな」と表す口語。", "example_en": "This chocolate cake is sinfully delicious.", "example_ja": "このチョコケーキは罪なほどおいしい。" }
+    ],
+    "warn": ["名詞は sin（罪）、副詞は sinfully", "-ful（満ちた）系: sin→sinful, care→careful"],
+    "etym_note": "sin（罪）に「〜に満ちた」を表す接尾辞 -ful が付いた語で、「罪に満ちた＝罪深い」を意味します。",
+    "etym_chain": [
+      { "node": "synn", "sub": "罪", "era": "古英語" },
+      { "node": "sin + -ful", "sub": "罪＋満ちた", "era": "中英語" },
+      { "node": "sinful", "sub": "罪深い", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a sinful act", "ja": "罪深い行い" },
+      { "en": "sinful thoughts", "ja": "邪な考え" },
+      { "en": "sinfully delicious", "ja": "罪なほどおいしい" },
+      { "en": "a sinful pleasure", "ja": "背徳的な楽しみ" },
+      { "en": "sinful behavior", "ja": "罪深い振る舞い" },
+      { "en": "morally sinful", "ja": "道徳的に罪深い" }
+    ],
+    "related": [
+      { "en": "sin", "ja": "罪" },
+      { "en": "wicked", "ja": "邪悪な" },
+      { "en": "immoral", "ja": "不道徳な" },
+      { "en": "guilty", "ja": "罪を犯した" }
+    ],
+    "faq": [
+      { "q": "sinful の口語の意味は？", "a": "甘いものや豪華なものを「罪なほど（背徳的に）おいしい・ぜいたくな」と、ほめる形で表すことがあります。sinfully delicious（罪なほどおいしい）が定番です。" },
+      { "q": "名詞形は？", "a": "sin（罪）です。sinful は「罪に満ちた＝罪深い」を意味する形容詞です。" }
+    ],
+    "quiz": [
+      { "q": "sinful の意味は？", "A": "罪深い・悪い", "B": "神聖な", "C": "正しい", "D": "無罪の", "correct": "A" },
+      { "q": "sinfully delicious の意味は？", "A": "罪なほどおいしい", "B": "まずい", "C": "冷たい", "D": "健康的な", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sinuous",
+    "pron": "ˈsɪnjuəs",
+    "kana": "シニュアス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 sinus（湾曲）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "文語"],
+    "meaning_main": "曲がりくねった／うねうねした／しなやかな",
+    "description": "sinuous（シニュアス）は曲がりくねった・うねうねした、またしなやかで優美なという意味の形容詞。川や動きなどを表す、ラテン語 sinus（湾曲）由来の語を解説します。",
+    "keywords": ["sinuous 意味", "sinuous 発音", "曲がりくねった 英語", "しなやか 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】曲がりくねった、うねうねした", "note": "何度もカーブして波打つように曲がったさま" },
+      { "hinshi": "【形容詞】しなやかで優美な", "note": "なめらかで流れるような動き" }
+    ],
+    "usages": [
+      { "title": "① うねった形", "desc": "川・道・線などが何度も曲がっているさま。a sinuous river（曲がりくねった川）。", "example_en": "The sinuous river wound through the valley.", "example_ja": "曲がりくねった川が谷を縫って流れていた。" },
+      { "title": "② しなやかな動き", "desc": "ダンスや体の動きが「なめらかで優美」というほめ言葉にも使う。sinuous movements（しなやかな動き）。", "example_en": "The dancer made sinuous movements.", "example_ja": "そのダンサーはしなやかな動きを見せた。" }
+    ],
+    "warn": ["serpentine（蛇のように曲がった）と近い", "sinus（湾曲）由来。sine（正弦）とも同源"],
+    "etym_note": "ラテン語 sinus「湾曲、曲がり」に由来し、「何度も曲がった＝曲がりくねった・しなやかな」を意味する形容詞になりました。",
+    "etym_chain": [
+      { "node": "sinus", "sub": "湾曲", "era": "ラテン語" },
+      { "node": "sinuosus", "sub": "曲がりくねった", "era": "ラテン語" },
+      { "node": "sinuous", "sub": "曲がりくねった", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a sinuous river", "ja": "曲がりくねった川" },
+      { "en": "a sinuous path", "ja": "うねった小道" },
+      { "en": "sinuous curves", "ja": "うねるカーブ" },
+      { "en": "sinuous movements", "ja": "しなやかな動き" },
+      { "en": "a sinuous line", "ja": "うねった線" },
+      { "en": "sinuous and graceful", "ja": "しなやかで優美な" }
+    ],
+    "related": [
+      { "en": "winding", "ja": "曲がりくねった" },
+      { "en": "serpentine", "ja": "蛇のように曲がった" },
+      { "en": "curvy", "ja": "曲線的な" },
+      { "en": "supple", "ja": "しなやかな" }
+    ],
+    "faq": [
+      { "q": "sinuous と serpentine の違いは？", "a": "どちらも「曲がりくねった」ですが、serpentine は『蛇のような』が原義、sinuous はより広く『うねって波打つ・しなやかな』動きや形にも使えます。" },
+      { "q": "しなやかな動きにも使う？", "a": "はい。ダンスや体の動きが『なめらかで優美』というほめ言葉として、sinuous movements（しなやかな動き）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "sinuous の意味は？", "A": "曲がりくねった・しなやかな", "B": "まっすぐな", "C": "四角い", "D": "硬い", "correct": "A" },
+      { "q": "a sinuous river の意味は？", "A": "曲がりくねった川", "B": "澄んだ川", "C": "浅い川", "D": "速い川", "correct": "A" }
+    ]
+  },
+  {
+    "english": "siskin",
+    "pron": "ˈsɪskɪn",
+    "kana": "シスキン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "スカンジナビア語系（鳴き声から）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "生き物・鳥"],
+    "meaning_main": "マヒワ（黄緑色の小鳥）",
+    "description": "siskin（シスキン）は黄緑色の羽を持つアトリ科の小鳥、マヒワという意味の名詞。針葉樹林にすみ群れで飛ぶ、フィンチの仲間の鳥を解説します。",
+    "keywords": ["siskin 意味", "siskin 発音", "マヒワ 英語", "小鳥 フィンチ 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】マヒワ", "note": "黄緑色の羽を持つ、アトリ科の小さな鳴き鳥。数えられる名詞" }
+    ],
+    "usages": [
+      { "title": "① 黄緑色の小鳥", "desc": "フィンチ（finch）の仲間。針葉樹の種を食べ、群れで飛ぶ。ヨーロッパやアジアに分布。", "example_en": "A flock of siskins landed in the pine trees.", "example_ja": "マヒワの群れが松の木にとまった。" },
+      { "title": "② バードウォッチングで人気", "desc": "小さくかわいらしく、冬に庭の餌台にも来る。finch（アトリ）の一種として観察される。", "example_en": "Siskins often visit garden feeders in winter.", "example_ja": "マヒワは冬によく庭の餌台に来る。" }
+    ],
+    "warn": ["アトリ科（finch）の小鳥。日本語では「マヒワ」", "発音は「シスキン」"],
+    "etym_note": "スカンジナビア語系の語に由来し、鳴き声を表した語とされます。黄緑色のアトリ科の小鳥を意味します。",
+    "etym_chain": [
+      { "node": "siske", "sub": "マヒワ（鳴き声）", "era": "スカンジナビア語" },
+      { "node": "siskin", "sub": "マヒワ", "era": "16世紀" },
+      { "node": "siskin", "sub": "マヒワ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a Eurasian siskin", "ja": "マヒワ" },
+      { "en": "a flock of siskins", "ja": "マヒワの群れ" },
+      { "en": "the siskin's song", "ja": "マヒワのさえずり" },
+      { "en": "a pine siskin", "ja": "マツノマヒワ（北米種）" },
+      { "en": "spot a siskin", "ja": "マヒワを見つける" },
+      { "en": "a yellow siskin", "ja": "黄色いマヒワ" }
+    ],
+    "related": [
+      { "en": "finch", "ja": "アトリ、フィンチ" },
+      { "en": "songbird", "ja": "鳴き鳥" },
+      { "en": "sparrow", "ja": "スズメ" },
+      { "en": "canary", "ja": "カナリア" }
+    ],
+    "faq": [
+      { "q": "siskin はどんな鳥？", "a": "黄緑色の羽を持つ、アトリ科（finch）の小さな鳴き鳥（マヒワ）です。針葉樹林にすみ、群れで飛びます。" },
+      { "q": "日本語では何という？", "a": "マヒワです。冬には日本にも渡ってきて、群れで見られることがあります。" }
+    ],
+    "quiz": [
+      { "q": "siskin は何の仲間の鳥？", "A": "アトリ（finch）", "B": "ワシ", "C": "フクロウ", "D": "ペンギン", "correct": "A" },
+      { "q": "siskin の羽の色は？", "A": "黄緑色", "B": "真っ黒", "C": "真っ赤", "D": "真っ白", "correct": "A" }
+    ]
+  },
+  {
+    "english": "skillfully",
+    "pron": "ˈskɪlfəli",
+    "kana": "スキルフリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "skill（技能）+ -ful + -ly",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出"],
+    "meaning_main": "巧みに／上手に／熟練して",
+    "description": "skillfully（スキルフリー）は巧みに・上手に・熟練してという意味の副詞。skill（技能）+ -ful + -ly から成る、英綴り skilfully も含めて解説します。",
+    "keywords": ["skillfully 意味", "skillfully 発音", "巧みに 英語", "上手に 英語"],
+    "meanings": [
+      { "hinshi": "【副詞】巧みに、上手に、熟練して", "note": "高い技術で見事に行うさま" }
+    ],
+    "usages": [
+      { "title": "① 巧みに行う", "desc": "技術を発揮して見事にやること。skillfully handle（巧みに扱う）。形容詞は skillful。", "example_en": "She skillfully repaired the old clock.", "example_ja": "彼女は古い時計を巧みに修理した。" },
+      { "title": "② 綴りに注意", "desc": "米綴りは skillfully、英綴りは skilfully（l が1つ）。", "example_en": "He skillfully avoided the difficult question.", "example_ja": "彼は難しい質問を巧みにかわした。" }
+    ],
+    "warn": ["米: skillfully、英: skilfully（l の数が違う）", "形容詞は skillful / skilful（上手な）"],
+    "etym_note": "skill（技能）に -ful（〜に満ちた）と副詞をつくる -ly が付いた語で、「技能をもって＝巧みに」を意味します。",
+    "etym_chain": [
+      { "node": "skil", "sub": "技能", "era": "古ノルド語" },
+      { "node": "skillful", "sub": "上手な", "era": "中英語" },
+      { "node": "skillfully", "sub": "巧みに", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "skillfully handle", "ja": "巧みに扱う" },
+      { "en": "skillfully crafted", "ja": "巧みに作られた" },
+      { "en": "play skillfully", "ja": "上手に演奏する" },
+      { "en": "skillfully avoid", "ja": "巧みにかわす" },
+      { "en": "skillfully done", "ja": "見事な出来ばえの" },
+      { "en": "negotiate skillfully", "ja": "巧みに交渉する" }
+    ],
+    "related": [
+      { "en": "skillful", "ja": "上手な" },
+      { "en": "skill", "ja": "技能" },
+      { "en": "expertly", "ja": "熟練して" },
+      { "en": "deftly", "ja": "手際よく" }
+    ],
+    "faq": [
+      { "q": "skillfully の綴りは？", "a": "アメリカ英語では skillfully、イギリス英語では skilfully（l が1つ）と綴ります。形容詞も skillful / skilful です。" },
+      { "q": "反対の意味は？", "a": "clumsily（不器用に）や awkwardly（ぎこちなく）です。skillfully は技術を発揮して上手に行うさまを表します。" }
+    ],
+    "quiz": [
+      { "q": "skillfully の意味は？", "A": "巧みに・上手に", "B": "不器用に", "C": "急いで", "D": "静かに", "correct": "A" },
+      { "q": "skillfully の形容詞形は？", "A": "skillful", "B": "skillless", "C": "skillish", "D": "skillive", "correct": "A" }
+    ]
+  },
+  {
+    "english": "slack",
+    "pron": "slæk",
+    "kana": "スラック",
+    "hinshi": "形容詞 / 名詞 / 動詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "古英語 slæc（ゆるい、怠惰な）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出"],
+    "meaning_main": "たるんだ／ゆるい／（仕事が）暇な／たるみ",
+    "description": "slack（スラック）はロープなどがたるんだ・ゆるい、また活気がなく暇な、さらに「たるみ・余裕」という名詞の意味を持つ語。cut some slack などの表現を解説します。",
+    "keywords": ["slack 意味", "slack 発音", "たるんだ 英語", "cut some slack 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】たるんだ、ゆるい", "note": "ぴんと張っていない状態。a slack rope（たるんだロープ）" },
+      { "hinshi": "【形容詞】（仕事などが）暇な、活気のない", "note": "business is slack（商売が暇だ）" },
+      { "hinshi": "【名詞】たるみ、余裕", "note": "cut someone some slack（大目に見る）" }
+    ],
+    "usages": [
+      { "title": "① たるんだ・ゆるい", "desc": "ロープなどがぴんと張っていない状態。take up the slack（たるみを取る）。", "example_en": "The rope went slack.", "example_ja": "ロープがたるんだ。" },
+      { "title": "② 暇な／大目に見る", "desc": "business is slack（商売が暇）。cut someone some slack（人を大目に見る・多めに見る）は頻出表現。", "example_en": "Cut him some slack; he's new here.", "example_ja": "彼を大目に見てあげて。まだ新人なんだから。" }
+    ],
+    "warn": ["cut someone some slack（人を大目に見る）は定番の口語表現", "slacks は「スラックス（ズボン）」の意味の別用法"],
+    "etym_note": "古英語 slæc「ゆるい、怠惰な」に由来し、「たるんだ・ゆるい」「活気のない・暇な」を意味する語になりました。",
+    "etym_chain": [
+      { "node": "slæc", "sub": "ゆるい、怠惰な", "era": "古英語" },
+      { "node": "slack", "sub": "たるんだ", "era": "中英語" },
+      { "node": "slack", "sub": "たるんだ、暇な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "cut someone some slack", "ja": "人を大目に見る" },
+      { "en": "take up the slack", "ja": "たるみを取る、穴を埋める" },
+      { "en": "a slack rope", "ja": "たるんだロープ" },
+      { "en": "business is slack", "ja": "商売が暇だ" },
+      { "en": "slack off", "ja": "手を抜く、さぼる" },
+      { "en": "pick up the slack", "ja": "不足分を補う" }
+    ],
+    "related": [
+      { "en": "loose", "ja": "ゆるい" },
+      { "en": "lazy", "ja": "怠惰な" },
+      { "en": "tight", "ja": "ぴんと張った" },
+      { "en": "idle", "ja": "暇な" }
+    ],
+    "faq": [
+      { "q": "cut someone some slack とは？", "a": "「人を大目に見る・多めに見てあげる」という定番の口語表現です。相手の事情を考えて厳しくしないことを表します。" },
+      { "q": "slack off とは？", "a": "「手を抜く・さぼる」という意味です。Don't slack off.（さぼるな）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "cut someone some slack の意味は？", "A": "人を大目に見る", "B": "人を厳しく叱る", "C": "人を無視する", "D": "人を助ける", "correct": "A" },
+      { "q": "slack（形容詞）の意味は？", "A": "たるんだ・ゆるい", "B": "ぴんと張った", "C": "重い", "D": "熱い", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sleepwalker",
+    "pron": "ˈsliːpwɔːkər",
+    "kana": "スリープウォーカー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "sleep（眠り）+ walker（歩く人）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "医療・生活"],
+    "meaning_main": "夢遊病者／眠ったまま歩く人",
+    "description": "sleepwalker（スリープウォーカー）は眠ったまま歩き回る人、夢遊病者という意味の名詞。sleep（眠り）+ walker から成る、睡眠の現象を表す語を解説します。",
+    "keywords": ["sleepwalker 意味", "sleepwalker 発音", "夢遊病者 英語", "眠ったまま歩く 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】夢遊病者、眠ったまま歩く人", "note": "眠っている間に歩き回る人。数えられる名詞" }
+    ],
+    "usages": [
+      { "title": "① 眠ったまま歩く人", "desc": "深い眠りの中で起き上がって歩き回る人。行為は sleepwalking（夢遊病）。", "example_en": "A sleepwalker may not remember walking at night.", "example_ja": "夢遊病者は夜に歩いたことを覚えていないことがある。" },
+      { "title": "② 動詞は sleepwalk", "desc": "sleepwalk（眠ったまま歩く）。専門的には somnambulism（夢遊病）とも言う。", "example_en": "As a child, he used to sleepwalk.", "example_ja": "子供のころ、彼はよく夢遊病で歩いた。" }
+    ],
+    "warn": ["現象・行為は sleepwalking、動詞は sleepwalk", "専門語では somnambulism（夢遊病）"],
+    "etym_note": "sleep（眠り）と walker（歩く人）を組み合わせた語で、「眠ったまま歩く人＝夢遊病者」を意味します。",
+    "etym_chain": [
+      { "node": "sleep + walker", "sub": "眠り＋歩く人", "era": "近代英語" },
+      { "node": "sleepwalker", "sub": "夢遊病者", "era": "18世紀" },
+      { "node": "sleepwalker", "sub": "夢遊病者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a sleepwalker at night", "ja": "夜の夢遊病者" },
+      { "en": "wake a sleepwalker", "ja": "夢遊病者を起こす" },
+      { "en": "like a sleepwalker", "ja": "夢遊病者のように" },
+      { "en": "a young sleepwalker", "ja": "若い夢遊病者" },
+      { "en": "the sleepwalker wandered", "ja": "夢遊病者がさまよった" },
+      { "en": "become a sleepwalker", "ja": "夢遊病になる" }
+    ],
+    "related": [
+      { "en": "sleepwalk", "ja": "眠ったまま歩く" },
+      { "en": "sleepwalking", "ja": "夢遊病" },
+      { "en": "insomnia", "ja": "不眠症" },
+      { "en": "nightmare", "ja": "悪夢" }
+    ],
+    "faq": [
+      { "q": "sleepwalker とは？", "a": "眠っている間に起き上がって歩き回る人（夢遊病者）です。その現象は sleepwalking、専門語では somnambulism と言います。" },
+      { "q": "夢遊病者を起こしてもいい？", "a": "無理に起こすと混乱させることがあるため、そっと安全な場所へ導いてあげるのがよいとされます（医学的助言は専門家に確認してください）。" }
+    ],
+    "quiz": [
+      { "q": "sleepwalker の意味は？", "A": "夢遊病者", "B": "早起きの人", "C": "夜勤の人", "D": "居眠りする人", "correct": "A" },
+      { "q": "sleepwalker を構成する2語は？", "A": "sleep + walker", "B": "sheep + worker", "C": "sweep + waker", "D": "slip + walker", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sleigh",
+    "pron": "sleɪ",
+    "kana": "スレイ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "オランダ語 slee（そり）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "乗り物・季節"],
+    "meaning_main": "そり（馬などが引く大型のそり）",
+    "description": "sleigh（スレイ）は馬などが引く、雪の上を進む大型のそりという意味の名詞。サンタクロースのそりでおなじみの、slay と同音の語を解説します。",
+    "keywords": ["sleigh 意味", "sleigh 発音", "そり 英語", "サンタ そり 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】そり（馬などが引く大型のもの）", "note": "雪や氷の上を滑って進む乗り物。数えられる名詞" }
+    ],
+    "usages": [
+      { "title": "① 馬が引くそり", "desc": "雪上を進む大型のそり。ride in a sleigh（そりに乗る）。サンタのそりでおなじみ。", "example_en": "They rode through the snow in a horse-drawn sleigh.", "example_ja": "彼らは馬の引くそりで雪の中を進んだ。" },
+      { "title": "② 発音・綴りに注意", "desc": "発音は「スレイ」で、slay（殺す）と同音。歌 Jingle Bells の one-horse open sleigh でも有名。", "example_en": "Santa's sleigh is pulled by reindeer.", "example_ja": "サンタのそりはトナカイに引かれる。" }
+    ],
+    "warn": ["発音は「スレイ」。slay（殺す）と同音の別語", "小型で自分で乗るそりは sled / sledge"],
+    "etym_note": "オランダ語 slee「そり」に由来し、馬などが引く大型のそりを意味する語になりました。",
+    "etym_chain": [
+      { "node": "slee", "sub": "そり", "era": "オランダ語" },
+      { "node": "sleigh", "sub": "そり", "era": "18世紀" },
+      { "node": "sleigh", "sub": "そり", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a horse-drawn sleigh", "ja": "馬の引くそり" },
+      { "en": "ride in a sleigh", "ja": "そりに乗る" },
+      { "en": "Santa's sleigh", "ja": "サンタのそり" },
+      { "en": "a sleigh ride", "ja": "そり遊び、そりの旅" },
+      { "en": "sleigh bells", "ja": "そりの鈴" },
+      { "en": "a one-horse sleigh", "ja": "一頭立てのそり" }
+    ],
+    "related": [
+      { "en": "sled", "ja": "そり（小型）" },
+      { "en": "sledge", "ja": "そり（英）" },
+      { "en": "reindeer", "ja": "トナカイ" },
+      { "en": "snow", "ja": "雪" }
+    ],
+    "faq": [
+      { "q": "sleigh と sled の違いは？", "a": "sleigh は馬などが引く大型のそり、sled（英では sledge）は子供が乗るような小型のそりを指すことが多いです。" },
+      { "q": "発音は？", "a": "「スレイ（sleɪ）」で、slay（殺す）と同じ発音です。綴りが違うので混同しないよう注意しましょう。" }
+    ],
+    "quiz": [
+      { "q": "sleigh の意味は？", "A": "そり", "B": "ボート", "C": "自転車", "D": "気球", "correct": "A" },
+      { "q": "sleigh を引くことで有名な動物は？", "A": "トナカイ", "B": "ライオン", "C": "ゾウ", "D": "イルカ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "slop",
+    "pron": "slɑːp",
+    "kana": "スロップ",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "中英語 sloppe（水たまり、こぼれ)",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "口語"],
+    "meaning_main": "（液体を）こぼす／こぼれる／残飯・水っぽいもの",
+    "description": "slop（スロップ）は液体をこぼす・ばしゃっとこぼれるという意味の動詞、また残飯や水っぽい食べ物という名詞。だらしなくこぼれる様子を表す語を解説します。",
+    "keywords": ["slop 意味", "slop 発音", "こぼす 英語", "残飯 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】（液体を）こぼす、こぼれる", "note": "だらしなく、ばしゃっとこぼす／あふれること" },
+      { "hinshi": "【名詞】残飯、水っぽい食べ物", "note": "家畜のえさや、まずい汁物。しばしば複数形 slops" }
+    ],
+    "usages": [
+      { "title": "① 液体をこぼす", "desc": "コップやバケツからばしゃっとこぼす・こぼれること。slop water（水をこぼす）。", "example_en": "He slopped coffee all over the table.", "example_ja": "彼はテーブル中にコーヒーをこぼした。" },
+      { "title": "② 残飯・水っぽい食べ物", "desc": "家畜に与える残飯（slops）や、まずくて水っぽい料理を指す。", "example_en": "The pigs were fed kitchen slops.", "example_ja": "豚には台所の残飯が与えられた。" }
+    ],
+    "warn": ["過去形・過去分詞は slopped（p を重ねる）", "「残飯」の意味では複数形 slops が多い"],
+    "etym_note": "中英語 sloppe「水たまり、ぬかるみ」に由来し、「（液体が）だらしなくこぼれる」「水っぽい残飯」を意味する語になりました。",
+    "etym_chain": [
+      { "node": "sloppe", "sub": "水たまり", "era": "中英語" },
+      { "node": "slop", "sub": "こぼす", "era": "近代英語" },
+      { "node": "slop", "sub": "こぼす、残飯", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "slop water", "ja": "水をこぼす" },
+      { "en": "slop over", "ja": "あふれ出る" },
+      { "en": "kitchen slops", "ja": "台所の残飯" },
+      { "en": "slop out", "ja": "（汚物を）流し出す" },
+      { "en": "slop everywhere", "ja": "あちこちにこぼす" },
+      { "en": "pig slop", "ja": "豚のえさ（残飯）" }
+    ],
+    "related": [
+      { "en": "spill", "ja": "こぼす" },
+      { "en": "splash", "ja": "跳ねる" },
+      { "en": "sloppy", "ja": "だらしない、水っぽい" },
+      { "en": "leftovers", "ja": "残り物" }
+    ],
+    "faq": [
+      { "q": "slop と spill の違いは？", "a": "どちらも「こぼす」ですが、slop は『だらしなく、ばしゃっと大量にこぼす』ニュアンスが強く、spill は一般的に『こぼす』を表します。" },
+      { "q": "「残飯」の意味もある？", "a": "はい。家畜に与える残飯や水っぽいまずい食べ物を指し、ふつう複数形 slops で使います。" }
+    ],
+    "quiz": [
+      { "q": "slop（動詞）の意味は？", "A": "（液体を）こぼす", "B": "凍らせる", "C": "沸かす", "D": "こす", "correct": "A" },
+      { "q": "kitchen slops の意味は？", "A": "台所の残飯", "B": "台所の道具", "C": "台所の窓", "D": "台所の掃除", "correct": "A" }
+    ]
+  },
+  {
+    "english": "slush",
+    "pron": "slʌʃ",
+    "kana": "スラッシュ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "擬音語（どろどろした音）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "気象・食べ物"],
+    "meaning_main": "溶けかけのぬかるんだ雪／シャーベット状の飲み物",
+    "description": "slush（スラッシュ）は溶けかけてどろどろになった雪、またシャーベット状の冷たい飲み物という意味の名詞。冬の道の状態などを表す語を解説します。",
+    "keywords": ["slush 意味", "slush 発音", "溶けかけの雪 英語", "シャーベット 飲み物 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】溶けかけのぬかるんだ雪", "note": "雪が溶けて水と混ざったどろどろの状態。数えない名詞" },
+      { "hinshi": "【名詞】シャーベット状の冷たい飲み物", "note": "細かい氷と味付き液の飲み物（slushie）" }
+    ],
+    "usages": [
+      { "title": "① 溶けかけの雪", "desc": "雪が溶けて水と混ざったどろどろの状態。道がぬかるんで歩きにくい。", "example_en": "The streets were covered in gray slush.", "example_ja": "通りは灰色のぬかるんだ雪で覆われていた。" },
+      { "title": "② シャーベット状の飲み物", "desc": "細かい氷と味付きの液を混ぜた冷たい飲み物。slush / slushie と呼ぶ。", "example_en": "The kids bought a cherry slush.", "example_ja": "子供たちはチェリー味のスラッシュを買った。" }
+    ],
+    "warn": ["数えない名詞。飲み物は slushie とも呼ぶ", "slush fund は「裏金・不正資金」という別の慣用表現"],
+    "etym_note": "どろどろした音を表した擬音語から生まれた語で、「溶けかけのぬかるんだ雪」や「シャーベット状の飲み物」を意味します。",
+    "etym_chain": [
+      { "node": "slush", "sub": "どろどろ（擬音）", "era": "17世紀" },
+      { "node": "slush", "sub": "溶けかけの雪", "era": "近代英語" },
+      { "node": "slush", "sub": "溶けかけの雪", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "melting slush", "ja": "溶けかけの雪" },
+      { "en": "gray slush", "ja": "灰色のぬかるんだ雪" },
+      { "en": "walk through slush", "ja": "ぬかるんだ雪の中を歩く" },
+      { "en": "a cherry slush", "ja": "チェリー味のスラッシュ" },
+      { "en": "slushy roads", "ja": "ぬかるんだ道" },
+      { "en": "a slush fund", "ja": "裏金、不正資金" }
+    ],
+    "related": [
+      { "en": "snow", "ja": "雪" },
+      { "en": "sludge", "ja": "ヘドロ、泥状のもの" },
+      { "en": "mud", "ja": "泥" },
+      { "en": "ice", "ja": "氷" }
+    ],
+    "faq": [
+      { "q": "slush とは？", "a": "雪が溶けて水と混ざった、どろどろでぬかるんだ状態のことです。また、細かい氷と味付き液を混ぜたシャーベット状の冷たい飲み物（slushie）も指します。" },
+      { "q": "slush fund とは？", "a": "「裏金・不正資金」を意味する慣用表現です。雪解けのどろどろとは別に、正規の会計に載せない資金を指します。" }
+    ],
+    "quiz": [
+      { "q": "slush の意味は？", "A": "溶けかけのぬかるんだ雪", "B": "固い氷", "C": "積もった雪", "D": "冷たい風", "correct": "A" },
+      { "q": "slush fund の意味は？", "A": "裏金・不正資金", "B": "貯金箱", "C": "給料", "D": "寄付金", "correct": "A" }
+    ]
+  },
+  {
+    "english": "smalls",
+    "pron": "smɔːlz",
+    "kana": "スモールズ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "small（小さい）の複数用法",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "英・口語"],
+    "meaning_main": "（英口語）下着・小さな洗濯物",
+    "description": "smalls（スモールズ）はイギリスの口語で下着や小さな洗濯物という意味の名詞。small（小さい）を複数で用いる、くだけたイギリス英語を解説します。",
+    "keywords": ["smalls 意味", "smalls 発音", "下着 英語 口語", "smalls イギリス"],
+    "meanings": [
+      { "hinshi": "【名詞】（英口語）下着、小さな洗濯物", "note": "特にイギリスで、下着など小物の洗濯物を指す。ふつう複数形" }
+    ],
+    "usages": [
+      { "title": "① 下着・小物の洗濯物", "desc": "イギリスのくだけた言い方で「下着」や小さな洗濯物。wash one's smalls（下着を洗う）。", "example_en": "She hung her smalls out to dry.", "example_ja": "彼女は下着を干した。" },
+      { "title": "② イギリス英語の口語", "desc": "アメリカではあまり使わない。underwear（下着）のくだけた言い方。", "example_en": "Don't forget to pack your smalls.", "example_ja": "下着を荷物に入れ忘れないで。" }
+    ],
+    "warn": ["主にイギリス英語のくだけた口語", "一般には underwear（下着）を使う"],
+    "etym_note": "形容詞 small（小さい）を名詞的に複数で用いた語で、「小さな衣類＝下着・小物の洗濯物」を意味するイギリス口語になりました。",
+    "etym_chain": [
+      { "node": "smæl", "sub": "小さい", "era": "古英語" },
+      { "node": "small", "sub": "小さい", "era": "中英語" },
+      { "node": "smalls", "sub": "下着（英口語）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "wash one's smalls", "ja": "下着を洗う" },
+      { "en": "hang out the smalls", "ja": "下着を干す" },
+      { "en": "pack your smalls", "ja": "下着を荷造りする" },
+      { "en": "a pile of smalls", "ja": "下着の山" },
+      { "en": "dry the smalls", "ja": "下着を乾かす" },
+      { "en": "fold the smalls", "ja": "下着をたたむ" }
+    ],
+    "related": [
+      { "en": "underwear", "ja": "下着" },
+      { "en": "laundry", "ja": "洗濯物" },
+      { "en": "undies", "ja": "下着（口語）" },
+      { "en": "clothes", "ja": "衣類" }
+    ],
+    "faq": [
+      { "q": "smalls とは？", "a": "イギリスのくだけた口語で「下着」や小さな洗濯物を指します。wash one's smalls（下着を洗う）のように使います。" },
+      { "q": "アメリカでも使う？", "a": "あまり使いません。主にイギリス英語の口語で、一般的には underwear（下着）を使います。" }
+    ],
+    "quiz": [
+      { "q": "（英口語）smalls の意味は？", "A": "下着・小さな洗濯物", "B": "小銭", "C": "子供", "D": "小型車", "correct": "A" },
+      { "q": "smalls は主にどこの英語？", "A": "イギリス", "B": "アメリカ", "C": "オーストラリアだけ", "D": "カナダだけ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "smelt",
+    "pron": "smelt",
+    "kana": "スメルト",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "中期オランダ語 smelten（溶かす）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "理科・工業"],
+    "meaning_main": "（鉱石を）製錬する／シラウオ類の小魚",
+    "description": "smelt（スメルト）は鉱石を溶かして金属を取り出す製錬という意味の動詞、またシラウオに似た小魚という意味の名詞。smell の過去形との違いも解説します。",
+    "keywords": ["smelt 意味", "smelt 発音", "製錬 英語", "smelt 魚"],
+    "meanings": [
+      { "hinshi": "【動詞】（鉱石を）製錬する", "note": "鉱石を高温で溶かし、金属を取り出すこと" },
+      { "hinshi": "【名詞】シラウオ類の小魚", "note": "食用にされる細長い小魚" }
+    ],
+    "usages": [
+      { "title": "① 鉱石から金属を取り出す", "desc": "鉄鉱石などを高温で溶かして金属を取り出すこと。smelt iron ore（鉄鉱石を製錬する）。", "example_en": "Ancient people learned to smelt iron.", "example_ja": "古代の人々は鉄を製錬する方法を学んだ。" },
+      { "title": "② 小魚のスメルト", "desc": "シラウオに似た食用の小魚。丸ごと揚げて食べることが多い。", "example_en": "We ate fried smelt at the seaside.", "example_ja": "私たちは海辺で揚げたスメルトを食べた。" }
+    ],
+    "warn": ["smell（においをかぐ）の過去形 smelt（英）とは別の語（同綴り）", "製錬の名詞は smelting、製錬所は smelter"],
+    "etym_note": "中期オランダ語 smelten「溶かす」に由来し、「鉱石を溶かして金属を取り出す＝製錬する」を意味します。魚のスメルトは別系統の語です。",
+    "etym_chain": [
+      { "node": "smelten", "sub": "溶かす", "era": "中期オランダ語" },
+      { "node": "smelt", "sub": "製錬する", "era": "15世紀" },
+      { "node": "smelt", "sub": "製錬する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "smelt iron ore", "ja": "鉄鉱石を製錬する" },
+      { "en": "smelt copper", "ja": "銅を製錬する" },
+      { "en": "a smelting furnace", "ja": "製錬炉" },
+      { "en": "a smelting plant", "ja": "製錬所" },
+      { "en": "fried smelt", "ja": "揚げたスメルト（小魚）" },
+      { "en": "smelt metal from ore", "ja": "鉱石から金属を製錬する" }
+    ],
+    "related": [
+      { "en": "ore", "ja": "鉱石" },
+      { "en": "furnace", "ja": "炉" },
+      { "en": "metal", "ja": "金属" },
+      { "en": "refine", "ja": "精製する" }
+    ],
+    "faq": [
+      { "q": "smelt（製錬）と smell の過去形は同じ？", "a": "綴りは同じですが別の語です。smelt は「（鉱石を）製錬する」、smelt（英）は smell（においをかぐ）の過去形です。文脈で区別します。" },
+      { "q": "製錬とは？", "a": "鉱石を高温で溶かして、中の金属を取り出す工程です。鉄・銅・アルミなどの金属はこうして作られます。" }
+    ],
+    "quiz": [
+      { "q": "smelt（動詞）の意味は？", "A": "（鉱石を）製錬する", "B": "凍らせる", "C": "掘る", "D": "運ぶ", "correct": "A" },
+      { "q": "smelt iron ore の意味は？", "A": "鉄鉱石を製錬する", "B": "鉄を売る", "C": "鉄を運ぶ", "D": "鉄を隠す", "correct": "A" }
+    ]
+  }
+]
