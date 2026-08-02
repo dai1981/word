@@ -1,0 +1,968 @@
+[
+  {
+    "english": "appendage",
+    "pron": "əˈpendɪdʒ",
+    "kana": "アペンディッジ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 appendere（付け加える）から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "生物・フォーマル"],
+    "meaning_main": "付属物／（生物の）付属肢",
+    "description": "appendage（アペンディッジ）は「付属物、（体の）付属肢（手足・触角など）」を表す名詞。生物学でよく使う。使い方と例文を解説。",
+    "keywords": ["appendage 意味", "appendage 発音", "付属物 英語", "付属肢 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】付属物・付け足し", "note": "本体に付いている補助的なもの。時に『おまけ扱い』の否定的含み" },
+      { "hinshi": "【名詞】（生物の）付属肢", "note": "手足・触角・ひれなど、胴体から出ている部分" }
+    ],
+    "usages": [
+      { "title": "① 生物の付属肢", "desc": "生物学で、胴体から突き出た手足・触角・尾などを指す。", "example_en": "Insects have jointed appendages such as legs and antennae.", "example_ja": "昆虫は脚や触角のような関節のある付属肢を持つ。" },
+      { "title": "② 付け足し・おまけ", "desc": "本体に付随する補助的なものを表す。時に軽んじるニュアンス。", "example_en": "She felt treated as a mere appendage to her famous husband.", "example_ja": "彼女は有名な夫のただの付属物のように扱われたと感じた。" }
+    ],
+    "warn": ["appendix（付録・虫垂）とは別語。混同注意。", "動詞は append（付け加える）。"],
+    "etym_note": "ラテン語 ad-（~へ）+ pendere（ぶら下げる）→ appendere（付け加える）。pendant, depend と同じ pendere 系。",
+    "etym_chain": [
+      { "node": "appendere", "sub": "付け加える", "era": "ラテン語" },
+      { "node": "appendage", "sub": "付属物・付属肢", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a bodily appendage", "ja": "体の付属肢" },
+      { "en": "jointed appendages", "ja": "関節のある付属肢" },
+      { "en": "a mere appendage", "ja": "ただの付属物" },
+      { "en": "external appendage", "ja": "外部の付属物" },
+      { "en": "an appendage to", "ja": "~への付属物" },
+      { "en": "sensory appendages", "ja": "感覚の付属器官" }
+    ],
+    "related": [
+      { "en": "append", "ja": "付け加える" },
+      { "en": "appendix", "ja": "付録・虫垂" },
+      { "en": "limb", "ja": "手足・肢" },
+      { "en": "attachment", "ja": "付属物・添付" }
+    ],
+    "faq": [
+      { "q": "appendage と appendix の違いは？", "a": "appendage は『付属物・（体の）付属肢』、appendix は『（本の）付録』や『（体の）虫垂』です。" },
+      { "q": "動詞形は？", "a": "append（付け加える・添付する）です。" }
+    ],
+    "quiz": [
+      { "q": "appendage の意味は？", "A": "付属物・付属肢", "B": "中心部", "C": "土台", "D": "入口", "correct": "A" },
+      { "q": "appendage の動詞形は？", "A": "append", "B": "appeal", "C": "appear", "D": "applaud", "correct": "A" }
+    ]
+  },
+  {
+    "english": "appendectomy",
+    "pron": "ˌæpənˈdektəmi",
+    "kana": "アペンデクトミー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "appendix（虫垂）+ ギリシャ語 ektome（切除）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "医療用語"],
+    "meaning_main": "虫垂切除術（盲腸の手術）",
+    "description": "appendectomy（アペンデクトミー）は「虫垂切除術」を表す名詞。いわゆる『盲腸の手術』。英国綴りは appendicectomy。例文で解説。",
+    "keywords": ["appendectomy 意味", "appendectomy 発音", "虫垂切除 英語", "盲腸 手術 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】虫垂切除術", "note": "炎症を起こした虫垂（俗に盲腸）を取り除く手術" }
+    ],
+    "usages": [
+      { "title": "① 盲腸の手術", "desc": "急性虫垂炎（appendicitis）のときに行う一般的な手術。", "example_en": "She had an emergency appendectomy last night.", "example_ja": "彼女は昨夜、緊急の虫垂切除手術を受けた。" },
+      { "title": "② 病名との区別", "desc": "炎症そのものは appendicitis（虫垂炎）、手術が appendectomy。", "example_en": "Appendicitis often requires an appendectomy.", "example_ja": "虫垂炎はしばしば虫垂切除術を必要とする。" }
+    ],
+    "warn": ["接尾辞 -ectomy は『切除（手術）』（tonsillectomy 扁桃摘出 なども）。", "英国綴りは appendicectomy。俗に『盲腸』だが正確には虫垂(appendix)を切除する。"],
+    "etym_note": "appendix（虫垂）+ ギリシャ語 ektome（ek-「外へ」+ tome「切る」＝切除）。-ectomy は摘出手術の接尾辞。",
+    "etym_chain": [
+      { "node": "appendix + ektome", "sub": "虫垂＋切除", "era": "近代英語" },
+      { "node": "appendectomy", "sub": "虫垂切除術", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an emergency appendectomy", "ja": "緊急虫垂切除術" },
+      { "en": "have an appendectomy", "ja": "虫垂切除術を受ける" },
+      { "en": "undergo an appendectomy", "ja": "虫垂切除術を受ける" },
+      { "en": "laparoscopic appendectomy", "ja": "腹腔鏡下虫垂切除術" },
+      { "en": "recover from an appendectomy", "ja": "虫垂切除術から回復する" },
+      { "en": "perform an appendectomy", "ja": "虫垂切除術を行う" }
+    ],
+    "related": [
+      { "en": "appendix", "ja": "虫垂・付録" },
+      { "en": "appendicitis", "ja": "虫垂炎" },
+      { "en": "surgery", "ja": "手術" },
+      { "en": "tonsillectomy", "ja": "扁桃摘出術" }
+    ],
+    "faq": [
+      { "q": "appendectomy と appendicitis の違いは？", "a": "appendicitis は『虫垂炎（病気）』、appendectomy は『虫垂を切除する手術』です。" },
+      { "q": "接尾辞 -ectomy とは？", "a": "『切除・摘出（手術）』を表します。tonsillectomy（扁桃摘出）などにも使われます。" }
+    ],
+    "quiz": [
+      { "q": "appendectomy の意味は？", "A": "虫垂切除術", "B": "虫垂炎", "C": "胃の手術", "D": "心臓手術", "correct": "A" },
+      { "q": "接尾辞 -ectomy の意味は？", "A": "切除（手術）", "B": "検査", "C": "注射", "D": "縫合", "correct": "A" }
+    ]
+  },
+  {
+    "english": "appendix",
+    "pron": "əˈpendɪks",
+    "kana": "アペンディックス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 appendere（付け加える）から",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "複数形2種"],
+    "meaning_main": "（本の）付録／（体の）虫垂",
+    "description": "appendix（アペンディックス）は「（本・論文の）付録、（体の）虫垂」を表す名詞。二つの意味と複数形（appendices / appendixes）を解説。",
+    "keywords": ["appendix 意味", "appendix 発音", "付録 英語", "虫垂 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】（本・文書の）付録", "note": "本文の後ろに付ける補足資料。複数形 appendices" },
+      { "hinshi": "【名詞】（体の）虫垂", "note": "大腸の始まりにある細い袋状の器官。複数形 appendixes" }
+    ],
+    "usages": [
+      { "title": "① 本の付録", "desc": "本文を補う表・データなどを巻末に載せた部分。", "example_en": "The full data is listed in the appendix.", "example_ja": "全データは付録に載っている。" },
+      { "title": "② 体の虫垂", "desc": "炎症を起こすと虫垂炎（appendicitis）になる器官。", "example_en": "His appendix had to be removed.", "example_ja": "彼の虫垂は取り除く必要があった。" }
+    ],
+    "warn": ["複数形は文脈で分かれる。付録は appendices、体の虫垂は appendixes が一般的。", "appendage（付属物）とは別語。"],
+    "etym_note": "ラテン語 appendere（付け加える）→ appendix（付け加えられたもの）。append と同語源。",
+    "etym_chain": [
+      { "node": "appendere", "sub": "付け加える", "era": "ラテン語" },
+      { "node": "appendix", "sub": "付録・虫垂", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "see the appendix", "ja": "付録を参照" },
+      { "en": "in the appendix", "ja": "付録に" },
+      { "en": "appendix A", "ja": "付録A" },
+      { "en": "remove the appendix", "ja": "虫垂を取り除く" },
+      { "en": "an inflamed appendix", "ja": "炎症を起こした虫垂" },
+      { "en": "a burst appendix", "ja": "破裂した虫垂" }
+    ],
+    "related": [
+      { "en": "appendicitis", "ja": "虫垂炎" },
+      { "en": "appendectomy", "ja": "虫垂切除術" },
+      { "en": "supplement", "ja": "補足・付録" },
+      { "en": "attachment", "ja": "添付・付属物" }
+    ],
+    "faq": [
+      { "q": "appendix の複数形は？", "a": "本の付録は appendices、体の虫垂は appendixes とすることが多いです。" },
+      { "q": "appendix と appendage の違いは？", "a": "appendix は『付録・虫垂』、appendage は『付属物・（体の）付属肢』です。" }
+    ],
+    "quiz": [
+      { "q": "appendix の意味は？", "A": "付録・虫垂", "B": "目次", "C": "表紙", "D": "序文", "correct": "A" },
+      { "q": "本の付録の複数形は？", "A": "appendices", "B": "appendix", "C": "appendixi", "D": "appendes", "correct": "A" }
+    ]
+  },
+  {
+    "english": "apportion",
+    "pron": "əˈpɔːrʃn",
+    "kana": "アポーション",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 portio（分け前）から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "フォーマル"],
+    "meaning_main": "（公平に）分配する／割り当てる",
+    "description": "apportion（アポーション）は「（決まった割合で公平に）分配する、割り当てる」を表す動詞。費用・責任・議席などに使うフォーマルな語。例文で解説。",
+    "keywords": ["apportion 意味", "apportion 発音", "分配する 英語", "割り当てる 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】（公平に）分配する・割り当てる", "note": "決まった基準で分け与える。費用・責任・議席など" }
+    ],
+    "usages": [
+      { "title": "① 費用・資源の配分", "desc": "一定の割合で分ける。apportion ~ among/between ...。", "example_en": "The costs were apportioned among the three departments.", "example_ja": "費用は3つの部署に分配された。" },
+      { "title": "② 責任・非難の割り当て", "desc": "apportion blame（責任を割り当てる）のようにも使う。", "example_en": "It is hard to apportion blame in this case.", "example_ja": "この件では責任の所在を割り当てるのが難しい。" }
+    ],
+    "warn": ["名詞は apportionment（配分・（議席の）割り当て）。", "portion（分け前・部分）と同語源。distribute より『割合に応じて公平に』のニュアンス。"],
+    "etym_note": "ラテン語 ad-（~へ）+ portio（分け前・割合）→ apportion。proportion, portion と同語源。",
+    "etym_chain": [
+      { "node": "portio", "sub": "分け前", "era": "ラテン語" },
+      { "node": "apportion", "sub": "分配する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "apportion the costs", "ja": "費用を分配する" },
+      { "en": "apportion blame", "ja": "責任を割り当てる" },
+      { "en": "apportion among", "ja": "~の間で分配する" },
+      { "en": "apportion resources", "ja": "資源を配分する" },
+      { "en": "fairly apportioned", "ja": "公平に配分された" },
+      { "en": "apportion responsibility", "ja": "責任を割り当てる" }
+    ],
+    "related": [
+      { "en": "apportionment", "ja": "配分・割り当て" },
+      { "en": "allocate", "ja": "割り当てる" },
+      { "en": "distribute", "ja": "分配する" },
+      { "en": "divide", "ja": "分ける" }
+    ],
+    "faq": [
+      { "q": "apportion と distribute の違いは？", "a": "distribute は一般的な『分配する』、apportion は『一定の割合・基準に応じて公平に割り当てる』というフォーマルな語です。" },
+      { "q": "名詞形は？", "a": "apportionment（配分・割り当て）です。" }
+    ],
+    "quiz": [
+      { "q": "apportion の意味は？", "A": "（公平に）分配する・割り当てる", "B": "独占する", "C": "破棄する", "D": "隠す", "correct": "A" },
+      { "q": "apportion blame の意味は？", "A": "責任を割り当てる", "B": "責任を免除する", "C": "称賛する", "D": "無視する", "correct": "A" }
+    ]
+  },
+  {
+    "english": "appreciable",
+    "pron": "əˈpriːʃəbl",
+    "kana": "アプリーシャブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 appretiare（評価する）から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "フォーマル"],
+    "meaning_main": "（認識できるほど）かなりの／相当な",
+    "description": "appreciable（アプリーシャブル）は「（はっきり分かるほど）かなりの、相当な」を表す形容詞。目に見えて感じ取れる量・差に使う。例文で解説。",
+    "keywords": ["appreciable 意味", "appreciable 発音", "かなりの 英語", "相当な 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】（認識できるほど）かなりの・相当な", "note": "はっきり感じ取れる程度の大きさ・差・効果" }
+    ],
+    "usages": [
+      { "title": "① 目に見える差・量", "desc": "無視できないほど大きく、はっきり分かる量や違いを表す。", "example_en": "There was an appreciable difference in quality.", "example_ja": "品質にかなりの差があった。" },
+      { "title": "② 否定文で『ほとんど~ない』", "desc": "no appreciable ~ で『目立った~はない』。", "example_en": "There was no appreciable change in his condition.", "example_ja": "彼の容態に目立った変化はなかった。" }
+    ],
+    "warn": ["appreciative（感謝している・鑑賞力のある）とは別語。混同注意。", "副詞は appreciably（かなり・目立って）。"],
+    "etym_note": "ラテン語 ad-（~へ）+ pretium（価値）→ appretiare（値をつける・評価する）→ appreciable。price, precious と同語源。",
+    "etym_chain": [
+      { "node": "appretiare", "sub": "評価する", "era": "ラテン語" },
+      { "node": "appreciable", "sub": "かなりの", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an appreciable difference", "ja": "かなりの差" },
+      { "en": "an appreciable amount", "ja": "相当な量" },
+      { "en": "no appreciable change", "ja": "目立った変化なし" },
+      { "en": "appreciable effect", "ja": "はっきりした効果" },
+      { "en": "an appreciable improvement", "ja": "かなりの改善" },
+      { "en": "appreciable delay", "ja": "無視できない遅れ" }
+    ],
+    "related": [
+      { "en": "appreciably", "ja": "かなり・目立って" },
+      { "en": "considerable", "ja": "かなりの" },
+      { "en": "noticeable", "ja": "目立つ" },
+      { "en": "significant", "ja": "重要な・著しい" }
+    ],
+    "faq": [
+      { "q": "appreciable と appreciative の違いは？", "a": "appreciable は『（認識できるほど）かなりの』、appreciative は『感謝している・鑑賞力のある』で別の意味です。" },
+      { "q": "副詞形は？", "a": "appreciably（かなり・目立って）です。" }
+    ],
+    "quiz": [
+      { "q": "appreciable の意味は？", "A": "（認識できるほど）かなりの", "B": "感謝している", "C": "無視できる", "D": "偽の", "correct": "A" },
+      { "q": "no appreciable change の意味は？", "A": "目立った変化はない", "B": "劇的な変化があった", "C": "感謝された", "D": "評価された", "correct": "A" }
+    ]
+  },
+  {
+    "english": "appropriately",
+    "pron": "əˈproʊpriətli",
+    "kana": "アプロプリエットリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "ラテン語 appropriare（自分のものにする）から",
+    "ld_level": "準1級",
+    "badges": ["中学生〜", "英検準1級", "CEFR B1", "形容詞appropriateの副詞形"],
+    "meaning_main": "適切に／ふさわしく／状況に合わせて",
+    "description": "appropriately（アプロプリエットリー）は「適切に、ふさわしく、状況に合わせて」を表す副詞。dress appropriately などで頻出。例文で解説。",
+    "keywords": ["appropriately 意味", "appropriately 発音", "適切に 英語", "ふさわしく 英語"],
+    "meanings": [
+      { "hinshi": "【副詞】適切に・ふさわしく", "note": "その場・目的にちょうど合った形で" }
+    ],
+    "usages": [
+      { "title": "① 状況にふさわしく", "desc": "場面・目的に合った適切な行動をとる様子。", "example_en": "Please dress appropriately for the interview.", "example_ja": "面接にふさわしい服装をしてください。" },
+      { "title": "② うまい具合に", "desc": "『（名前などが）ぴったりなことに』のニュアンスでも使う。", "example_en": "The town, appropriately named Sunnyvale, is always sunny.", "example_ja": "その町は名前どおり（サニーベールという名にふさわしく）いつも晴れている。" }
+    ],
+    "warn": ["対義語は inappropriately（不適切に）。", "形容詞は appropriate（適切な）。動詞 appropriate は『（不正に）流用する・充てる』で意味が異なる。"],
+    "etym_note": "ラテン語 ad-（~へ）+ proprius（自分自身の）→ appropriare→ appropriate + -ly。proper, property と同語源。",
+    "etym_chain": [
+      { "node": "appropriare", "sub": "自分のものにする", "era": "ラテン語" },
+      { "node": "appropriately", "sub": "適切に", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "dress appropriately", "ja": "ふさわしい服装をする" },
+      { "en": "respond appropriately", "ja": "適切に対応する" },
+      { "en": "behave appropriately", "ja": "ふさわしく振る舞う" },
+      { "en": "appropriately named", "ja": "名前どおりの・ぴったり名づけられた" },
+      { "en": "act appropriately", "ja": "適切に行動する" },
+      { "en": "use appropriately", "ja": "適切に使う" }
+    ],
+    "related": [
+      { "en": "appropriate", "ja": "適切な" },
+      { "en": "inappropriately", "ja": "不適切に" },
+      { "en": "suitably", "ja": "ふさわしく" },
+      { "en": "properly", "ja": "きちんと" }
+    ],
+    "faq": [
+      { "q": "appropriately の反対は？", "a": "inappropriately（不適切に）です。" },
+      { "q": "形容詞形は？", "a": "appropriate（適切な・ふさわしい）です。" }
+    ],
+    "quiz": [
+      { "q": "appropriately の意味は？", "A": "適切に・ふさわしく", "B": "不適切に", "C": "偶然に", "D": "急いで", "correct": "A" },
+      { "q": "appropriately の反対は？", "A": "inappropriately", "B": "exactly", "C": "clearly", "D": "quickly", "correct": "A" }
+    ]
+  },
+  {
+    "english": "arbitrarily",
+    "pron": "ˌɑːrbɪˈtrerəli",
+    "kana": "アービトレラリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "ラテン語 arbiter（審判者）から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "形容詞arbitraryの副詞形"],
+    "meaning_main": "恣意的に／気まぐれに・任意に",
+    "description": "arbitrarily（アービトレラリー）は「恣意的に、（根拠なく）気まぐれに、任意に」を表す副詞。形容詞arbitraryの副詞形。例文で解説。",
+    "keywords": ["arbitrarily 意味", "arbitrarily 発音", "恣意的に 英語", "任意に 英語"],
+    "meanings": [
+      { "hinshi": "【副詞】恣意的に・気まぐれに", "note": "明確な根拠やルールなしに、思いつきで" },
+      { "hinshi": "【副詞】任意に", "note": "数学などで『どれでもよく・任意に選んで』" }
+    ],
+    "usages": [
+      { "title": "① 根拠なく決める", "desc": "公平な基準なしに勝手に決めることを表す（否定的）。", "example_en": "The rules seemed to be applied arbitrarily.", "example_ja": "その規則は恣意的に適用されているように見えた。" },
+      { "title": "② 任意に選ぶ", "desc": "数学・論理で『任意に（どれでもよく）』の中立的な意味でも使う。", "example_en": "Choose a number arbitrarily.", "example_ja": "任意に数を一つ選びなさい。" }
+    ],
+    "warn": ["形容詞は arbitrary（恣意的な・任意の）。名詞 arbiter は『審判者』。", "『恣意的』は多くの場合ネガティブだが、数学では中立の『任意の』。"],
+    "etym_note": "ラテン語 arbiter（審判者・判定者）→ arbitrary（審判者の一存による）+ -ly。arbitrate と同語源。",
+    "etym_chain": [
+      { "node": "arbiter", "sub": "審判者", "era": "ラテン語" },
+      { "node": "arbitrarily", "sub": "恣意的に", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "applied arbitrarily", "ja": "恣意的に適用されて" },
+      { "en": "chosen arbitrarily", "ja": "任意に選ばれて" },
+      { "en": "act arbitrarily", "ja": "勝手に行動する" },
+      { "en": "arbitrarily decided", "ja": "恣意的に決められた" },
+      { "en": "set arbitrarily", "ja": "任意に設定された" },
+      { "en": "arbitrarily large", "ja": "いくらでも大きい（数学）" }
+    ],
+    "related": [
+      { "en": "arbitrary", "ja": "恣意的な・任意の" },
+      { "en": "arbiter", "ja": "審判者" },
+      { "en": "randomly", "ja": "無作為に" },
+      { "en": "capriciously", "ja": "気まぐれに" }
+    ],
+    "faq": [
+      { "q": "arbitrarily はいつも悪い意味？", "a": "多くは『根拠なく勝手に』という否定的な意味ですが、数学・論理では『任意に（どれでもよく）』という中立の意味でも使います。" },
+      { "q": "形容詞形は？", "a": "arbitrary（恣意的な・任意の）です。" }
+    ],
+    "quiz": [
+      { "q": "arbitrarily の意味は？", "A": "恣意的に・任意に", "B": "厳密に", "C": "公平に", "D": "慎重に", "correct": "A" },
+      { "q": "arbitrarily の形容詞形は？", "A": "arbitrary", "B": "arbitration", "C": "arbiter", "D": "arbor", "correct": "A" }
+    ]
+  },
+  {
+    "english": "arbitrate",
+    "pron": "ˈɑːrbɪtreɪt",
+    "kana": "アービトレイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 arbiter（審判者）から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "法律・ビジネス"],
+    "meaning_main": "（争いを）仲裁する／裁定する",
+    "description": "arbitrate（アービトレイト）は「（争い・紛争を）仲裁する、裁定する」を表す動詞。第三者が公平に判断を下すこと。名詞は arbitration。例文で解説。",
+    "keywords": ["arbitrate 意味", "arbitrate 発音", "仲裁する 英語", "arbitration"],
+    "meanings": [
+      { "hinshi": "【動詞】仲裁する・裁定する", "note": "対立する当事者の間に立ち、第三者として判断を下す" }
+    ],
+    "usages": [
+      { "title": "① 紛争の仲裁", "desc": "労使・契約などの争いで、中立の第三者が解決の判断を示す。", "example_en": "A neutral party was called in to arbitrate the dispute.", "example_ja": "紛争を仲裁するため中立の第三者が呼ばれた。" },
+      { "title": "② between で当事者を示す", "desc": "arbitrate between A and B（AとBの間を仲裁する）。", "example_en": "The committee arbitrated between the two companies.", "example_ja": "委員会は2社の間を仲裁した。" }
+    ],
+    "warn": ["名詞は arbitration（仲裁）、仲裁人は arbitrator / arbiter。", "mediate（調停する）は合意を促すだけだが、arbitrate は拘束力ある裁定を下すことが多い。"],
+    "etym_note": "ラテン語 arbiter（審判者・目撃者）→ arbitrari（判断する）→ arbitrate。arbitrary と同語源。",
+    "etym_chain": [
+      { "node": "arbiter", "sub": "審判者", "era": "ラテン語" },
+      { "node": "arbitrate", "sub": "仲裁する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "arbitrate a dispute", "ja": "紛争を仲裁する" },
+      { "en": "arbitrate between", "ja": "~の間を仲裁する" },
+      { "en": "agree to arbitrate", "ja": "仲裁に付すことに同意する" },
+      { "en": "arbitrate a conflict", "ja": "対立を裁定する" },
+      { "en": "called in to arbitrate", "ja": "仲裁のために呼ばれる" },
+      { "en": "arbitrate fairly", "ja": "公平に仲裁する" }
+    ],
+    "related": [
+      { "en": "arbitration", "ja": "仲裁" },
+      { "en": "arbitrator", "ja": "仲裁人" },
+      { "en": "mediate", "ja": "調停する" },
+      { "en": "settle", "ja": "解決する" }
+    ],
+    "faq": [
+      { "q": "arbitrate と mediate の違いは？", "a": "mediate は当事者の合意を手助けする『調停』、arbitrate は第三者が判断（裁定）を下す『仲裁』で、しばしば拘束力があります。" },
+      { "q": "名詞形は？", "a": "arbitration（仲裁）です。仲裁を行う人は arbitrator です。" }
+    ],
+    "quiz": [
+      { "q": "arbitrate の意味は？", "A": "（争いを）仲裁する・裁定する", "B": "扇動する", "C": "無視する", "D": "延期する", "correct": "A" },
+      { "q": "arbitrate の名詞形は？", "A": "arbitration", "B": "arbitrary", "C": "aspiration", "D": "adoration", "correct": "A" }
+    ]
+  },
+  {
+    "english": "archaic",
+    "pron": "ɑːrˈkeɪɪk",
+    "kana": "アルケイック",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ギリシャ語 arkhaikos（古風な）から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "フォーマル"],
+    "meaning_main": "古風な／時代遅れの／（言葉が）廃れた",
+    "description": "archaic（アルケイック）は「古風な、時代遅れの、（言葉・制度が）廃れた」を表す形容詞。今では使われない古い物事に使う。例文で解説。",
+    "keywords": ["archaic 意味", "archaic 発音", "古風な 英語", "時代遅れ 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】古風な・時代遅れの", "note": "現代では使われない、非常に古いやり方や制度" },
+      { "hinshi": "【形容詞】（言葉が）廃れた・古語の", "note": "辞書で『古』と示される、今は使わない語法" }
+    ],
+    "usages": [
+      { "title": "① 時代遅れの制度・方法", "desc": "現代に合わない古い仕組みを批判的に表すことが多い。", "example_en": "The company's rules are hopelessly archaic.", "example_ja": "その会社の規則は救いようがなく時代遅れだ。" },
+      { "title": "② 古語・古い言葉", "desc": "'thou'（あなた）のような、もう使われない古い語法を指す。", "example_en": "\"Thee\" and \"thou\" are archaic words.", "example_ja": "thee や thou は古語だ。" }
+    ],
+    "warn": ["ancient（古代の＝歴史的に古い）と違い、archaic は『古臭い・廃れた』に重点。", "名詞は archaism（古語法・擬古趣味）。"],
+    "etym_note": "ギリシャ語 arkhaios（古い、arkhe「始まり」から）→ arkhaikos → archaic。archaeology と同語源。",
+    "etym_chain": [
+      { "node": "arkhaikos", "sub": "古風な", "era": "ギリシャ語" },
+      { "node": "archaic", "sub": "古風な・廃れた", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "archaic language", "ja": "古めかしい言葉" },
+      { "en": "an archaic word", "ja": "古語" },
+      { "en": "archaic laws", "ja": "時代遅れの法律" },
+      { "en": "hopelessly archaic", "ja": "救いようもなく古臭い" },
+      { "en": "archaic customs", "ja": "廃れた習慣" },
+      { "en": "seem archaic", "ja": "古めかしく見える" }
+    ],
+    "related": [
+      { "en": "archaism", "ja": "古語法・擬古趣味" },
+      { "en": "ancient", "ja": "古代の" },
+      { "en": "outdated", "ja": "時代遅れの" },
+      { "en": "obsolete", "ja": "廃れた・すたれた" }
+    ],
+    "faq": [
+      { "q": "archaic と ancient の違いは？", "a": "ancient は『（歴史的に）古代の』、archaic は『古臭い・今では廃れた』に重点があります。" },
+      { "q": "obsolete との違いは？", "a": "近い意味ですが、obsolete は『もう使われない・廃止された』、archaic は『古風で時代遅れ』のニュアンスです。" }
+    ],
+    "quiz": [
+      { "q": "archaic の意味は？", "A": "古風な・時代遅れの", "B": "最新の", "C": "巨大な", "D": "透明な", "correct": "A" },
+      { "q": "archaic と近い意味の語は？", "A": "outdated", "B": "modern", "C": "brilliant", "D": "tiny", "correct": "A" }
+    ]
+  },
+  {
+    "english": "archangel",
+    "pron": "ˈɑːrkeɪndʒl",
+    "kana": "アークエンジェル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 arkhi（首位の）+ angelos（使者）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "宗教用語"],
+    "meaning_main": "大天使（天使の上位）",
+    "description": "archangel（アークエンジェル）は「大天使」を表す名詞。天使の中でも高位の存在で、ミカエル・ガブリエルなどが知られる。発音に注意。例文で解説。",
+    "keywords": ["archangel 意味", "archangel 発音", "大天使 英語", "ミカエル ガブリエル"],
+    "meanings": [
+      { "hinshi": "【名詞】大天使", "note": "天使(angel)の中でも高位の天使。ミカエル、ガブリエルなど" }
+    ],
+    "usages": [
+      { "title": "① 高位の天使", "desc": "宗教・神話で、普通の天使より上位に位置づけられる存在。", "example_en": "The archangel Gabriel appears in several religions.", "example_ja": "大天使ガブリエルは複数の宗教に登場する。" },
+      { "title": "② 名前とともに", "desc": "the archangel Michael のように名前とともに使うことが多い。", "example_en": "Michael is often depicted as a warrior archangel.", "example_ja": "ミカエルはしばしば戦士の大天使として描かれる。" }
+    ],
+    "warn": ["接頭辞 arch-（首位の・大~）はここでは「アーク」と発音（architect と同じ）。", "arch- は archbishop（大司教）, archenemy（宿敵）などにも。"],
+    "etym_note": "ギリシャ語 arkhi-（首位の・主たる）+ angelos（使者・天使）→『天使の長』。angel と同じ angelos 系。",
+    "etym_chain": [
+      { "node": "arkhi + angelos", "sub": "首位の＋天使", "era": "ギリシャ語" },
+      { "node": "archangel", "sub": "大天使", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the archangel Michael", "ja": "大天使ミカエル" },
+      { "en": "the archangel Gabriel", "ja": "大天使ガブリエル" },
+      { "en": "a mighty archangel", "ja": "力強い大天使" },
+      { "en": "angels and archangels", "ja": "天使と大天使" },
+      { "en": "the seven archangels", "ja": "七大天使" },
+      { "en": "a guardian archangel", "ja": "守護の大天使" }
+    ],
+    "related": [
+      { "en": "angel", "ja": "天使" },
+      { "en": "angelic", "ja": "天使のような" },
+      { "en": "seraph", "ja": "熾天使（セラフィム）" },
+      { "en": "cherub", "ja": "智天使（ケルビム）" }
+    ],
+    "faq": [
+      { "q": "archangel の発音の注意点は？", "a": "arch- は architect と同じく「アーク」と読み、「アーチ」ではありません。" },
+      { "q": "有名な大天使は？", "a": "ミカエル(Michael)、ガブリエル(Gabriel)、ラファエル(Raphael)などが知られています。" }
+    ],
+    "quiz": [
+      { "q": "archangel の意味は？", "A": "大天使", "B": "悪魔", "C": "聖人", "D": "預言者", "correct": "A" },
+      { "q": "接頭辞 arch- のここでの意味は？", "A": "首位の・大~", "B": "反対の", "C": "小さな", "D": "偽の", "correct": "A" }
+    ]
+  },
+  {
+    "english": "archery",
+    "pron": "ˈɑːrtʃəri",
+    "kana": "アーチェリー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 archier（射手）から",
+    "ld_level": "準1級",
+    "badges": ["中学生〜", "英検準1級", "CEFR B1", "不可算・スポーツ"],
+    "meaning_main": "アーチェリー（弓術）",
+    "description": "archery（アーチェリー）は「弓術、アーチェリー」を表す名詞。弓で矢を放って的を射る競技・技術。不可算名詞。使い方と例文を解説。",
+    "keywords": ["archery 意味", "archery 発音", "アーチェリー 英語", "弓術 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】アーチェリー・弓術", "note": "弓(bow)で矢(arrow)を射て的を狙う競技・技術。不可算名詞" }
+    ],
+    "usages": [
+      { "title": "① 競技・スポーツ", "desc": "オリンピック種目にもある、的を射る競技。", "example_en": "She won a gold medal in archery.", "example_ja": "彼女はアーチェリーで金メダルを取った。" },
+      { "title": "② 技術・活動", "desc": "弓を扱う技術全般。do archery / practice archery。", "example_en": "We tried archery at the summer camp.", "example_ja": "私たちはサマーキャンプでアーチェリーを体験した。" }
+    ],
+    "warn": ["不可算名詞。an archery とは言わない。", "射手は archer。弓は bow、矢は arrow、的は target。"],
+    "etym_note": "古フランス語 archier（射手、ラテン語 arcus「弓」から）→ archer + -y。arc（弧）と同語源。",
+    "etym_chain": [
+      { "node": "archier", "sub": "射手", "era": "古フランス語" },
+      { "node": "archery", "sub": "弓術", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "practice archery", "ja": "アーチェリーを練習する" },
+      { "en": "an archery competition", "ja": "アーチェリーの競技会" },
+      { "en": "archery range", "ja": "アーチェリー場" },
+      { "en": "a gold medal in archery", "ja": "アーチェリーの金メダル" },
+      { "en": "learn archery", "ja": "弓術を習う" },
+      { "en": "archery equipment", "ja": "アーチェリー用具" }
+    ],
+    "related": [
+      { "en": "archer", "ja": "射手・アーチャー" },
+      { "en": "bow", "ja": "弓" },
+      { "en": "arrow", "ja": "矢" },
+      { "en": "target", "ja": "的・標的" }
+    ],
+    "faq": [
+      { "q": "archery をする人は？", "a": "archer（射手・アーチャー）と呼びます。" },
+      { "q": "可算名詞ですか？", "a": "不可算名詞です。do archery / practice archery のように使います。" }
+    ],
+    "quiz": [
+      { "q": "archery の意味は？", "A": "アーチェリー・弓術", "B": "剣術", "C": "水泳", "D": "体操", "correct": "A" },
+      { "q": "archery をする人は？", "A": "archer", "B": "actor", "C": "author", "D": "artist", "correct": "A" }
+    ]
+  },
+  {
+    "english": "archway",
+    "pron": "ˈɑːrtʃweɪ",
+    "kana": "アーチウェイ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "arch（アーチ）+ way（道・通路）",
+    "ld_level": "準1級",
+    "badges": ["中学生〜", "英検準1級", "CEFR B1", "可算名詞・建築"],
+    "meaning_main": "アーチ形の門・通路",
+    "description": "archway（アーチウェイ）は「アーチ形の門・通路」を表す名詞。上部が弓なりのアーチになった出入口や通り道。使い方と例文を解説。",
+    "keywords": ["archway 意味", "archway 発音", "アーチ 門 英語", "アーチ通路 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】アーチ形の門・通路", "note": "上部が弓なり（アーチ）になった出入口や通り道" }
+    ],
+    "usages": [
+      { "title": "① アーチの入口", "desc": "建物・庭・城壁などにあるアーチ状の門や通路。", "example_en": "They walked through a stone archway into the garden.", "example_ja": "彼らは石造りのアーチ門をくぐって庭に入った。" },
+      { "title": "② 装飾的なアーチ", "desc": "結婚式の花のアーチなど装飾にも使う。", "example_en": "The couple stood under a flower archway.", "example_ja": "夫婦は花のアーチの下に立った。" }
+    ],
+    "warn": ["arch（アーチ・弓形）+ way（通路）の複合語。ここは『アーチ』と発音。", "門そのものは gate、アーチ形なのが archway。"],
+    "etym_note": "arch（アーチ、ラテン語 arcus「弓」由来）+ way（道・通路）。",
+    "etym_chain": [
+      { "node": "arch + way", "sub": "アーチ＋通路", "era": "近代英語" },
+      { "node": "archway", "sub": "アーチ形の門", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a stone archway", "ja": "石造りのアーチ門" },
+      { "en": "walk through an archway", "ja": "アーチ門をくぐる" },
+      { "en": "under the archway", "ja": "アーチの下で" },
+      { "en": "an ornate archway", "ja": "装飾的なアーチ門" },
+      { "en": "a garden archway", "ja": "庭のアーチ" },
+      { "en": "a brick archway", "ja": "れんがのアーチ門" }
+    ],
+    "related": [
+      { "en": "arch", "ja": "アーチ・弓形" },
+      { "en": "gateway", "ja": "門・入口" },
+      { "en": "entrance", "ja": "入口" },
+      { "en": "passage", "ja": "通路" }
+    ],
+    "faq": [
+      { "q": "archway と gate の違いは？", "a": "gate は『門』一般、archway は特に上部がアーチ（弓形）になった門・通路を指します。" },
+      { "q": "発音の注意点は？", "a": "arch- は「アーチ」と読みます（アーチウェイ）。" }
+    ],
+    "quiz": [
+      { "q": "archway の意味は？", "A": "アーチ形の門・通路", "B": "階段", "C": "屋根", "D": "煙突", "correct": "A" },
+      { "q": "archway を作る要素は？", "A": "arch（アーチ）と way（通路）", "B": "art と way", "C": "arm と way", "D": "arc と day", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ardently",
+    "pron": "ˈɑːrdntli",
+    "kana": "アーデントリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "ラテン語 ardere（燃える）から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "文語的・形容詞ardentの副詞形"],
+    "meaning_main": "熱烈に／熱心に・情熱的に",
+    "description": "ardently（アーデントリー）は「熱烈に、情熱的に、熱心に」を表す副詞。強い感情や願望を込めて何かをする様子。例文で解説。",
+    "keywords": ["ardently 意味", "ardently 発音", "熱烈に 英語", "情熱的に 英語"],
+    "meanings": [
+      { "hinshi": "【副詞】熱烈に・情熱的に", "note": "燃えるような強い感情・熱意をもって" }
+    ],
+    "usages": [
+      { "title": "① 熱烈に望む・愛する", "desc": "強い願望や愛情を込めて。文語的・感情の強い語。", "example_en": "He ardently hoped she would say yes.", "example_ja": "彼は彼女がイエスと言うことを熱烈に願った。" },
+      { "title": "② 熱心に支持する", "desc": "主義・主張を情熱的に支持する様子にも使う。", "example_en": "She ardently supported the cause.", "example_ja": "彼女はその大義を熱烈に支持した。" }
+    ],
+    "warn": ["形容詞は ardent（熱烈な・熱心な）。名詞 ardor/ardour（熱情）。", "『燃える』が原義で、passionately に近い強い語。"],
+    "etym_note": "ラテン語 ardere（燃える）→ ardent（燃えるような）+ -ly。arson（放火）と同語源。",
+    "etym_chain": [
+      { "node": "ardere", "sub": "燃える", "era": "ラテン語" },
+      { "node": "ardently", "sub": "熱烈に", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "ardently hope", "ja": "熱烈に願う" },
+      { "en": "ardently support", "ja": "熱心に支持する" },
+      { "en": "ardently believe", "ja": "熱烈に信じる" },
+      { "en": "ardently desire", "ja": "情熱的に切望する" },
+      { "en": "love ardently", "ja": "熱烈に愛する" },
+      { "en": "ardently opposed", "ja": "断固として反対して" }
+    ],
+    "related": [
+      { "en": "ardent", "ja": "熱烈な・熱心な" },
+      { "en": "ardor", "ja": "熱情・熱意" },
+      { "en": "passionately", "ja": "情熱的に" },
+      { "en": "fervently", "ja": "熱烈に" }
+    ],
+    "faq": [
+      { "q": "ardently の形容詞形は？", "a": "ardent（熱烈な・熱心な）です。" },
+      { "q": "passionately との違いは？", "a": "ほぼ同義で『情熱的に』ですが、ardently はやや文語的で『燃えるような熱意』を強調します。" }
+    ],
+    "quiz": [
+      { "q": "ardently の意味は？", "A": "熱烈に・情熱的に", "B": "冷淡に", "C": "こっそりと", "D": "ゆっくりと", "correct": "A" },
+      { "q": "ardently の形容詞形は？", "A": "ardent", "B": "ardorous", "C": "arduous", "D": "ardive", "correct": "A" }
+    ]
+  },
+  {
+    "english": "arguable",
+    "pron": "ˈɑːrɡjuəbl",
+    "kana": "アーギュアブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 arguere（論じる）から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "動詞argueの派生"],
+    "meaning_main": "議論の余地がある／（十分に）主張できる",
+    "description": "arguable（アーギュアブル）は「議論の余地がある、（一理あって）主張できる」を表す形容詞。二つのニュアンスを例文で解説。",
+    "keywords": ["arguable 意味", "arguable 発音", "議論の余地 英語", "arguably"],
+    "meanings": [
+      { "hinshi": "【形容詞】議論の余地がある", "note": "はっきり決まらず、意見が分かれうる" },
+      { "hinshi": "【形容詞】（十分に）主張できる・一理ある", "note": "根拠があって論じるに足る" }
+    ],
+    "usages": [
+      { "title": "① 意見が分かれうる", "desc": "正しいかどうか確定できず、議論の対象になること。", "example_en": "Whether the policy worked is arguable.", "example_ja": "その政策が効果を上げたかは議論の余地がある。" },
+      { "title": "② 主張するに足る", "desc": "It is arguable that ~ で『~とも言える・主張できる』。", "example_en": "It is arguable that he was the best player ever.", "example_ja": "彼が史上最高の選手だったとも言える。" }
+    ],
+    "warn": ["副詞 arguably は『（議論はあろうが）おそらく・間違いなく』の意で頻出。", "対義語 unarguable / indisputable は『議論の余地がない』。"],
+    "etym_note": "ラテン語 arguere（明らかにする・論じる）→ argue + -able。argument と同語源。",
+    "etym_chain": [
+      { "node": "arguere", "sub": "論じる", "era": "ラテン語" },
+      { "node": "arguable", "sub": "議論の余地がある", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "it is arguable that", "ja": "~とも言える・主張できる" },
+      { "en": "highly arguable", "ja": "大いに議論の余地がある" },
+      { "en": "an arguable point", "ja": "議論の余地のある点" },
+      { "en": "arguable case", "ja": "主張しうる言い分" },
+      { "en": "perfectly arguable", "ja": "十分主張できる" },
+      { "en": "arguable in court", "ja": "法廷で争える" }
+    ],
+    "related": [
+      { "en": "argue", "ja": "議論する・主張する" },
+      { "en": "arguably", "ja": "おそらく・間違いなく" },
+      { "en": "debatable", "ja": "議論の余地がある" },
+      { "en": "questionable", "ja": "疑わしい" }
+    ],
+    "faq": [
+      { "q": "arguable と debatable の違いは？", "a": "ほぼ同義で『議論の余地がある』です。arguable は加えて『（一理あって）主張できる』の意味も持ちます。" },
+      { "q": "arguably の意味は？", "a": "『（異論はあろうが）おそらく・ほぼ間違いなく』という副詞で、控えめに強い主張をするときに使います。" }
+    ],
+    "quiz": [
+      { "q": "arguable の意味は？", "A": "議論の余地がある・主張できる", "B": "確定した", "C": "禁止された", "D": "無関係な", "correct": "A" },
+      { "q": "arguable の副詞形は？", "A": "arguably", "B": "argument", "C": "arguer", "D": "arguing", "correct": "A" }
+    ]
+  },
+  {
+    "english": "aria",
+    "pron": "ˈɑːriə",
+    "kana": "アリア",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "イタリア語 aria（空気・旋律）から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "音楽用語"],
+    "meaning_main": "アリア（オペラなどの独唱曲）",
+    "description": "aria（アリア）は「（オペラ・オラトリオの）独唱曲、詠唱」を表す名詞。イタリア語由来。主役の聞かせどころの歌。例文で解説。",
+    "keywords": ["aria 意味", "aria 発音", "アリア 音楽", "オペラ 独唱"],
+    "meanings": [
+      { "hinshi": "【名詞】アリア・独唱曲", "note": "オペラなどで、伴奏つきで歌われる叙情的な独唱曲" }
+    ],
+    "usages": [
+      { "title": "① オペラの聞かせどころ", "desc": "登場人物が感情を歌い上げる独唱の名曲。", "example_en": "The soprano sang a beautiful aria.", "example_ja": "そのソプラノ歌手は美しいアリアを歌った。" },
+      { "title": "② 有名なアリア", "desc": "『誰も寝てはならぬ』など、単独でも親しまれる名曲が多い。", "example_en": "This famous aria is loved worldwide.", "example_ja": "この有名なアリアは世界中で愛されている。" }
+    ],
+    "warn": ["recitative（レチタティーヴォ＝語るように歌う部分）と対になる。aria は旋律的な独唱。", "イタリア語 aria は『空気』の意味でもある（英語の air と同語源）。"],
+    "etym_note": "イタリア語 aria（空気・様子・旋律、ラテン語 aer「空気」から）。英語 air（旋律の意味も）と同語源。",
+    "etym_chain": [
+      { "node": "aria", "sub": "空気・旋律", "era": "イタリア語" },
+      { "node": "aria", "sub": "独唱曲", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "sing an aria", "ja": "アリアを歌う" },
+      { "en": "a famous aria", "ja": "有名なアリア" },
+      { "en": "a beautiful aria", "ja": "美しいアリア" },
+      { "en": "an operatic aria", "ja": "オペラのアリア" },
+      { "en": "a soprano aria", "ja": "ソプラノのアリア" },
+      { "en": "the opening aria", "ja": "冒頭のアリア" }
+    ],
+    "related": [
+      { "en": "opera", "ja": "オペラ" },
+      { "en": "recitative", "ja": "レチタティーヴォ" },
+      { "en": "soprano", "ja": "ソプラノ" },
+      { "en": "melody", "ja": "旋律" }
+    ],
+    "faq": [
+      { "q": "aria と recitative の違いは？", "a": "aria は旋律的で叙情的な『独唱曲』、recitative は台詞を語るように歌う『叙唱』部分です。" },
+      { "q": "aria の語源は？", "a": "イタリア語 aria（空気・旋律）で、英語の air（旋律の意味もある）と同語源です。" }
+    ],
+    "quiz": [
+      { "q": "aria の意味は？", "A": "（オペラの）独唱曲", "B": "合唱", "C": "序曲", "D": "指揮者", "correct": "A" },
+      { "q": "aria と対になる、語るように歌う部分は？", "A": "recitative", "B": "chorus", "C": "overture", "D": "encore", "correct": "A" }
+    ]
+  },
+  {
+    "english": "arrears",
+    "pron": "əˈrɪrz",
+    "kana": "アリアーズ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 ad retro（後ろへ）から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "常に複数形・金融用語"],
+    "meaning_main": "滞納金／未払い分（支払いの遅れ）",
+    "description": "arrears（アリアーズ）は「滞納金、未払い分」を表す名詞。常に複数形で使う。in arrears（滞納して／後払いで）が定番表現。例文で解説。",
+    "keywords": ["arrears 意味", "arrears 発音", "滞納 英語", "in arrears"],
+    "meanings": [
+      { "hinshi": "【名詞】滞納金・未払い分", "note": "支払うべきなのに払っていない金額。常に複数形" },
+      { "hinshi": "【名詞】（後払いの）遅れ", "note": "paid in arrears で『後払いで』" }
+    ],
+    "usages": [
+      { "title": "① 滞納している", "desc": "in arrears で『（支払いが）滞っている』。家賃・ローンなど。", "example_en": "He is three months in arrears with his rent.", "example_ja": "彼は家賃を3か月滞納している。" },
+      { "title": "② 後払いの", "desc": "paid in arrears は『（先払いでなく）働いた後に支払われる』。", "example_en": "Salaries are paid monthly in arrears.", "example_ja": "給料は毎月、後払いで支払われる。" }
+    ],
+    "warn": ["常に複数形 arrears（単数 arrear はほぼ使わない）。", "in arrears で『滞納して』『後払いで』の2つの意味。文脈で判断。"],
+    "etym_note": "古フランス語 arere（後ろに、ラテン語 ad retro「後方へ」から）→ arrears。rear（後方）と同語源。",
+    "etym_chain": [
+      { "node": "ad retro", "sub": "後ろへ", "era": "ラテン語" },
+      { "node": "arrears", "sub": "滞納金", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "in arrears", "ja": "滞納して・後払いで" },
+      { "en": "rent arrears", "ja": "家賃の滞納" },
+      { "en": "fall into arrears", "ja": "滞納する" },
+      { "en": "pay off arrears", "ja": "滞納分を完済する" },
+      { "en": "paid in arrears", "ja": "後払いで支払われる" },
+      { "en": "tax arrears", "ja": "税の滞納" }
+    ],
+    "related": [
+      { "en": "debt", "ja": "借金・負債" },
+      { "en": "overdue", "ja": "期限切れの・延滞の" },
+      { "en": "outstanding", "ja": "未払いの" },
+      { "en": "installment", "ja": "分割払い" }
+    ],
+    "faq": [
+      { "q": "in arrears の意味は？", "a": "文脈により『（支払いを）滞納して』または『後払いで』という意味になります。" },
+      { "q": "単数形はある？", "a": "通常は複数形 arrears で使い、単数 arrear はほとんど使いません。" }
+    ],
+    "quiz": [
+      { "q": "arrears の意味は？", "A": "滞納金・未払い分", "B": "貯金", "C": "利益", "D": "賞金", "correct": "A" },
+      { "q": "in arrears の意味の一つは？", "A": "滞納して", "B": "前払いで", "C": "無料で", "D": "割引で", "correct": "A" }
+    ]
+  },
+  {
+    "english": "arsonist",
+    "pron": "ˈɑːrsənɪst",
+    "kana": "アーソニスト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 ardere（燃える）から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "犯罪用語"],
+    "meaning_main": "放火犯",
+    "description": "arsonist（アーソニスト）は「放火犯」を表す名詞。故意に火をつける犯罪(arson)を行う人。使い方と例文を解説。",
+    "keywords": ["arsonist 意味", "arsonist 発音", "放火犯 英語", "arson"],
+    "meanings": [
+      { "hinshi": "【名詞】放火犯", "note": "建物などに故意に火をつける犯罪を行う人" }
+    ],
+    "usages": [
+      { "title": "① 放火する人", "desc": "犯罪 arson（放火）を行う人。", "example_en": "Police believe the fire was started by an arsonist.", "example_ja": "警察はその火事は放火犯によるものだと見ている。" },
+      { "title": "② 連続放火犯", "desc": "a serial arsonist（連続放火犯）のようにも使う。", "example_en": "A serial arsonist was terrorizing the town.", "example_ja": "連続放火犯が町を恐怖に陥れていた。" }
+    ],
+    "warn": ["犯罪そのものは arson（放火）。", "『火事』一般は fire。放火（故意の犯罪）が arson。"],
+    "etym_note": "ラテン語 ardere（燃える）→ arson（放火）+ -ist（~する人）。ardent（熱烈な）と同語源。",
+    "etym_chain": [
+      { "node": "ardere", "sub": "燃える", "era": "ラテン語" },
+      { "node": "arsonist", "sub": "放火犯", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a suspected arsonist", "ja": "放火の容疑者" },
+      { "en": "a serial arsonist", "ja": "連続放火犯" },
+      { "en": "catch the arsonist", "ja": "放火犯を捕まえる" },
+      { "en": "the work of an arsonist", "ja": "放火犯の仕業" },
+      { "en": "a convicted arsonist", "ja": "有罪判決を受けた放火犯" },
+      { "en": "hunt for the arsonist", "ja": "放火犯を追う" }
+    ],
+    "related": [
+      { "en": "arson", "ja": "放火（罪）" },
+      { "en": "fire", "ja": "火事・火" },
+      { "en": "criminal", "ja": "犯罪者" },
+      { "en": "pyromaniac", "ja": "放火癖のある人" }
+    ],
+    "faq": [
+      { "q": "arsonist と arson の違いは？", "a": "arson は『放火（という犯罪）』、arsonist は『放火する人（放火犯）』です。" },
+      { "q": "pyromaniac との違いは？", "a": "pyromaniac は『火をつけることに病的な衝動を持つ人（放火癖）』で、必ずしも犯罪者を指す語ではありません。" }
+    ],
+    "quiz": [
+      { "q": "arsonist の意味は？", "A": "放火犯", "B": "消防士", "C": "泥棒", "D": "詐欺師", "correct": "A" },
+      { "q": "arsonist が行う犯罪は？", "A": "arson（放火）", "B": "theft（窃盗）", "C": "fraud（詐欺）", "D": "assault（暴行）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "arthritic",
+    "pron": "ɑːrˈθrɪtɪk",
+    "kana": "アースリティック",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ギリシャ語 arthron（関節）から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "医療用語"],
+    "meaning_main": "関節炎の／関節炎を患った",
+    "description": "arthritic（アースリティック）は「関節炎の、関節炎を患った」を表す形容詞。名詞 arthritis（関節炎）の形容詞形。例文で解説。",
+    "keywords": ["arthritic 意味", "arthritic 発音", "関節炎 英語", "arthritis"],
+    "meanings": [
+      { "hinshi": "【形容詞】関節炎の・関節炎を患った", "note": "関節炎による、または関節炎に苦しむ" }
+    ],
+    "usages": [
+      { "title": "① 関節炎を患った", "desc": "関節炎で痛む関節・患者を表す。", "example_en": "Her arthritic knees make walking painful.", "example_ja": "関節炎のひざのせいで歩くのがつらい。" },
+      { "title": "② 名詞は arthritis", "desc": "病名は arthritis（関節炎）。発音は「アースライティス」。", "example_en": "He was diagnosed with arthritis.", "example_ja": "彼は関節炎と診断された。" }
+    ],
+    "warn": ["名詞 arthritis（関節炎）の発音は「アースライティス」で -itis にアクセント。", "接頭 arthro-（関節）は arthroscopy（関節鏡検査）などにも。"],
+    "etym_note": "ギリシャ語 arthron（関節）+ -itis（炎症）→ arthritis → arthritic。",
+    "etym_chain": [
+      { "node": "arthron", "sub": "関節", "era": "ギリシャ語" },
+      { "node": "arthritic", "sub": "関節炎の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "arthritic joints", "ja": "関節炎の関節" },
+      { "en": "arthritic pain", "ja": "関節炎の痛み" },
+      { "en": "arthritic hands", "ja": "関節炎の手" },
+      { "en": "an arthritic patient", "ja": "関節炎の患者" },
+      { "en": "arthritic knees", "ja": "関節炎のひざ" },
+      { "en": "become arthritic", "ja": "関節炎になる" }
+    ],
+    "related": [
+      { "en": "arthritis", "ja": "関節炎" },
+      { "en": "joint", "ja": "関節" },
+      { "en": "rheumatism", "ja": "リウマチ" },
+      { "en": "inflammation", "ja": "炎症" }
+    ],
+    "faq": [
+      { "q": "arthritic の名詞形は？", "a": "arthritis（関節炎）です。発音は「アースライティス」です。" },
+      { "q": "接頭 arthro- の意味は？", "a": "『関節』を表します（arthroscopy＝関節鏡検査 など）。" }
+    ],
+    "quiz": [
+      { "q": "arthritic の意味は？", "A": "関節炎の", "B": "心臓病の", "C": "皮膚病の", "D": "目の病気の", "correct": "A" },
+      { "q": "arthritic の名詞形（病名）は？", "A": "arthritis", "B": "asthma", "C": "arthrosis", "D": "arteritis", "correct": "A" }
+    ]
+  },
+  {
+    "english": "asceticism",
+    "pron": "əˈsetɪsɪzəm",
+    "kana": "アセティシズム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 asketes（修行者）から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "宗教・思想用語"],
+    "meaning_main": "禁欲主義／苦行・克己の実践",
+    "description": "asceticism（アセティシズム）は「禁欲主義、苦行・克己の実践」を表す名詞。快楽を断ち簡素に生きる宗教的・哲学的な態度。例文で解説。",
+    "keywords": ["asceticism 意味", "asceticism 発音", "禁欲主義 英語", "苦行 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】禁欲主義・苦行", "note": "快楽や物質的欲求を断ち、簡素・厳格に生きる実践や思想" }
+    ],
+    "usages": [
+      { "title": "① 宗教的な禁欲", "desc": "僧・修行者などが快楽を断って精神を鍛える生き方。", "example_en": "Monastic life often involves strict asceticism.", "example_ja": "修道生活はしばしば厳格な禁欲を伴う。" },
+      { "title": "② 簡素な生き方", "desc": "物質的な贅沢を避ける生活態度全般にも使う。", "example_en": "He practiced a kind of personal asceticism.", "example_ja": "彼はある種の個人的な禁欲を実践していた。" }
+    ],
+    "warn": ["禁欲を実践する人は ascetic（禁欲主義者）。形容詞 ascetic は『禁欲的な』。", "hedonism（快楽主義）が対義的な立場。"],
+    "etym_note": "ギリシャ語 asketes（修行者、askein「鍛錬する」から）→ ascetic + -ism。",
+    "etym_chain": [
+      { "node": "asketes", "sub": "修行者", "era": "ギリシャ語" },
+      { "node": "asceticism", "sub": "禁欲主義", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "strict asceticism", "ja": "厳格な禁欲" },
+      { "en": "religious asceticism", "ja": "宗教的禁欲" },
+      { "en": "practice asceticism", "ja": "禁欲を実践する" },
+      { "en": "a life of asceticism", "ja": "禁欲の生活" },
+      { "en": "extreme asceticism", "ja": "極端な苦行" },
+      { "en": "reject asceticism", "ja": "禁欲主義を退ける" }
+    ],
+    "related": [
+      { "en": "ascetic", "ja": "禁欲主義者・禁欲的な" },
+      { "en": "abstinence", "ja": "節制・禁欲" },
+      { "en": "hedonism", "ja": "快楽主義" },
+      { "en": "self-denial", "ja": "自己犠牲・克己" }
+    ],
+    "faq": [
+      { "q": "asceticism の反対は？", "a": "hedonism（快楽主義）です。快楽を人生の目的とする立場です。" },
+      { "q": "禁欲を実践する人は？", "a": "ascetic（禁欲主義者）と呼びます。形容詞も同形で『禁欲的な』です。" }
+    ],
+    "quiz": [
+      { "q": "asceticism の意味は？", "A": "禁欲主義・苦行", "B": "快楽主義", "C": "楽観主義", "D": "現実主義", "correct": "A" },
+      { "q": "asceticism の反対の立場は？", "A": "hedonism", "B": "realism", "C": "idealism", "D": "capitalism", "correct": "A" }
+    ]
+  },
+  {
+    "english": "askew",
+    "pron": "əˈskjuː",
+    "kana": "アスキュー",
+    "hinshi": "副詞 / 形容詞",
+    "ld_pos": "副詞",
+    "ld_etym": "a-（~の状態で）+ skew（斜め）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "叙述用法"],
+    "meaning_main": "斜めに／曲がって・ゆがんで",
+    "description": "askew（アスキュー）は「斜めに、曲がって、ゆがんで」を表す副詞・形容詞。まっすぐでなく傾いている様子。例文で解説。",
+    "keywords": ["askew 意味", "askew 発音", "斜めに 英語", "曲がって 英語"],
+    "meanings": [
+      { "hinshi": "【副詞・形容詞】斜めに・ゆがんで", "note": "本来まっすぐ・水平であるべきものが傾いている" }
+    ],
+    "usages": [
+      { "title": "① 傾いている", "desc": "絵・帽子・ネクタイなどがまっすぐでなく斜めになっている様子。", "example_en": "The picture on the wall was hanging askew.", "example_ja": "壁の絵が斜めに掛かっていた。" },
+      { "title": "② 計画がくるう（比喩）", "desc": "go askew で『（計画などが）狂う・うまくいかない』。", "example_en": "Their plans went completely askew.", "example_ja": "彼らの計画は完全に狂ってしまった。" }
+    ],
+    "warn": ["形容詞のときは叙述用法が中心（an askew picture より hang askew）。", "straight（まっすぐ）が反対。crooked（ゆがんだ）と近い。"],
+    "etym_note": "接頭辞 a-（~の状態で）+ skew（斜め・ゆがみ）。skew は『斜めにする』。",
+    "etym_chain": [
+      { "node": "a- + skew", "sub": "斜めの状態で", "era": "近代英語" },
+      { "node": "askew", "sub": "斜めに・ゆがんで", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "hang askew", "ja": "斜めに掛かる" },
+      { "en": "sit askew", "ja": "斜めに載っている" },
+      { "en": "go askew", "ja": "（計画が）狂う" },
+      { "en": "slightly askew", "ja": "少し斜めに" },
+      { "en": "a hat askew", "ja": "斜めにかぶった帽子" },
+      { "en": "knocked askew", "ja": "ぶつかって斜めになって" }
+    ],
+    "related": [
+      { "en": "crooked", "ja": "ゆがんだ・曲がった" },
+      { "en": "slanted", "ja": "傾いた" },
+      { "en": "lopsided", "ja": "一方に傾いた" },
+      { "en": "straight", "ja": "まっすぐな" }
+    ],
+    "faq": [
+      { "q": "askew の反対は？", "a": "straight（まっすぐ・水平）です。" },
+      { "q": "go askew の意味は？", "a": "『（計画・物事が）狂う・うまくいかなくなる』という比喩的な表現です。" }
+    ],
+    "quiz": [
+      { "q": "askew の意味は？", "A": "斜めに・ゆがんで", "B": "まっすぐに", "C": "上に", "D": "静かに", "correct": "A" },
+      { "q": "go askew の意味は？", "A": "（計画が）狂う", "B": "急ぐ", "C": "成功する", "D": "眠る", "correct": "A" }
+    ]
+  }
+]
