@@ -1,0 +1,974 @@
+[
+  {
+    "english": "billowing",
+    "pron": "ˈbɪloʊɪŋ",
+    "kana": "ビロウイング",
+    "hinshi": "形容詞 / 動詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "古ノルド語 bylgja（大波）から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "動詞billowの現在分詞"],
+    "meaning_main": "（煙・布などが）大きくうねる・もくもく立ちのぼる",
+    "description": "billowing（ビロウイング）は「（煙・雲・布などが）大きくうねる、もくもく立ちのぼる、はためく」を表す形容詞・動詞。例文で解説。",
+    "keywords": ["billowing 意味", "billowing 発音", "うねる 英語", "もくもく 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞・動詞】大きくうねる・もくもく立ちのぼる", "note": "煙・雲・波・布などが波打つように大きく広がる様子" }
+    ],
+    "usages": [
+      { "title": "① 煙・雲がもくもく", "desc": "煙や雲が大きくうねって立ちのぼる様子。", "example_en": "Billowing smoke rose from the burning building.", "example_ja": "燃える建物からもくもくと煙が立ちのぼった。" },
+      { "title": "② 布・帆がはためく", "desc": "風で布・カーテン・帆などが大きくふくらむ様子。", "example_en": "The curtains were billowing in the breeze.", "example_ja": "カーテンがそよ風にはためいていた。" }
+    ],
+    "warn": ["名詞・動詞 billow は『大波・うねる』。", "pillow（枕）と混同しないよう注意（b と p）。"],
+    "etym_note": "古ノルド語 bylgja（大波）→ billow（大波・うねる）+ -ing。",
+    "etym_chain": [
+      { "node": "bylgja", "sub": "大波", "era": "古ノルド語" },
+      { "node": "billowing", "sub": "うねる・もくもく", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "billowing smoke", "ja": "もくもくと立ちのぼる煙" },
+      { "en": "billowing clouds", "ja": "うねる雲" },
+      { "en": "billowing sails", "ja": "はためく帆" },
+      { "en": "billowing curtains", "ja": "はためくカーテン" },
+      { "en": "a billowing dress", "ja": "ふわりと広がるドレス" },
+      { "en": "billowing steam", "ja": "立ちのぼる蒸気" }
+    ],
+    "related": [
+      { "en": "billow", "ja": "大波・うねる" },
+      { "en": "swirl", "ja": "渦巻く" },
+      { "en": "flutter", "ja": "はためく" },
+      { "en": "wave", "ja": "波・波打つ" }
+    ],
+    "faq": [
+      { "q": "billowing はどんな物に使う？", "a": "煙・雲・蒸気・波、また風にはためく布・帆・カーテンなど、大きくうねって広がるものに使います。" },
+      { "q": "元の語は？", "a": "billow（大波・うねる）です。古ノルド語 bylgja（大波）に由来します。" }
+    ],
+    "quiz": [
+      { "q": "billowing の意味は？", "A": "大きくうねる・もくもく立ちのぼる", "B": "しぼむ", "C": "凍りつく", "D": "静止する", "correct": "A" },
+      { "q": "billowing smoke の意味は？", "A": "もくもくと立ちのぼる煙", "B": "消えた煙", "C": "細い煙", "D": "白い霧のみ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "biosphere",
+    "pron": "ˈbaɪoʊsfɪr",
+    "kana": "バイオスフィア",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 bios（生命）+ sphaira（球）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "科学・環境用語"],
+    "meaning_main": "生物圏（生命が存在する地球上の領域）",
+    "description": "biosphere（バイオスフィア）は「生物圏、地球上で生命が存在する領域」を表す名詞。大気・水・地表の生命が住む範囲全体を指す。例文で解説。",
+    "keywords": ["biosphere 意味", "biosphere 発音", "生物圏 英語", "生態系 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】生物圏", "note": "地球上で生命が存在するすべての領域（大気・海・地表など）の総称" }
+    ],
+    "usages": [
+      { "title": "① 生命の存在する領域", "desc": "地球全体で生き物が暮らす範囲をまとめて指す環境用語。", "example_en": "Pollution threatens the entire biosphere.", "example_ja": "汚染は生物圏全体を脅かしている。" },
+      { "title": "② 他の『圏』との対比", "desc": "atmosphere（大気圏）、hydrosphere（水圏）などと並ぶ概念。", "example_en": "The biosphere interacts with the atmosphere and oceans.", "example_ja": "生物圏は大気圏や海洋と相互作用する。" }
+    ],
+    "warn": ["-sphere（~圏）は atmosphere（大気圏）、hydrosphere（水圏）などにも。", "biosphere reserve は『生物圏保存地域（ユネスコの保護区）』。"],
+    "etym_note": "ギリシャ語 bios（生命）+ sphaira（球・圏）→『生命の圏』。biology と同じ bios 系。",
+    "etym_chain": [
+      { "node": "bios + sphaira", "sub": "生命＋球", "era": "ギリシャ語" },
+      { "node": "biosphere", "sub": "生物圏", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the entire biosphere", "ja": "生物圏全体" },
+      { "en": "protect the biosphere", "ja": "生物圏を守る" },
+      { "en": "biosphere reserve", "ja": "生物圏保存地域" },
+      { "en": "the Earth's biosphere", "ja": "地球の生物圏" },
+      { "en": "balance of the biosphere", "ja": "生物圏の均衡" },
+      { "en": "damage to the biosphere", "ja": "生物圏への損害" }
+    ],
+    "related": [
+      { "en": "atmosphere", "ja": "大気圏" },
+      { "en": "ecosystem", "ja": "生態系" },
+      { "en": "environment", "ja": "環境" },
+      { "en": "hydrosphere", "ja": "水圏" }
+    ],
+    "faq": [
+      { "q": "biosphere とは？", "a": "地球上で生命が存在するすべての領域（大気・海・地表など）をまとめて指す『生物圏』です。" },
+      { "q": "atmosphere との違いは？", "a": "atmosphere は『大気圏』、biosphere は『生命が存在する圏（生物圏）』です。" }
+    ],
+    "quiz": [
+      { "q": "biosphere の意味は？", "A": "生物圏（生命が存在する領域）", "B": "大気圏", "C": "成層圏", "D": "磁気圏", "correct": "A" },
+      { "q": "biosphere の bio- の意味は？", "A": "生命", "B": "水", "C": "空気", "D": "火", "correct": "A" }
+    ]
+  },
+  {
+    "english": "bipartisan",
+    "pron": "ˌbaɪˈpɑːrtɪzn",
+    "kana": "バイパーティザン",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "bi-（2つの）+ partisan（党派の）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "政治用語"],
+    "meaning_main": "超党派の／二大政党が協力する",
+    "description": "bipartisan（バイパーティザン）は「超党派の、二大政党が協力する」を表す形容詞。政治で対立する二党が合意・協力することを指す。例文で解説。",
+    "keywords": ["bipartisan 意味", "bipartisan 発音", "超党派 英語", "二党協力 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】超党派の・二党協力の", "note": "対立する二つの政党が協力・合意すること" }
+    ],
+    "usages": [
+      { "title": "① 二党の協力", "desc": "特に米国で、民主党と共和党が協力して行うことを表す。", "example_en": "The bill received bipartisan support.", "example_ja": "その法案は超党派の支持を得た。" },
+      { "title": "② 党派を超えた合意", "desc": "党派対立を超えた合意・取り組みを指す。", "example_en": "They reached a bipartisan agreement.", "example_ja": "彼らは超党派の合意に達した。" }
+    ],
+    "warn": ["bi-（2つ）+ partisan（党派の）。単党派は partisan、無党派は nonpartisan。", "partisan は『党派心の強い・党派的な』（しばしば否定的）という意味。"],
+    "etym_note": "bi-（2つの）+ partisan（党派の、part「部分」から）。『二つの党派にまたがる』の意。",
+    "etym_chain": [
+      { "node": "bi- + partisan", "sub": "2つの党派", "era": "近代英語" },
+      { "node": "bipartisan", "sub": "超党派の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "bipartisan support", "ja": "超党派の支持" },
+      { "en": "a bipartisan agreement", "ja": "超党派の合意" },
+      { "en": "bipartisan cooperation", "ja": "二党の協力" },
+      { "en": "a bipartisan committee", "ja": "超党派委員会" },
+      { "en": "on a bipartisan basis", "ja": "超党派で" },
+      { "en": "bipartisan effort", "ja": "超党派の取り組み" }
+    ],
+    "related": [
+      { "en": "partisan", "ja": "党派的な・党派心の強い" },
+      { "en": "nonpartisan", "ja": "無党派の" },
+      { "en": "coalition", "ja": "連立・連合" },
+      { "en": "political party", "ja": "政党" }
+    ],
+    "faq": [
+      { "q": "bipartisan と nonpartisan の違いは？", "a": "bipartisan は『二つの政党が協力する』、nonpartisan は『どの党派にも属さない・中立の』です。" },
+      { "q": "partisan の意味は？", "a": "『党派的な・党派心の強い』で、しばしば偏った態度を否定的に表します。" }
+    ],
+    "quiz": [
+      { "q": "bipartisan の意味は？", "A": "超党派の・二党協力の", "B": "一党独裁の", "C": "無政府の", "D": "君主制の", "correct": "A" },
+      { "q": "bipartisan の bi- の意味は？", "A": "2つの", "B": "反対の", "C": "無い", "D": "前の", "correct": "A" }
+    ]
+  },
+  {
+    "english": "birdwatcher",
+    "pron": "ˈbɜːrdwɒtʃər",
+    "kana": "バードウォッチャー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "bird（鳥）+ watcher（観察する人）",
+    "ld_level": "準1級",
+    "badges": ["中学生〜", "英検準1級", "CEFR B1", "可算名詞・趣味"],
+    "meaning_main": "野鳥観察をする人（バードウォッチャー）",
+    "description": "birdwatcher（バードウォッチャー）は「野鳥観察をする人」を表す名詞。趣味で鳥を観察する人。bird-watcher とも綴る。例文で解説。",
+    "keywords": ["birdwatcher 意味", "birdwatcher 発音", "野鳥観察 英語", "バードウォッチング"],
+    "meanings": [
+      { "hinshi": "【名詞】野鳥観察をする人", "note": "趣味として野生の鳥を観察・記録する人" }
+    ],
+    "usages": [
+      { "title": "① 野鳥観察の愛好家", "desc": "双眼鏡などで鳥を観察する趣味の人。", "example_en": "Birdwatchers gathered at the lake at dawn.", "example_ja": "バードウォッチャーたちが夜明けに湖に集まった。" },
+      { "title": "② 活動は birdwatching", "desc": "行為は birdwatching（野鳥観察・バードウォッチング）。", "example_en": "Birdwatching is a relaxing hobby.", "example_ja": "野鳥観察はくつろげる趣味だ。" }
+    ],
+    "warn": ["行為は birdwatching。英国口語では birder（バードウォッチャー）とも。", "bird-watcher と2語（ハイフン）でも書く。"],
+    "etym_note": "bird（鳥）+ watcher（watch「観察する」+ -er）の複合語。",
+    "etym_chain": [
+      { "node": "bird + watcher", "sub": "鳥＋観察する人", "era": "近代英語" },
+      { "node": "birdwatcher", "sub": "野鳥観察者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a keen birdwatcher", "ja": "熱心なバードウォッチャー" },
+      { "en": "an amateur birdwatcher", "ja": "アマチュアの野鳥観察者" },
+      { "en": "birdwatchers with binoculars", "ja": "双眼鏡を持つ観察者" },
+      { "en": "become a birdwatcher", "ja": "野鳥観察をするようになる" },
+      { "en": "birdwatchers' club", "ja": "野鳥の会" },
+      { "en": "a group of birdwatchers", "ja": "野鳥観察者の一団" }
+    ],
+    "related": [
+      { "en": "birdwatching", "ja": "野鳥観察" },
+      { "en": "birder", "ja": "バードウォッチャー（口語）" },
+      { "en": "binoculars", "ja": "双眼鏡" },
+      { "en": "ornithology", "ja": "鳥類学" }
+    ],
+    "faq": [
+      { "q": "birdwatcher の活動は英語で？", "a": "birdwatching（野鳥観察・バードウォッチング）です。" },
+      { "q": "birder との違いは？", "a": "ほぼ同義です。birder は特に熱心な愛好家を指す口語です。" }
+    ],
+    "quiz": [
+      { "q": "birdwatcher の意味は？", "A": "野鳥観察をする人", "B": "鳥を売る人", "C": "鳥を飼う人", "D": "鳥を料理する人", "correct": "A" },
+      { "q": "birdwatcher がよく使う道具は？", "A": "双眼鏡", "B": "顕微鏡", "C": "望遠鏡（天体）", "D": "拡大鏡だけ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "birthplace",
+    "pron": "ˈbɜːrθpleɪs",
+    "kana": "バースプレイス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "birth（誕生）+ place（場所）",
+    "ld_level": "準1級",
+    "badges": ["中学生〜", "英検準1級", "CEFR B1", "可算名詞"],
+    "meaning_main": "生まれた場所／（物事の）発祥地",
+    "description": "birthplace（バースプレイス）は「生まれた場所、（物事の）発祥地」を表す名詞。人の出生地や、文化・運動の起源に使う。例文で解説。",
+    "keywords": ["birthplace 意味", "birthplace 発音", "出生地 英語", "発祥地 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】生まれた場所・出生地", "note": "人が生まれた土地" },
+      { "hinshi": "【名詞】（物事の）発祥地・起源", "note": "文化・運動・技術などが生まれた場所" }
+    ],
+    "usages": [
+      { "title": "① 人の出生地", "desc": "その人が生まれた町・国。", "example_en": "This town is the birthplace of a famous poet.", "example_ja": "この町は有名な詩人の生誕地だ。" },
+      { "title": "② 物事の発祥地", "desc": "the birthplace of ~ で『~発祥の地』。", "example_en": "Greece is often called the birthplace of democracy.", "example_ja": "ギリシャはよく民主主義の発祥地と呼ばれる。" }
+    ],
+    "warn": ["birth（誕生）+ place（場所）。berth（寝台・停泊）と混同しないよう注意。", "『発祥地』の比喩でも頻出（the birthplace of jazz など）。"],
+    "etym_note": "birth（誕生、古ノルド語 byrth から）+ place（場所）の複合語。",
+    "etym_chain": [
+      { "node": "birth + place", "sub": "誕生＋場所", "era": "近代英語" },
+      { "node": "birthplace", "sub": "生誕地・発祥地", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the birthplace of", "ja": "~の発祥地・生誕地" },
+      { "en": "his birthplace", "ja": "彼の生まれた場所" },
+      { "en": "the birthplace of democracy", "ja": "民主主義の発祥地" },
+      { "en": "the birthplace of jazz", "ja": "ジャズ発祥の地" },
+      { "en": "return to one's birthplace", "ja": "生まれ故郷に戻る" },
+      { "en": "the birthplace of the movement", "ja": "その運動の発祥地" }
+    ],
+    "related": [
+      { "en": "hometown", "ja": "故郷・地元" },
+      { "en": "origin", "ja": "起源" },
+      { "en": "cradle", "ja": "発祥の地・揺りかご" },
+      { "en": "birth", "ja": "誕生" }
+    ],
+    "faq": [
+      { "q": "birthplace の比喩的な意味は？", "a": "『（文化・運動・技術などの）発祥地・起源』という意味でも使います（the birthplace of jazz）。" },
+      { "q": "hometown との違いは？", "a": "birthplace は『生まれた場所』、hometown は『育った故郷・地元』で、必ずしも同じとは限りません。" }
+    ],
+    "quiz": [
+      { "q": "birthplace の意味は？", "A": "生まれた場所・発祥地", "B": "墓地", "C": "職場", "D": "学校", "correct": "A" },
+      { "q": "the birthplace of jazz の意味は？", "A": "ジャズ発祥の地", "B": "ジャズの墓場", "C": "ジャズの学校", "D": "ジャズの店", "correct": "A" }
+    ]
+  },
+  {
+    "english": "birthstone",
+    "pron": "ˈbɜːrθstoʊn",
+    "kana": "バースストーン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "birth（誕生）+ stone（石）",
+    "ld_level": "1級",
+    "badges": ["中学生〜", "英検1級", "CEFR B1", "可算名詞"],
+    "meaning_main": "誕生石（生まれ月に対応する宝石）",
+    "description": "birthstone（バースストーン）は「誕生石」を表す名詞。生まれた月に対応する宝石で、幸運をもたらすとされる。使い方と例文を解説。",
+    "keywords": ["birthstone 意味", "birthstone 発音", "誕生石 英語", "宝石 月 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】誕生石", "note": "生まれ月ごとに定められた宝石。幸運や加護の象徴とされる" }
+    ],
+    "usages": [
+      { "title": "① 月ごとの宝石", "desc": "例: 1月はガーネット、4月はダイヤモンド、9月はサファイアなど。", "example_en": "Her birthstone is a ruby because she was born in July.", "example_ja": "彼女は7月生まれなので誕生石はルビーだ。" },
+      { "title": "② 贈り物として", "desc": "誕生石のアクセサリーは贈り物として人気。", "example_en": "He gave her a ring with her birthstone.", "example_ja": "彼は彼女に誕生石つきの指輪を贈った。" }
+    ],
+    "warn": ["birth（誕生）+ stone（石）の複合語。", "月ごとの石は国・時代でやや異なる場合がある。"],
+    "etym_note": "birth（誕生）+ stone（石・宝石）の複合語。生まれ月と宝石を結びつける習慣から。",
+    "etym_chain": [
+      { "node": "birth + stone", "sub": "誕生＋石", "era": "近代英語" },
+      { "node": "birthstone", "sub": "誕生石", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "her birthstone", "ja": "彼女の誕生石" },
+      { "en": "a birthstone ring", "ja": "誕生石の指輪" },
+      { "en": "the birthstone for May", "ja": "5月の誕生石" },
+      { "en": "wear one's birthstone", "ja": "誕生石を身につける" },
+      { "en": "a birthstone necklace", "ja": "誕生石のネックレス" },
+      { "en": "each month's birthstone", "ja": "各月の誕生石" }
+    ],
+    "related": [
+      { "en": "gemstone", "ja": "宝石" },
+      { "en": "ruby", "ja": "ルビー" },
+      { "en": "sapphire", "ja": "サファイア" },
+      { "en": "diamond", "ja": "ダイヤモンド" }
+    ],
+    "faq": [
+      { "q": "birthstone とは？", "a": "生まれた月ごとに定められた宝石『誕生石』のことです。幸運や加護の象徴とされます。" },
+      { "q": "例を挙げると？", "a": "1月ガーネット、4月ダイヤモンド、7月ルビー、9月サファイアなどです（国により多少異なります）。" }
+    ],
+    "quiz": [
+      { "q": "birthstone の意味は？", "A": "誕生石", "B": "墓石", "C": "礎石", "D": "敷石", "correct": "A" },
+      { "q": "birthstone は何に対応する？", "A": "生まれた月", "B": "身長", "C": "血液型", "D": "職業", "correct": "A" }
+    ]
+  },
+  {
+    "english": "biscotti",
+    "pron": "bɪˈskɒti",
+    "kana": "ビスコッティ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "イタリア語 biscotto（二度焼いた）から",
+    "ld_level": "1級",
+    "badges": ["中学生〜", "英検1級", "CEFR B1", "食べ物・借用語"],
+    "meaning_main": "ビスコッティ（二度焼きの固いイタリア菓子）",
+    "description": "biscotti（ビスコッティ）は「二度焼きした固いイタリアの焼き菓子」を表す名詞。コーヒーに浸して食べる。イタリア語の複数形。例文で解説。",
+    "keywords": ["biscotti 意味", "biscotti 発音", "ビスコッティ 英語", "イタリア 焼き菓子"],
+    "meanings": [
+      { "hinshi": "【名詞】ビスコッティ", "note": "二度焼きしてカリッと固くした、細長いイタリアの焼き菓子" }
+    ],
+    "usages": [
+      { "title": "① コーヒーのお供", "desc": "固いのでコーヒーやワインに浸して食べることが多い。", "example_en": "She dipped a biscotti in her coffee.", "example_ja": "彼女はビスコッティをコーヒーに浸した。" },
+      { "title": "② 二度焼きの菓子", "desc": "一度焼いてから切り、もう一度焼くのでカリッと固い。", "example_en": "Biscotti are baked twice to make them crunchy.", "example_ja": "ビスコッティはカリッとさせるため二度焼きされる。" }
+    ],
+    "warn": ["イタリア語で複数形。単数は biscotto。英語では biscotti を単複両方に使うことも多い。", "英語 biscuit（ビスケット）と同語源（bis-「二度」+ cotto「焼いた」）。"],
+    "etym_note": "イタリア語 biscotto（bis「二度」+ cotto「焼いた」＝二度焼いた）の複数形 biscotti。biscuit と同語源。",
+    "etym_chain": [
+      { "node": "biscotto", "sub": "二度焼いた", "era": "イタリア語" },
+      { "node": "biscotti", "sub": "ビスコッティ", "era": "現代英語（借用）" }
+    ],
+    "phrases": [
+      { "en": "almond biscotti", "ja": "アーモンドのビスコッティ" },
+      { "en": "dip biscotti in coffee", "ja": "ビスコッティをコーヒーに浸す" },
+      { "en": "a plate of biscotti", "ja": "ビスコッティの盛り合わせ" },
+      { "en": "homemade biscotti", "ja": "手作りのビスコッティ" },
+      { "en": "chocolate biscotti", "ja": "チョコビスコッティ" },
+      { "en": "crunchy biscotti", "ja": "カリカリのビスコッティ" }
+    ],
+    "related": [
+      { "en": "biscuit", "ja": "ビスケット" },
+      { "en": "cookie", "ja": "クッキー" },
+      { "en": "pastry", "ja": "焼き菓子" },
+      { "en": "cantucci", "ja": "カントゥッチ（ビスコッティの一種）" }
+    ],
+    "faq": [
+      { "q": "biscotti はなぜ固い？", "a": "一度焼いてから切り、もう一度焼く『二度焼き』のためカリッと固くなります。コーヒーなどに浸して食べます。" },
+      { "q": "biscuit と関係ある？", "a": "はい。どちらも『二度焼いた』を意味する語源（bis + cotto/coctus）を持ちます。" }
+    ],
+    "quiz": [
+      { "q": "biscotti の意味は？", "A": "二度焼きの固いイタリア菓子", "B": "スープ", "C": "パスタ", "D": "アイス", "correct": "A" },
+      { "q": "biscotti の語源の意味は？", "A": "二度焼いた", "B": "甘い", "C": "丸い", "D": "小さい", "correct": "A" }
+    ]
+  },
+  {
+    "english": "bitterly",
+    "pron": "ˈbɪtərli",
+    "kana": "ビタリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "古英語 biter（苦い）から",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "形容詞bitterの副詞形"],
+    "meaning_main": "苦々しく／激しく・痛烈に／（寒さが）厳しく",
+    "description": "bitterly（ビタリー）は「苦々しく、激しく・痛烈に、（寒さが）厳しく」を表す副詞。感情・寒さ・批判の強さを表す。例文で解説。",
+    "keywords": ["bitterly 意味", "bitterly 発音", "苦々しく 英語", "激しく 英語"],
+    "meanings": [
+      { "hinshi": "【副詞】苦々しく・激しく", "note": "強い恨み・悲しみ・不満をこめて。cry/complain bitterly など" },
+      { "hinshi": "【副詞】（寒さが）厳しく", "note": "bitterly cold（身を切るように寒い）" }
+    ],
+    "usages": [
+      { "title": "① 激しい感情", "desc": "激しく泣く・恨む・不満を言うなど、強い感情を表す。", "example_en": "She wept bitterly at the news.", "example_ja": "彼女はその知らせに激しく泣いた。" },
+      { "title": "② 厳しい寒さ", "desc": "bitterly cold で『身を切るように寒い』。", "example_en": "It was bitterly cold outside.", "example_ja": "外は身を切るように寒かった。" }
+    ],
+    "warn": ["形容詞は bitter（苦い・つらい）。名詞 bitterness（苦さ・恨み）。", "bitterly cold（極寒）、bitterly disappointed（ひどく失望して）が定番。"],
+    "etym_note": "古英語 biter（苦い、bitan「かむ」から）→ bitter + -ly。『かみつくような』が原義。",
+    "etym_chain": [
+      { "node": "biter", "sub": "苦い", "era": "古英語" },
+      { "node": "bitterly", "sub": "苦々しく・激しく", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "bitterly cold", "ja": "身を切るように寒い" },
+      { "en": "weep bitterly", "ja": "激しく泣く" },
+      { "en": "bitterly disappointed", "ja": "ひどく失望して" },
+      { "en": "complain bitterly", "ja": "苦々しく不平を言う" },
+      { "en": "bitterly opposed", "ja": "激しく反対して" },
+      { "en": "regret bitterly", "ja": "ひどく後悔する" }
+    ],
+    "related": [
+      { "en": "bitter", "ja": "苦い・つらい" },
+      { "en": "bitterness", "ja": "苦さ・恨み" },
+      { "en": "fiercely", "ja": "激しく" },
+      { "en": "harshly", "ja": "厳しく" }
+    ],
+    "faq": [
+      { "q": "bitterly cold の意味は？", "a": "『身を切るように（ひどく）寒い』という意味です。" },
+      { "q": "形容詞形は？", "a": "bitter（苦い・つらい・厳しい）です。" }
+    ],
+    "quiz": [
+      { "q": "bitterly の意味に含まれないものは？", "A": "甘く", "B": "苦々しく", "C": "激しく", "D": "（寒さが）厳しく", "correct": "A" },
+      { "q": "bitterly cold の意味は？", "A": "身を切るように寒い", "B": "少し暖かい", "C": "蒸し暑い", "D": "乾燥した", "correct": "A" }
+    ]
+  },
+  {
+    "english": "blackout",
+    "pron": "ˈblækaʊt",
+    "kana": "ブラックアウト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "black（黒・暗）+ out（外へ）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "可算名詞"],
+    "meaning_main": "停電／（一時的な）意識喪失／報道管制・灯火管制",
+    "description": "blackout（ブラックアウト）は「停電、（一時的な）意識喪失、報道管制・灯火管制」を表す名詞。複数の意味を例文で解説。",
+    "keywords": ["blackout 意味", "blackout 発音", "停電 英語", "意識喪失 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】停電", "note": "広い範囲で電気が止まること" },
+      { "hinshi": "【名詞】一時的な意識喪失", "note": "気を失う、または記憶が飛ぶこと" },
+      { "hinshi": "【名詞】報道管制・灯火管制", "note": "情報の遮断、または空襲対策で灯りを消すこと" }
+    ],
+    "usages": [
+      { "title": "① 停電", "desc": "電力が広範囲に止まること。power blackout。", "example_en": "The storm caused a citywide blackout.", "example_ja": "その嵐で市全体が停電した。" },
+      { "title": "② 意識・記憶の喪失", "desc": "気を失う、または飲酒などで記憶が飛ぶこと。", "example_en": "He had a blackout and couldn't remember the night.", "example_ja": "彼は記憶が飛んでその夜を思い出せなかった。" }
+    ],
+    "warn": ["停電の意味では power cut（英）も使う。", "news blackout は『報道管制』、（戦時の）灯火管制も blackout。"],
+    "etym_note": "black（暗くする）+ out（すっかり）。『真っ暗にする』が原義。",
+    "etym_chain": [
+      { "node": "black + out", "sub": "暗くする", "era": "近代英語" },
+      { "node": "blackout", "sub": "停電・意識喪失", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a power blackout", "ja": "停電" },
+      { "en": "a citywide blackout", "ja": "市全体の停電" },
+      { "en": "have a blackout", "ja": "意識を失う・記憶が飛ぶ" },
+      { "en": "a news blackout", "ja": "報道管制" },
+      { "en": "a media blackout", "ja": "メディア報道の遮断" },
+      { "en": "blackout curtains", "ja": "遮光カーテン" }
+    ],
+    "related": [
+      { "en": "power cut", "ja": "停電（英）" },
+      { "en": "outage", "ja": "（電力などの）供給停止" },
+      { "en": "faint", "ja": "気絶する" },
+      { "en": "censorship", "ja": "検閲" }
+    ],
+    "faq": [
+      { "q": "blackout の主な意味は？", "a": "『停電』『（一時的な）意識喪失・記憶喪失』『報道管制・灯火管制』の3つが代表的です。" },
+      { "q": "blackout curtains とは？", "a": "光を遮る『遮光カーテン』のことです。" }
+    ],
+    "quiz": [
+      { "q": "blackout の意味に含まれないものは？", "A": "昇進", "B": "停電", "C": "意識喪失", "D": "報道管制", "correct": "A" },
+      { "q": "a power blackout の意味は？", "A": "停電", "B": "満充電", "C": "節電", "D": "発電", "correct": "A" }
+    ]
+  },
+  {
+    "english": "blankly",
+    "pron": "ˈblæŋkli",
+    "kana": "ブランクリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "フランス語 blanc（白い）から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "形容詞blankの副詞形"],
+    "meaning_main": "ぼんやりと／うつろに・無表情に",
+    "description": "blankly（ブランクリー）は「ぼんやりと、うつろに、無表情に」を表す副詞。理解できず、または感情を出さずに見つめる様子。例文で解説。",
+    "keywords": ["blankly 意味", "blankly 発音", "ぼんやりと 英語", "無表情 英語"],
+    "meanings": [
+      { "hinshi": "【副詞】ぼんやりと・うつろに・無表情に", "note": "理解できない・感情がない様子で。stare/look blankly が定番" }
+    ],
+    "usages": [
+      { "title": "① うつろに見つめる", "desc": "理解できず、または放心して無表情に見つめる様子。", "example_en": "She stared blankly at the wall.", "example_ja": "彼女はうつろに壁を見つめた。" },
+      { "title": "② 反応がない", "desc": "何を言われても理解できず、ぽかんとしている様子。", "example_en": "He looked at me blankly, not understanding.", "example_ja": "彼は理解できずに、ぽかんと私を見た。" }
+    ],
+    "warn": ["形容詞は blank（空白の・うつろな）。a blank look（うつろな表情）。", "『白紙・空欄』の blank と同語源で、『何もない（表情）』の意。"],
+    "etym_note": "フランス語 blanc（白い・空白の）→ blank + -ly。『白紙のように無の状態で』の意。",
+    "etym_chain": [
+      { "node": "blanc", "sub": "白い・空白の", "era": "フランス語" },
+      { "node": "blankly", "sub": "ぼんやりと・無表情に", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "stare blankly", "ja": "うつろに見つめる" },
+      { "en": "look blankly", "ja": "ぼんやりと見る" },
+      { "en": "gaze blankly", "ja": "無表情に見つめる" },
+      { "en": "blankly at the screen", "ja": "画面をぼんやりと" },
+      { "en": "reply blankly", "ja": "ぽかんと答える" },
+      { "en": "smile blankly", "ja": "うつろにほほ笑む" }
+    ],
+    "related": [
+      { "en": "blank", "ja": "空白の・うつろな" },
+      { "en": "vacantly", "ja": "ぼんやりと" },
+      { "en": "absently", "ja": "うわの空で" },
+      { "en": "expressionlessly", "ja": "無表情に" }
+    ],
+    "faq": [
+      { "q": "blankly の形容詞形は？", "a": "blank（空白の・うつろな・無表情の）です。" },
+      { "q": "どんな場面で使う？", "a": "理解できずぽかんとしている、または放心して無表情に見つめている様子を表すときに使います。" }
+    ],
+    "quiz": [
+      { "q": "blankly の意味は？", "A": "ぼんやりと・無表情に", "B": "熱心に", "C": "楽しそうに", "D": "急いで", "correct": "A" },
+      { "q": "stare blankly の意味は？", "A": "うつろに見つめる", "B": "にらみつける", "C": "ちらっと見る", "D": "見逃す", "correct": "A" }
+    ]
+  },
+  {
+    "english": "bleach",
+    "pron": "bliːtʃ",
+    "kana": "ブリーチ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 blæcan（白くする）から",
+    "ld_level": "準1級",
+    "badges": ["中学生〜", "英検準1級", "CEFR B1", "可算・動詞"],
+    "meaning_main": "漂白剤／漂白する・白くする",
+    "description": "bleach（ブリーチ）は「漂白剤」を表す名詞、また「漂白する、白くする（髪を脱色する）」の動詞。掃除・洗濯で使う。例文で解説。",
+    "keywords": ["bleach 意味", "bleach 発音", "漂白剤 英語", "漂白する 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】漂白剤", "note": "色や汚れを抜き白くする薬剤。殺菌にも使う" },
+      { "hinshi": "【動詞】漂白する・脱色する", "note": "色を抜いて白くする。髪を明るくする(ブリーチ)にも" }
+    ],
+    "usages": [
+      { "title": "① 漂白剤で白くする", "desc": "洗濯・掃除で、色や汚れを抜くために使う薬剤・行為。", "example_en": "She used bleach to whiten the towels.", "example_ja": "彼女はタオルを白くするのに漂白剤を使った。" },
+      { "title": "② 髪の脱色", "desc": "髪の色を抜いて明るくすること。bleach one's hair。", "example_en": "He bleached his hair blond.", "example_ja": "彼は髪をブロンドに脱色した。" }
+    ],
+    "warn": ["漂白剤は強い薬剤なので、他の洗剤と混ぜると危険（有毒ガス）。", "動詞の過去形は bleached。"],
+    "etym_note": "古英語 blæcan（白くする、blāc「青白い」から）→ bleach。",
+    "etym_chain": [
+      { "node": "blæcan", "sub": "白くする", "era": "古英語" },
+      { "node": "bleach", "sub": "漂白剤・漂白する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "use bleach", "ja": "漂白剤を使う" },
+      { "en": "a bottle of bleach", "ja": "漂白剤1本" },
+      { "en": "bleach the stains", "ja": "しみを漂白する" },
+      { "en": "bleach one's hair", "ja": "髪を脱色する" },
+      { "en": "chlorine bleach", "ja": "塩素系漂白剤" },
+      { "en": "bleached white", "ja": "真っ白に漂白された" }
+    ],
+    "related": [
+      { "en": "whiten", "ja": "白くする" },
+      { "en": "disinfect", "ja": "消毒する" },
+      { "en": "detergent", "ja": "洗剤" },
+      { "en": "fade", "ja": "色あせる" }
+    ],
+    "faq": [
+      { "q": "bleach の動詞の意味は？", "a": "『漂白する・（色を抜いて）白くする』です。髪を脱色する意味でも使います。" },
+      { "q": "使うときの注意は？", "a": "強い薬剤なので、他の洗剤（特に酸性のもの）と混ぜると有毒ガスが出て危険です。" }
+    ],
+    "quiz": [
+      { "q": "bleach の意味は？", "A": "漂白剤／漂白する", "B": "染料／染める", "C": "接着剤／貼る", "D": "肥料／育てる", "correct": "A" },
+      { "q": "bleach one's hair の意味は？", "A": "髪を脱色する", "B": "髪を切る", "C": "髪を洗う", "D": "髪を編む", "correct": "A" }
+    ]
+  },
+  {
+    "english": "bleed",
+    "pron": "bliːd",
+    "kana": "ブリード",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古英語 blēdan（出血する）から",
+    "ld_level": "準1級",
+    "badges": ["中学生〜", "英検準1級", "CEFR B1", "不規則動詞"],
+    "meaning_main": "出血する／血を流す／（色が）にじむ",
+    "description": "bleed（ブリード）は「出血する、血を流す、（色・インクが）にじむ」を表す動詞。過去形は bled。使い方と例文を解説。",
+    "keywords": ["bleed 意味", "bleed 発音", "出血する 英語", "bled 過去形"],
+    "meanings": [
+      { "hinshi": "【動詞】出血する・血を流す", "note": "傷などから血が出る。過去形・過去分詞は bled" },
+      { "hinshi": "【動詞】（色・インクが）にじむ", "note": "色が隣に染み出て広がる" }
+    ],
+    "usages": [
+      { "title": "① 出血する", "desc": "傷から血が出ること。", "example_en": "My nose started to bleed.", "example_ja": "鼻血が出はじめた。" },
+      { "title": "② 色がにじむ", "desc": "洗濯やインクで色が隣に染み出ること。", "example_en": "The red dye bled into the white shirt.", "example_ja": "赤い染料が白いシャツににじんだ。" }
+    ],
+    "warn": ["活用は bleed - bled - bled（不規則）。", "名詞は blood（血）、形容詞 bloody（血だらけの）。"],
+    "etym_note": "古英語 blēdan（出血する、blōd「血」から）→ bleed。blood と同語源。",
+    "etym_chain": [
+      { "node": "blēdan", "sub": "出血する", "era": "古英語" },
+      { "node": "bleed", "sub": "出血する・にじむ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "start to bleed", "ja": "出血し始める" },
+      { "en": "bleed heavily", "ja": "大量に出血する" },
+      { "en": "bleed to death", "ja": "出血多量で死ぬ" },
+      { "en": "a bleeding nose", "ja": "鼻血" },
+      { "en": "colors bleed", "ja": "色がにじむ" },
+      { "en": "stop the bleeding", "ja": "出血を止める" }
+    ],
+    "related": [
+      { "en": "blood", "ja": "血" },
+      { "en": "bleeding", "ja": "出血" },
+      { "en": "wound", "ja": "傷" },
+      { "en": "bloody", "ja": "血だらけの" }
+    ],
+    "faq": [
+      { "q": "bleed の過去形は？", "a": "bled です（bleed - bled - bled の不規則変化）。" },
+      { "q": "色がにじむ意味もある？", "a": "はい。染料・インクなどが隣に染み出て広がることも bleed と言います。" }
+    ],
+    "quiz": [
+      { "q": "bleed の意味は？", "A": "出血する・にじむ", "B": "凍る", "C": "燃える", "D": "光る", "correct": "A" },
+      { "q": "bleed の過去形は？", "A": "bled", "B": "bleeded", "C": "blood", "D": "blew", "correct": "A" }
+    ]
+  },
+  {
+    "english": "blessing",
+    "pron": "ˈblesɪŋ",
+    "kana": "ブレッシング",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 bletsian（祝福する）から",
+    "ld_level": "準1級",
+    "badges": ["中学生〜", "英検準1級", "CEFR B1", "可算・不可算"],
+    "meaning_main": "祝福／恵み・ありがたいもの／（計画への）承認",
+    "description": "blessing（ブレッシング）は「祝福、恵み・ありがたいもの、（計画への）承認」を表す名詞。a blessing in disguise などの慣用句も解説。",
+    "keywords": ["blessing 意味", "blessing 発音", "祝福 英語", "恵み 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】祝福・神の恵み", "note": "神の加護や、食前の祈り" },
+      { "hinshi": "【名詞】ありがたいもの・幸運", "note": "恵み・幸い。a blessing（ありがたいこと）" },
+      { "hinshi": "【名詞】承認・賛同", "note": "give one's blessing（賛成・承認する）" }
+    ],
+    "usages": [
+      { "title": "① 恵み・ありがたいこと", "desc": "幸運・恩恵として『ありがたいもの』。", "example_en": "The rain was a blessing for the farmers.", "example_ja": "その雨は農家にとって恵みだった。" },
+      { "title": "② 承認・賛同", "desc": "give one's blessing で『（計画などに）賛成・承認する』。", "example_en": "Her parents gave the marriage their blessing.", "example_ja": "彼女の両親はその結婚を認めた。" }
+    ],
+    "warn": ["a blessing in disguise は『（一見不運だが）実はありがたいこと』の慣用句。", "動詞は bless（祝福する）、形容詞 blessed（祝福された・恵まれた）。"],
+    "etym_note": "古英語 bletsian（祝福する、blōd「血」を使った聖別儀式から）→ bless + -ing。",
+    "etym_chain": [
+      { "node": "bletsian", "sub": "祝福する", "era": "古英語" },
+      { "node": "blessing", "sub": "祝福・恵み", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a blessing in disguise", "ja": "不幸に見えて実はありがたいこと" },
+      { "en": "give one's blessing", "ja": "承認する・賛成する" },
+      { "en": "count one's blessings", "ja": "恵まれていることに感謝する" },
+      { "en": "a mixed blessing", "ja": "良い面も悪い面もあること" },
+      { "en": "say a blessing", "ja": "祈りを唱える" },
+      { "en": "what a blessing", "ja": "なんとありがたいこと" }
+    ],
+    "related": [
+      { "en": "bless", "ja": "祝福する" },
+      { "en": "blessed", "ja": "祝福された・恵まれた" },
+      { "en": "gift", "ja": "贈り物・恵み" },
+      { "en": "approval", "ja": "承認" }
+    ],
+    "faq": [
+      { "q": "a blessing in disguise とは？", "a": "『一見不運に見えて、実はありがたいこと・良い結果につながること』という慣用表現です。" },
+      { "q": "give one's blessing の意味は？", "a": "『（計画・結婚などに）賛成・承認を与える』という意味です。" }
+    ],
+    "quiz": [
+      { "q": "blessing の意味に含まれないものは？", "A": "呪い", "B": "祝福", "C": "恵み・ありがたいもの", "D": "承認", "correct": "A" },
+      { "q": "a blessing in disguise の意味は？", "A": "不幸に見えて実はありがたいこと", "B": "隠れた呪い", "C": "偽の祝福", "D": "秘密の贈り物", "correct": "A" }
+    ]
+  },
+  {
+    "english": "blight",
+    "pron": "blaɪt",
+    "kana": "ブライト",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "由来不詳（17世紀の農業用語）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "農業・比喩"],
+    "meaning_main": "（植物の）胴枯れ病／（社会などの）害・暗い影",
+    "description": "blight（ブライト）は「（植物の）胴枯れ病、（社会・生活を損なう）害・暗い影」を表す名詞、また「だめにする」の動詞。例文で解説。",
+    "keywords": ["blight 意味", "blight 発音", "胴枯れ病 英語", "害 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】（植物の）胴枯れ病", "note": "作物を枯らす病害。potato blight（ジャガイモ胴枯れ病）" },
+      { "hinshi": "【名詞】害・暗い影・荒廃", "note": "社会や生活をむしばむもの。urban blight（都市の荒廃）" },
+      { "hinshi": "【動詞】だめにする・そこなう", "note": "台無しにする・暗い影を落とす" }
+    ],
+    "usages": [
+      { "title": "① 作物の病気", "desc": "作物を枯らす病害。ジャガイモ飢饉の原因にもなった。", "example_en": "The potato blight destroyed the harvest.", "example_ja": "ジャガイモの胴枯れ病が収穫を全滅させた。" },
+      { "title": "② 害・台無しにする", "desc": "社会・人生をむしばむものや、動詞で『だめにする』。", "example_en": "Poverty blighted their lives.", "example_ja": "貧困が彼らの生活をむしばんだ。" }
+    ],
+    "warn": ["bright（明るい）と綴り・発音が近いが別語。混同注意（blight ↔ bright）。", "urban blight は『都市の荒廃』。"],
+    "etym_note": "17世紀に農業用語として現れた語で、確かな由来は不明。作物を枯らす『病害』の意から比喩的に広がった。",
+    "etym_chain": [
+      { "node": "blight", "sub": "胴枯れ病（由来不詳）", "era": "近代英語" },
+      { "node": "blight", "sub": "害・暗い影", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "potato blight", "ja": "ジャガイモ胴枯れ病" },
+      { "en": "urban blight", "ja": "都市の荒廃" },
+      { "en": "a blight on", "ja": "~にとっての害・暗い影" },
+      { "en": "blight someone's life", "ja": "~の人生を台無しにする" },
+      { "en": "cast a blight over", "ja": "~に暗い影を落とす" },
+      { "en": "the blight of poverty", "ja": "貧困という害悪" }
+    ],
+    "related": [
+      { "en": "disease", "ja": "病気" },
+      { "en": "scourge", "ja": "災い・惨害" },
+      { "en": "ruin", "ja": "台無しにする・破滅" },
+      { "en": "decay", "ja": "衰退・腐敗" }
+    ],
+    "faq": [
+      { "q": "blight と bright の違いは？", "a": "blight は『（植物の）胴枯れ病・害』、bright は『明るい』で別語です。綴り・意味に注意しましょう。" },
+      { "q": "urban blight とは？", "a": "建物の老朽化や治安悪化などで進む『都市の荒廃』のことです。" }
+    ],
+    "quiz": [
+      { "q": "blight の意味に含まれるのは？", "A": "植物の病害・害・暗い影", "B": "明るさ", "C": "祝福", "D": "収穫の喜び", "correct": "A" },
+      { "q": "urban blight の意味は？", "A": "都市の荒廃", "B": "都市の発展", "C": "都市の照明", "D": "都市の人口", "correct": "A" }
+    ]
+  },
+  {
+    "english": "blimp",
+    "pron": "blɪmp",
+    "kana": "ブリンプ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "20世紀初頭の造語（由来諸説）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "可算名詞"],
+    "meaning_main": "軟式飛行船（骨組みのない飛行船）",
+    "description": "blimp（ブリンプ）は「軟式飛行船」を表す名詞。骨組みを持たず、ガスの圧力で形を保つ飛行船。宣伝や空撮に使われる。例文で解説。",
+    "keywords": ["blimp 意味", "blimp 発音", "飛行船 英語", "軟式飛行船 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】軟式飛行船", "note": "内部の骨組みがなく、ガスの圧力で形を保つ飛行船。広告・空撮に使う" }
+    ],
+    "usages": [
+      { "title": "① 広告・空撮の飛行船", "desc": "スタジアム上空などに浮かぶ、宣伝や中継用の飛行船。", "example_en": "A blimp floated over the stadium.", "example_ja": "飛行船がスタジアムの上空に浮かんでいた。" },
+      { "title": "② 硬式飛行船との違い", "desc": "骨組みを持つ硬式飛行船(zeppelin/airship)と違い、blimp は骨組みがない。", "example_en": "Unlike a zeppelin, a blimp has no internal frame.", "example_ja": "ツェッペリンと違い、軟式飛行船には内部の骨組みがない。" }
+    ],
+    "warn": ["硬式飛行船は zeppelin / rigid airship。blimp は骨組みのない軟式。", "airship（飛行船）はより広い総称。"],
+    "etym_note": "20世紀初頭に生まれた語で由来には諸説ある（『B型・limp（柔らかい）』の組み合わせなど）。",
+    "etym_chain": [
+      { "node": "blimp", "sub": "軟式飛行船（造語）", "era": "20世紀英語" },
+      { "node": "blimp", "sub": "軟式飛行船", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a blimp over the stadium", "ja": "スタジアム上空の飛行船" },
+      { "en": "an advertising blimp", "ja": "広告用の飛行船" },
+      { "en": "float like a blimp", "ja": "飛行船のように浮かぶ" },
+      { "en": "a camera blimp", "ja": "空撮用の飛行船" },
+      { "en": "the Goodyear blimp", "ja": "グッドイヤーの飛行船" },
+      { "en": "a small blimp", "ja": "小型の軟式飛行船" }
+    ],
+    "related": [
+      { "en": "airship", "ja": "飛行船" },
+      { "en": "zeppelin", "ja": "ツェッペリン（硬式飛行船）" },
+      { "en": "balloon", "ja": "気球・風船" },
+      { "en": "dirigible", "ja": "飛行船（操縦できる）" }
+    ],
+    "faq": [
+      { "q": "blimp と zeppelin の違いは？", "a": "blimp は内部の骨組みを持たない『軟式飛行船』、zeppelin は骨組みを持つ『硬式飛行船』です。" },
+      { "q": "何に使われる？", "a": "広告・空撮・スポーツ中継などに使われます。" }
+    ],
+    "quiz": [
+      { "q": "blimp の意味は？", "A": "軟式飛行船", "B": "潜水艦", "C": "ヘリコプター", "D": "熱気球のみ", "correct": "A" },
+      { "q": "blimp の特徴は？", "A": "内部の骨組みがない", "B": "水中を進む", "C": "翼で飛ぶ", "D": "ロケットで飛ぶ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "blissful",
+    "pron": "ˈblɪsfl",
+    "kana": "ブリスフル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "古英語 bliss（至福）+ -ful",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "感情形容詞"],
+    "meaning_main": "至福の／この上なく幸せな",
+    "description": "blissful（ブリスフル）は「至福の、この上なく幸せな、うっとりするような」を表す形容詞。名詞 bliss（至福）の形容詞形。例文で解説。",
+    "keywords": ["blissful 意味", "blissful 発音", "至福 英語", "幸せ 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】至福の・この上なく幸せな", "note": "完全に満ち足りた、うっとりするような幸福感" }
+    ],
+    "usages": [
+      { "title": "① この上ない幸せ", "desc": "完全に満たされた幸福な状態・時間を表す。", "example_en": "They spent a blissful week by the sea.", "example_ja": "彼らは海辺で至福の一週間を過ごした。" },
+      { "title": "② blissful ignorance", "desc": "『（知らないがゆえの）幸せ・のんきさ』という定番表現。", "example_en": "She lived in blissful ignorance of the danger.", "example_ja": "彼女は危険を知らずにのんきに暮らしていた。" }
+    ],
+    "warn": ["名詞は bliss（至福・無上の喜び）。副詞 blissfully（この上なく幸せに）。", "blissful ignorance は『知らぬが仏』に近い表現。"],
+    "etym_note": "古英語 bliss（喜び・至福、blīthe「楽しい」から）+ -ful。blithe と同語源。",
+    "etym_chain": [
+      { "node": "bliss + -ful", "sub": "至福に満ちた", "era": "古英語" },
+      { "node": "blissful", "sub": "至福の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a blissful moment", "ja": "至福のひととき" },
+      { "en": "blissful ignorance", "ja": "知らぬが仏・のんきさ" },
+      { "en": "a blissful smile", "ja": "幸せそうな笑み" },
+      { "en": "blissfully happy", "ja": "この上なく幸せで" },
+      { "en": "a blissful silence", "ja": "心地よい静けさ" },
+      { "en": "pure bliss", "ja": "純粋な至福" }
+    ],
+    "related": [
+      { "en": "bliss", "ja": "至福・無上の喜び" },
+      { "en": "blissfully", "ja": "この上なく幸せに" },
+      { "en": "ecstatic", "ja": "有頂天の" },
+      { "en": "euphoric", "ja": "多幸感の" }
+    ],
+    "faq": [
+      { "q": "blissful の名詞形は？", "a": "bliss（至福・無上の喜び）です。" },
+      { "q": "blissful ignorance とは？", "a": "『知らないがゆえの幸せ・のんきさ』という表現で、日本語の『知らぬが仏』に近いです。" }
+    ],
+    "quiz": [
+      { "q": "blissful の意味は？", "A": "至福の・この上なく幸せな", "B": "みじめな", "C": "退屈な", "D": "怒った", "correct": "A" },
+      { "q": "blissful の名詞形は？", "A": "bliss", "B": "blush", "C": "bless", "D": "blast", "correct": "A" }
+    ]
+  },
+  {
+    "english": "bloated",
+    "pron": "ˈbloʊtɪd",
+    "kana": "ブロウティッド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "古ノルド語 blautr（ふやけた）から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "健康・比喩"],
+    "meaning_main": "（お腹が）張った・膨れた／（組織などが）肥大化した",
+    "description": "bloated（ブロウティッド）は「（お腹が）張った・膨れた、（組織・費用が）肥大化した」を表す形容詞。健康・比喩の両方で使う。例文で解説。",
+    "keywords": ["bloated 意味", "bloated 発音", "お腹が張る 英語", "肥大化 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】（お腹が）張った・膨れた", "note": "食べ過ぎ・ガスなどで腹部がふくれて苦しい状態" },
+      { "hinshi": "【形容詞】（組織などが）肥大化した", "note": "無駄に大きく膨れ上がった。a bloated bureaucracy（肥大化した官僚組織）" }
+    ],
+    "usages": [
+      { "title": "① お腹が張る", "desc": "食べ過ぎや消化不良でお腹がふくれて苦しい状態。", "example_en": "I feel bloated after eating too much.", "example_ja": "食べ過ぎてお腹が張っている。" },
+      { "title": "② 肥大化した", "desc": "組織・予算・ソフトなどが無駄に膨れ上がったこと。", "example_en": "The company has a bloated management structure.", "example_ja": "その会社は肥大化した管理体制を持つ。" }
+    ],
+    "warn": ["動詞は bloat（膨れさせる）、名詞 bloating（腹部膨満）。", "IT では bloatware（無駄に重い・不要機能の多いソフト）という語も。"],
+    "etym_note": "古ノルド語 blautr（ふやけた・柔らかい）→ bloat（膨れる）の過去分詞 bloated。",
+    "etym_chain": [
+      { "node": "blautr", "sub": "ふやけた", "era": "古ノルド語" },
+      { "node": "bloated", "sub": "張った・肥大した", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "feel bloated", "ja": "お腹が張った感じがする" },
+      { "en": "a bloated stomach", "ja": "膨れたお腹" },
+      { "en": "a bloated bureaucracy", "ja": "肥大化した官僚機構" },
+      { "en": "bloated budget", "ja": "膨れ上がった予算" },
+      { "en": "bloated with", "ja": "~でふくれ上がって" },
+      { "en": "a bloated corpse", "ja": "膨れた死体" }
+    ],
+    "related": [
+      { "en": "bloat", "ja": "膨れさせる・膨張" },
+      { "en": "swollen", "ja": "腫れた・膨れた" },
+      { "en": "inflated", "ja": "ふくらんだ・水増しした" },
+      { "en": "puffy", "ja": "ふくれた・むくんだ" }
+    ],
+    "faq": [
+      { "q": "bloated の2つの意味は？", "a": "『（お腹が）張った・膨れた』と、比喩で『（組織・費用などが）肥大化した』です。" },
+      { "q": "bloatware とは？", "a": "IT で『無駄に重く、不要な機能が多いソフト』を指す語です（bloated から）。" }
+    ],
+    "quiz": [
+      { "q": "bloated の意味は？", "A": "膨れた・張った・肥大化した", "B": "しぼんだ", "C": "乾いた", "D": "透明な", "correct": "A" },
+      { "q": "a bloated bureaucracy の意味は？", "A": "肥大化した官僚機構", "B": "小さな政府", "C": "効率的な組織", "D": "新しい会社", "correct": "A" }
+    ]
+  },
+  {
+    "english": "bloc",
+    "pron": "blɒk",
+    "kana": "ブロック",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 bloc（かたまり）から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "政治用語"],
+    "meaning_main": "（政治・経済の）連合・ブロック（国家群）",
+    "description": "bloc（ブロック）は「（共通の目的を持つ国・団体の）連合、ブロック」を表す名詞。政治・経済の文脈で使う。block（塊）と同音異義語。例文で解説。",
+    "keywords": ["bloc 意味", "bloc 発音", "連合 英語", "経済ブロック 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】（政治・経済の）連合・ブロック", "note": "共通の利害で結束した国家群・政党のまとまり" }
+    ],
+    "usages": [
+      { "title": "① 国家の連合", "desc": "共通の目的で結束した国のグループ。the Eastern bloc（東側諸国）など。", "example_en": "The trading bloc lowered tariffs among members.", "example_ja": "その貿易ブロックは加盟国間の関税を下げた。" },
+      { "title": "② 政治勢力のまとまり", "desc": "議会などで結束した票田・勢力にも使う。a voting bloc（票のまとまり）。", "example_en": "They formed a powerful voting bloc.", "example_ja": "彼らは強力な票のまとまりを形成した。" }
+    ],
+    "warn": ["block（塊・区画・妨げる）と同音異義語。政治・経済の『連合』は bloc（フランス語綴り）。", "the Eastern bloc（冷戦時の東側諸国）、trading bloc（貿易圏）が定番。"],
+    "etym_note": "フランス語 bloc（かたまり）から。英語 block（塊）と同語源だが、政治的『連合』はこの綴りを使う。",
+    "etym_chain": [
+      { "node": "bloc", "sub": "かたまり", "era": "フランス語" },
+      { "node": "bloc", "sub": "（政治・経済の）連合", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a trading bloc", "ja": "貿易ブロック・貿易圏" },
+      { "en": "the Eastern bloc", "ja": "東側諸国" },
+      { "en": "a voting bloc", "ja": "票のまとまり" },
+      { "en": "a power bloc", "ja": "勢力連合" },
+      { "en": "form a bloc", "ja": "連合を組む" },
+      { "en": "an economic bloc", "ja": "経済ブロック" }
+    ],
+    "related": [
+      { "en": "block", "ja": "塊・区画（同音異義語）" },
+      { "en": "alliance", "ja": "同盟" },
+      { "en": "coalition", "ja": "連立・連合" },
+      { "en": "union", "ja": "連合・結合" }
+    ],
+    "faq": [
+      { "q": "bloc と block の違いは？", "a": "同じ発音ですが、bloc は政治・経済の『連合・国家群』、block は『塊・区画・妨げる』です。綴りに注意しましょう。" },
+      { "q": "the Eastern bloc とは？", "a": "冷戦期の、ソ連を中心とする『東側諸国』を指します。" }
+    ],
+    "quiz": [
+      { "q": "bloc の意味は？", "A": "（政治・経済の）連合・ブロック", "B": "積み木", "C": "妨害", "D": "区画", "correct": "A" },
+      { "q": "a trading bloc の意味は？", "A": "貿易ブロック・貿易圏", "B": "交通渋滞", "C": "建築ブロック", "D": "障害物", "correct": "A" }
+    ]
+  },
+  {
+    "english": "blockade",
+    "pron": "blɒˈkeɪd",
+    "kana": "ブロケイド",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "block（ふさぐ）+ -ade",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "軍事・政治用語"],
+    "meaning_main": "封鎖／（港・地域の）封鎖・遮断",
+    "description": "blockade（ブロケイド）は「（港・都市などの）封鎖」を表す名詞、また「封鎖する」の動詞。物資や人の出入りを軍事的に遮断すること。例文で解説。",
+    "keywords": ["blockade 意味", "blockade 発音", "封鎖 英語", "海上封鎖 英語"],
+    "meanings": [
+      { "hinshi": "【名詞・動詞】封鎖（する）", "note": "港・都市・地域への物資や人の出入りを軍事的に遮断すること" }
+    ],
+    "usages": [
+      { "title": "① 海上・港の封鎖", "desc": "敵の港などを艦船で囲み、物資の出入りを止めること。", "example_en": "The navy imposed a blockade on the port.", "example_ja": "海軍はその港を封鎖した。" },
+      { "title": "② 動詞として", "desc": "『封鎖する』の動詞にも。blockade the harbor。", "example_en": "Ships blockaded the harbor for weeks.", "example_ja": "艦船が何週間もその港を封鎖した。" }
+    ],
+    "warn": ["block（ふさぐ）から。個々の障害物は blockage（詰まり・障害）。", "海上封鎖は naval blockade。impose/lift a blockade（封鎖する/解く）。"],
+    "etym_note": "block（ふさぐ・妨げる）+ -ade（行為）。港・都市を『ふさぐ』行為。",
+    "etym_chain": [
+      { "node": "block + -ade", "sub": "ふさぐ行為", "era": "近代英語" },
+      { "node": "blockade", "sub": "封鎖", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "impose a blockade", "ja": "封鎖する" },
+      { "en": "lift the blockade", "ja": "封鎖を解く" },
+      { "en": "a naval blockade", "ja": "海上封鎖" },
+      { "en": "break the blockade", "ja": "封鎖を突破する" },
+      { "en": "an economic blockade", "ja": "経済封鎖" },
+      { "en": "blockade the port", "ja": "港を封鎖する" }
+    ],
+    "related": [
+      { "en": "block", "ja": "ふさぐ・妨げる" },
+      { "en": "blockage", "ja": "詰まり・障害" },
+      { "en": "siege", "ja": "包囲（攻撃）" },
+      { "en": "embargo", "ja": "禁輸措置" }
+    ],
+    "faq": [
+      { "q": "blockade と siege の違いは？", "a": "blockade は出入りを『遮断する封鎖』、siege は都市などを取り囲んで攻める『包囲（攻撃）』です。" },
+      { "q": "embargo との違いは？", "a": "embargo は貿易を法的に止める『禁輸措置』、blockade は物理的に出入りを止める『封鎖』です。" }
+    ],
+    "quiz": [
+      { "q": "blockade の意味は？", "A": "（港・地域の）封鎖", "B": "解放", "C": "建設", "D": "祝賀", "correct": "A" },
+      { "q": "lift the blockade の意味は？", "A": "封鎖を解く", "B": "封鎖を強める", "C": "封鎖を始める", "D": "封鎖を無視する", "correct": "A" }
+    ]
+  },
+  {
+    "english": "blond",
+    "pron": "blɒnd",
+    "kana": "ブロンド",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "フランス語 blond（金髪の）から",
+    "ld_level": "準1級",
+    "badges": ["中学生〜", "英検準1級", "CEFR B1", "綴り2種"],
+    "meaning_main": "金髪の／ブロンドの",
+    "description": "blond（ブロンド）は「金髪の、ブロンドの」を表す形容詞・名詞。女性には blonde と綴ることも多い。使い方と例文を解説。",
+    "keywords": ["blond 意味", "blond 発音", "金髪 英語", "blonde 違い"],
+    "meanings": [
+      { "hinshi": "【形容詞】金髪の・ブロンドの", "note": "髪の色が明るい黄色〜淡い茶色であること" },
+      { "hinshi": "【名詞】金髪の人", "note": "金髪の人。女性は a blonde とも" }
+    ],
+    "usages": [
+      { "title": "① 金髪の", "desc": "髪が明るい金色であることを表す。", "example_en": "She has long blond hair.", "example_ja": "彼女は長い金髪をしている。" },
+      { "title": "② blond と blonde", "desc": "フランス語式に、男性・一般は blond、女性は blonde と綴り分けることがある。", "example_en": "He is blond and his sister is a blonde.", "example_ja": "彼は金髪で、妹も金髪だ。" }
+    ],
+    "warn": ["綴り: 一般・男性 blond、女性 blonde（フランス語の性の名残）。近年は blonde を広く使うことも。", "髪以外の明るい色（木材など）にも blond/blonde を使うことがある。"],
+    "etym_note": "フランス語 blond（金髪の）から。フランス語では男性形 blond / 女性形 blonde と区別する。",
+    "etym_chain": [
+      { "node": "blond", "sub": "金髪の", "era": "フランス語" },
+      { "node": "blond", "sub": "金髪の・ブロンド", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "blond hair", "ja": "金髪" },
+      { "en": "a blond boy", "ja": "金髪の少年" },
+      { "en": "dyed blond", "ja": "金髪に染めた" },
+      { "en": "naturally blond", "ja": "生まれつき金髪の" },
+      { "en": "a blonde woman", "ja": "金髪の女性" },
+      { "en": "light blond", "ja": "明るい金髪" }
+    ],
+    "related": [
+      { "en": "blonde", "ja": "金髪の（女性）" },
+      { "en": "brunette", "ja": "褐色の髪の（女性）" },
+      { "en": "fair", "ja": "（髪・肌が）色白の・明るい" },
+      { "en": "hair", "ja": "髪" }
+    ],
+    "faq": [
+      { "q": "blond と blonde の違いは？", "a": "フランス語の性の名残で、一般・男性には blond、女性には blonde を使うことがあります。近年は blonde を広く使うことも増えています。" },
+      { "q": "反対（褐色の髪）は？", "a": "brunette（特に女性の褐色の髪）です。" }
+    ],
+    "quiz": [
+      { "q": "blond の意味は？", "A": "金髪の・ブロンドの", "B": "黒髪の", "C": "白髪の", "D": "赤毛の", "correct": "A" },
+      { "q": "女性に使うことの多い綴りは？", "A": "blonde", "B": "blondy", "C": "blonda", "D": "blonned", "correct": "A" }
+    ]
+  }
+]

@@ -1,0 +1,969 @@
+[
+  {
+    "english": "anarchism",
+    "pron": "ˈænərkɪzəm",
+    "kana": "アナキズム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 anarchos（支配者のいない）から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "政治・思想用語"],
+    "meaning_main": "無政府主義／アナキズム",
+    "description": "anarchism（アナキズム）は「無政府主義」を表す名詞。国家や権力による支配を否定する政治思想。例文と関連語で解説。",
+    "keywords": ["anarchism 意味", "anarchism 発音", "無政府主義 英語", "アナキズム"],
+    "meanings": [
+      { "hinshi": "【名詞】無政府主義・アナキズム", "note": "政府や強制的な権力を否定し、自由な自治を目指す思想" }
+    ],
+    "usages": [
+      { "title": "① 政治思想として", "desc": "国家や階級的な支配を退け、人々の自発的な協力による社会を理想とする。", "example_en": "Anarchism rejects all forms of coercive authority.", "example_ja": "アナキズムはあらゆる強制的な権力を否定する。" },
+      { "title": "② 混乱（anarchy）との違い", "desc": "anarchism は思想、anarchy は『無秩序・混乱状態』という結果・状態を指す。", "example_en": "Anarchism is a philosophy, not just chaos.", "example_ja": "アナキズムは単なる混乱ではなく、一つの思想だ。" }
+    ],
+    "warn": ["anarchy（無秩序・無政府状態）は状態、anarchism は主義・思想。", "支持者は anarchist（無政府主義者）。"],
+    "etym_note": "ギリシャ語 an-（無）+ arkhos（支配者）→ anarchos（支配者のいない）→ anarchy + -ism。monarch と同じ arkhos 系。",
+    "etym_chain": [
+      { "node": "anarchos", "sub": "支配者のいない", "era": "ギリシャ語" },
+      { "node": "anarchism", "sub": "無政府主義", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "believe in anarchism", "ja": "無政府主義を信奉する" },
+      { "en": "political anarchism", "ja": "政治的アナキズム" },
+      { "en": "the philosophy of anarchism", "ja": "アナキズムの思想" },
+      { "en": "anarchism and socialism", "ja": "アナキズムと社会主義" },
+      { "en": "reject anarchism", "ja": "無政府主義を退ける" },
+      { "en": "the roots of anarchism", "ja": "アナキズムの源流" }
+    ],
+    "related": [
+      { "en": "anarchy", "ja": "無政府状態・無秩序" },
+      { "en": "anarchist", "ja": "無政府主義者" },
+      { "en": "socialism", "ja": "社会主義" },
+      { "en": "libertarian", "ja": "自由至上主義の" }
+    ],
+    "faq": [
+      { "q": "anarchism と anarchy の違いは？", "a": "anarchism は『無政府主義』という思想、anarchy は『無秩序・無政府状態』という状態を指します。" },
+      { "q": "支持者は？", "a": "anarchist（無政府主義者）と呼びます。" }
+    ],
+    "quiz": [
+      { "q": "anarchism の意味は？", "A": "無政府主義", "B": "君主制", "C": "資本主義", "D": "民主主義", "correct": "A" },
+      { "q": "anarchism を信じる人は？", "A": "anarchist", "B": "activist", "C": "artist", "D": "atheist", "correct": "A" }
+    ]
+  },
+  {
+    "english": "anchorage",
+    "pron": "ˈæŋkərɪdʒ",
+    "kana": "アンカリッジ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "英語 anchor（いかり）+ -age",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "航海・工学用語"],
+    "meaning_main": "停泊地／（ケーブルなどの）固定・支点",
+    "description": "anchorage（アンカリッジ）は「船の停泊地、（ケーブル・構造物の）固定・支点」を表す名詞。港湾・橋梁工学で使う。例文で解説。",
+    "keywords": ["anchorage 意味", "anchorage 発音", "停泊地 英語", "固定 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】停泊地・投錨地", "note": "船が安全にいかりを下ろせる場所" },
+      { "hinshi": "【名詞】（ケーブル等の）固定・支点", "note": "つり橋のケーブルを固定する部分など" }
+    ],
+    "usages": [
+      { "title": "① 船の停泊地", "desc": "港の中や近くで、船がいかりを下ろして停泊できる場所。", "example_en": "The ship found a safe anchorage in the bay.", "example_ja": "その船は湾内に安全な停泊地を見つけた。" },
+      { "title": "② 構造物の固定部", "desc": "つり橋のケーブルを地面に固定する部分など、支えとなる固定点。", "example_en": "The bridge's cables are held by huge anchorages.", "example_ja": "その橋のケーブルは巨大な固定部（アンカレッジ）で支えられている。" }
+    ],
+    "warn": ["米アラスカ州の都市名 Anchorage（アンカレッジ）と同綴り。一般名詞は小文字。", "動詞・名詞の anchor（いかり／固定する）から派生。"],
+    "etym_note": "anchor（いかり、ギリシャ語 ankura 由来）+ -age（場所・行為）。",
+    "etym_chain": [
+      { "node": "anchor + -age", "sub": "いかりを下ろす場所", "era": "近代英語" },
+      { "node": "anchorage", "sub": "停泊地・固定部", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a safe anchorage", "ja": "安全な停泊地" },
+      { "en": "sheltered anchorage", "ja": "風波を避けられる停泊地" },
+      { "en": "find an anchorage", "ja": "停泊地を見つける" },
+      { "en": "cable anchorage", "ja": "ケーブルの固定部" },
+      { "en": "a natural anchorage", "ja": "天然の停泊地" },
+      { "en": "provide anchorage", "ja": "固定・支えを与える" }
+    ],
+    "related": [
+      { "en": "anchor", "ja": "いかり・固定する" },
+      { "en": "harbor", "ja": "港" },
+      { "en": "mooring", "ja": "係留・係留設備" },
+      { "en": "berth", "ja": "停泊位置" }
+    ],
+    "faq": [
+      { "q": "anchorage と harbor の違いは？", "a": "harbor は港（設備を備えた場所）、anchorage は船がいかりを下ろして停泊できる場所（水域）を指します。" },
+      { "q": "工学での意味は？", "a": "つり橋のケーブルや構造物を固定する『支点・固定部』の意味でも使います。" }
+    ],
+    "quiz": [
+      { "q": "anchorage の意味は？", "A": "停泊地・固定部", "B": "灯台", "C": "船長", "D": "航路", "correct": "A" },
+      { "q": "anchorage の元になった語は？", "A": "anchor（いかり）", "B": "anger（怒り）", "C": "angle（角）", "D": "ankle（足首）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "anchovy",
+    "pron": "ˈæntʃoʊvi",
+    "kana": "アンチョビ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "スペイン語・ポルトガル語 anchova から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "可算名詞・食べ物"],
+    "meaning_main": "アンチョビ（カタクチイワシ）",
+    "description": "anchovy（アンチョビ）は「カタクチイワシ、（塩漬けの）アンチョビ」を表す名詞。ピザやパスタ、シーザーサラダに使う小魚。例文で解説。",
+    "keywords": ["anchovy 意味", "anchovy 発音", "アンチョビ 英語", "カタクチイワシ 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】アンチョビ・カタクチイワシ", "note": "小型の魚。塩漬け・油漬けにして料理に使う。複数形 anchovies" }
+    ],
+    "usages": [
+      { "title": "① 料理の食材", "desc": "塩漬けにした強い旨味・塩気があり、ピザ・パスタ・ドレッシングに使う。", "example_en": "This pizza is topped with anchovies.", "example_ja": "このピザにはアンチョビがのっている。" },
+      { "title": "② 好き嫌いの分かれる味", "desc": "独特の塩辛さで好みが分かれる食材としてよく話題になる。", "example_en": "Some people love anchovies, others hate them.", "example_ja": "アンチョビは大好きな人もいれば嫌いな人もいる。" }
+    ],
+    "warn": ["複数形は anchovies（-y → -ies）。", "sardine（イワシ）は近縁だが別の魚。アンチョビはより小型で塩気が強い。"],
+    "etym_note": "スペイン語・ポルトガル語 anchova から。地中海料理で広く使われてきた。",
+    "etym_chain": [
+      { "node": "anchova", "sub": "カタクチイワシ", "era": "スペイン語" },
+      { "node": "anchovy", "sub": "アンチョビ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "anchovy fillets", "ja": "アンチョビのフィレ" },
+      { "en": "salted anchovies", "ja": "塩漬けアンチョビ" },
+      { "en": "anchovy paste", "ja": "アンチョビペースト" },
+      { "en": "a tin of anchovies", "ja": "アンチョビの缶詰" },
+      { "en": "topped with anchovies", "ja": "アンチョビをのせて" },
+      { "en": "anchovy on pizza", "ja": "ピザのアンチョビ" }
+    ],
+    "related": [
+      { "en": "sardine", "ja": "イワシ" },
+      { "en": "fish", "ja": "魚" },
+      { "en": "seafood", "ja": "海産物" },
+      { "en": "topping", "ja": "トッピング" }
+    ],
+    "faq": [
+      { "q": "anchovy と sardine の違いは？", "a": "どちらも小型の青魚ですが、anchovy（カタクチイワシ）はより小さく塩気が強く、sardine（イワシ）はやや大きめです。" },
+      { "q": "複数形は？", "a": "anchovies です（-y を -ies に）。" }
+    ],
+    "quiz": [
+      { "q": "anchovy の意味は？", "A": "アンチョビ（カタクチイワシ）", "B": "エビ", "C": "カニ", "D": "貝", "correct": "A" },
+      { "q": "anchovy の複数形は？", "A": "anchovies", "B": "anchovys", "C": "anchovi", "D": "anchoves", "correct": "A" }
+    ]
+  },
+  {
+    "english": "androgynous",
+    "pron": "ænˈdrɒdʒɪnəs",
+    "kana": "アンドロジナス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ギリシャ語 andro（男）+ gyne（女）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "フォーマル"],
+    "meaning_main": "両性的な／男女の区別がつきにくい",
+    "description": "androgynous（アンドロジナス）は「両性的な、男女の特徴を併せ持つ、性別の区別がつきにくい」を表す形容詞。ファッション・外見の描写で使う。例文で解説。",
+    "keywords": ["androgynous 意味", "androgynous 発音", "両性的 英語", "中性的 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】両性的な・中性的な", "note": "男性・女性どちらとも言えない外見や特徴を持つ" }
+    ],
+    "usages": [
+      { "title": "① 外見・スタイル", "desc": "男女の区別がつきにくい中性的な見た目やファッションを表す。", "example_en": "The model has an androgynous look.", "example_ja": "そのモデルは中性的な外見をしている。" },
+      { "title": "② 両性の特徴", "desc": "男女両方の特徴を併せ持つことを表す。", "example_en": "The character is deliberately androgynous.", "example_ja": "その登場人物は意図的に両性的に描かれている。" }
+    ],
+    "warn": ["名詞は androgyny（両性具有・中性性）。", "接頭 andro-（男）は android, androgen などにも。gyne-（女）は gynecology にも。"],
+    "etym_note": "ギリシャ語 aner/andro-（男）+ gyne（女）→『男と女の両方』。android, gynecology と同じ語根。",
+    "etym_chain": [
+      { "node": "andro + gyne", "sub": "男＋女", "era": "ギリシャ語" },
+      { "node": "androgynous", "sub": "両性的な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an androgynous look", "ja": "中性的な外見" },
+      { "en": "androgynous fashion", "ja": "ジェンダーレスなファッション" },
+      { "en": "androgynous style", "ja": "両性的なスタイル" },
+      { "en": "an androgynous figure", "ja": "中性的な人物・体型" },
+      { "en": "appear androgynous", "ja": "中性的に見える" },
+      { "en": "androgynous features", "ja": "両性的な顔立ち" }
+    ],
+    "related": [
+      { "en": "androgyny", "ja": "両性具有・中性性" },
+      { "en": "unisex", "ja": "男女共用の" },
+      { "en": "gender-neutral", "ja": "性別にとらわれない" },
+      { "en": "feminine", "ja": "女性的な" }
+    ],
+    "faq": [
+      { "q": "androgynous の名詞形は？", "a": "androgyny（両性具有・中性性）です。" },
+      { "q": "unisex との違いは？", "a": "unisex は主に『男女共用の（服・施設）』、androgynous は『外見や特徴が男女どちらとも言えない』という意味です。" }
+    ],
+    "quiz": [
+      { "q": "androgynous の意味は？", "A": "両性的な・中性的な", "B": "男性的な", "C": "子どもっぽい", "D": "年老いた", "correct": "A" },
+      { "q": "androgynous の語根 andro- の意味は？", "A": "男", "B": "水", "C": "火", "D": "光", "correct": "A" }
+    ]
+  },
+  {
+    "english": "anesthesia",
+    "pron": "ˌænəsˈθiːʒə",
+    "kana": "アネスシージア",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 an-（無）+ aisthesis（感覚）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "医療用語・英米綴り"],
+    "meaning_main": "麻酔（痛みを感じなくする状態・処置）",
+    "description": "anesthesia（アネスシージア）は「麻酔」を表す名詞。手術で痛みを感じなくする状態や処置。英国綴りは anaesthesia。例文で解説。",
+    "keywords": ["anesthesia 意味", "anesthesia 発音", "麻酔 英語", "全身麻酔 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】麻酔", "note": "薬で痛みや感覚をなくすこと。全身麻酔・局所麻酔など" }
+    ],
+    "usages": [
+      { "title": "① 手術の麻酔", "desc": "手術中に痛みを感じないようにする処置・状態。", "example_en": "The operation was done under general anesthesia.", "example_ja": "その手術は全身麻酔のもとで行われた。" },
+      { "title": "② 種類", "desc": "general anesthesia（全身麻酔）、local anesthesia（局所麻酔）がある。", "example_en": "The dentist used local anesthesia.", "example_ja": "歯科医は局所麻酔を使った。" }
+    ],
+    "warn": ["英国綴りは anaesthesia。米国は anesthesia。", "麻酔薬・麻酔剤は anesthetic、麻酔科医は anesthesiologist / anaesthetist。"],
+    "etym_note": "ギリシャ語 an-（無）+ aisthesis（感覚）→『感覚がないこと』。aesthetic（美的な）と同じ aisthesis 系。",
+    "etym_chain": [
+      { "node": "an + aisthesis", "sub": "感覚が無い", "era": "ギリシャ語" },
+      { "node": "anesthesia", "sub": "麻酔", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "general anesthesia", "ja": "全身麻酔" },
+      { "en": "local anesthesia", "ja": "局所麻酔" },
+      { "en": "under anesthesia", "ja": "麻酔下で" },
+      { "en": "administer anesthesia", "ja": "麻酔をかける" },
+      { "en": "recover from anesthesia", "ja": "麻酔から覚める" },
+      { "en": "spinal anesthesia", "ja": "脊椎麻酔" }
+    ],
+    "related": [
+      { "en": "anesthetic", "ja": "麻酔薬・麻酔の" },
+      { "en": "anaesthesia", "ja": "麻酔（英国綴り）" },
+      { "en": "sedation", "ja": "鎮静" },
+      { "en": "surgery", "ja": "手術" }
+    ],
+    "faq": [
+      { "q": "anesthesia と anesthetic の違いは？", "a": "anesthesia は『麻酔（の状態・処置）』、anesthetic は『麻酔薬・麻酔剤』です。" },
+      { "q": "英国綴りは？", "a": "anaesthesia です。米国綴りが anesthesia です。" }
+    ],
+    "quiz": [
+      { "q": "anesthesia の意味は？", "A": "麻酔", "B": "消毒", "C": "縫合", "D": "輸血", "correct": "A" },
+      { "q": "全身麻酔は？", "A": "general anesthesia", "B": "local anesthesia", "C": "no anesthesia", "D": "spinal only", "correct": "A" }
+    ]
+  },
+  {
+    "english": "anesthetic",
+    "pron": "ˌænəsˈθetɪk",
+    "kana": "アネセティック",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 an-（無）+ aisthesis（感覚）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "医療用語・英米綴り"],
+    "meaning_main": "麻酔薬／麻酔の（感覚をなくす）",
+    "description": "anesthetic（アネセティック）は「麻酔薬・麻酔剤」を表す名詞、また「麻酔の・感覚をなくす」の形容詞。英国綴りは anaesthetic。例文で解説。",
+    "keywords": ["anesthetic 意味", "anesthetic 発音", "麻酔薬 英語", "局所麻酔 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】麻酔薬・麻酔剤", "note": "痛みや感覚をなくす薬。local anesthetic（局所麻酔薬）" },
+      { "hinshi": "【形容詞】麻酔の・感覚をなくす", "note": "anesthetic gas（麻酔ガス）" }
+    ],
+    "usages": [
+      { "title": "① 麻酔薬（名詞）", "desc": "手術・治療で痛みを感じなくするために使う薬。", "example_en": "The dentist gave me a local anesthetic.", "example_ja": "歯科医は私に局所麻酔薬を打った。" },
+      { "title": "② 麻酔の（形容詞）", "desc": "『麻酔作用のある』の意味で名詞を修飾する。", "example_en": "The cream has an anesthetic effect.", "example_ja": "そのクリームには麻酔（鎮痛）作用がある。" }
+    ],
+    "warn": ["英国綴りは anaesthetic。米国は anesthetic。", "anesthesia（麻酔の状態）と区別。anesthetic は『薬・剤』。"],
+    "etym_note": "ギリシャ語 an-（無）+ aisthesis（感覚）→ anaesthetic。anesthesia と同語源。",
+    "etym_chain": [
+      { "node": "an + aisthesis", "sub": "感覚が無い", "era": "ギリシャ語" },
+      { "node": "anesthetic", "sub": "麻酔薬", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "local anesthetic", "ja": "局所麻酔薬" },
+      { "en": "general anesthetic", "ja": "全身麻酔薬" },
+      { "en": "under anesthetic", "ja": "麻酔をかけられて" },
+      { "en": "an anesthetic effect", "ja": "麻酔（鎮痛）作用" },
+      { "en": "administer an anesthetic", "ja": "麻酔薬を投与する" },
+      { "en": "wear off (of anesthetic)", "ja": "麻酔が切れる" }
+    ],
+    "related": [
+      { "en": "anesthesia", "ja": "麻酔（の状態・処置）" },
+      { "en": "anaesthetic", "ja": "麻酔薬（英国綴り）" },
+      { "en": "painkiller", "ja": "鎮痛剤" },
+      { "en": "sedative", "ja": "鎮静剤" }
+    ],
+    "faq": [
+      { "q": "anesthetic と anesthesia の違いは？", "a": "anesthetic は『麻酔薬・麻酔剤』、anesthesia は『麻酔という状態・処置』です。" },
+      { "q": "英国綴りは？", "a": "anaesthetic です。米国綴りが anesthetic です。" }
+    ],
+    "quiz": [
+      { "q": "anesthetic（名詞）の意味は？", "A": "麻酔薬", "B": "消毒液", "C": "ビタミン剤", "D": "抗生物質", "correct": "A" },
+      { "q": "anesthetic の英国綴りは？", "A": "anaesthetic", "B": "anesthettic", "C": "anasthetic", "D": "anethetic", "correct": "A" }
+    ]
+  },
+  {
+    "english": "angelic",
+    "pron": "ænˈdʒelɪk",
+    "kana": "アンジェリック",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ギリシャ語 angelos（使者）から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "名詞angelの形容詞形"],
+    "meaning_main": "天使のような／清らかで美しい・純真な",
+    "description": "angelic（アンジェリック）は「天使のような、清らかで美しい、純真な」を表す形容詞。名詞angelの形容詞形。例文で解説。",
+    "keywords": ["angelic 意味", "angelic 発音", "天使のような 英語", "angel 形容詞"],
+    "meanings": [
+      { "hinshi": "【形容詞】天使のような・清らかな", "note": "美しく純真で、優しく穏やかな様子" }
+    ],
+    "usages": [
+      { "title": "① 純真で美しい", "desc": "天使を思わせる愛らしさ・清らかさ・優しさを表す。", "example_en": "The baby had an angelic smile.", "example_ja": "その赤ちゃんは天使のようなほほ笑みを浮かべた。" },
+      { "title": "② 声・見た目に", "desc": "angelic voice（天使のような美しい声）などにも使う。", "example_en": "The choir sang with angelic voices.", "example_ja": "合唱団は天使のような声で歌った。" }
+    ],
+    "warn": ["名詞は angel（天使）。発音のアクセント位置が変わる（angel→angelic）。", "皮肉で『（一見）天使のよう＝本当は違う』と使うこともある。"],
+    "etym_note": "ギリシャ語 angelos（使者・天使）→ angel + -ic。evangelist（伝道者）とも同語源。",
+    "etym_chain": [
+      { "node": "angelos", "sub": "使者・天使", "era": "ギリシャ語" },
+      { "node": "angelic", "sub": "天使のような", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an angelic smile", "ja": "天使のようなほほ笑み" },
+      { "en": "an angelic voice", "ja": "天使のような声" },
+      { "en": "angelic face", "ja": "天使のような顔" },
+      { "en": "look angelic", "ja": "天使のように見える" },
+      { "en": "angelic patience", "ja": "天使のような忍耐" },
+      { "en": "an angelic child", "ja": "天使のような子ども" }
+    ],
+    "related": [
+      { "en": "angel", "ja": "天使" },
+      { "en": "heavenly", "ja": "天国のような" },
+      { "en": "innocent", "ja": "純真な" },
+      { "en": "divine", "ja": "神聖な" }
+    ],
+    "faq": [
+      { "q": "angelic の名詞形は？", "a": "angel（天使）です。" },
+      { "q": "皮肉で使える？", "a": "はい。『一見天使のようだが実は…』というように、皮肉を込めて使うこともあります。" }
+    ],
+    "quiz": [
+      { "q": "angelic の意味は？", "A": "天使のような・清らかな", "B": "悪魔のような", "C": "退屈な", "D": "乱暴な", "correct": "A" },
+      { "q": "angelic の名詞形は？", "A": "angel", "B": "anger", "C": "angle", "D": "ankle", "correct": "A" }
+    ]
+  },
+  {
+    "english": "anise",
+    "pron": "ˈænɪs",
+    "kana": "アニス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 anison（アニス）から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "食べ物・香辛料"],
+    "meaning_main": "アニス（甘い香りの香草・香辛料）",
+    "description": "anise（アニス）は「アニス」を表す名詞。甘く爽やかな香りの香草で、種（アニシード）は菓子やリキュールの香りづけに使う。例文で解説。",
+    "keywords": ["anise 意味", "anise 発音", "アニス 英語", "香辛料 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】アニス", "note": "セリ科の香草。甘く爽やかな独特の香り。種は anise seed / aniseed" }
+    ],
+    "usages": [
+      { "title": "① 香りづけの香草", "desc": "菓子・パン・リキュール（ウーゾ、ペルノーなど）の風味づけに使う。", "example_en": "The cookies are flavored with anise.", "example_ja": "そのクッキーはアニスで風味づけされている。" },
+      { "title": "② スターアニスとの違い", "desc": "似た香りの star anise（八角）は別の植物。中華料理で使う。", "example_en": "Star anise is different from ordinary anise.", "example_ja": "八角（スターアニス）は普通のアニスとは別物だ。" }
+    ],
+    "warn": ["star anise（八角）は見た目も植物も別種だが香りが似る。", "種は aniseed（アニシード）と呼ぶ。発音は「アニス」。"],
+    "etym_note": "ギリシャ語 anison → ラテン語 anisum → 古フランス語 anis → anise。",
+    "etym_chain": [
+      { "node": "anison", "sub": "アニス", "era": "ギリシャ語" },
+      { "node": "anise", "sub": "アニス", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "anise seed", "ja": "アニスの種" },
+      { "en": "aniseed", "ja": "アニシード" },
+      { "en": "flavored with anise", "ja": "アニスで風味づけした" },
+      { "en": "star anise", "ja": "八角（スターアニス）" },
+      { "en": "the smell of anise", "ja": "アニスの香り" },
+      { "en": "anise-flavored liqueur", "ja": "アニス風味のリキュール" }
+    ],
+    "related": [
+      { "en": "fennel", "ja": "フェンネル・ウイキョウ" },
+      { "en": "licorice", "ja": "甘草・リコリス" },
+      { "en": "spice", "ja": "香辛料" },
+      { "en": "herb", "ja": "ハーブ・香草" }
+    ],
+    "faq": [
+      { "q": "anise と star anise の違いは？", "a": "香りは似ていますが別の植物です。anise はセリ科、star anise（八角）はマツブサ科で、中華料理によく使われます。" },
+      { "q": "どんな味・香り？", "a": "甘く爽やかで、リコリス（甘草）に似た独特の香りです。" }
+    ],
+    "quiz": [
+      { "q": "anise の意味は？", "A": "甘い香りの香草・香辛料", "B": "赤い果物", "C": "海の魚", "D": "木の名前だけ", "correct": "A" },
+      { "q": "anise に香りが似た中華料理の香辛料は？", "A": "star anise（八角）", "B": "唐辛子", "C": "こしょう", "D": "塩", "correct": "A" }
+    ]
+  },
+  {
+    "english": "annular",
+    "pron": "ˈænjələr",
+    "kana": "アニュラー",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 anulus（指輪）から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "天文・科学用語"],
+    "meaning_main": "環状の／輪の形の",
+    "description": "annular（アニュラー）は「環状の、輪の形の」を表す形容詞。annular eclipse（金環日食）が代表的な用法。例文で解説。",
+    "keywords": ["annular 意味", "annular 発音", "環状の 英語", "金環日食 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】環状の・輪の形の", "note": "リング状の。中心が空いた輪の形" }
+    ],
+    "usages": [
+      { "title": "① 金環日食", "desc": "annular eclipse は、月の周りに太陽が輪のように残る『金環日食』。", "example_en": "We watched an annular eclipse of the sun.", "example_ja": "私たちは金環日食を観察した。" },
+      { "title": "② 一般に輪の形", "desc": "リング状の構造・領域を表す科学・工学用語。", "example_en": "The device has an annular ring of sensors.", "example_ja": "その装置には環状に並んだセンサーがある。" }
+    ],
+    "warn": ["annual（年一回の・毎年の）と綴りが非常に似るが別語。混同注意。", "名詞 annulus は『環・輪』。"],
+    "etym_note": "ラテン語 anulus（指輪、anus「輪」の縮小形）→ annular。annulus と同語源。",
+    "etym_chain": [
+      { "node": "anulus", "sub": "指輪・輪", "era": "ラテン語" },
+      { "node": "annular", "sub": "環状の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "annular eclipse", "ja": "金環日食" },
+      { "en": "annular ring", "ja": "環状の輪" },
+      { "en": "annular shape", "ja": "環状の形" },
+      { "en": "annular space", "ja": "環状の空間" },
+      { "en": "annular structure", "ja": "環状構造" },
+      { "en": "annular region", "ja": "環状の領域" }
+    ],
+    "related": [
+      { "en": "annulus", "ja": "環・輪" },
+      { "en": "ring", "ja": "輪・リング" },
+      { "en": "circular", "ja": "円形の" },
+      { "en": "toroidal", "ja": "ドーナツ状の" }
+    ],
+    "faq": [
+      { "q": "annular と annual の違いは？", "a": "annular は『環状の』、annual は『毎年の・年一回の』です。綴りが似ているので注意しましょう。" },
+      { "q": "annular eclipse とは？", "a": "月が太陽を完全に隠しきれず、周りに太陽が輪のように残って見える『金環日食』のことです。" }
+    ],
+    "quiz": [
+      { "q": "annular の意味は？", "A": "環状の・輪の形の", "B": "毎年の", "C": "四角い", "D": "巨大な", "correct": "A" },
+      { "q": "annular eclipse の意味は？", "A": "金環日食", "B": "皆既日食", "C": "月食", "D": "流星群", "correct": "A" }
+    ]
+  },
+  {
+    "english": "annulment",
+    "pron": "əˈnʌlmənt",
+    "kana": "アナルメント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 annullare（無にする）から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "法律用語"],
+    "meaning_main": "（婚姻・契約の）無効化・取り消し",
+    "description": "annulment（アナルメント）は「（結婚・契約などの）無効化・取り消し」を表す名詞。特に『そもそも無効だった』とする婚姻無効を指す。例文で解説。",
+    "keywords": ["annulment 意味", "annulment 発音", "婚姻無効 英語", "取り消し 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】無効化・取り消し", "note": "特に結婚を『最初から成立していなかった』ものとする法的手続き" }
+    ],
+    "usages": [
+      { "title": "① 婚姻の無効", "desc": "離婚(divorce)が『結婚を終わらせる』のに対し、annulment は『そもそも無効だった』とする。", "example_en": "She sought an annulment of the marriage.", "example_ja": "彼女はその結婚の無効を求めた。" },
+      { "title": "② 契約・決定の取り消し", "desc": "契約や選挙結果などを無効にすることにも使う。", "example_en": "The court ordered the annulment of the contract.", "example_ja": "裁判所はその契約の無効を命じた。" }
+    ],
+    "warn": ["divorce（離婚）は成立した結婚の解消、annulment は『初めから無効』とする点が違う。", "動詞は annul（無効にする）。"],
+    "etym_note": "ラテン語 ad-（~へ）+ nullus（無い）→ annullare（無にする）。null（無効の）と同語源。",
+    "etym_chain": [
+      { "node": "annullare", "sub": "無にする", "era": "ラテン語" },
+      { "node": "annulment", "sub": "無効化", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "seek an annulment", "ja": "無効（婚姻無効）を求める" },
+      { "en": "grant an annulment", "ja": "無効を認める" },
+      { "en": "marriage annulment", "ja": "婚姻の無効" },
+      { "en": "annulment of a contract", "ja": "契約の無効" },
+      { "en": "apply for annulment", "ja": "無効を申請する" },
+      { "en": "an annulment of the election", "ja": "選挙の無効" }
+    ],
+    "related": [
+      { "en": "annul", "ja": "無効にする" },
+      { "en": "divorce", "ja": "離婚" },
+      { "en": "invalidate", "ja": "無効にする" },
+      { "en": "cancellation", "ja": "取り消し" }
+    ],
+    "faq": [
+      { "q": "annulment と divorce の違いは？", "a": "divorce は成立した結婚を『終わらせる』こと、annulment は結婚が『最初から無効だった』とみなす手続きです。" },
+      { "q": "動詞形は？", "a": "annul（無効にする）です。" }
+    ],
+    "quiz": [
+      { "q": "annulment の意味は？", "A": "（婚姻・契約の）無効化", "B": "結婚式", "C": "記念日", "D": "契約締結", "correct": "A" },
+      { "q": "annulment と divorce の違いは？", "A": "無効か／解消か", "B": "全く同じ", "C": "国による違い", "D": "費用の違いだけ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "anonymity",
+    "pron": "ˌænəˈnɪməti",
+    "kana": "アノニミティ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 anonymos（名前のない）から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "不可算名詞"],
+    "meaning_main": "匿名（性）／名前を明かさないこと",
+    "description": "anonymity（アノニミティ）は「匿名、名前を明かさないこと、無名であること」を表す名詞。ネット・報道でよく使う。例文で解説。",
+    "keywords": ["anonymity 意味", "anonymity 発音", "匿名 英語", "anonymous 名詞"],
+    "meanings": [
+      { "hinshi": "【名詞】匿名・名前を明かさないこと", "note": "誰であるかを特定されない状態" },
+      { "hinshi": "【名詞】無名・目立たないこと", "note": "有名でなく、埋もれている状態" }
+    ],
+    "usages": [
+      { "title": "① 身元を隠すこと", "desc": "情報提供者などが名前を伏せること。preserve/protect anonymity。", "example_en": "The source spoke on condition of anonymity.", "example_ja": "その情報源は匿名を条件に語った。" },
+      { "title": "② 無名であること", "desc": "有名でなく人目につかない状態にも使う。", "example_en": "After fame, she longed for anonymity.", "example_ja": "名声を得た後、彼女は無名でいることを望んだ。" }
+    ],
+    "warn": ["形容詞は anonymous（匿名の）。", "on condition of anonymity（匿名を条件に）は報道の定番表現。"],
+    "etym_note": "ギリシャ語 an-（無）+ onoma（名前）→ anonymos（名前のない）→ anonymity。synonym と同じ onoma 系。",
+    "etym_chain": [
+      { "node": "anonymos", "sub": "名前のない", "era": "ギリシャ語" },
+      { "node": "anonymity", "sub": "匿名", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "on condition of anonymity", "ja": "匿名を条件に" },
+      { "en": "preserve anonymity", "ja": "匿名を保つ" },
+      { "en": "protect one's anonymity", "ja": "匿名性を守る" },
+      { "en": "the anonymity of the internet", "ja": "インターネットの匿名性" },
+      { "en": "request anonymity", "ja": "匿名を求める" },
+      { "en": "remain in anonymity", "ja": "無名のままでいる" }
+    ],
+    "related": [
+      { "en": "anonymous", "ja": "匿名の" },
+      { "en": "privacy", "ja": "プライバシー" },
+      { "en": "confidentiality", "ja": "秘密保持" },
+      { "en": "obscurity", "ja": "無名・不明瞭" }
+    ],
+    "faq": [
+      { "q": "anonymity の形容詞形は？", "a": "anonymous（匿名の）です。" },
+      { "q": "on condition of anonymity とは？", "a": "『匿名であることを条件に（名前を出さない約束で）』という報道でよく使う表現です。" }
+    ],
+    "quiz": [
+      { "q": "anonymity の意味は？", "A": "匿名・名前を明かさないこと", "B": "有名であること", "C": "正直さ", "D": "残酷さ", "correct": "A" },
+      { "q": "anonymity の形容詞形は？", "A": "anonymous", "B": "anxious", "C": "ancient", "D": "annual", "correct": "A" }
+    ]
+  },
+  {
+    "english": "antechamber",
+    "pron": "ˈæntiˌtʃeɪmbər",
+    "kana": "アンティチェンバー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 ante（前の）+ chamber（部屋）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "建築・格式用語"],
+    "meaning_main": "控えの間／前室",
+    "description": "antechamber（アンティチェンバー）は「控えの間、前室」を表す名詞。大きな部屋に入る前の小さな待合の部屋。宮殿・墓室などで使う。例文で解説。",
+    "keywords": ["antechamber 意味", "antechamber 発音", "控えの間 英語", "前室 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】控えの間・前室", "note": "主となる大部屋に入る前にある小さな部屋・待合室" }
+    ],
+    "usages": [
+      { "title": "① 待合の部屋", "desc": "王の謁見の間や重要な部屋に入る前に通る控室。", "example_en": "Guests waited in the antechamber before the audience.", "example_ja": "客たちは謁見の前に控えの間で待った。" },
+      { "title": "② 遺跡・墓室で", "desc": "古代の墓の前室など考古学の文脈でも使う。", "example_en": "The tomb had an antechamber leading to the burial room.", "example_ja": "その墓には埋葬室へ続く前室があった。" }
+    ],
+    "warn": ["接頭辞 ante-（前の）に注意。anti-（反対の）と混同しやすい。", "anteroom もほぼ同義（控えの間・前室）。"],
+    "etym_note": "ラテン語 ante（前に・先に）+ chamber（部屋、ラテン語 camera）→『（主室の）前の部屋』。",
+    "etym_chain": [
+      { "node": "ante + chamber", "sub": "前の部屋", "era": "近代英語" },
+      { "node": "antechamber", "sub": "控えの間", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "wait in the antechamber", "ja": "控えの間で待つ" },
+      { "en": "a small antechamber", "ja": "小さな前室" },
+      { "en": "the royal antechamber", "ja": "王の控えの間" },
+      { "en": "through the antechamber", "ja": "前室を通って" },
+      { "en": "an antechamber to the hall", "ja": "広間へ続く前室" },
+      { "en": "the tomb's antechamber", "ja": "墓の前室" }
+    ],
+    "related": [
+      { "en": "anteroom", "ja": "控えの間・前室" },
+      { "en": "lobby", "ja": "ロビー・入口の広間" },
+      { "en": "vestibule", "ja": "玄関の間" },
+      { "en": "chamber", "ja": "部屋・室" }
+    ],
+    "faq": [
+      { "q": "接頭辞 ante- の意味は？", "a": "『前の・先の』という意味です（antechamber＝前の部屋）。反対を表す anti- と混同しないよう注意しましょう。" },
+      { "q": "anteroom との違いは？", "a": "ほぼ同義です。どちらも『主室に入る前の控えの間』を指します。" }
+    ],
+    "quiz": [
+      { "q": "antechamber の意味は？", "A": "控えの間・前室", "B": "地下室", "C": "屋根裏", "D": "台所", "correct": "A" },
+      { "q": "接頭辞 ante- の意味は？", "A": "前の", "B": "反対の", "C": "下の", "D": "多くの", "correct": "A" }
+    ]
+  },
+  {
+    "english": "antipodes",
+    "pron": "ænˈtɪpədiːz",
+    "kana": "アンティポディーズ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 anti（反対）+ pous（足）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "地理用語・複数形"],
+    "meaning_main": "対蹠地（地球の正反対の地点）／正反対のもの",
+    "description": "antipodes（アンティポディーズ）は「対蹠（たいせき）地＝地球上で正反対の地点」を表す名詞。英国では豪州・NZを指すことも。例文で解説。",
+    "keywords": ["antipodes 意味", "antipodes 発音", "対蹠地 英語", "地球 反対側"],
+    "meanings": [
+      { "hinshi": "【名詞】対蹠地", "note": "地球の中心を挟んで正反対にある地点。通常複数形" },
+      { "hinshi": "【名詞】（比喩）正反対のもの", "note": "the antipodes of ~ で『~の正反対』" }
+    ],
+    "usages": [
+      { "title": "① 地球の反対側", "desc": "ある地点の真裏にあたる場所。日本の対蹠地は南米沖など。", "example_en": "New Zealand is roughly at the antipodes of Spain.", "example_ja": "ニュージーランドはほぼスペインの対蹠地にあたる。" },
+      { "title": "② 豪州・NZの意（英国）", "desc": "the Antipodes と大文字で、英国から見て地球の裏側の豪州・NZを指すことがある。", "example_en": "He emigrated to the Antipodes.", "example_ja": "彼は（英国から見て地球の裏側の）豪州・ニュージーランドへ移住した。" }
+    ],
+    "warn": ["通常は複数形 antipodes。単数 antipode もあるが稀。", "接頭 anti-（反対）+ pous（足）＝『足が反対を向く（真裏の）人・地』が原義。"],
+    "etym_note": "ギリシャ語 antipodes（anti「反対」+ podes「足」）→『足が反対を向く人々（＝地球の裏側の人）』。tripod と同じ pous 系。",
+    "etym_chain": [
+      { "node": "antipodes", "sub": "足が反対を向く者", "era": "ギリシャ語" },
+      { "node": "antipodes", "sub": "対蹠地", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "at the antipodes", "ja": "対蹠地に" },
+      { "en": "the Antipodes", "ja": "（英国から見た）豪州・NZ" },
+      { "en": "the antipodes of", "ja": "~の正反対" },
+      { "en": "live at the antipodes", "ja": "地球の裏側に住む" },
+      { "en": "poles apart", "ja": "正反対で（類似表現）" },
+      { "en": "travel to the antipodes", "ja": "地球の裏側へ旅する" }
+    ],
+    "related": [
+      { "en": "opposite", "ja": "正反対の" },
+      { "en": "hemisphere", "ja": "半球" },
+      { "en": "globe", "ja": "地球儀・地球" },
+      { "en": "poles apart", "ja": "正反対で" }
+    ],
+    "faq": [
+      { "q": "antipodes とは？", "a": "地球の中心を挟んで正反対にある地点（対蹠地）のことです。通常は複数形で使います。" },
+      { "q": "the Antipodes が豪州を指すのはなぜ？", "a": "イギリスから見ると地球のほぼ裏側にあたるため、英国では the Antipodes がオーストラリア・ニュージーランドを指すことがあります。" }
+    ],
+    "quiz": [
+      { "q": "antipodes の意味は？", "A": "対蹠地（地球の正反対の地点）", "B": "赤道", "C": "北極", "D": "首都", "correct": "A" },
+      { "q": "antipodes の語根 pous の意味は？", "A": "足", "B": "手", "C": "頭", "D": "目", "correct": "A" }
+    ]
+  },
+  {
+    "english": "anxiously",
+    "pron": "ˈæŋkʃəsli",
+    "kana": "アンクシャスリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "ラテン語 anxius（不安な）から",
+    "ld_level": "準1級",
+    "badges": ["中学生〜", "英検準1級", "CEFR B1", "形容詞anxiousの副詞形"],
+    "meaning_main": "心配そうに／不安げに／待ちわびて",
+    "description": "anxiously（アンクシャスリー）は「心配そうに、不安げに、（今か今かと）待ちわびて」を表す副詞。形容詞anxiousの副詞形。例文で解説。",
+    "keywords": ["anxiously 意味", "anxiously 発音", "心配そうに 英語", "不安げに 英語"],
+    "meanings": [
+      { "hinshi": "【副詞】心配そうに・不安げに", "note": "落ち着かず気をもむ様子" },
+      { "hinshi": "【副詞】待ちわびて", "note": "何かを強く待ち望む様子（wait anxiously）" }
+    ],
+    "usages": [
+      { "title": "① 不安げに", "desc": "心配で落ち着かない様子を表す。", "example_en": "She waited anxiously for the test results.", "example_ja": "彼女は不安げに検査結果を待った。" },
+      { "title": "② 心待ちにして", "desc": "『今か今かと』待ち望む前向きな期待にも使う。", "example_en": "The children anxiously awaited the holidays.", "example_ja": "子どもたちは休暇を心待ちにしていた。" }
+    ],
+    "warn": ["形容詞は anxious（不安な／切望して）。", "anxious は不安だけでなく『切望して(eager)』の意味も持つ点に注意。"],
+    "etym_note": "ラテン語 anxius（不安な、angere「締めつける」から）→ anxious + -ly。anguish と同語源。",
+    "etym_chain": [
+      { "node": "anxius", "sub": "不安な", "era": "ラテン語" },
+      { "node": "anxiously", "sub": "心配そうに", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "wait anxiously", "ja": "不安げに待つ" },
+      { "en": "anxiously await", "ja": "心待ちにする" },
+      { "en": "look anxiously", "ja": "心配そうに見る" },
+      { "en": "anxiously watch", "ja": "気をもんで見守る" },
+      { "en": "pace anxiously", "ja": "落ち着かず歩き回る" },
+      { "en": "anxiously hope", "ja": "気をもみながら願う" }
+    ],
+    "related": [
+      { "en": "anxious", "ja": "不安な・切望して" },
+      { "en": "anxiety", "ja": "不安・心配" },
+      { "en": "nervously", "ja": "緊張して" },
+      { "en": "eagerly", "ja": "熱心に・待ち望んで" }
+    ],
+    "faq": [
+      { "q": "anxiously はいつも『不安』の意味？", "a": "多くは『心配そうに』ですが、『（期待して）待ちわびて』という前向きな意味でも使われます（anxiously await）。" },
+      { "q": "形容詞形は？", "a": "anxious（不安な・切望して）です。" }
+    ],
+    "quiz": [
+      { "q": "anxiously の意味は？", "A": "心配そうに・待ちわびて", "B": "冷静に", "C": "うれしそうに", "D": "眠そうに", "correct": "A" },
+      { "q": "anxiously の形容詞形は？", "A": "anxious", "B": "angry", "C": "ancient", "D": "annual", "correct": "A" }
+    ]
+  },
+  {
+    "english": "apartheid",
+    "pron": "əˈpɑːrtaɪt",
+    "kana": "アパルトヘイト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "アフリカーンス語 apartheid（分離）から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "歴史・政治用語"],
+    "meaning_main": "アパルトヘイト（人種隔離政策）",
+    "description": "apartheid（アパルトヘイト）は「（南アフリカの）人種隔離政策」を表す名詞。転じて『組織的な差別・隔離』一般にも使う。例文で解説。",
+    "keywords": ["apartheid 意味", "apartheid 発音", "アパルトヘイト 英語", "人種隔離 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】アパルトヘイト（人種隔離政策）", "note": "1948〜1990年代の南アフリカで行われた人種による法的隔離・差別" },
+      { "hinshi": "【名詞】（比喩）組織的な隔離・差別", "note": "gender apartheid など、隔離全般の比喩にも" }
+    ],
+    "usages": [
+      { "title": "① 南アフリカの政策", "desc": "白人少数派が黒人など非白人を法的に隔離・差別した制度。", "example_en": "Nelson Mandela fought against apartheid.", "example_ja": "ネルソン・マンデラはアパルトヘイトと闘った。" },
+      { "title": "② 隔離の比喩", "desc": "特定集団を組織的に隔離・排除することの比喩にも使う。", "example_en": "Critics called the policy a form of social apartheid.", "example_ja": "批判者はその政策を一種の社会的隔離と呼んだ。" }
+    ],
+    "warn": ["発音は「アパルトヘイト」（-heid は『ヘイト』ではなく『ハイト』に近い）。", "アフリカーンス語で『分離・別々であること(apart-hood)』の意。"],
+    "etym_note": "アフリカーンス語 apartheid（apart「離れて」+ -heid「~の状態」）→『分離された状態』。英語の apart と同源。",
+    "etym_chain": [
+      { "node": "apartheid", "sub": "分離の状態", "era": "アフリカーンス語" },
+      { "node": "apartheid", "sub": "人種隔離政策", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the system of apartheid", "ja": "アパルトヘイト制度" },
+      { "en": "fight against apartheid", "ja": "アパルトヘイトと闘う" },
+      { "en": "the end of apartheid", "ja": "アパルトヘイトの終焉" },
+      { "en": "abolish apartheid", "ja": "アパルトヘイトを廃止する" },
+      { "en": "racial apartheid", "ja": "人種隔離" },
+      { "en": "under apartheid", "ja": "アパルトヘイト下で" }
+    ],
+    "related": [
+      { "en": "segregation", "ja": "（人種）隔離・分離" },
+      { "en": "discrimination", "ja": "差別" },
+      { "en": "racism", "ja": "人種差別" },
+      { "en": "equality", "ja": "平等" }
+    ],
+    "faq": [
+      { "q": "apartheid とは？", "a": "1948年から1990年代初めまで南アフリカで行われた、人種による法的な隔離・差別政策のことです。" },
+      { "q": "segregation との違いは？", "a": "segregation は一般的な『（人種）隔離』、apartheid は特に南アフリカの制度を指し、比喩的に強い隔離を表すのに使われます。" }
+    ],
+    "quiz": [
+      { "q": "apartheid の意味は？", "A": "人種隔離政策", "B": "民主化", "C": "植民地化", "D": "工業化", "correct": "A" },
+      { "q": "apartheid と闘った有名な人物は？", "A": "ネルソン・マンデラ", "B": "ナポレオン", "C": "リンカーン", "D": "チャーチル", "correct": "A" }
+    ]
+  },
+  {
+    "english": "apolitical",
+    "pron": "ˌeɪpəˈlɪtɪkl",
+    "kana": "エイポリティカル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "a-（無）+ political（政治の）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "接頭辞a-"],
+    "meaning_main": "政治に無関心な／政治色のない・非政治的な",
+    "description": "apolitical（エイポリティカル）は「政治に関心のない、政治色のない、非政治的な」を表す形容詞。接頭辞 a-（無）+ political。例文で解説。",
+    "keywords": ["apolitical 意味", "apolitical 発音", "非政治的 英語", "政治に無関心 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】非政治的な・政治に無関心な", "note": "政治的立場を持たない、または政治に関わらない" }
+    ],
+    "usages": [
+      { "title": "① 政治に関わらない", "desc": "人が政治に無関心・中立であること。", "example_en": "He claims to be completely apolitical.", "example_ja": "彼は自分は全く政治に関心がないと言う。" },
+      { "title": "② 組織・活動が中立", "desc": "団体・イベントが政治色を持たないこと。", "example_en": "The charity is strictly apolitical.", "example_ja": "その慈善団体は厳格に非政治的だ。" }
+    ],
+    "warn": ["接頭辞 a-（無・非）。amoral, atypical と同じ用法。", "『反政治的』ではなく『政治と無関係・無関心』の意味。"],
+    "etym_note": "接頭辞 a-（ギリシャ語由来の否定）+ political（政治の）。『政治という枠組みの外』の意。",
+    "etym_chain": [
+      { "node": "a- + political", "sub": "政治が無い", "era": "近代英語" },
+      { "node": "apolitical", "sub": "非政治的な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "strictly apolitical", "ja": "厳格に非政治的な" },
+      { "en": "an apolitical stance", "ja": "政治色のない立場" },
+      { "en": "remain apolitical", "ja": "非政治的であり続ける" },
+      { "en": "apolitical organization", "ja": "非政治的な組織" },
+      { "en": "completely apolitical", "ja": "全く政治に無関心な" },
+      { "en": "an apolitical event", "ja": "政治色のないイベント" }
+    ],
+    "related": [
+      { "en": "political", "ja": "政治の・政治的な" },
+      { "en": "neutral", "ja": "中立の" },
+      { "en": "nonpartisan", "ja": "無党派の" },
+      { "en": "indifferent", "ja": "無関心な" }
+    ],
+    "faq": [
+      { "q": "apolitical の接頭辞 a- の意味は？", "a": "『無・非』を表します（apolitical＝政治と無関係・非政治的）。amoral や atypical と同じ使い方です。" },
+      { "q": "『反政治的』という意味？", "a": "いいえ。『反対』ではなく『政治と無関係・無関心』という意味です。" }
+    ],
+    "quiz": [
+      { "q": "apolitical の意味は？", "A": "非政治的な・政治に無関心な", "B": "政治好きな", "C": "反政府の", "D": "外交的な", "correct": "A" },
+      { "q": "接頭辞 a- の意味は？", "A": "無・非", "B": "再び", "C": "前の", "D": "多くの", "correct": "A" }
+    ]
+  },
+  {
+    "english": "apostate",
+    "pron": "əˈpɒsteɪt",
+    "kana": "アポステイト",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 apostates（離反者）から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "宗教・フォーマル"],
+    "meaning_main": "背教者／（信仰・主義からの）離反者",
+    "description": "apostate（アポステイト）は「背教者、（宗教・主義・党派からの）離反者」を表す名詞。信仰や信条を捨てた人を指す。例文で解説。",
+    "keywords": ["apostate 意味", "apostate 発音", "背教者 英語", "離反者 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】背教者・離反者", "note": "信仰・主義・党派を捨てて離れた人。しばしば非難を込めて" }
+    ],
+    "usages": [
+      { "title": "① 信仰を捨てた人", "desc": "宗教を捨てた人。当該宗教から見て非難的な語。", "example_en": "He was branded an apostate by his former church.", "example_ja": "彼はかつての教会から背教者と決めつけられた。" },
+      { "title": "② 主義・党からの離反", "desc": "政治的信条や党派を捨てた人にも使う。", "example_en": "Party loyalists saw him as an apostate.", "example_ja": "党の忠実な支持者は彼を離反者とみなした。" }
+    ],
+    "warn": ["名詞 apostasy は『背教・離反』。動詞的には apostatize（背教する）。", "convert（改宗者）は『新たに信仰に入る人』で対照的。"],
+    "etym_note": "ギリシャ語 apo-（離れて）+ stasis/histanai（立つ）→ apostates（（信仰から）離れて立つ者）。",
+    "etym_chain": [
+      { "node": "apostates", "sub": "離反者", "era": "ギリシャ語" },
+      { "node": "apostate", "sub": "背教者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "branded an apostate", "ja": "背教者と決めつけられて" },
+      { "en": "a political apostate", "ja": "政治的な離反者" },
+      { "en": "denounced as an apostate", "ja": "背教者と糾弾されて" },
+      { "en": "an apostate from the faith", "ja": "信仰からの背教者" },
+      { "en": "become an apostate", "ja": "背教者になる" },
+      { "en": "treated as an apostate", "ja": "離反者として扱われて" }
+    ],
+    "related": [
+      { "en": "apostasy", "ja": "背教・離反" },
+      { "en": "heretic", "ja": "異端者" },
+      { "en": "defector", "ja": "亡命者・離反者" },
+      { "en": "convert", "ja": "改宗者" }
+    ],
+    "faq": [
+      { "q": "apostate と heretic の違いは？", "a": "apostate は信仰そのものを『捨てた』人、heretic は信仰の中で『正統から外れた説を唱える』人（異端者）です。" },
+      { "q": "名詞形（行為）は？", "a": "apostasy（背教・離反）です。" }
+    ],
+    "quiz": [
+      { "q": "apostate の意味は？", "A": "背教者・離反者", "B": "改宗者", "C": "聖職者", "D": "巡礼者", "correct": "A" },
+      { "q": "apostate の行為を表す名詞は？", "A": "apostasy", "B": "apology", "C": "apathy", "D": "apparel", "correct": "A" }
+    ]
+  },
+  {
+    "english": "apostle",
+    "pron": "əˈpɒsl",
+    "kana": "アポスル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 apostolos（遣わされた者）から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "宗教用語"],
+    "meaning_main": "使徒／（主義・運動の）熱心な唱道者",
+    "description": "apostle（アポスル）は「（キリストの）使徒、（主義・運動の）熱心な唱道者・伝道者」を表す名詞。t を発音しない点に注意。例文で解説。",
+    "keywords": ["apostle 意味", "apostle 発音", "使徒 英語", "唱道者 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】使徒", "note": "イエス・キリストが福音を広めるために選んだ12人の弟子など" },
+      { "hinshi": "【名詞】（主義・運動の）唱道者", "note": "ある思想・運動を熱心に広める人。an apostle of ~" }
+    ],
+    "usages": [
+      { "title": "① キリストの使徒", "desc": "宗教の文脈で、イエスの弟子として教えを広めた人々。", "example_en": "Peter and Paul were early Christian apostles.", "example_ja": "ペテロとパウロは初期キリスト教の使徒だった。" },
+      { "title": "② 主義の唱道者", "desc": "an apostle of ~ で『~の熱心な唱道者・伝道者』。", "example_en": "She became an apostle of free education.", "example_ja": "彼女は無償教育の熱心な唱道者になった。" }
+    ],
+    "warn": ["発音は「アポスル」で t を読まない（apostle）。", "形容詞は apostolic（使徒の）。disciple（弟子）とは重なるが、apostle は『遣わされて教えを広める者』のニュアンス。"],
+    "etym_note": "ギリシャ語 apostolos（apo-「離れて」+ stellein「送る」）→『遣わされた者』。epistle（書簡）と同じ stellein 系。",
+    "etym_chain": [
+      { "node": "apostolos", "sub": "遣わされた者", "era": "ギリシャ語" },
+      { "node": "apostle", "sub": "使徒", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the twelve apostles", "ja": "十二使徒" },
+      { "en": "an apostle of", "ja": "~の唱道者" },
+      { "en": "an apostle of peace", "ja": "平和の唱道者" },
+      { "en": "the apostles of Christ", "ja": "キリストの使徒たち" },
+      { "en": "a leading apostle", "ja": "指導的な唱道者" },
+      { "en": "apostle of reform", "ja": "改革の唱道者" }
+    ],
+    "related": [
+      { "en": "disciple", "ja": "弟子" },
+      { "en": "apostolic", "ja": "使徒の" },
+      { "en": "missionary", "ja": "宣教師" },
+      { "en": "advocate", "ja": "唱道者・擁護者" }
+    ],
+    "faq": [
+      { "q": "apostle の発音の注意点は？", "a": "「アポスル」と読み、t は発音しません。" },
+      { "q": "apostle と disciple の違いは？", "a": "disciple は『弟子』、apostle は『（教えを広めるために）遣わされた者』という意味合いが強い語です。" }
+    ],
+    "quiz": [
+      { "q": "apostle の意味は？", "A": "使徒・唱道者", "B": "皇帝", "C": "商人", "D": "戦士", "correct": "A" },
+      { "q": "apostle の発音で読まない文字は？", "A": "t", "B": "a", "C": "p", "D": "s", "correct": "A" }
+    ]
+  },
+  {
+    "english": "appall",
+    "pron": "əˈpɔːl",
+    "kana": "アポール",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古フランス語 apalir（青ざめさせる）から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "英/米綴りあり"],
+    "meaning_main": "ぞっとさせる／ひどく驚かせ憤慨させる",
+    "description": "appall（アポール）は「（残酷さ・ひどさで）ぞっとさせる、慄然（りつぜん）とさせる」を表す動詞。be appalled by ~ で頻出。英国綴りは appal。例文で解説。",
+    "keywords": ["appall 意味", "appall 発音", "ぞっとさせる 英語", "appalled"],
+    "meanings": [
+      { "hinshi": "【動詞】ぞっとさせる・慄然とさせる", "note": "ひどさ・残酷さに強い衝撃と嫌悪を与える" }
+    ],
+    "usages": [
+      { "title": "① 強い衝撃と嫌悪", "desc": "残酷な出来事やひどい行いに、恐れと憤りを感じさせる。", "example_en": "The cruelty of the crime appalled everyone.", "example_ja": "その犯罪の残酷さは皆をぞっとさせた。" },
+      { "title": "② be appalled by/at ~", "desc": "受け身で『~にぞっとする・愕然とする』。", "example_en": "I was appalled by the terrible conditions.", "example_ja": "私はそのひどい状況に愕然とした。" }
+    ],
+    "warn": ["米国綴り appall（l 2つ）／英国綴り appal（l 1つ）。過去形はどちらも appalled。", "形容詞 appalling は『ぞっとするような・ひどい』。"],
+    "etym_note": "古フランス語 apalir（a-「へ」+ palir「青ざめる」）→『（恐怖で）青ざめさせる』。pale（青ざめた）と同語源。",
+    "etym_chain": [
+      { "node": "apalir", "sub": "青ざめさせる", "era": "古フランス語" },
+      { "node": "appall", "sub": "ぞっとさせる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be appalled by", "ja": "~にぞっとする" },
+      { "en": "be appalled at", "ja": "~に愕然とする" },
+      { "en": "appalled to see", "ja": "見て慄然とする" },
+      { "en": "utterly appalled", "ja": "すっかり愕然として" },
+      { "en": "appalling conditions", "ja": "ひどい状況" },
+      { "en": "an appalling crime", "ja": "身の毛もよだつ犯罪" }
+    ],
+    "related": [
+      { "en": "appalling", "ja": "ぞっとするような・ひどい" },
+      { "en": "horrify", "ja": "ぞっとさせる" },
+      { "en": "shock", "ja": "衝撃を与える" },
+      { "en": "dismay", "ja": "うろたえさせる" }
+    ],
+    "faq": [
+      { "q": "appall の英米の綴りは？", "a": "米国 appall（l 2つ）、英国 appal（l 1つ）です。過去形・形容詞は appalled / appalling で共通です。" },
+      { "q": "前置詞は？", "a": "be appalled by ~ / at ~ の形で使います。" }
+    ],
+    "quiz": [
+      { "q": "appall の意味は？", "A": "ぞっとさせる・愕然とさせる", "B": "喜ばせる", "C": "退屈させる", "D": "励ます", "correct": "A" },
+      { "q": "appall の形容詞形は？", "A": "appalling", "B": "appealing", "C": "applied", "D": "apparent", "correct": "A" }
+    ]
+  },
+  {
+    "english": "apparel",
+    "pron": "əˈpærəl",
+    "kana": "アパレル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 apareillier（整える）から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "不可算・ビジネス"],
+    "meaning_main": "衣料品／衣服（特に商品としての）",
+    "description": "apparel（アパレル）は「衣料品、衣服」を表す名詞。特に商品・業界の文脈で使うフォーマルな語。不可算名詞。例文で解説。",
+    "keywords": ["apparel 意味", "apparel 発音", "衣料品 英語", "アパレル 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】衣料品・衣服", "note": "商品・業界として扱う『衣服』。不可算名詞でフォーマル" }
+    ],
+    "usages": [
+      { "title": "① 商品としての衣服", "desc": "小売・業界で『衣料品』を指す。sports apparel（スポーツ用衣料）など。", "example_en": "The store sells sports apparel.", "example_ja": "その店はスポーツ衣料を売っている。" },
+      { "title": "② フォーマルな『衣服』", "desc": "clothes よりかたい語。案内・掲示などで使う。", "example_en": "Proper apparel is required to enter.", "example_ja": "入場には適切な服装が必要です。" }
+    ],
+    "warn": ["不可算名詞。an apparel とは言わない。", "日常会話では clothes / clothing が普通。apparel は業界・フォーマル寄り。"],
+    "etym_note": "古フランス語 apareillier（整える・装う）→ apparel。『身を整えるもの』の意。",
+    "etym_chain": [
+      { "node": "apareillier", "sub": "整える・装う", "era": "古フランス語" },
+      { "node": "apparel", "sub": "衣料品", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "sports apparel", "ja": "スポーツ衣料" },
+      { "en": "women's apparel", "ja": "婦人服" },
+      { "en": "the apparel industry", "ja": "アパレル業界" },
+      { "en": "outdoor apparel", "ja": "アウトドア衣料" },
+      { "en": "designer apparel", "ja": "デザイナーズ衣料" },
+      { "en": "proper apparel", "ja": "適切な服装" }
+    ],
+    "related": [
+      { "en": "clothing", "ja": "衣類" },
+      { "en": "clothes", "ja": "服" },
+      { "en": "garment", "ja": "衣服（1点）" },
+      { "en": "attire", "ja": "服装・装い" }
+    ],
+    "faq": [
+      { "q": "apparel と clothes の違いは？", "a": "意味は近いですが、apparel は商品・業界で使うフォーマルな語で不可算、clothes は日常語です。" },
+      { "q": "可算名詞ですか？", "a": "不可算名詞です。an apparel とは言いません。" }
+    ],
+    "quiz": [
+      { "q": "apparel の意味は？", "A": "衣料品・衣服", "B": "家具", "C": "食器", "D": "文房具", "correct": "A" },
+      { "q": "apparel の使い方で正しいのは？", "A": "sports apparel", "B": "an apparel", "C": "two apparels", "D": "apparel's", "correct": "A" }
+    ]
+  }
+]

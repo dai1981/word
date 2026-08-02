@@ -1,0 +1,968 @@
+[
+  {
+    "english": "aerobics",
+    "pron": "eəˈroʊbɪks",
+    "kana": "エアロビクス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 aer（空気）+ bios（生命）",
+    "ld_level": "準1級",
+    "badges": ["中学生〜", "英検準1級", "CEFR B1", "運動用語・不可算"],
+    "meaning_main": "エアロビクス（有酸素体操）",
+    "description": "aerobics（エアロビクス）は「有酸素体操」を表す名詞。音楽に合わせて体を動かす有酸素運動。単複同形・単数扱いで使う。例文で解説。",
+    "keywords": ["aerobics 意味", "aerobics 発音", "エアロビクス 英語", "有酸素運動"],
+    "meanings": [
+      { "hinshi": "【名詞】エアロビクス（有酸素体操）", "note": "音楽に合わせて行う有酸素運動。-ics で終わるが単数扱い" }
+    ],
+    "usages": [
+      { "title": "① 有酸素体操", "desc": "音楽に合わせて全身を動かすフィットネス。do aerobics（エアロビをする）。", "example_en": "She does aerobics three times a week.", "example_ja": "彼女は週3回エアロビクスをする。" },
+      { "title": "② 動詞の一致", "desc": "-ics で終わるが、種目名としては単数扱い。", "example_en": "Aerobics is a fun way to stay fit.", "example_ja": "エアロビクスは健康を保つ楽しい方法だ。" }
+    ],
+    "warn": ["形容詞 aerobic（有酸素の）と混同注意。aerobics は名詞。", "aqua aerobics は『水中エアロビクス』。"],
+    "etym_note": "aerobic（有酸素の）から。ギリシャ語 aer（空気）+ bios（生命）。1960年代に運動法として広まった。",
+    "etym_chain": [
+      { "node": "aer + bios", "sub": "空気＋生命", "era": "ギリシャ語" },
+      { "node": "aerobics", "sub": "有酸素体操", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "do aerobics", "ja": "エアロビクスをする" },
+      { "en": "an aerobics class", "ja": "エアロビクスの教室" },
+      { "en": "aqua aerobics", "ja": "水中エアロビクス" },
+      { "en": "step aerobics", "ja": "ステップエアロビクス" },
+      { "en": "aerobics instructor", "ja": "エアロビの指導者" },
+      { "en": "go to aerobics", "ja": "エアロビに通う" }
+    ],
+    "related": [
+      { "en": "aerobic", "ja": "有酸素の" },
+      { "en": "exercise", "ja": "運動" },
+      { "en": "fitness", "ja": "フィットネス" },
+      { "en": "workout", "ja": "運動・トレーニング" }
+    ],
+    "faq": [
+      { "q": "aerobics は単数扱い？複数扱い？", "a": "-ics で終わりますが、運動の種目名として単数扱いします（Aerobics is fun.）。" },
+      { "q": "aerobic との違いは？", "a": "aerobic は形容詞『有酸素の』、aerobics は名詞『有酸素体操（エアロビクス）』です。" }
+    ],
+    "quiz": [
+      { "q": "aerobics の意味は？", "A": "有酸素体操", "B": "筋力トレーニング", "C": "ヨガ", "D": "水泳", "correct": "A" },
+      { "q": "aerobics とよく使う動詞は？", "A": "do", "B": "read", "C": "cook", "D": "write", "correct": "A" }
+    ]
+  },
+  {
+    "english": "afflicted",
+    "pron": "əˈflɪktɪd",
+    "kana": "アフリクティッド",
+    "hinshi": "形容詞 / 動詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 affligere（打ちのめす）から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "動詞afflictの過去分詞"],
+    "meaning_main": "（病気・苦難に）苦しめられた／悩まされた",
+    "description": "afflicted（アフリクティッド）は「（病気・苦しみに）苦しめられた、悩まされた」を表す形容詞。be afflicted with/by ~ の形で使う。例文で解説。",
+    "keywords": ["afflicted 意味", "afflicted 発音", "苦しめられた 英語", "afflict"],
+    "meanings": [
+      { "hinshi": "【形容詞】（病・苦難に）苦しめられた", "note": "be afflicted with/by ~ で『~に苦しむ』" }
+    ],
+    "usages": [
+      { "title": "① 病気に苦しむ", "desc": "病気・障害に悩まされている状態を表すフォーマルな語。", "example_en": "She is afflicted with severe arthritis.", "example_ja": "彼女はひどい関節炎に苦しんでいる。" },
+      { "title": "② 地域・社会の苦難", "desc": "貧困・災害などに見舞われた地域にも使う。", "example_en": "The region was afflicted by drought.", "example_ja": "その地域は干ばつに見舞われた。" }
+    ],
+    "warn": ["前置詞は with または by。", "inflicted（（苦痛を）与えられた）と混同注意。afflict は『苦しめる』、inflict は『（苦痛を）与える』。"],
+    "etym_note": "ラテン語 ad-（~へ）+ fligere（打つ）→ affligere（打ちのめす）。conflict, inflict と同じ fligere 系。",
+    "etym_chain": [
+      { "node": "affligere", "sub": "打ちのめす", "era": "ラテン語" },
+      { "node": "afflicted", "sub": "苦しめられた", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "afflicted with a disease", "ja": "病気に苦しんで" },
+      { "en": "afflicted by poverty", "ja": "貧困に苦しんで" },
+      { "en": "the afflicted", "ja": "苦しむ人々" },
+      { "en": "severely afflicted", "ja": "ひどく苦しめられて" },
+      { "en": "afflicted area", "ja": "被災地・被害地域" },
+      { "en": "those afflicted with", "ja": "~に苦しむ人々" }
+    ],
+    "related": [
+      { "en": "afflict", "ja": "苦しめる" },
+      { "en": "affliction", "ja": "苦悩・苦難" },
+      { "en": "suffer", "ja": "苦しむ" },
+      { "en": "plagued", "ja": "悩まされた" }
+    ],
+    "faq": [
+      { "q": "afflict と inflict の違いは？", "a": "afflict は『（病・苦しみが人を）苦しめる』、inflict は『（苦痛・罰を）与える』です。方向が逆です。" },
+      { "q": "前置詞は？", "a": "be afflicted with ~ / by ~ の形で使います。" }
+    ],
+    "quiz": [
+      { "q": "afflicted の意味は？", "A": "苦しめられた", "B": "祝福された", "C": "興奮した", "D": "満足した", "correct": "A" },
+      { "q": "afflicted と使う前置詞は？", "A": "with / by", "B": "on / at", "C": "for / to", "D": "of / in", "correct": "A" }
+    ]
+  },
+  {
+    "english": "aforesaid",
+    "pron": "əˈfɔːrsed",
+    "kana": "アフォーセッド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "古英語 fore（前に）+ said（言われた）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "法律・格式用語"],
+    "meaning_main": "前述の／上述の",
+    "description": "aforesaid（アフォーセッド）は「前述の、上述の」を表す形容詞。契約書・法律文書など格式ばった文で使う。例文で解説。",
+    "keywords": ["aforesaid 意味", "aforesaid 発音", "前述の 英語", "法律 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】前述の・上述の", "note": "すでに述べたことを指す。法律・契約書などの硬い文体で使う" }
+    ],
+    "usages": [
+      { "title": "① 法律文書で", "desc": "契約書などで、前に述べた人・物・事を指す非常にフォーマルな語。", "example_en": "The aforesaid conditions must be met.", "example_ja": "前述の条件が満たされなければならない。" },
+      { "title": "② the aforesaid で名詞的に", "desc": "the aforesaid（前述の者・物）と名詞のようにも使う。", "example_en": "The aforesaid shall be responsible for all costs.", "example_ja": "前述の者が全費用を負担するものとする。" }
+    ],
+    "warn": ["日常会話ではまず使わない。普通は above-mentioned や the above を使う。", "aforementioned もほぼ同義でよく使われる。"],
+    "etym_note": "古英語 fore（前に）+ said（言われた）に a-（強め）。afore は『~の前に』の古語。",
+    "etym_chain": [
+      { "node": "fore + said", "sub": "前に言われた", "era": "古英語" },
+      { "node": "aforesaid", "sub": "前述の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the aforesaid conditions", "ja": "前述の条件" },
+      { "en": "the aforesaid party", "ja": "前述の当事者" },
+      { "en": "the aforesaid agreement", "ja": "前述の契約" },
+      { "en": "as aforesaid", "ja": "前述のとおり" },
+      { "en": "the aforesaid clause", "ja": "前述の条項" },
+      { "en": "the aforesaid property", "ja": "前述の財産" }
+    ],
+    "related": [
+      { "en": "aforementioned", "ja": "前述の" },
+      { "en": "above-mentioned", "ja": "上述の" },
+      { "en": "said", "ja": "（法律）当該の・前述の" },
+      { "en": "previous", "ja": "前の" }
+    ],
+    "faq": [
+      { "q": "aforesaid はどんな場面で使う？", "a": "契約書・法律文書などの非常にフォーマルな文章で『前述の』を表します。日常会話では使いません。" },
+      { "q": "aforementioned との違いは？", "a": "ほぼ同義です。どちらも『前に述べた』を意味し、aforementioned のほうがやや一般的です。" }
+    ],
+    "quiz": [
+      { "q": "aforesaid の意味は？", "A": "前述の", "B": "今後の", "C": "秘密の", "D": "無効の", "correct": "A" },
+      { "q": "aforesaid とほぼ同義の語は？", "A": "aforementioned", "B": "afterward", "C": "aforethought", "D": "affordable", "correct": "A" }
+    ]
+  },
+  {
+    "english": "agate",
+    "pron": "ˈæɡət",
+    "kana": "アガット",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 Achates（川の名）から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "鉱物・宝石"],
+    "meaning_main": "めのう（瑪瑙）",
+    "description": "agate（アガット）は「めのう（瑪瑙）」を表す名詞。縞模様が美しい半貴石で、アクセサリーや装飾に使われる。使い方と例文を解説。",
+    "keywords": ["agate 意味", "agate 発音", "めのう 英語", "瑪瑙 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】めのう（瑪瑙）", "note": "縞状の模様を持つ石英系の半貴石" }
+    ],
+    "usages": [
+      { "title": "① 半貴石として", "desc": "縞模様のある美しい石で、ビーズ・装飾品・置物に使われる。", "example_en": "The bracelet was made of polished agate.", "example_ja": "そのブレスレットは磨いためのうでできていた。" },
+      { "title": "② 色のバリエーション", "desc": "青・赤・白などさまざまな色があり blue agate などと呼ぶ。", "example_en": "Blue agate has calming, wavy patterns.", "example_ja": "ブルーアゲートは落ち着いた波状の模様を持つ。" }
+    ],
+    "warn": ["発音は「アガット」（第1音節にアクセント）。", "石英(quartz)の一種で、chalcedony（玉髄）の縞模様のあるもの。"],
+    "etym_note": "シチリア島の Achates 川（現Dirillo川）で採れたことに由来するギリシャ語 achates から。",
+    "etym_chain": [
+      { "node": "Achates", "sub": "川の名（採取地）", "era": "ギリシャ語" },
+      { "node": "agate", "sub": "めのう", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "polished agate", "ja": "磨いためのう" },
+      { "en": "blue agate", "ja": "ブルーアゲート（青めのう）" },
+      { "en": "an agate bead", "ja": "めのうのビーズ" },
+      { "en": "agate ring", "ja": "めのうの指輪" },
+      { "en": "banded agate", "ja": "縞めのう" },
+      { "en": "a piece of agate", "ja": "めのうの一片" }
+    ],
+    "related": [
+      { "en": "quartz", "ja": "石英" },
+      { "en": "gemstone", "ja": "宝石" },
+      { "en": "jade", "ja": "翡翠" },
+      { "en": "mineral", "ja": "鉱物" }
+    ],
+    "faq": [
+      { "q": "agate はどんな石？", "a": "石英（quartz）の仲間で、美しい縞模様を持つ半貴石『めのう（瑪瑙）』です。" },
+      { "q": "発音は？", "a": "「アガット」で、最初の音節にアクセントがあります。" }
+    ],
+    "quiz": [
+      { "q": "agate の意味は？", "A": "めのう（瑪瑙）", "B": "真珠", "C": "琥珀", "D": "ダイヤ", "correct": "A" },
+      { "q": "agate は何の仲間の鉱物？", "A": "石英（quartz）", "B": "金属", "C": "石炭", "D": "塩", "correct": "A" }
+    ]
+  },
+  {
+    "english": "aggressor",
+    "pron": "əˈɡresər",
+    "kana": "アグレッサー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 aggredi（攻めかかる）から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "政治・軍事用語"],
+    "meaning_main": "攻撃者／侵略者／仕掛けた側",
+    "description": "aggressor（アグレッサー）は「攻撃者、侵略者、（争いを）仕掛けた側」を表す名詞。戦争・紛争・けんかで先に手を出した側を指す。例文で解説。",
+    "keywords": ["aggressor 意味", "aggressor 発音", "侵略者 英語", "攻撃者 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】攻撃者・侵略者", "note": "戦争や争いを先に仕掛けた側の国・人" }
+    ],
+    "usages": [
+      { "title": "① 争いを仕掛けた側", "desc": "戦争・紛争で先に攻撃した国や人を指す。被害者(victim)と対比。", "example_en": "The country was branded as the aggressor.", "example_ja": "その国は侵略者と非難された。" },
+      { "title": "② 個人の争いでも", "desc": "けんか・いじめなどで先に手を出した人にも使う。", "example_en": "Witnesses said he was the aggressor in the fight.", "example_ja": "目撃者は、そのけんかで彼が仕掛けた側だと言った。" }
+    ],
+    "warn": ["形容詞は aggressive（攻撃的な）、名詞は aggression（攻撃・侵略）。", "aggressor は『仕掛けた側』を指し、必ずしも『強い側』ではない。"],
+    "etym_note": "ラテン語 ad-（~へ）+ gradi（歩む）→ aggredi（攻めかかる）。progress, gradual と同じ gradi 系。",
+    "etym_chain": [
+      { "node": "aggredi", "sub": "攻めかかる", "era": "ラテン語" },
+      { "node": "aggressor", "sub": "攻撃者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the aggressor", "ja": "攻撃した側・侵略者" },
+      { "en": "brand as the aggressor", "ja": "侵略者と非難する" },
+      { "en": "an act of aggression", "ja": "侵略行為" },
+      { "en": "the initial aggressor", "ja": "最初に仕掛けた側" },
+      { "en": "identify the aggressor", "ja": "攻撃者を特定する" },
+      { "en": "punish the aggressor", "ja": "侵略者を罰する" }
+    ],
+    "related": [
+      { "en": "aggression", "ja": "攻撃・侵略" },
+      { "en": "aggressive", "ja": "攻撃的な" },
+      { "en": "attacker", "ja": "攻撃者" },
+      { "en": "victim", "ja": "被害者" }
+    ],
+    "faq": [
+      { "q": "aggressor と victim の違いは？", "a": "aggressor は争いを『仕掛けた側』、victim は『被害を受けた側』です。" },
+      { "q": "関連する名詞・形容詞は？", "a": "名詞 aggression（攻撃・侵略）、形容詞 aggressive（攻撃的な）です。" }
+    ],
+    "quiz": [
+      { "q": "aggressor の意味は？", "A": "攻撃者・侵略者", "B": "調停者", "C": "被害者", "D": "傍観者", "correct": "A" },
+      { "q": "aggressor の反対にあたる語は？", "A": "victim", "B": "actor", "C": "author", "D": "adviser", "correct": "A" }
+    ]
+  },
+  {
+    "english": "agitator",
+    "pron": "ˈædʒɪteɪtər",
+    "kana": "アジテイター",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 agitare（かき立てる）から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "政治・機械"],
+    "meaning_main": "扇動者／（機械の）攪拌（かくはん）装置",
+    "description": "agitator（アジテイター）は「（政治的な）扇動者、（洗濯機などの）攪拌装置」を表す名詞。人と機械の二つの意味を持つ。例文で解説。",
+    "keywords": ["agitator 意味", "agitator 発音", "扇動者 英語", "攪拌 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】扇動者", "note": "人々を政治的に扇動・煽動する人。しばしば否定的" },
+      { "hinshi": "【名詞】攪拌装置", "note": "洗濯機や化学装置で中身をかき混ぜる部品" }
+    ],
+    "usages": [
+      { "title": "① 政治的な扇動者", "desc": "群衆をあおって行動を起こさせる人。批判的に使われることが多い。", "example_en": "The government called the protesters agitators.", "example_ja": "政府は抗議者たちを扇動者と呼んだ。" },
+      { "title": "② 機械の攪拌部", "desc": "洗濯機の中で水や衣類をかき回す装置。", "example_en": "The washing machine's agitator spins the clothes.", "example_ja": "洗濯機の攪拌装置が衣類をかき回す。" }
+    ],
+    "warn": ["『扇動者』はしばしば否定的な語。中立には activist（活動家）を使う。", "動詞 agitate は『（人を）扇動する／（液体を）かき混ぜる／動揺させる』。"],
+    "etym_note": "ラテン語 agitare（絶えず動かす、agere「する」の反復形）→ agitate + -or。",
+    "etym_chain": [
+      { "node": "agitare", "sub": "かき立てる", "era": "ラテン語" },
+      { "node": "agitator", "sub": "扇動者・攪拌装置", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a political agitator", "ja": "政治的な扇動者" },
+      { "en": "labor agitator", "ja": "労働運動の扇動者" },
+      { "en": "a dangerous agitator", "ja": "危険な扇動者" },
+      { "en": "the machine's agitator", "ja": "機械の攪拌装置" },
+      { "en": "outside agitator", "ja": "外部の扇動者" },
+      { "en": "brand as an agitator", "ja": "扇動者と決めつける" }
+    ],
+    "related": [
+      { "en": "agitate", "ja": "扇動する・かき混ぜる" },
+      { "en": "agitation", "ja": "扇動・動揺" },
+      { "en": "activist", "ja": "活動家" },
+      { "en": "instigator", "ja": "扇動者・首謀者" }
+    ],
+    "faq": [
+      { "q": "agitator と activist の違いは？", "a": "activist は中立～肯定的な『活動家』、agitator は『（人々を）あおる扇動者』で否定的に使われがちです。" },
+      { "q": "機械の意味もある？", "a": "はい。洗濯機などで中身をかき混ぜる『攪拌装置』の意味もあります。" }
+    ],
+    "quiz": [
+      { "q": "agitator の意味は？", "A": "扇動者・攪拌装置", "B": "調停者", "C": "翻訳者", "D": "審判", "correct": "A" },
+      { "q": "agitator の動詞形は？", "A": "agitate", "B": "aggravate", "C": "allocate", "D": "activate", "correct": "A" }
+    ]
+  },
+  {
+    "english": "aglow",
+    "pron": "əˈɡloʊ",
+    "kana": "アグロウ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "a-（~の状態で）+ glow（輝き）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "文語的・叙述用法"],
+    "meaning_main": "赤く輝いて／（顔などが）ほてって・上気して",
+    "description": "aglow（アグロウ）は「（温かく）輝いて、（顔が喜びや熱で）ほてって、上気して」を表す形容詞。叙述用法で使う文語的な語。例文で解説。",
+    "keywords": ["aglow 意味", "aglow 発音", "輝いて 英語", "上気 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】赤々と輝いて", "note": "暖炉・夕日などが温かく光る様子" },
+      { "hinshi": "【形容詞】（顔が）ほてって・上気して", "note": "喜び・興奮・寒さで頬が赤らむ様子。aglow with ~" }
+    ],
+    "usages": [
+      { "title": "① 温かく輝く", "desc": "夕日・暖炉・ろうそくなどが赤々と光る様子を表す文語的な語。", "example_en": "The sky was aglow with the setting sun.", "example_ja": "空は夕日で赤々と輝いていた。" },
+      { "title": "② 喜びで顔が輝く", "desc": "aglow with happiness などで、喜びや興奮に顔が上気する様子。", "example_en": "Her face was aglow with excitement.", "example_ja": "彼女の顔は興奮で輝いていた。" }
+    ],
+    "warn": ["叙述用法のみ（名詞の前には置かない）。an aglow face とは言わない。", "a- が付く形容詞（alive, asleep, awake など）と同じ用法。"],
+    "etym_note": "接頭辞 a-（~の状態で）+ glow（輝く）。alive, asleep と同じ a- 系の形容詞。",
+    "etym_chain": [
+      { "node": "a- + glow", "sub": "輝いた状態で", "era": "近代英語" },
+      { "node": "aglow", "sub": "赤々と輝いて", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "aglow with happiness", "ja": "幸せで顔が輝いて" },
+      { "en": "aglow with excitement", "ja": "興奮で上気して" },
+      { "en": "the sky aglow", "ja": "赤々と輝く空" },
+      { "en": "set the room aglow", "ja": "部屋を明るく輝かせる" },
+      { "en": "faces aglow", "ja": "輝く顔" },
+      { "en": "aglow with pride", "ja": "誇らしげに顔を輝かせて" }
+    ],
+    "related": [
+      { "en": "glow", "ja": "輝く・輝き" },
+      { "en": "glowing", "ja": "輝いている" },
+      { "en": "radiant", "ja": "光り輝く" },
+      { "en": "flushed", "ja": "紅潮した" }
+    ],
+    "faq": [
+      { "q": "aglow は名詞の前に置ける？", "a": "いいえ。aglow は叙述用法のみで、be動詞などの後に使います（Her face was aglow.）。" },
+      { "q": "どんなニュアンス？", "a": "温かく赤く輝く、または喜び・興奮で顔が上気する、という文語的で明るいイメージです。" }
+    ],
+    "quiz": [
+      { "q": "aglow の意味は？", "A": "赤々と輝いて・上気して", "B": "暗くなって", "C": "凍えて", "D": "濡れて", "correct": "A" },
+      { "q": "aglow の使い方で正しいのは？", "A": "Her face was aglow.", "B": "an aglow face", "C": "the aglow lamp", "D": "aglow room", "correct": "A" }
+    ]
+  },
+  {
+    "english": "agonize",
+    "pron": "ˈæɡənaɪz",
+    "kana": "アゴナイズ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ギリシャ語 agonia（苦闘）から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "英/米綴りあり"],
+    "meaning_main": "苦しみ悩む／思い悩む・苦悩する",
+    "description": "agonize（アゴナイズ）は「（決断などで）思い悩む、苦悶する」を表す動詞。agonize over ~ の形で頻出。英国綴りは agonise。例文で解説。",
+    "keywords": ["agonize 意味", "agonize 発音", "思い悩む 英語", "苦悩する 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】思い悩む・苦悩する", "note": "agonize over/about ~ で『~についてさんざん悩む』" }
+    ],
+    "usages": [
+      { "title": "① 決断に思い悩む", "desc": "難しい選択などで長く苦しみ悩むこと。over/about を伴う。", "example_en": "She agonized over which college to choose.", "example_ja": "彼女はどの大学を選ぶかさんざん思い悩んだ。" },
+      { "title": "② 苦しみ悶える", "desc": "肉体的・精神的な激しい苦しみを表すこともある。", "example_en": "He agonized in silence over the loss.", "example_ja": "彼はその喪失を黙って苦しみ抜いた。" }
+    ],
+    "warn": ["綴りは米 agonize／英 agonise。", "名詞は agony（苦悩・激痛）、形容詞 agonizing（苦しい・悩ましい）。"],
+    "etym_note": "ギリシャ語 agon（競技・闘い）→ agonia（苦闘・苦悶）→ agonize。protagonist（主人公）と同じ agon 系。",
+    "etym_chain": [
+      { "node": "agonia", "sub": "苦闘", "era": "ギリシャ語" },
+      { "node": "agonize", "sub": "思い悩む", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "agonize over a decision", "ja": "決断に思い悩む" },
+      { "en": "agonize about the future", "ja": "将来について悩む" },
+      { "en": "agonize over every detail", "ja": "細部までさんざん悩む" },
+      { "en": "spend hours agonizing", "ja": "何時間も悩み続ける" },
+      { "en": "agonize over the choice", "ja": "選択に苦しむ" },
+      { "en": "stop agonizing", "ja": "悩むのをやめる" }
+    ],
+    "related": [
+      { "en": "agony", "ja": "苦悩・激痛" },
+      { "en": "agonizing", "ja": "苦しい・悩ましい" },
+      { "en": "fret", "ja": "気をもむ" },
+      { "en": "worry", "ja": "心配する" }
+    ],
+    "faq": [
+      { "q": "agonize の前置詞は？", "a": "over または about を使います（agonize over/about ~）。" },
+      { "q": "名詞・形容詞は？", "a": "名詞 agony（苦悩・激痛）、形容詞 agonizing（苦しい）です。" }
+    ],
+    "quiz": [
+      { "q": "agonize の意味は？", "A": "思い悩む・苦悩する", "B": "喜ぶ", "C": "決定する", "D": "無視する", "correct": "A" },
+      { "q": "agonize と使う前置詞は？", "A": "over / about", "B": "at / by", "C": "for / to", "D": "in / of", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ahimsa",
+    "pron": "əˈhɪmsɑː",
+    "kana": "アヒンサー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "サンスクリット語 ahiṃsā（不殺生）から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "宗教・思想用語"],
+    "meaning_main": "アヒンサー（非暴力・不殺生）",
+    "description": "ahimsa（アヒンサー）は「非暴力、不殺生」を表す名詞。ヒンドゥー教・仏教・ジャイナ教の重要な概念で、ガンジーの思想の核。例文で解説。",
+    "keywords": ["ahimsa 意味", "ahimsa 発音", "非暴力 英語", "不殺生 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】非暴力・不殺生", "note": "あらゆる生き物を傷つけないという教え。インド発祥の思想" }
+    ],
+    "usages": [
+      { "title": "① インド思想の中心概念", "desc": "ヒンドゥー教・仏教・ジャイナ教に共通する『生き物を害さない』教え。", "example_en": "Ahimsa means doing no harm to any living being.", "example_ja": "アヒンサーはあらゆる生き物を傷つけないことを意味する。" },
+      { "title": "② ガンジーの思想", "desc": "ガンジーの非暴力抵抗運動の根本原理として広く知られる。", "example_en": "Gandhi based his movement on the principle of ahimsa.", "example_ja": "ガンジーは非暴力（アヒンサー）の原理に運動の基礎を置いた。" }
+    ],
+    "warn": ["英単語ではなくサンスクリット由来の借用語。宗教・哲学の文脈で使う。", "英語の関連語は nonviolence（非暴力）。"],
+    "etym_note": "サンスクリット語 a-（否定）+ hiṃsā（危害・殺生）→『傷つけないこと』。",
+    "etym_chain": [
+      { "node": "ahiṃsā", "sub": "不殺生", "era": "サンスクリット語" },
+      { "node": "ahimsa", "sub": "非暴力", "era": "現代英語（借用）" }
+    ],
+    "phrases": [
+      { "en": "the principle of ahimsa", "ja": "アヒンサーの原理" },
+      { "en": "practice ahimsa", "ja": "非暴力を実践する" },
+      { "en": "ahimsa and nonviolence", "ja": "アヒンサーと非暴力" },
+      { "en": "based on ahimsa", "ja": "非暴力に基づいて" },
+      { "en": "the concept of ahimsa", "ja": "アヒンサーの概念" },
+      { "en": "believe in ahimsa", "ja": "非暴力を信じる" }
+    ],
+    "related": [
+      { "en": "nonviolence", "ja": "非暴力" },
+      { "en": "compassion", "ja": "慈悲・思いやり" },
+      { "en": "pacifism", "ja": "平和主義" },
+      { "en": "vegetarianism", "ja": "菜食主義" }
+    ],
+    "faq": [
+      { "q": "ahimsa とは？", "a": "サンスクリット語由来で『非暴力・不殺生』を意味します。ヒンドゥー教・仏教・ジャイナ教の重要な教えです。" },
+      { "q": "誰の思想で有名？", "a": "非暴力抵抗を唱えたガンジー（マハトマ・ガンディー）の思想の核として広く知られています。" }
+    ],
+    "quiz": [
+      { "q": "ahimsa の意味は？", "A": "非暴力・不殺生", "B": "巡礼", "C": "断食", "D": "瞑想", "correct": "A" },
+      { "q": "ahimsa を思想の核とした人物は？", "A": "ガンジー", "B": "ナポレオン", "C": "カエサル", "D": "コロンブス", "correct": "A" }
+    ]
+  },
+  {
+    "english": "aimless",
+    "pron": "ˈeɪmləs",
+    "kana": "エイムレス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "aim（目的）+ -less（~のない）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "-less形容詞"],
+    "meaning_main": "目的のない／あてのない",
+    "description": "aimless（エイムレス）は「目的のない、あてのない」を表す形容詞。aim（目的）+ -less（~のない）。使い方と例文をわかりやすく解説。",
+    "keywords": ["aimless 意味", "aimless 発音", "目的のない 英語", "あてのない 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】目的のない・あてのない", "note": "はっきりした目標や方向性がない" }
+    ],
+    "usages": [
+      { "title": "① あてのない行動", "desc": "目的地や目標を持たずにさまよう・過ごす様子。", "example_en": "He spent an aimless afternoon wandering the streets.", "example_ja": "彼はあてもなく街をさまよって午後を過ごした。" },
+      { "title": "② 人生・生き方に", "desc": "目標のない生き方を表すこともある。", "example_en": "She felt her life had become aimless.", "example_ja": "彼女は自分の人生が目的のないものになったと感じた。" }
+    ],
+    "warn": ["副詞は aimlessly（あてもなく）。", "反対は purposeful（目的のある）/ purposeful。"],
+    "etym_note": "aim（狙い・目的、古フランス語 esmer「見積もる」由来）+ -less（~のない）。",
+    "etym_chain": [
+      { "node": "aim + -less", "sub": "目的のない", "era": "近代英語" },
+      { "node": "aimless", "sub": "あてのない", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "aimless wandering", "ja": "あてのないさすらい" },
+      { "en": "an aimless life", "ja": "目的のない人生" },
+      { "en": "aimless drifting", "ja": "あてのない漂流" },
+      { "en": "feel aimless", "ja": "目的を見失う" },
+      { "en": "aimless chatter", "ja": "とりとめのないおしゃべり" },
+      { "en": "wander aimlessly", "ja": "あてもなくさまよう" }
+    ],
+    "related": [
+      { "en": "aim", "ja": "目的・狙う" },
+      { "en": "purposeless", "ja": "目的のない" },
+      { "en": "directionless", "ja": "方向性のない" },
+      { "en": "purposeful", "ja": "目的のある" }
+    ],
+    "faq": [
+      { "q": "aimless の副詞形は？", "a": "aimlessly（あてもなく）です。" },
+      { "q": "反対語は？", "a": "purposeful（目的のある）や focused（的を絞った）です。" }
+    ],
+    "quiz": [
+      { "q": "aimless の意味は？", "A": "目的のない・あてのない", "B": "目的のある", "C": "急いだ", "D": "正確な", "correct": "A" },
+      { "q": "aimless の副詞形は？", "A": "aimlessly", "B": "aimful", "C": "aiming", "D": "aimable", "correct": "A" }
+    ]
+  },
+  {
+    "english": "airspace",
+    "pron": "ˈeərspeɪs",
+    "kana": "エアスペース",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "air（空気・空）+ space（空間）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "政治・航空用語"],
+    "meaning_main": "領空／（ある国・場所の上の）空域",
+    "description": "airspace（エアスペース）は「領空、（国や場所の上空の）空域」を表す名詞。国際政治・航空のニュースで頻出。使い方と例文を解説。",
+    "keywords": ["airspace 意味", "airspace 発音", "領空 英語", "空域 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】領空・空域", "note": "特定の国・地域の上空の空間。その国が主権を持つ" }
+    ],
+    "usages": [
+      { "title": "① 国の領空", "desc": "国家が主権を持つ上空。無断で侵入すると問題になる。", "example_en": "The plane violated the country's airspace.", "example_ja": "その飛行機はその国の領空を侵犯した。" },
+      { "title": "② 空域の管理", "desc": "航空管制で管理される空の区域という意味でも使う。", "example_en": "The airspace over the airport is tightly controlled.", "example_ja": "空港上空の空域は厳しく管理されている。" }
+    ],
+    "warn": ["通常は不可算だが、区域として the airspace のように使う。", "『領海』は territorial waters。"],
+    "etym_note": "air（空）+ space（空間）の複合語。20世紀の航空時代に生まれた語。",
+    "etym_chain": [
+      { "node": "air + space", "sub": "空＋空間", "era": "近代英語" },
+      { "node": "airspace", "sub": "領空・空域", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "violate airspace", "ja": "領空を侵犯する" },
+      { "en": "national airspace", "ja": "国の領空" },
+      { "en": "close the airspace", "ja": "空域を閉鎖する" },
+      { "en": "enter the airspace", "ja": "空域に入る" },
+      { "en": "controlled airspace", "ja": "管制空域" },
+      { "en": "airspace restrictions", "ja": "空域の制限" }
+    ],
+    "related": [
+      { "en": "airspace", "ja": "領空" },
+      { "en": "territory", "ja": "領土" },
+      { "en": "aviation", "ja": "航空" },
+      { "en": "border", "ja": "国境" }
+    ],
+    "faq": [
+      { "q": "airspace violation とは？", "a": "許可なく他国の領空に入ること、つまり『領空侵犯』です。" },
+      { "q": "『領海』は英語で？", "a": "territorial waters です。airspace（領空）と対になる概念です。" }
+    ],
+    "quiz": [
+      { "q": "airspace の意味は？", "A": "領空・空域", "B": "空港", "C": "宇宙", "D": "気流", "correct": "A" },
+      { "q": "violate airspace の意味は？", "A": "領空を侵犯する", "B": "空港を建設する", "C": "飛行機を予約する", "D": "気象を観測する", "correct": "A" }
+    ]
+  },
+  {
+    "english": "alarming",
+    "pron": "əˈlɑːrmɪŋ",
+    "kana": "アラーミング",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "イタリア語 all'arme（武器を取れ）から",
+    "ld_level": "準1級",
+    "badges": ["中学生〜", "英検準1級", "CEFR B1", "動詞alarmの現在分詞"],
+    "meaning_main": "驚くべき／不安にさせる／憂慮すべき",
+    "description": "alarming（アラーミング）は「（悪い意味で）驚くべき、不安にさせる、憂慮すべき」を表す形容詞。深刻な事態に使う。使い方と例文を解説。",
+    "keywords": ["alarming 意味", "alarming 発音", "憂慮すべき 英語", "不安にさせる 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】驚くべき・憂慮すべき", "note": "悪い方向へ人を不安・心配にさせる" }
+    ],
+    "usages": [
+      { "title": "① 心配な事態", "desc": "急増・悪化など、悪い意味で人を不安にさせる状況を表す。", "example_en": "The disease is spreading at an alarming rate.", "example_ja": "その病気は憂慮すべき速さで広がっている。" },
+      { "title": "② 驚くべき数字", "desc": "統計や傾向が『恐ろしいほど』であることを表す。", "example_en": "The report contains some alarming statistics.", "example_ja": "その報告書には憂慮すべき統計がいくつか含まれている。" }
+    ],
+    "warn": ["『良い意味の驚き』には amazing / surprising を使う。alarming は悪い意味。", "『不安を感じる』側の人は alarmed（不安になった）。"],
+    "etym_note": "イタリア語 all'arme（武器を取れ！）→ alarm（警報）+ -ing。もとは戦いへの呼びかけ。",
+    "etym_chain": [
+      { "node": "all'arme", "sub": "武器を取れ", "era": "イタリア語" },
+      { "node": "alarming", "sub": "憂慮すべき", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "at an alarming rate", "ja": "憂慮すべき速さで" },
+      { "en": "alarming increase", "ja": "驚くべき増加" },
+      { "en": "alarming statistics", "ja": "憂慮すべき統計" },
+      { "en": "alarming news", "ja": "不安なニュース" },
+      { "en": "increasingly alarming", "ja": "ますます憂慮すべき" },
+      { "en": "an alarming trend", "ja": "憂慮すべき傾向" }
+    ],
+    "related": [
+      { "en": "alarm", "ja": "警報・不安" },
+      { "en": "alarmed", "ja": "不安になった" },
+      { "en": "worrying", "ja": "心配な" },
+      { "en": "disturbing", "ja": "動揺させる" }
+    ],
+    "faq": [
+      { "q": "alarming と alarmed の違いは？", "a": "alarming は『（物事が）人を不安にさせる』、alarmed は『（人が）不安になっている』です。" },
+      { "q": "良い意味の『驚くべき』は？", "a": "amazing や astonishing を使います。alarming は悪い意味に限られます。" }
+    ],
+    "quiz": [
+      { "q": "alarming の意味は？", "A": "憂慮すべき・不安にさせる", "B": "喜ばしい", "C": "退屈な", "D": "普通の", "correct": "A" },
+      { "q": "『（人が）不安になっている』は？", "A": "alarmed", "B": "alarming", "C": "alarmable", "D": "alarmful", "correct": "A" }
+    ]
+  },
+  {
+    "english": "alas",
+    "pron": "əˈlæs",
+    "kana": "アラス",
+    "hinshi": "間投詞",
+    "ld_pos": "間投詞",
+    "ld_etym": "古フランス語 a las（ああ、疲れた）から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "文語・古風"],
+    "meaning_main": "ああ（悲しいかな）／残念ながら",
+    "description": "alas（アラス）は「ああ、悲しいかな、残念ながら」を表す間投詞。悲しみ・遺憾を表す文語的・古風な語。使い方と例文を解説。",
+    "keywords": ["alas 意味", "alas 発音", "ああ 英語", "残念ながら 英語"],
+    "meanings": [
+      { "hinshi": "【間投詞】ああ・悲しいかな", "note": "悲しみ・後悔・遺憾を表す。文語的・やや古風、時にユーモラス" }
+    ],
+    "usages": [
+      { "title": "① 悲しみ・遺憾を表す", "desc": "文頭で使い『残念ながら』のニュアンス。硬い・文学的な響き。", "example_en": "Alas, we arrived too late to say goodbye.", "example_ja": "ああ、私たちはお別れを言うには遅すぎた。" },
+      { "title": "② ユーモラスにも", "desc": "現代では大げさ・おどけて『あいにく』の意味で使うことも。", "example_en": "Alas, the cake was all gone.", "example_ja": "残念ながら、ケーキはすっかりなくなっていた。" }
+    ],
+    "warn": ["日常のくだけた会話では unfortunately や sadly の方が自然。", "alas は文語的・古風で、詩や物語、フォーマル・おどけた文脈向き。"],
+    "etym_note": "古フランス語 a（ああ）+ las（疲れた・不幸な、ラテン語 lassus）→『ああ、なんと不幸な』。",
+    "etym_chain": [
+      { "node": "a las", "sub": "ああ、不幸な", "era": "古フランス語" },
+      { "node": "alas", "sub": "悲しいかな", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "alas, ...", "ja": "ああ、残念ながら…" },
+      { "en": "alas and alack", "ja": "ああ悲しや（古風・強調）" },
+      { "en": "but alas", "ja": "しかし残念ながら" },
+      { "en": "alas, it was too late", "ja": "ああ、もう遅すぎた" },
+      { "en": "alas, no", "ja": "あいにく、違う" },
+      { "en": "sadly, alas", "ja": "悲しいことに" }
+    ],
+    "related": [
+      { "en": "unfortunately", "ja": "残念ながら" },
+      { "en": "sadly", "ja": "悲しいことに" },
+      { "en": "regrettably", "ja": "遺憾ながら" },
+      { "en": "woe", "ja": "悲哀" }
+    ],
+    "faq": [
+      { "q": "alas はどんな場面で使う？", "a": "悲しみや遺憾を表す文語的な間投詞です。文学・詩や、おどけた表現で『残念ながら』の意味で使います。" },
+      { "q": "日常での言い換えは？", "a": "unfortunately（残念ながら）や sadly（悲しいことに）が自然です。" }
+    ],
+    "quiz": [
+      { "q": "alas の意味は？", "A": "ああ（悲しいかな）", "B": "やった！", "C": "こんにちは", "D": "ありがとう", "correct": "A" },
+      { "q": "alas と近い意味の語は？", "A": "unfortunately", "B": "luckily", "C": "certainly", "D": "quickly", "correct": "A" }
+    ]
+  },
+  {
+    "english": "algorithm",
+    "pron": "ˈælɡərɪðəm",
+    "kana": "アルゴリズム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "数学者アル・フワーリズミーの名から",
+    "ld_level": "準1級",
+    "badges": ["中学生〜", "英検準1級", "CEFR B2", "IT・数学用語"],
+    "meaning_main": "アルゴリズム（問題を解く手順）",
+    "description": "algorithm（アルゴリズム）は「問題を解くための手順・計算方法」を表す名詞。プログラミング・数学・SNSの表示順などで頻出。例文で解説。",
+    "keywords": ["algorithm 意味", "algorithm 発音", "アルゴリズム 英語", "手順 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】アルゴリズム", "note": "問題を解くための決まった手順・計算方法。特にコンピュータの処理手順" }
+    ],
+    "usages": [
+      { "title": "① 計算・処理の手順", "desc": "プログラムが答えを出すためのステップの集まり。", "example_en": "The search engine uses a complex algorithm.", "example_ja": "その検索エンジンは複雑なアルゴリズムを使っている。" },
+      { "title": "② SNSの表示順", "desc": "日常では『SNSが投稿を並べる仕組み』の意味でもよく使う。", "example_en": "The algorithm decides what appears in your feed.", "example_ja": "アルゴリズムがあなたのフィードに何を表示するか決める。" }
+    ],
+    "warn": ["綴りに注意（algo-rithm、rhythm と同じ -thm）。", "形容詞は algorithmic（アルゴリズムの）。"],
+    "etym_note": "9世紀の数学者アル・フワーリズミー(al-Khwarizmi)の名がラテン語化した algorismus に由来。arithmetic の影響で -thm の綴りに。",
+    "etym_chain": [
+      { "node": "al-Khwarizmi", "sub": "数学者の名", "era": "アラビア語" },
+      { "node": "algorithm", "sub": "計算手順", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a search algorithm", "ja": "検索アルゴリズム" },
+      { "en": "a complex algorithm", "ja": "複雑なアルゴリズム" },
+      { "en": "the algorithm decides", "ja": "アルゴリズムが決める" },
+      { "en": "machine learning algorithm", "ja": "機械学習アルゴリズム" },
+      { "en": "design an algorithm", "ja": "アルゴリズムを設計する" },
+      { "en": "the recommendation algorithm", "ja": "おすすめのアルゴリズム" }
+    ],
+    "related": [
+      { "en": "algorithmic", "ja": "アルゴリズムの" },
+      { "en": "program", "ja": "プログラム" },
+      { "en": "computation", "ja": "計算" },
+      { "en": "logic", "ja": "論理" }
+    ],
+    "faq": [
+      { "q": "algorithm の綴りのコツは？", "a": "arithmetic や rhythm と同じく末尾は -thm です（algori-thm）。" },
+      { "q": "語源は？", "a": "9世紀の数学者アル・フワーリズミーの名前に由来します。" }
+    ],
+    "quiz": [
+      { "q": "algorithm の意味は？", "A": "問題を解く手順", "B": "計算ミス", "C": "暗号鍵", "D": "配線図", "correct": "A" },
+      { "q": "algorithm の正しい綴りは？", "A": "algorythm", "B": "algorithm", "C": "algorithem", "D": "algoritm", "correct": "B" }
+    ]
+  },
+  {
+    "english": "alignment",
+    "pron": "əˈlaɪnmənt",
+    "kana": "アラインメント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 aligner（一列に並べる）から",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "ビジネス・技術"],
+    "meaning_main": "一直線に並ぶこと／位置合わせ／（考えの）一致・提携",
+    "description": "alignment（アラインメント）は「整列・位置合わせ、（考え・利害の）一致・提携」を表す名詞。ビジネス・技術・政治で頻出。例文で解説。",
+    "keywords": ["alignment 意味", "alignment 発音", "位置合わせ 英語", "一致 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】整列・位置合わせ", "note": "一直線・正しい位置に並べること。文字の揃え、車の車輪調整など" },
+      { "hinshi": "【名詞】（考え・利害の）一致・提携", "note": "in alignment with ~ で『~と一致して』" }
+    ],
+    "usages": [
+      { "title": "① 位置・配置の調整", "desc": "物や文字をまっすぐ・正しい位置に揃えること。", "example_en": "The car needs a wheel alignment.", "example_ja": "その車はホイールアライメントの調整が必要だ。" },
+      { "title": "② 方針・目標の一致", "desc": "組織や人の考え・目標が揃っていること。ビジネスで頻出。", "example_en": "We need better alignment between the two teams.", "example_ja": "2チーム間でより良い足並みの一致が必要だ。" }
+    ],
+    "warn": ["動詞は align（整列させる・一致させる）。", "in alignment with ~（~と一致して）、out of alignment（ずれて）。"],
+    "etym_note": "フランス語 aligner（à ligne「線に沿って」）→ align + -ment。line（線）と同語源。",
+    "etym_chain": [
+      { "node": "aligner", "sub": "一列に並べる", "era": "フランス語" },
+      { "node": "alignment", "sub": "整列・一致", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "in alignment with", "ja": "~と一致して" },
+      { "en": "out of alignment", "ja": "ずれて・調整不良で" },
+      { "en": "wheel alignment", "ja": "ホイールアライメント" },
+      { "en": "strategic alignment", "ja": "戦略の整合" },
+      { "en": "text alignment", "ja": "文字の揃え" },
+      { "en": "bring into alignment", "ja": "整合させる" }
+    ],
+    "related": [
+      { "en": "align", "ja": "整列させる・一致させる" },
+      { "en": "arrangement", "ja": "配置" },
+      { "en": "agreement", "ja": "一致・合意" },
+      { "en": "position", "ja": "位置" }
+    ],
+    "faq": [
+      { "q": "alignment のビジネスでの意味は？", "a": "組織・チーム・目標の『足並みの一致・整合』を指します（in alignment with our goals）。" },
+      { "q": "動詞形は？", "a": "align（整列させる・一致させる）です。" }
+    ],
+    "quiz": [
+      { "q": "alignment の意味は？", "A": "整列・位置合わせ・一致", "B": "分裂", "C": "破壊", "D": "混乱", "correct": "A" },
+      { "q": "out of alignment の意味は？", "A": "ずれている", "B": "完璧に揃っている", "C": "販売中", "D": "満員の", "correct": "A" }
+    ]
+  },
+  {
+    "english": "allegro",
+    "pron": "əˈleɡroʊ",
+    "kana": "アレグロ",
+    "hinshi": "副詞 / 名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "イタリア語 allegro（陽気な）から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "音楽用語"],
+    "meaning_main": "アレグロ（速く快活に）／急速な楽章",
+    "description": "allegro（アレグロ）は音楽用語で「速く快活に」を表す。イタリア語由来の速度記号。その速さで書かれた楽章の名詞にもなる。例文で解説。",
+    "keywords": ["allegro 意味", "allegro 発音", "アレグロ 音楽", "速く 英語"],
+    "meanings": [
+      { "hinshi": "【副詞】速く快活に", "note": "楽譜の速度指示。テンポが速く生き生きと" },
+      { "hinshi": "【名詞】急速な楽章", "note": "アレグロで書かれた楽曲・楽章" }
+    ],
+    "usages": [
+      { "title": "① 速度記号", "desc": "楽譜に書かれ『速く・元気に演奏せよ』という指示。adagio の反対に近い。", "example_en": "The symphony opens with a lively allegro.", "example_ja": "その交響曲は生き生きとしたアレグロで始まる。" },
+      { "title": "② 楽章として", "desc": "第1楽章がアレグロであることが多い。", "example_en": "The first movement is marked allegro.", "example_ja": "第1楽章はアレグロと記されている。" }
+    ],
+    "warn": ["adagio（ゆるやかに）と対になる速度記号。", "presto はさらに速く、moderato は中庸の速さ。"],
+    "etym_note": "イタリア語 allegro（陽気な・快活な、俗ラテン語 alacer「活発な」から）。多くの音楽用語と同じくイタリア語由来。",
+    "etym_chain": [
+      { "node": "allegro", "sub": "陽気な・快活な", "era": "イタリア語" },
+      { "node": "allegro", "sub": "速く快活に", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a lively allegro", "ja": "生き生きとしたアレグロ" },
+      { "en": "played allegro", "ja": "アレグロで演奏される" },
+      { "en": "the first allegro", "ja": "第1のアレグロ楽章" },
+      { "en": "allegro tempo", "ja": "アレグロのテンポ" },
+      { "en": "marked allegro", "ja": "アレグロと記されて" },
+      { "en": "allegro molto", "ja": "非常に速く（アレグロ・モルト）" }
+    ],
+    "related": [
+      { "en": "adagio", "ja": "アダージョ（ゆるやかに）" },
+      { "en": "presto", "ja": "プレスト（きわめて速く）" },
+      { "en": "moderato", "ja": "モデラート（中庸の速さで）" },
+      { "en": "tempo", "ja": "テンポ・速度" }
+    ],
+    "faq": [
+      { "q": "allegro の速さは？", "a": "速く快活なテンポです。adagio（ゆるやか）より速く、presto（きわめて速い）より遅いのが目安です。" },
+      { "q": "反対の速度記号は？", "a": "adagio（ゆるやかに）や largo（幅広くゆるやかに）です。" }
+    ],
+    "quiz": [
+      { "q": "allegro の意味は？", "A": "速く快活に", "B": "とてもゆっくり", "C": "小さな音で", "D": "だんだん強く", "correct": "A" },
+      { "q": "allegro と対になる速度記号は？", "A": "adagio", "B": "forte", "C": "piano", "D": "staccato", "correct": "A" }
+    ]
+  },
+  {
+    "english": "allergic",
+    "pron": "əˈlɜːrdʒɪk",
+    "kana": "アラージック",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ギリシャ語 allos（他の）+ ergon（作用）",
+    "ld_level": "準1級",
+    "badges": ["中学生〜", "英検準1級", "CEFR B1", "医療用語"],
+    "meaning_main": "アレルギーの／（~に）アレルギーがある",
+    "description": "allergic（アラージック）は「アレルギーの、（~に）アレルギーがある」を表す形容詞。be allergic to ~ の形で頻出。使い方と例文を解説。",
+    "keywords": ["allergic 意味", "allergic 発音", "アレルギー 英語", "allergic to"],
+    "meanings": [
+      { "hinshi": "【形容詞】アレルギーがある", "note": "be allergic to ~ で『~にアレルギーがある』" },
+      { "hinshi": "【形容詞】（比喩）~が大の苦手", "note": "口語で『~が大嫌い』の意味でも" }
+    ],
+    "usages": [
+      { "title": "① ~にアレルギーがある", "desc": "食べ物・花粉などに体が過敏に反応すること。前置詞は to。", "example_en": "I'm allergic to peanuts.", "example_ja": "私はピーナッツアレルギーがある。" },
+      { "title": "② 比喩的に『大の苦手』", "desc": "口語で『~がまるでダメ・大嫌い』とおどけて言う。", "example_en": "He's allergic to hard work.", "example_ja": "彼は努力するのが大の苦手だ。" }
+    ],
+    "warn": ["前置詞は to（allergic to ~）。", "名詞は allergy（アレルギー）。発音は「アラジー」。"],
+    "etym_note": "ギリシャ語 allos（他の）+ ergon（作用）→ allergy（異なる反応）+ -ic。energy と同じ ergon 系。",
+    "etym_chain": [
+      { "node": "allos + ergon", "sub": "他の＋作用", "era": "ギリシャ語" },
+      { "node": "allergic", "sub": "アレルギーの", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "allergic to nuts", "ja": "ナッツにアレルギーがある" },
+      { "en": "allergic reaction", "ja": "アレルギー反応" },
+      { "en": "allergic to pollen", "ja": "花粉にアレルギーがある" },
+      { "en": "severely allergic", "ja": "重度のアレルギーがある" },
+      { "en": "allergic rhinitis", "ja": "アレルギー性鼻炎" },
+      { "en": "become allergic to", "ja": "~にアレルギーになる" }
+    ],
+    "related": [
+      { "en": "allergy", "ja": "アレルギー" },
+      { "en": "allergen", "ja": "アレルゲン" },
+      { "en": "reaction", "ja": "反応" },
+      { "en": "sensitive", "ja": "過敏な" }
+    ],
+    "faq": [
+      { "q": "allergic の前置詞は？", "a": "to を使います（be allergic to ~）。" },
+      { "q": "名詞形は？", "a": "allergy（アレルギー）です。原因物質は allergen（アレルゲン）といいます。" }
+    ],
+    "quiz": [
+      { "q": "be allergic to ~ の意味は？", "A": "~にアレルギーがある", "B": "~が好きだ", "C": "~を作る", "D": "~を売る", "correct": "A" },
+      { "q": "allergic と使う前置詞は？", "A": "to", "B": "at", "C": "for", "D": "of", "correct": "A" }
+    ]
+  },
+  {
+    "english": "alligator",
+    "pron": "ˈælɪɡeɪtər",
+    "kana": "アリゲイター",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "スペイン語 el lagarto（トカゲ）から",
+    "ld_level": "3級",
+    "badges": ["小学生〜", "英検3級", "CEFR A2", "可算名詞・動物"],
+    "meaning_main": "アリゲーター（ワニの一種）",
+    "description": "alligator（アリゲイター）は「アリゲーター（ワニの一種）」を表す名詞。crocodile との違い（口の形など）も解説。使い方と例文を紹介。",
+    "keywords": ["alligator 意味", "alligator 発音", "アリゲーター 英語", "crocodile 違い"],
+    "meanings": [
+      { "hinshi": "【名詞】アリゲーター", "note": "淡水にすむワニの一種。主に北米・中国に生息" }
+    ],
+    "usages": [
+      { "title": "① ワニの一種", "desc": "幅広い丸みのある口を持つワニ。米国南部の沼地などに多い。", "example_en": "An alligator was resting on the riverbank.", "example_ja": "アリゲーターが川岸で休んでいた。" },
+      { "title": "② crocodile との違い", "desc": "alligator は口がU字型で幅広く、crocodile はV字型で細長い。", "example_en": "Alligators have a wider snout than crocodiles.", "example_ja": "アリゲーターはクロコダイルより幅広い口を持つ。" }
+    ],
+    "warn": ["crocodile（クロコダイル）とは別種。口の形・生息地・歯の見え方が違う。", "語源はスペイン語 el lagarto（そのトカゲ）から。"],
+    "etym_note": "スペイン語 el lagarto（the lizard＝そのトカゲ）が英語で一語化して alligator に。",
+    "etym_chain": [
+      { "node": "el lagarto", "sub": "そのトカゲ", "era": "スペイン語" },
+      { "node": "alligator", "sub": "アリゲーター", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an alligator in the swamp", "ja": "沼地のアリゲーター" },
+      { "en": "alligator skin", "ja": "ワニ革" },
+      { "en": "a baby alligator", "ja": "アリゲーターの赤ちゃん" },
+      { "en": "American alligator", "ja": "アメリカアリゲーター" },
+      { "en": "alligators and crocodiles", "ja": "アリゲーターとクロコダイル" },
+      { "en": "see you later, alligator", "ja": "またね（英語の言葉遊び）" }
+    ],
+    "related": [
+      { "en": "crocodile", "ja": "クロコダイル（ワニ）" },
+      { "en": "reptile", "ja": "爬虫類" },
+      { "en": "lizard", "ja": "トカゲ" },
+      { "en": "swamp", "ja": "沼地" }
+    ],
+    "faq": [
+      { "q": "alligator と crocodile の違いは？", "a": "alligator は口がU字型で幅広く主に淡水にすみ、crocodile はV字型で細長く海水にも適応します。" },
+      { "q": "どこにすんでいる？", "a": "主にアメリカ南部と中国の淡水域（沼・川・湖）にすんでいます。" }
+    ],
+    "quiz": [
+      { "q": "alligator の意味は？", "A": "ワニの一種", "B": "トカゲ", "C": "カメ", "D": "ヘビ", "correct": "A" },
+      { "q": "alligator と crocodile の違いの一つは？", "A": "口の形", "B": "色だけ", "C": "鳴き声のみ", "D": "違いはない", "correct": "A" }
+    ]
+  },
+  {
+    "english": "allude",
+    "pron": "əˈluːd",
+    "kana": "アルード",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 alludere（それとなく触れる）から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "フォーマル"],
+    "meaning_main": "それとなく言及する／ほのめかす",
+    "description": "allude（アルード）は「（それとなく）言及する、ほのめかす」を表す動詞。allude to ~ の形で使う。直接言わず暗示するニュアンス。例文で解説。",
+    "keywords": ["allude 意味", "allude 発音", "ほのめかす 英語", "言及する 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】それとなく言及する・ほのめかす", "note": "allude to ~ で『~を暗に示す』。直接名指ししない" }
+    ],
+    "usages": [
+      { "title": "① 暗にほのめかす", "desc": "はっきり言わず、それとなく触れること。前置詞は to。", "example_en": "She alluded to some problems but gave no details.", "example_ja": "彼女はいくつかの問題をほのめかしたが、詳細は語らなかった。" },
+      { "title": "② 引用・暗示", "desc": "作品などが別の作品や出来事を暗にほのめかすこと。", "example_en": "The poem alludes to a Greek myth.", "example_ja": "その詩はギリシャ神話をほのめかしている。" }
+    ],
+    "warn": ["前置詞は to（allude to ~）。目的語を直接取らない。", "elude（巧みに逃れる）と混同注意。綴り・発音が似るが別語。名詞は allusion（暗示）。"],
+    "etym_note": "ラテン語 ad-（~へ）+ ludere（遊ぶ）→ alludere（それとなく戯れて触れる）。illusion, elude と同じ ludere 系。",
+    "etym_chain": [
+      { "node": "alludere", "sub": "それとなく触れる", "era": "ラテン語" },
+      { "node": "allude", "sub": "ほのめかす", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "allude to a problem", "ja": "問題をほのめかす" },
+      { "en": "allude to the past", "ja": "過去に暗に触れる" },
+      { "en": "as I alluded to earlier", "ja": "先ほど触れたように" },
+      { "en": "allude to a rumor", "ja": "うわさをほのめかす" },
+      { "en": "vaguely allude to", "ja": "漠然とほのめかす" },
+      { "en": "allude to his resignation", "ja": "彼の辞任を暗示する" }
+    ],
+    "related": [
+      { "en": "allusion", "ja": "暗示・ほのめかし・引喩" },
+      { "en": "hint", "ja": "ほのめかす・ヒント" },
+      { "en": "imply", "ja": "暗に示す" },
+      { "en": "refer", "ja": "言及する" }
+    ],
+    "faq": [
+      { "q": "allude と refer の違いは？", "a": "refer は直接はっきり言及すること、allude は名指しせず『それとなく』ほのめかすことです。" },
+      { "q": "elude と混同しやすい？", "a": "はい。elude は『（追跡などを）巧みに逃れる』で全く別の意味です。allude は to を伴う『ほのめかす』です。" }
+    ],
+    "quiz": [
+      { "q": "allude（to）の意味は？", "A": "それとなく言及する", "B": "強く否定する", "C": "大声で叫ぶ", "D": "正確に測る", "correct": "A" },
+      { "q": "allude と使う前置詞は？", "A": "to", "B": "at", "C": "for", "D": "with", "correct": "A" }
+    ]
+  },
+  {
+    "english": "albedo",
+    "pron": "ælˈbiːdoʊ",
+    "kana": "アルビードー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 albus（白い）から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "科学用語"],
+    "meaning_main": "アルベド（反射率）／（果皮の）白い内果皮",
+    "description": "albedo（アルビードー）は「アルベド（表面の反射率）」を表す名詞。気候学・天文学で使う。柑橘類の白いワタの意味もある。例文で解説。",
+    "keywords": ["albedo 意味", "albedo 発音", "反射率 英語", "アルベド 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】アルベド・反射率", "note": "地表や天体が太陽光をどれだけ反射するかの割合。0〜1で表す" },
+      { "hinshi": "【名詞】（柑橘の）白い内果皮", "note": "オレンジなどの皮の内側の白い部分（ワタ）" }
+    ],
+    "usages": [
+      { "title": "① 反射率（気候・天文）", "desc": "雪や氷は albedo が高く（白く反射）、暗い地表は低い。温暖化の議論で重要。", "example_en": "Snow has a high albedo, reflecting most sunlight.", "example_ja": "雪はアルベドが高く、日光の大半を反射する。" },
+      { "title": "② 柑橘の白いワタ", "desc": "植物学で、オレンジなどの皮の内側の白い層を指す。", "example_en": "The bitter white albedo lies under the orange peel.", "example_ja": "苦い白いワタ（内果皮）がオレンジの皮の下にある。" }
+    ],
+    "warn": ["高いほど『よく反射する（明るい）』。氷が解けると albedo が下がり温暖化が進む（アルベド効果）。", "発音は「アルビードー」。"],
+    "etym_note": "ラテン語 albus（白い）→ albedo（白さ）。album, albino と同語源。",
+    "etym_chain": [
+      { "node": "albus", "sub": "白い", "era": "ラテン語" },
+      { "node": "albedo", "sub": "反射率・白い内果皮", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "high albedo", "ja": "高い反射率" },
+      { "en": "low albedo", "ja": "低い反射率" },
+      { "en": "surface albedo", "ja": "地表の反射率" },
+      { "en": "ice albedo", "ja": "氷のアルベド" },
+      { "en": "the albedo effect", "ja": "アルベド効果" },
+      { "en": "planetary albedo", "ja": "惑星のアルベド" }
+    ],
+    "related": [
+      { "en": "reflectivity", "ja": "反射率" },
+      { "en": "reflection", "ja": "反射" },
+      { "en": "albino", "ja": "アルビノ・白化個体" },
+      { "en": "climate", "ja": "気候" }
+    ],
+    "faq": [
+      { "q": "albedo が高いとどうなる？", "a": "太陽光をよく反射します。雪や氷は albedo が高く、暗い地表や海は低いです。" },
+      { "q": "アルベド効果とは？", "a": "氷が解けて暗い地表・海が現れると反射が減り、さらに温暖化が進む悪循環のことです。" }
+    ],
+    "quiz": [
+      { "q": "albedo の意味は？", "A": "（表面の）反射率", "B": "気圧", "C": "湿度", "D": "標高", "correct": "A" },
+      { "q": "albedo が高いものは？", "A": "雪", "B": "アスファルト", "C": "黒い土", "D": "森林", "correct": "A" }
+    ]
+  }
+]
