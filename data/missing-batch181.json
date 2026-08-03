@@ -1,0 +1,986 @@
+[
+  {
+    "english": "cataract",
+    "pron": "ˈkætərækt",
+    "kana": "キャタラクト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 kataraktēs（激しく落ちる）由来",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "医学・自然"],
+    "meaning_main": "白内障／大きな滝",
+    "description": "cataractの意味・発音・使い方を解説。目の水晶体が濁る「白内障」と、大量の水が落ちる「大きな滝」の二つの意味を例文つきで整理。",
+    "keywords": ["cataract 意味", "cataract 白内障", "cataract 滝", "cataract 発音"],
+    "meanings": [
+      { "hinshi": "【名】白内障", "note": "目の水晶体が濁って視界がかすむ病気。多くは加齢による" },
+      { "hinshi": "【名】大きな滝／激流", "note": "waterfall より大規模で荒々しいものを指す文語的な語" }
+    ],
+    "usages": [
+      { "title": "① 白内障", "desc": "眼科の文脈で最もよく使われる意味。", "example_en": "She had surgery to remove the cataract in her left eye.", "example_ja": "彼女は左目の白内障を取り除く手術を受けた。" },
+      { "title": "② 大きな滝", "desc": "詩や紀行文で雄大な滝を描くときに使う。", "example_en": "The river plunged over the cliff in a thundering cataract.", "example_ja": "川は轟音を立てる激流となって崖を落ちていった。" }
+    ],
+    "warn": ["日常の「滝」は普通 waterfall。cataract を滝の意味で使うのは文語的", "白内障は複数形 cataracts で語られることも多い"],
+    "etym_note": "ギリシャ語 kataraktēs（下へ激しく落ちるもの、落とし格子）が語源。目の中に「幕が下りる」イメージから白内障の意味も生まれた。",
+    "etym_chain": [
+      { "node": "kataraktēs", "sub": "激しく落ちるもの", "era": "古代ギリシャ語" },
+      { "node": "cataracta", "sub": "滝・落とし格子", "era": "ラテン語" },
+      { "node": "cataract", "sub": "白内障・大滝", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "cataract surgery", "ja": "白内障手術" },
+      { "en": "develop a cataract", "ja": "白内障になる" },
+      { "en": "cataract removal", "ja": "白内障の除去" },
+      { "en": "a raging cataract", "ja": "荒れ狂う激流" },
+      { "en": "mature cataract", "ja": "進行した白内障" },
+      { "en": "cataract in the eye", "ja": "目の白内障" }
+    ],
+    "related": [
+      { "en": "waterfall", "ja": "滝" },
+      { "en": "surgery", "ja": "手術" },
+      { "en": "vision", "ja": "視力" },
+      { "en": "eye", "ja": "目" }
+    ],
+    "faq": [
+      { "q": "cataract と waterfall の違いは？", "a": "waterfall は一般的な「滝」。cataract は特に大規模で荒々しい滝を指す文語で、日常では白内障の意味の方がよく使われます。" },
+      { "q": "白内障は単数？複数？", "a": "片目なら a cataract、両目なら cataracts と複数にします。" }
+    ],
+    "quiz": [
+      { "q": "「白内障の手術を受けた」に合うのは？", "A": "He had cataract surgery.", "B": "He had a waterfall.", "C": "He had a cataract river.", "D": "He fell into a cataract.", "correct": "A" },
+      { "q": "cataract の語源のイメージは？", "A": "上へ昇る", "B": "激しく落ちる", "C": "円を描く", "D": "光る", "correct": "B" }
+    ]
+  },
+  {
+    "english": "catastrophe",
+    "pron": "kəˈtæstrəfi",
+    "kana": "カタストロフィ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 katastrophē（ひっくり返すこと）由来",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出"],
+    "meaning_main": "大惨事／破局／大失敗",
+    "description": "catastropheの意味・発音・使い方。地震などの「大惨事」から、計画の「大失敗」まで、深刻さの度合いと例文をわかりやすく解説。",
+    "keywords": ["catastrophe 意味", "catastrophe 発音", "catastrophe 使い方", "大惨事 英語"],
+    "meanings": [
+      { "hinshi": "【名】大惨事・大災害", "note": "多くの人に被害を与える深刻な出来事" },
+      { "hinshi": "【名】大失敗・破局", "note": "口語で「とんでもない失敗」を大げさに言うときにも使う" }
+    ],
+    "usages": [
+      { "title": "① 大災害", "desc": "自然災害や事故など深刻な出来事に。", "example_en": "The flood was a catastrophe for the whole region.", "example_ja": "その洪水は地域全体にとって大惨事だった。" },
+      { "title": "② 大失敗", "desc": "計画やイベントの失敗を強調する口語表現。", "example_en": "The party was a complete catastrophe.", "example_ja": "そのパーティーは完全な大失敗だった。" }
+    ],
+    "warn": ["形容詞は catastrophic（壊滅的な）", "disaster とほぼ同義だが catastrophe の方がより深刻・破局的な響き"],
+    "etym_note": "ギリシャ語 kata（下へ）+ strophē（回転）＝「ひっくり返すこと」。もとは悲劇の結末（どんでん返し）を指した。",
+    "etym_chain": [
+      { "node": "katastrophē", "sub": "ひっくり返すこと", "era": "古代ギリシャ語" },
+      { "node": "catastrophe", "sub": "悲劇の結末", "era": "16世紀英語" },
+      { "node": "catastrophe", "sub": "大惨事・大失敗", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an economic catastrophe", "ja": "経済的な大惨事" },
+      { "en": "avert a catastrophe", "ja": "大惨事を回避する" },
+      { "en": "a natural catastrophe", "ja": "自然災害" },
+      { "en": "on the brink of catastrophe", "ja": "破局の瀬戸際で" },
+      { "en": "end in catastrophe", "ja": "大失敗に終わる" },
+      { "en": "a total catastrophe", "ja": "完全な大失敗" }
+    ],
+    "related": [
+      { "en": "disaster", "ja": "災害・大失敗" },
+      { "en": "tragedy", "ja": "悲劇" },
+      { "en": "catastrophic", "ja": "壊滅的な" },
+      { "en": "crisis", "ja": "危機" }
+    ],
+    "faq": [
+      { "q": "disaster と catastrophe の違いは？", "a": "どちらも「大惨事」ですが、catastrophe の方がより深刻で取り返しのつかない破局を感じさせます。" },
+      { "q": "形容詞は？", "a": "catastrophic です。例：catastrophic damage（壊滅的な損害）。" }
+    ],
+    "quiz": [
+      { "q": "catastrophe の形容詞は？", "A": "catastrophal", "B": "catastrophic", "C": "catastrophous", "D": "catastrophical", "correct": "B" },
+      { "q": "「大惨事を回避する」に合うのは？", "A": "avert a catastrophe", "B": "invite a catastrophe", "C": "become a catastrophe", "D": "sell a catastrophe", "correct": "A" }
+    ]
+  },
+  {
+    "english": "catbird",
+    "pron": "ˈkætbɜːrd",
+    "kana": "キャットバード",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "cat（猫）+ bird（鳥）。鳴き声が猫に似ることから",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "動物・慣用句"],
+    "meaning_main": "ネコマネドリ（猫のような声で鳴く鳥）",
+    "description": "catbirdの意味・発音・使い方。猫のような鳴き声の北米の鳥「ネコマネドリ」と、有利な立場を表す慣用句 catbird seat を解説。",
+    "keywords": ["catbird 意味", "catbird seat", "catbird 鳥", "ネコマネドリ 英語"],
+    "meanings": [
+      { "hinshi": "【名】ネコマネドリ", "note": "北米に生息し、猫のニャーという声に似た鳴き方をする鳥" }
+    ],
+    "usages": [
+      { "title": "① 鳥のネコマネドリ", "desc": "バードウォッチングの文脈で使う。", "example_en": "A gray catbird was singing in the bushes.", "example_ja": "灰色のネコマネドリが茂みの中でさえずっていた。" },
+      { "title": "② 慣用句 catbird seat", "desc": "「非常に有利な立場」を意味する定番の言い回し。", "example_en": "After winning the deal, she was sitting in the catbird seat.", "example_ja": "その契約を勝ち取り、彼女は非常に有利な立場にいた。" }
+    ],
+    "warn": ["日常会話で単語単独より in the catbird seat（絶好の位置に）という慣用句でよく出る", "アメリカ英語の表現"],
+    "etym_note": "cat（猫）+ bird（鳥）。この鳥の鳴き声が猫の声に似ていることから名づけられた。慣用句 catbird seat は米国のスポーツ実況で広まった。",
+    "etym_chain": [
+      { "node": "cat + bird", "sub": "猫＋鳥", "era": "18世紀英語" },
+      { "node": "catbird", "sub": "ネコマネドリ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "in the catbird seat", "ja": "非常に有利な立場に" },
+      { "en": "a gray catbird", "ja": "ハイイロネコマネドリ" },
+      { "en": "the catbird's call", "ja": "ネコマネドリの鳴き声" },
+      { "en": "sit in the catbird seat", "ja": "絶好の立場にいる" },
+      { "en": "spot a catbird", "ja": "ネコマネドリを見つける" },
+      { "en": "a singing catbird", "ja": "さえずるネコマネドリ" }
+    ],
+    "related": [
+      { "en": "bird", "ja": "鳥" },
+      { "en": "cat", "ja": "猫" },
+      { "en": "mockingbird", "ja": "マネシツグミ" },
+      { "en": "nightingale", "ja": "ナイチンゲール" }
+    ],
+    "faq": [
+      { "q": "catbird はなぜこの名前？", "a": "鳴き声が猫のニャーという声に似ているためです。cat（猫）+ bird（鳥）の組み合わせです。" },
+      { "q": "catbird seat とは？", "a": "「非常に有利な立場」を表すアメリカの慣用句です。高い枝から見下ろす鳥のイメージが由来とされます。" }
+    ],
+    "quiz": [
+      { "q": "in the catbird seat の意味は？", "A": "困った状況で", "B": "非常に有利な立場で", "C": "静かな場所で", "D": "危険な場所で", "correct": "B" },
+      { "q": "catbird の名前の由来は？", "A": "猫を捕まえるから", "B": "鳴き声が猫に似ているから", "C": "猫の色だから", "D": "猫と暮らすから", "correct": "B" }
+    ]
+  },
+  {
+    "english": "catchphrase",
+    "pron": "ˈkætʃfreɪz",
+    "kana": "キャッチフレーズ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "catch（つかむ）+ phrase（言い回し）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出"],
+    "meaning_main": "決まり文句／キャッチフレーズ（人物や番組の）",
+    "description": "catchphraseの意味・発音・使い方。有名人や番組でおなじみの「決まり文句」を指す語で、和製英語のキャッチコピーとの違いも解説。",
+    "keywords": ["catchphrase 意味", "catchphrase 発音", "キャッチフレーズ 英語", "決まり文句 英語"],
+    "meanings": [
+      { "hinshi": "【名】決まり文句", "note": "特定の人物・キャラクター・番組が繰り返し使う、覚えやすい言い回し" }
+    ],
+    "usages": [
+      { "title": "① 人物の決まり文句", "desc": "芸人やキャラクターのおなじみのセリフに。", "example_en": "\"I'll be back\" is his most famous catchphrase.", "example_ja": "「アイル・ビー・バック」は彼の最も有名な決まり文句だ。" },
+      { "title": "② 番組・広告の合言葉", "desc": "テレビ番組やCMで繰り返される言葉に。", "example_en": "The show's catchphrase became popular among kids.", "example_ja": "その番組の決まり文句は子どもたちの間で流行した。" }
+    ],
+    "warn": ["日本語の「キャッチコピー（広告文）」は英語では slogan / tagline。catchphrase は主に人物・番組の繰り返しセリフ", "つづりは catch + phrase の1語"],
+    "etym_note": "catch（つかむ、心をとらえる）+ phrase（言い回し）。「耳に残る言い回し」というイメージ。",
+    "etym_chain": [
+      { "node": "catch + phrase", "sub": "つかむ＋言い回し", "era": "19世紀英語" },
+      { "node": "catchphrase", "sub": "決まり文句", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a famous catchphrase", "ja": "有名な決まり文句" },
+      { "en": "coin a catchphrase", "ja": "決まり文句を生み出す" },
+      { "en": "his signature catchphrase", "ja": "彼の代名詞的な決まり文句" },
+      { "en": "a memorable catchphrase", "ja": "印象的な決まり文句" },
+      { "en": "the show's catchphrase", "ja": "番組の決まり文句" },
+      { "en": "repeat a catchphrase", "ja": "決まり文句を繰り返す" }
+    ],
+    "related": [
+      { "en": "slogan", "ja": "スローガン・標語" },
+      { "en": "phrase", "ja": "言い回し" },
+      { "en": "motto", "ja": "座右の銘" },
+      { "en": "tagline", "ja": "宣伝文句" }
+    ],
+    "faq": [
+      { "q": "catchphrase と slogan の違いは？", "a": "catchphrase は人物や番組が繰り返す決まり文句。slogan は広告や運動の標語です。" },
+      { "q": "和製英語「キャッチコピー」は英語で？", "a": "広告の文句は tagline や slogan と言います。catchphrase は使いません。" }
+    ],
+    "quiz": [
+      { "q": "catchphrase の説明として正しいのは？", "A": "商品の値段", "B": "人物や番組の決まり文句", "C": "地図の記号", "D": "料理の名前", "correct": "B" },
+      { "q": "広告の「キャッチコピー」を表す英語は？", "A": "catchphrase", "B": "tagline", "C": "catbird", "D": "cataract", "correct": "B" }
+    ]
+  },
+  {
+    "english": "catharsis",
+    "pron": "kəˈθɑːrsɪs",
+    "kana": "カタルシス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 katharsis（浄化）由来",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "心理・芸術"],
+    "meaning_main": "カタルシス／感情の浄化・発散",
+    "description": "catharsisの意味・発音・使い方。ため込んだ感情を吐き出してすっきりする「浄化・発散」を指す語で、心理学・演劇での用法を解説。",
+    "keywords": ["catharsis 意味", "カタルシス 英語", "catharsis 発音", "感情の浄化 英語"],
+    "meanings": [
+      { "hinshi": "【名】感情の浄化・発散", "note": "ため込んだ強い感情を外に出して心が軽くなること" },
+      { "hinshi": "【名】カタルシス（演劇）", "note": "悲劇を見て観客の感情が浄化されるというアリストテレスの概念" }
+    ],
+    "usages": [
+      { "title": "① 感情の発散", "desc": "泣く・話すなどで気持ちがすっきりすること。", "example_en": "Crying can be a form of catharsis.", "example_ja": "泣くことは感情の浄化の一形態になり得る。" },
+      { "title": "② 芸術による浄化", "desc": "映画や演劇を通じた心の解放に。", "example_en": "The film offers a real sense of catharsis at the end.", "example_ja": "その映画は終盤に本物のカタルシスを味わわせてくれる。" }
+    ],
+    "warn": ["形容詞は cathartic（浄化作用のある）", "発音は「カ__サ__リス」に近く、th は θ の音"],
+    "etym_note": "ギリシャ語 katharsis（浄化、清めること）が語源。アリストテレスが『詩学』で悲劇の効果として用いたのが有名。",
+    "etym_chain": [
+      { "node": "katharos", "sub": "清らかな", "era": "古代ギリシャ語" },
+      { "node": "katharsis", "sub": "浄化", "era": "古代ギリシャ語" },
+      { "node": "catharsis", "sub": "感情の浄化", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a sense of catharsis", "ja": "浄化された感覚" },
+      { "en": "emotional catharsis", "ja": "感情の浄化" },
+      { "en": "provide catharsis", "ja": "カタルシスをもたらす" },
+      { "en": "achieve catharsis", "ja": "心の解放を得る" },
+      { "en": "a cathartic experience", "ja": "浄化作用のある体験" },
+      { "en": "through catharsis", "ja": "浄化を通じて" }
+    ],
+    "related": [
+      { "en": "relief", "ja": "安堵・軽減" },
+      { "en": "release", "ja": "解放" },
+      { "en": "cathartic", "ja": "浄化作用のある" },
+      { "en": "emotion", "ja": "感情" }
+    ],
+    "faq": [
+      { "q": "catharsis の形容詞は？", "a": "cathartic です。例：a cathartic cry(すっきりする泣き)。" },
+      { "q": "日常でどう使う？", "a": "「泣いたり話したりして気持ちがすっきりすること」を a form of catharsis のように表せます。" }
+    ],
+    "quiz": [
+      { "q": "catharsis の意味は？", "A": "感情の浄化・発散", "B": "計算の誤り", "C": "地下の洞窟", "D": "契約の破棄", "correct": "A" },
+      { "q": "catharsis の形容詞は？", "A": "catharsal", "B": "cathartic", "C": "catharsous", "D": "catharsic", "correct": "B" }
+    ]
+  },
+  {
+    "english": "catwalk",
+    "pron": "ˈkætwɔːk",
+    "kana": "キャットウォーク",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "cat（猫）+ walk（歩く道）。細い通路を猫が歩くイメージ",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "ファッション"],
+    "meaning_main": "ランウェイ（ファッションショーの舞台）／細い通路",
+    "description": "catwalkの意味・発音・使い方。ファッションショーでモデルが歩く「ランウェイ」と、高所の細い「通路」の二つの意味を例文で解説。",
+    "keywords": ["catwalk 意味", "キャットウォーク 英語", "catwalk ランウェイ", "catwalk 発音"],
+    "meanings": [
+      { "hinshi": "【名】ランウェイ（英）", "note": "ファッションショーでモデルが歩く細長い舞台。米では runway とも言う" },
+      { "hinshi": "【名】細い通路・歩み板", "note": "橋・舞台裏・工場などにある高所の狭い通路" }
+    ],
+    "usages": [
+      { "title": "① ファッションショーの舞台", "desc": "モデルが服を見せながら歩く場所。", "example_en": "The models walked down the catwalk in the latest designs.", "example_ja": "モデルたちは最新デザインの服でランウェイを歩いた。" },
+      { "title": "② 高所の細い通路", "desc": "舞台裏や橋の点検用の狭い道に。", "example_en": "Workers crossed the narrow catwalk above the stage.", "example_ja": "作業員たちは舞台の上の狭い通路を渡った。" }
+    ],
+    "warn": ["ファッションの意味では英で catwalk、米で runway が一般的", "つづりは cat + walk の1語"],
+    "etym_note": "cat（猫）+ walk（歩く道）。猫がバランスよく歩けるような細い通路、という発想から。ファッションの舞台にも転用された。",
+    "etym_chain": [
+      { "node": "cat + walk", "sub": "猫＋歩く道", "era": "19世紀英語" },
+      { "node": "catwalk", "sub": "細い通路・ランウェイ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "walk the catwalk", "ja": "ランウェイを歩く" },
+      { "en": "on the catwalk", "ja": "ランウェイ上で" },
+      { "en": "a catwalk model", "ja": "ランウェイモデル" },
+      { "en": "catwalk fashion", "ja": "ランウェイのファッション" },
+      { "en": "a narrow catwalk", "ja": "狭い通路" },
+      { "en": "strut down the catwalk", "ja": "ランウェイを闊歩する" }
+    ],
+    "related": [
+      { "en": "runway", "ja": "ランウェイ・滑走路" },
+      { "en": "model", "ja": "モデル" },
+      { "en": "fashion", "ja": "ファッション" },
+      { "en": "walkway", "ja": "通路" }
+    ],
+    "faq": [
+      { "q": "catwalk と runway の違いは？", "a": "同じ「ファッションショーの舞台」を指しますが、catwalk は主にイギリス英語、runway はアメリカ英語です。" },
+      { "q": "ファッション以外の意味は？", "a": "橋や工場、舞台裏にある高所の細い通路も catwalk と呼びます。" }
+    ],
+    "quiz": [
+      { "q": "ファッションショーで catwalk とは？", "A": "客席", "B": "モデルが歩く舞台", "C": "楽屋", "D": "照明器具", "correct": "B" },
+      { "q": "catwalk のアメリカ英語での言い方は？", "A": "runway", "B": "catbird", "C": "sidewalk", "D": "hallway", "correct": "A" }
+    ]
+  },
+  {
+    "english": "cavalry",
+    "pron": "ˈkævəlri",
+    "kana": "キャバルリー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 caballus（馬）由来のイタリア語 cavalleria から",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "軍事・歴史"],
+    "meaning_main": "騎兵隊／（現代では）機甲部隊",
+    "description": "cavalryの意味・発音・使い方。馬に乗った「騎兵隊」と、現代の戦車などによる「機甲部隊」を指す語で、Calvary（ゴルゴタの丘）との混同にも注意。",
+    "keywords": ["cavalry 意味", "cavalry 発音", "騎兵隊 英語", "cavalry calvary 違い"],
+    "meanings": [
+      { "hinshi": "【名】騎兵隊", "note": "馬に乗って戦う兵士の部隊。歴史的な意味" },
+      { "hinshi": "【名】機甲部隊", "note": "現代では戦車や装甲車を使う機動部隊も指す" }
+    ],
+    "usages": [
+      { "title": "① 歴史上の騎兵隊", "desc": "馬に乗った兵士の部隊に。", "example_en": "The cavalry charged across the open field.", "example_ja": "騎兵隊は開けた野原を突撃していった。" },
+      { "title": "② 助けの到来（比喩）", "desc": "「救援が来た」を表す口語表現でも使う。", "example_en": "Just when we needed help, the cavalry arrived.", "example_ja": "まさに助けが必要なとき、救援がやって来た。" }
+    ],
+    "warn": ["Calvary（キリストが磔にされたゴルゴタの丘）とつづり・発音が非常に紛らわしい。cava- が騎兵、Calva- が丘", "発音は「キャ__ル__リー」"],
+    "etym_note": "ラテン語 caballus（馬）→ イタリア語 cavalleria（騎馬隊）→ フランス語 cavalerie を経て英語に。cavalier（騎士）と同語源。",
+    "etym_chain": [
+      { "node": "caballus", "sub": "馬", "era": "ラテン語" },
+      { "node": "cavalleria", "sub": "騎馬隊", "era": "イタリア語" },
+      { "node": "cavalry", "sub": "騎兵隊", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the cavalry charged", "ja": "騎兵隊が突撃した" },
+      { "en": "a cavalry regiment", "ja": "騎兵連隊" },
+      { "en": "the cavalry arrived", "ja": "救援が到着した" },
+      { "en": "light cavalry", "ja": "軽騎兵" },
+      { "en": "join the cavalry", "ja": "騎兵隊に加わる" },
+      { "en": "here comes the cavalry", "ja": "救援が来たぞ" }
+    ],
+    "related": [
+      { "en": "infantry", "ja": "歩兵隊" },
+      { "en": "soldier", "ja": "兵士" },
+      { "en": "horse", "ja": "馬" },
+      { "en": "army", "ja": "軍隊" }
+    ],
+    "faq": [
+      { "q": "cavalry と Calvary の違いは？", "a": "cavalry は「騎兵隊」、Calvary はキリストが処刑されたゴルゴタの丘です。つづりが似ているので要注意です。" },
+      { "q": "the cavalry arrived の比喩の意味は？", "a": "「待ち望んだ救援・助けがやって来た」という意味の口語表現です。" }
+    ],
+    "quiz": [
+      { "q": "cavalry の元々の意味は？", "A": "歩兵隊", "B": "騎兵隊", "C": "海軍", "D": "空軍", "correct": "B" },
+      { "q": "cavalry と混同しやすい語は？", "A": "Calvary（ゴルゴタの丘）", "B": "calorie（カロリー）", "C": "cavity（虫歯の穴）", "D": "cable（ケーブル）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "cavern",
+    "pron": "ˈkævərn",
+    "kana": "キャバーン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 caverna（洞窟）由来",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "自然"],
+    "meaning_main": "（大きな）洞窟・洞穴",
+    "description": "cavernの意味・発音・使い方。cave より大きく深い「洞窟」を指す語で、形容詞 cavernous（洞窟のように広い）も含めて例文で解説。",
+    "keywords": ["cavern 意味", "cavern 発音", "洞窟 英語", "cave cavern 違い"],
+    "meanings": [
+      { "hinshi": "【名】大きな洞窟", "note": "cave よりも大規模で奥深い地下の空洞" }
+    ],
+    "usages": [
+      { "title": "① 大きな洞窟", "desc": "観光地の鍾乳洞や地下空間に。", "example_en": "They explored a huge underground cavern.", "example_ja": "彼らは巨大な地下洞窟を探検した。" },
+      { "title": "② 洞窟のように広い（形容詞）", "desc": "cavernous で「がらんと広い」の意味に。", "example_en": "The hall was cavernous and almost empty.", "example_ja": "そのホールは洞窟のように広く、ほとんど無人だった。" }
+    ],
+    "warn": ["cave（洞窟）より大きく深いものを指す", "形容詞 cavernous は「がらんとして広い」の意味でよく使う"],
+    "etym_note": "ラテン語 caverna（洞窟）が語源で、cavus（うつろな、くぼんだ）から派生。cave と同系統。",
+    "etym_chain": [
+      { "node": "cavus", "sub": "うつろな", "era": "ラテン語" },
+      { "node": "caverna", "sub": "洞窟", "era": "ラテン語" },
+      { "node": "cavern", "sub": "大きな洞窟", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an underground cavern", "ja": "地下の洞窟" },
+      { "en": "a vast cavern", "ja": "広大な洞窟" },
+      { "en": "explore a cavern", "ja": "洞窟を探検する" },
+      { "en": "a dark cavern", "ja": "暗い洞窟" },
+      { "en": "deep in the cavern", "ja": "洞窟の奥深くに" },
+      { "en": "a cavernous hall", "ja": "がらんと広いホール" }
+    ],
+    "related": [
+      { "en": "cave", "ja": "洞窟" },
+      { "en": "cavernous", "ja": "洞窟のように広い" },
+      { "en": "tunnel", "ja": "トンネル" },
+      { "en": "grotto", "ja": "小洞窟" }
+    ],
+    "faq": [
+      { "q": "cave と cavern の違いは？", "a": "どちらも洞窟ですが、cavern は cave より大きく深い、規模の大きな洞窟を指すことが多いです。" },
+      { "q": "cavernous とは？", "a": "「洞窟のように広くがらんとした」という意味の形容詞です。" }
+    ],
+    "quiz": [
+      { "q": "cavern の意味は？", "A": "小さな川", "B": "大きな洞窟", "C": "高い山", "D": "広い草原", "correct": "B" },
+      { "q": "cavern の形容詞 cavernous の意味は？", "A": "とても小さい", "B": "洞窟のように広くがらんとした", "C": "明るく暖かい", "D": "騒がしい", "correct": "B" }
+    ]
+  },
+  {
+    "english": "caviar",
+    "pron": "ˈkæviɑːr",
+    "kana": "キャビア",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "トルコ語 havyar 由来。チョウザメの卵",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "食べ物"],
+    "meaning_main": "キャビア（チョウザメの卵の塩漬け）",
+    "description": "caviarの意味・発音・使い方。世界三大珍味の一つ、チョウザメの卵の塩漬け「キャビア」を指す語で、高級・ぜいたくの象徴としての使い方も解説。",
+    "keywords": ["caviar 意味", "キャビア 英語", "caviar 発音", "caviar 珍味"],
+    "meanings": [
+      { "hinshi": "【名】キャビア", "note": "チョウザメ(sturgeon)の卵を塩漬けにした高級食材。不可算名詞" }
+    ],
+    "usages": [
+      { "title": "① 高級食材として", "desc": "パーティーや高級料理の文脈で。", "example_en": "They served caviar and champagne at the party.", "example_ja": "パーティーではキャビアとシャンパンが振る舞われた。" },
+      { "title": "② ぜいたくの象徴", "desc": "「高価でぜいたくなもの」の比喩に。", "example_en": "Caviar is often seen as a symbol of luxury.", "example_ja": "キャビアはしばしばぜいたくの象徴と見なされる。" }
+    ],
+    "warn": ["不可算名詞なので a caviar とは言わず、some caviar のように使う", "caviare というつづりもある"],
+    "etym_note": "トルコ語 havyar（魚卵）が語源。イタリア語 caviale などを経て英語に入った。",
+    "etym_chain": [
+      { "node": "havyar", "sub": "魚卵", "era": "トルコ語" },
+      { "node": "caviale", "sub": "魚卵の塩漬け", "era": "イタリア語" },
+      { "node": "caviar", "sub": "キャビア", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a spoonful of caviar", "ja": "スプーン一杯のキャビア" },
+      { "en": "black caviar", "ja": "黒いキャビア" },
+      { "en": "caviar and champagne", "ja": "キャビアとシャンパン" },
+      { "en": "serve caviar", "ja": "キャビアを出す" },
+      { "en": "expensive caviar", "ja": "高価なキャビア" },
+      { "en": "a taste of caviar", "ja": "キャビアの味" }
+    ],
+    "related": [
+      { "en": "sturgeon", "ja": "チョウザメ" },
+      { "en": "luxury", "ja": "ぜいたく" },
+      { "en": "delicacy", "ja": "珍味" },
+      { "en": "champagne", "ja": "シャンパン" }
+    ],
+    "faq": [
+      { "q": "caviar は何の卵？", "a": "チョウザメ(sturgeon)の卵を塩漬けにしたものです。世界三大珍味の一つとされます。" },
+      { "q": "a caviar と言える？", "a": "不可算名詞なので通常 a はつけません。some caviar のように使います。" }
+    ],
+    "quiz": [
+      { "q": "caviar は何の卵？", "A": "サケ", "B": "チョウザメ", "C": "タラ", "D": "ニシン", "correct": "B" },
+      { "q": "caviar の性質として正しいのは？", "A": "可算名詞である", "B": "不可算名詞で高級食材である", "C": "動詞である", "D": "形容詞である", "correct": "B" }
+    ]
+  },
+  {
+    "english": "cebu",
+    "pron": "seɪˈbuː",
+    "kana": "セブ",
+    "hinshi": "名詞（固有名詞）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "フィリピンの地名。現地語 Sugbo に由来",
+    "ld_level": "-",
+    "badges": ["固有名詞", "地名", "フィリピン", "検索ログ由来"],
+    "meaning_main": "セブ（フィリピンの島・都市）",
+    "description": "Cebuの意味・発音・使い方。フィリピン中部のセブ島とその中心都市セブシティを指す固有名詞。リゾートや語学留学先として有名な地名です。",
+    "keywords": ["Cebu 意味", "セブ 英語", "Cebu フィリピン", "Cebu 発音"],
+    "meanings": [
+      { "hinshi": "【固有名詞】セブ", "note": "フィリピン中部ビサヤ地方の島、およびその中心都市セブシティ(Cebu City)" }
+    ],
+    "usages": [
+      { "title": "① リゾート地として", "desc": "美しいビーチで知られる観光地。", "example_en": "We spent our vacation on the beaches of Cebu.", "example_ja": "私たちはセブのビーチで休暇を過ごした。" },
+      { "title": "② 語学留学先として", "desc": "英語留学の行き先としても人気。", "example_en": "Many students go to Cebu to study English.", "example_ja": "多くの学生が英語を学びにセブへ行く。" }
+    ],
+    "warn": ["英単語ではなくフィリピンの地名（固有名詞）。検索ログから採録", "発音は「セブー」で後半にアクセント。先頭は大文字 Cebu"],
+    "etym_note": "現地の古い呼称 Sugbo（焼けた大地の意）に由来するとされる。スペイン統治時代に Cebu と綴られるようになった。",
+    "etym_chain": [
+      { "node": "Sugbo", "sub": "現地の呼称", "era": "先スペイン期" },
+      { "node": "Cebu", "sub": "セブ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Cebu City", "ja": "セブシティ" },
+      { "en": "the island of Cebu", "ja": "セブ島" },
+      { "en": "fly to Cebu", "ja": "セブへ飛ぶ" },
+      { "en": "study English in Cebu", "ja": "セブで英語を学ぶ" },
+      { "en": "the beaches of Cebu", "ja": "セブのビーチ" },
+      { "en": "a resort in Cebu", "ja": "セブのリゾート" }
+    ],
+    "related": [
+      { "en": "philippines", "ja": "フィリピン" },
+      { "en": "island", "ja": "島" },
+      { "en": "manila", "ja": "マニラ" },
+      { "en": "resort", "ja": "リゾート" }
+    ],
+    "faq": [
+      { "q": "Cebu とはどこ？", "a": "フィリピン中部にあるセブ島と、その中心都市セブシティを指します。リゾートや英語留学で有名です。" },
+      { "q": "英単語ではないの？", "a": "はい、固有名詞（地名）です。サイト内検索で入力されたため参考として掲載しています。" }
+    ],
+    "quiz": [
+      { "q": "Cebu はどの国の地名？", "A": "タイ", "B": "フィリピン", "C": "ベトナム", "D": "インドネシア", "correct": "B" },
+      { "q": "Cebu が留学先として有名なのは何を学ぶため？", "A": "フランス語", "B": "英語", "C": "中国語", "D": "スペイン語", "correct": "B" }
+    ]
+  },
+  {
+    "english": "cedar",
+    "pron": "ˈsiːdər",
+    "kana": "シーダー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 kedros 由来",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "植物"],
+    "meaning_main": "ヒマラヤスギ／スギ（針葉樹の一種）／その木材",
+    "description": "cedarの意味・発音・使い方。よい香りで知られる針葉樹シーダー（ヒマラヤスギなど）とその木材を指す語。日本のスギ(Japanese cedar)との関係も解説。",
+    "keywords": ["cedar 意味", "cedar 発音", "シーダー 英語", "cedar 木"],
+    "meanings": [
+      { "hinshi": "【名】シーダー（針葉樹）", "note": "ヒマラヤスギなど、よい香りの常緑針葉樹の総称" },
+      { "hinshi": "【名】シーダー材", "note": "その木から取れる、防虫効果のある香り高い木材" }
+    ],
+    "usages": [
+      { "title": "① 木そのもの", "desc": "庭園や山にそびえる針葉樹に。", "example_en": "A tall cedar stood at the edge of the garden.", "example_ja": "背の高いシーダーが庭の端に立っていた。" },
+      { "title": "② 木材として", "desc": "家具やクローゼットの材料に。", "example_en": "The chest was made of fragrant cedar.", "example_ja": "そのたんすは香りのよいシーダー材で作られていた。" }
+    ],
+    "warn": ["日本のスギは正確には Japanese cedar（学術的には別属）", "香りに防虫効果があり、クローゼットや箱によく使われる"],
+    "etym_note": "ギリシャ語 kedros → ラテン語 cedrus を経て英語に。レバノン杉(cedar of Lebanon)は古代から神殿建築の高級材だった。",
+    "etym_chain": [
+      { "node": "kedros", "sub": "杉の木", "era": "古代ギリシャ語" },
+      { "node": "cedrus", "sub": "杉", "era": "ラテン語" },
+      { "node": "cedar", "sub": "シーダー", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a cedar tree", "ja": "シーダーの木" },
+      { "en": "cedar wood", "ja": "シーダー材" },
+      { "en": "cedar of Lebanon", "ja": "レバノン杉" },
+      { "en": "a cedar chest", "ja": "シーダー材のたんす" },
+      { "en": "the scent of cedar", "ja": "シーダーの香り" },
+      { "en": "towering cedars", "ja": "そびえ立つシーダー" }
+    ],
+    "related": [
+      { "en": "pine", "ja": "松" },
+      { "en": "tree", "ja": "木" },
+      { "en": "wood", "ja": "木材" },
+      { "en": "forest", "ja": "森" }
+    ],
+    "faq": [
+      { "q": "cedar は日本のスギと同じ？", "a": "近い仲間ですが、日本のスギは Japanese cedar と呼ばれ、植物学的には別の属です。" },
+      { "q": "cedar 材の特徴は？", "a": "よい香りがあり防虫効果が高いため、クローゼットや箱、家具によく使われます。" }
+    ],
+    "quiz": [
+      { "q": "cedar とは何の一種？", "A": "花", "B": "針葉樹", "C": "野菜", "D": "果物", "correct": "B" },
+      { "q": "cedar 材がよく使われる理由は？", "A": "重くて丈夫だから", "B": "よい香りと防虫効果があるから", "C": "水に浮くから", "D": "色が白いから", "correct": "B" }
+    ]
+  },
+  {
+    "english": "cede",
+    "pron": "siːd",
+    "kana": "シード",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 cedere（譲る・退く）由来",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "法律・政治"],
+    "meaning_main": "（領土・権利を）譲渡する／割譲する",
+    "description": "cedeの意味・発音・使い方。領土や権利を（しぶしぶ）「譲り渡す・割譲する」を意味する動詞。seed(種)との同音や派生語 concede も解説。",
+    "keywords": ["cede 意味", "cede 発音", "割譲する 英語", "cede 使い方"],
+    "meanings": [
+      { "hinshi": "【動】譲渡する・割譲する", "note": "領土・権利・地位などを（多くは条約や圧力で）正式に譲り渡す" }
+    ],
+    "usages": [
+      { "title": "① 領土の割譲", "desc": "戦争や条約による領土の引き渡しに。", "example_en": "The country was forced to cede the territory after the war.", "example_ja": "その国は戦後、その領土を割譲することを余儀なくされた。" },
+      { "title": "② 権利・地位を譲る", "desc": "権利や優位を相手に明け渡すことに。", "example_en": "He refused to cede control of the company.", "example_ja": "彼は会社の支配権を譲ることを拒んだ。" }
+    ],
+    "warn": ["seed（種）と同音なので文脈で判断", "cede to（〜に譲る）の形。concede（認める・譲歩する）と混同しない"],
+    "etym_note": "ラテン語 cedere（行く、退く、譲る）が語源。concede（認める）、recede（退く）、precede（先立つ）と同語根。",
+    "etym_chain": [
+      { "node": "cedere", "sub": "退く・譲る", "era": "ラテン語" },
+      { "node": "ceder", "sub": "譲る", "era": "古フランス語" },
+      { "node": "cede", "sub": "割譲する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "cede territory", "ja": "領土を割譲する" },
+      { "en": "cede control", "ja": "支配権を譲る" },
+      { "en": "cede power", "ja": "権力を譲る" },
+      { "en": "cede rights to", "ja": "〜に権利を譲渡する" },
+      { "en": "cede ground", "ja": "陣地を譲る・譲歩する" },
+      { "en": "be forced to cede", "ja": "割譲を強いられる" }
+    ],
+    "related": [
+      { "en": "concede", "ja": "認める・譲歩する" },
+      { "en": "surrender", "ja": "明け渡す" },
+      { "en": "yield", "ja": "譲る" },
+      { "en": "grant", "ja": "与える" }
+    ],
+    "faq": [
+      { "q": "cede と concede の違いは？", "a": "cede は「（領土・権利を）譲り渡す」。concede は「（負けや事実を）認める、譲歩する」です。" },
+      { "q": "cede と seed の関係は？", "a": "発音が同じ(siːd)なだけで意味は無関係です。seed は「種」です。" }
+    ],
+    "quiz": [
+      { "q": "cede the territory の意味は？", "A": "領土を守る", "B": "領土を割譲する", "C": "領土を広げる", "D": "領土を探す", "correct": "B" },
+      { "q": "cede と同音の語は？", "A": "side", "B": "seed", "C": "sad", "D": "said", "correct": "B" }
+    ]
+  },
+  {
+    "english": "cedilla",
+    "pron": "sɪˈdɪlə",
+    "kana": "セディーユ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "スペイン語 cedilla（小さな z）由来",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "言語学"],
+    "meaning_main": "セディーユ（ç の下につく符号）",
+    "description": "cedillaの意味・発音・使い方。フランス語などで ç の下につけ、c を s の音で読ませる発音符号「セディーユ」を指す語。façade などの例で解説。",
+    "keywords": ["cedilla 意味", "セディーユ 英語", "cedilla ç", "発音符号 英語"],
+    "meanings": [
+      { "hinshi": "【名】セディーユ", "note": "文字の下につける鉤(かぎ)形の符号。フランス語などで c を s の音にするために使う(ç)" }
+    ],
+    "usages": [
+      { "title": "① 発音符号として", "desc": "ç の説明で使う言語学の用語。", "example_en": "The word \"facade\" is sometimes written with a cedilla under the c.", "example_ja": "facade という語は c の下にセディーユをつけて書かれることがある。" },
+      { "title": "② 各言語での用法", "desc": "フランス語・ポルトガル語・トルコ語などで使う。", "example_en": "In French, the cedilla shows that the c is pronounced like an s.", "example_ja": "フランス語ではセディーユは c が s のように発音されることを示す。" }
+    ],
+    "warn": ["英単語というより言語学・タイポグラフィの用語", "ç の符号そのものを指し、accent(アクセント記号)とは別物"],
+    "etym_note": "スペイン語 cedilla（「小さな z」の意）が語源。もとは c の下に小さな z を書いて特殊な音を示したことに由来する。",
+    "etym_chain": [
+      { "node": "ceda", "sub": "文字 z", "era": "スペイン語" },
+      { "node": "cedilla", "sub": "小さな z", "era": "スペイン語" },
+      { "node": "cedilla", "sub": "セディーユ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a cedilla under the c", "ja": "c の下のセディーユ" },
+      { "en": "add a cedilla", "ja": "セディーユをつける" },
+      { "en": "the letter ç", "ja": "ç という文字" },
+      { "en": "with a cedilla", "ja": "セディーユつきで" },
+      { "en": "a French cedilla", "ja": "フランス語のセディーユ" },
+      { "en": "pronounce with a cedilla", "ja": "セディーユつきで発音する" }
+    ],
+    "related": [
+      { "en": "accent", "ja": "アクセント記号" },
+      { "en": "letter", "ja": "文字" },
+      { "en": "diacritic", "ja": "発音区別符号" },
+      { "en": "spelling", "ja": "つづり" }
+    ],
+    "faq": [
+      { "q": "cedilla はどんな符号？", "a": "ç のように文字の下につける鉤形の符号で、フランス語では c を s の音で読ませることを示します。" },
+      { "q": "英単語で使う？", "a": "façade など一部の外来語で見られますが、英語では省略されることも多い言語学用語です。" }
+    ],
+    "quiz": [
+      { "q": "cedilla がつく代表的な文字は？", "A": "ñ", "B": "ç", "C": "ü", "D": "å", "correct": "B" },
+      { "q": "フランス語で ç のセディーユが示すのは？", "A": "c を k の音にする", "B": "c を s の音にする", "C": "母音を伸ばす", "D": "無音にする", "correct": "B" }
+    ]
+  },
+  {
+    "english": "celery",
+    "pron": "ˈseləri",
+    "kana": "セロリ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 selinon（パセリ類）由来",
+    "ld_level": "3級",
+    "badges": ["小学生〜", "英検3級", "CEFR A2", "食べ物"],
+    "meaning_main": "セロリ（野菜）",
+    "description": "celeryの意味・発音・使い方。シャキシャキした茎を食べる野菜「セロリ」を指す語。不可算名詞としての数え方(a stick of celery)も解説。",
+    "keywords": ["celery 意味", "セロリ 英語", "celery 発音", "celery 野菜"],
+    "meanings": [
+      { "hinshi": "【名】セロリ", "note": "独特の香りとシャキシャキした食感を持つ緑色の野菜。不可算名詞" }
+    ],
+    "usages": [
+      { "title": "① 食材として", "desc": "サラダやスープの材料に。", "example_en": "I added some celery to the soup.", "example_ja": "私はスープにセロリを少し加えた。" },
+      { "title": "② 数え方", "desc": "1本は a stick of celery と言う。", "example_en": "She ate a stick of celery as a snack.", "example_ja": "彼女はおやつにセロリを1本食べた。" }
+    ],
+    "warn": ["不可算名詞。1本は a stick of celery、2本は two sticks of celery", "salary(給料)と発音が少し似ているので注意"],
+    "etym_note": "ギリシャ語 selinon（セリ科の植物）→ イタリア語方言 seleri を経て英語に。もとは薬草として使われた。",
+    "etym_chain": [
+      { "node": "selinon", "sub": "セリ科の植物", "era": "古代ギリシャ語" },
+      { "node": "seleri", "sub": "セロリ", "era": "イタリア語方言" },
+      { "node": "celery", "sub": "セロリ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a stick of celery", "ja": "セロリ1本" },
+      { "en": "chopped celery", "ja": "刻んだセロリ" },
+      { "en": "celery soup", "ja": "セロリのスープ" },
+      { "en": "fresh celery", "ja": "新鮮なセロリ" },
+      { "en": "celery and carrots", "ja": "セロリとにんじん" },
+      { "en": "a stalk of celery", "ja": "セロリの一茎" }
+    ],
+    "related": [
+      { "en": "carrot", "ja": "にんじん" },
+      { "en": "vegetable", "ja": "野菜" },
+      { "en": "lettuce", "ja": "レタス" },
+      { "en": "onion", "ja": "たまねぎ" }
+    ],
+    "faq": [
+      { "q": "celery は数えられる？", "a": "不可算名詞です。1本を数えるときは a stick of celery や a stalk of celery と言います。" },
+      { "q": "salary と紛らわしい？", "a": "つづり・発音が似ていますが、celery は「セロリ」、salary は「給料」で全く別の語です。" }
+    ],
+    "quiz": [
+      { "q": "celery とは？", "A": "果物", "B": "野菜", "C": "肉", "D": "調味料", "correct": "B" },
+      { "q": "「セロリ1本」の言い方は？", "A": "a celery", "B": "a stick of celery", "C": "a piece of celeries", "D": "one celery bar", "correct": "B" }
+    ]
+  },
+  {
+    "english": "cellist",
+    "pron": "ˈtʃelɪst",
+    "kana": "チェリスト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "cello（チェロ）+ -ist（〜する人）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "音楽"],
+    "meaning_main": "チェロ奏者・チェリスト",
+    "description": "cellistの意味・発音・使い方。チェロを演奏する人「チェリスト」を指す語。先頭が ch でなく「チェ」と読む発音のポイントも解説。",
+    "keywords": ["cellist 意味", "チェリスト 英語", "cellist 発音", "cello 奏者"],
+    "meanings": [
+      { "hinshi": "【名】チェロ奏者", "note": "弦楽器チェロ(cello)を演奏する音楽家" }
+    ],
+    "usages": [
+      { "title": "① 演奏家として", "desc": "オーケストラや独奏の文脈で。", "example_en": "She is a talented cellist in the orchestra.", "example_ja": "彼女はオーケストラの才能あるチェリストだ。" },
+      { "title": "② 職業・肩書きとして", "desc": "プロの音楽家を紹介するときに。", "example_en": "He became a professional cellist at twenty.", "example_ja": "彼は20歳でプロのチェリストになった。" }
+    ],
+    "warn": ["発音は「セリスト」ではなく「チェリスト(tʃelɪst)」。cello 由来", "つづりは cell + ist ではなく cello から o を取った形"],
+    "etym_note": "イタリア語 violoncello（チェロ）の短縮形 cello に、人を表す接尾辞 -ist がついた語。",
+    "etym_chain": [
+      { "node": "violoncello", "sub": "チェロ", "era": "イタリア語" },
+      { "node": "cello", "sub": "チェロ", "era": "現代英語" },
+      { "node": "cellist", "sub": "チェロ奏者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a talented cellist", "ja": "才能あるチェリスト" },
+      { "en": "a professional cellist", "ja": "プロのチェリスト" },
+      { "en": "a famous cellist", "ja": "有名なチェリスト" },
+      { "en": "the principal cellist", "ja": "首席チェロ奏者" },
+      { "en": "become a cellist", "ja": "チェリストになる" },
+      { "en": "a solo cellist", "ja": "独奏チェリスト" }
+    ],
+    "related": [
+      { "en": "cello", "ja": "チェロ" },
+      { "en": "violinist", "ja": "バイオリニスト" },
+      { "en": "pianist", "ja": "ピアニスト" },
+      { "en": "orchestra", "ja": "オーケストラ" }
+    ],
+    "faq": [
+      { "q": "cellist の発音は？", "a": "「チェリスト(tʃelɪst)」です。cello（チェロ）に由来し、先頭は「チェ」と読みます。" },
+      { "q": "どんな楽器の奏者？", "a": "弦楽器のチェロ(cello)を演奏する人です。" }
+    ],
+    "quiz": [
+      { "q": "cellist が演奏する楽器は？", "A": "ピアノ", "B": "チェロ", "C": "フルート", "D": "ドラム", "correct": "B" },
+      { "q": "cellist の正しい発音は？", "A": "セリスト", "B": "チェリスト", "C": "ケリスト", "D": "セロリスト", "correct": "B" }
+    ]
+  },
+  {
+    "english": "cellular",
+    "pron": "ˈseljələr",
+    "kana": "セルラー",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 cellula（小部屋）由来。cell(細胞・小区画)の形容詞",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "科学・通信"],
+    "meaning_main": "細胞の／（携帯電話の）セル方式の",
+    "description": "cellularの意味・発音・使い方。生物の「細胞の」と、通信の「携帯電話の・セル方式の」という二つの意味を持つ形容詞。cellular phone の由来も解説。",
+    "keywords": ["cellular 意味", "cellular 発音", "細胞の 英語", "cellular phone"],
+    "meanings": [
+      { "hinshi": "【形】細胞の・細胞から成る", "note": "生物学で「細胞に関する」の意味" },
+      { "hinshi": "【形】携帯電話の・セル方式の", "note": "通信網を小さなセル(区域)に分ける方式から。cellular phone＝携帯電話" }
+    ],
+    "usages": [
+      { "title": "① 細胞の（生物）", "desc": "生物学・医学の文脈で。", "example_en": "The drug works at the cellular level.", "example_ja": "その薬は細胞レベルで作用する。" },
+      { "title": "② 携帯電話の（通信）", "desc": "特にアメリカで cell phone の元になった表現。", "example_en": "He bought a new cellular phone.", "example_ja": "彼は新しい携帯電話を買った。" }
+    ],
+    "warn": ["名詞 cell は「細胞」「独房」「電池」「(通信の)セル」など多義", "cellular phone は米で略して cell phone、英では mobile phone"],
+    "etym_note": "ラテン語 cellula（小部屋、cellの縮小形）が語源。通信では基地局がカバーする小区域を cell と呼ぶことから「セル方式の」の意味が生まれた。",
+    "etym_chain": [
+      { "node": "cellula", "sub": "小部屋", "era": "ラテン語" },
+      { "node": "cellular", "sub": "小部屋から成る", "era": "17世紀英語" },
+      { "node": "cellular", "sub": "細胞の・携帯の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "cellular level", "ja": "細胞レベル" },
+      { "en": "a cellular phone", "ja": "携帯電話" },
+      { "en": "cellular structure", "ja": "細胞構造" },
+      { "en": "cellular network", "ja": "携帯電話網" },
+      { "en": "cellular damage", "ja": "細胞の損傷" },
+      { "en": "cellular data", "ja": "モバイルデータ通信" }
+    ],
+    "related": [
+      { "en": "cell", "ja": "細胞・電池・独房" },
+      { "en": "mobile", "ja": "携帯の" },
+      { "en": "biology", "ja": "生物学" },
+      { "en": "network", "ja": "ネットワーク" }
+    ],
+    "faq": [
+      { "q": "cellular はなぜ携帯電話の意味に？", "a": "携帯電話網は各基地局がカバーする小区域(cell)の集まりで成り立つため、「セル方式の」→「携帯の」という意味になりました。" },
+      { "q": "cell phone との関係は？", "a": "cellular phone を短くしたのが cell phone です。英国では mobile phone と言います。" }
+    ],
+    "quiz": [
+      { "q": "cellular level の意味は？", "A": "地下のレベル", "B": "細胞レベル", "C": "上級レベル", "D": "音量のレベル", "correct": "B" },
+      { "q": "cellular phone を略した米語は？", "A": "mobile phone", "B": "cell phone", "C": "smart phone", "D": "pay phone", "correct": "B" }
+    ]
+  },
+  {
+    "english": "censorious",
+    "pron": "senˈsɔːriəs",
+    "kana": "センソーリアス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 censorius（監察官の）由来",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "性格・態度"],
+    "meaning_main": "あら探しをする／批判的な・厳しく非難する",
+    "description": "censoriousの意味・発音・使い方。他人のあらを探して厳しく批判したがる性格を表す形容詞。censor(検閲する)との関係も解説。",
+    "keywords": ["censorious 意味", "censorious 発音", "批判的な 英語", "あら探し 英語"],
+    "meanings": [
+      { "hinshi": "【形】あら探しをする・批判的な", "note": "他人の欠点をことさら見つけて厳しく非難したがる様子" }
+    ],
+    "usages": [
+      { "title": "① 批判的な態度", "desc": "厳しく人を裁く性格の描写に。", "example_en": "She gave me a censorious look.", "example_ja": "彼女は私を非難がましい目で見た。" },
+      { "title": "② あら探し好きな人", "desc": "細かい欠点を責める人物に。", "example_en": "His censorious attitude annoyed everyone.", "example_ja": "彼のあら探しな態度は皆をいらだたせた。" }
+    ],
+    "warn": ["censor（検閲する）や censure（非難する）と語源は同じだが意味が異なる", "ネガティブな響きの語。ほめ言葉ではない"],
+    "etym_note": "ラテン語 censor（古代ローマの監察官）→ censorius（監察官の）が語源。人の行いを厳しく評価する役職のイメージから。",
+    "etym_chain": [
+      { "node": "censor", "sub": "監察官", "era": "ラテン語" },
+      { "node": "censorius", "sub": "監察官の", "era": "ラテン語" },
+      { "node": "censorious", "sub": "批判的な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a censorious tone", "ja": "非難がましい口調" },
+      { "en": "a censorious look", "ja": "非難がましい目つき" },
+      { "en": "censorious remarks", "ja": "あら探しの発言" },
+      { "en": "a censorious attitude", "ja": "批判的な態度" },
+      { "en": "overly censorious", "ja": "過度に批判的な" },
+      { "en": "a censorious critic", "ja": "手厳しい批評家" }
+    ],
+    "related": [
+      { "en": "critical", "ja": "批判的な" },
+      { "en": "censure", "ja": "厳しく非難する" },
+      { "en": "judgmental", "ja": "決めつける・裁く" },
+      { "en": "harsh", "ja": "手厳しい" }
+    ],
+    "faq": [
+      { "q": "censorious と critical の違いは？", "a": "critical は「批判的な」で中立的にも使えますが、censorious は「あら探しをして厳しく責める」という強い非難のニュアンスです。" },
+      { "q": "censor と関係ある？", "a": "同じラテン語の censor（監察官）が語源ですが、censor は「検閲する」、censorious は「批判的な」で意味は分かれています。" }
+    ],
+    "quiz": [
+      { "q": "censorious の意味は？", "A": "寛大な", "B": "あら探しをする・批判的な", "C": "静かな", "D": "臆病な", "correct": "B" },
+      { "q": "censorious の語源となった役職は？", "A": "裁判官", "B": "古代ローマの監察官", "C": "軍の将軍", "D": "神官", "correct": "B" }
+    ]
+  },
+  {
+    "english": "censure",
+    "pron": "ˈsenʃər",
+    "kana": "センシャー",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 censura（判断・評価）由来",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "法律・公的"],
+    "meaning_main": "（公式に）厳しく非難する／譴責（けんせき）",
+    "description": "censureの意味・発音・使い方。単なる批判より重い、公式・公的な「厳しい非難・譴責」を意味する動詞・名詞。censor(検閲)との違いも解説。",
+    "keywords": ["censure 意味", "censure 発音", "譴責 英語", "censure censor 違い"],
+    "meanings": [
+      { "hinshi": "【動】厳しく非難する", "note": "特に公的・公式な立場から強く責めること" },
+      { "hinshi": "【名】譴責・厳しい非難", "note": "議会などによる公式の非難決議も指す" }
+    ],
+    "usages": [
+      { "title": "① 公式に非難する", "desc": "組織や議会による公的な非難に。", "example_en": "The senator was censured for his conduct.", "example_ja": "その上院議員は自らの行いを譴責された。" },
+      { "title": "② 名詞の譴責", "desc": "正式な非難・処分を表す。", "example_en": "The report drew widespread censure.", "example_ja": "その報告書は広く非難を浴びた。" }
+    ],
+    "warn": ["censor（検閲する・削除する）と混同注意。censure は「非難する」", "criticize より重く、公式・正式なニュアンス"],
+    "etym_note": "ラテン語 censura（監察官 censor による判断・評価）が語源。もとは「評価・判定」の意味だったが、否定的な「非難」に狭まった。",
+    "etym_chain": [
+      { "node": "censura", "sub": "判断・評価", "era": "ラテン語" },
+      { "node": "censure", "sub": "判定・非難", "era": "中英語" },
+      { "node": "censure", "sub": "厳しく非難する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a vote of censure", "ja": "譴責決議" },
+      { "en": "public censure", "ja": "世間の非難" },
+      { "en": "face censure", "ja": "非難にさらされる" },
+      { "en": "draw censure", "ja": "非難を招く" },
+      { "en": "censure a member", "ja": "議員を譴責する" },
+      { "en": "escape censure", "ja": "非難を免れる" }
+    ],
+    "related": [
+      { "en": "criticize", "ja": "批判する" },
+      { "en": "condemn", "ja": "強く非難する" },
+      { "en": "censor", "ja": "検閲する" },
+      { "en": "reprimand", "ja": "叱責する" }
+    ],
+    "faq": [
+      { "q": "censure と censor の違いは？", "a": "censure は「（公式に）厳しく非難する」、censor は「検閲して削除する」です。つづりが似ているので要注意です。" },
+      { "q": "criticize とどう違う？", "a": "criticize は一般的な「批判」ですが、censure は議会の譴責決議など、より公的で重い非難に使います。" }
+    ],
+    "quiz": [
+      { "q": "censure の意味は？", "A": "検閲する", "B": "（公式に）厳しく非難する", "C": "賞賛する", "D": "許可する", "correct": "B" },
+      { "q": "a vote of censure とは？", "A": "信任投票", "B": "譴責決議", "C": "予算案", "D": "選挙", "correct": "B" }
+    ]
+  },
+  {
+    "english": "centenarian",
+    "pron": "ˌsentɪˈneriən",
+    "kana": "センテナリアン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 centenarius（100の）由来",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "人・年齢"],
+    "meaning_main": "百歳（以上）の人・百寿者",
+    "description": "centenarianの意味・発音・使い方。100歳以上の人「百寿者」を指す語。cent-(100)の語源仲間や、110歳以上の supercentenarian も解説。",
+    "keywords": ["centenarian 意味", "百歳 英語", "centenarian 発音", "百寿者 英語"],
+    "meanings": [
+      { "hinshi": "【名】百寿者・100歳(以上)の人", "note": "100歳またはそれ以上まで生きている人" }
+    ],
+    "usages": [
+      { "title": "① 100歳の人", "desc": "長寿を話題にするときに。", "example_en": "The town is home to several centenarians.", "example_ja": "その町には数人の百寿者が暮らしている。" },
+      { "title": "② 長寿社会の話題", "desc": "統計や高齢化の文脈で。", "example_en": "The number of centenarians is rising every year.", "example_ja": "百寿者の数は年々増えている。" }
+    ],
+    "warn": ["cent-（100）を含む語。110歳以上は supercentenarian", "形容詞的にも使われる(a centenarian woman)"],
+    "etym_note": "ラテン語 centum（100）→ centenarius（100の、100人隊の）が語源。cent, century, centipede と同じ cent-（100）を持つ。",
+    "etym_chain": [
+      { "node": "centum", "sub": "100", "era": "ラテン語" },
+      { "node": "centenarius", "sub": "100の", "era": "ラテン語" },
+      { "node": "centenarian", "sub": "百寿者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a healthy centenarian", "ja": "健康な百寿者" },
+      { "en": "become a centenarian", "ja": "100歳に達する" },
+      { "en": "the number of centenarians", "ja": "百寿者の数" },
+      { "en": "a centenarian couple", "ja": "百歳の夫婦" },
+      { "en": "living centenarians", "ja": "存命の百寿者" },
+      { "en": "a centenarian's secret", "ja": "百寿者の秘訣" }
+    ],
+    "related": [
+      { "en": "century", "ja": "世紀・100年" },
+      { "en": "longevity", "ja": "長寿" },
+      { "en": "elderly", "ja": "高齢の" },
+      { "en": "anniversary", "ja": "記念日" }
+    ],
+    "faq": [
+      { "q": "centenarian とは何歳の人？", "a": "100歳またはそれ以上の人です。110歳以上は supercentenarian と呼ばれます。" },
+      { "q": "語源は？", "a": "ラテン語 centum(100)由来で、cent(セント)や century(世紀)と同じ仲間です。" }
+    ],
+    "quiz": [
+      { "q": "centenarian とは？", "A": "10歳の人", "B": "100歳(以上)の人", "C": "百人隊長", "D": "100番目の人", "correct": "B" },
+      { "q": "centenarian に含まれる cent- の意味は？", "A": "10", "B": "100", "C": "1000", "D": "半分", "correct": "B" }
+    ]
+  },
+  {
+    "english": "centerpiece",
+    "pron": "ˈsentərpiːs",
+    "kana": "センターピース",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "center（中心）+ piece（もの）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出"],
+    "meaning_main": "中心的存在・目玉／（食卓の）中央の飾り",
+    "description": "centerpieceの意味・発音・使い方。計画や展示の「中心・目玉」と、食卓の中央に置く「飾り」の二つの意味を例文で解説。英つづり centrepiece も紹介。",
+    "keywords": ["centerpiece 意味", "centerpiece 発音", "目玉 英語", "centerpiece 使い方"],
+    "meanings": [
+      { "hinshi": "【名】中心的存在・目玉", "note": "計画・政策・展示などで最も重要な中心部分" },
+      { "hinshi": "【名】食卓中央の飾り", "note": "テーブルの中央に置く花やろうそくなどの装飾" }
+    ],
+    "usages": [
+      { "title": "① 計画の目玉", "desc": "政策・戦略・展示の中心に。", "example_en": "This policy is the centerpiece of the new government's plan.", "example_ja": "この政策は新政権の計画の目玉だ。" },
+      { "title": "② 食卓の飾り", "desc": "パーティーや食事の装飾に。", "example_en": "A vase of roses served as the centerpiece.", "example_ja": "バラの花瓶が食卓中央の飾りになった。" }
+    ],
+    "warn": ["米つづり centerpiece、英つづり centrepiece", "「目玉・中心」の比喩でとてもよく使われる"],
+    "etym_note": "center（中心）+ piece（部分・もの）の複合語。文字どおり「中心に置くもの」から比喩的な「中心的存在」の意味に広がった。",
+    "etym_chain": [
+      { "node": "center + piece", "sub": "中心＋もの", "era": "19世紀英語" },
+      { "node": "centerpiece", "sub": "中央の飾り・目玉", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the centerpiece of the plan", "ja": "計画の目玉" },
+      { "en": "a floral centerpiece", "ja": "花の飾り" },
+      { "en": "serve as the centerpiece", "ja": "中心的存在となる" },
+      { "en": "the centerpiece of the exhibition", "ja": "展示の目玉" },
+      { "en": "a table centerpiece", "ja": "食卓中央の飾り" },
+      { "en": "the centerpiece of the reform", "ja": "改革の中心" }
+    ],
+    "related": [
+      { "en": "highlight", "ja": "呼び物・見どころ" },
+      { "en": "center", "ja": "中心" },
+      { "en": "focus", "ja": "焦点" },
+      { "en": "decoration", "ja": "装飾" }
+    ],
+    "faq": [
+      { "q": "centerpiece の比喩的な意味は？", "a": "計画・政策・展示などで「最も重要な中心・目玉」を指します。the centerpiece of ~ の形でよく使います。" },
+      { "q": "イギリス英語のつづりは？", "a": "centrepiece です。center が centre になります。" }
+    ],
+    "quiz": [
+      { "q": "the centerpiece of the plan の意味は？", "A": "計画の付録", "B": "計画の目玉・中心", "C": "計画の失敗", "D": "計画の費用", "correct": "B" },
+      { "q": "centerpiece のイギリス英語つづりは？", "A": "centrepiece", "B": "centorpiece", "C": "centrepeace", "D": "centarpiece", "correct": "A" }
+    ]
+  }
+]
