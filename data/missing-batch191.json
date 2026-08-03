@@ -1,0 +1,981 @@
+[
+  {
+    "english": "contravene",
+    "pron": "ˌkɒntrəˈviːn",
+    "kana": "コントラヴィーン",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 contravenire（逆らって来る）由来",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "法律・フォーマル"],
+    "meaning_main": "（法律・規則に）違反する・反する",
+    "description": "contraveneの意味・発音・使い方。法律・規則・協定などに「違反する・反する」を表すフォーマルな動詞。名詞 contravention や、break/violate との違いを例文で解説します。",
+    "keywords": ["contravene 意味", "違反する 英語", "contravene 発音", "contravention"],
+    "meanings": [
+      { "hinshi": "【動】(法律・規則に)違反する・反する", "note": "法・規則・協定・原則などに背く。フォーマルな語" }
+    ],
+    "usages": [
+      { "title": "① 法・規則に違反する", "desc": "法律・契約の話題で。", "example_en": "The company contravened safety regulations.", "example_ja": "その会社は安全規則に違反した。" },
+      { "title": "② 原則に反する", "desc": "方針・合意に背くときに。", "example_en": "The decision contravenes the agreement.", "example_ja": "その決定は合意に反している。" }
+    ],
+    "warn": ["フォーマルな語。日常では break / violate a rule が普通。名詞は contravention(違反)", "contra-(反対)+ venire(来る)。『逆らう』が原義"],
+    "etym_note": "ラテン語 contravenire（contra＝反対 + venire＝来る＝逆らって来る)由来。「規則に逆らう」＝『違反する』。convene, intervene と同語根。",
+    "etym_chain": [
+      { "node": "contravenire", "sub": "逆らって来る", "era": "後期ラテン語" },
+      { "node": "contravene", "sub": "違反する", "era": "15世紀英語" }
+    ],
+    "phrases": [
+      { "en": "contravene the law", "ja": "法律に違反する" },
+      { "en": "contravene regulations", "ja": "規則に違反する" },
+      { "en": "contravene the rules", "ja": "規則に反する" },
+      { "en": "in contravention of", "ja": "〜に違反して" },
+      { "en": "contravene an agreement", "ja": "合意に反する" },
+      { "en": "contravene a treaty", "ja": "条約に違反する" }
+    ],
+    "related": [
+      { "en": "violate", "ja": "違反する" },
+      { "en": "breach", "ja": "違反する・破る" },
+      { "en": "contravention", "ja": "違反" },
+      { "en": "comply", "ja": "従う・順守する" }
+    ],
+    "faq": [
+      { "q": "contravene の意味は？", "a": "法律・規則・協定などに『違反する・反する』を表すフォーマルな動詞です。名詞は contravention(違反)です。" },
+      { "q": "violate との違いは？", "a": "意味は近いですが、contravene はよりフォーマルで、法律・規則・協定に対して使うことが多い語です。" }
+    ],
+    "quiz": [
+      { "q": "contravene の意味は？", "A": "順守する", "B": "(法・規則に)違反する", "C": "説明する", "D": "延期する", "correct": "B" },
+      { "q": "contravene の名詞形は？", "A": "contravention", "B": "contravening", "C": "contravenance", "D": "contravenment", "correct": "A" }
+    ]
+  },
+  {
+    "english": "contributor",
+    "pron": "kənˈtrɪbjətər",
+    "kana": "コントリビューター",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "contribute（貢献する）+ -or（人）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出"],
+    "meaning_main": "貢献者・寄稿者・寄付者／要因",
+    "description": "contributorの意味・発音・使い方。何かに貢献する「貢献者」、雑誌などへの「寄稿者」、お金を出す「寄付者」、そして問題の「一因(要因)」を指す語。動詞 contribute との関係を解説します。",
+    "keywords": ["contributor 意味", "貢献者 英語", "contributor 発音", "寄稿者 英語"],
+    "meanings": [
+      { "hinshi": "【名】貢献者・寄付者", "note": "何かに力・お金・アイデアを提供する人" },
+      { "hinshi": "【名】寄稿者", "note": "雑誌・新聞などに記事を寄せる人" },
+      { "hinshi": "【名】要因・一因", "note": "ある結果を生む原因の一つ(a contributor to ~)" }
+    ],
+    "usages": [
+      { "title": "① 貢献者・寄付者", "desc": "支援・提供の話題で。", "example_en": "She was a major contributor to the charity.", "example_ja": "彼女はその慈善団体への主要な寄付者だった。" },
+      { "title": "② 要因の一つ", "desc": "原因の一つを表すときに。", "example_en": "Stress is a contributor to poor health.", "example_ja": "ストレスは健康悪化の一因だ。" }
+    ],
+    "warn": ["動詞は contribute(貢献する・寄稿する・一因となる)、名詞 contribution(貢献・寄稿)", "a contributor to ~＝『〜への貢献者/〜の一因』"],
+    "etym_note": "ラテン語 contribuere（con-＝共に + tribuere＝与える＝共に出し合う)由来の contribute に、人を表す -or がついた語。「(共に)提供する人」を意味する。",
+    "etym_chain": [
+      { "node": "contribuere", "sub": "共に出し合う", "era": "ラテン語" },
+      { "node": "contribute", "sub": "貢献する", "era": "中英語" },
+      { "node": "contributor", "sub": "貢献者・寄稿者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a major contributor", "ja": "主要な貢献者" },
+      { "en": "a regular contributor", "ja": "常連の寄稿者" },
+      { "en": "a contributor to", "ja": "〜への貢献者・一因" },
+      { "en": "a top contributor", "ja": "最大の貢献者" },
+      { "en": "a generous contributor", "ja": "気前のよい寄付者" },
+      { "en": "a leading contributor", "ja": "主導的な貢献者" }
+    ],
+    "related": [
+      { "en": "contribute", "ja": "貢献する・寄稿する" },
+      { "en": "contribution", "ja": "貢献・寄稿" },
+      { "en": "donor", "ja": "寄付者・提供者" },
+      { "en": "factor", "ja": "要因" }
+    ],
+    "faq": [
+      { "q": "contributor の意味は？", "a": "何かに貢献する『貢献者』、雑誌などへの『寄稿者』、お金を出す『寄付者』、または問題の『一因』を指します。" },
+      { "q": "a contributor to ~ とは？", "a": "『〜への貢献者』または『〜の一因(要因)』という意味です。文脈で判断します。" }
+    ],
+    "quiz": [
+      { "q": "contributor の意味は？", "A": "受益者", "B": "貢献者・寄稿者・要因", "C": "反対者", "D": "傍観者", "correct": "B" },
+      { "q": "contributor の動詞形は？", "A": "contribute", "B": "contrive", "C": "contract", "D": "control", "correct": "A" }
+    ]
+  },
+  {
+    "english": "contrition",
+    "pron": "kənˈtrɪʃn",
+    "kana": "コントリション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 conterere（すりつぶす）由来",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "感情・宗教"],
+    "meaning_main": "深い後悔・痛悔（罪を悔いること）",
+    "description": "contritionの意味・発音・使い方。自分の過ちを深く悔いる「痛悔・深い後悔」を表す、やや宗教的で硬い語。形容詞 contrite や、単なる regret との違いを例文で解説します。",
+    "keywords": ["contrition 意味", "後悔 英語", "contrition 発音", "contrite"],
+    "meanings": [
+      { "hinshi": "【名】深い後悔・痛悔", "note": "自分の罪や過ちを心から悔い、恥じる気持ち。宗教的な『痛悔』にも使う" }
+    ],
+    "usages": [
+      { "title": "① 深く悔いる気持ち", "desc": "反省・謝罪の話題で。", "example_en": "He expressed deep contrition for his actions.", "example_ja": "彼は自分の行いを深く悔いた。" },
+      { "title": "② 宗教的な痛悔", "desc": "罪の告白の文脈で。", "example_en": "The prayer is an act of contrition.", "example_ja": "その祈りは痛悔の行為だ。" }
+    ],
+    "warn": ["形容詞は contrite(悔いている)。regret(後悔)より深く、罪を悔いる強い語", "an act of contrition＝(カトリックの)痛悔の祈り"],
+    "etym_note": "ラテン語 conterere（con-＝強調 + terere＝すりつぶす＝打ちひしぐ)由来。「心を打ち砕かれるほど悔いる」＝『痛悔』。",
+    "etym_chain": [
+      { "node": "conterere", "sub": "すりつぶす", "era": "ラテン語" },
+      { "node": "contrition", "sub": "痛悔・深い後悔", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "deep contrition", "ja": "深い後悔" },
+      { "en": "express contrition", "ja": "後悔の念を表す" },
+      { "en": "an act of contrition", "ja": "痛悔の祈り" },
+      { "en": "show contrition", "ja": "悔悟を示す" },
+      { "en": "genuine contrition", "ja": "心からの後悔" },
+      { "en": "a sign of contrition", "ja": "悔いのしるし" }
+    ],
+    "related": [
+      { "en": "contrite", "ja": "悔いている" },
+      { "en": "remorse", "ja": "自責の念" },
+      { "en": "repentance", "ja": "悔い改め" },
+      { "en": "regret", "ja": "後悔" }
+    ],
+    "faq": [
+      { "q": "contrition の意味は？", "a": "自分の罪や過ちを心から悔いる『痛悔・深い後悔』です。regret より深く、宗教的な文脈でも使われます。" },
+      { "q": "形容詞は？", "a": "contrite(悔いている・後悔している)です。" }
+    ],
+    "quiz": [
+      { "q": "contrition の意味は？", "A": "喜び", "B": "深い後悔・痛悔", "C": "怒り", "D": "誇り", "correct": "B" },
+      { "q": "contrition の形容詞は？", "A": "contrite", "B": "contrited", "C": "contritous", "D": "contrital", "correct": "A" }
+    ]
+  },
+  {
+    "english": "controller",
+    "pron": "kənˈtroʊlər",
+    "kana": "コントローラー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "control（管理する）+ -er（人・もの）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出・IT"],
+    "meaning_main": "管理者・制御装置／（ゲーム）コントローラー／会計監査役",
+    "description": "controllerの意味・発音・使い方。物事を管理する「管理者」、機器を制御する「制御装置」、ゲームの「コントローラー」、会計の統括役を指す語。comptroller との関係も解説します。",
+    "keywords": ["controller 意味", "コントローラー 英語", "controller 発音", "制御装置 英語"],
+    "meanings": [
+      { "hinshi": "【名】管理者・制御する人", "note": "物事や人を管理・統制する人。air traffic controller＝航空管制官" },
+      { "hinshi": "【名】制御装置・コントローラー", "note": "機器やゲームを操作・制御する装置" },
+      { "hinshi": "【名】会計監査役", "note": "組織の財務を統括する役職(comptroller とも)" }
+    ],
+    "usages": [
+      { "title": "① 管理者・管制官", "desc": "管理・統制の話題で。", "example_en": "An air traffic controller guides planes safely.", "example_ja": "航空管制官は飛行機を安全に誘導する。" },
+      { "title": "② ゲームのコントローラー", "desc": "機器・ゲームの文脈で。", "example_en": "He picked up the game controller.", "example_ja": "彼はゲームのコントローラーを手に取った。" }
+    ],
+    "warn": ["会計統括役の意味では comptroller という格式ばった綴りも使う(発音は同じ)", "air traffic controller＝航空管制官。game controller＝ゲームのコントローラー"],
+    "etym_note": "control（管理する、古フランス語 contreroller＝照合台帳で確認する 由来)に「〜する人/もの」の -er がついた語。「管理・制御するもの」を意味する。",
+    "etym_chain": [
+      { "node": "contreroller", "sub": "台帳で照合する", "era": "古フランス語" },
+      { "node": "control", "sub": "管理する", "era": "中英語" },
+      { "node": "controller", "sub": "管理者・制御装置", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an air traffic controller", "ja": "航空管制官" },
+      { "en": "a game controller", "ja": "ゲームのコントローラー" },
+      { "en": "a remote controller", "ja": "リモコン" },
+      { "en": "the financial controller", "ja": "財務統括役" },
+      { "en": "a flight controller", "ja": "飛行管制官" },
+      { "en": "a wireless controller", "ja": "ワイヤレスコントローラー" }
+    ],
+    "related": [
+      { "en": "control", "ja": "管理する・制御" },
+      { "en": "comptroller", "ja": "会計監査役" },
+      { "en": "manager", "ja": "管理者" },
+      { "en": "operator", "ja": "操作者" }
+    ],
+    "faq": [
+      { "q": "controller の意味は？", "a": "物事を管理する『管理者』、機器を制御する『制御装置・コントローラー』、財務を統括する『会計監査役』などを指します。" },
+      { "q": "comptroller との違いは？", "a": "会計統括役の意味では、comptroller という格式ばった綴りも使われます。発音はどちらも同じです。" }
+    ],
+    "quiz": [
+      { "q": "air traffic controller とは？", "A": "航空管制官", "B": "パイロット", "C": "客室乗務員", "D": "整備士", "correct": "A" },
+      { "q": "controller の意味に含まれないのは？", "A": "管理者", "B": "制御装置", "C": "会計監査役", "D": "農作物", "correct": "D" }
+    ]
+  },
+  {
+    "english": "conurbation",
+    "pron": "ˌkɒnɜːrˈbeɪʃn",
+    "kana": "コナーベーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "con-（共に）+ ラテン語 urbs（都市）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "地理・都市"],
+    "meaning_main": "大都市圏・連接都市（都市が連なった巨大市街地）",
+    "description": "conurbationの意味・発音・使い方。複数の都市や町が拡大してつながり、一体化した巨大な市街地「大都市圏・連接都市」を指す地理用語。metropolis との違いや語源を解説します。",
+    "keywords": ["conurbation 意味", "大都市圏 英語", "conurbation 発音", "連接都市 英語"],
+    "meanings": [
+      { "hinshi": "【名】大都市圏・連接都市", "note": "複数の都市・町が成長してつながり、一体化した広大な市街地" }
+    ],
+    "usages": [
+      { "title": "① 連なった都市域", "desc": "都市計画・地理の話題で。", "example_en": "London is part of a huge conurbation.", "example_ja": "ロンドンは巨大な大都市圏の一部だ。" },
+      { "title": "② 都市の拡大", "desc": "都市化の文脈で。", "example_en": "The towns merged into a single conurbation.", "example_ja": "それらの町は一つの連接都市へと融合した。" }
+    ],
+    "warn": ["metropolis(一つの巨大都市)と違い、conurbation は複数都市が連なった集合体", "con-(共に)+ urbs(都市)。urban(都市の)と同語根"],
+    "etym_note": "ラテン語 con-（共に）+ urbs（都市）から、20世紀初めにイギリスの都市計画家が造語した比較的新しい語。「都市が連なったもの」を意味する。",
+    "etym_chain": [
+      { "node": "con- + urbs", "sub": "共に＋都市", "era": "ラテン語(要素)" },
+      { "node": "conurbation", "sub": "大都市圏・連接都市", "era": "20世紀英語" }
+    ],
+    "phrases": [
+      { "en": "a huge conurbation", "ja": "巨大な大都市圏" },
+      { "en": "an urban conurbation", "ja": "都市の連接体" },
+      { "en": "part of a conurbation", "ja": "大都市圏の一部" },
+      { "en": "a sprawling conurbation", "ja": "広がる大都市圏" },
+      { "en": "a single conurbation", "ja": "一つの連接都市" },
+      { "en": "the growing conurbation", "ja": "拡大する大都市圏" }
+    ],
+    "related": [
+      { "en": "metropolis", "ja": "大都市" },
+      { "en": "urban", "ja": "都市の" },
+      { "en": "megacity", "ja": "メガシティ・巨大都市" },
+      { "en": "suburb", "ja": "郊外" }
+    ],
+    "faq": [
+      { "q": "conurbation とは？", "a": "複数の都市・町が拡大してつながり、一体化した巨大な市街地『大都市圏・連接都市』です。" },
+      { "q": "metropolis との違いは？", "a": "metropolis は一つの巨大都市を指しますが、conurbation は複数の都市が連なった集合体を指します。" }
+    ],
+    "quiz": [
+      { "q": "conurbation の意味は？", "A": "小さな村", "B": "都市が連なった大都市圏", "C": "無人の荒野", "D": "工場一つ", "correct": "B" },
+      { "q": "conurbation の語源 urbs の意味は？", "A": "都市", "B": "川", "C": "山", "D": "海", "correct": "A" }
+    ]
+  },
+  {
+    "english": "conversant",
+    "pron": "kənˈvɜːrsnt",
+    "kana": "コンバーサント",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 conversari（親しく交わる）由来",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "フォーマル"],
+    "meaning_main": "（〜に）精通した・詳しい・通じている",
+    "description": "conversantの意味・発音・使い方。ある分野・話題に「精通した・詳しい」を表すフォーマルな形容詞。conversant with ~ の形で使う点や、conversation(会話)との関係を解説します。",
+    "keywords": ["conversant 意味", "精通した 英語", "conversant with", "conversant 発音"],
+    "meanings": [
+      { "hinshi": "【形】(〜に)精通した・詳しい", "note": "ある分野・事柄をよく知っている。conversant with ~ の形で使う。フォーマル" }
+    ],
+    "usages": [
+      { "title": "① 分野に精通した", "desc": "知識・専門性の話題で。", "example_en": "She is conversant with the latest technology.", "example_ja": "彼女は最新技術に精通している。" },
+      { "title": "② 事情に通じた", "desc": "詳しさを表すときに。", "example_en": "He is well conversant with the local customs.", "example_ja": "彼は地元の慣習によく通じている。" }
+    ],
+    "warn": ["conversant with ~(または in)＝『〜に精通して』。フォーマルな語", "familiar with より硬い。familiar は『見知っている』程度でも使える"],
+    "etym_note": "ラテン語 conversari（con-＝共に + versari＝関わる＝親しく交わる)由来。「よく関わってきた＝詳しい」の意味。converse, conversation と同語根。",
+    "etym_chain": [
+      { "node": "conversari", "sub": "親しく交わる", "era": "ラテン語" },
+      { "node": "conversant", "sub": "精通した", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "conversant with", "ja": "〜に精通して" },
+      { "en": "well conversant", "ja": "十分に精通した" },
+      { "en": "conversant in", "ja": "〜に詳しい" },
+      { "en": "fully conversant", "ja": "完全に通じた" },
+      { "en": "conversant with the subject", "ja": "その主題に精通した" },
+      { "en": "become conversant with", "ja": "〜に精通するようになる" }
+    ],
+    "related": [
+      { "en": "familiar", "ja": "見知った・詳しい" },
+      { "en": "knowledgeable", "ja": "知識豊富な" },
+      { "en": "versed", "ja": "熟達した" },
+      { "en": "proficient", "ja": "堪能な" }
+    ],
+    "faq": [
+      { "q": "conversant の意味は？", "a": "ある分野・話題に『精通した・詳しい』を表すフォーマルな形容詞です。conversant with ~ の形で使います。" },
+      { "q": "familiar with との違いは？", "a": "conversant with の方が硬く、しっかり精通しているニュアンスです。familiar は『見知っている』程度でも使えます。" }
+    ],
+    "quiz": [
+      { "q": "conversant with の意味は？", "A": "〜を嫌って", "B": "〜に精通して", "C": "〜を無視して", "D": "〜に反対して", "correct": "B" },
+      { "q": "conversant はどんな語感？", "A": "くだけた口語", "B": "ややフォーマル", "C": "幼児語", "D": "俗語", "correct": "B" }
+    ]
+  },
+  {
+    "english": "convoke",
+    "pron": "kənˈvoʊk",
+    "kana": "コンヴォーク",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 convocare（呼び集める）由来",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "フォーマル・公式"],
+    "meaning_main": "（会議などを）招集する・召集する",
+    "description": "convokeの意味・発音・使い方。会議・議会・集会などを公式に「招集する・召集する」を表すフォーマルな動詞。名詞 convocation や、call / summon との違いを例文で解説します。",
+    "keywords": ["convoke 意味", "招集する 英語", "convoke 発音", "convocation"],
+    "meanings": [
+      { "hinshi": "【動】(会議などを)招集する・召集する", "note": "会議・議会・集会を公式に開くために人々を呼び集める。フォーマル" }
+    ],
+    "usages": [
+      { "title": "① 会議を招集する", "desc": "公式な集まりの話題で。", "example_en": "The president convoked an emergency meeting.", "example_ja": "大統領は緊急会議を招集した。" },
+      { "title": "② 議会を召集する", "desc": "政治・組織の文脈で。", "example_en": "The council was convoked to discuss the crisis.", "example_ja": "その危機を議論するため評議会が召集された。" }
+    ],
+    "warn": ["フォーマルな語。日常では call a meeting が普通。名詞は convocation(招集・(大学の)学位授与式)", "con-(共に)+ vocare(呼ぶ)。voice, vocal と同語根"],
+    "etym_note": "ラテン語 convocare（con-＝共に + vocare＝呼ぶ＝呼び集める)由来。「人々を呼び集める」＝『招集する』。vocal, invoke と同語根。",
+    "etym_chain": [
+      { "node": "convocare", "sub": "呼び集める", "era": "ラテン語" },
+      { "node": "convoke", "sub": "招集する", "era": "16世紀英語" }
+    ],
+    "phrases": [
+      { "en": "convoke a meeting", "ja": "会議を招集する" },
+      { "en": "convoke the council", "ja": "評議会を召集する" },
+      { "en": "convoke an assembly", "ja": "集会を招集する" },
+      { "en": "convoke parliament", "ja": "議会を召集する" },
+      { "en": "convoke a conference", "ja": "会議を招集する" },
+      { "en": "be convoked", "ja": "招集される" }
+    ],
+    "related": [
+      { "en": "convocation", "ja": "招集・学位授与式" },
+      { "en": "summon", "ja": "召喚する・招集する" },
+      { "en": "assemble", "ja": "集める・集まる" },
+      { "en": "call", "ja": "召集する・呼ぶ" }
+    ],
+    "faq": [
+      { "q": "convoke の意味は？", "a": "会議・議会・集会などを公式に『招集する・召集する』を表すフォーマルな動詞です。名詞は convocation です。" },
+      { "q": "call a meeting との違いは？", "a": "意味は近いですが、convoke はより公式・格式ばった語で、正式な会議や議会の招集に使います。" }
+    ],
+    "quiz": [
+      { "q": "convoke の意味は？", "A": "解散させる", "B": "(会議などを)招集する", "C": "延期する", "D": "欠席する", "correct": "B" },
+      { "q": "convoke の名詞形は？", "A": "convocation", "B": "convokement", "C": "convokance", "D": "convokation", "correct": "A" }
+    ]
+  },
+  {
+    "english": "convolution",
+    "pron": "ˌkɒnvəˈluːʃn",
+    "kana": "コンボリューション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 convolvere（巻き込む）由来",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "専門・比喩"],
+    "meaning_main": "複雑さ・込み入り／渦巻き・ねじれ／（脳の）しわ",
+    "description": "convolutionの意味・発音・使い方。物事の入り組んだ「複雑さ・込み入り」、渦巻き状の「ねじれ」、脳表面の「しわ(脳回)」を指す語。形容詞 convoluted(込み入った)も解説します。",
+    "keywords": ["convolution 意味", "複雑 英語", "convolution 発音", "convoluted"],
+    "meanings": [
+      { "hinshi": "【名】複雑さ・込み入り", "note": "話・議論・手続きなどが入り組んで分かりにくいこと" },
+      { "hinshi": "【名】渦巻き・ねじれ／脳のしわ", "note": "巻いた形、ねじれ。脳の表面のしわ(脳回)も指す" }
+    ],
+    "usages": [
+      { "title": "① 込み入った複雑さ", "desc": "話や手続きの複雑さに。", "example_en": "The convolutions of the plot were hard to follow.", "example_ja": "その筋の入り組んだ複雑さは追うのが難しかった。" },
+      { "title": "② 渦巻き・ねじれ", "desc": "巻いた形の描写に。", "example_en": "The shell had elegant convolutions.", "example_ja": "その貝殻は優美な渦巻きを持っていた。" }
+    ],
+    "warn": ["形容詞は convoluted(込み入った・回りくどい)。しばしば否定的", "数学・信号処理の『畳み込み(コンボリューション)』の専門用語でもある"],
+    "etym_note": "ラテン語 convolvere（con-＝共に + volvere＝巻く＝巻き込む)由来。「巻き込まれて複雑なもの」を意味する。revolve, evolve と同語根。",
+    "etym_chain": [
+      { "node": "convolvere", "sub": "巻き込む", "era": "ラテン語" },
+      { "node": "convolution", "sub": "複雑さ・渦巻き", "era": "17世紀英語" }
+    ],
+    "phrases": [
+      { "en": "the convolutions of the plot", "ja": "筋の込み入り" },
+      { "en": "complex convolutions", "ja": "複雑なねじれ" },
+      { "en": "the convolutions of the brain", "ja": "脳のしわ" },
+      { "en": "endless convolutions", "ja": "果てしない複雑さ" },
+      { "en": "a convoluted argument", "ja": "回りくどい議論" },
+      { "en": "twists and convolutions", "ja": "ねじれと複雑さ" }
+    ],
+    "related": [
+      { "en": "convoluted", "ja": "込み入った・回りくどい" },
+      { "en": "complexity", "ja": "複雑さ" },
+      { "en": "twist", "ja": "ねじれ" },
+      { "en": "coil", "ja": "巻き・渦巻き" }
+    ],
+    "faq": [
+      { "q": "convolution の意味は？", "a": "物事の入り組んだ『複雑さ・込み入り』、渦巻き状の『ねじれ』、脳表面の『しわ(脳回)』などを指します。" },
+      { "q": "形容詞は？", "a": "convoluted(込み入った・回りくどい)です。しばしば否定的に使われます。" }
+    ],
+    "quiz": [
+      { "q": "convolution の意味は？", "A": "単純さ", "B": "複雑さ・込み入り／渦巻き", "C": "明快さ", "D": "速さ", "correct": "B" },
+      { "q": "convolution の形容詞は？", "A": "convoluted", "B": "convolutive のみ", "C": "convolutional のみ", "D": "convolutous", "correct": "A" }
+    ]
+  },
+  {
+    "english": "cookbook",
+    "pron": "ˈkʊkbʊk",
+    "kana": "クックブック",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "cook（料理）+ book（本）",
+    "ld_level": "3級",
+    "badges": ["小学生〜", "英検3級", "CEFR A2", "生活"],
+    "meaning_main": "料理本・レシピ本（米）",
+    "description": "cookbookの意味・発音・使い方。料理の作り方(レシピ)を集めた「料理本」を指す語。アメリカ英語で、イギリス英語の cookery book との違いや、比喩的な『手引き書』の用法も解説します。",
+    "keywords": ["cookbook 意味", "料理本 英語", "cookbook 発音", "レシピ本 英語"],
+    "meanings": [
+      { "hinshi": "【名】料理本・レシピ本", "note": "料理の作り方(レシピ)を集めた本。米では cookbook、英では cookery book" }
+    ],
+    "usages": [
+      { "title": "① 料理本", "desc": "料理・レシピの話題で。", "example_en": "She found the recipe in an old cookbook.", "example_ja": "彼女は古い料理本でそのレシピを見つけた。" },
+      { "title": "② 手引き書(比喩)", "desc": "作り方の指南書の意味に。", "example_en": "The manual reads like a cookbook for beginners.", "example_ja": "そのマニュアルは初心者向けの手引き書のようだ。" }
+    ],
+    "warn": ["米つづり cookbook(1語)。英では cookery book / cookbook 両方使う", "cook + book の複合語。比喩で『手順の指南書』の意味にも"],
+    "etym_note": "cook（料理する)+ book（本)の複合語。「料理の本」を意味する。アメリカ英語で定着した。",
+    "etym_chain": [
+      { "node": "cook + book", "sub": "料理＋本", "era": "近代英語" },
+      { "node": "cookbook", "sub": "料理本", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a recipe from a cookbook", "ja": "料理本のレシピ" },
+      { "en": "a bestselling cookbook", "ja": "ベストセラーの料理本" },
+      { "en": "a vegetarian cookbook", "ja": "ベジタリアン料理本" },
+      { "en": "write a cookbook", "ja": "料理本を書く" },
+      { "en": "an old cookbook", "ja": "古い料理本" },
+      { "en": "flip through a cookbook", "ja": "料理本をめくる" }
+    ],
+    "related": [
+      { "en": "recipe", "ja": "レシピ" },
+      { "en": "cooking", "ja": "料理" },
+      { "en": "cook", "ja": "料理する・料理人" },
+      { "en": "kitchen", "ja": "台所" }
+    ],
+    "faq": [
+      { "q": "cookbook とは？", "a": "料理の作り方(レシピ)を集めた『料理本・レシピ本』です。アメリカ英語で、イギリスでは cookery book とも言います。" },
+      { "q": "つづりは1語？", "a": "はい、cookbook と1語で書きます。cook + book の複合語です。" }
+    ],
+    "quiz": [
+      { "q": "cookbook の意味は？", "A": "予約帳", "B": "料理本・レシピ本", "C": "会計簿", "D": "電話帳", "correct": "B" },
+      { "q": "イギリス英語での言い方は？", "A": "cookery book", "B": "cookbank", "C": "cooklet", "D": "cookpaper", "correct": "A" }
+    ]
+  },
+  {
+    "english": "cooked",
+    "pron": "kʊkt",
+    "kana": "クックト",
+    "hinshi": "形容詞 / 動詞（過去・過去分詞）",
+    "ld_pos": "形容詞",
+    "ld_etym": "cook（料理する）の過去分詞から",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A1", "食べ物"],
+    "meaning_main": "調理された・火が通った（cookの過去・過去分詞）",
+    "description": "cookedの意味・発音・使い方。食材が「調理された・火が通った」を表す形容詞と、cook(料理する)の過去形。raw(生の)の反対や、well-cooked(よく火が通った)など具体例を解説します。",
+    "keywords": ["cooked 意味", "cooked 発音", "調理された 英語", "cook 過去形"],
+    "meanings": [
+      { "hinshi": "【形】調理された・火が通った", "note": "食材に熱を加えて料理された状態。raw(生の)の反対" },
+      { "hinshi": "【動】cook の過去・過去分詞", "note": "料理した" }
+    ],
+    "usages": [
+      { "title": "① 火が通った状態", "desc": "食材の状態の描写に。", "example_en": "Make sure the chicken is fully cooked.", "example_ja": "鶏肉に完全に火が通っているか確かめて。" },
+      { "title": "② 料理した(過去形)", "desc": "料理した行為に。", "example_en": "She cooked dinner for the whole family.", "example_ja": "彼女は家族全員に夕食を作った。" }
+    ],
+    "warn": ["反対は raw(生の)。well-cooked(よく火が通った)、overcooked(火を通しすぎた)", "cooked breakfast＝(英)火を通した温かい朝食"],
+    "etym_note": "cook（料理する、ラテン語 coquere＝煮る 由来)の過去分詞。「調理された」という形容詞になった。",
+    "etym_chain": [
+      { "node": "coquere", "sub": "煮る・料理する", "era": "ラテン語" },
+      { "node": "cook", "sub": "料理する", "era": "古英語" },
+      { "node": "cooked", "sub": "調理された", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "fully cooked", "ja": "完全に火が通った" },
+      { "en": "well cooked", "ja": "よく火が通った" },
+      { "en": "cooked food", "ja": "調理された食べ物" },
+      { "en": "a home-cooked meal", "ja": "手作りの食事" },
+      { "en": "overcooked", "ja": "火を通しすぎた" },
+      { "en": "cooked to perfection", "ja": "完璧に調理された" }
+    ],
+    "related": [
+      { "en": "cook", "ja": "料理する・料理人" },
+      { "en": "raw", "ja": "生の" },
+      { "en": "baked", "ja": "焼いた" },
+      { "en": "boiled", "ja": "ゆでた" }
+    ],
+    "faq": [
+      { "q": "cooked の反対語は？", "a": "raw(生の)です。cooked は『調理された・火が通った』を意味します。" },
+      { "q": "home-cooked meal とは？", "a": "外食ではなく家庭で作られた『手料理・手作りの食事』のことです。" }
+    ],
+    "quiz": [
+      { "q": "cooked の反対語は？", "A": "raw(生の)", "B": "hot", "C": "sweet", "D": "fresh", "correct": "A" },
+      { "q": "fully cooked の意味は？", "A": "全く生の", "B": "完全に火が通った", "C": "冷凍された", "D": "腐った", "correct": "B" }
+    ]
+  },
+  {
+    "english": "cookie",
+    "pron": "ˈkʊki",
+    "kana": "クッキー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "オランダ語 koekje（小さなケーキ）由来",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A1", "食べ物・IT"],
+    "meaning_main": "クッキー（焼き菓子・米）／（IT）クッキー（閲覧情報）",
+    "description": "cookieの意味・発音・使い方。焼き菓子の「クッキー(米)」と、ウェブサイトが保存する「クッキー(閲覧情報)」を指す語。イギリスの biscuit との違いや、IT用語の意味も解説します。",
+    "keywords": ["cookie 意味", "クッキー 英語", "cookie biscuit 違い", "cookie IT"],
+    "meanings": [
+      { "hinshi": "【名】クッキー(焼き菓子)", "note": "小麦粉・砂糖・バターなどで作る、平たく焼いた甘い菓子。米。英では biscuit" },
+      { "hinshi": "【名】クッキー(IT)", "note": "ウェブサイトが利用者の情報をブラウザに保存する小さなデータ" }
+    ],
+    "usages": [
+      { "title": "① 焼き菓子", "desc": "おやつ・お菓子の話題で。", "example_en": "She baked chocolate chip cookies.", "example_ja": "彼女はチョコチップクッキーを焼いた。" },
+      { "title": "② IT のクッキー", "desc": "ウェブ・ブラウザの文脈で。", "example_en": "The website asked me to accept cookies.", "example_ja": "そのサイトはクッキーの受け入れを求めてきた。" }
+    ],
+    "warn": ["米 cookie、英 biscuit(焼き菓子)。IT のクッキーは英米共通で cookie", "オランダ語 koekje(小さなケーキ)由来"],
+    "etym_note": "オランダ語 koekje（koek＝ケーキ の縮小形＝小さなケーキ)由来。オランダ系移民を通じてアメリカ英語に入った。",
+    "etym_chain": [
+      { "node": "koekje", "sub": "小さなケーキ", "era": "オランダ語" },
+      { "node": "cookie", "sub": "クッキー", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a chocolate chip cookie", "ja": "チョコチップクッキー" },
+      { "en": "bake cookies", "ja": "クッキーを焼く" },
+      { "en": "a cookie jar", "ja": "クッキーの瓶" },
+      { "en": "accept cookies", "ja": "クッキーを受け入れる" },
+      { "en": "delete cookies", "ja": "クッキーを削除する" },
+      { "en": "a fortune cookie", "ja": "フォーチュンクッキー" }
+    ],
+    "related": [
+      { "en": "biscuit", "ja": "ビスケット(英)" },
+      { "en": "cake", "ja": "ケーキ" },
+      { "en": "snack", "ja": "軽食・おやつ" },
+      { "en": "browser", "ja": "ブラウザ" }
+    ],
+    "faq": [
+      { "q": "cookie と biscuit の違いは？", "a": "焼き菓子の意味では、アメリカで cookie、イギリスで biscuit と言います。同じようなお菓子を指します。" },
+      { "q": "IT のクッキーとは？", "a": "ウェブサイトが利用者の情報をブラウザに保存する小さなデータのことです。英米共通で cookie と呼びます。" }
+    ],
+    "quiz": [
+      { "q": "焼き菓子の cookie はイギリスで何と言う？", "A": "biscuit", "B": "candy", "C": "bread", "D": "pie", "correct": "A" },
+      { "q": "IT の cookie とは？", "A": "ウイルス", "B": "利用者情報を保存する小さなデータ", "C": "検索エンジン", "D": "パスワード", "correct": "B" }
+    ]
+  },
+  {
+    "english": "cookware",
+    "pron": "ˈkʊkwer",
+    "kana": "クックウェア",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "cook（料理）+ ware（道具・製品）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "生活・道具"],
+    "meaning_main": "調理器具（鍋・フライパンなど）",
+    "description": "cookwareの意味・発音・使い方。鍋・フライパンなど、火にかけて料理するための「調理器具」をまとめて指す語。不可算名詞である点や、tableware(食器)などの -ware 仲間も解説します。",
+    "keywords": ["cookware 意味", "調理器具 英語", "cookware 発音", "鍋 フライパン 英語"],
+    "meanings": [
+      { "hinshi": "【名】調理器具", "note": "鍋・フライパン・片手鍋など、火にかけて料理するための道具の総称。不可算名詞" }
+    ],
+    "usages": [
+      { "title": "① 調理器具全般", "desc": "台所用品の話題で。", "example_en": "She bought a new set of cookware.", "example_ja": "彼女は新しい調理器具一式を買った。" },
+      { "title": "② 素材・種類", "desc": "製品の説明に。", "example_en": "Nonstick cookware is easy to clean.", "example_ja": "焦げつかない調理器具は洗いやすい。" }
+    ],
+    "warn": ["不可算名詞。a cookware とは言わず、a set of cookware / a piece of cookware", "-ware は『道具・製品』を表す(tableware＝食器、software＝ソフト)"],
+    "etym_note": "cook（料理する)+ ware（品物、道具)の複合語。「料理のための道具」を意味する。hardware, tableware と同じ -ware。",
+    "etym_chain": [
+      { "node": "cook + ware", "sub": "料理＋道具", "era": "近代英語" },
+      { "node": "cookware", "sub": "調理器具", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a set of cookware", "ja": "調理器具一式" },
+      { "en": "nonstick cookware", "ja": "焦げつかない調理器具" },
+      { "en": "stainless steel cookware", "ja": "ステンレスの調理器具" },
+      { "en": "kitchen cookware", "ja": "台所の調理器具" },
+      { "en": "a piece of cookware", "ja": "調理器具1点" },
+      { "en": "quality cookware", "ja": "上質な調理器具" }
+    ],
+    "related": [
+      { "en": "pot", "ja": "鍋" },
+      { "en": "pan", "ja": "フライパン" },
+      { "en": "utensil", "ja": "調理用具・食器" },
+      { "en": "tableware", "ja": "食器" }
+    ],
+    "faq": [
+      { "q": "cookware とは？", "a": "鍋・フライパンなど、火にかけて料理するための『調理器具』をまとめて指す語です。不可算名詞です。" },
+      { "q": "数え方は？", "a": "不可算なので a set of cookware(調理器具一式)や a piece of cookware(1点)のように表します。" }
+    ],
+    "quiz": [
+      { "q": "cookware の意味は？", "A": "食器", "B": "鍋・フライパンなどの調理器具", "C": "料理本", "D": "食材", "correct": "B" },
+      { "q": "-ware が表すのは？", "A": "道具・製品", "B": "場所", "C": "人", "D": "時間", "correct": "A" }
+    ]
+  },
+  {
+    "english": "cooling",
+    "pron": "ˈkuːlɪŋ",
+    "kana": "クーリング",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "cool（冷やす）の現在分詞から",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "頻出"],
+    "meaning_main": "冷やす・涼しくする／冷却（すること）",
+    "description": "coolingの意味・発音・使い方。「冷やす・涼しくする」という形容詞と、「冷却」という名詞。cooling system(冷却装置)や cooling-off period(冷却期間)など、頻出の使い方を解説します。",
+    "keywords": ["cooling 意味", "冷却 英語", "cooling 発音", "cooling system"],
+    "meanings": [
+      { "hinshi": "【形】冷やす・涼しくする", "note": "熱を下げる、涼しく感じさせる" },
+      { "hinshi": "【名】冷却", "note": "温度を下げること、その過程" }
+    ],
+    "usages": [
+      { "title": "① 涼しくする(形容詞)", "desc": "涼感を与えるものに。", "example_en": "A cooling breeze came through the window.", "example_ja": "涼しい風が窓から入ってきた。" },
+      { "title": "② 冷却(名詞)", "desc": "装置・過程を表すときに。", "example_en": "The engine needs proper cooling.", "example_ja": "そのエンジンは適切な冷却が必要だ。" }
+    ],
+    "warn": ["cooling system＝冷却装置。cooling-off period＝(契約解除できる)冷却期間", "反対は heating(加熱・暖房)。動詞は cool"],
+    "etym_note": "cool（冷たい、冷やす、古英語 cōl)の現在分詞。「冷やす・冷却」の意味の形容詞・名詞になった。",
+    "etym_chain": [
+      { "node": "cōl", "sub": "冷たい", "era": "古英語" },
+      { "node": "cool", "sub": "冷やす", "era": "中英語" },
+      { "node": "cooling", "sub": "冷やす・冷却", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a cooling breeze", "ja": "涼しい風" },
+      { "en": "a cooling system", "ja": "冷却装置" },
+      { "en": "cooling-off period", "ja": "冷却期間・クーリングオフ" },
+      { "en": "cooling effect", "ja": "冷却効果" },
+      { "en": "leave to cool", "ja": "冷ましておく" },
+      { "en": "cooling and heating", "ja": "冷房と暖房" }
+    ],
+    "related": [
+      { "en": "cool", "ja": "冷たい・冷やす" },
+      { "en": "cold", "ja": "冷たい" },
+      { "en": "heating", "ja": "加熱・暖房" },
+      { "en": "refrigeration", "ja": "冷蔵・冷凍" }
+    ],
+    "faq": [
+      { "q": "cooling-off period とは？", "a": "契約後に一定期間内なら解約できる『冷却期間(クーリングオフ)』、または興奮を冷ます『冷却期間』を指します。" },
+      { "q": "反対語は？", "a": "heating(加熱・暖房)です。cooling は『冷やす・冷却』を意味します。" }
+    ],
+    "quiz": [
+      { "q": "a cooling breeze の意味は？", "A": "暖かい風", "B": "涼しい風", "C": "強い風", "D": "湿った風", "correct": "B" },
+      { "q": "cooling system とは？", "A": "暖房装置", "B": "冷却装置", "C": "照明装置", "D": "洗浄装置", "correct": "B" }
+    ]
+  },
+  {
+    "english": "copenhagen",
+    "pron": "ˌkoʊpənˈheɪɡən",
+    "kana": "コペンハーゲン",
+    "hinshi": "名詞（固有名詞）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "デンマーク語 København（商人の港）由来",
+    "ld_level": "-",
+    "badges": ["固有名詞", "地名", "ヨーロッパ", "検索ログ由来"],
+    "meaning_main": "コペンハーゲン（デンマークの首都）",
+    "description": "Copenhagenの意味・使い方。北欧デンマークの首都「コペンハーゲン」を指す固有名詞。人魚姫の像やチボリ公園で知られる港湾都市で、デンマーク語では København であることも解説します。",
+    "keywords": ["Copenhagen 意味", "コペンハーゲン 英語", "Copenhagen デンマーク", "Copenhagen 首都"],
+    "meanings": [
+      { "hinshi": "【固有名詞】コペンハーゲン", "note": "北欧デンマークの首都。海に面した港湾都市で、政治・経済・文化の中心" }
+    ],
+    "usages": [
+      { "title": "① 首都として", "desc": "ヨーロッパの地理の話題で。", "example_en": "Copenhagen is the capital of Denmark.", "example_ja": "コペンハーゲンはデンマークの首都だ。" },
+      { "title": "② 観光都市として", "desc": "旅行・文化の文脈で。", "example_en": "The Little Mermaid statue is in Copenhagen.", "example_ja": "人魚姫の像はコペンハーゲンにある。" }
+    ],
+    "warn": ["英単語ではなく地名(固有名詞)。検索ログから採録。先頭は大文字 Copenhagen", "デンマーク語では København。発音は「コウペンヘイゲン」に近い"],
+    "etym_note": "デンマーク語 København（køben＝商人 + havn＝港＝商人の港)に由来する。中世に交易港として栄えたことにちなむ。",
+    "etym_chain": [
+      { "node": "København", "sub": "商人の港", "era": "デンマーク語" },
+      { "node": "Copenhagen", "sub": "コペンハーゲン", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the city of Copenhagen", "ja": "コペンハーゲン市" },
+      { "en": "Copenhagen, Denmark", "ja": "デンマークのコペンハーゲン" },
+      { "en": "live in Copenhagen", "ja": "コペンハーゲンに住む" },
+      { "en": "fly to Copenhagen", "ja": "コペンハーゲンへ飛ぶ" },
+      { "en": "the port of Copenhagen", "ja": "コペンハーゲン港" },
+      { "en": "central Copenhagen", "ja": "コペンハーゲン中心部" }
+    ],
+    "related": [
+      { "en": "denmark", "ja": "デンマーク" },
+      { "en": "capital", "ja": "首都" },
+      { "en": "scandinavia", "ja": "スカンジナビア" },
+      { "en": "city", "ja": "都市" }
+    ],
+    "faq": [
+      { "q": "Copenhagen とはどこ？", "a": "北欧デンマークの首都です。人魚姫の像やチボリ公園で知られる港湾都市で、政治・文化の中心地です。" },
+      { "q": "英単語ではないの？", "a": "はい、地名(固有名詞)です。サイト内検索で入力されたため参考として掲載しています。" }
+    ],
+    "quiz": [
+      { "q": "Copenhagen はどの国の首都？", "A": "スウェーデン", "B": "デンマーク", "C": "ノルウェー", "D": "フィンランド", "correct": "B" },
+      { "q": "Copenhagen にある有名な像は？", "A": "自由の女神", "B": "人魚姫の像", "C": "考える人", "D": "ダビデ像", "correct": "B" }
+    ]
+  },
+  {
+    "english": "copyist",
+    "pron": "ˈkɒpiɪst",
+    "kana": "コピイスト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "copy（写す）+ -ist（〜する人）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "歴史・美術"],
+    "meaning_main": "筆写者・（文書や絵の）模写者",
+    "description": "copyistの意味・発音・使い方。印刷機がなかった時代に文書を手で書き写した「筆写者」や、名画を模写する「模写者」を指す語。scribe(写字生)との関係や、楽譜の写譜者の意味も解説します。",
+    "keywords": ["copyist 意味", "筆写者 英語", "copyist 発音", "模写者 英語"],
+    "meanings": [
+      { "hinshi": "【名】筆写者・写字生", "note": "印刷が普及する前、文書を手で書き写す仕事をした人" },
+      { "hinshi": "【名】模写者・写譜者", "note": "名画を模写する人、または楽譜を清書・写す人" }
+    ],
+    "usages": [
+      { "title": "① 文書の筆写者", "desc": "歴史・写本の話題で。", "example_en": "Medieval copyists reproduced books by hand.", "example_ja": "中世の筆写者は本を手で書き写した。" },
+      { "title": "② 絵の模写者", "desc": "美術の文脈で。", "example_en": "The copyist studied the masterpiece closely.", "example_ja": "模写者はその名画を綿密に研究した。" }
+    ],
+    "warn": ["scribe(古代・中世の写字生)と近い。copyist は手写し・模写全般に使う", "楽譜を清書する『写譜者』の意味もある"],
+    "etym_note": "copy（写す、ラテン語 copia＝豊富 由来)に、人を表す -ist がついた語。「写す人」を意味する。",
+    "etym_chain": [
+      { "node": "copia", "sub": "豊富・写し", "era": "ラテン語" },
+      { "node": "copy", "sub": "写す", "era": "中英語" },
+      { "node": "copyist", "sub": "筆写者・模写者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a medieval copyist", "ja": "中世の筆写者" },
+      { "en": "a skilled copyist", "ja": "熟練の筆写者" },
+      { "en": "a music copyist", "ja": "写譜者" },
+      { "en": "the copyist's work", "ja": "筆写者の仕事" },
+      { "en": "a copyist of paintings", "ja": "絵画の模写者" },
+      { "en": "an anonymous copyist", "ja": "無名の筆写者" }
+    ],
+    "related": [
+      { "en": "copy", "ja": "写す・複製" },
+      { "en": "scribe", "ja": "写字生・書記" },
+      { "en": "transcriber", "ja": "筆写者・書き起こす人" },
+      { "en": "imitator", "ja": "模倣者" }
+    ],
+    "faq": [
+      { "q": "copyist とは？", "a": "印刷機がなかった時代に文書を手で書き写した『筆写者』や、名画を模写する『模写者』、楽譜を写す『写譜者』を指します。" },
+      { "q": "scribe との違いは？", "a": "scribe は特に古代・中世の写字生・書記を指し、copyist はより広く手写し・模写をする人に使います。" }
+    ],
+    "quiz": [
+      { "q": "copyist の意味は？", "A": "印刷機", "B": "手で書き写す筆写者・模写者", "C": "編集者", "D": "翻訳者", "correct": "B" },
+      { "q": "copyist が活躍したのはどんな時代？", "A": "印刷が普及する前", "B": "インターネット時代", "C": "宇宙時代", "D": "産業革命後", "correct": "A" }
+    ]
+  },
+  {
+    "english": "cordiality",
+    "pron": "ˌkɔːrdiˈæləti",
+    "kana": "コーディアリティ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 cor（心）由来。cordial の名詞形",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "感情・態度"],
+    "meaning_main": "真心のこもった親切さ・心からの温かさ",
+    "description": "cordialityの意味・発音・使い方。心のこもった温かいもてなしや親しみ「真心のこもった親切さ」を表す名詞。形容詞 cordial や、ラテン語 cor(心)を含む語源を例文で解説します。",
+    "keywords": ["cordiality 意味", "cordiality 発音", "真心 英語", "cordial"],
+    "meanings": [
+      { "hinshi": "【名】真心のこもった親切さ・温かさ", "note": "心からの親しみをもって人に接すること。もてなしや歓迎の温かさ" }
+    ],
+    "usages": [
+      { "title": "① 温かいもてなし", "desc": "歓迎・交流の話題で。", "example_en": "They welcomed us with great cordiality.", "example_ja": "彼らは大変な温かさで私たちを迎えてくれた。" },
+      { "title": "② 心からの親しみ", "desc": "人間関係の温かさに。", "example_en": "The meeting was conducted with cordiality.", "example_ja": "その会合は和やかに行われた。" }
+    ],
+    "warn": ["形容詞は cordial(心からの・愛想のよい)。ラテン語 cor(心)を含む", "cordial には『(果実の)コーディアル飲料』の別の意味もある"],
+    "etym_note": "ラテン語 cor/cordis（心)由来の cordial(心からの)に、性質を表す -ity がついた語。「心のこもった温かさ」を意味する。core, courage と同語根。",
+    "etym_chain": [
+      { "node": "cor", "sub": "心", "era": "ラテン語" },
+      { "node": "cordial", "sub": "心からの", "era": "中英語" },
+      { "node": "cordiality", "sub": "真心のこもった親切さ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "great cordiality", "ja": "大変な温かさ" },
+      { "en": "with cordiality", "ja": "真心をこめて" },
+      { "en": "warmth and cordiality", "ja": "温かさと親しみ" },
+      { "en": "genuine cordiality", "ja": "心からの親切さ" },
+      { "en": "an air of cordiality", "ja": "和やかな雰囲気" },
+      { "en": "mutual cordiality", "ja": "互いの親しみ" }
+    ],
+    "related": [
+      { "en": "cordial", "ja": "心からの・愛想のよい" },
+      { "en": "warmth", "ja": "温かさ" },
+      { "en": "friendliness", "ja": "友好・親しみ" },
+      { "en": "hospitality", "ja": "もてなし" }
+    ],
+    "faq": [
+      { "q": "cordiality の意味は？", "a": "心のこもった温かいもてなしや親しみ『真心のこもった親切さ』を表す名詞です。形容詞は cordial です。" },
+      { "q": "語源は？", "a": "ラテン語 cor(心)です。core(核)、courage(勇気)と同じ『心』の語根を持ちます。" }
+    ],
+    "quiz": [
+      { "q": "cordiality の意味は？", "A": "冷たさ", "B": "真心のこもった親切さ・温かさ", "C": "怒り", "D": "無関心", "correct": "B" },
+      { "q": "cordiality の語源 cor の意味は？", "A": "心", "B": "手", "C": "目", "D": "足", "correct": "A" }
+    ]
+  },
+  {
+    "english": "cordiform",
+    "pron": "ˈkɔːrdɪfɔːrm",
+    "kana": "コーディフォーム",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 cor（心臓）+ forma（形）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "専門・形状"],
+    "meaning_main": "心臓形の・ハート形の",
+    "description": "cordiformの意味・使い方。心臓のような形をした「心臓形の・ハート形の」を表す専門的な形容詞。植物の葉や地図の図法の描写に使われ、ラテン語 cor(心臓)を含む語源も解説します。",
+    "keywords": ["cordiform 意味", "ハート形 英語", "心臓形 英語", "cordiform 発音"],
+    "meanings": [
+      { "hinshi": "【形】心臓形の・ハート形の", "note": "心臓(ハート)のような形をした。植物学・地図学などで使う専門的な語" }
+    ],
+    "usages": [
+      { "title": "① 葉の形", "desc": "植物学の描写で。", "example_en": "The plant has cordiform leaves.", "example_ja": "その植物はハート形の葉を持つ。" },
+      { "title": "② 地図の図法", "desc": "地図学の文脈で。", "example_en": "A cordiform map projection is shaped like a heart.", "example_ja": "心臓形の地図図法はハートのような形をしている。" }
+    ],
+    "warn": ["専門語。日常では heart-shaped が普通。ラテン語 cor(心臓)+ forma(形)", "-form は『〜の形の』を表す(uniform, cruciform など)"],
+    "etym_note": "ラテン語 cor（心臓)+ forma（形)＝「心臓の形の」。cordial(心からの)と同じ cor(心)を含む。",
+    "etym_chain": [
+      { "node": "cor + forma", "sub": "心臓＋形", "era": "ラテン語" },
+      { "node": "cordiform", "sub": "心臓形の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "cordiform leaves", "ja": "ハート形の葉" },
+      { "en": "a cordiform shape", "ja": "心臓形" },
+      { "en": "a cordiform map", "ja": "心臓形の地図" },
+      { "en": "cordiform petals", "ja": "ハート形の花びら" },
+      { "en": "a cordiform outline", "ja": "心臓形の輪郭" },
+      { "en": "cordiform and symmetrical", "ja": "心臓形で左右対称の" }
+    ],
+    "related": [
+      { "en": "heart-shaped", "ja": "ハート形の" },
+      { "en": "cardiac", "ja": "心臓の" },
+      { "en": "shape", "ja": "形" },
+      { "en": "leaf", "ja": "葉" }
+    ],
+    "faq": [
+      { "q": "cordiform の意味は？", "a": "心臓のような形をした『心臓形の・ハート形の』を表す専門的な形容詞です。日常では heart-shaped が普通です。" },
+      { "q": "-form はどんな意味？", "a": "『〜の形の』を表す接尾辞です。uniform(一様な)、cruciform(十字形の)などにも使われます。" }
+    ],
+    "quiz": [
+      { "q": "cordiform の意味は？", "A": "四角い", "B": "心臓形の・ハート形の", "C": "丸い", "D": "細長い", "correct": "B" },
+      { "q": "cordiform の -form が表すのは？", "A": "〜の形の", "B": "〜の色の", "C": "〜の大きさの", "D": "〜の重さの", "correct": "A" }
+    ]
+  },
+  {
+    "english": "coriander",
+    "pron": "ˌkɒriˈændər",
+    "kana": "コリアンダー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 koriannon 由来",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "食べ物・香草"],
+    "meaning_main": "コリアンダー（パクチー／その種子の香辛料）",
+    "description": "corianderの意味・発音・使い方。独特の香りを持つ香草「コリアンダー(パクチー)」と、その乾燥種子の香辛料を指す語。米では葉を cilantro と呼ぶ違いや、料理での使い方を解説します。",
+    "keywords": ["coriander 意味", "パクチー 英語", "coriander 発音", "cilantro 違い"],
+    "meanings": [
+      { "hinshi": "【名】コリアンダー(香草)", "note": "独特の香りを持つセリ科の香草。葉はパクチー・香菜(シャンツァイ)とも呼ばれる" },
+      { "hinshi": "【名】コリアンダー(香辛料)", "note": "その乾燥した種子を使う、柑橘系の香りの香辛料" }
+    ],
+    "usages": [
+      { "title": "① 香草として", "desc": "料理・ハーブの話題で。", "example_en": "Add fresh coriander to the curry.", "example_ja": "カレーに生のコリアンダー(パクチー)を加えて。" },
+      { "title": "② 香辛料の種子", "desc": "スパイスとしての用法で。", "example_en": "Ground coriander seeds give a warm flavor.", "example_ja": "挽いたコリアンダーの種は温かみのある風味を与える。" }
+    ],
+    "warn": ["米英で名前が違う。米では葉を cilantro(スペイン語由来)、英では coriander", "セリ科の香草。好き嫌いが分かれる独特の香り"],
+    "etym_note": "ギリシャ語 koriannon → ラテン語 coriandrum を経て英語に。古代から香辛料・薬草として使われてきた。",
+    "etym_chain": [
+      { "node": "koriannon", "sub": "コリアンダー", "era": "古代ギリシャ語" },
+      { "node": "coriandrum", "sub": "コリアンダー", "era": "ラテン語" },
+      { "node": "coriander", "sub": "コリアンダー", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "fresh coriander", "ja": "生のコリアンダー(パクチー)" },
+      { "en": "ground coriander", "ja": "挽いたコリアンダー" },
+      { "en": "coriander seeds", "ja": "コリアンダーの種" },
+      { "en": "chopped coriander", "ja": "刻んだコリアンダー" },
+      { "en": "a bunch of coriander", "ja": "コリアンダー1束" },
+      { "en": "coriander and cumin", "ja": "コリアンダーとクミン" }
+    ],
+    "related": [
+      { "en": "cilantro", "ja": "パクチー(米での葉の呼び名)" },
+      { "en": "herb", "ja": "香草・ハーブ" },
+      { "en": "spice", "ja": "香辛料" },
+      { "en": "parsley", "ja": "パセリ" }
+    ],
+    "faq": [
+      { "q": "coriander と cilantro の違いは？", "a": "同じ植物です。イギリスでは全体を coriander、アメリカでは葉を cilantro、種を coriander と呼び分けます。日本ではパクチーとも言います。" },
+      { "q": "どんな味・香り？", "a": "葉は独特の強い香りで好き嫌いが分かれます。種は柑橘系の温かみのある香りの香辛料です。" }
+    ],
+    "quiz": [
+      { "q": "coriander の葉は日本で何と呼ばれる？", "A": "パクチー・香菜", "B": "バジル", "C": "ミント", "D": "ローズマリー", "correct": "A" },
+      { "q": "アメリカで coriander の葉を指す語は？", "A": "cilantro", "B": "cinnamon", "C": "celery", "D": "chive", "correct": "A" }
+    ]
+  },
+  {
+    "english": "corneal",
+    "pron": "ˈkɔːrniəl",
+    "kana": "コーニアル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "cornea（角膜）+ -al",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "医学"],
+    "meaning_main": "角膜の（目の表面の透明な膜の）",
+    "description": "cornealの意味・発音・使い方。目の表面をおおう透明な膜「角膜(cornea)」に関することを表す医学の形容詞。corneal transplant(角膜移植)など、眼科での用法を例文で解説します。",
+    "keywords": ["corneal 意味", "角膜 英語", "corneal 発音", "cornea"],
+    "meanings": [
+      { "hinshi": "【形】角膜の", "note": "目の表面をおおう透明な膜(角膜 cornea)に関する。医学用語" }
+    ],
+    "usages": [
+      { "title": "① 角膜移植", "desc": "眼科・手術の話題で。", "example_en": "He received a corneal transplant.", "example_ja": "彼は角膜移植を受けた。" },
+      { "title": "② 角膜の損傷", "desc": "目のけがの文脈で。", "example_en": "She suffered a corneal abrasion.", "example_ja": "彼女は角膜のすり傷を負った。" }
+    ],
+    "warn": ["名詞は cornea(角膜)。目の一番外側の透明な膜", "corneal transplant＝角膜移植、corneal abrasion＝角膜擦過傷"],
+    "etym_note": "ラテン語 corneus（角のような、cornu＝角 由来)から cornea(角膜)ができ、それに -al がついた形容詞。角のように透明で硬い膜、というイメージ。",
+    "etym_chain": [
+      { "node": "cornu", "sub": "角(つの)", "era": "ラテン語" },
+      { "node": "cornea", "sub": "角膜", "era": "中世ラテン語" },
+      { "node": "corneal", "sub": "角膜の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a corneal transplant", "ja": "角膜移植" },
+      { "en": "corneal abrasion", "ja": "角膜擦過傷" },
+      { "en": "corneal ulcer", "ja": "角膜潰瘍" },
+      { "en": "corneal tissue", "ja": "角膜組織" },
+      { "en": "corneal surgery", "ja": "角膜手術" },
+      { "en": "the corneal surface", "ja": "角膜の表面" }
+    ],
+    "related": [
+      { "en": "cornea", "ja": "角膜" },
+      { "en": "eye", "ja": "目" },
+      { "en": "retina", "ja": "網膜" },
+      { "en": "optical", "ja": "目の・光学の" }
+    ],
+    "faq": [
+      { "q": "corneal とは？", "a": "目の表面をおおう透明な膜『角膜(cornea)』に関することを表す医学の形容詞です。" },
+      { "q": "corneal transplant とは？", "a": "傷んだ角膜を提供された健康な角膜と取り替える『角膜移植』のことです。" }
+    ],
+    "quiz": [
+      { "q": "corneal は目のどの部分の形容詞？", "A": "まつげ", "B": "角膜", "C": "まぶた", "D": "眉毛", "correct": "B" },
+      { "q": "corneal の名詞形は？", "A": "cornea(角膜)", "B": "corn", "C": "corner", "D": "cornet", "correct": "A" }
+    ]
+  },
+  {
+    "english": "cornerstone",
+    "pron": "ˈkɔːrnərstoʊn",
+    "kana": "コーナーストーン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "corner（隅）+ stone（石）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "比喩・建築"],
+    "meaning_main": "礎石（そせき）／（比喩）土台・最も重要な基礎",
+    "description": "cornerstoneの意味・発音・使い方。建物の基礎となる「礎石」と、そこから生まれた「土台・最も重要な基礎」という比喩を指す語。the cornerstone of ~ の使い方を例文で解説します。",
+    "keywords": ["cornerstone 意味", "礎石 英語", "cornerstone 発音", "土台 英語"],
+    "meanings": [
+      { "hinshi": "【名】礎石", "note": "建物の土台の隅に据える基礎の石。しばしば建設の記念に置く" },
+      { "hinshi": "【名】土台・最も重要な基礎(比喩)", "note": "物事を支える一番大切な要素。the cornerstone of ~" }
+    ],
+    "usages": [
+      { "title": "① 比喩の土台", "desc": "最重要の基礎を表すときに。", "example_en": "Trust is the cornerstone of any relationship.", "example_ja": "信頼はあらゆる関係の土台だ。" },
+      { "title": "② 建物の礎石", "desc": "建築の文脈で。", "example_en": "They laid the cornerstone of the new building.", "example_ja": "彼らは新しい建物の礎石を据えた。" }
+    ],
+    "warn": ["the cornerstone of ~＝『〜の土台・最も重要な基礎』が定番の比喩", "lay the cornerstone＝礎石を据える(建設の起工の象徴)"],
+    "etym_note": "corner（隅)+ stone（石)の複合語。建物の隅で全体を支える『礎石』から、比喩的に『最も重要な基礎』の意味になった。",
+    "etym_chain": [
+      { "node": "corner + stone", "sub": "隅＋石", "era": "中英語" },
+      { "node": "cornerstone", "sub": "礎石・土台", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the cornerstone of", "ja": "〜の土台・基礎" },
+      { "en": "lay the cornerstone", "ja": "礎石を据える" },
+      { "en": "a cornerstone of democracy", "ja": "民主主義の礎" },
+      { "en": "the cornerstone of the policy", "ja": "その政策の土台" },
+      { "en": "form the cornerstone", "ja": "土台をなす" },
+      { "en": "a cornerstone of success", "ja": "成功の基礎" }
+    ],
+    "related": [
+      { "en": "foundation", "ja": "基礎・土台" },
+      { "en": "basis", "ja": "基礎" },
+      { "en": "keystone", "ja": "要石・かなめ" },
+      { "en": "pillar", "ja": "柱・支柱" }
+    ],
+    "faq": [
+      { "q": "cornerstone の比喩の意味は？", "a": "物事を支える『最も重要な基礎・土台』です。the cornerstone of ~ の形でよく使います。" },
+      { "q": "元の意味は？", "a": "建物の土台の隅に据える基礎の石『礎石』です。" }
+    ],
+    "quiz": [
+      { "q": "the cornerstone of ~ の意味は？", "A": "〜の飾り", "B": "〜の土台・最も重要な基礎", "C": "〜の欠点", "D": "〜の費用", "correct": "B" },
+      { "q": "cornerstone の元の意味は？", "A": "屋根瓦", "B": "礎石(基礎の石)", "C": "窓ガラス", "D": "煙突", "correct": "B" }
+    ]
+  }
+]
