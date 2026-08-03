@@ -1,0 +1,973 @@
+[
+  {
+    "english": "dashing",
+    "pron": "ˈdæʃɪŋ",
+    "kana": "ダッシング",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "dash（勢いよく動く）の現在分詞から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "外見・性格"],
+    "meaning_main": "（特に男性が）さっそうとした・粋で魅力的な",
+    "description": "dashingの意味・発音・使い方。特に男性が「さっそうとして粋で魅力的な」様子を表す、やや古風なほめ言葉の形容詞。dash(勢い)由来の成り立ちや、a dashing young man などの用法を解説します。",
+    "keywords": ["dashing 意味", "さっそうとした 英語", "dashing 発音", "粋な 英語"],
+    "meanings": [
+      { "hinshi": "【形】さっそうとした・粋で魅力的な", "note": "特に男性が、勢いがあり自信に満ちて、身なりも垢抜けて魅力的な様子。ほめ言葉" }
+    ],
+    "usages": [
+      { "title": "① 魅力的な男性", "desc": "外見・態度をほめるときに。", "example_en": "He was a dashing young officer.", "example_ja": "彼はさっそうとした若い将校だった。" },
+      { "title": "② 粋な装い", "desc": "身なりの描写に。", "example_en": "She looked dashing in her riding outfit.", "example_ja": "彼女は乗馬服姿がさっそうとしていた。" }
+    ],
+    "warn": ["やや古風なほめ言葉。主に男性の『粋で魅力的』な様子に使う", "dash(突進・勢い)由来。名詞 dash は『少量・ダッシュ記号』の意味も"],
+    "etym_note": "dash（勢いよく突進する)の現在分詞。「勢いがあって颯爽とした」から『粋で魅力的な』の意味になった。",
+    "etym_chain": [
+      { "node": "dash", "sub": "勢いよく動く", "era": "中英語" },
+      { "node": "dashing", "sub": "さっそうとした", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a dashing young man", "ja": "さっそうとした若者" },
+      { "en": "look dashing", "ja": "粋に見える" },
+      { "en": "a dashing hero", "ja": "さっそうとした英雄" },
+      { "en": "dashing and handsome", "ja": "粋でハンサムな" },
+      { "en": "a dashing figure", "ja": "颯爽とした姿" },
+      { "en": "a dashing smile", "ja": "魅力的な笑み" }
+    ],
+    "related": [
+      { "en": "dapper", "ja": "身なりの粋な" },
+      { "en": "charming", "ja": "魅力的な" },
+      { "en": "gallant", "ja": "勇敢で粋な" },
+      { "en": "elegant", "ja": "上品な" }
+    ],
+    "faq": [
+      { "q": "dashing の意味は？", "a": "特に男性が『さっそうとして粋で魅力的な』様子を表す、やや古風なほめ言葉の形容詞です。" },
+      { "q": "語源は？", "a": "dash(勢いよく突進する)の現在分詞です。勢いがある様子から『颯爽とした・魅力的な』の意味になりました。" }
+    ],
+    "quiz": [
+      { "q": "dashing の意味は？", "A": "だらしない", "B": "さっそうとして粋で魅力的な", "C": "臆病な", "D": "退屈な", "correct": "B" },
+      { "q": "dashing は主に誰に使う？", "A": "粋で魅力的な男性", "B": "赤ちゃん", "C": "老人だけ", "D": "動物", "correct": "A" }
+    ]
+  },
+  {
+    "english": "database",
+    "pron": "ˈdeɪtəbeɪs",
+    "kana": "データベース",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "data（データ）+ base（基地・基盤）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "IT・頻出"],
+    "meaning_main": "データベース（整理して保存された情報の集まり）",
+    "description": "databaseの意味・発音・使い方。コンピューターで検索・管理しやすいように整理して保存した情報の集まり「データベース」を指す語。data(データ)+ base(基盤)の成り立ちや、日常での用法を解説します。",
+    "keywords": ["database 意味", "データベース 英語", "database 発音", "データ 管理 英語"],
+    "meanings": [
+      { "hinshi": "【名】データベース", "note": "コンピューターで検索・更新・管理しやすいように整理して保存された情報の集まり" }
+    ],
+    "usages": [
+      { "title": "① 情報の保存", "desc": "IT・業務の話題で。", "example_en": "The customer information is stored in a database.", "example_ja": "顧客情報はデータベースに保存されている。" },
+      { "title": "② 検索・管理", "desc": "データ活用の文脈で。", "example_en": "We searched the database for the record.", "example_ja": "私たちはその記録をデータベースで検索した。" }
+    ],
+    "warn": ["data(データ)+ base(基盤)の複合語。1語 database で書く", "SQL などで管理する。表(table)・レコード(record)から成る"],
+    "etym_note": "data（データ、ラテン語 datum＝与えられたもの の複数)+ base（基盤、土台)の複合語。「データの土台・集積」を意味する。20世紀後半のコンピューター時代に生まれた。",
+    "etym_chain": [
+      { "node": "data + base", "sub": "データ＋基盤", "era": "20世紀英語" },
+      { "node": "database", "sub": "データベース", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "store in a database", "ja": "データベースに保存する" },
+      { "en": "search a database", "ja": "データベースを検索する" },
+      { "en": "a customer database", "ja": "顧客データベース" },
+      { "en": "update the database", "ja": "データベースを更新する" },
+      { "en": "a database of records", "ja": "記録のデータベース" },
+      { "en": "an online database", "ja": "オンラインデータベース" }
+    ],
+    "related": [
+      { "en": "data", "ja": "データ" },
+      { "en": "record", "ja": "記録・レコード" },
+      { "en": "server", "ja": "サーバー" },
+      { "en": "spreadsheet", "ja": "表計算・スプレッドシート" }
+    ],
+    "faq": [
+      { "q": "database とは？", "a": "コンピューターで検索・管理しやすいように整理して保存した情報の集まり『データベース』です。" },
+      { "q": "成り立ちは？", "a": "data(データ)+ base(基盤・土台)の複合語で、『データの集積・土台』を意味します。" }
+    ],
+    "quiz": [
+      { "q": "database の意味は？", "A": "整理して保存された情報の集まり", "B": "計算機", "C": "画面", "D": "電源", "correct": "A" },
+      { "q": "database の成り立ちは？", "A": "data + base", "B": "date + face", "C": "day + case", "D": "dark + base", "correct": "A" }
+    ]
+  },
+  {
+    "english": "dating",
+    "pron": "ˈdeɪtɪŋ",
+    "kana": "デイティング",
+    "hinshi": "名詞 / 動詞（現在分詞）",
+    "ld_pos": "名詞",
+    "ld_etym": "date（日付・交際する）の現在分詞から",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "恋愛・頻出"],
+    "meaning_main": "デート・交際（恋愛関係で会うこと）／年代測定",
+    "description": "datingの意味・発音・使い方。恋愛相手と会って付き合う「デート・交際」と、遺物などの「年代測定」を指す語。dating app(出会い系アプリ)や carbon dating(炭素年代測定)などの用法を解説します。",
+    "keywords": ["dating 意味", "デート 英語", "dating app", "年代測定 英語"],
+    "meanings": [
+      { "hinshi": "【名】デート・交際", "note": "恋愛相手として会い、付き合うこと" },
+      { "hinshi": "【名】年代測定", "note": "遺物・地層などが何年前のものか測定すること。carbon dating＝炭素年代測定" }
+    ],
+    "usages": [
+      { "title": "① 恋愛の交際", "desc": "恋愛の話題で。", "example_en": "They have been dating for a year.", "example_ja": "彼らは1年間付き合っている。" },
+      { "title": "② 年代測定", "desc": "考古学・科学の文脈で。", "example_en": "Carbon dating showed the fossil was ancient.", "example_ja": "炭素年代測定でその化石が古代のものだと分かった。" }
+    ],
+    "warn": ["動詞 date は『日付を記す』『交際する』『年代を特定する』の多義", "dating app/site＝出会い系アプリ/サイト。carbon dating＝炭素年代測定"],
+    "etym_note": "date（日付、ラテン語 data＝与えられた(日) 由来)の現在分詞。「日付を決めて会う」から『交際』、「年代を定める」から『年代測定』の意味になった。",
+    "etym_chain": [
+      { "node": "date", "sub": "日付・交際する", "era": "中英語" },
+      { "node": "dating", "sub": "デート・年代測定", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a dating app", "ja": "出会い系アプリ" },
+      { "en": "start dating", "ja": "付き合い始める" },
+      { "en": "online dating", "ja": "オンラインの出会い" },
+      { "en": "carbon dating", "ja": "炭素年代測定" },
+      { "en": "a dating site", "ja": "出会い系サイト" },
+      { "en": "speed dating", "ja": "スピードデート" }
+    ],
+    "related": [
+      { "en": "date", "ja": "日付・デート・交際する" },
+      { "en": "relationship", "ja": "交際・関係" },
+      { "en": "romance", "ja": "恋愛" },
+      { "en": "age", "ja": "年代・年齢" }
+    ],
+    "faq": [
+      { "q": "dating の意味は？", "a": "恋愛相手と会って付き合う『デート・交際』と、遺物などの『年代測定』の二つの意味があります。" },
+      { "q": "carbon dating とは？", "a": "生物の遺物に含まれる炭素を調べて、何年前のものかを測る『炭素年代測定』のことです。" }
+    ],
+    "quiz": [
+      { "q": "a dating app とは？", "A": "料理アプリ", "B": "出会い系アプリ", "C": "地図アプリ", "D": "天気アプリ", "correct": "B" },
+      { "q": "carbon dating の意味は？", "A": "炭素年代測定", "B": "料理の温度", "C": "運動量", "D": "音の速さ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "dauntless",
+    "pron": "ˈdɔːntləs",
+    "kana": "ドーントレス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "daunt（ひるませる）+ -less（〜がない）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "性格・文語"],
+    "meaning_main": "ひるまない・不屈の・恐れを知らない",
+    "description": "dauntlessの意味・発音・使い方。困難や危険にも「ひるまない・不屈の・恐れを知らない」を表す文語的なほめ言葉。動詞 daunt(ひるませる)や、undaunted(ひるまない)との関係を解説します。",
+    "keywords": ["dauntless 意味", "不屈 英語", "dauntless 発音", "ひるまない 英語"],
+    "meanings": [
+      { "hinshi": "【形】ひるまない・不屈の・恐れを知らない", "note": "困難・危険・脅しにも屈せず、勇敢で決然としている様子。文語的" }
+    ],
+    "usages": [
+      { "title": "① 不屈の勇気", "desc": "勇敢さをたたえるときに。", "example_en": "The dauntless explorer pressed on.", "example_ja": "不屈の探検家は前進し続けた。" },
+      { "title": "② 恐れを知らない態度", "desc": "困難に立ち向かう様子に。", "example_en": "She showed dauntless determination.", "example_ja": "彼女は恐れを知らない決意を示した。" }
+    ],
+    "warn": ["動詞 daunt(ひるませる)+ -less(〜がない)。undaunted(ひるまない)も同義", "文語的・格調高い語。日常では fearless / brave が普通"],
+    "etym_note": "daunt（ひるませる、ラテン語 domitare＝ならす・従わせる 由来)に、「〜がない」を表す -less がついた語。「ひるむことがない」を意味する。",
+    "etym_chain": [
+      { "node": "domitare", "sub": "従わせる", "era": "ラテン語" },
+      { "node": "daunt", "sub": "ひるませる", "era": "中英語" },
+      { "node": "dauntless", "sub": "ひるまない", "era": "16世紀英語" }
+    ],
+    "phrases": [
+      { "en": "a dauntless spirit", "ja": "不屈の精神" },
+      { "en": "dauntless courage", "ja": "恐れを知らない勇気" },
+      { "en": "a dauntless hero", "ja": "不屈の英雄" },
+      { "en": "dauntless in the face of danger", "ja": "危険を前にしてもひるまない" },
+      { "en": "remain dauntless", "ja": "ひるまずにいる" },
+      { "en": "dauntless determination", "ja": "不屈の決意" }
+    ],
+    "related": [
+      { "en": "fearless", "ja": "恐れを知らない" },
+      { "en": "undaunted", "ja": "ひるまない" },
+      { "en": "intrepid", "ja": "勇猛な" },
+      { "en": "daunt", "ja": "ひるませる" }
+    ],
+    "faq": [
+      { "q": "dauntless の意味は？", "a": "困難や危険にも『ひるまない・不屈の・恐れを知らない』を表す文語的なほめ言葉の形容詞です。" },
+      { "q": "成り立ちは？", "a": "daunt(ひるませる)+ -less(〜がない)で『ひるむことがない』が原義です。undaunted も同義です。" }
+    ],
+    "quiz": [
+      { "q": "dauntless の意味は？", "A": "臆病な", "B": "ひるまない・不屈の", "C": "怠惰な", "D": "無関心な", "correct": "B" },
+      { "q": "dauntless の -less が表すのは？", "A": "〜がない", "B": "〜より小さい", "C": "〜のような", "D": "〜化する", "correct": "A" }
+    ]
+  },
+  {
+    "english": "davao",
+    "pron": "dɑːˈvaʊ",
+    "kana": "ダバオ",
+    "hinshi": "名詞（固有名詞）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "フィリピンの都市名",
+    "ld_level": "-",
+    "badges": ["固有名詞", "地名", "フィリピン", "検索ログ由来"],
+    "meaning_main": "ダバオ（フィリピン・ミンダナオ島の都市）",
+    "description": "Davaoの意味・使い方。フィリピン南部・ミンダナオ島の最大都市「ダバオ」を指す固有名詞。ドリアンなどの果物や、フィリピン有数の面積を持つ都市であることを解説します。",
+    "keywords": ["Davao 意味", "ダバオ 英語", "Davao フィリピン", "Davao 発音"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ダバオ", "note": "フィリピン南部・ミンダナオ島にある大都市。ダバオ市。港湾・商業の中心" }
+    ],
+    "usages": [
+      { "title": "① 都市として", "desc": "フィリピンの地理の話題で。", "example_en": "Davao is a major city in the Philippines.", "example_ja": "ダバオはフィリピンの主要都市だ。" },
+      { "title": "② 果物の産地", "desc": "産業・食の文脈で。", "example_en": "Davao is famous for durian fruit.", "example_ja": "ダバオはドリアンで有名だ。" }
+    ],
+    "warn": ["英単語ではなく地名(固有名詞)。検索ログから採録。先頭は大文字 Davao", "フィリピン・ミンダナオ島の都市。マニラ・セブと並ぶ主要都市"],
+    "etym_note": "現地の地名に由来する。ミンダナオ島南東部に位置し、フィリピンでも有数の面積を持つ都市として発展した。",
+    "etym_chain": [
+      { "node": "現地の地名", "sub": "地名", "era": "現地語" },
+      { "node": "Davao", "sub": "ダバオ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Davao City", "ja": "ダバオ市" },
+      { "en": "Davao, Philippines", "ja": "フィリピンのダバオ" },
+      { "en": "the island of Mindanao", "ja": "ミンダナオ島" },
+      { "en": "live in Davao", "ja": "ダバオに住む" },
+      { "en": "fly to Davao", "ja": "ダバオへ飛ぶ" },
+      { "en": "durian from Davao", "ja": "ダバオのドリアン" }
+    ],
+    "related": [
+      { "en": "philippines", "ja": "フィリピン" },
+      { "en": "mindanao", "ja": "ミンダナオ島" },
+      { "en": "city", "ja": "都市" },
+      { "en": "manila", "ja": "マニラ" }
+    ],
+    "faq": [
+      { "q": "Davao とはどこ？", "a": "フィリピン南部・ミンダナオ島にある大都市『ダバオ』です。港湾・商業の中心で、ドリアンなどの果物でも知られます。" },
+      { "q": "英単語ではないの？", "a": "はい、地名(固有名詞)です。サイト内検索で入力されたため参考として掲載しています。" }
+    ],
+    "quiz": [
+      { "q": "Davao はどの国の都市？", "A": "インドネシア", "B": "フィリピン", "C": "マレーシア", "D": "タイ", "correct": "B" },
+      { "q": "Davao があるのはどの島？", "A": "ミンダナオ島", "B": "ルソン島だけ", "C": "北海道", "D": "ハワイ島", "correct": "A" }
+    ]
+  },
+  {
+    "english": "dawdle",
+    "pron": "ˈdɔːdl",
+    "kana": "ドードル",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "17世紀の方言 daddle（ぐずぐずする）由来",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "動作・口語"],
+    "meaning_main": "ぐずぐずする・のろのろ過ごす・時間をかける",
+    "description": "dawdleの意味・発音・使い方。急がずに「ぐずぐずする・のろのろと時間をかける」を表す動詞。dawdle along(のんびり歩く)や、hurry(急ぐ)との対比を例文で解説します。",
+    "keywords": ["dawdle 意味", "ぐずぐず 英語", "dawdle 発音", "のろのろ 英語"],
+    "meanings": [
+      { "hinshi": "【動】ぐずぐずする・のろのろ過ごす", "note": "急ぐべきときに、時間を無駄にゆっくり過ごす・遅れる" }
+    ],
+    "usages": [
+      { "title": "① 時間をかけすぎる", "desc": "急がない様子の描写に。", "example_en": "Don't dawdle—we're going to be late!", "example_ja": "ぐずぐずしないで、遅れちゃうよ！" },
+      { "title": "② のんびり進む", "desc": "dawdle along の形で。", "example_en": "The children dawdled along on their way home.", "example_ja": "子どもたちは帰り道をのろのろ歩いた。" }
+    ],
+    "warn": ["急ぐべきときに『ぐずぐずする』という否定的なニュアンス。hurry の反対", "dawdle over ~＝『〜にだらだら時間をかける』"],
+    "etym_note": "17世紀の方言 daddle / doddle（ぐずぐずする、よちよち歩く)由来とされる。「のろのろと時間を過ごす」を意味する。",
+    "etym_chain": [
+      { "node": "daddle", "sub": "ぐずぐずする", "era": "17世紀方言" },
+      { "node": "dawdle", "sub": "ぐずぐずする", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "don't dawdle", "ja": "ぐずぐずするな" },
+      { "en": "dawdle along", "ja": "のろのろ進む" },
+      { "en": "dawdle over lunch", "ja": "昼食にだらだら時間をかける" },
+      { "en": "stop dawdling", "ja": "ぐずぐずするのをやめる" },
+      { "en": "dawdle on the way", "ja": "道草を食う" },
+      { "en": "dawdle around", "ja": "のらくらする" }
+    ],
+    "related": [
+      { "en": "linger", "ja": "ぐずぐず残る" },
+      { "en": "loiter", "ja": "ぶらつく" },
+      { "en": "hurry", "ja": "急ぐ" },
+      { "en": "delay", "ja": "遅らせる" }
+    ],
+    "faq": [
+      { "q": "dawdle の意味は？", "a": "急ぐべきときに『ぐずぐずする・のろのろと時間をかける』を表す動詞です。しばしば否定的に使われます。" },
+      { "q": "反対語は？", "a": "hurry(急ぐ)です。dawdle は急がずにだらだら過ごすことを表します。" }
+    ],
+    "quiz": [
+      { "q": "dawdle の意味は？", "A": "急ぐ", "B": "ぐずぐずする・のろのろ過ごす", "C": "走る", "D": "跳ぶ", "correct": "B" },
+      { "q": "dawdle の反対語は？", "A": "hurry(急ぐ)", "B": "sleep", "C": "walk", "D": "wait", "correct": "A" }
+    ]
+  },
+  {
+    "english": "daylong",
+    "pron": "ˈdeɪlɔːŋ",
+    "kana": "デイロング",
+    "hinshi": "形容詞 / 副詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "day（日）+ long（長い・〜の間ずっと）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "時間"],
+    "meaning_main": "一日中続く・終日の",
+    "description": "daylongの意味・使い方。ある活動や状態が「一日中続く・終日の」を表す形容詞・副詞。day(日)+ long(〜の間ずっと)の成り立ちや、all-day との違いを例文で解説します。",
+    "keywords": ["daylong 意味", "一日中 英語", "daylong 発音", "終日 英語"],
+    "meanings": [
+      { "hinshi": "【形/副】一日中続く・終日の", "note": "朝から晩まで、まる一日にわたって続く" }
+    ],
+    "usages": [
+      { "title": "① 終日のイベント", "desc": "行事・活動の話題で。", "example_en": "They held a daylong workshop.", "example_ja": "彼らは一日がかりのワークショップを開いた。" },
+      { "title": "② 一日中の状態", "desc": "続く状態の描写に。", "example_en": "A daylong rain flooded the streets.", "example_ja": "一日中の雨が通りを水浸しにした。" }
+    ],
+    "warn": ["day(日)+ long(〜の間ずっと)。all-day(終日の)とほぼ同義", "同じ作りに weeklong(一週間続く)、yearlong(一年続く)がある"],
+    "etym_note": "day（日)+ long（〜の間ずっと)の複合語。「一日じゅう続く」を意味する。lifelong(生涯の)、monthlong(一か月続く)と同じ作り。",
+    "etym_chain": [
+      { "node": "day + long", "sub": "日＋ずっと", "era": "近代英語" },
+      { "node": "daylong", "sub": "一日中続く", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a daylong event", "ja": "終日のイベント" },
+      { "en": "a daylong meeting", "ja": "一日がかりの会議" },
+      { "en": "daylong rain", "ja": "一日中の雨" },
+      { "en": "a daylong journey", "ja": "一日がかりの旅" },
+      { "en": "a daylong festival", "ja": "終日の祭り" },
+      { "en": "daylong celebrations", "ja": "一日中の祝賀" }
+    ],
+    "related": [
+      { "en": "all-day", "ja": "終日の" },
+      { "en": "weeklong", "ja": "一週間続く" },
+      { "en": "lifelong", "ja": "生涯の" },
+      { "en": "lengthy", "ja": "長々とした" }
+    ],
+    "faq": [
+      { "q": "daylong の意味は？", "a": "ある活動や状態が『一日中続く・終日の』を表す形容詞・副詞です。" },
+      { "q": "成り立ちは？", "a": "day(日)+ long(〜の間ずっと)です。weeklong(一週間続く)、yearlong(一年続く)と同じ作りです。" }
+    ],
+    "quiz": [
+      { "q": "daylong の意味は？", "A": "ほんの一瞬の", "B": "一日中続く・終日の", "C": "一年続く", "D": "夜だけの", "correct": "B" },
+      { "q": "daylong と同じ作りの語は？", "A": "weeklong(一週間続く)", "B": "daytime", "C": "daylight", "D": "midday", "correct": "A" }
+    ]
+  },
+  {
+    "english": "daze",
+    "pron": "deɪz",
+    "kana": "デイズ",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古ノルド語 dasa（疲れさせる）由来",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "感情・状態"],
+    "meaning_main": "ぼうっとさせる・呆然とさせる／（in a daze で）ぼんやりした状態",
+    "description": "dazeの意味・発音・使い方。衝撃や驚きで「ぼうっとさせる・呆然とさせる」という動詞と、in a daze(ぼんやりした状態で)という名詞用法。dazed(呆然とした)との関係を例文で解説します。",
+    "keywords": ["daze 意味", "呆然 英語", "daze 発音", "in a daze"],
+    "meanings": [
+      { "hinshi": "【動】ぼうっとさせる・呆然とさせる", "note": "衝撃・驚き・打撃などで、頭がぼんやりして何も考えられない状態にする" },
+      { "hinshi": "【名】ぼんやりした状態", "note": "in a daze で『ぼんやりして・呆然として』" }
+    ],
+    "usages": [
+      { "title": "① 呆然とさせる(動詞)", "desc": "衝撃の影響を表すときに。", "example_en": "The blow dazed him for a moment.", "example_ja": "その一撃で彼は一瞬呆然とした。" },
+      { "title": "② in a daze", "desc": "ぼんやりした状態を表す。", "example_en": "She wandered around in a daze.", "example_ja": "彼女はぼんやりした状態で歩き回った。" }
+    ],
+    "warn": ["in a daze＝『ぼんやりして・呆然として』が定番。形容詞 dazed(呆然とした)", "days(日々)と同音。文脈で判断"],
+    "etym_note": "古ノルド語 dasa（疲れさせる、ぐったりさせる)由来。「頭をぼんやりさせる」を意味する。",
+    "etym_chain": [
+      { "node": "dasa", "sub": "疲れさせる", "era": "古ノルド語" },
+      { "node": "daze", "sub": "ぼうっとさせる", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "in a daze", "ja": "ぼんやりして・呆然として" },
+      { "en": "dazed and confused", "ja": "呆然として混乱して" },
+      { "en": "leave someone dazed", "ja": "人を呆然とさせる" },
+      { "en": "a dazed look", "ja": "ぼんやりした表情" },
+      { "en": "dazed by the news", "ja": "その知らせに呆然として" },
+      { "en": "walk in a daze", "ja": "ぼんやり歩く" }
+    ],
+    "related": [
+      { "en": "dazed", "ja": "呆然とした" },
+      { "en": "stun", "ja": "呆然とさせる・気絶させる" },
+      { "en": "bewilder", "ja": "当惑させる" },
+      { "en": "stupefy", "ja": "ぼうっとさせる" }
+    ],
+    "faq": [
+      { "q": "daze の意味は？", "a": "衝撃や驚きで『ぼうっとさせる・呆然とさせる』という動詞と、in a daze(ぼんやりした状態)という名詞用法があります。" },
+      { "q": "in a daze とは？", "a": "『ぼんやりして・呆然として』という意味の決まった言い方です。" }
+    ],
+    "quiz": [
+      { "q": "daze の意味は？", "A": "はっきりさせる", "B": "ぼうっとさせる・呆然とさせる", "C": "喜ばせる", "D": "怒らせる", "correct": "B" },
+      { "q": "in a daze の意味は？", "A": "元気いっぱいで", "B": "ぼんやりして・呆然として", "C": "急いで", "D": "怒って", "correct": "B" }
+    ]
+  },
+  {
+    "english": "dazed",
+    "pron": "deɪzd",
+    "kana": "デイズド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "daze（ぼうっとさせる）の過去分詞から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "感情・状態"],
+    "meaning_main": "呆然とした・ぼんやりした・くらくらした",
+    "description": "dazedの意味・発音・使い方。衝撃や驚きで頭がはたらかず「呆然とした・ぼんやりした・くらくらした」を表す形容詞。動詞 daze の過去分詞で、dazed and confused などの用法を解説します。",
+    "keywords": ["dazed 意味", "呆然とした 英語", "dazed 発音", "dazed and confused"],
+    "meanings": [
+      { "hinshi": "【形】呆然とした・ぼんやりした", "note": "衝撃・驚き・打撃・疲労などで、頭がはたらかず反応が鈍い様子" }
+    ],
+    "usages": [
+      { "title": "① 呆然とした様子", "desc": "衝撃の後の状態に。", "example_en": "He sat there looking dazed.", "example_ja": "彼はぼんやりした様子でそこに座っていた。" },
+      { "title": "② くらくらした", "desc": "けが・疲労の描写に。", "example_en": "She felt dazed after the fall.", "example_ja": "彼女は転倒の後くらくらした。" }
+    ],
+    "warn": ["動詞 daze(ぼうっとさせる)の過去分詞。dazed and confused＝『呆然として混乱して』", "in a daze(ぼんやりした状態)という名詞表現とセットで覚えると便利"],
+    "etym_note": "daze（ぼうっとさせる、古ノルド語 dasa＝疲れさせる 由来)の過去分詞。「ぼうっとさせられた」という形容詞になった。",
+    "etym_chain": [
+      { "node": "daze", "sub": "ぼうっとさせる", "era": "中英語" },
+      { "node": "dazed", "sub": "呆然とした", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "look dazed", "ja": "ぼんやりした様子だ" },
+      { "en": "dazed and confused", "ja": "呆然として混乱して" },
+      { "en": "feel dazed", "ja": "くらくらする" },
+      { "en": "a dazed expression", "ja": "ぼんやりした表情" },
+      { "en": "dazed by the blow", "ja": "一撃で呆然として" },
+      { "en": "slightly dazed", "ja": "少しぼうっとして" }
+    ],
+    "related": [
+      { "en": "daze", "ja": "ぼうっとさせる" },
+      { "en": "stunned", "ja": "呆然とした" },
+      { "en": "disoriented", "ja": "方向感覚を失った" },
+      { "en": "groggy", "ja": "ふらふらした" }
+    ],
+    "faq": [
+      { "q": "dazed の意味は？", "a": "衝撃や驚きで頭がはたらかず『呆然とした・ぼんやりした・くらくらした』を表す形容詞です。" },
+      { "q": "dazed and confused とは？", "a": "『呆然として混乱して』という定番の言い回しです。" }
+    ],
+    "quiz": [
+      { "q": "dazed の意味は？", "A": "元気な", "B": "呆然とした・ぼんやりした", "C": "怒った", "D": "うれしい", "correct": "B" },
+      { "q": "dazed の動詞形は？", "A": "daze", "B": "dazzle", "C": "dash", "D": "dare", "correct": "A" }
+    ]
+  },
+  {
+    "english": "dazzle",
+    "pron": "ˈdæzl",
+    "kana": "ダズル",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "daze（ぼうっとさせる）の反復形から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "光・感情"],
+    "meaning_main": "（強い光で）目をくらませる／（才能などで）圧倒する・感嘆させる",
+    "description": "dazzleの意味・発音・使い方。まぶしい光で「目をくらませる」という意味と、素晴らしさで「圧倒する・感嘆させる」という比喩を表す動詞。形容詞 dazzling(まばゆい・見事な)も含めて解説します。",
+    "keywords": ["dazzle 意味", "目をくらませる 英語", "dazzle 発音", "dazzling"],
+    "meanings": [
+      { "hinshi": "【動】目をくらませる", "note": "強い光がまぶしくて、一時的に目が見えにくくなる・させる" },
+      { "hinshi": "【動】圧倒する・感嘆させる(比喩)", "note": "才能・美しさ・技などで人を強く感心させる" }
+    ],
+    "usages": [
+      { "title": "① 目をくらませる", "desc": "強い光の話題で。", "example_en": "The bright headlights dazzled the driver.", "example_ja": "まぶしいヘッドライトが運転手の目をくらませた。" },
+      { "title": "② 感嘆させる(比喩)", "desc": "才能・美しさに。", "example_en": "She dazzled the audience with her performance.", "example_ja": "彼女は演技で観客を圧倒した。" }
+    ],
+    "warn": ["形容詞 dazzling＝『まばゆい・目のくらむような・見事な』。名詞 dazzle＝『まばゆさ』", "daze(ぼうっとさせる)の反復形。光でくらませるイメージ"],
+    "etym_note": "daze（ぼうっとさせる)に反復・強意を表す -le がついた語。「まぶしさで目をくらませる」を意味する。",
+    "etym_chain": [
+      { "node": "daze", "sub": "ぼうっとさせる", "era": "中英語" },
+      { "node": "dazzle", "sub": "目をくらませる・圧倒する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "dazzle the eyes", "ja": "目をくらませる" },
+      { "en": "dazzle the audience", "ja": "観客を圧倒する" },
+      { "en": "a dazzling light", "ja": "まばゆい光" },
+      { "en": "a dazzling smile", "ja": "まばゆい笑顔" },
+      { "en": "dazzling performance", "ja": "見事な演技" },
+      { "en": "be dazzled by", "ja": "〜に目がくらむ・圧倒される" }
+    ],
+    "related": [
+      { "en": "dazzling", "ja": "まばゆい・見事な" },
+      { "en": "blind", "ja": "目を見えなくする" },
+      { "en": "impress", "ja": "感心させる" },
+      { "en": "glare", "ja": "まぶしい光・ぎらつき" }
+    ],
+    "faq": [
+      { "q": "dazzle の二つの意味は？", "a": "①強い光で『目をくらませる』、②才能や美しさで『圧倒する・感嘆させる』です。文脈で判断します。" },
+      { "q": "dazzling とは？", "a": "『まばゆい・目のくらむような』、比喩で『見事な・素晴らしい』という意味の形容詞です。" }
+    ],
+    "quiz": [
+      { "q": "dazzle の意味は？", "A": "暗くする", "B": "目をくらませる・圧倒する", "C": "冷やす", "D": "静める", "correct": "B" },
+      { "q": "a dazzling performance の意味は？", "A": "退屈な演技", "B": "見事な演技", "C": "短い演技", "D": "失敗した演技", "correct": "B" }
+    ]
+  },
+  {
+    "english": "deactivate",
+    "pron": "diˈæktɪveɪt",
+    "kana": "ディアクティベイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "de-（除去）+ activate（作動させる）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "IT・機械"],
+    "meaning_main": "（機能・装置を）停止させる・無効にする",
+    "description": "deactivateの意味・発音・使い方。機能・装置・アカウントなどを「停止させる・無効にする」を表す動詞。activate(作動させる)の反対で、de-(除去・逆)の接頭辞や、アカウント停止などの用法を解説します。",
+    "keywords": ["deactivate 意味", "無効にする 英語", "deactivate 発音", "activate 反対"],
+    "meanings": [
+      { "hinshi": "【動】停止させる・無効にする", "note": "作動している機能・装置・アカウントなどを止める・使えなくする" }
+    ],
+    "usages": [
+      { "title": "① 機能を無効にする", "desc": "設定・機器の話題で。", "example_en": "You can deactivate the alarm here.", "example_ja": "ここでアラームを無効にできる。" },
+      { "title": "② アカウントを停止", "desc": "オンラインサービスで。", "example_en": "She deactivated her social media account.", "example_ja": "彼女はSNSのアカウントを停止した。" }
+    ],
+    "warn": ["反対は activate(作動させる・有効にする)。de-(除去・逆)+ activate", "deactivate(一時停止)と delete(完全削除)は異なる"],
+    "etym_note": "de-（除去・逆)+ activate（作動させる、ラテン語 actus＝行為 由来)。「作動を取り除く＝停止する」を意味する。",
+    "etym_chain": [
+      { "node": "de- + activate", "sub": "除去＋作動させる", "era": "近代英語" },
+      { "node": "deactivate", "sub": "停止させる・無効にする", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "deactivate an account", "ja": "アカウントを停止する" },
+      { "en": "deactivate the alarm", "ja": "アラームを無効にする" },
+      { "en": "deactivate a feature", "ja": "機能を無効にする" },
+      { "en": "deactivate the device", "ja": "装置を停止させる" },
+      { "en": "deactivate a card", "ja": "カードを無効にする" },
+      { "en": "temporarily deactivate", "ja": "一時的に停止する" }
+    ],
+    "related": [
+      { "en": "activate", "ja": "作動させる・有効にする" },
+      { "en": "disable", "ja": "無効にする" },
+      { "en": "turn off", "ja": "電源を切る" },
+      { "en": "suspend", "ja": "一時停止する" }
+    ],
+    "faq": [
+      { "q": "deactivate の意味は？", "a": "機能・装置・アカウントなどを『停止させる・無効にする』ことです。activate(作動させる)の反対です。" },
+      { "q": "delete との違いは？", "a": "deactivate は『一時的に停止・無効化』、delete は『完全に削除』です。アカウントは deactivate してから delete することもあります。" }
+    ],
+    "quiz": [
+      { "q": "deactivate の意味は？", "A": "作動させる", "B": "停止させる・無効にする", "C": "修理する", "D": "購入する", "correct": "B" },
+      { "q": "deactivate の反対語は？", "A": "activate(作動させる)", "B": "delete", "C": "download", "D": "deliver", "correct": "A" }
+    ]
+  },
+  {
+    "english": "deadening",
+    "pron": "ˈdedənɪŋ",
+    "kana": "デッドニング",
+    "hinshi": "形容詞 / 動詞（現在分詞）",
+    "ld_pos": "形容詞",
+    "ld_etym": "deaden（鈍らせる）の現在分詞から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "感覚・様子"],
+    "meaning_main": "（感覚・音などを）鈍らせる・弱める／気のめいる",
+    "description": "deadeningの意味・発音・使い方。音・感覚・活気などを「鈍らせる・弱める」を表す形容詞。sound-deadening(防音の)や、a deadening routine(気のめいる単調な日常)などの用法を解説します。",
+    "keywords": ["deadening 意味", "鈍らせる 英語", "deadening 発音", "deaden"],
+    "meanings": [
+      { "hinshi": "【形/現分】鈍らせる・弱める・気のめいる", "note": "音・痛み・感覚・活気などを弱める。または気力をそぐような単調さ" }
+    ],
+    "usages": [
+      { "title": "① 音・感覚を弱める", "desc": "防音・鎮痛の話題で。", "example_en": "The carpet has a sound-deadening effect.", "example_ja": "そのカーペットには防音効果がある。" },
+      { "title": "② 気のめいる単調さ", "desc": "退屈さの描写に。", "example_en": "The deadening routine wore her down.", "example_ja": "気のめいる単調な日課が彼女を疲れさせた。" }
+    ],
+    "warn": ["動詞 deaden(鈍らせる・弱める)の現在分詞。sound-deadening＝防音の、pain-deadening＝痛みを鈍らせる", "比喩で『(気力・活気を)そぐ・退屈な』の意味も"],
+    "etym_note": "dead（死んだ)由来の deaden（鈍らせる、活気を失わせる)の現在分詞。「(感覚・活気を)死なせるように弱める」を意味する。",
+    "etym_chain": [
+      { "node": "dead", "sub": "死んだ", "era": "古英語" },
+      { "node": "deaden", "sub": "鈍らせる", "era": "近代英語" },
+      { "node": "deadening", "sub": "鈍らせる・気のめいる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "sound-deadening", "ja": "防音の" },
+      { "en": "a deadening effect", "ja": "鈍らせる効果" },
+      { "en": "a deadening routine", "ja": "気のめいる日課" },
+      { "en": "deadening silence", "ja": "重苦しい静けさ" },
+      { "en": "pain-deadening drugs", "ja": "痛みを鈍らせる薬" },
+      { "en": "mind-deadening work", "ja": "気力をそぐ仕事" }
+    ],
+    "related": [
+      { "en": "deaden", "ja": "鈍らせる" },
+      { "en": "numbing", "ja": "麻痺させる" },
+      { "en": "dulling", "ja": "鈍くする" },
+      { "en": "muffling", "ja": "(音を)弱める" }
+    ],
+    "faq": [
+      { "q": "deadening の意味は？", "a": "音・感覚・活気などを『鈍らせる・弱める』を表す形容詞です。比喩で『気のめいる・気力をそぐ』の意味にもなります。" },
+      { "q": "sound-deadening とは？", "a": "音を弱める『防音の』という意味です。deaden(鈍らせる)から来ています。" }
+    ],
+    "quiz": [
+      { "q": "deadening の意味は？", "A": "強める", "B": "鈍らせる・弱める", "C": "明るくする", "D": "速める", "correct": "B" },
+      { "q": "sound-deadening の意味は？", "A": "音を大きくする", "B": "音を弱める(防音の)", "C": "音を録音する", "D": "音を再生する", "correct": "B" }
+    ]
+  },
+  {
+    "english": "deafen",
+    "pron": "ˈdefn",
+    "kana": "デフン",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "deaf（耳が聞こえない）+ -en（〜にする）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "音・感覚"],
+    "meaning_main": "（大きな音で）耳をつんざく・耳が聞こえなくさせる",
+    "description": "deafenの意味・発音・使い方。非常に大きな音が「耳をつんざく・(一時的に)耳を聞こえなくさせる」を表す動詞。deaf(耳が聞こえない)+ -en の成り立ちや、deafening(耳をつんざく)の用法を解説します。",
+    "keywords": ["deafen 意味", "耳をつんざく 英語", "deafen 発音", "deafening"],
+    "meanings": [
+      { "hinshi": "【動】耳をつんざく・耳を聞こえなくさせる", "note": "非常に大きな音で、一時的に、または永久に耳が聞こえないようにする" }
+    ],
+    "usages": [
+      { "title": "① 大音量で", "desc": "騒音・爆発の話題で。", "example_en": "The explosion nearly deafened them.", "example_ja": "その爆発は彼らの耳をほとんど聞こえなくさせた。" },
+      { "title": "② deafening(形容詞)", "desc": "耳をつんざく音の描写に。", "example_en": "The music was deafening.", "example_ja": "その音楽は耳をつんざくほどだった。" }
+    ],
+    "warn": ["-en は『〜にする』(darken, harden など)。deaf(耳が聞こえない)+ -en", "形容詞 deafening＝『耳をつんざくような(大音量の)』が頻出"],
+    "etym_note": "deaf（耳が聞こえない、古英語 dēaf)に、『〜にする』を表す -en がついた語。「耳が聞こえないようにする」を意味する。",
+    "etym_chain": [
+      { "node": "dēaf", "sub": "耳が聞こえない", "era": "古英語" },
+      { "node": "deafen", "sub": "耳をつんざく", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a deafening noise", "ja": "耳をつんざく騒音" },
+      { "en": "deafening silence", "ja": "気まずい沈黙" },
+      { "en": "deafened by the blast", "ja": "爆音で耳が聞こえなくなって" },
+      { "en": "a deafening roar", "ja": "耳をつんざく轟音" },
+      { "en": "deafening applause", "ja": "割れんばかりの拍手" },
+      { "en": "almost deafen", "ja": "ほとんど耳を聞こえなくさせる" }
+    ],
+    "related": [
+      { "en": "deaf", "ja": "耳が聞こえない" },
+      { "en": "deafening", "ja": "耳をつんざく" },
+      { "en": "muffle", "ja": "(音を)弱める" },
+      { "en": "roar", "ja": "轟音" }
+    ],
+    "faq": [
+      { "q": "deafen の意味は？", "a": "非常に大きな音が『耳をつんざく・(一時的に)耳を聞こえなくさせる』ことです。deaf(耳が聞こえない)+ -en の語です。" },
+      { "q": "deafening とは？", "a": "『耳をつんざくような(大音量の)』という意味の形容詞です。deafening silence(気まずい沈黙)という表現もあります。" }
+    ],
+    "quiz": [
+      { "q": "deafen の意味は？", "A": "耳をつんざく・耳を聞こえなくさせる", "B": "静かにする", "C": "見えなくする", "D": "眠らせる", "correct": "A" },
+      { "q": "deafening の意味は？", "A": "とても静かな", "B": "耳をつんざくような", "C": "心地よい", "D": "小さな", "correct": "B" }
+    ]
+  },
+  {
+    "english": "debar",
+    "pron": "dɪˈbɑːr",
+    "kana": "ディバー",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "de-（完全に）+ bar（さえぎる）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "法律・フォーマル"],
+    "meaning_main": "（公式に）締め出す・参加を禁じる・排除する",
+    "description": "debarの意味・発音・使い方。公式に、規則によって「締め出す・参加を禁じる・排除する」を表すフォーマルな動詞。debar someone from ~ の形や、bar(禁じる)との関係を例文で解説します。",
+    "keywords": ["debar 意味", "締め出す 英語", "debar 発音", "debar from"],
+    "meanings": [
+      { "hinshi": "【動】締め出す・参加を禁じる・排除する", "note": "規則・権限によって、公式にある活動・場所・権利から締め出す。フォーマル" }
+    ],
+    "usages": [
+      { "title": "① 参加を禁じる", "desc": "資格・権利の話題で。", "example_en": "He was debarred from voting.", "example_ja": "彼は投票を禁じられた。" },
+      { "title": "② 締め出す", "desc": "権利・活動の排除に。", "example_en": "The rule debars minors from the club.", "example_ja": "その規則は未成年をクラブから締め出す。" }
+    ],
+    "warn": ["debar someone from ~＝『(人を)〜から締め出す・禁じる』。活用は debarred(r を重ねる)", "bar(禁じる)を強めた語。disbar(弁護士資格を剥奪する)とは別"],
+    "etym_note": "de-（完全に、強調)+ bar（さえぎる、閂で閉ざす)。「完全に締め出す」を意味する。bar(棒・障害)と同語根。",
+    "etym_chain": [
+      { "node": "de- + bar", "sub": "完全に＋さえぎる", "era": "近代英語" },
+      { "node": "debar", "sub": "締め出す・禁じる", "era": "16世紀英語" }
+    ],
+    "phrases": [
+      { "en": "debar from", "ja": "〜から締め出す" },
+      { "en": "debar from voting", "ja": "投票を禁じる" },
+      { "en": "debar from entry", "ja": "立ち入りを禁じる" },
+      { "en": "be debarred", "ja": "締め出される" },
+      { "en": "debar from competing", "ja": "出場を禁じる" },
+      { "en": "legally debar", "ja": "法的に締め出す" }
+    ],
+    "related": [
+      { "en": "bar", "ja": "禁じる・さえぎる" },
+      { "en": "exclude", "ja": "除外する" },
+      { "en": "prohibit", "ja": "禁止する" },
+      { "en": "disqualify", "ja": "資格を奪う" }
+    ],
+    "faq": [
+      { "q": "debar の意味は？", "a": "規則や権限によって公式に『締め出す・参加を禁じる・排除する』を表すフォーマルな動詞です。debar someone from ~ の形で使います。" },
+      { "q": "disbar と同じ？", "a": "別語です。debar は『(一般に)締め出す・禁じる』、disbar は特に『弁護士資格を剥奪する』です。" }
+    ],
+    "quiz": [
+      { "q": "debar の意味は？", "A": "招き入れる", "B": "締め出す・参加を禁じる", "C": "昇進させる", "D": "支援する", "correct": "B" },
+      { "q": "debar from voting の意味は？", "A": "投票を促す", "B": "投票を禁じる", "C": "投票を数える", "D": "投票を延期する", "correct": "B" }
+    ]
+  },
+  {
+    "english": "debilitate",
+    "pron": "dɪˈbɪlɪteɪt",
+    "kana": "ディビリテイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 debilis（弱い）由来",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "医学・フォーマル"],
+    "meaning_main": "（体力・力を）弱める・衰弱させる",
+    "description": "debilitateの意味・発音・使い方。病気などが体力や力を「弱める・衰弱させる」を表すフォーマルな動詞。形容詞 debilitating(衰弱させる)や、weaken との違いを例文で解説します。",
+    "keywords": ["debilitate 意味", "衰弱させる 英語", "debilitate 発音", "debilitating"],
+    "meanings": [
+      { "hinshi": "【動】弱める・衰弱させる", "note": "病気・状況などが、体力・気力・組織の力を著しく弱める。フォーマル" }
+    ],
+    "usages": [
+      { "title": "① 体を衰弱させる", "desc": "病気・健康の話題で。", "example_en": "The illness debilitated him for months.", "example_ja": "その病気は何か月も彼を衰弱させた。" },
+      { "title": "② 力を弱める", "desc": "組織・経済の文脈で。", "example_en": "The crisis debilitated the economy.", "example_ja": "その危機は経済を弱体化させた。" }
+    ],
+    "warn": ["形容詞 debilitating＝『衰弱させる・消耗させる』が頻出。weaken よりフォーマルで深刻", "名詞は debility(衰弱)。ラテン語 debilis(弱い)由来"],
+    "etym_note": "ラテン語 debilis（弱い、身体の弱い)由来の debilitare（弱める)から。「著しく弱らせる」を意味する。",
+    "etym_chain": [
+      { "node": "debilis", "sub": "弱い", "era": "ラテン語" },
+      { "node": "debilitare", "sub": "弱める", "era": "ラテン語" },
+      { "node": "debilitate", "sub": "衰弱させる", "era": "16世紀英語" }
+    ],
+    "phrases": [
+      { "en": "a debilitating illness", "ja": "衰弱させる病気" },
+      { "en": "debilitate the body", "ja": "体を衰弱させる" },
+      { "en": "severely debilitate", "ja": "ひどく弱らせる" },
+      { "en": "a debilitating condition", "ja": "消耗させる病状" },
+      { "en": "debilitate the economy", "ja": "経済を弱体化させる" },
+      { "en": "physically debilitated", "ja": "身体的に衰弱して" }
+    ],
+    "related": [
+      { "en": "weaken", "ja": "弱める" },
+      { "en": "debilitating", "ja": "衰弱させる" },
+      { "en": "enfeeble", "ja": "衰弱させる" },
+      { "en": "strengthen", "ja": "強める" }
+    ],
+    "faq": [
+      { "q": "debilitate の意味は？", "a": "病気などが体力や力を『弱める・衰弱させる』を表すフォーマルな動詞です。" },
+      { "q": "debilitating とは？", "a": "『衰弱させる・消耗させる』という意味の形容詞です。a debilitating disease(消耗性の病気)のように使います。" }
+    ],
+    "quiz": [
+      { "q": "debilitate の意味は？", "A": "強める", "B": "弱める・衰弱させる", "C": "治す", "D": "励ます", "correct": "B" },
+      { "q": "debilitate の反対語は？", "A": "strengthen(強める)", "B": "weaken", "C": "enfeeble", "D": "exhaust", "correct": "A" }
+    ]
+  },
+  {
+    "english": "debit",
+    "pron": "ˈdebɪt",
+    "kana": "デビット",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 debitum（借り・負債）由来",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "金融・会計"],
+    "meaning_main": "（口座からの）引き落とし・借方／（口座から）引き落とす",
+    "description": "debitの意味・発音・使い方。銀行口座からお金が出ていく「引き落とし・借方」という名詞と、口座から「引き落とす」動詞。反対の credit(入金・貸方)や、debit card(デビットカード)との関係を解説します。",
+    "keywords": ["debit 意味", "引き落とし 英語", "debit card", "debit credit 違い"],
+    "meanings": [
+      { "hinshi": "【名】引き落とし・借方", "note": "銀行口座から出ていくお金の記入・記録。会計では借方(左側)" },
+      { "hinshi": "【動】(口座から)引き落とす", "note": "口座からお金を引き落とす・差し引く" }
+    ],
+    "usages": [
+      { "title": "① 口座からの引き落とし", "desc": "銀行・支払いの話題で。", "example_en": "The payment was made by direct debit.", "example_ja": "その支払いは口座引き落としで行われた。" },
+      { "title": "② debit card", "desc": "決済カードとして。", "example_en": "She paid with her debit card.", "example_ja": "彼女はデビットカードで支払った。" }
+    ],
+    "warn": ["反対は credit(入金・貸方)。debit card＝口座から即引き落とすカード", "direct debit＝口座自動引き落とし。会計では借方(左)が debit、貸方(右)が credit"],
+    "etym_note": "ラテン語 debitum（借り、負債、debere＝負う 由来)。「差し引かれるべきもの＝引き落とし」を意味する。debt, due と同語根。",
+    "etym_chain": [
+      { "node": "debitum", "sub": "借り・負債", "era": "ラテン語" },
+      { "node": "debit", "sub": "引き落とし・借方", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a debit card", "ja": "デビットカード" },
+      { "en": "direct debit", "ja": "口座自動引き落とし" },
+      { "en": "debit the account", "ja": "口座から引き落とす" },
+      { "en": "a debit balance", "ja": "借方残高" },
+      { "en": "debits and credits", "ja": "借方と貸方" },
+      { "en": "set up a debit", "ja": "引き落としを設定する" }
+    ],
+    "related": [
+      { "en": "credit", "ja": "入金・貸方" },
+      { "en": "account", "ja": "口座・勘定" },
+      { "en": "withdraw", "ja": "引き出す" },
+      { "en": "payment", "ja": "支払い" }
+    ],
+    "faq": [
+      { "q": "debit と credit の違いは？", "a": "debit は口座からお金が『出ていく(引き落とし・借方)』、credit は『入ってくる(入金・貸方)』です。会計では借方と貸方の関係です。" },
+      { "q": "debit card とは？", "a": "支払いと同時に銀行口座から代金が即引き落とされるカードです。後払いの credit card(クレジットカード)と異なります。" }
+    ],
+    "quiz": [
+      { "q": "debit の意味は？", "A": "口座への入金", "B": "口座からの引き落とし・借方", "C": "利息", "D": "手数料", "correct": "B" },
+      { "q": "debit の反対語は？", "A": "credit(入金・貸方)", "B": "deposit", "C": "debt", "D": "budget", "correct": "A" }
+    ]
+  },
+  {
+    "english": "debonair",
+    "pron": "ˌdebəˈneər",
+    "kana": "デボネア",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "古フランス語 de bon aire（育ちのよい）由来",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "外見・性格"],
+    "meaning_main": "（特に男性が）優雅で洗練された・物腰の柔らかい・粋な",
+    "description": "debonairの意味・発音・使い方。特に男性が「優雅で洗練され、物腰が柔らかく粋な」様子を表すほめ言葉。フランス語 de bon aire(育ちのよい)由来の語源や、dapper との違いを解説します。",
+    "keywords": ["debonair 意味", "優雅 英語", "debonair 発音", "洗練された 英語"],
+    "meanings": [
+      { "hinshi": "【形】優雅で洗練された・物腰の柔らかい・粋な", "note": "特に男性が、自信に満ちて上品で、余裕があり魅力的な様子。ほめ言葉" }
+    ],
+    "usages": [
+      { "title": "① 洗練された男性", "desc": "外見・態度をほめるときに。", "example_en": "He was handsome and debonair.", "example_ja": "彼はハンサムで洗練されていた。" },
+      { "title": "② 余裕のある物腰", "desc": "上品な態度の描写に。", "example_en": "She admired his debonair manner.", "example_ja": "彼女は彼の物腰の柔らかさに感心した。" }
+    ],
+    "warn": ["主に男性の『優雅で余裕がある』様子に使うほめ言葉。dapper(身なりの粋な)より態度の洗練を強調", "フランス語 de bon aire(よい育ち・血統の)由来"],
+    "etym_note": "古フランス語 de bon aire（よい素性の、育ちのよい)由来。「育ちがよく優雅な」を意味する。air(様子・雰囲気)を含む。",
+    "etym_chain": [
+      { "node": "de bon aire", "sub": "育ちのよい", "era": "古フランス語" },
+      { "node": "debonair", "sub": "優雅で洗練された", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a debonair gentleman", "ja": "洗練された紳士" },
+      { "en": "look debonair", "ja": "優雅に見える" },
+      { "en": "a debonair manner", "ja": "物腰の柔らかい態度" },
+      { "en": "handsome and debonair", "ja": "ハンサムで洗練された" },
+      { "en": "a debonair charm", "ja": "洗練された魅力" },
+      { "en": "a debonair smile", "ja": "余裕のある笑み" }
+    ],
+    "related": [
+      { "en": "dapper", "ja": "身なりの粋な" },
+      { "en": "suave", "ja": "物腰の柔らかい" },
+      { "en": "elegant", "ja": "上品な" },
+      { "en": "charming", "ja": "魅力的な" }
+    ],
+    "faq": [
+      { "q": "debonair の意味は？", "a": "特に男性が『優雅で洗練され、物腰が柔らかく粋な』様子を表すほめ言葉の形容詞です。" },
+      { "q": "dapper との違いは？", "a": "dapper は主に『身なりの粋さ』、debonair は『態度・物腰の洗練と余裕』を強調する語です。" }
+    ],
+    "quiz": [
+      { "q": "debonair の意味は？", "A": "無愛想な", "B": "優雅で洗練された・粋な", "C": "臆病な", "D": "怒りっぽい", "correct": "B" },
+      { "q": "debonair の語源の意味は？", "A": "育ちのよい", "B": "背の高い", "C": "力の強い", "D": "声の大きい", "correct": "A" }
+    ]
+  },
+  {
+    "english": "debtor",
+    "pron": "ˈdetər",
+    "kana": "デター",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 debere（負う）由来",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "金融・ビジネス"],
+    "meaning_main": "債務者（お金を借りている側）",
+    "description": "debtorの意味・発音・使い方。お金や物を借りていて、返す義務がある側「債務者」を指す金融用語。b を発音しない点や、反対の creditor(債権者)との違いを必ず解説します。",
+    "keywords": ["debtor 意味", "債務者 英語", "debtor creditor 違い", "debtor 発音"],
+    "meanings": [
+      { "hinshi": "【名】債務者", "note": "お金や物を借りていて、相手に返済する義務がある人・会社" }
+    ],
+    "usages": [
+      { "title": "① 借りている側", "desc": "金融・会計の話題で。", "example_en": "The debtor failed to repay the loan.", "example_ja": "その債務者は借金を返済できなかった。" },
+      { "title": "② 債権者との関係", "desc": "貸借の文脈で。", "example_en": "A debtor owes money to a creditor.", "example_ja": "債務者は債権者に借金がある。" }
+    ],
+    "warn": ["発音は「デター(detər)」で、b は発音しない(debt と同じ)", "反対は creditor(債権者、貸している側)。debtor が借り手、creditor が貸し手"],
+    "etym_note": "ラテン語 debere（負う、負債がある)由来の debt に、人を表す -or がついた語。「借りを負っている人」＝『債務者』を意味する。debit と同語根。",
+    "etym_chain": [
+      { "node": "debere", "sub": "負う", "era": "ラテン語" },
+      { "node": "debt", "sub": "借金・負債", "era": "中英語" },
+      { "node": "debtor", "sub": "債務者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a debtor and creditor", "ja": "債務者と債権者" },
+      { "en": "the debtor owes money", "ja": "債務者は借金がある" },
+      { "en": "a bad debtor", "ja": "支払いの悪い債務者" },
+      { "en": "the debtor's obligations", "ja": "債務者の義務" },
+      { "en": "a corporate debtor", "ja": "法人債務者" },
+      { "en": "pursue a debtor", "ja": "債務者に取り立てる" }
+    ],
+    "related": [
+      { "en": "creditor", "ja": "債権者" },
+      { "en": "debt", "ja": "借金・負債" },
+      { "en": "debit", "ja": "引き落とし・借方" },
+      { "en": "borrower", "ja": "借り手" }
+    ],
+    "faq": [
+      { "q": "debtor と creditor の違いは？", "a": "debtor は『債務者(借りている側)』、creditor は『債権者(貸している側)』です。お金の流れが逆の関係です。" },
+      { "q": "debtor の発音は？", "a": "「デター(detər)」です。debt(借金)と同じく、b は発音しません。" }
+    ],
+    "quiz": [
+      { "q": "debtor の意味は？", "A": "お金を貸している人", "B": "お金を借りている債務者", "C": "銀行員", "D": "会計士", "correct": "B" },
+      { "q": "debtor の b は？", "A": "発音する", "B": "発音しない", "C": "p の音", "D": "v の音", "correct": "B" }
+    ]
+  },
+  {
+    "english": "decent",
+    "pron": "ˈdiːsnt",
+    "kana": "ディーセント",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 decere（ふさわしい）由来",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出"],
+    "meaning_main": "きちんとした・まともな・かなりよい／良識ある",
+    "description": "decentの意味・発音・使い方。「きちんとした・まともな」「(質・量が)かなりよい」「良識ある・親切な」など幅広い意味を持つ頻出形容詞。a decent job(まともな仕事)などの用法を解説します。",
+    "keywords": ["decent 意味", "まともな 英語", "decent 発音", "decent 使い方"],
+    "meanings": [
+      { "hinshi": "【形】きちんとした・まともな", "note": "礼儀・水準・体裁の点で問題なく、受け入れられる程度の" },
+      { "hinshi": "【形】かなりよい・十分な", "note": "質・量が満足のいく程度の。a decent meal＝そこそこ良い食事" },
+      { "hinshi": "【形】良識ある・親切な", "note": "人柄が誠実で思いやりのある" }
+    ],
+    "usages": [
+      { "title": "① まともな・きちんとした", "desc": "水準・体裁を表すときに。", "example_en": "He earns a decent salary.", "example_ja": "彼はまともな給料を稼いでいる。" },
+      { "title": "② 良識ある人", "desc": "人柄をほめるときに。", "example_en": "She's a decent person.", "example_ja": "彼女は良識のある人だ。" }
+    ],
+    "warn": ["文脈で『まとも・そこそこ良い・良識ある』と幅広い。名詞は decency(良識・礼儀)", "反対は indecent(下品な)。口語で『そこそこ良い』の意味も頻出"],
+    "etym_note": "ラテン語 decere（ふさわしい、似合う)由来の decens から。「ふさわしい・体裁のよい」を意味する。decorate, dignity と関連する語根。",
+    "etym_chain": [
+      { "node": "decere", "sub": "ふさわしい", "era": "ラテン語" },
+      { "node": "decent", "sub": "きちんとした・まともな", "era": "16世紀英語" }
+    ],
+    "phrases": [
+      { "en": "a decent job", "ja": "まともな仕事" },
+      { "en": "a decent salary", "ja": "まともな給料" },
+      { "en": "a decent meal", "ja": "そこそこ良い食事" },
+      { "en": "a decent person", "ja": "良識のある人" },
+      { "en": "decent enough", "ja": "十分まともな" },
+      { "en": "do the decent thing", "ja": "良識的に振る舞う" }
+    ],
+    "related": [
+      { "en": "decency", "ja": "良識・礼儀" },
+      { "en": "respectable", "ja": "きちんとした・立派な" },
+      { "en": "adequate", "ja": "十分な" },
+      { "en": "indecent", "ja": "下品な・不適切な" }
+    ],
+    "faq": [
+      { "q": "decent の意味は？", "a": "『きちんとした・まともな』『(質・量が)かなりよい』『良識ある・親切な』など、文脈によって幅広い意味を持つ形容詞です。" },
+      { "q": "反対語は？", "a": "indecent(下品な・不適切な)です。名詞は decency(良識・礼儀)です。" }
+    ],
+    "quiz": [
+      { "q": "a decent salary の意味は？", "A": "ひどく低い給料", "B": "まともな(そこそこ良い)給料", "C": "無給", "D": "違法な収入", "correct": "B" },
+      { "q": "a decent person の意味は？", "A": "良識のある人", "B": "怪しい人", "C": "有名人", "D": "外国人", "correct": "A" }
+    ]
+  },
+  {
+    "english": "deceptive",
+    "pron": "dɪˈseptɪv",
+    "kana": "ディセプティブ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 decipere（だます）由来",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "頻出・論理"],
+    "meaning_main": "人を惑わせる・見かけと違う・当てにならない",
+    "description": "deceptiveの意味・発音・使い方。実際とは違う印象を与えて「人を惑わせる・見かけによらない」を表す形容詞。appearances can be deceptive(見かけは当てにならない)の慣用句や、動詞 deceive との関係を解説します。",
+    "keywords": ["deceptive 意味", "見かけと違う 英語", "deceptive 発音", "deceive"],
+    "meanings": [
+      { "hinshi": "【形】人を惑わせる・見かけと違う", "note": "実際とは違う印象を与える。だまされやすい、当てにならない様子" }
+    ],
+    "usages": [
+      { "title": "① 見かけによらない", "desc": "印象と実際のずれに。", "example_en": "The calm sea was deceptive.", "example_ja": "その穏やかな海は見かけによらず危険だった。" },
+      { "title": "② appearances can be deceptive", "desc": "定番の慣用句で。", "example_en": "Appearances can be deceptive.", "example_ja": "見かけは当てにならないものだ。" }
+    ],
+    "warn": ["動詞は deceive(だます)、名詞は deception(欺き)。deceptively＝『見かけによらず』", "必ずしも『意図的にだます』とは限らず、『誤解を招く・見かけと違う』の意味も"],
+    "etym_note": "ラテン語 decipere（だます、de-＝離れて + capere＝つかむ＝わなにかける)由来の deceive に、-ive がついた語。「だますような・惑わせる」を意味する。",
+    "etym_chain": [
+      { "node": "decipere", "sub": "だます", "era": "ラテン語" },
+      { "node": "deceive", "sub": "だます", "era": "中英語" },
+      { "node": "deceptive", "sub": "人を惑わせる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "deceptive appearance", "ja": "見かけと違う外見" },
+      { "en": "appearances can be deceptive", "ja": "見かけは当てにならない" },
+      { "en": "deceptively simple", "ja": "見かけによらず簡単でない" },
+      { "en": "deceptive advertising", "ja": "誤解を招く広告" },
+      { "en": "a deceptive calm", "ja": "見せかけの静けさ" },
+      { "en": "deceptive practices", "ja": "欺瞞的な手口" }
+    ],
+    "related": [
+      { "en": "deceive", "ja": "だます" },
+      { "en": "deception", "ja": "欺き・欺瞞" },
+      { "en": "misleading", "ja": "誤解を招く" },
+      { "en": "illusory", "ja": "幻の・錯覚の" }
+    ],
+    "faq": [
+      { "q": "deceptive の意味は？", "a": "実際とは違う印象を与えて『人を惑わせる・見かけと違う・当てにならない』を表す形容詞です。" },
+      { "q": "appearances can be deceptive とは？", "a": "『見かけは当てにならない・見かけによらないものだ』という定番の慣用句です。" }
+    ],
+    "quiz": [
+      { "q": "deceptive の意味は？", "A": "正直な", "B": "人を惑わせる・見かけと違う", "C": "明快な", "D": "美しい", "correct": "B" },
+      { "q": "deceptive の動詞形は？", "A": "deceive", "B": "decide", "C": "decline", "D": "declare", "correct": "A" }
+    ]
+  }
+]
