@@ -1,0 +1,985 @@
+[
+{
+"english": "distillation",
+"pron": "ˌdɪstɪˈleɪʃn",
+"kana": "ディスティレイション",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "ラテン語 distillare（滴り落ちる）",
+"ld_level": "準1級",
+"badges": ["高校生〜","英検準1級","CEFR B2","理科用語"],
+"meaning_main": "蒸留／（要点の）抽出・凝縮",
+"description": "distillation（ディスティレイション）は「蒸留」。液体を熱して蒸気にし冷やして純粋な成分を取り出す操作。要点の抽出の意味も。",
+"keywords": ["distillation 意味","distillation 蒸留","distillation 使い方"],
+"meanings": [
+{"hinshi": "【名詞】蒸留","note": "混合液を加熱・冷却して成分を分離する操作"},
+{"hinshi": "【名詞】抽出・凝縮","note": "多くの情報から要点を取り出したもの"}
+],
+"usages": [
+{"title": "① 理科の蒸留","desc": "水やアルコールの精製で使う基本操作","example_en": "Whiskey is made by the distillation of fermented grain.","example_ja": "ウイスキーは発酵させた穀物を蒸留して作られる。"},
+{"title": "② 要点の凝縮","desc": "比喩的に「エッセンスの抽出」","example_en": "The book is a distillation of thirty years of research.","example_ja": "その本は30年の研究のエッセンスを凝縮したものだ。"}
+],
+"warn": ["動詞は distill（蒸留する）。distil はイギリス綴り"],
+"etym_note": "ラテン語 distillare（de- 下へ + stillare 滴る）から。「滴り落ちる」が語源。",
+"etym_chain": [
+{"node": "stilla","sub": "しずく","era": "ラテン語"},
+{"node": "distillare","sub": "滴り落ちる","era": "後期ラテン語"},
+{"node": "distillation","sub": "蒸留","era": "現代英語"}
+],
+"phrases": [
+{"en": "distillation process","ja": "蒸留の工程"},
+{"en": "fractional distillation","ja": "分留"},
+{"en": "steam distillation","ja": "水蒸気蒸留"},
+{"en": "the distillation of oil","ja": "石油の蒸留"},
+{"en": "a distillation of ideas","ja": "アイデアの凝縮"},
+{"en": "water distillation","ja": "水の蒸留"}
+],
+"related": [
+{"en": "distill","ja": "蒸留する"},
+{"en": "evaporate","ja": "蒸発する"},
+{"en": "condense","ja": "凝縮する"},
+{"en": "purify","ja": "精製する"}
+],
+"faq": [
+{"q": "distillation と filtration の違いは？","a": "distillation は沸点差を使う蒸留、filtration はこし取る濾過です。"},
+{"q": "動詞形は？","a": "distill（米）/ distil（英）です。"}
+],
+"quiz": [
+{"q": "distillation の意味は？","A": "蒸留","B": "濾過","C": "発酵","D": "溶解","correct": "A"},
+{"q": "distillation の動詞形は？","A": "distillate","B": "distill","C": "distant","D": "distress","correct": "B"}
+]
+},
+{
+"english": "distortion",
+"pron": "dɪˈstɔːrʃn",
+"kana": "ディストーション",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "ラテン語 distorquere（ねじ曲げる）",
+"ld_level": "準1級",
+"badges": ["高校生〜","英検準1級","CEFR B2","音楽用語"],
+"meaning_main": "ゆがみ／歪曲／（音の）ひずみ",
+"description": "distortion（ディストーション）は「ゆがみ・歪曲」。形や事実、音や画像がねじ曲がること。ギターのひずんだ音色の名でも有名。",
+"keywords": ["distortion 意味","distortion 歪み","distortion ギター"],
+"meanings": [
+{"hinshi": "【名詞】ゆがみ・変形","note": "形や像がねじ曲がること"},
+{"hinshi": "【名詞】歪曲","note": "事実を都合よくねじ曲げること"},
+{"hinshi": "【名詞】ひずみ","note": "音や信号が変形すること。エフェクター名にも"}
+],
+"usages": [
+{"title": "① 事実の歪曲","desc": "真実をねじ曲げて伝えること","example_en": "The article is a gross distortion of the facts.","example_ja": "その記事は事実をひどく歪曲している。"},
+{"title": "② 音のひずみ","desc": "音楽で意図的にかける効果","example_en": "He added distortion to his guitar sound.","example_ja": "彼はギターの音にディストーションをかけた。"}
+],
+"warn": ["動詞は distort（ゆがめる）。可算・不可算どちらでも使う"],
+"etym_note": "ラテン語 distorquere（dis- 離れて + torquere ねじる）から。torque（トルク）と同語源。",
+"etym_chain": [
+{"node": "torquere","sub": "ねじる","era": "ラテン語"},
+{"node": "distortio","sub": "ねじ曲げ","era": "後期ラテン語"},
+{"node": "distortion","sub": "ゆがみ","era": "現代英語"}
+],
+"phrases": [
+{"en": "distortion of the truth","ja": "真実の歪曲"},
+{"en": "visual distortion","ja": "視覚のゆがみ"},
+{"en": "sound distortion","ja": "音のひずみ"},
+{"en": "a distortion of reality","ja": "現実の歪曲"},
+{"en": "without distortion","ja": "ゆがみなく"},
+{"en": "image distortion","ja": "画像のゆがみ"}
+],
+"related": [
+{"en": "distort","ja": "ゆがめる"},
+{"en": "twist","ja": "ねじる"},
+{"en": "warp","ja": "そらす・ゆがめる"},
+{"en": "deformation","ja": "変形"}
+],
+"faq": [
+{"q": "distortion と deformation の違いは？","a": "distortion は形や意味のゆがみ全般、deformation は物理的な変形を指すことが多いです。"},
+{"q": "ギターのdistortionとは？","a": "音を意図的にひずませて力強い音色を作るエフェクトです。"}
+],
+"quiz": [
+{"q": "distortion の意味は？","A": "ゆがみ・歪曲","B": "拡大","C": "反射","D": "沈黙","correct": "A"},
+{"q": "distortion の動詞形は？","A": "distort","B": "distant","C": "distract","D": "distribute","correct": "A"}
+]
+},
+{
+"english": "distraught",
+"pron": "dɪˈstrɔːt",
+"kana": "ディストロート",
+"hinshi": "形容詞",
+"ld_pos": "形容詞",
+"ld_etym": "ラテン語 distrahere（引き裂く）",
+"ld_level": "準1級",
+"badges": ["高校生〜","英検準1級","CEFR B2","感情語"],
+"meaning_main": "取り乱した／気が動転した",
+"description": "distraught（ディストロート）は「取り乱した・気が動転した」。悲しみや心配で心が引き裂かれるほど動揺している状態を表す形容詞。",
+"keywords": ["distraught 意味","distraught 取り乱す","distraught 使い方"],
+"meanings": [
+{"hinshi": "【形容詞】取り乱した","note": "強い不安や悲しみで冷静さを失った状態"}
+],
+"usages": [
+{"title": "① 心配で取り乱す","desc": "with で原因を示すことが多い","example_en": "The mother was distraught when her child went missing.","example_ja": "子どもが行方不明になり、母親は取り乱していた。"},
+{"title": "② 悲嘆にくれる","desc": "深い悲しみでの動揺","example_en": "He was too distraught to speak at the funeral.","example_ja": "彼は取り乱してしまい、葬儀で話すことができなかった。"}
+],
+"warn": ["upset より強く、深刻な動揺を表す。distracted（気が散った）と混同しない"],
+"etym_note": "ラテン語 distrahere（dis- 離れて + trahere 引く）の過去分詞から。「心が引き裂かれた」が原義。",
+"etym_chain": [
+{"node": "trahere","sub": "引く","era": "ラテン語"},
+{"node": "distrahere","sub": "引き裂く","era": "ラテン語"},
+{"node": "distraught","sub": "取り乱した","era": "現代英語"}
+],
+"phrases": [
+{"en": "distraught with grief","ja": "悲しみで取り乱して"},
+{"en": "a distraught parent","ja": "取り乱した親"},
+{"en": "look distraught","ja": "取り乱して見える"},
+{"en": "become distraught","ja": "取り乱す"},
+{"en": "distraught with worry","ja": "心配で気が動転して"},
+{"en": "utterly distraught","ja": "すっかり取り乱して"}
+],
+"related": [
+{"en": "upset","ja": "動揺した"},
+{"en": "frantic","ja": "半狂乱の"},
+{"en": "anxious","ja": "不安な"},
+{"en": "distressed","ja": "苦悩した"}
+],
+"faq": [
+{"q": "distraught と distracted の違いは？","a": "distraught は感情で取り乱した状態、distracted は気が散った状態です。"},
+{"q": "distraught の後の前置詞は？","a": "多くは with（distraught with grief）を使います。"}
+],
+"quiz": [
+{"q": "distraught の意味は？","A": "取り乱した","B": "退屈した","C": "満足した","D": "眠い","correct": "A"},
+{"q": "distraught with ___ の空欄に合うのは？","A": "grief","B": "table","C": "green","D": "run","correct": "A"}
+]
+},
+{
+"english": "distributor",
+"pron": "dɪˈstrɪbjətər",
+"kana": "ディストリビューター",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "ラテン語 distribuere（分配する）",
+"ld_level": "準1級",
+"badges": ["高校生〜","英検準1級","CEFR B2","ビジネス"],
+"meaning_main": "販売代理店／流通業者／（車の）ディストリビューター",
+"description": "distributor（ディストリビューター）は「販売代理店・流通業者」。メーカーの製品を仕入れて小売店などに卸す会社。車の配電装置の意味も。",
+"keywords": ["distributor 意味","distributor 代理店","distributor 流通"],
+"meanings": [
+{"hinshi": "【名詞】販売代理店・卸売業者","note": "製品を仕入れて各地へ流通させる会社"},
+{"hinshi": "【名詞】配電器","note": "自動車エンジンで点火の電気を各気筒に分配する装置"}
+],
+"usages": [
+{"title": "① 流通業者","desc": "メーカーと小売の間に立つ","example_en": "They are the largest distributor of imported wine in Japan.","example_ja": "彼らは日本で最大の輸入ワイン販売代理店だ。"},
+{"title": "② 映画の配給会社","desc": "作品を劇場へ届ける会社","example_en": "The film needs a distributor to reach theaters.","example_ja": "その映画は劇場公開に配給会社が必要だ。"}
+],
+"warn": ["動詞は distribute（分配する）。可算名詞"],
+"etym_note": "ラテン語 distribuere（dis- 分けて + tribuere 割り当てる）から。tribute（貢ぎ物）と同語源。",
+"etym_chain": [
+{"node": "tribuere","sub": "割り当てる","era": "ラテン語"},
+{"node": "distribuere","sub": "分配する","era": "ラテン語"},
+{"node": "distributor","sub": "分配する人・流通業者","era": "現代英語"}
+],
+"phrases": [
+{"en": "sole distributor","ja": "総代理店"},
+{"en": "authorized distributor","ja": "正規代理店"},
+{"en": "wholesale distributor","ja": "卸売業者"},
+{"en": "a film distributor","ja": "映画の配給会社"},
+{"en": "distributor network","ja": "販売網"},
+{"en": "local distributor","ja": "地元の販売店"}
+],
+"related": [
+{"en": "distribute","ja": "分配する"},
+{"en": "supplier","ja": "供給業者"},
+{"en": "wholesaler","ja": "卸売業者"},
+{"en": "retailer","ja": "小売業者"}
+],
+"faq": [
+{"q": "distributor と retailer の違いは？","a": "distributor は卸す流通業者、retailer は消費者に売る小売業者です。"},
+{"q": "distributor はビジネス以外の意味もある？","a": "車のエンジン部品「配電器」の意味もあります。"}
+],
+"quiz": [
+{"q": "distributor の意味は？","A": "販売代理店・流通業者","B": "製造者","C": "消費者","D": "検査官","correct": "A"},
+{"q": "distributor の動詞形は？","A": "distribute","B": "distort","C": "disturb","D": "distress","correct": "A"}
+]
+},
+{
+"english": "diver",
+"pron": "ˈdaɪvər",
+"kana": "ダイバー",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "古英語 dūfan（潜る）",
+"ld_level": "3級",
+"badges": ["中学生〜","英検3級","CEFR A2","スポーツ"],
+"meaning_main": "潜水する人／ダイバー／飛び込み選手",
+"description": "diver（ダイバー）は「潜水する人・飛び込み選手」。水中に潜るスキューバダイバーや、高飛び込みの競技者を指す。動詞 dive に -er が付いた形。",
+"keywords": ["diver 意味","diver ダイバー","diver 潜水"],
+"meanings": [
+{"hinshi": "【名詞】潜水者","note": "スキューバや素潜りで水中に潜る人"},
+{"hinshi": "【名詞】飛び込み選手","note": "高飛び込みなど飛び込み競技の選手"}
+],
+"usages": [
+{"title": "① スキューバダイバー","desc": "海に潜る人","example_en": "The diver explored the coral reef.","example_ja": "そのダイバーはサンゴ礁を探検した。"},
+{"title": "② 飛び込み選手","desc": "オリンピック競技にもある","example_en": "The Olympic diver performed a perfect dive.","example_ja": "そのオリンピック飛び込み選手は完璧な飛び込みを見せた。"}
+],
+"warn": ["dive の過去形は dived または dove（米）。可算名詞"],
+"etym_note": "古英語 dūfan（水に潜る）に由来する dive に、人を表す -er が付いた語。",
+"etym_chain": [
+{"node": "dūfan","sub": "潜る","era": "古英語"},
+{"node": "dive","sub": "潜る・飛び込む","era": "中英語"},
+{"node": "diver","sub": "潜る人","era": "現代英語"}
+],
+"phrases": [
+{"en": "scuba diver","ja": "スキューバダイバー"},
+{"en": "deep-sea diver","ja": "深海潜水士"},
+{"en": "a skilled diver","ja": "熟練のダイバー"},
+{"en": "pearl diver","ja": "真珠採りの潜水者"},
+{"en": "cliff diver","ja": "崖からの飛び込み選手"},
+{"en": "free diver","ja": "フリーダイバー（素潜り）"}
+],
+"related": [
+{"en": "dive","ja": "潜る・飛び込む"},
+{"en": "swimmer","ja": "泳ぐ人"},
+{"en": "snorkel","ja": "シュノーケル"},
+{"en": "underwater","ja": "水中の"}
+],
+"faq": [
+{"q": "diver と swimmer の違いは？","a": "diver は水に潜る・飛び込む人、swimmer は泳ぐ人です。"},
+{"q": "dive の過去形は？","a": "dived が標準、アメリカ英語では dove もよく使います。"}
+],
+"quiz": [
+{"q": "diver の意味は？","A": "潜水する人","B": "運転手","C": "教師","D": "料理人","correct": "A"},
+{"q": "「素潜りのダイバー」は？","A": "free diver","B": "bus driver","C": "high jumper","D": "long runner","correct": "A"}
+]
+},
+{
+"english": "divided",
+"pron": "dɪˈvaɪdɪd",
+"kana": "ディヴァイデッド",
+"hinshi": "形容詞 / 動詞",
+"ld_pos": "形容詞",
+"ld_etym": "ラテン語 dividere（分ける）",
+"ld_level": "3級",
+"badges": ["中学生〜","英検3級","CEFR A2","基本語"],
+"meaning_main": "分かれた／分割された／（意見が）割れた",
+"description": "divided（ディヴァイデッド）は「分かれた・分割された」。divide（分ける）の過去分詞・形容詞。意見や国が真っ二つに割れた状態にも使う。",
+"keywords": ["divided 意味","divided 分かれた","divided 使い方"],
+"meanings": [
+{"hinshi": "【形容詞】分割された","note": "いくつかの部分に分けられた"},
+{"hinshi": "【形容詞】意見が割れた","note": "対立して一つにまとまらない"}
+],
+"usages": [
+{"title": "① 部屋を分ける","desc": "物理的な分割","example_en": "The house is divided into four apartments.","example_ja": "その家は4つのアパートに分割されている。"},
+{"title": "② 意見が割れる","desc": "be divided on/over ~ の形","example_en": "The public is divided over the new law.","example_ja": "世論はその新法をめぐって割れている。"}
+],
+"warn": ["divide（分ける）の過去分詞。反意語は united（団結した）"],
+"etym_note": "ラテン語 dividere（di- 離して + videre 分ける）から。individual（個人）と同語源で「分けられないもの」の対。",
+"etym_chain": [
+{"node": "dividere","sub": "分ける","era": "ラテン語"},
+{"node": "divide","sub": "分ける","era": "中英語"},
+{"node": "divided","sub": "分かれた","era": "現代英語"}
+],
+"phrases": [
+{"en": "a divided nation","ja": "分断された国"},
+{"en": "be divided into","ja": "〜に分けられる"},
+{"en": "divided opinion","ja": "割れた意見"},
+{"en": "divided highway","ja": "中央分離帯のある道路"},
+{"en": "sharply divided","ja": "真っ二つに割れて"},
+{"en": "a divided family","ja": "ばらばらになった家族"}
+],
+"related": [
+{"en": "divide","ja": "分ける"},
+{"en": "split","ja": "分裂する"},
+{"en": "separate","ja": "分ける"},
+{"en": "united","ja": "団結した"}
+],
+"faq": [
+{"q": "divided into と divided by の違いは？","a": "into は「〜に分けられる」、by は割り算「〜で割る」の意味です。"},
+{"q": "divided の反対語は？","a": "united（団結した）や whole（一つにまとまった）です。"}
+],
+"quiz": [
+{"q": "divided の意味は？","A": "分かれた","B": "集まった","C": "隠れた","D": "増えた","correct": "A"},
+{"q": "「〜に分けられる」は be divided ___？","A": "into","B": "up","C": "off","D": "away","correct": "A"}
+]
+},
+{
+"english": "divulge",
+"pron": "daɪˈvʌldʒ",
+"kana": "ディヴァルジ",
+"hinshi": "動詞",
+"ld_pos": "動詞",
+"ld_etym": "ラテン語 divulgare（広める）",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","フォーマル"],
+"meaning_main": "（秘密を）漏らす／打ち明ける",
+"description": "divulge（ディヴァルジ）は「秘密を漏らす・打ち明ける」。本来隠しておくべき情報を明かすこと。reveal より堅い、フォーマルな語。",
+"keywords": ["divulge 意味","divulge 漏らす","divulge 秘密"],
+"meanings": [
+{"hinshi": "【動詞】（秘密を）漏らす","note": "隠すべき情報を明かす。堅い語"}
+],
+"usages": [
+{"title": "① 情報を漏らす","desc": "個人情報や機密に使う","example_en": "The company refused to divulge its customers' data.","example_ja": "その会社は顧客のデータを漏らすことを拒んだ。"},
+{"title": "② 打ち明ける","desc": "隠していたことを明かす","example_en": "He would not divulge where he had been.","example_ja": "彼はどこにいたのか打ち明けようとしなかった。"}
+],
+"warn": ["reveal より堅い。日常会話では tell や reveal が普通"],
+"etym_note": "ラテン語 divulgare（di- 広く + vulgare 一般に広める）から。vulgar（俗な、大衆の）と同語源。",
+"etym_chain": [
+{"node": "vulgus","sub": "大衆","era": "ラテン語"},
+{"node": "divulgare","sub": "広く知らせる","era": "ラテン語"},
+{"node": "divulge","sub": "漏らす","era": "現代英語"}
+],
+"phrases": [
+{"en": "divulge a secret","ja": "秘密を漏らす"},
+{"en": "divulge information","ja": "情報を漏らす"},
+{"en": "refuse to divulge","ja": "明かすのを拒む"},
+{"en": "divulge details","ja": "詳細を明かす"},
+{"en": "divulge personal data","ja": "個人情報を漏らす"},
+{"en": "not divulge names","ja": "名前を明かさない"}
+],
+"related": [
+{"en": "reveal","ja": "明らかにする"},
+{"en": "disclose","ja": "開示する"},
+{"en": "leak","ja": "漏らす"},
+{"en": "conceal","ja": "隠す"}
+],
+"faq": [
+{"q": "divulge と reveal の違いは？","a": "意味は近いですが、divulge は「秘密を漏らす」堅い語です。"},
+{"q": "divulge の反対は？","a": "conceal（隠す）や withhold（伏せておく）です。"}
+],
+"quiz": [
+{"q": "divulge の意味は？","A": "秘密を漏らす","B": "秘密を守る","C": "計算する","D": "旅行する","correct": "A"},
+{"q": "divulge a ___ の空欄に合うのは？","A": "secret","B": "chair","C": "river","D": "cloud","correct": "A"}
+]
+},
+{
+"english": "diwali",
+"pron": "dɪˈwɑːli",
+"kana": "ディワリ",
+"hinshi": "名詞（固有名詞）",
+"ld_pos": "名詞",
+"ld_etym": "サンスクリット語 dīpāvali（灯りの列）",
+"ld_level": "1級",
+"badges": ["大学生〜","文化・行事","固有名詞","インド"],
+"meaning_main": "ディワリ（インドの光の祭り）",
+"description": "Diwali（ディワリ）はインドを中心にヒンドゥー教徒などが祝う「光の祭り」。ろうそくやランプを灯し、善が悪に勝つことを祝う年に一度の大祭。",
+"keywords": ["diwali 意味","ディワリ とは","diwali インド"],
+"meanings": [
+{"hinshi": "【固有名詞】ディワリ","note": "インドの「光の祭り」。10〜11月ごろに行われる"}
+],
+"usages": [
+{"title": "① 光の祭り","desc": "ランプや花火で祝う","example_en": "Families light small lamps to celebrate Diwali.","example_ja": "家族は小さなランプを灯してディワリを祝う。"},
+{"title": "② 善の勝利を祝う","desc": "闇に対する光の勝利を象徴","example_en": "Diwali symbolizes the victory of light over darkness.","example_ja": "ディワリは闇に対する光の勝利を象徴している。"}
+],
+"warn": ["英語では固有名詞なので Diwali と大文字で書く。Deepavali とも呼ばれる"],
+"etym_note": "サンスクリット語 dīpāvali（dīpa 灯り + āvali 列）から。「灯りの列」が原義。",
+"etym_chain": [
+{"node": "dīpa","sub": "灯り","era": "サンスクリット語"},
+{"node": "dīpāvali","sub": "灯りの列","era": "サンスクリット語"},
+{"node": "Diwali","sub": "光の祭り","era": "現代英語"}
+],
+"phrases": [
+{"en": "celebrate Diwali","ja": "ディワリを祝う"},
+{"en": "the festival of Diwali","ja": "ディワリの祭り"},
+{"en": "Happy Diwali","ja": "ディワリおめでとう"},
+{"en": "Diwali lights","ja": "ディワリの灯り"},
+{"en": "during Diwali","ja": "ディワリの間"},
+{"en": "Diwali fireworks","ja": "ディワリの花火"}
+],
+"related": [
+{"en": "festival","ja": "祭り"},
+{"en": "Hindu","ja": "ヒンドゥー教の"},
+{"en": "lamp","ja": "ランプ"},
+{"en": "celebration","ja": "祝賀"}
+],
+"faq": [
+{"q": "Diwali はいつ？","a": "太陰暦に基づき、毎年10〜11月ごろに行われます。"},
+{"q": "なぜ光の祭りと呼ばれる？","a": "無数のランプを灯し、善（光）が悪（闇）に勝つことを祝うためです。"}
+],
+"quiz": [
+{"q": "Diwali はどこの祭り？","A": "インド","B": "ブラジル","C": "ロシア","D": "エジプト","correct": "A"},
+{"q": "Diwali は何の祭り？","A": "光の祭り","B": "雪の祭り","C": "海の祭り","D": "収穫の祭り","correct": "A"}
+]
+},
+{
+"english": "dizzily",
+"pron": "ˈdɪzɪli",
+"kana": "ディジリー",
+"hinshi": "副詞",
+"ld_pos": "副詞",
+"ld_etym": "古英語 dysig（愚かな・目まいの）",
+"ld_level": "準1級",
+"badges": ["高校生〜","英検準1級","CEFR B2","感覚語"],
+"meaning_main": "目まいがして／くらくらと",
+"description": "dizzily（ディジリー）は「目まいがして・くらくらと」。形容詞 dizzy（めまいがする）の副詞形。ふらつく様子や目が回る感覚を表す。",
+"keywords": ["dizzily 意味","dizzily 目まい","dizzily 副詞"],
+"meanings": [
+{"hinshi": "【副詞】目まいがして","note": "頭がくらくらしてふらつく様子"}
+],
+"usages": [
+{"title": "① ふらつく動作","desc": "立ち上がったときなど","example_en": "She stood up dizzily after spinning around.","example_ja": "彼女はぐるぐる回った後、ふらつきながら立ち上がった。"},
+{"title": "② めまぐるしく","desc": "比喩的に「目が回るほど」","example_en": "The prices rose dizzily over the year.","example_ja": "その年、物価は目が回るほど上昇した。"}
+],
+"warn": ["形容詞は dizzy、名詞は dizziness（めまい）"],
+"etym_note": "古英語 dysig（愚かな）に由来。かつて「愚かな」の意味から「頭がくらくらする」へ変化した。",
+"etym_chain": [
+{"node": "dysig","sub": "愚かな","era": "古英語"},
+{"node": "dizzy","sub": "めまいがする","era": "中英語"},
+{"node": "dizzily","sub": "くらくらと","era": "現代英語"}
+],
+"phrases": [
+{"en": "feel dizzily","ja": "くらくらと感じて"},
+{"en": "spin dizzily","ja": "目が回るほど回る"},
+{"en": "dizzily high","ja": "目もくらむほど高い"},
+{"en": "stumble dizzily","ja": "ふらつきながらよろける"},
+{"en": "sway dizzily","ja": "ふらふら揺れる"},
+{"en": "rise dizzily","ja": "めまぐるしく上がる"}
+],
+"related": [
+{"en": "dizzy","ja": "めまいがする"},
+{"en": "dizziness","ja": "めまい"},
+{"en": "giddy","ja": "くらくらする"},
+{"en": "faint","ja": "気が遠くなる"}
+],
+"faq": [
+{"q": "dizzily の形容詞形は？","a": "dizzy（めまいがする）です。"},
+{"q": "dizzy の名詞形は？","a": "dizziness（めまい）です。"}
+],
+"quiz": [
+{"q": "dizzily の意味は？","A": "目まいがして","B": "静かに","C": "速く","D": "正確に","correct": "A"},
+{"q": "dizzily の形容詞形は？","A": "dizzy","B": "busy","C": "easy","D": "lazy","correct": "A"}
+]
+},
+{
+"english": "djembe",
+"pron": "ˈdʒɛmbeɪ",
+"kana": "ジャンベ",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "西アフリカ・マリンケ語",
+"ld_level": "1級",
+"badges": ["大学生〜","楽器・文化","外来語","アフリカ"],
+"meaning_main": "ジャンベ（西アフリカの太鼓）",
+"description": "djembe（ジャンベ）は西アフリカ発祥のヤギ皮を張った手打ちの太鼓。杯（さかずき）型の胴を持ち、手のひらと指で多彩な音を出す打楽器。",
+"keywords": ["djembe 意味","ジャンベ 太鼓","djembe アフリカ"],
+"meanings": [
+{"hinshi": "【名詞】ジャンベ","note": "西アフリカ由来の杯型の手打ち太鼓"}
+],
+"usages": [
+{"title": "① 手で叩く太鼓","desc": "素手で演奏する","example_en": "He played a lively rhythm on the djembe.","example_ja": "彼はジャンベで軽快なリズムを刻んだ。"},
+{"title": "② 円になって演奏","desc": "ドラムサークルで人気","example_en": "The group formed a circle and played djembes together.","example_ja": "そのグループは輪になって一緒にジャンベを演奏した。"}
+],
+"warn": ["発音は「ジェンベ」「ジャンベ」。頭の d は発音しないことが多い"],
+"etym_note": "西アフリカ・マリンケ族の言葉に由来。マリ帝国の時代から演奏されてきたとされる。",
+"etym_chain": [
+{"node": "jembe","sub": "太鼓","era": "マリンケ語"},
+{"node": "djembe","sub": "ジャンベ","era": "現代英語"}
+],
+"phrases": [
+{"en": "play the djembe","ja": "ジャンベを演奏する"},
+{"en": "a djembe drum","ja": "ジャンベ太鼓"},
+{"en": "African djembe","ja": "アフリカのジャンベ"},
+{"en": "beat the djembe","ja": "ジャンベを叩く"},
+{"en": "djembe rhythm","ja": "ジャンベのリズム"},
+{"en": "hand drum","ja": "手打ちの太鼓"}
+],
+"related": [
+{"en": "drum","ja": "太鼓"},
+{"en": "percussion","ja": "打楽器"},
+{"en": "rhythm","ja": "リズム"},
+{"en": "bongo","ja": "ボンゴ"}
+],
+"faq": [
+{"q": "djembe はどこの楽器？","a": "西アフリカ（マリやギニアなど）発祥の太鼓です。"},
+{"q": "どうやって演奏する？","a": "ばちを使わず、手のひらと指で叩いて多彩な音を出します。"}
+],
+"quiz": [
+{"q": "djembe とは何？","A": "太鼓","B": "笛","C": "弦楽器","D": "鍵盤楽器","correct": "A"},
+{"q": "djembe の発祥地は？","A": "西アフリカ","B": "北欧","C": "南米","D": "東アジア","correct": "A"}
+]
+},
+{
+"english": "doberman",
+"pron": "ˈdoʊbərmən",
+"kana": "ドーベルマン",
+"hinshi": "名詞（固有名詞）",
+"ld_pos": "名詞",
+"ld_etym": "人名 Dobermann（作出者の名）",
+"ld_level": "準1級",
+"badges": ["高校生〜","動物・犬種","固有名詞","ドイツ"],
+"meaning_main": "ドーベルマン（犬種）",
+"description": "Doberman（ドーベルマン）はドイツ原産の犬種。引き締まった体と警戒心の強さから番犬・警察犬として知られる。作出した人物の名にちなむ。",
+"keywords": ["doberman 意味","ドーベルマン 犬種","doberman 番犬"],
+"meanings": [
+{"hinshi": "【固有名詞】ドーベルマン","note": "ドイツ原産の大型犬。番犬・警察犬に多い"}
+],
+"usages": [
+{"title": "① 番犬として","desc": "警戒心が強く忠実","example_en": "They keep a Doberman to guard the house.","example_ja": "彼らは家を守るためにドーベルマンを飼っている。"},
+{"title": "② 警察犬","desc": "訓練性能が高い","example_en": "The Doberman is often used as a police dog.","example_ja": "ドーベルマンはよく警察犬として使われる。"}
+],
+"warn": ["正式には Doberman Pinscher。固有名詞なので大文字で書く"],
+"etym_note": "19世紀ドイツの税金徴収人カール・ドーベルマン（Karl Dobermann）が番犬用に作出したことに由来。",
+"etym_chain": [
+{"node": "Dobermann","sub": "作出者の姓","era": "19世紀ドイツ"},
+{"node": "Doberman","sub": "犬種名","era": "現代英語"}
+],
+"phrases": [
+{"en": "a guard Doberman","ja": "番犬のドーベルマン"},
+{"en": "Doberman Pinscher","ja": "ドーベルマン・ピンシャー"},
+{"en": "train a Doberman","ja": "ドーベルマンを訓練する"},
+{"en": "a loyal Doberman","ja": "忠実なドーベルマン"},
+{"en": "police Doberman","ja": "警察犬のドーベルマン"},
+{"en": "a sleek Doberman","ja": "引き締まったドーベルマン"}
+],
+"related": [
+{"en": "dog","ja": "犬"},
+{"en": "breed","ja": "品種"},
+{"en": "guard dog","ja": "番犬"},
+{"en": "rottweiler","ja": "ロットワイラー"}
+],
+"faq": [
+{"q": "Doberman はどこ原産？","a": "ドイツ原産の犬種です。"},
+{"q": "名前の由来は？","a": "作出したドイツ人カール・ドーベルマンの姓にちなみます。"}
+],
+"quiz": [
+{"q": "Doberman とは何？","A": "犬種","B": "猫種","C": "鳥の一種","D": "馬の品種","correct": "A"},
+{"q": "Doberman の原産国は？","A": "ドイツ","B": "日本","C": "ブラジル","D": "エジプト","correct": "A"}
+]
+},
+{
+"english": "docent",
+"pron": "ˈdoʊsnt",
+"kana": "ドーセント",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "ラテン語 docere（教える）",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","専門語"],
+"meaning_main": "（美術館などの）解説員／（欧州の）講師",
+"description": "docent（ドーセント）は美術館や博物館で来館者に展示を解説するガイド役。ヨーロッパの一部の大学では准講師の意味でも使われる語。",
+"keywords": ["docent 意味","docent 解説員","docent 美術館"],
+"meanings": [
+{"hinshi": "【名詞】解説員・ガイド","note": "美術館・博物館で展示を案内する人。多くはボランティア"},
+{"hinshi": "【名詞】講師","note": "欧州の大学で准教授・講師を指すことがある"}
+],
+"usages": [
+{"title": "① 美術館のガイド","desc": "展示を分かりやすく説明","example_en": "A docent led us through the museum's new exhibit.","example_ja": "解説員が私たちを美術館の新しい展示へ案内してくれた。"},
+{"title": "② ボランティア解説","desc": "無償で活動する人も多い","example_en": "She volunteers as a docent at the art gallery.","example_ja": "彼女は美術館でボランティアの解説員をしている。"}
+],
+"warn": ["日本語のギャラリー「ドーセント」もこの語。guide より専門的な解説役を指す"],
+"etym_note": "ラテン語 docere（教える）の現在分詞から。doctor（教える人）や document と同語源。",
+"etym_chain": [
+{"node": "docere","sub": "教える","era": "ラテン語"},
+{"node": "docens","sub": "教えている","era": "ラテン語"},
+{"node": "docent","sub": "解説員","era": "現代英語"}
+],
+"phrases": [
+{"en": "a museum docent","ja": "美術館の解説員"},
+{"en": "volunteer docent","ja": "ボランティア解説員"},
+{"en": "a docent tour","ja": "解説員つきのツアー"},
+{"en": "become a docent","ja": "解説員になる"},
+{"en": "docent-led tour","ja": "解説員が案内するツアー"},
+{"en": "an experienced docent","ja": "経験豊富な解説員"}
+],
+"related": [
+{"en": "guide","ja": "案内人"},
+{"en": "curator","ja": "学芸員"},
+{"en": "museum","ja": "美術館・博物館"},
+{"en": "lecturer","ja": "講師"}
+],
+"faq": [
+{"q": "docent と curator の違いは？","a": "docent は来館者に解説するガイド、curator は展示を企画・管理する学芸員です。"},
+{"q": "docent は職業？","a": "多くはボランティアですが、欧州では大学講師の職名でもあります。"}
+],
+"quiz": [
+{"q": "docent の意味は？","A": "美術館の解説員","B": "運転手","C": "医者","D": "料理人","correct": "A"},
+{"q": "docent と同じ語源の語は？","A": "doctor","B": "dozen","C": "docket","D": "dock","correct": "A"}
+]
+},
+{
+"english": "dodecahedron",
+"pron": "ˌdoʊdɛkəˈhiːdrən",
+"kana": "ドデカヘドロン",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "ギリシャ語 dōdeka（12）+ hedra（面）",
+"ld_level": "1級",
+"badges": ["大学生〜","数学用語","英検1級","CEFR C1"],
+"meaning_main": "十二面体",
+"description": "dodecahedron（ドデカヘドロン）は「十二面体」。12個の面を持つ立体。特に正十二面体は正五角形12枚からなる正多面体の一つ。",
+"keywords": ["dodecahedron 意味","十二面体 英語","dodecahedron 数学"],
+"meanings": [
+{"hinshi": "【名詞】十二面体","note": "12の面を持つ立体。正十二面体は正五角形12枚からなる"}
+],
+"usages": [
+{"title": "① 正多面体の一つ","desc": "5種類の正多面体（プラトンの立体）の一つ","example_en": "A regular dodecahedron has twelve pentagonal faces.","example_ja": "正十二面体は12枚の正五角形の面を持つ。"},
+{"title": "② サイコロにも","desc": "12面ダイスとして使う","example_en": "The game uses a dodecahedron as a twelve-sided die.","example_ja": "そのゲームは十二面体を12面ダイスとして使う。"}
+],
+"warn": ["複数形は dodecahedrons または dodecahedra。20面体は icosahedron"],
+"etym_note": "ギリシャ語 dōdeka（12）+ hedra（座・面）から。dodeca- は「12」を表す接頭辞。",
+"etym_chain": [
+{"node": "dōdeka","sub": "12","era": "ギリシャ語"},
+{"node": "hedra","sub": "面・座","era": "ギリシャ語"},
+{"node": "dodecahedron","sub": "十二面体","era": "現代英語"}
+],
+"phrases": [
+{"en": "a regular dodecahedron","ja": "正十二面体"},
+{"en": "the faces of a dodecahedron","ja": "十二面体の面"},
+{"en": "a dodecahedron die","ja": "十二面体のサイコロ"},
+{"en": "pentagonal dodecahedron","ja": "五角形の十二面体"},
+{"en": "build a dodecahedron","ja": "十二面体を作る"},
+{"en": "a twelve-faced solid","ja": "12面の立体"}
+],
+"related": [
+{"en": "cube","ja": "立方体"},
+{"en": "polyhedron","ja": "多面体"},
+{"en": "tetrahedron","ja": "四面体"},
+{"en": "icosahedron","ja": "二十面体"}
+],
+"faq": [
+{"q": "正十二面体の面は何角形？","a": "正五角形です。それが12枚集まっています。"},
+{"q": "dodeca- は何を意味する？","a": "ギリシャ語で「12」を表す接頭辞です。"}
+],
+"quiz": [
+{"q": "dodecahedron の意味は？","A": "十二面体","B": "六面体","C": "四面体","D": "八面体","correct": "A"},
+{"q": "dodeca- が表す数は？","A": "12","B": "6","C": "8","D": "20","correct": "A"}
+]
+},
+{
+"english": "dodo",
+"pron": "ˈdoʊdoʊ",
+"kana": "ドードー",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "ポルトガル語 doudo（愚か者）由来説",
+"ld_level": "準1級",
+"badges": ["高校生〜","動物・絶滅種","英検準1級","CEFR B2"],
+"meaning_main": "ドードー（絶滅した鳥）／時代遅れの人",
+"description": "dodo（ドードー）はかつてモーリシャス島にいた飛べない大型の鳥。17世紀に絶滅し、「絶滅」や「時代遅れ」の象徴として知られる。",
+"keywords": ["dodo 意味","ドードー 鳥","dodo 絶滅"],
+"meanings": [
+{"hinshi": "【名詞】ドードー","note": "モーリシャス島にいた飛べない鳥。17世紀に絶滅"},
+{"hinshi": "【名詞】時代遅れの人・物","note": "比喩的に古くさいものを指す"}
+],
+"usages": [
+{"title": "① 絶滅した鳥","desc": "as dead as a dodo（完全に廃れた）","example_en": "The dodo became extinct in the 17th century.","example_ja": "ドードーは17世紀に絶滅した。"},
+{"title": "② 時代遅れの比喩","desc": "「完全に過去のもの」","example_en": "That technology is as dead as a dodo now.","example_ja": "その技術は今や完全に過去のものだ。"}
+],
+"warn": ["複数形は dodos または dodoes。人間狩りと外来種で絶滅した"],
+"etym_note": "ポルトガル語 doudo（愚か者・のろま）に由来する説が有力。人を恐れず簡単に捕まったことから。",
+"etym_chain": [
+{"node": "doudo","sub": "愚か者","era": "ポルトガル語"},
+{"node": "dodo","sub": "ドードー","era": "現代英語"}
+],
+"phrases": [
+{"en": "as dead as a dodo","ja": "完全に廃れて"},
+{"en": "the extinct dodo","ja": "絶滅したドードー"},
+{"en": "the last dodo","ja": "最後のドードー"},
+{"en": "a flightless dodo","ja": "飛べないドードー"},
+{"en": "go the way of the dodo","ja": "絶滅する・廃れる"},
+{"en": "the dodo bird","ja": "ドードー鳥"}
+],
+"related": [
+{"en": "extinct","ja": "絶滅した"},
+{"en": "bird","ja": "鳥"},
+{"en": "species","ja": "種"},
+{"en": "flightless","ja": "飛べない"}
+],
+"faq": [
+{"q": "dodo はなぜ絶滅した？","a": "人間の狩猟と、持ち込まれた動物による卵の捕食が主な原因です。"},
+{"q": "as dead as a dodo とは？","a": "「完全に廃れた・すたれきった」という意味の慣用句です。"}
+],
+"quiz": [
+{"q": "dodo とは何？","A": "絶滅した鳥","B": "魚の一種","C": "花の名前","D": "岩の名前","correct": "A"},
+{"q": "「完全に廃れて」を表す慣用句は？","A": "as dead as a dodo","B": "as busy as a bee","C": "as cool as ice","D": "as light as air","correct": "A"}
+]
+},
+{
+"english": "dogged",
+"pron": "ˈdɔːɡɪd",
+"kana": "ドーギッド",
+"hinshi": "形容詞",
+"ld_pos": "形容詞",
+"ld_etym": "dog（犬）+ -ed",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","性格語"],
+"meaning_main": "粘り強い／頑固なほど根気のある",
+"description": "dogged（ドーギッド）は「粘り強い・不屈の」。困難でもあきらめず食らいつく様子。犬が獲物に食い下がるイメージから生まれた形容詞。",
+"keywords": ["dogged 意味","dogged 粘り強い","dogged 発音"],
+"meanings": [
+{"hinshi": "【形容詞】粘り強い・不屈の","note": "あきらめずに続ける。ふつう良い意味"}
+],
+"usages": [
+{"title": "① 不屈の努力","desc": "困難にも食らいつく","example_en": "Her dogged determination finally paid off.","example_ja": "彼女の粘り強い決意はついに報われた。"},
+{"title": "② しつこいほどの追求","desc": "dogged pursuit（執拗な追求）","example_en": "The detective's dogged pursuit solved the case.","example_ja": "刑事の執拗な追求が事件を解決した。"}
+],
+"warn": ["形容詞の dogged は2音節「ドーギッド」。動詞 dogged（つきまとった）は1音節「ドッグド」"],
+"etym_note": "名詞 dog（犬）に -ed が付いた形。獲物に食い下がる犬の粘り強さから。",
+"etym_chain": [
+{"node": "dog","sub": "犬","era": "古英語"},
+{"node": "dogged","sub": "犬のように粘る","era": "中英語"},
+{"node": "dogged","sub": "粘り強い","era": "現代英語"}
+],
+"phrases": [
+{"en": "dogged determination","ja": "不屈の決意"},
+{"en": "dogged persistence","ja": "粘り強さ"},
+{"en": "a dogged effort","ja": "根気強い努力"},
+{"en": "dogged pursuit","ja": "執拗な追求"},
+{"en": "with dogged resolve","ja": "不屈の覚悟で"},
+{"en": "dogged loyalty","ja": "揺るがない忠誠"}
+],
+"related": [
+{"en": "persistent","ja": "粘り強い"},
+{"en": "tenacious","ja": "執念深い"},
+{"en": "stubborn","ja": "頑固な"},
+{"en": "determined","ja": "決意の固い"}
+],
+"faq": [
+{"q": "dogged は良い意味？悪い意味？","a": "ふつうは「不屈の」という肯定的な意味で使われます。"},
+{"q": "発音の注意点は？","a": "形容詞は2音節「ドーギッド」で、動詞の1音節「ドッグド」と区別します。"}
+],
+"quiz": [
+{"q": "dogged の意味は？","A": "粘り強い","B": "怠けた","C": "臆病な","D": "陽気な","correct": "A"},
+{"q": "dogged と近い意味は？","A": "persistent","B": "lazy","C": "silent","D": "empty","correct": "A"}
+]
+},
+{
+"english": "doggy",
+"pron": "ˈdɔːɡi",
+"kana": "ドギー",
+"hinshi": "名詞 / 形容詞",
+"ld_pos": "名詞",
+"ld_etym": "dog（犬）+ -y（愛称の接尾辞）",
+"ld_level": "4級",
+"badges": ["小学生〜","英検4級","CEFR A1","口語"],
+"meaning_main": "わんちゃん／犬の",
+"description": "doggy（ドギー）は「わんちゃん」。dog に愛称の -y が付いた幼児語・くだけた言い方。犬の、犬のような、という形容詞にもなる。",
+"keywords": ["doggy 意味","doggy わんちゃん","doggy bag"],
+"meanings": [
+{"hinshi": "【名詞】わんちゃん","note": "dog の愛称。子どもがよく使う"},
+{"hinshi": "【形容詞】犬の・犬のような","note": "doggy smell（犬くさいにおい）など"}
+],
+"usages": [
+{"title": "① 幼児語のわんちゃん","desc": "子ども向けの言い方","example_en": "Look at the cute little doggy!","example_ja": "見て、かわいいわんちゃんだよ！"},
+{"title": "② doggy bag","desc": "食べ残しを持ち帰る袋","example_en": "Can I have a doggy bag for the leftovers?","example_ja": "残り物を入れる持ち帰り袋をもらえますか？"}
+],
+"warn": ["doggie とも綴る。doggy bag は元は「犬に」の建前から来た表現"],
+"etym_note": "名詞 dog に、親しみを表す接尾辞 -y が付いた愛称。",
+"etym_chain": [
+{"node": "dog","sub": "犬","era": "古英語"},
+{"node": "doggy","sub": "わんちゃん","era": "現代英語"}
+],
+"phrases": [
+{"en": "a cute doggy","ja": "かわいいわんちゃん"},
+{"en": "doggy bag","ja": "持ち帰り袋"},
+{"en": "doggy paddle","ja": "犬かき"},
+{"en": "a little doggy","ja": "小さなわんちゃん"},
+{"en": "doggy treats","ja": "犬のおやつ"},
+{"en": "good doggy","ja": "いい子だね（犬に）"}
+],
+"related": [
+{"en": "dog","ja": "犬"},
+{"en": "puppy","ja": "子犬"},
+{"en": "pet","ja": "ペット"},
+{"en": "kitty","ja": "猫ちゃん"}
+],
+"faq": [
+{"q": "doggy と puppy の違いは？","a": "doggy は犬全般の愛称、puppy は子犬を指します。"},
+{"q": "doggy paddle とは？","a": "手足を犬のように動かす泳ぎ方「犬かき」のことです。"}
+],
+"quiz": [
+{"q": "doggy の意味は？","A": "わんちゃん","B": "ねこちゃん","C": "小鳥","D": "うさぎ","correct": "A"},
+{"q": "食べ残しを持ち帰る袋は？","A": "doggy bag","B": "sleeping bag","C": "school bag","D": "hand bag","correct": "A"}
+]
+},
+{
+"english": "dogmatic",
+"pron": "dɔːɡˈmætɪk",
+"kana": "ドグマティック",
+"hinshi": "形容詞",
+"ld_pos": "形容詞",
+"ld_etym": "ギリシャ語 dogma（意見・教義）",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","性格語"],
+"meaning_main": "独断的な／教条的な",
+"description": "dogmatic（ドグマティック）は「独断的な・教条的な」。自分の意見や教義を絶対視し、疑いや反論を受け入れない態度を批判的に表す形容詞。",
+"keywords": ["dogmatic 意味","dogmatic 独断的","dogma 教義"],
+"meanings": [
+{"hinshi": "【形容詞】独断的な・教条的な","note": "自説を絶対と決めつけ、他を認めない。否定的な語"}
+],
+"usages": [
+{"title": "① 独断的な態度","desc": "反論を受け付けない","example_en": "He is too dogmatic to consider other opinions.","example_ja": "彼は独断的すぎて、他人の意見を考慮しない。"},
+{"title": "② 教条的な主張","desc": "教義を絶対視する","example_en": "Her dogmatic views left no room for debate.","example_ja": "彼女の教条的な考えは議論の余地を残さなかった。"}
+],
+"warn": ["名詞は dogma（教義・独断）。ふつう批判的な意味で使う"],
+"etym_note": "ギリシャ語 dogma（意見・決定・教義）から。「そう思われるもの」が原義。",
+"etym_chain": [
+{"node": "dokein","sub": "思う","era": "ギリシャ語"},
+{"node": "dogma","sub": "教義","era": "ギリシャ語"},
+{"node": "dogmatic","sub": "教条的な","era": "現代英語"}
+],
+"phrases": [
+{"en": "a dogmatic person","ja": "独断的な人"},
+{"en": "dogmatic views","ja": "教条的な考え"},
+{"en": "too dogmatic","ja": "独断的すぎる"},
+{"en": "dogmatic approach","ja": "教条的なやり方"},
+{"en": "sound dogmatic","ja": "独断的に聞こえる"},
+{"en": "a dogmatic belief","ja": "凝り固まった信念"}
+],
+"related": [
+{"en": "dogma","ja": "教義・独断"},
+{"en": "opinionated","ja": "自説を曲げない"},
+{"en": "rigid","ja": "融通のきかない"},
+{"en": "flexible","ja": "柔軟な"}
+],
+"faq": [
+{"q": "dogmatic と confident の違いは？","a": "confident は自信がある、dogmatic は独断的で他を認めない否定的な語です。"},
+{"q": "名詞形は？","a": "dogma（教義・独断的な考え）です。"}
+],
+"quiz": [
+{"q": "dogmatic の意味は？","A": "独断的な","B": "柔軟な","C": "陽気な","D": "臆病な","correct": "A"},
+{"q": "dogmatic の名詞形は？","A": "dogma","B": "dogmatism","C": "dog","D": "dogma と dogmatism の両方","correct": "D"}
+]
+},
+{
+"english": "dogsbody",
+"pron": "ˈdɔːɡzˌbɒdi",
+"kana": "ドッグズボディ",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "海軍のスラング（乾燥豆料理の俗称）",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","イギリス英語"],
+"meaning_main": "雑用係／こき使われる下働き",
+"description": "dogsbody（ドッグズボディ）は「雑用係・下働き」。だれもやりたがらない雑務を押しつけられる人を指すイギリスのくだけた語。",
+"keywords": ["dogsbody 意味","dogsbody 雑用","dogsbody イギリス"],
+"meanings": [
+{"hinshi": "【名詞】雑用係・下働き","note": "つまらない雑務をやらされる人。イギリス口語"}
+],
+"usages": [
+{"title": "① 職場の雑用係","desc": "新人などが担う","example_en": "As the new intern, I was the office dogsbody.","example_ja": "新人インターンとして、私は職場の雑用係だった。"},
+{"title": "② こき使われる立場","desc": "軽い自嘲でも使う","example_en": "I feel like a dogsbody, doing everyone's chores.","example_ja": "みんなの雑用をやらされて、下働きみたいな気分だ。"}
+],
+"warn": ["主にイギリス英語。複数形は dogsbodies"],
+"etym_note": "イギリス海軍のスラングで、乾燥エンドウ豆を煮た料理を dog's body と呼んだことに由来。転じて下っ端の意味に。",
+"etym_chain": [
+{"node": "dog's body","sub": "豆料理の俗称","era": "19世紀英海軍"},
+{"node": "dogsbody","sub": "雑用係","era": "現代英語"}
+],
+"phrases": [
+{"en": "the office dogsbody","ja": "職場の雑用係"},
+{"en": "act as a dogsbody","ja": "雑用係を務める"},
+{"en": "a general dogsbody","ja": "何でも屋の下働き"},
+{"en": "feel like a dogsbody","ja": "こき使われる気分だ"},
+{"en": "become the dogsbody","ja": "雑用係にされる"},
+{"en": "everyone's dogsbody","ja": "みんなの下働き"}
+],
+"related": [
+{"en": "servant","ja": "使用人"},
+{"en": "gofer","ja": "使い走り"},
+{"en": "underling","ja": "下っ端"},
+{"en": "drudge","ja": "こき使われる人"}
+],
+"faq": [
+{"q": "dogsbody はどこの英語？","a": "主にイギリス英語のくだけた表現です。"},
+{"q": "gofer との違いは？","a": "どちらも下働きですが、gofer は使い走り、dogsbody は雑務全般をこなす人です。"}
+],
+"quiz": [
+{"q": "dogsbody の意味は？","A": "雑用係","B": "社長","C": "医者","D": "先生","correct": "A"},
+{"q": "dogsbody は主にどこの英語？","A": "イギリス英語","B": "オーストラリア英語のみ","C": "カナダ英語のみ","D": "インド英語のみ","correct": "A"}
+]
+},
+{
+"english": "dogwood",
+"pron": "ˈdɔːɡwʊd",
+"kana": "ドッグウッド",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "dog + wood（かつて dag「串」の意）",
+"ld_level": "準1級",
+"badges": ["高校生〜","植物・樹木","英検準1級","CEFR B2"],
+"meaning_main": "ハナミズキ／ミズキ（樹木）",
+"description": "dogwood（ドッグウッド）は「ハナミズキ・ミズキ」。春に白やピンクの花をつける庭木で、日本でも街路樹として親しまれている樹木。",
+"keywords": ["dogwood 意味","ハナミズキ 英語","dogwood 花"],
+"meanings": [
+{"hinshi": "【名詞】ハナミズキ・ミズキ","note": "春に花をつける庭木・街路樹。北米原産種が有名"}
+],
+"usages": [
+{"title": "① 春の花木","desc": "白やピンクの花が咲く","example_en": "The dogwood blooms with white flowers in spring.","example_ja": "ハナミズキは春に白い花を咲かせる。"},
+{"title": "② 街路樹として","desc": "日本でも人気","example_en": "Dogwood trees line the street near the park.","example_ja": "公園の近くの通りにはハナミズキが並んでいる。"}
+],
+"warn": ["日本のハナミズキは1912年の桜の返礼として米国から贈られた種が有名"],
+"etym_note": "古くは dagwood（dag は「串・尖った棒」）で、硬い材が串に使われたことに由来するとされる。",
+"etym_chain": [
+{"node": "dag","sub": "串・尖った棒","era": "中英語"},
+{"node": "dagwood","sub": "ミズキ","era": "近代英語"},
+{"node": "dogwood","sub": "ハナミズキ","era": "現代英語"}
+],
+"phrases": [
+{"en": "a dogwood tree","ja": "ハナミズキの木"},
+{"en": "dogwood blossoms","ja": "ハナミズキの花"},
+{"en": "flowering dogwood","ja": "アメリカハナミズキ"},
+{"en": "pink dogwood","ja": "ピンクのハナミズキ"},
+{"en": "under the dogwood","ja": "ハナミズキの下で"},
+{"en": "dogwood in bloom","ja": "花咲くハナミズキ"}
+],
+"related": [
+{"en": "tree","ja": "木"},
+{"en": "blossom","ja": "花"},
+{"en": "cherry","ja": "桜"},
+{"en": "maple","ja": "カエデ"}
+],
+"faq": [
+{"q": "dogwood は日本語で何？","a": "ハナミズキ（またはミズキ）です。"},
+{"q": "なぜ dog（犬）が付く？","a": "犬とは関係なく、古語 dag（串）が変化したとする説が有力です。"}
+],
+"quiz": [
+{"q": "dogwood とは何？","A": "ハナミズキ（樹木）","B": "犬の一種","C": "木製の玩具","D": "きのこ","correct": "A"},
+{"q": "dogwood はいつ花が咲く？","A": "春","B": "真冬","C": "真夏のみ","D": "咲かない","correct": "A"}
+]
+},
+{
+"english": "doha",
+"pron": "ˈdoʊhə",
+"kana": "ドーハ",
+"hinshi": "名詞（固有名詞）",
+"ld_pos": "名詞",
+"ld_etym": "アラビア語 ad-dawḥa（大きな木）",
+"ld_level": "準1級",
+"badges": ["高校生〜","地名・都市","固有名詞","カタール"],
+"meaning_main": "ドーハ（カタールの首都）",
+"description": "Doha（ドーハ）はペルシャ湾に面するカタールの首都。石油・天然ガスで栄える近代都市で、2022年サッカーW杯の開催地としても知られる。",
+"keywords": ["doha 意味","ドーハ カタール","doha 首都"],
+"meanings": [
+{"hinshi": "【固有名詞】ドーハ","note": "カタールの首都。ペルシャ湾岸の近代都市"}
+],
+"usages": [
+{"title": "① カタールの首都","desc": "湾岸の経済・文化の中心","example_en": "Doha is the capital city of Qatar.","example_ja": "ドーハはカタールの首都だ。"},
+{"title": "② 国際大会の舞台","desc": "スポーツや会議の開催地","example_en": "The World Cup final was held in Doha.","example_ja": "ワールドカップの決勝はドーハで行われた。"}
+],
+"warn": ["固有名詞なので大文字 Doha。ファイル名・リンクは小文字 doha に統一"],
+"etym_note": "アラビア語 ad-dawḥa（大きな木・広がった木）に由来するとされる。",
+"etym_chain": [
+{"node": "ad-dawḥa","sub": "大きな木","era": "アラビア語"},
+{"node": "Doha","sub": "ドーハ","era": "現代英語"}
+],
+"phrases": [
+{"en": "the city of Doha","ja": "ドーハの街"},
+{"en": "fly to Doha","ja": "ドーハへ飛ぶ"},
+{"en": "in Doha","ja": "ドーハで"},
+{"en": "Doha, Qatar","ja": "カタールのドーハ"},
+{"en": "downtown Doha","ja": "ドーハの中心部"},
+{"en": "the port of Doha","ja": "ドーハの港"}
+],
+"related": [
+{"en": "Qatar","ja": "カタール"},
+{"en": "capital","ja": "首都"},
+{"en": "gulf","ja": "湾"},
+{"en": "city","ja": "都市"}
+],
+"faq": [
+{"q": "Doha はどこの国の首都？","a": "カタールの首都です。"},
+{"q": "何で有名？","a": "石油・天然ガス産業と、2022年サッカーW杯の開催地として有名です。"}
+],
+"quiz": [
+{"q": "Doha はどこの国の首都？","A": "カタール","B": "エジプト","C": "トルコ","D": "インド","correct": "A"},
+{"q": "Doha が面している海域は？","A": "ペルシャ湾","B": "地中海","C": "日本海","D": "バルト海","correct": "A"}
+]
+}
+]
