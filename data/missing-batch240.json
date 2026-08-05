@@ -1,0 +1,986 @@
+[
+{
+"english": "inactivity",
+"pron": "ˌɪnækˈtɪvəti",
+"kana": "インアクティビティー",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "in-（否定）＋activity（活動）",
+"ld_level": "準1級",
+"badges": ["高校生〜","英検準1級","CEFR B2","健康・状態"],
+"meaning_main": "不活動・活動していないこと・運動不足",
+"description": "inactivity（インアクティビティー）は「不活動」「活動していないこと」。動きや活動が止まっている状態を表す名詞。特に運動不足や停滞を指すことが多い。activity（活動）の反対。in- は否定の接頭辞。不可算名詞。",
+"keywords": ["inactivity 意味","inactivity 使い方","不活動 英語","運動不足"],
+"meanings": [
+{"hinshi": "【名詞】不活動・活動していないこと","note": "動きや活動が止まっている状態。運動不足や停滞"}
+],
+"usages": [
+{"title": "① 健康","desc": "運動不足","example_en": "Long periods of inactivity are bad for your health.","example_ja": "長期間の運動不足は健康に悪い。"},
+{"title": "② 停滞","desc": "動きがない","example_en": "After months of inactivity, the market began to recover.","example_ja": "数か月の停滞のあと、市場は回復し始めた。"}
+],
+"warn": ["対義語は activity（活動）。in- は否定の接頭辞。","健康分野では physical inactivity（運動不足）としてよく使う。"],
+"etym_note": "in-（否定）＋activity（活動、ラテン語 activus「行動的な」から）。「活動していないこと」を表す。",
+"etym_chain": [
+{"node": "activus","sub": "行動的な","era": "ラテン語"},
+{"node": "in + activity","sub": "活動していないこと","era": "近代英語"},
+{"node": "inactivity","sub": "不活動","era": "現代英語"}
+],
+"phrases": [
+{"en": "physical inactivity","ja": "運動不足"},
+{"en": "a period of inactivity","ja": "活動のない期間"},
+{"en": "prolonged inactivity","ja": "長引く不活動"},
+{"en": "months of inactivity","ja": "数か月の停滞"},
+{"en": "forced inactivity","ja": "やむを得ない休止"},
+{"en": "inactivity and boredom","ja": "手持ち無沙汰と退屈"}
+],
+"related": [
+{"en": "activity","ja": "活動"},
+{"en": "inactive","ja": "活動していない"},
+{"en": "idleness","ja": "怠惰・不活動"},
+{"en": "stagnation","ja": "停滞"}
+],
+"faq": [
+{"q": "inactivity の意味は？","a": "「不活動・活動していないこと」です。動きや活動が止まっている状態を表し、特に運動不足や停滞を指すことが多い語です。activity（活動）の反対です。"},
+{"q": "健康の話ではどう使いますか？","a": "physical inactivity（運動不足）の形でよく使います。長時間の inactivity は健康に悪影響を及ぼすとされます。"}
+],
+"quiz": [
+{"q": "inactivity の意味は？","A": "不活動・運動不足","B": "激しい運動","C": "急成長","D": "混雑","correct": "A"},
+{"q": "inactivity の対義語は？","A": "activity","B": "ability","C": "quality","D": "quantity","correct": "A"}
+]
+},
+{
+"english": "inadvertently",
+"pron": "ˌɪnədˈvɜːrtəntli",
+"kana": "インアドヴァーテントリー",
+"hinshi": "副詞",
+"ld_pos": "副詞",
+"ld_etym": "in-（否定）＋advertent（注意した）＋-ly",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","表現・行為"],
+"meaning_main": "うっかり・不注意で・意図せず",
+"description": "inadvertently（インアドヴァーテントリー）は「うっかり」「意図せず」。注意が足りず、そのつもりがないのに何かをしてしまう様子を表す副詞。accidentally（偶然に）と近いが、「不注意による」ニュアンスが強い。",
+"keywords": ["inadvertently 意味","inadvertently 使い方","うっかり 英語","意図せず"],
+"meanings": [
+{"hinshi": "【副詞】うっかり・不注意で・意図せず","note": "注意が足りず、そのつもりなくしてしまう"}
+],
+"usages": [
+{"title": "① 失敗","desc": "うっかりする","example_en": "I inadvertently deleted the file.","example_ja": "私はうっかりそのファイルを削除してしまった。"},
+{"title": "② 意図せず","desc": "偶然に","example_en": "He inadvertently revealed the secret.","example_ja": "彼は意図せず秘密を漏らしてしまった。"}
+],
+"warn": ["accidentally（偶然に）と近いが、inadvertently は「不注意・見落としによる」意味合いが強い。","対義語的には deliberately / intentionally（故意に）。"],
+"etym_note": "in-（否定）＋advertent（注意を向けた、ラテン語 advertere「注意を向ける」から）＋-ly。「注意を向けずに＝うっかり」を表す。",
+"etym_chain": [
+{"node": "advertere","sub": "注意を向ける","era": "ラテン語"},
+{"node": "in + advertent + ly","sub": "注意を向けずに","era": "近代英語"},
+{"node": "inadvertently","sub": "うっかり","era": "現代英語"}
+],
+"phrases": [
+{"en": "inadvertently delete","ja": "うっかり削除する"},
+{"en": "inadvertently reveal","ja": "意図せず漏らす"},
+{"en": "inadvertently cause","ja": "うっかり引き起こす"},
+{"en": "inadvertently offend","ja": "意図せず気を悪くさせる"},
+{"en": "quite inadvertently","ja": "まったく意図せず"},
+{"en": "inadvertently left out","ja": "うっかり抜けた"}
+],
+"related": [
+{"en": "accidentally","ja": "偶然に"},
+{"en": "unintentionally","ja": "意図せず"},
+{"en": "carelessly","ja": "不注意に"},
+{"en": "deliberately","ja": "故意に"}
+],
+"faq": [
+{"q": "inadvertently の意味は？","a": "「うっかり・不注意で・意図せず」です。注意が足りず、そのつもりがないのに何かをしてしまう様子を表します。"},
+{"q": "accidentally との違いは？","a": "どちらも「偶然に・意図せず」ですが、inadvertently は特に「不注意・見落としによる」ニュアンスが強い語です。"}
+],
+"quiz": [
+{"q": "inadvertently の意味は？","A": "うっかり・意図せず","B": "わざと","C": "急いで","D": "堂々と","correct": "A"},
+{"q": "inadvertently の対義語に近いのは？","A": "deliberately（故意に）","B": "quickly（速く）","C": "quietly（静かに）","D": "clearly（明確に）","correct": "A"}
+]
+},
+{
+"english": "inane",
+"pron": "ɪˈneɪn",
+"kana": "イネイン",
+"hinshi": "形容詞",
+"ld_pos": "形容詞",
+"ld_etym": "ラテン語 inanis（空の・むなしい）",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","評価・表現"],
+"meaning_main": "ばかげた・愚かで中身のない・くだらない",
+"description": "inane（イネイン）は「ばかげた」「中身のない」。意味や知性が感じられず、くだらない発言や行動を表す形容詞。an inane remark（くだらない発言）のように使う。名詞は inanity（愚かさ）。",
+"keywords": ["inane 意味","inane 使い方","ばかげた 英語","中身のない"],
+"meanings": [
+{"hinshi": "【形容詞】ばかげた・中身のない・くだらない","note": "意味や知性が感じられず愚かな"}
+],
+"usages": [
+{"title": "① 発言","desc": "くだらない","example_en": "He made an inane comment.","example_ja": "彼はくだらない発言をした。"},
+{"title": "② 会話","desc": "中身がない","example_en": "The show was full of inane chatter.","example_ja": "その番組は中身のないおしゃべりでいっぱいだった。"}
+],
+"warn": ["insane（正気でない）とつづり・音が似ているが別語なので注意。","名詞は inanity（愚かさ・くだらないこと）。"],
+"etym_note": "ラテン語 inanis（空の・むなしい）に由来。「中身が空っぽ＝愚かでくだらない」の意味になった。",
+"etym_chain": [
+{"node": "inanis","sub": "空の・むなしい","era": "ラテン語"},
+{"node": "inane","sub": "中身のない","era": "17世紀 英語"},
+{"node": "inane","sub": "ばかげた・くだらない","era": "現代英語"}
+],
+"phrases": [
+{"en": "an inane remark","ja": "くだらない発言"},
+{"en": "inane chatter","ja": "中身のないおしゃべり"},
+{"en": "an inane question","ja": "ばかげた質問"},
+{"en": "inane comments","ja": "くだらないコメント"},
+{"en": "utterly inane","ja": "まったくばかげた"},
+{"en": "an inane grin","ja": "間の抜けた笑み"}
+],
+"related": [
+{"en": "silly","ja": "ばかげた"},
+{"en": "senseless","ja": "無意味な"},
+{"en": "vacuous","ja": "空虚な"},
+{"en": "inanity","ja": "愚かさ"}
+],
+"faq": [
+{"q": "inane の意味は？","a": "「ばかげた・中身のない・くだらない」です。意味や知性が感じられず、くだらない発言や行動を表します。an inane remark（くだらない発言）などです。"},
+{"q": "insane と同じですか？","a": "いいえ、別語です。inane は「ばかげた・中身のない」、insane は「正気でない・狂った」です。つづりも音も似ていますが混同に注意しましょう。"}
+],
+"quiz": [
+{"q": "inane の意味は？","A": "ばかげた・中身のない","B": "賢明な","C": "重要な","D": "巨大な","correct": "A"},
+{"q": "inane の名詞形は？","A": "inanity","B": "insanity","C": "identity","D": "infinity","correct": "A"}
+]
+},
+{
+"english": "inanimate",
+"pron": "ɪnˈænɪmət",
+"kana": "インアニメット",
+"hinshi": "形容詞",
+"ld_pos": "形容詞",
+"ld_etym": "in-（否定）＋animate（生命ある）",
+"ld_level": "準1級",
+"badges": ["高校生〜","英検準1級","CEFR B2","科学・文法"],
+"meaning_main": "生命のない・無生物の",
+"description": "inanimate（インアニメット）は「生命のない」「無生物の」。石・机・機械など、命を持たない物を表す形容詞。animate（生命ある・生き物の）の反対。an inanimate object（無生物）のように使う。in- は否定の接頭辞。",
+"keywords": ["inanimate 意味","inanimate 使い方","無生物の 英語","生命のない"],
+"meanings": [
+{"hinshi": "【形容詞】生命のない・無生物の","note": "命を持たない物の"}
+],
+"usages": [
+{"title": "① 物","desc": "無生物","example_en": "A rock is an inanimate object.","example_ja": "岩は無生物である。"},
+{"title": "② 対比","desc": "生き物でない","example_en": "Children sometimes talk to inanimate objects.","example_ja": "子どもはときに無生物に話しかける。"}
+],
+"warn": ["対義語は animate（生命ある・生き物の）。in- は否定の接頭辞。","文法では「無生物名詞」を指すこともある。"],
+"etym_note": "in-（否定）＋animate（ラテン語 animatus「命を吹き込まれた」、anima「魂・命」から）。「命のない」を表す。",
+"etym_chain": [
+{"node": "anima","sub": "魂・命","era": "ラテン語"},
+{"node": "in + animate","sub": "命のない","era": "近代英語"},
+{"node": "inanimate","sub": "無生物の","era": "現代英語"}
+],
+"phrases": [
+{"en": "an inanimate object","ja": "無生物"},
+{"en": "inanimate matter","ja": "無生物の物質"},
+{"en": "living and inanimate","ja": "生き物と無生物"},
+{"en": "an inanimate thing","ja": "命のない物"},
+{"en": "inanimate nature","ja": "無生物の自然"},
+{"en": "seemingly inanimate","ja": "一見命のない"}
+],
+"related": [
+{"en": "animate","ja": "生命ある"},
+{"en": "lifeless","ja": "生命のない"},
+{"en": "object","ja": "物体"},
+{"en": "nonliving","ja": "無生物の"}
+],
+"faq": [
+{"q": "inanimate の意味は？","a": "「生命のない・無生物の」です。石・机・機械など、命を持たない物を表します。an inanimate object（無生物）のように使います。"},
+{"q": "対義語は？","a": "animate（生命ある・生き物の）です。in- が否定を表しています。"}
+],
+"quiz": [
+{"q": "inanimate の意味は？","A": "生命のない・無生物の","B": "生きている","C": "巨大な","D": "透明な","correct": "A"},
+{"q": "inanimate の例は？","A": "岩","B": "犬","C": "鳥","D": "木（生きている）","correct": "A"}
+]
+},
+{
+"english": "inaudible",
+"pron": "ɪnˈɔːdəbəl",
+"kana": "インオーディブル",
+"hinshi": "形容詞",
+"ld_pos": "形容詞",
+"ld_etym": "in-（否定）＋audible（聞こえる）",
+"ld_level": "準1級",
+"badges": ["高校生〜","英検準1級","CEFR B2","音・感覚"],
+"meaning_main": "聞こえない・聞き取れない",
+"description": "inaudible（インオーディブル）は「聞こえない」「聞き取れない」。音が小さすぎたり弱すぎたりして耳で聞き取れない様子を表す形容詞。audible（聞こえる）の反対。in- は否定の接頭辞。an inaudible whisper（聞き取れないささやき）のように使う。",
+"keywords": ["inaudible 意味","inaudible 使い方","聞こえない 英語","audible 反対"],
+"meanings": [
+{"hinshi": "【形容詞】聞こえない・聞き取れない","note": "音が小さすぎて耳で聞き取れない"}
+],
+"usages": [
+{"title": "① 声","desc": "聞き取れない","example_en": "Her reply was almost inaudible.","example_ja": "彼女の返事はほとんど聞き取れなかった。"},
+{"title": "② 音","desc": "聞こえない","example_en": "The sound was inaudible to the human ear.","example_ja": "その音は人間の耳には聞こえなかった。"}
+],
+"warn": ["対義語は audible（聞こえる）。in- は否定の接頭辞。","「聞こえないほど小さい・弱い」という意味。"],
+"etym_note": "in-（否定）＋audible（聞こえる、ラテン語 audire「聞く」から）。「聞こえない」を表す。audio（音声）と同語源。",
+"etym_chain": [
+{"node": "audire","sub": "聞く","era": "ラテン語"},
+{"node": "in + audible","sub": "聞こえない","era": "近代英語"},
+{"node": "inaudible","sub": "聞こえない","era": "現代英語"}
+],
+"phrases": [
+{"en": "almost inaudible","ja": "ほとんど聞き取れない"},
+{"en": "an inaudible whisper","ja": "聞き取れないささやき"},
+{"en": "barely inaudible","ja": "かろうじて聞こえない"},
+{"en": "inaudible to the ear","ja": "耳には聞こえない"},
+{"en": "an inaudible murmur","ja": "聞き取れないつぶやき"},
+{"en": "become inaudible","ja": "聞こえなくなる"}
+],
+"related": [
+{"en": "audible","ja": "聞こえる"},
+{"en": "silent","ja": "無音の"},
+{"en": "faint","ja": "かすかな"},
+{"en": "muffled","ja": "こもった"}
+],
+"faq": [
+{"q": "inaudible の意味は？","a": "「聞こえない・聞き取れない」です。音が小さすぎたり弱すぎたりして耳で聞き取れない様子を表します。audible（聞こえる）の反対です。"},
+{"q": "対義語は？","a": "audible（聞こえる）です。in- が否定を表しています。audible は「聞き取れる」、inaudible は「聞き取れない」です。"}
+],
+"quiz": [
+{"q": "inaudible の意味は？","A": "聞こえない・聞き取れない","B": "見えない","C": "明るい","D": "重い","correct": "A"},
+{"q": "inaudible の対義語は？","A": "audible","B": "visible","C": "edible","D": "possible","correct": "A"}
+]
+},
+{
+"english": "inboard",
+"pron": "ˈɪnbɔːrd",
+"kana": "インボード",
+"hinshi": "形容詞 / 副詞",
+"ld_pos": "形容詞",
+"ld_etym": "in（内）＋board（船べり）",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","乗り物・技術"],
+"meaning_main": "船内の・機内の（内側に取り付けられた）／船体の内側へ",
+"description": "inboard（インボード）は「船内（機内）に取り付けられた」「内側の」。特にエンジンが船体やボートの内部にある形式を表す形容詞・副詞。outboard（船外の・船外機）の反対。乗り物の構造でよく使う。",
+"keywords": ["inboard 意味","inboard 使い方","船内 英語","outboard 反対"],
+"meanings": [
+{"hinshi": "【形容詞】船内の・内側に取り付けられた","note": "エンジンなどが船体や機体の内部にある"},
+{"hinshi": "【副詞】船体の内側へ","note": "中央や内側の方向へ"}
+],
+"usages": [
+{"title": "① ボート","desc": "船内エンジン","example_en": "The boat has a powerful inboard engine.","example_ja": "そのボートは強力な船内エンジンを備えている。"},
+{"title": "② 位置","desc": "内側の","example_en": "The inboard seats are closer to the center.","example_ja": "内側の座席は中央に近い。"}
+],
+"warn": ["対義語は outboard（船外の・船外機）。","飛行機ではエンジンや翼の「胴体寄りの」位置を指すこともある。"],
+"etym_note": "in（内）＋board（船べり・船側、古英語 bord）。「船べりの内側＝船内の」を表す。outboard（船外の）と対をなす。",
+"etym_chain": [
+{"node": "in + bord","sub": "船べりの内","era": "近代英語"},
+{"node": "inboard","sub": "船内の","era": "19世紀 英語"},
+{"node": "inboard","sub": "船内の・内側の","era": "現代英語"}
+],
+"phrases": [
+{"en": "an inboard engine","ja": "船内エンジン"},
+{"en": "an inboard motor","ja": "船内モーター"},
+{"en": "move inboard","ja": "内側へ移動する"},
+{"en": "the inboard side","ja": "内側の面"},
+{"en": "inboard seating","ja": "内側の座席"},
+{"en": "inboard and outboard","ja": "船内機と船外機"}
+],
+"related": [
+{"en": "outboard","ja": "船外の・船外機"},
+{"en": "engine","ja": "エンジン"},
+{"en": "boat","ja": "ボート"},
+{"en": "onboard","ja": "船内の・搭載された"}
+],
+"faq": [
+{"q": "inboard の意味は？","a": "「船内の・内側に取り付けられた」です。特にエンジンが船体やボートの内部にある形式を表します。乗り物の構造でよく使われます。"},
+{"q": "outboard との違いは？","a": "inboard は「船内に取り付けられた（エンジンなど）」、outboard は「船外に取り付けられた（船外機）」です。反対の意味です。"}
+],
+"quiz": [
+{"q": "inboard の意味は？","A": "船内の・内側に取り付けられた","B": "船外の","C": "空中の","D": "地下の","correct": "A"},
+{"q": "inboard の対義語は？","A": "outboard","B": "keyboard","C": "cardboard","D": "aboard","correct": "A"}
+]
+},
+{
+"english": "inbound",
+"pron": "ˈɪnbaʊnd",
+"kana": "インバウンド",
+"hinshi": "形容詞",
+"ld_pos": "形容詞",
+"ld_etym": "in（内へ）＋bound（向かう）",
+"ld_level": "2級",
+"badges": ["高校生〜","英検2級","CEFR B2","交通・ビジネス"],
+"meaning_main": "（中心・目的地へ）入ってくる・到着する・帰りの",
+"description": "inbound（インバウンド）は「（外から中へ）入ってくる」「到着する」。都市・国・空港などへ向かう方向を表す形容詞。海外から日本へ来る旅行（インバウンド観光）でもよく使う。outbound（外へ向かう）の反対。",
+"keywords": ["inbound 意味","inbound 使い方","入ってくる 英語","インバウンド 観光"],
+"meanings": [
+{"hinshi": "【形容詞】入ってくる・到着する","note": "外から中心や目的地へ向かう方向の"}
+],
+"usages": [
+{"title": "① 交通","desc": "到着便","example_en": "The inbound flight was delayed.","example_ja": "到着便が遅れた。"},
+{"title": "② 観光","desc": "訪日観光","example_en": "Inbound tourism has grown rapidly.","example_ja": "訪日（インバウンド）観光は急速に伸びた。"}
+],
+"warn": ["対義語は outbound（外へ向かう・出発の）。","日本語の「インバウンド」は特に「訪日外国人観光」を指すが、英語ではより広く「入ってくる方向の」全般を表す。"],
+"etym_note": "in（内へ）＋bound（〜へ向かう、古ノルド語 búinn「準備した・向かう」から）。「中へ向かう＝入ってくる」を表す。",
+"etym_chain": [
+{"node": "in + bound","sub": "中へ向かう","era": "近代英語"},
+{"node": "inbound","sub": "到着する・入ってくる","era": "19世紀 英語"},
+{"node": "inbound","sub": "入ってくる・到着の","era": "現代英語"}
+],
+"phrases": [
+{"en": "an inbound flight","ja": "到着便"},
+{"en": "inbound traffic","ja": "流入する交通・アクセス"},
+{"en": "inbound tourism","ja": "訪日観光"},
+{"en": "an inbound train","ja": "都心行きの列車"},
+{"en": "inbound calls","ja": "受信の電話"},
+{"en": "inbound and outbound","ja": "到着と出発"}
+],
+"related": [
+{"en": "outbound","ja": "外へ向かう・出発の"},
+{"en": "arrival","ja": "到着"},
+{"en": "incoming","ja": "入ってくる"},
+{"en": "tourism","ja": "観光"}
+],
+"faq": [
+{"q": "inbound の意味は？","a": "「（外から中へ）入ってくる・到着する」です。都市・国・空港などへ向かう方向を表します。outbound（外へ向かう）の反対です。"},
+{"q": "「インバウンド観光」とは？","a": "海外から日本など、ある国へ入ってくる旅行（訪日外国人観光など）を指します。英語の inbound はより広く「入ってくる方向の」全般を意味します。"}
+],
+"quiz": [
+{"q": "inbound の意味は？","A": "入ってくる・到着する","B": "出発する","C": "停止する","D": "帰らない","correct": "A"},
+{"q": "inbound の対義語は？","A": "outbound","B": "aboard","C": "rebound","D": "abound","correct": "A"}
+]
+},
+{
+"english": "incautious",
+"pron": "ɪnˈkɔːʃəs",
+"kana": "インコーシャス",
+"hinshi": "形容詞",
+"ld_pos": "形容詞",
+"ld_etym": "in-（否定）＋cautious（用心深い）",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","性格・判断"],
+"meaning_main": "不用心な・軽率な・注意を欠いた",
+"description": "incautious（インコーシャス）は「不用心な」「軽率な」。危険や結果をよく考えず、注意を欠いた行動を表す形容詞。cautious（用心深い）の反対。in- は否定の接頭辞。an incautious remark（軽率な発言）のように使う。",
+"keywords": ["incautious 意味","incautious 使い方","不用心な 英語","cautious 反対"],
+"meanings": [
+{"hinshi": "【形容詞】不用心な・軽率な","note": "危険や結果を考えず注意を欠いた"}
+],
+"usages": [
+{"title": "① 行動","desc": "不用心な","example_en": "An incautious driver caused the accident.","example_ja": "不注意な運転手が事故を起こした。"},
+{"title": "② 発言","desc": "軽率な","example_en": "He made an incautious promise.","example_ja": "彼は軽率な約束をした。"}
+],
+"warn": ["対義語は cautious（用心深い）。in- は否定の接頭辞。","careless（不注意な）と近いが、incautious は「用心・警戒が足りない」ニュアンス。"],
+"etym_note": "in-（否定）＋cautious（用心深い、ラテン語 cautus「用心した」、cavere「用心する」から）。「用心しない＝不用心な」を表す。",
+"etym_chain": [
+{"node": "cavere","sub": "用心する","era": "ラテン語"},
+{"node": "in + cautious","sub": "用心しない","era": "近代英語"},
+{"node": "incautious","sub": "不用心な","era": "現代英語"}
+],
+"phrases": [
+{"en": "an incautious remark","ja": "軽率な発言"},
+{"en": "an incautious move","ja": "不用心な行動"},
+{"en": "incautious spending","ja": "無用心な出費"},
+{"en": "an incautious driver","ja": "不注意な運転手"},
+{"en": "be incautious about","ja": "〜に不用心である"},
+{"en": "an incautious promise","ja": "軽率な約束"}
+],
+"related": [
+{"en": "cautious","ja": "用心深い"},
+{"en": "careless","ja": "不注意な"},
+{"en": "reckless","ja": "無謀な"},
+{"en": "rash","ja": "性急な"}
+],
+"faq": [
+{"q": "incautious の意味は？","a": "「不用心な・軽率な・注意を欠いた」です。危険や結果をよく考えず、注意を欠いた行動を表します。cautious（用心深い）の反対です。"},
+{"q": "careless との違いは？","a": "どちらも「不注意な」ですが、incautious は特に「用心・警戒が足りない」、careless は「気配りや丁寧さが足りない」ニュアンスがあります。"}
+],
+"quiz": [
+{"q": "incautious の意味は？","A": "不用心な・軽率な","B": "用心深い","C": "裕福な","D": "正直な","correct": "A"},
+{"q": "incautious の対義語は？","A": "cautious","B": "curious","C": "gracious","D": "anxious","correct": "A"}
+]
+},
+{
+"english": "incensed",
+"pron": "ɪnˈsenst",
+"kana": "インセンスト",
+"hinshi": "形容詞",
+"ld_pos": "形容詞",
+"ld_etym": "ラテン語 incendere（燃やす）",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","感情"],
+"meaning_main": "激怒した・かんかんに怒った",
+"description": "incensed（インセンスト）は「激怒した」「かんかんに怒った」。強い怒りで我を忘れそうな状態を表す形容詞。be incensed by/at ～（〜に激怒する）の形で使う。動詞 incense（激怒させる）の過去分詞。香の incense とはつづりは同じだが別の意味。",
+"keywords": ["incensed 意味","incensed 使い方","激怒した 英語","かんかんに怒る"],
+"meanings": [
+{"hinshi": "【形容詞】激怒した・かんかんに怒った","note": "強い怒りで我を忘れそうな状態"}
+],
+"usages": [
+{"title": "① 怒り","desc": "激怒する","example_en": "She was incensed by his rude behavior.","example_ja": "彼女は彼の無礼なふるまいに激怒した。"},
+{"title": "② 反応","desc": "かんかんに怒る","example_en": "Residents were incensed at the decision.","example_ja": "住民たちはその決定にかんかんに怒った。"}
+],
+"warn": ["be incensed by/at ～（〜に激怒する）の形で使う。","名詞 incense（香・お香）と同じつづりだが、こちらは動詞・形容詞で「激怒させる・した」。"],
+"etym_note": "ラテン語 incendere（火をつける・燃やす）に由来。「怒りで心を燃やす＝激怒させる」の意味になった。香の incense も同語源（火で焚くもの）。",
+"etym_chain": [
+{"node": "incendere","sub": "燃やす","era": "ラテン語"},
+{"node": "incense","sub": "激怒させる","era": "中英語"},
+{"node": "incensed","sub": "激怒した","era": "現代英語"}
+],
+"phrases": [
+{"en": "be incensed by","ja": "〜に激怒する"},
+{"en": "be incensed at","ja": "〜にかんかんに怒る"},
+{"en": "utterly incensed","ja": "まったく激怒して"},
+{"en": "incensed over the news","ja": "その知らせに激怒して"},
+{"en": "look incensed","ja": "激怒した様子だ"},
+{"en": "incensed by the injustice","ja": "その不正に激怒して"}
+],
+"related": [
+{"en": "furious","ja": "激怒した"},
+{"en": "enraged","ja": "激高した"},
+{"en": "outraged","ja": "憤慨した"},
+{"en": "livid","ja": "怒りで青ざめた"}
+],
+"faq": [
+{"q": "incensed の意味は？","a": "「激怒した・かんかんに怒った」です。強い怒りで我を忘れそうな状態を表します。be incensed by/at ～（〜に激怒する）の形で使います。"},
+{"q": "お香の incense と関係ありますか？","a": "語源は同じ「火で燃やす」ですが、意味は別です。名詞 incense は「香・お香」、動詞・形容詞の incense/incensed は「激怒させる・した」です。"}
+],
+"quiz": [
+{"q": "incensed の意味は？","A": "激怒した","B": "満足した","C": "退屈した","D": "安心した","correct": "A"},
+{"q": "be incensed by の意味は？","A": "〜に激怒する","B": "〜に感謝する","C": "〜を楽しむ","D": "〜を忘れる","correct": "A"}
+]
+},
+{
+"english": "incidental",
+"pron": "ˌɪnsɪˈdentəl",
+"kana": "インシデンタル",
+"hinshi": "形容詞",
+"ld_pos": "形容詞",
+"ld_etym": "incident（出来事）＋-al",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","抽象・表現"],
+"meaning_main": "付随的な・偶発的な・重要でない",
+"description": "incidental（インシデンタル）は「付随的な」「偶発的な」。主要なものに付随して起こる、または重要でない副次的なことを表す形容詞。incidental to ～（〜に付随する）の形で使う。incidental expenses（雑費）などの決まった言い方がある。",
+"keywords": ["incidental 意味","incidental 使い方","付随的な 英語","偶発的な"],
+"meanings": [
+{"hinshi": "【形容詞】付随的な・偶発的な","note": "主要なものに付随して起こる、副次的な"},
+{"hinshi": "【形容詞】重要でない","note": "たいして重要でない、二次的な"}
+],
+"usages": [
+{"title": "① 付随","desc": "付随して起こる","example_en": "The costs are incidental to the main project.","example_ja": "その費用は主要プロジェクトに付随するものだ。"},
+{"title": "② 雑費","desc": "こまごました","example_en": "Remember to budget for incidental expenses.","example_ja": "雑費の予算も忘れずに取っておきなさい。"}
+],
+"warn": ["incidental to ～で「～に付随する・～に伴う」の意味。","incidental expenses（雑費）、incidental music（劇や映画の付随音楽）などの決まった言い方がある。"],
+"etym_note": "incident（出来事、ラテン語 incidere「起こる・降りかかる」から）＋-al。「（主要でなく）付随して起こる」を表す。",
+"etym_chain": [
+{"node": "incidere","sub": "起こる・降りかかる","era": "ラテン語"},
+{"node": "incident + al","sub": "付随的な","era": "近代英語"},
+{"node": "incidental","sub": "付随的な・偶発的な","era": "現代英語"}
+],
+"phrases": [
+{"en": "incidental expenses","ja": "雑費"},
+{"en": "incidental to the job","ja": "その仕事に付随する"},
+{"en": "incidental music","ja": "付随音楽（劇伴）"},
+{"en": "an incidental detail","ja": "些末な細部"},
+{"en": "incidental costs","ja": "付随的な費用"},
+{"en": "purely incidental","ja": "まったく偶発的な"}
+],
+"related": [
+{"en": "incident","ja": "出来事"},
+{"en": "minor","ja": "副次的な・重要でない"},
+{"en": "secondary","ja": "二次的な"},
+{"en": "accidental","ja": "偶然の"}
+],
+"faq": [
+{"q": "incidental の意味は？","a": "「付随的な・偶発的な・重要でない」です。主要なものに付随して起こる、または重要でない副次的なことを表します。incidental to ～（〜に付随する）の形で使います。"},
+{"q": "incidental expenses とは？","a": "「雑費」です。主要な支出に付随して発生する、こまごまとした費用を指します。"}
+],
+"quiz": [
+{"q": "incidental の意味は？","A": "付随的な・偶発的な","B": "中心的な","C": "永続的な","D": "危険な","correct": "A"},
+{"q": "incidental expenses の意味は？","A": "雑費","B": "固定給","C": "税金","D": "元手","correct": "A"}
+]
+},
+{
+"english": "incision",
+"pron": "ɪnˈsɪʒən",
+"kana": "インシジョン",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "ラテン語 incidere（切り込む）",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","医学"],
+"meaning_main": "切開・切り込み（手術で入れる切れ目）",
+"description": "incision（インシジョン）は「切開」「切り込み」。特に手術で、皮膚や組織に刃物で入れる切れ目を指す医学用語。make an incision（切開する）の形でよく使う。動詞 incise（切り込む）と同語源。可算名詞。",
+"keywords": ["incision 意味","incision 使い方","切開 英語","手術 切り込み"],
+"meanings": [
+{"hinshi": "【名詞】切開・切り込み","note": "手術などで皮膚や組織に刃物で入れる切れ目"}
+],
+"usages": [
+{"title": "① 手術","desc": "切開する","example_en": "The surgeon made a small incision.","example_ja": "外科医は小さな切開を行った。"},
+{"title": "② 傷口","desc": "切れ目","example_en": "The incision healed within two weeks.","example_ja": "切開部は2週間で治った。"}
+],
+"warn": ["make an incision（切開する）が典型的な言い方。","動詞は incise（切り込む・刻む）。"],
+"etym_note": "ラテン語 incidere（in-「中へ」＋caedere「切る」＝切り込む）の名詞形 incisio に由来。「切り込むこと＝切開」を表す。",
+"etym_chain": [
+{"node": "incidere","sub": "切り込む","era": "ラテン語"},
+{"node": "incisio","sub": "切開","era": "ラテン語"},
+{"node": "incision","sub": "切開・切り込み","era": "現代英語"}
+],
+"phrases": [
+{"en": "make an incision","ja": "切開する"},
+{"en": "a surgical incision","ja": "手術の切開"},
+{"en": "a small incision","ja": "小さな切開"},
+{"en": "a deep incision","ja": "深い切り込み"},
+{"en": "close the incision","ja": "切開部を縫合する"},
+{"en": "the incision site","ja": "切開部位"}
+],
+"related": [
+{"en": "incise","ja": "切り込む"},
+{"en": "cut","ja": "切る・切り傷"},
+{"en": "surgery","ja": "手術"},
+{"en": "scalpel","ja": "メス"}
+],
+"faq": [
+{"q": "incision の意味は？","a": "「切開・切り込み」です。特に手術で、皮膚や組織に刃物で入れる切れ目を指す医学用語です。make an incision（切開する）のように使います。"},
+{"q": "動詞形は？","a": "incise（切り込む・刻む）です。ラテン語 incidere（切り込む）から来ています。"}
+],
+"quiz": [
+{"q": "incision の意味は？","A": "切開・切り込み","B": "縫合","C": "包帯","D": "注射","correct": "A"},
+{"q": "make an incision の意味は？","A": "切開する","B": "麻酔する","C": "消毒する","D": "退院する","correct": "A"}
+]
+},
+{
+"english": "including",
+"pron": "ɪnˈkluːdɪŋ",
+"kana": "インクルーディング",
+"hinshi": "前置詞",
+"ld_pos": "前置詞",
+"ld_etym": "include（含む）＋-ing",
+"ld_level": "4級",
+"badges": ["中学生〜","英検4級","CEFR A2","基本語・文法"],
+"meaning_main": "〜を含めて・〜を含む",
+"description": "including（インクルーディング）は「〜を含めて」「〜を含む」。あるものが全体の一部として含まれることを示す前置詞。例を挙げるときによく使う。excluding（〜を除いて）の反対。動詞 include（含む）から。",
+"keywords": ["including 意味","including 使い方","含めて 英語","excluding 反対"],
+"meanings": [
+{"hinshi": "【前置詞】〜を含めて・〜を含む","note": "あるものが全体の一部として含まれることを示す"}
+],
+"usages": [
+{"title": "① 例示","desc": "〜を含めて","example_en": "Many countries, including Japan, joined the plan.","example_ja": "日本を含む多くの国がその計画に加わった。"},
+{"title": "② 合計","desc": "〜込みで","example_en": "The price is 1,100 yen, including tax.","example_ja": "値段は税込みで1,100円だ。"}
+],
+"warn": ["対義語は excluding（〜を除いて）。","文末に付けて not including ～（〜を含まない）とも使う。"],
+"etym_note": "include（含む、ラテン語 includere「閉じ込める・含める」から）＋-ing。前置詞として「〜を含めて」の意味で使われる。",
+"etym_chain": [
+{"node": "includere","sub": "含める","era": "ラテン語"},
+{"node": "include + ing","sub": "含めて","era": "近代英語"},
+{"node": "including","sub": "〜を含めて","era": "現代英語"}
+],
+"phrases": [
+{"en": "including tax","ja": "税込みで"},
+{"en": "including everyone","ja": "全員を含めて"},
+{"en": "including me","ja": "私を含めて"},
+{"en": "not including","ja": "〜を含まないで"},
+{"en": "several items, including","ja": "〜を含むいくつかの品"},
+{"en": "including but not limited to","ja": "〜を含むがそれに限らない"}
+],
+"related": [
+{"en": "include","ja": "含む"},
+{"en": "excluding","ja": "〜を除いて"},
+{"en": "inclusive","ja": "〜込みの"},
+{"en": "such as","ja": "〜のような"}
+],
+"faq": [
+{"q": "including の意味は？","a": "「〜を含めて・〜を含む」です。あるものが全体の一部として含まれることを示す前置詞で、例を挙げるときによく使います。including tax（税込み）などです。"},
+{"q": "対義語は？","a": "excluding（〜を除いて）です。including が「含めて」なら、excluding は「除いて」です。"}
+],
+"quiz": [
+{"q": "including の意味は？","A": "〜を含めて","B": "〜を除いて","C": "〜の代わりに","D": "〜のあとで","correct": "A"},
+{"q": "including の対義語は？","A": "excluding","B": "regarding","C": "concerning","D": "following","correct": "A"}
+]
+},
+{
+"english": "incomplete",
+"pron": "ˌɪnkəmˈpliːt",
+"kana": "インコンプリート",
+"hinshi": "形容詞",
+"ld_pos": "形容詞",
+"ld_etym": "in-（否定）＋complete（完全な）",
+"ld_level": "準2級",
+"badges": ["中学生〜","英検準2級","CEFR B1","基本語・状態"],
+"meaning_main": "不完全な・未完成の・欠けている",
+"description": "incomplete（インコンプリート）は「不完全な」「未完成の」。必要なものがそろっていない、まだ終わっていない状態を表す形容詞。complete（完全な）の反対。in- は否定の接頭辞。an incomplete list（不完全なリスト）のように使う。",
+"keywords": ["incomplete 意味","incomplete 使い方","不完全な 英語","complete 反対"],
+"meanings": [
+{"hinshi": "【形容詞】不完全な・未完成の・欠けている","note": "必要なものがそろっていない、終わっていない"}
+],
+"usages": [
+{"title": "① 状態","desc": "そろっていない","example_en": "The application is incomplete.","example_ja": "その申込書は不備がある（不完全だ）。"},
+{"title": "② 未完成","desc": "終わっていない","example_en": "The building is still incomplete.","example_ja": "その建物はまだ未完成だ。"}
+],
+"warn": ["対義語は complete（完全な・完成した）。in- は否定の接頭辞。","「欠けている・不備がある」というニュアンスでよく使う。"],
+"etym_note": "in-（否定）＋complete（完全な、ラテン語 completus「満たされた」から）。「完全でない＝不完全な」を表す。",
+"etym_chain": [
+{"node": "completus","sub": "満たされた","era": "ラテン語"},
+{"node": "in + complete","sub": "完全でない","era": "近代英語"},
+{"node": "incomplete","sub": "不完全な","era": "現代英語"}
+],
+"phrases": [
+{"en": "an incomplete list","ja": "不完全なリスト"},
+{"en": "incomplete information","ja": "不十分な情報"},
+{"en": "an incomplete sentence","ja": "不完全な文"},
+{"en": "remain incomplete","ja": "未完成のままである"},
+{"en": "an incomplete picture","ja": "全体像がつかめない状態"},
+{"en": "incomplete data","ja": "欠けのあるデータ"}
+],
+"related": [
+{"en": "complete","ja": "完全な"},
+{"en": "unfinished","ja": "未完成の"},
+{"en": "partial","ja": "部分的な"},
+{"en": "lacking","ja": "欠けている"}
+],
+"faq": [
+{"q": "incomplete の意味は？","a": "「不完全な・未完成の・欠けている」です。必要なものがそろっていない、まだ終わっていない状態を表します。complete（完全な）の反対です。"},
+{"q": "対義語は？","a": "complete（完全な・完成した）です。in- が否定を表しています。"}
+],
+"quiz": [
+{"q": "incomplete の意味は？","A": "不完全な・未完成の","B": "完全な","C": "巨大な","D": "透明な","correct": "A"},
+{"q": "incomplete の対義語は？","A": "complete","B": "compete","C": "compact","D": "compose","correct": "A"}
+]
+},
+{
+"english": "incremental",
+"pron": "ˌɪŋkrəˈmentəl",
+"kana": "インクリメンタル",
+"hinshi": "形容詞",
+"ld_pos": "形容詞",
+"ld_etym": "increment（増加）＋-al",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","ビジネス・IT"],
+"meaning_main": "少しずつの・段階的に増える・漸増の",
+"description": "incremental（インクリメンタル）は「少しずつの」「段階的に増える」。一度に大きく変わるのではなく、小さな増加を積み重ねて進む様子を表す形容詞。ビジネスやITでよく使う。名詞 increment（増加分）の派生語。",
+"keywords": ["incremental 意味","incremental 使い方","段階的な 英語","少しずつ 増加"],
+"meanings": [
+{"hinshi": "【形容詞】少しずつの・段階的に増える","note": "小さな増加を積み重ねて進む"}
+],
+"usages": [
+{"title": "① 変化","desc": "少しずつの","example_en": "The project made incremental progress.","example_ja": "そのプロジェクトは少しずつ前進した。"},
+{"title": "② 改善","desc": "段階的な","example_en": "They prefer incremental improvements over sudden changes.","example_ja": "彼らは急な変化より段階的な改善を好む。"}
+],
+"warn": ["名詞は increment（増加分・増加量）。","「一気にではなく、小刻みに増えていく」というニュアンス。"],
+"etym_note": "increment（増加、ラテン語 incrementum「成長・増加」、increscere「増大する」から）＋-al。「少しずつ増える性質の」を表す。",
+"etym_chain": [
+{"node": "increscere","sub": "増大する","era": "ラテン語"},
+{"node": "increment + al","sub": "増加の","era": "近代英語"},
+{"node": "incremental","sub": "少しずつの・段階的な","era": "現代英語"}
+],
+"phrases": [
+{"en": "incremental progress","ja": "少しずつの前進"},
+{"en": "incremental change","ja": "段階的な変化"},
+{"en": "incremental improvements","ja": "段階的な改善"},
+{"en": "incremental cost","ja": "追加でかかる費用"},
+{"en": "an incremental approach","ja": "段階的なアプローチ"},
+{"en": "incremental growth","ja": "少しずつの成長"}
+],
+"related": [
+{"en": "increment","ja": "増加分"},
+{"en": "gradual","ja": "段階的な"},
+{"en": "step-by-step","ja": "一歩ずつの"},
+{"en": "progressive","ja": "漸進的な"}
+],
+"faq": [
+{"q": "incremental の意味は？","a": "「少しずつの・段階的に増える」です。一度に大きく変わるのではなく、小さな増加を積み重ねて進む様子を表します。ビジネスやITでよく使われます。"},
+{"q": "名詞形は？","a": "increment（増加分・増加量）です。a salary increment（昇給分）のように使います。"}
+],
+"quiz": [
+{"q": "incremental の意味は？","A": "少しずつの・段階的な","B": "一気の","C": "永久の","D": "巨大な","correct": "A"},
+{"q": "incremental の名詞形は？","A": "increment","B": "instrument","C": "increase","D": "incident","correct": "A"}
+]
+},
+{
+"english": "incriminate",
+"pron": "ɪnˈkrɪmɪneɪt",
+"kana": "インクリミネイト",
+"hinshi": "動詞",
+"ld_pos": "動詞",
+"ld_etym": "ラテン語 in-（〜に）＋crimen（罪）",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","法律"],
+"meaning_main": "（人を）有罪と示す・罪を負わせる・巻き込む",
+"description": "incriminate（インクリミネイト）は「（人を）罪に問う証拠を示す」「有罪を示唆する」。証拠や証言が、ある人が犯罪に関与したことを示すことを表す動詞。incriminate oneself（自分の不利になることを言う）の形もよく使う。",
+"keywords": ["incriminate 意味","incriminate 使い方","罪を示す 英語","有罪 証拠"],
+"meanings": [
+{"hinshi": "【動詞】有罪を示す・罪を負わせる","note": "証拠や証言が、犯罪への関与を示す"}
+],
+"usages": [
+{"title": "① 証拠","desc": "罪を示す","example_en": "The evidence incriminated the suspect.","example_ja": "その証拠は容疑者の関与を示した。"},
+{"title": "② 自己","desc": "自分に不利","example_en": "He refused to answer questions that might incriminate him.","example_ja": "彼は自分の不利になりうる質問への回答を拒んだ。"}
+],
+"warn": ["incriminate oneself（自分の不利になる供述をする）が典型的な言い方。","名詞は incrimination。crime（罪）と同語源。"],
+"etym_note": "後期ラテン語 incriminare（in-「〜に対して」＋crimen「罪・告発」）に由来。「罪を着せる＝有罪を示す」を表す。",
+"etym_chain": [
+{"node": "crimen","sub": "罪・告発","era": "ラテン語"},
+{"node": "incriminare","sub": "罪を着せる","era": "後期ラテン語"},
+{"node": "incriminate","sub": "有罪を示す","era": "現代英語"}
+],
+"phrases": [
+{"en": "incriminate oneself","ja": "自分に不利な供述をする"},
+{"en": "incriminate a suspect","ja": "容疑者の関与を示す"},
+{"en": "incriminating evidence","ja": "罪を示す証拠"},
+{"en": "refuse to incriminate","ja": "罪を認める発言を拒む"},
+{"en": "incriminate others","ja": "他人を巻き込む"},
+{"en": "incriminating documents","ja": "不利な証拠となる書類"}
+],
+"related": [
+{"en": "incrimination","ja": "有罪の証明"},
+{"en": "accuse","ja": "告発する"},
+{"en": "implicate","ja": "巻き込む・関与を示す"},
+{"en": "crime","ja": "犯罪"}
+],
+"faq": [
+{"q": "incriminate の意味は？","a": "「（人を）有罪と示す・罪を負わせる」です。証拠や証言が、ある人が犯罪に関与したことを示すことを表します。incriminate oneself（自分に不利な供述をする）の形もよく使います。"},
+{"q": "incriminate oneself とは？","a": "「自分の不利になること（罪を認めるような発言）を言う」という意味です。黙秘権に関する文脈でよく登場します。"}
+],
+"quiz": [
+{"q": "incriminate の意味は？","A": "有罪を示す・罪を負わせる","B": "無罪にする","C": "賞賛する","D": "招待する","correct": "A"},
+{"q": "incriminating evidence の意味は？","A": "罪を示す証拠","B": "偽の証拠","C": "無関係な証拠","D": "紛失した証拠","correct": "A"}
+]
+},
+{
+"english": "incubation",
+"pron": "ˌɪŋkjuˈbeɪʃən",
+"kana": "インキュベーション",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "ラテン語 incubare（上に横たわる・卵を抱く）",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","生物・医学"],
+"meaning_main": "抱卵・ふ卵／潜伏（期間）／（事業などの）育成",
+"description": "incubation（インキュベーション）は「抱卵・ふ卵（卵を温めること）」。また、病気の「潜伏（感染から発症までの期間）」や、新事業・アイデアを「育てること」も指す。動詞は incubate（卵を抱く・培養する・育てる）。不可算名詞。",
+"keywords": ["incubation 意味","incubation 使い方","抱卵 英語","潜伏期間"],
+"meanings": [
+{"hinshi": "【名詞】抱卵・ふ卵","note": "卵を温めてかえすこと"},
+{"hinshi": "【名詞】潜伏","note": "感染から発症までの期間（incubation period）"},
+{"hinshi": "【名詞】育成","note": "新事業やアイデアを育てること"}
+],
+"usages": [
+{"title": "① 生物","desc": "卵を温める","example_en": "Incubation of the eggs takes about three weeks.","example_ja": "卵のふ化には約3週間かかる。"},
+{"title": "② 医学","desc": "潜伏期間","example_en": "The virus has an incubation period of five days.","example_ja": "そのウイルスの潜伏期間は5日だ。"}
+],
+"warn": ["incubation period は「潜伏期間（感染から発症まで）」の意味。","起業支援の「インキュベーション（事業育成）」でも使う。"],
+"etym_note": "ラテン語 incubare（in-「上に」＋cubare「横たわる」＝卵の上に横たわる＝抱卵する）に由来。抱卵から「（病気や事業を）内で育てる期間」の意味に広がった。",
+"etym_chain": [
+{"node": "incubare","sub": "卵を抱く","era": "ラテン語"},
+{"node": "incubatio","sub": "抱卵","era": "ラテン語"},
+{"node": "incubation","sub": "抱卵・潜伏・育成","era": "現代英語"}
+],
+"phrases": [
+{"en": "the incubation of eggs","ja": "卵のふ化"},
+{"en": "an incubation period","ja": "潜伏期間"},
+{"en": "the incubation of ideas","ja": "アイデアの醸成"},
+{"en": "under incubation","ja": "培養中で"},
+{"en": "a business incubation center","ja": "事業育成センター"},
+{"en": "a long incubation","ja": "長い潜伏期"}
+],
+"related": [
+{"en": "incubate","ja": "卵を抱く・培養する"},
+{"en": "hatch","ja": "ふ化する"},
+{"en": "gestation","ja": "妊娠期間・熟成"},
+{"en": "startup","ja": "新興企業"}
+],
+"faq": [
+{"q": "incubation の意味は？","a": "基本は「抱卵・ふ卵（卵を温めること）」です。加えて、病気の「潜伏（感染から発症までの期間）」や、新事業・アイデアを「育てること」も指します。"},
+{"q": "incubation period とは？","a": "「潜伏期間」です。ウイルスなどに感染してから症状が出るまでの期間を指す医学用語です。"}
+],
+"quiz": [
+{"q": "incubation の基本の意味は？","A": "抱卵・卵を温めること","B": "収穫","C": "移動","D": "冷却","correct": "A"},
+{"q": "incubation period の意味は？","A": "潜伏期間","B": "回復期間","C": "保証期間","D": "契約期間","correct": "A"}
+]
+},
+{
+"english": "incumbency",
+"pron": "ɪnˈkʌmbənsi",
+"kana": "インカンベンシー",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "ラテン語 incumbere（もたれる・課される）",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","政治・行政"],
+"meaning_main": "在職・在任（期間）／（現職者の）地位",
+"description": "incumbency（インカンベンシー）は「在職」「在任（期間）」。ある地位・役職に現在ついていること、またはその任期を指す名詞。政治でよく使う。現職者は incumbent。不可算・可算どちらも。",
+"keywords": ["incumbency 意味","incumbency 使い方","在職 英語","現職 任期"],
+"meanings": [
+{"hinshi": "【名詞】在職・在任（期間）","note": "ある地位・役職に現在ついていること、その任期"}
+],
+"usages": [
+{"title": "① 政治","desc": "在任期間","example_en": "During his incumbency, the city grew rapidly.","example_ja": "彼の在任中、その市は急速に発展した。"},
+{"title": "② 選挙","desc": "現職の強み","example_en": "Incumbency often gives candidates an advantage.","example_ja": "現職であることは候補者にしばしば有利に働く。"}
+],
+"warn": ["現職者（今その職にある人）は incumbent。","「在職期間」と「現職であるという地位・状態」の両方を指す。"],
+"etym_note": "ラテン語 incumbere（in-「上に」＋cumbere「横たわる」＝もたれかかる・課される）に由来。「（職務が）その人に課されている状態＝在職」を表す。",
+"etym_chain": [
+{"node": "incumbere","sub": "課される・もたれる","era": "ラテン語"},
+{"node": "incumbent","sub": "在職の","era": "近代英語"},
+{"node": "incumbency","sub": "在職・在任","era": "現代英語"}
+],
+"phrases": [
+{"en": "during his incumbency","ja": "彼の在任中に"},
+{"en": "the advantage of incumbency","ja": "現職であることの強み"},
+{"en": "a long incumbency","ja": "長い在任期間"},
+{"en": "the period of incumbency","ja": "在任期間"},
+{"en": "her incumbency as mayor","ja": "市長としての在任"},
+{"en": "the power of incumbency","ja": "現職の力"}
+],
+"related": [
+{"en": "incumbent","ja": "現職者・在職の"},
+{"en": "tenure","ja": "在職期間・任期"},
+{"en": "office","ja": "職・地位"},
+{"en": "term","ja": "任期"}
+],
+"faq": [
+{"q": "incumbency の意味は？","a": "「在職・在任（期間）」です。ある地位・役職に現在ついていること、またはその任期を指します。政治の文脈でよく使われます。"},
+{"q": "incumbent との違いは？","a": "incumbent は「現職者（今その職にある人）」または形容詞「在職の」、incumbency は「在職していること・その期間」という状態・名詞です。"}
+],
+"quiz": [
+{"q": "incumbency の意味は？","A": "在職・在任（期間）","B": "退職","C": "立候補","D": "解任","correct": "A"},
+{"q": "現職者を表す語は？","A": "incumbent","B": "immigrant","C": "informant","D": "inhabitant","correct": "A"}
+]
+},
+{
+"english": "indecency",
+"pron": "ɪnˈdiːsənsi",
+"kana": "インディーセンシー",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "in-（否定）＋decency（品位）",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","道徳・社会"],
+"meaning_main": "下品・わいせつ・非礼（品位に欠けること）",
+"description": "indecency（インディーセンシー）は「下品」「わいせつ」。社会の礼儀や品位、性的な節度に反することを表す名詞。decency（品位・礼儀）の反対。in- は否定の接頭辞。形容詞は indecent（下品な・わいせつな）。不可算名詞。",
+"keywords": ["indecency 意味","indecency 使い方","下品 英語","わいせつ"],
+"meanings": [
+{"hinshi": "【名詞】下品・わいせつ・非礼","note": "社会の礼儀・品位・性的な節度に反すること"}
+],
+"usages": [
+{"title": "① 社会","desc": "下品さ","example_en": "The film was banned for indecency.","example_ja": "その映画はわいせつを理由に禁止された。"},
+{"title": "② 態度","desc": "非礼","example_en": "He was shocked by the indecency of the remark.","example_ja": "彼はその発言の下品さに驚いた。"}
+],
+"warn": ["対義語は decency（品位・礼儀）。形容詞は indecent（下品な・わいせつな）。","法律では public indecency（公然わいせつ）などの表現がある。"],
+"etym_note": "in-（否定）＋decency（品位、ラテン語 decens「ふさわしい・上品な」から）。「上品でないこと＝下品・わいせつ」を表す。",
+"etym_chain": [
+{"node": "decens","sub": "ふさわしい・上品な","era": "ラテン語"},
+{"node": "in + decency","sub": "品位に欠けること","era": "近代英語"},
+{"node": "indecency","sub": "下品・わいせつ","era": "現代英語"}
+],
+"phrases": [
+{"en": "public indecency","ja": "公然わいせつ"},
+{"en": "an act of indecency","ja": "わいせつ行為"},
+{"en": "gross indecency","ja": "ひどい下品さ"},
+{"en": "the indecency of the joke","ja": "その冗談の下品さ"},
+{"en": "charged with indecency","ja": "わいせつ罪で訴えられる"},
+{"en": "shocked by the indecency","ja": "その下品さに驚く"}
+],
+"related": [
+{"en": "decency","ja": "品位・礼儀"},
+{"en": "indecent","ja": "下品な・わいせつな"},
+{"en": "vulgarity","ja": "下品さ"},
+{"en": "obscenity","ja": "わいせつ"}
+],
+"faq": [
+{"q": "indecency の意味は？","a": "「下品・わいせつ・非礼」です。社会の礼儀や品位、性的な節度に反することを表します。decency（品位・礼儀）の反対で、形容詞は indecent です。"},
+{"q": "public indecency とは？","a": "「公然わいせつ」です。公共の場で品位に反する（性的な）行為をすることを指す法律上の表現です。"}
+],
+"quiz": [
+{"q": "indecency の意味は？","A": "下品・わいせつ・非礼","B": "品位・礼儀","C": "勇気","D": "正直","correct": "A"},
+{"q": "indecency の対義語は？","A": "decency","B": "urgency","C": "agency","D": "frequency","correct": "A"}
+]
+},
+{
+"english": "indecipherable",
+"pron": "ˌɪndɪˈsaɪfərəbəl",
+"kana": "インディサイファラブル",
+"hinshi": "形容詞",
+"ld_pos": "形容詞",
+"ld_etym": "in-（否定）＋decipher（解読する）＋-able",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","表現・描写"],
+"meaning_main": "解読できない・判読できない",
+"description": "indecipherable（インディサイファラブル）は「解読できない」「判読できない」。字が乱れていたり暗号のようだったりして、読み取れない・意味が分からない様子を表す形容詞。decipher（解読する）に否定の in- と -able が付いた語。",
+"keywords": ["indecipherable 意味","indecipherable 使い方","解読できない 英語","判読不能"],
+"meanings": [
+{"hinshi": "【形容詞】解読できない・判読できない","note": "字や暗号などが読み取れず意味が分からない"}
+],
+"usages": [
+{"title": "① 文字","desc": "判読できない","example_en": "His handwriting was indecipherable.","example_ja": "彼の手書き文字は判読できなかった。"},
+{"title": "② 暗号","desc": "解読不能","example_en": "The code seemed completely indecipherable.","example_ja": "その暗号はまったく解読不能に思えた。"}
+],
+"warn": ["decipher（解読する）＋in-（否定）＋-able（〜できる）。","illegible（読みにくい）と近いが、indecipherable は「解読・判読できないほど」という強い意味。"],
+"etym_note": "in-（否定）＋decipher（解読する、de-＋cipher「暗号」から）＋-able（〜できる）。「解読できない」を表す。",
+"etym_chain": [
+{"node": "cipher","sub": "暗号・ゼロ","era": "中英語"},
+{"node": "decipher + able","sub": "解読できる","era": "近代英語"},
+{"node": "indecipherable","sub": "解読できない","era": "現代英語"}
+],
+"phrases": [
+{"en": "indecipherable handwriting","ja": "判読できない手書き"},
+{"en": "an indecipherable code","ja": "解読できない暗号"},
+{"en": "almost indecipherable","ja": "ほとんど判読不能な"},
+{"en": "an indecipherable scrawl","ja": "読めない走り書き"},
+{"en": "indecipherable symbols","ja": "解読できない記号"},
+{"en": "an indecipherable message","ja": "意味の取れないメッセージ"}
+],
+"related": [
+{"en": "decipher","ja": "解読する"},
+{"en": "illegible","ja": "読みにくい"},
+{"en": "unreadable","ja": "読めない"},
+{"en": "cryptic","ja": "謎めいた"}
+],
+"faq": [
+{"q": "indecipherable の意味は？","a": "「解読できない・判読できない」です。字が乱れていたり暗号のようだったりして、読み取れない・意味が分からない様子を表します。"},
+{"q": "illegible との違いは？","a": "illegible は「字が乱れて読みにくい」、indecipherable は「解読・判読が不可能なほど」というより強い意味です。暗号など意味の解読にも使えます。"}
+],
+"quiz": [
+{"q": "indecipherable の意味は？","A": "解読できない・判読できない","B": "はっきり読める","C": "明るい","D": "静かな","correct": "A"},
+{"q": "indecipherable のもとになる動詞は？","A": "decipher（解読する）","B": "describe（描写する）","C": "deceive（だます）","D": "declare（宣言する）","correct": "A"}
+]
+},
+{
+"english": "indecision",
+"pron": "ˌɪndɪˈsɪʒən",
+"kana": "インディシジョン",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "in-（否定）＋decision（決断）",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","心理・性格"],
+"meaning_main": "優柔不断・決断がつかないこと",
+"description": "indecision（インディシジョン）は「優柔不断」「決断がつかないこと」。あれこれ迷ってなかなか決められない状態を表す名詞。decision（決断）の反対に近い。in- は否定の接頭辞。形容詞は indecisive（優柔不断な）。不可算名詞。",
+"keywords": ["indecision 意味","indecision 使い方","優柔不断 英語","決断できない"],
+"meanings": [
+{"hinshi": "【名詞】優柔不断・決断がつかないこと","note": "あれこれ迷ってなかなか決められない状態"}
+],
+"usages": [
+{"title": "① 心理","desc": "迷って決められない","example_en": "Years of indecision cost him the opportunity.","example_ja": "何年もの優柔不断が彼から好機を奪った。"},
+{"title": "② 態度","desc": "ためらい","example_en": "She stood there in a moment of indecision.","example_ja": "彼女は決めかねてその場に立ち尽くした。"}
+],
+"warn": ["形容詞は indecisive（優柔不断な）。","対義的には decisiveness（決断力）。"],
+"etym_note": "in-（否定）＋decision（決断、ラテン語 decidere「切り離す・決定する」から）。「決断できないこと＝優柔不断」を表す。",
+"etym_chain": [
+{"node": "decidere","sub": "決定する","era": "ラテン語"},
+{"node": "in + decision","sub": "決断できないこと","era": "近代英語"},
+{"node": "indecision","sub": "優柔不断","era": "現代英語"}
+],
+"phrases": [
+{"en": "a moment of indecision","ja": "決めかねる一瞬"},
+{"en": "paralyzed by indecision","ja": "優柔不断で身動きが取れない"},
+{"en": "years of indecision","ja": "何年もの優柔不断"},
+{"en": "end the indecision","ja": "迷いを断ち切る"},
+{"en": "full of indecision","ja": "迷いだらけの"},
+{"en": "hesitation and indecision","ja": "ためらいと優柔不断"}
+],
+"related": [
+{"en": "decision","ja": "決断"},
+{"en": "indecisive","ja": "優柔不断な"},
+{"en": "hesitation","ja": "ためらい"},
+{"en": "uncertainty","ja": "不確かさ"}
+],
+"faq": [
+{"q": "indecision の意味は？","a": "「優柔不断・決断がつかないこと」です。あれこれ迷ってなかなか決められない状態を表します。形容詞は indecisive（優柔不断な）です。"},
+{"q": "対義語は？","a": "decisiveness（決断力）が近い対義語です。indecision が「決められないこと」なら、decisiveness は「てきぱき決められること」です。"}
+],
+"quiz": [
+{"q": "indecision の意味は？","A": "優柔不断・決断がつかないこと","B": "強い決断力","C": "正確さ","D": "勇気","correct": "A"},
+{"q": "indecision の形容詞形は？","A": "indecisive","B": "indefinite","C": "indirect","D": "independent","correct": "A"}
+]
+}
+]
