@@ -1,0 +1,991 @@
+[
+{
+"english": "humid",
+"pron": "ˈhjuːmɪd",
+"kana": "ヒューミッド",
+"hinshi": "形容詞",
+"ld_pos": "形容詞",
+"ld_etym": "ラテン語 humidus（湿った）",
+"ld_level": "準2級",
+"badges": ["中学生〜","英検準2級","CEFR B1","天気"],
+"meaning_main": "湿気の多い・蒸し暑い",
+"description": "humid（ヒューミッド）は「湿気の多い」「蒸し暑い」。空気中の水分が多く、じめじめした状態を表す形容詞。特に暑くて湿った気候に使う。名詞は humidity（湿度）。",
+"keywords": ["humid 意味","humid 使い方","湿気の多い 英語","蒸し暑い"],
+"meanings": [
+{"hinshi": "【形容詞】湿気の多い・蒸し暑い","note": "空気中の水分が多くじめじめした状態"}
+],
+"usages": [
+{"title": "① 天気","desc": "じめじめした","example_en": "The summers here are hot and humid.","example_ja": "ここの夏は暑くて湿気が多い。"},
+{"title": "② 気候","desc": "蒸し暑い","example_en": "It was too humid to sleep comfortably.","example_ja": "快適に眠れないほど蒸し暑かった。"}
+],
+"warn": ["wet（濡れた）とは違い、humid は「空気中の水分が多い」状態を表す。","名詞形は humidity（湿度）。"],
+"etym_note": "ラテン語 humidus（湿った、humere「湿る」から）に由来。中英語期に「湿気を帯びた」の意味で英語に入った。",
+"etym_chain": [
+{"node": "humere","sub": "湿る","era": "ラテン語"},
+{"node": "humidus","sub": "湿った","era": "ラテン語"},
+{"node": "humid","sub": "湿気の多い","era": "現代英語"}
+],
+"phrases": [
+{"en": "hot and humid","ja": "蒸し暑い"},
+{"en": "a humid climate","ja": "湿潤な気候"},
+{"en": "humid air","ja": "湿った空気"},
+{"en": "a humid summer","ja": "湿気の多い夏"},
+{"en": "humid weather","ja": "じめじめした天気"},
+{"en": "warm and humid","ja": "暖かく湿った"}
+],
+"related": [
+{"en": "humidity","ja": "湿度"},
+{"en": "damp","ja": "湿った"},
+{"en": "moist","ja": "しっとりした"},
+{"en": "dry","ja": "乾燥した"}
+],
+"faq": [
+{"q": "humid と wet の違いは？","a": "wet は「表面が濡れている」状態、humid は「空気中の水分が多い（じめじめした）」状態を指します。蒸し暑い気候には humid を使います。"},
+{"q": "名詞形は？","a": "humidity（湿度）です。high humidity（高湿度）のように使います。"}
+],
+"quiz": [
+{"q": "humid の意味は？","A": "湿気の多い・蒸し暑い","B": "乾燥した","C": "凍った","D": "風の強い","correct": "A"},
+{"q": "humid の名詞形は？","A": "humidity","B": "humor","C": "human","D": "humble","correct": "A"}
+]
+},
+{
+"english": "humidity",
+"pron": "hjuːˈmɪdəti",
+"kana": "ヒューミディティー",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "ラテン語 humiditas（湿り気）",
+"ld_level": "2級",
+"badges": ["高校生〜","英検2級","CEFR B1","天気・科学"],
+"meaning_main": "湿度・湿気",
+"description": "humidity（ヒューミディティー）は「湿度」「湿気」。空気中に含まれる水分の量を表す名詞。天気予報や科学でよく使う。形容詞は humid（湿気の多い）。ふつう不可算名詞。",
+"keywords": ["humidity 意味","humidity 使い方","湿度 英語","湿気"],
+"meanings": [
+{"hinshi": "【名詞】湿度・湿気","note": "空気中に含まれる水分の量"}
+],
+"usages": [
+{"title": "① 天気","desc": "湿度が高い","example_en": "The humidity was very high today.","example_ja": "今日は湿度がとても高かった。"},
+{"title": "② 科学・管理","desc": "湿度を保つ","example_en": "The museum controls the humidity to protect the paintings.","example_ja": "その美術館は絵画を守るため湿度を管理している。"}
+],
+"warn": ["形容詞は humid（湿気の多い）。","relative humidity（相対湿度）は空気が含める最大水分量に対する割合。"],
+"etym_note": "ラテン語 humiditas（湿り気、humidus「湿った」から）に由来。空気中の水分の度合いを表す名詞として使われる。",
+"etym_chain": [
+{"node": "humidus","sub": "湿った","era": "ラテン語"},
+{"node": "humiditas","sub": "湿り気","era": "ラテン語"},
+{"node": "humidity","sub": "湿度","era": "現代英語"}
+],
+"phrases": [
+{"en": "high humidity","ja": "高い湿度"},
+{"en": "low humidity","ja": "低い湿度"},
+{"en": "relative humidity","ja": "相対湿度"},
+{"en": "control the humidity","ja": "湿度を管理する"},
+{"en": "humidity levels","ja": "湿度の水準"},
+{"en": "heat and humidity","ja": "暑さと湿気"}
+],
+"related": [
+{"en": "humid","ja": "湿気の多い"},
+{"en": "moisture","ja": "水分・湿気"},
+{"en": "dampness","ja": "湿り気"},
+{"en": "temperature","ja": "気温"}
+],
+"faq": [
+{"q": "humidity と humid の違いは？","a": "humidity は名詞で「湿度・湿気」、humid は形容詞で「湿気の多い」です。The humidity is high.／It is humid. のように使い分けます。"},
+{"q": "relative humidity とは？","a": "「相対湿度」です。その気温で空気が含められる最大の水分量に対して、実際に含まれている水分の割合を%で表したものです。"}
+],
+"quiz": [
+{"q": "humidity の意味は？","A": "湿度・湿気","B": "気温","C": "気圧","D": "風速","correct": "A"},
+{"q": "humidity の形容詞形は？","A": "humid","B": "humble","C": "humane","D": "humid化","correct": "A"}
+]
+},
+{
+"english": "humpback",
+"pron": "ˈhʌmpbæk",
+"kana": "ハンプバック",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "hump（こぶ）＋back（背中）",
+"ld_level": "準1級",
+"badges": ["高校生〜","英検準1級","CEFR B2","動物・海"],
+"meaning_main": "ザトウクジラ（humpback whale）／背中の曲がった状態",
+"description": "humpback（ハンプバック）は主に「ザトウクジラ」を指す（humpback whale の略）。背中に小さなこぶがあることから名づけられた。潜るときに背を丸める姿でも知られる。また「背中の曲がったこぶ」の意味もある。可算名詞。",
+"keywords": ["humpback 意味","ザトウクジラ 英語","humpback whale","クジラ 種類"],
+"meanings": [
+{"hinshi": "【名詞】ザトウクジラ","note": "背中にこぶのある大型のクジラ。humpback whale"},
+{"hinshi": "【名詞】背中の曲がったこぶ","note": "背中が丸く盛り上がった状態"}
+],
+"usages": [
+{"title": "① クジラ","desc": "ザトウクジラ","example_en": "We saw a humpback breach off the coast.","example_ja": "私たちは沖でザトウクジラが跳ねるのを見た。"},
+{"title": "② 特徴","desc": "こぶのある背","example_en": "The humpback whale is known for its long songs.","example_ja": "ザトウクジラは長い歌声で知られる。"}
+],
+"warn": ["ふつう humpback whale（ザトウクジラ）を指す。","humpback bridge は「太鼓橋（中央が盛り上がった橋）」という別の意味。"],
+"etym_note": "hump（こぶ）＋back（背中）の複合語。潜水時に背を丸める姿や背中の小さなこぶから、このクジラの名になった。",
+"etym_chain": [
+{"node": "hump + back","sub": "こぶのある背","era": "近代英語"},
+{"node": "humpback","sub": "背にこぶのあるもの","era": "18世紀 英語"},
+{"node": "humpback","sub": "ザトウクジラ","era": "現代英語"}
+],
+"phrases": [
+{"en": "a humpback whale","ja": "ザトウクジラ"},
+{"en": "a breaching humpback","ja": "跳ねるザトウクジラ"},
+{"en": "the song of the humpback","ja": "ザトウクジラの歌"},
+{"en": "watch humpbacks","ja": "ザトウクジラを観察する"},
+{"en": "a humpback bridge","ja": "太鼓橋"},
+{"en": "a pod of humpbacks","ja": "ザトウクジラの群れ"}
+],
+"related": [
+{"en": "whale","ja": "クジラ"},
+{"en": "hump","ja": "こぶ"},
+{"en": "dolphin","ja": "イルカ"},
+{"en": "ocean","ja": "海"}
+],
+"faq": [
+{"q": "humpback とは何ですか？","a": "ふつう「ザトウクジラ（humpback whale）」を指します。背中に小さなこぶがあり、潜るときに背を丸めることから名づけられました。長い複雑な歌声でも有名です。"},
+{"q": "他の意味はありますか？","a": "「背中の曲がったこぶ」の意味や、a humpback bridge（中央が盛り上がった太鼓橋）という使い方もあります。"}
+],
+"quiz": [
+{"q": "humpback が主に指す動物は？","A": "ザトウクジラ","B": "ラクダ","C": "ゾウ","D": "サイ","correct": "A"},
+{"q": "humpback の名前の由来は？","A": "背中のこぶ","B": "長い鼻","C": "大きな耳","D": "鋭い牙","correct": "A"}
+]
+},
+{
+"english": "humus",
+"pron": "ˈhjuːməs",
+"kana": "ヒューマス",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "ラテン語 humus（土・地面）",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","科学・農業"],
+"meaning_main": "腐植（ふしょく／土壌中の有機物）",
+"description": "humus（ヒューマス）は「腐植（ふしょく）」。落ち葉や動植物の遺体が分解されてできた、土壌中の黒っぽい有機物を指す。土を肥えさせ、植物の成長を助ける。不可算名詞。食べ物のフムス（hummus）とは別。",
+"keywords": ["humus 意味","humus 使い方","腐植 英語","土壌 有機物"],
+"meanings": [
+{"hinshi": "【名詞】腐植","note": "動植物が分解してできた土壌中の黒い有機物"}
+],
+"usages": [
+{"title": "① 土壌","desc": "肥えた土","example_en": "Rich soil contains a lot of humus.","example_ja": "肥えた土には腐植が多く含まれる。"},
+{"title": "② 園芸","desc": "土を豊かにする","example_en": "Humus improves the soil's ability to hold water.","example_ja": "腐植は土の保水力を高める。"}
+],
+"warn": ["食べ物の hummus（フムス＝ひよこ豆のペースト）とはつづりも別物。","土壌学・農業の用語。"],
+"etym_note": "ラテン語 humus（土・地面）に由来。土壌の有機物を指す学術用語として使われる。human（人間）や humble（謙虚な）も「土＝地に近い」という同語源のつながりがある。",
+"etym_chain": [
+{"node": "humus","sub": "土・地面","era": "ラテン語"},
+{"node": "humus","sub": "腐植","era": "18世紀 学術ラテン語"},
+{"node": "humus","sub": "腐植","era": "現代英語"}
+],
+"phrases": [
+{"en": "rich in humus","ja": "腐植に富む"},
+{"en": "form humus","ja": "腐植を形成する"},
+{"en": "humus in the soil","ja": "土壌中の腐植"},
+{"en": "a layer of humus","ja": "腐植の層"},
+{"en": "dark humus","ja": "黒い腐植"},
+{"en": "humus and minerals","ja": "腐植と鉱物"}
+],
+"related": [
+{"en": "soil","ja": "土壌"},
+{"en": "compost","ja": "堆肥"},
+{"en": "decay","ja": "腐敗・分解"},
+{"en": "organic","ja": "有機の"}
+],
+"faq": [
+{"q": "humus とは何ですか？","a": "落ち葉や動植物の遺体が分解されてできた、土壌中の黒っぽい有機物（腐植）です。土を肥やし、植物の成長を助けます。"},
+{"q": "食べ物の hummus と同じですか？","a": "いいえ、別物です。humus は土壌の腐植、hummus（フムス）はひよこ豆をつぶした中東の料理で、つづりも意味も異なります。"}
+],
+"quiz": [
+{"q": "humus の意味は？","A": "腐植（土壌中の有機物）","B": "岩石","C": "砂","D": "金属","correct": "A"},
+{"q": "humus の働きは？","A": "土を肥やし植物の成長を助ける","B": "水を凍らせる","C": "光を反射する","D": "音を吸収する","correct": "A"}
+]
+},
+{
+"english": "hunch",
+"pron": "hʌntʃ",
+"kana": "ハンチ",
+"hinshi": "名詞 / 動詞",
+"ld_pos": "名詞",
+"ld_etym": "由来不明（16世紀〜）",
+"ld_level": "準1級",
+"badges": ["高校生〜","英検準1級","CEFR B2","会話・思考"],
+"meaning_main": "予感・勘（かん）／（背中を）丸める",
+"description": "hunch（ハンチ）は「予感」「勘」。はっきりした根拠はないが、なんとなくそう感じるという直感を指す名詞。また動詞で「背中を丸める」の意味もある。have a hunch（〜という気がする）が典型。可算名詞。",
+"keywords": ["hunch 意味","hunch 使い方","予感 英語","勘 直感"],
+"meanings": [
+{"hinshi": "【名詞】予感・勘","note": "根拠はないがなんとなくそう感じる直感"},
+{"hinshi": "【動詞】背中を丸める","note": "hunch over（前かがみになる）"}
+],
+"usages": [
+{"title": "① 直感","desc": "〜な気がする","example_en": "I have a hunch that she'll be late.","example_ja": "彼女は遅れるような気がする。"},
+{"title": "② 姿勢（動詞）","desc": "背を丸める","example_en": "He hunched over his desk, reading.","example_ja": "彼は机に前かがみになって読んでいた。"}
+],
+"warn": ["have a hunch (that) ～で「～という予感がする」という定型表現。","動詞では hunch over / hunch up（背中を丸める）の形でよく使う。"],
+"etym_note": "16世紀ごろから使われる語で由来ははっきりしない。「押す・かたまり」の意味から「背中を丸める」「（ふと湧く）勘」の意味に発展したとされる。",
+"etym_chain": [
+{"node": "?（由来不明）","sub": "かたまり・押す","era": "16世紀 英語"},
+{"node": "hunch","sub": "こぶ・背を丸める","era": "近代英語"},
+{"node": "hunch","sub": "予感・背を丸める","era": "現代英語"}
+],
+"phrases": [
+{"en": "have a hunch","ja": "予感がする"},
+{"en": "a gut hunch","ja": "直感"},
+{"en": "play a hunch","ja": "勘に頼って動く"},
+{"en": "my hunch was right","ja": "私の勘は当たっていた"},
+{"en": "hunch over a desk","ja": "机に前かがみになる"},
+{"en": "on a hunch","ja": "勘で・直感で"}
+],
+"related": [
+{"en": "feeling","ja": "感じ"},
+{"en": "intuition","ja": "直感"},
+{"en": "guess","ja": "推測"},
+{"en": "instinct","ja": "本能・勘"}
+],
+"faq": [
+{"q": "have a hunch の意味は？","a": "「〜という予感がする・なんとなくそんな気がする」という意味です。はっきりした根拠のない直感を表します。"},
+{"q": "動詞の hunch はどう使いますか？","a": "「背中を丸める」の意味で、hunch over（前かがみになる）、hunch up one's shoulders（肩をすくめる）のように使います。"}
+],
+"quiz": [
+{"q": "名詞 hunch の意味は？","A": "予感・勘","B": "証拠","C": "計画","D": "命令","correct": "A"},
+{"q": "have a hunch の意味は？","A": "〜という予感がする","B": "確信がある","C": "忘れる","D": "疑う","correct": "A"}
+]
+},
+{
+"english": "hunchback",
+"pron": "ˈhʌntʃbæk",
+"kana": "ハンチバック",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "hunch（丸める）＋back（背中）",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR B2","身体・文学"],
+"meaning_main": "背中の曲がった状態／せむし（古い言い方）",
+"description": "hunchback（ハンチバック）は背骨が曲がって背中が丸く盛り上がった状態、またはそのような人を指す語。『ノートルダムのせむし男（The Hunchback of Notre-Dame）』の題で知られる。現在は人に対しては失礼になりうるため、医学的には kyphosis（脊柱後弯症）と言う。",
+"keywords": ["hunchback 意味","hunchback 使い方","背中 曲がった 英語","ノートルダム"],
+"meanings": [
+{"hinshi": "【名詞】背中の曲がった状態","note": "背骨が曲がり背中が丸く盛り上がった状態"}
+],
+"usages": [
+{"title": "① 文学","desc": "作品の題名","example_en": "\"The Hunchback of Notre-Dame\" is a famous novel.","example_ja": "『ノートルダムのせむし男』は有名な小説だ。"},
+{"title": "② 身体","desc": "背中の湾曲","example_en": "Years of poor posture gave him a slight hunchback.","example_ja": "長年の悪い姿勢で彼の背中は少し丸くなった。"}
+],
+"warn": ["人に対して使うと侮蔑的に響くことがある。医学用語は kyphosis（脊柱後弯症）。","文学作品の題名 The Hunchback of Notre-Dame（ノートルダムのせむし男）で広く知られる。"],
+"etym_note": "hunch（丸める・こぶ）＋back（背中）の複合語。18世紀ごろから「背中の丸く盛り上がった状態・人」を指して使われるようになった。",
+"etym_chain": [
+{"node": "hunch + back","sub": "丸めた背中","era": "18世紀 英語"},
+{"node": "hunchback","sub": "背中の曲がった状態","era": "近代英語"},
+{"node": "hunchback","sub": "背中の曲がった状態","era": "現代英語"}
+],
+"phrases": [
+{"en": "The Hunchback of Notre-Dame","ja": "ノートルダムのせむし男"},
+{"en": "have a hunchback","ja": "背中が曲がっている"},
+{"en": "a slight hunchback","ja": "少し曲がった背中"},
+{"en": "develop a hunchback","ja": "背中が曲がってくる"},
+{"en": "the old hunchback","ja": "背中の曲がった老人"},
+{"en": "cure a hunchback","ja": "背中の湾曲を治す"}
+],
+"related": [
+{"en": "hunch","ja": "背を丸める"},
+{"en": "kyphosis","ja": "脊柱後弯症"},
+{"en": "posture","ja": "姿勢"},
+{"en": "spine","ja": "背骨"}
+],
+"faq": [
+{"q": "hunchback は人に使ってよいですか？","a": "人を指して使うと侮蔑的に響くことがあるため注意が必要です。医学的には kyphosis（脊柱後弯症）という中立的な語を使います。"},
+{"q": "The Hunchback of Notre-Dame とは？","a": "フランスの作家ヴィクトル・ユーゴーの小説『ノートルダムのせむし男』の英題です。パリのノートルダム大聖堂を舞台にした物語です。"}
+],
+"quiz": [
+{"q": "hunchback の意味は？","A": "背中の曲がった状態","B": "長い足","C": "太い腕","D": "広い肩","correct": "A"},
+{"q": "hunchback の中立的な医学用語は？","A": "kyphosis","B": "arthritis","C": "asthma","D": "anemia","correct": "A"}
+]
+},
+{
+"english": "hundredfold",
+"pron": "ˈhʌndrədfoʊld",
+"kana": "ハンドレッドフォールド",
+"hinshi": "副詞 / 形容詞",
+"ld_pos": "副詞",
+"ld_etym": "hundred（百）＋-fold（〜倍）",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","文語・強調"],
+"meaning_main": "百倍に・百倍の（大きく増えることの強調）",
+"description": "hundredfold（ハンドレッドフォールド）は「百倍に」「百倍の」。数量が百倍になること、また比喩的に「非常に大きく」増えることを強調する語。a hundredfold（百倍に）の形で使うことが多い。文語的。",
+"keywords": ["hundredfold 意味","hundredfold 使い方","百倍 英語","-fold 倍"],
+"meanings": [
+{"hinshi": "【副詞】百倍に","note": "数量が百倍に増えて。大きな増加の強調"},
+{"hinshi": "【形容詞】百倍の","note": "百倍の量・程度の"}
+],
+"usages": [
+{"title": "① 増加","desc": "百倍に増える","example_en": "The investment increased a hundredfold.","example_ja": "その投資は百倍に増えた。"},
+{"title": "② 比喩","desc": "大いに報われる","example_en": "Their kindness was repaid a hundredfold.","example_ja": "彼らの親切は百倍になって報われた。"}
+],
+"warn": ["-fold は「〜倍・〜重」を表す語尾（twofold＝2倍、manifold＝多様な）。","a hundredfold（百倍に）の形で副詞的に使うことが多い。"],
+"etym_note": "hundred（百）＋-fold（古英語 -feald「〜倍・〜重」）の複合語。古英語からある「〜倍」を表す作り方で、聖書などの文語表現に多い。",
+"etym_chain": [
+{"node": "hundred + feald","sub": "百倍","era": "古英語"},
+{"node": "hundredfold","sub": "百倍に","era": "中英語"},
+{"node": "hundredfold","sub": "百倍に","era": "現代英語"}
+],
+"phrases": [
+{"en": "increase a hundredfold","ja": "百倍に増える"},
+{"en": "repaid a hundredfold","ja": "百倍になって報われる"},
+{"en": "grow a hundredfold","ja": "百倍に成長する"},
+{"en": "multiply a hundredfold","ja": "百倍に増やす"},
+{"en": "a hundredfold return","ja": "百倍の見返り"},
+{"en": "rewarded a hundredfold","ja": "百倍の報い"}
+],
+"related": [
+{"en": "twofold","ja": "2倍の"},
+{"en": "manifold","ja": "多様な"},
+{"en": "multiply","ja": "増やす"},
+{"en": "increase","ja": "増加する"}
+],
+"faq": [
+{"q": "hundredfold の意味は？","a": "「百倍に・百倍の」という意味です。数量が百倍に増えること、または比喩的に「非常に大きく」増えることを強調します。"},
+{"q": "-fold とは何ですか？","a": "「〜倍・〜重」を表す接尾辞です。twofold（2倍）、tenfold（10倍）、manifold（多様な）などを作ります。"}
+],
+"quiz": [
+{"q": "hundredfold の意味は？","A": "百倍に","B": "半分に","C": "同じだけ","D": "十分の一に","correct": "A"},
+{"q": "-fold の意味は？","A": "〜倍・〜重","B": "〜なしで","C": "〜より前に","D": "〜のような","correct": "A"}
+]
+},
+{
+"english": "hungary",
+"pron": "ˈhʌŋɡəri",
+"kana": "ハンガリー",
+"hinshi": "名詞（固有名詞）",
+"ld_pos": "固有名詞",
+"ld_etym": "中世ラテン語 Hungaria",
+"ld_level": "-",
+"badges": ["固有名詞","国名","ヨーロッパ","中欧"],
+"meaning_main": "ハンガリー（中央ヨーロッパの内陸国）",
+"description": "Hungary（ハンガリー）は中央ヨーロッパの内陸国。首都はブダペスト。ハンガリー語（マジャル語）を公用語とし、温泉やドナウ川、独特の食文化で知られる。固有名詞。形容詞・言語は Hungarian。",
+"keywords": ["Hungary 意味","ハンガリー 英語","国名 ヨーロッパ","ブダペスト"],
+"meanings": [
+{"hinshi": "【固有名詞】ハンガリー","note": "中央ヨーロッパの内陸国。首都はブダペスト"}
+],
+"usages": [
+{"title": "① 国","desc": "中欧の国","example_en": "Hungary is famous for its thermal baths.","example_ja": "ハンガリーは温泉で有名だ。"},
+{"title": "② 首都","desc": "ブダペスト","example_en": "The capital of Hungary is Budapest.","example_ja": "ハンガリーの首都はブダペストだ。"}
+],
+"warn": ["固有名詞なので大文字 Hungary。","形容詞・国民・言語は Hungarian（ハンガリーの・ハンガリー人・ハンガリー語）。"],
+"etym_note": "中世ラテン語 Hungaria に由来。テュルク系の集団名 On-Ogur（十の矢・部族連合）が起源とされ、マジャル人が定住した地の名になった。",
+"etym_chain": [
+{"node": "On-Ogur","sub": "部族連合の名","era": "中世"},
+{"node": "Hungaria","sub": "ハンガリーの地","era": "中世ラテン語"},
+{"node": "Hungary","sub": "ハンガリー","era": "現代英語"}
+],
+"phrases": [
+{"en": "the country of Hungary","ja": "ハンガリーという国"},
+{"en": "travel to Hungary","ja": "ハンガリーへ旅行する"},
+{"en": "central Hungary","ja": "ハンガリー中部"},
+{"en": "Hungary and Austria","ja": "ハンガリーとオーストリア"},
+{"en": "made in Hungary","ja": "ハンガリー製"},
+{"en": "the history of Hungary","ja": "ハンガリーの歴史"}
+],
+"related": [
+{"en": "Hungarian","ja": "ハンガリーの・ハンガリー語"},
+{"en": "Budapest","ja": "ブダペスト"},
+{"en": "Europe","ja": "ヨーロッパ"},
+{"en": "Danube","ja": "ドナウ川"}
+],
+"faq": [
+{"q": "Hungary はどこにありますか？","a": "中央ヨーロッパの内陸国です。オーストリア、スロバキア、ルーマニアなどに囲まれ、首都はブダペストです。"},
+{"q": "ハンガリーの人・言語は英語で？","a": "Hungarian です。「ハンガリー人」「ハンガリーの」「ハンガリー語（マジャル語）」をすべて表します。"}
+],
+"quiz": [
+{"q": "Hungary の首都は？","A": "ブダペスト","B": "ウィーン","C": "プラハ","D": "ワルシャワ","correct": "A"},
+{"q": "Hungary の形容詞・言語は？","A": "Hungarian","B": "Hungish","C": "Hungese","D": "Hungic","correct": "A"}
+]
+},
+{
+"english": "hungrily",
+"pron": "ˈhʌŋɡrəli",
+"kana": "ハングリリー",
+"hinshi": "副詞",
+"ld_pos": "副詞",
+"ld_etym": "hungry（空腹の）＋-ly",
+"ld_level": "3級",
+"badges": ["中学生〜","英検3級","CEFR B1","感情・様子"],
+"meaning_main": "空腹そうに・がつがつと／渇望して",
+"description": "hungrily（ハングリリー）は「空腹そうに」「がつがつと」。おなかをすかせて勢いよく食べる様子を表す副詞。比喩的に「（知識などを）渇望するように」の意味でも使う。hungry（空腹の）の副詞形。",
+"keywords": ["hungrily 意味","hungrily 使い方","がつがつと 英語","hungry 副詞"],
+"meanings": [
+{"hinshi": "【副詞】空腹そうに・がつがつと","note": "おなかをすかせて勢いよく食べる様子"},
+{"hinshi": "【副詞】渇望して","note": "何かを強く求める様子（比喩）"}
+],
+"usages": [
+{"title": "① 食事","desc": "がつがつ食べる","example_en": "The children ate hungrily after the game.","example_ja": "子どもたちは試合の後、がつがつと食べた。"},
+{"title": "② 比喩","desc": "渇望して","example_en": "She read the letter hungrily.","example_ja": "彼女はその手紙を貪るように読んだ。"}
+],
+"warn": ["eat hungrily（がつがつ食べる）が典型的な使い方。","比喩的に「貪るように・渇望して」の意味でも使う。"],
+"etym_note": "hungry（空腹の、古英語 hungrig）＋-ly（副詞語尾）。「空腹の様子で＝がつがつと」を表す。",
+"etym_chain": [
+{"node": "hungrig","sub": "空腹の","era": "古英語"},
+{"node": "hungry + ly","sub": "空腹そうに","era": "中英語"},
+{"node": "hungrily","sub": "空腹そうに・がつがつと","era": "現代英語"}
+],
+"phrases": [
+{"en": "eat hungrily","ja": "がつがつ食べる"},
+{"en": "stare hungrily","ja": "物欲しそうに見つめる"},
+{"en": "look hungrily at","ja": "〜を貪欲に見る"},
+{"en": "read hungrily","ja": "貪るように読む"},
+{"en": "wolf down hungrily","ja": "がつがつ平らげる"},
+{"en": "wait hungrily","ja": "腹をすかせて待つ"}
+],
+"related": [
+{"en": "hungry","ja": "空腹の"},
+{"en": "eagerly","ja": "熱心に"},
+{"en": "greedily","ja": "貪欲に"},
+{"en": "ravenously","ja": "がつがつと"}
+],
+"faq": [
+{"q": "hungrily はどう使いますか？","a": "eat hungrily（がつがつ食べる）のように、空腹で勢いよく食べる様子を表します。比喩的に read hungrily（貪るように読む）のようにも使います。"},
+{"q": "hungry との違いは？","a": "hungry は形容詞「空腹の」、hungrily は副詞「空腹そうに・がつがつと」です。動詞を修飾するときに hungrily を使います。"}
+],
+"quiz": [
+{"q": "hungrily の意味は？","A": "空腹そうに・がつがつと","B": "満足そうに","C": "静かに","D": "ゆっくりと","correct": "A"},
+{"q": "hungrily の形容詞形は？","A": "hungry","B": "humble","C": "happy","D": "heavy","correct": "A"}
+]
+},
+{
+"english": "hydrant",
+"pron": "ˈhaɪdrənt",
+"kana": "ハイドラント",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "ギリシャ語 hydor（水）＋-ant",
+"ld_level": "2級",
+"badges": ["高校生〜","英検2級","CEFR B1","日常・防災"],
+"meaning_main": "消火栓（しょうかせん）",
+"description": "hydrant（ハイドラント）は「消火栓」。道路わきなどに設置され、火事のときに消防隊が水を取り出すための給水設備を指す。fire hydrant とも言う。アメリカの街角でよく見る赤い柱状のもの。可算名詞。",
+"keywords": ["hydrant 意味","hydrant 使い方","消火栓 英語","fire hydrant"],
+"meanings": [
+{"hinshi": "【名詞】消火栓","note": "火事のとき消防隊が水を取り出す給水設備"}
+],
+"usages": [
+{"title": "① 防災","desc": "水を取り出す","example_en": "Firefighters connected the hose to the hydrant.","example_ja": "消防士はホースを消火栓につないだ。"},
+{"title": "② 駐車","desc": "駐車禁止","example_en": "You can't park in front of a fire hydrant.","example_ja": "消火栓の前には駐車できない。"}
+],
+"warn": ["fire hydrant とも言う。米国では赤い柱状のものが街角に多い。","hydro-/hydr- は「水」を表す接頭辞（hydrogen＝水素、hydraulic＝水圧の）。"],
+"etym_note": "ギリシャ語 hydōr（水）＋-ant（〜するもの）。「水を出すもの」という意味で、19世紀に消火用の給水設備を指して作られた語。",
+"etym_chain": [
+{"node": "hydōr","sub": "水","era": "古代ギリシャ語"},
+{"node": "hydr + ant","sub": "水を出すもの","era": "19世紀 英語"},
+{"node": "hydrant","sub": "消火栓","era": "現代英語"}
+],
+"phrases": [
+{"en": "a fire hydrant","ja": "消火栓"},
+{"en": "connect to a hydrant","ja": "消火栓につなぐ"},
+{"en": "open a hydrant","ja": "消火栓を開ける"},
+{"en": "a red hydrant","ja": "赤い消火栓"},
+{"en": "park by a hydrant","ja": "消火栓のそばに駐車する"},
+{"en": "a street hydrant","ja": "街角の消火栓"}
+],
+"related": [
+{"en": "firefighter","ja": "消防士"},
+{"en": "hose","ja": "ホース"},
+{"en": "water","ja": "水"},
+{"en": "fire","ja": "火事"}
+],
+"faq": [
+{"q": "hydrant とは何ですか？","a": "「消火栓」です。道路わきなどに設置され、火事のときに消防隊がホースをつないで水を取り出すための給水設備です。fire hydrant とも言います。"},
+{"q": "hydr- はどんな意味ですか？","a": "ギリシャ語で「水」を表す要素です。hydrogen（水素）、hydraulic（水圧の）、dehydrate（脱水する）などに含まれます。"}
+],
+"quiz": [
+{"q": "hydrant の意味は？","A": "消火栓","B": "街灯","C": "郵便ポスト","D": "信号機","correct": "A"},
+{"q": "hydr- が表す意味は？","A": "水","B": "火","C": "空気","D": "光","correct": "A"}
+]
+},
+{
+"english": "hyena",
+"pron": "haɪˈiːnə",
+"kana": "ハイエナ",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "ギリシャ語 hyaina（ブタに似た獣）",
+"ld_level": "2級",
+"badges": ["高校生〜","英検2級","CEFR B1","動物"],
+"meaning_main": "ハイエナ（アフリカなどの肉食獣）",
+"description": "hyena（ハイエナ）は主にアフリカやアジアにすむ肉食獣。犬に似た姿だが独立した科の動物で、群れで狩りや腐肉あさりをする。笑い声のような鳴き声で知られる。可算名詞。",
+"keywords": ["hyena 意味","hyena 使い方","ハイエナ 英語","アフリカ 動物"],
+"meanings": [
+{"hinshi": "【名詞】ハイエナ","note": "アフリカなどにすむ肉食獣。群れで狩りや腐肉あさりをする"}
+],
+"usages": [
+{"title": "① 動物","desc": "肉食獣","example_en": "A pack of hyenas surrounded the carcass.","example_ja": "ハイエナの群れが死骸を取り囲んだ。"},
+{"title": "② 鳴き声","desc": "笑うような声","example_en": "The hyena's call sounds like laughter.","example_ja": "ハイエナの鳴き声は笑い声のように聞こえる。"}
+],
+"warn": ["綴りは hyena（先頭は hy-）。発音は「ハイイーナ」に近い。","笑い声のような鳴き声から laugh like a hyena（げらげら笑う）という表現もある。"],
+"etym_note": "ギリシャ語 hyaina（hys「ブタ」＋雌を表す語尾）に由来。たてがみがブタの剛毛に似ていたことから名づけられたとされる。",
+"etym_chain": [
+{"node": "hys","sub": "ブタ","era": "古代ギリシャ語"},
+{"node": "hyaina","sub": "ハイエナ","era": "古代ギリシャ語"},
+{"node": "hyena","sub": "ハイエナ","era": "現代英語"}
+],
+"phrases": [
+{"en": "a spotted hyena","ja": "ブチハイエナ"},
+{"en": "a pack of hyenas","ja": "ハイエナの群れ"},
+{"en": "laugh like a hyena","ja": "ハイエナのようにげらげら笑う"},
+{"en": "a scavenging hyena","ja": "腐肉をあさるハイエナ"},
+{"en": "the call of a hyena","ja": "ハイエナの鳴き声"},
+{"en": "hyenas and lions","ja": "ハイエナとライオン"}
+],
+"related": [
+{"en": "lion","ja": "ライオン"},
+{"en": "scavenger","ja": "腐肉を食べる動物"},
+{"en": "predator","ja": "捕食者"},
+{"en": "savanna","ja": "サバンナ"}
+],
+"faq": [
+{"q": "hyena はどんな動物ですか？","a": "主にアフリカやアジアにすむ肉食獣です。犬に似ていますが独立した科の動物で、群れで狩りをしたり腐肉をあさったりします。笑い声のような鳴き声で有名です。"},
+{"q": "laugh like a hyena とは？","a": "「ハイエナのようにげらげら笑う」という表現です。ハイエナの鳴き声が甲高い笑い声に似ていることに由来します。"}
+],
+"quiz": [
+{"q": "hyena の意味は？","A": "肉食獣（ハイエナ）","B": "鳥","C": "魚","D": "昆虫","correct": "A"},
+{"q": "hyena が知られる特徴は？","A": "笑い声のような鳴き声","B": "空を飛ぶこと","C": "冬眠すること","D": "光ること","correct": "A"}
+]
+},
+{
+"english": "hymn",
+"pron": "hɪm",
+"kana": "ヒム",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "ギリシャ語 hymnos（賛歌）",
+"ld_level": "2級",
+"badges": ["高校生〜","英検2級","CEFR B1","宗教・音楽"],
+"meaning_main": "賛美歌・聖歌／賛歌",
+"description": "hymn（ヒム）は「賛美歌」「聖歌」。神をたたえて礼拝で歌われる歌を指す。転じて、何かを称賛する「賛歌」の意味でも使う。発音は「ヒム」で最後の n は読まない。可算名詞。",
+"keywords": ["hymn 意味","hymn 使い方","賛美歌 英語","聖歌 発音"],
+"meanings": [
+{"hinshi": "【名詞】賛美歌・聖歌","note": "神をたたえて礼拝で歌う歌"},
+{"hinshi": "【名詞】賛歌","note": "何かを称賛する歌・作品（比喩）"}
+],
+"usages": [
+{"title": "① 礼拝","desc": "賛美歌を歌う","example_en": "The congregation sang a hymn together.","example_ja": "会衆はいっしょに賛美歌を歌った。"},
+{"title": "② 比喩","desc": "〜への賛歌","example_en": "The film is a hymn to the beauty of nature.","example_ja": "その映画は自然の美への賛歌だ。"}
+],
+"warn": ["発音は「ヒム」。語末の n は発音しない（黙字）。","a hymn to ～で「～への賛歌・称賛」の比喩表現になる。"],
+"etym_note": "ギリシャ語 hymnos（神や英雄をたたえる歌）に由来し、ラテン語 hymnus を経て英語に入った。教会音楽の賛美歌を指す語として定着した。",
+"etym_chain": [
+{"node": "hymnos","sub": "賛歌","era": "古代ギリシャ語"},
+{"node": "hymnus","sub": "賛歌","era": "ラテン語"},
+{"node": "hymn","sub": "賛美歌","era": "現代英語"}
+],
+"phrases": [
+{"en": "sing a hymn","ja": "賛美歌を歌う"},
+{"en": "a church hymn","ja": "教会の賛美歌"},
+{"en": "a hymn book","ja": "賛美歌集"},
+{"en": "an old hymn","ja": "古い賛美歌"},
+{"en": "a hymn to nature","ja": "自然への賛歌"},
+{"en": "a favorite hymn","ja": "お気に入りの賛美歌"}
+],
+"related": [
+{"en": "psalm","ja": "詩編・聖歌"},
+{"en": "chant","ja": "詠唱"},
+{"en": "anthem","ja": "聖歌・国歌"},
+{"en": "prayer","ja": "祈り"}
+],
+"faq": [
+{"q": "hymn の発音は？","a": "「ヒム」/hɪm/ です。語末の n は発音しない黙字です。him（彼を）と同じ音になります。"},
+{"q": "a hymn to ～とは？","a": "「～への賛歌・称賛」という比喩表現です。a hymn to freedom（自由への賛歌）のように、何かをたたえる作品や表現を指します。"}
+],
+"quiz": [
+{"q": "hymn の意味は？","A": "賛美歌・聖歌","B": "祈りの言葉","C": "説教","D": "鐘の音","correct": "A"},
+{"q": "hymn の発音の特徴は？","A": "語末の n を発音しない","B": "y を強く読む","C": "h を発音しない","D": "2音節である","correct": "A"}
+]
+},
+{
+"english": "hyperbole",
+"pron": "haɪˈpɜːrbəli",
+"kana": "ハイパーボリー",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "ギリシャ語 hyperbolē（超過）",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","修辞・表現"],
+"meaning_main": "誇張（法）・大げさな表現",
+"description": "hyperbole（ハイパーボリー）は「誇張」「大げさな表現」。効果を狙って事実以上に大げさに言う修辞技法や表現を指す。「死ぬほど疲れた」などがその例。発音は「ハイパーボリー」。不可算名詞。",
+"keywords": ["hyperbole 意味","hyperbole 使い方","誇張 英語","大げさ 表現"],
+"meanings": [
+{"hinshi": "【名詞】誇張・大げさな表現","note": "効果のために事実以上に大げさに言うこと"}
+],
+"usages": [
+{"title": "① 修辞","desc": "大げさに言う","example_en": "\"I've told you a million times\" is hyperbole.","example_ja": "「百万回言った」は誇張表現だ。"},
+{"title": "② 批評","desc": "誇張を含む","example_en": "The advertisement was full of hyperbole.","example_ja": "その広告は大げさな表現でいっぱいだった。"}
+],
+"warn": ["発音は「ハイパーボリー」/haɪˈpɜːrbəli/。つづりからの見た目と違うので注意。","形容詞は hyperbolic（誇張した）。"],
+"etym_note": "ギリシャ語 hyperbolē（超過、hyper「超えて」＋ballein「投げる」から＝的を超えて投げる）に由来。修辞学で「事実を超えて言う＝誇張」の意味になった。",
+"etym_chain": [
+{"node": "hyper + ballein","sub": "超えて投げる","era": "古代ギリシャ語"},
+{"node": "hyperbolē","sub": "超過","era": "古代ギリシャ語"},
+{"node": "hyperbole","sub": "誇張","era": "現代英語"}
+],
+"phrases": [
+{"en": "use hyperbole","ja": "誇張表現を使う"},
+{"en": "pure hyperbole","ja": "まったくの誇張"},
+{"en": "full of hyperbole","ja": "誇張だらけの"},
+{"en": "a bit of hyperbole","ja": "少し大げさな表現"},
+{"en": "without hyperbole","ja": "誇張なしに"},
+{"en": "rhetorical hyperbole","ja": "修辞的な誇張"}
+],
+"related": [
+{"en": "hyperbolic","ja": "誇張した"},
+{"en": "exaggeration","ja": "誇張"},
+{"en": "overstatement","ja": "大げさな言い方"},
+{"en": "understatement","ja": "控えめな言い方"}
+],
+"faq": [
+{"q": "hyperbole の発音は？","a": "「ハイパーボリー」/haɪˈpɜːrbəli/ です。つづりの見た目と違い、最後が「ボリー」となる点に注意しましょう。"},
+{"q": "具体例は？","a": "「I'm so hungry I could eat a horse.（馬一頭食べられるほど腹ペコだ）」のように、効果を狙って事実以上に大げさに言う表現が hyperbole です。"}
+],
+"quiz": [
+{"q": "hyperbole の意味は？","A": "誇張・大げさな表現","B": "控えめな表現","C": "正確な描写","D": "沈黙","correct": "A"},
+{"q": "hyperbole の対になる修辞は？","A": "understatement（控えめな言い方）","B": "metaphor（隠喩）","C": "rhyme（韻）","D": "pun（だじゃれ）","correct": "A"}
+]
+},
+{
+"english": "hypnotic",
+"pron": "hɪpˈnɑːtɪk",
+"kana": "ヒプノティック",
+"hinshi": "形容詞 / 名詞",
+"ld_pos": "形容詞",
+"ld_etym": "ギリシャ語 hypnos（眠り）＋-tic",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","心理・医学"],
+"meaning_main": "催眠の・催眠術のような／うっとりさせる",
+"description": "hypnotic（ヒプノティック）は「催眠の」「催眠術をかけるような」。人を眠りや催眠状態に導く性質を表す形容詞。転じて「（心を奪って）うっとりさせる・魅了する」の意味でも使う。名詞で「睡眠薬」も指す。",
+"keywords": ["hypnotic 意味","hypnotic 使い方","催眠の 英語","うっとりさせる"],
+"meanings": [
+{"hinshi": "【形容詞】催眠の・催眠術のような","note": "人を眠りや催眠状態に導く"},
+{"hinshi": "【形容詞】うっとりさせる","note": "心を奪って魅了する（比喩）"},
+{"hinshi": "【名詞】睡眠薬","note": "眠りを促す薬"}
+],
+"usages": [
+{"title": "① 催眠","desc": "催眠状態にする","example_en": "The therapist used a hypnotic technique.","example_ja": "その治療者は催眠の技法を用いた。"},
+{"title": "② 魅了","desc": "うっとりさせる","example_en": "The music had a hypnotic rhythm.","example_ja": "その音楽はうっとりさせるリズムを持っていた。"}
+],
+"warn": ["「催眠の」だけでなく「うっとりさせる・引き込まれる」の比喩でよく使う。","名詞では「睡眠薬・催眠剤」を指す（a mild hypnotic）。"],
+"etym_note": "ギリシャ語 hypnos（眠り）＋-tikos（〜の性質の）。「眠りに関する」という意味で、催眠や睡眠薬を指す語になった。眠りの神ヒュプノス（Hypnos）と同語源。",
+"etym_chain": [
+{"node": "hypnos","sub": "眠り","era": "古代ギリシャ語"},
+{"node": "hypnotikos","sub": "眠りの","era": "古代ギリシャ語"},
+{"node": "hypnotic","sub": "催眠の・うっとりさせる","era": "現代英語"}
+],
+"phrases": [
+{"en": "a hypnotic trance","ja": "催眠状態"},
+{"en": "a hypnotic rhythm","ja": "うっとりさせるリズム"},
+{"en": "a hypnotic voice","ja": "引き込まれるような声"},
+{"en": "hypnotic effect","ja": "催眠効果"},
+{"en": "a hypnotic gaze","ja": "催眠術のようなまなざし"},
+{"en": "a mild hypnotic","ja": "軽い睡眠薬"}
+],
+"related": [
+{"en": "hypnosis","ja": "催眠"},
+{"en": "hypnotize","ja": "催眠術をかける"},
+{"en": "mesmerizing","ja": "うっとりさせる"},
+{"en": "sedative","ja": "鎮静剤"}
+],
+"faq": [
+{"q": "hypnotic の意味は？","a": "「催眠の・催眠術をかけるような」が基本で、転じて「（心を奪って）うっとりさせる・引き込まれる」の意味でも使います。名詞では「睡眠薬」を指します。"},
+{"q": "比喩的な使い方は？","a": "a hypnotic rhythm（うっとりさせるリズム）、a hypnotic voice（引き込まれる声）のように、強く魅了する様子を表します。"}
+],
+"quiz": [
+{"q": "hypnotic の意味は？","A": "催眠の・うっとりさせる","B": "騒がしい","C": "冷たい","D": "明るい","correct": "A"},
+{"q": "hypnotic の語源となったギリシャ語 hypnos の意味は？","A": "眠り","B": "光","C": "火","D": "水","correct": "A"}
+]
+},
+{
+"english": "hypnotize",
+"pron": "ˈhɪpnətaɪz",
+"kana": "ヒプノタイズ",
+"hinshi": "動詞",
+"ld_pos": "動詞",
+"ld_etym": "hypnosis（催眠）＋-ize",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","心理"],
+"meaning_main": "催眠術をかける／（人を）うっとりさせる・魅了する",
+"description": "hypnotize（ヒプノタイズ）は「催眠術をかける」。人を催眠状態に導くこと。転じて「人をうっとりさせる・すっかり心を奪う」の意味でも使う。英つづり hypnotise。名詞は hypnosis（催眠）。",
+"keywords": ["hypnotize 意味","hypnotize 使い方","催眠術をかける 英語","魅了する"],
+"meanings": [
+{"hinshi": "【動詞】催眠術をかける","note": "人を催眠状態に導く"},
+{"hinshi": "【動詞】うっとりさせる・魅了する","note": "すっかり心を奪う（比喩）"}
+],
+"usages": [
+{"title": "① 催眠","desc": "催眠にかける","example_en": "The performer hypnotized a volunteer on stage.","example_ja": "その芸人は舞台でボランティアに催眠術をかけた。"},
+{"title": "② 魅了","desc": "心を奪う","example_en": "The audience was hypnotized by her performance.","example_ja": "観客は彼女の演技にすっかり魅了された。"}
+],
+"warn": ["米つづり hypnotize、英つづり hypnotise。","be hypnotized by ～で「～にうっとりする・釘付けになる」の意味。"],
+"etym_note": "ギリシャ語 hypnos（眠り）＋-ize（〜化する）。19世紀に催眠術（hypnosis）の概念とともに作られた動詞。",
+"etym_chain": [
+{"node": "hypnos","sub": "眠り","era": "古代ギリシャ語"},
+{"node": "hypnosis + ize","sub": "催眠状態にする","era": "19世紀 英語"},
+{"node": "hypnotize","sub": "催眠術をかける","era": "現代英語"}
+],
+"phrases": [
+{"en": "hypnotize a patient","ja": "患者に催眠をかける"},
+{"en": "be hypnotized by","ja": "〜にうっとりする"},
+{"en": "hypnotize the audience","ja": "観客を魅了する"},
+{"en": "try to hypnotize","ja": "催眠をかけようとする"},
+{"en": "hypnotized into sleep","ja": "催眠で眠らされる"},
+{"en": "completely hypnotized","ja": "すっかり心を奪われた"}
+],
+"related": [
+{"en": "hypnosis","ja": "催眠"},
+{"en": "hypnotic","ja": "催眠の"},
+{"en": "mesmerize","ja": "うっとりさせる"},
+{"en": "captivate","ja": "魅了する"}
+],
+"faq": [
+{"q": "hypnotize の意味は？","a": "「催眠術をかける」が基本で、転じて「人をうっとりさせる・すっかり心を奪う」の意味でも使います。"},
+{"q": "つづりは？","a": "アメリカ英語では hypnotize、イギリス英語では hypnotise です。意味は同じです。"}
+],
+"quiz": [
+{"q": "hypnotize の意味は？","A": "催眠術をかける・魅了する","B": "驚かせる","C": "怒らせる","D": "悲しませる","correct": "A"},
+{"q": "hypnotize の名詞形は？","A": "hypnosis","B": "hypothesis","C": "hygiene","D": "hyphen","correct": "A"}
+]
+},
+{
+"english": "hypocrisy",
+"pron": "hɪˈpɑːkrəsi",
+"kana": "ヒポクラシー",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "ギリシャ語 hypokrisis（演技・偽善）",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","道徳・社会"],
+"meaning_main": "偽善（言行不一致）",
+"description": "hypocrisy（ヒポクラシー）は「偽善」。実際にはそう思っていない道徳や信念を、あたかも持っているかのように見せかけること。言葉と行いが一致しないことを非難する語。不可算名詞。形容詞は hypocritical。",
+"keywords": ["hypocrisy 意味","hypocrisy 使い方","偽善 英語","言行不一致"],
+"meanings": [
+{"hinshi": "【名詞】偽善","note": "本心と違う道徳・信念を持つふりをすること。言行不一致"}
+],
+"usages": [
+{"title": "① 非難","desc": "偽善を暴く","example_en": "People criticized the politician's hypocrisy.","example_ja": "人々はその政治家の偽善を批判した。"},
+{"title": "② 矛盾","desc": "言行不一致","example_en": "It's hypocrisy to preach honesty while lying.","example_ja": "うそをつきながら正直を説くのは偽善だ。"}
+],
+"warn": ["形容詞は hypocritical（偽善的な）、偽善者は hypocrite。","発音は「ヒポクラシー」/hɪˈpɑːkrəsi/。"],
+"etym_note": "ギリシャ語 hypokrisis（役者の演技、hypokrinesthai「役を演じる」から）に由来。「本心を隠して演じる＝偽善」の意味になった。",
+"etym_chain": [
+{"node": "hypokrinesthai","sub": "役を演じる","era": "古代ギリシャ語"},
+{"node": "hypokrisis","sub": "演技・偽善","era": "古代ギリシャ語"},
+{"node": "hypocrisy","sub": "偽善","era": "現代英語"}
+],
+"phrases": [
+{"en": "sheer hypocrisy","ja": "まったくの偽善"},
+{"en": "expose hypocrisy","ja": "偽善を暴く"},
+{"en": "moral hypocrisy","ja": "道徳的な偽善"},
+{"en": "accuse of hypocrisy","ja": "偽善だと非難する"},
+{"en": "the hypocrisy of the elite","ja": "エリートの偽善"},
+{"en": "reek of hypocrisy","ja": "偽善のにおいがする"}
+],
+"related": [
+{"en": "hypocrite","ja": "偽善者"},
+{"en": "hypocritical","ja": "偽善的な"},
+{"en": "insincerity","ja": "不誠実"},
+{"en": "double standard","ja": "二重基準"}
+],
+"faq": [
+{"q": "hypocrisy とは何ですか？","a": "「偽善」です。本心では信じていない道徳や信念を、あたかも持っているように見せかけること。言葉と行いが一致しないことを非難する語です。"},
+{"q": "関連語は？","a": "偽善者は hypocrite（名詞・人）、偽善的なは hypocritical（形容詞）です。"}
+],
+"quiz": [
+{"q": "hypocrisy の意味は？","A": "偽善","B": "正直","C": "勇気","D": "謙虚","correct": "A"},
+{"q": "hypocrisy の形容詞形は？","A": "hypocritical","B": "hypothetical","C": "hypnotic","D": "hysterical","correct": "A"}
+]
+},
+{
+"english": "hypocritical",
+"pron": "ˌhɪpəˈkrɪtɪkəl",
+"kana": "ヒポクリティカル",
+"hinshi": "形容詞",
+"ld_pos": "形容詞",
+"ld_etym": "hypocrite（偽善者）＋-ical",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","道徳・社会"],
+"meaning_main": "偽善的な・言行不一致の",
+"description": "hypocritical（ヒポクリティカル）は「偽善的な」。自分では守らないことを人に説いたり、本心と違う立派なことを言ったりする、言行不一致の様子を表す形容詞。名詞は hypocrisy（偽善）、hypocrite（偽善者）。",
+"keywords": ["hypocritical 意味","hypocritical 使い方","偽善的な 英語","言行不一致"],
+"meanings": [
+{"hinshi": "【形容詞】偽善的な・言行不一致の","note": "自分は守らないことを人に説くような"}
+],
+"usages": [
+{"title": "① 批判","desc": "偽善的だ","example_en": "It would be hypocritical of me to criticize him.","example_ja": "私が彼を批判するのは偽善的だろう。"},
+{"title": "② 矛盾","desc": "言行が伴わない","example_en": "Their promises sounded hypocritical.","example_ja": "彼らの約束は偽善的に聞こえた。"}
+],
+"warn": ["it is hypocritical of 人 to do で「〜が…するのは偽善的だ」という形が典型。","名詞は hypocrisy（偽善）、偽善者は hypocrite。"],
+"etym_note": "hypocrite（偽善者、ギリシャ語 hypokritēs「役者」から）＋-ical（〜の性質の）。「偽善者のような」を表す形容詞。",
+"etym_chain": [
+{"node": "hypokritēs","sub": "役者","era": "古代ギリシャ語"},
+{"node": "hypocrite + ical","sub": "偽善者のような","era": "近代英語"},
+{"node": "hypocritical","sub": "偽善的な","era": "現代英語"}
+],
+"phrases": [
+{"en": "a hypocritical attitude","ja": "偽善的な態度"},
+{"en": "sound hypocritical","ja": "偽善的に聞こえる"},
+{"en": "hypocritical of you","ja": "あなたにしては偽善的だ"},
+{"en": "a hypocritical smile","ja": "偽善的な笑み"},
+{"en": "utterly hypocritical","ja": "まったく偽善的な"},
+{"en": "hypocritical behavior","ja": "偽善的なふるまい"}
+],
+"related": [
+{"en": "hypocrisy","ja": "偽善"},
+{"en": "hypocrite","ja": "偽善者"},
+{"en": "insincere","ja": "不誠実な"},
+{"en": "two-faced","ja": "裏表のある"}
+],
+"faq": [
+{"q": "hypocritical の意味は？","a": "「偽善的な」です。自分では守らないことを人に説いたり、本心と違う立派なことを言ったりする、言行不一致の様子を表します。"},
+{"q": "典型的な言い方は？","a": "It is hypocritical of him to say that.（彼がそう言うのは偽善的だ）のように、of＋人＋to do の形でよく使います。"}
+],
+"quiz": [
+{"q": "hypocritical の意味は？","A": "偽善的な","B": "誠実な","C": "勇敢な","D": "寛大な","correct": "A"},
+{"q": "hypocritical の名詞形（偽善）は？","A": "hypocrisy","B": "hysteria","C": "hypothesis","D": "hygiene","correct": "A"}
+]
+},
+{
+"english": "hypothermia",
+"pron": "ˌhaɪpəˈθɜːrmiə",
+"kana": "ハイポサーミア",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "ギリシャ語 hypo（下）＋therme（熱）",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","医学・防災"],
+"meaning_main": "低体温症（体温が危険なほど下がる状態）",
+"description": "hypothermia（ハイポサーミア）は「低体温症」。体温が正常より危険なほど下がった状態を指す医学用語。寒さへの長時間の露出などで起こり、命に関わることもある。対義語は hyperthermia（高体温症）。不可算名詞。",
+"keywords": ["hypothermia 意味","低体温症 英語","医学 寒さ","hyperthermia 対義"],
+"meanings": [
+{"hinshi": "【名詞】低体温症","note": "体温が正常より危険なほど下がった状態"}
+],
+"usages": [
+{"title": "① 医学","desc": "体温が下がる","example_en": "The climber suffered from hypothermia.","example_ja": "その登山者は低体温症にかかった。"},
+{"title": "② 予防","desc": "寒さを避ける","example_en": "Wet clothes can lead to hypothermia in cold weather.","example_ja": "寒い時期、濡れた服は低体温症を招くことがある。"}
+],
+"warn": ["対義語は hyperthermia（高体温症・熱中症に近い）。hypo（下）と hyper（上）の違いに注意。","命に関わる医学的緊急事態。"],
+"etym_note": "ギリシャ語 hypo（下・低い）＋thermē（熱）＋-ia（状態）。「体温が低い状態」を表す医学用語。hypo は「下」、hyper は「上」を表す。",
+"etym_chain": [
+{"node": "hypo + thermē","sub": "低い＋熱","era": "古代ギリシャ語"},
+{"node": "hypothermia","sub": "低体温","era": "19世紀 医学"},
+{"node": "hypothermia","sub": "低体温症","era": "現代英語"}
+],
+"phrases": [
+{"en": "suffer from hypothermia","ja": "低体温症にかかる"},
+{"en": "die of hypothermia","ja": "低体温症で亡くなる"},
+{"en": "the risk of hypothermia","ja": "低体温症の危険"},
+{"en": "treat hypothermia","ja": "低体温症を治療する"},
+{"en": "mild hypothermia","ja": "軽度の低体温症"},
+{"en": "prevent hypothermia","ja": "低体温症を防ぐ"}
+],
+"related": [
+{"en": "hyperthermia","ja": "高体温症"},
+{"en": "frostbite","ja": "凍傷"},
+{"en": "temperature","ja": "体温・温度"},
+{"en": "cold","ja": "寒さ"}
+],
+"faq": [
+{"q": "hypothermia とは何ですか？","a": "「低体温症」です。体温が正常より危険なほど下がった状態で、寒さへの長時間の露出などで起こり、命に関わることもあります。"},
+{"q": "対義語は？","a": "hyperthermia（高体温症）です。hypo（下）と hyper（上）で意味が反対になります。"}
+],
+"quiz": [
+{"q": "hypothermia の意味は？","A": "低体温症","B": "高血圧","C": "脱水症","D": "骨折","correct": "A"},
+{"q": "hypothermia の対義語は？","A": "hyperthermia","B": "hypnosis","C": "hypothesis","D": "hygiene","correct": "A"}
+]
+},
+{
+"english": "hypothetical",
+"pron": "ˌhaɪpəˈθetɪkəl",
+"kana": "ハイポセティカル",
+"hinshi": "形容詞 / 名詞",
+"ld_pos": "形容詞",
+"ld_etym": "ギリシャ語 hypothesis（仮定）＋-ical",
+"ld_level": "準1級",
+"badges": ["高校生〜","英検準1級","CEFR B2","論理・学術"],
+"meaning_main": "仮定の・仮説の（実際ではなく、もし〜ならという）",
+"description": "hypothetical（ハイポセティカル）は「仮定の」「仮説の」。実際に起きたことではなく、「もし〜だったら」と想定して考える様子を表す形容詞。名詞で「仮定の話・想定質問」も指す。名詞形は hypothesis（仮説）。",
+"keywords": ["hypothetical 意味","hypothetical 使い方","仮定の 英語","仮説"],
+"meanings": [
+{"hinshi": "【形容詞】仮定の・仮説の","note": "実際ではなく「もし〜なら」と想定した"},
+{"hinshi": "【名詞】仮定の話","note": "想定上の問い・状況"}
+],
+"usages": [
+{"title": "① 想定","desc": "仮の状況","example_en": "Let's consider a hypothetical situation.","example_ja": "仮定の状況を考えてみよう。"},
+{"title": "② 議論","desc": "もし〜なら","example_en": "That's a purely hypothetical question.","example_ja": "それはまったく仮定上の質問だ。"}
+],
+"warn": ["「実際にはない、想定上の」という意味。名詞 hypothesis（仮説）の形容詞。","a hypothetical question（仮定の質問）が典型的な使い方。"],
+"etym_note": "ギリシャ語 hypothesis（下に置くこと＝前提・仮定、hypo「下」＋thesis「置くこと」から）＋-ical。「仮定に基づく」を表す形容詞。",
+"etym_chain": [
+{"node": "hypo + thesis","sub": "下に置くこと＝仮定","era": "古代ギリシャ語"},
+{"node": "hypothesis + ical","sub": "仮定の","era": "近代英語"},
+{"node": "hypothetical","sub": "仮定の","era": "現代英語"}
+],
+"phrases": [
+{"en": "a hypothetical situation","ja": "仮定の状況"},
+{"en": "a hypothetical question","ja": "仮定の質問"},
+{"en": "purely hypothetical","ja": "まったく仮定上の"},
+{"en": "a hypothetical case","ja": "仮定の事例"},
+{"en": "speak in hypotheticals","ja": "仮定の話をする"},
+{"en": "a hypothetical scenario","ja": "想定シナリオ"}
+],
+"related": [
+{"en": "hypothesis","ja": "仮説"},
+{"en": "theoretical","ja": "理論上の"},
+{"en": "imaginary","ja": "想像上の"},
+{"en": "supposed","ja": "想定された"}
+],
+"faq": [
+{"q": "hypothetical の意味は？","a": "「仮定の・仮説の」です。実際に起きたことではなく、「もし〜だったら」と想定して考える状況を表します。"},
+{"q": "名詞形は？","a": "hypothesis（仮説・仮定）です。科学で検証すべき「仮説」を指すことが多い語です。"}
+],
+"quiz": [
+{"q": "hypothetical の意味は？","A": "仮定の・仮説の","B": "確実な","C": "過去の","D": "公式の","correct": "A"},
+{"q": "hypothetical の名詞形は？","A": "hypothesis","B": "hysteria","C": "hygiene","D": "hyphen","correct": "A"}
+]
+},
+{
+"english": "hysterectomy",
+"pron": "ˌhɪstəˈrektəmi",
+"kana": "ヒステレクトミー",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "ギリシャ語 hystera（子宮）＋ektomē（切除）",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","医学"],
+"meaning_main": "子宮摘出術（子宮を手術で取り除くこと）",
+"description": "hysterectomy（ヒステレクトミー）は「子宮摘出術」。子宮を手術で取り除く医療処置を指す。病気の治療などのために行われる。ギリシャ語で「子宮（hystera）＋切除（-ectomy）」の意味。可算名詞。",
+"keywords": ["hysterectomy 意味","子宮摘出 英語","医学 手術","-ectomy 切除"],
+"meanings": [
+{"hinshi": "【名詞】子宮摘出術","note": "子宮を手術で取り除く医療処置"}
+],
+"usages": [
+{"title": "① 医療","desc": "子宮を摘出する","example_en": "She underwent a hysterectomy last year.","example_ja": "彼女は昨年、子宮摘出術を受けた。"},
+{"title": "② 説明","desc": "手術の一種","example_en": "A hysterectomy may be recommended for certain conditions.","example_ja": "特定の病状では子宮摘出術が勧められることがある。"}
+],
+"warn": ["-ectomy は「（臓器などの）切除」を表す語尾（appendectomy＝虫垂切除、tonsillectomy＝扁桃摘出）。","感情の「ヒステリー（hysteria）」と語源は同じ hystera（子宮）だが、別の医学用語。"],
+"etym_note": "ギリシャ語 hystera（子宮）＋ektomē（切除、ek「外へ」＋temnein「切る」から）。「子宮を切除すること」を表す医学用語。",
+"etym_chain": [
+{"node": "hystera + ektomē","sub": "子宮＋切除","era": "古代ギリシャ語"},
+{"node": "hysterectomy","sub": "子宮摘出術","era": "19世紀 医学"},
+{"node": "hysterectomy","sub": "子宮摘出術","era": "現代英語"}
+],
+"phrases": [
+{"en": "undergo a hysterectomy","ja": "子宮摘出術を受ける"},
+{"en": "a partial hysterectomy","ja": "部分的な子宮摘出"},
+{"en": "a total hysterectomy","ja": "子宮全摘出"},
+{"en": "recover from a hysterectomy","ja": "子宮摘出術から回復する"},
+{"en": "recommend a hysterectomy","ja": "子宮摘出術を勧める"},
+{"en": "after the hysterectomy","ja": "子宮摘出術のあとで"}
+],
+"related": [
+{"en": "surgery","ja": "手術"},
+{"en": "uterus","ja": "子宮"},
+{"en": "appendectomy","ja": "虫垂切除術"},
+{"en": "operation","ja": "手術"}
+],
+"faq": [
+{"q": "hysterectomy とは何ですか？","a": "「子宮摘出術」です。子宮を手術で取り除く医療処置で、病気の治療などのために行われます。"},
+{"q": "-ectomy とはどんな意味ですか？","a": "「（臓器などの）切除・摘出」を表す医学の語尾です。appendectomy（虫垂切除）、tonsillectomy（扁桃摘出）などを作ります。"}
+],
+"quiz": [
+{"q": "hysterectomy の意味は？","A": "子宮摘出術","B": "心臓移植","C": "骨折の治療","D": "視力検査","correct": "A"},
+{"q": "-ectomy が表す意味は？","A": "切除・摘出","B": "検査","C": "注射","D": "縫合","correct": "A"}
+]
+}
+]
