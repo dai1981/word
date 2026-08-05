@@ -1,0 +1,985 @@
+[
+{
+"english": "insolvency",
+"pron": "ɪnˈsɑːlvənsi",
+"kana": "インソルベンシー",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "in-（否定）＋solvency（支払い能力）",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","経済・法律"],
+"meaning_main": "支払い不能・債務超過（借金を返せない状態）",
+"description": "insolvency（インソルベンシー）は「支払い不能」「債務超過」。借金や負債を返済できない状態を表す経済・法律用語。solvency（支払い能力）の反対。会社の場合は倒産につながる。形容詞は insolvent。不可算名詞。",
+"keywords": ["insolvency 意味","insolvency 使い方","支払い不能 英語","債務超過"],
+"meanings": [
+{"hinshi": "【名詞】支払い不能・債務超過","note": "借金や負債を返済できない状態"}
+],
+"usages": [
+{"title": "① 経済","desc": "支払い不能","example_en": "The company faced insolvency.","example_ja": "その会社は支払い不能に陥った。"},
+{"title": "② 法律","desc": "債務超過","example_en": "Insolvency can lead to bankruptcy proceedings.","example_ja": "支払い不能は破産手続きにつながることがある。"}
+],
+"warn": ["対義語は solvency（支払い能力）。形容詞は insolvent（支払い不能の）。","bankruptcy（破産）は法的手続きを指し、insolvency は返済できない「状態」を指す。"],
+"etym_note": "in-（否定）＋solvency（支払い能力、ラテン語 solvere「解く・支払う」から）。「支払えないこと＝支払い不能」を表す。",
+"etym_chain": [
+{"node": "solvere","sub": "解く・支払う","era": "ラテン語"},
+{"node": "in + solvency","sub": "支払い能力がないこと","era": "近代英語"},
+{"node": "insolvency","sub": "支払い不能","era": "現代英語"}
+],
+"phrases": [
+{"en": "face insolvency","ja": "支払い不能に直面する"},
+{"en": "declare insolvency","ja": "支払い不能を宣言する"},
+{"en": "the risk of insolvency","ja": "支払い不能の危険"},
+{"en": "corporate insolvency","ja": "企業の支払い不能"},
+{"en": "insolvency proceedings","ja": "倒産手続き"},
+{"en": "on the brink of insolvency","ja": "支払い不能の瀬戸際で"}
+],
+"related": [
+{"en": "solvency","ja": "支払い能力"},
+{"en": "insolvent","ja": "支払い不能の"},
+{"en": "bankruptcy","ja": "破産"},
+{"en": "debt","ja": "負債"}
+],
+"faq": [
+{"q": "insolvency の意味は？","a": "「支払い不能・債務超過」です。借金や負債を返済できない状態を表す経済・法律用語です。solvency（支払い能力）の反対です。"},
+{"q": "bankruptcy との違いは？","a": "insolvency は「返済できない状態」そのもの、bankruptcy（破産）はその状態に対する法的な手続き・宣告を指します。"}
+],
+"quiz": [
+{"q": "insolvency の意味は？","A": "支払い不能・債務超過","B": "支払い能力","C": "黒字","D": "貯蓄","correct": "A"},
+{"q": "insolvency の対義語は？","A": "solvency","B": "agency","C": "urgency","D": "frequency","correct": "A"}
+]
+},
+{
+"english": "insolvent",
+"pron": "ɪnˈsɑːlvənt",
+"kana": "インソルベント",
+"hinshi": "形容詞",
+"ld_pos": "形容詞",
+"ld_etym": "in-（否定）＋solvent（支払い能力のある）",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","経済・法律"],
+"meaning_main": "支払い不能の・債務超過の（借金を返せない）",
+"description": "insolvent（インソルベント）は「支払い不能の」「債務超過の」。借金や負債を返済できない状態にあることを表す形容詞。solvent（支払い能力のある）の反対。会社や個人が go insolvent（支払い不能になる）のように使う。名詞は insolvency。",
+"keywords": ["insolvent 意味","insolvent 使い方","支払い不能の 英語","solvent 反対"],
+"meanings": [
+{"hinshi": "【形容詞】支払い不能の・債務超過の","note": "借金や負債を返済できない状態にある"}
+],
+"usages": [
+{"title": "① 企業","desc": "支払い不能","example_en": "The firm became insolvent last year.","example_ja": "その会社は昨年支払い不能になった。"},
+{"title": "② 個人","desc": "返済できない","example_en": "He was declared insolvent.","example_ja": "彼は支払い不能と宣告された。"}
+],
+"warn": ["対義語は solvent（支払い能力のある）。in- は否定の接頭辞。","名詞は insolvency（支払い不能）。「（液体の）溶媒」の solvent と同形だが別の意味。"],
+"etym_note": "in-（否定）＋solvent（支払い能力のある、ラテン語 solvere「解く・支払う」から）。「支払えない＝支払い不能の」を表す。",
+"etym_chain": [
+{"node": "solvere","sub": "解く・支払う","era": "ラテン語"},
+{"node": "in + solvent","sub": "支払い能力がない","era": "近代英語"},
+{"node": "insolvent","sub": "支払い不能の","era": "現代英語"}
+],
+"phrases": [
+{"en": "become insolvent","ja": "支払い不能になる"},
+{"en": "go insolvent","ja": "支払い不能に陥る"},
+{"en": "be declared insolvent","ja": "支払い不能と宣告される"},
+{"en": "an insolvent company","ja": "支払い不能の会社"},
+{"en": "technically insolvent","ja": "実質的に債務超過の"},
+{"en": "an insolvent debtor","ja": "支払い不能の債務者"}
+],
+"related": [
+{"en": "solvent","ja": "支払い能力のある"},
+{"en": "insolvency","ja": "支払い不能"},
+{"en": "bankrupt","ja": "破産した"},
+{"en": "indebted","ja": "負債を抱えた"}
+],
+"faq": [
+{"q": "insolvent の意味は？","a": "「支払い不能の・債務超過の」です。借金や負債を返済できない状態にあることを表します。solvent（支払い能力のある）の反対です。名詞は insolvency です。"},
+{"q": "solvent（溶媒）と同じ語ですか？","a": "つづりは同じですが意味が別です。ここでの solvent/insolvent は「支払い能力のある／ない」で、化学の solvent（溶媒）とは異なります。"}
+],
+"quiz": [
+{"q": "insolvent の意味は？","A": "支払い不能の","B": "支払い能力のある","C": "裕福な","D": "有名な","correct": "A"},
+{"q": "insolvent の対義語は？","A": "solvent","B": "silent","C": "violent","D": "prevalent","correct": "A"}
+]
+},
+{
+"english": "insomniac",
+"pron": "ɪnˈsɑːmniæk",
+"kana": "インソムニアック",
+"hinshi": "名詞 / 形容詞",
+"ld_pos": "名詞",
+"ld_etym": "insomnia（不眠症）＋-ac",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","医療・健康"],
+"meaning_main": "不眠症の人／不眠症の",
+"description": "insomniac（インソムニアック）は「不眠症の人」。夜なかなか眠れない、眠りが続かないなどの不眠に悩む人を指す名詞。形容詞で「不眠症の」の意味でも使う。もとの症状は insomnia（不眠症）。可算名詞。",
+"keywords": ["insomniac 意味","insomniac 使い方","不眠症の人 英語","insomnia"],
+"meanings": [
+{"hinshi": "【名詞】不眠症の人","note": "夜眠れない、眠りが続かないなど不眠に悩む人"},
+{"hinshi": "【形容詞】不眠症の","note": "不眠に悩む状態の"}
+],
+"usages": [
+{"title": "① 人","desc": "眠れない人","example_en": "As an insomniac, she rarely sleeps well.","example_ja": "不眠症の彼女はめったによく眠れない。"},
+{"title": "② 状態","desc": "不眠に悩む","example_en": "He spent his insomniac nights reading.","example_ja": "彼は眠れない夜を読書して過ごした。"}
+],
+"warn": ["症状そのものは insomnia（不眠症）。","-ac は「〜の病の人」を表す語尾（maniac＝熱狂者、hypochondriac＝心気症の人）。"],
+"etym_note": "insomnia（不眠症、ラテン語 in-「否定」＋somnus「眠り」から）＋-ac（〜の状態の人）。「不眠症の人」を表す。",
+"etym_chain": [
+{"node": "somnus","sub": "眠り","era": "ラテン語"},
+{"node": "insomnia + ac","sub": "不眠症の人","era": "近代英語"},
+{"node": "insomniac","sub": "不眠症の人","era": "現代英語"}
+],
+"phrases": [
+{"en": "a lifelong insomniac","ja": "長年の不眠症の人"},
+{"en": "insomniac nights","ja": "眠れない夜"},
+{"en": "become an insomniac","ja": "不眠症になる"},
+{"en": "a chronic insomniac","ja": "慢性的な不眠症の人"},
+{"en": "an insomniac's routine","ja": "不眠症の人の習慣"},
+{"en": "help an insomniac sleep","ja": "不眠症の人の睡眠を助ける"}
+],
+"related": [
+{"en": "insomnia","ja": "不眠症"},
+{"en": "sleeplessness","ja": "不眠"},
+{"en": "sleep","ja": "睡眠"},
+{"en": "restless","ja": "落ち着かない"}
+],
+"faq": [
+{"q": "insomniac の意味は？","a": "「不眠症の人」です。夜なかなか眠れない、眠りが続かないなどの不眠に悩む人を指します。形容詞で「不眠症の」の意味でも使います。"},
+{"q": "insomnia との違いは？","a": "insomnia は「不眠症（症状そのもの）」、insomniac は「不眠症の人」または「不眠症の（状態の）」です。"}
+],
+"quiz": [
+{"q": "insomniac の意味は？","A": "不眠症の人","B": "早起きの人","C": "医者","D": "夢を見る人","correct": "A"},
+{"q": "insomniac のもとになる症状は？","A": "insomnia（不眠症）","B": "influenza（インフルエンザ）","C": "asthma（ぜんそく）","D": "anemia（貧血）","correct": "A"}
+]
+},
+{
+"english": "inspector",
+"pron": "ɪnˈspektər",
+"kana": "インスペクター",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "inspect（検査する）＋-or",
+"ld_level": "2級",
+"badges": ["高校生〜","英検2級","CEFR B1","職業"],
+"meaning_main": "検査官・調査官／（警察の）警部",
+"description": "inspector（インスペクター）は「検査官」「調査官」。物や施設、書類などを調べて基準を満たしているか確認する人を指す。また警察では「警部」という階級も表す。動詞 inspect（検査する）＋-or（〜する人）。可算名詞。",
+"keywords": ["inspector 意味","inspector 使い方","検査官 英語","警部"],
+"meanings": [
+{"hinshi": "【名詞】検査官・調査官","note": "物や施設を調べて基準を満たすか確認する人"},
+{"hinshi": "【名詞】警部","note": "警察の階級の一つ"}
+],
+"usages": [
+{"title": "① 検査","desc": "検査官","example_en": "A health inspector visited the restaurant.","example_ja": "衛生検査官がそのレストランを訪れた。"},
+{"title": "② 警察","desc": "警部","example_en": "Inspector Brown led the investigation.","example_ja": "ブラウン警部が捜査を指揮した。"}
+],
+"warn": ["動詞は inspect（検査する）、名詞は inspection（検査）。","警察の階級としては国により位置づけが異なる（イギリスの警部など）。"],
+"etym_note": "inspect（ラテン語 inspicere「中を見る」、in-「中へ」＋specere「見る」から）＋-or（〜する人）。「中を調べる人＝検査官」を表す。",
+"etym_chain": [
+{"node": "inspicere","sub": "中を見る","era": "ラテン語"},
+{"node": "inspect + or","sub": "検査する人","era": "近代英語"},
+{"node": "inspector","sub": "検査官・警部","era": "現代英語"}
+],
+"phrases": [
+{"en": "a health inspector","ja": "衛生検査官"},
+{"en": "a building inspector","ja": "建築検査官"},
+{"en": "a ticket inspector","ja": "検札係"},
+{"en": "a police inspector","ja": "警部"},
+{"en": "a safety inspector","ja": "安全検査官"},
+{"en": "a school inspector","ja": "視学官"}
+],
+"related": [
+{"en": "inspect","ja": "検査する"},
+{"en": "inspection","ja": "検査"},
+{"en": "examiner","ja": "審査官"},
+{"en": "officer","ja": "職員・警官"}
+],
+"faq": [
+{"q": "inspector の意味は？","a": "「検査官・調査官」が中心で、物や施設、書類などを調べて基準を満たしているか確認する人を指します。また警察では「警部」という階級も表します。"},
+{"q": "動詞・名詞形は？","a": "動詞は inspect（検査する）、検査という名詞は inspection です。"}
+],
+"quiz": [
+{"q": "inspector の意味は？","A": "検査官・調査官","B": "運転手","C": "料理人","D": "教師","correct": "A"},
+{"q": "inspector の動詞形は？","A": "inspect","B": "inspire","C": "install","D": "insist","correct": "A"}
+]
+},
+{
+"english": "instill",
+"pron": "ɪnˈstɪl",
+"kana": "インスティル",
+"hinshi": "動詞",
+"ld_pos": "動詞",
+"ld_etym": "ラテン語 instillare（一滴ずつ注ぐ）",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","教育・心理"],
+"meaning_main": "（考え・感情を）少しずつ植えつける・教え込む",
+"description": "instill（インスティル）は「（考え・価値観・感情を）少しずつ植えつける」。時間をかけて、繰り返し人の心に大切なものを染み込ませることを表す動詞。instill A in/into B（BにAを植えつける）の形で使う。英つづり instil。",
+"keywords": ["instill 意味","instill 使い方","植えつける 英語","教え込む"],
+"meanings": [
+{"hinshi": "【動詞】（考え・感情を）少しずつ植えつける・教え込む","note": "時間をかけて心に大切なものを染み込ませる"}
+],
+"usages": [
+{"title": "① 教育","desc": "植えつける","example_en": "Parents try to instill good values in their children.","example_ja": "親は子どもによい価値観を植えつけようとする。"},
+{"title": "② 感情","desc": "染み込ませる","example_en": "The coach instilled confidence in the team.","example_ja": "コーチはチームに自信を植えつけた。"}
+],
+"warn": ["instill A in/into B（BにAを植えつける）の形で使う。","米つづり instill、英つづり instil。もとは「一滴ずつ注ぐ」の意味。"],
+"etym_note": "ラテン語 instillare（in-「中へ」＋stillare「したたらせる」＝一滴ずつ注ぐ）に由来。「少しずつ心に注ぎ込む＝植えつける」を表す。",
+"etym_chain": [
+{"node": "stillare","sub": "したたらせる","era": "ラテン語"},
+{"node": "instillare","sub": "一滴ずつ注ぐ","era": "ラテン語"},
+{"node": "instill","sub": "植えつける","era": "現代英語"}
+],
+"phrases": [
+{"en": "instill values","ja": "価値観を植えつける"},
+{"en": "instill confidence","ja": "自信を植えつける"},
+{"en": "instill discipline","ja": "規律を教え込む"},
+{"en": "instill fear","ja": "恐怖を植えつける"},
+{"en": "instill a love of reading","ja": "読書好きの心を育てる"},
+{"en": "instill in children","ja": "子どもに植えつける"}
+],
+"related": [
+{"en": "inculcate","ja": "教え込む"},
+{"en": "implant","ja": "植えつける"},
+{"en": "infuse","ja": "吹き込む"},
+{"en": "impart","ja": "伝える"}
+],
+"faq": [
+{"q": "instill の意味は？","a": "「（考え・価値観・感情を）少しずつ植えつける・教え込む」です。時間をかけて、繰り返し人の心に大切なものを染み込ませることを表します。instill A in/into B の形で使います。"},
+{"q": "つづりは？","a": "アメリカ英語では instill、イギリス英語では instil です。もとは「一滴ずつ注ぐ」という意味です。"}
+],
+"quiz": [
+{"q": "instill の意味は？","A": "少しずつ植えつける・教え込む","B": "取り除く","C": "急がせる","D": "壊す","correct": "A"},
+{"q": "instill の使い方で正しいのは？","A": "instill values in children","B": "instill children with","C": "instill from children","D": "instill children off","correct": "A"}
+]
+},
+{
+"english": "instinctive",
+"pron": "ɪnˈstɪŋktɪv",
+"kana": "インスティンクティブ",
+"hinshi": "形容詞",
+"ld_pos": "形容詞",
+"ld_etym": "instinct（本能）＋-ive",
+"ld_level": "準1級",
+"badges": ["高校生〜","英検準1級","CEFR B2","性質・行動"],
+"meaning_main": "本能的な・直感的な（考えずにとっさに出る）",
+"description": "instinctive（インスティンクティブ）は「本能的な」「直感的な」。学んだり考えたりせず、生まれつきの性質やとっさの直感で反応する様子を表す形容詞。instinct（本能）＋-ive。an instinctive reaction（とっさの反応）のように使う。",
+"keywords": ["instinctive 意味","instinctive 使い方","本能的な 英語","直感的な"],
+"meanings": [
+{"hinshi": "【形容詞】本能的な・直感的な","note": "考えずに、生まれつきの性質やとっさの直感で反応する"}
+],
+"usages": [
+{"title": "① 反応","desc": "とっさの","example_en": "Her instinctive reaction was to run.","example_ja": "彼女のとっさの反応は逃げることだった。"},
+{"title": "② 能力","desc": "本能的な","example_en": "He has an instinctive understanding of music.","example_ja": "彼は音楽を本能的に理解する力がある。"}
+],
+"warn": ["副詞は instinctively（本能的に・とっさに）。","「考えて身につけた」のではなく「もともと・とっさに」というニュアンス。"],
+"etym_note": "instinct（本能、ラテン語 instinctus「かき立てられた」から）＋-ive（〜の性質の）。「本能によるもの＝本能的な」を表す。",
+"etym_chain": [
+{"node": "instinctus","sub": "かき立てられた","era": "ラテン語"},
+{"node": "instinct + ive","sub": "本能の","era": "近代英語"},
+{"node": "instinctive","sub": "本能的な","era": "現代英語"}
+],
+"phrases": [
+{"en": "an instinctive reaction","ja": "とっさの反応"},
+{"en": "an instinctive response","ja": "本能的な反応"},
+{"en": "an instinctive feeling","ja": "直感的な感覚"},
+{"en": "instinctive behavior","ja": "本能的な行動"},
+{"en": "an instinctive fear","ja": "本能的な恐怖"},
+{"en": "almost instinctive","ja": "ほとんど本能的な"}
+],
+"related": [
+{"en": "instinct","ja": "本能"},
+{"en": "instinctively","ja": "本能的に"},
+{"en": "intuitive","ja": "直感的な"},
+{"en": "reflexive","ja": "反射的な"}
+],
+"faq": [
+{"q": "instinctive の意味は？","a": "「本能的な・直感的な」です。学んだり考えたりせず、生まれつきの性質やとっさの直感で反応する様子を表します。an instinctive reaction（とっさの反応）などです。"},
+{"q": "副詞形は？","a": "instinctively（本能的に・とっさに）です。He instinctively ducked.（彼はとっさに身をかがめた）のように使います。"}
+],
+"quiz": [
+{"q": "instinctive の意味は？","A": "本能的な・直感的な","B": "計画的な","C": "偶然の","D": "危険な","correct": "A"},
+{"q": "instinctive の名詞形は？","A": "instinct","B": "instance","C": "instrument","D": "institution","correct": "A"}
+]
+},
+{
+"english": "instructions",
+"pron": "ɪnˈstrʌkʃənz",
+"kana": "インストラクションズ",
+"hinshi": "名詞（複数形）",
+"ld_pos": "名詞",
+"ld_etym": "instruct（指示する）＋-ion（複数形）",
+"ld_level": "3級",
+"badges": ["中学生〜","英検3級","CEFR A2","基本語・日常"],
+"meaning_main": "指示・手順・使用説明書",
+"description": "instructions（インストラクションズ）は「指示」「手順」「使用説明書」。何かをするための具体的なやり方や命令を指す名詞。ふつう複数形で使う。follow the instructions（指示に従う）が典型。動詞は instruct（指示する）、単数の instruction は「指導・教授」。",
+"keywords": ["instructions 意味","instructions 使い方","指示 英語","使用説明書"],
+"meanings": [
+{"hinshi": "【名詞・複数】指示・手順・使用説明書","note": "何かをするための具体的なやり方や命令"}
+],
+"usages": [
+{"title": "① 指示","desc": "従う","example_en": "Please follow the instructions carefully.","example_ja": "指示を注意深く守ってください。"},
+{"title": "② 説明書","desc": "手順","example_en": "Read the instructions before using the machine.","example_ja": "機械を使う前に説明書を読みなさい。"}
+],
+"warn": ["「手順・使用説明書」の意味では複数形 instructions を使う。","単数の instruction は「指導・教授（教えること）」という不可算の意味。"],
+"etym_note": "instruct（指示する、ラテン語 instruere「組み立てる・教える」から）＋-ion（動作・結果を表す語尾）の複数形。「指示・手順」を表す。",
+"etym_chain": [
+{"node": "instruere","sub": "組み立てる・教える","era": "ラテン語"},
+{"node": "instruct + ions","sub": "指示","era": "近代英語"},
+{"node": "instructions","sub": "指示・手順","era": "現代英語"}
+],
+"phrases": [
+{"en": "follow the instructions","ja": "指示に従う"},
+{"en": "give instructions","ja": "指示を出す"},
+{"en": "read the instructions","ja": "説明書を読む"},
+{"en": "step-by-step instructions","ja": "手順を追った説明"},
+{"en": "instructions for use","ja": "使用法"},
+{"en": "detailed instructions","ja": "詳しい指示"}
+],
+"related": [
+{"en": "instruct","ja": "指示する"},
+{"en": "instruction","ja": "指導・指示"},
+{"en": "directions","ja": "指示・道順"},
+{"en": "manual","ja": "説明書"}
+],
+"faq": [
+{"q": "instructions の意味は？","a": "「指示・手順・使用説明書」です。何かをするための具体的なやり方や命令を指します。ふつう複数形で使い、follow the instructions（指示に従う）が典型です。"},
+{"q": "単数の instruction との違いは？","a": "複数の instructions は「（具体的な）指示・手順」、単数の instruction は「指導・教授（教えること全般）」という不可算の意味で使われることが多いです。"}
+],
+"quiz": [
+{"q": "instructions の意味は？","A": "指示・手順・使用説明書","B": "質問","C": "感想","D": "宣伝","correct": "A"},
+{"q": "follow the instructions の意味は？","A": "指示に従う","B": "指示を無視する","C": "指示を出す","D": "指示を疑う","correct": "A"}
+]
+},
+{
+"english": "insulator",
+"pron": "ˈɪnsəleɪtər",
+"kana": "インシュレーター",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "insulate（絶縁する）＋-or",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","科学・物理"],
+"meaning_main": "絶縁体・断熱材（電気や熱を通しにくいもの）",
+"description": "insulator（インシュレーター）は「絶縁体」「断熱材」。電気や熱、音などを通しにくい物質を指す。ゴム・ガラス・プラスチックなどが電気の絶縁体。conductor（導体）の反対。動詞 insulate（絶縁する・断熱する）＋-or。可算名詞。",
+"keywords": ["insulator 意味","insulator 使い方","絶縁体 英語","conductor 反対"],
+"meanings": [
+{"hinshi": "【名詞】絶縁体・断熱材","note": "電気や熱・音などを通しにくい物質"}
+],
+"usages": [
+{"title": "① 電気","desc": "電気を通さない","example_en": "Rubber is a good electrical insulator.","example_ja": "ゴムはよい電気の絶縁体だ。"},
+{"title": "② 熱","desc": "断熱材","example_en": "Wool is an effective insulator against cold.","example_ja": "ウールは寒さに対する効果的な断熱材だ。"}
+],
+"warn": ["対義語は conductor（導体・伝導体）。","電気を通しにくいものは電気絶縁体、熱を通しにくいものは断熱材。動詞は insulate。"],
+"etym_note": "insulate（島のように孤立させる、ラテン語 insula「島」から）＋-or（〜するもの）。「（電気・熱を）孤立させるもの＝絶縁体」を表す。",
+"etym_chain": [
+{"node": "insula","sub": "島","era": "ラテン語"},
+{"node": "insulate + or","sub": "孤立させるもの","era": "近代英語"},
+{"node": "insulator","sub": "絶縁体","era": "現代英語"}
+],
+"phrases": [
+{"en": "an electrical insulator","ja": "電気の絶縁体"},
+{"en": "a good insulator","ja": "よい絶縁体"},
+{"en": "a thermal insulator","ja": "断熱材"},
+{"en": "insulator and conductor","ja": "絶縁体と導体"},
+{"en": "act as an insulator","ja": "絶縁体として働く"},
+{"en": "a natural insulator","ja": "天然の絶縁体"}
+],
+"related": [
+{"en": "conductor","ja": "導体"},
+{"en": "insulate","ja": "絶縁する・断熱する"},
+{"en": "insulation","ja": "絶縁・断熱"},
+{"en": "resistance","ja": "抵抗"}
+],
+"faq": [
+{"q": "insulator の意味は？","a": "「絶縁体・断熱材」です。電気や熱、音などを通しにくい物質を指します。ゴム・ガラス・プラスチックなどが電気の絶縁体です。conductor（導体）の反対です。"},
+{"q": "conductor との違いは？","a": "insulator（絶縁体）は電気や熱を通しにくいもの、conductor（導体）は通しやすいものです。金属は導体、ゴムは絶縁体です。"}
+],
+"quiz": [
+{"q": "insulator の意味は？","A": "絶縁体・断熱材","B": "導体","C": "磁石","D": "電池","correct": "A"},
+{"q": "insulator の対義語は？","A": "conductor","B": "monitor","C": "director","D": "actor","correct": "A"}
+]
+},
+{
+"english": "insulting",
+"pron": "ɪnˈsʌltɪŋ",
+"kana": "インサルティング",
+"hinshi": "形容詞",
+"ld_pos": "形容詞",
+"ld_etym": "insult（侮辱する）＋-ing",
+"ld_level": "準1級",
+"badges": ["高校生〜","英検準1級","CEFR B2","感情・態度"],
+"meaning_main": "侮辱的な・無礼な・失礼な",
+"description": "insulting（インサルティング）は「侮辱的な」「無礼な」。相手の誇りや尊厳を傷つけるような、失礼な言動を表す形容詞。動詞 insult（侮辱する）＋-ing。an insulting remark（侮辱的な発言）のように使う。名詞は insult（侮辱）。",
+"keywords": ["insulting 意味","insulting 使い方","侮辱的な 英語","無礼な"],
+"meanings": [
+{"hinshi": "【形容詞】侮辱的な・無礼な・失礼な","note": "相手の誇りや尊厳を傷つけるような"}
+],
+"usages": [
+{"title": "① 発言","desc": "侮辱的な","example_en": "He made an insulting remark about her work.","example_ja": "彼は彼女の仕事について侮辱的な発言をした。"},
+{"title": "② 提案など","desc": "失礼な","example_en": "The offer was insulting.","example_ja": "その申し出は失礼なものだった。"}
+],
+"warn": ["動詞は insult（侮辱する）、名詞は insult（侮辱）。","be insulting to ～（〜に対して失礼だ）の形でも使う。"],
+"etym_note": "insult（ラテン語 insultare「跳びかかる・あざける」から）＋-ing。「侮辱するような＝侮辱的な」を表す。",
+"etym_chain": [
+{"node": "insultare","sub": "跳びかかる・あざける","era": "ラテン語"},
+{"node": "insult + ing","sub": "侮辱するような","era": "近代英語"},
+{"node": "insulting","sub": "侮辱的な","era": "現代英語"}
+],
+"phrases": [
+{"en": "an insulting remark","ja": "侮辱的な発言"},
+{"en": "insulting behavior","ja": "無礼なふるまい"},
+{"en": "be insulting to","ja": "〜に失礼である"},
+{"en": "deeply insulting","ja": "非常に侮辱的な"},
+{"en": "an insulting comment","ja": "侮辱的なコメント"},
+{"en": "find it insulting","ja": "侮辱と受け取る"}
+],
+"related": [
+{"en": "insult","ja": "侮辱する・侮辱"},
+{"en": "offensive","ja": "不快な・侮辱的な"},
+{"en": "rude","ja": "無礼な"},
+{"en": "demeaning","ja": "品位を傷つける"}
+],
+"faq": [
+{"q": "insulting の意味は？","a": "「侮辱的な・無礼な・失礼な」です。相手の誇りや尊厳を傷つけるような、失礼な言動を表します。an insulting remark（侮辱的な発言）などです。"},
+{"q": "動詞・名詞形は？","a": "どちらも insult です。動詞は「侮辱する」、名詞は「侮辱」です。"}
+],
+"quiz": [
+{"q": "insulting の意味は？","A": "侮辱的な・無礼な","B": "礼儀正しい","C": "楽しい","D": "静かな","correct": "A"},
+{"q": "insulting の名詞・動詞形は？","A": "insult","B": "insert","C": "insist","D": "inspect","correct": "A"}
+]
+},
+{
+"english": "insurmountable",
+"pron": "ˌɪnsərˈmaʊntəbəl",
+"kana": "インサーマウンタブル",
+"hinshi": "形容詞",
+"ld_pos": "形容詞",
+"ld_etym": "in-（否定）＋surmountable（乗り越えられる）",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","困難・表現"],
+"meaning_main": "克服できない・乗り越えられない",
+"description": "insurmountable（インサーマウンタブル）は「克服できない」「乗り越えられない」。困難・障害・問題があまりに大きく、どうしても乗り越えられないことを表す形容詞。surmountable（乗り越えられる）の反対。an insurmountable obstacle（乗り越えられない障害）のように使う。",
+"keywords": ["insurmountable 意味","insurmountable 使い方","克服できない 英語","乗り越えられない"],
+"meanings": [
+{"hinshi": "【形容詞】克服できない・乗り越えられない","note": "困難や障害が大きすぎて乗り越えられない"}
+],
+"usages": [
+{"title": "① 困難","desc": "克服できない","example_en": "The problems seemed insurmountable.","example_ja": "その問題は克服できないように思えた。"},
+{"title": "② 障害","desc": "乗り越えられない","example_en": "They faced an insurmountable obstacle.","example_ja": "彼らは乗り越えられない障害に直面した。"}
+],
+"warn": ["surmount（乗り越える・克服する）＋in-（否定）＋-able（〜できる）。","「困難・障害・問題」など、乗り越えるべきものに使う。"],
+"etym_note": "in-（否定）＋surmountable（乗り越えられる、surmount「乗り越える」＝sur-「上へ」＋mount「登る」から）。「乗り越えられない」を表す。",
+"etym_chain": [
+{"node": "surmount","sub": "乗り越える","era": "中英語"},
+{"node": "in + surmountable","sub": "乗り越えられない","era": "近代英語"},
+{"node": "insurmountable","sub": "克服できない","era": "現代英語"}
+],
+"phrases": [
+{"en": "an insurmountable obstacle","ja": "乗り越えられない障害"},
+{"en": "insurmountable problems","ja": "克服できない問題"},
+{"en": "an insurmountable barrier","ja": "越えられない壁"},
+{"en": "seem insurmountable","ja": "克服できないように思える"},
+{"en": "an insurmountable challenge","ja": "克服できない難題"},
+{"en": "an insurmountable lead","ja": "追いつけないリード"}
+],
+"related": [
+{"en": "surmountable","ja": "乗り越えられる"},
+{"en": "insuperable","ja": "克服できない"},
+{"en": "overwhelming","ja": "圧倒的な"},
+{"en": "impossible","ja": "不可能な"}
+],
+"faq": [
+{"q": "insurmountable の意味は？","a": "「克服できない・乗り越えられない」です。困難・障害・問題があまりに大きく、どうしても乗り越えられないことを表します。an insurmountable obstacle（乗り越えられない障害）などです。"},
+{"q": "もとになる動詞は？","a": "surmount（乗り越える・克服する）です。これに否定の in- と「〜できる」の -able が付いて「乗り越えられない」という意味になります。"}
+],
+"quiz": [
+{"q": "insurmountable の意味は？","A": "克服できない・乗り越えられない","B": "簡単に越えられる","C": "透明な","D": "小さな","correct": "A"},
+{"q": "insurmountable のもとになる動詞は？","A": "surmount（乗り越える）","B": "surround（囲む）","C": "surrender（降伏する）","D": "survive（生き残る）","correct": "A"}
+]
+},
+{
+"english": "insurrection",
+"pron": "ˌɪnsəˈrekʃən",
+"kana": "インサレクション",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "ラテン語 insurgere（立ち上がる）",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","政治・歴史"],
+"meaning_main": "反乱・暴動（政府・権力への武力による反抗）",
+"description": "insurrection（インサレクション）は「反乱」「暴動」。政府や権力に対して、民衆が武力で立ち上がって反抗することを表す名詞。rebellion（反乱）と近い。an armed insurrection（武装反乱）のように使う。可算・不可算どちらも。",
+"keywords": ["insurrection 意味","insurrection 使い方","反乱 英語","暴動 政府"],
+"meanings": [
+{"hinshi": "【名詞】反乱・暴動","note": "政府や権力に対して武力で立ち上がり反抗すること"}
+],
+"usages": [
+{"title": "① 政治","desc": "反乱","example_en": "The government crushed the insurrection.","example_ja": "政府はその反乱を鎮圧した。"},
+{"title": "② 武装蜂起","desc": "立ち上がる","example_en": "An armed insurrection broke out in the capital.","example_ja": "首都で武装反乱が勃発した。"}
+],
+"warn": ["rebellion（反乱）、uprising（蜂起）と近い。insurrection は「権力への武力反抗」を強調する。","動詞は insurgere 由来の insurgent（反乱者・反乱の）と関連。"],
+"etym_note": "ラテン語 insurgere（in-「〜に対して」＋surgere「立ち上がる」）の名詞形 insurrectio に由来。「立ち上がって反抗すること＝反乱」を表す。surge, resurgence と同語源。",
+"etym_chain": [
+{"node": "surgere","sub": "立ち上がる","era": "ラテン語"},
+{"node": "insurrectio","sub": "反乱","era": "ラテン語"},
+{"node": "insurrection","sub": "反乱","era": "現代英語"}
+],
+"phrases": [
+{"en": "an armed insurrection","ja": "武装反乱"},
+{"en": "crush an insurrection","ja": "反乱を鎮圧する"},
+{"en": "lead an insurrection","ja": "反乱を率いる"},
+{"en": "a violent insurrection","ja": "暴力的な反乱"},
+{"en": "incite insurrection","ja": "反乱をあおる"},
+{"en": "a popular insurrection","ja": "民衆の蜂起"}
+],
+"related": [
+{"en": "rebellion","ja": "反乱"},
+{"en": "uprising","ja": "蜂起"},
+{"en": "revolt","ja": "反乱"},
+{"en": "insurgent","ja": "反乱者・反乱の"}
+],
+"faq": [
+{"q": "insurrection の意味は？","a": "「反乱・暴動」です。政府や権力に対して、民衆が武力で立ち上がって反抗することを表します。an armed insurrection（武装反乱）などです。"},
+{"q": "rebellion との違いは？","a": "ほぼ同義ですが、insurrection は「権力への武力による反抗・蜂起」を強調するやや硬い語です。rebellion はより広く「反抗・反乱」を指します。"}
+],
+"quiz": [
+{"q": "insurrection の意味は？","A": "反乱・暴動","B": "服従","C": "祝賀","D": "交渉","correct": "A"},
+{"q": "crush an insurrection の意味は？","A": "反乱を鎮圧する","B": "反乱を起こす","C": "反乱を計画する","D": "反乱を称賛する","correct": "A"}
+]
+},
+{
+"english": "intemperate",
+"pron": "ɪnˈtempərət",
+"kana": "インテンペレット",
+"hinshi": "形容詞",
+"ld_pos": "形容詞",
+"ld_etym": "in-（否定）＋temperate（節度のある）",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","性格・文語"],
+"meaning_main": "節度のない・度を越した・（言動が）激しい",
+"description": "intemperate（インテンペレット）は「節度のない」「度を越した」。感情・言動・飲酒などが度を過ぎて、抑制がきかない様子を表す形容詞。temperate（節度のある・穏やかな）の反対。an intemperate outburst（度を越した怒りの爆発）のように使う。",
+"keywords": ["intemperate 意味","intemperate 使い方","節度のない 英語","temperate 反対"],
+"meanings": [
+{"hinshi": "【形容詞】節度のない・度を越した","note": "感情・言動・飲酒などが度を過ぎて抑制がきかない"}
+],
+"usages": [
+{"title": "① 言動","desc": "度を越した","example_en": "He made intemperate remarks in anger.","example_ja": "彼は怒りにまかせて度を越した発言をした。"},
+{"title": "② 飲酒など","desc": "節度がない","example_en": "His intemperate drinking ruined his health.","example_ja": "彼の節度のない飲酒は健康を損なった。"}
+],
+"warn": ["対義語は temperate（節度のある・穏やかな）。in- は否定の接頭辞。","気候の temperate（温暖な）と同語源だが、intemperate は主に「言動・飲酒の度が過ぎる」意味で使う。"],
+"etym_note": "in-（否定）＋temperate（節度のある、ラテン語 temperare「適度に調節する」から）。「節度を欠いた＝度を越した」を表す。",
+"etym_chain": [
+{"node": "temperare","sub": "適度に調節する","era": "ラテン語"},
+{"node": "in + temperate","sub": "節度を欠いた","era": "近代英語"},
+{"node": "intemperate","sub": "節度のない","era": "現代英語"}
+],
+"phrases": [
+{"en": "intemperate remarks","ja": "度を越した発言"},
+{"en": "intemperate language","ja": "節度のない言葉遣い"},
+{"en": "intemperate drinking","ja": "節度のない飲酒"},
+{"en": "an intemperate outburst","ja": "激しい怒りの爆発"},
+{"en": "intemperate behavior","ja": "節度のないふるまい"},
+{"en": "intemperate criticism","ja": "度を越した批判"}
+],
+"related": [
+{"en": "temperate","ja": "節度のある・穏やかな"},
+{"en": "immoderate","ja": "度を越した"},
+{"en": "excessive","ja": "過度の"},
+{"en": "unrestrained","ja": "抑制のない"}
+],
+"faq": [
+{"q": "intemperate の意味は？","a": "「節度のない・度を越した」です。感情・言動・飲酒などが度を過ぎて、抑制がきかない様子を表します。temperate（節度のある）の反対です。"},
+{"q": "気候の temperate と関係ありますか？","a": "語源は同じ「適度に調節する」ですが、intemperate は主に「言動・飲酒の度が過ぎる」意味で使います。気候の意味では intemperate climate（厳しい気候）のように使うこともあります。"}
+],
+"quiz": [
+{"q": "intemperate の意味は？","A": "節度のない・度を越した","B": "節度のある","C": "裕福な","D": "静かな","correct": "A"},
+{"q": "intemperate の対義語は？","A": "temperate","B": "desperate","C": "separate","D": "accurate","correct": "A"}
+]
+},
+{
+"english": "intensification",
+"pron": "ɪnˌtensɪfɪˈkeɪʃən",
+"kana": "インテンシフィケーション",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "intensify（強める）＋-ation",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","抽象・表現"],
+"meaning_main": "強化・激化・増強（程度が強まること）",
+"description": "intensification（インテンシフィケーション）は「強化」「激化」。ある物事の程度や勢いが強まること、また強めることを表す名詞。動詞 intensify（強める・激化する）の名詞形。the intensification of conflict（紛争の激化）のように使う。不可算・可算どちらも。",
+"keywords": ["intensification 意味","intensification 使い方","強化 英語","激化"],
+"meanings": [
+{"hinshi": "【名詞】強化・激化・増強","note": "物事の程度や勢いが強まること、また強めること"}
+],
+"usages": [
+{"title": "① 激化","desc": "強まる","example_en": "There was an intensification of the fighting.","example_ja": "戦闘の激化があった。"},
+{"title": "② 強化","desc": "増強","example_en": "The intensification of efforts brought results.","example_ja": "取り組みの強化が結果をもたらした。"}
+],
+"warn": ["動詞は intensify（強める・激化する）、形容詞は intense（激しい・強烈な）。","「弱まること」を表す反対語は de-escalation（緩和）や reduction（削減）など。"],
+"etym_note": "intensify（intense「激しい」＋-ify）＋-ation（動作・結果を表す語尾）。「強めること・強まること＝強化・激化」を表す。intense はラテン語 intendere（張りつめる）から。",
+"etym_chain": [
+{"node": "intendere","sub": "張りつめる","era": "ラテン語"},
+{"node": "intensify + ation","sub": "強めること","era": "近代英語"},
+{"node": "intensification","sub": "強化・激化","era": "現代英語"}
+],
+"phrases": [
+{"en": "the intensification of conflict","ja": "紛争の激化"},
+{"en": "an intensification of efforts","ja": "取り組みの強化"},
+{"en": "the intensification of competition","ja": "競争の激化"},
+{"en": "a further intensification","ja": "さらなる激化"},
+{"en": "the intensification of the storm","ja": "嵐の強まり"},
+{"en": "call for intensification","ja": "強化を求める"}
+],
+"related": [
+{"en": "intensify","ja": "強める・激化する"},
+{"en": "intense","ja": "激しい・強烈な"},
+{"en": "escalation","ja": "拡大・激化"},
+{"en": "reinforcement","ja": "強化"}
+],
+"faq": [
+{"q": "intensification の意味は？","a": "「強化・激化・増強」です。ある物事の程度や勢いが強まること、また強めることを表します。動詞 intensify（強める・激化する）の名詞形です。"},
+{"q": "動詞形は？","a": "intensify（強める・激化する）です。形容詞は intense（激しい・強烈な）です。"}
+],
+"quiz": [
+{"q": "intensification の意味は？","A": "強化・激化・増強","B": "緩和","C": "分割","D": "削除","correct": "A"},
+{"q": "intensification の動詞形は？","A": "intensify","B": "intend","C": "interpret","D": "interrupt","correct": "A"}
+]
+},
+{
+"english": "intently",
+"pron": "ɪnˈtentli",
+"kana": "インテントリー",
+"hinshi": "副詞",
+"ld_pos": "副詞",
+"ld_etym": "intent（熱心な）＋-ly",
+"ld_level": "準1級",
+"badges": ["高校生〜","英検準1級","CEFR B2","様子・態度"],
+"meaning_main": "熱心に・一心に・じっと（集中して）",
+"description": "intently（インテントリー）は「熱心に」「一心に」。ほかに気を取られず、一つのことにじっと集中して取り組む様子を表す副詞。listen/watch intently（じっと聞く・見る）のように使う。形容詞 intent（熱心な・没頭した）の副詞形。",
+"keywords": ["intently 意味","intently 使い方","熱心に 英語","一心に"],
+"meanings": [
+{"hinshi": "【副詞】熱心に・一心に・じっと","note": "ほかに気を取られず一つのことに集中して"}
+],
+"usages": [
+{"title": "① 見る・聞く","desc": "じっと","example_en": "She listened intently to every word.","example_ja": "彼女は一言一言を熱心に聞いた。"},
+{"title": "② 集中","desc": "一心に","example_en": "He stared intently at the screen.","example_ja": "彼は画面をじっと見つめた。"}
+],
+"warn": ["listen/watch/stare intently（じっと聞く・見る・見つめる）が典型的な使い方。","形容詞は intent（熱心な・没頭した）。名詞の intent（意図）とは意味が異なる。"],
+"etym_note": "intent（熱心な・没頭した、ラテン語 intendere「張りつめる・注意を向ける」から）＋-ly。「注意を張りつめて＝一心に」を表す。",
+"etym_chain": [
+{"node": "intendere","sub": "注意を向ける","era": "ラテン語"},
+{"node": "intent + ly","sub": "熱心に","era": "近代英語"},
+{"node": "intently","sub": "一心に","era": "現代英語"}
+],
+"phrases": [
+{"en": "listen intently","ja": "熱心に聞く"},
+{"en": "watch intently","ja": "じっと見る"},
+{"en": "stare intently","ja": "じっと見つめる"},
+{"en": "gaze intently","ja": "一心に見入る"},
+{"en": "work intently","ja": "一心に取り組む"},
+{"en": "concentrate intently","ja": "一心に集中する"}
+],
+"related": [
+{"en": "intent","ja": "熱心な・没頭した"},
+{"en": "attentively","ja": "注意深く"},
+{"en": "closely","ja": "念入りに"},
+{"en": "eagerly","ja": "熱心に"}
+],
+"faq": [
+{"q": "intently の意味は？","a": "「熱心に・一心に・じっと」です。ほかに気を取られず、一つのことにじっと集中して取り組む様子を表します。listen/watch intently（じっと聞く・見る）などです。"},
+{"q": "形容詞形は？","a": "intent（熱心な・没頭した）です。be intent on ～（〜に没頭している・〜しようと決めている）のように使います。"}
+],
+"quiz": [
+{"q": "intently の意味は？","A": "熱心に・一心に・じっと","B": "ぼんやりと","C": "急いで","D": "偶然に","correct": "A"},
+{"q": "listen intently の意味は？","A": "熱心に聞く","B": "聞き流す","C": "口をはさむ","D": "無視する","correct": "A"}
+]
+},
+{
+"english": "intercession",
+"pron": "ˌɪntərˈseʃən",
+"kana": "インターセッション",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "ラテン語 intercedere（間に入る）",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","宗教・仲介"],
+"meaning_main": "とりなし・仲裁／（宗教で）とりなしの祈り",
+"description": "intercession（インターセッション）は「とりなし」「仲裁」。争っている者の間に入って和解を図ったり、他人のために助けや許しを願い出たりすることを表す名詞。宗教では「（他者のための）とりなしの祈り」を指す。動詞は intercede。",
+"keywords": ["intercession 意味","intercession 使い方","とりなし 英語","仲裁 祈り"],
+"meanings": [
+{"hinshi": "【名詞】とりなし・仲裁","note": "間に入って和解を図る、他人のために願い出ること"},
+{"hinshi": "【名詞】とりなしの祈り","note": "宗教で、他者のために神に願う祈り"}
+],
+"usages": [
+{"title": "① 仲裁","desc": "とりなす","example_en": "Through his intercession, they were reconciled.","example_ja": "彼のとりなしによって、彼らは和解した。"},
+{"title": "② 宗教","desc": "祈り","example_en": "They prayed for the intercession of the saints.","example_ja": "彼らは聖人のとりなしを祈った。"}
+],
+"warn": ["動詞は intercede（間に入る・とりなす）。intercede for ～（〜のためにとりなす）。","「間に入る」の inter-（間）＋cede（行く）が語源。"],
+"etym_note": "ラテン語 intercedere（inter-「間に」＋cedere「行く」＝間に入る）の名詞形 intercessio に由来。「間に入ること＝とりなし・仲裁」を表す。",
+"etym_chain": [
+{"node": "intercedere","sub": "間に入る","era": "ラテン語"},
+{"node": "intercessio","sub": "とりなし","era": "ラテン語"},
+{"node": "intercession","sub": "とりなし・仲裁","era": "現代英語"}
+],
+"phrases": [
+{"en": "through his intercession","ja": "彼のとりなしによって"},
+{"en": "divine intercession","ja": "神のとりなし"},
+{"en": "an intercession for peace","ja": "平和のためのとりなし"},
+{"en": "prayers of intercession","ja": "とりなしの祈り"},
+{"en": "seek intercession","ja": "とりなしを求める"},
+{"en": "the intercession of the saints","ja": "聖人のとりなし"}
+],
+"related": [
+{"en": "intercede","ja": "とりなす・間に入る"},
+{"en": "mediation","ja": "仲裁"},
+{"en": "intervention","ja": "介入"},
+{"en": "plea","ja": "嘆願"}
+],
+"faq": [
+{"q": "intercession の意味は？","a": "「とりなし・仲裁」です。争っている者の間に入って和解を図ったり、他人のために助けや許しを願い出たりすることを表します。宗教では「とりなしの祈り」を指します。"},
+{"q": "動詞形は？","a": "intercede（間に入る・とりなす）です。intercede for someone（人のためにとりなす）のように使います。"}
+],
+"quiz": [
+{"q": "intercession の意味は？","A": "とりなし・仲裁","B": "妨害","C": "無視","D": "支配","correct": "A"},
+{"q": "intercession の動詞形は？","A": "intercede","B": "interfere","C": "interrupt","D": "interact","correct": "A"}
+]
+},
+{
+"english": "interchangeable",
+"pron": "ˌɪntərˈtʃeɪndʒəbəl",
+"kana": "インターチェンジャブル",
+"hinshi": "形容詞",
+"ld_pos": "形容詞",
+"ld_etym": "interchange（交換する）＋-able",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","技術・言語"],
+"meaning_main": "互いに交換できる・入れ替え可能な",
+"description": "interchangeable（インターチェンジャブル）は「互いに交換できる」「入れ替え可能な」。二つ以上のものが、同じ働きをするため入れ替えても問題ないことを表す形容詞。部品や語句などに使う。interchange（交換する）＋-able。副詞は interchangeably。",
+"keywords": ["interchangeable 意味","interchangeable 使い方","交換できる 英語","入れ替え可能"],
+"meanings": [
+{"hinshi": "【形容詞】互いに交換できる・入れ替え可能な","note": "同じ働きをするため入れ替えても問題ない"}
+],
+"usages": [
+{"title": "① 部品","desc": "交換できる","example_en": "The parts are interchangeable.","example_ja": "その部品は互いに交換できる。"},
+{"title": "② 語句","desc": "同義に使える","example_en": "These two words are often used interchangeably.","example_ja": "この二つの語はしばしば同じ意味で使われる。"}
+],
+"warn": ["副詞 interchangeably（同じように・交換して）でよく使う（used interchangeably＝同義で使われる）。","inter-（互いに）＋change（変える）＋-able（〜できる）。"],
+"etym_note": "interchange（inter-「互いに」＋change「変える」＝交換する）＋-able（〜できる）。「互いに交換できる」を表す。",
+"etym_chain": [
+{"node": "inter + change","sub": "互いに変える","era": "中英語"},
+{"node": "interchange + able","sub": "交換できる","era": "近代英語"},
+{"node": "interchangeable","sub": "交換できる","era": "現代英語"}
+],
+"phrases": [
+{"en": "interchangeable parts","ja": "互換部品"},
+{"en": "used interchangeably","ja": "同じ意味で使われる"},
+{"en": "interchangeable terms","ja": "入れ替え可能な用語"},
+{"en": "become interchangeable","ja": "交換可能になる"},
+{"en": "almost interchangeable","ja": "ほとんど同義の"},
+{"en": "interchangeable lenses","ja": "交換レンズ"}
+],
+"related": [
+{"en": "interchange","ja": "交換する"},
+{"en": "exchangeable","ja": "交換できる"},
+{"en": "compatible","ja": "互換性のある"},
+{"en": "equivalent","ja": "同等の"}
+],
+"faq": [
+{"q": "interchangeable の意味は？","a": "「互いに交換できる・入れ替え可能な」です。二つ以上のものが、同じ働きをするため入れ替えても問題ないことを表します。部品や語句などに使います。"},
+{"q": "used interchangeably とは？","a": "「同じ意味で（交換して）使われる」という表現です。二つの語がほぼ同義で使われることを説明するときによく用います。"}
+],
+"quiz": [
+{"q": "interchangeable の意味は？","A": "互いに交換できる・入れ替え可能な","B": "一つしかない","C": "壊れやすい","D": "高価な","correct": "A"},
+{"q": "used interchangeably の意味は？","A": "同じ意味で使われる","B": "別々に使われる","C": "禁止されている","D": "廃止された","correct": "A"}
+]
+},
+{
+"english": "interested",
+"pron": "ˈɪntrəstɪd",
+"kana": "インタレステッド",
+"hinshi": "形容詞",
+"ld_pos": "形容詞",
+"ld_etym": "interest（興味）＋-ed",
+"ld_level": "5級",
+"badges": ["小学生〜","英検5級","CEFR A1","基本語・感情"],
+"meaning_main": "興味を持った・関心がある",
+"description": "interested（インタレステッド）は「興味を持った」「関心がある」。何かに心を引かれ、もっと知りたい・関わりたいと感じる状態を表す形容詞。be interested in ～（〜に興味がある）の形で使う。interesting（興味深い）と混同しないよう注意。",
+"keywords": ["interested 意味","interested 使い方","興味がある 英語","interesting 違い"],
+"meanings": [
+{"hinshi": "【形容詞】興味を持った・関心がある","note": "何かに心を引かれ、もっと知りたいと感じる状態"}
+],
+"usages": [
+{"title": "① 興味","desc": "興味がある","example_en": "I am interested in history.","example_ja": "私は歴史に興味がある。"},
+{"title": "② 関心","desc": "関わりたい","example_en": "She seemed interested in the offer.","example_ja": "彼女はその申し出に関心があるようだった。"}
+],
+"warn": ["be interested in ～（〜に興味がある）の形で使う。前置詞は in。","interested（人が興味を持った）と interesting（物事が興味深い）を混同しないこと。"],
+"etym_note": "interest（興味、ラテン語 interesse「関わる・重要である」から）＋-ed（〜させられた状態）。「興味を持たされた＝興味がある」を表す。",
+"etym_chain": [
+{"node": "interesse","sub": "関わる","era": "ラテン語"},
+{"node": "interest + ed","sub": "興味を持った","era": "近代英語"},
+{"node": "interested","sub": "興味を持った","era": "現代英語"}
+],
+"phrases": [
+{"en": "be interested in","ja": "〜に興味がある"},
+{"en": "become interested","ja": "興味を持つ"},
+{"en": "deeply interested","ja": "深く関心を持って"},
+{"en": "interested parties","ja": "関係者・利害関係者"},
+{"en": "genuinely interested","ja": "本当に関心がある"},
+{"en": "not interested","ja": "興味がない"}
+],
+"related": [
+{"en": "interesting","ja": "興味深い"},
+{"en": "interest","ja": "興味"},
+{"en": "curious","ja": "好奇心のある"},
+{"en": "keen","ja": "熱心な"}
+],
+"faq": [
+{"q": "interested と interesting の違いは？","a": "interested は「（人が）興味を持った」、interesting は「（物事が）興味深い」です。I am interested in the book.（私はその本に興味がある）／The book is interesting.（その本は興味深い）のように使い分けます。"},
+{"q": "前置詞は？","a": "in を使います。be interested in ～（〜に興味がある）です。"}
+],
+"quiz": [
+{"q": "interested の意味は？","A": "興味を持った","B": "退屈した","C": "怒った","D": "疲れた","correct": "A"},
+{"q": "「私は音楽に興味がある」は？","A": "I am interested in music.","B": "I am interesting music.","C": "I am interest music.","D": "I am interested music.","correct": "A"}
+]
+},
+{
+"english": "interfaith",
+"pron": "ˌɪntərˈfeɪθ",
+"kana": "インターフェイス",
+"hinshi": "形容詞",
+"ld_pos": "形容詞",
+"ld_etym": "inter-（間の）＋faith（信仰）",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","宗教・社会"],
+"meaning_main": "異なる宗教間の・宗派を超えた",
+"description": "interfaith（インターフェイス）は「異なる宗教間の」「宗派を超えた」。複数の宗教・信仰の人々が関わり合うことを表す形容詞。interfaith dialogue（宗教間の対話）のように使う。inter-（間の）＋faith（信仰）。",
+"keywords": ["interfaith 意味","interfaith 使い方","異宗教間の 英語","宗派を超えた"],
+"meanings": [
+{"hinshi": "【形容詞】異なる宗教間の・宗派を超えた","note": "複数の宗教・信仰の人々が関わり合う"}
+],
+"usages": [
+{"title": "① 対話","desc": "宗教間の","example_en": "They held an interfaith dialogue.","example_ja": "彼らは宗教間の対話を行った。"},
+{"title": "② 協力","desc": "宗派を超えた","example_en": "The event promoted interfaith understanding.","example_ja": "そのイベントは宗教間の理解を促進した。"}
+],
+"warn": ["inter-（間の）＋faith（信仰・宗教）。similar な語に interfaith marriage（異宗教間結婚）。","つづり・発音が interface（境界面）と似るが別語。"],
+"etym_note": "inter-（〜の間の、ラテン語 inter「間に」）＋faith（信仰、ラテン語 fides から）。「異なる信仰の間の＝宗教間の」を表す。",
+"etym_chain": [
+{"node": "inter + faith","sub": "信仰の間の","era": "近代英語"},
+{"node": "interfaith","sub": "宗教間の","era": "20世紀 英語"},
+{"node": "interfaith","sub": "宗教間の","era": "現代英語"}
+],
+"phrases": [
+{"en": "interfaith dialogue","ja": "宗教間の対話"},
+{"en": "interfaith understanding","ja": "宗教間の理解"},
+{"en": "an interfaith marriage","ja": "異宗教間結婚"},
+{"en": "interfaith cooperation","ja": "宗教間の協力"},
+{"en": "an interfaith service","ja": "合同礼拝"},
+{"en": "interfaith harmony","ja": "宗教間の調和"}
+],
+"related": [
+{"en": "faith","ja": "信仰"},
+{"en": "religion","ja": "宗教"},
+{"en": "ecumenical","ja": "全キリスト教的な"},
+{"en": "multifaith","ja": "多宗教の"}
+],
+"faq": [
+{"q": "interfaith の意味は？","a": "「異なる宗教間の・宗派を超えた」です。複数の宗教・信仰の人々が関わり合うことを表します。interfaith dialogue（宗教間の対話）のように使います。"},
+{"q": "interface と同じですか？","a": "いいえ、別語です。interfaith は「宗教間の」、interface は「境界面・接点」です。つづりと発音が似ていますが混同に注意しましょう。"}
+],
+"quiz": [
+{"q": "interfaith の意味は？","A": "異なる宗教間の","B": "同じ宗教内の","C": "無宗教の","D": "国際的な","correct": "A"},
+{"q": "interfaith dialogue の意味は？","A": "宗教間の対話","B": "外交交渉","C": "商談","D": "討論会","correct": "A"}
+]
+},
+{
+"english": "interfering",
+"pron": "ˌɪntərˈfɪərɪŋ",
+"kana": "インターフィアリング",
+"hinshi": "形容詞",
+"ld_pos": "形容詞",
+"ld_etym": "interfere（干渉する）＋-ing",
+"ld_level": "準1級",
+"badges": ["高校生〜","英検準1級","CEFR B2","性格・態度"],
+"meaning_main": "おせっかいな・干渉する・でしゃばりの",
+"description": "interfering（インターフィアリング）は「おせっかいな」「干渉する」。頼まれてもいないのに他人のことに口を出し、余計な手出しをする様子を表す形容詞。動詞 interfere（干渉する・邪魔する）＋-ing。an interfering neighbor（おせっかいな隣人）のように使う。",
+"keywords": ["interfering 意味","interfering 使い方","おせっかいな 英語","干渉する"],
+"meanings": [
+{"hinshi": "【形容詞】おせっかいな・干渉する・でしゃばりの","note": "頼まれてもいないのに他人のことに口を出す"}
+],
+"usages": [
+{"title": "① 人","desc": "おせっかいな","example_en": "She has an interfering mother-in-law.","example_ja": "彼女にはおせっかいな義母がいる。"},
+{"title": "② 態度","desc": "干渉する","example_en": "Stop being so interfering.","example_ja": "そんなに干渉するのはやめなさい。"}
+],
+"warn": ["動詞は interfere（干渉する・邪魔する）。interfere in/with ～の形で使う。","「よけいな口出しをする」という否定的なニュアンス。"],
+"etym_note": "interfere（inter-「間に」＋ferire「打つ」＝間に割って入る）＋-ing。「（他人のことに）割り込む＝おせっかいな」を表す。",
+"etym_chain": [
+{"node": "interfere","sub": "割って入る・干渉する","era": "中英語"},
+{"node": "interfere + ing","sub": "干渉する","era": "近代英語"},
+{"node": "interfering","sub": "おせっかいな","era": "現代英語"}
+],
+"phrases": [
+{"en": "an interfering neighbor","ja": "おせっかいな隣人"},
+{"en": "an interfering busybody","ja": "でしゃばりのおせっかい"},
+{"en": "stop interfering","ja": "干渉するのをやめる"},
+{"en": "an interfering parent","ja": "干渉しすぎる親"},
+{"en": "overly interfering","ja": "過度に干渉する"},
+{"en": "an interfering attitude","ja": "おせっかいな態度"}
+],
+"related": [
+{"en": "interfere","ja": "干渉する・邪魔する"},
+{"en": "interference","ja": "干渉"},
+{"en": "meddling","ja": "おせっかいな"},
+{"en": "intrusive","ja": "でしゃばりの"}
+],
+"faq": [
+{"q": "interfering の意味は？","a": "「おせっかいな・干渉する・でしゃばりの」です。頼まれてもいないのに他人のことに口を出し、余計な手出しをする様子を表します。an interfering neighbor（おせっかいな隣人）などです。"},
+{"q": "動詞形は？","a": "interfere（干渉する・邪魔する）です。interfere in someone's affairs（人のことに干渉する）のように使います。"}
+],
+"quiz": [
+{"q": "interfering の意味は？","A": "おせっかいな・干渉する","B": "控えめな","C": "親切な","D": "静かな","correct": "A"},
+{"q": "interfering の動詞形は？","A": "interfere","B": "interpret","C": "interview","D": "interact","correct": "A"}
+]
+},
+{
+"english": "intergenerational",
+"pron": "ˌɪntərˌdʒenəˈreɪʃənəl",
+"kana": "インタージェネレーショナル",
+"hinshi": "形容詞",
+"ld_pos": "形容詞",
+"ld_etym": "inter-（間の）＋generational（世代の）",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","社会"],
+"meaning_main": "世代間の・異なる世代にまたがる",
+"description": "intergenerational（インタージェネレーショナル）は「世代間の」「異なる世代にまたがる」。若い世代と年上の世代など、複数の世代の間で起こることや、世代を超えて受け継がれることを表す形容詞。inter-（間の）＋generation（世代）。",
+"keywords": ["intergenerational 意味","intergenerational 使い方","世代間の 英語","世代を超えた"],
+"meanings": [
+{"hinshi": "【形容詞】世代間の・異なる世代にまたがる","note": "複数の世代の間で起こる、世代を超えて受け継がれる"}
+],
+"usages": [
+{"title": "① 交流","desc": "世代間の","example_en": "The program encourages intergenerational contact.","example_ja": "そのプログラムは世代間の交流を促す。"},
+{"title": "② 継承","desc": "世代を超えた","example_en": "Intergenerational poverty is hard to break.","example_ja": "世代を超えて続く貧困は断ち切るのが難しい。"}
+],
+"warn": ["inter-（間の）＋generational（世代の）。","「世代間の交流・格差・継承」など、複数世代にまたがる事柄に使う。"],
+"etym_note": "inter-（〜の間の）＋generational（世代の、generation「世代」＋-al から）。「世代の間の＝世代間の」を表す。generation はラテン語 generare（生む）から。",
+"etym_chain": [
+{"node": "generatio","sub": "世代","era": "ラテン語"},
+{"node": "inter + generational","sub": "世代の間の","era": "20世紀 英語"},
+{"node": "intergenerational","sub": "世代間の","era": "現代英語"}
+],
+"phrases": [
+{"en": "intergenerational contact","ja": "世代間の交流"},
+{"en": "intergenerational conflict","ja": "世代間の対立"},
+{"en": "intergenerational poverty","ja": "世代を超えた貧困"},
+{"en": "intergenerational equity","ja": "世代間の公平"},
+{"en": "intergenerational transfer","ja": "世代間の移転"},
+{"en": "intergenerational learning","ja": "世代間の学び合い"}
+],
+"related": [
+{"en": "generation","ja": "世代"},
+{"en": "generational","ja": "世代の"},
+{"en": "cross-generational","ja": "世代を超えた"},
+{"en": "heritage","ja": "遺産・継承"}
+],
+"faq": [
+{"q": "intergenerational の意味は？","a": "「世代間の・異なる世代にまたがる」です。若い世代と年上の世代など、複数の世代の間で起こることや、世代を超えて受け継がれることを表します。"},
+{"q": "どんな場面で使いますか？","a": "intergenerational contact（世代間の交流）、intergenerational conflict（世代間の対立）、intergenerational poverty（世代を超えた貧困）など、複数世代にまたがる事柄に使います。"}
+],
+"quiz": [
+{"q": "intergenerational の意味は？","A": "世代間の・異なる世代にまたがる","B": "同世代だけの","C": "国際的な","D": "個人的な","correct": "A"},
+{"q": "intergenerational conflict の意味は？","A": "世代間の対立","B": "国家間の紛争","C": "個人的な争い","D": "内戦","correct": "A"}
+]
+}
+]

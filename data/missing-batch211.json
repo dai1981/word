@@ -1,0 +1,988 @@
+[
+{
+"english": "embarkation",
+"pron": "ˌɛmbɑːrˈkeɪʃn",
+"kana": "エンバーケイション",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "ラテン語 barca（小舟）",
+"ld_level": "1級",
+"badges": ["大学生〜","旅行・軍事","英検1級","CEFR C1"],
+"meaning_main": "乗船／搭乗／（旅の）開始",
+"description": "embarkation（エンバーケイション）は「乗船・搭乗」。船や飛行機に乗り込むこと。動詞 embark の名詞形で、旅や事業の「開始」を表すこともある。反対は disembarkation。",
+"keywords": ["embarkation 意味","embarkation 乗船","embark 名詞"],
+"meanings": [
+{"hinshi": "【名詞】乗船・搭乗","note": "船や飛行機に乗り込むこと"}
+],
+"usages": [
+{"title": "① 乗船・搭乗","desc": "旅行・輸送で","example_en": "Embarkation begins one hour before departure.","example_ja": "乗船は出発の1時間前に始まる。"},
+{"title": "② 部隊の乗船","desc": "軍事の文脈","example_en": "The troops waited at the embarkation point.","example_ja": "部隊は乗船地点で待機した。"}
+],
+"warn": ["動詞は embark（乗り込む・着手する）。反対は disembarkation（下船）"],
+"etym_note": "ラテン語 barca（小舟）に由来する embark（乗り込む）の名詞形。「舟に乗せる」から。",
+"etym_chain": [
+{"node": "barca","sub": "小舟","era": "ラテン語"},
+{"node": "embark","sub": "乗り込む","era": "近代英語"},
+{"node": "embarkation","sub": "乗船","era": "現代英語"}
+],
+"phrases": [
+{"en": "embarkation point","ja": "乗船地点"},
+{"en": "embarkation card","ja": "出国カード"},
+{"en": "begin embarkation","ja": "乗船を始める"},
+{"en": "port of embarkation","ja": "乗船港"},
+{"en": "embarkation of troops","ja": "部隊の乗船"},
+{"en": "prior to embarkation","ja": "乗船前に"}
+],
+"related": [
+{"en": "embark","ja": "乗り込む"},
+{"en": "boarding","ja": "搭乗"},
+{"en": "disembarkation","ja": "下船"},
+{"en": "departure","ja": "出発"}
+],
+"faq": [
+{"q": "embarkation の反対は？","a": "disembarkation（下船・降機）です。"},
+{"q": "embark の比喩的な意味は？","a": "embark on ~ で「（事業などに）着手する」という意味もあります。"}
+],
+"quiz": [
+{"q": "embarkation の意味は？","A": "乗船・搭乗","B": "下船","C": "遅延","D": "欠航","correct": "A"},
+{"q": "embarkation の反対は？","A": "disembarkation","B": "departure","C": "arrival","D": "boarding","correct": "A"}
+]
+},
+{
+"english": "embed",
+"pron": "ɪmˈbɛd",
+"kana": "エンベッド",
+"hinshi": "動詞",
+"ld_pos": "動詞",
+"ld_etym": "em-（中へ）+ bed（土台・寝床）",
+"ld_level": "準1級",
+"badges": ["高校生〜","IT・一般","英検準1級","CEFR B2"],
+"meaning_main": "埋め込む／組み込む／深く根づかせる",
+"description": "embed（エンベッド）は「埋め込む・組み込む」。物を何かの中にしっかり入れ込むこと。ウェブに動画を埋め込む、記者を部隊に同行させるなど幅広く使う。",
+"keywords": ["embed 意味","embed 埋め込む","embed 動画"],
+"meanings": [
+{"hinshi": "【動詞】埋め込む・組み込む","note": "物を中にしっかり入れ込む"},
+{"hinshi": "【動詞】深く根づかせる","note": "考えや価値観を深く定着させる"}
+],
+"usages": [
+{"title": "① 物を埋め込む","desc": "しっかり入れ込む","example_en": "The glass was embedded in his foot.","example_ja": "ガラスが彼の足に食い込んでいた。"},
+{"title": "② ウェブに組み込む","desc": "動画・地図など","example_en": "You can embed the video in your blog.","example_ja": "その動画をブログに埋め込むことができる。"}
+],
+"warn": ["過去形は embedded（dを重ねる）。embedded system（組み込みシステム）も頻出"],
+"etym_note": "em-（中へ）+ bed（土台・寝床）からなる語。「土台の中に入れる」が原義。",
+"etym_chain": [
+{"node": "bed","sub": "土台・寝床","era": "古英語"},
+{"node": "embed","sub": "埋め込む","era": "近代英語"}
+],
+"phrases": [
+{"en": "embed a video","ja": "動画を埋め込む"},
+{"en": "deeply embedded","ja": "深く根づいた"},
+{"en": "embedded in the wall","ja": "壁に埋め込まれて"},
+{"en": "an embedded system","ja": "組み込みシステム"},
+{"en": "embed a link","ja": "リンクを埋め込む"},
+{"en": "embed a reporter","ja": "記者を部隊に同行させる"}
+],
+"related": [
+{"en": "insert","ja": "挿入する"},
+{"en": "implant","ja": "植え込む"},
+{"en": "embedded","ja": "埋め込まれた"},
+{"en": "integrate","ja": "組み込む"}
+],
+"faq": [
+{"q": "embed の過去形は？","a": "embedded です（d を重ねます）。"},
+{"q": "embedded system とは？","a": "家電や機器の中に組み込まれた、専用の小型コンピュータシステムです。"}
+],
+"quiz": [
+{"q": "embed の意味は？","A": "埋め込む・組み込む","B": "取り出す","C": "壊す","D": "投げる","correct": "A"},
+{"q": "embed の過去形は？","A": "embedded","B": "embeded","C": "embad","D": "embode","correct": "A"}
+]
+},
+{
+"english": "embellish",
+"pron": "ɪmˈbɛlɪʃ",
+"kana": "エンベリッシュ",
+"hinshi": "動詞",
+"ld_pos": "動詞",
+"ld_etym": "古フランス語 embellir（美しくする）",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","フォーマル"],
+"meaning_main": "装飾する／飾り立てる／（話を）誇張する",
+"description": "embellish（エンベリッシュ）は「装飾する・飾り立てる」。物を美しく飾ること。また、話に尾ひれを付けて「誇張する・盛る」という意味でも使う。",
+"keywords": ["embellish 意味","embellish 装飾","embellish 誇張"],
+"meanings": [
+{"hinshi": "【動詞】装飾する・飾り立てる","note": "美しく飾りを加える"},
+{"hinshi": "【動詞】（話を）誇張する","note": "尾ひれを付けて大げさにする"}
+],
+"usages": [
+{"title": "① 美しく飾る","desc": "装飾を加える","example_en": "The dress was embellished with beads.","example_ja": "そのドレスはビーズで飾られていた。"},
+{"title": "② 話を盛る","desc": "誇張して語る","example_en": "He embellished the story to make it funnier.","example_ja": "彼はもっと面白くするために話を誇張した。"}
+],
+"warn": ["名詞は embellishment（装飾・脚色）。beauty（美）と同語源"],
+"etym_note": "古フランス語 embellir（en + bel 美しい）に由来。「美しくする」が原義。",
+"etym_chain": [
+{"node": "bel","sub": "美しい","era": "古フランス語"},
+{"node": "embellir","sub": "美しくする","era": "古フランス語"},
+{"node": "embellish","sub": "装飾する","era": "現代英語"}
+],
+"phrases": [
+{"en": "embellish a dress","ja": "ドレスを飾る"},
+{"en": "embellish a story","ja": "話を誇張する"},
+{"en": "richly embellished","ja": "豪華に装飾された"},
+{"en": "embellish with gold","ja": "金で飾る"},
+{"en": "embellish the truth","ja": "事実を脚色する"},
+{"en": "embellish a design","ja": "デザインに飾りを加える"}
+],
+"related": [
+{"en": "decorate","ja": "装飾する"},
+{"en": "adorn","ja": "飾る"},
+{"en": "exaggerate","ja": "誇張する"},
+{"en": "embellishment","ja": "装飾・脚色"}
+],
+"faq": [
+{"q": "embellish と decorate の違いは？","a": "どちらも「飾る」ですが、embellish は「細部に美しさを加える・話を盛る」ニュアンスがあります。"},
+{"q": "名詞形は？","a": "embellishment（装飾・脚色）です。"}
+],
+"quiz": [
+{"q": "embellish の意味は？","A": "装飾する・誇張する","B": "壊す","C": "隠す","D": "捨てる","correct": "A"},
+{"q": "embellish と同語源の意味は？","A": "美しい","B": "強い","C": "速い","D": "重い","correct": "A"}
+]
+},
+{
+"english": "embezzle",
+"pron": "ɪmˈbɛzl",
+"kana": "エンベズル",
+"hinshi": "動詞",
+"ld_pos": "動詞",
+"ld_etym": "アングロ・フランス語 embesiler（横取りする）",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","法律・ビジネス"],
+"meaning_main": "（預かった金を）横領する／着服する",
+"description": "embezzle（エンベズル）は「（預かった金を）横領する・着服する」。仕事などで管理を任された金を、こっそり自分のものにすること。犯罪を表す法律・ビジネスの語。",
+"keywords": ["embezzle 意味","embezzle 横領","embezzle 着服"],
+"meanings": [
+{"hinshi": "【動詞】横領する・着服する","note": "預かり管理する金を不正に自分のものにする"}
+],
+"usages": [
+{"title": "① 会社の金を横領","desc": "任された金を着服","example_en": "The accountant embezzled company funds.","example_ja": "その経理担当は会社の資金を横領した。"},
+{"title": "② 発覚と処罰","desc": "犯罪として問われる","example_en": "He was jailed for embezzling millions.","example_ja": "彼は数百万を横領して投獄された。"}
+],
+"warn": ["名詞は embezzlement（横領）。steal（盗む）と違い「預かったものを着服」する点が特徴"],
+"etym_note": "アングロ・フランス語 embesiler（横取りする・そこなう）に由来する語。",
+"etym_chain": [
+{"node": "embesiler","sub": "横取りする","era": "アングロ・フランス語"},
+{"node": "embezzle","sub": "横領する","era": "現代英語"}
+],
+"phrases": [
+{"en": "embezzle funds","ja": "資金を横領する"},
+{"en": "embezzle money","ja": "金を着服する"},
+{"en": "embezzle from a company","ja": "会社から横領する"},
+{"en": "be caught embezzling","ja": "横領で捕まる"},
+{"en": "embezzle public money","ja": "公金を横領する"},
+{"en": "embezzle millions","ja": "数百万を横領する"}
+],
+"related": [
+{"en": "embezzlement","ja": "横領"},
+{"en": "steal","ja": "盗む"},
+{"en": "defraud","ja": "だまし取る"},
+{"en": "misappropriate","ja": "不正流用する"}
+],
+"faq": [
+{"q": "embezzle と steal の違いは？","a": "steal は「盗む」全般、embezzle は「管理を任された金を着服する」ことです。"},
+{"q": "名詞形は？","a": "embezzlement（横領）です。"}
+],
+"quiz": [
+{"q": "embezzle の意味は？","A": "預かった金を横領する","B": "寄付する","C": "貯金する","D": "両替する","correct": "A"},
+{"q": "embezzle の名詞形は？","A": "embezzlement","B": "embargo","C": "emblem","D": "ember","correct": "A"}
+]
+},
+{
+"english": "embolism",
+"pron": "ˈɛmbəlɪzəm",
+"kana": "エンボリズム",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "ギリシャ語 embolos（詰め込むもの）",
+"ld_level": "1級",
+"badges": ["大学生〜","医療用語","英検1級","CEFR C1"],
+"meaning_main": "塞栓症（血管が詰まる病気）",
+"description": "embolism（エンボリズム）は「塞栓症」。血のかたまりや空気の泡などが血管に詰まり、血流を妨げる病気。肺塞栓症などが知られる医療用語。",
+"keywords": ["embolism 意味","塞栓症 英語","embolism 血管"],
+"meanings": [
+{"hinshi": "【名詞】塞栓症","note": "血のかたまりや泡が血管に詰まり血流を妨げる病気"}
+],
+"usages": [
+{"title": "① 血管の詰まり","desc": "血流が止まる","example_en": "A blood clot can cause a pulmonary embolism.","example_ja": "血のかたまりが肺塞栓症を引き起こすことがある。"},
+{"title": "② 長時間の同姿勢の危険","desc": "エコノミークラス症候群","example_en": "Sitting still for hours raises the risk of an embolism.","example_ja": "何時間も動かないでいると塞栓症の危険が高まる。"}
+],
+"warn": ["詰まる原因物質は embolus（塞栓）。thrombosis（血栓症）と関連するが別概念"],
+"etym_note": "ギリシャ語 embolos（詰め込むもの。en 中へ + ballein 投げる）に由来。「押し込まれたもの」から。",
+"etym_chain": [
+{"node": "ballein","sub": "投げる","era": "ギリシャ語"},
+{"node": "embolos","sub": "詰め込むもの","era": "ギリシャ語"},
+{"node": "embolism","sub": "塞栓症","era": "現代英語"}
+],
+"phrases": [
+{"en": "a pulmonary embolism","ja": "肺塞栓症"},
+{"en": "an air embolism","ja": "空気塞栓症"},
+{"en": "cause an embolism","ja": "塞栓症を引き起こす"},
+{"en": "risk of embolism","ja": "塞栓症の危険"},
+{"en": "a cerebral embolism","ja": "脳塞栓症"},
+{"en": "prevent an embolism","ja": "塞栓症を防ぐ"}
+],
+"related": [
+{"en": "thrombosis","ja": "血栓症"},
+{"en": "clot","ja": "血のかたまり"},
+{"en": "stroke","ja": "脳卒中"},
+{"en": "artery","ja": "動脈"}
+],
+"faq": [
+{"q": "embolism と thrombosis の違いは？","a": "thrombosis は血管内で血栓ができること、embolism はそれが流れて別の血管を詰まらせることです。"},
+{"q": "肺塞栓症とは？","a": "血のかたまりが肺の血管を詰まらせる、命に関わる病気です。"}
+],
+"quiz": [
+{"q": "embolism の意味は？","A": "塞栓症（血管が詰まる病気）","B": "骨折","C": "風邪","D": "貧血","correct": "A"},
+{"q": "血管を詰まらせる原因物質は？","A": "embolus","B": "emblem","C": "ember","D": "emboss","correct": "A"}
+]
+},
+{
+"english": "embroil",
+"pron": "ɪmˈbrɔɪl",
+"kana": "エンブロイル",
+"hinshi": "動詞",
+"ld_pos": "動詞",
+"ld_etym": "フランス語 embrouiller（もつれさせる）",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","フォーマル"],
+"meaning_main": "（争いなどに）巻き込む",
+"description": "embroil（エンブロイル）は「（争いや面倒に）巻き込む」。人を紛争・論争・混乱に引き入れること。しばしば受け身 be embroiled in ~ の形で使われる。",
+"keywords": ["embroil 意味","embroil 巻き込む","embroiled in"],
+"meanings": [
+{"hinshi": "【動詞】争いに巻き込む","note": "紛争・論争・面倒に引き入れる。受け身で使うことが多い"}
+],
+"usages": [
+{"title": "① 争いに巻き込む","desc": "be embroiled in ~","example_en": "The company was embroiled in a legal dispute.","example_ja": "その会社は法的な争いに巻き込まれた。"},
+{"title": "② 論争に引き込まれる","desc": "スキャンダルなど","example_en": "He became embroiled in a political scandal.","example_ja": "彼は政治スキャンダルに巻き込まれた。"}
+],
+"warn": ["ふつう be embroiled in ~ の受け身。もつれ・混乱を表す broil と関連"],
+"etym_note": "フランス語 embrouiller（もつれさせる・混乱させる）に由来。「もつれに引き込む」から。",
+"etym_chain": [
+{"node": "brouiller","sub": "混乱させる","era": "フランス語"},
+{"node": "embrouiller","sub": "もつれさせる","era": "フランス語"},
+{"node": "embroil","sub": "巻き込む","era": "現代英語"}
+],
+"phrases": [
+{"en": "be embroiled in","ja": "〜に巻き込まれる"},
+{"en": "embroiled in a dispute","ja": "争いに巻き込まれて"},
+{"en": "embroiled in scandal","ja": "スキャンダルに巻き込まれて"},
+{"en": "embroiled in war","ja": "戦争に巻き込まれて"},
+{"en": "embroil someone in","ja": "人を〜に巻き込む"},
+{"en": "deeply embroiled","ja": "深く巻き込まれて"}
+],
+"related": [
+{"en": "involve","ja": "巻き込む"},
+{"en": "entangle","ja": "もつれさせる"},
+{"en": "implicate","ja": "関与させる"},
+{"en": "embroilment","ja": "紛糾"}
+],
+"faq": [
+{"q": "embroil はどう使う？","a": "多くは受け身 be embroiled in ~（〜に巻き込まれる）の形で使います。"},
+{"q": "involve との違いは？","a": "involve は中立的に「関わらせる」、embroil は「争いや面倒に巻き込む」否定的な語です。"}
+],
+"quiz": [
+{"q": "embroil の意味は？","A": "争いに巻き込む","B": "仲直りさせる","C": "解放する","D": "祝福する","correct": "A"},
+{"q": "embroil の定番の形は？","A": "be embroiled in","B": "embroil up","C": "embroil off","D": "embroil out","correct": "A"}
+]
+},
+{
+"english": "embryonic",
+"pron": "ˌɛmbriˈɒnɪk",
+"kana": "エンブリオニック",
+"hinshi": "形容詞",
+"ld_pos": "形容詞",
+"ld_etym": "ギリシャ語 embryon（胎児）",
+"ld_level": "1級",
+"badges": ["大学生〜","生物・比喩","英検1級","CEFR C1"],
+"meaning_main": "胚の／初期段階の／未発達の",
+"description": "embryonic（エンブリオニック）は「胚の・初期段階の」。生物の胚に関することを表すほか、比喩的に「まだ発達していない・始まったばかりの」段階を指す。",
+"keywords": ["embryonic 意味","embryonic 初期","embryo 形容詞"],
+"meanings": [
+{"hinshi": "【形容詞】胚の","note": "受精卵が育つ初期の生物「胚」に関する"},
+{"hinshi": "【形容詞】初期段階の・未発達の","note": "まだ始まったばかりで発達していない"}
+],
+"usages": [
+{"title": "① 生物学の胚","desc": "embryonic cells など","example_en": "Scientists studied embryonic stem cells.","example_ja": "科学者たちは胚性幹細胞を研究した。"},
+{"title": "② 初期段階の（比喩）","desc": "計画やアイデア","example_en": "The project is still in an embryonic stage.","example_ja": "そのプロジェクトはまだ初期段階にある。"}
+],
+"warn": ["名詞は embryo（胚・胎児）。比喩では「ごく初期の」の意味"],
+"etym_note": "ギリシャ語 embryon（en 中に + bryein 満ちる＝子宮内で育つもの）に由来する embryo の形容詞形。",
+"etym_chain": [
+{"node": "embryon","sub": "胎児","era": "ギリシャ語"},
+{"node": "embryo","sub": "胚","era": "近代英語"},
+{"node": "embryonic","sub": "胚の・初期の","era": "現代英語"}
+],
+"phrases": [
+{"en": "embryonic stem cells","ja": "胚性幹細胞"},
+{"en": "an embryonic stage","ja": "初期段階"},
+{"en": "in embryonic form","ja": "ごく初期の形で"},
+{"en": "embryonic development","ja": "胚の発生"},
+{"en": "still embryonic","ja": "まだ未発達で"},
+{"en": "an embryonic idea","ja": "芽生えたばかりのアイデア"}
+],
+"related": [
+{"en": "embryo","ja": "胚・胎児"},
+{"en": "nascent","ja": "生まれたばかりの"},
+{"en": "early","ja": "初期の"},
+{"en": "mature","ja": "成熟した"}
+],
+"faq": [
+{"q": "embryonic の名詞形は？","a": "embryo（胚・胎児）です。"},
+{"q": "比喩的な意味は？","a": "「まだ始まったばかりで発達していない・ごく初期の」という意味です。"}
+],
+"quiz": [
+{"q": "embryonic の意味は？","A": "胚の・初期段階の","B": "成熟した","C": "古代の","D": "巨大な","correct": "A"},
+{"q": "embryonic の名詞形は？","A": "embryo","B": "ember","C": "emblem","D": "embargo","correct": "A"}
+]
+},
+{
+"english": "emergent",
+"pron": "ɪˈmɜːrdʒənt",
+"kana": "イマージェント",
+"hinshi": "形容詞",
+"ld_pos": "形容詞",
+"ld_etym": "ラテン語 emergere（現れ出る）",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","学術"],
+"meaning_main": "新たに現れる／台頭しつつある／（全体から）生じる",
+"description": "emergent（イマージェント）は「新たに現れる・台頭しつつある」。まだ発展途上だが立ち現れてくる様子を表す。個々の要素から全体として生じる性質（創発）にも使う学術語。",
+"keywords": ["emergent 意味","emergent 台頭","emergent 創発"],
+"meanings": [
+{"hinshi": "【形容詞】新たに現れる・台頭しつつある","note": "発展途上で立ち現れてくる"},
+{"hinshi": "【形容詞】創発的な","note": "個々の要素の相互作用から全体として生じる"}
+],
+"usages": [
+{"title": "① 台頭する分野","desc": "新興の技術など","example_en": "Emergent technologies are reshaping the industry.","example_ja": "台頭しつつある技術が業界を作り変えている。"},
+{"title": "② 創発的な性質","desc": "科学・複雑系で","example_en": "Consciousness may be an emergent property of the brain.","example_ja": "意識は脳の創発的な性質かもしれない。"}
+],
+"warn": ["emergency（緊急）と語源は同じだが意味が違う。動詞は emerge（現れる）"],
+"etym_note": "ラテン語 emergere（e 外へ + mergere 沈める＝浮かび出る）に由来する emerge の形容詞形。",
+"etym_chain": [
+{"node": "mergere","sub": "沈める","era": "ラテン語"},
+{"node": "emergere","sub": "現れ出る","era": "ラテン語"},
+{"node": "emergent","sub": "新たに現れる","era": "現代英語"}
+],
+"phrases": [
+{"en": "emergent technologies","ja": "台頭する技術"},
+{"en": "an emergent property","ja": "創発的性質"},
+{"en": "emergent markets","ja": "新興市場"},
+{"en": "emergent behavior","ja": "創発的な振る舞い"},
+{"en": "an emergent trend","ja": "現れつつある傾向"},
+{"en": "emergent phenomena","ja": "創発現象"}
+],
+"related": [
+{"en": "emerge","ja": "現れる"},
+{"en": "emerging","ja": "新興の"},
+{"en": "nascent","ja": "生まれたばかりの"},
+{"en": "arising","ja": "生じつつある"}
+],
+"faq": [
+{"q": "emergent と emergency の違いは？","a": "語源は同じですが、emergent は「現れつつある」、emergency は「緊急事態」です。"},
+{"q": "創発（emergent property）とは？","a": "個々の部品にはない性質が、全体の相互作用から生まれることです。"}
+],
+"quiz": [
+{"q": "emergent の意味は？","A": "新たに現れる・台頭しつつある","B": "消えゆく","C": "古びた","D": "静止した","correct": "A"},
+{"q": "emergent の動詞形は？","A": "emerge","B": "emit","C": "employ","D": "embrace","correct": "A"}
+]
+},
+{
+"english": "eminence",
+"pron": "ˈɛmɪnəns",
+"kana": "エミネンス",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "ラテン語 eminere（突き出る）",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","フォーマル"],
+"meaning_main": "高名／傑出／（敬称）猊下（げいか）",
+"description": "eminence（エミネンス）は「高名・傑出」。ある分野で抜きん出て有名なこと。また、カトリックの枢機卿への敬称「猊下（Your Eminence）」としても使われる語。",
+"keywords": ["eminence 意味","eminence 高名","eminence 敬称"],
+"meanings": [
+{"hinshi": "【名詞】高名・傑出","note": "ある分野で抜きん出て有名なこと"},
+{"hinshi": "【名詞】猊下","note": "カトリックの枢機卿への敬称（Your Eminence）"}
+],
+"usages": [
+{"title": "① 分野での傑出","desc": "名声・地位の高さ","example_en": "She achieved eminence as a scientist.","example_ja": "彼女は科学者として高名を得た。"},
+{"title": "② 敬称としての用法","desc": "枢機卿への呼びかけ","example_en": "Cardinals are addressed as \"Your Eminence.\"","example_ja": "枢機卿は「猊下」と呼びかけられる。"}
+],
+"warn": ["形容詞は eminent（著名な）。éminence grise（黒幕）という表現もある"],
+"etym_note": "ラテン語 eminere（e 外へ + minere 突き出る）に由来。「突き出ていること＝際立ち」から。",
+"etym_chain": [
+{"node": "eminere","sub": "突き出る","era": "ラテン語"},
+{"node": "eminence","sub": "傑出・高名","era": "現代英語"}
+],
+"phrases": [
+{"en": "achieve eminence","ja": "高名を得る"},
+{"en": "of great eminence","ja": "非常に高名な"},
+{"en": "rise to eminence","ja": "名声を得るに至る"},
+{"en": "Your Eminence","ja": "猊下"},
+{"en": "scientific eminence","ja": "科学界での傑出"},
+{"en": "a position of eminence","ja": "高い地位"}
+],
+"related": [
+{"en": "eminent","ja": "著名な"},
+{"en": "prominence","ja": "傑出・目立つこと"},
+{"en": "fame","ja": "名声"},
+{"en": "distinction","ja": "卓越"}
+],
+"faq": [
+{"q": "eminence の形容詞形は？","a": "eminent（著名な・傑出した）です。"},
+{"q": "Your Eminence とは？","a": "カトリック教会の枢機卿への敬称「猊下」です。"}
+],
+"quiz": [
+{"q": "eminence の意味は？","A": "高名・傑出","B": "無名","C": "貧困","D": "混乱","correct": "A"},
+{"q": "eminence の形容詞形は？","A": "eminent","B": "imminent","C": "eminency","D": "emanate","correct": "A"}
+]
+},
+{
+"english": "empathize",
+"pron": "ˈɛmpəθaɪz",
+"kana": "エンパサイズ",
+"hinshi": "動詞",
+"ld_pos": "動詞",
+"ld_etym": "ギリシャ語 empatheia（共感）",
+"ld_level": "準1級",
+"badges": ["高校生〜","英検準1級","CEFR B2","心理・感情"],
+"meaning_main": "共感する／気持ちを分かち合う",
+"description": "empathize（エンパサイズ）は「共感する」。相手の気持ちを自分のことのように感じ取り、理解すること。with を伴って empathize with ~ の形で使う。",
+"keywords": ["empathize 意味","empathize 共感","empathy 動詞"],
+"meanings": [
+{"hinshi": "【動詞】共感する","note": "相手の気持ちを自分のことのように理解する。with を伴う"}
+],
+"usages": [
+{"title": "① 相手に共感する","desc": "empathize with ~","example_en": "I can empathize with how you feel.","example_ja": "あなたの気持ちに共感できます。"},
+{"title": "② 立場を思いやる","desc": "経験を重ねて理解","example_en": "As a parent, she empathizes with other parents.","example_ja": "親として、彼女は他の親たちに共感する。"}
+],
+"warn": ["名詞は empathy（共感）。sympathize（同情する）とは少し違う"],
+"etym_note": "ギリシャ語 empatheia（en 中に + pathos 感情）に由来する empathy の動詞形。「相手の感情の中に入る」から。",
+"etym_chain": [
+{"node": "pathos","sub": "感情","era": "ギリシャ語"},
+{"node": "empatheia","sub": "共感","era": "ギリシャ語"},
+{"node": "empathize","sub": "共感する","era": "現代英語"}
+],
+"phrases": [
+{"en": "empathize with","ja": "〜に共感する"},
+{"en": "empathize with others","ja": "他者に共感する"},
+{"en": "truly empathize","ja": "心から共感する"},
+{"en": "hard to empathize","ja": "共感しにくい"},
+{"en": "empathize deeply","ja": "深く共感する"},
+{"en": "learn to empathize","ja": "共感できるようになる"}
+],
+"related": [
+{"en": "empathy","ja": "共感"},
+{"en": "sympathize","ja": "同情する"},
+{"en": "understand","ja": "理解する"},
+{"en": "relate","ja": "共感する・結びつける"}
+],
+"faq": [
+{"q": "empathize と sympathize の違いは？","a": "empathize は「相手の気持ちを自分のことのように感じる」、sympathize は「気の毒に思う・同情する」です。"},
+{"q": "名詞形は？","a": "empathy（共感）です。"}
+],
+"quiz": [
+{"q": "empathize の意味は？","A": "共感する","B": "反論する","C": "無視する","D": "命令する","correct": "A"},
+{"q": "empathize に続く前置詞は？","A": "with","B": "on","C": "off","D": "up","correct": "A"}
+]
+},
+{
+"english": "empirical",
+"pron": "ɪmˈpɪrɪkl",
+"kana": "エンピリカル",
+"hinshi": "形容詞",
+"ld_pos": "形容詞",
+"ld_etym": "ギリシャ語 empeiria（経験）",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","学術"],
+"meaning_main": "経験に基づく／実証的な",
+"description": "empirical（エンピリカル）は「経験に基づく・実証的な」。理論や推測ではなく、観察・実験・データによって裏づけられていることを表す学術語。empirical evidence が定番。",
+"keywords": ["empirical 意味","empirical 実証的","empirical evidence"],
+"meanings": [
+{"hinshi": "【形容詞】経験に基づく・実証的な","note": "観察・実験・データに基づく。理論・推測でない"}
+],
+"usages": [
+{"title": "① 実証的な証拠","desc": "empirical evidence","example_en": "There is little empirical evidence for the claim.","example_ja": "その主張には実証的な証拠がほとんどない。"},
+{"title": "② データに基づく研究","desc": "観察・実験による","example_en": "The theory is supported by empirical data.","example_ja": "その理論は実証的なデータに支えられている。"}
+],
+"warn": ["名詞は empiricism（経験主義）。theoretical（理論的な）と対比される"],
+"etym_note": "ギリシャ語 empeiria（経験。en 中に + peira 試み）に由来。「経験からの」が原義。",
+"etym_chain": [
+{"node": "peira","sub": "試み","era": "ギリシャ語"},
+{"node": "empeiria","sub": "経験","era": "ギリシャ語"},
+{"node": "empirical","sub": "経験に基づく","era": "現代英語"}
+],
+"phrases": [
+{"en": "empirical evidence","ja": "実証的な証拠"},
+{"en": "empirical data","ja": "実証データ"},
+{"en": "empirical research","ja": "実証研究"},
+{"en": "empirical study","ja": "実証的研究"},
+{"en": "on an empirical basis","ja": "経験的な根拠に基づいて"},
+{"en": "empirical evidence suggests","ja": "実証的な証拠が示す"}
+],
+"related": [
+{"en": "empiricism","ja": "経験主義"},
+{"en": "experimental","ja": "実験に基づく"},
+{"en": "observed","ja": "観察された"},
+{"en": "theoretical","ja": "理論的な"}
+],
+"faq": [
+{"q": "empirical と theoretical の違いは？","a": "empirical は「経験・観察に基づく」、theoretical は「理論に基づく」です。"},
+{"q": "empirical evidence とは？","a": "観察・実験・データによって裏づけられた「実証的な証拠」です。"}
+],
+"quiz": [
+{"q": "empirical の意味は？","A": "経験に基づく・実証的な","B": "空想的な","C": "感情的な","D": "伝統的な","correct": "A"},
+{"q": "empirical の反対に近いのは？","A": "theoretical","B": "practical","C": "observed","D": "factual","correct": "A"}
+]
+},
+{
+"english": "empiricism",
+"pron": "ɪmˈpɪrɪsɪzəm",
+"kana": "エンピリシズム",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "ギリシャ語 empeiria（経験）",
+"ld_level": "1級",
+"badges": ["大学生〜","哲学用語","英検1級","CEFR C1"],
+"meaning_main": "経験主義／経験論",
+"description": "empiricism（エンピリシズム）は「経験主義・経験論」。知識は経験や観察から得られると考える哲学の立場。理性を重んじる合理主義（rationalism）と対比される。",
+"keywords": ["empiricism 意味","経験主義 英語","empiricism 哲学"],
+"meanings": [
+{"hinshi": "【名詞】経験主義・経験論","note": "知識は経験・観察から得られるとする哲学の立場"}
+],
+"usages": [
+{"title": "① 哲学の立場","desc": "経験を知識の源とする","example_en": "Empiricism holds that knowledge comes from experience.","example_ja": "経験主義は、知識は経験から得られると考える。"},
+{"title": "② 合理主義との対比","desc": "理性重視の立場と対","example_en": "Empiricism contrasts with rationalism.","example_ja": "経験主義は合理主義と対比される。"}
+],
+"warn": ["形容詞は empirical（実証的な）、支持者は empiricist。ロックやヒュームが代表"],
+"etym_note": "ギリシャ語 empeiria（経験）に、主義を表す -ism が付いた語。",
+"etym_chain": [
+{"node": "empeiria","sub": "経験","era": "ギリシャ語"},
+{"node": "empirical","sub": "経験に基づく","era": "近代英語"},
+{"node": "empiricism","sub": "経験主義","era": "現代英語"}
+],
+"phrases": [
+{"en": "British empiricism","ja": "イギリス経験論"},
+{"en": "the tradition of empiricism","ja": "経験主義の伝統"},
+{"en": "empiricism and rationalism","ja": "経験主義と合理主義"},
+{"en": "the principles of empiricism","ja": "経験主義の原理"},
+{"en": "logical empiricism","ja": "論理経験主義"},
+{"en": "reject empiricism","ja": "経験主義を退ける"}
+],
+"related": [
+{"en": "empirical","ja": "経験に基づく"},
+{"en": "empiricist","ja": "経験主義者"},
+{"en": "rationalism","ja": "合理主義"},
+{"en": "philosophy","ja": "哲学"}
+],
+"faq": [
+{"q": "empiricism と rationalism の違いは？","a": "empiricism は「知識は経験から」、rationalism は「知識は理性から」得られるとする立場です。"},
+{"q": "代表的な哲学者は？","a": "ジョン・ロックやデイヴィッド・ヒュームが経験主義の代表とされます。"}
+],
+"quiz": [
+{"q": "empiricism の意味は？","A": "経験主義・経験論","B": "合理主義","C": "理想主義","D": "懐疑主義","correct": "A"},
+{"q": "empiricism と対比される立場は？","A": "rationalism","B": "empirical","C": "realism","D": "idealism","correct": "A"}
+]
+},
+{
+"english": "empiricist",
+"pron": "ɪmˈpɪrɪsɪst",
+"kana": "エンピリシスト",
+"hinshi": "名詞 / 形容詞",
+"ld_pos": "名詞",
+"ld_etym": "ギリシャ語 empeiria（経験）",
+"ld_level": "1級",
+"badges": ["大学生〜","哲学用語","英検1級","CEFR C1"],
+"meaning_main": "経験主義者／経験論者",
+"description": "empiricist（エンピリシスト）は「経験主義者」。知識は経験・観察から得られると考える立場（経験主義）を支持する人。ロックやヒュームが代表的な経験主義者とされる。",
+"keywords": ["empiricist 意味","経験主義者 英語","empiricist 哲学"],
+"meanings": [
+{"hinshi": "【名詞】経験主義者","note": "知識は経験から得られると考える立場の人"},
+{"hinshi": "【形容詞】経験主義の","note": "経験主義に基づく"}
+],
+"usages": [
+{"title": "① 経験主義の哲学者","desc": "ロック・ヒュームなど","example_en": "Locke was a famous empiricist.","example_ja": "ロックは有名な経験主義者だった。"},
+{"title": "② 経験を重んじる立場","desc": "観察・データを重視","example_en": "An empiricist relies on observation, not pure reason.","example_ja": "経験主義者は純粋な理性ではなく観察に頼る。"}
+],
+"warn": ["立場は empiricism（経験主義）、形容詞 empirical（実証的な）。合理主義者は rationalist"],
+"etym_note": "ギリシャ語 empeiria（経験）に、人を表す -ist が付いた語。",
+"etym_chain": [
+{"node": "empeiria","sub": "経験","era": "ギリシャ語"},
+{"node": "empiricism","sub": "経験主義","era": "近代英語"},
+{"node": "empiricist","sub": "経験主義者","era": "現代英語"}
+],
+"phrases": [
+{"en": "a famous empiricist","ja": "有名な経験主義者"},
+{"en": "the empiricist tradition","ja": "経験主義の伝統"},
+{"en": "an empiricist view","ja": "経験主義的な見方"},
+{"en": "empiricist philosophers","ja": "経験主義の哲学者たち"},
+{"en": "a strict empiricist","ja": "厳格な経験主義者"},
+{"en": "the empiricist approach","ja": "経験主義的なやり方"}
+],
+"related": [
+{"en": "empiricism","ja": "経験主義"},
+{"en": "empirical","ja": "経験に基づく"},
+{"en": "rationalist","ja": "合理主義者"},
+{"en": "philosopher","ja": "哲学者"}
+],
+"faq": [
+{"q": "empiricist と rationalist の違いは？","a": "empiricist は経験を、rationalist は理性を知識の源と考える人です。"},
+{"q": "代表的な empiricist は？","a": "ジョン・ロックやデイヴィッド・ヒュームです。"}
+],
+"quiz": [
+{"q": "empiricist の意味は？","A": "経験主義者","B": "合理主義者","C": "理想主義者","D": "懐疑主義者","correct": "A"},
+{"q": "empiricist が知識の源とするのは？","A": "経験・観察","B": "純粋な理性","C": "直感のみ","D": "権威","correct": "A"}
+]
+},
+{
+"english": "employed",
+"pron": "ɪmˈplɔɪd",
+"kana": "エンプロイド",
+"hinshi": "形容詞 / 動詞",
+"ld_pos": "形容詞",
+"ld_etym": "ラテン語 implicare（巻き込む・従事させる）",
+"ld_level": "3級",
+"badges": ["中学生〜","英検3級","CEFR A2","仕事"],
+"meaning_main": "雇われている／使われている",
+"description": "employed（エンプロイド）は「雇われている・就業している」。仕事に就いている状態を表す。動詞 employ（雇う・用いる）の過去分詞で、「（手段が）使われている」の意味も。",
+"keywords": ["employed 意味","employed 雇用","employ 過去分詞"],
+"meanings": [
+{"hinshi": "【形容詞】雇われている・就業している","note": "仕事に就いている状態"},
+{"hinshi": "【形容詞】用いられている","note": "方法・手段が使われている"}
+],
+"usages": [
+{"title": "① 就業している","desc": "職に就いている","example_en": "She is currently employed at a bank.","example_ja": "彼女は現在、銀行に勤めている。"},
+{"title": "② 手段が使われる","desc": "方法を用いる","example_en": "New methods are employed to improve safety.","example_ja": "安全を高めるために新しい方法が用いられている。"}
+],
+"warn": ["反対は unemployed（失業中の）。self-employed は「自営業の」"],
+"etym_note": "ラテン語 implicare（巻き込む・従事させる）に由来する employ の過去分詞。",
+"etym_chain": [
+{"node": "implicare","sub": "従事させる","era": "ラテン語"},
+{"node": "employ","sub": "雇う・用いる","era": "中英語"},
+{"node": "employed","sub": "雇われている","era": "現代英語"}
+],
+"phrases": [
+{"en": "be employed at","ja": "〜に勤めている"},
+{"en": "fully employed","ja": "完全雇用の・多忙な"},
+{"en": "self-employed","ja": "自営業の"},
+{"en": "gainfully employed","ja": "有給で働いている"},
+{"en": "employed full-time","ja": "常勤で雇われて"},
+{"en": "currently employed","ja": "現在就業中の"}
+],
+"related": [
+{"en": "employ","ja": "雇う"},
+{"en": "employee","ja": "従業員"},
+{"en": "employer","ja": "雇用主"},
+{"en": "unemployed","ja": "失業中の"}
+],
+"faq": [
+{"q": "employed の反対は？","a": "unemployed（失業中の）です。"},
+{"q": "self-employed とは？","a": "「自営業の・独立して働いている」という意味です。"}
+],
+"quiz": [
+{"q": "employed の意味は？","A": "雇われている・就業している","B": "失業している","C": "退職した","D": "休職中の","correct": "A"},
+{"q": "employed の反対は？","A": "unemployed","B": "employer","C": "employee","D": "self-employed","correct": "A"}
+]
+},
+{
+"english": "empowerment",
+"pron": "ɪmˈpaʊərmənt",
+"kana": "エンパワーメント",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "em-（与える）+ power（力）+ -ment",
+"ld_level": "1級",
+"badges": ["大学生〜","社会・ビジネス","英検1級","CEFR C1"],
+"meaning_main": "力を与えること／権限委譲／自立の後押し",
+"description": "empowerment（エンパワーメント）は「力を与えること・権限委譲」。人や集団が自ら決定し行動する力を持てるように後押しすること。社会・教育・ビジネスで広く使う。",
+"keywords": ["empowerment 意味","エンパワーメント 権限","empowerment 自立"],
+"meanings": [
+{"hinshi": "【名詞】力を与えること・権限委譲","note": "人が自ら決め行動できる力を持てるようにすること"}
+],
+"usages": [
+{"title": "① 自立の後押し","desc": "社会・教育で","example_en": "The program focuses on the empowerment of women.","example_ja": "そのプログラムは女性の自立支援に力を入れている。"},
+{"title": "② 職場の権限委譲","desc": "現場に裁量を与える","example_en": "Employee empowerment can boost motivation.","example_ja": "従業員への権限委譲は意欲を高めうる。"}
+],
+"warn": ["動詞は empower（力を与える）。give power（力を与える）に -ment が付いた語"],
+"etym_note": "em-（与える）+ power（力）+ -ment（こと）からなる語。「力を与えること」の意味。",
+"etym_chain": [
+{"node": "power","sub": "力","era": "中英語"},
+{"node": "empower","sub": "力を与える","era": "近代英語"},
+{"node": "empowerment","sub": "力を与えること","era": "現代英語"}
+],
+"phrases": [
+{"en": "women's empowerment","ja": "女性の自立支援"},
+{"en": "employee empowerment","ja": "従業員への権限委譲"},
+{"en": "a sense of empowerment","ja": "力を得た感覚"},
+{"en": "economic empowerment","ja": "経済的自立"},
+{"en": "community empowerment","ja": "地域の力づけ"},
+{"en": "personal empowerment","ja": "自己の力づけ"}
+],
+"related": [
+{"en": "empower","ja": "力を与える"},
+{"en": "autonomy","ja": "自律"},
+{"en": "authority","ja": "権限"},
+{"en": "independence","ja": "自立"}
+],
+"faq": [
+{"q": "empowerment の動詞形は？","a": "empower（力・権限を与える）です。"},
+{"q": "ビジネスでの意味は？","a": "現場の従業員に決定権や裁量を与える「権限委譲」を指します。"}
+],
+"quiz": [
+{"q": "empowerment の意味は？","A": "力を与えること・権限委譲","B": "力を奪うこと","C": "解雇","D": "監視","correct": "A"},
+{"q": "empowerment の動詞形は？","A": "empower","B": "employ","C": "empire","D": "empty","correct": "A"}
+]
+},
+{
+"english": "enactment",
+"pron": "ɪˈnæktmənt",
+"kana": "イナクトメント",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "en-（する）+ act（行い・法令）+ -ment",
+"ld_level": "1級",
+"badges": ["大学生〜","法律用語","英検1級","CEFR C1"],
+"meaning_main": "（法律の）制定／（役の）演技・実演",
+"description": "enactment（イナクトメント）は「（法律の）制定」。法律を正式に定めること、または定められた法令そのもの。演劇では場面を「演じて再現すること」も指す。",
+"keywords": ["enactment 意味","enactment 制定","enact 名詞"],
+"meanings": [
+{"hinshi": "【名詞】（法律の）制定","note": "法律を正式に定めること。定められた法令"},
+{"hinshi": "【名詞】実演・演技","note": "場面などを演じて再現すること"}
+],
+"usages": [
+{"title": "① 法律の制定","desc": "立法の手続き","example_en": "The enactment of the new law took two years.","example_ja": "その新法の制定には2年かかった。"},
+{"title": "② 場面の再現","desc": "劇や再現","example_en": "The class did an enactment of a historical scene.","example_ja": "そのクラスは歴史的な場面を演じて再現した。"}
+],
+"warn": ["動詞は enact（制定する・演じる）。re-enactment は「再現・再演」"],
+"etym_note": "en-（〜にする）+ act（行い・法令）+ -ment（こと）からなる語。「法令にすること」から。",
+"etym_chain": [
+{"node": "act","sub": "行い・法令","era": "中英語"},
+{"node": "enact","sub": "制定する","era": "近代英語"},
+{"node": "enactment","sub": "制定","era": "現代英語"}
+],
+"phrases": [
+{"en": "the enactment of a law","ja": "法律の制定"},
+{"en": "since its enactment","ja": "制定以来"},
+{"en": "enactment of legislation","ja": "法令の制定"},
+{"en": "await enactment","ja": "制定を待つ"},
+{"en": "a dramatic enactment","ja": "劇的な実演"},
+{"en": "the re-enactment of a battle","ja": "戦いの再現"}
+],
+"related": [
+{"en": "enact","ja": "制定する"},
+{"en": "legislation","ja": "立法・法令"},
+{"en": "law","ja": "法律"},
+{"en": "reenactment","ja": "再現"}
+],
+"faq": [
+{"q": "enactment の動詞形は？","a": "enact（制定する・演じる）です。"},
+{"q": "re-enactment とは？","a": "歴史的な出来事などを「再現・再演すること」です。"}
+],
+"quiz": [
+{"q": "enactment の主な意味は？","A": "法律の制定","B": "法律の廃止","C": "契約の解除","D": "選挙の投票","correct": "A"},
+{"q": "enactment の動詞形は？","A": "enact","B": "enable","C": "enrich","D": "endure","correct": "A"}
+]
+},
+{
+"english": "enamel",
+"pron": "ɪˈnæml",
+"kana": "エナメル",
+"hinshi": "名詞 / 動詞",
+"ld_pos": "名詞",
+"ld_etym": "古フランス語 esmail（ほうろう）",
+"ld_level": "準1級",
+"badges": ["高校生〜","素材・歯科","英検準1級","CEFR B2"],
+"meaning_main": "エナメル／ほうろう／（歯の）エナメル質",
+"description": "enamel（エナメル）は「エナメル・ほうろう」。金属や陶器の表面を覆うガラス質の光沢のある塗膜。歯の表面を守る硬い「エナメル質」も指す語。",
+"keywords": ["enamel 意味","エナメル ほうろう","enamel 歯"],
+"meanings": [
+{"hinshi": "【名詞】エナメル・ほうろう","note": "金属や陶器を覆うガラス質の光沢塗膜"},
+{"hinshi": "【名詞】エナメル質","note": "歯の表面を覆う体で最も硬い組織"},
+{"hinshi": "【動詞】エナメルを塗る","note": "ほうろう加工をする"}
+],
+"usages": [
+{"title": "① ほうろう製品","desc": "鍋やアクセサリー","example_en": "The pot has a white enamel coating.","example_ja": "その鍋は白いほうろうの塗装がされている。"},
+{"title": "② 歯のエナメル質","desc": "歯を守る硬い層","example_en": "Acid can damage tooth enamel.","example_ja": "酸は歯のエナメル質を傷つけることがある。"}
+],
+"warn": ["歯の場合は tooth enamel（エナメル質）。塗料の enamel paint もある"],
+"etym_note": "古フランス語 esmail（ほうろう）に由来。ゲルマン語の「溶かす」に関連する語。",
+"etym_chain": [
+{"node": "esmail","sub": "ほうろう","era": "古フランス語"},
+{"node": "enamel","sub": "エナメル","era": "現代英語"}
+],
+"phrases": [
+{"en": "tooth enamel","ja": "歯のエナメル質"},
+{"en": "enamel paint","ja": "エナメル塗料"},
+{"en": "an enamel coating","ja": "ほうろうの塗膜"},
+{"en": "white enamel","ja": "白いエナメル"},
+{"en": "damage the enamel","ja": "エナメル質を傷める"},
+{"en": "an enamel mug","ja": "ほうろうのマグカップ"}
+],
+"related": [
+{"en": "glaze","ja": "うわぐすり"},
+{"en": "coating","ja": "塗膜"},
+{"en": "porcelain","ja": "磁器"},
+{"en": "tooth","ja": "歯"}
+],
+"faq": [
+{"q": "歯の enamel とは？","a": "歯の表面を覆う、体で最も硬い組織「エナメル質」です。"},
+{"q": "ほうろうとは？","a": "金属の表面にガラス質を焼き付けた、光沢と耐久性のある加工です。"}
+],
+"quiz": [
+{"q": "enamel の意味は？","A": "エナメル・ほうろう","B": "木材","C": "ゴム","D": "紙","correct": "A"},
+{"q": "tooth enamel とは？","A": "歯のエナメル質","B": "歯ブラシ","C": "入れ歯","D": "歯石","correct": "A"}
+]
+},
+{
+"english": "enchanted",
+"pron": "ɪnˈtʃæntɪd",
+"kana": "エンチャンテッド",
+"hinshi": "形容詞 / 動詞",
+"ld_pos": "形容詞",
+"ld_etym": "ラテン語 incantare（呪文を唱える）",
+"ld_level": "準1級",
+"badges": ["高校生〜","物語・感情","英検準1級","CEFR B2"],
+"meaning_main": "魔法にかけられた／うっとりした",
+"description": "enchanted（エンチャンテッド）は「魔法にかけられた・うっとりした」。呪文で魔法をかけられた状態や、とても魅了されて心を奪われた状態を表す。物語で頻出の語。",
+"keywords": ["enchanted 意味","enchanted 魔法","enchant 過去分詞"],
+"meanings": [
+{"hinshi": "【形容詞】魔法にかけられた","note": "呪文で魔法をかけられた状態"},
+{"hinshi": "【形容詞】うっとりした・魅了された","note": "とても心を奪われた状態"}
+],
+"usages": [
+{"title": "① 魔法の世界","desc": "物語・ファンタジー","example_en": "They wandered into an enchanted forest.","example_ja": "彼らは魔法の森に迷い込んだ。"},
+{"title": "② うっとり魅了される","desc": "感動・魅了","example_en": "The audience was enchanted by her voice.","example_ja": "観客は彼女の声にうっとりと魅了された。"}
+],
+"warn": ["動詞は enchant（魔法をかける・魅了する）。名詞は enchantment（魔法・魅惑）"],
+"etym_note": "ラテン語 incantare（in 上に + cantare 歌う＝呪文を唱える）に由来する enchant の過去分詞。",
+"etym_chain": [
+{"node": "cantare","sub": "歌う","era": "ラテン語"},
+{"node": "incantare","sub": "呪文を唱える","era": "ラテン語"},
+{"node": "enchanted","sub": "魔法にかけられた","era": "現代英語"}
+],
+"phrases": [
+{"en": "an enchanted forest","ja": "魔法の森"},
+{"en": "an enchanted castle","ja": "魔法の城"},
+{"en": "be enchanted by","ja": "〜に魅了される"},
+{"en": "an enchanted evening","ja": "うっとりする夜"},
+{"en": "utterly enchanted","ja": "すっかり魅了されて"},
+{"en": "an enchanted world","ja": "魔法の世界"}
+],
+"related": [
+{"en": "enchant","ja": "魔法をかける・魅了する"},
+{"en": "enchantment","ja": "魔法・魅惑"},
+{"en": "magical","ja": "魔法の"},
+{"en": "captivated","ja": "心を奪われた"}
+],
+"faq": [
+{"q": "enchanted の動詞形は？","a": "enchant（魔法をかける・魅了する）です。"},
+{"q": "2つの意味は？","a": "「魔法にかけられた」と、比喩的に「うっとり魅了された」です。"}
+],
+"quiz": [
+{"q": "enchanted の意味は？","A": "魔法にかけられた・うっとりした","B": "退屈した","C": "怒った","D": "疲れた","correct": "A"},
+{"q": "enchanted の名詞形は？","A": "enchantment","B": "enchanter だけ","C": "enchance","D": "enclosure","correct": "A"}
+]
+},
+{
+"english": "enchilada",
+"pron": "ˌɛntʃɪˈlɑːdə",
+"kana": "エンチラーダ",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "スペイン語 enchilar（唐辛子で味付けする）",
+"ld_level": "1級",
+"badges": ["大学生〜","料理","外来語","メキシコ"],
+"meaning_main": "エンチラーダ（メキシコ料理）",
+"description": "enchilada（エンチラーダ）はメキシコ料理の一つ。トルティーヤに肉やチーズなどを包み、唐辛子入りのソースをかけて焼いた料理。スペイン語「唐辛子で味付けする」に由来。",
+"keywords": ["enchilada 意味","エンチラーダ メキシコ","enchilada 料理"],
+"meanings": [
+{"hinshi": "【名詞】エンチラーダ","note": "トルティーヤに具を包み、唐辛子ソースをかけたメキシコ料理"}
+],
+"usages": [
+{"title": "① メキシコ料理","desc": "トルティーヤの料理","example_en": "We ordered chicken enchiladas for dinner.","example_ja": "私たちは夕食にチキンエンチラーダを注文した。"},
+{"title": "② 慣用表現","desc": "the whole enchilada（何もかも）","example_en": "He wants the whole enchilada, not just part of it.","example_ja": "彼は一部でなく、何もかも全部を欲しがっている。"}
+],
+"warn": ["the whole enchilada は「何もかも全部」という口語表現。トルティーヤは corn または flour"],
+"etym_note": "スペイン語 enchilar（en + chile 唐辛子＝唐辛子で味付けする）に由来。",
+"etym_chain": [
+{"node": "chile","sub": "唐辛子","era": "スペイン語"},
+{"node": "enchilar","sub": "唐辛子で味付けする","era": "スペイン語"},
+{"node": "enchilada","sub": "エンチラーダ","era": "現代英語"}
+],
+"phrases": [
+{"en": "chicken enchiladas","ja": "チキンエンチラーダ"},
+{"en": "cheese enchiladas","ja": "チーズエンチラーダ"},
+{"en": "the whole enchilada","ja": "何もかも全部"},
+{"en": "beef enchiladas","ja": "ビーフエンチラーダ"},
+{"en": "order enchiladas","ja": "エンチラーダを注文する"},
+{"en": "spicy enchiladas","ja": "辛いエンチラーダ"}
+],
+"related": [
+{"en": "tortilla","ja": "トルティーヤ"},
+{"en": "taco","ja": "タコス"},
+{"en": "burrito","ja": "ブリトー"},
+{"en": "salsa","ja": "サルサソース"}
+],
+"faq": [
+{"q": "enchilada とは？","a": "トルティーヤに具を包み、唐辛子ソースをかけて焼いたメキシコ料理です。"},
+{"q": "the whole enchilada とは？","a": "「何もかも全部・一切合切」という意味の口語表現です。"}
+],
+"quiz": [
+{"q": "enchilada はどこの料理？","A": "メキシコ","B": "イタリア","C": "インド","D": "中国","correct": "A"},
+{"q": "the whole enchilada の意味は？","A": "何もかも全部","B": "少しだけ","C": "半分","D": "ゼロ","correct": "A"}
+]
+},
+{
+"english": "emoji",
+"pron": "ɪˈmoʊdʒi",
+"kana": "エモジ",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "日本語「絵文字」",
+"ld_level": "準2級",
+"badges": ["中学生〜","IT・生活","外来語","日本語由来"],
+"meaning_main": "絵文字",
+"description": "emoji（エモジ）は日本語「絵文字」から英語に入った語。スマホやメールで使う、顔・記号・物などの小さな絵。英語圏でも世界共通で使われている。",
+"keywords": ["emoji 意味","絵文字 英語","emoji 由来"],
+"meanings": [
+{"hinshi": "【名詞】絵文字","note": "デジタルの文章で使う、顔や物などの小さな絵記号"}
+],
+"usages": [
+{"title": "① メッセージの絵文字","desc": "感情や物を表す","example_en": "She added a smiling emoji to her message.","example_ja": "彼女はメッセージに笑顔の絵文字を添えた。"},
+{"title": "② 気持ちを伝える","desc": "文字だけより豊かに","example_en": "Emojis help show tone in text messages.","example_ja": "絵文字は文章の雰囲気を伝えるのに役立つ。"}
+],
+"warn": ["複数形は emoji または emojis。語源の「絵」は emotion（感情）とは無関係で偶然の一致"],
+"etym_note": "日本語「絵文字（え＝絵 + もじ＝文字）」に由来。英語の emotion と似るのは偶然。",
+"etym_chain": [
+{"node": "絵文字","sub": "絵の文字","era": "日本語"},
+{"node": "emoji","sub": "絵文字","era": "現代英語"}
+],
+"phrases": [
+{"en": "a smiling emoji","ja": "笑顔の絵文字"},
+{"en": "send an emoji","ja": "絵文字を送る"},
+{"en": "a heart emoji","ja": "ハートの絵文字"},
+{"en": "use emojis","ja": "絵文字を使う"},
+{"en": "a thumbs-up emoji","ja": "いいねの絵文字"},
+{"en": "an emoji keyboard","ja": "絵文字キーボード"}
+],
+"related": [
+{"en": "emoticon","ja": "顔文字"},
+{"en": "icon","ja": "アイコン"},
+{"en": "symbol","ja": "記号"},
+{"en": "sticker","ja": "スタンプ"}
+],
+"faq": [
+{"q": "emoji と emoticon の違いは？","a": "emoji は絵の記号、emoticon は :-) のように文字を組み合わせた顔文字です。"},
+{"q": "emoji は emotion から？","a": "いいえ、日本語「絵文字」が由来で、emotion と似ているのは偶然です。"}
+],
+"quiz": [
+{"q": "emoji はどの言語由来？","A": "日本語","B": "英語","C": "フランス語","D": "スペイン語","correct": "A"},
+{"q": "文字で作る顔文字を指す語は？","A": "emoticon","B": "emoji","C": "emblem","D": "emotion","correct": "A"}
+]
+}
+]

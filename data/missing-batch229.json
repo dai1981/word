@@ -1,0 +1,977 @@
+[
+{
+"english": "glyph",
+"pron": "ɡlɪf",
+"kana": "グリフ",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "ギリシャ語 glyphē（彫刻）",
+"ld_level": "1級",
+"badges": ["大学生〜","文字・記号","英検1級","CEFR C1"],
+"meaning_main": "字形（文字や記号の一つの図形）／彫刻文字",
+"description": "glyph（グリフ）は「字形」。文字や記号を、意味ではなく形として見たときの一つ一つの図形を指す。書体デザインやプログラミングで使う。また、古代の彫刻された絵文字（ヒエログリフなど）も指す。",
+"keywords": ["glyph 意味","字形 英語","glyph フォント"],
+"meanings": [
+{"hinshi": "【名詞】字形","note": "文字や記号を形として見たときの一つの図形"},
+{"hinshi": "【名詞】彫刻文字","note": "古代の刻まれた絵文字・記号"}
+],
+"usages": [
+{"title": "① フォントの字形","desc": "書体デザイン","example_en": "Each character has its own glyph in the font.","example_ja": "そのフォントでは各文字が独自の字形を持つ。"},
+{"title": "② 古代の彫刻文字","desc": "碑文など","example_en": "The temple wall was covered in ancient glyphs.","example_ja": "神殿の壁は古代の彫刻文字で覆われていた。"}
+],
+"warn": ["ヒエログリフは hieroglyph、地上絵は geoglyph。-glyph は「彫刻・図形」を表す"],
+"etym_note": "ギリシャ語 glyphē（彫刻。glyphein 彫る）に由来。「彫られたもの」から。",
+"etym_chain": [
+{"node": "glyphein","sub": "彫る","era": "ギリシャ語"},
+{"node": "glyphē","sub": "彫刻","era": "ギリシャ語"},
+{"node": "glyph","sub": "字形・彫刻文字","era": "現代英語"}
+],
+"phrases": [
+{"en": "a font glyph","ja": "フォントの字形"},
+{"en": "ancient glyphs","ja": "古代の彫刻文字"},
+{"en": "a Unicode glyph","ja": "ユニコードの字形"},
+{"en": "decode the glyphs","ja": "彫刻文字を解読する"},
+{"en": "a glyph on the stone","ja": "石の彫刻文字"},
+{"en": "custom glyphs","ja": "独自の字形"}
+],
+"related": [
+{"en": "character","ja": "文字"},
+{"en": "symbol","ja": "記号"},
+{"en": "hieroglyph","ja": "ヒエログリフ"},
+{"en": "font","ja": "フォント"}
+],
+"faq": [
+{"q": "glyph と character の違いは？","a": "character は「文字（意味の単位）」、glyph は「その文字を表す形（図形）」です。"},
+{"q": "hieroglyph との関係は？","a": "hieroglyph は古代エジプトの「聖なる彫刻文字」で、glyph に hiero-（聖なる）が付いた語です。"}
+],
+"quiz": [
+{"q": "glyph の意味は？","A": "字形・彫刻文字","B": "音","C": "色","D": "におい","correct": "A"},
+{"q": "glyph の語源「glyphē」の意味は？","A": "彫刻","B": "音楽","C": "色彩","D": "計算","correct": "A"}
+]
+},
+{
+"english": "gmt",
+"pron": "ˌdʒiːɛmˈtiː",
+"kana": "ジーエムティー",
+"hinshi": "名詞（略語）",
+"ld_pos": "名詞",
+"ld_etym": "Greenwich Mean Time の略",
+"ld_level": "準1級",
+"badges": ["高校生〜","時間・地理","略語","英検準1級"],
+"meaning_main": "グリニッジ標準時（世界の時刻の基準）",
+"description": "GMT（ジーエムティー）は Greenwich Mean Time（グリニッジ標準時）の略。ロンドンのグリニッジを通る経度0度の子午線を基準にした時刻で、世界の時刻を表す基準として長く使われてきた。",
+"keywords": ["gmt 意味","グリニッジ標準時 英語","gmt 時刻"],
+"meanings": [
+{"hinshi": "【略語】グリニッジ標準時","note": "経度0度の子午線を基準にした、世界の時刻の基準"}
+],
+"usages": [
+{"title": "① 時刻の基準","desc": "世界標準","example_en": "The meeting is at 3 p.m. GMT.","example_ja": "会議はGMT午後3時だ。"},
+{"title": "② 時差の表し方","desc": "GMT+9 など","example_en": "Japan is GMT+9.","example_ja": "日本はGMT＋9時間だ。"}
+],
+"warn": ["ほぼ同じ意味で UTC（協定世界時）も使う。日本は GMT+9（グリニッジより9時間進む）"],
+"etym_note": "Greenwich（グリニッジ、ロンドンの地名）+ Mean Time（平均時）の頭文字。1884年に世界標準に採用された。",
+"etym_chain": [
+{"node": "Greenwich Mean Time","sub": "グリニッジ標準時","era": "19世紀"},
+{"node": "GMT","sub": "ジーエムティー","era": "現代英語"}
+],
+"phrases": [
+{"en": "at 12:00 GMT","ja": "GMT12時に"},
+{"en": "GMT+9","ja": "GMTプラス9時間"},
+{"en": "convert to GMT","ja": "GMTに換算する"},
+{"en": "ahead of GMT","ja": "GMTより進んで"},
+{"en": "behind GMT","ja": "GMTより遅れて"},
+{"en": "GMT time zone","ja": "GMTの時間帯"}
+],
+"related": [
+{"en": "UTC","ja": "協定世界時"},
+{"en": "time zone","ja": "時間帯"},
+{"en": "Greenwich","ja": "グリニッジ"},
+{"en": "meridian","ja": "子午線"}
+],
+"faq": [
+{"q": "GMT とは？","a": "Greenwich Mean Time（グリニッジ標準時）の略で、経度0度を基準にした世界の時刻の基準です。"},
+{"q": "日本との時差は？","a": "日本は GMT+9 で、グリニッジより9時間進んでいます。"}
+],
+"quiz": [
+{"q": "GMT の意味は？","A": "グリニッジ標準時","B": "国際市場取引","C": "総生産量","D": "地図測量","correct": "A"},
+{"q": "日本の時差は？","A": "GMT+9","B": "GMT-5","C": "GMT+0","D": "GMT-9","correct": "A"}
+]
+},
+{
+"english": "gnocchi",
+"pron": "ˈnɒki",
+"kana": "ニョッキ",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "イタリア語 nocchio（木のこぶ）",
+"ld_level": "1級",
+"badges": ["大学生〜","料理","外来語","イタリア"],
+"meaning_main": "ニョッキ（じゃがいもなどで作る団子状のパスタ）",
+"description": "gnocchi（ニョッキ）は、じゃがいもや小麦粉を練って小さな団子状にした、もちもちしたイタリアの料理。パスタの一種として扱われ、ソースをからめて食べる。先頭の g は発音しない。",
+"keywords": ["gnocchi 意味","ニョッキ イタリア","gnocchi パスタ"],
+"meanings": [
+{"hinshi": "【名詞】ニョッキ","note": "じゃがいもや小麦粉で作る団子状のもちもちしたパスタ"}
+],
+"usages": [
+{"title": "① イタリア料理","desc": "団子状のパスタ","example_en": "We ordered gnocchi with tomato sauce.","example_ja": "私たちはトマトソースのニョッキを注文した。"},
+{"title": "② もちもちの食感","desc": "じゃがいも入り","example_en": "Potato gnocchi is soft and chewy.","example_ja": "じゃがいものニョッキは柔らかくもちもちしている。"}
+],
+"warn": ["先頭の g は発音せず「ニョッキ」。単数形は gnocco（あまり使わない）"],
+"etym_note": "イタリア語 nocchio（木のこぶ・節）に由来。団子の丸い形から名付けられた。",
+"etym_chain": [
+{"node": "nocchio","sub": "木のこぶ","era": "イタリア語"},
+{"node": "gnocchi","sub": "ニョッキ","era": "現代英語"}
+],
+"phrases": [
+{"en": "potato gnocchi","ja": "じゃがいものニョッキ"},
+{"en": "make gnocchi","ja": "ニョッキを作る"},
+{"en": "gnocchi with sauce","ja": "ソースのニョッキ"},
+{"en": "a plate of gnocchi","ja": "ニョッキ一皿"},
+{"en": "homemade gnocchi","ja": "手作りのニョッキ"},
+{"en": "soft gnocchi","ja": "柔らかいニョッキ"}
+],
+"related": [
+{"en": "pasta","ja": "パスタ"},
+{"en": "potato","ja": "じゃがいも"},
+{"en": "dumpling","ja": "団子"},
+{"en": "Italian","ja": "イタリアの"}
+],
+"faq": [
+{"q": "gnocchi とは？","a": "じゃがいもや小麦粉で作る団子状の、もちもちしたイタリアのパスタです。"},
+{"q": "読み方は？","a": "先頭の g は発音せず「ニョッキ」と読みます。"}
+],
+"quiz": [
+{"q": "gnocchi はどこの料理？","A": "イタリア","B": "フランス","C": "中国","D": "インド","correct": "A"},
+{"q": "gnocchi の主な材料は？","A": "じゃがいも・小麦粉","B": "米","C": "魚","D": "肉のみ","correct": "A"}
+]
+},
+{
+"english": "goblin",
+"pron": "ˈɡɒblɪn",
+"kana": "ゴブリン",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "古フランス語 gobelin（小鬼）",
+"ld_level": "準1級",
+"badges": ["高校生〜","物語・空想","英検準1級","CEFR B2"],
+"meaning_main": "ゴブリン（いたずら好きの小鬼）",
+"description": "goblin（ゴブリン）は、物語や伝承に登場する、醜くていたずら好き、あるいは意地悪な小鬼。ファンタジー作品では、洞窟などにすむ小柄で好戦的な種族として描かれることが多い。",
+"keywords": ["goblin 意味","ゴブリン 小鬼","goblin 物語"],
+"meanings": [
+{"hinshi": "【名詞】ゴブリン・小鬼","note": "物語や伝承に登場する、醜くいたずら好きな小鬼"}
+],
+"usages": [
+{"title": "① 伝承の小鬼","desc": "いたずら好き","example_en": "The goblin hid the farmer's tools.","example_ja": "ゴブリンは農夫の道具を隠した。"},
+{"title": "② ファンタジーの種族","desc": "好戦的な小鬼","example_en": "Goblins attacked the village at night.","example_ja": "ゴブリンたちは夜に村を襲った。"}
+],
+"warn": ["妖精 fairy より意地悪。トロール（troll）や小人（dwarf）とは別の存在"],
+"etym_note": "古フランス語 gobelin（小鬼・妖怪）に由来。中世ヨーロッパの伝承の存在。",
+"etym_chain": [
+{"node": "gobelin","sub": "小鬼","era": "古フランス語"},
+{"node": "goblin","sub": "ゴブリン","era": "現代英語"}
+],
+"phrases": [
+{"en": "a mischievous goblin","ja": "いたずら好きのゴブリン"},
+{"en": "a horde of goblins","ja": "ゴブリンの群れ"},
+{"en": "a cave goblin","ja": "洞窟のゴブリン"},
+{"en": "an evil goblin","ja": "邪悪なゴブリン"},
+{"en": "goblins and trolls","ja": "ゴブリンとトロール"},
+{"en": "a goblin king","ja": "ゴブリンの王"}
+],
+"related": [
+{"en": "troll","ja": "トロール"},
+{"en": "elf","ja": "エルフ"},
+{"en": "dwarf","ja": "ドワーフ・小人"},
+{"en": "imp","ja": "小悪魔"}
+],
+"faq": [
+{"q": "goblin とは？","a": "物語や伝承に登場する、醜くていたずら好き、または意地悪な小鬼です。"},
+{"q": "elf との違いは？","a": "elf は美しく魔法を使う種族、goblin は醜く意地悪な小鬼として描かれることが多いです。"}
+],
+"quiz": [
+{"q": "goblin とは何？","A": "いたずら好きの小鬼","B": "美しい妖精","C": "巨大な竜","D": "海の怪物","correct": "A"},
+{"q": "goblin と近い存在は？","A": "troll","B": "angel","C": "unicorn","D": "mermaid","correct": "A"}
+]
+},
+{
+"english": "godawful",
+"pron": "ˌɡɒdˈɔːfl",
+"kana": "ゴッドオーフル",
+"hinshi": "形容詞",
+"ld_pos": "形容詞",
+"ld_etym": "god（神）+ awful（ひどい）",
+"ld_level": "1級",
+"badges": ["大学生〜","口語","英検1級","CEFR C1"],
+"meaning_main": "ものすごくひどい／最低の（強調）",
+"description": "godawful（ゴッドオーフル）は「ものすごくひどい・最低の」。awful（ひどい）を god- で強調した、くだけた口語表現。品質や状態が我慢できないほど悪いことを強く言うときに使う。",
+"keywords": ["godawful 意味","ものすごくひどい 英語","awful 強調"],
+"meanings": [
+{"hinshi": "【形容詞】ものすごくひどい・最低の","note": "awful を god- で強めた、我慢できないほど悪いさま"}
+],
+"usages": [
+{"title": "① ひどい品質","desc": "強調","example_en": "The food was godawful.","example_ja": "その料理は最低にひどかった。"},
+{"title": "② 耐えがたい状況","desc": "強い不快","example_en": "We waited for a godawful long time.","example_ja": "私たちはうんざりするほど長く待たされた。"}
+],
+"warn": ["くだけた強調語。god-awful とハイフンでも綴る。フォーマルな場では避ける"],
+"etym_note": "god（神）+ awful（ひどい・恐ろしい）からなる強調表現。「神がかりにひどい」から。",
+"etym_chain": [
+{"node": "awful","sub": "ひどい・恐ろしい","era": "中英語"},
+{"node": "godawful","sub": "ものすごくひどい","era": "現代英語"}
+],
+"phrases": [
+{"en": "a godawful mess","ja": "ものすごい散らかりよう"},
+{"en": "a godawful noise","ja": "耐えがたい騒音"},
+{"en": "godawful weather","ja": "最低の天気"},
+{"en": "a godawful smell","ja": "ものすごく嫌なにおい"},
+{"en": "look godawful","ja": "ひどい見た目だ"},
+{"en": "a godawful hour","ja": "とんでもない（早い）時間"}
+],
+"related": [
+{"en": "awful","ja": "ひどい"},
+{"en": "terrible","ja": "ひどい"},
+{"en": "dreadful","ja": "ひどい"},
+{"en": "atrocious","ja": "ひどい・残虐な"}
+],
+"faq": [
+{"q": "godawful とは？","a": "awful（ひどい）を god- で強めた「ものすごくひどい・最低の」という口語の強調語です。"},
+{"q": "使うときの注意は？","a": "くだけた語なので、フォーマルな場面では避けます。"}
+],
+"quiz": [
+{"q": "godawful の意味は？","A": "ものすごくひどい・最低の","B": "とても良い","C": "普通の","D": "少しだけ悪い","correct": "A"},
+{"q": "godawful のもとになった語は？","A": "awful","B": "awesome","C": "awkward","D": "aware","correct": "A"}
+]
+},
+{
+"english": "godhead",
+"pron": "ˈɡɒdhɛd",
+"kana": "ゴッドヘッド",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "god（神）+ -head（性質）",
+"ld_level": "1級",
+"badges": ["大学生〜","宗教・神学","英検1級","CEFR C1"],
+"meaning_main": "神性／神格／（the Godhead）神そのもの",
+"description": "godhead（ゴッドヘッド）は「神性・神格」。神であることの本質や、神としての性質を指す、宗教・神学の語。the Godhead と大文字で書くと、キリスト教で唯一の神（三位一体の神）そのものを指す。",
+"keywords": ["godhead 意味","神性 英語","godhead 神学"],
+"meanings": [
+{"hinshi": "【名詞】神性・神格","note": "神であることの本質・神としての性質"},
+{"hinshi": "【名詞】（the Godhead）神そのもの","note": "キリスト教で唯一の神（三位一体）"}
+],
+"usages": [
+{"title": "① 神性","desc": "神の本質","example_en": "They debated the nature of the godhead.","example_ja": "彼らは神性の本質について議論した。"},
+{"title": "② 唯一の神","desc": "the Godhead","example_en": "Christians believe in the three persons of the Godhead.","example_ja": "キリスト教徒は神の三つの位格を信じる。"}
+],
+"warn": ["-head は「状態・性質」を表す古い接尾辞（maidenhead など）。deity（神格）と近い"],
+"etym_note": "god（神）+ -head（-hood の古形。状態・性質を表す）からなる語。「神である状態」の意味。",
+"etym_chain": [
+{"node": "god","sub": "神","era": "古英語"},
+{"node": "godhead","sub": "神性","era": "中英語"}
+],
+"phrases": [
+{"en": "the nature of the godhead","ja": "神性の本質"},
+{"en": "the Godhead","ja": "神そのもの"},
+{"en": "the divine godhead","ja": "神なる神性"},
+{"en": "attain godhead","ja": "神格に達する"},
+{"en": "the mystery of the Godhead","ja": "神の神秘"},
+{"en": "the persons of the Godhead","ja": "神の位格"}
+],
+"related": [
+{"en": "deity","ja": "神格・神"},
+{"en": "divinity","ja": "神性"},
+{"en": "god","ja": "神"},
+{"en": "trinity","ja": "三位一体"}
+],
+"faq": [
+{"q": "godhead とは？","a": "「神であることの本質・神性」で、the Godhead は唯一の神そのものを指します。"},
+{"q": "-head はどんな意味？","a": "「状態・性質」を表す古い接尾辞（-hood の古形）です。"}
+],
+"quiz": [
+{"q": "godhead の意味は？","A": "神性・神格","B": "教会","C": "聖書","D": "祈り","correct": "A"},
+{"q": "godhead と近い意味は？","A": "divinity","B": "building","C": "prayer","D": "music","correct": "A"}
+]
+},
+{
+"english": "goiter",
+"pron": "ˈɡɔɪtər",
+"kana": "ゴイター",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "ラテン語 guttur（のど）",
+"ld_level": "1級",
+"badges": ["大学生〜","医学","英検1級","CEFR C1"],
+"meaning_main": "甲状腺腫（こうじょうせんしゅ／のどの腫れ）",
+"description": "goiter（ゴイター）は「甲状腺腫」。のどにある甲状腺が異常に大きくなって腫れる病気。ヨウ素不足などが原因で起こることがある。英つづりは goitre。医学の語。",
+"keywords": ["goiter 意味","甲状腺腫 英語","goiter のど"],
+"meanings": [
+{"hinshi": "【名詞】甲状腺腫","note": "のどの甲状腺が異常に大きくなって腫れる病気"}
+],
+"usages": [
+{"title": "① のどの腫れ","desc": "甲状腺の病気","example_en": "A lack of iodine can cause goiter.","example_ja": "ヨウ素の不足は甲状腺腫を引き起こしうる。"},
+{"title": "② 症状","desc": "首の膨らみ","example_en": "The patient had a visible goiter.","example_ja": "その患者には目に見える甲状腺腫があった。"}
+],
+"warn": ["英つづりは goitre。原因の一つはヨウ素（iodine）不足"],
+"etym_note": "ラテン語 guttur（のど）に由来し、フランス語 goitre を経て英語へ。「のどの腫れ」から。",
+"etym_chain": [
+{"node": "guttur","sub": "のど","era": "ラテン語"},
+{"node": "goitre","sub": "甲状腺腫","era": "フランス語"},
+{"node": "goiter","sub": "甲状腺腫","era": "現代英語"}
+],
+"phrases": [
+{"en": "develop a goiter","ja": "甲状腺腫ができる"},
+{"en": "a large goiter","ja": "大きな甲状腺腫"},
+{"en": "iodine deficiency goiter","ja": "ヨウ素欠乏性甲状腺腫"},
+{"en": "treat a goiter","ja": "甲状腺腫を治療する"},
+{"en": "a visible goiter","ja": "目に見える甲状腺腫"},
+{"en": "cause goiter","ja": "甲状腺腫を引き起こす"}
+],
+"related": [
+{"en": "thyroid","ja": "甲状腺"},
+{"en": "iodine","ja": "ヨウ素"},
+{"en": "swelling","ja": "腫れ"},
+{"en": "gland","ja": "腺"}
+],
+"faq": [
+{"q": "goiter とは？","a": "のどにある甲状腺が異常に大きくなって腫れる病気「甲状腺腫」です。"},
+{"q": "原因は？","a": "ヨウ素（iodine）の不足などが原因の一つです。"}
+],
+"quiz": [
+{"q": "goiter の意味は？","A": "甲状腺腫（のどの腫れ）","B": "頭痛","C": "骨折","D": "虫歯","correct": "A"},
+{"q": "goiter の原因の一つは？","A": "ヨウ素不足","B": "睡眠不足","C": "運動不足","D": "日照不足","correct": "A"}
+]
+},
+{
+"english": "gone",
+"pron": "ɡɒn",
+"kana": "ゴーン",
+"hinshi": "形容詞 / 動詞",
+"ld_pos": "動詞",
+"ld_etym": "古英語 gān（行く）",
+"ld_level": "5級",
+"badges": ["小学生〜","英検5級","CEFR A1","基本語"],
+"meaning_main": "行ってしまった／なくなった／過ぎ去った",
+"description": "gone（ゴーン）は go（行く）の過去分詞。「行ってしまった・いなくなった」「なくなった」「過ぎ去った」を表す。have gone（行ってしまった）や be gone（なくなった）の形で使う基本語。",
+"keywords": ["gone 意味","なくなった 英語","go 過去分詞"],
+"meanings": [
+{"hinshi": "【動詞】go の過去分詞","note": "have gone で「行ってしまった」"},
+{"hinshi": "【形容詞】いなくなった・なくなった","note": "その場から消えた、使い果たされた"}
+],
+"usages": [
+{"title": "① 行ってしまった","desc": "have gone","example_en": "She has gone to the store.","example_ja": "彼女は店に行ってしまった。"},
+{"title": "② なくなった","desc": "be gone","example_en": "All the cookies are gone.","example_ja": "クッキーは全部なくなった。"}
+],
+"warn": ["go-went-gone と活用。have been（行ってきた）と have gone（行ったきり）は区別"],
+"etym_note": "古英語 gān（行く）の過去分詞に由来。go の不規則変化形。",
+"etym_chain": [
+{"node": "gān","sub": "行く","era": "古英語"},
+{"node": "gone","sub": "行ってしまった","era": "現代英語"}
+],
+"phrases": [
+{"en": "have gone","ja": "行ってしまった"},
+{"en": "be gone","ja": "いなくなる・なくなる"},
+{"en": "long gone","ja": "とっくに過ぎ去った"},
+{"en": "gone forever","ja": "永遠に去った"},
+{"en": "days gone by","ja": "過ぎ去った日々"},
+{"en": "gone but not forgotten","ja": "去ったが忘れられない"}
+],
+"related": [
+{"en": "go","ja": "行く"},
+{"en": "went","ja": "行った（過去形）"},
+{"en": "vanished","ja": "消えた"},
+{"en": "departed","ja": "去った"}
+],
+"faq": [
+{"q": "have gone と have been の違いは？","a": "have gone は「行ったきり（まだそこにいる）」、have been は「行って戻ってきた」です。"},
+{"q": "be gone とは？","a": "「なくなった・いなくなった」という意味です。"}
+],
+"quiz": [
+{"q": "gone の意味は？","A": "行ってしまった・なくなった","B": "戻ってきた","C": "始まった","D": "生まれた","correct": "A"},
+{"q": "go の過去分詞は？","A": "gone","B": "went","C": "going","D": "goes","correct": "A"}
+]
+},
+{
+"english": "gosh",
+"pron": "ɡɒʃ",
+"kana": "ゴッシュ",
+"hinshi": "間投詞",
+"ld_pos": "間投詞",
+"ld_etym": "God の婉曲表現",
+"ld_level": "準2級",
+"badges": ["中学生〜","口語","英検準2級","CEFR B1"],
+"meaning_main": "おや／まあ／うわあ（驚き・感嘆）",
+"description": "gosh（ゴッシュ）は、驚きや感嘆、困惑を表すくだけた間投詞。「おや」「まあ」「うわあ」に近い。God（神）を直接口にするのを避けた婉曲表現で、oh my gosh（なんてこと）の形でよく使う。",
+"keywords": ["gosh 意味","感嘆 英語","oh my gosh"],
+"meanings": [
+{"hinshi": "【間投詞】おや・まあ・うわあ","note": "驚きや感嘆、困惑を表すくだけた語"}
+],
+"usages": [
+{"title": "① 驚きを表す","desc": "感嘆","example_en": "Gosh, that's amazing!","example_ja": "うわあ、それはすごい！"},
+{"title": "② oh my gosh","desc": "強い驚き","example_en": "Oh my gosh, I can't believe it!","example_ja": "なんてこと、信じられない！"}
+],
+"warn": ["God の婉曲表現。oh my gosh（OMG）は「なんてこと」。golly も同じ系統"],
+"etym_note": "God（神）を直接口にするのを避けた婉曲表現。18世紀ごろから使われる。",
+"etym_chain": [
+{"node": "God","sub": "神","era": "英語"},
+{"node": "gosh","sub": "おや・まあ","era": "現代英語"}
+],
+"phrases": [
+{"en": "oh my gosh","ja": "なんてこと"},
+{"en": "gosh, really?","ja": "えっ、本当？"},
+{"en": "gosh, thanks","ja": "わあ、ありがとう"},
+{"en": "gosh darn it","ja": "ちくしょう（婉曲）"},
+{"en": "Gosh, I'm sorry","ja": "ああ、ごめんなさい"},
+{"en": "gosh, no","ja": "いやいや、まさか"}
+],
+"related": [
+{"en": "golly","ja": "おやまあ"},
+{"en": "gee","ja": "おや・へえ"},
+{"en": "wow","ja": "うわあ"},
+{"en": "goodness","ja": "おやまあ"}
+],
+"faq": [
+{"q": "gosh はどんなときに使う？","a": "驚きや感嘆、困惑を表すときに「おや・まあ・うわあ」といった感じで使います。"},
+{"q": "oh my gosh とは？","a": "「なんてこと・うわあ」という強い驚きを表す表現です。"}
+],
+"quiz": [
+{"q": "gosh の意味は？","A": "おや・まあ（驚き・感嘆）","B": "さようなら","C": "こんにちは","D": "はい","correct": "A"},
+{"q": "gosh は何の婉曲表現？","A": "God（神）","B": "Good（良い）","C": "Go（行く）","D": "Get（得る）","correct": "A"}
+]
+},
+{
+"english": "gpu",
+"pron": "ˌdʒiːpiːˈjuː",
+"kana": "ジーピーユー",
+"hinshi": "名詞（略語）",
+"ld_pos": "名詞",
+"ld_etym": "Graphics Processing Unit の略",
+"ld_level": "準1級",
+"badges": ["高校生〜","IT・コンピュータ","略語","英検準1級"],
+"meaning_main": "GPU（画像処理装置）",
+"description": "GPU（ジーピーユー）は Graphics Processing Unit（グラフィックス処理装置）の略。もとは画像やゲームの映像を高速に描画するための装置。並列計算が得意で、近年はAIの学習にも広く使われる。",
+"keywords": ["gpu 意味","グラフィックス処理装置 英語","gpu ai"],
+"meanings": [
+{"hinshi": "【略語】GPU・画像処理装置","note": "画像描画や並列計算を高速に行う装置。AIの学習にも使う"}
+],
+"usages": [
+{"title": "① 映像を描画","desc": "ゲーム・グラフィック","example_en": "A powerful GPU makes games run smoothly.","example_ja": "強力なGPUはゲームをなめらかに動かす。"},
+{"title": "② AIの計算に","desc": "並列処理","example_en": "GPUs are essential for training AI models.","example_ja": "GPUはAIモデルの学習に不可欠だ。"}
+],
+"warn": ["CPU（中央処理装置）と対で使われる。並列計算が得意で、AI・機械学習で重要"],
+"etym_note": "Graphics（グラフィックス）+ Processing（処理）+ Unit（装置）の頭文字。",
+"etym_chain": [
+{"node": "Graphics Processing Unit","sub": "画像処理装置","era": "20世紀"},
+{"node": "GPU","sub": "ジーピーユー","era": "現代英語"}
+],
+"phrases": [
+{"en": "a powerful GPU","ja": "強力なGPU"},
+{"en": "GPU memory","ja": "GPUのメモリ"},
+{"en": "train on a GPU","ja": "GPUで学習する"},
+{"en": "CPU and GPU","ja": "CPUとGPU"},
+{"en": "a graphics card GPU","ja": "グラフィックボードのGPU"},
+{"en": "GPU acceleration","ja": "GPUによる高速化"}
+],
+"related": [
+{"en": "CPU","ja": "中央処理装置"},
+{"en": "graphics","ja": "グラフィック"},
+{"en": "processor","ja": "処理装置"},
+{"en": "AI","ja": "人工知能"}
+],
+"faq": [
+{"q": "GPU とは？","a": "Graphics Processing Unit（画像処理装置）の略で、映像描画や並列計算を高速に行う装置です。"},
+{"q": "CPU との違いは？","a": "CPU は汎用的な処理、GPU は大量の並列計算（画像やAI）が得意です。"}
+],
+"quiz": [
+{"q": "GPU の意味は？","A": "画像処理装置","B": "中央処理装置","C": "記憶装置","D": "電源装置","correct": "A"},
+{"q": "GPU が近年よく使われる分野は？","A": "AIの学習","B": "郵便配達","C": "農業","D": "料理","correct": "A"}
+]
+},
+{
+"english": "graben",
+"pron": "ˈɡrɑːbən",
+"kana": "グラーベン",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "ドイツ語 Graben（溝）",
+"ld_level": "1級",
+"badges": ["大学生〜","地学・専門","英検1級","CEFR C1"],
+"meaning_main": "地溝（両側の断層に挟まれて落ち込んだ細長い低地）",
+"description": "graben（グラーベン）は「地溝」。地殻の両側が断層でずれ、その間の部分が細長く落ち込んでできた低地。反対に持ち上がった部分は horst（地塁）。アフリカの大地溝帯などが有名な地学の語。",
+"keywords": ["graben 意味","地溝 英語","graben 断層"],
+"meanings": [
+{"hinshi": "【名詞】地溝","note": "両側の断層に挟まれて落ち込んだ細長い低地"}
+],
+"usages": [
+{"title": "① 落ち込んだ低地","desc": "断層地形","example_en": "A graben forms when land drops between two faults.","example_ja": "地溝は、2つの断層の間で土地が落ち込むとできる。"},
+{"title": "② 大地溝帯","desc": "地質学","example_en": "The East African Rift includes large grabens.","example_ja": "東アフリカ地溝帯には大きな地溝が含まれる。"}
+],
+"warn": ["反対（隆起した部分）は horst（地塁）。ドイツ語 Graben（溝）由来"],
+"etym_note": "ドイツ語 Graben（溝・堀。graben 掘る）に由来する地質学の用語。",
+"etym_chain": [
+{"node": "graben","sub": "掘る・溝","era": "ドイツ語"},
+{"node": "graben","sub": "地溝","era": "現代英語"}
+],
+"phrases": [
+{"en": "a rift graben","ja": "リフト地溝"},
+{"en": "form a graben","ja": "地溝を形成する"},
+{"en": "a fault graben","ja": "断層地溝"},
+{"en": "the graben valley","ja": "地溝の谷"},
+{"en": "horst and graben","ja": "地塁と地溝"},
+{"en": "a large graben","ja": "大きな地溝"}
+],
+"related": [
+{"en": "horst","ja": "地塁"},
+{"en": "fault","ja": "断層"},
+{"en": "rift","ja": "裂け目・地溝帯"},
+{"en": "valley","ja": "谷"}
+],
+"faq": [
+{"q": "graben とは？","a": "地殻の両側が断層でずれ、その間が落ち込んでできた細長い低地「地溝」です。"},
+{"q": "反対の地形は？","a": "horst（地塁＝持ち上がった部分）です。"}
+],
+"quiz": [
+{"q": "graben の意味は？","A": "地溝（落ち込んだ低地）","B": "山の頂","C": "火山","D": "氷河","correct": "A"},
+{"q": "graben の反対（隆起した部分）は？","A": "horst","B": "rift","C": "fault","D": "valley","correct": "A"}
+]
+},
+{
+"english": "gradualism",
+"pron": "ˈɡrædʒuəlɪzəm",
+"kana": "グラデュアリズム",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "ラテン語 gradus（段階）",
+"ld_level": "1級",
+"badges": ["大学生〜","思想・科学","英検1級","CEFR C1"],
+"meaning_main": "漸進主義（少しずつ段階的に変えていく立場）",
+"description": "gradualism（グラデュアリズム）は「漸進主義」。急激な変革ではなく、少しずつ段階を踏んで物事を変えていくべきだとする考え方。政治改革や、生物の進化・地質変化の理論などで使われる語。",
+"keywords": ["gradualism 意味","漸進主義 英語","gradual 名詞"],
+"meanings": [
+{"hinshi": "【名詞】漸進主義","note": "急激でなく少しずつ段階的に変えていくべきとする立場"}
+],
+"usages": [
+{"title": "① 政治改革の立場","desc": "段階的変革","example_en": "He favored gradualism over revolution.","example_ja": "彼は革命よりも漸進主義を好んだ。"},
+{"title": "② 科学の理論","desc": "少しずつの変化","example_en": "Gradualism holds that geological change is slow.","example_ja": "漸進主義は、地質の変化は緩やかだと考える。"}
+],
+"warn": ["形容詞は gradual（段階的な）。反対は revolutionary（革命的）や catastrophism（激変説）"],
+"etym_note": "ラテン語 gradus（段階・歩み）に由来する gradual に、主義を表す -ism が付いた語。",
+"etym_chain": [
+{"node": "gradus","sub": "段階","era": "ラテン語"},
+{"node": "gradual","sub": "段階的な","era": "近代英語"},
+{"node": "gradualism","sub": "漸進主義","era": "現代英語"}
+],
+"phrases": [
+{"en": "political gradualism","ja": "政治的漸進主義"},
+{"en": "favor gradualism","ja": "漸進主義を好む"},
+{"en": "a policy of gradualism","ja": "漸進主義の方針"},
+{"en": "gradualism vs. revolution","ja": "漸進主義対革命"},
+{"en": "evolutionary gradualism","ja": "進化の漸進説"},
+{"en": "reject gradualism","ja": "漸進主義を退ける"}
+],
+"related": [
+{"en": "gradual","ja": "段階的な"},
+{"en": "reform","ja": "改革"},
+{"en": "evolution","ja": "進化"},
+{"en": "radicalism","ja": "急進主義"}
+],
+"faq": [
+{"q": "gradualism とは？","a": "急激な変革ではなく、少しずつ段階的に物事を変えていくべきだとする「漸進主義」です。"},
+{"q": "反対の立場は？","a": "revolutionary（革命的）な立場や、地質学の catastrophism（激変説）です。"}
+],
+"quiz": [
+{"q": "gradualism の意味は？","A": "少しずつ段階的に変える漸進主義","B": "急激な革命主義","C": "現状維持","D": "無政府主義","correct": "A"},
+{"q": "gradualism の形容詞形は？","A": "gradual","B": "grand","C": "grateful","D": "graphic","correct": "A"}
+]
+},
+{
+"english": "gram",
+"pron": "ɡræm",
+"kana": "グラム",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "ギリシャ語 gramma（小さな重さ・文字）",
+"ld_level": "4級",
+"badges": ["小学生〜","英検4級","CEFR A1","単位"],
+"meaning_main": "グラム（重さの単位）",
+"description": "gram（グラム）は「グラム」。重さ（質量）を表すメートル法の基本的な単位。1000グラムで1キログラム。記号は g。食品や薬など、身近なものの重さを表すのに使う。英つづりは gramme とも。",
+"keywords": ["gram 意味","グラム 単位","gram 重さ"],
+"meanings": [
+{"hinshi": "【名詞】グラム","note": "重さ（質量）を表すメートル法の単位。1000gで1kg"}
+],
+"usages": [
+{"title": "① 重さを量る","desc": "食品など","example_en": "Add 200 grams of flour.","example_ja": "小麦粉を200グラム加えて。"},
+{"title": "② 記号は g","desc": "単位表示","example_en": "The package weighs 500 g.","example_ja": "その包みは500グラムだ。"}
+],
+"warn": ["1000グラム = 1キログラム（kg）。記号は g。英つづりは gramme"],
+"etym_note": "ギリシャ語 gramma（小さな重さ・書かれたもの）に由来し、フランス語 gramme を経て英語へ。",
+"etym_chain": [
+{"node": "gramma","sub": "小さな重さ","era": "ギリシャ語"},
+{"node": "gramme","sub": "グラム","era": "フランス語"},
+{"node": "gram","sub": "グラム","era": "現代英語"}
+],
+"phrases": [
+{"en": "100 grams","ja": "100グラム"},
+{"en": "grams per liter","ja": "1リットルあたりのグラム数"},
+{"en": "a gram of gold","ja": "金1グラム"},
+{"en": "weigh in grams","ja": "グラムで量る"},
+{"en": "milligrams and grams","ja": "ミリグラムとグラム"},
+{"en": "500 grams of sugar","ja": "砂糖500グラム"}
+],
+"related": [
+{"en": "kilogram","ja": "キログラム"},
+{"en": "milligram","ja": "ミリグラム"},
+{"en": "weight","ja": "重さ"},
+{"en": "ounce","ja": "オンス"}
+],
+"faq": [
+{"q": "gram の記号は？","a": "g です。1000グラムで1キログラム（kg）になります。"},
+{"q": "英つづりは？","a": "gramme とも書きます（アメリカは gram）。"}
+],
+"quiz": [
+{"q": "gram の意味は？","A": "重さの単位（グラム）","B": "長さの単位","C": "時間の単位","D": "温度の単位","correct": "A"},
+{"q": "1キログラムは何グラム？","A": "1000グラム","B": "100グラム","C": "10グラム","D": "10000グラム","correct": "A"}
+]
+},
+{
+"english": "grandiloquent",
+"pron": "ɡrænˈdɪləkwənt",
+"kana": "グランディロクエント",
+"hinshi": "形容詞",
+"ld_pos": "形容詞",
+"ld_etym": "ラテン語 grandis（大きい）+ loqui（話す）",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","フォーマル"],
+"meaning_main": "大げさな言葉遣いの／もったいぶった",
+"description": "grandiloquent（グランディロクエント）は「大げさな言葉遣いの・もったいぶった」。実際以上に立派に聞こえるよう、仰々しく飾り立てた言葉や話し方を、しばしば批判的に表す形容詞。",
+"keywords": ["grandiloquent 意味","大げさな言葉 英語","grandiloquent もったいぶった"],
+"meanings": [
+{"hinshi": "【形容詞】大げさな言葉遣いの・もったいぶった","note": "仰々しく飾り立てた言葉や話し方の。しばしば否定的"}
+],
+"usages": [
+{"title": "① 仰々しい演説","desc": "大げさな言葉","example_en": "His grandiloquent speech impressed no one.","example_ja": "彼の大げさな演説は誰の心も動かさなかった。"},
+{"title": "② もったいぶった表現","desc": "飾り立てた","example_en": "She avoided grandiloquent language.","example_ja": "彼女は大げさな言葉遣いを避けた。"}
+],
+"warn": ["名詞は grandiloquence（大言壮語）。pompous（尊大な）や bombastic（大げさな）と近い"],
+"etym_note": "ラテン語 grandis（大きい）+ loqui（話す）から。「大きく話す」の意味。",
+"etym_chain": [
+{"node": "grandis","sub": "大きい","era": "ラテン語"},
+{"node": "loqui","sub": "話す","era": "ラテン語"},
+{"node": "grandiloquent","sub": "大げさな言葉遣いの","era": "現代英語"}
+],
+"phrases": [
+{"en": "a grandiloquent speech","ja": "大げさな演説"},
+{"en": "grandiloquent language","ja": "仰々しい言葉遣い"},
+{"en": "grandiloquent phrases","ja": "もったいぶった言い回し"},
+{"en": "sound grandiloquent","ja": "大げさに聞こえる"},
+{"en": "a grandiloquent style","ja": "仰々しい文体"},
+{"en": "grandiloquent claims","ja": "大げさな主張"}
+],
+"related": [
+{"en": "pompous","ja": "尊大な"},
+{"en": "bombastic","ja": "大げさな"},
+{"en": "grandiose","ja": "壮大ぶった"},
+{"en": "understated","ja": "控えめな"}
+],
+"faq": [
+{"q": "grandiloquent の名詞形は？","a": "grandiloquence（大言壮語・仰々しさ）です。"},
+{"q": "bombastic との違いは？","a": "ほぼ同義で、どちらも「大げさな言葉遣い」を否定的に表します。"}
+],
+"quiz": [
+{"q": "grandiloquent の意味は？","A": "大げさな言葉遣いの・もったいぶった","B": "簡潔な","C": "控えめな","D": "無口な","correct": "A"},
+{"q": "grandiloquent と近い意味は？","A": "pompous","B": "modest","C": "quiet","D": "plain","correct": "A"}
+]
+},
+{
+"english": "grantee",
+"pron": "ɡrænˈtiː",
+"kana": "グランティー",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "grant（与える）+ -ee（〜される人）",
+"ld_level": "1級",
+"badges": ["大学生〜","法律・行政","英検1級","CEFR C1"],
+"meaning_main": "被交付者（助成金・権利を与えられる人）",
+"description": "grantee（グランティー）は「被交付者」。助成金・補助金・権利・財産などを、正式に与えられる側の人や団体を指す。与える側は grantor（交付者）。-ee は「〜される人」を表す接尾辞。",
+"keywords": ["grantee 意味","被交付者 英語","grantor 反対"],
+"meanings": [
+{"hinshi": "【名詞】被交付者","note": "助成金・権利・財産などを与えられる側の人や団体"}
+],
+"usages": [
+{"title": "① 助成金の受給者","desc": "与えられる側","example_en": "The grantee must report how the funds are used.","example_ja": "被交付者は資金の使途を報告しなければならない。"},
+{"title": "② 権利を得る人","desc": "法律・不動産","example_en": "The grantee received the property from the seller.","example_ja": "被交付者は売り手から財産を譲り受けた。"}
+],
+"warn": ["-ee は「〜される人」（employee＝雇われる人）。与える側は grantor（交付者）"],
+"etym_note": "grant（与える・交付する）に、「〜される人」を表す -ee が付いた語。",
+"etym_chain": [
+{"node": "grant","sub": "与える","era": "中英語"},
+{"node": "grantee","sub": "被交付者","era": "現代英語"}
+],
+"phrases": [
+{"en": "a grant recipient / grantee","ja": "助成金の被交付者"},
+{"en": "the grantee and grantor","ja": "被交付者と交付者"},
+{"en": "notify the grantee","ja": "被交付者に通知する"},
+{"en": "obligations of the grantee","ja": "被交付者の義務"},
+{"en": "a research grantee","ja": "研究助成の被交付者"},
+{"en": "the grantee of a license","ja": "免許の被交付者"}
+],
+"related": [
+{"en": "grantor","ja": "交付者"},
+{"en": "grant","ja": "助成金・与える"},
+{"en": "recipient","ja": "受給者"},
+{"en": "beneficiary","ja": "受益者"}
+],
+"faq": [
+{"q": "grantee と grantor の違いは？","a": "grantee は「与えられる側（被交付者）」、grantor は「与える側（交付者）」です。"},
+{"q": "-ee はどんな意味？","a": "「〜される人」を表す接尾辞です（employee＝雇われる人）。"}
+],
+"quiz": [
+{"q": "grantee の意味は？","A": "被交付者（与えられる側）","B": "交付者（与える側）","C": "審査員","D": "監督官","correct": "A"},
+{"q": "grantee の反対（与える側）は？","A": "grantor","B": "grantee だけ","C": "granter","D": "granted","correct": "A"}
+]
+},
+{
+"english": "grappling",
+"pron": "ˈɡræplɪŋ",
+"kana": "グラプリング",
+"hinshi": "動詞 / 名詞",
+"ld_pos": "動詞",
+"ld_etym": "古フランス語 grapil（かぎ）",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","描写語"],
+"meaning_main": "取っ組み合う／（問題と）格闘する・取り組む",
+"description": "grappling（グラプリング）は「取っ組み合う・つかみ合う」。相手と組み合って争うことを表す。転じて、難しい問題に「格闘する・懸命に取り組む」の比喩でよく使う。grapple with ~ の形が定番。",
+"keywords": ["grappling 意味","取っ組み合う 英語","grapple with"],
+"meanings": [
+{"hinshi": "【動詞】取っ組み合う・つかみ合う","note": "相手と組み合って争う"},
+{"hinshi": "【動詞】（問題と）格闘する","note": "難しい問題に懸命に取り組む（比喩）"}
+],
+"usages": [
+{"title": "① 問題と格闘する","desc": "grapple with ~","example_en": "The government is grappling with the crisis.","example_ja": "政府はその危機と格闘している。"},
+{"title": "② 取っ組み合い","desc": "組み合う","example_en": "The two men were grappling on the ground.","example_ja": "2人の男が地面で取っ組み合っていた。"}
+],
+"warn": ["grapple with ~ で「（問題と）取り組む」。名詞 grapnel（かぎ縄）と同語源"],
+"etym_note": "古フランス語 grapil（かぎ・留め金）に由来する grapple の -ing形。「かぎでつかむ」から。",
+"etym_chain": [
+{"node": "grapil","sub": "かぎ","era": "古フランス語"},
+{"node": "grapple","sub": "つかみ合う","era": "中英語"},
+{"node": "grappling","sub": "取っ組み合う","era": "現代英語"}
+],
+"phrases": [
+{"en": "grapple with a problem","ja": "問題と格闘する"},
+{"en": "grapple with an issue","ja": "課題に取り組む"},
+{"en": "a grappling hook","ja": "かぎ縄"},
+{"en": "grappling for control","ja": "主導権を奪い合う"},
+{"en": "grapple with reality","ja": "現実と向き合う"},
+{"en": "still grappling","ja": "いまだ格闘している"}
+],
+"related": [
+{"en": "grapple","ja": "つかみ合う・取り組む"},
+{"en": "wrestle","ja": "取っ組み合う"},
+{"en": "struggle","ja": "もがく"},
+{"en": "tackle","ja": "取り組む"}
+],
+"faq": [
+{"q": "grapple with とは？","a": "「（難しい問題と）格闘する・懸命に取り組む」という意味です。"},
+{"q": "grappling hook とは？","a": "先にかぎのついた「かぎ縄」で、引っかけて登ったり物をつかんだりします。"}
+],
+"quiz": [
+{"q": "grappling の意味は？","A": "取っ組み合う／問題と格闘する","B": "逃げる","C": "無視する","D": "眠る","correct": "A"},
+{"q": "grapple with a problem の意味は？","A": "問題と格闘する","B": "問題を無視する","C": "問題を作る","D": "問題を隠す","correct": "A"}
+]
+},
+{
+"english": "grassroots",
+"pron": "ˈɡræsruːts",
+"kana": "グラスルーツ",
+"hinshi": "名詞 / 形容詞",
+"ld_pos": "名詞",
+"ld_etym": "grass（草）+ roots（根）",
+"ld_level": "1級",
+"badges": ["大学生〜","政治・社会","英検1級","CEFR C1"],
+"meaning_main": "草の根（一般の人々・末端）／草の根の",
+"description": "grassroots（グラスルーツ）は「草の根」。政治や社会運動で、指導層や組織の上層部ではなく、一般の人々・末端のレベルを指す。grassroots movement（草の根運動）のように形容詞的にも使う。",
+"keywords": ["grassroots 意味","草の根 英語","grassroots 運動"],
+"meanings": [
+{"hinshi": "【名詞】草の根","note": "指導層でなく、一般の人々・末端のレベル"},
+{"hinshi": "【形容詞】草の根の","note": "一般市民から起こる・末端の"}
+],
+"usages": [
+{"title": "① 草の根運動","desc": "市民主導","example_en": "The campaign started as a grassroots movement.","example_ja": "その運動は草の根運動として始まった。"},
+{"title": "② 一般市民の支持","desc": "末端の支持","example_en": "The party has strong grassroots support.","example_ja": "その党は草の根の強い支持を持つ。"}
+],
+"warn": ["grass（草）+ roots（根）から。組織の上層部でなく「末端・一般市民」を表す"],
+"etym_note": "grass（草）+ roots（根）からなる語。「草の根＝地面に近い末端・一般の人々」の比喩。",
+"etym_chain": [
+{"node": "grass","sub": "草","era": "古英語"},
+{"node": "grassroots","sub": "草の根","era": "現代英語"}
+],
+"phrases": [
+{"en": "a grassroots movement","ja": "草の根運動"},
+{"en": "grassroots support","ja": "草の根の支持"},
+{"en": "at the grassroots level","ja": "草の根のレベルで"},
+{"en": "grassroots activism","ja": "草の根の活動"},
+{"en": "a grassroots campaign","ja": "草の根の運動"},
+{"en": "grassroots organizations","ja": "草の根の団体"}
+],
+"related": [
+{"en": "community","ja": "地域社会"},
+{"en": "movement","ja": "運動"},
+{"en": "local","ja": "地元の"},
+{"en": "bottom-up","ja": "ボトムアップの"}
+],
+"faq": [
+{"q": "grassroots とは？","a": "指導層ではなく、一般の人々・末端のレベルを指す「草の根」です。"},
+{"q": "grassroots movement とは？","a": "一般市民が下から起こす「草の根運動」のことです。"}
+],
+"quiz": [
+{"q": "grassroots の意味は？","A": "草の根（一般の人々・末端）","B": "指導層","C": "大企業","D": "政府高官","correct": "A"},
+{"q": "grassroots movement とは？","A": "草の根運動（市民主導）","B": "軍事作戦","C": "企業合併","D": "国際会議","correct": "A"}
+]
+},
+{
+"english": "graticule",
+"pron": "ˈɡrætɪkjuːl",
+"kana": "グラティキュール",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "ラテン語 craticula（格子）",
+"ld_level": "1級",
+"badges": ["大学生〜","地図・光学","英検1級","CEFR C1"],
+"meaning_main": "（地図の）経緯線網／（光学器械の）目盛り線",
+"description": "graticule（グラティキュール）は「経緯線網」。地図に引かれた、経線（縦）と緯線（横）が作る格子状の線を指す。また、望遠鏡や顕微鏡の視野にある、測定用の目盛り線（レチクル）も指す専門語。",
+"keywords": ["graticule 意味","経緯線網 英語","graticule 地図"],
+"meanings": [
+{"hinshi": "【名詞】（地図の）経緯線網","note": "地図の経線と緯線が作る格子状の線"},
+{"hinshi": "【名詞】（光学器械の）目盛り線","note": "望遠鏡や顕微鏡の視野にある測定用の線"}
+],
+"usages": [
+{"title": "① 地図の経緯線","desc": "位置の基準","example_en": "The map's graticule shows latitude and longitude.","example_ja": "その地図の経緯線網は緯度と経度を示す。"},
+{"title": "② 器械の目盛り線","desc": "測定用","example_en": "The microscope has a graticule for measurement.","example_ja": "その顕微鏡には測定用の目盛り線がある。"}
+],
+"warn": ["ラテン語 craticula（小さな格子）由来。光学では reticle（レチクル）とも"],
+"etym_note": "ラテン語 craticula（小さな格子。cratis 枝編み）に由来。「格子状の線」から。",
+"etym_chain": [
+{"node": "cratis","sub": "枝編み","era": "ラテン語"},
+{"node": "craticula","sub": "小さな格子","era": "ラテン語"},
+{"node": "graticule","sub": "経緯線網","era": "現代英語"}
+],
+"phrases": [
+{"en": "a map graticule","ja": "地図の経緯線網"},
+{"en": "the graticule lines","ja": "経緯線"},
+{"en": "an eyepiece graticule","ja": "接眼レンズの目盛り線"},
+{"en": "read the graticule","ja": "目盛り線を読む"},
+{"en": "a graticule overlay","ja": "経緯線の重ね図"},
+{"en": "align with the graticule","ja": "目盛り線に合わせる"}
+],
+"related": [
+{"en": "grid","ja": "格子"},
+{"en": "latitude","ja": "緯度"},
+{"en": "longitude","ja": "経度"},
+{"en": "reticle","ja": "レチクル（照準線）"}
+],
+"faq": [
+{"q": "graticule とは？","a": "地図の経線・緯線が作る格子状の線「経緯線網」や、光学器械の目盛り線を指します。"},
+{"q": "reticle との違いは？","a": "ほぼ同義で、光学器械の視野にある測定・照準用の線を指します。"}
+],
+"quiz": [
+{"q": "地図での graticule の意味は？","A": "経緯線網（経線と緯線の格子）","B": "凡例","C": "縮尺","D": "方位記号","correct": "A"},
+{"q": "graticule の語源「craticula」の意味は？","A": "小さな格子","B": "大きな山","C": "深い海","D": "広い空","correct": "A"}
+]
+},
+{
+"english": "grayish",
+"pron": "ˈɡreɪɪʃ",
+"kana": "グレイッシュ",
+"hinshi": "形容詞",
+"ld_pos": "形容詞",
+"ld_etym": "gray（灰色）+ -ish（〜がかった）",
+"ld_level": "準1級",
+"badges": ["高校生〜","英検準1級","CEFR B2","色"],
+"meaning_main": "灰色がかった／やや灰色の",
+"description": "grayish（グレイッシュ）は「灰色がかった・やや灰色の」。完全な灰色ではなく、灰色みを帯びた色合いを表す形容詞。gray（灰色）+ -ish（〜がかった）からなる。英つづりは greyish。",
+"keywords": ["grayish 意味","灰色がかった 英語","gray 形容詞"],
+"meanings": [
+{"hinshi": "【形容詞】灰色がかった・やや灰色の","note": "完全な灰色でなく、灰色みを帯びた色合いの"}
+],
+"usages": [
+{"title": "① 灰色がかった色","desc": "色合い","example_en": "The sky turned a grayish color.","example_ja": "空は灰色がかった色になった。"},
+{"title": "② やや灰色の","desc": "微妙な色味","example_en": "His hair is grayish now.","example_ja": "彼の髪は今や灰色がかっている。"}
+],
+"warn": ["-ish は「〜がかった・〜っぽい」を表す（reddish＝赤みがかった）。英つづりは greyish"],
+"etym_note": "gray（灰色。古英語 grǣg）に、-ish（〜がかった）が付いた語。",
+"etym_chain": [
+{"node": "grǣg","sub": "灰色","era": "古英語"},
+{"node": "gray","sub": "灰色","era": "中英語"},
+{"node": "grayish","sub": "灰色がかった","era": "現代英語"}
+],
+"phrases": [
+{"en": "a grayish color","ja": "灰色がかった色"},
+{"en": "grayish blue","ja": "灰色がかった青"},
+{"en": "grayish hair","ja": "灰色がかった髪"},
+{"en": "a grayish sky","ja": "どんよりした空"},
+{"en": "grayish white","ja": "灰色がかった白"},
+{"en": "a grayish tint","ja": "灰色がかった色味"}
+],
+"related": [
+{"en": "gray","ja": "灰色"},
+{"en": "reddish","ja": "赤みがかった"},
+{"en": "bluish","ja": "青みがかった"},
+{"en": "pale","ja": "淡い"}
+],
+"faq": [
+{"q": "grayish の -ish はどんな意味？","a": "「〜がかった・〜っぽい」を表す接尾辞です（reddish＝赤みがかった）。"},
+{"q": "英つづりは？","a": "greyish です（アメリカは grayish）。"}
+],
+"quiz": [
+{"q": "grayish の意味は？","A": "灰色がかった・やや灰色の","B": "真っ赤な","C": "真っ青な","D": "真っ黄色な","correct": "A"},
+{"q": "-ish が表す意味は？","A": "〜がかった・〜っぽい","B": "〜がない","C": "〜より前の","D": "〜の反対","correct": "A"}
+]
+},
+{
+"english": "grayling",
+"pron": "ˈɡreɪlɪŋ",
+"kana": "グレイリング",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "gray（灰色）+ -ling",
+"ld_level": "1級",
+"badges": ["大学生〜","魚・生物","英検1級","CEFR C1"],
+"meaning_main": "カワヒメマス（サケ科の淡水魚）／ジャノメチョウ",
+"description": "grayling（グレイリング）は「カワヒメマス」。冷たくきれいな川にすむサケ科の淡水魚で、大きな背びれと銀灰色の体が特徴。釣りの対象魚として知られる。同名でジャノメチョウの一種も指す。",
+"keywords": ["grayling 意味","カワヒメマス 英語","grayling 魚"],
+"meanings": [
+{"hinshi": "【名詞】カワヒメマス","note": "冷たくきれいな川にすむサケ科の淡水魚"},
+{"hinshi": "【名詞】ジャノメチョウ","note": "灰色みを帯びたチョウの一種"}
+],
+"usages": [
+{"title": "① 川釣りの魚","desc": "サケ科","example_en": "Anglers prize the grayling for its beauty.","example_ja": "釣り人はその美しさからカワヒメマスを珍重する。"},
+{"title": "② きれいな川にすむ","desc": "水質の指標","example_en": "Grayling live only in clean, cold rivers.","example_ja": "カワヒメマスは冷たくきれいな川にしかすまない。"}
+],
+"warn": ["gray（灰色）+ -ling（小さいもの）から。銀灰色の体色にちなむ"],
+"etym_note": "gray（灰色）+ -ling（小さいものを表す接尾辞）からなる語。銀灰色の体色から。",
+"etym_chain": [
+{"node": "gray","sub": "灰色","era": "古英語"},
+{"node": "grayling","sub": "カワヒメマス","era": "中英語"}
+],
+"phrases": [
+{"en": "catch a grayling","ja": "カワヒメマスを釣る"},
+{"en": "a wild grayling","ja": "野生のカワヒメマス"},
+{"en": "grayling fishing","ja": "カワヒメマス釣り"},
+{"en": "the fin of a grayling","ja": "カワヒメマスのひれ"},
+{"en": "a river grayling","ja": "川のカワヒメマス"},
+{"en": "spot a grayling","ja": "カワヒメマスを見つける"}
+],
+"related": [
+{"en": "trout","ja": "マス"},
+{"en": "salmon","ja": "サケ"},
+{"en": "fish","ja": "魚"},
+{"en": "freshwater","ja": "淡水の"}
+],
+"faq": [
+{"q": "grayling とは？","a": "冷たくきれいな川にすむサケ科の淡水魚「カワヒメマス」です。同名のチョウもいます。"},
+{"q": "名前の由来は？","a": "gray（灰色）+ -ling で、銀灰色の体色にちなみます。"}
+],
+"quiz": [
+{"q": "grayling（魚）とは何の仲間？","A": "サケ科の淡水魚","B": "貝","C": "エビ","D": "クジラ","correct": "A"},
+{"q": "grayling がすむのは？","A": "冷たくきれいな川","B": "熱帯の海","C": "砂漠のオアシス","D": "深海","correct": "A"}
+]
+}
+]
