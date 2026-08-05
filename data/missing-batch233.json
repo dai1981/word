@@ -1,0 +1,991 @@
+[
+{
+"english": "hazy",
+"pron": "ˈheɪzi",
+"kana": "ヘイジー",
+"hinshi": "形容詞",
+"ld_pos": "形容詞",
+"ld_etym": "haze（かすみ）＋-y",
+"ld_level": "準2級",
+"badges": ["中学生〜","英検準2級","CEFR B1","天気・状態"],
+"meaning_main": "かすんだ／ぼんやりした・あいまいな",
+"description": "hazy（ヘイジー）は「かすんだ」「ぼんやりした」。もやで景色がかすむ様子や、記憶・考えがはっきりしない様子を表す形容詞。名詞 haze（かすみ）の派生語。",
+"keywords": ["hazy 意味","hazy 使い方","hazy 天気","hazy 記憶"],
+"meanings": [
+{"hinshi": "【形容詞】かすんだ","note": "もやや薄雲で視界がぼやける"},
+{"hinshi": "【形容詞】ぼんやりした・あいまいな","note": "記憶や考えがはっきりしない"}
+],
+"usages": [
+{"title": "① 天気・景色","desc": "もやでかすむ","example_en": "The mountains were hazy in the morning light.","example_ja": "山は朝の光の中でかすんで見えた。"},
+{"title": "② 記憶・考え","desc": "あいまいな","example_en": "I have only a hazy memory of that day.","example_ja": "その日のことはぼんやりとしか覚えていない。"}
+],
+"warn": ["foggy（霧）より薄く、もや程度のかすみを指すことが多い。","記憶や理解が「あいまい」の意味でも日常的に使う。"],
+"etym_note": "名詞 haze（かすみ・もや、18世紀に登場）に形容詞語尾 -y が付いた語。もともとは天気を表し、後に「記憶があいまい」の比喩へ広がった。",
+"etym_chain": [
+{"node": "haze","sub": "かすみ・もや","era": "18世紀 英語"},
+{"node": "haze + -y","sub": "かすんだ","era": "近代英語"},
+{"node": "hazy","sub": "かすんだ・あいまいな","era": "現代英語"}
+],
+"phrases": [
+{"en": "a hazy sky","ja": "かすんだ空"},
+{"en": "a hazy memory","ja": "あいまいな記憶"},
+{"en": "hazy sunshine","ja": "もやのかかった日ざし"},
+{"en": "a hazy idea","ja": "ぼんやりした考え"},
+{"en": "grow hazy","ja": "かすんでくる"},
+{"en": "hazy in the distance","ja": "遠くでかすんで"}
+],
+"related": [
+{"en": "haze","ja": "かすみ・もや"},
+{"en": "foggy","ja": "霧の"},
+{"en": "misty","ja": "もやのかかった"},
+{"en": "vague","ja": "あいまいな"}
+],
+"faq": [
+{"q": "hazy と foggy の違いは？","a": "foggy は濃い霧で視界がかなり悪い状態、hazy はもや程度で薄くかすむ状態を指します。"},
+{"q": "記憶にも使えますか？","a": "はい。a hazy memory（あいまいな記憶）のように、はっきりしない記憶や考えにも使います。"}
+],
+"quiz": [
+{"q": "hazy の意味は？","A": "かすんだ・ぼんやりした","B": "晴れ渡った","C": "凍った","D": "騒がしい","correct": "A"},
+{"q": "a hazy memory の意味は？","A": "鮮明な記憶","B": "あいまいな記憶","C": "楽しい記憶","D": "つらい記憶","correct": "B"}
+]
+},
+{
+"english": "headhunter",
+"pron": "ˈhedˌhʌntər",
+"kana": "ヘッドハンター",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "head（頭）＋hunter（狩る人）",
+"ld_level": "2級",
+"badges": ["高校生〜","英検2級","CEFR B2","ビジネス"],
+"meaning_main": "人材スカウト（ヘッドハンター）／首狩り族",
+"description": "headhunter（ヘッドハンター）は「（幹部などの）人材を引き抜くスカウト」。優秀な人材を他社から引き抜く採用担当者を指す。元は「首狩り族」の意味。可算名詞。",
+"keywords": ["headhunter 意味","headhunter 使い方","ヘッドハンター 英語","人材 スカウト"],
+"meanings": [
+{"hinshi": "【名詞】人材スカウト","note": "優秀な人材を企業へ引き抜く採用の専門家"},
+{"hinshi": "【名詞】首狩り族","note": "元の意味。敵の首を狩る風習を持つ部族"}
+],
+"usages": [
+{"title": "① ビジネス","desc": "人材を引き抜く","example_en": "A headhunter contacted her about a job at a rival firm.","example_ja": "ヘッドハンターがライバル企業の職について彼女に連絡してきた。"},
+{"title": "② 動詞形","desc": "headhunt（引き抜く）","example_en": "He was headhunted by a major tech company.","example_ja": "彼は大手テック企業に引き抜かれた。"}
+],
+"warn": ["現代のビジネスでは「人材スカウト」の意味が中心。","動詞 headhunt（引き抜く）としても使う。"],
+"etym_note": "head（頭・首）＋hunter（狩る人）。19世紀に「首狩り族」を指した語が、20世紀半ばに「優秀な人材の頭（=人）を狩る＝引き抜く人」という比喩でビジネス用語になった。",
+"etym_chain": [
+{"node": "head + hunter","sub": "首を狩る人","era": "19世紀 英語"},
+{"node": "headhunter","sub": "首狩り族","era": "近代英語"},
+{"node": "headhunter","sub": "人材スカウト","era": "現代英語"}
+],
+"phrases": [
+{"en": "a professional headhunter","ja": "プロの人材スカウト"},
+{"en": "hire a headhunter","ja": "ヘッドハンターを雇う"},
+{"en": "be approached by a headhunter","ja": "ヘッドハンターに声をかけられる"},
+{"en": "work as a headhunter","ja": "人材スカウトとして働く"},
+{"en": "a top headhunter","ja": "一流のヘッドハンター"},
+{"en": "headhunter agency","ja": "人材紹介会社"}
+],
+"related": [
+{"en": "recruiter","ja": "採用担当者"},
+{"en": "recruit","ja": "採用する"},
+{"en": "hire","ja": "雇う"},
+{"en": "scout","ja": "スカウト"}
+],
+"faq": [
+{"q": "headhunter は悪い意味ですか？","a": "現代のビジネスでは中立〜肯定的で「優秀な人材を探し出すスカウト」を指します。元の「首狩り族」の意味とは切り離して使われます。"},
+{"q": "動詞形はありますか？","a": "はい。headhunt で「（人材を）引き抜く」という動詞になります。be headhunted で「引き抜かれる」です。"}
+],
+"quiz": [
+{"q": "現代ビジネスでの headhunter の意味は？","A": "人材スカウト","B": "首狩り族","C": "探偵","D": "警備員","correct": "A"},
+{"q": "be headhunted の意味は？","A": "解雇される","B": "引き抜かれる","C": "昇進する","D": "転勤する","correct": "B"}
+]
+},
+{
+"english": "headland",
+"pron": "ˈhedlənd",
+"kana": "ヘッドランド",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "head（先端）＋land（陸地）",
+"ld_level": "準1級",
+"badges": ["高校生〜","英検準1級","CEFR B2","地理"],
+"meaning_main": "岬（みさき）／突き出た陸地",
+"description": "headland（ヘッドランド）は「岬」「海に突き出た陸地」。海や湖へ張り出した高い陸地の先端を指す地理用語。cape とほぼ同義で、可算名詞。",
+"keywords": ["headland 意味","headland 使い方","岬 英語","地理 用語"],
+"meanings": [
+{"hinshi": "【名詞】岬","note": "海や湖へ突き出た高い陸地の先端"}
+],
+"usages": [
+{"title": "① 地形","desc": "海に突き出た陸地","example_en": "The lighthouse stood on a rocky headland.","example_ja": "灯台は岩だらけの岬に立っていた。"},
+{"title": "② 景色","desc": "岬からの眺め","example_en": "We walked out to the headland to watch the sunset.","example_ja": "私たちは夕日を見に岬へ歩いて出た。"}
+],
+"warn": ["cape（岬）とほぼ同義だが、headland は「陸地が高く突き出た先端」を強調することが多い。","peninsula（半島）より小さく、先端部分を指す。"],
+"etym_note": "head（先端・頭）＋land（陸地）の複合語。中英語期から「畑の端の耕さない部分」も指したが、地理では「海へ突き出た陸地の先端」の意味で定着した。",
+"etym_chain": [
+{"node": "head + land","sub": "陸地の先端","era": "中英語"},
+{"node": "headland","sub": "岬・畑の端","era": "近代英語"},
+{"node": "headland","sub": "岬","era": "現代英語"}
+],
+"phrases": [
+{"en": "a rocky headland","ja": "岩の多い岬"},
+{"en": "a grassy headland","ja": "草に覆われた岬"},
+{"en": "walk along the headland","ja": "岬沿いを歩く"},
+{"en": "the tip of the headland","ja": "岬の先端"},
+{"en": "a windswept headland","ja": "風の吹きすさぶ岬"},
+{"en": "stand on the headland","ja": "岬に立つ"}
+],
+"related": [
+{"en": "cape","ja": "岬"},
+{"en": "peninsula","ja": "半島"},
+{"en": "cliff","ja": "崖"},
+{"en": "coast","ja": "海岸"}
+],
+"faq": [
+{"q": "headland と cape の違いは？","a": "どちらも「岬」ですが、cape は地図名に多く使われる大きめの岬、headland は海へ高く突き出た陸地の先端を指すことが多いです。ほぼ同義です。"},
+{"q": "peninsula との違いは？","a": "peninsula（半島）は三方を水に囲まれた大きな陸地、headland はその先端の突き出た部分を指します。"}
+],
+"quiz": [
+{"q": "headland の意味は？","A": "岬","B": "谷","C": "湖","D": "砂漠","correct": "A"},
+{"q": "headland とほぼ同義の語は？","A": "valley","B": "cape","C": "island","D": "desert","correct": "B"}
+]
+},
+{
+"english": "headphone",
+"pron": "ˈhedˌfoʊn",
+"kana": "ヘッドフォン",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "head（頭）＋phone（音）",
+"ld_level": "4級",
+"badges": ["小学生〜","英検4級","CEFR A2","日常"],
+"meaning_main": "ヘッドフォン（通常は複数形 headphones）",
+"description": "headphone（ヘッドフォン）は頭に装着して耳で音を聞く装置。通常は左右2つあるため複数形 headphones で使う。可算名詞。earphone は耳に入れる小型のもの。",
+"keywords": ["headphone 意味","headphones 使い方","ヘッドフォン 英語","earphone 違い"],
+"meanings": [
+{"hinshi": "【名詞】ヘッドフォン","note": "頭に装着して音を聞く装置。ふつう複数形 headphones"}
+],
+"usages": [
+{"title": "① 複数形が基本","desc": "headphones","example_en": "She put on her headphones and listened to music.","example_ja": "彼女はヘッドフォンをつけて音楽を聞いた。"},
+{"title": "② 種類","desc": "ワイヤレスなど","example_en": "I bought a new pair of wireless headphones.","example_ja": "私は新しいワイヤレスヘッドフォンを買った。"}
+],
+"warn": ["左右2つ一組なので、ふつう複数形 headphones で使う。","一組を数えるときは a pair of headphones と言う。","earphone（イヤフォン）は耳に入れる小型のもので別物。"],
+"etym_note": "head（頭）＋phone（ギリシャ語 phōnē「音・声」）の複合語。20世紀初頭、頭に装着する受話・音響装置を指して生まれた。",
+"etym_chain": [
+{"node": "head + phone","sub": "頭につける音の装置","era": "20世紀初頭 英語"},
+{"node": "headphones","sub": "ヘッドフォン","era": "近代英語"},
+{"node": "headphone(s)","sub": "ヘッドフォン","era": "現代英語"}
+],
+"phrases": [
+{"en": "put on headphones","ja": "ヘッドフォンをつける"},
+{"en": "take off headphones","ja": "ヘッドフォンを外す"},
+{"en": "wireless headphones","ja": "ワイヤレスヘッドフォン"},
+{"en": "noise-canceling headphones","ja": "ノイズキャンセリングヘッドフォン"},
+{"en": "a pair of headphones","ja": "ヘッドフォン一組"},
+{"en": "wear headphones","ja": "ヘッドフォンを着けている"}
+],
+"related": [
+{"en": "earphone","ja": "イヤフォン"},
+{"en": "speaker","ja": "スピーカー"},
+{"en": "microphone","ja": "マイク"},
+{"en": "earbud","ja": "耳栓型イヤフォン"}
+],
+"faq": [
+{"q": "headphone と headphones、どちらを使う？","a": "左右2つで一組なので、ふつう複数形 headphones を使います。一組を数えるときは a pair of headphones と言います。"},
+{"q": "earphone との違いは？","a": "headphones は頭に装着して耳を覆う大きめのもの、earphones は耳に入れる小型のものです。"}
+],
+"quiz": [
+{"q": "headphone は普通どの形で使う？","A": "単数 headphone","B": "複数 headphones","C": "動詞","D": "形容詞","correct": "B"},
+{"q": "「ヘッドフォン一組」を表すのは？","A": "a piece of headphone","B": "a pair of headphones","C": "a headphone group","D": "some headphone","correct": "B"}
+]
+},
+{
+"english": "headstone",
+"pron": "ˈhedstoʊn",
+"kana": "ヘッドストーン",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "head（頭・上部）＋stone（石）",
+"ld_level": "準1級",
+"badges": ["高校生〜","英検準1級","CEFR B2","文化"],
+"meaning_main": "墓石（はかいし）／墓標",
+"description": "headstone（ヘッドストーン）は「墓石」「墓標」。墓の頭側に立てられ、故人の名前や生没年を刻む石を指す。gravestone・tombstone とほぼ同義。可算名詞。",
+"keywords": ["headstone 意味","headstone 使い方","墓石 英語","gravestone 違い"],
+"meanings": [
+{"hinshi": "【名詞】墓石・墓標","note": "墓の頭側に立て、故人の名を刻む石"}
+],
+"usages": [
+{"title": "① 墓","desc": "故人の名を刻む","example_en": "His name was carved on the headstone.","example_ja": "彼の名前が墓石に刻まれていた。"},
+{"title": "② 建てる","desc": "墓標を立てる","example_en": "The family placed a headstone at the grave.","example_ja": "家族は墓に墓石を建てた。"}
+],
+"warn": ["gravestone・tombstone とほぼ同義。headstone は墓の「頭側」に立つ石を指す。","建築では「アーチの要石」の意味もあるが、現代では「墓石」が中心。"],
+"etym_note": "head（頭・上部）＋stone（石）。墓の頭側（遺体の頭の方向）に立てる石という位置から名づけられた複合語。",
+"etym_chain": [
+{"node": "head + stone","sub": "頭側の石","era": "中英語"},
+{"node": "headstone","sub": "墓石・要石","era": "近代英語"},
+{"node": "headstone","sub": "墓石","era": "現代英語"}
+],
+"phrases": [
+{"en": "a marble headstone","ja": "大理石の墓石"},
+{"en": "carve a headstone","ja": "墓石を彫る"},
+{"en": "place a headstone","ja": "墓石を建てる"},
+{"en": "an old headstone","ja": "古い墓石"},
+{"en": "the inscription on the headstone","ja": "墓石の碑文"},
+{"en": "a weathered headstone","ja": "風化した墓石"}
+],
+"related": [
+{"en": "gravestone","ja": "墓石"},
+{"en": "tombstone","ja": "墓石"},
+{"en": "grave","ja": "墓"},
+{"en": "cemetery","ja": "墓地"}
+],
+"faq": [
+{"q": "headstone と gravestone の違いは？","a": "ほぼ同義です。headstone は墓の頭側に立つ石を強調し、gravestone は墓の石全般を指しますが、日常的には同じ意味で使えます。"},
+{"q": "tombstone とは違いますか？","a": "tombstone もほぼ同義で「墓石」です。3語ともほぼ同じ意味で使われます。"}
+],
+"quiz": [
+{"q": "headstone の意味は？","A": "墓石","B": "敷石","C": "宝石","D": "石炭","correct": "A"},
+{"q": "headstone とほぼ同義の語は？","A": "milestone","B": "gravestone","C": "cornerstone","D": "limestone","correct": "B"}
+]
+},
+{
+"english": "headwaters",
+"pron": "ˈhedˌwɔːtərz",
+"kana": "ヘッドウォーターズ",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "head（源・先端）＋waters（水）",
+"ld_level": "準1級",
+"badges": ["高校生〜","英検準1級","CEFR B2","地理"],
+"meaning_main": "（川の）水源・源流",
+"description": "headwaters（ヘッドウォーターズ）は「川の水源」「源流」。川が始まる上流部の水を指す地理用語。つねに複数形で使う。source（水源）とほぼ同義。",
+"keywords": ["headwaters 意味","headwaters 使い方","水源 英語","源流 地理"],
+"meanings": [
+{"hinshi": "【名詞】水源・源流","note": "川が始まる上流部の水。つねに複数形"}
+],
+"usages": [
+{"title": "① 地理","desc": "川の始まり","example_en": "The headwaters of the Nile lie in East Africa.","example_ja": "ナイル川の源流は東アフリカにある。"},
+{"title": "② 探検","desc": "源流をたどる","example_en": "Explorers searched for the headwaters of the river.","example_ja": "探検家たちは川の源流を探した。"}
+],
+"warn": ["つねに複数形 headwaters で使う。","source（水源）とほぼ同義だが、headwaters は上流域一帯の水を指すことが多い。"],
+"etym_note": "head（先端・源）＋waters（水）。川の「頭＝始まりの部分の水」という比喩から生まれた複合語。head には「源・起点」の意味がある。",
+"etym_chain": [
+{"node": "head","sub": "先端・源","era": "古英語"},
+{"node": "head + waters","sub": "源の水","era": "近代英語"},
+{"node": "headwaters","sub": "水源・源流","era": "現代英語"}
+],
+"phrases": [
+{"en": "the headwaters of the river","ja": "その川の源流"},
+{"en": "reach the headwaters","ja": "源流にたどり着く"},
+{"en": "protect the headwaters","ja": "水源を守る"},
+{"en": "mountain headwaters","ja": "山地の源流"},
+{"en": "the headwaters region","ja": "源流域"},
+{"en": "trace the headwaters","ja": "源流をたどる"}
+],
+"related": [
+{"en": "source","ja": "水源"},
+{"en": "river","ja": "川"},
+{"en": "stream","ja": "小川"},
+{"en": "tributary","ja": "支流"}
+],
+"faq": [
+{"q": "headwaters は単数で使えますか？","a": "いいえ。つねに複数形 headwaters で使います。「水源」を表す集合的な語です。"},
+{"q": "source との違いは？","a": "どちらも「水源」を指しますが、source は川が始まる一点、headwaters は上流域一帯の水を指すことが多いです。"}
+],
+"quiz": [
+{"q": "headwaters の意味は？","A": "河口","B": "川の源流","C": "滝","D": "湖","correct": "B"},
+{"q": "headwaters の形の特徴は？","A": "つねに複数形","B": "つねに単数形","C": "動詞のみ","D": "形容詞のみ","correct": "A"}
+]
+},
+{
+"english": "heaps",
+"pron": "hiːps",
+"kana": "ヒープス",
+"hinshi": "名詞 / 副詞",
+"ld_pos": "名詞",
+"ld_etym": "heap（積み重ね）の複数形",
+"ld_level": "3級",
+"badges": ["中学生〜","英検3級","CEFR B1","口語"],
+"meaning_main": "たくさん・山ほど／（積み重ねの）山々",
+"description": "heaps（ヒープス）は名詞 heap（山・積み重ね）の複数形。口語では heaps of ～で「たくさんの～」、heaps＋比較級で「ずっと」という意味の強調にも使う。",
+"keywords": ["heaps 意味","heaps of 使い方","heap 複数形","たくさん 英語"],
+"meanings": [
+{"hinshi": "【名詞】山々・積み重ね","note": "heap（積み重ねの山）の複数形"},
+{"hinshi": "【名詞・口語】たくさん","note": "heaps of ～で「山ほどの～」"},
+{"hinshi": "【副詞・口語】ずっと","note": "比較級を強めて「はるかに」"}
+],
+"usages": [
+{"title": "① たくさん","desc": "heaps of ～","example_en": "We have heaps of time before the train leaves.","example_ja": "電車が出るまでたっぷり時間がある。"},
+{"title": "② 強調（副詞）","desc": "ずっと","example_en": "This one is heaps better than the old one.","example_ja": "こっちは古いのよりずっと良い。"}
+],
+"warn": ["heaps of ～（たくさんの）はくだけた口語表現。フォーマルには a lot of を使う。","副詞用法（heaps better＝ずっと良い）は主にイギリス・豪州の口語。"],
+"etym_note": "古英語 hēap（群れ・積み重ね）に由来する heap の複数形。口語で「山ほど＝たくさん」の意味が生まれ、さらに比較級を強める副詞にも発展した。",
+"etym_chain": [
+{"node": "hēap","sub": "群れ・積み重ね","era": "古英語"},
+{"node": "heap + s","sub": "積み重ねの山々","era": "中英語"},
+{"node": "heaps","sub": "たくさん・ずっと","era": "現代英語"}
+],
+"phrases": [
+{"en": "heaps of time","ja": "たっぷりの時間"},
+{"en": "heaps of money","ja": "山ほどのお金"},
+{"en": "heaps of people","ja": "大勢の人"},
+{"en": "heaps better","ja": "ずっと良い"},
+{"en": "thanks heaps","ja": "本当にありがとう"},
+{"en": "in heaps","ja": "山積みで"}
+],
+"related": [
+{"en": "heap","ja": "山・積み重ね"},
+{"en": "loads","ja": "たくさん"},
+{"en": "plenty","ja": "たっぷり"},
+{"en": "piles","ja": "山ほど"}
+],
+"faq": [
+{"q": "heaps of は丁寧な表現ですか？","a": "いいえ、くだけた口語です。フォーマルな場面では a lot of や plenty of を使いましょう。"},
+{"q": "heaps better のような使い方は？","a": "副詞として比較級を強め「ずっと・はるかに」の意味です。主にイギリスやオーストラリアの口語で使われます。"}
+],
+"quiz": [
+{"q": "heaps of time の意味は？","A": "たっぷりの時間","B": "わずかな時間","C": "決まった時間","D": "遅れた時間","correct": "A"},
+{"q": "heaps better の heaps の働きは？","A": "名詞","B": "比較級を強める副詞","C": "動詞","D": "前置詞","correct": "B"}
+]
+},
+{
+"english": "heartbreaker",
+"pron": "ˈhɑːrtˌbreɪkər",
+"kana": "ハートブレイカー",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "heart（心）＋break（壊す）＋-er",
+"ld_level": "2級",
+"badges": ["高校生〜","英検2級","CEFR B2","恋愛"],
+"meaning_main": "人の心を傷つける人／胸が張り裂けるような出来事",
+"description": "heartbreaker（ハートブレイカー）は「人の心を傷つける人」、特に恋愛で相手を振って悲しませる人。また「胸が張り裂けるようなつらい出来事」も指す。可算名詞。",
+"keywords": ["heartbreaker 意味","heartbreaker 使い方","恋愛 英語","心を傷つける"],
+"meanings": [
+{"hinshi": "【名詞】人の心を傷つける人","note": "特に恋愛で相手を悲しませる人"},
+{"hinshi": "【名詞】胸が張り裂けるような出来事","note": "惜敗した試合など、非常につらい事柄"}
+],
+"usages": [
+{"title": "① 恋愛","desc": "人を振る人","example_en": "He had a reputation as a heartbreaker.","example_ja": "彼は女泣かせという評判だった。"},
+{"title": "② つらい出来事","desc": "惜しい敗戦など","example_en": "Losing by one point was a real heartbreaker.","example_ja": "1点差での敗戦は本当に胸が張り裂ける思いだった。"}
+],
+"warn": ["恋愛で「相手を振って傷つける人」の意味が中心。","スポーツなどで「惜敗＝胸が痛む結果」も指す。"],
+"etym_note": "heart（心）＋break（壊す）＋-er（する人・もの）。「心を壊す人・もの」という直訳から、恋愛やつらい出来事の両方に使われるようになった。",
+"etym_chain": [
+{"node": "heart + break","sub": "心を壊す","era": "中英語"},
+{"node": "heartbreak + er","sub": "心を壊す人","era": "近代英語"},
+{"node": "heartbreaker","sub": "人を傷つける人・つらい出来事","era": "現代英語"}
+],
+"phrases": [
+{"en": "a real heartbreaker","ja": "本物の女泣かせ／本当につらい出来事"},
+{"en": "known as a heartbreaker","ja": "人泣かせで知られる"},
+{"en": "such a heartbreaker","ja": "とてもつらい出来事"},
+{"en": "a heartbreaker of a game","ja": "胸の張り裂ける試合"},
+{"en": "young heartbreaker","ja": "若い女泣かせ"},
+{"en": "that loss was a heartbreaker","ja": "あの敗戦はつらかった"}
+],
+"related": [
+{"en": "heartbreak","ja": "失恋・悲嘆"},
+{"en": "heartbroken","ja": "打ちひしがれた"},
+{"en": "flirt","ja": "浮気っぽい人"},
+{"en": "tragedy","ja": "悲劇"}
+],
+"faq": [
+{"q": "heartbreaker は人だけを指しますか？","a": "いいえ。恋愛で人を傷つける「人」のほか、惜敗など「胸が張り裂けるようなつらい出来事」も指します。"},
+{"q": "悪い意味ですか？","a": "恋愛では相手を悲しませる人を軽く非難する響きがあります。出来事に使うときは単に「とてもつらい」という意味です。"}
+],
+"quiz": [
+{"q": "恋愛での heartbreaker の意味は？","A": "人の心を傷つける人","B": "医者","C": "料理人","D": "教師","correct": "A"},
+{"q": "a heartbreaker of a game の意味は？","A": "楽勝した試合","B": "胸の張り裂ける試合","C": "中止された試合","D": "退屈な試合","correct": "B"}
+]
+},
+{
+"english": "heartburn",
+"pron": "ˈhɑːrtbɜːrn",
+"kana": "ハートバーン",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "heart（心臓）＋burn（焼ける）",
+"ld_level": "2級",
+"badges": ["高校生〜","英検2級","CEFR B2","医療・健康"],
+"meaning_main": "胸やけ",
+"description": "heartburn（ハートバーン）は「胸やけ」。胃酸が食道へ逆流して胸の中央が焼けるように感じる不快な症状。心臓とは無関係で、不可算名詞。",
+"keywords": ["heartburn 意味","heartburn 使い方","胸やけ 英語","消化 症状"],
+"meanings": [
+{"hinshi": "【名詞】胸やけ","note": "胃酸の逆流で胸が焼けるように感じる症状。不可算"}
+],
+"usages": [
+{"title": "① 症状","desc": "胸が焼ける","example_en": "Spicy food gives me heartburn.","example_ja": "辛い食べ物を食べると胸やけがする。"},
+{"title": "② 訴える","desc": "苦しむ","example_en": "She suffers from heartburn after large meals.","example_ja": "彼女はたくさん食べると胸やけに苦しむ。"}
+],
+"warn": ["名前に heart（心臓）とあるが、心臓の病気ではなく胃酸の逆流による症状。","不可算名詞なので a heartburn とは言わない。"],
+"etym_note": "heart（胸・心臓）＋burn（焼ける）。胸の中央が焼けるように感じることから名づけられた。実際の原因は胃酸の逆流で、心臓とは無関係。",
+"etym_chain": [
+{"node": "heart + burn","sub": "胸が焼ける","era": "中英語"},
+{"node": "herteburne","sub": "胸やけ","era": "中英語"},
+{"node": "heartburn","sub": "胸やけ","era": "現代英語"}
+],
+"phrases": [
+{"en": "get heartburn","ja": "胸やけがする"},
+{"en": "suffer from heartburn","ja": "胸やけに苦しむ"},
+{"en": "cause heartburn","ja": "胸やけを起こす"},
+{"en": "relieve heartburn","ja": "胸やけを和らげる"},
+{"en": "frequent heartburn","ja": "頻繁な胸やけ"},
+{"en": "acid reflux and heartburn","ja": "胃酸逆流と胸やけ"}
+],
+"related": [
+{"en": "indigestion","ja": "消化不良"},
+{"en": "acid reflux","ja": "胃酸逆流"},
+{"en": "stomach","ja": "胃"},
+{"en": "nausea","ja": "吐き気"}
+],
+"faq": [
+{"q": "heartburn は心臓の病気ですか？","a": "いいえ。名前に heart とありますが、胃酸が食道へ逆流して胸が焼けるように感じる症状で、心臓とは無関係です。"},
+{"q": "a heartburn と言えますか？","a": "いいえ。不可算名詞なので a はつけず、単に heartburn と言います。"}
+],
+"quiz": [
+{"q": "heartburn の意味は？","A": "胸やけ","B": "心臓発作","C": "頭痛","D": "発熱","correct": "A"},
+{"q": "heartburn の主な原因は？","A": "胃酸の逆流","B": "心臓の病気","C": "骨折","D": "風邪","correct": "A"}
+]
+},
+{
+"english": "heartfelt",
+"pron": "ˈhɑːrtfelt",
+"kana": "ハートフェルト",
+"hinshi": "形容詞",
+"ld_pos": "形容詞",
+"ld_etym": "heart（心）＋felt（feel の過去分詞）",
+"ld_level": "2級",
+"badges": ["高校生〜","英検2級","CEFR B2","感情"],
+"meaning_main": "心からの・心のこもった",
+"description": "heartfelt（ハートフェルト）は「心からの」「心のこもった」。感謝・謝罪・お悔やみなど、本心から出た深い感情を表す形容詞。名詞の前で使うことが多い。",
+"keywords": ["heartfelt 意味","heartfelt 使い方","心からの 英語","感謝 表現"],
+"meanings": [
+{"hinshi": "【形容詞】心からの・心のこもった","note": "本心から出た深い感情を表す"}
+],
+"usages": [
+{"title": "① 感謝・お悔やみ","desc": "心からの","example_en": "Please accept my heartfelt thanks.","example_ja": "どうか私の心からの感謝をお受けください。"},
+{"title": "② 謝罪・言葉","desc": "心のこもった","example_en": "He made a heartfelt apology.","example_ja": "彼は心からの謝罪をした。"}
+],
+"warn": ["名詞の前で使うのが基本（heartfelt thanks / apology / gratitude）。","sincere（誠実な）と近いが、heartfelt は感情の深さをより強調する。"],
+"etym_note": "heart（心）＋felt（feel「感じる」の過去分詞）。「心で感じられた」という直訳から「心からの」の意味になった複合形容詞。",
+"etym_chain": [
+{"node": "heart + felt","sub": "心で感じた","era": "近代英語"},
+{"node": "heartfelt","sub": "心からの","era": "近代英語"},
+{"node": "heartfelt","sub": "心のこもった","era": "現代英語"}
+],
+"phrases": [
+{"en": "heartfelt thanks","ja": "心からの感謝"},
+{"en": "heartfelt gratitude","ja": "心からの感謝の気持ち"},
+{"en": "a heartfelt apology","ja": "心からの謝罪"},
+{"en": "heartfelt condolences","ja": "心からのお悔やみ"},
+{"en": "a heartfelt message","ja": "心のこもったメッセージ"},
+{"en": "heartfelt sympathy","ja": "心からの同情"}
+],
+"related": [
+{"en": "sincere","ja": "誠実な"},
+{"en": "genuine","ja": "本物の"},
+{"en": "earnest","ja": "真剣な"},
+{"en": "wholehearted","ja": "心からの"}
+],
+"faq": [
+{"q": "heartfelt はどんな場面で使いますか？","a": "感謝・謝罪・お悔やみなど、本心から出た深い感情を伝えるときに使います。heartfelt thanks（心からの感謝）が典型です。"},
+{"q": "sincere との違いは？","a": "どちらも「心からの」ですが、sincere は「うそがない・誠実」を、heartfelt は「感情の深さ」を強調します。"}
+],
+"quiz": [
+{"q": "heartfelt の意味は？","A": "心からの","B": "うわべだけの","C": "冷たい","D": "義務的な","correct": "A"},
+{"q": "heartfelt thanks の意味は？","A": "形だけの感謝","B": "心からの感謝","C": "遅れた感謝","D": "小さな感謝","correct": "B"}
+]
+},
+{
+"english": "hearth",
+"pron": "hɑːrθ",
+"kana": "ハース",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "古英語 heorþ（炉床）",
+"ld_level": "準1級",
+"badges": ["高校生〜","英検準1級","CEFR B2","文化"],
+"meaning_main": "炉床（ろしょう）・暖炉の床／家庭・団らん",
+"description": "hearth（ハース）は「暖炉の床」「炉床」。暖炉の前の石やレンガの部分を指す。比喩的に「家庭・団らんの場」も表す。発音は「ハース」で th の音に注意。可算名詞。",
+"keywords": ["hearth 意味","hearth 使い方","暖炉 英語","炉床 発音"],
+"meanings": [
+{"hinshi": "【名詞】炉床・暖炉の床","note": "暖炉の前の石やレンガの床の部分"},
+{"hinshi": "【名詞】家庭・団らんの場","note": "比喩的に、暖炉を囲む家庭のぬくもり"}
+],
+"usages": [
+{"title": "① 暖炉","desc": "炉の床","example_en": "A fire crackled in the hearth.","example_ja": "暖炉の中で火がパチパチと燃えていた。"},
+{"title": "② 家庭（比喩）","desc": "団らんの場","example_en": "They gathered around the hearth on cold nights.","example_ja": "寒い夜には彼らは暖炉を囲んで集まった。"}
+],
+"warn": ["発音は「ハース」/hɑːrθ/。earth（アース）と混同しないよう注意。","hearth and home で「家庭」を表す決まり文句がある。"],
+"etym_note": "古英語 heorþ（炉床）に由来。暖炉が家の中心だったことから、「家庭・団らん」の象徴的な意味も持つようになった。",
+"etym_chain": [
+{"node": "heorþ","sub": "炉床","era": "古英語"},
+{"node": "herth","sub": "炉床","era": "中英語"},
+{"node": "hearth","sub": "炉床・家庭","era": "現代英語"}
+],
+"phrases": [
+{"en": "a warm hearth","ja": "暖かい炉床"},
+{"en": "by the hearth","ja": "暖炉のそばで"},
+{"en": "hearth and home","ja": "家庭・わが家"},
+{"en": "sit by the hearth","ja": "暖炉のそばに座る"},
+{"en": "a stone hearth","ja": "石の炉床"},
+{"en": "the family hearth","ja": "一家の団らんの場"}
+],
+"related": [
+{"en": "fireplace","ja": "暖炉"},
+{"en": "chimney","ja": "煙突"},
+{"en": "fire","ja": "火"},
+{"en": "home","ja": "家庭"}
+],
+"faq": [
+{"q": "hearth の発音は？","a": "「ハース」/hɑːrθ/ です。earth（アース）と似ていますが、頭に h があり最後は th の音です。"},
+{"q": "「家庭」の意味もありますか？","a": "はい。暖炉が家の中心だったことから、比喩的に「家庭・団らんの場」を表します。hearth and home が決まり文句です。"}
+],
+"quiz": [
+{"q": "hearth の意味は？","A": "炉床・暖炉の床","B": "屋根","C": "地下室","D": "玄関","correct": "A"},
+{"q": "hearth and home の意味は？","A": "旅と冒険","B": "家庭・わが家","C": "仕事と学業","D": "都会と田舎","correct": "B"}
+]
+},
+{
+"english": "heartland",
+"pron": "ˈhɑːrtlænd",
+"kana": "ハートランド",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "heart（中心）＋land（土地）",
+"ld_level": "準1級",
+"badges": ["高校生〜","英検準1級","CEFR B2","地理・社会"],
+"meaning_main": "中心地・中核地域／（国の）心臓部",
+"description": "heartland（ハートランド）は「中心地」「中核地域」。ある国・活動の政治的・経済的・文化的に最も重要な中心部を指す。米国では中西部の農業地帯も意味する。可算名詞。",
+"keywords": ["heartland 意味","heartland 使い方","中心地 英語","中西部 アメリカ"],
+"meanings": [
+{"hinshi": "【名詞】中心地・中核地域","note": "国や活動の最も重要な中心部"},
+{"hinshi": "【名詞】（米）中西部","note": "伝統的価値観を持つ農業地帯"}
+],
+"usages": [
+{"title": "① 中核地域","desc": "重要な中心部","example_en": "This region is the industrial heartland of the country.","example_ja": "この地域は国の工業の中心地だ。"},
+{"title": "② アメリカ中西部","desc": "農業地帯","example_en": "He grew up in the American heartland.","example_ja": "彼はアメリカ中西部で育った。"}
+],
+"warn": ["米国では the heartland で「中西部の農業地帯・伝統的価値観の地」を指すことが多い。","「支持基盤・本拠地」の比喩でも使う（a party's heartland）。"],
+"etym_note": "heart（中心）＋land（土地）。20世紀初頭に地政学で「大陸の中核地域」を指す用語として広まり、後に「国や活動の中心部」の一般的な意味になった。",
+"etym_chain": [
+{"node": "heart + land","sub": "中心の土地","era": "20世紀初頭 英語"},
+{"node": "heartland","sub": "中核地域","era": "近代英語"},
+{"node": "heartland","sub": "中心地・中西部","era": "現代英語"}
+],
+"phrases": [
+{"en": "the industrial heartland","ja": "工業の中心地"},
+{"en": "the American heartland","ja": "アメリカ中西部"},
+{"en": "the party's heartland","ja": "その政党の支持基盤"},
+{"en": "the rural heartland","ja": "農村の中核地域"},
+{"en": "the nation's heartland","ja": "国の心臓部"},
+{"en": "deep in the heartland","ja": "中核地域の奥深く"}
+],
+"related": [
+{"en": "core","ja": "中核"},
+{"en": "center","ja": "中心"},
+{"en": "region","ja": "地域"},
+{"en": "hinterland","ja": "後背地"}
+],
+"faq": [
+{"q": "the American heartland とは？","a": "アメリカ中西部の農業地帯を指し、伝統的な価値観を持つ地域の象徴として使われます。"},
+{"q": "「支持基盤」の意味もありますか？","a": "はい。a party's heartland で「その政党の伝統的な支持基盤・地盤」を表します。"}
+],
+"quiz": [
+{"q": "heartland の意味は？","A": "中心地・中核地域","B": "国境地帯","C": "無人地帯","D": "沿岸部","correct": "A"},
+{"q": "the American heartland が指すのは？","A": "東海岸の都市部","B": "中西部の農業地帯","C": "南部の砂漠","D": "西海岸","correct": "B"}
+]
+},
+{
+"english": "heather",
+"pron": "ˈheðər",
+"kana": "ヘザー",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "古英語 hǣddre（ヒース）",
+"ld_level": "準1級",
+"badges": ["高校生〜","英検準1級","CEFR B2","植物"],
+"meaning_main": "ヒース（荒野に咲く低木）／ヘザー（女性名）",
+"description": "heather（ヘザー）は「ヒース」、荒野や丘に群生する紫や白の小さな花をつける常緑低木。スコットランドの荒野に多い。女性の名前 Heather としても使われる。",
+"keywords": ["heather 意味","heather 使い方","ヒース 英語","スコットランド 植物"],
+"meanings": [
+{"hinshi": "【名詞】ヒース","note": "荒野や丘に群生する紫や白の花をつける常緑低木"},
+{"hinshi": "【名詞】ヘザー（人名）","note": "英語圏の女性名"}
+],
+"usages": [
+{"title": "① 植物","desc": "荒野の低木","example_en": "The hills were covered with purple heather.","example_ja": "丘は紫のヒースで覆われていた。"},
+{"title": "② 風景","desc": "スコットランドの象徴","example_en": "Heather grows wild across the Scottish moors.","example_ja": "ヒースはスコットランドの荒野一面に自生している。"}
+],
+"warn": ["スコットランドの荒野（moor）の象徴的な植物。","女性名 Heather は大文字で始める。"],
+"etym_note": "古英語 hǣddre に由来し、荒野に育つヒースを指す。スコットランド英語で綴りが heather に変化した。植物名から女性名にも転用された。",
+"etym_chain": [
+{"node": "hǣddre","sub": "ヒース","era": "古英語"},
+{"node": "hather","sub": "ヒース","era": "中英語"},
+{"node": "heather","sub": "ヒース","era": "現代英語"}
+],
+"phrases": [
+{"en": "purple heather","ja": "紫のヒース"},
+{"en": "a field of heather","ja": "ヒースの野原"},
+{"en": "wild heather","ja": "自生のヒース"},
+{"en": "heather-covered hills","ja": "ヒースに覆われた丘"},
+{"en": "moorland heather","ja": "荒野のヒース"},
+{"en": "sprigs of heather","ja": "ヒースの小枝"}
+],
+"related": [
+{"en": "moor","ja": "荒野"},
+{"en": "shrub","ja": "低木"},
+{"en": "heath","ja": "ヒース・荒地"},
+{"en": "bloom","ja": "花・咲く"}
+],
+"faq": [
+{"q": "heather はどんな植物ですか？","a": "荒野や丘に群生し、紫や白の小さな花をつける常緑低木です。特にスコットランドの荒野の象徴として知られます。"},
+{"q": "人名の Heather も同じ語ですか？","a": "はい。植物名がそのまま英語圏の女性名になったもので、人名のときは大文字で Heather と書きます。"}
+],
+"quiz": [
+{"q": "heather の意味は？","A": "荒野に咲く低木（ヒース）","B": "海の魚","C": "山の岩","D": "砂漠の砂","correct": "A"},
+{"q": "heather が象徴する地域は？","A": "スコットランドの荒野","B": "熱帯の島","C": "北極","D": "砂漠","correct": "A"}
+]
+},
+{
+"english": "heatproof",
+"pron": "ˈhiːtpruːf",
+"kana": "ヒートプルーフ",
+"hinshi": "形容詞",
+"ld_pos": "形容詞",
+"ld_etym": "heat（熱）＋proof（耐える）",
+"ld_level": "2級",
+"badges": ["高校生〜","英検2級","CEFR B2","日常・製品"],
+"meaning_main": "耐熱の・熱に強い",
+"description": "heatproof（ヒートプルーフ）は「耐熱の」「熱に強い」。高温にさらされても壊れたり溶けたりしない性質を表す形容詞。調理器具や容器の説明でよく使う。heat-resistant とほぼ同義。",
+"keywords": ["heatproof 意味","heatproof 使い方","耐熱 英語","調理器具"],
+"meanings": [
+{"hinshi": "【形容詞】耐熱の・熱に強い","note": "高温でも壊れず溶けない性質"}
+],
+"usages": [
+{"title": "① 製品","desc": "耐熱の容器","example_en": "Pour the mixture into a heatproof bowl.","example_ja": "その混合物を耐熱ボウルに注いでください。"},
+{"title": "② 素材","desc": "熱に強い","example_en": "These gloves are heatproof up to 250 degrees.","example_ja": "この手袋は250度まで耐熱です。"}
+],
+"warn": ["-proof は「～を防ぐ・～に耐える」という接尾辞（waterproof, fireproof など）。","heat-resistant とほぼ同義で言い換え可能。"],
+"etym_note": "heat（熱）＋proof（耐える・防ぐ）。proof は「試練に耐える」の意味を持つ接尾辞で、waterproof（防水）などと同じ作り方の複合形容詞。",
+"etym_chain": [
+{"node": "heat + proof","sub": "熱に耐える","era": "近代英語"},
+{"node": "heatproof","sub": "耐熱の","era": "近代英語"},
+{"node": "heatproof","sub": "耐熱の","era": "現代英語"}
+],
+"phrases": [
+{"en": "a heatproof bowl","ja": "耐熱ボウル"},
+{"en": "heatproof glass","ja": "耐熱ガラス"},
+{"en": "heatproof gloves","ja": "耐熱手袋"},
+{"en": "a heatproof dish","ja": "耐熱皿"},
+{"en": "heatproof material","ja": "耐熱素材"},
+{"en": "heatproof up to 200°C","ja": "200度まで耐熱"}
+],
+"related": [
+{"en": "heat-resistant","ja": "耐熱の"},
+{"en": "waterproof","ja": "防水の"},
+{"en": "fireproof","ja": "耐火の"},
+{"en": "durable","ja": "丈夫な"}
+],
+"faq": [
+{"q": "heatproof と heat-resistant の違いは？","a": "ほぼ同義で言い換え可能です。どちらも「熱に強い・耐熱の」を意味します。"},
+{"q": "-proof はどんな意味ですか？","a": "「～を防ぐ・～に耐える」という接尾辞です。waterproof（防水）、fireproof（耐火）など、多くの複合語を作ります。"}
+],
+"quiz": [
+{"q": "heatproof の意味は？","A": "耐熱の・熱に強い","B": "防水の","C": "軽い","D": "透明な","correct": "A"},
+{"q": "heatproof とほぼ同義の語は？","A": "waterproof","B": "heat-resistant","C": "soundproof","D": "bulletproof","correct": "B"}
+]
+},
+{
+"english": "hegemony",
+"pron": "hɪˈdʒeməni",
+"kana": "ヒジェモニー",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "ギリシャ語 hēgemonia（指導・支配）",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","政治・社会"],
+"meaning_main": "覇権（はけん）・主導権",
+"description": "hegemony（ヒジェモニー）は「覇権」「主導権」。一つの国・集団が他を政治的・経済的・文化的に支配し主導すること。国際政治や社会学でよく使う。ふつう不可算名詞。",
+"keywords": ["hegemony 意味","hegemony 使い方","覇権 英語","政治 用語"],
+"meanings": [
+{"hinshi": "【名詞】覇権・主導権","note": "一国・一集団が他を支配し主導すること"}
+],
+"usages": [
+{"title": "① 国際政治","desc": "国の覇権","example_en": "The nation sought hegemony over the region.","example_ja": "その国はその地域での覇権を求めた。"},
+{"title": "② 社会・文化","desc": "文化的主導","example_en": "They challenged the cultural hegemony of the West.","example_ja": "彼らは西洋の文化的覇権に挑んだ。"}
+],
+"warn": ["発音は「ヒジェモニー」/hɪˈdʒeməni/。gの音に注意。","アカデミックな硬い語。日常会話ではあまり使わない。"],
+"etym_note": "ギリシャ語 hēgemonia（指導・支配、hēgemōn「指導者」から）に由来。古代ギリシャで有力都市国家の主導権を指し、近代に国際政治用語として広まった。",
+"etym_chain": [
+{"node": "hēgemōn","sub": "指導者","era": "古代ギリシャ語"},
+{"node": "hēgemonia","sub": "指導・支配","era": "古代ギリシャ語"},
+{"node": "hegemony","sub": "覇権","era": "現代英語"}
+],
+"phrases": [
+{"en": "global hegemony","ja": "世界の覇権"},
+{"en": "cultural hegemony","ja": "文化的覇権"},
+{"en": "military hegemony","ja": "軍事的覇権"},
+{"en": "seek hegemony","ja": "覇権を求める"},
+{"en": "challenge hegemony","ja": "覇権に挑む"},
+{"en": "economic hegemony","ja": "経済的覇権"}
+],
+"related": [
+{"en": "dominance","ja": "優勢・支配"},
+{"en": "supremacy","ja": "至上・優位"},
+{"en": "power","ja": "力・権力"},
+{"en": "empire","ja": "帝国"}
+],
+"faq": [
+{"q": "hegemony の発音は？","a": "「ヒジェモニー」/hɪˈdʒeməni/ です。g は「ジェ」の音になります。"},
+{"q": "dominance との違いは？","a": "どちらも「支配・優勢」ですが、hegemony は特に一国・一集団が他を政治的・文化的に主導する「覇権」を指す学術的な語です。"}
+],
+"quiz": [
+{"q": "hegemony の意味は？","A": "覇権・主導権","B": "独立","C": "平等","D": "混乱","correct": "A"},
+{"q": "cultural hegemony の意味は？","A": "文化の多様性","B": "文化的覇権","C": "文化交流","D": "文化財","correct": "B"}
+]
+},
+{
+"english": "heidelberg",
+"pron": "ˈhaɪdəlbɜːrɡ",
+"kana": "ハイデルベルク",
+"hinshi": "名詞（固有名詞）",
+"ld_pos": "固有名詞",
+"ld_etym": "ドイツ語の地名",
+"ld_level": "-",
+"badges": ["固有名詞","地名","ドイツ","大学都市"],
+"meaning_main": "ハイデルベルク（ドイツの大学都市）",
+"description": "Heidelberg（ハイデルベルク）はドイツ南西部の都市。ドイツ最古のハイデルベルク大学（1386年創立）と古城、旧市街で知られる学術・観光の街。固有名詞。",
+"keywords": ["Heidelberg 意味","ハイデルベルク 英語","ドイツ 大学都市","地名"],
+"meanings": [
+{"hinshi": "【固有名詞】ハイデルベルク","note": "ドイツ南西部の大学都市。最古の大学と古城で有名"}
+],
+"usages": [
+{"title": "① 都市","desc": "ドイツの学術都市","example_en": "Heidelberg is famous for its old university and castle.","example_ja": "ハイデルベルクは古い大学と古城で有名だ。"},
+{"title": "② 留学・観光","desc": "学問の街","example_en": "She studied philosophy in Heidelberg.","example_ja": "彼女はハイデルベルクで哲学を学んだ。"}
+],
+"warn": ["固有名詞なので文中では大文字 Heidelberg。","ドイツ最古の大学があることで知られる。"],
+"etym_note": "ドイツ語の地名で、「Heidel（コケモモ、またはheide=荒野）＋Berg（山・城）」に由来するといわれる。ネッカー川沿いの丘に築かれた城下町。",
+"etym_chain": [
+{"node": "Heidel + Berg","sub": "荒野／コケモモ＋山・城","era": "中世ドイツ語"},
+{"node": "Heidelberg","sub": "地名","era": "中世〜近代"},
+{"node": "Heidelberg","sub": "ハイデルベルク","era": "現代"}
+],
+"phrases": [
+{"en": "the University of Heidelberg","ja": "ハイデルベルク大学"},
+{"en": "study in Heidelberg","ja": "ハイデルベルクで学ぶ"},
+{"en": "Heidelberg Castle","ja": "ハイデルベルク城"},
+{"en": "the old town of Heidelberg","ja": "ハイデルベルクの旧市街"},
+{"en": "visit Heidelberg","ja": "ハイデルベルクを訪れる"},
+{"en": "the streets of Heidelberg","ja": "ハイデルベルクの街並み"}
+],
+"related": [
+{"en": "Germany","ja": "ドイツ"},
+{"en": "university","ja": "大学"},
+{"en": "castle","ja": "城"},
+{"en": "city","ja": "都市"}
+],
+"faq": [
+{"q": "Heidelberg はどこの都市ですか？","a": "ドイツ南西部、ネッカー川沿いの都市です。ドイツ最古のハイデルベルク大学（1386年創立）と古城、美しい旧市街で知られます。"},
+{"q": "なぜ有名なのですか？","a": "ドイツ最古の大学がある学術都市であり、丘の上の古城と旧市街の景観から観光地としても人気だからです。"}
+],
+"quiz": [
+{"q": "Heidelberg はどこの国の都市？","A": "ドイツ","B": "フランス","C": "イタリア","D": "スペイン","correct": "A"},
+{"q": "Heidelberg が有名な理由は？","A": "最古の大学と古城","B": "巨大な港","C": "砂漠","D": "火山","correct": "A"}
+]
+},
+{
+"english": "heinous",
+"pron": "ˈheɪnəs",
+"kana": "ヘイナス",
+"hinshi": "形容詞",
+"ld_pos": "形容詞",
+"ld_etym": "古フランス語 haïnos（憎むべき）",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","法律・報道"],
+"meaning_main": "凶悪な・極悪な・憎むべき",
+"description": "heinous（ヘイナス）は「凶悪な」「極悪な」。殺人などのひどく悪質で憎むべき犯罪や行為を表す強い形容詞。報道や法律の文脈でよく使う。発音は「ヘイナス」。",
+"keywords": ["heinous 意味","heinous 使い方","凶悪な 英語","犯罪 法律"],
+"meanings": [
+{"hinshi": "【形容詞】凶悪な・極悪な","note": "ひどく悪質で憎むべき。犯罪や行為に使う"}
+],
+"usages": [
+{"title": "① 犯罪","desc": "凶悪な","example_en": "He was convicted of a heinous crime.","example_ja": "彼は凶悪な犯罪で有罪となった。"},
+{"title": "② 行為","desc": "許しがたい","example_en": "Such heinous acts shocked the whole nation.","example_ja": "そのような極悪な行為は国全体に衝撃を与えた。"}
+],
+"warn": ["非常に強い非難の語。凶悪犯罪など重大な悪事に使う。","発音は「ヘイナス」/ˈheɪnəs/。「ヒーナス」ではない。"],
+"etym_note": "古フランス語 haïnos（憎むべき、haïr「憎む」から）に由来。中英語期に英語へ入り、「憎むべきほど極悪な」という意味で定着した。",
+"etym_chain": [
+{"node": "haïr","sub": "憎む","era": "古フランス語"},
+{"node": "haïnos","sub": "憎むべき","era": "古フランス語"},
+{"node": "heinous","sub": "凶悪な","era": "現代英語"}
+],
+"phrases": [
+{"en": "a heinous crime","ja": "凶悪な犯罪"},
+{"en": "a heinous act","ja": "極悪な行為"},
+{"en": "heinous offenses","ja": "凶悪な罪"},
+{"en": "the most heinous","ja": "最も凶悪な"},
+{"en": "a heinous murder","ja": "凶悪な殺人"},
+{"en": "commit a heinous deed","ja": "極悪な行為を犯す"}
+],
+"related": [
+{"en": "atrocious","ja": "残虐な"},
+{"en": "monstrous","ja": "極悪非道な"},
+{"en": "wicked","ja": "邪悪な"},
+{"en": "vile","ja": "卑劣な"}
+],
+"faq": [
+{"q": "heinous の発音は？","a": "「ヘイナス」/ˈheɪnəs/ です。「ヒーナス」と読み間違えやすいので注意しましょう。"},
+{"q": "どんな場面で使いますか？","a": "殺人などの凶悪犯罪や、許しがたい極悪な行為を強く非難するときに使います。報道や法律の文脈で多く見られます。"}
+],
+"quiz": [
+{"q": "heinous の意味は？","A": "凶悪な・極悪な","B": "親切な","C": "小さな","D": "正直な","correct": "A"},
+{"q": "a heinous crime の意味は？","A": "軽い違反","B": "凶悪な犯罪","C": "無実の罪","D": "古い事件","correct": "B"}
+]
+},
+{
+"english": "heliocentrism",
+"pron": "ˌhiːlioʊˈsentrɪzəm",
+"kana": "ヒーリオセントリズム",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "ギリシャ語 helios（太陽）＋center（中心）",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","科学・天文"],
+"meaning_main": "地動説（太陽中心説）",
+"description": "heliocentrism（ヒーリオセントリズム）は「地動説」「太陽中心説」。太陽が宇宙（太陽系）の中心にあり、地球がその周りを回るという考え。コペルニクスが唱えた。geocentrism（天動説）の対義語。",
+"keywords": ["heliocentrism 意味","地動説 英語","太陽中心説","コペルニクス"],
+"meanings": [
+{"hinshi": "【名詞】地動説・太陽中心説","note": "太陽が中心で地球がその周りを回るとする説"}
+],
+"usages": [
+{"title": "① 天文学","desc": "太陽中心説","example_en": "Copernicus is famous for proposing heliocentrism.","example_ja": "コペルニクスは地動説を唱えたことで有名だ。"},
+{"title": "② 科学史","desc": "天動説への挑戦","example_en": "Heliocentrism challenged the old geocentric view.","example_ja": "地動説は古い天動説の見方に挑戦した。"}
+],
+"warn": ["対義語は geocentrism（天動説＝地球中心説）。","helio-（太陽）＋center（中心）＋-ism（説）という組み立て。"],
+"etym_note": "ギリシャ語 hēlios（太陽）＋ラテン語由来の centrum（中心）＋-ism（主義・説）。16世紀にコペルニクスが体系化した太陽中心の宇宙観を指す学術用語。",
+"etym_chain": [
+{"node": "hēlios","sub": "太陽","era": "古代ギリシャ語"},
+{"node": "helio + centr + ism","sub": "太陽中心の説","era": "近代"},
+{"node": "heliocentrism","sub": "地動説","era": "現代英語"}
+],
+"phrases": [
+{"en": "the theory of heliocentrism","ja": "地動説"},
+{"en": "propose heliocentrism","ja": "地動説を唱える"},
+{"en": "accept heliocentrism","ja": "地動説を受け入れる"},
+{"en": "heliocentrism vs geocentrism","ja": "地動説と天動説"},
+{"en": "the rise of heliocentrism","ja": "地動説の台頭"},
+{"en": "defend heliocentrism","ja": "地動説を擁護する"}
+],
+"related": [
+{"en": "geocentrism","ja": "天動説"},
+{"en": "astronomy","ja": "天文学"},
+{"en": "orbit","ja": "軌道"},
+{"en": "solar system","ja": "太陽系"}
+],
+"faq": [
+{"q": "heliocentrism と geocentrism の違いは？","a": "heliocentrism（地動説）は太陽が中心で地球が回るとする説、geocentrism（天動説）は地球が中心で太陽が回るとする説です。対義語です。"},
+{"q": "誰が唱えましたか？","a": "16世紀の天文学者コペルニクスが体系化し、後にガリレオやケプラーがこれを支持・発展させました。"}
+],
+"quiz": [
+{"q": "heliocentrism の意味は？","A": "地動説（太陽中心説）","B": "天動説（地球中心説）","C": "進化論","D": "相対性理論","correct": "A"},
+{"q": "heliocentrism の対義語は？","A": "geocentrism","B": "astronomy","C": "gravity","D": "eclipse","correct": "A"}
+]
+},
+{
+"english": "heliotrope",
+"pron": "ˈhiːliətroʊp",
+"kana": "ヒーリオトロープ",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "ギリシャ語 helios（太陽）＋tropos（向く）",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","植物・色"],
+"meaning_main": "ヘリオトロープ（香りの良い紫の花）／淡紫色",
+"description": "heliotrope（ヒーリオトロープ）は紫色の小花をつけ甘い香りを放つ植物。花が太陽の方を向くことから名づけられた。また、その花の色にちなむ「淡い紫色」も指す。",
+"keywords": ["heliotrope 意味","ヘリオトロープ 英語","紫の花","淡紫色"],
+"meanings": [
+{"hinshi": "【名詞】ヘリオトロープ","note": "太陽の方を向く、香りの良い紫の花をつける植物"},
+{"hinshi": "【名詞】淡紫色","note": "その花にちなむ紫がかった色"}
+],
+"usages": [
+{"title": "① 植物","desc": "香りの花","example_en": "The garden was filled with the scent of heliotrope.","example_ja": "庭はヘリオトロープの香りで満ちていた。"},
+{"title": "② 色","desc": "淡い紫","example_en": "She wore a dress of pale heliotrope.","example_ja": "彼女は淡い紫色のドレスを着ていた。"}
+],
+"warn": ["helio（太陽）＋trope（向く）で「太陽を向く花」の意味。","色名としては「淡い紫」を指す。"],
+"etym_note": "ギリシャ語 hēlios（太陽）＋tropos（向く・回る）から。花や葉が太陽の動きに合わせて向きを変えると考えられたことに由来する。",
+"etym_chain": [
+{"node": "hēlios + tropos","sub": "太陽に向く","era": "古代ギリシャ語"},
+{"node": "heliotropium","sub": "太陽に向く植物","era": "ラテン語"},
+{"node": "heliotrope","sub": "ヘリオトロープ","era": "現代英語"}
+],
+"phrases": [
+{"en": "the scent of heliotrope","ja": "ヘリオトロープの香り"},
+{"en": "purple heliotrope","ja": "紫のヘリオトロープ"},
+{"en": "a heliotrope flower","ja": "ヘリオトロープの花"},
+{"en": "pale heliotrope","ja": "淡い紫色"},
+{"en": "sweet-smelling heliotrope","ja": "甘い香りのヘリオトロープ"},
+{"en": "a bed of heliotrope","ja": "ヘリオトロープの花壇"}
+],
+"related": [
+{"en": "flower","ja": "花"},
+{"en": "violet","ja": "スミレ・すみれ色"},
+{"en": "lavender","ja": "ラベンダー"},
+{"en": "fragrance","ja": "香り"}
+],
+"faq": [
+{"q": "heliotrope の名前の由来は？","a": "ギリシャ語で「太陽（helio）に向く（trope）」という意味です。花が太陽の方を向くと考えられたことに由来します。"},
+{"q": "色の名前でもありますか？","a": "はい。その花にちなんで「淡い紫色・すみれ色がかった色」も heliotrope と呼びます。"}
+],
+"quiz": [
+{"q": "heliotrope の名前の意味は？","A": "太陽に向く","B": "月に光る","C": "水に浮く","D": "風に揺れる","correct": "A"},
+{"q": "色としての heliotrope は？","A": "淡い紫","B": "深い赤","C": "明るい黄","D": "濃い緑","correct": "A"}
+]
+},
+{
+"english": "helplessly",
+"pron": "ˈhelpləsli",
+"kana": "ヘルプレスリー",
+"hinshi": "副詞",
+"ld_pos": "副詞",
+"ld_etym": "help（助け）＋-less＋-ly",
+"ld_level": "2級",
+"badges": ["高校生〜","英検2級","CEFR B2","感情・状態"],
+"meaning_main": "なすすべもなく・どうすることもできず",
+"description": "helplessly（ヘルプレスリー）は「なすすべもなく」「どうすることもできず」。力になれず、状況をどうにもできないまま何かをする様子を表す副詞。helpless（無力な）の副詞形。",
+"keywords": ["helplessly 意味","helplessly 使い方","なすすべもなく 英語","helpless 副詞"],
+"meanings": [
+{"hinshi": "【副詞】なすすべもなく","note": "力になれず、どうすることもできないまま"}
+],
+"usages": [
+{"title": "① 傍観","desc": "見ているだけ","example_en": "She watched helplessly as the boat drifted away.","example_ja": "彼女はなすすべもなくボートが流されていくのを見ていた。"},
+{"title": "② 感情","desc": "抑えられず","example_en": "They laughed helplessly at the joke.","example_ja": "彼らはその冗談に笑いが止まらなかった。"}
+],
+"warn": ["「どうにもできず〜する」という無力さを表す。watch helplessly（なすすべもなく見る）が典型。","laugh/cry helplessly では「抑えられずに笑う・泣く」の意味になる。"],
+"etym_note": "help（助け）＋-less（〜がない）で helpless（無力な）となり、さらに副詞語尾 -ly が付いた語。「助けようがない状態で」の意味。",
+"etym_chain": [
+{"node": "help + less","sub": "無力な","era": "中英語"},
+{"node": "helpless + ly","sub": "なすすべもなく","era": "近代英語"},
+{"node": "helplessly","sub": "なすすべもなく","era": "現代英語"}
+],
+"phrases": [
+{"en": "watch helplessly","ja": "なすすべもなく見る"},
+{"en": "stand helplessly","ja": "なすすべもなく立ち尽くす"},
+{"en": "laugh helplessly","ja": "笑いが止まらない"},
+{"en": "cry helplessly","ja": "どうしようもなく泣く"},
+{"en": "look on helplessly","ja": "手をこまねいて見る"},
+{"en": "shrug helplessly","ja": "お手上げと肩をすくめる"}
+],
+"related": [
+{"en": "helpless","ja": "無力な"},
+{"en": "powerless","ja": "力のない"},
+{"en": "hopelessly","ja": "絶望的に"},
+{"en": "in vain","ja": "むだに"}
+],
+"faq": [
+{"q": "helplessly はどんな場面で使いますか？","a": "どうにもできない状況で何かをするときに使います。watch helplessly（なすすべもなく見守る）が典型的な使い方です。"},
+{"q": "laugh helplessly はどういう意味ですか？","a": "「笑いが止まらない・抑えられずに笑う」という意味です。自分でコントロールできないニュアンスがあります。"}
+],
+"quiz": [
+{"q": "helplessly の意味は？","A": "なすすべもなく","B": "力強く","C": "喜んで","D": "注意深く","correct": "A"},
+{"q": "watch helplessly の意味は？","A": "熱心に見守る","B": "なすすべもなく見る","C": "こっそり見る","D": "見張る","correct": "B"}
+]
+}
+]
