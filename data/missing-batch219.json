@@ -1,0 +1,983 @@
+[
+{
+"english": "fatty",
+"pron": "ˈfæti",
+"kana": "ファティ",
+"hinshi": "形容詞 / 名詞",
+"ld_pos": "形容詞",
+"ld_etym": "古英語 fǣtt（脂肪の多い）",
+"ld_level": "準2級",
+"badges": ["中学生〜","英検準2級","CEFR B1","食品・健康"],
+"meaning_main": "脂肪の多い／脂っこい",
+"description": "fatty（ファティ）は「脂肪の多い・脂っこい」。食べ物や組織に脂肪が多いことを表す形容詞。fatty acid（脂肪酸）や fatty food（脂っこい食べ物）などで使う。",
+"keywords": ["fatty 意味","fatty 脂肪","fatty acid"],
+"meanings": [
+{"hinshi": "【形容詞】脂肪の多い・脂っこい","note": "食べ物や組織に脂肪が多い"}
+],
+"usages": [
+{"title": "① 脂っこい食べ物","desc": "健康の話題","example_en": "Try to avoid fatty foods.","example_ja": "脂っこい食べ物は避けるようにして。"},
+{"title": "② 脂肪酸","desc": "fatty acid","example_en": "Fish contains healthy fatty acids.","example_ja": "魚には体に良い脂肪酸が含まれている。"}
+],
+"warn": ["名詞 fat（脂肪）の形容詞形。人を fatty と呼ぶのは失礼な俗語なので注意"],
+"etym_note": "古英語 fǣtt（脂肪の多い）に由来する fat に、-y が付いた語。",
+"etym_chain": [
+{"node": "fǣtt","sub": "脂肪の多い","era": "古英語"},
+{"node": "fat","sub": "脂肪","era": "中英語"},
+{"node": "fatty","sub": "脂肪の多い","era": "現代英語"}
+],
+"phrases": [
+{"en": "fatty food","ja": "脂っこい食べ物"},
+{"en": "fatty acid","ja": "脂肪酸"},
+{"en": "fatty tissue","ja": "脂肪組織"},
+{"en": "fatty liver","ja": "脂肪肝"},
+{"en": "fatty meat","ja": "脂身の多い肉"},
+{"en": "a fatty diet","ja": "脂肪の多い食事"}
+],
+"related": [
+{"en": "fat","ja": "脂肪"},
+{"en": "greasy","ja": "脂ぎった"},
+{"en": "oily","ja": "油っぽい"},
+{"en": "lean","ja": "脂肪の少ない"}
+],
+"faq": [
+{"q": "fatty acid とは？","a": "脂肪を構成する成分「脂肪酸」のことです。魚に含まれるものは健康に良いとされます。"},
+{"q": "反対の語は？","a": "lean（脂肪の少ない・赤身の）です。"}
+],
+"quiz": [
+{"q": "fatty の意味は？","A": "脂肪の多い・脂っこい","B": "甘い","C": "辛い","D": "苦い","correct": "A"},
+{"q": "fatty の反対に近いのは？","A": "lean","B": "greasy","C": "oily","D": "rich","correct": "A"}
+]
+},
+{
+"english": "fauna",
+"pron": "ˈfɔːnə",
+"kana": "フォーナ",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "ローマ神話の女神 Fauna",
+"ld_level": "1級",
+"badges": ["大学生〜","生物・科学","英検1級","CEFR C1"],
+"meaning_main": "（ある地域・時代の）動物相",
+"description": "fauna（フォーナ）は「動物相」。ある地域や時代に生息する動物の全体を指す科学用語。植物の全体を指す flora（植物相）と対で使われることが多い。",
+"keywords": ["fauna 意味","動物相 英語","fauna flora"],
+"meanings": [
+{"hinshi": "【名詞】動物相","note": "ある地域・時代に生息する動物の全体"}
+],
+"usages": [
+{"title": "① 地域の動物相","desc": "生物学","example_en": "The island has a unique fauna.","example_ja": "その島は独特の動物相を持つ。"},
+{"title": "② 植物相と対で","desc": "flora and fauna","example_en": "The reserve protects local flora and fauna.","example_ja": "その保護区は地域の動植物を守っている。"}
+],
+"warn": ["植物相は flora。flora and fauna（動植物）でよく使う。ローマ神話の女神の名から"],
+"etym_note": "ローマ神話の動物・豊穣の女神 Fauna に由来。植物の女神 Flora と対で用いられる。",
+"etym_chain": [
+{"node": "Fauna","sub": "動物の女神","era": "ローマ神話"},
+{"node": "fauna","sub": "動物相","era": "現代英語"}
+],
+"phrases": [
+{"en": "flora and fauna","ja": "動植物"},
+{"en": "local fauna","ja": "地域の動物相"},
+{"en": "marine fauna","ja": "海洋動物相"},
+{"en": "native fauna","ja": "在来の動物相"},
+{"en": "the fauna of the region","ja": "その地域の動物相"},
+{"en": "diverse fauna","ja": "多様な動物相"}
+],
+"related": [
+{"en": "flora","ja": "植物相"},
+{"en": "wildlife","ja": "野生生物"},
+{"en": "ecosystem","ja": "生態系"},
+{"en": "species","ja": "種"}
+],
+"faq": [
+{"q": "fauna と flora の違いは？","a": "fauna は「動物相」、flora は「植物相」です。flora and fauna で「動植物」を表します。"},
+{"q": "語源は？","a": "ローマ神話の動物の女神 Fauna に由来します。"}
+],
+"quiz": [
+{"q": "fauna の意味は？","A": "（ある地域の）動物相","B": "植物相","C": "鉱物","D": "気候","correct": "A"},
+{"q": "fauna と対で使う「植物相」は？","A": "flora","B": "fungi","C": "flesh","D": "flavor","correct": "A"}
+]
+},
+{
+"english": "fearmonger",
+"pron": "ˈfɪərmʌŋɡər",
+"kana": "フィアモンガー",
+"hinshi": "名詞 / 動詞",
+"ld_pos": "名詞",
+"ld_etym": "fear（恐怖）+ monger（商う者）",
+"ld_level": "1級",
+"badges": ["大学生〜","社会・報道","英検1級","CEFR C1"],
+"meaning_main": "恐怖をあおる人／不安をまき散らす人",
+"description": "fearmonger（フィアモンガー）は「恐怖をあおる人」。根拠の乏しい不安や恐れを意図的にまき散らし、人々を動揺させる人を指す。fear（恐怖）+ monger（〜を商う者）からなる語。",
+"keywords": ["fearmonger 意味","恐怖をあおる 英語","fearmongering"],
+"meanings": [
+{"hinshi": "【名詞】恐怖をあおる人","note": "根拠の乏しい不安を意図的にまき散らす人"},
+{"hinshi": "【動詞】恐怖をあおる","note": "不安や恐れをまき散らす"}
+],
+"usages": [
+{"title": "① 不安をあおる人","desc": "報道や政治で","example_en": "Critics called him a fearmonger.","example_ja": "批判者は彼を恐怖をあおる人だと呼んだ。"},
+{"title": "② あおり行為","desc": "fearmongering","example_en": "The article was pure fearmongering.","example_ja": "その記事はまったくの恐怖あおりだった。"}
+],
+"warn": ["行為は fearmongering（恐怖あおり）。monger は「〜を売る者」（scaremonger も同義）"],
+"etym_note": "fear（恐怖）+ monger（商う者。古英語 mangere 商人）からなる語。「恐怖を売る者」から。",
+"etym_chain": [
+{"node": "mangere","sub": "商人","era": "古英語"},
+{"node": "monger","sub": "商う者","era": "中英語"},
+{"node": "fearmonger","sub": "恐怖をあおる人","era": "現代英語"}
+],
+"phrases": [
+{"en": "a political fearmonger","ja": "政治的に恐怖をあおる人"},
+{"en": "fearmongering tactics","ja": "恐怖あおりの手口"},
+{"en": "accuse of fearmongering","ja": "恐怖あおりだと非難する"},
+{"en": "media fearmongering","ja": "メディアの恐怖あおり"},
+{"en": "spread fear","ja": "恐怖をまき散らす"},
+{"en": "a shameless fearmonger","ja": "恥知らずな扇動者"}
+],
+"related": [
+{"en": "scaremonger","ja": "恐怖をあおる人"},
+{"en": "alarmist","ja": "むやみに不安をあおる人"},
+{"en": "propaganda","ja": "宣伝・扇動"},
+{"en": "panic","ja": "パニック"}
+],
+"faq": [
+{"q": "fearmonger と alarmist の違いは？","a": "どちらも不安をあおる人ですが、fearmonger は「意図的に恐怖を利用する」含みが強いです。"},
+{"q": "monger はどんな意味？","a": "「〜を商う者・あおる者」を表します（scaremonger, warmonger など）。"}
+],
+"quiz": [
+{"q": "fearmonger の意味は？","A": "恐怖をあおる人","B": "勇敢な人","C": "平和主義者","D": "医者","correct": "A"},
+{"q": "monger が表す意味は？","A": "〜を商う者・あおる者","B": "〜を守る者","C": "〜を作る者","D": "〜を教える者","correct": "A"}
+]
+},
+{
+"english": "fearsome",
+"pron": "ˈfɪərsəm",
+"kana": "フィアサム",
+"hinshi": "形容詞",
+"ld_pos": "形容詞",
+"ld_etym": "fear（恐怖）+ -some（〜を生じさせる）",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","描写語"],
+"meaning_main": "恐ろしい／すさまじい／手ごわい",
+"description": "fearsome（フィアサム）は「恐ろしい・手ごわい」。見る者に恐れを抱かせるほど強く、あるいは激しいことを表す形容詞。敵や姿、勢いなどの「すさまじさ」を描写するのに使う。",
+"keywords": ["fearsome 意味","fearsome 恐ろしい","fearsome 手ごわい"],
+"meanings": [
+{"hinshi": "【形容詞】恐ろしい・手ごわい・すさまじい","note": "恐れを抱かせるほど強く激しい"}
+],
+"usages": [
+{"title": "① 恐ろしい姿","desc": "威圧感","example_en": "The dragon had a fearsome appearance.","example_ja": "その竜は恐ろしい姿をしていた。"},
+{"title": "② 手ごわい相手","desc": "強敵","example_en": "They faced a fearsome opponent.","example_ja": "彼らは手ごわい相手と対戦した。"}
+],
+"warn": ["-some は「〜を生じさせる」を表す（troublesome など）。fearful（恐れている／恐ろしい）と近い"],
+"etym_note": "fear（恐怖）+ -some（〜を生じさせる性質の）からなる語。「恐れを生じさせる」から。",
+"etym_chain": [
+{"node": "fear","sub": "恐怖","era": "古英語"},
+{"node": "fearsome","sub": "恐ろしい","era": "近代英語"}
+],
+"phrases": [
+{"en": "a fearsome reputation","ja": "恐るべき評判"},
+{"en": "a fearsome opponent","ja": "手ごわい相手"},
+{"en": "a fearsome sight","ja": "恐ろしい光景"},
+{"en": "a fearsome roar","ja": "すさまじいうなり声"},
+{"en": "fearsome power","ja": "恐るべき力"},
+{"en": "look fearsome","ja": "恐ろしく見える"}
+],
+"related": [
+{"en": "frightening","ja": "恐ろしい"},
+{"en": "formidable","ja": "手ごわい"},
+{"en": "terrifying","ja": "ぞっとさせる"},
+{"en": "intimidating","ja": "威圧的な"}
+],
+"faq": [
+{"q": "fearsome と fearful の違いは？","a": "fearsome は「（相手を）恐れさせる」、fearful は「恐れている／恐ろしい」の両方に使えます。"},
+{"q": "-some はどんな意味？","a": "「〜を生じさせる・〜の性質の」を表す接尾辞です（troublesome など）。"}
+],
+"quiz": [
+{"q": "fearsome の意味は？","A": "恐ろしい・手ごわい","B": "優しい","C": "静かな","D": "陽気な","correct": "A"},
+{"q": "fearsome と近い意味は？","A": "formidable","B": "gentle","C": "cheerful","D": "calm","correct": "A"}
+]
+},
+{
+"english": "feeler",
+"pron": "ˈfiːlər",
+"kana": "フィーラー",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "feel（感じる）+ -er",
+"ld_level": "1級",
+"badges": ["大学生〜","生物・比喩","英検1級","CEFR C1"],
+"meaning_main": "（昆虫の）触角／打診・探り",
+"description": "feeler（フィーラー）は「（昆虫の）触角」。虫が周りを探るための細長い器官を指す。転じて、相手の反応をうかがう「打診・探り」の意味でも使い、put out feelers（探りを入れる）が定番。",
+"keywords": ["feeler 意味","触角 英語","put out feelers"],
+"meanings": [
+{"hinshi": "【名詞】（昆虫の）触角","note": "虫が周りを探るための細長い器官"},
+{"hinshi": "【名詞】打診・探り","note": "相手の反応をうかがう働きかけ"}
+],
+"usages": [
+{"title": "① 昆虫の触角","desc": "感覚器官","example_en": "The snail waved its feelers.","example_ja": "そのカタツムリは触角を揺らした。"},
+{"title": "② 探りを入れる","desc": "put out feelers","example_en": "The company put out feelers about a merger.","example_ja": "その会社は合併について探りを入れた。"}
+],
+"warn": ["昆虫の触角は antenna とも。put out feelers は「反応を探る・打診する」"],
+"etym_note": "feel（感じる・触れる）に、道具や人を表す -er が付いた語。「感じ取るもの」から。",
+"etym_chain": [
+{"node": "feel","sub": "感じる","era": "古英語"},
+{"node": "feeler","sub": "触角・探り","era": "現代英語"}
+],
+"phrases": [
+{"en": "put out feelers","ja": "探りを入れる"},
+{"en": "an insect's feelers","ja": "昆虫の触角"},
+{"en": "wave its feelers","ja": "触角を揺らす"},
+{"en": "send out feelers","ja": "打診する"},
+{"en": "a diplomatic feeler","ja": "外交的な打診"},
+{"en": "long feelers","ja": "長い触角"}
+],
+"related": [
+{"en": "antenna","ja": "触角"},
+{"en": "feel","ja": "感じる"},
+{"en": "probe","ja": "探る"},
+{"en": "inquiry","ja": "問い合わせ"}
+],
+"faq": [
+{"q": "put out feelers とは？","a": "「（相手の反応を）探りを入れる・打診する」という慣用表現です。"},
+{"q": "antenna との違いは？","a": "どちらも「触角」ですが、antenna はより科学的、feeler は日常的な言い方です。"}
+],
+"quiz": [
+{"q": "feeler の意味は？","A": "触角／打診・探り","B": "羽","C": "殻","D": "足","correct": "A"},
+{"q": "put out feelers の意味は？","A": "探りを入れる","B": "全力を出す","C": "あきらめる","D": "逃げ出す","correct": "A"}
+]
+},
+{
+"english": "feint",
+"pron": "feɪnt",
+"kana": "フェイント",
+"hinshi": "名詞 / 動詞",
+"ld_pos": "名詞",
+"ld_etym": "フランス語 feindre（見せかける）",
+"ld_level": "1級",
+"badges": ["大学生〜","スポーツ・軍事","英検1級","CEFR C1"],
+"meaning_main": "フェイント／見せかけの動作・陽動",
+"description": "feint（フェイント）は「見せかけの動作・陽動」。相手の注意をそらすために、本当の狙いとは違う動きをすること。スポーツや戦いで使う。動詞で「フェイントをかける」意味にも。",
+"keywords": ["feint 意味","フェイント 陽動","feint 見せかけ"],
+"meanings": [
+{"hinshi": "【名詞】見せかけの動作・陽動","note": "相手の注意をそらすための偽の動き"},
+{"hinshi": "【動詞】フェイントをかける","note": "見せかけの動きで相手を惑わす"}
+],
+"usages": [
+{"title": "① スポーツのフェイント","desc": "相手をかわす","example_en": "He beat the defender with a clever feint.","example_ja": "彼は巧みなフェイントで守備をかわした。"},
+{"title": "② 軍事の陽動","desc": "注意をそらす","example_en": "The attack was just a feint.","example_ja": "その攻撃はただの陽動だった。"}
+],
+"warn": ["faint（かすかな／気絶する）と同音異義。feint は「見せかけの動作」"],
+"etym_note": "フランス語 feindre（見せかける・ふりをする）に由来。feign（ふりをする）と同語源。",
+"etym_chain": [
+{"node": "feindre","sub": "見せかける","era": "フランス語"},
+{"node": "feint","sub": "陽動","era": "現代英語"}
+],
+"phrases": [
+{"en": "a clever feint","ja": "巧みなフェイント"},
+{"en": "make a feint","ja": "フェイントをかける"},
+{"en": "a feint to the left","ja": "左へのフェイント"},
+{"en": "a feint attack","ja": "陽動攻撃"},
+{"en": "with a feint","ja": "見せかけの動きで"},
+{"en": "a boxing feint","ja": "ボクシングのフェイント"}
+],
+"related": [
+{"en": "feign","ja": "ふりをする"},
+{"en": "trick","ja": "策略"},
+{"en": "deception","ja": "欺き"},
+{"en": "diversion","ja": "陽動・気そらし"}
+],
+"faq": [
+{"q": "feint と faint の違いは？","a": "feint は「見せかけの動作・陽動」、faint は「かすかな／気絶する」で別語です（同音）。"},
+{"q": "動詞の使い方は？","a": "feint で「フェイントをかける・見せかける」と使います。"}
+],
+"quiz": [
+{"q": "feint の意味は？","A": "見せかけの動作・陽動","B": "本気の攻撃","C": "休憩","D": "降参","correct": "A"},
+{"q": "feint と同音の「かすかな」は？","A": "faint","B": "feign","C": "faint と faint の両方","D": "fine","correct": "A"}
+]
+},
+{
+"english": "felicitous",
+"pron": "fəˈlɪsɪtəs",
+"kana": "フェリシタス",
+"hinshi": "形容詞",
+"ld_pos": "形容詞",
+"ld_etym": "ラテン語 felix（幸運な）",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","フォーマル"],
+"meaning_main": "（表現などが）適切でうまい／うまく言い当てた・めでたい",
+"description": "felicitous（フェリシタス）は「（言葉や表現が）適切でうまい」。その場にぴったりで巧みなことを表す、ややかたい語。「めでたい・幸運な」の意味でも使う。反対は infelicitous。",
+"keywords": ["felicitous 意味","felicitous 適切","felicitous 表現"],
+"meanings": [
+{"hinshi": "【形容詞】適切でうまい・巧みな","note": "言葉や表現がその場にぴったりで巧み"},
+{"hinshi": "【形容詞】めでたい・幸運な","note": "喜ばしい（やや古風）"}
+],
+"usages": [
+{"title": "① うまい表現","desc": "言い回しが巧み","example_en": "She made a felicitous choice of words.","example_ja": "彼女は言葉の選び方が実にうまかった。"},
+{"title": "② めでたい出来事","desc": "喜ばしい","example_en": "It was a felicitous occasion.","example_ja": "それはめでたい機会だった。"}
+],
+"warn": ["名詞は felicity（適切さ・幸福）。反対は infelicitous（不適切な）"],
+"etym_note": "ラテン語 felix（幸運な・実り豊かな）に由来する felicity の形容詞形。",
+"etym_chain": [
+{"node": "felix","sub": "幸運な","era": "ラテン語"},
+{"node": "felicity","sub": "幸福・適切さ","era": "中英語"},
+{"node": "felicitous","sub": "適切でうまい","era": "現代英語"}
+],
+"phrases": [
+{"en": "a felicitous phrase","ja": "うまい言い回し"},
+{"en": "a felicitous choice of words","ja": "巧みな言葉選び"},
+{"en": "a felicitous remark","ja": "適切な発言"},
+{"en": "a felicitous occasion","ja": "めでたい機会"},
+{"en": "felicitous timing","ja": "絶妙なタイミング"},
+{"en": "a felicitous turn of phrase","ja": "巧みな言い回し"}
+],
+"related": [
+{"en": "felicity","ja": "適切さ・幸福"},
+{"en": "apt","ja": "適切な"},
+{"en": "fitting","ja": "ふさわしい"},
+{"en": "infelicitous","ja": "不適切な"}
+],
+"faq": [
+{"q": "felicitous の名詞形は？","a": "felicity（適切さ・幸福・巧みさ）です。"},
+{"q": "反対の語は？","a": "infelicitous（不適切な・まずい）です。"}
+],
+"quiz": [
+{"q": "felicitous の意味は？","A": "（表現が）適切でうまい","B": "不適切な","C": "退屈な","D": "誤った","correct": "A"},
+{"q": "felicitous の反対は？","A": "infelicitous","B": "apt","C": "fitting","D": "felicity","correct": "A"}
+]
+},
+{
+"english": "felony",
+"pron": "ˈfɛləni",
+"kana": "フェロニー",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "古フランス語 felonie（裏切り・悪事）",
+"ld_level": "1級",
+"badges": ["大学生〜","法律用語","英検1級","CEFR C1"],
+"meaning_main": "重罪（じゅうざい）",
+"description": "felony（フェロニー）は「重罪」。殺人や強盗など、重い刑罰が科される犯罪を指す法律用語。特にアメリカの法制度で使われ、軽い犯罪 misdemeanor（軽罪）と対をなす。",
+"keywords": ["felony 意味","重罪 英語","felony 犯罪"],
+"meanings": [
+{"hinshi": "【名詞】重罪","note": "殺人・強盗など重い刑罰が科される犯罪"}
+],
+"usages": [
+{"title": "① 重い犯罪","desc": "重罪の起訴","example_en": "He was charged with a felony.","example_ja": "彼は重罪で起訴された。"},
+{"title": "② 軽罪との区別","desc": "misdemeanorと対","example_en": "The crime was a felony, not a misdemeanor.","example_ja": "その犯罪は軽罪ではなく重罪だった。"}
+],
+"warn": ["軽い犯罪は misdemeanor（軽罪）。重罪犯は felon。主に米法で使う"],
+"etym_note": "古フランス語 felonie（裏切り・悪事。felon 悪人）に由来。中世の重大な犯罪を指した。",
+"etym_chain": [
+{"node": "felon","sub": "悪人","era": "古フランス語"},
+{"node": "felonie","sub": "悪事","era": "古フランス語"},
+{"node": "felony","sub": "重罪","era": "現代英語"}
+],
+"phrases": [
+{"en": "commit a felony","ja": "重罪を犯す"},
+{"en": "charged with a felony","ja": "重罪で起訴されて"},
+{"en": "a felony conviction","ja": "重罪の有罪判決"},
+{"en": "a violent felony","ja": "暴力的な重罪"},
+{"en": "a felony charge","ja": "重罪の容疑"},
+{"en": "a first-degree felony","ja": "第一級重罪"}
+],
+"related": [
+{"en": "felon","ja": "重罪犯"},
+{"en": "misdemeanor","ja": "軽罪"},
+{"en": "crime","ja": "犯罪"},
+{"en": "offense","ja": "違反・犯罪"}
+],
+"faq": [
+{"q": "felony と misdemeanor の違いは？","a": "felony は重い犯罪「重罪」、misdemeanor は軽い犯罪「軽罪」です。"},
+{"q": "重罪を犯した人は？","a": "felon（重罪犯）です。"}
+],
+"quiz": [
+{"q": "felony の意味は？","A": "重罪","B": "軽罪","C": "無罪","D": "違反金","correct": "A"},
+{"q": "felony と対をなす「軽罪」は？","A": "misdemeanor","B": "felon","C": "penalty","D": "verdict","correct": "A"}
+]
+},
+{
+"english": "felucca",
+"pron": "fəˈlʌkə",
+"kana": "フェルッカ",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "アラビア語 fulk（船）",
+"ld_level": "1級",
+"badges": ["大学生〜","船・地理","外来語","中東"],
+"meaning_main": "ファルーカ（地中海・ナイル川の帆船）",
+"description": "felucca（フェルッカ）は、地中海やナイル川で使われる伝統的な木造の帆船。三角形の帆を持ち、風を受けて優雅に進む。エジプトのナイル観光でよく見られる小型帆船。",
+"keywords": ["felucca 意味","ファルーカ 帆船","felucca ナイル"],
+"meanings": [
+{"hinshi": "【名詞】ファルーカ","note": "地中海・ナイル川の三角帆の伝統的な木造帆船"}
+],
+"usages": [
+{"title": "① ナイルの帆船","desc": "エジプト観光","example_en": "We sailed down the Nile on a felucca.","example_ja": "私たちはファルーカでナイル川を下った。"},
+{"title": "② 三角帆の船","desc": "伝統的な帆船","example_en": "The felucca has a distinctive triangular sail.","example_ja": "ファルーカは特徴的な三角形の帆を持つ。"}
+],
+"warn": ["アラビア語由来。三角帆（lateen sail）を持つ小型の伝統帆船"],
+"etym_note": "アラビア語 fulk（船）に由来し、イタリア語 feluca を経て英語へ。",
+"etym_chain": [
+{"node": "fulk","sub": "船","era": "アラビア語"},
+{"node": "feluca","sub": "帆船","era": "イタリア語"},
+{"node": "felucca","sub": "ファルーカ","era": "現代英語"}
+],
+"phrases": [
+{"en": "sail on a felucca","ja": "ファルーカで航行する"},
+{"en": "a Nile felucca","ja": "ナイルのファルーカ"},
+{"en": "a traditional felucca","ja": "伝統的なファルーカ"},
+{"en": "the felucca's sail","ja": "ファルーカの帆"},
+{"en": "board a felucca","ja": "ファルーカに乗り込む"},
+{"en": "a wooden felucca","ja": "木造のファルーカ"}
+],
+"related": [
+{"en": "sailboat","ja": "帆船"},
+{"en": "Nile","ja": "ナイル川"},
+{"en": "sail","ja": "帆"},
+{"en": "vessel","ja": "船"}
+],
+"faq": [
+{"q": "felucca とは？","a": "地中海やナイル川で使われる、三角帆を持つ伝統的な木造帆船です。"},
+{"q": "どこで見られる？","a": "特にエジプトのナイル川観光でよく見られます。"}
+],
+"quiz": [
+{"q": "felucca とは何？","A": "伝統的な帆船","B": "山の名前","C": "楽器","D": "料理","correct": "A"},
+{"q": "felucca がよく見られる川は？","A": "ナイル川","B": "アマゾン川","C": "ライン川","D": "長江","correct": "A"}
+]
+},
+{
+"english": "feminism",
+"pron": "ˈfɛmɪnɪzəm",
+"kana": "フェミニズム",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "ラテン語 femina（女性）",
+"ld_level": "1級",
+"badges": ["大学生〜","社会・思想","英検1級","CEFR C1"],
+"meaning_main": "フェミニズム／男女平等を求める思想・運動",
+"description": "feminism（フェミニズム）は、女性の権利を守り、男女の平等を実現しようとする思想や社会運動。性別による差別をなくし、機会や扱いの公平を目指す立場を指す。",
+"keywords": ["feminism 意味","フェミニズム 男女平等","feminism 運動"],
+"meanings": [
+{"hinshi": "【名詞】フェミニズム","note": "女性の権利と男女平等を求める思想・運動"}
+],
+"usages": [
+{"title": "① 男女平等の思想","desc": "権利と平等","example_en": "Feminism seeks equality between the sexes.","example_ja": "フェミニズムは男女の平等を目指す。"},
+{"title": "② 社会運動として","desc": "権利拡大","example_en": "The movement was influenced by feminism.","example_ja": "その運動はフェミニズムの影響を受けた。"}
+],
+"warn": ["支持者は feminist（フェミニスト）。男女平等を目指す立場で、女性優位とは異なる"],
+"etym_note": "ラテン語 femina（女性）に由来する語に、-ism（主義）が付いた語。",
+"etym_chain": [
+{"node": "femina","sub": "女性","era": "ラテン語"},
+{"node": "feminine","sub": "女性の","era": "中英語"},
+{"node": "feminism","sub": "フェミニズム","era": "現代英語"}
+],
+"phrases": [
+{"en": "modern feminism","ja": "現代フェミニズム"},
+{"en": "the history of feminism","ja": "フェミニズムの歴史"},
+{"en": "a wave of feminism","ja": "フェミニズムの波"},
+{"en": "embrace feminism","ja": "フェミニズムを受け入れる"},
+{"en": "feminism and equality","ja": "フェミニズムと平等"},
+{"en": "third-wave feminism","ja": "第三波フェミニズム"}
+],
+"related": [
+{"en": "feminist","ja": "フェミニスト"},
+{"en": "equality","ja": "平等"},
+{"en": "gender","ja": "性別・ジェンダー"},
+{"en": "rights","ja": "権利"}
+],
+"faq": [
+{"q": "feminism の目的は？","a": "性別による差別をなくし、男女の平等・機会の公平を実現することです。"},
+{"q": "支持者を表す語は？","a": "feminist（フェミニスト）です。"}
+],
+"quiz": [
+{"q": "feminism の意味は？","A": "男女平等を求める思想・運動","B": "女性のみの優遇","C": "男性中心主義","D": "身分制度","correct": "A"},
+{"q": "feminism を支持する人は？","A": "feminist","B": "feminine","C": "female","D": "feature","correct": "A"}
+]
+},
+{
+"english": "fender",
+"pron": "ˈfɛndər",
+"kana": "フェンダー",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "defend（防ぐ）の短縮",
+"ld_level": "準1級",
+"badges": ["高校生〜","自動車・道具","英検準1級","CEFR B2"],
+"meaning_main": "（車の）フェンダー・泥よけ／緩衝物",
+"description": "fender（フェンダー）は「（車の）フェンダー・泥よけ」。タイヤの上を覆い、泥はねや衝撃から車体を守る部分。船を岸壁との衝突から守る「緩衝材」や、暖炉の火よけの意味でも使う。",
+"keywords": ["fender 意味","フェンダー 車","fender 泥よけ"],
+"meanings": [
+{"hinshi": "【名詞】フェンダー・泥よけ","note": "車のタイヤ上を覆い泥はねや衝撃を防ぐ部分"},
+{"hinshi": "【名詞】緩衝物","note": "船と岸壁の間の緩衝材、暖炉の火よけ"}
+],
+"usages": [
+{"title": "① 車のフェンダー","desc": "泥よけ・車体保護","example_en": "The car's front fender was dented.","example_ja": "その車の前のフェンダーはへこんでいた。"},
+{"title": "② 船の緩衝材","desc": "岸壁との衝突を防ぐ","example_en": "They hung fenders over the side of the boat.","example_ja": "彼らは船の横に緩衝材をつるした。"}
+],
+"warn": ["米では fender、英では wing / mudguard とも。fender bender は「軽い接触事故」"],
+"etym_note": "defend（防ぐ・守る）の短縮形。「（衝撃などを）防ぐもの」から。",
+"etym_chain": [
+{"node": "defendere","sub": "防ぐ","era": "ラテン語"},
+{"node": "defend","sub": "守る","era": "中英語"},
+{"node": "fender","sub": "泥よけ・緩衝物","era": "現代英語"}
+],
+"phrases": [
+{"en": "a front fender","ja": "前のフェンダー"},
+{"en": "a fender bender","ja": "軽い接触事故"},
+{"en": "a dented fender","ja": "へこんだフェンダー"},
+{"en": "boat fenders","ja": "船の緩衝材"},
+{"en": "a rear fender","ja": "後ろのフェンダー"},
+{"en": "replace the fender","ja": "フェンダーを交換する"}
+],
+"related": [
+{"en": "bumper","ja": "バンパー"},
+{"en": "mudguard","ja": "泥よけ（英）"},
+{"en": "defend","ja": "守る"},
+{"en": "guard","ja": "覆い・防護"}
+],
+"faq": [
+{"q": "fender bender とは？","a": "「軽い接触事故（車のフェンダーがへこむ程度）」を指す口語です。"},
+{"q": "船の fender とは？","a": "船と岸壁の衝突を防ぐためにつるす「緩衝材」のことです。"}
+],
+"quiz": [
+{"q": "fender の意味は？","A": "（車の）泥よけ・緩衝物","B": "エンジン","C": "ハンドル","D": "座席","correct": "A"},
+{"q": "fender bender の意味は？","A": "軽い接触事故","B": "大事故","C": "洗車","D": "給油","correct": "A"}
+]
+},
+{
+"english": "ferocity",
+"pron": "fəˈrɒsəti",
+"kana": "フェロシティ",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "ラテン語 ferox（獰猛な）",
+"ld_level": "1級",
+"badges": ["大学生〜","英検1級","CEFR C1","描写語"],
+"meaning_main": "獰猛さ／激しさ／すさまじさ",
+"description": "ferocity（フェロシティ）は「獰猛さ・激しさ」。野獣のような荒々しさや、攻撃・嵐などのすさまじい激しさを表す名詞。形容詞 ferocious（獰猛な）の名詞形。",
+"keywords": ["ferocity 意味","獰猛さ 英語","ferocious 名詞"],
+"meanings": [
+{"hinshi": "【名詞】獰猛さ・激しさ","note": "野獣のような荒々しさ、攻撃や嵐の激しさ"}
+],
+"usages": [
+{"title": "① 攻撃の激しさ","desc": "すさまじさ","example_en": "The storm struck with sudden ferocity.","example_ja": "嵐は突然のすさまじさで襲ってきた。"},
+{"title": "② 獣の獰猛さ","desc": "荒々しさ","example_en": "The tiger attacked with ferocity.","example_ja": "そのトラは獰猛に襲いかかった。"}
+],
+"warn": ["形容詞は ferocious（獰猛な）。fierce（激しい）と同語源"],
+"etym_note": "ラテン語 ferox（獰猛な。ferus 野生の）に由来する ferocious の名詞形。",
+"etym_chain": [
+{"node": "ferox","sub": "獰猛な","era": "ラテン語"},
+{"node": "ferocious","sub": "獰猛な","era": "近代英語"},
+{"node": "ferocity","sub": "獰猛さ","era": "現代英語"}
+],
+"phrases": [
+{"en": "attack with ferocity","ja": "獰猛に攻撃する"},
+{"en": "sudden ferocity","ja": "突然の激しさ"},
+{"en": "the ferocity of the storm","ja": "嵐のすさまじさ"},
+{"en": "unexpected ferocity","ja": "思いがけない激しさ"},
+{"en": "sheer ferocity","ja": "まったくのすさまじさ"},
+{"en": "with great ferocity","ja": "猛烈な激しさで"}
+],
+"related": [
+{"en": "ferocious","ja": "獰猛な"},
+{"en": "fierceness","ja": "激しさ"},
+{"en": "savagery","ja": "野蛮さ"},
+{"en": "brutality","ja": "残忍さ"}
+],
+"faq": [
+{"q": "ferocity の形容詞形は？","a": "ferocious（獰猛な・猛烈な）です。"},
+{"q": "どんなものに使う？","a": "獣の攻撃や嵐、争いなどの「すさまじい激しさ」に使います。"}
+],
+"quiz": [
+{"q": "ferocity の意味は？","A": "獰猛さ・激しさ","B": "優しさ","C": "静けさ","D": "弱さ","correct": "A"},
+{"q": "ferocity の形容詞形は？","A": "ferocious","B": "ferry","C": "fertile","D": "feral","correct": "A"}
+]
+},
+{
+"english": "ferrari",
+"pron": "fəˈrɑːri",
+"kana": "フェラーリ",
+"hinshi": "名詞（固有名詞）",
+"ld_pos": "名詞",
+"ld_etym": "イタリア語の姓 Ferrari（鍛冶屋）",
+"ld_level": "準1級",
+"badges": ["高校生〜","ブランド・車","固有名詞","イタリア"],
+"meaning_main": "フェラーリ（イタリアの高級スポーツカー）",
+"description": "Ferrari（フェラーリ）はイタリアの高級スポーツカーメーカー、およびその車。跳ね馬のエンブレムで知られ、F1レースでの活躍と真紅のボディで世界的に有名なブランド。",
+"keywords": ["ferrari 意味","フェラーリ 車","ferrari イタリア"],
+"meanings": [
+{"hinshi": "【固有名詞】フェラーリ","note": "イタリアの高級スポーツカーメーカー・その車"}
+],
+"usages": [
+{"title": "① 高級スポーツカー","desc": "憧れの車","example_en": "He dreams of owning a red Ferrari.","example_ja": "彼は真紅のフェラーリを所有するのが夢だ。"},
+{"title": "② F1レースの名門","desc": "モータースポーツ","example_en": "Ferrari is one of the most famous F1 teams.","example_ja": "フェラーリは最も有名なF1チームの一つだ。"}
+],
+"warn": ["固有名詞なので大文字 Ferrari。ファイル名・リンクは小文字 ferrari。創業者エンツォ・フェラーリの姓"],
+"etym_note": "創業者エンツォ・フェラーリの姓に由来。姓 Ferrari はイタリア語で「鍛冶屋（ferro 鉄）」を意味する。",
+"etym_chain": [
+{"node": "ferro","sub": "鉄","era": "イタリア語"},
+{"node": "Ferrari","sub": "鍛冶屋（姓）","era": "イタリア語"},
+{"node": "Ferrari","sub": "フェラーリ","era": "現代英語"}
+],
+"phrases": [
+{"en": "a red Ferrari","ja": "真紅のフェラーリ"},
+{"en": "drive a Ferrari","ja": "フェラーリを運転する"},
+{"en": "a Ferrari sports car","ja": "フェラーリのスポーツカー"},
+{"en": "the Ferrari team","ja": "フェラーリのチーム"},
+{"en": "own a Ferrari","ja": "フェラーリを所有する"},
+{"en": "a classic Ferrari","ja": "クラシックなフェラーリ"}
+],
+"related": [
+{"en": "sports car","ja": "スポーツカー"},
+{"en": "Italy","ja": "イタリア"},
+{"en": "Formula One","ja": "F1"},
+{"en": "luxury","ja": "高級な"}
+],
+"faq": [
+{"q": "Ferrari とは？","a": "イタリアの高級スポーツカーメーカー、およびその車です。"},
+{"q": "名前の由来は？","a": "創業者エンツォ・フェラーリの姓で、イタリア語で「鍛冶屋」を意味します。"}
+],
+"quiz": [
+{"q": "Ferrari はどこの国のメーカー？","A": "イタリア","B": "ドイツ","C": "日本","D": "アメリカ","correct": "A"},
+{"q": "Ferrari が有名なのは？","A": "高級スポーツカー・F1","B": "航空機","C": "家電","D": "食品","correct": "A"}
+]
+},
+{
+"english": "ferret",
+"pron": "ˈfɛrɪt",
+"kana": "フェレット",
+"hinshi": "名詞 / 動詞",
+"ld_pos": "名詞",
+"ld_etym": "ラテン語 fur（泥棒）",
+"ld_level": "1級",
+"badges": ["大学生〜","動物","英検1級","CEFR C1"],
+"meaning_main": "フェレット（イタチの仲間）／（動詞）探し出す",
+"description": "ferret（フェレット）は「フェレット」。細長い体を持つイタチ科の動物で、ペットや狩りの助けにも使われる。動詞では ferret out で「（隠れたものを）探し出す」の意味になる。",
+"keywords": ["ferret 意味","フェレット 動物","ferret out"],
+"meanings": [
+{"hinshi": "【名詞】フェレット","note": "細長い体のイタチ科の動物。ペットにもなる"},
+{"hinshi": "【動詞】探し出す","note": "ferret out で「（隠れたものを）探り出す」"}
+],
+"usages": [
+{"title": "① ペットのフェレット","desc": "イタチの仲間","example_en": "They keep a ferret as a pet.","example_ja": "彼らはフェレットをペットとして飼っている。"},
+{"title": "② 探し出す","desc": "ferret out","example_en": "The reporter ferreted out the truth.","example_ja": "その記者は真実を探り出した。"}
+],
+"warn": ["ferret out ~ で「（隠れた事実などを）探り出す」。狭い所に潜り込む習性から"],
+"etym_note": "ラテン語 fur（泥棒）に由来する古フランス語 furet（小さな泥棒）から。獲物を巣穴から追い出す習性から。",
+"etym_chain": [
+{"node": "fur","sub": "泥棒","era": "ラテン語"},
+{"node": "furet","sub": "小さな泥棒","era": "古フランス語"},
+{"node": "ferret","sub": "フェレット","era": "現代英語"}
+],
+"phrases": [
+{"en": "keep a ferret","ja": "フェレットを飼う"},
+{"en": "ferret out the truth","ja": "真実を探り出す"},
+{"en": "a pet ferret","ja": "ペットのフェレット"},
+{"en": "ferret out information","ja": "情報を探り出す"},
+{"en": "a tame ferret","ja": "人になれたフェレット"},
+{"en": "ferret around","ja": "あちこち探す"}
+],
+"related": [
+{"en": "weasel","ja": "イタチ"},
+{"en": "polecat","ja": "ケナガイタチ"},
+{"en": "search","ja": "探す"},
+{"en": "uncover","ja": "暴く"}
+],
+"faq": [
+{"q": "ferret out とは？","a": "「（隠れた事実や物を）探し出す・突き止める」という句動詞です。"},
+{"q": "どんな動物？","a": "細長い体のイタチ科の動物で、ペットや狩りの助けとして飼われます。"}
+],
+"quiz": [
+{"q": "ferret（名詞）とは何？","A": "イタチの仲間の動物","B": "鳥","C": "魚","D": "昆虫","correct": "A"},
+{"q": "ferret out the ___ の空欄に合うのは？","A": "truth","B": "sky","C": "door","D": "wind","correct": "A"}
+]
+},
+{
+"english": "ferrite",
+"pron": "ˈfɛraɪt",
+"kana": "フェライト",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "ラテン語 ferrum（鉄）",
+"ld_level": "1級",
+"badges": ["大学生〜","化学・工学","英検1級","CEFR C1"],
+"meaning_main": "フェライト（鉄の化合物・磁性材料）",
+"description": "ferrite（フェライト）は「フェライト」。鉄を主成分とする磁性材料で、電子部品のコアや磁石に使われる。また、鉄鋼の組織の一つ（純鉄に近い相）を指す冶金用語でもある。",
+"keywords": ["ferrite 意味","フェライト 磁性","ferrite 鉄"],
+"meanings": [
+{"hinshi": "【名詞】フェライト（磁性材料）","note": "鉄を主成分とする磁性材料。電子部品や磁石に使う"},
+{"hinshi": "【名詞】フェライト（鉄鋼の組織）","note": "鉄鋼中の、純鉄に近い柔らかい相"}
+],
+"usages": [
+{"title": "① 磁性材料","desc": "電子部品","example_en": "Ferrite is used in the cores of transformers.","example_ja": "フェライトは変圧器のコアに使われる。"},
+{"title": "② 鉄鋼の組織","desc": "冶金学","example_en": "Ferrite is a soft phase in steel.","example_ja": "フェライトは鋼中の柔らかい組織だ。"}
+],
+"warn": ["語源はラテン語 ferrum（鉄）。ferrite magnet（フェライト磁石）は身近な例"],
+"etym_note": "ラテン語 ferrum（鉄）に、-ite（鉱物・成分を表す接尾辞）が付いた語。",
+"etym_chain": [
+{"node": "ferrum","sub": "鉄","era": "ラテン語"},
+{"node": "ferrite","sub": "フェライト","era": "現代英語"}
+],
+"phrases": [
+{"en": "a ferrite core","ja": "フェライトコア"},
+{"en": "a ferrite magnet","ja": "フェライト磁石"},
+{"en": "soft ferrite","ja": "軟質フェライト"},
+{"en": "ferrite in steel","ja": "鋼中のフェライト"},
+{"en": "a ferrite bead","ja": "フェライトビーズ"},
+{"en": "magnetic ferrite","ja": "磁性フェライト"}
+],
+"related": [
+{"en": "iron","ja": "鉄"},
+{"en": "magnet","ja": "磁石"},
+{"en": "alloy","ja": "合金"},
+{"en": "steel","ja": "鋼"}
+],
+"faq": [
+{"q": "ferrite は何に使われる？","a": "磁石や、変圧器・電子部品の磁性コアなどに使われます。"},
+{"q": "語源は？","a": "ラテン語 ferrum（鉄）に由来します。"}
+],
+"quiz": [
+{"q": "ferrite とは何？","A": "鉄を主成分とする磁性材料","B": "木材","C": "プラスチック","D": "ガラス","correct": "A"},
+{"q": "ferrite の語源「ferrum」の意味は？","A": "鉄","B": "水","C": "火","D": "石","correct": "A"}
+]
+},
+{
+"english": "ferry",
+"pron": "ˈfɛri",
+"kana": "フェリー",
+"hinshi": "名詞 / 動詞",
+"ld_pos": "名詞",
+"ld_etym": "古英語 ferian（運ぶ）",
+"ld_level": "3級",
+"badges": ["中学生〜","英検3級","CEFR A2","交通"],
+"meaning_main": "フェリー／渡し船／（人・物を）運ぶ",
+"description": "ferry（フェリー）は「フェリー・渡し船」。人や車を対岸や島へ運ぶ船。動詞では「（人や物を）定期的に運ぶ・送り迎えする」の意味でも使う基本語。",
+"keywords": ["ferry 意味","フェリー 船","ferry 渡し船"],
+"meanings": [
+{"hinshi": "【名詞】フェリー・渡し船","note": "人や車を対岸や島へ運ぶ船"},
+{"hinshi": "【動詞】（人・物を）運ぶ","note": "定期的に運ぶ・送り迎えする"}
+],
+"usages": [
+{"title": "① フェリーで渡る","desc": "対岸・島へ","example_en": "We took the ferry to the island.","example_ja": "私たちはフェリーで島へ渡った。"},
+{"title": "② 人を送迎する","desc": "動詞用法","example_en": "She ferries the kids to school every day.","example_ja": "彼女は毎日子どもたちを学校へ送っている。"}
+],
+"warn": ["car ferry（カーフェリー）は車も運ぶ船。動詞では「送り迎えする」の意味も"],
+"etym_note": "古英語 ferian（運ぶ）に由来。「向こう岸へ運ぶ」から。",
+"etym_chain": [
+{"node": "ferian","sub": "運ぶ","era": "古英語"},
+{"node": "ferry","sub": "渡し船","era": "中英語"}
+],
+"phrases": [
+{"en": "take the ferry","ja": "フェリーに乗る"},
+{"en": "a car ferry","ja": "カーフェリー"},
+{"en": "a ferry terminal","ja": "フェリー乗り場"},
+{"en": "the ferry crossing","ja": "フェリーの渡航"},
+{"en": "ferry passengers","ja": "乗客を運ぶ"},
+{"en": "a passenger ferry","ja": "旅客フェリー"}
+],
+"related": [
+{"en": "boat","ja": "ボート"},
+{"en": "ship","ja": "船"},
+{"en": "port","ja": "港"},
+{"en": "transport","ja": "輸送する"}
+],
+"faq": [
+{"q": "ferry と boat の違いは？","a": "ferry は「定期的に人や車を運ぶ渡し船」、boat は小型の船全般です。"},
+{"q": "動詞の使い方は？","a": "ferry someone で「（人を）定期的に運ぶ・送り迎えする」と使います。"}
+],
+"quiz": [
+{"q": "ferry の意味は？","A": "フェリー・渡し船","B": "飛行機","C": "電車","D": "自転車","correct": "A"},
+{"q": "car ferry とは？","A": "車も運ぶフェリー","B": "小型ボート","C": "潜水艦","D": "ヨット","correct": "A"}
+]
+},
+{
+"english": "fetch",
+"pron": "fɛtʃ",
+"kana": "フェッチ",
+"hinshi": "動詞",
+"ld_pos": "動詞",
+"ld_etym": "古英語 feccan（取ってくる）",
+"ld_level": "準2級",
+"badges": ["中学生〜","英検準2級","CEFR B1","基本語"],
+"meaning_main": "（行って）取ってくる／連れてくる／（値で）売れる",
+"description": "fetch（フェッチ）は「（行って）取ってくる・連れてくる」。ある場所へ行き、物や人を持って（連れて）戻ることを表す。また「（ある値段で）売れる」の意味でも使う基本語。",
+"keywords": ["fetch 意味","fetch 取ってくる","fetch 値段"],
+"meanings": [
+{"hinshi": "【動詞】取ってくる・連れてくる","note": "行って物や人を持って（連れて）戻る"},
+{"hinshi": "【動詞】（ある値で）売れる","note": "その値段で買われる"}
+],
+"usages": [
+{"title": "① 取ってくる","desc": "go and bring","example_en": "Can you fetch me a glass of water?","example_ja": "水を1杯取ってきてくれる？"},
+{"title": "② ある値で売れる","desc": "値段がつく","example_en": "The painting fetched a high price.","example_ja": "その絵は高い値段で売れた。"}
+],
+"warn": ["bring（持ってくる）と違い、fetch は「行って取ってきて戻る」動きを含む。犬の遊び「取ってこい」も fetch"],
+"etym_note": "古英語 feccan（取ってくる）に由来。「行って持ち帰る」の意味を古くから持つ。",
+"etym_chain": [
+{"node": "feccan","sub": "取ってくる","era": "古英語"},
+{"node": "fetch","sub": "取ってくる","era": "現代英語"}
+],
+"phrases": [
+{"en": "fetch a doctor","ja": "医者を呼んでくる"},
+{"en": "go and fetch","ja": "取りに行く"},
+{"en": "fetch water","ja": "水をくんでくる"},
+{"en": "fetch a good price","ja": "良い値で売れる"},
+{"en": "play fetch","ja": "（犬と）取ってこい遊びをする"},
+{"en": "fetch the newspaper","ja": "新聞を取ってくる"}
+],
+"related": [
+{"en": "bring","ja": "持ってくる"},
+{"en": "get","ja": "取ってくる"},
+{"en": "retrieve","ja": "取り戻す"},
+{"en": "collect","ja": "集める・受け取る"}
+],
+"faq": [
+{"q": "fetch と bring の違いは？","a": "bring は「持ってくる」、fetch は「行って取ってきて戻る」という往復の動きを含みます。"},
+{"q": "fetch a price とは？","a": "「（ある値段で）売れる・値がつく」という意味です。"}
+],
+"quiz": [
+{"q": "fetch の意味は？","A": "（行って）取ってくる","B": "投げ捨てる","C": "隠す","D": "壊す","correct": "A"},
+{"q": "fetch a good price の意味は？","A": "良い値で売れる","B": "値切る","C": "無料でもらう","D": "返品する","correct": "A"}
+]
+},
+{
+"english": "fetishism",
+"pron": "ˈfɛtɪʃɪzəm",
+"kana": "フェティシズム",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "ポルトガル語 feitiço（呪物・まじない）",
+"ld_level": "1級",
+"badges": ["大学生〜","人類学・専門","英検1級","CEFR C1"],
+"meaning_main": "呪物崇拝／（ある物への）過度の執着",
+"description": "fetishism（フェティシズム）は「呪物崇拝」。人類学で、特定の物に霊的な力があると信じて崇める信仰を指す。転じて、ある物や観念に度を越して執着することも表す専門語。",
+"keywords": ["fetishism 意味","呪物崇拝 英語","fetishism 執着"],
+"meanings": [
+{"hinshi": "【名詞】呪物崇拝","note": "特定の物に霊力があると信じて崇める信仰（人類学）"},
+{"hinshi": "【名詞】過度の執着","note": "ある物や観念に度を越してこだわること"}
+],
+"usages": [
+{"title": "① 呪物崇拝","desc": "人類学の用語","example_en": "The tribe practiced a form of fetishism.","example_ja": "その部族はある種の呪物崇拝を行っていた。"},
+{"title": "② 過度の執着","desc": "比喩的に","example_en": "He criticized society's fetishism of wealth.","example_ja": "彼は社会の富への過度の執着を批判した。"}
+],
+"warn": ["対象となる物は fetish（呪物・崇拝物）。人類学・社会学の学術語として扱う"],
+"etym_note": "ポルトガル語 feitiço（呪物・まじない。ラテン語 facticius 人工の）に由来する fetish に、-ism が付いた語。",
+"etym_chain": [
+{"node": "feitiço","sub": "呪物","era": "ポルトガル語"},
+{"node": "fetish","sub": "呪物・崇拝物","era": "近代英語"},
+{"node": "fetishism","sub": "呪物崇拝","era": "現代英語"}
+],
+"phrases": [
+{"en": "the fetishism of objects","ja": "物への呪物崇拝"},
+{"en": "commodity fetishism","ja": "商品の物神崇拝"},
+{"en": "a form of fetishism","ja": "呪物崇拝の一形態"},
+{"en": "cultural fetishism","ja": "文化的な物神崇拝"},
+{"en": "study fetishism","ja": "呪物崇拝を研究する"},
+{"en": "religious fetishism","ja": "宗教的な呪物崇拝"}
+],
+"related": [
+{"en": "fetish","ja": "呪物・崇拝物"},
+{"en": "worship","ja": "崇拝"},
+{"en": "idol","ja": "偶像"},
+{"en": "obsession","ja": "執着"}
+],
+"faq": [
+{"q": "fetishism の人類学での意味は？","a": "特定の物に霊的な力があると信じて崇める「呪物崇拝」です。"},
+{"q": "commodity fetishism とは？","a": "マルクスの用語で、商品に人間関係を超えた価値を見いだす「商品の物神崇拝」です。"}
+],
+"quiz": [
+{"q": "fetishism の意味は？","A": "呪物崇拝／過度の執着","B": "無関心","C": "節約","D": "協力","correct": "A"},
+{"q": "崇拝の対象となる物を表す語は？","A": "fetish","B": "feature","C": "festival","D": "fable","correct": "A"}
+]
+},
+{
+"english": "feverfew",
+"pron": "ˈfiːvərfjuː",
+"kana": "フィーバーフュー",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "ラテン語 febrifugia（熱を追い払うもの）",
+"ld_level": "1級",
+"badges": ["大学生〜","植物・薬草","英検1級","CEFR C1"],
+"meaning_main": "ナツシロギク（薬用のハーブ）",
+"description": "feverfew（フィーバーフュー）は「ナツシロギク」。キクに似た白い花をつけるハーブで、古くから熱や頭痛を和らげる薬草として使われてきた。名は「熱を下げる」に由来する。",
+"keywords": ["feverfew 意味","ナツシロギク 英語","feverfew ハーブ"],
+"meanings": [
+{"hinshi": "【名詞】ナツシロギク","note": "白い花をつける薬用のハーブ。頭痛などに用いられてきた"}
+],
+"usages": [
+{"title": "① 薬用ハーブ","desc": "頭痛などに","example_en": "Feverfew has long been used to treat headaches.","example_ja": "ナツシロギクは古くから頭痛の治療に使われてきた。"},
+{"title": "② 白い花の草","desc": "庭の植物","example_en": "Feverfew produces small daisy-like flowers.","example_ja": "ナツシロギクはヒナギクに似た小さな花をつける。"}
+],
+"warn": ["名は「熱を追い払う（fever + few < fugare 追い払う）」に由来。片頭痛の民間薬として知られる"],
+"etym_note": "ラテン語 febrifugia（febris 熱 + fugare 追い払う＝熱を追い払うもの）に由来。「解熱の草」から。",
+"etym_chain": [
+{"node": "febrifugia","sub": "熱を追い払うもの","era": "ラテン語"},
+{"node": "feverfew","sub": "ナツシロギク","era": "現代英語"}
+],
+"phrases": [
+{"en": "feverfew leaves","ja": "ナツシロギクの葉"},
+{"en": "take feverfew","ja": "ナツシロギクを服用する"},
+{"en": "feverfew for headaches","ja": "頭痛にナツシロギク"},
+{"en": "a feverfew plant","ja": "ナツシロギクの株"},
+{"en": "dried feverfew","ja": "乾燥ナツシロギク"},
+{"en": "feverfew tea","ja": "ナツシロギクのお茶"}
+],
+"related": [
+{"en": "herb","ja": "ハーブ"},
+{"en": "chamomile","ja": "カモミール"},
+{"en": "remedy","ja": "治療薬"},
+{"en": "migraine","ja": "片頭痛"}
+],
+"faq": [
+{"q": "feverfew は何に使われる？","a": "古くから熱や頭痛、特に片頭痛を和らげる薬草として使われてきました。"},
+{"q": "名前の由来は？","a": "ラテン語で「熱を追い払うもの」を意味し、解熱作用に由来します。"}
+],
+"quiz": [
+{"q": "feverfew とは何？","A": "薬用のハーブ（ナツシロギク）","B": "熱病の一種","C": "鳥の名前","D": "鉱物","correct": "A"},
+{"q": "feverfew が伝統的に使われた症状は？","A": "頭痛・熱","B": "骨折","C": "視力低下","D": "難聴","correct": "A"}
+]
+},
+{
+"english": "fez",
+"pron": "fɛz",
+"kana": "フェズ",
+"hinshi": "名詞",
+"ld_pos": "名詞",
+"ld_etym": "モロッコの都市 Fez（フェズ）",
+"ld_level": "1級",
+"badges": ["大学生〜","服飾・文化","外来語","中東"],
+"meaning_main": "フェズ帽（トルコ・北アフリカの帽子）",
+"description": "fez（フェズ）は、赤い円筒形でつばがなく、房（ふさ）が付いた帽子。かつてトルコや北アフリカで広く用いられた。名はモロッコの都市フェズに由来する。",
+"keywords": ["fez 意味","フェズ帽 帽子","fez トルコ"],
+"meanings": [
+{"hinshi": "【名詞】フェズ帽","note": "赤い円筒形でつばがなく、房の付いた帽子"}
+],
+"usages": [
+{"title": "① 伝統的な帽子","desc": "トルコ・北アフリカ","example_en": "The old man wore a red fez.","example_ja": "その老人は赤いフェズ帽をかぶっていた。"},
+{"title": "② 文化の象徴","desc": "歴史的な装い","example_en": "The fez was once common in the Ottoman Empire.","example_ja": "フェズ帽はかつてオスマン帝国で一般的だった。"}
+],
+"warn": ["複数形は fezzes または fezes。モロッコの都市 Fez（フェズ）が名の由来"],
+"etym_note": "モロッコの都市 Fez（フェズ）に由来。この帽子の染料の産地だったことにちなむとされる。",
+"etym_chain": [
+{"node": "Fez","sub": "モロッコの都市","era": "地名"},
+{"node": "fez","sub": "フェズ帽","era": "現代英語"}
+],
+"phrases": [
+{"en": "a red fez","ja": "赤いフェズ帽"},
+{"en": "wear a fez","ja": "フェズ帽をかぶる"},
+{"en": "the tassel of a fez","ja": "フェズ帽の房"},
+{"en": "a traditional fez","ja": "伝統的なフェズ帽"},
+{"en": "a felt fez","ja": "フェルトのフェズ帽"},
+{"en": "an Ottoman fez","ja": "オスマン帝国のフェズ帽"}
+],
+"related": [
+{"en": "hat","ja": "帽子"},
+{"en": "turban","ja": "ターバン"},
+{"en": "cap","ja": "縁なし帽"},
+{"en": "tassel","ja": "房"}
+],
+"faq": [
+{"q": "fez とは？","a": "赤い円筒形でつばがなく、房の付いた帽子です。トルコや北アフリカで用いられました。"},
+{"q": "名前の由来は？","a": "モロッコの都市フェズ（Fez）に由来します。"}
+],
+"quiz": [
+{"q": "fez とは何？","A": "つばのない円筒形の帽子","B": "靴","C": "コート","D": "手袋","correct": "A"},
+{"q": "fez の名の由来となった都市は？","A": "モロッコのフェズ","B": "パリ","C": "ローマ","D": "東京","correct": "A"}
+]
+}
+]
