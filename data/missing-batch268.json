@@ -1,0 +1,994 @@
+[
+{
+  "english": "oilseed",
+  "pron": "ˈɔɪlsiːd",
+  "kana": "オイルシード",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "oil（油）＋ seed（種）",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "農業"],
+  "meaning_main": "油糧種子（油をとるための種）",
+  "description": "oilseed（オイルシード）は大豆・菜種・ひまわりなど、食用油や工業油をとるために栽培される「油糧種子」を指す名詞です。意味・使い方を解説します。",
+  "keywords": ["oilseed 意味", "油糧種子 英語", "oilseed 使い方", "菜種 英語"],
+  "meanings": [
+    { "hinshi": "【名詞】油糧種子", "note": "油をしぼり取るために栽培される種子。大豆・菜種・ひまわり・ごまなど" }
+  ],
+  "usages": [
+    { "title": "① 農業", "desc": "油をとる作物", "example_en": "Soybeans are an important oilseed crop.", "example_ja": "大豆は重要な油糧作物だ。" },
+    { "title": "② 貿易・産業", "desc": "食用油の原料", "example_en": "The country exports large amounts of oilseed.", "example_ja": "その国は大量の油糧種子を輸出している。" }
+  ],
+  "warn": ["代表的なものに soybean（大豆）、rapeseed / canola（菜種）、sunflower（ひまわり）がある。", "しぼった後の残りかす（oilseed meal）は家畜の飼料になる。"],
+  "etym_note": "oil（油）と seed（種）を合わせた複合語。油をとる種の意。",
+  "etym_chain": [
+    { "node": "oil + seed", "sub": "油＋種", "era": "英語" },
+    { "node": "oilseed", "sub": "油糧種子", "era": "近代" },
+    { "node": "oilseed", "sub": "油糧種子", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "oilseed crop", "ja": "油糧作物" },
+    { "en": "oilseed rape", "ja": "菜種" },
+    { "en": "oilseed meal", "ja": "油かす（飼料）" },
+    { "en": "grow oilseed", "ja": "油糧種子を栽培する" },
+    { "en": "oilseed production", "ja": "油糧種子の生産" },
+    { "en": "oilseed market", "ja": "油糧種子の市場" }
+  ],
+  "related": [
+    { "en": "soybean", "ja": "大豆" },
+    { "en": "rapeseed", "ja": "菜種" },
+    { "en": "seed", "ja": "種" },
+    { "en": "crop", "ja": "作物" }
+  ],
+  "faq": [
+    { "q": "oilseed とは？", "a": "食用油や工業油をとるために栽培される「油糧種子」です。大豆・菜種・ひまわりなどが代表です。" },
+    { "q": "しぼった後は？", "a": "残ったかす（oilseed meal）は栄養が豊富で、家畜の飼料に使われます。" }
+  ],
+  "quiz": [
+    { "q": "oilseed とは？", "A": "油をとる種子", "B": "花の名前", "C": "岩石", "D": "魚", "correct": "A" },
+    { "q": "oilseed の例は？", "A": "大豆・菜種", "B": "米・小麦", "C": "りんご・みかん", "D": "牛・豚", "correct": "A" }
+  ]
+},
+{
+  "english": "okay",
+  "pron": "ˌoʊˈkeɪ",
+  "kana": "オーケー",
+  "hinshi": "間投詞 / 形容詞 / 副詞",
+  "ld_pos": "間投詞",
+  "ld_etym": "OK（19世紀アメリカの略記）から",
+  "ld_level": "5級",
+  "badges": ["小学生〜", "英検5級", "CEFR A1", "基本語"],
+  "meaning_main": "オーケー / よろしい / 大丈夫な",
+  "description": "okay（オーケー）は「よろしい・大丈夫・まあまあ」などを表す語で、同意・許可・確認に広く使われます。OK とも綴ります。意味・使い方を解説します。",
+  "keywords": ["okay 意味", "OK 英語", "okay 使い方", "大丈夫 英語"],
+  "meanings": [
+    { "hinshi": "【間投詞】オーケー・よろしい", "note": "同意・了解・確認を表す" },
+    { "hinshi": "【形容詞】大丈夫な・問題ない", "note": "満足ではないが許容できる状態" },
+    { "hinshi": "【副詞・動詞】まあまあ・承認する", "note": "うまく、または「承認する」動詞にもなる" }
+  ],
+  "usages": [
+    { "title": "① 了解・同意", "desc": "返事として", "example_en": "\"Let's go.\" \"Okay!\"", "example_ja": "「行こう」「オーケー！」" },
+    { "title": "② 大丈夫", "desc": "状態を表す", "example_en": "Are you okay?", "example_ja": "大丈夫？" }
+  ],
+  "warn": ["OK, O.K., okay など複数の綴りがある。動詞として「承認する（okayed）」にも使う。", "「素晴らしい」ほどではなく「まあまあ・悪くない」という程度も表す。"],
+  "etym_note": "19世紀アメリカで all correct をふざけて綴った oll korrect の略 OK が起源とされる。okay はその発音を綴った形。",
+  "etym_chain": [
+    { "node": "oll korrect", "sub": "all correct のもじり", "era": "19世紀（米）" },
+    { "node": "OK", "sub": "略記", "era": "1839年〜" },
+    { "node": "okay", "sub": "オーケー", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "Are you okay?", "ja": "大丈夫？" },
+    { "en": "That's okay", "ja": "それで大丈夫・気にしないで" },
+    { "en": "okay with me", "ja": "私はかまわない" },
+    { "en": "sounds okay", "ja": "よさそうだ" },
+    { "en": "okay the plan", "ja": "計画を承認する" },
+    { "en": "feel okay", "ja": "気分は悪くない" }
+  ],
+  "related": [
+    { "en": "alright", "ja": "大丈夫・よろしい" },
+    { "en": "fine", "ja": "元気な・結構な" },
+    { "en": "agree", "ja": "同意する" },
+    { "en": "acceptable", "ja": "受け入れられる" }
+  ],
+  "faq": [
+    { "q": "okay と OK は同じ？", "a": "はい。綴りが違うだけで意味は同じです。OK, O.K., okay いずれも使われます。" },
+    { "q": "「大丈夫」以外の意味は？", "a": "「まあまあ・悪くない」という程度や、動詞で「承認する」の意味もあります。" }
+  ],
+  "quiz": [
+    { "q": "okay の意味は？", "A": "よろしい・大丈夫", "B": "危険な", "C": "禁止", "D": "終わり", "correct": "A" },
+    { "q": "okay の別の綴りは？", "A": "OK", "B": "oky", "C": "okai", "D": "okey のみ", "correct": "A" }
+  ]
+},
+{
+  "english": "oke",
+  "pron": "ˈoʊkeɪ",
+  "kana": "オーケー",
+  "hinshi": "間投詞(口語)",
+  "ld_pos": "間投詞",
+  "ld_etym": "okay / OK のくだけた短縮つづり",
+  "ld_level": "対象外",
+  "badges": ["参考", "口語・くだけた表記", "つづり確認", "OK の変形"],
+  "meaning_main": "オーケー（okay のくだけた短縮つづり）",
+  "description": "oke は okay / OK をさらにくだけて綴ったもので、標準的な英単語ではありません。意味は「オーケー・了解」です。正しくは okay または OK と書きます。意味を整理します。",
+  "keywords": ["oke 意味", "oke okay 違い", "oke とは", "OK 短縮"],
+  "meanings": [
+    { "hinshi": "【参考】okay のくだけた表記", "note": "okay / OK を軽く綴った口語的なつづり。正式には okay または OK と書く" }
+  ],
+  "usages": [
+    { "title": "① くだけた返事", "desc": "okay の意味", "example_en": "Oke, see you later! (informal for OK)", "example_ja": "オーケー、またあとで！（OKのくだけた表記）" },
+    { "title": "② 正しくは OK", "desc": "標準的な綴り", "example_en": "Okay, I understand.", "example_ja": "オーケー、わかった。（正しくは okay / OK）" }
+  ],
+  "warn": ["oke は標準的な英単語ではなく、チャットなどの非常にくだけた表記。フォーマルな場では okay / OK を使う。", "（別に「オケ」は昔の重さの単位を指すこともあるが、現代ではまず使われない。）"],
+  "etym_note": "okay / OK のくだけた口語的な短縮つづり。オランダ語などでも OK の意味で oké が使われる。",
+  "etym_chain": [
+    { "node": "OK", "sub": "オーケー", "era": "19世紀（米）" },
+    { "node": "okay", "sub": "オーケー", "era": "現代" },
+    { "node": "oke", "sub": "くだけた表記", "era": "現代口語" }
+  ],
+  "phrases": [
+    { "en": "Oke!", "ja": "オーケー！（くだけた表記）" },
+    { "en": "that's oke", "ja": "それでオーケー（くだけた）" },
+    { "en": "oke then", "ja": "じゃあオーケー" },
+    { "en": "sounds oke", "ja": "よさそう（くだけた）" },
+    { "en": "oke, got it", "ja": "オーケー、わかった" },
+    { "en": "everything is oke", "ja": "全部大丈夫（くだけた）" }
+  ],
+  "related": [
+    { "en": "okay", "ja": "オーケー（標準）" },
+    { "en": "alright", "ja": "大丈夫・よろしい" },
+    { "en": "fine", "ja": "結構な" },
+    { "en": "yes", "ja": "はい" }
+  ],
+  "faq": [
+    { "q": "oke は正しい英単語？", "a": "標準的な英単語ではありません。okay / OK をくだけて綴った口語的な表記です。正式には okay または OK と書きます。" },
+    { "q": "意味は？", "a": "「オーケー・了解・大丈夫」で、okay と同じです。" }
+  ],
+  "quiz": [
+    { "q": "oke は何のくだけた表記？", "A": "okay / OK", "B": "over", "C": "one", "D": "open", "correct": "A" },
+    { "q": "フォーマルな場での正しい綴りは？", "A": "okay / OK", "B": "oke", "C": "okk", "D": "okey のみ", "correct": "A" }
+  ]
+},
+{
+  "english": "oliver",
+  "pron": "ˈɒlɪvər",
+  "kana": "オリバー",
+  "hinshi": "名詞(固有名詞)",
+  "ld_pos": "固有名詞",
+  "ld_etym": "olive（オリーブ）またはノルド語系の名に由来",
+  "ld_level": "準1級",
+  "badges": ["中学生〜", "英検準1級", "CEFR B1", "人名"],
+  "meaning_main": "オリバー（英語圏の男性の名前・姓）",
+  "description": "Oliver（オリバー）は英語圏で人気の高い男性の名前・姓です。小説『オリバー・ツイスト』でも知られます。意味・由来を解説します。",
+  "keywords": ["oliver 意味", "オリバー 名前", "oliver 由来", "英語 男性名"],
+  "meanings": [
+    { "hinshi": "【固有名詞】オリバー", "note": "英語圏で人気の男性名・姓。愛称は Ollie など" }
+  ],
+  "usages": [
+    { "title": "① 名前として", "desc": "人を指す", "example_en": "Oliver is my youngest brother.", "example_ja": "オリバーは私の一番下の弟だ。" },
+    { "title": "② 文学作品", "desc": "有名な例", "example_en": "\"Oliver Twist\" is a novel by Charles Dickens.", "example_ja": "『オリバー・ツイスト』はディケンズの小説だ。" }
+  ],
+  "warn": ["見出し語はファイル名の都合で小文字だが、名前として書くときは Oliver と大文字で始める。", "愛称は Ollie。近年、英語圏で最も人気の男の子の名前の一つ。"],
+  "etym_note": "オリーブの木（olive、平和の象徴）に結び付けられるほか、古ノルド語の名 Áleifr（Olaf）に由来するとも言われる。",
+  "etym_chain": [
+    { "node": "olive / Áleifr", "sub": "オリーブ／古ノルド語の名", "era": "中世" },
+    { "node": "Oliver", "sub": "オリバー", "era": "中世ヨーロッパ" },
+    { "node": "Oliver", "sub": "オリバー", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "Hi, Oliver!", "ja": "やあ、オリバー！" },
+    { "en": "Oliver's dog", "ja": "オリバーの犬" },
+    { "en": "call him Ollie", "ja": "彼をオリーと呼ぶ" },
+    { "en": "Oliver Twist", "ja": "オリバー・ツイスト" },
+    { "en": "young Oliver", "ja": "幼いオリバー" },
+    { "en": "meet Oliver", "ja": "オリバーに会う" }
+  ],
+  "related": [
+    { "en": "ollie", "ja": "オリー（愛称）" },
+    { "en": "olive", "ja": "オリーブ" },
+    { "en": "name", "ja": "名前" },
+    { "en": "surname", "ja": "姓" }
+  ],
+  "faq": [
+    { "q": "Oliver とは？", "a": "英語圏で人気の高い男性の名前・姓です。愛称は Ollie。小説『オリバー・ツイスト』でも知られます。" },
+    { "q": "由来は？", "a": "オリーブの木に結び付けられるほか、古ノルド語の名 Olaf に由来するとも言われます。" }
+  ],
+  "quiz": [
+    { "q": "Oliver はどんな語？", "A": "男性の名前・姓", "B": "動物の名前", "C": "色の名前", "D": "地名のみ", "correct": "A" },
+    { "q": "Oliver の愛称は？", "A": "Ollie", "B": "Bob", "C": "Tom", "D": "Sam", "correct": "A" }
+  ]
+},
+{
+  "english": "omani",
+  "pron": "oʊˈmɑːni",
+  "kana": "オマーニ",
+  "hinshi": "形容詞 / 名詞(固有名詞)",
+  "ld_pos": "形容詞",
+  "ld_etym": "地名 Oman（オマーン）＋ -i",
+  "ld_level": "準1級",
+  "badges": ["中学生〜", "英検準1級", "CEFR B2", "地名"],
+  "meaning_main": "オマーンの / オマーン人",
+  "description": "Omani（オマーニ）はアラビア半島の国オマーンに関する形容詞、またオマーン人を指す名詞です。意味・使い方・例文を解説します。",
+  "keywords": ["omani 意味", "オマーン 英語", "omani 使い方", "オマーン人 英語"],
+  "meanings": [
+    { "hinshi": "【形容詞】オマーンの", "note": "アラビア半島の国オマーンやその文化に関する" },
+    { "hinshi": "【名詞】オマーン人", "note": "オマーンの国籍・出身の人" }
+  ],
+  "usages": [
+    { "title": "① 国・文化", "desc": "オマーンの", "example_en": "Omani coffee is often served with dates.", "example_ja": "オマーンのコーヒーはよくデーツと一緒に出される。" },
+    { "title": "② 人を指す", "desc": "国籍", "example_en": "Many Omanis speak Arabic.", "example_ja": "多くのオマーン人はアラビア語を話す。" }
+  ],
+  "warn": ["国は Oman（オマーン）。首都はマスカット。アラビア半島の南東端に位置する。", "見出し語はファイル名の都合で小文字だが、固有名詞なので Omani と大文字で書く。"],
+  "etym_note": "国名 Oman（オマーン）に、アラビア語圏の国民・形容詞を表す -i を付けた語。",
+  "etym_chain": [
+    { "node": "Oman", "sub": "オマーン", "era": "アラビア語" },
+    { "node": "Omani", "sub": "オマーンの", "era": "近代" },
+    { "node": "Omani", "sub": "オマーンの・人", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "Omani coffee", "ja": "オマーンのコーヒー" },
+    { "en": "Omani culture", "ja": "オマーン文化" },
+    { "en": "Omani people", "ja": "オマーン人" },
+    { "en": "the Omani coast", "ja": "オマーンの海岸" },
+    { "en": "Omani rial", "ja": "オマーン・リアル（通貨）" },
+    { "en": "Omani desert", "ja": "オマーンの砂漠" }
+  ],
+  "related": [
+    { "en": "oman", "ja": "オマーン" },
+    { "en": "muscat", "ja": "マスカット（首都）" },
+    { "en": "arabic", "ja": "アラビア語" },
+    { "en": "gulf", "ja": "湾岸" }
+  ],
+  "faq": [
+    { "q": "Omani とは？", "a": "アラビア半島の国オマーンに関する形容詞、またオマーン人を指す名詞です。" },
+    { "q": "オマーンはどんな国？", "a": "アラビア半島の南東端の国で、首都はマスカット。アラビア語が話されます。" }
+  ],
+  "quiz": [
+    { "q": "Omani の意味は？", "A": "オマーンの", "B": "オランダの", "C": "オーストリアの", "D": "ノルウェーの", "correct": "A" },
+    { "q": "オマーンの首都は？", "A": "マスカット", "B": "ドバイ", "C": "リヤド", "D": "ドーハ", "correct": "A" }
+  ]
+},
+{
+  "english": "omnivorous",
+  "pron": "ɒmˈnɪvərəs",
+  "kana": "オムニヴォラス",
+  "hinshi": "形容詞",
+  "ld_pos": "形容詞",
+  "ld_etym": "ラテン語 omnis（すべて）＋ vorare（食べる）",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "生物"],
+  "meaning_main": "雑食性の / (比喩)何でも取り入れる",
+  "description": "omnivorous（オムニヴォラス）は植物も動物も食べる「雑食性の」という意味の形容詞です。比喩で「何でも貪欲に取り入れる」の意でも使います。意味を解説します。",
+  "keywords": ["omnivorous 意味", "雑食 英語", "omnivore", "omnivorous 使い方"],
+  "meanings": [
+    { "hinshi": "【形容詞】雑食性の", "note": "植物も動物も食べる" },
+    { "hinshi": "【形容詞】(比喩)何でも取り入れる", "note": "本など、あらゆるものを貪欲に吸収する" }
+  ],
+  "usages": [
+    { "title": "① 動物の食性", "desc": "何でも食べる", "example_en": "Bears are omnivorous animals.", "example_ja": "クマは雑食性の動物だ。" },
+    { "title": "② 比喩", "desc": "貪欲な関心", "example_en": "She is an omnivorous reader.", "example_ja": "彼女は何でも読む貪欲な読書家だ。" }
+  ],
+  "warn": ["名詞は omnivore（雑食動物）。肉食は carnivorous、草食は herbivorous。", "omni-（すべて）＋ -vorous（食べる）という作り。"],
+  "etym_note": "ラテン語 omnis（すべて）と vorare（むさぼり食う）から。「何でも食べる」の意。",
+  "etym_chain": [
+    { "node": "omnis + vorare", "sub": "すべて＋食べる", "era": "ラテン語" },
+    { "node": "omnivorous", "sub": "雑食性の", "era": "17世紀" },
+    { "node": "omnivorous", "sub": "雑食性の", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "omnivorous animal", "ja": "雑食動物" },
+    { "en": "omnivorous diet", "ja": "雑食の食事" },
+    { "en": "an omnivorous reader", "ja": "何でも読む読書家" },
+    { "en": "omnivorous appetite", "ja": "何でも欲する食欲" },
+    { "en": "omnivorous species", "ja": "雑食性の種" },
+    { "en": "omnivorous curiosity", "ja": "貪欲な好奇心" }
+  ],
+  "related": [
+    { "en": "omnivore", "ja": "雑食動物" },
+    { "en": "carnivorous", "ja": "肉食性の" },
+    { "en": "herbivorous", "ja": "草食性の" },
+    { "en": "diet", "ja": "食事・食性" }
+  ],
+  "faq": [
+    { "q": "omnivorous の意味は？", "a": "植物も動物も食べる「雑食性の」という意味です。比喩で「何でも貪欲に取り入れる」意味でも使います。" },
+    { "q": "肉食・草食は？", "a": "肉食は carnivorous、草食は herbivorous です。" }
+  ],
+  "quiz": [
+    { "q": "omnivorous の意味は？", "A": "肉食性の", "B": "雑食性の", "C": "草食性の", "D": "何も食べない", "correct": "B" },
+    { "q": "omnivorous の名詞形（雑食動物）は？", "A": "omnivore", "B": "omniscient", "C": "omen", "D": "omission", "correct": "A" }
+  ]
+},
+{
+  "english": "oneanother",
+  "pron": "ˌwʌn əˈnʌðər",
+  "kana": "ワン・アナザー",
+  "hinshi": "代名詞(2語)",
+  "ld_pos": "代名詞",
+  "ld_etym": "one（一方）＋ another（もう一方）",
+  "ld_level": "3級",
+  "badges": ["中学生〜", "英検3級", "CEFR B1", "つづり注意"],
+  "meaning_main": "お互い（正しくは one another と2語）",
+  "description": "one another（ワン・アナザー）は「お互い（を・に）」を表す代名詞です。正しくは2語で書きます。each other とほぼ同じ意味です。つづりと使い方を解説します。",
+  "keywords": ["one another 意味", "お互い 英語", "oneanother つづり", "each other 違い"],
+  "meanings": [
+    { "hinshi": "【代名詞】お互い(を・に)", "note": "複数の人・ものが互いに〜し合うことを表す。正しくは2語 one another" }
+  ],
+  "usages": [
+    { "title": "① 互いに", "desc": "相互の関係", "example_en": "They helped one another.", "example_ja": "彼らは互いに助け合った。" },
+    { "title": "② each other と同義", "desc": "相互代名詞", "example_en": "We should respect one another.", "example_ja": "私たちは互いを尊重すべきだ。" }
+  ],
+  "warn": ["正しくは one another と2語で書く（oneanother は誤り）。", "each other とほぼ同じ意味。厳密には each other は2者間、one another は3者以上とされるが、実際は交換可能なことが多い。"],
+  "etym_note": "one（一方）と another（もう一方）を組み合わせた相互代名詞。",
+  "etym_chain": [
+    { "node": "one + another", "sub": "一方＋もう一方", "era": "英語" },
+    { "node": "one another", "sub": "お互い", "era": "中英語" },
+    { "node": "one another", "sub": "お互い（2語）", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "help one another", "ja": "互いに助け合う" },
+    { "en": "love one another", "ja": "互いに愛し合う" },
+    { "en": "respect one another", "ja": "互いを尊重する" },
+    { "en": "next to one another", "ja": "互いに隣り合って" },
+    { "en": "talk to one another", "ja": "互いに話す" },
+    { "en": "support one another", "ja": "互いに支え合う" }
+  ],
+  "related": [
+    { "en": "each other", "ja": "お互い" },
+    { "en": "mutually", "ja": "互いに" },
+    { "en": "together", "ja": "一緒に" },
+    { "en": "reciprocal", "ja": "相互の" }
+  ],
+  "faq": [
+    { "q": "oneanother と one another、正しいのは？", "a": "正しくは2語の one another です。oneanother というつづりは誤りです。" },
+    { "q": "each other との違いは？", "a": "ほぼ同じです。厳密には each other は2者、one another は3者以上とされますが、実際は交換可能なことが多いです。" }
+  ],
+  "quiz": [
+    { "q": "one another の正しいつづりは？", "A": "oneanother（1語）", "B": "one another（2語）", "C": "on another", "D": "one-another のみ", "correct": "B" },
+    { "q": "one another の意味は？", "A": "お互い", "B": "一人だけ", "C": "他人", "D": "自分自身", "correct": "A" }
+  ]
+},
+{
+  "english": "onetime",
+  "pron": "ˈwʌntaɪm",
+  "kana": "ワンタイム",
+  "hinshi": "形容詞",
+  "ld_pos": "形容詞",
+  "ld_etym": "one（一つの）＋ time（時）",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "時"],
+  "meaning_main": "かつての / 元〜 / 一度きりの",
+  "description": "onetime（ワンタイム）は「かつての・元〜」、また「一度きりの」という意味の形容詞です。文脈で意味が変わります。意味・使い方を解説します。",
+  "keywords": ["onetime 意味", "かつての 英語", "onetime 使い方", "元 英語"],
+  "meanings": [
+    { "hinshi": "【形容詞】かつての・元〜", "note": "以前そうであった（onetime champion＝元チャンピオン）" },
+    { "hinshi": "【形容詞】一度きりの", "note": "一回限りの（one-time payment＝一括払い）" }
+  ],
+  "usages": [
+    { "title": "① 元〜", "desc": "かつての", "example_en": "He is a onetime rival of the champion.", "example_ja": "彼はそのチャンピオンのかつてのライバルだ。" },
+    { "title": "② 一度きりの", "desc": "一回限り", "example_en": "It was a one-time offer.", "example_ja": "それは一度きりの提供だった。" }
+  ],
+  "warn": ["「かつての」意味では名詞の前だけで使う（限定用法）。", "「一度きりの」意味ではハイフン付き one-time と綴られることが多い。"],
+  "etym_note": "one（一つの）と time（時）を合わせた語。「一度の時」から「かつての」「一度きりの」の意へ。",
+  "etym_chain": [
+    { "node": "one + time", "sub": "一つ＋時", "era": "英語" },
+    { "node": "onetime", "sub": "かつての", "era": "近代" },
+    { "node": "onetime", "sub": "かつての・一度きりの", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "a onetime champion", "ja": "元チャンピオン" },
+    { "en": "onetime friend", "ja": "かつての友人" },
+    { "en": "a one-time payment", "ja": "一括払い" },
+    { "en": "a one-time fee", "ja": "一度きりの料金" },
+    { "en": "onetime rival", "ja": "かつてのライバル" },
+    { "en": "a one-time event", "ja": "一度きりの出来事" }
+  ],
+  "related": [
+    { "en": "former", "ja": "元の・かつての" },
+    { "en": "previous", "ja": "以前の" },
+    { "en": "single", "ja": "一度の・単一の" },
+    { "en": "erstwhile", "ja": "かつての" }
+  ],
+  "faq": [
+    { "q": "onetime の意味は？", "a": "「かつての・元〜」、また「一度きりの」という意味の形容詞です。文脈で意味が変わります。" },
+    { "q": "つづりの注意点は？", "a": "「一度きりの」意味ではハイフン付き one-time と書かれることが多いです。" }
+  ],
+  "quiz": [
+    { "q": "a onetime champion の意味は？", "A": "元チャンピオン", "B": "現チャンピオン", "C": "未来のチャンピオン", "D": "永遠のチャンピオン", "correct": "A" },
+    { "q": "a one-time payment の意味は？", "A": "毎月の支払い", "B": "一括払い（一度きり）", "C": "無料", "D": "分割払い", "correct": "B" }
+  ]
+},
+{
+  "english": "onshore",
+  "pron": "ˌɒnˈʃɔːr",
+  "kana": "オンショア",
+  "hinshi": "形容詞 / 副詞",
+  "ld_pos": "形容詞",
+  "ld_etym": "on（〜の上に）＋ shore（岸）",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "地理・ビジネス"],
+  "meaning_main": "陸上の / 岸に向かう / 国内の",
+  "description": "onshore（オンショア）は陸上にある・岸に向かう、また金融で「国内の」という意味の形容詞・副詞です。offshore（沖の・海外の）の反対です。意味を解説します。",
+  "keywords": ["onshore 意味", "陸上 英語", "onshore 使い方", "offshore 反対"],
+  "meanings": [
+    { "hinshi": "【形容詞・副詞】陸上の・岸に向かう", "note": "海ではなく陸にある、または海から陸に向かう（onshore wind）" },
+    { "hinshi": "【形容詞】(金融)国内の", "note": "自国内で行われる（offshore の反対）" }
+  ],
+  "usages": [
+    { "title": "① 風・地理", "desc": "岸に向かう", "example_en": "An onshore wind blew from the sea.", "example_ja": "海から陸に向かう風が吹いた。" },
+    { "title": "② ビジネス", "desc": "国内で", "example_en": "The company moved its work onshore.", "example_ja": "その会社は業務を国内に戻した。" }
+  ],
+  "warn": ["反対は offshore（沖の・海外の・国外の）。", "風の場合、onshore wind は海から陸へ、offshore wind は陸から海へ吹く風。"],
+  "etym_note": "on（〜の上に・接して）と shore（岸）を合わせた語。「岸の側の」の意。",
+  "etym_chain": [
+    { "node": "on + shore", "sub": "接して＋岸", "era": "英語" },
+    { "node": "onshore", "sub": "陸上の", "era": "18世紀" },
+    { "node": "onshore", "sub": "陸上の・国内の", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "onshore wind", "ja": "海から陸への風" },
+    { "en": "onshore oil field", "ja": "陸上油田" },
+    { "en": "onshore wind farm", "ja": "陸上風力発電所" },
+    { "en": "move onshore", "ja": "国内に移す" },
+    { "en": "onshore drilling", "ja": "陸上掘削" },
+    { "en": "onshore banking", "ja": "国内での銀行取引" }
+  ],
+  "related": [
+    { "en": "offshore", "ja": "沖の・海外の" },
+    { "en": "shore", "ja": "岸" },
+    { "en": "coast", "ja": "海岸" },
+    { "en": "inland", "ja": "内陸の" }
+  ],
+  "faq": [
+    { "q": "onshore の意味は？", "a": "陸上にある・岸に向かう、また金融で「国内の」という意味です。offshore（沖の・海外の）の反対です。" },
+    { "q": "onshore wind とは？", "a": "海から陸に向かって吹く風のことです。逆に陸から海へ吹くのは offshore wind です。" }
+  ],
+  "quiz": [
+    { "q": "onshore の意味は？", "A": "陸上の・岸に向かう", "B": "空中の", "C": "地下の", "D": "宇宙の", "correct": "A" },
+    { "q": "onshore の反対は？", "A": "offshore", "B": "online", "C": "onstage", "D": "onset", "correct": "A" }
+  ]
+},
+{
+  "english": "onstage",
+  "pron": "ˌɒnˈsteɪdʒ",
+  "kana": "オンステージ",
+  "hinshi": "形容詞 / 副詞",
+  "ld_pos": "副詞",
+  "ld_etym": "on（〜の上に）＋ stage（舞台）",
+  "ld_level": "準1級",
+  "badges": ["中学生〜", "英検準1級", "CEFR B2", "演劇"],
+  "meaning_main": "舞台上で / 舞台の上の",
+  "description": "onstage（オンステージ）は舞台の上で、観客の前で、という意味の副詞・形容詞です。offstage（舞台裏で）の反対です。意味・使い方を解説します。",
+  "keywords": ["onstage 意味", "舞台上 英語", "onstage 使い方", "offstage 反対"],
+  "meanings": [
+    { "hinshi": "【副詞・形容詞】舞台上で・舞台の上の", "note": "舞台の上で、観客から見える場所で行われる" }
+  ],
+  "usages": [
+    { "title": "① 公演中", "desc": "舞台の上で", "example_en": "The band came onstage to loud cheers.", "example_ja": "バンドは大歓声の中、舞台に登場した。" },
+    { "title": "② 形容詞的に", "desc": "舞台上の", "example_en": "Her onstage energy was amazing.", "example_ja": "彼女の舞台上のエネルギーはすばらしかった。" }
+  ],
+  "warn": ["反対は offstage（舞台裏で・舞台の外で）。", "on stage と2語で書くこともある。"],
+  "etym_note": "on（〜の上に）と stage（舞台）を合わせた語。「舞台の上で」の意。",
+  "etym_chain": [
+    { "node": "on + stage", "sub": "上に＋舞台", "era": "英語" },
+    { "node": "onstage", "sub": "舞台上で", "era": "20世紀" },
+    { "node": "onstage", "sub": "舞台上で", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "come onstage", "ja": "舞台に登場する" },
+    { "en": "go onstage", "ja": "舞台に出る" },
+    { "en": "onstage performance", "ja": "舞台上の演技" },
+    { "en": "onstage presence", "ja": "舞台での存在感" },
+    { "en": "walk onstage", "ja": "舞台に歩み出る" },
+    { "en": "onstage and offstage", "ja": "舞台上と舞台裏" }
+  ],
+  "related": [
+    { "en": "offstage", "ja": "舞台裏で" },
+    { "en": "stage", "ja": "舞台" },
+    { "en": "performance", "ja": "公演" },
+    { "en": "audience", "ja": "観客" }
+  ],
+  "faq": [
+    { "q": "onstage の意味は？", "a": "舞台の上で、観客の前で、という意味です。offstage（舞台裏で）の反対です。" },
+    { "q": "反対の語は？", "a": "offstage（舞台裏で・舞台の外で）です。" }
+  ],
+  "quiz": [
+    { "q": "onstage の意味は？", "A": "舞台上で", "B": "客席で", "C": "楽屋で", "D": "屋外で", "correct": "A" },
+    { "q": "onstage の反対は？", "A": "offstage", "B": "onshore", "C": "online", "D": "onset", "correct": "A" }
+  ]
+},
+{
+  "english": "onus",
+  "pron": "ˈoʊnəs",
+  "kana": "オーナス",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "ラテン語 onus（重荷）から",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "責任"],
+  "meaning_main": "責任 / 義務 / 重荷",
+  "description": "onus（オーナス）は果たすべき責任や義務「（〜する）責め・重荷」を指す、ややかたい名詞です。the onus is on〜 の形でよく使います。意味を解説します。",
+  "keywords": ["onus 意味", "責任 英語", "onus 使い方", "義務 英語"],
+  "meanings": [
+    { "hinshi": "【名詞】責任・義務・重荷", "note": "果たさなければならない責任や負担。しばしば the onus is on someone（〜に責任がある）の形" }
+  ],
+  "usages": [
+    { "title": "① 責任の所在", "desc": "〜に責任がある", "example_en": "The onus is on the company to prove it is safe.", "example_ja": "安全だと証明する責任は会社にある。" },
+    { "title": "② 立証責任", "desc": "法律の話題", "example_en": "The onus of proof lies with the prosecution.", "example_ja": "立証責任は検察側にある。" }
+  ],
+  "warn": ["the onus is on someone（to do）で「〜する責任は…にある」という定番表現。", "onus of proof（立証責任）は法律用語。ラテン語で「重荷」の意。"],
+  "etym_note": "ラテン語 onus（重荷・負担）がそのまま英語に取り入れられた語。",
+  "etym_chain": [
+    { "node": "onus", "sub": "重荷", "era": "ラテン語" },
+    { "node": "onus", "sub": "責任・負担", "era": "17世紀" },
+    { "node": "onus", "sub": "責任", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "the onus is on", "ja": "〜に責任がある" },
+    { "en": "onus of proof", "ja": "立証責任" },
+    { "en": "put the onus on", "ja": "〜に責任を負わせる" },
+    { "en": "shift the onus", "ja": "責任を移す" },
+    { "en": "the onus falls on", "ja": "責任が〜にかかる" },
+    { "en": "bear the onus", "ja": "責任を負う" }
+  ],
+  "related": [
+    { "en": "responsibility", "ja": "責任" },
+    { "en": "burden", "ja": "重荷・負担" },
+    { "en": "obligation", "ja": "義務" },
+    { "en": "duty", "ja": "務め" }
+  ],
+  "faq": [
+    { "q": "onus の意味は？", "a": "果たすべき責任や義務「（〜する）責め・重荷」を指すややかたい名詞です。" },
+    { "q": "the onus is on〜 とは？", "a": "「〜する責任は…にある」という意味の定番表現です。" }
+  ],
+  "quiz": [
+    { "q": "onus の意味は？", "A": "責任・義務", "B": "自由", "C": "喜び", "D": "権利", "correct": "A" },
+    { "q": "The onus is on him. の意味は？", "A": "責任は彼にある", "B": "彼は自由だ", "C": "彼は勝った", "D": "彼は無関係だ", "correct": "A" }
+  ]
+},
+{
+  "english": "onwards",
+  "pron": "ˈɒnwərdz",
+  "kana": "オンワーズ",
+  "hinshi": "副詞",
+  "ld_pos": "副詞",
+  "ld_etym": "on（前へ）＋ -wards（〜の方へ）",
+  "ld_level": "準1級",
+  "badges": ["中学生〜", "英検準1級", "CEFR B1", "方向・時"],
+  "meaning_main": "前へ / 先へ / (時間)〜以降ずっと",
+  "description": "onwards（オンワーズ）は前方へ進む「前へ・先へ」、また時間の「〜以降ずっと」を表す副詞です。onward とも言います。意味・使い方を解説します。",
+  "keywords": ["onwards 意味", "前へ 英語", "onwards 使い方", "〜以降 英語"],
+  "meanings": [
+    { "hinshi": "【副詞】前へ・先へ", "note": "前方へ、さらに先へ進む" },
+    { "hinshi": "【副詞】(時間)〜以降ずっと", "note": "from ... onwards で「…からずっと」" }
+  ],
+  "usages": [
+    { "title": "① 前進", "desc": "先へ進む", "example_en": "The soldiers marched onwards.", "example_ja": "兵士たちは前へと進軍した。" },
+    { "title": "② 時間", "desc": "〜以降", "example_en": "The shop is open from noon onwards.", "example_ja": "その店は正午以降ずっと開いている。" }
+  ],
+  "warn": ["onward（主に米）と onwards（主に英）はほぼ同義。", "from now onwards（今後ずっと）、from 2020 onwards（2020年以降）のように使う。"],
+  "etym_note": "on（前へ）に、方向を表す -wards（〜の方へ）を付けた語。",
+  "etym_chain": [
+    { "node": "on + -weard", "sub": "前へ＋方向", "era": "古英語" },
+    { "node": "onward", "sub": "前へ", "era": "中英語" },
+    { "node": "onwards", "sub": "前へ・以降", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "from now onwards", "ja": "今後ずっと" },
+    { "en": "move onwards", "ja": "前へ進む" },
+    { "en": "onwards and upwards", "ja": "ますます前進・向上して" },
+    { "en": "from then onwards", "ja": "それ以降ずっと" },
+    { "en": "march onwards", "ja": "前進する" },
+    { "en": "from childhood onwards", "ja": "子供時代からずっと" }
+  ],
+  "related": [
+    { "en": "onward", "ja": "前へ（米）" },
+    { "en": "forward", "ja": "前方へ" },
+    { "en": "ahead", "ja": "前に" },
+    { "en": "henceforth", "ja": "今後" }
+  ],
+  "faq": [
+    { "q": "onwards の意味は？", "a": "前方へ進む「前へ・先へ」、また時間の「〜以降ずっと」を表す副詞です。" },
+    { "q": "onward との違いは？", "a": "ほぼ同義です。onward は主にアメリカ、onwards は主にイギリスで使われます。" }
+  ],
+  "quiz": [
+    { "q": "onwards の意味は？", "A": "後ろへ", "B": "前へ・〜以降", "C": "横へ", "D": "上へだけ", "correct": "B" },
+    { "q": "from noon onwards の意味は？", "A": "正午まで", "B": "正午以降ずっと", "C": "正午前", "D": "正午ちょうど", "correct": "B" }
+  ]
+},
+{
+  "english": "opacity",
+  "pron": "oʊˈpæsəti",
+  "kana": "オパシティ",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "ラテン語 opacus（不透明な）から",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "科学・IT"],
+  "meaning_main": "不透明さ / (比喩)わかりにくさ",
+  "description": "opacity（オパシティ）は光を通さない度合い「不透明さ」を指す名詞です。比喩で「わかりにくさ・不明瞭さ」の意でも使い、画像編集でもおなじみです。意味を解説します。",
+  "keywords": ["opacity 意味", "不透明 英語", "opacity 使い方", "透明度 英語"],
+  "meanings": [
+    { "hinshi": "【名詞】不透明さ", "note": "光を通さない度合い。透明度の逆" },
+    { "hinshi": "【名詞】(比喩)わかりにくさ・不明瞭さ", "note": "意味や仕組みがはっきりしないこと" }
+  ],
+  "usages": [
+    { "title": "① 光・画像", "desc": "透け具合", "example_en": "Increase the opacity to make the layer solid.", "example_ja": "不透明度を上げてレイヤーを濃くして。" },
+    { "title": "② 比喩", "desc": "不明瞭さ", "example_en": "The opacity of the rules confused everyone.", "example_ja": "規則のわかりにくさが皆を混乱させた。" }
+  ],
+  "warn": ["形容詞は opaque（不透明な・わかりにくい）。反対は transparency（透明さ・明瞭さ）。", "画像編集ソフトでは「不透明度」の設定を opacity という。"],
+  "etym_note": "ラテン語 opacus（陰の・不透明な）→ opacity。光を通さないことを表す。",
+  "etym_chain": [
+    { "node": "opacus", "sub": "不透明な", "era": "ラテン語" },
+    { "node": "opaque", "sub": "不透明な", "era": "15世紀" },
+    { "node": "opacity", "sub": "不透明さ", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "increase the opacity", "ja": "不透明度を上げる" },
+    { "en": "reduce opacity", "ja": "不透明度を下げる" },
+    { "en": "full opacity", "ja": "完全な不透明" },
+    { "en": "the opacity of the glass", "ja": "ガラスの不透明さ" },
+    { "en": "opacity of the rules", "ja": "規則のわかりにくさ" },
+    { "en": "layer opacity", "ja": "レイヤーの不透明度" }
+  ],
+  "related": [
+    { "en": "opaque", "ja": "不透明な" },
+    { "en": "transparency", "ja": "透明さ・明瞭さ" },
+    { "en": "translucent", "ja": "半透明の" },
+    { "en": "clarity", "ja": "明瞭さ" }
+  ],
+  "faq": [
+    { "q": "opacity の意味は？", "a": "光を通さない度合い「不透明さ」です。比喩で「わかりにくさ・不明瞭さ」の意味でも使います。" },
+    { "q": "反対の語は？", "a": "transparency（透明さ・明瞭さ）です。形容詞は opaque（不透明な）です。" }
+  ],
+  "quiz": [
+    { "q": "opacity の意味は？", "A": "不透明さ", "B": "透明さ", "C": "明るさ", "D": "速さ", "correct": "A" },
+    { "q": "opacity の形容詞形は？", "A": "opaque", "B": "open", "C": "optic", "D": "operate", "correct": "A" }
+  ]
+},
+{
+  "english": "openly",
+  "pron": "ˈoʊpənli",
+  "kana": "オープンリー",
+  "hinshi": "副詞",
+  "ld_pos": "副詞",
+  "ld_etym": "open（開いた）＋ -ly",
+  "ld_level": "3級",
+  "badges": ["中学生〜", "英検3級", "CEFR B1", "様子"],
+  "meaning_main": "公然と / 率直に / 包み隠さず",
+  "description": "openly（オープンリー）は隠さずに公然と、率直に、という意味の副詞です。意味・使い方・例文を解説します。",
+  "keywords": ["openly 意味", "公然と 英語", "率直に 英語", "open 副詞"],
+  "meanings": [
+    { "hinshi": "【副詞】公然と・率直に・包み隠さず", "note": "隠したりごまかしたりせず、はっきりと" }
+  ],
+  "usages": [
+    { "title": "① 隠さず", "desc": "公然と", "example_en": "They talked openly about the problem.", "example_ja": "彼らはその問題について率直に話した。" },
+    { "title": "② 感情を表に", "desc": "包み隠さず", "example_en": "She wept openly at the news.", "example_ja": "彼女はその知らせに人前で涙を流した。" }
+  ],
+  "warn": ["形容詞は open（開いた・率直な）。反対は secretly（ひそかに）。", "openly critical（あからさまに批判的）のように強調にも使う。"],
+  "etym_note": "古英語 open（開いた）に -ly を付けた副詞。「開けっぴろげに」の意。",
+  "etym_chain": [
+    { "node": "open", "sub": "開いた", "era": "古英語" },
+    { "node": "openly", "sub": "公然と", "era": "中英語" },
+    { "node": "openly", "sub": "公然と・率直に", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "talk openly", "ja": "率直に話す" },
+    { "en": "openly admit", "ja": "包み隠さず認める" },
+    { "en": "openly critical", "ja": "あからさまに批判的な" },
+    { "en": "weep openly", "ja": "人前で泣く" },
+    { "en": "openly disagree", "ja": "公然と反対する" },
+    { "en": "speak openly", "ja": "率直に話す" }
+  ],
+  "related": [
+    { "en": "open", "ja": "開いた・率直な" },
+    { "en": "frankly", "ja": "率直に" },
+    { "en": "publicly", "ja": "公然と" },
+    { "en": "secretly", "ja": "ひそかに" }
+  ],
+  "faq": [
+    { "q": "openly の意味は？", "a": "隠さずに公然と、率直に、包み隠さず、という意味の副詞です。" },
+    { "q": "反対の語は？", "a": "secretly（ひそかに・こっそりと）です。" }
+  ],
+  "quiz": [
+    { "q": "openly の意味は？", "A": "こっそりと", "B": "公然と・率直に", "C": "静かに", "D": "急いで", "correct": "B" },
+    { "q": "openly の反対は？", "A": "secretly", "B": "clearly", "C": "loudly", "D": "quickly", "correct": "A" }
+  ]
+},
+{
+  "english": "operator",
+  "pron": "ˈɒpəreɪtər",
+  "kana": "オペレーター",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "ラテン語 operari（働く）＋ -tor",
+  "ld_level": "準1級",
+  "badges": ["中学生〜", "英検準1級", "CEFR B2", "職業・IT"],
+  "meaning_main": "操作する人 / 電話交換手 / (数式の)演算子",
+  "description": "operator（オペレーター）は機械を操作する人、電話の交換手、事業の運営者、また数学の演算子など幅広い意味を持つ名詞です。意味・使い方を解説します。",
+  "keywords": ["operator 意味", "オペレーター 英語", "operator 使い方", "演算子 英語"],
+  "meanings": [
+    { "hinshi": "【名詞】操作する人・オペレーター", "note": "機械・装置・電話などを操作・運用する人" },
+    { "hinshi": "【名詞】事業者・運営者", "note": "tour operator（旅行業者）など事業を営む者" },
+    { "hinshi": "【名詞】(数学・IT)演算子", "note": "＋や×などの計算記号、プログラムの演算記号" }
+  ],
+  "usages": [
+    { "title": "① 操作・交換手", "desc": "機械や電話", "example_en": "The operator connected my call.", "example_ja": "交換手が電話をつないでくれた。" },
+    { "title": "② 演算子", "desc": "数学・IT", "example_en": "The plus sign is an arithmetic operator.", "example_ja": "プラス記号は算術演算子だ。" }
+  ],
+  "warn": ["動詞は operate（操作する・運営する）、名詞 operation は「操作・手術・作戦」。", "tour operator（旅行業者）、machine operator（機械オペレーター）など複合語が多い。"],
+  "etym_note": "ラテン語 operari（働く、opus「仕事」より）→ operate に、「〜する人」を表す -or を付けた語。",
+  "etym_chain": [
+    { "node": "operari", "sub": "働く", "era": "ラテン語" },
+    { "node": "operate", "sub": "操作する", "era": "17世紀" },
+    { "node": "operator", "sub": "操作する人", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "machine operator", "ja": "機械オペレーター" },
+    { "en": "call the operator", "ja": "交換手を呼ぶ" },
+    { "en": "tour operator", "ja": "旅行業者" },
+    { "en": "network operator", "ja": "通信事業者" },
+    { "en": "arithmetic operator", "ja": "算術演算子" },
+    { "en": "a smooth operator", "ja": "抜け目のない人" }
+  ],
+  "related": [
+    { "en": "operate", "ja": "操作する・運営する" },
+    { "en": "operation", "ja": "操作・手術・作戦" },
+    { "en": "technician", "ja": "技術者" },
+    { "en": "controller", "ja": "制御する人・装置" }
+  ],
+  "faq": [
+    { "q": "operator の意味は？", "a": "機械を操作する人、電話の交換手、事業の運営者、また数学の演算子など幅広い意味があります。" },
+    { "q": "演算子としての operator とは？", "a": "＋や×などの計算記号や、プログラムで計算・比較を表す記号のことです。" }
+  ],
+  "quiz": [
+    { "q": "operator の意味の一つは？", "A": "操作する人・交換手", "B": "建物", "C": "動物", "D": "食べ物", "correct": "A" },
+    { "q": "arithmetic operator の例は？", "A": "＋や×", "B": "文字A", "C": "句読点", "D": "空白", "correct": "A" }
+  ]
+},
+{
+  "english": "ophthalmic",
+  "pron": "ɒfˈθælmɪk",
+  "kana": "オフサルミック",
+  "hinshi": "形容詞",
+  "ld_pos": "形容詞",
+  "ld_etym": "ギリシャ語 ophthalmos（目）から",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "医学"],
+  "meaning_main": "眼の / 眼科の",
+  "description": "ophthalmic（オフサルミック）は目や視覚に関する「眼の・眼科の」という意味の形容詞です。医療分野でよく使われます。意味・使い方を解説します。",
+  "keywords": ["ophthalmic 意味", "眼科 英語", "ophthalmology", "ophthalmic 使い方"],
+  "meanings": [
+    { "hinshi": "【形容詞】眼の・眼科の", "note": "目や視覚、その診療に関する" }
+  ],
+  "usages": [
+    { "title": "① 医療", "desc": "眼科の", "example_en": "She had an ophthalmic examination.", "example_ja": "彼女は眼科の検査を受けた。" },
+    { "title": "② 薬・製品", "desc": "目に使う", "example_en": "These are ophthalmic drops for dry eyes.", "example_ja": "これはドライアイ用の点眼薬だ。" }
+  ],
+  "warn": ["眼科学は ophthalmology、眼科医は ophthalmologist。つづりに ph と th が並ぶので注意。", "ophthalmos は「目」を表すギリシャ語。"],
+  "etym_note": "ギリシャ語 ophthalmos（目）から。目に関することを表す形容詞。",
+  "etym_chain": [
+    { "node": "ophthalmos", "sub": "目", "era": "古代ギリシャ語" },
+    { "node": "ophthalmic", "sub": "眼の", "era": "16世紀" },
+    { "node": "ophthalmic", "sub": "眼科の", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "ophthalmic examination", "ja": "眼科検査" },
+    { "en": "ophthalmic surgery", "ja": "眼科手術" },
+    { "en": "ophthalmic drops", "ja": "点眼薬" },
+    { "en": "ophthalmic nerve", "ja": "眼神経" },
+    { "en": "ophthalmic care", "ja": "眼のケア" },
+    { "en": "ophthalmic clinic", "ja": "眼科クリニック" }
+  ],
+  "related": [
+    { "en": "ophthalmology", "ja": "眼科学" },
+    { "en": "ophthalmologist", "ja": "眼科医" },
+    { "en": "optical", "ja": "光学の・目の" },
+    { "en": "eye", "ja": "目" }
+  ],
+  "faq": [
+    { "q": "ophthalmic の意味は？", "a": "目や視覚に関する「眼の・眼科の」という意味の形容詞です。" },
+    { "q": "眼科医は英語で？", "a": "ophthalmologist（眼科医）です。眼科学は ophthalmology です。" }
+  ],
+  "quiz": [
+    { "q": "ophthalmic の意味は？", "A": "眼の・眼科の", "B": "耳の", "C": "歯の", "D": "心臓の", "correct": "A" },
+    { "q": "ophthalmic の語源 ophthalmos の意味は？", "A": "目", "B": "耳", "C": "手", "D": "足", "correct": "A" }
+  ]
+},
+{
+  "english": "opossum",
+  "pron": "əˈpɒsəm",
+  "kana": "オポッサム",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "北米先住民（ポウハタン語）の言葉から",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "動物"],
+  "meaning_main": "オポッサム（北米にすむ有袋類の動物）",
+  "description": "opossum（オポッサム）は北アメリカにすむ、袋で子を育てる有袋類の動物です。危険が迫ると死んだふりをすることで知られます。意味を解説します。",
+  "keywords": ["opossum 意味", "オポッサム", "有袋類 英語", "死んだふり 動物"],
+  "meanings": [
+    { "hinshi": "【名詞】オポッサム", "note": "北アメリカにすむ夜行性の有袋類。危険時に死んだふり（擬死）をすることで有名" }
+  ],
+  "usages": [
+    { "title": "① 動物", "desc": "生態", "example_en": "An opossum visited our garden last night.", "example_ja": "昨夜、オポッサムが庭に来た。" },
+    { "title": "② 習性", "desc": "死んだふり", "example_en": "When threatened, an opossum plays dead.", "example_ja": "脅かされると、オポッサムは死んだふりをする。" }
+  ],
+  "warn": ["北米のは opossum、オーストラリアの別の有袋類 possum とは異なる動物（区別する）。", "「死んだふりをする」を英語で play possum という。"],
+  "etym_note": "北米先住民ポウハタン語の言葉（「白い獣」の意とされる）に由来し、英語に取り入れられた。",
+  "etym_chain": [
+    { "node": "opassom", "sub": "白い獣", "era": "ポウハタン語" },
+    { "node": "opossum", "sub": "オポッサム", "era": "17世紀" },
+    { "node": "opossum", "sub": "オポッサム", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "a wild opossum", "ja": "野生のオポッサム" },
+    { "en": "play possum", "ja": "死んだふりをする" },
+    { "en": "opossum in the yard", "ja": "庭のオポッサム" },
+    { "en": "a baby opossum", "ja": "オポッサムの赤ちゃん" },
+    { "en": "nocturnal opossum", "ja": "夜行性のオポッサム" },
+    { "en": "opossum tail", "ja": "オポッサムの尾" }
+  ],
+  "related": [
+    { "en": "possum", "ja": "ポッサム（豪の有袋類）" },
+    { "en": "marsupial", "ja": "有袋類" },
+    { "en": "mammal", "ja": "哺乳類" },
+    { "en": "nocturnal", "ja": "夜行性の" }
+  ],
+  "faq": [
+    { "q": "opossum とは？", "a": "北アメリカにすむ夜行性の有袋類です。危険時に死んだふり（擬死）をすることで有名です。" },
+    { "q": "possum との違いは？", "a": "opossum は北米の有袋類、possum はオーストラリアの別の有袋類で、異なる動物です。" }
+  ],
+  "quiz": [
+    { "q": "opossum の有名な習性は？", "A": "死んだふりをする", "B": "空を飛ぶ", "C": "冬眠しない", "D": "水中で暮らす", "correct": "A" },
+    { "q": "opossum はどの分類の動物？", "A": "有袋類", "B": "鳥類", "C": "爬虫類", "D": "魚類", "correct": "A" }
+  ]
+},
+{
+  "english": "optics",
+  "pron": "ˈɒptɪks",
+  "kana": "オプティクス",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "ギリシャ語 optikos（視覚の）から",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "物理・社会"],
+  "meaning_main": "光学 / (比喩)世間の受け取られ方・見え方",
+  "description": "optics（オプティクス）は光の性質や振る舞いを研究する物理学の分野「光学」を指す名詞です。近年は比喩で「世間にどう見えるか（印象）」の意味でも使われます。意味を解説します。",
+  "keywords": ["optics 意味", "光学 英語", "optics 使い方", "見え方 印象"],
+  "meanings": [
+    { "hinshi": "【名詞】光学", "note": "光の反射・屈折・レンズなど、光の性質と振る舞いを研究する物理学の分野" },
+    { "hinshi": "【名詞】(比喩)世間の受け取られ方", "note": "ある行動や状況が世間・世論にどう見えるかという印象" }
+  ],
+  "usages": [
+    { "title": "① 物理学", "desc": "光の研究", "example_en": "Lenses and mirrors are studied in optics.", "example_ja": "レンズや鏡は光学で研究される。" },
+    { "title": "② 比喩(印象)", "desc": "見え方", "example_en": "The politician worried about the optics of the deal.", "example_ja": "その政治家は取引が世間にどう見えるかを気にした。" }
+  ],
+  "warn": ["形容詞は optical（光学の）。「印象」の意味は主に政治・ビジネスの口語。", "-ics で終わるが単数扱いの学問名（physics などと同じ）。"],
+  "etym_note": "ギリシャ語 optikos（視覚の、optos「見える」より）→ optics（光学）。後に比喩で「見え方・印象」の意も生まれた。",
+  "etym_chain": [
+    { "node": "optikos", "sub": "視覚の", "era": "古代ギリシャ語" },
+    { "node": "optics", "sub": "光学", "era": "17世紀" },
+    { "node": "optics", "sub": "光学・見え方", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "the study of optics", "ja": "光学の研究" },
+    { "en": "fiber optics", "ja": "光ファイバー" },
+    { "en": "the optics of the situation", "ja": "状況の見え方" },
+    { "en": "bad optics", "ja": "印象の悪さ" },
+    { "en": "good optics", "ja": "印象のよさ" },
+    { "en": "worry about the optics", "ja": "世間体を気にする" }
+  ],
+  "related": [
+    { "en": "optical", "ja": "光学の" },
+    { "en": "lens", "ja": "レンズ" },
+    { "en": "light", "ja": "光" },
+    { "en": "perception", "ja": "受け取られ方・認識" }
+  ],
+  "faq": [
+    { "q": "optics の意味は？", "a": "光の性質を研究する「光学」が基本の意味です。近年は比喩で「世間にどう見えるか（印象）」の意味でも使われます。" },
+    { "q": "bad optics とは？", "a": "ある行動や状況が「世間に悪く見えること・印象が悪いこと」を指す口語表現です。" }
+  ],
+  "quiz": [
+    { "q": "optics の物理学での意味は？", "A": "光学", "B": "音響学", "C": "熱力学", "D": "電磁気学", "correct": "A" },
+    { "q": "bad optics の比喩的な意味は？", "A": "印象が悪いこと", "B": "光が弱いこと", "C": "視力が悪いこと", "D": "計算ミス", "correct": "A" }
+  ]
+},
+{
+  "english": "orally",
+  "pron": "ˈɔːrəli",
+  "kana": "オーラリー",
+  "hinshi": "副詞",
+  "ld_pos": "副詞",
+  "ld_etym": "oral（口の）＋ -ly",
+  "ld_level": "準1級",
+  "badges": ["中学生〜", "英検準1級", "CEFR B2", "様子"],
+  "meaning_main": "口頭で / 口から（服用など）",
+  "description": "orally（オーラリー）は文書でなく「口頭で」、また薬などを「口から（経口で）」という意味の副詞です。意味・使い方を解説します。",
+  "keywords": ["orally 意味", "口頭 英語", "経口 英語", "oral 副詞"],
+  "meanings": [
+    { "hinshi": "【副詞】口頭で", "note": "書面でなく、話し言葉で" },
+    { "hinshi": "【副詞】口から・経口で", "note": "薬などを口から取り入れて" }
+  ],
+  "usages": [
+    { "title": "① 口頭で", "desc": "話して伝える", "example_en": "The results were reported orally.", "example_ja": "結果は口頭で報告された。" },
+    { "title": "② 経口で", "desc": "薬の服用", "example_en": "Take this medicine orally.", "example_ja": "この薬は口から服用してください。" }
+  ],
+  "warn": ["形容詞は oral（口の・口頭の・経口の）。同音の aurally（耳で・聴覚で）と混同しないよう注意。", "口頭試験は oral exam。"],
+  "etym_note": "ラテン語 os（口）由来の oral（口の）に -ly を付けた副詞。",
+  "etym_chain": [
+    { "node": "os", "sub": "口", "era": "ラテン語" },
+    { "node": "oral", "sub": "口の・口頭の", "era": "17世紀" },
+    { "node": "orally", "sub": "口頭で・経口で", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "report orally", "ja": "口頭で報告する" },
+    { "en": "take orally", "ja": "経口で服用する" },
+    { "en": "orally administered", "ja": "経口投与された" },
+    { "en": "communicate orally", "ja": "口頭で伝える" },
+    { "en": "orally and in writing", "ja": "口頭と書面で" },
+    { "en": "answer orally", "ja": "口頭で答える" }
+  ],
+  "related": [
+    { "en": "oral", "ja": "口の・口頭の・経口の" },
+    { "en": "verbally", "ja": "言葉で・口頭で" },
+    { "en": "spoken", "ja": "話された" },
+    { "en": "in writing", "ja": "書面で" }
+  ],
+  "faq": [
+    { "q": "orally の意味は？", "a": "文書でなく「口頭で」、また薬などを「口から（経口で）」という意味の副詞です。" },
+    { "q": "aurally との違いは？", "a": "orally は「口で・口頭で」、aurally は「耳で・聴覚で」です。発音が同じなので注意が必要です。" }
+  ],
+  "quiz": [
+    { "q": "orally の意味の一つは？", "A": "口頭で", "B": "書面で", "C": "電子的に", "D": "無言で", "correct": "A" },
+    { "q": "Take this medicine orally. の意味は？", "A": "注射する", "B": "口から服用する", "C": "塗る", "D": "吸入する", "correct": "B" }
+  ]
+},
+{
+  "english": "ordination",
+  "pron": "ˌɔːrdɪˈneɪʃn",
+  "kana": "オーディネーション",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "ラテン語 ordinare（順序づける・任命する）から",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "宗教"],
+  "meaning_main": "叙任 / 聖職者への任命式",
+  "description": "ordination（オーディネーション）は司祭・牧師・僧侶などの聖職者として正式に任命されること「叙任・聖職按手」を指す名詞です。意味・使い方を解説します。",
+  "keywords": ["ordination 意味", "叙任 英語", "聖職者 任命", "ordination 使い方"],
+  "meanings": [
+    { "hinshi": "【名詞】叙任・聖職への任命", "note": "司祭・牧師・僧侶などの聖職者として正式に任命される儀式" }
+  ],
+  "usages": [
+    { "title": "① 任命式", "desc": "聖職に就く", "example_en": "His ordination took place in the cathedral.", "example_ja": "彼の叙任式は大聖堂で行われた。" },
+    { "title": "② 宗教の話題", "desc": "資格を得る", "example_en": "She sought ordination as a priest.", "example_ja": "彼女は司祭への叙任を求めた。" }
+  ],
+  "warn": ["動詞は ordain（叙任する）。「〜を運命づける」の意味の ordain もある。", "キリスト教のほか、仏教などでも僧侶になる儀式に使われる。"],
+  "etym_note": "ラテン語 ordo（順序・階級）→ ordinare（順序づける・任命する）→ ordination。「（聖職の）位に就けること」の意。",
+  "etym_chain": [
+    { "node": "ordo", "sub": "順序・階級", "era": "ラテン語" },
+    { "node": "ordinare", "sub": "任命する", "era": "ラテン語" },
+    { "node": "ordination", "sub": "叙任", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "the ordination ceremony", "ja": "叙任式" },
+    { "en": "seek ordination", "ja": "叙任を求める" },
+    { "en": "ordination of women", "ja": "女性の叙任" },
+    { "en": "priestly ordination", "ja": "司祭叙任" },
+    { "en": "after his ordination", "ja": "彼の叙任後" },
+    { "en": "receive ordination", "ja": "叙任を受ける" }
+  ],
+  "related": [
+    { "en": "ordain", "ja": "叙任する" },
+    { "en": "priest", "ja": "司祭" },
+    { "en": "clergy", "ja": "聖職者" },
+    { "en": "consecration", "ja": "聖別・奉献" }
+  ],
+  "faq": [
+    { "q": "ordination とは？", "a": "司祭・牧師・僧侶などの聖職者として正式に任命される儀式「叙任」のことです。" },
+    { "q": "動詞形は？", "a": "ordain（叙任する）です。「〜を運命づける」の意味もあります。" }
+  ],
+  "quiz": [
+    { "q": "ordination の意味は？", "A": "聖職者への任命（叙任）", "B": "卒業", "C": "結婚", "D": "退職", "correct": "A" },
+    { "q": "ordination の動詞形は？", "A": "ordain", "B": "order のみ", "C": "ordinate のみ", "D": "ordeal", "correct": "A" }
+  ]
+}
+]
