@@ -1,0 +1,990 @@
+[
+{
+  "english": "packing",
+  "pron": "ˈpækɪŋ",
+  "kana": "パッキング",
+  "hinshi": "名詞 / 動詞(現在分詞)",
+  "ld_pos": "名詞",
+  "ld_etym": "動詞 pack（詰める）＋ -ing",
+  "ld_level": "3級",
+  "badges": ["中学生〜", "英検3級", "CEFR B1", "基本語"],
+  "meaning_main": "荷造り / 梱包 / 詰め物",
+  "description": "packing（パッキング）は荷物を詰めること「荷造り・梱包」、また箱の中の緩衝材（詰め物）を指す名詞です。意味・使い方を解説します。",
+  "keywords": ["packing 意味", "荷造り 英語", "packing 使い方", "梱包 英語"],
+  "meanings": [
+    { "hinshi": "【名詞】荷造り・梱包", "note": "旅行や配送のために荷物を詰めること" },
+    { "hinshi": "【名詞】詰め物・緩衝材", "note": "商品を保護するために箱に入れる材料" }
+  ],
+  "usages": [
+    { "title": "① 荷造り", "desc": "旅行の準備", "example_en": "I need to finish packing before the trip.", "example_ja": "旅行の前に荷造りを終えないと。" },
+    { "title": "② 梱包材", "desc": "詰め物", "example_en": "The fragile item was wrapped in packing.", "example_ja": "壊れやすい品は緩衝材で包まれていた。" }
+  ],
+  "warn": ["動詞は pack（詰める・荷造りする）。", "packing list（荷物リスト・梱包明細）、packing tape（梱包テープ）などの複合語がある。"],
+  "etym_note": "中英語 pakke（包み）由来の pack（詰める）に -ing を付けた語。",
+  "etym_chain": [
+    { "node": "pakke", "sub": "包み", "era": "中英語" },
+    { "node": "pack", "sub": "詰める", "era": "中英語" },
+    { "node": "packing", "sub": "荷造り・梱包", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "finish packing", "ja": "荷造りを終える" },
+    { "en": "packing list", "ja": "持ち物リスト" },
+    { "en": "packing tape", "ja": "梱包テープ" },
+    { "en": "do the packing", "ja": "荷造りをする" },
+    { "en": "packing material", "ja": "梱包材" },
+    { "en": "start packing", "ja": "荷造りを始める" }
+  ],
+  "related": [
+    { "en": "pack", "ja": "詰める・荷造りする" },
+    { "en": "luggage", "ja": "荷物" },
+    { "en": "wrapping", "ja": "包装" },
+    { "en": "shipping", "ja": "発送" }
+  ],
+  "faq": [
+    { "q": "packing の意味は？", "a": "荷物を詰めること「荷造り・梱包」、また箱の中の緩衝材（詰め物）を指します。" },
+    { "q": "packing list とは？", "a": "旅行の持ち物リストや、荷物の中身を記した梱包明細のことです。" }
+  ],
+  "quiz": [
+    { "q": "packing の意味は？", "A": "荷造り・梱包", "B": "料理", "C": "運転", "D": "掃除", "correct": "A" },
+    { "q": "packing の動詞形は？", "A": "pack", "B": "pick", "C": "peck", "D": "park", "correct": "A" }
+  ]
+},
+{
+  "english": "padding",
+  "pron": "ˈpædɪŋ",
+  "kana": "パディング",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "pad（当て物）＋ -ing",
+  "ld_level": "準1級",
+  "badges": ["中学生〜", "英検準1級", "CEFR B2", "物・IT"],
+  "meaning_main": "詰め物 / クッション材 / (文章の)水増し",
+  "description": "padding（パディング）は保護や快適さのための「詰め物・クッション材」、また文章の「水増し」や、IT・デザインで要素の内側の余白を指す名詞です。意味を解説します。",
+  "keywords": ["padding 意味", "詰め物 英語", "padding 使い方", "余白 CSS"],
+  "meanings": [
+    { "hinshi": "【名詞】詰め物・クッション材", "note": "衝撃をやわらげたり形を整えたりするために入れる柔らかい材料" },
+    { "hinshi": "【名詞】(文章の)水増し", "note": "内容を膨らませるための不要な言葉" },
+    { "hinshi": "【名詞】(IT・デザイン)内側の余白", "note": "要素の内容と枠との間の余白" }
+  ],
+  "usages": [
+    { "title": "① 詰め物", "desc": "クッション", "example_en": "The jacket has extra padding on the shoulders.", "example_ja": "そのジャケットは肩に厚い詰め物が入っている。" },
+    { "title": "② 水増し", "desc": "内容を膨らます", "example_en": "The essay was full of padding.", "example_ja": "その小論文は水増しだらけだった。" }
+  ],
+  "warn": ["動詞は pad（詰め物をする・水増しする）。", "CSS などデザインでは要素内側の余白を padding、外側を margin という。"],
+  "etym_note": "pad（柔らかい当て物）に -ing を付けた語。詰め物の意から、比喩で「水増し」の意も生まれた。",
+  "etym_chain": [
+    { "node": "pad", "sub": "当て物", "era": "16世紀" },
+    { "node": "padding", "sub": "詰め物", "era": "18世紀" },
+    { "node": "padding", "sub": "詰め物・余白", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "shoulder padding", "ja": "肩パッド" },
+    { "en": "extra padding", "ja": "追加の詰め物" },
+    { "en": "foam padding", "ja": "発泡クッション材" },
+    { "en": "add padding", "ja": "詰め物・余白を加える" },
+    { "en": "unnecessary padding", "ja": "不要な水増し" },
+    { "en": "cell padding", "ja": "セル内の余白" }
+  ],
+  "related": [
+    { "en": "pad", "ja": "当て物・詰め物をする" },
+    { "en": "cushion", "ja": "クッション" },
+    { "en": "stuffing", "ja": "詰め物" },
+    { "en": "margin", "ja": "余白（外側）" }
+  ],
+  "faq": [
+    { "q": "padding の意味は？", "a": "保護や快適さのための「詰め物・クッション材」、文章の「水増し」、IT・デザインでは要素の内側の余白を指します。" },
+    { "q": "padding と margin の違いは？", "a": "デザインでは padding が要素の内側の余白、margin が外側の余白を指します。" }
+  ],
+  "quiz": [
+    { "q": "padding の意味の一つは？", "A": "詰め物・クッション材", "B": "刃物", "C": "鏡", "D": "電池", "correct": "A" },
+    { "q": "デザインで padding が指すのは？", "A": "要素の内側の余白", "B": "外側の余白", "C": "文字の色", "D": "背景画像", "correct": "A" }
+  ]
+},
+{
+  "english": "palatal",
+  "pron": "ˈpælətl",
+  "kana": "パラタル",
+  "hinshi": "形容詞 / 名詞",
+  "ld_pos": "形容詞",
+  "ld_etym": "ラテン語 palatum（口蓋）から",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "言語学"],
+  "meaning_main": "口蓋の / (音声)硬口蓋で発する",
+  "description": "palatal（パラタル）は口の中の天井「口蓋（こうがい）」に関する、また音声学で舌を硬口蓋に近づけて出す音「口蓋音の」という意味の語です。意味を解説します。",
+  "keywords": ["palatal 意味", "口蓋 英語", "口蓋音 英語", "palatal 使い方"],
+  "meanings": [
+    { "hinshi": "【形容詞】口蓋の・口蓋音の", "note": "口の中の天井（口蓋）に関する。音声学では舌を硬口蓋に近づけて出す音" },
+    { "hinshi": "【名詞】口蓋音", "note": "そのようにして出す子音（例: y の音）" }
+  ],
+  "usages": [
+    { "title": "① 音声学", "desc": "発音の分類", "example_en": "The \"y\" sound is a palatal consonant.", "example_ja": "「y」の音は口蓋音の子音だ。" },
+    { "title": "② 解剖・医学", "desc": "口蓋に関する", "example_en": "The palatal bone forms part of the mouth's roof.", "example_ja": "口蓋骨は口の天井の一部を作る。" }
+  ],
+  "warn": ["口の天井は palate（口蓋）。前方の硬い部分が硬口蓋、後方の柔らかい部分が軟口蓋（soft palate）。", "音声学では velar（軟口蓋音）と対比される。"],
+  "etym_note": "ラテン語 palatum（口蓋）→ palatal。「口蓋の」の意。",
+  "etym_chain": [
+    { "node": "palatum", "sub": "口蓋", "era": "ラテン語" },
+    { "node": "palatal", "sub": "口蓋の", "era": "17世紀" },
+    { "node": "palatal", "sub": "口蓋の・口蓋音の", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "palatal consonant", "ja": "口蓋音の子音" },
+    { "en": "palatal sound", "ja": "口蓋音" },
+    { "en": "the palatal region", "ja": "口蓋の部分" },
+    { "en": "palatal bone", "ja": "口蓋骨" },
+    { "en": "hard palatal", "ja": "硬口蓋の" },
+    { "en": "palatal articulation", "ja": "口蓋での調音" }
+  ],
+  "related": [
+    { "en": "palate", "ja": "口蓋" },
+    { "en": "velar", "ja": "軟口蓋音の" },
+    { "en": "consonant", "ja": "子音" },
+    { "en": "phonetics", "ja": "音声学" }
+  ],
+  "faq": [
+    { "q": "palatal の意味は？", "a": "口の中の天井「口蓋」に関する、また音声学で舌を硬口蓋に近づけて出す「口蓋音の」という意味です。" },
+    { "q": "口蓋は英語で？", "a": "palate です。前の硬い部分が硬口蓋、後ろの柔らかい部分が soft palate（軟口蓋）です。" }
+  ],
+  "quiz": [
+    { "q": "palatal が関係する体の部分は？", "A": "口蓋（口の天井）", "B": "耳", "C": "目", "D": "指", "correct": "A" },
+    { "q": "palatal の名詞（口の天井）は？", "A": "palate", "B": "palette", "C": "pallet", "D": "palace", "correct": "A" }
+  ]
+},
+{
+  "english": "palatial",
+  "pron": "pəˈleɪʃl",
+  "kana": "パレイシャル",
+  "hinshi": "形容詞",
+  "ld_pos": "形容詞",
+  "ld_etym": "ラテン語 palatium（宮殿）から",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "様子"],
+  "meaning_main": "宮殿のような / 豪華で広大な",
+  "description": "palatial（パレイシャル）は宮殿のように豪華で広々とした、という意味の形容詞です。大きく立派な建物をほめて表します。意味・使い方を解説します。",
+  "keywords": ["palatial 意味", "宮殿のような 英語", "豪華 英語", "palatial 使い方"],
+  "meanings": [
+    { "hinshi": "【形容詞】宮殿のような・豪華で広大な", "note": "宮殿を思わせるほど大きく、立派で豪華な" }
+  ],
+  "usages": [
+    { "title": "① 建物", "desc": "豪華で広い", "example_en": "They live in a palatial mansion.", "example_ja": "彼らは宮殿のような大邸宅に住んでいる。" },
+    { "title": "② 空間", "desc": "広々と立派", "example_en": "The hotel lobby was palatial.", "example_ja": "そのホテルのロビーは宮殿のようだった。" }
+  ],
+  "warn": ["名詞 palace（宮殿）の形容詞形。ほめ言葉として使う。", "palatal（口蓋の）とつづり・発音が似ているが別の語。"],
+  "etym_note": "ラテン語 palatium（宮殿、ローマのパラティーノの丘に由来）→ palace → palatial。「宮殿の（ような）」の意。",
+  "etym_chain": [
+    { "node": "palatium", "sub": "宮殿", "era": "ラテン語" },
+    { "node": "palace", "sub": "宮殿", "era": "中英語" },
+    { "node": "palatial", "sub": "宮殿のような", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "a palatial mansion", "ja": "宮殿のような大邸宅" },
+    { "en": "palatial home", "ja": "豪邸" },
+    { "en": "palatial suite", "ja": "豪華なスイート" },
+    { "en": "palatial surroundings", "ja": "豪華な環境" },
+    { "en": "a palatial hotel", "ja": "宮殿のようなホテル" },
+    { "en": "on a palatial scale", "ja": "宮殿のような規模で" }
+  ],
+  "related": [
+    { "en": "palace", "ja": "宮殿" },
+    { "en": "luxurious", "ja": "豪華な" },
+    { "en": "grand", "ja": "壮大な" },
+    { "en": "magnificent", "ja": "壮麗な" }
+  ],
+  "faq": [
+    { "q": "palatial の意味は？", "a": "宮殿のように豪華で広々とした、という意味の形容詞です。立派な建物をほめて表します。" },
+    { "q": "palatal との違いは？", "a": "palatial は「宮殿のような」、palatal は「口蓋の」で、まったく別の意味です。" }
+  ],
+  "quiz": [
+    { "q": "palatial の意味は？", "A": "宮殿のような・豪華な", "B": "みすぼらしい", "C": "小さな", "D": "普通の", "correct": "A" },
+    { "q": "palatial の元になる名詞は？", "A": "palace（宮殿）", "B": "palate", "C": "palm", "D": "pallet", "correct": "A" }
+  ]
+},
+{
+  "english": "palermo",
+  "pron": "pəˈlɛərmoʊ",
+  "kana": "パレルモ",
+  "hinshi": "名詞(固有名詞)",
+  "ld_pos": "固有名詞",
+  "ld_etym": "ギリシャ語 Panormos（全き港）から",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "地名"],
+  "meaning_main": "パレルモ（イタリア・シチリア島の中心都市）",
+  "description": "Palermo（パレルモ）はイタリア南部シチリア島の州都で最大の都市です。歴史ある港町として知られます。意味・場所を解説します。",
+  "keywords": ["palermo 意味", "パレルモ", "シチリア 都市", "palermo どこ"],
+  "meanings": [
+    { "hinshi": "【固有名詞】パレルモ", "note": "イタリア南部シチリア島の州都で最大都市。地中海に面した歴史ある港町" }
+  ],
+  "usages": [
+    { "title": "① 都市", "desc": "地理の話題", "example_en": "Palermo is the capital of Sicily.", "example_ja": "パレルモはシチリアの州都だ。" },
+    { "title": "② 観光・歴史", "desc": "港町", "example_en": "Palermo has a rich history and beautiful architecture.", "example_ja": "パレルモは豊かな歴史と美しい建築を持つ。" }
+  ],
+  "warn": ["シチリア島（Sicily）はイタリア南部にある地中海最大の島。", "見出し語はファイル名の都合で小文字だが、地名なので Palermo と大文字で書く。"],
+  "etym_note": "古代ギリシャ人が Panormos（pan「全て」＋ hormos「港」＝全き港・良港）と名づけたことに由来する。",
+  "etym_chain": [
+    { "node": "Panormos", "sub": "全き港・良港", "era": "古代ギリシャ語" },
+    { "node": "Palermo", "sub": "パレルモ", "era": "中世" },
+    { "node": "Palermo", "sub": "パレルモ", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "the city of Palermo", "ja": "パレルモ市" },
+    { "en": "in Palermo", "ja": "パレルモで" },
+    { "en": "central Palermo", "ja": "パレルモ中心部" },
+    { "en": "visit Palermo", "ja": "パレルモを訪れる" },
+    { "en": "the port of Palermo", "ja": "パレルモの港" },
+    { "en": "Palermo cathedral", "ja": "パレルモ大聖堂" }
+  ],
+  "related": [
+    { "en": "sicily", "ja": "シチリア島" },
+    { "en": "italy", "ja": "イタリア" },
+    { "en": "mediterranean", "ja": "地中海" },
+    { "en": "port", "ja": "港" }
+  ],
+  "faq": [
+    { "q": "Palermo はどこ？", "a": "イタリア南部シチリア島の州都で、最大の都市です。地中海に面した港町です。" },
+    { "q": "名前の由来は？", "a": "古代ギリシャ語 Panormos（全き港・良港）に由来します。" }
+  ],
+  "quiz": [
+    { "q": "Palermo はどの島の中心都市？", "A": "シチリア島", "B": "サルデーニャ島", "C": "クレタ島", "D": "コルシカ島", "correct": "A" },
+    { "q": "Palermo はどの国にある？", "A": "イタリア", "B": "ギリシャ", "C": "スペイン", "D": "フランス", "correct": "A" }
+  ]
+},
+{
+  "english": "palindrome",
+  "pron": "ˈpælɪndroʊm",
+  "kana": "パリンドローム",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "ギリシャ語 palin（再び）＋ dromos（走ること）",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "言葉遊び"],
+  "meaning_main": "回文（前から読んでも後ろから読んでも同じ言葉）",
+  "description": "palindrome（パリンドローム）は前から読んでも後ろから読んでも同じになる語や文「回文」を指す名詞です。level や madam などが例です。意味を解説します。",
+  "keywords": ["palindrome 意味", "回文 英語", "palindrome 例", "palindrome 使い方"],
+  "meanings": [
+    { "hinshi": "【名詞】回文", "note": "前から読んでも後ろから読んでも同じになる語・句・文。例: level, madam, noon" }
+  ],
+  "usages": [
+    { "title": "① 言葉遊び", "desc": "回文の例", "example_en": "\"Racecar\" is a palindrome.", "example_ja": "「racecar」は回文だ。" },
+    { "title": "② 数字にも", "desc": "回文数", "example_en": "The number 121 is a palindrome.", "example_ja": "数字の121は回文だ。" }
+  ],
+  "warn": ["文字だけでなく数字（121, 1331 など）にも使う。", "palin（再び）＋ dromos（走る）＝「また元へ戻る」という作り。"],
+  "etym_note": "ギリシャ語 palin（再び・逆に）と dromos（走ること）から。「もと来た道を戻る」の意。",
+  "etym_chain": [
+    { "node": "palin + dromos", "sub": "再び＋走ること", "era": "古代ギリシャ語" },
+    { "node": "palindrome", "sub": "回文", "era": "17世紀" },
+    { "node": "palindrome", "sub": "回文", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "a perfect palindrome", "ja": "完全な回文" },
+    { "en": "a word palindrome", "ja": "単語の回文" },
+    { "en": "a number palindrome", "ja": "回文数" },
+    { "en": "read as a palindrome", "ja": "回文として読める" },
+    { "en": "make a palindrome", "ja": "回文を作る" },
+    { "en": "a famous palindrome", "ja": "有名な回文" }
+  ],
+  "related": [
+    { "en": "wordplay", "ja": "言葉遊び" },
+    { "en": "anagram", "ja": "アナグラム" },
+    { "en": "spelling", "ja": "つづり" },
+    { "en": "reverse", "ja": "逆の" }
+  ],
+  "faq": [
+    { "q": "palindrome とは？", "a": "前から読んでも後ろから読んでも同じになる語や文「回文」です。level や madam が例です。" },
+    { "q": "数字にも使う？", "a": "はい。121 や 1331 のように、逆から読んでも同じ数字も palindrome と呼びます。" }
+  ],
+  "quiz": [
+    { "q": "palindrome とは？", "A": "前後どちらから読んでも同じ言葉（回文）", "B": "長い文章", "C": "外来語", "D": "略語", "correct": "A" },
+    { "q": "次のうち palindrome は？", "A": "level", "B": "apple", "C": "table", "D": "water", "correct": "A" }
+  ]
+},
+{
+  "english": "palpable",
+  "pron": "ˈpælpəbl",
+  "kana": "パルパブル",
+  "hinshi": "形容詞",
+  "ld_pos": "形容詞",
+  "ld_etym": "ラテン語 palpare（触れる）から",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "感覚"],
+  "meaning_main": "手で触れられる / 明白な / ありありと感じられる",
+  "description": "palpable（パルパブル）は手で触れられるほどはっきりした、また雰囲気や感情が「ありありと感じられる・明白な」という意味の形容詞です。意味を解説します。",
+  "keywords": ["palpable 意味", "明白 英語", "palpable 使い方", "触れられる 英語"],
+  "meanings": [
+    { "hinshi": "【形容詞】手で触れられる・明白な", "note": "実際に触れられるほど、または誰の目にも明らかなほどはっきりした" }
+  ],
+  "usages": [
+    { "title": "① 雰囲気・感情", "desc": "ありありと", "example_en": "The tension in the room was palpable.", "example_ja": "部屋の緊張はありありと感じられた。" },
+    { "title": "② 明白な事実", "desc": "はっきりした", "example_en": "There was a palpable sense of relief.", "example_ja": "はっきりとした安堵感があった。" }
+  ],
+  "warn": ["医学では「触診で触れられる（palpable lump しこりなど）」の意味でも使う。", "反対は impalpable（触れられない・とらえがたい）。"],
+  "etym_note": "ラテン語 palpare（そっと触れる）→ palpabilis（触れられる）→ palpable。「触れられるほど明白な」の意へ。",
+  "etym_chain": [
+    { "node": "palpare", "sub": "触れる", "era": "ラテン語" },
+    { "node": "palpabilis", "sub": "触れられる", "era": "後期ラテン語" },
+    { "node": "palpable", "sub": "明白な", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "palpable tension", "ja": "ありありとした緊張" },
+    { "en": "a palpable sense of", "ja": "ありありとした〜の感覚" },
+    { "en": "palpable relief", "ja": "はっきりした安堵" },
+    { "en": "palpable excitement", "ja": "手に取るような興奮" },
+    { "en": "a palpable lump", "ja": "触れられるしこり" },
+    { "en": "almost palpable", "ja": "ほとんど触れられるような" }
+  ],
+  "related": [
+    { "en": "tangible", "ja": "触れられる・具体的な" },
+    { "en": "obvious", "ja": "明白な" },
+    { "en": "evident", "ja": "明らかな" },
+    { "en": "perceptible", "ja": "感じ取れる" }
+  ],
+  "faq": [
+    { "q": "palpable の意味は？", "a": "手で触れられるほどはっきりした、また雰囲気や感情が「ありありと感じられる・明白な」という意味です。" },
+    { "q": "反対の語は？", "a": "impalpable（触れられない・とらえがたい）です。" }
+  ],
+  "quiz": [
+    { "q": "palpable の意味は？", "A": "ありありと感じられる・明白な", "B": "見えない", "C": "静かな", "D": "冷たい", "correct": "A" },
+    { "q": "palpable tension の意味は？", "A": "ありありとした緊張", "B": "軽い冗談", "C": "静かな喜び", "D": "深い眠り", "correct": "A" }
+  ]
+},
+{
+  "english": "palpitate",
+  "pron": "ˈpælpɪteɪt",
+  "kana": "パルピテイト",
+  "hinshi": "動詞",
+  "ld_pos": "動詞",
+  "ld_etym": "ラテン語 palpitare（激しく動く）から",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "医学・感情"],
+  "meaning_main": "(心臓が)どきどきする / 激しく打つ",
+  "description": "palpitate（パルピテイト）は心臓が普段より速く強く打つ「どきどきする・動悸がする」という意味の動詞です。緊張や興奮、病気で起こります。意味を解説します。",
+  "keywords": ["palpitate 意味", "動悸 英語", "どきどき 英語", "palpitation"],
+  "meanings": [
+    { "hinshi": "【動詞】(心臓が)どきどきする・激しく打つ", "note": "緊張・興奮・運動・病気などで心臓が速く強く鼓動する" }
+  ],
+  "usages": [
+    { "title": "① 緊張・興奮", "desc": "どきどき", "example_en": "Her heart palpitated with excitement.", "example_ja": "彼女の心臓は興奮でどきどきした。" },
+    { "title": "② 医学", "desc": "動悸", "example_en": "His heart began to palpitate strangely.", "example_ja": "彼の心臓は奇妙に激しく打ち始めた。" }
+  ],
+  "warn": ["名詞は palpitation（動悸）。ふつう心臓を主語にする。", "ラテン語 palpitare（ぴくぴく動く）に由来する。"],
+  "etym_note": "ラテン語 palpare（触れる）の反復形 palpitare（激しく動く・ぴくぴくする）から。",
+  "etym_chain": [
+    { "node": "palpitare", "sub": "激しく動く", "era": "ラテン語" },
+    { "node": "palpitate", "sub": "どきどきする", "era": "17世紀" },
+    { "node": "palpitate", "sub": "動悸がする", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "the heart palpitates", "ja": "心臓がどきどきする" },
+    { "en": "palpitate with fear", "ja": "恐怖でどきどきする" },
+    { "en": "palpitate wildly", "ja": "激しく打つ" },
+    { "en": "start to palpitate", "ja": "動悸がし始める" },
+    { "en": "palpitate with excitement", "ja": "興奮でどきどきする" },
+    { "en": "make the heart palpitate", "ja": "心臓をどきどきさせる" }
+  ],
+  "related": [
+    { "en": "palpitation", "ja": "動悸" },
+    { "en": "throb", "ja": "脈打つ" },
+    { "en": "pound", "ja": "激しく打つ" },
+    { "en": "heartbeat", "ja": "鼓動" }
+  ],
+  "faq": [
+    { "q": "palpitate の意味は？", "a": "心臓が普段より速く強く打つ「どきどきする・動悸がする」という意味です。" },
+    { "q": "名詞形は？", "a": "palpitation（動悸）です。" }
+  ],
+  "quiz": [
+    { "q": "palpitate の意味は？", "A": "心臓がどきどきする", "B": "深く眠る", "C": "ゆっくり歩く", "D": "静かに座る", "correct": "A" },
+    { "q": "palpitate の名詞形は？", "A": "palpitation", "B": "palpation のみ", "C": "population", "D": "palace", "correct": "A" }
+  ]
+},
+{
+  "english": "palpitation",
+  "pron": "ˌpælpɪˈteɪʃn",
+  "kana": "パルピテーション",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "ラテン語 palpitare（激しく動く）から",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "医学"],
+  "meaning_main": "動悸（心臓が速く強く打つのを感じること）",
+  "description": "palpitation（パルピテーション）は心臓が速く・強く・不規則に打つのを自分で感じること「動悸」を指す名詞です。しばしば複数形 palpitations で使います。意味を解説します。",
+  "keywords": ["palpitation 意味", "動悸 英語", "palpitate", "palpitation 使い方"],
+  "meanings": [
+    { "hinshi": "【名詞】動悸", "note": "心臓が速く・強く・不規則に打つのを意識して感じること。しばしば複数形 palpitations" }
+  ],
+  "usages": [
+    { "title": "① 症状", "desc": "動悸を感じる", "example_en": "She felt palpitations after the coffee.", "example_ja": "彼女はコーヒーの後に動悸を感じた。" },
+    { "title": "② 医学", "desc": "受診の話題", "example_en": "Heart palpitations can have many causes.", "example_ja": "動悸にはさまざまな原因がある。" }
+  ],
+  "warn": ["動詞は palpitate（どきどきする）。複数形 palpitations でよく使う。", "多くは無害だが、続く場合は医師に相談する。"],
+  "etym_note": "ラテン語 palpitare（激しく動く）→ palpitation。「心臓が激しく動くこと」の意。",
+  "etym_chain": [
+    { "node": "palpitare", "sub": "激しく動く", "era": "ラテン語" },
+    { "node": "palpitation", "sub": "動悸", "era": "17世紀" },
+    { "node": "palpitation", "sub": "動悸", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "heart palpitations", "ja": "心臓の動悸" },
+    { "en": "feel palpitations", "ja": "動悸を感じる" },
+    { "en": "cause palpitations", "ja": "動悸を引き起こす" },
+    { "en": "sudden palpitations", "ja": "突然の動悸" },
+    { "en": "palpitations and dizziness", "ja": "動悸とめまい" },
+    { "en": "frequent palpitations", "ja": "頻繁な動悸" }
+  ],
+  "related": [
+    { "en": "palpitate", "ja": "どきどきする" },
+    { "en": "heartbeat", "ja": "鼓動" },
+    { "en": "arrhythmia", "ja": "不整脈" },
+    { "en": "anxiety", "ja": "不安" }
+  ],
+  "faq": [
+    { "q": "palpitation の意味は？", "a": "心臓が速く・強く・不規則に打つのを自分で感じること「動悸」です。複数形 palpitations でよく使います。" },
+    { "q": "原因は？", "a": "緊張・カフェイン・運動・不整脈などさまざまです。続く場合は医師に相談しましょう。" }
+  ],
+  "quiz": [
+    { "q": "palpitation の意味は？", "A": "動悸", "B": "頭痛", "C": "発熱", "D": "せき", "correct": "A" },
+    { "q": "palpitation の動詞形は？", "A": "palpitate", "B": "populate", "C": "palpate のみ", "D": "operate", "correct": "A" }
+  ]
+},
+{
+  "english": "paltry",
+  "pron": "ˈpɔːltri",
+  "kana": "ポールトリー",
+  "hinshi": "形容詞",
+  "ld_pos": "形容詞",
+  "ld_etym": "方言 palt（がらくた）から",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "程度"],
+  "meaning_main": "ごくわずかな / つまらない / 微々たる",
+  "description": "paltry（ポールトリー）は金額や量がごくわずかで取るに足りない「微々たる・つまらない」という意味の形容詞です。意味・使い方・例文を解説します。",
+  "keywords": ["paltry 意味", "わずか 英語", "微々たる 英語", "paltry 使い方"],
+  "meanings": [
+    { "hinshi": "【形容詞】ごくわずかな・微々たる・つまらない", "note": "量・金額・価値が取るに足りないほど小さい" }
+  ],
+  "usages": [
+    { "title": "① 少ない金額", "desc": "微々たる", "example_en": "They offered a paltry sum for the work.", "example_ja": "彼らはその仕事にわずかな報酬しか出さなかった。" },
+    { "title": "② つまらないもの", "desc": "取るに足りない", "example_en": "It was a paltry excuse.", "example_ja": "それはくだらない言い訳だった。" }
+  ],
+  "warn": ["a paltry sum / amount（わずかな額）でよく使う。軽蔑的な含みがある。", "似た意味に meager（乏しい）、trivial（ささいな）。"],
+  "etym_note": "方言 palt / paltry（がらくた・くず）に由来するとされる。「取るに足りないもの」の意。",
+  "etym_chain": [
+    { "node": "palt", "sub": "がらくた", "era": "方言" },
+    { "node": "paltry", "sub": "つまらない", "era": "16世紀" },
+    { "node": "paltry", "sub": "微々たる", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "a paltry sum", "ja": "わずかな金額" },
+    { "en": "a paltry amount", "ja": "微々たる量" },
+    { "en": "a paltry wage", "ja": "わずかな賃金" },
+    { "en": "paltry excuse", "ja": "くだらない言い訳" },
+    { "en": "a paltry fee", "ja": "微々たる料金" },
+    { "en": "paltry compared to", "ja": "〜に比べて微々たる" }
+  ],
+  "related": [
+    { "en": "meager", "ja": "乏しい" },
+    { "en": "trivial", "ja": "ささいな" },
+    { "en": "insignificant", "ja": "取るに足りない" },
+    { "en": "measly", "ja": "わずかな" }
+  ],
+  "faq": [
+    { "q": "paltry の意味は？", "a": "金額や量がごくわずかで取るに足りない「微々たる・つまらない」という意味です。" },
+    { "q": "よく使う形は？", "a": "a paltry sum / amount（わずかな額・量）の形でよく使います。" }
+  ],
+  "quiz": [
+    { "q": "paltry の意味は？", "A": "ごくわずかな・微々たる", "B": "大量の", "C": "高価な", "D": "重要な", "correct": "A" },
+    { "q": "a paltry sum の意味は？", "A": "わずかな金額", "B": "巨額", "C": "借金", "D": "貯金", "correct": "A" }
+  ]
+},
+{
+  "english": "pampas",
+  "pron": "ˈpæmpəs",
+  "kana": "パンパス",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "ケチュア語 pampa（平原）から",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "地理"],
+  "meaning_main": "パンパス（南アメリカの広大な草原）",
+  "description": "pampas（パンパス）はアルゼンチンを中心に広がる南アメリカの広大な草原地帯を指す名詞です。牛の放牧やガウチョ（牧童）で知られます。意味を解説します。",
+  "keywords": ["pampas 意味", "パンパス", "南米 草原", "pampas 使い方"],
+  "meanings": [
+    { "hinshi": "【名詞】パンパス", "note": "アルゼンチンなど南アメリカに広がる肥沃な大草原。牧畜が盛んで、ガウチョ（牧童）の文化で知られる" }
+  ],
+  "usages": [
+    { "title": "① 地理", "desc": "大草原", "example_en": "Cattle graze on the vast pampas.", "example_ja": "牛が広大なパンパスで草を食む。" },
+    { "title": "② 文化", "desc": "牧畜・ガウチョ", "example_en": "The gauchos rode across the pampas.", "example_ja": "ガウチョたちはパンパスを馬で駆けた。" }
+  ],
+  "warn": ["ケチュア語 pampa（平らな土地・平原）に由来。複数形のように見えるが地域名。", "似た草原に北米のプレーリー（prairie）、北ユーラシアのステップ（steppe）がある。"],
+  "etym_note": "南米先住民ケチュア語 pampa（平原）から。スペイン語を経て英語に入った。",
+  "etym_chain": [
+    { "node": "pampa", "sub": "平原", "era": "ケチュア語" },
+    { "node": "pampas", "sub": "大草原", "era": "スペイン語" },
+    { "node": "pampas", "sub": "パンパス", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "the vast pampas", "ja": "広大なパンパス" },
+    { "en": "across the pampas", "ja": "パンパスを横切って" },
+    { "en": "the Argentine pampas", "ja": "アルゼンチンのパンパス" },
+    { "en": "cattle on the pampas", "ja": "パンパスの牛" },
+    { "en": "the fertile pampas", "ja": "肥沃なパンパス" },
+    { "en": "pampas grass", "ja": "パンパスグラス" }
+  ],
+  "related": [
+    { "en": "prairie", "ja": "プレーリー（北米の草原）" },
+    { "en": "steppe", "ja": "ステップ（草原）" },
+    { "en": "grassland", "ja": "草原" },
+    { "en": "gaucho", "ja": "ガウチョ（牧童）" }
+  ],
+  "faq": [
+    { "q": "pampas とは？", "a": "アルゼンチンなど南アメリカに広がる広大な草原地帯です。牧畜やガウチョ（牧童）の文化で知られます。" },
+    { "q": "prairie との違いは？", "a": "どちらも大草原ですが、pampas は南米、prairie は北米の草原を指します。" }
+  ],
+  "quiz": [
+    { "q": "pampas はどこの草原？", "A": "南アメリカ", "B": "北アメリカ", "C": "アフリカ", "D": "オーストラリア", "correct": "A" },
+    { "q": "pampas の語源 pampa の意味は？", "A": "平原", "B": "山", "C": "海", "D": "森", "correct": "A" }
+  ]
+},
+{
+  "english": "pandemonium",
+  "pron": "ˌpændɪˈmoʊniəm",
+  "kana": "パンデモニアム",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "ギリシャ語 pan（すべて）＋ daimon（悪霊）",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "状況"],
+  "meaning_main": "大混乱 / 大騒ぎ / 修羅場",
+  "description": "pandemonium（パンデモニアム）は騒然とした大混乱・大騒ぎを指す名詞です。ミルトンの詩で「魔王の宮殿」として作られた語が由来です。意味を解説します。",
+  "keywords": ["pandemonium 意味", "大混乱 英語", "大騒ぎ 英語", "pandemonium 使い方"],
+  "meanings": [
+    { "hinshi": "【名詞】大混乱・大騒ぎ", "note": "騒然として手がつけられないほどの混乱・騒動" }
+  ],
+  "usages": [
+    { "title": "① 混乱の場面", "desc": "騒然", "example_en": "Pandemonium broke out after the goal.", "example_ja": "ゴールの後、大騒ぎが巻き起こった。" },
+    { "title": "② 収拾がつかない", "desc": "手がつけられない", "example_en": "The announcement caused pandemonium in the hall.", "example_ja": "その発表はホールを大混乱に陥れた。" }
+  ],
+  "warn": ["pandemonium broke out（大混乱が起きた）が定番表現。", "17世紀の詩人ミルトンが『失楽園』で地獄の首都の名として造った語。"],
+  "etym_note": "ミルトンの『失楽園』で、ギリシャ語 pan（すべて）＋ daimon（悪霊）から「すべての悪霊の住む都」として造語された。後に「大混乱」の意に。",
+  "etym_chain": [
+    { "node": "pan + daimon", "sub": "すべて＋悪霊", "era": "古代ギリシャ語" },
+    { "node": "Pandemonium", "sub": "魔王の宮殿", "era": "1667年（失楽園）" },
+    { "node": "pandemonium", "sub": "大混乱", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "pandemonium broke out", "ja": "大混乱が起きた" },
+    { "en": "cause pandemonium", "ja": "大騒ぎを引き起こす" },
+    { "en": "utter pandemonium", "ja": "まったくの大混乱" },
+    { "en": "in the pandemonium", "ja": "混乱の中で" },
+    { "en": "scenes of pandemonium", "ja": "大混乱の光景" },
+    { "en": "sheer pandemonium", "ja": "全くの修羅場" }
+  ],
+  "related": [
+    { "en": "chaos", "ja": "混沌・大混乱" },
+    { "en": "uproar", "ja": "騒動" },
+    { "en": "bedlam", "ja": "大混乱" },
+    { "en": "mayhem", "ja": "無秩序・大騒ぎ" }
+  ],
+  "faq": [
+    { "q": "pandemonium の意味は？", "a": "騒然とした大混乱・大騒ぎを指します。手がつけられないほどの混乱です。" },
+    { "q": "由来は？", "a": "詩人ミルトンが『失楽園』で「すべての悪霊が住む地獄の都」として造った語が起源です。" }
+  ],
+  "quiz": [
+    { "q": "pandemonium の意味は？", "A": "大混乱・大騒ぎ", "B": "静けさ", "C": "秩序", "D": "喜び", "correct": "A" },
+    { "q": "pandemonium と近い意味の語は？", "A": "chaos", "B": "peace", "C": "silence", "D": "order", "correct": "A" }
+  ]
+},
+{
+  "english": "pane",
+  "pron": "peɪn",
+  "kana": "ペイン",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "ラテン語 pannus（布切れ）から",
+  "ld_level": "準1級",
+  "badges": ["中学生〜", "英検準1級", "CEFR B2", "建築・IT"],
+  "meaning_main": "窓ガラスの一枚 / (画面の)区画",
+  "description": "pane（ペイン）は窓枠にはまった一枚の板ガラス、また画面を分割した一つの区画を指す名詞です。同音の pain（痛み）と混同注意です。意味を解説します。",
+  "keywords": ["pane 意味", "窓ガラス 英語", "pane 使い方", "pain 違い"],
+  "meanings": [
+    { "hinshi": "【名詞】窓ガラスの一枚", "note": "窓枠にはめ込まれた一枚の平らなガラス（windowpane）" },
+    { "hinshi": "【名詞】(画面などの)区画", "note": "画面や表を区切った一つの部分（IT）" }
+  ],
+  "usages": [
+    { "title": "① 窓ガラス", "desc": "一枚のガラス", "example_en": "The ball broke a pane of glass.", "example_ja": "ボールが窓ガラスを一枚割った。" },
+    { "title": "② 画面の区画", "desc": "分割表示", "example_en": "Drag the divider to resize the pane.", "example_ja": "仕切りをドラッグして区画の大きさを変えて。" }
+  ],
+  "warn": ["同音の pain（痛み）とつづり・意味が異なるので注意。", "windowpane で「窓ガラス」。二重窓は double-pane。"],
+  "etym_note": "ラテン語 pannus（布切れ）→ 古フランス語 pan（一片）→ pane。もとは「一片・区画」の意。",
+  "etym_chain": [
+    { "node": "pannus", "sub": "布切れ", "era": "ラテン語" },
+    { "node": "pan", "sub": "一片・区画", "era": "古フランス語" },
+    { "node": "pane", "sub": "窓ガラスの一枚", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "a pane of glass", "ja": "一枚の窓ガラス" },
+    { "en": "windowpane", "ja": "窓ガラス" },
+    { "en": "broken pane", "ja": "割れた窓ガラス" },
+    { "en": "double-pane window", "ja": "二重窓" },
+    { "en": "the left pane", "ja": "左の区画" },
+    { "en": "a frosted pane", "ja": "曇りガラスの窓" }
+  ],
+  "related": [
+    { "en": "window", "ja": "窓" },
+    { "en": "glass", "ja": "ガラス" },
+    { "en": "frame", "ja": "枠" },
+    { "en": "pain", "ja": "痛み（同音異義語）" }
+  ],
+  "faq": [
+    { "q": "pane の意味は？", "a": "窓枠にはまった一枚の板ガラス、また画面を分割した一つの区画を指します。" },
+    { "q": "pain との違いは？", "a": "発音は同じ（ペイン）ですが、pane は「窓ガラス」、pain は「痛み」で、意味もつづりも異なります。" }
+  ],
+  "quiz": [
+    { "q": "pane の意味は？", "A": "窓ガラスの一枚", "B": "痛み", "C": "パン", "D": "鍋", "correct": "A" },
+    { "q": "pane と同じ発音の語は？", "A": "pain（痛み）", "B": "pan", "C": "pin", "D": "pen", "correct": "A" }
+  ]
+},
+{
+  "english": "panorama",
+  "pron": "ˌpænəˈrɑːmə",
+  "kana": "パノラマ",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "ギリシャ語 pan（すべて）＋ horama（眺め）",
+  "ld_level": "準1級",
+  "badges": ["中学生〜", "英検準1級", "CEFR B2", "風景"],
+  "meaning_main": "パノラマ / 全景 / 概観",
+  "description": "panorama（パノラマ）はぐるりと見渡せる広い眺め「全景」、また物事の全体像「概観」を指す名詞です。意味・使い方を解説します。",
+  "keywords": ["panorama 意味", "パノラマ 英語", "全景 英語", "panorama 使い方"],
+  "meanings": [
+    { "hinshi": "【名詞】全景・パノラマ", "note": "広く途切れなく見渡せる眺め" },
+    { "hinshi": "【名詞】概観・全体像", "note": "ある物事の全体をひと目で見わたすような見方" }
+  ],
+  "usages": [
+    { "title": "① 景色", "desc": "広い眺め", "example_en": "The hilltop offers a panorama of the city.", "example_ja": "丘の上からは街の全景が見渡せる。" },
+    { "title": "② 概観", "desc": "全体像", "example_en": "The book gives a panorama of modern history.", "example_ja": "その本は現代史の全体像を示す。" }
+  ],
+  "warn": ["形容詞は panoramic（見晴らしのよい・全景の）。", "pan（すべて）＋ horama（眺め）という作り。"],
+  "etym_note": "ギリシャ語 pan（すべて）と horama（眺め）から作られた語。18世紀末、360度の絵画の名として生まれた。",
+  "etym_chain": [
+    { "node": "pan + horama", "sub": "すべて＋眺め", "era": "古代ギリシャ語" },
+    { "node": "panorama", "sub": "全景画", "era": "18世紀末" },
+    { "node": "panorama", "sub": "全景・概観", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "a stunning panorama", "ja": "見事な全景" },
+    { "en": "a panorama of the city", "ja": "街の全景" },
+    { "en": "panoramic view", "ja": "パノラマの眺め" },
+    { "en": "a wide panorama", "ja": "広い全景" },
+    { "en": "a panorama of history", "ja": "歴史の概観" },
+    { "en": "mountain panorama", "ja": "山々の全景" }
+  ],
+  "related": [
+    { "en": "panoramic", "ja": "見晴らしのよい" },
+    { "en": "view", "ja": "眺め" },
+    { "en": "scenery", "ja": "景色" },
+    { "en": "overview", "ja": "概観" }
+  ],
+  "faq": [
+    { "q": "panorama の意味は？", "a": "ぐるりと見渡せる広い眺め「全景」、また物事の全体像「概観」を指します。" },
+    { "q": "形容詞形は？", "a": "panoramic（見晴らしのよい・全景の）です。" }
+  ],
+  "quiz": [
+    { "q": "panorama の意味は？", "A": "全景・広い眺め", "B": "小さな部屋", "C": "暗闇", "D": "騒音", "correct": "A" },
+    { "q": "panorama の形容詞形は？", "A": "panoramic", "B": "panorama のみ", "C": "panic", "D": "pandemic", "correct": "A" }
+  ]
+},
+{
+  "english": "pant",
+  "pron": "pænt",
+  "kana": "パント",
+  "hinshi": "動詞 / 名詞",
+  "ld_pos": "動詞",
+  "ld_etym": "古フランス語 pantaisier（あえぐ）から",
+  "ld_level": "準1級",
+  "badges": ["中学生〜", "英検準1級", "CEFR B2", "動作"],
+  "meaning_main": "はあはあと息をする / あえぐ",
+  "description": "pant（パント）は運動や暑さで「はあはあと息をする・あえぐ」という意味の動詞です。犬が舌を出して呼吸する様子にも使います。意味・使い方を解説します。",
+  "keywords": ["pant 意味", "あえぐ 英語", "はあはあ 英語", "pant 使い方"],
+  "meanings": [
+    { "hinshi": "【動詞】はあはあと息をする・あえぐ", "note": "激しい運動・暑さ・興奮などで速く浅い呼吸をする" },
+    { "hinshi": "【動詞】pant for〜", "note": "〜を切望する（あえぐほど欲しがる）" }
+  ],
+  "usages": [
+    { "title": "① 息を切らす", "desc": "はあはあする", "example_en": "He was panting after the run.", "example_ja": "彼は走った後はあはあと息をしていた。" },
+    { "title": "② 犬など", "desc": "舌を出して呼吸", "example_en": "The dog panted in the heat.", "example_ja": "犬は暑さで舌を出してあえいだ。" }
+  ],
+  "warn": ["名詞 pants（複数形）は「ズボン・下着」で別の語。動詞 pant（あえぐ）と区別する。", "pant for / after〜 で「〜を切望する」という比喩表現。"],
+  "etym_note": "古フランス語 pantaisier（あえぐ）に由来。ギリシャ語 phantasioun（幻を見る＝息をあえがせる）にさかのぼるとされる。",
+  "etym_chain": [
+    { "node": "pantaisier", "sub": "あえぐ", "era": "古フランス語" },
+    { "node": "pant", "sub": "あえぐ", "era": "中英語" },
+    { "node": "pant", "sub": "はあはあする", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "pant for breath", "ja": "息を切らす" },
+    { "en": "panting heavily", "ja": "激しくあえいで" },
+    { "en": "the dog panted", "ja": "犬があえいだ" },
+    { "en": "pant and gasp", "ja": "はあはああえぐ" },
+    { "en": "pant after a run", "ja": "走って息を切らす" },
+    { "en": "out of breath, panting", "ja": "息切れしてあえぐ" }
+  ],
+  "related": [
+    { "en": "gasp", "ja": "はっと息をのむ・あえぐ" },
+    { "en": "breathe", "ja": "呼吸する" },
+    { "en": "puff", "ja": "息を切らす" },
+    { "en": "wheeze", "ja": "ぜいぜいする" }
+  ],
+  "faq": [
+    { "q": "pant の意味は？", "a": "運動や暑さで「はあはあと息をする・あえぐ」という意味の動詞です。犬が舌を出して呼吸する様子にも使います。" },
+    { "q": "pants（ズボン）と関係ある？", "a": "いいえ。動詞 pant（あえぐ）と名詞 pants（ズボン）は別の語です。" }
+  ],
+  "quiz": [
+    { "q": "pant の意味は？", "A": "はあはあと息をする", "B": "ぐっすり眠る", "C": "静かに座る", "D": "大声で歌う", "correct": "A" },
+    { "q": "pant for breath の意味は？", "A": "息を切らす", "B": "深呼吸する", "C": "息を止める", "D": "あくびする", "correct": "A" }
+  ]
+},
+{
+  "english": "pantheism",
+  "pron": "ˈpænθiɪzəm",
+  "kana": "パンセイズム",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "ギリシャ語 pan（すべて）＋ theos（神）",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "宗教・哲学"],
+  "meaning_main": "汎神論（神と宇宙・自然を同一とみなす思想）",
+  "description": "pantheism（パンセイズム）は神と宇宙・自然のすべてを同一のものとみなす思想「汎神論」を指す名詞です。意味・使い方を解説します。",
+  "keywords": ["pantheism 意味", "汎神論 英語", "pantheist", "pantheism 使い方"],
+  "meanings": [
+    { "hinshi": "【名詞】汎神論", "note": "神は宇宙・自然のすべてに宿り、神と世界は同一だとする思想・信仰" }
+  ],
+  "usages": [
+    { "title": "① 思想・宗教", "desc": "神＝自然", "example_en": "Pantheism sees God in all of nature.", "example_ja": "汎神論は自然のすべてに神を見る。" },
+    { "title": "② 哲学の話題", "desc": "宗教思想", "example_en": "Spinoza is associated with pantheism.", "example_ja": "スピノザは汎神論と結び付けられる。" }
+  ],
+  "warn": ["汎神論を信じる人は pantheist、形容詞は pantheistic。", "唯一神を世界の外に置く一神教（monotheism）や、多くの神を認める多神教（polytheism）と対比される。"],
+  "etym_note": "ギリシャ語 pan（すべて）と theos（神）から。「すべてが神」の意。18世紀初めに用語として定着。",
+  "etym_chain": [
+    { "node": "pan + theos", "sub": "すべて＋神", "era": "古代ギリシャ語" },
+    { "node": "pantheism", "sub": "汎神論", "era": "18世紀" },
+    { "node": "pantheism", "sub": "汎神論", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "believe in pantheism", "ja": "汎神論を信じる" },
+    { "en": "a form of pantheism", "ja": "汎神論の一形態" },
+    { "en": "nature and pantheism", "ja": "自然と汎神論" },
+    { "en": "pantheistic view", "ja": "汎神論的な見方" },
+    { "en": "ancient pantheism", "ja": "古代の汎神論" },
+    { "en": "philosophical pantheism", "ja": "哲学的な汎神論" }
+  ],
+  "related": [
+    { "en": "pantheist", "ja": "汎神論者" },
+    { "en": "monotheism", "ja": "一神教" },
+    { "en": "polytheism", "ja": "多神教" },
+    { "en": "religion", "ja": "宗教" }
+  ],
+  "faq": [
+    { "q": "pantheism とは？", "a": "神と宇宙・自然のすべてを同一のものとみなす思想「汎神論」です。" },
+    { "q": "一神教との違いは？", "a": "一神教（monotheism）は世界の外に唯一神を置きますが、汎神論は神と世界（自然）を同一とみなします。" }
+  ],
+  "quiz": [
+    { "q": "pantheism の意味は？", "A": "汎神論（神＝自然）", "B": "無神論", "C": "一神教", "D": "多神教", "correct": "A" },
+    { "q": "pantheism の pan の意味は？", "A": "すべて", "B": "半分", "C": "反対", "D": "前", "correct": "A" }
+  ]
+},
+{
+  "english": "papyrus",
+  "pron": "pəˈpaɪrəs",
+  "kana": "パピルス",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "ギリシャ語 papyros（パピルス草）から",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "歴史"],
+  "meaning_main": "パピルス（古代エジプトの紙／その原料の植物）",
+  "description": "papyrus（パピルス）は古代エジプトで紙のように使われた筆記材料、またその原料となる水辺の植物を指す名詞です。paper（紙）の語源でもあります。意味を解説します。",
+  "keywords": ["papyrus 意味", "パピルス 英語", "古代エジプト 紙", "papyrus 使い方"],
+  "meanings": [
+    { "hinshi": "【名詞】パピルス", "note": "水辺に生えるカヤツリグサ科の植物、またその茎から作った古代エジプトの紙状の筆記材料" }
+  ],
+  "usages": [
+    { "title": "① 古代の紙", "desc": "筆記材料", "example_en": "The scribe wrote on papyrus.", "example_ja": "書記はパピルスに文字を書いた。" },
+    { "title": "② 植物", "desc": "水辺の草", "example_en": "Papyrus grows along the Nile.", "example_ja": "パピルスはナイル川沿いに生える。" }
+  ],
+  "warn": ["複数形は papyri または papyruses。", "paper（紙）は papyrus に由来する語。パピルスは現代の紙とは製法が異なる。"],
+  "etym_note": "ギリシャ語 papyros（パピルス草）から。ラテン語 papyrus を経て、英語 paper（紙）の語源にもなった。",
+  "etym_chain": [
+    { "node": "papyros", "sub": "パピルス草", "era": "古代ギリシャ語" },
+    { "node": "papyrus", "sub": "パピルス", "era": "ラテン語" },
+    { "node": "papyrus", "sub": "パピルス", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "a papyrus scroll", "ja": "パピルスの巻物" },
+    { "en": "written on papyrus", "ja": "パピルスに書かれた" },
+    { "en": "ancient papyrus", "ja": "古代のパピルス" },
+    { "en": "a sheet of papyrus", "ja": "パピルス一枚" },
+    { "en": "papyrus plant", "ja": "パピルス草" },
+    { "en": "Egyptian papyrus", "ja": "エジプトのパピルス" }
+  ],
+  "related": [
+    { "en": "paper", "ja": "紙" },
+    { "en": "scroll", "ja": "巻物" },
+    { "en": "parchment", "ja": "羊皮紙" },
+    { "en": "reed", "ja": "アシ・水辺の草" }
+  ],
+  "faq": [
+    { "q": "papyrus とは？", "a": "古代エジプトで紙のように使われた筆記材料、またその原料となる水辺の植物です。" },
+    { "q": "paper との関係は？", "a": "英語 paper（紙）は papyrus に由来します。ただしパピルスは現代の紙とは作り方が異なります。" }
+  ],
+  "quiz": [
+    { "q": "papyrus とは？", "A": "古代エジプトの紙状の筆記材料", "B": "金属", "C": "宝石", "D": "香辛料", "correct": "A" },
+    { "q": "papyrus に由来する現代の語は？", "A": "paper（紙）", "B": "pepper", "C": "puppy", "D": "pupil", "correct": "A" }
+  ]
+},
+{
+  "english": "parakeet",
+  "pron": "ˈpærəkiːt",
+  "kana": "パラキート",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "フランス語 perroquet（オウム）から",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "動物"],
+  "meaning_main": "インコ（小型で長い尾のオウムの仲間）",
+  "description": "parakeet（パラキート）は小型で長い尾を持つインコの仲間の鳥を指す名詞です。セキセイインコなどが代表で、ペットとして人気です。意味を解説します。",
+  "keywords": ["parakeet 意味", "インコ 英語", "セキセイインコ 英語", "parakeet 使い方"],
+  "meanings": [
+    { "hinshi": "【名詞】インコ", "note": "小型で長い尾を持つオウムの仲間。セキセイインコなど。カラフルでよくなつき、ペットとして人気" }
+  ],
+  "usages": [
+    { "title": "① ペット", "desc": "飼い鳥", "example_en": "She keeps a green parakeet as a pet.", "example_ja": "彼女は緑のインコをペットとして飼っている。" },
+    { "title": "② 生態", "desc": "鳥の話題", "example_en": "Parakeets can learn to mimic words.", "example_ja": "インコは言葉をまねることを覚えられる。" }
+  ],
+  "warn": ["大型で冠羽のあるオウムは parrot / cockatoo。parakeet は小型で尾が長い。", "セキセイインコは budgerigar（budgie）とも呼ばれる。"],
+  "etym_note": "フランス語 perroquet（オウム）に由来する parakeet。小型のオウムの仲間を指す。",
+  "etym_chain": [
+    { "node": "perroquet", "sub": "オウム", "era": "フランス語" },
+    { "node": "parakeet", "sub": "インコ", "era": "16世紀" },
+    { "node": "parakeet", "sub": "インコ", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "a pet parakeet", "ja": "ペットのインコ" },
+    { "en": "a green parakeet", "ja": "緑のインコ" },
+    { "en": "a talking parakeet", "ja": "しゃべるインコ" },
+    { "en": "keep a parakeet", "ja": "インコを飼う" },
+    { "en": "a colorful parakeet", "ja": "色鮮やかなインコ" },
+    { "en": "parakeet cage", "ja": "インコのかご" }
+  ],
+  "related": [
+    { "en": "parrot", "ja": "オウム" },
+    { "en": "budgie", "ja": "セキセイインコ" },
+    { "en": "cockatoo", "ja": "オウム（冠羽つき）" },
+    { "en": "bird", "ja": "鳥" }
+  ],
+  "faq": [
+    { "q": "parakeet とは？", "a": "小型で長い尾を持つインコの仲間の鳥です。セキセイインコなどが代表で、ペットとして人気です。" },
+    { "q": "parrot との違いは？", "a": "parrot は一般にオウム全般や大型のものを指し、parakeet は小型で尾の長い仲間を指します。" }
+  ],
+  "quiz": [
+    { "q": "parakeet とは？", "A": "小型のインコ", "B": "大型の犬", "C": "魚", "D": "昆虫", "correct": "A" },
+    { "q": "parakeet の特徴は？", "A": "小型で長い尾", "B": "泳ぐのが得意", "C": "飛べない", "D": "夜だけ活動する", "correct": "A" }
+  ]
+},
+{
+  "english": "parallelogram",
+  "pron": "ˌpærəˈleləɡræm",
+  "kana": "パラレログラム",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "ギリシャ語 parallelos（平行の）＋ gramme（線）",
+  "ld_level": "準1級",
+  "badges": ["中学生〜", "英検準1級", "CEFR B1", "数学"],
+  "meaning_main": "平行四辺形",
+  "description": "parallelogram（パラレログラム）は向かい合う2組の辺がそれぞれ平行な四角形「平行四辺形」を指す数学の名詞です。意味・性質を解説します。",
+  "keywords": ["parallelogram 意味", "平行四辺形 英語", "parallelogram 使い方", "四角形 英語"],
+  "meanings": [
+    { "hinshi": "【名詞】平行四辺形", "note": "向かい合う2組の辺がそれぞれ平行な四角形。向かい合う辺の長さと角が等しい" }
+  ],
+  "usages": [
+    { "title": "① 図形", "desc": "四角形の一種", "example_en": "A parallelogram has two pairs of parallel sides.", "example_ja": "平行四辺形は2組の平行な辺を持つ。" },
+    { "title": "② 面積の計算", "desc": "数学の問題", "example_en": "The area of a parallelogram is base times height.", "example_ja": "平行四辺形の面積は底辺×高さだ。" }
+  ],
+  "warn": ["長方形（rectangle）・ひし形（rhombus）・正方形（square）は平行四辺形の特別な場合。", "parallel（平行の）＋ gram（描かれたもの）という作り。"],
+  "etym_note": "ギリシャ語 parallelos（平行の）と gramme（線・描いたもの）から。「平行な線で囲まれた図形」の意。",
+  "etym_chain": [
+    { "node": "parallelos + gramme", "sub": "平行＋線", "era": "古代ギリシャ語" },
+    { "node": "parallelogram", "sub": "平行四辺形", "era": "16世紀" },
+    { "node": "parallelogram", "sub": "平行四辺形", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "the area of a parallelogram", "ja": "平行四辺形の面積" },
+    { "en": "draw a parallelogram", "ja": "平行四辺形を描く" },
+    { "en": "a parallelogram shape", "ja": "平行四辺形の形" },
+    { "en": "opposite sides of a parallelogram", "ja": "平行四辺形の向かい合う辺" },
+    { "en": "properties of a parallelogram", "ja": "平行四辺形の性質" },
+    { "en": "a slanted parallelogram", "ja": "傾いた平行四辺形" }
+  ],
+  "related": [
+    { "en": "rectangle", "ja": "長方形" },
+    { "en": "rhombus", "ja": "ひし形" },
+    { "en": "quadrilateral", "ja": "四角形" },
+    { "en": "parallel", "ja": "平行の" }
+  ],
+  "faq": [
+    { "q": "parallelogram とは？", "a": "向かい合う2組の辺がそれぞれ平行な四角形「平行四辺形」です。向かい合う辺の長さと角が等しくなります。" },
+    { "q": "面積の求め方は？", "a": "底辺×高さ（base × height）で求められます。" }
+  ],
+  "quiz": [
+    { "q": "parallelogram とは？", "A": "平行四辺形", "B": "円", "C": "三角形", "D": "五角形", "correct": "A" },
+    { "q": "平行四辺形の面積の公式は？", "A": "底辺×高さ", "B": "半径×半径×π", "C": "縦×横×高さ", "D": "底辺×高さ÷2", "correct": "A" }
+  ]
+},
+{
+  "english": "paralyzed",
+  "pron": "ˈpærəlaɪzd",
+  "kana": "パラライズド",
+  "hinshi": "形容詞 / 動詞(過去)",
+  "ld_pos": "形容詞",
+  "ld_etym": "ギリシャ語 paralysis（まひ）から",
+  "ld_level": "準1級",
+  "badges": ["中学生〜", "英検準1級", "CEFR B2", "医学・状態"],
+  "meaning_main": "まひした / 身動きできない / 機能停止した",
+  "description": "paralyzed（パラライズド）は体がまひして動かせない、また恐怖などで身動きできない、機能が停止したという意味の形容詞です。意味・使い方を解説します。",
+  "keywords": ["paralyzed 意味", "まひ 英語", "paralyze", "paralyzed 使い方"],
+  "meanings": [
+    { "hinshi": "【形容詞】まひした・身動きできない", "note": "体の一部や全身が動かせない、または恐怖などで動けない" },
+    { "hinshi": "【形容詞】機能停止した", "note": "組織・交通などが動かなくなった" }
+  ],
+  "usages": [
+    { "title": "① 体のまひ", "desc": "動かせない", "example_en": "He was paralyzed from the waist down.", "example_ja": "彼は腰から下がまひしていた。" },
+    { "title": "② 恐怖・機能停止", "desc": "動けない", "example_en": "She was paralyzed with fear.", "example_ja": "彼女は恐怖で身動きできなかった。" }
+  ],
+  "warn": ["動詞は paralyze（まひさせる、英綴りは paralyse）、名詞は paralysis（まひ）。", "比喩で「（都市機能などが）まひする」の意味でも使う。"],
+  "etym_note": "ギリシャ語 paralysis（体の片側の弛緩＝まひ）→ paralyze → paralyzed。",
+  "etym_chain": [
+    { "node": "paralysis", "sub": "まひ", "era": "古代ギリシャ語" },
+    { "node": "paralyze", "sub": "まひさせる", "era": "19世紀" },
+    { "node": "paralyzed", "sub": "まひした", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "paralyzed with fear", "ja": "恐怖で動けない" },
+    { "en": "partially paralyzed", "ja": "部分的にまひした" },
+    { "en": "left paralyzed", "ja": "まひが残った" },
+    { "en": "paralyzed legs", "ja": "まひした脚" },
+    { "en": "the city was paralyzed", "ja": "都市が機能停止した" },
+    { "en": "temporarily paralyzed", "ja": "一時的にまひした" }
+  ],
+  "related": [
+    { "en": "paralyze", "ja": "まひさせる" },
+    { "en": "paralysis", "ja": "まひ" },
+    { "en": "numb", "ja": "感覚のない" },
+    { "en": "immobile", "ja": "動けない" }
+  ],
+  "faq": [
+    { "q": "paralyzed の意味は？", "a": "体がまひして動かせない、また恐怖などで身動きできない、機能が停止したという意味です。" },
+    { "q": "動詞・名詞形は？", "a": "動詞は paralyze（まひさせる）、名詞は paralysis（まひ）です。" }
+  ],
+  "quiz": [
+    { "q": "paralyzed の意味は？", "A": "まひした・身動きできない", "B": "元気な", "C": "速い", "D": "強い", "correct": "A" },
+    { "q": "paralyzed with fear の意味は？", "A": "恐怖で動けない", "B": "勇気がわく", "C": "喜ぶ", "D": "眠くなる", "correct": "A" }
+  ]
+}
+]
