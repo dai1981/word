@@ -1,0 +1,991 @@
+[
+{
+  "english": "needed",
+  "pron": "ˈniːdɪd",
+  "kana": "ニーデッド",
+  "hinshi": "動詞(過去) / 形容詞",
+  "ld_pos": "形容詞",
+  "ld_etym": "動詞 need（必要とする）＋ -ed",
+  "ld_level": "4級",
+  "badges": ["小学生〜", "英検4級", "CEFR A2", "基本語"],
+  "meaning_main": "必要とされた / 必要な",
+  "description": "needed（ニーデッド）は動詞 need（必要とする）の過去・過去分詞で、「必要とされた・必要な」という意味です。much-needed などの形でも使います。意味を解説します。",
+  "keywords": ["needed 意味", "need 過去形", "必要 英語", "needed 使い方"],
+  "meanings": [
+    { "hinshi": "【動詞】need の過去・過去分詞", "note": "必要とした・必要とされた" },
+    { "hinshi": "【形容詞】必要とされる", "note": "求められている（much-needed など）" }
+  ],
+  "usages": [
+    { "title": "① 過去形", "desc": "必要だった", "example_en": "We needed more time to finish.", "example_ja": "終わらせるにはもっと時間が必要だった。" },
+    { "title": "② 形容詞的に", "desc": "必要とされる", "example_en": "The rain was a much-needed relief.", "example_ja": "その雨は待ち望まれた恵みだった。" }
+  ],
+  "warn": ["much-needed（待ち望まれた・切実に必要な）、badly needed（ぜひとも必要な）でよく使う。", "if needed で「必要なら」。"],
+  "etym_note": "古英語 nied（必要）→ need（必要とする）に -ed を付けた過去形・過去分詞。",
+  "etym_chain": [
+    { "node": "nied", "sub": "必要", "era": "古英語" },
+    { "node": "need", "sub": "必要とする", "era": "中英語" },
+    { "node": "needed", "sub": "必要とされた", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "much-needed", "ja": "待ち望まれた" },
+    { "en": "badly needed", "ja": "ぜひとも必要な" },
+    { "en": "if needed", "ja": "必要なら" },
+    { "en": "as needed", "ja": "必要に応じて" },
+    { "en": "urgently needed", "ja": "緊急に必要な" },
+    { "en": "help is needed", "ja": "助けが必要だ" }
+  ],
+  "related": [
+    { "en": "need", "ja": "必要とする" },
+    { "en": "necessary", "ja": "必要な" },
+    { "en": "required", "ja": "必要とされる" },
+    { "en": "essential", "ja": "不可欠な" }
+  ],
+  "faq": [
+    { "q": "need の過去形は？", "a": "needed です。need-needed-needed と規則変化します。" },
+    { "q": "much-needed とは？", "a": "「待ち望まれた・切実に必要とされた」という意味の形容詞的な表現です。" }
+  ],
+  "quiz": [
+    { "q": "need の過去形は？", "A": "needed", "B": "need", "C": "nod", "D": "neded", "correct": "A" },
+    { "q": "much-needed の意味は？", "A": "不要な", "B": "待ち望まれた・切実に必要な", "C": "少しの", "D": "余分な", "correct": "B" }
+  ]
+},
+{
+  "english": "neglectful",
+  "pron": "nɪˈɡlektfl",
+  "kana": "ネグレクトフル",
+  "hinshi": "形容詞",
+  "ld_pos": "形容詞",
+  "ld_etym": "neglect（怠る）＋ -ful",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "性質"],
+  "meaning_main": "怠慢な / 世話を怠る / なおざりにする",
+  "description": "neglectful（ネグレクトフル）はすべきことや世話を怠る「怠慢な・なおざりにする」という意味の形容詞です。意味・使い方を解説します。",
+  "keywords": ["neglectful 意味", "怠慢 英語", "neglect 形容詞", "neglectful 使い方"],
+  "meanings": [
+    { "hinshi": "【形容詞】怠慢な・世話を怠る", "note": "注意や世話をなおざりにし、なすべきことを怠る" }
+  ],
+  "usages": [
+    { "title": "① 世話を怠る", "desc": "面倒を見ない", "example_en": "The neglectful owner rarely fed the dog.", "example_ja": "その怠慢な飼い主はめったに犬に餌をやらなかった。" },
+    { "title": "② 義務を怠る", "desc": "なおざり", "example_en": "He was neglectful of his duties.", "example_ja": "彼は職務をなおざりにしていた。" }
+  ],
+  "warn": ["動詞・名詞は neglect（怠る・怠慢）。of を伴い be neglectful of（〜を怠る）の形で使う。", "-ful は「〜に満ちた」を表す接尾辞。"],
+  "etym_note": "ラテン語 neglegere（構わない・怠る）→ neglect に、-ful を付けた形容詞。",
+  "etym_chain": [
+    { "node": "neglegere", "sub": "構わない・怠る", "era": "ラテン語" },
+    { "node": "neglect", "sub": "怠る", "era": "16世紀" },
+    { "node": "neglectful", "sub": "怠慢な", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "neglectful parent", "ja": "育児を怠る親" },
+    { "en": "neglectful of duty", "ja": "職務怠慢の" },
+    { "en": "a neglectful attitude", "ja": "なおざりな態度" },
+    { "en": "neglectful owner", "ja": "世話を怠る飼い主" },
+    { "en": "grossly neglectful", "ja": "ひどく怠慢な" },
+    { "en": "neglectful care", "ja": "なおざりな世話" }
+  ],
+  "related": [
+    { "en": "neglect", "ja": "怠る・怠慢" },
+    { "en": "careless", "ja": "不注意な" },
+    { "en": "negligent", "ja": "怠慢な・過失のある" },
+    { "en": "inattentive", "ja": "注意を怠る" }
+  ],
+  "faq": [
+    { "q": "neglectful の意味は？", "a": "すべきことや世話を怠る「怠慢な・なおざりにする」という意味です。" },
+    { "q": "negligent との違いは？", "a": "意味は近いですが、negligent は特に「（法的な）過失がある」という文脈で使われることが多いです。" }
+  ],
+  "quiz": [
+    { "q": "neglectful の意味は？", "A": "熱心な", "B": "怠慢な・世話を怠る", "C": "几帳面な", "D": "親切な", "correct": "B" },
+    { "q": "neglectful の動詞形は？", "A": "neglect", "B": "negate", "C": "neglet", "D": "negotiate", "correct": "A" }
+  ]
+},
+{
+  "english": "negotiable",
+  "pron": "nɪˈɡoʊʃiəbl",
+  "kana": "ネゴシアブル",
+  "hinshi": "形容詞",
+  "ld_pos": "形容詞",
+  "ld_etym": "negotiate（交渉する）＋ -able",
+  "ld_level": "準1級",
+  "badges": ["中学生〜", "英検準1級", "CEFR B2", "ビジネス"],
+  "meaning_main": "交渉の余地がある / 譲渡できる / 通行できる",
+  "description": "negotiable（ネゴシアブル）は交渉して変えられる「交渉の余地がある」、また証券が「譲渡できる」、道が「通行できる」という意味の形容詞です。意味を解説します。",
+  "keywords": ["negotiable 意味", "交渉の余地 英語", "negotiable 使い方", "negotiate 形容詞"],
+  "meanings": [
+    { "hinshi": "【形容詞】交渉の余地がある", "note": "話し合いで条件を変えられる" },
+    { "hinshi": "【形容詞】(証券が)譲渡できる", "note": "第三者に譲り渡せる（negotiable instrument）" },
+    { "hinshi": "【形容詞】通行できる", "note": "（道・川などを）通り抜けられる" }
+  ],
+  "usages": [
+    { "title": "① 交渉可能", "desc": "条件を変えられる", "example_en": "The price is negotiable.", "example_ja": "価格は交渉の余地がある。" },
+    { "title": "② 譲れない場合", "desc": "not negotiable", "example_en": "Safety rules are not negotiable.", "example_ja": "安全規則は譲れない（交渉の余地がない）。" }
+  ],
+  "warn": ["not negotiable / non-negotiable で「交渉の余地がない・譲れない」。", "動詞は negotiate（交渉する）、名詞は negotiation（交渉）。"],
+  "etym_note": "ラテン語 negotiari（商売する）→ negotiate（交渉する）に、可能を表す -able を付けた語。",
+  "etym_chain": [
+    { "node": "negotiari", "sub": "商売する", "era": "ラテン語" },
+    { "node": "negotiate", "sub": "交渉する", "era": "16世紀" },
+    { "node": "negotiable", "sub": "交渉の余地がある", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "the price is negotiable", "ja": "価格は交渉可能" },
+    { "en": "non-negotiable", "ja": "交渉の余地がない" },
+    { "en": "negotiable terms", "ja": "交渉できる条件" },
+    { "en": "salary is negotiable", "ja": "給与は応相談" },
+    { "en": "negotiable instrument", "ja": "譲渡可能証券" },
+    { "en": "not negotiable", "ja": "譲れない" }
+  ],
+  "related": [
+    { "en": "negotiate", "ja": "交渉する" },
+    { "en": "negotiation", "ja": "交渉" },
+    { "en": "flexible", "ja": "柔軟な" },
+    { "en": "non-negotiable", "ja": "交渉の余地がない" }
+  ],
+  "faq": [
+    { "q": "negotiable の意味は？", "a": "交渉して変えられる「交渉の余地がある」という意味が中心です。証券が「譲渡できる」、道が「通行できる」意味もあります。" },
+    { "q": "non-negotiable とは？", "a": "「交渉の余地がない・譲れない」という意味です。" }
+  ],
+  "quiz": [
+    { "q": "The price is negotiable. の意味は？", "A": "価格は固定だ", "B": "価格は交渉の余地がある", "C": "価格は高い", "D": "価格は無料だ", "correct": "B" },
+    { "q": "non-negotiable の意味は？", "A": "交渉できる", "B": "交渉の余地がない", "C": "安い", "D": "新しい", "correct": "B" }
+  ]
+},
+{
+  "english": "nematode",
+  "pron": "ˈnemətoʊd",
+  "kana": "ネマトード",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "ギリシャ語 nema（糸）＋ eidos（形）",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "生物"],
+  "meaning_main": "線虫（細長い糸状の虫）",
+  "description": "nematode（ネマトード）は細長い糸のような形をした「線虫」を指す名詞です。土の中や生物の体内など、あらゆる環境にすみます。意味を解説します。",
+  "keywords": ["nematode 意味", "線虫 英語", "nematode 使い方", "roundworm"],
+  "meanings": [
+    { "hinshi": "【名詞】線虫", "note": "細長く糸状の体を持つ虫の総称。土壌・水中・動植物の体内など広くすむ" }
+  ],
+  "usages": [
+    { "title": "① 生物学", "desc": "虫の分類", "example_en": "Nematodes are among the most common animals on Earth.", "example_ja": "線虫は地球上で最もありふれた動物の一つだ。" },
+    { "title": "② 農業・医学", "desc": "害虫・寄生虫", "example_en": "Some nematodes damage crop roots.", "example_ja": "一部の線虫は作物の根を傷める。" }
+  ],
+  "warn": ["roundworm（回虫・線虫）とも呼ばれる。有益なものも有害な寄生虫もいる。", "土壌の健康を測る指標にも使われる。"],
+  "etym_note": "ギリシャ語 nema（糸）と eidos（形）から。「糸のような形の」の意。",
+  "etym_chain": [
+    { "node": "nema + eidos", "sub": "糸＋形", "era": "古代ギリシャ語" },
+    { "node": "nematode", "sub": "線虫", "era": "19世紀" },
+    { "node": "nematode", "sub": "線虫", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "a parasitic nematode", "ja": "寄生性の線虫" },
+    { "en": "soil nematode", "ja": "土壌線虫" },
+    { "en": "nematode infection", "ja": "線虫による感染" },
+    { "en": "study nematodes", "ja": "線虫を研究する" },
+    { "en": "harmful nematode", "ja": "有害な線虫" },
+    { "en": "microscopic nematode", "ja": "顕微鏡サイズの線虫" }
+  ],
+  "related": [
+    { "en": "roundworm", "ja": "回虫・線虫" },
+    { "en": "worm", "ja": "虫" },
+    { "en": "parasite", "ja": "寄生虫" },
+    { "en": "soil", "ja": "土壌" }
+  ],
+  "faq": [
+    { "q": "nematode とは？", "a": "細長い糸のような形をした「線虫」です。土壌・水中・動植物の体内など、あらゆる環境にすみます。" },
+    { "q": "みんな害虫なの？", "a": "いいえ。作物を傷める有害なものもいますが、土壌を健康に保つ有益な線虫も多くいます。" }
+  ],
+  "quiz": [
+    { "q": "nematode とは？", "A": "細長い糸状の虫（線虫）", "B": "大型の魚", "C": "鳥の一種", "D": "花の名前", "correct": "A" },
+    { "q": "nematode の語源 nema の意味は？", "A": "糸", "B": "石", "C": "水", "D": "火", "correct": "A" }
+  ]
+},
+{
+  "english": "nepalese",
+  "pron": "ˌnepəˈliːz",
+  "kana": "ネパリーズ",
+  "hinshi": "形容詞 / 名詞(固有名詞)",
+  "ld_pos": "形容詞",
+  "ld_etym": "地名 Nepal（ネパール）＋ -ese",
+  "ld_level": "準1級",
+  "badges": ["中学生〜", "英検準1級", "CEFR B2", "地名"],
+  "meaning_main": "ネパールの / ネパール人",
+  "description": "Nepalese（ネパリーズ）はヒマラヤの国ネパールに関する形容詞、またネパール人を指す名詞です。エベレストで知られる国です。意味を解説します。",
+  "keywords": ["nepalese 意味", "ネパール 英語", "nepalese 使い方", "ネパール人 英語"],
+  "meanings": [
+    { "hinshi": "【形容詞】ネパールの", "note": "ヒマラヤ山脈の国ネパールやその文化に関する" },
+    { "hinshi": "【名詞】ネパール人", "note": "ネパールの国籍・出身の人（単複同形）" }
+  ],
+  "usages": [
+    { "title": "① 国・文化", "desc": "ネパールの", "example_en": "Nepalese food often includes lentils and rice.", "example_ja": "ネパール料理にはよく豆と米が使われる。" },
+    { "title": "② 人を指す", "desc": "国籍", "example_en": "Many Nepalese work as mountain guides.", "example_ja": "多くのネパール人が山岳ガイドとして働く。" }
+  ],
+  "warn": ["国は Nepal（ネパール）。Nepali（ネパリ）は言語名・人を指す別語としても使う。", "見出し語はファイル名の都合で小文字だが、固有名詞なので Nepalese と大文字で書く。"],
+  "etym_note": "国名 Nepal（ネパール）に、「〜の・〜人」を表す -ese を付けた語。",
+  "etym_chain": [
+    { "node": "Nepal", "sub": "ネパール", "era": "近代" },
+    { "node": "Nepalese", "sub": "ネパールの", "era": "19世紀" },
+    { "node": "Nepalese", "sub": "ネパールの・ネパール人", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "Nepalese food", "ja": "ネパール料理" },
+    { "en": "Nepalese culture", "ja": "ネパール文化" },
+    { "en": "Nepalese people", "ja": "ネパール人" },
+    { "en": "Nepalese mountains", "ja": "ネパールの山々" },
+    { "en": "Nepalese guide", "ja": "ネパール人ガイド" },
+    { "en": "Nepalese temple", "ja": "ネパールの寺院" }
+  ],
+  "related": [
+    { "en": "nepal", "ja": "ネパール" },
+    { "en": "himalaya", "ja": "ヒマラヤ" },
+    { "en": "everest", "ja": "エベレスト" },
+    { "en": "sherpa", "ja": "シェルパ" }
+  ],
+  "faq": [
+    { "q": "Nepalese とは？", "a": "ヒマラヤの国ネパールに関する形容詞、またネパール人を指す名詞です。" },
+    { "q": "Nepali との違いは？", "a": "Nepalese はおもに形容詞・国民を指し、Nepali はネパール語や人を指す語として使われます。" }
+  ],
+  "quiz": [
+    { "q": "Nepalese の意味は？", "A": "ネパールの", "B": "ナミビアの", "C": "ノルウェーの", "D": "オランダの", "correct": "A" },
+    { "q": "ネパールにある世界最高峰は？", "A": "エベレスト", "B": "モンブラン", "C": "富士山", "D": "キリマンジャロ", "correct": "A" }
+  ]
+},
+{
+  "english": "nephrology",
+  "pron": "nɪˈfrɒlədʒi",
+  "kana": "ネフロロジー",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "ギリシャ語 nephros（腎臓）＋ -logy（学）",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "医学"],
+  "meaning_main": "腎臓学（腎臓の病気を扱う医学分野）",
+  "description": "nephrology（ネフロロジー）は腎臓の働きや病気を研究・治療する医学の分野「腎臓学」を指す名詞です。意味・使い方を解説します。",
+  "keywords": ["nephrology 意味", "腎臓学 英語", "nephrologist", "腎臓 英語"],
+  "meanings": [
+    { "hinshi": "【名詞】腎臓学", "note": "腎臓の機能や病気（腎不全・透析など）を扱う内科の一分野" }
+  ],
+  "usages": [
+    { "title": "① 医学分野", "desc": "腎臓の専門", "example_en": "She specializes in nephrology.", "example_ja": "彼女は腎臓学を専門にしている。" },
+    { "title": "② 診療科", "desc": "腎臓病の治療", "example_en": "The patient was referred to nephrology.", "example_ja": "その患者は腎臓内科に紹介された。" }
+  ],
+  "warn": ["腎臓の専門医は nephrologist（腎臓専門医）。", "接尾辞 -logy は「〜学」、nephros は「腎臓」。"],
+  "etym_note": "ギリシャ語 nephros（腎臓）に -logy（学）を付けた語。",
+  "etym_chain": [
+    { "node": "nephros", "sub": "腎臓", "era": "古代ギリシャ語" },
+    { "node": "nephrology", "sub": "腎臓学", "era": "20世紀（医学）" },
+    { "node": "nephrology", "sub": "腎臓学", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "specialize in nephrology", "ja": "腎臓学を専門とする" },
+    { "en": "nephrology department", "ja": "腎臓内科" },
+    { "en": "pediatric nephrology", "ja": "小児腎臓学" },
+    { "en": "a nephrology clinic", "ja": "腎臓内科クリニック" },
+    { "en": "study nephrology", "ja": "腎臓学を学ぶ" },
+    { "en": "nephrology consultation", "ja": "腎臓内科の受診" }
+  ],
+  "related": [
+    { "en": "nephrologist", "ja": "腎臓専門医" },
+    { "en": "kidney", "ja": "腎臓" },
+    { "en": "dialysis", "ja": "透析" },
+    { "en": "urology", "ja": "泌尿器科" }
+  ],
+  "faq": [
+    { "q": "nephrology とは？", "a": "腎臓の働きや病気（腎不全・透析など）を研究・治療する医学の分野「腎臓学」です。" },
+    { "q": "urology との違いは？", "a": "nephrology は腎臓の内科的治療、urology（泌尿器科）は尿路や外科的治療を扱うことが多いです。" }
+  ],
+  "quiz": [
+    { "q": "nephrology が扱う臓器は？", "A": "腎臓", "B": "心臓", "C": "肺", "D": "肝臓", "correct": "A" },
+    { "q": "接尾辞 -logy が表すのは？", "A": "学問", "B": "場所", "C": "道具", "D": "人", "correct": "A" }
+  ]
+},
+{
+  "english": "neptunium",
+  "pron": "nepˈtjuːniəm",
+  "kana": "ネプツニウム",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "惑星 Neptune（海王星）にちなむ",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "化学"],
+  "meaning_main": "ネプツニウム（原子番号93の放射性元素）",
+  "description": "neptunium（ネプツニウム）は原子番号93の人工的な放射性元素です。海王星にちなんで名づけられました。意味・由来を解説します。",
+  "keywords": ["neptunium 意味", "ネプツニウム", "元素 93", "neptunium 元素"],
+  "meanings": [
+    { "hinshi": "【名詞】ネプツニウム", "note": "原子番号93の放射性元素。記号 Np。ウランより重い最初の超ウラン元素" }
+  ],
+  "usages": [
+    { "title": "① 化学・物理", "desc": "元素として", "example_en": "Neptunium was the first transuranium element discovered.", "example_ja": "ネプツニウムは最初に発見された超ウラン元素だった。" },
+    { "title": "② 名前の由来", "desc": "命名の話題", "example_en": "Neptunium is named after the planet Neptune.", "example_ja": "ネプツニウムは惑星海王星にちなんで名づけられた。" }
+  ],
+  "warn": ["記号は Np、原子番号93。ウラン（92, uranium）の次で、プルトニウム（94, plutonium）の前。", "ウランが天王星（Uranus）、次のプルトニウムが冥王星（Pluto）にちなむのと同じ命名の流れ。"],
+  "etym_note": "ウラン（uranium、天王星 Uranus 由来）の次の元素であることから、その外側の惑星 Neptune（海王星）にちなんで命名された。",
+  "etym_chain": [
+    { "node": "Neptune", "sub": "海王星", "era": "ローマ神話・天文" },
+    { "node": "neptunium", "sub": "元素93", "era": "1940年" },
+    { "node": "neptunium", "sub": "ネプツニウム", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "the element neptunium", "ja": "元素ネプツニウム" },
+    { "en": "neptunium isotope", "ja": "ネプツニウムの同位体" },
+    { "en": "radioactive neptunium", "ja": "放射性のネプツニウム" },
+    { "en": "produce neptunium", "ja": "ネプツニウムを生成する" },
+    { "en": "neptunium and plutonium", "ja": "ネプツニウムとプルトニウム" },
+    { "en": "traces of neptunium", "ja": "微量のネプツニウム" }
+  ],
+  "related": [
+    { "en": "uranium", "ja": "ウラン" },
+    { "en": "plutonium", "ja": "プルトニウム" },
+    { "en": "element", "ja": "元素" },
+    { "en": "radioactive", "ja": "放射性の" }
+  ],
+  "faq": [
+    { "q": "neptunium とは？", "a": "原子番号93の人工的な放射性元素です。記号は Np で、最初に発見された超ウラン元素です。" },
+    { "q": "名前の由来は？", "a": "ウラン（天王星 Uranus 由来）の次の元素なので、その外側の惑星 Neptune（海王星）にちなみます。" }
+  ],
+  "quiz": [
+    { "q": "neptunium の原子番号は？", "A": "92", "B": "93", "C": "94", "D": "95", "correct": "B" },
+    { "q": "neptunium の名の由来は？", "A": "海王星", "B": "火星", "C": "金星", "D": "土星", "correct": "A" }
+  ]
+},
+{
+  "english": "nervousness",
+  "pron": "ˈnɜːrvəsnəs",
+  "kana": "ナーヴァスネス",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "nervous（緊張した）＋ -ness",
+  "ld_level": "準1級",
+  "badges": ["中学生〜", "英検準1級", "CEFR B1", "感情"],
+  "meaning_main": "緊張 / 神経質さ / 不安",
+  "description": "nervousness（ナーヴァスネス）は緊張して落ち着かない気持ち「緊張・神経質さ・不安」を指す名詞です。意味・使い方・例文を解説します。",
+  "keywords": ["nervousness 意味", "緊張 英語", "nervous 名詞", "nervousness 使い方"],
+  "meanings": [
+    { "hinshi": "【名詞】緊張・神経質さ・不安", "note": "心配や気後れで落ち着かず、そわそわする状態" }
+  ],
+  "usages": [
+    { "title": "① 本番前の緊張", "desc": "そわそわ", "example_en": "She hid her nervousness before the speech.", "example_ja": "彼女はスピーチの前の緊張を隠した。" },
+    { "title": "② 態度に表れる", "desc": "落ち着かなさ", "example_en": "His nervousness was obvious during the interview.", "example_ja": "面接中、彼の緊張は明らかだった。" }
+  ],
+  "warn": ["形容詞は nervous（緊張した・不安な）。", "-ness は形容詞を名詞にする接尾辞。"],
+  "etym_note": "ラテン語 nervus（神経・すじ）由来の nervous（神経の・緊張した）に -ness を付けた語。",
+  "etym_chain": [
+    { "node": "nervus", "sub": "神経・すじ", "era": "ラテン語" },
+    { "node": "nervous", "sub": "緊張した", "era": "17世紀" },
+    { "node": "nervousness", "sub": "緊張・神経質さ", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "hide one's nervousness", "ja": "緊張を隠す" },
+    { "en": "a sign of nervousness", "ja": "緊張の表れ" },
+    { "en": "overcome nervousness", "ja": "緊張を克服する" },
+    { "en": "feel nervousness", "ja": "不安を感じる" },
+    { "en": "nervousness before a test", "ja": "テスト前の緊張" },
+    { "en": "growing nervousness", "ja": "高まる不安" }
+  ],
+  "related": [
+    { "en": "nervous", "ja": "緊張した・不安な" },
+    { "en": "anxiety", "ja": "不安" },
+    { "en": "tension", "ja": "緊張" },
+    { "en": "worry", "ja": "心配" }
+  ],
+  "faq": [
+    { "q": "nervousness の意味は？", "a": "緊張して落ち着かない気持ち「緊張・神経質さ・不安」を指します。" },
+    { "q": "形容詞形は？", "a": "nervous（緊張した・不安な）です。" }
+  ],
+  "quiz": [
+    { "q": "nervousness の意味は？", "A": "落ち着き", "B": "緊張・不安", "C": "喜び", "D": "眠気", "correct": "B" },
+    { "q": "nervousness の形容詞形は？", "A": "nervous", "B": "narrow", "C": "native", "D": "novel", "correct": "A" }
+  ]
+},
+{
+  "english": "nether",
+  "pron": "ˈneðər",
+  "kana": "ネザー",
+  "hinshi": "形容詞",
+  "ld_pos": "形容詞",
+  "ld_etym": "古英語 neothera（下の）から",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "古語・文語"],
+  "meaning_main": "下の / 下方の / 地下(冥界)の",
+  "description": "nether（ネザー）は「下の・下方の」という意味の古風な形容詞です。nether regions（下部・冥界）などの形で使われます。意味・使い方を解説します。",
+  "keywords": ["nether 意味", "nether regions", "下の 英語", "nether 使い方"],
+  "meanings": [
+    { "hinshi": "【形容詞】下の・下方の", "note": "位置が下の、低い方の（古風・文語的）" },
+    { "hinshi": "【形容詞】地下の・冥界の", "note": "the nether world（下界・冥界）のように使う" }
+  ],
+  "usages": [
+    { "title": "① 下方の", "desc": "位置が下", "example_en": "Water filled the nether parts of the cave.", "example_ja": "水が洞窟の下の方を満たした。" },
+    { "title": "② 冥界・下界", "desc": "文語表現", "example_en": "Legends speak of a journey to the nether world.", "example_ja": "伝説は冥界への旅を語る。" }
+  ],
+  "warn": ["古風・文語的な語。日常では lower を使うことが多い。", "nether regions は「下半身」の遠回しな言い方としても使われる。"],
+  "etym_note": "古英語 neothera（下の）から。下方向を表す。オランダ Netherlands（低地の国）も同語源。",
+  "etym_chain": [
+    { "node": "neothera", "sub": "下の", "era": "古英語" },
+    { "node": "nether", "sub": "下の", "era": "中英語" },
+    { "node": "nether", "sub": "下の・冥界の", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "the nether world", "ja": "冥界・下界" },
+    { "en": "nether regions", "ja": "下部・下半身" },
+    { "en": "nether parts", "ja": "下の部分" },
+    { "en": "the nether depths", "ja": "どん底" },
+    { "en": "nether reaches", "ja": "下流域" },
+    { "en": "descend to the nether", "ja": "下界へ下る" }
+  ],
+  "related": [
+    { "en": "lower", "ja": "下の" },
+    { "en": "underworld", "ja": "冥界・下層社会" },
+    { "en": "beneath", "ja": "〜の下に" },
+    { "en": "below", "ja": "下方に" }
+  ],
+  "faq": [
+    { "q": "nether の意味は？", "a": "「下の・下方の」という意味の古風な形容詞です。nether world（冥界）のように使われます。" },
+    { "q": "Netherlands と関係ある？", "a": "はい。オランダの正式名 Netherlands（低地の国）も「下の・低い」を意味する同じ語源です。" }
+  ],
+  "quiz": [
+    { "q": "nether の意味は？", "A": "上の", "B": "下の・下方の", "C": "横の", "D": "外の", "correct": "B" },
+    { "q": "the nether world の意味は？", "A": "天国", "B": "冥界・下界", "C": "宇宙", "D": "未来", "correct": "B" }
+  ]
+},
+{
+  "english": "neuralgic",
+  "pron": "njʊˈrældʒɪk",
+  "kana": "ニューラルジック",
+  "hinshi": "形容詞",
+  "ld_pos": "形容詞",
+  "ld_etym": "ギリシャ語 neuron（神経）＋ algos（痛み）",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "医学"],
+  "meaning_main": "神経痛の / (比喩)神経を逆なでする",
+  "description": "neuralgic（ニューラルジック）は神経に沿った痛み「神経痛の」という意味の形容詞です。比喩で「敏感で問題になりやすい」の意でも使います。意味を解説します。",
+  "keywords": ["neuralgic 意味", "神経痛 英語", "neuralgia", "neuralgic 使い方"],
+  "meanings": [
+    { "hinshi": "【形容詞】神経痛の", "note": "神経に沿って走る痛みに関する" },
+    { "hinshi": "【形容詞】(比喩)過敏な・もめやすい", "note": "触れると問題が噴き出しやすい" }
+  ],
+  "usages": [
+    { "title": "① 医学的な意味", "desc": "神経の痛み", "example_en": "She suffers from neuralgic pain in her face.", "example_ja": "彼女は顔の神経痛に苦しんでいる。" },
+    { "title": "② 比喩", "desc": "敏感な問題", "example_en": "Immigration is a neuralgic issue in politics.", "example_ja": "移民は政治で神経を逆なでする（もめやすい）問題だ。" }
+  ],
+  "warn": ["名詞は neuralgia（神経痛）。比喩の「過敏な・もめやすい」はやや堅い用法。", "neuron は「神経（細胞）」、algos は「痛み」を表す。"],
+  "etym_note": "ギリシャ語 neuron（神経）と algos（痛み）から neuralgia（神経痛）ができ、その形容詞形。",
+  "etym_chain": [
+    { "node": "neuron + algos", "sub": "神経＋痛み", "era": "古代ギリシャ語" },
+    { "node": "neuralgia", "sub": "神経痛", "era": "19世紀" },
+    { "node": "neuralgic", "sub": "神経痛の", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "neuralgic pain", "ja": "神経痛" },
+    { "en": "neuralgic attack", "ja": "神経痛の発作" },
+    { "en": "a neuralgic issue", "ja": "もめやすい問題" },
+    { "en": "neuralgic point", "ja": "神経を逆なでする点" },
+    { "en": "facial neuralgic pain", "ja": "顔の神経痛" },
+    { "en": "politically neuralgic", "ja": "政治的に敏感な" }
+  ],
+  "related": [
+    { "en": "neuralgia", "ja": "神経痛" },
+    { "en": "nerve", "ja": "神経" },
+    { "en": "painful", "ja": "痛い" },
+    { "en": "sensitive", "ja": "敏感な" }
+  ],
+  "faq": [
+    { "q": "neuralgic の意味は？", "a": "神経に沿った痛み「神経痛の」という意味です。比喩で「敏感で問題になりやすい」の意味でも使います。" },
+    { "q": "名詞形は？", "a": "neuralgia（神経痛）です。" }
+  ],
+  "quiz": [
+    { "q": "neuralgic の医学的な意味は？", "A": "筋肉痛の", "B": "神経痛の", "C": "頭痛の", "D": "腹痛の", "correct": "B" },
+    { "q": "neuralgic の語源 algos の意味は？", "A": "痛み", "B": "光", "C": "水", "D": "音", "correct": "A" }
+  ]
+},
+{
+  "english": "neurological",
+  "pron": "ˌnjʊərəˈlɒdʒɪkl",
+  "kana": "ニューロロジカル",
+  "hinshi": "形容詞",
+  "ld_pos": "形容詞",
+  "ld_etym": "ギリシャ語 neuron（神経）＋ -logy（学）＋ -ical",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "医学"],
+  "meaning_main": "神経(系)の / 神経学の",
+  "description": "neurological（ニューロロジカル）は脳・脊髄・神経に関する「神経（系）の・神経学の」という意味の形容詞です。意味・使い方を解説します。",
+  "keywords": ["neurological 意味", "神経学 英語", "neurology", "neurological 使い方"],
+  "meanings": [
+    { "hinshi": "【形容詞】神経(系)の・神経学の", "note": "脳・脊髄・神経の働きや病気に関する" }
+  ],
+  "usages": [
+    { "title": "① 病気・症状", "desc": "神経系の話題", "example_en": "The patient has a neurological disorder.", "example_ja": "その患者は神経系の疾患を持っている。" },
+    { "title": "② 検査・研究", "desc": "医学的評価", "example_en": "He underwent a neurological examination.", "example_ja": "彼は神経学的検査を受けた。" }
+  ],
+  "warn": ["名詞は neurology（神経学）、神経専門医は neurologist。", "脳の外科は neurosurgery（脳神経外科）。"],
+  "etym_note": "ギリシャ語 neuron（神経）に -logy（学）を付けた neurology（神経学）の形容詞形。",
+  "etym_chain": [
+    { "node": "neuron", "sub": "神経", "era": "古代ギリシャ語" },
+    { "node": "neurology", "sub": "神経学", "era": "17世紀" },
+    { "node": "neurological", "sub": "神経学の", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "neurological disorder", "ja": "神経疾患" },
+    { "en": "neurological examination", "ja": "神経学的検査" },
+    { "en": "neurological damage", "ja": "神経の損傷" },
+    { "en": "neurological condition", "ja": "神経系の状態" },
+    { "en": "neurological symptoms", "ja": "神経症状" },
+    { "en": "neurological research", "ja": "神経学の研究" }
+  ],
+  "related": [
+    { "en": "neurology", "ja": "神経学" },
+    { "en": "neurologist", "ja": "神経専門医" },
+    { "en": "nerve", "ja": "神経" },
+    { "en": "brain", "ja": "脳" }
+  ],
+  "faq": [
+    { "q": "neurological の意味は？", "a": "脳・脊髄・神経の働きや病気に関する「神経（系）の・神経学の」という意味です。" },
+    { "q": "名詞形は？", "a": "neurology（神経学）です。専門医は neurologist です。" }
+  ],
+  "quiz": [
+    { "q": "neurological の意味は？", "A": "神経(系)の", "B": "消化器の", "C": "循環器の", "D": "呼吸器の", "correct": "A" },
+    { "q": "neurological の名詞形は？", "A": "neurology", "B": "neuron のみ", "C": "neutral", "D": "neuralgia", "correct": "A" }
+  ]
+},
+{
+  "english": "neuroscience",
+  "pron": "ˈnjʊəroʊsaɪəns",
+  "kana": "ニューロサイエンス",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "neuro-（神経）＋ science（科学）",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "科学"],
+  "meaning_main": "神経科学（脳と神経系を研究する科学）",
+  "description": "neuroscience（ニューロサイエンス）は脳や神経系の仕組みと働きを研究する科学「神経科学」を指す名詞です。意味・使い方を解説します。",
+  "keywords": ["neuroscience 意味", "神経科学 英語", "neuroscientist", "脳科学"],
+  "meanings": [
+    { "hinshi": "【名詞】神経科学", "note": "脳・神経系の構造・機能・働きを、生物学・医学・心理学など多分野から研究する科学" }
+  ],
+  "usages": [
+    { "title": "① 研究分野", "desc": "脳の科学", "example_en": "Neuroscience helps us understand how the brain works.", "example_ja": "神経科学は脳の働きの理解を助ける。" },
+    { "title": "② 応用", "desc": "学習・行動", "example_en": "Neuroscience is used to study memory and learning.", "example_ja": "神経科学は記憶と学習の研究に使われる。" }
+  ],
+  "warn": ["神経科学者は neuroscientist。", "neuro- は「神経」を表す接頭辞（neurology, neuron など）。"],
+  "etym_note": "ギリシャ語 neuron（神経）由来の neuro- に、ラテン語 scientia（知識）由来の science を付けた語。",
+  "etym_chain": [
+    { "node": "neuron", "sub": "神経", "era": "古代ギリシャ語" },
+    { "node": "neuroscience", "sub": "神経科学", "era": "20世紀" },
+    { "node": "neuroscience", "sub": "神経科学", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "study neuroscience", "ja": "神経科学を学ぶ" },
+    { "en": "modern neuroscience", "ja": "現代神経科学" },
+    { "en": "cognitive neuroscience", "ja": "認知神経科学" },
+    { "en": "neuroscience research", "ja": "神経科学の研究" },
+    { "en": "advances in neuroscience", "ja": "神経科学の進歩" },
+    { "en": "a neuroscience lab", "ja": "神経科学の研究室" }
+  ],
+  "related": [
+    { "en": "neuroscientist", "ja": "神経科学者" },
+    { "en": "neurology", "ja": "神経学" },
+    { "en": "brain", "ja": "脳" },
+    { "en": "psychology", "ja": "心理学" }
+  ],
+  "faq": [
+    { "q": "neuroscience とは？", "a": "脳や神経系の構造・機能・働きを、生物学・医学・心理学など多分野から研究する科学「神経科学」です。" },
+    { "q": "neurology との違いは？", "a": "neurology は神経の病気を扱う医学分野、neuroscience は脳・神経全般を研究するより広い科学分野です。" }
+  ],
+  "quiz": [
+    { "q": "neuroscience が研究するのは？", "A": "脳と神経系", "B": "星と宇宙", "C": "岩石と鉱物", "D": "経済と市場", "correct": "A" },
+    { "q": "接頭辞 neuro- が表すのは？", "A": "神経", "B": "光", "C": "水", "D": "音", "correct": "A" }
+  ]
+},
+{
+  "english": "neutron",
+  "pron": "ˈnjuːtrɒn",
+  "kana": "ニュートロン",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "neutral（中性の）＋ -on（粒子)",
+  "ld_level": "準1級",
+  "badges": ["中学生〜", "英検準1級", "CEFR B2", "物理"],
+  "meaning_main": "中性子（電気を持たない原子核の粒子）",
+  "description": "neutron（ニュートロン）は原子核をつくる、電気を持たない粒子「中性子」を指す名詞です。陽子とともに原子核を構成します。意味を解説します。",
+  "keywords": ["neutron 意味", "中性子 英語", "neutron 使い方", "原子核 粒子"],
+  "meanings": [
+    { "hinshi": "【名詞】中性子", "note": "原子核を構成する、電気を帯びていない粒子。陽子とほぼ同じ重さ" }
+  ],
+  "usages": [
+    { "title": "① 原子の構造", "desc": "原子核の粒子", "example_en": "An atomic nucleus contains protons and neutrons.", "example_ja": "原子核は陽子と中性子を含む。" },
+    { "title": "② 核物理", "desc": "反応・応用", "example_en": "Neutrons can trigger nuclear reactions.", "example_ja": "中性子は核反応を引き起こすことがある。" }
+  ],
+  "warn": ["電気を持つ陽子は proton、負の電子は electron。中性子は電気的に中性。", "非常に密度の高い星は neutron star（中性子星）。"],
+  "etym_note": "neutral（中性の、ラテン語 neuter「どちらでもない」より）に、粒子を表す -on（electron などと同じ）を付けた造語。",
+  "etym_chain": [
+    { "node": "neuter", "sub": "どちらでもない", "era": "ラテン語" },
+    { "node": "neutral", "sub": "中性の", "era": "中英語" },
+    { "node": "neutron", "sub": "中性子", "era": "1932年" }
+  ],
+  "phrases": [
+    { "en": "protons and neutrons", "ja": "陽子と中性子" },
+    { "en": "neutron star", "ja": "中性子星" },
+    { "en": "free neutron", "ja": "自由中性子" },
+    { "en": "neutron beam", "ja": "中性子ビーム" },
+    { "en": "number of neutrons", "ja": "中性子の数" },
+    { "en": "fast neutron", "ja": "高速中性子" }
+  ],
+  "related": [
+    { "en": "proton", "ja": "陽子" },
+    { "en": "electron", "ja": "電子" },
+    { "en": "nucleus", "ja": "原子核" },
+    { "en": "atom", "ja": "原子" }
+  ],
+  "faq": [
+    { "q": "neutron とは？", "a": "原子核をつくる、電気を持たない粒子「中性子」です。陽子とほぼ同じ重さがあります。" },
+    { "q": "proton との違いは？", "a": "proton（陽子）は正の電気を持ち、neutron（中性子）は電気を持ちません。どちらも原子核を構成します。" }
+  ],
+  "quiz": [
+    { "q": "neutron の電気は？", "A": "正の電気", "B": "電気を持たない（中性）", "C": "負の電気", "D": "強い正の電気", "correct": "B" },
+    { "q": "neutron star の意味は？", "A": "中性子星", "B": "太陽", "C": "彗星", "D": "銀河", "correct": "A" }
+  ]
+},
+{
+  "english": "newsreader",
+  "pron": "ˈnjuːzriːdər",
+  "kana": "ニューズリーダー",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "news（ニュース）＋ reader（読む人）",
+  "ld_level": "準1級",
+  "badges": ["中学生〜", "英検準1級", "CEFR B1", "職業"],
+  "meaning_main": "ニュースキャスター（ニュースを読む人）※英",
+  "description": "newsreader（ニューズリーダー）はテレビやラジオでニュースを読み上げる人を指す名詞です（主にイギリス英語）。米では news anchor といいます。意味を解説します。",
+  "keywords": ["newsreader 意味", "ニュースキャスター 英語", "news anchor", "newsreader 使い方"],
+  "meanings": [
+    { "hinshi": "【名詞】ニュースを読む人", "note": "テレビ・ラジオでニュースを読み上げる人（主に英）" }
+  ],
+  "usages": [
+    { "title": "① 放送", "desc": "ニュースを伝える", "example_en": "The newsreader announced the results calmly.", "example_ja": "ニュースキャスターは結果を落ち着いて伝えた。" },
+    { "title": "② 職業", "desc": "アナウンサー", "example_en": "She works as a television newsreader.", "example_ja": "彼女はテレビのニュースキャスターとして働いている。" }
+  ],
+  "warn": ["アメリカ英語では news anchor / anchor がふつう。", "IT では RSS を読むソフトを newsreader（ニュースリーダー）ということもある。"],
+  "etym_note": "news（ニュース）と reader（読む人）を合わせた複合語。",
+  "etym_chain": [
+    { "node": "news + reader", "sub": "ニュース＋読む人", "era": "英語" },
+    { "node": "newsreader", "sub": "ニュースを読む人", "era": "20世紀" },
+    { "node": "newsreader", "sub": "ニュースキャスター", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "television newsreader", "ja": "テレビのニュースキャスター" },
+    { "en": "a BBC newsreader", "ja": "BBCのニュースキャスター" },
+    { "en": "the main newsreader", "ja": "メインキャスター" },
+    { "en": "radio newsreader", "ja": "ラジオのニュース読み" },
+    { "en": "become a newsreader", "ja": "ニュースキャスターになる" },
+    { "en": "a calm newsreader", "ja": "落ち着いたキャスター" }
+  ],
+  "related": [
+    { "en": "anchor", "ja": "ニュースキャスター（米）" },
+    { "en": "presenter", "ja": "司会者・キャスター" },
+    { "en": "announcer", "ja": "アナウンサー" },
+    { "en": "broadcast", "ja": "放送" }
+  ],
+  "faq": [
+    { "q": "newsreader とは？", "a": "テレビやラジオでニュースを読み上げる人「ニュースキャスター」です。主にイギリス英語です。" },
+    { "q": "アメリカ英語では？", "a": "news anchor または anchor といいます。" }
+  ],
+  "quiz": [
+    { "q": "newsreader の意味は？", "A": "ニュースを読む人", "B": "新聞配達員", "C": "記者", "D": "編集者", "correct": "A" },
+    { "q": "newsreader のアメリカ英語は？", "A": "news anchor", "B": "newsboy", "C": "newsstand", "D": "newsletter", "correct": "A" }
+  ]
+},
+{
+  "english": "ngo",
+  "pron": "ˌenˌdʒiːˈoʊ",
+  "kana": "エヌジーオー",
+  "hinshi": "名詞(略語)",
+  "ld_pos": "名詞",
+  "ld_etym": "non-governmental organization の頭文字",
+  "ld_level": "準1級",
+  "badges": ["中学生〜", "英検準1級", "CEFR B2", "略語・社会"],
+  "meaning_main": "NGO（非政府組織）",
+  "description": "NGO（エヌジーオー）は non-governmental organization（非政府組織）の略で、政府に属さず社会・人道・環境などの課題に取り組む民間団体を指します。意味を解説します。",
+  "keywords": ["ngo 意味", "NGO 英語", "非政府組織 英語", "ngo とは"],
+  "meanings": [
+    { "hinshi": "【名詞】NGO・非政府組織", "note": "non-governmental organization の略。政府に属さず、人道・環境・開発などに取り組む非営利の民間団体" }
+  ],
+  "usages": [
+    { "title": "① 国際協力", "desc": "支援活動", "example_en": "The NGO provides clean water to villages.", "example_ja": "そのNGOは村々にきれいな水を提供している。" },
+    { "title": "② 社会活動", "desc": "民間の取り組み", "example_en": "Several NGOs work on human rights.", "example_ja": "いくつかのNGOが人権問題に取り組んでいる。" }
+  ],
+  "warn": ["読みは一文字ずつ「エヌ・ジー・オー」。複数形は NGOs。", "似た語 NPO（非営利組織）と混同しやすいが、NGO は特に「非政府」を強調する。"],
+  "etym_note": "英語 non-governmental organization（非政府組織）の頭文字をとった略語。国連の文書で広まった。",
+  "etym_chain": [
+    { "node": "non-governmental organization", "sub": "非政府組織", "era": "20世紀" },
+    { "node": "NGO", "sub": "頭字語", "era": "1945年〜" },
+    { "node": "NGO", "sub": "非政府組織", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "an international NGO", "ja": "国際NGO" },
+    { "en": "work for an NGO", "ja": "NGOで働く" },
+    { "en": "a local NGO", "ja": "地元のNGO" },
+    { "en": "NGO workers", "ja": "NGOの職員" },
+    { "en": "humanitarian NGO", "ja": "人道支援NGO" },
+    { "en": "NGOs and charities", "ja": "NGOと慈善団体" }
+  ],
+  "related": [
+    { "en": "organization", "ja": "組織" },
+    { "en": "charity", "ja": "慈善団体" },
+    { "en": "nonprofit", "ja": "非営利の" },
+    { "en": "volunteer", "ja": "ボランティア" }
+  ],
+  "faq": [
+    { "q": "NGO とは？", "a": "non-governmental organization（非政府組織）の略で、政府に属さず人道・環境・開発などに取り組む非営利の民間団体です。" },
+    { "q": "NPO との違いは？", "a": "NPO は「非営利」を、NGO は「非政府」を強調します。多くの団体は両方の性質を持ちます。" }
+  ],
+  "quiz": [
+    { "q": "NGO は何の略？", "A": "非政府組織", "B": "国営企業", "C": "政府機関", "D": "国際銀行", "correct": "A" },
+    { "q": "NGO の G は何の頭文字？", "A": "governmental（政府の）", "B": "global", "C": "group", "D": "general", "correct": "A" }
+  ]
+},
+{
+  "english": "nicaraguan",
+  "pron": "ˌnɪkəˈrɑːɡwən",
+  "kana": "ニカラグアン",
+  "hinshi": "形容詞 / 名詞(固有名詞)",
+  "ld_pos": "形容詞",
+  "ld_etym": "地名 Nicaragua（ニカラグア）＋ -an",
+  "ld_level": "準1級",
+  "badges": ["中学生〜", "英検準1級", "CEFR B2", "地名"],
+  "meaning_main": "ニカラグアの / ニカラグア人",
+  "description": "Nicaraguan（ニカラグアン）は中央アメリカの国ニカラグアに関する形容詞、またニカラグア人を指す名詞です。意味・使い方を解説します。",
+  "keywords": ["nicaraguan 意味", "ニカラグア 英語", "nicaraguan 使い方", "ニカラグア人 英語"],
+  "meanings": [
+    { "hinshi": "【形容詞】ニカラグアの", "note": "中央アメリカの国ニカラグアやその文化に関する" },
+    { "hinshi": "【名詞】ニカラグア人", "note": "ニカラグアの国籍・出身の人" }
+  ],
+  "usages": [
+    { "title": "① 国・自然", "desc": "ニカラグアの", "example_en": "Nicaraguan coffee is popular abroad.", "example_ja": "ニカラグアのコーヒーは海外で人気だ。" },
+    { "title": "② 人を指す", "desc": "国籍", "example_en": "Many Nicaraguans speak Spanish.", "example_ja": "多くのニカラグア人はスペイン語を話す。" }
+  ],
+  "warn": ["国は Nicaragua（ニカラグア）。首都はマナグア。中米最大の湖ニカラグア湖がある。", "見出し語はファイル名の都合で小文字だが、固有名詞なので Nicaraguan と大文字で書く。"],
+  "etym_note": "国名 Nicaragua（先住民の指導者名などに由来するとされる）に -an を付けた語。",
+  "etym_chain": [
+    { "node": "Nicaragua", "sub": "ニカラグア", "era": "16世紀" },
+    { "node": "Nicaraguan", "sub": "ニカラグアの", "era": "近代" },
+    { "node": "Nicaraguan", "sub": "ニカラグアの・人", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "Nicaraguan coffee", "ja": "ニカラグアのコーヒー" },
+    { "en": "Nicaraguan people", "ja": "ニカラグア人" },
+    { "en": "Nicaraguan culture", "ja": "ニカラグア文化" },
+    { "en": "the Nicaraguan coast", "ja": "ニカラグアの海岸" },
+    { "en": "Nicaraguan government", "ja": "ニカラグア政府" },
+    { "en": "Nicaraguan food", "ja": "ニカラグア料理" }
+  ],
+  "related": [
+    { "en": "nicaragua", "ja": "ニカラグア" },
+    { "en": "managua", "ja": "マナグア（首都）" },
+    { "en": "spanish", "ja": "スペイン語" },
+    { "en": "central america", "ja": "中央アメリカ" }
+  ],
+  "faq": [
+    { "q": "Nicaraguan とは？", "a": "中央アメリカの国ニカラグアに関する形容詞、またニカラグア人を指す名詞です。" },
+    { "q": "ニカラグアはどんな国？", "a": "中央アメリカの国で、首都はマナグア。スペイン語が話され、中米最大のニカラグア湖があります。" }
+  ],
+  "quiz": [
+    { "q": "Nicaraguan の意味は？", "A": "ニカラグアの", "B": "ナイジェリアの", "C": "ノルウェーの", "D": "ネパールの", "correct": "A" },
+    { "q": "ニカラグアの首都は？", "A": "マナグア", "B": "リマ", "C": "ボゴタ", "D": "キト", "correct": "A" }
+  ]
+},
+{
+  "english": "nigel",
+  "pron": "ˈnaɪdʒl",
+  "kana": "ナイジェル",
+  "hinshi": "名詞(固有名詞)",
+  "ld_pos": "固有名詞",
+  "ld_etym": "ラテン語 Nigellus（Neil のラテン語化）から",
+  "ld_level": "準1級",
+  "badges": ["中学生〜", "英検準1級", "CEFR B1", "人名"],
+  "meaning_main": "ナイジェル（英語圏の男性の名前）",
+  "description": "Nigel（ナイジェル）はおもにイギリスで使われる男性の名前です。中世の名 Neil をラテン語化した Nigellus に由来します。意味・由来を解説します。",
+  "keywords": ["nigel 意味", "ナイジェル 名前", "nigel 由来", "英語 男性名"],
+  "meanings": [
+    { "hinshi": "【固有名詞】ナイジェル", "note": "主にイギリスで使われる男性の名前" }
+  ],
+  "usages": [
+    { "title": "① 名前として", "desc": "人を指す", "example_en": "Nigel is my colleague from London.", "example_ja": "ナイジェルはロンドン出身の同僚だ。" },
+    { "title": "② 呼びかけ", "desc": "会話", "example_en": "Nigel, could you help me with this?", "example_ja": "ナイジェル、これを手伝ってくれる？" }
+  ],
+  "warn": ["見出し語はファイル名の都合で小文字だが、名前として書くときは Nigel と大文字で始める。", "ラテン語 niger（黒い）と関連づけられることもあるが、実際は Neil のラテン語化とされる。"],
+  "etym_note": "中世の名 Neil をラテン語風にした Nigellus から。後にラテン語 niger（黒）と結び付けられた。",
+  "etym_chain": [
+    { "node": "Neil", "sub": "ニール", "era": "中英語" },
+    { "node": "Nigellus", "sub": "ラテン語化した名", "era": "中世ラテン語" },
+    { "node": "Nigel", "sub": "ナイジェル", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "Hi, Nigel!", "ja": "やあ、ナイジェル！" },
+    { "en": "Nigel's idea", "ja": "ナイジェルの案" },
+    { "en": "ask Nigel", "ja": "ナイジェルに聞く" },
+    { "en": "Nigel from work", "ja": "職場のナイジェル" },
+    { "en": "meet Nigel", "ja": "ナイジェルに会う" },
+    { "en": "old Nigel", "ja": "あのナイジェル" }
+  ],
+  "related": [
+    { "en": "neil", "ja": "ニール" },
+    { "en": "name", "ja": "名前" },
+    { "en": "british", "ja": "イギリスの" },
+    { "en": "surname", "ja": "姓" }
+  ],
+  "faq": [
+    { "q": "Nigel とは？", "a": "主にイギリスで使われる男性の名前です。中世の名 Neil をラテン語化した Nigellus に由来します。" },
+    { "q": "「黒」という意味？", "a": "ラテン語 niger（黒）と結び付けられることもありますが、実際は Neil のラテン語化とされます。" }
+  ],
+  "quiz": [
+    { "q": "Nigel はどんな語？", "A": "動物の名前", "B": "男性の名前", "C": "色の名前", "D": "地名のみ", "correct": "B" },
+    { "q": "Nigel は主にどこで使われる名前？", "A": "イギリス", "B": "日本", "C": "中国", "D": "ブラジル", "correct": "A" }
+  ]
+},
+{
+  "english": "nigerian",
+  "pron": "naɪˈdʒɪəriən",
+  "kana": "ナイジェリアン",
+  "hinshi": "形容詞 / 名詞(固有名詞)",
+  "ld_pos": "形容詞",
+  "ld_etym": "地名 Nigeria（ナイジェリア）＋ -an",
+  "ld_level": "準1級",
+  "badges": ["中学生〜", "英検準1級", "CEFR B2", "地名"],
+  "meaning_main": "ナイジェリアの / ナイジェリア人",
+  "description": "Nigerian（ナイジェリアン）は西アフリカの国ナイジェリアに関する形容詞、またナイジェリア人を指す名詞です。アフリカ最多の人口を持つ国です。意味を解説します。",
+  "keywords": ["nigerian 意味", "ナイジェリア 英語", "nigerian 使い方", "ナイジェリア人 英語"],
+  "meanings": [
+    { "hinshi": "【形容詞】ナイジェリアの", "note": "西アフリカの国ナイジェリアやその文化に関する" },
+    { "hinshi": "【名詞】ナイジェリア人", "note": "ナイジェリアの国籍・出身の人" }
+  ],
+  "usages": [
+    { "title": "① 国・文化", "desc": "ナイジェリアの", "example_en": "Nigerian music is popular around the world.", "example_ja": "ナイジェリアの音楽は世界中で人気だ。" },
+    { "title": "② 人を指す", "desc": "国籍", "example_en": "Many Nigerians speak English.", "example_ja": "多くのナイジェリア人は英語を話す。" }
+  ],
+  "warn": ["国は Nigeria（ナイジェリア）。アフリカで最も人口が多い国。首都はアブジャ、最大都市はラゴス。", "見出し語はファイル名の都合で小文字だが、固有名詞なので Nigerian と大文字で書く。"],
+  "etym_note": "国名 Nigeria（ニジェール川 Niger に由来）に -an を付けた語。",
+  "etym_chain": [
+    { "node": "Niger", "sub": "ニジェール川", "era": "地名" },
+    { "node": "Nigeria", "sub": "ナイジェリア", "era": "19世紀" },
+    { "node": "Nigerian", "sub": "ナイジェリアの", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "Nigerian music", "ja": "ナイジェリアの音楽" },
+    { "en": "Nigerian people", "ja": "ナイジェリア人" },
+    { "en": "Nigerian culture", "ja": "ナイジェリア文化" },
+    { "en": "Nigerian food", "ja": "ナイジェリア料理" },
+    { "en": "the Nigerian economy", "ja": "ナイジェリア経済" },
+    { "en": "Nigerian film", "ja": "ナイジェリア映画" }
+  ],
+  "related": [
+    { "en": "nigeria", "ja": "ナイジェリア" },
+    { "en": "lagos", "ja": "ラゴス" },
+    { "en": "africa", "ja": "アフリカ" },
+    { "en": "english", "ja": "英語" }
+  ],
+  "faq": [
+    { "q": "Nigerian とは？", "a": "西アフリカの国ナイジェリアに関する形容詞、またナイジェリア人を指す名詞です。" },
+    { "q": "ナイジェリアはどんな国？", "a": "アフリカで最も人口が多い国で、首都はアブジャ、最大都市はラゴス。英語が公用語です。" }
+  ],
+  "quiz": [
+    { "q": "Nigerian の意味は？", "A": "ナイジェリアの", "B": "ニカラグアの", "C": "ナミビアの", "D": "ノルウェーの", "correct": "A" },
+    { "q": "ナイジェリアの最大都市は？", "A": "ラゴス", "B": "カイロ", "C": "ナイロビ", "D": "アクラ", "correct": "A" }
+  ]
+},
+{
+  "english": "nightly",
+  "pron": "ˈnaɪtli",
+  "kana": "ナイトリー",
+  "hinshi": "形容詞 / 副詞",
+  "ld_pos": "形容詞",
+  "ld_etym": "night（夜）＋ -ly",
+  "ld_level": "3級",
+  "badges": ["中学生〜", "英検3級", "CEFR B1", "基本語"],
+  "meaning_main": "毎晩の / 夜ごとの / 毎晩",
+  "description": "nightly（ナイトリー）は「毎晩の・夜ごとの」という意味の形容詞、また「毎晩」という副詞です。意味・使い方・例文を解説します。",
+  "keywords": ["nightly 意味", "毎晩 英語", "nightly 使い方", "夜ごと 英語"],
+  "meanings": [
+    { "hinshi": "【形容詞】毎晩の・夜ごとの", "note": "毎晩行われる・起こる" },
+    { "hinshi": "【副詞】毎晩", "note": "夜ごとに" }
+  ],
+  "usages": [
+    { "title": "① 形容詞", "desc": "毎晩の", "example_en": "The hotel offers nightly entertainment.", "example_ja": "そのホテルは毎晩の娯楽を提供している。" },
+    { "title": "② 副詞", "desc": "毎晩", "example_en": "The show runs nightly at eight.", "example_ja": "そのショーは毎晩8時に上演される。" }
+  ],
+  "warn": ["-ly が付くが形容詞にも副詞にもなる（daily, weekly と同じ）。", "「夜のように」の意味ではなく「毎晩」の意味が中心。"],
+  "etym_note": "古英語 niht（夜）→ night に、周期を表す -ly を付けた語。「毎晩」の意。",
+  "etym_chain": [
+    { "node": "niht", "sub": "夜", "era": "古英語" },
+    { "node": "night", "sub": "夜", "era": "中英語" },
+    { "node": "nightly", "sub": "毎晩の", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "nightly news", "ja": "毎晩のニュース" },
+    { "en": "a nightly routine", "ja": "毎晩の習慣" },
+    { "en": "perform nightly", "ja": "毎晩上演する" },
+    { "en": "nightly show", "ja": "毎晩のショー" },
+    { "en": "run nightly", "ja": "毎晩行われる" },
+    { "en": "nightly walk", "ja": "毎晩の散歩" }
+  ],
+  "related": [
+    { "en": "daily", "ja": "毎日の" },
+    { "en": "nightime", "ja": "夜間" },
+    { "en": "every night", "ja": "毎晩" },
+    { "en": "weekly", "ja": "毎週の" }
+  ],
+  "faq": [
+    { "q": "nightly の意味は？", "a": "「毎晩の・夜ごとの」という意味の形容詞、また「毎晩」という副詞です。" },
+    { "q": "daily と同じ作り？", "a": "はい。daily（毎日の）、weekly（毎週の）と同じく、周期を表す -ly が付いた形です。" }
+  ],
+  "quiz": [
+    { "q": "nightly の意味は？", "A": "毎晩の・毎晩", "B": "昼間の", "C": "たまに", "D": "決して〜ない", "correct": "A" },
+    { "q": "nightly と同じ作りの語は？", "A": "daily（毎日の）", "B": "lovely", "C": "friendly", "D": "lonely", "correct": "A" }
+  ]
+},
+{
+  "english": "ninepins",
+  "pron": "ˈnaɪnpɪnz",
+  "kana": "ナインピンズ",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "nine（9）＋ pins（ピン）",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "遊び・歴史"],
+  "meaning_main": "ナインピンズ（9本のピンを倒す昔のボウリング的な遊び）",
+  "description": "ninepins（ナインピンズ）は9本のピンをボールで倒す、ボウリングの元になった昔の遊びを指す名詞です。意味・由来を解説します。",
+  "keywords": ["ninepins 意味", "ナインピンズ", "ボウリング 起源", "ninepins 使い方"],
+  "meanings": [
+    { "hinshi": "【名詞】ナインピンズ", "note": "9本のピンをボールで倒す、ボウリングの前身となった遊び（単数扱いのゲーム名）" }
+  ],
+  "usages": [
+    { "title": "① 遊び・歴史", "desc": "昔の球技", "example_en": "Ninepins was a popular game in old Europe.", "example_ja": "ナインピンズは昔のヨーロッパで人気の遊びだった。" },
+    { "title": "② 比喩表現", "desc": "次々倒れる", "example_en": "The runners went down like ninepins in the heat.", "example_ja": "暑さで走者たちは次々と（ピンのように）倒れた。" }
+  ],
+  "warn": ["現代の tenpin bowling（10本ピンのボウリング）の前身とされる。", "go down like ninepins で「次々に倒れる・やられる」という慣用表現。"],
+  "etym_note": "nine（9）と pins（ピン）を合わせた語。9本のピンを使うことにちなむ。",
+  "etym_chain": [
+    { "node": "nine + pins", "sub": "9＋ピン", "era": "英語" },
+    { "node": "ninepins", "sub": "9本ピンの遊び", "era": "16世紀" },
+    { "node": "ninepins", "sub": "ナインピンズ", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "play ninepins", "ja": "ナインピンズをする" },
+    { "en": "a game of ninepins", "ja": "ナインピンズの試合" },
+    { "en": "go down like ninepins", "ja": "次々と倒れる" },
+    { "en": "set up the ninepins", "ja": "ピンを並べる" },
+    { "en": "knock down ninepins", "ja": "ピンを倒す" },
+    { "en": "old ninepins", "ja": "昔のナインピンズ" }
+  ],
+  "related": [
+    { "en": "bowling", "ja": "ボウリング" },
+    { "en": "pin", "ja": "ピン" },
+    { "en": "skittles", "ja": "スキットル（似た遊び）" },
+    { "en": "game", "ja": "遊び・ゲーム" }
+  ],
+  "faq": [
+    { "q": "ninepins とは？", "a": "9本のピンをボールで倒す、ボウリングの前身となった昔の遊びです。" },
+    { "q": "go down like ninepins とは？", "a": "「次々に倒れる・やられる」という意味の慣用表現です。" }
+  ],
+  "quiz": [
+    { "q": "ninepins は何本のピンを使う？", "A": "9本", "B": "10本", "C": "5本", "D": "12本", "correct": "A" },
+    { "q": "go down like ninepins の意味は？", "A": "次々と倒れる", "B": "高く積み上がる", "C": "静かになる", "D": "元気になる", "correct": "A" }
+  ]
+}
+]
