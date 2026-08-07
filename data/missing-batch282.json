@@ -1,0 +1,986 @@
+[
+{
+  "english": "quantitative",
+  "pron": "ˈkwɒntɪtətɪv",
+  "kana": "クオンティタティブ",
+  "hinshi": "形容詞",
+  "ld_pos": "形容詞",
+  "ld_etym": "ラテン語 quantitas（量）から",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "分析"],
+  "meaning_main": "量的な / 数量の / 定量的な",
+  "description": "quantitative（クオンティタティブ）は数や量として測れる「量的な・定量的な」という意味の形容詞です。質を表す qualitative の反対です。意味・使い方を解説します。",
+  "keywords": ["quantitative 意味", "量的 英語", "定量的 英語", "qualitative 反対"],
+  "meanings": [
+    { "hinshi": "【形容詞】量的な・定量的な", "note": "数や量として測定・数値化できる" }
+  ],
+  "usages": [
+    { "title": "① 研究・分析", "desc": "数値で測る", "example_en": "The study used quantitative data.", "example_ja": "その研究は定量的なデータを用いた。" },
+    { "title": "② 経済・科学", "desc": "量的な", "example_en": "There was a quantitative increase in sales.", "example_ja": "売上に量的な増加があった。" }
+  ],
+  "warn": ["反対は qualitative（質的な）。名詞は quantity（量）、動詞は quantify（数量化する）。", "経済で quantitative easing は「量的緩和」。"],
+  "etym_note": "ラテン語 quantus（どれだけ）→ quantitas（量）→ quantitative。「量に関する」の意。",
+  "etym_chain": [
+    { "node": "quantus", "sub": "どれだけ", "era": "ラテン語" },
+    { "node": "quantitas", "sub": "量", "era": "ラテン語" },
+    { "node": "quantitative", "sub": "量的な", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "quantitative data", "ja": "定量的データ" },
+    { "en": "quantitative analysis", "ja": "定量分析" },
+    { "en": "quantitative research", "ja": "量的研究" },
+    { "en": "quantitative easing", "ja": "量的緩和" },
+    { "en": "a quantitative increase", "ja": "量的な増加" },
+    { "en": "quantitative methods", "ja": "定量的手法" }
+  ],
+  "related": [
+    { "en": "qualitative", "ja": "質的な" },
+    { "en": "quantity", "ja": "量" },
+    { "en": "quantify", "ja": "数量化する" },
+    { "en": "numerical", "ja": "数値の" }
+  ],
+  "faq": [
+    { "q": "quantitative の意味は？", "a": "数や量として測れる「量的な・定量的な」という意味です。" },
+    { "q": "qualitative との違いは？", "a": "quantitative は「量的（数値で測る）」、qualitative は「質的（性質で判断する）」です。" }
+  ],
+  "quiz": [
+    { "q": "quantitative の意味は？", "A": "量的な・定量的な", "B": "質的な", "C": "感情的な", "D": "曖昧な", "correct": "A" },
+    { "q": "quantitative の反対は？", "A": "qualitative", "B": "quiet", "C": "quick", "D": "quaint", "correct": "A" }
+  ]
+},
+{
+  "english": "quantitatively",
+  "pron": "ˈkwɒntɪtətɪvli",
+  "kana": "クオンティタティブリー",
+  "hinshi": "副詞",
+  "ld_pos": "副詞",
+  "ld_etym": "quantitative（量的な）＋ -ly",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "分析"],
+  "meaning_main": "量的に / 数量の面で / 定量的に",
+  "description": "quantitatively（クオンティタティブリー）は数や量の面から「量的に・定量的に」という意味の副詞です。qualitatively（質的に）の反対です。意味を解説します。",
+  "keywords": ["quantitatively 意味", "量的に 英語", "定量的に 英語", "quantitative 副詞"],
+  "meanings": [
+    { "hinshi": "【副詞】量的に・定量的に", "note": "数や量として測る観点から" }
+  ],
+  "usages": [
+    { "title": "① 分析", "desc": "数値で", "example_en": "The results were analyzed quantitatively.", "example_ja": "結果は定量的に分析された。" },
+    { "title": "② 比較", "desc": "量の面で", "example_en": "Quantitatively, output rose by 10%.", "example_ja": "量的には、生産量は10%増えた。" }
+  ],
+  "warn": ["反対は qualitatively（質的に）。形容詞は quantitative（量的な）。", "-ly が付いた副詞。"],
+  "etym_note": "ラテン語 quantitas（量）由来の quantitative に -ly を付けた副詞。",
+  "etym_chain": [
+    { "node": "quantitas", "sub": "量", "era": "ラテン語" },
+    { "node": "quantitative", "sub": "量的な", "era": "近代" },
+    { "node": "quantitatively", "sub": "量的に", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "analyze quantitatively", "ja": "定量的に分析する" },
+    { "en": "measure quantitatively", "ja": "量的に測る" },
+    { "en": "quantitatively different", "ja": "量的に異なる" },
+    { "en": "assess quantitatively", "ja": "数量的に評価する" },
+    { "en": "quantitatively and qualitatively", "ja": "量的にも質的にも" },
+    { "en": "express quantitatively", "ja": "数値で表す" }
+  ],
+  "related": [
+    { "en": "quantitative", "ja": "量的な" },
+    { "en": "qualitatively", "ja": "質的に" },
+    { "en": "numerically", "ja": "数値的に" },
+    { "en": "measurably", "ja": "測定できるほどに" }
+  ],
+  "faq": [
+    { "q": "quantitatively の意味は？", "a": "数や量の面から「量的に・定量的に」という意味の副詞です。" },
+    { "q": "反対の語は？", "a": "qualitatively（質的に）です。" }
+  ],
+  "quiz": [
+    { "q": "quantitatively の意味は？", "A": "量的に・定量的に", "B": "質的に", "C": "静かに", "D": "急いで", "correct": "A" },
+    { "q": "quantitatively の形容詞形は？", "A": "quantitative", "B": "qualitative", "C": "quiet", "D": "quaint", "correct": "A" }
+  ]
+},
+{
+  "english": "quart",
+  "pron": "kwɔːrt",
+  "kana": "クォート",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "ラテン語 quartus（4分の1）から",
+  "ld_level": "準1級",
+  "badges": ["中学生〜", "英検準1級", "CEFR B1", "単位"],
+  "meaning_main": "クォート（液量の単位、約0.95〜1.14L）",
+  "description": "quart（クォート）は液量の単位で、1ガロンの4分の1、2パイントに当たります。米で約0.95L、英で約1.14Lです。意味を解説します。",
+  "keywords": ["quart 意味", "クォート 単位 英語", "quart 量", "gallon 関係"],
+  "meanings": [
+    { "hinshi": "【名詞】クォート", "note": "液量の単位。1ガロンの4分の1、2パイント。米で約0.95L、英で約1.14L" }
+  ],
+  "usages": [
+    { "title": "① 飲み物・料理", "desc": "液体の量", "example_en": "Add a quart of water.", "example_ja": "水を1クォート加えて。" },
+    { "title": "② 買い物", "desc": "牛乳など", "example_en": "She bought a quart of milk.", "example_ja": "彼女は牛乳を1クォート買った。" }
+  ],
+  "warn": ["1ガロン（gallon）＝4クォート＝8パイント（pint）。米・英で量が異なる。", "名は「4分の1（ガロンの）」の意。"],
+  "etym_note": "ラテン語 quartus（4番目・4分の1）から。1ガロンの4分の1であることに由来する。",
+  "etym_chain": [
+    { "node": "quartus", "sub": "4分の1", "era": "ラテン語" },
+    { "node": "quart", "sub": "クォート", "era": "14世紀" },
+    { "node": "quart", "sub": "クォート", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "a quart of milk", "ja": "牛乳1クォート" },
+    { "en": "a quart of water", "ja": "水1クォート" },
+    { "en": "two quarts", "ja": "2クォート" },
+    { "en": "a quart jar", "ja": "1クォートの瓶" },
+    { "en": "half a quart", "ja": "半クォート" },
+    { "en": "a quart of oil", "ja": "油1クォート" }
+  ],
+  "related": [
+    { "en": "gallon", "ja": "ガロン" },
+    { "en": "pint", "ja": "パイント" },
+    { "en": "liter", "ja": "リットル" },
+    { "en": "measure", "ja": "単位・計量" }
+  ],
+  "faq": [
+    { "q": "quart とは？", "a": "液量の単位で、1ガロンの4分の1、2パイントに当たります。米で約0.95L、英で約1.14Lです。" },
+    { "q": "ガロンとの関係は？", "a": "1ガロン＝4クォートです。名前も「4分の1」に由来します。" }
+  ],
+  "quiz": [
+    { "q": "quart は何の単位？", "A": "液量", "B": "重さ", "C": "長さ", "D": "時間", "correct": "A" },
+    { "q": "1ガロンは何クォート？", "A": "4クォート", "B": "2クォート", "C": "8クォート", "D": "1クォート", "correct": "A" }
+  ]
+},
+{
+  "english": "quatrefoil",
+  "pron": "ˈkætrəfɔɪl",
+  "kana": "キャトレフォイル",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "古フランス語 quatre（4）＋ feuille（葉）",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "美術・建築"],
+  "meaning_main": "四つ葉模様（4枚の花弁形が集まった装飾）",
+  "description": "quatrefoil（キャトレフォイル）は四つ葉のクローバーのような、4枚の弧を組み合わせた装飾模様を指す名詞です。ゴシック建築の窓などに見られます。意味を解説します。",
+  "keywords": ["quatrefoil 意味", "四つ葉模様 英語", "ゴシック 装飾", "quatrefoil 使い方"],
+  "meanings": [
+    { "hinshi": "【名詞】四つ葉模様", "note": "4枚の弧（花弁形）を対称に組み合わせた装飾模様。ゴシック建築の窓や紋章に使われる" }
+  ],
+  "usages": [
+    { "title": "① 建築・装飾", "desc": "四つ葉の模様", "example_en": "The window had a quatrefoil design.", "example_ja": "その窓は四つ葉模様の意匠だった。" },
+    { "title": "② 紋章・図案", "desc": "デザイン", "example_en": "A quatrefoil decorated the tile.", "example_ja": "四つ葉模様がそのタイルを飾っていた。" }
+  ],
+  "warn": ["3枚の弧は trefoil（三つ葉模様）、5枚は cinquefoil。quatre（4）＋ feuille（葉）という作り。", "植物のキジムシロ属を指すこともある。"],
+  "etym_note": "古フランス語 quatre（4）と feuille（葉）から。「4枚の葉」の意で、四つ葉の形の模様を指す。",
+  "etym_chain": [
+    { "node": "quatre + feuille", "sub": "4＋葉", "era": "古フランス語" },
+    { "node": "quatrefoil", "sub": "四つ葉模様", "era": "15世紀" },
+    { "node": "quatrefoil", "sub": "四つ葉模様", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "a quatrefoil window", "ja": "四つ葉模様の窓" },
+    { "en": "a quatrefoil pattern", "ja": "四つ葉模様" },
+    { "en": "a carved quatrefoil", "ja": "彫られた四つ葉模様" },
+    { "en": "a Gothic quatrefoil", "ja": "ゴシックの四つ葉模様" },
+    { "en": "a quatrefoil design", "ja": "四つ葉の意匠" },
+    { "en": "a stone quatrefoil", "ja": "石の四つ葉模様" }
+  ],
+  "related": [
+    { "en": "trefoil", "ja": "三つ葉模様" },
+    { "en": "ornament", "ja": "装飾" },
+    { "en": "pattern", "ja": "模様" },
+    { "en": "gothic", "ja": "ゴシックの" }
+  ],
+  "faq": [
+    { "q": "quatrefoil とは？", "a": "四つ葉のクローバーのような、4枚の弧を組み合わせた装飾模様です。ゴシック建築の窓などに見られます。" },
+    { "q": "trefoil との違いは？", "a": "trefoil は3枚の弧（三つ葉）、quatrefoil は4枚の弧（四つ葉）の模様です。" }
+  ],
+  "quiz": [
+    { "q": "quatrefoil とは？", "A": "四つ葉のような装飾模様", "B": "三角形", "C": "円柱", "D": "文字", "correct": "A" },
+    { "q": "quatrefoil の quatre が表す数は？", "A": "4", "B": "3", "C": "5", "D": "2", "correct": "A" }
+  ]
+},
+{
+  "english": "quill",
+  "pron": "kwɪl",
+  "kana": "クイル",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "中低ドイツ語 quyle（羽軸）に由来",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "道具・動物"],
+  "meaning_main": "羽ペン / 羽軸 / (ヤマアラシの)針",
+  "description": "quill（クイル）は羽の軸で作った昔の筆記用具「羽ペン」、また鳥の大きな羽の軸、ヤマアラシのとげ（針）を指す名詞です。意味を解説します。",
+  "keywords": ["quill 意味", "羽ペン 英語", "羽軸 英語", "quill 使い方"],
+  "meanings": [
+    { "hinshi": "【名詞】羽ペン", "note": "鳥の羽の軸を削って作った、昔のインクの筆記用具" },
+    { "hinshi": "【名詞】羽軸・(ヤマアラシの)針", "note": "鳥の大きな羽の中心の軸、またヤマアラシの鋭いとげ" }
+  ],
+  "usages": [
+    { "title": "① 昔の筆記具", "desc": "羽ペン", "example_en": "He wrote with a quill and ink.", "example_ja": "彼は羽ペンとインクで書いた。" },
+    { "title": "② 動物の針", "desc": "とげ", "example_en": "A porcupine has sharp quills.", "example_ja": "ヤマアラシは鋭い針を持つ。" }
+  ],
+  "warn": ["羽ペンは quill pen とも。ペン先（pen）の語源は羽（ラテン語 penna）にちなむ。", "ヤマアラシ（porcupine）の針も quill という。"],
+  "etym_note": "中低ドイツ語 quyle（羽軸・葦）に由来する語。羽の軸で作った筆記具を指す。",
+  "etym_chain": [
+    { "node": "quyle", "sub": "羽軸・葦", "era": "中低ドイツ語" },
+    { "node": "quill", "sub": "羽ペン・羽軸", "era": "15世紀" },
+    { "node": "quill", "sub": "羽ペン・針", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "a quill pen", "ja": "羽ペン" },
+    { "en": "write with a quill", "ja": "羽ペンで書く" },
+    { "en": "a goose quill", "ja": "ガチョウの羽ペン" },
+    { "en": "porcupine quills", "ja": "ヤマアラシの針" },
+    { "en": "dip the quill in ink", "ja": "羽ペンをインクに浸す" },
+    { "en": "sharp quills", "ja": "鋭い針" }
+  ],
+  "related": [
+    { "en": "feather", "ja": "羽" },
+    { "en": "pen", "ja": "ペン" },
+    { "en": "porcupine", "ja": "ヤマアラシ" },
+    { "en": "ink", "ja": "インク" }
+  ],
+  "faq": [
+    { "q": "quill とは？", "a": "羽の軸で作った昔の筆記用具「羽ペン」、また鳥の羽の軸やヤマアラシのとげ（針）を指します。" },
+    { "q": "羽ペンはどう使う？", "a": "羽ペンの先をインクに浸し、紙に文字を書きます。" }
+  ],
+  "quiz": [
+    { "q": "quill の意味の一つは？", "A": "羽ペン", "B": "包丁", "C": "はさみ", "D": "定規", "correct": "A" },
+    { "q": "quill を持つ動物は？", "A": "ヤマアラシ", "B": "犬", "C": "猫", "D": "魚", "correct": "A" }
+  ]
+},
+{
+  "english": "quinoa",
+  "pron": "ˈkiːnwɑː",
+  "kana": "キヌア",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "ケチュア語 kinwa から",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "食べ物"],
+  "meaning_main": "キヌア（南米原産の栄養豊富な穀物）",
+  "description": "quinoa（キヌア）は南米アンデス原産の、たんぱく質などが豊富な穀物です。健康食品として世界的に人気です。意味・使い方を解説します。",
+  "keywords": ["quinoa 意味", "キヌア 英語", "スーパーフード", "quinoa 使い方"],
+  "meanings": [
+    { "hinshi": "【名詞】キヌア", "note": "南米アンデス原産の、小さな粒状の穀物。たんぱく質・栄養が豊富でスーパーフードとして人気" }
+  ],
+  "usages": [
+    { "title": "① 食材", "desc": "穀物", "example_en": "She cooked quinoa for lunch.", "example_ja": "彼女は昼食にキヌアを料理した。" },
+    { "title": "② 健康食", "desc": "栄養豊富", "example_en": "Quinoa is high in protein.", "example_ja": "キヌアはたんぱく質が豊富だ。" }
+  ],
+  "warn": ["発音は「キーンワ」または「キヌア」。ケチュア語 kinwa に由来。", "米や小麦のような穀物として調理するが、正確にはキビ・ホウレンソウに近い植物の種。"],
+  "etym_note": "南米先住民ケチュア語 kinwa から、スペイン語 quinua を経て英語に入った語。",
+  "etym_chain": [
+    { "node": "kinwa", "sub": "キヌア", "era": "ケチュア語" },
+    { "node": "quinua", "sub": "キヌア", "era": "スペイン語" },
+    { "node": "quinoa", "sub": "キヌア", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "cook quinoa", "ja": "キヌアを料理する" },
+    { "en": "a bowl of quinoa", "ja": "キヌア一皿" },
+    { "en": "quinoa salad", "ja": "キヌアのサラダ" },
+    { "en": "red quinoa", "ja": "赤キヌア" },
+    { "en": "quinoa and vegetables", "ja": "キヌアと野菜" },
+    { "en": "rinse the quinoa", "ja": "キヌアを洗う" }
+  ],
+  "related": [
+    { "en": "grain", "ja": "穀物" },
+    { "en": "superfood", "ja": "スーパーフード" },
+    { "en": "rice", "ja": "米" },
+    { "en": "protein", "ja": "たんぱく質" }
+  ],
+  "faq": [
+    { "q": "quinoa とは？", "a": "南米アンデス原産の、たんぱく質などが豊富な穀物です。健康食品として世界的に人気です。" },
+    { "q": "発音は？", "a": "「キーンワ」または「キヌア」に近く、ケチュア語に由来します。" }
+  ],
+  "quiz": [
+    { "q": "quinoa とは？", "A": "栄養豊富な穀物", "B": "魚", "C": "肉", "D": "果物", "correct": "A" },
+    { "q": "quinoa はどこ原産？", "A": "南米アンデス", "B": "北極", "C": "サハラ砂漠", "D": "深海", "correct": "A" }
+  ]
+},
+{
+  "english": "quintet",
+  "pron": "kwɪnˈtet",
+  "kana": "クインテット",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "ラテン語 quintus（5番目）から",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "音楽"],
+  "meaning_main": "五重奏 / 五重唱 / 5人組",
+  "description": "quintet（クインテット）は5人の奏者・歌手による「五重奏・五重唱」、またその5人組の演奏団を指す名詞です。意味・使い方を解説します。",
+  "keywords": ["quintet 意味", "五重奏 英語", "5人組 英語", "quintet 使い方"],
+  "meanings": [
+    { "hinshi": "【名詞】五重奏・五重唱・5人組", "note": "5人の演奏者・歌手による演奏、またその団体・曲" }
+  ],
+  "usages": [
+    { "title": "① 演奏団", "desc": "5人組", "example_en": "A string quintet played at the wedding.", "example_ja": "弦楽五重奏団が結婚式で演奏した。" },
+    { "title": "② 楽曲", "desc": "五重奏曲", "example_en": "He composed a piano quintet.", "example_ja": "彼はピアノ五重奏曲を作曲した。" }
+  ],
+  "warn": ["二重奏は duet、三重奏は trio、四重奏は quartet、五重奏は quintet。", "ラテン語 quintus（5番目）に由来。"],
+  "etym_note": "ラテン語 quintus（5番目、quinque「5」より）から。「5人・5つの組」の意。",
+  "etym_chain": [
+    { "node": "quintus", "sub": "5番目", "era": "ラテン語" },
+    { "node": "quintet", "sub": "五重奏", "era": "18世紀" },
+    { "node": "quintet", "sub": "五重奏・5人組", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "a string quintet", "ja": "弦楽五重奏" },
+    { "en": "a jazz quintet", "ja": "ジャズ五重奏団" },
+    { "en": "a piano quintet", "ja": "ピアノ五重奏" },
+    { "en": "a wind quintet", "ja": "木管五重奏" },
+    { "en": "a brass quintet", "ja": "金管五重奏" },
+    { "en": "play in a quintet", "ja": "五重奏で演奏する" }
+  ],
+  "related": [
+    { "en": "quartet", "ja": "四重奏" },
+    { "en": "trio", "ja": "三重奏" },
+    { "en": "duet", "ja": "二重奏" },
+    { "en": "ensemble", "ja": "合奏団" }
+  ],
+  "faq": [
+    { "q": "quintet とは？", "a": "5人の奏者・歌手による「五重奏・五重唱」、またその5人組の演奏団を指します。" },
+    { "q": "四重奏・三重奏は？", "a": "四重奏は quartet、三重奏は trio です。" }
+  ],
+  "quiz": [
+    { "q": "quintet は何人組？", "A": "5人", "B": "4人", "C": "3人", "D": "2人", "correct": "A" },
+    { "q": "四重奏は英語で？", "A": "quartet", "B": "quintet", "C": "trio", "D": "duet", "correct": "A" }
+  ]
+},
+{
+  "english": "quire",
+  "pron": "ˈkwaɪər",
+  "kana": "クワイア",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "ラテン語 quaternio（4枚1組）から",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "紙・製本"],
+  "meaning_main": "（紙の）1帖（じょう）／24〜25枚のひとまとまり",
+  "description": "quire（クワイア）は同じ大きさの紙のひとまとまり（ふつう24〜25枚）を数える単位、また製本で折り重ねた紙の束を指す名詞です。意味を解説します。",
+  "keywords": ["quire 意味", "紙 単位 英語", "quire 使い方", "製本 紙束"],
+  "meanings": [
+    { "hinshi": "【名詞】(紙の)1帖・ひとまとまり", "note": "同じ大きさ・質の紙をまとめた束。ふつう24〜25枚で、20帖（quire）で1連（ream）" },
+    { "hinshi": "【名詞】(製本)折り丁", "note": "折り重ねた紙のまとまり" }
+  ],
+  "usages": [
+    { "title": "① 紙の単位", "desc": "24〜25枚", "example_en": "She bought a quire of writing paper.", "example_ja": "彼女は便箋を1帖買った。" },
+    { "title": "② 製本", "desc": "折り丁", "example_en": "The book was made of several quires.", "example_ja": "その本はいくつかの折り丁からできていた。" }
+  ],
+  "warn": ["20帖（quire）＝1連（ream、約500枚）。同音の choir（合唱団）とは別の語。", "ラテン語 quaternio（4枚1組）に由来する。"],
+  "etym_note": "ラテン語 quaternio（4枚1組の紙）→ 古フランス語 quaier → quire。もとは4枚の紙を折ったもの。",
+  "etym_chain": [
+    { "node": "quaternio", "sub": "4枚1組", "era": "ラテン語" },
+    { "node": "quaier", "sub": "紙の束", "era": "古フランス語" },
+    { "node": "quire", "sub": "1帖", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "a quire of paper", "ja": "紙1帖" },
+    { "en": "several quires", "ja": "数帖" },
+    { "en": "a quire of parchment", "ja": "羊皮紙1帖" },
+    { "en": "twenty quires", "ja": "20帖" },
+    { "en": "bind the quires", "ja": "折り丁をとじる" },
+    { "en": "a quire of writing paper", "ja": "便箋1帖" }
+  ],
+  "related": [
+    { "en": "ream", "ja": "連（約500枚）" },
+    { "en": "paper", "ja": "紙" },
+    { "en": "sheet", "ja": "1枚" },
+    { "en": "binding", "ja": "製本" }
+  ],
+  "faq": [
+    { "q": "quire とは？", "a": "同じ大きさの紙のひとまとまり（ふつう24〜25枚）を数える単位、また製本で折り重ねた紙の束です。" },
+    { "q": "ream との関係は？", "a": "20帖（quire）で1連（ream、約500枚）です。" }
+  ],
+  "quiz": [
+    { "q": "quire とは？", "A": "紙のひとまとまり（約24枚）", "B": "合唱団", "C": "楽器", "D": "本棚", "correct": "A" },
+    { "q": "20quire は何になる？", "A": "1ream（連）", "B": "1sheet", "C": "1page", "D": "1book", "correct": "A" }
+  ]
+},
+{
+  "english": "quirk",
+  "pron": "kwɜːrk",
+  "kana": "クワーク",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "由来ははっきりしない",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "性質"],
+  "meaning_main": "変わった癖 / 風変わりな点 / (運命の)いたずら",
+  "description": "quirk（クワーク）は人や物の「変わった癖・風変わりな点」、また偶然の思わぬ出来事「運命のいたずら」を指す名詞です。意味・使い方を解説します。",
+  "keywords": ["quirk 意味", "癖 英語", "風変わり 英語", "quirk 使い方"],
+  "meanings": [
+    { "hinshi": "【名詞】変わった癖・風変わりな点", "note": "その人・物ならではの、ちょっと変わった特徴や習慣" },
+    { "hinshi": "【名詞】(運命などの)思わぬいたずら", "note": "偶然の奇妙な出来事（a quirk of fate）" }
+  ],
+  "usages": [
+    { "title": "① 個性・癖", "desc": "変わった特徴", "example_en": "Everyone has their little quirks.", "example_ja": "誰にでもちょっとした変わった癖がある。" },
+    { "title": "② 偶然", "desc": "運命のいたずら", "example_en": "By a quirk of fate, they met again.", "example_ja": "運命のいたずらで、彼らは再会した。" }
+  ],
+  "warn": ["形容詞は quirky（風変わりな・くせのある）。", "a quirk of fate（運命のいたずら）が定番表現。"],
+  "etym_note": "由来ははっきりしないが、16世紀から「ひねり・変わった特徴」を意味する語として使われている。",
+  "etym_chain": [
+    { "node": "quirk", "sub": "ひねり・変わった点", "era": "16世紀" },
+    { "node": "quirk", "sub": "変わった癖", "era": "近代" },
+    { "node": "quirk", "sub": "変わった癖・偶然", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "a little quirk", "ja": "ちょっとした癖" },
+    { "en": "a quirk of fate", "ja": "運命のいたずら" },
+    { "en": "personal quirks", "ja": "個人的な癖" },
+    { "en": "a strange quirk", "ja": "奇妙な特徴" },
+    { "en": "a quirk of nature", "ja": "自然のいたずら" },
+    { "en": "charming quirks", "ja": "愛らしい癖" }
+  ],
+  "related": [
+    { "en": "quirky", "ja": "風変わりな" },
+    { "en": "peculiarity", "ja": "特異な点" },
+    { "en": "eccentricity", "ja": "風変わり" },
+    { "en": "trait", "ja": "特徴" }
+  ],
+  "faq": [
+    { "q": "quirk の意味は？", "a": "人や物の「変わった癖・風変わりな点」、また偶然の思わぬ出来事「運命のいたずら」を指します。" },
+    { "q": "a quirk of fate とは？", "a": "「運命のいたずら・思いがけない偶然」という意味の表現です。" }
+  ],
+  "quiz": [
+    { "q": "quirk の意味は？", "A": "変わった癖・風変わりな点", "B": "決まりきったこと", "C": "計画", "D": "命令", "correct": "A" },
+    { "q": "a quirk of fate の意味は？", "A": "運命のいたずら", "B": "計画通りの結果", "C": "当然の報い", "D": "契約", "correct": "A" }
+  ]
+},
+{
+  "english": "quivering",
+  "pron": "ˈkwɪvərɪŋ",
+  "kana": "クイバリング",
+  "hinshi": "形容詞 / 動詞(現在分詞)",
+  "ld_pos": "形容詞",
+  "ld_etym": "動詞 quiver（震える）＋ -ing",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "動作"],
+  "meaning_main": "小刻みに震える / わなわなと震えている",
+  "description": "quivering（クイバリング）は恐怖・寒さ・興奮などで小刻みに「震えている」という意味の形容詞です。動詞 quiver の現在分詞でもあります。意味を解説します。",
+  "keywords": ["quivering 意味", "震える 英語", "quiver", "quivering 使い方"],
+  "meanings": [
+    { "hinshi": "【形容詞・動詞】小刻みに震える・わなわなと震えている", "note": "恐怖・寒さ・興奮・弱さなどで細かく揺れ動く" }
+  ],
+  "usages": [
+    { "title": "① 体・声", "desc": "震える", "example_en": "Her quivering voice showed her fear.", "example_ja": "震える声が彼女の恐怖を表していた。" },
+    { "title": "② 物", "desc": "小刻みに揺れる", "example_en": "The leaves were quivering in the wind.", "example_ja": "葉が風に小刻みに揺れていた。" }
+  ],
+  "warn": ["動詞は quiver（震える・小刻みに揺れる）。名詞 quiver は「震え」または「矢筒」。", "shiver（寒さで震える）、tremble（恐れて震える）と近い。"],
+  "etym_note": "中英語 quiveren（震える）に -ing を付けた語。細かく揺れ動く様子を表す。",
+  "etym_chain": [
+    { "node": "quiveren", "sub": "震える", "era": "中英語" },
+    { "node": "quiver", "sub": "震える", "era": "15世紀" },
+    { "node": "quivering", "sub": "小刻みに震える", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "a quivering voice", "ja": "震える声" },
+    { "en": "quivering with fear", "ja": "恐怖で震えて" },
+    { "en": "quivering lips", "ja": "震える唇" },
+    { "en": "quivering leaves", "ja": "小刻みに揺れる葉" },
+    { "en": "a quivering mass", "ja": "ぷるぷる震える塊" },
+    { "en": "quivering all over", "ja": "全身で震えて" }
+  ],
+  "related": [
+    { "en": "quiver", "ja": "震える・震え" },
+    { "en": "tremble", "ja": "震える" },
+    { "en": "shiver", "ja": "寒さで震える" },
+    { "en": "shake", "ja": "揺れる・震える" }
+  ],
+  "faq": [
+    { "q": "quivering の意味は？", "a": "恐怖・寒さ・興奮などで小刻みに「震えている」という意味です。" },
+    { "q": "動詞形は？", "a": "quiver（震える・小刻みに揺れる）です。" }
+  ],
+  "quiz": [
+    { "q": "quivering の意味は？", "A": "小刻みに震えている", "B": "じっと止まっている", "C": "笑っている", "D": "眠っている", "correct": "A" },
+    { "q": "quivering の動詞形は？", "A": "quiver", "B": "quiet のみ", "C": "quit", "D": "quote", "correct": "A" }
+  ]
+},
+{
+  "english": "quixotic",
+  "pron": "kwɪkˈsɒtɪk",
+  "kana": "クイクソティック",
+  "hinshi": "形容詞",
+  "ld_pos": "形容詞",
+  "ld_etym": "小説の主人公ドン・キホーテ（Don Quixote）から",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "性質"],
+  "meaning_main": "非現実的に理想を追う / 夢想的な / 現実離れした",
+  "description": "quixotic（クイクソティック）は現実を無視して理想を追い求める「非現実的な・夢想的な」という意味の形容詞です。小説『ドン・キホーテ』の主人公が由来です。意味を解説します。",
+  "keywords": ["quixotic 意味", "非現実的 英語", "ドン・キホーテ 英語", "quixotic 使い方"],
+  "meanings": [
+    { "hinshi": "【形容詞】非現実的に理想を追う・夢想的な", "note": "実現の見込みが薄いのに、高い理想や正義を情熱的に追い求める" }
+  ],
+  "usages": [
+    { "title": "① 理想主義", "desc": "現実離れ", "example_en": "It was a quixotic quest for perfection.", "example_ja": "それは完璧さを求める非現実的な探求だった。" },
+    { "title": "② 計画", "desc": "夢想的", "example_en": "His plan seemed noble but quixotic.", "example_ja": "彼の計画は高潔だが夢想的に思えた。" }
+  ],
+  "warn": ["セルバンテスの小説『ドン・キホーテ』の主人公にちなむ。彼は風車を巨人と思い込んで突撃した。", "「高潔だが実現しそうにない」という含みを持つ。"],
+  "etym_note": "スペインの小説『ドン・キホーテ（Don Quixote）』の主人公の名から。理想に燃えて現実離れした行動をとる姿にちなむ。",
+  "etym_chain": [
+    { "node": "Don Quixote", "sub": "小説の主人公", "era": "1605年" },
+    { "node": "quixotic", "sub": "夢想的な", "era": "18世紀" },
+    { "node": "quixotic", "sub": "非現実的に理想を追う", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "a quixotic quest", "ja": "非現実的な探求" },
+    { "en": "a quixotic dream", "ja": "夢想的な夢" },
+    { "en": "quixotic idealism", "ja": "現実離れした理想主義" },
+    { "en": "a quixotic gesture", "ja": "夢想的な行為" },
+    { "en": "noble but quixotic", "ja": "高潔だが非現実的" },
+    { "en": "a quixotic mission", "ja": "夢想的な使命" }
+  ],
+  "related": [
+    { "en": "idealistic", "ja": "理想主義的な" },
+    { "en": "unrealistic", "ja": "非現実的な" },
+    { "en": "impractical", "ja": "非実際的な" },
+    { "en": "romantic", "ja": "空想的な・ロマンチックな" }
+  ],
+  "faq": [
+    { "q": "quixotic の意味は？", "a": "現実を無視して理想を追い求める「非現実的な・夢想的な」という意味です。" },
+    { "q": "由来は？", "a": "小説『ドン・キホーテ』の主人公が、風車を巨人と思い突撃するなど現実離れした行動をとったことにちなみます。" }
+  ],
+  "quiz": [
+    { "q": "quixotic の意味は？", "A": "非現実的に理想を追う", "B": "現実的で堅実な", "C": "冷淡な", "D": "臆病な", "correct": "A" },
+    { "q": "quixotic の由来となった人物は？", "A": "ドン・キホーテ", "B": "ロミオ", "C": "ハムレット", "D": "オセロ", "correct": "A" }
+  ]
+},
+{
+  "english": "rabbinical",
+  "pron": "rəˈbɪnɪkl",
+  "kana": "ラビニカル",
+  "hinshi": "形容詞",
+  "ld_pos": "形容詞",
+  "ld_etym": "ヘブライ語 rabbi（我が師）から",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "宗教"],
+  "meaning_main": "ラビの / ユダヤ教の律法学者に関する",
+  "description": "rabbinical（ラビニカル）はユダヤ教の指導者・律法学者「ラビ（rabbi）」やその教え・伝統に関する、という意味の形容詞です。意味・使い方を解説します。",
+  "keywords": ["rabbinical 意味", "ラビ 英語", "ユダヤ教 律法", "rabbinical 使い方"],
+  "meanings": [
+    { "hinshi": "【形容詞】ラビの・律法学者の", "note": "ユダヤ教の指導者・律法学者（ラビ）やその学問・伝統に関する" }
+  ],
+  "usages": [
+    { "title": "① 宗教・学問", "desc": "ラビの伝統", "example_en": "He studied rabbinical texts.", "example_ja": "彼はラビの（ユダヤ教の律法の）文献を学んだ。" },
+    { "title": "② 教育", "desc": "神学校", "example_en": "She attended a rabbinical school.", "example_ja": "彼女はラビ養成の神学校に通った。" }
+  ],
+  "warn": ["ラビは rabbi（ユダヤ教の指導者・律法学者）。ユダヤ教の口伝律法をまとめたものは Talmud（タルムード）。", "ヘブライ語 rabbi（我が師）に由来する。"],
+  "etym_note": "ヘブライ語 rabbi（「我が師」の意）→ rabbinical。ラビに関することを表す形容詞。",
+  "etym_chain": [
+    { "node": "rabbi", "sub": "我が師", "era": "ヘブライ語" },
+    { "node": "rabbinic", "sub": "ラビの", "era": "17世紀" },
+    { "node": "rabbinical", "sub": "ラビの", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "rabbinical texts", "ja": "ラビの文献" },
+    { "en": "a rabbinical school", "ja": "ラビ養成学校" },
+    { "en": "rabbinical law", "ja": "ラビの律法" },
+    { "en": "rabbinical tradition", "ja": "ラビの伝統" },
+    { "en": "rabbinical students", "ja": "ラビを目指す学生" },
+    { "en": "rabbinical authority", "ja": "ラビの権威" }
+  ],
+  "related": [
+    { "en": "rabbi", "ja": "ラビ（ユダヤ教指導者）" },
+    { "en": "judaism", "ja": "ユダヤ教" },
+    { "en": "talmud", "ja": "タルムード" },
+    { "en": "synagogue", "ja": "シナゴーグ" }
+  ],
+  "faq": [
+    { "q": "rabbinical の意味は？", "a": "ユダヤ教の指導者・律法学者「ラビ」やその教え・伝統に関する、という意味です。" },
+    { "q": "ラビとは？", "a": "ユダヤ教の律法を教え、共同体を導く指導者・学者のことです。" }
+  ],
+  "quiz": [
+    { "q": "rabbinical の意味は？", "A": "ユダヤ教のラビ（律法学者）の", "B": "仏教の", "C": "科学の", "D": "スポーツの", "correct": "A" },
+    { "q": "rabbi とは？", "A": "ユダヤ教の指導者・律法学者", "B": "医者", "C": "軍人", "D": "商人", "correct": "A" }
+  ]
+},
+{
+  "english": "rachitis",
+  "pron": "rəˈkaɪtɪs",
+  "kana": "ラカイティス",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "ギリシャ語 rhachis（背骨）＋ -itis",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "医学"],
+  "meaning_main": "くる病（rickets の医学的な呼び名）",
+  "description": "rachitis（ラカイティス）はビタミンD不足などで子供の骨が十分に育たず変形する病気「くる病」を指す医学用語です。一般には rickets と呼ばれます。意味を解説します。",
+  "keywords": ["rachitis 意味", "くる病 英語", "rickets", "rachitis 使い方"],
+  "meanings": [
+    { "hinshi": "【名詞】くる病", "note": "ビタミンD不足などで子供の骨に十分カルシウムが沈着せず、骨が軟らかく変形する病気。一般には rickets" }
+  ],
+  "usages": [
+    { "title": "① 医学の診断", "desc": "子供の骨の病気", "example_en": "Rachitis is caused by a lack of vitamin D.", "example_ja": "くる病はビタミンD不足によって起こる。" },
+    { "title": "② 予防", "desc": "栄養・日光", "example_en": "Sunlight helps prevent rachitis.", "example_ja": "日光はくる病の予防に役立つ。" }
+  ],
+  "warn": ["一般的には rickets（くる病）と呼ぶ。大人の同様の病気は osteomalacia（骨軟化症）。", "ギリシャ語 rhachis（背骨）に由来する医学名。"],
+  "etym_note": "ギリシャ語 rhachis（背骨）に -itis（炎症・病）を付けた語。rickets の医学的な呼び名。",
+  "etym_chain": [
+    { "node": "rhachis", "sub": "背骨", "era": "古代ギリシャ語" },
+    { "node": "rachitis", "sub": "くる病", "era": "17世紀（医学）" },
+    { "node": "rachitis", "sub": "くる病", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "signs of rachitis", "ja": "くる病の兆候" },
+    { "en": "develop rachitis", "ja": "くる病になる" },
+    { "en": "prevent rachitis", "ja": "くる病を防ぐ" },
+    { "en": "childhood rachitis", "ja": "小児のくる病" },
+    { "en": "treat rachitis", "ja": "くる病を治療する" },
+    { "en": "vitamin D and rachitis", "ja": "ビタミンDとくる病" }
+  ],
+  "related": [
+    { "en": "rickets", "ja": "くる病" },
+    { "en": "osteomalacia", "ja": "骨軟化症（大人）" },
+    { "en": "bone", "ja": "骨" },
+    { "en": "vitamin", "ja": "ビタミン" }
+  ],
+  "faq": [
+    { "q": "rachitis とは？", "a": "ビタミンD不足などで子供の骨が十分に育たず変形する病気「くる病」の医学的な呼び名です。" },
+    { "q": "一般的な呼び名は？", "a": "rickets（くる病）です。大人の同様の病気は osteomalacia（骨軟化症）です。" }
+  ],
+  "quiz": [
+    { "q": "rachitis の意味は？", "A": "くる病", "B": "風邪", "C": "骨折", "D": "頭痛", "correct": "A" },
+    { "q": "rachitis の一般的な呼び名は？", "A": "rickets", "B": "flu", "C": "cold", "D": "fever", "correct": "A" }
+  ]
+},
+{
+  "english": "racial",
+  "pron": "ˈreɪʃl",
+  "kana": "レイシャル",
+  "hinshi": "形容詞",
+  "ld_pos": "形容詞",
+  "ld_etym": "race（人種）＋ -ial",
+  "ld_level": "準1級",
+  "badges": ["中学生〜", "英検準1級", "CEFR B2", "社会"],
+  "meaning_main": "人種の / 人種間の",
+  "description": "racial（レイシャル）は人種に関する、人種間の、という意味の形容詞です。人種の平等や差別など、社会の話題でよく使われます。意味・使い方を解説します。",
+  "keywords": ["racial 意味", "人種 英語", "人種差別 英語", "race 形容詞"],
+  "meanings": [
+    { "hinshi": "【形容詞】人種の・人種間の", "note": "人種に関する、または異なる人種の間の" }
+  ],
+  "usages": [
+    { "title": "① 社会・平等", "desc": "人種に関する", "example_en": "They fought for racial equality.", "example_ja": "彼らは人種の平等のために闘った。" },
+    { "title": "② 差別の話題", "desc": "人種間の", "example_en": "Racial discrimination is against the law.", "example_ja": "人種差別は法律に反する。" }
+  ],
+  "warn": ["名詞は race（人種）、racism は「人種差別（主義）」。", "racial equality（人種の平等）、racial discrimination（人種差別）などでよく使う。"],
+  "etym_note": "イタリア語 razza（種族）由来の race（人種）に -ial を付けた語。",
+  "etym_chain": [
+    { "node": "razza", "sub": "種族", "era": "イタリア語" },
+    { "node": "race", "sub": "人種", "era": "16世紀" },
+    { "node": "racial", "sub": "人種の", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "racial equality", "ja": "人種の平等" },
+    { "en": "racial discrimination", "ja": "人種差別" },
+    { "en": "racial diversity", "ja": "人種の多様性" },
+    { "en": "racial tension", "ja": "人種間の緊張" },
+    { "en": "racial harmony", "ja": "人種の調和" },
+    { "en": "racial identity", "ja": "人種的アイデンティティ" }
+  ],
+  "related": [
+    { "en": "race", "ja": "人種" },
+    { "en": "racism", "ja": "人種差別" },
+    { "en": "ethnic", "ja": "民族の" },
+    { "en": "diversity", "ja": "多様性" }
+  ],
+  "faq": [
+    { "q": "racial の意味は？", "a": "人種に関する、人種間の、という意味の形容詞です。" },
+    { "q": "racism との違いは？", "a": "racial は「人種の（中立的な形容詞）」、racism は「人種差別（主義）」です。" }
+  ],
+  "quiz": [
+    { "q": "racial の意味は？", "A": "人種の・人種間の", "B": "宗教の", "C": "経済の", "D": "科学の", "correct": "A" },
+    { "q": "racial equality の意味は？", "A": "人種の平等", "B": "人種差別", "C": "経済成長", "D": "貿易", "correct": "A" }
+  ]
+},
+{
+  "english": "racketeering",
+  "pron": "ˌrækəˈtɪərɪŋ",
+  "kana": "ラケティアリング",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "racket（ゆすり・不正な商売）＋ -eer ＋ -ing",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "犯罪"],
+  "meaning_main": "ゆすり / 組織的な不正・恐喝ビジネス",
+  "description": "racketeering（ラケティアリング）は脅しやゆすり、詐欺などで金を巻き上げる組織的な犯罪行為「ゆすり・恐喝ビジネス」を指す名詞です。意味を解説します。",
+  "keywords": ["racketeering 意味", "ゆすり 英語", "組織犯罪 英語", "racketeering 使い方"],
+  "meanings": [
+    { "hinshi": "【名詞】ゆすり・組織的な不正", "note": "脅し・恐喝・詐欺などで、組織的に不正に金を得る犯罪行為" }
+  ],
+  "usages": [
+    { "title": "① 組織犯罪", "desc": "ゆすり", "example_en": "The gang was charged with racketeering.", "example_ja": "そのギャングはゆすりの罪で起訴された。" },
+    { "title": "② 不正な商売", "desc": "恐喝ビジネス", "example_en": "Racketeering harms honest businesses.", "example_ja": "組織的な不正は正直な事業を害する。" }
+  ],
+  "warn": ["それを行う人は racketeer（ゆすり屋）。racket は「ゆすり・不正な金もうけ」の意（テニスのラケットとは別）。", "アメリカでは RICO法（組織犯罪処罰法）で取り締まられる。"],
+  "etym_note": "racket（騒ぎ→ゆすり・不正な商売）に、「〜する人」の -eer と -ing を付けた語。",
+  "etym_chain": [
+    { "node": "racket", "sub": "ゆすり・不正な商売", "era": "20世紀初め" },
+    { "node": "racketeer", "sub": "ゆすり屋", "era": "1920年代" },
+    { "node": "racketeering", "sub": "ゆすり", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "charged with racketeering", "ja": "ゆすりで起訴される" },
+    { "en": "organized racketeering", "ja": "組織的なゆすり" },
+    { "en": "racketeering charges", "ja": "ゆすりの罪状" },
+    { "en": "engage in racketeering", "ja": "ゆすりに関わる" },
+    { "en": "a racketeering operation", "ja": "恐喝の組織" },
+    { "en": "racketeering and fraud", "ja": "ゆすりと詐欺" }
+  ],
+  "related": [
+    { "en": "racketeer", "ja": "ゆすり屋" },
+    { "en": "extortion", "ja": "恐喝" },
+    { "en": "organized crime", "ja": "組織犯罪" },
+    { "en": "fraud", "ja": "詐欺" }
+  ],
+  "faq": [
+    { "q": "racketeering とは？", "a": "脅しやゆすり、詐欺などで金を巻き上げる組織的な犯罪行為「ゆすり・恐喝ビジネス」です。" },
+    { "q": "する人は英語で？", "a": "racketeer（ゆすり屋）です。" }
+  ],
+  "quiz": [
+    { "q": "racketeering の意味は？", "A": "組織的なゆすり・恐喝ビジネス", "B": "正当な商売", "C": "慈善活動", "D": "スポーツ", "correct": "A" },
+    { "q": "racketeering をする人は？", "A": "racketeer", "B": "racer", "C": "reporter", "D": "referee", "correct": "A" }
+  ]
+},
+{
+  "english": "rad",
+  "pron": "ræd",
+  "kana": "ラッド",
+  "hinshi": "形容詞(俗語) / 名詞",
+  "ld_pos": "形容詞",
+  "ld_etym": "radical（過激な・すごい）の短縮",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "俗語・科学"],
+  "meaning_main": "(俗語)超かっこいい / すごい ／(単位)ラド（放射線量）",
+  "description": "rad（ラッド）は「超かっこいい・すごい」という意味のくだけた俗語です（radical の短縮）。また物理では放射線の吸収線量の古い単位も指します。意味を解説します。",
+  "keywords": ["rad 意味", "かっこいい 俗語 英語", "rad 使い方", "radical 短縮"],
+  "meanings": [
+    { "hinshi": "【形容詞】(俗語)超かっこいい・すごい", "note": "radical の短縮。「最高・イケてる」を表すくだけた言い方" },
+    { "hinshi": "【名詞】ラド（放射線量の単位）", "note": "物理で放射線の吸収線量を表す古い単位（現在は gray に置き換え）" }
+  ],
+  "usages": [
+    { "title": "① 俗語でほめる", "desc": "かっこいい", "example_en": "That skateboard trick was so rad!", "example_ja": "あのスケボーの技、超かっこよかった！" },
+    { "title": "② 物理の単位", "desc": "放射線量", "example_en": "The dose was measured in rads.", "example_ja": "その線量はラドで測られた。" }
+  ],
+  "warn": ["俗語の「かっこいい」は1980年代に流行したくだけた言い方。", "単位の rad は現在は gray（グレイ、Gy）に置き換えられている。"],
+  "etym_note": "俗語は radical（過激な→すごい）の短縮。単位は radiation absorbed dose（放射線吸収線量）の頭字語。",
+  "etym_chain": [
+    { "node": "radical", "sub": "過激な・すごい", "era": "英語" },
+    { "node": "rad", "sub": "かっこいい（俗語）", "era": "1980年代" },
+    { "node": "rad", "sub": "かっこいい・ラド", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "so rad", "ja": "超かっこいい" },
+    { "en": "that's rad", "ja": "それ、いいね" },
+    { "en": "a rad trick", "ja": "かっこいい技" },
+    { "en": "totally rad", "ja": "めちゃくちゃかっこいい" },
+    { "en": "measured in rads", "ja": "ラドで測られた" },
+    { "en": "a rad idea", "ja": "イケてるアイデア" }
+  ],
+  "related": [
+    { "en": "radical", "ja": "過激な・すごい" },
+    { "en": "cool", "ja": "かっこいい" },
+    { "en": "awesome", "ja": "最高の" },
+    { "en": "gray", "ja": "グレイ（放射線量の単位）" }
+  ],
+  "faq": [
+    { "q": "rad の意味は？", "a": "俗語で「超かっこいい・すごい」（radical の短縮）です。また物理では放射線量の古い単位も指します。" },
+    { "q": "俗語の由来は？", "a": "radical（過激な→すごい）の短縮で、1980年代に流行したくだけた言い方です。" }
+  ],
+  "quiz": [
+    { "q": "俗語の rad の意味は？", "A": "超かっこいい・すごい", "B": "退屈な", "C": "怖い", "D": "小さい", "correct": "A" },
+    { "q": "rad は何の短縮？", "A": "radical", "B": "radio", "C": "radar", "D": "rabbit", "correct": "A" }
+  ]
+},
+{
+  "english": "radicalism",
+  "pron": "ˈrædɪkəlɪzəm",
+  "kana": "ラディカリズム",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "radical（根本的な・過激な）＋ -ism",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "政治"],
+  "meaning_main": "急進主義 / 過激主義 / 根本的改革を求める思想",
+  "description": "radicalism（ラディカリズム）は社会や政治の根本的な改革を強く求める「急進主義・過激主義」を指す名詞です。意味・使い方を解説します。",
+  "keywords": ["radicalism 意味", "急進主義 英語", "過激主義 英語", "radical 名詞"],
+  "meanings": [
+    { "hinshi": "【名詞】急進主義・過激主義", "note": "社会・政治の根本的で急激な改革を求める思想・立場" }
+  ],
+  "usages": [
+    { "title": "① 政治思想", "desc": "急進的な改革", "example_en": "The movement was known for its radicalism.", "example_ja": "その運動は急進主義で知られた。" },
+    { "title": "② 過激化", "desc": "極端な立場", "example_en": "Political radicalism grew during the crisis.", "example_ja": "危機の間、政治的な過激主義が広がった。" }
+  ],
+  "warn": ["形容詞は radical（根本的な・急進的な）。反対は conservatism（保守主義）。", "radical はラテン語 radix（根）に由来し、「根本から変える」の意。"],
+  "etym_note": "ラテン語 radix（根）由来の radical（根本的な）に、主義を表す -ism を付けた語。",
+  "etym_chain": [
+    { "node": "radix", "sub": "根", "era": "ラテン語" },
+    { "node": "radical", "sub": "根本的な・急進的な", "era": "14世紀" },
+    { "node": "radicalism", "sub": "急進主義", "era": "19世紀" }
+  ],
+  "phrases": [
+    { "en": "political radicalism", "ja": "政治的急進主義" },
+    { "en": "rising radicalism", "ja": "高まる過激主義" },
+    { "en": "religious radicalism", "ja": "宗教的過激主義" },
+    { "en": "youthful radicalism", "ja": "若者の急進主義" },
+    { "en": "reject radicalism", "ja": "過激主義を否定する" },
+    { "en": "the roots of radicalism", "ja": "急進主義の根源" }
+  ],
+  "related": [
+    { "en": "radical", "ja": "急進的な・根本的な" },
+    { "en": "extremism", "ja": "過激主義" },
+    { "en": "conservatism", "ja": "保守主義" },
+    { "en": "reform", "ja": "改革" }
+  ],
+  "faq": [
+    { "q": "radicalism の意味は？", "a": "社会や政治の根本的な改革を強く求める「急進主義・過激主義」です。" },
+    { "q": "反対の語は？", "a": "conservatism（保守主義）です。" }
+  ],
+  "quiz": [
+    { "q": "radicalism の意味は？", "A": "急進主義・過激主義", "B": "保守主義", "C": "無関心", "D": "現状維持", "correct": "A" },
+    { "q": "radical の語源 radix の意味は？", "A": "根", "B": "光", "C": "水", "D": "火", "correct": "A" }
+  ]
+},
+{
+  "english": "radicalization",
+  "pron": "ˌrædɪkələˈzeɪʃn",
+  "kana": "ラディカライゼーション",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "radicalize（急進化させる）＋ -ation",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "社会"],
+  "meaning_main": "過激化 / 急進化（考えが極端になること）",
+  "description": "radicalization（ラディカライゼーション）は人や集団の考え・行動がしだいに過激・急進的になっていくこと「過激化」を指す名詞です。意味・使い方を解説します。",
+  "keywords": ["radicalization 意味", "過激化 英語", "radicalize", "radicalization 使い方"],
+  "meanings": [
+    { "hinshi": "【名詞】過激化・急進化", "note": "人や集団の思想・行動が、しだいに極端で過激なものになっていく過程" }
+  ],
+  "usages": [
+    { "title": "① 社会問題", "desc": "考えが過激に", "example_en": "The internet can speed up radicalization.", "example_ja": "インターネットは過激化を速めることがある。" },
+    { "title": "② 防止", "desc": "対策", "example_en": "They study how to prevent radicalization.", "example_ja": "彼らは過激化をどう防ぐか研究している。" }
+  ],
+  "warn": ["動詞は radicalize（急進化させる）。イギリス綴りは radicalisation。", "反対に過激さを和らげることは de-radicalization（脱過激化）。"],
+  "etym_note": "radical（急進的な）→ radicalize（急進化させる）に -ation を付けた語。",
+  "etym_chain": [
+    { "node": "radical", "sub": "急進的な", "era": "14世紀" },
+    { "node": "radicalize", "sub": "急進化させる", "era": "19世紀" },
+    { "node": "radicalization", "sub": "過激化", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "prevent radicalization", "ja": "過激化を防ぐ" },
+    { "en": "online radicalization", "ja": "ネット上の過激化" },
+    { "en": "the process of radicalization", "ja": "過激化の過程" },
+    { "en": "political radicalization", "ja": "政治的過激化" },
+    { "en": "de-radicalization", "ja": "脱過激化" },
+    { "en": "rapid radicalization", "ja": "急速な過激化" }
+  ],
+  "related": [
+    { "en": "radicalize", "ja": "急進化させる" },
+    { "en": "radicalism", "ja": "急進主義" },
+    { "en": "extremism", "ja": "過激主義" },
+    { "en": "indoctrination", "ja": "思想の吹き込み" }
+  ],
+  "faq": [
+    { "q": "radicalization の意味は？", "a": "人や集団の考え・行動がしだいに過激・急進的になっていくこと「過激化」です。" },
+    { "q": "反対の概念は？", "a": "de-radicalization（脱過激化）です。過激な考えを和らげることを指します。" }
+  ],
+  "quiz": [
+    { "q": "radicalization の意味は？", "A": "過激化・急進化", "B": "穏健化", "C": "現代化", "D": "都市化", "correct": "A" },
+    { "q": "radicalization の動詞形は？", "A": "radicalize", "B": "radiate のみ", "C": "realize", "D": "recognize", "correct": "A" }
+  ]
+},
+{
+  "english": "radiographer",
+  "pron": "ˌreɪdiˈɒɡrəfər",
+  "kana": "レイディオグラファー",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "radio-（放射線）＋ -grapher（記録する人）",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "医療・職業"],
+  "meaning_main": "放射線技師（X線などの画像を撮る医療技術者）",
+  "description": "radiographer（レイディオグラファー）はX線やCTなどを使って体内の画像を撮影する医療技術者「放射線技師」を指す名詞です。意味・使い方を解説します。",
+  "keywords": ["radiographer 意味", "放射線技師 英語", "X線 技師", "radiography"],
+  "meanings": [
+    { "hinshi": "【名詞】放射線技師", "note": "X線・CT・MRIなどを使って、診断のための体内の画像を撮影する医療技術者" }
+  ],
+  "usages": [
+    { "title": "① 医療", "desc": "画像を撮る", "example_en": "The radiographer took an X-ray of his arm.", "example_ja": "放射線技師は彼の腕のX線写真を撮った。" },
+    { "title": "② 職業", "desc": "検査技師", "example_en": "She works as a radiographer at the hospital.", "example_ja": "彼女は病院で放射線技師として働いている。" }
+  ],
+  "warn": ["撮った画像を診断する医師は radiologist（放射線科医）。分野は radiography（放射線撮影）。", "-grapher は「記録・撮影する人」を表す（photographer など）。"],
+  "etym_note": "radio-（放射線）と、graphein（描く・記録する）由来の -grapher を合わせた語。「放射線で撮影する人」の意。",
+  "etym_chain": [
+    { "node": "radio + grapher", "sub": "放射線＋撮る人", "era": "英語" },
+    { "node": "radiographer", "sub": "放射線技師", "era": "20世紀" },
+    { "node": "radiographer", "sub": "放射線技師", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "a diagnostic radiographer", "ja": "診断用の放射線技師" },
+    { "en": "work as a radiographer", "ja": "放射線技師として働く" },
+    { "en": "the radiographer's report", "ja": "放射線技師の報告" },
+    { "en": "a hospital radiographer", "ja": "病院の放射線技師" },
+    { "en": "a therapeutic radiographer", "ja": "治療用の放射線技師" },
+    { "en": "a qualified radiographer", "ja": "資格を持つ放射線技師" }
+  ],
+  "related": [
+    { "en": "radiography", "ja": "放射線撮影" },
+    { "en": "radiologist", "ja": "放射線科医" },
+    { "en": "x-ray", "ja": "X線" },
+    { "en": "technician", "ja": "技師" }
+  ],
+  "faq": [
+    { "q": "radiographer とは？", "a": "X線やCTなどを使って体内の画像を撮影する医療技術者「放射線技師」です。" },
+    { "q": "radiologist との違いは？", "a": "radiographer は画像を撮影する技師、radiologist はその画像を診断する医師です。" }
+  ],
+  "quiz": [
+    { "q": "radiographer の仕事は？", "A": "X線などで体内の画像を撮る", "B": "手術する", "C": "薬を作る", "D": "受付をする", "correct": "A" },
+    { "q": "撮った画像を診断する医師は？", "A": "radiologist", "B": "radiographer", "C": "surgeon のみ", "D": "nurse", "correct": "A" }
+  ]
+},
+{
+  "english": "radiography",
+  "pron": "ˌreɪdiˈɒɡrəfi",
+  "kana": "レイディオグラフィー",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "radio-（放射線）＋ -graphy（記録法）",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "医療・技術"],
+  "meaning_main": "放射線撮影（X線などで内部の画像を作る技術）",
+  "description": "radiography（レイディオグラフィー）はX線やガンマ線を使って、体や物の内部を画像にする技術「放射線撮影」を指す名詞です。医療や検査に使われます。意味を解説します。",
+  "keywords": ["radiography 意味", "放射線撮影 英語", "X線撮影 英語", "radiography 使い方"],
+  "meanings": [
+    { "hinshi": "【名詞】放射線撮影", "note": "X線やガンマ線を使って、体内や物体の内部を画像（レントゲン写真など）にする技術" }
+  ],
+  "usages": [
+    { "title": "① 医療", "desc": "X線検査", "example_en": "Radiography helps doctors see broken bones.", "example_ja": "放射線撮影は医師が骨折を見るのに役立つ。" },
+    { "title": "② 工業", "desc": "内部の検査", "example_en": "Radiography is used to inspect metal parts.", "example_ja": "放射線撮影は金属部品の検査に使われる。" }
+  ],
+  "warn": ["撮影する技師は radiographer、診断する医師は radiologist。", "-graphy は「記録・撮影の技術」を表す（photography など）。"],
+  "etym_note": "radio-（放射線）と、graphein（描く・記録する）由来の -graphy を合わせた語。「放射線で記録すること」の意。",
+  "etym_chain": [
+    { "node": "radio + graphy", "sub": "放射線＋記録法", "era": "英語" },
+    { "node": "radiography", "sub": "放射線撮影", "era": "19世紀末" },
+    { "node": "radiography", "sub": "放射線撮影", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "chest radiography", "ja": "胸部X線撮影" },
+    { "en": "dental radiography", "ja": "歯科放射線撮影" },
+    { "en": "digital radiography", "ja": "デジタルX線撮影" },
+    { "en": "industrial radiography", "ja": "工業用放射線撮影" },
+    { "en": "undergo radiography", "ja": "放射線撮影を受ける" },
+    { "en": "radiography equipment", "ja": "放射線撮影の装置" }
+  ],
+  "related": [
+    { "en": "radiographer", "ja": "放射線技師" },
+    { "en": "x-ray", "ja": "X線" },
+    { "en": "imaging", "ja": "画像診断" },
+    { "en": "scan", "ja": "スキャン" }
+  ],
+  "faq": [
+    { "q": "radiography とは？", "a": "X線やガンマ線を使って、体や物の内部を画像にする技術「放射線撮影」です。" },
+    { "q": "誰が行う？", "a": "撮影は放射線技師（radiographer）が行い、画像の診断は放射線科医（radiologist）が行います。" }
+  ],
+  "quiz": [
+    { "q": "radiography とは？", "A": "放射線で内部を画像にする技術", "B": "音を録音する技術", "C": "料理法", "D": "運転技術", "correct": "A" },
+    { "q": "radiography に使う放射線は？", "A": "X線・ガンマ線", "B": "音波のみ", "C": "電波のみ", "D": "使わない", "correct": "A" }
+  ]
+}
+]
