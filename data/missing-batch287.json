@@ -1,0 +1,996 @@
+[
+{
+  "english": "reprocessing",
+  "pron": "riːˈprɒsesɪŋ",
+  "kana": "リプロセシング",
+  "hinshi": "名詞・動詞",
+  "ld_pos": "名詞",
+  "ld_etym": "re-（再び）+ processing（処理）",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "専門用語"],
+  "meaning_main": "再処理（特に使用済み核燃料の再処理）",
+  "description": "reprocessing（リプロセシング）は「再処理」を表す語。特に使用済み核燃料の再処理でよく使う。意味・使い方・語源・例文・関連語をわかりやすく解説します。",
+  "keywords": ["reprocessing 意味", "reprocessing 核燃料", "reprocessing 使い方", "reprocessing 語源"],
+  "meanings": [
+    { "hinshi": "【名詞】再処理", "note": "一度処理したものをもう一度処理すること。特に使用済み核燃料からウランやプルトニウムを取り出す工程を指す。不可算名詞。" },
+    { "hinshi": "【動詞】reprocess の現在分詞・動名詞", "note": "「再処理している・再処理すること」。" }
+  ],
+  "usages": [
+    { "title": "① 核燃料の再処理", "desc": "原子力の話題で。", "example_en": "The plant handles the reprocessing of spent nuclear fuel.", "example_ja": "その施設は使用済み核燃料の再処理を扱う。" },
+    { "title": "② 一般的な再加工に", "desc": "素材の作り直しに。", "example_en": "Reprocessing the waste plastic reduces landfill.", "example_ja": "廃プラスチックの再処理は埋立ごみを減らす。" }
+  ],
+  "warn": ["動詞は reprocess（再処理する）。", "原子力の文脈では、使用済み燃料から再利用可能な物質を取り出す工程を特に指す。"],
+  "etym_note": "「再び」を表す re- が processing（処理）に付いた語。process はラテン語 procedere（前へ進む）に由来する。",
+  "etym_chain": [
+    { "node": "procedere", "sub": "前へ進む", "era": "ラテン語" },
+    { "node": "processing", "sub": "処理", "era": "近代英語" },
+    { "node": "reprocessing", "sub": "再処理", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "fuel reprocessing", "ja": "燃料の再処理" },
+    { "en": "reprocessing plant", "ja": "再処理施設" },
+    { "en": "reprocessing of spent fuel", "ja": "使用済み燃料の再処理" },
+    { "en": "chemical reprocessing", "ja": "化学的な再処理" },
+    { "en": "reprocessing technology", "ja": "再処理技術" },
+    { "en": "waste reprocessing", "ja": "廃棄物の再処理" }
+  ],
+  "related": [
+    { "en": "reprocess", "ja": "再処理する" },
+    { "en": "processing", "ja": "処理" },
+    { "en": "recycling", "ja": "リサイクル" },
+    { "en": "nuclear", "ja": "核の・原子力の" }
+  ],
+  "faq": [
+    { "q": "核燃料の reprocessing とは？", "a": "使用済みの核燃料から、まだ使えるウランやプルトニウムを化学的に取り出して再利用できるようにする工程です。" },
+    { "q": "recycling との違いは？", "a": "recycling は一般的な資源の再利用、reprocessing は特に核燃料など専門的な「再処理工程」を指すことが多いです。" }
+  ],
+  "quiz": [
+    { "q": "reprocessing の意味は？", "A": "再処理", "B": "初回製造", "C": "完全廃棄", "D": "輸出", "correct": "A" },
+    { "q": "reprocessing がよく使われる分野は？", "A": "使用済み核燃料", "B": "作曲", "C": "スポーツ", "D": "料理の盛り付け", "correct": "A" }
+  ]
+},
+{
+  "english": "reproducibility",
+  "pron": "ˌriːprədjuːsəˈbɪləti",
+  "kana": "リプロデューサビリティ",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "reproducible（再現できる）+ -ity（性質）",
+  "ld_level": "1級",
+  "badges": ["大学生〜", "英検1級", "CEFR C1", "学術用語"],
+  "meaning_main": "再現性",
+  "description": "reproducibility（リプロデューサビリティ）は「再現性」を表す学術語。実験を同じ条件でやると同じ結果が出る度合い。意味・使い方・語源・例文・関連語をわかりやすく解説します。",
+  "keywords": ["reproducibility 意味", "reproducibility 再現性", "reproducibility 使い方", "reproducibility 語源"],
+  "meanings": [
+    { "hinshi": "【名詞】再現性", "note": "同じ手順・条件で行えば、別の人や別の場所でも同じ結果が得られる度合い。科学研究で重要な概念。不可算名詞。" }
+  ],
+  "usages": [
+    { "title": "① 科学研究で", "desc": "実験の信頼性に。", "example_en": "Reproducibility is essential for scientific credibility.", "example_ja": "再現性は科学の信頼性にとって不可欠だ。" },
+    { "title": "② 問題の指摘で", "desc": "再現性の危機に。", "example_en": "Some fields face a crisis of reproducibility.", "example_ja": "いくつかの分野は再現性の危機に直面している。" }
+  ],
+  "warn": ["形容詞は reproducible（再現できる）。", "似た語 repeatability（反復性）は「同じ人・同じ環境での再現」を指し、区別されることがある。"],
+  "etym_note": "reproduce（再び作り出す・再現する）に -ible, -ity が付いた語。produce はラテン語 producere（前へ導き出す）に由来する。",
+  "etym_chain": [
+    { "node": "producere", "sub": "導き出す", "era": "ラテン語" },
+    { "node": "reproduce", "sub": "再現する", "era": "近代英語" },
+    { "node": "reproducibility", "sub": "再現性", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "scientific reproducibility", "ja": "科学的再現性" },
+    { "en": "reproducibility crisis", "ja": "再現性の危機" },
+    { "en": "ensure reproducibility", "ja": "再現性を確保する" },
+    { "en": "lack of reproducibility", "ja": "再現性の欠如" },
+    { "en": "test reproducibility", "ja": "再現性を検証する" },
+    { "en": "reproducibility of results", "ja": "結果の再現性" }
+  ],
+  "related": [
+    { "en": "reproducible", "ja": "再現できる" },
+    { "en": "reproduce", "ja": "再現する" },
+    { "en": "repeatability", "ja": "反復性" },
+    { "en": "reliability", "ja": "信頼性" }
+  ],
+  "faq": [
+    { "q": "なぜ reproducibility が重要ですか？", "a": "他の研究者が同じ実験をして同じ結果が出せて初めて、その発見が信頼できると認められるためです。" },
+    { "q": "reproducibility crisis とは？", "a": "発表された研究の結果を追試しても再現できない事例が多い、という科学界の問題を指す言葉です。" }
+  ],
+  "quiz": [
+    { "q": "reproducibility の意味は？", "A": "再現性", "B": "危険性", "C": "柔軟性", "D": "透明性", "correct": "A" },
+    { "q": "reproducibility が特に重視される場面は？", "A": "科学の実験", "B": "詩の朗読", "C": "料理の盛り付け", "D": "服の選び方", "correct": "A" }
+  ]
+},
+{
+  "english": "republication",
+  "pron": "riːˌpʌblɪˈkeɪʃən",
+  "kana": "リパブリケーション",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "re-（再び）+ publication（出版）",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "可算・不可算"],
+  "meaning_main": "再出版・再掲載",
+  "description": "republication（リパブリケーション）は「再出版・再掲載」を表す名詞。一度出した本や記事を再び出すこと。意味・使い方・語源・例文・関連語をわかりやすく解説します。",
+  "keywords": ["republication 意味", "republication 使い方", "republication 再出版", "republication 語源"],
+  "meanings": [
+    { "hinshi": "【名詞】再出版・再刊", "note": "一度出版された本・記事などを、もう一度出版・掲載すること。" }
+  ],
+  "usages": [
+    { "title": "① 本の再刊で", "desc": "復刊の意味で。", "example_en": "The republication of the classic novel delighted fans.", "example_ja": "その古典小説の復刊はファンを喜ばせた。" },
+    { "title": "② 記事の再掲載で", "desc": "転載の許可に。", "example_en": "They sought permission for the republication of the article.", "example_ja": "彼らはその記事の再掲載の許可を求めた。" }
+  ],
+  "warn": ["動詞は republish（再出版する）。", "オンラインでは「再掲載・転載」の意味でも使う。"],
+  "etym_note": "「再び」を表す re- が publication（出版）に付いた語。publish はラテン語 publicare（公にする）に由来し、public（公の）と同語源。",
+  "etym_chain": [
+    { "node": "publicare", "sub": "公にする", "era": "ラテン語" },
+    { "node": "publication", "sub": "出版", "era": "中英語" },
+    { "node": "republication", "sub": "再出版", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "republication of the book", "ja": "本の再出版" },
+    { "en": "permission for republication", "ja": "再掲載の許可" },
+    { "en": "republication rights", "ja": "再出版権" },
+    { "en": "the republication of the article", "ja": "記事の再掲載" },
+    { "en": "digital republication", "ja": "デジタルでの再掲載" },
+    { "en": "approve republication", "ja": "再出版を認める" }
+  ],
+  "related": [
+    { "en": "republish", "ja": "再出版する" },
+    { "en": "publication", "ja": "出版" },
+    { "en": "reprint", "ja": "重版・再版" },
+    { "en": "reissue", "ja": "再発行" }
+  ],
+  "faq": [
+    { "q": "reprint との違いは？", "a": "reprint は同じ内容をそのまま刷り直す「重版」、republication は改訂を含めて改めて世に出す「再出版・再掲載」を広く指します。" },
+    { "q": "動詞形は？", "a": "republish（再出版する・再掲載する）です。" }
+  ],
+  "quiz": [
+    { "q": "republication の意味は？", "A": "再出版・再掲載", "B": "絶版", "C": "翻訳", "D": "販売中止", "correct": "A" },
+    { "q": "republication の動詞形は？", "A": "republish", "B": "republic", "C": "repudiate", "D": "reproduce", "correct": "A" }
+  ]
+},
+{
+  "english": "repugnance",
+  "pron": "rɪˈpʌɡnəns",
+  "kana": "リパグナンス",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "ラテン語 repugnare（抵抗する）から",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "不可算名詞"],
+  "meaning_main": "強い嫌悪・反感",
+  "description": "repugnance（リパグナンス）は「強い嫌悪・反感」を表す名詞。生理的に受けつけないほどの嫌悪。意味・使い方・語源・例文・関連語をわかりやすく解説します。",
+  "keywords": ["repugnance 意味", "repugnance 使い方", "repugnance 発音", "repugnance 語源"],
+  "meanings": [
+    { "hinshi": "【名詞】強い嫌悪・反感", "note": "受けつけられないほどの強い嫌悪感。道徳的に許せないという気持ちにも使う。不可算名詞。" }
+  ],
+  "usages": [
+    { "title": "① 強い嫌悪を表す", "desc": "受けつけない気持ちに。", "example_en": "She felt deep repugnance at the cruelty.", "example_ja": "彼女はその残酷さに深い嫌悪を覚えた。" },
+    { "title": "② 道徳的な反感に", "desc": "許せない気持ちに。", "example_en": "There was widespread repugnance toward the policy.", "example_ja": "その政策には広く反感が持たれた。" }
+  ],
+  "warn": ["形容詞は repugnant（きわめて不快な・受けつけない）。", "dislike（嫌い）よりずっと強い、生理的・道徳的な嫌悪を表す文語的な語。"],
+  "etym_note": "ラテン語 repugnare（re-「反して」+ pugnare「戦う」＝抵抗する）に由来する。「心が抵抗して受けつけないこと」を表す。",
+  "etym_chain": [
+    { "node": "repugnare", "sub": "抵抗する・逆らう", "era": "ラテン語" },
+    { "node": "repugnance", "sub": "反感・抵抗", "era": "中英語" },
+    { "node": "repugnance", "sub": "強い嫌悪", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "feel repugnance", "ja": "強い嫌悪を覚える" },
+    { "en": "deep repugnance", "ja": "深い嫌悪" },
+    { "en": "repugnance at cruelty", "ja": "残酷さへの嫌悪" },
+    { "en": "a sense of repugnance", "ja": "嫌悪感" },
+    { "en": "moral repugnance", "ja": "道徳的な反感" },
+    { "en": "overcome one's repugnance", "ja": "嫌悪感を乗り越える" }
+  ],
+  "related": [
+    { "en": "repugnant", "ja": "きわめて不快な" },
+    { "en": "disgust", "ja": "嫌悪・むかつき" },
+    { "en": "aversion", "ja": "嫌悪・反感" },
+    { "en": "loathing", "ja": "ひどい嫌悪" }
+  ],
+  "faq": [
+    { "q": "disgust との違いは？", "a": "disgust は「むかつき・嫌悪」一般、repugnance はより強く、道徳的に受けつけないニュアンスを含む文語的な語です。" },
+    { "q": "形容詞形は？", "a": "repugnant（きわめて不快な・受けつけられない）です。" }
+  ],
+  "quiz": [
+    { "q": "repugnance の意味は？", "A": "強い嫌悪・反感", "B": "強い好奇心", "C": "深い感謝", "D": "軽い興味", "correct": "A" },
+    { "q": "repugnance の形容詞形は？", "A": "repugnant", "B": "repugnable", "C": "repugnful", "D": "repugnive", "correct": "A" }
+  ]
+},
+{
+  "english": "repulse",
+  "pron": "rɪˈpʌls",
+  "kana": "リパルス",
+  "hinshi": "動詞・名詞",
+  "ld_pos": "動詞",
+  "ld_etym": "ラテン語 repellere（追い返す）から",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "他動詞"],
+  "meaning_main": "撃退する・不快感を与える",
+  "description": "repulse（リパルス）は「撃退する・(人に)強い不快感を与える」を表す動詞。意味・使い方・語源・例文・関連語をわかりやすく解説します。",
+  "keywords": ["repulse 意味", "repulse 使い方", "repulse 発音", "repulse 語源"],
+  "meanings": [
+    { "hinshi": "【動詞】撃退する・押し返す", "note": "攻撃してきた敵などを追い返すこと。他動詞。" },
+    { "hinshi": "【動詞】強い不快感を与える", "note": "人をぞっとさせる・むかつかせること。be repulsed by の形が多い。" },
+    { "hinshi": "【名詞】撃退・拒絶", "note": "追い返すこと・はねつけること。" }
+  ],
+  "usages": [
+    { "title": "① 敵を撃退する", "desc": "軍事の文脈で。", "example_en": "The defenders repulsed the enemy attack.", "example_ja": "守備隊は敵の攻撃を撃退した。" },
+    { "title": "② 不快感を与える", "desc": "be repulsed by で。", "example_en": "She was repulsed by the smell.", "example_ja": "彼女はその匂いに強い不快感を覚えた。" }
+  ],
+  "warn": ["形容詞 repulsive は「胸が悪くなるほど不快な」。名詞 repulsion は「嫌悪・反発」。", "「撃退する」と「不快感を与える」の二つの意味があるので文脈に注意。"],
+  "etym_note": "ラテン語 repellere（re-「後ろへ」+ pellere「押す」＝押し返す）の過去分詞 repulsus に由来する。「押し返す」から「はねつける・不快にさせる」へ発展した。",
+  "etym_chain": [
+    { "node": "repellere", "sub": "押し返す", "era": "ラテン語" },
+    { "node": "repulsus", "sub": "押し返された", "era": "ラテン語" },
+    { "node": "repulse", "sub": "撃退する・不快にさせる", "era": "中英語" }
+  ],
+  "phrases": [
+    { "en": "repulse an attack", "ja": "攻撃を撃退する" },
+    { "en": "repulse the enemy", "ja": "敵を追い返す" },
+    { "en": "be repulsed by", "ja": "〜に強い不快感を覚える" },
+    { "en": "repulse an advance", "ja": "進撃を押し返す" },
+    { "en": "utterly repulsed", "ja": "すっかりうんざりして" },
+    { "en": "repulse an offer", "ja": "申し出をはねつける" }
+  ],
+  "related": [
+    { "en": "repulsion", "ja": "嫌悪・反発" },
+    { "en": "repulsive", "ja": "きわめて不快な" },
+    { "en": "repel", "ja": "はね返す・寄せつけない" },
+    { "en": "disgust", "ja": "むかつかせる" }
+  ],
+  "faq": [
+    { "q": "repel と repulse の違いは？", "a": "重なる部分が多いですが、repulse は特に「(敵を)撃退する」と「(人を)強く不快にさせる」の意味で使われます。" },
+    { "q": "be repulsed by とは？", "a": "「〜に強い嫌悪・不快感を覚える」という意味の受け身の表現です。" }
+  ],
+  "quiz": [
+    { "q": "repulse の意味に含まれるのは？", "A": "撃退する・不快感を与える", "B": "歓迎する", "C": "感謝する", "D": "説明する", "correct": "A" },
+    { "q": "be repulsed by の意味は？", "A": "〜に強い不快感を覚える", "B": "〜を歓迎する", "C": "〜を作る", "D": "〜を数える", "correct": "A" }
+  ]
+},
+{
+  "english": "reputed",
+  "pron": "rɪˈpjuːtɪd",
+  "kana": "リピューテッド",
+  "hinshi": "形容詞",
+  "ld_pos": "形容詞",
+  "ld_etym": "repute（評判を与える）の過去分詞から",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "形容詞的用法"],
+  "meaning_main": "〜と評判の・〜とされている",
+  "description": "reputed（リピューテッド）は「〜と評判の・〜とうわさされている」を表す形容詞。意味・使い方・語源・例文・関連語をわかりやすく解説します。",
+  "keywords": ["reputed 意味", "reputed 使い方", "reputed 発音", "reputed 語源"],
+  "meanings": [
+    { "hinshi": "【形容詞】〜と評判の・〜とされている", "note": "確証はないが、一般にそう言われている・そう考えられている、という意味。be reputed to be の形が多い。" }
+  ],
+  "usages": [
+    { "title": "① be reputed to be で", "desc": "うわさ・評判に。", "example_en": "He is reputed to be the richest man in town.", "example_ja": "彼は町一番の金持ちだと言われている。" },
+    { "title": "② 名詞の前に置いて", "desc": "「〜と評判の」。", "example_en": "The reputed author of the letter denied writing it.", "example_ja": "その手紙を書いたとされる人物は執筆を否定した。" }
+  ],
+  "warn": ["副詞 reputedly は「うわさでは・伝えられるところでは」。", "「実際に良い評判の（well-reputed）」とは別で、reputed 単独は「〜とされている（真偽は保証しない）」の含み。"],
+  "etym_note": "動詞 repute（〜と評する・評判を与える）の過去分詞。repute はラテン語 reputare（re-「再び」+ putare「考える・見積もる」）に由来する。",
+  "etym_chain": [
+    { "node": "reputare", "sub": "よく考える・見積もる", "era": "ラテン語" },
+    { "node": "repute", "sub": "評する", "era": "中英語" },
+    { "node": "reputed", "sub": "〜と評判の", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "be reputed to be", "ja": "〜だと言われている" },
+    { "en": "the reputed owner", "ja": "所有者とされる人" },
+    { "en": "reputed to have", "ja": "〜を持つとされる" },
+    { "en": "a reputed expert", "ja": "専門家と目される人" },
+    { "en": "reputed for its quality", "ja": "品質で評判の" },
+    { "en": "widely reputed", "ja": "広くそう評されている" }
+  ],
+  "related": [
+    { "en": "reputation", "ja": "評判" },
+    { "en": "reputedly", "ja": "うわさでは" },
+    { "en": "supposed", "ja": "〜とされる" },
+    { "en": "alleged", "ja": "申し立てられた" }
+  ],
+  "faq": [
+    { "q": "reputed と supposed の違いは？", "a": "どちらも「〜とされる」ですが、reputed は「世間の評判・うわさとして」、supposed は「一般にそう思われている・そういうことになっている」というニュアンスです。" },
+    { "q": "副詞形は？", "a": "reputedly（うわさでは・伝えられるところでは）です。" }
+  ],
+  "quiz": [
+    { "q": "reputed の意味は？", "A": "〜と評判の・〜とされている", "B": "確実に証明された", "C": "全く無名の", "D": "禁止された", "correct": "A" },
+    { "q": "be reputed to be の意味は？", "A": "〜だと言われている", "B": "〜を禁止する", "C": "〜を破壊する", "D": "〜を数える", "correct": "A" }
+  ]
+},
+{
+  "english": "requalification",
+  "pron": "riːˌkwɒlɪfɪˈkeɪʃən",
+  "kana": "リクオリフィケーション",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "re-（再び）+ qualification（資格）",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "可算・不可算"],
+  "meaning_main": "資格の再取得／(スポーツ)予選再通過",
+  "description": "requalification（リクオリフィケーション）は「資格の再取得・予選の再通過」を表す名詞。意味・使い方・語源・例文・関連語をわかりやすく解説します。",
+  "keywords": ["requalification 意味", "requalification 使い方", "requalification 資格", "requalification 語源"],
+  "meanings": [
+    { "hinshi": "【名詞】資格の再取得", "note": "失効した資格や免許を、条件を満たしてもう一度得ること。" },
+    { "hinshi": "【名詞】(スポーツ)予選の再通過", "note": "予選・本選への出場資格を再び得ること。" }
+  ],
+  "usages": [
+    { "title": "① 資格・免許で", "desc": "取り直しの意味で。", "example_en": "The pilot underwent requalification after the break.", "example_ja": "そのパイロットは休職後に資格の再取得を受けた。" },
+    { "title": "② スポーツで", "desc": "出場権の再取得に。", "example_en": "She needs requalification to enter the finals.", "example_ja": "彼女は決勝に進むには予選を再通過する必要がある。" }
+  ],
+  "warn": ["動詞は requalify（再び資格を得る）。", "イギリス綴りも同じ requalification。"],
+  "etym_note": "「再び」を表す re- が qualification（資格）に付いた語。qualify はラテン語 qualis（どのような）+ facere（する）に由来する。",
+  "etym_chain": [
+    { "node": "qualis + facere", "sub": "性質を与える", "era": "ラテン語" },
+    { "node": "qualification", "sub": "資格", "era": "近代英語" },
+    { "node": "requalification", "sub": "資格の再取得", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "requalification course", "ja": "資格再取得の講座" },
+    { "en": "undergo requalification", "ja": "資格再取得を受ける" },
+    { "en": "requalification exam", "ja": "資格再取得試験" },
+    { "en": "need requalification", "ja": "再取得が必要" },
+    { "en": "requalification for the finals", "ja": "決勝への再出場権獲得" },
+    { "en": "requalification period", "ja": "再資格取得の期間" }
+  ],
+  "related": [
+    { "en": "qualification", "ja": "資格" },
+    { "en": "requalify", "ja": "再び資格を得る" },
+    { "en": "recertification", "ja": "再認定" },
+    { "en": "renewal", "ja": "更新" }
+  ],
+  "faq": [
+    { "q": "recertification との違いは？", "a": "どちらも「資格を取り直すこと」ですが、requalification は資格・出場権を「満たし直す」こと、recertification は認定を「再び認めてもらう」ことに重点があります。" },
+    { "q": "動詞形は？", "a": "requalify（再び資格を得る・予選を再通過する）です。" }
+  ],
+  "quiz": [
+    { "q": "requalification の意味は？", "A": "資格の再取得・予選再通過", "B": "資格の永久剥奪", "C": "初めての受験", "D": "退会", "correct": "A" },
+    { "q": "requalification の動詞形は？", "A": "requalify", "B": "request", "C": "require", "D": "requite", "correct": "A" }
+  ]
+},
+{
+  "english": "requested",
+  "pron": "rɪˈkwestɪd",
+  "kana": "リクエステッド",
+  "hinshi": "形容詞・動詞",
+  "ld_pos": "動詞",
+  "ld_etym": "request（要請する）の過去分詞から",
+  "ld_level": "3級",
+  "badges": ["中学生〜", "英検3級", "CEFR A2", "過去分詞"],
+  "meaning_main": "要求された・依頼された（request の過去形・過去分詞）",
+  "description": "requested（リクエステッド）は request（要請する）の過去形・過去分詞で「要求された・依頼された」を表す語。意味・使い方・語源・例文・関連語をわかりやすく解説します。",
+  "keywords": ["requested 意味", "request 過去形", "requested 使い方", "requested 語源"],
+  "meanings": [
+    { "hinshi": "【動詞】要求した・依頼した（過去形）", "note": "request（丁寧に頼む・要請する）の過去形。" },
+    { "hinshi": "【形容詞的】要求された・依頼された", "note": "the requested information（求められた情報）のように名詞を修飾する。" }
+  ],
+  "usages": [
+    { "title": "① 過去の依頼を表す", "desc": "頼んだことに。", "example_en": "She requested a window seat.", "example_ja": "彼女は窓側の席を頼んだ。" },
+    { "title": "② 求められたものに", "desc": "名詞を修飾して。", "example_en": "We have attached the requested documents.", "example_ja": "ご要望の書類を添付しました。" }
+  ],
+  "warn": ["request A（Aを頼む）と、request that S (should) do の形がある。to 不定詞は取らない（× request to do の他動詞用法に注意）。", "動詞 request は名詞（要請）としても使う。"],
+  "etym_note": "動詞 request（求める・要請する）の過去分詞。request はラテン語 requirere（re-「再び」+ quaerere「求める」＝探し求める）に由来する。",
+  "etym_chain": [
+    { "node": "requirere", "sub": "探し求める", "era": "ラテン語" },
+    { "node": "request", "sub": "要請する", "era": "中英語" },
+    { "node": "requested", "sub": "要求された", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "the requested information", "ja": "求められた情報" },
+    { "en": "requested documents", "ja": "要求された書類" },
+    { "en": "as requested", "ja": "ご要望の通り" },
+    { "en": "requested a refund", "ja": "返金を求めた" },
+    { "en": "the requested amount", "ja": "要求された金額" },
+    { "en": "requested by the user", "ja": "利用者から求められた" }
+  ],
+  "related": [
+    { "en": "request", "ja": "要請する・要請" },
+    { "en": "ask", "ja": "頼む" },
+    { "en": "require", "ja": "必要とする" },
+    { "en": "demand", "ja": "強く要求する" }
+  ],
+  "faq": [
+    { "q": "as requested とは？", "a": "「ご要望の通り・依頼された通りに」という意味の決まった言い回しで、メールなどでよく使います。" },
+    { "q": "request のあとに to 不定詞は使えますか？", "a": "「request to do」の形は避け、request that + 主語 + (should) 動詞原形、または request + 名詞の形を使います。" }
+  ],
+  "quiz": [
+    { "q": "requested の意味は？", "A": "要求された・依頼された", "B": "拒否された", "C": "忘れられた", "D": "壊された", "correct": "A" },
+    { "q": "as requested の意味は？", "A": "ご要望の通り", "B": "予想外に", "C": "偶然に", "D": "無料で", "correct": "A" }
+  ]
+},
+{
+  "english": "required",
+  "pron": "rɪˈkwaɪərd",
+  "kana": "リクワイアド",
+  "hinshi": "形容詞・動詞",
+  "ld_pos": "形容詞",
+  "ld_etym": "require（必要とする）の過去分詞から",
+  "ld_level": "3級",
+  "badges": ["中学生〜", "英検3級", "CEFR A2", "形容詞的用法"],
+  "meaning_main": "必要な・required（要求される・必須の）",
+  "description": "required（リクワイアド）は「必要な・必須の・要求される」を表す語。意味・使い方・語源・例文・関連語をわかりやすく解説します。",
+  "keywords": ["required 意味", "required 使い方", "require 過去分詞", "required 語源"],
+  "meanings": [
+    { "hinshi": "【形容詞】必要な・必須の", "note": "規則や条件として求められている。required course（必修科目）。反対は optional（任意の）。" },
+    { "hinshi": "【動詞】require の過去形・過去分詞", "note": "「必要とした・要求された」。" }
+  ],
+  "usages": [
+    { "title": "① 必須のものに", "desc": "義務・条件として。", "example_en": "A valid ticket is required to enter.", "example_ja": "入場には有効なチケットが必要です。" },
+    { "title": "② 必修・所定の意味で", "desc": "科目や項目に。", "example_en": "Math is a required subject at this school.", "example_ja": "数学はこの学校では必修科目だ。" }
+  ],
+  "warn": ["required は「(規則・条件として)必要な」。needed（実際に不足していて要る）とニュアンスが少し違う。", "as required（必要に応じて）という言い方がある。"],
+  "etym_note": "動詞 require（求める・必要とする）の過去分詞。require はラテン語 requirere（探し求める）に由来する。",
+  "etym_chain": [
+    { "node": "requirere", "sub": "探し求める", "era": "ラテン語" },
+    { "node": "require", "sub": "必要とする", "era": "中英語" },
+    { "node": "required", "sub": "必要な・必須の", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "required course", "ja": "必修科目" },
+    { "en": "as required", "ja": "必要に応じて" },
+    { "en": "the required amount", "ja": "必要な量" },
+    { "en": "required by law", "ja": "法律で義務づけられた" },
+    { "en": "no experience required", "ja": "経験不問" },
+    { "en": "required reading", "ja": "必読書" }
+  ],
+  "related": [
+    { "en": "require", "ja": "必要とする" },
+    { "en": "requirement", "ja": "必要条件" },
+    { "en": "necessary", "ja": "必要な" },
+    { "en": "optional", "ja": "任意の" }
+  ],
+  "faq": [
+    { "q": "required と necessary の違いは？", "a": "どちらも「必要な」ですが、required は「規則や条件として求められる（義務的）」、necessary は「なくてはならない」というニュアンスです。" },
+    { "q": "反対語は？", "a": "optional（任意の・選択の）です。" }
+  ],
+  "quiz": [
+    { "q": "required の意味は？", "A": "必要な・必須の", "B": "任意の", "C": "禁止された", "D": "無料の", "correct": "A" },
+    { "q": "required の反対語は？", "A": "optional（任意の）", "B": "difficult（難しい）", "C": "quick（速い）", "D": "happy（うれしい）", "correct": "A" }
+  ]
+},
+{
+  "english": "rerelease",
+  "pron": "ˌriːrɪˈliːs",
+  "kana": "リリリース",
+  "hinshi": "動詞・名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "re-（再び）+ release（発売・公開）",
+  "ld_level": "準1級",
+  "badges": ["高校生〜", "英検準1級", "CEFR B2", "可算・不可算"],
+  "meaning_main": "再発売・再公開・リマスター版の発売",
+  "description": "rerelease（リリリース）は「再発売・再公開」を表す語。映画・音楽・ゲームなどを再び世に出すこと。意味・使い方・語源・例文・関連語をわかりやすく解説します。",
+  "keywords": ["rerelease 意味", "rerelease 使い方", "再発売 英語", "rerelease 語源"],
+  "meanings": [
+    { "hinshi": "【名詞】再発売・再公開", "note": "一度発売・公開されたもの（映画・アルバム・ゲームなど）を、もう一度世に出すこと。re-release とも書く。" },
+    { "hinshi": "【動詞】再発売する・再公開する", "note": "もう一度リリースすること。" }
+  ],
+  "usages": [
+    { "title": "① 映画・音楽で", "desc": "再上映・再発売に。", "example_en": "The studio announced a rerelease of the classic film.", "example_ja": "スタジオはその名作映画の再公開を発表した。" },
+    { "title": "② リマスター版で", "desc": "新装版の発売に。", "example_en": "The album was rereleased with bonus tracks.", "example_ja": "そのアルバムはボーナス曲付きで再発売された。" }
+  ],
+  "warn": ["re-release とハイフン付きでも書かれる。", "動詞・名詞どちらでも使う。"],
+  "etym_note": "「再び」を表す re- が release（発売・公開・解放）に付いた語。release は古フランス語 relaissier（手放す）に由来する。",
+  "etym_chain": [
+    { "node": "relaxare", "sub": "ゆるめる・手放す", "era": "ラテン語" },
+    { "node": "release", "sub": "発売・公開する", "era": "中英語" },
+    { "node": "rerelease", "sub": "再発売する", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "rerelease of the film", "ja": "映画の再公開" },
+    { "en": "digital rerelease", "ja": "デジタル再発売" },
+    { "en": "a special rerelease", "ja": "特別再発売" },
+    { "en": "rerelease on Blu-ray", "ja": "ブルーレイでの再発売" },
+    { "en": "anniversary rerelease", "ja": "記念の再発売" },
+    { "en": "announce a rerelease", "ja": "再発売を発表する" }
+  ],
+  "related": [
+    { "en": "release", "ja": "発売・公開する" },
+    { "en": "reissue", "ja": "再発行・再発売" },
+    { "en": "remaster", "ja": "リマスターする" },
+    { "en": "reprint", "ja": "重版する" }
+  ],
+  "faq": [
+    { "q": "reissue との違いは？", "a": "ほぼ同義ですが、rerelease は映画・音楽・ゲームなどの「再公開・再発売」、reissue は書籍やレコードの「再発行」で使われることが多いです。" },
+    { "q": "つづりにハイフンは必要ですか？", "a": "rerelease と re-release の両方が使われます。どちらでも構いません。" }
+  ],
+  "quiz": [
+    { "q": "rerelease の意味は？", "A": "再発売・再公開", "B": "販売中止", "C": "初公開", "D": "回収", "correct": "A" },
+    { "q": "rerelease の例として自然なのは？", "A": "名作映画のリマスター再上映", "B": "新種の発見", "C": "橋の建設", "D": "天気の予報", "correct": "A" }
+  ]
+},
+{
+  "english": "rerouting",
+  "pron": "riːˈruːtɪŋ",
+  "kana": "リルーティング",
+  "hinshi": "名詞・動詞",
+  "ld_pos": "名詞",
+  "ld_etym": "re-（再び）+ route（経路）+ -ing",
+  "ld_level": "準1級",
+  "badges": ["高校生〜", "英検準1級", "CEFR B2", "不可算名詞"],
+  "meaning_main": "経路の変更・迂回・振り替え",
+  "description": "rerouting（リルーティング）は「経路の変更・迂回・振り替え」を表す語。交通や通信で使う。意味・使い方・語源・例文・関連語をわかりやすく解説します。",
+  "keywords": ["rerouting 意味", "rerouting 使い方", "rerouting 経路", "rerouting 語源"],
+  "meanings": [
+    { "hinshi": "【名詞】経路の変更・迂回", "note": "本来の道・便・回線を別のものに振り替えること。交通・物流・通信で使う。不可算名詞。" },
+    { "hinshi": "【動詞】reroute の現在分詞", "note": "「経路を変えている」。" }
+  ],
+  "usages": [
+    { "title": "① 交通・便で", "desc": "迂回や振り替えに。", "example_en": "The storm caused the rerouting of several flights.", "example_ja": "その嵐でいくつかの便の経路変更が生じた。" },
+    { "title": "② 通信・データで", "desc": "回線の切り替えに。", "example_en": "Rerouting the traffic kept the network online.", "example_ja": "通信の経路を変えることでネットワークは稼働を保った。" }
+  ],
+  "warn": ["route の発音は英で「ルート」、米で「ラウト」もある。reroute は規則変化で rerouted。", "物理的な道だけでなく、データ通信の「経路変更」にも使う。"],
+  "etym_note": "「再び」を表す re- が route（道・経路）に付いた reroute の名詞形。route はラテン語 rupta (via)（切り開かれた道）に由来する。",
+  "etym_chain": [
+    { "node": "rupta via", "sub": "切り開かれた道", "era": "ラテン語" },
+    { "node": "route", "sub": "経路", "era": "中英語" },
+    { "node": "rerouting", "sub": "経路の変更", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "traffic rerouting", "ja": "交通の迂回" },
+    { "en": "rerouting of flights", "ja": "便の経路変更" },
+    { "en": "network rerouting", "ja": "通信経路の変更" },
+    { "en": "automatic rerouting", "ja": "自動の経路切り替え" },
+    { "en": "rerouting the delivery", "ja": "配送経路の変更" },
+    { "en": "emergency rerouting", "ja": "緊急の迂回" }
+  ],
+  "related": [
+    { "en": "reroute", "ja": "経路を変える" },
+    { "en": "route", "ja": "経路" },
+    { "en": "detour", "ja": "迂回・回り道" },
+    { "en": "diversion", "ja": "迂回・振り替え" }
+  ],
+  "faq": [
+    { "q": "detour との違いは？", "a": "detour は「(工事などによる)回り道・迂回路」そのもの、rerouting は「経路を別のものに振り替えること」という行為を指します。" },
+    { "q": "通信でも使いますか？", "a": "はい。データや通信の「経路変更・切り替え」にもよく使います。" }
+  ],
+  "quiz": [
+    { "q": "rerouting の意味は？", "A": "経路の変更・迂回", "B": "経路の廃止", "C": "速度の低下", "D": "価格の上昇", "correct": "A" },
+    { "q": "rerouting が使われる場面は？", "A": "交通や通信の経路変更", "B": "料理の味付け", "C": "絵の色塗り", "D": "花の水やり", "correct": "A" }
+  ]
+},
+{
+  "english": "reshoring",
+  "pron": "riːˈʃɔːrɪŋ",
+  "kana": "リショアリング",
+  "hinshi": "名詞・動詞",
+  "ld_pos": "名詞",
+  "ld_etym": "re-（再び）+ shore（岸・国）を使った造語",
+  "ld_level": "1級",
+  "badges": ["大学生〜", "英検1級", "CEFR C1", "経済用語"],
+  "meaning_main": "国内回帰・生産の自国への呼び戻し",
+  "description": "reshoring（リショアリング）は「国内回帰」を表す経済用語。海外に移した生産を自国に戻すこと。意味・使い方・語源・例文・関連語をわかりやすく解説します。",
+  "keywords": ["reshoring 意味", "reshoring 国内回帰", "reshoring 使い方", "reshoring 語源"],
+  "meanings": [
+    { "hinshi": "【名詞】国内回帰・生産の呼び戻し", "note": "コスト削減などで海外に移した工場や生産を、自国に戻すこと。offshoring（海外移転）の反対。不可算名詞。" },
+    { "hinshi": "【動詞】reshore の現在分詞", "note": "「生産を自国に戻している」。" }
+  ],
+  "usages": [
+    { "title": "① 製造業の話題で", "desc": "国内回帰の動きに。", "example_en": "Rising costs abroad encouraged reshoring of factories.", "example_ja": "海外のコスト上昇が工場の国内回帰を後押しした。" },
+    { "title": "② 経済政策で", "desc": "供給網の見直しに。", "example_en": "The government promoted reshoring to secure supply chains.", "example_ja": "政府は供給網を確保するため国内回帰を推進した。" }
+  ],
+  "warn": ["offshoring（海外移転）・outsourcing（外部委託）と対比して覚えるとよい。", "近隣国に移す nearshoring という語もある。"],
+  "etym_note": "offshoring（海外＝沖合いへ出すこと）に対し、re-（再び）+ shore（岸・自国）で「自国の岸へ戻すこと」を表す21世紀の造語。",
+  "etym_chain": [
+    { "node": "shore", "sub": "岸・国", "era": "中英語" },
+    { "node": "offshoring", "sub": "海外移転", "era": "20世紀" },
+    { "node": "reshoring", "sub": "国内回帰", "era": "21世紀" }
+  ],
+  "phrases": [
+    { "en": "reshoring of manufacturing", "ja": "製造業の国内回帰" },
+    { "en": "encourage reshoring", "ja": "国内回帰を促す" },
+    { "en": "reshoring trend", "ja": "国内回帰の流れ" },
+    { "en": "reshoring jobs", "ja": "雇用の国内回帰" },
+    { "en": "reshoring and nearshoring", "ja": "国内回帰と近隣国移転" },
+    { "en": "reshoring strategy", "ja": "国内回帰の戦略" }
+  ],
+  "related": [
+    { "en": "offshoring", "ja": "海外移転" },
+    { "en": "nearshoring", "ja": "近隣国への移転" },
+    { "en": "outsourcing", "ja": "外部委託" },
+    { "en": "supply chain", "ja": "供給網" }
+  ],
+  "faq": [
+    { "q": "offshoring との違いは？", "a": "offshoring は生産を海外に移すこと、reshoring はその逆で海外の生産を自国に戻すことです。" },
+    { "q": "なぜ reshoring が起きるのですか？", "a": "海外のコスト上昇、輸送の混乱、供給網リスクへの懸念などから、生産を自国に戻す動きが強まっています。" }
+  ],
+  "quiz": [
+    { "q": "reshoring の意味は？", "A": "生産の国内回帰", "B": "海外移転", "C": "工場の閉鎖", "D": "在庫の廃棄", "correct": "A" },
+    { "q": "reshoring の反対語は？", "A": "offshoring（海外移転）", "B": "recycling", "C": "reception", "D": "reflection", "correct": "A" }
+  ]
+},
+{
+  "english": "resigned",
+  "pron": "rɪˈzaɪnd",
+  "kana": "リザインド",
+  "hinshi": "形容詞・動詞",
+  "ld_pos": "形容詞",
+  "ld_etym": "resign（辞職する・あきらめる）の過去分詞から",
+  "ld_level": "準1級",
+  "badges": ["高校生〜", "英検準1級", "CEFR B2", "形容詞的用法"],
+  "meaning_main": "あきらめた・観念した／辞職した",
+  "description": "resigned（リザインド）は「(仕方ないと)あきらめた・観念した」を表す形容詞。resign の過去形として「辞職した」意味もある。意味・使い方・語源・例文・関連語をわかりやすく解説します。",
+  "keywords": ["resigned 意味", "resigned 使い方", "resign 過去形", "resigned 語源"],
+  "meanings": [
+    { "hinshi": "【形容詞】あきらめた・観念した", "note": "避けられないことを仕方なく受け入れた気持ち。be resigned to 〜（〜を甘んじて受け入れる）。" },
+    { "hinshi": "【動詞】resign の過去形・過去分詞", "note": "「辞職した・辞任した」。" }
+  ],
+  "usages": [
+    { "title": "① あきらめの気持ちに", "desc": "be resigned to で。", "example_en": "She was resigned to the fact that she would lose.", "example_ja": "彼女は負けるという事実を仕方なく受け入れていた。" },
+    { "title": "② 辞職の意味で", "desc": "動詞の過去形として。", "example_en": "The minister resigned after the scandal.", "example_ja": "その大臣はスキャンダルの後に辞任した。" }
+  ],
+  "warn": ["形容詞の「あきらめた」は be resigned to 〜（名詞・動名詞）の形。to の後は動詞原形ではない点に注意。", "動詞 resign（辞職する）は自動詞で resign from a post のように使う。"],
+  "etym_note": "動詞 resign（re-「戻して」+ signare「署名する・封印する」＝手放す）の過去分詞。「権利や地位を手放す」から「（気持ちを）明け渡す＝あきらめる」へ発展した。",
+  "etym_chain": [
+    { "node": "resignare", "sub": "手放す・返す", "era": "ラテン語" },
+    { "node": "resign", "sub": "辞職する・あきらめる", "era": "中英語" },
+    { "node": "resigned", "sub": "あきらめた", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "be resigned to", "ja": "〜を甘んじて受け入れる" },
+    { "en": "a resigned sigh", "ja": "あきらめのため息" },
+    { "en": "resigned to one's fate", "ja": "運命をあきらめて" },
+    { "en": "a resigned expression", "ja": "観念した表情" },
+    { "en": "resigned acceptance", "ja": "あきらめの受容" },
+    { "en": "resigned from office", "ja": "職を辞した" }
+  ],
+  "related": [
+    { "en": "resign", "ja": "辞職する・あきらめる" },
+    { "en": "resignation", "ja": "辞職・あきらめ" },
+    { "en": "accepting", "ja": "受け入れる" },
+    { "en": "reluctant", "ja": "気が進まない" }
+  ],
+  "faq": [
+    { "q": "be resigned to の後は動詞原形ですか？", "a": "いいえ。to は前置詞なので、名詞か動名詞（〜ing）が続きます。例：be resigned to losing（負けることをあきらめる）。" },
+    { "q": "名詞形は？", "a": "resignation で、「辞職」と「あきらめ」の両方の意味があります。" }
+  ],
+  "quiz": [
+    { "q": "形容詞 resigned の意味は？", "A": "あきらめた・観念した", "B": "興奮した", "C": "怒った", "D": "驚いた", "correct": "A" },
+    { "q": "be resigned to の後に続くのは？", "A": "名詞・動名詞", "B": "動詞の原形", "C": "形容詞のみ", "D": "副詞のみ", "correct": "A" }
+  ]
+},
+{
+  "english": "resorption",
+  "pron": "rɪˈsɔːrpʃən",
+  "kana": "リソープション",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "re-（再び）+ sorption（吸収）",
+  "ld_level": "1級",
+  "badges": ["大学生〜", "英検1級", "CEFR C2", "医学・専門"],
+  "meaning_main": "(骨などの)吸収・再吸収",
+  "description": "resorption（リソープション）は「(体内組織の)吸収・再吸収」を表す医学用語。特に骨の吸収に使う。意味・使い方・語源・例文・関連語をわかりやすく解説します。",
+  "keywords": ["resorption 意味", "resorption 骨", "resorption 使い方", "resorption 語源"],
+  "meanings": [
+    { "hinshi": "【名詞】(組織の)吸収・再吸収", "note": "体内で一度作られた組織（特に骨）が分解され、その成分が体に吸収されること。医学・歯学で使う。不可算名詞。" }
+  ],
+  "usages": [
+    { "title": "① 骨の吸収で", "desc": "骨代謝の話に。", "example_en": "Bone resorption increases as people age.", "example_ja": "骨の吸収は加齢とともに増える。" },
+    { "title": "② 歯科で", "desc": "歯根の吸収に。", "example_en": "Root resorption can weaken a tooth.", "example_ja": "歯根の吸収は歯を弱らせることがある。" }
+  ],
+  "warn": ["reabsorption（腎臓での再吸収）と混同しやすいが、resorption は主に「骨・歯などの組織の吸収・分解」を指す。", "動詞は resorb（吸収する）。"],
+  "etym_note": "「再び」を表す re- が sorption（吸収）に付いた語。sorption は absorb（吸収する）などと同じくラテン語 sorbere（吸い込む）に由来する。",
+  "etym_chain": [
+    { "node": "sorbere", "sub": "吸い込む", "era": "ラテン語" },
+    { "node": "sorption", "sub": "吸収", "era": "近代英語" },
+    { "node": "resorption", "sub": "(骨などの)吸収", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "bone resorption", "ja": "骨吸収" },
+    { "en": "root resorption", "ja": "歯根吸収" },
+    { "en": "resorption of bone", "ja": "骨の吸収" },
+    { "en": "increased resorption", "ja": "吸収の亢進" },
+    { "en": "resorption and formation", "ja": "吸収と形成" },
+    { "en": "reduce resorption", "ja": "吸収を抑える" }
+  ],
+  "related": [
+    { "en": "reabsorption", "ja": "再吸収" },
+    { "en": "absorption", "ja": "吸収" },
+    { "en": "osteoporosis", "ja": "骨粗鬆症" },
+    { "en": "bone", "ja": "骨" }
+  ],
+  "faq": [
+    { "q": "resorption と reabsorption の違いは？", "a": "resorption は主に「骨・歯などの組織が分解・吸収されること」、reabsorption は「腎臓が水分や栄養を血液に戻す再吸収」を指すことが多いです。" },
+    { "q": "骨粗鬆症と関係ありますか？", "a": "はい。骨の吸収（resorption）が形成を上回ると骨がもろくなり、骨粗鬆症の原因になります。" }
+  ],
+  "quiz": [
+    { "q": "resorption がよく使われる対象は？", "A": "骨や歯などの組織", "B": "気温", "C": "株価", "D": "音楽", "correct": "A" },
+    { "q": "resorption の意味は？", "A": "組織の吸収・分解", "B": "組織の増加のみ", "C": "皮膚の色", "D": "血圧の測定", "correct": "A" }
+  ]
+},
+{
+  "english": "respected",
+  "pron": "rɪˈspektɪd",
+  "kana": "リスペクテッド",
+  "hinshi": "形容詞・動詞",
+  "ld_pos": "形容詞",
+  "ld_etym": "respect（尊敬する）の過去分詞から",
+  "ld_level": "3級",
+  "badges": ["中学生〜", "英検3級", "CEFR A2", "形容詞的用法"],
+  "meaning_main": "尊敬されている・評価の高い",
+  "description": "respected（リスペクテッド）は「尊敬されている・評価の高い」を表す語。意味・使い方・語源・例文・関連語をわかりやすく解説します。",
+  "keywords": ["respected 意味", "respected 使い方", "respect 過去分詞", "respected 語源"],
+  "meanings": [
+    { "hinshi": "【形容詞】尊敬されている・評価の高い", "note": "人々から敬われ、高く評価されているさま。a highly respected doctor（大いに尊敬される医師）。" },
+    { "hinshi": "【動詞】respect の過去形・過去分詞", "note": "「尊敬した・尊重した」。" }
+  ],
+  "usages": [
+    { "title": "① 人・組織を評して", "desc": "評価の高さに。", "example_en": "She is a widely respected journalist.", "example_ja": "彼女は広く尊敬されているジャーナリストだ。" },
+    { "title": "② 尊重の過去形として", "desc": "動詞の使い方で。", "example_en": "They respected his decision.", "example_ja": "彼らは彼の決断を尊重した。" }
+  ],
+  "warn": ["respected（尊敬されている）と respectful（礼儀正しい）、respective（それぞれの）は混同しやすい別語。", "「尊敬する」は look up to とも言う。"],
+  "etym_note": "動詞 respect（re-「再び」+ spectare「見る」＝振り返って見る＝敬意を払う）の過去分詞。「もう一度よく見る＝重んじる」がもとのイメージ。",
+  "etym_chain": [
+    { "node": "respectare", "sub": "振り返って見る", "era": "ラテン語" },
+    { "node": "respect", "sub": "尊敬する", "era": "中英語" },
+    { "node": "respected", "sub": "尊敬されている", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "highly respected", "ja": "大いに尊敬される" },
+    { "en": "a respected leader", "ja": "尊敬される指導者" },
+    { "en": "widely respected", "ja": "広く尊敬される" },
+    { "en": "well respected", "ja": "評判のよい・尊敬される" },
+    { "en": "respected by all", "ja": "みんなに尊敬される" },
+    { "en": "a respected figure", "ja": "敬われる人物" }
+  ],
+  "related": [
+    { "en": "respect", "ja": "尊敬する・尊重する" },
+    { "en": "respectful", "ja": "礼儀正しい" },
+    { "en": "esteemed", "ja": "尊敬される" },
+    { "en": "admired", "ja": "称賛される" }
+  ],
+  "faq": [
+    { "q": "respected と respectful の違いは？", "a": "respected は「（人から）尊敬されている」、respectful は「（人に）敬意を払う・礼儀正しい」です。向きが逆です。" },
+    { "q": "respective とは違いますか？", "a": "はい。respective は「それぞれの」で、まったく別の語です。" }
+  ],
+  "quiz": [
+    { "q": "respected の意味は？", "A": "尊敬されている", "B": "無視されている", "C": "恐れられている", "D": "忘れられている", "correct": "A" },
+    { "q": "respected と混同しやすい「礼儀正しい」を表す語は？", "A": "respectful", "B": "respective", "C": "respond", "D": "restful", "correct": "A" }
+  ]
+},
+{
+  "english": "resulting",
+  "pron": "rɪˈzʌltɪŋ",
+  "kana": "リザルティング",
+  "hinshi": "形容詞・動詞",
+  "ld_pos": "形容詞",
+  "ld_etym": "result（結果として生じる）の現在分詞から",
+  "ld_level": "準1級",
+  "badges": ["中学生〜", "英検準1級", "CEFR B1", "形容詞的用法"],
+  "meaning_main": "結果として生じる・それによる",
+  "description": "resulting（リザルティング）は「結果として生じる・それによる」を表す語。意味・使い方・語源・例文・関連語をわかりやすく解説します。",
+  "keywords": ["resulting 意味", "resulting 使い方", "resulting from", "resulting 語源"],
+  "meanings": [
+    { "hinshi": "【形容詞】結果として生じる・それによる", "note": "ある原因から生じた、という意味で名詞を修飾する。the resulting damage（それによる被害）。" },
+    { "hinshi": "【動詞】result の現在分詞", "note": "result from（〜から生じる）、result in（〜という結果になる）。" }
+  ],
+  "usages": [
+    { "title": "① 結果を修飾して", "desc": "名詞の前に置く。", "example_en": "The storm and the resulting floods caused chaos.", "example_ja": "嵐とそれによる洪水は混乱を引き起こした。" },
+    { "title": "② resulting from で", "desc": "原因を示す。", "example_en": "Injuries resulting from the accident were minor.", "example_ja": "その事故で生じたけがは軽いものだった。" }
+  ],
+  "warn": ["result from 〜（〜が原因で生じる）と result in 〜（〜という結果になる）の向きの違いに注意。", "the resulting 〜 で「その結果生じる〜」という便利な言い方になる。"],
+  "etym_note": "動詞 result（re-「戻って」+ saltare「跳ねる」＝跳ね返って生じる）の現在分詞。「跳ね返って現れる＝結果として生じる」がもとのイメージ。",
+  "etym_chain": [
+    { "node": "resultare", "sub": "跳ね返る", "era": "ラテン語" },
+    { "node": "result", "sub": "結果として生じる", "era": "中英語" },
+    { "node": "resulting", "sub": "結果として生じる", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "the resulting damage", "ja": "それによる被害" },
+    { "en": "resulting from", "ja": "〜から生じる" },
+    { "en": "the resulting confusion", "ja": "その結果の混乱" },
+    { "en": "the resulting effect", "ja": "それによる影響" },
+    { "en": "resulting in", "ja": "〜という結果になる" },
+    { "en": "the resulting change", "ja": "その結果生じた変化" }
+  ],
+  "related": [
+    { "en": "result", "ja": "結果・結果として生じる" },
+    { "en": "consequent", "ja": "結果として起こる" },
+    { "en": "ensuing", "ja": "続いて起こる" },
+    { "en": "cause", "ja": "原因・引き起こす" }
+  ],
+  "faq": [
+    { "q": "result from と result in の違いは？", "a": "result from は「〜が原因で生じる（結果←原因）」、result in は「〜という結果になる（原因→結果）」で、向きが逆です。" },
+    { "q": "the resulting 〜 とは？", "a": "「その結果として生じる〜」という意味で、直前に述べた原因からの帰結を簡潔に表せます。" }
+  ],
+  "quiz": [
+    { "q": "resulting の意味は？", "A": "結果として生じる", "B": "原因となる唯一の", "C": "無関係な", "D": "偶然の", "correct": "A" },
+    { "q": "「〜から生じる」を表すのは？", "A": "resulting from", "B": "resulting off", "C": "resulting at", "D": "resulting by", "correct": "A" }
+  ]
+},
+{
+  "english": "resurge",
+  "pron": "rɪˈsɜːrdʒ",
+  "kana": "リサージ",
+  "hinshi": "動詞",
+  "ld_pos": "動詞",
+  "ld_etym": "ラテン語 resurgere（再び起き上がる）から",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "自動詞"],
+  "meaning_main": "再び高まる・盛り返す",
+  "description": "resurge（リサージ）は「再び高まる・盛り返す」を表す動詞。勢いや感情がよみがえること。意味・使い方・語源・例文・関連語をわかりやすく解説します。",
+  "keywords": ["resurge 意味", "resurge 使い方", "resurgence 意味", "resurge 語源"],
+  "meanings": [
+    { "hinshi": "【動詞】再び高まる・盛り返す", "note": "一度弱まったものが、再び勢いを取り戻すこと。自動詞。名詞形 resurgence（復活）のほうがよく使われる。" }
+  ],
+  "usages": [
+    { "title": "① 勢いの復活に", "desc": "人気や活動に。", "example_en": "Interest in vinyl records has resurged in recent years.", "example_ja": "レコードへの関心は近年再び高まっている。" },
+    { "title": "② 感情・現象に", "desc": "よみがえる意味で。", "example_en": "Old fears began to resurge.", "example_ja": "古い恐れが再びよみがえり始めた。" }
+  ],
+  "warn": ["動詞 resurge より、名詞 resurgence（復活・再燃）や形容詞 resurgent（盛り返している）のほうが一般的。", "surge（急に高まる）と同じ語根。"],
+  "etym_note": "ラテン語 resurgere（re-「再び」+ surgere「起き上がる」＝再び立ち上がる）に由来する。surge（うねり・急上昇）と同語源。",
+  "etym_chain": [
+    { "node": "resurgere", "sub": "再び起き上がる", "era": "ラテン語" },
+    { "node": "resurge", "sub": "盛り返す", "era": "近代英語" },
+    { "node": "resurgence", "sub": "復活・再燃", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "resurge in popularity", "ja": "人気が再び高まる" },
+    { "en": "begin to resurge", "ja": "盛り返し始める" },
+    { "en": "resurgent economy", "ja": "盛り返す経済" },
+    { "en": "a resurgence of interest", "ja": "関心の再燃" },
+    { "en": "resurge after a decline", "ja": "衰退の後に盛り返す" },
+    { "en": "demand resurged", "ja": "需要が再び高まった" }
+  ],
+  "related": [
+    { "en": "resurgence", "ja": "復活・再燃" },
+    { "en": "resurgent", "ja": "盛り返している" },
+    { "en": "surge", "ja": "急に高まる" },
+    { "en": "revive", "ja": "よみがえる" }
+  ],
+  "faq": [
+    { "q": "resurge と revive の違いは？", "a": "revive は「(自他問わず)よみがえる・生き返らせる」広い語、resurge は特に「勢い・人気などが再び高まる」自動詞です。" },
+    { "q": "よく使う名詞形は？", "a": "resurgence（復活・再燃）で、a resurgence of 〜 の形でよく使われます。" }
+  ],
+  "quiz": [
+    { "q": "resurge の意味は？", "A": "再び高まる・盛り返す", "B": "完全に消える", "C": "そのまま止まる", "D": "分裂する", "correct": "A" },
+    { "q": "resurge の名詞形は？", "A": "resurgence", "B": "resurgment", "C": "resurgation", "D": "resurgity", "correct": "A" }
+  ]
+},
+{
+  "english": "resuscitate",
+  "pron": "rɪˈsʌsɪteɪt",
+  "kana": "リサシテイト",
+  "hinshi": "動詞",
+  "ld_pos": "動詞",
+  "ld_etym": "ラテン語 resuscitare（よみがえらせる）から",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "他動詞"],
+  "meaning_main": "蘇生させる・生き返らせる",
+  "description": "resuscitate（リサシテイト）は「(意識・呼吸を失った人を)蘇生させる」を表す動詞。意味・使い方・語源・例文・関連語をわかりやすく解説します。",
+  "keywords": ["resuscitate 意味", "resuscitate 蘇生", "resuscitate 使い方", "resuscitate 語源"],
+  "meanings": [
+    { "hinshi": "【動詞】蘇生させる・生き返らせる", "note": "呼吸や心臓が止まった人を、人工呼吸や心臓マッサージで再び生き返らせること。他動詞。" },
+    { "hinshi": "【動詞】(比喩)よみがえらせる", "note": "衰えた計画・経済・組織などを立て直すことにも使う。" }
+  ],
+  "usages": [
+    { "title": "① 救命処置で", "desc": "医療の文脈で。", "example_en": "Doctors managed to resuscitate the patient.", "example_ja": "医師たちは患者を蘇生させることができた。" },
+    { "title": "② 比喩的に", "desc": "立て直す意味で。", "example_en": "The new manager tried to resuscitate the failing company.", "example_ja": "新しい経営者は傾いた会社を立て直そうとした。" }
+  ],
+  "warn": ["名詞は resuscitation（蘇生）。CPR（心肺蘇生法）は cardiopulmonary resuscitation の略。", "revive より医学的・専門的な語。"],
+  "etym_note": "ラテン語 resuscitare（re-「再び」+ suscitare「呼び起こす・立ち上がらせる」）に由来する。「再び目覚めさせる」がもとの意味。",
+  "etym_chain": [
+    { "node": "resuscitare", "sub": "再び呼び起こす", "era": "ラテン語" },
+    { "node": "resuscitate", "sub": "蘇生させる", "era": "近代英語" },
+    { "node": "resuscitate", "sub": "蘇生させる", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "resuscitate a patient", "ja": "患者を蘇生させる" },
+    { "en": "attempt to resuscitate", "ja": "蘇生を試みる" },
+    { "en": "resuscitate the economy", "ja": "経済を立て直す" },
+    { "en": "successfully resuscitate", "ja": "蘇生に成功する" },
+    { "en": "resuscitate the project", "ja": "計画を復活させる" },
+    { "en": "fail to resuscitate", "ja": "蘇生できない" }
+  ],
+  "related": [
+    { "en": "resuscitation", "ja": "蘇生" },
+    { "en": "revive", "ja": "生き返らせる" },
+    { "en": "CPR", "ja": "心肺蘇生法" },
+    { "en": "reanimate", "ja": "生き返らせる" }
+  ],
+  "faq": [
+    { "q": "revive との違いは？", "a": "revive は「よみがえる・よみがえらせる」広い語、resuscitate は特に医学的に「呼吸・心拍を回復させる蘇生」を指す専門的な語です。" },
+    { "q": "名詞形は？", "a": "resuscitation（蘇生）です。CPR は cardiopulmonary resuscitation（心肺蘇生法）の略です。" }
+  ],
+  "quiz": [
+    { "q": "resuscitate の意味は？", "A": "蘇生させる・生き返らせる", "B": "眠らせる", "C": "冷やす", "D": "運ぶ", "correct": "A" },
+    { "q": "resuscitate の名詞形は？", "A": "resuscitation", "B": "resuscitator", "C": "resuscitating", "D": "resuscitment", "correct": "A" }
+  ]
+},
+{
+  "english": "resuscitation",
+  "pron": "rɪˌsʌsɪˈteɪʃən",
+  "kana": "リサシテイション",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "resuscitate（蘇生させる）+ -ion",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "医学・専門"],
+  "meaning_main": "蘇生・蘇生法",
+  "description": "resuscitation（リサシテイション）は「蘇生・蘇生法」を表す医学用語。心肺蘇生法（CPR）でおなじみ。意味・使い方・語源・例文・関連語をわかりやすく解説します。",
+  "keywords": ["resuscitation 意味", "resuscitation CPR", "resuscitation 使い方", "resuscitation 語源"],
+  "meanings": [
+    { "hinshi": "【名詞】蘇生・蘇生法", "note": "呼吸や心拍が止まった人を、人工呼吸や胸骨圧迫で回復させること。不可算名詞。" }
+  ],
+  "usages": [
+    { "title": "① 救命処置で", "desc": "医療の場面で。", "example_en": "The team performed resuscitation on the collapsed man.", "example_ja": "チームは倒れた男性に蘇生処置を行った。" },
+    { "title": "② CPRとして", "desc": "心肺蘇生法に。", "example_en": "Cardiopulmonary resuscitation, or CPR, can save lives.", "example_ja": "心肺蘇生法（CPR）は命を救うことができる。" }
+  ],
+  "warn": ["CPR は cardiopulmonary resuscitation（心肺蘇生法）の略。", "動詞は resuscitate（蘇生させる）。"],
+  "etym_note": "動詞 resuscitate（ラテン語 resuscitare「再び呼び起こす」）に -ion が付いた名詞。「再び目覚めさせること」を表す。",
+  "etym_chain": [
+    { "node": "resuscitare", "sub": "再び呼び起こす", "era": "ラテン語" },
+    { "node": "resuscitate", "sub": "蘇生させる", "era": "近代英語" },
+    { "node": "resuscitation", "sub": "蘇生", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "cardiopulmonary resuscitation", "ja": "心肺蘇生法（CPR）" },
+    { "en": "perform resuscitation", "ja": "蘇生を行う" },
+    { "en": "mouth-to-mouth resuscitation", "ja": "口移しの人工呼吸" },
+    { "en": "resuscitation attempt", "ja": "蘇生の試み" },
+    { "en": "successful resuscitation", "ja": "蘇生の成功" },
+    { "en": "resuscitation equipment", "ja": "蘇生用の器具" }
+  ],
+  "related": [
+    { "en": "resuscitate", "ja": "蘇生させる" },
+    { "en": "CPR", "ja": "心肺蘇生法" },
+    { "en": "first aid", "ja": "応急手当" },
+    { "en": "revival", "ja": "復活・蘇生" }
+  ],
+  "faq": [
+    { "q": "CPR とは何の略ですか？", "a": "cardiopulmonary resuscitation（心肺蘇生法）の略です。胸骨圧迫と人工呼吸で命をつなぎます。" },
+    { "q": "動詞形は？", "a": "resuscitate（蘇生させる）です。" }
+  ],
+  "quiz": [
+    { "q": "resuscitation の意味は？", "A": "蘇生・蘇生法", "B": "麻酔", "C": "手術", "D": "包帯", "correct": "A" },
+    { "q": "CPR の R が表すのは？", "A": "resuscitation（蘇生）", "B": "reduction（削減）", "C": "reaction（反応）", "D": "recovery（回復）", "correct": "A" }
+  ]
+},
+{
+  "english": "retardation",
+  "pron": "ˌriːtɑːrˈdeɪʃən",
+  "kana": "リターデイション",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "ラテン語 retardare（遅らせる）から",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "専門・注意"],
+  "meaning_main": "遅れ・遅延・(発達などの)遅滞",
+  "description": "retardation（リターデイション）は「遅れ・遅延・遅滞」を表す名詞。物理や化学で「遅らせること」を指す。意味・使い方・語源・注意点・関連語をわかりやすく解説します。",
+  "keywords": ["retardation 意味", "retardation 使い方", "retardation 遅延", "retardation 語源"],
+  "meanings": [
+    { "hinshi": "【名詞】遅れ・遅延・遅滞", "note": "進行や発達が遅くなること。物理・化学・工学で「遅らせること」の意味で使う。不可算名詞。" },
+    { "hinshi": "【名詞】(発達の)遅滞", "note": "かつて医学で発達の遅れを指したが、現在この用法は不適切とされ、developmental delay / intellectual disability など別の言い方が使われる。" }
+  ],
+  "usages": [
+    { "title": "① 物理・工学で", "desc": "遅延・減速の意味で。", "example_en": "Flame retardation slows the spread of fire.", "example_ja": "難燃化は火の広がりを遅らせる。" },
+    { "title": "② 進行の遅れに", "desc": "一般的な遅延に。", "example_en": "The additive causes retardation of the chemical reaction.", "example_ja": "その添加剤は化学反応の遅延を引き起こす。" }
+  ],
+  "warn": ["人の発達・知的能力について retardation を使うのは、現在は差別的・侮蔑的とされ避けるべき。developmental delay（発達の遅れ）や intellectual disability（知的障害）を用いる。", "物理・化学・工学の「遅延・減速」という中立的な用法は今も使われる。"],
+  "etym_note": "ラテン語 retardare（re-「後ろへ」+ tardare「遅くする」＝遅らせる）に由来する。tardy（遅い）と同語源。",
+  "etym_chain": [
+    { "node": "retardare", "sub": "遅らせる", "era": "ラテン語" },
+    { "node": "retard", "sub": "遅らせる", "era": "中英語" },
+    { "node": "retardation", "sub": "遅れ・遅延", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "flame retardation", "ja": "難燃化・燃焼の遅延" },
+    { "en": "growth retardation", "ja": "成長の遅れ" },
+    { "en": "retardation of the reaction", "ja": "反応の遅延" },
+    { "en": "time retardation", "ja": "時間の遅れ" },
+    { "en": "cause retardation", "ja": "遅延を引き起こす" },
+    { "en": "retardation effect", "ja": "遅延効果" }
+  ],
+  "related": [
+    { "en": "retard", "ja": "遅らせる" },
+    { "en": "delay", "ja": "遅延・遅らせる" },
+    { "en": "slowing", "ja": "減速" },
+    { "en": "acceleration", "ja": "加速" }
+  ],
+  "faq": [
+    { "q": "人の発達に retardation を使ってよいですか？", "a": "いいえ。人の発達や知的能力については差別的とされ避けるべきで、developmental delay（発達の遅れ）や intellectual disability（知的障害）を使います。" },
+    { "q": "中立的に使える場面は？", "a": "物理・化学・工学での「遅延・減速」（例：flame retardation 難燃化）などは中立的に使われます。" }
+  ],
+  "quiz": [
+    { "q": "中立的な retardation の意味は？", "A": "遅れ・遅延", "B": "加速", "C": "拡大", "D": "上昇", "correct": "A" },
+    { "q": "人の発達について避けるべき理由は？", "A": "差別的・侮蔑的とされるため", "B": "長すぎるため", "C": "発音が難しいため", "D": "新しすぎるため", "correct": "A" }
+  ]
+}
+]
