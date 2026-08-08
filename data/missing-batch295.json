@@ -1,0 +1,993 @@
+[
+{
+  "english": "servitude",
+  "pron": "ˈsɜːrvɪtjuːd",
+  "kana": "サービチュード",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "ラテン語 servitus（奴隷の状態）から",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "不可算名詞"],
+  "meaning_main": "隷属・奴隷状態・苦役",
+  "description": "servitude（サービチュード）は「隷属・奴隷状態・苦役」を表す名詞。自由を奪われて人に仕えさせられる状態。意味・使い方・語源・例文・関連語をわかりやすく解説します。",
+  "keywords": ["servitude 意味", "servitude 使い方", "隷属 英語", "servitude 語源"],
+  "meanings": [
+    { "hinshi": "【名詞】隷属・奴隷状態", "note": "自由を奪われ、人に強制的に仕えさせられる状態。不可算名詞。" },
+    { "hinshi": "【名詞】苦役・強制労働", "note": "penal servitude（懲役）のように、罰としての強制労働を指すこともある。" }
+  ],
+  "usages": [
+    { "title": "① 隷属状態に", "desc": "自由を奪われた状態に。", "example_en": "They lived in servitude for many years.", "example_ja": "彼らは長年、隷属状態で暮らした。" },
+    { "title": "② 苦役・懲役に", "desc": "強制労働の意味で。", "example_en": "He was sentenced to penal servitude.", "example_ja": "彼は懲役刑を言い渡された。" }
+  ],
+  "warn": ["slavery（奴隷制度）とほぼ近いが、servitude は『仕えさせられる状態』全般を指すやや広い語。", "involuntary servitude（意に反する労役）は法律用語として重要。"],
+  "etym_note": "ラテン語 servitus（奴隷の身分・隷属、servus「奴隷」から）に由来する。serve（仕える）や servant（召使い）と同語源。",
+  "etym_chain": [
+    { "node": "servus", "sub": "奴隷", "era": "ラテン語" },
+    { "node": "servitus", "sub": "隷属", "era": "ラテン語" },
+    { "node": "servitude", "sub": "隷属・苦役", "era": "中英語" }
+  ],
+  "phrases": [
+    { "en": "in servitude", "ja": "隷属状態で" },
+    { "en": "penal servitude", "ja": "懲役" },
+    { "en": "involuntary servitude", "ja": "意に反する労役" },
+    { "en": "a life of servitude", "ja": "隷属の人生" },
+    { "en": "escape servitude", "ja": "隷属から逃れる" },
+    { "en": "domestic servitude", "ja": "家庭内での隷属労働" }
+  ],
+  "related": [
+    { "en": "slavery", "ja": "奴隷制度" },
+    { "en": "bondage", "ja": "束縛・隷属" },
+    { "en": "serve", "ja": "仕える" },
+    { "en": "freedom", "ja": "自由" }
+  ],
+  "faq": [
+    { "q": "servitude と slavery の違いは？", "a": "slavery は『(所有物として扱う)奴隷制度』、servitude は『自由を奪われて仕えさせられる状態』全般を指すやや広い語です。" },
+    { "q": "penal servitude とは？", "a": "刑罰としての『懲役（強制労働を伴う拘禁）』のことです。" }
+  ],
+  "quiz": [
+    { "q": "servitude の意味は？", "A": "隷属・奴隷状態・苦役", "B": "自由・解放", "C": "休暇", "D": "昇進", "correct": "A" },
+    { "q": "penal servitude の意味は？", "A": "懲役", "B": "無罪放免", "C": "定年退職", "D": "昇給", "correct": "A" }
+  ]
+},
+{
+  "english": "settled",
+  "pron": "ˈsetəld",
+  "kana": "セトルド",
+  "hinshi": "形容詞・動詞",
+  "ld_pos": "形容詞",
+  "ld_etym": "settle（落ち着く・定住する）の過去分詞から",
+  "ld_level": "準1級",
+  "badges": ["中学生〜", "英検準1級", "CEFR B1", "形容詞的用法"],
+  "meaning_main": "落ち着いた・安定した・(問題が)解決した",
+  "description": "settled（セトルド）は「落ち着いた・安定した・(問題が)解決した」を表す語。意味・使い方・語源・例文・関連語をわかりやすく解説します。",
+  "keywords": ["settled 意味", "settled 使い方", "落ち着いた 英語", "settled 語源"],
+  "meanings": [
+    { "hinshi": "【形容詞】落ち着いた・安定した", "note": "生活・気持ち・天候などが安定して落ち着いているさま。" },
+    { "hinshi": "【形容詞】(問題が)解決した・決着した", "note": "争いや問題が片づいた状態。a settled matter（決着済みの件）。" },
+    { "hinshi": "【動詞】settle の過去形・過去分詞", "note": "「落ち着いた・解決した・定住した」。" }
+  ],
+  "usages": [
+    { "title": "① 落ち着いた生活に", "desc": "安定の意味で。", "example_en": "They now lead a settled life in the countryside.", "example_ja": "彼らは今、田舎で落ち着いた生活を送っている。" },
+    { "title": "② 問題の解決に", "desc": "決着の意味で。", "example_en": "The dispute is now settled.", "example_ja": "その争いは今や解決している。" }
+  ],
+  "warn": ["動詞 settle は『落ち着く・定住する・(問題を)解決する・(勘定を)清算する』など多義。", "settled weather（安定した天気）という言い方もある。"],
+  "etym_note": "動詞 settle（落ち着かせる・定住する）の過去分詞。settle は古英語 setlan（座らせる・落ち着かせる）に由来し、set（置く）と関連する。",
+  "etym_chain": [
+    { "node": "setlan", "sub": "座らせる・落ち着かせる", "era": "古英語" },
+    { "node": "settle", "sub": "落ち着く・解決する", "era": "中英語" },
+    { "node": "settled", "sub": "落ち着いた・解決した", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "a settled life", "ja": "落ち着いた生活" },
+    { "en": "settled weather", "ja": "安定した天気" },
+    { "en": "a settled matter", "ja": "決着済みの件" },
+    { "en": "feel settled", "ja": "落ち着いた気持ちになる" },
+    { "en": "get settled in", "ja": "(新居などに)落ち着く" },
+    { "en": "a settled routine", "ja": "定まった日課" }
+  ],
+  "related": [
+    { "en": "settle", "ja": "落ち着く・解決する" },
+    { "en": "stable", "ja": "安定した" },
+    { "en": "resolved", "ja": "解決した" },
+    { "en": "unsettled", "ja": "落ち着かない・未解決の" }
+  ],
+  "faq": [
+    { "q": "settled の反対語は？", "a": "unsettled（落ち着かない・不安定な・未解決の）です。" },
+    { "q": "get settled in とは？", "a": "新しい家や職場などに『慣れて落ち着く』という意味です。" }
+  ],
+  "quiz": [
+    { "q": "settled の意味に含まれるのは？", "A": "落ち着いた・解決した", "B": "混乱した", "C": "破壊された", "D": "空っぽの", "correct": "A" },
+    { "q": "settled の反対語は？", "A": "unsettled（落ち着かない）", "B": "settled down", "C": "setting", "D": "settler", "correct": "A" }
+  ]
+},
+{
+  "english": "severely",
+  "pron": "sɪˈvɪərli",
+  "kana": "シビアリー",
+  "hinshi": "副詞",
+  "ld_pos": "副詞",
+  "ld_etym": "severe（厳しい・重大な）+ -ly",
+  "ld_level": "準1級",
+  "badges": ["高校生〜", "英検準1級", "CEFR B2", "副詞"],
+  "meaning_main": "厳しく・ひどく・深刻に",
+  "description": "severely（シビアリー）は「厳しく・ひどく・深刻に」を表す副詞。程度の激しさや厳しさを表す。意味・使い方・語源・例文・関連語をわかりやすく解説します。",
+  "keywords": ["severely 意味", "severely 使い方", "ひどく 英語", "severely 語源"],
+  "meanings": [
+    { "hinshi": "【副詞】ひどく・深刻に", "note": "被害・症状などの程度が激しいさま。severely injured（重傷を負って）。" },
+    { "hinshi": "【副詞】厳しく", "note": "扱いや態度が厳格・手厳しいさま。" }
+  ],
+  "usages": [
+    { "title": "① 程度の激しさに", "desc": "被害・症状に。", "example_en": "He was severely injured in the accident.", "example_ja": "彼はその事故で重傷を負った。" },
+    { "title": "② 厳しさに", "desc": "扱い・態度に。", "example_en": "The children were severely punished.", "example_ja": "子どもたちは厳しく罰せられた。" }
+  ],
+  "warn": ["形容詞は severe（厳しい・重大な・深刻な）。", "severely limited（ひどく制限された）、severely affected（深刻な影響を受けた）などで頻出。"],
+  "etym_note": "形容詞 severe（厳しい・重大な）に副詞化の -ly が付いた語。severe はラテン語 severus（厳格な）に由来する。",
+  "etym_chain": [
+    { "node": "severus", "sub": "厳格な", "era": "ラテン語" },
+    { "node": "severe", "sub": "厳しい・重大な", "era": "中英語" },
+    { "node": "severely", "sub": "厳しく・ひどく", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "severely injured", "ja": "重傷を負って" },
+    { "en": "severely damaged", "ja": "ひどく損傷して" },
+    { "en": "severely limited", "ja": "ひどく制限された" },
+    { "en": "severely affected", "ja": "深刻な影響を受けた" },
+    { "en": "severely criticized", "ja": "厳しく批判された" },
+    { "en": "severely ill", "ja": "重い病気で" }
+  ],
+  "related": [
+    { "en": "severe", "ja": "厳しい・重大な" },
+    { "en": "seriously", "ja": "深刻に・まじめに" },
+    { "en": "harshly", "ja": "厳しく・手荒に" },
+    { "en": "badly", "ja": "ひどく" }
+  ],
+  "faq": [
+    { "q": "severely と seriously の違いは？", "a": "どちらも『ひどく・深刻に』を表しますが、severely は『被害や症状の程度が激しい』、seriously は『まじめに・重大に』という含みが強めです。" },
+    { "q": "形容詞形は？", "a": "severe（厳しい・重大な・深刻な）です。" }
+  ],
+  "quiz": [
+    { "q": "severely の意味は？", "A": "厳しく・ひどく・深刻に", "B": "やさしく", "C": "軽く", "D": "楽しく", "correct": "A" },
+    { "q": "severely の形容詞形は？", "A": "severe", "B": "several", "C": "sever", "D": "severance", "correct": "A" }
+  ]
+},
+{
+  "english": "sewing",
+  "pron": "ˈsoʊɪŋ",
+  "kana": "ソーイング",
+  "hinshi": "名詞・動詞",
+  "ld_pos": "名詞",
+  "ld_etym": "sew（縫う）の動名詞・現在分詞から",
+  "ld_level": "3級",
+  "badges": ["小学生〜", "英検3級", "CEFR A2", "不可算名詞"],
+  "meaning_main": "裁縫・縫い物",
+  "description": "sewing（ソーイング）は「裁縫・縫い物」を表す名詞。針と糸で布を縫うこと。意味・使い方・語源・例文・関連語をわかりやすく解説します。",
+  "keywords": ["sewing 意味", "裁縫 英語", "sewing 使い方", "sewing 語源"],
+  "meanings": [
+    { "hinshi": "【名詞】裁縫・縫い物", "note": "針と糸で布を縫い合わせること。またその作業や、縫っている物。不可算名詞。" },
+    { "hinshi": "【動詞】sew の現在分詞", "note": "「縫っている」。" }
+  ],
+  "usages": [
+    { "title": "① 手芸・作業として", "desc": "縫い物の意味で。", "example_en": "She enjoys sewing in her free time.", "example_ja": "彼女は暇なときに裁縫を楽しむ。" },
+    { "title": "② 道具・用品で", "desc": "裁縫用品に。", "example_en": "Keep the needles in the sewing box.", "example_ja": "針は裁縫箱にしまっておきなさい。" }
+  ],
+  "warn": ["sew（縫う）の発音は『ソー』。過去分詞は sewn または sewed。", "sowing（種まき）と綴りが似るが別語（sow は種をまく）。"],
+  "etym_note": "動詞 sew（縫う）の動名詞。sew は古英語 sīwian（縫う）に由来する。",
+  "etym_chain": [
+    { "node": "sīwian", "sub": "縫う", "era": "古英語" },
+    { "node": "sew", "sub": "縫う", "era": "中英語" },
+    { "node": "sewing", "sub": "裁縫", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "a sewing machine", "ja": "ミシン" },
+    { "en": "a sewing box", "ja": "裁縫箱" },
+    { "en": "a sewing needle", "ja": "縫い針" },
+    { "en": "do some sewing", "ja": "縫い物をする" },
+    { "en": "sewing kit", "ja": "裁縫道具一式" },
+    { "en": "learn sewing", "ja": "裁縫を習う" }
+  ],
+  "related": [
+    { "en": "sew", "ja": "縫う" },
+    { "en": "stitch", "ja": "ひと針・縫う" },
+    { "en": "needle", "ja": "針" },
+    { "en": "thread", "ja": "糸" }
+  ],
+  "faq": [
+    { "q": "sewing と sowing の違いは？", "a": "発音は同じ『ソーイング』ですが、sewing は『裁縫（縫う）』、sowing は『種まき（種をまく）』で別の語です。" },
+    { "q": "sew の過去分詞は？", "a": "sewn または sewed です。" }
+  ],
+  "quiz": [
+    { "q": "sewing の意味は？", "A": "裁縫・縫い物", "B": "種まき", "C": "料理", "D": "掃除", "correct": "A" },
+    { "q": "a sewing machine とは？", "A": "ミシン", "B": "洗濯機", "C": "食洗機", "D": "掃除機", "correct": "A" }
+  ]
+},
+{
+  "english": "sewingmachine",
+  "pron": "ˈsoʊɪŋ məˌʃiːn",
+  "kana": "ソーイングマシン",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "sewing（裁縫）+ machine（機械）",
+  "ld_level": "3級",
+  "badges": ["小学生〜", "英検3級", "CEFR A2", "2語の綴り注意"],
+  "meaning_main": "ミシン（正しくは sewing machine と2語）",
+  "description": "sewingmachine（ソーイングマシン）は、正しくは sewing machine と2語で書く「ミシン」。布を自動で縫う機械。意味・正しい綴り・使い方・例文・関連語をわかりやすく解説します。",
+  "keywords": ["sewingmachine 意味", "sewing machine 英語", "ミシン 英語", "sewingmachine 綴り"],
+  "meanings": [
+    { "hinshi": "【名詞】ミシン", "note": "針と糸を使って布を自動で縫い合わせる機械。日本語の『ミシン』は machine（マシン）がなまったもの。英語では sewing machine と2語で書く。可算名詞。" }
+  ],
+  "usages": [
+    { "title": "① 裁縫の道具として", "desc": "縫う機械に。", "example_en": "She made the dress on a sewing machine.", "example_ja": "彼女はミシンでそのドレスを作った。" },
+    { "title": "② 手縫いと対比して", "desc": "機械縫いに。", "example_en": "A sewing machine is faster than sewing by hand.", "example_ja": "ミシンは手縫いより速い。" }
+  ],
+  "warn": ["英語では sewing machine と2語で書く。1語の sewingmachine は避けるのが無難。", "日本語『ミシン』は英語 machine の後半がなまった呼び方。"],
+  "etym_note": "sewing（裁縫）+ machine（機械）からなる語。19世紀に実用化され、衣服づくりを大きく変えた。日本語『ミシン』は machine のなまり。",
+  "etym_chain": [
+    { "node": "sewing + machine", "sub": "縫う機械", "era": "19世紀" },
+    { "node": "sewing machine", "sub": "ミシン", "era": "19世紀" },
+    { "node": "sewing machine", "sub": "ミシン", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "a sewing machine", "ja": "ミシン" },
+    { "en": "use a sewing machine", "ja": "ミシンを使う" },
+    { "en": "an electric sewing machine", "ja": "電動ミシン" },
+    { "en": "sew on a machine", "ja": "ミシンで縫う" },
+    { "en": "a portable sewing machine", "ja": "持ち運びできるミシン" },
+    { "en": "thread the sewing machine", "ja": "ミシンに糸を通す" }
+  ],
+  "related": [
+    { "en": "sewing", "ja": "裁縫" },
+    { "en": "machine", "ja": "機械" },
+    { "en": "stitch", "ja": "縫い目・縫う" },
+    { "en": "tailor", "ja": "仕立て屋" }
+  ],
+  "faq": [
+    { "q": "sewingmachine は正しい綴りですか？", "a": "英語では sewing machine と2語で書くのが標準です。1語の sewingmachine は避けたほうがよいでしょう。" },
+    { "q": "『ミシン』の由来は？", "a": "英語 machine（マシン）の後半がなまって『ミシン』と呼ばれるようになった、和製の呼び方です。" }
+  ],
+  "quiz": [
+    { "q": "sewing machine の意味は？", "A": "ミシン", "B": "洗濯機", "C": "編み機のみ", "D": "掃除機", "correct": "A" },
+    { "q": "英語での正しい書き方は？", "A": "sewing machine（2語）", "B": "sewingmachine（1語のみ正しい）", "C": "sewing-machines のみ", "D": "sewmachine", "correct": "A" }
+  ]
+},
+{
+  "english": "sexism",
+  "pron": "ˈseksɪzəm",
+  "kana": "セクシズム",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "sex（性）+ -ism（主義・差別）",
+  "ld_level": "準1級",
+  "badges": ["高校生〜", "英検準1級", "CEFR B2", "不可算名詞"],
+  "meaning_main": "性差別（性別による差別）",
+  "description": "sexism（セクシズム）は「性差別」を表す名詞。性別を理由に人を不当に扱うこと。意味・使い方・語源・例文・関連語をわかりやすく解説します。",
+  "keywords": ["sexism 意味", "性差別 英語", "sexism 使い方", "sexism 語源"],
+  "meanings": [
+    { "hinshi": "【名詞】性差別", "note": "性別（特に女性）を理由に、人を不当に扱ったり見下したりすること。不可算名詞。" }
+  ],
+  "usages": [
+    { "title": "① 社会問題として", "desc": "差別の話題で。", "example_en": "The company was accused of sexism.", "example_ja": "その会社は性差別を非難された。" },
+    { "title": "② 職場・教育で", "desc": "不当な扱いに。", "example_en": "She spoke out against sexism in the workplace.", "example_ja": "彼女は職場での性差別に声を上げた。" }
+  ],
+  "warn": ["形容詞・名詞は sexist（性差別的な・性差別主義者）。", "racism（人種差別）、ageism（年齢差別）など、-ism で差別を表す一連の語の一つ。"],
+  "etym_note": "sex（性）に、主義・差別を表す -ism が付いた語。racism（人種差別）にならって20世紀後半に作られた。",
+  "etym_chain": [
+    { "node": "sex", "sub": "性", "era": "中英語" },
+    { "node": "sexism", "sub": "性差別", "era": "20世紀" },
+    { "node": "sexism", "sub": "性差別", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "fight sexism", "ja": "性差別と闘う" },
+    { "en": "everyday sexism", "ja": "日常的な性差別" },
+    { "en": "sexism in the workplace", "ja": "職場の性差別" },
+    { "en": "casual sexism", "ja": "何気ない性差別" },
+    { "en": "accused of sexism", "ja": "性差別を非難される" },
+    { "en": "institutional sexism", "ja": "制度的な性差別" }
+  ],
+  "related": [
+    { "en": "sexist", "ja": "性差別的な・性差別主義者" },
+    { "en": "racism", "ja": "人種差別" },
+    { "en": "discrimination", "ja": "差別" },
+    { "en": "equality", "ja": "平等" }
+  ],
+  "faq": [
+    { "q": "sexism と discrimination の違いは？", "a": "discrimination は『差別』全般、sexism はその中でも特に『性別による差別』を指します。" },
+    { "q": "形容詞形は？", "a": "sexist（性差別的な）です。名詞で『性差別主義者』も表します。" }
+  ],
+  "quiz": [
+    { "q": "sexism の意味は？", "A": "性差別", "B": "人種差別", "C": "年齢差別", "D": "宗教差別", "correct": "A" },
+    { "q": "sexism の形容詞形は？", "A": "sexist", "B": "sexial", "C": "sexish", "D": "sexive", "correct": "A" }
+  ]
+},
+{
+  "english": "sexist",
+  "pron": "ˈseksɪst",
+  "kana": "セクシスト",
+  "hinshi": "形容詞・名詞",
+  "ld_pos": "形容詞",
+  "ld_etym": "sex（性）+ -ist",
+  "ld_level": "準1級",
+  "badges": ["高校生〜", "英検準1級", "CEFR B2", "形容詞・名詞"],
+  "meaning_main": "性差別的な／性差別主義者",
+  "description": "sexist（セクシスト）は「性差別的な」を表す形容詞、また「性差別主義者」を表す名詞。意味・使い方・語源・例文・関連語をわかりやすく解説します。",
+  "keywords": ["sexist 意味", "性差別的 英語", "sexist 使い方", "sexist 語源"],
+  "meanings": [
+    { "hinshi": "【形容詞】性差別的な", "note": "性別を理由に人を不当に扱う・見下す考え方や言動を表す。a sexist remark（性差別的な発言）。" },
+    { "hinshi": "【名詞】性差別主義者", "note": "性差別的な考えを持つ人。可算名詞。" }
+  ],
+  "usages": [
+    { "title": "① 形容詞として", "desc": "差別的な言動に。", "example_en": "He made a sexist comment.", "example_ja": "彼は性差別的な発言をした。" },
+    { "title": "② 名詞として", "desc": "差別主義者に。", "example_en": "She refused to work with a sexist.", "example_ja": "彼女は性差別主義者と働くのを拒んだ。" }
+  ],
+  "warn": ["名詞 sexism（性差別）から。racist（人種差別的な）と同じ作り。", "強い非難の語なので、人に対して使う際は注意。"],
+  "etym_note": "sex（性）に -ist（〜主義の・〜する人）が付いた語。sexism（性差別）と対をなす。",
+  "etym_chain": [
+    { "node": "sex", "sub": "性", "era": "中英語" },
+    { "node": "sexist", "sub": "性差別的な", "era": "20世紀" },
+    { "node": "sexist", "sub": "性差別的な・性差別主義者", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "a sexist remark", "ja": "性差別的な発言" },
+    { "en": "sexist attitudes", "ja": "性差別的な態度" },
+    { "en": "a sexist joke", "ja": "性差別的な冗談" },
+    { "en": "sexist language", "ja": "性差別的な言葉づかい" },
+    { "en": "deeply sexist", "ja": "根深く性差別的な" },
+    { "en": "call someone sexist", "ja": "〜を性差別的だと非難する" }
+  ],
+  "related": [
+    { "en": "sexism", "ja": "性差別" },
+    { "en": "racist", "ja": "人種差別的な" },
+    { "en": "discriminatory", "ja": "差別的な" },
+    { "en": "prejudiced", "ja": "偏見のある" }
+  ],
+  "faq": [
+    { "q": "sexist と sexism の違いは？", "a": "sexism は『性差別（という考え・行為）』の名詞、sexist は『性差別的な』という形容詞、または『性差別主義者』という名詞です。" },
+    { "q": "使うときの注意は？", "a": "強い非難の語なので、人や発言を sexist と呼ぶときは根拠をもって慎重に使うべきです。" }
+  ],
+  "quiz": [
+    { "q": "sexist の意味に含まれるのは？", "A": "性差別的な・性差別主義者", "B": "平等主義の", "C": "親切な", "D": "中立な", "correct": "A" },
+    { "q": "sexist の名詞形（差別そのもの）は？", "A": "sexism", "B": "sexuality", "C": "section", "D": "sextet", "correct": "A" }
+  ]
+},
+{
+  "english": "sextant",
+  "pron": "ˈsekstənt",
+  "kana": "セクスタント",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "ラテン語 sextans（6分の1）から",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "可算名詞"],
+  "meaning_main": "六分儀（天体の高度を測る航海器具）",
+  "description": "sextant（セクスタント）は「六分儀」を表す名詞。太陽や星の高度を測って、船の位置を割り出す航海用の器具。意味・由来・使い方・例文・関連語をわかりやすく解説します。",
+  "keywords": ["sextant 意味", "六分儀 英語", "sextant 使い方", "sextant 語源"],
+  "meanings": [
+    { "hinshi": "【名詞】六分儀", "note": "太陽・月・星などの高度（水平線からの角度）を測る器具。その値から船の緯度などを求め、海上での自分の位置を知るのに使った。可算名詞。" }
+  ],
+  "usages": [
+    { "title": "① 航海の器具として", "desc": "位置測定に。", "example_en": "The captain used a sextant to find their position.", "example_ja": "船長は六分儀を使って自分たちの位置を割り出した。" },
+    { "title": "② 天体観測で", "desc": "高度の測定に。", "example_en": "A sextant measures the angle of a star above the horizon.", "example_ja": "六分儀は水平線からの星の角度を測る。" }
+  ],
+  "warn": ["目盛りが円の6分の1（60度）であることから sextant（6分の1）と名づけられた。", "GPSの普及前、大洋航海の位置測定に欠かせなかった。"],
+  "etym_note": "ラテン語 sextans / sextantis（6分の1）に由来する。目盛りの弧が円周の6分の1（60度）であることにちなむ。six（6）と同語源。",
+  "etym_chain": [
+    { "node": "sextans", "sub": "6分の1", "era": "ラテン語" },
+    { "node": "sextant", "sub": "六分儀（命名）", "era": "18世紀" },
+    { "node": "sextant", "sub": "六分儀", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "use a sextant", "ja": "六分儀を使う" },
+    { "en": "a marine sextant", "ja": "航海用六分儀" },
+    { "en": "read the sextant", "ja": "六分儀を読む" },
+    { "en": "measure with a sextant", "ja": "六分儀で測る" },
+    { "en": "the angle on the sextant", "ja": "六分儀の角度" },
+    { "en": "navigate by sextant", "ja": "六分儀で航行する" }
+  ],
+  "related": [
+    { "en": "navigation", "ja": "航海術・航行" },
+    { "en": "compass", "ja": "羅針盤" },
+    { "en": "horizon", "ja": "水平線" },
+    { "en": "astronomy", "ja": "天文学" }
+  ],
+  "faq": [
+    { "q": "sextant は何に使いますか？", "a": "太陽や星の高度を測り、その値から船の緯度などを求めて、海上での自分の位置を知るために使う航海器具です。" },
+    { "q": "名前の由来は？", "a": "目盛りの弧が円周の6分の1（約60度）であることから、ラテン語で『6分の1』を意味する sextans にちなんで名づけられました。" }
+  ],
+  "quiz": [
+    { "q": "sextant の意味は？", "A": "天体の高度を測る航海器具（六分儀）", "B": "温度計", "C": "顕微鏡", "D": "望遠鏡", "correct": "A" },
+    { "q": "sextant の名前の由来は？", "A": "円の6分の1の目盛り", "B": "6人で使うから", "C": "6色だから", "D": "6キロあるから", "correct": "A" }
+  ]
+},
+{
+  "english": "sextuple",
+  "pron": "ˈsekstjupəl",
+  "kana": "セクスタプル",
+  "hinshi": "形容詞・動詞",
+  "ld_pos": "形容詞",
+  "ld_etym": "ラテン語 sex（6）+ -tuple（〜倍）",
+  "ld_level": "1級",
+  "badges": ["大学生〜", "英検1級", "CEFR C2", "かたい語"],
+  "meaning_main": "6倍の・6つから成る／6倍にする",
+  "description": "sextuple（セクスタプル）は「6倍の・6つから成る」を表す形容詞、また「6倍にする」を表す動詞。意味・使い方・語源・例文・関連語をわかりやすく解説します。",
+  "keywords": ["sextuple 意味", "6倍 英語", "sextuple 使い方", "sextuple 語源"],
+  "meanings": [
+    { "hinshi": "【形容詞】6倍の・6つから成る", "note": "数量が6倍である、または6つの部分・要素から成るさま。かたい語。" },
+    { "hinshi": "【動詞】6倍にする・6倍になる", "note": "数量を6倍に増やすこと。" }
+  ],
+  "usages": [
+    { "title": "① 6つから成る意味で", "desc": "構成の説明に。", "example_en": "Sextuplets are six babies born at one birth.", "example_ja": "六つ子は1回の出産で生まれる6人の赤ちゃんだ。" },
+    { "title": "② 6倍にする意味で", "desc": "増加の意味で。", "example_en": "Production sextupled in ten years.", "example_ja": "生産量は10年で6倍になった。" }
+  ],
+  "warn": ["double(2倍), triple(3倍), quadruple(4倍), quintuple(5倍), sextuple(6倍) と続く一連の語の一つ。", "6人の子（六つ子）は sextuplets。"],
+  "etym_note": "ラテン語 sex（6）に、倍数を表す -tuple（quintuple などと同じ語尾）が付いた語。「6倍の」を表す。",
+  "etym_chain": [
+    { "node": "sex", "sub": "6", "era": "ラテン語" },
+    { "node": "sextuplus", "sub": "6倍の", "era": "ラテン語" },
+    { "node": "sextuple", "sub": "6倍の", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "a sextuple increase", "ja": "6倍の増加" },
+    { "en": "sextuple the amount", "ja": "量を6倍にする" },
+    { "en": "sextuple rhythm", "ja": "6拍子のリズム" },
+    { "en": "sextuplets", "ja": "六つ子" },
+    { "en": "a sextuple bond", "ja": "六重結合（化学）" },
+    { "en": "sextuple time", "ja": "6拍子" }
+  ],
+  "related": [
+    { "en": "quintuple", "ja": "5倍の" },
+    { "en": "double", "ja": "2倍の" },
+    { "en": "triple", "ja": "3倍の" },
+    { "en": "multiply", "ja": "掛ける・増やす" }
+  ],
+  "faq": [
+    { "q": "倍数の言い方は？", "a": "double（2倍）、triple（3倍）、quadruple（4倍）、quintuple（5倍）、sextuple（6倍）と続きます。" },
+    { "q": "sextuplets とは？", "a": "1回の出産で生まれる6人の赤ちゃん、いわゆる『六つ子』のことです。" }
+  ],
+  "quiz": [
+    { "q": "sextuple の意味は？", "A": "6倍の・6つから成る", "B": "半分の", "C": "2倍の", "D": "10倍の", "correct": "A" },
+    { "q": "5倍を表す語は？", "A": "quintuple", "B": "sextuple", "C": "double", "D": "triple", "correct": "A" }
+  ]
+},
+{
+  "english": "sexy",
+  "pron": "ˈseksi",
+  "kana": "セクシー",
+  "hinshi": "形容詞",
+  "ld_pos": "形容詞",
+  "ld_etym": "sex（性）+ -y",
+  "ld_level": "3級",
+  "badges": ["中学生〜", "英検3級", "CEFR A2", "形容詞"],
+  "meaning_main": "性的魅力のある・(口語)とても魅力的な",
+  "description": "sexy（セクシー）は「性的魅力のある」を表す形容詞。口語では「とても魅力的な・かっこいい」の意味でも使う。意味・使い方・語源・例文・関連語をわかりやすく解説します。",
+  "keywords": ["sexy 意味", "セクシー 英語", "sexy 使い方", "sexy 語源"],
+  "meanings": [
+    { "hinshi": "【形容詞】性的魅力のある", "note": "見た目や振る舞いが性的に魅力的なさま。" },
+    { "hinshi": "【形容詞】(口語)とても魅力的な・わくわくする", "note": "アイデア・製品・分野などが『魅力的でかっこいい』という比喩的な口語。a sexy new gadget（魅力的な新しい機器）。" }
+  ],
+  "usages": [
+    { "title": "① 魅力を表して", "desc": "人の魅力に。", "example_en": "He looked really sexy in that suit.", "example_ja": "彼はあのスーツ姿でとても魅力的に見えた。" },
+    { "title": "② 比喩的に魅力的な", "desc": "物事のかっこよさに。", "example_en": "Data science has become a sexy field.", "example_ja": "データサイエンスは魅力的な分野になった。" }
+  ],
+  "warn": ["場面や相手によっては失礼・不適切になり得る語なので、使う場面に注意。", "比喩的に『魅力的でかっこいい』の意味でも使うが、ややくだけた口語。"],
+  "etym_note": "sex（性）に -y が付いた語。20世紀に『性的魅力のある』の意味で広まり、のちに『とても魅力的な』という比喩的な口語にも広がった。",
+  "etym_chain": [
+    { "node": "sex", "sub": "性", "era": "中英語" },
+    { "node": "sexy", "sub": "性的魅力のある", "era": "20世紀" },
+    { "node": "sexy", "sub": "とても魅力的な", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "look sexy", "ja": "セクシーに見える" },
+    { "en": "a sexy voice", "ja": "セクシーな声" },
+    { "en": "a sexy idea", "ja": "魅力的な考え" },
+    { "en": "a sexy new car", "ja": "かっこいい新車" },
+    { "en": "feel sexy", "ja": "魅力的だと感じる" },
+    { "en": "a sexy topic", "ja": "注目を集める話題" }
+  ],
+  "related": [
+    { "en": "attractive", "ja": "魅力的な" },
+    { "en": "alluring", "ja": "魅惑的な" },
+    { "en": "glamorous", "ja": "華やかで魅力的な" },
+    { "en": "appealing", "ja": "心を引く" }
+  ],
+  "faq": [
+    { "q": "sexy は人以外にも使えますか？", "a": "はい。口語では『魅力的でかっこいい・注目を集める』という比喩で、アイデア・製品・分野などにも使います（例：a sexy topic）。" },
+    { "q": "使うときの注意は？", "a": "相手や場面によっては失礼・不適切に受け取られることがあるので、ビジネスや目上の人の前などでは慎重に使いましょう。" }
+  ],
+  "quiz": [
+    { "q": "sexy の意味に含まれるのは？", "A": "性的魅力のある・とても魅力的な", "B": "退屈な", "C": "危険な", "D": "静かな", "correct": "A" },
+    { "q": "a sexy idea の口語的な意味は？", "A": "魅力的でわくわくする考え", "B": "危険な考え", "C": "古い考え", "D": "間違った考え", "correct": "A" }
+  ]
+},
+{
+  "english": "shadowy",
+  "pron": "ˈʃædoʊi",
+  "kana": "シャドウイー",
+  "hinshi": "形容詞",
+  "ld_pos": "形容詞",
+  "ld_etym": "shadow（影）+ -y",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "形容詞"],
+  "meaning_main": "薄暗い・影の多い／正体のはっきりしない",
+  "description": "shadowy（シャドウイー）は「薄暗い・影の多い」を表す形容詞。転じて「正体のはっきりしない・怪しい」の意味でも使う。意味・使い方・語源・例文・関連語をわかりやすく解説します。",
+  "keywords": ["shadowy 意味", "shadowy 使い方", "薄暗い 英語", "shadowy 語源"],
+  "meanings": [
+    { "hinshi": "【形容詞】薄暗い・影の多い", "note": "影が多く暗いさま。ぼんやりして見えにくい状態。a shadowy corner（薄暗い隅）。" },
+    { "hinshi": "【形容詞】正体のはっきりしない・怪しい", "note": "実態が不明で、うさんくさいさま。a shadowy figure（正体不明の人物）。" }
+  ],
+  "usages": [
+    { "title": "① 薄暗い場所に", "desc": "影の多い様子に。", "example_en": "They walked through a shadowy forest.", "example_ja": "彼らは薄暗い森の中を歩いた。" },
+    { "title": "② 正体不明の存在に", "desc": "怪しさに。", "example_en": "A shadowy figure watched from the corner.", "example_ja": "正体不明の人物が隅から見ていた。" }
+  ],
+  "warn": ["名詞 shadow は『影』。shady（日陰の／うさんくさい）と意味が近い部分がある。", "a shadowy figure は『(暗がりの)ぼんやりした人影』『正体不明の人物』の両方に使う。"],
+  "etym_note": "名詞 shadow（影）に -y が付いた語。shadow は古英語 sceadu（影）に由来する。",
+  "etym_chain": [
+    { "node": "sceadu", "sub": "影", "era": "古英語" },
+    { "node": "shadow", "sub": "影", "era": "中英語" },
+    { "node": "shadowy", "sub": "薄暗い・怪しい", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "a shadowy figure", "ja": "正体不明の人影" },
+    { "en": "a shadowy corner", "ja": "薄暗い隅" },
+    { "en": "shadowy forest", "ja": "薄暗い森" },
+    { "en": "a shadowy organization", "ja": "実態不明の組織" },
+    { "en": "shadowy shapes", "ja": "ぼんやりした影" },
+    { "en": "a shadowy past", "ja": "はっきりしない過去" }
+  ],
+  "related": [
+    { "en": "shadow", "ja": "影" },
+    { "en": "shady", "ja": "日陰の・うさんくさい" },
+    { "en": "dim", "ja": "薄暗い" },
+    { "en": "murky", "ja": "薄暗い・不明瞭な" }
+  ],
+  "faq": [
+    { "q": "shadowy と shady の違いは？", "a": "shady は『日陰の』または『(口語で)うさんくさい』、shadowy は『影が多く薄暗い』『正体のはっきりしない』というニュアンスです。" },
+    { "q": "a shadowy figure とは？", "a": "『暗がりのぼんやりした人影』、または『正体のはっきりしない怪しい人物』を指します。" }
+  ],
+  "quiz": [
+    { "q": "shadowy の意味に含まれるのは？", "A": "薄暗い・正体のはっきりしない", "B": "まぶしく明るい", "C": "とても清潔な", "D": "非常に速い", "correct": "A" },
+    { "q": "a shadowy figure の意味は？", "A": "正体不明の人影", "B": "有名な英雄", "C": "明るい太陽", "D": "大きな建物", "correct": "A" }
+  ]
+},
+{
+  "english": "shakespearean",
+  "pron": "ˌʃeɪkˈspɪəriən",
+  "kana": "シェイクスピリアン",
+  "hinshi": "形容詞",
+  "ld_pos": "形容詞",
+  "ld_etym": "Shakespeare（シェイクスピア）+ -an",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "固有形容詞"],
+  "meaning_main": "シェイクスピアの・シェイクスピア風の",
+  "description": "Shakespearean（シェイクスピリアン）は「シェイクスピアの・シェイクスピア風の」を表す形容詞。劇作家シェイクスピアに関わることを表す。意味・使い方・語源・例文・関連語をわかりやすく解説します。",
+  "keywords": ["shakespearean 意味", "シェイクスピア 英語", "shakespearean 使い方", "shakespearean 語源"],
+  "meanings": [
+    { "hinshi": "【形容詞】シェイクスピアの・シェイクスピア風の", "note": "イギリスの劇作家ウィリアム・シェイクスピア（1564〜1616）に関する、またはその作品のように壮大・劇的なさま。" }
+  ],
+  "usages": [
+    { "title": "① 作品・研究について", "desc": "シェイクスピアに関して。", "example_en": "She is an expert in Shakespearean drama.", "example_ja": "彼女はシェイクスピア演劇の専門家だ。" },
+    { "title": "② 壮大・劇的なたとえに", "desc": "劇的な様子に。", "example_en": "The scandal had a Shakespearean quality of tragedy.", "example_ja": "そのスキャンダルにはシェイクスピア劇のような悲劇性があった。" }
+  ],
+  "warn": ["固有形容詞なので大文字（Shakespearean）。見出し語はサイト規則で小文字登録。", "Shakespearian という綴りもある。"],
+  "etym_note": "劇作家 William Shakespeare（シェイクスピア）に「〜の・〜風の」を表す -an が付いた語。彼の壮大で劇的な作風にちなんで、比喩的にも使われる。",
+  "etym_chain": [
+    { "node": "Shakespeare", "sub": "人名（劇作家）", "era": "16〜17世紀" },
+    { "node": "Shakespearean", "sub": "シェイクスピアの", "era": "近代英語" },
+    { "node": "Shakespearean", "sub": "シェイクスピア風の", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "Shakespearean drama", "ja": "シェイクスピア演劇" },
+    { "en": "a Shakespearean tragedy", "ja": "シェイクスピア悲劇" },
+    { "en": "Shakespearean English", "ja": "シェイクスピアの英語" },
+    { "en": "a Shakespearean actor", "ja": "シェイクスピア俳優" },
+    { "en": "Shakespearean sonnet", "ja": "シェイクスピア風ソネット" },
+    { "en": "Shakespearean in scale", "ja": "壮大な規模の" }
+  ],
+  "related": [
+    { "en": "Shakespeare", "ja": "シェイクスピア" },
+    { "en": "playwright", "ja": "劇作家" },
+    { "en": "tragedy", "ja": "悲劇" },
+    { "en": "sonnet", "ja": "ソネット（14行詩）" }
+  ],
+  "faq": [
+    { "q": "Shakespearean はどんな意味で使いますか？", "a": "『シェイクスピアの作品・時代の』という意味のほか、比喩的に『シェイクスピア劇のように壮大で劇的な』という意味でも使います。" },
+    { "q": "綴りは一つですか？", "a": "Shakespearean と Shakespearian の2通りの綴りがあります。" }
+  ],
+  "quiz": [
+    { "q": "Shakespearean の意味は？", "A": "シェイクスピアの・シェイクスピア風の", "B": "海の・海洋の", "C": "宇宙の", "D": "音楽の", "correct": "A" },
+    { "q": "Shakespeare の職業は？", "A": "劇作家", "B": "科学者", "C": "画家", "D": "王様", "correct": "A" }
+  ]
+},
+{
+  "english": "shakuhachi",
+  "pron": "ˌʃɑːkuˈhɑːtʃi",
+  "kana": "シャクハチ",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "日本語「尺八」から",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "楽器・日本文化"],
+  "meaning_main": "尺八（日本の竹製の縦笛）",
+  "description": "shakuhachi（シャクハチ）は「尺八」を表す語。日本の伝統的な竹製の縦笛。意味・由来・使い方・例文・関連語をわかりやすく解説します。",
+  "keywords": ["shakuhachi 意味", "尺八 英語", "shakuhachi 楽器", "shakuhachi 由来"],
+  "meanings": [
+    { "hinshi": "【名詞】尺八", "note": "日本の伝統的な竹製の縦笛。5つの指孔を持ち、息づかいで繊細な音色を出す。禅の修行や邦楽で用いられる。可算名詞。" }
+  ],
+  "usages": [
+    { "title": "① 楽器として", "desc": "邦楽の話題で。", "example_en": "He played a haunting melody on the shakuhachi.", "example_ja": "彼は尺八で心に残る旋律を奏でた。" },
+    { "title": "② 日本文化の紹介で", "desc": "伝統楽器として。", "example_en": "The shakuhachi is a traditional Japanese bamboo flute.", "example_ja": "尺八は日本の伝統的な竹の縦笛だ。" }
+  ],
+  "warn": ["名は標準的な長さ『一尺八寸（約54.5cm）』に由来する。", "横笛（fue）ではなく縦に吹く笛（end-blown flute）。"],
+  "etym_note": "日本語『尺八』のローマ字表記。標準的な管の長さ『一尺八寸（約54.5cm）』にちなんで名づけられたとされる。",
+  "etym_chain": [
+    { "node": "尺八", "sub": "一尺八寸の笛", "era": "日本" },
+    { "node": "shakuhachi", "sub": "ローマ字表記", "era": "近代" },
+    { "node": "shakuhachi", "sub": "尺八", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "play the shakuhachi", "ja": "尺八を吹く" },
+    { "en": "a bamboo shakuhachi", "ja": "竹製の尺八" },
+    { "en": "shakuhachi music", "ja": "尺八の音楽" },
+    { "en": "the sound of the shakuhachi", "ja": "尺八の音色" },
+    { "en": "a shakuhachi player", "ja": "尺八奏者" },
+    { "en": "learn the shakuhachi", "ja": "尺八を習う" }
+  ],
+  "related": [
+    { "en": "flute", "ja": "笛・フルート" },
+    { "en": "bamboo", "ja": "竹" },
+    { "en": "koto", "ja": "琴" },
+    { "en": "shamisen", "ja": "三味線" }
+  ],
+  "faq": [
+    { "q": "shakuhachi とはどんな楽器ですか？", "a": "日本の伝統的な竹製の縦笛で、5つの指孔を持ち、息づかいで繊細で深みのある音色を出します。" },
+    { "q": "名前の由来は？", "a": "標準的な管の長さ『一尺八寸（約54.5cm）』にちなんで『尺八』と呼ばれます。" }
+  ],
+  "quiz": [
+    { "q": "shakuhachi とは何ですか？", "A": "日本の竹製の縦笛（尺八）", "B": "太鼓", "C": "弦楽器", "D": "鍵盤楽器", "correct": "A" },
+    { "q": "shakuhachi の名前の由来は？", "A": "標準の長さ一尺八寸", "B": "8人で演奏するから", "C": "8つの穴があるから", "D": "8世紀にできたから", "correct": "A" }
+  ]
+},
+{
+  "english": "shambles",
+  "pron": "ˈʃæmbəlz",
+  "kana": "シャンブルズ",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "古英語 sceamol（腰かけ・肉屋の台）から",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "単数扱い"],
+  "meaning_main": "めちゃくちゃな状態・大混乱",
+  "description": "shambles（シャンブルズ）は「めちゃくちゃな状態・大混乱」を表す名詞。散らかったり失敗して混乱したりしたさま。意味・使い方・語源・例文・関連語をわかりやすく解説します。",
+  "keywords": ["shambles 意味", "shambles 使い方", "大混乱 英語", "shambles 語源"],
+  "meanings": [
+    { "hinshi": "【名詞】めちゃくちゃな状態・大混乱", "note": "散らかって、または失敗して、ひどく混乱した状態。形は複数形だが単数扱い（The room is a shambles.）。" }
+  ],
+  "usages": [
+    { "title": "① 散らかった状態に", "desc": "ぐちゃぐちゃに。", "example_en": "After the party, the house was a shambles.", "example_ja": "パーティーの後、家はめちゃくちゃだった。" },
+    { "title": "② 計画・状況の混乱に", "desc": "失敗・混乱に。", "example_en": "The whole project was a complete shambles.", "example_ja": "その計画全体がまったくの大失敗だった。" }
+  ],
+  "warn": ["形は複数形（-s）だが、a shambles / is a shambles のように単数扱い。", "もとは『肉屋・食肉市場』を意味し、そこから『血なまぐさい混乱』→『めちゃくちゃ』へ意味が変化した。"],
+  "etym_note": "古英語 sceamol（腰かけ・台）に由来し、のちに『肉屋の台・食肉市場』を意味した。屠殺場の混乱から『大混乱・めちゃくちゃ』の意味になった。",
+  "etym_chain": [
+    { "node": "sceamol", "sub": "腰かけ・台", "era": "古英語" },
+    { "node": "shambles", "sub": "食肉市場・屠殺場", "era": "中英語" },
+    { "node": "shambles", "sub": "大混乱", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "a complete shambles", "ja": "まったくの大混乱" },
+    { "en": "in a shambles", "ja": "めちゃくちゃな状態で" },
+    { "en": "the economy is a shambles", "ja": "経済はめちゃくちゃだ" },
+    { "en": "make a shambles of", "ja": "〜をめちゃくちゃにする" },
+    { "en": "an absolute shambles", "ja": "まったくのぐちゃぐちゃ" },
+    { "en": "leave in a shambles", "ja": "めちゃくちゃにして去る" }
+  ],
+  "related": [
+    { "en": "chaos", "ja": "大混乱" },
+    { "en": "mess", "ja": "散らかった状態" },
+    { "en": "disaster", "ja": "大失敗・災難" },
+    { "en": "disorder", "ja": "無秩序" }
+  ],
+  "faq": [
+    { "q": "shambles は複数ですか単数ですか？", "a": "形は -s で複数形に見えますが、単数扱いです（The place is a shambles.）。" },
+    { "q": "語源のおもしろい由来は？", "a": "もとは『肉屋・食肉市場』を意味し、屠殺場の血なまぐさい混乱から『大混乱・めちゃくちゃ』の意味になりました。" }
+  ],
+  "quiz": [
+    { "q": "shambles の意味は？", "A": "めちゃくちゃな状態・大混乱", "B": "整然とした状態", "C": "静かな部屋", "D": "きれいな庭", "correct": "A" },
+    { "q": "shambles の使い方で正しいのは？", "A": "The room is a shambles.（単数扱い）", "B": "The room are many shambles.", "C": "a shambles are here", "D": "shambles is countable plural", "correct": "A" }
+  ]
+},
+{
+  "english": "shamisen",
+  "pron": "ˈʃæmɪsen",
+  "kana": "シャミセン",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "日本語「三味線」から",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "楽器・日本文化"],
+  "meaning_main": "三味線（日本の三弦の撥弦楽器）",
+  "description": "shamisen（シャミセン）は「三味線」を表す語。日本の伝統的な三本弦の弦楽器で、ばちで弾く。意味・由来・使い方・例文・関連語をわかりやすく解説します。",
+  "keywords": ["shamisen 意味", "三味線 英語", "shamisen 楽器", "shamisen 由来"],
+  "meanings": [
+    { "hinshi": "【名詞】三味線", "note": "日本の伝統的な三本弦の楽器。四角い胴に長い棹を持ち、『ばち』ではじいて演奏する。歌舞伎・民謡・津軽三味線などで用いられる。可算名詞。" }
+  ],
+  "usages": [
+    { "title": "① 楽器として", "desc": "邦楽の話題で。", "example_en": "She played a lively tune on the shamisen.", "example_ja": "彼女は三味線で軽快な曲を弾いた。" },
+    { "title": "② 日本文化の紹介で", "desc": "伝統楽器として。", "example_en": "The shamisen is a three-stringed Japanese instrument.", "example_ja": "三味線は日本の三弦の楽器だ。" }
+  ],
+  "warn": ["『ばち（plectrum）』ではじいて演奏する撥弦楽器。", "『三味線』は文字どおり『三本の弦の糸』の意味。"],
+  "etym_note": "日本語『三味線』のローマ字表記。『三』（3つ）『味』『線（糸）』で、三本の弦を持つ楽器を表す。もとは中国の三弦（サンシェン）が沖縄を経て伝わったとされる。",
+  "etym_chain": [
+    { "node": "三味線", "sub": "三本弦の楽器", "era": "日本" },
+    { "node": "shamisen", "sub": "ローマ字表記", "era": "近代" },
+    { "node": "shamisen", "sub": "三味線", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "play the shamisen", "ja": "三味線を弾く" },
+    { "en": "a three-stringed shamisen", "ja": "三本弦の三味線" },
+    { "en": "shamisen music", "ja": "三味線の音楽" },
+    { "en": "a shamisen player", "ja": "三味線奏者" },
+    { "en": "Tsugaru shamisen", "ja": "津軽三味線" },
+    { "en": "the sound of the shamisen", "ja": "三味線の音色" }
+  ],
+  "related": [
+    { "en": "koto", "ja": "琴" },
+    { "en": "shakuhachi", "ja": "尺八" },
+    { "en": "plectrum", "ja": "ばち・ピック" },
+    { "en": "string instrument", "ja": "弦楽器" }
+  ],
+  "faq": [
+    { "q": "shamisen とはどんな楽器ですか？", "a": "日本の伝統的な三本弦の楽器で、四角い胴に長い棹を持ち、『ばち』ではじいて演奏します。" },
+    { "q": "どんな音楽で使われますか？", "a": "歌舞伎・民謡・地歌のほか、力強い津軽三味線などでも用いられます。" }
+  ],
+  "quiz": [
+    { "q": "shamisen とは何ですか？", "A": "日本の三本弦の弦楽器（三味線）", "B": "太鼓", "C": "縦笛", "D": "鍵盤楽器", "correct": "A" },
+    { "q": "shamisen の演奏方法は？", "A": "ばちで弦をはじく", "B": "息を吹き込む", "C": "たたく", "D": "鍵盤を押す", "correct": "A" }
+  ]
+},
+{
+  "english": "shampoo",
+  "pron": "ʃæmˈpuː",
+  "kana": "シャンプー",
+  "hinshi": "名詞・動詞",
+  "ld_pos": "名詞",
+  "ld_etym": "ヒンディー語 chāmpo（もみ洗いする）から",
+  "ld_level": "3級",
+  "badges": ["小学生〜", "英検3級", "CEFR A2", "可算・不可算"],
+  "meaning_main": "シャンプー（洗髪剤）／髪を洗う",
+  "description": "shampoo（シャンプー）は「洗髪剤」を表す名詞、また「髪を洗う」を表す動詞。意味・由来・使い方・例文・関連語をわかりやすく解説します。",
+  "keywords": ["shampoo 意味", "シャンプー 英語", "shampoo 使い方", "shampoo 語源"],
+  "meanings": [
+    { "hinshi": "【名詞】シャンプー・洗髪剤", "note": "髪や頭皮を洗うための液体の洗剤。液そのものは不可算、種類・製品としては可算。" },
+    { "hinshi": "【動詞】(髪・カーペットを)洗う", "note": "シャンプーで髪を洗うこと。カーペットの洗浄にも使う。" }
+  ],
+  "usages": [
+    { "title": "① 洗髪剤として", "desc": "製品の話題で。", "example_en": "I ran out of shampoo this morning.", "example_ja": "今朝シャンプーを切らしてしまった。" },
+    { "title": "② 髪を洗う動詞で", "desc": "洗髪の動作に。", "example_en": "She shampooed her hair before the appointment.", "example_ja": "彼女は予約の前に髪を洗った。" }
+  ],
+  "warn": ["動詞は shampooed / shampooing。", "リンス（英）は conditioner が一般的。"],
+  "etym_note": "ヒンディー語 chāmpo（『押す・もみ洗いする』の命令形、champnā から）に由来する。もとは『マッサージする・もみ洗いする』意味で、のちに『洗髪剤』を指すようになった。",
+  "etym_chain": [
+    { "node": "chāmpo", "sub": "もみ洗いする", "era": "ヒンディー語" },
+    { "node": "shampoo", "sub": "マッサージする・洗髪する", "era": "18世紀英語" },
+    { "node": "shampoo", "sub": "シャンプー", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "a bottle of shampoo", "ja": "シャンプー1本" },
+    { "en": "baby shampoo", "ja": "ベビーシャンプー" },
+    { "en": "shampoo and conditioner", "ja": "シャンプーとコンディショナー" },
+    { "en": "dry shampoo", "ja": "ドライシャンプー" },
+    { "en": "shampoo one's hair", "ja": "髪を洗う" },
+    { "en": "carpet shampoo", "ja": "カーペット用洗剤" }
+  ],
+  "related": [
+    { "en": "conditioner", "ja": "コンディショナー・リンス" },
+    { "en": "soap", "ja": "石けん" },
+    { "en": "wash", "ja": "洗う" },
+    { "en": "hair", "ja": "髪" }
+  ],
+  "faq": [
+    { "q": "shampoo の語源のおもしろい点は？", "a": "ヒンディー語の『もみ洗いする・マッサージする』に由来し、もとは頭を洗いながらもむ行為を指しました。" },
+    { "q": "動詞としても使えますか？", "a": "はい。『髪を洗う（shampoo one's hair）』のほか、カーペットの洗浄にも使えます。" }
+  ],
+  "quiz": [
+    { "q": "shampoo の意味は？", "A": "洗髪剤・髪を洗う", "B": "歯みがき粉", "C": "食器用洗剤", "D": "洗濯洗剤", "correct": "A" },
+    { "q": "shampoo の語源（ヒンディー語）の意味は？", "A": "もみ洗いする・マッサージする", "B": "走る", "C": "食べる", "D": "眠る", "correct": "A" }
+  ]
+},
+{
+  "english": "shandong",
+  "pron": "ˌʃænˈdʊŋ",
+  "kana": "シャントン",
+  "hinshi": "名詞（固有名詞）",
+  "ld_pos": "固有名詞",
+  "ld_etym": "中国語「山東」から（太行山脈の東の意）",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR B2", "固有名詞・地名"],
+  "meaning_main": "山東（中国東部の省）",
+  "description": "Shandong（シャントン）は中国東部の省「山東省」。孔子の生地や泰山で知られる。意味・由来・使い方・例文・関連語をわかりやすく解説します。",
+  "keywords": ["shandong 意味", "山東 英語", "shandong 中国", "shandong 由来"],
+  "meanings": [
+    { "hinshi": "【固有名詞】山東（省）", "note": "中国東部、黄海に面した省。省都は済南（Jinan）。孔子の生地『曲阜』や霊峰『泰山』で知られる。人口の多い省の一つ。" }
+  ],
+  "usages": [
+    { "title": "① 地理・地名として", "desc": "中国の省として。", "example_en": "Shandong is a coastal province in eastern China.", "example_ja": "山東は中国東部の沿海の省だ。" },
+    { "title": "② 文化・歴史の話題で", "desc": "孔子ゆかりの地に。", "example_en": "Confucius was born in Shandong.", "example_ja": "孔子は山東で生まれた。" }
+  ],
+  "warn": ["固有名詞なので大文字（Shandong）。見出し語はサイト規則で小文字登録。", "ピンイン表記が Shandong。古い表記では Shantung とも。"],
+  "etym_note": "中国語『山東』のピンイン表記。『太行山脈の東側』を意味する地名。孔子・孟子ゆかりの地で、儒教文化の中心地の一つ。",
+  "etym_chain": [
+    { "node": "山東", "sub": "山の東", "era": "中国" },
+    { "node": "Shandong", "sub": "ピンイン表記", "era": "近代" },
+    { "node": "Shandong", "sub": "山東省", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "Shandong Province", "ja": "山東省" },
+    { "en": "eastern China's Shandong", "ja": "中国東部の山東" },
+    { "en": "the coast of Shandong", "ja": "山東の海岸" },
+    { "en": "Shandong cuisine", "ja": "山東料理" },
+    { "en": "born in Shandong", "ja": "山東生まれ" },
+    { "en": "Mount Tai in Shandong", "ja": "山東の泰山" }
+  ],
+  "related": [
+    { "en": "China", "ja": "中国" },
+    { "en": "province", "ja": "省・州" },
+    { "en": "Confucius", "ja": "孔子" },
+    { "en": "Jinan", "ja": "済南（省都）" }
+  ],
+  "faq": [
+    { "q": "Shandong はどこにありますか？", "a": "中国東部、黄海に面した省で、省都は済南（Jinan）です。" },
+    { "q": "山東が有名な理由は？", "a": "思想家・孔子の生地であり、霊峰・泰山があるなど、中国の歴史・文化の重要な地です。" }
+  ],
+  "quiz": [
+    { "q": "Shandong とは何ですか？", "A": "中国東部の省（山東省）", "B": "日本の県", "C": "韓国の都市", "D": "インドの州", "correct": "A" },
+    { "q": "Shandong ゆかりの思想家は？", "A": "孔子", "B": "ソクラテス", "C": "アリストテレス", "D": "プラトン", "correct": "A" }
+  ]
+},
+{
+  "english": "shantytown",
+  "pron": "ˈʃæntitaʊn",
+  "kana": "シャンティタウン",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "shanty（掘っ立て小屋）+ town（町）",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "可算名詞"],
+  "meaning_main": "スラム街・掘っ立て小屋の集まる貧民地区",
+  "description": "shantytown（シャンティタウン）は「掘っ立て小屋の集まる貧民地区・スラム街」を表す名詞。意味・使い方・語源・例文・関連語をわかりやすく解説します。",
+  "keywords": ["shantytown 意味", "スラム 英語", "shantytown 使い方", "shantytown 語源"],
+  "meanings": [
+    { "hinshi": "【名詞】スラム街・貧民地区", "note": "間に合わせの材料で建てた粗末な小屋（shanty）が密集する、貧しい人々の居住地区。都市の周辺などにできる。可算名詞。" }
+  ],
+  "usages": [
+    { "title": "① 都市の貧困地区に", "desc": "居住環境の話に。", "example_en": "Many migrants live in shantytowns on the city's edge.", "example_ja": "多くの移住者が都市の周辺のスラム街で暮らしている。" },
+    { "title": "② 社会問題として", "desc": "貧困・住宅の話に。", "example_en": "The government promised to improve the shantytowns.", "example_ja": "政府はスラム街を改善すると約束した。" }
+  ],
+  "warn": ["shanty（掘っ立て小屋）+ town からなる語。slum（スラム）とほぼ近い。", "地域により favela（ブラジル）など別の呼び名もある。"],
+  "etym_note": "shanty（間に合わせの粗末な小屋）+ town（町）からなる語。粗末な小屋が集まってできた居住地区を表す。",
+  "etym_chain": [
+    { "node": "shanty + town", "sub": "掘っ立て小屋の町", "era": "19世紀" },
+    { "node": "shantytown", "sub": "スラム街", "era": "近代英語" },
+    { "node": "shantytown", "sub": "貧民地区", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "live in a shantytown", "ja": "スラム街に住む" },
+    { "en": "a sprawling shantytown", "ja": "広がるスラム街" },
+    { "en": "shantytowns on the outskirts", "ja": "郊外のスラム街" },
+    { "en": "clear a shantytown", "ja": "スラム街を撤去する" },
+    { "en": "grow into a shantytown", "ja": "スラム化する" },
+    { "en": "a crowded shantytown", "ja": "密集したスラム街" }
+  ],
+  "related": [
+    { "en": "shanty", "ja": "掘っ立て小屋" },
+    { "en": "slum", "ja": "スラム" },
+    { "en": "poverty", "ja": "貧困" },
+    { "en": "settlement", "ja": "居住地・集落" }
+  ],
+  "faq": [
+    { "q": "shantytown と slum の違いは？", "a": "ほぼ同義ですが、shantytown は特に『間に合わせの粗末な小屋が密集してできた貧民地区』を強調します。" },
+    { "q": "shanty とは？", "a": "板や廃材などで間に合わせに建てた、粗末な『掘っ立て小屋』のことです。" }
+  ],
+  "quiz": [
+    { "q": "shantytown の意味は？", "A": "掘っ立て小屋の集まる貧民地区", "B": "高級住宅街", "C": "商業ビル街", "D": "観光地", "correct": "A" },
+    { "q": "shantytown の shanty の意味は？", "A": "掘っ立て小屋", "B": "宮殿", "C": "ホテル", "D": "学校", "correct": "A" }
+  ]
+},
+{
+  "english": "shapeless",
+  "pron": "ˈʃeɪpləs",
+  "kana": "シェイプレス",
+  "hinshi": "形容詞",
+  "ld_pos": "形容詞",
+  "ld_etym": "shape（形）+ -less（〜がない）",
+  "ld_level": "準1級",
+  "badges": ["高校生〜", "英検準1級", "CEFR B2", "形容詞"],
+  "meaning_main": "形の定まらない・形の崩れた・締まりのない",
+  "description": "shapeless（シェイプレス）は「形の定まらない・形の崩れた・締まりのない」を表す形容詞。意味・使い方・語源・例文・関連語をわかりやすく解説します。",
+  "keywords": ["shapeless 意味", "shapeless 使い方", "形がない 英語", "shapeless 語源"],
+  "meanings": [
+    { "hinshi": "【形容詞】形の定まらない・形の崩れた", "note": "はっきりした形を持たない、または形が崩れてだらしないさま。a shapeless mass（形のないかたまり）。" },
+    { "hinshi": "【形容詞】(服が)体の線を出さない・締まりのない", "note": "体型がわからない、ゆるくてだぶついた服にも使う。" }
+  ],
+  "usages": [
+    { "title": "① 形のないものに", "desc": "定まらない形に。", "example_en": "The clay was still a shapeless lump.", "example_ja": "その粘土はまだ形のないかたまりだった。" },
+    { "title": "② だぶついた服に", "desc": "締まりのなさに。", "example_en": "She wore a baggy, shapeless dress.", "example_ja": "彼女はだぶだぶで形の崩れたワンピースを着ていた。" }
+  ],
+  "warn": ["-less は『〜がない』を表す接尾辞。反対は shapely（形の整った・均整のとれた）。", "計画・話などが『まとまりがない』意味でも使う。"],
+  "etym_note": "名詞 shape（形）に『〜がない』を表す -less が付いた語。shape は古英語 gesceap（形・創造物）に由来する。",
+  "etym_chain": [
+    { "node": "gesceap", "sub": "形・創造物", "era": "古英語" },
+    { "node": "shape", "sub": "形", "era": "中英語" },
+    { "node": "shapeless", "sub": "形のない", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "a shapeless mass", "ja": "形のないかたまり" },
+    { "en": "a shapeless lump", "ja": "形の定まらない塊" },
+    { "en": "a shapeless dress", "ja": "形の崩れた服" },
+    { "en": "shapeless and baggy", "ja": "だぶついて締まりのない" },
+    { "en": "a shapeless heap", "ja": "形のない山" },
+    { "en": "a shapeless plan", "ja": "まとまりのない計画" }
+  ],
+  "related": [
+    { "en": "shape", "ja": "形" },
+    { "en": "shapely", "ja": "形の整った" },
+    { "en": "formless", "ja": "形のない" },
+    { "en": "baggy", "ja": "だぶだぶの" }
+  ],
+  "faq": [
+    { "q": "shapeless の反対語は？", "a": "shapely（形の整った・均整のとれた）です。" },
+    { "q": "服に使うとどんな意味？", "a": "体の線を出さない、ゆるくてだぶついた『締まりのない服』という意味になります。" }
+  ],
+  "quiz": [
+    { "q": "shapeless の意味は？", "A": "形の定まらない・崩れた", "B": "形の整った", "C": "とても硬い", "D": "光っている", "correct": "A" },
+    { "q": "shapeless の反対語は？", "A": "shapely（形の整った）", "B": "hopeless（絶望的な）", "C": "harmless（無害な）", "D": "endless（果てしない）", "correct": "A" }
+  ]
+},
+{
+  "english": "shareholder",
+  "pron": "ˈʃeərhoʊldər",
+  "kana": "シェアホルダー",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "share（株）+ holder（持つ人）",
+  "ld_level": "準1級",
+  "badges": ["高校生〜", "英検準1級", "CEFR B2", "可算名詞"],
+  "meaning_main": "株主",
+  "description": "shareholder（シェアホルダー）は「株主」を表す名詞。会社の株式を持ち、その会社の一部を所有する人。意味・使い方・語源・例文・関連語をわかりやすく解説します。",
+  "keywords": ["shareholder 意味", "株主 英語", "shareholder 使い方", "shareholder 語源"],
+  "meanings": [
+    { "hinshi": "【名詞】株主", "note": "会社の株式（share）を保有し、その会社の一部を所有する人。配当を受け取ったり、株主総会で議決権を持ったりする。可算名詞。アメリカでは stockholder とも。" }
+  ],
+  "usages": [
+    { "title": "① 会社の所有者として", "desc": "株主の権利に。", "example_en": "Shareholders receive dividends from the company.", "example_ja": "株主は会社から配当を受け取る。" },
+    { "title": "② 株主総会で", "desc": "議決権の話に。", "example_en": "The plan was approved at the shareholders' meeting.", "example_ja": "その計画は株主総会で承認された。" }
+  ],
+  "warn": ["アメリカ英語では stockholder（株主）ともいう。", "share（株・分け前）+ holder（持つ人）からなる語。"],
+  "etym_note": "share（株・分け前）+ holder（持つ人、hold「持つ」から）からなる語。『株を持つ人＝株主』を表す。",
+  "etym_chain": [
+    { "node": "share + holder", "sub": "株を持つ人", "era": "近代英語" },
+    { "node": "shareholder", "sub": "株主", "era": "近代英語" },
+    { "node": "shareholder", "sub": "株主", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "a major shareholder", "ja": "大株主" },
+    { "en": "shareholders' meeting", "ja": "株主総会" },
+    { "en": "shareholder value", "ja": "株主価値" },
+    { "en": "the largest shareholder", "ja": "筆頭株主" },
+    { "en": "shareholders' rights", "ja": "株主の権利" },
+    { "en": "reward shareholders", "ja": "株主に報いる" }
+  ],
+  "related": [
+    { "en": "share", "ja": "株・分け前" },
+    { "en": "stockholder", "ja": "株主（米）" },
+    { "en": "stakeholder", "ja": "利害関係者" },
+    { "en": "dividend", "ja": "配当" }
+  ],
+  "faq": [
+    { "q": "shareholder と stakeholder の違いは？", "a": "shareholder は『株を持つ株主』、stakeholder は株主に加えて従業員・顧客・地域など、会社に利害を持つ『利害関係者』全般を指します。" },
+    { "q": "アメリカ英語では？", "a": "stockholder（株主）ともいいます。" }
+  ],
+  "quiz": [
+    { "q": "shareholder の意味は？", "A": "株主", "B": "従業員", "C": "顧客", "D": "銀行員", "correct": "A" },
+    { "q": "shareholder が受け取ることがあるのは？", "A": "配当（dividend）", "B": "給料だけ", "C": "商品券のみ", "D": "何もない", "correct": "A" }
+  ]
+}
+]

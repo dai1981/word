@@ -1,0 +1,993 @@
+[
+{
+  "english": "sheaf",
+  "pron": "ʃiːf",
+  "kana": "シーフ",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "古英語 sceaf（束）から",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "可算名詞"],
+  "meaning_main": "(麦などの)束・(書類の)ひとまとめ",
+  "description": "sheaf（シーフ）は「(刈った麦などの)束・(書類の)ひとまとめ」を表す名詞。複数形は sheaves。意味・使い方・語源・例文・関連語をわかりやすく解説します。",
+  "keywords": ["sheaf 意味", "sheaf 使い方", "束 英語", "sheaf 語源"],
+  "meanings": [
+    { "hinshi": "【名詞】(麦などの)束", "note": "刈り取った麦や穀物をまとめてしばった束。可算名詞。複数形は sheaves。" },
+    { "hinshi": "【名詞】(書類・紙の)ひとまとめ", "note": "紙・書類などをまとめて重ねた束。a sheaf of papers（書類の束）。" }
+  ],
+  "usages": [
+    { "title": "① 麦の束として", "desc": "収穫の場面に。", "example_en": "The farmer tied the wheat into sheaves.", "example_ja": "農夫は小麦を束にしてしばった。" },
+    { "title": "② 書類の束として", "desc": "紙のまとまりに。", "example_en": "She held a sheaf of papers under her arm.", "example_ja": "彼女は書類の束を脇に抱えていた。" }
+  ],
+  "warn": ["複数形は sheaves（leaf → leaves と同じ変化）。", "束ねる対象は主に麦・穀物、または紙・書類。"],
+  "etym_note": "古英語 sceaf（束）に由来する。刈り取った穀物をまとめた『束』を表し、のちに紙の束にも広がった。",
+  "etym_chain": [
+    { "node": "sceaf", "sub": "束", "era": "古英語" },
+    { "node": "sheef", "sub": "束", "era": "中英語" },
+    { "node": "sheaf", "sub": "束", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "a sheaf of wheat", "ja": "小麦の束" },
+    { "en": "a sheaf of papers", "ja": "書類の束" },
+    { "en": "sheaves of corn", "ja": "とうもろこしの束" },
+    { "en": "tie into sheaves", "ja": "束にしてしばる" },
+    { "en": "a thick sheaf", "ja": "分厚い束" },
+    { "en": "a sheaf of notes", "ja": "メモの束" }
+  ],
+  "related": [
+    { "en": "bundle", "ja": "束・包み" },
+    { "en": "stack", "ja": "積み重ね" },
+    { "en": "bunch", "ja": "束・房" },
+    { "en": "harvest", "ja": "収穫" }
+  ],
+  "faq": [
+    { "q": "sheaf の複数形は？", "a": "sheaves です。leaf → leaves と同じく f が v に変わります。" },
+    { "q": "何を束ねるときに使いますか？", "a": "主に刈り取った麦・穀物、または紙・書類のまとまりを指します。" }
+  ],
+  "quiz": [
+    { "q": "sheaf の意味は？", "A": "(麦・書類などの)束", "B": "一枚の板", "C": "小さな箱", "D": "細い糸", "correct": "A" },
+    { "q": "sheaf の複数形は？", "A": "sheaves", "B": "sheafs", "C": "sheafes", "D": "shea-ves", "correct": "A" }
+  ]
+},
+{
+  "english": "shears",
+  "pron": "ʃɪərz",
+  "kana": "シアーズ",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "古英語 scēar（はさみ）から",
+  "ld_level": "準1級",
+  "badges": ["高校生〜", "英検準1級", "CEFR B2", "複数扱い"],
+  "meaning_main": "大ばさみ（園芸・羊毛用などの大型のはさみ）",
+  "description": "shears（シアーズ）は「大ばさみ」を表す名詞。植木や羊毛を切る、両手で使う大きなはさみ。ふつう複数形で使う。意味・使い方・語源・例文・関連語をわかりやすく解説します。",
+  "keywords": ["shears 意味", "大ばさみ 英語", "shears 使い方", "shears 語源"],
+  "meanings": [
+    { "hinshi": "【名詞】大ばさみ", "note": "植木の刈り込みや羊の毛刈りなどに使う、大型のはさみ。ふつう複数形 shears で、a pair of shears（大ばさみ1丁）と数える。" }
+  ],
+  "usages": [
+    { "title": "① 園芸で", "desc": "刈り込みに。", "example_en": "She trimmed the hedge with garden shears.", "example_ja": "彼女は生け垣を植木ばさみで刈り込んだ。" },
+    { "title": "② 羊の毛刈りで", "desc": "毛を刈る道具に。", "example_en": "The farmer used shears to cut the sheep's wool.", "example_ja": "農夫は大ばさみで羊の毛を刈った。" }
+  ],
+  "warn": ["ふつう複数形 shears。1丁は a pair of shears と数える（scissors と同じ）。", "小さな普通のはさみは scissors。"],
+  "etym_note": "古英語 scēar（はさみ、動詞 sceran「切る」から）に由来する。shear（毛を刈る・切る）と同語源。",
+  "etym_chain": [
+    { "node": "sceran", "sub": "切る", "era": "古英語" },
+    { "node": "scēar", "sub": "はさみ", "era": "古英語" },
+    { "node": "shears", "sub": "大ばさみ", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "garden shears", "ja": "植木ばさみ" },
+    { "en": "a pair of shears", "ja": "大ばさみ1丁" },
+    { "en": "hedge shears", "ja": "生け垣用ばさみ" },
+    { "en": "pruning shears", "ja": "剪定ばさみ" },
+    { "en": "sheep shears", "ja": "羊毛刈りばさみ" },
+    { "en": "kitchen shears", "ja": "料理用ばさみ" }
+  ],
+  "related": [
+    { "en": "scissors", "ja": "はさみ" },
+    { "en": "shear", "ja": "毛を刈る・切る" },
+    { "en": "cut", "ja": "切る" },
+    { "en": "trim", "ja": "刈り込む" }
+  ],
+  "faq": [
+    { "q": "shears と scissors の違いは？", "a": "scissors は片手で使う普通のはさみ、shears は両手で使う大型のはさみ（園芸・毛刈り用など）を指します。" },
+    { "q": "数え方は？", "a": "複数形で使い、1丁は a pair of shears と数えます。" }
+  ],
+  "quiz": [
+    { "q": "shears の意味は？", "A": "大ばさみ", "B": "のこぎり", "C": "ハンマー", "D": "ドライバー", "correct": "A" },
+    { "q": "shears の数え方は？", "A": "a pair of shears", "B": "a shear", "C": "one shears", "D": "much shears", "correct": "A" }
+  ]
+},
+{
+  "english": "shellwork",
+  "pron": "ˈʃelwɜːrk",
+  "kana": "シェルワーク",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "shell（貝殻）+ work（細工）",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "不可算名詞"],
+  "meaning_main": "貝殻細工・貝で作った装飾",
+  "description": "shellwork（シェルワーク）は「貝殻細工・貝で作った装飾」を表す名詞。貝殻を並べて作る飾り。意味・使い方・語源・例文・関連語をわかりやすく解説します。",
+  "keywords": ["shellwork 意味", "貝殻細工 英語", "shellwork 使い方", "shellwork 語源"],
+  "meanings": [
+    { "hinshi": "【名詞】貝殻細工・貝で作った装飾", "note": "貝殻を並べたり貼りつけたりして作る装飾・工芸品。額縁・箱・置物などの飾りに使う。不可算名詞。" }
+  ],
+  "usages": [
+    { "title": "① 工芸品として", "desc": "貝の装飾に。", "example_en": "The box was decorated with delicate shellwork.", "example_ja": "その箱は繊細な貝殻細工で飾られていた。" },
+    { "title": "② 海辺のみやげに", "desc": "手工芸として。", "example_en": "The shop sold souvenirs made of shellwork.", "example_ja": "その店は貝殻細工のみやげ物を売っていた。" }
+  ],
+  "warn": ["shell（貝殻）+ work（細工）からなる語。", "-work は『細工・製品』を表す接尾辞（needlework 針仕事、metalwork 金属細工と同じ）。"],
+  "etym_note": "shell（貝殻）+ work（細工・仕事）からなる複合語。貝殻を使った装飾・工芸を表す。",
+  "etym_chain": [
+    { "node": "shell + work", "sub": "貝殻の細工", "era": "近代英語" },
+    { "node": "shellwork", "sub": "貝殻細工", "era": "近代英語" },
+    { "node": "shellwork", "sub": "貝殻細工", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "delicate shellwork", "ja": "繊細な貝殻細工" },
+    { "en": "a box with shellwork", "ja": "貝殻細工の箱" },
+    { "en": "decorative shellwork", "ja": "装飾的な貝殻細工" },
+    { "en": "handmade shellwork", "ja": "手作りの貝殻細工" },
+    { "en": "shellwork ornaments", "ja": "貝殻の飾り" },
+    { "en": "a frame of shellwork", "ja": "貝殻細工の額縁" }
+  ],
+  "related": [
+    { "en": "shell", "ja": "貝殻" },
+    { "en": "craft", "ja": "手工芸" },
+    { "en": "ornament", "ja": "装飾" },
+    { "en": "mosaic", "ja": "モザイク" }
+  ],
+  "faq": [
+    { "q": "shellwork とは？", "a": "貝殻を並べたり貼りつけたりして作る装飾・工芸品のことです。箱や額縁、置物などの飾りに使われます。" },
+    { "q": "-work はどんな意味ですか？", "a": "『細工・製品』を表す接尾辞で、needlework（針仕事）や metalwork（金属細工）などと同じ作りです。" }
+  ],
+  "quiz": [
+    { "q": "shellwork の意味は？", "A": "貝殻細工・貝で作った装飾", "B": "石の彫刻", "C": "木の家具", "D": "布の服", "correct": "A" },
+    { "q": "shellwork の -work が表すのは？", "A": "細工・製品", "B": "時間", "C": "場所", "D": "人数", "correct": "A" }
+  ]
+},
+{
+  "english": "shin",
+  "pron": "ʃɪn",
+  "kana": "シン",
+  "hinshi": "名詞・動詞",
+  "ld_pos": "名詞",
+  "ld_etym": "古英語 scinu（すね）から",
+  "ld_level": "準1級",
+  "badges": ["中学生〜", "英検準1級", "CEFR B1", "可算名詞"],
+  "meaning_main": "すね（膝から足首までの前面）",
+  "description": "shin（シン）は「すね」を表す名詞。膝から足首までの、足の前側の部分。意味・使い方・語源・例文・関連語をわかりやすく解説します。",
+  "keywords": ["shin 意味", "すね 英語", "shin 使い方", "shin 語源"],
+  "meanings": [
+    { "hinshi": "【名詞】すね", "note": "膝から足首までの、足の前面の部分。骨（すねの骨＝脛骨）が皮膚のすぐ下にある。可算名詞。" },
+    { "hinshi": "【動詞】(手足で)よじ登る", "note": "shin up（〜をよじ登る）の形で、木や柱をよじ登ることを表す。" }
+  ],
+  "usages": [
+    { "title": "① 体の部位として", "desc": "すねを指す。", "example_en": "I banged my shin on the table.", "example_ja": "私はテーブルにすねをぶつけた。" },
+    { "title": "② よじ登る動詞で", "desc": "shin up で。", "example_en": "The boy shinned up the tree.", "example_ja": "少年は木によじ登った。" }
+  ],
+  "warn": ["すねの骨（脛骨）は shinbone / tibia。すね当ては shin guard / shin pad。", "動詞 shin は up / down と共に『よじ登る・降りる』を表す。"],
+  "etym_note": "古英語 scinu（すね・薄い部分）に由来する。すねの骨が皮膚のすぐ下にある、薄い部分であることから。",
+  "etym_chain": [
+    { "node": "scinu", "sub": "すね", "era": "古英語" },
+    { "node": "shine", "sub": "すね", "era": "中英語" },
+    { "node": "shin", "sub": "すね", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "bang one's shin", "ja": "すねをぶつける" },
+    { "en": "shin guard", "ja": "すね当て" },
+    { "en": "kick in the shin", "ja": "すねを蹴る" },
+    { "en": "shin up a tree", "ja": "木によじ登る" },
+    { "en": "a bruised shin", "ja": "あざのできたすね" },
+    { "en": "protect the shins", "ja": "すねを守る" }
+  ],
+  "related": [
+    { "en": "shinbone", "ja": "すねの骨・脛骨" },
+    { "en": "knee", "ja": "膝" },
+    { "en": "ankle", "ja": "足首" },
+    { "en": "leg", "ja": "脚" }
+  ],
+  "faq": [
+    { "q": "shin と shinbone の違いは？", "a": "shin は『すね（膝から足首までの前面の部分）』、shinbone はその中の『骨（脛骨）』を指します。" },
+    { "q": "shin guard とは？", "a": "サッカーなどで、すねを守るために着ける『すね当て』のことです。" }
+  ],
+  "quiz": [
+    { "q": "shin の意味は？", "A": "すね", "B": "肩", "C": "ひじ", "D": "手首", "correct": "A" },
+    { "q": "shin guard とは？", "A": "すね当て", "B": "手袋", "C": "帽子", "D": "マスク", "correct": "A" }
+  ]
+},
+{
+  "english": "shinbone",
+  "pron": "ˈʃɪnboʊn",
+  "kana": "シンボーン",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "shin（すね）+ bone（骨）",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR B2", "可算名詞"],
+  "meaning_main": "すねの骨（脛骨・けいこつ）",
+  "description": "shinbone（シンボーン）は「すねの骨（脛骨）」を表す名詞。膝から足首までの前側にある大きな骨。意味・使い方・語源・例文・関連語をわかりやすく解説します。",
+  "keywords": ["shinbone 意味", "脛骨 英語", "shinbone 使い方", "shinbone 語源"],
+  "meanings": [
+    { "hinshi": "【名詞】すねの骨・脛骨", "note": "膝から足首までの、すねの前側にある太い骨。医学用語では tibia（脛骨）。可算名詞。" }
+  ],
+  "usages": [
+    { "title": "① 体の骨として", "desc": "骨の説明に。", "example_en": "The shinbone is the larger bone in the lower leg.", "example_ja": "脛骨は下腿の大きいほうの骨だ。" },
+    { "title": "② けが・骨折の話で", "desc": "医療の文脈で。", "example_en": "He fractured his shinbone playing soccer.", "example_ja": "彼はサッカーですねの骨を折った。" }
+  ],
+  "warn": ["医学用語では tibia（脛骨）。もう一方の細い骨は fibula（腓骨）。", "shin bone と2語でも書く。"],
+  "etym_note": "shin（すね）+ bone（骨）からなる語。すねの前面にある骨を表す。",
+  "etym_chain": [
+    { "node": "shin + bone", "sub": "すねの骨", "era": "近代英語" },
+    { "node": "shinbone", "sub": "すねの骨", "era": "近代英語" },
+    { "node": "shinbone", "sub": "脛骨", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "break one's shinbone", "ja": "すねの骨を折る" },
+    { "en": "the shinbone (tibia)", "ja": "脛骨" },
+    { "en": "a cracked shinbone", "ja": "ひびの入ったすねの骨" },
+    { "en": "along the shinbone", "ja": "すねの骨に沿って" },
+    { "en": "protect the shinbone", "ja": "すねの骨を守る" },
+    { "en": "the shinbone and calf", "ja": "すねの骨とふくらはぎ" }
+  ],
+  "related": [
+    { "en": "shin", "ja": "すね" },
+    { "en": "tibia", "ja": "脛骨（医学用語）" },
+    { "en": "fibula", "ja": "腓骨" },
+    { "en": "bone", "ja": "骨" }
+  ],
+  "faq": [
+    { "q": "shinbone の医学用語は？", "a": "tibia（脛骨）です。下腿にはもう一本、細い fibula（腓骨）もあります。" },
+    { "q": "shin と shinbone の違いは？", "a": "shin は『すね（部分）』、shinbone はその中の『骨』を指します。" }
+  ],
+  "quiz": [
+    { "q": "shinbone の意味は？", "A": "すねの骨（脛骨）", "B": "背骨", "C": "あばら骨", "D": "頭蓋骨", "correct": "A" },
+    { "q": "shinbone の医学用語は？", "A": "tibia（脛骨）", "B": "femur（大腿骨）", "C": "skull（頭蓋骨）", "D": "rib（肋骨）", "correct": "A" }
+  ]
+},
+{
+  "english": "shingle",
+  "pron": "ˈʃɪŋɡəl",
+  "kana": "シングル",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "ラテン語 scindula（屋根板）から",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "可算名詞"],
+  "meaning_main": "屋根板・こけら板／(英)砂利浜の小石",
+  "description": "shingle（シングル）は「屋根板（こけら板）」を表す名詞。屋根や壁に重ねて張る薄い板。イギリスでは砂利浜の小石も指す。意味・使い方・語源・例文・関連語をわかりやすく解説します。",
+  "keywords": ["shingle 意味", "屋根板 英語", "shingle 使い方", "shingle 語源"],
+  "meanings": [
+    { "hinshi": "【名詞】屋根板・こけら板", "note": "屋根や壁に少しずつ重ねて張る、薄く平たい板（木・アスファルトなど）。可算名詞。" },
+    { "hinshi": "【名詞】(英)砂利浜の小石", "note": "イギリス英語で、海岸の丸い小石やそれが敷きつめられた浜を指す（不可算）。" }
+  ],
+  "usages": [
+    { "title": "① 屋根材として", "desc": "建築の話題で。", "example_en": "The roof was covered with wooden shingles.", "example_ja": "屋根は木のこけら板で覆われていた。" },
+    { "title": "② 砂利浜として", "desc": "イギリスの海岸で。", "example_en": "We walked along the shingle beach.", "example_ja": "私たちは砂利の浜辺を歩いた。" }
+  ],
+  "warn": ["屋根板の意味と、イギリス英語の『砂利浜の小石』の意味がある。", "帯状疱疹（shingles）は複数形で別の意味（病名）になる。"],
+  "etym_note": "ラテン語 scindula / scandula（屋根板、scindere「割る」から）に由来する。薄く割った板を表した。砂利の意味は別系統とされる。",
+  "etym_chain": [
+    { "node": "scindula", "sub": "屋根板", "era": "ラテン語" },
+    { "node": "shingle", "sub": "こけら板", "era": "中英語" },
+    { "node": "shingle", "sub": "屋根板・砂利", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "wooden shingles", "ja": "木のこけら板" },
+    { "en": "asphalt shingles", "ja": "アスファルトの屋根板" },
+    { "en": "a shingle roof", "ja": "こけら板の屋根" },
+    { "en": "a shingle beach", "ja": "砂利の浜辺" },
+    { "en": "replace the shingles", "ja": "屋根板を張り替える" },
+    { "en": "walk on the shingle", "ja": "砂利浜を歩く" }
+  ],
+  "related": [
+    { "en": "roof", "ja": "屋根" },
+    { "en": "tile", "ja": "瓦・タイル" },
+    { "en": "pebble", "ja": "小石" },
+    { "en": "gravel", "ja": "砂利" }
+  ],
+  "faq": [
+    { "q": "shingle には二つの意味がありますか？", "a": "はい。『屋根や壁に張る薄い板（こけら板）』と、イギリス英語で『砂利浜の小石』の二つの意味があります。" },
+    { "q": "shingles（複数形）は別の意味ですか？", "a": "はい。shingles は病気の『帯状疱疹』を指す別の語です。" }
+  ],
+  "quiz": [
+    { "q": "shingle の意味に含まれるのは？", "A": "屋根板・砂利浜の小石", "B": "窓ガラス", "C": "煙突", "D": "階段", "correct": "A" },
+    { "q": "a shingle roof とは？", "A": "こけら板（薄い板）でふいた屋根", "B": "ガラス張りの屋根", "C": "草ぶきの屋根", "D": "金属一枚板の屋根", "correct": "A" }
+  ]
+},
+{
+  "english": "shipbuilding",
+  "pron": "ˈʃɪpbɪldɪŋ",
+  "kana": "シップビルディング",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "ship（船）+ building（建造）",
+  "ld_level": "準1級",
+  "badges": ["高校生〜", "英検準1級", "CEFR B2", "不可算名詞"],
+  "meaning_main": "造船・船の建造（業）",
+  "description": "shipbuilding（シップビルディング）は「造船・船の建造」を表す名詞。船を設計・建造する産業。意味・使い方・語源・例文・関連語をわかりやすく解説します。",
+  "keywords": ["shipbuilding 意味", "造船 英語", "shipbuilding 使い方", "shipbuilding 語源"],
+  "meanings": [
+    { "hinshi": "【名詞】造船・船の建造", "note": "船を設計し、造船所で組み立て・建造すること。またその産業。不可算名詞。" }
+  ],
+  "usages": [
+    { "title": "① 産業として", "desc": "造船業の話に。", "example_en": "Shipbuilding was once a major industry in this port town.", "example_ja": "造船はかつてこの港町の主要産業だった。" },
+    { "title": "② 技術・作業として", "desc": "船を造ることに。", "example_en": "Modern shipbuilding uses huge steel blocks.", "example_ja": "現代の造船は巨大な鋼のブロックを使う。" }
+  ],
+  "warn": ["ship（船）+ building（建造）からなる語。造船所は shipyard。", "日本・韓国・中国が主要な造船国。"],
+  "etym_note": "ship（船）+ building（建てること）からなる複合語。船を『建造すること』を表す。",
+  "etym_chain": [
+    { "node": "ship + building", "sub": "船の建造", "era": "近代英語" },
+    { "node": "shipbuilding", "sub": "造船", "era": "近代英語" },
+    { "node": "shipbuilding", "sub": "造船業", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "the shipbuilding industry", "ja": "造船業" },
+    { "en": "a shipbuilding company", "ja": "造船会社" },
+    { "en": "shipbuilding technology", "ja": "造船技術" },
+    { "en": "a center of shipbuilding", "ja": "造船の中心地" },
+    { "en": "modern shipbuilding", "ja": "現代の造船" },
+    { "en": "decline of shipbuilding", "ja": "造船業の衰退" }
+  ],
+  "related": [
+    { "en": "shipyard", "ja": "造船所" },
+    { "en": "vessel", "ja": "船・船舶" },
+    { "en": "dock", "ja": "ドック・波止場" },
+    { "en": "manufacturing", "ja": "製造業" }
+  ],
+  "faq": [
+    { "q": "造船所は英語で何と言いますか？", "a": "shipyard です。船を建造・修理する場所を指します。" },
+    { "q": "shipbuilding は数えられますか？", "a": "産業・活動全般を指す不可算名詞として使います。" }
+  ],
+  "quiz": [
+    { "q": "shipbuilding の意味は？", "A": "造船・船の建造", "B": "航海術", "C": "漁業", "D": "港の管理", "correct": "A" },
+    { "q": "造船所を表す語は？", "A": "shipyard", "B": "shipment", "C": "shipwreck", "D": "shipping", "correct": "A" }
+  ]
+},
+{
+  "english": "shipment",
+  "pron": "ˈʃɪpmənt",
+  "kana": "シップメント",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "ship（発送する）+ -ment",
+  "ld_level": "準1級",
+  "badges": ["高校生〜", "英検準1級", "CEFR B2", "可算・不可算"],
+  "meaning_main": "発送・出荷／積み荷・発送品",
+  "description": "shipment（シップメント）は「発送・出荷」を表す名詞、また「積み荷・発送された品」を表す。意味・使い方・語源・例文・関連語をわかりやすく解説します。",
+  "keywords": ["shipment 意味", "出荷 英語", "shipment 使い方", "shipment 語源"],
+  "meanings": [
+    { "hinshi": "【名詞】発送・出荷", "note": "商品を送り出すこと。船に限らず、トラック・飛行機などでの発送全般に使う。不可算的にも使う。" },
+    { "hinshi": "【名詞】積み荷・発送品", "note": "一度に発送される品物のまとまり。a shipment of goods（商品の一便）。可算名詞。" }
+  ],
+  "usages": [
+    { "title": "① 発送・出荷として", "desc": "送り出す行為に。", "example_en": "The shipment of the goods was delayed.", "example_ja": "商品の発送が遅れた。" },
+    { "title": "② 積み荷として", "desc": "送られた品に。", "example_en": "A new shipment of books arrived today.", "example_ja": "本の新しい一便が今日届いた。" }
+  ],
+  "warn": ["動詞 ship は『(船に限らず)発送する』。船だけでなく陸・空の輸送にも使う。", "cargo（貨物）は輸送中の積み荷全般、shipment は『一回の発送分』に重点。"],
+  "etym_note": "動詞 ship（船に積む・発送する）に -ment が付いた語。もとは船での輸送を指したが、現在はあらゆる輸送手段の発送に使う。",
+  "etym_chain": [
+    { "node": "ship", "sub": "船・発送する", "era": "中英語" },
+    { "node": "shipment", "sub": "発送・積み荷", "era": "近代英語" },
+    { "node": "shipment", "sub": "発送・出荷", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "a shipment of goods", "ja": "商品の一便" },
+    { "en": "delay the shipment", "ja": "発送を遅らせる" },
+    { "en": "track a shipment", "ja": "荷物を追跡する" },
+    { "en": "a new shipment", "ja": "新しい入荷分" },
+    { "en": "ready for shipment", "ja": "発送準備完了" },
+    { "en": "the latest shipment", "ja": "最新の入荷" }
+  ],
+  "related": [
+    { "en": "ship", "ja": "発送する・船" },
+    { "en": "cargo", "ja": "貨物・積み荷" },
+    { "en": "delivery", "ja": "配達" },
+    { "en": "freight", "ja": "貨物・運送" }
+  ],
+  "faq": [
+    { "q": "shipment は船だけに使いますか？", "a": "いいえ。もとは船の輸送でしたが、今はトラック・飛行機など、あらゆる輸送手段での『発送・出荷』に使います。" },
+    { "q": "cargo との違いは？", "a": "cargo は輸送中の『積み荷（貨物）』全般、shipment は『一回に発送される品や、発送そのもの』に重点があります。" }
+  ],
+  "quiz": [
+    { "q": "shipment の意味に含まれるのは？", "A": "発送・出荷・積み荷", "B": "返品の禁止", "C": "工場の閉鎖", "D": "休暇", "correct": "A" },
+    { "q": "shipment は船だけに使う？", "A": "いいえ、あらゆる輸送手段に使う", "B": "はい、船だけ", "C": "飛行機だけ", "D": "鉄道だけ", "correct": "A" }
+  ]
+},
+{
+  "english": "shogunate",
+  "pron": "ˈʃoʊɡəneɪt",
+  "kana": "ショーグネート",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "shogun（将軍）+ -ate（地位・政府）",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "歴史用語"],
+  "meaning_main": "幕府（将軍による武家政権）",
+  "description": "shogunate（ショーグネート）は「幕府」を表す歴史用語。将軍（shogun）が率いた日本の武家政権。意味・由来・使い方・例文・関連語をわかりやすく解説します。",
+  "keywords": ["shogunate 意味", "幕府 英語", "shogunate 使い方", "shogunate 語源"],
+  "meanings": [
+    { "hinshi": "【名詞】幕府・将軍による政権", "note": "将軍（shogun）を頂点とする、日本の武家政権。鎌倉幕府・室町幕府・江戸幕府などがある。the Tokugawa shogunate（徳川幕府）。" }
+  ],
+  "usages": [
+    { "title": "① 日本史の話題で", "desc": "武家政権として。", "example_en": "The Tokugawa shogunate ruled Japan for over 250 years.", "example_ja": "徳川幕府は250年以上にわたり日本を治めた。" },
+    { "title": "② 制度の説明で", "desc": "統治の仕組みに。", "example_en": "Under the shogunate, real power lay with the shogun, not the emperor.", "example_ja": "幕府の下では、実権は天皇ではなく将軍にあった。" }
+  ],
+  "warn": ["shogun（将軍）+ -ate（地位・政府を表す語尾）からなる語。", "英語では bakufu（幕府）という日本語も使われることがある。"],
+  "etym_note": "日本語『将軍』のローマ字 shogun に、地位・統治機構を表す英語の接尾辞 -ate（caliphate カリフ制、などと同じ）が付いた語。『将軍による政権＝幕府』を表す。",
+  "etym_chain": [
+    { "node": "将軍", "sub": "軍の総大将", "era": "日本" },
+    { "node": "shogun", "sub": "ローマ字表記", "era": "近代" },
+    { "node": "shogunate", "sub": "幕府", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "the Tokugawa shogunate", "ja": "徳川幕府" },
+    { "en": "the Kamakura shogunate", "ja": "鎌倉幕府" },
+    { "en": "the fall of the shogunate", "ja": "幕府の滅亡" },
+    { "en": "under the shogunate", "ja": "幕府のもとで" },
+    { "en": "establish a shogunate", "ja": "幕府を開く" },
+    { "en": "the shogunate collapsed", "ja": "幕府が倒れた" }
+  ],
+  "related": [
+    { "en": "shogun", "ja": "将軍" },
+    { "en": "samurai", "ja": "侍・武士" },
+    { "en": "emperor", "ja": "天皇" },
+    { "en": "feudal", "ja": "封建的な" }
+  ],
+  "faq": [
+    { "q": "shogunate とは？", "a": "将軍（shogun）を頂点とする、日本の武家政権『幕府』のことです。鎌倉・室町・江戸の幕府があります。" },
+    { "q": "-ate はどんな意味ですか？", "a": "『地位・統治機構』を表す接尾辞で、caliphate（カリフ制）などと同じ作りです。" }
+  ],
+  "quiz": [
+    { "q": "shogunate の意味は？", "A": "幕府（将軍による武家政権）", "B": "天皇の宮殿", "C": "商人の組合", "D": "寺の名前", "correct": "A" },
+    { "q": "the Tokugawa shogunate とは？", "A": "徳川幕府", "B": "鎌倉幕府", "C": "室町幕府", "D": "平安朝廷", "correct": "A" }
+  ]
+},
+{
+  "english": "shooting",
+  "pron": "ˈʃuːtɪŋ",
+  "kana": "シューティング",
+  "hinshi": "名詞・動詞",
+  "ld_pos": "名詞",
+  "ld_etym": "shoot（撃つ・撮影する）の動名詞から",
+  "ld_level": "準1級",
+  "badges": ["中学生〜", "英検準1級", "CEFR B1", "可算・不可算"],
+  "meaning_main": "発砲・射撃／(映画の)撮影",
+  "description": "shooting（シューティング）は「発砲・銃撃事件・射撃」を表す名詞、また「(映画などの)撮影」を表す。意味・使い方・語源・例文・関連語をわかりやすく解説します。",
+  "keywords": ["shooting 意味", "shooting 使い方", "射撃 英語", "shooting 語源"],
+  "meanings": [
+    { "hinshi": "【名詞】発砲・銃撃（事件）", "note": "銃を撃つこと。銃で人を撃つ事件も指す。a shooting（銃撃事件）。" },
+    { "hinshi": "【名詞】射撃（競技）", "note": "的を撃つスポーツ。" },
+    { "hinshi": "【名詞】(映画・写真の)撮影", "note": "映像や写真を撮ること。a film shooting（映画の撮影）。" }
+  ],
+  "usages": [
+    { "title": "① 銃撃・射撃として", "desc": "発砲の意味で。", "example_en": "There was a shooting downtown last night.", "example_ja": "昨夜、繁華街で銃撃事件があった。" },
+    { "title": "② 撮影として", "desc": "映画の撮影に。", "example_en": "The shooting of the movie took three months.", "example_ja": "その映画の撮影には3か月かかった。" }
+  ],
+  "warn": ["a shooting star は『流れ星』。", "動詞 shoot は『撃つ・撮影する・シュートする』など多義。過去形は shot。"],
+  "etym_note": "動詞 shoot（撃つ・射る・撮影する）の動名詞。shoot は古英語 scēotan（射る）に由来する。カメラで『撮る』意味は『(映像を)射る』イメージから。",
+  "etym_chain": [
+    { "node": "scēotan", "sub": "射る", "era": "古英語" },
+    { "node": "shoot", "sub": "撃つ・撮影する", "era": "中英語" },
+    { "node": "shooting", "sub": "発砲・撮影", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "a shooting star", "ja": "流れ星" },
+    { "en": "a mass shooting", "ja": "銃乱射事件" },
+    { "en": "target shooting", "ja": "的当て射撃" },
+    { "en": "a film shooting", "ja": "映画の撮影" },
+    { "en": "a photo shooting", "ja": "写真撮影" },
+    { "en": "on location shooting", "ja": "ロケ撮影" }
+  ],
+  "related": [
+    { "en": "shoot", "ja": "撃つ・撮影する" },
+    { "en": "gun", "ja": "銃" },
+    { "en": "filming", "ja": "撮影" },
+    { "en": "marksmanship", "ja": "射撃の腕前" }
+  ],
+  "faq": [
+    { "q": "a shooting star とは？", "a": "夜空を一瞬横切って光る『流れ星』のことです。実際には星ではなく、大気中で燃える小さな流星です。" },
+    { "q": "撮影の意味もありますか？", "a": "はい。映画・写真の『撮影』も shooting といいます（a film shooting など）。" }
+  ],
+  "quiz": [
+    { "q": "shooting の意味に含まれるのは？", "A": "発砲・射撃・撮影", "B": "料理・掃除", "C": "睡眠・休息", "D": "読書・勉強", "correct": "A" },
+    { "q": "a shooting star の意味は？", "A": "流れ星", "B": "有名なスター", "C": "北極星", "D": "太陽", "correct": "A" }
+  ]
+},
+{
+  "english": "shopkeeper",
+  "pron": "ˈʃɒpkiːpər",
+  "kana": "ショップキーパー",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "shop（店）+ keeper（管理する人）",
+  "ld_level": "3級",
+  "badges": ["中学生〜", "英検3級", "CEFR A2", "可算名詞"],
+  "meaning_main": "店主・小売店の経営者",
+  "description": "shopkeeper（ショップキーパー）は「店主・小売店の経営者」を表す名詞。小さな店を営む人。意味・使い方・語源・例文・関連語をわかりやすく解説します。",
+  "keywords": ["shopkeeper 意味", "店主 英語", "shopkeeper 使い方", "shopkeeper 語源"],
+  "meanings": [
+    { "hinshi": "【名詞】店主・小売店の経営者", "note": "小売店を所有・経営する人。特に個人経営の小さな店の主人。可算名詞。主にイギリス英語。" }
+  ],
+  "usages": [
+    { "title": "① 店の主人として", "desc": "小売店の経営者に。", "example_en": "The shopkeeper greeted every customer with a smile.", "example_ja": "その店主はどの客も笑顔で迎えた。" },
+    { "title": "② 地域の店で", "desc": "個人商店に。", "example_en": "Local shopkeepers know their customers well.", "example_ja": "地元の店主は客のことをよく知っている。" }
+  ],
+  "warn": ["アメリカ英語では storekeeper ともいう。", "従業員としての店員は shop assistant / clerk。shopkeeper は『経営する人』。"],
+  "etym_note": "shop（店）+ keeper（保つ人・管理する人、keep「保つ」から）からなる語。『店を切り盛りする人＝店主』を表す。",
+  "etym_chain": [
+    { "node": "shop + keeper", "sub": "店を管理する人", "era": "近代英語" },
+    { "node": "shopkeeper", "sub": "店主", "era": "近代英語" },
+    { "node": "shopkeeper", "sub": "小売店の経営者", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "a local shopkeeper", "ja": "地元の店主" },
+    { "en": "a friendly shopkeeper", "ja": "感じのよい店主" },
+    { "en": "the shopkeeper's daughter", "ja": "店主の娘" },
+    { "en": "small shopkeepers", "ja": "小さな店の店主たち" },
+    { "en": "become a shopkeeper", "ja": "店主になる" },
+    { "en": "the corner shopkeeper", "ja": "街角の店主" }
+  ],
+  "related": [
+    { "en": "storekeeper", "ja": "店主（米）" },
+    { "en": "shop assistant", "ja": "店員" },
+    { "en": "merchant", "ja": "商人" },
+    { "en": "retailer", "ja": "小売業者" }
+  ],
+  "faq": [
+    { "q": "shopkeeper と shop assistant の違いは？", "a": "shopkeeper は『店を経営する人（店主）』、shop assistant は『店で働く店員』です。" },
+    { "q": "アメリカ英語では？", "a": "storekeeper（店主）ともいいます。" }
+  ],
+  "quiz": [
+    { "q": "shopkeeper の意味は？", "A": "店主・小売店の経営者", "B": "配達員", "C": "警備員", "D": "運転手", "correct": "A" },
+    { "q": "shopkeeper のアメリカ英語での言い方は？", "A": "storekeeper", "B": "gatekeeper", "C": "housekeeper", "D": "goalkeeper", "correct": "A" }
+  ]
+},
+{
+  "english": "shoplifting",
+  "pron": "ˈʃɒplɪftɪŋ",
+  "kana": "ショップリフティング",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "shop（店）+ lift（盗む）+ -ing",
+  "ld_level": "準1級",
+  "badges": ["高校生〜", "英検準1級", "CEFR B2", "不可算名詞"],
+  "meaning_main": "万引き",
+  "description": "shoplifting（ショップリフティング）は「万引き」を表す名詞。店の商品を代金を払わずにこっそり盗むこと。意味・使い方・語源・例文・関連語をわかりやすく解説します。",
+  "keywords": ["shoplifting 意味", "万引き 英語", "shoplifting 使い方", "shoplifting 語源"],
+  "meanings": [
+    { "hinshi": "【名詞】万引き", "note": "店で売っている商品を、代金を払わずにこっそり持ち去る盗み。不可算名詞。れっきとした犯罪。" }
+  ],
+  "usages": [
+    { "title": "① 犯罪として", "desc": "万引きの話題に。", "example_en": "Shoplifting is a crime, even for small items.", "example_ja": "万引きは、小さな品でも犯罪だ。" },
+    { "title": "② 防止の話題で", "desc": "店の対策に。", "example_en": "The store installed cameras to prevent shoplifting.", "example_ja": "その店は万引き防止のためカメラを設置した。" }
+  ],
+  "warn": ["万引きする人は shoplifter。動詞は shoplift。", "lift には口語で『盗む』の意味があり、shop lift で『店から盗む』。"],
+  "etym_note": "shop（店）+ lift（口語で『盗む・くすねる』）+ -ing からなる語。『店から品物をくすねること』を表す。",
+  "etym_chain": [
+    { "node": "shop + lift", "sub": "店からくすねる", "era": "近代英語" },
+    { "node": "shoplifting", "sub": "万引き", "era": "近代英語" },
+    { "node": "shoplifting", "sub": "万引き", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "commit shoplifting", "ja": "万引きをする" },
+    { "en": "prevent shoplifting", "ja": "万引きを防ぐ" },
+    { "en": "caught shoplifting", "ja": "万引きで捕まる" },
+    { "en": "shoplifting is a crime", "ja": "万引きは犯罪だ" },
+    { "en": "arrested for shoplifting", "ja": "万引きで逮捕される" },
+    { "en": "shoplifting losses", "ja": "万引きによる損失" }
+  ],
+  "related": [
+    { "en": "shoplifter", "ja": "万引き犯" },
+    { "en": "shoplift", "ja": "万引きする" },
+    { "en": "theft", "ja": "窃盗" },
+    { "en": "steal", "ja": "盗む" }
+  ],
+  "faq": [
+    { "q": "万引きする人は英語で？", "a": "shoplifter（万引き犯）です。動詞は shoplift（万引きする）です。" },
+    { "q": "shoplifting と theft の違いは？", "a": "theft は『窃盗』全般、shoplifting はその中でも特に『店の商品をこっそり盗む万引き』を指します。" }
+  ],
+  "quiz": [
+    { "q": "shoplifting の意味は？", "A": "万引き", "B": "配達", "C": "値引き", "D": "陳列", "correct": "A" },
+    { "q": "万引きする人を表す語は？", "A": "shoplifter", "B": "shopkeeper", "C": "shopper", "D": "shop assistant", "correct": "A" }
+  ]
+},
+{
+  "english": "shoppingbag",
+  "pron": "ˈʃɒpɪŋ bæɡ",
+  "kana": "ショッピングバッグ",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "shopping（買い物）+ bag（袋）",
+  "ld_level": "3級",
+  "badges": ["小学生〜", "英検3級", "CEFR A1", "2語の綴り注意"],
+  "meaning_main": "買い物袋（正しくは shopping bag と2語）",
+  "description": "shoppingbag（ショッピングバッグ）は、正しくは shopping bag と2語で書く「買い物袋」。買った物を入れて持ち帰る袋。意味・正しい綴り・使い方・例文・関連語をわかりやすく解説します。",
+  "keywords": ["shoppingbag 意味", "shopping bag 英語", "買い物袋 英語", "shoppingbag 綴り"],
+  "meanings": [
+    { "hinshi": "【名詞】買い物袋", "note": "買った商品を入れて持ち帰るための袋。紙・布・ビニール製など。英語では shopping bag と2語で書く。可算名詞。" }
+  ],
+  "usages": [
+    { "title": "① 買い物のときに", "desc": "商品を入れる袋に。", "example_en": "She carried two shopping bags full of groceries.", "example_ja": "彼女は食料品でいっぱいの買い物袋を2つ持っていた。" },
+    { "title": "② エコバッグとして", "desc": "繰り返し使う袋に。", "example_en": "Bring your own shopping bag to reduce plastic waste.", "example_ja": "プラごみを減らすため、買い物袋は持参しよう。" }
+  ],
+  "warn": ["英語では shopping bag と2語で書く。1語の shoppingbag は避けるのが無難。", "繰り返し使える『エコバッグ』は reusable bag / reusable shopping bag。"],
+  "etym_note": "shopping（買い物）+ bag（袋）からなる語。買い物で使う袋を表す。英語では2語で書くのが標準。",
+  "etym_chain": [
+    { "node": "shopping + bag", "sub": "買い物の袋", "era": "近代英語" },
+    { "node": "shopping bag", "sub": "買い物袋", "era": "近代英語" },
+    { "node": "shopping bag", "sub": "買い物袋", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "a shopping bag", "ja": "買い物袋" },
+    { "en": "a paper shopping bag", "ja": "紙の買い物袋" },
+    { "en": "a reusable shopping bag", "ja": "繰り返し使える買い物袋" },
+    { "en": "fill the shopping bag", "ja": "買い物袋を満たす" },
+    { "en": "carry a shopping bag", "ja": "買い物袋を持つ" },
+    { "en": "bring your own bag", "ja": "自分の袋を持参する" }
+  ],
+  "related": [
+    { "en": "bag", "ja": "袋・かばん" },
+    { "en": "shopping", "ja": "買い物" },
+    { "en": "reusable bag", "ja": "エコバッグ" },
+    { "en": "tote bag", "ja": "トートバッグ" }
+  ],
+  "faq": [
+    { "q": "shoppingbag は正しい綴りですか？", "a": "英語では shopping bag と2語で書くのが標準です。1語の shoppingbag は避けたほうがよいでしょう。" },
+    { "q": "エコバッグは英語で？", "a": "reusable (shopping) bag や tote bag といいます。『エコバッグ』は和製英語です。" }
+  ],
+  "quiz": [
+    { "q": "shopping bag の意味は？", "A": "買い物袋", "B": "寝袋", "C": "ゴミ袋のみ", "D": "旅行かばん", "correct": "A" },
+    { "q": "英語での正しい書き方は？", "A": "shopping bag（2語）", "B": "shoppingbag（1語のみ正しい）", "C": "shopping-bags のみ", "D": "shopbag", "correct": "A" }
+  ]
+},
+{
+  "english": "shorthanded",
+  "pron": "ˌʃɔːrtˈhændɪd",
+  "kana": "ショートハンデッド",
+  "hinshi": "形容詞",
+  "ld_pos": "形容詞",
+  "ld_etym": "short（不足した）+ handed（人手の）",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR B2", "形容詞"],
+  "meaning_main": "人手不足の・手が足りない",
+  "description": "shorthanded（ショートハンデッド）は「人手不足の・手が足りない」を表す形容詞。働き手が足りない状態。意味・使い方・語源・例文・関連語をわかりやすく解説します。",
+  "keywords": ["shorthanded 意味", "人手不足 英語", "shorthanded 使い方", "shorthanded 語源"],
+  "meanings": [
+    { "hinshi": "【形容詞】人手不足の・手が足りない", "note": "必要な働き手・人員が足りない状態。short-handed とハイフン付きでも書く。" }
+  ],
+  "usages": [
+    { "title": "① 職場の人手不足に", "desc": "人員が足りない状態に。", "example_en": "We were shorthanded during the busy season.", "example_ja": "繁忙期に私たちは人手不足だった。" },
+    { "title": "② 一時的な不足に", "desc": "欠員の状況に。", "example_en": "The restaurant is shorthanded tonight.", "example_ja": "そのレストランは今夜、手が足りない。" }
+  ],
+  "warn": ["short-handed とハイフン付きでも書く。understaffed（人員不足の）とほぼ同義。", "アイスホッケーでは『(反則で)一人少ない状態』も指す。"],
+  "etym_note": "short（不足した）+ handed（『手（＝働き手）』を持つ状態を表す -handed）からなる語。『働き手が足りない』を表す。hand には『働き手・人手』の意味がある。",
+  "etym_chain": [
+    { "node": "hand", "sub": "手・働き手", "era": "古英語" },
+    { "node": "short-handed", "sub": "人手が足りない", "era": "近代英語" },
+    { "node": "shorthanded", "sub": "人手不足の", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "be shorthanded", "ja": "人手不足である" },
+    { "en": "shorthanded during the holidays", "ja": "休暇中で人手が足りない" },
+    { "en": "seriously shorthanded", "ja": "深刻な人手不足で" },
+    { "en": "a shorthanded team", "ja": "人手の足りないチーム" },
+    { "en": "left shorthanded", "ja": "手が足りない状態にされて" },
+    { "en": "shorthanded staff", "ja": "手薄な人員" }
+  ],
+  "related": [
+    { "en": "understaffed", "ja": "人員不足の" },
+    { "en": "hand", "ja": "手・働き手" },
+    { "en": "shortage", "ja": "不足" },
+    { "en": "overstaffed", "ja": "人員過剰の" }
+  ],
+  "faq": [
+    { "q": "shorthanded と understaffed の違いは？", "a": "ほぼ同義で『人手不足の』を表します。understaffed はやや正式、shorthanded は日常的な言い方です。" },
+    { "q": "hand が『人手』を表すのですか？", "a": "はい。hand には『働き手・人手』の意味があり、shorthanded は『手（働き手）が足りない』を表します。" }
+  ],
+  "quiz": [
+    { "q": "shorthanded の意味は？", "A": "人手不足の・手が足りない", "B": "人が多すぎる", "C": "手が大きい", "D": "背が低い", "correct": "A" },
+    { "q": "shorthanded とほぼ同義の語は？", "A": "understaffed（人員不足の）", "B": "overpaid（もらいすぎの）", "C": "left-handed（左利きの）", "D": "empty-handed（手ぶらの）", "correct": "A" }
+  ]
+},
+{
+  "english": "shorts",
+  "pron": "ʃɔːrts",
+  "kana": "ショーツ",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "short（短い）の複数形から",
+  "ld_level": "3級",
+  "badges": ["小学生〜", "英検3級", "CEFR A1", "複数扱い"],
+  "meaning_main": "半ズボン・ショートパンツ／(米)男性用下着",
+  "description": "shorts（ショーツ）は「半ズボン・ショートパンツ」を表す名詞。ふつう複数形で使う。アメリカでは男性用の下着も指す。意味・使い方・語源・例文・関連語をわかりやすく解説します。",
+  "keywords": ["shorts 意味", "半ズボン 英語", "shorts 使い方", "shorts 語源"],
+  "meanings": [
+    { "hinshi": "【名詞】半ズボン・ショートパンツ", "note": "膝より上や膝丈の短いズボン。ふつう複数形 shorts。a pair of shorts（半ズボン1着）と数える。" },
+    { "hinshi": "【名詞】(米)男性用の下着", "note": "アメリカ英語で、男性用のパンツ（下着）を指すこともある（boxer shorts など）。" }
+  ],
+  "usages": [
+    { "title": "① 半ズボンとして", "desc": "夏の服・運動着に。", "example_en": "He wore shorts and a T-shirt in the summer heat.", "example_ja": "彼は夏の暑さの中、半ズボンとTシャツを着ていた。" },
+    { "title": "② スポーツで", "desc": "運動着として。", "example_en": "The players changed into their running shorts.", "example_ja": "選手たちはランニング用の短パンに着替えた。" }
+  ],
+  "warn": ["ズボン類なので複数扱い。1着は a pair of shorts。", "日本語で女性用下着を『ショーツ』と呼ぶが、英語の shorts は主に半ズボン。下着は underwear / panties。"],
+  "etym_note": "形容詞 short（短い）が名詞化し、複数形 shorts で『短いズボン』を表すようになった。short は古英語 sceort（短い）に由来する。",
+  "etym_chain": [
+    { "node": "sceort", "sub": "短い", "era": "古英語" },
+    { "node": "short", "sub": "短い", "era": "中英語" },
+    { "node": "shorts", "sub": "半ズボン", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "a pair of shorts", "ja": "半ズボン1着" },
+    { "en": "running shorts", "ja": "ランニング用短パン" },
+    { "en": "swimming shorts", "ja": "海水パンツ" },
+    { "en": "wear shorts", "ja": "半ズボンをはく" },
+    { "en": "denim shorts", "ja": "デニムの短パン" },
+    { "en": "boxer shorts", "ja": "トランクス（下着）" }
+  ],
+  "related": [
+    { "en": "short", "ja": "短い" },
+    { "en": "pants", "ja": "ズボン（米）" },
+    { "en": "trousers", "ja": "ズボン（英）" },
+    { "en": "underwear", "ja": "下着" }
+  ],
+  "faq": [
+    { "q": "shorts の数え方は？", "a": "ズボン類なので複数扱いで、1着は a pair of shorts と数えます。" },
+    { "q": "日本語の『ショーツ（下着）』と同じですか？", "a": "違います。英語の shorts は主に『半ズボン』です。女性用下着は panties、下着全般は underwear といいます。" }
+  ],
+  "quiz": [
+    { "q": "shorts の主な意味は？", "A": "半ズボン・ショートパンツ", "B": "長ズボン", "C": "コート", "D": "帽子", "correct": "A" },
+    { "q": "shorts の数え方は？", "A": "a pair of shorts", "B": "a short", "C": "one shorts", "D": "much shorts", "correct": "A" }
+  ]
+},
+{
+  "english": "shortsighted",
+  "pron": "ˌʃɔːrtˈsaɪtɪd",
+  "kana": "ショートサイテッド",
+  "hinshi": "形容詞",
+  "ld_pos": "形容詞",
+  "ld_etym": "short（短い）+ sighted（視力の）",
+  "ld_level": "準1級",
+  "badges": ["高校生〜", "英検準1級", "CEFR B2", "形容詞"],
+  "meaning_main": "近視の／先見の明のない・近視眼的な",
+  "description": "shortsighted（ショートサイテッド）は「近視の」を表す形容詞、また「先見の明のない・近視眼的な」の意味でも使う。意味・使い方・語源・例文・関連語をわかりやすく解説します。",
+  "keywords": ["shortsighted 意味", "近視 英語", "shortsighted 使い方", "shortsighted 語源"],
+  "meanings": [
+    { "hinshi": "【形容詞】近視の", "note": "近くはよく見えるが、遠くがぼやけて見える状態（主にイギリス英語）。アメリカでは nearsighted。" },
+    { "hinshi": "【形容詞】先見の明のない・近視眼的な", "note": "目先のことしか考えず、将来を見通せないさま。a shortsighted policy（近視眼的な政策）。" }
+  ],
+  "usages": [
+    { "title": "① 視力について", "desc": "近視の意味で。", "example_en": "She is shortsighted and wears glasses.", "example_ja": "彼女は近視で眼鏡をかけている。" },
+    { "title": "② 考え方について", "desc": "近視眼的な意味で。", "example_en": "Cutting the budget was a shortsighted decision.", "example_ja": "予算を削ったのは近視眼的な決断だった。" }
+  ],
+  "warn": ["short-sighted とハイフン付きでも書く。近視はイギリスで shortsighted、アメリカで nearsighted。", "反対の意味（先を見通す）は farsighted（先見の明のある／遠視の）。"],
+  "etym_note": "short（短い）+ sighted（『視力・見通し』を持つ状態を表す）からなる語。『見える範囲が短い＝近視の・先を見通せない』を表す。",
+  "etym_chain": [
+    { "node": "short + sight", "sub": "短い視界", "era": "近代英語" },
+    { "node": "short-sighted", "sub": "近視の", "era": "近代英語" },
+    { "node": "shortsighted", "sub": "近視の・近視眼的な", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "a shortsighted policy", "ja": "近視眼的な政策" },
+    { "en": "a shortsighted decision", "ja": "先を見ない決断" },
+    { "en": "become shortsighted", "ja": "近視になる" },
+    { "en": "shortsighted thinking", "ja": "近視眼的な考え" },
+    { "en": "shortsighted and reckless", "ja": "近視眼的で無謀な" },
+    { "en": "a shortsighted approach", "ja": "目先だけの取り組み" }
+  ],
+  "related": [
+    { "en": "nearsighted", "ja": "近視の（米）" },
+    { "en": "farsighted", "ja": "先見の明のある・遠視の" },
+    { "en": "myopic", "ja": "近視の・近視眼的な" },
+    { "en": "sight", "ja": "視力・視界" }
+  ],
+  "faq": [
+    { "q": "shortsighted と nearsighted の違いは？", "a": "どちらも『近視の』ですが、shortsighted は主にイギリス英語、nearsighted は主にアメリカ英語です。" },
+    { "q": "比喩の反対語は？", "a": "farsighted（先見の明のある）です。目先だけでなく将来を見通せることを表します。" }
+  ],
+  "quiz": [
+    { "q": "shortsighted の意味に含まれるのは？", "A": "近視の・近視眼的な", "B": "遠くがよく見える", "C": "とても賢明な", "D": "背が高い", "correct": "A" },
+    { "q": "shortsighted（近視眼的）の反対語は？", "A": "farsighted（先見の明のある）", "B": "left-handed", "C": "colorblind", "D": "shorthanded", "correct": "A" }
+  ]
+},
+{
+  "english": "showboat",
+  "pron": "ˈʃoʊboʊt",
+  "kana": "ショーボート",
+  "hinshi": "名詞・動詞",
+  "ld_pos": "名詞",
+  "ld_etym": "show（見せる）+ boat（船）",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "可算・動詞"],
+  "meaning_main": "(昔の)川の芝居船／目立ちたがり・派手にふるまう",
+  "description": "showboat（ショーボート）は「(昔アメリカの川を巡った)芝居船」を表す名詞、また「目立とうと派手にふるまう(人)」を表す語。意味・使い方・語源・例文・関連語をわかりやすく解説します。",
+  "keywords": ["showboat 意味", "showboat 使い方", "目立ちたがり 英語", "showboat 語源"],
+  "meanings": [
+    { "hinshi": "【名詞】芝居船", "note": "19〜20世紀のアメリカで、川を下りながら劇や見世物を上演した船。" },
+    { "hinshi": "【動詞・名詞】目立とうと派手にふるまう(人)", "note": "口語で、注目を集めようとこれ見よがしにふるまうこと・その人。しばしば否定的。" }
+  ],
+  "usages": [
+    { "title": "① 芝居船として", "desc": "歴史・娯楽の話に。", "example_en": "The showboat brought entertainment to river towns.", "example_ja": "芝居船は川沿いの町に娯楽を届けた。" },
+    { "title": "② 派手にふるまう意味で", "desc": "目立ちたがりに。", "example_en": "The player likes to showboat after scoring.", "example_ja": "その選手は得点した後に派手にふるまうのが好きだ。" }
+  ],
+  "warn": ["『目立とうと派手にふるまう』の意味はしばしば否定的（うぬぼれ・これ見よがし）。", "show（見せる）+ boat（船）からなる語。"],
+  "etym_note": "show（見せる・ショー）+ boat（船）からなる語。もとはアメリカの川で劇を上演した『芝居船』を指し、そこから『これ見よがしに見せびらかす』の意味が生まれた。",
+  "etym_chain": [
+    { "node": "show + boat", "sub": "見世物の船", "era": "19世紀" },
+    { "node": "showboat", "sub": "芝居船", "era": "19世紀" },
+    { "node": "showboat", "sub": "派手にふるまう", "era": "20世紀" }
+  ],
+  "phrases": [
+    { "en": "a Mississippi showboat", "ja": "ミシシッピ川の芝居船" },
+    { "en": "stop showboating", "ja": "目立とうとするのをやめる" },
+    { "en": "a real showboat", "ja": "とんだ目立ちたがり" },
+    { "en": "showboat for the crowd", "ja": "観客に向けて派手にふるまう" },
+    { "en": "showboating antics", "ja": "これ見よがしのふるまい" },
+    { "en": "love to showboat", "ja": "見せびらかすのが好き" }
+  ],
+  "related": [
+    { "en": "show off", "ja": "見せびらかす" },
+    { "en": "boast", "ja": "自慢する" },
+    { "en": "grandstand", "ja": "受けを狙って派手にやる" },
+    { "en": "flaunt", "ja": "見せびらかす" }
+  ],
+  "faq": [
+    { "q": "showboat の元の意味は？", "a": "19〜20世紀のアメリカで、川を巡って劇や見世物を上演した『芝居船』のことです。" },
+    { "q": "『目立ちたがり』の意味は良い意味ですか？", "a": "多くは否定的で、『これ見よがしに見せびらかす・受けを狙って派手にふるまう』というニュアンスです。" }
+  ],
+  "quiz": [
+    { "q": "showboat の意味に含まれるのは？", "A": "芝居船／目立とうと派手にふるまう", "B": "静かに隠れる", "C": "きれいに掃除する", "D": "正確に測る", "correct": "A" },
+    { "q": "動詞の showboat とほぼ同義の語は？", "A": "show off（見せびらかす）", "B": "give up（あきらめる）", "C": "sit down（座る）", "D": "wake up（起きる）", "correct": "A" }
+  ]
+},
+{
+  "english": "showcase",
+  "pron": "ˈʃoʊkeɪs",
+  "kana": "ショーケース",
+  "hinshi": "名詞・動詞",
+  "ld_pos": "名詞",
+  "ld_etym": "show（見せる）+ case（箱・ケース）",
+  "ld_level": "準1級",
+  "badges": ["高校生〜", "英検準1級", "CEFR B2", "可算・他動詞"],
+  "meaning_main": "陳列ケース／(才能・魅力を)披露する場・引き立てる",
+  "description": "showcase（ショーケース）は「陳列ケース」を表す名詞、また「(才能・よさを)披露する・引き立てる」を表す動詞。意味・使い方・語源・例文・関連語をわかりやすく解説します。",
+  "keywords": ["showcase 意味", "ショーケース 英語", "showcase 使い方", "showcase 語源"],
+  "meanings": [
+    { "hinshi": "【名詞】陳列ケース", "note": "商品や展示品をガラス越しに見せるための箱・棚。可算名詞。" },
+    { "hinshi": "【名詞】(魅力を見せる)場・見本", "note": "才能・製品などを見せるよい機会・舞台。a showcase for young talent（若い才能の見せ場）。" },
+    { "hinshi": "【動詞】披露する・引き立てて見せる", "note": "才能・特長などを、よく見えるように見せること。他動詞。" }
+  ],
+  "usages": [
+    { "title": "① 陳列ケースとして", "desc": "展示の箱に。", "example_en": "The jewelry was displayed in a glass showcase.", "example_ja": "その宝飾品はガラスの陳列ケースに展示されていた。" },
+    { "title": "② 披露する動詞で", "desc": "才能を見せる意味で。", "example_en": "The event showcases local artists.", "example_ja": "そのイベントは地元の芸術家を披露する。" }
+  ],
+  "warn": ["動詞は『(魅力・才能を)引き立てて見せる』という前向きな意味。", "show（見せる）+ case（箱）からなる語。"],
+  "etym_note": "show（見せる）+ case（箱・ケース）からなる語。もとは展示用の『陳列ケース』を指し、そこから『(よさを)見せる場・披露する』の意味に広がった。",
+  "etym_chain": [
+    { "node": "show + case", "sub": "見せる箱", "era": "近代英語" },
+    { "node": "showcase", "sub": "陳列ケース", "era": "19世紀" },
+    { "node": "showcase", "sub": "披露する・見せ場", "era": "20世紀" }
+  ],
+  "phrases": [
+    { "en": "a glass showcase", "ja": "ガラスの陳列ケース" },
+    { "en": "showcase one's talent", "ja": "才能を披露する" },
+    { "en": "a showcase for", "ja": "〜の見せ場" },
+    { "en": "showcase new products", "ja": "新製品を披露する" },
+    { "en": "on showcase", "ja": "展示されて" },
+    { "en": "a showcase event", "ja": "見本市・披露イベント" }
+  ],
+  "related": [
+    { "en": "display", "ja": "展示・展示する" },
+    { "en": "exhibit", "ja": "展示する" },
+    { "en": "highlight", "ja": "目立たせる" },
+    { "en": "present", "ja": "見せる・提示する" }
+  ],
+  "faq": [
+    { "q": "動詞の showcase とは？", "a": "才能・製品・特長などを『よく見えるように披露する・引き立てて見せる』という意味です。" },
+    { "q": "display との違いは？", "a": "display は『展示する』一般、showcase は『よさや魅力を際立たせて見せる』という前向きな含みがあります。" }
+  ],
+  "quiz": [
+    { "q": "showcase の意味に含まれるのは？", "A": "陳列ケース／(才能を)披露する", "B": "隠す・しまう", "C": "破壊する", "D": "計算する", "correct": "A" },
+    { "q": "showcase one's talent の意味は？", "A": "才能を披露する", "B": "才能を隠す", "C": "才能を疑う", "D": "才能を捨てる", "correct": "A" }
+  ]
+},
+{
+  "english": "showiness",
+  "pron": "ˈʃoʊinəs",
+  "kana": "ショウイネス",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "showy（派手な）+ -ness",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "不可算名詞"],
+  "meaning_main": "派手さ・けばけばしさ・これ見よがしなこと",
+  "description": "showiness（ショウイネス）は「派手さ・けばけばしさ」を表す名詞。人目を引こうとする華美さ。意味・使い方・語源・例文・関連語をわかりやすく解説します。",
+  "keywords": ["showiness 意味", "showiness 使い方", "派手さ 英語", "showiness 語源"],
+  "meanings": [
+    { "hinshi": "【名詞】派手さ・けばけばしさ", "note": "人目を引こうとして、華やかすぎる・これ見よがしなこと。しばしば否定的なニュアンス。不可算名詞。" }
+  ],
+  "usages": [
+    { "title": "① 見た目の派手さに", "desc": "華美さの批判に。", "example_en": "The showiness of the decorations felt excessive.", "example_ja": "その飾りつけの派手さは度を越して感じられた。" },
+    { "title": "② 態度のこれ見よがしさに", "desc": "誇示に。", "example_en": "He disliked the showiness of the celebrity lifestyle.", "example_ja": "彼はセレブの暮らしのこれ見よがしなところが嫌いだった。" }
+  ],
+  "warn": ["形容詞は showy（派手な・けばけばしい）。しばしば『上品さに欠ける派手さ』という否定的な意味。", "反対の価値観は simplicity（簡素さ）や subtlety（控えめさ）。"],
+  "etym_note": "形容詞 showy（派手な、show『見せる』から）に性質を表す -ness が付いた語。『これ見よがしに見せる性質』を表す。",
+  "etym_chain": [
+    { "node": "show", "sub": "見せる", "era": "古英語" },
+    { "node": "showy", "sub": "派手な", "era": "近代英語" },
+    { "node": "showiness", "sub": "派手さ", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "vulgar showiness", "ja": "下品な派手さ" },
+    { "en": "the showiness of the design", "ja": "デザインの派手さ" },
+    { "en": "avoid showiness", "ja": "派手さを避ける" },
+    { "en": "empty showiness", "ja": "中身のない派手さ" },
+    { "en": "showiness over substance", "ja": "中身より見栄え" },
+    { "en": "excessive showiness", "ja": "度を越した派手さ" }
+  ],
+  "related": [
+    { "en": "showy", "ja": "派手な・けばけばしい" },
+    { "en": "flashiness", "ja": "けばけばしさ" },
+    { "en": "ostentation", "ja": "これ見よがし・誇示" },
+    { "en": "simplicity", "ja": "簡素さ" }
+  ],
+  "faq": [
+    { "q": "showiness は良い意味ですか？", "a": "多くは否定的で、『上品さに欠ける、これ見よがしの派手さ』を批判的に表します。" },
+    { "q": "形容詞形は？", "a": "showy（派手な・けばけばしい）です。" }
+  ],
+  "quiz": [
+    { "q": "showiness の意味は？", "A": "派手さ・けばけばしさ", "B": "簡素さ", "C": "静けさ", "D": "正直さ", "correct": "A" },
+    { "q": "showiness の形容詞形は？", "A": "showy", "B": "shown", "C": "showa", "D": "showic", "correct": "A" }
+  ]
+},
+{
+  "english": "showstopper",
+  "pron": "ˈʃoʊstɒpər",
+  "kana": "ショーストッパー",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "show（ショー）+ stopper（止めるもの）",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "可算名詞"],
+  "meaning_main": "拍手喝采で場を止めるほどの見せ場・注目の的",
+  "description": "showstopper（ショーストッパー）は「(拍手喝采で進行が止まるほどの)大受けの見せ場・ひときわ目を引くもの」を表す名詞。意味・使い方・語源・例文・関連語をわかりやすく解説します。",
+  "keywords": ["showstopper 意味", "showstopper 使い方", "見せ場 英語", "showstopper 語源"],
+  "meanings": [
+    { "hinshi": "【名詞】大受けの見せ場・注目の的", "note": "ショーで、拍手が鳴りやまず進行が一時止まるほど大受けする場面や演目。転じて、ひときわ目を引く素晴らしいもの（服・料理など）にも使う。可算名詞。" }
+  ],
+  "usages": [
+    { "title": "① 舞台の見せ場に", "desc": "大喝采の場面に。", "example_en": "Her solo was the showstopper of the musical.", "example_ja": "彼女のソロはそのミュージカル一番の見せ場だった。" },
+    { "title": "② ひときわ目を引くものに", "desc": "服・料理などに。", "example_en": "That red dress is a real showstopper.", "example_ja": "あの赤いドレスは本当に人目を引く一着だ。" }
+  ],
+  "warn": ["show（ショー）+ stopper（止めるもの）から。『(拍手で)ショーを止めるほどの』が原義で、肯定的な褒め言葉。", "コンピューターの『処理を止める深刻な不具合』を指す別の使い方（show-stopper bug）もある。"],
+  "etym_note": "show（ショー）+ stopper（止めるもの、stop『止める』から）からなる語。『拍手喝采でショーの進行が止まるほど大受けする場面』を表す。",
+  "etym_chain": [
+    { "node": "show + stopper", "sub": "ショーを止めるもの", "era": "20世紀" },
+    { "node": "show-stopper", "sub": "大受けの見せ場", "era": "20世紀" },
+    { "node": "showstopper", "sub": "見せ場・注目の的", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "a real showstopper", "ja": "本当の見せ場" },
+    { "en": "the showstopper of the night", "ja": "その夜一番の見せ場" },
+    { "en": "a showstopper dress", "ja": "人目を引くドレス" },
+    { "en": "steal the show", "ja": "主役を食う・場をさらう" },
+    { "en": "a showstopping performance", "ja": "大喝采の演技" },
+    { "en": "the dessert was a showstopper", "ja": "そのデザートは目を奪う一品だった" }
+  ],
+  "related": [
+    { "en": "highlight", "ja": "見どころ・目玉" },
+    { "en": "sensation", "ja": "大評判のもの" },
+    { "en": "spectacle", "ja": "見もの・壮観" },
+    { "en": "steal the show", "ja": "場をさらう" }
+  ],
+  "faq": [
+    { "q": "showstopper は良い意味ですか？", "a": "はい。ふつうは『拍手が鳴りやまないほど大受けする見せ場・ひときわ目を引く素晴らしいもの』という褒め言葉です。" },
+    { "q": "別の意味もありますか？", "a": "IT分野では『先に進めなくなる深刻な不具合（show-stopper bug）』を指す使い方もあります。" }
+  ],
+  "quiz": [
+    { "q": "showstopper の意味は？", "A": "大受けの見せ場・ひときわ目を引くもの", "B": "退屈な場面", "C": "小さな失敗", "D": "静かな休憩", "correct": "A" },
+    { "q": "showstopper の語源の意味は？", "A": "(拍手で)ショーを止めるほどのもの", "B": "ショーを始めるもの", "C": "ショーの切符", "D": "ショーの会場", "correct": "A" }
+  ]
+}
+]
