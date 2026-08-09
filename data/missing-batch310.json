@@ -1,0 +1,999 @@
+[
+  {
+    "english": "telemeter",
+    "pron": "ˈtelɪmiːtər",
+    "kana": "テレメーター",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "tele-(遠く)+meter(計器)",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "技術・専門語"],
+    "meaning_main": "遠隔測定器／(データを)遠隔測定する",
+    "description": "telemeter（テレメーター）は「遠隔測定器」。離れた場所の測定データを送受信する装置です。動詞で「遠隔測定する」意味もあります。意味・使い方を解説します。",
+    "keywords": ["telemeter 意味", "遠隔測定 英語", "telemetry", "telemeter 使い方"],
+    "meanings": [
+      { "hinshi": "【名詞】遠隔測定器", "note": "離れた場所の温度・圧力などを測り、そのデータを送る装置" },
+      { "hinshi": "【動詞】遠隔測定する", "note": "離れた地点のデータを測って送信する" }
+    ],
+    "usages": [
+      { "title": "① 装置として", "desc": "遠隔で測る機器を表す", "example_en": "The satellite carries a telemeter to send data to Earth.", "example_ja": "その衛星は地球にデータを送る遠隔測定器を積んでいる。" },
+      { "title": "② 動詞として", "desc": "遠隔測定の動作を表す", "example_en": "The sensors telemeter the temperature to the control room.", "example_ja": "センサーが温度を管制室へ遠隔送信する。" }
+    ],
+    "warn": ["関連名詞は telemetry（遠隔測定・テレメトリー）", "日常語ではなく宇宙・医療・工学の専門語"],
+    "etym_note": "ギリシャ語 tele-（遠くの）と meter（計器・測るもの）を組み合わせた語で、「遠くのものを測る装置」を表す。",
+    "etym_chain": [
+      { "node": "tele- + metron", "sub": "遠く + 測るもの", "era": "ギリシャ語" },
+      { "node": "telemeter", "sub": "遠隔測定器", "era": "19世紀" },
+      { "node": "telemeter", "sub": "遠隔測定器", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a radio telemeter", "ja": "無線の遠隔測定器" },
+      { "en": "install a telemeter", "ja": "遠隔測定器を設置する" },
+      { "en": "a satellite telemeter", "ja": "衛星の遠隔測定器" },
+      { "en": "telemeter the data", "ja": "データを遠隔送信する" },
+      { "en": "read the telemeter", "ja": "遠隔測定器を読み取る" },
+      { "en": "a medical telemeter", "ja": "医療用の遠隔測定器" }
+    ],
+    "related": [
+      { "en": "telemetry", "ja": "遠隔測定" },
+      { "en": "sensor", "ja": "センサー" },
+      { "en": "meter", "ja": "計器" },
+      { "en": "satellite", "ja": "衛星" }
+    ],
+    "faq": [
+      { "q": "telemeter と telemetry の違いは？", "a": "telemeter は「遠隔測定する装置」または動詞、telemetry は「遠隔測定という技術・行為」を表す名詞です。" },
+      { "q": "どんな場面で使う？", "a": "人工衛星やロケット、医療機器、発電所など、離れた場所のデータを測って送る必要がある分野で使われます。" }
+    ],
+    "quiz": [
+      { "q": "telemeter の意味は？", "A": "遠隔測定器", "B": "望遠鏡", "C": "電話帳", "D": "計算機", "correct": "A" },
+      { "q": "tele- の意味は？", "A": "遠くの", "B": "重い", "C": "赤い", "D": "丸い", "correct": "A" }
+    ]
+  },
+  {
+    "english": "teleport",
+    "pron": "ˈtelɪpɔːrt",
+    "kana": "テレポート",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "tele-(遠く)+port(運ぶ)",
+    "ld_level": "1級",
+    "badges": ["中学生〜", "英検1級", "CEFR B2", "SF・ゲーム語"],
+    "meaning_main": "瞬間移動する／テレポートする",
+    "description": "teleport（テレポート）は「瞬間移動する」。SFやゲームで、物や人が離れた場所へ一瞬で移動することを表す語です。意味・使い方をやさしく解説します。",
+    "keywords": ["teleport 意味", "瞬間移動 英語", "テレポート 英語", "teleport 使い方"],
+    "meanings": [
+      { "hinshi": "【動詞】瞬間移動する", "note": "物や人が離れた場所へ一瞬で移動する（させる）" },
+      { "hinshi": "【名詞】瞬間移動・転送地点", "note": "瞬間移動そのものや、その装置・地点" }
+    ],
+    "usages": [
+      { "title": "① SF・ゲームで", "desc": "一瞬で移動することを表す", "example_en": "In the game, you can teleport to any saved location.", "example_ja": "そのゲームでは、保存した場所へどこでも瞬間移動できる。" },
+      { "title": "② 比喩的に", "desc": "あっという間の移動を表す", "example_en": "I wish I could teleport home right now.", "example_ja": "今すぐ家に瞬間移動できたらいいのに。" }
+    ],
+    "warn": ["主にSF・ゲーム・空想の文脈で使う語", "名詞 teleportation（瞬間移動、テレポーテーション）もよく使う"],
+    "etym_note": "ギリシャ語 tele-（遠くの）と、ラテン語 portare（運ぶ）由来の port を組み合わせた造語。20世紀のSF小説で広まった。",
+    "etym_chain": [
+      { "node": "tele- + portare", "sub": "遠く + 運ぶ", "era": "ギリシャ語・ラテン語" },
+      { "node": "teleport", "sub": "瞬間移動する", "era": "20世紀(SF)" },
+      { "node": "teleport", "sub": "テレポートする", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "teleport across the map", "ja": "マップの向こうへ瞬間移動する" },
+      { "en": "teleport instantly", "ja": "一瞬で瞬間移動する" },
+      { "en": "teleport to safety", "ja": "安全な場所へ瞬間移動する" },
+      { "en": "the ability to teleport", "ja": "瞬間移動の能力" },
+      { "en": "teleport back", "ja": "元の場所へ瞬間移動して戻る" },
+      { "en": "a teleport device", "ja": "瞬間移動装置" }
+    ],
+    "related": [
+      { "en": "teleportation", "ja": "瞬間移動" },
+      { "en": "transport", "ja": "輸送する" },
+      { "en": "portal", "ja": "入口・ポータル" },
+      { "en": "warp", "ja": "ワープする" }
+    ],
+    "faq": [
+      { "q": "teleport は本当にできるの？", "a": "人や物の瞬間移動はSF・空想の話です。ただし物理学では、量子の状態を離れた場所へ写す『量子テレポーテーション』という現象が研究されています（物そのものが飛ぶわけではありません）。" },
+      { "q": "名詞形は？", "a": "teleportation（瞬間移動、テレポーテーション）です。" }
+    ],
+    "quiz": [
+      { "q": "teleport の意味は？", "A": "瞬間移動する", "B": "電話をかける", "C": "撮影する", "D": "印刷する", "correct": "A" },
+      { "q": "teleport の名詞形は？", "A": "teleportation", "B": "teleporting only", "C": "teleportment", "D": "teleportance", "correct": "A" }
+    ]
+  },
+  {
+    "english": "telex",
+    "pron": "ˈteleks",
+    "kana": "テレックス",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "teleprinter exchange の短縮",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "通信・歴史語"],
+    "meaning_main": "テレックス（旧式の文字通信）／テレックスを送る",
+    "description": "telex（テレックス）は、電話回線を使って文字メッセージをやり取りした旧式の通信システム。ファックスやメールの前に企業間で使われました。意味を解説します。",
+    "keywords": ["telex 意味", "テレックス 英語", "旧式通信 英語", "telex 使い方"],
+    "meanings": [
+      { "hinshi": "【名詞】テレックス", "note": "電話網を使い文字を送受信した旧式の通信システム・その端末やメッセージ" },
+      { "hinshi": "【動詞】テレックスを送る", "note": "テレックスでメッセージを送信する" }
+    ],
+    "usages": [
+      { "title": "① 通信手段として", "desc": "旧式の文字通信を表す", "example_en": "Before email, companies sent messages by telex.", "example_ja": "メール以前、企業はテレックスでメッセージを送っていた。" },
+      { "title": "② 動詞として", "desc": "送信の動作を表す", "example_en": "They telexed the order to the factory.", "example_ja": "彼らは注文を工場へテレックスで送った。" }
+    ],
+    "warn": ["現在ではほぼ使われない歴史的な通信技術", "teleprinter exchange（テレプリンター交換）の短縮語"],
+    "etym_note": "teleprinter（テレプリンター、遠隔印字機）と exchange（交換）を組み合わせた teleprinter exchange の短縮語。20世紀半ばに世界的に普及した。",
+    "etym_chain": [
+      { "node": "teleprinter exchange", "sub": "テレプリンター交換", "era": "20世紀" },
+      { "node": "telex", "sub": "テレックス", "era": "1930年代" },
+      { "node": "telex", "sub": "テレックス", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "send a telex", "ja": "テレックスを送る" },
+      { "en": "by telex", "ja": "テレックスで" },
+      { "en": "a telex message", "ja": "テレックスのメッセージ" },
+      { "en": "a telex machine", "ja": "テレックスの端末" },
+      { "en": "receive a telex", "ja": "テレックスを受け取る" },
+      { "en": "a telex number", "ja": "テレックス番号" }
+    ],
+    "related": [
+      { "en": "fax", "ja": "ファックス" },
+      { "en": "telegram", "ja": "電報" },
+      { "en": "teleprinter", "ja": "テレプリンター" },
+      { "en": "message", "ja": "メッセージ" }
+    ],
+    "faq": [
+      { "q": "telex は今も使われている？", "a": "ほとんど使われていません。ファックスやメールが普及する前、20世紀半ばに企業や政府間の文字通信として広く使われた歴史的な技術です。" },
+      { "q": "telex と telegram の違いは？", "a": "telegram（電報）は郵便局などを通して短い文を届けるもの、telex は加入者どうしが端末で直接、文字メッセージをやり取りするシステムです。" }
+    ],
+    "quiz": [
+      { "q": "telex の意味は？", "A": "旧式の文字通信システム", "B": "テレビ番組", "C": "望遠鏡", "D": "電池", "correct": "A" },
+      { "q": "telex は何の短縮語？", "A": "teleprinter exchange", "B": "television express", "C": "telephone exit", "D": "telegraph extra", "correct": "A" }
+    ]
+  },
+  {
+    "english": "telly",
+    "pron": "ˈteli",
+    "kana": "テリー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "television の口語的短縮形",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "口語・英語"],
+    "meaning_main": "テレビ（英口語）",
+    "description": "telly（テリー）は television（テレビ）のくだけた言い方。特にイギリス英語の口語で「テレビ（受像機・放送）」を指します。意味・使い方をやさしく解説。",
+    "keywords": ["telly 意味", "テレビ 英語 口語", "television 短縮", "telly 使い方"],
+    "meanings": [
+      { "hinshi": "【名詞】テレビ", "note": "television のくだけた言い方。イギリス英語の口語" }
+    ],
+    "usages": [
+      { "title": "① テレビ受像機", "desc": "テレビの機械を表す", "example_en": "Turn on the telly; the match is starting.", "example_ja": "テレビをつけて、試合が始まるよ。" },
+      { "title": "② テレビを見る", "desc": "放送を見る行為を表す", "example_en": "We watched telly all evening.", "example_ja": "私たちは一晩中テレビを見ていた。" }
+    ],
+    "warn": ["主にイギリス英語の口語、アメリカでは TV が一般的", "つづりは telly（television の tele- 部分から）"],
+    "etym_note": "television（テレビ）を短縮し、-y を付けた親しみのある口語形。イギリス英語で広く使われる。",
+    "etym_chain": [
+      { "node": "television", "sub": "テレビ", "era": "20世紀" },
+      { "node": "telly", "sub": "テレビ(口語)", "era": "20世紀半ば" },
+      { "node": "telly", "sub": "テレビ(英口語)", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "watch the telly", "ja": "テレビを見る" },
+      { "en": "turn on the telly", "ja": "テレビをつける" },
+      { "en": "on the telly", "ja": "テレビで(放送中)" },
+      { "en": "a new telly", "ja": "新しいテレビ" },
+      { "en": "in front of the telly", "ja": "テレビの前で" },
+      { "en": "turn off the telly", "ja": "テレビを消す" }
+    ],
+    "related": [
+      { "en": "television", "ja": "テレビ" },
+      { "en": "TV", "ja": "テレビ" },
+      { "en": "screen", "ja": "画面" },
+      { "en": "channel", "ja": "チャンネル" }
+    ],
+    "faq": [
+      { "q": "telly と TV の違いは？", "a": "意味は同じ「テレビ」です。telly はイギリス英語のくだけた口語、TV はより広く使われる略語です。" },
+      { "q": "フォーマルな場でも使える？", "a": "telly は口語なので、正式な文章では television を使うほうが無難です。" }
+    ],
+    "quiz": [
+      { "q": "telly の意味は？", "A": "テレビ", "B": "電話", "C": "ラジオ", "D": "冷蔵庫", "correct": "A" },
+      { "q": "telly は主にどこの国の口語？", "A": "イギリス", "B": "日本", "C": "フランス", "D": "ブラジル", "correct": "A" }
+    ]
+  },
+  {
+    "english": "temerarious",
+    "pron": "ˌteməˈreəriəs",
+    "kana": "テメラリアス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 temerarius(向こう見ずな)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "難語・文語"],
+    "meaning_main": "向こう見ずな／無鉄砲な／大胆すぎる",
+    "description": "temerarious（テメラリアス）は「向こう見ずな・無鉄砲な」を表す文語的な難語。危険を顧みず大胆すぎることを表します。名詞は temerity。意味を解説します。",
+    "keywords": ["temerarious 意味", "向こう見ず 英語", "temerity", "無鉄砲 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】向こう見ずな・無鉄砲な", "note": "危険や結果を考えずに大胆に行動するようす。文語的" },
+      { "hinshi": "【形容詞】大胆すぎる", "note": "慎重さを欠いて図々しいほど大胆な" }
+    ],
+    "usages": [
+      { "title": "① 無鉄砲な行動", "desc": "危険を顧みない大胆さを表す", "example_en": "It was a temerarious decision to invest all his savings.", "example_ja": "全財産を投資するとは向こう見ずな決断だった。" },
+      { "title": "② 大胆すぎる態度", "desc": "図々しいほどの大胆さを表す", "example_en": "Her temerarious remarks shocked the committee.", "example_ja": "彼女の大胆すぎる発言は委員会を驚かせた。" }
+    ],
+    "warn": ["日常ではまれで、非常に硬い文語。ふつうは reckless や rash を使う", "名詞は temerity（無鉄砲・大胆さ）でこちらの方がよく使われる"],
+    "etym_note": "ラテン語 temerarius（向こう見ずな、temere「やみくもに」から）に由来する。同語源の名詞 temerity のほうが現代ではよく使われる。",
+    "etym_chain": [
+      { "node": "temere", "sub": "やみくもに", "era": "ラテン語" },
+      { "node": "temerarius", "sub": "向こう見ずな", "era": "ラテン語" },
+      { "node": "temerarious", "sub": "向こう見ずな", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a temerarious decision", "ja": "向こう見ずな決断" },
+      { "en": "temerarious behavior", "ja": "無鉄砲な行動" },
+      { "en": "a temerarious plan", "ja": "大胆すぎる計画" },
+      { "en": "temerarious remarks", "ja": "大胆すぎる発言" },
+      { "en": "utterly temerarious", "ja": "まったく向こう見ずな" },
+      { "en": "a temerarious attempt", "ja": "無謀な試み" }
+    ],
+    "related": [
+      { "en": "temerity", "ja": "無鉄砲・大胆さ" },
+      { "en": "reckless", "ja": "無謀な" },
+      { "en": "rash", "ja": "軽率な" },
+      { "en": "cautious", "ja": "慎重な" }
+    ],
+    "faq": [
+      { "q": "temerarious と reckless の違いは？", "a": "意味はほぼ同じ「向こう見ず・無謀」ですが、temerarious は非常に硬い文語で日常ではまれ、reckless の方が一般的です。" },
+      { "q": "名詞形は？", "a": "temerity（無鉄砲・厚かましいほどの大胆さ）です。形容詞の temerarious より名詞 temerity の方がよく使われます。" }
+    ],
+    "quiz": [
+      { "q": "temerarious の意味は？", "A": "向こう見ずな・無鉄砲な", "B": "とても慎重な", "C": "とても親切な", "D": "とても静かな", "correct": "A" },
+      { "q": "temerarious の名詞形は？", "A": "temerity", "B": "temerance", "C": "temeriousness only", "D": "temeration", "correct": "A" }
+    ]
+  },
+  {
+    "english": "tempered",
+    "pron": "ˈtempərd",
+    "kana": "テンパード",
+    "hinshi": "形容詞 / 動詞(過去形)",
+    "ld_pos": "形容詞・動詞",
+    "ld_etym": "temper(和らげる/鍛える)+-ed",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "多義語"],
+    "meaning_main": "和らげられた／(金属・ガラスが)強化された／〜な気質の",
+    "description": "tempered（テンパード）は「和らげられた・(熱処理で)強化された」を表す形容詞、また temper の過去形。tempered glass（強化ガラス）で有名です。意味を解説。",
+    "keywords": ["tempered 意味", "強化ガラス 英語", "temper 過去形", "tempered 使い方"],
+    "meanings": [
+      { "hinshi": "【形容詞】(熱処理で)強化された", "note": "金属やガラスを熱処理で丈夫にした。tempered glass=強化ガラス" },
+      { "hinshi": "【形容詞】和らげられた", "note": "程度が抑えられた・緩和された" },
+      { "hinshi": "【形容詞】〜な気質の", "note": "good-tempered(気立てのよい) のように複合語で使う" }
+    ],
+    "usages": [
+      { "title": "① 強化された素材", "desc": "熱処理で丈夫にしたことを表す", "example_en": "The shower door is made of tempered glass.", "example_ja": "そのシャワーのドアは強化ガラスでできている。" },
+      { "title": "② 和らげられた", "desc": "程度が抑えられたことを表す", "example_en": "His anger was tempered by her calm words.", "example_ja": "彼の怒りは彼女の穏やかな言葉で和らげられた。" }
+    ],
+    "warn": ["tempered glass（強化ガラス）は割れても粒状になり安全", "good-tempered / bad-tempered / short-tempered（気が短い）などの複合語に注意"],
+    "etym_note": "ラテン語 temperare（適度に混ぜる・調整する）に由来する temper に -ed が付いた形。「調整する→和らげる／鍛える」の両方の意味が生まれた。",
+    "etym_chain": [
+      { "node": "temperare", "sub": "適度に混ぜる", "era": "ラテン語" },
+      { "node": "temper", "sub": "和らげる・鍛える", "era": "中英語" },
+      { "node": "tempered", "sub": "和らげられた・強化された", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "tempered glass", "ja": "強化ガラス" },
+      { "en": "tempered steel", "ja": "焼き戻し鋼" },
+      { "en": "good-tempered", "ja": "気立てのよい" },
+      { "en": "short-tempered", "ja": "気が短い" },
+      { "en": "tempered with caution", "ja": "慎重さで和らげられた" },
+      { "en": "even-tempered", "ja": "穏やかな気質の" }
+    ],
+    "related": [
+      { "en": "temper", "ja": "和らげる・気質" },
+      { "en": "strengthen", "ja": "強化する" },
+      { "en": "moderate", "ja": "和らげる" },
+      { "en": "glass", "ja": "ガラス" }
+    ],
+    "faq": [
+      { "q": "tempered glass とは？", "a": "熱処理で丈夫にした「強化ガラス」です。普通のガラスより割れにくく、割れても細かい粒状になるためけがをしにくい安全なガラスです。" },
+      { "q": "good-tempered の -tempered とは？", "a": "この tempered は「気質・機嫌」を表す temper から来ています。good-tempered（気立てのよい）、short-tempered（気が短い）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "tempered glass の意味は？", "A": "強化ガラス", "B": "曇りガラス", "C": "割れたガラス", "D": "色ガラス", "correct": "A" },
+      { "q": "short-tempered の意味は？", "A": "気が短い", "B": "背が低い", "C": "時間が短い", "D": "髪が短い", "correct": "A" }
+    ]
+  },
+  {
+    "english": "tempestuous",
+    "pron": "temˈpestʃuəs",
+    "kana": "テンペスチュアス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 tempestas(嵐・天候)",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "文学・感情語"],
+    "meaning_main": "嵐のような／荒れ狂う／(感情が)激しい",
+    "description": "tempestuous（テンペスチュアス）は「嵐のような・荒れ狂う」。天候だけでなく、感情や関係が激しく波乱に満ちていることも表します。意味・使い方を解説。",
+    "keywords": ["tempestuous 意味", "嵐のような 英語", "tempest", "tempestuous 使い方"],
+    "meanings": [
+      { "hinshi": "【形容詞】嵐のような・荒れ狂う", "note": "天候が激しく荒れているようす" },
+      { "hinshi": "【形容詞】(感情・関係が)激しい", "note": "波乱に満ちて激情的な" }
+    ],
+    "usages": [
+      { "title": "① 荒れた天候", "desc": "嵐のような天気を表す", "example_en": "The ship struggled through tempestuous seas.", "example_ja": "船は荒れ狂う海を苦しみながら進んだ。" },
+      { "title": "② 激しい感情・関係", "desc": "波乱に満ちた関係を表す", "example_en": "They had a tempestuous relationship full of quarrels.", "example_ja": "彼らはけんかの絶えない激しい関係だった。" }
+    ],
+    "warn": ["名詞は tempest（大嵐）", "感情や関係について使うと「波乱に満ちた・激情的な」の意味"],
+    "etym_note": "ラテン語 tempestas（天候・嵐、tempus「時」から）に由来する tempest に、形容詞化の -uous が付いた語。",
+    "etym_chain": [
+      { "node": "tempestas", "sub": "嵐・天候", "era": "ラテン語" },
+      { "node": "tempest", "sub": "大嵐", "era": "中英語" },
+      { "node": "tempestuous", "sub": "嵐のような", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "tempestuous weather", "ja": "荒れ狂う天候" },
+      { "en": "tempestuous seas", "ja": "荒れる海" },
+      { "en": "a tempestuous relationship", "ja": "波乱に満ちた関係" },
+      { "en": "tempestuous emotions", "ja": "激しい感情" },
+      { "en": "a tempestuous debate", "ja": "白熱した議論" },
+      { "en": "a tempestuous night", "ja": "嵐の夜" }
+    ],
+    "related": [
+      { "en": "tempest", "ja": "大嵐" },
+      { "en": "stormy", "ja": "嵐の・荒れた" },
+      { "en": "turbulent", "ja": "荒れ狂う・不安定な" },
+      { "en": "calm", "ja": "穏やかな" }
+    ],
+    "faq": [
+      { "q": "tempestuous と stormy の違いは？", "a": "どちらも「嵐の」ですが、tempestuous はより文学的で、天候だけでなく感情や人間関係の激しさ・波乱を表すのにもよく使われます。" },
+      { "q": "名詞形は？", "a": "tempest（大嵐・激しい騒ぎ）です。シェイクスピアの戯曲『テンペスト（The Tempest）』でも知られます。" }
+    ],
+    "quiz": [
+      { "q": "tempestuous の意味は？", "A": "嵐のような・荒れ狂う", "B": "静かで穏やかな", "C": "とても寒い", "D": "とても明るい", "correct": "A" },
+      { "q": "tempestuous の名詞形は？", "A": "tempest", "B": "tempo", "C": "temper", "D": "tempest only の反対", "correct": "A" }
+    ]
+  },
+  {
+    "english": "template",
+    "pron": "ˈtempleɪt",
+    "kana": "テンプレート",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "temple(建築の副木)+plate の影響",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "IT・実用語"],
+    "meaning_main": "型紙／ひな形／テンプレート",
+    "description": "template（テンプレート）は「型紙・ひな形」。同じ形を繰り返し作るための型や、文書・デザインの下地となる書式を指します。意味・使い方をやさしく解説。",
+    "keywords": ["template 意味", "テンプレート 英語", "ひな形 英語", "template 使い方"],
+    "meanings": [
+      { "hinshi": "【名詞】型紙・型板", "note": "同じ形を写し取るための型" },
+      { "hinshi": "【名詞】ひな形・書式", "note": "文書やデザインの下地となる決まった形式" }
+    ],
+    "usages": [
+      { "title": "① 型として", "desc": "形を写す型を表す", "example_en": "She used a template to cut the fabric evenly.", "example_ja": "彼女は布を均等に切るために型紙を使った。" },
+      { "title": "② 書式として", "desc": "文書やデザインの下地を表す", "example_en": "Download the template and fill in your details.", "example_ja": "テンプレートをダウンロードして、あなたの情報を入力してください。" }
+    ],
+    "warn": ["発音は「テンプレイト」（後半は /pleɪt/）", "ITでは「ひな形の書式（文書・Webページ）」の意味で頻出"],
+    "etym_note": "建築で梁を支える「temple（副木）」に、plate（板）の影響が加わって template の形になったとされる。「形を決める板」の意味。",
+    "etym_chain": [
+      { "node": "temple", "sub": "副木・支え", "era": "17世紀英語" },
+      { "node": "templet", "sub": "型板", "era": "近代英語" },
+      { "node": "template", "sub": "型紙・ひな形", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "use a template", "ja": "テンプレートを使う" },
+      { "en": "a document template", "ja": "文書のひな形" },
+      { "en": "a blank template", "ja": "空白のテンプレート" },
+      { "en": "follow the template", "ja": "ひな形に従う" },
+      { "en": "a design template", "ja": "デザインのテンプレート" },
+      { "en": "create a template", "ja": "テンプレートを作る" }
+    ],
+    "related": [
+      { "en": "form", "ja": "書式・用紙" },
+      { "en": "pattern", "ja": "型・模様" },
+      { "en": "model", "ja": "手本・型" },
+      { "en": "format", "ja": "形式" }
+    ],
+    "faq": [
+      { "q": "template と pattern の違いは？", "a": "template は「同じものを繰り返し作るための型・ひな形」、pattern は「型・模様・繰り返しの様式」で意味が重なりますが、template の方が『下地・書式』の意味で使われやすいです。" },
+      { "q": "ITでの template とは？", "a": "文書・スライド・Webページなどの『あらかじめ用意された書式（ひな形）』のことです。中身を入れ替えるだけで体裁を整えられます。" }
+    ],
+    "quiz": [
+      { "q": "template の意味は？", "A": "型紙・ひな形", "B": "寺院", "C": "気温", "D": "誘惑", "correct": "A" },
+      { "q": "a document template の意味は？", "A": "文書のひな形", "B": "文書の翻訳", "C": "文書の削除", "D": "文書の印刷", "correct": "A" }
+    ]
+  },
+  {
+    "english": "tenderize",
+    "pron": "ˈtendəraɪz",
+    "kana": "テンダライズ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "tender(柔らかい)+-ize(〜にする)",
+    "ld_level": "1級",
+    "badges": ["中学生〜", "英検1級", "CEFR B2", "料理語"],
+    "meaning_main": "(肉を)柔らかくする",
+    "description": "tenderize（テンダライズ）は「肉を柔らかくする」。たたいたり漬け込んだりして、かたい肉を食べやすくすることを表す料理の動詞です。意味・使い方を解説。",
+    "keywords": ["tenderize 意味", "肉を柔らかく 英語", "tender 動詞", "tenderize 使い方"],
+    "meanings": [
+      { "hinshi": "【動詞】(肉を)柔らかくする", "note": "たたく・漬ける・酵素などでかたい肉を柔らかく食べやすくする" }
+    ],
+    "usages": [
+      { "title": "① 肉をたたいて", "desc": "物理的に柔らかくすることを表す", "example_en": "Tenderize the steak with a mallet before cooking.", "example_ja": "調理する前に、木づちでステーキをたたいて柔らかくしなさい。" },
+      { "title": "② 漬け込んで", "desc": "漬けて柔らかくすることを表す", "example_en": "You can tenderize meat by marinating it in yogurt.", "example_ja": "ヨーグルトに漬け込むことで肉を柔らかくできる。" }
+    ],
+    "warn": ["形容詞は tender（柔らかい・優しい）", "イギリス綴りは tenderise。器具の meat tenderizer（肉たたき）もある"],
+    "etym_note": "形容詞 tender（柔らかい、ラテン語 tener 由来）に、「〜にする」を表す接尾辞 -ize が付いて動詞化した語。",
+    "etym_chain": [
+      { "node": "tener", "sub": "柔らかい", "era": "ラテン語" },
+      { "node": "tender", "sub": "柔らかい", "era": "中英語" },
+      { "node": "tenderize", "sub": "柔らかくする", "era": "20世紀" }
+    ],
+    "phrases": [
+      { "en": "tenderize the meat", "ja": "肉を柔らかくする" },
+      { "en": "tenderize a steak", "ja": "ステーキを柔らかくする" },
+      { "en": "a meat tenderizer", "ja": "肉たたき・軟化剤" },
+      { "en": "tenderize with a mallet", "ja": "木づちで柔らかくする" },
+      { "en": "tenderize by marinating", "ja": "漬け込んで柔らかくする" },
+      { "en": "help to tenderize", "ja": "柔らかくするのに役立つ" }
+    ],
+    "related": [
+      { "en": "tender", "ja": "柔らかい" },
+      { "en": "marinate", "ja": "漬け込む" },
+      { "en": "soften", "ja": "柔らかくする" },
+      { "en": "meat", "ja": "肉" }
+    ],
+    "faq": [
+      { "q": "肉を tenderize する方法は？", "a": "木づちなどでたたく、酸性の液（ヨーグルト・酢・果汁）に漬ける、繊維を断つように切る、酵素（パイナップルなど）を使う、などの方法があります。" },
+      { "q": "meat tenderizer とは？", "a": "肉を柔らかくする「肉たたき（道具）」や、肉を軟化させる「調味料・粉（軟化剤）」の両方を指します。" }
+    ],
+    "quiz": [
+      { "q": "tenderize の意味は？", "A": "(肉を)柔らかくする", "B": "肉を凍らせる", "C": "肉を数える", "D": "肉を売る", "correct": "A" },
+      { "q": "tenderize の形容詞形は？", "A": "tender", "B": "tendful", "C": "tendous", "D": "tendive", "correct": "A" }
+    ]
+  },
+  {
+    "english": "tenpins",
+    "pron": "ˈtenpɪnz",
+    "kana": "テンピンズ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ten(10)+pin(ピン)",
+    "ld_level": "1級",
+    "badges": ["中学生〜", "英検1級", "CEFR B2", "スポーツ語"],
+    "meaning_main": "テンピンボウリング／(10本の)ボウリングのピン",
+    "description": "tenpins（テンピンズ）は10本のピンを使うボウリング（テンピンボウリング）、またはそのピンを指す語。一般的なボウリングのことです。意味を解説します。",
+    "keywords": ["tenpins 意味", "ボウリング 英語", "tenpin bowling", "tenpins 使い方"],
+    "meanings": [
+      { "hinshi": "【名詞】テンピンボウリング", "note": "10本のピンを倒す一般的なボウリング（米では単数扱いの競技名にも）" },
+      { "hinshi": "【名詞】(10本の)ボウリングのピン", "note": "ボウリングで並べる10本のピン" }
+    ],
+    "usages": [
+      { "title": "① 競技として", "desc": "ボウリングの種目を表す", "example_en": "Tenpins is the most common form of bowling.", "example_ja": "テンピンボウリングは最も一般的なボウリングだ。" },
+      { "title": "② ピンとして", "desc": "倒す10本のピンを表す", "example_en": "He knocked down all ten pins for a strike.", "example_ja": "彼は10本のピンをすべて倒してストライクを取った。" }
+    ],
+    "warn": ["形容詞的に tenpin bowling とも言う（イギリスで一般的）", "9本を使う ninepins（ナインピンズ）という別の遊びもある"],
+    "etym_note": "ten（10）と pin（ピン）を組み合わせた語。倒すピンが10本であることから、この形のボウリングを指す名になった。",
+    "etym_chain": [
+      { "node": "ten + pin", "sub": "10 + ピン", "era": "近代英語" },
+      { "node": "tenpins", "sub": "10本ピンの遊び", "era": "19世紀(米)" },
+      { "node": "tenpins", "sub": "テンピンボウリング", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "play tenpins", "ja": "テンピンボウリングをする" },
+      { "en": "a game of tenpins", "ja": "ボウリング1ゲーム" },
+      { "en": "tenpin bowling", "ja": "テンピンボウリング" },
+      { "en": "set up the tenpins", "ja": "ピンを並べる" },
+      { "en": "knock down the tenpins", "ja": "ピンを倒す" },
+      { "en": "a tenpin lane", "ja": "ボウリングのレーン" }
+    ],
+    "related": [
+      { "en": "bowling", "ja": "ボウリング" },
+      { "en": "pin", "ja": "ピン" },
+      { "en": "strike", "ja": "ストライク" },
+      { "en": "lane", "ja": "レーン" }
+    ],
+    "faq": [
+      { "q": "tenpins と bowling の違いは？", "a": "bowling はボウリング全般、tenpins は特に「10本のピンを使う（最も一般的な）ボウリング」を指します。イギリスでは tenpin bowling と呼びます。" },
+      { "q": "ninepins との違いは？", "a": "ninepins は9本のピンを使う古い形の遊びです。tenpins（10本）はそこから発展した、現在広く親しまれている形式です。" }
+    ],
+    "quiz": [
+      { "q": "tenpins の意味は？", "A": "10本ピンのボウリング", "B": "10人の選手", "C": "10個のボール", "D": "10のコース", "correct": "A" },
+      { "q": "tenpins で使うピンの本数は？", "A": "10本", "B": "5本", "C": "12本", "D": "20本", "correct": "A" }
+    ]
+  },
+  {
+    "english": "tequila",
+    "pron": "təˈkiːlə",
+    "kana": "テキーラ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "メキシコの地名 Tequila",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "飲み物・固有名詞由来"],
+    "meaning_main": "テキーラ（メキシコの蒸留酒）",
+    "description": "tequila（テキーラ）はメキシコ原産の蒸留酒。アガベ（リュウゼツラン）から作られます。名前はメキシコの地名テキーラに由来します。意味・使い方を解説。",
+    "keywords": ["tequila 意味", "テキーラ 英語", "メキシコ お酒", "tequila 使い方"],
+    "meanings": [
+      { "hinshi": "【名詞】テキーラ", "note": "メキシコ原産の蒸留酒。アガベ（リュウゼツラン）を原料とする" }
+    ],
+    "usages": [
+      { "title": "① お酒として", "desc": "メキシコの蒸留酒を表す", "example_en": "She ordered a shot of tequila with lime and salt.", "example_ja": "彼女はライムと塩を添えたテキーラを1杯注文した。" },
+      { "title": "② カクテルに", "desc": "カクテルの材料として使う", "example_en": "Tequila is the main ingredient in a margarita.", "example_ja": "テキーラはマルガリータの主な材料だ。" }
+    ],
+    "warn": ["原料はアガベ（agave、リュウゼツラン）", "20歳未満は飲めない。飲みすぎに注意（アルコール度数が高い）"],
+    "etym_note": "メキシコ西部の町テキーラ（Tequila）に由来する。この地域でアガベから作られた蒸留酒が世界に広まった。",
+    "etym_chain": [
+      { "node": "Tequila", "sub": "テキーラ(地名)", "era": "メキシコ" },
+      { "node": "tequila", "sub": "テキーラ(酒)", "era": "近代" },
+      { "node": "tequila", "sub": "テキーラ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a shot of tequila", "ja": "テキーラ1杯" },
+      { "en": "tequila and lime", "ja": "テキーラとライム" },
+      { "en": "drink tequila", "ja": "テキーラを飲む" },
+      { "en": "a bottle of tequila", "ja": "テキーラ1本" },
+      { "en": "premium tequila", "ja": "上質なテキーラ" },
+      { "en": "a tequila cocktail", "ja": "テキーラのカクテル" }
+    ],
+    "related": [
+      { "en": "agave", "ja": "アガベ(リュウゼツラン)" },
+      { "en": "Mexico", "ja": "メキシコ" },
+      { "en": "margarita", "ja": "マルガリータ" },
+      { "en": "spirit", "ja": "蒸留酒" }
+    ],
+    "faq": [
+      { "q": "tequila は何から作るの？", "a": "アガベ（agave、リュウゼツランの一種）の芯から作られるメキシコ原産の蒸留酒です。特にブルーアガベが使われます。" },
+      { "q": "名前の由来は？", "a": "メキシコ西部の町テキーラ（Tequila）に由来します。この地域で作られたことからその名がつきました。" }
+    ],
+    "quiz": [
+      { "q": "tequila はどこの国のお酒？", "A": "メキシコ", "B": "フランス", "C": "日本", "D": "ロシア", "correct": "A" },
+      { "q": "tequila の原料は？", "A": "アガベ(リュウゼツラン)", "B": "ぶどう", "C": "米", "D": "じゃがいも", "correct": "A" }
+    ]
+  },
+  {
+    "english": "tera",
+    "pron": "ˈterə",
+    "kana": "テラ",
+    "hinshi": "接頭辞",
+    "ld_pos": "接頭辞",
+    "ld_etym": "ギリシャ語 teras(怪物)",
+    "ld_level": "1級",
+    "badges": ["中学生〜", "英検1級", "CEFR B2", "単位・IT語"],
+    "meaning_main": "テラ（1兆＝10の12乗を表す接頭辞）",
+    "description": "tera（テラ）は「1兆倍（10の12乗）」を表す単位の接頭辞。terabyte（テラバイト）などで使われます。giga（ギガ）の1000倍です。意味をやさしく解説します。",
+    "keywords": ["tera 意味", "テラ 単位", "terabyte", "10の12乗 英語"],
+    "meanings": [
+      { "hinshi": "【接頭辞】1兆(10¹²)倍", "note": "単位の前に付けて「1兆倍」を表す。記号は T" },
+      { "hinshi": "【関連】giga の1000倍", "note": "1テラ＝1000ギガ" }
+    ],
+    "usages": [
+      { "title": "① データ量で", "desc": "大きな容量を表す", "example_en": "This hard drive can store two tera bytes of data.", "example_ja": "このハードドライブは2テラバイトのデータを保存できる。" },
+      { "title": "② 単位の接頭辞として", "desc": "1兆倍を表す", "example_en": "The prefix tera means one trillion.", "example_ja": "接頭辞テラは1兆を意味する。" }
+    ],
+    "warn": ["記号は大文字の T（例：TB＝テラバイト）", "giga(ギガ,10⁹)の1000倍、peta(ペタ,10¹⁵)の1000分の1"],
+    "etym_note": "ギリシャ語 teras（怪物）に由来し、「巨大な」というイメージから10¹²を表す接頭辞に選ばれた。tetra（4）とも音が似るが別語源。",
+    "etym_chain": [
+      { "node": "teras", "sub": "怪物", "era": "ギリシャ語" },
+      { "node": "tera-", "sub": "巨大な", "era": "20世紀" },
+      { "node": "tera", "sub": "1兆倍(接頭辞)", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "one terabyte", "ja": "1テラバイト" },
+      { "en": "tera-scale computing", "ja": "テラ級の計算" },
+      { "en": "the prefix tera", "ja": "接頭辞テラ" },
+      { "en": "several terabytes", "ja": "数テラバイト" },
+      { "en": "a tera of storage", "ja": "テラ単位の記憶容量" },
+      { "en": "tera-level speed", "ja": "テラ級の速度" }
+    ],
+    "related": [
+      { "en": "giga", "ja": "ギガ(10⁹)" },
+      { "en": "terabyte", "ja": "テラバイト" },
+      { "en": "byte", "ja": "バイト" },
+      { "en": "trillion", "ja": "1兆" }
+    ],
+    "faq": [
+      { "q": "tera はどれくらいの大きさ？", "a": "10の12乗＝1兆倍です。ギガ（giga、10億倍）の1000倍にあたります。記号は大文字の T です。" },
+      { "q": "身近な例は？", "a": "パソコンの記憶容量でよく見る terabyte（テラバイト、TB）が代表例です。1TB は1000GB（ギガバイト）です。" }
+    ],
+    "quiz": [
+      { "q": "接頭辞 tera が表すのは？", "A": "1兆(10¹²)倍", "B": "100倍", "C": "1000分の1", "D": "半分", "correct": "A" },
+      { "q": "1テラは何ギガ？", "A": "1000ギガ", "B": "10ギガ", "C": "100ギガ", "D": "1ギガ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "terabyte",
+    "pron": "ˈterəbaɪt",
+    "kana": "テラバイト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "tera(1兆)+byte(バイト)",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "IT・単位語"],
+    "meaning_main": "テラバイト（データ量の単位、約1兆バイト）",
+    "description": "terabyte（テラバイト、TB）はデータ量の単位で、約1兆バイト＝1000ギガバイト。パソコンやハードディスクの容量を表すのに使います。意味・使い方を解説。",
+    "keywords": ["terabyte 意味", "テラバイト 英語", "TB 単位", "gigabyte 違い"],
+    "meanings": [
+      { "hinshi": "【名詞】テラバイト", "note": "データ量の単位。約1兆バイト＝1000ギガバイト。記号は TB" }
+    ],
+    "usages": [
+      { "title": "① 記憶容量で", "desc": "保存できるデータ量を表す", "example_en": "The new laptop has a one terabyte hard drive.", "example_ja": "その新しいノートパソコンは1テラバイトのハードドライブを備えている。" },
+      { "title": "② データの大きさ", "desc": "扱うデータ量を表す", "example_en": "The company processes several terabytes of data daily.", "example_ja": "その会社は毎日数テラバイトのデータを処理する。" }
+    ],
+    "warn": ["記号は TB（例：1TB）", "1TB＝1000GB（ギガバイト）＝約1兆バイト"],
+    "etym_note": "接頭辞 tera（1兆倍、ギリシャ語 teras「怪物」由来）と byte（バイト、データの基本単位）を組み合わせた語。",
+    "etym_chain": [
+      { "node": "tera + byte", "sub": "1兆 + バイト", "era": "20世紀" },
+      { "node": "terabyte", "sub": "1兆バイト", "era": "20世紀後半" },
+      { "node": "terabyte", "sub": "テラバイト", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "one terabyte", "ja": "1テラバイト" },
+      { "en": "a terabyte drive", "ja": "テラバイトのドライブ" },
+      { "en": "several terabytes", "ja": "数テラバイト" },
+      { "en": "a two-terabyte disk", "ja": "2テラバイトのディスク" },
+      { "en": "store a terabyte", "ja": "1テラバイトを保存する" },
+      { "en": "terabytes of data", "ja": "テラバイト単位のデータ" }
+    ],
+    "related": [
+      { "en": "gigabyte", "ja": "ギガバイト" },
+      { "en": "byte", "ja": "バイト" },
+      { "en": "tera", "ja": "テラ(接頭辞)" },
+      { "en": "storage", "ja": "記憶容量" }
+    ],
+    "faq": [
+      { "q": "1テラバイトはどれくらい？", "a": "約1兆バイト、1000ギガバイト（GB）です。高画質の写真なら数十万枚、動画でも数百時間分を保存できる大きな容量です。" },
+      { "q": "gigabyte との関係は？", "a": "1テラバイト（TB）＝1000ギガバイト（GB）です。テラはギガの1000倍にあたります。" }
+    ],
+    "quiz": [
+      { "q": "terabyte はおよそ何バイト？", "A": "約1兆バイト", "B": "約100バイト", "C": "約1000バイト", "D": "約100万バイト", "correct": "A" },
+      { "q": "1テラバイトは何ギガバイト？", "A": "1000GB", "B": "10GB", "C": "100GB", "D": "1GB", "correct": "A" }
+    ]
+  },
+  {
+    "english": "terrifying",
+    "pron": "ˈterɪfaɪɪŋ",
+    "kana": "テリファイング",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "terrify(怖がらせる)+-ing",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "感情・頻出語"],
+    "meaning_main": "恐ろしい／ぞっとするような",
+    "description": "terrifying（テリファイング）は「恐ろしい・ぞっとするような」。人を強い恐怖に陥れるほど怖いことを表す形容詞です。意味・使い方をやさしく解説します。",
+    "keywords": ["terrifying 意味", "恐ろしい 英語", "terrify", "terrifying 使い方"],
+    "meanings": [
+      { "hinshi": "【形容詞】恐ろしい・ぞっとする", "note": "強い恐怖を感じさせるようす" }
+    ],
+    "usages": [
+      { "title": "① 恐ろしい出来事", "desc": "強い恐怖を表す", "example_en": "The earthquake was a terrifying experience.", "example_ja": "その地震は恐ろしい体験だった。" },
+      { "title": "② 怖い対象", "desc": "怖いものを形容する", "example_en": "The movie had some truly terrifying scenes.", "example_ja": "その映画には本当にぞっとする場面がいくつかあった。" }
+    ],
+    "warn": ["動詞は terrify（怖がらせる）、名詞は terror（恐怖）", "terrified（怖がっている）は人の感情、terrifying（恐ろしい）は原因側を表す"],
+    "etym_note": "ラテン語 terrere（怖がらせる）に由来する terrify に、-ing が付いて「恐怖を引き起こす」意味の形容詞になった。",
+    "etym_chain": [
+      { "node": "terrere", "sub": "怖がらせる", "era": "ラテン語" },
+      { "node": "terrify", "sub": "怖がらせる", "era": "16世紀英語" },
+      { "node": "terrifying", "sub": "恐ろしい", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a terrifying experience", "ja": "恐ろしい体験" },
+      { "en": "truly terrifying", "ja": "本当に恐ろしい" },
+      { "en": "a terrifying sight", "ja": "ぞっとする光景" },
+      { "en": "a terrifying scream", "ja": "恐ろしい叫び声" },
+      { "en": "utterly terrifying", "ja": "まったく恐ろしい" },
+      { "en": "a terrifying thought", "ja": "身の毛もよだつ考え" }
+    ],
+    "related": [
+      { "en": "terrify", "ja": "怖がらせる" },
+      { "en": "terrified", "ja": "おびえた" },
+      { "en": "terror", "ja": "恐怖" },
+      { "en": "frightening", "ja": "怖い" }
+    ],
+    "faq": [
+      { "q": "terrifying と terrified の違いは？", "a": "terrifying は「(物事が)恐ろしい」＝恐怖を引き起こす側、terrified は「(人が)おびえている」＝恐怖を感じる側です。a terrifying dog（恐ろしい犬）／a terrified child（おびえた子）。" },
+      { "q": "terrifying と frightening の違いは？", "a": "どちらも「怖い」ですが、terrifying の方が恐怖の度合いが強く「ぞっとする・身がすくむ」ほどの怖さを表します。" }
+    ],
+    "quiz": [
+      { "q": "terrifying の意味は？", "A": "恐ろしい・ぞっとする", "B": "楽しい", "C": "退屈な", "D": "美しい", "correct": "A" },
+      { "q": "「(人が)おびえている」を表すのは？", "A": "terrified", "B": "terrifying", "C": "terrific", "D": "terror", "correct": "A" }
+    ]
+  },
+  {
+    "english": "tesla",
+    "pron": "ˈteslə",
+    "kana": "テスラ",
+    "hinshi": "名詞（固有名詞 / 単位）",
+    "ld_pos": "固有名詞・名詞",
+    "ld_etym": "発明家 Nikola Tesla の名",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "人名・単位・企業"],
+    "meaning_main": "テスラ（磁束密度の単位）／発明家ニコラ・テスラ／自動車会社",
+    "description": "tesla（テスラ）は磁束密度の単位（記号 T）で、発明家ニコラ・テスラにちなみます。電気自動車の会社名でもあります。意味・背景をやさしく解説します。",
+    "keywords": ["tesla 意味", "テスラ 単位", "Nikola Tesla", "磁束密度 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】テスラ(単位)", "note": "磁束密度の単位。記号は T。1 T は非常に強い磁場" },
+      { "hinshi": "【固有名詞】ニコラ・テスラ", "note": "交流電流などで知られる発明家・電気技師" },
+      { "hinshi": "【固有名詞】テスラ社", "note": "アメリカの電気自動車メーカー" }
+    ],
+    "usages": [
+      { "title": "① 単位として", "desc": "磁場の強さを表す", "example_en": "An MRI machine can produce a field of several tesla.", "example_ja": "MRI装置は数テスラの磁場を作り出せる。" },
+      { "title": "② 人名・企業として", "desc": "発明家や会社を指す", "example_en": "Nikola Tesla contributed greatly to electrical engineering.", "example_ja": "ニコラ・テスラは電気工学に大きく貢献した。" }
+    ],
+    "warn": ["単位のときは小文字 tesla、記号は大文字 T", "人名・企業名のときは大文字 Tesla"],
+    "etym_note": "セルビア系の発明家ニコラ・テスラ（Nikola Tesla）の功績をたたえ、磁束密度の単位名に採用された。電気自動車会社もこの名にちなむ。",
+    "etym_chain": [
+      { "node": "Nikola Tesla", "sub": "発明家テスラ", "era": "19〜20世紀" },
+      { "node": "tesla", "sub": "磁束密度の単位", "era": "1960年" },
+      { "node": "Tesla", "sub": "テスラ社", "era": "21世紀" }
+    ],
+    "phrases": [
+      { "en": "a magnetic field of one tesla", "ja": "1テスラの磁場" },
+      { "en": "several tesla", "ja": "数テスラ" },
+      { "en": "measured in tesla", "ja": "テスラで測定される" },
+      { "en": "Nikola Tesla", "ja": "ニコラ・テスラ" },
+      { "en": "a Tesla car", "ja": "テスラの車" },
+      { "en": "the unit tesla", "ja": "単位テスラ" }
+    ],
+    "related": [
+      { "en": "magnet", "ja": "磁石" },
+      { "en": "electricity", "ja": "電気" },
+      { "en": "unit", "ja": "単位" },
+      { "en": "inventor", "ja": "発明家" }
+    ],
+    "faq": [
+      { "q": "tesla（単位）は何を表す？", "a": "磁束密度（磁場の強さ）の単位です。記号は T。1テスラはかなり強い磁場で、MRI装置などは数テスラの磁場を使います。" },
+      { "q": "ニコラ・テスラとは？", "a": "交流電流（AC）や無線技術などで知られる、19〜20世紀の発明家・電気技師です。単位テスラや電気自動車会社の名は彼にちなみます。" }
+    ],
+    "quiz": [
+      { "q": "単位 tesla が表すのは？", "A": "磁束密度(磁場の強さ)", "B": "温度", "C": "音量", "D": "速度", "correct": "A" },
+      { "q": "tesla の名の由来となった発明家は？", "A": "ニコラ・テスラ", "B": "エジソン", "C": "ニュートン", "D": "アインシュタイン", "correct": "A" }
+    ]
+  },
+  {
+    "english": "testimonial",
+    "pron": "ˌtestɪˈmoʊniəl",
+    "kana": "テスティモニアル",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞・形容詞",
+    "ld_etym": "ラテン語 testimonium(証言)",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "ビジネス語"],
+    "meaning_main": "推薦の言葉／お客様の声／表彰(の)",
+    "description": "testimonial（テスティモニアル）は「推薦の言葉・お客様の声」。商品や人を推薦・称賛する証言のことです。表彰や感謝を表す形容詞にもなります。意味を解説。",
+    "keywords": ["testimonial 意味", "お客様の声 英語", "推薦文 英語", "testimonial 使い方"],
+    "meanings": [
+      { "hinshi": "【名詞】推薦の言葉・お客様の声", "note": "商品や人の良さを述べた証言・推薦文" },
+      { "hinshi": "【名詞】感謝・表彰の贈り物", "note": "功績をたたえて贈るもの・催し" },
+      { "hinshi": "【形容詞】称賛・表彰の", "note": "感謝や敬意を表す（a testimonial dinner）" }
+    ],
+    "usages": [
+      { "title": "① お客様の声", "desc": "推薦・称賛の証言を表す", "example_en": "The website features testimonials from happy customers.", "example_ja": "そのウェブサイトには満足した客の声が載っている。" },
+      { "title": "② 表彰の(形容詞)", "desc": "功績をたたえる催しを表す", "example_en": "They held a testimonial dinner for the retiring coach.", "example_ja": "彼らは引退するコーチのために表彰の晩さん会を開いた。" }
+    ],
+    "warn": ["testimony（法廷などの「証言」）とは使い分ける。testimonial は「推薦・称賛」寄り", "広告・マーケティングで『お客様の声』の意味でよく使う"],
+    "etym_note": "ラテン語 testimonium（証言、testis「証人」から）に由来し、「（良さを）証言するもの→推薦・称賛」の意味になった。",
+    "etym_chain": [
+      { "node": "testis", "sub": "証人", "era": "ラテン語" },
+      { "node": "testimonium", "sub": "証言", "era": "ラテン語" },
+      { "node": "testimonial", "sub": "推薦の言葉", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "customer testimonials", "ja": "お客様の声" },
+      { "en": "a glowing testimonial", "ja": "絶賛の推薦文" },
+      { "en": "write a testimonial", "ja": "推薦の言葉を書く" },
+      { "en": "a testimonial dinner", "ja": "表彰の晩さん会" },
+      { "en": "video testimonials", "ja": "動画の推薦コメント" },
+      { "en": "a personal testimonial", "ja": "個人の推薦の言葉" }
+    ],
+    "related": [
+      { "en": "testimony", "ja": "証言" },
+      { "en": "recommendation", "ja": "推薦" },
+      { "en": "review", "ja": "レビュー・評価" },
+      { "en": "endorsement", "ja": "推薦・支持" }
+    ],
+    "faq": [
+      { "q": "testimonial と testimony の違いは？", "a": "testimony は主に法廷などでの「証言」、testimonial は商品や人を「推薦・称賛する言葉（お客様の声）」を指します。" },
+      { "q": "マーケティングでの testimonial とは？", "a": "実際の利用者が商品・サービスの良さを語った『お客様の声・推薦コメント』のことです。信頼を高めるために広告やサイトで使われます。" }
+    ],
+    "quiz": [
+      { "q": "testimonial の意味は？", "A": "推薦の言葉・お客様の声", "B": "苦情の手紙", "C": "請求書", "D": "地図", "correct": "A" },
+      { "q": "a testimonial dinner の意味は？", "A": "表彰の晩さん会", "B": "無料の食事会", "C": "料理教室", "D": "試食会", "correct": "A" }
+    ]
+  },
+  {
+    "english": "tetchiness",
+    "pron": "ˈtetʃinəs",
+    "kana": "テッチネス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "tetchy(怒りっぽい)+-ness",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "感情・難語"],
+    "meaning_main": "怒りっぽさ／不機嫌／短気",
+    "description": "tetchiness（テッチネス）は「怒りっぽさ・不機嫌・短気」を表す名詞。ささいなことですぐいらだつ性質を表します。形容詞 tetchy の名詞形です。意味を解説。",
+    "keywords": ["tetchiness 意味", "怒りっぽさ 英語", "tetchy", "短気 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】怒りっぽさ・短気", "note": "ささいなことですぐいらだつ性質。不可算名詞" },
+      { "hinshi": "【名詞】不機嫌", "note": "とげとげしく機嫌の悪いようす" }
+    ],
+    "usages": [
+      { "title": "① 怒りっぽい性質", "desc": "すぐいらだつ性質を表す", "example_en": "His tetchiness increased as he grew tired.", "example_ja": "疲れるにつれて彼の怒りっぽさが増した。" },
+      { "title": "② 一時的な不機嫌", "desc": "とげとげしい態度を表す", "example_en": "Ignore her tetchiness; she's just hungry.", "example_ja": "彼女の不機嫌は気にしないで、ただおなかがすいているだけだから。" }
+    ],
+    "warn": ["形容詞は tetchy（怒りっぽい・短気な）", "不可算名詞なので a tetchiness とは言わない"],
+    "etym_note": "tetchy（怒りっぽい）は「欠点・しみ（techy, teche）」に由来するとされ、それに -ness が付いて名詞化した語。",
+    "etym_chain": [
+      { "node": "teche", "sub": "欠点・傷", "era": "中英語" },
+      { "node": "tetchy", "sub": "怒りっぽい", "era": "16世紀英語" },
+      { "node": "tetchiness", "sub": "怒りっぽさ", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a hint of tetchiness", "ja": "少しの不機嫌さ" },
+      { "en": "growing tetchiness", "ja": "募る怒りっぽさ" },
+      { "en": "his usual tetchiness", "ja": "彼のいつもの短気" },
+      { "en": "tetchiness and impatience", "ja": "怒りっぽさと短気" },
+      { "en": "signs of tetchiness", "ja": "不機嫌のきざし" },
+      { "en": "morning tetchiness", "ja": "朝の不機嫌" }
+    ],
+    "related": [
+      { "en": "tetchy", "ja": "怒りっぽい" },
+      { "en": "irritability", "ja": "いらだち・短気" },
+      { "en": "grumpiness", "ja": "不機嫌さ" },
+      { "en": "patience", "ja": "忍耐" }
+    ],
+    "faq": [
+      { "q": "tetchiness と irritability の違いは？", "a": "ほぼ同じ「怒りっぽさ・いらだちやすさ」です。tetchiness はややくだけた・古風な響きで、irritability の方が一般的で医学的文脈でも使われます。" },
+      { "q": "形容詞形は？", "a": "tetchy（怒りっぽい・短気な）です。touchy（気に障りやすい）と意味も形も似ています。" }
+    ],
+    "quiz": [
+      { "q": "tetchiness の意味は？", "A": "怒りっぽさ・短気", "B": "優しさ", "C": "静けさ", "D": "正直さ", "correct": "A" },
+      { "q": "tetchiness の形容詞形は？", "A": "tetchy", "B": "tetchful", "C": "tetchous", "D": "tetchive", "correct": "A" }
+    ]
+  },
+  {
+    "english": "tetradecagon",
+    "pron": "ˌtetrəˈdekəɡɒn",
+    "kana": "テトラデカゴン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 tetra(4)+deka(10)+gon(角)",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "数学・図形語"],
+    "meaning_main": "十四角形（14の辺と角を持つ多角形）",
+    "description": "tetradecagon（テトラデカゴン）は「十四角形」。14本の辺と14の角を持つ多角形です。数学の図形用語で、意味・作り方をやさしく解説します。",
+    "keywords": ["tetradecagon 意味", "十四角形 英語", "多角形 英語", "14角形"],
+    "meanings": [
+      { "hinshi": "【名詞】十四角形", "note": "14本の辺と14の角を持つ多角形。tetrakaidecagon とも" }
+    ],
+    "usages": [
+      { "title": "① 図形として", "desc": "14の辺を持つ多角形を表す", "example_en": "A tetradecagon has fourteen sides.", "example_ja": "十四角形は14本の辺を持つ。" },
+      { "title": "② 数学の問題で", "desc": "多角形の性質を語る", "example_en": "We calculated the interior angles of a regular tetradecagon.", "example_ja": "私たちは正十四角形の内角を計算した。" }
+    ],
+    "warn": ["接頭辞 tetra(4)+deca(10) で 14 を表す。tetrakaidecagon とも書く", "-gon は「角・角形」を表す（pentagon 五角形など）"],
+    "etym_note": "ギリシャ語 tetra（4）+ deka（10）+ gonia（角）から成る語で、「14の角を持つ図形」を表す。",
+    "etym_chain": [
+      { "node": "tetra + deka + gonia", "sub": "4 + 10 + 角", "era": "ギリシャ語" },
+      { "node": "tetradecagon", "sub": "十四角形", "era": "近代英語" },
+      { "node": "tetradecagon", "sub": "十四角形", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a regular tetradecagon", "ja": "正十四角形" },
+      { "en": "the sides of a tetradecagon", "ja": "十四角形の辺" },
+      { "en": "draw a tetradecagon", "ja": "十四角形を描く" },
+      { "en": "the angles of a tetradecagon", "ja": "十四角形の角" },
+      { "en": "a tetradecagon shape", "ja": "十四角形の形" },
+      { "en": "an irregular tetradecagon", "ja": "不規則な十四角形" }
+    ],
+    "related": [
+      { "en": "polygon", "ja": "多角形" },
+      { "en": "hexagon", "ja": "六角形" },
+      { "en": "decagon", "ja": "十角形" },
+      { "en": "angle", "ja": "角" }
+    ],
+    "faq": [
+      { "q": "tetradecagon は何角形？", "a": "十四角形です。14本の辺と14の角を持ちます。tetra（4）+ deca（10）で 14 を表します。" },
+      { "q": "正十四角形の内角は？", "a": "正十四角形の1つの内角は約154.3度です（内角の和は (14-2)×180＝2160度で、それを14で割ります）。" }
+    ],
+    "quiz": [
+      { "q": "tetradecagon は何角形？", "A": "十四角形", "B": "四角形", "C": "十角形", "D": "四十角形", "correct": "A" },
+      { "q": "-gon が表すのは？", "A": "角・角形", "B": "円", "C": "線", "D": "点", "correct": "A" }
+    ]
+  },
+  {
+    "english": "texas",
+    "pron": "ˈteksəs",
+    "kana": "テキサス",
+    "hinshi": "名詞（固有名詞）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "カド族の言葉 táyshaʼ(友)",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "地名(米国州)"],
+    "meaning_main": "テキサス（アメリカ南部の州）",
+    "description": "Texas（テキサス）はアメリカ南部の州で、アラスカに次いで2番目に大きい州。石油やカウボーイ文化で有名です。名前は先住民の「友」に由来します。意味を解説。",
+    "keywords": ["Texas 意味", "テキサス 英語", "アメリカ 州", "Texas 由来"],
+    "meanings": [
+      { "hinshi": "【固有名詞】テキサス州", "note": "アメリカ南部の州。面積は全米2位、人口も上位" },
+      { "hinshi": "【由来】「友・味方」", "note": "先住民カド族の言葉 táyshaʼ（友）に由来する" }
+    ],
+    "usages": [
+      { "title": "① 州を指す", "desc": "地理の話題で使う", "example_en": "Texas is the second largest state in the U.S.", "example_ja": "テキサスはアメリカで2番目に大きい州だ。" },
+      { "title": "② 文化・産業で", "desc": "特徴を語る", "example_en": "Texas is known for oil, cattle, and cowboys.", "example_ja": "テキサスは石油、牛、カウボーイで知られている。" }
+    ],
+    "warn": ["固有名詞なので常に大文字で書く（Texas）", "州都はオースティン（Austin）、最大都市はヒューストン（Houston）"],
+    "etym_note": "スペイン人が接した先住民カド族の言葉 táyshaʼ（友・味方）に由来する。スペイン語で Tejas と綴られ、のちに Texas となった。",
+    "etym_chain": [
+      { "node": "táyshaʼ", "sub": "友・味方", "era": "カド族の言葉" },
+      { "node": "Tejas", "sub": "テハス", "era": "スペイン語" },
+      { "node": "Texas", "sub": "テキサス", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the state of Texas", "ja": "テキサス州" },
+      { "en": "in Texas", "ja": "テキサスで" },
+      { "en": "West Texas", "ja": "西テキサス" },
+      { "en": "a Texas ranch", "ja": "テキサスの牧場" },
+      { "en": "born in Texas", "ja": "テキサス生まれ" },
+      { "en": "the Texas heat", "ja": "テキサスの暑さ" }
+    ],
+    "related": [
+      { "en": "America", "ja": "アメリカ" },
+      { "en": "cowboy", "ja": "カウボーイ" },
+      { "en": "state", "ja": "州" },
+      { "en": "oil", "ja": "石油" }
+    ],
+    "faq": [
+      { "q": "Texas の名前の由来は？", "a": "先住民カド族の言葉 táyshaʼ（友・味方）に由来します。スペイン語で Tejas と綴られ、のちに Texas になりました。" },
+      { "q": "テキサスの州都は？", "a": "オースティン（Austin）です。最大の都市はヒューストン（Houston）です。" }
+    ],
+    "quiz": [
+      { "q": "Texas はどこの国の州？", "A": "アメリカ", "B": "カナダ", "C": "メキシコ", "D": "オーストラリア", "correct": "A" },
+      { "q": "Texas の名前の元の意味は？", "A": "友・味方", "B": "大きな川", "C": "高い山", "D": "赤い土", "correct": "A" }
+    ]
+  },
+  {
+    "english": "thalassic",
+    "pron": "θəˈlæsɪk",
+    "kana": "サラシック",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ギリシャ語 thalassa(海)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "海洋・専門語"],
+    "meaning_main": "海の／(特に内海・小さな海の)海洋の",
+    "description": "thalassic（サラシック）は「海の・海洋の」を表す学術的な形容詞。特に内海や小さな海に関して使われ、外洋の oceanic と対比されます。意味・語源を解説。",
+    "keywords": ["thalassic 意味", "海の 英語", "thalassa", "海洋 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】海の・海洋の", "note": "海に関する。特に内海・沿岸の海を指すことが多い" },
+      { "hinshi": "【形容詞】(対比)内海の", "note": "外洋を表す oceanic に対し、より小さな海を指す" }
+    ],
+    "usages": [
+      { "title": "① 海に関する", "desc": "海洋に関することを表す", "example_en": "The region has a rich thalassic ecosystem.", "example_ja": "その地域は豊かな海洋生態系を持っている。" },
+      { "title": "② 学術的な記述で", "desc": "海の性質を表す", "example_en": "Ancient trade often relied on thalassic routes.", "example_ja": "古代の交易はしばしば海路に頼っていた。" }
+    ],
+    "warn": ["日常ではまれで、地理学・海洋学・歴史学などの学術語", "th は「サ」に近い無声音 /θ/"],
+    "etym_note": "ギリシャ語 thalassa（海）に由来し、形容詞化の -ic が付いた語。thalassa は「タラソテラピー（海洋療法）」の thalasso- にも見られる。",
+    "etym_chain": [
+      { "node": "thalassa", "sub": "海", "era": "ギリシャ語" },
+      { "node": "thalassikos", "sub": "海の", "era": "ギリシャ語" },
+      { "node": "thalassic", "sub": "海の・海洋の", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a thalassic ecosystem", "ja": "海洋生態系" },
+      { "en": "thalassic routes", "ja": "海路" },
+      { "en": "thalassic species", "ja": "海の生物種" },
+      { "en": "a thalassic civilization", "ja": "海洋文明" },
+      { "en": "thalassic trade", "ja": "海上交易" },
+      { "en": "thalassic currents", "ja": "海流" }
+    ],
+    "related": [
+      { "en": "oceanic", "ja": "大洋の・外洋の" },
+      { "en": "marine", "ja": "海の・海洋の" },
+      { "en": "sea", "ja": "海" },
+      { "en": "coastal", "ja": "沿岸の" }
+    ],
+    "faq": [
+      { "q": "thalassic と oceanic の違いは？", "a": "どちらも「海の」ですが、oceanic は広い外洋（大洋）を指すのに対し、thalassic はより小さな内海・沿岸の海に関して使われることが多い学術語です。" },
+      { "q": "語源は？", "a": "ギリシャ語 thalassa（海）に由来します。海洋療法を表す『タラソテラピー（thalassotherapy）』も同じ語源です。" }
+    ],
+    "quiz": [
+      { "q": "thalassic の意味は？", "A": "海の・海洋の", "B": "山の", "C": "砂漠の", "D": "空の", "correct": "A" },
+      { "q": "thalassic の語源 thalassa の意味は？", "A": "海", "B": "山", "C": "森", "D": "川", "correct": "A" }
+    ]
+  }
+]
