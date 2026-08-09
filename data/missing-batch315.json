@@ -1,0 +1,998 @@
+[
+  {
+    "english": "trusting",
+    "pron": "ˈtrʌstɪŋ",
+    "kana": "トラスティング",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "trust(信頼する)+-ing",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "性格語"],
+    "meaning_main": "人を信じやすい／信頼する／疑わない",
+    "description": "trusting（トラスティング）は「人を信じやすい・疑わない」を表す形容詞。他人を素直に信頼する性質を表します。良い意味にも、だまされやすいという意味にもなります。",
+    "keywords": ["trusting 意味", "信じやすい 英語", "trust 形容詞", "trusting 使い方"],
+    "meanings": [
+      { "hinshi": "【形容詞】人を信じやすい・疑わない", "note": "他人を素直に信頼する性質。純真にも、だまされやすいにもなる" }
+    ],
+    "usages": [
+      { "title": "① 素直に信じる", "desc": "人を信頼する性質を表す", "example_en": "She has a trusting nature and believes everyone.", "example_ja": "彼女は人を信じやすい性格で、誰でも信用する。" },
+      { "title": "② だまされやすい", "desc": "警戒心の薄さを表す", "example_en": "He was too trusting and got tricked.", "example_ja": "彼は人を信じすぎてだまされてしまった。" }
+    ],
+    "warn": ["動詞は trust（信頼する）、名詞も trust（信頼）", "文脈により『純真な』(良)とも『お人よし』(注意)ともなる"],
+    "etym_note": "古ノルド語 traust（信頼）に由来する trust に、-ing が付いて「信頼する性質の」を表す形容詞になった。",
+    "etym_chain": [
+      { "node": "traust", "sub": "信頼", "era": "古ノルド語" },
+      { "node": "trust", "sub": "信頼する", "era": "中英語" },
+      { "node": "trusting", "sub": "人を信じやすい", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a trusting nature", "ja": "人を信じやすい性格" },
+      { "en": "too trusting", "ja": "人を信じすぎる" },
+      { "en": "a trusting child", "ja": "人を疑わない子ども" },
+      { "en": "trusting eyes", "ja": "無邪気なまなざし" },
+      { "en": "overly trusting", "ja": "信じやすすぎる" },
+      { "en": "a trusting smile", "ja": "屈託のない笑顔" }
+    ],
+    "related": [
+      { "en": "trust", "ja": "信頼(する)" },
+      { "en": "naive", "ja": "純真な・世間知らずの" },
+      { "en": "gullible", "ja": "だまされやすい" },
+      { "en": "suspicious", "ja": "疑い深い" }
+    ],
+    "faq": [
+      { "q": "trusting は良い意味？悪い意味？", "a": "文脈によります。『素直で人を信じる（純真）』という良い意味にも、『だまされやすい（お人よし）』という注意すべき意味にもなります。" },
+      { "q": "反対語は？", "a": "suspicious（疑い深い）や distrustful（信用しない）が反対の性質を表します。" }
+    ],
+    "quiz": [
+      { "q": "trusting の意味は？", "A": "人を信じやすい・疑わない", "B": "疑い深い", "C": "怒りっぽい", "D": "無口な", "correct": "A" },
+      { "q": "trusting の反対に近い語は？", "A": "suspicious", "B": "trustful", "C": "trusty", "D": "trusted", "correct": "A" }
+    ]
+  },
+  {
+    "english": "truthful",
+    "pron": "ˈtruːθfəl",
+    "kana": "トゥルースフル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "truth(真実)+-ful(満ちた)",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "性格・頻出語"],
+    "meaning_main": "正直な／真実を語る／事実に即した",
+    "description": "truthful（トゥルースフル）は「正直な・真実を語る」を表す形容詞。うそをつかず本当のことを言う人や、事実に即した内容を表します。意味・使い方を解説します。",
+    "keywords": ["truthful 意味", "正直な 英語", "truth 形容詞", "truthful 使い方"],
+    "meanings": [
+      { "hinshi": "【形容詞】正直な・真実を語る", "note": "うそをつかず、本当のことを言う（人）" },
+      { "hinshi": "【形容詞】事実に即した", "note": "内容が真実に基づいている" }
+    ],
+    "usages": [
+      { "title": "① 正直な人", "desc": "うそをつかない性質を表す", "example_en": "She is always truthful with her friends.", "example_ja": "彼女は友達にいつも正直だ。" },
+      { "title": "② 事実に即した", "desc": "内容が本当であることを表す", "example_en": "Please give me a truthful answer.", "example_ja": "本当のことを答えてください。" }
+    ],
+    "warn": ["名詞は truth（真実）、副詞は truthfully（正直に）", "honest（正直な）と近いが、truthful は特に『真実を述べる』点を強調"],
+    "etym_note": "truth（真実、古英語 trēowth）に、「満ちた」を表す -ful が付いた語で、「真実に満ちた→正直な」を表す。",
+    "etym_chain": [
+      { "node": "trēowth", "sub": "真実・誠実", "era": "古英語" },
+      { "node": "truth", "sub": "真実", "era": "中英語" },
+      { "node": "truthful", "sub": "正直な", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a truthful answer", "ja": "正直な答え" },
+      { "en": "be truthful", "ja": "正直である" },
+      { "en": "a truthful account", "ja": "事実に即した説明" },
+      { "en": "completely truthful", "ja": "まったく正直な" },
+      { "en": "truthful and honest", "ja": "誠実で正直な" },
+      { "en": "a truthful person", "ja": "正直な人" }
+    ],
+    "related": [
+      { "en": "truth", "ja": "真実" },
+      { "en": "honest", "ja": "正直な" },
+      { "en": "sincere", "ja": "誠実な" },
+      { "en": "dishonest", "ja": "不正直な" }
+    ],
+    "faq": [
+      { "q": "truthful と honest の違いは？", "a": "どちらも『正直な』ですが、honest は『不正をしない・誠実な』という広い意味、truthful は特に『うそをつかず真実を述べる』点に重点があります。" },
+      { "q": "名詞・副詞は？", "a": "名詞は truth（真実）、副詞は truthfully（正直に・本当に）です。" }
+    ],
+    "quiz": [
+      { "q": "truthful の意味は？", "A": "正直な・真実を語る", "B": "うそつきの", "C": "怠け者の", "D": "臆病な", "correct": "A" },
+      { "q": "truthful の名詞形は？", "A": "truth", "B": "truthness", "C": "truthity", "D": "truthment", "correct": "A" }
+    ]
+  },
+  {
+    "english": "trypsin",
+    "pron": "ˈtrɪpsɪn",
+    "kana": "トリプシン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 tripsis(すりつぶし)+-in",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "生化学・医学語"],
+    "meaning_main": "トリプシン（タンパク質を分解する消化酵素）",
+    "description": "trypsin（トリプシン）は、すい臓から出る消化酵素の一つ。小腸でタンパク質を分解し、吸収しやすくする働きをします。意味・背景をやさしく解説します。",
+    "keywords": ["trypsin 意味", "トリプシン 英語", "消化酵素 英語", "タンパク質 分解"],
+    "meanings": [
+      { "hinshi": "【名詞】トリプシン", "note": "すい臓から分泌され、小腸でタンパク質を分解する消化酵素" }
+    ],
+    "usages": [
+      { "title": "① 消化酵素として", "desc": "タンパク質分解を表す", "example_en": "Trypsin breaks down proteins in the small intestine.", "example_ja": "トリプシンは小腸でタンパク質を分解する。" },
+      { "title": "② 生化学で", "desc": "実験・研究で使う", "example_en": "Trypsin is often used in cell culture experiments.", "example_ja": "トリプシンは細胞培養の実験でよく使われる。" }
+    ],
+    "warn": ["日常語ではなく生化学・医学の専門語", "-in はタンパク質・酵素によく付く接尾辞（insulin など）"],
+    "etym_note": "ギリシャ語 tripsis（すりつぶすこと）に、物質を表す -in が付いた語。分解する働きにちなむとされる。",
+    "etym_chain": [
+      { "node": "tripsis", "sub": "すりつぶし", "era": "ギリシャ語" },
+      { "node": "trypsin", "sub": "タンパク質分解酵素", "era": "19世紀" },
+      { "node": "trypsin", "sub": "トリプシン", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "trypsin breaks down protein", "ja": "トリプシンがタンパク質を分解する" },
+      { "en": "the enzyme trypsin", "ja": "酵素トリプシン" },
+      { "en": "trypsin activity", "ja": "トリプシンの働き" },
+      { "en": "digestive trypsin", "ja": "消化酵素トリプシン" },
+      { "en": "trypsin in the intestine", "ja": "腸内のトリプシン" },
+      { "en": "treat cells with trypsin", "ja": "細胞をトリプシンで処理する" }
+    ],
+    "related": [
+      { "en": "enzyme", "ja": "酵素" },
+      { "en": "pancreas", "ja": "すい臓" },
+      { "en": "protein", "ja": "タンパク質" },
+      { "en": "digestion", "ja": "消化" }
+    ],
+    "faq": [
+      { "q": "trypsin の働きは？", "a": "すい臓から分泌され、小腸でタンパク質を小さなペプチドやアミノ酸に分解する消化酵素です。栄養の吸収を助けます。" },
+      { "q": "実験でも使う？", "a": "はい。細胞培養で、器から細胞をはがすためにトリプシンがよく使われます。" }
+    ],
+    "quiz": [
+      { "q": "trypsin は何を分解する？", "A": "タンパク質", "B": "水", "C": "金属", "D": "石", "correct": "A" },
+      { "q": "trypsin はどこから分泌される？", "A": "すい臓", "B": "心臓", "C": "肺", "D": "骨", "correct": "A" }
+    ]
+  },
+  {
+    "english": "tsavorite",
+    "pron": "ˈsævəraɪt",
+    "kana": "ツァボライト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "地名 Tsavo(ツァボ)+-ite(鉱物)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "宝石・専門語"],
+    "meaning_main": "ツァボライト（鮮やかな緑色の宝石）",
+    "description": "tsavorite（ツァボライト）は、鮮やかな緑色のガーネットの一種。アフリカのケニア・タンザニアで見つかる希少な宝石です。名はツァボ国立公園に由来します。意味を解説。",
+    "keywords": ["tsavorite 意味", "ツァボライト 英語", "緑の宝石 英語", "ガーネット 種類"],
+    "meanings": [
+      { "hinshi": "【名詞】ツァボライト", "note": "鮮やかな緑色のガーネットの一種。東アフリカ産の希少な宝石" }
+    ],
+    "usages": [
+      { "title": "① 宝石として", "desc": "緑の宝石を表す", "example_en": "The ring featured a bright green tsavorite.", "example_ja": "その指輪には鮮やかな緑のツァボライトがはめ込まれていた。" },
+      { "title": "② 産地とともに", "desc": "希少な宝石として語る", "example_en": "Tsavorite is mined mainly in Kenya and Tanzania.", "example_ja": "ツァボライトは主にケニアとタンザニアで採掘される。" }
+    ],
+    "warn": ["ガーネット（garnet）の一種で、鮮やかな緑色が特徴", "-ite は鉱物名によく付く接尾辞"],
+    "etym_note": "ケニアのツァボ国立公園（Tsavo National Park）付近で発見されたことから、地名 Tsavo に鉱物を表す -ite が付いて名づけられた。",
+    "etym_chain": [
+      { "node": "Tsavo", "sub": "ツァボ(地名)", "era": "ケニア" },
+      { "node": "tsavorite", "sub": "ツァボライト", "era": "1968年発見" },
+      { "node": "tsavorite", "sub": "ツァボライト", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a green tsavorite", "ja": "緑のツァボライト" },
+      { "en": "a tsavorite ring", "ja": "ツァボライトの指輪" },
+      { "en": "rare tsavorite", "ja": "希少なツァボライト" },
+      { "en": "a tsavorite gemstone", "ja": "宝石ツァボライト" },
+      { "en": "mine tsavorite", "ja": "ツァボライトを採掘する" },
+      { "en": "a brilliant tsavorite", "ja": "きらめくツァボライト" }
+    ],
+    "related": [
+      { "en": "garnet", "ja": "ガーネット" },
+      { "en": "gemstone", "ja": "宝石" },
+      { "en": "emerald", "ja": "エメラルド" },
+      { "en": "mineral", "ja": "鉱物" }
+    ],
+    "faq": [
+      { "q": "tsavorite とはどんな宝石？", "a": "鮮やかな緑色をしたガーネットの一種です。東アフリカのケニア・タンザニアで採れる希少な宝石で、エメラルドに似た美しい緑が魅力です。" },
+      { "q": "名前の由来は？", "a": "ケニアのツァボ国立公園（Tsavo）付近で発見されたことにちなみます。" }
+    ],
+    "quiz": [
+      { "q": "tsavorite は何色の宝石？", "A": "鮮やかな緑", "B": "真っ赤", "C": "真っ黒", "D": "無色透明", "correct": "A" },
+      { "q": "tsavorite は何の一種？", "A": "ガーネット", "B": "ダイヤモンド", "C": "真珠", "D": "琥珀", "correct": "A" }
+    ]
+  },
+  {
+    "english": "tuberous",
+    "pron": "ˈtjuːbərəs",
+    "kana": "テューバラス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 tuber(こぶ・塊)",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "植物・医学語"],
+    "meaning_main": "塊茎の／こぶ状の／塊茎を持つ",
+    "description": "tuberous（テューバラス）は「塊茎（かいけい）の・こぶ状の」を表す形容詞。ジャガイモのような地下の塊（塊茎）に関する語です。意味・使い方をやさしく解説します。",
+    "keywords": ["tuberous 意味", "塊茎 英語", "tuber", "tuberous 使い方"],
+    "meanings": [
+      { "hinshi": "【形容詞】塊茎の・塊茎を持つ", "note": "ジャガイモのような地下の塊(塊茎)に関する・それを持つ" },
+      { "hinshi": "【形容詞】こぶ状の", "note": "ふくらんだ塊のような形の" }
+    ],
+    "usages": [
+      { "title": "① 植物で", "desc": "塊茎を持つ植物を表す", "example_en": "The dahlia is a tuberous plant.", "example_ja": "ダリアは塊茎を持つ植物だ。" },
+      { "title": "② 形状として", "desc": "こぶ状の形を表す", "example_en": "The root had a tuberous shape.", "example_ja": "その根はこぶ状の形をしていた。" }
+    ],
+    "warn": ["名詞は tuber（塊茎）。ジャガイモは代表的な tuber", "医学の tuberous sclerosis（結節性硬化症）でも使われる"],
+    "etym_note": "ラテン語 tuber（こぶ・塊・腫れ）に、形容詞化の -ous が付いた語。地下の塊（塊茎）に関することを表す。",
+    "etym_chain": [
+      { "node": "tuber", "sub": "こぶ・塊", "era": "ラテン語" },
+      { "node": "tuberous", "sub": "塊状の", "era": "近代英語" },
+      { "node": "tuberous", "sub": "塊茎の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a tuberous plant", "ja": "塊茎を持つ植物" },
+      { "en": "tuberous roots", "ja": "塊根" },
+      { "en": "a tuberous begonia", "ja": "球根ベゴニア" },
+      { "en": "a tuberous stem", "ja": "塊茎" },
+      { "en": "tuberous vegetables", "ja": "塊茎の野菜" },
+      { "en": "a tuberous shape", "ja": "こぶ状の形" }
+    ],
+    "related": [
+      { "en": "tuber", "ja": "塊茎" },
+      { "en": "potato", "ja": "ジャガイモ" },
+      { "en": "bulb", "ja": "球根" },
+      { "en": "root", "ja": "根" }
+    ],
+    "faq": [
+      { "q": "tuber（塊茎）とは？", "a": "ジャガイモのように、地下の茎や根がふくらんで栄養をためた塊のことです。tuberous はその『塊茎の・塊茎を持つ』を表す形容詞です。" },
+      { "q": "塊茎と球根の違いは？", "a": "塊茎（tuber）は茎や根がふくらんだ塊（ジャガイモなど）、球根（bulb）は葉が重なってできた玉（タマネギ・チューリップなど）です。" }
+    ],
+    "quiz": [
+      { "q": "tuberous の意味は？", "A": "塊茎の・こぶ状の", "B": "水中の", "C": "空を飛ぶ", "D": "金属の", "correct": "A" },
+      { "q": "代表的な tuber(塊茎)は？", "A": "ジャガイモ", "B": "りんご", "C": "米", "D": "レタス", "correct": "A" }
+    ]
+  },
+  {
+    "english": "tubular",
+    "pron": "ˈtjuːbjələr",
+    "kana": "テュービュラー",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "tube(管)+-ular",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "形状・技術語"],
+    "meaning_main": "管状の／筒形の",
+    "description": "tubular（テュービュラー）は「管状の・筒形の」を表す形容詞。中が空洞の管や筒のような形をしていることを表します。tube（管）から来ています。意味を解説します。",
+    "keywords": ["tubular 意味", "管状 英語", "tube 形容詞", "tubular 使い方"],
+    "meanings": [
+      { "hinshi": "【形容詞】管状の・筒形の", "note": "中が空洞の管や筒のような形をした" }
+    ],
+    "usages": [
+      { "title": "① 形状として", "desc": "管のような形を表す", "example_en": "The plant has long tubular flowers.", "example_ja": "その植物は細長い筒状の花を持つ。" },
+      { "title": "② 構造として", "desc": "筒形の構造を表す", "example_en": "The frame is made of tubular steel.", "example_ja": "その骨組みは管状の鋼でできている。" }
+    ],
+    "warn": ["名詞は tube（管・チューブ）", "医学・生物・工学など幅広く『管状の』を表すのに使う"],
+    "etym_note": "ラテン語 tubus（管）由来の tube に、形容詞化の -ular が付いた語で、「管の形の」を表す。",
+    "etym_chain": [
+      { "node": "tubus", "sub": "管", "era": "ラテン語" },
+      { "node": "tube", "sub": "管・チューブ", "era": "近代英語" },
+      { "node": "tubular", "sub": "管状の", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "tubular steel", "ja": "管状の鋼" },
+      { "en": "a tubular structure", "ja": "管状の構造" },
+      { "en": "tubular flowers", "ja": "筒状の花" },
+      { "en": "a tubular shape", "ja": "筒形" },
+      { "en": "a tubular frame", "ja": "管状のフレーム" },
+      { "en": "tubular bandage", "ja": "筒状の包帯" }
+    ],
+    "related": [
+      { "en": "tube", "ja": "管・チューブ" },
+      { "en": "cylindrical", "ja": "円筒形の" },
+      { "en": "pipe", "ja": "パイプ" },
+      { "en": "hollow", "ja": "中空の" }
+    ],
+    "faq": [
+      { "q": "tubular と cylindrical の違いは？", "a": "tubular は『管状の（中が空洞の筒）』、cylindrical は『円筒形の（中身は問わない）』です。tubular は中が空いていることを含意しやすいです。" },
+      { "q": "名詞形は？", "a": "tube（管・チューブ）です。" }
+    ],
+    "quiz": [
+      { "q": "tubular の意味は？", "A": "管状の・筒形の", "B": "四角い", "C": "平たい", "D": "とがった", "correct": "A" },
+      { "q": "tubular の名詞形は？", "A": "tube", "B": "tuber", "C": "tubion", "D": "tubage", "correct": "A" }
+    ]
+  },
+  {
+    "english": "tumescent",
+    "pron": "tjuːˈmesənt",
+    "kana": "テューメセント",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 tumescere(腫れ始める)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "医学・文語"],
+    "meaning_main": "腫れた／ふくれた／(文)大げさな",
+    "description": "tumescent（テューメセント）は「腫れた・ふくれた」を表す医学的・文語的な語。組織が腫れ上がった状態を表します。比喩で文章が「大げさな」意味にもなります。意味を解説。",
+    "keywords": ["tumescent 意味", "腫れた 英語", "tumescent 使い方", "ふくれた 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】腫れた・ふくれた", "note": "組織が液などでふくらんで腫れた状態。医学的な語" },
+      { "hinshi": "【形容詞】(文)大げさな", "note": "文章・表現がふくらみすぎて仰々しい" }
+    ],
+    "usages": [
+      { "title": "① 腫れた組織", "desc": "医学的なふくらみを表す", "example_en": "The tissue became tumescent after the injury.", "example_ja": "けがのあと、その組織は腫れ上がった。" },
+      { "title": "② 大げさな文章", "desc": "仰々しい表現を表す", "example_en": "His tumescent prose was hard to read.", "example_ja": "彼の大げさな文章は読みにくかった。" }
+    ],
+    "warn": ["日常ではまれで、医学・文語の語。ふつうは swollen（腫れた）を使う", "名詞は tumescence（腫れ・ふくらみ）"],
+    "etym_note": "ラテン語 tumescere（tumere「腫れる」の起動形→腫れ始める）に由来する。同語源に tumor（腫瘍）がある。",
+    "etym_chain": [
+      { "node": "tumere", "sub": "腫れる", "era": "ラテン語" },
+      { "node": "tumescere", "sub": "腫れ始める", "era": "ラテン語" },
+      { "node": "tumescent", "sub": "腫れた", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "tumescent tissue", "ja": "腫れた組織" },
+      { "en": "become tumescent", "ja": "腫れ上がる" },
+      { "en": "tumescent skin", "ja": "腫れた皮膚" },
+      { "en": "a tumescent style", "ja": "大げさな文体" },
+      { "en": "tumescent prose", "ja": "仰々しい文章" },
+      { "en": "slightly tumescent", "ja": "わずかに腫れた" }
+    ],
+    "related": [
+      { "en": "swollen", "ja": "腫れた" },
+      { "en": "tumescence", "ja": "腫れ・ふくらみ" },
+      { "en": "inflamed", "ja": "炎症を起こした" },
+      { "en": "bloated", "ja": "ふくれた" }
+    ],
+    "faq": [
+      { "q": "tumescent と swollen の違いは？", "a": "意味はほぼ同じ『腫れた』ですが、tumescent は医学的・文語的で硬い語、swollen の方が日常的で一般的です。" },
+      { "q": "名詞形は？", "a": "tumescence（腫れ・ふくらみ）です。" }
+    ],
+    "quiz": [
+      { "q": "tumescent の意味は？", "A": "腫れた・ふくれた", "B": "しぼんだ", "C": "乾いた", "D": "冷たい", "correct": "A" },
+      { "q": "tumescent の日常的な言い換えは？", "A": "swollen", "B": "shrunken", "C": "frozen", "D": "broken", "correct": "A" }
+    ]
+  },
+  {
+    "english": "tumid",
+    "pron": "ˈtjuːmɪd",
+    "kana": "テューミッド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 tumidus(膨れた)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "医学・文語"],
+    "meaning_main": "膨れた／腫れた／(文章が)仰々しい",
+    "description": "tumid（テューミッド）は「膨れた・腫れた」を表す医学的・文語的な語。また文章や表現が「仰々しい・大げさな」意味でも使われます。意味・使い方を解説します。",
+    "keywords": ["tumid 意味", "膨れた 英語", "tumid 使い方", "仰々しい 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】膨れた・腫れた", "note": "組織などが膨らんで腫れた状態" },
+      { "hinshi": "【形容詞】(文章が)仰々しい", "note": "大げさで空虚な表現の" }
+    ],
+    "usages": [
+      { "title": "① 腫れた状態", "desc": "膨らみを表す", "example_en": "The river was tumid after the heavy rain.", "example_ja": "大雨のあと、川は増水して膨れ上がっていた。" },
+      { "title": "② 仰々しい文章", "desc": "大げさな表現を表す", "example_en": "The speech was full of tumid phrases.", "example_ja": "その演説は仰々しい言い回しばかりだった。" }
+    ],
+    "warn": ["日常ではまれで、医学・文語の語。ふつうは swollen を使う", "tumescent（腫れ始めた）と近いが、tumid は『すでに膨れた状態』"],
+    "etym_note": "ラテン語 tumidus（膨れた、tumere「腫れる」から）に由来する。tumescent や tumor と同語源。",
+    "etym_chain": [
+      { "node": "tumere", "sub": "腫れる", "era": "ラテン語" },
+      { "node": "tumidus", "sub": "膨れた", "era": "ラテン語" },
+      { "node": "tumid", "sub": "膨れた・仰々しい", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a tumid river", "ja": "増水した川" },
+      { "en": "tumid tissue", "ja": "腫れた組織" },
+      { "en": "tumid language", "ja": "仰々しい言葉" },
+      { "en": "a tumid style", "ja": "大げさな文体" },
+      { "en": "become tumid", "ja": "膨れる" },
+      { "en": "tumid and pompous", "ja": "仰々しく気取った" }
+    ],
+    "related": [
+      { "en": "swollen", "ja": "腫れた" },
+      { "en": "tumescent", "ja": "腫れ始めた" },
+      { "en": "pompous", "ja": "気取った・仰々しい" },
+      { "en": "bombastic", "ja": "大げさな" }
+    ],
+    "faq": [
+      { "q": "tumid と tumescent の違いは？", "a": "tumid は『すでに膨れた状態』、tumescent は『腫れ始めた・腫れつつある』ことを表します。どちらも硬い語で、日常では swollen が一般的です。" },
+      { "q": "文章に使うと？", "a": "『仰々しい・大げさで空虚な』という意味になります。tumid prose（仰々しい文章）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "tumid の意味は？", "A": "膨れた・腫れた", "B": "しぼんだ", "C": "透明な", "D": "軽い", "correct": "A" },
+      { "q": "tumid を文章に使うと？", "A": "仰々しい・大げさな", "B": "簡潔な", "C": "正確な", "D": "面白い", "correct": "A" }
+    ]
+  },
+  {
+    "english": "tumulus",
+    "pron": "ˈtjuːmjələs",
+    "kana": "テューミュラス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 tumulus(小さな丘・墳丘)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "考古・歴史語"],
+    "meaning_main": "墳丘／古墳（土を盛った古代の墓）",
+    "description": "tumulus（テューミュラス）は「墳丘・古墳」。土や石を盛って作られた、古代の墓のことです。日本の古墳もこれにあたります。複数形は tumuli。意味を解説します。",
+    "keywords": ["tumulus 意味", "墳丘 英語", "古墳 英語", "tumuli"],
+    "meanings": [
+      { "hinshi": "【名詞】墳丘・古墳", "note": "土や石を盛って作られた古代の墓。複数形は tumuli" }
+    ],
+    "usages": [
+      { "title": "① 古代の墓", "desc": "盛り土の墓を表す", "example_en": "Archaeologists excavated an ancient tumulus.", "example_ja": "考古学者は古代の墳丘を発掘した。" },
+      { "title": "② 遺跡として", "desc": "歴史的な遺構を表す", "example_en": "The hill is actually a burial tumulus.", "example_ja": "その丘は実は埋葬用の墳丘だ。" }
+    ],
+    "warn": ["複数形は tumuli（テューミュライ）", "日本の『古墳』も英語では tumulus や burial mound と説明できる"],
+    "etym_note": "ラテン語 tumulus（小さな丘・墳丘、tumere「盛り上がる・腫れる」から）に由来する。土を盛り上げた墓を指す。",
+    "etym_chain": [
+      { "node": "tumere", "sub": "盛り上がる", "era": "ラテン語" },
+      { "node": "tumulus", "sub": "小さな丘・墳丘", "era": "ラテン語" },
+      { "node": "tumulus", "sub": "墳丘・古墳", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an ancient tumulus", "ja": "古代の墳丘" },
+      { "en": "a burial tumulus", "ja": "埋葬用の墳丘" },
+      { "en": "excavate a tumulus", "ja": "墳丘を発掘する" },
+      { "en": "a grassy tumulus", "ja": "草に覆われた墳丘" },
+      { "en": "the tumuli of the region", "ja": "その地域の古墳群" },
+      { "en": "a large tumulus", "ja": "大きな墳丘" }
+    ],
+    "related": [
+      { "en": "mound", "ja": "塚・盛り土" },
+      { "en": "burial", "ja": "埋葬" },
+      { "en": "grave", "ja": "墓" },
+      { "en": "archaeology", "ja": "考古学" }
+    ],
+    "faq": [
+      { "q": "tumulus とは？", "a": "土や石を盛り上げて作られた古代の墓（墳丘）のことです。ヨーロッパの古墳や、日本の古墳も英語で tumulus と説明できます。" },
+      { "q": "複数形は？", "a": "tumuli（テューミュライ）です。ラテン語系の -us → -i の変化です。" }
+    ],
+    "quiz": [
+      { "q": "tumulus の意味は？", "A": "土を盛った古代の墓(墳丘)", "B": "高い塔", "C": "深い井戸", "D": "石の橋", "correct": "A" },
+      { "q": "tumulus の複数形は？", "A": "tumuli", "B": "tumuluses only", "C": "tumula", "D": "tumulae", "correct": "A" }
+    ]
+  },
+  {
+    "english": "tun",
+    "pron": "tʌn",
+    "kana": "タン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 tunne(大きな樽)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "古語・専門語"],
+    "meaning_main": "大樽（酒などを入れる大きな樽・容量の単位）",
+    "description": "tun（タン）は「大樽」。ビールやワインなどを入れる大きな樽、またその容量を表す古い単位です。ton（トン、重さ）とは別の語です。意味・使い方を解説します。",
+    "keywords": ["tun 意味", "大樽 英語", "tun ton 違い", "醸造 樽 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】大樽", "note": "ビール・ワインなどを入れる大きな樽。醸造で使う" },
+      { "hinshi": "【名詞】(古)容量の単位", "note": "液体の大きな容量を表す古い単位" }
+    ],
+    "usages": [
+      { "title": "① 醸造の大樽", "desc": "大きな樽を表す", "example_en": "The brewery has huge tuns for fermenting beer.", "example_ja": "その醸造所にはビールを発酵させる巨大な大樽がある。" },
+      { "title": "② 容量として", "desc": "古い単位として使う", "example_en": "A tun was an old measure for wine.", "example_ja": "タンはワインの古い容量の単位だった。" }
+    ],
+    "warn": ["ton（トン、重さの単位）と発音・つづりが似るが別の語", "醸造・歴史の文脈で使う専門的・古風な語"],
+    "etym_note": "古英語 tunne（大きな樽）に由来する。ton（重さのトン）も元は同じ『樽』の語から分かれたとされる。",
+    "etym_chain": [
+      { "node": "tunne", "sub": "大きな樽", "era": "古英語" },
+      { "node": "tun", "sub": "大樽", "era": "中英語" },
+      { "node": "tun", "sub": "大樽・容量の単位", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a wooden tun", "ja": "木製の大樽" },
+      { "en": "a mash tun", "ja": "マッシュタン(仕込み槽)" },
+      { "en": "a tun of wine", "ja": "大樽1杯のワイン" },
+      { "en": "fill the tun", "ja": "大樽を満たす" },
+      { "en": "a large tun", "ja": "大きな樽" },
+      { "en": "an old tun", "ja": "古い大樽" }
+    ],
+    "related": [
+      { "en": "barrel", "ja": "樽" },
+      { "en": "cask", "ja": "樽" },
+      { "en": "brewery", "ja": "醸造所" },
+      { "en": "ton", "ja": "トン(重さ)" }
+    ],
+    "faq": [
+      { "q": "tun と ton の違いは？", "a": "tun は『大きな樽・液体の容量の単位』、ton は『重さの単位（トン）』です。発音・つづりが似ていますが別の語です。" },
+      { "q": "mash tun とは？", "a": "ビールやウイスキーの製造で、麦芽をお湯と混ぜて糖化させる『仕込み槽（マッシュタン）』のことです。" }
+    ],
+    "quiz": [
+      { "q": "tun の意味は？", "A": "酒などを入れる大樽", "B": "重さの単位", "C": "小さなコップ", "D": "皿", "correct": "A" },
+      { "q": "tun と混同しやすい『重さの単位』は？", "A": "ton", "B": "tin", "C": "tan", "D": "ten", "correct": "A" }
+    ]
+  },
+  {
+    "english": "tunnel",
+    "pron": "ˈtʌnəl",
+    "kana": "タネル",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "古フランス語 tonel(樽)",
+    "ld_level": "3級",
+    "badges": ["小学生〜", "英検3級", "CEFR A2", "基本語"],
+    "meaning_main": "トンネル／地下道／穴を掘って進む",
+    "description": "tunnel（タネル）は「トンネル・地下道」。山や地下を通り抜けるために掘られた通路です。動詞で「トンネルを掘る・掘り進む」意味にもなります。意味を解説します。",
+    "keywords": ["tunnel 意味", "トンネル 英語", "地下道 英語", "tunnel 使い方"],
+    "meanings": [
+      { "hinshi": "【名詞】トンネル・地下道", "note": "山や地下を通り抜けるために掘られた通路" },
+      { "hinshi": "【動詞】トンネルを掘る・掘り進む", "note": "地面や物を掘って進む" }
+    ],
+    "usages": [
+      { "title": "① 通路として", "desc": "掘られた通路を表す", "example_en": "The train went through a long tunnel.", "example_ja": "列車は長いトンネルを通り抜けた。" },
+      { "title": "② 掘り進む(動詞)", "desc": "掘る動作を表す", "example_en": "The moles tunneled under the garden.", "example_ja": "モグラは庭の下を掘り進んだ。" }
+    ],
+    "warn": ["light at the end of the tunnel（トンネルの先の光＝苦境の先の希望）は有名な表現", "つづりは -nn- に注意（tunnel）"],
+    "etym_note": "古フランス語 tonel（小さな樽→筒状のもの）に由来する。筒のような通路を指すようになった。tun（樽）と語源的につながる。",
+    "etym_chain": [
+      { "node": "tonel", "sub": "小さな樽・筒", "era": "古フランス語" },
+      { "node": "tunnel", "sub": "筒状の通路", "era": "中英語" },
+      { "node": "tunnel", "sub": "トンネル", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "go through a tunnel", "ja": "トンネルを通り抜ける" },
+      { "en": "dig a tunnel", "ja": "トンネルを掘る" },
+      { "en": "a railway tunnel", "ja": "鉄道トンネル" },
+      { "en": "light at the end of the tunnel", "ja": "苦境の先の希望" },
+      { "en": "an underground tunnel", "ja": "地下トンネル" },
+      { "en": "a long tunnel", "ja": "長いトンネル" }
+    ],
+    "related": [
+      { "en": "cave", "ja": "洞窟" },
+      { "en": "underground", "ja": "地下の" },
+      { "en": "passage", "ja": "通路" },
+      { "en": "dig", "ja": "掘る" }
+    ],
+    "faq": [
+      { "q": "light at the end of the tunnel とは？", "a": "「トンネルの先の光」という比喩で、『長く苦しい状況の先に見えてきた希望・出口』を表す有名な表現です。" },
+      { "q": "動詞でも使う？", "a": "はい。「トンネルを掘る・掘り進む」という意味の動詞にもなります（例：tunnel under a wall 壁の下を掘り進む）。" }
+    ],
+    "quiz": [
+      { "q": "tunnel の意味は？", "A": "トンネル・地下道", "B": "橋", "C": "塔", "D": "階段", "correct": "A" },
+      { "q": "light at the end of the tunnel の意味は？", "A": "苦境の先の希望", "B": "危険の始まり", "C": "夜の暗さ", "D": "電気の節約", "correct": "A" }
+    ]
+  },
+  {
+    "english": "turgescent",
+    "pron": "tɜːrˈdʒesənt",
+    "kana": "タージェセント",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 turgescere(膨れ始める)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "医学・植物・文語"],
+    "meaning_main": "膨張しつつある／膨れてきた／(文)大げさな",
+    "description": "turgescent（タージェセント）は「膨張しつつある・膨れてきた」を表す専門的・文語的な語。組織や細胞がふくらむこと、また文章の大げさなさまも表します。意味を解説。",
+    "keywords": ["turgescent 意味", "膨張 英語", "turgescent 使い方", "膨れる 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】膨張しつつある・膨れてきた", "note": "組織や細胞が液などでふくらんでいく状態" },
+      { "hinshi": "【形容詞】(文)大げさな", "note": "文章・表現が仰々しくふくらんだ" }
+    ],
+    "usages": [
+      { "title": "① 膨らむ組織", "desc": "膨張していく様子を表す", "example_en": "The plant cells became turgescent with water.", "example_ja": "植物の細胞は水で膨れていった。" },
+      { "title": "② 大げさな表現", "desc": "仰々しい文章を表す", "example_en": "The essay's turgescent style put readers off.", "example_ja": "そのエッセイの大げさな文体は読者を遠ざけた。" }
+    ],
+    "warn": ["日常ではまず使わない専門・文語の語", "tumescent（腫れ始めた）とほぼ同義。植物学では turgor（膨圧）と関連"],
+    "etym_note": "ラテン語 turgescere（turgere「膨れる」の起動形→膨れ始める）に由来する。turgor（膨圧）と同語源。",
+    "etym_chain": [
+      { "node": "turgere", "sub": "膨れる", "era": "ラテン語" },
+      { "node": "turgescere", "sub": "膨れ始める", "era": "ラテン語" },
+      { "node": "turgescent", "sub": "膨張しつつある", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "turgescent cells", "ja": "膨れた細胞" },
+      { "en": "become turgescent", "ja": "膨れてくる" },
+      { "en": "turgescent tissue", "ja": "膨張した組織" },
+      { "en": "a turgescent style", "ja": "大げさな文体" },
+      { "en": "turgescent prose", "ja": "仰々しい文章" },
+      { "en": "fully turgescent", "ja": "十分に膨れた" }
+    ],
+    "related": [
+      { "en": "turgor", "ja": "膨圧" },
+      { "en": "tumescent", "ja": "腫れ始めた" },
+      { "en": "swell", "ja": "膨らむ" },
+      { "en": "bombastic", "ja": "大げさな" }
+    ],
+    "faq": [
+      { "q": "turgescent とは？", "a": "組織や細胞が液などでふくらんでいく『膨張しつつある』状態を表す専門的な語です。文章については『仰々しい・大げさな』意味でも使われます。" },
+      { "q": "turgor との関係は？", "a": "同語源です。turgor（膨圧）は植物の細胞が水を含んで張った状態の圧力で、turgescent はその『膨れていく』様子を表します。" }
+    ],
+    "quiz": [
+      { "q": "turgescent の意味は？", "A": "膨張しつつある・膨れてきた", "B": "しぼんでいく", "C": "凍っていく", "D": "乾いていく", "correct": "A" },
+      { "q": "turgescent と関連する植物学の語は？", "A": "turgor(膨圧)", "B": "photo(光)", "C": "root(根)", "D": "seed(種)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "turgor",
+    "pron": "ˈtɜːrɡər",
+    "kana": "ターガー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 turgor(膨れ)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "生物・医学語"],
+    "meaning_main": "膨圧（細胞が水を含んで張る圧力）／(皮膚の)張り",
+    "description": "turgor（ターガー）は「膨圧」。植物の細胞が水を含んでぴんと張る圧力のことです。医学では皮膚の張り（水分状態の指標）も指します。意味・背景を解説します。",
+    "keywords": ["turgor 意味", "膨圧 英語", "turgor pressure", "皮膚の張り 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】膨圧", "note": "植物細胞が水を含んで細胞壁を押し、ぴんと張る圧力。不可算名詞" },
+      { "hinshi": "【名詞】(皮膚の)張り", "note": "医学で、皮膚の張り具合。体の水分状態を示す" }
+    ],
+    "usages": [
+      { "title": "① 植物の膨圧", "desc": "細胞の張りを表す", "example_en": "Loss of turgor makes the plant wilt.", "example_ja": "膨圧が失われると植物はしおれる。" },
+      { "title": "② 皮膚の張り", "desc": "水分状態の指標を表す", "example_en": "The doctor checked the skin turgor for dehydration.", "example_ja": "医師は脱水を調べるために皮膚の張りを確認した。" }
+    ],
+    "warn": ["日常語ではなく生物・医学の専門語", "turgor pressure（膨圧）という句でよく使う"],
+    "etym_note": "ラテン語 turgor（膨れ、turgere「膨れる」から）に由来する。細胞が水で張る状態を表す生物学用語になった。",
+    "etym_chain": [
+      { "node": "turgere", "sub": "膨れる", "era": "ラテン語" },
+      { "node": "turgor", "sub": "膨れ", "era": "ラテン語" },
+      { "node": "turgor", "sub": "膨圧", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "turgor pressure", "ja": "膨圧" },
+      { "en": "loss of turgor", "ja": "膨圧の低下" },
+      { "en": "cell turgor", "ja": "細胞の膨圧" },
+      { "en": "skin turgor", "ja": "皮膚の張り" },
+      { "en": "maintain turgor", "ja": "膨圧を保つ" },
+      { "en": "reduced turgor", "ja": "低下した張り" }
+    ],
+    "related": [
+      { "en": "cell", "ja": "細胞" },
+      { "en": "wilt", "ja": "しおれる" },
+      { "en": "pressure", "ja": "圧力" },
+      { "en": "hydration", "ja": "水分補給・水分状態" }
+    ],
+    "faq": [
+      { "q": "turgor(膨圧)とは？", "a": "植物の細胞が水を含んで細胞壁を内側から押し、ぴんと張る圧力のことです。膨圧が高いと植物はしゃんと立ち、失われるとしおれます。" },
+      { "q": "医学での skin turgor とは？", "a": "皮膚の張り具合のことで、体の水分状態（脱水しているかどうか）を調べる目安になります。" }
+    ],
+    "quiz": [
+      { "q": "turgor の意味は？", "A": "細胞が水で張る圧力(膨圧)", "B": "温度", "C": "音の高さ", "D": "光の色", "correct": "A" },
+      { "q": "膨圧が失われると植物はどうなる？", "A": "しおれる", "B": "花が咲く", "C": "実がなる", "D": "背が伸びる", "correct": "A" }
+    ]
+  },
+  {
+    "english": "turk",
+    "pron": "tɜːrk",
+    "kana": "ターク",
+    "hinshi": "名詞（固有名詞）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "トルコ系の民族名",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "民族・国籍語"],
+    "meaning_main": "トルコ人（トルコの国民・トルコ系の人）",
+    "description": "Turk（ターク）は「トルコ人」。トルコの国民や、トルコ系の民族に属する人を指します。国名は Turkey、形容詞・言語は Turkish です。意味・使い方を解説します。",
+    "keywords": ["Turk 意味", "トルコ人 英語", "Turkish 違い", "Turkey 国"],
+    "meanings": [
+      { "hinshi": "【固有名詞】トルコ人", "note": "トルコの国民、またはトルコ系の民族に属する人" }
+    ],
+    "usages": [
+      { "title": "① トルコ人を指す", "desc": "国籍・民族を表す", "example_en": "Many Turks live in Germany.", "example_ja": "多くのトルコ人がドイツに住んでいる。" },
+      { "title": "② 民族として", "desc": "トルコ系の人を表す", "example_en": "The Turks have a long and rich history.", "example_ja": "トルコ人は長く豊かな歴史を持つ。" }
+    ],
+    "warn": ["固有名詞なので常に大文字で書く（Turk）", "国名は Turkey、形容詞・言語は Turkish（トルコの・トルコ語）"],
+    "etym_note": "中央アジア起源のトルコ系民族の名に由来する。国名 Turkey（トルコ人の土地）もこの語から来ている。",
+    "etym_chain": [
+      { "node": "Türk", "sub": "トルコ系民族", "era": "中央アジア" },
+      { "node": "Turk", "sub": "トルコ人", "era": "中英語" },
+      { "node": "Turk", "sub": "トルコ人", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a young Turk", "ja": "若いトルコ人" },
+      { "en": "the Turks", "ja": "トルコの人々" },
+      { "en": "Turks and Greeks", "ja": "トルコ人とギリシャ人" },
+      { "en": "the Ottoman Turks", "ja": "オスマン・トルコ人" },
+      { "en": "many Turks", "ja": "多くのトルコ人" },
+      { "en": "a Turk by birth", "ja": "生まれながらのトルコ人" }
+    ],
+    "related": [
+      { "en": "Turkish", "ja": "トルコの・トルコ語" },
+      { "en": "Turkey", "ja": "トルコ(国)" },
+      { "en": "Istanbul", "ja": "イスタンブール" },
+      { "en": "Ottoman", "ja": "オスマンの" }
+    ],
+    "faq": [
+      { "q": "Turk と Turkish の違いは？", "a": "Turk は名詞で『トルコ人（人）』、Turkish は形容詞で『トルコの』、また名詞で『トルコ語』を表します。" },
+      { "q": "国名は？", "a": "Turkey（トルコ）です。同じつづりの turkey（小文字）は鳥の『七面鳥』を表す別の語です。" }
+    ],
+    "quiz": [
+      { "q": "Turk の意味は？", "A": "トルコ人", "B": "トルコ語", "C": "トルコの料理", "D": "トルコの通貨", "correct": "A" },
+      { "q": "『トルコの・トルコ語』を表す語は？", "A": "Turkish", "B": "Turk", "C": "Turkey", "D": "Turker", "correct": "A" }
+    ]
+  },
+  {
+    "english": "turning",
+    "pron": "ˈtɜːrnɪŋ",
+    "kana": "ターニング",
+    "hinshi": "名詞 / 動詞(現在分詞)",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "turn(回る・曲がる)+-ing",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "頻出語"],
+    "meaning_main": "曲がること／曲がり角／回転／(turnの現在分詞)回っている",
+    "description": "turning（ターニング）は turn（回る・曲がる）の -ing 形。「曲がること・曲がり角・回転」を表します。turning point（転機）で特に有名です。意味・使い方を解説。",
+    "keywords": ["turning 意味", "曲がり角 英語", "turning point", "turn 現在分詞"],
+    "meanings": [
+      { "hinshi": "【名詞】曲がり角", "note": "道が曲がる地点。(英)交差点や横道の入り口" },
+      { "hinshi": "【名詞】曲がること・回転", "note": "向きを変えること・回ること" },
+      { "hinshi": "【動詞】turn の現在分詞", "note": "「回っている・曲がっている」" }
+    ],
+    "usages": [
+      { "title": "① 曲がり角", "desc": "道の曲がる地点を表す", "example_en": "Take the first turning on the left.", "example_ja": "最初の曲がり角を左に曲がってください。" },
+      { "title": "② turning point", "desc": "転機を表す決まり文句", "example_en": "That was a turning point in her life.", "example_ja": "それは彼女の人生の転機だった。" }
+    ],
+    "warn": ["turning point（転機・分岐点）は最頻出の表現", "「曲がり角」の意味は主にイギリス英語（米では turn）"],
+    "etym_note": "ラテン語 tornare（ろくろで回す）由来の turn（回る・曲がる）に、-ing が付いて名詞・動詞になった語。",
+    "etym_chain": [
+      { "node": "tornare", "sub": "ろくろで回す", "era": "ラテン語" },
+      { "node": "turn", "sub": "回る・曲がる", "era": "中英語" },
+      { "node": "turning", "sub": "曲がること・曲がり角", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a turning point", "ja": "転機・分岐点" },
+      { "en": "the first turning", "ja": "最初の曲がり角" },
+      { "en": "take a turning", "ja": "曲がり角を曲がる" },
+      { "en": "a sharp turning", "ja": "急な曲がり角" },
+      { "en": "the turning of the seasons", "ja": "季節の移り変わり" },
+      { "en": "miss the turning", "ja": "曲がり角を見落とす" }
+    ],
+    "related": [
+      { "en": "turn", "ja": "回る・曲がる" },
+      { "en": "corner", "ja": "角" },
+      { "en": "curve", "ja": "カーブ" },
+      { "en": "junction", "ja": "分岐・交差点" }
+    ],
+    "faq": [
+      { "q": "turning point とは？", "a": "「転機・分岐点」という意味です。物事が大きく変わるきっかけとなる重要な時点を指します。人生や歴史の話でよく使われます。" },
+      { "q": "「曲がり角」の意味は？", "a": "主にイギリス英語で、道の曲がる地点・横道の入り口を turning と言います。Take the second turning.（2番目の曲がり角を曲がって）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "turning point の意味は？", "A": "転機・分岐点", "B": "出発点", "C": "終着点", "D": "中間点", "correct": "A" },
+      { "q": "(英)take the first turning の意味は？", "A": "最初の曲がり角を曲がる", "B": "最初に到着する", "C": "最初に始める", "D": "最初に止まる", "correct": "A" }
+    ]
+  },
+  {
+    "english": "turntable",
+    "pron": "ˈtɜːrnteɪbəl",
+    "kana": "ターンテーブル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "turn(回る)+table(台)",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "機器・音楽語"],
+    "meaning_main": "ターンテーブル（レコードプレーヤーの回転台）／回転台",
+    "description": "turntable（ターンテーブル）は、レコードをのせて回す「回転台（レコードプレーヤー）」。また、物を回す回転台全般も指します。意味・使い方をやさしく解説します。",
+    "keywords": ["turntable 意味", "ターンテーブル 英語", "レコード 回転台", "turntable 使い方"],
+    "meanings": [
+      { "hinshi": "【名詞】ターンテーブル(レコードの回転台)", "note": "レコードをのせて回すプレーヤー・その回転する円盤" },
+      { "hinshi": "【名詞】回転台", "note": "物や車両などを回すための回転する台" }
+    ],
+    "usages": [
+      { "title": "① レコードプレーヤー", "desc": "音楽再生機を表す", "example_en": "He plays vinyl records on his turntable.", "example_ja": "彼はターンテーブルでレコードをかける。" },
+      { "title": "② 回転台として", "desc": "回す台を表す", "example_en": "The camera sat on a rotating turntable.", "example_ja": "カメラは回転するターンテーブルの上に置かれていた。" }
+    ],
+    "warn": ["turn（回る）＋ table（台）で「回る台」", "DJが使う機器としても turntable と呼ぶ"],
+    "etym_note": "turn（回る）と table（台）を組み合わせた複合語で、「回転する台」を表す。レコードプレーヤーの回転台として定着した。",
+    "etym_chain": [
+      { "node": "turn + table", "sub": "回る + 台", "era": "近代英語" },
+      { "node": "turntable", "sub": "回転台", "era": "19世紀" },
+      { "node": "turntable", "sub": "ターンテーブル", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a record turntable", "ja": "レコードのターンテーブル" },
+      { "en": "play a record on the turntable", "ja": "ターンテーブルでレコードをかける" },
+      { "en": "a rotating turntable", "ja": "回転するターンテーブル" },
+      { "en": "a DJ turntable", "ja": "DJ用ターンテーブル" },
+      { "en": "spin the turntable", "ja": "ターンテーブルを回す" },
+      { "en": "a microwave turntable", "ja": "電子レンジの回転皿" }
+    ],
+    "related": [
+      { "en": "record", "ja": "レコード" },
+      { "en": "vinyl", "ja": "レコード盤" },
+      { "en": "player", "ja": "プレーヤー" },
+      { "en": "rotate", "ja": "回転する" }
+    ],
+    "faq": [
+      { "q": "turntable とは？", "a": "レコードをのせて回す回転台（レコードプレーヤー）のことです。針でレコードの溝を読んで音を再生します。DJ が音楽をかける機器としても使われます。" },
+      { "q": "ほかの意味は？", "a": "物や車両を回転させる『回転台』全般も指します。電子レンジの回る皿も turntable と呼ばれます。" }
+    ],
+    "quiz": [
+      { "q": "turntable の主な意味は？", "A": "レコードの回転台", "B": "食卓の椅子", "C": "本棚", "D": "冷蔵庫", "correct": "A" },
+      { "q": "turntable を構成する2語は？", "A": "turn + table", "B": "town + table", "C": "turn + cable", "D": "tune + table", "correct": "A" }
+    ]
+  },
+  {
+    "english": "twinkling",
+    "pron": "ˈtwɪŋklɪŋ",
+    "kana": "トゥウィンクリング",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞・形容詞",
+    "ld_etym": "twinkle(きらめく)+-ing",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "感覚・文語"],
+    "meaning_main": "きらめき／またたき／(a twinklingで)一瞬",
+    "description": "twinkling（トゥウィンクリング）は「きらめき・またたき」を表す名詞・形容詞。星や光がちらちら輝くさまを表します。in a twinkling で「一瞬で」の意味にもなります。",
+    "keywords": ["twinkling 意味", "きらめき 英語", "twinkle 名詞", "in a twinkling"],
+    "meanings": [
+      { "hinshi": "【名詞】きらめき・またたき", "note": "星や光がちらちらと輝くこと" },
+      { "hinshi": "【名詞】一瞬", "note": "in a twinkling / in the twinkling of an eye で「あっという間に」" },
+      { "hinshi": "【形容詞】きらめく", "note": "ちらちら光る" }
+    ],
+    "usages": [
+      { "title": "① 星のきらめき", "desc": "ちらちら光ることを表す", "example_en": "The twinkling of the stars filled the night sky.", "example_ja": "星のきらめきが夜空を満たしていた。" },
+      { "title": "② 一瞬で", "desc": "あっという間を表す", "example_en": "It was over in a twinkling.", "example_ja": "それはあっという間に終わった。" }
+    ],
+    "warn": ["in the twinkling of an eye（まばたきの間に＝一瞬で）は有名な表現", "動詞は twinkle（きらめく・またたく）"],
+    "etym_note": "古英語 twinclian（またたく）由来の twinkle に、-ing が付いた語。「まばたき」の意味から「一瞬」の比喩も生まれた。",
+    "etym_chain": [
+      { "node": "twinclian", "sub": "またたく", "era": "古英語" },
+      { "node": "twinkle", "sub": "きらめく", "era": "中英語" },
+      { "node": "twinkling", "sub": "きらめき・一瞬", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the twinkling of the stars", "ja": "星のきらめき" },
+      { "en": "in a twinkling", "ja": "一瞬で" },
+      { "en": "in the twinkling of an eye", "ja": "まばたきの間に・一瞬で" },
+      { "en": "twinkling lights", "ja": "きらめく光" },
+      { "en": "a twinkling star", "ja": "きらめく星" },
+      { "en": "the twinkling of the water", "ja": "水面のきらめき" }
+    ],
+    "related": [
+      { "en": "twinkle", "ja": "きらめく" },
+      { "en": "sparkle", "ja": "きらめき" },
+      { "en": "glitter", "ja": "きらきら光る" },
+      { "en": "instant", "ja": "瞬間" }
+    ],
+    "faq": [
+      { "q": "in the twinkling of an eye とは？", "a": "「まばたきの間に＝あっという間に・一瞬で」という意味の慣用表現です。in a twinkling とも言います。" },
+      { "q": "動詞形は？", "a": "twinkle（きらめく・またたく）です。童謡 Twinkle, Twinkle, Little Star でおなじみです。" }
+    ],
+    "quiz": [
+      { "q": "twinkling の意味は？", "A": "きらめき・またたき", "B": "うなり声", "C": "揺れ", "D": "におい", "correct": "A" },
+      { "q": "in the twinkling of an eye の意味は？", "A": "一瞬で", "B": "ゆっくりと", "C": "毎日", "D": "永遠に", "correct": "A" }
+    ]
+  },
+  {
+    "english": "twitter",
+    "pron": "ˈtwɪtər",
+    "kana": "トゥウィッター",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "擬音語（鳥のさえずり）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "擬音・日常語"],
+    "meaning_main": "(鳥が)さえずる／ぺちゃくちゃしゃべる／さえずり",
+    "description": "twitter（トゥウィッター）は「(鳥が)さえずる」を表す擬音語由来の語。転じて人が「ぺちゃくちゃしゃべる」意味にもなります。名詞では「さえずり」を表します。意味を解説。",
+    "keywords": ["twitter 意味", "さえずる 英語", "twitter 使い方", "鳥 鳴く 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】(鳥が)さえずる", "note": "小鳥がちゅんちゅんと鳴く" },
+      { "hinshi": "【動詞】ぺちゃくちゃしゃべる", "note": "人が興奮して早口で軽くしゃべる" },
+      { "hinshi": "【名詞】さえずり・くすくす声", "note": "鳥の鳴き声や、軽いおしゃべり" }
+    ],
+    "usages": [
+      { "title": "① 鳥のさえずり", "desc": "小鳥が鳴くことを表す", "example_en": "Birds twittered in the trees at dawn.", "example_ja": "夜明けに木々で鳥がさえずった。" },
+      { "title": "② 人のおしゃべり", "desc": "軽く早口で話すことを表す", "example_en": "The children twittered excitedly about the trip.", "example_ja": "子どもたちは旅行のことで興奮してぺちゃくちゃしゃべった。" }
+    ],
+    "warn": ["鳥のさえずりをまねた擬音語（onomatopoeia）", "SNSの『Twitter（現X）』の名はこの語（さえずり）に由来する（固有名詞は大文字）"],
+    "etym_note": "小鳥の鳴き声『チッチッ』をまねた擬音語。人の軽く早口なおしゃべりにも使われるようになった。",
+    "etym_chain": [
+      { "node": "twitter", "sub": "さえずり(擬音)", "era": "中英語" },
+      { "node": "twitter", "sub": "さえずる", "era": "近代英語" },
+      { "node": "twitter", "sub": "さえずる・しゃべる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "birds twitter", "ja": "鳥がさえずる" },
+      { "en": "twitter excitedly", "ja": "興奮してしゃべる" },
+      { "en": "the twitter of birds", "ja": "鳥のさえずり" },
+      { "en": "twitter away", "ja": "ぺちゃくちゃしゃべり続ける" },
+      { "en": "a nervous twitter", "ja": "緊張したくすくす声" },
+      { "en": "twitter in the trees", "ja": "木々でさえずる" }
+    ],
+    "related": [
+      { "en": "chirp", "ja": "ちゅんちゅん鳴く" },
+      { "en": "tweet", "ja": "さえずる・つぶやく" },
+      { "en": "chatter", "ja": "ぺちゃくちゃしゃべる" },
+      { "en": "sing", "ja": "歌う・さえずる" }
+    ],
+    "faq": [
+      { "q": "twitter と tweet の違いは？", "a": "どちらも小鳥のさえずりを表します。tweet は『チュンと1回鳴く声』、twitter は『続けてさえずること』を表しやすいです。SNSの Twitter（現X）や tweet（ツイート）はここから来ています。" },
+      { "q": "人にも使う？", "a": "はい。『興奮して軽く早口でしゃべる（ぺちゃくちゃ）』という意味で人にも使います。" }
+    ],
+    "quiz": [
+      { "q": "twitter の基本の意味は？", "A": "(鳥が)さえずる", "B": "(犬が)ほえる", "C": "(牛が)鳴く", "D": "(蛇が)はう", "correct": "A" },
+      { "q": "twitter と同じく小鳥の鳴き声を表す語は？", "A": "chirp", "B": "roar", "C": "growl", "D": "hiss", "correct": "A" }
+    ]
+  },
+  {
+    "english": "tyne",
+    "pron": "taɪn",
+    "kana": "タイン",
+    "hinshi": "名詞（固有名詞）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "古い川の名 Tyne",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "地名(川)"],
+    "meaning_main": "タイン川（イングランド北東部を流れる川）",
+    "description": "Tyne（タイン）はイングランド北東部を流れる川。河口のニューカッスル・アポン・タイン（Newcastle upon Tyne）で知られます。かつて造船で栄えました。意味を解説します。",
+    "keywords": ["Tyne 意味", "タイン川 英語", "ニューカッスル 川", "Newcastle upon Tyne"],
+    "meanings": [
+      { "hinshi": "【固有名詞】タイン川", "note": "イングランド北東部を流れる川。北海に注ぐ" },
+      { "hinshi": "【関連】ニューカッスル", "note": "河口の都市 Newcastle upon Tyne(ニューカッスル・アポン・タイン)で有名" }
+    ],
+    "usages": [
+      { "title": "① 川を指す", "desc": "地理の話題で使う", "example_en": "Newcastle stands on the River Tyne.", "example_ja": "ニューカッスルはタイン川のほとりにある。" },
+      { "title": "② 歴史・産業で", "desc": "造船で栄えた地として語る", "example_en": "The Tyne was once famous for shipbuilding.", "example_ja": "タイン川はかつて造船で有名だった。" }
+    ],
+    "warn": ["固有名詞なので常に大文字で書く（Tyne）", "農具フォークの歯を指す普通名詞 tine（タイン）とは別のつづり・別語"],
+    "etym_note": "古い川名 Tyne に由来し、ケルト語系の『川・流れ』を意味する語と結びつけられる。河口の都市名にも使われる。",
+    "etym_chain": [
+      { "node": "Tyne", "sub": "タイン(川名)", "era": "古い呼称" },
+      { "node": "Tyne", "sub": "タイン川", "era": "近代英語" },
+      { "node": "Tyne", "sub": "タイン川", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the River Tyne", "ja": "タイン川" },
+      { "en": "on the Tyne", "ja": "タイン川のほとりで" },
+      { "en": "Newcastle upon Tyne", "ja": "ニューカッスル・アポン・タイン" },
+      { "en": "the banks of the Tyne", "ja": "タイン川の岸辺" },
+      { "en": "cross the Tyne", "ja": "タイン川を渡る" },
+      { "en": "the mouth of the Tyne", "ja": "タイン川の河口" }
+    ],
+    "related": [
+      { "en": "Newcastle", "ja": "ニューカッスル" },
+      { "en": "England", "ja": "イングランド" },
+      { "en": "river", "ja": "川" },
+      { "en": "shipbuilding", "ja": "造船" }
+    ],
+    "faq": [
+      { "q": "Tyne はどこの川？", "a": "イングランド北東部を流れて北海に注ぐ川です。河口にはニューカッスル・アポン・タイン（Newcastle upon Tyne）という都市があります。" },
+      { "q": "tine（フォークの歯）と同じ？", "a": "いいえ、別の語です。Tyne は川の名（固有名詞）、tine は熊手やフォークの『歯』を指す普通名詞で、つづりも違います。" }
+    ],
+    "quiz": [
+      { "q": "Tyne は何？", "A": "イングランドの川", "B": "高い山", "C": "砂漠", "D": "湖", "correct": "A" },
+      { "q": "Tyne 川の河口にある有名な都市は？", "A": "ニューカッスル", "B": "ロンドン", "C": "リバプール", "D": "オックスフォード", "correct": "A" }
+    ]
+  },
+  {
+    "english": "tyrannosaurus",
+    "pron": "tɪˌrænəˈsɔːrəs",
+    "kana": "ティラノサウルス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 tyrannos(暴君)+sauros(トカゲ)",
+    "ld_level": "2級",
+    "badges": ["小学生〜", "英検2級", "CEFR B1", "恐竜・古生物語"],
+    "meaning_main": "ティラノサウルス（大型の肉食恐竜）",
+    "description": "tyrannosaurus（ティラノサウルス）は、白亜紀にいた大型の肉食恐竜。強大な顎と小さな前足が特徴で「T. rex」の略でも有名です。意味・由来をやさしく解説します。",
+    "keywords": ["tyrannosaurus 意味", "ティラノサウルス 英語", "T. rex", "肉食恐竜 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】ティラノサウルス", "note": "白亜紀後期にいた大型の肉食恐竜。獣脚類。T. rex(ティラノサウルス・レックス)で有名" }
+    ],
+    "usages": [
+      { "title": "① 恐竜として", "desc": "肉食恐竜を表す", "example_en": "The tyrannosaurus was one of the largest meat-eating dinosaurs.", "example_ja": "ティラノサウルスは最大級の肉食恐竜の一つだった。" },
+      { "title": "② 特徴を語る", "desc": "体の特徴を説明する", "example_en": "A tyrannosaurus had huge jaws and tiny arms.", "example_ja": "ティラノサウルスは巨大な顎と小さな前足を持っていた。" }
+    ],
+    "warn": ["正式名は Tyrannosaurus rex、略して T. rex", "獣脚類(theropod)に属する。名は『暴君トカゲ』の意味"],
+    "etym_note": "ギリシャ語 tyrannos（暴君）と sauros（トカゲ）を組み合わせた語で、「暴君のようなトカゲ」を意味する。1905年に命名された。",
+    "etym_chain": [
+      { "node": "tyrannos + sauros", "sub": "暴君 + トカゲ", "era": "ギリシャ語" },
+      { "node": "Tyrannosaurus", "sub": "暴君トカゲ", "era": "1905年命名" },
+      { "node": "tyrannosaurus", "sub": "ティラノサウルス", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Tyrannosaurus rex", "ja": "ティラノサウルス・レックス" },
+      { "en": "a huge tyrannosaurus", "ja": "巨大なティラノサウルス" },
+      { "en": "the jaws of a tyrannosaurus", "ja": "ティラノサウルスの顎" },
+      { "en": "a tyrannosaurus fossil", "ja": "ティラノサウルスの化石" },
+      { "en": "a fierce tyrannosaurus", "ja": "獰猛なティラノサウルス" },
+      { "en": "the age of the tyrannosaurus", "ja": "ティラノサウルスの時代" }
+    ],
+    "related": [
+      { "en": "dinosaur", "ja": "恐竜" },
+      { "en": "theropod", "ja": "獣脚類" },
+      { "en": "Cretaceous", "ja": "白亜紀" },
+      { "en": "predator", "ja": "捕食者" }
+    ],
+    "faq": [
+      { "q": "tyrannosaurus の名前の意味は？", "a": "ギリシャ語で『暴君トカゲ』を意味します。tyrannos（暴君）と sauros（トカゲ）を組み合わせた名です。強大な肉食恐竜らしい名前です。" },
+      { "q": "T. rex とは？", "a": "正式名 Tyrannosaurus rex の略です。rex はラテン語で『王』を意味し、『暴君トカゲの王』という堂々とした名前になっています。" }
+    ],
+    "quiz": [
+      { "q": "tyrannosaurus の名前の意味は？", "A": "暴君トカゲ", "B": "空飛ぶトカゲ", "C": "小さなトカゲ", "D": "海のトカゲ", "correct": "A" },
+      { "q": "tyrannosaurus が生きていた時代は？", "A": "白亜紀", "B": "氷河期", "C": "石器時代", "D": "現代", "correct": "A" }
+    ]
+  }
+]
