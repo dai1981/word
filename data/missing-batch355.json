@@ -1,0 +1,999 @@
+[
+  {
+    "english": "mindfulness",
+    "pron": "ˈmaɪndfʊlnəs",
+    "kana": "マインドフルネス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "mindful（心にとめた）+ -ness（〜であること）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "不可算名詞"],
+    "meaning_main": "マインドフルネス／気づき／今この瞬間への意識",
+    "description": "mindfulness（マインドフルネス）の意味・発音・使い方。「今この瞬間への意識・気づき」を表す名詞。mindful に -ness がついた語。例文・語源・クイズで学べます。",
+    "keywords": ["mindfulness 意味", "mindfulness 発音", "mindfulness 使い方", "マインドフルネス 英語", "気づき 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】マインドフルネス", "note": "今この瞬間の体験に意識を向ける心のあり方。ふつう不可算。" },
+      { "hinshi": "【名詞】気づき・注意深さ", "note": "自分の考えや感覚に気づいている状態。" }
+    ],
+    "usages": [
+      { "title": "① 瞑想・心の健康", "desc": "心を整える実践として使う。", "example_en": "Mindfulness can help reduce stress.", "example_ja": "マインドフルネスはストレスを減らすのに役立つ。" },
+      { "title": "② 実践を表す", "desc": "practice mindfulness の形で使う。", "example_en": "She practices mindfulness every morning.", "example_ja": "彼女は毎朝マインドフルネスを実践している。" }
+    ],
+    "warn": ["形容詞は mindful（〜に気を配る、be mindful of）。反対は mindlessness（無自覚）", "近年は瞑想・心理療法の用語として広く使われる"],
+    "etym_note": "mind（心）に「〜に満ちた」を表す -ful が付いた mindful に、状態を表す -ness が付いた語。仏教の「念（サティ）」の英訳として広まった。",
+    "etym_chain": [
+      { "node": "mind", "sub": "心", "era": "古英語" },
+      { "node": "mindful", "sub": "心にとめた", "era": "中英語" },
+      { "node": "mindfulness", "sub": "気づき", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "practice mindfulness", "ja": "マインドフルネスを実践する" },
+      { "en": "mindfulness meditation", "ja": "マインドフルネス瞑想" },
+      { "en": "a sense of mindfulness", "ja": "気づきの感覚" },
+      { "en": "mindfulness training", "ja": "マインドフルネスの訓練" },
+      { "en": "bring mindfulness to", "ja": "〜に意識を向ける" },
+      { "en": "mindfulness and calm", "ja": "気づきと落ち着き" }
+    ],
+    "related": [
+      { "en": "mindful", "ja": "気を配る、意識した" },
+      { "en": "meditation", "ja": "瞑想" },
+      { "en": "awareness", "ja": "気づき、意識" },
+      { "en": "calm", "ja": "落ち着き、穏やかな" }
+    ],
+    "faq": [
+      { "q": "mindfulness と meditation の違いは？", "a": "meditation は「瞑想」という実践方法、mindfulness は「今この瞬間に意識を向ける心のあり方」です。瞑想はマインドフルネスを育てる手段の一つです。" },
+      { "q": "形容詞は？", "a": "mindful です。be mindful of your health（健康に気を配る）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "mindfulness の意味は？", "A": "今この瞬間への意識・気づき", "B": "物忘れ", "C": "退屈", "D": "混乱", "correct": "A" },
+      { "q": "mindfulness の形容詞形は？", "A": "mindful", "B": "minded", "C": "mindly", "D": "mindsome", "correct": "A" }
+    ]
+  },
+  {
+    "english": "mindset",
+    "pron": "ˈmaɪndset",
+    "kana": "マインドセット",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "mind（心）+ set（定まったもの）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "可算名詞"],
+    "meaning_main": "考え方／心構え／ものの見方",
+    "description": "mindset（マインドセット）の意味・発音・使い方。「考え方・心構え」を表す名詞。mind と set の合成語。例文・語源・クイズで学べます。",
+    "keywords": ["mindset 意味", "mindset 発音", "mindset 使い方", "考え方 英語", "心構え 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】考え方・心構え", "note": "物事に対する習慣的な見方や態度。可算名詞。" },
+      { "hinshi": "【名詞】固定した思考の枠", "note": "変わりにくいものの見方を指すこともある。" }
+    ],
+    "usages": [
+      { "title": "① 前向きな姿勢", "desc": "心構えを述べる。", "example_en": "A positive mindset helps you overcome challenges.", "example_ja": "前向きな考え方は困難を乗り越える助けになる。" },
+      { "title": "② 成長の心構え", "desc": "growth mindset の形で使う。", "example_en": "She has a growth mindset and loves learning.", "example_ja": "彼女は成長志向の考え方を持ち、学ぶのが好きだ。" }
+    ],
+    "warn": ["a growth mindset（成長志向）と a fixed mindset（固定的な考え方）は心理学で有名な対比", "attitude（態度）より、より根本的な「ものの見方」を指す"],
+    "etym_note": "mind（心）と、「定まって動かないもの」を表す set が合わさった比較的新しい合成語。20世紀に広まった。",
+    "etym_chain": [
+      { "node": "mind + set", "sub": "心＋定まったもの", "era": "近代英語" },
+      { "node": "mindset", "sub": "考え方、心構え", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a positive mindset", "ja": "前向きな考え方" },
+      { "en": "a growth mindset", "ja": "成長志向の考え方" },
+      { "en": "a fixed mindset", "ja": "固定的な考え方" },
+      { "en": "change your mindset", "ja": "考え方を変える" },
+      { "en": "a winning mindset", "ja": "勝者の心構え" },
+      { "en": "the right mindset", "ja": "正しい心構え" }
+    ],
+    "related": [
+      { "en": "attitude", "ja": "態度、心構え" },
+      { "en": "outlook", "ja": "見通し、ものの見方" },
+      { "en": "mentality", "ja": "考え方、気質" },
+      { "en": "perspective", "ja": "視点、見方" }
+    ],
+    "faq": [
+      { "q": "mindset と attitude の違いは？", "a": "attitude は「態度・姿勢」、mindset はもっと根本的で習慣化した「ものの見方・思考の枠組み」です。mindset が attitude を生むと考えると分かりやすいです。" },
+      { "q": "growth mindset とは？", "a": "「能力は努力で伸ばせる」と考える成長志向の考え方です。逆に「能力は生まれつき」と考えるのが fixed mindset です。" }
+    ],
+    "quiz": [
+      { "q": "mindset の意味は？", "A": "考え方・心構え", "B": "記憶", "C": "手順", "D": "道具", "correct": "A" },
+      { "q": "「成長志向の考え方」は？", "A": "a growth mindset", "B": "a fixed mindset", "C": "a lost mindset", "D": "a small mindset", "correct": "A" }
+    ]
+  },
+  {
+    "english": "misbehave",
+    "pron": "ˌmɪsbɪˈheɪv",
+    "kana": "ミスビヘイヴ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "mis-（誤って・悪く）+ behave（ふるまう）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "自動詞"],
+    "meaning_main": "行儀悪くふるまう／不品行をはたらく",
+    "description": "misbehave（ミスビヘイヴ）の意味・発音・使い方。「行儀悪くふるまう」を表す動詞。mis- + behave の語。例文・語源・クイズで学べます。",
+    "keywords": ["misbehave 意味", "misbehave 発音", "misbehave 使い方", "行儀悪い 英語", "behave 否定"],
+    "meanings": [
+      { "hinshi": "【動詞】行儀悪くふるまう", "note": "主に子どもがきちんとしない、いたずらをするときに使う。自動詞。" },
+      { "hinshi": "【動詞】不適切な行動をとる", "note": "大人の非行や機械の誤作動にも使う。" }
+    ],
+    "usages": [
+      { "title": "① 子どもの行儀", "desc": "きちんとしない様子を述べる。", "example_en": "The children misbehaved during the class.", "example_ja": "子どもたちは授業中に行儀悪くふるまった。" },
+      { "title": "② 機械の不調", "desc": "うまく動かないことにも使う。", "example_en": "My computer has been misbehaving all day.", "example_ja": "パソコンが一日中調子が悪い。" }
+    ],
+    "warn": ["反対は behave（きちんとふるまう）、behave oneself（行儀よくする）", "mis- は「誤って・悪く」を表す接頭辞（mistake, misuse など）"],
+    "etym_note": "「誤って・悪く」を表す接頭辞 mis- が、behave（ふるまう）に付いた語。",
+    "etym_chain": [
+      { "node": "behave", "sub": "ふるまう", "era": "中英語" },
+      { "node": "misbehave", "sub": "行儀悪くふるまう", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "misbehave in class", "ja": "授業中に行儀悪くする" },
+      { "en": "misbehave badly", "ja": "ひどくふるまう" },
+      { "en": "children who misbehave", "ja": "行儀の悪い子ども" },
+      { "en": "start to misbehave", "ja": "ふるまいが悪くなる" },
+      { "en": "misbehave at school", "ja": "学校で問題行動を起こす" },
+      { "en": "the machine misbehaves", "ja": "機械が誤作動する" }
+    ],
+    "related": [
+      { "en": "behave", "ja": "ふるまう、行儀よくする" },
+      { "en": "behavior", "ja": "ふるまい、行動" },
+      { "en": "naughty", "ja": "いたずらな" },
+      { "en": "disobey", "ja": "従わない" }
+    ],
+    "faq": [
+      { "q": "misbehave と behave の違いは？", "a": "behave は「（きちんと）ふるまう」、mis-（悪く）が付いた misbehave は「行儀悪くふるまう」です。ちょうど反対の意味になります。" },
+      { "q": "誰に使う？", "a": "主に子どもの行儀について使いますが、大人の不適切な行動や、機械の誤作動にも比喩的に使えます。" }
+    ],
+    "quiz": [
+      { "q": "misbehave の意味は？", "A": "行儀悪くふるまう", "B": "静かにする", "C": "手伝う", "D": "感謝する", "correct": "A" },
+      { "q": "mis- が表す意味は？", "A": "誤って・悪く", "B": "とても", "C": "再び", "D": "前に", "correct": "A" }
+    ]
+  },
+  {
+    "english": "mismatch",
+    "pron": "ˈmɪsmætʃ",
+    "kana": "ミスマッチ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "mis-（誤って）+ match（合う・組み合わせ）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "可算名詞"],
+    "meaning_main": "不釣り合い／食い違い／ミスマッチ",
+    "description": "mismatch（ミスマッチ）の意味・発音・使い方。「不釣り合い・食い違い」を表す語。mis- + match の語。例文・語源・クイズで学べます。",
+    "keywords": ["mismatch 意味", "mismatch 発音", "mismatch 使い方", "不釣り合い 英語", "match 否定"],
+    "meanings": [
+      { "hinshi": "【名詞】不釣り合い・食い違い", "note": "うまく合っていない組み合わせ。a mismatch between A and B。可算名詞。" },
+      { "hinshi": "【動詞】うまく合わない", "note": "組み合わせが合わないことを表す（受け身が多い）。" }
+    ],
+    "usages": [
+      { "title": "① 食い違いを表す", "desc": "合わない状態を述べる。", "example_en": "There is a mismatch between supply and demand.", "example_ja": "需要と供給の間に食い違いがある。" },
+      { "title": "② 能力の不釣り合い", "desc": "力の差を表す。", "example_en": "The game was a complete mismatch.", "example_ja": "その試合はまったくの実力差だった。" }
+    ],
+    "warn": ["名詞のアクセントは前（MISmatch）、動詞は後ろ寄りになることがある", "反対は match（一致、よく合う組み合わせ）"],
+    "etym_note": "「誤って」を表す接頭辞 mis- が、match（合う・組み合わせ）に付いた語。",
+    "etym_chain": [
+      { "node": "match", "sub": "合う、組み合わせ", "era": "中英語" },
+      { "node": "mismatch", "sub": "不釣り合い", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a mismatch between", "ja": "〜の間の食い違い" },
+      { "en": "a color mismatch", "ja": "色の不一致" },
+      { "en": "a skills mismatch", "ja": "能力のミスマッチ" },
+      { "en": "a cultural mismatch", "ja": "文化の食い違い" },
+      { "en": "cause a mismatch", "ja": "食い違いを生む" },
+      { "en": "a total mismatch", "ja": "まったくの不釣り合い" }
+    ],
+    "related": [
+      { "en": "match", "ja": "一致、よく合う" },
+      { "en": "difference", "ja": "違い" },
+      { "en": "gap", "ja": "隔たり、ギャップ" },
+      { "en": "discrepancy", "ja": "食い違い、不一致" }
+    ],
+    "faq": [
+      { "q": "mismatch と difference の違いは？", "a": "difference は単なる「違い」、mismatch は「うまく合っていない・釣り合わない」という否定的なニュアンスを含みます。" },
+      { "q": "動詞でも使える？", "a": "はい。The parts are mismatched.（部品が合っていない）のように、主に受け身で使われます。" }
+    ],
+    "quiz": [
+      { "q": "mismatch の意味は？", "A": "不釣り合い・食い違い", "B": "完全な一致", "C": "試合の勝利", "D": "約束", "correct": "A" },
+      { "q": "mismatch の反対にあたる語は？", "A": "match", "B": "mistake", "C": "mixture", "D": "mission", "correct": "A" }
+    ]
+  },
+  {
+    "english": "mixed",
+    "pron": "mɪkst",
+    "kana": "ミクスト",
+    "hinshi": "形容詞 / 動詞(過去形・過去分詞)",
+    "ld_pos": "形容詞",
+    "ld_etym": "mix（混ぜる）+ -ed",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "mix の過去・過去分詞"],
+    "meaning_main": "混ざった／いろいろな／男女混合の／複雑な",
+    "description": "mixed（ミクスト）の意味・発音・使い方。「混ざった・いろいろな」を表す語。mix の過去形・形容詞。例文・語源・クイズで学べます。",
+    "keywords": ["mixed 意味", "mixed 発音", "mixed 使い方", "混ざった 英語", "mix 過去形"],
+    "meanings": [
+      { "hinshi": "【形容詞】混ざった・いろいろな", "note": "異なるものが混じった。mixed vegetables（ミックス野菜）。" },
+      { "hinshi": "【形容詞】男女混合の", "note": "a mixed school（男女共学）のように使う。" },
+      { "hinshi": "【形容詞】相反する", "note": "mixed feelings で「複雑な気持ち」。" }
+    ],
+    "usages": [
+      { "title": "① 混ざった状態", "desc": "いろいろ混じった様子を述べる。", "example_en": "The salad has mixed greens.", "example_ja": "そのサラダはいろいろな葉物が入っている。" },
+      { "title": "② 複雑な気持ち", "desc": "相反する感情を表す。", "example_en": "I have mixed feelings about moving.", "example_ja": "引っ越しについては複雑な気持ちだ。" }
+    ],
+    "warn": ["mixed feelings（複雑な気持ち）、mixed results（まちまちの結果）は頻出", "mix の過去分詞が形容詞化した語。反対は unmixed / pure"],
+    "etym_note": "ラテン語 miscere（混ぜる）に由来する mix に、過去・受動を表す -ed が付いた形。",
+    "etym_chain": [
+      { "node": "miscere", "sub": "混ぜる(ラテン語)", "era": "ラテン語" },
+      { "node": "mix", "sub": "混ぜる", "era": "近代英語" },
+      { "node": "mixed", "sub": "混ざった", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "mixed feelings", "ja": "複雑な気持ち" },
+      { "en": "mixed results", "ja": "まちまちの結果" },
+      { "en": "a mixed school", "ja": "男女共学の学校" },
+      { "en": "mixed vegetables", "ja": "ミックス野菜" },
+      { "en": "a mixed reaction", "ja": "賛否の分かれる反応" },
+      { "en": "mixed doubles", "ja": "混合ダブルス" }
+    ],
+    "related": [
+      { "en": "mix", "ja": "混ぜる、混合" },
+      { "en": "mixture", "ja": "混合物" },
+      { "en": "combined", "ja": "組み合わさった" },
+      { "en": "varied", "ja": "さまざまな" }
+    ],
+    "faq": [
+      { "q": "mixed feelings とは？", "a": "「うれしさと不安が入り混じった」ような複雑な気持ちを表す決まった言い方です。相反する感情が同時にある状態です。" },
+      { "q": "mixed results とは？", "a": "「良い結果と悪い結果が混じった、まちまちの成果」という意味です。うまくいった面と、いかなかった面の両方があるときに使います。" }
+    ],
+    "quiz": [
+      { "q": "mixed feelings の意味は？", "A": "複雑な気持ち", "B": "強い喜び", "C": "深い悲しみ", "D": "無関心", "correct": "A" },
+      { "q": "mix の過去分詞は？", "A": "mixed", "B": "mixt", "C": "mixen", "D": "mixincreased", "correct": "A" }
+    ]
+  },
+  {
+    "english": "modernist",
+    "pron": "ˈmɒdərnɪst",
+    "kana": "モダニスト",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "modern（現代の）+ -ist（〜主義者）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "芸術・文学用語"],
+    "meaning_main": "モダニスト／近代主義者／モダニズムの",
+    "description": "modernist（モダニスト）の意味・発音・使い方。「近代主義者・モダニズムの」を表す語。modern に -ist がついた語。例文・語源・クイズで学べます。",
+    "keywords": ["modernist 意味", "modernist 発音", "modernist 使い方", "モダニスト 英語", "modernism"],
+    "meanings": [
+      { "hinshi": "【名詞】モダニスト", "note": "20世紀初頭のモダニズム運動を担った芸術家・作家。可算名詞。" },
+      { "hinshi": "【形容詞】モダニズムの", "note": "伝統を破り新しい表現を求めた様式を指す。modernist architecture。" }
+    ],
+    "usages": [
+      { "title": "① 芸術家を指す", "desc": "モダニズムの担い手を述べる。", "example_en": "Picasso was a leading modernist.", "example_ja": "ピカソは代表的なモダニストだった。" },
+      { "title": "② 様式を表す", "desc": "建築や文学の様式を説明する。", "example_en": "The building has a modernist design.", "example_ja": "その建物はモダニズムのデザインだ。" }
+    ],
+    "warn": ["名詞 modernism（モダニズム、近代主義）とセットで覚える", "modern（現代の）とは意味が異なり、特に20世紀初頭の芸術運動を指すことが多い"],
+    "etym_note": "ラテン語 modo（今しがた）に由来する modern（現代の）に、「〜主義者」を表す接尾辞 -ist が付いた語。",
+    "etym_chain": [
+      { "node": "modo", "sub": "今しがた(ラテン語)", "era": "ラテン語" },
+      { "node": "modern", "sub": "現代の", "era": "近代英語" },
+      { "node": "modernist", "sub": "モダニスト", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a modernist painter", "ja": "モダニズムの画家" },
+      { "en": "modernist architecture", "ja": "モダニズム建築" },
+      { "en": "modernist literature", "ja": "モダニズム文学" },
+      { "en": "a modernist movement", "ja": "モダニズム運動" },
+      { "en": "modernist design", "ja": "モダニズムのデザイン" },
+      { "en": "the modernists", "ja": "モダニストたち" }
+    ],
+    "related": [
+      { "en": "modernism", "ja": "モダニズム、近代主義" },
+      { "en": "modern", "ja": "現代の" },
+      { "en": "avant-garde", "ja": "前衛の" },
+      { "en": "traditionalist", "ja": "伝統主義者" }
+    ],
+    "faq": [
+      { "q": "modern と modernist の違いは？", "a": "modern は「現代の・最新の」という一般的な語、modernist は特に20世紀初頭の芸術運動「モダニズム」に関わる人や様式を指します。" },
+      { "q": "対になる語は？", "a": "traditionalist（伝統主義者）です。伝統を守ろうとする立場を表します。" }
+    ],
+    "quiz": [
+      { "q": "modernist の意味は？", "A": "モダニズムの（芸術家）", "B": "古典主義者", "C": "現実主義者", "D": "楽観主義者", "correct": "A" },
+      { "q": "modernist の名詞（主義）は？", "A": "modernism", "B": "modernity", "C": "modernness", "D": "modernation", "correct": "A" }
+    ]
+  },
+  {
+    "english": "moodiness",
+    "pron": "ˈmuːdinəs",
+    "kana": "ムーディネス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "moody（不機嫌な）+ -ness（〜であること）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "不可算名詞"],
+    "meaning_main": "不機嫌／気分屋であること／むら気",
+    "description": "moodiness（ムーディネス）の意味・発音・使い方。「不機嫌・気分屋であること」を表す名詞。moody に -ness がついた語。例文・語源・クイズで学べます。",
+    "keywords": ["moodiness 意味", "moodiness 発音", "moodiness 使い方", "不機嫌 英語", "moody 名詞"],
+    "meanings": [
+      { "hinshi": "【名詞】気分屋であること", "note": "気分が変わりやすく、機嫌が定まらない性質。ふつう不可算。" },
+      { "hinshi": "【名詞】むら気・不機嫌", "note": "ふさぎこみやすい様子を表す。" }
+    ],
+    "usages": [
+      { "title": "① 性格を表す", "desc": "気分の浮き沈みを述べる。", "example_en": "His moodiness made him hard to work with.", "example_ja": "彼の気分屋な性格は一緒に働きにくくさせた。" },
+      { "title": "② 原因を述べる", "desc": "むら気の理由を説明する。", "example_en": "Lack of sleep can cause moodiness.", "example_ja": "睡眠不足は不機嫌を引き起こすことがある。" }
+    ],
+    "warn": ["形容詞は moody（気分屋の、不機嫌な）。英語の mood は「気分」だが moody は否定的な意味が強い", "日本語の「ムーディー（雰囲気のある）」とは意味が違うので注意"],
+    "etym_note": "古英語 mod（心・気分）に由来する mood から moody（気分屋の）ができ、それに状態を表す -ness が付いた語。",
+    "etym_chain": [
+      { "node": "mod", "sub": "心・気分(古英語)", "era": "古英語" },
+      { "node": "moody", "sub": "気分屋の", "era": "中英語" },
+      { "node": "moodiness", "sub": "気分屋であること", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "teenage moodiness", "ja": "思春期のむら気" },
+      { "en": "sudden moodiness", "ja": "突然の不機嫌" },
+      { "en": "cause moodiness", "ja": "不機嫌を引き起こす" },
+      { "en": "his moodiness", "ja": "彼の気分屋な性格" },
+      { "en": "deal with moodiness", "ja": "むら気に対処する" },
+      { "en": "moodiness and irritability", "ja": "むら気といらだち" }
+    ],
+    "related": [
+      { "en": "moody", "ja": "気分屋の、不機嫌な" },
+      { "en": "mood", "ja": "気分、機嫌" },
+      { "en": "temper", "ja": "気質、かんしゃく" },
+      { "en": "irritability", "ja": "いらだち" }
+    ],
+    "faq": [
+      { "q": "moody は「ムーディー」と同じ？", "a": "いいえ。英語の moody は「気分屋の・不機嫌な」という否定的な意味です。日本語の「ムーディー（雰囲気のある）」とは意味が違うので注意しましょう。" },
+      { "q": "形容詞は？", "a": "moody です。He gets moody when he's tired.（疲れると不機嫌になる）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "moodiness の意味は？", "A": "気分屋であること・不機嫌", "B": "陽気さ", "C": "落ち着き", "D": "優しさ", "correct": "A" },
+      { "q": "moodiness の形容詞形は？", "A": "moody", "B": "mooded", "C": "moodful", "D": "moodly", "correct": "A" }
+    ]
+  },
+  {
+    "english": "mush",
+    "pron": "mʌʃ",
+    "kana": "マッシュ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "mash（すりつぶしたもの）の変形",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "不可算名詞"],
+    "meaning_main": "どろどろしたもの／おかゆ状の食べ物／甘ったるい話",
+    "description": "mush（マッシュ）の意味・発音・使い方。「どろどろしたもの・おかゆ状の食べ物」を表す名詞。mash の変形。例文・語源・クイズで学べます。",
+    "keywords": ["mush 意味", "mush 発音", "mush 使い方", "どろどろ 英語", "おかゆ 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】どろどろしたもの", "note": "やわらかくつぶれて形のなくなったもの。ふつう不可算。" },
+      { "hinshi": "【名詞】おかゆ状の食べ物", "note": "アメリカではとうもろこし粉のかゆも指す。" },
+      { "hinshi": "【名詞】甘ったるい話", "note": "感傷的すぎる内容をけなして言うこともある。" }
+    ],
+    "usages": [
+      { "title": "① どろどろの状態", "desc": "形がなくなった様子を述べる。", "example_en": "The vegetables were boiled into mush.", "example_ja": "野菜は煮すぎてどろどろになった。" },
+      { "title": "② 比喩表現", "desc": "頭がぼんやりする様子にも使う。", "example_en": "My brain turned to mush after the long meeting.", "example_ja": "長い会議のあと、頭がぼうっとしてしまった。" }
+    ],
+    "warn": ["動詞 mash（すりつぶす）や mashed potato（マッシュポテト）と語源が近い", "形容詞 mushy は「どろどろの」「感傷的すぎる」の両方の意味を持つ"],
+    "etym_note": "「すりつぶしたもの」を意味する mash が変化してできた語。やわらかくつぶれた状態を表す。",
+    "etym_chain": [
+      { "node": "mash", "sub": "すりつぶす", "era": "近代英語" },
+      { "node": "mush", "sub": "どろどろしたもの", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "turn to mush", "ja": "どろどろになる" },
+      { "en": "a bowl of mush", "ja": "一杯のおかゆ" },
+      { "en": "cook into mush", "ja": "煮てどろどろにする" },
+      { "en": "brain turned to mush", "ja": "頭がぼんやりした" },
+      { "en": "soft mush", "ja": "やわらかいどろどろ" },
+      { "en": "sentimental mush", "ja": "甘ったるい話" }
+    ],
+    "related": [
+      { "en": "mushy", "ja": "どろどろの、感傷的な" },
+      { "en": "mash", "ja": "すりつぶす" },
+      { "en": "paste", "ja": "ペースト、練り物" },
+      { "en": "pulp", "ja": "どろどろの果肉" }
+    ],
+    "faq": [
+      { "q": "mush と mash の違いは？", "a": "mash は動詞「すりつぶす」やその料理（mashed potato）、mush は名詞で「どろどろの状態のもの」を指します。語源は近い関係にあります。" },
+      { "q": "mushy の意味は？", "a": "「どろどろした」という物理的な意味と、「甘ったるい・感傷的すぎる」という比喩的な意味の両方があります。" }
+    ],
+    "quiz": [
+      { "q": "mush の意味は？", "A": "どろどろしたもの", "B": "かたい石", "C": "冷たい風", "D": "明るい光", "correct": "A" },
+      { "q": "turn to mush の意味は？", "A": "どろどろになる", "B": "固まる", "C": "冷える", "D": "光る", "correct": "A" }
+    ]
+  },
+  {
+    "english": "nationalization",
+    "pron": "ˌnæʃənələˈzeɪʃən",
+    "kana": "ナショナリゼイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "nationalize（国有化する）+ -ation（〜すること）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "不可算名詞"],
+    "meaning_main": "国有化／国営化",
+    "description": "nationalization（ナショナリゼイション）の意味・発音・使い方。「国有化」を表す名詞。nationalize に -ation がついた語。privatization（民営化）の対義語。例文・語源・クイズで学べます。",
+    "keywords": ["nationalization 意味", "nationalization 発音", "nationalization 使い方", "国有化 英語", "privatization 対義語"],
+    "meanings": [
+      { "hinshi": "【名詞】国有化", "note": "民間の企業や産業を国の所有にすること。ふつう不可算。" },
+      { "hinshi": "【名詞】国営化", "note": "国家が経営権を握ること。" }
+    ],
+    "usages": [
+      { "title": "① 政策を表す", "desc": "国が産業を管理することを述べる。", "example_en": "The nationalization of the railways changed the industry.", "example_ja": "鉄道の国有化はその産業を変えた。" },
+      { "title": "② of で対象を示す", "desc": "何を国有化するか続ける。", "example_en": "They opposed the nationalization of the banks.", "example_ja": "彼らは銀行の国有化に反対した。" }
+    ],
+    "warn": ["対義語は privatization（民営化）。国←→民間の対比で覚える", "イギリス綴りは nationalisation（s）。動詞は nationalize"],
+    "etym_note": "nation（国家）から nationalize（国有化する）ができ、それに「〜すること」を表す -ation が付いた名詞。",
+    "etym_chain": [
+      { "node": "natio", "sub": "生まれ・民族(ラテン語)", "era": "ラテン語" },
+      { "node": "nationalize", "sub": "国有化する", "era": "近代英語" },
+      { "node": "nationalization", "sub": "国有化", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the nationalization of", "ja": "〜の国有化" },
+      { "en": "bank nationalization", "ja": "銀行の国有化" },
+      { "en": "oppose nationalization", "ja": "国有化に反対する" },
+      { "en": "call for nationalization", "ja": "国有化を求める" },
+      { "en": "full nationalization", "ja": "完全な国有化" },
+      { "en": "industry nationalization", "ja": "産業の国有化" }
+    ],
+    "related": [
+      { "en": "nationalize", "ja": "国有化する" },
+      { "en": "privatization", "ja": "民営化" },
+      { "en": "government", "ja": "政府" },
+      { "en": "industry", "ja": "産業" }
+    ],
+    "faq": [
+      { "q": "nationalization と privatization の違いは？", "a": "nationalization は「国有化（民間→国）」、privatization は「民営化（国→民間）」です。所有の流れがちょうど逆になります。" },
+      { "q": "イギリス綴りは？", "a": "nationalisation（s）です。アメリカ綴りは nationalization（z）を使います。" }
+    ],
+    "quiz": [
+      { "q": "nationalization の意味は？", "A": "国有化", "B": "民営化", "C": "国際化", "D": "自由化", "correct": "A" },
+      { "q": "nationalization の対義語は？", "A": "privatization", "B": "globalization", "C": "modernization", "D": "civilization", "correct": "A" }
+    ]
+  },
+  {
+    "english": "nauseated",
+    "pron": "ˈnɔːzieɪtɪd",
+    "kana": "ノーズィエイティッド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "nausea（吐き気）+ -ate + -ed",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "感情・状態の -ed形"],
+    "meaning_main": "吐き気がする／むかむかする／うんざりした",
+    "description": "nauseated（ノーズィエイティッド）の意味・発音・使い方。「吐き気がする・むかむかする」を表す形容詞。nausea から派生した語。例文・語源・クイズで学べます。",
+    "keywords": ["nauseated 意味", "nauseated 発音", "nauseated 使い方", "吐き気 英語", "むかむか 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】吐き気がする", "note": "気持ち悪くて吐きそうな状態。feel nauseated（吐き気がする）。" },
+      { "hinshi": "【形容詞】うんざりした", "note": "強い嫌悪で気分が悪いことにも使う。" }
+    ],
+    "usages": [
+      { "title": "① 体調が悪い", "desc": "気持ち悪さを述べる。", "example_en": "She felt nauseated after the boat ride.", "example_ja": "彼女はボートに乗ったあと吐き気がした。" },
+      { "title": "② 強い嫌悪", "desc": "嫌でむかむかする様子を表す。", "example_en": "I was nauseated by the sight.", "example_ja": "その光景に吐き気がした。" }
+    ],
+    "warn": ["名詞は nausea（吐き気）、動詞は nauseate。nauseous は本来「吐き気を催させる」だが、口語では nauseated と同じ意味でも使われる", "「（自分が）気持ち悪い」は nauseated が伝統的に正しい"],
+    "etym_note": "ギリシャ語 nausia（船酔い）に由来する nausea（吐き気）から動詞 nauseate ができ、その過去分詞が形容詞化した語。",
+    "etym_chain": [
+      { "node": "nausia", "sub": "船酔い(ギリシャ語)", "era": "ギリシャ語" },
+      { "node": "nausea", "sub": "吐き気", "era": "近代英語" },
+      { "node": "nauseated", "sub": "吐き気がする", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "feel nauseated", "ja": "吐き気がする" },
+      { "en": "nauseated by the smell", "ja": "においで気持ち悪くなる" },
+      { "en": "get nauseated", "ja": "むかむかしてくる" },
+      { "en": "slightly nauseated", "ja": "少し吐き気がして" },
+      { "en": "nauseated and dizzy", "ja": "吐き気とめまいがして" },
+      { "en": "become nauseated", "ja": "気分が悪くなる" }
+    ],
+    "related": [
+      { "en": "nausea", "ja": "吐き気" },
+      { "en": "nauseous", "ja": "吐き気を催させる、むかつく" },
+      { "en": "sick", "ja": "気分が悪い、病気の" },
+      { "en": "dizzy", "ja": "めまいがする" }
+    ],
+    "faq": [
+      { "q": "nauseated と nauseous の違いは？", "a": "伝統的には、nauseated が「（自分が）吐き気がする」、nauseous が「（何かが）吐き気を催させる」です。ただし現代の口語では nauseous を「気持ち悪い」の意味でも広く使います。" },
+      { "q": "名詞・動詞は？", "a": "名詞は nausea（吐き気）、動詞は nauseate（吐き気を催させる）です。" }
+    ],
+    "quiz": [
+      { "q": "nauseated の意味は？", "A": "吐き気がする", "B": "元気いっぱいの", "C": "眠い", "D": "空腹の", "correct": "A" },
+      { "q": "nauseated の名詞形は？", "A": "nausea", "B": "nauseation", "C": "nauseity", "D": "nauseness", "correct": "A" }
+    ]
+  },
+  {
+    "english": "neglected",
+    "pron": "nɪˈɡlektɪd",
+    "kana": "ニグレクティッド",
+    "hinshi": "形容詞 / 動詞(過去形・過去分詞)",
+    "ld_pos": "形容詞",
+    "ld_etym": "neglect（怠る・放置する）+ -ed",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "neglect の過去・過去分詞"],
+    "meaning_main": "放置された／なおざりにされた／手入れされていない",
+    "description": "neglected（ニグレクティッド）の意味・発音・使い方。「放置された・なおざりにされた」を表す語。neglect の過去形・形容詞。例文・語源・クイズで学べます。",
+    "keywords": ["neglected 意味", "neglected 発音", "neglected 使い方", "放置された 英語", "neglect 過去形"],
+    "meanings": [
+      { "hinshi": "【形容詞】放置された", "note": "世話や注意を受けず、ほったらかしにされた状態。a neglected garden（手入れされていない庭）。" },
+      { "hinshi": "【動詞】neglect の過去形・過去分詞", "note": "「怠った・放置した」の意味の過去・完了形。" }
+    ],
+    "usages": [
+      { "title": "① 手入れ不足", "desc": "放置された様子を述べる。", "example_en": "The neglected house was falling apart.", "example_ja": "放置された家は崩れかけていた。" },
+      { "title": "② 人への無関心", "desc": "世話をされないことを表す。", "example_en": "The children felt neglected by their parents.", "example_ja": "子どもたちは親にかまってもらえないと感じていた。" }
+    ],
+    "warn": ["動詞 neglect は「怠る、〜を放置する」。名詞も neglect（怠慢、育児放棄など）", "neglected と ignored は近いが、neglect は「本来すべき世話を怠る」ニュアンス"],
+    "etym_note": "ラテン語 neglegere（気にかけない）に由来する neglect に、過去・受動を表す -ed が付いた形。",
+    "etym_chain": [
+      { "node": "neglegere", "sub": "気にかけない(ラテン語)", "era": "ラテン語" },
+      { "node": "neglect", "sub": "怠る、放置する", "era": "近代英語" },
+      { "node": "neglected", "sub": "放置された", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a neglected garden", "ja": "手入れされていない庭" },
+      { "en": "feel neglected", "ja": "かまってもらえないと感じる" },
+      { "en": "a neglected child", "ja": "ネグレクトされた子ども" },
+      { "en": "a neglected building", "ja": "放置された建物" },
+      { "en": "sadly neglected", "ja": "残念ながら放置されて" },
+      { "en": "a long-neglected issue", "ja": "長く放置された問題" }
+    ],
+    "related": [
+      { "en": "neglect", "ja": "怠る、放置" },
+      { "en": "ignored", "ja": "無視された" },
+      { "en": "abandoned", "ja": "見捨てられた" },
+      { "en": "overlooked", "ja": "見落とされた" }
+    ],
+    "faq": [
+      { "q": "neglected と abandoned の違いは？", "a": "abandoned は「完全に見捨てられた」、neglected は「注意や世話を怠られている（が完全に捨てられたとは限らない）」状態です。" },
+      { "q": "child neglect とは？", "a": "「育児放棄（ネグレクト）」を指し、子どもに必要な世話をしないことです。虐待の一種とされます。" }
+    ],
+    "quiz": [
+      { "q": "neglected の意味は？", "A": "放置された・なおざりにされた", "B": "大切にされた", "C": "選ばれた", "D": "修理された", "correct": "A" },
+      { "q": "neglected のもとになった動詞は？", "A": "neglect（放置する）", "B": "select（選ぶ）", "C": "collect（集める）", "D": "reflect（映す）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "nursing",
+    "pron": "ˈnɜːrsɪŋ",
+    "kana": "ナーシング",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "nurse（看護する・世話する）+ -ing",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "不可算名詞"],
+    "meaning_main": "看護／看護の仕事／授乳",
+    "description": "nursing（ナーシング）の意味・発音・使い方。「看護・看護の仕事」を表す名詞。nurse に -ing がついた語。例文・語源・クイズで学べます。",
+    "keywords": ["nursing 意味", "nursing 発音", "nursing 使い方", "看護 英語", "nurse 名詞"],
+    "meanings": [
+      { "hinshi": "【名詞】看護", "note": "病人や高齢者の世話をすること・その職業。ふつう不可算。" },
+      { "hinshi": "【形容詞】看護の", "note": "a nursing home（介護施設）のように名詞の前で使う。" },
+      { "hinshi": "【名詞】授乳", "note": "赤ちゃんに乳を与えることも指す。" }
+    ],
+    "usages": [
+      { "title": "① 職業・分野", "desc": "看護の仕事を述べる。", "example_en": "She studied nursing at college.", "example_ja": "彼女は大学で看護を学んだ。" },
+      { "title": "② 施設を表す", "desc": "a nursing home の形で使う。", "example_en": "His grandmother lives in a nursing home.", "example_ja": "彼の祖母は介護施設に住んでいる。" }
+    ],
+    "warn": ["a nursing home は「介護施設・老人ホーム」の意味の定型表現", "動詞 nurse は「看護する」のほか「授乳する」「（考えを）抱く」の意味もある"],
+    "etym_note": "ラテン語 nutrire（養う）に由来する nurse（看護する・養う）に、動作を名詞化する -ing が付いた語。",
+    "etym_chain": [
+      { "node": "nutrire", "sub": "養う(ラテン語)", "era": "ラテン語" },
+      { "node": "nurse", "sub": "看護する", "era": "中英語" },
+      { "node": "nursing", "sub": "看護", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a nursing home", "ja": "介護施設、老人ホーム" },
+      { "en": "study nursing", "ja": "看護を学ぶ" },
+      { "en": "nursing care", "ja": "看護・介護" },
+      { "en": "a nursing student", "ja": "看護学生" },
+      { "en": "the nursing profession", "ja": "看護という職業" },
+      { "en": "nursing staff", "ja": "看護スタッフ" }
+    ],
+    "related": [
+      { "en": "nurse", "ja": "看護師、看護する" },
+      { "en": "care", "ja": "世話、介護" },
+      { "en": "hospital", "ja": "病院" },
+      { "en": "patient", "ja": "患者" }
+    ],
+    "faq": [
+      { "q": "nursing home とは？", "a": "高齢者や病人が住み込みで看護・介護を受ける施設で、「介護施設・老人ホーム」を指します。" },
+      { "q": "nursing に「授乳」の意味もある？", "a": "はい。動詞 nurse には「授乳する」の意味があり、nursing で「授乳（中の）」を表すこともあります。" }
+    ],
+    "quiz": [
+      { "q": "nursing の意味に含まれないのは？", "A": "看護", "B": "授乳", "C": "運転", "D": "介護", "correct": "C" },
+      { "q": "a nursing home の意味は？", "A": "介護施設・老人ホーム", "B": "看護学校", "C": "病院の受付", "D": "薬局", "correct": "A" }
+    ]
+  },
+  {
+    "english": "objectification",
+    "pron": "əbˌdʒektɪfɪˈkeɪʃən",
+    "kana": "オブジェクティフィケイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "objectify（物扱いする）+ -ation（〜すること）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "不可算名詞"],
+    "meaning_main": "物扱いすること／モノ化／客体化",
+    "description": "objectification（オブジェクティフィケイション）の意味・発音・使い方。「人を物のように扱うこと」を表す名詞。objectify に -ation がついた語。例文・語源・クイズで学べます。",
+    "keywords": ["objectification 意味", "objectification 発音", "objectification 使い方", "モノ化 英語", "客体化"],
+    "meanings": [
+      { "hinshi": "【名詞】物扱いすること", "note": "人を人格ある存在ではなく、道具や物のように扱うこと。ふつう不可算。" },
+      { "hinshi": "【名詞】客体化", "note": "考えや概念を具体的な対象として捉えること（哲学的な用法）。" }
+    ],
+    "usages": [
+      { "title": "① 社会問題として", "desc": "人を物扱いすることを述べる。", "example_en": "The ad was criticized for the objectification of women.", "example_ja": "その広告は女性を物扱いしているとして批判された。" },
+      { "title": "② 抽象の具体化", "desc": "概念を対象化する意味で使う。", "example_en": "The objectification of abstract ideas helps analysis.", "example_ja": "抽象的な考えを対象化することは分析に役立つ。" }
+    ],
+    "warn": ["動詞は objectify（物扱いする）、形容詞は objective（客観的な）とは意味が異なる", "社会・ジェンダーの文脈では否定的な意味で使われることが多い"],
+    "etym_note": "ラテン語 objectum（前に投げられたもの＝対象）に由来する object から動詞 objectify ができ、それに「〜すること」を表す -ation が付いた語。",
+    "etym_chain": [
+      { "node": "objectum", "sub": "対象(ラテン語)", "era": "ラテン語" },
+      { "node": "objectify", "sub": "物扱いする", "era": "近代英語" },
+      { "node": "objectification", "sub": "物扱いすること", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the objectification of women", "ja": "女性の物扱い" },
+      { "en": "sexual objectification", "ja": "性的なモノ化" },
+      { "en": "objectification in the media", "ja": "メディアでのモノ化" },
+      { "en": "resist objectification", "ja": "モノ化に抗う" },
+      { "en": "cultural objectification", "ja": "文化的な客体化" },
+      { "en": "condemn objectification", "ja": "物扱いを非難する" }
+    ],
+    "related": [
+      { "en": "objectify", "ja": "物扱いする" },
+      { "en": "object", "ja": "物、対象" },
+      { "en": "dehumanize", "ja": "非人間化する" },
+      { "en": "exploitation", "ja": "搾取" }
+    ],
+    "faq": [
+      { "q": "objective とは違う？", "a": "はい。objective は形容詞「客観的な」、objectification は名詞「（人を）物扱いすること」で、意味がまったく異なります。" },
+      { "q": "どんな文脈で使う？", "a": "主に社会・ジェンダーの議論で「人を人格として扱わず、物や道具のように見なすこと」を批判的に指すときに使われます。" }
+    ],
+    "quiz": [
+      { "q": "objectification の意味は？", "A": "人を物のように扱うこと", "B": "客観的な判断", "C": "目標設定", "D": "反対すること", "correct": "A" },
+      { "q": "objectification の動詞形は？", "A": "objectify", "B": "objectate", "C": "objection", "D": "objectize", "correct": "A" }
+    ]
+  },
+  {
+    "english": "obsessed",
+    "pron": "əbˈsest",
+    "kana": "オブセスト",
+    "hinshi": "形容詞 / 動詞(過去形・過去分詞)",
+    "ld_pos": "形容詞",
+    "ld_etym": "obsess（取りつく）+ -ed",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "感情の -ed形"],
+    "meaning_main": "取りつかれた／夢中の／頭から離れない",
+    "description": "obsessed（オブセスト）の意味・発音・使い方。「取りつかれた・夢中の」を表す語。obsess の過去形・形容詞。例文・語源・クイズで学べます。",
+    "keywords": ["obsessed 意味", "obsessed 発音", "obsessed 使い方", "夢中 英語", "obsess 過去形"],
+    "meanings": [
+      { "hinshi": "【形容詞】取りつかれた・夢中の", "note": "あることが頭から離れず、そればかり考える状態。be obsessed with（〜に夢中）。" },
+      { "hinshi": "【動詞】obsess の過去形・過去分詞", "note": "「取りついた・頭から離れなかった」の意味。" }
+    ],
+    "usages": [
+      { "title": "① 夢中になる", "desc": "熱中している様子を述べる。", "example_en": "She is obsessed with K-pop.", "example_ja": "彼女はK-POPに夢中だ。" },
+      { "title": "② 気になってしかたない", "desc": "頭から離れないことを表す。", "example_en": "He became obsessed with winning.", "example_ja": "彼は勝つことに取りつかれた。" }
+    ],
+    "warn": ["前置詞は with が基本（be obsessed with）。名詞は obsession（強迫観念、執着）", "肯定的な「大好き・夢中」から否定的な「取りつかれた」まで幅広く使う"],
+    "etym_note": "ラテン語 obsidere（包囲する・座り込む）に由来する obsess（取りつく）に、過去・受動を表す -ed が付いた形。",
+    "etym_chain": [
+      { "node": "obsidere", "sub": "包囲する(ラテン語)", "era": "ラテン語" },
+      { "node": "obsess", "sub": "取りつく", "era": "近代英語" },
+      { "node": "obsessed", "sub": "取りつかれた", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "obsessed with", "ja": "〜に夢中で、取りつかれて" },
+      { "en": "become obsessed", "ja": "取りつかれる" },
+      { "en": "totally obsessed", "ja": "完全に夢中で" },
+      { "en": "obsessed with money", "ja": "お金に取りつかれた" },
+      { "en": "obsessed fan", "ja": "熱狂的なファン" },
+      { "en": "obsessed over details", "ja": "細部にこだわりすぎる" }
+    ],
+    "related": [
+      { "en": "obsess", "ja": "取りつく、思い悩む" },
+      { "en": "obsession", "ja": "執着、強迫観念" },
+      { "en": "addicted", "ja": "中毒の、はまった" },
+      { "en": "fascinated", "ja": "魅了された" }
+    ],
+    "faq": [
+      { "q": "obsessed の後の前置詞は？", "a": "基本は with です。be obsessed with something（〜に夢中・取りつかれている）の形で使います。" },
+      { "q": "良い意味？悪い意味？", "a": "両方あります。「大好きで夢中」という前向きな意味でも、「取りつかれて健全でない」という否定的な意味でも使われます。文脈で判断します。" }
+    ],
+    "quiz": [
+      { "q": "obsessed の意味は？", "A": "取りつかれた・夢中の", "B": "無関心な", "C": "疲れた", "D": "落ち着いた", "correct": "A" },
+      { "q": "be obsessed ___ の空所は？", "A": "with", "B": "at", "C": "of", "D": "to", "correct": "A" }
+    ]
+  },
+  {
+    "english": "onboard",
+    "pron": "ˌɒnˈbɔːrd",
+    "kana": "オンボード",
+    "hinshi": "形容詞 / 副詞 / 動詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "on（〜の上に）+ board（船・乗り物）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "乗り物・IT頻出"],
+    "meaning_main": "（船・機内に）搭載された／新人を受け入れる",
+    "description": "onboard（オンボード）の意味・発音・使い方。「搭載された・機内の」を表す語。近年は「新人を受け入れる」動詞でも使う。例文・語源・クイズで学べます。",
+    "keywords": ["onboard 意味", "onboard 発音", "onboard 使い方", "搭載 英語", "オンボーディング"],
+    "meanings": [
+      { "hinshi": "【形容詞】搭載された・機内の", "note": "船・飛行機・車などに備えられていること。onboard camera（車載カメラ）。" },
+      { "hinshi": "【副詞】乗って", "note": "come onboard で「乗り込む・仲間に加わる」。" },
+      { "hinshi": "【動詞】新人を受け入れる", "note": "ビジネスで「新しい社員や顧客を迎え入れる」意味。名詞は onboarding。" }
+    ],
+    "usages": [
+      { "title": "① 搭載を表す", "desc": "乗り物の装備を述べる。", "example_en": "The plane has onboard Wi-Fi.", "example_ja": "その飛行機は機内Wi-Fiを備えている。" },
+      { "title": "② 新人を迎える", "desc": "ビジネス用法で使う。", "example_en": "We onboard new employees every month.", "example_ja": "私たちは毎月新しい社員を受け入れている。" }
+    ],
+    "warn": ["on board（2語）とも書く。come on board で「仲間に加わる」", "IT・ビジネスの onboarding（新人研修・導入）はこの語から"],
+    "etym_note": "on（〜の上に）と board（もとは船の甲板）が合わさった語。船に乗っている状態が原義で、のちに広がった。",
+    "etym_chain": [
+      { "node": "on board", "sub": "船の上に", "era": "近代英語" },
+      { "node": "onboard", "sub": "搭載された、受け入れる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "onboard camera", "ja": "車載カメラ" },
+      { "en": "come onboard", "ja": "仲間に加わる" },
+      { "en": "onboard Wi-Fi", "ja": "機内Wi-Fi" },
+      { "en": "onboard new staff", "ja": "新しいスタッフを受け入れる" },
+      { "en": "welcome onboard", "ja": "ようこそ（加入・搭乗を歓迎）" },
+      { "en": "onboard storage", "ja": "内蔵ストレージ" }
+    ],
+    "related": [
+      { "en": "board", "ja": "乗り込む、板" },
+      { "en": "onboarding", "ja": "新人受け入れ、導入" },
+      { "en": "aboard", "ja": "乗って" },
+      { "en": "install", "ja": "取り付ける、導入する" }
+    ],
+    "faq": [
+      { "q": "onboard の新しい意味は？", "a": "ビジネスやIT分野で「新しい社員・顧客・ユーザーを迎え入れ、使い始められるようにする」という動詞の意味が広まっています。名詞は onboarding です。" },
+      { "q": "on board と onboard の違いは？", "a": "意味はほぼ同じで、on board（2語）が伝統的な書き方、onboard（1語）は形容詞や動詞として一語で使われることが多いです。" }
+    ],
+    "quiz": [
+      { "q": "onboard の意味に含まれないのは？", "A": "搭載された", "B": "新人を受け入れる", "C": "取り壊す", "D": "乗って", "correct": "C" },
+      { "q": "come onboard の意味は？", "A": "仲間に加わる", "B": "船を降りる", "C": "退職する", "D": "断る", "correct": "A" }
+    ]
+  },
+  {
+    "english": "outraged",
+    "pron": "ˈaʊtreɪdʒd",
+    "kana": "アウトレイジド",
+    "hinshi": "形容詞 / 動詞(過去形・過去分詞)",
+    "ld_pos": "形容詞",
+    "ld_etym": "outrage（激しい怒り・暴挙）+ -ed",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "感情の -ed形"],
+    "meaning_main": "激怒した／憤慨した",
+    "description": "outraged（アウトレイジド）の意味・発音・使い方。「激怒した・憤慨した」を表す語。outrage の過去形・形容詞。例文・語源・クイズで学べます。",
+    "keywords": ["outraged 意味", "outraged 発音", "outraged 使い方", "激怒 英語", "outrage 過去形"],
+    "meanings": [
+      { "hinshi": "【形容詞】激怒した・憤慨した", "note": "不正・侮辱などに強く怒っている状態。be outraged by/at（〜に憤慨する）。" },
+      { "hinshi": "【動詞】outrage の過去形・過去分詞", "note": "「激しく怒らせた」の意味。" }
+    ],
+    "usages": [
+      { "title": "① 不正への怒り", "desc": "強い怒りを述べる。", "example_en": "People were outraged by the decision.", "example_ja": "人々はその決定に激怒した。" },
+      { "title": "② 感情を強調", "desc": "憤慨の程度を表す。", "example_en": "She was absolutely outraged.", "example_ja": "彼女はまったく激怒していた。" }
+    ],
+    "warn": ["名詞・動詞は outrage（激しい怒り／暴挙／激怒させる）。前置詞は by や at", "angry より強く、道徳的な怒り・義憤のニュアンスがある"],
+    "etym_note": "古フランス語 outrage（度を越えたこと）に由来する outrage に、過去・受動を表す -ed が付いた形。",
+    "etym_chain": [
+      { "node": "outrage", "sub": "度を越えたこと(古仏)", "era": "古フランス語" },
+      { "node": "outrage", "sub": "激しい怒り、暴挙", "era": "中英語" },
+      { "node": "outraged", "sub": "激怒した", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "outraged by", "ja": "〜に憤慨して" },
+      { "en": "absolutely outraged", "ja": "まったく激怒して" },
+      { "en": "outraged public", "ja": "憤慨した世論" },
+      { "en": "feel outraged", "ja": "激怒する" },
+      { "en": "outraged at the news", "ja": "その知らせに憤慨して" },
+      { "en": "an outraged response", "ja": "怒りの反応" }
+    ],
+    "related": [
+      { "en": "outrage", "ja": "激しい怒り、暴挙" },
+      { "en": "furious", "ja": "激怒した" },
+      { "en": "indignant", "ja": "憤慨した" },
+      { "en": "angry", "ja": "怒った" }
+    ],
+    "faq": [
+      { "q": "outraged と angry の違いは？", "a": "angry は一般的な「怒った」、outraged はもっと強く「（不正や侮辱に）激しく憤慨した」で、道徳的な怒り・義憤のニュアンスがあります。" },
+      { "q": "後の前置詞は？", "a": "by や at を使います。outraged by the decision / outraged at the news のように使います。" }
+    ],
+    "quiz": [
+      { "q": "outraged の意味は？", "A": "激怒した・憤慨した", "B": "大喜びの", "C": "退屈した", "D": "感謝した", "correct": "A" },
+      { "q": "outraged の名詞形は？", "A": "outrage", "B": "outraging", "C": "outrageness", "D": "outragement", "correct": "A" }
+    ]
+  },
+  {
+    "english": "overjoyed",
+    "pron": "ˌoʊvərˈdʒɔɪd",
+    "kana": "オーヴァージョイド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "over-（過度に）+ joy（喜び）+ -ed",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "感情の -ed形"],
+    "meaning_main": "大喜びの／有頂天の",
+    "description": "overjoyed（オーヴァージョイド）の意味・発音・使い方。「大喜びの・有頂天の」を表す形容詞。over- + joy から成る語。例文・語源・クイズで学べます。",
+    "keywords": ["overjoyed 意味", "overjoyed 発音", "overjoyed 使い方", "大喜び 英語", "有頂天 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】大喜びの", "note": "この上なくうれしい状態。be overjoyed at/to（〜に大喜び）。" },
+      { "hinshi": "【形容詞】有頂天の", "note": "喜びであふれる様子を強調する。" }
+    ],
+    "usages": [
+      { "title": "① 知らせに喜ぶ", "desc": "強い喜びを述べる。", "example_en": "She was overjoyed at the news.", "example_ja": "彼女はその知らせに大喜びした。" },
+      { "title": "② to不定詞と共に", "desc": "「〜して大喜び」の形。", "example_en": "They were overjoyed to see their son again.", "example_ja": "彼らは息子に再会して有頂天になった。" }
+    ],
+    "warn": ["over-（度を越えて）+ joy で「喜びであふれた」。happy より強い喜びを表す", "前置詞は at、または to不定詞を続ける"],
+    "etym_note": "「過度に」を表す接頭辞 over- が joy（喜び）に付き、その過去分詞形が形容詞化した語。",
+    "etym_chain": [
+      { "node": "gaudia", "sub": "喜び(ラテン語)", "era": "ラテン語" },
+      { "node": "joy", "sub": "喜び", "era": "中英語" },
+      { "node": "overjoyed", "sub": "大喜びの", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "overjoyed at the news", "ja": "その知らせに大喜びで" },
+      { "en": "overjoyed to see", "ja": "会えて大喜びで" },
+      { "en": "absolutely overjoyed", "ja": "まったくの有頂天で" },
+      { "en": "look overjoyed", "ja": "大喜びに見える" },
+      { "en": "overjoyed with the result", "ja": "結果に大喜びで" },
+      { "en": "feel overjoyed", "ja": "有頂天になる" }
+    ],
+    "related": [
+      { "en": "joy", "ja": "喜び" },
+      { "en": "delighted", "ja": "大喜びの" },
+      { "en": "thrilled", "ja": "わくわくした、大喜びの" },
+      { "en": "ecstatic", "ja": "有頂天の" }
+    ],
+    "faq": [
+      { "q": "overjoyed と happy の違いは？", "a": "happy は一般的な「うれしい」、overjoyed は「この上なくうれしい・有頂天」でずっと強い喜びを表します。" },
+      { "q": "後の前置詞は？", "a": "at を使うか（overjoyed at the news）、to不定詞を続けます（overjoyed to hear that）。" }
+    ],
+    "quiz": [
+      { "q": "overjoyed の意味は？", "A": "大喜びの・有頂天の", "B": "とても悲しい", "C": "少し不安な", "D": "退屈した", "correct": "A" },
+      { "q": "over- が joy に加える意味は？", "A": "過度に・あふれるほど", "B": "少しだけ", "C": "全く〜ない", "D": "再び", "correct": "A" }
+    ]
+  },
+  {
+    "english": "overpay",
+    "pron": "ˌoʊvərˈpeɪ",
+    "kana": "オーヴァーペイ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "over-（過度に）+ pay（払う）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "他動詞・自動詞"],
+    "meaning_main": "払いすぎる／給料を出しすぎる",
+    "description": "overpay（オーヴァーペイ）の意味・発音・使い方。「払いすぎる」を表す動詞。over- + pay の語。underpay（払い不足）の対義語。例文・語源・クイズで学べます。",
+    "keywords": ["overpay 意味", "overpay 発音", "overpay 使い方", "払いすぎる 英語", "underpay 対義語"],
+    "meanings": [
+      { "hinshi": "【動詞】払いすぎる", "note": "適正な額より多く支払う。overpay for（〜に払いすぎる）。" },
+      { "hinshi": "【動詞】給料を出しすぎる", "note": "従業員に見合わない高給を払う意味でも使う。" }
+    ],
+    "usages": [
+      { "title": "① 買い物で払いすぎ", "desc": "高く買いすぎたことを述べる。", "example_en": "I think we overpaid for this car.", "example_ja": "この車には払いすぎたと思う。" },
+      { "title": "② 賃金の話", "desc": "給料を出しすぎることを表す。", "example_en": "Some argue that executives are overpaid.", "example_ja": "経営者は給料をもらいすぎだと主張する人もいる。" }
+    ],
+    "warn": ["対義語は underpay（払い不足・低賃金で雇う）。over-（過度）と under-（不足）の対比", "過去形は overpaid（pay は不規則変化 pay-paid-paid）"],
+    "etym_note": "「過度に」を表す接頭辞 over- が、pay（払う）に付いた語。",
+    "etym_chain": [
+      { "node": "pacare", "sub": "なだめる・払う(ラテン語)", "era": "ラテン語" },
+      { "node": "pay", "sub": "払う", "era": "中英語" },
+      { "node": "overpay", "sub": "払いすぎる", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "overpay for", "ja": "〜に払いすぎる" },
+      { "en": "overpay taxes", "ja": "税金を払いすぎる" },
+      { "en": "be overpaid", "ja": "給料をもらいすぎている" },
+      { "en": "overpay by mistake", "ja": "誤って払いすぎる" },
+      { "en": "overpaid executives", "ja": "高給すぎる経営者" },
+      { "en": "avoid overpaying", "ja": "払いすぎを避ける" }
+    ],
+    "related": [
+      { "en": "pay", "ja": "払う" },
+      { "en": "underpay", "ja": "払い不足にする" },
+      { "en": "overcharge", "ja": "請求しすぎる" },
+      { "en": "refund", "ja": "払い戻し" }
+    ],
+    "faq": [
+      { "q": "overpay と overcharge の違いは？", "a": "overpay は「（買い手が）払いすぎる」、overcharge は「（売り手が）請求しすぎる」です。立場が逆になります。" },
+      { "q": "過去形は？", "a": "overpaid です。pay が不規則変化（pay-paid-paid）なので、overpay も同じく overpaid になります。" }
+    ],
+    "quiz": [
+      { "q": "overpay の意味は？", "A": "払いすぎる", "B": "払い忘れる", "C": "値引きする", "D": "借りる", "correct": "A" },
+      { "q": "overpay の対義語は？", "A": "underpay", "B": "repay", "C": "prepay", "D": "outpay", "correct": "A" }
+    ]
+  },
+  {
+    "english": "overprice",
+    "pron": "ˌoʊvərˈpraɪs",
+    "kana": "オーヴァープライス",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "over-（過度に）+ price（値をつける）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "他動詞"],
+    "meaning_main": "高すぎる値をつける",
+    "description": "overprice（オーヴァープライス）の意味・発音・使い方。「高すぎる値をつける」を表す動詞。over- + price の語。よく過去分詞 overpriced（割高な）で使う。例文・語源・クイズで学べます。",
+    "keywords": ["overprice 意味", "overprice 発音", "overprice 使い方", "割高 英語", "overpriced"],
+    "meanings": [
+      { "hinshi": "【動詞】高すぎる値をつける", "note": "商品に見合わない高い価格を設定する。ふつう受け身 overpriced で使う。" }
+    ],
+    "usages": [
+      { "title": "① 割高だと述べる", "desc": "過去分詞 overpriced で使う。", "example_en": "The restaurant is good but overpriced.", "example_ja": "そのレストランはおいしいが割高だ。" },
+      { "title": "② 値づけを批判", "desc": "高すぎる価格を指摘する。", "example_en": "Many felt the tickets were overpriced.", "example_ja": "多くの人がチケットは高すぎると感じた。" }
+    ],
+    "warn": ["実際には過去分詞・形容詞 overpriced（割高な）で使うことが多い", "対義語は underpriced（安すぎる値がついた）"],
+    "etym_note": "「過度に」を表す接頭辞 over- が、price（値をつける）に付いた語。",
+    "etym_chain": [
+      { "node": "pretium", "sub": "値段(ラテン語)", "era": "ラテン語" },
+      { "node": "price", "sub": "値段、値をつける", "era": "中英語" },
+      { "node": "overprice", "sub": "高すぎる値をつける", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "an overpriced item", "ja": "割高な品物" },
+      { "en": "be overpriced", "ja": "割高である" },
+      { "en": "overpriced tickets", "ja": "高すぎるチケット" },
+      { "en": "wildly overpriced", "ja": "べらぼうに割高な" },
+      { "en": "overpriced housing", "ja": "割高な住宅" },
+      { "en": "seem overpriced", "ja": "割高に思える" }
+    ],
+    "related": [
+      { "en": "price", "ja": "値段、値をつける" },
+      { "en": "overpriced", "ja": "割高な" },
+      { "en": "underpriced", "ja": "安すぎる" },
+      { "en": "expensive", "ja": "高価な" }
+    ],
+    "faq": [
+      { "q": "overpriced と expensive の違いは？", "a": "expensive は単に「高価な」、overpriced は「（価値に見合わず）高すぎる・割高な」という否定的な評価を含みます。" },
+      { "q": "よく使う形は？", "a": "受け身・形容詞の overpriced（割高な）で使うことがほとんどです。The bag is overpriced.（そのバッグは割高だ）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "overpriced の意味は？", "A": "割高な（高すぎる値の）", "B": "とても安い", "C": "無料の", "D": "値引きされた", "correct": "A" },
+      { "q": "overprice の対義語にあたる語は？", "A": "underprice", "B": "reprice", "C": "preprice", "D": "outprice", "correct": "A" }
+    ]
+  },
+  {
+    "english": "overrated",
+    "pron": "ˌoʊvərˈreɪtɪd",
+    "kana": "オーヴァーレイティッド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "over-（過度に）+ rate（評価する）+ -ed",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "評価の -ed形"],
+    "meaning_main": "過大評価された／評判ほどではない",
+    "description": "overrated（オーヴァーレイティッド）の意味・発音・使い方。「過大評価された・評判ほどではない」を表す形容詞。over- + rate から成る語。underrated（過小評価された）の対義語。例文・語源・クイズで学べます。",
+    "keywords": ["overrated 意味", "overrated 発音", "overrated 使い方", "過大評価 英語", "underrated 対義語"],
+    "meanings": [
+      { "hinshi": "【形容詞】過大評価された", "note": "実際より高く評価されている。評判ほど良くないこと。" }
+    ],
+    "usages": [
+      { "title": "① 評判への批判", "desc": "実際より過大だと述べる。", "example_en": "I think that movie is overrated.", "example_ja": "あの映画は過大評価だと思う。" },
+      { "title": "② 期待外れ", "desc": "評判ほどではないことを表す。", "example_en": "The restaurant is popular but overrated.", "example_ja": "そのレストランは人気だが評判ほどではない。" }
+    ],
+    "warn": ["対義語は underrated（過小評価された）。over-（過度）と under-（不足）の対比", "rate（評価する）の過去分詞が形容詞化した語"],
+    "etym_note": "「過度に」を表す接頭辞 over- が rate（評価する）に付き、その過去分詞形が形容詞化した語。",
+    "etym_chain": [
+      { "node": "rata", "sub": "定められた(ラテン語)", "era": "ラテン語" },
+      { "node": "rate", "sub": "評価する", "era": "近代英語" },
+      { "node": "overrated", "sub": "過大評価された", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "highly overrated", "ja": "かなり過大評価された" },
+      { "en": "an overrated film", "ja": "過大評価された映画" },
+      { "en": "totally overrated", "ja": "まったく評判倒れの" },
+      { "en": "become overrated", "ja": "過大評価されるようになる" },
+      { "en": "an overrated player", "ja": "過大評価された選手" },
+      { "en": "sound overrated", "ja": "評判ほどではなさそう" }
+    ],
+    "related": [
+      { "en": "rate", "ja": "評価する、割合" },
+      { "en": "underrated", "ja": "過小評価された" },
+      { "en": "overestimate", "ja": "過大評価する" },
+      { "en": "hyped", "ja": "騒がれすぎた" }
+    ],
+    "faq": [
+      { "q": "overrated と underrated の違いは？", "a": "overrated は「過大評価された（実際より高評価）」、underrated は「過小評価された（実際より低評価）」です。ちょうど反対の意味になります。" },
+      { "q": "どんな場面で使う？", "a": "映画・音楽・選手・店などについて「評判ほど良くない」と個人的な意見を述べるときによく使います。" }
+    ],
+    "quiz": [
+      { "q": "overrated の意味は？", "A": "過大評価された", "B": "過小評価された", "C": "正しく評価された", "D": "無評価の", "correct": "A" },
+      { "q": "overrated の対義語は？", "A": "underrated", "B": "rerated", "C": "prerated", "D": "outrated", "correct": "A" }
+    ]
+  }
+]
