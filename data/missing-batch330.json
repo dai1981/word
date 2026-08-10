@@ -1,0 +1,998 @@
+[
+  {
+    "english": "be-sick",
+    "pron": "biː sɪk",
+    "kana": "ビー・シック",
+    "hinshi": "句動詞（成句）",
+    "ld_pos": "phrase",
+    "ld_etym": "be + sick",
+    "ld_level": "4級",
+    "badges": ["中学生〜", "英検4級", "CEFR A2", "口語表現"],
+    "meaning_main": "吐く／気分が悪い／病気である",
+    "description": "be sick の意味と使い方。英では「吐く」、米では「病気だ」の意味になる口語表現を例文つきで解説します。",
+    "keywords": ["be sick 意味", "be sick 使い方", "吐く 英語", "気分が悪い 英語"],
+    "meanings": [
+      { "hinshi": "【成句】吐く、もどす", "note": "イギリス英語ではこの意味が中心。I'm going to be sick.（吐きそう）" },
+      { "hinshi": "【成句】病気である", "note": "アメリカ英語では「病気だ」の意味で使うことが多い" },
+      { "hinshi": "【成句】うんざりする", "note": "be sick of 〜 で「〜にうんざりする」" }
+    ],
+    "usages": [
+      { "title": "① 吐きそうなとき", "desc": "気分が悪くて吐きそうな状況で使う", "example_en": "Stop the car, I think I'm going to be sick.", "example_ja": "車を止めて、吐きそうなの。" },
+      { "title": "② うんざりを表す", "desc": "be sick of 〜 で強い嫌気を表す", "example_en": "I'm sick of waiting for the bus every morning.", "example_ja": "毎朝バスを待つのにうんざりしている。" }
+    ],
+    "warn": ["正しくは2語の 'be sick'。ハイフンや1語ではつづりません", "英と米で意味が違うので文脈に注意"],
+    "etym_note": "be（〜である）と sick（病気の、気分が悪い）を組み合わせた基本表現。sick は古英語 sēoc（病気の）に由来します。",
+    "etym_chain": [
+      { "node": "sēoc", "sub": "病気の", "era": "古英語" },
+      { "node": "sik", "sub": "病気の", "era": "中英語" },
+      { "node": "be sick", "sub": "吐く・病気である", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be sick of", "ja": "〜にうんざりする" },
+      { "en": "feel sick", "ja": "気分が悪い" },
+      { "en": "be off sick", "ja": "病気で休む" },
+      { "en": "sick to my stomach", "ja": "吐き気がする" },
+      { "en": "call in sick", "ja": "病欠の連絡をする" },
+      { "en": "worried sick", "ja": "心配でたまらない" }
+    ],
+    "related": [
+      { "en": "sick", "ja": "病気の" },
+      { "en": "vomit", "ja": "吐く" },
+      { "en": "nausea", "ja": "吐き気" },
+      { "en": "ill", "ja": "病気の" }
+    ],
+    "faq": [
+      { "q": "be sick と feel sick の違いは？", "a": "イギリス英語では be sick は「実際に吐く」、feel sick は「気分が悪い（まだ吐いていない）」を表します。" },
+      { "q": "アメリカでも「吐く」の意味になりますか？", "a": "米では be sick は「病気だ」が中心で、「吐く」は throw up や vomit を使うのが普通です。" }
+    ],
+    "quiz": [
+      { "q": "イギリス英語で「I'm going to be sick.」の意味は？", "A": "眠くなりそう", "B": "吐きそう", "C": "元気になりそう", "D": "怒りそう", "correct": "B" },
+      { "q": "「〜にうんざりする」を表すのは？", "A": "be sick of", "B": "be sick at", "C": "be sick on", "D": "be sick to", "correct": "A" }
+    ]
+  },
+  {
+    "english": "binge-watch",
+    "pron": "bɪndʒ wɒtʃ",
+    "kana": "ビンジ・ウォッチ",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "binge + watch",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "現代口語"],
+    "meaning_main": "（ドラマなどを）一気見する／まとめて見る",
+    "description": "binge-watch の意味と使い方。ドラマや動画を長時間まとめて見る「一気見」を表す現代英語を例文つきで解説します。",
+    "keywords": ["binge-watch 意味", "binge-watch 使い方", "一気見 英語", "ドラマ まとめ見 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】一気見する", "note": "ドラマの複数話を続けて見ること。配信サービスの普及で広まった語" },
+      { "hinshi": "【動詞】まとめて見る", "note": "binge-watch a series で「シリーズをまとめて見る」" }
+    ],
+    "usages": [
+      { "title": "① 週末の一気見", "desc": "休みにドラマをまとめて見る場面で使う", "example_en": "We binge-watched the whole series over the weekend.", "example_ja": "私たちは週末にそのシリーズを全部一気見した。" },
+      { "title": "② 予定を尋ねる", "desc": "誘いや予定の話で使う", "example_en": "I'm going to binge-watch that new show tonight.", "example_ja": "今夜あの新しい番組を一気見するつもりだ。" }
+    ],
+    "warn": ["ハイフンつきの 'binge-watch' が標準。binge watch と2語でも見られます", "binge は「度を越して〜する」の意味"],
+    "etym_note": "binge（度を越した飲食・行為）と watch（見る）を合わせた造語。binge は方言で「（容器を）水に浸す」が原義で、後に「暴飲暴食」の意味になりました。",
+    "etym_chain": [
+      { "node": "binge", "sub": "浸す→暴飲", "era": "19世紀英語" },
+      { "node": "binge eating", "sub": "過食", "era": "20世紀英語" },
+      { "node": "binge-watch", "sub": "一気見する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "binge-watch a series", "ja": "シリーズを一気見する" },
+      { "en": "binge-watching all night", "ja": "一晩中一気見する" },
+      { "en": "binge on snacks", "ja": "お菓子をがつがつ食べる" },
+      { "en": "streaming service", "ja": "配信サービス" },
+      { "en": "the whole season", "ja": "シーズン全話" },
+      { "en": "catch up on a show", "ja": "番組の見逃しを追う" }
+    ],
+    "related": [
+      { "en": "watch", "ja": "見る" },
+      { "en": "series", "ja": "シリーズ" },
+      { "en": "streaming", "ja": "配信" },
+      { "en": "episode", "ja": "話、エピソード" }
+    ],
+    "faq": [
+      { "q": "binge-watch はいつ生まれた言葉ですか？", "a": "動画配信サービスが普及した2010年代に広まり、今では辞書にも載る一般的な語になっています。" },
+      { "q": "binge だけでも使えますか？", "a": "binge on 〜 で「〜をがつがつ食べる／のめり込む」の意味で使えます。見る対象には binge-watch が明確です。" }
+    ],
+    "quiz": [
+      { "q": "binge-watch の意味は？", "A": "早送りする", "B": "一気見する", "C": "録画する", "D": "字幕をつける", "correct": "B" },
+      { "q": "binge のもとの意味に近いのは？", "A": "静かにする", "B": "度を越してする", "C": "節約する", "D": "整理する", "correct": "B" }
+    ]
+  },
+  {
+    "english": "blue-collar",
+    "pron": "bluː ˈkɒlər",
+    "kana": "ブルー・カラー",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "blue + collar",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "社会語"],
+    "meaning_main": "肉体労働（者）の／現場労働の",
+    "description": "blue-collar の意味と使い方。工場や建設など肉体労働に従事する労働者を表す形容詞を、対義語 white-collar とともに解説します。",
+    "keywords": ["blue-collar 意味", "blue-collar 使い方", "肉体労働 英語", "ブルーカラー 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】肉体労働の", "note": "工場・建設・整備など体を使う仕事を指す。作業着の青い襟が由来" },
+      { "hinshi": "【形容詞】現場労働者の", "note": "blue-collar worker で「現場労働者」" }
+    ],
+    "usages": [
+      { "title": "① 職業を説明する", "desc": "肉体労働の仕事を指して使う", "example_en": "He grew up in a blue-collar family.", "example_ja": "彼は労働者階級の家庭で育った。" },
+      { "title": "② 対比で使う", "desc": "white-collar（事務職）と対比する", "example_en": "The town depends on blue-collar jobs in manufacturing.", "example_ja": "その町は製造業の現場労働に依存している。" }
+    ],
+    "warn": ["ハイフンつきの 'blue-collar' が標準（形容詞用法）", "対義語は white-collar（事務・専門職の）"],
+    "etym_note": "作業服の青い襟（blue collar）から生まれた比喩。20世紀初めのアメリカで、事務職の白い襟（white collar）と対比して使われるようになりました。",
+    "etym_chain": [
+      { "node": "collar", "sub": "襟", "era": "中英語" },
+      { "node": "blue collar", "sub": "青い作業着の襟", "era": "20世紀初頭" },
+      { "node": "blue-collar", "sub": "肉体労働の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "blue-collar worker", "ja": "現場労働者" },
+      { "en": "blue-collar job", "ja": "肉体労働の仕事" },
+      { "en": "blue-collar town", "ja": "労働者の町" },
+      { "en": "working class", "ja": "労働者階級" },
+      { "en": "manual labor", "ja": "肉体労働" },
+      { "en": "white-collar", "ja": "事務・専門職の" }
+    ],
+    "related": [
+      { "en": "worker", "ja": "労働者" },
+      { "en": "labor", "ja": "労働" },
+      { "en": "factory", "ja": "工場" },
+      { "en": "collar", "ja": "襟" }
+    ],
+    "faq": [
+      { "q": "white-collar との違いは？", "a": "blue-collar は工場や現場の肉体労働、white-collar はオフィスの事務・専門職を指します。襟の色が由来の比喩です。" },
+      { "q": "差別的な言葉ですか？", "a": "中立的な分類語ですが、文脈によっては階級を強調するので、人を評価する場面では配慮が必要です。" }
+    ],
+    "quiz": [
+      { "q": "blue-collar worker の意味は？", "A": "事務職員", "B": "現場労働者", "C": "経営者", "D": "研究者", "correct": "B" },
+      { "q": "blue-collar の対義語は？", "A": "green-collar", "B": "white-collar", "C": "red-collar", "D": "gray-collar", "correct": "B" }
+    ]
+  },
+  {
+    "english": "broad-minded",
+    "pron": "brɔːd ˈmaɪndɪd",
+    "kana": "ブロード・マインデッド",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "broad + minded",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "性格語"],
+    "meaning_main": "心が広い／寛大な／偏見のない",
+    "description": "broad-minded の意味と使い方。多様な考えを受け入れる「心が広い」性格を表す形容詞を、対義語 narrow-minded とともに解説します。",
+    "keywords": ["broad-minded 意味", "broad-minded 使い方", "心が広い 英語", "寛大 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】心が広い", "note": "違う考えや生き方を受け入れる寛容な態度" },
+      { "hinshi": "【形容詞】偏見のない", "note": "先入観にとらわれない様子" }
+    ],
+    "usages": [
+      { "title": "① 人柄をほめる", "desc": "寛容な性格を評価して使う", "example_en": "She is broad-minded and accepts different opinions.", "example_ja": "彼女は心が広く、異なる意見を受け入れる。" },
+      { "title": "② 態度を説明する", "desc": "考え方の柔軟さを表す", "example_en": "We need a broad-minded approach to solve this problem.", "example_ja": "この問題を解決するには寛容な取り組みが必要だ。" }
+    ],
+    "warn": ["ハイフンつきの 'broad-minded' が標準", "対義語は narrow-minded（偏狭な、心の狭い）"],
+    "etym_note": "broad（広い）と minded（〜の心をもった）を合わせた語。minded は mind（心）に -ed をつけた形で、-minded は性格を表す複合語をつくります。",
+    "etym_chain": [
+      { "node": "brād", "sub": "広い", "era": "古英語" },
+      { "node": "broad", "sub": "広い", "era": "中英語" },
+      { "node": "broad-minded", "sub": "心が広い", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "broad-minded person", "ja": "心が広い人" },
+      { "en": "a broad-minded view", "ja": "寛容な見方" },
+      { "en": "open-minded", "ja": "偏見のない、柔軟な" },
+      { "en": "narrow-minded", "ja": "心の狭い" },
+      { "en": "accept differences", "ja": "違いを受け入れる" },
+      { "en": "be tolerant of", "ja": "〜に寛容である" }
+    ],
+    "related": [
+      { "en": "open-minded", "ja": "偏見のない" },
+      { "en": "tolerant", "ja": "寛容な" },
+      { "en": "narrow-minded", "ja": "心の狭い" },
+      { "en": "mind", "ja": "心、精神" }
+    ],
+    "faq": [
+      { "q": "open-minded との違いは？", "a": "どちらも柔軟さを表しますが、broad-minded は「幅広い価値観を受け入れる寛容さ」、open-minded は「新しい考えを聞く姿勢」に重点があります。" },
+      { "q": "対義語は何ですか？", "a": "narrow-minded（偏狭な）です。狭い（narrow）視野を表します。" }
+    ],
+    "quiz": [
+      { "q": "broad-minded の意味は？", "A": "心が狭い", "B": "心が広い", "C": "忘れっぽい", "D": "気が短い", "correct": "B" },
+      { "q": "broad-minded の対義語は？", "A": "open-minded", "B": "narrow-minded", "C": "strong-minded", "D": "absent-minded", "correct": "B" }
+    ]
+  },
+  {
+    "english": "cable-car",
+    "pron": "ˈkeɪbl kɑːr",
+    "kana": "ケーブル・カー",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "cable + car",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "乗り物"],
+    "meaning_main": "ケーブルカー／ロープウェー",
+    "description": "cable-car の意味と使い方。ケーブルで動く山の乗り物や坂道の電車を表す名詞を、可算名詞として例文つきで解説します。",
+    "keywords": ["cable-car 意味", "cable-car 使い方", "ケーブルカー 英語", "ロープウェー 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】ケーブルカー（可算）", "note": "空中のケーブルで運ぶゴンドラ式もこう呼ぶ。a cable-car / two cable-cars" },
+      { "hinshi": "【名詞】ケーブル式路面電車", "note": "サンフランシスコの坂道を走る電車が有名" }
+    ],
+    "usages": [
+      { "title": "① 観光で使う", "desc": "山や観光地の乗り物として使う", "example_en": "We took the cable-car to the top of the mountain.", "example_ja": "私たちはケーブルカーで山頂まで行った。" },
+      { "title": "② 都市の名物として", "desc": "サンフランシスコなどの名物電車を指す", "example_en": "Riding a cable-car is a must in San Francisco.", "example_ja": "サンフランシスコではケーブルカーに乗るのが定番だ。" }
+    ],
+    "warn": ["ハイフンつきの 'cable-car' でも2語の 'cable car' でも見られます", "空中式は英で cable car、米で aerial tramway とも言う"],
+    "etym_note": "cable（太い綱・ケーブル）と car（車両）を合わせた語。cable は後期ラテン語 capulum（縄）に由来します。",
+    "etym_chain": [
+      { "node": "capulum", "sub": "縄", "era": "後期ラテン語" },
+      { "node": "cable", "sub": "太い綱", "era": "中英語" },
+      { "node": "cable-car", "sub": "ケーブルカー", "era": "19世紀英語" }
+    ],
+    "phrases": [
+      { "en": "take the cable-car", "ja": "ケーブルカーに乗る" },
+      { "en": "ride a cable-car", "ja": "ケーブルカーに乗る" },
+      { "en": "cable-car station", "ja": "ケーブルカーの駅" },
+      { "en": "to the summit", "ja": "山頂まで" },
+      { "en": "mountain railway", "ja": "山岳鉄道" },
+      { "en": "aerial tramway", "ja": "ロープウェー（米）" }
+    ],
+    "related": [
+      { "en": "cable", "ja": "ケーブル、太い綱" },
+      { "en": "car", "ja": "車、車両" },
+      { "en": "train", "ja": "電車" },
+      { "en": "mountain", "ja": "山" }
+    ],
+    "faq": [
+      { "q": "ロープウェーも cable-car ですか？", "a": "空中をケーブルで運ぶゴンドラ式も英語では cable car と呼びます。日本語の「ロープウェー」と「ケーブルカー」の区別は英語には厳密にはありません。" },
+      { "q": "cable car と2語で書いてもいい？", "a": "はい。2語の cable car の方が一般的です。ハイフンつきも誤りではありません。" }
+    ],
+    "quiz": [
+      { "q": "cable-car の意味は？", "A": "電気自動車", "B": "ケーブルカー", "C": "貨物列車", "D": "路線バス", "correct": "B" },
+      { "q": "cable のもとの意味に近いのは？", "A": "縄、太い綱", "B": "車輪", "C": "駅", "D": "切符", "correct": "A" }
+    ]
+  },
+  {
+    "english": "camera-shy",
+    "pron": "ˈkæmərə ʃaɪ",
+    "kana": "キャメラ・シャイ",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "camera + shy",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "性格語"],
+    "meaning_main": "写真を撮られるのが苦手な／カメラ嫌いの",
+    "description": "camera-shy の意味と使い方。写真や動画に撮られるのを嫌がる様子を表す形容詞を例文つきで解説します。",
+    "keywords": ["camera-shy 意味", "camera-shy 使い方", "写真嫌い 英語", "撮られるのが苦手 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】写真を撮られるのが苦手な", "note": "カメラを向けられると緊張したり避けたりする様子" }
+    ],
+    "usages": [
+      { "title": "① 人柄を説明する", "desc": "撮影を嫌がる性格を表す", "example_en": "He's camera-shy and never posts selfies.", "example_ja": "彼は写真が苦手で、自撮りを投稿することはない。" },
+      { "title": "② その場で断るとき", "desc": "撮られたくない理由として使う", "example_en": "Sorry, I'm a bit camera-shy.", "example_ja": "ごめん、ちょっと写真は苦手なんだ。" }
+    ],
+    "warn": ["ハイフンつきの 'camera-shy' が標準", "shy は「恥ずかしがりの」で、-shy は「〜を避ける」の複合語をつくる"],
+    "etym_note": "camera（カメラ）と shy（恥ずかしがりの、避ける）を合わせた語。shy は古英語 scēoh（おびえた）に由来します。",
+    "etym_chain": [
+      { "node": "scēoh", "sub": "おびえた", "era": "古英語" },
+      { "node": "shy", "sub": "恥ずかしがりの", "era": "中英語" },
+      { "node": "camera-shy", "sub": "写真が苦手な", "era": "20世紀英語" }
+    ],
+    "phrases": [
+      { "en": "be camera-shy", "ja": "写真を撮られるのが苦手だ" },
+      { "en": "avoid the camera", "ja": "カメラを避ける" },
+      { "en": "hate having photos taken", "ja": "写真を撮られるのが嫌い" },
+      { "en": "shy away from", "ja": "〜を避ける" },
+      { "en": "pose for a photo", "ja": "写真のためにポーズをとる" },
+      { "en": "take a selfie", "ja": "自撮りする" }
+    ],
+    "related": [
+      { "en": "shy", "ja": "恥ずかしがりの" },
+      { "en": "camera", "ja": "カメラ" },
+      { "en": "photo", "ja": "写真" },
+      { "en": "nervous", "ja": "緊張した" }
+    ],
+    "faq": [
+      { "q": "-shy はほかの語にも使えますか？", "a": "はい。work-shy（仕事嫌いの）、gun-shy（用心深い）など、「〜を避ける」の意味で複合語をつくります。" },
+      { "q": "shy とだけ言うのと違いますか？", "a": "shy は一般的な「恥ずかしがり」、camera-shy は「カメラに限って苦手」という具体的な意味です。" }
+    ],
+    "quiz": [
+      { "q": "camera-shy の意味は？", "A": "写真が上手な", "B": "写真を撮られるのが苦手な", "C": "カメラを持っていない", "D": "自撮りが好きな", "correct": "B" },
+      { "q": "-shy が表す意味は？", "A": "〜が得意な", "B": "〜を避ける", "C": "〜を集める", "D": "〜を売る", "correct": "B" }
+    ]
+  },
+  {
+    "english": "city-state",
+    "pron": "ˈsɪti steɪt",
+    "kana": "シティ・ステート",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "city + state",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "歴史・社会"],
+    "meaning_main": "都市国家",
+    "description": "city-state の意味と使い方。一つの都市が独立した国家として機能する「都市国家」を表す名詞を、歴史例とともに解説します。",
+    "keywords": ["city-state 意味", "city-state 使い方", "都市国家 英語", "ポリス 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】都市国家（可算）", "note": "都市そのものが独立国となる形態。a city-state / city-states" }
+    ],
+    "usages": [
+      { "title": "① 歴史を説明する", "desc": "古代ギリシャなどの例で使う", "example_en": "Ancient Athens was a powerful city-state.", "example_ja": "古代アテネは強力な都市国家だった。" },
+      { "title": "② 現代の例", "desc": "シンガポールなど現代の例にも使う", "example_en": "Singapore is one of the few modern city-states.", "example_ja": "シンガポールは数少ない現代の都市国家の一つだ。" }
+    ],
+    "warn": ["ハイフンつきの 'city-state' が標準", "古代ギリシャの polis（ポリス）がその代表"],
+    "etym_note": "city（都市）と state（国家）を合わせた語。ギリシャ語の polis（都市国家）を英語で表すために使われるようになりました。",
+    "etym_chain": [
+      { "node": "polis", "sub": "都市国家", "era": "古代ギリシャ語" },
+      { "node": "city + state", "sub": "都市＋国家", "era": "近代英語" },
+      { "node": "city-state", "sub": "都市国家", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "ancient city-state", "ja": "古代の都市国家" },
+      { "en": "independent city-state", "ja": "独立した都市国家" },
+      { "en": "the city-state of Athens", "ja": "アテネという都市国家" },
+      { "en": "rise and fall", "ja": "興亡" },
+      { "en": "trade center", "ja": "交易の中心" },
+      { "en": "self-governing", "ja": "自治の" }
+    ],
+    "related": [
+      { "en": "city", "ja": "都市" },
+      { "en": "state", "ja": "国家、州" },
+      { "en": "nation", "ja": "国家" },
+      { "en": "empire", "ja": "帝国" }
+    ],
+    "faq": [
+      { "q": "現代にも都市国家はありますか？", "a": "はい。シンガポール、モナコ、バチカン市国などが現代の都市国家の例とされます。" },
+      { "q": "polis と同じ意味ですか？", "a": "polis は古代ギリシャの都市国家を指すギリシャ語で、city-state はそれを英語で言い換えた語です。" }
+    ],
+    "quiz": [
+      { "q": "city-state の意味は？", "A": "州都", "B": "都市国家", "C": "首都", "D": "地方都市", "correct": "B" },
+      { "q": "古代の city-state の代表例は？", "A": "ローマ帝国", "B": "アテネ", "C": "エジプト王国", "D": "ペルシャ帝国", "correct": "B" }
+    ]
+  },
+  {
+    "english": "clear-cut",
+    "pron": "klɪər kʌt",
+    "kana": "クリア・カット",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "clear + cut",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "頻出語"],
+    "meaning_main": "明確な／はっきりした／疑いのない",
+    "description": "clear-cut の意味と使い方。あいまいさがなく「はっきりした」ことを表す形容詞を例文つきで解説します。",
+    "keywords": ["clear-cut 意味", "clear-cut 使い方", "明確 英語", "はっきりした 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】明確な", "note": "境界や判断がくっきりしている様子。a clear-cut answer" },
+      { "hinshi": "【形容詞】疑いのない", "note": "議論の余地がないこと" }
+    ],
+    "usages": [
+      { "title": "① 答えや区別を表す", "desc": "はっきりした判断を示す", "example_en": "There is no clear-cut answer to this question.", "example_ja": "この問いに明確な答えはない。" },
+      { "title": "② 勝敗などを表す", "desc": "議論の余地がない結果に使う", "example_en": "It was a clear-cut victory for the home team.", "example_ja": "それはホームチームの完勝だった。" }
+    ],
+    "warn": ["ハイフンつきの 'clear-cut' が標準（形容詞）", "林業の「皆伐」の意味もある"],
+    "etym_note": "clear（明確な）と cut（切る→輪郭）を合わせた語。もとは「くっきりと切られた」輪郭のはっきりした様子を表しました。",
+    "etym_chain": [
+      { "node": "clear", "sub": "明るい・明確な", "era": "中英語" },
+      { "node": "clear-cut", "sub": "輪郭のはっきりした", "era": "18世紀英語" },
+      { "node": "clear-cut", "sub": "明確な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "clear-cut answer", "ja": "明確な答え" },
+      { "en": "clear-cut case", "ja": "疑いのない事例" },
+      { "en": "clear-cut distinction", "ja": "はっきりした区別" },
+      { "en": "clear-cut victory", "ja": "完勝" },
+      { "en": "black and white", "ja": "白黒はっきりした" },
+      { "en": "beyond doubt", "ja": "疑いなく" }
+    ],
+    "related": [
+      { "en": "clear", "ja": "明確な" },
+      { "en": "obvious", "ja": "明らかな" },
+      { "en": "definite", "ja": "明確な" },
+      { "en": "vague", "ja": "あいまいな" }
+    ],
+    "faq": [
+      { "q": "clear と clear-cut の違いは？", "a": "clear は「明るい・澄んだ」など幅広く使えますが、clear-cut は「あいまいさがなく明確な」判断や区別に絞って使います。" },
+      { "q": "林業の意味もありますか？", "a": "はい。動詞・名詞で「（森林を）皆伐する／皆伐」の意味もあります。文脈で区別します。" }
+    ],
+    "quiz": [
+      { "q": "clear-cut の意味は？", "A": "あいまいな", "B": "明確な", "C": "複雑な", "D": "危険な", "correct": "B" },
+      { "q": "clear-cut victory の意味は？", "A": "辛勝", "B": "完勝", "C": "引き分け", "D": "惜敗", "correct": "B" }
+    ]
+  },
+  {
+    "english": "cold-blooded",
+    "pron": "kəʊld ˈblʌdɪd",
+    "kana": "コールド・ブラッデッド",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "cold + blooded",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "頻出語"],
+    "meaning_main": "冷血の／冷酷な／変温の",
+    "description": "cold-blooded の意味と使い方。感情のない「冷酷な」と、生物学の「変温の」という二つの意味を例文つきで解説します。",
+    "keywords": ["cold-blooded 意味", "cold-blooded 使い方", "冷酷 英語", "変温動物 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】冷酷な、冷血の", "note": "感情や思いやりのない様子。a cold-blooded killer" },
+      { "hinshi": "【形容詞】変温の（生物）", "note": "体温が外気に左右される動物。爬虫類など" }
+    ],
+    "usages": [
+      { "title": "① 人の残酷さを表す", "desc": "感情のない冷酷さを強調する", "example_en": "It was a cold-blooded murder.", "example_ja": "それは冷酷な殺人だった。" },
+      { "title": "② 生物を説明する", "desc": "変温動物を指して使う", "example_en": "Snakes are cold-blooded animals.", "example_ja": "ヘビは変温動物だ。" }
+    ],
+    "warn": ["ハイフンつきの 'cold-blooded' が標準", "対義語は warm-blooded（温血の、恒温の）"],
+    "etym_note": "cold（冷たい）と blooded（血をもった）を合わせた語。古くは体温の高低を性格と結びつけた考え方から、「冷たい血＝冷酷」の比喩が生まれました。",
+    "etym_chain": [
+      { "node": "blōd", "sub": "血", "era": "古英語" },
+      { "node": "blooded", "sub": "血をもった", "era": "中英語" },
+      { "node": "cold-blooded", "sub": "冷酷な・変温の", "era": "17世紀英語" }
+    ],
+    "phrases": [
+      { "en": "cold-blooded killer", "ja": "冷酷な殺人者" },
+      { "en": "cold-blooded murder", "ja": "冷酷な殺人" },
+      { "en": "in cold blood", "ja": "冷酷に、平然と" },
+      { "en": "cold-blooded animal", "ja": "変温動物" },
+      { "en": "without mercy", "ja": "情け容赦なく" },
+      { "en": "warm-blooded", "ja": "温血の、恒温の" }
+    ],
+    "related": [
+      { "en": "cruel", "ja": "残酷な" },
+      { "en": "blood", "ja": "血" },
+      { "en": "reptile", "ja": "爬虫類" },
+      { "en": "warm-blooded", "ja": "温血の" }
+    ],
+    "faq": [
+      { "q": "in cold blood との関係は？", "a": "in cold blood は「冷酷に、感情を交えず」という副詞句で、cold-blooded（冷酷な）と同じ発想から生まれた表現です。" },
+      { "q": "変温動物はなぜ cold-blooded？", "a": "外気で体温が下がると体が冷たくなることから。厳密には ectothermic（外温性）と呼びますが、日常では cold-blooded が一般的です。" }
+    ],
+    "quiz": [
+      { "q": "cold-blooded murder の意味は？", "A": "偶発的な事故", "B": "冷酷な殺人", "C": "正当防衛", "D": "未遂事件", "correct": "B" },
+      { "q": "cold-blooded animal とは？", "A": "恒温動物", "B": "変温動物", "C": "肉食動物", "D": "夜行性動物", "correct": "B" }
+    ]
+  },
+  {
+    "english": "condensed-milk",
+    "pron": "kənˈdenst mɪlk",
+    "kana": "コンデンスト・ミルク",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "condensed + milk",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "食べ物"],
+    "meaning_main": "コンデンスミルク／加糖練乳",
+    "description": "condensed milk の意味と使い方。砂糖を加えて濃縮した甘い練乳を表す語を、不可算名詞として例文つきで解説します。",
+    "keywords": ["condensed milk 意味", "condensed milk 使い方", "練乳 英語", "コンデンスミルク 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】加糖練乳（不可算）", "note": "水分を飛ばし砂糖を加えた濃い甘いミルク。かき氷やお菓子に使う" }
+    ],
+    "usages": [
+      { "title": "① 料理・お菓子で使う", "desc": "甘味として加える場面で使う", "example_en": "She poured condensed milk over the shaved ice.", "example_ja": "彼女はかき氷に練乳をかけた。" },
+      { "title": "② レシピで指定する", "desc": "材料として挙げる", "example_en": "This recipe uses a can of condensed milk.", "example_ja": "このレシピは練乳を1缶使う。" }
+    ],
+    "warn": ["正しくは2語の 'condensed milk'。ハイフンなしが標準", "砂糖なしのものは evaporated milk（無糖練乳）"],
+    "etym_note": "condensed（濃縮された、condense の過去分詞）と milk（牛乳）を合わせた語。condense はラテン語 condensare（密にする）に由来します。",
+    "etym_chain": [
+      { "node": "condensare", "sub": "密にする", "era": "ラテン語" },
+      { "node": "condense", "sub": "濃縮する", "era": "近代英語" },
+      { "node": "condensed milk", "sub": "加糖練乳", "era": "19世紀英語" }
+    ],
+    "phrases": [
+      { "en": "a can of condensed milk", "ja": "練乳1缶" },
+      { "en": "sweetened condensed milk", "ja": "加糖練乳" },
+      { "en": "pour condensed milk", "ja": "練乳をかける" },
+      { "en": "evaporated milk", "ja": "無糖練乳" },
+      { "en": "shaved ice", "ja": "かき氷" },
+      { "en": "dessert topping", "ja": "デザートのトッピング" }
+    ],
+    "related": [
+      { "en": "milk", "ja": "牛乳" },
+      { "en": "condense", "ja": "濃縮する" },
+      { "en": "sugar", "ja": "砂糖" },
+      { "en": "cream", "ja": "クリーム" }
+    ],
+    "faq": [
+      { "q": "evaporated milk との違いは？", "a": "condensed milk（加糖練乳）は砂糖入りで甘く、evaporated milk（無糖練乳）は砂糖なしです。用途が異なります。" },
+      { "q": "数えられますか？", "a": "液体なので不可算です。数えるときは a can of / a tin of condensed milk と容器で数えます。" }
+    ],
+    "quiz": [
+      { "q": "condensed milk の意味は？", "A": "無脂肪乳", "B": "加糖練乳", "C": "生クリーム", "D": "粉ミルク", "correct": "B" },
+      { "q": "砂糖なしの練乳を表すのは？", "A": "condensed milk", "B": "evaporated milk", "C": "skim milk", "D": "whole milk", "correct": "B" }
+    ]
+  },
+  {
+    "english": "cross-stitch",
+    "pron": "ˈkrɒs stɪtʃ",
+    "kana": "クロス・スティッチ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "noun",
+    "ld_etym": "cross + stitch",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "手芸"],
+    "meaning_main": "クロスステッチ（×印の刺繍）／十字縫いする",
+    "description": "cross-stitch の意味と使い方。×印を並べて模様を作る刺繍の技法を表す語を、名詞・動詞の両方で解説します。",
+    "keywords": ["cross-stitch 意味", "cross-stitch 使い方", "クロスステッチ 英語", "刺繍 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】クロスステッチ", "note": "×形の縫い目を並べて図案を作る刺繍。可算・不可算両方" },
+      { "hinshi": "【動詞】十字縫いする", "note": "cross-stitch a pattern で「図案を刺す」" }
+    ],
+    "usages": [
+      { "title": "① 手芸を説明する", "desc": "刺繍の技法として使う", "example_en": "She made a cross-stitch of a flower.", "example_ja": "彼女は花のクロスステッチを作った。" },
+      { "title": "② 動作として使う", "desc": "縫う作業を表す", "example_en": "I learned to cross-stitch as a child.", "example_ja": "私は子どものころクロスステッチを習った。" }
+    ],
+    "warn": ["ハイフンつきの 'cross-stitch' が標準", "×印を並べる技法。似た語に backstitch（返し縫い）"],
+    "etym_note": "cross（十字）と stitch（縫い目）を合わせた語。stitch は古英語 stice（刺すこと）に由来します。",
+    "etym_chain": [
+      { "node": "stice", "sub": "刺すこと", "era": "古英語" },
+      { "node": "stitch", "sub": "縫い目", "era": "中英語" },
+      { "node": "cross-stitch", "sub": "十字の刺繍", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "cross-stitch pattern", "ja": "クロスステッチの図案" },
+      { "en": "do cross-stitch", "ja": "クロスステッチをする" },
+      { "en": "cross-stitch kit", "ja": "クロスステッチのキット" },
+      { "en": "embroidery thread", "ja": "刺繍糸" },
+      { "en": "needle and thread", "ja": "針と糸" },
+      { "en": "handmade craft", "ja": "手作りの工芸" }
+    ],
+    "related": [
+      { "en": "stitch", "ja": "縫い目、一針" },
+      { "en": "embroidery", "ja": "刺繍" },
+      { "en": "sew", "ja": "縫う" },
+      { "en": "needle", "ja": "針" }
+    ],
+    "faq": [
+      { "q": "embroidery との違いは？", "a": "embroidery は刺繍全般を指す言葉で、cross-stitch はその中の一技法（×印を並べる方法）です。" },
+      { "q": "動詞でも使えますか？", "a": "はい。cross-stitch a design で「図案を十字縫いで刺す」のように動詞で使えます。" }
+    ],
+    "quiz": [
+      { "q": "cross-stitch の意味は？", "A": "編み物", "B": "×印を並べる刺繍", "C": "織物", "D": "染色", "correct": "B" },
+      { "q": "cross-stitch に使う道具は？", "A": "はさみだけ", "B": "針と糸", "C": "のりとはさみ", "D": "絵の具", "correct": "B" }
+    ]
+  },
+  {
+    "english": "custom-made",
+    "pron": "ˈkʌstəm meɪd",
+    "kana": "カスタム・メイド",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "custom + made",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "頻出語"],
+    "meaning_main": "オーダーメイドの／特注の／あつらえの",
+    "description": "custom-made の意味と使い方。客の注文に合わせて作られた「特注の」商品を表す形容詞を例文つきで解説します。",
+    "keywords": ["custom-made 意味", "custom-made 使い方", "オーダーメイド 英語", "特注 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】特注の、あつらえの", "note": "個々の注文に合わせて作られたもの。既製品(ready-made)の対" }
+    ],
+    "usages": [
+      { "title": "① 商品を説明する", "desc": "特別に作られた品を表す", "example_en": "He wore a custom-made suit.", "example_ja": "彼はオーダーメイドのスーツを着ていた。" },
+      { "title": "② 注文を伝える", "desc": "特注であることを強調する", "example_en": "The ring was custom-made for her.", "example_ja": "その指輪は彼女のために特注された。" }
+    ],
+    "warn": ["ハイフンつきの 'custom-made' が標準", "和製英語の「オーダーメイド」は英語では custom-made / made-to-order"],
+    "etym_note": "custom（習慣→注文）と made（作られた、make の過去分詞）を合わせた語。custom はラテン語 consuetudo（習慣）に由来します。",
+    "etym_chain": [
+      { "node": "consuetudo", "sub": "習慣", "era": "ラテン語" },
+      { "node": "custom", "sub": "習慣・注文", "era": "中英語" },
+      { "node": "custom-made", "sub": "特注の", "era": "20世紀英語" }
+    ],
+    "phrases": [
+      { "en": "custom-made suit", "ja": "オーダーメイドのスーツ" },
+      { "en": "custom-made furniture", "ja": "特注の家具" },
+      { "en": "made to order", "ja": "注文に応じて作られた" },
+      { "en": "tailor-made", "ja": "あつらえの" },
+      { "en": "off the rack", "ja": "既製の" },
+      { "en": "ready-made", "ja": "既製の" }
+    ],
+    "related": [
+      { "en": "custom", "ja": "習慣、注文" },
+      { "en": "tailor-made", "ja": "あつらえの" },
+      { "en": "ready-made", "ja": "既製の" },
+      { "en": "order", "ja": "注文" }
+    ],
+    "faq": [
+      { "q": "「オーダーメイド」は英語で通じますか？", "a": "order made は和製英語で通じません。custom-made または made-to-order を使いましょう。" },
+      { "q": "tailor-made との違いは？", "a": "ほぼ同義ですが、tailor-made は特に衣服（仕立て）に、custom-made はより広い商品に使えます。" }
+    ],
+    "quiz": [
+      { "q": "custom-made の意味は？", "A": "既製の", "B": "特注の", "C": "中古の", "D": "大量生産の", "correct": "B" },
+      { "q": "「オーダーメイド」の正しい英語は？", "A": "order made", "B": "custom-made", "C": "make order", "D": "order making", "correct": "B" }
+    ]
+  },
+  {
+    "english": "d-day",
+    "pron": "ˈdiː deɪ",
+    "kana": "ディー・デイ",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "D (day) + day",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "歴史・慣用"],
+    "meaning_main": "決行日／（歴史）ノルマンディー上陸作戦の日",
+    "description": "D-Day の意味と使い方。作戦や計画を実行する「決行日」と、第二次大戦のノルマンディー上陸の日を表す語を解説します。",
+    "keywords": ["D-Day 意味", "D-Day 使い方", "決行日 英語", "ノルマンディー上陸 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】決行日、その日", "note": "重要な作戦・計画を実行する日。the big day のように使う" },
+      { "hinshi": "【固有名詞】ノルマンディー上陸の日", "note": "1944年6月6日、連合軍がフランスに上陸した日" }
+    ],
+    "usages": [
+      { "title": "① 歴史を語る", "desc": "第二次大戦の作戦日として使う", "example_en": "D-Day marked the start of the liberation of Europe.", "example_ja": "D-Day はヨーロッパ解放の始まりとなった。" },
+      { "title": "② 一般的な決行日", "desc": "大事な計画実行日を比喩的に表す", "example_en": "Tomorrow is D-Day for our big presentation.", "example_ja": "明日は私たちの大事なプレゼンの決行日だ。" }
+    ],
+    "warn": ["表記は 'D-Day' が標準（大文字＋ハイフン）", "D は Day の頭文字で、作戦開始日を表す軍事記号が由来"],
+    "etym_note": "軍事用語で、作戦開始日を D-Day、開始時刻を H-Hour と呼んだのが由来。特定の1944年6月6日を指す固有名詞としても定着しました。",
+    "etym_chain": [
+      { "node": "D-Day", "sub": "作戦開始日（軍事記号）", "era": "20世紀初頭" },
+      { "node": "D-Day", "sub": "ノルマンディー上陸の日", "era": "1944年" },
+      { "node": "D-Day", "sub": "決行日（一般）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "on D-Day", "ja": "決行日に" },
+      { "en": "D-Day landings", "ja": "ノルマンディー上陸作戦" },
+      { "en": "the big day", "ja": "大事な日" },
+      { "en": "zero hour", "ja": "決行時刻" },
+      { "en": "the invasion of Normandy", "ja": "ノルマンディー侵攻" },
+      { "en": "count down to D-Day", "ja": "決行日までカウントダウンする" }
+    ],
+    "related": [
+      { "en": "invasion", "ja": "侵攻" },
+      { "en": "landing", "ja": "上陸" },
+      { "en": "war", "ja": "戦争" },
+      { "en": "deadline", "ja": "締め切り" }
+    ],
+    "faq": [
+      { "q": "D-Day の D は何の略ですか？", "a": "Day の頭文字です。作戦開始日を D-Day、その時刻を H-Hour と表す軍事記号から来ています。" },
+      { "q": "歴史以外でも使えますか？", "a": "はい。「重要な計画を実行する日」の意味で日常でも使えます。例：明日がその D-Day だ。" }
+    ],
+    "quiz": [
+      { "q": "歴史上の D-Day が指すのは？", "A": "真珠湾攻撃", "B": "ノルマンディー上陸", "C": "終戦の日", "D": "独立記念日", "correct": "B" },
+      { "q": "D-Day の D は何の略？", "A": "Danger", "B": "Day", "C": "Defense", "D": "Decision", "correct": "B" }
+    ]
+  },
+  {
+    "english": "deep-fry",
+    "pron": "diːp fraɪ",
+    "kana": "ディープ・フライ",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "deep + fry",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "料理"],
+    "meaning_main": "油で揚げる／たっぷりの油で揚げる",
+    "description": "deep-fry の意味と使い方。たっぷりの油に沈めて調理する「揚げる」を表す動詞を、pan-fry との違いとともに解説します。",
+    "keywords": ["deep-fry 意味", "deep-fry 使い方", "揚げる 英語", "唐揚げ 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】たっぷりの油で揚げる", "note": "食材を油に沈めて揚げる調理法。deep-fried（揚げた）と使う" }
+    ],
+    "usages": [
+      { "title": "① 調理法を説明する", "desc": "揚げる作業を表す", "example_en": "Deep-fry the chicken until golden brown.", "example_ja": "鶏肉をきつね色になるまで揚げる。" },
+      { "title": "② 料理を描写する", "desc": "揚げ物であることを示す", "example_en": "These are deep-fried potatoes.", "example_ja": "これは揚げたジャガイモだ。" }
+    ],
+    "warn": ["ハイフンつきの 'deep-fry' が標準（動詞）", "少量の油で焼くのは pan-fry、炒めるのは stir-fry"],
+    "etym_note": "deep（深い→たっぷりの）と fry（油で調理する）を合わせた語。fry はラテン語 frigere（炒る・揚げる）に由来します。",
+    "etym_chain": [
+      { "node": "frigere", "sub": "炒る・揚げる", "era": "ラテン語" },
+      { "node": "fry", "sub": "油で調理する", "era": "中英語" },
+      { "node": "deep-fry", "sub": "たっぷりの油で揚げる", "era": "20世紀英語" }
+    ],
+    "phrases": [
+      { "en": "deep-fry the chicken", "ja": "鶏肉を揚げる" },
+      { "en": "deep-fried food", "ja": "揚げ物" },
+      { "en": "deep fryer", "ja": "電気フライヤー" },
+      { "en": "pan-fry", "ja": "少量の油で焼く" },
+      { "en": "stir-fry", "ja": "炒める" },
+      { "en": "golden brown", "ja": "きつね色" }
+    ],
+    "related": [
+      { "en": "fry", "ja": "揚げる、炒める" },
+      { "en": "cook", "ja": "料理する" },
+      { "en": "oil", "ja": "油" },
+      { "en": "crispy", "ja": "カリカリの" }
+    ],
+    "faq": [
+      { "q": "pan-fry との違いは？", "a": "deep-fry はたっぷりの油に沈めて揚げる方法、pan-fry は少量の油でフライパン焼きにする方法です。" },
+      { "q": "「揚げた」はどう言う？", "a": "過去分詞 deep-fried を使います。deep-fried chicken（揚げた鶏肉＝唐揚げ）のように形容詞的にも使えます。" }
+    ],
+    "quiz": [
+      { "q": "deep-fry の意味は？", "A": "蒸す", "B": "たっぷりの油で揚げる", "C": "煮る", "D": "焼く", "correct": "B" },
+      { "q": "少量の油で焼くことを表すのは？", "A": "deep-fry", "B": "pan-fry", "C": "boil", "D": "steam", "correct": "B" }
+    ]
+  },
+  {
+    "english": "dig-up",
+    "pron": "dɪɡ ʌp",
+    "kana": "ディグ・アップ",
+    "hinshi": "句動詞",
+    "ld_pos": "phrasal verb",
+    "ld_etym": "dig + up",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR A2", "句動詞"],
+    "meaning_main": "掘り出す／（情報を）探り出す",
+    "description": "dig up の意味と使い方。地面から掘り起こす意味と、隠れた情報を探り出す比喩の両方を例文つきで解説します。",
+    "keywords": ["dig up 意味", "dig up 使い方", "掘り出す 英語", "情報を探る 英語"],
+    "meanings": [
+      { "hinshi": "【句動詞】掘り出す、掘り起こす", "note": "土の中から取り出す。dig up potatoes" },
+      { "hinshi": "【句動詞】探り出す", "note": "隠れた情報や事実を見つけ出す比喩" }
+    ],
+    "usages": [
+      { "title": "① 物を掘り起こす", "desc": "地面から取り出す動作", "example_en": "They dug up an old coin in the garden.", "example_ja": "彼らは庭で古い硬貨を掘り出した。" },
+      { "title": "② 情報を探り出す", "desc": "隠れた事実を見つける比喩", "example_en": "The reporter dug up new evidence.", "example_ja": "記者は新しい証拠を探り出した。" }
+    ],
+    "warn": ["正しくは2語の句動詞 'dig up'。ハイフンでは書きません", "過去形は dug up（dig の過去は dug）"],
+    "etym_note": "dig（掘る）と up（上へ→取り出す）を合わせた句動詞。up は「表面に出す」ニュアンスを加えます。dig は中英語 diggen に由来します。",
+    "etym_chain": [
+      { "node": "diggen", "sub": "掘る", "era": "中英語" },
+      { "node": "dig", "sub": "掘る", "era": "近代英語" },
+      { "node": "dig up", "sub": "掘り出す・探り出す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "dig up the garden", "ja": "庭を掘り返す" },
+      { "en": "dig up information", "ja": "情報を探り出す" },
+      { "en": "dig up the past", "ja": "過去を掘り返す" },
+      { "en": "dig up evidence", "ja": "証拠を探り出す" },
+      { "en": "unearth", "ja": "発掘する" },
+      { "en": "find out", "ja": "見つけ出す" }
+    ],
+    "related": [
+      { "en": "dig", "ja": "掘る" },
+      { "en": "bury", "ja": "埋める" },
+      { "en": "unearth", "ja": "発掘する" },
+      { "en": "discover", "ja": "発見する" }
+    ],
+    "faq": [
+      { "q": "dig up の過去形は？", "a": "dug up です。dig は不規則動詞で、過去形・過去分詞ともに dug になります。" },
+      { "q": "情報にも使えますか？", "a": "はい。dig up information / dig up the past のように「隠れた事実を探り出す」比喩でよく使われます。" }
+    ],
+    "quiz": [
+      { "q": "dig up の意味は？", "A": "埋める", "B": "掘り出す", "C": "投げ捨てる", "D": "積み上げる", "correct": "B" },
+      { "q": "dig up の過去形は？", "A": "digged up", "B": "dug up", "C": "dag up", "D": "digs up", "correct": "B" }
+    ]
+  },
+  {
+    "english": "down-to-earth",
+    "pron": "ˌdaʊn tu ˈɜːθ",
+    "kana": "ダウン・トゥ・アース",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "down + to + earth",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "性格語"],
+    "meaning_main": "地に足のついた／現実的な／気取らない",
+    "description": "down-to-earth の意味と使い方。現実的で気取らない性格を表す形容詞を、ほめ言葉としての使い方とともに解説します。",
+    "keywords": ["down-to-earth 意味", "down-to-earth 使い方", "地に足のついた 英語", "気取らない 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】現実的な、地に足のついた", "note": "空想に走らず堅実な様子" },
+      { "hinshi": "【形容詞】気取らない、親しみやすい", "note": "偉ぶらず接しやすい人柄をほめる語" }
+    ],
+    "usages": [
+      { "title": "① 人柄をほめる", "desc": "親しみやすさを評価する", "example_en": "Despite her fame, she's very down-to-earth.", "example_ja": "有名なのに、彼女はとても気取らない。" },
+      { "title": "② 態度を説明する", "desc": "現実的な考え方を表す", "example_en": "He gave us some down-to-earth advice.", "example_ja": "彼は私たちに現実的な助言をくれた。" }
+    ],
+    "warn": ["ハイフンつきの 'down-to-earth' が標準（形容詞）", "ほめ言葉。対義語は「浮世離れした」head in the clouds"],
+    "etym_note": "down to earth（地面まで下りて）という句から生まれた比喩。「空想の世界から地上へ」というイメージで、堅実さや親しみやすさを表します。",
+    "etym_chain": [
+      { "node": "earth", "sub": "地面・大地", "era": "古英語" },
+      { "node": "down to earth", "sub": "地面まで下りて", "era": "近代英語" },
+      { "node": "down-to-earth", "sub": "現実的な・気取らない", "era": "20世紀英語" }
+    ],
+    "phrases": [
+      { "en": "a down-to-earth person", "ja": "気取らない人" },
+      { "en": "down-to-earth advice", "ja": "現実的な助言" },
+      { "en": "stay down-to-earth", "ja": "謙虚さを保つ" },
+      { "en": "practical", "ja": "実際的な" },
+      { "en": "have your feet on the ground", "ja": "地に足がついている" },
+      { "en": "head in the clouds", "ja": "浮世離れした" }
+    ],
+    "related": [
+      { "en": "practical", "ja": "実際的な" },
+      { "en": "realistic", "ja": "現実的な" },
+      { "en": "modest", "ja": "謙虚な" },
+      { "en": "earth", "ja": "地球、大地" }
+    ],
+    "faq": [
+      { "q": "ほめ言葉ですか？", "a": "はい。「偉ぶらず現実的で親しみやすい」という肯定的な意味で、人柄をほめるときに使います。" },
+      { "q": "対義語はありますか？", "a": "have one's head in the clouds（空想にふけって現実を見ない）が反対の状態を表します。" }
+    ],
+    "quiz": [
+      { "q": "down-to-earth の意味は？", "A": "浮世離れした", "B": "気取らず現実的な", "C": "怒りっぽい", "D": "自己中心的な", "correct": "B" },
+      { "q": "down-to-earth の反対に近いのは？", "A": "practical", "B": "head in the clouds", "C": "realistic", "D": "modest", "correct": "B" }
+    ]
+  },
+  {
+    "english": "ex-convict",
+    "pron": "ˌeks ˈkɒnvɪkt",
+    "kana": "エクス・コンヴィクト",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ex- + convict",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "社会語"],
+    "meaning_main": "前科者／元受刑者",
+    "description": "ex-convict の意味と使い方。刑期を終えた「元受刑者」を表す名詞を、接頭辞 ex-（前の）とともに解説します。",
+    "keywords": ["ex-convict 意味", "ex-convict 使い方", "前科者 英語", "元受刑者 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】元受刑者、前科者（可算）", "note": "刑務所を出た人。an ex-convict / ex-convicts。ex-con とも略す" }
+    ],
+    "usages": [
+      { "title": "① 立場を説明する", "desc": "過去に服役した人を指す", "example_en": "The program helps ex-convicts find jobs.", "example_ja": "その制度は元受刑者が仕事を見つけるのを助ける。" },
+      { "title": "② 社会復帰の話題で", "desc": "更生や偏見の文脈で使う", "example_en": "Many ex-convicts struggle to rebuild their lives.", "example_ja": "多くの元受刑者は生活の立て直しに苦労する。" }
+    ],
+    "warn": ["ハイフンつきの 'ex-convict' が標準。接頭辞 ex- は「前の」の意味", "人を指す語なので、当事者の前では配慮が必要。中立的には former inmate も使う"],
+    "etym_note": "ex-（前の、元の）と convict（有罪判決を受けた人）を合わせた語。convict はラテン語 convincere（打ち負かす→有罪と証明する）に由来します。",
+    "etym_chain": [
+      { "node": "convincere", "sub": "有罪を証明する", "era": "ラテン語" },
+      { "node": "convict", "sub": "受刑者", "era": "中英語" },
+      { "node": "ex-convict", "sub": "元受刑者", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a former ex-convict", "ja": "元受刑者" },
+      { "en": "hire an ex-convict", "ja": "元受刑者を雇う" },
+      { "en": "ex-con", "ja": "前科者（略）" },
+      { "en": "serve a sentence", "ja": "刑に服する" },
+      { "en": "reintegrate into society", "ja": "社会復帰する" },
+      { "en": "criminal record", "ja": "前科" }
+    ],
+    "related": [
+      { "en": "convict", "ja": "受刑者" },
+      { "en": "prison", "ja": "刑務所" },
+      { "en": "inmate", "ja": "収容者" },
+      { "en": "crime", "ja": "犯罪" }
+    ],
+    "faq": [
+      { "q": "ex- はどういう意味ですか？", "a": "「前の、元の」を表す接頭辞です。ex-husband（元夫）、ex-president（元大統領）のように使います。" },
+      { "q": "ex-con との違いは？", "a": "ex-con は ex-convict の口語的な略称で、意味は同じです。" }
+    ],
+    "quiz": [
+      { "q": "ex-convict の意味は？", "A": "現役の警官", "B": "元受刑者", "C": "弁護士", "D": "裁判官", "correct": "B" },
+      { "q": "接頭辞 ex- の意味は？", "A": "とても", "B": "前の、元の", "C": "反対の", "D": "外の", "correct": "B" }
+    ]
+  },
+  {
+    "english": "eye-catching",
+    "pron": "ˈaɪ kætʃɪŋ",
+    "kana": "アイ・キャッチング",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "eye + catching",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "頻出語"],
+    "meaning_main": "人目を引く／目立つ／印象的な",
+    "description": "eye-catching の意味と使い方。ぱっと目を引く、印象的で目立つ様子を表す形容詞を例文つきで解説します。",
+    "keywords": ["eye-catching 意味", "eye-catching 使い方", "人目を引く 英語", "目立つ 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】人目を引く、目立つ", "note": "色・デザインなどがぱっと注意を引く様子。肯定的な語" }
+    ],
+    "usages": [
+      { "title": "① デザインをほめる", "desc": "目立つ見た目を表す", "example_en": "The poster has an eye-catching design.", "example_ja": "そのポスターは人目を引くデザインだ。" },
+      { "title": "② 広告・宣伝で", "desc": "注意を引く工夫を表す", "example_en": "They used eye-catching colors for the ad.", "example_ja": "彼らは広告に目立つ色を使った。" }
+    ],
+    "warn": ["ハイフンつきの 'eye-catching' が標準", "catch the eye（目を引く）という句から生まれた形容詞"],
+    "etym_note": "eye（目）と catching（catch の現在分詞、つかむ）を合わせた語。catch the eye（目を引く）という表現から作られました。",
+    "etym_chain": [
+      { "node": "catch the eye", "sub": "目を引く", "era": "近代英語" },
+      { "node": "eye-catching", "sub": "人目を引く", "era": "20世紀英語" },
+      { "node": "eye-catching", "sub": "目立つ・印象的な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "eye-catching design", "ja": "人目を引くデザイン" },
+      { "en": "eye-catching colors", "ja": "目立つ色" },
+      { "en": "an eye-catching display", "ja": "目を引く陳列" },
+      { "en": "catch the eye", "ja": "目を引く" },
+      { "en": "stand out", "ja": "目立つ" },
+      { "en": "grab attention", "ja": "注意を引く" }
+    ],
+    "related": [
+      { "en": "eye", "ja": "目" },
+      { "en": "striking", "ja": "目を見張るような" },
+      { "en": "attractive", "ja": "魅力的な" },
+      { "en": "noticeable", "ja": "目立つ" }
+    ],
+    "faq": [
+      { "q": "肯定的な言葉ですか？", "a": "はい。「良い意味で目を引く、印象的」という肯定的なニュアンスで使われます。" },
+      { "q": "striking との違いは？", "a": "どちらも「目立つ」ですが、eye-catching は色やデザインの見た目、striking はより強い印象・驚きを含みます。" }
+    ],
+    "quiz": [
+      { "q": "eye-catching の意味は？", "A": "地味な", "B": "人目を引く", "C": "壊れやすい", "D": "使いにくい", "correct": "B" },
+      { "q": "eye-catching のもとになった句は？", "A": "keep an eye on", "B": "catch the eye", "C": "see eye to eye", "D": "an eye for an eye", "correct": "B" }
+    ]
+  },
+  {
+    "english": "fall-apart",
+    "pron": "fɔːl əˈpɑːrt",
+    "kana": "フォール・アパート",
+    "hinshi": "句動詞",
+    "ld_pos": "phrasal verb",
+    "ld_etym": "fall + apart",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "句動詞"],
+    "meaning_main": "ばらばらに壊れる／崩壊する／取り乱す",
+    "description": "fall apart の意味と使い方。物が壊れる意味と、計画や気持ちが崩れる比喩の両方を例文つきで解説します。",
+    "keywords": ["fall apart 意味", "fall apart 使い方", "崩壊する 英語", "壊れる 英語"],
+    "meanings": [
+      { "hinshi": "【句動詞】ばらばらに壊れる", "note": "物が分解して壊れる。The old book fell apart." },
+      { "hinshi": "【句動詞】崩壊する、うまくいかなくなる", "note": "計画・関係などが破綻する比喩" },
+      { "hinshi": "【句動詞】取り乱す", "note": "人が精神的にまいる。emotionally fall apart" }
+    ],
+    "usages": [
+      { "title": "① 物が壊れる", "desc": "分解して壊れる様子", "example_en": "The cheap toy fell apart in a day.", "example_ja": "その安いおもちゃは1日で壊れた。" },
+      { "title": "② 計画が崩れる", "desc": "うまくいかなくなる比喩", "example_en": "Their plans fell apart at the last minute.", "example_ja": "彼らの計画は土壇場で崩れた。" }
+    ],
+    "warn": ["正しくは2語の句動詞 'fall apart'。ハイフンでは書きません", "過去形は fell apart（fall の過去は fell）"],
+    "etym_note": "fall（落ちる→〜の状態になる）と apart（離れて、ばらばらに）を合わせた句動詞。apart は古フランス語 a part（脇へ）に由来します。",
+    "etym_chain": [
+      { "node": "a part", "sub": "脇へ", "era": "古フランス語" },
+      { "node": "apart", "sub": "離れて", "era": "中英語" },
+      { "node": "fall apart", "sub": "ばらばらに壊れる", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "fall apart at the seams", "ja": "縫い目からほころびる→崩壊する" },
+      { "en": "the plan fell apart", "ja": "計画が崩れた" },
+      { "en": "fall to pieces", "ja": "ばらばらになる" },
+      { "en": "break down", "ja": "故障する、行き詰まる" },
+      { "en": "come apart", "ja": "ばらばらになる" },
+      { "en": "hold it together", "ja": "気持ちを保つ" }
+    ],
+    "related": [
+      { "en": "fall", "ja": "落ちる" },
+      { "en": "break", "ja": "壊れる" },
+      { "en": "collapse", "ja": "崩壊する" },
+      { "en": "apart", "ja": "離れて" }
+    ],
+    "faq": [
+      { "q": "fall apart の過去形は？", "a": "fell apart です。fall は不規則動詞で、過去形が fell、過去分詞が fallen です。" },
+      { "q": "気持ちにも使えますか？", "a": "はい。「精神的にまいる、取り乱す」の意味でも使います。例：She fell apart after the news.（その知らせで彼女は取り乱した）" }
+    ],
+    "quiz": [
+      { "q": "fall apart の意味は？", "A": "組み立てる", "B": "ばらばらに壊れる", "C": "掃除する", "D": "折りたたむ", "correct": "B" },
+      { "q": "fall apart の過去形は？", "A": "falled apart", "B": "fell apart", "C": "fallen apart", "D": "falls apart", "correct": "B" }
+    ]
+  },
+  {
+    "english": "fast-forward",
+    "pron": "ˌfɑːst ˈfɔːwəd",
+    "kana": "ファスト・フォワード",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "verb",
+    "ld_etym": "fast + forward",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "頻出語"],
+    "meaning_main": "早送りする／（話を）先に進める",
+    "description": "fast-forward の意味と使い方。動画や音声を早送りする意味と、話を一気に先へ進める比喩を例文つきで解説します。",
+    "keywords": ["fast-forward 意味", "fast-forward 使い方", "早送り 英語", "話を先に進める 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】早送りする", "note": "動画・音声を先へ進める。fast-forward the video" },
+      { "hinshi": "【動詞】（話・時間を）先へ進める", "note": "Fast-forward to today, ...（話は今に飛んで…）" },
+      { "hinshi": "【名詞】早送り機能", "note": "hit fast-forward で「早送りを押す」" }
+    ],
+    "usages": [
+      { "title": "① 映像を早送りする", "desc": "退屈な場面を飛ばす動作", "example_en": "I fast-forwarded through the commercials.", "example_ja": "私はコマーシャルを早送りした。" },
+      { "title": "② 話を先に進める", "desc": "時間を飛ばして語る比喩", "example_en": "Fast-forward ten years, and they were married.", "example_ja": "話は10年後に飛んで、二人は結婚していた。" }
+    ],
+    "warn": ["ハイフンつきの 'fast-forward' が標準（動詞・名詞）", "対義語は rewind（巻き戻す）"],
+    "etym_note": "fast（速い）と forward（前へ）を合わせた語。テープ機器の「早送り」ボタンの名から、時間を飛ばす比喩にも広がりました。",
+    "etym_chain": [
+      { "node": "forward", "sub": "前へ", "era": "古英語" },
+      { "node": "fast forward", "sub": "速く前へ", "era": "20世紀（録音機器）" },
+      { "node": "fast-forward", "sub": "早送りする・先へ進める", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "fast-forward the video", "ja": "動画を早送りする" },
+      { "en": "hit fast-forward", "ja": "早送りを押す" },
+      { "en": "fast-forward to the end", "ja": "最後まで早送りする" },
+      { "en": "fast-forward to today", "ja": "話は現在に飛んで" },
+      { "en": "rewind", "ja": "巻き戻す" },
+      { "en": "skip ahead", "ja": "先へ飛ばす" }
+    ],
+    "related": [
+      { "en": "forward", "ja": "前へ" },
+      { "en": "rewind", "ja": "巻き戻す" },
+      { "en": "skip", "ja": "飛ばす" },
+      { "en": "pause", "ja": "一時停止する" }
+    ],
+    "faq": [
+      { "q": "対義語は何ですか？", "a": "rewind（巻き戻す）です。fast-forward が先へ進めるのに対し、rewind は前に戻します。" },
+      { "q": "話を進める比喩でも使えますか？", "a": "はい。Fast-forward to ...（話は〜に飛んで）で、時間を一気に進めて語るときによく使います。" }
+    ],
+    "quiz": [
+      { "q": "fast-forward の意味は？", "A": "巻き戻す", "B": "早送りする", "C": "一時停止する", "D": "録画する", "correct": "B" },
+      { "q": "fast-forward の対義語は？", "A": "pause", "B": "rewind", "C": "play", "D": "stop", "correct": "B" }
+    ]
+  }
+]
