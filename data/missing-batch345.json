@@ -1,0 +1,984 @@
+[
+  {
+    "english": "acidic",
+    "pron": "əˈsɪdɪk",
+    "kana": "アシディック",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "acid + -ic",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "科学"],
+    "meaning_main": "酸性の／酸っぱい",
+    "description": "acidic の意味と使い方。酸を含む「酸性の」性質や「酸っぱい」味を表す形容詞を、対義語 alkaline とともに解説します。",
+    "keywords": ["acidic 意味", "acidic 使い方", "酸性 英語", "酸っぱい 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】酸性の、酸っぱい", "note": "酸を含み pH が7より低い。acidic soil（酸性の土）" }
+    ],
+    "usages": [
+      { "title": "① 化学で使う", "desc": "酸性を表す", "example_en": "Lemon juice is highly acidic.", "example_ja": "レモン汁は強い酸性だ。" },
+      { "title": "② 土などに使う", "desc": "性質を表す", "example_en": "Some plants prefer acidic soil.", "example_ja": "一部の植物は酸性の土を好む。" }
+    ],
+    "warn": ["名詞は acid（酸）。対義語は alkaline / basic（アルカリ性の）", "pH が7未満で酸性、7で中性、7より上でアルカリ性"],
+    "etym_note": "acid（酸。ラテン語 acidus〈酸っぱい〉から）に「〜の性質の」を表す -ic をつけた語。「酸の性質をもつ＝酸性の」を表します。",
+    "etym_chain": [
+      { "node": "acidus", "sub": "酸っぱい", "era": "ラテン語" },
+      { "node": "acid", "sub": "酸", "era": "近代英語" },
+      { "node": "acidic", "sub": "酸性の", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "acidic soil", "ja": "酸性の土" },
+      { "en": "highly acidic", "ja": "強い酸性の" },
+      { "en": "acid", "ja": "酸" },
+      { "en": "alkaline", "ja": "アルカリ性の" },
+      { "en": "pH level", "ja": "pH値" },
+      { "en": "sour", "ja": "酸っぱい" }
+    ],
+    "related": [
+      { "en": "acid", "ja": "酸" },
+      { "en": "alkaline", "ja": "アルカリ性の" },
+      { "en": "sour", "ja": "酸っぱい" },
+      { "en": "chemical", "ja": "化学の" }
+    ],
+    "faq": [
+      { "q": "対義語は？", "a": "alkaline（アルカリ性の）や basic（塩基性の）です。pH が7未満で酸性、7より上でアルカリ性です。" },
+      { "q": "名詞形は？", "a": "acid（酸）です。acidic はその形容詞で「酸性の・酸っぱい」を表します。" }
+    ],
+    "quiz": [
+      { "q": "acidic の意味は？", "A": "アルカリ性の", "B": "酸性の・酸っぱい", "C": "甘い", "D": "無味の", "correct": "B" },
+      { "q": "acidic の対義語は？", "A": "acid", "B": "alkaline", "C": "sour", "D": "sweet", "correct": "B" }
+    ]
+  },
+  {
+    "english": "ad-lib",
+    "pron": "ˌæd ˈlɪb",
+    "kana": "アドリブ",
+    "hinshi": "動詞 / 名詞 / 形容詞",
+    "ld_pos": "verb",
+    "ld_etym": "ラテン語 ad libitum（意のままに）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "口語表現"],
+    "meaning_main": "即興で言う・演じる／アドリブ",
+    "description": "ad-lib の意味と使い方。台本なしにその場で「即興で言う・演じる（アドリブ）」を表す動詞・名詞を、ラテン語の語源とともに解説します。",
+    "keywords": ["ad-lib 意味", "ad-lib 使い方", "アドリブ 英語", "即興 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】即興で言う・演じる", "note": "台本や準備なしにその場で話す・演じる。ad-lib a speech" },
+      { "hinshi": "【名詞・形容詞】アドリブ（の）", "note": "即興のせりふ・演技。an ad-lib joke" }
+    ],
+    "usages": [
+      { "title": "① 動詞で使う", "desc": "即興で話す", "example_en": "The actor forgot his lines and had to ad-lib.", "example_ja": "その俳優はせりふを忘れてアドリブでやるしかなかった。" },
+      { "title": "② 名詞で使う", "desc": "即興のせりふ", "example_en": "That funny line was an ad-lib.", "example_ja": "あの面白いせりふはアドリブだった。" }
+    ],
+    "warn": ["ハイフンつきの 'ad-lib' が標準。ラテン語 ad libitum（意のままに）の略", "「アドリブ」は和製英語ではなく英語でも通じる"],
+    "etym_note": "ラテン語 ad libitum（自由に・意のままに）の略です。「好きなように＝台本なしで自由に」から「即興で言う・演じる」の意味になりました。",
+    "etym_chain": [
+      { "node": "ad libitum", "sub": "意のままに", "era": "ラテン語" },
+      { "node": "ad lib", "sub": "自由に（略）", "era": "近代英語" },
+      { "node": "ad-lib", "sub": "即興で言う", "era": "20世紀英語" }
+    ],
+    "phrases": [
+      { "en": "ad-lib a speech", "ja": "即興でスピーチする" },
+      { "en": "an ad-lib joke", "ja": "アドリブの冗談" },
+      { "en": "improvise", "ja": "即興でやる" },
+      { "en": "off the cuff", "ja": "即興で、準備なしに" },
+      { "en": "a script", "ja": "台本" },
+      { "en": "make it up", "ja": "でっち上げる、即興で作る" }
+    ],
+    "related": [
+      { "en": "improvise", "ja": "即興でやる" },
+      { "en": "spontaneous", "ja": "自発的な" },
+      { "en": "script", "ja": "台本" },
+      { "en": "performance", "ja": "演技、公演" }
+    ],
+    "faq": [
+      { "q": "improvise との違いは？", "a": "ほぼ同義です。improvise は音楽・演技など幅広い即興、ad-lib は特に台本のあるものを「その場で自由に変えて言う」に重点があります。" },
+      { "q": "語源は？", "a": "ラテン語 ad libitum（意のままに）の略です。楽譜でも ad lib.（自由に演奏してよい）という指示に使われます。" }
+    ],
+    "quiz": [
+      { "q": "ad-lib の意味は？", "A": "台本どおりに読む", "B": "即興で言う・演じる", "C": "暗記する", "D": "録音する", "correct": "B" },
+      { "q": "ad-lib のもとのラテン語 ad libitum の意味は？", "A": "意のままに", "B": "急いで", "C": "正確に", "D": "静かに", "correct": "A" }
+    ]
+  },
+  {
+    "english": "adulthood",
+    "pron": "ˈædʌlthʊd",
+    "kana": "アダルトフッド",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "adult + -hood",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "頻出語"],
+    "meaning_main": "成人期／大人であること",
+    "description": "adulthood の意味と使い方。大人になってからの時期「成人期」を表す名詞を、childhood（子ども時代）などとともに解説します。",
+    "keywords": ["adulthood 意味", "adulthood 使い方", "成人期 英語", "大人 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】成人期、大人であること（不可算）", "note": "大人になってからの時期・状態。reach adulthood（成人する）" }
+    ],
+    "usages": [
+      { "title": "① 時期を表す", "desc": "成人期を指す", "example_en": "He moved abroad in early adulthood.", "example_ja": "彼は成人したばかりのころ海外へ移った。" },
+      { "title": "② 状態を述べる", "desc": "大人であること", "example_en": "Adulthood brings new responsibilities.", "example_ja": "成人期は新しい責任をもたらす。" }
+    ],
+    "warn": ["adult（大人）＋ -hood（〜の状態・時期）。childhood（子ども時代）と対になる", "-hood は状態・時期を表す接尾辞（childhood, neighborhood など）"],
+    "etym_note": "adult（大人。ラテン語 adultus〈成長した〉から）に「〜の状態・時期」を表す -hood をつけた語。「大人である時期＝成人期」を表します。",
+    "etym_chain": [
+      { "node": "adultus", "sub": "成長した", "era": "ラテン語" },
+      { "node": "adult", "sub": "大人", "era": "近代英語" },
+      { "node": "adulthood", "sub": "成人期", "era": "19世紀英語" }
+    ],
+    "phrases": [
+      { "en": "reach adulthood", "ja": "成人する" },
+      { "en": "early adulthood", "ja": "成人期の初め" },
+      { "en": "young adulthood", "ja": "若い成人期" },
+      { "en": "childhood", "ja": "子ども時代" },
+      { "en": "grow up", "ja": "成長する" },
+      { "en": "maturity", "ja": "成熟" }
+    ],
+    "related": [
+      { "en": "adult", "ja": "大人" },
+      { "en": "childhood", "ja": "子ども時代" },
+      { "en": "maturity", "ja": "成熟" },
+      { "en": "grown-up", "ja": "大人（の）" }
+    ],
+    "faq": [
+      { "q": "-hood の意味は？", "a": "「〜の状態・時期」を表す接尾辞です。childhood（子ども時代）、neighborhood（近所）、motherhood（母であること）などがあります。" },
+      { "q": "childhood と対になる？", "a": "はい。childhood（子ども時代）に対して adulthood（成人期）が対になります。その間に adolescence（青年期）があります。" }
+    ],
+    "quiz": [
+      { "q": "adulthood の意味は？", "A": "子ども時代", "B": "成人期・大人であること", "C": "老年期", "D": "幼児期", "correct": "B" },
+      { "q": "-hood が表す意味は？", "A": "〜の状態・時期", "B": "〜のない", "C": "〜できる", "D": "〜する人", "correct": "A" }
+    ]
+  },
+  {
+    "english": "amazement",
+    "pron": "əˈmeɪzmənt",
+    "kana": "アメイズメント",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "amaze + -ment",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "感情語"],
+    "meaning_main": "驚き／びっくりすること",
+    "description": "amazement の意味と使い方。強く驚く気持ち「驚き・びっくり」を表す名詞を、動詞 amaze や in amazement の形とともに解説します。",
+    "keywords": ["amazement 意味", "amazement 使い方", "驚き 英語", "びっくり 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】驚き（不可算）", "note": "強く驚く気持ち。in amazement（驚いて）、to my amazement（驚いたことに）" }
+    ],
+    "usages": [
+      { "title": "① 驚きを表す", "desc": "びっくりする様子", "example_en": "She stared in amazement.", "example_ja": "彼女は驚いてじっと見つめた。" },
+      { "title": "② 文頭で使う", "desc": "「驚いたことに」", "example_en": "To my amazement, he passed the test.", "example_ja": "驚いたことに、彼は試験に合格した。" }
+    ],
+    "warn": ["動詞は amaze（驚かせる）、形容詞は amazing（驚くべき）/ amazed（驚いた）", "in amazement（驚いて）、to one's amazement（驚いたことに）は定型"],
+    "etym_note": "amaze（驚かせる。古英語 amasian〈当惑させる〉から）に「〜の状態」を表す -ment をつけた語。「驚いた状態＝驚き」を表します。",
+    "etym_chain": [
+      { "node": "amasian", "sub": "当惑させる", "era": "古英語" },
+      { "node": "amaze", "sub": "驚かせる", "era": "近代英語" },
+      { "node": "amazement", "sub": "驚き", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "in amazement", "ja": "驚いて" },
+      { "en": "to my amazement", "ja": "驚いたことに" },
+      { "en": "in utter amazement", "ja": "すっかり驚いて" },
+      { "en": "amaze", "ja": "驚かせる" },
+      { "en": "astonishment", "ja": "驚き" },
+      { "en": "surprise", "ja": "驚き" }
+    ],
+    "related": [
+      { "en": "amaze", "ja": "驚かせる" },
+      { "en": "amazing", "ja": "驚くべき" },
+      { "en": "astonishment", "ja": "驚き" },
+      { "en": "wonder", "ja": "驚き、不思議" }
+    ],
+    "faq": [
+      { "q": "動詞・形容詞は？", "a": "動詞は amaze（驚かせる）、形容詞は amazing（驚くべき）と amazed（驚いた）です。amazement はその名詞です。" },
+      { "q": "to my amazement とは？", "a": "「驚いたことに」という決まった言い方です。文頭に置いて、その後に驚いた内容を述べます。" }
+    ],
+    "quiz": [
+      { "q": "amazement の意味は？", "A": "退屈", "B": "驚き", "C": "怒り", "D": "悲しみ", "correct": "B" },
+      { "q": "「驚いたことに」を表すのは？", "A": "in my amazement", "B": "to my amazement", "C": "by my amazement", "D": "for my amazement", "correct": "B" }
+    ]
+  },
+  {
+    "english": "anaesthesia",
+    "pron": "ˌænəsˈθiːziə",
+    "kana": "アネスシージア",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ギリシャ語 an-(無) + aisthēsis(感覚)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "医学"],
+    "meaning_main": "麻酔（手術時に感覚をなくすこと）",
+    "description": "anaesthesia（米: anesthesia）の意味と使い方。手術のときに痛みなどの感覚をなくす「麻酔」を表す医学用語を、語源とともに解説します。",
+    "keywords": ["anaesthesia 意味", "anesthesia 使い方", "麻酔 英語", "全身麻酔 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】麻酔（不可算）", "note": "手術時に薬で感覚（特に痛み）をなくすこと。general anaesthesia（全身麻酔）" }
+    ],
+    "usages": [
+      { "title": "① 手術で使う", "desc": "麻酔を表す", "example_en": "The operation was done under general anaesthesia.", "example_ja": "その手術は全身麻酔のもとで行われた。" },
+      { "title": "② 種類を説明する", "desc": "局所麻酔など", "example_en": "The dentist used local anaesthesia.", "example_ja": "歯科医は局所麻酔を使った。" }
+    ],
+    "warn": ["イギリス綴りは anaesthesia、アメリカ綴りは anesthesia。麻酔科医は anaesthetist / anesthesiologist", "an-（無）＋ aisthēsis（感覚）で「感覚がないこと」"],
+    "etym_note": "ギリシャ語 an-（無い）と aisthēsis（感覚）を合わせた語。「感覚がないこと＝麻酔」を表します。19世紀に手術用の麻酔を指す語として広まりました。",
+    "etym_chain": [
+      { "node": "an- + aisthēsis", "sub": "無＋感覚", "era": "ギリシャ語" },
+      { "node": "anaesthesia", "sub": "感覚のないこと", "era": "19世紀英語" },
+      { "node": "anaesthesia", "sub": "麻酔", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "general anaesthesia", "ja": "全身麻酔" },
+      { "en": "local anaesthesia", "ja": "局所麻酔" },
+      { "en": "under anaesthesia", "ja": "麻酔下で" },
+      { "en": "an anaesthetic", "ja": "麻酔薬" },
+      { "en": "surgery", "ja": "手術" },
+      { "en": "sedation", "ja": "鎮静" }
+    ],
+    "related": [
+      { "en": "anaesthetic", "ja": "麻酔薬" },
+      { "en": "surgery", "ja": "手術" },
+      { "en": "sedation", "ja": "鎮静" },
+      { "en": "operation", "ja": "手術" }
+    ],
+    "faq": [
+      { "q": "米綴りは？", "a": "anesthesia です。イギリス綴りは anaesthesia で、a が一つ多く入ります。どちらも同じ「麻酔」です。" },
+      { "q": "全身麻酔と局所麻酔の違いは？", "a": "general anaesthesia（全身麻酔）は意識をなくし全身の感覚を止め、local anaesthesia（局所麻酔）は体の一部だけ感覚を止めます。" }
+    ],
+    "quiz": [
+      { "q": "anaesthesia の意味は？", "A": "消毒", "B": "麻酔", "C": "縫合", "D": "検査", "correct": "B" },
+      { "q": "anaesthesia の語源 an- の意味は？", "A": "無い", "B": "多い", "C": "再び", "D": "前の", "correct": "A" }
+    ]
+  },
+  {
+    "english": "antioxidant",
+    "pron": "ˌæntiˈɒksɪdənt",
+    "kana": "アンチオキシダント",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "anti-(対抗) + oxidant(酸化物)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "科学・健康"],
+    "meaning_main": "抗酸化物質",
+    "description": "antioxidant の意味と使い方。体内の酸化（老化・細胞の傷み）を防ぐ「抗酸化物質」を表す名詞を、接頭辞 anti-（対抗）とともに解説します。",
+    "keywords": ["antioxidant 意味", "antioxidant 使い方", "抗酸化物質 英語", "抗酸化 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】抗酸化物質（可算）", "note": "酸化による細胞の傷みを防ぐ物質。ビタミンCやEなど。rich in antioxidants" }
+    ],
+    "usages": [
+      { "title": "① 健康の話題で", "desc": "抗酸化物質を表す", "example_en": "Blueberries are rich in antioxidants.", "example_ja": "ブルーベリーは抗酸化物質が豊富だ。" },
+      { "title": "② 働きを説明する", "desc": "酸化を防ぐ", "example_en": "Antioxidants help protect cells from damage.", "example_ja": "抗酸化物質は細胞を傷から守るのを助ける。" }
+    ],
+    "warn": ["anti-（対抗）＋ oxidant（酸化物）で「酸化に対抗するもの」", "oxidation（酸化）を防ぐ物質。ビタミンC・E、ポリフェノールなど"],
+    "etym_note": "接頭辞 anti-（〜に対抗する）と oxidant（酸化させるもの、oxygen〈酸素〉から）を合わせた語。「酸化に対抗する物質」を表します。",
+    "etym_chain": [
+      { "node": "anti- + oxidant", "sub": "対抗＋酸化物", "era": "英語" },
+      { "node": "antioxidant", "sub": "抗酸化物質", "era": "20世紀英語" },
+      { "node": "antioxidant", "sub": "抗酸化物質（健康）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rich in antioxidants", "ja": "抗酸化物質が豊富な" },
+      { "en": "a powerful antioxidant", "ja": "強力な抗酸化物質" },
+      { "en": "oxidation", "ja": "酸化" },
+      { "en": "free radicals", "ja": "活性酸素、フリーラジカル" },
+      { "en": "vitamin C", "ja": "ビタミンC" },
+      { "en": "protect cells", "ja": "細胞を守る" }
+    ],
+    "related": [
+      { "en": "oxidation", "ja": "酸化" },
+      { "en": "vitamin", "ja": "ビタミン" },
+      { "en": "health", "ja": "健康" },
+      { "en": "nutrient", "ja": "栄養素" }
+    ],
+    "faq": [
+      { "q": "接頭辞 anti- の意味は？", "a": "「〜に対抗する・反対の」を表します。antibiotic（抗生物質）、antifreeze（不凍液）などにも使われます。" },
+      { "q": "どんな食べ物に多い？", "a": "ベリー類、緑茶、ダークチョコレート、野菜などに多く含まれます。ビタミンCやE、ポリフェノールが代表的な抗酸化物質です。" }
+    ],
+    "quiz": [
+      { "q": "antioxidant の意味は？", "A": "酸化を促す物質", "B": "抗酸化物質", "C": "防腐剤", "D": "着色料", "correct": "B" },
+      { "q": "接頭辞 anti- の意味は？", "A": "〜に対抗する", "B": "〜より前の", "C": "〜の下の", "D": "〜の間の", "correct": "A" }
+    ]
+  },
+  {
+    "english": "aperitif",
+    "pron": "əˌperɪˈtiːf",
+    "kana": "アペリティフ",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "フランス語 apéritif（食前酒）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "食べ物・飲み物"],
+    "meaning_main": "食前酒（食事の前に飲む軽いお酒）",
+    "description": "aperitif の意味と使い方。食欲を促すために食事の前に飲む「食前酒」を表す語を、フランス語の語源とともに解説します。",
+    "keywords": ["aperitif 意味", "aperitif 使い方", "食前酒 英語", "アペリティフ 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】食前酒（可算）", "note": "食欲を促すため食事の前に飲む軽いお酒。シャンパンやシェリーなど。正式表記は apéritif" }
+    ],
+    "usages": [
+      { "title": "① 飲み物を表す", "desc": "食前酒を指す", "example_en": "They served champagne as an aperitif.", "example_ja": "彼らは食前酒としてシャンパンを出した。" },
+      { "title": "② 食事の場面で", "desc": "食前の一杯", "example_en": "Would you like an aperitif before dinner?", "example_ja": "夕食の前に食前酒はいかがですか？" }
+    ],
+    "warn": ["フランス語由来。正式にはアクセントつきの apéritif だが英語では aperitif とも書く", "食後酒は digestif（ディジェスティフ）"],
+    "etym_note": "フランス語 apéritif（食欲を開くもの）に由来し、ラテン語 aperire（開く）にさかのぼります。「食欲を開く＝食前酒」を表します。",
+    "etym_chain": [
+      { "node": "aperire", "sub": "開く", "era": "ラテン語" },
+      { "node": "apéritif", "sub": "食前酒", "era": "フランス語" },
+      { "node": "aperitif", "sub": "食前酒", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "have an aperitif", "ja": "食前酒を飲む" },
+      { "en": "serve an aperitif", "ja": "食前酒を出す" },
+      { "en": "a digestif", "ja": "食後酒" },
+      { "en": "before dinner", "ja": "夕食前に" },
+      { "en": "champagne", "ja": "シャンパン" },
+      { "en": "a cocktail", "ja": "カクテル" }
+    ],
+    "related": [
+      { "en": "drink", "ja": "飲み物" },
+      { "en": "wine", "ja": "ワイン" },
+      { "en": "cocktail", "ja": "カクテル" },
+      { "en": "appetite", "ja": "食欲" }
+    ],
+    "faq": [
+      { "q": "食後酒との違いは？", "a": "aperitif（食前酒）は食事の前に食欲を促すために、digestif（食後酒）は食後に消化を助けるために飲みます。" },
+      { "q": "語源は？", "a": "ラテン語 aperire（開く）に由来し、「食欲を開くもの」という意味です。フランス語 apéritif から英語に入りました。" }
+    ],
+    "quiz": [
+      { "q": "aperitif の意味は？", "A": "食後のデザート", "B": "食前酒", "C": "前菜", "D": "コーヒー", "correct": "B" },
+      { "q": "食後に飲むお酒を表すのは？", "A": "aperitif", "B": "digestif", "C": "appetizer", "D": "cocktail", "correct": "B" }
+    ]
+  },
+  {
+    "english": "appendicitis",
+    "pron": "əˌpendɪˈsaɪtɪs",
+    "kana": "アペンディサイティス",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "appendix + -itis(炎症)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "医学"],
+    "meaning_main": "虫垂炎（いわゆる盲腸）",
+    "description": "appendicitis の意味と使い方。虫垂が炎症を起こす病気「虫垂炎（盲腸）」を表す医学用語を、接尾辞 -itis（炎症）とともに解説します。",
+    "keywords": ["appendicitis 意味", "appendicitis 使い方", "虫垂炎 英語", "盲腸 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】虫垂炎（不可算）", "note": "虫垂(appendix)の炎症。俗に「盲腸」。acute appendicitis（急性虫垂炎）" }
+    ],
+    "usages": [
+      { "title": "① 病気を説明する", "desc": "虫垂炎を指す", "example_en": "He was rushed to hospital with appendicitis.", "example_ja": "彼は虫垂炎で病院に運ばれた。" },
+      { "title": "② 症状を述べる", "desc": "痛みを表す", "example_en": "Appendicitis causes severe pain on the right side.", "example_ja": "虫垂炎は右側に激しい痛みを起こす。" }
+    ],
+    "warn": ["接尾辞 -itis は「炎症」。appendix（虫垂）＋ -itis で「虫垂の炎症」", "俗に「盲腸」と言うが、正確には盲腸の先の虫垂の炎症"],
+    "etym_note": "appendix（虫垂。ラテン語 appendere〈付け加える〉から「付属物」）に「炎症」を表す接尾辞 -itis をつけた語。「虫垂の炎症」を表します。",
+    "etym_chain": [
+      { "node": "appendix", "sub": "付属物・虫垂", "era": "ラテン語" },
+      { "node": "appendix + -itis", "sub": "虫垂＋炎症", "era": "医学ラテン" },
+      { "node": "appendicitis", "sub": "虫垂炎", "era": "19世紀英語" }
+    ],
+    "phrases": [
+      { "en": "acute appendicitis", "ja": "急性虫垂炎" },
+      { "en": "have appendicitis", "ja": "虫垂炎になる" },
+      { "en": "the appendix", "ja": "虫垂" },
+      { "en": "abdominal pain", "ja": "腹痛" },
+      { "en": "an operation", "ja": "手術" },
+      { "en": "bronchitis", "ja": "気管支炎（-itis の例）" }
+    ],
+    "related": [
+      { "en": "appendix", "ja": "虫垂、付録" },
+      { "en": "inflammation", "ja": "炎症" },
+      { "en": "surgery", "ja": "手術" },
+      { "en": "pain", "ja": "痛み" }
+    ],
+    "faq": [
+      { "q": "接尾辞 -itis の意味は？", "a": "「炎症」を表します。arthritis（関節炎）、bronchitis（気管支炎）、tonsillitis（扁桃炎）などがあります。" },
+      { "q": "「盲腸」と同じ？", "a": "俗に「盲腸」と呼ばれますが、正確には盲腸の先にある虫垂(appendix)の炎症です。手術で虫垂を取り除くことがあります。" }
+    ],
+    "quiz": [
+      { "q": "appendicitis の意味は？", "A": "胃炎", "B": "虫垂炎（盲腸）", "C": "肺炎", "D": "関節炎", "correct": "B" },
+      { "q": "接尾辞 -itis が表すのは？", "A": "炎症", "B": "手術", "C": "薬", "D": "検査", "correct": "A" }
+    ]
+  },
+  {
+    "english": "appraiser",
+    "pron": "əˈpreɪzər",
+    "kana": "アプレイザー",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "appraise + -er",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "ビジネス"],
+    "meaning_main": "鑑定士／査定人（価値を評価する人）",
+    "description": "appraiser の意味と使い方。不動産や美術品などの価値を評価する「鑑定士・査定人」を表す名詞を、動詞 appraise とともに解説します。",
+    "keywords": ["appraiser 意味", "appraiser 使い方", "鑑定士 英語", "査定 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】鑑定士、査定人（可算）", "note": "物の価値を専門的に評価する人。a real estate appraiser（不動産鑑定士）" }
+    ],
+    "usages": [
+      { "title": "① 職業を説明する", "desc": "査定する人を指す", "example_en": "The appraiser valued the painting at $10,000.", "example_ja": "鑑定士はその絵を1万ドルと評価した。" },
+      { "title": "② 不動産で使う", "desc": "価値を査定", "example_en": "We hired an appraiser to assess the house.", "example_ja": "私たちは家を査定してもらうため鑑定士を雇った。" }
+    ],
+    "warn": ["動詞は appraise（評価する、査定する）。praise（ほめる）とは別の語", "名詞は appraisal（査定、評価）"],
+    "etym_note": "appraise（値をつける・評価する。ラテン語 pretium〈値段〉から）に「〜する人」を表す -er をつけた語。「価値を評価する人＝鑑定士」を表します。",
+    "etym_chain": [
+      { "node": "pretium", "sub": "値段", "era": "ラテン語" },
+      { "node": "appraise", "sub": "評価する", "era": "中英語" },
+      { "node": "appraiser", "sub": "鑑定士", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a real estate appraiser", "ja": "不動産鑑定士" },
+      { "en": "a professional appraiser", "ja": "専門の鑑定士" },
+      { "en": "appraise", "ja": "評価する、査定する" },
+      { "en": "an appraisal", "ja": "査定、評価" },
+      { "en": "estimate the value", "ja": "価値を見積もる" },
+      { "en": "assess", "ja": "評価する" }
+    ],
+    "related": [
+      { "en": "appraise", "ja": "評価する" },
+      { "en": "appraisal", "ja": "査定" },
+      { "en": "value", "ja": "価値" },
+      { "en": "assess", "ja": "評価する" }
+    ],
+    "faq": [
+      { "q": "appraise と praise の違いは？", "a": "appraise は「価値を評価・査定する」、praise は「ほめる」です。つづりは似ていますが別の語です。" },
+      { "q": "名詞形は？", "a": "appraisal（査定、評価）です。appraiser（鑑定士）はそれを行う人を指します。" }
+    ],
+    "quiz": [
+      { "q": "appraiser の意味は？", "A": "販売員", "B": "鑑定士・査定人", "C": "会計士", "D": "建築家", "correct": "B" },
+      { "q": "appraiser の動詞形は？", "A": "appraise", "B": "praise", "C": "apprise", "D": "appear", "correct": "A" }
+    ]
+  },
+  {
+    "english": "aromatic",
+    "pron": "ˌærəˈmætɪk",
+    "kana": "アロマティック",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "ギリシャ語 arōma（香り）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "芳香のある／よい香りの",
+    "description": "aromatic の意味と使い方。よい香りが漂う「芳香のある」様子を表す形容詞を、名詞 aroma とともに解説します。",
+    "keywords": ["aromatic 意味", "aromatic 使い方", "芳香 英語", "よい香り 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】芳香のある、よい香りの", "note": "心地よい強い香りがする。aromatic herbs（香りのよいハーブ）" }
+    ],
+    "usages": [
+      { "title": "① 香りを表す", "desc": "よい香りの様子", "example_en": "The kitchen was filled with aromatic spices.", "example_ja": "台所は香りのよい香辛料でいっぱいだった。" },
+      { "title": "② 食べ物・植物に", "desc": "香り高い様子", "example_en": "This tea has an aromatic flavor.", "example_ja": "このお茶は芳香のある味わいだ。" }
+    ],
+    "warn": ["名詞は aroma（芳香、よい香り）。「アロマ」はここから", "化学では「芳香族の」という別の専門的意味もある"],
+    "etym_note": "ギリシャ語 arōma（香り・香辛料）に由来する形容詞。「よい香りのある」を表します。名詞 aroma（芳香）から作られました。",
+    "etym_chain": [
+      { "node": "arōma", "sub": "香り・香辛料", "era": "ギリシャ語" },
+      { "node": "aroma", "sub": "芳香", "era": "中英語" },
+      { "node": "aromatic", "sub": "芳香のある", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "aromatic herbs", "ja": "香りのよいハーブ" },
+      { "en": "aromatic spices", "ja": "芳香のある香辛料" },
+      { "en": "aroma", "ja": "芳香、よい香り" },
+      { "en": "fragrant", "ja": "香りのよい" },
+      { "en": "a pleasant smell", "ja": "心地よい香り" },
+      { "en": "aromatherapy", "ja": "アロマセラピー" }
+    ],
+    "related": [
+      { "en": "aroma", "ja": "芳香" },
+      { "en": "fragrant", "ja": "香りのよい" },
+      { "en": "scent", "ja": "香り" },
+      { "en": "smell", "ja": "におい" }
+    ],
+    "faq": [
+      { "q": "名詞形は？", "a": "aroma（芳香、よい香り）です。「アロマ」はここから来ています。aromatherapy（アロマセラピー）にも使われます。" },
+      { "q": "fragrant との違いは？", "a": "ほぼ同義で「香りのよい」を表します。aromatic は香辛料・ハーブ・お茶などの強めの香りに、fragrant は花などの香りによく使います。" }
+    ],
+    "quiz": [
+      { "q": "aromatic の意味は？", "A": "無臭の", "B": "芳香のある・よい香りの", "C": "苦い", "D": "冷たい", "correct": "B" },
+      { "q": "aromatic の名詞形は？", "A": "aroma", "B": "armor", "C": "arrow", "D": "army", "correct": "A" }
+    ]
+  },
+  {
+    "english": "arriving",
+    "pron": "əˈraɪvɪŋ",
+    "kana": "アライビング",
+    "hinshi": "動詞（現在分詞・動名詞）",
+    "ld_pos": "verb",
+    "ld_etym": "arrive + -ing",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "基本・文法"],
+    "meaning_main": "到着する（arrive の -ing 形）",
+    "description": "arriving の意味と使い方。「到着する」という動詞 arrive の現在分詞・動名詞の形を、arrive at / in の使い分けとともに解説します。",
+    "keywords": ["arriving 意味", "arrive 使い方", "到着 英語", "arrive at in 違い"],
+    "meanings": [
+      { "hinshi": "【動詞】到着している（現在分詞）", "note": "arrive（到着する）の -ing 形。be arriving（到着しつつある）、進行形や分詞で使う" }
+    ],
+    "usages": [
+      { "title": "① 進行形で使う", "desc": "「到着しつつある」", "example_en": "The train is arriving now.", "example_ja": "電車が今、到着します。" },
+      { "title": "② 分詞で使う", "desc": "「到着して」", "example_en": "Arriving early, she waited at the gate.", "example_ja": "早く着いたので、彼女は門で待った。" }
+    ],
+    "warn": ["arrive at + 狭い場所（駅・空港）、arrive in + 広い場所（都市・国）。arrive to は誤り", "つづり注意：arrive の e を取って -ing（arriving）"],
+    "etym_note": "arrive（到着する。ラテン語 arripare〈岸に着く〉から）に -ing をつけた形。もとは「岸(ripa)に着く」意味でした。",
+    "etym_chain": [
+      { "node": "arripare", "sub": "岸に着く", "era": "俗ラテン語" },
+      { "node": "arrive", "sub": "到着する", "era": "中英語" },
+      { "node": "arriving", "sub": "到着している", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "arrive at the station", "ja": "駅に到着する" },
+      { "en": "arrive in Tokyo", "ja": "東京に到着する" },
+      { "en": "is arriving soon", "ja": "まもなく到着する" },
+      { "en": "arrival", "ja": "到着" },
+      { "en": "depart", "ja": "出発する" },
+      { "en": "reach", "ja": "到達する" }
+    ],
+    "related": [
+      { "en": "arrive", "ja": "到着する" },
+      { "en": "arrival", "ja": "到着" },
+      { "en": "depart", "ja": "出発する" },
+      { "en": "reach", "ja": "到達する" }
+    ],
+    "faq": [
+      { "q": "arrive at と arrive in の違いは？", "a": "arrive at は駅・空港・建物など狭い地点に、arrive in は都市・国など広い場所に使います。arrive to は誤りです。" },
+      { "q": "つづりの注意点は？", "a": "arrive の語尾の e を取って -ing をつけ、arriving になります（arriveing ではありません）。" }
+    ],
+    "quiz": [
+      { "q": "「東京に到着する」は？", "A": "arrive at Tokyo", "B": "arrive in Tokyo", "C": "arrive to Tokyo", "D": "arrive on Tokyo", "correct": "B" },
+      { "q": "arrive の名詞形は？", "A": "arrival", "B": "arriver", "C": "arrivement", "D": "arriving", "correct": "A" }
+    ]
+  },
+  {
+    "english": "astonished",
+    "pron": "əˈstɒnɪʃt",
+    "kana": "アストニッシュト",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "astonish + -ed",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "感情語"],
+    "meaning_main": "（非常に）驚いた／びっくり仰天した",
+    "description": "astonished の意味と使い方。信じられないほど強く「驚いた」状態を表す形容詞を、astonishing との違いとともに解説します。",
+    "keywords": ["astonished 意味", "astonished 使い方", "驚いた 英語", "びっくり 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】（人が）非常に驚いた", "note": "信じられないほど驚いた状態。be astonished at / by 〜" }
+    ],
+    "usages": [
+      { "title": "① 気持ちを表す", "desc": "強い驚き", "example_en": "I was astonished by the news.", "example_ja": "私はその知らせに仰天した。" },
+      { "title": "② 様子を描写する", "desc": "驚いた様子", "example_en": "She looked astonished at the result.", "example_ja": "彼女は結果に驚いた様子だった。" }
+    ],
+    "warn": ["astonished（人が驚いた）と astonishing（物事が驚かせる）を区別", "動詞は astonish（驚かせる）、名詞は astonishment（驚き）。surprised より強い"],
+    "etym_note": "astonish（驚かせる。ラテン語 tonare〈雷が鳴る〉から「雷に打たれたように驚かせる」）の過去分詞を形容詞にした語。「雷に打たれたように驚いた」を表します。",
+    "etym_chain": [
+      { "node": "tonare", "sub": "雷が鳴る", "era": "ラテン語" },
+      { "node": "astonish", "sub": "驚かせる", "era": "中英語" },
+      { "node": "astonished", "sub": "非常に驚いた", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "be astonished at", "ja": "〜に驚く" },
+      { "en": "astonished by", "ja": "〜に驚かされて" },
+      { "en": "astonishing", "ja": "驚くべき" },
+      { "en": "astonishment", "ja": "驚き" },
+      { "en": "amazed", "ja": "驚いた" },
+      { "en": "stunned", "ja": "呆然とした" }
+    ],
+    "related": [
+      { "en": "astonish", "ja": "驚かせる" },
+      { "en": "astonishing", "ja": "驚くべき" },
+      { "en": "amazed", "ja": "驚いた" },
+      { "en": "surprised", "ja": "驚いた" }
+    ],
+    "faq": [
+      { "q": "astonished と astonishing の違いは？", "a": "astonished は「（人が）非常に驚いた」、astonishing は「（物事が）驚かせる・驚くべき」です。I'm astonished. / The result is astonishing." },
+      { "q": "surprised との違いは？", "a": "astonished は surprised より強く「信じられないほど驚いた」を表します。" }
+    ],
+    "quiz": [
+      { "q": "astonished の意味は？", "A": "退屈した", "B": "非常に驚いた", "C": "満足した", "D": "怒った", "correct": "B" },
+      { "q": "「その結果は驚くべきだ」に合うのは？", "A": "The result is astonished.", "B": "The result is astonishing.", "C": "The result astonish.", "D": "The result is astonish.", "correct": "B" }
+    ]
+  },
+  {
+    "english": "attentively",
+    "pron": "əˈtentɪvli",
+    "kana": "アテンティブリー",
+    "hinshi": "副詞",
+    "ld_pos": "adverb",
+    "ld_etym": "attentive + -ly",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "注意深く／熱心に（耳を傾けて）",
+    "description": "attentively の意味と使い方。よく気をつけて「注意深く・熱心に」を表す副詞を、形容詞 attentive や名詞 attention とともに解説します。",
+    "keywords": ["attentively 意味", "attentively 使い方", "注意深く 英語", "熱心に聞く 英語"],
+    "meanings": [
+      { "hinshi": "【副詞】注意深く、熱心に", "note": "よく気をつけて集中する様子。listen attentively（熱心に聞く）" }
+    ],
+    "usages": [
+      { "title": "① 聞く様子", "desc": "熱心に聞く", "example_en": "The students listened attentively.", "example_ja": "生徒たちは熱心に聞いた。" },
+      { "title": "② 見る・観察する", "desc": "注意深く見る", "example_en": "She watched the demonstration attentively.", "example_ja": "彼女は実演を注意深く見た。" }
+    ],
+    "warn": ["形容詞は attentive（注意深い）、名詞は attention（注意）", "listen attentively（熱心に聞く）は決まった言い方"],
+    "etym_note": "attentive（注意深い。attend〈注意を向ける〉から）に副詞をつくる -ly をつけた語。attend はラテン語 attendere（心を向ける）に由来します。",
+    "etym_chain": [
+      { "node": "attendere", "sub": "心を向ける", "era": "ラテン語" },
+      { "node": "attentive", "sub": "注意深い", "era": "中英語" },
+      { "node": "attentively", "sub": "注意深く", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "listen attentively", "ja": "熱心に聞く" },
+      { "en": "watch attentively", "ja": "注意深く見る" },
+      { "en": "attentive", "ja": "注意深い" },
+      { "en": "attention", "ja": "注意" },
+      { "en": "carefully", "ja": "注意深く" },
+      { "en": "focus", "ja": "集中する" }
+    ],
+    "related": [
+      { "en": "attentive", "ja": "注意深い" },
+      { "en": "attention", "ja": "注意" },
+      { "en": "carefully", "ja": "注意深く" },
+      { "en": "closely", "ja": "念入りに" }
+    ],
+    "faq": [
+      { "q": "形容詞・名詞は？", "a": "形容詞は attentive（注意深い、気配りのある）、名詞は attention（注意）です。attentively はその副詞です。" },
+      { "q": "carefully との違いは？", "a": "どちらも「注意深く」ですが、attentively は特に「相手や対象に集中して（聞く・見る）」に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "attentively の意味は？", "A": "ぼんやりと", "B": "注意深く・熱心に", "C": "急いで", "D": "静かに", "correct": "B" },
+      { "q": "attentively の形容詞形は？", "A": "attentive", "B": "attention", "C": "attend", "D": "attendant", "correct": "A" }
+    ]
+  },
+  {
+    "english": "attractiveness",
+    "pron": "əˈtræktɪvnəs",
+    "kana": "アトラクティブネス",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "attractive + -ness",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "魅力／人を引きつける力",
+    "description": "attractiveness の意味と使い方。人や物が持つ「魅力・引きつける力」を表す名詞を、形容詞 attractive や動詞 attract とともに解説します。",
+    "keywords": ["attractiveness 意味", "attractiveness 使い方", "魅力 英語", "引きつける 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】魅力、引きつける力（不可算）", "note": "人や物が人を引きつける性質。the attractiveness of the offer" }
+    ],
+    "usages": [
+      { "title": "① 魅力を表す", "desc": "引きつける力", "example_en": "The city's attractiveness draws many tourists.", "example_ja": "その都市の魅力は多くの観光客を引きつける。" },
+      { "title": "② 評価する", "desc": "魅力の度合い", "example_en": "They studied the attractiveness of the product.", "example_ja": "彼らはその製品の魅力を調べた。" }
+    ],
+    "warn": ["形容詞は attractive（魅力的な）、動詞は attract（引きつける）", "-ness は形容詞を名詞にする接尾辞"],
+    "etym_note": "attractive（魅力的な。attract〈引きつける〉から）に「〜の状態」を表す -ness をつけた語。attract はラテン語 attrahere（引き寄せる）に由来します。",
+    "etym_chain": [
+      { "node": "attrahere", "sub": "引き寄せる", "era": "ラテン語" },
+      { "node": "attractive", "sub": "魅力的な", "era": "近代英語" },
+      { "node": "attractiveness", "sub": "魅力", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "physical attractiveness", "ja": "外見の魅力" },
+      { "en": "the attractiveness of", "ja": "〜の魅力" },
+      { "en": "attractive", "ja": "魅力的な" },
+      { "en": "attract", "ja": "引きつける" },
+      { "en": "appeal", "ja": "魅力、訴える力" },
+      { "en": "charm", "ja": "魅力" }
+    ],
+    "related": [
+      { "en": "attractive", "ja": "魅力的な" },
+      { "en": "attract", "ja": "引きつける" },
+      { "en": "appeal", "ja": "魅力" },
+      { "en": "charm", "ja": "魅力" }
+    ],
+    "faq": [
+      { "q": "形容詞・動詞は？", "a": "形容詞は attractive（魅力的な）、動詞は attract（引きつける）です。attractiveness はその名詞です。" },
+      { "q": "appeal との違いは？", "a": "どちらも「魅力・引きつける力」を表します。attractiveness は「魅力がある性質」、appeal は「人の心に訴える力」に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "attractiveness の意味は？", "A": "退屈さ", "B": "魅力・引きつける力", "C": "危険", "D": "重さ", "correct": "B" },
+      { "q": "attractiveness の形容詞形は？", "A": "attractive", "B": "attract", "C": "attraction", "D": "attractively", "correct": "A" }
+    ]
+  },
+  {
+    "english": "autoimmune",
+    "pron": "ˌɔːtəʊɪˈmjuːn",
+    "kana": "オートイミューン",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "auto-(自己) + immune(免疫の)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "医学"],
+    "meaning_main": "自己免疫の（免疫が自分の体を攻撃する）",
+    "description": "autoimmune の意味と使い方。免疫が誤って自分自身の体を攻撃する「自己免疫の」病気を表す医学用語を、接頭辞 auto-（自己）とともに解説します。",
+    "keywords": ["autoimmune 意味", "autoimmune 使い方", "自己免疫 英語", "免疫疾患 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】自己免疫の", "note": "免疫が誤って自分の体を攻撃すること。an autoimmune disease（自己免疫疾患）" }
+    ],
+    "usages": [
+      { "title": "① 病気を説明する", "desc": "自己免疫疾患", "example_en": "She has an autoimmune disease.", "example_ja": "彼女は自己免疫疾患を持っている。" },
+      { "title": "② 仕組みを述べる", "desc": "免疫の異常", "example_en": "In autoimmune disorders, the body attacks itself.", "example_ja": "自己免疫の病気では、体が自分自身を攻撃する。" }
+    ],
+    "warn": ["auto-（自己）＋ immune（免疫の）で「自分自身への免疫反応」", "自己免疫疾患には関節リウマチ、1型糖尿病などがある"],
+    "etym_note": "接頭辞 auto-（自己・自動）と immune（免疫の。ラテン語 immunis〈免除された〉から）を合わせた語。「免疫が自分自身に向かう」を表します。",
+    "etym_chain": [
+      { "node": "auto- + immune", "sub": "自己＋免疫の", "era": "英語" },
+      { "node": "autoimmune", "sub": "自己免疫の", "era": "20世紀英語" },
+      { "node": "autoimmune", "sub": "自己免疫の（医学）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an autoimmune disease", "ja": "自己免疫疾患" },
+      { "en": "an autoimmune disorder", "ja": "自己免疫の病気" },
+      { "en": "the immune system", "ja": "免疫系" },
+      { "en": "attack the body", "ja": "体を攻撃する" },
+      { "en": "immunity", "ja": "免疫" },
+      { "en": "inflammation", "ja": "炎症" }
+    ],
+    "related": [
+      { "en": "immune", "ja": "免疫の" },
+      { "en": "immunity", "ja": "免疫" },
+      { "en": "disease", "ja": "病気" },
+      { "en": "auto-", "ja": "自己、自動" }
+    ],
+    "faq": [
+      { "q": "自己免疫疾患とは？", "a": "免疫が誤って自分自身の体（細胞や組織）を攻撃してしまう病気です。関節リウマチや1型糖尿病などが例です。" },
+      { "q": "接頭辞 auto- の意味は？", "a": "「自己・自動」を表します。automatic（自動の）、autobiography（自伝）、autonomy（自律）などにも使われます。" }
+    ],
+    "quiz": [
+      { "q": "autoimmune の意味は？", "A": "免疫がない", "B": "免疫が自分の体を攻撃する（自己免疫の）", "C": "感染性の", "D": "遺伝の", "correct": "B" },
+      { "q": "接頭辞 auto- の意味は？", "A": "自己・自動", "B": "反対の", "C": "小さい", "D": "多くの", "correct": "A" }
+    ]
+  },
+  {
+    "english": "autopsy",
+    "pron": "ˈɔːtɒpsi",
+    "kana": "オートプシー",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ギリシャ語 autopsia（自分の目で見ること）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "医学"],
+    "meaning_main": "検死解剖／死因を調べる解剖",
+    "description": "autopsy の意味と使い方。死因を調べるために遺体を解剖する「検死解剖」を表す名詞を、可算名詞として解説します。",
+    "keywords": ["autopsy 意味", "autopsy 使い方", "検死 英語", "解剖 死因 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】検死解剖（可算）", "note": "死因を調べるため遺体を調べる解剖。perform an autopsy（検死解剖を行う）。post-mortem とも" }
+    ],
+    "usages": [
+      { "title": "① 死因を調べる", "desc": "検死解剖を表す", "example_en": "An autopsy revealed the cause of death.", "example_ja": "検死解剖で死因が明らかになった。" },
+      { "title": "② 手続きを述べる", "desc": "解剖の実施", "example_en": "The family agreed to an autopsy.", "example_ja": "遺族は検死解剖に同意した。" }
+    ],
+    "warn": ["イギリスでは post-mortem（examination）とも言う。auto-（自分）＋ opsy（見ること）", "生きた人の手術ではなく、亡くなった人の解剖を指す"],
+    "etym_note": "ギリシャ語 autopsia（autos〈自分〉+ opsis〈見ること〉＝自分の目で見ること）に由来します。「自分の目で確かめること→死因を調べる解剖」の意味になりました。",
+    "etym_chain": [
+      { "node": "autopsia", "sub": "自分の目で見ること", "era": "ギリシャ語" },
+      { "node": "autopsy", "sub": "実地検分", "era": "近代英語" },
+      { "node": "autopsy", "sub": "検死解剖", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "perform an autopsy", "ja": "検死解剖を行う" },
+      { "en": "an autopsy report", "ja": "検死報告書" },
+      { "en": "a post-mortem", "ja": "検死（英）" },
+      { "en": "cause of death", "ja": "死因" },
+      { "en": "a coroner", "ja": "検死官" },
+      { "en": "examine", "ja": "調べる" }
+    ],
+    "related": [
+      { "en": "post-mortem", "ja": "検死" },
+      { "en": "coroner", "ja": "検死官" },
+      { "en": "death", "ja": "死" },
+      { "en": "examine", "ja": "調べる" }
+    ],
+    "faq": [
+      { "q": "post-mortem と同じ？", "a": "ほぼ同義です。autopsy はアメリカ英語でよく使い、post-mortem（examination）はイギリス英語での言い方です。どちらも検死解剖を指します。" },
+      { "q": "語源は？", "a": "ギリシャ語 autopsia（自分の目で見ること）に由来します。auto-（自分）は autograph（サイン）などと同じ要素です。" }
+    ],
+    "quiz": [
+      { "q": "autopsy の意味は？", "A": "健康診断", "B": "検死解剖（死因を調べる）", "C": "予防接種", "D": "手術", "correct": "B" },
+      { "q": "autopsy のイギリスでの言い方は？", "A": "post-mortem", "B": "check-up", "C": "diagnosis", "D": "operation", "correct": "A" }
+    ]
+  },
+  {
+    "english": "backfire",
+    "pron": "ˌbækˈfaɪər",
+    "kana": "バックファイア",
+    "hinshi": "動詞",
+    "ld_pos": "verb",
+    "ld_etym": "back + fire",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "裏目に出る／逆効果になる／（エンジンが）逆火する",
+    "description": "backfire の意味と使い方。計画などが「裏目に出る・逆効果になる」意味と、エンジンが「逆火する」意味を持つ動詞を解説します。",
+    "keywords": ["backfire 意味", "backfire 使い方", "裏目に出る 英語", "逆効果 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】裏目に出る、逆効果になる", "note": "意図と反対の悪い結果になる。The plan backfired." },
+      { "hinshi": "【動詞】（エンジンが）逆火する", "note": "エンジンが「バン」と異音を出す" }
+    ],
+    "usages": [
+      { "title": "① 裏目に出る", "desc": "逆効果になる", "example_en": "Her plan backfired badly.", "example_ja": "彼女の計画はひどく裏目に出た。" },
+      { "title": "② エンジンの逆火", "desc": "異音を出す", "example_en": "The old car backfired with a loud bang.", "example_ja": "その古い車は大きな音を立てて逆火した。" }
+    ],
+    "warn": ["back（後ろへ）＋ fire（発火）で「逆に火が出る→裏目に出る」", "計画・作戦などが「意図と反対の悪い結果になる」の意味でよく使う"],
+    "etym_note": "back（後ろへ・逆に）と fire（発火する）を合わせた語。エンジンで「逆向きに発火する（逆火）」から、「計画が逆に悪い結果になる」の比喩になりました。",
+    "etym_chain": [
+      { "node": "back + fire", "sub": "逆に＋発火", "era": "英語" },
+      { "node": "backfire", "sub": "逆火する", "era": "19世紀英語" },
+      { "node": "backfire", "sub": "裏目に出る", "era": "20世紀英語" }
+    ],
+    "phrases": [
+      { "en": "the plan backfired", "ja": "計画が裏目に出た" },
+      { "en": "backfire on someone", "ja": "〜にとって裏目に出る" },
+      { "en": "have the opposite effect", "ja": "逆効果になる" },
+      { "en": "go wrong", "ja": "うまくいかない" },
+      { "en": "counterproductive", "ja": "逆効果の" },
+      { "en": "an engine", "ja": "エンジン" }
+    ],
+    "related": [
+      { "en": "fail", "ja": "失敗する" },
+      { "en": "fire", "ja": "火、発火する" },
+      { "en": "opposite", "ja": "反対の" },
+      { "en": "effect", "ja": "効果" }
+    ],
+    "faq": [
+      { "q": "比喩の意味は？", "a": "計画や作戦が「意図と反対の悪い結果になる（裏目に出る）」ことです。The strategy backfired.（その戦略は裏目に出た）のように使います。" },
+      { "q": "もとの意味は？", "a": "エンジンが逆向きに発火して「バン」と異音を出す「逆火」です。そこから比喩が生まれました。" }
+    ],
+    "quiz": [
+      { "q": "backfire の比喩的な意味は？", "A": "大成功する", "B": "裏目に出る・逆効果になる", "C": "前進する", "D": "節約する", "correct": "B" },
+      { "q": "The plan backfired. の意味は？", "A": "計画は成功した", "B": "計画は裏目に出た", "C": "計画は中止された", "D": "計画は延期された", "correct": "B" }
+    ]
+  },
+  {
+    "english": "baffling",
+    "pron": "ˈbæflɪŋ",
+    "kana": "バフリング",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "baffle + -ing",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "頻出語"],
+    "meaning_main": "（人を）当惑させる／わけが分からない",
+    "description": "baffling の意味と使い方。理解できず人を「当惑させる・わけが分からない」様子を表す形容詞を、動詞 baffle とともに解説します。",
+    "keywords": ["baffling 意味", "baffling 使い方", "当惑させる 英語", "わけが分からない 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】（人を）当惑させる、不可解な", "note": "理解できず戸惑わせる。a baffling mystery（不可解な謎）" }
+    ],
+    "usages": [
+      { "title": "① 事柄を評する", "desc": "不可解な様子", "example_en": "The results were completely baffling.", "example_ja": "その結果はまったく不可解だった。" },
+      { "title": "② 謎を表す", "desc": "当惑させる様子", "example_en": "It's a baffling problem.", "example_ja": "それは頭を悩ませる問題だ。" }
+    ],
+    "warn": ["動詞は baffle（当惑させる）。baffling（物事が当惑させる）と baffled（人が当惑した）を区別", "似た語 puzzling（不可解な）、confusing（紛らわしい）"],
+    "etym_note": "baffle（当惑させる。16世紀の「辱める・妨げる」から）に -ing をつけた形容詞。「理解できず戸惑わせる」を表します。",
+    "etym_chain": [
+      { "node": "baffle", "sub": "妨げる・当惑させる", "era": "16世紀英語" },
+      { "node": "baffling", "sub": "当惑させる", "era": "近代英語" },
+      { "node": "baffling", "sub": "不可解な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a baffling mystery", "ja": "不可解な謎" },
+      { "en": "a baffling problem", "ja": "頭を悩ませる問題" },
+      { "en": "baffle", "ja": "当惑させる" },
+      { "en": "baffled", "ja": "当惑した" },
+      { "en": "puzzling", "ja": "不可解な" },
+      { "en": "confusing", "ja": "紛らわしい" }
+    ],
+    "related": [
+      { "en": "baffle", "ja": "当惑させる" },
+      { "en": "puzzling", "ja": "不可解な" },
+      { "en": "confusing", "ja": "紛らわしい" },
+      { "en": "mysterious", "ja": "なぞめいた" }
+    ],
+    "faq": [
+      { "q": "baffling と baffled の違いは？", "a": "baffling は「（物事が）当惑させる・不可解な」、baffled は「（人が）当惑した」です。The problem is baffling. / I'm baffled." },
+      { "q": "puzzling との違いは？", "a": "ほぼ同義です。どちらも「不可解な・頭を悩ませる」を表します。baffling の方がやや強い当惑を表します。" }
+    ],
+    "quiz": [
+      { "q": "baffling の意味は？", "A": "分かりやすい", "B": "（人を）当惑させる・不可解な", "C": "退屈な", "D": "危険な", "correct": "B" },
+      { "q": "「私は当惑している」に合うのは？", "A": "I'm baffling.", "B": "I'm baffled.", "C": "I baffle.", "D": "I'm baffle.", "correct": "B" }
+    ]
+  },
+  {
+    "english": "baggy",
+    "pron": "ˈbæɡi",
+    "kana": "バギー",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "bag + -gy",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "服"],
+    "meaning_main": "（服が）だぶだぶの／ゆったりした",
+    "description": "baggy の意味と使い方。服がゆるくて「だぶだぶの・ゆったりした」様子を表す形容詞を、対義語 tight とともに解説します。",
+    "keywords": ["baggy 意味", "baggy 使い方", "だぶだぶ 英語", "ゆったりした服 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】だぶだぶの、ゆったりした", "note": "服が体に合わずゆるい様子。baggy jeans（だぶだぶのジーンズ）" }
+    ],
+    "usages": [
+      { "title": "① 服を説明する", "desc": "ゆるい様子", "example_en": "He wore baggy jeans.", "example_ja": "彼はだぶだぶのジーンズをはいていた。" },
+      { "title": "② 状態を表す", "desc": "ゆったり感", "example_en": "The sweater is a bit baggy.", "example_ja": "そのセーターは少しゆったりしている。" }
+    ],
+    "warn": ["bag（袋）＋ -y で「袋のようにたるんだ」。対義語は tight（ぴったりした）", "服のゆるさに使う。目の下のたるみ（bags under the eyes）とは別"],
+    "etym_note": "bag（袋）に「〜のような」を表す -y をつけた語。「袋のようにたるんでゆるい」を表します。",
+    "etym_chain": [
+      { "node": "bag", "sub": "袋", "era": "中英語" },
+      { "node": "baggy", "sub": "袋のような", "era": "19世紀英語" },
+      { "node": "baggy", "sub": "だぶだぶの", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "baggy jeans", "ja": "だぶだぶのジーンズ" },
+      { "en": "baggy trousers", "ja": "ゆったりしたズボン" },
+      { "en": "a baggy sweater", "ja": "ゆったりしたセーター" },
+      { "en": "tight", "ja": "ぴったりした" },
+      { "en": "loose", "ja": "ゆるい" },
+      { "en": "oversized", "ja": "特大の、大きめの" }
+    ],
+    "related": [
+      { "en": "bag", "ja": "袋" },
+      { "en": "loose", "ja": "ゆるい" },
+      { "en": "tight", "ja": "ぴったりした" },
+      { "en": "clothes", "ja": "服" }
+    ],
+    "faq": [
+      { "q": "対義語は？", "a": "tight（ぴったりした、きつい）です。baggy は「だぶだぶでゆるい」を表します。loose（ゆるい）も近い意味です。" },
+      { "q": "語源は？", "a": "bag（袋）＋ -y で「袋のようにたるんでゆるい」を表します。服がぴったりせずゆったりしている様子です。" }
+    ],
+    "quiz": [
+      { "q": "baggy の意味は？", "A": "ぴったりした", "B": "だぶだぶの・ゆったりした", "C": "破れた", "D": "新しい", "correct": "B" },
+      { "q": "baggy の対義語は？", "A": "loose", "B": "tight", "C": "large", "D": "long", "correct": "B" }
+    ]
+  },
+  {
+    "english": "barbaric",
+    "pron": "bɑːˈbærɪk",
+    "kana": "バーバリック",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "ギリシャ語 barbaros（外国の・野蛮な）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "頻出語"],
+    "meaning_main": "野蛮な／残虐な／未開の",
+    "description": "barbaric の意味と使い方。ひどく残酷で「野蛮な・残虐な」様子を表す形容詞を、名詞 barbarian とともに解説します。",
+    "keywords": ["barbaric 意味", "barbaric 使い方", "野蛮 英語", "残虐 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】野蛮な、残虐な", "note": "きわめて残酷で文明的でない様子。a barbaric act（野蛮な行為）" }
+    ],
+    "usages": [
+      { "title": "① 行為を批判する", "desc": "残虐さを表す", "example_en": "The attack was described as barbaric.", "example_ja": "その攻撃は野蛮だと評された。" },
+      { "title": "② 習慣を評する", "desc": "野蛮な様子", "example_en": "Such punishments seem barbaric today.", "example_ja": "そうした刑罰は今では野蛮に思える。" }
+    ],
+    "warn": ["名詞は barbarian（野蛮人）、barbarism（野蛮）。強い非難の語", "もとは古代ギリシャ人が「外国人（言葉が分からない者）」を指した語"],
+    "etym_note": "ギリシャ語 barbaros に由来します。ギリシャ語を話さない外国人の言葉が「バルバル」と聞こえたことから「外国の・野蛮な」を意味しました。そこから「残虐な」の意味になりました。",
+    "etym_chain": [
+      { "node": "barbaros", "sub": "外国の・野蛮な", "era": "ギリシャ語" },
+      { "node": "barbaric", "sub": "未開の", "era": "中英語" },
+      { "node": "barbaric", "sub": "野蛮な・残虐な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a barbaric act", "ja": "野蛮な行為" },
+      { "en": "barbaric cruelty", "ja": "残虐な行い" },
+      { "en": "a barbarian", "ja": "野蛮人" },
+      { "en": "barbarism", "ja": "野蛮" },
+      { "en": "savage", "ja": "残忍な" },
+      { "en": "civilized", "ja": "文明的な" }
+    ],
+    "related": [
+      { "en": "barbarian", "ja": "野蛮人" },
+      { "en": "savage", "ja": "残忍な" },
+      { "en": "cruel", "ja": "残酷な" },
+      { "en": "civilized", "ja": "文明的な" }
+    ],
+    "faq": [
+      { "q": "対になる語は？", "a": "civilized（文明的な）です。barbaric は「野蛮な・残虐な」で、文明や道徳に反する行いを強く非難します。" },
+      { "q": "語源は？", "a": "古代ギリシャ人が、ギリシャ語を話さない外国人の言葉を「バルバル」と聞こえたことから barbaros（外国の・野蛮な）と呼んだのが始まりです。" }
+    ],
+    "quiz": [
+      { "q": "barbaric の意味は？", "A": "上品な", "B": "野蛮な・残虐な", "C": "陽気な", "D": "現代的な", "correct": "B" },
+      { "q": "barbaric の名詞（人）は？", "A": "barbarian（野蛮人）", "B": "barber（理髪師）", "C": "barbecue（バーベキュー）", "D": "barrier（障壁）", "correct": "A" }
+    ]
+  }
+]
