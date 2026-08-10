@@ -1,0 +1,940 @@
+[
+  {
+    "english": "-able",
+    "pron": "əbl",
+    "kana": "アブル",
+    "hinshi": "接尾辞",
+    "ld_pos": "suffix",
+    "ld_etym": "ラテン語 -abilis",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "接尾辞"],
+    "meaning_main": "〜できる／〜されうる（形容詞をつくる）",
+    "description": "接尾辞 -able の意味と使い方。動詞などについて「〜できる・〜されうる」という形容詞をつくる接尾辞を、例語とともに解説します。",
+    "keywords": ["-able 意味", "-able 接尾辞", "able 形容詞 作り方", "〜できる 英語"],
+    "meanings": [
+      { "hinshi": "【接尾辞】〜できる、〜されうる", "note": "多く動詞について形容詞をつくる。read→readable（読める）。-ible の形もある" }
+    ],
+    "usages": [
+      { "title": "① 動詞につける", "desc": "「〜できる」を表す", "example_en": "This water is drinkable.", "example_ja": "この水は飲める。" },
+      { "title": "② 可能・性質を表す", "desc": "「〜されうる」を表す", "example_en": "The plan is workable.", "example_ja": "その計画は実行可能だ。" }
+    ],
+    "warn": ["接尾辞なので単独では使いません。語につけて形容詞をつくります", "同じ働きの -ible もある（possible, visible など）"],
+    "etym_note": "ラテン語 -abilis（〜できる）に由来する接尾辞。動詞や名詞について「〜できる・〜に適した」という形容詞をつくります。",
+    "etym_chain": [
+      { "node": "-abilis", "sub": "〜できる", "era": "ラテン語" },
+      { "node": "-able", "sub": "〜できる（借用）", "era": "中英語" },
+      { "node": "-able", "sub": "形容詞をつくる接尾辞", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "readable", "ja": "読みやすい、読める" },
+      { "en": "drinkable", "ja": "飲める" },
+      { "en": "enjoyable", "ja": "楽しめる" },
+      { "en": "washable", "ja": "洗える" },
+      { "en": "comfortable", "ja": "快適な" },
+      { "en": "reliable", "ja": "頼りになる" }
+    ],
+    "related": [
+      { "en": "-ible", "ja": "〜できる（-able の別形）" },
+      { "en": "-ful", "ja": "〜に満ちた" },
+      { "en": "-less", "ja": "〜のない" },
+      { "en": "ability", "ja": "能力" }
+    ],
+    "faq": [
+      { "q": "-able と -ible の違いは？", "a": "意味はほぼ同じ「〜できる」です。語源で使い分けが決まっており、readable・comfortable は -able、possible・visible は -ible です。" },
+      { "q": "どんな語につく？", "a": "多くは動詞について「〜できる」の形容詞をつくります。read→readable、use→usable などです。" }
+    ],
+    "quiz": [
+      { "q": "接尾辞 -able の意味は？", "A": "〜のない", "B": "〜できる", "C": "〜する人", "D": "〜の状態", "correct": "B" },
+      { "q": "drink に -able をつけた drinkable の意味は？", "A": "飲めない", "B": "飲める", "C": "飲み物屋", "D": "飲みすぎ", "correct": "B" }
+    ]
+  },
+  {
+    "english": "-al",
+    "pron": "əl",
+    "kana": "アル",
+    "hinshi": "接尾辞",
+    "ld_pos": "suffix",
+    "ld_etym": "ラテン語 -alis",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR A2", "接尾辞"],
+    "meaning_main": "〜に関する・〜の性質の（形容詞）／〜すること（名詞）",
+    "description": "接尾辞 -al の意味と使い方。名詞について「〜に関する」形容詞をつくったり、動詞について「〜すること」名詞をつくる接尾辞を解説します。",
+    "keywords": ["-al 意味", "-al 接尾辞", "al 形容詞 作り方", "〜に関する 英語"],
+    "meanings": [
+      { "hinshi": "【接尾辞】〜に関する、〜の（形容詞）", "note": "名詞について形容詞をつくる。nature→natural（自然の）" },
+      { "hinshi": "【接尾辞】〜すること（名詞）", "note": "動詞について名詞をつくる。arrive→arrival（到着）" }
+    ],
+    "usages": [
+      { "title": "① 形容詞をつくる", "desc": "「〜に関する」を表す", "example_en": "It was a musical performance.", "example_ja": "それは音楽の公演だった。" },
+      { "title": "② 名詞をつくる", "desc": "「〜すること」を表す", "example_en": "We waited for his arrival.", "example_ja": "私たちは彼の到着を待った。" }
+    ],
+    "warn": ["接尾辞なので単独では使いません", "形容詞をつくる場合（-al）と名詞をつくる場合（-al）の二つの働きがある"],
+    "etym_note": "ラテン語 -alis（〜に属する）に由来する接尾辞。名詞から形容詞を、また一部の動詞から名詞をつくります。",
+    "etym_chain": [
+      { "node": "-alis", "sub": "〜に属する", "era": "ラテン語" },
+      { "node": "-al", "sub": "〜に関する（借用）", "era": "中英語" },
+      { "node": "-al", "sub": "形容詞・名詞をつくる接尾辞", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "natural", "ja": "自然の" },
+      { "en": "musical", "ja": "音楽の" },
+      { "en": "personal", "ja": "個人の" },
+      { "en": "national", "ja": "国家の" },
+      { "en": "arrival", "ja": "到着" },
+      { "en": "approval", "ja": "承認" }
+    ],
+    "related": [
+      { "en": "-ial", "ja": "〜に関する（-al の変種）" },
+      { "en": "-ic", "ja": "〜の、〜的な" },
+      { "en": "-ous", "ja": "〜に富んだ" },
+      { "en": "-ity", "ja": "〜の状態" }
+    ],
+    "faq": [
+      { "q": "形容詞と名詞どちらをつくる？", "a": "両方あります。nature→natural（形容詞）、arrive→arrival（名詞）のように、つく語によって働きが変わります。" },
+      { "q": "-ial との違いは？", "a": "-ial は -al の変種で、母音の前などで現れます。face→facial、office→official などです。" }
+    ],
+    "quiz": [
+      { "q": "nature に -al をつけた natural の品詞は？", "A": "動詞", "B": "形容詞", "C": "副詞", "D": "前置詞", "correct": "B" },
+      { "q": "arrive に -al をつけた arrival の意味は？", "A": "到着", "B": "出発", "C": "運転", "D": "案内", "correct": "A" }
+    ]
+  },
+  {
+    "english": "-ed",
+    "pron": "d",
+    "kana": "ド／トゥ／イド",
+    "hinshi": "接尾辞",
+    "ld_pos": "suffix",
+    "ld_etym": "古英語 -ed / -od",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "接尾辞・文法"],
+    "meaning_main": "動詞の過去形・過去分詞／〜された（形容詞）",
+    "description": "接尾辞 -ed の意味と使い方。規則動詞の過去形・過去分詞をつくり、また「〜された」という形容詞をつくる接尾辞を、発音の違いとともに解説します。",
+    "keywords": ["-ed 意味", "-ed 過去形", "-ed 発音", "規則動詞 英語"],
+    "meanings": [
+      { "hinshi": "【接尾辞】過去形・過去分詞をつくる", "note": "規則動詞につける。play→played。発音は /d/ /t/ /ɪd/ の3通り" },
+      { "hinshi": "【接尾辞】〜された（形容詞）", "note": "感情や状態を表す。excited（わくわくした）、tired（疲れた）" }
+    ],
+    "usages": [
+      { "title": "① 過去を表す", "desc": "動詞の過去形をつくる", "example_en": "We watched a movie yesterday.", "example_ja": "私たちは昨日映画を見た。" },
+      { "title": "② 感情を表す", "desc": "「〜された」形容詞をつくる", "example_en": "I was surprised by the news.", "example_ja": "私はその知らせに驚いた。" }
+    ],
+    "warn": ["接尾辞なので単独では使いません", "発音は語末の音で3通り：/t/(walked) /d/(played) /ɪd/(wanted)"],
+    "etym_note": "古英語の -ed / -od に由来する接尾辞。規則動詞の過去形・過去分詞をつくります。感情や状態を表す形容詞（-ed 形）にもなります。",
+    "etym_chain": [
+      { "node": "-ode / -ede", "sub": "過去を表す語尾", "era": "古英語" },
+      { "node": "-ed", "sub": "過去形・過去分詞", "era": "中英語" },
+      { "node": "-ed", "sub": "過去・受動を表す接尾辞", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "played", "ja": "遊んだ（play の過去）" },
+      { "en": "walked", "ja": "歩いた（walk の過去）" },
+      { "en": "wanted", "ja": "欲しかった（want の過去）" },
+      { "en": "excited", "ja": "わくわくした" },
+      { "en": "tired", "ja": "疲れた" },
+      { "en": "interested", "ja": "興味を持った" }
+    ],
+    "related": [
+      { "en": "-ing", "ja": "〜している（現在分詞）" },
+      { "en": "past tense", "ja": "過去形" },
+      { "en": "regular verb", "ja": "規則動詞" },
+      { "en": "-en", "ja": "〜された（一部の過去分詞）" }
+    ],
+    "faq": [
+      { "q": "-ed の発音は？", "a": "3通りあります。無声音のあとは /t/（walked）、有声音のあとは /d/（played）、t/d のあとは /ɪd/（wanted, needed）です。" },
+      { "q": "-ed 形容詞と -ing 形容詞の違いは？", "a": "-ed は「（人が）〜させられた気持ち」（excited）、-ing は「（物事が）〜させる性質」（exciting）を表します。" }
+    ],
+    "quiz": [
+      { "q": "wanted の -ed の発音は？", "A": "/t/", "B": "/d/", "C": "/ɪd/", "D": "無音", "correct": "C" },
+      { "q": "「疲れた」を表す -ed 形容詞は？", "A": "tiring", "B": "tired", "C": "tire", "D": "tires", "correct": "B" }
+    ]
+  },
+  {
+    "english": "-ese",
+    "pron": "iːz",
+    "kana": "イーズ",
+    "hinshi": "接尾辞",
+    "ld_pos": "suffix",
+    "ld_etym": "ラテン語 -ensis",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A1", "接尾辞"],
+    "meaning_main": "〜（国・地域）の／〜語／〜人",
+    "description": "接尾辞 -ese の意味と使い方。国や地域の名について「〜の・〜語・〜人」を表す接尾辞を、Japanese などの例とともに解説します。",
+    "keywords": ["-ese 意味", "-ese 接尾辞", "Japanese 作り方", "〜語 〜人 英語"],
+    "meanings": [
+      { "hinshi": "【接尾辞】〜の、〜語、〜人", "note": "国・地域名について、その言語・国民・形容詞をつくる。Japan→Japanese" }
+    ],
+    "usages": [
+      { "title": "① 言語を表す", "desc": "「〜語」を表す", "example_en": "She speaks Japanese and Chinese.", "example_ja": "彼女は日本語と中国語を話す。" },
+      { "title": "② 国・国民を表す", "desc": "「〜の・〜人」を表す", "example_en": "This is a Portuguese dish.", "example_ja": "これはポルトガルの料理だ。" }
+    ],
+    "warn": ["接尾辞なので単独では使いません", "-ese で終わる国民名は単複同形（a Japanese / two Japanese）"],
+    "etym_note": "ラテン語 -ensis（〜に属する・〜出身の）に由来する接尾辞。国・地域名について、その言語・国民・形容詞をつくります。",
+    "etym_chain": [
+      { "node": "-ensis", "sub": "〜出身の", "era": "ラテン語" },
+      { "node": "-ese", "sub": "〜の・〜語（借用）", "era": "中英語" },
+      { "node": "-ese", "sub": "国・言語をつくる接尾辞", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Japanese", "ja": "日本の、日本語、日本人" },
+      { "en": "Chinese", "ja": "中国の、中国語、中国人" },
+      { "en": "Portuguese", "ja": "ポルトガルの、ポルトガル語" },
+      { "en": "Vietnamese", "ja": "ベトナムの、ベトナム語" },
+      { "en": "Taiwanese", "ja": "台湾の、台湾人" },
+      { "en": "Lebanese", "ja": "レバノンの、レバノン人" }
+    ],
+    "related": [
+      { "en": "-ish", "ja": "〜の（English など）" },
+      { "en": "-ian", "ja": "〜の、〜人（Italian など）" },
+      { "en": "-an", "ja": "〜の、〜人（American など）" },
+      { "en": "language", "ja": "言語" }
+    ],
+    "faq": [
+      { "q": "-ese の国民名は複数形になる？", "a": "いいえ。-ese で終わる国民名は単数も複数も同じ形です。a Japanese / two Japanese のように -s をつけません。" },
+      { "q": "-ish や -ian との違いは？", "a": "意味は同じ「〜の・〜人」ですが、国ごとに決まった接尾辞があります。Japan→Japanese、Spain→Spanish、Italy→Italian などです。" }
+    ],
+    "quiz": [
+      { "q": "Japan に -ese をつけた Japanese の意味に含まれないのは？", "A": "日本語", "B": "日本人", "C": "日本の", "D": "日本を出る", "correct": "D" },
+      { "q": "-ese で終わる国民名の複数形は？", "A": "-s をつける", "B": "単数と同じ形", "C": "-es をつける", "D": "-men にする", "correct": "B" }
+    ]
+  },
+  {
+    "english": "-ful",
+    "pron": "fʊl",
+    "kana": "フル",
+    "hinshi": "接尾辞",
+    "ld_pos": "suffix",
+    "ld_etym": "full（満ちた）から",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A1", "接尾辞"],
+    "meaning_main": "〜に満ちた・〜の多い（形容詞）／〜杯分（名詞）",
+    "description": "接尾辞 -ful の意味と使い方。名詞について「〜に満ちた」形容詞をつくったり、「〜一杯分」の量を表す接尾辞を、例語とともに解説します。",
+    "keywords": ["-ful 意味", "-ful 接尾辞", "ful 形容詞 作り方", "〜に満ちた 英語"],
+    "meanings": [
+      { "hinshi": "【接尾辞】〜に満ちた、〜の多い（形容詞）", "note": "名詞につけて形容詞をつくる。care→careful（注意深い）。lは1つ" },
+      { "hinshi": "【接尾辞】〜一杯分（名詞）", "note": "量を表す。a spoonful（スプーン一杯）" }
+    ],
+    "usages": [
+      { "title": "① 形容詞をつくる", "desc": "「〜に満ちた」を表す", "example_en": "Be careful on the stairs.", "example_ja": "階段では気をつけて。" },
+      { "title": "② 量を表す", "desc": "「〜一杯分」を表す", "example_en": "Add a spoonful of sugar.", "example_ja": "砂糖をスプーン一杯加える。" }
+    ],
+    "warn": ["接尾辞なので単独では使いません。full（満ちた）と違い l は1つ", "対になる接尾辞は -less（〜のない）。careful ⇔ careless"],
+    "etym_note": "full（満ちた）が接尾辞化したもの。名詞について「〜に満ちた」という形容詞をつくります。full と違い l は1つになります。",
+    "etym_chain": [
+      { "node": "full", "sub": "満ちた", "era": "古英語 full" },
+      { "node": "-ful", "sub": "〜に満ちた", "era": "中英語" },
+      { "node": "-ful", "sub": "形容詞をつくる接尾辞", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "careful", "ja": "注意深い" },
+      { "en": "helpful", "ja": "役に立つ" },
+      { "en": "beautiful", "ja": "美しい" },
+      { "en": "useful", "ja": "役に立つ" },
+      { "en": "powerful", "ja": "力強い" },
+      { "en": "a spoonful", "ja": "スプーン一杯" }
+    ],
+    "related": [
+      { "en": "-less", "ja": "〜のない" },
+      { "en": "-able", "ja": "〜できる" },
+      { "en": "full", "ja": "満ちた" },
+      { "en": "-ness", "ja": "〜の状態" }
+    ],
+    "faq": [
+      { "q": "full と -ful のつづりの違いは？", "a": "単語の full は l が2つ、接尾辞の -ful は l が1つです。careful, helpful のように l は1つになります。" },
+      { "q": "対になる接尾辞は？", "a": "-less（〜のない）です。careful（注意深い）⇔ careless（不注意な）のように反対の意味になります。" }
+    ],
+    "quiz": [
+      { "q": "接尾辞 -ful の意味は？", "A": "〜のない", "B": "〜に満ちた", "C": "〜する人", "D": "〜より小さい", "correct": "B" },
+      { "q": "care に -ful をつけた careful の意味は？", "A": "不注意な", "B": "注意深い", "C": "世話係", "D": "無関心な", "correct": "B" }
+    ]
+  },
+  {
+    "english": "-graph",
+    "pron": "ɡrɑːf",
+    "kana": "グラフ",
+    "hinshi": "接尾辞（連結形）",
+    "ld_pos": "combining form",
+    "ld_etym": "ギリシャ語 graphein（書く）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "接尾辞・語源"],
+    "meaning_main": "書くもの・記録するもの／図・描いたもの",
+    "description": "連結形 -graph の意味と使い方。「書く・記録する・描いたもの」を表すギリシャ語由来の要素を、photograph などの例とともに解説します。",
+    "keywords": ["-graph 意味", "-graph 語源", "graph 書く 語源", "photograph 意味"],
+    "meanings": [
+      { "hinshi": "【連結形】書くもの、記録するもの、図", "note": "ギリシャ語「書く」に由来。photo（光）+graph→photograph（写真）" }
+    ],
+    "usages": [
+      { "title": "① 記録する装置", "desc": "「記録するもの」を表す", "example_en": "The seismograph recorded the earthquake.", "example_ja": "地震計がその地震を記録した。" },
+      { "title": "② 描いたもの", "desc": "「書いた・描いたもの」を表す", "example_en": "He signed his autograph.", "example_ja": "彼はサインを書いた。" }
+    ],
+    "warn": ["連結形なので単独では使いません（graph 単独は「図・グラフ」）", "動詞・行為は -graphy（写真術 photography など）、人は -grapher（写真家 photographer）"],
+    "etym_note": "ギリシャ語 graphein（書く）に由来する連結形。「書くもの・記録するもの・描いたもの」を表します。photo-（光）と結びついて photograph（光で描いたもの＝写真）などをつくります。",
+    "etym_chain": [
+      { "node": "graphein", "sub": "書く", "era": "ギリシャ語" },
+      { "node": "-graph", "sub": "書くもの", "era": "近代英語" },
+      { "node": "-graph", "sub": "記録・図をつくる連結形", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "photograph", "ja": "写真" },
+      { "en": "autograph", "ja": "（有名人の）サイン" },
+      { "en": "paragraph", "ja": "段落" },
+      { "en": "telegraph", "ja": "電信" },
+      { "en": "seismograph", "ja": "地震計" },
+      { "en": "graph", "ja": "図、グラフ" }
+    ],
+    "related": [
+      { "en": "-graphy", "ja": "〜術、〜記述（photography など）" },
+      { "en": "-grapher", "ja": "〜する人（photographer など）" },
+      { "en": "-gram", "ja": "書かれたもの（diagram など）" },
+      { "en": "-scope", "ja": "見る器具" }
+    ],
+    "faq": [
+      { "q": "-graph と -graphy の違いは？", "a": "-graph は「書くもの・装置・図」（photograph 写真）、-graphy は「〜術・〜記述」（photography 写真術）です。" },
+      { "q": "-gram との違いは？", "a": "どちらもギリシャ語「書く」系ですが、-gram は「書かれたもの」（telegram 電報）、-graph は「書く装置・描いたもの」に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "-graph のもとの意味は？", "A": "見る", "B": "書く・記録する", "C": "測る", "D": "話す", "correct": "B" },
+      { "q": "photo（光）+ -graph = ?", "A": "写真", "B": "電話", "C": "顕微鏡", "D": "地図", "correct": "A" }
+    ]
+  },
+  {
+    "english": "-ial",
+    "pron": "iəl",
+    "kana": "イアル",
+    "hinshi": "接尾辞",
+    "ld_pos": "suffix",
+    "ld_etym": "ラテン語 -ialis",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR A2", "接尾辞"],
+    "meaning_main": "〜に関する・〜の（形容詞をつくる／-al の変種）",
+    "description": "接尾辞 -ial の意味と使い方。名詞について「〜に関する」形容詞をつくる、-al の変種の接尾辞を、face→facial などの例で解説します。",
+    "keywords": ["-ial 意味", "-ial 接尾辞", "facial 作り方", "〜に関する 英語"],
+    "meanings": [
+      { "hinshi": "【接尾辞】〜に関する、〜の（形容詞）", "note": "名詞について形容詞をつくる。-al の変種。face→facial（顔の）" }
+    ],
+    "usages": [
+      { "title": "① 形容詞をつくる", "desc": "「〜に関する」を表す", "example_en": "She works in financial services.", "example_ja": "彼女は金融サービスの仕事をしている。" },
+      { "title": "② 性質を表す", "desc": "「〜の」を表す", "example_en": "He gave an official statement.", "example_ja": "彼は公式の声明を出した。" }
+    ],
+    "warn": ["接尾辞なので単独では使いません。-al の変種で、母音の前などに現れる", "同じ働きの基本形は -al（natural, musical など）"],
+    "etym_note": "ラテン語 -ialis（〜に属する）に由来する接尾辞で、-al の変種です。名詞について「〜に関する」という形容詞をつくります。",
+    "etym_chain": [
+      { "node": "-ialis", "sub": "〜に属する", "era": "ラテン語" },
+      { "node": "-ial", "sub": "〜に関する（借用）", "era": "中英語" },
+      { "node": "-ial", "sub": "形容詞をつくる接尾辞", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "facial", "ja": "顔の" },
+      { "en": "official", "ja": "公式の" },
+      { "en": "financial", "ja": "財政の、金融の" },
+      { "en": "social", "ja": "社会の" },
+      { "en": "special", "ja": "特別の" },
+      { "en": "essential", "ja": "不可欠の" }
+    ],
+    "related": [
+      { "en": "-al", "ja": "〜に関する（基本形）" },
+      { "en": "-ic", "ja": "〜の、〜的な" },
+      { "en": "-ous", "ja": "〜に富んだ" },
+      { "en": "-ity", "ja": "〜の状態" }
+    ],
+    "faq": [
+      { "q": "-al との違いは？", "a": "-ial は -al の変種で、意味は同じ「〜に関する」です。face→facial、office→official のように現れます。" },
+      { "q": "どんな品詞をつくる？", "a": "形容詞をつくります。名詞について「〜に関する・〜の」という意味の形容詞になります。" }
+    ],
+    "quiz": [
+      { "q": "face に -ial をつけた facial の意味は？", "A": "顔の", "B": "事実の", "C": "速い", "D": "遠い", "correct": "A" },
+      { "q": "-ial はどの接尾辞の変種？", "A": "-ic", "B": "-al", "C": "-ous", "D": "-ful", "correct": "B" }
+    ]
+  },
+  {
+    "english": "-ie",
+    "pron": "i",
+    "kana": "イー",
+    "hinshi": "接尾辞",
+    "ld_pos": "suffix",
+    "ld_etym": "中英語の指小辞 -ie / -y",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR A2", "接尾辞"],
+    "meaning_main": "小さくかわいい・親しみを込めた呼び方をつくる（指小辞）",
+    "description": "接尾辞 -ie の意味と使い方。名前や語に付けて「小さくてかわいい・親しみのある」呼び方をつくる指小辞を、doggie などの例で解説します。",
+    "keywords": ["-ie 意味", "-ie 接尾辞", "指小辞 英語", "かわいい 呼び方 英語"],
+    "meanings": [
+      { "hinshi": "【接尾辞】小さくかわいいものを表す（指小辞）", "note": "親しみ・愛らしさを込めた呼び方をつくる。dog→doggie。-y の形もある" }
+    ],
+    "usages": [
+      { "title": "① 愛称をつくる", "desc": "親しみを込めた呼び方", "example_en": "The kids love their puppy—they call it a doggie.", "example_ja": "子どもたちは子犬が大好きで、ワンちゃんと呼ぶ。" },
+      { "title": "② くだけた語をつくる", "desc": "親しみのある短縮", "example_en": "Let's take a selfie.", "example_ja": "自撮りしよう。" }
+    ],
+    "warn": ["接尾辞なので単独では使いません。-y でも同じ働き（doggy）", "くだけた・幼児語的な響きになることが多い"],
+    "etym_note": "中英語の指小辞 -ie / -y に由来します。語に付けて「小さくかわいい・親しみのある」ものを表します。スコットランド英語で特に発達しました。",
+    "etym_chain": [
+      { "node": "-ie / -y", "sub": "小さいものを表す語尾", "era": "中英語" },
+      { "node": "-ie", "sub": "愛らしさ・親しみを表す", "era": "近代英語" },
+      { "node": "-ie", "sub": "指小・愛称の接尾辞", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "doggie", "ja": "ワンちゃん" },
+      { "en": "birdie", "ja": "小鳥ちゃん" },
+      { "en": "selfie", "ja": "自撮り" },
+      { "en": "auntie", "ja": "おばちゃん" },
+      { "en": "cookie", "ja": "クッキー" },
+      { "en": "movie", "ja": "映画" }
+    ],
+    "related": [
+      { "en": "-y", "ja": "指小辞（-ie と同じ働き）" },
+      { "en": "-let", "ja": "小さい〜（booklet など）" },
+      { "en": "nickname", "ja": "愛称" },
+      { "en": "cute", "ja": "かわいい" }
+    ],
+    "faq": [
+      { "q": "-ie と -y は同じ？", "a": "はい。どちらも「小さくかわいい・親しみのある」を表す指小辞です。doggie / doggy のように両方の綴りが使われます。" },
+      { "q": "どんな響きになる？", "a": "親しみやかわいらしさを込めた、くだけた響きになります。子どもへの言葉や愛称によく使われます。" }
+    ],
+    "quiz": [
+      { "q": "接尾辞 -ie の働きは？", "A": "反対の意味にする", "B": "小さくかわいい呼び方をつくる", "C": "過去形をつくる", "D": "複数形をつくる", "correct": "B" },
+      { "q": "dog に -ie をつけた doggie の意味は？", "A": "犬小屋", "B": "ワンちゃん（愛称）", "C": "犬嫌い", "D": "野良犬", "correct": "B" }
+    ]
+  },
+  {
+    "english": "-ist",
+    "pron": "ɪst",
+    "kana": "イスト",
+    "hinshi": "接尾辞",
+    "ld_pos": "suffix",
+    "ld_etym": "ギリシャ語 -istēs",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "接尾辞"],
+    "meaning_main": "〜する人・〜の専門家・〜主義者",
+    "description": "接尾辞 -ist の意味と使い方。「〜する人・〜の専門家・〜主義者」を表す接尾辞を、artist・scientist などの例で解説します。",
+    "keywords": ["-ist 意味", "-ist 接尾辞", "artist scientist 作り方", "〜する人 英語"],
+    "meanings": [
+      { "hinshi": "【接尾辞】〜する人、〜の専門家", "note": "職業や活動をする人を表す。art→artist（芸術家）" },
+      { "hinshi": "【接尾辞】〜主義者、〜信奉者", "note": "考え方を持つ人。ideal→idealist（理想主義者）" }
+    ],
+    "usages": [
+      { "title": "① 職業・専門家", "desc": "「〜する人」を表す", "example_en": "She is a famous scientist.", "example_ja": "彼女は有名な科学者だ。" },
+      { "title": "② 主義者を表す", "desc": "「〜主義者」を表す", "example_en": "He is an optimist.", "example_ja": "彼は楽観主義者だ。" }
+    ],
+    "warn": ["接尾辞なので単独では使いません", "対応する主義・活動は -ism（art→artist / ideal→idealism）"],
+    "etym_note": "ギリシャ語 -istēs（〜する人）に由来する接尾辞。職業・専門・主義を持つ人を表します。対応する「主義・行為」は -ism です。",
+    "etym_chain": [
+      { "node": "-istēs", "sub": "〜する人", "era": "ギリシャ語" },
+      { "node": "-ist", "sub": "〜する人（借用）", "era": "中英語" },
+      { "node": "-ist", "sub": "人をつくる接尾辞", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "artist", "ja": "芸術家" },
+      { "en": "scientist", "ja": "科学者" },
+      { "en": "tourist", "ja": "観光客" },
+      { "en": "pianist", "ja": "ピアニスト" },
+      { "en": "dentist", "ja": "歯科医" },
+      { "en": "optimist", "ja": "楽観主義者" }
+    ],
+    "related": [
+      { "en": "-ism", "ja": "〜主義、〜の行為" },
+      { "en": "-er", "ja": "〜する人" },
+      { "en": "-or", "ja": "〜する人" },
+      { "en": "-ian", "ja": "〜の専門家" }
+    ],
+    "faq": [
+      { "q": "-ism との関係は？", "a": "-ist は「〜する人・〜主義者」、-ism は「〜主義・〜の行為」です。ideal→idealist（理想主義者）/ idealism（理想主義）のように対になります。" },
+      { "q": "-er との違いは？", "a": "どちらも「〜する人」ですが、-ist は専門家・主義者（scientist, artist）、-er はより一般的（teacher, worker）に使われる傾向があります。" }
+    ],
+    "quiz": [
+      { "q": "art に -ist をつけた artist の意味は？", "A": "芸術", "B": "芸術家", "C": "芸術的な", "D": "美術館", "correct": "B" },
+      { "q": "-ist と対になる「〜主義」の接尾辞は？", "A": "-ism", "B": "-ity", "C": "-ness", "D": "-ful", "correct": "A" }
+    ]
+  },
+  {
+    "english": "-ity",
+    "pron": "əti",
+    "kana": "イティ",
+    "hinshi": "接尾辞",
+    "ld_pos": "suffix",
+    "ld_etym": "ラテン語 -itas",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "接尾辞"],
+    "meaning_main": "〜の状態・〜の性質（抽象名詞をつくる）",
+    "description": "接尾辞 -ity の意味と使い方。形容詞について「〜の状態・性質」という抽象名詞をつくる接尾辞を、real→reality などの例で解説します。",
+    "keywords": ["-ity 意味", "-ity 接尾辞", "reality 作り方", "抽象名詞 英語"],
+    "meanings": [
+      { "hinshi": "【接尾辞】〜の状態、〜の性質（抽象名詞）", "note": "形容詞について抽象名詞をつくる。real→reality（現実）、able→ability（能力）" }
+    ],
+    "usages": [
+      { "title": "① 状態を表す", "desc": "「〜の状態」を表す", "example_en": "We must face reality.", "example_ja": "私たちは現実に向き合わねばならない。" },
+      { "title": "② 性質を表す", "desc": "「〜の性質」を表す", "example_en": "He has great ability.", "example_ja": "彼は優れた能力を持っている。" }
+    ],
+    "warn": ["接尾辞なので単独では使いません", "つくと語形が変わることがある（able→ability, curious→curiosity）"],
+    "etym_note": "ラテン語 -itas（〜の状態）に由来する接尾辞。形容詞について「〜であること・〜の性質」という抽象名詞をつくります。",
+    "etym_chain": [
+      { "node": "-itas", "sub": "〜の状態", "era": "ラテン語" },
+      { "node": "-ity", "sub": "〜の状態（借用）", "era": "中英語" },
+      { "node": "-ity", "sub": "抽象名詞をつくる接尾辞", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reality", "ja": "現実" },
+      { "en": "ability", "ja": "能力" },
+      { "en": "activity", "ja": "活動" },
+      { "en": "curiosity", "ja": "好奇心" },
+      { "en": "possibility", "ja": "可能性" },
+      { "en": "quality", "ja": "質" }
+    ],
+    "related": [
+      { "en": "-ness", "ja": "〜の状態（happiness など）" },
+      { "en": "-tion", "ja": "〜すること（action など）" },
+      { "en": "-al", "ja": "〜に関する" },
+      { "en": "-ism", "ja": "〜主義" }
+    ],
+    "faq": [
+      { "q": "-ness との違いは？", "a": "どちらも抽象名詞をつくりますが、-ity はラテン語系の形容詞に（real→reality）、-ness は幅広い形容詞に（happy→happiness）つきます。" },
+      { "q": "語形が変わることがある？", "a": "はい。able→ability、curious→curiosity のように、-ity がつくとつづりや発音が変わることがあります。" }
+    ],
+    "quiz": [
+      { "q": "real に -ity をつけた reality の品詞は？", "A": "動詞", "B": "名詞", "C": "形容詞", "D": "副詞", "correct": "B" },
+      { "q": "able に -ity をつけると？", "A": "ability（能力）", "B": "abler", "C": "ableness", "D": "abation", "correct": "A" }
+    ]
+  },
+  {
+    "english": "-ium",
+    "pron": "iəm",
+    "kana": "イウム",
+    "hinshi": "接尾辞",
+    "ld_pos": "suffix",
+    "ld_etym": "ラテン語 -ium",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "接尾辞・専門"],
+    "meaning_main": "〜の場所／（化学）元素名をつくる",
+    "description": "接尾辞 -ium の意味と使い方。「〜の場所」を表したり、金属元素の名をつくるラテン語由来の接尾辞を、stadium・helium などの例で解説します。",
+    "keywords": ["-ium 意味", "-ium 接尾辞", "stadium helium 語源", "元素名 英語"],
+    "meanings": [
+      { "hinshi": "【接尾辞】〜の場所、〜のための空間", "note": "stadium（競技場）、auditorium（講堂）など" },
+      { "hinshi": "【接尾辞】金属元素の名をつくる", "note": "helium（ヘリウム）、sodium（ナトリウム）など" }
+    ],
+    "usages": [
+      { "title": "① 場所を表す", "desc": "「〜の場所」を表す", "example_en": "The concert was held in a huge stadium.", "example_ja": "そのコンサートは巨大な競技場で開かれた。" },
+      { "title": "② 元素を表す", "desc": "元素名をつくる", "example_en": "Helium is lighter than air.", "example_ja": "ヘリウムは空気より軽い。" }
+    ],
+    "warn": ["接尾辞なので単独では使いません。複数形は -ia になることがある（bacterium→bacteria）", "科学・専門語に多い"],
+    "etym_note": "ラテン語 -ium（〜の場所・もの）に由来する接尾辞。「〜の場所」を表すほか、近代の化学で多くの金属元素の名をつくるのに使われました。",
+    "etym_chain": [
+      { "node": "-ium", "sub": "〜の場所・もの", "era": "ラテン語" },
+      { "node": "-ium", "sub": "場所を表す（借用）", "era": "中英語" },
+      { "node": "-ium", "sub": "元素名にも使う接尾辞", "era": "近代英語（化学）" }
+    ],
+    "phrases": [
+      { "en": "stadium", "ja": "競技場" },
+      { "en": "auditorium", "ja": "講堂" },
+      { "en": "aquarium", "ja": "水族館" },
+      { "en": "helium", "ja": "ヘリウム" },
+      { "en": "sodium", "ja": "ナトリウム" },
+      { "en": "medium", "ja": "媒体、中間" }
+    ],
+    "related": [
+      { "en": "-arium", "ja": "〜の場所（aquarium など）" },
+      { "en": "-orium", "ja": "〜の場所（auditorium など）" },
+      { "en": "element", "ja": "元素" },
+      { "en": "-ia", "ja": "-ium の複数形など" }
+    ],
+    "faq": [
+      { "q": "-ium の複数形は？", "a": "しばしば -ia になります。bacterium→bacteria、medium→media のようにラテン語式の複数形をとります。" },
+      { "q": "元素名にも使う？", "a": "はい。近代化学で helium, sodium, titanium など多くの金属元素の名をつくるのに使われました。" }
+    ],
+    "quiz": [
+      { "q": "-ium が表す意味に含まれるのは？", "A": "〜の場所・元素名", "B": "〜する人", "C": "〜できる", "D": "〜のない", "correct": "A" },
+      { "q": "bacterium の複数形は？", "A": "bacteriums", "B": "bacteria", "C": "bacterii", "D": "bacterias", "correct": "B" }
+    ]
+  },
+  {
+    "english": "-le",
+    "pron": "l",
+    "kana": "ル",
+    "hinshi": "接尾辞",
+    "ld_pos": "suffix",
+    "ld_etym": "古英語 -el / -ol",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "接尾辞"],
+    "meaning_main": "繰り返しの動作をつくる／道具を表す（語尾）",
+    "description": "接尾辞 -le の意味と使い方。「繰り返す動作」を表す動詞（sparkle など）や、道具を表す語尾を、例語とともに解説します。",
+    "keywords": ["-le 意味", "-le 接尾辞", "sparkle 語源", "繰り返し 動作 英語"],
+    "meanings": [
+      { "hinshi": "【接尾辞】繰り返しの動作をつくる（動詞）", "note": "小刻みに繰り返す動作。spark→sparkle（きらきら光る）、drip→dripple 系" },
+      { "hinshi": "【接尾辞】道具・ものを表す（語尾）", "note": "handle（取っ手）、needle（針）など" }
+    ],
+    "usages": [
+      { "title": "① 繰り返す動作", "desc": "小刻みな動作を表す", "example_en": "The stars sparkle in the night sky.", "example_ja": "星が夜空にきらきら光る。" },
+      { "title": "② 道具を表す", "desc": "ものの名をつくる", "example_en": "Hold the handle tightly.", "example_ja": "取っ手をしっかり握って。" }
+    ],
+    "warn": ["接尾辞・語尾なので単独では使いません", "多くの英単語の語尾に見られる（little, table, apple など）"],
+    "etym_note": "古英語の -el / -ol に由来する接尾辞。「繰り返す・小刻みな動作」を表す動詞（sparkle, wriggle）や、道具・ものを表す語尾（handle, needle）をつくります。",
+    "etym_chain": [
+      { "node": "-el / -ol", "sub": "道具・反復を表す", "era": "古英語" },
+      { "node": "-le", "sub": "反復・道具の語尾", "era": "中英語" },
+      { "node": "-le", "sub": "動詞・名詞をつくる語尾", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "sparkle", "ja": "きらきら光る" },
+      { "en": "giggle", "ja": "くすくす笑う" },
+      { "en": "wriggle", "ja": "身をよじる" },
+      { "en": "handle", "ja": "取っ手" },
+      { "en": "needle", "ja": "針" },
+      { "en": "bubble", "ja": "泡（立つ）" }
+    ],
+    "related": [
+      { "en": "-er", "ja": "繰り返しの動作（flicker など）" },
+      { "en": "-le verb", "ja": "反復動詞" },
+      { "en": "repeat", "ja": "繰り返す" },
+      { "en": "tool", "ja": "道具" }
+    ],
+    "faq": [
+      { "q": "どんな意味を加える？", "a": "動詞では「小刻みに繰り返す動作」（giggle くすくす笑う、sparkle きらきら光る）、名詞では「道具・もの」（handle 取っ手）を表します。" },
+      { "q": "単独で使える？", "a": "いいえ。-le は語尾・接尾辞で、単独の語ではありません。sparkle, needle のように語の一部として現れます。" }
+    ],
+    "quiz": [
+      { "q": "spark に -le をついた sparkle の意味は？", "A": "火事", "B": "きらきら光る", "C": "消える", "D": "燃やす", "correct": "B" },
+      { "q": "-le が動詞につくと表すのは？", "A": "繰り返しの動作", "B": "過去形", "C": "否定", "D": "複数", "correct": "A" }
+    ]
+  },
+  {
+    "english": "-less",
+    "pron": "ləs",
+    "kana": "レス",
+    "hinshi": "接尾辞",
+    "ld_pos": "suffix",
+    "ld_etym": "古英語 -lēas（〜を欠いた）",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A1", "接尾辞"],
+    "meaning_main": "〜のない・〜を欠いた（形容詞をつくる）",
+    "description": "接尾辞 -less の意味と使い方。名詞について「〜のない」形容詞をつくる接尾辞を、対義の -ful とともに hopeless などの例で解説します。",
+    "keywords": ["-less 意味", "-less 接尾辞", "hopeless 作り方", "〜のない 英語"],
+    "meanings": [
+      { "hinshi": "【接尾辞】〜のない、〜を欠いた（形容詞）", "note": "名詞について形容詞をつくる。hope→hopeless（希望のない）" }
+    ],
+    "usages": [
+      { "title": "① 「〜がない」を表す", "desc": "欠如を表す", "example_en": "The situation seemed hopeless.", "example_ja": "状況は絶望的に見えた。" },
+      { "title": "② 性質を表す", "desc": "「〜を欠いた」を表す", "example_en": "It was a careless mistake.", "example_ja": "それは不注意な間違いだった。" }
+    ],
+    "warn": ["接尾辞なので単独では使いません", "対になる接尾辞は -ful（〜に満ちた）。careful ⇔ careless"],
+    "etym_note": "古英語 -lēas（〜を欠いた）に由来する接尾辞。名詞について「〜のない」という形容詞をつくります。-ful（〜に満ちた）と対になります。",
+    "etym_chain": [
+      { "node": "-lēas", "sub": "〜を欠いた", "era": "古英語" },
+      { "node": "-les", "sub": "〜のない", "era": "中英語" },
+      { "node": "-less", "sub": "形容詞をつくる接尾辞", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "hopeless", "ja": "希望のない、絶望的な" },
+      { "en": "careless", "ja": "不注意な" },
+      { "en": "homeless", "ja": "家のない" },
+      { "en": "useless", "ja": "役に立たない" },
+      { "en": "endless", "ja": "終わりのない" },
+      { "en": "wireless", "ja": "無線の" }
+    ],
+    "related": [
+      { "en": "-ful", "ja": "〜に満ちた" },
+      { "en": "-able", "ja": "〜できる" },
+      { "en": "-free", "ja": "〜のない（fat-free など）" },
+      { "en": "without", "ja": "〜なしで" }
+    ],
+    "faq": [
+      { "q": "対になる接尾辞は？", "a": "-ful（〜に満ちた）です。care→careful（注意深い）⇔ careless（不注意な）のように反対の意味になります。" },
+      { "q": "-free との違いは？", "a": "どちらも「〜がない」ですが、-less は幅広く（hopeless, useless）、-free は「（望ましくないもの）がない」（fat-free 無脂肪）に使われます。" }
+    ],
+    "quiz": [
+      { "q": "接尾辞 -less の意味は？", "A": "〜に満ちた", "B": "〜のない", "C": "〜できる", "D": "〜する人", "correct": "B" },
+      { "q": "hope に -less をつけた hopeless の意味は？", "A": "希望に満ちた", "B": "希望のない", "C": "希望する人", "D": "希望できる", "correct": "B" }
+    ]
+  },
+  {
+    "english": "-logy",
+    "pron": "lədʒi",
+    "kana": "ロジー",
+    "hinshi": "接尾辞（連結形）",
+    "ld_pos": "combining form",
+    "ld_etym": "ギリシャ語 logos（言葉・学問）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "接尾辞・語源"],
+    "meaning_main": "〜学・〜の研究",
+    "description": "連結形 -logy（-ology）の意味と使い方。「〜学・〜の研究」を表すギリシャ語由来の要素を、biology などの例とともに解説します。",
+    "keywords": ["-logy 意味", "-ology 接尾辞", "biology 語源", "〜学 英語"],
+    "meanings": [
+      { "hinshi": "【連結形】〜学、〜の研究", "note": "学問分野をつくる。bio（生命）+logy→biology（生物学）。多く -ology の形" }
+    ],
+    "usages": [
+      { "title": "① 学問を表す", "desc": "「〜学」を表す", "example_en": "She is studying biology.", "example_ja": "彼女は生物学を勉強している。" },
+      { "title": "② 研究分野を表す", "desc": "研究領域を表す", "example_en": "Psychology is the study of the mind.", "example_ja": "心理学は心の研究だ。" }
+    ],
+    "warn": ["連結形なので単独では使いません。多く -ology の形で現れる", "その分野の専門家は -ologist（biologist 生物学者）"],
+    "etym_note": "ギリシャ語 logos（言葉・理・学問）に由来する連結形。「〜の学問・研究」を表します。bio-（生命）などと結びついて biology（生物学）などをつくります。",
+    "etym_chain": [
+      { "node": "logos", "sub": "言葉・学問", "era": "ギリシャ語" },
+      { "node": "-logia", "sub": "〜の研究", "era": "後期ギリシャ語" },
+      { "node": "-logy", "sub": "〜学をつくる連結形", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "biology", "ja": "生物学" },
+      { "en": "psychology", "ja": "心理学" },
+      { "en": "technology", "ja": "科学技術" },
+      { "en": "geology", "ja": "地質学" },
+      { "en": "zoology", "ja": "動物学" },
+      { "en": "apology", "ja": "謝罪" }
+    ],
+    "related": [
+      { "en": "-ologist", "ja": "〜学者" },
+      { "en": "-graphy", "ja": "〜術、〜記述" },
+      { "en": "-ics", "ja": "〜学（physics など）" },
+      { "en": "study", "ja": "研究、学問" }
+    ],
+    "faq": [
+      { "q": "-logy の専門家は？", "a": "-ologist をつけます。biology→biologist（生物学者）、psychology→psychologist（心理学者）です。" },
+      { "q": "-ics との違いは？", "a": "どちらも学問分野をつくりますが、-logy はギリシャ語「学問」由来（biology）、-ics は「〜に関すること」（physics, economics）に使われます。" }
+    ],
+    "quiz": [
+      { "q": "-logy のもとの意味は？", "A": "学問・研究", "B": "書く", "C": "測る", "D": "見る", "correct": "A" },
+      { "q": "bio（生命）+ -logy = ?", "A": "生物学", "B": "地理学", "C": "心理学", "D": "天文学", "correct": "A" }
+    ]
+  },
+  {
+    "english": "-oid",
+    "pron": "ɔɪd",
+    "kana": "オイド",
+    "hinshi": "接尾辞",
+    "ld_pos": "suffix",
+    "ld_etym": "ギリシャ語 -oeidēs（〜のような形の）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "接尾辞・科学"],
+    "meaning_main": "〜のような・〜に似た形の",
+    "description": "接尾辞 -oid の意味と使い方。「〜のような・〜に似た形の」を表すギリシャ語由来の接尾辞を、humanoid などの例で解説します。",
+    "keywords": ["-oid 意味", "-oid 接尾辞", "humanoid 語源", "〜のような 英語"],
+    "meanings": [
+      { "hinshi": "【接尾辞】〜のような、〜に似た形の", "note": "「〜に似ているが同じではない」を表す。human→humanoid（人間型の）" }
+    ],
+    "usages": [
+      { "title": "① 似た形を表す", "desc": "「〜のような」を表す", "example_en": "The robot has a humanoid shape.", "example_ja": "そのロボットは人間型の形をしている。" },
+      { "title": "② 科学で使う", "desc": "類似を表す", "example_en": "An asteroid orbits the sun.", "example_ja": "小惑星は太陽の周りを回る。" }
+    ],
+    "warn": ["接尾辞なので単独では使いません。科学・専門語に多い", "「〜に似ているが本物ではない」というニュアンスを含むことがある"],
+    "etym_note": "ギリシャ語 -oeidēs（eidos〈形〉から。〜のような形の）に由来する接尾辞。「〜に似た形の・〜のような」を表します。",
+    "etym_chain": [
+      { "node": "eidos", "sub": "形", "era": "ギリシャ語" },
+      { "node": "-oeidēs", "sub": "〜のような形の", "era": "ギリシャ語" },
+      { "node": "-oid", "sub": "〜に似た（接尾辞）", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "humanoid", "ja": "人間型の" },
+      { "en": "asteroid", "ja": "小惑星" },
+      { "en": "android", "ja": "アンドロイド（人型ロボット）" },
+      { "en": "spheroid", "ja": "回転楕円体" },
+      { "en": "tabloid", "ja": "タブロイド（小型新聞）" },
+      { "en": "ovoid", "ja": "卵形の" }
+    ],
+    "related": [
+      { "en": "-like", "ja": "〜のような" },
+      { "en": "-esque", "ja": "〜風の" },
+      { "en": "shape", "ja": "形" },
+      { "en": "resemble", "ja": "似ている" }
+    ],
+    "faq": [
+      { "q": "-oid のニュアンスは？", "a": "「〜に似た形の・〜のような」を表します。しばしば「似ているが本物とは別」という含みがあります（humanoid＝人間そっくりだが人間ではない）。" },
+      { "q": "-like との違いは？", "a": "意味は近いですが、-oid はギリシャ語由来で科学・専門語に、-like は日常語に広く使われます。" }
+    ],
+    "quiz": [
+      { "q": "接尾辞 -oid の意味は？", "A": "〜のない", "B": "〜のような・〜に似た形の", "C": "〜する人", "D": "〜できる", "correct": "B" },
+      { "q": "human に -oid をつけた humanoid の意味は？", "A": "人間そのもの", "B": "人間型の", "C": "人間嫌い", "D": "人類学", "correct": "B" }
+    ]
+  },
+  {
+    "english": "-osis",
+    "pron": "ˈəʊsɪs",
+    "kana": "オーシス",
+    "hinshi": "接尾辞",
+    "ld_pos": "suffix",
+    "ld_etym": "ギリシャ語 -ōsis（状態・過程）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "接尾辞・医学"],
+    "meaning_main": "〜の状態・過程（多く病的な状態や生物学の過程）",
+    "description": "接尾辞 -osis の意味と使い方。「〜の状態・過程」（特に病気や生物学の過程）を表すギリシャ語由来の接尾辞を解説します。",
+    "keywords": ["-osis 意味", "-osis 接尾辞", "医学 病名 語源", "〜症 英語"],
+    "meanings": [
+      { "hinshi": "【接尾辞】〜の状態・過程", "note": "多く病的な状態や生物学の過程を表す。tuberculosis（結核）、hypnosis（催眠）" }
+    ],
+    "usages": [
+      { "title": "① 病的状態を表す", "desc": "「〜症」を表す", "example_en": "Tuberculosis is a serious lung disease.", "example_ja": "結核は深刻な肺の病気だ。" },
+      { "title": "② 生物学の過程", "desc": "「〜の過程」を表す", "example_en": "Osmosis moves water across a membrane.", "example_ja": "浸透は膜を通して水を移動させる。" }
+    ],
+    "warn": ["接尾辞なので単独では使いません。医学・生物学の専門語に多い", "複数形は -oses になる（diagnosis→diagnoses）"],
+    "etym_note": "ギリシャ語 -ōsis（状態・過程）に由来する接尾辞。「〜の状態・過程」を表し、特に病的な状態や生物学的な過程を表す語をつくります。",
+    "etym_chain": [
+      { "node": "-ōsis", "sub": "状態・過程", "era": "ギリシャ語" },
+      { "node": "-osis", "sub": "〜の状態（借用）", "era": "近代英語" },
+      { "node": "-osis", "sub": "状態・病態をつくる接尾辞", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "tuberculosis", "ja": "結核" },
+      { "en": "diagnosis", "ja": "診断" },
+      { "en": "hypnosis", "ja": "催眠" },
+      { "en": "osmosis", "ja": "浸透" },
+      { "en": "metamorphosis", "ja": "変態、変容" },
+      { "en": "psychosis", "ja": "精神病" }
+    ],
+    "related": [
+      { "en": "-itis", "ja": "〜炎（炎症）" },
+      { "en": "-oma", "ja": "腫瘍" },
+      { "en": "-oses", "ja": "-osis の複数形" },
+      { "en": "disease", "ja": "病気" }
+    ],
+    "faq": [
+      { "q": "-osis と -itis の違いは？", "a": "-osis は「〜の状態・過程」全般（tuberculosis）、-itis は特に「炎症」（arthritis 関節炎）を表します。" },
+      { "q": "複数形は？", "a": "-oses になります。diagnosis→diagnoses、analysis→analyses のように語尾が変わります。" }
+    ],
+    "quiz": [
+      { "q": "接尾辞 -osis が表すのは？", "A": "〜する人", "B": "〜の状態・過程", "C": "〜できる", "D": "〜のない", "correct": "B" },
+      { "q": "diagnosis の複数形は？", "A": "diagnosises", "B": "diagnoses", "C": "diagnosi", "D": "diagnosa", "correct": "B" }
+    ]
+  },
+  {
+    "english": "-some",
+    "pron": "səm",
+    "kana": "サム",
+    "hinshi": "接尾辞",
+    "ld_pos": "suffix",
+    "ld_etym": "古英語 -sum",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "接尾辞"],
+    "meaning_main": "〜を生じさせる・〜の傾向がある（形容詞をつくる）",
+    "description": "接尾辞 -some の意味と使い方。「〜を生じさせる・〜の性質を持つ」形容詞をつくる接尾辞を、handsome・awesome などの例で解説します。",
+    "keywords": ["-some 意味", "-some 接尾辞", "awesome 語源", "〜させる 形容詞 英語"],
+    "meanings": [
+      { "hinshi": "【接尾辞】〜を生じさせる、〜の傾向のある（形容詞）", "note": "名詞・動詞について形容詞をつくる。trouble→troublesome（やっかいな）" }
+    ],
+    "usages": [
+      { "title": "① 性質を表す", "desc": "「〜を生じさせる」を表す", "example_en": "It was a troublesome problem.", "example_ja": "それはやっかいな問題だった。" },
+      { "title": "② 印象を表す", "desc": "「〜の傾向のある」を表す", "example_en": "The view was awesome.", "example_ja": "その眺めは畏敬の念を起こさせるほどすばらしかった。" }
+    ],
+    "warn": ["接尾辞なので単独では使いません。数を表す -some（foursome 4人組）とは別用法", "handsome, awesome など日常語にも多く含まれる"],
+    "etym_note": "古英語 -sum（〜の性質を持つ）に由来する接尾辞。名詞や動詞について「〜を生じさせる・〜の傾向がある」という形容詞をつくります。",
+    "etym_chain": [
+      { "node": "-sum", "sub": "〜の性質を持つ", "era": "古英語" },
+      { "node": "-som", "sub": "〜の傾向のある", "era": "中英語" },
+      { "node": "-some", "sub": "形容詞をつくる接尾辞", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "handsome", "ja": "顔立ちのよい" },
+      { "en": "awesome", "ja": "畏敬を起こす、すごい" },
+      { "en": "troublesome", "ja": "やっかいな" },
+      { "en": "burdensome", "ja": "重荷となる" },
+      { "en": "tiresome", "ja": "退屈な、うんざりする" },
+      { "en": "wholesome", "ja": "健全な" }
+    ],
+    "related": [
+      { "en": "-ful", "ja": "〜に満ちた" },
+      { "en": "-ous", "ja": "〜に富んだ" },
+      { "en": "-ish", "ja": "〜っぽい" },
+      { "en": "-y", "ja": "〜の性質の" }
+    ],
+    "faq": [
+      { "q": "数を表す -some とは別？", "a": "はい。foursome（4人組）、twosome（2人組）の -some は「〜人の集まり」を表す別の用法です。ここでは形容詞をつくる -some です。" },
+      { "q": "どんな語をつくる？", "a": "trouble→troublesome（やっかいな）、awe→awesome（畏敬を起こす）のように、「〜を生じさせる・〜の傾向がある」形容詞をつくります。" }
+    ],
+    "quiz": [
+      { "q": "trouble に -some をつけた troublesome の意味は？", "A": "やっかいな", "B": "気楽な", "C": "退屈しない", "D": "問題のない", "correct": "A" },
+      { "q": "接尾辞 -some がつくる品詞は？", "A": "動詞", "B": "形容詞", "C": "副詞", "D": "前置詞", "correct": "B" }
+    ]
+  },
+  {
+    "english": "-th",
+    "pron": "θ",
+    "kana": "ス",
+    "hinshi": "接尾辞",
+    "ld_pos": "suffix",
+    "ld_etym": "古英語 -þa / -þe",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "接尾辞・数"],
+    "meaning_main": "序数をつくる（4番目以降）／〜の状態（名詞）",
+    "description": "接尾辞 -th の意味と使い方。数字について「〜番目」の序数をつくったり、形容詞から名詞をつくる接尾辞を、fourth などの例で解説します。",
+    "keywords": ["-th 意味", "-th 序数", "fourth 作り方", "序数 英語"],
+    "meanings": [
+      { "hinshi": "【接尾辞】〜番目（序数）", "note": "4以降の序数をつくる。four→fourth（4番目）、ten→tenth（10番目）" },
+      { "hinshi": "【接尾辞】〜の状態・性質（名詞）", "note": "形容詞から名詞をつくる。warm→warmth（暖かさ）、wide→width（幅）" }
+    ],
+    "usages": [
+      { "title": "① 序数をつくる", "desc": "「〜番目」を表す", "example_en": "This is my fourth visit.", "example_ja": "これは4回目の訪問だ。" },
+      { "title": "② 名詞をつくる", "desc": "「〜さ」を表す", "example_en": "I felt the warmth of the sun.", "example_ja": "私は太陽の暖かさを感じた。" }
+    ],
+    "warn": ["接尾辞なので単独では使いません。1〜3は不規則（first, second, third）", "名詞をつくる場合は語形が変わることがある（wide→width）"],
+    "etym_note": "古英語 -þa / -þe に由来する接尾辞。数字について4以降の序数（fourth）をつくります。また形容詞から「〜の状態」を表す名詞（warmth, width）もつくります。",
+    "etym_chain": [
+      { "node": "-þa / -þe", "sub": "序数・状態を表す", "era": "古英語" },
+      { "node": "-th", "sub": "序数・名詞語尾", "era": "中英語" },
+      { "node": "-th", "sub": "序数・名詞をつくる接尾辞", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "fourth", "ja": "4番目の" },
+      { "en": "fifth", "ja": "5番目の" },
+      { "en": "tenth", "ja": "10番目の" },
+      { "en": "warmth", "ja": "暖かさ" },
+      { "en": "width", "ja": "幅" },
+      { "en": "depth", "ja": "深さ" }
+    ],
+    "related": [
+      { "en": "ordinal number", "ja": "序数" },
+      { "en": "-st / -nd / -rd", "ja": "1〜3の序数語尾" },
+      { "en": "-ness", "ja": "〜の状態" },
+      { "en": "number", "ja": "数" }
+    ],
+    "faq": [
+      { "q": "1〜3も -th をつける？", "a": "いいえ。1〜3は不規則で first, second, third です。4以降が four→fourth のように -th をつけます（ただし five→fifth など一部つづりが変わります）。" },
+      { "q": "名詞をつくる -th とは？", "a": "warm→warmth（暖かさ）、wide→width（幅）、deep→depth（深さ）のように、形容詞から「〜の状態」を表す名詞をつくる用法です。" }
+    ],
+    "quiz": [
+      { "q": "four に -th をつけた fourth の意味は？", "A": "4個", "B": "4番目の", "C": "4倍", "D": "4分の1", "correct": "B" },
+      { "q": "warm に -th をつけた warmth の意味は？", "A": "暖める人", "B": "暖かさ", "C": "暖かくない", "D": "暖房器具", "correct": "B" }
+    ]
+  },
+  {
+    "english": "i",
+    "pron": "aɪ",
+    "kana": "アイ",
+    "hinshi": "代名詞",
+    "ld_pos": "pronoun",
+    "ld_etym": "古英語 ic（私）",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "基本・文法"],
+    "meaning_main": "私は／私が（一人称単数の主格。常に大文字 I）",
+    "description": "I の意味と使い方。話し手自身を指す一人称単数の代名詞「私は」を表します。英語では文中でも常に大文字で書く点を解説します。",
+    "keywords": ["I 意味", "I 使い方", "私は 英語", "I 大文字 なぜ"],
+    "meanings": [
+      { "hinshi": "【代名詞】私は、私が（主格）", "note": "話し手自身を指す一人称単数の主語。英語では常に大文字 I で書く" }
+    ],
+    "usages": [
+      { "title": "① 主語として使う", "desc": "「私は〜する」を表す", "example_en": "I like music.", "example_ja": "私は音楽が好きだ。" },
+      { "title": "② 文中でも大文字", "desc": "常に大文字で書く", "example_en": "Yesterday I went to the park.", "example_ja": "昨日、私は公園に行った。" }
+    ],
+    "warn": ["英語では文の途中でも一人称の I は常に大文字で書く（小文字 i は誤り）", "主格は I、目的格は me、所有格は my、所有代名詞は mine"],
+    "etym_note": "古英語 ic（私）に由来します。時代とともに短くなり、中英語で一文字の i になりました。他の語と区別しやすいよう常に大文字 I で書く習慣が定着しました。",
+    "etym_chain": [
+      { "node": "ic", "sub": "私", "era": "古英語" },
+      { "node": "ich / i", "sub": "私", "era": "中英語" },
+      { "node": "I", "sub": "私は（常に大文字）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "I am", "ja": "私は〜である" },
+      { "en": "I think", "ja": "私は思う" },
+      { "en": "you and I", "ja": "あなたと私" },
+      { "en": "me", "ja": "私を、私に（目的格）" },
+      { "en": "my", "ja": "私の（所有格）" },
+      { "en": "mine", "ja": "私のもの" }
+    ],
+    "related": [
+      { "en": "me", "ja": "私を、私に" },
+      { "en": "my", "ja": "私の" },
+      { "en": "we", "ja": "私たちは" },
+      { "en": "you", "ja": "あなたは" }
+    ],
+    "faq": [
+      { "q": "なぜ I はいつも大文字？", "a": "中英語で一文字の i になったとき、他の語と区別しにくく読み誤りやすかったため、大文字 I で書く習慣が定着しました。" },
+      { "q": "I と me の使い分けは？", "a": "I は主語（主格）、me は目的語（目的格）です。I like her.（私は彼女が好き）/ She likes me.（彼女は私が好き）。" }
+    ],
+    "quiz": [
+      { "q": "I の意味は？", "A": "私は（主格）", "B": "私を（目的格）", "C": "私の（所有格）", "D": "私たちは", "correct": "A" },
+      { "q": "英語で一人称の I はどう書く？", "A": "文頭だけ大文字", "B": "文中でも常に大文字", "C": "常に小文字", "D": "決まりはない", "correct": "B" }
+    ]
+  }
+]

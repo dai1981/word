@@ -1,0 +1,985 @@
+[
+  {
+    "english": "weathering",
+    "pron": "ˈweðərɪŋ",
+    "kana": "ウェザリング",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "weather(風雨にさらす)+-ing",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "地学・専門語"],
+    "meaning_main": "風化（岩などが風雨で少しずつ砕ける作用）",
+    "description": "weathering（ウェザリング）は地学で「風化」。岩石が風・雨・気温変化などで長い時間をかけて砕けていく作用を指します。意味・背景をやさしく解説します。",
+    "keywords": ["weathering 意味", "風化 英語", "weather 動詞", "浸食 違い"],
+    "meanings": [
+      { "hinshi": "【名詞】風化", "note": "岩石が風・雨・気温変化などでその場で少しずつ砕けていく作用。不可算名詞" }
+    ],
+    "usages": [
+      { "title": "① 地学で", "desc": "岩の風化を表す", "example_en": "Weathering slowly breaks rocks into soil.", "example_ja": "風化は岩をゆっくり砕いて土にする。" },
+      { "title": "② 説明で", "desc": "作用として語る", "example_en": "Wind and rain cause weathering.", "example_ja": "風と雨が風化を引き起こす。" }
+    ],
+    "warn": ["風化 weathering は『その場で砕ける』、浸食 erosion は『砕けたものが運び去られる』", "動詞 weather には『風雨に耐える・切り抜ける』の意味もある"],
+    "etym_note": "weather（天気・風雨にさらす、古英語 weder）に -ing が付いた語で、「風雨にさらされて砕けること」を表す。",
+    "etym_chain": [
+      { "node": "weder", "sub": "天気", "era": "古英語" },
+      { "node": "weather", "sub": "風雨にさらす", "era": "中英語" },
+      { "node": "weathering", "sub": "風化", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "physical weathering", "ja": "物理的風化" },
+      { "en": "chemical weathering", "ja": "化学的風化" },
+      { "en": "the effects of weathering", "ja": "風化の影響" },
+      { "en": "weathering of rocks", "ja": "岩石の風化" },
+      { "en": "weathering and erosion", "ja": "風化と浸食" },
+      { "en": "signs of weathering", "ja": "風化の跡" }
+    ],
+    "related": [
+      { "en": "erosion", "ja": "浸食" },
+      { "en": "rock", "ja": "岩" },
+      { "en": "geology", "ja": "地質学" },
+      { "en": "weather", "ja": "天気・風雨にさらす" }
+    ],
+    "faq": [
+      { "q": "weathering と erosion の違いは？", "a": "weathering（風化）は岩がその場で砕けること、erosion（浸食）は砕けた岩や土が水・風で運び去られることです。風化してから浸食される、という順です。" },
+      { "q": "種類は？", "a": "気温変化や凍結で砕ける『物理的風化』と、雨水や化学反応で変質する『化学的風化』があります。" }
+    ],
+    "quiz": [
+      { "q": "weathering(風化)とは？", "A": "岩が風雨などでその場で砕けること", "B": "岩が運び去られること", "C": "岩を積み上げること", "D": "岩を磨くこと", "correct": "A" },
+      { "q": "風化した岩が運び去られる作用は？", "A": "erosion(浸食)", "B": "weathering", "C": "eruption", "D": "evaporation", "correct": "A" }
+    ]
+  },
+  {
+    "english": "weatherproof",
+    "pron": "ˈweðərpruːf",
+    "kana": "ウェザープルーフ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "weather(風雨)+proof(防ぐ)",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "製品語"],
+    "meaning_main": "全天候型の／風雨に強い／雨風をしのげる",
+    "description": "weatherproof（ウェザープルーフ）は「全天候型の・風雨に強い」を表す形容詞。雨や風などの悪天候に耐えられることを表します。衣類や建材などに使われます。意味を解説します。",
+    "keywords": ["weatherproof 意味", "全天候型 英語", "風雨に強い 英語", "-proof"],
+    "meanings": [
+      { "hinshi": "【形容詞】全天候型の・風雨に強い", "note": "雨・風など悪天候に耐えられる。中に水などを通さない" }
+    ],
+    "usages": [
+      { "title": "① 衣類・道具で", "desc": "雨風に強いことを表す", "example_en": "He wore a weatherproof jacket.", "example_ja": "彼は全天候型のジャケットを着ていた。" },
+      { "title": "② 建材で", "desc": "耐候性を表す", "example_en": "The paint is weatherproof.", "example_ja": "その塗料は風雨に強い。" }
+    ],
+    "warn": ["-proof は『〜を防ぐ・〜に強い』を表す（waterproof 防水、soundproof 防音）", "waterproof（防水）より広く、風・寒さなども含めて『悪天候に強い』"],
+    "etym_note": "weather（風雨・天気）と proof（〜を防ぐ・耐える）を組み合わせた語で、「風雨を防ぐ・悪天候に強い」を表す。",
+    "etym_chain": [
+      { "node": "weather + proof", "sub": "風雨 + 防ぐ", "era": "近代英語" },
+      { "node": "weatherproof", "sub": "風雨に強い", "era": "19世紀" },
+      { "node": "weatherproof", "sub": "全天候型の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a weatherproof jacket", "ja": "全天候型ジャケット" },
+      { "en": "weatherproof clothing", "ja": "風雨に強い衣類" },
+      { "en": "weatherproof material", "ja": "耐候性の素材" },
+      { "en": "make it weatherproof", "ja": "風雨に強くする" },
+      { "en": "a weatherproof cover", "ja": "全天候型カバー" },
+      { "en": "weatherproof gear", "ja": "全天候型の装備" }
+    ],
+    "related": [
+      { "en": "waterproof", "ja": "防水の" },
+      { "en": "weather", "ja": "天気・風雨" },
+      { "en": "durable", "ja": "丈夫な" },
+      { "en": "windproof", "ja": "防風の" }
+    ],
+    "faq": [
+      { "q": "weatherproof と waterproof の違いは？", "a": "waterproof は『防水（水を通さない）』、weatherproof は『雨・風・寒さなど悪天候全般に強い（全天候型）』で、より広い意味です。" },
+      { "q": "-proof とは？", "a": "『〜を防ぐ・〜に強い』を表します。waterproof（防水）、soundproof（防音）、fireproof（耐火）などに使われます。" }
+    ],
+    "quiz": [
+      { "q": "weatherproof の意味は？", "A": "全天候型の・風雨に強い", "B": "壊れやすい", "C": "とても軽い", "D": "透明な", "correct": "A" },
+      { "q": "-proof が表すのは？", "A": "〜を防ぐ・〜に強い", "B": "〜が好き", "C": "〜より速い", "D": "〜の色", "correct": "A" }
+    ]
+  },
+  {
+    "english": "weaving",
+    "pron": "ˈwiːvɪŋ",
+    "kana": "ウィービング",
+    "hinshi": "名詞 / 動詞(現在分詞)",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "weave(織る)+-ing",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "手工芸・動作語"],
+    "meaning_main": "織ること／機織り／(縫うように)ぬって進むこと",
+    "description": "weaving（ウィービング）は「織ること・機織り」を表す名詞。糸を縦横に組んで布を作ることです。また、人や車が「ぬうように進む」意味でも使います。意味・使い方を解説します。",
+    "keywords": ["weaving 意味", "機織り 英語", "織る 英語", "weave 派生"],
+    "meanings": [
+      { "hinshi": "【名詞】織ること・機織り", "note": "糸を縦横に組み合わせて布を作ること" },
+      { "hinshi": "【動詞】(縫うように)ぬって進んでいる", "note": "人・車が障害物の間をぬって進む" }
+    ],
+    "usages": [
+      { "title": "① 布を織る", "desc": "機織りを表す", "example_en": "She learned traditional weaving.", "example_ja": "彼女は伝統的な機織りを習った。" },
+      { "title": "② ぬって進む", "desc": "縫うように進むことを表す", "example_en": "The motorbike was weaving through traffic.", "example_ja": "そのバイクは車の間をぬって進んでいた。" }
+    ],
+    "warn": ["動詞 weave（織る）は weave-wove-woven と変化。『ぬって進む』の意味では weaved も使う", "編み物 knitting とは別（weaving は縦横の糸を組む織り）"],
+    "etym_note": "古英語 wefan（織る）由来の weave に -ing が付いた語で、「織ること」を表す。糸を組み合わせる動作から『ぬって進む』意味も生まれた。",
+    "etym_chain": [
+      { "node": "wefan", "sub": "織る", "era": "古英語" },
+      { "node": "weave", "sub": "織る", "era": "中英語" },
+      { "node": "weaving", "sub": "織ること", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "traditional weaving", "ja": "伝統的な機織り" },
+      { "en": "basket weaving", "ja": "かご編み" },
+      { "en": "the art of weaving", "ja": "織りの技術" },
+      { "en": "weaving through traffic", "ja": "車の間をぬって進む" },
+      { "en": "silk weaving", "ja": "絹織り" },
+      { "en": "learn weaving", "ja": "機織りを習う" }
+    ],
+    "related": [
+      { "en": "weave", "ja": "織る" },
+      { "en": "loom", "ja": "織機" },
+      { "en": "knitting", "ja": "編み物" },
+      { "en": "fabric", "ja": "布地" }
+    ],
+    "faq": [
+      { "q": "weaving と knitting の違いは？", "a": "weaving（織り）は縦糸と横糸を直角に組み合わせて布を作ること、knitting（編み物）は1本の糸でループを作りながら編むことです。作り方が違います。" },
+      { "q": "『ぬって進む』の意味は？", "a": "人や車が障害物の間を縫うように左右に進むことです。weaving through traffic（車の間をぬって進む）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "weaving の意味は？", "A": "織ること・機織り", "B": "編み物だけ", "C": "縫い物だけ", "D": "染め物", "correct": "A" },
+      { "q": "weaving through traffic の意味は？", "A": "車の間をぬって進む", "B": "渋滞で止まる", "C": "車を洗う", "D": "駐車する", "correct": "A" }
+    ]
+  },
+  {
+    "english": "wedgwood",
+    "pron": "ˈwedʒwʊd",
+    "kana": "ウェッジウッド",
+    "hinshi": "名詞（固有名詞・商標）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "創業者 Josiah Wedgwood の姓",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "商標・文化語"],
+    "meaning_main": "ウェッジウッド（イギリスの高級陶磁器ブランド）",
+    "description": "Wedgwood（ウェッジウッド）は、18世紀に創業されたイギリスの高級陶磁器ブランド。水色地に白い模様の『ジャスパーウェア』で有名です。意味・背景をやさしく解説します。",
+    "keywords": ["Wedgwood 意味", "ウェッジウッド 英語", "陶磁器 ブランド", "イギリス 陶器"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ウェッジウッド", "note": "イギリスの高級陶磁器ブランド。水色地に白い浮き彫り模様のジャスパーウェアで有名" }
+    ],
+    "usages": [
+      { "title": "① ブランドとして", "desc": "陶磁器の商標を表す", "example_en": "She collects Wedgwood china.", "example_ja": "彼女はウェッジウッドの陶磁器を集めている。" },
+      { "title": "② 特徴を語る", "desc": "有名な製品を表す", "example_en": "Wedgwood is famous for its blue jasperware.", "example_ja": "ウェッジウッドは水色のジャスパーウェアで有名だ。" }
+    ],
+    "warn": ["固有名詞・商標なので常に大文字で書く（Wedgwood）", "創業者ジョサイア・ウェッジウッドの姓に由来。つづりに注意（Wedgwood）"],
+    "etym_note": "18世紀イギリスの陶芸家ジョサイア・ウェッジウッド（Josiah Wedgwood）の姓に由来する。彼が創業した陶磁器会社のブランド名。",
+    "etym_chain": [
+      { "node": "Wedgwood", "sub": "ウェッジウッド(姓)", "era": "18世紀" },
+      { "node": "Wedgwood", "sub": "陶磁器ブランド", "era": "1759年創業" },
+      { "node": "Wedgwood", "sub": "ウェッジウッド", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Wedgwood china", "ja": "ウェッジウッドの陶磁器" },
+      { "en": "Wedgwood blue", "ja": "ウェッジウッドブルー(水色)" },
+      { "en": "a Wedgwood vase", "ja": "ウェッジウッドの花瓶" },
+      { "en": "collect Wedgwood", "ja": "ウェッジウッドを集める" },
+      { "en": "antique Wedgwood", "ja": "アンティークのウェッジウッド" },
+      { "en": "Wedgwood pottery", "ja": "ウェッジウッドの陶器" }
+    ],
+    "related": [
+      { "en": "china", "ja": "陶磁器" },
+      { "en": "pottery", "ja": "陶器" },
+      { "en": "porcelain", "ja": "磁器" },
+      { "en": "ceramic", "ja": "セラミック・陶磁器" }
+    ],
+    "faq": [
+      { "q": "Wedgwood とは？", "a": "18世紀にジョサイア・ウェッジウッドが創業した、イギリスの高級陶磁器ブランドです。水色地に白い浮き彫り模様のジャスパーウェアが特に有名です。" },
+      { "q": "『ウェッジウッドブルー』とは？", "a": "同ブランドを象徴する淡い水色のことで、色の名前としても使われます。" }
+    ],
+    "quiz": [
+      { "q": "Wedgwood はどんなブランド？", "A": "イギリスの高級陶磁器", "B": "自動車", "C": "時計", "D": "スポーツ用品", "correct": "A" },
+      { "q": "Wedgwood の名の由来は？", "A": "創業者の姓", "B": "地名", "C": "花の名", "D": "外国語", "correct": "A" }
+    ]
+  },
+  {
+    "english": "wedlock",
+    "pron": "ˈwedlɒk",
+    "kana": "ウェドロック",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 wedlac(誓いの行為)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "法律・文語"],
+    "meaning_main": "婚姻／結婚している状態（文語・法律語）",
+    "description": "wedlock（ウェドロック）は「婚姻・結婚している状態」を表す文語・法律的な語。特に born out of wedlock（婚外子として生まれた）という表現で使われます。意味を解説します。",
+    "keywords": ["wedlock 意味", "婚姻 英語", "out of wedlock", "wedlock 使い方"],
+    "meanings": [
+      { "hinshi": "【名詞】婚姻・結婚している状態", "note": "法的に結婚している状態。文語・法律的な語。不可算名詞" }
+    ],
+    "usages": [
+      { "title": "① 婚姻状態", "desc": "結婚していることを表す", "example_en": "They were united in wedlock.", "example_ja": "彼らは婚姻で結ばれた。" },
+      { "title": "② out of wedlock", "desc": "婚外を表す決まり文句", "example_en": "The child was born out of wedlock.", "example_ja": "その子は婚外子として生まれた。" }
+    ],
+    "warn": ["born out of wedlock（婚外子として生まれる）が最頻出", "-lock は『行為・状態』を表す古い接尾辞（＝鍵の lock とは無関係）"],
+    "etym_note": "古英語 wedlāc（wed「誓い」+ -lāc「行為」）に由来し、「(結婚の)誓いの行為→婚姻」を表す。lock（鍵）とは語源的に無関係。",
+    "etym_chain": [
+      { "node": "wedlac", "sub": "誓いの行為", "era": "古英語" },
+      { "node": "wedlock", "sub": "婚姻", "era": "中英語" },
+      { "node": "wedlock", "sub": "婚姻", "era": "現代英語(文語)" }
+    ],
+    "phrases": [
+      { "en": "out of wedlock", "ja": "婚外で(未婚のまま)" },
+      { "en": "born out of wedlock", "ja": "婚外子として生まれる" },
+      { "en": "in wedlock", "ja": "婚姻関係にあって" },
+      { "en": "holy wedlock", "ja": "神聖な婚姻" },
+      { "en": "united in wedlock", "ja": "婚姻で結ばれて" },
+      { "en": "the bonds of wedlock", "ja": "婚姻のきずな" }
+    ],
+    "related": [
+      { "en": "marriage", "ja": "結婚" },
+      { "en": "wed", "ja": "結婚する" },
+      { "en": "matrimony", "ja": "婚姻" },
+      { "en": "spouse", "ja": "配偶者" }
+    ],
+    "faq": [
+      { "q": "out of wedlock とは？", "a": "『婚姻関係の外で・結婚していないで』という意味です。born out of wedlock（婚外子として生まれる）のように使う、法律・文語的な表現です。" },
+      { "q": "wedlock の lock は鍵と関係ある？", "a": "いいえ。この -lock は『行為・状態』を表す古い接尾辞で、鍵の lock とは語源的に無関係です。" }
+    ],
+    "quiz": [
+      { "q": "wedlock の意味は？", "A": "婚姻・結婚している状態", "B": "離婚", "C": "鍵", "D": "誕生", "correct": "A" },
+      { "q": "born out of wedlock の意味は？", "A": "婚外子として生まれる", "B": "外国で生まれる", "C": "病院で生まれる", "D": "早産で生まれる", "correct": "A" }
+    ]
+  },
+  {
+    "english": "weevil",
+    "pron": "ˈwiːvəl",
+    "kana": "ウィービル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 wifel(甲虫)",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "昆虫語"],
+    "meaning_main": "ゾウムシ（穀物などを食べる害虫の甲虫）",
+    "description": "weevil（ウィービル）は「ゾウムシ」。口が象の鼻のように長く突き出た小さな甲虫で、穀物や豆などを食べる害虫として知られます。意味・特徴をやさしく解説します。",
+    "keywords": ["weevil 意味", "ゾウムシ 英語", "害虫 英語", "穀物 虫"],
+    "meanings": [
+      { "hinshi": "【名詞】ゾウムシ", "note": "口が象の鼻のように長い小さな甲虫。穀物・豆などを食べる害虫" }
+    ],
+    "usages": [
+      { "title": "① 害虫として", "desc": "穀物を食べる虫を表す", "example_en": "Weevils had gotten into the flour.", "example_ja": "小麦粉にゾウムシが入り込んでいた。" },
+      { "title": "② 農業で", "desc": "作物の害虫を表す", "example_en": "The boll weevil damages cotton crops.", "example_ja": "ワタミハナゾウムシは綿の作物を荒らす。" }
+    ],
+    "warn": ["穀物・豆・木材などを食害する。台所の穀物に発生することもある", "有名なのは綿花の害虫 boll weevil（ワタミハナゾウムシ）"],
+    "etym_note": "古英語 wifel（甲虫）に由来する。長い口（吻）を持つ甲虫の一群を指す。",
+    "etym_chain": [
+      { "node": "wifel", "sub": "甲虫", "era": "古英語" },
+      { "node": "wevel", "sub": "ゾウムシ", "era": "中英語" },
+      { "node": "weevil", "sub": "ゾウムシ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a grain weevil", "ja": "コクゾウムシ" },
+      { "en": "the boll weevil", "ja": "ワタミハナゾウムシ" },
+      { "en": "weevils in the flour", "ja": "小麦粉のゾウムシ" },
+      { "en": "infested with weevils", "ja": "ゾウムシがわいて" },
+      { "en": "a rice weevil", "ja": "コクゾウムシ(米の害虫)" },
+      { "en": "kill weevils", "ja": "ゾウムシを駆除する" }
+    ],
+    "related": [
+      { "en": "beetle", "ja": "甲虫" },
+      { "en": "insect", "ja": "昆虫" },
+      { "en": "pest", "ja": "害虫" },
+      { "en": "grain", "ja": "穀物" }
+    ],
+    "faq": [
+      { "q": "weevil とはどんな虫？", "a": "口（吻）が象の鼻のように長く突き出た小さな甲虫です。穀物・豆・木材などを食べる害虫で、台所の米や小麦粉にわくコクゾウムシもこの仲間です。" },
+      { "q": "有名なゾウムシは？", "a": "綿花を荒らす boll weevil（ワタミハナゾウムシ）が特に有名で、アメリカ南部で大きな農業被害を出したことで知られます。" }
+    ],
+    "quiz": [
+      { "q": "weevil の意味は？", "A": "ゾウムシ(穀物を食べる甲虫)", "B": "チョウ", "C": "クモ", "D": "ミミズ", "correct": "A" },
+      { "q": "weevil が食べるのは？", "A": "穀物・豆など", "B": "金属", "C": "石", "D": "プラスチックのみ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "weirdo",
+    "pron": "ˈwɪrdoʊ",
+    "kana": "ウィアドー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "weird(奇妙な)+-o",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "口語・くだけた語"],
+    "meaning_main": "変人／変わり者（くだけた・失礼な言い方）",
+    "description": "weirdo（ウィアドー）は「変人・変わり者」を表すくだけた口語。行動や見た目が奇妙な人を指す、やや失礼な言い方です。意味・使い方の注意をやさしく解説します。",
+    "keywords": ["weirdo 意味", "変人 英語", "weird 派生", "weirdo 使い方"],
+    "meanings": [
+      { "hinshi": "【名詞】変人・変わり者", "note": "行動や見た目が奇妙な人を指すくだけた・失礼な言い方" }
+    ],
+    "usages": [
+      { "title": "① からかって", "desc": "変わり者を表す", "example_en": "People thought he was a weirdo.", "example_ja": "人々は彼を変人だと思った。" },
+      { "title": "② 冗談で", "desc": "親しみを込めて使うことも", "example_en": "You're such a weirdo, but I like you.", "example_ja": "君って本当に変わってるけど、好きだよ。" }
+    ],
+    "warn": ["失礼・侮辱的になりうるくだけた口語。使う相手に注意", "形容詞は weird（奇妙な・変な）"],
+    "etym_note": "weird（奇妙な、古英語 wyrd「運命」に由来）に、人を表すくだけた接尾辞 -o が付いた語。20世紀の俗語。",
+    "etym_chain": [
+      { "node": "wyrd", "sub": "運命", "era": "古英語" },
+      { "node": "weird", "sub": "奇妙な", "era": "近代英語" },
+      { "node": "weirdo", "sub": "変人", "era": "20世紀(俗語)" }
+    ],
+    "phrases": [
+      { "en": "a total weirdo", "ja": "とんでもない変人" },
+      { "en": "call someone a weirdo", "ja": "変人呼ばわりする" },
+      { "en": "act like a weirdo", "ja": "変人のように振る舞う" },
+      { "en": "some weirdo", "ja": "どこかの変な人" },
+      { "en": "a bit of a weirdo", "ja": "ちょっと変わり者" },
+      { "en": "you weirdo", "ja": "この変わり者(冗談)" }
+    ],
+    "related": [
+      { "en": "weird", "ja": "奇妙な・変な" },
+      { "en": "oddball", "ja": "変人・変わり者" },
+      { "en": "eccentric", "ja": "風変わりな(人)" },
+      { "en": "freak", "ja": "変人・熱狂者" }
+    ],
+    "faq": [
+      { "q": "weirdo は失礼な言葉？", "a": "はい、くだけた・侮辱的になりうる口語です。親しい間柄なら冗談で使えますが、目上の人や知らない相手には使わないほうが無難です。" },
+      { "q": "形容詞は？", "a": "weird（奇妙な・変な・不気味な）です。" }
+    ],
+    "quiz": [
+      { "q": "weirdo の意味は？", "A": "変人・変わり者(くだけた語)", "B": "有名人", "C": "専門家", "D": "初心者", "correct": "A" },
+      { "q": "weirdo の形容詞形は？", "A": "weird", "B": "weary", "C": "wired", "D": "wide", "correct": "A" }
+    ]
+  },
+  {
+    "english": "weka",
+    "pron": "ˈwekə",
+    "kana": "ウェカ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "マオリ語 weka",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "動物・固有語"],
+    "meaning_main": "ウェカ（ニュージーランド固有の飛べない鳥）",
+    "description": "weka（ウェカ）は、ニュージーランドにすむ飛べない鳥。茶色で好奇心が強く、人の物を持ち去ることもあります。マオリ語の名です。意味・特徴をやさしく解説します。",
+    "keywords": ["weka 意味", "ウェカ 鳥 英語", "ニュージーランド 鳥", "飛べない鳥"],
+    "meanings": [
+      { "hinshi": "【名詞】ウェカ", "note": "ニュージーランド固有の飛べない鳥。茶色で好奇心が強い。マオリ語由来の名" }
+    ],
+    "usages": [
+      { "title": "① 鳥として", "desc": "飛べない鳥を表す", "example_en": "The weka cannot fly.", "example_ja": "ウェカは飛ぶことができない。" },
+      { "title": "② 生態を語る", "desc": "特徴を説明する", "example_en": "Wekas are known for their curiosity.", "example_ja": "ウェカは好奇心の強さで知られる。" }
+    ],
+    "warn": ["日常ではまれで、動物・自然の話題で使う", "同じくニュージーランドの飛べない鳥キーウィ(kiwi)とは別の鳥"],
+    "etym_note": "ニュージーランドの先住民マオリの言葉 weka に由来する。鳴き声にちなむ名とされる。",
+    "etym_chain": [
+      { "node": "weka", "sub": "ウェカ", "era": "マオリ語" },
+      { "node": "weka", "sub": "ウェカ", "era": "近代英語" },
+      { "node": "weka", "sub": "ウェカ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a wild weka", "ja": "野生のウェカ" },
+      { "en": "the weka is flightless", "ja": "ウェカは飛べない" },
+      { "en": "a curious weka", "ja": "好奇心旺盛なウェカ" },
+      { "en": "spot a weka", "ja": "ウェカを見つける" },
+      { "en": "the call of the weka", "ja": "ウェカの鳴き声" },
+      { "en": "protect the weka", "ja": "ウェカを保護する" }
+    ],
+    "related": [
+      { "en": "kiwi", "ja": "キーウィ(鳥)" },
+      { "en": "bird", "ja": "鳥" },
+      { "en": "flightless", "ja": "飛べない" },
+      { "en": "New Zealand", "ja": "ニュージーランド" }
+    ],
+    "faq": [
+      { "q": "weka とは？", "a": "ニュージーランド固有の飛べない鳥です。茶色で好奇心が強く、キャンプ場などで人の食べ物や光る物を持ち去ることもあります。マオリ語の名前です。" },
+      { "q": "kiwi との違いは？", "a": "どちらもニュージーランドの飛べない鳥ですが、別の種です。kiwi は夜行性で長いくちばしを持ち、weka はより活発で好奇心旺盛です。" }
+    ],
+    "quiz": [
+      { "q": "weka はどんな鳥？", "A": "ニュージーランドの飛べない鳥", "B": "南極のペンギン", "C": "北極の白鳥", "D": "砂漠のワシ", "correct": "A" },
+      { "q": "weka の名前は何語由来？", "A": "マオリ語", "B": "ラテン語", "C": "ドイツ語", "D": "中国語", "correct": "A" }
+    ]
+  },
+  {
+    "english": "welles",
+    "pron": "welz",
+    "kana": "ウェルズ",
+    "hinshi": "名詞（固有名詞）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "映画監督 Orson Welles の姓",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "人名(映画)"],
+    "meaning_main": "ウェルズ（オーソン・ウェルズ。『市民ケーン』の映画監督）",
+    "description": "Welles（ウェルズ）は、アメリカの映画監督・俳優オーソン・ウェルズの姓。『市民ケーン』は映画史上の傑作とされ、革新的な演出で知られます。意味・背景を解説します。",
+    "keywords": ["Welles 意味", "オーソン・ウェルズ 英語", "市民ケーン 監督", "映画監督"],
+    "meanings": [
+      { "hinshi": "【固有名詞】(オーソン・)ウェルズ", "note": "アメリカの映画監督・俳優。『市民ケーン』の監督として有名" }
+    ],
+    "usages": [
+      { "title": "① 監督として", "desc": "人名として使う", "example_en": "Orson Welles directed Citizen Kane.", "example_ja": "オーソン・ウェルズは『市民ケーン』を監督した。" },
+      { "title": "② 映画史で", "desc": "革新者として語る", "example_en": "Welles changed the way films were made.", "example_ja": "ウェルズは映画の作り方を変えた。" }
+    ],
+    "warn": ["固有名詞なので常に大文字で書く（Welles）。SF作家の H.G. Wells とはつづり・別人", "『市民ケーン（Citizen Kane）』は映画史上の傑作とされる"],
+    "etym_note": "アメリカの映画監督・俳優オーソン・ウェルズ（Orson Welles、1915–1985）の姓。ラジオドラマ『宇宙戦争』の放送でも有名。",
+    "etym_chain": [
+      { "node": "Welles", "sub": "ウェルズ(姓)", "era": "英語圏" },
+      { "node": "Orson Welles", "sub": "映画監督ウェルズ", "era": "20世紀" },
+      { "node": "Welles", "sub": "ウェルズ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Orson Welles", "ja": "オーソン・ウェルズ" },
+      { "en": "a film by Welles", "ja": "ウェルズの映画" },
+      { "en": "Welles's Citizen Kane", "ja": "ウェルズの『市民ケーン』" },
+      { "en": "directed by Welles", "ja": "ウェルズ監督の" },
+      { "en": "the genius of Welles", "ja": "ウェルズの天才" },
+      { "en": "study Welles", "ja": "ウェルズを研究する" }
+    ],
+    "related": [
+      { "en": "director", "ja": "映画監督" },
+      { "en": "film", "ja": "映画" },
+      { "en": "actor", "ja": "俳優" },
+      { "en": "cinema", "ja": "映画・映画館" }
+    ],
+    "faq": [
+      { "q": "Welles は誰？", "a": "アメリカの映画監督・俳優オーソン・ウェルズです。革新的な演出の映画『市民ケーン』（1941年）の監督として、映画史上に名を残しています。" },
+      { "q": "H.G. Wells と同じ？", "a": "いいえ、別人です。H.G. Wells（ウェルズ）は『宇宙戦争』などのSF作家で、つづりも Wells と異なります。" }
+    ],
+    "quiz": [
+      { "q": "Welles はどんな人物？", "A": "『市民ケーン』の映画監督", "B": "作曲家", "C": "画家", "D": "科学者", "correct": "A" },
+      { "q": "Welles の代表作は？", "A": "市民ケーン", "B": "風と共に去りぬ", "C": "スター・ウォーズ", "D": "ゴッドファーザー", "correct": "A" }
+    ]
+  },
+  {
+    "english": "wessex",
+    "pron": "ˈwesɪks",
+    "kana": "ウェセックス",
+    "hinshi": "名詞（固有名詞）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "West Saxons(西サクソン人)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "歴史・地名"],
+    "meaning_main": "ウェセックス（古代イングランドのアングロ・サクソン王国）",
+    "description": "Wessex（ウェセックス）は、古代イングランド南部にあったアングロ・サクソン人の王国。アルフレッド大王で知られ、後のイングランド統一の中心となりました。意味を解説します。",
+    "keywords": ["Wessex 意味", "ウェセックス 英語", "アングロ・サクソン 王国", "アルフレッド大王"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ウェセックス", "note": "古代イングランド南部のアングロ・サクソン王国。名は『西サクソン人』の意" }
+    ],
+    "usages": [
+      { "title": "① 歴史の王国", "desc": "古代の王国を表す", "example_en": "Alfred the Great was king of Wessex.", "example_ja": "アルフレッド大王はウェセックスの王だった。" },
+      { "title": "② 統一の中心", "desc": "歴史の役割を語る", "example_en": "Wessex led the unification of England.", "example_ja": "ウェセックスはイングランド統一を主導した。" }
+    ],
+    "warn": ["固有名詞なので常に大文字で書く（Wessex）", "小説家トマス・ハーディが作品の舞台として使った架空の地名でもある"],
+    "etym_note": "West Saxons（西サクソン人）に由来する。彼らが建てた王国がウェセックスで、アルフレッド大王のもとで栄えた。",
+    "etym_chain": [
+      { "node": "West Saxons", "sub": "西サクソン人", "era": "古代" },
+      { "node": "Wessex", "sub": "ウェセックス王国", "era": "アングロ・サクソン期" },
+      { "node": "Wessex", "sub": "ウェセックス", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the Kingdom of Wessex", "ja": "ウェセックス王国" },
+      { "en": "the king of Wessex", "ja": "ウェセックスの王" },
+      { "en": "ancient Wessex", "ja": "古代のウェセックス" },
+      { "en": "Wessex and Mercia", "ja": "ウェセックスとマーシア" },
+      { "en": "the rise of Wessex", "ja": "ウェセックスの興隆" },
+      { "en": "Hardy's Wessex", "ja": "ハーディの(小説の)ウェセックス" }
+    ],
+    "related": [
+      { "en": "Anglo-Saxon", "ja": "アングロ・サクソン" },
+      { "en": "England", "ja": "イングランド" },
+      { "en": "kingdom", "ja": "王国" },
+      { "en": "Alfred", "ja": "アルフレッド(大王)" }
+    ],
+    "faq": [
+      { "q": "Wessex とは？", "a": "古代イングランド南部にあったアングロ・サクソン人の王国です。名は『西サクソン人（West Saxons）』に由来し、アルフレッド大王のもとで栄え、後のイングランド統一の中心となりました。" },
+      { "q": "文学との関係は？", "a": "小説家トマス・ハーディが、自作の舞台としてこの古い地名『ウェセックス』を架空の地域名に用いたことでも知られます。" }
+    ],
+    "quiz": [
+      { "q": "Wessex とは？", "A": "古代イングランドの王国", "B": "近代の会社", "C": "山脈", "D": "海", "correct": "A" },
+      { "q": "Wessex の名の由来は？", "A": "西サクソン人", "B": "東の海", "C": "北の山", "D": "南の川", "correct": "A" }
+    ]
+  },
+  {
+    "english": "westbound",
+    "pron": "ˈwestbaʊnd",
+    "kana": "ウェストバウンド",
+    "hinshi": "形容詞 / 副詞",
+    "ld_pos": "形容詞・副詞",
+    "ld_etym": "west(西)+bound(向かう)",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "交通語"],
+    "meaning_main": "西行きの／西へ向かう",
+    "description": "westbound（ウェストバウンド）は「西行きの・西へ向かう」を表す語。電車・車・飛行機などが西の方向へ進むことを表します。反対は eastbound（東行き）です。意味を解説します。",
+    "keywords": ["westbound 意味", "西行き 英語", "eastbound 反対", "bound 向かう"],
+    "meanings": [
+      { "hinshi": "【形容詞・副詞】西行きの・西へ向かう", "note": "電車・車・便などが西の方向へ進む" }
+    ],
+    "usages": [
+      { "title": "① 交通機関で", "desc": "西行きを表す", "example_en": "Take the westbound train.", "example_ja": "西行きの電車に乗りなさい。" },
+      { "title": "② 道路で", "desc": "西方向の車線などを表す", "example_en": "The westbound lane was closed.", "example_ja": "西行きの車線が閉鎖された。" }
+    ],
+    "warn": ["方角＋bound で『〜行き』を表す（eastbound 東行き、northbound 北行き、southbound 南行き）", "bound は『〜行きの・向かう』の意味（境界の bound とは別）"],
+    "etym_note": "west（西）と bound（〜へ向かう、古ノルド語 búinn「用意のできた・向かう」由来）を組み合わせた語で、「西へ向かう」を表す。",
+    "etym_chain": [
+      { "node": "west + bound", "sub": "西 + 向かう", "era": "近代英語" },
+      { "node": "westbound", "sub": "西行きの", "era": "19世紀" },
+      { "node": "westbound", "sub": "西行きの", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the westbound train", "ja": "西行きの電車" },
+      { "en": "a westbound flight", "ja": "西行きの便" },
+      { "en": "the westbound lane", "ja": "西行きの車線" },
+      { "en": "westbound traffic", "ja": "西行きの交通" },
+      { "en": "heading westbound", "ja": "西へ向かって" },
+      { "en": "a westbound highway", "ja": "西行きの幹線道路" }
+    ],
+    "related": [
+      { "en": "eastbound", "ja": "東行きの" },
+      { "en": "northbound", "ja": "北行きの" },
+      { "en": "southbound", "ja": "南行きの" },
+      { "en": "west", "ja": "西" }
+    ],
+    "faq": [
+      { "q": "westbound と eastbound の違いは？", "a": "westbound は『西行き（西へ向かう）』、eastbound は『東行き（東へ向かう）』です。進む方向が逆です。" },
+      { "q": "bound とは？", "a": "ここでは『〜へ向かう・〜行きの』の意味です。方角と組み合わせて northbound（北行き）などのように使います。" }
+    ],
+    "quiz": [
+      { "q": "westbound の意味は？", "A": "西行きの・西へ向かう", "B": "東行きの", "C": "止まっている", "D": "上へ向かう", "correct": "A" },
+      { "q": "westbound の反対語は？", "A": "eastbound", "B": "outbound", "C": "inbound", "D": "rebound", "correct": "A" }
+    ]
+  },
+  {
+    "english": "wether",
+    "pron": "ˈweðər",
+    "kana": "ウェザー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 weþer(去勢した雄羊)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "畜産・専門語"],
+    "meaning_main": "去勢した雄ヒツジ",
+    "description": "wether（ウェザー）は「去勢した雄ヒツジ」を表す畜産の専門語。おとなしく飼いやすいため、群れの管理などに用いられます。天気の weather とは別の語です。意味を解説します。",
+    "keywords": ["wether 意味", "去勢 雄羊 英語", "wether weather 違い", "羊 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】去勢した雄ヒツジ", "note": "繁殖に使わないよう去勢された雄のヒツジ。おとなしく飼いやすい" }
+    ],
+    "usages": [
+      { "title": "① 畜産で", "desc": "去勢した雄羊を表す", "example_en": "The farmer kept a wether to lead the flock.", "example_ja": "農夫は群れを先導させるため去勢した雄羊を飼っていた。" },
+      { "title": "② 羊の分類で", "desc": "羊の種類を語る", "example_en": "A wether is a castrated male sheep.", "example_ja": "wether とは去勢された雄のヒツジのことだ。" }
+    ],
+    "warn": ["天気の weather、〜かどうかの whether と発音が同じ（同音異義語）。つづりに注意", "雌羊は ewe、去勢していない雄羊は ram、子羊は lamb"],
+    "etym_note": "古英語 weþer（去勢した雄羊）に由来する。天気の weather（古英語 weder）とは別語源。",
+    "etym_chain": [
+      { "node": "weþer", "sub": "去勢した雄羊", "era": "古英語" },
+      { "node": "wether", "sub": "去勢した雄羊", "era": "中英語" },
+      { "node": "wether", "sub": "去勢した雄ヒツジ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a young wether", "ja": "若い去勢羊" },
+      { "en": "keep a wether", "ja": "去勢羊を飼う" },
+      { "en": "a wether lamb", "ja": "去勢した子羊" },
+      { "en": "the wether led the flock", "ja": "去勢羊が群れを先導した" },
+      { "en": "a bell wether", "ja": "先導役の羊(bellwether)" },
+      { "en": "sell a wether", "ja": "去勢羊を売る" }
+    ],
+    "related": [
+      { "en": "sheep", "ja": "ヒツジ" },
+      { "en": "ram", "ja": "雄ヒツジ" },
+      { "en": "ewe", "ja": "雌ヒツジ" },
+      { "en": "lamb", "ja": "子ヒツジ" }
+    ],
+    "faq": [
+      { "q": "wether と weather の違いは？", "a": "発音は同じ /ˈweðər/ ですが、意味が全く違います。wether は『去勢した雄ヒツジ』、weather は『天気』です。つづりも異なります。" },
+      { "q": "bellwether との関係は？", "a": "bellwether（先導役・先行指標）は、鈴（bell）を付けて群れを先導する去勢羊（wether）に由来する語です。" }
+    ],
+    "quiz": [
+      { "q": "wether の意味は？", "A": "去勢した雄ヒツジ", "B": "天気", "C": "海", "D": "山", "correct": "A" },
+      { "q": "wether と同じ発音の『天気』は？", "A": "weather", "B": "wither", "C": "whether のみ不可", "D": "water", "correct": "A" }
+    ]
+  },
+  {
+    "english": "wetsuit",
+    "pron": "ˈwetsuːt",
+    "kana": "ウェットスーツ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "wet(ぬれた)+suit(スーツ)",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "スポーツ語"],
+    "meaning_main": "ウェットスーツ（保温のための潜水・サーフィン用の服）",
+    "description": "wetsuit（ウェットスーツ）は、サーフィンやダイビングで着る、体を保温するためのぴったりしたゴム製の服。水の冷たさから体を守ります。意味・使い方をやさしく解説します。",
+    "keywords": ["wetsuit 意味", "ウェットスーツ 英語", "ダイビング 服", "drysuit 違い"],
+    "meanings": [
+      { "hinshi": "【名詞】ウェットスーツ", "note": "サーフィン・ダイビングで着る、保温用のぴったりしたゴム製の服" }
+    ],
+    "usages": [
+      { "title": "① 水中スポーツで", "desc": "保温の服を表す", "example_en": "She put on her wetsuit before surfing.", "example_ja": "彼女はサーフィンの前にウェットスーツを着た。" },
+      { "title": "② 装備として", "desc": "潜水の道具として使う", "example_en": "A wetsuit keeps you warm in cold water.", "example_ja": "ウェットスーツは冷たい水の中で体を暖かく保つ。" }
+    ],
+    "warn": ["少量の水を入れて体温で温める wetsuit に対し、水を通さない drysuit（ドライスーツ）もある", "wet（ぬれた）＋ suit（スーツ・ひとそろいの服）"],
+    "etym_note": "wet（ぬれた）と suit（ひとそろいの服）を組み合わせた語。中に入った水を体温で温めて保温することから wet（ぬれた）と呼ばれる。",
+    "etym_chain": [
+      { "node": "wet + suit", "sub": "ぬれた + 服", "era": "20世紀" },
+      { "node": "wetsuit", "sub": "ウェットスーツ", "era": "1950年代" },
+      { "node": "wetsuit", "sub": "ウェットスーツ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "put on a wetsuit", "ja": "ウェットスーツを着る" },
+      { "en": "a diving wetsuit", "ja": "ダイビング用ウェットスーツ" },
+      { "en": "a surfing wetsuit", "ja": "サーフィン用ウェットスーツ" },
+      { "en": "a thick wetsuit", "ja": "厚手のウェットスーツ" },
+      { "en": "zip up the wetsuit", "ja": "ウェットスーツのジッパーを上げる" },
+      { "en": "a full wetsuit", "ja": "全身型のウェットスーツ" }
+    ],
+    "related": [
+      { "en": "drysuit", "ja": "ドライスーツ" },
+      { "en": "diving", "ja": "ダイビング" },
+      { "en": "surfing", "ja": "サーフィン" },
+      { "en": "rubber", "ja": "ゴム" }
+    ],
+    "faq": [
+      { "q": "wetsuit と drysuit の違いは？", "a": "wetsuit（ウェットスーツ）は少量の水を中に入れ、それを体温で温めて保温します。drysuit（ドライスーツ）は水を通さず、体をぬらさずに保温します。より冷たい水では drysuit が使われます。" },
+      { "q": "なぜ wet（ぬれた）と呼ぶ？", "a": "スーツの中に少し水が入り、その水を体温で温めることで保温する仕組みだからです。" }
+    ],
+    "quiz": [
+      { "q": "wetsuit の意味は？", "A": "保温用の潜水・サーフィン用の服", "B": "雨具", "C": "作業着", "D": "パジャマ", "correct": "A" },
+      { "q": "水を通さない方のスーツは？", "A": "drysuit", "B": "wetsuit", "C": "swimsuit", "D": "spacesuit", "correct": "A" }
+    ]
+  },
+  {
+    "english": "whatchamacallit",
+    "pron": "ˈwɒtʃəməkɔːlɪt",
+    "kana": "ワッチャマコーリット",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "what you may call it の短縮",
+    "ld_level": "1級",
+    "badges": ["中学生〜", "英検1級", "CEFR B2", "口語・くだけた語"],
+    "meaning_main": "例のあれ／なんて呼ぶんだっけ（名前が出てこない物）",
+    "description": "whatchamacallit（ワッチャマコーリット）は「例のあれ・なんて呼ぶんだっけ」。名前を思い出せない物を指すくだけた口語です。what you may call it が縮まった語です。意味を解説。",
+    "keywords": ["whatchamacallit 意味", "例のあれ 英語", "名前が出てこない 英語", "thingamajig"],
+    "meanings": [
+      { "hinshi": "【名詞】例のあれ・なんて呼ぶんだっけ", "note": "名前が思い出せない・分からない物を指すくだけた口語" }
+    ],
+    "usages": [
+      { "title": "① 名前が出ないとき", "desc": "思い出せない物を表す", "example_en": "Pass me that whatchamacallit on the shelf.", "example_ja": "棚の上のあれ、取って。" },
+      { "title": "② 説明できない物", "desc": "うまく呼べない物を表す", "example_en": "I need the whatchamacallit for the printer.", "example_ja": "プリンターのあの部品が必要なんだ。" }
+    ],
+    "warn": ["非常にくだけた口語。フォーマルな場では使わない", "thingamajig / thingamabob / doohickey なども同じ『あれ』を表す"],
+    "etym_note": "what you may call it（それをなんと呼べばいいか）という句が縮まってできた語。名前が出てこない物をとりあえず呼ぶための造語。",
+    "etym_chain": [
+      { "node": "what you may call it", "sub": "なんと呼ぶか", "era": "近代英語" },
+      { "node": "whatchamacallit", "sub": "例のあれ", "era": "20世紀" },
+      { "node": "whatchamacallit", "sub": "なんて呼ぶんだっけ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "that whatchamacallit", "ja": "あの例のあれ" },
+      { "en": "hand me the whatchamacallit", "ja": "あれ取って" },
+      { "en": "some kind of whatchamacallit", "ja": "なんとかいうもの" },
+      { "en": "the whatchamacallit over there", "ja": "あそこのあれ" },
+      { "en": "what's that whatchamacallit", "ja": "あのあれ何？" },
+      { "en": "a little whatchamacallit", "ja": "小さいあれ" }
+    ],
+    "related": [
+      { "en": "thingamajig", "ja": "なんとかいうもの" },
+      { "en": "thingamabob", "ja": "例のあれ" },
+      { "en": "doohickey", "ja": "例のあれ・小道具" },
+      { "en": "gizmo", "ja": "気の利いた小道具" }
+    ],
+    "faq": [
+      { "q": "whatchamacallit はいつ使う？", "a": "物の名前が思い出せないとき、または知らないときに『例のあれ・なんて呼ぶんだっけ』ととりあえず呼ぶための、くだけた口語です。" },
+      { "q": "似た言葉は？", "a": "thingamajig、thingamabob、doohickey、gizmo などがあります。どれも『名前の出てこない物』を指します。" }
+    ],
+    "quiz": [
+      { "q": "whatchamacallit の意味は？", "A": "名前が出てこないもの・例のあれ", "B": "有名な建物", "C": "正式な書類", "D": "大きな数", "correct": "A" },
+      { "q": "whatchamacallit の元になった句は？", "A": "what you may call it", "B": "what is this", "C": "who are you", "D": "where is it", "correct": "A" }
+    ]
+  },
+  {
+    "english": "whatshisname",
+    "pron": "ˈwɒtsɪzneɪm",
+    "kana": "ワッツィズネイム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "what's his name(彼の名前は何)の短縮",
+    "ld_level": "1級",
+    "badges": ["中学生〜", "英検1級", "CEFR B2", "口語・くだけた語"],
+    "meaning_main": "例のあの人／名前が出てこないあの男（口語）",
+    "description": "whatshisname（ワッツィズネイム）は「例のあの人・名前が出てこないあの男」。名前を思い出せない男性を指すくだけた口語です。女性版は whatshername です。意味を解説します。",
+    "keywords": ["whatshisname 意味", "名前が出てこない人 英語", "例のあの人 英語", "whatshername"],
+    "meanings": [
+      { "hinshi": "【名詞】名前が出てこないあの男・例のあの人", "note": "名前を思い出せない男性を指すくだけた口語。女性は whatshername" }
+    ],
+    "usages": [
+      { "title": "① 名前を思い出せないとき", "desc": "あの人を表す", "example_en": "I saw whatshisname at the store.", "example_ja": "店で例のあの人（名前忘れた）を見かけた。" },
+      { "title": "② 会話で", "desc": "名前をぼかして使う", "example_en": "Whatshisname called you earlier.", "example_ja": "さっき、ほら、あの人から電話があったよ。" }
+    ],
+    "warn": ["非常にくだけた口語。名前をきちんと言うべき場面では使わない", "女性なら whatshername、物なら whatchamacallit を使う"],
+    "etym_note": "what's his name?（彼の名前は何だっけ？）という句が縮まってできた語。名前が出てこない人をとりあえず呼ぶための口語。",
+    "etym_chain": [
+      { "node": "what's his name", "sub": "彼の名前は何", "era": "近代英語" },
+      { "node": "whatshisname", "sub": "例のあの男", "era": "20世紀" },
+      { "node": "whatshisname", "sub": "名前が出てこないあの人", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "old whatshisname", "ja": "ほら、例のあの人" },
+      { "en": "whatshisname from work", "ja": "職場の例のあの人" },
+      { "en": "I met whatshisname", "ja": "例のあの人に会った" },
+      { "en": "ask whatshisname", "ja": "あの人（名前忘れた）に聞く" },
+      { "en": "whatshisname said so", "ja": "あの人がそう言ってた" },
+      { "en": "you know, whatshisname", "ja": "ほら、あの人だよ" }
+    ],
+    "related": [
+      { "en": "whatshername", "ja": "名前が出てこないあの女性" },
+      { "en": "so-and-so", "ja": "だれそれ・なにがし" },
+      { "en": "whatchamacallit", "ja": "例のあれ(物)" },
+      { "en": "thingy", "ja": "例のあれ" }
+    ],
+    "faq": [
+      { "q": "whatshisname はいつ使う？", "a": "男性の名前が思い出せないとき、『ほら、あの人・例のあの男』ととりあえず呼ぶための、くだけた口語です。女性なら whatshername を使います。" },
+      { "q": "物のときは？", "a": "物の名前が出てこないときは whatchamacallit や thingamajig を使います。" }
+    ],
+    "quiz": [
+      { "q": "whatshisname の意味は？", "A": "名前が出てこないあの男(人)", "B": "有名人", "C": "初対面の人", "D": "外国人", "correct": "A" },
+      { "q": "名前が出てこない女性を指す語は？", "A": "whatshername", "B": "whatshisname", "C": "whatchamacallit", "D": "whoever", "correct": "A" }
+    ]
+  },
+  {
+    "english": "wheelbarrow",
+    "pron": "ˈwiːlbæroʊ",
+    "kana": "ウィールバロー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "wheel(車輪)+barrow(手押し車)",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "道具語"],
+    "meaning_main": "手押し車／一輪車（土や荷物を運ぶ）",
+    "description": "wheelbarrow（ウィールバロー）は「手押し車・一輪車」。前に1つの車輪があり、2本の柄を持って土や荷物を運ぶ道具です。園芸や工事で使われます。意味を解説します。",
+    "keywords": ["wheelbarrow 意味", "手押し車 英語", "一輪車 英語", "wheelbarrow 使い方"],
+    "meanings": [
+      { "hinshi": "【名詞】手押し車・一輪車", "note": "前に1つの車輪、後ろに2本の柄がある、土や荷物を運ぶ道具" }
+    ],
+    "usages": [
+      { "title": "① 運ぶ道具", "desc": "荷物を運ぶ車を表す", "example_en": "He filled the wheelbarrow with soil.", "example_ja": "彼は手押し車に土をいっぱいに入れた。" },
+      { "title": "② 園芸・工事で", "desc": "作業道具として使う", "example_en": "She pushed the wheelbarrow across the garden.", "example_ja": "彼女は庭の向こうへ手押し車を押していった。" }
+    ],
+    "warn": ["乗り物の『一輪車（曲芸用）』は unicycle。wheelbarrow は荷物を運ぶ手押し車", "wheel（車輪）＋ barrow（荷物運びの台）"],
+    "etym_note": "wheel（車輪）と barrow（荷物を運ぶ台、古英語 bearwe）を組み合わせた語で、「車輪の付いた荷物運び」を表す。",
+    "etym_chain": [
+      { "node": "wheel + bearwe", "sub": "車輪 + 運び台", "era": "中英語" },
+      { "node": "wheelbarrow", "sub": "手押し車", "era": "中英語" },
+      { "node": "wheelbarrow", "sub": "手押し車・一輪車", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "push a wheelbarrow", "ja": "手押し車を押す" },
+      { "en": "fill the wheelbarrow", "ja": "手押し車に(荷を)積む" },
+      { "en": "a wheelbarrow of soil", "ja": "手押し車一杯の土" },
+      { "en": "load the wheelbarrow", "ja": "手押し車に積み込む" },
+      { "en": "a garden wheelbarrow", "ja": "園芸用の手押し車" },
+      { "en": "tip the wheelbarrow", "ja": "手押し車を傾けて下ろす" }
+    ],
+    "related": [
+      { "en": "wheel", "ja": "車輪" },
+      { "en": "cart", "ja": "荷車" },
+      { "en": "unicycle", "ja": "(曲芸の)一輪車" },
+      { "en": "garden", "ja": "庭" }
+    ],
+    "faq": [
+      { "q": "wheelbarrow とは？", "a": "前に1つの車輪、後ろに2本の柄がある、土や荷物を運ぶための手押し車です。園芸や工事現場でよく使われます。" },
+      { "q": "unicycle との違いは？", "a": "wheelbarrow は荷物を運ぶ『手押し車』、unicycle は人が乗る曲芸用の『一輪車（車輪1つの乗り物）』です。どちらも車輪は1つですが用途が違います。" }
+    ],
+    "quiz": [
+      { "q": "wheelbarrow の意味は？", "A": "土や荷物を運ぶ手押し車", "B": "自転車", "C": "台所の道具", "D": "洗濯機", "correct": "A" },
+      { "q": "wheelbarrow を構成する2語は？", "A": "wheel + barrow", "B": "wheel + narrow", "C": "wheat + barrow", "D": "wheel + borrow", "correct": "A" }
+    ]
+  },
+  {
+    "english": "whey",
+    "pron": "weɪ",
+    "kana": "ホエイ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 hwæg(乳清)",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "食品語"],
+    "meaning_main": "ホエイ／乳清（チーズを作るときに残る液体）",
+    "description": "whey（ホエイ）は「乳清（にゅうせい）」。牛乳を固めてチーズを作るときに残る、うすい黄色の液体です。栄養豊富で、プロテインなどに使われます。意味・使い方を解説します。",
+    "keywords": ["whey 意味", "ホエイ 英語", "乳清 英語", "whey protein"],
+    "meanings": [
+      { "hinshi": "【名詞】ホエイ・乳清", "note": "牛乳を固めてチーズを作るときに残るうすい黄色の液体。不可算名詞" }
+    ],
+    "usages": [
+      { "title": "① チーズ作りで", "desc": "残る液体を表す", "example_en": "Cheese-making leaves behind whey.", "example_ja": "チーズ作りではホエイが残る。" },
+      { "title": "② 栄養食品で", "desc": "プロテインとして使う", "example_en": "Many athletes drink whey protein.", "example_ja": "多くのアスリートはホエイプロテインを飲む。" }
+    ],
+    "warn": ["固まった方（チーズになる部分）は curd（凝乳）", "whey protein（ホエイプロテイン）は筋トレでおなじみ"],
+    "etym_note": "古英語 hwæg（乳清）に由来する。チーズを作る際に固形分（curd）と分離して残る液体を指す。",
+    "etym_chain": [
+      { "node": "hwæg", "sub": "乳清", "era": "古英語" },
+      { "node": "wheye", "sub": "乳清", "era": "中英語" },
+      { "node": "whey", "sub": "ホエイ・乳清", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "whey protein", "ja": "ホエイプロテイン" },
+      { "en": "curds and whey", "ja": "凝乳と乳清" },
+      { "en": "drain the whey", "ja": "乳清を切る" },
+      { "en": "leftover whey", "ja": "残った乳清" },
+      { "en": "sweet whey", "ja": "甘いホエイ" },
+      { "en": "whey powder", "ja": "ホエイパウダー" }
+    ],
+    "related": [
+      { "en": "curd", "ja": "凝乳" },
+      { "en": "milk", "ja": "牛乳" },
+      { "en": "cheese", "ja": "チーズ" },
+      { "en": "protein", "ja": "タンパク質" }
+    ],
+    "faq": [
+      { "q": "whey とは？", "a": "牛乳を固めてチーズを作るときに、固形分（curd＝凝乳）と分かれて残るうすい黄色の液体（乳清）です。タンパク質が豊富です。" },
+      { "q": "whey protein とは？", "a": "ホエイ（乳清）から作られるタンパク質のサプリメントです。吸収が速く、筋トレやスポーツでよく利用されます。" }
+    ],
+    "quiz": [
+      { "q": "whey の意味は？", "A": "チーズ作りで残る乳清", "B": "小麦粉", "C": "砂糖", "D": "油", "correct": "A" },
+      { "q": "whey と分かれてチーズになる固形分は？", "A": "curd(凝乳)", "B": "cream", "C": "butter", "D": "sugar", "correct": "A" }
+    ]
+  },
+  {
+    "english": "whichever",
+    "pron": "wɪˈtʃevər",
+    "kana": "ウィッチエバー",
+    "hinshi": "代名詞 / 形容詞",
+    "ld_pos": "代名詞・形容詞",
+    "ld_etym": "which(どちら)+ever(〜でも)",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出語"],
+    "meaning_main": "どちらでも／どれでも（〜する方）",
+    "description": "whichever（ウィッチエバー）は「どちらでも・どれでも（〜する方）」を表す語。限られた選択肢の中から『どれを選んでも』という意味を表します。意味・使い方をやさしく解説。",
+    "keywords": ["whichever 意味", "どちらでも 英語", "whatever 違い", "whichever 使い方"],
+    "meanings": [
+      { "hinshi": "【代名詞・形容詞】どちらでも・どれでも(〜する方)", "note": "限られた選択肢の中から、どれを選んでもよい／〜する方の" }
+    ],
+    "usages": [
+      { "title": "① どれでも選ぶ", "desc": "選択肢からの自由を表す", "example_en": "Choose whichever you like.", "example_ja": "どれでも好きなものを選んでいいよ。" },
+      { "title": "② 〜する方の", "desc": "形容詞として使う", "example_en": "Take whichever road is shorter.", "example_ja": "どちらでも短い方の道を行きなさい。" }
+    ],
+    "warn": ["whichever は『限られた選択肢の中で』、whatever は『何でも（限定なし）』", "-ever は『〜でも』の意味を加える"],
+    "etym_note": "which（どちら・どれ）に、「〜でも」を表す ever が付いた語で、「どちらでも・どれでも」を表す。",
+    "etym_chain": [
+      { "node": "which + ever", "sub": "どちら + 〜でも", "era": "中英語" },
+      { "node": "whichever", "sub": "どちらでも", "era": "近代英語" },
+      { "node": "whichever", "sub": "どちらでも・どれでも", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "whichever you like", "ja": "どれでも好きなもの" },
+      { "en": "whichever comes first", "ja": "どちらか早い方" },
+      { "en": "whichever way", "ja": "どちらの道でも" },
+      { "en": "whichever you choose", "ja": "どちらを選んでも" },
+      { "en": "whichever is cheaper", "ja": "どちらか安い方" },
+      { "en": "take whichever one", "ja": "どれでも取っていい" }
+    ],
+    "related": [
+      { "en": "whatever", "ja": "何でも" },
+      { "en": "whoever", "ja": "だれでも" },
+      { "en": "wherever", "ja": "どこでも" },
+      { "en": "which", "ja": "どちら・どれ" }
+    ],
+    "faq": [
+      { "q": "whichever と whatever の違いは？", "a": "whichever は『(限られた選択肢の中から)どちらでも・どれでも』、whatever は『(制限なく)何でも』です。選ぶ範囲が決まっているかどうかが違います。" },
+      { "q": "whichever comes first とは？", "a": "『どちらか早い方』という意味です。契約書などで『5年またはA、いずれか早い方』のように条件を示すときに使われます。" }
+    ],
+    "quiz": [
+      { "q": "whichever の意味は？", "A": "どちらでも・どれでも(〜する方)", "B": "決して〜ない", "C": "いつも", "D": "たぶん", "correct": "A" },
+      { "q": "『何でも(制限なし)』を表す語は？", "A": "whatever", "B": "whichever", "C": "whoever", "D": "however", "correct": "A" }
+    ]
+  },
+  {
+    "english": "whilst",
+    "pron": "waɪlst",
+    "kana": "ワイルスト",
+    "hinshi": "接続詞",
+    "ld_pos": "接続詞",
+    "ld_etym": "while(〜の間)+-st",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "接続詞(英)"],
+    "meaning_main": "〜する間に／〜する一方で（whileのイギリス的な形）",
+    "description": "whilst（ワイルスト）は「〜する間に・〜する一方で」を表す接続詞。while とほぼ同じ意味で、主にイギリス英語で使われるやや格式ばった形です。意味・使い方を解説します。",
+    "keywords": ["whilst 意味", "while 違い", "〜する間に 英語", "whilst 使い方"],
+    "meanings": [
+      { "hinshi": "【接続詞】〜する間に", "note": "ある動作が続く間に。while とほぼ同義" },
+      { "hinshi": "【接続詞】〜する一方で・〜だけれども", "note": "対比・譲歩を表す" }
+    ],
+    "usages": [
+      { "title": "① 〜する間に", "desc": "同時であることを表す", "example_en": "Whilst I agree, I have some concerns.", "example_ja": "私は賛成する一方で、いくつか懸念がある。" },
+      { "title": "② 対比・譲歩", "desc": "〜だけれどもを表す", "example_en": "Whilst it is expensive, it is worth it.", "example_ja": "それは高価だが、その価値はある。" }
+    ],
+    "warn": ["while とほぼ同じ意味。whilst は主にイギリス英語で、やや格式ばった響き", "アメリカ英語では while が一般的で、whilst はまれ"],
+    "etym_note": "while（〜の間、古英語 hwīl「時間」）に、古い副詞語尾 -st が付いた形。意味は while と同じ。",
+    "etym_chain": [
+      { "node": "hwīl", "sub": "時間", "era": "古英語" },
+      { "node": "while", "sub": "〜の間", "era": "中英語" },
+      { "node": "whilst", "sub": "〜する間に", "era": "中英語(英)" }
+    ],
+    "phrases": [
+      { "en": "whilst waiting", "ja": "待っている間に" },
+      { "en": "whilst I agree", "ja": "賛成する一方で" },
+      { "en": "whilst in London", "ja": "ロンドンにいる間に" },
+      { "en": "whilst it is true", "ja": "それは本当だが" },
+      { "en": "whilst others rest", "ja": "他の人が休む一方で" },
+      { "en": "whilst studying", "ja": "勉強している間に" }
+    ],
+    "related": [
+      { "en": "while", "ja": "〜の間・〜する一方で" },
+      { "en": "during", "ja": "〜の間(前置詞)" },
+      { "en": "as", "ja": "〜しながら・〜なので" },
+      { "en": "although", "ja": "〜だけれども" }
+    ],
+    "faq": [
+      { "q": "whilst と while の違いは？", "a": "意味はほぼ同じ『〜する間に・〜する一方で』です。whilst は主にイギリス英語で使われるやや格式ばった形、while は世界共通で一般的です。" },
+      { "q": "アメリカでも使う？", "a": "アメリカ英語では while が普通で、whilst はまれです。硬い・古風な響きに感じられます。" }
+    ],
+    "quiz": [
+      { "q": "whilst の意味は？", "A": "〜する間に・〜する一方で", "B": "〜の後で", "C": "〜の前で", "D": "〜の代わりに", "correct": "A" },
+      { "q": "whilst とほぼ同じ意味の語は？", "A": "while", "B": "whether", "C": "which", "D": "whose", "correct": "A" }
+    ]
+  },
+  {
+    "english": "whinny",
+    "pron": "ˈwɪni",
+    "kana": "ウィニー",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "擬音語（馬の鳴き声）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "動物・擬音語"],
+    "meaning_main": "(馬が)いななく／馬のいななき（やさしい鳴き声）",
+    "description": "whinny（ウィニー）は「(馬が)やさしく低くいななく」を表す語。馬の鳴き声をまねた擬音語で、動詞にも名詞にもなります。意味・使い方をやさしく解説します。",
+    "keywords": ["whinny 意味", "馬 いななく 英語", "馬の鳴き声 英語", "neigh 違い"],
+    "meanings": [
+      { "hinshi": "【動詞】(馬が)いななく", "note": "馬がやさしく低い声で鳴く" },
+      { "hinshi": "【名詞】馬のいななき", "note": "そのやさしい鳴き声" }
+    ],
+    "usages": [
+      { "title": "① 馬が鳴く", "desc": "いななきを表す", "example_en": "The horse whinnied softly.", "example_ja": "馬はやさしくいなないた。" },
+      { "title": "② 鳴き声(名詞)", "desc": "いななきを表す", "example_en": "We heard the whinny of a horse.", "example_ja": "私たちは馬のいななきを聞いた。" }
+    ],
+    "warn": ["馬の鳴き声をまねた擬音語。大きく高い鳴き声は neigh（いななき）", "whinny はより低くやさしい鳴き声を指すことが多い"],
+    "etym_note": "馬のやさしい鳴き声をまねた擬音語（onomatopoeia）。音の印象から動詞・名詞として定着した。",
+    "etym_chain": [
+      { "node": "whinny", "sub": "馬の鳴き声(擬音)", "era": "16世紀英語" },
+      { "node": "whinny", "sub": "いななく", "era": "近代英語" },
+      { "node": "whinny", "sub": "いななく・いななき", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the horse whinnied", "ja": "馬がいなないた" },
+      { "en": "a soft whinny", "ja": "やさしいいななき" },
+      { "en": "whinny in greeting", "ja": "あいさつにいななく" },
+      { "en": "a low whinny", "ja": "低いいななき" },
+      { "en": "give a whinny", "ja": "いななく" },
+      { "en": "the whinny of a pony", "ja": "ポニーのいななき" }
+    ],
+    "related": [
+      { "en": "neigh", "ja": "いななく(大きい鳴き声)" },
+      { "en": "horse", "ja": "馬" },
+      { "en": "snort", "ja": "鼻を鳴らす" },
+      { "en": "bray", "ja": "(ロバが)鳴く" }
+    ],
+    "faq": [
+      { "q": "whinny と neigh の違いは？", "a": "どちらも馬の鳴き声（いななき）ですが、neigh は大きく高い鳴き声、whinny はより低くやさしい鳴き声を指すことが多いです。" },
+      { "q": "他の動物の鳴き声は？", "a": "ロバは bray（ブレイ）、牛は moo（モー）、羊は bleat（ベー）と鳴きます。それぞれ擬音語です。" }
+    ],
+    "quiz": [
+      { "q": "whinny の意味は？", "A": "(馬が)やさしくいななく", "B": "(犬が)ほえる", "C": "(猫が)鳴く", "D": "(鳥が)さえずる", "correct": "A" },
+      { "q": "whinny と同じく馬の鳴き声を表す語は？", "A": "neigh", "B": "bark", "C": "meow", "D": "quack", "correct": "A" }
+    ]
+  }
+]
