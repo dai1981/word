@@ -42,15 +42,40 @@ Googlebot は JSON-LD 内の「引用符で囲まれた `/` 始まりの文字�
 
 `related` に挙げた語のページがまだ無くても、リンクは張られます（`<a>` のまま）。
 これは意図的です。データ元が Git・VSCode・ローカルの XAMPP と複数あり、
-リポジトリの `word/word/` が本番の全ファイル（約14,700）を持っているとは限らないため、
+リポジトリの `word/word/` が本番の全ファイルを持っていないため、
 生成時の自動チェックは誤判定を起こします。
 
 不足分は定期的に棚卸しして埋めます。手順は「不足リストの棚卸し」を参照。
 
 ---
 
+## リポジトリとローカルの役割分担（重要）
+
+| 場所 | 内容 |
+|---|---|
+| **Git（このリポジトリ）** | `generate.py` で新規生成した分の `data/*.json` と `word/word/*.html` |
+| **ローカル `C:\xampp\htdocs\word\word`** | 本番と同じ全ファイル（約17,000）。旧HTMLもここにある |
+| **本番（ロリポップ）** | 全ファイル |
+
+**Git は「新規生成分の管理台帳」**であり、本番の完全なコピーではありません。
+したがって次の点に注意してください。
+
+- `python3 generate.py`（引数なし）が出力するのは `data/*.json` にある語だけです。
+  ローカルの `word/word/` とは別物なので、混同しないこと
+- 不足リストの棚卸しは**ローカル**で行います（Git 側では正しい結果が出ません）
+- デプロイはバッチ単位なので、Git に全ファイルが無くても問題ありません
+
+### スラングページは対象外
+
+`slang-*.html` は別テンプレート（安全度メーター、会話形式、フォーマル度別の
+言い換えなど）で、別途管理されています。`generate.py` では生成できません。
+**不足リストからも除外済みです。** もし `slang-` で始まる語が現れたら飛ばしてください。
+
+---
+
 ## 使い方（Claude への指示例）
 
+> 「不足リストの続きから20語作って、コミットして」
 > 「不足リストの上から30語作って、コミットして」
 > 「s- の次の15語を作って、コミットして」
 
@@ -70,10 +95,10 @@ Googlebot は JSON-LD 内の「引用符で囲まれた `/` 始まりの文字�
 
 ```
 word	links	searches	score
-dismay	0	14	70
-industry	3	12	63
-tend	6	10	56
-twist	33	0	33
+border	17	0	17
+plateau	15	0	15
+sentimental	14	0	14
+comprehensive	13	0	13
 ```
 
 | 列 | 意味 |
@@ -89,13 +114,22 @@ twist	33	0	33
 2. 既存の `data/*.json` と `word/word/*.html` に無い語だけを対象にする
 3. `data/missing-batch{N}.json` を作成（N は連番）
 4. `python3 generate.py` を実行し、main へ直接コミット
-   - 例: `Add missing-batch1 (30 words: dismay...twist)`
+   - 例: `Add missing-batch2 (20 words: border...tight)`
 5. TSV からは削除しない（進捗は `data/*.json` で判断する）
+
+### 現在の状況（2026年8月）
+
+- 全2,801語（スラング除外済み）
+- うち被リンク2本以上が511語 → ここまでで切れているリンクの37%が塞がる
+- 残り2,290語は被リンク1本のみ（ある1ページの関連語に1回出ただけ）
+
+被リンク2本以上を作り終えた時点で、一度 Search Console のインデックス率を
+確認してから残りに進む方針です。
 
 ### 単語ではないがその意味を調べて追加してほしい語
 
-`searches` 列がある語はユーザーの検索ログ由来なので、**英単語として成立しないものが
-混ざっています。
+`searches` 列が 1 以上の語はユーザーの検索ログ由来なので、
+**英単語として成立しないものが混ざっています。**
 
 - サービス名・サイト名（`yahoo`, `poki`, `youtube`, `geforcenow` など）
 - 試験名・略語（`teap` など）
@@ -103,21 +137,22 @@ twist	33	0	33
   `jamany`（Germany）, `sophisti`, `millitally` など）
 - 一般的な英単語として辞書に載らないもの
 
-出来る限りユーザーに分かりやすいようにその後の説明を入れて下さい。関連など分からないものは飛ばしてOKです。
+できる限りユーザーに分かりやすいように、それが何なのかの説明を入れてください。
+関連などが分からないものは飛ばしてOKです。
 
 ---
 
 ## 不足リストの棚卸し
 
 新しく作ったページの `related` から、また新しい未生成語が生まれます。
-月に一度など定期的に、ローカル（`C:\xampp\htdocs`）の PowerShell で
+月に一度など定期的に、**ローカル**（`C:\xampp\htdocs`）の PowerShell で
 リストを作り直し、`data/_missing_words.tsv` に上書きコミットしてください。
 
 ```powershell
-$root='C:\xampp\htdocs\word\word'; $e=[Collections.Generic.HashSet[string]]::new([StringComparer]::OrdinalIgnoreCase); foreach($f in [IO.Directory]::GetFiles($root,'*.html')){[void]$e.Add([IO.Path]::GetFileNameWithoutExtension($f))}; $rx=[regex]::new('href="/word/word/([^"]+)\.html"','Compiled'); $d=@{}; foreach($f in [IO.Directory]::GetFiles($root,'*.html')){foreach($m in $rx.Matches([IO.File]::ReadAllText($f,[Text.Encoding]::UTF8))){$s=[uri]::UnescapeDataString($m.Groups[1].Value); if($s -match '\s'){continue}; $l=$s.ToLower(); if(-not $e.Contains($l)){$d[$l]=[int]$d[$l]+1}}}; $out=[Environment]::GetFolderPath('Desktop')+'\_missing_links.tsv'; "word`tlinks"|Set-Content -Encoding UTF8 $out; $d.GetEnumerator()|Sort @{e={$_.Value};Descending=$true},@{e={$_.Key}}|%{"{0}`t{1}" -f $_.Key,$_.Value}|Add-Content -Encoding UTF8 $out; "不足 $($d.Count) 語 -> $out"
+$root='C:\xampp\htdocs\word\word'; $e=[Collections.Generic.HashSet[string]]::new([StringComparer]::OrdinalIgnoreCase); foreach($f in [IO.Directory]::GetFiles($root,'*.html')){[void]$e.Add([IO.Path]::GetFileNameWithoutExtension($f))}; $rx=[regex]::new('href="/word/word/([^"]+)\.html"','Compiled'); $d=@{}; foreach($f in [IO.Directory]::GetFiles($root,'*.html')){foreach($m in $rx.Matches([IO.File]::ReadAllText($f,[Text.Encoding]::UTF8))){$s=[uri]::UnescapeDataString($m.Groups[1].Value); if($s -match '\s'){continue}; $l=$s.ToLower(); if($l -like 'slang-*'){continue}; if(-not $e.Contains($l)){$d[$l]=[int]$d[$l]+1}}}; $out=[Environment]::GetFolderPath('Desktop')+'\_missing_links.tsv'; "word`tlinks"|Set-Content -Encoding UTF8 $out; $d.GetEnumerator()|Sort @{e={$_.Value};Descending=$true},@{e={$_.Key}}|%{"{0}`t{1}" -f $_.Key,$_.Value}|Add-Content -Encoding UTF8 $out; "不足 $($d.Count) 語 -> $out"
 ```
 
-検索ログ（`missing_words.log`）も合わせて集計する場合は、`word` をキーに
+検索ログ（`missing_words.log`）も合わせる場合は、`word` をキーに
 `links` と `searches` を突き合わせ、`score = links + searches × 5` で並べ直します。
 
 ---
@@ -130,6 +165,13 @@ python3 generate.py
 
 `data/` 内のすべての `*.json`（単語データの配列）を読み、`/word/word/{単語}.html` を出力します。
 外部依存なし（標準ライブラリのみ）。
+
+バッチを指定して生成することもできます（デプロイで使用）。
+
+```bash
+python3 generate.py --batch missing-batch2            # そのバッチだけ生成
+python3 generate.py --batch missing-batch2 --out _deploy   # 出力先を変える
+```
 
 ## データのスキーマ（1単語 = 1オブジェクト）
 
@@ -184,25 +226,39 @@ etym_chain 2〜3段（最後が現代英語）。
 ## コミット方針（重要）
 
 - **main ブランチに直接コミットしてください。**（PR・ブランチ作成は不要）
+  - Claude Code のセッションで作業ブランチが指定されている場合はそちらへコミットし、
+    あとで GitHub 上で PR をマージしてください
 - 1バッチごとに、生成した `/word/word/*.html` と追加した `data/*.json` をまとめて1コミットにする
-- コミットメッセージ例: `Add missing-batch2 (30 words: among...twist)`
+- コミットメッセージ例: `Add missing-batch2 (20 words: border...tight)`
 
-## デプロイ（手動）
+## デプロイ（手動・バッチ単位）
 
-**コミットしてもサーバーには送られません。** `.github/workflows/deploy.yml` から
-`push:` トリガーを外してあるためです（意図しないタイミングで同期が走るのを防ぐ目的）。
+**コミットしてもサーバーには送られません。**
 
-本番へ反映したいときは、GitHub の Actions タブ →
-「Deploy to Lolipop (s-)」→「Run workflow」を手動で押してください。
-何バッチか溜めてからまとめて1回流す運用で構いません。
+GitHub の Actions タブ →「Deploy to Lolipop」→「Run workflow」で、
+`batch` 欄に送りたいバッチ名（例: `missing-batch2`）を入力して実行します。
+複数まとめるならカンマ区切り（`missing-batch2,missing-batch3`）。
+
+指定したバッチのページだけが `_deploy/` に生成されて転送されるため、
+**過去バッチには一切触れません。** 削除も構造的に起こりません。
+詳細は `DEPLOY.md` を参照。
 
 ## 投入ペースについて
 
-本番には既に約14,700ページあります。短期間に数千ページを一括追加すると、
+本番には既に約17,000ページあります。短期間に数千ページを一括追加すると、
 Google の「大規模生成されたコンテンツの不正使用」ポリシーの検知対象になり得ます。
 判定基準は生成手段ではなく**独自の価値があるか**なので、テンプレートの水準を保つことが前提ですが、
-**1バッチ30〜100語、score の高い順**で段階的に投入し、
+**1バッチ15〜30語、score の高い順**で段階的に投入し、
 Search Console のインデックス率を確認しながら進めてください。
+
+## 今後の予定
+
+- 不足リスト2,801語の消化（被リンク2本以上の511語をまず優先）
+- 旧HTML（Homepage Builder 製、`name="GENERATOR"` を含む）2,381語の作り直し。
+  中身をJSで描画する作りのため検索エンジンから中身が見えていない。
+  ただし `babycarriage` `bro._Bro.` のような整理対象も含まれるため要精査
+- 動詞の活用形（-s / -ed / -ing / 過去分詞）と形容詞比較級のページ化。
+  約3,000ページ規模。原形ページに canonical を向ける設計で重複を回避する
 
 ## 注意
 
