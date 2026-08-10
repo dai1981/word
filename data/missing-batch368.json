@@ -1,0 +1,979 @@
+[
+  {
+    "english": "bioluminescence",
+    "pron": "ˌbaɪoʊˌluːmɪˈnesns",
+    "kana": "バイオルミネッセンス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "bio-（生物）+ luminescence（発光）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "不可算名詞・生物用語"],
+    "meaning_main": "生物発光（生き物が光を出すこと）",
+    "description": "bioluminescence（バイオルミネッセンス）の意味・発音・使い方。「生物発光」を表す名詞。ホタルや深海生物などが自ら光を出す現象。例文・語源・クイズで学べます。",
+    "keywords": ["bioluminescence 意味", "bioluminescence 発音", "bioluminescence 使い方", "生物発光 英語", "ホタル 光"],
+    "meanings": [
+      { "hinshi": "【名詞】生物発光", "note": "生き物が体内の化学反応で自ら光を出す現象。ホタル、深海生物、発光クラゲなど。ふつう不可算。" }
+    ],
+    "usages": [
+      { "title": "① 光る生き物", "desc": "発光を述べる。", "example_en": "Fireflies produce light through bioluminescence.", "example_ja": "ホタルは生物発光によって光を出す。" },
+      { "title": "② 深海の発光", "desc": "海の生物を述べる。", "example_en": "Many deep-sea creatures use bioluminescence.", "example_ja": "多くの深海生物は生物発光を利用する。" }
+    ],
+    "warn": ["形容詞は bioluminescent（生物発光する）。bio-（生物）+ luminescence（発光）", "熱を出さない冷たい光（cold light）であることが特徴"],
+    "etym_note": "「生物」を表す bio- と、ラテン語 lumen（光）に由来する luminescence（発光）が合わさった語。",
+    "etym_chain": [
+      { "node": "bio + lumen", "sub": "生物＋光", "era": "ギリシャ語・ラテン語" },
+      { "node": "luminescence", "sub": "発光", "era": "近代英語" },
+      { "node": "bioluminescence", "sub": "生物発光", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "produce bioluminescence", "ja": "生物発光する" },
+      { "en": "natural bioluminescence", "ja": "自然の生物発光" },
+      { "en": "bioluminescence in the ocean", "ja": "海の生物発光" },
+      { "en": "the glow of bioluminescence", "ja": "生物発光の輝き" },
+      { "en": "study bioluminescence", "ja": "生物発光を研究する" },
+      { "en": "bioluminescent organisms", "ja": "生物発光する生き物" }
+    ],
+    "related": [
+      { "en": "bioluminescent", "ja": "生物発光する" },
+      { "en": "luminescence", "ja": "発光" },
+      { "en": "firefly", "ja": "ホタル" },
+      { "en": "glow", "ja": "輝き、光る" }
+    ],
+    "faq": [
+      { "q": "bioluminescence とは？", "a": "生き物が体内の化学反応によって、自ら光を出す現象です。ホタル、発光クラゲ、多くの深海生物などに見られます。熱をほとんど出さない「冷たい光」なのが特徴です。" },
+      { "q": "形容詞は？", "a": "bioluminescent（生物発光する）です。bioluminescent plankton（発光プランクトン）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "bioluminescence の意味は？", "A": "生物発光（生き物が光を出すこと）", "B": "光合成", "C": "呼吸", "D": "消化", "correct": "A" },
+      { "q": "bioluminescence が見られる生き物は？", "A": "ホタル", "B": "ゾウ", "C": "ライオン", "D": "ワシ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "biometric",
+    "pron": "ˌbaɪoʊˈmetrɪk",
+    "kana": "バイオメトリック",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "bio-（生物）+ metric（測定の）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "IT・セキュリティ用語"],
+    "meaning_main": "生体認証の／身体的特徴による",
+    "description": "biometric（バイオメトリック）の意味・発音・使い方。「生体認証の」を表す形容詞。bio- + metric の語。指紋や顔などの身体的特徴で本人確認すること。例文・語源・クイズで学べます。",
+    "keywords": ["biometric 意味", "biometric 発音", "biometric 使い方", "生体認証 英語", "指紋認証 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】生体認証の・身体的特徴による", "note": "指紋・顔・虹彩など、体の特徴を使って本人確認すること。biometric data（生体情報）。" }
+    ],
+    "usages": [
+      { "title": "① 本人確認", "desc": "生体認証を述べる。", "example_en": "The phone uses biometric authentication.", "example_ja": "その電話は生体認証を使う。" },
+      { "title": "② 生体情報", "desc": "身体データを述べる。", "example_en": "Biometric data must be protected.", "example_ja": "生体情報は保護されなければならない。" }
+    ],
+    "warn": ["名詞は biometrics（生体認証、生体測定）。bio-（生物）+ metric（測定の）", "指紋（fingerprint）、顔（face）、虹彩（iris）などが生体認証に使われる"],
+    "etym_note": "「生物」を表す bio- と、ギリシャ語 metron（尺度）に由来する metric（測定の）が合わさった語。",
+    "etym_chain": [
+      { "node": "bio + metron", "sub": "生物＋尺度", "era": "ギリシャ語" },
+      { "node": "biometrics", "sub": "生体測定", "era": "近代英語" },
+      { "node": "biometric", "sub": "生体認証の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "biometric authentication", "ja": "生体認証" },
+      { "en": "biometric data", "ja": "生体情報" },
+      { "en": "biometric scanner", "ja": "生体認証の読み取り機" },
+      { "en": "a biometric passport", "ja": "生体認証パスポート" },
+      { "en": "biometric security", "ja": "生体認証によるセキュリティ" },
+      { "en": "fingerprint biometric", "ja": "指紋による生体認証" }
+    ],
+    "related": [
+      { "en": "biometrics", "ja": "生体認証" },
+      { "en": "fingerprint", "ja": "指紋" },
+      { "en": "authentication", "ja": "認証" },
+      { "en": "security", "ja": "セキュリティ" }
+    ],
+    "faq": [
+      { "q": "biometric とは？", "a": "指紋・顔・虹彩など、体の特徴を使って本人確認をすること（生体認証の）を表す形容詞です。スマホのロック解除やパスポートなどで使われます。" },
+      { "q": "名詞は？", "a": "biometrics（生体認証・生体測定）です。The system uses biometrics.（そのシステムは生体認証を使う）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "biometric の意味は？", "A": "生体認証の・身体的特徴による", "B": "音声だけの", "C": "手書きの", "D": "紙の", "correct": "A" },
+      { "q": "生体認証に使われるものは？", "A": "指紋・顔", "B": "パスワードだけ", "C": "暗証番号だけ", "D": "サインだけ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "biotic",
+    "pron": "baɪˈɒtɪk",
+    "kana": "バイオティック",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ギリシャ語 biotikos（生命の）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "生物学用語"],
+    "meaning_main": "生物の／生物に関する／生命の",
+    "description": "biotic（バイオティック）の意味・発音・使い方。「生物の・生物に関する」を表す形容詞。生態系で、生き物に由来する要素を指す。abiotic（非生物の）の対義語。例文・語源・クイズで学べます。",
+    "keywords": ["biotic 意味", "biotic 発音", "biotic 使い方", "生物の 英語", "abiotic 対義語"],
+    "meanings": [
+      { "hinshi": "【形容詞】生物の・生物に関する", "note": "生態系で、生き物やその活動に由来する。biotic factors（生物的要因）。" }
+    ],
+    "usages": [
+      { "title": "① 生物的要因", "desc": "生き物の要素を述べる。", "example_en": "Biotic factors include plants and animals.", "example_ja": "生物的要因には植物や動物が含まれる。" },
+      { "title": "② 生態系で", "desc": "生き物の影響を述べる。", "example_en": "Biotic and abiotic factors shape ecosystems.", "example_ja": "生物的・非生物的要因が生態系を形づくる。" }
+    ],
+    "warn": ["対義語は abiotic（非生物の＝光・水・温度など）。a-（〜でない）が付く", "antibiotic（抗生物質）、symbiotic（共生の）と同じ bio 系の語"],
+    "etym_note": "ギリシャ語 biotikos（bios=生命 に由来する「生命の」）に由来する語。",
+    "etym_chain": [
+      { "node": "bios", "sub": "生命(ギリシャ語)", "era": "ギリシャ語" },
+      { "node": "biotikos", "sub": "生命の", "era": "ギリシャ語" },
+      { "node": "biotic", "sub": "生物の", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "biotic factors", "ja": "生物的要因" },
+      { "en": "biotic and abiotic", "ja": "生物的・非生物的" },
+      { "en": "biotic components", "ja": "生物的な構成要素" },
+      { "en": "the biotic environment", "ja": "生物的環境" },
+      { "en": "biotic interactions", "ja": "生物間の相互作用" },
+      { "en": "biotic diversity", "ja": "生物多様性" }
+    ],
+    "related": [
+      { "en": "abiotic", "ja": "非生物の" },
+      { "en": "biology", "ja": "生物学" },
+      { "en": "organism", "ja": "生物、有機体" },
+      { "en": "ecosystem", "ja": "生態系" }
+    ],
+    "faq": [
+      { "q": "biotic と abiotic の違いは？", "a": "biotic は「生物の（生き物に由来する）」、abiotic は「非生物の（光・水・温度・土などの無生物）」です。生態系はこの両方の要因からできています。" },
+      { "q": "どんな場面で使う？", "a": "主に生物学・生態学で、生態系の要因を分類するときに使います。biotic factors（生物的要因）、abiotic factors（非生物的要因）のように対比します。" }
+    ],
+    "quiz": [
+      { "q": "biotic の意味は？", "A": "生物の・生物に関する", "B": "非生物の", "C": "人工の", "D": "化学の", "correct": "A" },
+      { "q": "biotic の対義語は？", "A": "abiotic", "B": "antibiotic", "C": "symbiotic", "D": "aquatic", "correct": "A" }
+    ]
+  },
+  {
+    "english": "bipartisanship",
+    "pron": "baɪˈpɑːrtɪzənʃɪp",
+    "kana": "バイパーティザンシップ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "bi-（二）+ partisan（党派の）+ -ship",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "不可算名詞・政治用語"],
+    "meaning_main": "超党派（二大政党の協力）",
+    "description": "bipartisanship（バイパーティザンシップ）の意味・発音・使い方。「超党派・二大政党の協力」を表す名詞。bi- + partisan の語。対立する政党が協力すること。例文・語源・クイズで学べます。",
+    "keywords": ["bipartisanship 意味", "bipartisanship 発音", "bipartisanship 使い方", "超党派 英語", "政党 協力"],
+    "meanings": [
+      { "hinshi": "【名詞】超党派・二大政党の協力", "note": "対立する二つの政党が協力し合うこと。特にアメリカ政治で使う。ふつう不可算。" }
+    ],
+    "usages": [
+      { "title": "① 政党の協力", "desc": "超党派を述べる。", "example_en": "The bill passed with bipartisanship.", "example_ja": "その法案は超党派の協力で可決された。" },
+      { "title": "② 協調を求める", "desc": "歩み寄りを述べる。", "example_en": "He called for bipartisanship in Congress.", "example_ja": "彼は議会での超党派の協力を呼びかけた。" }
+    ],
+    "warn": ["形容詞は bipartisan（超党派の）。bi-（二）+ partisan（党派の・熱心な支持者）+ -ship", "partisan は「（一方に肩入れする）党派的な」。bipartisan は「二党が協力する」"],
+    "etym_note": "「二」を表す bi- と、「党派の」を表す partisan、状態を表す -ship が結びついた語。",
+    "etym_chain": [
+      { "node": "partisan", "sub": "党派の", "era": "近代英語" },
+      { "node": "bipartisan", "sub": "超党派の", "era": "近代英語" },
+      { "node": "bipartisanship", "sub": "超党派", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "call for bipartisanship", "ja": "超党派の協力を呼びかける" },
+      { "en": "a spirit of bipartisanship", "ja": "超党派の精神" },
+      { "en": "with bipartisanship", "ja": "超党派の協力で" },
+      { "en": "promote bipartisanship", "ja": "超党派の協調を進める" },
+      { "en": "bipartisan support", "ja": "超党派の支持" },
+      { "en": "a lack of bipartisanship", "ja": "超党派協力の欠如" }
+    ],
+    "related": [
+      { "en": "bipartisan", "ja": "超党派の" },
+      { "en": "partisan", "ja": "党派的な、熱烈な支持者" },
+      { "en": "cooperation", "ja": "協力" },
+      { "en": "politics", "ja": "政治" }
+    ],
+    "faq": [
+      { "q": "bipartisanship とは？", "a": "対立する二つの政党が、意見の違いを越えて協力し合うことです。特にアメリカの二大政党（民主党・共和党）の協調について使われます。" },
+      { "q": "partisan との違いは？", "a": "partisan は「（一方の党に）肩入れする・党派的な」、bipartisan は「二つの党が協力する（超党派の）」です。bi-（二）が付くことで意味が変わります。" }
+    ],
+    "quiz": [
+      { "q": "bipartisanship の意味は？", "A": "超党派・二大政党の協力", "B": "一党独裁", "C": "無政府状態", "D": "選挙運動", "correct": "A" },
+      { "q": "bipartisanship の形容詞形は？", "A": "bipartisan", "B": "bipartisanal", "C": "bipartisanic", "D": "bipartisanous", "correct": "A" }
+    ]
+  },
+  {
+    "english": "birder",
+    "pron": "ˈbɜːrdər",
+    "kana": "バーダー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "bird（鳥）+ -er（〜する人）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "可算名詞"],
+    "meaning_main": "野鳥観察者／バードウォッチャー",
+    "description": "birder（バーダー）の意味・発音・使い方。「野鳥観察者・バードウォッチャー」を表す名詞。bird に -er がついた語。趣味で野鳥を観察する人。例文・語源・クイズで学べます。",
+    "keywords": ["birder 意味", "birder 発音", "birder 使い方", "野鳥観察 英語", "バードウォッチャー 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】野鳥観察者・バードウォッチャー", "note": "趣味として野鳥を観察・記録する人。可算名詞。a keen birder（熱心な野鳥観察者）。" }
+    ],
+    "usages": [
+      { "title": "① 野鳥観察の趣味", "desc": "観察者を述べる。", "example_en": "Birders gathered to spot rare species.", "example_ja": "野鳥観察者たちが珍しい種を見ようと集まった。" },
+      { "title": "② 熱心な愛好家", "desc": "愛好家を述べる。", "example_en": "She's a keen birder.", "example_ja": "彼女は熱心なバードウォッチャーだ。" }
+    ],
+    "warn": ["birdwatcher（バードウォッチャー）とほぼ同義。birder はやや熱心な愛好家を指すことも", "野鳥観察は birding / birdwatching"],
+    "etym_note": "「鳥」を意味する bird に、「〜する人」を表す接尾辞 -er が付いた語。",
+    "etym_chain": [
+      { "node": "bird", "sub": "鳥", "era": "古英語" },
+      { "node": "birder", "sub": "野鳥観察者", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a keen birder", "ja": "熱心な野鳥観察者" },
+      { "en": "an avid birder", "ja": "熱狂的なバードウォッチャー" },
+      { "en": "birders and birdwatchers", "ja": "野鳥観察者たち" },
+      { "en": "a group of birders", "ja": "野鳥観察者の一団" },
+      { "en": "become a birder", "ja": "野鳥観察を始める" },
+      { "en": "birders' club", "ja": "野鳥観察の会" }
+    ],
+    "related": [
+      { "en": "birdwatcher", "ja": "バードウォッチャー" },
+      { "en": "birdwatching", "ja": "野鳥観察" },
+      { "en": "bird", "ja": "鳥" },
+      { "en": "binoculars", "ja": "双眼鏡" }
+    ],
+    "faq": [
+      { "q": "birder と birdwatcher の違いは？", "a": "どちらも「野鳥を観察する人」です。ほぼ同義ですが、birder は種の識別や記録に熱心な愛好家、birdwatcher はより気軽に鳥を眺める人、というニュアンスの違いがあることもあります。" },
+      { "q": "野鳥観察は英語で？", "a": "birding または birdwatching です。どちらも「野鳥を観察すること」を指します。" }
+    ],
+    "quiz": [
+      { "q": "birder の意味は？", "A": "野鳥観察者・バードウォッチャー", "B": "鳥の飼育員", "C": "鳥料理の料理人", "D": "鳥の彫刻家", "correct": "A" },
+      { "q": "birder のもとになった語は？", "A": "bird（鳥）", "B": "board（板）", "C": "beard（あごひげ）", "D": "bread（パン）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "birdwatching",
+    "pron": "ˈbɜːrdwɒtʃɪŋ",
+    "kana": "バードウォッチング",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "bird（鳥）+ watching（観察）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "不可算名詞"],
+    "meaning_main": "野鳥観察／バードウォッチング",
+    "description": "birdwatching（バードウォッチング）の意味・発音・使い方。「野鳥観察」を表す名詞。bird と watching の合成語。自然の中で野鳥を観察する趣味。例文・語源・クイズで学べます。",
+    "keywords": ["birdwatching 意味", "birdwatching 発音", "birdwatching 使い方", "野鳥観察 英語", "バードウォッチング 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】野鳥観察・バードウォッチング", "note": "自然の中で野鳥を観察して楽しむ趣味。ふつう不可算。go birdwatching（野鳥観察に行く）。" }
+    ],
+    "usages": [
+      { "title": "① 趣味として", "desc": "観察を述べる。", "example_en": "We went birdwatching in the forest.", "example_ja": "私たちは森へ野鳥観察に行った。" },
+      { "title": "② 道具を使う", "desc": "観察の様子を述べる。", "example_en": "Birdwatching often requires binoculars.", "example_ja": "野鳥観察にはよく双眼鏡が必要だ。" }
+    ],
+    "warn": ["go birdwatching（野鳥観察に行く）の形で使う。birding とも言う", "野鳥観察者は birdwatcher / birder"],
+    "etym_note": "「鳥」を意味する bird と、「観察すること」を意味する watching（watch の動名詞）が合わさった語。",
+    "etym_chain": [
+      { "node": "bird + watching", "sub": "鳥＋観察", "era": "近代英語" },
+      { "node": "birdwatching", "sub": "野鳥観察", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "go birdwatching", "ja": "野鳥観察に行く" },
+      { "en": "enjoy birdwatching", "ja": "野鳥観察を楽しむ" },
+      { "en": "birdwatching in the park", "ja": "公園での野鳥観察" },
+      { "en": "a birdwatching trip", "ja": "野鳥観察の遠出" },
+      { "en": "take up birdwatching", "ja": "野鳥観察を始める" },
+      { "en": "birdwatching binoculars", "ja": "野鳥観察用の双眼鏡" }
+    ],
+    "related": [
+      { "en": "birder", "ja": "野鳥観察者" },
+      { "en": "birdwatcher", "ja": "バードウォッチャー" },
+      { "en": "birding", "ja": "野鳥観察" },
+      { "en": "nature", "ja": "自然" }
+    ],
+    "faq": [
+      { "q": "birdwatching とは？", "a": "自然の中で野鳥を観察して楽しむ趣味です。双眼鏡や図鑑を使って、鳥の種類や様子を観察します。go birdwatching（野鳥観察に行く）のように使います。" },
+      { "q": "birding との違いは？", "a": "ほぼ同じ意味です。birding は主にアメリカで使われ、種の識別に熱心なニュアンスがあることもありますが、日常的にはどちらも「野鳥観察」を指します。" }
+    ],
+    "quiz": [
+      { "q": "birdwatching の意味は？", "A": "野鳥観察", "B": "鳥の飼育", "C": "狩り", "D": "釣り", "correct": "A" },
+      { "q": "「野鳥観察に行く」は？", "A": "go birdwatching", "B": "go to birdwatching", "C": "go birdwatch", "D": "go for bird", "correct": "A" }
+    ]
+  },
+  {
+    "english": "birmingham",
+    "pron": "ˈbɜːrmɪŋəm",
+    "kana": "バーミンガム",
+    "hinshi": "名詞(固有)",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語の地名（Beorma の一族の村）",
+    "ld_level": "1級",
+    "badges": ["中学生〜", "固有名詞", "地名", "常に大文字"],
+    "meaning_main": "バーミンガム（イギリス第2の都市、または米国の都市）",
+    "description": "Birmingham（バーミンガム）の意味・読み方。イングランド中部の大都市で、イギリス第2の都市。産業革命の中心地。米国アラバマ州にも同名の都市がある。由来やクイズで学べます。",
+    "keywords": ["Birmingham 意味", "Birmingham 読み方", "バーミンガム 英語", "イギリス 都市", "産業革命"],
+    "meanings": [
+      { "hinshi": "【名詞】バーミンガム", "note": "イングランド中部の大都市で、ロンドンに次ぐイギリス第2の都市。産業革命の中心地。米国アラバマ州にも同名の都市がある。" }
+    ],
+    "usages": [
+      { "title": "① イギリスの都市", "desc": "都市を述べる。", "example_en": "Birmingham is the second largest city in the UK.", "example_ja": "バーミンガムはイギリス第2の都市だ。" },
+      { "title": "② 産業の中心", "desc": "歴史を述べる。", "example_en": "Birmingham grew during the Industrial Revolution.", "example_ja": "バーミンガムは産業革命の間に発展した。" }
+    ],
+    "warn": ["地名なので文の途中でも Birmingham と大文字で書く（見出し語はサイト方針で小文字登録）", "イギリスのバーミンガムと、アメリカ・アラバマ州のバーミンガムは別の都市"],
+    "etym_note": "古英語の地名で、「Beorma（人名）の一族（-ing）の村（-ham）」を意味するとされる。",
+    "etym_chain": [
+      { "node": "Beormingahām", "sub": "ベオルマの一族の村(古英語)", "era": "古英語" },
+      { "node": "Birmingham", "sub": "バーミンガム", "era": "英語" }
+    ],
+    "phrases": [
+      { "en": "the city of Birmingham", "ja": "バーミンガムの街" },
+      { "en": "Birmingham, England", "ja": "イングランドのバーミンガム" },
+      { "en": "central Birmingham", "ja": "バーミンガム中心部" },
+      { "en": "the University of Birmingham", "ja": "バーミンガム大学" },
+      { "en": "industrial Birmingham", "ja": "工業都市バーミンガム" },
+      { "en": "Birmingham, Alabama", "ja": "アラバマ州バーミンガム" }
+    ],
+    "related": [
+      { "en": "england", "ja": "イングランド" },
+      { "en": "london", "ja": "ロンドン" },
+      { "en": "city", "ja": "都市" },
+      { "en": "industry", "ja": "産業" }
+    ],
+    "faq": [
+      { "q": "Birmingham とは？", "a": "イングランド中部の大都市で、ロンドンに次ぐイギリス第2の都市です。産業革命の中心地として発展し、多くの工場や運河がありました。" },
+      { "q": "アメリカにもある？", "a": "はい。アメリカ・アラバマ州にも Birmingham という都市があります。イギリスのバーミンガムにちなんで名づけられました。" }
+    ],
+    "quiz": [
+      { "q": "Birmingham はイギリス第何の都市？", "A": "第2の都市", "B": "第1の都市（首都）", "C": "第5の都市", "D": "第10の都市", "correct": "A" },
+      { "q": "Birmingham が発展したのは？", "A": "産業革命の時代", "B": "石器時代", "C": "古代ローマ時代", "D": "宇宙時代", "correct": "A" }
+    ]
+  },
+  {
+    "english": "bits",
+    "pron": "bɪts",
+    "kana": "ビッツ",
+    "hinshi": "名詞(複数)",
+    "ld_pos": "名詞",
+    "ld_etym": "bit（小片／情報の最小単位）の複数形",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "複数形"],
+    "meaning_main": "小片／少し／（情報量の）ビット",
+    "description": "bits（ビッツ）の意味・発用・使い方。「小片・少し・ビット」を表す名詞（bit の複数形）。細かい断片や、情報量の単位に使う。例文・語源・クイズで学べます。",
+    "keywords": ["bits 意味", "bits 発音", "bits 使い方", "小片 英語", "ビット 情報"],
+    "meanings": [
+      { "hinshi": "【名詞】小片・断片", "note": "小さなかけら。bits of paper（紙切れ）。bit の複数形。" },
+      { "hinshi": "【名詞】(情報量の)ビット", "note": "コンピューターの情報量の最小単位。8ビット=1バイト。" }
+    ],
+    "usages": [
+      { "title": "① 細かい断片", "desc": "小片を述べる。", "example_en": "The vase broke into bits.", "example_ja": "その花びんは粉々に砕けた。" },
+      { "title": "② 情報の単位", "desc": "ビットを述べる。", "example_en": "The file is measured in bits and bytes.", "example_ja": "そのファイルはビットとバイトで測られる。" }
+    ],
+    "warn": ["bits and pieces は「こまごましたもの・がらくた」の慣用句", "a bit（少し）の複数。情報の bit（ビット）は binary digit（2進数の桁）の略"],
+    "etym_note": "古英語 bita（かみ取ったもの・小片）に由来する bit の複数形。情報の bit は binary digit の略。",
+    "etym_chain": [
+      { "node": "bita", "sub": "小片(古英語)", "era": "古英語" },
+      { "node": "bit", "sub": "小片、少し", "era": "中英語" },
+      { "node": "bits", "sub": "小片（複数）、ビット", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "bits of paper", "ja": "紙切れ" },
+      { "en": "break into bits", "ja": "粉々になる" },
+      { "en": "bits and pieces", "ja": "こまごましたもの" },
+      { "en": "bits and bytes", "ja": "ビットとバイト" },
+      { "en": "tiny bits", "ja": "ごく小さな断片" },
+      { "en": "pick up the bits", "ja": "かけらを拾う" }
+    ],
+    "related": [
+      { "en": "bit", "ja": "小片、少し、ビット" },
+      { "en": "pieces", "ja": "かけら、断片" },
+      { "en": "byte", "ja": "バイト" },
+      { "en": "fragments", "ja": "破片" }
+    ],
+    "faq": [
+      { "q": "bits and pieces とは？", "a": "「こまごまとしたもの・雑多な小物」という意味の慣用句です。いろいろな小さな物や用事をまとめて指すときに使います。" },
+      { "q": "情報の bit とは？", "a": "コンピューターの情報量の最小単位です。0か1のどちらかを表し、8ビットで1バイト（byte）になります。bit は binary digit（2進数の桁）の略です。" }
+    ],
+    "quiz": [
+      { "q": "bits の意味に含まれないのは？", "A": "小片・断片", "B": "情報量のビット", "C": "少し", "D": "巨大な塊", "correct": "D" },
+      { "q": "bits and pieces の意味は？", "A": "こまごましたもの", "B": "大きな機械", "C": "きれいな絵", "D": "長い物語", "correct": "A" }
+    ]
+  },
+  {
+    "english": "bittersweet",
+    "pron": "ˌbɪtərˈswiːt",
+    "kana": "ビタースイート",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "bitter（苦い）+ sweet（甘い）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "複合形容詞"],
+    "meaning_main": "ほろ苦い／うれしさと切なさが入り混じった",
+    "description": "bittersweet（ビタースイート）の意味・発音・使い方。「ほろ苦い・うれしさと切なさが入り混じった」を表す形容詞。bitter と sweet の複合語。例文・語源・クイズで学べます。",
+    "keywords": ["bittersweet 意味", "bittersweet 発音", "bittersweet 使い方", "ほろ苦い 英語", "切ない 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】ほろ苦い（味）", "note": "苦みと甘みが混じった味。bittersweet chocolate（ビターチョコ）。" },
+      { "hinshi": "【形容詞】うれしさと切なさが入り混じった", "note": "喜びと悲しみが同時にある感情。a bittersweet memory（ほろ苦い思い出）。" }
+    ],
+    "usages": [
+      { "title": "① 複雑な気持ち", "desc": "喜びと切なさを述べる。", "example_en": "Graduation was a bittersweet moment.", "example_ja": "卒業はうれしくも切ない瞬間だった。" },
+      { "title": "② ほろ苦い味", "desc": "味を述べる。", "example_en": "This chocolate is bittersweet.", "example_ja": "このチョコはほろ苦い。" }
+    ],
+    "warn": ["bitter（苦い）+ sweet（甘い）の複合語。感情の「うれしくも切ない」の意味が特に頻出", "a bittersweet moment / memory（ほろ苦い瞬間・思い出）はよく使う"],
+    "etym_note": "「苦い」を意味する bitter と、「甘い」を意味する sweet が合わさった複合語。相反する二つの味・感情を表す。",
+    "etym_chain": [
+      { "node": "bitter + sweet", "sub": "苦い＋甘い", "era": "中英語" },
+      { "node": "bittersweet", "sub": "ほろ苦い", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "a bittersweet moment", "ja": "うれしくも切ない瞬間" },
+      { "en": "a bittersweet memory", "ja": "ほろ苦い思い出" },
+      { "en": "bittersweet chocolate", "ja": "ビターチョコ" },
+      { "en": "a bittersweet feeling", "ja": "複雑な気持ち" },
+      { "en": "bittersweet nostalgia", "ja": "ほろ苦い郷愁" },
+      { "en": "a bittersweet ending", "ja": "ほろ苦い結末" }
+    ],
+    "related": [
+      { "en": "bitter", "ja": "苦い" },
+      { "en": "sweet", "ja": "甘い" },
+      { "en": "poignant", "ja": "胸を打つ、切ない" },
+      { "en": "nostalgic", "ja": "郷愁を誘う" }
+    ],
+    "faq": [
+      { "q": "bittersweet の感情の意味は？", "a": "「うれしさと切なさ（悲しさ）が同時にある」という複雑な気持ちを表します。たとえば卒業のように、喜ばしいけれど寂しくもある場面に使います。" },
+      { "q": "味の意味もある？", "a": "はい。「ほろ苦い（苦みと甘みが混じった）」という味も表します。bittersweet chocolate は、甘さ控えめのビターチョコレートです。" }
+    ],
+    "quiz": [
+      { "q": "bittersweet の意味に含まれないのは？", "A": "ほろ苦い", "B": "うれしくも切ない", "C": "苦みと甘みが混じった", "D": "まったく苦みのない", "correct": "D" },
+      { "q": "a bittersweet moment とは？", "A": "うれしくも切ない瞬間", "B": "とても楽しい瞬間", "C": "退屈な瞬間", "D": "危険な瞬間", "correct": "A" }
+    ]
+  },
+  {
+    "english": "bivalve",
+    "pron": "ˈbaɪvælv",
+    "kana": "バイバルブ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "bi-（二）+ valve（貝殻の片）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "可算名詞・生物用語"],
+    "meaning_main": "二枚貝（アサリ・カキ・ハマグリなど）",
+    "description": "bivalve（バイバルブ）の意味・発音・使い方。「二枚貝」を表す名詞。二枚の貝殻を持つ貝の総称。アサリ・カキ・ハマグリなど。例文・語源・クイズで学べます。",
+    "keywords": ["bivalve 意味", "bivalve 発音", "bivalve 使い方", "二枚貝 英語", "貝 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】二枚貝", "note": "ちょうつがいでつながった二枚の貝殻を持つ貝。アサリ・カキ・ハマグリ・ムール貝など。可算名詞。" }
+    ],
+    "usages": [
+      { "title": "① 貝の分類", "desc": "二枚貝を述べる。", "example_en": "Clams and oysters are bivalves.", "example_ja": "アサリやカキは二枚貝だ。" },
+      { "title": "② 特徴を述べる", "desc": "貝殻を述べる。", "example_en": "A bivalve has two shells joined by a hinge.", "example_ja": "二枚貝はちょうつがいでつながった2枚の殻を持つ。" }
+    ],
+    "warn": ["bi-（二）+ valve（貝殻の片）。二枚の殻を持つのが特徴", "巻貝は gastropod（腹足類）。二枚貝は bivalve（斧足類）"],
+    "etym_note": "「二」を表す bi- と、「貝殻の片・弁」を意味する valve（ラテン語 valva=扉 に由来）が合わさった語。",
+    "etym_chain": [
+      { "node": "bi + valva", "sub": "二＋扉(ラテン語)", "era": "ラテン語" },
+      { "node": "bivalve", "sub": "二枚貝", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a bivalve mollusk", "ja": "二枚貝（軟体動物）" },
+      { "en": "bivalves like clams", "ja": "アサリのような二枚貝" },
+      { "en": "the two shells of a bivalve", "ja": "二枚貝の2枚の殻" },
+      { "en": "edible bivalves", "ja": "食用の二枚貝" },
+      { "en": "filter-feeding bivalves", "ja": "ろ過して食べる二枚貝" },
+      { "en": "a bivalve shell", "ja": "二枚貝の殻" }
+    ],
+    "related": [
+      { "en": "mollusk", "ja": "軟体動物" },
+      { "en": "clam", "ja": "ハマグリ、アサリ" },
+      { "en": "oyster", "ja": "カキ" },
+      { "en": "shellfish", "ja": "貝類" }
+    ],
+    "faq": [
+      { "q": "bivalve とは？", "a": "ちょうつがいでつながった二枚の貝殻を持つ貝のことです。アサリ、カキ、ハマグリ、ムール貝などが含まれます。bi-（二）+ valve（貝殻）が語源です。" },
+      { "q": "巻貝との違いは？", "a": "巻貝（gastropod）は一つの巻いた殻を持ち、二枚貝（bivalve）は二枚の殻を持ちます。殻の数と形が違います。" }
+    ],
+    "quiz": [
+      { "q": "bivalve の意味は？", "A": "二枚貝", "B": "巻貝", "C": "タコ", "D": "エビ", "correct": "A" },
+      { "q": "bivalve の例は？", "A": "アサリ・カキ", "B": "サメ", "C": "クジラ", "D": "カメ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "biweekly",
+    "pron": "ˌbaɪˈwiːkli",
+    "kana": "バイウィークリー",
+    "hinshi": "形容詞 / 副詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "bi-（二）+ weekly（毎週の）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "bi- 接頭辞"],
+    "meaning_main": "隔週の（2週間に1回）／週2回の",
+    "description": "biweekly（バイウィークリー）の意味・発音・使い方。「隔週の・週2回の」を表す形容詞・副詞。bi- + weekly の語。二つの意味に取れるので注意。例文・語源・クイズで学べます。",
+    "keywords": ["biweekly 意味", "biweekly 発音", "biweekly 使い方", "隔週 英語", "週2回 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞・副詞】隔週の（2週間に1回）", "note": "2週間ごとに一度。a biweekly meeting（隔週の会議）。" },
+      { "hinshi": "【形容詞・副詞】週2回の", "note": "1週間に2回、の意味でも使われる（文脈で判断）。" }
+    ],
+    "usages": [
+      { "title": "① 隔週で", "desc": "2週に1回を述べる。", "example_en": "We have biweekly meetings.", "example_ja": "私たちは隔週で会議を開く。" },
+      { "title": "② あいまいさに注意", "desc": "二つの意味を述べる。", "example_en": "\"Biweekly\" can mean twice a week or every two weeks.", "example_ja": "「biweekly」は週2回とも隔週とも取れる。" }
+    ],
+    "warn": ["「隔週（2週に1回）」と「週2回」の両方に取れるあいまいな語。誤解を避けるなら every two weeks / twice a week と言う", "同様に bimonthly（隔月／月2回）もあいまい"],
+    "etym_note": "「二」を表す bi- と、「毎週の」を表す weekly が合わさった語。bi- が「2回」とも「2週ごと」とも取れる。",
+    "etym_chain": [
+      { "node": "bi + weekly", "sub": "二＋毎週の", "era": "近代英語" },
+      { "node": "biweekly", "sub": "隔週の", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a biweekly meeting", "ja": "隔週の会議" },
+      { "en": "a biweekly magazine", "ja": "隔週刊誌" },
+      { "en": "paid biweekly", "ja": "隔週で支払われる" },
+      { "en": "biweekly updates", "ja": "隔週の更新" },
+      { "en": "meet biweekly", "ja": "隔週で集まる" },
+      { "en": "a biweekly report", "ja": "隔週の報告" }
+    ],
+    "related": [
+      { "en": "weekly", "ja": "毎週の" },
+      { "en": "bimonthly", "ja": "隔月の、月2回の" },
+      { "en": "fortnightly", "ja": "隔週の（英）" },
+      { "en": "monthly", "ja": "毎月の" }
+    ],
+    "faq": [
+      { "q": "biweekly は隔週？週2回？", "a": "実は両方の意味に取れるあいまいな語です。多くは「隔週（2週間に1回）」の意味で使われますが、「週2回」の意味のこともあります。誤解を避けるには every two weeks（隔週）や twice a week（週2回）と言い換えます。" },
+      { "q": "イギリスでは？", "a": "「隔週の」を fortnightly（2週間ごとの）と言うことが多く、あいまいさがありません。" }
+    ],
+    "quiz": [
+      { "q": "biweekly の主な意味は？", "A": "隔週の（2週間に1回）", "B": "毎日の", "C": "毎月の", "D": "毎年の", "correct": "A" },
+      { "q": "biweekly のあいまいさを避ける言い方は？", "A": "every two weeks", "B": "sometimes", "C": "often", "D": "always", "correct": "A" }
+    ]
+  },
+  {
+    "english": "black-and-white",
+    "pron": "ˌblækənˈwaɪt",
+    "kana": "ブラックアンドホワイト",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "black（黒）+ and + white（白）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "複合形容詞"],
+    "meaning_main": "白黒の（モノクロの）／善悪がはっきりした・単純な",
+    "description": "black-and-white（ブラックアンドホワイト）の意味・発音・使い方。「白黒の（モノクロ）」を表す形容詞。比喩で「善悪がはっきりした・単純化しすぎた」の意味も。例文・クイズで学べます。",
+    "keywords": ["black-and-white 意味", "black-and-white 発音", "black-and-white 使い方", "白黒 英語", "モノクロ 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】白黒の・モノクロの", "note": "色がなく白と黒（濃淡）だけの。a black-and-white photo（白黒写真）。" },
+      { "hinshi": "【形容詞】善悪がはっきりした・単純な", "note": "物事を単純に二分するさま。The issue isn't black-and-white.（そう単純な問題ではない）。" }
+    ],
+    "usages": [
+      { "title": "① モノクロ", "desc": "白黒を述べる。", "example_en": "They watched an old black-and-white movie.", "example_ja": "彼らは古い白黒映画を見た。" },
+      { "title": "② 単純化", "desc": "比喩で述べる。", "example_en": "Life is not always black-and-white.", "example_ja": "人生はいつも白黒はっきりしているわけではない。" }
+    ],
+    "warn": ["名詞の前ではハイフンつき black-and-white、色を並べるときは black and white（ハイフンなし）", "比喩の「善悪がはっきり・単純」は、しばしば否定文で「そう単純ではない」の形で使う"],
+    "etym_note": "「黒」を意味する black と「白」を意味する white が and で結ばれた複合語。色のない映像や、単純な二分法を表す。",
+    "etym_chain": [
+      { "node": "black + white", "sub": "黒＋白", "era": "古英語" },
+      { "node": "black-and-white", "sub": "白黒の", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a black-and-white photo", "ja": "白黒写真" },
+      { "en": "a black-and-white film", "ja": "白黒映画" },
+      { "en": "not black-and-white", "ja": "そう単純ではない" },
+      { "en": "in black and white", "ja": "白黒で、はっきり書面で" },
+      { "en": "a black-and-white issue", "ja": "白黒はっきりした問題" },
+      { "en": "see things in black and white", "ja": "物事を単純に二分して見る" }
+    ],
+    "related": [
+      { "en": "monochrome", "ja": "モノクロの、単色の" },
+      { "en": "color", "ja": "カラー、色" },
+      { "en": "grayscale", "ja": "グレースケール" },
+      { "en": "clear-cut", "ja": "明快な" }
+    ],
+    "faq": [
+      { "q": "black-and-white の比喩的な意味は？", "a": "「善悪や正誤がはっきり分かれた・単純な」という意味です。しばしば「物事はそう単純（black-and-white）ではない」と、複雑さを強調する否定文で使われます。" },
+      { "q": "in black and white とは？", "a": "「白黒（モノクロ）で」のほか、「（あいまいでなく）はっきりと書面で」という意味の慣用句でもあります。It's there in black and white.（ちゃんと書いてある）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "black-and-white の意味に含まれないのは？", "A": "白黒の（モノクロ）", "B": "善悪がはっきりした", "C": "単純な", "D": "極彩色の", "correct": "D" },
+      { "q": "Life is not black-and-white. の意味は？", "A": "人生はそう単純ではない", "B": "人生はモノクロだ", "C": "人生は白と黒が好きだ", "D": "人生は写真だ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "blameless",
+    "pron": "ˈbleɪmləs",
+    "kana": "ブレイムレス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "blame（非難）+ -less（〜のない）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "-less 形容詞"],
+    "meaning_main": "非難すべき点のない／潔白な／落ち度のない",
+    "description": "blameless（ブレイムレス）の意味・発音・使い方。「非難すべき点のない・潔白な」を表す形容詞。blame に -less がついた語。例文・語源・クイズで学べます。",
+    "keywords": ["blameless 意味", "blameless 発音", "blameless 使い方", "潔白な 英語", "落ち度のない 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】非難すべき点のない・潔白な", "note": "落ち度がなく、責められるところがない。lead a blameless life（非の打ちどころのない生活を送る）。" }
+    ],
+    "usages": [
+      { "title": "① 潔白を述べる", "desc": "落ち度のなさを述べる。", "example_en": "He was completely blameless in the matter.", "example_ja": "彼はその件でまったく落ち度がなかった。" },
+      { "title": "② 非の打ちどころがない", "desc": "行いを述べる。", "example_en": "She led a blameless life.", "example_ja": "彼女は非の打ちどころのない生活を送った。" }
+    ],
+    "warn": ["名詞・動詞は blame（非難／非難する）。反対は blameworthy（非難に値する）", "innocent（無罪の）と近いが、blameless は「落ち度・責められる点がない」ニュアンス"],
+    "etym_note": "古フランス語 blasmer（非難する）に由来する blame に、「〜のない」を表す接尾辞 -less が付いた語。",
+    "etym_chain": [
+      { "node": "blasmer", "sub": "非難する(古仏)", "era": "古フランス語" },
+      { "node": "blame", "sub": "非難", "era": "中英語" },
+      { "node": "blameless", "sub": "非難すべき点のない", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "a blameless life", "ja": "非の打ちどころのない生活" },
+      { "en": "completely blameless", "ja": "まったく落ち度のない" },
+      { "en": "a blameless record", "ja": "汚点のない経歴" },
+      { "en": "hold someone blameless", "ja": "〜に責任がないとする" },
+      { "en": "blameless conduct", "ja": "非難すべき点のない行い" },
+      { "en": "utterly blameless", "ja": "完全に潔白な" }
+    ],
+    "related": [
+      { "en": "blame", "ja": "非難、非難する" },
+      { "en": "innocent", "ja": "無罪の、無邪気な" },
+      { "en": "faultless", "ja": "欠点のない" },
+      { "en": "guiltless", "ja": "罪のない" }
+    ],
+    "faq": [
+      { "q": "blameless と innocent の違いは？", "a": "innocent は「無罪の・無邪気な」全般、blameless は「（その件で）落ち度がなく、責められる点がない」に重点があります。近い意味ですが、blameless は『非難されない』ニュアンスです。" },
+      { "q": "反対の意味は？", "a": "blameworthy（非難に値する・責められるべき）です。-less（欠けた）と -worthy（値する）の対比です。" }
+    ],
+    "quiz": [
+      { "q": "blameless の意味は？", "A": "非難すべき点のない・潔白な", "B": "罪深い", "C": "危険な", "D": "無知な", "correct": "A" },
+      { "q": "blameless の反対にあたる語は？", "A": "blameworthy", "B": "blameful", "C": "reblame", "D": "unblame", "correct": "A" }
+    ]
+  },
+  {
+    "english": "blasphemous",
+    "pron": "ˈblæsfəməs",
+    "kana": "ブラスフィマス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "blaspheme（冒とくする）+ -ous",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "-ous 形容詞・宗教用語"],
+    "meaning_main": "神を冒とくする／不敬な／ばち当たりな",
+    "description": "blasphemous（ブラスフィマス）の意味・発音・使い方。「神を冒とくする・不敬な」を表す形容詞。blaspheme から派生した語。神聖なものをけがす言動を表す。例文・語源・クイズで学べます。",
+    "keywords": ["blasphemous 意味", "blasphemous 発音", "blasphemous 使い方", "冒とく 英語", "不敬な 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】神を冒とくする・不敬な", "note": "神や神聖なものを侮辱するような言動の。a blasphemous remark（冒とく的な発言）。" }
+    ],
+    "usages": [
+      { "title": "① 冒とく的な言動", "desc": "不敬な様子を述べる。", "example_en": "The book was condemned as blasphemous.", "example_ja": "その本は冒とく的だと非難された。" },
+      { "title": "② 神聖を汚す", "desc": "けがす言葉を述べる。", "example_en": "He made a blasphemous joke.", "example_ja": "彼は神を冒とくするような冗談を言った。" }
+    ],
+    "warn": ["動詞は blaspheme（冒とくする）、名詞は blasphemy（冒とく）。sacred（神聖な）の反対の言動", "宗教的な文脈で使う。sacrilegious（神聖を汚す）と近い"],
+    "etym_note": "ギリシャ語 blasphēmein（悪口を言う）に由来する blaspheme に、「〜の性質の」を表す -ous が付いた語。",
+    "etym_chain": [
+      { "node": "blasphēmein", "sub": "悪口を言う(ギリシャ語)", "era": "ギリシャ語" },
+      { "node": "blaspheme", "sub": "冒とくする", "era": "中英語" },
+      { "node": "blasphemous", "sub": "冒とく的な", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a blasphemous remark", "ja": "冒とく的な発言" },
+      { "en": "condemned as blasphemous", "ja": "冒とく的だと非難されて" },
+      { "en": "a blasphemous joke", "ja": "ばち当たりな冗談" },
+      { "en": "blasphemous words", "ja": "冒とくの言葉" },
+      { "en": "considered blasphemous", "ja": "冒とくと見なされて" },
+      { "en": "a blasphemous act", "ja": "冒とく行為" }
+    ],
+    "related": [
+      { "en": "blaspheme", "ja": "冒とくする" },
+      { "en": "blasphemy", "ja": "冒とく" },
+      { "en": "sacrilegious", "ja": "神聖を汚す" },
+      { "en": "irreverent", "ja": "不敬な" }
+    ],
+    "faq": [
+      { "q": "blasphemous とは？", "a": "神や神聖なものを侮辱・冒とくするような言動を表す形容詞です。宗教的な文脈で、神聖なものをけがす発言や行いに使われます。" },
+      { "q": "動詞・名詞は？", "a": "動詞は blaspheme（冒とくする）、名詞は blasphemy（冒とく）です。" }
+    ],
+    "quiz": [
+      { "q": "blasphemous の意味は？", "A": "神を冒とくする・不敬な", "B": "神聖な", "C": "親切な", "D": "勇敢な", "correct": "A" },
+      { "q": "blasphemous の名詞形は？", "A": "blasphemy", "B": "blasphemness", "C": "blasphemation", "D": "blasphemity", "correct": "A" }
+    ]
+  },
+  {
+    "english": "bleary",
+    "pron": "ˈblɪri",
+    "kana": "ブリアリー",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "中英語 blere（かすんだ）+ -y",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "-y 形容詞"],
+    "meaning_main": "（目が）かすんだ／涙や疲れでぼやけた",
+    "description": "bleary（ブリアリー）の意味・発音・使い方。「（目が）かすんだ・ぼやけた」を表す形容詞。疲れ・眠け・涙で視界がはっきりしない状態。例文・語源・クイズで学べます。",
+    "keywords": ["bleary 意味", "bleary 発音", "bleary 使い方", "目がかすむ 英語", "ぼやけた 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】（目が）かすんだ・ぼやけた", "note": "疲れ・眠け・涙で目がはっきり見えないさま。bleary eyes（かすんだ目）。" }
+    ],
+    "usages": [
+      { "title": "① 眠くて目がかすむ", "desc": "疲れた目を述べる。", "example_en": "She rubbed her bleary eyes.", "example_ja": "彼女はかすんだ目をこすった。" },
+      { "title": "② 寝起きの状態", "desc": "ぼんやりを述べる。", "example_en": "He woke up bleary and confused.", "example_ja": "彼は目をかすませ、ぼんやりして目覚めた。" }
+    ],
+    "warn": ["bleary-eyed（目がかすんで・寝ぼけて）は頻出の複合語", "疲れ・眠け・涙で目がぼやける状態。blurry（ぼやけた、画像など）と混同しない"],
+    "etym_note": "中英語 blere（目がかすんだ）に、「〜の性質の」を表す接尾辞 -y が付いた語。",
+    "etym_chain": [
+      { "node": "blere", "sub": "かすんだ(中英語)", "era": "中英語" },
+      { "node": "bleary", "sub": "目がかすんだ", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "bleary eyes", "ja": "かすんだ目" },
+      { "en": "bleary-eyed", "ja": "目がかすんで、寝ぼけて" },
+      { "en": "rub bleary eyes", "ja": "かすんだ目をこする" },
+      { "en": "wake up bleary", "ja": "目をかすませて目覚める" },
+      { "en": "bleary with sleep", "ja": "眠けで目がかすんで" },
+      { "en": "feel bleary", "ja": "目がかすむ" }
+    ],
+    "related": [
+      { "en": "blurry", "ja": "ぼやけた" },
+      { "en": "hazy", "ja": "かすんだ" },
+      { "en": "drowsy", "ja": "眠い" },
+      { "en": "tired", "ja": "疲れた" }
+    ],
+    "faq": [
+      { "q": "bleary-eyed とは？", "a": "「目がかすんで・寝ぼけて」という意味の複合語です。疲れや眠けで目がはっきり見えない状態を表します。bleary-eyed from lack of sleep（寝不足で目がかすんで）のように使います。" },
+      { "q": "blurry との違いは？", "a": "bleary は「（疲れ・眠け・涙で）目がかすむ」状態、blurry は「（画像や視界が）ぼやけている」ことを指します。bleary は主に目の状態に使います。" }
+    ],
+    "quiz": [
+      { "q": "bleary の意味は？", "A": "（目が）かすんだ・ぼやけた", "B": "はっきり見える", "C": "明るい", "D": "赤い", "correct": "A" },
+      { "q": "bleary-eyed の意味は？", "A": "目がかすんで・寝ぼけて", "B": "目が大きい", "C": "目が青い", "D": "目が鋭い", "correct": "A" }
+    ]
+  },
+  {
+    "english": "bleeding",
+    "pron": "ˈbliːdɪŋ",
+    "kana": "ブリーディング",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "bleed（出血する）+ -ing",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "bleed の現在分詞"],
+    "meaning_main": "出血／出血している",
+    "description": "bleeding（ブリーディング）の意味・発音・使い方。「出血・出血している」を表す語。bleed に -ing がついた語。けがや傷から血が出ること。例文・語源・クイズで学べます。",
+    "keywords": ["bleeding 意味", "bleeding 発音", "bleeding 使い方", "出血 英語", "bleed 現在分詞"],
+    "meanings": [
+      { "hinshi": "【名詞】出血", "note": "血が流れ出ること。stop the bleeding（出血を止める）。ふつう不可算。" },
+      { "hinshi": "【形容詞】出血している", "note": "血が出ている状態。a bleeding wound（血の出ている傷）。" }
+    ],
+    "usages": [
+      { "title": "① 出血を止める", "desc": "手当てを述べる。", "example_en": "Apply pressure to stop the bleeding.", "example_ja": "圧迫して出血を止めなさい。" },
+      { "title": "② 傷から血が出る", "desc": "状態を述べる。", "example_en": "He has a bleeding cut on his hand.", "example_ja": "彼は手に血の出ている切り傷がある。" }
+    ],
+    "warn": ["動詞 bleed は不規則変化（bleed-bled-bled）。名詞 blood（血）と混同しない", "internal bleeding は「内出血」"],
+    "etym_note": "古英語 blēdan（出血する、blōd=血 に由来）に由来する bleed に、-ing が付いた語。",
+    "etym_chain": [
+      { "node": "blēdan", "sub": "出血する(古英語)", "era": "古英語" },
+      { "node": "bleed", "sub": "出血する", "era": "中英語" },
+      { "node": "bleeding", "sub": "出血", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "stop the bleeding", "ja": "出血を止める" },
+      { "en": "a bleeding wound", "ja": "血の出ている傷" },
+      { "en": "internal bleeding", "ja": "内出血" },
+      { "en": "heavy bleeding", "ja": "大量の出血" },
+      { "en": "control the bleeding", "ja": "出血を抑える" },
+      { "en": "a bleeding nose", "ja": "鼻血の出ている鼻" }
+    ],
+    "related": [
+      { "en": "bleed", "ja": "出血する" },
+      { "en": "blood", "ja": "血" },
+      { "en": "wound", "ja": "傷" },
+      { "en": "injury", "ja": "けが" }
+    ],
+    "faq": [
+      { "q": "bleed の変化は？", "a": "bleed-bled-bled と不規則に変化します。過去形・過去分詞はともに bled です。bleeding はその -ing 形（現在分詞・動名詞）です。" },
+      { "q": "internal bleeding とは？", "a": "「内出血」のことです。体の内部で出血し、外からは見えない状態を指します。" }
+    ],
+    "quiz": [
+      { "q": "bleeding の意味は？", "A": "出血・出血している", "B": "呼吸", "C": "消化", "D": "睡眠", "correct": "A" },
+      { "q": "stop the bleeding の意味は？", "A": "出血を止める", "B": "出血を増やす", "C": "傷を作る", "D": "血を採る", "correct": "A" }
+    ]
+  },
+  {
+    "english": "blender",
+    "pron": "ˈblendər",
+    "kana": "ブレンダー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "blend（混ぜる）+ -er（〜する機械）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "可算名詞"],
+    "meaning_main": "ミキサー／ブレンダー（食材を混ぜ砕く器具）",
+    "description": "blender（ブレンダー）の意味・発音・使い方。「ミキサー・ブレンダー」を表す名詞。blend に -er がついた語。食材を混ぜて砕く電気器具。例文・語源・クイズで学べます。",
+    "keywords": ["blender 意味", "blender 発音", "blender 使い方", "ミキサー 英語", "ブレンダー 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】ミキサー・ブレンダー", "note": "食材を混ぜたり砕いたりする電気調理器具。スムージーなどを作る。可算名詞。" }
+    ],
+    "usages": [
+      { "title": "① 調理器具", "desc": "ブレンダーを述べる。", "example_en": "Blend the fruit in a blender.", "example_ja": "果物をミキサーで混ぜなさい。" },
+      { "title": "② スムージー作り", "desc": "用途を述べる。", "example_en": "She made a smoothie with the blender.", "example_ja": "彼女はミキサーでスムージーを作った。" }
+    ],
+    "warn": ["日本語の「ミキサー」は英語では blender。英語の mixer は主に泡立て器・生地をこねる器具", "動詞 blend は「混ぜ合わせる、溶け込む」"],
+    "etym_note": "「混ぜ合わせる」を意味する blend に、「〜する機械・人」を表す接尾辞 -er が付いた語。",
+    "etym_chain": [
+      { "node": "blend", "sub": "混ぜ合わせる", "era": "中英語" },
+      { "node": "blender", "sub": "ミキサー", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "use a blender", "ja": "ミキサーを使う" },
+      { "en": "blend in a blender", "ja": "ミキサーで混ぜる" },
+      { "en": "an electric blender", "ja": "電動ミキサー" },
+      { "en": "a hand blender", "ja": "ハンドブレンダー" },
+      { "en": "put in the blender", "ja": "ミキサーに入れる" },
+      { "en": "a smoothie blender", "ja": "スムージー用ミキサー" }
+    ],
+    "related": [
+      { "en": "blend", "ja": "混ぜ合わせる" },
+      { "en": "mixer", "ja": "（泡立て・生地用の）ミキサー" },
+      { "en": "food processor", "ja": "フードプロセッサー" },
+      { "en": "smoothie", "ja": "スムージー" }
+    ],
+    "faq": [
+      { "q": "日本語の「ミキサー」は英語で？", "a": "blender です。日本語で「ミキサー」と呼ぶ、食材を混ぜて砕く器具は、英語では blender と言います。英語の mixer は主に泡立てや生地をこねる器具を指します。" },
+      { "q": "food processor との違いは？", "a": "blender は液体を混ぜてなめらかにするのが得意（スムージーなど）、food processor は刻んだり練ったりと幅広い作業に向いています。" }
+    ],
+    "quiz": [
+      { "q": "blender の意味は？", "A": "ミキサー（食材を混ぜ砕く器具）", "B": "冷蔵庫", "C": "オーブン", "D": "電子レンジ", "correct": "A" },
+      { "q": "日本語の「ミキサー」の英語は？", "A": "blender", "B": "mixer", "C": "cooker", "D": "heater", "correct": "A" }
+    ]
+  },
+  {
+    "english": "blinds",
+    "pron": "blaɪndz",
+    "kana": "ブラインズ",
+    "hinshi": "名詞(複数)",
+    "ld_pos": "名詞",
+    "ld_etym": "blind（目を覆うもの）の複数形",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "複数扱い"],
+    "meaning_main": "ブラインド（窓の日よけ・目隠し）",
+    "description": "blinds（ブラインズ）の意味・発音・使い方。「ブラインド」を表す名詞（blind の複数形）。窓につける日よけ・目隠し。例文・語源・クイズで学べます。",
+    "keywords": ["blinds 意味", "blinds 発音", "blinds 使い方", "ブラインド 英語", "窓 日よけ"],
+    "meanings": [
+      { "hinshi": "【名詞】ブラインド", "note": "窓につける、光をさえぎったり目隠ししたりする日よけ。羽根やロール式など。ふつう複数形。" }
+    ],
+    "usages": [
+      { "title": "① 窓の日よけ", "desc": "ブラインドを述べる。", "example_en": "She closed the blinds to block the sun.", "example_ja": "彼女は日ざしをさえぎるためブラインドを閉めた。" },
+      { "title": "② 開け閉め", "desc": "操作を述べる。", "example_en": "Please raise the blinds.", "example_ja": "ブラインドを上げてください。" }
+    ],
+    "warn": ["形容詞 blind は「目の見えない」。名詞 blind / blinds は「窓のブラインド」", "カーテン（curtains）は布、ブラインド（blinds）は羽根やロール式が多い"],
+    "etym_note": "「目を覆う・見えなくする」を意味する blind（古英語 blind）が名詞化し、「光をさえぎるもの」を指すようになった語の複数形。",
+    "etym_chain": [
+      { "node": "blind", "sub": "目の見えない(古英語)", "era": "古英語" },
+      { "node": "blind", "sub": "日よけ、ブラインド", "era": "近代英語" },
+      { "node": "blinds", "sub": "ブラインド（複数）", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "close the blinds", "ja": "ブラインドを閉める" },
+      { "en": "open the blinds", "ja": "ブラインドを開ける" },
+      { "en": "raise the blinds", "ja": "ブラインドを上げる" },
+      { "en": "lower the blinds", "ja": "ブラインドを下ろす" },
+      { "en": "venetian blinds", "ja": "横型ブラインド" },
+      { "en": "roller blinds", "ja": "ロールブラインド" }
+    ],
+    "related": [
+      { "en": "curtains", "ja": "カーテン" },
+      { "en": "shade", "ja": "日よけ、日陰" },
+      { "en": "shutter", "ja": "よろい戸、シャッター" },
+      { "en": "window", "ja": "窓" }
+    ],
+    "faq": [
+      { "q": "blinds と curtains の違いは？", "a": "curtains（カーテン）は布でできた窓かけ、blinds（ブラインド）は羽根やロール式で光の量を調節できる日よけです。素材と仕組みが違います。" },
+      { "q": "venetian blinds とは？", "a": "「横型ブラインド」のことで、水平な羽根（スラット）が並び、その角度を変えて光を調節するタイプです。" }
+    ],
+    "quiz": [
+      { "q": "blinds の意味は？", "A": "ブラインド（窓の日よけ）", "B": "じゅうたん", "C": "枕", "D": "鏡", "correct": "A" },
+      { "q": "close the blinds の意味は？", "A": "ブラインドを閉める", "B": "窓を割る", "C": "ドアを開ける", "D": "電気を消す", "correct": "A" }
+    ]
+  },
+  {
+    "english": "blissfully",
+    "pron": "ˈblɪsfəli",
+    "kana": "ブリスフリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "blissful（至福の）+ -ly",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "-ly 副詞"],
+    "meaning_main": "至福に／このうえなく幸せに／（知らずに）のんきに",
+    "description": "blissfully（ブリスフリー）の意味・発音・使い方。「至福に・このうえなく幸せに」を表す副詞。blissful に -ly がついた語。blissfully unaware（何も知らずのんきに）など。例文・クイズで学べます。",
+    "keywords": ["blissfully 意味", "blissfully 発音", "blissfully 使い方", "至福に 英語", "のんきに 英語"],
+    "meanings": [
+      { "hinshi": "【副詞】至福に・このうえなく幸せに", "note": "深い幸福感に満ちて。blissfully happy（このうえなく幸せで）。" },
+      { "hinshi": "【副詞】（悪いことを）知らずにのんきに", "note": "blissfully unaware で「（危険などを）まったく知らずに幸せそうに」。" }
+    ],
+    "usages": [
+      { "title": "① 幸福に", "desc": "至福を述べる。", "example_en": "They were blissfully happy together.", "example_ja": "彼らは一緒にこのうえなく幸せだった。" },
+      { "title": "② 何も知らずに", "desc": "のんきさを述べる。", "example_en": "She was blissfully unaware of the danger.", "example_ja": "彼女は危険をまったく知らずのんきにしていた。" }
+    ],
+    "warn": ["blissfully unaware（危険などをまったく知らずに）は頻出の表現", "形容詞は blissful（至福の）、名詞は bliss（至福）"],
+    "etym_note": "古英語 bliss（喜び・至福）に由来する blissful（至福の）に、副詞を作る -ly が付いた語。",
+    "etym_chain": [
+      { "node": "bliss", "sub": "至福(古英語)", "era": "古英語" },
+      { "node": "blissful", "sub": "至福の", "era": "中英語" },
+      { "node": "blissfully", "sub": "至福に", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "blissfully happy", "ja": "このうえなく幸せで" },
+      { "en": "blissfully unaware", "ja": "何も知らずのんきに" },
+      { "en": "blissfully ignorant", "ja": "知らぬが仏で" },
+      { "en": "sleep blissfully", "ja": "至福の眠りにつく" },
+      { "en": "blissfully content", "ja": "この上なく満ち足りて" },
+      { "en": "smile blissfully", "ja": "幸せそうに微笑む" }
+    ],
+    "related": [
+      { "en": "blissful", "ja": "至福の" },
+      { "en": "bliss", "ja": "至福" },
+      { "en": "happily", "ja": "幸せに" },
+      { "en": "joyfully", "ja": "喜んで" }
+    ],
+    "faq": [
+      { "q": "blissfully unaware とは？", "a": "「（危険や問題を）まったく知らずに、のんきに幸せそうにしている」という意味です。しばしば皮肉を込めて、当人だけが状況に気づいていない様子を表します。" },
+      { "q": "形容詞・名詞は？", "a": "形容詞は blissful（至福の）、名詞は bliss（至福・無上の喜び）です。" }
+    ],
+    "quiz": [
+      { "q": "blissfully の意味に含まれないのは？", "A": "至福に", "B": "このうえなく幸せに", "C": "知らずにのんきに", "D": "悲しげに", "correct": "D" },
+      { "q": "blissfully unaware の意味は？", "A": "何も知らずのんきに", "B": "よく理解して", "C": "とても心配して", "D": "急いで", "correct": "A" }
+    ]
+  },
+  {
+    "english": "bloat",
+    "pron": "bloʊt",
+    "kana": "ブロート",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古ノルド語 blautr（やわらかい・ふやけた）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "自動詞・他動詞"],
+    "meaning_main": "ふくれる／膨張させる／（おなかが）張ること",
+    "description": "bloat（ブロート）の意味・発音・使い方。「ふくれる・膨張させる」を表す動詞・名詞。おなかの張りや、無駄に肥大化することにも使う。例文・語源・クイズで学べます。",
+    "keywords": ["bloat 意味", "bloat 発音", "bloat 使い方", "ふくれる 英語", "おなかの張り 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】ふくれる・膨張させる", "note": "水分・ガス・空気などでふくらむ。またむだに肥大化する。" },
+      { "hinshi": "【名詞】おなかの張り・膨満", "note": "食べ過ぎなどでおなかが張ること。stomach bloat（おなかの張り）。" }
+    ],
+    "usages": [
+      { "title": "① おなかが張る", "desc": "膨満を述べる。", "example_en": "Eating too fast can make you bloat.", "example_ja": "早食いはおなかを張らせることがある。" },
+      { "title": "② 肥大化する", "desc": "むだな膨張を述べる。", "example_en": "The software has bloated over the years.", "example_ja": "そのソフトは年々肥大化した。" }
+    ],
+    "warn": ["形容詞は bloated（ふくれた、肥大化した）。おなかの張り、死体の膨張、組織やソフトの肥大などに使う", "「むだに大きくなる」の比喩でも使う（bloated bureaucracy=肥大した官僚組織）"],
+    "etym_note": "古ノルド語 blautr（やわらかい・ふやけた）に由来する語。水分などでふくらむことを表す。",
+    "etym_chain": [
+      { "node": "blautr", "sub": "ふやけた(古ノルド語)", "era": "古ノルド語" },
+      { "node": "bloat", "sub": "ふくれる", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "stomach bloat", "ja": "おなかの張り" },
+      { "en": "feel bloated", "ja": "おなかが張った感じがする" },
+      { "en": "bloat with water", "ja": "水でふくれる" },
+      { "en": "a bloated stomach", "ja": "ふくれたおなか" },
+      { "en": "software bloat", "ja": "ソフトの肥大化" },
+      { "en": "bloated budget", "ja": "ふくれ上がった予算" }
+    ],
+    "related": [
+      { "en": "bloated", "ja": "ふくれた、肥大化した" },
+      { "en": "swell", "ja": "ふくらむ、腫れる" },
+      { "en": "inflate", "ja": "ふくらませる" },
+      { "en": "expand", "ja": "膨張する" }
+    ],
+    "faq": [
+      { "q": "bloat とは？", "a": "「（水分・ガス・空気などで）ふくれる・膨張する」ことです。食べ過ぎでおなかが張ること（feel bloated）や、ソフト・組織がむだに肥大化することにも使います。" },
+      { "q": "形容詞は？", "a": "bloated（ふくれた・肥大化した）です。a bloated stomach（張ったおなか）、a bloated organization（肥大した組織）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "bloat の意味に含まれないのは？", "A": "ふくれる・膨張させる", "B": "おなかの張り", "C": "むだに肥大化する", "D": "しぼむ", "correct": "D" },
+      { "q": "feel bloated の意味は？", "A": "おなかが張った感じがする", "B": "空腹を感じる", "C": "元気を感じる", "D": "眠けを感じる", "correct": "A" }
+    ]
+  }
+]
