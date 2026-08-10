@@ -1,0 +1,989 @@
+[
+  {
+    "english": "in",
+    "pron": "ɪn",
+    "kana": "イン",
+    "hinshi": "前置詞 / 副詞",
+    "ld_pos": "preposition",
+    "ld_etym": "古英語 in（中に）",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "基本・文法"],
+    "meaning_main": "〜の中に／〜（の時期）に／中へ",
+    "description": "in の意味と使い方。場所の「〜の中に」、時間の「〜に」を表す基本の前置詞・副詞 in を、on や at との違いとともに解説します。",
+    "keywords": ["in 意味", "in 使い方", "前置詞 in", "in on at 違い"],
+    "meanings": [
+      { "hinshi": "【前置詞】〜の中に（場所）", "note": "空間の内側。in the box（箱の中に）、in Japan（日本で）" },
+      { "hinshi": "【前置詞】〜に（時間）", "note": "月・年・季節など。in May、in 2020、in the morning" },
+      { "hinshi": "【副詞】中へ、中に", "note": "come in（入ってくる）" }
+    ],
+    "usages": [
+      { "title": "① 場所を表す", "desc": "「〜の中に」", "example_en": "The keys are in my bag.", "example_ja": "鍵は私のかばんの中にある。" },
+      { "title": "② 時間を表す", "desc": "「〜に」", "example_en": "My birthday is in June.", "example_ja": "私の誕生日は6月だ。" }
+    ],
+    "warn": ["時間：広い範囲(月・年・季節)は in、日付・曜日は on、時刻は at", "場所：内部は in、接触する面は on、地点は at"],
+    "etym_note": "古英語 in（中に）に由来する基本語。ゲルマン語・ラテン語などにも共通する古い語で、空間・時間の「内側・〜に」を広く表します。",
+    "etym_chain": [
+      { "node": "in", "sub": "中に", "era": "古英語" },
+      { "node": "in", "sub": "〜の中に・〜に", "era": "中英語" },
+      { "node": "in", "sub": "前置詞・副詞", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "in the box", "ja": "箱の中に" },
+      { "en": "in the morning", "ja": "朝に" },
+      { "en": "in time", "ja": "間に合って" },
+      { "en": "come in", "ja": "入ってくる" },
+      { "en": "in fact", "ja": "実際は" },
+      { "en": "fill in", "ja": "記入する" }
+    ],
+    "related": [
+      { "en": "on", "ja": "〜の上に、〜（曜日）に" },
+      { "en": "at", "ja": "〜（地点・時刻）に" },
+      { "en": "into", "ja": "〜の中へ" },
+      { "en": "inside", "ja": "内側に" }
+    ],
+    "faq": [
+      { "q": "in と on と at の使い分けは？", "a": "時間では、月・年・季節は in、日付・曜日は on、時刻は at です。場所では、内部は in、面は on、地点は at を使います。" },
+      { "q": "in と into の違いは？", "a": "in は「中にある（位置）」、into は「中へ入る（移動）」を表します。He is in the room. / He walked into the room." }
+    ],
+    "quiz": [
+      { "q": "「6月に」は？", "A": "on June", "B": "in June", "C": "at June", "D": "to June", "correct": "B" },
+      { "q": "「箱の中に」は？", "A": "on the box", "B": "in the box", "C": "at the box", "D": "by the box", "correct": "B" }
+    ]
+  },
+  {
+    "english": "inconvenience",
+    "pron": "ˌɪnkənˈviːniəns",
+    "kana": "インコンビニエンス",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "noun",
+    "ld_etym": "in-(否定) + convenience",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "頻出語"],
+    "meaning_main": "不便／迷惑／(動詞)迷惑をかける",
+    "description": "inconvenience の意味と使い方。手間や不都合を表す「不便・迷惑」の名詞・動詞を、対義語 convenience とともに解説します。",
+    "keywords": ["inconvenience 意味", "inconvenience 使い方", "不便 英語", "迷惑 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】不便、迷惑（可算・不可算）", "note": "手間や不都合。cause inconvenience（迷惑をかける）" },
+      { "hinshi": "【動詞】〜に迷惑をかける", "note": "I don't want to inconvenience you." }
+    ],
+    "usages": [
+      { "title": "① 名詞で使う", "desc": "不便・迷惑を表す", "example_en": "We apologize for any inconvenience.", "example_ja": "ご不便をおかけして申し訳ありません。" },
+      { "title": "② 動詞で使う", "desc": "「迷惑をかける」を表す", "example_en": "I hope this doesn't inconvenience you.", "example_ja": "これがあなたのご迷惑にならないといいのですが。" }
+    ],
+    "warn": ["in-（否定）＋ convenience（便利）で「不便」。対義語は convenience", "sorry for the inconvenience（ご不便をおかけしてすみません）は定型表現"],
+    "etym_note": "接頭辞 in-（否定）と convenience（便利、ラテン語 convenire〈都合よく合う〉から）を合わせた語。「都合が合わない＝不便・迷惑」を表します。",
+    "etym_chain": [
+      { "node": "convenire", "sub": "都合よく合う", "era": "ラテン語" },
+      { "node": "convenience", "sub": "便利", "era": "中英語" },
+      { "node": "inconvenience", "sub": "不便・迷惑", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "cause inconvenience", "ja": "迷惑をかける" },
+      { "en": "sorry for the inconvenience", "ja": "ご不便をおかけしてすみません" },
+      { "en": "a minor inconvenience", "ja": "ちょっとした不便" },
+      { "en": "convenience", "ja": "便利" },
+      { "en": "trouble", "ja": "手間、面倒" },
+      { "en": "bother", "ja": "迷惑をかける" }
+    ],
+    "related": [
+      { "en": "convenience", "ja": "便利" },
+      { "en": "inconvenient", "ja": "不便な" },
+      { "en": "trouble", "ja": "面倒" },
+      { "en": "nuisance", "ja": "厄介なもの" }
+    ],
+    "faq": [
+      { "q": "形容詞は？", "a": "inconvenient（不便な、都合の悪い）です。an inconvenient time（都合の悪い時間）のように使います。" },
+      { "q": "対義語は？", "a": "convenience（便利）です。in-（否定）を付けた inconvenience が「不便・迷惑」を表します。" }
+    ],
+    "quiz": [
+      { "q": "inconvenience の意味は？", "A": "便利", "B": "不便・迷惑", "C": "満足", "D": "感謝", "correct": "B" },
+      { "q": "inconvenience の形容詞形は？", "A": "inconvenient", "B": "convenient", "C": "inconveniently", "D": "convenience", "correct": "A" }
+    ]
+  },
+  {
+    "english": "indecisive",
+    "pron": "ˌɪndɪˈsaɪsɪv",
+    "kana": "インディサイシブ",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "in-(否定) + decisive",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "性格語"],
+    "meaning_main": "優柔不断な／決断力のない／勝敗の決まらない",
+    "description": "indecisive の意味と使い方。なかなか決められない「優柔不断な」性格や、勝敗が決まらない状態を表す形容詞を、対義語 decisive とともに解説します。",
+    "keywords": ["indecisive 意味", "indecisive 使い方", "優柔不断 英語", "決断力のない 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】優柔不断な、決断力のない", "note": "なかなか決められない様子。an indecisive person" },
+      { "hinshi": "【形容詞】決着のつかない", "note": "勝敗がはっきりしない。an indecisive battle" }
+    ],
+    "usages": [
+      { "title": "① 性格を表す", "desc": "決められない様子", "example_en": "He's too indecisive to choose a restaurant.", "example_ja": "彼は優柔不断でレストランを選べない。" },
+      { "title": "② 結果を表す", "desc": "決着がつかない", "example_en": "The match ended in an indecisive draw.", "example_ja": "その試合は決着のつかない引き分けに終わった。" }
+    ],
+    "warn": ["in-（否定）＋ decisive（決断力のある）。対義語は decisive", "動詞は decide（決める）、名詞は decision（決定）"],
+    "etym_note": "接頭辞 in-（否定）と decisive（決断力のある、decide〈決める〉から）を合わせた語。「決められない＝優柔不断な」を表します。",
+    "etym_chain": [
+      { "node": "decidere", "sub": "決める", "era": "ラテン語" },
+      { "node": "decisive", "sub": "決断力のある", "era": "近代英語" },
+      { "node": "indecisive", "sub": "優柔不断な", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "an indecisive person", "ja": "優柔不断な人" },
+      { "en": "indecisive about", "ja": "〜について決められない" },
+      { "en": "decisive", "ja": "決断力のある" },
+      { "en": "hesitant", "ja": "ためらいがちな" },
+      { "en": "make up one's mind", "ja": "決心する" },
+      { "en": "wishy-washy", "ja": "煮え切らない" }
+    ],
+    "related": [
+      { "en": "decisive", "ja": "決断力のある" },
+      { "en": "decide", "ja": "決める" },
+      { "en": "hesitant", "ja": "ためらう" },
+      { "en": "uncertain", "ja": "不確かな" }
+    ],
+    "faq": [
+      { "q": "対義語は？", "a": "decisive（決断力のある、きっぱりした）です。in-（否定）を付けた indecisive が「優柔不断な」を表します。" },
+      { "q": "動詞・名詞は？", "a": "動詞は decide（決める）、名詞は decision（決定）、decisiveness（決断力）です。" }
+    ],
+    "quiz": [
+      { "q": "indecisive の意味は？", "A": "決断力のある", "B": "優柔不断な", "C": "勇敢な", "D": "正直な", "correct": "B" },
+      { "q": "indecisive の対義語は？", "A": "hesitant", "B": "decisive", "C": "uncertain", "D": "wishy-washy", "correct": "B" }
+    ]
+  },
+  {
+    "english": "indonesian",
+    "pron": "ˌɪndəˈniːʒən",
+    "kana": "インドネシアン",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "adjective",
+    "ld_etym": "Indonesia + -an",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "地理・言語"],
+    "meaning_main": "インドネシアの／インドネシア人／インドネシア語",
+    "description": "Indonesian の意味と使い方。インドネシアに関する「インドネシアの」形容詞、「インドネシア人・インドネシア語」を表す名詞を、常に大文字で書く点とともに解説します。",
+    "keywords": ["Indonesian 意味", "Indonesian 使い方", "インドネシアの 英語", "インドネシア人 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】インドネシアの", "note": "インドネシアに関する。Indonesian food（インドネシア料理）" },
+      { "hinshi": "【名詞】インドネシア人／インドネシア語（可算・不可算）", "note": "an Indonesian（インドネシア人）、Indonesian（インドネシア語）" }
+    ],
+    "usages": [
+      { "title": "① 形容詞で使う", "desc": "「インドネシアの」を表す", "example_en": "We tried an Indonesian restaurant.", "example_ja": "私たちはインドネシア料理店を試した。" },
+      { "title": "② 言語・人を表す", "desc": "「インドネシア語・人」を表す", "example_en": "She is learning Indonesian.", "example_ja": "彼女はインドネシア語を学んでいる。" }
+    ],
+    "warn": ["固有形容詞なので文中でも常に大文字 Indonesian（見出し語はサイト方針で小文字登録）", "Indonesia（国名）に -an をつけた形"],
+    "etym_note": "Indonesia（インドネシア）に「〜の・〜人」を表す接尾辞 -an をつけた語。Indonesia はギリシャ語 Indos（インド）＋ nēsos（島）から「インドの島々」を意味します。",
+    "etym_chain": [
+      { "node": "Indos + nēsos", "sub": "インドの島々", "era": "ギリシャ語系" },
+      { "node": "Indonesia", "sub": "インドネシア", "era": "近代" },
+      { "node": "Indonesian", "sub": "インドネシアの・人・語", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Indonesian food", "ja": "インドネシア料理" },
+      { "en": "speak Indonesian", "ja": "インドネシア語を話す" },
+      { "en": "an Indonesian island", "ja": "インドネシアの島" },
+      { "en": "Indonesia", "ja": "インドネシア" },
+      { "en": "Southeast Asia", "ja": "東南アジア" },
+      { "en": "Jakarta", "ja": "ジャカルタ（首都）" }
+    ],
+    "related": [
+      { "en": "indonesia", "ja": "インドネシア" },
+      { "en": "asian", "ja": "アジアの" },
+      { "en": "language", "ja": "言語" },
+      { "en": "island", "ja": "島" }
+    ],
+    "faq": [
+      { "q": "なぜいつも大文字？", "a": "国名からできた固有形容詞なので、文の途中でも Indonesian と大文字で書きます。人・言語を表すときも同じです。" },
+      { "q": "インドネシアはどこ？", "a": "東南アジアの島国で、世界最多の島を持つ国の一つです。首都はジャカルタ、公用語はインドネシア語です。" }
+    ],
+    "quiz": [
+      { "q": "Indonesian の意味に含まれないのは？", "A": "インドネシアの", "B": "インドネシア人", "C": "インドネシア語", "D": "インドの", "correct": "D" },
+      { "q": "Indonesian はどう書く？", "A": "文中でも常に大文字", "B": "常に小文字", "C": "文頭だけ大文字", "D": "決まりはない", "correct": "A" }
+    ]
+  },
+  {
+    "english": "inflated",
+    "pron": "ɪnˈfleɪtɪd",
+    "kana": "インフレイテッド",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "inflate + -ed",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "膨らんだ／（価格などが）つり上がった／誇張された",
+    "description": "inflated の意味と使い方。空気で「膨らんだ」意味と、価格や評価が実際より「つり上がった・誇張された」意味を持つ形容詞を解説します。",
+    "keywords": ["inflated 意味", "inflated 使い方", "膨らんだ 英語", "つり上がった 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】膨らんだ、空気の入った", "note": "空気やガスで膨らんだ。an inflated balloon" },
+      { "hinshi": "【形容詞】つり上がった、誇張された", "note": "実際より高い・大げさな。inflated prices、an inflated ego（うぬぼれ）" }
+    ],
+    "usages": [
+      { "title": "① 物理的に膨らむ", "desc": "空気が入った様子", "example_en": "The children played with inflated balloons.", "example_ja": "子どもたちは膨らんだ風船で遊んだ。" },
+      { "title": "② 価格・評価が高い", "desc": "つり上がった様子", "example_en": "Tourists often pay inflated prices.", "example_ja": "観光客はしばしばつり上がった値段を払う。" }
+    ],
+    "warn": ["動詞は inflate（膨らませる、つり上げる）、名詞は inflation（膨張、インフレ）", "an inflated ego は「（実力以上に）うぬぼれた自意識」"],
+    "etym_note": "inflate（膨らませる。ラテン語 inflare〈吹き込む〉から）の過去分詞を形容詞にした語。「空気を吹き込まれた＝膨らんだ」から「つり上がった・誇張された」の意味に広がりました。",
+    "etym_chain": [
+      { "node": "inflare", "sub": "吹き込む", "era": "ラテン語" },
+      { "node": "inflate", "sub": "膨らませる", "era": "近代英語" },
+      { "node": "inflated", "sub": "膨らんだ・つり上がった", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "an inflated balloon", "ja": "膨らんだ風船" },
+      { "en": "inflated prices", "ja": "つり上がった価格" },
+      { "en": "an inflated ego", "ja": "うぬぼれた自意識" },
+      { "en": "inflation", "ja": "インフレ、膨張" },
+      { "en": "exaggerated", "ja": "誇張された" },
+      { "en": "deflated", "ja": "しぼんだ" }
+    ],
+    "related": [
+      { "en": "inflate", "ja": "膨らませる" },
+      { "en": "inflation", "ja": "インフレ" },
+      { "en": "exaggerate", "ja": "誇張する" },
+      { "en": "deflated", "ja": "しぼんだ" }
+    ],
+    "faq": [
+      { "q": "対になる語は？", "a": "deflated（しぼんだ、空気の抜けた）です。inflate（膨らませる）⇔ deflate（しぼませる）から来ています。" },
+      { "q": "an inflated ego とは？", "a": "「（実力以上に）膨れ上がった自意識＝うぬぼれ」を表す比喩です。inflated は価格・評価・自意識などにも使えます。" }
+    ],
+    "quiz": [
+      { "q": "inflated prices の意味は？", "A": "つり上がった価格", "B": "安い価格", "C": "定価", "D": "割引価格", "correct": "A" },
+      { "q": "inflated の対になる語は？", "A": "inflation", "B": "deflated", "C": "inflating", "D": "reflated", "correct": "B" }
+    ]
+  },
+  {
+    "english": "influx",
+    "pron": "ˈɪnflʌks",
+    "kana": "インフラックス",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 influere（流れ込む）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "頻出語"],
+    "meaning_main": "流入／（人・物が）どっと入ってくること",
+    "description": "influx の意味と使い方。人・物・資金などが「どっと流入すること」を表す名詞を、an influx of 〜 の形とともに解説します。",
+    "keywords": ["influx 意味", "influx 使い方", "流入 英語", "どっと入る 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】流入、殺到（可算・多く単数）", "note": "人・物・お金などが大量に入ってくること。an influx of tourists" }
+    ],
+    "usages": [
+      { "title": "① 人の流入", "desc": "どっと来る様子", "example_en": "The city saw an influx of tourists in summer.", "example_ja": "その都市は夏に観光客の流入を経験した。" },
+      { "title": "② 物・資金の流入", "desc": "大量に入る様子", "example_en": "There was an influx of foreign investment.", "example_ja": "外国からの投資が大量に流入した。" }
+    ],
+    "warn": ["an influx of 〜（〜の流入）の形でよく使う。対義語は outflow / exodus（流出）", "in-（中へ）＋ flux（流れ）で「中へ流れ込むこと」"],
+    "etym_note": "ラテン語 influere（in-〈中へ〉+ fluere〈流れる〉＝流れ込む）に由来します。「中へ流れ込むこと＝流入」を表します。flow（流れ）と同じ語根です。",
+    "etym_chain": [
+      { "node": "influere", "sub": "流れ込む", "era": "ラテン語" },
+      { "node": "influx", "sub": "流入", "era": "17世紀英語" },
+      { "node": "influx", "sub": "殺到・流入", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an influx of tourists", "ja": "観光客の流入" },
+      { "en": "an influx of refugees", "ja": "難民の流入" },
+      { "en": "a sudden influx", "ja": "突然の殺到" },
+      { "en": "an influx of cash", "ja": "資金の流入" },
+      { "en": "outflow", "ja": "流出" },
+      { "en": "flood in", "ja": "どっと入ってくる" }
+    ],
+    "related": [
+      { "en": "flow", "ja": "流れ" },
+      { "en": "inflow", "ja": "流入" },
+      { "en": "outflow", "ja": "流出" },
+      { "en": "arrival", "ja": "到着" }
+    ],
+    "faq": [
+      { "q": "対義語は？", "a": "outflow（流出）や exodus（大量流出）です。influx は「中へどっと入る」、outflow は「外へ流れ出る」を表します。" },
+      { "q": "どう使う？", "a": "an influx of 〜（〜の流入・殺到）の形で使います。人・物・資金など大量に入ってくるものに使えます。" }
+    ],
+    "quiz": [
+      { "q": "influx の意味は？", "A": "流出", "B": "流入・殺到", "C": "停滞", "D": "減少", "correct": "B" },
+      { "q": "an influx of tourists の意味は？", "A": "観光客の流入", "B": "観光客の減少", "C": "観光客の不満", "D": "観光客の帰宅", "correct": "A" }
+    ]
+  },
+  {
+    "english": "insomnia",
+    "pron": "ɪnˈsɒmniə",
+    "kana": "インソムニア",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 in-(否定) + somnus(眠り)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "医学・体"],
+    "meaning_main": "不眠症",
+    "description": "insomnia の意味と使い方。なかなか眠れない状態が続く「不眠症」を表す名詞を、不可算名詞として例文つきで解説します。",
+    "keywords": ["insomnia 意味", "insomnia 使い方", "不眠症 英語", "眠れない 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】不眠症（不可算）", "note": "眠れない状態が続くこと。suffer from insomnia（不眠症に苦しむ）" }
+    ],
+    "usages": [
+      { "title": "① 症状を表す", "desc": "不眠症を指す", "example_en": "She suffers from insomnia.", "example_ja": "彼女は不眠症に苦しんでいる。" },
+      { "title": "② 原因を語る", "desc": "眠れない状態", "example_en": "Stress can cause insomnia.", "example_ja": "ストレスは不眠症を引き起こすことがある。" }
+    ],
+    "warn": ["in-（否定）＋ somnus（眠り）で「眠りがない＝不眠」。不眠症の人は insomniac", "somn- は「眠り」（somnolent〈眠い〉など）"],
+    "etym_note": "ラテン語 insomnia（in-〈否定〉+ somnus〈眠り〉）に由来します。「眠りがないこと＝不眠症」を表します。",
+    "etym_chain": [
+      { "node": "somnus", "sub": "眠り", "era": "ラテン語" },
+      { "node": "insomnia", "sub": "眠りがないこと", "era": "ラテン語" },
+      { "node": "insomnia", "sub": "不眠症", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "suffer from insomnia", "ja": "不眠症に苦しむ" },
+      { "en": "chronic insomnia", "ja": "慢性の不眠症" },
+      { "en": "an insomniac", "ja": "不眠症の人" },
+      { "en": "sleeplessness", "ja": "眠れないこと" },
+      { "en": "fall asleep", "ja": "眠りに落ちる" },
+      { "en": "a sleeping pill", "ja": "睡眠薬" }
+    ],
+    "related": [
+      { "en": "sleep", "ja": "眠る" },
+      { "en": "insomniac", "ja": "不眠症の人" },
+      { "en": "tired", "ja": "疲れた" },
+      { "en": "rest", "ja": "休息" }
+    ],
+    "faq": [
+      { "q": "不眠症の人は？", "a": "insomniac（不眠症の人）と言います。insomnia（不眠症）に -ac をつけた形です。" },
+      { "q": "語源は？", "a": "ラテン語 in-（否定）＋ somnus（眠り）で「眠りがないこと」です。somn- は「眠り」を表す語根です。" }
+    ],
+    "quiz": [
+      { "q": "insomnia の意味は？", "A": "過眠症", "B": "不眠症", "C": "頭痛", "D": "食欲不振", "correct": "B" },
+      { "q": "insomnia の語源にある somnus の意味は？", "A": "眠り", "B": "痛み", "C": "光", "D": "音", "correct": "A" }
+    ]
+  },
+  {
+    "english": "instructive",
+    "pron": "ɪnˈstrʌktɪv",
+    "kana": "インストラクティブ",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "instruct + -ive",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "ためになる／教育的な／有益な",
+    "description": "instructive の意味と使い方。学びや気づきを与えてくれる「ためになる・教育的な」様子を表す形容詞を、動詞 instruct とともに解説します。",
+    "keywords": ["instructive 意味", "instructive 使い方", "ためになる 英語", "教育的 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】ためになる、教育的な", "note": "学びや理解を与えてくれる。an instructive experience（ためになる経験）" }
+    ],
+    "usages": [
+      { "title": "① 経験を評する", "desc": "学びがある様子", "example_en": "The trip was very instructive.", "example_ja": "その旅行はとてもためになった。" },
+      { "title": "② 内容を説明する", "desc": "教育的な様子", "example_en": "She gave an instructive lecture.", "example_ja": "彼女はためになる講義をした。" }
+    ],
+    "warn": ["動詞は instruct（教える、指示する）、名詞は instruction（指示、教育）", "似た語 educational（教育的な）、informative（情報の多い）"],
+    "etym_note": "instruct（教える。ラテン語 instruere〈組み立てる・教える〉から）に「〜の性質の」を表す -ive をつけた語。「教えてくれる＝ためになる」を表します。",
+    "etym_chain": [
+      { "node": "instruere", "sub": "組み立てる・教える", "era": "ラテン語" },
+      { "node": "instruct", "sub": "教える", "era": "中英語" },
+      { "node": "instructive", "sub": "ためになる", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "an instructive experience", "ja": "ためになる経験" },
+      { "en": "an instructive example", "ja": "教訓的な例" },
+      { "en": "instruction", "ja": "指示、教育" },
+      { "en": "educational", "ja": "教育的な" },
+      { "en": "informative", "ja": "情報の多い" },
+      { "en": "enlightening", "ja": "啓発的な" }
+    ],
+    "related": [
+      { "en": "instruct", "ja": "教える" },
+      { "en": "instruction", "ja": "指示、教育" },
+      { "en": "educational", "ja": "教育的な" },
+      { "en": "informative", "ja": "情報に富んだ" }
+    ],
+    "faq": [
+      { "q": "informative との違いは？", "a": "informative は「情報が多い」、instructive は「学びや教訓を与えてくれる（ためになる）」に重点があります。" },
+      { "q": "動詞・名詞は？", "a": "動詞は instruct（教える・指示する）、名詞は instruction（指示・教育）です。" }
+    ],
+    "quiz": [
+      { "q": "instructive の意味は？", "A": "退屈な", "B": "ためになる・教育的な", "C": "危険な", "D": "無駄な", "correct": "B" },
+      { "q": "instructive の動詞形は？", "A": "instruct", "B": "instrument", "C": "instant", "D": "install", "correct": "A" }
+    ]
+  },
+  {
+    "english": "insulation",
+    "pron": "ˌɪnsjʊˈleɪʃən",
+    "kana": "インシュレーション",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 insula（島）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "科学・住宅"],
+    "meaning_main": "断熱／絶縁／防音（の材料）",
+    "description": "insulation の意味と使い方。熱・電気・音を通さないようにする「断熱・絶縁・防音」やその材料を表す名詞を、動詞 insulate とともに解説します。",
+    "keywords": ["insulation 意味", "insulation 使い方", "断熱 英語", "絶縁 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】断熱、絶縁、防音（不可算）", "note": "熱・電気・音を通さないようにすること、またその材料。thermal insulation（断熱）" }
+    ],
+    "usages": [
+      { "title": "① 住宅で使う", "desc": "断熱を表す", "example_en": "Good insulation keeps the house warm.", "example_ja": "よい断熱は家を暖かく保つ。" },
+      { "title": "② 電気で使う", "desc": "絶縁を表す", "example_en": "The wire has plastic insulation.", "example_ja": "その電線にはプラスチックの絶縁がある。" }
+    ],
+    "warn": ["動詞は insulate（断熱する、絶縁する）。island（島）と同語源で「切り離す」が原義", "熱は thermal insulation、音は sound insulation"],
+    "etym_note": "ラテン語 insula（島）に由来し、「島のように切り離す＝周囲から遮断する」が原義です。熱・電気・音を遮断することを表します。island と同語源です。",
+    "etym_chain": [
+      { "node": "insula", "sub": "島", "era": "ラテン語" },
+      { "node": "insulate", "sub": "切り離す・遮断する", "era": "近代英語" },
+      { "node": "insulation", "sub": "断熱・絶縁", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "thermal insulation", "ja": "断熱" },
+      { "en": "sound insulation", "ja": "防音" },
+      { "en": "electrical insulation", "ja": "電気絶縁" },
+      { "en": "insulate", "ja": "断熱する、絶縁する" },
+      { "en": "keep the heat in", "ja": "熱を逃がさない" },
+      { "en": "a conductor", "ja": "導体" }
+    ],
+    "related": [
+      { "en": "insulate", "ja": "断熱する" },
+      { "en": "heat", "ja": "熱" },
+      { "en": "conductor", "ja": "導体" },
+      { "en": "island", "ja": "島" }
+    ],
+    "faq": [
+      { "q": "island と関係ある？", "a": "はい。どちらもラテン語 insula（島）が語源です。insulation は「島のように周囲から切り離して遮断すること」を表します。" },
+      { "q": "どんな種類がある？", "a": "熱を遮る thermal insulation（断熱）、音を遮る sound insulation（防音）、電気を通さない electrical insulation（絶縁）があります。" }
+    ],
+    "quiz": [
+      { "q": "insulation の意味は？", "A": "断熱・絶縁・防音", "B": "発電", "C": "換気", "D": "配管", "correct": "A" },
+      { "q": "insulation と同語源の語は？", "A": "island（島）", "B": "instant（即座の）", "C": "insect（昆虫）", "D": "instrument（道具）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "interruption",
+    "pron": "ˌɪntəˈrʌpʃən",
+    "kana": "インタラプション",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 interrumpere（間を断つ）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "頻出語"],
+    "meaning_main": "中断／妨げ／（話の）割り込み",
+    "description": "interruption の意味と使い方。進行中のことを止める「中断・妨げ」や話への「割り込み」を表す名詞を、動詞 interrupt とともに解説します。",
+    "keywords": ["interruption 意味", "interruption 使い方", "中断 英語", "割り込み 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】中断、妨げ、割り込み（可算・不可算）", "note": "進行を止めること。without interruption（中断なく）" }
+    ],
+    "usages": [
+      { "title": "① 中断を表す", "desc": "止めること", "example_en": "She worked for hours without interruption.", "example_ja": "彼女は何時間も中断なく働いた。" },
+      { "title": "② 割り込みを表す", "desc": "話をさえぎる", "example_en": "Sorry for the interruption.", "example_ja": "お話の途中ですみません（割り込んでごめんなさい）。" }
+    ],
+    "warn": ["動詞は interrupt（さえぎる、中断する）。inter-（間に）＋ rupt（破る）", "without interruption は「中断なく、ひっきりなしに」"],
+    "etym_note": "ラテン語 interrumpere（inter-〈間に〉+ rumpere〈破る〉＝間を断つ）に由来します。「進行の間を断つこと＝中断」を表します。rupt（破る）は erupt, rupture にも見られます。",
+    "etym_chain": [
+      { "node": "interrumpere", "sub": "間を断つ", "era": "ラテン語" },
+      { "node": "interrupt", "sub": "さえぎる", "era": "中英語" },
+      { "node": "interruption", "sub": "中断・割り込み", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "without interruption", "ja": "中断なく" },
+      { "en": "a brief interruption", "ja": "短い中断" },
+      { "en": "sorry for the interruption", "ja": "お話の途中ですみません" },
+      { "en": "interrupt", "ja": "さえぎる" },
+      { "en": "a break", "ja": "休止、中断" },
+      { "en": "a disturbance", "ja": "妨害" }
+    ],
+    "related": [
+      { "en": "interrupt", "ja": "さえぎる" },
+      { "en": "disturb", "ja": "妨げる" },
+      { "en": "pause", "ja": "一時停止" },
+      { "en": "break", "ja": "中断" }
+    ],
+    "faq": [
+      { "q": "動詞は？", "a": "interrupt（さえぎる、中断する）です。inter-（間に）＋ rupt（破る）で「進行の間に割り込む」を表します。" },
+      { "q": "without interruption とは？", "a": "「中断なく・ひっきりなしに」という意味です。何かが止まらずに続く様子を表します。" }
+    ],
+    "quiz": [
+      { "q": "interruption の意味は？", "A": "継続", "B": "中断・割り込み", "C": "完成", "D": "開始", "correct": "B" },
+      { "q": "interruption の動詞形は？", "A": "interrupt", "B": "interview", "C": "interact", "D": "interfere", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kilogram",
+    "pron": "ˈkɪləɡræm",
+    "kana": "キログラム",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "kilo-(千) + gram",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A1", "単位"],
+    "meaning_main": "キログラム（重さの単位、1000グラム）",
+    "description": "kilogram の意味と使い方。重さの単位「キログラム（1000グラム）」を表す名詞を、接頭辞 kilo-（千）とともに解説します。",
+    "keywords": ["kilogram 意味", "kilogram 使い方", "キログラム 英語", "重さ 単位 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】キログラム（可算）", "note": "重さの単位。1キログラム＝1000グラム。略号は kg。イギリスでは kilogramme とも" }
+    ],
+    "usages": [
+      { "title": "① 重さを表す", "desc": "単位として使う", "example_en": "This bag weighs two kilograms.", "example_ja": "このかばんは2キログラムある。" },
+      { "title": "② 買い物で使う", "desc": "量を伝える", "example_en": "I bought a kilogram of apples.", "example_ja": "私はリンゴを1キログラム買った。" }
+    ],
+    "warn": ["接頭辞 kilo- は「千（1000倍）」。1 kilogram = 1000 grams。略号 kg", "口語では kilo（キロ）と略す。長さの kilometer（キロメートル）も同じ kilo-"],
+    "etym_note": "接頭辞 kilo-（ギリシャ語 khilioi〈千〉から。1000倍）と gram（重さの基本単位）を合わせた語。「1000グラム」を表します。",
+    "etym_chain": [
+      { "node": "khilioi", "sub": "千", "era": "ギリシャ語" },
+      { "node": "kilo-", "sub": "1000倍", "era": "近代（メートル法）" },
+      { "node": "kilogram", "sub": "キログラム", "era": "18世紀末" }
+    ],
+    "phrases": [
+      { "en": "two kilograms", "ja": "2キログラム" },
+      { "en": "a kilogram of rice", "ja": "米1キログラム" },
+      { "en": "kilo", "ja": "キロ（略）" },
+      { "en": "gram", "ja": "グラム" },
+      { "en": "kilometer", "ja": "キロメートル" },
+      { "en": "weight", "ja": "重さ" }
+    ],
+    "related": [
+      { "en": "gram", "ja": "グラム" },
+      { "en": "kilometer", "ja": "キロメートル" },
+      { "en": "weight", "ja": "重さ" },
+      { "en": "pound", "ja": "ポンド（重さの単位）" }
+    ],
+    "faq": [
+      { "q": "接頭辞 kilo- の意味は？", "a": "「千（1000倍）」を表します。kilogram（1000グラム）、kilometer（1000メートル）、kilobyte（1000バイト）などに使われます。" },
+      { "q": "略号・略語は？", "a": "略号は kg です。口語では kilo（キロ）と略すこともあります。" }
+    ],
+    "quiz": [
+      { "q": "1キログラムは何グラム？", "A": "100グラム", "B": "1000グラム", "C": "10グラム", "D": "10000グラム", "correct": "B" },
+      { "q": "接頭辞 kilo- の意味は？", "A": "百", "B": "千", "C": "十", "D": "百万", "correct": "B" }
+    ]
+  },
+  {
+    "english": "manufacturing",
+    "pron": "ˌmænjʊˈfæktʃərɪŋ",
+    "kana": "マニュファクチャリング",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "manu-(手) + facture(作る)",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "ビジネス・産業"],
+    "meaning_main": "製造／製造業",
+    "description": "manufacturing の意味と使い方。工場などで製品を大量に作る「製造・製造業」を表す名詞を、動詞 manufacture とともに解説します。",
+    "keywords": ["manufacturing 意味", "manufacturing 使い方", "製造 英語", "製造業 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】製造、製造業（不可算）", "note": "工場で製品を大量生産すること・その産業。the manufacturing industry" }
+    ],
+    "usages": [
+      { "title": "① 産業を表す", "desc": "製造業を指す", "example_en": "Manufacturing is a key part of the economy.", "example_ja": "製造業は経済の重要な部分だ。" },
+      { "title": "② 生産を表す", "desc": "製造の過程", "example_en": "Car manufacturing requires many workers.", "example_ja": "自動車の製造には多くの労働者が必要だ。" }
+    ],
+    "warn": ["動詞は manufacture（製造する）、製造業者は manufacturer", "「手で作る」が原義だが、今は工場での大量生産を指す"],
+    "etym_note": "ラテン語 manu（手で）と factura（作ること）を合わせた manufacture（製造する）から。もとは「手で作る」意味でしたが、産業革命後は工場での大量生産を表すようになりました。",
+    "etym_chain": [
+      { "node": "manu + factura", "sub": "手で作ること", "era": "ラテン語" },
+      { "node": "manufacture", "sub": "製造する", "era": "近代英語" },
+      { "node": "manufacturing", "sub": "製造・製造業", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "the manufacturing industry", "ja": "製造業" },
+      { "en": "car manufacturing", "ja": "自動車製造" },
+      { "en": "a manufacturer", "ja": "製造業者、メーカー" },
+      { "en": "manufacture", "ja": "製造する" },
+      { "en": "a factory", "ja": "工場" },
+      { "en": "mass production", "ja": "大量生産" }
+    ],
+    "related": [
+      { "en": "manufacture", "ja": "製造する" },
+      { "en": "manufacturer", "ja": "製造業者" },
+      { "en": "factory", "ja": "工場" },
+      { "en": "production", "ja": "生産" }
+    ],
+    "faq": [
+      { "q": "製造業者は？", "a": "manufacturer（製造業者・メーカー）です。動詞 manufacture（製造する）に -er をつけた形です。" },
+      { "q": "原義は？", "a": "ラテン語で「手で作る（manu＋facture）」が原義です。今は工場での大量生産を指すのが普通です。" }
+    ],
+    "quiz": [
+      { "q": "manufacturing の意味は？", "A": "販売", "B": "製造・製造業", "C": "輸送", "D": "広告", "correct": "B" },
+      { "q": "manufacturing の動詞形は？", "A": "manufacture", "B": "manage", "C": "manipulate", "D": "maintain", "correct": "A" }
+    ]
+  },
+  {
+    "english": "meek",
+    "pron": "miːk",
+    "kana": "ミーク",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "古ノルド語 mjūkr（柔和な）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "性格語"],
+    "meaning_main": "おとなしい／従順な／控えめでおだやかな",
+    "description": "meek の意味と使い方。逆らわず控えめでおとなしい「従順な・おだやかな」性格を表す形容詞を解説します。",
+    "keywords": ["meek 意味", "meek 使い方", "おとなしい 英語", "従順 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】おとなしい、従順な、控えめな", "note": "逆らわず静かで控えめな様子。時に「気弱な」という含みも。a meek person" }
+    ],
+    "usages": [
+      { "title": "① 性格を説明する", "desc": "おとなしい様子", "example_en": "She is quiet and meek.", "example_ja": "彼女は静かでおとなしい。" },
+      { "title": "② 態度を表す", "desc": "控えめな態度", "example_en": "He gave a meek reply.", "example_ja": "彼は控えめな返事をした。" }
+    ],
+    "warn": ["名詞は meekness（従順さ）。「気弱・言いなり」という否定的な含みを持つこともある", "似た語 humble（謙虚な）、submissive（服従的な）"],
+    "etym_note": "古ノルド語 mjūkr（柔らかい・柔和な）に由来します。「柔らかく穏やかな＝おとなしい・従順な」を表します。",
+    "etym_chain": [
+      { "node": "mjūkr", "sub": "柔和な", "era": "古ノルド語" },
+      { "node": "meke", "sub": "おとなしい", "era": "中英語" },
+      { "node": "meek", "sub": "従順な・控えめな", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a meek person", "ja": "おとなしい人" },
+      { "en": "meek and mild", "ja": "おとなしく穏やかな" },
+      { "en": "a meek reply", "ja": "控えめな返事" },
+      { "en": "meekness", "ja": "従順さ" },
+      { "en": "humble", "ja": "謙虚な" },
+      { "en": "submissive", "ja": "服従的な" }
+    ],
+    "related": [
+      { "en": "humble", "ja": "謙虚な" },
+      { "en": "gentle", "ja": "穏やかな" },
+      { "en": "submissive", "ja": "服従的な" },
+      { "en": "timid", "ja": "臆病な" }
+    ],
+    "faq": [
+      { "q": "humble との違いは？", "a": "humble は「謙虚な（肯定的）」、meek は「おとなしく従順な」で、時に「気弱で言いなり」という否定的な含みも持ちます。" },
+      { "q": "名詞形は？", "a": "meekness（従順さ、おとなしさ）です。" }
+    ],
+    "quiz": [
+      { "q": "meek の意味は？", "A": "攻撃的な", "B": "おとなしい・従順な", "C": "陽気な", "D": "傲慢な", "correct": "B" },
+      { "q": "meek と近い意味は？", "A": "submissive", "B": "aggressive", "C": "arrogant", "D": "bold", "correct": "A" }
+    ]
+  },
+  {
+    "english": "narrow-minded",
+    "pron": "ˌnærəʊ ˈmaɪndɪd",
+    "kana": "ナロー・マインデッド",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "narrow + minded",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "性格語"],
+    "meaning_main": "心の狭い／偏狭な／視野の狭い",
+    "description": "narrow-minded の意味と使い方。違う考えを受け入れない「心の狭い・偏狭な」性格を表す形容詞を、対義語 broad-minded とともに解説します。",
+    "keywords": ["narrow-minded 意味", "narrow-minded 使い方", "心が狭い 英語", "偏狭 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】心の狭い、偏狭な", "note": "自分の考えに固執し、他を受け入れない様子。否定的な語。対義語は broad-minded" }
+    ],
+    "usages": [
+      { "title": "① 態度を批判する", "desc": "偏狭さを表す", "example_en": "Don't be so narrow-minded about other cultures.", "example_ja": "他の文化についてそんなに偏狭にならないで。" },
+      { "title": "② 人柄を説明する", "desc": "視野の狭さ", "example_en": "His narrow-minded views annoyed everyone.", "example_ja": "彼の偏狭な考えは皆をいらだたせた。" }
+    ],
+    "warn": ["ハイフンつきの 'narrow-minded' が標準。対義語は broad-minded / open-minded（心が広い）", "否定的な語。narrow（狭い）＋ minded（〜の心の）"],
+    "etym_note": "narrow（狭い）と minded（mind〈心〉をもった）を合わせた語。「狭い心をもった＝偏狭な」を表します。broad-minded（心が広い）と対になります。",
+    "etym_chain": [
+      { "node": "nearu", "sub": "狭い", "era": "古英語" },
+      { "node": "narrow", "sub": "狭い", "era": "中英語" },
+      { "node": "narrow-minded", "sub": "心の狭い", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a narrow-minded person", "ja": "心の狭い人" },
+      { "en": "narrow-minded views", "ja": "偏狭な考え" },
+      { "en": "broad-minded", "ja": "心が広い" },
+      { "en": "open-minded", "ja": "偏見のない" },
+      { "en": "prejudiced", "ja": "偏見のある" },
+      { "en": "intolerant", "ja": "不寛容な" }
+    ],
+    "related": [
+      { "en": "broad-minded", "ja": "心が広い" },
+      { "en": "open-minded", "ja": "偏見のない" },
+      { "en": "narrow", "ja": "狭い" },
+      { "en": "prejudiced", "ja": "偏見のある" }
+    ],
+    "faq": [
+      { "q": "対義語は？", "a": "broad-minded（心が広い）や open-minded（偏見のない）です。narrow-minded は「狭い心＝偏狭な」を表します。" },
+      { "q": "つづりは？", "a": "ハイフンつきの narrow-minded が標準です。narrow（狭い）＋ minded（〜の心の）で成り立ちます。" }
+    ],
+    "quiz": [
+      { "q": "narrow-minded の意味は？", "A": "心が広い", "B": "心の狭い・偏狭な", "C": "忘れっぽい", "D": "気前のよい", "correct": "B" },
+      { "q": "narrow-minded の対義語は？", "A": "open-minded", "B": "absent-minded", "C": "strong-minded", "D": "single-minded", "correct": "A" }
+    ]
+  },
+  {
+    "english": "painkiller",
+    "pron": "ˈpeɪnkɪlər",
+    "kana": "ペインキラー",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "pain + killer",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "医学・生活"],
+    "meaning_main": "痛み止め／鎮痛剤",
+    "description": "painkiller の意味と使い方。痛みをやわらげる「痛み止め・鎮痛剤」を表す名詞を、可算名詞として例文つきで解説します。",
+    "keywords": ["painkiller 意味", "painkiller 使い方", "痛み止め 英語", "鎮痛剤 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】痛み止め、鎮痛剤（可算）", "note": "痛みをやわらげる薬。take a painkiller（痛み止めを飲む）" }
+    ],
+    "usages": [
+      { "title": "① 薬を表す", "desc": "鎮痛剤を指す", "example_en": "She took a painkiller for her headache.", "example_ja": "彼女は頭痛のために痛み止めを飲んだ。" },
+      { "title": "② 効果を述べる", "desc": "痛みを抑える", "example_en": "The painkiller started to work.", "example_ja": "その痛み止めが効き始めた。" }
+    ],
+    "warn": ["pain（痛み）＋ killer（消すもの）で「痛みを消すもの＝鎮痛剤」", "医学用語では analgesic（鎮痛剤）とも言う"],
+    "etym_note": "pain（痛み）と killer（kill〈消す・殺す〉するもの）を合わせた語。「痛みを消すもの＝鎮痛剤」を表します。",
+    "etym_chain": [
+      { "node": "pain", "sub": "痛み", "era": "中英語" },
+      { "node": "painkiller", "sub": "痛みを消すもの", "era": "19世紀英語" },
+      { "node": "painkiller", "sub": "鎮痛剤", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "take a painkiller", "ja": "痛み止めを飲む" },
+      { "en": "a strong painkiller", "ja": "強い鎮痛剤" },
+      { "en": "over-the-counter painkillers", "ja": "市販の痛み止め" },
+      { "en": "an analgesic", "ja": "鎮痛剤（医学用語）" },
+      { "en": "relieve pain", "ja": "痛みをやわらげる" },
+      { "en": "medicine", "ja": "薬" }
+    ],
+    "related": [
+      { "en": "pain", "ja": "痛み" },
+      { "en": "medicine", "ja": "薬" },
+      { "en": "relief", "ja": "軽減" },
+      { "en": "drug", "ja": "薬" }
+    ],
+    "faq": [
+      { "q": "medical な言い方は？", "a": "analgesic（鎮痛剤）です。painkiller は日常的な言い方で、意味は同じです。" },
+      { "q": "どんな種類がある？", "a": "市販薬（over-the-counter）から処方薬までさまざまです。頭痛・生理痛などにはアスピリンやイブプロフェンなどが使われます。" }
+    ],
+    "quiz": [
+      { "q": "painkiller の意味は？", "A": "解熱剤", "B": "痛み止め・鎮痛剤", "C": "睡眠薬", "D": "ビタミン剤", "correct": "B" },
+      { "q": "painkiller の医学用語は？", "A": "analgesic", "B": "antibiotic", "C": "vaccine", "D": "vitamin", "correct": "A" }
+    ]
+  },
+  {
+    "english": "patriarchy",
+    "pron": "ˈpeɪtriɑːki",
+    "kana": "ペイトリアーキー",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ギリシャ語 patēr(父) + archē(支配)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "社会・政治"],
+    "meaning_main": "家父長制／男性支配の社会制度",
+    "description": "patriarchy の意味と使い方。男性が権力や地位を握る社会制度「家父長制」を表す名詞を、対義語 matriarchy とともに解説します。",
+    "keywords": ["patriarchy 意味", "patriarchy 使い方", "家父長制 英語", "男性支配 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】家父長制、男性支配（不可算・可算）", "note": "男性が家庭・社会の権力を握る制度。対義語は matriarchy（女性支配）" }
+    ],
+    "usages": [
+      { "title": "① 制度を説明する", "desc": "男性支配を表す", "example_en": "They challenged the patriarchy of the time.", "example_ja": "彼らは当時の家父長制に異を唱えた。" },
+      { "title": "② 社会を論じる", "desc": "権力構造を表す", "example_en": "Feminists criticize patriarchy.", "example_ja": "フェミニストは家父長制を批判する。" }
+    ],
+    "warn": ["対義語は matriarchy（女性支配・母系制）。家長・族長は patriarch", "patri-（父）＋ -archy（支配）。monarchy（君主制）と同じ -archy"],
+    "etym_note": "ギリシャ語 patēr（父）と archē（支配・始まり）を合わせた語。「父（男性）による支配」を表します。-archy は monarchy（君主制）などにも見られます。",
+    "etym_chain": [
+      { "node": "patēr + archē", "sub": "父＋支配", "era": "ギリシャ語" },
+      { "node": "patriarchy", "sub": "家父長制", "era": "近代英語" },
+      { "node": "patriarchy", "sub": "男性支配の制度", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "challenge the patriarchy", "ja": "家父長制に異を唱える" },
+      { "en": "a patriarchal society", "ja": "家父長制の社会" },
+      { "en": "matriarchy", "ja": "女性支配、母系制" },
+      { "en": "a patriarch", "ja": "家長、族長" },
+      { "en": "gender equality", "ja": "男女平等" },
+      { "en": "male dominance", "ja": "男性優位" }
+    ],
+    "related": [
+      { "en": "matriarchy", "ja": "女性支配" },
+      { "en": "patriarch", "ja": "家長" },
+      { "en": "gender", "ja": "性別" },
+      { "en": "hierarchy", "ja": "階層" }
+    ],
+    "faq": [
+      { "q": "対義語は？", "a": "matriarchy（女性支配・母系制）です。patri-（父）と matri-（母）で対になります。" },
+      { "q": "-archy とは？", "a": "「支配・統治」を表す語尾です。monarchy（君主制）、anarchy（無政府）、hierarchy（階層）などに使われます。" }
+    ],
+    "quiz": [
+      { "q": "patriarchy の意味は？", "A": "女性支配", "B": "家父長制・男性支配", "C": "無政府状態", "D": "民主主義", "correct": "B" },
+      { "q": "patriarchy の対義語は？", "A": "monarchy", "B": "matriarchy", "C": "anarchy", "D": "oligarchy", "correct": "B" }
+    ]
+  },
+  {
+    "english": "pea",
+    "pron": "piː",
+    "kana": "ピー",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "ラテン語 pisum（エンドウ）",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A1", "食べ物"],
+    "meaning_main": "エンドウ豆／グリーンピース",
+    "description": "pea の意味と使い方。丸い緑色の豆「エンドウ豆（グリーンピース）」を表す名詞を、可算名詞として例文つきで解説します。",
+    "keywords": ["pea 意味", "pea 使い方", "エンドウ豆 英語", "グリーンピース 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】エンドウ豆（可算）", "note": "さやの中にできる小さな丸い緑の豆。ふつう複数 peas。green peas（グリーンピース）" }
+    ],
+    "usages": [
+      { "title": "① 食べ物として", "desc": "豆を指す", "example_en": "I like peas in my soup.", "example_ja": "私はスープにエンドウ豆を入れるのが好きだ。" },
+      { "title": "② 料理で使う", "desc": "野菜として使う", "example_en": "Add some green peas to the rice.", "example_ja": "ご飯にグリーンピースを少し加える。" }
+    ],
+    "warn": ["ふつう複数形 peas で使う。like two peas in a pod は「うり二つ」の慣用句", "さやは pod。豆類には bean（豆）もある"],
+    "etym_note": "ラテン語 pisum（エンドウ）に由来します。古英語では pease でしたが、これが単数のように誤解され、単数 pea・複数 peas という形が生まれました。",
+    "etym_chain": [
+      { "node": "pisum", "sub": "エンドウ", "era": "ラテン語" },
+      { "node": "pease", "sub": "エンドウ豆", "era": "古英語" },
+      { "node": "pea", "sub": "エンドウ豆", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "green peas", "ja": "グリーンピース" },
+      { "en": "a pod of peas", "ja": "エンドウのさや" },
+      { "en": "like two peas in a pod", "ja": "うり二つ" },
+      { "en": "split pea soup", "ja": "エンドウ豆のスープ" },
+      { "en": "a bean", "ja": "豆" },
+      { "en": "a vegetable", "ja": "野菜" }
+    ],
+    "related": [
+      { "en": "bean", "ja": "豆" },
+      { "en": "pod", "ja": "さや" },
+      { "en": "vegetable", "ja": "野菜" },
+      { "en": "green", "ja": "緑の" }
+    ],
+    "faq": [
+      { "q": "like two peas in a pod とは？", "a": "「うり二つ、そっくり」という慣用句です。同じさやの中の豆のように似ていることからの表現です。" },
+      { "q": "bean との違いは？", "a": "どちらも豆ですが、pea は丸い小さなエンドウ豆、bean はインゲンや大豆など幅広い豆を指します。" }
+    ],
+    "quiz": [
+      { "q": "pea の意味は？", "A": "トウモロコシ", "B": "エンドウ豆", "C": "ジャガイモ", "D": "ニンジン", "correct": "B" },
+      { "q": "like two peas in a pod の意味は？", "A": "うり二つ", "B": "正反対", "C": "けんか中", "D": "行方不明", "correct": "A" }
+    ]
+  },
+  {
+    "english": "personification",
+    "pron": "pəˌsɒnɪfɪˈkeɪʃən",
+    "kana": "パーソニフィケーション",
+    "hinshi": "名詞",
+    "ld_pos": "noun",
+    "ld_etym": "person + -ify + -ation",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文学・修辞"],
+    "meaning_main": "擬人化／（ある性質の）化身・権化",
+    "description": "personification の意味と使い方。物や概念を人のように表す「擬人化」と、ある性質そのものを表す「化身」を表す名詞を解説します。",
+    "keywords": ["personification 意味", "personification 使い方", "擬人化 英語", "化身 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】擬人化（可算・不可算）", "note": "物や概念を人のように表す修辞法。The wind whispered. のような表現" },
+      { "hinshi": "【名詞】化身、権化", "note": "ある性質そのものを体現する人・物。the personification of kindness（親切の化身）" }
+    ],
+    "usages": [
+      { "title": "① 修辞法を表す", "desc": "擬人化を指す", "example_en": "\"The sun smiled\" is an example of personification.", "example_ja": "「太陽がほほえんだ」は擬人化の例だ。" },
+      { "title": "② 化身を表す", "desc": "性質の体現", "example_en": "She is the personification of patience.", "example_ja": "彼女は忍耐の化身だ。" }
+    ],
+    "warn": ["動詞は personify（擬人化する、体現する）", "文学の修辞法（比喩の一種）としてよく学ぶ"],
+    "etym_note": "person（人）に「〜化する」を表す -ify、「〜すること」を表す -ation をつけた語。「人のように表すこと＝擬人化」を表します。",
+    "etym_chain": [
+      { "node": "persona", "sub": "人・仮面", "era": "ラテン語" },
+      { "node": "personify", "sub": "擬人化する", "era": "近代英語" },
+      { "node": "personification", "sub": "擬人化", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "use personification", "ja": "擬人化を使う" },
+      { "en": "the personification of evil", "ja": "悪の化身" },
+      { "en": "personify", "ja": "擬人化する、体現する" },
+      { "en": "a metaphor", "ja": "隠喩" },
+      { "en": "a figure of speech", "ja": "比喩表現" },
+      { "en": "an embodiment", "ja": "具現、化身" }
+    ],
+    "related": [
+      { "en": "personify", "ja": "擬人化する" },
+      { "en": "metaphor", "ja": "隠喩" },
+      { "en": "symbol", "ja": "象徴" },
+      { "en": "embodiment", "ja": "具現" }
+    ],
+    "faq": [
+      { "q": "擬人化の例は？", "a": "「風がささやく」「時間が過ぎ去る」など、人でないものを人のように表す表現です。詩や物語でよく使われる修辞法です。" },
+      { "q": "「化身」の意味は？", "a": "ある性質そのものを体現する人・物を指します。the personification of 〜（〜の化身・権化）の形で使います。" }
+    ],
+    "quiz": [
+      { "q": "personification の意味は？", "A": "擬人化", "B": "個人情報", "C": "人口", "D": "性格診断", "correct": "A" },
+      { "q": "personification の例は？", "A": "太陽がほほえんだ", "B": "太陽は熱い", "C": "太陽は星だ", "D": "太陽が沈んだ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "philanthropic",
+    "pron": "ˌfɪlənˈθrɒpɪk",
+    "kana": "フィランスロピック",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "ギリシャ語 phil-(愛) + anthrōpos(人)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "社会"],
+    "meaning_main": "慈善の／博愛の／人助けを目的とする",
+    "description": "philanthropic の意味と使い方。困っている人を助ける「慈善の・博愛の」活動を表す形容詞を、名詞 philanthropy とともに解説します。",
+    "keywords": ["philanthropic 意味", "philanthropic 使い方", "慈善 英語", "博愛 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】慈善の、博愛の", "note": "人助けを目的とする。a philanthropic organization（慈善団体）" }
+    ],
+    "usages": [
+      { "title": "① 活動を説明する", "desc": "慈善的な様子", "example_en": "The foundation does philanthropic work.", "example_ja": "その財団は慈善活動をしている。" },
+      { "title": "② 人物を評する", "desc": "博愛的な様子", "example_en": "He is known for his philanthropic efforts.", "example_ja": "彼は慈善活動で知られている。" }
+    ],
+    "warn": ["名詞は philanthropy（慈善、博愛）、慈善家は philanthropist", "phil-（愛）＋ anthropos（人）で「人を愛すること」"],
+    "etym_note": "ギリシャ語 phil-（愛する）と anthrōpos（人間）を合わせた語。「人類を愛すること＝博愛・慈善」を表します。phil-（愛）は philosophy（哲学＝知を愛する）にも見られます。",
+    "etym_chain": [
+      { "node": "phil- + anthrōpos", "sub": "人を愛する", "era": "ギリシャ語" },
+      { "node": "philanthropy", "sub": "博愛・慈善", "era": "近代英語" },
+      { "node": "philanthropic", "sub": "慈善の", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a philanthropic organization", "ja": "慈善団体" },
+      { "en": "philanthropic work", "ja": "慈善活動" },
+      { "en": "philanthropy", "ja": "慈善、博愛" },
+      { "en": "a philanthropist", "ja": "慈善家" },
+      { "en": "charity", "ja": "慈善" },
+      { "en": "donate", "ja": "寄付する" }
+    ],
+    "related": [
+      { "en": "philanthropy", "ja": "慈善、博愛" },
+      { "en": "philanthropist", "ja": "慈善家" },
+      { "en": "charity", "ja": "慈善" },
+      { "en": "generous", "ja": "気前のよい" }
+    ],
+    "faq": [
+      { "q": "慈善家は？", "a": "philanthropist（慈善家・博愛主義者）です。名詞 philanthropy（慈善）とともに使われます。" },
+      { "q": "phil- の意味は？", "a": "「愛する」を表すギリシャ語由来の要素です。philosophy（知を愛する＝哲学）、philharmonic（音楽を愛する）などにも見られます。" }
+    ],
+    "quiz": [
+      { "q": "philanthropic の意味は？", "A": "利己的な", "B": "慈善の・博愛の", "C": "科学的な", "D": "経済的な", "correct": "B" },
+      { "q": "philanthropic の phil- の意味は？", "A": "愛する", "B": "恐れる", "C": "嫌う", "D": "疑う", "correct": "A" }
+    ]
+  },
+  {
+    "english": "porous",
+    "pron": "ˈpɔːrəs",
+    "kana": "ポーラス",
+    "hinshi": "形容詞",
+    "ld_pos": "adjective",
+    "ld_etym": "ラテン語 porus（穴）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "科学"],
+    "meaning_main": "多孔性の／小さな穴が多く水・空気を通す",
+    "description": "porous の意味と使い方。小さな穴がたくさんあり水や空気を通す「多孔性の」性質を表す形容詞を、名詞 pore とともに解説します。",
+    "keywords": ["porous 意味", "porous 使い方", "多孔性 英語", "穴が多い 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】多孔性の、穴の多い", "note": "小さな穴が多く、液体や気体を通す。porous rock（多孔質の岩）" }
+    ],
+    "usages": [
+      { "title": "① 素材を説明する", "desc": "穴が多い様子", "example_en": "Sponges are porous and absorb water.", "example_ja": "スポンジは多孔性で水を吸収する。" },
+      { "title": "② 地質で使う", "desc": "水を通す様子", "example_en": "Porous rock allows water to seep through.", "example_ja": "多孔質の岩は水がしみ通る。" }
+    ],
+    "warn": ["名詞は pore（小さな穴、毛穴）。反対は non-porous（水を通さない）", "肌の「毛穴」も pore。porous はその形容詞的な性質"],
+    "etym_note": "ラテン語 porus（通り道・穴、ギリシャ語 poros から）に由来します。「小さな穴が多く通り抜けられる＝多孔性の」を表します。名詞は pore（穴）です。",
+    "etym_chain": [
+      { "node": "poros", "sub": "通り道・穴", "era": "ギリシャ語" },
+      { "node": "porus", "sub": "穴", "era": "ラテン語" },
+      { "node": "porous", "sub": "多孔性の", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "porous rock", "ja": "多孔質の岩" },
+      { "en": "a porous material", "ja": "多孔性の素材" },
+      { "en": "pore", "ja": "小さな穴、毛穴" },
+      { "en": "non-porous", "ja": "水を通さない" },
+      { "en": "absorb water", "ja": "水を吸収する" },
+      { "en": "permeable", "ja": "透過性の" }
+    ],
+    "related": [
+      { "en": "pore", "ja": "小さな穴" },
+      { "en": "absorb", "ja": "吸収する" },
+      { "en": "permeable", "ja": "透過性の" },
+      { "en": "sponge", "ja": "スポンジ" }
+    ],
+    "faq": [
+      { "q": "名詞形は？", "a": "pore（小さな穴）です。肌の「毛穴」も pore と言います。porous はその「穴が多い」という形容詞です。" },
+      { "q": "反対の語は？", "a": "non-porous（穴がなく水・空気を通さない）です。ガラスや金属などが該当します。" }
+    ],
+    "quiz": [
+      { "q": "porous の意味は？", "A": "つるつるした", "B": "多孔性の・穴が多く水を通す", "C": "硬い", "D": "透明な", "correct": "B" },
+      { "q": "porous の名詞形は？", "A": "pore（小さな穴）", "B": "port（港）", "C": "power（力）", "D": "pour（注ぐ）", "correct": "A" }
+    ]
+  }
+]
