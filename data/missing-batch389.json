@@ -1,0 +1,991 @@
+[
+  {
+    "english": "dispersion",
+    "pron": "dɪˈspɜːrʒən",
+    "kana": "ディスパージョン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "disperse（散らす）+ -ion",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "科学・統計"],
+    "meaning_main": "分散／散布／（光の）分光",
+    "description": "dispersion（ディスパージョン）の意味・使い方。ものが広がって「分散・散布」することを表す名詞。物理の「光の分散」、統計の「ばらつき」も解説します。",
+    "keywords": ["dispersion 意味", "分散 英語", "散布 英語", "光の分散 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】分散・散布", "note": "ものが広い範囲に散らばること" },
+      { "hinshi": "【名詞】（光の）分散／（統計の）ばらつき", "note": "光がプリズムで色に分かれること、データの散らばり" }
+    ],
+    "usages": [
+      { "title": "① 広がり・散布", "desc": "散らばりを表す", "example_en": "The dispersion of seeds helps plants spread.", "example_ja": "種子の散布は植物の繁殖を助ける。" },
+      { "title": "② 光の分散", "desc": "色に分かれることを表す", "example_en": "A prism causes the dispersion of light.", "example_ja": "プリズムは光の分散を引き起こす。" }
+    ],
+    "warn": ["動詞は disperse（散らす）。統計では「ばらつき（分散度）」を指す。"],
+    "etym_note": "ラテン語 dispergere（まき散らす）に由来する disperse に -ion が付いた語。",
+    "etym_chain": [
+      { "node": "dispergere", "sub": "まき散らす", "era": "ラテン語" },
+      { "node": "disperse", "sub": "散らす", "era": "中英語" },
+      { "node": "dispersion", "sub": "分散", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the dispersion of light", "ja": "光の分散" },
+      { "en": "seed dispersion", "ja": "種子の散布" },
+      { "en": "wide dispersion", "ja": "広い分散" },
+      { "en": "the dispersion of population", "ja": "人口の分散" },
+      { "en": "a measure of dispersion", "ja": "ばらつきの尺度" },
+      { "en": "spatial dispersion", "ja": "空間的分散" }
+    ],
+    "related": [
+      { "en": "disperse", "ja": "散らす" },
+      { "en": "dispersal", "ja": "分散・散布" },
+      { "en": "distribution", "ja": "分布" },
+      { "en": "concentration", "ja": "集中" }
+    ],
+    "faq": [
+      { "q": "dispersion と distribution の違いは？", "a": "distribution は「分布・配分（どこにどう配られているか）」、dispersion は「散らばって広がること・ばらつき」に重点があります。" },
+      { "q": "統計での dispersion とは？", "a": "データの「ばらつき（散らばり具合）」を指し、分散や標準偏差で表します。" }
+    ],
+    "quiz": [
+      { "q": "dispersion の意味は？", "A": "集中", "B": "分散・散布", "C": "固定", "D": "結合", "correct": "B" },
+      { "q": "光の dispersion で起こるのは？", "A": "光が消える", "B": "光が色に分かれる", "C": "光が止まる", "D": "光が集まる", "correct": "B" }
+    ]
+  },
+  {
+    "english": "displaced",
+    "pron": "dɪsˈpleɪst",
+    "kana": "ディスプレイスト",
+    "hinshi": "形容詞 / 動詞",
+    "ld_pos": "形容詞・動詞",
+    "ld_etym": "displace（立ち退かせる）の過去分詞",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "社会頻出"],
+    "meaning_main": "（本来の場所から）追われた／移動させられた／取って代わられた",
+    "description": "displaced（ディスプレイスト）の意味・使い方。本来の場所から「追われた・移動させられた」を表す形容詞。displaced people（避難民）などで頻出です。",
+    "keywords": ["displaced 意味", "避難民 英語", "追われた 英語", "displaced 使い方"],
+    "meanings": [
+      { "hinshi": "【形容詞】（居場所を）追われた・移動させられた", "note": "災害・紛争などで本来の場所から離れざるを得なくなった" },
+      { "hinshi": "【動詞】displace の過去・過去分詞", "note": "「立ち退かせた」「取って代わった」" }
+    ],
+    "usages": [
+      { "title": "① 避難を強いられた", "desc": "居場所を失った状態を表す", "example_en": "The war left millions of people displaced.", "example_ja": "その戦争は数百万人を避難民にした。" },
+      { "title": "② 取って代わられた", "desc": "置き換えられたことを表す", "example_en": "Many workers were displaced by machines.", "example_ja": "多くの労働者が機械に取って代わられた。" }
+    ],
+    "warn": ["displaced person(s)（避難民、DP）が定番。原形 displace（立ち退かせる・取って代わる）。"],
+    "etym_note": "dis-（除く）+ place（場所）から成る displace の過去分詞。",
+    "etym_chain": [
+      { "node": "dis- + place", "sub": "場所から外す", "era": "近代英語" },
+      { "node": "displace", "sub": "立ち退かせる", "era": "近代英語" },
+      { "node": "displaced", "sub": "追われた", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "displaced people", "ja": "避難民" },
+      { "en": "internally displaced persons", "ja": "国内避難民" },
+      { "en": "displaced by war", "ja": "戦争で避難を強いられて" },
+      { "en": "displaced workers", "ja": "職を奪われた労働者" },
+      { "en": "feel displaced", "ja": "疎外感を覚える" },
+      { "en": "displaced from home", "ja": "家を追われて" }
+    ],
+    "related": [
+      { "en": "displace", "ja": "立ち退かせる" },
+      { "en": "displacement", "ja": "移動・追放" },
+      { "en": "refugee", "ja": "難民" },
+      { "en": "evacuee", "ja": "避難者" }
+    ],
+    "faq": [
+      { "q": "displaced person と refugee の違いは？", "a": "refugee は「国境を越えて逃れた難民」、displaced person は「国内外を問わず居場所を追われた人」で、特に国内なら internally displaced person（国内避難民）と言います。" },
+      { "q": "原形は？", "a": "displace（立ち退かせる・取って代わる）です。" }
+    ],
+    "quiz": [
+      { "q": "displaced の意味は？", "A": "定住した", "B": "（居場所を）追われた・移動させられた", "C": "昇進した", "D": "帰還した", "correct": "B" },
+      { "q": "displaced people の意味は？", "A": "旅行者", "B": "避難民", "C": "移民労働者", "D": "観光客", "correct": "B" }
+    ]
+  },
+  {
+    "english": "disproportionately",
+    "pron": "ˌdɪsprəˈpɔːrʃənətli",
+    "kana": "ディスプロポーショネイトリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "disproportionate（不釣り合いな）+ -ly",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "学術・報道"],
+    "meaning_main": "不釣り合いに／過度に／偏って",
+    "description": "disproportionately（ディスプロポーショネイトリー）の意味・使い方。比率が釣り合わず「不釣り合いに・偏って」を表す副詞。統計や社会問題で頻出です。",
+    "keywords": ["disproportionately 意味", "不釣り合いに 英語", "偏って 英語", "disproportionate 副詞"],
+    "meanings": [
+      { "hinshi": "【副詞】不釣り合いに・過度に・偏って", "note": "本来の割合と比べて多すぎる（少なすぎる）ほど" }
+    ],
+    "usages": [
+      { "title": "① 偏った影響", "desc": "不釣り合いな比率を表す", "example_en": "The policy affected the poor disproportionately.", "example_ja": "その政策は貧しい人々に偏って影響した。" },
+      { "title": "② 過度に多い・少ない", "desc": "釣り合わない量を表す", "example_en": "They spend a disproportionately large amount on ads.", "example_ja": "彼らは広告に不釣り合いなほど多く使っている。" }
+    ],
+    "warn": ["形容詞は disproportionate（不釣り合いな）。proportionately（比例して）の対。"],
+    "etym_note": "dis-（否定）+ proportionate（比例した）から成る disproportionate に -ly が付いた語。",
+    "etym_chain": [
+      { "node": "dis- + proportionate", "sub": "比例しない", "era": "近代英語" },
+      { "node": "disproportionate", "sub": "不釣り合いな", "era": "近代英語" },
+      { "node": "disproportionately", "sub": "不釣り合いに", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "disproportionately affected", "ja": "偏って影響を受けて" },
+      { "en": "disproportionately high", "ja": "不釣り合いに高い" },
+      { "en": "disproportionately large", "ja": "過度に大きい" },
+      { "en": "disproportionately represented", "ja": "偏って代表されて" },
+      { "en": "suffer disproportionately", "ja": "偏って苦しむ" },
+      { "en": "disproportionately low", "ja": "不釣り合いに低い" }
+    ],
+    "related": [
+      { "en": "disproportionate", "ja": "不釣り合いな" },
+      { "en": "proportionately", "ja": "比例して" },
+      { "en": "excessively", "ja": "過度に" },
+      { "en": "unfairly", "ja": "不公平に" }
+    ],
+    "faq": [
+      { "q": "disproportionately の対義語は？", "a": "proportionately（比例して・釣り合って）です。" },
+      { "q": "どんな文脈で使いますか？", "a": "「ある集団が偏って影響を受ける」など、統計・社会問題の記述でよく使われます。" }
+    ],
+    "quiz": [
+      { "q": "disproportionately の意味は？", "A": "比例して", "B": "不釣り合いに・偏って", "C": "正確に", "D": "均等に", "correct": "B" },
+      { "q": "disproportionately の対義語は？", "A": "proportionately", "B": "particularly", "C": "properly", "D": "positively", "correct": "A" }
+    ]
+  },
+  {
+    "english": "disqualified",
+    "pron": "dɪsˈkwɑːlɪfaɪd",
+    "kana": "ディスクオリファイド",
+    "hinshi": "形容詞 / 動詞",
+    "ld_pos": "形容詞・動詞",
+    "ld_etym": "disqualify（失格させる）の過去分詞",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "スポーツ・頻出"],
+    "meaning_main": "失格した／資格を失った",
+    "description": "disqualified（ディスクオリファイド）の意味・使い方。規則違反などで「失格した・資格を失った」を表す形容詞。disqualify の過去分詞形でもあります。",
+    "keywords": ["disqualified 意味", "失格 英語", "資格を失う 英語", "disqualified 使い方"],
+    "meanings": [
+      { "hinshi": "【形容詞】失格した・資格を失った", "note": "規則違反や条件不足で参加・保持の資格をなくした" }
+    ],
+    "usages": [
+      { "title": "① 競技で失格", "desc": "失格した状態を表す", "example_en": "The runner was disqualified for a false start.", "example_ja": "その走者はフライングで失格した。" },
+      { "title": "② 資格の喪失", "desc": "資格を失うことを表す", "example_en": "He was disqualified from driving.", "example_ja": "彼は運転資格を失った。" }
+    ],
+    "warn": ["原形は disqualify、名詞 disqualification（失格）。qualified（資格のある）の対。"],
+    "etym_note": "dis-（否定）+ qualify（資格を与える）から成る disqualify の過去分詞。",
+    "etym_chain": [
+      { "node": "dis- + qualify", "sub": "資格を奪う", "era": "近代英語" },
+      { "node": "disqualify", "sub": "失格させる", "era": "近代英語" },
+      { "node": "disqualified", "sub": "失格した", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be disqualified", "ja": "失格になる" },
+      { "en": "disqualified from", "ja": "〜の資格を失って" },
+      { "en": "disqualified for cheating", "ja": "不正で失格して" },
+      { "en": "disqualified from the race", "ja": "レースで失格して" },
+      { "en": "automatically disqualified", "ja": "自動的に失格して" },
+      { "en": "disqualified from office", "ja": "職の資格を失って" }
+    ],
+    "related": [
+      { "en": "disqualify", "ja": "失格させる" },
+      { "en": "disqualification", "ja": "失格" },
+      { "en": "qualified", "ja": "資格のある" },
+      { "en": "eliminate", "ja": "除外する" }
+    ],
+    "faq": [
+      { "q": "disqualified の対義語は？", "a": "qualified（資格のある・適格な）です。" },
+      { "q": "後の前置詞は？", "a": "disqualified from 〜（〜の資格を失って・〜から失格して）が一般的です。" }
+    ],
+    "quiz": [
+      { "q": "disqualified の意味は？", "A": "予選通過した", "B": "失格した・資格を失った", "C": "優勝した", "D": "登録した", "correct": "B" },
+      { "q": "disqualified の対義語は？", "A": "qualified", "B": "quantified", "C": "questioned", "D": "quoted", "correct": "A" }
+    ]
+  },
+  {
+    "english": "disqualify",
+    "pron": "dɪsˈkwɑːlɪfaɪ",
+    "kana": "ディスクオリファイ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "dis-（否定）+ qualify（資格を与える）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "スポーツ・頻出"],
+    "meaning_main": "失格させる／資格を奪う／不適格とする",
+    "description": "disqualify（ディスクオリファイ）の意味・使い方。規則違反や条件不足で「失格させる・資格を奪う」を表す動詞。qualify（資格を与える）の対義語です。",
+    "keywords": ["disqualify 意味", "失格させる 英語", "資格を奪う 英語", "qualify 反対"],
+    "meanings": [
+      { "hinshi": "【動詞】失格させる・資格を奪う", "note": "参加・保持の資格をなくさせる、不適格とする" }
+    ],
+    "usages": [
+      { "title": "① 競技で失格させる", "desc": "失格処分を表す", "example_en": "The judges disqualified him for cheating.", "example_ja": "審判は不正で彼を失格させた。" },
+      { "title": "② 資格を奪う", "desc": "不適格とすることを表す", "example_en": "A criminal record can disqualify you from the job.", "example_ja": "前科があるとその職の資格を失うことがある。" }
+    ],
+    "warn": ["disqualify A from B（AからBの資格を奪う）。名詞 disqualification。qualify の反対。"],
+    "etym_note": "dis-（否定）+ qualify（資格を与える、ラテン語 qualis〈どんな〉より）が付いた語。",
+    "etym_chain": [
+      { "node": "dis- + qualify", "sub": "資格を奪う", "era": "近代英語" },
+      { "node": "disqualify", "sub": "失格させる", "era": "近代英語" },
+      { "node": "disqualify", "sub": "失格させる・資格を奪う", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "disqualify from", "ja": "〜の資格を奪う" },
+      { "en": "disqualify a player", "ja": "選手を失格させる" },
+      { "en": "disqualify a candidate", "ja": "候補者を不適格とする" },
+      { "en": "automatically disqualify", "ja": "自動的に失格させる" },
+      { "en": "disqualify for cheating", "ja": "不正で失格させる" },
+      { "en": "grounds to disqualify", "ja": "失格の理由" }
+    ],
+    "related": [
+      { "en": "qualify", "ja": "資格を与える" },
+      { "en": "disqualification", "ja": "失格" },
+      { "en": "disqualified", "ja": "失格した" },
+      { "en": "exclude", "ja": "除外する" }
+    ],
+    "faq": [
+      { "q": "disqualify の対義語は？", "a": "qualify（資格を与える・適格とする）です。" },
+      { "q": "後の前置詞は？", "a": "disqualify A from B（AからBの資格を奪う）が基本です。" }
+    ],
+    "quiz": [
+      { "q": "disqualify の意味は？", "A": "資格を与える", "B": "失格させる・資格を奪う", "C": "評価する", "D": "登録する", "correct": "B" },
+      { "q": "disqualify の対義語は？", "A": "qualify", "B": "quantify", "C": "clarify", "D": "classify", "correct": "A" }
+    ]
+  },
+  {
+    "english": "dissection",
+    "pron": "daɪˈsekʃən",
+    "kana": "ダイセクション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "dissect（切り分ける）+ -ion",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "医学・学術"],
+    "meaning_main": "解剖／切開／（詳細な）分析",
+    "description": "dissection（ダイセクション）の意味・使い方。生物を切り分けて調べる「解剖」を表す名詞。比喩で物事の「詳細な分析」の意味も解説します。",
+    "keywords": ["dissection 意味", "解剖 英語", "切開 英語", "詳細な分析 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】解剖・切開", "note": "生物を切り分けて構造を調べること" },
+      { "hinshi": "【名詞】詳細な分析（比喩）", "note": "物事を細かく分解して調べること" }
+    ],
+    "usages": [
+      { "title": "① 生物の解剖", "desc": "切り分けて調べることを表す", "example_en": "The class performed a frog dissection.", "example_ja": "その授業ではカエルの解剖を行った。" },
+      { "title": "② 詳細な分析（比喩）", "desc": "細かく分けて調べることを表す", "example_en": "The critic's dissection of the novel was thorough.", "example_ja": "その批評家の小説分析は徹底していた。" }
+    ],
+    "warn": ["動詞は dissect（切り分ける・分析する）。医学では「（血管などの）解離」の意味もある。"],
+    "etym_note": "ラテン語 dissecare（dis-〈分けて〉+ secare〈切る〉= 切り分ける）に由来。",
+    "etym_chain": [
+      { "node": "dissecare", "sub": "切り分ける", "era": "ラテン語" },
+      { "node": "dissect", "sub": "解剖する", "era": "近代英語" },
+      { "node": "dissection", "sub": "解剖", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a frog dissection", "ja": "カエルの解剖" },
+      { "en": "perform a dissection", "ja": "解剖を行う" },
+      { "en": "detailed dissection", "ja": "詳細な分析" },
+      { "en": "the dissection of the issue", "ja": "問題の詳細な分析" },
+      { "en": "anatomical dissection", "ja": "解剖学的な解剖" },
+      { "en": "careful dissection", "ja": "丁寧な解剖・分析" }
+    ],
+    "related": [
+      { "en": "dissect", "ja": "切り分ける・分析する" },
+      { "en": "anatomy", "ja": "解剖学" },
+      { "en": "analysis", "ja": "分析" },
+      { "en": "examination", "ja": "詳しい調査" }
+    ],
+    "faq": [
+      { "q": "dissection の比喩的な意味は？", "a": "物事を細かく分解して詳しく調べる「詳細な分析」を指します。" },
+      { "q": "動詞形は？", "a": "dissect（切り分ける・詳細に分析する）です。" }
+    ],
+    "quiz": [
+      { "q": "dissection の意味は？", "A": "組み立て", "B": "解剖・詳細な分析", "C": "保存", "D": "測定", "correct": "B" },
+      { "q": "dissection の動詞形は？", "A": "dissect", "B": "disperse", "C": "dismiss", "D": "distort", "correct": "A" }
+    ]
+  },
+  {
+    "english": "dissenting",
+    "pron": "dɪˈsentɪŋ",
+    "kana": "ディセンティング",
+    "hinshi": "形容詞 / 動詞",
+    "ld_pos": "形容詞・動詞",
+    "ld_etym": "dissent（異議を唱える）+ -ing",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "法律・政治"],
+    "meaning_main": "異議を唱える／反対の／少数意見の",
+    "description": "dissenting（ディセンティング）の意味・使い方。多数意見に「異議を唱える・反対の」を表す形容詞。裁判の dissenting opinion（反対意見）などで使われます。",
+    "keywords": ["dissenting 意味", "異議 英語", "反対意見 英語", "dissenting opinion"],
+    "meanings": [
+      { "hinshi": "【形容詞】異議を唱える・反対の", "note": "多数・主流の意見に反対する" }
+    ],
+    "usages": [
+      { "title": "① 反対意見", "desc": "異議を表す", "example_en": "There were a few dissenting voices.", "example_ja": "いくつか反対の声があった。" },
+      { "title": "② 裁判の反対意見", "desc": "少数意見を表す", "example_en": "The judge wrote a dissenting opinion.", "example_ja": "その裁判官は反対意見を書いた。" }
+    ],
+    "warn": ["動詞・名詞は dissent（異議・異議を唱える）。dissenting opinion（反対意見）が定番。"],
+    "etym_note": "ラテン語 dissentire（dis-〈離れて〉+ sentire〈感じる〉= 意見が異なる）に由来する dissent に -ing が付いた語。",
+    "etym_chain": [
+      { "node": "dissentire", "sub": "意見が異なる", "era": "ラテン語" },
+      { "node": "dissent", "sub": "異議を唱える", "era": "中英語" },
+      { "node": "dissenting", "sub": "異議を唱える", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a dissenting opinion", "ja": "反対意見（少数意見）" },
+      { "en": "dissenting voices", "ja": "反対の声" },
+      { "en": "a dissenting view", "ja": "異なる見解" },
+      { "en": "the dissenting judge", "ja": "反対意見の裁判官" },
+      { "en": "dissenting members", "ja": "反対するメンバー" },
+      { "en": "a dissenting vote", "ja": "反対票" }
+    ],
+    "related": [
+      { "en": "dissent", "ja": "異議・異議を唱える" },
+      { "en": "dissenter", "ja": "反対者" },
+      { "en": "objection", "ja": "異議" },
+      { "en": "concurring", "ja": "同意の" }
+    ],
+    "faq": [
+      { "q": "dissenting opinion とは？", "a": "裁判で多数意見に反対する裁判官が書く「反対意見（少数意見）」のことです。concurring opinion（賛成の補足意見）と対比されます。" },
+      { "q": "動詞形は？", "a": "dissent（異議を唱える・反対する）です。dissent from 〜（〜に異議を唱える）。" }
+    ],
+    "quiz": [
+      { "q": "dissenting の意味は？", "A": "賛成の", "B": "異議を唱える・反対の", "C": "中立の", "D": "無関心の", "correct": "B" },
+      { "q": "a dissenting opinion とは？", "A": "多数意見", "B": "反対意見（少数意見）", "C": "判決", "D": "証言", "correct": "B" }
+    ]
+  },
+  {
+    "english": "dissident",
+    "pron": "ˈdɪsɪdənt",
+    "kana": "ディシデント",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞・形容詞",
+    "ld_etym": "ラテン語 dissidere（意見を異にする）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "政治頻出"],
+    "meaning_main": "反体制派（の）／異論を唱える人",
+    "description": "dissident（ディシデント）の意味・使い方。政府や体制に公然と反対する「反体制派・異論者」を表す名詞・形容詞です。政治報道で頻出です。",
+    "keywords": ["dissident 意味", "反体制派 英語", "異論者 英語", "dissident 使い方"],
+    "meanings": [
+      { "hinshi": "【名詞】反体制派・異論者", "note": "政府や支配的な体制・意見に公然と反対する人" },
+      { "hinshi": "【形容詞】反体制の・異論の", "note": "体制に反対する立場の" }
+    ],
+    "usages": [
+      { "title": "① 反体制派の人", "desc": "政府に反対する人を表す", "example_en": "The dissident was arrested for his writings.", "example_ja": "その反体制派は著作のために逮捕された。" },
+      { "title": "② 反体制の運動", "desc": "異論の立場を表す", "example_en": "Dissident groups called for reform.", "example_ja": "反体制のグループが改革を求めた。" }
+    ],
+    "warn": ["名詞 dissent（異議）と同語源。抑圧的な体制に反対する人を指すことが多い。"],
+    "etym_note": "ラテン語 dissidere（dis-〈離れて〉+ sedere〈座る〉= 意見を異にする）に由来。",
+    "etym_chain": [
+      { "node": "dissidere", "sub": "意見を異にする", "era": "ラテン語" },
+      { "node": "dissident", "sub": "異論者", "era": "近代英語" },
+      { "node": "dissident", "sub": "反体制派", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a political dissident", "ja": "政治的反体制派" },
+      { "en": "dissident groups", "ja": "反体制グループ" },
+      { "en": "a leading dissident", "ja": "主要な反体制派" },
+      { "en": "silence dissidents", "ja": "反体制派を黙らせる" },
+      { "en": "dissident voices", "ja": "反体制の声" },
+      { "en": "an exiled dissident", "ja": "亡命した反体制派" }
+    ],
+    "related": [
+      { "en": "dissent", "ja": "異議" },
+      { "en": "rebel", "ja": "反逆者" },
+      { "en": "activist", "ja": "活動家" },
+      { "en": "conformist", "ja": "体制順応者" }
+    ],
+    "faq": [
+      { "q": "dissident と rebel の違いは？", "a": "rebel は「（武力も含め）反抗する反逆者」、dissident は「（言論などで）体制に公然と異を唱える人」を指すことが多いです。" },
+      { "q": "同語源の語は？", "a": "dissent（異議）や dissenting（反対の）です。" }
+    ],
+    "quiz": [
+      { "q": "dissident の意味は？", "A": "体制順応者", "B": "反体制派・異論者", "C": "支持者", "D": "傍観者", "correct": "B" },
+      { "q": "dissident と同語源の語は？", "A": "dissent", "B": "distant", "C": "distinct", "D": "dissolve", "correct": "A" }
+    ]
+  },
+  {
+    "english": "dissipation",
+    "pron": "ˌdɪsɪˈpeɪʃən",
+    "kana": "ディシペーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "dissipate（消散させる）+ -ion",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "科学・文語"],
+    "meaning_main": "消散／散逸／（エネルギーの）浪費・放蕩",
+    "description": "dissipation（ディシペーション）の意味・使い方。熱やエネルギーが「消散・散逸」することを表す名詞。財産や時間の「浪費・放蕩」の意味も解説します。",
+    "keywords": ["dissipation 意味", "消散 英語", "散逸 英語", "浪費 放蕩 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】消散・散逸", "note": "熱・エネルギー・霧などが広がって消えること（物理）" },
+      { "hinshi": "【名詞】浪費・放蕩", "note": "財産・時間・精力を無駄に使い果たすこと" }
+    ],
+    "usages": [
+      { "title": "① エネルギーの散逸", "desc": "消えていくことを表す", "example_en": "Heat dissipation is important in electronics.", "example_ja": "電子機器では熱の放散が重要だ。" },
+      { "title": "② 浪費・放蕩", "desc": "無駄遣いを表す", "example_en": "He wasted his fortune in dissipation.", "example_ja": "彼は放蕩で財産を浪費した。" }
+    ],
+    "warn": ["動詞は dissipate（消散させる・浪費する）。heat dissipation（熱放散）が技術頻出。"],
+    "etym_note": "ラテン語 dissipare（dis-〈四方に〉+ supare〈投げる〉= まき散らす）に由来する dissipate に -ion が付いた語。",
+    "etym_chain": [
+      { "node": "dissipare", "sub": "まき散らす", "era": "ラテン語" },
+      { "node": "dissipate", "sub": "消散させる", "era": "中英語" },
+      { "node": "dissipation", "sub": "消散・浪費", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "heat dissipation", "ja": "熱の放散" },
+      { "en": "energy dissipation", "ja": "エネルギーの散逸" },
+      { "en": "the dissipation of fog", "ja": "霧の消散" },
+      { "en": "a life of dissipation", "ja": "放蕩の生活" },
+      { "en": "power dissipation", "ja": "電力損失" },
+      { "en": "dissipation of wealth", "ja": "財産の浪費" }
+    ],
+    "related": [
+      { "en": "dissipate", "ja": "消散させる・浪費する" },
+      { "en": "dispersal", "ja": "分散" },
+      { "en": "waste", "ja": "浪費" },
+      { "en": "extravagance", "ja": "浪費・ぜいたく" }
+    ],
+    "faq": [
+      { "q": "heat dissipation とは？", "a": "電子機器などで発生した熱を外へ逃がして「放散」することです。冷却設計で重要です。" },
+      { "q": "「浪費・放蕩」の意味もありますか？", "a": "はい。財産・時間・精力を無駄に使い果たすことも dissipation と言います（やや文語的）。" }
+    ],
+    "quiz": [
+      { "q": "dissipation の意味は？", "A": "集中", "B": "消散・散逸（浪費）", "C": "生成", "D": "凝縮", "correct": "B" },
+      { "q": "heat dissipation の意味は？", "A": "熱の蓄積", "B": "熱の放散", "C": "熱の発生", "D": "熱の測定", "correct": "B" }
+    ]
+  },
+  {
+    "english": "dissonant",
+    "pron": "ˈdɪsənənt",
+    "kana": "ディソナント",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 dissonare（不調和に響く）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "音楽・文語"],
+    "meaning_main": "不協和の／耳障りな／調和しない",
+    "description": "dissonant（ディソナント）の意味・使い方。音が「不協和の・耳障りな」を表す形容詞。意見や要素が「調和しない・食い違う」の意味も解説します。",
+    "keywords": ["dissonant 意味", "不協和 英語", "耳障りな 英語", "consonant 反対"],
+    "meanings": [
+      { "hinshi": "【形容詞】不協和の・耳障りな", "note": "音が調和せず不快に響く" },
+      { "hinshi": "【形容詞】調和しない・食い違う", "note": "意見・要素がかみ合わない" }
+    ],
+    "usages": [
+      { "title": "① 不協和音", "desc": "耳障りな響きを表す", "example_en": "The music used dissonant chords.", "example_ja": "その音楽は不協和音を使っていた。" },
+      { "title": "② 食い違う要素", "desc": "調和しないことを表す", "example_en": "There were dissonant views in the group.", "example_ja": "グループ内には食い違う意見があった。" }
+    ],
+    "warn": ["対義語は consonant（協和の）。名詞は dissonance（不協和・不一致）。"],
+    "etym_note": "ラテン語 dissonare（dis-〈離れて〉+ sonare〈響く〉= 不調和に響く）に由来。",
+    "etym_chain": [
+      { "node": "dissonare", "sub": "不調和に響く", "era": "ラテン語" },
+      { "node": "dissonant", "sub": "不協和の", "era": "中英語" },
+      { "node": "dissonant", "sub": "不協和の・調和しない", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a dissonant chord", "ja": "不協和音" },
+      { "en": "dissonant sounds", "ja": "耳障りな音" },
+      { "en": "dissonant voices", "ja": "食い違う声" },
+      { "en": "harsh and dissonant", "ja": "耳障りで不協和な" },
+      { "en": "a dissonant note", "ja": "不協和な音" },
+      { "en": "dissonant with", "ja": "〜と調和しない" }
+    ],
+    "related": [
+      { "en": "dissonance", "ja": "不協和・不一致" },
+      { "en": "consonant", "ja": "協和の・子音" },
+      { "en": "discordant", "ja": "不協和の" },
+      { "en": "harmonious", "ja": "調和した" }
+    ],
+    "faq": [
+      { "q": "dissonant の対義語は？", "a": "consonant（協和の・調和した）です。名詞では dissonance ⇔ consonance です。" },
+      { "q": "cognitive dissonance とは？", "a": "心理学で、矛盾する考えを同時に持つ不快感「認知的不協和」を指します（名詞 dissonance）。" }
+    ],
+    "quiz": [
+      { "q": "dissonant の意味は？", "A": "調和した", "B": "不協和の・耳障りな", "C": "静かな", "D": "明るい", "correct": "B" },
+      { "q": "dissonant の対義語は？", "A": "consonant", "B": "constant", "C": "distant", "D": "dominant", "correct": "A" }
+    ]
+  },
+  {
+    "english": "distaste",
+    "pron": "dɪsˈteɪst",
+    "kana": "ディステイスト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "dis-（否定）+ taste（好み）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "感情表現"],
+    "meaning_main": "嫌悪／いや気／不快感",
+    "description": "distaste（ディステイスト）の意味・使い方。何かに対する「嫌悪・いや気」を表す名詞。強い憎しみより、軽めの不快感・毛嫌いを表します。",
+    "keywords": ["distaste 意味", "嫌悪 英語", "いや気 英語", "distaste for"],
+    "meanings": [
+      { "hinshi": "【名詞】嫌悪・いや気・不快感", "note": "何かを不快に感じ、避けたいと思う気持ち" }
+    ],
+    "usages": [
+      { "title": "① 嫌悪感を抱く", "desc": "いや気を表す", "example_en": "She felt distaste for the whole affair.", "example_ja": "彼女はその件全体にいや気を感じた。" },
+      { "title": "② 好まないこと", "desc": "毛嫌いを表す", "example_en": "He has a distaste for gossip.", "example_ja": "彼はうわさ話を嫌っている。" }
+    ],
+    "warn": ["distaste for 〜 で「〜への嫌悪」。形容詞 distasteful（不快な）。hatred より穏やか。"],
+    "etym_note": "dis-（否定）+ taste（好み・味）から成り、「好みに合わない」に由来する語。",
+    "etym_chain": [
+      { "node": "dis- + taste", "sub": "好みでない", "era": "近代英語" },
+      { "node": "distaste", "sub": "嫌悪", "era": "近代英語" },
+      { "node": "distaste", "sub": "嫌悪・いや気", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a distaste for", "ja": "〜への嫌悪" },
+      { "en": "feel distaste", "ja": "いや気を感じる" },
+      { "en": "with distaste", "ja": "嫌そうに" },
+      { "en": "a look of distaste", "ja": "嫌悪の表情" },
+      { "en": "growing distaste", "ja": "強まる嫌悪" },
+      { "en": "express distaste", "ja": "嫌悪を示す" }
+    ],
+    "related": [
+      { "en": "distasteful", "ja": "不快な" },
+      { "en": "dislike", "ja": "嫌い" },
+      { "en": "aversion", "ja": "強い嫌悪" },
+      { "en": "disgust", "ja": "むかつき・嫌悪" }
+    ],
+    "faq": [
+      { "q": "distaste と disgust の違いは？", "a": "disgust は「（吐き気を催すほどの）強い嫌悪」、distaste は「軽い嫌悪・いや気・毛嫌い」で穏やかです。" },
+      { "q": "後の前置詞は？", "a": "distaste for 〜（〜への嫌悪）が一般的です。" }
+    ],
+    "quiz": [
+      { "q": "distaste の意味は？", "A": "好み", "B": "嫌悪・いや気", "C": "興味", "D": "感謝", "correct": "B" },
+      { "q": "「〜への嫌悪」を表す前置詞は？", "A": "distaste for", "B": "distaste of", "C": "distaste to", "D": "distaste at", "correct": "A" }
+    ]
+  },
+  {
+    "english": "distilled",
+    "pron": "dɪˈstɪld",
+    "kana": "ディスティルド",
+    "hinshi": "形容詞 / 動詞",
+    "ld_pos": "形容詞・動詞",
+    "ld_etym": "distill（蒸留する）の過去分詞",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "科学・比喩"],
+    "meaning_main": "蒸留した／（要点を）凝縮した",
+    "description": "distilled（ディスティルド）の意味・使い方。蒸留によって精製した「蒸留した」を表す形容詞。比喩で要点を「凝縮した」の意味も解説します。distill の過去分詞形。",
+    "keywords": ["distilled 意味", "蒸留した 英語", "distilled water", "凝縮した 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】蒸留した", "note": "蒸留して不純物を除いた（distilled water など）" },
+      { "hinshi": "【形容詞】（要点を）凝縮した（比喩）", "note": "余分を除いて本質だけにまとめた" }
+    ],
+    "usages": [
+      { "title": "① 蒸留水など", "desc": "精製された状態を表す", "example_en": "Use distilled water in the iron.", "example_ja": "アイロンには蒸留水を使いなさい。" },
+      { "title": "② 要点の凝縮（比喩）", "desc": "本質にまとめることを表す", "example_en": "The book is distilled wisdom.", "example_ja": "その本は知恵を凝縮したものだ。" }
+    ],
+    "warn": ["英つづり distilled、動詞は distil（英）/ distill（米）。distilled water（蒸留水）が定番。"],
+    "etym_note": "ラテン語 distillare（したたり落ちる）に由来する distill の過去分詞。",
+    "etym_chain": [
+      { "node": "distillare", "sub": "したたり落ちる", "era": "ラテン語" },
+      { "node": "distill", "sub": "蒸留する", "era": "中英語" },
+      { "node": "distilled", "sub": "蒸留した", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "distilled water", "ja": "蒸留水" },
+      { "en": "distilled spirits", "ja": "蒸留酒" },
+      { "en": "distilled into", "ja": "〜に凝縮された" },
+      { "en": "distilled wisdom", "ja": "凝縮された知恵" },
+      { "en": "freshly distilled", "ja": "蒸留したての" },
+      { "en": "distilled to its essence", "ja": "本質まで凝縮された" }
+    ],
+    "related": [
+      { "en": "distill", "ja": "蒸留する・凝縮する" },
+      { "en": "distillation", "ja": "蒸留" },
+      { "en": "purified", "ja": "精製された" },
+      { "en": "condensed", "ja": "凝縮された" }
+    ],
+    "faq": [
+      { "q": "distilled water とは？", "a": "蒸留して不純物を取り除いた「蒸留水」です。ミネラルも除かれているため純度が高いです。" },
+      { "q": "比喩的な意味は？", "a": "余分を取り除いて本質・要点だけにまとめることを「distilled（凝縮した）」と表します。" }
+    ],
+    "quiz": [
+      { "q": "distilled の意味は？", "A": "汚れた", "B": "蒸留した・凝縮した", "C": "凍った", "D": "薄めた", "correct": "B" },
+      { "q": "distilled water とは？", "A": "炭酸水", "B": "蒸留水", "C": "海水", "D": "湯", "correct": "B" }
+    ]
+  },
+  {
+    "english": "distinctiveness",
+    "pron": "dɪˈstɪŋktɪvnəs",
+    "kana": "ディスティンクティヴネス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "distinctive（独特の）+ -ness",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "抽象名詞"],
+    "meaning_main": "独自性／際立った特徴／個性",
+    "description": "distinctiveness（ディスティンクティヴネス）の意味・使い方。他と区別される「独自性・際立った特徴」を表す名詞。distinctive の名詞形です。",
+    "keywords": ["distinctiveness 意味", "独自性 英語", "際立った特徴 英語", "distinctive 名詞"],
+    "meanings": [
+      { "hinshi": "【名詞】独自性・際立った特徴", "note": "他とはっきり区別される独特の性質" }
+    ],
+    "usages": [
+      { "title": "① ブランドの独自性", "desc": "際立った特徴を表す", "example_en": "The brand's distinctiveness sets it apart.", "example_ja": "そのブランドの独自性が他と一線を画す。" },
+      { "title": "② 個性・特色", "desc": "独特さを表す", "example_en": "The town has a certain distinctiveness.", "example_ja": "その町には独特の個性がある。" }
+    ],
+    "warn": ["形容詞は distinctive（独特の・特徴的な）。distinctness（明瞭さ）と混同注意。"],
+    "etym_note": "ラテン語 distinguere（区別する）に由来する distinctive に -ness が付いた語。",
+    "etym_chain": [
+      { "node": "distinguere", "sub": "区別する", "era": "ラテン語" },
+      { "node": "distinctive", "sub": "独特の", "era": "近代英語" },
+      { "node": "distinctiveness", "sub": "独自性", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a sense of distinctiveness", "ja": "独自性の感覚" },
+      { "en": "brand distinctiveness", "ja": "ブランドの独自性" },
+      { "en": "cultural distinctiveness", "ja": "文化的な独自性" },
+      { "en": "maintain distinctiveness", "ja": "独自性を保つ" },
+      { "en": "the distinctiveness of", "ja": "〜の際立った特徴" },
+      { "en": "lose its distinctiveness", "ja": "独自性を失う" }
+    ],
+    "related": [
+      { "en": "distinctive", "ja": "独特の" },
+      { "en": "uniqueness", "ja": "唯一性" },
+      { "en": "individuality", "ja": "個性" },
+      { "en": "character", "ja": "特色" }
+    ],
+    "faq": [
+      { "q": "distinctiveness と uniqueness の違いは？", "a": "uniqueness は「唯一無二であること」、distinctiveness は「他とはっきり区別される際立った特徴」に重点があります。" },
+      { "q": "形容詞形は？", "a": "distinctive（独特の・特徴的な）です。" }
+    ],
+    "quiz": [
+      { "q": "distinctiveness の意味は？", "A": "平凡さ", "B": "独自性・際立った特徴", "C": "曖昧さ", "D": "共通性", "correct": "B" },
+      { "q": "distinctiveness の形容詞形は？", "A": "distinctive", "B": "distant", "C": "distinct", "D": "両方 distinct と distinctive", "correct": "A" }
+    ]
+  },
+  {
+    "english": "distinctly",
+    "pron": "dɪˈstɪŋktli",
+    "kana": "ディスティンクトリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "distinct（明確な）+ -ly",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出"],
+    "meaning_main": "はっきりと／明確に／紛れもなく",
+    "description": "distinctly（ディスティンクトリー）の意味・使い方。「はっきりと・明確に・紛れもなく」を表す副詞。distinct の副詞形で、明瞭さや際立ちを強めます。",
+    "keywords": ["distinctly 意味", "はっきりと 英語", "明確に 英語", "distinct 副詞"],
+    "meanings": [
+      { "hinshi": "【副詞】はっきりと・明確に", "note": "疑いようなくはっきりと、際立って" }
+    ],
+    "usages": [
+      { "title": "① はっきり知覚する", "desc": "明瞭さを表す", "example_en": "I distinctly remember locking the door.", "example_ja": "私はドアに鍵をかけたのをはっきり覚えている。" },
+      { "title": "② 際立って〜だ", "desc": "紛れもない程度を表す", "example_en": "The two styles are distinctly different.", "example_ja": "その二つの様式は明らかに異なる。" }
+    ],
+    "warn": ["形容詞は distinct（明確な・別個の）。clearly と近いが「疑いなく際立って」の含み。"],
+    "etym_note": "ラテン語 distinguere（区別する）に由来する distinct に -ly が付いた語。",
+    "etym_chain": [
+      { "node": "distinguere", "sub": "区別する", "era": "ラテン語" },
+      { "node": "distinct", "sub": "明確な", "era": "中英語" },
+      { "node": "distinctly", "sub": "はっきりと", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "distinctly remember", "ja": "はっきり覚えている" },
+      { "en": "distinctly different", "ja": "明らかに異なる" },
+      { "en": "distinctly hear", "ja": "はっきり聞こえる" },
+      { "en": "distinctly visible", "ja": "はっきり見える" },
+      { "en": "feel distinctly uneasy", "ja": "紛れもなく不安を感じる" },
+      { "en": "distinctly aware", "ja": "はっきり気づいて" }
+    ],
+    "related": [
+      { "en": "distinct", "ja": "明確な・別個の" },
+      { "en": "clearly", "ja": "はっきりと" },
+      { "en": "markedly", "ja": "著しく" },
+      { "en": "vaguely", "ja": "漠然と" }
+    ],
+    "faq": [
+      { "q": "distinctly と clearly の違いは？", "a": "どちらも「はっきりと」ですが、distinctly は「疑いなく・際立って（他とはっきり区別されて）」というニュアンスが強めです。" },
+      { "q": "形容詞形は？", "a": "distinct（明確な・別個の）です。" }
+    ],
+    "quiz": [
+      { "q": "distinctly の意味は？", "A": "漠然と", "B": "はっきりと・明確に", "C": "偶然に", "D": "静かに", "correct": "B" },
+      { "q": "distinctly の対義語は？", "A": "clearly", "B": "vaguely", "C": "sharply", "D": "openly", "correct": "B" }
+    ]
+  },
+  {
+    "english": "distorted",
+    "pron": "dɪˈstɔːrtɪd",
+    "kana": "ディストーティッド",
+    "hinshi": "形容詞 / 動詞",
+    "ld_pos": "形容詞・動詞",
+    "ld_etym": "distort（ゆがめる）の過去分詞",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出"],
+    "meaning_main": "ゆがんだ／ねじ曲げられた／（事実が）歪曲された",
+    "description": "distorted（ディストーティッド）の意味・使い方。形・音・事実が「ゆがんだ・歪曲された」を表す形容詞。distort の過去分詞形でもあります。",
+    "keywords": ["distorted 意味", "ゆがんだ 英語", "歪曲 英語", "distorted 使い方"],
+    "meanings": [
+      { "hinshi": "【形容詞】ゆがんだ・歪曲された", "note": "形・音・事実が本来の状態からねじ曲げられた" }
+    ],
+    "usages": [
+      { "title": "① 形・音のゆがみ", "desc": "ねじ曲がった状態を表す", "example_en": "The image looked distorted in the mirror.", "example_ja": "その像は鏡でゆがんで見えた。" },
+      { "title": "② 事実の歪曲", "desc": "曲げられた事実を表す", "example_en": "The report gave a distorted view of events.", "example_ja": "その報道は出来事を歪曲して伝えた。" }
+    ],
+    "warn": ["原形は distort（ゆがめる）、名詞 distortion（ゆがみ・歪曲）。"],
+    "etym_note": "ラテン語 distorquere（ねじ曲げる）に由来する distort の過去分詞。",
+    "etym_chain": [
+      { "node": "distorquere", "sub": "ねじ曲げる", "era": "ラテン語" },
+      { "node": "distort", "sub": "ゆがめる", "era": "近代英語" },
+      { "node": "distorted", "sub": "ゆがんだ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a distorted image", "ja": "ゆがんだ像" },
+      { "en": "distorted sound", "ja": "ゆがんだ音" },
+      { "en": "a distorted view", "ja": "ゆがんだ見方" },
+      { "en": "distorted facts", "ja": "歪曲された事実" },
+      { "en": "badly distorted", "ja": "ひどくゆがんだ" },
+      { "en": "a distorted picture of", "ja": "〜の歪曲された姿" }
+    ],
+    "related": [
+      { "en": "distort", "ja": "ゆがめる" },
+      { "en": "distortion", "ja": "ゆがみ・歪曲" },
+      { "en": "warped", "ja": "そった・ゆがんだ" },
+      { "en": "accurate", "ja": "正確な" }
+    ],
+    "faq": [
+      { "q": "distorted と warped の違いは？", "a": "warped は「（板などが）そって曲がった」、distorted は「形・音・事実がねじ曲げられた」で対象が広い語です。" },
+      { "q": "名詞形は？", "a": "distortion（ゆがみ・歪曲）です。" }
+    ],
+    "quiz": [
+      { "q": "distorted の意味は？", "A": "正確な", "B": "ゆがんだ・歪曲された", "C": "透明な", "D": "完全な", "correct": "B" },
+      { "q": "distorted の名詞形は？", "A": "distortion", "B": "distraction", "C": "distribution", "D": "distinction", "correct": "A" }
+    ]
+  },
+  {
+    "english": "distressed",
+    "pron": "dɪˈstrest",
+    "kana": "ディストレスト",
+    "hinshi": "形容詞 / 動詞",
+    "ld_pos": "形容詞・動詞",
+    "ld_etym": "distress（苦しめる）の過去分詞",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "感情・金融"],
+    "meaning_main": "苦悩した／取り乱した／（財政的に）困窮した",
+    "description": "distressed（ディストレスト）の意味・使い方。心が「苦悩した・取り乱した」を表す形容詞。財政的に「困窮した」やわざと古びさせた「ダメージ加工の」も解説します。",
+    "keywords": ["distressed 意味", "苦悩した 英語", "困窮した 英語", "distressed 使い方"],
+    "meanings": [
+      { "hinshi": "【形容詞】苦悩した・取り乱した", "note": "強い不安・悲しみで心を痛めた" },
+      { "hinshi": "【形容詞】困窮した／ダメージ加工の", "note": "財政的に苦しい、または家具・服をわざと古びさせた" }
+    ],
+    "usages": [
+      { "title": "① 心を痛めた", "desc": "苦悩を表す", "example_en": "She was deeply distressed by the news.", "example_ja": "彼女はその知らせにひどく心を痛めた。" },
+      { "title": "② 財政的困窮／加工", "desc": "困窮やダメージ加工を表す", "example_en": "The fund buys distressed assets.", "example_ja": "そのファンドは困窮資産を買う。" }
+    ],
+    "warn": ["原形は distress（苦しめる・苦悩）。金融の distressed asset（不良・困窮資産）、distressed jeans（ダメージジーンズ）。"],
+    "etym_note": "ラテン語 districtus（引き裂く）に由来する distress の過去分詞。",
+    "etym_chain": [
+      { "node": "districtus", "sub": "引き裂く", "era": "ラテン語" },
+      { "node": "distress", "sub": "苦しめる", "era": "中英語" },
+      { "node": "distressed", "sub": "苦悩した", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "deeply distressed", "ja": "深く心を痛めて" },
+      { "en": "distressed by the news", "ja": "知らせに苦悩して" },
+      { "en": "a distressed child", "ja": "取り乱した子ども" },
+      { "en": "distressed assets", "ja": "困窮資産・不良資産" },
+      { "en": "distressed jeans", "ja": "ダメージジーンズ" },
+      { "en": "financially distressed", "ja": "財政的に困窮した" }
+    ],
+    "related": [
+      { "en": "distress", "ja": "苦しめる・苦悩" },
+      { "en": "upset", "ja": "動揺した" },
+      { "en": "anxious", "ja": "不安な" },
+      { "en": "troubled", "ja": "悩んだ" }
+    ],
+    "faq": [
+      { "q": "distressed と upset の違いは？", "a": "upset は「（一時的に）動揺した」、distressed は「（深く）苦悩した・取り乱した」でより強い苦しみを表します。" },
+      { "q": "distressed assets とは？", "a": "経営難などで価値が下がった「困窮資産・不良資産」のことです（金融）。" }
+    ],
+    "quiz": [
+      { "q": "distressed の意味は？", "A": "満足した", "B": "苦悩した・取り乱した", "C": "退屈した", "D": "興奮した", "correct": "B" },
+      { "q": "distressed の原形は？", "A": "distress", "B": "distract", "C": "distribute", "D": "distort", "correct": "A" }
+    ]
+  },
+  {
+    "english": "distrust",
+    "pron": "dɪsˈtrʌst",
+    "kana": "ディストラスト",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "dis-（否定）+ trust（信頼）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出"],
+    "meaning_main": "不信／不信感／信用しない",
+    "description": "distrust（ディストラスト）の意味・使い方。相手を「信用しない」気持ち「不信・不信感」を表す名詞・動詞。trust（信頼）の対義語です。",
+    "keywords": ["distrust 意味", "不信 英語", "信用しない 英語", "trust 反対"],
+    "meanings": [
+      { "hinshi": "【名詞】不信・不信感", "note": "相手を信用できないと感じる気持ち" },
+      { "hinshi": "【動詞】信用しない", "note": "相手・物事を疑って信頼しない" }
+    ],
+    "usages": [
+      { "title": "① 不信感（名詞）", "desc": "信用できない気持ちを表す", "example_en": "There was deep distrust between the two sides.", "example_ja": "両者の間には深い不信があった。" },
+      { "title": "② 信用しない（動詞）", "desc": "疑うことを表す", "example_en": "She distrusts strangers.", "example_ja": "彼女は見知らぬ人を信用しない。" }
+    ],
+    "warn": ["対義語は trust（信頼）。mistrust（不信）とほぼ同義。"],
+    "etym_note": "dis-（否定）+ trust（信頼）から成る語。",
+    "etym_chain": [
+      { "node": "dis- + trust", "sub": "信頼しない", "era": "近代英語" },
+      { "node": "distrust", "sub": "不信", "era": "近代英語" },
+      { "node": "distrust", "sub": "不信・信用しない", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "deep distrust", "ja": "深い不信" },
+      { "en": "mutual distrust", "ja": "相互不信" },
+      { "en": "distrust of authority", "ja": "権威への不信" },
+      { "en": "a sense of distrust", "ja": "不信感" },
+      { "en": "growing distrust", "ja": "強まる不信" },
+      { "en": "distrust the government", "ja": "政府を信用しない" }
+    ],
+    "related": [
+      { "en": "trust", "ja": "信頼" },
+      { "en": "mistrust", "ja": "不信" },
+      { "en": "suspicion", "ja": "疑い" },
+      { "en": "doubt", "ja": "疑念" }
+    ],
+    "faq": [
+      { "q": "distrust と mistrust の違いは？", "a": "ほぼ同義です。distrust は「はっきりした不信」、mistrust は「漠然とした疑い・不安」の含みがやや強めです。" },
+      { "q": "対義語は？", "a": "trust（信頼）です。" }
+    ],
+    "quiz": [
+      { "q": "distrust の意味は？", "A": "信頼", "B": "不信・信用しない", "C": "感謝", "D": "尊敬", "correct": "B" },
+      { "q": "distrust の対義語は？", "A": "trust", "B": "truce", "C": "trace", "D": "trend", "correct": "A" }
+    ]
+  },
+  {
+    "english": "disuse",
+    "pron": "dɪsˈjuːs",
+    "kana": "ディスユース",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "dis-（否定）+ use（使用）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "頻出"],
+    "meaning_main": "使われないこと／不使用／廃れ",
+    "description": "disuse（ディスユース）の意味・使い方。使われなくなること「不使用・廃れ」を表す名詞。fall into disuse（廃れる）などで使います。",
+    "keywords": ["disuse 意味", "使われない 英語", "廃れ 英語", "fall into disuse"],
+    "meanings": [
+      { "hinshi": "【名詞】使われないこと・不使用", "note": "使われずに放置され、廃れていくこと" }
+    ],
+    "usages": [
+      { "title": "① 廃れること", "desc": "使われなくなる状態を表す", "example_en": "The old word fell into disuse.", "example_ja": "その古い語は使われなくなった。" },
+      { "title": "② 放置による衰え", "desc": "使わないことによる劣化を表す", "example_en": "The muscles weakened through disuse.", "example_ja": "その筋肉は使わないことで衰えた。" }
+    ],
+    "warn": ["fall into disuse（廃れる・使われなくなる）が定番。発音は名詞 /dɪsˈjuːs/、動詞 disuse は /dɪsˈjuːz/。"],
+    "etym_note": "dis-（否定）+ use（使用）から成る語。",
+    "etym_chain": [
+      { "node": "dis- + use", "sub": "使わない", "era": "中英語" },
+      { "node": "disuse", "sub": "不使用", "era": "近代英語" },
+      { "node": "disuse", "sub": "使われないこと", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "fall into disuse", "ja": "廃れる・使われなくなる" },
+      { "en": "years of disuse", "ja": "長年の不使用" },
+      { "en": "in disuse", "ja": "使われずに" },
+      { "en": "muscle disuse", "ja": "筋肉の不使用" },
+      { "en": "abandoned to disuse", "ja": "使われず放置されて" },
+      { "en": "a period of disuse", "ja": "使われない期間" }
+    ],
+    "related": [
+      { "en": "use", "ja": "使用" },
+      { "en": "unused", "ja": "使われていない" },
+      { "en": "obsolete", "ja": "廃れた" },
+      { "en": "neglect", "ja": "放置" }
+    ],
+    "faq": [
+      { "q": "fall into disuse とは？", "a": "「（習慣・語・設備などが）使われなくなり廃れる」という定番表現です。" },
+      { "q": "disuse と unused の違いは？", "a": "disuse は「使われなくなること（名詞・過程）」、unused は「（今）使われていない（形容詞・状態）」です。" }
+    ],
+    "quiz": [
+      { "q": "disuse の意味は？", "A": "多用", "B": "使われないこと・廃れ", "C": "再利用", "D": "誤用", "correct": "B" },
+      { "q": "fall into disuse の意味は？", "A": "流行する", "B": "廃れる・使われなくなる", "C": "修理される", "D": "普及する", "correct": "B" }
+    ]
+  },
+  {
+    "english": "diverge",
+    "pron": "daɪˈvɜːrdʒ",
+    "kana": "ダイヴァージ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 divergere（分かれて広がる）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "頻出"],
+    "meaning_main": "分岐する／（意見が）分かれる／それる",
+    "description": "diverge（ダイヴァージ）の意味・使い方。道や意見が「分岐する・分かれる」を表す動詞。converge（収束する）の対義語です。",
+    "keywords": ["diverge 意味", "分岐する 英語", "意見が分かれる 英語", "converge 反対"],
+    "meanings": [
+      { "hinshi": "【動詞】分岐する・分かれる・それる", "note": "一つのものから別々の方向に分かれていく" }
+    ],
+    "usages": [
+      { "title": "① 道が分かれる", "desc": "分岐を表す", "example_en": "The paths diverge at the top of the hill.", "example_ja": "その道は丘の頂上で分かれる。" },
+      { "title": "② 意見が分かれる", "desc": "食い違いを表す", "example_en": "Their opinions diverge on this issue.", "example_ja": "この問題で彼らの意見は分かれる。" }
+    ],
+    "warn": ["対義語は converge（収束する）。diverge from 〜（〜からそれる）。名詞 divergence。"],
+    "etym_note": "ラテン語 divergere（di-〈離れて〉+ vergere〈傾く〉= 分かれて広がる）に由来。",
+    "etym_chain": [
+      { "node": "divergere", "sub": "分かれて広がる", "era": "後期ラテン語" },
+      { "node": "diverge", "sub": "分岐する", "era": "近代英語" },
+      { "node": "diverge", "sub": "分岐する・分かれる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "diverge from", "ja": "〜からそれる・分かれる" },
+      { "en": "paths diverge", "ja": "道が分かれる" },
+      { "en": "opinions diverge", "ja": "意見が分かれる" },
+      { "en": "diverge sharply", "ja": "大きく食い違う" },
+      { "en": "diverge in views", "ja": "見解が分かれる" },
+      { "en": "begin to diverge", "ja": "分かれ始める" }
+    ],
+    "related": [
+      { "en": "divergence", "ja": "分岐・発散" },
+      { "en": "converge", "ja": "収束する" },
+      { "en": "differ", "ja": "異なる" },
+      { "en": "branch", "ja": "枝分かれする" }
+    ],
+    "faq": [
+      { "q": "diverge の対義語は？", "a": "converge（一点に集まる・収束する）です。分かれるのが diverge、集まるのが converge です。" },
+      { "q": "diverge from とは？", "a": "「〜から分かれる・それる・異なる」という意味です。" }
+    ],
+    "quiz": [
+      { "q": "diverge の意味は？", "A": "収束する", "B": "分岐する・分かれる", "C": "止まる", "D": "戻る", "correct": "B" },
+      { "q": "diverge の対義語は？", "A": "converge", "B": "conserve", "C": "convert", "D": "convey", "correct": "A" }
+    ]
+  },
+  {
+    "english": "divergence",
+    "pron": "daɪˈvɜːrdʒəns",
+    "kana": "ダイヴァージェンス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "diverge（分岐する）+ -ence",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "学術頻出"],
+    "meaning_main": "分岐／相違／（意見などの）食い違い",
+    "description": "divergence（ダイヴァージェンス）の意味・使い方。方向・意見などが「分かれること・相違」を表す名詞。convergence（収束）の対義語です。",
+    "keywords": ["divergence 意味", "分岐 英語", "相違 英語", "convergence 反対"],
+    "meanings": [
+      { "hinshi": "【名詞】分岐・相違・食い違い", "note": "一つのものから別々に分かれること、意見などの違い" }
+    ],
+    "usages": [
+      { "title": "① 意見の相違", "desc": "食い違いを表す", "example_en": "There is a divergence of opinion on the plan.", "example_ja": "その計画には意見の相違がある。" },
+      { "title": "② 進化・傾向の分岐", "desc": "分かれる方向を表す", "example_en": "The divergence of the two species took millions of years.", "example_ja": "その二種の分岐には数百万年かかった。" }
+    ],
+    "warn": ["対義語は convergence（収束）。動詞は diverge。生物では「分岐進化」。"],
+    "etym_note": "ラテン語 divergere（分かれて広がる）に由来する diverge に -ence が付いた語。",
+    "etym_chain": [
+      { "node": "divergere", "sub": "分かれて広がる", "era": "後期ラテン語" },
+      { "node": "diverge", "sub": "分岐する", "era": "近代英語" },
+      { "node": "divergence", "sub": "分岐", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a divergence of opinion", "ja": "意見の相違" },
+      { "en": "divergence and convergence", "ja": "分岐と収束" },
+      { "en": "cultural divergence", "ja": "文化的な相違" },
+      { "en": "a growing divergence", "ja": "広がる相違" },
+      { "en": "divergence from the norm", "ja": "規範からの逸脱" },
+      { "en": "economic divergence", "ja": "経済的な格差の拡大" }
+    ],
+    "related": [
+      { "en": "diverge", "ja": "分岐する" },
+      { "en": "convergence", "ja": "収束" },
+      { "en": "difference", "ja": "違い" },
+      { "en": "disparity", "ja": "格差" }
+    ],
+    "faq": [
+      { "q": "divergence の対義語は？", "a": "convergence（収束・一点に集まること）です。" },
+      { "q": "a divergence of opinion とは？", "a": "「意見の相違・食い違い」という定番表現です。" }
+    ],
+    "quiz": [
+      { "q": "divergence の意味は？", "A": "収束", "B": "分岐・相違", "C": "一致", "D": "結合", "correct": "B" },
+      { "q": "divergence の対義語は？", "A": "convergence", "B": "conference", "C": "coherence", "D": "confidence", "correct": "A" }
+    ]
+  }
+]
