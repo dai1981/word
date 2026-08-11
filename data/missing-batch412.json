@@ -1,0 +1,976 @@
+[
+  {
+    "english": "inference",
+    "pron": "ˈɪnfərəns",
+    "kana": "インファレンス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 inferre（推し量る・持ち込む）に由来",
+    "ld_level": "対象外",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "論理"],
+    "meaning_main": "推論／推測／(手がかりからの)結論",
+    "description": "inference（インファレンス）は「推論・推測」を意味する名詞。手がかりや事実から論理的に導き出す結論を指します。",
+    "keywords": ["inference 意味", "推論 英語", "infer 名詞"],
+    "meanings": [
+      { "hinshi": "【名詞】推論、推測", "note": "既知の事実・手がかりから論理的に導く結論。infer（推論する）の名詞形。可算・不可算。" }
+    ],
+    "usages": [
+      { "title": "① 手がかりからの結論", "desc": "論理の文脈で。", "example_en": "We can draw an inference from the data.", "example_ja": "そのデータから推論を導くことができる。" },
+      { "title": "② 読み取り", "desc": "読解などで。", "example_en": "Making inferences is an important reading skill.", "example_ja": "推論をすることは重要な読解の技能だ。" }
+    ],
+    "warn": ["動詞は infer（推論する）。imply（ほのめかす＝話し手側）と infer（推測する＝聞き手側）を混同しない。"],
+    "etym_note": "ラテン語 inferre（in-＝中に＋ferre＝運ぶ、『(結論を)引き出す』）に由来する infer に、名詞化の -ence が付いた語。",
+    "etym_chain": [
+      { "node": "inferre", "sub": "推し量る（ラテン語）", "era": "古代" },
+      { "node": "infer", "sub": "推論する", "era": "16世紀" },
+      { "node": "inference", "sub": "推論", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "draw an inference", "ja": "推論を導く" },
+      { "en": "make an inference", "ja": "推測をする" },
+      { "en": "a logical inference", "ja": "論理的推論" },
+      { "en": "a reasonable inference", "ja": "妥当な推測" },
+      { "en": "by inference", "ja": "推論によって" },
+      { "en": "statistical inference", "ja": "統計的推論" }
+    ],
+    "related": [
+      { "en": "infer", "ja": "推論する" },
+      { "en": "deduction", "ja": "演繹・推理" },
+      { "en": "conclusion", "ja": "結論" },
+      { "en": "imply", "ja": "ほのめかす" }
+    ],
+    "faq": [
+      { "q": "inference の動詞形は？", "a": "infer（推論する・推測する）です。" },
+      { "q": "infer と imply の違いは？", "a": "imply は話し手が『ほのめかす』、infer は聞き手が『(それを)推測する』で、視点が逆です。" }
+    ],
+    "quiz": [
+      { "q": "inference の意味は？", "A": "推論・推測", "B": "証明", "C": "命令", "D": "記録", "correct": "A" },
+      { "q": "inference の動詞形は？", "A": "infer", "B": "inform", "C": "infect", "D": "inflate", "correct": "A" }
+    ]
+  },
+  {
+    "english": "infertility",
+    "pron": "ˌɪnfɜːrˈtɪləti",
+    "kana": "インファティリティ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "in-（否定）＋fertility（豊かさ・繁殖力）",
+    "ld_level": "対象外",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "医療"],
+    "meaning_main": "不妊／(土地の)不毛",
+    "description": "infertility（インファティリティ）は「不妊」を意味する名詞。子を持つ力の欠如や、土地が作物を育てられない不毛さを指します。",
+    "keywords": ["infertility 意味", "不妊 英語", "fertility 反対"],
+    "meanings": [
+      { "hinshi": "【名詞】不妊", "note": "自然に妊娠・出産する力がないこと。fertility（繁殖力）の反対。不可算。" },
+      { "hinshi": "【名詞】(土地の)不毛", "note": "土地が作物を育てられない状態。" }
+    ],
+    "usages": [
+      { "title": "① 医療の文脈", "desc": "妊娠に関して。", "example_en": "The clinic specializes in treating infertility.", "example_ja": "そのクリニックは不妊治療を専門にしている。" },
+      { "title": "② 土地の不毛", "desc": "農業の文脈で。", "example_en": "Soil infertility reduced the harvest.", "example_ja": "土壌の不毛さが収穫を減らした。" }
+    ],
+    "warn": ["反対は fertility（繁殖力・肥沃さ）。形容詞は infertile（不妊の・不毛の）。"],
+    "etym_note": "ラテン語 fertilis（実り豊かな）に由来する fertility に、否定の in- が付いた語。『実らないこと』を表す。",
+    "etym_chain": [
+      { "node": "fertility", "sub": "繁殖力・肥沃さ", "era": "16世紀" },
+      { "node": "infertility", "sub": "不妊・不毛", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "treat infertility", "ja": "不妊を治療する" },
+      { "en": "infertility treatment", "ja": "不妊治療" },
+      { "en": "causes of infertility", "ja": "不妊の原因" },
+      { "en": "male infertility", "ja": "男性不妊" },
+      { "en": "soil infertility", "ja": "土壌の不毛" },
+      { "en": "struggle with infertility", "ja": "不妊に悩む" }
+    ],
+    "related": [
+      { "en": "fertility", "ja": "繁殖力・肥沃さ" },
+      { "en": "infertile", "ja": "不妊の・不毛の" },
+      { "en": "sterility", "ja": "不妊・無菌" },
+      { "en": "reproduction", "ja": "生殖" }
+    ],
+    "faq": [
+      { "q": "infertility の反対語は？", "a": "fertility（繁殖力・肥沃さ）です。" },
+      { "q": "infertility の形容詞形は？", "a": "infertile（不妊の・不毛の）です。" }
+    ],
+    "quiz": [
+      { "q": "infertility の意味は？", "A": "不妊・不毛", "B": "多産", "C": "健康", "D": "成長", "correct": "A" },
+      { "q": "infertility の反対語は？", "A": "fertility", "B": "flexibility", "C": "facility", "D": "fatality", "correct": "A" }
+    ]
+  },
+  {
+    "english": "infestation",
+    "pron": "ˌɪnfeˈsteɪʃn",
+    "kana": "インフェステイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 infestare（襲う・悩ます）に由来する infest＋-ation",
+    "ld_level": "対象外",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "描写"],
+    "meaning_main": "(害虫・害獣などの)大量発生／はびこること",
+    "description": "infestation（インフェステイション）は「(害虫・害獣・雑草などの)大量発生・はびこること」を意味する名詞です。",
+    "keywords": ["infestation 意味", "大量発生 英語", "infest 名詞"],
+    "meanings": [
+      { "hinshi": "【名詞】(害虫などの)大量発生、はびこること", "note": "害虫・ネズミ・雑草などが群がって被害を及ぼすこと。infest（はびこる）の名詞形。可算・不可算。" }
+    ],
+    "usages": [
+      { "title": "① 害虫の発生", "desc": "被害の文脈で。", "example_en": "The house had a serious termite infestation.", "example_ja": "その家はシロアリの深刻な大量発生に見舞われていた。" },
+      { "title": "② 駆除を述べる", "desc": "対処に。", "example_en": "They called experts to deal with the rat infestation.", "example_ja": "彼らはネズミの大量発生に対処するため専門家を呼んだ。" }
+    ],
+    "warn": ["動詞は infest（(害虫などが)はびこる・たかる）。多くは害虫・害獣・雑草など好ましくないものに使う。"],
+    "etym_note": "ラテン語 infestare（襲う・悩ます）に由来する infest に、名詞化の -ation が付いた語。『はびこって害をなすこと』を表す。",
+    "etym_chain": [
+      { "node": "infestare", "sub": "襲う・悩ます（ラテン語）", "era": "古代" },
+      { "node": "infest", "sub": "はびこる・たかる", "era": "16世紀" },
+      { "node": "infestation", "sub": "大量発生", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an insect infestation", "ja": "害虫の大量発生" },
+      { "en": "a termite infestation", "ja": "シロアリの発生" },
+      { "en": "a rat infestation", "ja": "ネズミの大量発生" },
+      { "en": "deal with an infestation", "ja": "大量発生に対処する" },
+      { "en": "a severe infestation", "ja": "深刻な大量発生" },
+      { "en": "prevent infestation", "ja": "発生を防ぐ" }
+    ],
+    "related": [
+      { "en": "infest", "ja": "はびこる・たかる" },
+      { "en": "pest", "ja": "害虫・害獣" },
+      { "en": "plague", "ja": "疫病・大量発生" },
+      { "en": "outbreak", "ja": "発生・突発" }
+    ],
+    "faq": [
+      { "q": "infestation の動詞形は？", "a": "infest（(害虫などが)はびこる・たかる）です。" },
+      { "q": "infestation はどんなものに使う？", "a": "害虫・ネズミ・雑草など、群がって被害をもたらす好ましくないものの『大量発生』に使います。" }
+    ],
+    "quiz": [
+      { "q": "infestation の意味は？", "A": "(害虫などの)大量発生", "B": "収穫", "C": "祝祭", "D": "投資", "correct": "A" },
+      { "q": "infestation の動詞形は？", "A": "infest", "B": "invest", "C": "infect", "D": "insist", "correct": "A" }
+    ]
+  },
+  {
+    "english": "inflammatory",
+    "pron": "ɪnˈflæmətɔːri",
+    "kana": "インフラマトリー",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "inflame（燃え立たせる・炎症を起こす）＋-atory",
+    "ld_level": "対象外",
+    "badges": ["高校生〜", "英検準1級", "CEFR C1", "描写"],
+    "meaning_main": "(感情を)扇動する／(医学)炎症の",
+    "description": "inflammatory（インフラマトリー）は「(感情・対立を)扇動する」または「(医学の)炎症の」という意味の形容詞です。",
+    "keywords": ["inflammatory 意味", "扇動的 英語", "炎症の 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】(怒り・対立を)あおる、扇動的な", "note": "人の感情を燃え立たせ、怒りや対立を引き起こすさま。inflammatory remarks（扇動的な発言）。" },
+      { "hinshi": "【形容詞】(医学)炎症の、炎症を起こす", "note": "体の炎症に関する。anti-inflammatory（抗炎症の）。" }
+    ],
+    "usages": [
+      { "title": "① 扇動的な発言", "desc": "感情をあおる。", "example_en": "His inflammatory speech sparked protests.", "example_ja": "彼の扇動的な演説は抗議行動を引き起こした。" },
+      { "title": "② 医学の炎症", "desc": "医療の文脈で。", "example_en": "The drug reduces the inflammatory response.", "example_ja": "その薬は炎症反応を抑える。" }
+    ],
+    "warn": ["動詞は inflame（燃え立たせる・炎症を起こす）。医学では anti-inflammatory（抗炎症薬）が頻出。"],
+    "etym_note": "ラテン語 inflammare（火をつける、in-＝中に＋flamma＝炎）に由来する inflame に、-atory が付いた語。『燃え立たせる』が原義。",
+    "etym_chain": [
+      { "node": "inflammare", "sub": "火をつける（ラテン語）", "era": "古代" },
+      { "node": "inflame", "sub": "燃え立たせる", "era": "中世" },
+      { "node": "inflammatory", "sub": "扇動的な・炎症の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "inflammatory remarks", "ja": "扇動的な発言" },
+      { "en": "inflammatory language", "ja": "あおるような言葉" },
+      { "en": "an inflammatory speech", "ja": "扇動的な演説" },
+      { "en": "anti-inflammatory", "ja": "抗炎症の" },
+      { "en": "an inflammatory disease", "ja": "炎症性の病気" },
+      { "en": "inflammatory rhetoric", "ja": "あおり立てる言い回し" }
+    ],
+    "related": [
+      { "en": "inflame", "ja": "燃え立たせる・炎症を起こす" },
+      { "en": "provocative", "ja": "挑発的な" },
+      { "en": "incendiary", "ja": "扇動的な・焼夷の" },
+      { "en": "inflammation", "ja": "炎症" }
+    ],
+    "faq": [
+      { "q": "inflammatory の二つの意味は？", "a": "『(感情・対立を)あおる扇動的な』という意味と、『(医学の)炎症の・炎症を起こす』という意味があります。" },
+      { "q": "anti-inflammatory とは？", "a": "『抗炎症の』という意味で、炎症を抑える薬（anti-inflammatory drug）などに使われます。" }
+    ],
+    "quiz": [
+      { "q": "inflammatory remarks の意味は？", "A": "扇動的な発言", "B": "冷静な分析", "C": "丁寧なあいさつ", "D": "正確な報告", "correct": "A" },
+      { "q": "anti-inflammatory の意味は？", "A": "抗炎症の", "B": "炎症を強める", "C": "無関係の", "D": "冷凍の", "correct": "A" }
+    ]
+  },
+  {
+    "english": "informality",
+    "pron": "ˌɪnfɔːrˈmæləti",
+    "kana": "インフォーマリティ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "in-（否定）＋formality（形式ばること）",
+    "ld_level": "対象外",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "描写"],
+    "meaning_main": "形式ばらないこと／くだけた雰囲気／略式",
+    "description": "informality（インフォーマリティ）は「形式ばらないこと・くだけた雰囲気」を意味する名詞。堅苦しくない打ち解けた様子を表します。",
+    "keywords": ["informality 意味", "くだけた 英語", "formality 反対"],
+    "meanings": [
+      { "hinshi": "【名詞】形式ばらないこと、くだけた雰囲気", "note": "堅苦しさがなく打ち解けたさま。formality（形式・堅苦しさ）の反対。不可算・可算。" }
+    ],
+    "usages": [
+      { "title": "① 打ち解けた雰囲気", "desc": "場の様子に。", "example_en": "The meeting had a pleasant informality.", "example_ja": "その会合は心地よくくだけた雰囲気だった。" },
+      { "title": "② 略式のやり方", "desc": "手続きに。", "example_en": "I appreciated the informality of the interview.", "example_ja": "面接が形式ばっていなかったのはありがたかった。" }
+    ],
+    "warn": ["反対は formality（形式・堅苦しさ）。形容詞は informal（形式ばらない・くだけた）。"],
+    "etym_note": "ラテン語 forma（形）に由来する formality（形式）に、否定の in- が付いた語。『形式にとらわれないこと』を表す。",
+    "etym_chain": [
+      { "node": "formality", "sub": "形式・堅苦しさ", "era": "16世紀" },
+      { "node": "informality", "sub": "形式ばらないこと", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a sense of informality", "ja": "くだけた雰囲気" },
+      { "en": "the informality of the event", "ja": "催しの略式さ" },
+      { "en": "welcome informality", "ja": "打ち解けた雰囲気を歓迎する" },
+      { "en": "an air of informality", "ja": "堅苦しくない雰囲気" },
+      { "en": "casual informality", "ja": "気楽なくだけた感じ" },
+      { "en": "relaxed informality", "ja": "くつろいだ略式さ" }
+    ],
+    "related": [
+      { "en": "formality", "ja": "形式・堅苦しさ" },
+      { "en": "informal", "ja": "形式ばらない・くだけた" },
+      { "en": "casualness", "ja": "気軽さ" },
+      { "en": "relaxedness", "ja": "くつろぎ" }
+    ],
+    "faq": [
+      { "q": "informality の反対語は？", "a": "formality（形式・堅苦しさ）です。" },
+      { "q": "informality の形容詞形は？", "a": "informal（形式ばらない・くだけた）です。" }
+    ],
+    "quiz": [
+      { "q": "informality の意味は？", "A": "形式ばらないこと・くだけた雰囲気", "B": "堅苦しさ", "C": "正確さ", "D": "速さ", "correct": "A" },
+      { "q": "informality の反対語は？", "A": "formality", "B": "familiarity", "C": "flexibility", "D": "formation", "correct": "A" }
+    ]
+  },
+  {
+    "english": "infuriating",
+    "pron": "ɪnˈfjʊərieɪtɪŋ",
+    "kana": "インフューリエイティング",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 furia（激怒）に由来する infuriate＋-ing",
+    "ld_level": "対象外",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "感情"],
+    "meaning_main": "腹立たしい／ひどくいらだたせる",
+    "description": "infuriating（インフューリエイティング）は「腹立たしい・ひどくいらだたせる」という意味の形容詞。人を激しく怒らせる様子を表します。",
+    "keywords": ["infuriating 意味", "腹立たしい 英語", "infuriate 形容詞"],
+    "meanings": [
+      { "hinshi": "【形容詞】腹立たしい、ひどくいらだたせる", "note": "人を強く怒らせるさま。annoying（いらだたせる）より強い。" }
+    ],
+    "usages": [
+      { "title": "① 腹立たしい状況", "desc": "いらだちに。", "example_en": "It's infuriating when the train is late again.", "example_ja": "また電車が遅れるなんて腹立たしい。" },
+      { "title": "② いらだたせる態度", "desc": "対人に。", "example_en": "His calm smile was infuriating.", "example_ja": "彼の落ち着いた笑みは腹立たしかった。" }
+    ],
+    "warn": ["動詞は infuriate（激怒させる）。人の状態は infuriated（激怒した）。annoying よりも怒りが強い。"],
+    "etym_note": "ラテン語 furia（激怒・狂乱）に由来する infuriate（激怒させる）に、-ing が付いた語。『激怒させるような』の意。",
+    "etym_chain": [
+      { "node": "furia", "sub": "激怒（ラテン語）", "era": "古代" },
+      { "node": "infuriate", "sub": "激怒させる", "era": "17世紀" },
+      { "node": "infuriating", "sub": "腹立たしい", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an infuriating delay", "ja": "腹立たしい遅れ" },
+      { "en": "infuriating behavior", "ja": "いらだたせる振る舞い" },
+      { "en": "utterly infuriating", "ja": "この上なく腹立たしい" },
+      { "en": "an infuriating habit", "ja": "腹の立つ癖" },
+      { "en": "find it infuriating", "ja": "腹立たしく思う" },
+      { "en": "an infuriating situation", "ja": "腹立たしい状況" }
+    ],
+    "related": [
+      { "en": "infuriate", "ja": "激怒させる" },
+      { "en": "annoying", "ja": "いらだたせる" },
+      { "en": "maddening", "ja": "気が狂いそうな・腹立たしい" },
+      { "en": "exasperating", "ja": "いらいらさせる" }
+    ],
+    "faq": [
+      { "q": "infuriating と annoying の違いは？", "a": "どちらも『いらだたせる』ですが、infuriating は『激しく怒らせる』ほど強い語です。" },
+      { "q": "infuriating と infuriated の違いは？", "a": "infuriating は『(人を)腹立たせるような』こと・状況、infuriated は『激怒した』人の状態を表します。" }
+    ],
+    "quiz": [
+      { "q": "infuriating の意味は？", "A": "腹立たしい・ひどくいらだたせる", "B": "とても楽しい", "C": "とても悲しい", "D": "とても静かな", "correct": "A" },
+      { "q": "infuriating の動詞形は？", "A": "infuriate", "B": "inform", "C": "infuse", "D": "inflate", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ingrain",
+    "pron": "ɪnˈɡreɪn",
+    "kana": "イングレイン",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "in（中に）＋grain（きめ・繊維）",
+    "ld_level": "対象外",
+    "badges": ["社会人〜", "英検1級", "CEFR C1", "描写"],
+    "meaning_main": "(習慣・考えを)深く根づかせる／染み込ませる",
+    "description": "ingrain（イングレイン）は「(習慣・考えなどを)深く根づかせる」という意味の動詞。多くは受け身 be ingrained で使われます。",
+    "keywords": ["ingrain 意味", "根づかせる 英語", "ingrained 使い方"],
+    "meanings": [
+      { "hinshi": "【動詞】(習慣・考えを)深く根づかせる、染み込ませる", "note": "性質・信念・習慣をしっかり定着させる。多くは受け身 be ingrained（染みついている）で使う。" }
+    ],
+    "usages": [
+      { "title": "① 深く根づく", "desc": "受け身で。", "example_en": "These values are deeply ingrained in the culture.", "example_ja": "これらの価値観は文化に深く根づいている。" },
+      { "title": "② 習慣を定着させる", "desc": "教育などで。", "example_en": "Discipline was ingrained in them from an early age.", "example_ja": "規律は幼いころから彼らに染み込まされていた。" }
+    ],
+    "warn": ["多くは過去分詞 ingrained（染みついた・根深い）で使う。grain（木目・きめ）が語源で『きめの奥まで染み込む』が原義。"],
+    "etym_note": "in（中に）＋grain（染料の一種・きめ）から成り、『染料をきめの奥まで染み込ませる』が原義。そこから『深く根づかせる』へ発展した。",
+    "etym_chain": [
+      { "node": "in + grain", "sub": "中に＋きめ", "era": "中世" },
+      { "node": "ingrain", "sub": "深く根づかせる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "deeply ingrained", "ja": "深く根づいた" },
+      { "en": "ingrained habits", "ja": "染みついた習慣" },
+      { "en": "ingrained in the culture", "ja": "文化に根づいた" },
+      { "en": "ingrained beliefs", "ja": "根深い信念" },
+      { "en": "become ingrained", "ja": "染みつく" },
+      { "en": "ingrained prejudice", "ja": "根深い偏見" }
+    ],
+    "related": [
+      { "en": "ingrained", "ja": "染みついた・根深い" },
+      { "en": "instill", "ja": "植え付ける" },
+      { "en": "embed", "ja": "埋め込む・定着させる" },
+      { "en": "rooted", "ja": "根づいた" }
+    ],
+    "faq": [
+      { "q": "ingrain はどう使う？", "a": "多くは受け身・過去分詞 ingrained（染みついた・根深い）の形で、be deeply ingrained in ~（〜に深く根づいている）のように使います。" },
+      { "q": "ingrain の語源は？", "a": "grain（きめ・染料）に由来し、『きめの奥まで染み込ませる』が原義です。" }
+    ],
+    "quiz": [
+      { "q": "ingrain の意味は？", "A": "深く根づかせる・染み込ませる", "B": "取り除く", "C": "数える", "D": "折り曲げる", "correct": "A" },
+      { "q": "deeply ingrained の意味は？", "A": "深く根づいた", "B": "すぐ消える", "C": "表面だけの", "D": "新しい", "correct": "A" }
+    ]
+  },
+  {
+    "english": "inhaler",
+    "pron": "ɪnˈheɪlər",
+    "kana": "インヘイラー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "inhale（吸い込む）＋-er",
+    "ld_level": "対象外",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "医療"],
+    "meaning_main": "吸入器（ぜんそくなどの薬を吸い込む器具）",
+    "description": "inhaler（インヘイラー）はぜんそくなどの薬を口から吸い込む「吸入器」のこと。発作時に気道を広げるために使います。",
+    "keywords": ["inhaler 意味", "吸入器 英語", "inhale 名詞"],
+    "meanings": [
+      { "hinshi": "【名詞】吸入器", "note": "ぜんそく・呼吸器の薬を霧状にして吸い込む携帯用の器具。可算名詞。" }
+    ],
+    "usages": [
+      { "title": "① 発作時に使う", "desc": "医療の文脈で。", "example_en": "She used her inhaler during the asthma attack.", "example_ja": "彼女はぜんそくの発作時に吸入器を使った。" },
+      { "title": "② 携帯を勧める", "desc": "備えとして。", "example_en": "Always carry your inhaler with you.", "example_ja": "吸入器はいつも持ち歩いてください。" }
+    ],
+    "warn": ["動詞は inhale（吸い込む）、反対は exhale（吐き出す）。ぜんそく（asthma）の治療でよく使う。"],
+    "etym_note": "ラテン語 halare（息をする）に由来する inhale（吸い込む）に、道具を表す -er が付いた語。",
+    "etym_chain": [
+      { "node": "inhale", "sub": "吸い込む", "era": "18世紀" },
+      { "node": "inhaler", "sub": "吸入器", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "use an inhaler", "ja": "吸入器を使う" },
+      { "en": "an asthma inhaler", "ja": "ぜんそく用吸入器" },
+      { "en": "carry an inhaler", "ja": "吸入器を持ち歩く" },
+      { "en": "a rescue inhaler", "ja": "発作用吸入器" },
+      { "en": "puff on an inhaler", "ja": "吸入器を吸う" },
+      { "en": "reach for an inhaler", "ja": "吸入器に手を伸ばす" }
+    ],
+    "related": [
+      { "en": "inhale", "ja": "吸い込む" },
+      { "en": "exhale", "ja": "吐き出す" },
+      { "en": "asthma", "ja": "ぜんそく" },
+      { "en": "nebulizer", "ja": "ネブライザー（噴霧器）" }
+    ],
+    "faq": [
+      { "q": "inhaler は何に使う？", "a": "ぜんそくなどの発作時に、薬を吸い込んで気道を広げるために使う携帯用の吸入器です。" },
+      { "q": "inhaler の動詞のもとは？", "a": "inhale（吸い込む）です。反対は exhale（吐き出す）です。" }
+    ],
+    "quiz": [
+      { "q": "inhaler とは？", "A": "薬を吸い込む器具", "B": "体温計", "C": "包帯", "D": "注射器", "correct": "A" },
+      { "q": "inhaler の動詞のもとは？", "A": "inhale", "B": "inhabit", "C": "inherit", "D": "inflate", "correct": "A" }
+    ]
+  },
+  {
+    "english": "inherited",
+    "pron": "ɪnˈherɪtɪd",
+    "kana": "インヘリティド",
+    "hinshi": "形容詞 / 動詞(inherit の過去形)",
+    "ld_pos": "形容詞",
+    "ld_etym": "inherit（相続する・受け継ぐ）＋-ed",
+    "ld_level": "対象外",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "描写"],
+    "meaning_main": "受け継いだ／遺伝の／相続した",
+    "description": "inherited（インヘリティド）は「受け継いだ・遺伝の」という意味の形容詞。財産や性質を親などから受け継いだ状態を表します。",
+    "keywords": ["inherited 意味", "受け継いだ 英語", "inherit 過去形"],
+    "meanings": [
+      { "hinshi": "【形容詞】受け継いだ、相続した", "note": "財産・地位などを他者から受け継いだ。inherited wealth（相続した財産）。" },
+      { "hinshi": "【形容詞】遺伝の、遺伝性の", "note": "親から生物学的に受け継いだ。inherited disease（遺伝性の病気）。" },
+      { "hinshi": "【動詞】inherit の過去・過去分詞", "note": "inherit（相続する・受け継ぐ）の -ed 形。" }
+    ],
+    "usages": [
+      { "title": "① 相続した財産", "desc": "遺産に。", "example_en": "She lived on inherited wealth.", "example_ja": "彼女は相続した財産で暮らしていた。" },
+      { "title": "② 遺伝の性質", "desc": "生物学の文脈で。", "example_en": "Eye color is an inherited trait.", "example_ja": "目の色は遺伝で受け継がれる形質だ。" }
+    ],
+    "warn": ["動詞 inherit の目的語に注意（inherit money from ~）。遺伝性は inherited / hereditary。"],
+    "etym_note": "ラテン語 heres（相続人）に由来する inherit に、-ed が付いた語。財産・性質を『受け継ぐ』が原義。",
+    "etym_chain": [
+      { "node": "inherit", "sub": "相続する・受け継ぐ", "era": "中世" },
+      { "node": "inherited", "sub": "受け継いだ・遺伝の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "inherited wealth", "ja": "相続した財産" },
+      { "en": "an inherited trait", "ja": "遺伝で受け継いだ形質" },
+      { "en": "an inherited disease", "ja": "遺伝性の病気" },
+      { "en": "inherited property", "ja": "相続した資産" },
+      { "en": "an inherited title", "ja": "受け継いだ称号" },
+      { "en": "inherited characteristics", "ja": "遺伝的特徴" }
+    ],
+    "related": [
+      { "en": "inherit", "ja": "相続する・受け継ぐ" },
+      { "en": "hereditary", "ja": "遺伝性の・世襲の" },
+      { "en": "inheritance", "ja": "相続・遺産" },
+      { "en": "acquired", "ja": "後天的な" }
+    ],
+    "faq": [
+      { "q": "inherited の名詞形は？", "a": "inheritance（相続・遺産）です。動詞は inherit（相続する）です。" },
+      { "q": "inherited と hereditary の違いは？", "a": "inherited は『実際に受け継いだ』、hereditary は『遺伝・世襲によって伝わる性質の』という含みで使われます。" }
+    ],
+    "quiz": [
+      { "q": "inherited の意味は？", "A": "受け継いだ・遺伝の", "B": "自分で作った", "C": "捨てた", "D": "借りた", "correct": "A" },
+      { "q": "inherited の名詞形は？", "A": "inheritance", "B": "inhibition", "C": "inhalation", "D": "initiation", "correct": "A" }
+    ]
+  },
+  {
+    "english": "inhumane",
+    "pron": "ˌɪnhjuːˈmeɪn",
+    "kana": "インヒューメイン",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "in-（否定）＋humane（人道的な）",
+    "ld_level": "対象外",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "評価"],
+    "meaning_main": "非人道的な／むごい／思いやりのない",
+    "description": "inhumane（インヒューメイン）は「非人道的な・むごい」という意味の形容詞。人や動物に苦痛を与える冷酷な扱いを表します。",
+    "keywords": ["inhumane 意味", "非人道的 英語", "humane 反対"],
+    "meanings": [
+      { "hinshi": "【形容詞】非人道的な、むごい", "note": "苦痛を与え、思いやりに欠けるさま。humane（人道的な）の反対。" }
+    ],
+    "usages": [
+      { "title": "① むごい扱い", "desc": "待遇に。", "example_en": "The prisoners were kept in inhumane conditions.", "example_ja": "囚人たちは非人道的な環境に置かれていた。" },
+      { "title": "② 冷酷な行い", "desc": "行為に。", "example_en": "It would be inhumane to leave them without help.", "example_ja": "彼らを助けずに放置するのは非人道的だ。" }
+    ],
+    "warn": ["反対は humane（人道的な）。inhuman（人間離れした・冷酷な）とも近いが、inhumane は『思いやりのなさ』に焦点。"],
+    "etym_note": "ラテン語 humanus（人間らしい）に由来する humane（人道的な）に、否定の in- が付いた語。『人間らしい思いやりがない』の意。",
+    "etym_chain": [
+      { "node": "humane", "sub": "人道的な", "era": "16世紀" },
+      { "node": "inhumane", "sub": "非人道的な", "era": "19世紀" }
+    ],
+    "phrases": [
+      { "en": "inhumane treatment", "ja": "非人道的な扱い" },
+      { "en": "inhumane conditions", "ja": "非人道的な環境" },
+      { "en": "cruel and inhumane", "ja": "残酷で非人道的な" },
+      { "en": "an inhumane practice", "ja": "むごい慣行" },
+      { "en": "inhumane punishment", "ja": "非人道的な刑罰" },
+      { "en": "regard as inhumane", "ja": "非人道的とみなす" }
+    ],
+    "related": [
+      { "en": "humane", "ja": "人道的な" },
+      { "en": "inhuman", "ja": "冷酷な・人間離れした" },
+      { "en": "cruel", "ja": "残酷な" },
+      { "en": "brutal", "ja": "残忍な" }
+    ],
+    "faq": [
+      { "q": "inhumane の反対語は？", "a": "humane（人道的な・思いやりのある）です。" },
+      { "q": "inhumane と inhuman の違いは？", "a": "inhumane は『思いやりに欠け、むごい』、inhuman は『人間離れした・冷酷な』で、重なる部分もあります。" }
+    ],
+    "quiz": [
+      { "q": "inhumane の意味は？", "A": "非人道的な・むごい", "B": "人道的な", "C": "巨大な", "D": "湿った", "correct": "A" },
+      { "q": "inhumane の反対語は？", "A": "humane", "B": "human", "C": "humble", "D": "humid", "correct": "A" }
+    ]
+  },
+  {
+    "english": "initialization",
+    "pron": "ɪˌnɪʃələˈzeɪʃn",
+    "kana": "イニシャライゼイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "initial（最初の）＋-ize＋-ation",
+    "ld_level": "対象外",
+    "badges": ["高校生〜", "英検準1級", "CEFR C1", "IT"],
+    "meaning_main": "初期化／(使用前の)初期設定",
+    "description": "initialization（イニシャライゼイション）は「初期化・初期設定」を意味する名詞。機器やプログラムを使い始める前の準備・設定を指します。",
+    "keywords": ["initialization 意味", "初期化 英語", "initialize 名詞"],
+    "meanings": [
+      { "hinshi": "【名詞】初期化、初期設定", "note": "システム・変数・機器を使用可能な初期状態にすること。IT分野で頻出。英つづり initialisation も可。不可算・可算。" }
+    ],
+    "usages": [
+      { "title": "① プログラムの初期化", "desc": "IT の文脈で。", "example_en": "The variable requires initialization before use.", "example_ja": "その変数は使用前に初期化が必要だ。" },
+      { "title": "② 機器の初期設定", "desc": "セットアップに。", "example_en": "Initialization of the device takes a few seconds.", "example_ja": "その機器の初期化には数秒かかる。" }
+    ],
+    "warn": ["動詞は initialize（初期化する）。工場出荷状態に戻すのは reset。IT用語として頻出。"],
+    "etym_note": "ラテン語 initium（始まり）に由来する initial に、動詞化の -ize と名詞化の -ation が付いた語。『最初の状態にすること』を表す。",
+    "etym_chain": [
+      { "node": "initial", "sub": "最初の", "era": "16世紀" },
+      { "node": "initialize", "sub": "初期化する", "era": "20世紀" },
+      { "node": "initialization", "sub": "初期化", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "variable initialization", "ja": "変数の初期化" },
+      { "en": "system initialization", "ja": "システムの初期化" },
+      { "en": "require initialization", "ja": "初期化を要する" },
+      { "en": "during initialization", "ja": "初期化の間に" },
+      { "en": "initialization failed", "ja": "初期化に失敗した" },
+      { "en": "on initialization", "ja": "初期化時に" }
+    ],
+    "related": [
+      { "en": "initialize", "ja": "初期化する" },
+      { "en": "initial", "ja": "最初の" },
+      { "en": "setup", "ja": "設定・準備" },
+      { "en": "reset", "ja": "リセット・初期状態に戻す" }
+    ],
+    "faq": [
+      { "q": "initialization の動詞形は？", "a": "initialize（初期化する）です。" },
+      { "q": "initialization と reset の違いは？", "a": "initialization は『使用前に初期状態を整える』こと、reset は『(途中で)初期状態に戻す』ことに重点があります。" }
+    ],
+    "quiz": [
+      { "q": "initialization の意味は？", "A": "初期化・初期設定", "B": "最終処理", "C": "削除", "D": "複製", "correct": "A" },
+      { "q": "initialization の動詞形は？", "A": "initialize", "B": "initiate", "C": "imitate", "D": "indicate", "correct": "A" }
+    ]
+  },
+  {
+    "english": "innately",
+    "pron": "ɪˈneɪtli",
+    "kana": "イネイトリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "innate（生得の）＋-ly",
+    "ld_level": "対象外",
+    "badges": ["高校生〜", "英検準1級", "CEFR C1", "描写"],
+    "meaning_main": "生まれつき／本来／生得的に",
+    "description": "innately（イネイトリー）は「生まれつき・本来」という意味の副詞。教わったのではなく、もともと備わっている様子を表します。",
+    "keywords": ["innately 意味", "生まれつき 英語", "innate 副詞"],
+    "meanings": [
+      { "hinshi": "【副詞】生まれつき、本来、生得的に", "note": "後天的でなく、もとから備わっているさま。innate（生得の）＋-ly。" }
+    ],
+    "usages": [
+      { "title": "① 生まれつきの性質", "desc": "本来備わる。", "example_en": "Humans are innately curious.", "example_ja": "人間は生まれつき好奇心が強い。" },
+      { "title": "② 本質的に", "desc": "性質を述べる。", "example_en": "The task is not innately difficult.", "example_ja": "その作業は本来難しいものではない。" }
+    ],
+    "warn": ["反対は『後天的に』の意で acquired の副詞的な言い方など。形容詞は innate（生得の）。"],
+    "etym_note": "ラテン語 innatus（in-＝中に＋natus＝生まれた、『生まれつき備わった』）に由来する innate に、副詞化の -ly が付いた語。",
+    "etym_chain": [
+      { "node": "innatus", "sub": "生まれつきの（ラテン語）", "era": "古代" },
+      { "node": "innate", "sub": "生得の", "era": "15世紀" },
+      { "node": "innately", "sub": "生まれつき", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "innately curious", "ja": "生まれつき好奇心の強い" },
+      { "en": "innately good", "ja": "本来善良な" },
+      { "en": "innately talented", "ja": "生まれつき才能のある" },
+      { "en": "innately social", "ja": "生来社交的な" },
+      { "en": "not innately difficult", "ja": "本来は難しくない" },
+      { "en": "innately capable", "ja": "生来の能力がある" }
+    ],
+    "related": [
+      { "en": "innate", "ja": "生得の・生まれつきの" },
+      { "en": "inherently", "ja": "本質的に" },
+      { "en": "naturally", "ja": "生まれつき・自然に" },
+      { "en": "intrinsically", "ja": "本来的に" }
+    ],
+    "faq": [
+      { "q": "innately の形容詞形は？", "a": "innate（生得の・生まれつきの）です。" },
+      { "q": "innately と inherently の違いは？", "a": "どちらも『本来・本質的に』ですが、innately は特に『生まれつき備わっている』ことを強調します。" }
+    ],
+    "quiz": [
+      { "q": "innately の意味は？", "A": "生まれつき・本来", "B": "後から学んで", "C": "偶然に", "D": "急いで", "correct": "A" },
+      { "q": "innately の形容詞形は？", "A": "innate", "B": "innative", "C": "inner", "D": "initial", "correct": "A" }
+    ]
+  },
+  {
+    "english": "insalubrious",
+    "pron": "ˌɪnsəˈluːbriəs",
+    "kana": "インサルーブリアス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "in-（否定）＋salubrious（健康によい)",
+    "ld_level": "対象外",
+    "badges": ["社会人〜", "英検1級", "CEFR C2", "文語"],
+    "meaning_main": "健康に悪い／不健全な／(場所が)むさ苦しい",
+    "description": "insalubrious（インサルーブリアス）は「健康に悪い・不健全な」という意味の格式ばった形容詞。環境や場所が好ましくない様子を表します。",
+    "keywords": ["insalubrious 意味", "不健全 英語", "salubrious 反対"],
+    "meanings": [
+      { "hinshi": "【形容詞】健康に悪い、不健全な", "note": "空気・環境などが健康に良くないさま。salubrious（健康によい）の反対。格式語。" },
+      { "hinshi": "【形容詞】(場所が)むさ苦しい、いかがわしい", "note": "場所・地域が好ましくない、うらぶれたさま。" }
+    ],
+    "usages": [
+      { "title": "① 健康に悪い環境", "desc": "衛生の文脈で。", "example_en": "They lived in insalubrious, damp housing.", "example_ja": "彼らは健康に悪い、じめじめした住まいで暮らしていた。" },
+      { "title": "② うらぶれた場所", "desc": "地域について。", "example_en": "The bar was in a rather insalubrious part of town.", "example_ja": "そのバーは町のかなりいかがわしい一角にあった。" }
+    ],
+    "warn": ["非常に格式ばった語。反対は salubrious（健康によい・快適な）。日常では unhealthy が使われる。"],
+    "etym_note": "ラテン語 salubris（健康によい、salus＝健康）に由来する salubrious に、否定の in- が付いた語。",
+    "etym_chain": [
+      { "node": "salubris", "sub": "健康によい（ラテン語）", "era": "古代" },
+      { "node": "salubrious", "sub": "健康によい", "era": "16世紀" },
+      { "node": "insalubrious", "sub": "健康に悪い", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "insalubrious conditions", "ja": "不健全な環境" },
+      { "en": "an insalubrious area", "ja": "いかがわしい地域" },
+      { "en": "insalubrious housing", "ja": "健康に悪い住居" },
+      { "en": "a rather insalubrious district", "ja": "かなりうらぶれた地区" },
+      { "en": "insalubrious surroundings", "ja": "不健全な周辺環境" },
+      { "en": "an insalubrious climate", "ja": "健康に悪い気候" }
+    ],
+    "related": [
+      { "en": "salubrious", "ja": "健康によい・快適な" },
+      { "en": "unhealthy", "ja": "健康に悪い" },
+      { "en": "unwholesome", "ja": "不健全な" },
+      { "en": "squalid", "ja": "むさ苦しい" }
+    ],
+    "faq": [
+      { "q": "insalubrious の反対語は？", "a": "salubrious（健康によい・快適な）です。" },
+      { "q": "insalubrious はよく使う語？", "a": "かなり格式ばった文語で、日常では unhealthy（健康に悪い）が使われます。" }
+    ],
+    "quiz": [
+      { "q": "insalubrious の意味は？", "A": "健康に悪い・不健全な", "B": "健康によい", "C": "とても速い", "D": "とても明るい", "correct": "A" },
+      { "q": "insalubrious の反対語は？", "A": "salubrious", "B": "suspicious", "C": "superstitious", "D": "spacious", "correct": "A" }
+    ]
+  },
+  {
+    "english": "insider",
+    "pron": "ˌɪnˈsaɪdər",
+    "kana": "インサイダー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "inside（内側）＋-er（人）",
+    "ld_level": "対象外",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "社会"],
+    "meaning_main": "内部の人／組織内の事情通",
+    "description": "insider（インサイダー）は「内部の人・組織内の事情通」を意味する名詞。組織の内側にいて秘密や実情を知る人を指します。",
+    "keywords": ["insider 意味", "内部の人 英語", "インサイダー取引"],
+    "meanings": [
+      { "hinshi": "【名詞】内部の人、組織内の事情通", "note": "組織・集団の内側にいて、内部情報や実情を知る人。可算名詞。" }
+    ],
+    "usages": [
+      { "title": "① 内部の人", "desc": "組織の中の人。", "example_en": "Only an insider would know that detail.", "example_ja": "その詳細を知るのは内部の人だけだろう。" },
+      { "title": "② 情報の文脈", "desc": "取引などに。", "example_en": "Insider trading is illegal.", "example_ja": "インサイダー取引は違法だ。" }
+    ],
+    "warn": ["反対は outsider（部外者）。insider trading（内部情報を使った不正取引）は法律頻出。"],
+    "etym_note": "inside（内側）＋人を表す -er から成る語。『内側にいる人』を意味する。",
+    "etym_chain": [
+      { "node": "inside", "sub": "内側", "era": "中世" },
+      { "node": "insider", "sub": "内部の人", "era": "19世紀" }
+    ],
+    "phrases": [
+      { "en": "an industry insider", "ja": "業界の事情通" },
+      { "en": "insider trading", "ja": "インサイダー取引" },
+      { "en": "insider information", "ja": "内部情報" },
+      { "en": "a political insider", "ja": "政界の事情通" },
+      { "en": "an insider's view", "ja": "内部の人の視点" },
+      { "en": "an insider tip", "ja": "内部情報の助言" }
+    ],
+    "related": [
+      { "en": "outsider", "ja": "部外者" },
+      { "en": "insider trading", "ja": "インサイダー取引" },
+      { "en": "member", "ja": "会員・一員" },
+      { "en": "informant", "ja": "情報提供者" }
+    ],
+    "faq": [
+      { "q": "insider の反対語は？", "a": "outsider（部外者・よそ者）です。" },
+      { "q": "insider trading とは？", "a": "内部情報を利用して株などを売買する『インサイダー取引』で、多くの国で違法とされています。" }
+    ],
+    "quiz": [
+      { "q": "insider の意味は？", "A": "内部の人・事情通", "B": "部外者", "C": "観光客", "D": "審判", "correct": "A" },
+      { "q": "insider の反対語は？", "A": "outsider", "B": "outlier", "C": "outlaw", "D": "outset", "correct": "A" }
+    ]
+  },
+  {
+    "english": "insightful",
+    "pron": "ˈɪnsaɪtfl",
+    "kana": "インサイトフル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "insight（洞察）＋-ful",
+    "ld_level": "対象外",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "評価"],
+    "meaning_main": "洞察力のある／物事の本質を見抜いた",
+    "description": "insightful（インサイトフル）は「洞察力のある・鋭い」という意味の形容詞。物事の本質を深く見抜く力を持つ様子を表します。",
+    "keywords": ["insightful 意味", "洞察力 英語", "insight 形容詞"],
+    "meanings": [
+      { "hinshi": "【形容詞】洞察力のある、鋭い", "note": "物事の本質・核心を深く理解し見抜くさま。insight（洞察）＋-ful。" }
+    ],
+    "usages": [
+      { "title": "① 鋭い意見", "desc": "分析・発言に。", "example_en": "She made an insightful comment about the problem.", "example_ja": "彼女はその問題について洞察に富む意見を述べた。" },
+      { "title": "② 深い分析", "desc": "内容に。", "example_en": "The book offers an insightful analysis of society.", "example_ja": "その本は社会についての鋭い分析を提供する。" }
+    ],
+    "warn": ["反対は superficial（表面的な）。名詞は insight（洞察・見識）。褒め言葉としてよく使う。"],
+    "etym_note": "in（中を）＋sight（見ること）から成る insight（洞察）に、『〜に満ちた』を表す -ful が付いた語。",
+    "etym_chain": [
+      { "node": "insight", "sub": "洞察", "era": "中世" },
+      { "node": "insightful", "sub": "洞察力のある", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an insightful comment", "ja": "洞察に富む意見" },
+      { "en": "an insightful analysis", "ja": "鋭い分析" },
+      { "en": "deeply insightful", "ja": "きわめて洞察力のある" },
+      { "en": "an insightful observation", "ja": "鋭い観察" },
+      { "en": "an insightful book", "ja": "示唆に富む本" },
+      { "en": "an insightful question", "ja": "本質を突く質問" }
+    ],
+    "related": [
+      { "en": "insight", "ja": "洞察・見識" },
+      { "en": "perceptive", "ja": "洞察力のある" },
+      { "en": "astute", "ja": "抜け目のない・鋭い" },
+      { "en": "superficial", "ja": "表面的な" }
+    ],
+    "faq": [
+      { "q": "insightful の名詞形は？", "a": "insight（洞察・見識）です。" },
+      { "q": "insightful の反対語は？", "a": "superficial（表面的な）や shallow（浅はかな）です。" }
+    ],
+    "quiz": [
+      { "q": "insightful の意味は？", "A": "洞察力のある・鋭い", "B": "表面的な", "C": "退屈な", "D": "巨大な", "correct": "A" },
+      { "q": "insightful の名詞形は？", "A": "insight", "B": "inside", "C": "insist", "D": "install", "correct": "A" }
+    ]
+  },
+  {
+    "english": "insolent",
+    "pron": "ˈɪnsələnt",
+    "kana": "インソレント",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 insolens（傲慢な・慣れない）に由来",
+    "ld_level": "対象外",
+    "badges": ["社会人〜", "英検1級", "CEFR C1", "態度"],
+    "meaning_main": "無礼な／横柄な／人を見下した",
+    "description": "insolent（インソレント）は「無礼な・横柄な」という意味の形容詞。目上の人などに対する生意気で人を見下した態度を表します。",
+    "keywords": ["insolent 意味", "無礼 英語", "insolent 使い方"],
+    "meanings": [
+      { "hinshi": "【形容詞】無礼な、横柄な、生意気な", "note": "敬意を欠き、人を見下した態度。特に目上への失礼な言動に使う。" }
+    ],
+    "usages": [
+      { "title": "① 生意気な態度", "desc": "対人に。", "example_en": "The insolent student talked back to the teacher.", "example_ja": "その生意気な生徒は先生に口答えした。" },
+      { "title": "② 横柄な口調", "desc": "話し方に。", "example_en": "He gave an insolent reply.", "example_ja": "彼は横柄な返事をした。" }
+    ],
+    "warn": ["反対は respectful / polite（礼儀正しい）。名詞は insolence（無礼・横柄）。"],
+    "etym_note": "ラテン語 insolens（in-＝否定＋solere＝慣れる、『慣例に反する＝傲慢な』）に由来する語。",
+    "etym_chain": [
+      { "node": "insolens", "sub": "傲慢な（ラテン語）", "era": "古代" },
+      { "node": "insolent", "sub": "無礼な・横柄な", "era": "15世紀" }
+    ],
+    "phrases": [
+      { "en": "an insolent remark", "ja": "無礼な発言" },
+      { "en": "an insolent tone", "ja": "横柄な口調" },
+      { "en": "an insolent look", "ja": "人を見下した表情" },
+      { "en": "insolent behavior", "ja": "無礼な振る舞い" },
+      { "en": "an insolent reply", "ja": "生意気な返事" },
+      { "en": "how insolent!", "ja": "なんて無礼な！" }
+    ],
+    "related": [
+      { "en": "insolence", "ja": "無礼・横柄" },
+      { "en": "impertinent", "ja": "生意気な・無礼な" },
+      { "en": "rude", "ja": "失礼な" },
+      { "en": "respectful", "ja": "礼儀正しい" }
+    ],
+    "faq": [
+      { "q": "insolent の反対語は？", "a": "respectful（礼儀正しい）や polite（丁寧な）です。" },
+      { "q": "insolent の名詞形は？", "a": "insolence（無礼・横柄さ）です。" }
+    ],
+    "quiz": [
+      { "q": "insolent の意味は？", "A": "無礼な・横柄な", "B": "礼儀正しい", "C": "とても静かな", "D": "とても速い", "correct": "A" },
+      { "q": "insolent の名詞形は？", "A": "insolence", "B": "insolvency", "C": "insulation", "D": "insistence", "correct": "A" }
+    ]
+  },
+  {
+    "english": "insufferable",
+    "pron": "ɪnˈsʌfərəbl",
+    "kana": "インサファラブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "in-（否定）＋sufferable（耐えられる）",
+    "ld_level": "対象外",
+    "badges": ["社会人〜", "英検1級", "CEFR C1", "評価"],
+    "meaning_main": "我慢できない／耐えがたい／鼻持ちならない",
+    "description": "insufferable（インサファラブル）は「我慢できない・鼻持ちならない」という意味の形容詞。人や態度が耐えがたいほど不快な様子を表します。",
+    "keywords": ["insufferable 意味", "我慢できない 英語", "insufferable 使い方"],
+    "meanings": [
+      { "hinshi": "【形容詞】我慢できない、耐えがたい", "note": "不快で辛抱できないさま。特に人・態度が『鼻持ちならない』の意でよく使う。" }
+    ],
+    "usages": [
+      { "title": "① 鼻持ちならない人", "desc": "態度に。", "example_en": "He is insufferable when he wins.", "example_ja": "彼は勝つと鼻持ちならなくなる。" },
+      { "title": "② 耐えがたい状況", "desc": "程度に。", "example_en": "The heat was insufferable.", "example_ja": "その暑さは耐えがたかった。" }
+    ],
+    "warn": ["反対は bearable / tolerable（耐えられる）。特に『高慢で鼻持ちならない』人柄によく使う。"],
+    "etym_note": "ラテン語 sufferre（耐える）に由来する sufferable（耐えられる）に、否定の in- が付いた語。『耐えられない』の意。",
+    "etym_chain": [
+      { "node": "sufferable", "sub": "耐えられる", "era": "中世" },
+      { "node": "insufferable", "sub": "我慢できない", "era": "16世紀" }
+    ],
+    "phrases": [
+      { "en": "an insufferable person", "ja": "鼻持ちならない人" },
+      { "en": "insufferable arrogance", "ja": "耐えがたい傲慢さ" },
+      { "en": "insufferable heat", "ja": "耐えがたい暑さ" },
+      { "en": "utterly insufferable", "ja": "この上なく鼻持ちならない" },
+      { "en": "an insufferable know-it-all", "ja": "鼻持ちならない知ったかぶり" },
+      { "en": "become insufferable", "ja": "我慢できなくなる" }
+    ],
+    "related": [
+      { "en": "unbearable", "ja": "耐えられない" },
+      { "en": "intolerable", "ja": "我慢できない" },
+      { "en": "obnoxious", "ja": "鼻持ちならない" },
+      { "en": "bearable", "ja": "耐えられる" }
+    ],
+    "faq": [
+      { "q": "insufferable の反対語は？", "a": "bearable や tolerable（耐えられる）です。" },
+      { "q": "insufferable はどんなときに使う？", "a": "耐えがたい暑さなどの状況にも使いますが、特に『高慢で鼻持ちならない』人柄によく使われます。" }
+    ],
+    "quiz": [
+      { "q": "insufferable の意味は？", "A": "我慢できない・鼻持ちならない", "B": "耐えられる", "C": "とても親切な", "D": "とても速い", "correct": "A" },
+      { "q": "insufferable の反対に近い語は？", "A": "bearable", "B": "suitable", "C": "sizable", "D": "sensible", "correct": "A" }
+    ]
+  },
+  {
+    "english": "insufficiently",
+    "pron": "ˌɪnsəˈfɪʃntli",
+    "kana": "インサフィシェントリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "in-（否定）＋sufficient（十分な）＋-ly",
+    "ld_level": "対象外",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "描写"],
+    "meaning_main": "不十分に／足りないほどに",
+    "description": "insufficiently（インサフィシェントリー）は「不十分に・足りないほどに」という意味の副詞。必要な量や程度に達していない様子を表します。",
+    "keywords": ["insufficiently 意味", "不十分に 英語", "sufficient 反対"],
+    "meanings": [
+      { "hinshi": "【副詞】不十分に、足りないほどに", "note": "必要な量・程度に達しないさま。sufficient（十分な）の反対に -ly。" }
+    ],
+    "usages": [
+      { "title": "① 準備不足", "desc": "程度に。", "example_en": "The staff were insufficiently trained.", "example_ja": "スタッフは訓練が不十分だった。" },
+      { "title": "② 説明不足", "desc": "内容に。", "example_en": "The risks were insufficiently explained.", "example_ja": "リスクは十分に説明されていなかった。" }
+    ],
+    "warn": ["反対は sufficiently（十分に）。inadequately（不十分に）とほぼ同義。"],
+    "etym_note": "ラテン語 sufficere（足りる）に由来する sufficient に、否定の in- と副詞化の -ly が付いた語。",
+    "etym_chain": [
+      { "node": "sufficient", "sub": "十分な", "era": "中世" },
+      { "node": "insufficient", "sub": "不十分な", "era": "14世紀" },
+      { "node": "insufficiently", "sub": "不十分に", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "insufficiently trained", "ja": "訓練が不十分で" },
+      { "en": "insufficiently funded", "ja": "資金が不足して" },
+      { "en": "insufficiently prepared", "ja": "準備が不十分で" },
+      { "en": "insufficiently explained", "ja": "説明が不十分で" },
+      { "en": "insufficiently tested", "ja": "検証が足りずに" },
+      { "en": "insufficiently protected", "ja": "保護が不十分で" }
+    ],
+    "related": [
+      { "en": "insufficient", "ja": "不十分な" },
+      { "en": "sufficiently", "ja": "十分に" },
+      { "en": "inadequately", "ja": "不十分に" },
+      { "en": "poorly", "ja": "不十分に・下手に" }
+    ],
+    "faq": [
+      { "q": "insufficiently の反対語は？", "a": "sufficiently（十分に）です。" },
+      { "q": "insufficiently の形容詞形は？", "a": "insufficient（不十分な）です。" }
+    ],
+    "quiz": [
+      { "q": "insufficiently の意味は？", "A": "不十分に・足りないほどに", "B": "十分に", "C": "急いで", "D": "正確に", "correct": "A" },
+      { "q": "insufficiently の反対語は？", "A": "sufficiently", "B": "significantly", "C": "specifically", "D": "seriously", "correct": "A" }
+    ]
+  },
+  {
+    "english": "insulate",
+    "pron": "ˈɪnsəleɪt",
+    "kana": "インシュレイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 insula（島）に由来",
+    "ld_level": "対象外",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "科学"],
+    "meaning_main": "断熱する／絶縁する／(悪影響から)隔離する",
+    "description": "insulate（インシュレイト）は「断熱する・絶縁する」という意味の動詞。熱・電気・音を遮ることや、悪影響から守ることを表します。",
+    "keywords": ["insulate 意味", "断熱 英語", "絶縁 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】断熱する、絶縁する、遮音する", "note": "熱・電気・音の伝わりを遮る。壁の断熱、電線の絶縁など。" },
+      { "hinshi": "【動詞】(悪影響から)隔離する、守る", "note": "insulate A from B で『AをBから守る・遮断する』。" }
+    ],
+    "usages": [
+      { "title": "① 断熱する", "desc": "建物などで。", "example_en": "They insulated the roof to keep the heat in.", "example_ja": "彼らは熱を逃がさないよう屋根を断熱した。" },
+      { "title": "② 悪影響から守る", "desc": "比喩的に。", "example_en": "Wealth insulated them from the economic crisis.", "example_ja": "富が彼らを経済危機から守った。" }
+    ],
+    "warn": ["名詞は insulation（断熱・絶縁(材)）。ラテン語 insula（島）が語源で『島のように孤立させる』が原義。"],
+    "etym_note": "ラテン語 insula（島）に由来し、『島のように周囲から切り離す＝遮断する』が原義。断熱・絶縁の意味に発展した。",
+    "etym_chain": [
+      { "node": "insula", "sub": "島（ラテン語）", "era": "古代" },
+      { "node": "insulate", "sub": "断熱する・隔離する", "era": "16世紀" }
+    ],
+    "phrases": [
+      { "en": "insulate the walls", "ja": "壁を断熱する" },
+      { "en": "insulate a wire", "ja": "電線を絶縁する" },
+      { "en": "insulate against cold", "ja": "寒さを防ぐ" },
+      { "en": "insulate A from B", "ja": "AをBから守る" },
+      { "en": "well insulated", "ja": "よく断熱された" },
+      { "en": "insulate the pipes", "ja": "配管を断熱する" }
+    ],
+    "related": [
+      { "en": "insulation", "ja": "断熱・絶縁(材)" },
+      { "en": "insulator", "ja": "絶縁体・断熱材" },
+      { "en": "shield", "ja": "遮る・守る" },
+      { "en": "conduct", "ja": "(熱・電気を)伝える" }
+    ],
+    "faq": [
+      { "q": "insulate の名詞形は？", "a": "insulation（断熱・絶縁、またはその材料）です。" },
+      { "q": "insulate の語源は？", "a": "ラテン語 insula（島）に由来し、『島のように周囲から切り離す』が原義です。" }
+    ],
+    "quiz": [
+      { "q": "insulate の意味は？", "A": "断熱する・絶縁する", "B": "熱を伝える", "C": "溶かす", "D": "燃やす", "correct": "A" },
+      { "q": "insulate の名詞形は？", "A": "insulation", "B": "insulin", "C": "insult", "D": "insight", "correct": "A" }
+    ]
+  },
+  {
+    "english": "insulin",
+    "pron": "ˈɪnsəlɪn",
+    "kana": "インスリン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 insula（島＝膵臓のランゲルハンス島）に由来",
+    "ld_level": "対象外",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "医療"],
+    "meaning_main": "インスリン（血糖を調整するホルモン）",
+    "description": "insulin（インスリン）は膵臓から分泌され、血糖値を下げるはたらきを持つホルモン。糖尿病の治療にも使われます。",
+    "keywords": ["insulin 意味", "インスリン 英語", "血糖 ホルモン"],
+    "meanings": [
+      { "hinshi": "【名詞】インスリン", "note": "膵臓（ランゲルハンス島）から分泌され、血糖値を下げるホルモン。糖尿病治療の注射薬にも用いる。不可算名詞。" }
+    ],
+    "usages": [
+      { "title": "① ホルモンとして", "desc": "生理の文脈で。", "example_en": "Insulin lowers the level of sugar in the blood.", "example_ja": "インスリンは血液中の糖の量を下げる。" },
+      { "title": "② 治療で使う", "desc": "医療の文脈で。", "example_en": "Some diabetics need daily insulin injections.", "example_ja": "一部の糖尿病患者は毎日のインスリン注射を必要とする。" }
+    ],
+    "warn": ["insulate（断熱する）と語源が同じ（膵臓の『島』）だが意味は別。糖尿病は diabetes。"],
+    "etym_note": "ラテン語 insula（島）に由来し、インスリンを分泌する膵臓の『ランゲルハンス島』にちなんで名づけられた。",
+    "etym_chain": [
+      { "node": "insula", "sub": "島（ラテン語）", "era": "古代" },
+      { "node": "insulin", "sub": "インスリン", "era": "20世紀" }
+    ],
+    "phrases": [
+      { "en": "an insulin injection", "ja": "インスリン注射" },
+      { "en": "produce insulin", "ja": "インスリンを分泌する" },
+      { "en": "insulin levels", "ja": "インスリン値" },
+      { "en": "insulin resistance", "ja": "インスリン抵抗性" },
+      { "en": "take insulin", "ja": "インスリンを打つ" },
+      { "en": "a lack of insulin", "ja": "インスリンの不足" }
+    ],
+    "related": [
+      { "en": "diabetes", "ja": "糖尿病" },
+      { "en": "pancreas", "ja": "膵臓" },
+      { "en": "hormone", "ja": "ホルモン" },
+      { "en": "glucose", "ja": "ブドウ糖・血糖" }
+    ],
+    "faq": [
+      { "q": "insulin のはたらきは？", "a": "膵臓から分泌され、血液中の糖（血糖）を細胞に取り込ませて血糖値を下げるホルモンです。" },
+      { "q": "insulin と diabetes の関係は？", "a": "インスリンが不足したり効きにくくなると血糖値が高くなり、糖尿病（diabetes）につながります。" }
+    ],
+    "quiz": [
+      { "q": "insulin のはたらきは？", "A": "血糖値を下げる", "B": "体温を上げる", "C": "血圧を上げる", "D": "視力を高める", "correct": "A" },
+      { "q": "insulin を分泌する臓器は？", "A": "膵臓", "B": "心臓", "C": "肺", "D": "腎臓", "correct": "A" }
+    ]
+  }
+]
