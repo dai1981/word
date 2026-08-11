@@ -1,0 +1,987 @@
+[
+  {
+    "english": "denitrification",
+    "pron": "diːˌnaɪtrɪfɪˈkeɪʃən",
+    "kana": "ディナイトリフィケーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "de-（除く）+ nitrification（硝化）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "化学・生物"],
+    "meaning_main": "脱窒（硝酸を窒素ガスに還元する作用）",
+    "description": "denitrification（ディナイトリフィケーション）の意味・使い方。硝酸塩を窒素ガスに還元し土壌や水から取り除く「脱窒」を表す生物・化学用語です。",
+    "keywords": ["denitrification 意味", "脱窒 英語", "窒素循環 英語", "nitrification 反対"],
+    "meanings": [
+      { "hinshi": "【名詞】脱窒", "note": "微生物が硝酸塩を窒素ガスに還元して大気中へ放出する作用（窒素循環の一部）" }
+    ],
+    "usages": [
+      { "title": "① 土壌・水中の脱窒", "desc": "窒素を除く作用を表す", "example_en": "Denitrification returns nitrogen to the atmosphere.", "example_ja": "脱窒は窒素を大気に戻す。" },
+      { "title": "② 排水処理", "desc": "浄化過程を表す", "example_en": "Denitrification helps remove nitrates from wastewater.", "example_ja": "脱窒は排水から硝酸塩を除くのに役立つ。" }
+    ],
+    "warn": ["対義的な過程は nitrification（硝化）。窒素循環（nitrogen cycle）の一段階。"],
+    "etym_note": "接頭辞 de-（除く）に nitrification（硝化、nitro-〈窒素〉より）が付いた語。",
+    "etym_chain": [
+      { "node": "de- + nitrification", "sub": "硝化を逆にする", "era": "近代英語" },
+      { "node": "denitrification", "sub": "脱窒", "era": "19世紀英語" },
+      { "node": "denitrification", "sub": "脱窒", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the process of denitrification", "ja": "脱窒の過程" },
+      { "en": "denitrification in soil", "ja": "土壌中の脱窒" },
+      { "en": "bacterial denitrification", "ja": "細菌による脱窒" },
+      { "en": "denitrification and nitrification", "ja": "脱窒と硝化" },
+      { "en": "promote denitrification", "ja": "脱窒を促す" },
+      { "en": "denitrification in wastewater", "ja": "排水中の脱窒" }
+    ],
+    "related": [
+      { "en": "nitrification", "ja": "硝化" },
+      { "en": "nitrogen", "ja": "窒素" },
+      { "en": "nitrate", "ja": "硝酸塩" },
+      { "en": "bacteria", "ja": "細菌" }
+    ],
+    "faq": [
+      { "q": "denitrification と nitrification の違いは？", "a": "nitrification（硝化）はアンモニアを硝酸塩に変える過程、denitrification（脱窒）は硝酸塩を窒素ガスに還元して除く過程です。" },
+      { "q": "なぜ重要ですか？", "a": "窒素循環の一部で、土壌や水中の余分な窒素を大気に戻し、環境浄化にも役立つためです。" }
+    ],
+    "quiz": [
+      { "q": "denitrification の意味は？", "A": "硝化", "B": "脱窒（硝酸を窒素ガスに還元）", "C": "光合成", "D": "発酵", "correct": "B" },
+      { "q": "denitrification が窒素を戻す先は？", "A": "海底", "B": "大気", "C": "岩石", "D": "生物の骨", "correct": "B" }
+    ]
+  },
+  {
+    "english": "departed",
+    "pron": "dɪˈpɑːrtɪd",
+    "kana": "ディパーティッド",
+    "hinshi": "形容詞 / 動詞",
+    "ld_pos": "形容詞・動詞",
+    "ld_etym": "depart（出発する・去る）の過去分詞",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出"],
+    "meaning_main": "出発した／去った／（婉曲）亡くなった",
+    "description": "departed（ディパーティッド）の意味・使い方。「出発した・去った」を表すほか、婉曲的に「亡くなった・故人」を表す形容詞。depart の過去分詞形でもあります。",
+    "keywords": ["departed 意味", "去った 英語", "故人 英語", "the departed"],
+    "meanings": [
+      { "hinshi": "【形容詞】去った・過ぎ去った", "note": "その場を離れた、過去のものとなった" },
+      { "hinshi": "【形容詞/名詞】亡くなった・故人（婉曲）", "note": "the departed で「故人（たち）」" }
+    ],
+    "usages": [
+      { "title": "① 去った・出発した", "desc": "その場を離れたことを表す", "example_en": "The departed train left the station.", "example_ja": "出発した列車は駅を離れた。" },
+      { "title": "② 亡くなった（婉曲）", "desc": "死者を丁寧に表す", "example_en": "We prayed for the departed.", "example_ja": "私たちは故人のために祈った。" }
+    ],
+    "warn": ["原形は depart。the (dearly) departed で「（愛する）故人」。dead の婉曲。"],
+    "etym_note": "ラテン語 dispartire（分ける）に由来する depart の過去分詞。",
+    "etym_chain": [
+      { "node": "dispartire", "sub": "分ける", "era": "後期ラテン語" },
+      { "node": "depart", "sub": "去る・出発する", "era": "中英語" },
+      { "node": "departed", "sub": "去った・亡くなった", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the departed", "ja": "故人（たち）" },
+      { "en": "the dearly departed", "ja": "愛する故人" },
+      { "en": "a departed friend", "ja": "亡き友" },
+      { "en": "recently departed", "ja": "最近亡くなった" },
+      { "en": "the departed guests", "ja": "帰った客たち" },
+      { "en": "pray for the departed", "ja": "故人のために祈る" }
+    ],
+    "related": [
+      { "en": "depart", "ja": "出発する・去る" },
+      { "en": "departure", "ja": "出発" },
+      { "en": "deceased", "ja": "亡くなった" },
+      { "en": "late", "ja": "故〜（亡き）" }
+    ],
+    "faq": [
+      { "q": "the departed の意味は？", "a": "婉曲表現で「故人（たち）」を指します。the dearly departed で「愛する亡き人」となります。" },
+      { "q": "departed と deceased の違いは？", "a": "どちらも「亡くなった」の婉曲ですが、deceased はより形式的・法律的、departed は文語的・宗教的な響きがあります。" }
+    ],
+    "quiz": [
+      { "q": "the departed の意味は？", "A": "出発ロビー", "B": "故人（たち）", "C": "旅行者", "D": "新入り", "correct": "B" },
+      { "q": "departed の原形は？", "A": "depart", "B": "deport", "C": "depend", "D": "deposit", "correct": "A" }
+    ]
+  },
+  {
+    "english": "depletion",
+    "pron": "dɪˈpliːʃən",
+    "kana": "ディプリーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "deplete（使い尽くす）+ -ion",
+    "ld_level": "準1級",
+    "badges": ["大学生〜", "英検準1級", "CEFR B2", "環境頻出"],
+    "meaning_main": "枯渇／消耗／（資源などの）激減",
+    "description": "depletion（ディプリーション）の意味・使い方。資源やエネルギーが使い果たされて減る「枯渇・消耗」を表す名詞。ozone depletion などで頻出です。",
+    "keywords": ["depletion 意味", "枯渇 英語", "消耗 英語", "ozone depletion"],
+    "meanings": [
+      { "hinshi": "【名詞】枯渇・消耗", "note": "資源・蓄えなどが使い果たされて大きく減ること" }
+    ],
+    "usages": [
+      { "title": "① 資源の枯渇", "desc": "使い尽くされることを表す", "example_en": "The depletion of natural resources is a global concern.", "example_ja": "天然資源の枯渇は世界的な懸念だ。" },
+      { "title": "② オゾン層の破壊", "desc": "減少を表す", "example_en": "Ozone depletion increases UV exposure.", "example_ja": "オゾン層の破壊は紫外線被曝を増やす。" }
+    ],
+    "warn": ["動詞は deplete（使い尽くす）。ozone depletion（オゾン層破壊）、resource depletion（資源枯渇）。"],
+    "etym_note": "ラテン語 deplere（空にする）に由来する deplete に -ion が付いた語。",
+    "etym_chain": [
+      { "node": "deplere", "sub": "空にする", "era": "ラテン語" },
+      { "node": "deplete", "sub": "使い尽くす", "era": "近代英語" },
+      { "node": "depletion", "sub": "枯渇", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "ozone depletion", "ja": "オゾン層破壊" },
+      { "en": "resource depletion", "ja": "資源の枯渇" },
+      { "en": "the depletion of oil", "ja": "石油の枯渇" },
+      { "en": "energy depletion", "ja": "エネルギーの消耗" },
+      { "en": "depletion of reserves", "ja": "備蓄の枯渇" },
+      { "en": "prevent depletion", "ja": "枯渇を防ぐ" }
+    ],
+    "related": [
+      { "en": "deplete", "ja": "使い尽くす" },
+      { "en": "exhaustion", "ja": "枯渇・消耗" },
+      { "en": "shortage", "ja": "不足" },
+      { "en": "replenishment", "ja": "補充" }
+    ],
+    "faq": [
+      { "q": "depletion と exhaustion の違いは？", "a": "どちらも「枯渇・消耗」ですが、depletion は「徐々に減っていく減少過程」、exhaustion は「完全に尽きた状態」に重点があります。" },
+      { "q": "対義的な語は？", "a": "replenishment（補充・回復）です。" }
+    ],
+    "quiz": [
+      { "q": "depletion の意味は？", "A": "増加", "B": "枯渇・消耗", "C": "保存", "D": "浄化", "correct": "B" },
+      { "q": "ozone depletion の意味は？", "A": "オゾンの増加", "B": "オゾン層の破壊・減少", "C": "オゾンの発生", "D": "オゾンの測定", "correct": "B" }
+    ]
+  },
+  {
+    "english": "deplore",
+    "pron": "dɪˈplɔːr",
+    "kana": "ディプロア",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 deplorare（嘆き悲しむ）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "報道・文語"],
+    "meaning_main": "強く非難する／遺憾に思う／嘆く",
+    "description": "deplore（ディプロア）の意味・使い方。行為や事態を「強く非難する・遺憾に思う」を表す動詞。公式声明や報道でよく使われる硬い語です。",
+    "keywords": ["deplore 意味", "強く非難する 英語", "遺憾 英語", "deplore 使い方"],
+    "meanings": [
+      { "hinshi": "【動詞】強く非難する・遺憾に思う", "note": "ある行為・事態を強く不適切と考え嘆き非難する" }
+    ],
+    "usages": [
+      { "title": "① 行為を非難する", "desc": "強い遺憾を表す", "example_en": "We deplore the use of violence.", "example_ja": "私たちは暴力の使用を強く非難する。" },
+      { "title": "② 事態を嘆く", "desc": "遺憾に思うことを表す", "example_en": "Many deplore the decline in standards.", "example_ja": "多くの人が水準の低下を嘆いている。" }
+    ],
+    "warn": ["形容詞 deplorable（嘆かわしい・ひどい）。硬い語で公式声明に多い。"],
+    "etym_note": "ラテン語 deplorare（de-〈すっかり〉+ plorare〈泣く〉= 嘆く）に由来。",
+    "etym_chain": [
+      { "node": "deplorare", "sub": "嘆き悲しむ", "era": "ラテン語" },
+      { "node": "deplore", "sub": "嘆く・非難する", "era": "近代英語" },
+      { "node": "deplore", "sub": "強く非難する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "deplore violence", "ja": "暴力を非難する" },
+      { "en": "deeply deplore", "ja": "深く遺憾に思う" },
+      { "en": "deplore the attack", "ja": "その攻撃を非難する" },
+      { "en": "deplore the lack of", "ja": "〜の欠如を嘆く" },
+      { "en": "strongly deplore", "ja": "強く非難する" },
+      { "en": "deplore such actions", "ja": "そのような行為を非難する" }
+    ],
+    "related": [
+      { "en": "deplorable", "ja": "嘆かわしい" },
+      { "en": "condemn", "ja": "非難する" },
+      { "en": "lament", "ja": "嘆く" },
+      { "en": "regret", "ja": "遺憾に思う" }
+    ],
+    "faq": [
+      { "q": "deplore と condemn の違いは？", "a": "condemn は「（公式に）強く非難・断罪する」、deplore は「強い遺憾・嘆きを込めて非難する」で、悲しみの含みがやや強めです。" },
+      { "q": "形容詞形は？", "a": "deplorable（嘆かわしい・ひどい）です。" }
+    ],
+    "quiz": [
+      { "q": "deplore の意味は？", "A": "称賛する", "B": "強く非難する・遺憾に思う", "C": "無視する", "D": "許す", "correct": "B" },
+      { "q": "deplore の形容詞形は？", "A": "deplorable", "B": "deployable", "C": "depletable", "D": "dependable", "correct": "A" }
+    ]
+  },
+  {
+    "english": "depraved",
+    "pron": "dɪˈpreɪvd",
+    "kana": "ディプレイヴド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "deprave（堕落させる）の過去分詞",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文語"],
+    "meaning_main": "堕落した／腐敗した／邪悪な",
+    "description": "depraved（ディプレイヴド）の意味・使い方。道徳的に「堕落した・邪悪な」を表す形容詞。特に深刻な悪徳・退廃を指す強い語です。",
+    "keywords": ["depraved 意味", "堕落した 英語", "邪悪な 英語", "depraved 使い方"],
+    "meanings": [
+      { "hinshi": "【形容詞】堕落した・邪悪な", "note": "道徳的にひどく腐敗し、退廃・悪徳に染まった" }
+    ],
+    "usages": [
+      { "title": "① 道徳的な堕落", "desc": "邪悪さを表す", "example_en": "The novel depicts a depraved society.", "example_ja": "その小説は堕落した社会を描く。" },
+      { "title": "② 邪悪な行為・人物", "desc": "退廃した人を表す", "example_en": "It was a depraved and cruel act.", "example_ja": "それは邪悪で残酷な行為だった。" }
+    ],
+    "warn": ["名詞は depravity（堕落・邪悪）。corrupt より強く「退廃・悪徳」の含み。"],
+    "etym_note": "ラテン語 depravare（de-〈すっかり〉+ pravus〈曲がった〉= 堕落させる）に由来。",
+    "etym_chain": [
+      { "node": "depravare", "sub": "堕落させる", "era": "ラテン語" },
+      { "node": "deprave", "sub": "堕落させる", "era": "中英語" },
+      { "node": "depraved", "sub": "堕落した", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a depraved act", "ja": "邪悪な行為" },
+      { "en": "morally depraved", "ja": "道徳的に堕落した" },
+      { "en": "a depraved mind", "ja": "堕落した心" },
+      { "en": "depraved and wicked", "ja": "堕落して邪悪な" },
+      { "en": "a depraved society", "ja": "退廃した社会" },
+      { "en": "utterly depraved", "ja": "完全に堕落した" }
+    ],
+    "related": [
+      { "en": "depravity", "ja": "堕落・邪悪" },
+      { "en": "corrupt", "ja": "腐敗した" },
+      { "en": "wicked", "ja": "邪悪な" },
+      { "en": "virtuous", "ja": "徳の高い" }
+    ],
+    "faq": [
+      { "q": "depraved と corrupt の違いは？", "a": "corrupt は「腐敗した・不正な」、depraved は「道徳的に退廃し邪悪な」で、より強く深刻な悪徳を表します。" },
+      { "q": "名詞形は？", "a": "depravity（堕落・邪悪・悪徳）です。" }
+    ],
+    "quiz": [
+      { "q": "depraved の意味は？", "A": "高潔な", "B": "堕落した・邪悪な", "C": "貧しい", "D": "無関心な", "correct": "B" },
+      { "q": "depraved の名詞形は？", "A": "deprivation", "B": "depravity", "C": "depression", "D": "deprecation", "correct": "B" }
+    ]
+  },
+  {
+    "english": "deprivation",
+    "pron": "ˌdeprɪˈveɪʃən",
+    "kana": "デプリベーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "deprive（奪う）+ -ation",
+    "ld_level": "準1級",
+    "badges": ["大学生〜", "英検準1級", "CEFR B2", "社会頻出"],
+    "meaning_main": "剥奪／欠乏／（生活必需品の）不足",
+    "description": "deprivation（デプリベーション）の意味・使い方。必要なものを奪われる・欠く「剥奪・欠乏」を表す名詞。sleep deprivation などで頻出です。",
+    "keywords": ["deprivation 意味", "剥奪 英語", "欠乏 英語", "sleep deprivation"],
+    "meanings": [
+      { "hinshi": "【名詞】剥奪・欠乏・不足", "note": "必要なもの（睡眠・食料・権利など）を奪われた・欠いた状態" }
+    ],
+    "usages": [
+      { "title": "① 睡眠などの不足", "desc": "欠乏を表す", "example_en": "Sleep deprivation affects concentration.", "example_ja": "睡眠不足は集中力に影響する。" },
+      { "title": "② 貧困・剥奪", "desc": "生活の困窮を表す", "example_en": "Many children grow up in deprivation.", "example_ja": "多くの子どもが欠乏の中で育つ。" }
+    ],
+    "warn": ["動詞は deprive（奪う）。deprive A of B（AからBを奪う）。depravity（堕落）と混同注意。"],
+    "etym_note": "ラテン語 deprivare（奪う）に由来する deprive に -ation が付いた語。",
+    "etym_chain": [
+      { "node": "deprivare", "sub": "奪う", "era": "中世ラテン語" },
+      { "node": "deprive", "sub": "奪う", "era": "中英語" },
+      { "node": "deprivation", "sub": "剥奪・欠乏", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "sleep deprivation", "ja": "睡眠不足" },
+      { "en": "food deprivation", "ja": "食料の欠乏" },
+      { "en": "sensory deprivation", "ja": "感覚遮断" },
+      { "en": "economic deprivation", "ja": "経済的困窮" },
+      { "en": "social deprivation", "ja": "社会的剥奪" },
+      { "en": "suffer deprivation", "ja": "欠乏に苦しむ" }
+    ],
+    "related": [
+      { "en": "deprive", "ja": "奪う" },
+      { "en": "lack", "ja": "不足" },
+      { "en": "poverty", "ja": "貧困" },
+      { "en": "shortage", "ja": "不足" }
+    ],
+    "faq": [
+      { "q": "deprivation と depravity の違いは？", "a": "deprivation は「剥奪・欠乏（必要なものがない）」、depravity は「堕落・邪悪（道徳的退廃）」でまったく別の意味です。つづりに注意しましょう。" },
+      { "q": "sleep deprivation とは？", "a": "十分な睡眠を取れない「睡眠不足」のことです。" }
+    ],
+    "quiz": [
+      { "q": "deprivation の意味は？", "A": "充足", "B": "剥奪・欠乏", "C": "堕落", "D": "拡大", "correct": "B" },
+      { "q": "sleep deprivation の意味は？", "A": "睡眠過多", "B": "睡眠不足", "C": "快眠", "D": "昼寝", "correct": "B" }
+    ]
+  },
+  {
+    "english": "derailment",
+    "pron": "dɪˈreɪlmənt",
+    "kana": "ディレイルメント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "derail（脱線させる）+ -ment",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "交通・比喩"],
+    "meaning_main": "（列車の）脱線／（計画などの）頓挫",
+    "description": "derailment（ディレイルメント）の意味・使い方。列車が線路から外れる「脱線」を表す名詞。比喩で計画などの「頓挫・破綻」も表します。",
+    "keywords": ["derailment 意味", "脱線 英語", "頓挫 英語", "derailment 使い方"],
+    "meanings": [
+      { "hinshi": "【名詞】（列車の）脱線", "note": "車両が線路から外れて事故になること" },
+      { "hinshi": "【名詞】（計画・話題の）頓挫・脱線（比喩）", "note": "順調な進行が外れて崩れること" }
+    ],
+    "usages": [
+      { "title": "① 列車の脱線", "desc": "線路を外れる事故を表す", "example_en": "The derailment injured several passengers.", "example_ja": "その脱線で数人の乗客が負傷した。" },
+      { "title": "② 計画の頓挫（比喩）", "desc": "進行が崩れることを表す", "example_en": "The scandal caused the derailment of the talks.", "example_ja": "そのスキャンダルが交渉の頓挫を招いた。" }
+    ],
+    "warn": ["動詞は derail（脱線させる・頓挫させる）。rail（線路）が語根。"],
+    "etym_note": "接頭辞 de-（外れる）に rail（線路）が付いた derail に -ment が付いた語。",
+    "etym_chain": [
+      { "node": "de- + rail", "sub": "線路を外れる", "era": "19世紀英語" },
+      { "node": "derail", "sub": "脱線させる", "era": "19世紀英語" },
+      { "node": "derailment", "sub": "脱線", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a train derailment", "ja": "列車の脱線" },
+      { "en": "cause a derailment", "ja": "脱線を引き起こす" },
+      { "en": "a fatal derailment", "ja": "死者を出した脱線" },
+      { "en": "the derailment of talks", "ja": "交渉の頓挫" },
+      { "en": "prevent derailment", "ja": "脱線を防ぐ" },
+      { "en": "a serious derailment", "ja": "深刻な脱線" }
+    ],
+    "related": [
+      { "en": "derail", "ja": "脱線させる" },
+      { "en": "rail", "ja": "線路" },
+      { "en": "collision", "ja": "衝突" },
+      { "en": "disruption", "ja": "混乱・中断" }
+    ],
+    "faq": [
+      { "q": "derailment の比喩的な意味は？", "a": "計画・交渉・話題などが「順調な進行から外れて頓挫・脱線すること」を表します。" },
+      { "q": "動詞形は？", "a": "derail（脱線させる・頓挫させる）です。" }
+    ],
+    "quiz": [
+      { "q": "derailment の意味は？", "A": "定刻運行", "B": "（列車の）脱線・頓挫", "C": "発車", "D": "満員", "correct": "B" },
+      { "q": "derailment の動詞形は？", "A": "derail", "B": "detail", "C": "retail", "D": "curtail", "correct": "A" }
+    ]
+  },
+  {
+    "english": "derangement",
+    "pron": "dɪˈreɪndʒmənt",
+    "kana": "ディレインジメント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "derange（乱す・狂わせる）+ -ment",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "文語・医学"],
+    "meaning_main": "（精神の）錯乱／混乱／狂気",
+    "description": "derangement（ディレインジメント）の意味・使い方。精神が「錯乱した状態・狂気」を表す名詞。物事の「混乱・乱れ」の意味も解説します。",
+    "keywords": ["derangement 意味", "錯乱 英語", "精神の混乱 英語", "derangement 使い方"],
+    "meanings": [
+      { "hinshi": "【名詞】（精神の）錯乱・狂気", "note": "正常な精神状態が乱れ、判断力を失うこと" },
+      { "hinshi": "【名詞】混乱・乱れ", "note": "秩序が乱れた状態" }
+    ],
+    "usages": [
+      { "title": "① 精神の錯乱", "desc": "狂気を表す", "example_en": "The crime was blamed on temporary derangement.", "example_ja": "その犯罪は一時的な錯乱のせいとされた。" },
+      { "title": "② 秩序の混乱", "desc": "乱れを表す", "example_en": "There was a complete derangement of the schedule.", "example_ja": "予定はまったく乱れていた。" }
+    ],
+    "warn": ["動詞は derange（乱す・狂わせる）、形容詞 deranged（錯乱した）。文語・古風な語。"],
+    "etym_note": "フランス語 déranger（並びを乱す）に由来する derange に -ment が付いた語。",
+    "etym_chain": [
+      { "node": "déranger", "sub": "並びを乱す", "era": "フランス語" },
+      { "node": "derange", "sub": "乱す・狂わせる", "era": "近代英語" },
+      { "node": "derangement", "sub": "錯乱・混乱", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "mental derangement", "ja": "精神の錯乱" },
+      { "en": "temporary derangement", "ja": "一時的な錯乱" },
+      { "en": "a state of derangement", "ja": "錯乱状態" },
+      { "en": "cause derangement", "ja": "錯乱を引き起こす" },
+      { "en": "signs of derangement", "ja": "錯乱の兆候" },
+      { "en": "complete derangement", "ja": "完全な混乱" }
+    ],
+    "related": [
+      { "en": "derange", "ja": "乱す・狂わせる" },
+      { "en": "deranged", "ja": "錯乱した" },
+      { "en": "insanity", "ja": "狂気" },
+      { "en": "disorder", "ja": "障害・混乱" }
+    ],
+    "faq": [
+      { "q": "derangement と insanity の違いは？", "a": "どちらも「狂気・精神の異常」ですが、derangement はやや文語的で「正常な状態が乱れた」ニュアンス、insanity はより一般的・法的な語です。" },
+      { "q": "形容詞形は？", "a": "deranged（錯乱した・気が狂った）です。" }
+    ],
+    "quiz": [
+      { "q": "derangement の意味は？", "A": "整頓", "B": "（精神の）錯乱・混乱", "C": "回復", "D": "冷静", "correct": "B" },
+      { "q": "derangement の形容詞形は？", "A": "deranged", "B": "arranged", "C": "deferred", "D": "detached", "correct": "A" }
+    ]
+  },
+  {
+    "english": "deregulate",
+    "pron": "diːˈreɡjəleɪt",
+    "kana": "ディレギュレイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "de-（解除）+ regulate（規制する）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "経済・政治"],
+    "meaning_main": "規制を緩和する／規制を撤廃する",
+    "description": "deregulate（ディレギュレイト）の意味・使い方。政府の規制を「緩和・撤廃する」を表す動詞。regulate（規制する）の対義語です。経済政策で頻出です。",
+    "keywords": ["deregulate 意味", "規制緩和 英語", "規制撤廃 英語", "regulate 反対"],
+    "meanings": [
+      { "hinshi": "【動詞】規制を緩和する・撤廃する", "note": "政府による規制を減らし、市場や事業の自由度を高める" }
+    ],
+    "usages": [
+      { "title": "① 産業の規制緩和", "desc": "規制を減らすことを表す", "example_en": "The government moved to deregulate the airline industry.", "example_ja": "政府は航空業界の規制緩和に動いた。" },
+      { "title": "② 市場の自由化", "desc": "規制撤廃を表す", "example_en": "Deregulating the market increased competition.", "example_ja": "市場の規制緩和は競争を高めた。" }
+    ],
+    "warn": ["対義語は regulate（規制する）。名詞は deregulation（規制緩和）。"],
+    "etym_note": "接頭辞 de-（解除）に regulate（規制する、regula〈規則〉より）が付いた語。",
+    "etym_chain": [
+      { "node": "de- + regulate", "sub": "規制を解除する", "era": "20世紀英語" },
+      { "node": "deregulate", "sub": "規制緩和する", "era": "20世紀英語" },
+      { "node": "deregulate", "sub": "規制を緩和・撤廃する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "deregulate the industry", "ja": "業界の規制を緩和する" },
+      { "en": "deregulate the market", "ja": "市場を自由化する" },
+      { "en": "deregulate prices", "ja": "価格規制を撤廃する" },
+      { "en": "move to deregulate", "ja": "規制緩和に動く" },
+      { "en": "deregulate the banks", "ja": "銀行を規制緩和する" },
+      { "en": "gradually deregulate", "ja": "段階的に規制緩和する" }
+    ],
+    "related": [
+      { "en": "regulate", "ja": "規制する" },
+      { "en": "deregulation", "ja": "規制緩和" },
+      { "en": "liberalize", "ja": "自由化する" },
+      { "en": "regulation", "ja": "規制" }
+    ],
+    "faq": [
+      { "q": "deregulate の対義語は？", "a": "regulate（規制する）です。規制を減らすのが deregulate、加えるのが regulate です。" },
+      { "q": "名詞形は？", "a": "deregulation（規制緩和・規制撤廃）です。" }
+    ],
+    "quiz": [
+      { "q": "deregulate の意味は？", "A": "規制を強める", "B": "規制を緩和・撤廃する", "C": "国有化する", "D": "課税する", "correct": "B" },
+      { "q": "deregulate の対義語は？", "A": "regulate", "B": "relocate", "C": "recreate", "D": "renovate", "correct": "A" }
+    ]
+  },
+  {
+    "english": "derision",
+    "pron": "dɪˈrɪʒən",
+    "kana": "ディリジョン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 deridere（あざ笑う）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "感情表現"],
+    "meaning_main": "あざけり／嘲笑／物笑い",
+    "description": "derision（ディリジョン）の意味・使い方。人や物を見下して笑う「あざけり・嘲笑」を表す名詞。an object of derision（物笑いの種）などで使います。",
+    "keywords": ["derision 意味", "あざけり 英語", "嘲笑 英語", "derision 使い方"],
+    "meanings": [
+      { "hinshi": "【名詞】あざけり・嘲笑", "note": "人や物をばかにして笑うこと・軽蔑" }
+    ],
+    "usages": [
+      { "title": "① 嘲笑を浴びる", "desc": "ばかにされることを表す", "example_en": "His idea was met with derision.", "example_ja": "彼の考えは嘲笑で迎えられた。" },
+      { "title": "② 物笑いの種", "desc": "笑いものになることを表す", "example_en": "He became an object of derision.", "example_ja": "彼は物笑いの種になった。" }
+    ],
+    "warn": ["動詞は deride（あざ笑う）、形容詞 derisive/derisory（あざけるような）。"],
+    "etym_note": "ラテン語 deridere（de-〈すっかり〉+ ridere〈笑う〉= あざ笑う）に由来。",
+    "etym_chain": [
+      { "node": "deridere", "sub": "あざ笑う", "era": "ラテン語" },
+      { "node": "derision", "sub": "あざけり", "era": "中英語" },
+      { "node": "derision", "sub": "あざけり・嘲笑", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "met with derision", "ja": "嘲笑で迎えられる" },
+      { "en": "an object of derision", "ja": "物笑いの種" },
+      { "en": "with derision", "ja": "あざけって" },
+      { "en": "public derision", "ja": "世間の嘲笑" },
+      { "en": "a look of derision", "ja": "あざけりの表情" },
+      { "en": "greeted with derision", "ja": "あざ笑いで迎えられて" }
+    ],
+    "related": [
+      { "en": "deride", "ja": "あざ笑う" },
+      { "en": "ridicule", "ja": "嘲笑・あざける" },
+      { "en": "mockery", "ja": "あざけり" },
+      { "en": "scorn", "ja": "軽蔑" }
+    ],
+    "faq": [
+      { "q": "derision と ridicule の違いは？", "a": "ほぼ同義で「嘲笑」を表します。ridicule は動詞としても使い「あざける」、derision は主に名詞です。" },
+      { "q": "動詞形は？", "a": "deride（あざ笑う・ばかにする）です。" }
+    ],
+    "quiz": [
+      { "q": "derision の意味は？", "A": "称賛", "B": "あざけり・嘲笑", "C": "同情", "D": "決断", "correct": "B" },
+      { "q": "an object of derision の意味は？", "A": "尊敬の的", "B": "物笑いの種", "C": "研究対象", "D": "収集品", "correct": "B" }
+    ]
+  },
+  {
+    "english": "describable",
+    "pron": "dɪˈskraɪbəbəl",
+    "kana": "ディスクライバブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "describe（描写する）+ -able（〜できる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出"],
+    "meaning_main": "描写できる／言葉で表せる",
+    "description": "describable（ディスクライバブル）の意味・使い方。言葉で「描写できる・表現できる」を表す形容詞。indescribable（言葉にできない）との対比で覚えます。",
+    "keywords": ["describable 意味", "描写できる 英語", "言葉で表せる 英語", "indescribable 反対"],
+    "meanings": [
+      { "hinshi": "【形容詞】描写できる・言葉で表せる", "note": "言葉や記述で説明・表現できる" }
+    ],
+    "usages": [
+      { "title": "① 言葉で表せる", "desc": "描写可能なことを表す", "example_en": "The scene was barely describable.", "example_ja": "その光景はかろうじて描写できるものだった。" },
+      { "title": "② 記述できる特徴", "desc": "説明できることを表す", "example_en": "Every symptom is clearly describable.", "example_ja": "どの症状もはっきり記述できる。" }
+    ],
+    "warn": ["対義語は indescribable（言葉で表せない）。動詞は describe。"],
+    "etym_note": "ラテン語 describere（写し取る・記述する）に由来する describe に -able が付いた語。",
+    "etym_chain": [
+      { "node": "describere", "sub": "写し取る", "era": "ラテン語" },
+      { "node": "describe", "sub": "描写する", "era": "中英語" },
+      { "node": "describable", "sub": "描写できる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "easily describable", "ja": "簡単に描写できる" },
+      { "en": "hardly describable", "ja": "ほとんど描写できない" },
+      { "en": "clearly describable", "ja": "はっきり記述できる" },
+      { "en": "a describable feeling", "ja": "言葉にできる感情" },
+      { "en": "fully describable", "ja": "十分に描写できる" },
+      { "en": "describable in words", "ja": "言葉で表せる" }
+    ],
+    "related": [
+      { "en": "describe", "ja": "描写する" },
+      { "en": "description", "ja": "描写・記述" },
+      { "en": "indescribable", "ja": "言葉で表せない" },
+      { "en": "definable", "ja": "定義できる" }
+    ],
+    "faq": [
+      { "q": "describable の対義語は？", "a": "indescribable（言葉で表せない・筆舌に尽くしがたい）です。" },
+      { "q": "動詞形は？", "a": "describe（描写する・記述する）です。名詞は description。" }
+    ],
+    "quiz": [
+      { "q": "describable の意味は？", "A": "隠された", "B": "描写できる・言葉で表せる", "C": "計算できる", "D": "壊れやすい", "correct": "B" },
+      { "q": "describable の対義語は？", "A": "indescribable", "B": "unbelievable", "C": "invisible", "D": "impossible", "correct": "A" }
+    ]
+  },
+  {
+    "english": "despondency",
+    "pron": "dɪˈspɑːndənsi",
+    "kana": "ディスポンデンシー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 despondere（望みを捨てる）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "感情表現"],
+    "meaning_main": "落胆／意気消沈／失望",
+    "description": "despondency（ディスポンデンシー）の意味・使い方。希望を失い深く落ち込む「落胆・意気消沈」を表す名詞。despondent の名詞形です。",
+    "keywords": ["despondency 意味", "落胆 英語", "意気消沈 英語", "despondent 名詞"],
+    "meanings": [
+      { "hinshi": "【名詞】落胆・意気消沈", "note": "希望を失って深く沈んだ気持ち" }
+    ],
+    "usages": [
+      { "title": "① 深い落胆", "desc": "沈んだ気持ちを表す", "example_en": "A wave of despondency swept over him.", "example_ja": "落胆の波が彼を襲った。" },
+      { "title": "② 意気消沈した状態", "desc": "希望のなさを表す", "example_en": "The team sank into despondency after the loss.", "example_ja": "チームは敗北の後、意気消沈した。" }
+    ],
+    "warn": ["形容詞は despondent（落胆した）。despair（絶望）より穏やかだが深い落ち込み。"],
+    "etym_note": "ラテン語 despondere（de-〈捨てる〉+ spondere〈約束する〉= 望みを捨てる）に由来。",
+    "etym_chain": [
+      { "node": "despondere", "sub": "望みを捨てる", "era": "ラテン語" },
+      { "node": "despondent", "sub": "落胆した", "era": "近代英語" },
+      { "node": "despondency", "sub": "落胆", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "sink into despondency", "ja": "意気消沈する" },
+      { "en": "a mood of despondency", "ja": "落胆した気分" },
+      { "en": "deep despondency", "ja": "深い落胆" },
+      { "en": "a wave of despondency", "ja": "落胆の波" },
+      { "en": "overcome despondency", "ja": "落胆を乗り越える" },
+      { "en": "fall into despondency", "ja": "意気消沈に陥る" }
+    ],
+    "related": [
+      { "en": "despondent", "ja": "落胆した" },
+      { "en": "despair", "ja": "絶望" },
+      { "en": "dejection", "ja": "落胆" },
+      { "en": "hope", "ja": "希望" }
+    ],
+    "faq": [
+      { "q": "despondency と despair の違いは？", "a": "despair は「完全に希望を失った絶望」、despondency は「希望を失い深く沈んだ落胆」で、絶望よりやや穏やかです。" },
+      { "q": "形容詞形は？", "a": "despondent（落胆した・意気消沈した）です。" }
+    ],
+    "quiz": [
+      { "q": "despondency の意味は？", "A": "高揚", "B": "落胆・意気消沈", "C": "怒り", "D": "安心", "correct": "B" },
+      { "q": "despondency の形容詞形は？", "A": "despondent", "B": "dependent", "C": "descendant", "D": "despicable", "correct": "A" }
+    ]
+  },
+  {
+    "english": "despondent",
+    "pron": "dɪˈspɑːndənt",
+    "kana": "ディスポンデント",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 despondere（望みを捨てる）+ -ent",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "感情表現"],
+    "meaning_main": "落胆した／意気消沈した／失望した",
+    "description": "despondent（ディスポンデント）の意味・使い方。希望を失って「落胆した・意気消沈した」を表す形容詞。despondent about で「〜に失望して」を表します。",
+    "keywords": ["despondent 意味", "落胆した 英語", "意気消沈した 英語", "despondent about"],
+    "meanings": [
+      { "hinshi": "【形容詞】落胆した・意気消沈した", "note": "希望を失い深く落ち込んでいる様子" }
+    ],
+    "usages": [
+      { "title": "① 落ち込んだ様子", "desc": "意気消沈を表す", "example_en": "She felt despondent after the rejection.", "example_ja": "彼女は不採用の後、落ち込んでいた。" },
+      { "title": "② 〜に失望して", "desc": "希望を失った状態を表す", "example_en": "He was despondent about his future.", "example_ja": "彼は自分の将来に失望していた。" }
+    ],
+    "warn": ["despondent about 〜 で「〜について落胆して」。名詞は despondency。"],
+    "etym_note": "ラテン語 despondere（望みを捨てる）に由来する語。",
+    "etym_chain": [
+      { "node": "despondere", "sub": "望みを捨てる", "era": "ラテン語" },
+      { "node": "despondent", "sub": "落胆した", "era": "近代英語" },
+      { "node": "despondent", "sub": "意気消沈した", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "feel despondent", "ja": "落ち込んでいる" },
+      { "en": "despondent about the future", "ja": "将来に失望して" },
+      { "en": "look despondent", "ja": "しょげて見える" },
+      { "en": "become despondent", "ja": "意気消沈する" },
+      { "en": "deeply despondent", "ja": "深く落胆した" },
+      { "en": "despondent and hopeless", "ja": "落胆し希望を失って" }
+    ],
+    "related": [
+      { "en": "despondency", "ja": "落胆" },
+      { "en": "dejected", "ja": "落胆した" },
+      { "en": "downhearted", "ja": "意気消沈した" },
+      { "en": "hopeful", "ja": "希望に満ちた" }
+    ],
+    "faq": [
+      { "q": "despondent と dejected の違いは？", "a": "どちらも「落胆した」ですが、despondent は「希望を失って深く沈んだ」持続的な状態、dejected は「がっかりしてしょげた」やや一時的な様子です。" },
+      { "q": "後の前置詞は？", "a": "despondent about 〜（〜について落胆して）が一般的です。" }
+    ],
+    "quiz": [
+      { "q": "despondent の意味は？", "A": "希望に満ちた", "B": "落胆した・意気消沈した", "C": "怒った", "D": "満足した", "correct": "B" },
+      { "q": "despondent の名詞形は？", "A": "despondency", "B": "dependency", "C": "despotism", "D": "desperation", "correct": "A" }
+    ]
+  },
+  {
+    "english": "detector",
+    "pron": "dɪˈtektər",
+    "kana": "ディテクター",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "detect（探知する）+ -or（もの）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "可算名詞"],
+    "meaning_main": "探知器／検出器／感知器",
+    "description": "detector（ディテクター）の意味・使い方。煙・金属・うそなどを見つける「探知器・検出器」を表す名詞。smoke detector などで頻出です。",
+    "keywords": ["detector 意味", "探知器 英語", "検出器 英語", "smoke detector"],
+    "meanings": [
+      { "hinshi": "【名詞】探知器・検出器・感知器", "note": "特定のもの（煙・金属・放射線など）を見つけ知らせる装置" }
+    ],
+    "usages": [
+      { "title": "① 煙・火災報知器", "desc": "危険を感知する装置を表す", "example_en": "The smoke detector went off in the kitchen.", "example_ja": "台所で煙探知器が鳴った。" },
+      { "title": "② 金属探知機など", "desc": "検出装置を表す", "example_en": "A metal detector is used at the airport.", "example_ja": "空港では金属探知機が使われる。" }
+    ],
+    "warn": ["動詞は detect（探知する）、名詞 detection（探知）。"],
+    "etym_note": "ラテン語 detegere（覆いを取る・見つける）に由来する detect に -or が付いた語。",
+    "etym_chain": [
+      { "node": "detegere", "sub": "覆いを取る", "era": "ラテン語" },
+      { "node": "detect", "sub": "探知する", "era": "近代英語" },
+      { "node": "detector", "sub": "探知器", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a smoke detector", "ja": "煙探知器" },
+      { "en": "a metal detector", "ja": "金属探知機" },
+      { "en": "a lie detector", "ja": "うそ発見器" },
+      { "en": "a motion detector", "ja": "動作感知器" },
+      { "en": "a smoke detector alarm", "ja": "煙探知器の警報" },
+      { "en": "install a detector", "ja": "探知器を設置する" }
+    ],
+    "related": [
+      { "en": "detect", "ja": "探知する" },
+      { "en": "detection", "ja": "探知・検出" },
+      { "en": "sensor", "ja": "センサー" },
+      { "en": "alarm", "ja": "警報器" }
+    ],
+    "faq": [
+      { "q": "detector と sensor の違いは？", "a": "sensor は「変化を感知する素子・部品」、detector は「特定のものを検出し知らせる装置」全体を指すことが多いです。" },
+      { "q": "lie detector とは？", "a": "生理反応から発言の真偽を推定する「うそ発見器（ポリグラフ）」のことです。" }
+    ],
+    "quiz": [
+      { "q": "detector の意味は？", "A": "発電機", "B": "探知器・検出器", "C": "拡声器", "D": "変圧器", "correct": "B" },
+      { "q": "smoke detector の意味は？", "A": "煙探知器", "B": "消火器", "C": "換気扇", "D": "温度計", "correct": "A" }
+    ]
+  },
+  {
+    "english": "deterrence",
+    "pron": "dɪˈtɜːrəns",
+    "kana": "ディターレンス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "deter（思いとどまらせる）+ -ence",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "政治・軍事"],
+    "meaning_main": "抑止／抑止力／思いとどまらせること",
+    "description": "deterrence（ディターレンス）の意味・使い方。恐れや不利益で相手を「思いとどまらせること・抑止（力）」を表す名詞。nuclear deterrence などで頻出です。",
+    "keywords": ["deterrence 意味", "抑止力 英語", "抑止 英語", "nuclear deterrence"],
+    "meanings": [
+      { "hinshi": "【名詞】抑止・抑止力", "note": "報復や罰の恐れによって、相手に行動を思いとどまらせること" }
+    ],
+    "usages": [
+      { "title": "① 軍事的抑止", "desc": "攻撃を思いとどまらせることを表す", "example_en": "Nuclear deterrence prevented direct war.", "example_ja": "核抑止が直接の戦争を防いだ。" },
+      { "title": "② 犯罪の抑止", "desc": "罰による抑止を表す", "example_en": "Harsh penalties act as a deterrence to crime.", "example_ja": "厳しい刑罰は犯罪の抑止として働く。" }
+    ],
+    "warn": ["動詞は deter（思いとどまらせる）、名詞 deterrent（抑止するもの・抑止力）。"],
+    "etym_note": "ラテン語 deterrere（de-〈離す〉+ terrere〈怖がらせる〉= 思いとどまらせる）に由来。",
+    "etym_chain": [
+      { "node": "deterrere", "sub": "思いとどまらせる", "era": "ラテン語" },
+      { "node": "deter", "sub": "思いとどまらせる", "era": "近代英語" },
+      { "node": "deterrence", "sub": "抑止", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "nuclear deterrence", "ja": "核抑止" },
+      { "en": "a deterrence strategy", "ja": "抑止戦略" },
+      { "en": "act as a deterrence", "ja": "抑止として働く" },
+      { "en": "crime deterrence", "ja": "犯罪抑止" },
+      { "en": "the theory of deterrence", "ja": "抑止理論" },
+      { "en": "military deterrence", "ja": "軍事的抑止" }
+    ],
+    "related": [
+      { "en": "deter", "ja": "思いとどまらせる" },
+      { "en": "deterrent", "ja": "抑止するもの" },
+      { "en": "prevention", "ja": "防止" },
+      { "en": "intimidation", "ja": "威嚇" }
+    ],
+    "faq": [
+      { "q": "deterrence と deterrent の違いは？", "a": "deterrence は「抑止（という働き・概念）」、deterrent は「抑止するもの（具体的な手段・兵器・刑罰）」です。" },
+      { "q": "動詞形は？", "a": "deter（思いとどまらせる・抑止する）です。deter A from B（AにBを思いとどまらせる）。" }
+    ],
+    "quiz": [
+      { "q": "deterrence の意味は？", "A": "促進", "B": "抑止・抑止力", "C": "破壊", "D": "交渉", "correct": "B" },
+      { "q": "deterrence の動詞形は？", "A": "deter", "B": "detect", "C": "detain", "D": "deteriorate", "correct": "A" }
+    ]
+  },
+  {
+    "english": "detonator",
+    "pron": "ˈdetəneɪtər",
+    "kana": "デトネイター",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "detonate（爆発させる）+ -or（もの）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "可算名詞"],
+    "meaning_main": "起爆装置／雷管",
+    "description": "detonator（デトネイター）の意味・使い方。爆薬を爆発させるための「起爆装置・雷管」を表す名詞。動詞 detonate との関係も解説します。",
+    "keywords": ["detonator 意味", "起爆装置 英語", "雷管 英語", "detonate 名詞"],
+    "meanings": [
+      { "hinshi": "【名詞】起爆装置・雷管", "note": "爆薬を起爆させるための小さな装置・部品" }
+    ],
+    "usages": [
+      { "title": "① 爆薬の起爆装置", "desc": "爆発を起こす装置を表す", "example_en": "The bomb was fitted with a timer detonator.", "example_ja": "その爆弾にはタイマー式起爆装置が取り付けられていた。" },
+      { "title": "② 発破の雷管", "desc": "爆破に使う部品を表す", "example_en": "Miners use detonators to set off explosives.", "example_ja": "鉱山労働者は雷管で爆薬を起爆させる。" }
+    ],
+    "warn": ["動詞は detonate（爆発させる）、名詞 detonation（爆発）。"],
+    "etym_note": "ラテン語 detonare（雷鳴を発する）に由来する detonate に -or が付いた語。",
+    "etym_chain": [
+      { "node": "detonare", "sub": "雷鳴を発する", "era": "ラテン語" },
+      { "node": "detonate", "sub": "爆発させる", "era": "近代英語" },
+      { "node": "detonator", "sub": "起爆装置", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a timer detonator", "ja": "タイマー式起爆装置" },
+      { "en": "a remote detonator", "ja": "遠隔起爆装置" },
+      { "en": "set off a detonator", "ja": "起爆装置を作動させる" },
+      { "en": "a bomb detonator", "ja": "爆弾の起爆装置" },
+      { "en": "an electric detonator", "ja": "電気雷管" },
+      { "en": "connect the detonator", "ja": "起爆装置をつなぐ" }
+    ],
+    "related": [
+      { "en": "detonate", "ja": "爆発させる" },
+      { "en": "detonation", "ja": "爆発" },
+      { "en": "explosive", "ja": "爆薬" },
+      { "en": "fuse", "ja": "導火線・信管" }
+    ],
+    "faq": [
+      { "q": "detonator と fuse の違いは？", "a": "detonator は「起爆させる装置・雷管」、fuse は「導火線・信管（点火や作動のタイミングを伝える部分）」です。" },
+      { "q": "動詞形は？", "a": "detonate（爆発させる・爆発する）です。" }
+    ],
+    "quiz": [
+      { "q": "detonator の意味は？", "A": "消火器", "B": "起爆装置・雷管", "C": "発電機", "D": "測定器", "correct": "B" },
+      { "q": "detonator の動詞形は？", "A": "detonate", "B": "determine", "C": "detain", "D": "detour", "correct": "A" }
+    ]
+  },
+  {
+    "english": "detox",
+    "pron": "ˈdiːtɑːks",
+    "kana": "ディートックス",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "detoxification の短縮",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "健康・口語"],
+    "meaning_main": "解毒（する）／デトックス／体内浄化",
+    "description": "detox（ディートックス）の意味・使い方。体内の毒素やアルコール・薬物を抜く「解毒・デトックス」を表す名詞・動詞。detoxification の口語短縮形です。",
+    "keywords": ["detox 意味", "デトックス 英語", "解毒 英語", "detox 使い方"],
+    "meanings": [
+      { "hinshi": "【名詞/動詞】解毒・デトックス", "note": "体内の毒素・アルコール・薬物を抜く（こと）。健康法としても使う" }
+    ],
+    "usages": [
+      { "title": "① 健康法としてのデトックス", "desc": "体内浄化を表す", "example_en": "She went on a three-day detox.", "example_ja": "彼女は3日間のデトックスをした。" },
+      { "title": "② 依存症の解毒（動詞）", "desc": "薬物・アルコールを抜くことを表す", "example_en": "He checked into a clinic to detox.", "example_ja": "彼は解毒のためクリニックに入った。" }
+    ],
+    "warn": ["detoxification の口語短縮。医学では依存症の「解毒（離脱）」、一般では「デトックス（健康法）」。"],
+    "etym_note": "de-（除く）+ toxin（毒素）から成る detoxification の短縮形。",
+    "etym_chain": [
+      { "node": "de- + toxin", "sub": "毒を除く", "era": "近代英語" },
+      { "node": "detoxification", "sub": "解毒", "era": "20世紀英語" },
+      { "node": "detox", "sub": "デトックス", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "go on a detox", "ja": "デトックスをする" },
+      { "en": "a detox diet", "ja": "デトックスの食事法" },
+      { "en": "detox from alcohol", "ja": "アルコールを解毒する" },
+      { "en": "a digital detox", "ja": "デジタルデトックス" },
+      { "en": "a detox program", "ja": "解毒プログラム" },
+      { "en": "need to detox", "ja": "解毒が必要だ" }
+    ],
+    "related": [
+      { "en": "detoxification", "ja": "解毒" },
+      { "en": "detoxify", "ja": "解毒する" },
+      { "en": "cleanse", "ja": "浄化する" },
+      { "en": "toxin", "ja": "毒素" }
+    ],
+    "faq": [
+      { "q": "detox は何の短縮形？", "a": "detoxification（解毒・毒素の除去）の口語短縮形です。" },
+      { "q": "digital detox とは？", "a": "スマホやSNSから一定期間離れる「デジタルデトックス」のことです。" }
+    ],
+    "quiz": [
+      { "q": "detox の意味は？", "A": "毒を盛ること", "B": "解毒・デトックス", "C": "調理", "D": "消毒液", "correct": "B" },
+      { "q": "detox は何の短縮形？", "A": "detour", "B": "detoxification", "C": "detection", "D": "detonation", "correct": "B" }
+    ]
+  },
+  {
+    "english": "detoxification",
+    "pron": "diːˌtɑːksɪfɪˈkeɪʃən",
+    "kana": "ディートックスィフィケーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "de-（除く）+ toxin（毒素）+ -fication",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "医学・化学"],
+    "meaning_main": "解毒／毒素の除去",
+    "description": "detoxification（ディートックスィフィケーション）の意味・使い方。体内の毒素や有害物質を取り除く「解毒」を表す名詞。detox の正式形です。",
+    "keywords": ["detoxification 意味", "解毒 英語", "毒素除去 英語", "detox 正式"],
+    "meanings": [
+      { "hinshi": "【名詞】解毒・毒素の除去", "note": "体内の毒素・有害物質・薬物を取り除く過程（医学・生理）" }
+    ],
+    "usages": [
+      { "title": "① 体の解毒作用", "desc": "毒素を除く働きを表す", "example_en": "The liver plays a key role in detoxification.", "example_ja": "肝臓は解毒に重要な役割を果たす。" },
+      { "title": "② 依存症の治療", "desc": "薬物・アルコールを抜くことを表す", "example_en": "He underwent detoxification at a clinic.", "example_ja": "彼はクリニックで解毒治療を受けた。" }
+    ],
+    "warn": ["口語短縮は detox。動詞は detoxify。toxin（毒素）が語根。"],
+    "etym_note": "de-（除く）+ toxin（毒素、ギリシャ語 toxikon〈毒〉より）+ -fication から成る語。",
+    "etym_chain": [
+      { "node": "de- + toxin", "sub": "毒を除く", "era": "近代英語" },
+      { "node": "detoxify", "sub": "解毒する", "era": "近代英語" },
+      { "node": "detoxification", "sub": "解毒", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "liver detoxification", "ja": "肝臓の解毒" },
+      { "en": "the process of detoxification", "ja": "解毒の過程" },
+      { "en": "drug detoxification", "ja": "薬物の解毒" },
+      { "en": "undergo detoxification", "ja": "解毒治療を受ける" },
+      { "en": "detoxification of the body", "ja": "体の解毒" },
+      { "en": "a detoxification program", "ja": "解毒プログラム" }
+    ],
+    "related": [
+      { "en": "detox", "ja": "デトックス・解毒" },
+      { "en": "detoxify", "ja": "解毒する" },
+      { "en": "purification", "ja": "浄化" },
+      { "en": "toxin", "ja": "毒素" }
+    ],
+    "faq": [
+      { "q": "detoxification と detox の違いは？", "a": "意味は同じですが、detoxification は正式な語、detox はその口語短縮形です。" },
+      { "q": "体のどこで行われますか？", "a": "主に肝臓（liver）が解毒の中心的な役割を果たします。腎臓も老廃物の排出に関わります。" }
+    ],
+    "quiz": [
+      { "q": "detoxification の意味は？", "A": "感染", "B": "解毒・毒素の除去", "C": "発酵", "D": "消化", "correct": "B" },
+      { "q": "解毒の中心となる臓器は？", "A": "肺", "B": "肝臓", "C": "心臓", "D": "胃", "correct": "B" }
+    ]
+  },
+  {
+    "english": "deviant",
+    "pron": "ˈdiːviənt",
+    "kana": "ディーヴィアント",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "形容詞・名詞",
+    "ld_etym": "deviate（逸脱する）+ -ant",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "社会学"],
+    "meaning_main": "（規範から）逸脱した／異常な／逸脱者",
+    "description": "deviant（ディーヴィアント）の意味・使い方。社会の規範から「逸脱した・異常な」を表す形容詞、およびそうした「逸脱者」を表す名詞。社会学で頻出です。",
+    "keywords": ["deviant 意味", "逸脱した 英語", "異常な 英語", "deviant behavior"],
+    "meanings": [
+      { "hinshi": "【形容詞】（規範から）逸脱した・異常な", "note": "社会の標準・許容される範囲から外れた" },
+      { "hinshi": "【名詞】逸脱者", "note": "規範から外れた行動をする人" }
+    ],
+    "usages": [
+      { "title": "① 逸脱した行動", "desc": "規範外の行為を表す", "example_en": "Sociologists study deviant behavior.", "example_ja": "社会学者は逸脱行動を研究する。" },
+      { "title": "② 逸脱者（名詞）", "desc": "規範から外れた人を表す", "example_en": "He was labeled a deviant.", "example_ja": "彼は逸脱者とみなされた。" }
+    ],
+    "warn": ["動詞は deviate（逸脱する）、名詞 deviation（逸脱・偏差）。しばしば否定的な含み。"],
+    "etym_note": "ラテン語 deviare（道〈via〉から外れる）に由来する deviate に -ant が付いた語。",
+    "etym_chain": [
+      { "node": "deviare", "sub": "道から外れる", "era": "後期ラテン語" },
+      { "node": "deviate", "sub": "逸脱する", "era": "近代英語" },
+      { "node": "deviant", "sub": "逸脱した", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "deviant behavior", "ja": "逸脱行動" },
+      { "en": "socially deviant", "ja": "社会的に逸脱した" },
+      { "en": "a deviant act", "ja": "逸脱した行為" },
+      { "en": "deviant from the norm", "ja": "規範から外れた" },
+      { "en": "label as deviant", "ja": "逸脱者とみなす" },
+      { "en": "deviant subcultures", "ja": "逸脱的な下位文化" }
+    ],
+    "related": [
+      { "en": "deviate", "ja": "逸脱する" },
+      { "en": "deviation", "ja": "逸脱・偏差" },
+      { "en": "abnormal", "ja": "異常な" },
+      { "en": "conforming", "ja": "規範に従う" }
+    ],
+    "faq": [
+      { "q": "deviant と abnormal の違いは？", "a": "abnormal は「正常でない」全般、deviant は特に「社会の規範・許容範囲から外れた」という社会的な逸脱を指します。" },
+      { "q": "動詞形は？", "a": "deviate（逸脱する・それる）です。deviate from 〜（〜から外れる）。" }
+    ],
+    "quiz": [
+      { "q": "deviant の意味は？", "A": "規範に従った", "B": "（規範から）逸脱した・異常な", "C": "平均的な", "D": "従順な", "correct": "B" },
+      { "q": "deviant の動詞形は？", "A": "deviate", "B": "devote", "C": "develop", "D": "devour", "correct": "A" }
+    ]
+  },
+  {
+    "english": "devilish",
+    "pron": "ˈdevəlɪʃ",
+    "kana": "デヴィリッシュ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "devil（悪魔）+ -ish（〜のような）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "描写"],
+    "meaning_main": "悪魔のような／いたずらな／（口語）非常に難しい",
+    "description": "devilish（デヴィリッシュ）の意味・使い方。「悪魔のような・邪悪な」を表す形容詞。茶目っ気のある「いたずらな」や、口語の「ひどく難しい」の意味も解説します。",
+    "keywords": ["devilish 意味", "悪魔のような 英語", "いたずらな 英語", "devilish 使い方"],
+    "meanings": [
+      { "hinshi": "【形容詞】悪魔のような・邪悪な", "note": "悪魔を思わせる、または茶目っ気のある・いたずらな" },
+      { "hinshi": "【形容詞/副詞】非常に難しい・ひどく（口語）", "note": "手ごわい・厄介な、程度が甚だしい" }
+    ],
+    "usages": [
+      { "title": "① いたずらな・悪魔的な", "desc": "茶目っ気や邪悪さを表す", "example_en": "He gave a devilish grin.", "example_ja": "彼はいたずらっぽい笑みを浮かべた。" },
+      { "title": "② ひどく難しい（口語）", "desc": "手ごわさを表す", "example_en": "It was a devilish puzzle.", "example_ja": "それは非常に手ごわいパズルだった。" }
+    ],
+    "warn": ["名詞は devil（悪魔）。文脈で「邪悪」「いたずら」「ひどく難しい」を使い分ける。"],
+    "etym_note": "ギリシャ語 diabolos（中傷する者）に由来する devil に -ish が付いた語。",
+    "etym_chain": [
+      { "node": "diabolos", "sub": "中傷する者", "era": "ギリシャ語" },
+      { "node": "devil", "sub": "悪魔", "era": "古英語" },
+      { "node": "devilish", "sub": "悪魔のような", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a devilish grin", "ja": "いたずらっぽい笑み" },
+      { "en": "devilish charm", "ja": "悪魔的な魅力" },
+      { "en": "a devilish plan", "ja": "邪悪な計画" },
+      { "en": "devilishly difficult", "ja": "ひどく難しい" },
+      { "en": "a devilish trick", "ja": "いたずら" },
+      { "en": "devilish cleverness", "ja": "悪魔的な巧妙さ" }
+    ],
+    "related": [
+      { "en": "devil", "ja": "悪魔" },
+      { "en": "demonic", "ja": "悪魔の" },
+      { "en": "mischievous", "ja": "いたずらな" },
+      { "en": "wicked", "ja": "邪悪な" }
+    ],
+    "faq": [
+      { "q": "devilish と demonic の違いは？", "a": "demonic は「（本物の）悪魔の・憑かれたような」重い語、devilish は「悪魔のような」に加えて茶目っ気のある「いたずらな」や口語の「ひどく難しい」も表します。" },
+      { "q": "devilishly の使い方は？", "a": "副詞で「ひどく・非常に」の強調に使い、devilishly clever（ひどく賢い）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "devilish の意味は？", "A": "天使のような", "B": "悪魔のような・いたずらな", "C": "退屈な", "D": "正直な", "correct": "B" },
+      { "q": "devilishly difficult の意味は？", "A": "とても簡単", "B": "ひどく難しい", "C": "少し易しい", "D": "普通の", "correct": "B" }
+    ]
+  }
+]
