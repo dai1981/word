@@ -1,0 +1,988 @@
+[
+  {
+    "english": "flavored",
+    "pron": "ˈfleɪvərd",
+    "kana": "フレイヴァード",
+    "hinshi": "形容詞 / 動詞",
+    "ld_pos": "形容詞・動詞",
+    "ld_etym": "flavor（風味をつける）の過去分詞",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "食品"],
+    "meaning_main": "〜味の／風味をつけた",
+    "description": "flavored（フレイヴァード）の意味・使い方。食品に「〜味の・風味をつけた」を表す形容詞。chocolate-flavored（チョコレート味の）などで使います。英つづり flavoured。",
+    "keywords": ["flavored 意味", "〜味 英語", "風味 英語", "flavored 使い方"],
+    "meanings": [
+      { "hinshi": "【形容詞】〜味の・風味をつけた", "note": "特定の香りや味を加えられた（食品・飲料）" }
+    ],
+    "usages": [
+      { "title": "① 〜味の", "desc": "味付けを表す", "example_en": "I bought some strawberry-flavored milk.", "example_ja": "私はイチゴ味の牛乳を買った。" },
+      { "title": "② 風味づけした", "desc": "香りの追加を表す", "example_en": "The tea is flavored with mint.", "example_ja": "そのお茶はミントで風味づけされている。" }
+    ],
+    "warn": ["米つづり flavored、英つづり flavoured。原形 flavor / flavour（風味・風味をつける）。"],
+    "etym_note": "古フランス語 flaor（香り）に由来する flavor に -ed が付いた語。",
+    "etym_chain": [
+      { "node": "flaor", "sub": "香り", "era": "古フランス語" },
+      { "node": "flavor", "sub": "風味・風味をつける", "era": "中英語" },
+      { "node": "flavored", "sub": "〜味の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "chocolate-flavored", "ja": "チョコレート味の" },
+      { "en": "strawberry-flavored", "ja": "イチゴ味の" },
+      { "en": "flavored with", "ja": "〜で風味づけした" },
+      { "en": "lemon-flavored", "ja": "レモン味の" },
+      { "en": "a flavored drink", "ja": "風味をつけた飲料" },
+      { "en": "lightly flavored", "ja": "ほのかに味付けした" }
+    ],
+    "related": [
+      { "en": "flavor", "ja": "風味・味" },
+      { "en": "flavour", "ja": "風味（英つづり）" },
+      { "en": "seasoned", "ja": "味付けした" },
+      { "en": "unflavored", "ja": "味付けなしの" }
+    ],
+    "faq": [
+      { "q": "flavored のつづりは？", "a": "アメリカ式は flavored、イギリス式は flavoured です。" },
+      { "q": "flavored with とは？", "a": "「〜で風味づけした」という意味です（flavored with mint＝ミント風味の）。" }
+    ],
+    "quiz": [
+      { "q": "flavored の意味は？", "A": "味のない", "B": "〜味の・風味をつけた", "C": "腐った", "D": "焦げた", "correct": "B" },
+      { "q": "flavored の英つづりは？", "A": "flavourd", "B": "flavoured", "C": "flaovored", "D": "flavered", "correct": "B" }
+    ]
+  },
+  {
+    "english": "flavour",
+    "pron": "ˈfleɪvər",
+    "kana": "フレイヴァー",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "古フランス語 flaor（香り）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "英つづり"],
+    "meaning_main": "風味／味／（比喩）趣・特色",
+    "description": "flavour（フレイヴァー）の意味・使い方。食べ物の「風味・味」を表す名詞。イギリス式つづりで、米式は flavor。比喩で「趣・特色」の意味も解説します。",
+    "keywords": ["flavour 意味", "風味 英語", "flavour flavor", "味 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】風味・味", "note": "食べ物・飲み物の味わい・香り" },
+      { "hinshi": "【名詞】趣・特色（比喩）", "note": "全体から感じられる独特の雰囲気" }
+    ],
+    "usages": [
+      { "title": "① 食べ物の味", "desc": "風味を表す", "example_en": "This ice cream has a rich flavour.", "example_ja": "このアイスは濃厚な風味だ。" },
+      { "title": "② 独特の趣（比喩）", "desc": "雰囲気を表す", "example_en": "The town has an old-world flavour.", "example_ja": "その町には古めかしい趣がある。" }
+    ],
+    "warn": ["英つづり flavour、米つづり flavor。動詞は「風味をつける」。taste（味覚）より香りを含む広い語。"],
+    "etym_note": "古フランス語 flaor（香り、ラテン語 flatus〈息〉に関連）に由来する語。",
+    "etym_chain": [
+      { "node": "flaor", "sub": "香り", "era": "古フランス語" },
+      { "node": "flavour", "sub": "風味", "era": "中英語" },
+      { "node": "flavour", "sub": "風味・趣", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rich flavour", "ja": "濃厚な風味" },
+      { "en": "add flavour", "ja": "風味を加える" },
+      { "en": "full of flavour", "ja": "風味豊かな" },
+      { "en": "a subtle flavour", "ja": "繊細な風味" },
+      { "en": "the flavour of the month", "ja": "一時的にもてはやされるもの" },
+      { "en": "a local flavour", "ja": "土地の趣" }
+    ],
+    "related": [
+      { "en": "flavor", "ja": "風味（米つづり）" },
+      { "en": "taste", "ja": "味・味覚" },
+      { "en": "aroma", "ja": "香り" },
+      { "en": "character", "ja": "特色" }
+    ],
+    "faq": [
+      { "q": "flavour と taste の違いは？", "a": "taste は「味覚（甘い・苦いなど）」、flavour は「味覚＋香りを合わせた全体的な味わい・風味」です。" },
+      { "q": "つづりは？", "a": "イギリス式は flavour、アメリカ式は flavor です。" }
+    ],
+    "quiz": [
+      { "q": "flavour の意味は？", "A": "色", "B": "風味・味", "C": "音", "D": "重さ", "correct": "B" },
+      { "q": "flavour の米つづりは？", "A": "flavor", "B": "flavur", "C": "flavore", "D": "flaver", "correct": "A" }
+    ]
+  },
+  {
+    "english": "flick",
+    "pron": "flɪk",
+    "kana": "フリック",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "擬音的な語（軽くはじく）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "頻出"],
+    "meaning_main": "軽くはじく／さっと動かす／（名詞）ひとはじき",
+    "description": "flick（フリック）の意味・使い方。指などで「軽くはじく・さっと動かす」を表す動詞・名詞。スイッチの操作やスマホの「フリック」入力にも使われます。",
+    "keywords": ["flick 意味", "軽くはじく 英語", "フリック 英語", "flick 使い方"],
+    "meanings": [
+      { "hinshi": "【動詞/名詞】軽くはじく・さっと動かす", "note": "指などですばやく軽くはじく、さっと払う動作" }
+    ],
+    "usages": [
+      { "title": "① 軽くはじく", "desc": "すばやい動きを表す", "example_en": "She flicked the crumbs off the table.", "example_ja": "彼女はパンくずをテーブルからさっと払った。" },
+      { "title": "② スイッチを入れる", "desc": "さっと切り替えることを表す", "example_en": "He flicked the switch on.", "example_ja": "彼はスイッチをパチッと入れた。" }
+    ],
+    "warn": ["flick through（ぱらぱらめくる）。flick a switch（スイッチをさっと入れる）。口語で flick は「映画」の意味も。"],
+    "etym_note": "軽くはじく音・動作を表す擬音的な語に由来。",
+    "etym_chain": [
+      { "node": "flick（擬音）", "sub": "軽くはじく", "era": "近代英語" },
+      { "node": "flick", "sub": "はじく", "era": "近代英語" },
+      { "node": "flick", "sub": "軽くはじく・さっと動かす", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "flick a switch", "ja": "スイッチをさっと入れる" },
+      { "en": "flick through", "ja": "ぱらぱらめくる" },
+      { "en": "flick off", "ja": "さっと払い落とす" },
+      { "en": "a flick of the wrist", "ja": "手首のひとはじき" },
+      { "en": "flick the light on", "ja": "明かりをパチッとつける" },
+      { "en": "flick away", "ja": "はじき飛ばす" }
+    ],
+    "related": [
+      { "en": "flip", "ja": "ひっくり返す・はじく" },
+      { "en": "snap", "ja": "パチンと鳴らす" },
+      { "en": "toss", "ja": "軽く投げる" },
+      { "en": "swipe", "ja": "さっとなでる・スワイプ" }
+    ],
+    "faq": [
+      { "q": "flick through とは？", "a": "「（本・雑誌を）ぱらぱらとめくる・ざっと目を通す」という意味です。" },
+      { "q": "flick は映画の意味もありますか？", "a": "はい。口語で flick は「映画」を指すこともあります（a chick flick＝女性向け映画）。" }
+    ],
+    "quiz": [
+      { "q": "flick の意味は？", "A": "強く押す", "B": "軽くはじく・さっと動かす", "C": "持ち上げる", "D": "折りたたむ", "correct": "B" },
+      { "q": "flick through の意味は？", "A": "ぱらぱらめくる", "B": "投げ捨てる", "C": "貼り付ける", "D": "切り取る", "correct": "A" }
+    ]
+  },
+  {
+    "english": "flip-flops",
+    "pron": "ˈflɪpflɑːps",
+    "kana": "フリップフロップス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "歩くときの擬音 flip-flop",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "複数扱い"],
+    "meaning_main": "ビーチサンダル／（鼻緒の）サンダル",
+    "description": "flip-flops（フリップフロップス）の意味・使い方。鼻緒でつっかける「ビーチサンダル」を表す名詞（複数形）。歩くときの音に由来する語です。",
+    "keywords": ["flip-flops 意味", "ビーチサンダル 英語", "サンダル 英語", "flip-flops 使い方"],
+    "meanings": [
+      { "hinshi": "【名詞】ビーチサンダル・鼻緒のサンダル", "note": "指の間で挟む鼻緒のついた薄いサンダル（通例複数形）" }
+    ],
+    "usages": [
+      { "title": "① 夏のはき物", "desc": "サンダルを表す", "example_en": "She wore flip-flops to the beach.", "example_ja": "彼女はビーチにビーチサンダルをはいて行った。" },
+      { "title": "② カジュアルなはき物", "desc": "普段のサンダルを表す", "example_en": "He slipped on his flip-flops.", "example_ja": "彼はビーチサンダルをつっかけた。" }
+    ],
+    "warn": ["常に複数形 flip-flops。歩くときの「ぺたぺた」という音に由来。英で thongs（豪）とも。"],
+    "etym_note": "歩くときのぺたぺたという音を表す擬音 flip-flop に由来する語。",
+    "etym_chain": [
+      { "node": "flip-flop", "sub": "ぺたぺたという音", "era": "近代英語" },
+      { "node": "flip-flops", "sub": "ビーチサンダル", "era": "20世紀英語" },
+      { "node": "flip-flops", "sub": "ビーチサンダル", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a pair of flip-flops", "ja": "ビーチサンダル一足" },
+      { "en": "wear flip-flops", "ja": "ビーチサンダルをはく" },
+      { "en": "rubber flip-flops", "ja": "ゴムのビーチサンダル" },
+      { "en": "beach flip-flops", "ja": "ビーチ用サンダル" },
+      { "en": "slip on flip-flops", "ja": "ビーチサンダルをつっかける" },
+      { "en": "summer flip-flops", "ja": "夏のビーチサンダル" }
+    ],
+    "related": [
+      { "en": "sandals", "ja": "サンダル" },
+      { "en": "slippers", "ja": "スリッパ" },
+      { "en": "footwear", "ja": "はき物" },
+      { "en": "thongs", "ja": "ビーチサンダル（豪）" }
+    ],
+    "faq": [
+      { "q": "flip-flops の数え方は？", "a": "つねに複数形で、a pair of flip-flops（一足）と数えます。" },
+      { "q": "名前の由来は？", "a": "歩くときの「ぺたぺた（flip-flop）」という音に由来します。" }
+    ],
+    "quiz": [
+      { "q": "flip-flops の意味は？", "A": "長靴", "B": "ビーチサンダル", "C": "革靴", "D": "運動靴", "correct": "B" },
+      { "q": "flip-flops の数え方は？", "A": "a flip-flop", "B": "a pair of flip-flops", "C": "two flip-flop", "D": "a piece of flip-flops", "correct": "B" }
+    ]
+  },
+  {
+    "english": "flirtatious",
+    "pron": "flɜːrˈteɪʃəs",
+    "kana": "フラーテイシャス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "flirt（いちゃつく）+ -atious",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "性格描写"],
+    "meaning_main": "思わせぶりな／異性の気を引くような／浮わついた",
+    "description": "flirtatious（フラーテイシャス）の意味・使い方。異性の気を引こうと「思わせぶりな・色目を使う」様子を表す形容詞。動詞 flirt との関係も解説します。",
+    "keywords": ["flirtatious 意味", "思わせぶり 英語", "気を引く 英語", "flirt 形容詞"],
+    "meanings": [
+      { "hinshi": "【形容詞】思わせぶりな・異性の気を引くような", "note": "遊び半分に異性に色目を使い、気を引こうとする様子の" }
+    ],
+    "usages": [
+      { "title": "① 思わせぶりな態度", "desc": "気を引く様子を表す", "example_en": "She gave him a flirtatious smile.", "example_ja": "彼女は彼に思わせぶりな笑みを送った。" },
+      { "title": "② 浮わついたふるまい", "desc": "遊び半分の態度を表す", "example_en": "He is charming but flirtatious.", "example_ja": "彼は魅力的だが浮わついている。" }
+    ],
+    "warn": ["動詞は flirt（いちゃつく・気を引く）、名詞 flirtation。flirt with 〜（〜と戯れる）。"],
+    "etym_note": "flirt（いちゃつく、語源は擬音的）に -atious（〜の傾向のある）が付いた語。",
+    "etym_chain": [
+      { "node": "flirt", "sub": "いちゃつく", "era": "近代英語" },
+      { "node": "flirtation", "sub": "戯れ", "era": "近代英語" },
+      { "node": "flirtatious", "sub": "思わせぶりな", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a flirtatious smile", "ja": "思わせぶりな笑み" },
+      { "en": "a flirtatious manner", "ja": "気を引くような態度" },
+      { "en": "flirtatious behavior", "ja": "浮わついたふるまい" },
+      { "en": "a flirtatious glance", "ja": "思わせぶりな視線" },
+      { "en": "flirtatious remarks", "ja": "気を引くような発言" },
+      { "en": "playful and flirtatious", "ja": "遊び心があり思わせぶりな" }
+    ],
+    "related": [
+      { "en": "flirt", "ja": "いちゃつく・気を引く" },
+      { "en": "flirtation", "ja": "戯れ・浮気っぽさ" },
+      { "en": "coquettish", "ja": "こびを売るような" },
+      { "en": "seductive", "ja": "誘惑的な" }
+    ],
+    "faq": [
+      { "q": "flirtatious の動詞形は？", "a": "flirt（いちゃつく・気を引く）です。flirt with 〜（〜と戯れる）のように使います。" },
+      { "q": "coquettish との違いは？", "a": "どちらも「気を引く」ですが、coquettish は特に「（女性が）こびを売るような」に、flirtatious は男女ともに「思わせぶりな」に使えます。" }
+    ],
+    "quiz": [
+      { "q": "flirtatious の意味は？", "A": "無愛想な", "B": "思わせぶりな・異性の気を引くような", "C": "内気な", "D": "真面目な", "correct": "B" },
+      { "q": "flirtatious の動詞形は？", "A": "flirt", "B": "float", "C": "flee", "D": "flip", "correct": "A" }
+    ]
+  },
+  {
+    "english": "flooded",
+    "pron": "ˈflʌdɪd",
+    "kana": "フラッディッド",
+    "hinshi": "形容詞 / 動詞",
+    "ld_pos": "形容詞・動詞",
+    "ld_etym": "flood（氾濫する）の過去分詞",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "頻出"],
+    "meaning_main": "水浸しの／浸水した／（比喩）殺到した・あふれた",
+    "description": "flooded（フラッディッド）の意味・使い方。水で「浸水した・水浸しの」を表す形容詞。比喩で問い合わせなどが「殺到した・あふれた」の意味も解説します。",
+    "keywords": ["flooded 意味", "浸水 英語", "水浸し 英語", "flooded 使い方"],
+    "meanings": [
+      { "hinshi": "【形容詞】水浸しの・浸水した", "note": "水があふれて満たされた状態" },
+      { "hinshi": "【形容詞】殺到した・あふれた（比喩）", "note": "大量に押し寄せて満ちた" }
+    ],
+    "usages": [
+      { "title": "① 浸水した", "desc": "水浸しを表す", "example_en": "The streets were flooded after the storm.", "example_ja": "嵐の後、通りは水浸しになった。" },
+      { "title": "② 殺到した（比喩）", "desc": "あふれることを表す", "example_en": "The office was flooded with calls.", "example_ja": "事務所には電話が殺到した。" }
+    ],
+    "warn": ["原形は flood（氾濫する・殺到する）。be flooded with 〜（〜が殺到する）。"],
+    "etym_note": "古英語 flōd（洪水）に由来する flood の過去分詞。",
+    "etym_chain": [
+      { "node": "flōd", "sub": "洪水", "era": "古英語" },
+      { "node": "flood", "sub": "氾濫する", "era": "中英語" },
+      { "node": "flooded", "sub": "浸水した", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a flooded street", "ja": "水浸しの通り" },
+      { "en": "be flooded with", "ja": "〜が殺到する" },
+      { "en": "flooded fields", "ja": "浸水した畑" },
+      { "en": "a flooded basement", "ja": "浸水した地下室" },
+      { "en": "flooded with light", "ja": "光に満ちて" },
+      { "en": "flooded with requests", "ja": "要望が殺到して" }
+    ],
+    "related": [
+      { "en": "flood", "ja": "洪水・氾濫する" },
+      { "en": "submerged", "ja": "水没した" },
+      { "en": "overwhelmed", "ja": "圧倒された" },
+      { "en": "drenched", "ja": "びしょ濡れの" }
+    ],
+    "faq": [
+      { "q": "be flooded with とは？", "a": "「〜が殺到する・〜であふれる」という意味です（flooded with calls＝電話が殺到する）。" },
+      { "q": "原形は？", "a": "flood（氾濫する・殺到する）です。" }
+    ],
+    "quiz": [
+      { "q": "flooded の意味は？", "A": "乾いた", "B": "水浸しの・殺到した", "C": "凍った", "D": "空の", "correct": "B" },
+      { "q": "be flooded with の意味は？", "A": "〜が不足する", "B": "〜が殺到する", "C": "〜を避ける", "D": "〜を止める", "correct": "B" }
+    ]
+  },
+  {
+    "english": "flop",
+    "pron": "flɑːp",
+    "kana": "フロップ",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "擬音的な flop（ばたっと倒れる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "口語"],
+    "meaning_main": "ばたっと倒れる／（口語）大失敗（する）／興行の失敗作",
+    "description": "flop（フロップ）の意味・使い方。体を「ばたっと倒す・投げ出す」を表す動詞。口語で「大失敗・こける」や興行の「失敗作」の意味も解説します。",
+    "keywords": ["flop 意味", "大失敗 英語", "ばたっと倒れる 英語", "flop 使い方"],
+    "meanings": [
+      { "hinshi": "【動詞】ばたっと倒れる・投げ出す", "note": "力なくどさっと倒れ込む、体を投げ出す" },
+      { "hinshi": "【動詞/名詞】大失敗する・失敗作（口語）", "note": "映画・商品などが売れずに大こけすること" }
+    ],
+    "usages": [
+      { "title": "① ばたっと倒れ込む", "desc": "力なく倒れる様子を表す", "example_en": "He flopped onto the sofa.", "example_ja": "彼はソファにばたっと倒れ込んだ。" },
+      { "title": "② 大失敗する（口語）", "desc": "こけることを表す", "example_en": "The movie was a total flop.", "example_ja": "その映画は完全な失敗作だった。" }
+    ],
+    "warn": ["a box-office flop（興行的失敗作）。success（成功・ヒット作）の対。belly flop は「腹打ち飛び込み」。"],
+    "etym_note": "ばたっと倒れる音・動作を表す擬音的な語（flap の変種）に由来。",
+    "etym_chain": [
+      { "node": "flop（擬音）", "sub": "ばたっと倒れる", "era": "近代英語" },
+      { "node": "flop", "sub": "倒れる・失敗する", "era": "近代英語" },
+      { "node": "flop", "sub": "ばたっと倒れる・大失敗", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "flop onto", "ja": "〜にばたっと倒れ込む" },
+      { "en": "a total flop", "ja": "完全な失敗作" },
+      { "en": "a box-office flop", "ja": "興行的失敗作" },
+      { "en": "flop down", "ja": "どさっと座り込む" },
+      { "en": "the plan flopped", "ja": "計画は失敗に終わった" },
+      { "en": "flop around", "ja": "ばたばたする" }
+    ],
+    "related": [
+      { "en": "fail", "ja": "失敗する" },
+      { "en": "collapse", "ja": "崩れ落ちる" },
+      { "en": "fizzle", "ja": "尻すぼみに終わる" },
+      { "en": "hit", "ja": "ヒット作" }
+    ],
+    "faq": [
+      { "q": "flop の口語的な意味は？", "a": "「大失敗・こける」という意味です。特に映画・商品が売れずに失敗することを a flop と言います。" },
+      { "q": "対義語は？", "a": "hit / success（ヒット作・成功）です。" }
+    ],
+    "quiz": [
+      { "q": "flop（口語）の意味は？", "A": "大成功", "B": "大失敗・失敗作", "C": "小さな傷", "D": "延期", "correct": "B" },
+      { "q": "flop onto の意味は？", "A": "〜を持ち上げる", "B": "〜にばたっと倒れ込む", "C": "〜を投げる", "D": "〜を折る", "correct": "B" }
+    ]
+  },
+  {
+    "english": "florist",
+    "pron": "ˈflɔːrɪst",
+    "kana": "フロリスト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 flos（花）+ -ist",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "職業"],
+    "meaning_main": "花屋（の人）／花商",
+    "description": "florist（フロリスト）の意味・使い方。花を売り、花束やアレンジを作る「花屋・花商」を表す名詞。店そのものを指すこともあります。",
+    "keywords": ["florist 意味", "花屋 英語", "花商 英語", "florist 使い方"],
+    "meanings": [
+      { "hinshi": "【名詞】花屋（の人）・花商", "note": "花を売り、花束やアレンジメントを作る人・店" }
+    ],
+    "usages": [
+      { "title": "① 花屋の人", "desc": "花を扱う人を表す", "example_en": "The florist made a beautiful bouquet.", "example_ja": "花屋は美しい花束を作った。" },
+      { "title": "② 花屋（店）", "desc": "店を表す", "example_en": "I bought roses at the florist.", "example_ja": "私は花屋でバラを買った。" }
+    ],
+    "warn": ["店は florist / florist's（花屋）。ラテン語 flos（花）が語根。"],
+    "etym_note": "ラテン語 flos（花、属格 floris）に -ist が付いた語。",
+    "etym_chain": [
+      { "node": "flos", "sub": "花", "era": "ラテン語" },
+      { "node": "florist", "sub": "花屋", "era": "近代英語" },
+      { "node": "florist", "sub": "花屋・花商", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "go to the florist", "ja": "花屋に行く" },
+      { "en": "a local florist", "ja": "地元の花屋" },
+      { "en": "order from a florist", "ja": "花屋に注文する" },
+      { "en": "a skilled florist", "ja": "腕のいい花屋" },
+      { "en": "the florist's shop", "ja": "花屋の店" },
+      { "en": "a wedding florist", "ja": "ウェディングの花屋" }
+    ],
+    "related": [
+      { "en": "flower", "ja": "花" },
+      { "en": "bouquet", "ja": "花束" },
+      { "en": "arrangement", "ja": "アレンジメント" },
+      { "en": "gardener", "ja": "庭師" }
+    ],
+    "faq": [
+      { "q": "florist は人ですか店ですか？", "a": "基本は「花屋の人（花商）」ですが、店そのものを指すこともあります。店を明示するときは the florist's（花屋の店）と言います。" },
+      { "q": "gardener との違いは？", "a": "florist は「花を売り・アレンジする人」、gardener は「庭・植物を育てる庭師」です。" }
+    ],
+    "quiz": [
+      { "q": "florist の意味は？", "A": "パン屋", "B": "花屋・花商", "C": "肉屋", "D": "本屋", "correct": "B" },
+      { "q": "florist の語源にある flos の意味は？", "A": "花", "B": "木", "C": "水", "D": "光", "correct": "A" }
+    ]
+  },
+  {
+    "english": "flourishing",
+    "pron": "ˈflɜːrɪʃɪŋ",
+    "kana": "フラリッシング",
+    "hinshi": "形容詞 / 動詞",
+    "ld_pos": "形容詞・動詞",
+    "ld_etym": "flourish（繁栄する）+ -ing",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出"],
+    "meaning_main": "繁栄している／盛んな／すくすく育つ",
+    "description": "flourishing（フラリッシング）の意味・使い方。事業や生物が「繁栄している・盛んな・すくすく育つ」を表す形容詞。flourish の -ing 形でもあります。",
+    "keywords": ["flourishing 意味", "繁栄している 英語", "盛んな 英語", "flourishing 使い方"],
+    "meanings": [
+      { "hinshi": "【形容詞】繁栄している・盛んな・すくすく育つ", "note": "順調に発展し、勢いよく栄えている様子" }
+    ],
+    "usages": [
+      { "title": "① 繁盛する事業", "desc": "順調な発展を表す", "example_en": "They run a flourishing business.", "example_ja": "彼らは繁盛している事業を営んでいる。" },
+      { "title": "② すくすく育つ", "desc": "元気に育つことを表す", "example_en": "The plants are flourishing in the garden.", "example_ja": "植物は庭ですくすく育っている。" }
+    ],
+    "warn": ["動詞は flourish（繁栄する・栄える）。declining（衰退する）の対。"],
+    "etym_note": "ラテン語 florere（花咲く・栄える）に由来する flourish に -ing が付いた語。",
+    "etym_chain": [
+      { "node": "florere", "sub": "花咲く・栄える", "era": "ラテン語" },
+      { "node": "flourish", "sub": "繁栄する", "era": "中英語" },
+      { "node": "flourishing", "sub": "繁栄している", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a flourishing business", "ja": "繁盛している事業" },
+      { "en": "a flourishing economy", "ja": "活気ある経済" },
+      { "en": "a flourishing career", "ja": "順調なキャリア" },
+      { "en": "flourishing trade", "ja": "盛んな貿易" },
+      { "en": "a flourishing community", "ja": "栄えている地域社会" },
+      { "en": "flourishing plants", "ja": "すくすく育つ植物" }
+    ],
+    "related": [
+      { "en": "flourish", "ja": "繁栄する" },
+      { "en": "thriving", "ja": "繁盛している" },
+      { "en": "prosperous", "ja": "繁栄した" },
+      { "en": "declining", "ja": "衰退する" }
+    ],
+    "faq": [
+      { "q": "flourishing と thriving の違いは？", "a": "ほぼ同義で「繁栄している」を表します。どちらも事業・生物・地域が勢いよく栄える様子に使えます。" },
+      { "q": "対義語は？", "a": "declining（衰退する）や failing（傾いている）です。" }
+    ],
+    "quiz": [
+      { "q": "flourishing の意味は？", "A": "衰退している", "B": "繁栄している・盛んな", "C": "停滞した", "D": "枯れた", "correct": "B" },
+      { "q": "flourishing の動詞形は？", "A": "flourish", "B": "flatter", "C": "flow", "D": "flee", "correct": "A" }
+    ]
+  },
+  {
+    "english": "flout",
+    "pron": "flaʊt",
+    "kana": "フラウト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "中英語 flouten（あざける）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "頻出"],
+    "meaning_main": "（規則などを）公然と無視する／ばかにして従わない",
+    "description": "flout（フラウト）の意味・使い方。規則や慣習を「公然と無視する・平然と破る」を表す動詞。flaunt（見せびらかす）との混同に注意して解説します。",
+    "keywords": ["flout 意味", "規則を無視 英語", "公然と破る 英語", "flout flaunt 違い"],
+    "meanings": [
+      { "hinshi": "【動詞】（規則などを）公然と無視する・平然と破る", "note": "法・規則・慣習をばかにして堂々と従わない" }
+    ],
+    "usages": [
+      { "title": "① 規則を無視する", "desc": "公然と破ることを表す", "example_en": "They openly flouted the rules.", "example_ja": "彼らは公然と規則を無視した。" },
+      { "title": "② 慣習に逆らう", "desc": "従わないことを表す", "example_en": "She flouted convention.", "example_ja": "彼女は慣習を平然と無視した。" }
+    ],
+    "warn": ["flaunt（見せびらかす）と混同注意。flout は「規則を無視する」、flaunt は「誇示する」。"],
+    "etym_note": "中英語 flouten（あざける・軽んじる）に由来する語。",
+    "etym_chain": [
+      { "node": "flouten", "sub": "あざける", "era": "中英語" },
+      { "node": "flout", "sub": "公然と無視する", "era": "近代英語" },
+      { "node": "flout", "sub": "規則を無視する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "flout the rules", "ja": "規則を公然と無視する" },
+      { "en": "flout the law", "ja": "法律を平然と破る" },
+      { "en": "flout convention", "ja": "慣習に逆らう" },
+      { "en": "openly flout", "ja": "公然と無視する" },
+      { "en": "flout authority", "ja": "権威を無視する" },
+      { "en": "flout regulations", "ja": "規則を無視する" }
+    ],
+    "related": [
+      { "en": "defy", "ja": "反抗する" },
+      { "en": "disregard", "ja": "無視する" },
+      { "en": "violate", "ja": "違反する" },
+      { "en": "obey", "ja": "従う" }
+    ],
+    "faq": [
+      { "q": "flout と flaunt の違いは？", "a": "flout は「（規則を）公然と無視する」、flaunt は「（富などを）見せびらかす」です。つづり・意味とも異なるので混同に注意しましょう。" },
+      { "q": "対義語は？", "a": "obey（従う）や comply（順守する）です。" }
+    ],
+    "quiz": [
+      { "q": "flout の意味は？", "A": "規則を守る", "B": "（規則を）公然と無視する", "C": "見せびらかす", "D": "提案する", "correct": "B" },
+      { "q": "flout と混同しやすい語は？", "A": "flaunt（見せびらかす）", "B": "float", "C": "flour", "D": "flow", "correct": "A" }
+    ]
+  },
+  {
+    "english": "flowery",
+    "pron": "ˈflaʊəri",
+    "kana": "フラワリー",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "flower（花）+ -y",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "描写"],
+    "meaning_main": "花柄の／花の多い／（表現が）美辞麗句の",
+    "description": "flowery（フラワリー）の意味・使い方。「花柄の・花の多い」を表す形容詞。比喩で言葉が「美辞麗句を並べた・大げさな」の意味も解説します。",
+    "keywords": ["flowery 意味", "花柄 英語", "美辞麗句 英語", "flowery 使い方"],
+    "meanings": [
+      { "hinshi": "【形容詞】花柄の・花の多い", "note": "花の模様の、花がたくさんある" },
+      { "hinshi": "【形容詞】美辞麗句の・大げさな（表現）", "note": "飾り立てた凝った言葉遣いの" }
+    ],
+    "usages": [
+      { "title": "① 花柄の・花の多い", "desc": "花の様子を表す", "example_en": "She wore a flowery dress.", "example_ja": "彼女は花柄のドレスを着ていた。" },
+      { "title": "② 美辞麗句の（表現）", "desc": "飾った言葉を表す", "example_en": "His speech was full of flowery language.", "example_ja": "彼の演説は美辞麗句だらけだった。" }
+    ],
+    "warn": ["flowery language（美辞麗句・大げさな言葉）はやや否定的。plain（飾らない）の対。"],
+    "etym_note": "flower（花）に -y が付いた語。",
+    "etym_chain": [
+      { "node": "flower", "sub": "花", "era": "中英語" },
+      { "node": "flower + -y", "sub": "花の多い", "era": "中英語" },
+      { "node": "flowery", "sub": "花柄の・美辞麗句の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a flowery dress", "ja": "花柄のドレス" },
+      { "en": "flowery wallpaper", "ja": "花柄の壁紙" },
+      { "en": "flowery language", "ja": "美辞麗句" },
+      { "en": "a flowery pattern", "ja": "花柄の模様" },
+      { "en": "flowery prose", "ja": "凝った文章" },
+      { "en": "overly flowery", "ja": "大げさすぎる（表現）" }
+    ],
+    "related": [
+      { "en": "flower", "ja": "花" },
+      { "en": "floral", "ja": "花の・花柄の" },
+      { "en": "ornate", "ja": "装飾過多の" },
+      { "en": "plain", "ja": "飾らない" }
+    ],
+    "faq": [
+      { "q": "flowery language とは？", "a": "「美辞麗句・大げさで凝った言葉遣い」を指し、しばしば「飾りすぎ」という否定的な含みがあります。" },
+      { "q": "floral との違いは？", "a": "floral は「花の・花柄の」中立的な語、flowery は「花柄の」に加えて「美辞麗句の」という比喩も持ちます。" }
+    ],
+    "quiz": [
+      { "q": "flowery の意味は？", "A": "無地の", "B": "花柄の・美辞麗句の", "C": "暗い", "D": "冷たい", "correct": "B" },
+      { "q": "flowery language の意味は？", "A": "簡潔な言葉", "B": "美辞麗句・大げさな言葉", "C": "外国語", "D": "専門用語", "correct": "B" }
+    ]
+  },
+  {
+    "english": "fluidity",
+    "pron": "fluˈɪdəti",
+    "kana": "フルイディティ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "fluid（流動的な）+ -ity",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "抽象名詞"],
+    "meaning_main": "流動性／なめらかさ／（変化する）柔軟性",
+    "description": "fluidity（フルイディティ）の意味・使い方。液体の「流動性」や動きの「なめらかさ」、状況の「変わりやすさ・柔軟性」を表す名詞。fluid の名詞形です。",
+    "keywords": ["fluidity 意味", "流動性 英語", "なめらかさ 英語", "fluid 名詞"],
+    "meanings": [
+      { "hinshi": "【名詞】流動性・なめらかさ・柔軟性", "note": "流れるような性質、動きの滑らかさ、変化しやすさ" }
+    ],
+    "usages": [
+      { "title": "① 動きのなめらかさ", "desc": "流れるような様子を表す", "example_en": "She danced with great fluidity.", "example_ja": "彼女はとてもなめらかに踊った。" },
+      { "title": "② 状況の流動性", "desc": "変わりやすさを表す", "example_en": "The fluidity of the situation made planning hard.", "example_ja": "状況の流動性が計画を難しくした。" }
+    ],
+    "warn": ["形容詞は fluid（流動的な・なめらかな）。rigidity（硬直性）の対。"],
+    "etym_note": "ラテン語 fluidus（流れる）に由来する fluid に -ity が付いた語。",
+    "etym_chain": [
+      { "node": "fluidus", "sub": "流れる", "era": "ラテン語" },
+      { "node": "fluid", "sub": "流動的な", "era": "近代英語" },
+      { "node": "fluidity", "sub": "流動性", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "with fluidity", "ja": "なめらかに" },
+      { "en": "the fluidity of movement", "ja": "動きのなめらかさ" },
+      { "en": "social fluidity", "ja": "社会の流動性" },
+      { "en": "gender fluidity", "ja": "ジェンダーの流動性" },
+      { "en": "the fluidity of the market", "ja": "市場の流動性" },
+      { "en": "graceful fluidity", "ja": "優雅ななめらかさ" }
+    ],
+    "related": [
+      { "en": "fluid", "ja": "流動的な・液体" },
+      { "en": "flexibility", "ja": "柔軟性" },
+      { "en": "smoothness", "ja": "なめらかさ" },
+      { "en": "rigidity", "ja": "硬直性" }
+    ],
+    "faq": [
+      { "q": "fluidity の対義語は？", "a": "rigidity（硬直性・こわばり）です。流動的で変わりやすいのが fluidity、固くて変わらないのが rigidity です。" },
+      { "q": "比喩的な使い方は？", "a": "動きの「なめらかさ」や、状況・境界の「変わりやすさ・柔軟性」を表します。" }
+    ],
+    "quiz": [
+      { "q": "fluidity の意味は？", "A": "硬さ", "B": "流動性・なめらかさ", "C": "重さ", "D": "明るさ", "correct": "B" },
+      { "q": "fluidity の対義語は？", "A": "rigidity", "B": "rapidity", "C": "validity", "D": "humidity", "correct": "A" }
+    ]
+  },
+  {
+    "english": "flunky",
+    "pron": "ˈflʌŋki",
+    "kana": "フランキー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "スコットランド語 flunkie（従僕）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "口語・軽蔑"],
+    "meaning_main": "（見下して）下働き／腰巾着／こびへつらう手下",
+    "description": "flunky（フランキー）の意味・使い方。権力者にこびへつらう「下働き・腰巾着」を表す軽蔑的な名詞。flunkey とも綴ります。",
+    "keywords": ["flunky 意味", "腰巾着 英語", "下働き 英語", "flunky 使い方"],
+    "meanings": [
+      { "hinshi": "【名詞】下働き・腰巾着・こびへつらう手下", "note": "権力者に従い雑用をこなす人を見下して言う語（軽蔑的）" }
+    ],
+    "usages": [
+      { "title": "① こびへつらう手下", "desc": "腰巾着を表す", "example_en": "He was just a flunky for the boss.", "example_ja": "彼はボスの腰巾着に過ぎなかった。" },
+      { "title": "② 雑用係（軽蔑的）", "desc": "下働きを表す", "example_en": "She refused to be treated like a flunky.", "example_ja": "彼女は下働きのように扱われるのを拒んだ。" }
+    ],
+    "warn": ["軽蔑的な語。flunkey とも綴る。元は「（制服を着た）従僕」の意。"],
+    "etym_note": "スコットランド語 flunkie（従僕、flanker〈脇に控える者〉に由来）から。",
+    "etym_chain": [
+      { "node": "flunkie", "sub": "従僕", "era": "スコットランド語" },
+      { "node": "flunky", "sub": "下働き", "era": "近代英語" },
+      { "node": "flunky", "sub": "腰巾着", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a mere flunky", "ja": "ただの下働き" },
+      { "en": "the boss's flunky", "ja": "ボスの腰巾着" },
+      { "en": "a political flunky", "ja": "政治的な手下" },
+      { "en": "treated like a flunky", "ja": "下働きのように扱われて" },
+      { "en": "a loyal flunky", "ja": "忠実な手下" },
+      { "en": "act as a flunky", "ja": "腰巾着を務める" }
+    ],
+    "related": [
+      { "en": "lackey", "ja": "召使い・こびへつらう者" },
+      { "en": "servant", "ja": "使用人" },
+      { "en": "underling", "ja": "手下・下っ端" },
+      { "en": "minion", "ja": "手先・子分" }
+    ],
+    "faq": [
+      { "q": "flunky と lackey の違いは？", "a": "ほぼ同義でどちらも「こびへつらう下働き」を見下して言う語です。lackey の方がやや文語的です。" },
+      { "q": "つづりは？", "a": "flunky または flunkey と綴ります。" }
+    ],
+    "quiz": [
+      { "q": "flunky の意味は？", "A": "上司", "B": "下働き・腰巾着", "C": "経営者", "D": "顧客", "correct": "B" },
+      { "q": "flunky と近い語は？", "A": "lackey", "B": "leader", "C": "lawyer", "D": "landlord", "correct": "A" }
+    ]
+  },
+  {
+    "english": "fluorescence",
+    "pron": "ˌflʊˈresəns",
+    "kana": "フルオレッセンス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "fluorspar（蛍石）+ -escence",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "物理・化学"],
+    "meaning_main": "蛍光（光を受けて発光する現象）",
+    "description": "fluorescence（フルオレッセンス）の意味・使い方。物質が光を吸収し、別の光を放つ「蛍光」を表す名詞。蛍光灯や生物の発光にも関わります。",
+    "keywords": ["fluorescence 意味", "蛍光 英語", "蛍光灯 英語", "fluorescence 使い方"],
+    "meanings": [
+      { "hinshi": "【名詞】蛍光", "note": "物質が光（紫外線など）を吸収し、それとは別の波長の光を放つ現象" }
+    ],
+    "usages": [
+      { "title": "① 蛍光現象", "desc": "発光を表す", "example_en": "The mineral shows green fluorescence under UV light.", "example_ja": "その鉱物は紫外線下で緑色の蛍光を示す。" },
+      { "title": "② 生物・分析", "desc": "科学での利用を表す", "example_en": "Fluorescence is used to label cells.", "example_ja": "蛍光は細胞を標識するのに使われる。" }
+    ],
+    "warn": ["形容詞は fluorescent（蛍光の）。光を当てている間だけ光る点で、phosphorescence（りん光）と区別する。"],
+    "etym_note": "蛍石 fluorspar（fluor）に由来し、opalescence（乳白光）にならって -escence が付いた語。",
+    "etym_chain": [
+      { "node": "fluor", "sub": "蛍石", "era": "ラテン語" },
+      { "node": "fluorescence", "sub": "蛍光", "era": "19世紀英語" },
+      { "node": "fluorescence", "sub": "蛍光", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "green fluorescence", "ja": "緑色の蛍光" },
+      { "en": "under fluorescence", "ja": "蛍光下で" },
+      { "en": "fluorescence microscopy", "ja": "蛍光顕微鏡法" },
+      { "en": "show fluorescence", "ja": "蛍光を示す" },
+      { "en": "natural fluorescence", "ja": "自然の蛍光" },
+      { "en": "fluorescence emission", "ja": "蛍光の放出" }
+    ],
+    "related": [
+      { "en": "fluorescent", "ja": "蛍光の" },
+      { "en": "phosphorescence", "ja": "りん光" },
+      { "en": "luminescence", "ja": "発光・ルミネセンス" },
+      { "en": "ultraviolet", "ja": "紫外線" }
+    ],
+    "faq": [
+      { "q": "fluorescence と phosphorescence の違いは？", "a": "fluorescence（蛍光）は「光を当てている間だけ光る」、phosphorescence（りん光）は「光を切った後もしばらく光り続ける」現象です。" },
+      { "q": "身近な例は？", "a": "蛍光灯、蛍光ペン、紫外線下で光る鉱物や生物などが蛍光の例です。" }
+    ],
+    "quiz": [
+      { "q": "fluorescence の意味は？", "A": "反射", "B": "蛍光（光を受けて発光する現象）", "C": "屈折", "D": "吸収だけ", "correct": "B" },
+      { "q": "光を切った後も光り続けるのは？", "A": "fluorescence", "B": "phosphorescence（りん光）", "C": "reflection", "D": "refraction", "correct": "B" }
+    ]
+  },
+  {
+    "english": "fluorine",
+    "pron": "ˈflʊriːn",
+    "kana": "フルオリン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "fluorspar（蛍石）+ -ine",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "化学"],
+    "meaning_main": "フッ素（元素記号 F）",
+    "description": "fluorine（フルオリン）の意味・使い方。反応性が高い淡黄色の気体元素「フッ素（元素記号F）」を表す名詞。歯磨きや化合物に使われます。",
+    "keywords": ["fluorine 意味", "フッ素 英語", "元素 F 英語", "fluorine 使い方"],
+    "meanings": [
+      { "hinshi": "【名詞】フッ素", "note": "原子番号9、元素記号Fのハロゲン元素。反応性が非常に高い淡黄色の気体" }
+    ],
+    "usages": [
+      { "title": "① 元素としてのフッ素", "desc": "化学元素を表す", "example_en": "Fluorine is the most reactive element.", "example_ja": "フッ素は最も反応性の高い元素だ。" },
+      { "title": "② 化合物の利用", "desc": "実用を表す", "example_en": "Fluorine compounds are used in toothpaste.", "example_ja": "フッ素化合物は歯磨き粉に使われる。" }
+    ],
+    "warn": ["フッ化物（イオン・化合物）は fluoride。ハロゲン（halogen）に属する。"],
+    "etym_note": "蛍石 fluorspar（fluor）に、元素を表す -ine が付いた語。",
+    "etym_chain": [
+      { "node": "fluor", "sub": "蛍石", "era": "ラテン語" },
+      { "node": "fluorine", "sub": "フッ素", "era": "19世紀英語" },
+      { "node": "fluorine", "sub": "フッ素", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the element fluorine", "ja": "元素フッ素" },
+      { "en": "fluorine gas", "ja": "フッ素ガス" },
+      { "en": "fluorine compounds", "ja": "フッ素化合物" },
+      { "en": "highly reactive fluorine", "ja": "反応性の高いフッ素" },
+      { "en": "fluorine and chlorine", "ja": "フッ素と塩素" },
+      { "en": "contain fluorine", "ja": "フッ素を含む" }
+    ],
+    "related": [
+      { "en": "fluoride", "ja": "フッ化物" },
+      { "en": "halogen", "ja": "ハロゲン" },
+      { "en": "chlorine", "ja": "塩素" },
+      { "en": "element", "ja": "元素" }
+    ],
+    "faq": [
+      { "q": "fluorine と fluoride の違いは？", "a": "fluorine は「元素としてのフッ素（F）」、fluoride は「フッ化物（フッ素イオンや化合物）」です。歯磨きに使われるのは fluoride です。" },
+      { "q": "どんな性質ですか？", "a": "ハロゲン元素で、すべての元素の中で最も反応性が高い淡黄色の気体です。" }
+    ],
+    "quiz": [
+      { "q": "fluorine の元素記号は？", "A": "F", "B": "Fl", "C": "Fe", "D": "Fr", "correct": "A" },
+      { "q": "歯磨きに使われるフッ素化合物は？", "A": "fluorine", "B": "fluoride（フッ化物）", "C": "chlorine", "D": "iodine", "correct": "B" }
+    ]
+  },
+  {
+    "english": "flypast",
+    "pron": "ˈflaɪpɑːst",
+    "kana": "フライパスト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "fly（飛ぶ）+ past（通り過ぎる）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "英・航空"],
+    "meaning_main": "（式典での）編隊飛行・祝賀飛行",
+    "description": "flypast（フライパスト）の意味・使い方。式典や記念行事で航空機が上空を飛ぶ「編隊飛行・祝賀飛行」を表す名詞。主にイギリス英語で、米では flyover。",
+    "keywords": ["flypast 意味", "編隊飛行 英語", "祝賀飛行 英語", "flypast flyover"],
+    "meanings": [
+      { "hinshi": "【名詞】編隊飛行・祝賀飛行", "note": "式典や記念行事で航空機が上空を飛んで見せること（主に英）" }
+    ],
+    "usages": [
+      { "title": "① 式典の飛行", "desc": "祝賀の飛行を表す", "example_en": "A flypast marked the anniversary.", "example_ja": "編隊飛行が記念日を飾った。" },
+      { "title": "② 軍用機の展示飛行", "desc": "上空通過を表す", "example_en": "Jets performed a flypast over the palace.", "example_ja": "ジェット機が宮殿の上空を祝賀飛行した。" }
+    ],
+    "warn": ["主にイギリス英語。アメリカ英語では flyover / flyby と言う。"],
+    "etym_note": "fly（飛ぶ）と past（通り過ぎて）を組み合わせた複合語。",
+    "etym_chain": [
+      { "node": "fly + past", "sub": "飛んで通り過ぎる", "era": "20世紀英語" },
+      { "node": "flypast", "sub": "編隊飛行", "era": "20世紀英語" },
+      { "node": "flypast", "sub": "編隊飛行・祝賀飛行", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a military flypast", "ja": "軍用機の編隊飛行" },
+      { "en": "perform a flypast", "ja": "祝賀飛行を行う" },
+      { "en": "a flypast over", "ja": "〜の上空の祝賀飛行" },
+      { "en": "watch the flypast", "ja": "編隊飛行を見る" },
+      { "en": "a celebratory flypast", "ja": "祝賀の編隊飛行" },
+      { "en": "the flypast formation", "ja": "編隊飛行の隊形" }
+    ],
+    "related": [
+      { "en": "flyover", "ja": "編隊飛行（米）・陸橋" },
+      { "en": "formation", "ja": "編隊・隊形" },
+      { "en": "aircraft", "ja": "航空機" },
+      { "en": "ceremony", "ja": "式典" }
+    ],
+    "faq": [
+      { "q": "flypast と flyover の違いは？", "a": "意味はほぼ同じ「編隊飛行・祝賀飛行」ですが、flypast は主にイギリス英語、flyover は主にアメリカ英語です（flyover は英で『陸橋』も指します）。" },
+      { "q": "どんな場面で行われますか？", "a": "記念式典・国家行事・航空ショーなどで、軍用機などが上空を編隊飛行します。" }
+    ],
+    "quiz": [
+      { "q": "flypast の意味は？", "A": "着陸", "B": "（式典での）編隊飛行・祝賀飛行", "C": "墜落", "D": "欠航", "correct": "B" },
+      { "q": "flypast の米語での言い方は？", "A": "flyover", "B": "flyaway", "C": "flyball", "D": "flypaper", "correct": "A" }
+    ]
+  },
+  {
+    "english": "focused",
+    "pron": "ˈfoʊkəst",
+    "kana": "フォーカスト",
+    "hinshi": "形容詞 / 動詞",
+    "ld_pos": "形容詞・動詞",
+    "ld_etym": "focus（集中する）の過去分詞",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "頻出"],
+    "meaning_main": "集中した／的を絞った／（レンズの）ピントが合った",
+    "description": "focused（フォーカスト）の意味・使い方。注意や目的が「集中した・的を絞った」を表す形容詞。カメラの「ピントが合った」の意味も解説します。focus の過去分詞形。",
+    "keywords": ["focused 意味", "集中した 英語", "的を絞った 英語", "focused 使い方"],
+    "meanings": [
+      { "hinshi": "【形容詞】集中した・的を絞った", "note": "注意・目的・努力が一点に向けられた" },
+      { "hinshi": "【形容詞】ピントが合った", "note": "レンズ・映像の焦点が合った" }
+    ],
+    "usages": [
+      { "title": "① 集中している", "desc": "注意の集中を表す", "example_en": "She stayed focused on her goal.", "example_ja": "彼女は目標に集中し続けた。" },
+      { "title": "② 的を絞った取り組み", "desc": "焦点化を表す", "example_en": "We need a more focused approach.", "example_ja": "私たちはもっと的を絞った取り組みが必要だ。" }
+    ],
+    "warn": ["原形は focus、名詞も focus（焦点・集中）。英つづり focussed も。unfocused（集中していない）の対。"],
+    "etym_note": "ラテン語 focus（炉・中心）に由来する focus の過去分詞。",
+    "etym_chain": [
+      { "node": "focus", "sub": "炉・中心", "era": "ラテン語" },
+      { "node": "focus", "sub": "焦点・集中する", "era": "近代英語" },
+      { "node": "focused", "sub": "集中した", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "stay focused", "ja": "集中し続ける" },
+      { "en": "focused on", "ja": "〜に集中して" },
+      { "en": "a focused approach", "ja": "的を絞った手法" },
+      { "en": "highly focused", "ja": "非常に集中した" },
+      { "en": "customer-focused", "ja": "顧客重視の" },
+      { "en": "keep focused", "ja": "集中を保つ" }
+    ],
+    "related": [
+      { "en": "focus", "ja": "焦点・集中する" },
+      { "en": "concentrated", "ja": "集中した" },
+      { "en": "attentive", "ja": "注意深い" },
+      { "en": "distracted", "ja": "気が散った" }
+    ],
+    "faq": [
+      { "q": "focused と concentrated の違いは？", "a": "どちらも「集中した」ですが、focused は「（目的・対象に）的を絞った」、concentrated は「（一点に）意識を集めた」に重点があります。" },
+      { "q": "customer-focused とは？", "a": "「顧客重視の・顧客を第一に考えた」という意味です。" }
+    ],
+    "quiz": [
+      { "q": "focused の意味は？", "A": "気が散った", "B": "集中した・的を絞った", "C": "退屈した", "D": "混乱した", "correct": "B" },
+      { "q": "stay focused の意味は？", "A": "集中し続ける", "B": "気を抜く", "C": "立ち去る", "D": "眠る", "correct": "A" }
+    ]
+  },
+  {
+    "english": "foldable",
+    "pron": "ˈfoʊldəbəl",
+    "kana": "フォールダブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "fold（折りたたむ）+ -able",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "頻出"],
+    "meaning_main": "折りたためる／折り畳み式の",
+    "description": "foldable（フォールダブル）の意味・使い方。コンパクトに「折りたためる・折り畳み式の」を表す形容詞。折りたたみスマホや家具などに使われます。",
+    "keywords": ["foldable 意味", "折りたためる 英語", "折り畳み式 英語", "foldable 使い方"],
+    "meanings": [
+      { "hinshi": "【形容詞】折りたためる・折り畳み式の", "note": "折り曲げて小さくたためる構造の" }
+    ],
+    "usages": [
+      { "title": "① 折り畳み式の製品", "desc": "たためることを表す", "example_en": "A foldable chair is easy to store.", "example_ja": "折り畳み椅子は収納が簡単だ。" },
+      { "title": "② 折りたたみスマホ", "desc": "折れる機器を表す", "example_en": "She bought a foldable phone.", "example_ja": "彼女は折りたたみスマホを買った。" }
+    ],
+    "warn": ["動詞は fold（折りたたむ）。collapsible（折り畳める）と近い。"],
+    "etym_note": "古英語 fealdan（折る）に由来する fold に -able が付いた語。",
+    "etym_chain": [
+      { "node": "fealdan", "sub": "折る", "era": "古英語" },
+      { "node": "fold", "sub": "折りたたむ", "era": "中英語" },
+      { "node": "foldable", "sub": "折りたためる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a foldable chair", "ja": "折り畳み椅子" },
+      { "en": "a foldable phone", "ja": "折りたたみスマホ" },
+      { "en": "a foldable bike", "ja": "折り畳み自転車" },
+      { "en": "foldable furniture", "ja": "折り畳み式家具" },
+      { "en": "a foldable screen", "ja": "折り畳み画面" },
+      { "en": "compact and foldable", "ja": "コンパクトで折りたためる" }
+    ],
+    "related": [
+      { "en": "fold", "ja": "折りたたむ" },
+      { "en": "collapsible", "ja": "折り畳める" },
+      { "en": "portable", "ja": "持ち運べる" },
+      { "en": "flexible", "ja": "曲げられる" }
+    ],
+    "faq": [
+      { "q": "foldable と collapsible の違いは？", "a": "どちらも「折り畳める」ですが、foldable は「折り曲げてたたむ」、collapsible は「（脚などをたたんで）小さくつぶす」に重点があります。" },
+      { "q": "動詞形は？", "a": "fold（折りたたむ）です。" }
+    ],
+    "quiz": [
+      { "q": "foldable の意味は？", "A": "固定された", "B": "折りたためる・折り畳み式の", "C": "重い", "D": "透明な", "correct": "B" },
+      { "q": "foldable の動詞形は？", "A": "fold", "B": "flood", "C": "float", "D": "flow", "correct": "A" }
+    ]
+  },
+  {
+    "english": "foolproof",
+    "pron": "ˈfuːlpruːf",
+    "kana": "フールプルーフ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "fool（愚か者）+ proof（〜に耐える）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "頻出"],
+    "meaning_main": "誰にでも使える／失敗しようがない／絶対確実な",
+    "description": "foolproof（フールプルーフ）の意味・使い方。誰が使っても「失敗しようがない・絶対確実な」を表す形容詞。単純で間違えようのない仕組みを描写します。",
+    "keywords": ["foolproof 意味", "失敗しない 英語", "絶対確実 英語", "foolproof 使い方"],
+    "meanings": [
+      { "hinshi": "【形容詞】誰にでも使える・失敗しようがない・絶対確実な", "note": "誰が扱ってもうまくいく、間違えようのない" }
+    ],
+    "usages": [
+      { "title": "① 失敗しない方法", "desc": "確実さを表す", "example_en": "This recipe is foolproof.", "example_ja": "このレシピは絶対失敗しない。" },
+      { "title": "② 間違えようのない仕組み", "desc": "扱いやすさを表す", "example_en": "The system is designed to be foolproof.", "example_ja": "そのシステムは間違えようがないよう設計されている。" }
+    ],
+    "warn": ["fool（愚か者）+ proof（耐える）＝「愚か者でも失敗しない」。工学の「フールプルーフ設計」にも使う。"],
+    "etym_note": "fool（愚か者）と proof（〜に耐える・防ぐ）を組み合わせ、「愚か者にも耐える（失敗させない）」に由来する語。",
+    "etym_chain": [
+      { "node": "fool + proof", "sub": "愚か者にも耐える", "era": "20世紀英語" },
+      { "node": "foolproof", "sub": "失敗しようがない", "era": "20世紀英語" },
+      { "node": "foolproof", "sub": "絶対確実な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a foolproof method", "ja": "絶対確実な方法" },
+      { "en": "a foolproof plan", "ja": "失敗しようのない計画" },
+      { "en": "a foolproof recipe", "ja": "絶対失敗しないレシピ" },
+      { "en": "foolproof design", "ja": "フールプルーフ設計" },
+      { "en": "virtually foolproof", "ja": "ほぼ絶対確実な" },
+      { "en": "a foolproof system", "ja": "間違えようのない仕組み" }
+    ],
+    "related": [
+      { "en": "reliable", "ja": "信頼できる" },
+      { "en": "infallible", "ja": "絶対に誤らない" },
+      { "en": "surefire", "ja": "確実な" },
+      { "en": "error-prone", "ja": "誤りを起こしやすい" }
+    ],
+    "faq": [
+      { "q": "foolproof の対義語は？", "a": "error-prone（誤りを起こしやすい）や unreliable（当てにならない）です。" },
+      { "q": "工学での foolproof とは？", "a": "誰が使っても誤操作で失敗・事故が起きないようにする「フールプルーフ設計」を指します。" }
+    ],
+    "quiz": [
+      { "q": "foolproof の意味は？", "A": "誤りやすい", "B": "失敗しようがない・絶対確実な", "C": "複雑な", "D": "危険な", "correct": "B" },
+      { "q": "foolproof の語源の意味は？", "A": "愚か者にも耐える（失敗させない）", "B": "証拠のない", "C": "防水の", "D": "防弾の", "correct": "A" }
+    ]
+  },
+  {
+    "english": "forbear",
+    "pron": "fɔːrˈber",
+    "kana": "フォーベア",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "古英語 forberan（差し控える）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "文語"],
+    "meaning_main": "（動詞）差し控える・我慢する／（名詞）先祖",
+    "description": "forbear（フォーベア）の意味・使い方。したいことを「差し控える・慎む」を表す動詞と、「先祖」を表す名詞（forebear）を解説します。発音の違いも紹介します。",
+    "keywords": ["forbear 意味", "差し控える 英語", "我慢する 英語", "forbear forebear"],
+    "meanings": [
+      { "hinshi": "【動詞】差し控える・慎む・我慢する", "note": "したいことを抑えてしない、こらえる（文語）" },
+      { "hinshi": "【名詞】先祖（forebear）", "note": "自分より前の世代の祖先" }
+    ],
+    "usages": [
+      { "title": "① 差し控える（動詞）", "desc": "我慢することを表す", "example_en": "She forbore from commenting.", "example_ja": "彼女はコメントを差し控えた。" },
+      { "title": "② 先祖（名詞）", "desc": "祖先を表す", "example_en": "Our forbears settled this land.", "example_ja": "私たちの先祖がこの土地を開拓した。" }
+    ],
+    "warn": ["動詞は /fɔːrˈber/、活用は forbear-forbore-forborne。名詞「先祖」は forebear とも綴る。forbear from doing（〜を差し控える）。"],
+    "etym_note": "古英語 forberan（for-〈差し控える〉+ beran〈耐える〉）に由来する動詞。名詞は fore-（前の）+ be-er（存在する者）から。",
+    "etym_chain": [
+      { "node": "forberan", "sub": "差し控える", "era": "古英語" },
+      { "node": "forbear", "sub": "差し控える", "era": "中英語" },
+      { "node": "forbear", "sub": "差し控える・先祖", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "forbear from doing", "ja": "〜を差し控える" },
+      { "en": "forbear to comment", "ja": "コメントを慎む" },
+      { "en": "could not forbear", "ja": "我慢できなかった" },
+      { "en": "our forbears", "ja": "私たちの先祖" },
+      { "en": "distant forbears", "ja": "遠い祖先" },
+      { "en": "forbear from criticism", "ja": "批判を差し控える" }
+    ],
+    "related": [
+      { "en": "forbearance", "ja": "自制・忍耐" },
+      { "en": "refrain", "ja": "差し控える" },
+      { "en": "abstain", "ja": "慎む" },
+      { "en": "ancestor", "ja": "先祖" }
+    ],
+    "faq": [
+      { "q": "forbear（動詞）と forbear（名詞・先祖）の違いは？", "a": "動詞は「差し控える・我慢する」、名詞は「先祖（forebear とも綴る）」です。発音も少し異なります。" },
+      { "q": "名詞形は？", "a": "動詞の名詞形は forbearance（自制・忍耐）です。" }
+    ],
+    "quiz": [
+      { "q": "forbear（動詞）の意味は？", "A": "強要する", "B": "差し控える・我慢する", "C": "急ぐ", "D": "忘れる", "correct": "B" },
+      { "q": "forbear（名詞・forebear）の意味は？", "A": "子孫", "B": "先祖", "C": "隣人", "D": "友人", "correct": "B" }
+    ]
+  }
+]
