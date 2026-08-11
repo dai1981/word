@@ -1,0 +1,986 @@
+[
+  {
+    "english": "forensic",
+    "pron": "fəˈrenzɪk",
+    "kana": "フォレンジック",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 forensis（法廷の）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "法律・科学"],
+    "meaning_main": "犯罪捜査の／法医学の／法廷の",
+    "description": "forensic（フォレンジック）の意味・使い方。犯罪捜査に科学を用いる「法医学の・鑑識の」を表す形容詞。forensic evidence（科学的証拠）などで頻出です。",
+    "keywords": ["forensic 意味", "法医学 英語", "鑑識 英語", "forensic 使い方"],
+    "meanings": [
+      { "hinshi": "【形容詞】犯罪捜査の・法医学の・法廷の", "note": "犯罪の科学的捜査や、法廷での証拠に関する" }
+    ],
+    "usages": [
+      { "title": "① 科学捜査", "desc": "鑑識を表す", "example_en": "Forensic scientists examined the evidence.", "example_ja": "鑑識の科学者が証拠を調べた。" },
+      { "title": "② 法医学", "desc": "遺体などの分析を表す", "example_en": "A forensic examination revealed the cause of death.", "example_ja": "法医学的な検査が死因を明らかにした。" }
+    ],
+    "warn": ["forensic science（科学捜査・鑑識）、forensic evidence（科学的証拠）。ラテン語 forum（公共の場・法廷）に由来。"],
+    "etym_note": "ラテン語 forensis（法廷の、forum〈広場・法廷〉より）に由来する語。",
+    "etym_chain": [
+      { "node": "forum", "sub": "広場・法廷", "era": "ラテン語" },
+      { "node": "forensis", "sub": "法廷の", "era": "ラテン語" },
+      { "node": "forensic", "sub": "法医学の・鑑識の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "forensic science", "ja": "科学捜査・鑑識" },
+      { "en": "forensic evidence", "ja": "科学的証拠" },
+      { "en": "a forensic examination", "ja": "法医学的検査" },
+      { "en": "forensic analysis", "ja": "鑑識分析" },
+      { "en": "forensic medicine", "ja": "法医学" },
+      { "en": "digital forensics", "ja": "デジタル鑑識" }
+    ],
+    "related": [
+      { "en": "forensics", "ja": "鑑識・法科学" },
+      { "en": "investigation", "ja": "捜査" },
+      { "en": "evidence", "ja": "証拠" },
+      { "en": "detective", "ja": "刑事" }
+    ],
+    "faq": [
+      { "q": "forensic science とは？", "a": "犯罪捜査に科学を応用する分野「科学捜査・鑑識」のことです。指紋・DNA・薬物分析などが含まれます。" },
+      { "q": "語源は？", "a": "ラテン語 forum（公共の広場・法廷）で、「法廷で用いる」という意味に由来します。" }
+    ],
+    "quiz": [
+      { "q": "forensic の意味は？", "A": "外国の", "B": "犯罪捜査の・法医学の", "C": "宗教の", "D": "経済の", "correct": "B" },
+      { "q": "forensic evidence の意味は？", "A": "うわさ", "B": "科学的証拠", "C": "証言のみ", "D": "推測", "correct": "B" }
+    ]
+  },
+  {
+    "english": "foreperson",
+    "pron": "ˈfɔːrpɜːrsən",
+    "kana": "フォーパーソン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "fore-（先頭の）+ person（人）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "法律・職場"],
+    "meaning_main": "（陪審の）陪審長／（作業班の）職長・現場監督",
+    "description": "foreperson（フォーパーソン）の意味・使い方。陪審団を代表する「陪審長」や、作業班をまとめる「職長・現場監督」を表す名詞。foreman の性別中立形です。",
+    "keywords": ["foreperson 意味", "陪審長 英語", "職長 英語", "foreman 中立形"],
+    "meanings": [
+      { "hinshi": "【名詞】陪審長／職長・現場監督", "note": "陪審団の代表、または作業班をまとめる責任者（性別中立の語）" }
+    ],
+    "usages": [
+      { "title": "① 陪審長", "desc": "陪審の代表を表す", "example_en": "The foreperson read out the verdict.", "example_ja": "陪審長が評決を読み上げた。" },
+      { "title": "② 職長・現場監督", "desc": "作業班の責任者を表す", "example_en": "The foreperson supervised the workers.", "example_ja": "職長が作業員を監督した。" }
+    ],
+    "warn": ["foreman（男性形）の性別中立形。女性形 forewoman もある。"],
+    "etym_note": "fore-（先頭の・長）+ person（人）を組み合わせ、foreman の中立形として作られた語。",
+    "etym_chain": [
+      { "node": "fore- + man", "sub": "先頭の人", "era": "中英語" },
+      { "node": "foreman", "sub": "職長", "era": "近代英語" },
+      { "node": "foreperson", "sub": "職長・陪審長（中立形）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the jury foreperson", "ja": "陪審長" },
+      { "en": "act as foreperson", "ja": "陪審長・職長を務める" },
+      { "en": "the foreperson announced", "ja": "陪審長が発表した" },
+      { "en": "a construction foreperson", "ja": "建設現場の職長" },
+      { "en": "elect a foreperson", "ja": "陪審長を選ぶ" },
+      { "en": "the site foreperson", "ja": "現場監督" }
+    ],
+    "related": [
+      { "en": "foreman", "ja": "職長（男性形）" },
+      { "en": "forewoman", "ja": "職長（女性形）" },
+      { "en": "supervisor", "ja": "監督者" },
+      { "en": "jury", "ja": "陪審" }
+    ],
+    "faq": [
+      { "q": "foreperson と foreman の違いは？", "a": "意味は同じですが、foreperson は性別を問わない中立的な語です。foreman（男性）/ forewoman（女性）の代わりに使われます。" },
+      { "q": "陪審長の役割は？", "a": "陪審団の議論をまとめ、評決を裁判所に伝える代表者です。" }
+    ],
+    "quiz": [
+      { "q": "foreperson の意味は？", "A": "被告", "B": "陪審長・職長", "C": "弁護士", "D": "証人", "correct": "B" },
+      { "q": "foreperson は何の中立形？", "A": "foreman", "B": "foreign", "C": "forecast", "D": "forehead", "correct": "A" }
+    ]
+  },
+  {
+    "english": "foresighted",
+    "pron": "ˈfɔːrsaɪtɪd",
+    "kana": "フォーサイティッド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "foresight（先見）+ -ed",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "頻出"],
+    "meaning_main": "先見の明のある／将来を見通した",
+    "description": "foresighted（フォーサイティッド）の意味・使い方。将来を見通して備える「先見の明のある」を表す形容詞。foresight（先見）の派生語です。",
+    "keywords": ["foresighted 意味", "先見の明 英語", "将来を見通す 英語", "foresight 形容詞"],
+    "meanings": [
+      { "hinshi": "【形容詞】先見の明のある・将来を見通した", "note": "将来を予測して賢く備える" }
+    ],
+    "usages": [
+      { "title": "① 先を見越した判断", "desc": "先見の明を表す", "example_en": "It was a foresighted decision.", "example_ja": "それは先見の明のある決断だった。" },
+      { "title": "② 将来に備える人", "desc": "見通す力を表す", "example_en": "A foresighted leader plans for the future.", "example_ja": "先見の明のある指導者は未来に備える。" }
+    ],
+    "warn": ["名詞は foresight（先見・先見の明）。foresighted / farsighted と近い。shortsighted（近視眼的な）の対。"],
+    "etym_note": "fore-（前もって）+ sight（見ること）から成る foresight に -ed が付いた語。",
+    "etym_chain": [
+      { "node": "fore- + sight", "sub": "前もって見る", "era": "中英語" },
+      { "node": "foresight", "sub": "先見", "era": "中英語" },
+      { "node": "foresighted", "sub": "先見の明のある", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a foresighted decision", "ja": "先見の明のある決断" },
+      { "en": "a foresighted policy", "ja": "先を見越した政策" },
+      { "en": "a foresighted leader", "ja": "先見の明のある指導者" },
+      { "en": "foresighted planning", "ja": "先を見通した計画" },
+      { "en": "wise and foresighted", "ja": "賢明で先見の明のある" },
+      { "en": "a foresighted investor", "ja": "先見の明のある投資家" }
+    ],
+    "related": [
+      { "en": "foresight", "ja": "先見・先見の明" },
+      { "en": "farsighted", "ja": "先見の明のある" },
+      { "en": "prudent", "ja": "慎重で賢明な" },
+      { "en": "shortsighted", "ja": "近視眼的な" }
+    ],
+    "faq": [
+      { "q": "foresighted の対義語は？", "a": "shortsighted（近視眼的な・目先しか見ない）です。" },
+      { "q": "farsighted との違いは？", "a": "ほぼ同義で「先見の明のある」を表します。farsighted は医学で「遠視の」の意味もあります。" }
+    ],
+    "quiz": [
+      { "q": "foresighted の意味は？", "A": "近視眼的な", "B": "先見の明のある・将来を見通した", "C": "無計画な", "D": "怠惰な", "correct": "B" },
+      { "q": "foresighted の名詞形は？", "A": "foresight", "B": "forecast", "C": "foreground", "D": "foreword", "correct": "A" }
+    ]
+  },
+  {
+    "english": "formalization",
+    "pron": "ˌfɔːrmələˈzeɪʃən",
+    "kana": "フォーマライゼーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "formalize（正式化する）+ -ation",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "学術・ビジネス"],
+    "meaning_main": "正式化／公式化／形式化",
+    "description": "formalization（フォーマライゼーション）の意味・使い方。取り決めや手続きを「正式なものにすること・形式化」を表す名詞。動詞 formalize との関係も解説します。",
+    "keywords": ["formalization 意味", "正式化 英語", "形式化 英語", "formalize 名詞"],
+    "meanings": [
+      { "hinshi": "【名詞】正式化・公式化・形式化", "note": "非公式なものを正式・公式な形にすること、規則や形式に沿わせること" }
+    ],
+    "usages": [
+      { "title": "① 取り決めの正式化", "desc": "公式にすることを表す", "example_en": "The formalization of the agreement took months.", "example_ja": "その合意の正式化には数か月かかった。" },
+      { "title": "② 手続きの形式化", "desc": "規則化を表す", "example_en": "The formalization of the process improved consistency.", "example_ja": "手続きの形式化は一貫性を高めた。" }
+    ],
+    "warn": ["動詞は formalize（正式化する）、英つづり formalisation。"],
+    "etym_note": "ラテン語 forma（形）に由来する formal から派生した formalize に -ation が付いた語。",
+    "etym_chain": [
+      { "node": "forma", "sub": "形", "era": "ラテン語" },
+      { "node": "formalize", "sub": "正式化する", "era": "近代英語" },
+      { "node": "formalization", "sub": "正式化", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the formalization of rules", "ja": "規則の正式化" },
+      { "en": "formalization of an agreement", "ja": "合意の正式化" },
+      { "en": "process formalization", "ja": "手続きの形式化" },
+      { "en": "require formalization", "ja": "正式化を必要とする" },
+      { "en": "the formalization of ties", "ja": "関係の正式化" },
+      { "en": "formalization of a theory", "ja": "理論の形式化" }
+    ],
+    "related": [
+      { "en": "formalize", "ja": "正式化する" },
+      { "en": "formal", "ja": "正式の・形式的な" },
+      { "en": "standardization", "ja": "標準化" },
+      { "en": "codification", "ja": "成文化" }
+    ],
+    "faq": [
+      { "q": "formalization と standardization の違いは？", "a": "formalization は「正式・公式な形にすること」、standardization は「共通の基準にそろえること（標準化）」に重点があります。" },
+      { "q": "動詞形は？", "a": "formalize（正式化する・公式にする）です。" }
+    ],
+    "quiz": [
+      { "q": "formalization の意味は？", "A": "非公式化", "B": "正式化・形式化", "C": "簡略化", "D": "破棄", "correct": "B" },
+      { "q": "formalization の動詞形は？", "A": "formalize", "B": "formulate", "C": "format", "D": "form", "correct": "A" }
+    ]
+  },
+  {
+    "english": "formally",
+    "pron": "ˈfɔːrməli",
+    "kana": "フォーマリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "formal（正式の）+ -ly",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出"],
+    "meaning_main": "正式に／公式に／形式ばって",
+    "description": "formally（フォーマリー）の意味・使い方。「正式に・公式に・形式ばって」を表す副詞。formal の副詞形で、formerly（以前は）との混同に注意します。",
+    "keywords": ["formally 意味", "正式に 英語", "公式に 英語", "formally formerly"],
+    "meanings": [
+      { "hinshi": "【副詞】正式に・公式に・形式ばって", "note": "正式な手続き・形式にのっとって、あるいは堅苦しく" }
+    ],
+    "usages": [
+      { "title": "① 正式に発表する", "desc": "公式であることを表す", "example_en": "The merger was formally announced.", "example_ja": "その合併は正式に発表された。" },
+      { "title": "② 形式ばって", "desc": "堅苦しさを表す", "example_en": "He bowed formally.", "example_ja": "彼は形式ばってお辞儀した。" }
+    ],
+    "warn": ["formerly（以前は）と混同注意。formally は「正式に」、formerly は「かつて」。形容詞 formal。"],
+    "etym_note": "ラテン語 forma（形）に由来する formal に -ly が付いた語。",
+    "etym_chain": [
+      { "node": "forma", "sub": "形", "era": "ラテン語" },
+      { "node": "formal", "sub": "正式の", "era": "中英語" },
+      { "node": "formally", "sub": "正式に", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "formally announce", "ja": "正式に発表する" },
+      { "en": "formally approve", "ja": "正式に承認する" },
+      { "en": "formally dressed", "ja": "正装した" },
+      { "en": "formally recognized", "ja": "正式に認められた" },
+      { "en": "formally invite", "ja": "正式に招待する" },
+      { "en": "formally request", "ja": "正式に要請する" }
+    ],
+    "related": [
+      { "en": "formal", "ja": "正式の・形式的な" },
+      { "en": "officially", "ja": "公式に" },
+      { "en": "formerly", "ja": "以前は（混同注意）" },
+      { "en": "informally", "ja": "非公式に" }
+    ],
+    "faq": [
+      { "q": "formally と formerly の違いは？", "a": "formally は「正式に・公式に」、formerly は「以前は・かつて」です。つづりが似ていますが意味は全く異なります。" },
+      { "q": "対義語は？", "a": "informally（非公式に・くだけて）です。" }
+    ],
+    "quiz": [
+      { "q": "formally の意味は？", "A": "以前は", "B": "正式に・公式に", "C": "偶然に", "D": "急いで", "correct": "B" },
+      { "q": "formally と混同しやすい語は？", "A": "formerly（以前は）", "B": "finally", "C": "frankly", "D": "fully", "correct": "A" }
+    ]
+  },
+  {
+    "english": "formless",
+    "pron": "ˈfɔːrmləs",
+    "kana": "フォームレス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "form（形）+ -less（〜のない）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "描写"],
+    "meaning_main": "形のない／一定の形をなさない／とりとめのない",
+    "description": "formless（フォームレス）の意味・使い方。はっきりした「形のない・一定の形をなさない」を表す形容詞。比喩で「とりとめのない・まとまりのない」の意味も解説します。",
+    "keywords": ["formless 意味", "形のない 英語", "とりとめのない 英語", "formless 使い方"],
+    "meanings": [
+      { "hinshi": "【形容詞】形のない・一定の形をなさない", "note": "決まった形・輪郭を持たない" },
+      { "hinshi": "【形容詞】とりとめのない・まとまりのない（比喩）", "note": "構造・秩序がはっきりしない" }
+    ],
+    "usages": [
+      { "title": "① 形のないもの", "desc": "輪郭のなさを表す", "example_en": "A formless mist covered the valley.", "example_ja": "形のない霧が谷を覆った。" },
+      { "title": "② とりとめのない（比喩）", "desc": "まとまりのなさを表す", "example_en": "His argument was vague and formless.", "example_ja": "彼の論は曖昧でとりとめがなかった。" }
+    ],
+    "warn": ["form（形）+ -less。shapeless（形の崩れた）と近い。structured（構造化された）の対。"],
+    "etym_note": "form（形）に「〜のない」を表す接尾辞 -less が付いた語。",
+    "etym_chain": [
+      { "node": "form", "sub": "形", "era": "中英語" },
+      { "node": "form + -less", "sub": "形のない", "era": "中英語" },
+      { "node": "formless", "sub": "形のない・とりとめのない", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a formless mass", "ja": "形のない塊" },
+      { "en": "a formless shape", "ja": "定まらない形" },
+      { "en": "formless and vague", "ja": "とりとめなく曖昧な" },
+      { "en": "a formless fear", "ja": "漠然とした恐れ" },
+      { "en": "formless clouds", "ja": "形の定まらない雲" },
+      { "en": "a formless mass of", "ja": "〜の形のない塊" }
+    ],
+    "related": [
+      { "en": "shapeless", "ja": "形の崩れた" },
+      { "en": "amorphous", "ja": "無定形の" },
+      { "en": "vague", "ja": "曖昧な" },
+      { "en": "structured", "ja": "構造化された" }
+    ],
+    "faq": [
+      { "q": "formless と shapeless の違いは？", "a": "どちらも「形のない」ですが、shapeless は「（本来の）形が崩れた」、formless は「そもそも一定の形をなさない・とりとめのない」に重点があります。" },
+      { "q": "対義語は？", "a": "structured（構造化された）や well-defined（明確な）です。" }
+    ],
+    "quiz": [
+      { "q": "formless の意味は？", "A": "整った", "B": "形のない・とりとめのない", "C": "堅い", "D": "明確な", "correct": "B" },
+      { "q": "formless と近い語は？", "A": "shapeless", "B": "flawless", "C": "fearless", "D": "faultless", "correct": "A" }
+    ]
+  },
+  {
+    "english": "forties",
+    "pron": "ˈfɔːrtiz",
+    "kana": "フォーティーズ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "forty（40）の複数形",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "頻出"],
+    "meaning_main": "40代（年齢）／40年代／40番台（気温など）",
+    "description": "forties（フォーティーズ）の意味・使い方。「40代（年齢）」「40年代（10年間）」「40番台（気温など）」を表す名詞。the forties / one's forties の形で使います。",
+    "keywords": ["forties 意味", "40代 英語", "40年代 英語", "forties 使い方"],
+    "meanings": [
+      { "hinshi": "【名詞】40代・40年代・40番台", "note": "年齢の40〜49歳、ある世紀の40〜49年、または40番台の数値（通例複数形）" }
+    ],
+    "usages": [
+      { "title": "① 40代（年齢）", "desc": "年齢層を表す", "example_en": "She is in her early forties.", "example_ja": "彼女は40代前半だ。" },
+      { "title": "② 40年代", "desc": "年代を表す", "example_en": "The style was popular in the forties.", "example_ja": "そのスタイルは40年代に流行した。" }
+    ],
+    "warn": ["in one's forties（40代で）、in the forties（40年代に）。気温では in the forties（華氏40番台）。"],
+    "etym_note": "forty（40）の複数形で、年齢・年代・数値の範囲を表す。",
+    "etym_chain": [
+      { "node": "feowertig", "sub": "40", "era": "古英語" },
+      { "node": "forty", "sub": "40", "era": "中英語" },
+      { "node": "forties", "sub": "40代・40年代", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "in one's forties", "ja": "40代で" },
+      { "en": "in her early forties", "ja": "40代前半で" },
+      { "en": "in his late forties", "ja": "40代後半で" },
+      { "en": "the nineteen-forties", "ja": "1940年代" },
+      { "en": "temperatures in the forties", "ja": "40番台の気温" },
+      { "en": "back in the forties", "ja": "40年代に" }
+    ],
+    "related": [
+      { "en": "forty", "ja": "40" },
+      { "en": "thirties", "ja": "30代・30年代" },
+      { "en": "fifties", "ja": "50代・50年代" },
+      { "en": "decade", "ja": "10年間" }
+    ],
+    "faq": [
+      { "q": "in one's forties とは？", "a": "「40代で（40〜49歳）」という意味です。early forties（40代前半）、late forties（40代後半）と細かく言えます。" },
+      { "q": "in the forties とは？", "a": "文脈により「1940年代に」または「（気温が）40番台で」を表します。" }
+    ],
+    "quiz": [
+      { "q": "in one's forties の意味は？", "A": "40代で", "B": "40分間", "C": "40番目に", "D": "40ドルで", "correct": "A" },
+      { "q": "the nineteen-forties の意味は？", "A": "1940年代", "B": "1904年", "C": "40歳", "D": "午後4時", "correct": "A" }
+    ]
+  },
+  {
+    "english": "fortnightly",
+    "pron": "ˈfɔːrtnaɪtli",
+    "kana": "フォートナイトリー",
+    "hinshi": "形容詞 / 副詞",
+    "ld_pos": "形容詞・副詞",
+    "ld_etym": "fortnight（2週間）+ -ly",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "英・頻度"],
+    "meaning_main": "2週間ごとの／隔週の（で）",
+    "description": "fortnightly（フォートナイトリー）の意味・使い方。「2週間ごとの・隔週の」を表す形容詞・副詞。主にイギリス英語で、fortnight（2週間）の派生語です。",
+    "keywords": ["fortnightly 意味", "隔週 英語", "2週間ごと 英語", "fortnight 派生"],
+    "meanings": [
+      { "hinshi": "【形容詞/副詞】2週間ごとの・隔週の（で）", "note": "14日（2週間）に一度の頻度で（主に英）" }
+    ],
+    "usages": [
+      { "title": "① 隔週の刊行物", "desc": "2週間ごとを表す", "example_en": "The magazine is published fortnightly.", "example_ja": "その雑誌は隔週で発行される。" },
+      { "title": "② 隔週の予定", "desc": "頻度を表す", "example_en": "We have a fortnightly meeting.", "example_ja": "私たちは隔週で会議がある。" }
+    ],
+    "warn": ["主にイギリス英語。米では every two weeks / biweekly を使う。fortnight（2週間）から。"],
+    "etym_note": "fortnight（fourteen nights〈14夜＝2週間〉）に -ly が付いた語。",
+    "etym_chain": [
+      { "node": "feowertyne niht", "sub": "14夜", "era": "古英語" },
+      { "node": "fortnight", "sub": "2週間", "era": "中英語" },
+      { "node": "fortnightly", "sub": "隔週の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a fortnightly meeting", "ja": "隔週の会議" },
+      { "en": "published fortnightly", "ja": "隔週で発行される" },
+      { "en": "a fortnightly magazine", "ja": "隔週刊誌" },
+      { "en": "paid fortnightly", "ja": "隔週で支払われる" },
+      { "en": "fortnightly payments", "ja": "隔週の支払い" },
+      { "en": "meet fortnightly", "ja": "隔週で会う" }
+    ],
+    "related": [
+      { "en": "fortnight", "ja": "2週間" },
+      { "en": "biweekly", "ja": "隔週の（米）" },
+      { "en": "weekly", "ja": "毎週の" },
+      { "en": "monthly", "ja": "毎月の" }
+    ],
+    "faq": [
+      { "q": "fortnightly と biweekly の違いは？", "a": "どちらも「2週間ごと」ですが、fortnightly は主にイギリス英語です。biweekly は「隔週」と「週2回」の両方の意味に取れる曖昧さがあります。" },
+      { "q": "fortnight とは？", "a": "「2週間（14日）」を表す語です。fourteen nights（14夜）に由来します。" }
+    ],
+    "quiz": [
+      { "q": "fortnightly の意味は？", "A": "毎日の", "B": "2週間ごとの・隔週の", "C": "毎月の", "D": "毎年の", "correct": "B" },
+      { "q": "fortnight の意味は？", "A": "2週間", "B": "2日", "C": "40日", "D": "2か月", "correct": "A" }
+    ]
+  },
+  {
+    "english": "fragments",
+    "pron": "ˈfræɡmənts",
+    "kana": "フラグメンツ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "fragment（断片）の複数形",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出"],
+    "meaning_main": "断片／かけら／破片",
+    "description": "fragments（フラグメンツ）の意味・使い方。割れたり欠けたりした「断片・かけら・破片」を表す fragment の複数形。記憶や会話の断片にも使われます。",
+    "keywords": ["fragments 意味", "断片 英語", "かけら 英語", "fragment 複数形"],
+    "meanings": [
+      { "hinshi": "【名詞】断片・かけら・破片", "note": "全体から欠け落ちた小さな部分" }
+    ],
+    "usages": [
+      { "title": "① 物の破片", "desc": "壊れたかけらを表す", "example_en": "Fragments of glass covered the floor.", "example_ja": "ガラスの破片が床を覆っていた。" },
+      { "title": "② 記憶・会話の断片", "desc": "一部分を表す", "example_en": "I only remember fragments of the dream.", "example_ja": "私はその夢の断片しか覚えていない。" }
+    ],
+    "warn": ["単数は fragment。動詞 fragment（ばらばらにする）、名詞 fragmentation（分断）。"],
+    "etym_note": "ラテン語 fragmentum（砕けたもの、frangere〈砕く〉より）に由来する fragment の複数形。",
+    "etym_chain": [
+      { "node": "fragmentum", "sub": "砕けたもの", "era": "ラテン語" },
+      { "node": "fragment", "sub": "断片", "era": "中英語" },
+      { "node": "fragments", "sub": "断片・破片", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "fragments of glass", "ja": "ガラスの破片" },
+      { "en": "fragments of memory", "ja": "記憶の断片" },
+      { "en": "broken into fragments", "ja": "ばらばらに砕けて" },
+      { "en": "bone fragments", "ja": "骨の破片" },
+      { "en": "fragments of conversation", "ja": "会話の断片" },
+      { "en": "tiny fragments", "ja": "小さなかけら" }
+    ],
+    "related": [
+      { "en": "fragment", "ja": "断片" },
+      { "en": "piece", "ja": "かけら・一片" },
+      { "en": "shard", "ja": "（陶器・ガラスの）破片" },
+      { "en": "fragmentation", "ja": "分断・断片化" }
+    ],
+    "faq": [
+      { "q": "fragments と pieces の違いは？", "a": "pieces は「かけら・一片」全般、fragments は「（壊れて）欠け落ちた小さな断片」に重点があります。" },
+      { "q": "比喩的な意味は？", "a": "記憶・会話・情報などの「断片（一部分）」を表せます（fragments of memory）。" }
+    ],
+    "quiz": [
+      { "q": "fragments の意味は？", "A": "全体", "B": "断片・かけら・破片", "C": "香り", "D": "重さ", "correct": "B" },
+      { "q": "fragments の単数形は？", "A": "fragment", "B": "fragrance", "C": "frame", "D": "franchise", "correct": "A" }
+    ]
+  },
+  {
+    "english": "frailty",
+    "pron": "ˈfreɪlti",
+    "kana": "フレイルティ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "frail（もろい）+ -ty",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "抽象名詞"],
+    "meaning_main": "もろさ／虚弱／（性格・意志の）弱さ",
+    "description": "frailty（フレイルティ）の意味・使い方。体の「虚弱・もろさ」や、人間の「弱さ（過ち）」を表す名詞。frail の名詞形です。高齢者医療の「フレイル」でも使われます。",
+    "keywords": ["frailty 意味", "虚弱 英語", "もろさ 英語", "frail 名詞"],
+    "meanings": [
+      { "hinshi": "【名詞】もろさ・虚弱", "note": "体が弱く壊れやすいこと（特に高齢による衰え）" },
+      { "hinshi": "【名詞】（性格・意志の）弱さ・過ち", "note": "人間の弱さ・欠点" }
+    ],
+    "usages": [
+      { "title": "① 体の虚弱", "desc": "衰えを表す", "example_en": "Old age brought increasing frailty.", "example_ja": "老齢が進む虚弱をもたらした。" },
+      { "title": "② 人間の弱さ", "desc": "過ちやすさを表す", "example_en": "The novel explores human frailty.", "example_ja": "その小説は人間の弱さを描く。" }
+    ],
+    "warn": ["形容詞は frail（もろい・虚弱な）。医療の「フレイル（加齢による虚弱）」もこの語。"],
+    "etym_note": "ラテン語 fragilis（もろい）に由来する frail に -ty が付いた語。",
+    "etym_chain": [
+      { "node": "fragilis", "sub": "もろい", "era": "ラテン語" },
+      { "node": "frail", "sub": "もろい・虚弱な", "era": "中英語" },
+      { "node": "frailty", "sub": "もろさ・虚弱", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "physical frailty", "ja": "身体の虚弱" },
+      { "en": "human frailty", "ja": "人間の弱さ" },
+      { "en": "the frailty of old age", "ja": "老齢の虚弱" },
+      { "en": "moral frailty", "ja": "道徳的な弱さ" },
+      { "en": "increasing frailty", "ja": "進む虚弱" },
+      { "en": "signs of frailty", "ja": "虚弱の兆候" }
+    ],
+    "related": [
+      { "en": "frail", "ja": "もろい・虚弱な" },
+      { "en": "weakness", "ja": "弱さ" },
+      { "en": "fragility", "ja": "もろさ" },
+      { "en": "strength", "ja": "強さ" }
+    ],
+    "faq": [
+      { "q": "frailty と fragility の違いは？", "a": "どちらも「もろさ」ですが、frailty は特に「（人の）虚弱・弱さ」、fragility は「（物・関係の）壊れやすさ」に使われる傾向があります。" },
+      { "q": "医療の『フレイル』とは？", "a": "加齢により心身が弱り、要介護一歩手前の状態を指す語で、この frailty から来ています。" }
+    ],
+    "quiz": [
+      { "q": "frailty の意味は？", "A": "強さ", "B": "もろさ・虚弱・弱さ", "C": "自由", "D": "喜び", "correct": "B" },
+      { "q": "frailty の形容詞形は？", "A": "frail", "B": "frank", "C": "fresh", "D": "free", "correct": "A" }
+    ]
+  },
+  {
+    "english": "frantically",
+    "pron": "ˈfræntɪkli",
+    "kana": "フランティカリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "frantic（半狂乱の）+ -ally",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出"],
+    "meaning_main": "半狂乱で／必死になって／慌てふためいて",
+    "description": "frantically（フランティカリー）の意味・使い方。強い不安や焦りから「半狂乱で・必死になって・慌てふためいて」行動する様子を表す副詞です。",
+    "keywords": ["frantically 意味", "必死に 英語", "慌てて 英語", "frantic 副詞"],
+    "meanings": [
+      { "hinshi": "【副詞】半狂乱で・必死になって・慌てふためいて", "note": "強い不安・焦り・興奮のあまり取り乱して" }
+    ],
+    "usages": [
+      { "title": "① 必死に探す", "desc": "取り乱した様子を表す", "example_en": "She searched frantically for her keys.", "example_ja": "彼女は必死に鍵を探した。" },
+      { "title": "② 慌てて連絡する", "desc": "焦りを表す", "example_en": "He frantically called for help.", "example_ja": "彼は慌てて助けを呼んだ。" }
+    ],
+    "warn": ["形容詞は frantic（半狂乱の・大慌ての）。calmly（落ち着いて）の対。"],
+    "etym_note": "ギリシャ語 phrenitis（脳炎・狂乱）に由来する frantic に -ally が付いた語。",
+    "etym_chain": [
+      { "node": "phrenitis", "sub": "狂乱", "era": "ギリシャ語" },
+      { "node": "frantic", "sub": "半狂乱の", "era": "中英語" },
+      { "node": "frantically", "sub": "半狂乱で", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "search frantically", "ja": "必死に探す" },
+      { "en": "wave frantically", "ja": "必死に手を振る" },
+      { "en": "work frantically", "ja": "がむしゃらに働く" },
+      { "en": "frantically try", "ja": "必死に試みる" },
+      { "en": "run frantically", "ja": "慌てて走る" },
+      { "en": "frantically busy", "ja": "てんてこまいで忙しい" }
+    ],
+    "related": [
+      { "en": "frantic", "ja": "半狂乱の" },
+      { "en": "desperately", "ja": "必死に" },
+      { "en": "hysterically", "ja": "半狂乱で" },
+      { "en": "calmly", "ja": "落ち着いて" }
+    ],
+    "faq": [
+      { "q": "frantically と desperately の違いは？", "a": "desperately は「（望みをかけて）必死に」、frantically は「（取り乱して）慌てふためいて」に重点があります。" },
+      { "q": "対義語は？", "a": "calmly（落ち着いて）です。" }
+    ],
+    "quiz": [
+      { "q": "frantically の意味は？", "A": "落ち着いて", "B": "半狂乱で・必死になって", "C": "ゆっくり", "D": "楽しそうに", "correct": "B" },
+      { "q": "frantically の形容詞形は？", "A": "frantic", "B": "frank", "C": "frozen", "D": "fragile", "correct": "A" }
+    ]
+  },
+  {
+    "english": "fraternity",
+    "pron": "frəˈtɜːrnəti",
+    "kana": "フラターニティ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 frater（兄弟）+ -ity",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "社会・大学"],
+    "meaning_main": "友愛／同業者仲間／（米大学の）男子学生社交クラブ",
+    "description": "fraternity（フラターニティ）の意味・使い方。「友愛・兄弟愛」や「同業者の仲間」を表す名詞。アメリカの大学の男子学生社交クラブ「フラタニティ」も解説します。",
+    "keywords": ["fraternity 意味", "友愛 英語", "同業者仲間 英語", "fraternity 大学"],
+    "meanings": [
+      { "hinshi": "【名詞】友愛・兄弟愛", "note": "兄弟のような結びつき・連帯感" },
+      { "hinshi": "【名詞】同業者仲間／男子学生社交クラブ", "note": "同じ職業・立場の仲間。米大学ではギリシャ文字を冠した男子クラブ" }
+    ],
+    "usages": [
+      { "title": "① 友愛・連帯", "desc": "兄弟愛を表す", "example_en": "The motto was liberty, equality, fraternity.", "example_ja": "その標語は自由・平等・友愛だった。" },
+      { "title": "② 男子学生クラブ", "desc": "米大学の社交組織を表す", "example_en": "He joined a fraternity in college.", "example_ja": "彼は大学で男子社交クラブに入った。" }
+    ],
+    "warn": ["女子学生クラブは sorority。「同業者仲間」の意味も（the medical fraternity＝医療関係者）。"],
+    "etym_note": "ラテン語 frater（兄弟）に -ity が付いた語。",
+    "etym_chain": [
+      { "node": "frater", "sub": "兄弟", "era": "ラテン語" },
+      { "node": "fraternity", "sub": "友愛", "era": "中英語" },
+      { "node": "fraternity", "sub": "友愛・社交クラブ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "liberty, equality, fraternity", "ja": "自由・平等・友愛" },
+      { "en": "join a fraternity", "ja": "社交クラブに入る" },
+      { "en": "the medical fraternity", "ja": "医療関係者仲間" },
+      { "en": "a sense of fraternity", "ja": "連帯感" },
+      { "en": "a college fraternity", "ja": "大学の男子社交クラブ" },
+      { "en": "the fraternity of scholars", "ja": "学者仲間" }
+    ],
+    "related": [
+      { "en": "sorority", "ja": "女子学生社交クラブ" },
+      { "en": "brotherhood", "ja": "兄弟愛・同胞団" },
+      { "en": "solidarity", "ja": "連帯" },
+      { "en": "association", "ja": "協会・仲間" }
+    ],
+    "faq": [
+      { "q": "fraternity と sorority の違いは？", "a": "fraternity は「男子学生の社交クラブ」、sorority は「女子学生の社交クラブ」です（米大学）。" },
+      { "q": "『同業者仲間』の意味は？", "a": "the medical fraternity（医療関係者）のように、同じ職業・立場の人々の集まりを指します。" }
+    ],
+    "quiz": [
+      { "q": "fraternity の意味は？", "A": "敵対", "B": "友愛・同業者仲間・男子社交クラブ", "C": "孤立", "D": "競争", "correct": "B" },
+      { "q": "女子学生の社交クラブは？", "A": "sorority", "B": "fraternity", "C": "maternity", "D": "authority", "correct": "A" }
+    ]
+  },
+  {
+    "english": "freeload",
+    "pron": "ˈfriːloʊd",
+    "kana": "フリーロード",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "free（ただの）+ load（積み込む）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "口語"],
+    "meaning_main": "ただ乗りする／人にたかる／おごってもらってばかりいる",
+    "description": "freeload（フリーロード）の意味・使い方。自分では出さず人に「たかる・ただ乗りする」を表す口語的な動詞。freeloader（たかり屋）も解説します。",
+    "keywords": ["freeload 意味", "たかる 英語", "ただ乗り 英語", "freeloader"],
+    "meanings": [
+      { "hinshi": "【動詞】ただ乗りする・人にたかる", "note": "自分では負担せず、他人の好意・費用に頼って生活する（軽蔑的）" }
+    ],
+    "usages": [
+      { "title": "① 人にたかる", "desc": "負担せず頼ることを表す", "example_en": "He freeloads off his friends.", "example_ja": "彼は友人にたかってばかりいる。" },
+      { "title": "② ただで済ませる", "desc": "ただ乗りを表す", "example_en": "Stop freeloading and pay your share.", "example_ja": "たかるのをやめて自分の分を払いなさい。" }
+    ],
+    "warn": ["軽蔑的な口語。freeload off/on 〜（〜にたかる）。名詞は freeloader（たかり屋）。"],
+    "etym_note": "free（ただの）と load（積み荷）を組み合わせ、「ただで（人の負担に）乗る」に由来する語。",
+    "etym_chain": [
+      { "node": "free + load", "sub": "ただで積む", "era": "20世紀英語" },
+      { "node": "freeload", "sub": "ただ乗りする", "era": "20世紀英語" },
+      { "node": "freeload", "sub": "たかる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "freeload off", "ja": "〜にたかる" },
+      { "en": "freeload on", "ja": "〜にただ乗りする" },
+      { "en": "stop freeloading", "ja": "たかるのをやめる" },
+      { "en": "a freeloading guest", "ja": "たかってばかりの客" },
+      { "en": "freeload for years", "ja": "何年もたかり続ける" },
+      { "en": "refuse to freeload", "ja": "たかるのを拒む" }
+    ],
+    "related": [
+      { "en": "freeloader", "ja": "たかり屋" },
+      { "en": "sponge", "ja": "たかる・居候する" },
+      { "en": "mooch", "ja": "たかる" },
+      { "en": "parasite", "ja": "寄生する者" }
+    ],
+    "faq": [
+      { "q": "freeload の名詞形は？", "a": "freeloader（たかり屋・居候）です。" },
+      { "q": "後の前置詞は？", "a": "freeload off 〜 / freeload on 〜（〜にたかる・ただ乗りする）です。" }
+    ],
+    "quiz": [
+      { "q": "freeload の意味は？", "A": "気前よくおごる", "B": "ただ乗りする・人にたかる", "C": "働きすぎる", "D": "節約する", "correct": "B" },
+      { "q": "freeload の名詞形は？", "A": "freeloader", "B": "freedom", "C": "freeway", "D": "freezer", "correct": "A" }
+    ]
+  },
+  {
+    "english": "freemason",
+    "pron": "ˈfriːmeɪsən",
+    "kana": "フリーメイソン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "free（自由な）+ mason（石工）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "歴史・組織"],
+    "meaning_main": "フリーメイソン（国際的な友愛結社の会員）",
+    "description": "freemason（フリーメイソン）の意味・使い方。中世の石工組合を起源とする国際的な友愛結社「フリーメイソン」の会員を表す名詞。組織は Freemasonry と呼びます。",
+    "keywords": ["freemason 意味", "フリーメイソン 英語", "友愛結社 英語", "freemason 使い方"],
+    "meanings": [
+      { "hinshi": "【名詞】フリーメイソン（の会員）", "note": "中世の石工組合を起源とする国際的な友愛結社「フリーメイソンリー」の会員" }
+    ],
+    "usages": [
+      { "title": "① 結社の会員", "desc": "友愛結社を表す", "example_en": "He was a Freemason for many years.", "example_ja": "彼は長年フリーメイソンの会員だった。" },
+      { "title": "② 歴史・文化の話題", "desc": "組織を表す", "example_en": "Many famous figures were Freemasons.", "example_ja": "多くの著名人がフリーメイソンだった。" }
+    ],
+    "warn": ["組織・思想は Freemasonry。集会所は lodge。歴史的には慈善・親睦を目的とする結社。"],
+    "etym_note": "free（自由な）+ mason（石工）に由来し、中世の石工組合（親方石工）に起源を持つ語。",
+    "etym_chain": [
+      { "node": "free + mason", "sub": "自由な石工", "era": "中英語" },
+      { "node": "freemason", "sub": "フリーメイソン", "era": "近代英語" },
+      { "node": "freemason", "sub": "フリーメイソン（会員）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a Freemason lodge", "ja": "フリーメイソンの集会所" },
+      { "en": "become a Freemason", "ja": "フリーメイソンになる" },
+      { "en": "the symbols of Freemasons", "ja": "フリーメイソンの象徴" },
+      { "en": "a secret Freemason", "ja": "秘密のフリーメイソン会員" },
+      { "en": "Freemason rituals", "ja": "フリーメイソンの儀式" },
+      { "en": "join the Freemasons", "ja": "フリーメイソンに加わる" }
+    ],
+    "related": [
+      { "en": "freemasonry", "ja": "フリーメイソンリー（組織）" },
+      { "en": "lodge", "ja": "集会所・支部" },
+      { "en": "fraternity", "ja": "友愛結社" },
+      { "en": "society", "ja": "結社・団体" }
+    ],
+    "faq": [
+      { "q": "freemason と freemasonry の違いは？", "a": "freemason は「（一人の）会員」、freemasonry は「その組織・思想（フリーメイソンリー）」です。" },
+      { "q": "起源は？", "a": "中世ヨーロッパの石工組合を起源とし、親睦・慈善・道徳的向上を目的とする国際的な友愛結社です。" }
+    ],
+    "quiz": [
+      { "q": "freemason の意味は？", "A": "石を売る商人", "B": "フリーメイソン（友愛結社の会員）", "C": "建築家", "D": "彫刻家", "correct": "B" },
+      { "q": "フリーメイソンの集会所を何と呼ぶ？", "A": "lodge", "B": "temple", "C": "church", "D": "hall", "correct": "A" }
+    ]
+  },
+  {
+    "english": "freshwater",
+    "pron": "ˈfreʃwɔːtər",
+    "kana": "フレッシュウォーター",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "fresh（真水の）+ water（水）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "生物・地理"],
+    "meaning_main": "淡水の／真水の／淡水にすむ",
+    "description": "freshwater（フレッシュウォーター）の意味・使い方。塩分を含まない「淡水の・真水の」を表す形容詞。saltwater（海水の）との対比で使われます。",
+    "keywords": ["freshwater 意味", "淡水 英語", "真水 英語", "freshwater 使い方"],
+    "meanings": [
+      { "hinshi": "【形容詞】淡水の・真水の・淡水にすむ", "note": "塩分をほとんど含まない水（川・湖など）に関する" }
+    ],
+    "usages": [
+      { "title": "① 淡水の環境", "desc": "川・湖などを表す", "example_en": "The lake is a freshwater habitat.", "example_ja": "その湖は淡水の生息地だ。" },
+      { "title": "② 淡水魚", "desc": "淡水にすむ生物を表す", "example_en": "Trout is a freshwater fish.", "example_ja": "マスは淡水魚だ。" }
+    ],
+    "warn": ["対義語は saltwater（海水の）。fresh（新鮮な・真水の）+ water。"],
+    "etym_note": "fresh（真水の・新鮮な）と water（水）を組み合わせた複合語。",
+    "etym_chain": [
+      { "node": "fresh + water", "sub": "真水", "era": "中英語" },
+      { "node": "freshwater", "sub": "淡水の", "era": "近代英語" },
+      { "node": "freshwater", "sub": "淡水の・真水の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a freshwater fish", "ja": "淡水魚" },
+      { "en": "a freshwater lake", "ja": "淡水湖" },
+      { "en": "freshwater habitat", "ja": "淡水の生息地" },
+      { "en": "freshwater species", "ja": "淡水の生物種" },
+      { "en": "freshwater and saltwater", "ja": "淡水と海水" },
+      { "en": "freshwater resources", "ja": "淡水資源" }
+    ],
+    "related": [
+      { "en": "saltwater", "ja": "海水の" },
+      { "en": "seawater", "ja": "海水" },
+      { "en": "water", "ja": "水" },
+      { "en": "aquatic", "ja": "水生の" }
+    ],
+    "faq": [
+      { "q": "freshwater の対義語は？", "a": "saltwater（海水の）です。淡水魚は freshwater fish、海水魚は saltwater fish です。" },
+      { "q": "淡水とは？", "a": "塩分をほとんど含まない水で、川・湖・池などの水を指します。" }
+    ],
+    "quiz": [
+      { "q": "freshwater の意味は？", "A": "海水の", "B": "淡水の・真水の", "C": "温水の", "D": "凍った", "correct": "B" },
+      { "q": "freshwater の対義語は？", "A": "saltwater", "B": "rainwater", "C": "hotwater", "D": "coldwater", "correct": "A" }
+    ]
+  },
+  {
+    "english": "freudian",
+    "pron": "ˈfrɔɪdiən",
+    "kana": "フロイディアン",
+    "hinshi": "形容詞（固有名詞由来）",
+    "ld_pos": "形容詞",
+    "ld_etym": "精神分析学者フロイト（Freud）の名から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "心理学"],
+    "meaning_main": "フロイトの／フロイト（精神分析）流の",
+    "description": "freudian（フロイディアン）の意味・使い方。精神分析の創始者ジークムント・フロイトに由来する「フロイトの・精神分析流の」を表す形容詞。人名由来なので英文では大文字。",
+    "keywords": ["freudian 意味", "フロイト 英語", "精神分析 英語", "Freudian slip"],
+    "meanings": [
+      { "hinshi": "【形容詞】フロイトの・精神分析流の", "note": "精神分析の創始者フロイトの理論・手法に関する" }
+    ],
+    "usages": [
+      { "title": "① フロイトの理論", "desc": "精神分析を表す", "example_en": "The interpretation is very Freudian.", "example_ja": "その解釈はいかにもフロイト流だ。" },
+      { "title": "② 無意識の言い間違い", "desc": "Freudian slip を表す", "example_en": "He made a Freudian slip.", "example_ja": "彼は（本心が出た）言い間違いをした。" }
+    ],
+    "warn": ["人名由来なので英文では常に大文字 Freudian（見出し語はサイト方針で小文字登録）。Freudian slip（本心の出る言い間違い）が有名。"],
+    "etym_note": "オーストリアの精神分析学者ジークムント・フロイト（Sigmund Freud）の名に由来する語。",
+    "etym_chain": [
+      { "node": "Freud", "sub": "フロイト（人名）", "era": "19〜20世紀" },
+      { "node": "Freudian", "sub": "フロイトの", "era": "20世紀英語" },
+      { "node": "Freudian", "sub": "フロイトの・精神分析流の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a Freudian slip", "ja": "（本心の出る）言い間違い" },
+      { "en": "Freudian theory", "ja": "フロイトの理論" },
+      { "en": "Freudian analysis", "ja": "フロイト流の分析" },
+      { "en": "Freudian psychology", "ja": "フロイト心理学" },
+      { "en": "a Freudian interpretation", "ja": "精神分析的な解釈" },
+      { "en": "Freudian symbolism", "ja": "フロイト的な象徴" }
+    ],
+    "related": [
+      { "en": "psychoanalysis", "ja": "精神分析" },
+      { "en": "subconscious", "ja": "潜在意識" },
+      { "en": "psychology", "ja": "心理学" },
+      { "en": "ego", "ja": "自我・エゴ" }
+    ],
+    "faq": [
+      { "q": "Freudian slip とは？", "a": "無意識の本心がつい口をついて出る「言い間違い」のことです。フロイトの理論にちなみます。" },
+      { "q": "由来は？", "a": "精神分析の創始者ジークムント・フロイト（Sigmund Freud）の名に由来します。" }
+    ],
+    "quiz": [
+      { "q": "Freudian の意味は？", "A": "ダーウィンの", "B": "フロイトの・精神分析流の", "C": "アインシュタインの", "D": "ニュートンの", "correct": "B" },
+      { "q": "a Freudian slip とは？", "A": "計算間違い", "B": "本心が出る言い間違い", "C": "転倒", "D": "書き損じだけ", "correct": "B" }
+    ]
+  },
+  {
+    "english": "friends",
+    "pron": "frendz",
+    "kana": "フレンズ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "friend（友人）の複数形",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "頻出"],
+    "meaning_main": "友人たち／仲間",
+    "description": "friends（フレンズ）の意味・使い方。親しい間柄の人々「友人たち・仲間」を表す friend の複数形。make friends（友達になる）などの表現を解説します。",
+    "keywords": ["friends 意味", "友人たち 英語", "仲間 英語", "make friends"],
+    "meanings": [
+      { "hinshi": "【名詞】友人たち・仲間", "note": "親しく付き合う人々（friend の複数形）" }
+    ],
+    "usages": [
+      { "title": "① 友人たち", "desc": "親しい仲間を表す", "example_en": "I met my friends at the park.", "example_ja": "私は公園で友人たちに会った。" },
+      { "title": "② 友達になる", "desc": "友好関係を表す", "example_en": "They quickly became good friends.", "example_ja": "彼らはすぐに仲良くなった。" }
+    ],
+    "warn": ["make friends（友達になる）はつねに複数形 friends。be friends with 〜（〜と友達だ）。"],
+    "etym_note": "古英語 frēond（愛する者・友）に由来する friend の複数形。",
+    "etym_chain": [
+      { "node": "frēond", "sub": "友・愛する者", "era": "古英語" },
+      { "node": "friend", "sub": "友人", "era": "中英語" },
+      { "node": "friends", "sub": "友人たち", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "make friends", "ja": "友達になる" },
+      { "en": "be friends with", "ja": "〜と友達だ" },
+      { "en": "close friends", "ja": "親友たち" },
+      { "en": "old friends", "ja": "古い友人" },
+      { "en": "friends and family", "ja": "友人と家族" },
+      { "en": "just good friends", "ja": "ただの良い友達" }
+    ],
+    "related": [
+      { "en": "friend", "ja": "友人" },
+      { "en": "friendship", "ja": "友情" },
+      { "en": "companion", "ja": "仲間" },
+      { "en": "acquaintance", "ja": "知り合い" }
+    ],
+    "faq": [
+      { "q": "make friends とは？", "a": "「友達になる・友達を作る」という意味で、つねに複数形 friends を使います（make friends with 〜）。" },
+      { "q": "be friends with とは？", "a": "「〜と友達である・仲がよい」という意味です。" }
+    ],
+    "quiz": [
+      { "q": "make friends の意味は？", "A": "友達をなくす", "B": "友達になる・友達を作る", "C": "けんかする", "D": "別れる", "correct": "B" },
+      { "q": "friends の単数形は？", "A": "friend", "B": "friendly", "C": "friendship", "D": "fried", "correct": "A" }
+    ]
+  },
+  {
+    "english": "frizzy",
+    "pron": "ˈfrɪzi",
+    "kana": "フリジー",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "frizz（縮れる）+ -y",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "描写"],
+    "meaning_main": "（髪が）縮れた／ちりちりの／ごわごわの",
+    "description": "frizzy（フリジー）の意味・使い方。髪が細かく「縮れた・ちりちりの・ごわごわの」を表す形容詞。湿気で広がる髪などを描写します。",
+    "keywords": ["frizzy 意味", "縮れた髪 英語", "ちりちり 英語", "frizzy hair"],
+    "meanings": [
+      { "hinshi": "【形容詞】（髪が）縮れた・ちりちりの・ごわごわの", "note": "細かく縮れて広がった、まとまりにくい髪の様子" }
+    ],
+    "usages": [
+      { "title": "① 縮れた髪", "desc": "ちりちりの様子を表す", "example_en": "Her hair goes frizzy in humid weather.", "example_ja": "彼女の髪は湿気の多い天気だとちりちりになる。" },
+      { "title": "② 広がる髪", "desc": "まとまりのなさを表す", "example_en": "He has thick, frizzy hair.", "example_ja": "彼は太くて縮れた髪をしている。" }
+    ],
+    "warn": ["動詞・名詞は frizz（縮れる・縮れ毛）。curly（巻き毛の、きれいなカール）と区別する。"],
+    "etym_note": "縮れることを表す frizz（フランス語 friser〈縮らせる〉に由来）に -y が付いた語。",
+    "etym_chain": [
+      { "node": "friser", "sub": "縮らせる", "era": "フランス語" },
+      { "node": "frizz", "sub": "縮れる", "era": "近代英語" },
+      { "node": "frizzy", "sub": "縮れた", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "frizzy hair", "ja": "縮れた髪" },
+      { "en": "go frizzy", "ja": "ちりちりになる" },
+      { "en": "frizzy curls", "ja": "ちりちりの巻き毛" },
+      { "en": "control frizzy hair", "ja": "縮れ毛を抑える" },
+      { "en": "dry and frizzy", "ja": "乾いてごわごわの" },
+      { "en": "a frizzy mess", "ja": "ぼさぼさの縮れ毛" }
+    ],
+    "related": [
+      { "en": "frizz", "ja": "縮れる・縮れ毛" },
+      { "en": "curly", "ja": "巻き毛の" },
+      { "en": "fuzzy", "ja": "毛羽立った" },
+      { "en": "straight", "ja": "まっすぐな" }
+    ],
+    "faq": [
+      { "q": "frizzy と curly の違いは？", "a": "curly は「（きれいにカールした）巻き毛の」、frizzy は「（細かく縮れて広がった）ちりちり・ごわごわの」で、まとまりにくい否定的な含みがあります。" },
+      { "q": "いつなりやすい？", "a": "湿気の多いときに髪が広がり frizzy になりやすいです。" }
+    ],
+    "quiz": [
+      { "q": "frizzy の意味は？", "A": "まっすぐな", "B": "（髪が）縮れた・ちりちりの", "C": "つややかな", "D": "短い", "correct": "B" },
+      { "q": "frizzy hair の意味は？", "A": "縮れた髪", "B": "金髪", "C": "短い髪", "D": "ぬれた髪", "correct": "A" }
+    ]
+  },
+  {
+    "english": "frosted",
+    "pron": "ˈfrɔːstɪd",
+    "kana": "フロスティッド",
+    "hinshi": "形容詞 / 動詞",
+    "ld_pos": "形容詞・動詞",
+    "ld_etym": "frost（霜）+ -ed",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "描写"],
+    "meaning_main": "霜のおりた／曇りガラスの／（菓子に）糖衣をかけた",
+    "description": "frosted（フロスティッド）の意味・使い方。「霜のおりた」を表す形容詞。すりガラス状の「曇りガラスの」や、菓子に「糖衣・アイシングをかけた」の意味も解説します。",
+    "keywords": ["frosted 意味", "霜 英語", "曇りガラス 英語", "糖衣 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】霜のおりた・霜で覆われた", "note": "霜がついて白くなった" },
+      { "hinshi": "【形容詞】曇りガラスの／糖衣をかけた", "note": "すりガラス状で不透明な、または菓子に砂糖・アイシングをかけた" }
+    ],
+    "usages": [
+      { "title": "① 霜のおりた", "desc": "霜を表す", "example_en": "The windows were frosted this morning.", "example_ja": "今朝、窓は霜で覆われていた。" },
+      { "title": "② 曇りガラス・糖衣", "desc": "半透明・糖衣を表す", "example_en": "The bathroom has frosted glass.", "example_ja": "その浴室は曇りガラスだ。" }
+    ],
+    "warn": ["原形は frost（霜がおりる・糖衣をかける）。frosted glass（すりガラス）、frosted flakes（砂糖をまぶしたフレーク）。"],
+    "etym_note": "古英語 forst（霜）に由来する frost に -ed が付いた語。",
+    "etym_chain": [
+      { "node": "forst", "sub": "霜", "era": "古英語" },
+      { "node": "frost", "sub": "霜・糖衣をかける", "era": "中英語" },
+      { "node": "frosted", "sub": "霜のおりた・糖衣の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "frosted glass", "ja": "曇りガラス・すりガラス" },
+      { "en": "frosted windows", "ja": "霜のおりた窓" },
+      { "en": "frosted flakes", "ja": "砂糖をまぶしたフレーク" },
+      { "en": "a frosted cake", "ja": "糖衣をかけたケーキ" },
+      { "en": "frosted with sugar", "ja": "砂糖をまぶした" },
+      { "en": "frosted tips", "ja": "（髪の）メッシュに染めた毛先" }
+    ],
+    "related": [
+      { "en": "frost", "ja": "霜・糖衣をかける" },
+      { "en": "frosting", "ja": "アイシング・糖衣" },
+      { "en": "icy", "ja": "凍った" },
+      { "en": "matte", "ja": "つや消しの" }
+    ],
+    "faq": [
+      { "q": "frosted glass とは？", "a": "表面をすりガラス状にして半透明にした「曇りガラス」のことです。目隠し用に使われます。" },
+      { "q": "菓子の frosted とは？", "a": "ケーキなどに糖衣・アイシング（frosting）をかけた状態を指します。" }
+    ],
+    "quiz": [
+      { "q": "frosted の意味は？", "A": "透明な", "B": "霜のおりた・曇りガラスの・糖衣の", "C": "熱い", "D": "ぬれた", "correct": "B" },
+      { "q": "frosted glass の意味は？", "A": "透明ガラス", "B": "曇りガラス", "C": "割れたガラス", "D": "色ガラス", "correct": "B" }
+    ]
+  },
+  {
+    "english": "froze",
+    "pron": "froʊz",
+    "kana": "フロウズ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "freeze（凍る）の過去形",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "不規則動詞"],
+    "meaning_main": "凍った／凍りついた／（恐怖などで）動けなくなった",
+    "description": "froze（フロウズ）の意味・使い方。動詞 freeze（凍る）の過去形。物が「凍った」ほか、恐怖で「立ちすくんだ」の意味も解説します。freeze-froze-frozen と変化します。",
+    "keywords": ["froze 意味", "freeze 過去形", "凍った 英語", "froze 使い方"],
+    "meanings": [
+      { "hinshi": "【動詞】凍った・凍りついた・立ちすくんだ", "note": "freeze（凍る・凍らせる・すくむ）の過去形" }
+    ],
+    "usages": [
+      { "title": "① 凍った", "desc": "氷になったことを表す", "example_en": "The lake froze over last night.", "example_ja": "その湖は昨夜、一面凍った。" },
+      { "title": "② 立ちすくんだ", "desc": "恐怖で動けないことを表す", "example_en": "She froze in fear.", "example_ja": "彼女は恐怖で立ちすくんだ。" }
+    ],
+    "warn": ["freeze-froze-frozen と変化。過去形は froze、過去分詞は frozen。freeze over（一面凍る）。"],
+    "etym_note": "古英語 frēosan（凍る）の過去形に由来する語。",
+    "etym_chain": [
+      { "node": "frēosan", "sub": "凍る", "era": "古英語" },
+      { "node": "freeze", "sub": "凍る", "era": "中英語" },
+      { "node": "froze", "sub": "凍った", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the lake froze", "ja": "湖が凍った" },
+      { "en": "froze over", "ja": "一面凍った" },
+      { "en": "froze in fear", "ja": "恐怖で立ちすくんだ" },
+      { "en": "the pipes froze", "ja": "配管が凍った" },
+      { "en": "froze to death", "ja": "凍死した" },
+      { "en": "froze solid", "ja": "かちかちに凍った" }
+    ],
+    "related": [
+      { "en": "freeze", "ja": "凍る・凍らせる" },
+      { "en": "frozen", "ja": "凍った（過去分詞）" },
+      { "en": "freezing", "ja": "凍るような" },
+      { "en": "thaw", "ja": "解ける" }
+    ],
+    "faq": [
+      { "q": "froze と frozen の違いは？", "a": "froze は過去形（The lake froze）、frozen は過去分詞（The lake has frozen）・形容詞（凍った）です。" },
+      { "q": "freeze の変化形は？", "a": "freeze-froze-frozen（現在-過去-過去分詞）の不規則動詞です。" }
+    ],
+    "quiz": [
+      { "q": "froze は何の過去形？", "A": "freeze", "B": "free", "C": "frown", "D": "from", "correct": "A" },
+      { "q": "freeze の過去分詞は？", "A": "froze", "B": "frozen", "C": "freezed", "D": "frozed", "correct": "B" }
+    ]
+  }
+]
