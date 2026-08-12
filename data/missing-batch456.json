@@ -1,0 +1,992 @@
+[
+  {
+    "english": "utsunomiya",
+    "pron": "ˌuːtsuːnoʊˈmiːjə",
+    "kana": "ウツノミヤ",
+    "hinshi": "固有名詞(地名)",
+    "ld_pos": "固有名詞",
+    "ld_etym": "日本語の地名「宇都宮」から",
+    "ld_level": "—",
+    "badges": ["学習者向け", "固有名詞", "地名", "日本"],
+    "meaning_main": "宇都宮（栃木県の県庁所在地）",
+    "description": "Utsunomiya（ウツノミヤ）は日本の栃木県の県庁所在地。餃子の街として知られ、近年はLRT（次世代型路面電車）でも話題になりました。※固有名詞なので文中では大文字。",
+    "keywords": ["utsunomiya 意味", "宇都宮 英語", "utsunomiya とは", "宇都宮 餃子"],
+    "meanings": [
+      { "hinshi": "【固有名詞】宇都宮", "note": "栃木県の県庁所在地。日本語地名のローマ字表記。※見出しは小文字で登録、実際は Utsunomiya と大文字" },
+      { "hinshi": "【補足】餃子の街", "note": "餃子（gyoza）の消費で有名。東京から新幹線で約50分" }
+    ],
+    "usages": [
+      { "title": "① 都市として", "desc": "栃木県の中心都市", "example_en": "Utsunomiya is the capital of Tochigi Prefecture.", "example_ja": "宇都宮は栃木県の県庁所在地だ。" },
+      { "title": "② 名物とともに", "desc": "餃子で知られる", "example_en": "Utsunomiya is famous for its gyoza.", "example_ja": "宇都宮は餃子で有名だ。" }
+    ],
+    "warn": ["Utsunomiya は固有名詞（地名）なので文中では大文字で始めます"],
+    "etym_note": "日本語の地名「宇都宮」をローマ字表記した語。市内の二荒山神社が「一の宮（いちのみや）」と呼ばれたことに由来する説がある。",
+    "etym_chain": [
+      { "node": "宇都宮", "sub": "日本語地名", "era": "古代日本" },
+      { "node": "Utsunomiya", "sub": "ローマ字表記", "era": "現代" }
+    ],
+    "phrases": [
+      { "en": "in Utsunomiya", "ja": "宇都宮で" },
+      { "en": "Utsunomiya City", "ja": "宇都宮市" },
+      { "en": "Utsunomiya Station", "ja": "宇都宮駅" },
+      { "en": "Utsunomiya gyoza", "ja": "宇都宮餃子" },
+      { "en": "visit Utsunomiya", "ja": "宇都宮を訪れる" },
+      { "en": "live in Utsunomiya", "ja": "宇都宮に住む" }
+    ],
+    "related": [
+      { "en": "tochigi", "ja": "栃木" },
+      { "en": "city", "ja": "都市" },
+      { "en": "japan", "ja": "日本" },
+      { "en": "prefecture", "ja": "県" }
+    ],
+    "faq": [
+      { "q": "Utsunomiya はどこにある？", "a": "日本の栃木県の県庁所在地で、東京の北に位置します。新幹線で東京から約50分です。" },
+      { "q": "Utsunomiya は何で有名？", "a": "餃子（gyoza）の街として有名です。近年は日本初の全線新設LRT（次世代型路面電車）でも注目されました。" }
+    ],
+    "quiz": [
+      { "q": "Utsunomiya はどこの県の県庁所在地？", "A": "栃木県", "B": "群馬県", "C": "茨城県", "D": "埼玉県", "correct": "A" },
+      { "q": "Utsunomiya が有名な食べ物は？", "A": "餃子", "B": "ラーメン", "C": "うどん", "D": "寿司", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ux",
+    "pron": "ˌjuː ˈeks",
+    "kana": "ユーエックス",
+    "hinshi": "名詞(略語)",
+    "ld_pos": "名詞",
+    "ld_etym": "User Experience の略",
+    "ld_level": "—",
+    "badges": ["学習者向け", "略語", "IT・デザイン", "頭字語"],
+    "meaning_main": "ユーザー体験（UX）",
+    "description": "UX（ユーエックス）は User Experience の略で「ユーザー体験」を指します。製品やサービスを使うときの使い心地・満足度全体を表すデザイン用語です。※略語。",
+    "keywords": ["ux 意味", "ユーザー体験 英語", "ux とは", "ux ui 違い"],
+    "meanings": [
+      { "hinshi": "【名詞】ユーザー体験(UX)", "note": "User Experience の略。製品・サービスを使う際の体験全体。※普通の英単語ではなく略語" },
+      { "hinshi": "【補足】使い心地・満足度", "note": "分かりやすさ、快適さ、満足度などを含む" }
+    ],
+    "usages": [
+      { "title": "① デザインの文脈", "desc": "使い心地を設計する", "example_en": "Good UX makes an app easy to use.", "example_ja": "良いUXはアプリを使いやすくする。" },
+      { "title": "② 職種として", "desc": "UXデザイナーなど", "example_en": "She works as a UX designer.", "example_ja": "彼女はUXデザイナーとして働いている。" }
+    ],
+    "warn": ["UX は略語（頭字語）。X は experience の \"ex\" 音を表す", "UI（ユーザーインターフェース＝見た目・操作部分）とセットで使われる"],
+    "etym_note": "User（利用者）Experience（体験）の頭文字を取った略語。experience の ex の音を X で表している。IT・デザイン分野で広まった。",
+    "etym_chain": [
+      { "node": "User Experience", "sub": "正式名称", "era": "1990年代" },
+      { "node": "UX", "sub": "略語", "era": "現代" }
+    ],
+    "phrases": [
+      { "en": "good UX", "ja": "良いUX" },
+      { "en": "UX design", "ja": "UXデザイン" },
+      { "en": "UX designer", "ja": "UXデザイナー" },
+      { "en": "improve the UX", "ja": "UXを改善する" },
+      { "en": "user experience", "ja": "ユーザー体験" },
+      { "en": "UX and UI", "ja": "UXとUI" }
+    ],
+    "related": [
+      { "en": "ui", "ja": "ユーザーインターフェース" },
+      { "en": "design", "ja": "デザイン" },
+      { "en": "user", "ja": "利用者" },
+      { "en": "usability", "ja": "使いやすさ" }
+    ],
+    "faq": [
+      { "q": "UX と UI の違いは？", "a": "UX（ユーザー体験）は使ったときの満足度や体験全体、UI（ユーザーインターフェース）は画面の見た目や操作する部分を指します。UIはUXの一部です。" },
+      { "q": "UX は何の略？", "a": "User Experience（ユーザー体験）の略です。experience の ex の音を X で表しています。" }
+    ],
+    "quiz": [
+      { "q": "UX は何の略？", "A": "ユーザー体験", "B": "拡張現実", "C": "通信規格", "D": "画像形式", "correct": "A" },
+      { "q": "UX と対で使われる、画面の見た目を指す略語は？", "A": "UI", "B": "USB", "C": "URL", "D": "CPU", "correct": "A" }
+    ]
+  },
+  {
+    "english": "valueless",
+    "pron": "ˈvæljuːləs",
+    "kana": "ヴァリューレス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "value（価値）+ -less（〜がない）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "頻出"],
+    "meaning_main": "価値のない / 無価値な / 役に立たない",
+    "description": "valueless（ヴァリューレス）は「価値のない・無価値な」を表す形容詞。金銭的にも役立ち度でも価値がないものを表します。",
+    "keywords": ["valueless 意味", "無価値 英語", "value 否定", "価値のない 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】価値のない、無価値な", "note": "金銭的・実質的に価値がないさま" }
+    ],
+    "usages": [
+      { "title": "① 金銭的に無価値", "desc": "値打ちがない", "example_en": "The old coins turned out to be valueless.", "example_ja": "その古い硬貨は無価値だと判明した。" },
+      { "title": "② 役に立たない", "desc": "有用性がない", "example_en": "Without evidence, the claim is valueless.", "example_ja": "証拠がなければ、その主張は無価値だ。" }
+    ],
+    "warn": ["紛らわしい invaluable は「非常に価値がある」の意味で正反対なので注意", "反対語は valuable（価値のある）"],
+    "etym_note": "名詞 value（価値）に、「〜がない」を表す接尾辞 -less が付いた語。「価値がない」の意。",
+    "etym_chain": [
+      { "node": "value", "sub": "価値", "era": "14世紀" },
+      { "node": "valueless", "sub": "価値のない", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "practically valueless", "ja": "事実上無価値な" },
+      { "en": "a valueless object", "ja": "価値のない物" },
+      { "en": "become valueless", "ja": "無価値になる" },
+      { "en": "financially valueless", "ja": "金銭的に無価値な" },
+      { "en": "almost valueless", "ja": "ほとんど価値のない" },
+      { "en": "valueless currency", "ja": "無価値な通貨" }
+    ],
+    "related": [
+      { "en": "valuable", "ja": "価値のある" },
+      { "en": "worthless", "ja": "無価値な" },
+      { "en": "invaluable", "ja": "非常に価値のある" },
+      { "en": "value", "ja": "価値" }
+    ],
+    "faq": [
+      { "q": "valueless と invaluable の違いは？", "a": "正反対です。valueless は「価値がない」、invaluable は「（値がつけられないほど）非常に価値がある」を意味します。混同しやすいので注意が必要です。" },
+      { "q": "valueless と worthless の違いは？", "a": "ほぼ同義で「無価値な」を意味します。worthless のほうが日常的でよく使われます。" }
+    ],
+    "quiz": [
+      { "q": "valueless の意味は？", "A": "価値のない", "B": "非常に価値のある", "C": "高価な", "D": "珍しい", "correct": "A" },
+      { "q": "valueless と正反対の意味の語は？", "A": "invaluable", "B": "worthless", "C": "useless", "D": "harmless", "correct": "A" }
+    ]
+  },
+  {
+    "english": "values",
+    "pron": "ˈvæljuːz",
+    "kana": "ヴァリューズ",
+    "hinshi": "名詞(value の複数形) / 動詞(value の三単現)",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "value（価値）の複数形・三単現",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "頻出"],
+    "meaning_main": "価値観 / 数値 / 重んじる",
+    "description": "values（ヴァリューズ）は value の複数形・三人称単数形。「価値観（信条）」「数値・値」などの名詞、または「重んじる」の動詞として使います。",
+    "keywords": ["values 意味", "value 複数形", "価値観 英語", "values 使い方"],
+    "meanings": [
+      { "hinshi": "【名詞】価値観、信条", "note": "複数形。人や社会が大切にする考え方・道徳観" },
+      { "hinshi": "【名詞】数値、値", "note": "数量・データの値" },
+      { "hinshi": "【動詞】value（重んじる・評価する）の三単現", "note": "「〜を大切にする」" }
+    ],
+    "usages": [
+      { "title": "① 価値観として", "desc": "大切にする信条", "example_en": "Family values are important to her.", "example_ja": "彼女にとって家族の価値観は大切だ。" },
+      { "title": "② 数値として", "desc": "データの値", "example_en": "Enter the values in the table.", "example_ja": "表に数値を入力しなさい。" },
+      { "title": "③ 動詞として", "desc": "重んじる", "example_en": "She values honesty above all.", "example_ja": "彼女は何よりも正直さを重んじる。" }
+    ],
+    "warn": ["「価値観」の意味では通常複数形 values で使う"],
+    "etym_note": "ラテン語 valere（価値がある・強い）に由来する value（価値・重んじる）の複数形・三人称単数形。",
+    "etym_chain": [
+      { "node": "valere", "sub": "価値がある(ラテン語)", "era": "ラテン語" },
+      { "node": "value", "sub": "価値・重んじる", "era": "14世紀" },
+      { "node": "values", "sub": "価値観・数値", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "family values", "ja": "家族の価値観" },
+      { "en": "moral values", "ja": "道徳的価値観" },
+      { "en": "core values", "ja": "中核となる価値観" },
+      { "en": "share the same values", "ja": "同じ価値観を持つ" },
+      { "en": "numerical values", "ja": "数値" },
+      { "en": "cultural values", "ja": "文化的価値観" }
+    ],
+    "related": [
+      { "en": "value", "ja": "価値・重んじる" },
+      { "en": "beliefs", "ja": "信念" },
+      { "en": "principles", "ja": "信条・原則" },
+      { "en": "morals", "ja": "道徳" }
+    ],
+    "faq": [
+      { "q": "values（価値観）と beliefs の違いは？", "a": "values は「何を大切にするか（善悪・優先順位の基準）」、beliefs は「何を真実だと思うか（信じている事柄）」に重点があります。" },
+      { "q": "family values とは？", "a": "「家族を大切にする価値観・家庭で重んじられる道徳観」のことです。政治や社会の議論でもよく使われる表現です。" }
+    ],
+    "quiz": [
+      { "q": "family values の意味は？", "A": "家族の価値観", "B": "家の値段", "C": "家族の人数", "D": "家系図", "correct": "A" },
+      { "q": "She values honesty. の values の意味は？", "A": "重んじる", "B": "疑う", "C": "忘れる", "D": "売る", "correct": "A" }
+    ]
+  },
+  {
+    "english": "vandalize",
+    "pron": "ˈvændəlaɪz",
+    "kana": "ヴァンダライズ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "Vandal（ヴァンダル族）+ -ize",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "頻出"],
+    "meaning_main": "（公共物などを）故意に破壊する / 汚す",
+    "description": "vandalize（ヴァンダライズ）は「（公共物などを）故意に破壊する・汚す」を表す動詞。落書きや器物損壊など、いたずらや悪意による破壊行為を指します。",
+    "keywords": ["vandalize 意味", "破壊する 英語", "落書き 英語", "vandalism"],
+    "meanings": [
+      { "hinshi": "【動詞】故意に破壊する、汚す", "note": "公共物や他人の財産をいたずら・悪意で傷つける" }
+    ],
+    "usages": [
+      { "title": "① 器物損壊", "desc": "公共物を壊す", "example_en": "Someone vandalized the bus stop overnight.", "example_ja": "何者かが夜のうちにバス停を破壊した。" },
+      { "title": "② 落書きなど", "desc": "汚す・傷つける", "example_en": "The statue was vandalized with spray paint.", "example_ja": "その像はスプレーで落書きされた。" }
+    ],
+    "warn": ["名詞は vandalism（破壊行為）、行為者は vandal（破壊者）", "英国綴りは vandalise"],
+    "etym_note": "5世紀にローマを略奪したゲルマン系の Vandal（ヴァンダル族）に由来。彼らの破壊行為から「文化財を壊す」の意味が生まれ、動詞化された。",
+    "etym_chain": [
+      { "node": "Vandal", "sub": "ヴァンダル族", "era": "5世紀" },
+      { "node": "vandalism", "sub": "破壊行為", "era": "18世紀" },
+      { "node": "vandalize", "sub": "故意に破壊する", "era": "19世紀" }
+    ],
+    "phrases": [
+      { "en": "vandalize property", "ja": "財産を破壊する" },
+      { "en": "vandalize a wall", "ja": "壁に落書きする" },
+      { "en": "be vandalized", "ja": "破壊される" },
+      { "en": "vandalize a car", "ja": "車をいたずらで壊す" },
+      { "en": "vandalize public spaces", "ja": "公共の場を汚す" },
+      { "en": "vandalize a monument", "ja": "記念碑を破壊する" }
+    ],
+    "related": [
+      { "en": "vandalism", "ja": "破壊行為" },
+      { "en": "vandal", "ja": "破壊者" },
+      { "en": "damage", "ja": "傷つける" },
+      { "en": "deface", "ja": "汚す・傷つける" }
+    ],
+    "faq": [
+      { "q": "vandalize の名詞形は？", "a": "vandalism（破壊行為・器物損壊）です。行為をする人は vandal（破壊者）と言います。" },
+      { "q": "vandalize はなぜ「ヴァンダル族」由来？", "a": "5世紀にローマを略奪し文化財を破壊したヴァンダル族の行いから、「文化財や公共物を意味なく破壊する」の意味が生まれました。" }
+    ],
+    "quiz": [
+      { "q": "vandalize の意味は？", "A": "故意に破壊する・汚す", "B": "修理する", "C": "建設する", "D": "掃除する", "correct": "A" },
+      { "q": "vandalize の名詞形は？", "A": "vandalism", "B": "vandality", "C": "vandalness", "D": "vandalment", "correct": "A" }
+    ]
+  },
+  {
+    "english": "vanished",
+    "pron": "ˈvænɪʃt",
+    "kana": "ヴァニッシュト",
+    "hinshi": "動詞(vanish の過去・過去分詞) / 形容詞",
+    "ld_pos": "動詞・形容詞",
+    "ld_etym": "vanish（消える）+ -ed",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "頻出"],
+    "meaning_main": "消えた / 姿を消した / 消滅した",
+    "description": "vanished（ヴァニッシュト）は vanish（消える）の過去・過去分詞。「（突然）消えた・姿を消した」を表し、跡形もなく見えなくなることを指します。",
+    "keywords": ["vanished 意味", "vanish 過去形", "消えた 英語", "姿を消す 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】消えた、姿を消した", "note": "vanish の過去・過去分詞。突然見えなくなること" },
+      { "hinshi": "【形容詞】消え去った、失われた", "note": "the vanished world（失われた世界）など" }
+    ],
+    "usages": [
+      { "title": "① 突然消える", "desc": "跡形もなく見えなくなる", "example_en": "The magician vanished in a puff of smoke.", "example_ja": "手品師は煙とともに消えた。" },
+      { "title": "② 存在が失われる", "desc": "消滅する", "example_en": "Their savings had vanished within a year.", "example_ja": "彼らの貯金は1年で消えてなくなっていた。" }
+    ],
+    "warn": ["vanish は自動詞。目的語をとらない（×vanish something）", "vanish into thin air で「跡形もなく消える」の定番"],
+    "etym_note": "ラテン語 evanescere（消え去る）に由来する vanish（消える）の過去・過去分詞。「（視界から）消える」イメージ。",
+    "etym_chain": [
+      { "node": "evanescere", "sub": "消え去る(ラテン語)", "era": "ラテン語" },
+      { "node": "vanish", "sub": "消える", "era": "14世紀" },
+      { "node": "vanished", "sub": "消えた", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "vanished without a trace", "ja": "跡形もなく消えた" },
+      { "en": "vanished into thin air", "ja": "跡形もなく消え去った" },
+      { "en": "suddenly vanished", "ja": "突然消えた" },
+      { "en": "the vanished ship", "ja": "消えた船" },
+      { "en": "vanished from sight", "ja": "視界から消えた" },
+      { "en": "a vanished era", "ja": "過ぎ去った時代" }
+    ],
+    "related": [
+      { "en": "vanish", "ja": "消える" },
+      { "en": "disappeared", "ja": "消えた" },
+      { "en": "faded", "ja": "薄れた" },
+      { "en": "appeared", "ja": "現れた" }
+    ],
+    "faq": [
+      { "q": "vanished と disappeared の違いは？", "a": "ほぼ同義ですが、vanished は「（突然・不思議に）跡形もなく消えた」ニュアンスが強く、disappeared はより中立的に「見えなくなった」を表します。" },
+      { "q": "vanish into thin air とは？", "a": "「（空気に溶けるように）跡形もなく消え去る」という決まり文句です。" }
+    ],
+    "quiz": [
+      { "q": "vanished の意味は？", "A": "消えた・姿を消した", "B": "現れた", "C": "増えた", "D": "止まった", "correct": "A" },
+      { "q": "vanish into thin air の意味は？", "A": "跡形もなく消える", "B": "空高く飛ぶ", "C": "急に現れる", "D": "静かに眠る", "correct": "A" }
+    ]
+  },
+  {
+    "english": "vanishing",
+    "pron": "ˈvænɪʃɪŋ",
+    "kana": "ヴァニッシング",
+    "hinshi": "形容詞 / 動詞(vanish の現在分詞) / 名詞",
+    "ld_pos": "形容詞・動詞・名詞",
+    "ld_etym": "vanish（消える）+ -ing",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "頻出"],
+    "meaning_main": "消えていく / 消滅しつつある / 消失",
+    "description": "vanishing（ヴァニッシング）は「消えていく・消滅しつつある」を表す語。だんだん見えなくなる、失われていくものを表します。",
+    "keywords": ["vanishing 意味", "vanish 現在分詞", "消えていく 英語", "vanishing point"],
+    "meanings": [
+      { "hinshi": "【形容詞】消えていく、消滅しつつある", "note": "だんだん失われていくさま" },
+      { "hinshi": "【名詞】消失、消滅", "note": "消えること" },
+      { "hinshi": "【動詞】vanish（消える）の現在分詞・動名詞", "note": "「消えている」「消えること」" }
+    ],
+    "usages": [
+      { "title": "① 消えつつあるもの", "desc": "失われていく", "example_en": "They documented the vanishing traditions.", "example_ja": "彼らは消えゆく伝統を記録した。" },
+      { "title": "② ごくわずかな", "desc": "vanishingly small など", "example_en": "The chance is vanishingly small.", "example_ja": "その可能性は限りなく小さい。" }
+    ],
+    "warn": ["vanishing point は絵画・遠近法の「消失点」", "vanishingly small で「限りなく小さい」の定番"],
+    "etym_note": "vanish（消える）の -ing 形。形容詞・名詞・現在分詞として使われる。",
+    "etym_chain": [
+      { "node": "evanescere", "sub": "消え去る(ラテン語)", "era": "ラテン語" },
+      { "node": "vanish", "sub": "消える", "era": "14世紀" },
+      { "node": "vanishing", "sub": "消えていく", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "vanishing point", "ja": "消失点" },
+      { "en": "vanishing species", "ja": "消えゆく種" },
+      { "en": "vanishing traditions", "ja": "消えゆく伝統" },
+      { "en": "vanishingly small", "ja": "限りなく小さい" },
+      { "en": "a vanishing act", "ja": "消える芸・失踪" },
+      { "en": "rapidly vanishing", "ja": "急速に消えていく" }
+    ],
+    "related": [
+      { "en": "vanish", "ja": "消える" },
+      { "en": "disappearing", "ja": "消えつつある" },
+      { "en": "fading", "ja": "薄れていく" },
+      { "en": "emerging", "ja": "現れつつある" }
+    ],
+    "faq": [
+      { "q": "vanishing point とは？", "a": "遠近法（透視図法）で、平行な線が遠くで一点に収束するように見える「消失点」のことです。" },
+      { "q": "vanishingly small とは？", "a": "「限りなく小さい・ほとんどゼロに近い」という意味です。可能性や量がごくわずかであることを強調します。" }
+    ],
+    "quiz": [
+      { "q": "vanishing の意味は？", "A": "消えていく・消滅しつつある", "B": "現れてくる", "C": "増えていく", "D": "固まっていく", "correct": "A" },
+      { "q": "vanishing point の意味は？", "A": "消失点", "B": "出発点", "C": "頂点", "D": "中心点", "correct": "A" }
+    ]
+  },
+  {
+    "english": "vegetarianism",
+    "pron": "ˌvedʒəˈteəriənɪzəm",
+    "kana": "ベジタリアニズム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "vegetarian（菜食主義者）+ -ism（主義）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "食・社会"],
+    "meaning_main": "菜食主義 / ベジタリアニズム",
+    "description": "vegetarianism（ベジタリアニズム）は「菜食主義」を表す名詞。肉や魚を避け、主に植物性の食品を食べる考え方や生活習慣を指します。",
+    "keywords": ["vegetarianism 意味", "菜食主義 英語", "vegetarian 名詞", "ベジタリアン"],
+    "meanings": [
+      { "hinshi": "【名詞】菜食主義", "note": "不可算名詞。肉や魚を食べず植物性食品を中心とする主義・習慣" }
+    ],
+    "usages": [
+      { "title": "① 食生活として", "desc": "肉・魚を避ける", "example_en": "She adopted vegetarianism for health reasons.", "example_ja": "彼女は健康のために菜食主義を取り入れた。" },
+      { "title": "② 理念として", "desc": "倫理・環境の観点", "example_en": "Vegetarianism is often linked to animal welfare.", "example_ja": "菜食主義はしばしば動物福祉と結びつけられる。" }
+    ],
+    "warn": ["菜食主義者は vegetarian、卵・乳製品も避けるのは veganism（完全菜食主義）"],
+    "etym_note": "ラテン語 vegetare（活気づける）に由来する vegetable（野菜）から作られた vegetarian（菜食主義者）に、主義を表す -ism が付いた語。",
+    "etym_chain": [
+      { "node": "vegetable", "sub": "野菜", "era": "15世紀" },
+      { "node": "vegetarian", "sub": "菜食主義者", "era": "1840年代" },
+      { "node": "vegetarianism", "sub": "菜食主義", "era": "19世紀" }
+    ],
+    "phrases": [
+      { "en": "adopt vegetarianism", "ja": "菜食主義を取り入れる" },
+      { "en": "practice vegetarianism", "ja": "菜食を実践する" },
+      { "en": "reasons for vegetarianism", "ja": "菜食主義の理由" },
+      { "en": "strict vegetarianism", "ja": "厳格な菜食主義" },
+      { "en": "turn to vegetarianism", "ja": "菜食主義に転じる" },
+      { "en": "vegetarianism and health", "ja": "菜食主義と健康" }
+    ],
+    "related": [
+      { "en": "vegetarian", "ja": "菜食主義者" },
+      { "en": "veganism", "ja": "完全菜食主義" },
+      { "en": "diet", "ja": "食生活" },
+      { "en": "meat", "ja": "肉" }
+    ],
+    "faq": [
+      { "q": "vegetarianism と veganism の違いは？", "a": "vegetarianism（菜食主義）は肉・魚を避けますが卵や乳製品は食べることが多く、veganism（完全菜食主義）は動物性食品を一切食べません。" },
+      { "q": "菜食主義者は英語で？", "a": "vegetarian（ベジタリアン）です。vegetarianism はその「主義・考え方」を指す名詞です。" }
+    ],
+    "quiz": [
+      { "q": "vegetarianism の意味は？", "A": "菜食主義", "B": "肉食中心の食事", "C": "断食", "D": "偏食", "correct": "A" },
+      { "q": "卵や乳製品も避けるより厳格な主義は？", "A": "veganism", "B": "tourism", "C": "realism", "D": "optimism", "correct": "A" }
+    ]
+  },
+  {
+    "english": "velcro",
+    "pron": "ˈvelkroʊ",
+    "kana": "ベルクロ",
+    "hinshi": "名詞(商標)",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 velours（ビロード）+ crochet（かぎ針）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "商標・日常"],
+    "meaning_main": "面ファスナー / マジックテープ（ベルクロ）",
+    "description": "Velcro（ベルクロ）は「面ファスナー（マジックテープ）」を表す語。もとは商標名で、細かいかぎ状とループ状の面を押し当てて留める、貼ってはがせる留め具です。※本来は商標。",
+    "keywords": ["velcro 意味", "面ファスナー 英語", "マジックテープ 英語", "velcro とは"],
+    "meanings": [
+      { "hinshi": "【名詞】面ファスナー、マジックテープ", "note": "不可算・可算。かぎ状とループ状の面で着脱する留め具。※もとは商標名 Velcro" }
+    ],
+    "usages": [
+      { "title": "① 留め具として", "desc": "靴や服の着脱に使う", "example_en": "The shoes fasten with Velcro.", "example_ja": "その靴は面ファスナーで留める。" },
+      { "title": "② 動詞的に", "desc": "「ベルクロで留める」", "example_en": "She velcroed the strap tightly.", "example_ja": "彼女はストラップをしっかり面ファスナーで留めた。" }
+    ],
+    "warn": ["Velcro は本来商標名で、正しくは大文字。一般名は hook-and-loop fastener", "日本語の「マジックテープ」も別の商標名"],
+    "etym_note": "フランス語 velours（ビロード）と crochet（かぎ針）を組み合わせた造語。植物のとげが服にくっつくのを見た発明者が考案した。",
+    "etym_chain": [
+      { "node": "velours + crochet", "sub": "ビロード＋かぎ針(仏語)", "era": "1950年代" },
+      { "node": "Velcro", "sub": "商標名", "era": "現代" }
+    ],
+    "phrases": [
+      { "en": "Velcro strap", "ja": "面ファスナーのストラップ" },
+      { "en": "fasten with Velcro", "ja": "面ファスナーで留める" },
+      { "en": "Velcro shoes", "ja": "面ファスナーの靴" },
+      { "en": "a strip of Velcro", "ja": "一片の面ファスナー" },
+      { "en": "Velcro closure", "ja": "面ファスナー留め" },
+      { "en": "hook-and-loop fastener", "ja": "面ファスナー(一般名)" }
+    ],
+    "related": [
+      { "en": "fastener", "ja": "留め具" },
+      { "en": "strap", "ja": "ストラップ" },
+      { "en": "zipper", "ja": "ファスナー" },
+      { "en": "button", "ja": "ボタン" }
+    ],
+    "faq": [
+      { "q": "Velcro は普通名詞？", "a": "本来は商標名で、正式な一般名は hook-and-loop fastener（面ファスナー）です。ただし日常では小文字 velcro で一般名のように使われることも多いです。" },
+      { "q": "Velcro の仕組みは？", "a": "細かいかぎ（フック）状の面と、輪（ループ）状の面を押し当てると絡み合って留まり、引きはがすと外れる仕組みです。" }
+    ],
+    "quiz": [
+      { "q": "Velcro の意味は？", "A": "面ファスナー(マジックテープ)", "B": "接着剤", "C": "縫い針", "D": "ホチキス", "correct": "A" },
+      { "q": "Velcro の一般名(商標でない呼び方)は？", "A": "hook-and-loop fastener", "B": "zipper", "C": "safety pin", "D": "buckle", "correct": "A" }
+    ]
+  },
+  {
+    "english": "vellum",
+    "pron": "ˈveləm",
+    "kana": "ヴェラム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 velin（子牛の）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "歴史・文化"],
+    "meaning_main": "ベラム / 上質皮紙 / 子牛皮の羊皮紙",
+    "description": "vellum（ヴェラム）は「上質皮紙（ベラム）」を表す語。もとは子牛の皮から作られた高級な羊皮紙で、中世の写本や公式文書に使われました。",
+    "keywords": ["vellum 意味", "羊皮紙 英語", "上質皮紙 英語", "vellum とは"],
+    "meanings": [
+      { "hinshi": "【名詞】ベラム、上質皮紙", "note": "不可算名詞。子牛などの皮から作った上質の書写材料" },
+      { "hinshi": "【名詞】ベラム紙", "note": "その質感をまねた高級な紙" }
+    ],
+    "usages": [
+      { "title": "① 中世の書写材料", "desc": "写本や文書に使う", "example_en": "The manuscript was written on vellum.", "example_ja": "その写本はベラム（上質皮紙）に書かれていた。" },
+      { "title": "② 高級な紙として", "desc": "証書などに使う", "example_en": "The diploma was printed on vellum.", "example_ja": "その卒業証書はベラム紙に印刷されていた。" }
+    ],
+    "warn": ["parchment（羊皮紙）はより広い語で、vellum は特に子牛皮の上質なものを指した"],
+    "etym_note": "古フランス語 velin（子牛の）に由来し、ラテン語 vitulus（子牛）につながる。英語 veal（子牛肉）と同語源。",
+    "etym_chain": [
+      { "node": "vitulus", "sub": "子牛(ラテン語)", "era": "ラテン語" },
+      { "node": "velin", "sub": "子牛の(古仏語)", "era": "古フランス語" },
+      { "node": "vellum", "sub": "上質皮紙", "era": "15世紀" }
+    ],
+    "phrases": [
+      { "en": "written on vellum", "ja": "ベラムに書かれた" },
+      { "en": "a sheet of vellum", "ja": "一枚のベラム" },
+      { "en": "vellum manuscript", "ja": "ベラムの写本" },
+      { "en": "bound in vellum", "ja": "ベラムで装丁された" },
+      { "en": "fine vellum", "ja": "上質のベラム" },
+      { "en": "vellum paper", "ja": "ベラム紙" }
+    ],
+    "related": [
+      { "en": "parchment", "ja": "羊皮紙" },
+      { "en": "manuscript", "ja": "写本" },
+      { "en": "paper", "ja": "紙" },
+      { "en": "scroll", "ja": "巻物" }
+    ],
+    "faq": [
+      { "q": "vellum と parchment の違いは？", "a": "parchment（羊皮紙）は動物の皮から作る書写材料の総称、vellum はその中でも特に子牛の皮から作った上質なものを指しました。" },
+      { "q": "vellum は今も使われる？", "a": "現在では本物の皮のベラムは希少で、その質感をまねた高級紙（vellum paper）が証書や特別な印刷に使われます。" }
+    ],
+    "quiz": [
+      { "q": "vellum の意味は？", "A": "子牛皮の上質皮紙", "B": "木の板", "C": "粘土板", "D": "布地", "correct": "A" },
+      { "q": "vellum と同語源の語は？", "A": "veal(子牛肉)", "B": "velvet(ビロード)", "C": "valley(谷)", "D": "vessel(容器)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "verbosity",
+    "pron": "vɜːrˈbɒsəti",
+    "kana": "ヴァーボシティ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "verbose（冗長な）+ -ity",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文章・IT"],
+    "meaning_main": "冗長さ / 言葉数の多さ / くどさ",
+    "description": "verbosity（ヴァーボシティ）は「冗長さ・言葉数の多さ」を表す名詞。必要以上に言葉を費やしてくどい文章や話し方を指します。IT分野では「出力の詳細さ」の意味でも使います。",
+    "keywords": ["verbosity 意味", "冗長 英語", "verbose 名詞", "くどい 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】冗長さ、言葉数の多さ、くどさ", "note": "不可算名詞。必要以上に言葉が多いこと" },
+      { "hinshi": "【名詞】(IT)出力の詳細さ", "note": "ログなどの情報量の多さ（verbosity level）" }
+    ],
+    "usages": [
+      { "title": "① 文章のくどさ", "desc": "言葉が多すぎる", "example_en": "The essay suffered from unnecessary verbosity.", "example_ja": "そのエッセイは無用な冗長さに悩まされていた。" },
+      { "title": "② IT・ログで", "desc": "出力の詳細さの設定", "example_en": "Increase the verbosity to see more log details.", "example_ja": "より詳しいログを見るには詳細度を上げなさい。" }
+    ],
+    "warn": ["形容詞は verbose（冗長な）", "反対は brevity（簡潔さ）や conciseness（簡潔さ）"],
+    "etym_note": "ラテン語 verbum（言葉）に由来する形容詞 verbose（言葉数の多い）に、性質を表す -ity が付いた語。",
+    "etym_chain": [
+      { "node": "verbum", "sub": "言葉(ラテン語)", "era": "ラテン語" },
+      { "node": "verbose", "sub": "冗長な", "era": "15世紀" },
+      { "node": "verbosity", "sub": "冗長さ", "era": "16世紀" }
+    ],
+    "phrases": [
+      { "en": "unnecessary verbosity", "ja": "無用な冗長さ" },
+      { "en": "avoid verbosity", "ja": "冗長さを避ける" },
+      { "en": "verbosity level", "ja": "詳細度レベル(IT)" },
+      { "en": "reduce verbosity", "ja": "冗長さを減らす" },
+      { "en": "excessive verbosity", "ja": "過度の冗長さ" },
+      { "en": "prone to verbosity", "ja": "話がくどくなりがちな" }
+    ],
+    "related": [
+      { "en": "verbose", "ja": "冗長な" },
+      { "en": "brevity", "ja": "簡潔さ" },
+      { "en": "conciseness", "ja": "簡潔さ" },
+      { "en": "wordiness", "ja": "言葉の多さ" }
+    ],
+    "faq": [
+      { "q": "verbosity の反対語は？", "a": "brevity（簡潔さ・手短さ）や conciseness（簡潔さ）です。言葉数が少なく要点を突いていることを指します。" },
+      { "q": "IT での verbosity とは？", "a": "プログラムやログが出力する情報の「詳しさの度合い」を指します。verbosity を上げると、より詳細なメッセージが表示されます。" }
+    ],
+    "quiz": [
+      { "q": "verbosity の意味は？", "A": "冗長さ・言葉数の多さ", "B": "簡潔さ", "C": "静けさ", "D": "正確さ", "correct": "A" },
+      { "q": "verbosity の反対語は？", "A": "brevity", "B": "velocity", "C": "vanity", "D": "variety", "correct": "A" }
+    ]
+  },
+  {
+    "english": "verified",
+    "pron": "ˈverɪfaɪd",
+    "kana": "ヴェリファイド",
+    "hinshi": "形容詞 / 動詞(verify の過去・過去分詞)",
+    "ld_pos": "形容詞・動詞",
+    "ld_etym": "verify（確認する）+ -ed",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "IT頻出"],
+    "meaning_main": "確認済みの / 検証された / 認証済みの",
+    "description": "verified（ヴェリファイド）は「確認済みの・検証された」を表す語。事実や身元が正しいと確かめられた状態を表し、SNSの「認証済みアカウント」でもおなじみです。",
+    "keywords": ["verified 意味", "確認済み 英語", "verify 過去形", "認証済み 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】確認済みの、検証された", "note": "正しいと確かめられたさま" },
+      { "hinshi": "【形容詞】認証済みの", "note": "SNSなどで本人・公式と確認された" },
+      { "hinshi": "【動詞】verify（確認する）の過去・過去分詞", "note": "「確認した」「立証した」" }
+    ],
+    "usages": [
+      { "title": "① 事実の確認", "desc": "正しいと確かめる", "example_en": "The information has been verified.", "example_ja": "その情報は確認済みだ。" },
+      { "title": "② アカウント認証", "desc": "本人・公式と確認", "example_en": "She has a verified account on the platform.", "example_ja": "彼女はそのプラットフォームで認証済みアカウントを持っている。" }
+    ],
+    "warn": ["名詞は verification（確認・検証）、反対は unverified（未確認の）"],
+    "etym_note": "ラテン語 verus（真実の）+ facere（作る）に由来する verify（真実だと確かめる）の過去分詞・形容詞形。",
+    "etym_chain": [
+      { "node": "verus + facere", "sub": "真実＋作る(ラテン語)", "era": "ラテン語" },
+      { "node": "verify", "sub": "確認する", "era": "14世紀" },
+      { "node": "verified", "sub": "確認済みの", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "verified account", "ja": "認証済みアカウント" },
+      { "en": "verified information", "ja": "確認済みの情報" },
+      { "en": "independently verified", "ja": "第三者に検証された" },
+      { "en": "verified by experts", "ja": "専門家に確認された" },
+      { "en": "a verified fact", "ja": "確認済みの事実" },
+      { "en": "verified purchase", "ja": "確認済みの購入(レビュー)" }
+    ],
+    "related": [
+      { "en": "verify", "ja": "確認する" },
+      { "en": "verification", "ja": "確認・検証" },
+      { "en": "confirmed", "ja": "確認された" },
+      { "en": "unverified", "ja": "未確認の" }
+    ],
+    "faq": [
+      { "q": "verified と confirmed の違いは？", "a": "どちらも「確認された」ですが、verified は「（証拠で）正しさを検証した」、confirmed は「（改めて）確かだと裏付けた」に重点があります。" },
+      { "q": "SNS の verified account とは？", "a": "運営が本人・公式であることを確認した「認証済みアカウント」のことです。多くはチェックマークが表示されます。" }
+    ],
+    "quiz": [
+      { "q": "verified の意味は？", "A": "確認済みの・検証された", "B": "未確認の", "C": "偽の", "D": "秘密の", "correct": "A" },
+      { "q": "verified の名詞形は？", "A": "verification", "B": "verifiness", "C": "verifity", "D": "verifment", "correct": "A" }
+    ]
+  },
+  {
+    "english": "vibe",
+    "pron": "vaɪb",
+    "kana": "ヴァイブ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "vibration（振動・雰囲気）の短縮",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "口語頻出"],
+    "meaning_main": "雰囲気 / 感じ / ノリ",
+    "description": "vibe（ヴァイブ）は「雰囲気・感じ・ノリ」を表す口語。人・場所・音楽などから伝わってくる独特の空気感を指します。",
+    "keywords": ["vibe 意味", "雰囲気 英語 口語", "vibes 使い方", "good vibes"],
+    "meanings": [
+      { "hinshi": "【名詞】雰囲気、感じ、ノリ", "note": "人・場所・状況から伝わる空気感。口語。よく複数形 vibes で使う" },
+      { "hinshi": "【動詞】(口語)気が合う、くつろぐ", "note": "vibe with ... で「〜と気が合う」" }
+    ],
+    "usages": [
+      { "title": "① 雰囲気を表す", "desc": "場や人の空気感", "example_en": "This cafe has a really relaxed vibe.", "example_ja": "このカフェは本当にくつろいだ雰囲気だ。" },
+      { "title": "② 相性・ノリ", "desc": "感覚が合う", "example_en": "I got a good vibe from her.", "example_ja": "彼女から良い感じを受けた。" }
+    ],
+    "warn": ["くだけた口語。good vibes / bad vibes（良い/悪い雰囲気）が定番", "vibration（振動）を短縮したスラング由来"],
+    "etym_note": "ラテン語 vibrare（震える）に由来する vibration（振動・波動）を短縮した語。「伝わってくる波動＝雰囲気」の意味で1960年代から口語化した。",
+    "etym_chain": [
+      { "node": "vibrare", "sub": "震える(ラテン語)", "era": "ラテン語" },
+      { "node": "vibration", "sub": "振動・波動", "era": "17世紀" },
+      { "node": "vibe", "sub": "雰囲気(口語)", "era": "1960年代" }
+    ],
+    "phrases": [
+      { "en": "good vibes", "ja": "良い雰囲気" },
+      { "en": "bad vibes", "ja": "嫌な感じ" },
+      { "en": "a relaxed vibe", "ja": "くつろいだ雰囲気" },
+      { "en": "get a vibe from", "ja": "〜から雰囲気を感じ取る" },
+      { "en": "vibe check", "ja": "雰囲気の確認(俗語)" },
+      { "en": "summer vibes", "ja": "夏の雰囲気" }
+    ],
+    "related": [
+      { "en": "atmosphere", "ja": "雰囲気" },
+      { "en": "mood", "ja": "気分・雰囲気" },
+      { "en": "feeling", "ja": "感じ" },
+      { "en": "aura", "ja": "オーラ・独特の雰囲気" }
+    ],
+    "faq": [
+      { "q": "vibe と atmosphere の違いは？", "a": "どちらも「雰囲気」ですが、vibe はくだけた口語で「肌で感じるノリ・空気感」、atmosphere はより一般的・中立的な語です。" },
+      { "q": "good vibes とは？", "a": "「良い雰囲気・ポジティブな空気」という口語表現です。楽しく心地よい感じを表します。" }
+    ],
+    "quiz": [
+      { "q": "vibe の意味は？", "A": "雰囲気・感じ", "B": "契約", "C": "距離", "D": "重さ", "correct": "A" },
+      { "q": "good vibes の意味は？", "A": "良い雰囲気", "B": "強い振動", "C": "高い山", "D": "速い車", "correct": "A" }
+    ]
+  },
+  {
+    "english": "victorian",
+    "pron": "vɪkˈtɔːriən",
+    "kana": "ヴィクトリアン",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "形容詞・固有名詞",
+    "ld_etym": "Victoria（ヴィクトリア女王）+ -an",
+    "ld_level": "—",
+    "badges": ["学習者向け", "固有名詞", "歴史・様式", "形容詞"],
+    "meaning_main": "ヴィクトリア朝の / 19世紀イギリスの / (比喩)堅苦しい",
+    "description": "Victorian（ヴィクトリアン）は「ヴィクトリア朝の」を表す語。イギリスのヴィクトリア女王の時代（1837〜1901年）やその様式・価値観を指します。※固有名詞由来なので文中では大文字。",
+    "keywords": ["victorian 意味", "ヴィクトリア朝 英語", "victorian style", "victorian とは"],
+    "meanings": [
+      { "hinshi": "【形容詞】ヴィクトリア朝の、19世紀イギリスの", "note": "ヴィクトリア女王の治世(1837〜1901)に関する。※実際は Victorian と大文字" },
+      { "hinshi": "【形容詞】(比喩)堅苦しい、道徳にうるさい", "note": "当時の厳格な価値観のイメージから" },
+      { "hinshi": "【名詞】ヴィクトリア朝の人・建築", "note": "その時代の人やスタイル" }
+    ],
+    "usages": [
+      { "title": "① 時代・様式として", "desc": "19世紀英国の文化", "example_en": "They live in a Victorian house.", "example_ja": "彼らはヴィクトリア朝様式の家に住んでいる。" },
+      { "title": "② 比喩的に", "desc": "堅苦しい道徳観", "example_en": "He has rather Victorian attitudes.", "example_ja": "彼はやや堅苦しい（旧時代的な）考え方をしている。" }
+    ],
+    "warn": ["Victorian は固有名詞由来なので文中では大文字で始めます"],
+    "etym_note": "イギリスの Victoria（ヴィクトリア女王）の名に、「〜の時代の」を表す -an が付いた語。彼女の治世が英国の産業・文化の最盛期だった。",
+    "etym_chain": [
+      { "node": "Victoria", "sub": "ヴィクトリア女王", "era": "1819〜1901" },
+      { "node": "Victorian", "sub": "ヴィクトリア朝の", "era": "19世紀" }
+    ],
+    "phrases": [
+      { "en": "Victorian era", "ja": "ヴィクトリア朝時代" },
+      { "en": "Victorian house", "ja": "ヴィクトリア朝様式の家" },
+      { "en": "Victorian literature", "ja": "ヴィクトリア朝文学" },
+      { "en": "Victorian values", "ja": "ヴィクトリア朝の価値観" },
+      { "en": "Victorian architecture", "ja": "ヴィクトリア朝建築" },
+      { "en": "late Victorian", "ja": "ヴィクトリア朝後期の" }
+    ],
+    "related": [
+      { "en": "victoria", "ja": "ヴィクトリア(女王)" },
+      { "en": "era", "ja": "時代" },
+      { "en": "british", "ja": "イギリスの" },
+      { "en": "edwardian", "ja": "エドワード朝の" }
+    ],
+    "faq": [
+      { "q": "Victorian era はいつ？", "a": "ヴィクトリア女王が在位した1837年から1901年までのイギリスの時代を指します。産業革命が進み大英帝国が最盛期を迎えた時代です。" },
+      { "q": "「Victorian な考え」とは？", "a": "比喩的に「堅苦しく道徳にうるさい・旧時代的な」考え方を指すことがあります。当時の厳格な価値観のイメージから来ています。" }
+    ],
+    "quiz": [
+      { "q": "Victorian の意味は？", "A": "ヴィクトリア朝(19世紀英国)の", "B": "古代ローマの", "C": "中世フランスの", "D": "現代アメリカの", "correct": "A" },
+      { "q": "Victorian era の由来となった人物は？", "A": "ヴィクトリア女王", "B": "エリザベス1世", "C": "ナポレオン", "D": "リンカーン", "correct": "A" }
+    ]
+  },
+  {
+    "english": "vindictively",
+    "pron": "vɪnˈdɪktɪvli",
+    "kana": "ヴィンディクティヴリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "vindictive（復讐心のある）+ -ly",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文章表現"],
+    "meaning_main": "執念深く / 恨みがましく / 報復的に",
+    "description": "vindictively（ヴィンディクティヴリー）は「執念深く・恨みがましく」を表す副詞。相手に仕返しをしようとする、復讐心のこもった態度で行う様子を表します。",
+    "keywords": ["vindictively 意味", "執念深い 英語", "復讐 英語", "vindictive 副詞"],
+    "meanings": [
+      { "hinshi": "【副詞】執念深く、恨みがましく、報復的に", "note": "仕返し・復讐の気持ちを込めて" }
+    ],
+    "usages": [
+      { "title": "① 仕返しとして", "desc": "復讐心をもって", "example_en": "He acted vindictively toward his former partner.", "example_ja": "彼は元の相手に対して執念深くふるまった。" },
+      { "title": "② 恨みを込めて", "desc": "悪意ある報復", "example_en": "She vindictively spread rumors about him.", "example_ja": "彼女は恨みがましく彼のうわさを広めた。" }
+    ],
+    "warn": ["形容詞は vindictive（執念深い）、名詞は vindictiveness（執念深さ）"],
+    "etym_note": "ラテン語 vindicta（復讐）に由来する形容詞 vindictive（復讐心のある）に、副詞化の -ly が付いた語。",
+    "etym_chain": [
+      { "node": "vindicta", "sub": "復讐(ラテン語)", "era": "ラテン語" },
+      { "node": "vindictive", "sub": "復讐心のある", "era": "17世紀" },
+      { "node": "vindictively", "sub": "執念深く", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "act vindictively", "ja": "執念深くふるまう" },
+      { "en": "behave vindictively", "ja": "報復的に行動する" },
+      { "en": "vindictively cruel", "ja": "恨みがましく残酷な" },
+      { "en": "speak vindictively", "ja": "恨みを込めて話す" },
+      { "en": "respond vindictively", "ja": "報復的に応じる" },
+      { "en": "vindictively pursue", "ja": "執念深く追及する" }
+    ],
+    "related": [
+      { "en": "vindictive", "ja": "執念深い" },
+      { "en": "vengefully", "ja": "復讐心をもって" },
+      { "en": "spitefully", "ja": "意地悪く" },
+      { "en": "forgivingly", "ja": "寛大に" }
+    ],
+    "faq": [
+      { "q": "vindictively と spitefully の違いは？", "a": "どちらも悪意を表しますが、vindictively は「復讐・仕返しの気持ちで」、spitefully は「（相手を困らせる）意地悪な気持ちで」に重点があります。" },
+      { "q": "vindictively の形容詞・名詞形は？", "a": "形容詞は vindictive（執念深い・復讐心のある）、名詞は vindictiveness（執念深さ）です。" }
+    ],
+    "quiz": [
+      { "q": "vindictively の意味は？", "A": "執念深く・報復的に", "B": "寛大に", "C": "陽気に", "D": "慎重に", "correct": "A" },
+      { "q": "vindictively の形容詞形は？", "A": "vindictive", "B": "vindicative", "C": "vindicent", "D": "vindicial", "correct": "A" }
+    ]
+  },
+  {
+    "english": "vip",
+    "pron": "ˌviː aɪ ˈpiː",
+    "kana": "ヴィーアイピー",
+    "hinshi": "名詞(頭字語)",
+    "ld_pos": "名詞",
+    "ld_etym": "Very Important Person の頭字語",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "頭字語"],
+    "meaning_main": "要人 / 重要人物（VIP）",
+    "description": "VIP（ヴィーアイピー）は Very Important Person の略で「要人・重要人物」を指します。特別な待遇を受ける大切な客や有名人などを表します。",
+    "keywords": ["vip 意味", "要人 英語", "vip 正式名称", "vip とは"],
+    "meanings": [
+      { "hinshi": "【名詞】要人、重要人物(VIP)", "note": "可算名詞。Very Important Person の頭字語。特別扱いされる大切な人" }
+    ],
+    "usages": [
+      { "title": "① 大切な客・要人", "desc": "特別待遇を受ける人", "example_en": "The hotel treated them as VIPs.", "example_ja": "ホテルは彼らを要人として扱った。" },
+      { "title": "② 形容詞的に", "desc": "VIP席・VIP待遇", "example_en": "They were given VIP seats at the concert.", "example_ja": "彼らはコンサートでVIP席を与えられた。" }
+    ],
+    "warn": ["VIP は頭字語。複数形は VIPs", "しばしば形容詞的に VIP room / VIP treatment のように使う"],
+    "etym_note": "Very（非常に）Important（重要な）Person（人物）の頭文字を取った頭字語。20世紀に軍や外交で使われ始め、一般化した。",
+    "etym_chain": [
+      { "node": "Very Important Person", "sub": "正式名称", "era": "20世紀" },
+      { "node": "VIP", "sub": "頭字語", "era": "現代" }
+    ],
+    "phrases": [
+      { "en": "VIP treatment", "ja": "VIP待遇" },
+      { "en": "VIP room", "ja": "VIPルーム" },
+      { "en": "VIP guest", "ja": "特別なゲスト" },
+      { "en": "VIP seats", "ja": "VIP席" },
+      { "en": "treat as a VIP", "ja": "要人として扱う" },
+      { "en": "a VIP lounge", "ja": "VIPラウンジ" }
+    ],
+    "related": [
+      { "en": "celebrity", "ja": "有名人" },
+      { "en": "guest", "ja": "客" },
+      { "en": "important", "ja": "重要な" },
+      { "en": "dignitary", "ja": "高位の人・要人" }
+    ],
+    "faq": [
+      { "q": "VIP は何の略？", "a": "Very Important Person（非常に重要な人物＝要人）の略です。特別な待遇を受ける大切な客や有名人を指します。" },
+      { "q": "VIP treatment とは？", "a": "「特別待遇・手厚いもてなし」のことです。一般客とは別の特別なサービスを受けることを表します。" }
+    ],
+    "quiz": [
+      { "q": "VIP は何の略？", "A": "非常に重要な人物", "B": "映像処理装置", "C": "国際貿易協定", "D": "仮想現実プログラム", "correct": "A" },
+      { "q": "VIP treatment の意味は？", "A": "特別待遇", "B": "健康診断", "C": "税金の控除", "D": "交通違反", "correct": "A" }
+    ]
+  },
+  {
+    "english": "vituperation",
+    "pron": "vɪˌtuːpəˈreɪʃən",
+    "kana": "ヴィテューパレイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 vituperare（非難する）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文語"],
+    "meaning_main": "痛烈な非難 / 罵倒 / ののしり",
+    "description": "vituperation（ヴィテューパレイション）は「痛烈な非難・罵倒」を表す文語的な名詞。激しく厳しい言葉で相手をののしることを指します。",
+    "keywords": ["vituperation 意味", "罵倒 英語", "痛烈な非難 英語", "vituperation とは"],
+    "meanings": [
+      { "hinshi": "【名詞】痛烈な非難、罵倒、ののしり", "note": "不可算名詞。激しく厳しい言葉で責め立てること。文語的" }
+    ],
+    "usages": [
+      { "title": "① 激しい非難", "desc": "厳しい言葉で責める", "example_en": "The article drew vituperation from critics.", "example_ja": "その記事は評論家から痛烈な非難を浴びた。" },
+      { "title": "② 罵倒の応酬", "desc": "ののしり合い", "example_en": "The debate descended into mutual vituperation.", "example_ja": "その討論は互いの罵倒合戦に成り下がった。" }
+    ],
+    "warn": ["やや古風・文語的な語。動詞は vituperate（罵倒する）、形容詞は vituperative（口汚い）"],
+    "etym_note": "ラテン語 vituperare（vitium「欠点」+ parare「用意する」＝欠点をあげつらう→非難する）に由来する語。",
+    "etym_chain": [
+      { "node": "vituperare", "sub": "非難する(ラテン語)", "era": "ラテン語" },
+      { "node": "vituperation", "sub": "痛烈な非難", "era": "15世紀" }
+    ],
+    "phrases": [
+      { "en": "a torrent of vituperation", "ja": "非難の集中砲火" },
+      { "en": "draw vituperation", "ja": "痛烈な非難を浴びる" },
+      { "en": "mutual vituperation", "ja": "互いの罵倒" },
+      { "en": "public vituperation", "ja": "公然たる罵倒" },
+      { "en": "bitter vituperation", "ja": "辛らつな非難" },
+      { "en": "subject to vituperation", "ja": "罵倒の的になる" }
+    ],
+    "related": [
+      { "en": "abuse", "ja": "罵倒・悪口" },
+      { "en": "condemnation", "ja": "非難" },
+      { "en": "invective", "ja": "毒舌・罵倒" },
+      { "en": "praise", "ja": "称賛" }
+    ],
+    "faq": [
+      { "q": "vituperation と criticism の違いは？", "a": "criticism は一般的な「批判」ですが、vituperation は「口汚くののしるような激しい非難・罵倒」で、感情的で攻撃的な語です。" },
+      { "q": "vituperation の動詞・形容詞形は？", "a": "動詞は vituperate（罵倒する）、形容詞は vituperative（口汚い・罵倒的な）です。" }
+    ],
+    "quiz": [
+      { "q": "vituperation の意味は？", "A": "痛烈な非難・罵倒", "B": "温かい称賛", "C": "静かな祈り", "D": "丁寧な依頼", "correct": "A" },
+      { "q": "vituperation と近い意味の語は？", "A": "abuse(罵倒)", "B": "praise(称賛)", "C": "comfort(慰め)", "D": "gratitude(感謝)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "voice-over",
+    "pron": "ˈvɔɪsoʊvər",
+    "kana": "ヴォイスオーバー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "voice（声）+ over（かぶせて）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "映像・放送"],
+    "meaning_main": "ナレーション / 声のかぶせ / ボイスオーバー",
+    "description": "voice-over（ヴォイスオーバー）は「ナレーション・声のかぶせ」を表す語。映像に映らない話者の声を映像にかぶせて流す手法や、その声を指します。",
+    "keywords": ["voice-over 意味", "ナレーション 英語", "ボイスオーバー とは", "voiceover"],
+    "meanings": [
+      { "hinshi": "【名詞】ナレーション、声のかぶせ", "note": "可算・不可算。画面に映らない話者の声を映像にかぶせるもの" }
+    ],
+    "usages": [
+      { "title": "① 映像のナレーション", "desc": "画面外の声", "example_en": "The documentary uses a calm voice-over.", "example_ja": "そのドキュメンタリーは落ち着いたナレーションを使っている。" },
+      { "title": "② 仕事として", "desc": "声優・ナレーションの仕事", "example_en": "She does voice-over work for commercials.", "example_ja": "彼女はCMのナレーションの仕事をしている。" }
+    ],
+    "warn": ["voice-over / voiceover どちらの表記もある", "画面外の解説の声で、口が映る dubbing（吹き替え）とは区別される"],
+    "etym_note": "voice（声）と over（〜の上にかぶせて）を組み合わせた語。映像の「上に声をかぶせる」ことから。",
+    "etym_chain": [
+      { "node": "voice + over", "sub": "声＋かぶせて", "era": "20世紀" },
+      { "node": "voice-over", "sub": "ナレーション", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "do a voice-over", "ja": "ナレーションを担当する" },
+      { "en": "voice-over artist", "ja": "ナレーター・声優" },
+      { "en": "add a voice-over", "ja": "ナレーションを加える" },
+      { "en": "voice-over narration", "ja": "ナレーションの声" },
+      { "en": "record a voice-over", "ja": "ナレーションを録音する" },
+      { "en": "voice-over work", "ja": "ナレーションの仕事" }
+    ],
+    "related": [
+      { "en": "narration", "ja": "ナレーション" },
+      { "en": "dubbing", "ja": "吹き替え" },
+      { "en": "voice", "ja": "声" },
+      { "en": "commentary", "ja": "解説" }
+    ],
+    "faq": [
+      { "q": "voice-over と dubbing の違いは？", "a": "voice-over は画面外の解説やナレーションの声をかぶせること、dubbing（吹き替え）は登場人物のセリフを別言語などの声に差し替えることです。" },
+      { "q": "voice-over は1語？2語？", "a": "voice-over（ハイフンあり）でも voiceover（1語）でも書かれます。どちらも使われる表記です。" }
+    ],
+    "quiz": [
+      { "q": "voice-over の意味は？", "A": "画面外の声・ナレーション", "B": "字幕", "C": "効果音", "D": "背景音楽", "correct": "A" },
+      { "q": "voice-over は何と何の複合語？", "A": "voice + over", "B": "voice + all", "C": "vice + over", "D": "voice + off", "correct": "A" }
+    ]
+  },
+  {
+    "english": "vomiting",
+    "pron": "ˈvɒmɪtɪŋ",
+    "kana": "ヴォミティング",
+    "hinshi": "名詞 / 動詞(vomit の現在分詞)",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "vomit（吐く）+ -ing",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "医学・日常"],
+    "meaning_main": "嘔吐 / 吐くこと",
+    "description": "vomiting（ヴォミティング）は「嘔吐・吐くこと」を表す語。胃の中のものを口から吐き出すことを指し、体調不良や病気の症状として使われます。",
+    "keywords": ["vomiting 意味", "嘔吐 英語", "vomit 現在分詞", "吐く 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】嘔吐、吐くこと", "note": "不可算名詞。胃の中のものを口から吐き出すこと" },
+      { "hinshi": "【動詞】vomit（吐く）の現在分詞・動名詞", "note": "「吐いている」「吐くこと」" }
+    ],
+    "usages": [
+      { "title": "① 症状として", "desc": "体調不良のサイン", "example_en": "Nausea and vomiting are common symptoms.", "example_ja": "吐き気と嘔吐はよくある症状だ。" },
+      { "title": "② 動作として", "desc": "吐き続ける", "example_en": "He kept vomiting all night.", "example_ja": "彼は一晩中吐き続けた。" }
+    ],
+    "warn": ["名詞 vomit は「吐いたもの（吐しゃ物）」も指す", "throw up はよりくだけた言い方"],
+    "etym_note": "ラテン語 vomere（吐く）に由来する動詞 vomit（吐く）の -ing 形。名詞・現在分詞として使われる。",
+    "etym_chain": [
+      { "node": "vomere", "sub": "吐く(ラテン語)", "era": "ラテン語" },
+      { "node": "vomit", "sub": "吐く", "era": "14世紀" },
+      { "node": "vomiting", "sub": "嘔吐", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "nausea and vomiting", "ja": "吐き気と嘔吐" },
+      { "en": "cause vomiting", "ja": "嘔吐を引き起こす" },
+      { "en": "stop vomiting", "ja": "吐くのが止まる" },
+      { "en": "vomiting and diarrhea", "ja": "嘔吐と下痢" },
+      { "en": "persistent vomiting", "ja": "続く嘔吐" },
+      { "en": "induce vomiting", "ja": "嘔吐を促す" }
+    ],
+    "related": [
+      { "en": "vomit", "ja": "吐く・吐しゃ物" },
+      { "en": "nausea", "ja": "吐き気" },
+      { "en": "throw up", "ja": "吐く(口語)" },
+      { "en": "sickness", "ja": "吐き気・病気" }
+    ],
+    "faq": [
+      { "q": "vomiting と nausea の違いは？", "a": "nausea は「吐き気（吐きそうな感覚）」、vomiting は実際に「吐くこと（嘔吐）」です。吐き気があっても必ず嘔吐するとは限りません。" },
+      { "q": "vomiting と throw up は同じ？", "a": "意味は同じ「吐くこと」ですが、vomiting はやや医学的・正式、throw up はくだけた口語表現です。" }
+    ],
+    "quiz": [
+      { "q": "vomiting の意味は？", "A": "嘔吐・吐くこと", "B": "せき", "C": "くしゃみ", "D": "発熱", "correct": "A" },
+      { "q": "vomiting のくだけた言い換えは？", "A": "throw up", "B": "take off", "C": "give in", "D": "look up", "correct": "A" }
+    ]
+  },
+  {
+    "english": "waffle",
+    "pron": "ˈwɒfəl",
+    "kana": "ワッフル",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "オランダ語 wafel（ワッフル）から",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "食・口語"],
+    "meaning_main": "ワッフル（お菓子）/（英）だらだら話す・要領を得ない話",
+    "description": "waffle（ワッフル）は格子模様の焼き菓子「ワッフル」を表す名詞。英国口語では「要領を得ずだらだら話す（話）」の意味でも使われます。",
+    "keywords": ["waffle 意味", "ワッフル 英語", "だらだら話す 英語", "waffle 動詞"],
+    "meanings": [
+      { "hinshi": "【名詞】ワッフル", "note": "可算名詞。格子模様に焼いた菓子・パン" },
+      { "hinshi": "【動詞・名詞】(英)だらだら話す、要領を得ない話", "note": "中身なく長々と話すこと" },
+      { "hinshi": "【動詞】(米)言を左右にする、迷う", "note": "はっきり決めずに態度を変える" }
+    ],
+    "usages": [
+      { "title": "① 食べ物として", "desc": "格子模様の焼き菓子", "example_en": "We had waffles with syrup for breakfast.", "example_ja": "私たちは朝食にシロップをかけたワッフルを食べた。" },
+      { "title": "② だらだら話す(英)", "desc": "中身なく長々と", "example_en": "Stop waffling and get to the point.", "example_ja": "だらだら話すのはやめて要点を言って。" }
+    ],
+    "warn": ["英国口語では「要領を得ない話」、米国では「(態度を)ぐらつかせる」の意味が強い"],
+    "etym_note": "オランダ語 wafel（ワッフル）に由来し、菓子の名として英語に入った。「だらだら話す」の意味は別系統の擬音語 waff（吠える）から発展したとされる。",
+    "etym_chain": [
+      { "node": "wafel", "sub": "ワッフル(オランダ語)", "era": "18世紀" },
+      { "node": "waffle", "sub": "ワッフル", "era": "18世紀" },
+      { "node": "waffle", "sub": "だらだら話す", "era": "19世紀" }
+    ],
+    "phrases": [
+      { "en": "waffle with syrup", "ja": "シロップ入りワッフル" },
+      { "en": "a Belgian waffle", "ja": "ベルギーワッフル" },
+      { "en": "stop waffling", "ja": "だらだら話すのをやめる" },
+      { "en": "waffle on", "ja": "だらだら話し続ける" },
+      { "en": "waffle iron", "ja": "ワッフルメーカー" },
+      { "en": "political waffle", "ja": "政治家の空虚な言葉" }
+    ],
+    "related": [
+      { "en": "pancake", "ja": "パンケーキ" },
+      { "en": "ramble", "ja": "とりとめなく話す" },
+      { "en": "hesitate", "ja": "ためらう" },
+      { "en": "syrup", "ja": "シロップ" }
+    ],
+    "faq": [
+      { "q": "waffle には食べ物以外の意味がある？", "a": "はい。英国口語では「要領を得ずだらだら話す（話）」、米国口語では「はっきり決めず態度をぐらつかせる」という意味でも使います。" },
+      { "q": "waffle iron とは？", "a": "ワッフルを焼くための、格子模様の型がついた器具（ワッフルメーカー）のことです。" }
+    ],
+    "quiz": [
+      { "q": "waffle（食べ物）の意味は？", "A": "格子模様の焼き菓子", "B": "冷たい飲み物", "C": "辛い料理", "D": "揚げ物", "correct": "A" },
+      { "q": "英国口語での waffle の意味は？", "A": "だらだら要領を得ず話す", "B": "大声で歌う", "C": "静かに眠る", "D": "速く走る", "correct": "A" }
+    ]
+  }
+]
