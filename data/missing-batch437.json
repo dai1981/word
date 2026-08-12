@@ -1,0 +1,997 @@
+[
+  {
+    "english": "reparable",
+    "pron": "ˈrɛpərəbəl",
+    "kana": "レパラブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 reparare（修理する）+ -able",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "上級"],
+    "meaning_main": "修復できる・直せる・償える",
+    "description": "reparable（レパラブル）は「修復できる・直せる・償える」。壊れた物や損害が回復可能であることを表す語です。反対は irreparable。意味・使い方・例文を解説します。",
+    "keywords": ["reparable 意味", "修復できる", "irreparable 反対", "償える"],
+    "meanings": [
+      { "hinshi": "【形容詞】修復できる・直せる", "note": "壊れた物・損害・関係などが元に戻せる。反対は irreparable" },
+      { "hinshi": "【形容詞】償える・回復可能な", "note": "損害・過ちが埋め合わせできる" }
+    ],
+    "usages": [
+      { "title": "① 損害が回復可能", "desc": "直せる状態", "example_en": "Fortunately, the damage was reparable.", "example_ja": "幸い、その損害は修復可能だった。" },
+      { "title": "② irreparable との対比", "desc": "取り返しがつく", "example_en": "The harm was reparable, not permanent.", "example_ja": "その害は取り返しのつくもので、永続的ではなかった。" }
+    ],
+    "warn": ["反対の irreparable（取り返しのつかない）のほうがよく使われる。物の修理は repairable も使うが、reparable は損害・関係にも広く使う"],
+    "etym_note": "ラテン語 reparare（re-「再び」+ parare「整える」＝修理する）に -able が付いた語。repair・prepare と同語源。",
+    "etym_chain": [
+      { "node": "reparare", "sub": "修理する", "era": "ラテン語" },
+      { "node": "reparabilis", "sub": "修復できる", "era": "ラテン語" },
+      { "node": "reparable", "sub": "修復できる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reparable damage", "ja": "修復できる損害" },
+      { "en": "easily reparable", "ja": "容易に直せる" },
+      { "en": "reparable harm", "ja": "償える害" },
+      { "en": "a reparable loss", "ja": "取り返しのつく損失" },
+      { "en": "reparable and minor", "ja": "軽微で直せる" },
+      { "en": "considered reparable", "ja": "修復可能とみなされる" }
+    ],
+    "related": [
+      { "en": "repairable", "ja": "修理できる" },
+      { "en": "irreparable", "ja": "取り返しのつかない（反対）" },
+      { "en": "repair", "ja": "修理する" },
+      { "en": "restorable", "ja": "復元できる" }
+    ],
+    "faq": [
+      { "q": "reparable と repairable の違いは？", "a": "どちらも『直せる』ですが、repairable は主に物の物理的な修理に使い、reparable は物のほか損害・過ち・関係など抽象的なものが『償える・回復できる』ことにも広く使います。" },
+      { "q": "反対の意味の語は？", "a": "irreparable で「取り返しのつかない・修復不能な」という意味です。irreparable damage（取り返しのつかない損害）のように、こちらのほうがよく使われます。" }
+    ],
+    "quiz": [
+      { "q": "reparable の意味は？", "A": "修復できる・直せる", "B": "取り返しのつかない", "C": "高価な", "D": "透明な", "correct": "A" },
+      { "q": "reparable の反対語は？", "A": "irreparable", "B": "unreparable", "C": "nonreparable", "D": "disreparable", "correct": "A" }
+    ]
+  },
+  {
+    "english": "repeatability",
+    "pron": "rɪˌpiːtəˈbɪləti",
+    "kana": "リピータビリティ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "repeatable（繰り返せる）+ -ity",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "科学"],
+    "meaning_main": "再現性・繰り返し可能性",
+    "description": "repeatability（リピータビリティ）は「再現性・繰り返し可能性」。同じ条件で何度行っても同じ結果が得られる性質を指します。科学・品質管理で重要な語です。意味・使い方を解説します。",
+    "keywords": ["repeatability 意味", "再現性", "繰り返し可能性", "repeatable"],
+    "meanings": [
+      { "hinshi": "【名詞】再現性・繰り返し可能性", "note": "同じ条件で繰り返しても同じ結果が得られる性質。実験・測定・品質管理で重視される。不可算" }
+    ],
+    "usages": [
+      { "title": "① 実験・測定で", "desc": "結果の安定性", "example_en": "The experiment showed high repeatability.", "example_ja": "その実験は高い再現性を示した。" },
+      { "title": "② 品質・工程で", "desc": "同じ品質を保つ", "example_en": "Repeatability is key in manufacturing.", "example_ja": "再現性は製造において鍵となる。" }
+    ],
+    "warn": ["reproducibility（再現性）とも近いが、repeatability は『同じ条件・同じ人が繰り返した場合』の一致度を指すことが多い"],
+    "etym_note": "repeat（re-「再び」+ petere「求める」＝繰り返す）由来の repeatable に -ity が付いた語。petition・compete と同じ pet を含む。",
+    "etym_chain": [
+      { "node": "repetere", "sub": "繰り返す", "era": "ラテン語" },
+      { "node": "repeatable", "sub": "繰り返せる", "era": "近代英語" },
+      { "node": "repeatability", "sub": "再現性", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "high repeatability", "ja": "高い再現性" },
+      { "en": "poor repeatability", "ja": "低い再現性" },
+      { "en": "test for repeatability", "ja": "再現性を検証する" },
+      { "en": "measurement repeatability", "ja": "測定の再現性" },
+      { "en": "ensure repeatability", "ja": "再現性を確保する" },
+      { "en": "repeatability of results", "ja": "結果の再現性" }
+    ],
+    "related": [
+      { "en": "repeatable", "ja": "繰り返せる" },
+      { "en": "reproducibility", "ja": "再現性" },
+      { "en": "reliability", "ja": "信頼性" },
+      { "en": "consistency", "ja": "一貫性" }
+    ],
+    "faq": [
+      { "q": "repeatability と reproducibility の違いは？", "a": "どちらも『再現性』ですが、repeatability は『同じ条件・同じ装置・同じ人が繰り返した場合』の一致度、reproducibility は『別の人・別の場所・別の装置で行った場合』の一致度を指すことが多いです。" },
+      { "q": "なぜ重要なのですか？", "a": "実験結果や測定・製品の品質が信頼できるかどうかを示すからです。再現性が高いほど、その結果や工程は安定していて信用できると評価されます。" }
+    ],
+    "quiz": [
+      { "q": "repeatability の意味は？", "A": "再現性・繰り返し可能性", "B": "独自性", "C": "多様性", "D": "危険性", "correct": "A" },
+      { "q": "repeatability が重視される分野は？", "A": "実験・品質管理", "B": "詩の創作", "C": "絵画鑑賞", "D": "旅行計画", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reputedly",
+    "pron": "rɪˈpjuːtɪdli",
+    "kana": "リピューテッドリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "reputed（〜と言われている）+ -ly",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "文語"],
+    "meaning_main": "うわさでは・世間で言われるところでは",
+    "description": "reputedly（リピューテッドリー）は「うわさでは・世間で言われるところによると」。確証はないが一般にそう言われている、と述べる副詞です。意味・使い方・例文を解説します。",
+    "keywords": ["reputedly 意味", "うわさでは", "reputedly 使い方", "言われるところでは"],
+    "meanings": [
+      { "hinshi": "【副詞】うわさでは・世間で言われるところでは", "note": "確証はないが一般にそう信じられている、と伝える。allegedly に近い" }
+    ],
+    "usages": [
+      { "title": "① うわさを伝える", "desc": "確証なしの伝聞", "example_en": "The house is reputedly haunted.", "example_ja": "その家は幽霊が出ると言われている。" },
+      { "title": "② 評判を述べる", "desc": "世間の評価", "example_en": "He is reputedly one of the richest men in town.", "example_ja": "彼は町で最も裕福な人物の一人だと言われている。" }
+    ],
+    "warn": ["supposedly / allegedly と近い『〜らしい・〜だそうだ』。話し手が真偽を保証しないニュアンス"],
+    "etym_note": "ラテン語 reputare（re-「再び」+ putare「考える」＝よく考える→評価する）由来の reputed に -ly が付いた語。reputation・compute と同じ put を含む。",
+    "etym_chain": [
+      { "node": "reputare", "sub": "評価する", "era": "ラテン語" },
+      { "node": "reputed", "sub": "〜と言われる", "era": "中英語" },
+      { "node": "reputedly", "sub": "うわさでは", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reputedly haunted", "ja": "幽霊が出ると言われる" },
+      { "en": "reputedly the best", "ja": "最高と言われる" },
+      { "en": "reputedly worth millions", "ja": "数百万の価値があるとされる" },
+      { "en": "reputedly wrote", "ja": "書いたと言われる" },
+      { "en": "reputedly ancient", "ja": "古代のものとされる" },
+      { "en": "reputedly owned by", "ja": "〜が所有するとされる" }
+    ],
+    "related": [
+      { "en": "reputed", "ja": "〜と言われている" },
+      { "en": "reputation", "ja": "評判" },
+      { "en": "allegedly", "ja": "申し立てによると" },
+      { "en": "supposedly", "ja": "〜らしい・たぶん" }
+    ],
+    "faq": [
+      { "q": "reputedly と allegedly の違いは？", "a": "reputedly は『世間でそう言われている・評判では』、allegedly は『（証拠なしに）申し立てによれば』です。allegedly は特に不確かな主張や疑惑に、reputedly は一般的な評判・うわさに使う傾向があります。" },
+      { "q": "reputedly はどんなときに使いますか？", "a": "確証はないけれど一般にそう信じられている・言われていることを、話し手が真偽を保証せずに伝えるときに使います。The temple is reputedly 1000 years old.（その寺は千年前のものと言われている）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "reputedly の意味は？", "A": "うわさでは・世間で言われるところでは", "B": "確実に", "C": "偶然に", "D": "急いで", "correct": "A" },
+      { "q": "reputedly に近い意味の語は？", "A": "supposedly", "B": "certainly", "C": "exactly", "D": "personally", "correct": "A" }
+    ]
+  },
+  {
+    "english": "resection",
+    "pron": "rɪˈsɛkʃən",
+    "kana": "リセクション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 resecare（切り取る）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "医学"],
+    "meaning_main": "切除（手術で臓器や組織の一部を切り取ること）",
+    "description": "resection（リセクション）は「切除」。手術で臓器や組織の一部（または全部）を切り取ることを指す医学用語です。動詞は resect。意味・使い方・例文を解説します。",
+    "keywords": ["resection 意味", "切除", "resect", "手術"],
+    "meanings": [
+      { "hinshi": "【名詞】切除", "note": "手術で臓器・組織・骨などの一部を切り取ること。tumor resection（腫瘍の切除）" }
+    ],
+    "usages": [
+      { "title": "① 外科手術で", "desc": "組織を切り取る", "example_en": "The surgeon performed a resection of the tumor.", "example_ja": "外科医は腫瘍の切除を行った。" },
+      { "title": "② 臓器の一部を切除", "desc": "部分切除など", "example_en": "He underwent a resection of the intestine.", "example_ja": "彼は腸の切除手術を受けた。" }
+    ],
+    "warn": ["動詞は resect（切除する）。excision（切除・摘出）と近いが、resection は臓器・組織の一部を切り取る手術に多い"],
+    "etym_note": "ラテン語 resecare（re-「後ろへ」+ secare「切る」＝切り取る）由来。section・dissect と同じ sec を含む。",
+    "etym_chain": [
+      { "node": "resecare", "sub": "切り取る", "era": "ラテン語" },
+      { "node": "resectio", "sub": "切除", "era": "ラテン語" },
+      { "node": "resection", "sub": "切除", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "tumor resection", "ja": "腫瘍切除" },
+      { "en": "surgical resection", "ja": "外科的切除" },
+      { "en": "partial resection", "ja": "部分切除" },
+      { "en": "bowel resection", "ja": "腸切除" },
+      { "en": "undergo a resection", "ja": "切除手術を受ける" },
+      { "en": "complete resection", "ja": "完全切除" }
+    ],
+    "related": [
+      { "en": "resect", "ja": "切除する" },
+      { "en": "excision", "ja": "切除・摘出" },
+      { "en": "surgery", "ja": "外科手術" },
+      { "en": "tumor", "ja": "腫瘍" }
+    ],
+    "faq": [
+      { "q": "resection とは何ですか？", "a": "手術で臓器・組織・骨などの一部（または全部）を切り取ることを指す医学用語です。腫瘍やがんの治療、病変部の除去などで行われます。tumor resection で「腫瘍切除」です。" },
+      { "q": "resection と excision の違いは？", "a": "どちらも『切除』ですが、resection は主に臓器や組織の『一部を切り取る手術』、excision は病変やしこりなどを『（周囲ごと）摘出する』ことに使う傾向があります。" }
+    ],
+    "quiz": [
+      { "q": "resection の意味は？", "A": "切除（手術で組織を切り取ること）", "B": "縫合", "C": "麻酔", "D": "消毒", "correct": "A" },
+      { "q": "resection の動詞形は？", "A": "resect", "B": "resection", "C": "resective", "D": "resecting", "correct": "A" }
+    ]
+  },
+  {
+    "english": "resistible",
+    "pron": "rɪˈzɪstəbəl",
+    "kana": "リジスティブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "resist（抵抗する）+ -ible",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "上級"],
+    "meaning_main": "抵抗できる・抗（あらが）える",
+    "description": "resistible（リジスティブル）は「抵抗できる・抗（あらが）える」。誘惑や力に対して耐えられる、という意味です。反対の irresistible（抗しがたい）のほうが有名です。意味・使い方を解説します。",
+    "keywords": ["resistible 意味", "抵抗できる", "irresistible 反対", "抗える"],
+    "meanings": [
+      { "hinshi": "【形容詞】抵抗できる・抗える", "note": "誘惑・力・流れなどに耐えられる。反対は irresistible（抗しがたい）" }
+    ],
+    "usages": [
+      { "title": "① 抵抗可能な", "desc": "耐えられる", "example_en": "The temptation was resistible after all.", "example_ja": "その誘惑は結局、抗えるものだった。" },
+      { "title": "② irresistible との対比", "desc": "抗しがたい の反対", "example_en": "Unlike his charm, the offer was quite resistible.", "example_ja": "彼の魅力と違い、その申し出は十分に断れるものだった。" }
+    ],
+    "warn": ["日常では反対語 irresistible（抗しがたい・魅力的でたまらない）のほうがはるかによく使われる"],
+    "etym_note": "ラテン語 resistere（re-「対して」+ sistere「立つ」＝立ち向かう）由来の resist に -ible が付いた語。insist・consist と同じ sist を含む。",
+    "etym_chain": [
+      { "node": "resistere", "sub": "立ち向かう", "era": "ラテン語" },
+      { "node": "resist", "sub": "抵抗する", "era": "中英語" },
+      { "node": "resistible", "sub": "抵抗できる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a resistible force", "ja": "抵抗できる力" },
+      { "en": "easily resistible", "ja": "容易に抗える" },
+      { "en": "resistible temptation", "ja": "抗える誘惑" },
+      { "en": "quite resistible", "ja": "十分に断れる" },
+      { "en": "a resistible offer", "ja": "断れる申し出" },
+      { "en": "hardly resistible", "ja": "ほとんど抗えない" }
+    ],
+    "related": [
+      { "en": "resist", "ja": "抵抗する" },
+      { "en": "irresistible", "ja": "抗しがたい（反対）" },
+      { "en": "resistance", "ja": "抵抗" },
+      { "en": "withstand", "ja": "持ちこたえる" }
+    ],
+    "faq": [
+      { "q": "resistible はよく使われますか？", "a": "あまり使われません。日常では反対語の irresistible（抗しがたい・魅力的でたまらない）のほうがはるかに一般的です。resistible は『抗える・断れる』とあえて言いたいときに使います。" },
+      { "q": "反対の意味の語は？", "a": "irresistible で「抗しがたい・（魅力的で）たまらない」という意味です。an irresistible offer（断りきれない申し出）のように使われます。" }
+    ],
+    "quiz": [
+      { "q": "resistible の意味は？", "A": "抵抗できる・抗える", "B": "抗しがたい", "C": "透明な", "D": "壊れやすい", "correct": "A" },
+      { "q": "resistible の反対語は？", "A": "irresistible", "B": "unresistible", "C": "nonresistible", "D": "disresistible", "correct": "A" }
+    ]
+  },
+  {
+    "english": "resources",
+    "pron": "ˈriːsɔːrsɪz",
+    "kana": "リソーシズ",
+    "hinshi": "名詞（複数形）",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 ressource（頼りになるもの）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "頻出"],
+    "meaning_main": "資源・財源・（活用できる）手段や人材",
+    "description": "resources（リソーシズ）は「資源・財源・（活用できる）手段・人材」。天然資源から資金・人手まで、役立つものを広く指します。resource の複数形です。意味・使い方を解説します。",
+    "keywords": ["resources 意味", "資源", "resource 複数形", "財源"],
+    "meanings": [
+      { "hinshi": "【名詞】資源・天然資源", "note": "自然から得られる有用なもの。natural resources（天然資源）" },
+      { "hinshi": "【名詞】財源・資金・手段", "note": "利用できるお金・物資・人材。human resources（人材・人事）" }
+    ],
+    "usages": [
+      { "title": "① 天然資源", "desc": "自然の恵み", "example_en": "The country is rich in natural resources.", "example_ja": "その国は天然資源に恵まれている。" },
+      { "title": "② 資金・人材", "desc": "活用できる手段", "example_en": "We lack the resources to finish the project.", "example_ja": "私たちにはその計画を終える資源が足りない。" }
+    ],
+    "warn": ["human resources（HR）は『人材・人事（部）』。単数 resource は『資源・手段』の抽象名詞にも個々の資源にも使う"],
+    "etym_note": "フランス語 ressource（re-「再び」+ sourdre「湧き出る」＝再び湧くもの→頼み）由来。source（源）と同語源。",
+    "etym_chain": [
+      { "node": "surgere", "sub": "湧き出る", "era": "ラテン語" },
+      { "node": "ressource", "sub": "頼りになるもの", "era": "フランス語" },
+      { "node": "resources", "sub": "資源・財源", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "natural resources", "ja": "天然資源" },
+      { "en": "human resources", "ja": "人材・人事" },
+      { "en": "limited resources", "ja": "限られた資源" },
+      { "en": "financial resources", "ja": "財源・資金" },
+      { "en": "waste resources", "ja": "資源を浪費する" },
+      { "en": "allocate resources", "ja": "資源を配分する" }
+    ],
+    "related": [
+      { "en": "resource", "ja": "資源・手段" },
+      { "en": "asset", "ja": "資産・強み" },
+      { "en": "supply", "ja": "供給・蓄え" },
+      { "en": "material", "ja": "資材・原料" }
+    ],
+    "faq": [
+      { "q": "human resources とは何ですか？", "a": "「人材・人的資源」または会社の「人事（部）」を指します。組織を支える『人』を、活用できる資源の一つとしてとらえた言い方です。略して HR とも言います。" },
+      { "q": "resources と supplies の違いは？", "a": "resources は資金・人材・天然資源など『活用できるもの全般』、supplies は『補給される物資・必需品（消耗品）』を指すことが多いです。resources のほうが広い概念です。" }
+    ],
+    "quiz": [
+      { "q": "resources の意味は？", "A": "資源・財源・手段", "B": "騒音", "C": "休日", "D": "距離", "correct": "A" },
+      { "q": "human resources の意味は？", "A": "人材・人事", "B": "自然災害", "C": "電力供給", "D": "交通機関", "correct": "A" }
+    ]
+  },
+  {
+    "english": "respectably",
+    "pron": "rɪˈspɛktəbli",
+    "kana": "リスペクタブリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "respectable（立派な）+ -ly",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "頻出"],
+    "meaning_main": "立派に・きちんと・そこそこよく",
+    "description": "respectably（リスペクタブリー）は「立派に・きちんと・そこそこよく」。世間に恥じない程度に、あるいはまずまずの水準で、という意味の副詞です。意味・使い方・例文を解説します。",
+    "keywords": ["respectably 意味", "立派に", "きちんと", "respectable"],
+    "meanings": [
+      { "hinshi": "【副詞】立派に・きちんと", "note": "世間に恥じないよう、体裁よく。respectably dressed（きちんとした身なりで）" },
+      { "hinshi": "【副詞】そこそこよく・まずまず", "note": "十分といえる水準で。finish respectably（まずまずの成績で終える）" }
+    ],
+    "usages": [
+      { "title": "① きちんとした様子", "desc": "体裁よく", "example_en": "He was respectably dressed for the interview.", "example_ja": "彼は面接にふさわしいきちんとした身なりだった。" },
+      { "title": "② そこそこの結果", "desc": "まずまずの水準", "example_en": "The team finished respectably in third place.", "example_ja": "チームはまずまずの3位で終えた。" }
+    ],
+    "warn": ["respectfully（敬意をもって）と混同注意。respectably は『立派に・きちんと』、respectfully は『うやうやしく』"],
+    "etym_note": "ラテン語 respectare（re-「再び」+ spectare「見る」＝振り返って見る→尊重する）由来の respectable に -ly が付いた語。inspect・spectator と同じ spec を含む。",
+    "etym_chain": [
+      { "node": "respectare", "sub": "尊重する", "era": "ラテン語" },
+      { "node": "respectable", "sub": "立派な", "era": "近代英語" },
+      { "node": "respectably", "sub": "立派に", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "respectably dressed", "ja": "きちんとした身なりで" },
+      { "en": "finish respectably", "ja": "まずまずの成績で終える" },
+      { "en": "behave respectably", "ja": "立派に振る舞う" },
+      { "en": "perform respectably", "ja": "そこそこよくやる" },
+      { "en": "live respectably", "ja": "堅実に暮らす" },
+      { "en": "respectably successful", "ja": "まずまず成功した" }
+    ],
+    "related": [
+      { "en": "respectable", "ja": "立派な・まずまずの" },
+      { "en": "respectfully", "ja": "うやうやしく" },
+      { "en": "decently", "ja": "きちんと・まずまず" },
+      { "en": "properly", "ja": "適切に" }
+    ],
+    "faq": [
+      { "q": "respectably と respectfully の違いは？", "a": "respectably は『立派に・きちんと・そこそこよく』（体裁や水準）、respectfully は『敬意をもって・うやうやしく』（相手への態度）です。つづりが似ていますが意味が異なるので注意しましょう。" },
+      { "q": "『そこそこよく』の意味はどう使いますか？", "a": "十分といえる水準で、というときに使います。The film did respectably at the box office.（その映画は興行的にまずまずだった）のように、great ではないが十分な結果を表します。" }
+    ],
+    "quiz": [
+      { "q": "respectably の意味は？", "A": "立派に・きちんと・そこそこよく", "B": "乱暴に", "C": "こっそりと", "D": "偶然に", "correct": "A" },
+      { "q": "『敬意をもって』を表す似た語は？", "A": "respectfully", "B": "respectably", "C": "respectively", "D": "respectedly", "correct": "A" }
+    ]
+  },
+  {
+    "english": "restored",
+    "pron": "rɪˈstɔːrd",
+    "kana": "リストアド",
+    "hinshi": "動詞（restore の過去・過去分詞）/ 形容詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 restaurare（元に戻す）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "頻出"],
+    "meaning_main": "元に戻した・修復した・回復させた／復元された",
+    "description": "restored（リストアド）は restore（元に戻す・修復する）の過去・過去分詞で「元に戻した・修復した」。建物の修復やデータの復元、健康・秩序の回復に使う語です。意味・使い方を解説します。",
+    "keywords": ["restored 意味", "restore 過去形", "修復した", "復元された"],
+    "meanings": [
+      { "hinshi": "【動詞】元に戻した・修復した（restore の過去・過去分詞）", "note": "壊れた物を直した、失われたものを取り戻した" },
+      { "hinshi": "【形容詞】復元された・修復済みの", "note": "a restored castle（修復された城）、restored to health（健康を取り戻して）" }
+    ],
+    "usages": [
+      { "title": "① 建物・美術を修復", "desc": "元の状態に戻す", "example_en": "The old church was beautifully restored.", "example_ja": "その古い教会は美しく修復された。" },
+      { "title": "② 秩序・健康の回復", "desc": "元に戻す", "example_en": "Order was quickly restored.", "example_ja": "秩序はすぐに回復された。" }
+    ],
+    "warn": ["restore（元に戻す）は repair（修理する）より『元の状態・機能へ回復させる』ニュアンスが強い。データの復元にも使う"],
+    "etym_note": "ラテン語 restaurare（re-「再び」+ staurare「立てる」＝元に戻す）由来の restore に -ed が付いた形。store・restaurant と同語源。",
+    "etym_chain": [
+      { "node": "restaurare", "sub": "元に戻す", "era": "ラテン語" },
+      { "node": "restore", "sub": "修復する", "era": "中英語" },
+      { "node": "restored", "sub": "修復した・回復した", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "fully restored", "ja": "完全に修復された" },
+      { "en": "restored to health", "ja": "健康を取り戻して" },
+      { "en": "a restored building", "ja": "修復された建物" },
+      { "en": "restore order", "ja": "秩序を回復する" },
+      { "en": "restored the data", "ja": "データを復元した" },
+      { "en": "carefully restored", "ja": "念入りに修復された" }
+    ],
+    "related": [
+      { "en": "restore", "ja": "元に戻す・修復する" },
+      { "en": "restoration", "ja": "修復・復元・回復" },
+      { "en": "renovate", "ja": "改装する" },
+      { "en": "repair", "ja": "修理する" }
+    ],
+    "faq": [
+      { "q": "restore と repair の違いは？", "a": "repair は『壊れた部分を直す』こと、restore は『元の状態・見た目・機能へ完全に戻す』ことに重点があります。古い建物や美術品を restore すると、当初の姿によみがえらせるニュアンスになります。" },
+      { "q": "restore は健康や秩序にも使えますか？", "a": "はい。restored to health（健康を取り戻す）、restore order（秩序を回復する）、restore confidence（信頼を取り戻す）など、物以外の『回復』にも広く使えます。" }
+    ],
+    "quiz": [
+      { "q": "restored の意味は？", "A": "元に戻した・修復した", "B": "破壊した", "C": "隠した", "D": "売った", "correct": "A" },
+      { "q": "restored to health の意味は？", "A": "健康を取り戻して", "B": "病気になって", "C": "疲れ果てて", "D": "入院して", "correct": "A" }
+    ]
+  },
+  {
+    "english": "revealed",
+    "pron": "rɪˈviːld",
+    "kana": "リヴィールド",
+    "hinshi": "動詞（reveal の過去・過去分詞）",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 revelare（覆いを取る）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "頻出"],
+    "meaning_main": "明らかにした・暴露した・見せた",
+    "description": "revealed（リヴィールド）は reveal（明らかにする・暴露する）の過去・過去分詞で「明らかにした・暴露した」。隠れていたものを見せることを表します。意味・使い方・例文を解説します。",
+    "keywords": ["revealed 意味", "reveal 過去形", "明らかにした", "暴露した"],
+    "meanings": [
+      { "hinshi": "【動詞】明らかにした・暴露した（reveal の過去・過去分詞）", "note": "秘密・事実を公にした、隠れていたものを見せた" }
+    ],
+    "usages": [
+      { "title": "① 事実を明らかにする", "desc": "秘密を公にする", "example_en": "The report revealed the truth.", "example_ja": "その報告書は真実を明らかにした。" },
+      { "title": "② 隠れていたものを見せる", "desc": "姿を現す", "example_en": "The curtain was drawn back, revealing a stage.", "example_ja": "幕が引かれ、舞台が現れた。" }
+    ],
+    "warn": ["reveal は『隠れていたものを見せる・明かす』。反対は conceal（隠す）。名詞は revelation（暴露・啓示）"],
+    "etym_note": "ラテン語 revelare（re-「元に戻す」+ velum「覆い・ベール」＝覆いを取る）由来の reveal に -ed が付いた形。veil（ベール）と同語源。",
+    "etym_chain": [
+      { "node": "revelare", "sub": "覆いを取る", "era": "ラテン語" },
+      { "node": "reveal", "sub": "明らかにする", "era": "中英語" },
+      { "node": "revealed", "sub": "明らかにした", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "revealed the truth", "ja": "真実を明らかにした" },
+      { "en": "revealed that", "ja": "〜だと明らかにした" },
+      { "en": "newly revealed", "ja": "新たに判明した" },
+      { "en": "reveal a secret", "ja": "秘密を明かす" },
+      { "en": "it was revealed", "ja": "〜が明らかになった" },
+      { "en": "revealed to the public", "ja": "公に明らかにされた" }
+    ],
+    "related": [
+      { "en": "reveal", "ja": "明らかにする・暴露する" },
+      { "en": "revelation", "ja": "暴露・啓示" },
+      { "en": "disclose", "ja": "公表する" },
+      { "en": "conceal", "ja": "隠す（反対）" }
+    ],
+    "faq": [
+      { "q": "reveal と disclose の違いは？", "a": "どちらも『明らかにする』ですが、reveal は『隠れていたものを見せる・明かす』全般、disclose は『（公式に・意図的に）情報を公開する』ややフォーマルな語です。多くの場面で置き換え可能です。" },
+      { "q": "reveal の名詞形は？", "a": "revelation で「暴露・（意外な）新事実・啓示」を意味します。The report was a shocking revelation.（その報告は衝撃的な暴露だった）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "revealed の意味は？", "A": "明らかにした・暴露した", "B": "隠した", "C": "忘れた", "D": "壊した", "correct": "A" },
+      { "q": "reveal の反対の意味の語は？", "A": "conceal", "B": "disclose", "C": "expose", "D": "uncover", "correct": "A" }
+    ]
+  },
+  {
+    "english": "revitalizing",
+    "pron": "riːˈvaɪtəlaɪzɪŋ",
+    "kana": "リバイタライジング",
+    "hinshi": "動詞（revitalize の現在分詞）/ 形容詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）+ vital（生命の）+ -ize",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "頻出"],
+    "meaning_main": "活性化する・再生させる・元気を取り戻させる",
+    "description": "revitalizing（リバイタライジング）は revitalize（活性化する・再生させる）の現在分詞・形容詞で「活性化する・元気を取り戻させる」。地域再生や心身の回復に使う語です。意味・使い方を解説します。",
+    "keywords": ["revitalizing 意味", "活性化", "再生", "revitalize"],
+    "meanings": [
+      { "hinshi": "【動詞】活性化している・再生させている（revitalize の現在分詞）", "note": "衰えたものに新たな活力を与えている" },
+      { "hinshi": "【形容詞】元気を取り戻させる・活力を与える", "note": "a revitalizing effect（活力を与える効果）" }
+    ],
+    "usages": [
+      { "title": "① 地域・経済の再生", "desc": "活気を取り戻す", "example_en": "The city is revitalizing its old downtown.", "example_ja": "その市は旧市街を再生させている。" },
+      { "title": "② 心身の回復", "desc": "元気を与える", "example_en": "A revitalizing morning walk cleared her mind.", "example_ja": "元気の出る朝の散歩が彼女の頭をすっきりさせた。" }
+    ],
+    "warn": ["イギリス綴りは revitalising。vital（生命の・重要な）に re-（再び）+ -ize が付き『再び活力を与える』の意"],
+    "etym_note": "re-（再び）+ vital（生命の。ラテン語 vita「命」より）+ -ize（〜化する）。vitamin・vitality と同じ vit を含む。",
+    "etym_chain": [
+      { "node": "vita", "sub": "命", "era": "ラテン語" },
+      { "node": "revitalize", "sub": "活性化する", "era": "近代英語" },
+      { "node": "revitalizing", "sub": "活性化する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "revitalizing the economy", "ja": "経済を再生する" },
+      { "en": "a revitalizing effect", "ja": "活力を与える効果" },
+      { "en": "revitalizing the community", "ja": "地域を活性化する" },
+      { "en": "revitalizing the skin", "ja": "肌に活力を与える" },
+      { "en": "urban revitalizing", "ja": "都市の再生" },
+      { "en": "a revitalizing experience", "ja": "元気の出る体験" }
+    ],
+    "related": [
+      { "en": "revitalize", "ja": "活性化する・再生させる" },
+      { "en": "revitalization", "ja": "活性化・再生" },
+      { "en": "revive", "ja": "生き返らせる" },
+      { "en": "rejuvenate", "ja": "若返らせる" }
+    ],
+    "faq": [
+      { "q": "revitalize と revive の違いは？", "a": "revive は『（弱ったもの・止まったものを）生き返らせる・復活させる』、revitalize は『（衰えたものに）新たな活力を与えて活性化する』です。地域再生などには revitalize がよく使われます。" },
+      { "q": "どんな対象に使いますか？", "a": "地域・経済・産業・組織などの『再生・活性化』や、心身・肌などに『活力を取り戻させる』文脈で広く使えます。revitalize the downtown（中心街を再生する）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "revitalizing の意味は？", "A": "活性化する・元気を取り戻させる", "B": "衰えさせる", "C": "破壊する", "D": "無視する", "correct": "A" },
+      { "q": "revitalize の語源にある vital の意味は？", "A": "生命の", "B": "金銭の", "C": "戦争の", "D": "水の", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reykjavik",
+    "pron": "ˈreɪkjəvɪk",
+    "kana": "レイキャビク",
+    "hinshi": "名詞（固有名詞）",
+    "ld_pos": "名詞",
+    "ld_etym": "アイスランド語 Reykjavík（煙の入り江）",
+    "ld_level": "-",
+    "badges": ["地名", "首都", "固有名詞", "北欧"],
+    "meaning_main": "レイキャビク（アイスランドの首都）",
+    "description": "Reykjavik（レイキャビク）はアイスランドの首都。世界最北の首都で、地熱を活かした暮らしや自然が有名です。読み方や由来をわかりやすく解説します。",
+    "keywords": ["reykjavik 意味", "レイキャビク", "アイスランド 首都", "reykjavik 読み方"],
+    "meanings": [
+      { "hinshi": "【固有名詞】レイキャビク", "note": "アイスランドの首都で最大の都市。世界最北の首都とされる。文中では大文字で始める" }
+    ],
+    "usages": [
+      { "title": "① 地名として", "desc": "文中は常に大文字", "example_en": "Reykjavik is the capital of Iceland.", "example_ja": "レイキャビクはアイスランドの首都だ。" },
+      { "title": "② 観光・自然", "desc": "地熱・オーロラで有名", "example_en": "Many tourists visit Reykjavik to see the northern lights.", "example_ja": "多くの観光客がオーロラを見にレイキャビクを訪れる。" }
+    ],
+    "warn": ["固有名詞なので文中では必ず大文字で Reykjavik と書く（見出しは小文字で登録）。世界最北の首都とされる"],
+    "etym_note": "アイスランド語 Reykjavík（reykja「煙」+ vík「入り江」＝煙の入り江）に由来。地熱による湯気を『煙』と見立てた命名とされる。",
+    "etym_chain": [
+      { "node": "reykr + vík", "sub": "煙の入り江", "era": "古ノルド語" },
+      { "node": "Reykjavík", "sub": "レイキャビク", "era": "アイスランド語" },
+      { "node": "Reykjavik", "sub": "レイキャビク", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the city of Reykjavik", "ja": "レイキャビク市" },
+      { "en": "fly to Reykjavik", "ja": "レイキャビクへ飛ぶ" },
+      { "en": "downtown Reykjavik", "ja": "レイキャビクの中心街" },
+      { "en": "Reykjavik harbor", "ja": "レイキャビクの港" },
+      { "en": "live in Reykjavik", "ja": "レイキャビクに住む" },
+      { "en": "near Reykjavik", "ja": "レイキャビク近郊" }
+    ],
+    "related": [
+      { "en": "iceland", "ja": "アイスランド" },
+      { "en": "capital", "ja": "首都" },
+      { "en": "nordic", "ja": "北欧の" },
+      { "en": "geyser", "ja": "間欠泉" }
+    ],
+    "faq": [
+      { "q": "Reykjavik はどこの首都ですか？", "a": "アイスランドの首都で、同国最大の都市です。世界で最も北にある首都とされ、地熱エネルギーを活かしたクリーンな暮らしや、オーロラ・温泉などの自然で知られています。" },
+      { "q": "名前の由来は？", "a": "アイスランド語で『煙の入り江』を意味します。入植者が地熱による湯気を『煙』と見立てたことに由来するとされます。実際には火事の煙ではなく温泉の蒸気でした。" }
+    ],
+    "quiz": [
+      { "q": "Reykjavik はどこの国の首都？", "A": "アイスランド", "B": "ノルウェー", "C": "フィンランド", "D": "デンマーク", "correct": "A" },
+      { "q": "Reykjavik の名前の意味は？", "A": "煙の入り江", "B": "白い山", "C": "青い湖", "D": "緑の谷", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rigel",
+    "pron": "ˈraɪdʒəl",
+    "kana": "リゲル",
+    "hinshi": "名詞（固有名詞）",
+    "ld_pos": "名詞",
+    "ld_etym": "アラビア語 rijl（足）",
+    "ld_level": "-",
+    "badges": ["天文", "恒星", "固有名詞", "上級"],
+    "meaning_main": "リゲル（オリオン座の青白い一等星）",
+    "description": "Rigel（リゲル）はオリオン座の青白く輝く一等星。オリオン座の左足にあたり、全天でも有数の明るさを誇る巨星です。読み方や由来をわかりやすく解説します。",
+    "keywords": ["rigel 意味", "リゲル 星", "オリオン座", "一等星"],
+    "meanings": [
+      { "hinshi": "【固有名詞】リゲル", "note": "オリオン座ベータ星。青白く輝く超巨星で、全天でも明るい一等星の一つ。文中では大文字で始める" }
+    ],
+    "usages": [
+      { "title": "① 恒星として", "desc": "オリオン座の一等星", "example_en": "Rigel is one of the brightest stars in the sky.", "example_ja": "リゲルは空で最も明るい星の一つだ。" },
+      { "title": "② ベテルギウスと対比", "desc": "青白い星", "example_en": "Rigel shines blue-white, unlike the red Betelgeuse.", "example_ja": "リゲルは赤いベテルギウスと違い青白く輝く。" }
+    ],
+    "warn": ["固有名詞なので文中では大文字で Rigel（見出しは小文字で登録）。同じオリオン座の赤い一等星ベテルギウスと対をなす"],
+    "etym_note": "アラビア語 rijl al-Jawza（『（中央の者の）足』）に由来し、オリオン座の足の位置にある星を指す。",
+    "etym_chain": [
+      { "node": "rijl", "sub": "足", "era": "アラビア語" },
+      { "node": "Rigel", "sub": "リゲル", "era": "中世ラテン語" },
+      { "node": "Rigel", "sub": "リゲル", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the star Rigel", "ja": "恒星リゲル" },
+      { "en": "Rigel in Orion", "ja": "オリオン座のリゲル" },
+      { "en": "blue-white Rigel", "ja": "青白いリゲル" },
+      { "en": "as bright as Rigel", "ja": "リゲルほど明るい" },
+      { "en": "Rigel and Betelgeuse", "ja": "リゲルとベテルギウス" },
+      { "en": "locate Rigel", "ja": "リゲルを見つける" }
+    ],
+    "related": [
+      { "en": "orion", "ja": "オリオン座" },
+      { "en": "betelgeuse", "ja": "ベテルギウス" },
+      { "en": "star", "ja": "恒星・星" },
+      { "en": "constellation", "ja": "星座" }
+    ],
+    "faq": [
+      { "q": "Rigel（リゲル）とはどんな星ですか？", "a": "オリオン座で青白く輝く一等星（ベータ星）です。太陽よりはるかに大きく明るい青色超巨星で、オリオン座の『左足』の位置にあります。全天でも指折りの明るさを誇ります。" },
+      { "q": "ベテルギウスとの違いは？", "a": "どちらもオリオン座の一等星ですが、リゲルは青白い超巨星、ベテルギウスは赤い超巨星です。オリオン座では対角線上に位置し、色の対比が美しい星のペアです。" }
+    ],
+    "quiz": [
+      { "q": "Rigel はどの星座の星？", "A": "オリオン座", "B": "さそり座", "C": "おおぐま座", "D": "はくちょう座", "correct": "A" },
+      { "q": "Rigel の色は？", "A": "青白い", "B": "赤い", "C": "黄色い", "D": "緑色", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ripped",
+    "pron": "rɪpt",
+    "kana": "リップト",
+    "hinshi": "動詞（rip の過去・過去分詞）/ 形容詞",
+    "ld_pos": "動詞",
+    "ld_etym": "中英語 rippen（引き裂く）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出"],
+    "meaning_main": "引き裂いた・破れた／（口語）筋肉隆々の",
+    "description": "ripped（リップト）は rip（引き裂く）の過去・過去分詞で「引き裂いた・破れた」。口語では「筋肉が引き締まった・ムキムキの」も表します。意味・使い方・例文を解説します。",
+    "keywords": ["ripped 意味", "rip 過去形", "破れた", "筋肉"],
+    "meanings": [
+      { "hinshi": "【動詞】引き裂いた・破れた（rip の過去・過去分詞）", "note": "布・紙などを勢いよく裂いた・破れた。rip up（びりびりに破る）" },
+      { "hinshi": "【形容詞】（口語）筋肉隆々の・引き締まった", "note": "get ripped（体を鍛え上げる）" }
+    ],
+    "usages": [
+      { "title": "① 破れた・引き裂いた", "desc": "布・紙など", "example_en": "His jeans were ripped at the knee.", "example_ja": "彼のジーンズは膝のところが破れていた。" },
+      { "title": "② 筋肉が引き締まった（口語）", "desc": "get ripped", "example_en": "He got ripped after months of training.", "example_ja": "彼は数か月の鍛錬で体を絞り上げた。" }
+    ],
+    "warn": ["rip（引き裂く）は tear とほぼ同義だが、より勢いよく裂くニュアンス。口語の『ムキムキ』はくだけた表現"],
+    "etym_note": "中英語 rippen（引き裂く）に由来する rip の過去・過去分詞。つづりは p を重ねて ripped。",
+    "etym_chain": [
+      { "node": "rippen", "sub": "引き裂く", "era": "中英語" },
+      { "node": "rip", "sub": "引き裂く", "era": "近代英語" },
+      { "node": "ripped", "sub": "引き裂いた・破れた", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "ripped jeans", "ja": "破れたジーンズ・ダメージジーンズ" },
+      { "en": "ripped up", "ja": "びりびりに破った" },
+      { "en": "get ripped", "ja": "体を鍛え上げる（口語）" },
+      { "en": "ripped apart", "ja": "引き裂かれた" },
+      { "en": "ripped open", "ja": "引き裂いて開けた" },
+      { "en": "a ripped physique", "ja": "引き締まった体つき" }
+    ],
+    "related": [
+      { "en": "rip", "ja": "引き裂く" },
+      { "en": "tear", "ja": "裂く・破れる" },
+      { "en": "torn", "ja": "破れた（tear の過去分詞）" },
+      { "en": "muscular", "ja": "筋肉質の" }
+    ],
+    "faq": [
+      { "q": "ripped と torn の違いは？", "a": "どちらも『破れた』ですが、ripped は rip（勢いよく引き裂く）の過去分詞で『ビリッと裂けた』感じ、torn は tear の過去分詞で『破れた』全般です。ripped jeans（ダメージジーンズ）のように使います。" },
+      { "q": "get ripped とはどういう意味ですか？", "a": "口語で『（トレーニングで）筋肉を引き締めてムキムキの体になる』という意味です。The actor got ripped for the movie role.（俳優は役作りで体を絞り上げた）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "ripped の意味は？", "A": "引き裂いた・破れた", "B": "縫った", "C": "洗った", "D": "たたんだ", "correct": "A" },
+      { "q": "get ripped（口語）の意味は？", "A": "筋肉を引き締めてムキムキになる", "B": "服を新調する", "C": "髪を切る", "D": "旅行に行く", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rocksteady",
+    "pron": "ˈrɒkˌstɛdi",
+    "kana": "ロックステディ",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rock（ロック）+ steady（安定した）",
+    "ld_level": "-",
+    "badges": ["音楽ジャンル", "ジャマイカ", "専門語", "上級"],
+    "meaning_main": "ロックステディ（レゲエの前身となったジャマイカ音楽）",
+    "description": "rocksteady（ロックステディ）は「1960年代半ばのジャマイカで生まれた音楽ジャンル」。スカとレゲエの間に位置し、ゆったりしたビートが特徴です。意味・特徴をわかりやすく解説します。",
+    "keywords": ["rocksteady 意味", "ロックステディ", "レゲエ 前身", "ジャマイカ音楽"],
+    "meanings": [
+      { "hinshi": "【名詞】ロックステディ", "note": "1960年代半ばのジャマイカで流行した音楽ジャンル。スカより遅く、レゲエへとつながった。rock steady と2語でも綴る" },
+      { "hinshi": "【形容詞的】びくともしない・安定した", "note": "文字どおりには『岩のように安定した』の意味でも使う" }
+    ],
+    "usages": [
+      { "title": "① 音楽ジャンルとして", "desc": "スカとレゲエの間", "example_en": "Rocksteady slowed down the fast beat of ska.", "example_ja": "ロックステディはスカの速いビートをゆるやかにした。" },
+      { "title": "② レゲエの前身", "desc": "1966〜68年ごろ", "example_en": "Rocksteady paved the way for reggae.", "example_ja": "ロックステディはレゲエへの道を開いた。" }
+    ],
+    "warn": ["ska（スカ）→ rocksteady（ロックステディ）→ reggae（レゲエ）という流れ。rock（岩・ロック）+ steady（安定）から"],
+    "etym_note": "rock（揺れる・ロック）と steady（安定した）を合わせた語。1966年のヒット曲名などから広まったとされる。",
+    "etym_chain": [
+      { "node": "rock + steady", "sub": "安定して揺れる", "era": "20世紀" },
+      { "node": "rocksteady", "sub": "ロックステディ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rocksteady music", "ja": "ロックステディの音楽" },
+      { "en": "ska and rocksteady", "ja": "スカとロックステディ" },
+      { "en": "the rocksteady era", "ja": "ロックステディの時代" },
+      { "en": "a rocksteady beat", "ja": "ロックステディのビート" },
+      { "en": "classic rocksteady", "ja": "古典的なロックステディ" },
+      { "en": "rocksteady and reggae", "ja": "ロックステディとレゲエ" }
+    ],
+    "related": [
+      { "en": "reggae", "ja": "レゲエ" },
+      { "en": "ska", "ja": "スカ" },
+      { "en": "jamaica", "ja": "ジャマイカ" },
+      { "en": "genre", "ja": "ジャンル" }
+    ],
+    "faq": [
+      { "q": "rocksteady とはどんな音楽ですか？", "a": "1960年代半ばのジャマイカで流行した音楽ジャンルです。それまでの速いスカのビートをゆるやかにした、なめらかで落ち着いたリズムが特徴で、後のレゲエへとつながりました。" },
+      { "q": "スカやレゲエとの関係は？", "a": "ジャマイカ音楽は、速いスカ（ska）→ ゆったりしたロックステディ（rocksteady）→ レゲエ（reggae）という流れで発展しました。ロックステディはその橋渡し役にあたるジャンルです。" }
+    ],
+    "quiz": [
+      { "q": "rocksteady はどこで生まれた音楽？", "A": "ジャマイカ", "B": "アメリカ", "C": "イギリス", "D": "ブラジル", "correct": "A" },
+      { "q": "rocksteady が発展してつながったジャンルは？", "A": "レゲエ", "B": "ジャズ", "C": "クラシック", "D": "演歌", "correct": "A" }
+    ]
+  },
+  {
+    "english": "roman",
+    "pron": "ˈroʊmən",
+    "kana": "ローマン",
+    "hinshi": "形容詞 / 名詞（固有名詞）",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 Romanus（ローマの）",
+    "ld_level": "-",
+    "badges": ["歴史・文化", "固有名詞", "頻出", "文字"],
+    "meaning_main": "ローマの・古代ローマの／（小文字で）ローマン体・ローマ数字の",
+    "description": "Roman（ローマン）は「ローマの・古代ローマの」、名詞で「ローマ人」。小文字 roman では「ローマン体（立体の活字）」も指します。意味・使い方をわかりやすく解説します。",
+    "keywords": ["roman 意味", "ローマの", "ローマン体", "ローマ数字"],
+    "meanings": [
+      { "hinshi": "【形容詞】ローマの・古代ローマの", "note": "古代ローマや現在のローマ市に関する。文中では大文字 Roman" },
+      { "hinshi": "【名詞】ローマ人", "note": "古代ローマの人々。複数形 Romans" },
+      { "hinshi": "【形容詞】（小文字 roman）ローマン体の・ローマ数字の", "note": "印刷で立体の書体。roman numerals（ローマ数字 I, II, III…）" }
+    ],
+    "usages": [
+      { "title": "① 古代ローマの", "desc": "歴史・文化", "example_en": "The Roman Empire was vast.", "example_ja": "ローマ帝国は広大だった。" },
+      { "title": "② ローマ数字・書体", "desc": "小文字 roman", "example_en": "Chapters are numbered in Roman numerals.", "example_ja": "章はローマ数字で番号がふられている。" }
+    ],
+    "warn": ["『ローマの・ローマ人』は大文字 Roman、『ローマン体（立体活字）』は小文字 roman（italic の対）。見出しは小文字で登録"],
+    "etym_note": "ラテン語 Romanus（Roma「ローマ」の形容詞）に由来。romance（もとは『ローマの言葉で書かれた物語』）と同語源。",
+    "etym_chain": [
+      { "node": "Roma", "sub": "ローマ", "era": "ラテン語" },
+      { "node": "Romanus", "sub": "ローマの", "era": "ラテン語" },
+      { "node": "Roman", "sub": "ローマの", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the Roman Empire", "ja": "ローマ帝国" },
+      { "en": "Roman numerals", "ja": "ローマ数字" },
+      { "en": "Roman Catholic", "ja": "ローマ・カトリックの" },
+      { "en": "ancient Roman", "ja": "古代ローマの" },
+      { "en": "roman type", "ja": "ローマン体（立体活字）" },
+      { "en": "Roman alphabet", "ja": "ローマ字（ラテン文字）" }
+    ],
+    "related": [
+      { "en": "rome", "ja": "ローマ" },
+      { "en": "latin", "ja": "ラテン語の" },
+      { "en": "italic", "ja": "イタリック体（斜体）" },
+      { "en": "empire", "ja": "帝国" }
+    ],
+    "faq": [
+      { "q": "Roman numerals とは何ですか？", "a": "「ローマ数字」のことです。I（1）、V（5）、X（10）、L（50）、C（100）、D（500）、M（1000）などの記号で数を表します。時計の文字盤や章番号などに使われます。" },
+      { "q": "大文字 Roman と小文字 roman の違いは？", "a": "大文字 Roman は『ローマの・ローマ人（の）』、小文字 roman は印刷用語で『ローマン体（立体の書体）』を指します。italic（斜体）に対する立ったふつうの活字です。" }
+    ],
+    "quiz": [
+      { "q": "Roman numerals の意味は？", "A": "ローマ数字", "B": "アラビア数字", "C": "漢数字", "D": "二進数", "correct": "A" },
+      { "q": "印刷用語の roman（小文字）が指すのは？", "A": "立体の書体（ローマン体）", "B": "斜体", "C": "太字", "D": "下線", "correct": "A" }
+    ]
+  },
+  {
+    "english": "romanian",
+    "pron": "roʊˈmeɪniən",
+    "kana": "ルーマニアン",
+    "hinshi": "形容詞 / 名詞（固有名詞）",
+    "ld_pos": "形容詞",
+    "ld_etym": "Romania（ルーマニア）+ -an",
+    "ld_level": "-",
+    "badges": ["国・民族", "固有名詞", "言語", "ヨーロッパ"],
+    "meaning_main": "ルーマニアの／ルーマニア人・ルーマニア語",
+    "description": "Romanian（ルーマニアン）は「ルーマニアの・ルーマニア人・ルーマニア語」。ルーマニア語はラテン語系（ロマンス諸語）です。読み方や由来をわかりやすく解説します。",
+    "keywords": ["romanian 意味", "ルーマニアの", "ルーマニア語", "romanian 読み方"],
+    "meanings": [
+      { "hinshi": "【形容詞】ルーマニアの", "note": "東欧の国ルーマニアに関する。文中では大文字 Romanian" },
+      { "hinshi": "【名詞】ルーマニア人", "note": "ルーマニアの国民。複数形 Romanians" },
+      { "hinshi": "【名詞】ルーマニア語", "note": "ロマンス諸語（ラテン語系）に属する言語" }
+    ],
+    "usages": [
+      { "title": "① 形容詞として", "desc": "国・文化に関する", "example_en": "Romanian cuisine is rich and varied.", "example_ja": "ルーマニア料理は豊かで多彩だ。" },
+      { "title": "② 言語として", "desc": "ラテン語系の言語", "example_en": "Romanian is a Romance language.", "example_ja": "ルーマニア語はロマンス諸語の一つだ。" }
+    ],
+    "warn": ["固有名詞なので文中では大文字 Romanian（見出しは小文字で登録）。周囲がスラブ語圏の中で珍しくラテン語系の言語"],
+    "etym_note": "国名 Romania（『ローマ人の地』の意）に -an が付いた語。ルーマニア語がローマ帝国のラテン語を受け継ぐことにちなむ。",
+    "etym_chain": [
+      { "node": "Romanus", "sub": "ローマの", "era": "ラテン語" },
+      { "node": "Romania", "sub": "ルーマニア", "era": "近代" },
+      { "node": "Romanian", "sub": "ルーマニアの", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the Romanian language", "ja": "ルーマニア語" },
+      { "en": "Romanian people", "ja": "ルーマニア人" },
+      { "en": "Romanian culture", "ja": "ルーマニア文化" },
+      { "en": "speak Romanian", "ja": "ルーマニア語を話す" },
+      { "en": "Romanian history", "ja": "ルーマニアの歴史" },
+      { "en": "a Romanian city", "ja": "ルーマニアの都市" }
+    ],
+    "related": [
+      { "en": "romania", "ja": "ルーマニア" },
+      { "en": "bucharest", "ja": "ブカレスト（首都）" },
+      { "en": "romance", "ja": "ロマンス諸語の" },
+      { "en": "european", "ja": "ヨーロッパの" }
+    ],
+    "faq": [
+      { "q": "ルーマニア語はどんな言語ですか？", "a": "ラテン語を受け継ぐロマンス諸語（フランス語・イタリア語・スペイン語などの仲間）の一つです。周囲がスラブ語圏である中で、ラテン語系という珍しい特徴を持ちます。" },
+      { "q": "Romanian と Roman の違いは？", "a": "Romanian は『ルーマニア（Romania）の・ルーマニア人・ルーマニア語』、Roman は『（古代）ローマの・ローマ人』です。国名も意味も異なるので混同しないよう注意しましょう。" }
+    ],
+    "quiz": [
+      { "q": "Romanian が指す国は？", "A": "ルーマニア", "B": "イタリア", "C": "ロシア", "D": "ギリシャ", "correct": "A" },
+      { "q": "ルーマニア語が属する語族は？", "A": "ロマンス諸語（ラテン語系）", "B": "スラブ語派", "C": "ゲルマン語派", "D": "アラビア語", "correct": "A" }
+    ]
+  },
+  {
+    "english": "romanize",
+    "pron": "ˈroʊmənaɪz",
+    "kana": "ローマナイズ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "Roman（ローマの）+ -ize",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "言語"],
+    "meaning_main": "ローマ字で表記する／ローマ（風）化する",
+    "description": "romanize（ローマナイズ）は「（他の文字の言語を）ローマ字で表記する」、また「ローマ風にする・ローマ化する」。日本語のローマ字表記などで使う語です。意味・使い方を解説します。",
+    "keywords": ["romanize 意味", "ローマ字表記", "romanize 使い方", "ローマ化"],
+    "meanings": [
+      { "hinshi": "【動詞】ローマ字で表記する", "note": "漢字・かな・アラビア文字などをラテン文字（ローマ字）に書き換える。名詞 romanization（ローマ字化）" },
+      { "hinshi": "【動詞】ローマ（風）化する", "note": "古代ローマの文化・制度・言語を取り入れさせる" }
+    ],
+    "usages": [
+      { "title": "① ローマ字表記する", "desc": "他の文字を置き換える", "example_en": "Japanese names are often romanized for foreigners.", "example_ja": "日本語の名前は外国人向けによくローマ字表記される。" },
+      { "title": "② 文化のローマ化", "desc": "歴史の文脈で", "example_en": "The conquered peoples were gradually romanized.", "example_ja": "征服された人々は次第にローマ化された。" }
+    ],
+    "warn": ["イギリス綴りは romanise。名詞は romanization（ローマ字化・ローマ化）。ピンインやヘボン式もローマ字表記の一種"],
+    "etym_note": "Roman（ローマの・ローマ字の）に -ize（〜化する）が付いた語。ローマ帝国が各地をローマ文化に染めたことにちなむ。",
+    "etym_chain": [
+      { "node": "Romanus", "sub": "ローマの", "era": "ラテン語" },
+      { "node": "Roman", "sub": "ローマの・ローマ字の", "era": "近代英語" },
+      { "node": "romanize", "sub": "ローマ字化する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "romanize Japanese", "ja": "日本語をローマ字表記する" },
+      { "en": "romanized spelling", "ja": "ローマ字つづり" },
+      { "en": "romanize a name", "ja": "名前をローマ字にする" },
+      { "en": "romanization system", "ja": "ローマ字化方式" },
+      { "en": "romanized text", "ja": "ローマ字化された文" },
+      { "en": "be romanized", "ja": "ローマ化される" }
+    ],
+    "related": [
+      { "en": "romanization", "ja": "ローマ字化" },
+      { "en": "transliterate", "ja": "翻字する" },
+      { "en": "pinyin", "ja": "ピンイン" },
+      { "en": "alphabet", "ja": "アルファベット" }
+    ],
+    "faq": [
+      { "q": "romanize とはどういう意味ですか？", "a": "漢字・かな・アラビア文字・キリル文字などで書かれた言葉を、アルファベット（ローマ字）に書き換えることです。日本語のヘボン式や中国語のピンインもローマ字表記（romanization）の例です。" },
+      { "q": "translate（翻訳）とは違うのですか？", "a": "違います。translate は意味を別の言語に置き換えること、romanize は発音を保ったまま文字だけをローマ字に置き換えること（翻字）です。『東京』を Tokyo とするのが romanize です。" }
+    ],
+    "quiz": [
+      { "q": "romanize の意味は？", "A": "ローマ字で表記する", "B": "翻訳する", "C": "暗号化する", "D": "要約する", "correct": "A" },
+      { "q": "romanize の名詞形は？", "A": "romanization", "B": "romanism", "C": "romanity", "D": "romanment", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rooted",
+    "pron": "ˈruːtɪd",
+    "kana": "ルーテッド",
+    "hinshi": "動詞（root の過去・過去分詞）/ 形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "root（根）+ -ed",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出"],
+    "meaning_main": "根ざした・深く定着した／その場に釘づけの",
+    "description": "rooted（ルーテッド）は「（〜に）根ざした・深く定着した」、また「その場に釘づけになった」。root（根・根づく）の過去分詞・形容詞です。be rooted in で頻出。意味・使い方を解説します。",
+    "keywords": ["rooted 意味", "根ざした", "be rooted in", "定着した"],
+    "meanings": [
+      { "hinshi": "【形容詞】根ざした・深く定着した", "note": "be rooted in〜で「〜に根ざしている・〜に由来する」" },
+      { "hinshi": "【形容詞】その場に釘づけの", "note": "rooted to the spot（（恐怖などで）その場に立ちすくんで）" }
+    ],
+    "usages": [
+      { "title": "① be rooted in〜", "desc": "「〜に根ざす」", "example_en": "The tradition is deeply rooted in history.", "example_ja": "その伝統は歴史に深く根ざしている。" },
+      { "title": "② rooted to the spot", "desc": "「立ちすくむ」", "example_en": "She stood rooted to the spot in fear.", "example_ja": "彼女は恐怖でその場に立ちすくんだ。" }
+    ],
+    "warn": ["be rooted in〜（〜に根ざす・由来する）が頻出。rooted to the spot は『（動けず）立ちすくむ』の慣用"],
+    "etym_note": "root（根。古英語 rōt より）に -ed が付いた語。『根を張った→深く定着した』の意味に発展した。",
+    "etym_chain": [
+      { "node": "rot", "sub": "根", "era": "古ノルド語" },
+      { "node": "root", "sub": "根・根づく", "era": "古英語" },
+      { "node": "rooted", "sub": "根ざした", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "deeply rooted", "ja": "深く根ざした" },
+      { "en": "rooted in tradition", "ja": "伝統に根ざした" },
+      { "en": "rooted to the spot", "ja": "その場に立ちすくんで" },
+      { "en": "firmly rooted", "ja": "しっかり定着した" },
+      { "en": "rooted in reality", "ja": "現実に根ざした" },
+      { "en": "well-rooted", "ja": "よく根づいた" }
+    ],
+    "related": [
+      { "en": "root", "ja": "根・根づく" },
+      { "en": "grounded", "ja": "根拠のある・地に足のついた" },
+      { "en": "established", "ja": "確立した" },
+      { "en": "embedded", "ja": "深く埋め込まれた" }
+    ],
+    "faq": [
+      { "q": "be rooted in とはどういう意味ですか？", "a": "「〜に根ざしている・〜に由来する・〜が土台になっている」という意味です。The problem is rooted in poverty.（その問題は貧困に根ざしている）のように、原因や基盤を示すときに使います。" },
+      { "q": "rooted to the spot とは？", "a": "「（恐怖・驚きなどで）その場に釘づけになる・立ちすくむ」という慣用表現です。まるで根が生えたように動けなくなる様子を表します。" }
+    ],
+    "quiz": [
+      { "q": "be rooted in の意味は？", "A": "〜に根ざしている・由来する", "B": "〜を破壊する", "C": "〜を無視する", "D": "〜から逃げる", "correct": "A" },
+      { "q": "rooted to the spot の意味は？", "A": "その場に立ちすくむ", "B": "急いで走る", "C": "飛び上がる", "D": "座り込む", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rounded",
+    "pron": "ˈraʊndɪd",
+    "kana": "ラウンデッド",
+    "hinshi": "動詞（round の過去・過去分詞）/ 形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "round（丸い）+ -ed",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出"],
+    "meaning_main": "丸みを帯びた／（数を）端数処理した／均整のとれた",
+    "description": "rounded（ラウンデッド）は「丸みを帯びた・角が丸い」、また「（数を）四捨五入した」。well-rounded で「均整のとれた・多才な」も表します。意味・使い方・例文を解説します。",
+    "keywords": ["rounded 意味", "丸みを帯びた", "四捨五入", "well-rounded"],
+    "meanings": [
+      { "hinshi": "【形容詞】丸みを帯びた・角の丸い", "note": "rounded corners（丸い角）、rounded shape（丸みのある形）" },
+      { "hinshi": "【動詞】端数処理した（round の過去・過去分詞）", "note": "rounded to the nearest ten（十の位に四捨五入した）" },
+      { "hinshi": "【形容詞】均整のとれた・多才な", "note": "well-rounded（バランスのとれた・多才な）" }
+    ],
+    "usages": [
+      { "title": "① 丸みを帯びた形", "desc": "角が丸い", "example_en": "The table has rounded edges.", "example_ja": "そのテーブルは角が丸い。" },
+      { "title": "② well-rounded", "desc": "「均整のとれた・多才な」", "example_en": "She is a well-rounded student.", "example_ja": "彼女は多才でバランスのとれた学生だ。" }
+    ],
+    "warn": ["well-rounded は『（教養・能力が）バランスよく多才な』の意味で頻出。数の round は『四捨五入・端数処理する』"],
+    "etym_note": "round（丸い。ラテン語 rotundus「円い」より）に -ed が付いた語。round・rotate と同じ rot を含む。",
+    "etym_chain": [
+      { "node": "rotundus", "sub": "円い", "era": "ラテン語" },
+      { "node": "round", "sub": "丸い", "era": "中英語" },
+      { "node": "rounded", "sub": "丸みを帯びた", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rounded corners", "ja": "丸い角" },
+      { "en": "well-rounded", "ja": "均整のとれた・多才な" },
+      { "en": "rounded edges", "ja": "丸みのある縁" },
+      { "en": "rounded to the nearest", "ja": "〜の位に四捨五入した" },
+      { "en": "a rounded shape", "ja": "丸みのある形" },
+      { "en": "rounded off", "ja": "端数処理された・仕上げられた" }
+    ],
+    "related": [
+      { "en": "round", "ja": "丸い・丸める" },
+      { "en": "curved", "ja": "湾曲した" },
+      { "en": "well-rounded", "ja": "バランスのとれた" },
+      { "en": "angular", "ja": "角ばった（反対）" }
+    ],
+    "faq": [
+      { "q": "well-rounded とはどういう意味ですか？", "a": "「（能力・教養・経験などが）バランスよく多方面に及んだ・多才な」という意味です。a well-rounded education（幅広い教養教育）、a well-rounded person（多才でバランスのとれた人）のように使います。" },
+      { "q": "数を rounded するとは？", "a": "「四捨五入する・端数処理する」ことです。rounded to the nearest ten で『十の位に四捨五入した』を意味します。round up（切り上げ）、round down（切り捨て）もあります。" }
+    ],
+    "quiz": [
+      { "q": "rounded の意味は？", "A": "丸みを帯びた・端数処理した", "B": "角ばった", "C": "透明な", "D": "空っぽの", "correct": "A" },
+      { "q": "well-rounded の意味は？", "A": "均整のとれた・多才な", "B": "疲れ果てた", "C": "怒りっぽい", "D": "無関心な", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rubbing",
+    "pron": "ˈrʌbɪŋ",
+    "kana": "ラビング",
+    "hinshi": "動詞（rub の現在分詞）/ 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "中英語 rubben（こする）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "頻出"],
+    "meaning_main": "こすること・摩擦／拓本（たくほん）",
+    "description": "rubbing（ラビング）は rub（こする）の現在分詞・動名詞で「こすること・摩擦」。また、凹凸の上に紙を当てて写し取った「拓本」も指します。意味・使い方を解説します。",
+    "keywords": ["rubbing 意味", "こする", "rub 使い方", "拓本"],
+    "meanings": [
+      { "hinshi": "【動詞】こすっている（rub の現在分詞）", "note": "手や布などで表面をこする。rub の -ing 形" },
+      { "hinshi": "【名詞】こすること・摩擦／拓本", "note": "碑文やコインの上に紙を当て、鉛筆などでこすって写し取ったもの（brass rubbing など）" }
+    ],
+    "usages": [
+      { "title": "① こする動作", "desc": "手・布などで", "example_en": "She was rubbing her tired eyes.", "example_ja": "彼女は疲れた目をこすっていた。" },
+      { "title": "② 拓本をとる", "desc": "凹凸を写し取る", "example_en": "They made a rubbing of the old inscription.", "example_ja": "彼らは古い碑文の拓本をとった。" }
+    ],
+    "warn": ["rub には rub in（すり込む）、rub out（消す・英）、rub off（こすり落ちる・影響が移る）など句動詞が多い"],
+    "etym_note": "中英語 rubben（こする。語源は諸説あり）に由来する rub の -ing 形。拓本の意味は『こすって写す』ことから。",
+    "etym_chain": [
+      { "node": "rubben", "sub": "こする", "era": "中英語" },
+      { "node": "rub", "sub": "こする", "era": "近代英語" },
+      { "node": "rubbing", "sub": "こすること・拓本", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rubbing his eyes", "ja": "目をこすって" },
+      { "en": "rubbing alcohol", "ja": "消毒用アルコール" },
+      { "en": "brass rubbing", "ja": "真鍮版の拓本" },
+      { "en": "rubbing together", "ja": "こすり合わせて" },
+      { "en": "a gentle rubbing", "ja": "やさしくこすること" },
+      { "en": "rubbing off", "ja": "こすり落ちる・影響が移る" }
+    ],
+    "related": [
+      { "en": "rub", "ja": "こする" },
+      { "en": "friction", "ja": "摩擦" },
+      { "en": "massage", "ja": "マッサージ" },
+      { "en": "scrub", "ja": "ごしごし洗う" }
+    ],
+    "faq": [
+      { "q": "rubbing alcohol とは何ですか？", "a": "「消毒用アルコール」のことです。傷や皮膚の消毒に使うアルコールを指します。rub（こする）から来ており、体にすり込んで使うことにちなむ言い方です。" },
+      { "q": "拓本の意味の rubbing とは？", "a": "碑文・コイン・真鍮版などの凹凸の上に紙を当て、鉛筆やクレヨンでこすって模様を写し取ったものです。brass rubbing（真鍮拓本）は英国の教会などで親しまれる手法です。" }
+    ],
+    "quiz": [
+      { "q": "rubbing の意味は？", "A": "こすること・摩擦", "B": "たたくこと", "C": "投げること", "D": "折ること", "correct": "A" },
+      { "q": "rubbing alcohol の意味は？", "A": "消毒用アルコール", "B": "飲料水", "C": "燃料", "D": "香水", "correct": "A" }
+    ]
+  }
+]
