@@ -1,0 +1,990 @@
+[
+  {
+    "english": "pore",
+    "pron": "pɔːr",
+    "kana": "ポア",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 poros（通路・穴）",
+    "ld_level": "準1級",
+    "badges": ["中学生〜", "英検準1級", "CEFR B2", "頻出"],
+    "meaning_main": "毛穴・小さな穴／じっくり読みふける",
+    "description": "pore（ポア）は名詞で「毛穴・小さな穴」、動詞で pore over〜「〜を熟読する」。同音の pour（注ぐ）と混同しやすい語です。意味・使い方・例文を解説します。",
+    "keywords": ["pore 意味", "pore over 使い方", "毛穴", "pour 違い"],
+    "meanings": [
+      { "hinshi": "【名詞】毛穴・小さな穴", "note": "皮膚や葉、岩などの表面にある微小な穴。可算" },
+      { "hinshi": "【動詞】熟読する・見入る", "note": "pore over〜で「〜を熱心に読む・じっくり調べる」" }
+    ],
+    "usages": [
+      { "title": "① pore over〜", "desc": "「〜を熟読する」定番表現", "example_en": "She pored over the documents all night.", "example_ja": "彼女は一晩じゅう書類を熟読した。" },
+      { "title": "② 毛穴・穴として", "desc": "皮膚などの穴", "example_en": "Sweat comes out through the pores.", "example_ja": "汗は毛穴から出る。" }
+    ],
+    "warn": ["同音異義語 pour（注ぐ）と混同注意。pore over（熟読する）を pour over と書くのは誤り"],
+    "etym_note": "ギリシャ語 poros（通路・小さな穴）に由来。動詞の「熟読する」は別系統だが、現代では同綴りで扱う。",
+    "etym_chain": [
+      { "node": "poros", "sub": "通路・穴", "era": "ギリシャ語" },
+      { "node": "porus", "sub": "小さな穴", "era": "ラテン語" },
+      { "node": "pore", "sub": "毛穴", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "pore over a book", "ja": "本を熟読する" },
+      { "en": "open pores", "ja": "開いた毛穴" },
+      { "en": "clogged pores", "ja": "詰まった毛穴" },
+      { "en": "skin pores", "ja": "皮膚の毛穴" },
+      { "en": "pore over the map", "ja": "地図をじっくり見る" },
+      { "en": "tiny pores", "ja": "微小な穴" }
+    ],
+    "related": [
+      { "en": "pour", "ja": "注ぐ（同音）" },
+      { "en": "skin", "ja": "皮膚" },
+      { "en": "hole", "ja": "穴" },
+      { "en": "porous", "ja": "多孔質の" }
+    ],
+    "faq": [
+      { "q": "pore over と pour over の違いは？", "a": "pore over は「〜を熟読する・じっくり調べる」、pour over は「〜の上に注ぐ」です。発音は同じですが意味が異なるので、つづりに注意しましょう。" },
+      { "q": "pore と pour と poor の関係は？", "a": "pore（毛穴・熟読する）、pour（注ぐ）、poor（貧しい）はいずれも似た音ですが、意味もつづりも別の語です。特に pore と pour は同音なので文脈で判断します。" }
+    ],
+    "quiz": [
+      { "q": "pore over a book の意味は？", "A": "本を熟読する", "B": "本を破る", "C": "本を売る", "D": "本を隠す", "correct": "A" },
+      { "q": "pore の名詞の意味は？", "A": "毛穴・小さな穴", "B": "注ぐこと", "C": "貧しさ", "D": "扉", "correct": "A" }
+    ]
+  },
+  {
+    "english": "portamento",
+    "pron": "ˌpɔːrtəˈmɛntoʊ",
+    "kana": "ポルタメント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "イタリア語 portamento（運ぶこと）",
+    "ld_level": "-",
+    "badges": ["高校生〜", "音楽用語", "外来語", "上級"],
+    "meaning_main": "ポルタメント（音から音へ滑らかに移る奏法）",
+    "description": "portamento（ポルタメント）は「ある音から次の音へ、途中の音程を滑らせるようになめらかに移る奏法・歌唱法」。音楽用語です。意味・使い方を解説します。",
+    "keywords": ["portamento 意味", "ポルタメント", "音楽 奏法", "滑らかに"],
+    "meanings": [
+      { "hinshi": "【名詞】ポルタメント", "note": "ある音から別の音へ、間の音程を連続的に滑らせて移る奏法・歌唱法。複数形 portamenti/portamentos" }
+    ],
+    "usages": [
+      { "title": "① 弦楽器・声楽で", "desc": "音を滑らせる技法", "example_en": "The violinist used a subtle portamento.", "example_ja": "そのバイオリニストは繊細なポルタメントを使った。" },
+      { "title": "② glissando との違い", "desc": "微妙な滑らかさ", "example_en": "Portamento is smoother than a glissando.", "example_ja": "ポルタメントはグリッサンドより滑らかだ。" }
+    ],
+    "warn": ["glissando（音階を段階的に滑る）と近いが、portamento は2音間を連続的に、より繊細に滑らせる"],
+    "etym_note": "イタリア語 portamento（portare「運ぶ」から＝声・音を運ぶこと）に由来。音楽用語として英語に入った。",
+    "etym_chain": [
+      { "node": "portare", "sub": "運ぶ", "era": "イタリア語" },
+      { "node": "portamento", "sub": "運ぶこと・滑奏", "era": "イタリア語" },
+      { "node": "portamento", "sub": "ポルタメント", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "use portamento", "ja": "ポルタメントを使う" },
+      { "en": "a subtle portamento", "ja": "繊細なポルタメント" },
+      { "en": "vocal portamento", "ja": "声楽のポルタメント" },
+      { "en": "portamento effect", "ja": "ポルタメント効果" },
+      { "en": "slide with portamento", "ja": "ポルタメントで滑らせる" },
+      { "en": "expressive portamento", "ja": "表情豊かなポルタメント" }
+    ],
+    "related": [
+      { "en": "glissando", "ja": "グリッサンド" },
+      { "en": "legato", "ja": "レガート（滑らかに）" },
+      { "en": "vibrato", "ja": "ビブラート" },
+      { "en": "pitch", "ja": "音程" }
+    ],
+    "faq": [
+      { "q": "portamento とは何ですか？", "a": "ある音から次の音へ移るときに、間の音程を連続的に滑らせてなめらかにつなぐ奏法・歌唱法です。バイオリンなどの弦楽器や声楽でよく使われる表現技法です。" },
+      { "q": "glissando との違いは？", "a": "glissando は音階を段階的に素早く滑る効果、portamento は2つの音の間を連続的に、より繊細で表情豊かに滑らせる点が異なります。" }
+    ],
+    "quiz": [
+      { "q": "portamento の意味は？", "A": "音から音へ滑らかに移る奏法", "B": "強く叩く奏法", "C": "音を止める記号", "D": "楽器の一種", "correct": "A" },
+      { "q": "portamento はどの言語由来？", "A": "イタリア語", "B": "ドイツ語", "C": "英語", "D": "フランス語", "correct": "A" }
+    ]
+  },
+  {
+    "english": "possessions",
+    "pron": "pəˈzɛʃənz",
+    "kana": "ポゼッションズ",
+    "hinshi": "名詞（複数形）",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 possessio（所有）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出"],
+    "meaning_main": "所有物・持ち物／領土",
+    "description": "possessions（ポゼッションズ）は possession の複数形で「所有物・持ち物」。personal possessions（身の回り品）などで頻出します。意味・使い方・例文を解説します。",
+    "keywords": ["possessions 意味", "possession 複数形", "所有物", "持ち物"],
+    "meanings": [
+      { "hinshi": "【名詞】所有物・持ち物（複数）", "note": "所有している品物。この意味では通例複数形 possessions" },
+      { "hinshi": "【名詞】領土・属領", "note": "国が所有する海外領土" }
+    ],
+    "usages": [
+      { "title": "① 身の回りの品", "desc": "personal possessions", "example_en": "She packed her possessions into boxes.", "example_ja": "彼女は持ち物を箱に詰めた。" },
+      { "title": "② 大切な物", "desc": "prized possession（大事な宝物）", "example_en": "The watch was his most prized possession.", "example_ja": "その時計は彼の最も大切な持ち物だった。" }
+    ],
+    "warn": ["単数 possession は「所有（すること）」の抽象名詞。「持ち物」の意味では通例複数形 possessions"],
+    "etym_note": "ラテン語 possessio（所有・占有。possidere「所有する」から）に由来する possession の複数形。possess（所有する）と同語源。",
+    "etym_chain": [
+      { "node": "possidere", "sub": "所有する", "era": "ラテン語" },
+      { "node": "possession", "sub": "所有・所有物", "era": "中英語" },
+      { "node": "possessions", "sub": "所有物", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "personal possessions", "ja": "身の回りの品" },
+      { "en": "prized possession", "ja": "大切な宝物" },
+      { "en": "worldly possessions", "ja": "この世の財産" },
+      { "en": "material possessions", "ja": "物質的な所有物" },
+      { "en": "lose one's possessions", "ja": "持ち物を失う" },
+      { "en": "few possessions", "ja": "わずかな持ち物" }
+    ],
+    "related": [
+      { "en": "possession", "ja": "所有・所有物" },
+      { "en": "possess", "ja": "所有する" },
+      { "en": "belongings", "ja": "持ち物・所持品" },
+      { "en": "property", "ja": "財産・所有物" }
+    ],
+    "faq": [
+      { "q": "possessions と belongings の違いは？", "a": "どちらも「持ち物・所有物」を意味しほぼ同義です。belongings のほうがやや日常的で身の回り品を指し、possessions は財産的な所有物も含む広めの語です。" },
+      { "q": "possession と possessions の違いは？", "a": "単数 possession は「所有（すること）」という抽象的な行為、複数 possessions は具体的な「所有物・持ち物」を指すことが多いです。" }
+    ],
+    "quiz": [
+      { "q": "possessions の意味は？", "A": "所有物・持ち物", "B": "感情", "C": "計画", "D": "職業", "correct": "A" },
+      { "q": "prized possession の意味は？", "A": "大切な宝物", "B": "捨てる物", "C": "借り物", "D": "壊れた物", "correct": "A" }
+    ]
+  },
+  {
+    "english": "possessiveness",
+    "pron": "pəˈzɛsɪvnəs",
+    "kana": "ポゼッシブネス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "possessive（所有欲の強い）+ -ness",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "心理"],
+    "meaning_main": "独占欲・所有欲の強さ・執着",
+    "description": "possessiveness（ポゼッシブネス）は「独占欲・所有欲の強さ」。人や物を自分だけのものにしたがる気持ちを表す語です。意味・使い方・例文を解説します。",
+    "keywords": ["possessiveness 意味", "独占欲", "possessive 名詞", "所有欲"],
+    "meanings": [
+      { "hinshi": "【名詞】独占欲・所有欲の強さ", "note": "人や物を独り占めしたがる気持ち。しばしば恋愛関係で使う。不可算" }
+    ],
+    "usages": [
+      { "title": "① 恋愛・人間関係で", "desc": "束縛したがる気持ち", "example_en": "His possessiveness strained their relationship.", "example_ja": "彼の独占欲は二人の関係をぎくしゃくさせた。" },
+      { "title": "② 形容詞 possessive", "desc": "possessive（独占欲の強い）も頻出", "example_en": "She became possessive of her friends.", "example_ja": "彼女は友人たちに対して独占欲が強くなった。" }
+    ],
+    "warn": ["文法用語の possessive（所有格）とは別。ここでは「独占したがる性質」。しばしば否定的に使う"],
+    "etym_note": "possess（所有する）由来の形容詞 possessive（所有欲の強い）に -ness（性質を表す接尾辞）が付いた名詞。",
+    "etym_chain": [
+      { "node": "possidere", "sub": "所有する", "era": "ラテン語" },
+      { "node": "possessive", "sub": "所有欲の強い", "era": "近代英語" },
+      { "node": "possessiveness", "sub": "独占欲", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "jealous possessiveness", "ja": "嫉妬深い独占欲" },
+      { "en": "a sense of possessiveness", "ja": "独占欲" },
+      { "en": "extreme possessiveness", "ja": "極端な独占欲" },
+      { "en": "possessiveness and jealousy", "ja": "独占欲と嫉妬" },
+      { "en": "show possessiveness", "ja": "独占欲を示す" },
+      { "en": "control one's possessiveness", "ja": "独占欲を抑える" }
+    ],
+    "related": [
+      { "en": "possessive", "ja": "独占欲の強い" },
+      { "en": "jealousy", "ja": "嫉妬" },
+      { "en": "obsession", "ja": "執着" },
+      { "en": "clinginess", "ja": "べったり依存すること" }
+    ],
+    "faq": [
+      { "q": "possessiveness と jealousy の違いは？", "a": "jealousy（嫉妬）は相手が他に向くことへの不安・怒り、possessiveness（独占欲）は相手や物を『自分だけのものにしたい』という気持ちです。両者はしばしば結びつきます。" },
+      { "q": "possessive の別の意味はありますか？", "a": "はい。文法用語では「所有格（の）」を意味します。my, your などの所有を表す形です。possessiveness はこの文法の意味ではなく『独占欲』を指します。" }
+    ],
+    "quiz": [
+      { "q": "possessiveness の意味は？", "A": "独占欲・所有欲の強さ", "B": "気前のよさ", "C": "無関心", "D": "正直さ", "correct": "A" },
+      { "q": "possessiveness と結びつきやすい感情は？", "A": "嫉妬", "B": "感謝", "C": "安心", "D": "退屈", "correct": "A" }
+    ]
+  },
+  {
+    "english": "postdated",
+    "pron": "ˌpoʊstˈdeɪtɪd",
+    "kana": "ポストデイテッド",
+    "hinshi": "形容詞 / 動詞（postdate の過去・過去分詞）",
+    "ld_pos": "形容詞",
+    "ld_etym": "post-（後の）+ date（日付）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "ビジネス"],
+    "meaning_main": "先日付の（実際より後の日付を記した）",
+    "description": "postdated（ポストデイテッド）は「先日付の」。実際の作成日より後の日付を書いた小切手などを指します。反対は antedated。意味・使い方・例文を解説します。",
+    "keywords": ["postdated 意味", "先日付小切手", "postdated check", "postdate"],
+    "meanings": [
+      { "hinshi": "【形容詞】先日付の", "note": "実際より後（未来）の日付を記した。postdated check（先日付小切手）" },
+      { "hinshi": "【動詞】先日付にする（postdate の過去・過去分詞）", "note": "書類に実際より後の日付を書く" }
+    ],
+    "usages": [
+      { "title": "① 先日付小切手", "desc": "指定日まで換金できない", "example_en": "He wrote a postdated check for next month.", "example_ja": "彼は翌月の先日付小切手を書いた。" },
+      { "title": "② 日付を後にする", "desc": "動詞として", "example_en": "The letter was postdated by a week.", "example_ja": "その手紙は1週間先の日付にされていた。" }
+    ],
+    "warn": ["反対は antedated / predated（実際より前の日付にする）。postdate は「後の日付にする」"],
+    "etym_note": "post-（後の・あとに）と date（日付）を合わせた語。predate/antedate（前の日付にする）と対になる。",
+    "etym_chain": [
+      { "node": "post", "sub": "後の", "era": "ラテン語" },
+      { "node": "postdate", "sub": "後の日付にする", "era": "近代英語" },
+      { "node": "postdated", "sub": "先日付の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "postdated check", "ja": "先日付小切手" },
+      { "en": "a postdated cheque", "ja": "先日付小切手（英）" },
+      { "en": "postdated document", "ja": "先日付の書類" },
+      { "en": "postdate a letter", "ja": "手紙を先日付にする" },
+      { "en": "postdated by a month", "ja": "1か月先の日付の" },
+      { "en": "issue a postdated check", "ja": "先日付小切手を振り出す" }
+    ],
+    "related": [
+      { "en": "postdate", "ja": "先日付にする" },
+      { "en": "predate", "ja": "前の日付にする" },
+      { "en": "date", "ja": "日付" },
+      { "en": "check", "ja": "小切手" }
+    ],
+    "faq": [
+      { "q": "postdated check とは何ですか？", "a": "実際に作成した日より後（未来）の日付を記した小切手です。記載された日付になるまで換金できないため、支払いを先延ばしにする目的で使われます。" },
+      { "q": "反対の意味の語は？", "a": "predated / antedated で「実際より前（過去）の日付を記した」という意味です。post-（後）と pre-/ante-（前）の対比です。" }
+    ],
+    "quiz": [
+      { "q": "postdated の意味は？", "A": "先日付の（実際より後の日付の）", "B": "期限切れの", "C": "無効の", "D": "手書きの", "correct": "A" },
+      { "q": "postdated の反対に近い語は？", "A": "predated", "B": "updated", "C": "outdated", "D": "validated", "correct": "A" }
+    ]
+  },
+  {
+    "english": "postman",
+    "pron": "ˈpoʊstmən",
+    "kana": "ポストマン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "post（郵便）+ man（人）",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A1", "日常"],
+    "meaning_main": "郵便配達員（男性）",
+    "description": "postman（ポストマン）は「郵便配達員」。主にイギリス英語で、家々に郵便を届ける人です。アメリカでは mail carrier が一般的です。意味・使い方を解説します。",
+    "keywords": ["postman 意味", "郵便配達員", "postman mailman", "郵便屋さん"],
+    "meanings": [
+      { "hinshi": "【名詞】郵便配達員", "note": "郵便物を配達する人。主に英。複数形 postmen" }
+    ],
+    "usages": [
+      { "title": "① 郵便を届ける人", "desc": "日常の身近な職業", "example_en": "The postman delivers letters every morning.", "example_ja": "郵便配達員は毎朝手紙を届ける。" },
+      { "title": "② 米では mail carrier", "desc": "地域による呼び方", "example_en": "In America, a postman is often called a mail carrier.", "example_ja": "アメリカでは postman はよく mail carrier と呼ばれる。" }
+    ],
+    "warn": ["性別を問わない言い方は mail carrier / postal worker / letter carrier。米では mailman も使う"],
+    "etym_note": "post（郵便。イタリア語 posta「宿駅」由来）と man（人）を合わせた語。もとは宿駅で郵便を運ぶ人の意。",
+    "etym_chain": [
+      { "node": "posta", "sub": "宿駅", "era": "イタリア語" },
+      { "node": "post", "sub": "郵便", "era": "近代英語" },
+      { "node": "postman", "sub": "郵便配達員", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the postman comes", "ja": "郵便配達員が来る" },
+      { "en": "wait for the postman", "ja": "郵便を待つ" },
+      { "en": "the postman's round", "ja": "配達の巡回" },
+      { "en": "a friendly postman", "ja": "気さくな郵便配達員" },
+      { "en": "the postman delivers", "ja": "郵便配達員が届ける" },
+      { "en": "become a postman", "ja": "郵便配達員になる" }
+    ],
+    "related": [
+      { "en": "mailman", "ja": "郵便配達員（米）" },
+      { "en": "mail", "ja": "郵便" },
+      { "en": "delivery", "ja": "配達" },
+      { "en": "letter", "ja": "手紙" }
+    ],
+    "faq": [
+      { "q": "postman と mailman の違いは？", "a": "どちらも「郵便配達員」です。postman は主にイギリス英語、mailman は主にアメリカ英語で使われます。性別を問わない言い方は mail carrier や postal worker です。" },
+      { "q": "女性の場合は何と言いますか？", "a": "性別を問わない mail carrier / letter carrier / postal worker を使うのが現代では一般的です。postwoman という語もありますが、中立的な呼称が好まれます。" }
+    ],
+    "quiz": [
+      { "q": "postman の意味は？", "A": "郵便配達員", "B": "警察官", "C": "消防士", "D": "運転手", "correct": "A" },
+      { "q": "アメリカでよく使う同義語は？", "A": "mail carrier", "B": "postbox", "C": "postcard", "D": "postage", "correct": "A" }
+    ]
+  },
+  {
+    "english": "postpartum",
+    "pron": "ˌpoʊstˈpɑːrtəm",
+    "kana": "ポストパータム",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 post partum（出産の後）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "医学"],
+    "meaning_main": "産後の・出産後の",
+    "description": "postpartum（ポストパータム）は「産後の・出産後の」。母体の出産後の時期に関する医学用語です。postpartum depression（産後うつ）で頻出します。意味・使い方を解説します。",
+    "keywords": ["postpartum 意味", "産後の", "postpartum depression", "出産後"],
+    "meanings": [
+      { "hinshi": "【形容詞】産後の・出産後の", "note": "母親が出産した後の期間や状態に関する。医学用語" }
+    ],
+    "usages": [
+      { "title": "① postpartum depression", "desc": "「産後うつ」定番表現", "example_en": "She was treated for postpartum depression.", "example_ja": "彼女は産後うつの治療を受けた。" },
+      { "title": "② 産後のケア", "desc": "母体の回復期", "example_en": "Postpartum care is important for new mothers.", "example_ja": "産後ケアは新米の母親にとって重要だ。" }
+    ],
+    "warn": ["反対は prenatal / antenatal（出産前の）、antepartum（分娩前の）。イギリス綴りは postpartum のまま"],
+    "etym_note": "ラテン語 post（後）+ partum（partus「出産」の対格）＝「出産の後」に由来。part- は「産む」を表す。",
+    "etym_chain": [
+      { "node": "post partum", "sub": "出産の後", "era": "ラテン語" },
+      { "node": "postpartum", "sub": "産後の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "postpartum depression", "ja": "産後うつ" },
+      { "en": "postpartum care", "ja": "産後ケア" },
+      { "en": "postpartum period", "ja": "産褥（さんじょく）期" },
+      { "en": "postpartum recovery", "ja": "産後の回復" },
+      { "en": "postpartum bleeding", "ja": "産後出血" },
+      { "en": "postpartum checkup", "ja": "産後の健診" }
+    ],
+    "related": [
+      { "en": "prenatal", "ja": "出産前の" },
+      { "en": "pregnancy", "ja": "妊娠" },
+      { "en": "childbirth", "ja": "出産" },
+      { "en": "maternal", "ja": "母親の" }
+    ],
+    "faq": [
+      { "q": "postpartum depression とは何ですか？", "a": "「産後うつ」のことです。出産後にホルモンの変化や育児の負担などから、気分の落ち込みや強い不安が続く状態を指します。適切な支援と治療が大切です。" },
+      { "q": "反対の意味の語は？", "a": "prenatal（出産前の）や antenatal（英・出産前の）です。post-（後）と pre-/ante-（前）の対比で、妊娠・出産の前後を区別します。" }
+    ],
+    "quiz": [
+      { "q": "postpartum の意味は？", "A": "産後の・出産後の", "B": "出産前の", "C": "思春期の", "D": "老年期の", "correct": "A" },
+      { "q": "postpartum の反対に近い語は？", "A": "prenatal", "B": "postgraduate", "C": "postwar", "D": "postmodern", "correct": "A" }
+    ]
+  },
+  {
+    "english": "potassium",
+    "pron": "pəˈtæsiəm",
+    "kana": "ポタシウム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "potash（カリ）+ -ium（元素の接尾辞）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "理科・化学"],
+    "meaning_main": "カリウム（元素記号 K）",
+    "description": "potassium（ポタシウム）は「カリウム」。元素記号 K で、体の機能に欠かせないミネラルです。バナナなどに多く含まれます。意味・使い方・例文を解説します。",
+    "keywords": ["potassium 意味", "カリウム", "元素記号 K", "ミネラル"],
+    "meanings": [
+      { "hinshi": "【名詞】カリウム", "note": "元素記号 K の金属元素。生体に必須のミネラルで、神経や筋肉の働きに関わる。不可算" }
+    ],
+    "usages": [
+      { "title": "① 栄養・健康の話で", "desc": "必須ミネラル", "example_en": "Bananas are rich in potassium.", "example_ja": "バナナはカリウムが豊富だ。" },
+      { "title": "② 化学元素として", "desc": "元素記号 K", "example_en": "The chemical symbol for potassium is K.", "example_ja": "カリウムの元素記号はKだ。" }
+    ],
+    "warn": ["元素記号は K（ラテン語 kalium 由来）。ナトリウム sodium（Na）と並ぶ体内の重要な電解質"],
+    "etym_note": "potash（カリ。pot「鍋」+ ash「灰」＝草木灰を煮出した灰汁から得たことから）に -ium が付いた語。記号 K はラテン語 kalium から。",
+    "etym_chain": [
+      { "node": "pot ash", "sub": "鍋の灰", "era": "近代英語" },
+      { "node": "potassium", "sub": "カリウム", "era": "19世紀" },
+      { "node": "potassium", "sub": "カリウム", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rich in potassium", "ja": "カリウムが豊富な" },
+      { "en": "potassium level", "ja": "カリウム値" },
+      { "en": "low in potassium", "ja": "カリウムが少ない" },
+      { "en": "potassium chloride", "ja": "塩化カリウム" },
+      { "en": "a source of potassium", "ja": "カリウムの供給源" },
+      { "en": "potassium deficiency", "ja": "カリウム欠乏" }
+    ],
+    "related": [
+      { "en": "sodium", "ja": "ナトリウム" },
+      { "en": "calcium", "ja": "カルシウム" },
+      { "en": "mineral", "ja": "ミネラル" },
+      { "en": "element", "ja": "元素" }
+    ],
+    "faq": [
+      { "q": "potassium（カリウム）の元素記号は？", "a": "K です。ラテン語の kalium に由来します。原子番号は19で、体内では神経の伝達や筋肉の収縮、血圧の調整などに関わる重要なミネラルです。" },
+      { "q": "どんな食品に多く含まれますか？", "a": "バナナ、いも類、ほうれん草、豆類、アボカドなどに多く含まれます。ナトリウム（塩分）とバランスをとって血圧を保つ働きがあります。" }
+    ],
+    "quiz": [
+      { "q": "potassium の意味は？", "A": "カリウム", "B": "酸素", "C": "水素", "D": "炭素", "correct": "A" },
+      { "q": "potassium の元素記号は？", "A": "K", "B": "P", "C": "Na", "D": "Ca", "correct": "A" }
+    ]
+  },
+  {
+    "english": "praised",
+    "pron": "preɪzd",
+    "kana": "プレイズド",
+    "hinshi": "動詞（praise の過去・過去分詞）",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 pretium（価値）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "頻出"],
+    "meaning_main": "褒めた／称賛された",
+    "description": "praised（プレイズド）は praise（褒める）の過去・過去分詞で「褒めた・称賛された」。be praised for〜で「〜のことで褒められる」。意味・使い方を解説します。",
+    "keywords": ["praised 意味", "praise 過去形", "褒めた", "称賛された"],
+    "meanings": [
+      { "hinshi": "【動詞】褒めた・称賛した（praise の過去・過去分詞）", "note": "高く評価してほめること" },
+      { "hinshi": "【受動】称賛される", "note": "be praised for〜で「〜のことで褒められる」" }
+    ],
+    "usages": [
+      { "title": "① be praised for〜", "desc": "「〜のことで褒められる」", "example_en": "She was praised for her hard work.", "example_ja": "彼女は勤勉さを褒められた。" },
+      { "title": "② 高く評価する", "desc": "作品などを称賛", "example_en": "Critics praised the new film.", "example_ja": "批評家たちは新作映画を称賛した。" }
+    ],
+    "warn": ["praise（褒める）は prize（賞・尊ぶ）と混同しやすい。highly praised で「高く評価された」"],
+    "etym_note": "ラテン語 pretium（価値・値段）に由来し、「価値を認める→褒める」へ意味が発展した。price・prize と同語源。",
+    "etym_chain": [
+      { "node": "pretium", "sub": "価値", "era": "ラテン語" },
+      { "node": "preisier", "sub": "評価する", "era": "古仏語" },
+      { "node": "praised", "sub": "褒めた", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be praised for", "ja": "〜のことで褒められる" },
+      { "en": "highly praised", "ja": "高く評価された" },
+      { "en": "widely praised", "ja": "広く称賛された" },
+      { "en": "praised the effort", "ja": "努力を褒めた" },
+      { "en": "critically praised", "ja": "批評家に絶賛された" },
+      { "en": "praised and rewarded", "ja": "褒められ報われた" }
+    ],
+    "related": [
+      { "en": "praise", "ja": "褒める・称賛" },
+      { "en": "commend", "ja": "称賛する" },
+      { "en": "applaud", "ja": "称賛する・拍手する" },
+      { "en": "criticize", "ja": "批判する（反対）" }
+    ],
+    "faq": [
+      { "q": "be praised for と be praised as の違いは？", "a": "be praised for〜は「〜のこと（理由）で褒められる」、be praised as〜は「〜として称賛される」です。for は理由、as は肩書き・立場を表します。" },
+      { "q": "praise と prize の違いは？", "a": "praise は「褒める・称賛（する）」、prize は「賞（品）」または「大切にする」です。発音も意味も異なるので混同しないよう注意しましょう。" }
+    ],
+    "quiz": [
+      { "q": "be praised for〜 の意味は？", "A": "〜のことで褒められる", "B": "〜のことで叱られる", "C": "〜を無視される", "D": "〜を疑われる", "correct": "A" },
+      { "q": "praised の反対に近い語は？", "A": "criticized", "B": "commended", "C": "applauded", "D": "admired", "correct": "A" }
+    ]
+  },
+  {
+    "english": "praiseworthily",
+    "pron": "ˈpreɪzˌwɜːrðɪli",
+    "kana": "プレイズワーザリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "praiseworthy（称賛に値する）+ -ly",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文語"],
+    "meaning_main": "称賛に値するように・見事に",
+    "description": "praiseworthily（プレイズワーザリー）は「称賛に値するように・立派に」。praiseworthy（称賛に値する）の副詞形で、まれに使われる格式語です。意味・使い方を解説します。",
+    "keywords": ["praiseworthily 意味", "praiseworthy 副詞", "称賛に値する", "立派に"],
+    "meanings": [
+      { "hinshi": "【副詞】称賛に値するように・見事に", "note": "褒められて当然なほど立派に。まれで格式ばった語" }
+    ],
+    "usages": [
+      { "title": "① 立派な行いを評して", "desc": "格式ある文章で", "example_en": "He behaved praiseworthily throughout the crisis.", "example_ja": "彼は危機の間ずっと立派にふるまった。" },
+      { "title": "② 形容詞 praiseworthy", "desc": "praiseworthy のほうが一般的", "example_en": "Her efforts were truly praiseworthy.", "example_ja": "彼女の努力は実に称賛に値するものだった。" }
+    ],
+    "warn": ["副詞 praiseworthily はまれ。ふつうは形容詞 praiseworthy（称賛に値する）や admirably を使う"],
+    "etym_note": "praise（褒める）+ worthy（値する）の複合形容詞 praiseworthy に -ly が付いた副詞。「褒める価値がある」の意。",
+    "etym_chain": [
+      { "node": "praise + worthy", "sub": "褒める価値がある", "era": "中英語" },
+      { "node": "praiseworthy", "sub": "称賛に値する", "era": "近代英語" },
+      { "node": "praiseworthily", "sub": "称賛に値するように", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "behave praiseworthily", "ja": "立派にふるまう" },
+      { "en": "act praiseworthily", "ja": "称賛に値するように行動する" },
+      { "en": "praiseworthy effort", "ja": "称賛に値する努力" },
+      { "en": "praiseworthy behavior", "ja": "立派なふるまい" },
+      { "en": "truly praiseworthy", "ja": "実に称賛に値する" },
+      { "en": "a praiseworthy goal", "ja": "立派な目標" }
+    ],
+    "related": [
+      { "en": "praiseworthy", "ja": "称賛に値する" },
+      { "en": "admirably", "ja": "見事に" },
+      { "en": "commendably", "ja": "称賛に値するほど" },
+      { "en": "worthily", "ja": "立派に" }
+    ],
+    "faq": [
+      { "q": "praiseworthily はよく使われますか？", "a": "あまり使われないまれな副詞です。日常では形容詞の praiseworthy（称賛に値する）や、副詞なら admirably / commendably を使うほうが自然です。" },
+      { "q": "praiseworthy とはどういう意味ですか？", "a": "「称賛に値する・褒めるべき」という意味の形容詞です。praise（褒める）+ worthy（値する）から成り、立派な行いや努力をたたえる語です。" }
+    ],
+    "quiz": [
+      { "q": "praiseworthily の意味は？", "A": "称賛に値するように・立派に", "B": "こっそりと", "C": "乱暴に", "D": "退屈そうに", "correct": "A" },
+      { "q": "praiseworthy を構成する2語は？", "A": "praise + worthy", "B": "price + worthy", "C": "prize + wordy", "D": "praise + weary", "correct": "A" }
+    ]
+  },
+  {
+    "english": "pre-owned",
+    "pron": "ˌpriːˈoʊnd",
+    "kana": "プリオウンド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "pre-（前に）+ owned（所有された）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "ビジネス"],
+    "meaning_main": "中古の（以前に所有された）",
+    "description": "pre-owned（プリオウンド）は「中古の」。used（中古の）を上品に言い換えた表現で、車や高級品の販売でよく使われます。意味・使い方・例文を解説します。",
+    "keywords": ["pre-owned 意味", "中古の 英語", "used 言い換え", "certified pre-owned"],
+    "meanings": [
+      { "hinshi": "【形容詞】中古の・以前に所有された", "note": "used（中古の）の遠回しで上品な言い方。車・高級品の販売で好まれる" }
+    ],
+    "usages": [
+      { "title": "① 中古品の販売で", "desc": "used の婉曲表現", "example_en": "They sell certified pre-owned cars.", "example_ja": "彼らは認定中古車を販売している。" },
+      { "title": "② 高級品でも", "desc": "上品な印象を与える", "example_en": "This is a pre-owned luxury watch.", "example_ja": "これは中古の高級腕時計だ。" }
+    ],
+    "warn": ["意味は used（中古の）と同じだが、より上品・肯定的な印象を狙った販売用語。second-hand も同義"],
+    "etym_note": "pre-（前に）と owned（own「所有する」の過去分詞）を合わせた語。「（今の持ち主より）前に所有されていた」の意。",
+    "etym_chain": [
+      { "node": "pre + owned", "sub": "前に所有された", "era": "20世紀" },
+      { "node": "pre-owned", "sub": "中古の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "pre-owned car", "ja": "中古車" },
+      { "en": "certified pre-owned", "ja": "認定中古" },
+      { "en": "pre-owned vehicle", "ja": "中古車両" },
+      { "en": "a pre-owned watch", "ja": "中古の腕時計" },
+      { "en": "buy pre-owned", "ja": "中古で買う" },
+      { "en": "pre-owned goods", "ja": "中古品" }
+    ],
+    "related": [
+      { "en": "used", "ja": "中古の・使用された" },
+      { "en": "second-hand", "ja": "中古の" },
+      { "en": "new", "ja": "新品の（反対）" },
+      { "en": "refurbished", "ja": "整備済みの" }
+    ],
+    "faq": [
+      { "q": "pre-owned と used の違いは？", "a": "意味は同じ「中古の」ですが、pre-owned は used よりも上品で肯定的な響きを狙った販売用語です。特に自動車や高級品の広告でよく使われます。" },
+      { "q": "certified pre-owned とは？", "a": "「認定中古（車）」のことです。メーカーや販売店が点検・保証をつけて販売する中古車を指し、通常の中古より品質が保証されています。" }
+    ],
+    "quiz": [
+      { "q": "pre-owned の意味は？", "A": "中古の", "B": "新品の", "C": "壊れた", "D": "非売品の", "correct": "A" },
+      { "q": "pre-owned とほぼ同義の語は？", "A": "used", "B": "brand-new", "C": "unopened", "D": "handmade", "correct": "A" }
+    ]
+  },
+  {
+    "english": "predictability",
+    "pron": "prɪˌdɪktəˈbɪləti",
+    "kana": "プリディクタビリティ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "predictable（予測できる）+ -ity",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出"],
+    "meaning_main": "予測可能性・先が読めること",
+    "description": "predictability（プリディクタビリティ）は「予測可能性・先の読めること」。物事が予想どおりに進む性質を表します。反対は unpredictability。意味・使い方を解説します。",
+    "keywords": ["predictability 意味", "予測可能性", "predictable 名詞", "先が読める"],
+    "meanings": [
+      { "hinshi": "【名詞】予測可能性・先が読めること", "note": "物事がどうなるか予想できる性質。良い意味（安定）にも悪い意味（退屈・意外性のなさ）にも使う。不可算" }
+    ],
+    "usages": [
+      { "title": "① 安定・確実さとして", "desc": "肯定的な意味で", "example_en": "The predictability of the schedule was reassuring.", "example_ja": "予定が予測できることは安心だった。" },
+      { "title": "② 意外性のなさとして", "desc": "やや否定的に", "example_en": "The plot's predictability was disappointing.", "example_ja": "筋書きが読めてしまうのは残念だった。" }
+    ],
+    "warn": ["反対は unpredictability（予測不可能性）。文脈で「安心できる安定」とも「退屈な単調さ」とも取れる"],
+    "etym_note": "predict（pre-「前もって」+ dicere「言う」＝予言する）由来の形容詞 predictable に -ity が付いた名詞。",
+    "etym_chain": [
+      { "node": "praedicere", "sub": "予言する", "era": "ラテン語" },
+      { "node": "predictable", "sub": "予測できる", "era": "近代英語" },
+      { "node": "predictability", "sub": "予測可能性", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a sense of predictability", "ja": "予測できる安心感" },
+      { "en": "lack of predictability", "ja": "予測できなさ" },
+      { "en": "the predictability of", "ja": "〜の予測可能性" },
+      { "en": "boring predictability", "ja": "退屈な単調さ" },
+      { "en": "provide predictability", "ja": "予測可能性をもたらす" },
+      { "en": "predictability and stability", "ja": "予測可能性と安定" }
+    ],
+    "related": [
+      { "en": "predictable", "ja": "予測できる" },
+      { "en": "predict", "ja": "予測する" },
+      { "en": "unpredictability", "ja": "予測不可能性（反対）" },
+      { "en": "certainty", "ja": "確実性" }
+    ],
+    "faq": [
+      { "q": "predictability は良い意味ですか？", "a": "文脈次第です。『先が読めて安心・安定している』という肯定的な意味にも、『意外性がなく退屈』というやや否定的な意味にも使われます。" },
+      { "q": "反対の意味の語は？", "a": "unpredictability（予測不可能性）です。何が起こるか読めない性質を指します。un- が付くと反対の意味になります。" }
+    ],
+    "quiz": [
+      { "q": "predictability の意味は？", "A": "予測可能性・先が読めること", "B": "危険性", "C": "創造性", "D": "多様性", "correct": "A" },
+      { "q": "predictability の反対語は？", "A": "unpredictability", "B": "dependability", "C": "availability", "D": "reliability", "correct": "A" }
+    ]
+  },
+  {
+    "english": "prefab",
+    "pron": "ˈpriːfæb",
+    "kana": "プリファブ",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "prefabricated（あらかじめ製造された）の短縮",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "建築"],
+    "meaning_main": "プレハブ（の）・組立式建築",
+    "description": "prefab（プリファブ）は prefabricated の略で「プレハブ（の）・組立式の建物」。工場で部材を作り現場で組み立てる建築を指します。意味・使い方を解説します。",
+    "keywords": ["prefab 意味", "プレハブ", "prefabricated 略", "組立式"],
+    "meanings": [
+      { "hinshi": "【名詞】プレハブ住宅・組立式建物", "note": "工場で作った部材を現場で組み立てる建物。prefabricated の口語的短縮" },
+      { "hinshi": "【形容詞】プレハブの・組立式の", "note": "prefab house（プレハブ住宅）" }
+    ],
+    "usages": [
+      { "title": "① 組立式の建物", "desc": "短工期・低コスト", "example_en": "They built a prefab house in a few weeks.", "example_ja": "彼らは数週間でプレハブ住宅を建てた。" },
+      { "title": "② 形容詞として", "desc": "prefab + 名詞", "example_en": "The office used prefab units.", "example_ja": "そのオフィスは組立式ユニットを使った。" }
+    ],
+    "warn": ["prefab は口語的な略。正式には prefabricated（あらかじめ製造された）。日本語「プレハブ」もこの略から"],
+    "etym_note": "prefabricated（pre-「前もって」+ fabricate「製造する」）を短縮した口語。第二次大戦後の仮設住宅で広まった語。",
+    "etym_chain": [
+      { "node": "prefabricated", "sub": "あらかじめ製造された", "era": "20世紀" },
+      { "node": "prefab", "sub": "プレハブ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "prefab house", "ja": "プレハブ住宅" },
+      { "en": "prefab building", "ja": "組立式建物" },
+      { "en": "prefab unit", "ja": "組立式ユニット" },
+      { "en": "a cheap prefab", "ja": "安価なプレハブ" },
+      { "en": "prefab construction", "ja": "プレハブ工法" },
+      { "en": "modular prefab", "ja": "モジュール式プレハブ" }
+    ],
+    "related": [
+      { "en": "prefabricated", "ja": "あらかじめ製造された" },
+      { "en": "modular", "ja": "モジュール式の" },
+      { "en": "assemble", "ja": "組み立てる" },
+      { "en": "construction", "ja": "建築・建設" }
+    ],
+    "faq": [
+      { "q": "prefab とは何ですか？", "a": "prefabricated（あらかじめ工場で製造された）の略で、部材を工場で作り現場で組み立てる建物や、その工法を指します。短工期・低コストが特長です。" },
+      { "q": "prefab のメリットは？", "a": "工場生産のため品質が安定し、現場での作業が少なく工期が短く、コストも抑えやすい点です。仮設住宅や増築などによく使われます。" }
+    ],
+    "quiz": [
+      { "q": "prefab の意味は？", "A": "組立式（プレハブ）の建物", "B": "石造りの城", "C": "地下室", "D": "テント", "correct": "A" },
+      { "q": "prefab は何の略？", "A": "prefabricated", "B": "preferable", "C": "prefecture", "D": "preface", "correct": "A" }
+    ]
+  },
+  {
+    "english": "preferred",
+    "pron": "prɪˈfɜːrd",
+    "kana": "プリファード",
+    "hinshi": "動詞（prefer の過去・過去分詞）/ 形容詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 praeferre（前に置く・好む）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "頻出"],
+    "meaning_main": "〜のほうを好んだ／優先の・望ましい",
+    "description": "preferred（プリファード）は prefer（好む）の過去・過去分詞で「〜のほうを好んだ」。形容詞で「優先の・望ましい」。つづりは r を重ねます。意味・使い方を解説します。",
+    "keywords": ["preferred 意味", "prefer 過去形", "優先の", "望ましい"],
+    "meanings": [
+      { "hinshi": "【動詞】〜のほうを好んだ（prefer の過去・過去分詞）", "note": "r を重ねて preferred。prefer A to B（BよりA**を好む）" },
+      { "hinshi": "【形容詞】優先の・望ましい", "note": "preferred method（望ましい方法）、preferred stock（優先株）" }
+    ],
+    "usages": [
+      { "title": "① prefer の過去形", "desc": "「〜のほうを好んだ」", "example_en": "She preferred tea to coffee.", "example_ja": "彼女はコーヒーより紅茶のほうを好んだ。" },
+      { "title": "② 形容詞「望ましい」", "desc": "preferred option（優先の選択肢）", "example_en": "Email is my preferred method of contact.", "example_ja": "メールが私の希望する連絡方法だ。" }
+    ],
+    "warn": ["つづりは r を重ねて preferred。prefered は誤り（アクセントが後ろの -fer にあるため子音を重ねる）"],
+    "etym_note": "ラテン語 praeferre（prae「前に」+ ferre「運ぶ」＝前に置く→好む）に由来。transfer・refer と同じ ferre を含む。",
+    "etym_chain": [
+      { "node": "praeferre", "sub": "前に置く・好む", "era": "ラテン語" },
+      { "node": "prefer", "sub": "好む", "era": "中英語" },
+      { "node": "preferred", "sub": "好んだ・優先の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "preferred method", "ja": "望ましい方法" },
+      { "en": "preferred option", "ja": "優先の選択肢" },
+      { "en": "preferred stock", "ja": "優先株" },
+      { "en": "the preferred choice", "ja": "好まれる選択" },
+      { "en": "widely preferred", "ja": "広く好まれる" },
+      { "en": "preferred over", "ja": "〜より好まれる" }
+    ],
+    "related": [
+      { "en": "prefer", "ja": "好む" },
+      { "en": "preference", "ja": "好み・優先" },
+      { "en": "favored", "ja": "好まれた" },
+      { "en": "preferable", "ja": "望ましい" }
+    ],
+    "faq": [
+      { "q": "preferred のつづりで注意する点は？", "a": "r を2つ重ねて preferred と書きます。prefer はアクセントが後ろの音節にあるため、-ed を付けるとき子音を重ねます。prefered は誤りです。" },
+      { "q": "preferred stock とは何ですか？", "a": "「優先株」のことです。配当や残余財産の分配で普通株より優先される株式を指します。preferred が『優先の』という意味で使われる例です。" }
+    ],
+    "quiz": [
+      { "q": "preferred の意味は？", "A": "〜のほうを好んだ・優先の", "B": "拒否した", "C": "忘れた", "D": "延期した", "correct": "A" },
+      { "q": "prefer の正しい過去形は？", "A": "preferred", "B": "prefered", "C": "preferd", "D": "preffered", "correct": "A" }
+    ]
+  },
+  {
+    "english": "premises",
+    "pron": "ˈprɛmɪsɪz",
+    "kana": "プレミシズ",
+    "hinshi": "名詞（複数形）",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 praemissa（前に述べられたもの）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "ビジネス"],
+    "meaning_main": "建物と敷地・構内／（複数の）前提",
+    "description": "premises（プレミシズ）は「（建物とその）敷地・構内」。この意味では常に複数形です。また premise の複数で「前提」も表します。意味・使い方を解説します。",
+    "keywords": ["premises 意味", "構内", "premises 使い方", "敷地"],
+    "meanings": [
+      { "hinshi": "【名詞】建物と敷地・構内", "note": "土地・建物を含む区画。この意味では常に複数形 premises。on the premises（構内で）" },
+      { "hinshi": "【名詞】前提（複数）", "note": "premise（前提）の複数形。論理・議論の出発点となる仮定" }
+    ],
+    "usages": [
+      { "title": "① 構内・敷地として", "desc": "on/off the premises", "example_en": "Smoking is not allowed on the premises.", "example_ja": "構内は禁煙です。" },
+      { "title": "② 立ち退き・営業で", "desc": "business premises", "example_en": "The company moved to new premises.", "example_ja": "その会社は新しい建物へ移転した。" }
+    ],
+    "warn": ["「建物・敷地」の意味では常に複数形 premises（単数形 premise は主に『前提』の意味）。on the premises で「構内で」"],
+    "etym_note": "ラテン語 praemissa（前に述べられたもの）に由来。法律文書で「前述の物件」を指したことから「（当該の）建物・敷地」の意味が生まれた。",
+    "etym_chain": [
+      { "node": "praemissa", "sub": "前に述べたもの", "era": "ラテン語" },
+      { "node": "premisses", "sub": "前述の物件", "era": "中英語" },
+      { "node": "premises", "sub": "建物と敷地", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "on the premises", "ja": "構内で" },
+      { "en": "off the premises", "ja": "構外で" },
+      { "en": "business premises", "ja": "営業所・事業所" },
+      { "en": "leave the premises", "ja": "構内から立ち去る" },
+      { "en": "commercial premises", "ja": "商業施設" },
+      { "en": "new premises", "ja": "新しい建物" }
+    ],
+    "related": [
+      { "en": "premise", "ja": "前提" },
+      { "en": "property", "ja": "不動産・財産" },
+      { "en": "building", "ja": "建物" },
+      { "en": "grounds", "ja": "敷地・構内" }
+    ],
+    "faq": [
+      { "q": "premises と premise の違いは？", "a": "premise（単数）は主に『前提・仮定』を意味します。premises（複数）は『建物とその敷地・構内』を指し、この意味では常に複数形で使います。" },
+      { "q": "on the premises とはどういう意味ですか？", "a": "「（その）構内で・敷地内で」という意味です。店や施設の建物・土地の範囲内を指し、on/off the premises で構内・構外を表します。" }
+    ],
+    "quiz": [
+      { "q": "premises の意味は？", "A": "建物と敷地・構内", "B": "約束", "C": "賞金", "D": "許可証", "correct": "A" },
+      { "q": "on the premises の意味は？", "A": "構内で", "B": "予定どおり", "C": "無料で", "D": "急いで", "correct": "A" }
+    ]
+  },
+  {
+    "english": "preoccupation",
+    "pron": "priˌɒkjʊˈpeɪʃən",
+    "kana": "プリオキュペイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "pre-（前もって）+ occupation（占有）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "頻出"],
+    "meaning_main": "気がかり・夢中になっていること・没頭",
+    "description": "preoccupation（プリオキュペイション）は「（心を占める）気がかり・夢中になっていること」。頭がいっぱいで他が手につかない状態を表します。意味・使い方を解説します。",
+    "keywords": ["preoccupation 意味", "気がかり", "preoccupied 名詞", "没頭"],
+    "meanings": [
+      { "hinshi": "【名詞】気がかり・心配ごと", "note": "心を占めて離れない事柄。preoccupation with〜で「〜への没頭・とらわれ」" },
+      { "hinshi": "【名詞】夢中・没頭", "note": "あることに心を奪われている状態" }
+    ],
+    "usages": [
+      { "title": "① preoccupation with〜", "desc": "「〜へのとらわれ・没頭」", "example_en": "His preoccupation with money worried his family.", "example_ja": "彼のお金への執着は家族を心配させた。" },
+      { "title": "② 気がかり", "desc": "心を占める事柄", "example_en": "Health was her main preoccupation.", "example_ja": "健康が彼女の一番の気がかりだった。" }
+    ],
+    "warn": ["occupation（職業・占有）とは別。pre- が付いて「（心を）前もって占めるもの＝気がかり」の意味になる"],
+    "etym_note": "pre-（前もって）+ occupation（占めること）＝「あらかじめ心を占めるもの」。occupy（占める）と同語源。",
+    "etym_chain": [
+      { "node": "occupare", "sub": "占める", "era": "ラテン語" },
+      { "node": "preoccupy", "sub": "心を奪う", "era": "近代英語" },
+      { "node": "preoccupation", "sub": "気がかり・没頭", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "preoccupation with", "ja": "〜へのとらわれ・没頭" },
+      { "en": "main preoccupation", "ja": "一番の気がかり" },
+      { "en": "constant preoccupation", "ja": "絶えない心配" },
+      { "en": "a growing preoccupation", "ja": "強まる関心・執着" },
+      { "en": "national preoccupation", "ja": "国民的な関心事" },
+      { "en": "an unhealthy preoccupation", "ja": "不健全な執着" }
+    ],
+    "related": [
+      { "en": "preoccupied", "ja": "夢中の・気を取られた" },
+      { "en": "obsession", "ja": "執着・強迫観念" },
+      { "en": "concern", "ja": "心配・関心事" },
+      { "en": "absorption", "ja": "没頭" }
+    ],
+    "faq": [
+      { "q": "preoccupation with とはどう使いますか？", "a": "「〜への没頭・とらわれ・執着」を表します。a preoccupation with success（成功へのとらわれ）のように、あることに心を奪われて頭がいっぱいな状態を示します。" },
+      { "q": "preoccupation と obsession の違いは？", "a": "obsession（強迫観念・執着）のほうが病的で強い度合いを表します。preoccupation は『気がかりで頭がいっぱい』という、より一般的で幅広い没頭を指します。" }
+    ],
+    "quiz": [
+      { "q": "preoccupation の意味は？", "A": "気がかり・夢中になっていること", "B": "無関心", "C": "休息", "D": "祝賀", "correct": "A" },
+      { "q": "preoccupation with money の意味は？", "A": "お金へのとらわれ・執着", "B": "お金を失うこと", "C": "お金を寄付すること", "D": "お金を数えること", "correct": "A" }
+    ]
+  },
+  {
+    "english": "preoccupied",
+    "pron": "priˈɒkjʊpaɪd",
+    "kana": "プリオキュパイド",
+    "hinshi": "形容詞 / 動詞（preoccupy の過去・過去分詞）",
+    "ld_pos": "形容詞",
+    "ld_etym": "pre-（前もって）+ occupied（占められた）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出"],
+    "meaning_main": "（考え事に）気を取られた・夢中の・上の空の",
+    "description": "preoccupied（プリオキュパイド）は「考え事に気を取られた・上の空の・夢中の」。心が他のことでいっぱいの状態を表します。be preoccupied with〜で頻出。意味・使い方を解説します。",
+    "keywords": ["preoccupied 意味", "上の空", "be preoccupied with", "気を取られた"],
+    "meanings": [
+      { "hinshi": "【形容詞】気を取られた・上の空の", "note": "考え事で心がいっぱいで、目の前のことに集中できない" },
+      { "hinshi": "【形容詞】夢中の・没頭した", "note": "be preoccupied with〜で「〜に夢中で・〜のことで頭がいっぱいで」" }
+    ],
+    "usages": [
+      { "title": "① 上の空", "desc": "考え事で集中できない", "example_en": "He seemed preoccupied during the meeting.", "example_ja": "彼は会議中、上の空のようだった。" },
+      { "title": "② be preoccupied with〜", "desc": "「〜に夢中で」", "example_en": "She was preoccupied with her own problems.", "example_ja": "彼女は自分の問題で頭がいっぱいだった。" }
+    ],
+    "warn": ["occupied（使用中の・ふさがった）と混同注意。preoccupied は『心が他のことに奪われて上の空』の意味"],
+    "etym_note": "動詞 preoccupy（あらかじめ心を占める）の過去分詞。pre-（前もって）+ occupy（占める）から。",
+    "etym_chain": [
+      { "node": "occupare", "sub": "占める", "era": "ラテン語" },
+      { "node": "preoccupy", "sub": "心を奪う", "era": "近代英語" },
+      { "node": "preoccupied", "sub": "気を取られた", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be preoccupied with", "ja": "〜で頭がいっぱいで" },
+      { "en": "look preoccupied", "ja": "上の空に見える" },
+      { "en": "preoccupied by thoughts", "ja": "考え事に気を取られて" },
+      { "en": "seem preoccupied", "ja": "上の空のようだ" },
+      { "en": "too preoccupied to notice", "ja": "気を取られて気づかない" },
+      { "en": "preoccupied and distracted", "ja": "上の空で気が散った" }
+    ],
+    "related": [
+      { "en": "preoccupation", "ja": "気がかり・没頭" },
+      { "en": "distracted", "ja": "気が散った" },
+      { "en": "absorbed", "ja": "没頭した" },
+      { "en": "absent-minded", "ja": "上の空の" }
+    ],
+    "faq": [
+      { "q": "preoccupied と occupied の違いは？", "a": "occupied は『（席や部屋が）使用中の・ふさがった』、preoccupied は『心が他のことに奪われて上の空・夢中の』です。pre- が付くと心理的な意味になります。" },
+      { "q": "be preoccupied with とはどう使いますか？", "a": "「〜のことで頭がいっぱいで・〜に夢中で」を表します。be preoccupied with work（仕事のことで頭がいっぱい）のように、心がそれに占められている状態を示します。" }
+    ],
+    "quiz": [
+      { "q": "preoccupied の意味は？", "A": "気を取られた・上の空の", "B": "元気いっぱいの", "C": "退屈した", "D": "満足した", "correct": "A" },
+      { "q": "be preoccupied with〜 の意味は？", "A": "〜で頭がいっぱいで", "B": "〜を避けて", "C": "〜に反対して", "D": "〜を忘れて", "correct": "A" }
+    ]
+  },
+  {
+    "english": "prescience",
+    "pron": "ˈprɛʃəns",
+    "kana": "プレシェンス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 praescientia（前もって知ること）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "文語"],
+    "meaning_main": "先見（の明）・予知",
+    "description": "prescience（プレシェンス）は「先見の明・予知」。将来を前もって知る、あるいは見通す力を表す格式語です。形容詞は prescient。意味・使い方を解説します。",
+    "keywords": ["prescience 意味", "先見の明", "prescient", "予知"],
+    "meanings": [
+      { "hinshi": "【名詞】先見の明・予知", "note": "将来の出来事を前もって知る・見通す力。不可算。文語的" }
+    ],
+    "usages": [
+      { "title": "① 先見の明", "desc": "将来を見通す力", "example_en": "Her prescience about the market was remarkable.", "example_ja": "市場についての彼女の先見の明は見事だった。" },
+      { "title": "② 形容詞 prescient", "desc": "prescient（先見の明のある）も頻出", "example_en": "His warning proved prescient.", "example_ja": "彼の警告は先見の明があったとわかった。" }
+    ],
+    "warn": ["foresight（先見・見通し）とほぼ同義だが、prescience はより格式ばり、時にほぼ超自然的な『予知』を含意する"],
+    "etym_note": "ラテン語 praescientia（prae「前もって」+ scire「知る」＝前もって知ること）に由来。science・conscience と同じ scire を含む。",
+    "etym_chain": [
+      { "node": "praescientia", "sub": "前もって知ること", "era": "ラテン語" },
+      { "node": "prescience", "sub": "先見", "era": "中英語" },
+      { "node": "prescience", "sub": "先見の明", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "remarkable prescience", "ja": "見事な先見の明" },
+      { "en": "show prescience", "ja": "先見の明を示す" },
+      { "en": "a sense of prescience", "ja": "予知の感覚" },
+      { "en": "with prescience", "ja": "先見の明をもって" },
+      { "en": "uncanny prescience", "ja": "不気味なほどの予知力" },
+      { "en": "prescience and insight", "ja": "先見と洞察" }
+    ],
+    "related": [
+      { "en": "prescient", "ja": "先見の明のある" },
+      { "en": "foresight", "ja": "先見・見通し" },
+      { "en": "foreknowledge", "ja": "予知" },
+      { "en": "insight", "ja": "洞察" }
+    ],
+    "faq": [
+      { "q": "prescience と foresight の違いは？", "a": "どちらも「先見・見通す力」ですが、foresight は日常的な『先を見越す慎重さ』、prescience はより格式ばり、時にほぼ超自然的な『予知能力』を含意する文語です。" },
+      { "q": "形容詞形は何ですか？", "a": "prescient で「先見の明のある・予見的な」という意味です。a prescient warning（先見の明のある警告）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "prescience の意味は？", "A": "先見の明・予知", "B": "無知", "C": "後悔", "D": "混乱", "correct": "A" },
+      { "q": "prescience の形容詞形は？", "A": "prescient", "B": "prescious", "C": "presciable", "D": "prescial", "correct": "A" }
+    ]
+  },
+  {
+    "english": "prescriptive",
+    "pron": "prɪˈskrɪptɪv",
+    "kana": "プリスクリプティブ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 praescribere（前もって書く・指図する）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "言語学"],
+    "meaning_main": "規範的な・こうすべきと定める",
+    "description": "prescriptive（プリスクリプティブ）は「規範的な・こうあるべきと定める」。特に文法で『正しい使い方を規定する』立場を指します。反対は descriptive。意味・使い方を解説します。",
+    "keywords": ["prescriptive 意味", "規範的", "prescriptive descriptive", "規範文法"],
+    "meanings": [
+      { "hinshi": "【形容詞】規範的な・規定する", "note": "「こうすべき・こうあるべき」と規則を定める。特に言語学で" },
+      { "hinshi": "【形容詞】指示的な・押しつける", "note": "細かく指図するさま。時にやや否定的" }
+    ],
+    "usages": [
+      { "title": "① 規範文法など", "desc": "正しさを規定する立場", "example_en": "Prescriptive grammar tells you how you should speak.", "example_ja": "規範文法はどう話すべきかを教える。" },
+      { "title": "② descriptive との対比", "desc": "記述的の反対", "example_en": "Modern linguistics is descriptive, not prescriptive.", "example_ja": "現代言語学は規範的ではなく記述的だ。" }
+    ],
+    "warn": ["反対は descriptive（記述的な＝実際の使われ方をありのまま記述する）。prescriptive は『規則を定める』立場"],
+    "etym_note": "ラテン語 praescribere（prae「前もって」+ scribere「書く」＝前もって書き記す→指図する）由来。prescribe（処方する・規定する）と同語源。",
+    "etym_chain": [
+      { "node": "praescribere", "sub": "前もって書く・指図する", "era": "ラテン語" },
+      { "node": "prescribe", "sub": "規定する", "era": "中英語" },
+      { "node": "prescriptive", "sub": "規範的な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "prescriptive grammar", "ja": "規範文法" },
+      { "en": "prescriptive rules", "ja": "規範的な規則" },
+      { "en": "prescriptive approach", "ja": "規範的な立場" },
+      { "en": "overly prescriptive", "ja": "過度に指示的な" },
+      { "en": "prescriptive and descriptive", "ja": "規範的と記述的" },
+      { "en": "a prescriptive attitude", "ja": "こうすべきと定める態度" }
+    ],
+    "related": [
+      { "en": "descriptive", "ja": "記述的な（反対）" },
+      { "en": "prescribe", "ja": "規定する・処方する" },
+      { "en": "normative", "ja": "規範的な" },
+      { "en": "grammar", "ja": "文法" }
+    ],
+    "faq": [
+      { "q": "prescriptive と descriptive の違いは？", "a": "prescriptive（規範的）は『言葉はこう使うべきだ』と規則を定める立場、descriptive（記述的）は『実際にどう使われているか』をありのまま記述する立場です。言語学では descriptive が主流です。" },
+      { "q": "prescriptive grammar とは？", "a": "「規範文法」のことで、正しいとされる文法規則を定めて『こう書く・話すべき』と教える文法です。対して記述文法は実際の用法を観察・記述します。" }
+    ],
+    "quiz": [
+      { "q": "prescriptive の意味は？", "A": "規範的な・こうすべきと定める", "B": "記述的な", "C": "偶然の", "D": "感情的な", "correct": "A" },
+      { "q": "prescriptive の反対語は？", "A": "descriptive", "B": "objective", "C": "subjective", "D": "selective", "correct": "A" }
+    ]
+  },
+  {
+    "english": "presenter",
+    "pron": "prɪˈzɛntər",
+    "kana": "プレゼンター",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "present（提示する）+ -er",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出"],
+    "meaning_main": "発表者／（番組の）司会者・キャスター",
+    "description": "presenter（プレゼンター）は「発表者・提示する人」、また英で「（番組の）司会者・キャスター」。意味・使い方・例文をわかりやすく解説します。",
+    "keywords": ["presenter 意味", "発表者", "番組 司会", "presenter 使い方"],
+    "meanings": [
+      { "hinshi": "【名詞】発表者・提示する人", "note": "会議やプレゼンで発表する人。賞などを手渡す人も指す" },
+      { "hinshi": "【名詞】司会者・キャスター（主に英）", "note": "テレビ・ラジオ番組の進行役。米では host / anchor" }
+    ],
+    "usages": [
+      { "title": "① 発表者として", "desc": "会議・学会などで", "example_en": "Each presenter had ten minutes to speak.", "example_ja": "各発表者には10分の持ち時間があった。" },
+      { "title": "② 番組の司会者", "desc": "主にイギリス英語", "example_en": "She is a popular TV presenter in Britain.", "example_ja": "彼女は英国で人気のテレビ司会者だ。" }
+    ],
+    "warn": ["「番組司会者」の意味は主に英。米では host（司会）や anchor（ニュースキャスター）が一般的"],
+    "etym_note": "動詞 present（提示する・紹介する）に -er（〜する人）が付いた語。ラテン語 praesentare（差し出す）に由来。",
+    "etym_chain": [
+      { "node": "praesentare", "sub": "差し出す", "era": "ラテン語" },
+      { "node": "present", "sub": "提示する", "era": "中英語" },
+      { "node": "presenter", "sub": "発表者・司会者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "TV presenter", "ja": "テレビの司会者" },
+      { "en": "keynote presenter", "ja": "基調講演者" },
+      { "en": "a guest presenter", "ja": "ゲスト発表者" },
+      { "en": "radio presenter", "ja": "ラジオの司会者" },
+      { "en": "the main presenter", "ja": "メインの発表者" },
+      { "en": "news presenter", "ja": "ニュースキャスター" }
+    ],
+    "related": [
+      { "en": "presentation", "ja": "発表・プレゼン" },
+      { "en": "present", "ja": "提示する" },
+      { "en": "host", "ja": "司会者" },
+      { "en": "speaker", "ja": "話者・講演者" }
+    ],
+    "faq": [
+      { "q": "presenter と host の違いは？", "a": "どちらも番組の進行役を指せますが、presenter は主にイギリス英語、host は主にアメリカ英語です。会議での『発表者』の意味では presenter を使います。" },
+      { "q": "news presenter と anchor は同じですか？", "a": "ほぼ同じ『ニュースの司会者・キャスター』を指します。news presenter は主に英、anchor は主に米で使われる呼び方です。" }
+    ],
+    "quiz": [
+      { "q": "presenter の意味は？", "A": "発表者・司会者", "B": "観客", "C": "作曲家", "D": "運転手", "correct": "A" },
+      { "q": "presenter と同義（米）の語は？", "A": "host", "B": "guest", "C": "viewer", "D": "author", "correct": "A" }
+    ]
+  }
+]
