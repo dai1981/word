@@ -1,0 +1,971 @@
+[
+  {
+    "english": "nocebo",
+    "pron": "noʊˈsiːboʊ",
+    "kana": "ノセボ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 nocebo（私は害を与えるだろう）",
+    "ld_level": "対象外",
+    "badges": ["社会人〜", "英検1級", "CEFR C2", "医療"],
+    "meaning_main": "ノセボ（有害と思い込むことで実際に悪影響が出る現象）",
+    "description": "nocebo（ノセボ）は「害があると思い込むことで、実際に悪い症状が現れる現象」を意味する医学用語。効くと思うと効くプラセボ（プラシーボ）の反対にあたります。",
+    "keywords": ["nocebo 意味", "ノセボ 英語", "プラセボ 反対"],
+    "meanings": [
+      { "hinshi": "【名詞】ノセボ(効果)", "note": "有害・悪化すると思い込むことで、実際に不快な症状が出る現象。placebo（偽薬効果）の反対。可算・不可算。" }
+    ],
+    "usages": [
+      { "title": "① 思い込みの悪影響", "desc": "医療の文脈で。", "example_en": "The nocebo effect can worsen symptoms.", "example_ja": "ノセボ効果は症状を悪化させることがある。" },
+      { "title": "② 副作用の予期", "desc": "心理の文脈で。", "example_en": "Warnings about side effects can trigger a nocebo response.", "example_ja": "副作用の警告がノセボ反応を引き起こすことがある。" }
+    ],
+    "warn": ["反対は placebo（プラセボ＝効くと思い込むことで良くなる偽薬効果）。ラテン語で nocebo は『害を与えるだろう』の意。"],
+    "etym_note": "ラテン語 nocere（害する）に由来し、『私は害を与えるだろう』の意。placebo（『私は喜ばせるだろう』）に対して作られた語。",
+    "etym_chain": [
+      { "node": "nocebo", "sub": "害を与えるだろう（ラテン語）", "era": "古代" },
+      { "node": "nocebo", "sub": "ノセボ効果", "era": "20世紀" }
+    ],
+    "phrases": [
+      { "en": "the nocebo effect", "ja": "ノセボ効果" },
+      { "en": "a nocebo response", "ja": "ノセボ反応" },
+      { "en": "trigger a nocebo", "ja": "ノセボを引き起こす" },
+      { "en": "nocebo and placebo", "ja": "ノセボとプラセボ" },
+      { "en": "the power of nocebo", "ja": "ノセボの力" },
+      { "en": "avoid a nocebo effect", "ja": "ノセボ効果を避ける" }
+    ],
+    "related": [
+      { "en": "placebo", "ja": "プラセボ・偽薬効果" },
+      { "en": "suggestion", "ja": "暗示" },
+      { "en": "expectation", "ja": "予期・期待" },
+      { "en": "side effect", "ja": "副作用" }
+    ],
+    "faq": [
+      { "q": "nocebo と placebo の違いは？", "a": "placebo は『効くと思い込むことで良くなる』効果、nocebo は『害があると思い込むことで悪くなる』効果で、正反対です。" },
+      { "q": "nocebo の語源は？", "a": "ラテン語で『私は害を与えるだろう』を意味し、placebo（『私は喜ばせるだろう』）に対して作られた語です。" }
+    ],
+    "quiz": [
+      { "q": "nocebo 効果とは？", "A": "害を思い込むと実際に悪化する現象", "B": "薬が必ず効く現象", "C": "副作用が全くない状態", "D": "病気が自然に治ること", "correct": "A" },
+      { "q": "nocebo の反対語は？", "A": "placebo", "B": "antibiotic", "C": "vaccine", "D": "vitamin", "correct": "A" }
+    ]
+  },
+  {
+    "english": "non-",
+    "pron": "nɒn",
+    "kana": "ノン",
+    "hinshi": "接頭辞",
+    "ld_pos": "接頭辞",
+    "ld_etym": "ラテン語 non（〜でない）",
+    "ld_level": "対象外",
+    "badges": ["中学生〜", "語形成", "CEFR B1", "接頭辞"],
+    "meaning_main": "「〜でない」を表す否定の接頭辞",
+    "description": "non- は英単語の頭につく否定の接頭辞で、「〜でない・非〜」という意味を語に加えます。nonsense（無意味）、nonstop（直行の）などが例です。",
+    "keywords": ["non- 意味", "接頭辞 non-", "non- 否定"],
+    "meanings": [
+      { "hinshi": "【接頭辞】〜でない、非〜", "note": "単に『〜でない』という否定を加える。しばしばハイフンでつなぐ（non-smoker）。nonsense, nonstop など一語になるものも。" }
+    ],
+    "usages": [
+      { "title": "① 否定を作る", "desc": "反対語を作る。", "example_en": "A \"non-smoker\" is a person who does not smoke.", "example_ja": "non-smoker は「たばこを吸わない人」だ。" },
+      { "title": "② 非〜の意味で", "desc": "分類に。", "example_en": "This is a non-profit organization.", "example_ja": "これは非営利の組織だ。" }
+    ],
+    "warn": ["un-（否定・逆）や in-（否定）と近いが、non- は『単なる否定（〜でない）』で中立的。しばしばハイフンでつなぐ。"],
+    "etym_note": "ラテン語 non（『〜でない』を表す否定）に由来する接頭辞。英語で幅広く『非〜・不〜』を作る。",
+    "etym_chain": [
+      { "node": "non（ラテン語）", "sub": "〜でない", "era": "古代" },
+      { "node": "non-", "sub": "接頭辞 non-", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "nonsense", "ja": "無意味・ばかげたこと" },
+      { "en": "nonstop", "ja": "直行の・休みなく" },
+      { "en": "non-smoker", "ja": "たばこを吸わない人" },
+      { "en": "non-profit", "ja": "非営利の" },
+      { "en": "non-fiction", "ja": "ノンフィクション" },
+      { "en": "non-native", "ja": "非母語話者の" }
+    ],
+    "related": [
+      { "en": "un-", "ja": "否定・逆の接頭辞" },
+      { "en": "in-", "ja": "否定の接頭辞" },
+      { "en": "anti-", "ja": "反〜の接頭辞" },
+      { "en": "dis-", "ja": "否定・逆の接頭辞" }
+    ],
+    "faq": [
+      { "q": "non- と un- の違いは？", "a": "non- は『単に〜でない』という中立的な否定、un- は『〜でない』に加えて『逆の動作・望ましくない』という含みを持つことがあります。" },
+      { "q": "non- はハイフンが必要？", "a": "non-smoker のようにハイフンでつなぐことが多いですが、nonsense, nonstop など定着したものは一語で書きます。" }
+    ],
+    "quiz": [
+      { "q": "non- が表すのは？", "A": "〜でない(否定)", "B": "とても", "C": "再び", "D": "前に", "correct": "A" },
+      { "q": "non-profit の意味は？", "A": "非営利の", "B": "とてももうかる", "C": "profitの複数", "D": "利益優先の", "correct": "A" }
+    ]
+  },
+  {
+    "english": "non-alcoholic",
+    "pron": "ˌnɒn ælkəˈhɒlɪk",
+    "kana": "ノンアルコホリック",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "non-（〜でない）＋alcoholic（アルコールの)",
+    "ld_level": "対象外",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "飲食"],
+    "meaning_main": "ノンアルコールの／アルコールを含まない",
+    "description": "non-alcoholic（ノンアルコホリック）は「ノンアルコールの・アルコールを含まない」という意味の形容詞。お酒でない飲み物を表します。",
+    "keywords": ["non-alcoholic 意味", "ノンアルコール 英語", "アルコールなし"],
+    "meanings": [
+      { "hinshi": "【形容詞】ノンアルコールの、アルコールを含まない", "note": "飲み物などにアルコールが入っていないこと。non-（〜でない）＋alcoholic。ハイフンでつなぐ。" }
+    ],
+    "usages": [
+      { "title": "① ノンアルコール飲料", "desc": "飲み物に。", "example_en": "They offer several non-alcoholic drinks.", "example_ja": "彼らはいくつかのノンアルコール飲料を提供している。" },
+      { "title": "② お酒を避ける", "desc": "選択に。", "example_en": "I'll have a non-alcoholic beer, please.", "example_ja": "ノンアルコールビールをください。" }
+    ],
+    "warn": ["反対は alcoholic（アルコールの入った）。名詞 alcoholic には『アルコール依存症の人』の意味もあるので文脈に注意。"],
+    "etym_note": "non-（〜でない）＋alcoholic（アルコールの、アラビア語 al-kuhl 由来）から成る語。『アルコールを含まない』の意。",
+    "etym_chain": [
+      { "node": "non + alcoholic", "sub": "〜でない＋アルコールの", "era": "20世紀" },
+      { "node": "non-alcoholic", "sub": "ノンアルコールの", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a non-alcoholic drink", "ja": "ノンアルコール飲料" },
+      { "en": "non-alcoholic beer", "ja": "ノンアルコールビール" },
+      { "en": "a non-alcoholic cocktail", "ja": "ノンアルコールカクテル" },
+      { "en": "non-alcoholic options", "ja": "ノンアルコールの選択肢" },
+      { "en": "a non-alcoholic wine", "ja": "ノンアルコールワイン" },
+      { "en": "non-alcoholic beverages", "ja": "アルコールを含まない飲料" }
+    ],
+    "related": [
+      { "en": "alcoholic", "ja": "アルコールの・アルコール依存症の人" },
+      { "en": "beverage", "ja": "飲み物" },
+      { "en": "soft drink", "ja": "清涼飲料" },
+      { "en": "mocktail", "ja": "ノンアルコールカクテル" }
+    ],
+    "faq": [
+      { "q": "non-alcoholic の反対語は？", "a": "alcoholic（アルコールの入った）です。" },
+      { "q": "non-alcoholic beer とは？", "a": "アルコールをほとんど（またはまったく）含まないビール風飲料のことです。" }
+    ],
+    "quiz": [
+      { "q": "non-alcoholic の意味は？", "A": "アルコールを含まない", "B": "アルコール度数が高い", "C": "とても甘い", "D": "とても熱い", "correct": "A" },
+      { "q": "non-alcoholic の反対語は？", "A": "alcoholic", "B": "acidic", "C": "aromatic", "D": "athletic", "correct": "A" }
+    ]
+  },
+  {
+    "english": "non-combustible",
+    "pron": "ˌnɒn kəmˈbʌstəbl",
+    "kana": "ノンコンバスティブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "non-（〜でない）＋combustible（燃えやすい)",
+    "ld_level": "対象外",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "性質"],
+    "meaning_main": "不燃性の／燃えない",
+    "description": "non-combustible（ノンコンバスティブル）は「不燃性の・燃えない」という意味の形容詞。火にさらされても燃えない材料などを表します。",
+    "keywords": ["non-combustible 意味", "不燃性 英語", "燃えない 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】不燃性の、燃えない", "note": "火にさらされても燃焼しない性質。non-（〜でない）＋combustible（燃えやすい）。ハイフンでつなぐ。" }
+    ],
+    "usages": [
+      { "title": "① 不燃材料", "desc": "建築の文脈で。", "example_en": "The walls are made of non-combustible material.", "example_ja": "その壁は不燃性の材料でできている。" },
+      { "title": "② ごみの分別", "desc": "分類に。", "example_en": "Put non-combustible waste in the gray bin.", "example_ja": "燃えないごみは灰色の箱に入れて。" }
+    ],
+    "warn": ["反対は combustible / flammable（燃えやすい）。non-（〜でない）＋combustible（燃焼性の）。"],
+    "etym_note": "non-（〜でない）＋combustible（燃えやすい、ラテン語 comburere＝燃やす 由来）から成る語。『燃えない』の意。",
+    "etym_chain": [
+      { "node": "combustible", "sub": "燃えやすい", "era": "中世" },
+      { "node": "non-combustible", "sub": "不燃性の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "non-combustible material", "ja": "不燃材料" },
+      { "en": "non-combustible waste", "ja": "燃えないごみ" },
+      { "en": "a non-combustible surface", "ja": "不燃性の表面" },
+      { "en": "non-combustible construction", "ja": "不燃構造" },
+      { "en": "certified non-combustible", "ja": "不燃認定された" },
+      { "en": "non-combustible insulation", "ja": "不燃性の断熱材" }
+    ],
+    "related": [
+      { "en": "combustible", "ja": "燃えやすい・可燃性の" },
+      { "en": "flammable", "ja": "燃えやすい" },
+      { "en": "fireproof", "ja": "耐火性の" },
+      { "en": "fire-resistant", "ja": "難燃性の" }
+    ],
+    "faq": [
+      { "q": "non-combustible の反対語は？", "a": "combustible（燃えやすい）や flammable（可燃性の）です。" },
+      { "q": "non-combustible と fireproof の違いは？", "a": "non-combustible は『(それ自体が)燃えない』、fireproof は『火に耐える・火から守る』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "non-combustible の意味は？", "A": "不燃性の・燃えない", "B": "とても燃えやすい", "C": "とても軽い", "D": "とても重い", "correct": "A" },
+      { "q": "non-combustible の反対語は？", "A": "combustible", "B": "compatible", "C": "comfortable", "D": "convertible", "correct": "A" }
+    ]
+  },
+  {
+    "english": "non-negotiable",
+    "pron": "ˌnɒn nɪˈɡoʊʃiəbl",
+    "kana": "ノンネゴシアブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "non-（〜でない）＋negotiable（交渉できる)",
+    "ld_level": "対象外",
+    "badges": ["社会人〜", "英検準1級", "CEFR B2", "描写"],
+    "meaning_main": "交渉の余地がない／譲れない",
+    "description": "non-negotiable（ノンネゴシアブル）は「交渉の余地がない・譲れない」という意味の形容詞。条件や決定が変更・交渉できないことを表します。",
+    "keywords": ["non-negotiable 意味", "交渉の余地がない 英語", "譲れない 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】交渉の余地がない、譲れない", "note": "条件・決定などが変更・交渉できないこと。non-（〜でない）＋negotiable（交渉できる）。ハイフンでつなぐ。" }
+    ],
+    "usages": [
+      { "title": "① 譲れない条件", "desc": "交渉の文脈で。", "example_en": "Safety is non-negotiable.", "example_ja": "安全は譲れない。" },
+      { "title": "② 変更不可の決定", "desc": "決定に。", "example_en": "The price is non-negotiable.", "example_ja": "価格は交渉不可だ。" }
+    ],
+    "warn": ["反対は negotiable（交渉の余地がある）。金融では『譲渡できない（証券）』の意味にもなる。ハイフンでつなぐ。"],
+    "etym_note": "non-（〜でない）＋negotiable（交渉できる、ラテン語 negotiari＝商う 由来）から成る語。『交渉できない』の意。",
+    "etym_chain": [
+      { "node": "negotiable", "sub": "交渉できる", "era": "近代" },
+      { "node": "non-negotiable", "sub": "交渉の余地がない", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a non-negotiable condition", "ja": "譲れない条件" },
+      { "en": "non-negotiable terms", "ja": "変更不可の条件" },
+      { "en": "the price is non-negotiable", "ja": "価格は交渉不可" },
+      { "en": "a non-negotiable rule", "ja": "譲れないルール" },
+      { "en": "non-negotiable demands", "ja": "譲れない要求" },
+      { "en": "absolutely non-negotiable", "ja": "絶対に譲れない" }
+    ],
+    "related": [
+      { "en": "negotiable", "ja": "交渉の余地がある" },
+      { "en": "fixed", "ja": "固定された" },
+      { "en": "firm", "ja": "確固とした" },
+      { "en": "flexible", "ja": "融通のきく" }
+    ],
+    "faq": [
+      { "q": "non-negotiable の反対語は？", "a": "negotiable（交渉の余地がある）です。" },
+      { "q": "non-negotiable はどんなときに使う？", "a": "条件・価格・ルールなどが『交渉や変更ができない・絶対に譲れない』ことを述べるときに使います。" }
+    ],
+    "quiz": [
+      { "q": "non-negotiable の意味は？", "A": "交渉の余地がない・譲れない", "B": "自由に交渉できる", "C": "とても安い", "D": "一時的な", "correct": "A" },
+      { "q": "non-negotiable の反対語は？", "A": "negotiable", "B": "noticeable", "C": "navigable", "D": "notable", "correct": "A" }
+    ]
+  },
+  {
+    "english": "non-perishable",
+    "pron": "ˌnɒn ˈperɪʃəbl",
+    "kana": "ノンペリシャブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "non-（〜でない）＋perishable（傷みやすい)",
+    "ld_level": "対象外",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "食品"],
+    "meaning_main": "(食品が)日持ちする／腐りにくい",
+    "description": "non-perishable（ノンペリシャブル）は「(食品が)日持ちする・腐りにくい」という意味の形容詞。長期保存できる食品を表します。",
+    "keywords": ["non-perishable 意味", "日持ちする 英語", "保存食 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】(食品が)日持ちする、腐りにくい", "note": "常温で長く保存でき、すぐには傷まない食品の。缶詰・乾物・パスタなど。non-（〜でない）＋perishable（傷みやすい）。" }
+    ],
+    "usages": [
+      { "title": "① 保存食", "desc": "備蓄の文脈で。", "example_en": "Stock up on non-perishable food.", "example_ja": "日持ちする食品を備蓄しよう。" },
+      { "title": "② 寄付・防災", "desc": "備えに。", "example_en": "They collect non-perishable items for the food bank.", "example_ja": "彼らはフードバンク用に日持ちする品を集めている。" }
+    ],
+    "warn": ["反対は perishable（傷みやすい＝生鮮の）。缶詰・乾麺・米・乾物などが代表例。ハイフンでつなぐ。"],
+    "etym_note": "non-（〜でない）＋perishable（傷みやすい、ラテン語 perire＝滅びる 由来）から成る語。『傷まない・日持ちする』の意。",
+    "etym_chain": [
+      { "node": "perishable", "sub": "傷みやすい", "era": "中世" },
+      { "node": "non-perishable", "sub": "日持ちする", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "non-perishable food", "ja": "日持ちする食品" },
+      { "en": "non-perishable items", "ja": "保存のきく品" },
+      { "en": "stock non-perishable goods", "ja": "日持ちする品を備える" },
+      { "en": "canned and non-perishable", "ja": "缶詰など日持ちする" },
+      { "en": "non-perishable supplies", "ja": "保存のきく物資" },
+      { "en": "donate non-perishable food", "ja": "日持ちする食品を寄付する" }
+    ],
+    "related": [
+      { "en": "perishable", "ja": "傷みやすい・生鮮の" },
+      { "en": "canned", "ja": "缶詰の" },
+      { "en": "shelf-stable", "ja": "常温保存できる" },
+      { "en": "preserved", "ja": "保存された" }
+    ],
+    "faq": [
+      { "q": "non-perishable の反対語は？", "a": "perishable（傷みやすい・生鮮の）です。" },
+      { "q": "non-perishable food の例は？", "a": "缶詰・乾麺・米・乾物・レトルト食品など、常温で長く保存できる食品です。" }
+    ],
+    "quiz": [
+      { "q": "non-perishable の意味は？", "A": "(食品が)日持ちする・腐りにくい", "B": "すぐ傷む", "C": "とても高い", "D": "とても辛い", "correct": "A" },
+      { "q": "non-perishable food の例は？", "A": "缶詰", "B": "生の魚", "C": "生クリーム", "D": "刺身", "correct": "A" }
+    ]
+  },
+  {
+    "english": "non-stick",
+    "pron": "ˌnɒn ˈstɪk",
+    "kana": "ノンスティック",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "non-（〜でない）＋stick（くっつく)",
+    "ld_level": "対象外",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "道具"],
+    "meaning_main": "焦げつかない／(食材が)くっつかない加工の",
+    "description": "non-stick（ノンスティック）は「(調理器具が)焦げつかない・食材がくっつかない」という意味の形容詞。フライパンなどの表面加工を表します。",
+    "keywords": ["non-stick 意味", "焦げつかない 英語", "フライパン 加工"],
+    "meanings": [
+      { "hinshi": "【形容詞】焦げつかない、くっつかない加工の", "note": "食材が表面にくっつかず、焦げつきにくい加工がされた。a non-stick pan（こびりつかないフライパン）。ハイフンでつなぐ。" }
+    ],
+    "usages": [
+      { "title": "① 焦げつかない鍋", "desc": "調理器具に。", "example_en": "Use a non-stick pan to fry the egg.", "example_ja": "卵を焼くには焦げつかないフライパンを使って。" },
+      { "title": "② 手入れが楽", "desc": "利点に。", "example_en": "Non-stick surfaces are easy to clean.", "example_ja": "焦げつかない表面は洗いやすい。" }
+    ],
+    "warn": ["フッ素樹脂（テフロンなど）の加工が代表的。non-（〜でない）＋stick（くっつく）。ハイフンでつなぐ。"],
+    "etym_note": "non-（〜でない）＋stick（くっつく、古英語 stician 由来）から成る語。『くっつかない』を意味する。",
+    "etym_chain": [
+      { "node": "non + stick", "sub": "〜でない＋くっつく", "era": "20世紀" },
+      { "node": "non-stick", "sub": "焦げつかない", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a non-stick pan", "ja": "焦げつかないフライパン" },
+      { "en": "a non-stick coating", "ja": "焦げつかない表面加工" },
+      { "en": "non-stick cookware", "ja": "焦げつかない調理器具" },
+      { "en": "a non-stick surface", "ja": "こびりつかない表面" },
+      { "en": "a non-stick frying pan", "ja": "焦げつかないフライパン" },
+      { "en": "non-stick baking paper", "ja": "くっつかないクッキングシート" }
+    ],
+    "related": [
+      { "en": "coating", "ja": "コーティング・表面加工" },
+      { "en": "Teflon", "ja": "テフロン" },
+      { "en": "frying pan", "ja": "フライパン" },
+      { "en": "cookware", "ja": "調理器具" }
+    ],
+    "faq": [
+      { "q": "non-stick とは？", "a": "食材が表面にくっつかず、焦げつきにくい加工がされていることです。フライパンなどのフッ素樹脂加工が代表例です。" },
+      { "q": "non-stick の利点は？", "a": "少ない油で調理でき、食材がこびりつかず、洗いやすい点です。" }
+    ],
+    "quiz": [
+      { "q": "non-stick の意味は？", "A": "焦げつかない・くっつかない加工の", "B": "とても熱くなる", "C": "とても重い", "D": "透明な", "correct": "A" },
+      { "q": "non-stick 加工がよく使われる調理器具は？", "A": "フライパン", "B": "包丁", "C": "まな板", "D": "菜箸", "correct": "A" }
+    ]
+  },
+  {
+    "english": "nonreligious",
+    "pron": "ˌnɒnrɪˈlɪdʒəs",
+    "kana": "ノンリリジャス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "non-（〜でない）＋religious（宗教の)",
+    "ld_level": "対象外",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "社会"],
+    "meaning_main": "無宗教の／宗教に関係のない",
+    "description": "nonreligious（ノンリリジャス）は「無宗教の・宗教に関係のない」という意味の形容詞。特定の宗教を信仰しないことや、宗教と無関係なことを表します。",
+    "keywords": ["nonreligious 意味", "無宗教 英語", "宗教に関係ない"],
+    "meanings": [
+      { "hinshi": "【形容詞】無宗教の、宗教に関係のない", "note": "特定の宗教を信じないこと、または宗教と無関係なこと。non-（〜でない）＋religious。non-religious とも綴る。" }
+    ],
+    "usages": [
+      { "title": "① 無宗教の人", "desc": "信仰の文脈で。", "example_en": "He describes himself as nonreligious.", "example_ja": "彼は自分を無宗教だと言う。" },
+      { "title": "② 宗教と無関係な行事", "desc": "催しに。", "example_en": "They held a nonreligious ceremony.", "example_ja": "彼らは宗教色のない式を行った。" }
+    ],
+    "warn": ["反対は religious（宗教の・信心深い）。無神論の atheist（神の存在を否定）や無宗教の secular（世俗の）と近い概念。"],
+    "etym_note": "non-（〜でない）＋religious（ラテン語 religio＝宗教・信仰 由来）から成る語。『宗教でない・宗教に関わらない』の意。",
+    "etym_chain": [
+      { "node": "religious", "sub": "宗教の・信心深い", "era": "中世" },
+      { "node": "nonreligious", "sub": "無宗教の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a nonreligious person", "ja": "無宗教の人" },
+      { "en": "a nonreligious ceremony", "ja": "宗教色のない式" },
+      { "en": "nonreligious values", "ja": "宗教によらない価値観" },
+      { "en": "a nonreligious family", "ja": "無宗教の家庭" },
+      { "en": "for nonreligious reasons", "ja": "宗教とは無関係の理由で" },
+      { "en": "a nonreligious upbringing", "ja": "宗教色のない育ち" }
+    ],
+    "related": [
+      { "en": "religious", "ja": "宗教の・信心深い" },
+      { "en": "secular", "ja": "世俗の・非宗教の" },
+      { "en": "atheist", "ja": "無神論者" },
+      { "en": "agnostic", "ja": "不可知論の" }
+    ],
+    "faq": [
+      { "q": "nonreligious の反対語は？", "a": "religious（宗教の・信心深い）です。" },
+      { "q": "nonreligious と secular の違いは？", "a": "nonreligious は主に『(人が)宗教を信じない』こと、secular は『(社会・制度が)宗教から切り離された世俗の』ことを指すことが多いです。" }
+    ],
+    "quiz": [
+      { "q": "nonreligious の意味は？", "A": "無宗教の・宗教に関係のない", "B": "とても信心深い", "C": "宗教の指導者の", "D": "神聖な", "correct": "A" },
+      { "q": "nonreligious の反対語は？", "A": "religious", "B": "regional", "C": "reasonable", "D": "responsible", "correct": "A" }
+    ]
+  },
+  {
+    "english": "nonviable",
+    "pron": "ˌnɒnˈvaɪəbl",
+    "kana": "ノンバイアブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "non-（〜でない）＋viable（実行可能な・生存できる)",
+    "ld_level": "対象外",
+    "badges": ["社会人〜", "英検1級", "CEFR C1", "描写"],
+    "meaning_main": "実行不可能な／成り立たない／(生物が)生存できない",
+    "description": "nonviable（ノンバイアブル）は「実行不可能な・成り立たない」という意味の形容詞。計画などが成立しないことや、生物が生き延びられないことを表します。",
+    "keywords": ["nonviable 意味", "実行不可能 英語", "viable 反対"],
+    "meanings": [
+      { "hinshi": "【形容詞】実行不可能な、成り立たない", "note": "計画・事業などが現実的に成立・持続できないこと。viable（実行可能な）の反対。non-viable とも綴る。" },
+      { "hinshi": "【形容詞】(生物が)生存できない", "note": "胚・細胞などが生き延びられないこと。" }
+    ],
+    "usages": [
+      { "title": "① 成り立たない計画", "desc": "事業の文脈で。", "example_en": "The plan proved financially nonviable.", "example_ja": "その計画は財政的に成り立たないと判明した。" },
+      { "title": "② 生存できない", "desc": "生物の文脈で。", "example_en": "The seeds were nonviable and did not sprout.", "example_ja": "その種子は生きておらず発芽しなかった。" }
+    ],
+    "warn": ["反対は viable（実行可能な・生存できる）。economically nonviable（経済的に成り立たない）が頻出。"],
+    "etym_note": "non-（〜でない）＋viable（ラテン語 vita＝生命 由来、『生きられる・実行できる』）から成る語。『成り立たない・生きられない』の意。",
+    "etym_chain": [
+      { "node": "viable", "sub": "実行可能な・生存できる", "era": "19世紀" },
+      { "node": "nonviable", "sub": "実行不可能な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "financially nonviable", "ja": "財政的に成り立たない" },
+      { "en": "economically nonviable", "ja": "経済的に成り立たない" },
+      { "en": "a nonviable plan", "ja": "実行不可能な計画" },
+      { "en": "a nonviable business", "ja": "成り立たない事業" },
+      { "en": "nonviable seeds", "ja": "発芽しない種子" },
+      { "en": "prove nonviable", "ja": "成り立たないと分かる" }
+    ],
+    "related": [
+      { "en": "viable", "ja": "実行可能な・生存できる" },
+      { "en": "unworkable", "ja": "うまくいかない・実行不可能な" },
+      { "en": "impractical", "ja": "非現実的な" },
+      { "en": "unsustainable", "ja": "持続不可能な" }
+    ],
+    "faq": [
+      { "q": "nonviable の反対語は？", "a": "viable（実行可能な・生存できる）です。" },
+      { "q": "nonviable の二つの意味は？", "a": "『(計画などが)実行不可能・成り立たない』という意味と、『(生物が)生存できない』という意味があります。" }
+    ],
+    "quiz": [
+      { "q": "nonviable の意味は？", "A": "実行不可能な・成り立たない", "B": "実行可能な", "C": "とても速い", "D": "とても大きい", "correct": "A" },
+      { "q": "nonviable の反対語は？", "A": "viable", "B": "visible", "C": "variable", "D": "valuable", "correct": "A" }
+    ]
+  },
+  {
+    "english": "nth",
+    "pron": "enθ",
+    "kana": "エンス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "数学の変数 n＋序数の -th",
+    "ld_level": "対象外",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "数学"],
+    "meaning_main": "n番目の／(口語)何回目とも知れないほどの",
+    "description": "nth（エンス）は「n番目の」を意味する語で、数学で任意の順番を表します。口語では to the nth degree（極限まで）や the nth time（何度目かの）で使われます。",
+    "keywords": ["nth 意味", "n番目 英語", "to the nth degree"],
+    "meanings": [
+      { "hinshi": "【形容詞】n番目の、第n番目の", "note": "数学で、任意の（特定しない）順番を表す。the nth term（第n項）。" },
+      { "hinshi": "【形容詞】(口語)何度目とも知れない、この上ない", "note": "the nth time（何度目かの）、to the nth degree（極限まで・とことん）。" }
+    ],
+    "usages": [
+      { "title": "① 数学のn番目", "desc": "数式の文脈で。", "example_en": "Find the nth term of the sequence.", "example_ja": "その数列の第n項を求めよ。" },
+      { "title": "② 口語で強調", "desc": "程度に。", "example_en": "She checked it for the nth time.", "example_ja": "彼女は何度目かにそれを確認した。" }
+    ],
+    "warn": ["to the nth degree は『とことん・極限まで』の慣用句。the nth time は『何度目かの・またもや』の口語。"],
+    "etym_note": "数学で任意の数を表す変数 n に、序数を作る -th（fourth などの）を付けた語。『n番目の』を意味する。",
+    "etym_chain": [
+      { "node": "n + -th", "sub": "変数n＋序数", "era": "19世紀" },
+      { "node": "nth", "sub": "n番目の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the nth term", "ja": "第n項" },
+      { "en": "to the nth degree", "ja": "とことん・極限まで" },
+      { "en": "for the nth time", "ja": "何度目かに" },
+      { "en": "the nth power", "ja": "n乗" },
+      { "en": "the nth root", "ja": "n乗根" },
+      { "en": "the nth example", "ja": "n番目の例" }
+    ],
+    "related": [
+      { "en": "term", "ja": "項" },
+      { "en": "sequence", "ja": "数列" },
+      { "en": "variable", "ja": "変数" },
+      { "en": "power", "ja": "累乗・べき" }
+    ],
+    "faq": [
+      { "q": "to the nth degree とは？", "a": "『とことん・極限まで・この上なく』という意味の慣用句です。" },
+      { "q": "the nth time とは？", "a": "『何度目かの・またもや（数え切れないほど繰り返した）』という口語表現です。" }
+    ],
+    "quiz": [
+      { "q": "nth の数学での意味は？", "A": "n番目の", "B": "最初の", "C": "最後の", "D": "半分の", "correct": "A" },
+      { "q": "to the nth degree の意味は？", "A": "とことん・極限まで", "B": "ほんの少し", "C": "半分だけ", "D": "全くない", "correct": "A" }
+    ]
+  },
+  {
+    "english": "nutritional",
+    "pron": "nuˈtrɪʃənl",
+    "kana": "ニュートリショナル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "nutrition（栄養）＋-al",
+    "ld_level": "対象外",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "健康"],
+    "meaning_main": "栄養の／栄養に関する",
+    "description": "nutritional（ニュートリショナル）は「栄養の・栄養に関する」という意味の形容詞。食品の栄養価や、栄養に関わる情報などを表します。",
+    "keywords": ["nutritional 意味", "栄養の 英語", "nutrition 形容詞"],
+    "meanings": [
+      { "hinshi": "【形容詞】栄養の、栄養に関する", "note": "食品の栄養価や栄養素に関わる。nutritional value（栄養価）、nutritional information（栄養成分表示）。" }
+    ],
+    "usages": [
+      { "title": "① 栄養価", "desc": "食品の文脈で。", "example_en": "This snack has little nutritional value.", "example_ja": "このお菓子は栄養価がほとんどない。" },
+      { "title": "② 栄養情報", "desc": "表示に。", "example_en": "Check the nutritional information on the label.", "example_ja": "ラベルの栄養成分表示を確認して。" }
+    ],
+    "warn": ["名詞は nutrition（栄養）。副詞は nutritionally（栄養的に）。栄養士は nutritionist。"],
+    "etym_note": "ラテン語 nutrire（養う）に由来する nutrition（栄養）に、形容詞化の -al が付いた語。",
+    "etym_chain": [
+      { "node": "nutrition", "sub": "栄養", "era": "中世" },
+      { "node": "nutritional", "sub": "栄養の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "nutritional value", "ja": "栄養価" },
+      { "en": "nutritional information", "ja": "栄養成分表示" },
+      { "en": "nutritional needs", "ja": "栄養の必要量" },
+      { "en": "nutritional supplements", "ja": "栄養補助食品" },
+      { "en": "nutritional balance", "ja": "栄養バランス" },
+      { "en": "a nutritional deficiency", "ja": "栄養不足" }
+    ],
+    "related": [
+      { "en": "nutrition", "ja": "栄養" },
+      { "en": "nutrient", "ja": "栄養素" },
+      { "en": "nutritious", "ja": "栄養のある" },
+      { "en": "diet", "ja": "食事・食生活" }
+    ],
+    "faq": [
+      { "q": "nutritional の名詞形は？", "a": "nutrition（栄養）です。" },
+      { "q": "nutritional と nutritious の違いは？", "a": "nutritional は『栄養に関する（栄養価・栄養情報など）』、nutritious は『栄養のある・栄養豊富な』という違いがあります。" }
+    ],
+    "quiz": [
+      { "q": "nutritional の意味は？", "A": "栄養の・栄養に関する", "B": "自然の", "C": "国家の", "D": "夜の", "correct": "A" },
+      { "q": "nutritional の名詞形は？", "A": "nutrition", "B": "notion", "C": "nation", "D": "motion", "correct": "A" }
+    ]
+  },
+  {
+    "english": "oafish",
+    "pron": "ˈoʊfɪʃ",
+    "kana": "オウフィッシュ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "oaf（のろま・無骨者）＋-ish",
+    "ld_level": "対象外",
+    "badges": ["社会人〜", "英検1級", "CEFR C1", "描写"],
+    "meaning_main": "無骨な／がさつで鈍い／間抜けな",
+    "description": "oafish（オウフィッシュ）は「無骨な・がさつで鈍い」という意味の形容詞。動作や言動が不器用で洗練されていない様子を表します。",
+    "keywords": ["oafish 意味", "無骨 英語", "oaf 形容詞"],
+    "meanings": [
+      { "hinshi": "【形容詞】無骨な、がさつで鈍い、間抜けな", "note": "動作・言動が不器用で洗練されず、鈍重なさま。oaf（のろま・無骨者）の形容詞形。否定的。" }
+    ],
+    "usages": [
+      { "title": "① がさつな態度", "desc": "言動に。", "example_en": "His oafish behavior embarrassed everyone.", "example_ja": "彼のがさつな振る舞いはみなを恥ずかしがらせた。" },
+      { "title": "② 無骨な様子", "desc": "動作に。", "example_en": "He gave an oafish grin.", "example_ja": "彼は間の抜けたにやけ顔をした。" }
+    ],
+    "warn": ["名詞 oaf は『のろま・無骨で愚かな人』。clumsy（不器用な）に加え『鈍く洗練を欠く』含み。否定的な語。"],
+    "etym_note": "古ノルド語 álfr（妖精、取り替え子）に由来する oaf（のろま・愚か者）に、性質を表す -ish が付いた語。",
+    "etym_chain": [
+      { "node": "oaf", "sub": "のろま・無骨者", "era": "17世紀" },
+      { "node": "oafish", "sub": "無骨な・がさつな", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "oafish behavior", "ja": "がさつな振る舞い" },
+      { "en": "an oafish grin", "ja": "間の抜けたにやけ顔" },
+      { "en": "an oafish manner", "ja": "無骨な物腰" },
+      { "en": "look oafish", "ja": "間抜けに見える" },
+      { "en": "a big oafish man", "ja": "大柄で無骨な男" },
+      { "en": "oafish clumsiness", "ja": "がさつな不器用さ" }
+    ],
+    "related": [
+      { "en": "oaf", "ja": "のろま・無骨者" },
+      { "en": "clumsy", "ja": "不器用な" },
+      { "en": "boorish", "ja": "がさつな・無作法な" },
+      { "en": "refined", "ja": "洗練された" }
+    ],
+    "faq": [
+      { "q": "oafish の名詞形は？", "a": "oaf（のろま・無骨で愚かな人）です。" },
+      { "q": "oafish と clumsy の違いは？", "a": "clumsy は『不器用な』、oafish は『不器用さに加えて鈍重で洗練を欠く』という否定的な含みが強めです。" }
+    ],
+    "quiz": [
+      { "q": "oafish の意味は？", "A": "無骨な・がさつで鈍い", "B": "洗練された", "C": "とても速い", "D": "とても賢い", "correct": "A" },
+      { "q": "oafish の名詞形は？", "A": "oaf", "B": "oak", "C": "oar", "D": "oat", "correct": "A" }
+    ]
+  },
+  {
+    "english": "oarlock",
+    "pron": "ˈɔːrlɒk",
+    "kana": "オアロック",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "oar（オール・櫂）＋lock（受け・固定具)",
+    "ld_level": "対象外",
+    "badges": ["社会人〜", "英検1級", "CEFR C1", "航海"],
+    "meaning_main": "オール受け（ボートでオールを支える金具）",
+    "description": "oarlock（オアロック）はボートの縁に取り付けられ、オール（櫂）を支えて漕ぐときの支点になる金具のこと。英では rowlock とも呼ばれます。",
+    "keywords": ["oarlock 意味", "オール受け 英語", "ボート 金具"],
+    "meanings": [
+      { "hinshi": "【名詞】オール受け", "note": "ボートの縁に付けてオールを支え、漕ぐときの支点となる金具。可算名詞。英では rowlock とも。" }
+    ],
+    "usages": [
+      { "title": "① ボートの金具", "desc": "航海の文脈で。", "example_en": "He set the oars in the oarlocks.", "example_ja": "彼はオールをオール受けにはめた。" },
+      { "title": "② 漕ぐ支点", "desc": "役割に。", "example_en": "The oarlock keeps the oar in place while rowing.", "example_ja": "オール受けは漕ぐ間オールを所定の位置に保つ。" }
+    ],
+    "warn": ["英では rowlock（ロロック）とも呼ぶ。oar（オール）＋lock（受け）。漕ぐときの支点になる。"],
+    "etym_note": "oar（オール・櫂、古英語 ār）＋lock（受け・固定するもの）から成る複合語。『オールを受け止めるもの』を意味する。",
+    "etym_chain": [
+      { "node": "oar + lock", "sub": "オール＋受け", "era": "近代" },
+      { "node": "oarlock", "sub": "オール受け", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "set the oar in the oarlock", "ja": "オールをオール受けにはめる" },
+      { "en": "a metal oarlock", "ja": "金属のオール受け" },
+      { "en": "the oarlock creaked", "ja": "オール受けがきしんだ" },
+      { "en": "a broken oarlock", "ja": "壊れたオール受け" },
+      { "en": "fit the oarlocks", "ja": "オール受けを取り付ける" },
+      { "en": "row using the oarlocks", "ja": "オール受けを使って漕ぐ" }
+    ],
+    "related": [
+      { "en": "oar", "ja": "オール・櫂" },
+      { "en": "rowlock", "ja": "オール受け(英)" },
+      { "en": "row", "ja": "漕ぐ" },
+      { "en": "boat", "ja": "ボート" }
+    ],
+    "faq": [
+      { "q": "oarlock とは？", "a": "ボートの縁に付けてオールを支え、漕ぐときの支点となる金具です。英では rowlock とも呼ばれます。" },
+      { "q": "oarlock の役割は？", "a": "オールを所定の位置に固定し、てこの支点として効率よく漕げるようにします。" }
+    ],
+    "quiz": [
+      { "q": "oarlock の役割は？", "A": "オールを支える支点になる", "B": "帆を張る", "C": "錨を下ろす", "D": "水をくみ出す", "correct": "A" },
+      { "q": "oarlock の英での別名は？", "A": "rowlock", "B": "deadlock", "C": "padlock", "D": "warlock", "correct": "A" }
+    ]
+  },
+  {
+    "english": "objectivity",
+    "pron": "ˌɒbdʒekˈtɪvəti",
+    "kana": "オブジェクティビティ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "objective（客観的な）＋-ity",
+    "ld_level": "対象外",
+    "badges": ["社会人〜", "英検準1級", "CEFR C1", "思考"],
+    "meaning_main": "客観性／公平で偏りのない態度",
+    "description": "objectivity（オブジェクティビティ）は「客観性」を意味する名詞。個人の感情や先入観にとらわれず、公平に事実を見る態度を表します。",
+    "keywords": ["objectivity 意味", "客観性 英語", "objective 名詞"],
+    "meanings": [
+      { "hinshi": "【名詞】客観性、公平さ", "note": "個人的な感情・偏見を排し、事実に基づいて公平に判断する態度。subjectivity（主観性）の反対。不可算。" }
+    ],
+    "usages": [
+      { "title": "① 客観性を保つ", "desc": "判断の文脈で。", "example_en": "Journalists should maintain objectivity.", "example_ja": "報道記者は客観性を保つべきだ。" },
+      { "title": "② 公平な評価", "desc": "偏りのなさに。", "example_en": "The report lacks objectivity.", "example_ja": "その報告は客観性に欠けている。" }
+    ],
+    "warn": ["反対は subjectivity（主観性）。形容詞は objective（客観的な）。"],
+    "etym_note": "ラテン語 obicere（前に投げる・対象とする）に由来する objective（客観的な）に、名詞化の -ity が付いた語。",
+    "etym_chain": [
+      { "node": "objective", "sub": "客観的な", "era": "近代" },
+      { "node": "objectivity", "sub": "客観性", "era": "19世紀" }
+    ],
+    "phrases": [
+      { "en": "maintain objectivity", "ja": "客観性を保つ" },
+      { "en": "lack objectivity", "ja": "客観性に欠ける" },
+      { "en": "scientific objectivity", "ja": "科学的客観性" },
+      { "en": "a sense of objectivity", "ja": "客観的な視点" },
+      { "en": "strive for objectivity", "ja": "客観性に努める" },
+      { "en": "journalistic objectivity", "ja": "報道の客観性" }
+    ],
+    "related": [
+      { "en": "objective", "ja": "客観的な・目標" },
+      { "en": "subjectivity", "ja": "主観性" },
+      { "en": "impartiality", "ja": "公平さ・中立" },
+      { "en": "neutrality", "ja": "中立" }
+    ],
+    "faq": [
+      { "q": "objectivity の反対語は？", "a": "subjectivity（主観性）です。個人の感情・視点に基づく主観性の反対が、公平な客観性です。" },
+      { "q": "objectivity の形容詞形は？", "a": "objective（客観的な）です。名詞では『目標・目的』の意味もあります。" }
+    ],
+    "quiz": [
+      { "q": "objectivity の意味は？", "A": "客観性・公平で偏りのない態度", "B": "主観性", "C": "感情的な反応", "D": "偏見", "correct": "A" },
+      { "q": "objectivity の反対語は？", "A": "subjectivity", "B": "activity", "C": "quality", "D": "quantity", "correct": "A" }
+    ]
+  },
+  {
+    "english": "objector",
+    "pron": "əbˈdʒektər",
+    "kana": "オブジェクター",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "object（反対する）＋-or（人）",
+    "ld_level": "対象外",
+    "badges": ["社会人〜", "英検準1級", "CEFR C1", "社会"],
+    "meaning_main": "反対する人／異議を唱える人／(良心的)兵役拒否者",
+    "description": "objector（オブジェクター）は「反対する人・異議を唱える人」を意味する名詞。特に conscientious objector（良心的兵役拒否者）の形で知られます。",
+    "keywords": ["objector 意味", "反対する人 英語", "兵役拒否"],
+    "meanings": [
+      { "hinshi": "【名詞】反対する人、異議を唱える人", "note": "ある提案・行為に反対・異議を表明する人。object（反対する）の名詞形。可算名詞。" },
+      { "hinshi": "【名詞】(良心的)兵役拒否者", "note": "conscientious objector で、信条から兵役を拒む人。" }
+    ],
+    "usages": [
+      { "title": "① 反対者", "desc": "議論の文脈で。", "example_en": "The plan met with several objectors.", "example_ja": "その計画は数人の反対者にあった。" },
+      { "title": "② 兵役拒否者", "desc": "歴史の文脈で。", "example_en": "He was a conscientious objector during the war.", "example_ja": "彼は戦時中の良心的兵役拒否者だった。" }
+    ],
+    "warn": ["動詞は object（to を伴う。object to ~ で『〜に反対する』）。conscientious objector（良心的兵役拒否者）は頻出。"],
+    "etym_note": "ラテン語 obicere（前に投げる・反対する）に由来する object（反対する）に、人を表す -or が付いた語。",
+    "etym_chain": [
+      { "node": "object", "sub": "反対する", "era": "中世" },
+      { "node": "objector", "sub": "反対する人", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a conscientious objector", "ja": "良心的兵役拒否者" },
+      { "en": "meet with objectors", "ja": "反対者にあう" },
+      { "en": "a vocal objector", "ja": "声高な反対者" },
+      { "en": "objectors to the plan", "ja": "計画への反対者" },
+      { "en": "silence the objectors", "ja": "反対者を黙らせる" },
+      { "en": "a lone objector", "ja": "唯一の反対者" }
+    ],
+    "related": [
+      { "en": "object", "ja": "反対する・物" },
+      { "en": "objection", "ja": "反対・異議" },
+      { "en": "opponent", "ja": "反対者・敵" },
+      { "en": "dissenter", "ja": "異議を唱える人" }
+    ],
+    "faq": [
+      { "q": "objector の動詞形は？", "a": "object（反対する）です。object to ~ の形で『〜に反対する』と使います。" },
+      { "q": "conscientious objector とは？", "a": "宗教や道徳的信条を理由に、兵役や戦闘への参加を拒む人『良心的兵役拒否者』のことです。" }
+    ],
+    "quiz": [
+      { "q": "objector の意味は？", "A": "反対する人・異議を唱える人", "B": "賛成する人", "C": "審判", "D": "観客", "correct": "A" },
+      { "q": "objector の動詞形は？", "A": "object", "B": "observe", "C": "obtain", "D": "obey", "correct": "A" }
+    ]
+  },
+  {
+    "english": "obliging",
+    "pron": "əˈblaɪdʒɪŋ",
+    "kana": "オブライジング",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "oblige（親切にする・義務を負わせる）＋-ing",
+    "ld_level": "対象外",
+    "badges": ["社会人〜", "英検準1級", "CEFR C1", "性格"],
+    "meaning_main": "親切な／こころよく人の役に立つ／世話好きな",
+    "description": "obliging（オブライジング）は「親切な・こころよく人の役に立つ」という意味の形容詞。頼まれたことを気持ちよく引き受ける世話好きな様子を表します。",
+    "keywords": ["obliging 意味", "親切な 英語", "oblige 形容詞"],
+    "meanings": [
+      { "hinshi": "【形容詞】親切な、こころよく役に立つ、世話好きな", "note": "人の頼みを快く引き受け、手助けするさま。an obliging waiter（気の利く店員）。" }
+    ],
+    "usages": [
+      { "title": "① 親切な人", "desc": "態度に。", "example_en": "The staff were friendly and obliging.", "example_ja": "スタッフは愛想がよく親切だった。" },
+      { "title": "② 快く応じる", "desc": "対応に。", "example_en": "He was most obliging and helped us right away.", "example_ja": "彼はとても親切で、すぐに手伝ってくれた。" }
+    ],
+    "warn": ["動詞 oblige は『(人の)役に立つ・親切にする／義務を負わせる』。much obliged（ありがとう）という表現も。反対は unhelpful。"],
+    "etym_note": "ラテン語 obligare（縛る・義務づける）に由来する oblige（親切にする）に、-ing が付いた語。『進んで人の役に立つ』の意。",
+    "etym_chain": [
+      { "node": "oblige", "sub": "親切にする・義務を負わせる", "era": "中世" },
+      { "node": "obliging", "sub": "親切な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an obliging manner", "ja": "親切な物腰" },
+      { "en": "friendly and obliging", "ja": "愛想がよく親切な" },
+      { "en": "most obliging", "ja": "実に親切な" },
+      { "en": "an obliging host", "ja": "気配りのある主人" },
+      { "en": "always obliging", "ja": "いつも快く応じる" },
+      { "en": "an obliging neighbor", "ja": "世話好きな隣人" }
+    ],
+    "related": [
+      { "en": "oblige", "ja": "親切にする・義務を負わせる" },
+      { "en": "helpful", "ja": "役に立つ・親切な" },
+      { "en": "accommodating", "ja": "融通のきく・世話好きな" },
+      { "en": "unhelpful", "ja": "役に立たない・不親切な" }
+    ],
+    "faq": [
+      { "q": "obliging の反対に近い語は？", "a": "unhelpful（不親切な・役に立たない）です。" },
+      { "q": "obliging と helpful の違いは？", "a": "どちらも『親切な』ですが、obliging は特に『頼まれたことを快く引き受ける』世話好きなニュアンスがあります。" }
+    ],
+    "quiz": [
+      { "q": "obliging の意味は？", "A": "親切な・こころよく役に立つ", "B": "不親切な", "C": "とても速い", "D": "とても大きい", "correct": "A" },
+      { "q": "obliging の動詞形は？", "A": "oblige", "B": "object", "C": "obtain", "D": "observe", "correct": "A" }
+    ]
+  },
+  {
+    "english": "obliquely",
+    "pron": "əˈbliːkli",
+    "kana": "オブリークリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "oblique（斜めの・遠回しの）＋-ly",
+    "ld_level": "対象外",
+    "badges": ["社会人〜", "英検1級", "CEFR C1", "描写"],
+    "meaning_main": "斜めに／遠回しに／それとなく",
+    "description": "obliquely（オブリークリー）は「斜めに」または「遠回しに・それとなく」という意味の副詞。直接でなく、間接的・婉曲的に伝える様子も表します。",
+    "keywords": ["obliquely 意味", "遠回しに 英語", "oblique 副詞"],
+    "meanings": [
+      { "hinshi": "【副詞】斜めに", "note": "まっすぐでなく傾いて。angle obliquely（斜めに角度をつける）。" },
+      { "hinshi": "【副詞】遠回しに、それとなく", "note": "直接でなく間接的・婉曲的に。refer obliquely to ~（〜にそれとなく触れる）。" }
+    ],
+    "usages": [
+      { "title": "① 遠回しに", "desc": "婉曲な言及に。", "example_en": "He referred obliquely to the problem.", "example_ja": "彼はその問題にそれとなく触れた。" },
+      { "title": "② 斜めに", "desc": "角度に。", "example_en": "The light fell obliquely across the room.", "example_ja": "光が部屋を斜めに横切って差した。" }
+    ],
+    "warn": ["形容詞は oblique（斜めの・遠回しの）。反対は directly（直接に）。婉曲的な言及の意味で頻出。"],
+    "etym_note": "ラテン語 obliquus（斜めの）に由来する oblique に、副詞化の -ly が付いた語。『斜めに・遠回しに』の意。",
+    "etym_chain": [
+      { "node": "obliquus", "sub": "斜めの（ラテン語）", "era": "古代" },
+      { "node": "oblique", "sub": "斜めの・遠回しの", "era": "中世" },
+      { "node": "obliquely", "sub": "斜めに・遠回しに", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "refer obliquely to ~", "ja": "〜にそれとなく触れる" },
+      { "en": "hint obliquely", "ja": "遠回しにほのめかす" },
+      { "en": "obliquely worded", "ja": "遠回しに述べられた" },
+      { "en": "cut obliquely", "ja": "斜めに切る" },
+      { "en": "look obliquely", "ja": "横目で見る" },
+      { "en": "obliquely critical", "ja": "遠回しに批判的な" }
+    ],
+    "related": [
+      { "en": "oblique", "ja": "斜めの・遠回しの" },
+      { "en": "indirectly", "ja": "間接的に" },
+      { "en": "subtly", "ja": "微妙に・それとなく" },
+      { "en": "directly", "ja": "直接に" }
+    ],
+    "faq": [
+      { "q": "obliquely の二つの意味は？", "a": "『斜めに（傾いて）』という物理的な意味と、『遠回しに・それとなく（間接的に）』という意味があります。" },
+      { "q": "obliquely の反対語は？", "a": "『遠回しに』の反対は directly（直接に）です。" }
+    ],
+    "quiz": [
+      { "q": "obliquely の意味は？", "A": "斜めに／遠回しに", "B": "まっすぐに／直接に", "C": "急いで", "D": "静かに", "correct": "A" },
+      { "q": "obliquely の形容詞形は？", "A": "oblique", "B": "obvious", "C": "oblivious", "D": "obligatory", "correct": "A" }
+    ]
+  },
+  {
+    "english": "obsequiously",
+    "pron": "əbˈsiːkwiəsli",
+    "kana": "オブシークウィアスリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "obsequious（へつらう）＋-ly",
+    "ld_level": "対象外",
+    "badges": ["社会人〜", "英検1級", "CEFR C2", "態度"],
+    "meaning_main": "こびへつらって／ぺこぺこと／卑屈なほど従順に",
+    "description": "obsequiously（オブシークウィアスリー）は「こびへつらって・ぺこぺこと」という意味の副詞。度が過ぎて卑屈なほど相手に取り入る態度を表します。",
+    "keywords": ["obsequiously 意味", "へつらう 英語", "obsequious 副詞"],
+    "meanings": [
+      { "hinshi": "【副詞】こびへつらって、卑屈なほど従順に", "note": "度を越して相手のご機嫌をとり、へつらうさま。obsequious（へつらう）＋-ly。否定的。" }
+    ],
+    "usages": [
+      { "title": "① へつらう態度", "desc": "対人に。", "example_en": "The waiter bowed obsequiously.", "example_ja": "その店員はぺこぺことお辞儀をした。" },
+      { "title": "② 卑屈な追従", "desc": "追従に。", "example_en": "He obsequiously agreed with his boss.", "example_ja": "彼はこびるように上司に同意した。" }
+    ],
+    "warn": ["形容詞は obsequious（へつらう・こびる）。servile（卑屈な）と近い。度を越したお世辞・追従を否定的に指す。"],
+    "etym_note": "ラテン語 obsequium（従順・追従）に由来する obsequious に、副詞化の -ly が付いた語。『卑屈にへつらって』の意。",
+    "etym_chain": [
+      { "node": "obsequium", "sub": "従順・追従（ラテン語）", "era": "古代" },
+      { "node": "obsequious", "sub": "へつらう", "era": "16世紀" },
+      { "node": "obsequiously", "sub": "こびへつらって", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "bow obsequiously", "ja": "ぺこぺことお辞儀する" },
+      { "en": "smile obsequiously", "ja": "こびるように笑う" },
+      { "en": "obsequiously polite", "ja": "卑屈なほど丁寧な" },
+      { "en": "flatter obsequiously", "ja": "こびへつらう" },
+      { "en": "agree obsequiously", "ja": "こびるように同意する" },
+      { "en": "behave obsequiously", "ja": "へつらった態度をとる" }
+    ],
+    "related": [
+      { "en": "obsequious", "ja": "へつらう・こびる" },
+      { "en": "servile", "ja": "卑屈な・奴隷的な" },
+      { "en": "fawning", "ja": "こびへつらう" },
+      { "en": "sycophantic", "ja": "追従的な" }
+    ],
+    "faq": [
+      { "q": "obsequiously の形容詞形は？", "a": "obsequious（へつらう・こびる）です。" },
+      { "q": "obsequiously はどんなニュアンス？", "a": "『度を越して卑屈に、ご機嫌をとってこびへつらう』という否定的なニュアンスの語です。" }
+    ],
+    "quiz": [
+      { "q": "obsequiously の意味は？", "A": "こびへつらって・卑屈なほど従順に", "B": "堂々と", "C": "急いで", "D": "静かに", "correct": "A" },
+      { "q": "obsequiously の形容詞形は？", "A": "obsequious", "B": "obvious", "C": "obscure", "D": "obsolete", "correct": "A" }
+    ]
+  },
+  {
+    "english": "observed",
+    "pron": "əbˈzɜːrvd",
+    "kana": "オブザーブド",
+    "hinshi": "動詞(observe の過去形) / 形容詞",
+    "ld_pos": "動詞",
+    "ld_etym": "observe（観察する・述べる・守る）＋-ed",
+    "ld_level": "対象外",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出"],
+    "meaning_main": "観察した／気づいた／(規則・習慣を)守った／(記念日を)祝った",
+    "description": "observed（オブザーブド）は「観察した・気づいた」などの意味。動詞 observe（観察する・述べる・守る・祝う）の過去・過去分詞形です。",
+    "keywords": ["observed 意味", "観察した 英語", "observe 過去形"],
+    "meanings": [
+      { "hinshi": "【動詞】observe の過去・過去分詞", "note": "observe（観察する／気づく／(意見を)述べる／(規則・習慣を)守る／(記念日を)祝う）の -ed 形。" },
+      { "hinshi": "【形容詞】観察された、観測された", "note": "実際に見て確認された。the observed data（観測されたデータ）。" }
+    ],
+    "usages": [
+      { "title": "① 観察した", "desc": "見て確認する。", "example_en": "Scientists observed the reaction closely.", "example_ja": "科学者たちはその反応を注意深く観察した。" },
+      { "title": "② 習慣を守った", "desc": "慣習に。", "example_en": "They observed the tradition every year.", "example_ja": "彼らは毎年その伝統を守った。" }
+    ],
+    "warn": ["observe は多義語（観察する／述べる／(規則・記念日を)守る・祝う）。名詞は observation（観察）、人は observer（観察者）。"],
+    "etym_note": "ラテン語 observare（見守る・従う）に由来する observe に、-ed が付いた語。",
+    "etym_chain": [
+      { "node": "observare", "sub": "見守る・従う（ラテン語）", "era": "古代" },
+      { "node": "observe", "sub": "観察する・守る", "era": "中世" },
+      { "node": "observed", "sub": "観察した", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "observed the reaction", "ja": "反応を観察した" },
+      { "en": "as observed", "ja": "観察されたように" },
+      { "en": "observed the rules", "ja": "規則を守った" },
+      { "en": "observed a holiday", "ja": "祝日を祝った・守った" },
+      { "en": "the observed data", "ja": "観測データ" },
+      { "en": "widely observed", "ja": "広く守られている" }
+    ],
+    "related": [
+      { "en": "observe", "ja": "観察する・守る・祝う" },
+      { "en": "observation", "ja": "観察・所見" },
+      { "en": "observer", "ja": "観察者" },
+      { "en": "noticed", "ja": "気づいた" }
+    ],
+    "faq": [
+      { "q": "observe のいろいろな意味は？", "a": "『観察する・気づく』のほか、『(意見を)述べる』『(規則・習慣を)守る』『(記念日を)祝う』など多くの意味があります。" },
+      { "q": "observed の名詞形は？", "a": "observation（観察・観測・所見）です。観察する人は observer です。" }
+    ],
+    "quiz": [
+      { "q": "observed the rules の意味は？", "A": "規則を守った", "B": "規則を破った", "C": "規則を作った", "D": "規則を忘れた", "correct": "A" },
+      { "q": "observed の名詞形は？", "A": "observation", "B": "obligation", "C": "objection", "D": "operation", "correct": "A" }
+    ]
+  },
+  {
+    "english": "occidental",
+    "pron": "ˌɒksɪˈdentl",
+    "kana": "オクシデンタル",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 occidens（日の沈む方＝西）に由来",
+    "ld_level": "対象外",
+    "badges": ["社会人〜", "英検1級", "CEFR C1", "文化"],
+    "meaning_main": "西洋の／西方の（東洋 Oriental の反対）",
+    "description": "occidental（オクシデンタル）は「西洋の・西方の」という意味の形容詞。東洋（Oriental）に対して、ヨーロッパやアメリカなど西側の文化・地域を指す古風な語です。",
+    "keywords": ["occidental 意味", "西洋の 英語", "oriental 反対"],
+    "meanings": [
+      { "hinshi": "【形容詞】西洋の、西方の", "note": "西洋（ヨーロッパ・アメリカなど）の。東洋 Oriental の反対。やや古風。頭文字は大文字 Occidental のことも。" },
+      { "hinshi": "【名詞】西洋人", "note": "西洋の人。現在は Westerner が一般的で、この語はやや古風。" }
+    ],
+    "usages": [
+      { "title": "① 西洋の文化", "desc": "対比の文脈で。", "example_en": "Occidental art differs from Oriental art.", "example_ja": "西洋美術は東洋美術と異なる。" },
+      { "title": "② 西方の", "desc": "地域に。", "example_en": "the Occidental world", "example_ja": "西洋世界" }
+    ],
+    "warn": ["反対は oriental（東洋の）。どちらもやや古風で、現代では Western / Eastern を使うことが多い。ラテン語で occidens は『日の沈む方＝西』。"],
+    "etym_note": "ラテン語 occidere（沈む）に由来する occidens（『日の沈む方＝西』）から。東を意味する oriens（oriental）の反対にあたる。",
+    "etym_chain": [
+      { "node": "occidens", "sub": "日の沈む方＝西（ラテン語）", "era": "古代" },
+      { "node": "occidental", "sub": "西洋の", "era": "中世" }
+    ],
+    "phrases": [
+      { "en": "Occidental culture", "ja": "西洋文化" },
+      { "en": "the Occidental world", "ja": "西洋世界" },
+      { "en": "Occidental art", "ja": "西洋美術" },
+      { "en": "Occidental and Oriental", "ja": "西洋と東洋" },
+      { "en": "Occidental philosophy", "ja": "西洋哲学" },
+      { "en": "an Occidental view", "ja": "西洋的な見方" }
+    ],
+    "related": [
+      { "en": "oriental", "ja": "東洋の" },
+      { "en": "Western", "ja": "西洋の・西の" },
+      { "en": "Eastern", "ja": "東洋の・東の" },
+      { "en": "West", "ja": "西・西洋" }
+    ],
+    "faq": [
+      { "q": "occidental の反対語は？", "a": "oriental（東洋の）です。occidental は西、oriental は東を指します。" },
+      { "q": "occidental は今でも使う？", "a": "やや古風な語で、現代では Western（西洋の）を使うのが一般的です。" }
+    ],
+    "quiz": [
+      { "q": "occidental の意味は？", "A": "西洋の・西方の", "B": "東洋の", "C": "南の", "D": "北の", "correct": "A" },
+      { "q": "occidental の反対語は？", "A": "oriental", "B": "accidental", "C": "occasional", "D": "official", "correct": "A" }
+    ]
+  }
+]
