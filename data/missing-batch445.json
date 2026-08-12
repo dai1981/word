@@ -1,0 +1,986 @@
+[
+  {
+    "english": "sniper",
+    "pron": "ˈsnaɪpər",
+    "kana": "スナイパー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "snipe（シギ猟をする）+ -er",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "軍事"],
+    "meaning_main": "狙撃兵・狙撃手",
+    "description": "sniper（スナイパー）は「狙撃兵・狙撃手」。隠れた場所から遠距離の目標を正確に撃つ兵士や射手を指します。行為は snipe（狙撃する）。意味・使い方・例文を解説します。",
+    "keywords": ["sniper 意味", "狙撃兵", "狙撃手", "snipe"],
+    "meanings": [
+      { "hinshi": "【名詞】狙撃兵・狙撃手", "note": "隠れて遠距離から正確に射撃する兵士・射手。可算" }
+    ],
+    "usages": [
+      { "title": "① 隠れて狙撃する兵士", "desc": "遠距離射撃", "example_en": "A sniper was hidden on the rooftop.", "example_ja": "狙撃兵が屋上に隠れていた。" },
+      { "title": "② 動詞 snipe", "desc": "「狙撃する」", "example_en": "They were sniped at from the hills.", "example_ja": "彼らは丘から狙撃された。" }
+    ],
+    "warn": ["sharpshooter（射撃の名手）より、sniper は特に『隠密に遠距離狙撃する専門兵』。snipe には『陰から批判する』の比喩も"],
+    "etym_note": "snipe（シギという鳥。撃つのが難しいシギを仕留められる腕前から）+ -er。『シギを撃てる名手』の意が由来。",
+    "etym_chain": [
+      { "node": "snipe", "sub": "シギ・シギ猟", "era": "中英語" },
+      { "node": "sniper", "sub": "狙撃兵", "era": "18世紀" },
+      { "node": "sniper", "sub": "狙撃手", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a hidden sniper", "ja": "隠れた狙撃兵" },
+      { "en": "a sniper rifle", "ja": "狙撃銃" },
+      { "en": "a trained sniper", "ja": "訓練された狙撃手" },
+      { "en": "sniper fire", "ja": "狙撃" },
+      { "en": "an enemy sniper", "ja": "敵の狙撃兵" },
+      { "en": "take out a sniper", "ja": "狙撃兵を排除する" }
+    ],
+    "related": [
+      { "en": "sharpshooter", "ja": "射撃の名手" },
+      { "en": "marksman", "ja": "射手" },
+      { "en": "gunman", "ja": "銃を持つ者" },
+      { "en": "rifle", "ja": "ライフル" }
+    ],
+    "faq": [
+      { "q": "sniper と sharpshooter の違いは？", "a": "sniper（狙撃兵）は特に軍事で、隠れて遠距離から目標を狙う専門の兵士を指します。sharpshooter は射撃の腕前が高い人全般を指し、軍・警察・スポーツなどで使われます。" },
+      { "q": "名前の由来は？", "a": "snipe（シギ）という、素早く撃つのが難しい鳥を仕留められる腕前から来ています。『シギを撃てる名手』の意味から、隠れて正確に狙撃する兵士を sniper と呼ぶようになりました。" }
+    ],
+    "quiz": [
+      { "q": "sniper の意味は？", "A": "狙撃兵・狙撃手", "B": "料理人", "C": "医者", "D": "運転手", "correct": "A" },
+      { "q": "sniper の語源となった鳥は？", "A": "シギ（snipe）", "B": "ワシ", "C": "ハト", "D": "スズメ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "snobbery",
+    "pron": "ˈsnɒbəri",
+    "kana": "スノバリー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "snob（俗物）+ -ery",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "頻出"],
+    "meaning_main": "俗物根性・気取り・見栄っ張りな態度",
+    "description": "snobbery（スノバリー）は「俗物根性・気取り」。地位や趣味などで自分を上に見せ、下と見た相手を見下す態度を表す語です。snob（俗物・スノッブ）から派生します。意味・使い方を解説します。",
+    "keywords": ["snobbery 意味", "俗物根性", "気取り", "snob"],
+    "meanings": [
+      { "hinshi": "【名詞】俗物根性・気取り・見栄っ張りな態度", "note": "地位・富・趣味などで人を見下す態度。不可算。intellectual snobbery（知的スノビズム）" }
+    ],
+    "usages": [
+      { "title": "① 見下す態度", "desc": "俗物根性", "example_en": "His snobbery about wine annoyed his friends.", "example_ja": "ワインに関する彼の気取りは友人をいらだたせた。" },
+      { "title": "② 気取り・見栄", "desc": "上下でとらえる", "example_en": "There is a lot of snobbery in the art world.", "example_ja": "美術界には多くの気取りがある。" }
+    ],
+    "warn": ["snob（俗物・上流気取りの人／下を見下す人）から派生。反対は down-to-earth（気取らない）。inverted snobbery は『逆スノビズム』"],
+    "etym_note": "snob（もとは『靴屋の徒弟→身分の低い者→身分を鼻にかける俗物』と意味が変化した語）に -ery が付いた語。",
+    "etym_chain": [
+      { "node": "snob", "sub": "俗物", "era": "18世紀" },
+      { "node": "snobbery", "sub": "俗物根性", "era": "19世紀" },
+      { "node": "snobbery", "sub": "気取り", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "intellectual snobbery", "ja": "知的スノビズム" },
+      { "en": "social snobbery", "ja": "社会的な気取り" },
+      { "en": "reverse snobbery", "ja": "逆スノビズム" },
+      { "en": "pure snobbery", "ja": "まったくの俗物根性" },
+      { "en": "food snobbery", "ja": "食にうるさい気取り" },
+      { "en": "a kind of snobbery", "ja": "一種の気取り" }
+    ],
+    "related": [
+      { "en": "snob", "ja": "俗物・スノッブ" },
+      { "en": "snobbish", "ja": "俗物的な・気取った" },
+      { "en": "pretension", "ja": "気取り・見栄" },
+      { "en": "elitism", "ja": "エリート主義" }
+    ],
+    "faq": [
+      { "q": "snobbery とはどういう意味ですか？", "a": "地位・富・趣味・知識などを鼻にかけ、それを持たない相手を見下す『俗物根性・気取り』のことです。intellectual snobbery（知的スノビズム）のように、何かにうるさく上下で人を判断する態度を指します。" },
+      { "q": "snob とは何ですか？", "a": "『俗物・スノッブ』のことで、地位や趣味などで人を見下す人を指します。snobbery はその態度・性質を表す名詞、snobbish はその形容詞です。" }
+    ],
+    "quiz": [
+      { "q": "snobbery の意味は？", "A": "俗物根性・気取り", "B": "謙虚さ", "C": "親しみやすさ", "D": "正直さ", "correct": "A" },
+      { "q": "snobbery のもとになった名詞は？", "A": "snob", "B": "snap", "C": "snow", "D": "snip", "correct": "A" }
+    ]
+  },
+  {
+    "english": "snobbishly",
+    "pron": "ˈsnɒbɪʃli",
+    "kana": "スノビッシュリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "snobbish（俗物的な）+ -ly",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "上級"],
+    "meaning_main": "俗物的に・気取って・見下すように",
+    "description": "snobbishly（スノビッシュリー）は「俗物的に・気取って・見下すように」。地位や趣味を鼻にかけ、相手を見下す態度でふるまう様子を表す語です。snobbish の副詞形です。意味・使い方を解説します。",
+    "keywords": ["snobbishly 意味", "気取って", "見下すように", "snobbish"],
+    "meanings": [
+      { "hinshi": "【副詞】俗物的に・気取って・見下すように", "note": "地位・趣味を鼻にかけて相手を見下す態度で。否定的" }
+    ],
+    "usages": [
+      { "title": "① 見下してふるまう", "desc": "気取った態度", "example_en": "She snobbishly refused the cheap wine.", "example_ja": "彼女は気取って安いワインを断った。" },
+      { "title": "② 俗物的な態度", "desc": "鼻にかけて", "example_en": "He spoke snobbishly about his private school.", "example_ja": "彼は自分の私立校を鼻にかけて話した。" }
+    ],
+    "warn": ["snobbish（俗物的な・気取った）の副詞形。名詞は snobbery（俗物根性）／snob（俗物）。否定的な語"],
+    "etym_note": "snob（俗物）由来の形容詞 snobbish に -ly が付いた副詞。",
+    "etym_chain": [
+      { "node": "snob", "sub": "俗物", "era": "18世紀" },
+      { "node": "snobbish", "sub": "俗物的な", "era": "19世紀" },
+      { "node": "snobbishly", "sub": "俗物的に", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "behave snobbishly", "ja": "俗物的にふるまう" },
+      { "en": "snobbishly dismiss", "ja": "見下して退ける" },
+      { "en": "speak snobbishly", "ja": "気取って話す" },
+      { "en": "snobbishly refuse", "ja": "気取って断る" },
+      { "en": "look snobbishly at", "ja": "〜を見下すように見る" },
+      { "en": "act snobbishly", "ja": "気取った態度をとる" }
+    ],
+    "related": [
+      { "en": "snobbish", "ja": "俗物的な・気取った" },
+      { "en": "snobbery", "ja": "俗物根性" },
+      { "en": "snob", "ja": "俗物" },
+      { "en": "condescendingly", "ja": "見下すように" }
+    ],
+    "faq": [
+      { "q": "snobbishly とはどういう意味ですか？", "a": "「俗物的に・気取って・相手を見下すように」という意味の副詞です。地位や趣味・知識を鼻にかけ、格下と見た相手を見下す態度でふるまう様子を表します。否定的に使われます。" },
+      { "q": "condescendingly との違いは？", "a": "どちらも『見下すように』ですが、snobbishly は『地位・趣味などを鼻にかけて』、condescendingly は『恩着せがましく・上から目線で』というニュアンスの違いがあります。" }
+    ],
+    "quiz": [
+      { "q": "snobbishly の意味は？", "A": "俗物的に・気取って・見下すように", "B": "謙虚に", "C": "親切に", "D": "急いで", "correct": "A" },
+      { "q": "snobbishly のもとの形容詞は？", "A": "snobbish", "B": "snoopy", "C": "snowy", "D": "snug", "correct": "A" }
+    ]
+  },
+  {
+    "english": "snooping",
+    "pron": "ˈsnuːpɪŋ",
+    "kana": "スヌーピング",
+    "hinshi": "動詞（snoop の現在分詞）/ 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "オランダ語 snoepen（こっそり食べる・かぎ回る）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "口語"],
+    "meaning_main": "こそこそ嗅ぎ回ること・詮索・のぞき見",
+    "description": "snooping（スヌーピング）は snoop（嗅ぎ回る）の現在分詞・動名詞で「こそこそ嗅ぎ回ること・詮索・のぞき見」。他人のことを勝手に調べたり探ったりする行為を表します。意味・使い方を解説します。",
+    "keywords": ["snooping 意味", "嗅ぎ回る", "詮索", "のぞき見"],
+    "meanings": [
+      { "hinshi": "【動詞】こそこそ嗅ぎ回っている（snoop の現在分詞）", "note": "他人のことを勝手に探る・のぞき見る。snoop around（嗅ぎ回る）" },
+      { "hinshi": "【名詞】詮索・のぞき見", "note": "こっそり調べること" }
+    ],
+    "usages": [
+      { "title": "① 嗅ぎ回る", "desc": "こっそり探る", "example_en": "I caught him snooping through my emails.", "example_ja": "彼が私のメールを勝手に見ているのを見つけた。" },
+      { "title": "② snoop around", "desc": "嗅ぎ回る", "example_en": "Someone was snooping around the house.", "example_ja": "誰かが家の周りを嗅ぎ回っていた。" }
+    ],
+    "warn": ["prying（詮索する）と近いくだけた語。snoop around（こそこそ嗅ぎ回る）が頻出。否定的なニュアンス"],
+    "etym_note": "オランダ語 snoepen（こっそり菓子を食べる→こそこそする）に由来する snoop の -ing 形。",
+    "etym_chain": [
+      { "node": "snoepen", "sub": "こっそり食べる", "era": "オランダ語" },
+      { "node": "snoop", "sub": "嗅ぎ回る", "era": "19世紀米語" },
+      { "node": "snooping", "sub": "詮索・のぞき見", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "snoop around", "ja": "こそこそ嗅ぎ回る" },
+      { "en": "snooping through", "ja": "〜を勝手に調べる" },
+      { "en": "stop snooping", "ja": "詮索をやめる" },
+      { "en": "caught snooping", "ja": "嗅ぎ回っているのを見つかる" },
+      { "en": "snooping on people", "ja": "人を詮索する" },
+      { "en": "government snooping", "ja": "政府による監視・のぞき見" }
+    ],
+    "related": [
+      { "en": "snoop", "ja": "嗅ぎ回る" },
+      { "en": "pry", "ja": "詮索する" },
+      { "en": "spy", "ja": "スパイする・探る" },
+      { "en": "eavesdrop", "ja": "盗み聞きする" }
+    ],
+    "faq": [
+      { "q": "snooping とはどういう意味ですか？", "a": "他人のことを勝手に、こっそりと調べたり探ったりすること（詮索・のぞき見）です。snoop through someone's things（人の持ち物を勝手にあさる）、snoop around（嗅ぎ回る）のように使い、否定的な行為を指します。" },
+      { "q": "prying との違いは？", "a": "どちらも『詮索する』ですが、prying は『（立ち入って）根掘り葉掘り聞く・のぞく』、snooping は『こそこそ嗅ぎ回る・盗み見る』というくだけた語です。意味は近く重なります。" }
+    ],
+    "quiz": [
+      { "q": "snooping の意味は？", "A": "こそこそ嗅ぎ回ること・詮索", "B": "堂々と発表すること", "C": "掃除すること", "D": "料理すること", "correct": "A" },
+      { "q": "snoop around の意味は？", "A": "こそこそ嗅ぎ回る", "B": "急いで掃除する", "C": "大声で叫ぶ", "D": "静かに眠る", "correct": "A" }
+    ]
+  },
+  {
+    "english": "snorkel",
+    "pron": "ˈsnɔːrkəl",
+    "kana": "シュノーケル",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ドイツ語 Schnorchel（吸気管）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "スポーツ"],
+    "meaning_main": "シュノーケル（水中で呼吸する管）／シュノーケリングをする",
+    "description": "snorkel（シュノーケル）は「水面近くで泳ぎながら呼吸するための管」。口にくわえ、水上に出た先端から空気を吸います。動詞で「シュノーケリングをする」。意味・使い方を解説します。",
+    "keywords": ["snorkel 意味", "シュノーケル", "シュノーケリング", "呼吸管"],
+    "meanings": [
+      { "hinshi": "【名詞】シュノーケル", "note": "水面近くで泳ぎながら呼吸するための管。口にくわえて使う。可算" },
+      { "hinshi": "【動詞】シュノーケリングをする", "note": "シュノーケルをつけて水中の景色を楽しむ" }
+    ],
+    "usages": [
+      { "title": "① 呼吸用の管", "desc": "水面で息をする", "example_en": "She put on a mask and snorkel.", "example_ja": "彼女はマスクとシュノーケルをつけた。" },
+      { "title": "② 動詞として", "desc": "シュノーケリング", "example_en": "We snorkeled over the coral reef.", "example_ja": "私たちはサンゴ礁の上でシュノーケリングをした。" }
+    ],
+    "warn": ["scuba diving（ボンベを背負う潜水）と違い、シュノーケルは水面近くで呼吸する。行為は snorkeling（シュノーケリング）"],
+    "etym_note": "ドイツ語 Schnorchel（潜水艦の吸気管）に由来。第二次大戦の潜水艦用語から、海水浴の呼吸管の意味に広がった。",
+    "etym_chain": [
+      { "node": "Schnorchel", "sub": "吸気管", "era": "ドイツ語" },
+      { "node": "snorkel", "sub": "シュノーケル", "era": "20世紀" },
+      { "node": "snorkel", "sub": "シュノーケル", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a mask and snorkel", "ja": "マスクとシュノーケル" },
+      { "en": "put on a snorkel", "ja": "シュノーケルをつける" },
+      { "en": "go snorkeling", "ja": "シュノーケリングに行く" },
+      { "en": "snorkel over the reef", "ja": "サンゴ礁でシュノーケリングする" },
+      { "en": "breathe through a snorkel", "ja": "シュノーケルで呼吸する" },
+      { "en": "a snorkel tube", "ja": "シュノーケルの管" }
+    ],
+    "related": [
+      { "en": "snorkeling", "ja": "シュノーケリング" },
+      { "en": "scuba", "ja": "スキューバ" },
+      { "en": "diving", "ja": "潜水" },
+      { "en": "mask", "ja": "水中マスク" }
+    ],
+    "faq": [
+      { "q": "snorkel とは何ですか？", "a": "水面近くで泳ぎながら呼吸するための管です。口にくわえ、水上に突き出た先端から空気を吸います。マスクと組み合わせて、顔を水につけたまま海中の景色を楽しめます。" },
+      { "q": "scuba diving との違いは？", "a": "snorkeling（シュノーケリング）は水面近くで呼吸管を使って泳ぐもので、scuba diving（スキューバダイビング）は酸素ボンベを背負って深く潜るものです。手軽さと潜れる深さが異なります。" }
+    ],
+    "quiz": [
+      { "q": "snorkel の意味は？", "A": "水中で呼吸する管（シュノーケル）", "B": "浮き輪", "C": "ボート", "D": "釣りざお", "correct": "A" },
+      { "q": "snorkel はどの言語由来？", "A": "ドイツ語", "B": "フランス語", "C": "スペイン語", "D": "日本語", "correct": "A" }
+    ]
+  },
+  {
+    "english": "snowboarder",
+    "pron": "ˈsnoʊbɔːrdər",
+    "kana": "スノーボーダー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "snowboard（スノーボード）+ -er",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "スポーツ"],
+    "meaning_main": "スノーボーダー（スノーボードをする人）",
+    "description": "snowboarder（スノーボーダー）は「スノーボードに乗る人」。1枚の板で雪の斜面を滑る人です。競技は snowboarding。オリンピック種目にもなっています。意味・使い方を解説します。",
+    "keywords": ["snowboarder 意味", "スノーボーダー", "スノボ", "snowboarding"],
+    "meanings": [
+      { "hinshi": "【名詞】スノーボーダー", "note": "1枚の板（スノーボード）で雪の斜面を滑る人。可算" }
+    ],
+    "usages": [
+      { "title": "① スノボをする人", "desc": "板で滑る", "example_en": "The snowboarder did a spin in the air.", "example_ja": "そのスノーボーダーは空中で回転した。" },
+      { "title": "② ゲレンデで", "desc": "斜面を滑走", "example_en": "Skiers and snowboarders shared the slope.", "example_ja": "スキーヤーとスノーボーダーが同じ斜面を使った。" }
+    ],
+    "warn": ["skier（スキーヤー、2本の板）と区別。競技・行為は snowboarding。オリンピック種目（ハーフパイプなど）"],
+    "etym_note": "snowboard（snow「雪」+ board「板」）に -er（〜する人）が付いた語。1980年代以降に普及した。",
+    "etym_chain": [
+      { "node": "snow + board", "sub": "雪の板", "era": "20世紀" },
+      { "node": "snowboard", "sub": "スノーボード", "era": "20世紀" },
+      { "node": "snowboarder", "sub": "スノーボーダー", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a skilled snowboarder", "ja": "腕のいいスノーボーダー" },
+      { "en": "a professional snowboarder", "ja": "プロのスノーボーダー" },
+      { "en": "snowboarders on the slope", "ja": "斜面のスノーボーダー" },
+      { "en": "become a snowboarder", "ja": "スノーボーダーになる" },
+      { "en": "a young snowboarder", "ja": "若いスノーボーダー" },
+      { "en": "an Olympic snowboarder", "ja": "オリンピックのスノーボーダー" }
+    ],
+    "related": [
+      { "en": "snowboarding", "ja": "スノーボード（競技）" },
+      { "en": "snowboard", "ja": "スノーボード（用具）" },
+      { "en": "skier", "ja": "スキーヤー" },
+      { "en": "slope", "ja": "斜面・ゲレンデ" }
+    ],
+    "faq": [
+      { "q": "snowboarder と skier の違いは？", "a": "snowboarder は1枚の板（スノーボード）に両足を固定して滑る人、skier は2本の板（スキー）を左右の足につけて滑る人です。滑り方や姿勢が大きく異なります。" },
+      { "q": "snowboarding はオリンピック種目ですか？", "a": "はい。スノーボード（snowboarding）は1998年の長野オリンピックから正式種目になりました。ハーフパイプ、スロープスタイル、ビッグエアなどの種目があります。" }
+    ],
+    "quiz": [
+      { "q": "snowboarder の意味は？", "A": "スノーボードに乗る人", "B": "水泳選手", "C": "登山家", "D": "マラソン選手", "correct": "A" },
+      { "q": "snowboarder が使う用具は？", "A": "スノーボード（1枚の板）", "B": "スキー（2本の板）", "C": "スケート靴", "D": "サーフボード", "correct": "A" }
+    ]
+  },
+  {
+    "english": "snowboarding",
+    "pron": "ˈsnoʊbɔːrdɪŋ",
+    "kana": "スノーボーディング",
+    "hinshi": "名詞 / 動詞（snowboard の現在分詞）",
+    "ld_pos": "名詞",
+    "ld_etym": "snowboard（スノーボード）+ -ing",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "スポーツ"],
+    "meaning_main": "スノーボード（を滑ること）・スノボ競技",
+    "description": "snowboarding（スノーボーディング）は「スノーボードで雪の斜面を滑ること・スノボ競技」。1枚の板に両足を固定して滑るウィンタースポーツです。オリンピック種目です。意味を解説します。",
+    "keywords": ["snowboarding 意味", "スノーボード 競技", "スノボ", "ウィンタースポーツ"],
+    "meanings": [
+      { "hinshi": "【名詞】スノーボード（競技・遊び）", "note": "スノーボードで雪の斜面を滑るウィンタースポーツ。不可算" },
+      { "hinshi": "【動詞】スノボをしている（snowboard の現在分詞）", "note": "進行形で" }
+    ],
+    "usages": [
+      { "title": "① スポーツとして", "desc": "雪の斜面を滑る", "example_en": "Snowboarding is popular in winter.", "example_ja": "スノーボードは冬に人気だ。" },
+      { "title": "② 楽しみとして", "desc": "ゲレンデで", "example_en": "We went snowboarding in the mountains.", "example_ja": "私たちは山へスノボをしに行った。" }
+    ],
+    "warn": ["行為をする人は snowboarder。skiing（スキー）と対比される。ハーフパイプなどオリンピック種目"],
+    "etym_note": "snowboard（雪の板）の -ing 形。サーフィンやスケートボードの影響を受けて1970〜80年代に生まれたとされる。",
+    "etym_chain": [
+      { "node": "snow + board", "sub": "雪の板", "era": "20世紀" },
+      { "node": "snowboard", "sub": "スノーボード", "era": "20世紀" },
+      { "node": "snowboarding", "sub": "スノーボード（競技）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "go snowboarding", "ja": "スノボをしに行く" },
+      { "en": "learn snowboarding", "ja": "スノボを習う" },
+      { "en": "snowboarding tricks", "ja": "スノボの技" },
+      { "en": "Olympic snowboarding", "ja": "オリンピックのスノボ" },
+      { "en": "snowboarding gear", "ja": "スノボの用具" },
+      { "en": "enjoy snowboarding", "ja": "スノボを楽しむ" }
+    ],
+    "related": [
+      { "en": "snowboarder", "ja": "スノーボーダー" },
+      { "en": "snowboard", "ja": "スノーボード（用具）" },
+      { "en": "skiing", "ja": "スキー" },
+      { "en": "halfpipe", "ja": "ハーフパイプ" }
+    ],
+    "faq": [
+      { "q": "snowboarding とはどんなスポーツですか？", "a": "1枚の板（スノーボード）に両足を固定し、雪の斜面を滑り降りたり技を決めたりするウィンタースポーツです。ゲレンデでの滑走のほか、ハーフパイプなどで技を競う競技もあります。" },
+      { "q": "skiing との違いは？", "a": "snowboarding は1枚の板に横向きに立って滑り、skiing は2本の板を左右の足につけて前向きに滑ります。姿勢・技術・用具が異なる、それぞれ独立したウィンタースポーツです。" }
+    ],
+    "quiz": [
+      { "q": "snowboarding の意味は？", "A": "スノーボードで滑る競技・遊び", "B": "アイススケート", "C": "水泳", "D": "登山", "correct": "A" },
+      { "q": "snowboarding をする人は？", "A": "snowboarder", "B": "snowboardist", "C": "snowman", "D": "skier", "correct": "A" }
+    ]
+  },
+  {
+    "english": "snowplow",
+    "pron": "ˈsnoʊplaʊ",
+    "kana": "スノープラウ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "snow（雪）+ plow（すき・除雪する）",
+    "ld_level": "1級",
+    "badges": ["中学生〜", "英検1級", "CEFR B2", "日常"],
+    "meaning_main": "除雪車・除雪機／（スキー）ボーゲン（八の字で止まる技）",
+    "description": "snowplow（スノープラウ）は「除雪車・除雪機」。道路に積もった雪を押しのけて取り除く車両や装置です。スキーでは板を八の字にして減速・停止する技も指します。意味・使い方を解説します。",
+    "keywords": ["snowplow 意味", "除雪車", "除雪機", "ボーゲン"],
+    "meanings": [
+      { "hinshi": "【名詞】除雪車・除雪機", "note": "道路の雪を押しのけて取り除く車両・装置。イギリス綴りは snowplough" },
+      { "hinshi": "【名詞】（スキー）ボーゲン・プルーク", "note": "板を八の字にして減速・停止する初心者向けの技" }
+    ],
+    "usages": [
+      { "title": "① 除雪する車両", "desc": "雪を押しのける", "example_en": "The snowplow cleared the road after the storm.", "example_ja": "除雪車が嵐の後に道路の雪を取り除いた。" },
+      { "title": "② スキーのボーゲン", "desc": "八の字で止まる", "example_en": "Beginners learn to stop with a snowplow.", "example_ja": "初心者はボーゲンで止まることを習う。" }
+    ],
+    "warn": ["イギリス綴りは snowplough。スキーのボーゲンは snowplow / wedge とも。板の先を合わせた八の字で減速する"],
+    "etym_note": "snow（雪）+ plow（すき・耕す道具。転じて『押しのける』）を合わせた語。畑を耕すすきのように雪を押しのけることから。",
+    "etym_chain": [
+      { "node": "snow + plow", "sub": "雪をすく", "era": "近代英語" },
+      { "node": "snowplow", "sub": "除雪車", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a snowplow clears the road", "ja": "除雪車が道路を除雪する" },
+      { "en": "drive a snowplow", "ja": "除雪車を運転する" },
+      { "en": "a snowplow blade", "ja": "除雪車の排土板" },
+      { "en": "the snowplow came", "ja": "除雪車が来た" },
+      { "en": "do a snowplow turn", "ja": "ボーゲンで曲がる" },
+      { "en": "a snowplow stop", "ja": "ボーゲンで止まること" }
+    ],
+    "related": [
+      { "en": "plow", "ja": "すき・除雪する" },
+      { "en": "snow", "ja": "雪" },
+      { "en": "shovel", "ja": "シャベル・雪かき" },
+      { "en": "ski", "ja": "スキー" }
+    ],
+    "faq": [
+      { "q": "snowplow とは何ですか？", "a": "道路に積もった雪を、大きな排土板（ブレード）で押しのけて取り除く車両・装置です。降雪地域で道路を通行可能に保つために使われます。イギリス綴りは snowplough です。" },
+      { "q": "スキーの snowplow とは？", "a": "スキー板の先を合わせて『八の字（ハの字）』の形にし、減速・停止する初心者向けの基本技です。日本ではドイツ語由来の『ボーゲン』とも呼ばれます。wedge とも言います。" }
+    ],
+    "quiz": [
+      { "q": "snowplow の意味は？", "A": "除雪車・除雪機", "B": "スキーリフト", "C": "雪だるま", "D": "そり", "correct": "A" },
+      { "q": "スキーの snowplow が指す技は？", "A": "八の字で減速・停止する技（ボーゲン）", "B": "空中でのジャンプ", "C": "後ろ向き滑走", "D": "高速滑降", "correct": "A" }
+    ]
+  },
+  {
+    "english": "socialist",
+    "pron": "ˈsoʊʃəlɪst",
+    "kana": "ソーシャリスト",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "social（社会の）+ -ist",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "政治"],
+    "meaning_main": "社会主義者／社会主義の",
+    "description": "socialist（ソーシャリスト）は「社会主義者」、形容詞で「社会主義の」。生産手段の共同所有や富の平等な分配を重んじる立場の人・思想を指します。主義は socialism。意味・使い方を解説します。",
+    "keywords": ["socialist 意味", "社会主義者", "socialism", "社会主義の"],
+    "meanings": [
+      { "hinshi": "【名詞】社会主義者", "note": "社会主義（socialism）を支持する人。可算" },
+      { "hinshi": "【形容詞】社会主義の", "note": "a socialist party（社会主義政党）、socialist policies（社会主義的な政策）" }
+    ],
+    "usages": [
+      { "title": "① 社会主義者", "desc": "思想の支持者", "example_en": "She is a committed socialist.", "example_ja": "彼女は熱心な社会主義者だ。" },
+      { "title": "② 社会主義の", "desc": "形容詞として", "example_en": "The socialist party won the election.", "example_ja": "社会主義政党が選挙で勝った。" }
+    ],
+    "warn": ["主義・思想は socialism（社会主義）。capitalist（資本主義者）と対比。communist（共産主義者）とは別（より急進的）"],
+    "etym_note": "ラテン語 socius（仲間）由来の social（社会の）に -ist（〜主義者）が付いた語。society・social と同語源。",
+    "etym_chain": [
+      { "node": "socius", "sub": "仲間", "era": "ラテン語" },
+      { "node": "social", "sub": "社会の", "era": "近代英語" },
+      { "node": "socialist", "sub": "社会主義者", "era": "19世紀" }
+    ],
+    "phrases": [
+      { "en": "a socialist party", "ja": "社会主義政党" },
+      { "en": "socialist policies", "ja": "社会主義的な政策" },
+      { "en": "a democratic socialist", "ja": "民主社会主義者" },
+      { "en": "socialist ideology", "ja": "社会主義思想" },
+      { "en": "a committed socialist", "ja": "熱心な社会主義者" },
+      { "en": "socialist economics", "ja": "社会主義経済" }
+    ],
+    "related": [
+      { "en": "socialism", "ja": "社会主義" },
+      { "en": "capitalist", "ja": "資本主義者（対比）" },
+      { "en": "communist", "ja": "共産主義者" },
+      { "en": "social", "ja": "社会の" }
+    ],
+    "faq": [
+      { "q": "socialist と communist の違いは？", "a": "どちらも生産手段の共同管理を志向しますが、socialist（社会主義者）はより穏健で、民主的な手段や部分的な公有を認める立場を含みます。communist（共産主義者）は私有財産の廃止など、より急進的な変革を目指す立場です。" },
+      { "q": "socialism とは何ですか？", "a": "生産手段（工場・土地など）の共同所有や、富の平等な分配を重んじる思想・体制です。資本主義（capitalism）に対する考え方で、その支持者が socialist（社会主義者）です。" }
+    ],
+    "quiz": [
+      { "q": "socialist の意味は？", "A": "社会主義者／社会主義の", "B": "資本主義者", "C": "無政府主義者", "D": "君主主義者", "correct": "A" },
+      { "q": "socialist が支持する思想は？", "A": "socialism（社会主義）", "B": "capitalism（資本主義）", "C": "fascism（ファシズム）", "D": "feudalism（封建制）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "socialization",
+    "pron": "ˌsoʊʃələˈzeɪʃən",
+    "kana": "ソーシャライゼーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "socialize（社会化する）+ -ation",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "社会学"],
+    "meaning_main": "社会化（社会の規範や価値を身につける過程）",
+    "description": "socialization（ソーシャライゼーション）は「社会化」。人が社会の規範・価値観・行動様式を学び身につけていく過程を指す社会学の用語です。子どもの成長で特に重要です。意味を解説します。",
+    "keywords": ["socialization 意味", "社会化", "socialize", "社会学"],
+    "meanings": [
+      { "hinshi": "【名詞】社会化", "note": "人が社会の規範・価値観・行動様式を学び身につけていく過程。社会学の重要概念。不可算。イギリス綴りは socialisation" }
+    ],
+    "usages": [
+      { "title": "① 子どもの社会化", "desc": "規範を学ぶ過程", "example_en": "Family plays a key role in a child's socialization.", "example_ja": "家族は子どもの社会化に重要な役割を果たす。" },
+      { "title": "② 社会学の概念", "desc": "価値観の習得", "example_en": "Socialization shapes how we behave.", "example_ja": "社会化は私たちの行動の仕方を形づくる。" }
+    ],
+    "warn": ["動詞は socialize（社会化する／人と交流する）。犬などを『他と慣れさせる』意味でも socialization を使う"],
+    "etym_note": "social（社会の）由来の socialize（社会化する）に -ation が付いた語。society・social と同語源。",
+    "etym_chain": [
+      { "node": "social", "sub": "社会の", "era": "近代英語" },
+      { "node": "socialize", "sub": "社会化する", "era": "19世紀" },
+      { "node": "socialization", "sub": "社会化", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the process of socialization", "ja": "社会化の過程" },
+      { "en": "early socialization", "ja": "早期の社会化" },
+      { "en": "gender socialization", "ja": "ジェンダーの社会化" },
+      { "en": "socialization of children", "ja": "子どもの社会化" },
+      { "en": "primary socialization", "ja": "第一次社会化" },
+      { "en": "puppy socialization", "ja": "子犬の社会化" }
+    ],
+    "related": [
+      { "en": "socialize", "ja": "社会化する・交流する" },
+      { "en": "society", "ja": "社会" },
+      { "en": "norm", "ja": "規範" },
+      { "en": "upbringing", "ja": "育ち・しつけ" }
+    ],
+    "faq": [
+      { "q": "socialization（社会化）とは何ですか？", "a": "人が生まれてから、社会の規範・価値観・言語・行動様式などを学び身につけていく過程です。家族・学校・友人・メディアなどを通して進みます。社会の一員として生きるために欠かせない過程です。" },
+      { "q": "動詞 socialize の意味は？", "a": "『社会化する』のほか、日常では『（人と）交流する・つき合う』という意味でよく使われます。socialize with colleagues（同僚と交流する）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "socialization の意味は？", "A": "社会化（規範や価値を身につける過程）", "B": "個人化", "C": "工業化", "D": "都市化", "correct": "A" },
+      { "q": "子どもの社会化に重要な役割を果たすものは？", "A": "家族・学校", "B": "天気", "C": "地形", "D": "通貨", "correct": "A" }
+    ]
+  },
+  {
+    "english": "softener",
+    "pron": "ˈsɒfənər",
+    "kana": "ソフナー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "soften（柔らかくする）+ -er",
+    "ld_level": "1級",
+    "badges": ["中学生〜", "英検1級", "CEFR B2", "日常"],
+    "meaning_main": "柔らかくするもの（柔軟剤・軟化剤など）",
+    "description": "softener（ソフナー）は「柔らかくするもの」。洗濯の柔軟剤（fabric softener）や、硬水を軟らかくする軟水器（water softener）などを指します。soften（柔らかくする）に -er が付いた語です。意味を解説します。",
+    "keywords": ["softener 意味", "柔軟剤", "fabric softener", "軟水器"],
+    "meanings": [
+      { "hinshi": "【名詞】柔らかくするもの・軟化剤", "note": "fabric softener（洗濯の柔軟剤）、water softener（軟水器）など。可算" }
+    ],
+    "usages": [
+      { "title": "① 洗濯の柔軟剤", "desc": "衣類を柔らかく", "example_en": "Add fabric softener to the wash.", "example_ja": "洗濯に柔軟剤を加えて。" },
+      { "title": "② 軟水器", "desc": "水を軟らかく", "example_en": "A water softener removes hardness from water.", "example_ja": "軟水器は水の硬度を取り除く。" }
+    ],
+    "warn": ["fabric softener（柔軟剤）、water softener（軟水器）が代表。動詞 soften は『柔らかくする・和らげる』"],
+    "etym_note": "soft（柔らかい。古英語 sōfte より）由来の soften（柔らかくする）に -er（〜するもの）が付いた語。",
+    "etym_chain": [
+      { "node": "sōfte", "sub": "柔らかい", "era": "古英語" },
+      { "node": "soften", "sub": "柔らかくする", "era": "中英語" },
+      { "node": "softener", "sub": "柔らかくするもの", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "fabric softener", "ja": "洗濯の柔軟剤" },
+      { "en": "water softener", "ja": "軟水器" },
+      { "en": "add softener", "ja": "柔軟剤を加える" },
+      { "en": "a hair softener", "ja": "髪の柔軟剤" },
+      { "en": "leather softener", "ja": "革用の柔軟剤" },
+      { "en": "use a softener", "ja": "柔軟剤を使う" }
+    ],
+    "related": [
+      { "en": "soften", "ja": "柔らかくする" },
+      { "en": "soft", "ja": "柔らかい" },
+      { "en": "conditioner", "ja": "コンディショナー・柔軟仕上げ剤" },
+      { "en": "detergent", "ja": "洗剤" }
+    ],
+    "faq": [
+      { "q": "fabric softener とは何ですか？", "a": "「（洗濯の）柔軟剤」のことです。洗濯の際に加えると、衣類がふんわり柔らかく仕上がり、静電気やごわつきを抑えます。洗剤（detergent）とは別に使います。" },
+      { "q": "water softener とは？", "a": "「軟水器」のことです。カルシウムやマグネシウムを多く含む硬水から、それらを取り除いて軟水にする装置です。硬水による水あかや石けんの泡立ちの悪さを防ぎます。" }
+    ],
+    "quiz": [
+      { "q": "softener の意味は？", "A": "柔らかくするもの（柔軟剤など）", "B": "硬くするもの", "C": "冷やすもの", "D": "乾かすもの", "correct": "A" },
+      { "q": "fabric softener の意味は？", "A": "洗濯の柔軟剤", "B": "洗剤", "C": "漂白剤", "D": "消臭剤", "correct": "A" }
+    ]
+  },
+  {
+    "english": "softness",
+    "pron": "ˈsɒftnəs",
+    "kana": "ソフトネス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "soft（柔らかい）+ -ness",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出"],
+    "meaning_main": "柔らかさ・やわらかさ・（音・光の）穏やかさ",
+    "description": "softness（ソフトネス）は「柔らかさ・やわらかさ」。手触りの柔らかさや、音・光・態度の穏やかさなどを表す語です。soft（柔らかい）の名詞形です。意味・使い方・例文を解説します。",
+    "keywords": ["softness 意味", "柔らかさ", "やわらかさ", "soft"],
+    "meanings": [
+      { "hinshi": "【名詞】柔らかさ・やわらかさ", "note": "手触り・感触の柔らかさ。the softness of the fabric（布の柔らかさ）" },
+      { "hinshi": "【名詞】穏やかさ・優しさ", "note": "音・光・態度などの柔らかさ。the softness of her voice（優しい声）" }
+    ],
+    "usages": [
+      { "title": "① 手触りの柔らかさ", "desc": "感触", "example_en": "She loved the softness of the blanket.", "example_ja": "彼女はその毛布の柔らかさが気に入った。" },
+      { "title": "② 声や光の穏やかさ", "desc": "優しさ", "example_en": "There was a softness in his voice.", "example_ja": "彼の声には優しさがあった。" }
+    ],
+    "warn": ["反対は hardness（硬さ）／harshness（厳しさ）。soft は『柔らかい・穏やかな・優しい』と幅広い"],
+    "etym_note": "soft（柔らかい。古英語 sōfte より）に、性質・状態を表す -ness が付いた語。",
+    "etym_chain": [
+      { "node": "sōfte", "sub": "柔らかい", "era": "古英語" },
+      { "node": "soft", "sub": "柔らかい", "era": "中英語" },
+      { "node": "softness", "sub": "柔らかさ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the softness of", "ja": "〜の柔らかさ" },
+      { "en": "silky softness", "ja": "絹のような柔らかさ" },
+      { "en": "softness of voice", "ja": "声の優しさ" },
+      { "en": "a certain softness", "ja": "ある種の柔らかさ" },
+      { "en": "softness and warmth", "ja": "柔らかさと温かさ" },
+      { "en": "lose its softness", "ja": "柔らかさを失う" }
+    ],
+    "related": [
+      { "en": "soft", "ja": "柔らかい" },
+      { "en": "gentleness", "ja": "優しさ・穏やかさ" },
+      { "en": "tenderness", "ja": "柔らかさ・情愛" },
+      { "en": "hardness", "ja": "硬さ（反対）" }
+    ],
+    "faq": [
+      { "q": "softness はどんな場面で使いますか？", "a": "布や肌などの『手触りの柔らかさ』、声・光・音などの『穏やかさ』、態度や表情の『優しさ』など幅広く使えます。the softness of the pillow（枕の柔らかさ）、softness in her eyes（優しいまなざし）のように使います。" },
+      { "q": "反対の意味の語は？", "a": "hardness（硬さ）が物理的な反対です。態度や音の『厳しさ・きつさ』の反対としては harshness（厳しさ）が使われます。" }
+    ],
+    "quiz": [
+      { "q": "softness の意味は？", "A": "柔らかさ・穏やかさ", "B": "硬さ", "C": "重さ", "D": "速さ", "correct": "A" },
+      { "q": "softness の反対に近い語は？", "A": "hardness", "B": "kindness", "C": "brightness", "D": "sweetness", "correct": "A" }
+    ]
+  },
+  {
+    "english": "softwood",
+    "pron": "ˈsɒftwʊd",
+    "kana": "ソフトウッド",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "soft（柔らかい）+ wood（木材）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "産業"],
+    "meaning_main": "軟材（針葉樹の木材）",
+    "description": "softwood（ソフトウッド）は「軟材」。マツやスギなどの針葉樹から取れる木材を指します。加工しやすく建材や紙の原料になります。反対は hardwood（硬材）。意味・使い方を解説します。",
+    "keywords": ["softwood 意味", "軟材", "針葉樹", "hardwood 反対"],
+    "meanings": [
+      { "hinshi": "【名詞】軟材（針葉樹の木材）", "note": "マツ・スギ・モミなど針葉樹から取れる木材。加工しやすく安価。建材・紙の原料。不可算" }
+    ],
+    "usages": [
+      { "title": "① 建材・紙の原料", "desc": "針葉樹の木材", "example_en": "Pine is a common softwood.", "example_ja": "マツは代表的な軟材だ。" },
+      { "title": "② hardwood との対比", "desc": "硬材の反対", "example_en": "Softwood is cheaper than hardwood.", "example_ja": "軟材は硬材より安い。" }
+    ],
+    "warn": ["softwood（軟材＝針葉樹）と hardwood（硬材＝広葉樹）は木の分類。必ずしも実際の硬さと一致しない場合もある"],
+    "etym_note": "soft（柔らかい）+ wood（木材）を合わせた語。針葉樹の木材が比較的軟らかいことから。hardwood（硬材）と対。",
+    "etym_chain": [
+      { "node": "soft + wood", "sub": "柔らかい木材", "era": "近代英語" },
+      { "node": "softwood", "sub": "軟材", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "softwood timber", "ja": "軟材の木材" },
+      { "en": "softwood and hardwood", "ja": "軟材と硬材" },
+      { "en": "a softwood forest", "ja": "針葉樹林" },
+      { "en": "softwood lumber", "ja": "軟材の製材" },
+      { "en": "cheap softwood", "ja": "安価な軟材" },
+      { "en": "softwood for construction", "ja": "建築用の軟材" }
+    ],
+    "related": [
+      { "en": "hardwood", "ja": "硬材（反対）" },
+      { "en": "timber", "ja": "木材" },
+      { "en": "conifer", "ja": "針葉樹" },
+      { "en": "pine", "ja": "マツ" }
+    ],
+    "faq": [
+      { "q": "softwood と hardwood の違いは？", "a": "softwood（軟材）はマツ・スギなど針葉樹から取れる木材、hardwood（硬材）はナラ・ブナなど広葉樹から取れる木材です。softwood は加工しやすく安価で建材や紙に、hardwood は硬く丈夫で家具などに使われます。" },
+      { "q": "softwood は必ず柔らかいのですか？", "a": "分類上『軟材（針葉樹）』ですが、実際の硬さは種類によって幅があり、一部の softwood は一部の hardwood より硬いこともあります。あくまで樹木の分類による呼び名です。" }
+    ],
+    "quiz": [
+      { "q": "softwood の意味は？", "A": "軟材（針葉樹の木材）", "B": "硬い金属", "C": "プラスチック", "D": "石材", "correct": "A" },
+      { "q": "softwood の反対語は？", "A": "hardwood", "B": "plywood", "C": "firewood", "D": "driftwood", "correct": "A" }
+    ]
+  },
+  {
+    "english": "soleus",
+    "pron": "ˈsoʊliəs",
+    "kana": "ソレウス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 solea（サンダル・ヒラメ）",
+    "ld_level": "-",
+    "badges": ["大学生〜", "医学・解剖", "専門語", "上級"],
+    "meaning_main": "ヒラメ筋（ふくらはぎの深部にある筋肉）",
+    "description": "soleus（ソレウス）は「ヒラメ筋」。ふくらはぎの深部にある、平たい魚のヒラメに似た形の筋肉です。立った姿勢の維持や歩行に重要です。意味・特徴をわかりやすく解説します。",
+    "keywords": ["soleus 意味", "ヒラメ筋", "ふくらはぎ", "筋肉"],
+    "meanings": [
+      { "hinshi": "【名詞】ヒラメ筋", "note": "ふくらはぎの深部にある平たい筋肉。腓腹筋（gastrocnemius）の下にあり、立位保持や歩行に働く。名は魚のヒラメ（sole）に由来。可算" }
+    ],
+    "usages": [
+      { "title": "① ふくらはぎの筋肉", "desc": "深部にある", "example_en": "The soleus helps you stand and walk.", "example_ja": "ヒラメ筋は立ったり歩いたりするのを助ける。" },
+      { "title": "② 腓腹筋との関係", "desc": "深層の筋", "example_en": "The soleus lies beneath the gastrocnemius.", "example_ja": "ヒラメ筋は腓腹筋の下にある。" }
+    ],
+    "warn": ["腓腹筋（gastrocnemius）とともにふくらはぎ（下腿三頭筋）を構成。名の soleus はラテン語 solea（ヒラメ・サンダル）に由来"],
+    "etym_note": "ラテン語 solea（サンダル・平たい魚のヒラメ）に由来。その平たい形が魚のヒラメに似ることから名づけられた。",
+    "etym_chain": [
+      { "node": "solea", "sub": "ヒラメ・サンダル", "era": "ラテン語" },
+      { "node": "soleus", "sub": "ヒラメ筋", "era": "近代ラテン語" },
+      { "node": "soleus", "sub": "ヒラメ筋", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the soleus muscle", "ja": "ヒラメ筋" },
+      { "en": "stretch the soleus", "ja": "ヒラメ筋を伸ばす" },
+      { "en": "the soleus and gastrocnemius", "ja": "ヒラメ筋と腓腹筋" },
+      { "en": "strengthen the soleus", "ja": "ヒラメ筋を鍛える" },
+      { "en": "a soleus strain", "ja": "ヒラメ筋の肉離れ" },
+      { "en": "the deep soleus", "ja": "深層のヒラメ筋" }
+    ],
+    "related": [
+      { "en": "gastrocnemius", "ja": "腓腹筋" },
+      { "en": "calf", "ja": "ふくらはぎ" },
+      { "en": "muscle", "ja": "筋肉" },
+      { "en": "achilles tendon", "ja": "アキレス腱" }
+    ],
+    "faq": [
+      { "q": "soleus（ヒラメ筋）とはどんな筋肉ですか？", "a": "ふくらはぎの深部にある平たい筋肉です。表層の腓腹筋（gastrocnemius）とともにアキレス腱につながり、立った姿勢を保ったり、歩いたり走ったりするときに働きます。" },
+      { "q": "なぜヒラメ筋と呼ぶのですか？", "a": "その平たい形が魚のヒラメ（sole）に似ていることに由来します。ラテン語 solea（ヒラメ・サンダル）から soleus と名づけられ、日本語でも『ヒラメ筋』と訳されました。" }
+    ],
+    "quiz": [
+      { "q": "soleus の意味は？", "A": "ヒラメ筋（ふくらはぎの筋肉）", "B": "腹筋", "C": "上腕の筋肉", "D": "背中の筋肉", "correct": "A" },
+      { "q": "soleus は体のどこにある？", "A": "ふくらはぎ", "B": "首", "C": "手のひら", "D": "額", "correct": "A" }
+    ]
+  },
+  {
+    "english": "solicitude",
+    "pron": "səˈlɪsɪtjuːd",
+    "kana": "ソリシチュード",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 sollicitudo（気づかい・不安）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "文語"],
+    "meaning_main": "（他人への）気づかい・心づかい・気にかけること",
+    "description": "solicitude（ソリシチュード）は「（他人への）気づかい・心づかい」。相手の身を案じて気にかける、思いやりある配慮を表す格式語です。動詞は solicit とは意味が異なります。意味を解説します。",
+    "keywords": ["solicitude 意味", "気づかい", "心づかい", "配慮"],
+    "meanings": [
+      { "hinshi": "【名詞】気づかい・心づかい・気にかけること", "note": "他人の幸福・健康などを案じる思いやりある配慮。不可算。格式ばった語" }
+    ],
+    "usages": [
+      { "title": "① 相手を案じる配慮", "desc": "思いやり", "example_en": "She showed great solicitude for the elderly.", "example_ja": "彼女は高齢者に深い気づかいを示した。" },
+      { "title": "② 心づかい", "desc": "身を案じる", "example_en": "He thanked them for their solicitude.", "example_ja": "彼は彼らの心づかいに感謝した。" }
+    ],
+    "warn": ["動詞 solicit（求める・懇願する）とは意味が異なる。concern（心配）より『思いやりある温かい配慮』の格式語"],
+    "etym_note": "ラテン語 sollicitudo（sollicitus「気をもむ・不安な」より＝気づかい・不安）に由来。solicit（懇願する）と語源を共有する。",
+    "etym_chain": [
+      { "node": "sollicitudo", "sub": "気づかい・不安", "era": "ラテン語" },
+      { "node": "solicitude", "sub": "気づかい", "era": "中英語" },
+      { "node": "solicitude", "sub": "心づかい", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "show solicitude for", "ja": "〜への気づかいを示す" },
+      { "en": "tender solicitude", "ja": "優しい心づかい" },
+      { "en": "with great solicitude", "ja": "深い気づかいをもって" },
+      { "en": "maternal solicitude", "ja": "母親のような気づかい" },
+      { "en": "anxious solicitude", "ja": "心配げな気づかい" },
+      { "en": "express solicitude", "ja": "気づかいを表す" }
+    ],
+    "related": [
+      { "en": "concern", "ja": "心配・関心" },
+      { "en": "care", "ja": "気づかい・世話" },
+      { "en": "consideration", "ja": "思いやり・配慮" },
+      { "en": "attentiveness", "ja": "心配り" }
+    ],
+    "faq": [
+      { "q": "solicitude とはどういう意味ですか？", "a": "他人の幸福・健康・安全などを案じて気にかける『思いやりある気づかい・心づかい』を意味する格式ばった語です。show solicitude for〜（〜への気づかいを示す）のように使います。" },
+      { "q": "solicit と関係がありますか？", "a": "語源は同じですが、意味は異なります。solicitude は『気づかい』、動詞 solicit は『（意見・支援などを）求める・懇願する』です。混同しないよう注意しましょう。" }
+    ],
+    "quiz": [
+      { "q": "solicitude の意味は？", "A": "（他人への）気づかい・心づかい", "B": "無関心", "C": "怒り", "D": "退屈", "correct": "A" },
+      { "q": "solicitude に近い意味の語は？", "A": "concern（気づかい）", "B": "hatred（憎しみ）", "C": "boredom（退屈）", "D": "greed（強欲）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "soluble",
+    "pron": "ˈsɒljəbəl",
+    "kana": "ソリュブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 solvere（解く・溶かす）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "化学"],
+    "meaning_main": "溶ける・可溶性の／（問題が）解決できる",
+    "description": "soluble（ソリュブル）は「（液体に）溶ける・可溶性の」、また「（問題が）解決できる」。化学と一般の両方で使う語です。反対は insoluble（溶けない・解決できない）。意味・使い方を解説します。",
+    "keywords": ["soluble 意味", "溶ける", "可溶性", "insoluble 反対"],
+    "meanings": [
+      { "hinshi": "【形容詞】溶ける・可溶性の", "note": "液体に溶ける性質。soluble in water（水に溶ける）" },
+      { "hinshi": "【形容詞】（問題が）解決できる", "note": "a soluble problem（解決可能な問題）。やや堅い用法" }
+    ],
+    "usages": [
+      { "title": "① 水に溶ける", "desc": "化学の性質", "example_en": "Salt is soluble in water.", "example_ja": "塩は水に溶ける。" },
+      { "title": "② 解決できる問題", "desc": "堅い用法", "example_en": "The dispute is soluble through talks.", "example_ja": "その争いは話し合いで解決できる。" }
+    ],
+    "warn": ["反対は insoluble（溶けない／解決できない）。solvable（解決できる）は問題に、soluble は化学・問題の両方に使う"],
+    "etym_note": "ラテン語 solvere（解く・溶かす・ゆるめる）由来の形容詞。solve・solution・dissolve と同語源。",
+    "etym_chain": [
+      { "node": "solvere", "sub": "解く・溶かす", "era": "ラテン語" },
+      { "node": "solubilis", "sub": "溶ける", "era": "ラテン語" },
+      { "node": "soluble", "sub": "溶ける・解決できる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "soluble in water", "ja": "水に溶ける" },
+      { "en": "water-soluble", "ja": "水溶性の" },
+      { "en": "fat-soluble", "ja": "脂溶性の" },
+      { "en": "highly soluble", "ja": "溶けやすい" },
+      { "en": "a soluble problem", "ja": "解決可能な問題" },
+      { "en": "soluble fiber", "ja": "水溶性食物繊維" }
+    ],
+    "related": [
+      { "en": "solve", "ja": "解決する・溶かす" },
+      { "en": "solution", "ja": "溶液・解決" },
+      { "en": "dissolve", "ja": "溶ける・溶かす" },
+      { "en": "insoluble", "ja": "溶けない（反対）" }
+    ],
+    "faq": [
+      { "q": "water-soluble と fat-soluble の違いは？", "a": "water-soluble は『水に溶ける（水溶性の）』、fat-soluble は『脂に溶ける（脂溶性の）』です。ビタミンでは、ビタミンCは水溶性、ビタミンA・D・E・Kは脂溶性というように分類されます。" },
+      { "q": "反対の意味の語は？", "a": "insoluble で「溶けない／（問題が）解決できない」という意味です。in-（否定）+ soluble から成ります。油は水に insoluble（溶けない）です。" }
+    ],
+    "quiz": [
+      { "q": "soluble の意味は？", "A": "溶ける・可溶性の", "B": "凍る", "C": "燃える", "D": "光る", "correct": "A" },
+      { "q": "soluble の反対語は？", "A": "insoluble", "B": "unsoluble", "C": "nonsoluble", "D": "dissoluble", "correct": "A" }
+    ]
+  },
+  {
+    "english": "solvency",
+    "pron": "ˈsɒlvənsi",
+    "kana": "ソルベンシー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "solvent（支払い能力のある）+ -cy",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "経済"],
+    "meaning_main": "支払い能力・（負債を返せる）財務健全性",
+    "description": "solvency（ソルベンシー）は「支払い能力・返済能力」。負債をきちんと返せるだけの財産・資力がある状態を指す経済用語です。反対は insolvency（債務超過・支払い不能）。意味を解説します。",
+    "keywords": ["solvency 意味", "支払い能力", "返済能力", "insolvency 反対"],
+    "meanings": [
+      { "hinshi": "【名詞】支払い能力・財務健全性", "note": "負債を返済できるだけの資産・資力がある状態。不可算。反対は insolvency（支払い不能）" }
+    ],
+    "usages": [
+      { "title": "① 企業の支払い能力", "desc": "財務の健全さ", "example_en": "The bank's solvency was in doubt.", "example_ja": "その銀行の支払い能力は疑わしかった。" },
+      { "title": "② 返済できる状態", "desc": "insolvency の反対", "example_en": "The company maintained its solvency.", "example_ja": "その会社は支払い能力を保った。" }
+    ],
+    "warn": ["形容詞 solvent は『支払い能力のある』（『溶剤』の意味も別にある）。反対は insolvency（債務超過・破産状態）。liquidity（流動性）とは別"],
+    "etym_note": "ラテン語 solvere（解く→（負債を）解消する＝支払う）由来の solvent に -cy が付いた語。solve・dissolve と同語源。",
+    "etym_chain": [
+      { "node": "solvere", "sub": "解く・支払う", "era": "ラテン語" },
+      { "node": "solvent", "sub": "支払い能力のある", "era": "17世紀" },
+      { "node": "solvency", "sub": "支払い能力", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "financial solvency", "ja": "財務上の支払い能力" },
+      { "en": "maintain solvency", "ja": "支払い能力を保つ" },
+      { "en": "solvency of a bank", "ja": "銀行の支払い能力" },
+      { "en": "a solvency ratio", "ja": "支払い能力比率" },
+      { "en": "restore solvency", "ja": "支払い能力を回復する" },
+      { "en": "solvency and liquidity", "ja": "支払い能力と流動性" }
+    ],
+    "related": [
+      { "en": "solvent", "ja": "支払い能力のある" },
+      { "en": "insolvency", "ja": "支払い不能・債務超過（反対）" },
+      { "en": "liquidity", "ja": "流動性" },
+      { "en": "bankruptcy", "ja": "破産" }
+    ],
+    "faq": [
+      { "q": "solvency とは何ですか？", "a": "企業や個人が、負債（借金）をきちんと返済できるだけの資産・資力を持っている『支払い能力・財務の健全性』のことです。これが失われると insolvency（支払い不能・債務超過）になります。" },
+      { "q": "solvency と liquidity の違いは？", "a": "solvency（支払い能力）は『長期的に負債を返せるか（資産が負債を上回るか）』、liquidity（流動性）は『短期的に必要なお金をすぐ用意できるか（現金化のしやすさ）』を指します。別の概念です。" }
+    ],
+    "quiz": [
+      { "q": "solvency の意味は？", "A": "支払い能力・財務健全性", "B": "支払い不能", "C": "利益率", "D": "在庫量", "correct": "A" },
+      { "q": "solvency の反対語は？", "A": "insolvency", "B": "unsolvency", "C": "nonsolvency", "D": "dissolvency", "correct": "A" }
+    ]
+  },
+  {
+    "english": "someday",
+    "pron": "ˈsʌmdeɪ",
+    "kana": "サムデイ",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "some（ある）+ day（日）",
+    "ld_level": "3級",
+    "badges": ["小学生〜", "英検3級", "CEFR A2", "頻出"],
+    "meaning_main": "いつか（未来の）・そのうち",
+    "description": "someday（サムデイ）は「（未来の）いつか・そのうち」。将来の不特定の日に何かが起こる・したいという願望を表す副詞です。過去の『ある日』を指す some day とは区別します。意味・使い方を解説します。",
+    "keywords": ["someday 意味", "いつか", "そのうち", "some day 違い"],
+    "meanings": [
+      { "hinshi": "【副詞】いつか（未来の）・そのうち", "note": "将来の不特定の日に。願望・希望を込めて使うことが多い。1語 someday は主に未来" }
+    ],
+    "usages": [
+      { "title": "① 将来の希望", "desc": "いつか〜したい", "example_en": "Someday I want to travel the world.", "example_ja": "いつか世界中を旅したい。" },
+      { "title": "② そのうち", "desc": "未来の不特定の日", "example_en": "Someday you'll understand.", "example_ja": "そのうち分かるよ。" }
+    ],
+    "warn": ["1語の someday は主に『（未来の）いつか』。2語の some day は『（特定の）ある一日』を指すことがある。過去には使わない"],
+    "etym_note": "some（ある・いくつかの）+ day（日）が結びついた副詞。『（未来の）ある日＝いつか』の意。",
+    "etym_chain": [
+      { "node": "some + day", "sub": "ある日", "era": "近代英語" },
+      { "node": "someday", "sub": "いつか", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "someday soon", "ja": "そのうち近いうちに" },
+      { "en": "someday I will", "ja": "いつか私は〜する" },
+      { "en": "maybe someday", "ja": "いつかそのうち" },
+      { "en": "someday in the future", "ja": "将来のいつか" },
+      { "en": "hope to someday", "ja": "いつか〜できたらと願う" },
+      { "en": "someday, somehow", "ja": "いつか、どうにかして" }
+    ],
+    "related": [
+      { "en": "sometime", "ja": "いつか・そのうち" },
+      { "en": "one day", "ja": "いつか・ある日" },
+      { "en": "eventually", "ja": "いずれは・最終的に" },
+      { "en": "future", "ja": "未来" }
+    ],
+    "faq": [
+      { "q": "someday と one day の違いは？", "a": "どちらも『いつか』を意味します。someday は主に未来の希望に使い、one day は未来にも過去（『ある日〜した』）にも使えます。One day, he arrived.（ある日、彼が来た）のように過去には one day を使います。" },
+      { "q": "someday と some day の違いは？", "a": "1語の someday は『（未来の）いつか』、2語の some day は『（特定の）ある一日』を指すことがあります。『いつか〜したい』という願望には1語の someday を使います。" }
+    ],
+    "quiz": [
+      { "q": "someday の意味は？", "A": "いつか（未来の）・そのうち", "B": "昨日", "C": "今すぐ", "D": "毎日", "correct": "A" },
+      { "q": "someday はいつのことを指す？", "A": "未来の不特定の日", "B": "過去の日", "C": "今日", "D": "先週", "correct": "A" }
+    ]
+  },
+  {
+    "english": "somnambulism",
+    "pron": "sɒmˈnæmbjəlɪzəm",
+    "kana": "ソムナンビュリズム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 somnus（眠り）+ ambulare（歩く）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "医学"],
+    "meaning_main": "夢遊病（眠ったまま歩き回る症状）",
+    "description": "somnambulism（ソムナンビュリズム）は「夢遊病」の医学用語です。眠っている間に起き上がって歩くなどの行動をとる睡眠時の現象を指します。日常語では sleepwalking。意味を解説します。",
+    "keywords": ["somnambulism 意味", "夢遊病", "sleepwalking", "睡眠障害"],
+    "meanings": [
+      { "hinshi": "【名詞】夢遊病", "note": "眠っている間に歩くなどの行動をとる睡眠時の現象。日常語は sleepwalking。不可算。医学・専門用語" }
+    ],
+    "usages": [
+      { "title": "① 医学用語として", "desc": "夢遊病", "example_en": "Somnambulism is more common in children.", "example_ja": "夢遊病は子どもに多く見られる。" },
+      { "title": "② sleepwalking と同義", "desc": "専門的な言い方", "example_en": "Somnambulism is the medical term for sleepwalking.", "example_ja": "somnambulism は sleepwalking の医学用語だ。" }
+    ],
+    "warn": ["日常語は sleepwalking（夢遊病）。somnambulism は専門的・医学的な語。夢遊病者は somnambulist"],
+    "etym_note": "ラテン語 somnus（眠り）+ ambulare（歩く）＝『眠って歩くこと』。insomnia（不眠）の somn、ambulance（救急車）の ambul と同じ要素。",
+    "etym_chain": [
+      { "node": "somnus + ambulare", "sub": "眠って歩く", "era": "ラテン語" },
+      { "node": "somnambulism", "sub": "夢遊病", "era": "18世紀" },
+      { "node": "somnambulism", "sub": "夢遊病", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a case of somnambulism", "ja": "夢遊病の症例" },
+      { "en": "childhood somnambulism", "ja": "小児期の夢遊病" },
+      { "en": "treat somnambulism", "ja": "夢遊病を治療する" },
+      { "en": "episodes of somnambulism", "ja": "夢遊病の発作" },
+      { "en": "somnambulism and sleep disorders", "ja": "夢遊病と睡眠障害" },
+      { "en": "prone to somnambulism", "ja": "夢遊病になりやすい" }
+    ],
+    "related": [
+      { "en": "sleepwalking", "ja": "夢遊病（日常語）" },
+      { "en": "somnambulist", "ja": "夢遊病者" },
+      { "en": "insomnia", "ja": "不眠症" },
+      { "en": "sleep disorder", "ja": "睡眠障害" }
+    ],
+    "faq": [
+      { "q": "somnambulism と sleepwalking の違いは？", "a": "同じ『夢遊病』を指します。somnambulism はラテン語由来の医学・専門用語、sleepwalking は日常的な言い方です。眠っている間に歩くなどの行動をとる睡眠時の現象を意味します。" },
+      { "q": "語源は？", "a": "ラテン語の somnus（眠り）と ambulare（歩く）を組み合わせた語で、文字どおり『眠って歩くこと』を意味します。insomnia（不眠）や ambulance（救急車）と語源の一部を共有します。" }
+    ],
+    "quiz": [
+      { "q": "somnambulism の意味は？", "A": "夢遊病", "B": "不眠症", "C": "いびき", "D": "悪夢", "correct": "A" },
+      { "q": "somnambulism の日常的な言い方は？", "A": "sleepwalking", "B": "insomnia", "C": "daydreaming", "D": "snoring", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sonia",
+    "pron": "ˈsoʊniə",
+    "kana": "ソニア",
+    "hinshi": "名詞（固有名詞・人名）",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 Sophia（知恵）由来のロシア語形",
+    "ld_level": "-",
+    "badges": ["人名", "固有名詞", "参考", "ヨーロッパ"],
+    "meaning_main": "ソニア（女性の名前）",
+    "description": "Sonia（ソニア）は英単語ではなく、女性の名前（ファーストネーム）です。ギリシャ語 Sophia（知恵）に由来し、ロシアなどで使われる Sonya の形です。参考として由来を解説します。",
+    "keywords": ["sonia 意味", "ソニア 名前", "女性名", "Sophia"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ソニア（女性の名前）", "note": "英単語ではなく、ヨーロッパで使われる女性のファーストネーム。ギリシャ語 Sophia（知恵）に由来。Sonya とも綴る。文中では大文字" }
+    ],
+    "usages": [
+      { "title": "① 人名として", "desc": "女性の名前", "example_en": "Sonia is a name used in many countries.", "example_ja": "ソニアは多くの国で使われる名前だ。" },
+      { "title": "② 英単語ではない", "desc": "参考情報", "example_en": "Sonia is a first name, not an English word.", "example_ja": "ソニアは英単語ではなく人名だ。" }
+    ],
+    "warn": ["これは英単語ではなく、女性のファーストネーム。検索ログに現れたため参考として掲載。英語の辞書には一般語として載らない"],
+    "etym_note": "ギリシャ語 Sophia（知恵）に由来する Sofia のロシア語の愛称形 Sonya から。英語では Sonia とも綴られる女性名。",
+    "etym_chain": [
+      { "node": "Sophia", "sub": "知恵", "era": "ギリシャ語" },
+      { "node": "Sonya", "sub": "ソーニャ（愛称）", "era": "ロシア語" },
+      { "node": "Sonia", "sub": "ソニア（女性名）", "era": "現代" }
+    ],
+    "phrases": [
+      { "en": "her name is Sonia", "ja": "彼女の名前はソニア" },
+      { "en": "meet Sonia", "ja": "ソニアに会う" },
+      { "en": "the name Sonia", "ja": "ソニアという名前" },
+      { "en": "Sonia's family", "ja": "ソニアの家族" },
+      { "en": "a girl named Sonia", "ja": "ソニアという名の少女" },
+      { "en": "spelled Sonya", "ja": "Sonya とも綴る" }
+    ],
+    "related": [
+      { "en": "sophia", "ja": "ソフィア（女性名）" },
+      { "en": "name", "ja": "名前" },
+      { "en": "given name", "ja": "ファーストネーム" },
+      { "en": "wisdom", "ja": "知恵" }
+    ],
+    "faq": [
+      { "q": "sonia は英単語ですか？", "a": "いいえ、英単語ではありません。女性のファーストネーム（名前）です。ギリシャ語 Sophia（知恵）に由来する Sonya の形で、ロシアをはじめヨーロッパ各地で使われます。検索ログに現れたため参考として掲載しています。" },
+      { "q": "名前の意味は？", "a": "由来のギリシャ語 Sophia は『知恵』を意味します。その愛称・派生形が Sonya / Sonia で、女性の名前として多くの国で使われています。" }
+    ],
+    "quiz": [
+      { "q": "sonia は何ですか？", "A": "女性のファーストネーム（名前）", "B": "英語の動詞", "C": "英語の形容詞", "D": "化学用語", "correct": "A" },
+      { "q": "Sonia のもとになったギリシャ語の意味は？", "A": "知恵（Sophia）", "B": "光", "C": "海", "D": "花", "correct": "A" }
+    ]
+  }
+]
