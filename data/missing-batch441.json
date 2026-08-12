@@ -1,0 +1,990 @@
+[
+  {
+    "english": "sensing",
+    "pron": "ˈsɛnsɪŋ",
+    "kana": "センシング",
+    "hinshi": "動詞（sense の現在分詞）/ 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 sentire（感じる）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "IT・頻出"],
+    "meaning_main": "感じ取ること・察知／（技術）センシング・検知",
+    "description": "sensing（センシング）は sense（感じ取る・察知する）の現在分詞・動名詞で「感じ取ること・察知」。技術では「センサーによる検知（センシング）」を指します。意味・使い方を解説します。",
+    "keywords": ["sensing 意味", "センシング", "察知", "検知"],
+    "meanings": [
+      { "hinshi": "【動詞】感じ取っている・察知している（sense の現在分詞）", "note": "はっきり見えなくても気配・変化を感じ取る" },
+      { "hinshi": "【名詞】センシング・検知", "note": "センサーで物理量を測ること。remote sensing（リモートセンシング＝遠隔探査）" }
+    ],
+    "usages": [
+      { "title": "① 気配を察知する", "desc": "感じ取る", "example_en": "Sensing danger, she stopped.", "example_ja": "危険を察知して、彼女は立ち止まった。" },
+      { "title": "② remote sensing", "desc": "技術用語", "example_en": "Satellites use remote sensing to map the earth.", "example_ja": "衛星はリモートセンシングで地球を地図化する。" }
+    ],
+    "warn": ["remote sensing（リモートセンシング＝人工衛星などによる遠隔探査）は頻出。センサー（sensor）と関連する語"],
+    "etym_note": "ラテン語 sentire（感じる）由来の sense に -ing が付いた形。sentiment・sensation と同語源。",
+    "etym_chain": [
+      { "node": "sentire", "sub": "感じる", "era": "ラテン語" },
+      { "node": "sense", "sub": "感じ取る", "era": "中英語" },
+      { "node": "sensing", "sub": "察知・検知", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "remote sensing", "ja": "リモートセンシング" },
+      { "en": "sensing danger", "ja": "危険を察知して" },
+      { "en": "motion sensing", "ja": "動き検知" },
+      { "en": "sensing technology", "ja": "センシング技術" },
+      { "en": "sensing a change", "ja": "変化を感じ取って" },
+      { "en": "light sensing", "ja": "光検知" }
+    ],
+    "related": [
+      { "en": "sense", "ja": "感じ取る・感覚" },
+      { "en": "sensor", "ja": "センサー" },
+      { "en": "detect", "ja": "検知する" },
+      { "en": "perceive", "ja": "知覚する" }
+    ],
+    "faq": [
+      { "q": "remote sensing とは何ですか？", "a": "「リモートセンシング（遠隔探査）」のことです。人工衛星や航空機に搭載したセンサーで、離れた場所から地表や大気の情報を測定・観測する技術です。気象・地図作成・環境監視などに使われます。" },
+      { "q": "sensing と detecting の違いは？", "a": "どちらも『気づく・検知する』ですが、sensing は『（感覚的に）感じ取る・センサーで測る』、detecting は『（隠れたものを）見つけ出す・検出する』というニュアンスがあります。" }
+    ],
+    "quiz": [
+      { "q": "sensing の意味は？", "A": "感じ取ること・察知・検知", "B": "無視すること", "C": "破壊すること", "D": "忘れること", "correct": "A" },
+      { "q": "remote sensing の意味は？", "A": "遠隔探査（リモートセンシング）", "B": "近距離通話", "C": "手動操作", "D": "音声認識", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sepal",
+    "pron": "ˈsɛpəl",
+    "kana": "セパル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "近代ラテン語 sepalum（がく片）",
+    "ld_level": "-",
+    "badges": ["中学生〜", "理科・植物", "専門語", "上級"],
+    "meaning_main": "がく片（花のがくを構成する一片）",
+    "description": "sepal（セパル）は「がく片」。花のつぼみを包み、開いた後は花びらの外側を支える緑色の葉状の部分です。花の構造を学ぶときに出てくる語です。意味・使い方を解説します。",
+    "keywords": ["sepal 意味", "がく片", "花 構造", "petal 違い"],
+    "meanings": [
+      { "hinshi": "【名詞】がく片", "note": "花のがく（calyx）を構成する一片。つぼみを保護し、花びらの外側にある緑色の葉状部分。可算" }
+    ],
+    "usages": [
+      { "title": "① 花の構造", "desc": "花びらの外側", "example_en": "The green sepals protect the flower bud.", "example_ja": "緑のがく片が花のつぼみを守る。" },
+      { "title": "② petal との対比", "desc": "がく片と花びら", "example_en": "Sepals are usually green, while petals are colorful.", "example_ja": "がく片はふつう緑色で、花びらは色鮮やかだ。" }
+    ],
+    "warn": ["petal（花びら）と混同注意。sepal は外側の緑のがく片、petal は内側の色づいた花びら。がく全体は calyx"],
+    "etym_note": "近代ラテン語 sepalum（petalum「花びら」に対して作られた語）に由来。petal（花びら）と対になるよう19世紀に造られた。",
+    "etym_chain": [
+      { "node": "sepalum", "sub": "がく片", "era": "近代ラテン語" },
+      { "node": "sepal", "sub": "がく片", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "green sepals", "ja": "緑のがく片" },
+      { "en": "sepal and petal", "ja": "がく片と花びら" },
+      { "en": "the sepals of a rose", "ja": "バラのがく片" },
+      { "en": "protective sepals", "ja": "保護するがく片" },
+      { "en": "fused sepals", "ja": "合着したがく片" },
+      { "en": "count the sepals", "ja": "がく片を数える" }
+    ],
+    "related": [
+      { "en": "petal", "ja": "花びら" },
+      { "en": "calyx", "ja": "がく（全体）" },
+      { "en": "flower", "ja": "花" },
+      { "en": "bud", "ja": "つぼみ" }
+    ],
+    "faq": [
+      { "q": "sepal（がく片）と petal（花びら）の違いは？", "a": "sepal は花の一番外側にある、ふつう緑色の葉状の部分で、つぼみを保護します。petal は内側の色鮮やかな花びらです。花は外側からがく片・花びらの順に並んでいます。" },
+      { "q": "calyx とは何ですか？", "a": "「がく（全体）」のことです。複数のがく片（sepals）がまとまったものを calyx（がく）と呼びます。花の最も外側でつぼみを包む部分です。" }
+    ],
+    "quiz": [
+      { "q": "sepal の意味は？", "A": "がく片", "B": "花びら", "C": "めしべ", "D": "おしべ", "correct": "A" },
+      { "q": "sepal はふつう何色？", "A": "緑色", "B": "赤色", "C": "青色", "D": "金色", "correct": "A" }
+    ]
+  },
+  {
+    "english": "separable",
+    "pron": "ˈsɛpərəbəl",
+    "kana": "セパラブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 separare（分ける）+ -able",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "頻出"],
+    "meaning_main": "分けられる・分離できる",
+    "description": "separable（セパラブル）は「分けられる・分離できる」。切り離したり別々にしたりできる性質を表す語です。反対は inseparable（切り離せない）。意味・使い方・例文を解説します。",
+    "keywords": ["separable 意味", "分けられる", "inseparable 反対", "分離できる"],
+    "meanings": [
+      { "hinshi": "【形容詞】分けられる・分離できる", "note": "切り離す・別々にすることができる。反対は inseparable" }
+    ],
+    "usages": [
+      { "title": "① 切り離せる", "desc": "分離可能", "example_en": "The two issues are separable.", "example_ja": "その2つの問題は分けて考えられる。" },
+      { "title": "② inseparable との対比", "desc": "切り離せない の反対", "example_en": "The parts are easily separable.", "example_ja": "その部品は簡単に分離できる。" }
+    ],
+    "warn": ["反対は inseparable（切り離せない・不可分の）。文法では separable phrasal verb（分離可能な句動詞）も重要"],
+    "etym_note": "ラテン語 separare（se-「離れて」+ parare「整える」＝分ける）に -able が付いた語。separate・prepare と同語源。",
+    "etym_chain": [
+      { "node": "separare", "sub": "分ける", "era": "ラテン語" },
+      { "node": "separabilis", "sub": "分けられる", "era": "ラテン語" },
+      { "node": "separable", "sub": "分離できる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "easily separable", "ja": "容易に分けられる" },
+      { "en": "separable parts", "ja": "分離可能な部品" },
+      { "en": "separable phrasal verb", "ja": "分離可能な句動詞" },
+      { "en": "hardly separable", "ja": "ほとんど分けられない" },
+      { "en": "separable from", "ja": "〜から切り離せる" },
+      { "en": "conceptually separable", "ja": "概念上分けられる" }
+    ],
+    "related": [
+      { "en": "separate", "ja": "分ける・別々の" },
+      { "en": "inseparable", "ja": "切り離せない（反対）" },
+      { "en": "divisible", "ja": "分割できる" },
+      { "en": "detachable", "ja": "取り外せる" }
+    ],
+    "faq": [
+      { "q": "separable と divisible の違いは？", "a": "separable は『（結びついたものを）切り離せる・別々にできる』、divisible は『（数量などを）割り切れる・分割できる』です。数学では divisible、一般的な分離には separable を使います。" },
+      { "q": "反対の意味の語は？", "a": "inseparable で「切り離せない・不可分の」という意味です。inseparable friends（切っても切れない仲の友達）のように使われます。" }
+    ],
+    "quiz": [
+      { "q": "separable の意味は？", "A": "分けられる・分離できる", "B": "透明な", "C": "重い", "D": "危険な", "correct": "A" },
+      { "q": "separable の反対語は？", "A": "inseparable", "B": "unseparable", "C": "nonseparable", "D": "disseparable", "correct": "A" }
+    ]
+  },
+  {
+    "english": "separatist",
+    "pron": "ˈsɛpərətɪst",
+    "kana": "セパラティスト",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "separate（分離する）+ -ist",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "時事"],
+    "meaning_main": "分離主義者・独立を求める人（の）",
+    "description": "separatist（セパラティスト）は「分離主義者」。ある地域や集団が、国家などから分離・独立することを求める人・運動を指します。意味・使い方・例文をわかりやすく解説します。",
+    "keywords": ["separatist 意味", "分離主義者", "独立運動", "separatism"],
+    "meanings": [
+      { "hinshi": "【名詞】分離主義者", "note": "ある地域・民族などが国家から分離・独立することを求める人。可算" },
+      { "hinshi": "【形容詞】分離主義の", "note": "separatist movement（分離独立運動）" }
+    ],
+    "usages": [
+      { "title": "① 独立を求める人", "desc": "分離主義者", "example_en": "The separatists demanded independence.", "example_ja": "分離主義者たちは独立を要求した。" },
+      { "title": "② 分離独立運動", "desc": "形容詞として", "example_en": "A separatist movement grew in the region.", "example_ja": "その地域で分離独立運動が高まった。" }
+    ],
+    "warn": ["主義・運動そのものは separatism（分離主義）。国家からの独立・分離を志向する点で federalist（連邦主義者）などと対比"],
+    "etym_note": "separate（分離する。ラテン語 separare より）に -ist（〜する人・主義者）が付いた語。",
+    "etym_chain": [
+      { "node": "separare", "sub": "分ける", "era": "ラテン語" },
+      { "node": "separate", "sub": "分離する", "era": "中英語" },
+      { "node": "separatist", "sub": "分離主義者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "separatist movement", "ja": "分離独立運動" },
+      { "en": "separatist rebels", "ja": "分離主義の反乱者" },
+      { "en": "a separatist group", "ja": "分離主義グループ" },
+      { "en": "separatist demands", "ja": "分離独立の要求" },
+      { "en": "armed separatists", "ja": "武装した分離主義者" },
+      { "en": "separatist leader", "ja": "分離主義の指導者" }
+    ],
+    "related": [
+      { "en": "separatism", "ja": "分離主義" },
+      { "en": "separate", "ja": "分離する" },
+      { "en": "independence", "ja": "独立" },
+      { "en": "secession", "ja": "分離・脱退" }
+    ],
+    "faq": [
+      { "q": "separatist とはどういう人ですか？", "a": "ある地域・民族・宗教などの集団が、所属する国家から分離・独立することを求める人（分離主義者）です。その主義・運動を separatism（分離主義）と言います。" },
+      { "q": "secession との違いは？", "a": "secession は『（国家・組織からの）分離・脱退』という行為そのもの、separatist はそれを求める『人・立場』を指します。separatists seek secession（分離主義者は分離独立を求める）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "separatist の意味は？", "A": "分離主義者・独立を求める人", "B": "統一を求める人", "C": "外交官", "D": "裁判官", "correct": "A" },
+      { "q": "separatist の主義を表す語は？", "A": "separatism", "B": "separateness", "C": "separation", "D": "separator", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sequential",
+    "pron": "sɪˈkwɛnʃəl",
+    "kana": "シークエンシャル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 sequi（続く）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "IT・頻出"],
+    "meaning_main": "連続した・順を追った・逐次の",
+    "description": "sequential（シークエンシャル）は「連続した・順を追った・逐次の」。物事が一定の順序で次々に並ぶ・進む様子を表す語です。IT・数学で頻出します。意味・使い方を解説します。",
+    "keywords": ["sequential 意味", "連続した", "順を追った", "sequence"],
+    "meanings": [
+      { "hinshi": "【形容詞】連続した・順を追った・逐次の", "note": "一定の順序で次々に並ぶ・進む。sequential order（順番どおり）、sequential processing（逐次処理）" }
+    ],
+    "usages": [
+      { "title": "① 順番どおりの", "desc": "一定の順序", "example_en": "The steps must be done in sequential order.", "example_ja": "手順は順番どおりに行わなければならない。" },
+      { "title": "② 逐次処理", "desc": "IT で", "example_en": "The program uses sequential processing.", "example_ja": "そのプログラムは逐次処理を用いる。" }
+    ],
+    "warn": ["名詞は sequence（連続・順序）。反対の概念は parallel（並列の）や random（無作為の）。副詞は sequentially（順を追って）"],
+    "etym_note": "ラテン語 sequi（続く・従う）由来の sequence に -ial が付いた語。consequence・consecutive と同じ sequ を含む。",
+    "etym_chain": [
+      { "node": "sequi", "sub": "続く", "era": "ラテン語" },
+      { "node": "sequence", "sub": "連続・順序", "era": "中英語" },
+      { "node": "sequential", "sub": "連続した", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "sequential order", "ja": "順番どおり" },
+      { "en": "sequential processing", "ja": "逐次処理" },
+      { "en": "sequential steps", "ja": "順を追った手順" },
+      { "en": "in sequential order", "ja": "順序どおりに" },
+      { "en": "sequential numbering", "ja": "連番" },
+      { "en": "a sequential process", "ja": "順を追った過程" }
+    ],
+    "related": [
+      { "en": "sequence", "ja": "連続・順序" },
+      { "en": "consecutive", "ja": "連続した" },
+      { "en": "successive", "ja": "続けざまの" },
+      { "en": "parallel", "ja": "並列の（対比）" }
+    ],
+    "faq": [
+      { "q": "sequential と consecutive の違いは？", "a": "どちらも『連続した』ですが、consecutive は『（切れ目なく）続いている（3 days consecutive など）』、sequential は『一定の順序に従って並ぶ・進む』ことに焦点があります。sequential steps は順番の決まった手順です。" },
+      { "q": "IT の sequential processing とは？", "a": "「逐次処理」のことです。命令やデータを一つずつ順番に処理する方式で、複数を同時に処理する parallel processing（並列処理）と対比されます。" }
+    ],
+    "quiz": [
+      { "q": "sequential の意味は？", "A": "連続した・順を追った", "B": "無作為の", "C": "同時の", "D": "逆の", "correct": "A" },
+      { "q": "sequential の名詞形は？", "A": "sequence", "B": "sequency", "C": "sequention", "D": "sequenter", "correct": "A" }
+    ]
+  },
+  {
+    "english": "seraph",
+    "pron": "ˈsɛrəf",
+    "kana": "セラフ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ヘブライ語 saraph（燃える者）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "宗教"],
+    "meaning_main": "セラフィム（熾天使＝最高位の天使）",
+    "description": "seraph（セラフ）は「熾天使（してんし）・セラフィム」。ユダヤ・キリスト教で最高位とされる天使です。複数形は seraphim。意味・特徴をわかりやすく解説します。",
+    "keywords": ["seraph 意味", "熾天使", "セラフィム", "天使 位階"],
+    "meanings": [
+      { "hinshi": "【名詞】熾天使（してんし）・セラフ", "note": "天使の階級で最高位とされる。神に最も近く仕える。複数形は seraphim（セラフィム）" }
+    ],
+    "usages": [
+      { "title": "① 最高位の天使", "desc": "神に近い天使", "example_en": "A seraph is the highest order of angel.", "example_ja": "熾天使は天使の最高位だ。" },
+      { "title": "② 複数形 seraphim", "desc": "六枚の翼", "example_en": "The seraphim have six wings.", "example_ja": "セラフィムは6枚の翼を持つ。" }
+    ],
+    "warn": ["複数形は seraphim（セラフィム）。天使の階級では seraph（熾天使）→ cherub（智天使）の順。形容詞は seraphic（天使のような）"],
+    "etym_note": "ヘブライ語 saraph（燃える者・蛇）に由来。旧約聖書に登場する六翼の存在で、後にキリスト教で最高位の天使とされた。",
+    "etym_chain": [
+      { "node": "saraph", "sub": "燃える者", "era": "ヘブライ語" },
+      { "node": "seraphim", "sub": "熾天使（複数）", "era": "ラテン語" },
+      { "node": "seraph", "sub": "熾天使", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the highest seraph", "ja": "最高位の熾天使" },
+      { "en": "seraphim and cherubim", "ja": "熾天使と智天使" },
+      { "en": "a six-winged seraph", "ja": "六翼の熾天使" },
+      { "en": "the song of the seraphim", "ja": "セラフィムの歌" },
+      { "en": "like a seraph", "ja": "天使のように" },
+      { "en": "seraphic beauty", "ja": "天使のような美しさ" }
+    ],
+    "related": [
+      { "en": "seraphim", "ja": "セラフィム（複数）" },
+      { "en": "cherub", "ja": "智天使・ケルビム" },
+      { "en": "angel", "ja": "天使" },
+      { "en": "seraphic", "ja": "天使のような" }
+    ],
+    "faq": [
+      { "q": "seraph（熾天使）とは何ですか？", "a": "ユダヤ・キリスト教の天使の階級で、最高位とされる天使です。神に最も近く仕え、伝統的に六枚の翼を持つとされます。複数形は seraphim（セラフィム）です。" },
+      { "q": "cherub（智天使）との違いは？", "a": "どちらも高位の天使ですが、階級では seraph（熾天使）が最高位、次いで cherub（智天使、ケルビム）とされます。cherub はしばしば幼子の姿で描かれることもあります。" }
+    ],
+    "quiz": [
+      { "q": "seraph の意味は？", "A": "最高位の天使（熾天使）", "B": "悪魔", "C": "聖人", "D": "predator", "correct": "A" },
+      { "q": "seraph の複数形は？", "A": "seraphim", "B": "seraphs only", "C": "seraphies", "D": "seraphi", "correct": "A" }
+    ]
+  },
+  {
+    "english": "serendipitous",
+    "pron": "ˌsɛrənˈdɪpɪtəs",
+    "kana": "セレンディピタス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "serendipity（幸運な偶然）+ -ous",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "頻出"],
+    "meaning_main": "偶然の幸運による・思いがけずうまくいく",
+    "description": "serendipitous（セレンディピタス）は「偶然の幸運による・思いがけずよい結果になる」。探していなかった幸運な発見や出会いを表す語です。名詞は serendipity。意味・使い方を解説します。",
+    "keywords": ["serendipitous 意味", "偶然の幸運", "serendipity", "思いがけない発見"],
+    "meanings": [
+      { "hinshi": "【形容詞】偶然の幸運による・思いがけずうまくいく", "note": "探していなかったのに幸運な発見・出会いをする。名詞は serendipity（幸運な偶然）" }
+    ],
+    "usages": [
+      { "title": "① 幸運な偶然", "desc": "思いがけない好結果", "example_en": "It was a serendipitous discovery.", "example_ja": "それは偶然の幸運による発見だった。" },
+      { "title": "② 偶然の出会い", "desc": "幸運な巡り合わせ", "example_en": "Their meeting was completely serendipitous.", "example_ja": "彼らの出会いはまったくの幸運な偶然だった。" }
+    ],
+    "warn": ["名詞は serendipity（探し物以外の幸運な発見をする才・偶然）。単なる coincidence（偶然）と違い『幸運な』ニュアンスを含む"],
+    "etym_note": "作家ホレス・ウォルポールがおとぎ話『セレンディップの3人の王子』にちなんで作った serendipity（幸運な偶然）の形容詞形。Serendip はスリランカの古名。",
+    "etym_chain": [
+      { "node": "Serendip", "sub": "スリランカの古名", "era": "18世紀" },
+      { "node": "serendipity", "sub": "幸運な偶然", "era": "18世紀" },
+      { "node": "serendipitous", "sub": "偶然の幸運による", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a serendipitous discovery", "ja": "偶然の幸運による発見" },
+      { "en": "serendipitous encounter", "ja": "幸運な出会い" },
+      { "en": "a serendipitous find", "ja": "思いがけない掘り出し物" },
+      { "en": "serendipitous timing", "ja": "絶妙な巡り合わせ" },
+      { "en": "purely serendipitous", "ja": "まったくの幸運な偶然の" },
+      { "en": "serendipitous moment", "ja": "幸運な瞬間" }
+    ],
+    "related": [
+      { "en": "serendipity", "ja": "幸運な偶然" },
+      { "en": "fortuitous", "ja": "偶然の・幸運な" },
+      { "en": "accidental", "ja": "偶然の" },
+      { "en": "lucky", "ja": "幸運な" }
+    ],
+    "faq": [
+      { "q": "serendipitous と accidental の違いは？", "a": "accidental は単に『偶然の』ですが、serendipitous は『偶然だが幸運な・思いがけずよい結果になる』という肯定的なニュアンスを含みます。探していなかった幸運な発見・出会いに使います。" },
+      { "q": "serendipity とはどういう意味ですか？", "a": "「幸運な偶然・思いがけない幸運な発見をする才」を意味する名詞です。18世紀にホレス・ウォルポールがおとぎ話にちなんで作った語で、科学的発見などの文脈でもよく使われます。" }
+    ],
+    "quiz": [
+      { "q": "serendipitous の意味は？", "A": "偶然の幸運による・思いがけずうまくいく", "B": "計画的な", "C": "不運な", "D": "危険な", "correct": "A" },
+      { "q": "serendipitous の名詞形は？", "A": "serendipity", "B": "serendipitness", "C": "serendipation", "D": "serendipism", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sericulture",
+    "pron": "ˈsɛrɪˌkʌltʃər",
+    "kana": "セリカルチャー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 sericum（絹）+ culture（栽培・養成）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "産業"],
+    "meaning_main": "養蚕（ようさん）（絹をとるためカイコを飼育すること）",
+    "description": "sericulture（セリカルチャー）は「養蚕」。絹（シルク）を得るために、カイコ（蚕）を飼育し繭（まゆ）を生産することです。意味・使い方・例文をわかりやすく解説します。",
+    "keywords": ["sericulture 意味", "養蚕", "カイコ", "絹 生産"],
+    "meanings": [
+      { "hinshi": "【名詞】養蚕", "note": "絹をとるためにカイコを飼育し、繭を生産すること。不可算" }
+    ],
+    "usages": [
+      { "title": "① 絹の生産", "desc": "カイコの飼育", "example_en": "Sericulture has a long history in Japan.", "example_ja": "養蚕は日本で長い歴史がある。" },
+      { "title": "② 産業として", "desc": "絹産業の基礎", "example_en": "Sericulture supported many rural families.", "example_ja": "養蚕は多くの農村家庭を支えた。" }
+    ],
+    "warn": ["seri-（絹）+ culture（栽培・飼育）。agriculture（農業）・horticulture（園芸）と同じ -culture を含む"],
+    "etym_note": "ラテン語 sericum（絹。ギリシャ語 Seres「絹をもたらす民＝中国人」から）+ culture（栽培・養成）を合わせた語。",
+    "etym_chain": [
+      { "node": "sericum", "sub": "絹", "era": "ラテン語" },
+      { "node": "seri + culture", "sub": "絹の飼育", "era": "19世紀" },
+      { "node": "sericulture", "sub": "養蚕", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the sericulture industry", "ja": "養蚕業" },
+      { "en": "practice sericulture", "ja": "養蚕を営む" },
+      { "en": "traditional sericulture", "ja": "伝統的な養蚕" },
+      { "en": "sericulture and silk", "ja": "養蚕と絹" },
+      { "en": "decline of sericulture", "ja": "養蚕の衰退" },
+      { "en": "sericulture farming", "ja": "養蚕農業" }
+    ],
+    "related": [
+      { "en": "silk", "ja": "絹" },
+      { "en": "silkworm", "ja": "カイコ" },
+      { "en": "cocoon", "ja": "繭（まゆ）" },
+      { "en": "agriculture", "ja": "農業" }
+    ],
+    "faq": [
+      { "q": "sericulture（養蚕）とは何ですか？", "a": "絹（シルク）を得るために、カイコ（蚕）を飼育し繭を生産することです。繭から糸をとって絹織物の原料にします。日本や中国では古くから重要な産業でした。" },
+      { "q": "どのように絹ができるのですか？", "a": "カイコが桑の葉を食べて成長し、繭を作ります。その繭から一本の長い糸をほぐしてとり、より合わせて絹糸にします。養蚕はこの繭を作らせる段階を担う産業です。" }
+    ],
+    "quiz": [
+      { "q": "sericulture の意味は？", "A": "養蚕（絹をとるためカイコを飼うこと）", "B": "稲作", "C": "牧畜", "D": "漁業", "correct": "A" },
+      { "q": "sericulture で飼育する生き物は？", "A": "カイコ", "B": "ミツバチ", "C": "ニワトリ", "D": "羊", "correct": "A" }
+    ]
+  },
+  {
+    "english": "serrated",
+    "pron": "ˈsɛreɪtɪd",
+    "kana": "セレイテッド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 serra（のこぎり）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "頻出"],
+    "meaning_main": "のこぎり状の・ぎざぎざの",
+    "description": "serrated（セレイテッド）は「のこぎり状の・ぎざぎざの」。刃や葉の縁がのこぎりの歯のように細かくとがっている様子を表す語です。serrated knife（波刃ナイフ）で頻出。意味・使い方を解説します。",
+    "keywords": ["serrated 意味", "のこぎり状", "ぎざぎざ", "波刃"],
+    "meanings": [
+      { "hinshi": "【形容詞】のこぎり状の・ぎざぎざの", "note": "縁がのこぎりの歯のように細かくとがっている。serrated edge（のこぎり状の刃）、serrated leaf（鋸歯（きょし）状の葉）" }
+    ],
+    "usages": [
+      { "title": "① 刃物の刃", "desc": "波刃", "example_en": "Use a serrated knife to cut bread.", "example_ja": "パンを切るには波刃のナイフを使って。" },
+      { "title": "② 葉の縁", "desc": "植物学で", "example_en": "The leaf has a serrated edge.", "example_ja": "その葉はぎざぎざの縁を持つ。" }
+    ],
+    "warn": ["serrated knife（波刃ナイフ）はパンなどを切りやすい。植物では『鋸歯（きょし）状』の葉の縁を指す。smooth（滑らかな）と対比"],
+    "etym_note": "ラテン語 serra（のこぎり）由来の serrate に -ed が付いた語。『のこぎりのような』の意。",
+    "etym_chain": [
+      { "node": "serra", "sub": "のこぎり", "era": "ラテン語" },
+      { "node": "serrate", "sub": "のこぎり状にする", "era": "近代英語" },
+      { "node": "serrated", "sub": "のこぎり状の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a serrated knife", "ja": "波刃のナイフ" },
+      { "en": "serrated edge", "ja": "のこぎり状の刃" },
+      { "en": "serrated blade", "ja": "波刃" },
+      { "en": "serrated leaf", "ja": "鋸歯状の葉" },
+      { "en": "finely serrated", "ja": "細かくぎざぎざの" },
+      { "en": "serrated teeth", "ja": "のこぎり状の歯" }
+    ],
+    "related": [
+      { "en": "jagged", "ja": "ぎざぎざの・とがった" },
+      { "en": "saw", "ja": "のこぎり" },
+      { "en": "notched", "ja": "刻み目のある" },
+      { "en": "smooth", "ja": "滑らかな（反対）" }
+    ],
+    "faq": [
+      { "q": "serrated knife とは何ですか？", "a": "刃がのこぎりの歯のようにぎざぎざになったナイフ（波刃ナイフ）です。表面が硬く中が柔らかいパンやトマトなどを、押しつぶさずに切れるのが特長です。" },
+      { "q": "serrated と jagged の違いは？", "a": "どちらも『ぎざぎざの』ですが、serrated は『のこぎりの歯のように規則正しくとがった』、jagged は『不規則に鋭くとがった』というニュアンスがあります。刃物や葉の縁には serrated を使います。" }
+    ],
+    "quiz": [
+      { "q": "serrated の意味は？", "A": "のこぎり状の・ぎざぎざの", "B": "滑らかな", "C": "丸い", "D": "平らな", "correct": "A" },
+      { "q": "serrated knife の意味は？", "A": "波刃のナイフ", "B": "折りたたみナイフ", "C": "バターナイフ", "D": "缶切り", "correct": "A" }
+    ]
+  },
+  {
+    "english": "settings",
+    "pron": "ˈsɛtɪŋz",
+    "kana": "セッティングズ",
+    "hinshi": "名詞（複数形）",
+    "ld_pos": "名詞",
+    "ld_etym": "set（据える）+ -ing",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "IT・頻出"],
+    "meaning_main": "設定／環境・背景／（食器の）一人分の配置",
+    "description": "settings（セッティングズ）は「（機器・アプリの）設定」「（物語などの）背景・舞台」「食卓の一人分の配置」など幅広い意味を持つ語です。setting の複数形。意味・使い方を解説します。",
+    "keywords": ["settings 意味", "設定", "背景", "setting 複数形"],
+    "meanings": [
+      { "hinshi": "【名詞】設定（機器・アプリの）", "note": "調整できる項目・値。change the settings（設定を変える）" },
+      { "hinshi": "【名詞】環境・背景・舞台", "note": "物事が起こる場所・状況。物語の setting（舞台設定）" },
+      { "hinshi": "【名詞】食卓の一人分の配置", "note": "place setting（一人分の食器の配置）" }
+    ],
+    "usages": [
+      { "title": "① 機器・アプリの設定", "desc": "調整項目", "example_en": "Go to the settings to change the language.", "example_ja": "言語を変えるには設定へ行って。" },
+      { "title": "② 物語の舞台", "desc": "背景・状況", "example_en": "The novel has a rural setting.", "example_ja": "その小説は田舎を舞台にしている。" }
+    ],
+    "warn": ["IT では『設定』（複数の項目）。物語では『舞台・背景』。place settings は『食卓の一人分ずつの食器配置』"],
+    "etym_note": "set（据える・定める。古英語 settan より）の -ing 形 setting の複数。『据えられたもの・定められた状態』が核。",
+    "etym_chain": [
+      { "node": "settan", "sub": "据える", "era": "古英語" },
+      { "node": "setting", "sub": "設定・背景", "era": "中英語" },
+      { "node": "settings", "sub": "設定・環境", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "change the settings", "ja": "設定を変える" },
+      { "en": "default settings", "ja": "初期設定" },
+      { "en": "privacy settings", "ja": "プライバシー設定" },
+      { "en": "the settings menu", "ja": "設定メニュー" },
+      { "en": "reset the settings", "ja": "設定をリセットする" },
+      { "en": "a rural setting", "ja": "田舎の舞台" }
+    ],
+    "related": [
+      { "en": "setting", "ja": "設定・背景" },
+      { "en": "configuration", "ja": "構成・設定" },
+      { "en": "environment", "ja": "環境" },
+      { "en": "preferences", "ja": "環境設定・好み" }
+    ],
+    "faq": [
+      { "q": "settings の主な意味は？", "a": "機器・アプリで調整できる『設定（項目）』の意味で最もよく使われます。ほかに、物語や出来事の『舞台・背景』、食卓の『一人分の食器の配置（place setting）』などの意味もあります。" },
+      { "q": "settings と configuration の違いは？", "a": "どちらも『設定』を指しますが、settings は個々の調整項目（明るさ・音量など）、configuration はシステム全体の『構成・組み合わせ』を指すことが多いです。日常では settings が一般的です。" }
+    ],
+    "quiz": [
+      { "q": "settings の主な意味は？", "A": "設定（機器・アプリの）", "B": "食料", "C": "天気", "D": "距離", "correct": "A" },
+      { "q": "default settings の意味は？", "A": "初期設定", "B": "最終設定", "C": "秘密設定", "D": "共有設定", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sewage",
+    "pron": "ˈsuːɪdʒ",
+    "kana": "スーイッジ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "sewer（下水道）+ -age",
+    "ld_level": "1級",
+    "badges": ["中学生〜", "英検1級", "CEFR B2", "環境"],
+    "meaning_main": "下水・汚水（下水道を流れる汚れた水）",
+    "description": "sewage（スーイッジ）は「下水・汚水」。家庭や工場から出て下水道を流れる汚れた水を指します。処理して環境への影響を減らす必要があります。意味・使い方・例文を解説します。",
+    "keywords": ["sewage 意味", "下水", "汚水", "sewage treatment"],
+    "meanings": [
+      { "hinshi": "【名詞】下水・汚水", "note": "家庭・工場などから出て下水道を流れる汚れた水。不可算" }
+    ],
+    "usages": [
+      { "title": "① 下水処理", "desc": "汚水を処理する", "example_en": "The sewage is treated before it reaches the river.", "example_ja": "下水は川に到達する前に処理される。" },
+      { "title": "② 環境問題", "desc": "汚染の原因", "example_en": "Untreated sewage pollutes the sea.", "example_ja": "処理されていない下水は海を汚染する。" }
+    ],
+    "warn": ["sewage（下水・汚水そのもの）と sewer（下水道＝管・設備）を混同注意。sewage treatment plant で『下水処理場』"],
+    "etym_note": "sewer（下水道）に、状態・集合を表す -age が付いた語。sewer は古仏語 seuwiere（排水路）に由来。",
+    "etym_chain": [
+      { "node": "seuwiere", "sub": "排水路", "era": "古仏語" },
+      { "node": "sewer", "sub": "下水道", "era": "中英語" },
+      { "node": "sewage", "sub": "下水・汚水", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "sewage treatment", "ja": "下水処理" },
+      { "en": "raw sewage", "ja": "未処理の下水" },
+      { "en": "sewage system", "ja": "下水設備" },
+      { "en": "treat sewage", "ja": "下水を処理する" },
+      { "en": "sewage pollution", "ja": "下水による汚染" },
+      { "en": "sewage plant", "ja": "下水処理場" }
+    ],
+    "related": [
+      { "en": "sewer", "ja": "下水道" },
+      { "en": "wastewater", "ja": "排水・廃水" },
+      { "en": "drainage", "ja": "排水" },
+      { "en": "sanitation", "ja": "衛生設備" }
+    ],
+    "faq": [
+      { "q": "sewage と sewer の違いは？", "a": "sewage は下水道を流れる『汚水・下水そのもの』、sewer はそれを流す『下水道（管・設備）』です。sewage flows through the sewer（汚水が下水道を流れる）という関係です。" },
+      { "q": "sewage treatment とは？", "a": "「下水処理」のことです。汚水から汚れや有害物質を取り除き、川や海に流しても環境への影響が少ない状態にする処理を指します。下水処理場（sewage treatment plant）で行われます。" }
+    ],
+    "quiz": [
+      { "q": "sewage の意味は？", "A": "下水・汚水", "B": "きれいな飲み水", "C": "雨水のみ", "D": "海水", "correct": "A" },
+      { "q": "汚水を流す設備（下水道）は？", "A": "sewer", "B": "sewage", "C": "sewing", "D": "seawall", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sewer",
+    "pron": "ˈsuːər",
+    "kana": "スーアー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古仏語 seuwiere（排水路）",
+    "ld_level": "1級",
+    "badges": ["中学生〜", "英検1級", "CEFR B2", "インフラ"],
+    "meaning_main": "下水道・下水管",
+    "description": "sewer（スーアー）は「下水道・下水管」。汚水や雨水を集めて流す地下の管・設備です。sewage（汚水）を運ぶ役割を持ちます。意味・使い方・例文をわかりやすく解説します。",
+    "keywords": ["sewer 意味", "下水道", "下水管", "sewage 違い"],
+    "meanings": [
+      { "hinshi": "【名詞】下水道・下水管", "note": "汚水や雨水を集めて流す地下の管・排水設備。可算" }
+    ],
+    "usages": [
+      { "title": "① 排水設備", "desc": "汚水を流す", "example_en": "The waste flows into the sewer.", "example_ja": "汚物は下水道へ流れ込む。" },
+      { "title": "② 都市インフラ", "desc": "地下の設備", "example_en": "The city is repairing its old sewers.", "example_ja": "その市は古い下水道を修理している。" }
+    ],
+    "warn": ["sewer（下水道＝設備）と sewage（汚水そのもの）を区別。同じ綴りの sewer /ˈsoʊər/（縫う人）とは別語で発音も異なる"],
+    "etym_note": "古仏語 seuwiere（排水路。ラテン語 ex-「外へ」+ aqua「水」から）に由来。sewage（下水）と同語源。",
+    "etym_chain": [
+      { "node": "exaquaria", "sub": "排水路", "era": "俗ラテン語" },
+      { "node": "seuwiere", "sub": "排水路", "era": "古仏語" },
+      { "node": "sewer", "sub": "下水道", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the sewer system", "ja": "下水道システム" },
+      { "en": "storm sewer", "ja": "雨水下水道" },
+      { "en": "sewer pipe", "ja": "下水管" },
+      { "en": "blocked sewer", "ja": "詰まった下水道" },
+      { "en": "underground sewer", "ja": "地下の下水道" },
+      { "en": "flow into the sewer", "ja": "下水道へ流れ込む" }
+    ],
+    "related": [
+      { "en": "sewage", "ja": "下水・汚水" },
+      { "en": "drain", "ja": "排水口・排水する" },
+      { "en": "pipe", "ja": "管" },
+      { "en": "gutter", "ja": "側溝・雨どい" }
+    ],
+    "faq": [
+      { "q": "sewer と sewage の違いは？", "a": "sewer は汚水を流す『下水道（管・設備）』、sewage はその中を流れる『汚水・下水そのもの』です。設備が sewer、中身が sewage と覚えると区別しやすいです。" },
+      { "q": "sewer に発音が違う同綴り語があるって本当ですか？", "a": "はい。『下水道』の sewer は /ˈsuːər/（スーアー）ですが、『縫う人』を意味する sewer（sew「縫う」+ -er）は /ˈsoʊər/（ソウアー）と発音します。綴りが同じで意味・発音が異なる語です。" }
+    ],
+    "quiz": [
+      { "q": "sewer の意味は？", "A": "下水道・下水管", "B": "きれいな川", "C": "水道の蛇口", "D": "貯水池", "correct": "A" },
+      { "q": "下水道を流れる汚水そのものは？", "A": "sewage", "B": "sewer", "C": "sewing", "D": "seaway", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sexagenarian",
+    "pron": "ˌsɛksədʒəˈnɛəriən",
+    "kana": "セクサジェネリアン",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 sexagenarius（60の）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "上級"],
+    "meaning_main": "60代の人（60〜69歳）",
+    "description": "sexagenarian（セクサジェネリアン）は「60代の人（60〜69歳）」。ラテン語の『60』に由来する語で、年代を表す一連の語の一つです。意味・使い方・例文を解説します。",
+    "keywords": ["sexagenarian 意味", "60代", "septuagenarian", "年齢 語"],
+    "meanings": [
+      { "hinshi": "【名詞・形容詞】60代の人（60〜69歳）", "note": "ラテン語 sexaginta（60）に由来。年代を表す語の一つ" }
+    ],
+    "usages": [
+      { "title": "① 60代を指す", "desc": "年代の表現", "example_en": "The sexagenarian still ran marathons.", "example_ja": "その60代の人はまだマラソンを走っていた。" },
+      { "title": "② 一連の年代語", "desc": "40代〜90代", "example_en": "A person in their sixties is a sexagenarian.", "example_ja": "60代の人は sexagenarian と呼ばれる。" }
+    ],
+    "warn": ["40代 quadragenarian、50代 quinquagenarian、60代 sexagenarian、70代 septuagenarian、80代 octogenarian、90代 nonagenarian と続く"],
+    "etym_note": "ラテン語 sexagenarius（60を含む。sexaginta「60」より）に由来。sex-（6）+ -genarian（〜十代の人）。",
+    "etym_chain": [
+      { "node": "sexaginta", "sub": "60", "era": "ラテン語" },
+      { "node": "sexagenarius", "sub": "60の", "era": "ラテン語" },
+      { "node": "sexagenarian", "sub": "60代の人", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a fit sexagenarian", "ja": "元気な60代の人" },
+      { "en": "a sexagenarian couple", "ja": "60代の夫婦" },
+      { "en": "in their sexagenarian years", "ja": "60代のころに" },
+      { "en": "an active sexagenarian", "ja": "活動的な60代の人" },
+      { "en": "a sexagenarian runner", "ja": "60代のランナー" },
+      { "en": "become a sexagenarian", "ja": "60代になる" }
+    ],
+    "related": [
+      { "en": "septuagenarian", "ja": "70代の人" },
+      { "en": "octogenarian", "ja": "80代の人" },
+      { "en": "nonagenarian", "ja": "90代の人" },
+      { "en": "elderly", "ja": "高齢の" }
+    ],
+    "faq": [
+      { "q": "sexagenarian とは何歳の人ですか？", "a": "60代（60〜69歳）の人を指します。ラテン語の『60（sexaginta）』に由来する語です。sex- は『6』を表し、性別の意味ではありません。" },
+      { "q": "他の年代を表す語は？", "a": "40代は quadragenarian、50代は quinquagenarian、60代は sexagenarian、70代は septuagenarian、80代は octogenarian、90代は nonagenarian です。ラテン語の数詞に由来します。" }
+    ],
+    "quiz": [
+      { "q": "sexagenarian の意味は？", "A": "60代の人（60〜69歳）", "B": "6歳の子ども", "C": "16歳の若者", "D": "600歳の伝説の人", "correct": "A" },
+      { "q": "70代の人を表す語は？", "A": "septuagenarian", "B": "octogenarian", "C": "nonagenarian", "D": "sexagenarian", "correct": "A" }
+    ]
+  },
+  {
+    "english": "shaker",
+    "pron": "ˈʃeɪkər",
+    "kana": "シェイカー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "shake（振る）+ -er",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "日常"],
+    "meaning_main": "（塩・カクテルなどの）シェーカー・振る道具／振る人",
+    "description": "shaker（シェイカー）は「振って中身を出す・混ぜる道具」。塩こしょう入れ（salt shaker）やカクテルシェーカーなどを指します。振る人の意味もあります。意味・使い方を解説します。",
+    "keywords": ["shaker 意味", "シェイカー", "salt shaker", "カクテル"],
+    "meanings": [
+      { "hinshi": "【名詞】振って使う道具・容器", "note": "中身を振って出したり混ぜたりする器。salt shaker（塩入れ）、cocktail shaker（カクテルシェーカー）" },
+      { "hinshi": "【名詞】振る人・揺さぶるもの", "note": "shake する主体。movers and shakers（有力者・実力者）" }
+    ],
+    "usages": [
+      { "title": "① 塩・こしょう入れ", "desc": "振って出す容器", "example_en": "Pass me the salt shaker, please.", "example_ja": "塩入れを取ってください。" },
+      { "title": "② カクテルシェーカー", "desc": "混ぜる道具", "example_en": "He mixed the drink in a cocktail shaker.", "example_ja": "彼はカクテルシェーカーで飲み物を混ぜた。" }
+    ],
+    "warn": ["movers and shakers は『（世の中を動かす）有力者・実力者』の慣用句。Shaker（大文字）はキリスト教の一派の名でもある"],
+    "etym_note": "shake（振る。古英語 sceacan より）に -er（〜するもの／人）が付いた語。",
+    "etym_chain": [
+      { "node": "sceacan", "sub": "振る", "era": "古英語" },
+      { "node": "shake", "sub": "振る", "era": "中英語" },
+      { "node": "shaker", "sub": "振る道具・振る人", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "salt shaker", "ja": "塩入れ" },
+      { "en": "cocktail shaker", "ja": "カクテルシェーカー" },
+      { "en": "pepper shaker", "ja": "こしょう入れ" },
+      { "en": "movers and shakers", "ja": "有力者・実力者" },
+      { "en": "a protein shaker", "ja": "プロテインシェーカー" },
+      { "en": "shake the shaker", "ja": "シェーカーを振る" }
+    ],
+    "related": [
+      { "en": "shake", "ja": "振る・揺らす" },
+      { "en": "mixer", "ja": "ミキサー・混ぜるもの" },
+      { "en": "container", "ja": "容器" },
+      { "en": "blender", "ja": "ブレンダー" }
+    ],
+    "faq": [
+      { "q": "salt shaker と salt cellar の違いは？", "a": "salt shaker は穴の開いたふたを振って塩を出す『塩入れ』、salt cellar は塩を入れて指やスプーンでつまむ『塩壺』です。日常では salt shaker が一般的です。" },
+      { "q": "movers and shakers とはどういう意味ですか？", "a": "「（社会や業界を動かす）有力者・実力者」を意味する慣用句です。影響力を持ち物事を動かす人々を指し、the movers and shakers of the industry（業界の実力者たち）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "salt shaker の意味は？", "A": "塩入れ（振って出す容器）", "B": "塩田", "C": "塩の結晶", "D": "塩味の菓子", "correct": "A" },
+      { "q": "movers and shakers の意味は？", "A": "有力者・実力者", "B": "引っ越し業者", "C": "地震の研究者", "D": "ダンサー", "correct": "A" }
+    ]
+  },
+  {
+    "english": "shamelessly",
+    "pron": "ˈʃeɪmləsli",
+    "kana": "シェイムレスリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "shameless（恥知らずの）+ -ly",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "頻出"],
+    "meaning_main": "恥ずかしげもなく・ずうずうしく・臆面もなく",
+    "description": "shamelessly（シェイムレスリー）は「恥ずかしげもなく・臆面もなく・ずうずうしく」。恥を感じるべき場面でも平然としている様子を表す語です。意味・使い方・例文を解説します。",
+    "keywords": ["shamelessly 意味", "恥ずかしげもなく", "臆面もなく", "shameless"],
+    "meanings": [
+      { "hinshi": "【副詞】恥ずかしげもなく・臆面もなく・ずうずうしく", "note": "恥じるべきことを平然と行う様子。しばしば否定的だが、自虐的・ユーモラスにも使う" }
+    ],
+    "usages": [
+      { "title": "① 臆面もなく", "desc": "恥じずに行う", "example_en": "He shamelessly copied her idea.", "example_ja": "彼は臆面もなく彼女のアイデアを盗用した。" },
+      { "title": "② 堂々と（自虐的にも）", "desc": "ユーモラスにも", "example_en": "I shamelessly plugged my own book.", "example_ja": "私は恥ずかしげもなく自分の本を宣伝した。" }
+    ],
+    "warn": ["shameless（恥知らずの）の副詞形。多くは否定的だが、shamelessly promote（臆面もなく宣伝する）のように自虐・冗談でも使う"],
+    "etym_note": "shame（恥。古英語 scamu より）に -less（〜のない）と -ly が付いた語。『恥のないように』の意。",
+    "etym_chain": [
+      { "node": "scamu", "sub": "恥", "era": "古英語" },
+      { "node": "shameless", "sub": "恥知らずの", "era": "中英語" },
+      { "node": "shamelessly", "sub": "恥ずかしげもなく", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "shamelessly copy", "ja": "臆面もなく盗用する" },
+      { "en": "shamelessly promote", "ja": "恥ずかしげもなく宣伝する" },
+      { "en": "shamelessly lie", "ja": "平然とうそをつく" },
+      { "en": "shamelessly flatter", "ja": "露骨にへつらう" },
+      { "en": "quite shamelessly", "ja": "まったく臆面もなく" },
+      { "en": "shamelessly self-promote", "ja": "ずうずうしく自己宣伝する" }
+    ],
+    "related": [
+      { "en": "shameless", "ja": "恥知らずの" },
+      { "en": "brazenly", "ja": "厚かましく" },
+      { "en": "unashamedly", "ja": "恥じることなく" },
+      { "en": "boldly", "ja": "大胆に" }
+    ],
+    "faq": [
+      { "q": "shamelessly はいつも悪い意味ですか？", "a": "多くは『恥じるべきなのに平然と』という否定的な意味ですが、shamelessly promote my book（臆面もなく自分の本を宣伝する）のように、自虐やユーモアを込めて軽く使うこともあります。" },
+      { "q": "brazenly との違いは？", "a": "どちらも『厚かましく・臆面もなく』ですが、brazenly は『（大胆不敵に）ずうずうしく』という強い非難のニュアンスが強く、shamelessly は『恥を感じない』ことに焦点があります。" }
+    ],
+    "quiz": [
+      { "q": "shamelessly の意味は？", "A": "恥ずかしげもなく・臆面もなく", "B": "遠慮がちに", "C": "こっそりと", "D": "悲しげに", "correct": "A" },
+      { "q": "shamelessly のもとの形容詞は？", "A": "shameless", "B": "shameful", "C": "ashamed", "D": "shaming", "correct": "A" }
+    ]
+  },
+  {
+    "english": "shanty",
+    "pron": "ˈʃænti",
+    "kana": "シャンティ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "カナダ仏語 chantier（木こり小屋）/ 仏語 chanter（歌う）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "上級"],
+    "meaning_main": "掘っ立て小屋・粗末な小屋／（船乗りの）労働歌",
+    "description": "shanty（シャンティ）は「掘っ立て小屋・粗末な小屋」。また sea shanty で「船乗りの労働歌（シャンティ）」も指します。意味・使い方・例文をわかりやすく解説します。",
+    "keywords": ["shanty 意味", "掘っ立て小屋", "sea shanty", "労働歌"],
+    "meanings": [
+      { "hinshi": "【名詞】掘っ立て小屋・粗末な小屋", "note": "間に合わせの材料で建てた粗末な小屋。shanty town（スラム街）" },
+      { "hinshi": "【名詞】（船乗りの）労働歌", "note": "sea shanty。船の作業のリズムに合わせて歌う歌。chantey とも綴る" }
+    ],
+    "usages": [
+      { "title": "① 粗末な小屋", "desc": "間に合わせの家", "example_en": "They lived in a shanty on the edge of town.", "example_ja": "彼らは町外れの掘っ立て小屋に住んでいた。" },
+      { "title": "② sea shanty", "desc": "船乗りの歌", "example_en": "The sailors sang a lively sea shanty.", "example_ja": "船乗りたちは陽気なシャンティを歌った。" }
+    ],
+    "warn": ["shanty town（シャンティタウン）は『スラム街・貧民街』。労働歌の意味では chantey / chanty とも綴る"],
+    "etym_note": "『小屋』はカナダ仏語 chantier（木こりの作業場・小屋）由来。『労働歌』はフランス語 chanter（歌う）に由来するとされる。",
+    "etym_chain": [
+      { "node": "chantier / chanter", "sub": "作業場・歌う", "era": "フランス語" },
+      { "node": "shanty", "sub": "小屋・労働歌", "era": "19世紀" },
+      { "node": "shanty", "sub": "掘っ立て小屋・シャンティ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a shanty town", "ja": "スラム街・貧民街" },
+      { "en": "live in a shanty", "ja": "掘っ立て小屋に住む" },
+      { "en": "sea shanty", "ja": "船乗りの労働歌" },
+      { "en": "sing a shanty", "ja": "シャンティを歌う" },
+      { "en": "a wooden shanty", "ja": "木の掘っ立て小屋" },
+      { "en": "a traditional shanty", "ja": "伝統的な労働歌" }
+    ],
+    "related": [
+      { "en": "shack", "ja": "小屋・あばら家" },
+      { "en": "hut", "ja": "小屋" },
+      { "en": "slum", "ja": "スラム" },
+      { "en": "folk song", "ja": "民謡" }
+    ],
+    "faq": [
+      { "q": "shanty の2つの意味は？", "a": "1つは『間に合わせの材料で建てた粗末な小屋（掘っ立て小屋）』、もう1つは『船乗りが作業のリズムに合わせて歌った労働歌（sea shanty）』です。文脈で判断します。" },
+      { "q": "sea shanty とは何ですか？", "a": "帆船時代に船乗りたちが、綱を引く・帆を上げるなどの作業のリズムを合わせるために歌った労働歌です。掛け合い形式のものが多く、近年また人気を集めています。" }
+    ],
+    "quiz": [
+      { "q": "shanty の意味の一つは？", "A": "掘っ立て小屋・粗末な小屋", "B": "豪邸", "C": "高層ビル", "D": "城", "correct": "A" },
+      { "q": "sea shanty とは？", "A": "船乗りの労働歌", "B": "海の生き物", "C": "航海図", "D": "灯台", "correct": "A" }
+    ]
+  },
+  {
+    "english": "shapely",
+    "pron": "ˈʃeɪpli",
+    "kana": "シェイプリー",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "shape（形）+ -ly",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "頻出"],
+    "meaning_main": "格好のよい・均整のとれた（体つきの）",
+    "description": "shapely（シェイプリー）は「格好のよい・均整のとれた」。特に人の体つきが美しく整っている様子を表す語です。-ly で終わりますが形容詞である点に注意します。意味・使い方を解説します。",
+    "keywords": ["shapely 意味", "均整のとれた", "格好のよい", "shape"],
+    "meanings": [
+      { "hinshi": "【形容詞】格好のよい・均整のとれた", "note": "特に人の体つき（特に脚など）が美しく整っている。-ly で終わるが形容詞" }
+    ],
+    "usages": [
+      { "title": "① 均整のとれた体つき", "desc": "美しい形", "example_en": "She had long, shapely legs.", "example_ja": "彼女はすらりと均整のとれた脚をしていた。" },
+      { "title": "② 形が整った", "desc": "形のよい", "example_en": "The vase had a shapely form.", "example_ja": "その花瓶は格好のよい形をしていた。" }
+    ],
+    "warn": ["-ly で終わるが副詞ではなく形容詞（friendly, lovely と同類）。主に体つきの美しさをほめる語"],
+    "etym_note": "shape（形。古英語 sceap より）に、性質を表す -ly が付いた形容詞。『形のよい』の意。",
+    "etym_chain": [
+      { "node": "sceap", "sub": "形", "era": "古英語" },
+      { "node": "shape", "sub": "形", "era": "中英語" },
+      { "node": "shapely", "sub": "格好のよい", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "shapely legs", "ja": "均整のとれた脚" },
+      { "en": "a shapely figure", "ja": "格好のよい体つき" },
+      { "en": "shapely and elegant", "ja": "均整がとれて優雅な" },
+      { "en": "a shapely vase", "ja": "格好のよい花瓶" },
+      { "en": "beautifully shapely", "ja": "美しく整った" },
+      { "en": "a shapely form", "ja": "整った形" }
+    ],
+    "related": [
+      { "en": "shape", "ja": "形" },
+      { "en": "well-proportioned", "ja": "均整のとれた" },
+      { "en": "graceful", "ja": "優雅な" },
+      { "en": "curvy", "ja": "曲線美の" }
+    ],
+    "faq": [
+      { "q": "shapely は副詞ですか形容詞ですか？", "a": "形容詞です。-ly で終わるので副詞に見えますが、friendly（親しみやすい）、lovely（すてきな）と同じく形容詞です。名詞に -ly が付いて形容詞になるパターンです。" },
+      { "q": "どんなときに使いますか？", "a": "主に人の体つき（特に脚やスタイル）が美しく均整がとれていることをほめるときに使います。花瓶や家具などの『形が整って美しい』ことにも使えます。" }
+    ],
+    "quiz": [
+      { "q": "shapely の意味は？", "A": "格好のよい・均整のとれた", "B": "だらしない", "C": "透明な", "D": "危険な", "correct": "A" },
+      { "q": "shapely の品詞は？", "A": "形容詞", "B": "副詞", "C": "動詞", "D": "前置詞", "correct": "A" }
+    ]
+  },
+  {
+    "english": "shaping",
+    "pron": "ˈʃeɪpɪŋ",
+    "kana": "シェイピング",
+    "hinshi": "動詞（shape の現在分詞）/ 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "shape（形づくる）+ -ing",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出"],
+    "meaning_main": "形づくること・形成／（考え・社会を）方向づけること",
+    "description": "shaping（シェイピング）は shape（形づくる）の現在分詞・動名詞で「形づくること・形成」。物の形だけでなく、考え・社会・未来などを『方向づける』意味でも使う語です。意味・使い方を解説します。",
+    "keywords": ["shaping 意味", "形づくる", "形成", "方向づける"],
+    "meanings": [
+      { "hinshi": "【動詞】形づくっている（shape の現在分詞）", "note": "物・考え・状況などに形を与える" },
+      { "hinshi": "【名詞】形成・方向づけ", "note": "shaping the future（未来を形づくること）" }
+    ],
+    "usages": [
+      { "title": "① 物の形をつくる", "desc": "形成する", "example_en": "The potter was shaping the clay.", "example_ja": "陶工は粘土を形づくっていた。" },
+      { "title": "② 考え・社会を方向づける", "desc": "影響を与える", "example_en": "Education plays a role in shaping character.", "example_ja": "教育は人格形成に役割を果たす。" }
+    ],
+    "warn": ["shape up（きちんとする・調子を整える）などの句動詞も。shaping は物理的な『形成』と比喩的な『方向づけ』の両方に使う"],
+    "etym_note": "shape（形づくる。古英語 scieppan「創造する」より）の -ing 形。『形を与える』が核。",
+    "etym_chain": [
+      { "node": "scieppan", "sub": "創造する", "era": "古英語" },
+      { "node": "shape", "sub": "形づくる", "era": "中英語" },
+      { "node": "shaping", "sub": "形成・方向づけ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "shaping the future", "ja": "未来を形づくること" },
+      { "en": "shaping public opinion", "ja": "世論を形成すること" },
+      { "en": "shaping clay", "ja": "粘土を形づくる" },
+      { "en": "shaping policy", "ja": "政策を方向づける" },
+      { "en": "character shaping", "ja": "人格形成" },
+      { "en": "a shaping influence", "ja": "形づくる影響" }
+    ],
+    "related": [
+      { "en": "shape", "ja": "形・形づくる" },
+      { "en": "form", "ja": "形づくる・形" },
+      { "en": "mold", "ja": "型で作る・形成する" },
+      { "en": "influence", "ja": "影響を与える" }
+    ],
+    "faq": [
+      { "q": "shaping はどんな意味で使われますか？", "a": "物理的に『物の形をつくる（形成）』意味と、比喩的に『考え・社会・未来などを方向づける・形づくる』意味の両方で使われます。shaping the future（未来を形づくる）のように使います。" },
+      { "q": "shape up との違いは？", "a": "shape up は句動詞で『（行動や体調を）きちんとする・整える』という意味です。shaping（形づくること）とは別の使い方です。Shape up or ship out.（しっかりしないなら出て行け）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "shaping の意味は？", "A": "形づくること・方向づけること", "B": "壊すこと", "C": "隠すこと", "D": "数えること", "correct": "A" },
+      { "q": "shaping the future の意味は？", "A": "未来を形づくること", "B": "未来を忘れること", "C": "過去を悔やむこと", "D": "現在を無視すること", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sharpener",
+    "pron": "ˈʃɑːrpənər",
+    "kana": "シャープナー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "sharpen（とがらせる）+ -er",
+    "ld_level": "3級",
+    "badges": ["小学生〜", "英検3級", "CEFR A2", "日常"],
+    "meaning_main": "削るもの・研ぐもの（鉛筆削り・刃物研ぎなど）",
+    "description": "sharpener（シャープナー）は「削るもの・研ぐもの」。鉛筆削り（pencil sharpener）や包丁研ぎ（knife sharpener）などを指します。sharpen（とがらせる）に -er が付いた語です。意味・使い方を解説します。",
+    "keywords": ["sharpener 意味", "鉛筆削り", "pencil sharpener", "研ぐ"],
+    "meanings": [
+      { "hinshi": "【名詞】削るもの・研ぐもの", "note": "先をとがらせる・刃を鋭くする道具。pencil sharpener（鉛筆削り）、knife sharpener（包丁研ぎ）。可算" }
+    ],
+    "usages": [
+      { "title": "① 鉛筆削り", "desc": "pencil sharpener", "example_en": "Use the sharpener to sharpen your pencil.", "example_ja": "鉛筆削りで鉛筆をとがらせて。" },
+      { "title": "② 刃物研ぎ", "desc": "knife sharpener", "example_en": "She sharpened the blade with a knife sharpener.", "example_ja": "彼女は包丁研ぎで刃を研いだ。" }
+    ],
+    "warn": ["動詞 sharpen（とがらせる・研ぐ）に -er。用途を前につけて pencil/knife sharpener と表す"],
+    "etym_note": "sharp（鋭い。古英語 scearp より）由来の sharpen（とがらせる）に -er（〜するもの）が付いた語。",
+    "etym_chain": [
+      { "node": "scearp", "sub": "鋭い", "era": "古英語" },
+      { "node": "sharpen", "sub": "とがらせる", "era": "近代英語" },
+      { "node": "sharpener", "sub": "削るもの", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a pencil sharpener", "ja": "鉛筆削り" },
+      { "en": "a knife sharpener", "ja": "包丁研ぎ" },
+      { "en": "an electric sharpener", "ja": "電動削り器" },
+      { "en": "use a sharpener", "ja": "削り器を使う" },
+      { "en": "a blade sharpener", "ja": "刃研ぎ器" },
+      { "en": "a small sharpener", "ja": "小さな鉛筆削り" }
+    ],
+    "related": [
+      { "en": "sharpen", "ja": "とがらせる・研ぐ" },
+      { "en": "sharp", "ja": "鋭い" },
+      { "en": "pencil", "ja": "鉛筆" },
+      { "en": "blade", "ja": "刃" }
+    ],
+    "faq": [
+      { "q": "sharpener とは何ですか？", "a": "先をとがらせたり刃を鋭くしたりする道具です。用途に応じて pencil sharpener（鉛筆削り）、knife sharpener（包丁研ぎ）のように前に対象を付けて呼びます。" },
+      { "q": "動詞・形容詞との関係は？", "a": "形容詞 sharp（鋭い）→ 動詞 sharpen（とがらせる・研ぐ）→ 名詞 sharpener（研ぐ道具）という関係です。-en は動詞化、-er は『〜するもの』を表します。" }
+    ],
+    "quiz": [
+      { "q": "sharpener の意味は？", "A": "削るもの・研ぐもの", "B": "消しゴム", "C": "定規", "D": "ノート", "correct": "A" },
+      { "q": "pencil sharpener の意味は？", "A": "鉛筆削り", "B": "鉛筆立て", "C": "鉛筆の芯", "D": "色鉛筆", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sharply",
+    "pron": "ˈʃɑːrpli",
+    "kana": "シャープリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "sharp（鋭い）+ -ly",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "頻出"],
+    "meaning_main": "急激に・鋭く・厳しく・くっきりと",
+    "description": "sharply（シャープリー）は「急激に・鋭く・厳しく・くっきりと」。数値の急変、鋭い口調、はっきりした対比などを表す幅広い副詞です。sharp の副詞形です。意味・使い方を解説します。",
+    "keywords": ["sharply 意味", "急激に", "鋭く", "厳しく"],
+    "meanings": [
+      { "hinshi": "【副詞】急激に・大幅に", "note": "数値などが急に大きく変わる。rise sharply（急上昇する）" },
+      { "hinshi": "【副詞】鋭く・厳しく", "note": "口調・態度が鋭い。speak sharply（きつく言う）" },
+      { "hinshi": "【副詞】くっきりと・はっきりと", "note": "対比・輪郭が明瞭。sharply defined（くっきりした）" }
+    ],
+    "usages": [
+      { "title": "① 急激に変化", "desc": "数値の急変", "example_en": "Prices rose sharply last month.", "example_ja": "先月、物価が急上昇した。" },
+      { "title": "② 鋭く言う", "desc": "きつい口調", "example_en": "\"Stop that,\" she said sharply.", "example_ja": "「やめて」と彼女はきつく言った。" }
+    ],
+    "warn": ["文脈で『急激に（数値）』『鋭く・厳しく（口調）』『くっきりと（輪郭・対比）』と意味が変わる。sharply divided（意見が真っ二つ）も頻出"],
+    "etym_note": "sharp（鋭い。古英語 scearp より）に -ly が付いた副詞。鋭さの比喩でさまざまな意味に広がる。",
+    "etym_chain": [
+      { "node": "scearp", "sub": "鋭い", "era": "古英語" },
+      { "node": "sharp", "sub": "鋭い", "era": "中英語" },
+      { "node": "sharply", "sub": "急激に・鋭く", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rise sharply", "ja": "急上昇する" },
+      { "en": "fall sharply", "ja": "急落する" },
+      { "en": "speak sharply", "ja": "きつく言う" },
+      { "en": "sharply divided", "ja": "真っ二つに分かれて" },
+      { "en": "sharply defined", "ja": "くっきりと定義された" },
+      { "en": "contrast sharply", "ja": "際立って対照的だ" }
+    ],
+    "related": [
+      { "en": "sharp", "ja": "鋭い・急な" },
+      { "en": "steeply", "ja": "急勾配で・急激に" },
+      { "en": "abruptly", "ja": "突然に" },
+      { "en": "keenly", "ja": "鋭く・熱心に" }
+    ],
+    "faq": [
+      { "q": "sharply の意味を見分けるには？", "a": "文脈で判断します。数値なら『急激に・大幅に』（rise sharply）、口調なら『鋭く・厳しく』（speak sharply）、輪郭や対比なら『くっきりと』（sharply defined）です。" },
+      { "q": "sharply divided とはどういう意味ですか？", "a": "「（意見などが）はっきり真っ二つに分かれて」という意味です。The country is sharply divided on the issue.（その問題で国が真っ二つに割れている）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "rise sharply の意味は？", "A": "急上昇する", "B": "ゆっくり上がる", "C": "少し下がる", "D": "止まる", "correct": "A" },
+      { "q": "speak sharply の意味は？", "A": "きつく言う・鋭く言う", "B": "やさしく言う", "C": "小声で言う", "D": "笑って言う", "correct": "A" }
+    ]
+  }
+]
