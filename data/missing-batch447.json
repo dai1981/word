@@ -1,0 +1,982 @@
+[
+  {
+    "english": "spyware",
+    "pron": "ˈspaɪwɛər",
+    "kana": "スパイウェア",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "spy（スパイ）+ software（ソフト）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "IT・時事"],
+    "meaning_main": "スパイウェア（ひそかに情報を盗む不正ソフト）",
+    "description": "spyware（スパイウェア）は「利用者に気づかれずに情報を収集・送信する不正なソフト」。閲覧履歴やパスワードなどをひそかに盗み取ります。意味・対策をわかりやすく解説します。",
+    "keywords": ["spyware 意味", "スパイウェア", "情報 盗む", "malware"],
+    "meanings": [
+      { "hinshi": "【名詞】スパイウェア", "note": "利用者に気づかれず個人情報や操作履歴を収集・送信する不正なソフト。malware（悪意あるソフト）の一種。不可算" }
+    ],
+    "usages": [
+      { "title": "① 情報を盗むソフト", "desc": "ひそかに収集", "example_en": "Spyware can steal your passwords.", "example_ja": "スパイウェアはパスワードを盗むことがある。" },
+      { "title": "② 対策の話で", "desc": "駆除する", "example_en": "Antivirus software can remove spyware.", "example_ja": "ウイルス対策ソフトはスパイウェアを駆除できる。" }
+    ],
+    "warn": ["malware（悪意あるソフト全般）の一種。ransomware（身代金要求型）や adware（広告表示型）などと並ぶ。-ware は software から"],
+    "etym_note": "spy（スパイ・こっそり探る）と software の -ware を合わせた造語。malware・ransomware と同じ -ware を含む。",
+    "etym_chain": [
+      { "node": "spy + ware", "sub": "スパイのソフト", "era": "20世紀末" },
+      { "node": "spyware", "sub": "スパイウェア", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "install spyware", "ja": "スパイウェアを仕込む" },
+      { "en": "remove spyware", "ja": "スパイウェアを駆除する" },
+      { "en": "detect spyware", "ja": "スパイウェアを検出する" },
+      { "en": "infected with spyware", "ja": "スパイウェアに感染して" },
+      { "en": "anti-spyware software", "ja": "スパイウェア対策ソフト" },
+      { "en": "hidden spyware", "ja": "隠されたスパイウェア" }
+    ],
+    "related": [
+      { "en": "malware", "ja": "悪意あるソフト" },
+      { "en": "ransomware", "ja": "ランサムウェア" },
+      { "en": "adware", "ja": "アドウェア" },
+      { "en": "virus", "ja": "ウイルス" }
+    ],
+    "faq": [
+      { "q": "spyware とは何ですか？", "a": "利用者に気づかれないうちに、閲覧履歴・入力内容・パスワードなどの情報を収集し、外部に送信する不正なソフトです。malware（悪意あるソフト）の一種で、プライバシーを脅かします。" },
+      { "q": "どう防げますか？", "a": "怪しいソフトやメールの添付を開かない、公式のストアからアプリを入れる、OS やセキュリティソフトを最新に保つ、などが有効です。ウイルス対策ソフトで検出・駆除できることもあります。" }
+    ],
+    "quiz": [
+      { "q": "spyware の意味は？", "A": "ひそかに情報を盗む不正ソフト", "B": "便利な無料ゲーム", "C": "画像編集ソフト", "D": "音楽再生ソフト", "correct": "A" },
+      { "q": "spyware が含まれる大きな分類は？", "A": "malware（悪意あるソフト）", "B": "hardware（ハードウェア）", "C": "firmware（ファームウェア）", "D": "freeware（フリーウェア）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "squadron",
+    "pron": "ˈskwɒdrən",
+    "kana": "スクアドロン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "イタリア語 squadrone（四角い隊形）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "軍事"],
+    "meaning_main": "（空軍の）飛行隊・（海軍の）戦隊・（陸軍の）騎兵大隊",
+    "description": "squadron（スクアドロン）は「（軍の）部隊の単位」。空軍では飛行隊、海軍では小艦隊（戦隊）、陸軍では騎兵・機甲部隊の大隊を指します。意味・使い方・例文を解説します。",
+    "keywords": ["squadron 意味", "飛行隊", "戦隊", "部隊"],
+    "meanings": [
+      { "hinshi": "【名詞】飛行隊・戦隊・（騎兵）大隊", "note": "空軍の飛行隊、海軍の小艦隊、陸軍の騎兵・機甲部隊の単位。可算" }
+    ],
+    "usages": [
+      { "title": "① 空軍の飛行隊", "desc": "航空部隊", "example_en": "The squadron flew over the city.", "example_ja": "その飛行隊は街の上空を飛んだ。" },
+      { "title": "② 海軍の戦隊", "desc": "小艦隊", "example_en": "A squadron of ships patrolled the coast.", "example_ja": "艦艇の戦隊が沿岸を哨戒した。" }
+    ],
+    "warn": ["軍種によって規模・意味が異なる（空軍の飛行隊、海軍の戦隊、陸軍の騎兵大隊）。fleet（艦隊）より小さい単位が squadron"],
+    "etym_note": "イタリア語 squadrone（squadra「四角い隊形」より）に由来。square（四角）と同語源で、方陣を組む部隊の意から。",
+    "etym_chain": [
+      { "node": "squadra", "sub": "四角い隊形", "era": "イタリア語" },
+      { "node": "squadrone", "sub": "大隊", "era": "イタリア語" },
+      { "node": "squadron", "sub": "飛行隊・戦隊", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a fighter squadron", "ja": "戦闘機の飛行隊" },
+      { "en": "a bomber squadron", "ja": "爆撃機の飛行隊" },
+      { "en": "lead a squadron", "ja": "飛行隊を率いる" },
+      { "en": "a squadron of ships", "ja": "艦艇の戦隊" },
+      { "en": "an air squadron", "ja": "航空飛行隊" },
+      { "en": "the whole squadron", "ja": "飛行隊全体" }
+    ],
+    "related": [
+      { "en": "fleet", "ja": "艦隊" },
+      { "en": "regiment", "ja": "連隊" },
+      { "en": "battalion", "ja": "大隊" },
+      { "en": "aircraft", "ja": "航空機" }
+    ],
+    "faq": [
+      { "q": "squadron とはどのくらいの規模ですか？", "a": "軍種によって異なります。空軍では複数の航空機からなる『飛行隊』、海軍では数隻の艦艇からなる『戦隊（小艦隊）』、陸軍では騎兵・機甲部隊の『大隊』規模の単位を指します。" },
+      { "q": "fleet との違いは？", "a": "fleet（艦隊）は多数の艦艇からなる大きな単位、squadron（戦隊）はそれより小さい部隊です。海軍では fleet の中にいくつかの squadron が含まれる、という関係になります。" }
+    ],
+    "quiz": [
+      { "q": "squadron の意味は？", "A": "飛行隊・戦隊・（騎兵）大隊", "B": "工場", "C": "病院", "D": "学校", "correct": "A" },
+      { "q": "空軍での squadron は？", "A": "飛行隊", "B": "1人の兵士", "C": "1機の飛行機", "D": "滑走路", "correct": "A" }
+    ]
+  },
+  {
+    "english": "squatting",
+    "pron": "ˈskwɒtɪŋ",
+    "kana": "スクワッティング",
+    "hinshi": "動詞（squat の現在分詞）/ 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古仏語 esquatir（押しつぶす・しゃがむ）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "頻出"],
+    "meaning_main": "しゃがむこと／（許可なく）不法占拠すること",
+    "description": "squatting（スクワッティング）は squat（しゃがむ・不法占拠する）の現在分詞・動名詞で「しゃがむこと」、また「空き家・土地を許可なく占拠すること」。運動のスクワットも指します。意味を解説します。",
+    "keywords": ["squatting 意味", "しゃがむ", "不法占拠", "スクワット"],
+    "meanings": [
+      { "hinshi": "【動詞】しゃがんでいる（squat の現在分詞）", "note": "膝を曲げて腰を落とす。運動のスクワット" },
+      { "hinshi": "【名詞】不法占拠", "note": "空き家・土地を許可なく占拠して住むこと。squatter（不法占拠者）" }
+    ],
+    "usages": [
+      { "title": "① しゃがむ動作", "desc": "腰を落とす", "example_en": "He was squatting by the fire.", "example_ja": "彼は火のそばにしゃがんでいた。" },
+      { "title": "② 不法占拠", "desc": "許可なく住む", "example_en": "They were squatting in an abandoned building.", "example_ja": "彼らは廃屋を不法占拠していた。" }
+    ],
+    "warn": ["不法占拠する人は squatter。運動の『スクワット』も squat。文脈で『しゃがむ』か『不法占拠』かを判断"],
+    "etym_note": "古仏語 esquatir（押しつぶす→しゃがむ）由来の squat の -ing 形。『体を押し縮めてしゃがむ』が原義。",
+    "etym_chain": [
+      { "node": "esquatir", "sub": "押しつぶす・しゃがむ", "era": "古仏語" },
+      { "node": "squat", "sub": "しゃがむ・占拠する", "era": "中英語" },
+      { "node": "squatting", "sub": "しゃがむこと・不法占拠", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "squatting down", "ja": "しゃがみ込んで" },
+      { "en": "squatting position", "ja": "しゃがんだ姿勢" },
+      { "en": "illegal squatting", "ja": "不法占拠" },
+      { "en": "squatting in a house", "ja": "家を不法占拠して" },
+      { "en": "squatting exercises", "ja": "スクワット運動" },
+      { "en": "a squatting figure", "ja": "しゃがんだ人影" }
+    ],
+    "related": [
+      { "en": "squat", "ja": "しゃがむ・スクワット" },
+      { "en": "squatter", "ja": "不法占拠者" },
+      { "en": "crouch", "ja": "かがむ" },
+      { "en": "occupy", "ja": "占拠する" }
+    ],
+    "faq": [
+      { "q": "squatting の2つの意味は？", "a": "1つは『しゃがむこと（膝を曲げて腰を落とす姿勢・運動のスクワット）』、もう1つは『空き家や土地を許可なく占拠して住むこと（不法占拠）』です。文脈で判断します。" },
+      { "q": "squatter とは何ですか？", "a": "「不法占拠者」のことです。所有者の許可なく空き家や空き地に住みつく人を指します。squatting（不法占拠）を行う人を squatter と呼びます。" }
+    ],
+    "quiz": [
+      { "q": "squatting の意味は？", "A": "しゃがむこと／不法占拠すること", "B": "走ること", "C": "泳ぐこと", "D": "飛ぶこと", "correct": "A" },
+      { "q": "不法占拠をする人は？", "A": "squatter", "B": "squatting only", "C": "squad", "D": "squatly", "correct": "A" }
+    ]
+  },
+  {
+    "english": "squealing",
+    "pron": "ˈskwiːlɪŋ",
+    "kana": "スクイーリング",
+    "hinshi": "動詞（squeal の現在分詞）/ 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "中英語 squelen（甲高い声を出す）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "頻出"],
+    "meaning_main": "キーキー鳴くこと・甲高い叫び声／（俗語）密告",
+    "description": "squealing（スクイーリング）は squeal（キーキー鳴く・悲鳴を上げる）の現在分詞・名詞で「甲高い叫び声・キーキーいう音」。ブタの鳴き声やタイヤの音などを表します。意味・使い方を解説します。",
+    "keywords": ["squealing 意味", "キーキー", "甲高い叫び", "squeal"],
+    "meanings": [
+      { "hinshi": "【動詞】キーキー鳴いている（squeal の現在分詞）", "note": "甲高く鋭い声・音を出す。ブタの鳴き声、興奮した叫び、タイヤの音など" },
+      { "hinshi": "【名詞・動詞】（俗語）密告する", "note": "squeal on someone（〜を密告する・チクる）" }
+    ],
+    "usages": [
+      { "title": "① 甲高い叫び・音", "desc": "キーキー", "example_en": "The children were squealing with delight.", "example_ja": "子どもたちは大喜びで歓声を上げていた。" },
+      { "title": "② タイヤの音など", "desc": "鋭い音", "example_en": "The car stopped with squealing tires.", "example_ja": "車はタイヤをキーッと鳴らして止まった。" }
+    ],
+    "warn": ["squeal（甲高い声・音）は scream（悲鳴）より高く短い。俗語で『密告する（squeal on）』の意味もある"],
+    "etym_note": "中英語 squelen（甲高い声を出す。擬音的）由来の squeal の -ing 形。",
+    "etym_chain": [
+      { "node": "squelen", "sub": "甲高い声を出す", "era": "中英語" },
+      { "node": "squeal", "sub": "キーキー鳴く", "era": "近代英語" },
+      { "node": "squealing", "sub": "甲高い叫び", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "squealing with delight", "ja": "大喜びで歓声を上げて" },
+      { "en": "squealing tires", "ja": "キーッと鳴るタイヤ" },
+      { "en": "a squealing pig", "ja": "キーキー鳴くブタ" },
+      { "en": "squealing brakes", "ja": "きしむブレーキ" },
+      { "en": "squeal on someone", "ja": "〜を密告する" },
+      { "en": "squealing children", "ja": "はしゃぐ子どもたち" }
+    ],
+    "related": [
+      { "en": "squeal", "ja": "キーキー鳴く・悲鳴" },
+      { "en": "shriek", "ja": "金切り声を上げる" },
+      { "en": "scream", "ja": "悲鳴を上げる" },
+      { "en": "screech", "ja": "きしむ・金切り声" }
+    ],
+    "faq": [
+      { "q": "squealing と screaming の違いは？", "a": "どちらも『甲高い声を出すこと』ですが、squealing は『（ブタや子どものように）短く甲高いキーキーした声』、screaming は『（恐怖などの）長い悲鳴』を指すことが多いです。喜びの歓声にも squealing を使います。" },
+      { "q": "squeal on someone とは？", "a": "俗語で「〜を密告する・チクる」という意味です。悪事や秘密を告げ口することを指し、squeal（甲高く鳴く→告げ口する）から来ています。" }
+    ],
+    "quiz": [
+      { "q": "squealing の意味は？", "A": "キーキー鳴くこと・甲高い叫び声", "B": "ささやくこと", "C": "眠ること", "D": "歩くこと", "correct": "A" },
+      { "q": "squealing tires の意味は？", "A": "キーッと鳴るタイヤ", "B": "パンクしたタイヤ", "C": "新品のタイヤ", "D": "冬用タイヤ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "squeezer",
+    "pron": "ˈskwiːzər",
+    "kana": "スクイーザー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "squeeze（絞る）+ -er",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "日常"],
+    "meaning_main": "絞り器（果汁などを絞る道具）",
+    "description": "squeezer（スクイーザー）は「絞り器」。レモンやオレンジなどの果汁を絞り出す道具を指します。lemon squeezer（レモン絞り器）などで使う語です。意味・使い方・例文をわかりやすく解説します。",
+    "keywords": ["squeezer 意味", "絞り器", "lemon squeezer", "squeeze"],
+    "meanings": [
+      { "hinshi": "【名詞】絞り器", "note": "果汁などを絞り出す道具。lemon squeezer（レモン絞り器）、garlic squeezer（にんにく絞り器）。可算" }
+    ],
+    "usages": [
+      { "title": "① 果汁を絞る道具", "desc": "レモンなど", "example_en": "She used a lemon squeezer to make juice.", "example_ja": "彼女はレモン絞り器でジュースを作った。" },
+      { "title": "② いろいろな絞り器", "desc": "用途で分類", "example_en": "A garlic squeezer crushes garlic easily.", "example_ja": "にんにく絞り器はにんにくを簡単につぶす。" }
+    ],
+    "warn": ["動詞 squeeze（絞る・押しつぶす）に -er。juicer（ジューサー）は機械で果汁を搾る器具で、より大がかり"],
+    "etym_note": "squeeze（絞る・押しつぶす。語源は諸説あり）に -er（〜するもの）が付いた語。",
+    "etym_chain": [
+      { "node": "squeeze", "sub": "絞る・押しつぶす", "era": "16世紀" },
+      { "node": "squeezer", "sub": "絞り器", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a lemon squeezer", "ja": "レモン絞り器" },
+      { "en": "a garlic squeezer", "ja": "にんにく絞り器" },
+      { "en": "an orange squeezer", "ja": "オレンジ絞り器" },
+      { "en": "use a squeezer", "ja": "絞り器を使う" },
+      { "en": "a citrus squeezer", "ja": "柑橘絞り器" },
+      { "en": "a handheld squeezer", "ja": "手持ちの絞り器" }
+    ],
+    "related": [
+      { "en": "squeeze", "ja": "絞る・押しつぶす" },
+      { "en": "juicer", "ja": "ジューサー" },
+      { "en": "press", "ja": "圧搾機・押す" },
+      { "en": "grater", "ja": "おろし器" }
+    ],
+    "faq": [
+      { "q": "squeezer と juicer の違いは？", "a": "squeezer（絞り器）は主に手で押して果汁を絞る道具、juicer（ジューサー）は機械で野菜や果物を搾ってジュースにする器具です。squeezer のほうが小型・手動のものを指すことが多いです。" },
+      { "q": "どんな種類がありますか？", "a": "lemon squeezer（レモン絞り器）、orange/citrus squeezer（柑橘絞り器）、garlic squeezer（にんにく絞り器）などがあります。用途に応じて前に対象を付けて呼びます。" }
+    ],
+    "quiz": [
+      { "q": "squeezer の意味は？", "A": "絞り器（果汁などを絞る道具）", "B": "焼き器", "C": "冷凍庫", "D": "計量カップ", "correct": "A" },
+      { "q": "lemon squeezer の意味は？", "A": "レモン絞り器", "B": "レモンの木", "C": "レモンケーキ", "D": "レモン畑", "correct": "A" }
+    ]
+  },
+  {
+    "english": "stabilization",
+    "pron": "ˌsteɪbɪlaɪˈzeɪʃən",
+    "kana": "スタビライゼーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "stabilize（安定させる）+ -ation",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "頻出"],
+    "meaning_main": "安定化・安定させること",
+    "description": "stabilization（スタビライゼーション）は「安定化・安定させること」。不安定な状態を落ち着かせて安定させることを表す語です。経済・政治・医療など幅広く使われます。意味・使い方を解説します。",
+    "keywords": ["stabilization 意味", "安定化", "stabilize", "安定させる"],
+    "meanings": [
+      { "hinshi": "【名詞】安定化・安定させること", "note": "不安定な状態を落ち着かせ安定させること。経済・政治・症状など。不可算。イギリス綴りは stabilisation" }
+    ],
+    "usages": [
+      { "title": "① 経済の安定化", "desc": "落ち着かせる", "example_en": "The government aimed at price stabilization.", "example_ja": "政府は物価の安定化を目指した。" },
+      { "title": "② 症状の安定", "desc": "医療で", "example_en": "The patient's stabilization took several hours.", "example_ja": "患者の容体の安定には数時間かかった。" }
+    ],
+    "warn": ["動詞は stabilize（安定させる）、形容詞は stable（安定した）。反対は destabilization（不安定化）"],
+    "etym_note": "ラテン語 stabilis（安定した。stare「立つ」より）由来の stabilize に -ation が付いた語。stable・stand と同語源。",
+    "etym_chain": [
+      { "node": "stabilis", "sub": "安定した", "era": "ラテン語" },
+      { "node": "stabilize", "sub": "安定させる", "era": "近代英語" },
+      { "node": "stabilization", "sub": "安定化", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "price stabilization", "ja": "物価の安定化" },
+      { "en": "economic stabilization", "ja": "経済の安定化" },
+      { "en": "political stabilization", "ja": "政治の安定化" },
+      { "en": "climate stabilization", "ja": "気候の安定化" },
+      { "en": "stabilization measures", "ja": "安定化策" },
+      { "en": "market stabilization", "ja": "市場の安定化" }
+    ],
+    "related": [
+      { "en": "stabilize", "ja": "安定させる" },
+      { "en": "stable", "ja": "安定した" },
+      { "en": "stability", "ja": "安定" },
+      { "en": "destabilization", "ja": "不安定化（反対）" }
+    ],
+    "faq": [
+      { "q": "stabilization はどんな場面で使いますか？", "a": "不安定な状態を落ち着かせて安定させること全般に使えます。price stabilization（物価の安定化）、economic stabilization（経済の安定化）、患者の容体の安定など、経済・政治・医療で幅広く使われます。" },
+      { "q": "反対の意味の語は？", "a": "destabilization（不安定化）です。安定していたものを揺るがし、不安定にすることを指します。de-（打ち消し）が付くと反対の意味になります。" }
+    ],
+    "quiz": [
+      { "q": "stabilization の意味は？", "A": "安定化・安定させること", "B": "破壊", "C": "加速", "D": "混乱", "correct": "A" },
+      { "q": "stabilization の動詞形は？", "A": "stabilize", "B": "stable", "C": "stability", "D": "station", "correct": "A" }
+    ]
+  },
+  {
+    "english": "staffed",
+    "pron": "stæft",
+    "kana": "スタッフト",
+    "hinshi": "動詞（staff の過去・過去分詞）/ 形容詞",
+    "ld_pos": "動詞",
+    "ld_etym": "staff（職員）+ -ed",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出"],
+    "meaning_main": "職員を配置した・（人員が）配置された",
+    "description": "staffed（スタッフト）は staff（職員を置く・人員を配置する）の過去・過去分詞で「職員を配置した」。形容詞で「（人員が）配置された・体制の整った」。fully staffed で頻出。意味・使い方を解説します。",
+    "keywords": ["staffed 意味", "職員を配置", "fully staffed", "人員"],
+    "meanings": [
+      { "hinshi": "【動詞】職員を配置した（staff の過去・過去分詞）", "note": "施設・部署に人員を置いた。staff は動詞で『人員を配置する』" },
+      { "hinshi": "【形容詞】人員が配置された", "note": "fully staffed（人員が十分な）、understaffed（人手不足の）" }
+    ],
+    "usages": [
+      { "title": "① fully staffed", "desc": "人員が十分", "example_en": "The hospital is fully staffed at night.", "example_ja": "その病院は夜間も十分な人員を配置している。" },
+      { "title": "② 人員配置された", "desc": "体制が整う", "example_en": "The office is staffed by volunteers.", "example_ja": "そのオフィスはボランティアで運営されている。" }
+    ],
+    "warn": ["fully staffed（人員が十分な）、understaffed（人手不足の）、well-staffed（人員が充実した）が頻出。staff（名詞）は『職員（集合）』"],
+    "etym_note": "staff（職員。もとは『棒・杖』の意から『支える人々』へ）を動詞化した staff（人員を配置する）に -ed が付いた形。",
+    "etym_chain": [
+      { "node": "stæf", "sub": "棒・杖", "era": "古英語" },
+      { "node": "staff", "sub": "職員・人員を配置する", "era": "近代英語" },
+      { "node": "staffed", "sub": "職員を配置した", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "fully staffed", "ja": "人員が十分な" },
+      { "en": "understaffed", "ja": "人手不足の" },
+      { "en": "well-staffed", "ja": "人員が充実した" },
+      { "en": "staffed by volunteers", "ja": "ボランティアで運営された" },
+      { "en": "adequately staffed", "ja": "十分に人員配置された" },
+      { "en": "a staffed reception", "ja": "人のいる受付" }
+    ],
+    "related": [
+      { "en": "staff", "ja": "職員・人員を配置する" },
+      { "en": "staffing", "ja": "人員配置" },
+      { "en": "understaffed", "ja": "人手不足の" },
+      { "en": "personnel", "ja": "職員・人員" }
+    ],
+    "faq": [
+      { "q": "fully staffed とはどういう意味ですか？", "a": "「必要な人員がすべてそろっている・人手が十分な」という意味です。The store is fully staffed today.（今日は店の人員が十分だ）のように使います。反対は understaffed（人手不足の）です。" },
+      { "q": "staff は動詞にもなりますか？", "a": "はい。staff は名詞で『職員（集合）』、動詞で『（施設・部署に）人員を配置する』という意味です。staffed はその過去・過去分詞形です。The clinic is staffed by nurses.（その診療所は看護師が配置されている）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "fully staffed の意味は？", "A": "人員が十分な", "B": "人手不足の", "C": "閉店した", "D": "無人の", "correct": "A" },
+      { "q": "understaffed の意味は？", "A": "人手不足の", "B": "人員が過剰な", "C": "設備が古い", "D": "給料が高い", "correct": "A" }
+    ]
+  },
+  {
+    "english": "stakeholder",
+    "pron": "ˈsteɪkhoʊldər",
+    "kana": "ステークホルダー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "stake（利害・賭け金）+ holder（保持者）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "ビジネス"],
+    "meaning_main": "利害関係者（企業や事業に関わる人・団体）",
+    "description": "stakeholder（ステークホルダー）は「利害関係者」。企業や事業の活動によって影響を受ける、または関心を持つ人・団体（株主・従業員・顧客・地域など）を指します。意味・使い方を解説します。",
+    "keywords": ["stakeholder 意味", "利害関係者", "ステークホルダー", "stake"],
+    "meanings": [
+      { "hinshi": "【名詞】利害関係者", "note": "企業・事業に利害や関心を持つ人・団体。株主・従業員・顧客・取引先・地域社会など。可算" }
+    ],
+    "usages": [
+      { "title": "① 事業の関係者", "desc": "影響を受ける人々", "example_en": "The company consulted all its stakeholders.", "example_ja": "その会社はすべての利害関係者に意見を聞いた。" },
+      { "title": "② shareholder との違い", "desc": "より広い", "example_en": "Stakeholders include more than just shareholders.", "example_ja": "利害関係者には株主だけでなく多くの人が含まれる。" }
+    ],
+    "warn": ["shareholder（株主）は出資者のみだが、stakeholder（利害関係者）は従業員・顧客・地域など広く含む。混同注意"],
+    "etym_note": "stake（利害・賭け金。もとは『賭けの掛け金を預ける杭』）+ holder（保持者）を合わせた語。『利害を持つ人』の意。",
+    "etym_chain": [
+      { "node": "stake + holder", "sub": "掛け金を持つ人", "era": "18世紀" },
+      { "node": "stakeholder", "sub": "利害関係者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "key stakeholders", "ja": "主要な利害関係者" },
+      { "en": "stakeholder engagement", "ja": "利害関係者との対話" },
+      { "en": "consult stakeholders", "ja": "利害関係者に相談する" },
+      { "en": "stakeholders and shareholders", "ja": "利害関係者と株主" },
+      { "en": "involve stakeholders", "ja": "利害関係者を巻き込む" },
+      { "en": "a major stakeholder", "ja": "主要な利害関係者" }
+    ],
+    "related": [
+      { "en": "shareholder", "ja": "株主" },
+      { "en": "stake", "ja": "利害・賭け金" },
+      { "en": "investor", "ja": "投資家" },
+      { "en": "party", "ja": "当事者" }
+    ],
+    "faq": [
+      { "q": "stakeholder と shareholder の違いは？", "a": "shareholder（株主）は会社に出資して株を持つ人だけを指します。stakeholder（利害関係者）はそれを含めて、従業員・顧客・取引先・地域社会など、事業に関心や利害を持つすべての人・団体を指す、より広い概念です。" },
+      { "q": "なぜ stakeholder が重視されるのですか？", "a": "企業は株主だけでなく、従業員・顧客・地域などさまざまな関係者に支えられ、影響を与えるためです。近年は幅広い利害関係者に配慮する経営（ステークホルダー資本主義）が重視されています。" }
+    ],
+    "quiz": [
+      { "q": "stakeholder の意味は？", "A": "利害関係者", "B": "無関係な傍観者", "C": "競争相手のみ", "D": "政府だけ", "correct": "A" },
+      { "q": "stakeholder に含まれるが shareholder に含まれないのは？", "A": "従業員・顧客・地域", "B": "株を持つ人", "C": "出資者", "D": "投資家", "correct": "A" }
+    ]
+  },
+  {
+    "english": "staleness",
+    "pron": "ˈsteɪlnəs",
+    "kana": "ステイルネス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "stale（新鮮でない）+ -ness",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "頻出"],
+    "meaning_main": "古くなっていること・新鮮さの欠如・マンネリ",
+    "description": "staleness（ステイルネス）は「古くなっていること・新鮮さの欠如」。食べ物が古くなること、また空気・アイデア・関係などが新鮮さを失って停滞することを表す語です。意味・使い方を解説します。",
+    "keywords": ["staleness 意味", "新鮮さの欠如", "マンネリ", "stale"],
+    "meanings": [
+      { "hinshi": "【名詞】古くなっていること・新鮮さの欠如", "note": "食べ物・空気が古びること、またアイデア・関係の停滞・マンネリ。不可算" }
+    ],
+    "usages": [
+      { "title": "① 食べ物・空気の古さ", "desc": "新鮮でない", "example_en": "The staleness of the bread was obvious.", "example_ja": "パンが古くなっているのは明らかだった。" },
+      { "title": "② マンネリ・停滞", "desc": "新鮮さの喪失", "example_en": "There was a sense of staleness in the routine.", "example_ja": "その日課にはマンネリ感があった。" }
+    ],
+    "warn": ["stale（新鮮でない・古い・マンネリの）の名詞形。反対は freshness（新鮮さ）。stale bread（固くなったパン）、stale air（よどんだ空気）"],
+    "etym_note": "stale（新鮮でない。古仏語 estale「（ワインが）落ち着いた」より）に -ness が付いた語。",
+    "etym_chain": [
+      { "node": "estale", "sub": "落ち着いた・古い", "era": "古仏語" },
+      { "node": "stale", "sub": "新鮮でない", "era": "中英語" },
+      { "node": "staleness", "sub": "新鮮さの欠如", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the staleness of", "ja": "〜の古さ・マンネリ" },
+      { "en": "a sense of staleness", "ja": "マンネリ感" },
+      { "en": "staleness of the air", "ja": "空気のよどみ" },
+      { "en": "combat staleness", "ja": "マンネリを打破する" },
+      { "en": "staleness in a relationship", "ja": "関係のマンネリ" },
+      { "en": "avoid staleness", "ja": "新鮮さの喪失を避ける" }
+    ],
+    "related": [
+      { "en": "stale", "ja": "新鮮でない・古い・マンネリの" },
+      { "en": "freshness", "ja": "新鮮さ（反対）" },
+      { "en": "monotony", "ja": "単調さ" },
+      { "en": "stagnation", "ja": "停滞" }
+    ],
+    "faq": [
+      { "q": "staleness はどんな場面で使いますか？", "a": "食べ物が古くなること（the staleness of the bread）、空気がよどむこと（staleness of the air）のほか、比喩的にアイデア・仕事・人間関係が新鮮さを失って停滞する『マンネリ』を表すのにも使います。" },
+      { "q": "反対の意味の語は？", "a": "freshness（新鮮さ）です。stale（新鮮でない）↔ fresh（新鮮な）が形容詞の対で、その名詞形が staleness と freshness です。" }
+    ],
+    "quiz": [
+      { "q": "staleness の意味は？", "A": "古くなっていること・新鮮さの欠如", "B": "新鮮さ", "C": "甘さ", "D": "明るさ", "correct": "A" },
+      { "q": "staleness の反対に近い語は？", "A": "freshness", "B": "darkness", "C": "kindness", "D": "sweetness", "correct": "A" }
+    ]
+  },
+  {
+    "english": "stalking",
+    "pron": "ˈstɔːkɪŋ",
+    "kana": "ストーキング",
+    "hinshi": "動詞（stalk の現在分詞）/ 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古英語 -stealcian（忍び寄る）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "時事"],
+    "meaning_main": "忍び寄って追うこと・つきまとい（ストーキング）",
+    "description": "stalking（ストーキング）は stalk（忍び寄る・つきまとう）の現在分詞・名詞で「（獲物・人に）忍び寄って追うこと・つきまとい」。犯罪としての『ストーカー行為』も指します。意味・使い方を解説します。",
+    "keywords": ["stalking 意味", "つきまとい", "ストーカー", "stalk"],
+    "meanings": [
+      { "hinshi": "【動詞】忍び寄っている・つけ狙っている（stalk の現在分詞）", "note": "獲物に忍び寄る、または人につきまとう" },
+      { "hinshi": "【名詞】つきまとい・ストーカー行為", "note": "人を執拗につけ狙う迷惑・犯罪行為。stalker（ストーカー）" }
+    ],
+    "usages": [
+      { "title": "① 獲物に忍び寄る", "desc": "狩りで", "example_en": "The lion was stalking a deer.", "example_ja": "ライオンはシカに忍び寄っていた。" },
+      { "title": "② つきまとい・ストーカー", "desc": "犯罪行為", "example_en": "She reported him for stalking.", "example_ja": "彼女は彼をストーカー行為で通報した。" }
+    ],
+    "warn": ["stalk には『（植物の）茎』という別語もある。つきまとう人は stalker。犯罪としての『ストーカー行為』の意味が現代では重要"],
+    "etym_note": "古英語 -stealcian（忍び足で歩く）由来の stalk の -ing 形。『獲物に忍び寄る』から『人につきまとう』へ意味が広がった。",
+    "etym_chain": [
+      { "node": "stealcian", "sub": "忍び寄る", "era": "古英語" },
+      { "node": "stalk", "sub": "忍び寄る・つきまとう", "era": "中英語" },
+      { "node": "stalking", "sub": "つきまとい", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "stalking a victim", "ja": "被害者につきまとう" },
+      { "en": "report stalking", "ja": "ストーカー行為を通報する" },
+      { "en": "online stalking", "ja": "ネットストーキング" },
+      { "en": "stalking prey", "ja": "獲物に忍び寄る" },
+      { "en": "a stalking charge", "ja": "ストーカー行為の容疑" },
+      { "en": "cyber stalking", "ja": "サイバーストーキング" }
+    ],
+    "related": [
+      { "en": "stalk", "ja": "忍び寄る・つきまとう" },
+      { "en": "stalker", "ja": "ストーカー" },
+      { "en": "harassment", "ja": "嫌がらせ" },
+      { "en": "follow", "ja": "後をつける" }
+    ],
+    "faq": [
+      { "q": "stalking の2つの意味は？", "a": "1つは動物が『獲物に忍び寄って追うこと』、もう1つは人に対する『執拗なつきまとい（ストーカー行為）』です。後者は迷惑行為・犯罪として扱われ、行う人を stalker（ストーカー）と呼びます。" },
+      { "q": "cyber stalking とは？", "a": "「サイバーストーキング（ネット上のつきまとい）」のことです。SNS やメールなどを使って、特定の人を執拗に監視・つきまとう行為を指します。近年問題になっている迷惑行為です。" }
+    ],
+    "quiz": [
+      { "q": "stalking の意味は？", "A": "忍び寄って追うこと・つきまとい", "B": "助けること", "C": "祝うこと", "D": "眠ること", "correct": "A" },
+      { "q": "つきまとう人を何という？", "A": "stalker", "B": "stalking only", "C": "stalk", "D": "stalky", "correct": "A" }
+    ]
+  },
+  {
+    "english": "stannic",
+    "pron": "ˈstænɪk",
+    "kana": "スタニック",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 stannum（スズ）",
+    "ld_level": "-",
+    "badges": ["大学生〜", "化学", "専門語", "上級"],
+    "meaning_main": "第二スズの・スズ(IV)を含む（化学）",
+    "description": "stannic（スタニック）は化学で「スズ(IV)を含む・第二スズの」。スズが+4の状態にある化合物を表す語です。+2の stannous（第一スズ）と対になります。意味・使い方を解説します。",
+    "keywords": ["stannic 意味", "第二スズ", "スズ 化合物", "stannous 違い"],
+    "meanings": [
+      { "hinshi": "【形容詞】第二スズの・スズ(IV)を含む", "note": "スズが酸化数+4の状態にある化合物を表す化学用語。stannic chloride（塩化スズ(IV)）" }
+    ],
+    "usages": [
+      { "title": "① スズ(IV)の化合物", "desc": "化学の分類", "example_en": "Stannic chloride is a compound of tin.", "example_ja": "塩化スズ(IV)はスズの化合物だ。" },
+      { "title": "② stannous との対比", "desc": "酸化数の違い", "example_en": "Stannic tin has an oxidation state of +4.", "example_ja": "第二スズは酸化数+4のスズだ。" }
+    ],
+    "warn": ["stannic（+4＝第二スズ）と stannous（+2＝第一スズ）を区別。元素記号 Sn（stannum）由来。-ic は高い酸化数、-ous は低い酸化数"],
+    "etym_note": "ラテン語 stannum（スズ。元素記号 Sn の由来）に -ic が付いた語。-ic は化学で『より高い酸化数』を表す。",
+    "etym_chain": [
+      { "node": "stannum", "sub": "スズ", "era": "ラテン語" },
+      { "node": "stannic", "sub": "第二スズの", "era": "近代化学" }
+    ],
+    "phrases": [
+      { "en": "stannic chloride", "ja": "塩化スズ(IV)" },
+      { "en": "stannic oxide", "ja": "酸化スズ(IV)" },
+      { "en": "stannic compounds", "ja": "第二スズ化合物" },
+      { "en": "stannic and stannous", "ja": "第二スズと第一スズ" },
+      { "en": "a stannic ion", "ja": "スズ(IV)イオン" },
+      { "en": "stannic acid", "ja": "スズ酸" }
+    ],
+    "related": [
+      { "en": "stannous", "ja": "第一スズの（スズ(II)）" },
+      { "en": "tin", "ja": "スズ" },
+      { "en": "oxidation", "ja": "酸化" },
+      { "en": "compound", "ja": "化合物" }
+    ],
+    "faq": [
+      { "q": "stannic と stannous の違いは？", "a": "どちらもスズ（tin）の化合物を表しますが、stannic は『スズ(IV)＝酸化数+4（第二スズ）』、stannous は『スズ(II)＝酸化数+2（第一スズ）』です。-ic が高い酸化数、-ous が低い酸化数を表す化学の命名法です。" },
+      { "q": "スズの元素記号はなぜ Sn ですか？", "a": "ラテン語で『スズ』を意味する stannum に由来します。stannic・stannous もこの stannum から来ています。英語では tin と呼びます。" }
+    ],
+    "quiz": [
+      { "q": "stannic は何の化合物を表す？", "A": "スズ(IV)（第二スズ）", "B": "鉄", "C": "銅", "D": "金", "correct": "A" },
+      { "q": "stannic の酸化数は？", "A": "+4", "B": "+2", "C": "0", "D": "-1", "correct": "A" }
+    ]
+  },
+  {
+    "english": "stannous",
+    "pron": "ˈstænəs",
+    "kana": "スタナス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 stannum（スズ）",
+    "ld_level": "-",
+    "badges": ["大学生〜", "化学", "専門語", "上級"],
+    "meaning_main": "第一スズの・スズ(II)を含む（化学）",
+    "description": "stannous（スタナス）は化学で「スズ(II)を含む・第一スズの」。スズが+2の状態にある化合物を表す語です。歯みがき粉のフッ化第一スズ（stannous fluoride）などで知られます。意味を解説します。",
+    "keywords": ["stannous 意味", "第一スズ", "stannous fluoride", "stannic 違い"],
+    "meanings": [
+      { "hinshi": "【形容詞】第一スズの・スズ(II)を含む", "note": "スズが酸化数+2の状態にある化合物を表す化学用語。stannous fluoride（フッ化第一スズ）" }
+    ],
+    "usages": [
+      { "title": "① スズ(II)の化合物", "desc": "化学の分類", "example_en": "Stannous fluoride is used in toothpaste.", "example_ja": "フッ化第一スズは歯みがき粉に使われる。" },
+      { "title": "② stannic との対比", "desc": "酸化数の違い", "example_en": "Stannous tin has an oxidation state of +2.", "example_ja": "第一スズは酸化数+2のスズだ。" }
+    ],
+    "warn": ["stannous（+2＝第一スズ）と stannic（+4＝第二スズ）を区別。-ous は低い酸化数、-ic は高い酸化数を表す"],
+    "etym_note": "ラテン語 stannum（スズ。元素記号 Sn の由来）に -ous が付いた語。-ous は化学で『より低い酸化数』を表す。",
+    "etym_chain": [
+      { "node": "stannum", "sub": "スズ", "era": "ラテン語" },
+      { "node": "stannous", "sub": "第一スズの", "era": "近代化学" }
+    ],
+    "phrases": [
+      { "en": "stannous fluoride", "ja": "フッ化第一スズ" },
+      { "en": "stannous chloride", "ja": "塩化スズ(II)" },
+      { "en": "stannous compounds", "ja": "第一スズ化合物" },
+      { "en": "stannous and stannic", "ja": "第一スズと第二スズ" },
+      { "en": "a stannous ion", "ja": "スズ(II)イオン" },
+      { "en": "stannous oxide", "ja": "酸化スズ(II)" }
+    ],
+    "related": [
+      { "en": "stannic", "ja": "第二スズの（スズ(IV)）" },
+      { "en": "tin", "ja": "スズ" },
+      { "en": "fluoride", "ja": "フッ化物" },
+      { "en": "oxidation", "ja": "酸化" }
+    ],
+    "faq": [
+      { "q": "stannous fluoride とは何ですか？", "a": "「フッ化第一スズ」のことです。虫歯予防のために一部の歯みがき粉に配合されるフッ化物で、スズが+2の状態（第一スズ）の化合物です。歯を強くし細菌を抑える働きがあります。" },
+      { "q": "stannous と stannic の見分け方は？", "a": "-ous が低い酸化数（+2＝第一スズ）、-ic が高い酸化数（+4＝第二スズ）です。ferrous（第一鉄）/ ferric（第二鉄）など、他の金属でも -ous/-ic の命名法が同じように使われます。" }
+    ],
+    "quiz": [
+      { "q": "stannous は何の化合物を表す？", "A": "スズ(II)（第一スズ）", "B": "スズ(IV)", "C": "水素", "D": "酸素", "correct": "A" },
+      { "q": "stannous fluoride が使われるものは？", "A": "歯みがき粉", "B": "電池", "C": "塗料", "D": "燃料", "correct": "A" }
+    ]
+  },
+  {
+    "english": "starlit",
+    "pron": "ˈstɑːrlɪt",
+    "kana": "スターリット",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "star（星）+ lit（lightの過去分詞）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "文語"],
+    "meaning_main": "星明かりに照らされた・星の光の",
+    "description": "starlit（スターリット）は「星明かりに照らされた・星の光に満ちた」。夜空の星の光に照らされた情景を表す文語的な形容詞です。starlit sky（星空）などで使います。意味・使い方を解説します。",
+    "keywords": ["starlit 意味", "星明かり", "星空", "star"],
+    "meanings": [
+      { "hinshi": "【形容詞】星明かりに照らされた・星の光の", "note": "星の光に照らされた。a starlit night（星明かりの夜）、a starlit sky（星空）" }
+    ],
+    "usages": [
+      { "title": "① 星明かりの夜", "desc": "星に照らされて", "example_en": "They walked home under a starlit sky.", "example_ja": "彼らは星空の下を歩いて帰った。" },
+      { "title": "② 情景描写に", "desc": "文学的表現", "example_en": "The starlit lake was beautiful.", "example_ja": "星明かりに照らされた湖は美しかった。" }
+    ],
+    "warn": ["lit は light（照らす）の過去分詞。moonlit（月明かりの）と同じ作り。文語的でロマンチックな響きの語"],
+    "etym_note": "star（星。古英語 steorra より）+ lit（light「照らす」の過去分詞）を合わせた語。moonlit（月明かりの）と同型。",
+    "etym_chain": [
+      { "node": "star + lit", "sub": "星に照らされた", "era": "近代英語" },
+      { "node": "starlit", "sub": "星明かりの", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a starlit night", "ja": "星明かりの夜" },
+      { "en": "a starlit sky", "ja": "星空" },
+      { "en": "under a starlit sky", "ja": "星空の下で" },
+      { "en": "a starlit evening", "ja": "星の輝く宵" },
+      { "en": "the starlit sea", "ja": "星明かりの海" },
+      { "en": "a starlit garden", "ja": "星明かりの庭" }
+    ],
+    "related": [
+      { "en": "moonlit", "ja": "月明かりの" },
+      { "en": "starry", "ja": "星のたくさんある" },
+      { "en": "star", "ja": "星" },
+      { "en": "night", "ja": "夜" }
+    ],
+    "faq": [
+      { "q": "starlit と starry の違いは？", "a": "starry は『星がたくさん出ている（星でいっぱいの）』、starlit は『星の光に照らされた』という意味です。a starry sky は星が多い空、a starlit night は星明かりに照らされた夜、というニュアンスの違いがあります。" },
+      { "q": "moonlit と同じ作りですか？", "a": "はい。moonlit（月明かりの）と同じく、光源＋lit（light の過去分詞）の形です。sunlit（日の当たった）、candlelit（ろうそくの明かりの）なども同じパターンです。" }
+    ],
+    "quiz": [
+      { "q": "starlit の意味は？", "A": "星明かりに照らされた", "B": "真っ暗な", "C": "雨の降る", "D": "騒がしい", "correct": "A" },
+      { "q": "starlit と同じ作りの語は？", "A": "moonlit（月明かりの）", "B": "starfish（ヒトデ）", "C": "starter（始動装置）", "D": "starve（飢える）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "starved",
+    "pron": "stɑːrvd",
+    "kana": "スターヴド",
+    "hinshi": "動詞（starve の過去・過去分詞）/ 形容詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古英語 steorfan（死ぬ）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出"],
+    "meaning_main": "飢えた・餓死させた／（口語）とても空腹の／（〜に）飢えた",
+    "description": "starved（スターヴド）は starve（飢える・餓死する）の過去・過去分詞で「飢えた・餓死した」。口語で『とても空腹の』、また be starved of〜で『〜に飢えている・欠乏している』を表します。意味を解説します。",
+    "keywords": ["starved 意味", "飢えた", "starve 過去形", "starved of"],
+    "meanings": [
+      { "hinshi": "【動詞】飢えた・餓死した（starve の過去・過去分詞）", "note": "食べ物がなく苦しんだ・死んだ" },
+      { "hinshi": "【形容詞】（口語）とても空腹の", "note": "I'm starved.（お腹がペコペコだ）。hungry の強調" },
+      { "hinshi": "【形容詞】（〜に）飢えた・欠乏した", "note": "be starved of/for〜（〜に飢えている・欠いている）" }
+    ],
+    "usages": [
+      { "title": "① とても空腹（口語）", "desc": "hungry の強調", "example_en": "I'm absolutely starved!", "example_ja": "お腹がペコペコだ！" },
+      { "title": "② be starved of〜", "desc": "「〜に飢えている」", "example_en": "The children were starved of affection.", "example_ja": "その子どもたちは愛情に飢えていた。" }
+    ],
+    "warn": ["be starved of〜（英）/ be starved for〜（米）で『〜を欠いて飢えている』。starve は『飢える／飢えさせる』の両方"],
+    "etym_note": "古英語 steorfan（死ぬ）由来の starve の過去・過去分詞。もとは『（一般に）死ぬ』の意で、後に『飢えて死ぬ』に限定された。",
+    "etym_chain": [
+      { "node": "steorfan", "sub": "死ぬ", "era": "古英語" },
+      { "node": "starve", "sub": "飢える・餓死する", "era": "中英語" },
+      { "node": "starved", "sub": "飢えた", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "I'm starved", "ja": "お腹がペコペコだ" },
+      { "en": "starved to death", "ja": "餓死した" },
+      { "en": "be starved of", "ja": "〜に飢えている" },
+      { "en": "starved for attention", "ja": "注目に飢えて" },
+      { "en": "half-starved", "ja": "飢え死にしそうな" },
+      { "en": "starved of funds", "ja": "資金不足で" }
+    ],
+    "related": [
+      { "en": "starve", "ja": "飢える・飢えさせる" },
+      { "en": "starvation", "ja": "飢餓・餓死" },
+      { "en": "hungry", "ja": "空腹の" },
+      { "en": "famished", "ja": "飢え切った" }
+    ],
+    "faq": [
+      { "q": "I'm starved とはどういう意味ですか？", "a": "口語で「お腹がペコペコだ・すごくお腹がすいた」という意味です。hungry を強めた大げさな言い方で、実際に飢えているわけではなく『とても空腹だ』という気持ちを表します。I'm starving. とも言います。" },
+      { "q": "be starved of〜 とは？", "a": "「〜に飢えている・〜を欠いている」という意味です。starved of affection（愛情に飢えて）、starved of funds（資金不足で）のように、食べ物以外の欠乏にも使います。アメリカでは starved for〜も使います。" }
+    ],
+    "quiz": [
+      { "q": "口語の I'm starved. の意味は？", "A": "お腹がペコペコだ", "B": "満腹だ", "C": "眠い", "D": "退屈だ", "correct": "A" },
+      { "q": "be starved of の意味は？", "A": "〜に飢えている・欠いている", "B": "〜で満ち足りている", "C": "〜を捨てる", "D": "〜を売る", "correct": "A" }
+    ]
+  },
+  {
+    "english": "stated",
+    "pron": "ˈsteɪtɪd",
+    "kana": "ステイテッド",
+    "hinshi": "動詞（state の過去・過去分詞）/ 形容詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 status（状態・立場）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出"],
+    "meaning_main": "述べた・明言した／（形容詞）明示された・所定の",
+    "description": "stated（ステイテッド）は state（述べる・明言する）の過去・過去分詞で「述べた・明言した」。形容詞で「明示された・所定の」。the stated aim（明言された目的）などで頻出。意味・使い方を解説します。",
+    "keywords": ["stated 意味", "state 過去形", "明言した", "所定の"],
+    "meanings": [
+      { "hinshi": "【動詞】述べた・明言した（state の過去・過去分詞）", "note": "はっきりと言った・記した。動詞 state は『（正式に）述べる』" },
+      { "hinshi": "【形容詞】明示された・所定の・公表された", "note": "the stated goal（明言された目標）、at the stated time（所定の時刻に）" }
+    ],
+    "usages": [
+      { "title": "① はっきり述べた", "desc": "明言する", "example_en": "He clearly stated his opinion.", "example_ja": "彼ははっきりと意見を述べた。" },
+      { "title": "② the stated aim", "desc": "「明言された目的」", "example_en": "The stated aim of the project is education.", "example_ja": "その計画の明言された目的は教育だ。" }
+    ],
+    "warn": ["state は『（正式・明確に）述べる』で say より硬い。名詞 state は『状態・国家・州』の別の意味も。the stated（明示された）"],
+    "etym_note": "ラテン語 status（状態・立場。stare「立つ」より）由来の state（述べる・状態）の過去・過去分詞。station・status と同語源。",
+    "etym_chain": [
+      { "node": "status", "sub": "状態・立場", "era": "ラテン語" },
+      { "node": "state", "sub": "述べる・状態", "era": "近代英語" },
+      { "node": "stated", "sub": "述べた・明示された", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "clearly stated", "ja": "はっきり述べられた" },
+      { "en": "the stated aim", "ja": "明言された目的" },
+      { "en": "as stated above", "ja": "上記のとおり" },
+      { "en": "at the stated time", "ja": "所定の時刻に" },
+      { "en": "the stated reason", "ja": "表向きの理由" },
+      { "en": "unless otherwise stated", "ja": "特に断りのない限り" }
+    ],
+    "related": [
+      { "en": "state", "ja": "述べる・状態・国家" },
+      { "en": "statement", "ja": "声明・陳述" },
+      { "en": "declared", "ja": "宣言された" },
+      { "en": "specified", "ja": "明記された" }
+    ],
+    "faq": [
+      { "q": "state と say の違いは？", "a": "say は『（一般的に）言う』、state は『（正式・明確に）述べる・表明する』というやや硬い語です。stated はその過去・過去分詞で、He stated that…（彼は〜と明言した）のように使います。" },
+      { "q": "unless otherwise stated とは？", "a": "「特に断りのない限り・別段の記載がない限り」という意味の決まった言い方です。契約書や説明文などで、原則を示しつつ例外の可能性を残すときに使われます。" }
+    ],
+    "quiz": [
+      { "q": "stated の意味は？", "A": "述べた・明言した／明示された", "B": "隠した", "C": "忘れた", "D": "壊した", "correct": "A" },
+      { "q": "the stated aim の意味は？", "A": "明言された目的", "B": "秘密の目的", "C": "失われた目的", "D": "偽の目的", "correct": "A" }
+    ]
+  },
+  {
+    "english": "stateswoman",
+    "pron": "ˈsteɪtswʊmən",
+    "kana": "ステイツウーマン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "state（国家）+ woman（女性）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "政治"],
+    "meaning_main": "女性の政治家・（尊敬される）女性の政治指導者",
+    "description": "stateswoman（ステイツウーマン）は「（尊敬される）女性の政治家・政治指導者」。単なる politician（政治家）と違い、見識と手腕を備えた立派な政治家をたたえる語です。男性形は statesman。意味を解説します。",
+    "keywords": ["stateswoman 意味", "女性政治家", "statesman", "政治指導者"],
+    "meanings": [
+      { "hinshi": "【名詞】（尊敬される）女性の政治家・政治指導者", "note": "見識と手腕を備えた立派な女性政治家。称賛の語。男性形は statesman。複数形 stateswomen。可算" }
+    ],
+    "usages": [
+      { "title": "① 立派な女性政治家", "desc": "尊敬を込めて", "example_en": "She was regarded as a great stateswoman.", "example_ja": "彼女は偉大な政治指導者と見なされた。" },
+      { "title": "② politician との違い", "desc": "称賛の語", "example_en": "A stateswoman is more than just a politician.", "example_ja": "stateswoman は単なる政治家以上の存在だ。" }
+    ],
+    "warn": ["politician（政治家、中立〜やや否定的）と違い、statesman/stateswoman は『見識ある立派な政治家』をたたえる語。男性は statesman"],
+    "etym_note": "state（国家。ラテン語 status より）+ woman（女性）を合わせた語。statesman の女性形。",
+    "etym_chain": [
+      { "node": "state + woman", "sub": "国家の女性", "era": "近代英語" },
+      { "node": "stateswoman", "sub": "女性の政治指導者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a great stateswoman", "ja": "偉大な女性政治家" },
+      { "en": "a respected stateswoman", "ja": "尊敬される女性政治家" },
+      { "en": "an elder stateswoman", "ja": "長老格の女性政治家" },
+      { "en": "a wise stateswoman", "ja": "賢明な女性政治家" },
+      { "en": "regarded as a stateswoman", "ja": "政治指導者と見なされて" },
+      { "en": "a distinguished stateswoman", "ja": "傑出した女性政治家" }
+    ],
+    "related": [
+      { "en": "statesman", "ja": "男性の政治指導者" },
+      { "en": "politician", "ja": "政治家" },
+      { "en": "leader", "ja": "指導者" },
+      { "en": "diplomat", "ja": "外交官" }
+    ],
+    "faq": [
+      { "q": "stateswoman と politician の違いは？", "a": "politician（政治家）は中立的、時にやや否定的（打算的）な語ですが、stateswoman は『見識・手腕・品格を備えた尊敬すべき女性政治家』をたたえる肯定的な語です。男性形は statesman です。" },
+      { "q": "elder stateswoman とは？", "a": "「長老格の（引退後も影響力のある）女性政治家」を意味します。長年の経験と実績から、助言を求められるような重鎮の政治家を指す敬称的な表現です。" }
+    ],
+    "quiz": [
+      { "q": "stateswoman の意味は？", "A": "（尊敬される）女性の政治家・政治指導者", "B": "女性の医師", "C": "女性の教師", "D": "女性の芸術家", "correct": "A" },
+      { "q": "stateswoman の男性形は？", "A": "statesman", "B": "stateman", "C": "statewoman", "D": "statesboy", "correct": "A" }
+    ]
+  },
+  {
+    "english": "steadily",
+    "pron": "ˈstɛdɪli",
+    "kana": "ステディリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "steady（着実な・安定した）+ -ly",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "頻出"],
+    "meaning_main": "着実に・絶えず・安定して",
+    "description": "steadily（ステディリー）は「着実に・絶えず・安定して」。物事が一定のペースで途切れなく進む様子や、ぐらつかず安定している様子を表す副詞です。steady の副詞形です。意味・使い方を解説します。",
+    "keywords": ["steadily 意味", "着実に", "絶えず", "steady"],
+    "meanings": [
+      { "hinshi": "【副詞】着実に・絶えず", "note": "一定のペースで途切れなく。rise steadily（着実に上昇する）" },
+      { "hinshi": "【副詞】安定して・ぐらつかず", "note": "揺れずにしっかりと。hold something steadily（しっかり持つ）" }
+    ],
+    "usages": [
+      { "title": "① 着実に進む", "desc": "一定のペース", "example_en": "Sales rose steadily over the year.", "example_ja": "売上はその年を通して着実に伸びた。" },
+      { "title": "② 絶えず続く", "desc": "途切れなく", "example_en": "It rained steadily all day.", "example_ja": "一日中絶え間なく雨が降った。" }
+    ],
+    "warn": ["rise/grow/increase steadily（着実に増える）が頻出。steady（着実な・安定した・恋人が定まった）の副詞形"],
+    "etym_note": "steady（安定した・着実な。stead「場所・立場」より）に -ly が付いた副詞。stead・instead と同語源。",
+    "etym_chain": [
+      { "node": "stede", "sub": "場所・立場", "era": "古英語" },
+      { "node": "steady", "sub": "安定した・着実な", "era": "中英語" },
+      { "node": "steadily", "sub": "着実に", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rise steadily", "ja": "着実に上昇する" },
+      { "en": "grow steadily", "ja": "着実に成長する" },
+      { "en": "increase steadily", "ja": "着実に増える" },
+      { "en": "work steadily", "ja": "着実に働く" },
+      { "en": "rain steadily", "ja": "絶えず雨が降る" },
+      { "en": "improve steadily", "ja": "着実に改善する" }
+    ],
+    "related": [
+      { "en": "steady", "ja": "着実な・安定した" },
+      { "en": "consistently", "ja": "一貫して" },
+      { "en": "gradually", "ja": "徐々に" },
+      { "en": "constantly", "ja": "絶えず" }
+    ],
+    "faq": [
+      { "q": "steadily と gradually の違いは？", "a": "どちらも変化を表しますが、steadily は『一定のペースで着実に・途切れなく』、gradually は『徐々に・少しずつ』です。steadily は安定した継続、gradually はゆっくりした変化を強調します。多くの場面で近い意味です。" },
+      { "q": "どんな動詞と使いますか？", "a": "rise（上がる）、grow（成長する）、increase（増える）、improve（改善する）、decline（減る）など、変化を表す動詞とよく使います。また rain steadily（絶え間なく雨が降る）のように継続も表します。" }
+    ],
+    "quiz": [
+      { "q": "steadily の意味は？", "A": "着実に・絶えず・安定して", "B": "急に・突然に", "C": "偶然に", "D": "まれに", "correct": "A" },
+      { "q": "rise steadily の意味は？", "A": "着実に上昇する", "B": "急落する", "C": "止まる", "D": "変わらない", "correct": "A" }
+    ]
+  },
+  {
+    "english": "steamship",
+    "pron": "ˈstiːmʃɪp",
+    "kana": "スチームシップ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "steam（蒸気）+ ship（船）",
+    "ld_level": "1級",
+    "badges": ["中学生〜", "英検1級", "CEFR B2", "歴史"],
+    "meaning_main": "蒸気船・汽船",
+    "description": "steamship（スチームシップ）は「蒸気船・汽船」。蒸気機関を動力として進む船です。19世紀に帆船に代わって普及し、大洋横断を大きく変えました。意味・使い方・例文を解説します。",
+    "keywords": ["steamship 意味", "蒸気船", "汽船", "steamer"],
+    "meanings": [
+      { "hinshi": "【名詞】蒸気船・汽船", "note": "蒸気機関を動力に進む船。19世紀に普及。steamer とも。可算" }
+    ],
+    "usages": [
+      { "title": "① 蒸気で進む船", "desc": "汽船", "example_en": "They crossed the Atlantic by steamship.", "example_ja": "彼らは蒸気船で大西洋を横断した。" },
+      { "title": "② 歴史的な意義", "desc": "帆船に代わる", "example_en": "Steamships replaced sailing ships in the 1800s.", "example_ja": "蒸気船は1800年代に帆船に取って代わった。" }
+    ],
+    "warn": ["steamer（汽船）とも言う。sailing ship（帆船）に代わり、後に motor ship（ディーゼル船）へ移行した。SS は steamship の略号"],
+    "etym_note": "steam（蒸気）+ ship（船）を合わせた語。蒸気機関を動力とする船を指す。",
+    "etym_chain": [
+      { "node": "steam + ship", "sub": "蒸気の船", "era": "19世紀" },
+      { "node": "steamship", "sub": "蒸気船", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a transatlantic steamship", "ja": "大西洋横断の蒸気船" },
+      { "en": "board a steamship", "ja": "蒸気船に乗る" },
+      { "en": "a passenger steamship", "ja": "客船（蒸気船）" },
+      { "en": "the age of steamships", "ja": "蒸気船の時代" },
+      { "en": "a steamship line", "ja": "汽船会社・航路" },
+      { "en": "cross by steamship", "ja": "蒸気船で渡る" }
+    ],
+    "related": [
+      { "en": "steamer", "ja": "汽船" },
+      { "en": "steam", "ja": "蒸気" },
+      { "en": "sailing ship", "ja": "帆船" },
+      { "en": "vessel", "ja": "船舶" }
+    ],
+    "faq": [
+      { "q": "steamship とは何ですか？", "a": "蒸気機関を動力として進む船（蒸気船・汽船）です。石炭などを燃やして蒸気を作り、その力で外輪やスクリューを回して進みます。19世紀に帆船に代わって普及し、人や物の大洋横断を大きく変えました。" },
+      { "q": "steamer との違いは？", "a": "ほぼ同じで、どちらも『蒸気船・汽船』を指します。steamer のほうが口語的でよく使われました。SS（例: SS Titanic）は steamship の略号です。" }
+    ],
+    "quiz": [
+      { "q": "steamship の意味は？", "A": "蒸気船・汽船", "B": "帆船", "C": "潜水艦", "D": "ヨット", "correct": "A" },
+      { "q": "steamship の動力は？", "A": "蒸気機関", "B": "風（帆）", "C": "手こぎ", "D": "原子力", "correct": "A" }
+    ]
+  },
+  {
+    "english": "stefanie",
+    "pron": "ˈstɛfəni",
+    "kana": "ステファニー",
+    "hinshi": "名詞（固有名詞・人名）",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 Stephanos（冠）由来の女性形",
+    "ld_level": "-",
+    "badges": ["人名", "固有名詞", "参考", "ヨーロッパ"],
+    "meaning_main": "ステファニー（女性の名前）",
+    "description": "Stefanie（ステファニー）は英単語ではなく、女性の名前（ファーストネーム）です。ギリシャ語 Stephanos（冠）に由来し、男性名 Stephen の女性形です。参考として由来を解説します。",
+    "keywords": ["stefanie 意味", "ステファニー 名前", "女性名", "Stephanie"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ステファニー（女性の名前）", "note": "英単語ではなく、ヨーロッパで使われる女性のファーストネーム。ギリシャ語 Stephanos（冠）に由来。Stephanie とも綴る。文中では大文字" }
+    ],
+    "usages": [
+      { "title": "① 人名として", "desc": "女性の名前", "example_en": "Stefanie is a common German spelling of Stephanie.", "example_ja": "Stefanie は Stephanie のドイツ語式の綴りだ。" },
+      { "title": "② 英単語ではない", "desc": "参考情報", "example_en": "Stefanie is a first name, not an English word.", "example_ja": "Stefanie は英単語ではなく人名だ。" }
+    ],
+    "warn": ["これは英単語ではなく、女性のファーストネーム。検索ログに現れたため参考として掲載。英語では Stephanie が一般的な綴り"],
+    "etym_note": "ギリシャ語 Stephanos（冠・花輪）に由来する男性名 Stephen/Stephan の女性形。Stefanie はドイツ語式、Stephanie は英語式の綴り。",
+    "etym_chain": [
+      { "node": "Stephanos", "sub": "冠・花輪", "era": "ギリシャ語" },
+      { "node": "Stephan", "sub": "ステファン（男性名）", "era": "ラテン語" },
+      { "node": "Stefanie", "sub": "ステファニー（女性名）", "era": "現代" }
+    ],
+    "phrases": [
+      { "en": "her name is Stefanie", "ja": "彼女の名前はステファニー" },
+      { "en": "meet Stefanie", "ja": "ステファニーに会う" },
+      { "en": "the name Stefanie", "ja": "ステファニーという名前" },
+      { "en": "Stefanie's family", "ja": "ステファニーの家族" },
+      { "en": "a girl named Stefanie", "ja": "ステファニーという名の少女" },
+      { "en": "spelled Stephanie", "ja": "Stephanie とも綴る" }
+    ],
+    "related": [
+      { "en": "stephen", "ja": "スティーブン（男性名）" },
+      { "en": "name", "ja": "名前" },
+      { "en": "given name", "ja": "ファーストネーム" },
+      { "en": "crown", "ja": "冠" }
+    ],
+    "faq": [
+      { "q": "stefanie は英単語ですか？", "a": "いいえ、英単語ではありません。女性のファーストネーム（名前）です。ギリシャ語 Stephanos（冠）に由来し、男性名 Stephen の女性形です。Stefanie はドイツ語式、Stephanie は英語式の綴りです。検索ログに現れたため参考として掲載しています。" },
+      { "q": "名前の意味は？", "a": "由来のギリシャ語 Stephanos は『冠・花輪』を意味します。勝利者に授けられる冠にちなむ名で、男性名 Stephen（スティーブン）と同語源です。" }
+    ],
+    "quiz": [
+      { "q": "stefanie は何ですか？", "A": "女性のファーストネーム（名前）", "B": "英語の動詞", "C": "英語の形容詞", "D": "化学用語", "correct": "A" },
+      { "q": "Stefanie のもとになったギリシャ語の意味は？", "A": "冠・花輪（Stephanos）", "B": "海", "C": "光", "D": "知恵", "correct": "A" }
+    ]
+  },
+  {
+    "english": "step-by-step",
+    "pron": "ˌstɛpbaɪˈstɛp",
+    "kana": "ステップバイステップ",
+    "hinshi": "形容詞 / 副詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "step（段階）by step（段階ごとに）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出"],
+    "meaning_main": "段階を追った・一歩ずつの・順を追って",
+    "description": "step-by-step（ステップバイステップ）は「段階を追った・一歩ずつの」。物事を順序立てて一つずつ進める様子を表す語です。step-by-step guide（手順ガイド）などで頻出します。意味・使い方を解説します。",
+    "keywords": ["step-by-step 意味", "段階を追った", "一歩ずつ", "手順"],
+    "meanings": [
+      { "hinshi": "【形容詞】段階を追った・一歩ずつの", "note": "順序立てて一つずつ進める。a step-by-step guide（手順を追った案内）" },
+      { "hinshi": "【副詞】一歩ずつ・順を追って", "note": "step by step（ハイフンなし）で副詞的に。進めていく様子" }
+    ],
+    "usages": [
+      { "title": "① 手順ガイド", "desc": "段階ごとの説明", "example_en": "Follow the step-by-step instructions.", "example_ja": "段階を追った説明に従って。" },
+      { "title": "② 一歩ずつ進む", "desc": "副詞的に", "example_en": "We solved the problem step by step.", "example_ja": "私たちは問題を一歩ずつ解決した。" }
+    ],
+    "warn": ["形容詞は step-by-step（ハイフンあり）で名詞を修飾、副詞は step by step（ハイフンなし）が一般的。gradual（徐々の）と近い"],
+    "etym_note": "step（一歩・段階）を by（〜ごとに）でつないだ表現。『一段ずつ』の意。",
+    "etym_chain": [
+      { "node": "step by step", "sub": "一歩ずつ", "era": "近代英語" },
+      { "node": "step-by-step", "sub": "段階を追った", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a step-by-step guide", "ja": "手順ガイド" },
+      { "en": "step-by-step instructions", "ja": "段階を追った説明" },
+      { "en": "a step-by-step approach", "ja": "段階的な取り組み" },
+      { "en": "step by step", "ja": "一歩ずつ" },
+      { "en": "a step-by-step process", "ja": "順を追った過程" },
+      { "en": "explain step by step", "ja": "順を追って説明する" }
+    ],
+    "related": [
+      { "en": "gradual", "ja": "徐々の・段階的な" },
+      { "en": "systematic", "ja": "体系的な" },
+      { "en": "sequential", "ja": "連続した・順を追った" },
+      { "en": "phase", "ja": "段階・局面" }
+    ],
+    "faq": [
+      { "q": "step-by-step guide とは何ですか？", "a": "「手順を一つずつ追って説明した案内」のことです。作業や操作を、順番に区切って分かりやすく説明したものを指します。料理のレシピや機器の使い方の説明などによく使われます。" },
+      { "q": "ハイフンは必要ですか？", "a": "名詞を前から修飾する形容詞のときはハイフンを付けて step-by-step（a step-by-step guide）、副詞として『一歩ずつ』の意味で使うときはハイフンなしの step by step が一般的です。" }
+    ],
+    "quiz": [
+      { "q": "step-by-step の意味は？", "A": "段階を追った・一歩ずつの", "B": "一気に・まとめて", "C": "偶然に", "D": "逆順に", "correct": "A" },
+      { "q": "a step-by-step guide の意味は？", "A": "手順を追った案内", "B": "地図", "C": "辞書", "D": "写真集", "correct": "A" }
+    ]
+  }
+]
