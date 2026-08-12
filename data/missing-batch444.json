@@ -1,0 +1,989 @@
+[
+  {
+    "english": "slacker",
+    "pron": "ˈslækər",
+    "kana": "スラッカー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "slack（緩んだ・怠ける）+ -er",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "口語"],
+    "meaning_main": "怠け者・なまけ者（口語）",
+    "description": "slacker（スラッカー）は「怠け者・なまけ者」を表す口語です。やるべきことを怠り、努力を避ける人を指します。動詞は slack off（さぼる）。意味・使い方・例文を解説します。",
+    "keywords": ["slacker 意味", "怠け者", "なまけ者", "slack off"],
+    "meanings": [
+      { "hinshi": "【名詞】怠け者・なまけ者", "note": "やるべきことを怠り努力を避ける人。主に米の口語。可算" }
+    ],
+    "usages": [
+      { "title": "① 努力を避ける人", "desc": "怠け者", "example_en": "Don't be a slacker; finish your work.", "example_ja": "怠けずに仕事を終わらせなさい。" },
+      { "title": "② slack off", "desc": "「さぼる」", "example_en": "He tends to slack off on Fridays.", "example_ja": "彼は金曜になるとさぼりがちだ。" }
+    ],
+    "warn": ["主にアメリカの口語。イギリスでは skiver（怠け者）が近い。動詞句 slack off で『（努力を）緩める・さぼる』"],
+    "etym_note": "slack（緩んだ・たるんだ。古英語 slæc より）から派生した『怠ける』の意の slack に -er が付いた語。",
+    "etym_chain": [
+      { "node": "slæc", "sub": "緩んだ", "era": "古英語" },
+      { "node": "slack", "sub": "緩む・怠ける", "era": "中英語" },
+      { "node": "slacker", "sub": "怠け者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a lazy slacker", "ja": "怠惰ななまけ者" },
+      { "en": "call someone a slacker", "ja": "〜を怠け者呼ばわりする" },
+      { "en": "slack off", "ja": "さぼる・緩める" },
+      { "en": "a workplace slacker", "ja": "職場の怠け者" },
+      { "en": "don't be a slacker", "ja": "怠けるな" },
+      { "en": "a student slacker", "ja": "怠け者の学生" }
+    ],
+    "related": [
+      { "en": "slack", "ja": "緩んだ・怠ける" },
+      { "en": "skiver", "ja": "怠け者（英）" },
+      { "en": "loafer", "ja": "のらくら者" },
+      { "en": "hard worker", "ja": "働き者（反対）" }
+    ],
+    "faq": [
+      { "q": "slacker と skiver の違いは？", "a": "どちらも『怠け者』ですが、slacker は主にアメリカ英語、skiver は主にイギリス英語です。slacker は『努力を避ける人』全般、skiver は特に『仕事・学校をさぼる人』を指す傾向があります。" },
+      { "q": "slack off とは？", "a": "「（努力・ペースを）緩める・さぼる」という意味の動詞句です。Don't slack off now.（今さぼらないで）のように使います。slacker はこの slack から派生した語です。" }
+    ],
+    "quiz": [
+      { "q": "slacker の意味は？", "A": "怠け者・なまけ者", "B": "働き者", "C": "指導者", "D": "案内人", "correct": "A" },
+      { "q": "slack off の意味は？", "A": "さぼる・緩める", "B": "頑張る", "C": "急ぐ", "D": "始める", "correct": "A" }
+    ]
+  },
+  {
+    "english": "slanted",
+    "pron": "ˈslæntɪd",
+    "kana": "スランテッド",
+    "hinshi": "動詞（slant の過去・過去分詞）/ 形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "slant（傾く）+ -ed",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "頻出"],
+    "meaning_main": "傾いた・斜めの／（報道が）偏った・偏向した",
+    "description": "slanted（スランテッド）は「傾いた・斜めの」、また比喩的に「（報道・見方が）偏った・偏向した」。物理的な傾きと、一方に偏った立場の両方を表します。意味・使い方を解説します。",
+    "keywords": ["slanted 意味", "傾いた", "斜めの", "偏った"],
+    "meanings": [
+      { "hinshi": "【形容詞】傾いた・斜めの", "note": "まっすぐでなく傾いている。slanted roof（傾斜した屋根）" },
+      { "hinshi": "【形容詞】偏った・偏向した", "note": "一方に有利なように偏っている。slanted news（偏った報道）" }
+    ],
+    "usages": [
+      { "title": "① 斜めの", "desc": "物理的な傾き", "example_en": "The handwriting was slanted to the right.", "example_ja": "その筆跡は右に傾いていた。" },
+      { "title": "② 偏った報道", "desc": "偏向", "example_en": "The article gave a slanted view of events.", "example_ja": "その記事は出来事を偏った見方で伝えた。" }
+    ],
+    "warn": ["比喩の『偏った』は否定的。biased（偏見のある）と近い。動詞 slant は『傾ける』のほか『（情報を）偏らせて伝える』"],
+    "etym_note": "slant（傾く・斜めにする。北欧語由来）に -ed が付いた語。『傾き』が比喩的に『偏り』へ発展した。",
+    "etym_chain": [
+      { "node": "slenten", "sub": "滑る・傾く", "era": "中英語" },
+      { "node": "slant", "sub": "傾く・偏らせる", "era": "近代英語" },
+      { "node": "slanted", "sub": "傾いた・偏った", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a slanted roof", "ja": "傾斜した屋根" },
+      { "en": "slanted handwriting", "ja": "斜めの筆跡" },
+      { "en": "slanted news", "ja": "偏った報道" },
+      { "en": "a slanted view", "ja": "偏った見方" },
+      { "en": "politically slanted", "ja": "政治的に偏った" },
+      { "en": "slanted coverage", "ja": "偏向報道" }
+    ],
+    "related": [
+      { "en": "slant", "ja": "傾き・傾ける" },
+      { "en": "tilted", "ja": "傾いた" },
+      { "en": "biased", "ja": "偏見のある" },
+      { "en": "slanting", "ja": "傾いている" }
+    ],
+    "faq": [
+      { "q": "slanted の2つの意味は？", "a": "1つは物理的に『傾いた・斜めの』、もう1つは比喩的に『（報道・見方が）偏った・偏向した』です。後者は否定的な評価で、biased（偏見のある）に近い意味です。" },
+      { "q": "slanted と tilted の違いは？", "a": "どちらも『傾いた』ですが、tilted は『（一方に）傾いた』一般、slanted は『斜めに傾いた・斜線状の』というニュアンスがあります。比喩の『偏った』の意味は slanted によく使われます。" }
+    ],
+    "quiz": [
+      { "q": "slanted の意味は？", "A": "傾いた・斜めの／偏った", "B": "まっすぐな・公平な", "C": "透明な", "D": "重い", "correct": "A" },
+      { "q": "slanted news の意味は？", "A": "偏った報道", "B": "速報", "C": "天気予報", "D": "スポーツニュース", "correct": "A" }
+    ]
+  },
+  {
+    "english": "slaughterhouse",
+    "pron": "ˈslɔːtərhaʊs",
+    "kana": "スローターハウス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "slaughter（と殺）+ house（家・施設）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "頻出"],
+    "meaning_main": "と殺場・食肉処理場",
+    "description": "slaughterhouse（スローターハウス）は「と殺場・食肉処理場」。食用の家畜をと殺し、食肉に処理する施設です。abattoir（と殺場）とも言います。意味・使い方・例文を解説します。",
+    "keywords": ["slaughterhouse 意味", "と殺場", "食肉処理場", "abattoir"],
+    "meanings": [
+      { "hinshi": "【名詞】と殺場・食肉処理場", "note": "食用の家畜をと殺し食肉に処理する施設。abattoir とも。可算" }
+    ],
+    "usages": [
+      { "title": "① 食肉処理の施設", "desc": "家畜をと殺", "example_en": "The animals were taken to the slaughterhouse.", "example_ja": "その家畜はと殺場へ運ばれた。" },
+      { "title": "② 産業として", "desc": "食肉の生産", "example_en": "The slaughterhouse must meet hygiene standards.", "example_ja": "食肉処理場は衛生基準を満たさねばならない。" }
+    ],
+    "warn": ["slaughter（と殺・虐殺）+ house。abattoir（フランス語由来）も同義。比喩で『（多くの命が失われる）修羅場』の意味にもなる"],
+    "etym_note": "slaughter（と殺・虐殺。古ノルド語 slatr「食肉」より）+ house（施設）を合わせた語。",
+    "etym_chain": [
+      { "node": "slatr", "sub": "食肉", "era": "古ノルド語" },
+      { "node": "slaughter + house", "sub": "と殺の施設", "era": "近代英語" },
+      { "node": "slaughterhouse", "sub": "と殺場", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a modern slaughterhouse", "ja": "近代的な食肉処理場" },
+      { "en": "taken to the slaughterhouse", "ja": "と殺場へ運ばれて" },
+      { "en": "a slaughterhouse worker", "ja": "食肉処理場の労働者" },
+      { "en": "slaughterhouse standards", "ja": "と殺場の基準" },
+      { "en": "like a slaughterhouse", "ja": "修羅場のような" },
+      { "en": "close the slaughterhouse", "ja": "と殺場を閉鎖する" }
+    ],
+    "related": [
+      { "en": "slaughter", "ja": "と殺・虐殺" },
+      { "en": "abattoir", "ja": "と殺場" },
+      { "en": "butcher", "ja": "肉屋・食肉処理する人" },
+      { "en": "livestock", "ja": "家畜" }
+    ],
+    "faq": [
+      { "q": "slaughterhouse と abattoir の違いは？", "a": "どちらも『と殺場・食肉処理場』を指します。slaughterhouse は英語本来の語、abattoir はフランス語由来の語で、意味は同じです。どちらも家畜を食肉に処理する施設を表します。" },
+      { "q": "比喩的な意味もありますか？", "a": "はい。多くの命が失われる悲惨な場所や、混乱・惨状を『slaughterhouse（修羅場）』のようだと比喩的に表現することがあります。" }
+    ],
+    "quiz": [
+      { "q": "slaughterhouse の意味は？", "A": "と殺場・食肉処理場", "B": "農場", "C": "動物園", "D": "ペットショップ", "correct": "A" },
+      { "q": "slaughterhouse と同義の語は？", "A": "abattoir", "B": "aquarium", "C": "bakery", "D": "library", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sledgehammer",
+    "pron": "ˈslɛdʒhæmər",
+    "kana": "スレッジハンマー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 slecg（大槌）+ hammer（ハンマー）",
+    "ld_level": "1級",
+    "badges": ["中学生〜", "英検1級", "CEFR B2", "道具"],
+    "meaning_main": "大ハンマー・大槌（両手で振るう重いハンマー）",
+    "description": "sledgehammer（スレッジハンマー）は「大ハンマー・大槌」。両手で振るう重くて大きなハンマーで、壁を壊したり杭を打ったりするのに使います。比喩で『強引な手段』も表します。意味を解説します。",
+    "keywords": ["sledgehammer 意味", "大ハンマー", "大槌", "sledgehammer 使い方"],
+    "meanings": [
+      { "hinshi": "【名詞】大ハンマー・大槌", "note": "両手で振るう重くて大きなハンマー。破壊や杭打ちに使う。可算" }
+    ],
+    "usages": [
+      { "title": "① 破壊・杭打ち", "desc": "重い工具", "example_en": "He broke the wall with a sledgehammer.", "example_ja": "彼は大ハンマーで壁を壊した。" },
+      { "title": "② 比喩的に強引な手段", "desc": "大げさな対応", "example_en": "Using a lawsuit was like using a sledgehammer.", "example_ja": "訴訟を使うのは、大げさすぎる対応のようだった。" }
+    ],
+    "warn": ["take a sledgehammer to〜は『〜を（力ずくで）ぶち壊す・過剰に攻撃する』の慣用。sledge は『大槌』の意"],
+    "etym_note": "古英語 slecg（大槌。slēan「打つ」より）+ hammer（ハンマー）を合わせた語。sledge 自体が『大槌』を意味した。",
+    "etym_chain": [
+      { "node": "slecg", "sub": "大槌", "era": "古英語" },
+      { "node": "sledge + hammer", "sub": "大槌のハンマー", "era": "中英語" },
+      { "node": "sledgehammer", "sub": "大ハンマー", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "swing a sledgehammer", "ja": "大ハンマーを振るう" },
+      { "en": "a heavy sledgehammer", "ja": "重い大槌" },
+      { "en": "break with a sledgehammer", "ja": "大ハンマーで壊す" },
+      { "en": "take a sledgehammer to", "ja": "〜をぶち壊す" },
+      { "en": "a sledgehammer blow", "ja": "強烈な一撃" },
+      { "en": "a sledgehammer approach", "ja": "強引な手法" }
+    ],
+    "related": [
+      { "en": "hammer", "ja": "ハンマー" },
+      { "en": "mallet", "ja": "木槌" },
+      { "en": "tool", "ja": "工具" },
+      { "en": "smash", "ja": "打ち砕く" }
+    ],
+    "faq": [
+      { "q": "sledgehammer とは何ですか？", "a": "両手で振るう重くて大きなハンマー（大槌）です。長い柄と重い頭を持ち、コンクリートや壁を壊したり、杭を打ち込んだりする力仕事に使います。" },
+      { "q": "比喩的な意味は？", "a": "『強引で大げさな手段』を表します。use a sledgehammer to crack a nut（クルミを割るのに大ハンマーを使う＝ささいなことに過剰な手段を用いる）という慣用句が有名です。" }
+    ],
+    "quiz": [
+      { "q": "sledgehammer の意味は？", "A": "大ハンマー・大槌", "B": "小さなくぎ", "C": "ドライバー", "D": "はさみ", "correct": "A" },
+      { "q": "sledgehammer の使い道は？", "A": "壁を壊す・杭を打つ", "B": "紙を切る", "C": "料理する", "D": "字を書く", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sleepily",
+    "pron": "ˈsliːpɪli",
+    "kana": "スリーピリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "sleepy（眠い）+ -ly",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出"],
+    "meaning_main": "眠そうに・眠たげに",
+    "description": "sleepily（スリーピリー）は「眠そうに・眠たげに」。眠くてぼんやりした様子で何かをするさまを表す副詞です。sleepy（眠い）の副詞形です。意味・使い方・例文をわかりやすく解説します。",
+    "keywords": ["sleepily 意味", "眠そうに", "眠たげに", "sleepy"],
+    "meanings": [
+      { "hinshi": "【副詞】眠そうに・眠たげに", "note": "眠くてぼんやりした様子で。yawn sleepily（眠そうにあくびする）" }
+    ],
+    "usages": [
+      { "title": "① 眠そうな様子", "desc": "ぼんやり", "example_en": "She yawned sleepily and stretched.", "example_ja": "彼女は眠そうにあくびをして伸びをした。" },
+      { "title": "② 眠たげな動作", "desc": "ぼんやり動く", "example_en": "He replied sleepily.", "example_ja": "彼は眠たげに返事をした。" }
+    ],
+    "warn": ["sleepy（眠い・眠そうな）の副詞形。動作が眠そう・気だるげであることを表す。drowsily（うとうとして）とも近い"],
+    "etym_note": "sleep（眠り。古英語 slǣp より）由来の sleepy に -ly が付いた副詞。",
+    "etym_chain": [
+      { "node": "slǣp", "sub": "眠り", "era": "古英語" },
+      { "node": "sleepy", "sub": "眠い", "era": "中英語" },
+      { "node": "sleepily", "sub": "眠そうに", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "yawn sleepily", "ja": "眠そうにあくびする" },
+      { "en": "blink sleepily", "ja": "眠たげにまばたきする" },
+      { "en": "smile sleepily", "ja": "眠そうにほほ笑む" },
+      { "en": "mumble sleepily", "ja": "眠たげにつぶやく" },
+      { "en": "answer sleepily", "ja": "眠そうに答える" },
+      { "en": "stretch sleepily", "ja": "眠たげに伸びをする" }
+    ],
+    "related": [
+      { "en": "sleepy", "ja": "眠い・眠そうな" },
+      { "en": "drowsily", "ja": "うとうとして" },
+      { "en": "wearily", "ja": "疲れて・気だるげに" },
+      { "en": "alertly", "ja": "はっきりと・機敏に（反対）" }
+    ],
+    "faq": [
+      { "q": "sleepily と drowsily の違いは？", "a": "どちらも『眠そうに』ですが、sleepily は『眠くてぼんやりした様子で』全般、drowsily は『うとうと・とろとろと眠りに落ちそうに』というニュアンスが強めです。多くの場面で近い意味です。" },
+      { "q": "どんな動詞と使いますか？", "a": "yawn（あくびする）、blink（まばたきする）、smile（ほほ笑む）、mumble（つぶやく）、answer（答える）など、眠そうに行う動作を表す動詞とよく結びつきます。" }
+    ],
+    "quiz": [
+      { "q": "sleepily の意味は？", "A": "眠そうに・眠たげに", "B": "元気よく", "C": "急いで", "D": "怒って", "correct": "A" },
+      { "q": "sleepily のもとの形容詞は？", "A": "sleepy", "B": "sleepless", "C": "asleep", "D": "sleeping", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sleeplessness",
+    "pron": "ˈsliːpləsnəs",
+    "kana": "スリープレスネス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "sleepless（眠れない）+ -ness",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "医学"],
+    "meaning_main": "不眠・眠れないこと",
+    "description": "sleeplessness（スリープレスネス）は「不眠・眠れないこと」。夜に眠りにつけない、または十分に眠れない状態を表す語です。insomnia（不眠症）とも近い語です。意味・使い方を解説します。",
+    "keywords": ["sleeplessness 意味", "不眠", "眠れない", "insomnia"],
+    "meanings": [
+      { "hinshi": "【名詞】不眠・眠れないこと", "note": "眠りにつけない、または十分に眠れない状態。不可算。医学的には insomnia（不眠症）" }
+    ],
+    "usages": [
+      { "title": "① 眠れない状態", "desc": "夜の不眠", "example_en": "Stress can cause sleeplessness.", "example_ja": "ストレスは不眠を引き起こしうる。" },
+      { "title": "② 症状として", "desc": "健康の話で", "example_en": "She suffered from nights of sleeplessness.", "example_ja": "彼女は幾晩もの不眠に苦しんだ。" }
+    ],
+    "warn": ["insomnia（不眠症）は医学用語、sleeplessness はより一般的な『眠れないこと』。反対は good sleep（快眠）"],
+    "etym_note": "sleep（眠り）由来の sleepless（眠れない）に -ness が付いた語。-less（〜のない）+ -ness（性質・状態）。",
+    "etym_chain": [
+      { "node": "slǣp", "sub": "眠り", "era": "古英語" },
+      { "node": "sleepless", "sub": "眠れない", "era": "中英語" },
+      { "node": "sleeplessness", "sub": "不眠", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "cause sleeplessness", "ja": "不眠を引き起こす" },
+      { "en": "nights of sleeplessness", "ja": "幾晩もの不眠" },
+      { "en": "suffer from sleeplessness", "ja": "不眠に苦しむ" },
+      { "en": "chronic sleeplessness", "ja": "慢性的な不眠" },
+      { "en": "sleeplessness and anxiety", "ja": "不眠と不安" },
+      { "en": "relieve sleeplessness", "ja": "不眠を和らげる" }
+    ],
+    "related": [
+      { "en": "sleepless", "ja": "眠れない" },
+      { "en": "insomnia", "ja": "不眠症" },
+      { "en": "fatigue", "ja": "疲労" },
+      { "en": "rest", "ja": "休息" }
+    ],
+    "faq": [
+      { "q": "sleeplessness と insomnia の違いは？", "a": "どちらも『眠れないこと』を指しますが、insomnia は医学的な『不眠症』という診断名、sleeplessness はより一般的・日常的な『眠れない状態』を表す語です。意味は近く重なります。" },
+      { "q": "原因には何がありますか？", "a": "ストレス・不安・カフェイン・不規則な生活・痛みや病気などが sleeplessness（不眠）の原因になりえます。長く続く場合は医療機関への相談が勧められます。" }
+    ],
+    "quiz": [
+      { "q": "sleeplessness の意味は？", "A": "不眠・眠れないこと", "B": "熟睡", "C": "居眠り", "D": "夢", "correct": "A" },
+      { "q": "sleeplessness の医学用語は？", "A": "insomnia", "B": "amnesia", "C": "anemia", "D": "asthma", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sleepwalk",
+    "pron": "ˈsliːpwɔːk",
+    "kana": "スリープウォーク",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "sleep（眠り）+ walk（歩く）",
+    "ld_level": "1級",
+    "badges": ["中学生〜", "英検1級", "CEFR B2", "医学"],
+    "meaning_main": "夢遊病で歩く・眠ったまま歩き回る",
+    "description": "sleepwalk（スリープウォーク）は「夢遊病で歩く・眠ったまま歩き回る」。眠っている間に起き上がって歩くなどの行動をとることです。名詞は sleepwalking（夢遊病）。意味・使い方を解説します。",
+    "keywords": ["sleepwalk 意味", "夢遊病", "眠ったまま歩く", "sleepwalking"],
+    "meanings": [
+      { "hinshi": "【動詞】夢遊病で歩く・眠ったまま歩き回る", "note": "眠っている間に起き上がって歩くなどの行動をとる。名詞・現在分詞は sleepwalking" }
+    ],
+    "usages": [
+      { "title": "① 眠ったまま歩く", "desc": "夢遊病", "example_en": "As a child, he used to sleepwalk.", "example_ja": "子どものころ、彼はよく夢遊病で歩いた。" },
+      { "title": "② 比喩的に", "desc": "無自覚に進む", "example_en": "The country seemed to sleepwalk into a crisis.", "example_ja": "その国は無自覚に危機へ進んでいくようだった。" }
+    ],
+    "warn": ["夢遊病をする人は sleepwalker、症状は sleepwalking（医学では somnambulism）。比喩で『無自覚のまま進む』の意味も"],
+    "etym_note": "sleep（眠り）+ walk（歩く）を合わせた語。文字どおり『眠りながら歩く』。医学用語は somnambulism。",
+    "etym_chain": [
+      { "node": "sleep + walk", "sub": "眠って歩く", "era": "近代英語" },
+      { "node": "sleepwalk", "sub": "夢遊病で歩く", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "sleepwalk at night", "ja": "夜に夢遊病で歩く" },
+      { "en": "used to sleepwalk", "ja": "よく夢遊病で歩いた" },
+      { "en": "sleepwalk into", "ja": "無自覚に〜へ進む" },
+      { "en": "a child who sleepwalks", "ja": "夢遊病の子ども" },
+      { "en": "start to sleepwalk", "ja": "夢遊病で歩き始める" },
+      { "en": "sleepwalk through life", "ja": "漫然と生きる" }
+    ],
+    "related": [
+      { "en": "sleepwalking", "ja": "夢遊病" },
+      { "en": "sleepwalker", "ja": "夢遊病者" },
+      { "en": "somnambulism", "ja": "夢遊病（医学用語）" },
+      { "en": "sleep", "ja": "眠り" }
+    ],
+    "faq": [
+      { "q": "sleepwalk とはどういう状態ですか？", "a": "眠っている間に起き上がり、歩いたり物を動かしたりする行動をとることです。本人は目覚めておらず、翌朝そのことを覚えていないことが多い睡眠時の現象です。医学では somnambulism と呼びます。" },
+      { "q": "比喩的な意味もありますか？", "a": "はい。sleepwalk into a disaster（無自覚のまま災難に突き進む）のように、『危険に気づかず漫然と進んでいく』という比喩でも使われます。" }
+    ],
+    "quiz": [
+      { "q": "sleepwalk の意味は？", "A": "夢遊病で歩く・眠ったまま歩き回る", "B": "早足で歩く", "C": "走る", "D": "泳ぐ", "correct": "A" },
+      { "q": "夢遊病をする人は？", "A": "sleepwalker", "B": "sleeper only", "C": "sleepwalking", "D": "sleepy", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sleepwalking",
+    "pron": "ˈsliːpwɔːkɪŋ",
+    "kana": "スリープウォーキング",
+    "hinshi": "名詞 / 動詞（sleepwalk の現在分詞）",
+    "ld_pos": "名詞",
+    "ld_etym": "sleepwalk（夢遊病で歩く）+ -ing",
+    "ld_level": "1級",
+    "badges": ["中学生〜", "英検1級", "CEFR B2", "医学"],
+    "meaning_main": "夢遊病（眠ったまま歩き回る症状）",
+    "description": "sleepwalking（スリープウォーキング）は「夢遊病」。眠っている間に起き上がって歩くなどの行動をとる睡眠時の現象です。医学では somnambulism と呼びます。意味・特徴を解説します。",
+    "keywords": ["sleepwalking 意味", "夢遊病", "somnambulism", "睡眠"],
+    "meanings": [
+      { "hinshi": "【名詞】夢遊病", "note": "眠っている間に歩くなどの行動をとる睡眠時の現象。不可算。医学では somnambulism" },
+      { "hinshi": "【動詞】夢遊病で歩いている（sleepwalk の現在分詞）", "note": "進行形で" }
+    ],
+    "usages": [
+      { "title": "① 睡眠時の現象", "desc": "眠ったまま歩く", "example_en": "Sleepwalking is common in children.", "example_ja": "夢遊病は子どもによく見られる。" },
+      { "title": "② 症状の説明", "desc": "覚えていない", "example_en": "People usually don't remember sleepwalking.", "example_ja": "人はふつう夢遊病のことを覚えていない。" }
+    ],
+    "warn": ["医学用語は somnambulism。子どもに多く、多くは成長とともに治まる。無理に起こさず安全を確保するのがよいとされる"],
+    "etym_note": "sleepwalk（眠って歩く）の -ing 形が名詞化した語。医学のラテン語系用語 somnambulism（somnus「眠り」+ ambulare「歩く」）と同義。",
+    "etym_chain": [
+      { "node": "sleep + walk", "sub": "眠って歩く", "era": "近代英語" },
+      { "node": "sleepwalking", "sub": "夢遊病", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a history of sleepwalking", "ja": "夢遊病の既往" },
+      { "en": "sleepwalking episodes", "ja": "夢遊病の発作" },
+      { "en": "sleepwalking in children", "ja": "子どもの夢遊病" },
+      { "en": "prone to sleepwalking", "ja": "夢遊病を起こしやすい" },
+      { "en": "treat sleepwalking", "ja": "夢遊病を治療する" },
+      { "en": "during sleepwalking", "ja": "夢遊病の間に" }
+    ],
+    "related": [
+      { "en": "sleepwalk", "ja": "夢遊病で歩く" },
+      { "en": "sleepwalker", "ja": "夢遊病者" },
+      { "en": "somnambulism", "ja": "夢遊病（医学）" },
+      { "en": "insomnia", "ja": "不眠症" }
+    ],
+    "faq": [
+      { "q": "sleepwalking（夢遊病）とは何ですか？", "a": "眠っている間に起き上がって歩いたり物を動かしたりする睡眠時の現象です。本人は目覚めておらず、翌朝覚えていないことが多いです。特に子どもに多く見られます。" },
+      { "q": "夢遊病の人を起こしてもいいですか？", "a": "無理に起こすと混乱させることがあるため、一般には静かに安全な場所（ベッドなど）へ誘導するのがよいとされます。転倒やけがを防ぐため、周囲の安全を確保することが大切です。" }
+    ],
+    "quiz": [
+      { "q": "sleepwalking の意味は？", "A": "夢遊病", "B": "早起き", "C": "昼寝", "D": "いびき", "correct": "A" },
+      { "q": "sleepwalking の医学用語は？", "A": "somnambulism", "B": "insomnia", "C": "narcolepsy", "D": "apnea", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sleepwear",
+    "pron": "ˈsliːpwɛər",
+    "kana": "スリープウェア",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "sleep（眠り）+ wear（衣類）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "日常"],
+    "meaning_main": "寝間着・寝るときの衣類（パジャマなど）",
+    "description": "sleepwear（スリープウェア）は「寝間着・寝るときに着る衣類」。パジャマやナイトガウンなどをまとめて指す語です。不可算名詞として使います。意味・使い方・例文をわかりやすく解説します。",
+    "keywords": ["sleepwear 意味", "寝間着", "パジャマ", "ナイトウェア"],
+    "meanings": [
+      { "hinshi": "【名詞】寝間着・寝るときの衣類", "note": "パジャマ・ナイトガウンなど、寝るときに着る衣類の総称。不可算。nightwear とも" }
+    ],
+    "usages": [
+      { "title": "① 寝るときの服", "desc": "パジャマなど", "example_en": "She changed into her sleepwear.", "example_ja": "彼女は寝間着に着替えた。" },
+      { "title": "② 商品分類として", "desc": "衣料のカテゴリー", "example_en": "The store sells children's sleepwear.", "example_ja": "その店は子ども用の寝間着を売っている。" }
+    ],
+    "warn": ["不可算名詞（衣類の総称）なので a sleepwear とは言わない。nightwear（英）とも。pajamas（パジャマ）は具体的な種類"],
+    "etym_note": "sleep（眠り）+ wear（衣類。wear「身につける」より）を合わせた語。footwear・underwear と同じ -wear を含む。",
+    "etym_chain": [
+      { "node": "sleep + wear", "sub": "眠りの衣類", "era": "20世紀" },
+      { "node": "sleepwear", "sub": "寝間着", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "comfortable sleepwear", "ja": "着心地のよい寝間着" },
+      { "en": "children's sleepwear", "ja": "子ども用の寝間着" },
+      { "en": "cotton sleepwear", "ja": "綿の寝間着" },
+      { "en": "change into sleepwear", "ja": "寝間着に着替える" },
+      { "en": "warm sleepwear", "ja": "暖かい寝間着" },
+      { "en": "buy sleepwear", "ja": "寝間着を買う" }
+    ],
+    "related": [
+      { "en": "nightwear", "ja": "寝間着（英）" },
+      { "en": "pajamas", "ja": "パジャマ" },
+      { "en": "nightgown", "ja": "ナイトガウン" },
+      { "en": "loungewear", "ja": "部屋着" }
+    ],
+    "faq": [
+      { "q": "sleepwear と pajamas の違いは？", "a": "sleepwear は『寝るときに着る衣類の総称』で、パジャマ・ナイトガウンなどを含みます。pajamas（パジャマ）はその一種で、上下セットの寝間着を指す具体的な語です。" },
+      { "q": "sleepwear は数えられますか？", "a": "いいえ、不可算名詞です。衣類の総称なので a sleepwear とは言いません。数えるときは a piece of sleepwear や具体的に a pair of pajamas（パジャマ1着）のように表します。" }
+    ],
+    "quiz": [
+      { "q": "sleepwear の意味は？", "A": "寝間着・寝るときの衣類", "B": "運動着", "C": "水着", "D": "礼服", "correct": "A" },
+      { "q": "sleepwear に含まれるものは？", "A": "パジャマ", "B": "スーツ", "C": "コート", "D": "ネクタイ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "slickly",
+    "pron": "ˈslɪkli",
+    "kana": "スリックリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "slick（滑らかな・巧みな）+ -ly",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "上級"],
+    "meaning_main": "巧みに・そつなく・（時に）調子よく",
+    "description": "slickly（スリックリー）は「巧みに・そつなく・洗練されて」。手際よく滑らかに行う様子を表す語で、時に『口先だけで調子がよい』という含みも持ちます。意味・使い方を解説します。",
+    "keywords": ["slickly 意味", "巧みに", "そつなく", "slick"],
+    "meanings": [
+      { "hinshi": "【副詞】巧みに・そつなく・洗練されて", "note": "手際よく滑らかに。slickly produced（そつなく作られた）。時に『口先だけで調子がよい』という否定的な含みも" }
+    ],
+    "usages": [
+      { "title": "① 手際よく", "desc": "洗練された", "example_en": "The show was slickly produced.", "example_ja": "その番組はそつなく作られていた。" },
+      { "title": "② 調子よく（否定的にも）", "desc": "口先だけ", "example_en": "He answered slickly, avoiding the real issue.", "example_ja": "彼は本題を避けて調子よく答えた。" }
+    ],
+    "warn": ["slick は『滑らかな・巧みな・（時に）口先だけの』。肯定的（洗練された）にも否定的（調子がよすぎる）にも使う"],
+    "etym_note": "slick（滑らかな。古英語 slician「滑らかにする」より）に -ly が付いた語。sleek（つやのある）と同語源。",
+    "etym_chain": [
+      { "node": "slician", "sub": "滑らかにする", "era": "古英語" },
+      { "node": "slick", "sub": "滑らかな・巧みな", "era": "中英語" },
+      { "node": "slickly", "sub": "巧みに", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "slickly produced", "ja": "そつなく作られた" },
+      { "en": "slickly designed", "ja": "洗練された設計の" },
+      { "en": "answer slickly", "ja": "調子よく答える" },
+      { "en": "slickly packaged", "ja": "巧みに体裁を整えた" },
+      { "en": "slickly presented", "ja": "そつなく提示された" },
+      { "en": "run slickly", "ja": "滑らかに運ぶ" }
+    ],
+    "related": [
+      { "en": "slick", "ja": "滑らかな・巧みな" },
+      { "en": "smoothly", "ja": "滑らかに" },
+      { "en": "deftly", "ja": "巧みに" },
+      { "en": "glibly", "ja": "口達者に" }
+    ],
+    "faq": [
+      { "q": "slickly は良い意味ですか悪い意味ですか？", "a": "文脈次第です。『手際よく・洗練されて』という肯定的な意味にも、『口先だけで調子がよすぎる・上辺だけ』というやや否定的な意味にもなります。slickly produced は『そつなく作られた』とほめる使い方です。" },
+      { "q": "smoothly との違いは？", "a": "どちらも『滑らかに』ですが、slickly は『巧みで洗練された（時に上辺だけの）』という含みがあり、smoothly は『引っかかりなく順調に』という中立的な滑らかさを表します。" }
+    ],
+    "quiz": [
+      { "q": "slickly の意味は？", "A": "巧みに・そつなく・洗練されて", "B": "乱雑に", "C": "ゆっくりと", "D": "偶然に", "correct": "A" },
+      { "q": "slickly のもとの形容詞は？", "A": "slick", "B": "sleepy", "C": "slim", "D": "slow", "correct": "A" }
+    ]
+  },
+  {
+    "english": "slimy",
+    "pron": "ˈslaɪmi",
+    "kana": "スライミー",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "slime（粘液）+ -y",
+    "ld_level": "1級",
+    "badges": ["中学生〜", "英検1級", "CEFR B2", "頻出"],
+    "meaning_main": "ぬるぬるした・粘液で覆われた／（人が）こびへつらう・いやらしい",
+    "description": "slimy（スライミー）は「ぬるぬるした・粘液で覆われた」、また比喩的に「（人が）こびへつらう・信用できない」。触感と、いやらしい人柄の両方を表す語です。意味・使い方を解説します。",
+    "keywords": ["slimy 意味", "ぬるぬる", "こびへつらう", "slime"],
+    "meanings": [
+      { "hinshi": "【形容詞】ぬるぬるした・粘液で覆われた", "note": "slime（粘液）で覆われて滑る。a slimy frog（ぬるぬるしたカエル）" },
+      { "hinshi": "【形容詞】こびへつらう・いやらしい", "note": "気味悪くへつらい信用できない。a slimy salesman（うさんくさい営業）。否定的" }
+    ],
+    "usages": [
+      { "title": "① ぬるぬるした", "desc": "触感", "example_en": "The rocks were slimy with algae.", "example_ja": "岩は藻でぬるぬるしていた。" },
+      { "title": "② いやらしい人", "desc": "比喩的・否定的", "example_en": "He gave a slimy smile.", "example_ja": "彼は気味の悪い作り笑いを浮かべた。" }
+    ],
+    "warn": ["名詞は slime（粘液・ヘドロ）。比喩の『こびへつらう・うさんくさい』は強い否定。子どものおもちゃ『スライム』も slime"],
+    "etym_note": "slime（粘液・ぬめり。古英語 slīm より）に -y が付いた語。『粘液のような』から、比喩で『うさんくさい・いやらしい』へ広がった。",
+    "etym_chain": [
+      { "node": "slīm", "sub": "粘液", "era": "古英語" },
+      { "node": "slime", "sub": "粘液・ぬめり", "era": "中英語" },
+      { "node": "slimy", "sub": "ぬるぬるした・いやらしい", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "slimy with algae", "ja": "藻でぬるぬるした" },
+      { "en": "a slimy surface", "ja": "ぬるぬるした表面" },
+      { "en": "a slimy smile", "ja": "気味の悪い作り笑い" },
+      { "en": "a slimy character", "ja": "うさんくさい人物" },
+      { "en": "slimy and slippery", "ja": "ぬるぬるして滑る" },
+      { "en": "a slimy politician", "ja": "うさんくさい政治家" }
+    ],
+    "related": [
+      { "en": "slime", "ja": "粘液・ヘドロ" },
+      { "en": "slippery", "ja": "滑りやすい" },
+      { "en": "greasy", "ja": "脂ぎった" },
+      { "en": "sleazy", "ja": "いかがわしい" }
+    ],
+    "faq": [
+      { "q": "slimy の2つの意味は？", "a": "1つは物理的に『ぬるぬるした・粘液で覆われた』、もう1つは比喩的に『（人が）こびへつらう・うさんくさくて信用できない』です。後者は強い否定的な評価に使います。" },
+      { "q": "slimy と slippery の違いは？", "a": "slippery は『滑りやすい』、slimy は『粘液で覆われてぬるぬるした』です。slimy は不快な粘つき・ぬめりを伴い、比喩でも『いやらしい』という否定的な意味を持ちます。" }
+    ],
+    "quiz": [
+      { "q": "slimy の意味は？", "A": "ぬるぬるした／こびへつらう", "B": "乾いた・さらさらの", "C": "明るい", "D": "硬い", "correct": "A" },
+      { "q": "slimy の名詞形（粘液）は？", "A": "slime", "B": "slam", "C": "slum", "D": "slime のみ誤り", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sling",
+    "pron": "slɪŋ",
+    "kana": "スリング",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "中英語 slingen（投げる）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "頻出"],
+    "meaning_main": "投石器／（腕をつる）三角巾・つり包帯／ひもで吊るす",
+    "description": "sling（スリング）は「投石器」「腕をつる三角巾」「（赤ちゃんを抱く）スリング」など、吊るす・投げる道具を指します。動詞で「（勢いよく）投げる・吊るす」。意味・使い方を解説します。",
+    "keywords": ["sling 意味", "三角巾", "投石器", "スリング"],
+    "meanings": [
+      { "hinshi": "【名詞】（腕をつる）三角巾・つり包帯", "note": "けがした腕を首から吊って支える布。have one's arm in a sling" },
+      { "hinshi": "【名詞】投石器／吊り具・スリング", "note": "石を投げる道具、荷物や赤ちゃんを吊るす帯" },
+      { "hinshi": "【動詞】（勢いよく）投げる・吊るす", "note": "sling/slung/slung。sling a bag over one's shoulder（かばんを肩にかける）" }
+    ],
+    "usages": [
+      { "title": "① 腕の三角巾", "desc": "けがを支える", "example_en": "He had his arm in a sling.", "example_ja": "彼は腕を三角巾でつっていた。" },
+      { "title": "② 勢いよく投げる", "desc": "動詞として", "example_en": "She slung her bag over her shoulder.", "example_ja": "彼女はかばんを肩にかけた。" }
+    ],
+    "warn": ["過去形・過去分詞は slung（不規則変化）。baby sling は『抱っこひも』。mud-slinging は『中傷合戦』"],
+    "etym_note": "中英語 slingen（投げる。北欧語由来）に由来。『投げる道具』から『吊るす帯』へ意味が広がった。",
+    "etym_chain": [
+      { "node": "slingen", "sub": "投げる", "era": "中英語" },
+      { "node": "sling", "sub": "投石器・吊り具", "era": "中英語" },
+      { "node": "sling", "sub": "三角巾・投げる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "arm in a sling", "ja": "三角巾でつった腕" },
+      { "en": "a baby sling", "ja": "抱っこひも" },
+      { "en": "sling over one's shoulder", "ja": "肩にかける" },
+      { "en": "sling mud at", "ja": "〜を中傷する" },
+      { "en": "a rock sling", "ja": "投石器" },
+      { "en": "sling it away", "ja": "ぽいと投げ捨てる" }
+    ],
+    "related": [
+      { "en": "bandage", "ja": "包帯" },
+      { "en": "strap", "ja": "ひも・ベルト" },
+      { "en": "throw", "ja": "投げる" },
+      { "en": "hang", "ja": "吊るす" }
+    ],
+    "faq": [
+      { "q": "sling（三角巾）とは何ですか？", "a": "けがをした腕や手を、首から吊って支えるための布です。have one's arm in a sling で『腕を三角巾でつっている』を意味します。骨折や脱臼のときに患部を安静に保つために使います。" },
+      { "q": "動詞 sling の変化は？", "a": "sling / slung / slung と不規則に変化します。sling a bag over one's shoulder（かばんを肩にかける）、sling mud at someone（〜を中傷する）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "sling の意味の一つは？", "A": "腕をつる三角巾", "B": "眼鏡", "C": "帽子", "D": "手袋", "correct": "A" },
+      { "q": "sling の過去形は？", "A": "slung", "B": "slinged", "C": "slang", "D": "slong", "correct": "A" }
+    ]
+  },
+  {
+    "english": "slobber",
+    "pron": "ˈslɒbər",
+    "kana": "スロバー",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "中英語 sloberen（よだれを垂らす）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "口語"],
+    "meaning_main": "よだれを垂らす／よだれ",
+    "description": "slobber（スロバー）は「よだれを垂らす」、名詞で「よだれ」。特に犬や赤ちゃんが口からよだれをこぼす様子を表す語です。比喩で『（大げさに）べたべた甘やかす』意味もあります。意味を解説します。",
+    "keywords": ["slobber 意味", "よだれを垂らす", "よだれ", "slobber 使い方"],
+    "meanings": [
+      { "hinshi": "【動詞】よだれを垂らす", "note": "口からよだれをこぼす。特に犬・赤ちゃん" },
+      { "hinshi": "【名詞】よだれ", "note": "口から垂れるつば・よだれ" },
+      { "hinshi": "【動詞】（大げさに）甘やかす・べたつく", "note": "slobber over〜で「〜にべたべたと甘い態度をとる」" }
+    ],
+    "usages": [
+      { "title": "① よだれを垂らす", "desc": "犬・赤ちゃん", "example_en": "The big dog slobbered all over my hand.", "example_ja": "その大きな犬は私の手じゅうによだれを垂らした。" },
+      { "title": "② 名詞（よだれ）", "desc": "垂れるつば", "example_en": "There was slobber on the pillow.", "example_ja": "枕によだれがついていた。" }
+    ],
+    "warn": ["drool（よだれを垂らす）とほぼ同義でくだけた語。slobber over は『〜にべたべたする・大げさに甘やかす』"],
+    "etym_note": "中英語 sloberen（よだれを垂らす。擬音的・低地ドイツ語系）に由来。slaver（よだれを垂らす）とも近い。",
+    "etym_chain": [
+      { "node": "sloberen", "sub": "よだれを垂らす", "era": "中英語" },
+      { "node": "slobber", "sub": "よだれを垂らす", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "slobber all over", "ja": "〜じゅうによだれをつける" },
+      { "en": "a slobbering dog", "ja": "よだれを垂らす犬" },
+      { "en": "wipe the slobber", "ja": "よだれを拭く" },
+      { "en": "slobber over", "ja": "〜にべたべたする" },
+      { "en": "covered in slobber", "ja": "よだれまみれの" },
+      { "en": "slobber and drool", "ja": "よだれをだらだら垂らす" }
+    ],
+    "related": [
+      { "en": "drool", "ja": "よだれを垂らす" },
+      { "en": "saliva", "ja": "唾液" },
+      { "en": "dribble", "ja": "したたる・よだれを垂らす" },
+      { "en": "slaver", "ja": "よだれを垂らす" }
+    ],
+    "faq": [
+      { "q": "slobber と drool の違いは？", "a": "どちらも『よだれを垂らす』でほぼ同義のくだけた語です。slobber は『（だらしなく）べたべたとよだれをこぼす』、drool は『（つーっと）よだれを垂らす』というニュアンスがあります。犬や赤ちゃんによく使います。" },
+      { "q": "slobber over とはどういう意味ですか？", "a": "「〜にべたべたと甘い態度をとる・大げさにちやほやする」という比喩的な意味です。よだれを垂らさんばかりに夢中になる様子から来ています。" }
+    ],
+    "quiz": [
+      { "q": "slobber の意味は？", "A": "よだれを垂らす／よだれ", "B": "汗をかく", "C": "涙を流す", "D": "血を流す", "correct": "A" },
+      { "q": "slobber に近い意味の語は？", "A": "drool", "B": "smile", "C": "sneeze", "D": "cough", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sloping",
+    "pron": "ˈsloʊpɪŋ",
+    "kana": "スロウピング",
+    "hinshi": "動詞（slope の現在分詞）/ 形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "slope（傾斜する）+ -ing",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出"],
+    "meaning_main": "傾斜した・坂になった・なだらかに下る（上る）",
+    "description": "sloping（スロウピング）は「傾斜した・坂になった」。地面や屋根などがなだらかに傾いている様子を表す語です。slope（斜面・傾斜する）の現在分詞・形容詞です。意味・使い方を解説します。",
+    "keywords": ["sloping 意味", "傾斜した", "坂になった", "slope"],
+    "meanings": [
+      { "hinshi": "【形容詞】傾斜した・坂になった", "note": "なだらかに傾いている。sloping roof（傾斜屋根）、gently sloping（なだらかに傾いた）" }
+    ],
+    "usages": [
+      { "title": "① 傾斜地", "desc": "坂になった土地", "example_en": "The house stands on sloping ground.", "example_ja": "その家は傾斜地に建っている。" },
+      { "title": "② なだらかな屋根", "desc": "傾いた屋根", "example_en": "The cottage has a sloping roof.", "example_ja": "その別荘は傾斜した屋根を持つ。" }
+    ],
+    "warn": ["slope（名詞は『斜面・坂』、動詞は『傾斜する』）の -ing 形。gently sloping（なだらかな）、steeply sloping（急傾斜の）"],
+    "etym_note": "slope（傾斜する。古英語 aslopen「滑り落ちる」に関連）の -ing 形。",
+    "etym_chain": [
+      { "node": "aslopen", "sub": "滑り落ちる", "era": "古英語" },
+      { "node": "slope", "sub": "傾斜する・斜面", "era": "近代英語" },
+      { "node": "sloping", "sub": "傾斜した", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a sloping roof", "ja": "傾斜屋根" },
+      { "en": "sloping ground", "ja": "傾斜地" },
+      { "en": "gently sloping", "ja": "なだらかに傾いた" },
+      { "en": "steeply sloping", "ja": "急傾斜の" },
+      { "en": "a sloping garden", "ja": "傾斜のある庭" },
+      { "en": "sloping shoulders", "ja": "なで肩" }
+    ],
+    "related": [
+      { "en": "slope", "ja": "斜面・傾斜する" },
+      { "en": "slanting", "ja": "傾いた・斜めの" },
+      { "en": "inclined", "ja": "傾いた" },
+      { "en": "steep", "ja": "急な・険しい" }
+    ],
+    "faq": [
+      { "q": "sloping と steep の違いは？", "a": "sloping は『傾斜した・坂になった』という一般的な傾き、steep は『急な・険しい（傾斜が大きい）』を意味します。gently sloping（なだらかに傾いた）と steeply sloping（急傾斜の）のように程度を付けて表します。" },
+      { "q": "sloping shoulders とは？", "a": "「なで肩」という意味です。肩のラインがなだらかに下がっている体型を表します。slope の『傾斜』の意味が体の部位にも使われる例です。" }
+    ],
+    "quiz": [
+      { "q": "sloping の意味は？", "A": "傾斜した・坂になった", "B": "平らな", "C": "丸い", "D": "四角い", "correct": "A" },
+      { "q": "gently sloping の意味は？", "A": "なだらかに傾いた", "B": "垂直に切り立った", "C": "完全に平らな", "D": "でこぼこの", "correct": "A" }
+    ]
+  },
+  {
+    "english": "slowing",
+    "pron": "ˈsloʊɪŋ",
+    "kana": "スロウイング",
+    "hinshi": "動詞（slow の現在分詞）/ 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "slow（遅い・遅くする）+ -ing",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "頻出"],
+    "meaning_main": "遅くすること・減速・鈍化",
+    "description": "slowing（スロウイング）は slow（遅くなる・遅くする）の現在分詞・動名詞で「遅くすること・減速・鈍化」。経済の減速などにも使われる語です。slow down（減速する）が頻出。意味・使い方を解説します。",
+    "keywords": ["slowing 意味", "減速", "鈍化", "slow down"],
+    "meanings": [
+      { "hinshi": "【動詞】遅くなっている・遅くしている（slow の現在分詞）", "note": "速度・勢いを落とす。slow down（減速する）" },
+      { "hinshi": "【名詞】減速・鈍化", "note": "the slowing of the economy（経済の減速）" }
+    ],
+    "usages": [
+      { "title": "① 減速する", "desc": "slow down", "example_en": "The car was slowing down at the corner.", "example_ja": "その車は角で減速していた。" },
+      { "title": "② 経済の鈍化", "desc": "勢いが落ちる", "example_en": "Experts warned of a slowing economy.", "example_ja": "専門家は経済の減速に警鐘を鳴らした。" }
+    ],
+    "warn": ["slow down（減速する・ゆっくりする）が頻出の句動詞。反対は speeding up（加速）。a slowing economy（減速する経済）"],
+    "etym_note": "slow（遅い。古英語 slāw より）の -ing 形。動詞・名詞に用いられる。",
+    "etym_chain": [
+      { "node": "slāw", "sub": "遅い", "era": "古英語" },
+      { "node": "slow", "sub": "遅い・遅くする", "era": "中英語" },
+      { "node": "slowing", "sub": "減速・鈍化", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "slowing down", "ja": "減速している" },
+      { "en": "a slowing economy", "ja": "減速する経済" },
+      { "en": "the slowing of growth", "ja": "成長の鈍化" },
+      { "en": "signs of slowing", "ja": "鈍化の兆し" },
+      { "en": "slowing to a stop", "ja": "止まるまで減速して" },
+      { "en": "slowing traffic", "ja": "流れが遅くなる交通" }
+    ],
+    "related": [
+      { "en": "slow", "ja": "遅い・遅くする" },
+      { "en": "decelerate", "ja": "減速する" },
+      { "en": "slowdown", "ja": "減速・停滞" },
+      { "en": "speeding up", "ja": "加速（反対）" }
+    ],
+    "faq": [
+      { "q": "slowing はどんな場面で使いますか？", "a": "車などが『減速している』ことや、経済・成長などが『鈍化している』ことを表します。a slowing economy（減速する経済）、signs of slowing（鈍化の兆し）のように使います。" },
+      { "q": "slow down とは？", "a": "「減速する・ペースを落とす・ゆっくりする」という句動詞です。Slow down!（スピードを落として！／落ち着いて！）のように使います。名詞形の slowdown は『減速・停滞・怠業』を意味します。" }
+    ],
+    "quiz": [
+      { "q": "slowing の意味は？", "A": "遅くすること・減速・鈍化", "B": "加速", "C": "停止", "D": "前進", "correct": "A" },
+      { "q": "a slowing economy の意味は？", "A": "減速する経済", "B": "急成長する経済", "C": "安定した経済", "D": "崩壊した経済", "correct": "A" }
+    ]
+  },
+  {
+    "english": "slugger",
+    "pron": "ˈslʌɡər",
+    "kana": "スラッガー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "slug（強打する）+ -er",
+    "ld_level": "1級",
+    "badges": ["中学生〜", "英検1級", "CEFR B2", "スポーツ"],
+    "meaning_main": "強打者（野球）・強打のボクサー",
+    "description": "slugger（スラッガー）は「（野球の）強打者・長打を打つ打者」、また「（ボクシングの）強打を武器にする選手」。力強く打つ人を指す語です。意味・使い方・例文を解説します。",
+    "keywords": ["slugger 意味", "強打者", "野球", "slug 強打"],
+    "meanings": [
+      { "hinshi": "【名詞】強打者・長打を打つ打者（野球）", "note": "力強く打ってホームランなどを放つ打者" },
+      { "hinshi": "【名詞】強打を武器にするボクサー", "note": "テクニックより強打で戦う選手" }
+    ],
+    "usages": [
+      { "title": "① 野球の強打者", "desc": "長打を打つ", "example_en": "The slugger hit two home runs.", "example_ja": "その強打者は2本のホームランを打った。" },
+      { "title": "② 強打のボクサー", "desc": "力で戦う", "example_en": "He is a slugger, not a boxer.", "example_ja": "彼はテクニシャンではなく強打型だ。" }
+    ],
+    "warn": ["slug は俗語で『強く殴る・強打する』。slugger は主に野球の『強打者』で頻出。home-run slugger（ホームラン打者）"],
+    "etym_note": "slug（強く殴る・強打する。俗語）に -er（〜する人）が付いた語。",
+    "etym_chain": [
+      { "node": "slug", "sub": "強打する", "era": "19世紀俗語" },
+      { "node": "slugger", "sub": "強打者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a home-run slugger", "ja": "ホームラン打者" },
+      { "en": "a powerful slugger", "ja": "力強い強打者" },
+      { "en": "a feared slugger", "ja": "恐れられる強打者" },
+      { "en": "the team's slugger", "ja": "チームの強打者" },
+      { "en": "a heavyweight slugger", "ja": "ヘビー級の強打者（ボクサー）" },
+      { "en": "a veteran slugger", "ja": "ベテランの強打者" }
+    ],
+    "related": [
+      { "en": "batter", "ja": "打者" },
+      { "en": "hitter", "ja": "打者" },
+      { "en": "home run", "ja": "ホームラン" },
+      { "en": "boxer", "ja": "ボクサー" }
+    ],
+    "faq": [
+      { "q": "slugger とはどういう選手ですか？", "a": "主に野球で、力強く打ってホームランや長打を量産する『強打者』を指します。ボクシングでは、技術より強打を武器に戦う選手を slugger と呼びます。どちらも『力強く打つ人』が核です。" },
+      { "q": "batter との違いは？", "a": "batter は『打者』全般、slugger は特に『長打力のある強打者』を指します。すべての slugger は batter ですが、すべての batter が slugger とは限りません。" }
+    ],
+    "quiz": [
+      { "q": "slugger の意味は？", "A": "強打者・長打を打つ打者", "B": "守備の名手", "C": "審判", "D": "監督", "correct": "A" },
+      { "q": "slugger のもとの語 slug の意味は？", "A": "強く殴る・強打する", "B": "そっと触れる", "C": "静かに歩く", "D": "軽く笑う", "correct": "A" }
+    ]
+  },
+  {
+    "english": "smoky",
+    "pron": "ˈsmoʊki",
+    "kana": "スモーキー",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "smoke（煙）+ -y",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出"],
+    "meaning_main": "煙の立ちこめた・煙たい・いぶした（燻製の）",
+    "description": "smoky（スモーキー）は「煙の立ちこめた・煙たい」、また「いぶしたような（燻製の）風味・色の」。煙に関する幅広い意味を持つ語です。smoke（煙）の形容詞形です。意味・使い方を解説します。",
+    "keywords": ["smoky 意味", "煙たい", "燻製", "スモーキー"],
+    "meanings": [
+      { "hinshi": "【形容詞】煙の立ちこめた・煙たい", "note": "煙が充満している。a smoky room（煙たい部屋）" },
+      { "hinshi": "【形容詞】いぶしたような・スモーキーな", "note": "燻製の風味や、くすんだ色合い。a smoky flavor（燻製の風味）、smoky gray（くすんだ灰色）" }
+    ],
+    "usages": [
+      { "title": "① 煙たい場所", "desc": "煙が立ちこめる", "example_en": "The bar was dark and smoky.", "example_ja": "そのバーは暗く煙たかった。" },
+      { "title": "② スモーキーな風味・色", "desc": "燻製・くすんだ色", "example_en": "The cheese has a smoky flavor.", "example_ja": "そのチーズは燻製の風味がある。" }
+    ],
+    "warn": ["つづりは smoky（e を落とす）。smokey は誤り（固有名詞は例外）。smoky quartz は『煙水晶』、smoky eyes は『スモーキーメイク』"],
+    "etym_note": "smoke（煙。古英語 smoca より）に -y が付いた語。e を落として smoky と綴る。",
+    "etym_chain": [
+      { "node": "smoca", "sub": "煙", "era": "古英語" },
+      { "node": "smoke", "sub": "煙", "era": "中英語" },
+      { "node": "smoky", "sub": "煙たい・いぶした", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a smoky room", "ja": "煙たい部屋" },
+      { "en": "a smoky flavor", "ja": "燻製の風味" },
+      { "en": "smoky gray", "ja": "くすんだ灰色" },
+      { "en": "smoky air", "ja": "煙った空気" },
+      { "en": "smoky bacon", "ja": "スモーキーなベーコン" },
+      { "en": "smoky eyes", "ja": "スモーキーメイク" }
+    ],
+    "related": [
+      { "en": "smoke", "ja": "煙" },
+      { "en": "smoked", "ja": "燻製にした" },
+      { "en": "hazy", "ja": "かすんだ" },
+      { "en": "misty", "ja": "霧のかかった" }
+    ],
+    "faq": [
+      { "q": "smoky のつづりで注意する点は？", "a": "smoke の e を落として smoky と綴ります。smokey は一般には誤りです（ただし固有名詞の Smokey などは例外）。-y を付けるとき、語尾の e を落とすパターンです。" },
+      { "q": "smoky flavor とはどんな味ですか？", "a": "「燻製のような、いぶした風味」を指します。ベーコン・チーズ・ウイスキーなどで、木の煙でいぶしたような香ばしく深い味わいを表現するときに使います。" }
+    ],
+    "quiz": [
+      { "q": "smoky の意味は？", "A": "煙たい・いぶした風味の", "B": "凍った", "C": "乾いた", "D": "甘い", "correct": "A" },
+      { "q": "smoky の正しいつづりは？", "A": "smoky", "B": "smokey", "C": "smokie", "D": "smoaky", "correct": "A" }
+    ]
+  },
+  {
+    "english": "smuggling",
+    "pron": "ˈsmʌɡlɪŋ",
+    "kana": "スマグリング",
+    "hinshi": "動詞（smuggle の現在分詞）/ 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "低地ドイツ語 smuggeln（密輸する）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "時事"],
+    "meaning_main": "密輸・密輸入（すること）",
+    "description": "smuggling（スマグリング）は smuggle（密輸する）の現在分詞・動名詞で「密輸・密輸入」。関税を逃れたり禁制品を隠したりして違法に運び込むことです。意味・使い方・例文を解説します。",
+    "keywords": ["smuggling 意味", "密輸", "smuggle", "密輸入"],
+    "meanings": [
+      { "hinshi": "【動詞】密輸している（smuggle の現在分詞）", "note": "関税を逃れ、または禁制品を隠して違法に運ぶ" },
+      { "hinshi": "【名詞】密輸・密輸入", "note": "drug smuggling（麻薬密輸）、smuggling of goods（商品の密輸）" }
+    ],
+    "usages": [
+      { "title": "① 違法な持ち込み", "desc": "禁制品など", "example_en": "He was arrested for drug smuggling.", "example_ja": "彼は麻薬密輸で逮捕された。" },
+      { "title": "② 隠して運ぶ", "desc": "こっそり運ぶ", "example_en": "They were smuggling goods across the border.", "example_ja": "彼らは国境を越えて商品を密輸していた。" }
+    ],
+    "warn": ["密輸する人は smuggler（密輸業者）。people smuggling は『人身の密航あっせん』。動詞 smuggle in で『こっそり持ち込む』"],
+    "etym_note": "低地ドイツ語 smuggeln（こっそり運ぶ・密輸する）に由来する smuggle の -ing 形。",
+    "etym_chain": [
+      { "node": "smuggeln", "sub": "こっそり運ぶ", "era": "低地ドイツ語" },
+      { "node": "smuggle", "sub": "密輸する", "era": "17世紀" },
+      { "node": "smuggling", "sub": "密輸", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "drug smuggling", "ja": "麻薬密輸" },
+      { "en": "smuggling ring", "ja": "密輸組織" },
+      { "en": "arms smuggling", "ja": "武器密輸" },
+      { "en": "people smuggling", "ja": "密航あっせん" },
+      { "en": "smuggling goods", "ja": "商品の密輸" },
+      { "en": "caught smuggling", "ja": "密輸で捕まる" }
+    ],
+    "related": [
+      { "en": "smuggle", "ja": "密輸する" },
+      { "en": "smuggler", "ja": "密輸業者" },
+      { "en": "contraband", "ja": "密輸品・禁制品" },
+      { "en": "trafficking", "ja": "不正取引・密売" }
+    ],
+    "faq": [
+      { "q": "smuggling とは何ですか？", "a": "関税を逃れたり、禁じられた品物（麻薬・武器など）を隠したりして、違法に物を運び込む・運び出すことです。drug smuggling（麻薬密輸）のように使い、行う人を smuggler（密輸業者）と呼びます。" },
+      { "q": "trafficking との違いは？", "a": "smuggling は主に『（税や規制を逃れて）こっそり運ぶ密輸』、trafficking は『（麻薬・人などの）不正な売買・密売』を指します。人身に関しては人身売買が trafficking、密航あっせんが people smuggling と区別されます。" }
+    ],
+    "quiz": [
+      { "q": "smuggling の意味は？", "A": "密輸・密輸入", "B": "正規の輸入", "C": "寄付", "D": "販売", "correct": "A" },
+      { "q": "密輸をする人は？", "A": "smuggler", "B": "smuggling", "C": "smuggle only", "D": "smuggled", "correct": "A" }
+    ]
+  },
+  {
+    "english": "smugness",
+    "pron": "ˈsmʌɡnəs",
+    "kana": "スマグネス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "smug（独りよがりの）+ -ness",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "頻出"],
+    "meaning_main": "独りよがり・したり顔・自己満足の得意さ",
+    "description": "smugness（スマグネス）は「独りよがり・したり顔・鼻につく自己満足」。自分に満足しきって得意げな、鼻につく態度を表す語です。smug（独りよがりの）の名詞形です。意味・使い方を解説します。",
+    "keywords": ["smugness 意味", "独りよがり", "したり顔", "smug"],
+    "meanings": [
+      { "hinshi": "【名詞】独りよがり・したり顔・鼻につく自己満足", "note": "自分に満足しきって得意げな、他人を見下すような態度。否定的。不可算" }
+    ],
+    "usages": [
+      { "title": "① 得意げな態度", "desc": "鼻につく自己満足", "example_en": "His smugness annoyed everyone.", "example_ja": "彼のしたり顔はみんなをいらだたせた。" },
+      { "title": "② 形容詞 smug", "desc": "smug（独りよがりの）も頻出", "example_en": "She had a smug look on her face.", "example_ja": "彼女は得意げな表情を浮かべていた。" }
+    ],
+    "warn": ["smug（自分に満足しきって鼻につく・独りよがりの）の名詞形。否定的。a smug smile（したり顔の笑み）"],
+    "etym_note": "smug（こぎれいな→独りよがりの。低地ドイツ語系）に -ness が付いた語。",
+    "etym_chain": [
+      { "node": "smuk", "sub": "こぎれいな", "era": "低地ドイツ語" },
+      { "node": "smug", "sub": "独りよがりの", "era": "16世紀" },
+      { "node": "smugness", "sub": "独りよがり", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an air of smugness", "ja": "したり顔の雰囲気" },
+      { "en": "insufferable smugness", "ja": "鼻につく独りよがり" },
+      { "en": "a smug smile", "ja": "したり顔の笑み" },
+      { "en": "the smugness of", "ja": "〜の独りよがりさ" },
+      { "en": "self-satisfied smugness", "ja": "うぬぼれた自己満足" },
+      { "en": "hide one's smugness", "ja": "得意げな様子を隠す" }
+    ],
+    "related": [
+      { "en": "smug", "ja": "独りよがりの・したり顔の" },
+      { "en": "complacency", "ja": "自己満足・慢心" },
+      { "en": "self-satisfaction", "ja": "自己満足" },
+      { "en": "arrogance", "ja": "傲慢" }
+    ],
+    "faq": [
+      { "q": "smugness と complacency の違いは？", "a": "complacency は『（危機感なく）現状に満足しきる慢心』、smugness は『自分に満足しきって得意げに他人を見下す、鼻につく態度』です。smugness のほうが表に出た『したり顔・独りよがり』の含みが強い語です。" },
+      { "q": "形容詞形は何ですか？", "a": "smug で「独りよがりの・したり顔の・自分に満足しきった」という意味です。a smug smile（したり顔の笑み）、look smug（得意げに見える）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "smugness の意味は？", "A": "独りよがり・したり顔・鼻につく自己満足", "B": "謙虚さ", "C": "親切心", "D": "勇気", "correct": "A" },
+      { "q": "smugness の形容詞形は？", "A": "smug", "B": "smuggy", "C": "smugful", "D": "smugous", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sneering",
+    "pron": "ˈsnɪərɪŋ",
+    "kana": "スニアリング",
+    "hinshi": "動詞（sneer の現在分詞）/ 形容詞",
+    "ld_pos": "動詞",
+    "ld_etym": "中英語 sneren（あざ笑う）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "頻出"],
+    "meaning_main": "冷笑・あざ笑うこと・見下した",
+    "description": "sneering（スニアリング）は sneer（冷笑する・あざ笑う）の現在分詞・形容詞で「冷笑・見下してあざ笑うこと」。軽蔑を込めた笑いや口調を表す語です。意味・使い方・例文を解説します。",
+    "keywords": ["sneering 意味", "冷笑", "あざ笑う", "sneer"],
+    "meanings": [
+      { "hinshi": "【動詞】冷笑している・あざ笑っている（sneer の現在分詞）", "note": "軽蔑して鼻で笑う・見下してあざける" },
+      { "hinshi": "【形容詞】見下した・あざけるような", "note": "a sneering tone（見下した口調）、a sneering remark（あざけりの言葉）" }
+    ],
+    "usages": [
+      { "title": "① あざ笑う", "desc": "軽蔑して笑う", "example_en": "He was sneering at their efforts.", "example_ja": "彼は彼らの努力をあざ笑っていた。" },
+      { "title": "② 見下した口調", "desc": "あざけるような", "example_en": "She spoke in a sneering tone.", "example_ja": "彼女は見下した口調で話した。" }
+    ],
+    "warn": ["sneer at〜で『〜を冷笑する・あざ笑う』。mock（あざける）より『鼻で笑う軽蔑』のニュアンス。名詞 sneer は『冷笑』"],
+    "etym_note": "中英語 sneren（あざ笑う。擬音的・北欧語系）由来の sneer の -ing 形。",
+    "etym_chain": [
+      { "node": "sneren", "sub": "あざ笑う", "era": "中英語" },
+      { "node": "sneer", "sub": "冷笑する", "era": "近代英語" },
+      { "node": "sneering", "sub": "冷笑・あざ笑い", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "sneer at", "ja": "〜を冷笑する" },
+      { "en": "a sneering tone", "ja": "見下した口調" },
+      { "en": "a sneering remark", "ja": "あざけりの言葉" },
+      { "en": "a sneering smile", "ja": "冷笑" },
+      { "en": "sneering contempt", "ja": "あざけりの軽蔑" },
+      { "en": "stop sneering", "ja": "あざ笑うのをやめる" }
+    ],
+    "related": [
+      { "en": "sneer", "ja": "冷笑・あざ笑う" },
+      { "en": "mock", "ja": "あざける" },
+      { "en": "scoff", "ja": "あざ笑う・ばかにする" },
+      { "en": "jeer", "ja": "やじる・あざける" }
+    ],
+    "faq": [
+      { "q": "sneering と mocking の違いは？", "a": "どちらも『あざける』ですが、sneering は『鼻で笑うような、見下した軽蔑の表情・口調』を、mocking は『（まねをしたりして）からかう・あざ笑う』ことを指します。sneering は表情・態度の軽蔑が中心です。" },
+      { "q": "sneer at とは？", "a": "「〜を冷笑する・あざ笑う・鼻であしらう」という意味です。He sneered at my idea.（彼は私の考えを鼻で笑った）のように、軽蔑して相手を見下すときに使います。" }
+    ],
+    "quiz": [
+      { "q": "sneering の意味は？", "A": "冷笑・見下してあざ笑うこと", "B": "心から称賛すること", "C": "静かに祈ること", "D": "大声で泣くこと", "correct": "A" },
+      { "q": "sneer at の意味は？", "A": "〜を冷笑する・あざ笑う", "B": "〜を尊敬する", "C": "〜を心配する", "D": "〜を手伝う", "correct": "A" }
+    ]
+  }
+]
