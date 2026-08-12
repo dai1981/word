@@ -1,0 +1,990 @@
+[
+  {
+    "english": "transmittance",
+    "pron": "trænsˈmɪtəns",
+    "kana": "トランスミッタンス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "transmit（透過・伝える）+ -ance",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "理工系用語"],
+    "meaning_main": "透過率 / 透過度",
+    "description": "transmittance（トランスミッタンス）は「透過率」を表す理工系の用語。光や放射が物質をどれだけ通り抜けるかの割合を指します。",
+    "keywords": ["transmittance 意味", "透過率 英語", "transmit 名詞", "光 透過"],
+    "meanings": [
+      { "hinshi": "【名詞】透過率、透過度", "note": "不可算・可算。光や放射が物質を通過する割合。0〜1または%で表す" }
+    ],
+    "usages": [
+      { "title": "① 光学で", "desc": "光がどれだけ通り抜けるか", "example_en": "The glass has a high transmittance of visible light.", "example_ja": "そのガラスは可視光の透過率が高い。" },
+      { "title": "② 測定値として", "desc": "実験や分析で使う指標", "example_en": "We measured the transmittance of the filter.", "example_ja": "私たちはそのフィルターの透過率を測定した。" }
+    ],
+    "warn": ["反対の概念は absorbance（吸光度）", "光をどれだけ通すかの割合で、反射・吸収と区別する"],
+    "etym_note": "動詞 transmit（trans-「越えて」+ mittere「送る」＝送り通す）に、性質・量を表す -ance が付いた語。",
+    "etym_chain": [
+      { "node": "transmittere", "sub": "送り通す(ラテン語)", "era": "ラテン語" },
+      { "node": "transmit", "sub": "透過させる・伝える", "era": "14世紀" },
+      { "node": "transmittance", "sub": "透過率", "era": "19世紀" }
+    ],
+    "phrases": [
+      { "en": "light transmittance", "ja": "光の透過率" },
+      { "en": "high transmittance", "ja": "高い透過率" },
+      { "en": "low transmittance", "ja": "低い透過率" },
+      { "en": "optical transmittance", "ja": "光学的透過率" },
+      { "en": "measure transmittance", "ja": "透過率を測る" },
+      { "en": "percent transmittance", "ja": "透過率(パーセント)" }
+    ],
+    "related": [
+      { "en": "transmit", "ja": "透過させる・伝える" },
+      { "en": "absorbance", "ja": "吸光度" },
+      { "en": "reflectance", "ja": "反射率" },
+      { "en": "transparency", "ja": "透明度" }
+    ],
+    "faq": [
+      { "q": "transmittance と transparency の違いは？", "a": "transmittance は光がどれだけ通るかの「割合（数値）」、transparency は「透明さ」という性質を表す一般的な語です。" },
+      { "q": "transmittance と absorbance の関係は？", "a": "透過率（transmittance）が高いほど吸光度（absorbance）は低くなります。両者は反比例の関係にあります。" }
+    ],
+    "quiz": [
+      { "q": "transmittance の意味は？", "A": "透過率", "B": "反射率", "C": "屈折率", "D": "湿度", "correct": "A" },
+      { "q": "transmittance の反対の概念は？", "A": "absorbance(吸光度)", "B": "voltage(電圧)", "C": "density(密度)", "D": "velocity(速度)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "transylvania",
+    "pron": "ˌtrænsɪlˈveɪniə",
+    "kana": "トランシルヴァニア",
+    "hinshi": "固有名詞(地名)",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ラテン語 trans（越えて）+ sylva（森）＝「森の向こう」",
+    "ld_level": "—",
+    "badges": ["学習者向け", "固有名詞", "地名", "文化"],
+    "meaning_main": "トランシルヴァニア（ルーマニアの地方）",
+    "description": "Transylvania（トランシルヴァニア）は現在のルーマニア中部にある歴史的な地方。ドラキュラ伝説の舞台として世界的に有名です。※固有名詞なので文中では大文字。",
+    "keywords": ["transylvania 意味", "トランシルヴァニア 場所", "ドラキュラ 舞台", "transylvania とは"],
+    "meanings": [
+      { "hinshi": "【固有名詞】トランシルヴァニア", "note": "ルーマニア中部の歴史的地方。※見出しは小文字で登録、実際は Transylvania と大文字" },
+      { "hinshi": "【補足】ドラキュラ伝説の地", "note": "ブラム・ストーカーの小説『ドラキュラ』の舞台として有名" }
+    ],
+    "usages": [
+      { "title": "① 地域として", "desc": "ルーマニア中部の地方", "example_en": "Transylvania is known for its beautiful castles.", "example_ja": "トランシルヴァニアは美しい城で知られる。" },
+      { "title": "② 物語の舞台として", "desc": "吸血鬼伝説と結びつく", "example_en": "Dracula is said to live in Transylvania.", "example_ja": "ドラキュラはトランシルヴァニアに住むとされる。" }
+    ],
+    "warn": ["Transylvania は固有名詞（地名）なので文中では大文字で始めます"],
+    "etym_note": "ラテン語で「森の向こうの地」を意味する trans（越えて）+ sylva（森）に由来。中世に森林の奥の辺境地として名付けられた。",
+    "etym_chain": [
+      { "node": "trans-sylvania", "sub": "森の向こう(ラテン語)", "era": "中世ラテン語" },
+      { "node": "Transylvania", "sub": "トランシルヴァニア", "era": "現代" }
+    ],
+    "phrases": [
+      { "en": "in Transylvania", "ja": "トランシルヴァニアで" },
+      { "en": "castles of Transylvania", "ja": "トランシルヴァニアの城" },
+      { "en": "Transylvania region", "ja": "トランシルヴァニア地方" },
+      { "en": "visit Transylvania", "ja": "トランシルヴァニアを訪れる" },
+      { "en": "the forests of Transylvania", "ja": "トランシルヴァニアの森" },
+      { "en": "medieval Transylvania", "ja": "中世のトランシルヴァニア" }
+    ],
+    "related": [
+      { "en": "romania", "ja": "ルーマニア" },
+      { "en": "castle", "ja": "城" },
+      { "en": "vampire", "ja": "吸血鬼" },
+      { "en": "region", "ja": "地方・地域" }
+    ],
+    "faq": [
+      { "q": "Transylvania はどこにある？", "a": "現在のルーマニア中部にある歴史的地方で、カルパチア山脈に囲まれています。" },
+      { "q": "なぜドラキュラと結びつく？", "a": "ブラム・ストーカーの小説『ドラキュラ』で吸血鬼伯爵の故郷として描かれたため、世界的に吸血鬼伝説の地として有名になりました。" }
+    ],
+    "quiz": [
+      { "q": "Transylvania があるのは今の何という国？", "A": "ルーマニア", "B": "イタリア", "C": "スペイン", "D": "ポーランド", "correct": "A" },
+      { "q": "Transylvania が舞台として有名な物語は？", "A": "ドラキュラ", "B": "白雪姫", "C": "オズの魔法使い", "D": "赤ずきん", "correct": "A" }
+    ]
+  },
+  {
+    "english": "trapped",
+    "pron": "træpt",
+    "kana": "トラップト",
+    "hinshi": "形容詞 / 動詞(trap の過去・過去分詞)",
+    "ld_pos": "形容詞・動詞",
+    "ld_etym": "trap（わな・閉じ込める）+ -ed",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出"],
+    "meaning_main": "閉じ込められた / わなにはまった / 身動きできない",
+    "description": "trapped（トラップト）は「閉じ込められた・身動きできない」を表す語。物理的に出られない状況にも、逃れられない状況の比喩にも使えます。",
+    "keywords": ["trapped 意味", "trap 過去形", "閉じ込められた 英語", "trapped 使い方"],
+    "meanings": [
+      { "hinshi": "【形容詞】閉じ込められた", "note": "出口がなく外に出られない状態" },
+      { "hinshi": "【形容詞】身動きの取れない、逃れられない", "note": "状況や関係から抜け出せない（比喩）" },
+      { "hinshi": "【動詞】trap（閉じ込める）の過去・過去分詞", "note": "「わなにかけた」「閉じ込めた」" }
+    ],
+    "usages": [
+      { "title": "① 物理的に閉じ込められる", "desc": "出られない場所にいる", "example_en": "The miners were trapped underground for days.", "example_ja": "作業員たちは何日も地下に閉じ込められた。" },
+      { "title": "② 状況から抜け出せない", "desc": "逃れられない立場の比喩", "example_en": "She felt trapped in a boring job.", "example_ja": "彼女は退屈な仕事から抜け出せないと感じていた。" }
+    ],
+    "warn": ["feel trapped で「身動きが取れないと感じる」の定番表現", "be trapped in / by ... の形が多い"],
+    "etym_note": "名詞・動詞 trap（わな・わなにかける）に過去分詞・形容詞化の -ed が付いた形。古英語 træppe（わな）に由来。",
+    "etym_chain": [
+      { "node": "træppe", "sub": "わな(古英語)", "era": "古英語" },
+      { "node": "trap", "sub": "わなにかける・閉じ込める", "era": "中英語" },
+      { "node": "trapped", "sub": "閉じ込められた", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "feel trapped", "ja": "身動きが取れないと感じる" },
+      { "en": "be trapped inside", "ja": "中に閉じ込められる" },
+      { "en": "trapped in a lift", "ja": "エレベーターに閉じ込められた" },
+      { "en": "trapped animal", "ja": "わなにかかった動物" },
+      { "en": "trapped by debt", "ja": "借金で身動きが取れない" },
+      { "en": "get trapped", "ja": "閉じ込められる" }
+    ],
+    "related": [
+      { "en": "trap", "ja": "わな・閉じ込める" },
+      { "en": "stuck", "ja": "動けない・詰まった" },
+      { "en": "caught", "ja": "捕まった" },
+      { "en": "free", "ja": "自由な" }
+    ],
+    "faq": [
+      { "q": "trapped と stuck の違いは？", "a": "どちらも「動けない」ですが、trapped は「わなや状況に閉じ込められて逃れられない」ニュアンス、stuck は「詰まって進めない・行き詰まった」ニュアンスが強いです。" },
+      { "q": "feel trapped とは？", "a": "「（状況・関係などに）身動きが取れず、抜け出せないと感じる」という比喩的な表現です。" }
+    ],
+    "quiz": [
+      { "q": "trapped の意味は？", "A": "閉じ込められた", "B": "解放された", "C": "招待された", "D": "疲れた", "correct": "A" },
+      { "q": "feel trapped の意味は？", "A": "身動きが取れないと感じる", "B": "自由を感じる", "C": "眠気を感じる", "D": "空腹を感じる", "correct": "A" }
+    ]
+  },
+  {
+    "english": "trekking",
+    "pron": "ˈtrekɪŋ",
+    "kana": "トレッキング",
+    "hinshi": "名詞 / 動詞(trek の現在分詞)",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "trek（長く苦しい旅をする）+ -ing",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "アウトドア"],
+    "meaning_main": "トレッキング / 山歩き / 長い徒歩の旅",
+    "description": "trekking（トレッキング）は「山歩き・長い徒歩の旅」を表す語。自然の中を長時間歩くアウトドア活動を指します。",
+    "keywords": ["trekking 意味", "トレッキング 英語", "山歩き 英語", "trek 現在分詞"],
+    "meanings": [
+      { "hinshi": "【名詞】トレッキング、山歩き", "note": "自然の中を長時間歩くレジャー・活動" },
+      { "hinshi": "【動詞】trek（長旅をする）の現在分詞・動名詞", "note": "「長く歩いている」「徒歩で旅すること」" }
+    ],
+    "usages": [
+      { "title": "① レジャーとして", "desc": "山や自然を歩く活動", "example_en": "We went trekking in the mountains last summer.", "example_ja": "私たちは去年の夏、山でトレッキングをした。" },
+      { "title": "② 苦しい長旅", "desc": "険しい道を歩き続けること", "example_en": "They spent two weeks trekking across the desert.", "example_ja": "彼らは2週間かけて砂漠を歩いて横断した。" }
+    ],
+    "warn": ["hiking より長く険しい旅を指すことが多い", "元は南アフリカのオランダ語 trek（牛車での移動）から"],
+    "etym_note": "南アフリカのアフリカーンス語 trek（牛車で移動する・移住する）に由来し、そこから「長く苦しい徒歩の旅」の意味に。その -ing 形。",
+    "etym_chain": [
+      { "node": "trek", "sub": "牛車で移動する(アフリカーンス語)", "era": "19世紀" },
+      { "node": "trek", "sub": "長旅をする", "era": "近代英語" },
+      { "node": "trekking", "sub": "山歩き・長旅", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "go trekking", "ja": "トレッキングに行く" },
+      { "en": "mountain trekking", "ja": "山のトレッキング" },
+      { "en": "trekking pole", "ja": "トレッキングポール" },
+      { "en": "trekking route", "ja": "トレッキングコース" },
+      { "en": "trekking boots", "ja": "トレッキングシューズ" },
+      { "en": "a trekking holiday", "ja": "トレッキングの休暇" }
+    ],
+    "related": [
+      { "en": "trek", "ja": "長旅をする" },
+      { "en": "hiking", "ja": "ハイキング" },
+      { "en": "climbing", "ja": "登山" },
+      { "en": "walking", "ja": "歩くこと" }
+    ],
+    "faq": [
+      { "q": "trekking と hiking の違いは？", "a": "hiking は日帰りなど比較的短い山歩き、trekking は数日にわたる長く険しい徒歩の旅を指すことが多いです。" },
+      { "q": "trekking の元の意味は？", "a": "もとは南アフリカで牛車を使って長距離を移動・移住することを指し、そこから「長く苦しい徒歩の旅」の意味になりました。" }
+    ],
+    "quiz": [
+      { "q": "trekking の意味は？", "A": "山歩き・長い徒歩の旅", "B": "水泳", "C": "料理", "D": "読書", "correct": "A" },
+      { "q": "trekking が hiking と違う点は？", "A": "より長く険しい旅を指す", "B": "室内で行う", "C": "道具を使わない", "D": "海で行う", "correct": "A" }
+    ]
+  },
+  {
+    "english": "trembling",
+    "pron": "ˈtremblɪŋ",
+    "kana": "トレンブリング",
+    "hinshi": "形容詞 / 動詞(tremble の現在分詞) / 名詞",
+    "ld_pos": "形容詞・動詞・名詞",
+    "ld_etym": "tremble（震える）+ -ing",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "頻出"],
+    "meaning_main": "震える / 震え / おののく",
+    "description": "trembling（トレンブリング）は「震える・震え」を表す語。寒さ・恐怖・興奮などで体が小刻みに揺れる様子を表します。",
+    "keywords": ["trembling 意味", "tremble 現在分詞", "震える 英語", "trembling 使い方"],
+    "meanings": [
+      { "hinshi": "【形容詞】震えている、おののく", "note": "小刻みに揺れているさま" },
+      { "hinshi": "【名詞】震え", "note": "体が震えること" },
+      { "hinshi": "【動詞】tremble（震える）の現在分詞・動名詞", "note": "「震えている」「震えること」" }
+    ],
+    "usages": [
+      { "title": "① 感情や寒さで震える", "desc": "恐怖・寒さ・興奮による震え", "example_en": "Her hands were trembling with fear.", "example_ja": "彼女の手は恐怖で震えていた。" },
+      { "title": "② 声が震える", "desc": "動揺して声が揺れる", "example_en": "He spoke in a trembling voice.", "example_ja": "彼は震える声で話した。" }
+    ],
+    "warn": ["shaking より小刻みで細かい震えを表すことが多い"],
+    "etym_note": "動詞 tremble（震える）の -ing 形。ラテン語 tremere（震える）に由来する。",
+    "etym_chain": [
+      { "node": "tremere", "sub": "震える(ラテン語)", "era": "ラテン語" },
+      { "node": "tremble", "sub": "震える", "era": "14世紀" },
+      { "node": "trembling", "sub": "震えている", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "trembling with fear", "ja": "恐怖で震えて" },
+      { "en": "trembling hands", "ja": "震える手" },
+      { "en": "trembling voice", "ja": "震える声" },
+      { "en": "trembling with cold", "ja": "寒さで震えて" },
+      { "en": "start trembling", "ja": "震え始める" },
+      { "en": "trembling lips", "ja": "震える唇" }
+    ],
+    "related": [
+      { "en": "tremble", "ja": "震える" },
+      { "en": "shaking", "ja": "揺れ・震え" },
+      { "en": "shiver", "ja": "身震いする" },
+      { "en": "quiver", "ja": "小刻みに震える" }
+    ],
+    "faq": [
+      { "q": "trembling と shaking の違いは？", "a": "どちらも「震える」ですが、trembling は恐怖や寒さによる細かく小刻みな震え、shaking はより大きく揺れる動きを指すことが多いです。" },
+      { "q": "trembling voice とは？", "a": "動揺・緊張・感情などで「震える声」のことです。in a trembling voice（震える声で）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "trembling の意味は？", "A": "震えている", "B": "笑っている", "C": "眠っている", "D": "走っている", "correct": "A" },
+      { "q": "trembling with fear の意味は？", "A": "恐怖で震えて", "B": "喜びで飛び跳ねて", "C": "退屈であくびして", "D": "満腹で座って", "correct": "A" }
+    ]
+  },
+  {
+    "english": "trespasser",
+    "pron": "ˈtrespəsər",
+    "kana": "トレスパサー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "trespass（不法侵入する）+ -er（〜する人）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "法律用語"],
+    "meaning_main": "不法侵入者 / 侵入者",
+    "description": "trespasser（トレスパサー）は「不法侵入者」を表す語。許可なく他人の土地や建物に立ち入る人を指します。",
+    "keywords": ["trespasser 意味", "不法侵入 英語", "trespass 名詞", "trespasser 使い方"],
+    "meanings": [
+      { "hinshi": "【名詞】不法侵入者", "note": "可算名詞。許可なく他人の敷地に立ち入る人" }
+    ],
+    "usages": [
+      { "title": "① 敷地への侵入者", "desc": "私有地に無断で入る人", "example_en": "The sign warned trespassers to keep out.", "example_ja": "その看板は不法侵入者に立ち入り禁止を警告していた。" },
+      { "title": "② 警告表示で", "desc": "\"Trespassers will be prosecuted\" は定番", "example_en": "Trespassers will be prosecuted.", "example_ja": "不法侵入者は起訴されます。" }
+    ],
+    "warn": ["動詞は trespass（不法侵入する）、行為は trespass / trespassing"],
+    "etym_note": "古フランス語 trespasser（trans-「越えて」+ passer「通る」＝越えて入る）に由来する trespass に、動作主を表す -er が付いた語。",
+    "etym_chain": [
+      { "node": "trespasser (古仏)", "sub": "越えて通る", "era": "古フランス語" },
+      { "node": "trespass", "sub": "不法侵入する", "era": "中英語" },
+      { "node": "trespasser", "sub": "不法侵入者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "warn trespassers", "ja": "侵入者に警告する" },
+      { "en": "trespassers will be prosecuted", "ja": "不法侵入者は起訴されます" },
+      { "en": "catch a trespasser", "ja": "侵入者を捕まえる" },
+      { "en": "no trespassers", "ja": "立ち入り禁止" },
+      { "en": "an armed trespasser", "ja": "武装した侵入者" },
+      { "en": "report a trespasser", "ja": "侵入者を通報する" }
+    ],
+    "related": [
+      { "en": "trespass", "ja": "不法侵入する" },
+      { "en": "intruder", "ja": "侵入者" },
+      { "en": "invader", "ja": "侵略者" },
+      { "en": "property", "ja": "私有地・財産" }
+    ],
+    "faq": [
+      { "q": "trespasser と intruder の違いは？", "a": "trespasser は「許可なく土地に立ち入る人（法律的）」、intruder は「押し入ってくる侵入者」で、より脅威を感じる場面で使われます。" },
+      { "q": "\"Trespassers will be prosecuted\" とは？", "a": "「不法侵入者は起訴されます」という、私有地の立ち入り禁止を示す定番の警告表示です。" }
+    ],
+    "quiz": [
+      { "q": "trespasser の意味は？", "A": "不法侵入者", "B": "訪問者", "C": "配達員", "D": "所有者", "correct": "A" },
+      { "q": "trespasser の動詞形は？", "A": "trespass", "B": "transport", "C": "translate", "D": "transmit", "correct": "A" }
+    ]
+  },
+  {
+    "english": "trimmer",
+    "pron": "ˈtrɪmər",
+    "kana": "トリマー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "trim（刈り込む）+ -er（〜する道具・人）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "日常"],
+    "meaning_main": "刈り込み器 / トリマー / 整える人",
+    "description": "trimmer（トリマー）は「刈り込む道具・人」を表す語。ヒゲや芝生を整える電動バリカンや、生け垣を刈る器具などを指します。",
+    "keywords": ["trimmer 意味", "トリマー 英語", "trim 名詞", "ヘアトリマー"],
+    "meanings": [
+      { "hinshi": "【名詞】刈り込み器、バリカン", "note": "可算名詞。ヒゲ・芝生・生け垣などを整える道具" },
+      { "hinshi": "【名詞】整える人", "note": "刈り込みや整形をする人" }
+    ],
+    "usages": [
+      { "title": "① 道具として", "desc": "毛や植物を整える器具", "example_en": "He used a trimmer to shape his beard.", "example_ja": "彼はヒゲを整えるのにトリマーを使った。" },
+      { "title": "② 庭仕事で", "desc": "生け垣や芝を刈る器具", "example_en": "She trimmed the hedge with an electric trimmer.", "example_ja": "彼女は電動トリマーで生け垣を刈った。" }
+    ],
+    "warn": ["日本語の「トリマー（ペットの美容師）」は英語では groomer が普通"],
+    "etym_note": "動詞 trim（刈り込む・整える）に、道具・動作主を表す -er が付いた語。trim は古英語 trymman（整える・強くする）に由来。",
+    "etym_chain": [
+      { "node": "trymman", "sub": "整える(古英語)", "era": "古英語" },
+      { "node": "trim", "sub": "刈り込む・整える", "era": "16世紀" },
+      { "node": "trimmer", "sub": "刈り込み器", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "hedge trimmer", "ja": "生け垣バリカン" },
+      { "en": "beard trimmer", "ja": "ヒゲトリマー" },
+      { "en": "hair trimmer", "ja": "ヘアトリマー" },
+      { "en": "grass trimmer", "ja": "芝刈り機" },
+      { "en": "electric trimmer", "ja": "電動トリマー" },
+      { "en": "nail trimmer", "ja": "爪切り" }
+    ],
+    "related": [
+      { "en": "trim", "ja": "刈り込む" },
+      { "en": "cutter", "ja": "切る道具" },
+      { "en": "clipper", "ja": "バリカン・はさみ" },
+      { "en": "groomer", "ja": "(ペットの)美容師" }
+    ],
+    "faq": [
+      { "q": "日本語の「トリマー（ペット美容師）」は英語で？", "a": "英語では groomer と言います。英語の trimmer は主に「刈り込み器（道具）」を指します。" },
+      { "q": "trimmer と clipper の違いは？", "a": "どちらも刈る道具ですが、trimmer は細かく整える小型のもの、clipper はより広い範囲を刈るバリカンを指すことが多いです。" }
+    ],
+    "quiz": [
+      { "q": "beard trimmer の意味は？", "A": "ヒゲトリマー", "B": "歯ブラシ", "C": "髪染め", "D": "香水", "correct": "A" },
+      { "q": "trimmer は trim に何が付いた語？", "A": "-ment", "B": "-er", "C": "-ness", "D": "-ly", "correct": "B" }
+    ]
+  },
+  {
+    "english": "triteness",
+    "pron": "ˈtraɪtnəs",
+    "kana": "トライトネス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "trite（陳腐な）+ -ness",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文章表現"],
+    "meaning_main": "陳腐さ / ありきたりなこと / 平凡さ",
+    "description": "triteness（トライトネス）は「陳腐さ・ありきたりなこと」を表す名詞。使い古されて新鮮味のない表現や考えを批判する語です。",
+    "keywords": ["triteness 意味", "陳腐 英語", "trite 名詞", "ありきたり 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】陳腐さ、ありきたりさ", "note": "不可算名詞。使い古されて新鮮味がないこと" }
+    ],
+    "usages": [
+      { "title": "① 表現の陳腐さ", "desc": "使い古された言い回しへの批判", "example_en": "Critics pointed out the triteness of the plot.", "example_ja": "評論家たちはその筋書きの陳腐さを指摘した。" },
+      { "title": "② 考えの平凡さ", "desc": "目新しさのない発想", "example_en": "The speech was full of triteness and clichés.", "example_ja": "そのスピーチは陳腐さと決まり文句だらけだった。" }
+    ],
+    "warn": ["形容詞は trite（陳腐な・使い古された）", "似た語 cliché（決まり文句）とセットで使われやすい"],
+    "etym_note": "ラテン語 tritus（すり減った・使い古された）に由来する形容詞 trite に、性質を表す名詞化接尾辞 -ness が付いた語。",
+    "etym_chain": [
+      { "node": "tritus", "sub": "すり減った(ラテン語)", "era": "ラテン語" },
+      { "node": "trite", "sub": "陳腐な", "era": "16世紀" },
+      { "node": "triteness", "sub": "陳腐さ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the triteness of the story", "ja": "その話の陳腐さ" },
+      { "en": "avoid triteness", "ja": "陳腐さを避ける" },
+      { "en": "sheer triteness", "ja": "まったくの陳腐さ" },
+      { "en": "triteness and clichés", "ja": "陳腐さと決まり文句" },
+      { "en": "criticize the triteness", "ja": "陳腐さを批判する" },
+      { "en": "a sense of triteness", "ja": "陳腐な感じ" }
+    ],
+    "related": [
+      { "en": "trite", "ja": "陳腐な" },
+      { "en": "cliché", "ja": "決まり文句" },
+      { "en": "banality", "ja": "平凡さ" },
+      { "en": "originality", "ja": "独創性" }
+    ],
+    "faq": [
+      { "q": "triteness の形容詞形は？", "a": "trite（陳腐な・使い古された）です。a trite phrase（陳腐な言い回し）のように使います。" },
+      { "q": "triteness と originality の関係は？", "a": "triteness（陳腐さ）は originality（独創性）の反対です。目新しさがなく使い古されている状態を指します。" }
+    ],
+    "quiz": [
+      { "q": "triteness の意味は？", "A": "陳腐さ・ありきたりさ", "B": "独創性", "C": "正確さ", "D": "緊張", "correct": "A" },
+      { "q": "triteness の形容詞形は？", "A": "trite", "B": "trity", "C": "tritous", "D": "trital", "correct": "A" }
+    ]
+  },
+  {
+    "english": "trooper",
+    "pron": "ˈtruːpər",
+    "kana": "トルーパー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "troop（部隊）+ -er（〜する人）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "軍事・警察"],
+    "meaning_main": "騎兵 / 州警察官 / 頑張り屋",
+    "description": "trooper（トルーパー）は「騎兵・州警察官」などを表す語。米国では州警察官を指し、口語では困難にもめげない「頑張り屋」の意味でも使います。",
+    "keywords": ["trooper 意味", "state trooper", "騎兵 英語", "trooper 頑張り屋"],
+    "meanings": [
+      { "hinshi": "【名詞】騎兵、兵士", "note": "可算名詞。もとは馬に乗った兵士" },
+      { "hinshi": "【名詞】(米)州警察官", "note": "state trooper で州の警察官" },
+      { "hinshi": "【名詞・口語】頑張り屋", "note": "つらくても弱音を吐かず頑張る人。a real trooper" }
+    ],
+    "usages": [
+      { "title": "① 州警察官として", "desc": "米国のハイウェイパトロールなど", "example_en": "A state trooper pulled the car over.", "example_ja": "州警察官がその車を停車させた。" },
+      { "title": "② 頑張り屋として", "desc": "困難にめげない人をほめる", "example_en": "She kept working despite the pain—a real trooper.", "example_ja": "彼女は痛みに耐えて働き続けた。本当に頑張り屋だ。" }
+    ],
+    "warn": ["似た綴りの trouper（劇団員）も「頑張り屋」の意味を持ち、混同されやすい"],
+    "etym_note": "troop（部隊・軍隊）に動作主を表す -er が付いた語。もとは騎兵を指し、後に州警察官や「頑張り屋」の意味に広がった。",
+    "etym_chain": [
+      { "node": "troop", "sub": "部隊", "era": "16世紀" },
+      { "node": "trooper", "sub": "騎兵", "era": "17世紀" },
+      { "node": "trooper", "sub": "州警察官・頑張り屋", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "state trooper", "ja": "州警察官" },
+      { "en": "a real trooper", "ja": "本当の頑張り屋" },
+      { "en": "cavalry trooper", "ja": "騎兵" },
+      { "en": "storm trooper", "ja": "突撃隊員" },
+      { "en": "like a trooper", "ja": "健気に・弱音を吐かず" },
+      { "en": "brave trooper", "ja": "勇敢な兵士" }
+    ],
+    "related": [
+      { "en": "troop", "ja": "部隊" },
+      { "en": "soldier", "ja": "兵士" },
+      { "en": "officer", "ja": "警官・将校" },
+      { "en": "cavalry", "ja": "騎兵隊" }
+    ],
+    "faq": [
+      { "q": "state trooper とは？", "a": "米国で「州警察官」のことです。主に州の高速道路の取り締まりなどを担当します。" },
+      { "q": "a real trooper の意味は？", "a": "「本当の頑張り屋」という口語表現です。つらい状況でも弱音を吐かず頑張る人をほめて言います。" }
+    ],
+    "quiz": [
+      { "q": "state trooper の意味は？", "A": "州警察官", "B": "州知事", "C": "州議員", "D": "州税", "correct": "A" },
+      { "q": "a real trooper が表す意味は？", "A": "頑張り屋", "B": "怠け者", "C": "臆病者", "D": "初心者", "correct": "A" }
+    ]
+  },
+  {
+    "english": "troubled",
+    "pron": "ˈtrʌbəld",
+    "kana": "トラブルド",
+    "hinshi": "形容詞 / 動詞(trouble の過去・過去分詞)",
+    "ld_pos": "形容詞・動詞",
+    "ld_etym": "trouble（悩ませる）+ -ed",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "頻出"],
+    "meaning_main": "悩んでいる / 困難な / 問題を抱えた",
+    "description": "troubled（トラブルド）は「悩んでいる・問題を抱えた」を表す語。心配や不安を抱えた人や、困難な状況・時期を表します。",
+    "keywords": ["troubled 意味", "trouble 過去形", "悩んでいる 英語", "troubled 使い方"],
+    "meanings": [
+      { "hinshi": "【形容詞】悩んでいる、心配している", "note": "不安や心配を抱えたさま" },
+      { "hinshi": "【形容詞】困難な、問題の多い", "note": "troubled times（困難な時代）など" },
+      { "hinshi": "【動詞】trouble（悩ませる）の過去・過去分詞", "note": "「悩ませた」「困らせた」" }
+    ],
+    "usages": [
+      { "title": "① 心配している人", "desc": "不安や悩みを抱えた状態", "example_en": "He had a troubled look on his face.", "example_ja": "彼は不安そうな表情を浮かべていた。" },
+      { "title": "② 困難な状況", "desc": "問題の多い時期や地域", "example_en": "The country went through troubled times.", "example_ja": "その国は困難な時代を経験した。" }
+    ],
+    "warn": ["troubled times / troubled waters は「困難な時期・状況」の定番"],
+    "etym_note": "動詞 trouble（悩ませる・かき乱す）に過去分詞・形容詞化の -ed が付いた形。ラテン語 turbulare（かき乱す）に由来。",
+    "etym_chain": [
+      { "node": "turbulare", "sub": "かき乱す(俗ラテン語)", "era": "俗ラテン語" },
+      { "node": "trouble", "sub": "悩ませる", "era": "13世紀" },
+      { "node": "troubled", "sub": "悩んでいる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "troubled times", "ja": "困難な時代" },
+      { "en": "a troubled mind", "ja": "悩める心" },
+      { "en": "deeply troubled", "ja": "ひどく悩んでいる" },
+      { "en": "troubled waters", "ja": "困難な状況" },
+      { "en": "a troubled childhood", "ja": "問題の多い子ども時代" },
+      { "en": "troubled relationship", "ja": "うまくいかない関係" }
+    ],
+    "related": [
+      { "en": "trouble", "ja": "悩み・悩ませる" },
+      { "en": "worried", "ja": "心配している" },
+      { "en": "anxious", "ja": "不安な" },
+      { "en": "calm", "ja": "落ち着いた" }
+    ],
+    "faq": [
+      { "q": "troubled と worried の違いは？", "a": "worried は「心配している」、troubled はそれより深く「悩み・不安を抱え込んでいる」、または「問題が多く困難な」状態を表します。" },
+      { "q": "troubled waters とは？", "a": "文字どおりは「荒れた水」ですが、比喩で「困難な状況・もめごと」を意味します。" }
+    ],
+    "quiz": [
+      { "q": "troubled の意味は？", "A": "悩んでいる・問題を抱えた", "B": "満足している", "C": "眠っている", "D": "空腹の", "correct": "A" },
+      { "q": "troubled times の意味は？", "A": "困難な時代", "B": "楽しい時間", "C": "退屈な時間", "D": "自由な時間", "correct": "A" }
+    ]
+  },
+  {
+    "english": "troublemaker",
+    "pron": "ˈtrʌbəlˌmeɪkər",
+    "kana": "トラブルメーカー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "trouble（もめごと）+ maker（作る人）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "日常"],
+    "meaning_main": "もめごとを起こす人 / トラブルメーカー / 問題児",
+    "description": "troublemaker（トラブルメーカー）は「もめごとを起こす人・問題児」を表す語。周囲に面倒を引き起こす人を指します。",
+    "keywords": ["troublemaker 意味", "問題児 英語", "トラブルメーカー", "troublemaker 使い方"],
+    "meanings": [
+      { "hinshi": "【名詞】もめごとを起こす人、問題児", "note": "可算名詞。周囲に面倒やもめごとを引き起こす人" }
+    ],
+    "usages": [
+      { "title": "① 学校・職場で", "desc": "規律を乱す人", "example_en": "The teacher labeled him a troublemaker.", "example_ja": "先生は彼を問題児と決めつけた。" },
+      { "title": "② 社会・組織で", "desc": "もめごとの種になる人", "example_en": "The boss saw the union leader as a troublemaker.", "example_ja": "上司はその組合のリーダーをトラブルメーカーと見なした。" }
+    ],
+    "warn": ["trouble（もめごと）+ maker（作る人）の複合語。1語で書く"],
+    "etym_note": "名詞 trouble（もめごと・面倒）と maker（作る人）を組み合わせた複合語。文字どおり「面倒を作る人」。",
+    "etym_chain": [
+      { "node": "trouble + maker", "sub": "もめごと＋作る人", "era": "近代英語" },
+      { "node": "troublemaker", "sub": "もめごとを起こす人", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a real troublemaker", "ja": "本当の問題児" },
+      { "en": "known troublemaker", "ja": "知られたトラブルメーカー" },
+      { "en": "class troublemaker", "ja": "クラスの問題児" },
+      { "en": "deal with a troublemaker", "ja": "問題児に対処する" },
+      { "en": "seen as a troublemaker", "ja": "問題児と見なされる" },
+      { "en": "young troublemaker", "ja": "若いトラブルメーカー" }
+    ],
+    "related": [
+      { "en": "trouble", "ja": "もめごと" },
+      { "en": "rebel", "ja": "反逆者" },
+      { "en": "nuisance", "ja": "厄介者" },
+      { "en": "peacemaker", "ja": "仲裁者" }
+    ],
+    "faq": [
+      { "q": "troublemaker の反対語は？", "a": "peacemaker（仲裁者・和平をもたらす人）が対照的な語です。もめごとを作るのではなく収める人を指します。" },
+      { "q": "troublemaker は悪い意味だけ？", "a": "基本的に否定的な語ですが、既存のルールに立ち向かう人を（あえて肯定的に）そう呼ぶこともあります。" }
+    ],
+    "quiz": [
+      { "q": "troublemaker の意味は？", "A": "もめごとを起こす人", "B": "仲裁する人", "C": "配達する人", "D": "料理する人", "correct": "A" },
+      { "q": "troublemaker の反対にあたる語は？", "A": "peacemaker", "B": "lawmaker", "C": "carmaker", "D": "filmmaker", "correct": "A" }
+    ]
+  },
+  {
+    "english": "truthfully",
+    "pron": "ˈtruːθfəli",
+    "kana": "トゥルースフリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "truthful（正直な）+ -ly",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "頻出"],
+    "meaning_main": "正直に / 誠実に / 本当のことを言うと",
+    "description": "truthfully（トゥルースフリー）は「正直に・本当のことを言うと」を表す副詞。うそをつかず事実を述べることや、率直な前置きに使います。",
+    "keywords": ["truthfully 意味", "正直に 英語", "truthful 副詞", "truthfully 使い方"],
+    "meanings": [
+      { "hinshi": "【副詞】正直に、うそをつかずに", "note": "事実に基づいて述べるさま" },
+      { "hinshi": "【副詞】本当のことを言うと(文頭)", "note": "率直な意見を述べる前置き" }
+    ],
+    "usages": [
+      { "title": "① 正直に答える", "desc": "うそをつかず事実を述べる", "example_en": "Please answer the question truthfully.", "example_ja": "その質問に正直に答えてください。" },
+      { "title": "② 文頭で率直に", "desc": "「本当のことを言うと」の前置き", "example_en": "Truthfully, I didn't enjoy the movie.", "example_ja": "正直に言うと、その映画は楽しめなかった。" }
+    ],
+    "warn": ["似た副詞 honestly（正直に）とほぼ同義で置き換え可能"],
+    "etym_note": "名詞 truth（真実）に -ful が付いた truthful（正直な）に、副詞化の -ly が付いた語。",
+    "etym_chain": [
+      { "node": "truth", "sub": "真実", "era": "古英語" },
+      { "node": "truthful", "sub": "正直な", "era": "17世紀" },
+      { "node": "truthfully", "sub": "正直に", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "answer truthfully", "ja": "正直に答える" },
+      { "en": "speak truthfully", "ja": "正直に話す" },
+      { "en": "truthfully speaking", "ja": "正直に言えば" },
+      { "en": "report truthfully", "ja": "ありのまま報告する" },
+      { "en": "answer honestly and truthfully", "ja": "正直に答える" },
+      { "en": "truthfully admit", "ja": "正直に認める" }
+    ],
+    "related": [
+      { "en": "truthful", "ja": "正直な" },
+      { "en": "honestly", "ja": "正直に" },
+      { "en": "truth", "ja": "真実" },
+      { "en": "falsely", "ja": "偽って" }
+    ],
+    "faq": [
+      { "q": "truthfully と honestly の違いは？", "a": "ほぼ同義で「正直に」の意味です。どちらも文頭で「本当のことを言うと」という前置きにも使えます。" },
+      { "q": "truthfully の反対の副詞は？", "a": "falsely（偽って・うそをついて）が反対にあたります。" }
+    ],
+    "quiz": [
+      { "q": "truthfully の意味は？", "A": "正直に", "B": "急いで", "C": "静かに", "D": "偶然に", "correct": "A" },
+      { "q": "truthfully と近い意味の副詞は？", "A": "honestly", "B": "loudly", "C": "quickly", "D": "rarely", "correct": "A" }
+    ]
+  },
+  {
+    "english": "tumescence",
+    "pron": "tjuːˈmesəns",
+    "kana": "テュメセンス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 tumescere（腫れ始める）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "医学用語"],
+    "meaning_main": "腫脹（しゅちょう）/ 膨張 / 腫れ",
+    "description": "tumescence（テュメセンス）は「腫れ・膨張」を表す医学用語。組織が液体などで腫れて膨らんだ状態を指します。",
+    "keywords": ["tumescence 意味", "腫脹 英語", "腫れ 英語", "tumescence 医学"],
+    "meanings": [
+      { "hinshi": "【名詞】腫脹、腫れ、膨張", "note": "不可算・可算。組織が腫れて膨らむこと。医学的な用語" }
+    ],
+    "usages": [
+      { "title": "① 医学的な腫れ", "desc": "組織が膨らんだ状態", "example_en": "The doctor noted the tumescence around the joint.", "example_ja": "医師は関節周りの腫脹に気づいた。" },
+      { "title": "② 膨張一般", "desc": "膨らんで大きくなること", "example_en": "Tumescence of the tissue can indicate inflammation.", "example_ja": "組織の腫脹は炎症を示すことがある。" }
+    ],
+    "warn": ["形容詞は tumescent（腫れた・膨張した）", "日常語ではなく主に医学の専門用語"],
+    "etym_note": "ラテン語 tumescere（tumere「腫れる」の起動相＝腫れ始める）に由来する専門語。同語源に tumor（腫瘍）がある。",
+    "etym_chain": [
+      { "node": "tumere", "sub": "腫れる(ラテン語)", "era": "ラテン語" },
+      { "node": "tumescere", "sub": "腫れ始める", "era": "ラテン語" },
+      { "node": "tumescence", "sub": "腫脹", "era": "18世紀" }
+    ],
+    "phrases": [
+      { "en": "tissue tumescence", "ja": "組織の腫脹" },
+      { "en": "signs of tumescence", "ja": "腫れの兆候" },
+      { "en": "reduce tumescence", "ja": "腫れを抑える" },
+      { "en": "local tumescence", "ja": "局所の腫脹" },
+      { "en": "tumescent anesthesia", "ja": "腫脹麻酔(局所麻酔法)" },
+      { "en": "cause tumescence", "ja": "腫脹を引き起こす" }
+    ],
+    "related": [
+      { "en": "swelling", "ja": "腫れ" },
+      { "en": "tumor", "ja": "腫瘍" },
+      { "en": "inflammation", "ja": "炎症" },
+      { "en": "tumescent", "ja": "腫れた" }
+    ],
+    "faq": [
+      { "q": "tumescence と swelling の違いは？", "a": "どちらも「腫れ」ですが、swelling は日常語、tumescence は医学的・専門的な用語です。" },
+      { "q": "tumescence の形容詞は？", "a": "tumescent（腫れた・膨張した）です。tumescent anesthesia（腫脹麻酔）などの医療用語で使われます。" }
+    ],
+    "quiz": [
+      { "q": "tumescence の意味は？", "A": "腫脹・膨張", "B": "収縮", "C": "乾燥", "D": "冷却", "correct": "A" },
+      { "q": "tumescence と同語源の語は？", "A": "tumor(腫瘍)", "B": "temper(気質)", "C": "tunnel(トンネル)", "D": "tumble(転ぶ)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "turkish",
+    "pron": "ˈtɜːrkɪʃ",
+    "kana": "ターキッシュ",
+    "hinshi": "形容詞 / 名詞(固有)",
+    "ld_pos": "形容詞・固有名詞",
+    "ld_etym": "Turk（トルコ人）+ -ish",
+    "ld_level": "—",
+    "badges": ["学習者向け", "固有名詞", "国・言語", "形容詞"],
+    "meaning_main": "トルコの / トルコ人の / トルコ語",
+    "description": "Turkish（ターキッシュ）は「トルコの・トルコ人の」を表す形容詞、また「トルコ語」を指す名詞。※固有名詞なので文中では大文字。",
+    "keywords": ["turkish 意味", "トルコの 英語", "トルコ語 英語", "turkish 使い方"],
+    "meanings": [
+      { "hinshi": "【形容詞】トルコの、トルコ人の", "note": "国 Turkey に関する形容詞。※見出しは小文字で登録、実際は Turkish と大文字" },
+      { "hinshi": "【名詞】トルコ語", "note": "トルコで話される言語" }
+    ],
+    "usages": [
+      { "title": "① トルコの〜", "desc": "国や文化に関する形容", "example_en": "We had a delicious Turkish breakfast.", "example_ja": "私たちはおいしいトルコ風の朝食をとった。" },
+      { "title": "② 言語として", "desc": "トルコ語を指す", "example_en": "She is learning Turkish at university.", "example_ja": "彼女は大学でトルコ語を学んでいる。" }
+    ],
+    "warn": ["Turkish は固有名詞由来なので文中では大文字で始めます", "国名は Turkey、国民（複数）は the Turks"],
+    "etym_note": "民族名 Turk（トルコ人）に、「〜の・〜風の」を表す形容詞化接尾辞 -ish が付いた語。",
+    "etym_chain": [
+      { "node": "Turk", "sub": "トルコ人", "era": "中英語" },
+      { "node": "Turkish", "sub": "トルコの", "era": "16世紀" }
+    ],
+    "phrases": [
+      { "en": "Turkish coffee", "ja": "トルコ・コーヒー" },
+      { "en": "Turkish delight", "ja": "ターキッシュ・ディライト(菓子)" },
+      { "en": "Turkish bath", "ja": "トルコ風呂(ハマム)" },
+      { "en": "speak Turkish", "ja": "トルコ語を話す" },
+      { "en": "Turkish food", "ja": "トルコ料理" },
+      { "en": "Turkish culture", "ja": "トルコの文化" }
+    ],
+    "related": [
+      { "en": "turkey", "ja": "トルコ(国)" },
+      { "en": "language", "ja": "言語" },
+      { "en": "european", "ja": "ヨーロッパの" },
+      { "en": "asian", "ja": "アジアの" }
+    ],
+    "faq": [
+      { "q": "Turkish coffee とは？", "a": "細かく挽いた豆を煮出して作る、濃くて泡立つ伝統的なトルコ式コーヒーです。" },
+      { "q": "Turkish と Turkey の違いは？", "a": "Turkey は国名（トルコ）、Turkish はその形容詞「トルコの」および言語「トルコ語」を指します。" }
+    ],
+    "quiz": [
+      { "q": "Turkish の意味は？", "A": "トルコの・トルコ語", "B": "ドイツの", "C": "ギリシャの", "D": "エジプトの", "correct": "A" },
+      { "q": "国名としての「トルコ」は英語で？", "A": "Turkey", "B": "Turkland", "C": "Turkia", "D": "Turken", "correct": "A" }
+    ]
+  },
+  {
+    "english": "twaddle",
+    "pron": "ˈtwɒdəl",
+    "kana": "トワドル",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "18世紀の英語 twattle（むだ話）の変形",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "口語・古風"],
+    "meaning_main": "たわ言 / くだらない話 / むだ口",
+    "description": "twaddle（トワドル）は「たわ言・くだらない話」を表す語。中身のない、ばかげたおしゃべりを軽蔑して言うときに使います。",
+    "keywords": ["twaddle 意味", "たわ言 英語", "くだらない話 英語", "twaddle 使い方"],
+    "meanings": [
+      { "hinshi": "【名詞】たわ言、くだらない話", "note": "不可算名詞。中身のないばかげた話" },
+      { "hinshi": "【動詞】くだらないことをしゃべる", "note": "むだ話をすること" }
+    ],
+    "usages": [
+      { "title": "① くだらない話", "desc": "中身のない発言への軽蔑", "example_en": "Don't listen to that twaddle.", "example_ja": "そんなたわ言に耳を貸すな。" },
+      { "title": "② 内容の乏しい文章", "desc": "無意味な記述への批判", "example_en": "The article was full of pretentious twaddle.", "example_ja": "その記事は気取ったたわ言だらけだった。" }
+    ],
+    "warn": ["やや古風・くだけた語。nonsense（ばかげたこと）とほぼ同義"],
+    "etym_note": "18世紀の英語 twattle（むだ話・おしゃべり）が変化した語とされる。擬音的に「べらべら話す」イメージを持つ。",
+    "etym_chain": [
+      { "node": "twattle", "sub": "むだ話", "era": "16世紀" },
+      { "node": "twaddle", "sub": "たわ言", "era": "18世紀" }
+    ],
+    "phrases": [
+      { "en": "a load of twaddle", "ja": "たわ言だらけ" },
+      { "en": "utter twaddle", "ja": "まったくのたわ言" },
+      { "en": "talk twaddle", "ja": "くだらない話をする" },
+      { "en": "sentimental twaddle", "ja": "感傷的なたわ言" },
+      { "en": "pure twaddle", "ja": "まったくのたわ言" },
+      { "en": "meaningless twaddle", "ja": "無意味なたわ言" }
+    ],
+    "related": [
+      { "en": "nonsense", "ja": "ばかげたこと" },
+      { "en": "gibberish", "ja": "ちんぷんかんぷんな話" },
+      { "en": "drivel", "ja": "たわ言" },
+      { "en": "rubbish", "ja": "くだらないこと" }
+    ],
+    "faq": [
+      { "q": "twaddle と nonsense の違いは？", "a": "ほぼ同義で「くだらない話」を意味します。twaddle はやや古風で、退屈でとりとめのないおしゃべりのニュアンスが強い語です。" },
+      { "q": "twaddle は日常でよく使う？", "a": "やや古風・文語的な語で、日常会話では nonsense や rubbish の方がよく使われます。" }
+    ],
+    "quiz": [
+      { "q": "twaddle の意味は？", "A": "たわ言・くだらない話", "B": "重要な演説", "C": "正確な報告", "D": "楽しい歌", "correct": "A" },
+      { "q": "twaddle と近い意味の語は？", "A": "nonsense", "B": "wisdom", "C": "silence", "D": "melody", "correct": "A" }
+    ]
+  },
+  {
+    "english": "two-faced",
+    "pron": "ˌtuːˈfeɪst",
+    "kana": "トゥーフェイスト",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "two（二つ）+ face（顔）+ -ed",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "口語"],
+    "meaning_main": "裏表のある / 二枚舌の / 偽善的な",
+    "description": "two-faced（トゥーフェイスト）は「裏表のある・二枚舌の」を表す形容詞。人前と裏で態度を変える不誠実な人を批判する語です。",
+    "keywords": ["two-faced 意味", "裏表のある 英語", "二枚舌 英語", "two-faced 使い方"],
+    "meanings": [
+      { "hinshi": "【形容詞】裏表のある、二枚舌の", "note": "人によって態度を変え、不誠実なさま" }
+    ],
+    "usages": [
+      { "title": "① 不誠実な人を批判", "desc": "表と裏で態度が違う", "example_en": "I don't trust her; she's so two-faced.", "example_ja": "彼女は信用できない。とても裏表がある。" },
+      { "title": "② 陰口との対比", "desc": "面と向かうときと陰で違う", "example_en": "He was friendly to my face but two-faced behind my back.", "example_ja": "彼は面と向かっては愛想がよかったが、陰では二枚舌だった。" }
+    ],
+    "warn": ["ハイフンでつないだ複合形容詞。強い非難の語", "顔が2つあるローマ神話のヤヌス神が語源的イメージ"],
+    "etym_note": "two（二つ）と face（顔）を合わせ、-ed を付けた複合形容詞。「二つの顔を持つ」＝相手により態度を変える意から。",
+    "etym_chain": [
+      { "node": "two + face", "sub": "二つ＋顔", "era": "近代英語" },
+      { "node": "two-faced", "sub": "裏表のある", "era": "17世紀" }
+    ],
+    "phrases": [
+      { "en": "a two-faced person", "ja": "裏表のある人" },
+      { "en": "so two-faced", "ja": "とても二枚舌の" },
+      { "en": "two-faced friend", "ja": "裏表のある友人" },
+      { "en": "act two-faced", "ja": "二枚舌にふるまう" },
+      { "en": "two-faced behavior", "ja": "裏表のある態度" },
+      { "en": "call someone two-faced", "ja": "〜を裏表があると言う" }
+    ],
+    "related": [
+      { "en": "hypocritical", "ja": "偽善的な" },
+      { "en": "deceitful", "ja": "人を欺く" },
+      { "en": "insincere", "ja": "不誠実な" },
+      { "en": "honest", "ja": "正直な" }
+    ],
+    "faq": [
+      { "q": "two-faced と hypocritical の違いは？", "a": "どちらも不誠実さを表しますが、two-faced は「人により態度を変える裏表」、hypocritical は「言行不一致の偽善」に重点があります。" },
+      { "q": "two-faced はほめ言葉？", "a": "いいえ、強い非難の言葉です。信用できない不誠実な人を批判するときに使います。" }
+    ],
+    "quiz": [
+      { "q": "two-faced の意味は？", "A": "裏表のある・二枚舌の", "B": "正直で誠実な", "C": "とても親切な", "D": "内気な", "correct": "A" },
+      { "q": "two-faced と近い意味の語は？", "A": "hypocritical", "B": "honest", "C": "generous", "D": "brave", "correct": "A" }
+    ]
+  },
+  {
+    "english": "uae",
+    "pron": "ˌjuː eɪ ˈiː",
+    "kana": "ユーエーイー",
+    "hinshi": "固有名詞(頭字語)",
+    "ld_pos": "固有名詞",
+    "ld_etym": "United Arab Emirates の頭字語",
+    "ld_level": "—",
+    "badges": ["学習者向け", "固有名詞", "国名", "頭字語"],
+    "meaning_main": "アラブ首長国連邦（UAE）",
+    "description": "UAE（ユーエーイー）は United Arab Emirates の略で「アラブ首長国連邦」を指します。ドバイやアブダビを含む、中東の連邦国家です。※固有名詞。",
+    "keywords": ["uae 意味", "アラブ首長国連邦 英語", "uae 正式名称", "uae とは"],
+    "meanings": [
+      { "hinshi": "【固有名詞】アラブ首長国連邦(UAE)", "note": "United Arab Emirates の頭字語。※普通は大文字で UAE と表記" },
+      { "hinshi": "【補足】7つの首長国の連邦", "note": "アブダビ、ドバイなど7つの首長国からなる" }
+    ],
+    "usages": [
+      { "title": "① 国として", "desc": "中東の連邦国家", "example_en": "Dubai is the largest city in the UAE.", "example_ja": "ドバイはUAE最大の都市だ。" },
+      { "title": "② 経済の文脈で", "desc": "石油と観光で知られる", "example_en": "The UAE is known for its oil and modern cities.", "example_ja": "UAEは石油と近代的な都市で知られる。" }
+    ],
+    "warn": ["UAE は頭字語（固有名詞）で、普通の英単語ではありません", "通常は the UAE と the を付けて言います"],
+    "etym_note": "United（連合した）Arab（アラブの）Emirates（首長国）の各語の頭文字を取った頭字語。1971年に7つの首長国が連邦を結成した。",
+    "etym_chain": [
+      { "node": "United Arab Emirates", "sub": "正式名称", "era": "1971年" },
+      { "node": "UAE", "sub": "頭字語", "era": "現代" }
+    ],
+    "phrases": [
+      { "en": "the UAE", "ja": "アラブ首長国連邦" },
+      { "en": "in the UAE", "ja": "UAEで" },
+      { "en": "UAE government", "ja": "UAE政府" },
+      { "en": "the capital of the UAE", "ja": "UAEの首都" },
+      { "en": "move to the UAE", "ja": "UAEに移住する" },
+      { "en": "UAE economy", "ja": "UAEの経済" }
+    ],
+    "related": [
+      { "en": "dubai", "ja": "ドバイ" },
+      { "en": "emirate", "ja": "首長国" },
+      { "en": "arab", "ja": "アラブの" },
+      { "en": "gulf", "ja": "湾岸" }
+    ],
+    "faq": [
+      { "q": "UAE は何の略？", "a": "United Arab Emirates（アラブ首長国連邦）の略です。アブダビやドバイを含む7つの首長国からなる連邦国家です。" },
+      { "q": "UAEの首都は？", "a": "アブダビ（Abu Dhabi）です。ドバイが最大の都市ですが、首都はアブダビです。" }
+    ],
+    "quiz": [
+      { "q": "UAE は何の略？", "A": "アラブ首長国連邦", "B": "国連機関", "C": "欧州連合", "D": "米州機構", "correct": "A" },
+      { "q": "UAEの首都は？", "A": "アブダビ", "B": "ドバイ", "C": "リヤド", "D": "ドーハ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ufo",
+    "pron": "ˌjuː ef ˈoʊ",
+    "kana": "ユーエフオー",
+    "hinshi": "名詞(頭字語)",
+    "ld_pos": "名詞",
+    "ld_etym": "Unidentified Flying Object の頭字語",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "頭字語"],
+    "meaning_main": "未確認飛行物体（UFO）",
+    "description": "UFO（ユーエフオー）は Unidentified Flying Object の略で「未確認飛行物体」を指します。正体不明の空飛ぶ物体、特に宇宙人の乗り物を連想させます。",
+    "keywords": ["ufo 意味", "未確認飛行物体 英語", "ufo 正式名称", "ufo とは"],
+    "meanings": [
+      { "hinshi": "【名詞】未確認飛行物体(UFO)", "note": "可算名詞。Unidentified Flying Object の頭字語。正体不明の空飛ぶ物体" }
+    ],
+    "usages": [
+      { "title": "① 正体不明の物体", "desc": "空に見える説明できない物体", "example_en": "Several people reported seeing a UFO last night.", "example_ja": "何人かが昨夜UFOを見たと報告した。" },
+      { "title": "② 宇宙人と結びつけて", "desc": "SF・都市伝説の文脈", "example_en": "He believes UFOs are alien spacecraft.", "example_ja": "彼はUFOが宇宙人の宇宙船だと信じている。" }
+    ],
+    "warn": ["UFO は頭字語。複数形は UFOs", "近年は UAP（未確認空中現象）という語も使われる"],
+    "etym_note": "Unidentified（未確認の）Flying（飛行する）Object（物体）の頭文字を取った頭字語。20世紀半ば、空飛ぶ円盤の報告とともに広まった。",
+    "etym_chain": [
+      { "node": "Unidentified Flying Object", "sub": "正式名称", "era": "1950年代" },
+      { "node": "UFO", "sub": "頭字語", "era": "現代" }
+    ],
+    "phrases": [
+      { "en": "see a UFO", "ja": "UFOを見る" },
+      { "en": "UFO sighting", "ja": "UFOの目撃" },
+      { "en": "report a UFO", "ja": "UFOを報告する" },
+      { "en": "UFO enthusiast", "ja": "UFO愛好家" },
+      { "en": "believe in UFOs", "ja": "UFOの存在を信じる" },
+      { "en": "a mysterious UFO", "ja": "謎のUFO" }
+    ],
+    "related": [
+      { "en": "alien", "ja": "宇宙人" },
+      { "en": "spacecraft", "ja": "宇宙船" },
+      { "en": "flying", "ja": "飛行する" },
+      { "en": "object", "ja": "物体" }
+    ],
+    "faq": [
+      { "q": "UFO は何の略？", "a": "Unidentified Flying Object（未確認飛行物体）の略です。正体が確認できない空飛ぶ物体を指します。" },
+      { "q": "UFO は必ず宇宙人の乗り物？", "a": "いいえ。UFOは「正体不明」というだけの意味で、後で気球や航空機と判明することもあります。近年は UAP（未確認空中現象）とも呼ばれます。" }
+    ],
+    "quiz": [
+      { "q": "UFO は何の略？", "A": "未確認飛行物体", "B": "国際宇宙機関", "C": "無人偵察機", "D": "宇宙食", "correct": "A" },
+      { "q": "UFO の複数形は？", "A": "UFOs", "B": "UFOes", "C": "UFOx", "D": "UFOi", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ugandan",
+    "pron": "juːˈɡændən",
+    "kana": "ユーガンダン",
+    "hinshi": "形容詞 / 名詞(固有)",
+    "ld_pos": "形容詞・固有名詞",
+    "ld_etym": "Uganda（ウガンダ）+ -n",
+    "ld_level": "—",
+    "badges": ["学習者向け", "固有名詞", "国・国民", "形容詞"],
+    "meaning_main": "ウガンダの / ウガンダ人",
+    "description": "Ugandan（ユーガンダン）は「ウガンダの・ウガンダ人」を表す語。東アフリカの国ウガンダに関する形容詞・国民の呼称です。※固有名詞なので文中では大文字。",
+    "keywords": ["ugandan 意味", "ウガンダの 英語", "ウガンダ人 英語", "ugandan 使い方"],
+    "meanings": [
+      { "hinshi": "【形容詞】ウガンダの", "note": "国 Uganda に関する形容詞。※見出しは小文字で登録、実際は Ugandan と大文字" },
+      { "hinshi": "【名詞】ウガンダ人", "note": "ウガンダ出身・国籍の人" }
+    ],
+    "usages": [
+      { "title": "① ウガンダの〜", "desc": "国や文化に関する形容", "example_en": "She enjoys Ugandan music and food.", "example_ja": "彼女はウガンダの音楽と料理が好きだ。" },
+      { "title": "② ウガンダ人として", "desc": "国籍・出身を表す", "example_en": "He is a Ugandan living in London.", "example_ja": "彼はロンドンに住むウガンダ人だ。" }
+    ],
+    "warn": ["Ugandan は固有名詞由来なので文中では大文字で始めます", "国名は Uganda（ウガンダ）"],
+    "etym_note": "東アフリカの国名 Uganda に、「〜の・〜人」を表す接尾辞 -n が付いた語。",
+    "etym_chain": [
+      { "node": "Uganda", "sub": "ウガンダ(国名)", "era": "現代" },
+      { "node": "Ugandan", "sub": "ウガンダの・ウガンダ人", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Ugandan people", "ja": "ウガンダの人々" },
+      { "en": "Ugandan culture", "ja": "ウガンダの文化" },
+      { "en": "Ugandan food", "ja": "ウガンダ料理" },
+      { "en": "a Ugandan citizen", "ja": "ウガンダ国民" },
+      { "en": "the Ugandan government", "ja": "ウガンダ政府" },
+      { "en": "Ugandan English", "ja": "ウガンダ英語" }
+    ],
+    "related": [
+      { "en": "uganda", "ja": "ウガンダ" },
+      { "en": "african", "ja": "アフリカの" },
+      { "en": "kenyan", "ja": "ケニアの" },
+      { "en": "nation", "ja": "国家" }
+    ],
+    "faq": [
+      { "q": "Uganda はどこにある？", "a": "東アフリカの内陸国です。ケニア、タンザニア、コンゴ民主共和国などと国境を接しています。" },
+      { "q": "「ウガンダの・ウガンダ人」は英語で？", "a": "Ugandan と言います。国名 Uganda に -n を付けた形で、形容詞と国民名詞の両方に使えます。" }
+    ],
+    "quiz": [
+      { "q": "Ugandan の意味は？", "A": "ウガンダの・ウガンダ人", "B": "ウクライナの", "C": "ウルグアイの", "D": "ウズベキスタンの", "correct": "A" },
+      { "q": "Uganda がある大陸は？", "A": "アフリカ", "B": "アジア", "C": "ヨーロッパ", "D": "南アメリカ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "uk",
+    "pron": "ˌjuː ˈkeɪ",
+    "kana": "ユーケー",
+    "hinshi": "固有名詞(頭字語)",
+    "ld_pos": "固有名詞",
+    "ld_etym": "United Kingdom の頭字語",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "頭字語"],
+    "meaning_main": "イギリス / 英国（UK）",
+    "description": "UK（ユーケー）は United Kingdom の略で「英国・イギリス」を指します。イングランド・スコットランド・ウェールズ・北アイルランドからなる連合王国です。※固有名詞。",
+    "keywords": ["uk 意味", "イギリス 英語", "uk 正式名称", "united kingdom"],
+    "meanings": [
+      { "hinshi": "【固有名詞】英国、イギリス(UK)", "note": "United Kingdom の頭字語。※普通は the UK と表記" },
+      { "hinshi": "【補足】4つの地域の連合王国", "note": "イングランド、スコットランド、ウェールズ、北アイルランドからなる" }
+    ],
+    "usages": [
+      { "title": "① 国として", "desc": "ヨーロッパの島国", "example_en": "London is the capital of the UK.", "example_ja": "ロンドンはイギリスの首都だ。" },
+      { "title": "② 出身・在住を表す", "desc": "「イギリスの」の文脈", "example_en": "She has lived in the UK for ten years.", "example_ja": "彼女は10年間イギリスに住んでいる。" }
+    ],
+    "warn": ["UK は頭字語（固有名詞）。通常 the UK と the を付ける", "England（イングランド）は UK の一部で、UK 全体とは別"],
+    "etym_note": "United（連合した）Kingdom（王国）の頭文字を取った頭字語。正式名称は the United Kingdom of Great Britain and Northern Ireland。",
+    "etym_chain": [
+      { "node": "United Kingdom", "sub": "連合王国", "era": "1801年" },
+      { "node": "UK", "sub": "頭字語", "era": "現代" }
+    ],
+    "phrases": [
+      { "en": "the UK", "ja": "イギリス・英国" },
+      { "en": "in the UK", "ja": "イギリスで" },
+      { "en": "UK government", "ja": "英国政府" },
+      { "en": "the whole of the UK", "ja": "英国全体" },
+      { "en": "leave the UK", "ja": "イギリスを離れる" },
+      { "en": "UK citizen", "ja": "英国民" }
+    ],
+    "related": [
+      { "en": "england", "ja": "イングランド" },
+      { "en": "britain", "ja": "ブリテン・英国" },
+      { "en": "scotland", "ja": "スコットランド" },
+      { "en": "kingdom", "ja": "王国" }
+    ],
+    "faq": [
+      { "q": "UK は何の略？", "a": "United Kingdom（連合王国）の略です。正式には the United Kingdom of Great Britain and Northern Ireland（グレートブリテンおよび北アイルランド連合王国）です。" },
+      { "q": "UK と England は同じ？", "a": "いいえ。England（イングランド）は UK を構成する4つの地域の一つで、UK 全体とは異なります。" }
+    ],
+    "quiz": [
+      { "q": "UK は何の略？", "A": "連合王国(イギリス)", "B": "ウクライナ", "C": "国連機関", "D": "欧州連合", "correct": "A" },
+      { "q": "次のうち UK に含まれないのは？", "A": "アイルランド共和国", "B": "スコットランド", "C": "ウェールズ", "D": "北アイルランド", "correct": "A" }
+    ]
+  }
+]
