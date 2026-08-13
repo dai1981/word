@@ -1,0 +1,1012 @@
+[
+{
+  "english": "hey",
+  "pron": "heɪ",
+  "kana": "ヘイ",
+  "hinshi": "間投詞",
+  "ld_pos": "間投詞",
+  "ld_etym": "中英語の呼びかけの声",
+  "ld_level": "5級",
+  "badges": ["小学生〜", "英検5級", "CEFR A1", "やあ・ちょっと(間投詞)"],
+  "meaning_main": "やあ / ちょっと / おい(呼びかけ・驚き)",
+  "description": "hey（ヘイ）は「やあ・ちょっと・おい」を表す間投詞。親しい相手へのくだけたあいさつや、注意を引くための呼びかけ、驚き・抗議の声として使われます。カジュアルな場面でよく使う語です。",
+  "keywords": ["hey 意味", "hey 使い方", "やあ 英語", "呼びかけ 英語", "hey あいさつ"],
+  "meanings": [
+    { "hinshi": "【間投詞】やあ、こんにちは", "note": "親しい相手へのくだけたあいさつ" },
+    { "hinshi": "【間投詞】ちょっと、おい", "note": "注意を引く呼びかけ" },
+    { "hinshi": "【間投詞】おや、えっ", "note": "驚きや抗議の声" }
+  ],
+  "usages": [
+    { "title": "① あいさつとして", "desc": "親しい相手への軽いあいさつ。", "example_en": "Hey, how are you?", "example_ja": "やあ、元気？" },
+    { "title": "② 注意を引く", "desc": "呼びかけや抗議として。", "example_en": "Hey, wait for me!", "example_ja": "ちょっと、待ってよ！" }
+  ],
+  "warn": ["くだけた口語。目上やフォーマルな場では hello を使う方が丁寧"],
+  "etym_note": "中英語の呼びかけ・驚きを表す自然な発声に由来する間投詞。",
+  "etym_chain": [
+    { "node": "hei", "sub": "呼びかけの声", "era": "中英語" },
+    { "node": "hey", "sub": "やあ、おい", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "Hey there", "ja": "やあ" },
+    { "en": "Hey, wait!", "ja": "ちょっと、待って！" },
+    { "en": "Hey, guys", "ja": "やあ、みんな" },
+    { "en": "Hey, that's mine", "ja": "おい、それ僕のだよ" },
+    { "en": "Hey, look at this", "ja": "ねえ、これ見て" },
+    { "en": "Hey, no problem", "ja": "いやいや、問題ないよ" }
+  ],
+  "related": [
+    { "en": "hi", "ja": "やあ" },
+    { "en": "hello", "ja": "こんにちは" },
+    { "en": "yo", "ja": "よう" },
+    { "en": "hey there", "ja": "やあ" }
+  ],
+  "faq": [
+    { "q": "hey と hi の違いは？", "a": "どちらもくだけたあいさつですが、hey は特に親しい相手向けで、呼びかけや驚きにも使えます。hi は純粋なあいさつです。" },
+    { "q": "hey は失礼？", "a": "親しい相手には自然ですが、目上の人や初対面・フォーマルな場では hello の方が丁寧です。" }
+  ],
+  "quiz": [
+    { "q": "hey の使い方は？", "A": "くだけたあいさつ・呼びかけ", "B": "感謝", "C": "謝罪", "D": "命令のみ", "correct": "A" },
+    { "q": "hey と近い意味の語は？", "A": "hi", "B": "bye", "C": "no", "D": "yes", "correct": "A" }
+  ]
+},
+{
+  "english": "hibernate",
+  "pron": "ˈhaɪbərneɪt",
+  "kana": "ハイバネイト",
+  "hinshi": "動詞",
+  "ld_pos": "動詞",
+  "ld_etym": "ラテン語 hibernare（冬を過ごす）",
+  "ld_level": "2級",
+  "badges": ["中学生〜", "英検2級", "CEFR B1", "冬眠する"],
+  "meaning_main": "冬眠する / 冬ごもりする / (活動を)休止する",
+  "description": "hibernate（ハイバネイト）は「冬眠する」を表す動詞。クマやカエルなどの動物が冬の間、活動を止めて眠って過ごすことを指します。転じて、人が家に引きこもったり、活動を休止したりする比喩でも使われます。ラテン語 hibernare（冬を過ごす）が語源です。",
+  "keywords": ["hibernate 意味", "hibernate 使い方", "冬眠 英語", "冬ごもり 英語", "hibernation"],
+  "meanings": [
+    { "hinshi": "【動詞】冬眠する", "note": "動物が冬の間眠って過ごす" },
+    { "hinshi": "【動詞】冬ごもりする、引きこもる", "note": "比喩的に活動を控える" },
+    { "hinshi": "【動詞】(PCが)休止状態になる", "note": "省電力状態" }
+  ],
+  "usages": [
+    { "title": "① 動物が冬眠する", "desc": "冬の間眠って過ごす意味で。", "example_en": "Bears hibernate through the winter.", "example_ja": "クマは冬の間ずっと冬眠する。" },
+    { "title": "② 比喩的に引きこもる", "desc": "活動を控える意味でも。", "example_en": "I just want to hibernate on cold days.", "example_ja": "寒い日は家に引きこもっていたい。" }
+  ],
+  "warn": ["名詞は hibernation（冬眠）。夏眠は aestivate という別語"],
+  "etym_note": "ラテン語 hibernare（hibernus「冬の」より、冬を過ごす）に由来する動詞。",
+  "etym_chain": [
+    { "node": "hibernus", "sub": "冬の", "era": "ラテン語" },
+    { "node": "hibernare", "sub": "冬を過ごす", "era": "ラテン語" },
+    { "node": "hibernate", "sub": "冬眠する", "era": "18世紀" }
+  ],
+  "phrases": [
+    { "en": "hibernate in winter", "ja": "冬に冬眠する" },
+    { "en": "animals hibernate", "ja": "動物が冬眠する" },
+    { "en": "hibernate for months", "ja": "何か月も冬眠する" },
+    { "en": "go into hibernation", "ja": "冬眠に入る" },
+    { "en": "hibernate at home", "ja": "家に引きこもる" },
+    { "en": "hibernate mode", "ja": "休止状態(PC)" }
+  ],
+  "related": [
+    { "en": "hibernation", "ja": "冬眠" },
+    { "en": "sleep", "ja": "眠る" },
+    { "en": "winter", "ja": "冬" },
+    { "en": "dormant", "ja": "休眠状態の" }
+  ],
+  "faq": [
+    { "q": "hibernate の名詞は？", "a": "hibernation（冬眠）です。go into hibernation で『冬眠に入る』となります。" },
+    { "q": "hibernate は人にも使う？", "a": "はい。比喩的に『家に引きこもる・活動を控える』意味で使えます。" }
+  ],
+  "quiz": [
+    { "q": "hibernate の意味は？", "A": "冬眠する", "B": "移動する", "C": "狩りをする", "D": "産卵する", "correct": "A" },
+    { "q": "hibernate の名詞は？", "A": "hibernation", "B": "hibernance", "C": "hibernity", "D": "hibernment", "correct": "A" }
+  ]
+},
+{
+  "english": "hideaway",
+  "pron": "ˈhaɪdəweɪ",
+  "kana": "ハイダウェイ",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "hide（隠れる）+ away（離れて）",
+  "ld_level": "2級",
+  "badges": ["中学生〜", "英検2級", "CEFR B1", "隠れ家"],
+  "meaning_main": "隠れ家 / 人目を避ける場所 / くつろげる秘密の場所",
+  "description": "hideaway（ハイダウェイ）は「隠れ家」を表す名詞。人目を避けて身を隠したり、静かにくつろいだりできる場所を指します。人里離れた別荘やこぢんまりした宿など、心地よい隠れ場所を表すことが多い語です。hide（隠れる）+ away（離れて）が語源です。",
+  "keywords": ["hideaway 意味", "hideaway 使い方", "隠れ家 英語", "秘密の場所 英語", "hide"],
+  "meanings": [
+    { "hinshi": "【名詞】隠れ家", "note": "人目を避けて身を隠す場所" },
+    { "hinshi": "【名詞】くつろげる静かな場所", "note": "人里離れた別荘や宿" },
+    { "hinshi": "【形容詞的】隠れた、収納式の", "note": "a hideaway bed（収納式ベッド）" }
+  ],
+  "usages": [
+    { "title": "① 静かな隠れ家", "desc": "くつろげる秘密の場所として。", "example_en": "The cabin is our secret hideaway.", "example_ja": "その小屋は私たちの秘密の隠れ家だ。" },
+    { "title": "② 身を隠す場所", "desc": "人目を避ける場所として。", "example_en": "The thieves used the cave as a hideaway.", "example_ja": "泥棒たちはその洞窟を隠れ家に使った。" }
+  ],
+  "warn": ["hideout(犯罪者の隠れ家)より、くつろぎ・休息の隠れ家のニュアンスが強い"],
+  "etym_note": "hide（隠れる）+ away（離れて）で「離れて隠れる場所=隠れ家」を意味する複合語。",
+  "etym_chain": [
+    { "node": "hide + away", "sub": "離れて隠れる", "era": "—" },
+    { "node": "hideaway", "sub": "隠れ家", "era": "20世紀" }
+  ],
+  "phrases": [
+    { "en": "a secret hideaway", "ja": "秘密の隠れ家" },
+    { "en": "mountain hideaway", "ja": "山の隠れ家" },
+    { "en": "cozy hideaway", "ja": "居心地の良い隠れ家" },
+    { "en": "romantic hideaway", "ja": "ロマンチックな隠れ家" },
+    { "en": "perfect hideaway", "ja": "うってつけの隠れ家" },
+    { "en": "little hideaway", "ja": "こぢんまりした隠れ家" }
+  ],
+  "related": [
+    { "en": "hideout", "ja": "潜伏場所" },
+    { "en": "retreat", "ja": "隠れ処、静養地" },
+    { "en": "shelter", "ja": "避難所" },
+    { "en": "refuge", "ja": "避難所" }
+  ],
+  "faq": [
+    { "q": "hideaway と hideout の違いは？", "a": "hideout は主に『犯罪者などの潜伏場所』、hideaway は『くつろげる静かな隠れ家』というよりよい響きの語です。" },
+    { "q": "hideaway bed とは？", "a": "使わないときは折りたたんで収納できる『収納式ベッド』のことです。" }
+  ],
+  "quiz": [
+    { "q": "hideaway の意味は？", "A": "隠れ家", "B": "駅", "C": "工場", "D": "市場", "correct": "A" },
+    { "q": "hideaway と近い意味は？", "A": "retreat(隠れ処)", "B": "highway", "C": "airport", "D": "office", "correct": "A" }
+  ]
+},
+{
+  "english": "hieroglyphics",
+  "pron": "ˌhaɪroʊˈɡlɪfɪks",
+  "kana": "ハイログリフィクス",
+  "hinshi": "名詞(複数形)",
+  "ld_pos": "名詞",
+  "ld_etym": "ギリシャ語 hieros（聖なる）+ glyphein（刻む）",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "象形文字"],
+  "meaning_main": "象形文字 / (古代エジプトの)ヒエログリフ / (比喩)判読不能な字",
+  "description": "hieroglyphics（ハイログリフィクス）は「象形文字・ヒエログリフ」を表す名詞。特に古代エジプトで使われた、絵のような文字体系を指します。転じて『判読不能な走り書き』の比喩でも使われます。ギリシャ語 hieros（聖なる）+ glyphein（刻む）が語源です。",
+  "keywords": ["hieroglyphics 意味", "象形文字 英語", "ヒエログリフ 英語", "古代エジプト 文字", "hieroglyph"],
+  "meanings": [
+    { "hinshi": "【名詞】象形文字、ヒエログリフ", "note": "古代エジプトの絵文字体系" },
+    { "hinshi": "【名詞】(一般に)絵文字体系", "note": "絵で表す文字全般" },
+    { "hinshi": "【名詞】(比喩)判読不能な字", "note": "読めない走り書き" }
+  ],
+  "usages": [
+    { "title": "① 古代エジプトの文字", "desc": "ヒエログリフを指す。", "example_en": "The tomb walls were covered in hieroglyphics.", "example_ja": "墓の壁は象形文字で覆われていた。" },
+    { "title": "② 読めない字の比喩", "desc": "判読不能な走り書きを表す。", "example_en": "His handwriting looks like hieroglyphics.", "example_ja": "彼の字はまるで象形文字のようだ。" }
+  ],
+  "warn": ["単数形は hieroglyph(一文字)。hieroglyphics は文字体系全体を指す複数形" ],
+  "etym_note": "ギリシャ語 hieros（聖なる）+ glyphein（刻む）で「聖なる刻み字」を意味する。神殿の碑文に使われたことから。",
+  "etym_chain": [
+    { "node": "hieros + glyphein", "sub": "聖なる刻み", "era": "ギリシャ語" },
+    { "node": "hieroglyph", "sub": "象形文字", "era": "16世紀" },
+    { "node": "hieroglyphics", "sub": "象形文字(体系)", "era": "17世紀" }
+  ],
+  "phrases": [
+    { "en": "ancient hieroglyphics", "ja": "古代の象形文字" },
+    { "en": "Egyptian hieroglyphics", "ja": "エジプトのヒエログリフ" },
+    { "en": "decipher hieroglyphics", "ja": "象形文字を解読する" },
+    { "en": "carved hieroglyphics", "ja": "刻まれた象形文字" },
+    { "en": "read hieroglyphics", "ja": "象形文字を読む" },
+    { "en": "look like hieroglyphics", "ja": "象形文字のように見える" }
+  ],
+  "related": [
+    { "en": "hieroglyph", "ja": "象形文字(一文字)" },
+    { "en": "symbol", "ja": "記号" },
+    { "en": "egypt", "ja": "エジプト" },
+    { "en": "script", "ja": "文字、書体" }
+  ],
+  "faq": [
+    { "q": "hieroglyphics とは？", "a": "古代エジプトなどで使われた、絵のような形の文字体系(象形文字)です。ロゼッタストーンによって解読されました。" },
+    { "q": "単数形は？", "a": "一文字は hieroglyph、体系全体は hieroglyphics(複数形)です。" }
+  ],
+  "quiz": [
+    { "q": "hieroglyphics の意味は？", "A": "象形文字", "B": "数字", "C": "楽譜", "D": "地図記号", "correct": "A" },
+    { "q": "hieroglyphics はどこで使われた？", "A": "古代エジプト", "B": "現代アメリカ", "C": "古代ローマのみ", "D": "中世フランス", "correct": "A" }
+  ]
+},
+{
+  "english": "hijab",
+  "pron": "hɪˈdʒɑːb",
+  "kana": "ヒジャブ",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "アラビア語 ḥijāb（覆い・仕切り）",
+  "ld_level": "2級",
+  "badges": ["中学生〜", "英検2級", "CEFR B1", "ヒジャブ"],
+  "meaning_main": "ヒジャブ / (イスラム教徒女性の)頭を覆うスカーフ",
+  "description": "hijab（ヒジャブ）は「ヒジャブ」を表す名詞。イスラム教徒の女性が髪や首を覆うために身につけるスカーフを指します。宗教的・文化的な慎みを表す装いです。アラビア語 ḥijāb（覆い・仕切り）が語源です。",
+  "keywords": ["hijab 意味", "ヒジャブ 英語", "イスラム 女性 スカーフ", "頭を覆う 英語", "veil"],
+  "meanings": [
+    { "hinshi": "【名詞】ヒジャブ", "note": "イスラム女性が髪・首を覆うスカーフ" },
+    { "hinshi": "【名詞】(イスラムの)覆いの慣習", "note": "慎みを表す装いや習慣" },
+    { "hinshi": "【補足】類語", "note": "顔まで覆うものは niqab、全身は burqa" }
+  ],
+  "usages": [
+    { "title": "① スカーフとして", "desc": "髪と首を覆う布を指す。", "example_en": "She wears a hijab in public.", "example_ja": "彼女は人前でヒジャブを着用する。" },
+    { "title": "② 文化・習慣を表す", "desc": "慎みの装いとして。", "example_en": "The hijab has deep cultural meaning.", "example_ja": "ヒジャブには深い文化的意味がある。" }
+  ],
+  "warn": ["顔を覆う niqab、全身を覆う burqa とは区別する。hijab は主に髪・首を覆う"],
+  "etym_note": "アラビア語 ḥijāb（覆い、仕切り、遮蔽）に由来し、女性の頭を覆うスカーフを指す。",
+  "etym_chain": [
+    { "node": "ḥijāb", "sub": "覆い、仕切り", "era": "アラビア語" },
+    { "node": "hijab", "sub": "ヒジャブ", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "wear a hijab", "ja": "ヒジャブを着用する" },
+    { "en": "put on a hijab", "ja": "ヒジャブをかぶる" },
+    { "en": "a colorful hijab", "ja": "色鮮やかなヒジャブ" },
+    { "en": "hijab-wearing women", "ja": "ヒジャブを着けた女性たち" },
+    { "en": "remove the hijab", "ja": "ヒジャブを外す" },
+    { "en": "the meaning of the hijab", "ja": "ヒジャブの意味" }
+  ],
+  "related": [
+    { "en": "veil", "ja": "ベール" },
+    { "en": "scarf", "ja": "スカーフ" },
+    { "en": "islam", "ja": "イスラム教" },
+    { "en": "modesty", "ja": "慎み" }
+  ],
+  "faq": [
+    { "q": "hijab と niqab の違いは？", "a": "hijab は『髪・首を覆うスカーフ(顔は出す)』、niqab は『目以外の顔も覆う布』です。全身を覆うのは burqa です。" },
+    { "q": "hijab の語源は？", "a": "アラビア語 ḥijāb で『覆い・仕切り』を意味します。" }
+  ],
+  "quiz": [
+    { "q": "hijab の意味は？", "A": "イスラム女性が頭を覆うスカーフ", "B": "帽子", "C": "手袋", "D": "靴", "correct": "A" },
+    { "q": "hijab はどの宗教に関係する？", "A": "イスラム教", "B": "仏教", "C": "神道", "D": "ヒンドゥー教", "correct": "A" }
+  ]
+},
+{
+  "english": "hitter",
+  "pron": "ˈhɪtər",
+  "kana": "ヒッター",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "hit（打つ）+ -er（する人）",
+  "ld_level": "3級",
+  "badges": ["中学生〜", "英検3級", "CEFR A2", "打者"],
+  "meaning_main": "打者 / (野球の)バッター / 打つ人",
+  "description": "hitter（ヒッター）は「打者・バッター」を表す名詞。特に野球でボールを打つ選手を指します。hit（打つ）+ -er（する人）が語源です。強打者は power hitter、代打は pinch hitter と言います。",
+  "keywords": ["hitter 意味", "hitter 使い方", "打者 英語", "バッター 英語", "野球 打つ人"],
+  "meanings": [
+    { "hinshi": "【名詞】打者、バッター", "note": "野球でボールを打つ選手" },
+    { "hinshi": "【名詞】打つ人、殴る人", "note": "一般に打撃を加える人" },
+    { "hinshi": "【補足】種類", "note": "強打者は power hitter、代打は pinch hitter" }
+  ],
+  "usages": [
+    { "title": "① 野球の打者", "desc": "ボールを打つ選手を指す。", "example_en": "He is the best hitter on the team.", "example_ja": "彼はチームで最高の打者だ。" },
+    { "title": "② 打撃の強さを表す", "desc": "power hitter などの形で。", "example_en": "She's a real power hitter.", "example_ja": "彼女は本物の強打者だ。" }
+  ],
+  "warn": ["野球ではボールを打つ選手。batter とほぼ同義。pinch hitter は代打"],
+  "etym_note": "hit（打つ）に行為者を表す -er が付いて「打つ人」を意味する。",
+  "etym_chain": [
+    { "node": "hittan", "sub": "打つ、当たる", "era": "古英語" },
+    { "node": "hit", "sub": "打つ", "era": "中英語" },
+    { "node": "hitter", "sub": "打者", "era": "19世紀" }
+  ],
+  "phrases": [
+    { "en": "power hitter", "ja": "強打者" },
+    { "en": "pinch hitter", "ja": "代打" },
+    { "en": "designated hitter", "ja": "指名打者(DH)" },
+    { "en": "a great hitter", "ja": "優れた打者" },
+    { "en": "left-handed hitter", "ja": "左打者" },
+    { "en": "clean-up hitter", "ja": "4番打者" }
+  ],
+  "related": [
+    { "en": "hit", "ja": "打つ" },
+    { "en": "batter", "ja": "打者" },
+    { "en": "baseball", "ja": "野球" },
+    { "en": "pitcher", "ja": "投手" }
+  ],
+  "faq": [
+    { "q": "hitter と batter の違いは？", "a": "どちらも野球の打者を指し、ほぼ同義です。hitter は打撃能力を、batter は打席に立つ選手を強調する語感があります。" },
+    { "q": "pinch hitter とは？", "a": "『代打』のことで、他の選手に代わって打席に入る選手です。比喩で『ピンチの助っ人』の意味でも使います。" }
+  ],
+  "quiz": [
+    { "q": "hitter の意味は？", "A": "打者・バッター", "B": "投手", "C": "捕手", "D": "審判", "correct": "A" },
+    { "q": "pinch hitter の意味は？", "A": "代打", "B": "先発", "C": "守備固め", "D": "監督", "correct": "A" }
+  ]
+},
+{
+  "english": "homebound",
+  "pron": "ˈhoʊmbaʊnd",
+  "kana": "ホームバウンド",
+  "hinshi": "形容詞",
+  "ld_pos": "形容詞",
+  "ld_etym": "home（家）+ bound（向かう・縛られた）",
+  "ld_level": "2級",
+  "badges": ["高校生〜", "英検2級", "CEFR B2", "帰宅途中の・家に縛られた"],
+  "meaning_main": "帰宅途中の / 家に縛られた / 外出できない",
+  "description": "homebound（ホームバウンド）は「帰宅途中の」または「家に縛られた・外出できない」を表す形容詞。bound の二つの意味により、家へ向かっている状態と、病気などで家から出られない状態の両方を表します。home（家）+ bound が語源です。",
+  "keywords": ["homebound 意味", "homebound 使い方", "帰宅途中 英語", "家に縛られた 英語", "外出できない 英語"],
+  "meanings": [
+    { "hinshi": "【形容詞】帰宅途中の、家路につく", "note": "bound「向かう」の意味" },
+    { "hinshi": "【形容詞】家に縛られた、外出できない", "note": "bound「縛られた」の意味" },
+    { "hinshi": "【形容詞】(病気などで)在宅の", "note": "外に出られない状態" }
+  ],
+  "usages": [
+    { "title": "① 帰宅途中の", "desc": "家へ向かう意味で。", "example_en": "The homebound commuters filled the train.", "example_ja": "帰宅途中の通勤客が電車を埋めた。" },
+    { "title": "② 家から出られない", "desc": "病気などで在宅の意味で。", "example_en": "The illness left her homebound for months.", "example_ja": "その病気で彼女は何か月も外出できなかった。" }
+  ],
+  "warn": ["bound の二義により文脈で意味が変わる。『帰宅途中』か『家に縛られた』か注意"],
+  "etym_note": "home（家）+ bound（〜へ向かう／縛られた）で、「家へ向かう」または「家に縛られた」を意味する。",
+  "etym_chain": [
+    { "node": "home + bound", "sub": "家へ／家に縛られて", "era": "—" },
+    { "node": "homebound", "sub": "帰宅途中の／家に縛られた", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "homebound commuters", "ja": "帰宅途中の通勤客" },
+    { "en": "homebound traffic", "ja": "帰宅ラッシュの交通" },
+    { "en": "homebound patient", "ja": "在宅患者" },
+    { "en": "become homebound", "ja": "外出できなくなる" },
+    { "en": "homebound elderly", "ja": "外出できない高齢者" },
+    { "en": "homebound for weeks", "ja": "何週間も家から出られない" }
+  ],
+  "related": [
+    { "en": "home", "ja": "家" },
+    { "en": "bound", "ja": "〜行きの、縛られた" },
+    { "en": "housebound", "ja": "家に閉じこもった" },
+    { "en": "confined", "ja": "閉じ込められた" }
+  ],
+  "faq": [
+    { "q": "homebound は『帰宅途中』？『外出できない』？", "a": "文脈次第で両方あります。bound が『〜へ向かう』なら帰宅途中、『縛られた』なら家から出られない、の意味です。" },
+    { "q": "homebound と housebound の違いは？", "a": "housebound は主に『(病気などで)家に閉じこもった』意味、homebound はそれに加え『帰宅途中の』意味も持ちます。" }
+  ],
+  "quiz": [
+    { "q": "homebound の意味の一つは？", "A": "帰宅途中の", "B": "海外へ向かう", "C": "旅行中の", "D": "出勤中の", "correct": "A" },
+    { "q": "病気で homebound の意味は？", "A": "外出できない・在宅の", "B": "入院中の", "C": "回復した", "D": "引っ越した", "correct": "A" }
+  ]
+},
+{
+  "english": "homey",
+  "pron": "ˈhoʊmi",
+  "kana": "ホウミー",
+  "hinshi": "形容詞",
+  "ld_pos": "形容詞",
+  "ld_etym": "home（家）+ -y",
+  "ld_level": "2級",
+  "badges": ["中学生〜", "英検2級", "CEFR B1", "家庭的な"],
+  "meaning_main": "家庭的な / くつろげる / アットホームな",
+  "description": "homey（ホウミー）は「家庭的な・くつろげる」を表す形容詞。自分の家のように居心地がよく、温かい雰囲気を指します。主にアメリカ英語で、イギリス英語では homely が同じ意味で使われます。home（家）+ -y が語源です。",
+  "keywords": ["homey 意味", "homey 使い方", "家庭的 英語", "くつろげる 英語", "homely 違い"],
+  "meanings": [
+    { "hinshi": "【形容詞】家庭的な、くつろげる", "note": "自分の家のように居心地がよい" },
+    { "hinshi": "【形容詞】アットホームな", "note": "温かく親しみやすい雰囲気" },
+    { "hinshi": "【補足】表記", "note": "homy とも綴る。英では homely" }
+  ],
+  "usages": [
+    { "title": "① 居心地の良い雰囲気", "desc": "くつろげる場所を表す。", "example_en": "The cafe has a homey atmosphere.", "example_ja": "そのカフェは家庭的な雰囲気だ。" },
+    { "title": "② 温かみのある空間", "desc": "アットホームな様子を指す。", "example_en": "They made the room feel homey.", "example_ja": "彼らは部屋をくつろげる雰囲気にした。" }
+  ],
+  "warn": ["米では homey(家庭的な)。英の homely は『家庭的な』または『器量のよくない』の意味もあり注意"],
+  "etym_note": "home（家）+ -y（〜のような）で「家のような=家庭的な」を意味する。主にアメリカ英語。",
+  "etym_chain": [
+    { "node": "home", "sub": "家", "era": "古英語" },
+    { "node": "homey", "sub": "家庭的な", "era": "19世紀" }
+  ],
+  "phrases": [
+    { "en": "homey atmosphere", "ja": "家庭的な雰囲気" },
+    { "en": "a homey feel", "ja": "アットホームな感じ" },
+    { "en": "cozy and homey", "ja": "居心地よく家庭的な" },
+    { "en": "homey restaurant", "ja": "家庭的なレストラン" },
+    { "en": "make it homey", "ja": "くつろげる雰囲気にする" },
+    { "en": "warm and homey", "ja": "温かく家庭的な" }
+  ],
+  "related": [
+    { "en": "cozy", "ja": "居心地の良い" },
+    { "en": "homely", "ja": "家庭的な(英)" },
+    { "en": "comfortable", "ja": "快適な" },
+    { "en": "welcoming", "ja": "温かく迎える" }
+  ],
+  "faq": [
+    { "q": "homey と homely の違いは？", "a": "アメリカ英語の homey は『家庭的な・くつろげる』。イギリス英語の homely は同じ意味に加え、人については『器量のよくない』という意味もあるので注意です。" },
+    { "q": "homey と cozy の違いは？", "a": "cozy は『(狭くて)居心地の良い』、homey は『家のように親しみやすく温かい』ニュアンスです。" }
+  ],
+  "quiz": [
+    { "q": "homey の意味は？", "A": "家庭的な・くつろげる", "B": "冷たい", "C": "豪華な", "D": "騒がしい", "correct": "A" },
+    { "q": "homey のイギリス英語での語は？", "A": "homely", "B": "homeward", "C": "homesick", "D": "homework", "correct": "A" }
+  ]
+},
+{
+  "english": "homograph",
+  "pron": "ˈhɑːməɡræf",
+  "kana": "ホモグラフ",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "ギリシャ語 homos（同じ）+ graphein（書く）",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "同形異義語"],
+  "meaning_main": "同形異義語 / 綴りが同じで意味の異なる語",
+  "description": "homograph（ホモグラフ）は「同形異義語」を表す名詞。綴りが同じでも意味(や発音)が異なる語を指します。例えば bow(お辞儀/弓)や lead(導く/鉛)などです。ギリシャ語 homos（同じ）+ graphein（書く）が語源です。",
+  "keywords": ["homograph 意味", "同形異義語 英語", "homophone 違い", "綴りが同じ 英語", "homonym"],
+  "meanings": [
+    { "hinshi": "【名詞】同形異義語", "note": "綴りが同じで意味が異なる語" },
+    { "hinshi": "【名詞】(発音も違う場合)異音同形語", "note": "lead(リード/レッド)など" },
+    { "hinshi": "【補足】関連語", "note": "発音が同じは homophone、両方は homonym" }
+  ],
+  "usages": [
+    { "title": "① 綴りが同じ語", "desc": "意味の異なる同形の語を表す。", "example_en": "\"Bow\" is a homograph with two meanings.", "example_ja": "「bow」は二つの意味を持つ同形異義語だ。" },
+    { "title": "② 言語学の説明", "desc": "文法・語彙の解説で使う。", "example_en": "Homographs can confuse language learners.", "example_ja": "同形異義語は学習者を混乱させることがある。" }
+  ],
+  "warn": ["homophone(発音が同じ)、homonym(綴りも発音も同じ)と区別する"],
+  "etym_note": "ギリシャ語 homos（同じ）+ graphein（書く）で「同じ書き方の語」を意味する。",
+  "etym_chain": [
+    { "node": "homos + graphein", "sub": "同じ書き方", "era": "ギリシャ語" },
+    { "node": "homograph", "sub": "同形異義語", "era": "19世紀" }
+  ],
+  "phrases": [
+    { "en": "a common homograph", "ja": "よくある同形異義語" },
+    { "en": "homograph pairs", "ja": "同形異義語の組" },
+    { "en": "identify homographs", "ja": "同形異義語を見分ける" },
+    { "en": "homograph and homophone", "ja": "同形異義語と同音異義語" },
+    { "en": "tricky homograph", "ja": "紛らわしい同形異義語" },
+    { "en": "list of homographs", "ja": "同形異義語のリスト" }
+  ],
+  "related": [
+    { "en": "homophone", "ja": "同音異義語" },
+    { "en": "homonym", "ja": "同音同形異義語" },
+    { "en": "spelling", "ja": "綴り" },
+    { "en": "meaning", "ja": "意味" }
+  ],
+  "faq": [
+    { "q": "homograph と homophone の違いは？", "a": "homograph は『綴りが同じで意味が違う語』、homophone は『発音が同じで綴り・意味が違う語(例: to/two/too)』です。" },
+    { "q": "homograph の例は？", "a": "bow(お辞儀/弓)、lead(導く/鉛)、tear(涙/裂く)など、綴りが同じで意味が異なる語です。" }
+  ],
+  "quiz": [
+    { "q": "homograph とは？", "A": "綴りが同じで意味が異なる語", "B": "発音が同じ語", "C": "反対の意味の語", "D": "外来語", "correct": "A" },
+    { "q": "homograph の例は？", "A": "bow(お辞儀/弓)", "B": "big(大きい)", "C": "run(走る)", "D": "cat(猫)", "correct": "A" }
+  ]
+},
+{
+  "english": "homophony",
+  "pron": "həˈmɑːfəni",
+  "kana": "ホモフォニー",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "ギリシャ語 homos（同じ）+ phōnē（音）",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "同音性・ホモフォニー"],
+  "meaning_main": "同音性 / (音楽)ホモフォニー / 主旋律に和音が伴う様式",
+  "description": "homophony（ホモフォニー）は「同音性」または音楽用語の「ホモフォニー」を表す名詞。言語では発音が同じであること、音楽では主旋律を和音(伴奏)が支える様式を指します。対する音楽様式は polyphony(多声音楽)です。ギリシャ語 homos（同じ）+ phōnē（音）が語源です。",
+  "keywords": ["homophony 意味", "ホモフォニー 音楽", "同音性 英語", "polyphony 反対", "homophone"],
+  "meanings": [
+    { "hinshi": "【名詞】(音楽)ホモフォニー", "note": "主旋律を和音・伴奏が支える様式" },
+    { "hinshi": "【名詞】(言語)同音性", "note": "発音が同じであること" },
+    { "hinshi": "【補足】対比", "note": "音楽で対するのは polyphony(多声)" }
+  ],
+  "usages": [
+    { "title": "① 音楽様式として", "desc": "主旋律+和音の様式を表す。", "example_en": "Most pop songs use homophony.", "example_ja": "ほとんどのポップスはホモフォニーを用いる。" },
+    { "title": "② 言語の同音性", "desc": "発音が同じ性質を指す。", "example_en": "Homophony can cause puns in language.", "example_ja": "同音性は言葉のしゃれを生むことがある。" }
+  ],
+  "warn": ["音楽の polyphony(多声音楽)、monophony(単旋律)と区別する。形容詞は homophonic"],
+  "etym_note": "ギリシャ語 homos（同じ）+ phōnē（音）で「同じ音」を意味する。音楽・言語の両分野で使われる。",
+  "etym_chain": [
+    { "node": "homos + phōnē", "sub": "同じ音", "era": "ギリシャ語" },
+    { "node": "homophony", "sub": "同音性、ホモフォニー", "era": "18世紀" }
+  ],
+  "phrases": [
+    { "en": "homophony in music", "ja": "音楽のホモフォニー" },
+    { "en": "homophonic texture", "ja": "ホモフォニー的な音の構成" },
+    { "en": "homophony and polyphony", "ja": "ホモフォニーとポリフォニー" },
+    { "en": "based on homophony", "ja": "ホモフォニーに基づく" },
+    { "en": "linguistic homophony", "ja": "言語的な同音性" },
+    { "en": "simple homophony", "ja": "単純なホモフォニー" }
+  ],
+  "related": [
+    { "en": "homophone", "ja": "同音異義語" },
+    { "en": "polyphony", "ja": "多声音楽" },
+    { "en": "harmony", "ja": "和声" },
+    { "en": "melody", "ja": "旋律" }
+  ],
+  "faq": [
+    { "q": "homophony と polyphony の違いは？", "a": "homophony は『一つの主旋律を和音・伴奏が支える』様式、polyphony は『複数の独立した旋律が同時に進む』多声音楽です。" },
+    { "q": "homophony と homophone の関係は？", "a": "homophony は『同音であるという性質(名詞)』、homophone は『発音が同じ語(同音異義語)』です。" }
+  ],
+  "quiz": [
+    { "q": "音楽の homophony とは？", "A": "主旋律を和音が支える様式", "B": "複数の独立旋律", "C": "無音", "D": "打楽器のみ", "correct": "A" },
+    { "q": "homophony と対比される多声音楽は？", "A": "polyphony", "B": "symphony", "C": "melody", "D": "rhythm", "correct": "A" }
+  ]
+},
+{
+  "english": "honourable",
+  "pron": "ˈɑːnərəbəl",
+  "kana": "オナラブル",
+  "hinshi": "形容詞",
+  "ld_pos": "形容詞",
+  "ld_etym": "ラテン語 honor（名誉）",
+  "ld_level": "2級",
+  "badges": ["高校生〜", "英検2級", "CEFR B2", "立派な・名誉ある"],
+  "meaning_main": "立派な / 名誉ある / 尊敬すべき",
+  "description": "honourable（オナラブル）は「立派な・名誉ある」を表す形容詞。正直で高潔、尊敬に値する人柄や行いを指します。イギリス綴りで、アメリカ英語では honorable と書きます。また敬称(閣下・議員など)にも使われます。ラテン語 honor（名誉）が語源です。",
+  "keywords": ["honourable 意味", "honourable 使い方", "立派な 英語", "名誉ある 英語", "honorable 綴り"],
+  "meanings": [
+    { "hinshi": "【形容詞】立派な、高潔な", "note": "正直で尊敬に値する" },
+    { "hinshi": "【形容詞】名誉ある", "note": "誇りに値する行いや地位" },
+    { "hinshi": "【形容詞】(敬称)閣下の、議員の", "note": "the Honourable...（〜閣下）" }
+  ],
+  "usages": [
+    { "title": "① 立派な行い", "desc": "高潔で尊敬すべき様子で。", "example_en": "He is an honourable man.", "example_ja": "彼は立派な人物だ。" },
+    { "title": "② 敬称として", "desc": "議員などの尊称に使う。", "example_en": "The Honourable Member spoke next.", "example_ja": "その名誉ある議員が次に発言した。" }
+  ],
+  "warn": ["イギリス綴りは honourable、アメリカ綴りは honorable。h は発音せず母音扱い(an honourable)"],
+  "etym_note": "ラテン語 honor（名誉）→ honour に -able が付いた形容詞。「名誉に値する」を意味する。",
+  "etym_chain": [
+    { "node": "honor", "sub": "名誉", "era": "ラテン語" },
+    { "node": "honour", "sub": "名誉", "era": "13世紀" },
+    { "node": "honourable", "sub": "立派な、名誉ある", "era": "14世紀" }
+  ],
+  "phrases": [
+    { "en": "an honourable man", "ja": "立派な人物" },
+    { "en": "honourable intentions", "ja": "誠実な意図" },
+    { "en": "honourable mention", "ja": "選外佳作、敢闘賞" },
+    { "en": "the Honourable Member", "ja": "議員閣下" },
+    { "en": "honourable discharge", "ja": "名誉除隊" },
+    { "en": "an honourable act", "ja": "立派な行い" }
+  ],
+  "related": [
+    { "en": "honor", "ja": "名誉" },
+    { "en": "honorable", "ja": "立派な(米綴り)" },
+    { "en": "noble", "ja": "高貴な" },
+    { "en": "respectable", "ja": "尊敬すべき" }
+  ],
+  "faq": [
+    { "q": "honourable と honorable の違いは？", "a": "意味は同じで、honourable はイギリス綴り、honorable はアメリカ綴りです。" },
+    { "q": "honourable mention とは？", "a": "『選外佳作・敢闘賞』のことで、入賞は逃したが評価に値するものへの言及です。" }
+  ],
+  "quiz": [
+    { "q": "honourable の意味は？", "A": "立派な・名誉ある", "B": "怪しい", "C": "退屈な", "D": "危険な", "correct": "A" },
+    { "q": "honourable のアメリカ綴りは？", "A": "honorable", "B": "honarable", "C": "honourble", "D": "honorble", "correct": "A" }
+  ]
+},
+{
+  "english": "hoodie",
+  "pron": "ˈhʊdi",
+  "kana": "フーディー",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "hood（フード）+ -ie",
+  "ld_level": "3級",
+  "badges": ["中学生〜", "英検3級", "CEFR A2", "パーカー"],
+  "meaning_main": "パーカー / フード付きトレーナー",
+  "description": "hoodie（フーディー）は「パーカー・フード付きトレーナー」を表す名詞。フード(頭巾)のついた、頭からかぶるかジッパーで開閉するカジュアルな上着を指します。日本語の『パーカー』は和製英語で、英語では hoodie です。hood（フード）+ -ie が語源です。",
+  "keywords": ["hoodie 意味", "hoodie 使い方", "パーカー 英語", "フード付き 英語", "hood"],
+  "meanings": [
+    { "hinshi": "【名詞】パーカー、フード付きトレーナー", "note": "フードのついたカジュアルな上着" },
+    { "hinshi": "【名詞】フードつきの上着全般", "note": "頭からかぶる・ジップ式" },
+    { "hinshi": "【補足】和製英語注意", "note": "日本語の『パーカー』は英語では hoodie" }
+  ],
+  "usages": [
+    { "title": "① カジュアルな上着", "desc": "フード付きのトレーナーを指す。", "example_en": "He wore a gray hoodie.", "example_ja": "彼はグレーのパーカーを着ていた。" },
+    { "title": "② 寒い日の普段着", "desc": "気軽な防寒着として。", "example_en": "I threw on a hoodie and went out.", "example_ja": "私はパーカーを羽織って出かけた。" }
+  ],
+  "warn": ["日本語の『パーカー』は和製英語。英語では hoodie。parka は別物(防寒コート)"],
+  "etym_note": "hood（フード、頭巾）+ -ie（親しみを表す接尾辞）で「フード付きの服」を意味する20世紀後半の語。",
+  "etym_chain": [
+    { "node": "hod", "sub": "頭巾", "era": "古英語" },
+    { "node": "hood", "sub": "フード", "era": "中英語" },
+    { "node": "hoodie", "sub": "パーカー", "era": "20世紀後半" }
+  ],
+  "phrases": [
+    { "en": "wear a hoodie", "ja": "パーカーを着る" },
+    { "en": "a gray hoodie", "ja": "グレーのパーカー" },
+    { "en": "zip-up hoodie", "ja": "ジップアップパーカー" },
+    { "en": "pullover hoodie", "ja": "かぶり型パーカー" },
+    { "en": "put on a hoodie", "ja": "パーカーを羽織る" },
+    { "en": "pull up the hood", "ja": "フードをかぶる" }
+  ],
+  "related": [
+    { "en": "hood", "ja": "フード、頭巾" },
+    { "en": "sweatshirt", "ja": "トレーナー" },
+    { "en": "jacket", "ja": "上着" },
+    { "en": "parka", "ja": "パーカ(防寒コート)" }
+  ],
+  "faq": [
+    { "q": "『パーカー』は英語で？", "a": "英語では hoodie と言います。日本語の『パーカー』は和製英語です。英語の parka は『フード付きの厚い防寒コート』を指す別物です。" },
+    { "q": "hoodie と sweatshirt の違いは？", "a": "hoodie は『フード付き』、sweatshirt はフードのない『トレーナー』です。" }
+  ],
+  "quiz": [
+    { "q": "hoodie の意味は？", "A": "パーカー(フード付きの上着)", "B": "帽子", "C": "手袋", "D": "マフラー", "correct": "A" },
+    { "q": "hoodie の特徴は？", "A": "フードがついている", "B": "ボタンが多い", "C": "袖がない", "D": "革製", "correct": "A" }
+  ]
+},
+{
+  "english": "hopefully",
+  "pron": "ˈhoʊpfəli",
+  "kana": "ホープフリー",
+  "hinshi": "副詞",
+  "ld_pos": "副詞",
+  "ld_etym": "hope（希望）+ -ful + -ly",
+  "ld_level": "3級",
+  "badges": ["中学生〜", "英検3級", "CEFR A2", "できれば・希望を持って"],
+  "meaning_main": "うまくいけば / できれば / 希望を持って",
+  "description": "hopefully（ホープフリー）は「うまくいけば・できれば」を表す副詞。文頭で『そうなるといいのだが』という話し手の願望を表す用法が最も一般的です。また『希望を持って』と動作の様子を表す使い方もあります。hope（希望）+ -ful + -ly が語源です。",
+  "keywords": ["hopefully 意味", "hopefully 使い方", "うまくいけば 英語", "できれば 英語", "希望を持って 英語"],
+  "meanings": [
+    { "hinshi": "【副詞】うまくいけば、できれば", "note": "文頭で話し手の願望を表す" },
+    { "hinshi": "【副詞】希望を持って、期待して", "note": "動作の様子を表す" },
+    { "hinshi": "【補足】用法", "note": "Hopefully, ... の文頭用法が最も一般的" }
+  ],
+  "usages": [
+    { "title": "① 願望を表す(文頭)", "desc": "『そうなるといい』の意味で。", "example_en": "Hopefully, it won't rain tomorrow.", "example_ja": "うまくいけば、明日は雨が降らないだろう。" },
+    { "title": "② 希望を持って", "desc": "期待した様子を表す。", "example_en": "She looked at him hopefully.", "example_ja": "彼女は期待を込めて彼を見た。" }
+  ],
+  "warn": ["文頭の『うまくいけば』の用法が定着。厳密には文法家が議論するが日常では一般的"],
+  "etym_note": "hope（希望）+ -ful（満ちた）+ -ly で「希望に満ちて」を意味する副詞。文修飾の用法が広まった。",
+  "etym_chain": [
+    { "node": "hopa", "sub": "希望", "era": "古英語" },
+    { "node": "hopeful", "sub": "希望に満ちた", "era": "16世紀" },
+    { "node": "hopefully", "sub": "うまくいけば", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "Hopefully, ...", "ja": "うまくいけば、〜" },
+    { "en": "hopefully soon", "ja": "できれば早く" },
+    { "en": "look hopefully", "ja": "期待を込めて見る" },
+    { "en": "hopefully not", "ja": "そうならないといいが" },
+    { "en": "wait hopefully", "ja": "希望を持って待つ" },
+    { "en": "hopefully by then", "ja": "うまくいけばその頃までに" }
+  ],
+  "related": [
+    { "en": "hopeful", "ja": "希望に満ちた" },
+    { "en": "hope", "ja": "希望" },
+    { "en": "hopelessly", "ja": "絶望的に" },
+    { "en": "optimistically", "ja": "楽観的に" }
+  ],
+  "faq": [
+    { "q": "Hopefully, ... の意味は？", "a": "文頭で『うまくいけば・そうなるといいのだが』という話し手の願望を表します。最もよく使われる用法です。" },
+    { "q": "hopefully の反対は？", "a": "動作の様子としては hopelessly(絶望的に)です。文修飾では『残念ながら』の unfortunately が対照的です。" }
+  ],
+  "quiz": [
+    { "q": "文頭の Hopefully の意味は？", "A": "うまくいけば・できれば", "B": "残念ながら", "C": "確実に", "D": "偶然に", "correct": "A" },
+    { "q": "look hopefully の意味は？", "A": "期待を込めて見る", "B": "怒って見る", "C": "無視する", "D": "泣きながら見る", "correct": "A" }
+  ]
+},
+{
+  "english": "hotkey",
+  "pron": "ˈhɑːtkiː",
+  "kana": "ホットキー",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "hot（すぐ反応する）+ key（キー）",
+  "ld_level": "2級",
+  "badges": ["中学生〜", "英検2級", "CEFR B1", "ショートカットキー"],
+  "meaning_main": "ホットキー / ショートカットキー / 操作を素早く行うキー",
+  "description": "hotkey（ホットキー）は「ホットキー・ショートカットキー」を表す名詞。パソコンで、特定の操作を素早く実行するために割り当てられたキーやキーの組み合わせを指します。例えば Ctrl+C(コピー)などです。hot（すぐ反応する）+ key（キー）が語源です。",
+  "keywords": ["hotkey 意味", "ホットキー 英語", "ショートカットキー 英語", "キーボード 操作", "keyboard shortcut"],
+  "meanings": [
+    { "hinshi": "【名詞】ホットキー、ショートカットキー", "note": "操作を素早く実行するキー" },
+    { "hinshi": "【名詞】特定機能に割り当てたキー", "note": "キーの組み合わせで機能を呼ぶ" },
+    { "hinshi": "【補足】類語", "note": "keyboard shortcut もほぼ同義" }
+  ],
+  "usages": [
+    { "title": "① 操作を素早く実行", "desc": "ショートカットキーとして。", "example_en": "Press the hotkey to save the file.", "example_ja": "ホットキーを押してファイルを保存する。" },
+    { "title": "② キー割り当て", "desc": "機能を呼び出すキーとして。", "example_en": "You can set a hotkey for the tool.", "example_ja": "そのツールにホットキーを設定できる。" }
+  ],
+  "warn": ["keyboard shortcut とほぼ同義。IT・コンピュータの用語"],
+  "etym_note": "hot（すぐ反応する、活発な）+ key（キー）で「素早く反応するキー」を意味する。",
+  "etym_chain": [
+    { "node": "hot + key", "sub": "すぐ反応するキー", "era": "20世紀" },
+    { "node": "hotkey", "sub": "ホットキー", "era": "20世紀後半" }
+  ],
+  "phrases": [
+    { "en": "press the hotkey", "ja": "ホットキーを押す" },
+    { "en": "set a hotkey", "ja": "ホットキーを設定する" },
+    { "en": "assign a hotkey", "ja": "ホットキーを割り当てる" },
+    { "en": "custom hotkey", "ja": "独自のホットキー" },
+    { "en": "hotkey combination", "ja": "ホットキーの組み合わせ" },
+    { "en": "use a hotkey", "ja": "ホットキーを使う" }
+  ],
+  "related": [
+    { "en": "shortcut", "ja": "ショートカット" },
+    { "en": "keyboard", "ja": "キーボード" },
+    { "en": "key", "ja": "キー" },
+    { "en": "command", "ja": "コマンド" }
+  ],
+  "faq": [
+    { "q": "hotkey とは？", "a": "パソコンで特定の操作を素早く実行するために割り当てられたキーやキーの組み合わせです。例: Ctrl+C(コピー)。" },
+    { "q": "hotkey と keyboard shortcut の違いは？", "a": "ほぼ同義です。どちらもキー操作で機能を素早く呼び出すことを指します。" }
+  ],
+  "quiz": [
+    { "q": "hotkey の意味は？", "A": "ショートカットキー", "B": "熱い鍵", "C": "パスワード", "D": "電源ボタン", "correct": "A" },
+    { "q": "hotkey の例は？", "A": "Ctrl+C(コピー)", "B": "電源を切る", "C": "画面を拭く", "D": "電池を交換する", "correct": "A" }
+  ]
+},
+{
+  "english": "howling",
+  "pron": "ˈhaʊlɪŋ",
+  "kana": "ハウリング",
+  "hinshi": "動詞(howl の現在分詞) / 形容詞 / 名詞",
+  "ld_pos": "動詞",
+  "ld_etym": "中英語 houlen（遠ぼえする）",
+  "ld_level": "2級",
+  "badges": ["中学生〜", "英検2級", "CEFR B1", "遠ぼえ・うなり"],
+  "meaning_main": "遠ぼえ / (風の)うなり / わめき声",
+  "description": "howling（ハウリング）は howl の現在分詞・形容詞・名詞形で「遠ぼえ・うなり」を表す語。オオカミや犬の遠ぼえ、風が激しくうなる音、人の泣きわめく声などを指します。中英語 houlen（遠ぼえする）が語源です。",
+  "keywords": ["howling 意味", "howl 使い方", "遠ぼえ 英語", "風のうなり 英語", "howl"],
+  "meanings": [
+    { "hinshi": "【動詞】遠ぼえしている、うなっている", "note": "howl の現在分詞" },
+    { "hinshi": "【形容詞】うなる、激しい", "note": "a howling wind（うなる風）" },
+    { "hinshi": "【名詞】遠ぼえ、うなり声", "note": "動物や風の音" }
+  ],
+  "usages": [
+    { "title": "① 動物の遠ぼえ", "desc": "オオカミなどが鳴く様子で。", "example_en": "We heard wolves howling in the distance.", "example_ja": "遠くでオオカミが遠ぼえするのが聞こえた。" },
+    { "title": "② 風のうなり", "desc": "激しく吹く風の音を表す。", "example_en": "A howling wind shook the windows.", "example_ja": "うなる風が窓を揺らした。" }
+  ],
+  "warn": ["音響機器の『ハウリング(不快な音の反響)』は英語では feedback と言う"],
+  "etym_note": "中英語 houlen（遠ぼえする）に由来する擬音的な howl の現在分詞・動名詞。",
+  "etym_chain": [
+    { "node": "houlen", "sub": "遠ぼえする", "era": "中英語" },
+    { "node": "howl", "sub": "遠ぼえする、うなる", "era": "中英語" },
+    { "node": "howling", "sub": "遠ぼえ、うなり", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "howling wind", "ja": "うなる風" },
+    { "en": "wolves howling", "ja": "オオカミの遠ぼえ" },
+    { "en": "a howling gale", "ja": "うなる強風" },
+    { "en": "howling in pain", "ja": "痛みでわめく" },
+    { "en": "howling storm", "ja": "吹き荒れる嵐" },
+    { "en": "howling with laughter", "ja": "大笑いする" }
+  ],
+  "related": [
+    { "en": "howl", "ja": "遠ぼえする" },
+    { "en": "wolf", "ja": "オオカミ" },
+    { "en": "wail", "ja": "泣きわめく" },
+    { "en": "roar", "ja": "うなる、ほえる" }
+  ],
+  "faq": [
+    { "q": "howling with laughter とは？", "a": "『大笑いする・笑い転げる』という意味の表現です。howl には『大声を上げる』意味もあります。" },
+    { "q": "音のハウリングは howling？", "a": "いいえ。マイクとスピーカーで起きる不快な反響音は英語では feedback と言います。" }
+  ],
+  "quiz": [
+    { "q": "howling の意味は？", "A": "遠ぼえ・うなり", "B": "ささやき", "C": "静けさ", "D": "拍手", "correct": "A" },
+    { "q": "howling wind の意味は？", "A": "うなる風", "B": "そよ風", "C": "無風", "D": "暖かい風", "correct": "A" }
+  ]
+},
+{
+  "english": "html",
+  "pron": "ˌeɪtʃ tiː em ˈel",
+  "kana": "エイチティーエムエル",
+  "hinshi": "名詞(略語)",
+  "ld_pos": "名詞",
+  "ld_etym": "HyperText Markup Language の頭字語",
+  "ld_level": "3級",
+  "badges": ["中学生〜", "英検3級", "CEFR A2", "略語・ウェブ言語"],
+  "meaning_main": "HTML / ウェブページを作る記述言語",
+  "description": "html（HTML）は HyperText Markup Language（ハイパーテキスト・マークアップ言語）の頭字語で、ウェブページの構造を記述するための言語。見出し・段落・リンク・画像などをタグで指定します。実際の文中では大文字 HTML と書きます。",
+  "keywords": ["html 意味", "HTML 正式名称", "ウェブページ 言語", "マークアップ言語 英語", "HyperText Markup Language"],
+  "meanings": [
+    { "hinshi": "【名詞】HTML", "note": "HyperText Markup Language の頭字語" },
+    { "hinshi": "【名詞】ウェブページ記述言語", "note": "タグで構造を指定する言語" },
+    { "hinshi": "【補足】表記", "note": "頭字語のため文中では大文字 HTML" }
+  ],
+  "usages": [
+    { "title": "① ウェブページを作る", "desc": "構造を記述する言語として。", "example_en": "This page is written in HTML.", "example_ja": "このページはHTMLで書かれている。" },
+    { "title": "② タグで指定する", "desc": "要素をタグで表す意味で。", "example_en": "HTML uses tags like <p> and <a>.", "example_ja": "HTMLは <p> や <a> のようなタグを使う。" }
+  ],
+  "warn": ["頭字語なので実際の文中では大文字 HTML。プログラミング言語ではなくマークアップ言語"],
+  "etym_note": "HyperText Markup Language（ハイパーテキスト・マークアップ言語）の頭字語。1990年代初頭にウェブの基盤として登場した。",
+  "etym_chain": [
+    { "node": "HyperText Markup Language", "sub": "記述言語", "era": "1991年" },
+    { "node": "HTML", "sub": "頭字語化", "era": "1990年代" }
+  ],
+  "phrases": [
+    { "en": "written in HTML", "ja": "HTMLで書かれた" },
+    { "en": "HTML tag", "ja": "HTMLタグ" },
+    { "en": "HTML file", "ja": "HTMLファイル" },
+    { "en": "learn HTML", "ja": "HTMLを学ぶ" },
+    { "en": "HTML document", "ja": "HTML文書" },
+    { "en": "edit the HTML", "ja": "HTMLを編集する" }
+  ],
+  "related": [
+    { "en": "css", "ja": "CSS(スタイル指定)" },
+    { "en": "website", "ja": "ウェブサイト" },
+    { "en": "tag", "ja": "タグ" },
+    { "en": "browser", "ja": "ブラウザ" }
+  ],
+  "faq": [
+    { "q": "HTML の正式名称は？", "a": "HyperText Markup Language（ハイパーテキスト・マークアップ言語）です。ウェブページの構造を記述します。" },
+    { "q": "HTML と CSS の違いは？", "a": "HTML はページの『構造(見出し・段落など)』、CSS はその『見た目(色・配置など)』を指定します。" }
+  ],
+  "quiz": [
+    { "q": "HTML の正式名称は？", "A": "HyperText Markup Language", "B": "High Tech Modern Language", "C": "Home Tool Markup Language", "D": "Hyperlink Text Machine Language", "correct": "A" },
+    { "q": "HTML は何に使う？", "A": "ウェブページの構造を作る", "B": "写真を撮る", "C": "音楽を作る", "D": "計算する", "correct": "A" }
+  ]
+},
+{
+  "english": "humanitarian",
+  "pron": "hjuːˌmænɪˈteriən",
+  "kana": "ヒューマニテリアン",
+  "hinshi": "形容詞 / 名詞",
+  "ld_pos": "形容詞",
+  "ld_etym": "ラテン語 humanus（人間の）",
+  "ld_level": "準1級",
+  "badges": ["高校生〜", "英検準1級", "CEFR B2", "人道的な"],
+  "meaning_main": "人道的な / 人道支援の / 博愛主義者",
+  "description": "humanitarian（ヒューマニテリアン）は「人道的な・人道支援の」を表す形容詞・名詞。人々の苦しみを減らし福祉を向上させようとする姿勢や活動を指します。名詞では『人道主義者・博愛主義者』を意味します。ラテン語 humanus（人間の）が語源です。",
+  "keywords": ["humanitarian 意味", "humanitarian 使い方", "人道的 英語", "人道支援 英語", "博愛主義"],
+  "meanings": [
+    { "hinshi": "【形容詞】人道的な、人道支援の", "note": "人々の苦しみを減らそうとする" },
+    { "hinshi": "【名詞】人道主義者、博愛主義者", "note": "人助けに献身する人" },
+    { "hinshi": "【形容詞】福祉向上の", "note": "humanitarian aid（人道支援）" }
+  ],
+  "usages": [
+    { "title": "① 人道支援", "desc": "苦しむ人々を助ける活動で。", "example_en": "They sent humanitarian aid to the region.", "example_ja": "彼らはその地域に人道支援を送った。" },
+    { "title": "② 人道主義者", "desc": "人助けに献身する人を指す。", "example_en": "She was a great humanitarian.", "example_ja": "彼女は偉大な人道主義者だった。" }
+  ],
+  "warn": ["humane(思いやりのある)と関連するが、humanitarian は『人道支援・博愛』の含みが強い"],
+  "etym_note": "ラテン語 humanus（人間の）→ human に -itarian が付いて「人類の福祉を重んじる」を意味する。",
+  "etym_chain": [
+    { "node": "humanus", "sub": "人間の", "era": "ラテン語" },
+    { "node": "human", "sub": "人間", "era": "中英語" },
+    { "node": "humanitarian", "sub": "人道的な", "era": "19世紀" }
+  ],
+  "phrases": [
+    { "en": "humanitarian aid", "ja": "人道支援" },
+    { "en": "humanitarian crisis", "ja": "人道危機" },
+    { "en": "humanitarian organization", "ja": "人道支援団体" },
+    { "en": "humanitarian effort", "ja": "人道的な取り組み" },
+    { "en": "on humanitarian grounds", "ja": "人道的な理由で" },
+    { "en": "a great humanitarian", "ja": "偉大な人道主義者" }
+  ],
+  "related": [
+    { "en": "humane", "ja": "思いやりのある" },
+    { "en": "charity", "ja": "慈善" },
+    { "en": "aid", "ja": "援助" },
+    { "en": "welfare", "ja": "福祉" }
+  ],
+  "faq": [
+    { "q": "humanitarian と humane の違いは？", "a": "humane は『(態度が)思いやりのある』、humanitarian は『人道支援に関わる・人類の福祉を重んじる』でより組織的・社会的な含みがあります。" },
+    { "q": "humanitarian aid とは？", "a": "『人道支援』のことで、災害や紛争で苦しむ人々に食料・医療・避難所などを提供する援助です。" }
+  ],
+  "quiz": [
+    { "q": "humanitarian の意味は？", "A": "人道的な・人道支援の", "B": "経済的な", "C": "軍事的な", "D": "商業的な", "correct": "A" },
+    { "q": "humanitarian aid の意味は？", "A": "人道支援", "B": "軍事援助", "C": "経済制裁", "D": "外交交渉", "correct": "A" }
+  ]
+},
+{
+  "english": "humanize",
+  "pron": "ˈhjuːmənaɪz",
+  "kana": "ヒューマナイズ",
+  "hinshi": "動詞",
+  "ld_pos": "動詞",
+  "ld_etym": "ラテン語 humanus（人間の）+ -ize",
+  "ld_level": "準1級",
+  "badges": ["高校生〜", "英検準1級", "CEFR B2", "人間味を与える"],
+  "meaning_main": "人間味を与える / 人間らしくする / 血の通ったものにする",
+  "description": "humanize（ヒューマナイズ）は「人間味を与える・人間らしくする」を表す動詞。冷たく感じるものや抽象的なものに、温かみや人間的な要素を加えることを指します。イギリス綴りは humanise です。ラテン語 humanus（人間の）+ -ize が語源です。",
+  "keywords": ["humanize 意味", "humanize 使い方", "人間味 英語", "人間らしくする 英語", "humanise 綴り"],
+  "meanings": [
+    { "hinshi": "【動詞】人間味を与える、人間らしくする", "note": "温かみや人間的要素を加える" },
+    { "hinshi": "【動詞】血の通ったものにする", "note": "冷たいものに親しみを持たせる" },
+    { "hinshi": "【動詞】(人を)思いやりある者にする", "note": "人間性を育む" }
+  ],
+  "usages": [
+    { "title": "① 人間味を加える", "desc": "冷たいものに温かみを与える意味で。", "example_en": "The story humanizes the statistics.", "example_ja": "その物語は統計に人間味を与える。" },
+    { "title": "② 親しみやすくする", "desc": "組織や技術を身近にする意味で。", "example_en": "They tried to humanize the company's image.", "example_ja": "彼らは会社のイメージに人間味を持たせようとした。" }
+  ],
+  "warn": ["反対は dehumanize（非人間的にする、人間性を奪う）。英綴りは humanise"],
+  "etym_note": "ラテン語 humanus（人間の）→ human に -ize（〜にする）が付いて「人間らしくする」を意味する。",
+  "etym_chain": [
+    { "node": "humanus", "sub": "人間の", "era": "ラテン語" },
+    { "node": "human", "sub": "人間", "era": "中英語" },
+    { "node": "humanize", "sub": "人間味を与える", "era": "17世紀" }
+  ],
+  "phrases": [
+    { "en": "humanize the story", "ja": "物語に人間味を与える" },
+    { "en": "humanize technology", "ja": "技術を人間らしくする" },
+    { "en": "humanize the brand", "ja": "ブランドに人間味を持たせる" },
+    { "en": "help humanize", "ja": "人間味を加える助けになる" },
+    { "en": "humanize the data", "ja": "データに血を通わせる" },
+    { "en": "humanize the workplace", "ja": "職場に人間味を持たせる" }
+  ],
+  "related": [
+    { "en": "dehumanize", "ja": "非人間的にする" },
+    { "en": "human", "ja": "人間" },
+    { "en": "humane", "ja": "思いやりのある" },
+    { "en": "personalize", "ja": "個人向けにする" }
+  ],
+  "faq": [
+    { "q": "humanize の反対語は？", "a": "dehumanize（非人間的にする、人間性を奪う）です。de- が『除去』を表します。" },
+    { "q": "humanize のイギリス綴りは？", "a": "humanise です。イギリス英語では -ise で綴ります。" }
+  ],
+  "quiz": [
+    { "q": "humanize の意味は？", "A": "人間味を与える・人間らしくする", "B": "機械化する", "C": "破壊する", "D": "無視する", "correct": "A" },
+    { "q": "humanize の反対語は？", "A": "dehumanize", "B": "modernize", "C": "organize", "D": "realize", "correct": "A" }
+  ]
+},
+{
+  "english": "hustle",
+  "pron": "ˈhʌsəl",
+  "kana": "ハスル",
+  "hinshi": "動詞 / 名詞",
+  "ld_pos": "動詞",
+  "ld_etym": "オランダ語 hutselen（振り混ぜる）",
+  "ld_level": "2級",
+  "badges": ["高校生〜", "英検2級", "CEFR B2", "急ぐ・精力的に働く"],
+  "meaning_main": "急ぐ / 精力的に働く / せかす / (口語)頑張り",
+  "description": "hustle（ハスル）は「急ぐ・精力的に働く」を表す動詞・名詞。てきぱき動く、せわしなく努力する意味です。名詞では『精力的な頑張り・副業』の意味でも使われます。時に『押しのける・(だまして)せしめる』というやや否定的な意味もあります。オランダ語 hutselen（振り混ぜる）が語源です。",
+  "keywords": ["hustle 意味", "hustle 使い方", "急ぐ 英語", "精力的に働く 英語", "side hustle"],
+  "meanings": [
+    { "hinshi": "【動詞】急ぐ、てきぱき動く", "note": "せかす、急いで進める" },
+    { "hinshi": "【動詞】精力的に働く、頑張る", "note": "積極的に努力する" },
+    { "hinshi": "【名詞】頑張り、精力的活動、副業", "note": "side hustle（副業）" }
+  ],
+  "usages": [
+    { "title": "① 急ぐ・せかす", "desc": "てきぱき動く意味で。", "example_en": "We need to hustle to catch the train.", "example_ja": "電車に間に合うよう急がないと。" },
+    { "title": "② 精力的に働く", "desc": "積極的に努力する意味で。", "example_en": "She hustles hard to grow her business.", "example_ja": "彼女は事業を伸ばすため精力的に働いている。" }
+  ],
+  "warn": ["肯定的な『頑張り』の意味と、否定的な『押しのける・だます』の意味の両方がある。side hustle は『副業』"],
+  "etym_note": "オランダ語 hutselen（振り混ぜる、揺する）に由来し、「押し合う→急ぐ・精力的に動く」の意味になった。",
+  "etym_chain": [
+    { "node": "hutselen", "sub": "振り混ぜる", "era": "オランダ語" },
+    { "node": "hustle", "sub": "押し合う、急ぐ", "era": "17世紀" }
+  ],
+  "phrases": [
+    { "en": "hustle and bustle", "ja": "喧騒、雑踏" },
+    { "en": "side hustle", "ja": "副業" },
+    { "en": "hustle hard", "ja": "精力的に頑張る" },
+    { "en": "hustle to finish", "ja": "急いで終わらせる" },
+    { "en": "the daily hustle", "ja": "日々の奮闘" },
+    { "en": "hustle for success", "ja": "成功を目指して頑張る" }
+  ],
+  "related": [
+    { "en": "rush", "ja": "急ぐ" },
+    { "en": "bustle", "ja": "せわしなく動く" },
+    { "en": "grind", "ja": "こつこつ働く" },
+    { "en": "effort", "ja": "努力" }
+  ],
+  "faq": [
+    { "q": "side hustle とは？", "a": "本業とは別に収入を得る『副業』のことです。近年よく使われる口語表現です。" },
+    { "q": "hustle and bustle とは？", "a": "『喧騒・雑踏・にぎわい』を意味する決まった言い回しで、都会などの活気ある忙しさを表します。" }
+  ],
+  "quiz": [
+    { "q": "hustle の意味の一つは？", "A": "急ぐ・精力的に働く", "B": "眠る", "C": "怠ける", "D": "止まる", "correct": "A" },
+    { "q": "side hustle の意味は？", "A": "副業", "B": "本業", "C": "休暇", "D": "退職", "correct": "A" }
+  ]
+},
+{
+  "english": "hydrated",
+  "pron": "ˈhaɪdreɪtɪd",
+  "kana": "ハイドレイティッド",
+  "hinshi": "形容詞 / 動詞(hydrate の過去・過去分詞)",
+  "ld_pos": "形容詞",
+  "ld_etym": "ギリシャ語 hydor（水）",
+  "ld_level": "2級",
+  "badges": ["中学生〜", "英検2級", "CEFR B1", "水分を保った"],
+  "meaning_main": "水分を保った / 潤った / 水和した",
+  "description": "hydrated（ハイドレイティッド）は「水分を保った・潤った」を表す形容詞。体や肌が十分に水分を含んでいる状態を指します。化学では『水和した(水分子を含む)』意味もあります。反対は dehydrated(脱水した)です。ギリシャ語 hydor（水）が語源です。",
+  "keywords": ["hydrated 意味", "hydrated 使い方", "水分 英語", "潤った 英語", "dehydrated 反対"],
+  "meanings": [
+    { "hinshi": "【形容詞】水分を保った、潤った", "note": "体や肌が十分に水分を含む" },
+    { "hinshi": "【形容詞】(化学)水和した", "note": "水分子を含んだ" },
+    { "hinshi": "【動詞】hydrate の過去・過去分詞", "note": "「水分を与える」の変化形" }
+  ],
+  "usages": [
+    { "title": "① 体の水分を保つ", "desc": "十分に水を摂った状態で。", "example_en": "Drink water to stay hydrated.", "example_ja": "水分を保つために水を飲もう。" },
+    { "title": "② 肌が潤う", "desc": "肌が水分を含む様子で。", "example_en": "This cream keeps your skin hydrated.", "example_ja": "このクリームは肌を潤った状態に保つ。" }
+  ],
+  "warn": ["反対は dehydrated（脱水した）。stay hydrated（水分補給を保つ）は健康の定番表現"],
+  "etym_note": "ギリシャ語 hydor（水）→ hydrate（水分を与える）に -ed が付いた形。「水分を含んだ」を意味する。",
+  "etym_chain": [
+    { "node": "hydor", "sub": "水", "era": "ギリシャ語" },
+    { "node": "hydrate", "sub": "水分を与える", "era": "19世紀" },
+    { "node": "hydrated", "sub": "水分を保った", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "stay hydrated", "ja": "水分補給を保つ" },
+    { "en": "keep hydrated", "ja": "水分を保つ" },
+    { "en": "well hydrated", "ja": "十分に潤った" },
+    { "en": "hydrated skin", "ja": "潤った肌" },
+    { "en": "remain hydrated", "ja": "水分を保ち続ける" },
+    { "en": "fully hydrated", "ja": "十分に水分を含んだ" }
+  ],
+  "related": [
+    { "en": "hydrate", "ja": "水分を与える" },
+    { "en": "dehydrated", "ja": "脱水した" },
+    { "en": "moisturized", "ja": "保湿された" },
+    { "en": "water", "ja": "水" }
+  ],
+  "faq": [
+    { "q": "hydrated の反対語は？", "a": "dehydrated（脱水した、水分が失われた）です。de- が『除去』を表します。" },
+    { "q": "stay hydrated とは？", "a": "『水分補給を保つ・水分を十分にとる』という意味で、健康アドバイスの定番表現です。" }
+  ],
+  "quiz": [
+    { "q": "hydrated の意味は？", "A": "水分を保った・潤った", "B": "乾ききった", "C": "凍った", "D": "焦げた", "correct": "A" },
+    { "q": "hydrated の反対語は？", "A": "dehydrated", "B": "dedicated", "C": "decorated", "D": "delegated", "correct": "A" }
+  ]
+}
+]

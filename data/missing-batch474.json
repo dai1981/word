@@ -1,0 +1,980 @@
+[
+  {
+    "english": "delayed",
+    "pron": "dɪˈleɪd",
+    "kana": "ディレイド",
+    "hinshi": "形容詞 / 動詞(delay の過去・過去分詞)",
+    "ld_pos": "形容詞・動詞",
+    "ld_etym": "delay（遅らせる）+ -ed",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "頻出"],
+    "meaning_main": "遅れた / 遅延した / 延期された",
+    "description": "delayed（ディレイド）は delay（遅らせる）の過去・過去分詞。「遅れた・遅延した」を表し、予定より遅くなったことを表します。飛行機や電車の遅延でおなじみです。",
+    "keywords": ["delayed 意味", "delay 過去形", "遅延 英語", "遅れた 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】遅れた、遅延した、延期された", "note": "予定より遅くなったさま" },
+      { "hinshi": "【動詞】delay（遅らせる・延期する）の過去・過去分詞", "note": "「遅らせた」「延期した」" }
+    ],
+    "usages": [
+      { "title": "① 交通の遅延", "desc": "予定より遅い", "example_en": "The flight was delayed by two hours.", "example_ja": "そのフライトは2時間遅延した。" },
+      { "title": "② 反応が遅れる", "desc": "後になって", "example_en": "He had a delayed reaction to the news.", "example_ja": "彼はその知らせに反応が遅れた。" }
+    ],
+    "warn": ["a delayed reaction は「遅れて出る反応・後になっての反応」。名詞は delay（遅れ）"],
+    "etym_note": "古フランス語 delaier（遅らせる）に由来する delay の過去・過去分詞形。",
+    "etym_chain": [
+      { "node": "delaier", "sub": "遅らせる(古仏語)", "era": "古フランス語" },
+      { "node": "delay", "sub": "遅らせる・延期する", "era": "13世紀" },
+      { "node": "delayed", "sub": "遅れた", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a delayed flight", "ja": "遅延した便" },
+      { "en": "delayed by traffic", "ja": "渋滞で遅れた" },
+      { "en": "a delayed reaction", "ja": "遅れて出る反応" },
+      { "en": "delayed payment", "ja": "遅延した支払い" },
+      { "en": "significantly delayed", "ja": "大幅に遅れた" },
+      { "en": "the train is delayed", "ja": "電車が遅れている" }
+    ],
+    "related": [
+      { "en": "delay", "ja": "遅らせる・遅れ" },
+      { "en": "late", "ja": "遅い・遅刻の" },
+      { "en": "postponed", "ja": "延期された" },
+      { "en": "on time", "ja": "時間通りの" }
+    ],
+    "faq": [
+      { "q": "a delayed reaction とは？", "a": "「遅れて出る反応・後になってからの反応」という意味です。何かが起きてすぐではなく、時間を置いてから反応することを表します。" },
+      { "q": "delayed と postponed の違いは？", "a": "delayed は「（予定より）遅れた・遅延した」、postponed は「（意図的に）延期された」に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "delayed の意味は？", "A": "遅れた・遅延した", "B": "早まった", "C": "中止された", "D": "始まった", "correct": "A" },
+      { "q": "a delayed reaction の意味は？", "A": "遅れて出る反応", "B": "即座の反応", "C": "誤った反応", "D": "強い反応", "correct": "A" }
+    ]
+  },
+  {
+    "english": "deli",
+    "pron": "ˈdeli",
+    "kana": "デリ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "delicatessen（総菜店）の短縮",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "日常・食"],
+    "meaning_main": "デリ / 総菜店 / (店内の)総菜コーナー",
+    "description": "deli（デリ）は「総菜店・デリカテッセン」を表す名詞。ハム・チーズ・サラダ・サンドイッチなど、調理済みの食品を売る店やコーナーを指します。delicatessen の短縮形です。",
+    "keywords": ["deli 意味", "デリ 英語", "総菜店 英語", "delicatessen"],
+    "meanings": [
+      { "hinshi": "【名詞】デリ、総菜店", "note": "可算名詞。ハム・チーズ・総菜・サンドイッチなどを売る店やコーナー。delicatessen の略" }
+    ],
+    "usages": [
+      { "title": "① 総菜店として", "desc": "調理済み食品の店", "example_en": "I bought a sandwich at the deli.", "example_ja": "私はデリでサンドイッチを買った。" },
+      { "title": "② 店内のコーナー", "desc": "総菜売り場", "example_en": "The deli counter sells fresh cheese.", "example_ja": "総菜コーナーでは新鮮なチーズを売っている。" }
+    ],
+    "warn": ["delicatessen（デリカテッセン）の短縮形。ドイツ語・フランス語由来で「おいしいもの（を売る店）」の意"],
+    "etym_note": "ドイツ語 Delikatessen（フランス語 délicatesse「美味・繊細」から＝おいしいもの）に由来する delicatessen（総菜店）を短縮した語。",
+    "etym_chain": [
+      { "node": "délicatesse", "sub": "美味(フランス語)", "era": "—" },
+      { "node": "delicatessen", "sub": "総菜店", "era": "19世紀" },
+      { "node": "deli", "sub": "デリ", "era": "20世紀" }
+    ],
+    "phrases": [
+      { "en": "a deli sandwich", "ja": "デリのサンドイッチ" },
+      { "en": "the deli counter", "ja": "総菜コーナー" },
+      { "en": "a local deli", "ja": "地元の総菜店" },
+      { "en": "deli meats", "ja": "デリの加工肉" },
+      { "en": "go to the deli", "ja": "デリに行く" },
+      { "en": "a New York deli", "ja": "ニューヨークのデリ" }
+    ],
+    "related": [
+      { "en": "delicatessen", "ja": "総菜店(正式)" },
+      { "en": "grocery", "ja": "食料品店" },
+      { "en": "sandwich", "ja": "サンドイッチ" },
+      { "en": "cheese", "ja": "チーズ" }
+    ],
+    "faq": [
+      { "q": "deli とは何を売る店？", "a": "ハム・ソーセージなどの加工肉、チーズ、サラダ、サンドイッチなど、そのまま食べられる調理済みの食品を売る店やコーナーです。" },
+      { "q": "deli の正式な語は？", "a": "delicatessen（デリカテッセン）です。deli はその短縮形で、日常会話でよく使われます。" }
+    ],
+    "quiz": [
+      { "q": "deli の意味は？", "A": "総菜店・デリ", "B": "本屋", "C": "花屋", "D": "薬局", "correct": "A" },
+      { "q": "deli は何の略？", "A": "delicatessen", "B": "delivery", "C": "delight", "D": "delete", "correct": "A" }
+    ]
+  },
+  {
+    "english": "demobilize",
+    "pron": "diːˈmoʊbəlaɪz",
+    "kana": "ディモビライズ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "de-（逆）+ mobilize（動員する）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "軍事・政治"],
+    "meaning_main": "(軍隊を)動員解除する / 復員させる",
+    "description": "demobilize（ディモビライズ）は「（軍隊を）動員解除する・復員させる」を表す動詞。戦争などのために集めた軍隊や兵士を解散し、平時の生活に戻すことを指します。反対は mobilize（動員する）です。",
+    "keywords": ["demobilize 意味", "動員解除 英語", "復員 英語", "mobilize 反対"],
+    "meanings": [
+      { "hinshi": "【動詞】(軍隊を)動員解除する、復員させる", "note": "戦時に集めた軍隊・兵士を解散し平時に戻す。英綴りは demobilise" }
+    ],
+    "usages": [
+      { "title": "① 軍隊を解散", "desc": "動員を解く", "example_en": "The army was demobilized after the war.", "example_ja": "その軍隊は戦後に動員解除された。" },
+      { "title": "② 兵士を復員", "desc": "生活に戻す", "example_en": "Thousands of soldiers were demobilized.", "example_ja": "何千もの兵士が復員した。" }
+    ],
+    "warn": ["反対語は mobilize（動員する）。名詞は demobilization（動員解除）。口語では demob と略すことも"],
+    "etym_note": "「逆」を表す接頭辞 de- が mobilize（動員する＝mobile「動かせる」から）に付いた語。「動員を解く」の意。",
+    "etym_chain": [
+      { "node": "mobilize", "sub": "動員する", "era": "19世紀" },
+      { "node": "demobilize", "sub": "動員解除する", "era": "19世紀" }
+    ],
+    "phrases": [
+      { "en": "demobilize the army", "ja": "軍隊を動員解除する" },
+      { "en": "demobilize troops", "ja": "部隊を復員させる" },
+      { "en": "be demobilized", "ja": "動員解除される" },
+      { "en": "demobilize after the war", "ja": "戦後に復員する" },
+      { "en": "demobilize soldiers", "ja": "兵士を復員させる" },
+      { "en": "fully demobilize", "ja": "完全に動員解除する" }
+    ],
+    "related": [
+      { "en": "mobilize", "ja": "動員する" },
+      { "en": "demobilization", "ja": "動員解除" },
+      { "en": "disband", "ja": "解散する" },
+      { "en": "army", "ja": "軍隊" }
+    ],
+    "faq": [
+      { "q": "demobilize の反対語は？", "a": "mobilize（動員する・（軍隊・資源を）結集する）です。demobilize はその逆で、集めた軍隊を解散することを表します。" },
+      { "q": "demobilize の名詞形は？", "a": "demobilization（動員解除・復員）です。口語では demob と略されることもあります。" }
+    ],
+    "quiz": [
+      { "q": "demobilize の意味は？", "A": "(軍隊を)動員解除する・復員させる", "B": "動員する", "C": "訓練する", "D": "武装する", "correct": "A" },
+      { "q": "demobilize の反対語は？", "A": "mobilize", "B": "modernize", "C": "memorize", "D": "minimize", "correct": "A" }
+    ]
+  },
+  {
+    "english": "demoralize",
+    "pron": "dɪˈmɔːrəlaɪz",
+    "kana": "ディモラライズ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "de-（除去）+ morale（士気）+ -ize",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "頻出"],
+    "meaning_main": "士気をくじく / 意気消沈させる / やる気を失わせる",
+    "description": "demoralize（ディモラライズ）は「士気をくじく・意気消沈させる」を表す動詞。人や集団の自信・意欲・希望を失わせ、やる気をなくさせることを指します。",
+    "keywords": ["demoralize 意味", "士気をくじく 英語", "意気消沈させる 英語", "demoralized"],
+    "meanings": [
+      { "hinshi": "【動詞】士気をくじく、意気消沈させる、やる気を失わせる", "note": "自信・意欲・希望を失わせる。英綴りは demoralise" }
+    ],
+    "usages": [
+      { "title": "① 士気をくじく", "desc": "やる気を奪う", "example_en": "Repeated failures demoralized the team.", "example_ja": "度重なる失敗がチームの士気をくじいた。" },
+      { "title": "② 意気消沈させる", "desc": "希望を失わせる", "example_en": "The bad news demoralized everyone.", "example_ja": "その悪い知らせは皆を意気消沈させた。" }
+    ],
+    "warn": ["反対は encourage / motivate（励ます・やる気を起こさせる）。形容詞・過去分詞は demoralized（意気消沈した）"],
+    "etym_note": "「除去」を表す接頭辞 de- が morale（士気）に、動詞化の -ize が付いた語。「士気を奪う」の意。",
+    "etym_chain": [
+      { "node": "morale", "sub": "士気", "era": "18世紀" },
+      { "node": "demoralize", "sub": "士気をくじく", "era": "18世紀" }
+    ],
+    "phrases": [
+      { "en": "demoralize the team", "ja": "チームの士気をくじく" },
+      { "en": "demoralize the troops", "ja": "部隊の士気を奪う" },
+      { "en": "utterly demoralize", "ja": "すっかり意気消沈させる" },
+      { "en": "demoralize the workforce", "ja": "従業員のやる気を奪う" },
+      { "en": "be demoralized by", "ja": "〜に意気消沈させられる" },
+      { "en": "demoralize the opposition", "ja": "相手の士気をくじく" }
+    ],
+    "related": [
+      { "en": "demoralized", "ja": "意気消沈した" },
+      { "en": "discourage", "ja": "落胆させる" },
+      { "en": "dishearten", "ja": "がっかりさせる" },
+      { "en": "encourage", "ja": "励ます" }
+    ],
+    "faq": [
+      { "q": "demoralize の反対語は？", "a": "encourage（励ます）や motivate（やる気を起こさせる）です。demoralize は士気を奪う、encourage は士気を高めることを表します。" },
+      { "q": "demoralize と discourage の違いは？", "a": "どちらも「やる気をそぐ」ですが、demoralize は「（自信・希望・士気を）根こそぎ奪う」強い語、discourage は「（意欲を）くじく・思いとどまらせる」に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "demoralize の意味は？", "A": "士気をくじく・意気消沈させる", "B": "励ます", "C": "訓練する", "D": "昇進させる", "correct": "A" },
+      { "q": "demoralize の反対語は？", "A": "encourage", "B": "memorize", "C": "demonstrate", "D": "demolish", "correct": "A" }
+    ]
+  },
+  {
+    "english": "demoralized",
+    "pron": "dɪˈmɔːrəlaɪzd",
+    "kana": "ディモラライズド",
+    "hinshi": "形容詞 / 動詞(demoralize の過去・過去分詞)",
+    "ld_pos": "形容詞・動詞",
+    "ld_etym": "demoralize（士気をくじく）+ -ed",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "頻出"],
+    "meaning_main": "意気消沈した / 士気を失った / やる気をなくした",
+    "description": "demoralized（ディモラライズド）は demoralize（士気をくじく）の過去・過去分詞。「意気消沈した・士気を失った」を表し、自信や意欲を失ってやる気をなくした状態を表します。",
+    "keywords": ["demoralized 意味", "意気消沈 英語", "士気を失った 英語", "demoralize 過去形"],
+    "meanings": [
+      { "hinshi": "【形容詞】意気消沈した、士気を失った、やる気をなくした", "note": "自信・意欲・希望を失ったさま" },
+      { "hinshi": "【動詞】demoralize（士気をくじく）の過去・過去分詞", "note": "「士気をくじいた」" }
+    ],
+    "usages": [
+      { "title": "① 士気を失う", "desc": "やる気をなくす", "example_en": "The team felt demoralized after the loss.", "example_ja": "チームは敗北のあと意気消沈した。" },
+      { "title": "② 自信を失う", "desc": "希望を失う", "example_en": "Workers became demoralized by the cuts.", "example_ja": "従業員は削減で士気を失った。" }
+    ],
+    "warn": ["人が「意気消沈した」は demoralized（-ed）、物事が「士気をくじくような」は demoralizing（-ing）", "反対は motivated / encouraged（やる気のある・励まされた）"],
+    "etym_note": "demoralize（士気をくじく＝de-「除去」+ morale「士気」）の過去分詞・形容詞形。",
+    "etym_chain": [
+      { "node": "morale", "sub": "士気", "era": "18世紀" },
+      { "node": "demoralize", "sub": "士気をくじく", "era": "18世紀" },
+      { "node": "demoralized", "sub": "意気消沈した", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "feel demoralized", "ja": "意気消沈する" },
+      { "en": "a demoralized team", "ja": "士気を失ったチーム" },
+      { "en": "become demoralized", "ja": "やる気をなくす" },
+      { "en": "utterly demoralized", "ja": "すっかり意気消沈した" },
+      { "en": "demoralized and exhausted", "ja": "意気消沈し疲れ果てた" },
+      { "en": "look demoralized", "ja": "しゅんとして見える" }
+    ],
+    "related": [
+      { "en": "demoralize", "ja": "士気をくじく" },
+      { "en": "demoralizing", "ja": "士気をくじくような" },
+      { "en": "discouraged", "ja": "落胆した" },
+      { "en": "motivated", "ja": "やる気のある" }
+    ],
+    "faq": [
+      { "q": "demoralized と demoralizing の違いは？", "a": "demoralized は人が「意気消沈した」（-ed）、demoralizing は物事が「（人を）意気消沈させるような」（-ing）です。I felt demoralized by the demoralizing news.（士気をくじく知らせに意気消沈した）。" },
+      { "q": "demoralized の反対語は？", "a": "motivated（やる気のある）や encouraged（励まされた）です。" }
+    ],
+    "quiz": [
+      { "q": "demoralized の意味は？", "A": "意気消沈した・士気を失った", "B": "やる気に満ちた", "C": "興奮した", "D": "満足した", "correct": "A" },
+      { "q": "人が「意気消沈した」を表す形は？", "A": "demoralized", "B": "demoralizing", "C": "demoralize", "D": "demoral", "correct": "A" }
+    ]
+  },
+  {
+    "english": "denigrate",
+    "pron": "ˈdenɪɡreɪt",
+    "kana": "デニグレート",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 denigrare（黒くする・けなす）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文章表現"],
+    "meaning_main": "けなす / 中傷する / (価値を)おとしめる",
+    "description": "denigrate（デニグレート）は「けなす・中傷する」を表す動詞。人や物事の価値・評判を不当に低く言って、おとしめることを指します。",
+    "keywords": ["denigrate 意味", "けなす 英語", "中傷 英語", "denigrate とは"],
+    "meanings": [
+      { "hinshi": "【動詞】けなす、中傷する、(価値を)おとしめる", "note": "人・物事の価値や評判を不当に低く言う" }
+    ],
+    "usages": [
+      { "title": "① 人をけなす", "desc": "中傷する", "example_en": "He denigrated his rivals in public.", "example_ja": "彼は公然とライバルを中傷した。" },
+      { "title": "② 価値をおとしめる", "desc": "低く言う", "example_en": "Don't denigrate her achievements.", "example_ja": "彼女の業績をけなさないで。" }
+    ],
+    "warn": ["名詞は denigration（中傷・侮辱）。反対は praise（ほめる）", "もとは「黒くする」の意（ラテン語 niger「黒」）"],
+    "etym_note": "ラテン語 denigrare（de-「すっかり」+ niger「黒」＝黒くする）に由来。「（評判を）黒く汚す＝けなす」の意。",
+    "etym_chain": [
+      { "node": "denigrare", "sub": "黒くする(ラテン語)", "era": "ラテン語" },
+      { "node": "denigrate", "sub": "けなす", "era": "16世紀" }
+    ],
+    "phrases": [
+      { "en": "denigrate someone", "ja": "〜をけなす" },
+      { "en": "denigrate the work", "ja": "その仕事をけなす" },
+      { "en": "denigrate a rival", "ja": "ライバルを中傷する" },
+      { "en": "denigrate achievements", "ja": "業績をおとしめる" },
+      { "en": "publicly denigrate", "ja": "公然と中傷する" },
+      { "en": "denigrate and belittle", "ja": "けなし見下す" }
+    ],
+    "related": [
+      { "en": "denigration", "ja": "中傷・侮辱" },
+      { "en": "disparage", "ja": "けなす" },
+      { "en": "belittle", "ja": "見下す" },
+      { "en": "praise", "ja": "ほめる" }
+    ],
+    "faq": [
+      { "q": "denigrate と disparage の違いは？", "a": "ほぼ同義で「けなす」を意味します。denigrate は「（評判・価値を）不当に汚し中傷する」、disparage は「（軽んじて）けなす」に少し重点があります。" },
+      { "q": "denigrate の語源は？", "a": "ラテン語 niger（黒）から「黒くする」が原義です。「（評判を）黒く汚す＝けなす・中傷する」の意味になりました。" }
+    ],
+    "quiz": [
+      { "q": "denigrate の意味は？", "A": "けなす・中傷する・おとしめる", "B": "ほめたたえる", "C": "感謝する", "D": "励ます", "correct": "A" },
+      { "q": "denigrate の反対にあたる語は？", "A": "praise(ほめる)", "B": "punish(罰する)", "C": "prepare(準備する)", "D": "predict(予測する)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "denominational",
+    "pron": "dɪˌnɒmɪˈneɪʃənəl",
+    "kana": "ディノミネーショナル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "denomination（宗派）+ -al",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "宗教"],
+    "meaning_main": "宗派の / 特定の教派に属する",
+    "description": "denominational（ディノミネーショナル）は「宗派の・特定の教派に属する」を表す形容詞。キリスト教などの特定の宗派（denomination）に関することを表します。宗派に属さない non-denominational（無宗派の）と対比されます。",
+    "keywords": ["denominational 意味", "宗派 英語", "教派 英語", "denomination 形容詞"],
+    "meanings": [
+      { "hinshi": "【形容詞】宗派の、特定の教派に属する", "note": "特定の宗派・教派に関するさま" }
+    ],
+    "usages": [
+      { "title": "① 宗派の学校", "desc": "教派立の", "example_en": "It is a denominational school run by a church.", "example_ja": "それは教会が運営する宗派立の学校だ。" },
+      { "title": "② 宗派間の", "desc": "教派に関する", "example_en": "There were denominational differences among them.", "example_ja": "彼らの間には宗派の違いがあった。" }
+    ],
+    "warn": ["名詞は denomination（宗派・教派、また貨幣の額面）。反対は non-denominational（無宗派の）"],
+    "etym_note": "ラテン語 nominare（名づける）に由来する denomination（名称→宗派）に、形容詞化の -al が付いた語。",
+    "etym_chain": [
+      { "node": "denomination", "sub": "宗派・名称", "era": "15世紀" },
+      { "node": "denominational", "sub": "宗派の", "era": "19世紀" }
+    ],
+    "phrases": [
+      { "en": "a denominational school", "ja": "宗派立の学校" },
+      { "en": "denominational differences", "ja": "宗派の違い" },
+      { "en": "non-denominational", "ja": "無宗派の" },
+      { "en": "denominational church", "ja": "宗派の教会" },
+      { "en": "interdenominational", "ja": "超宗派の" },
+      { "en": "denominational lines", "ja": "宗派の境界" }
+    ],
+    "related": [
+      { "en": "denomination", "ja": "宗派・教派" },
+      { "en": "sect", "ja": "分派・宗派" },
+      { "en": "religious", "ja": "宗教の" },
+      { "en": "non-denominational", "ja": "無宗派の" }
+    ],
+    "faq": [
+      { "q": "denomination のもう一つの意味は？", "a": "宗教の「宗派・教派」のほかに、貨幣や切手の「額面（単位）」という意味もあります。coins of various denominations（さまざまな額面の硬貨）のように使います。" },
+      { "q": "non-denominational とは？", "a": "「無宗派の・特定の宗派に属さない」という意味です。特定の教派に偏らない礼拝堂や学校などに使われます。" }
+    ],
+    "quiz": [
+      { "q": "denominational の意味は？", "A": "宗派の・特定の教派に属する", "B": "無宗教の", "C": "政治の", "D": "経済の", "correct": "A" },
+      { "q": "denominational の名詞形は？", "A": "denomination", "B": "domination", "C": "determination", "D": "demonstration", "correct": "A" }
+    ]
+  },
+  {
+    "english": "dent",
+    "pron": "dent",
+    "kana": "デント",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "中英語 dent（打撃・くぼみ）から",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "頻出"],
+    "meaning_main": "へこみ / くぼみ / (数量などを)減らすこと",
+    "description": "dent（デント）は「へこみ・くぼみ」を表す名詞、また「へこませる」を表す動詞。物がぶつかってできた小さなくぼみを指し、比喩で「（貯金・自信などを）減らす・傷つける」の意味でも使います。",
+    "keywords": ["dent 意味", "へこみ 英語", "くぼみ 英語", "dent 使い方"],
+    "meanings": [
+      { "hinshi": "【名詞】へこみ、くぼみ", "note": "可算名詞。ぶつかってできた小さなくぼみ" },
+      { "hinshi": "【動詞】へこませる、(自信・貯金などを)減らす", "note": "くぼみを作る／(比喩)少し傷つける・減らす" }
+    ],
+    "usages": [
+      { "title": "① 物のへこみ", "desc": "くぼみ", "example_en": "There's a dent in the car door.", "example_ja": "車のドアにへこみがある。" },
+      { "title": "② 比喩的に減らす", "desc": "傷つける", "example_en": "The expense made a dent in our savings.", "example_ja": "その出費は私たちの貯金を減らした。" }
+    ],
+    "warn": ["make a dent in ... で「〜を（少し）減らす・進展させる」の比喩。物理的なへこみにも比喩にも使う"],
+    "etym_note": "中英語 dent（打撃・くぼみ＝dint「打撃」の変形）に由来する語。「打った跡＝へこみ」の意。",
+    "etym_chain": [
+      { "node": "dent", "sub": "打撃・くぼみ(中英語)", "era": "中英語" },
+      { "node": "dent", "sub": "へこみ・へこませる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a dent in the car", "ja": "車のへこみ" },
+      { "en": "make a dent in", "ja": "〜を少し減らす" },
+      { "en": "a small dent", "ja": "小さなへこみ" },
+      { "en": "dent someone's confidence", "ja": "〜の自信を傷つける" },
+      { "en": "dent the reputation", "ja": "評判を傷つける" },
+      { "en": "leave a dent", "ja": "へこみを残す" }
+    ],
+    "related": [
+      { "en": "bump", "ja": "こぶ・ぶつかる" },
+      { "en": "hollow", "ja": "くぼみ・うつろな" },
+      { "en": "damage", "ja": "損傷" },
+      { "en": "scratch", "ja": "引っかき傷" }
+    ],
+    "faq": [
+      { "q": "make a dent in とは？", "a": "文字どおりは「〜にへこみを作る」ですが、比喩で「〜を（少し）減らす・（仕事などを）少し進める」という意味でよく使います。make a dent in the work（仕事を少し片付ける）のように使います。" },
+      { "q": "dent の比喩的な意味は？", "a": "「（自信・評判・貯金などを）少し傷つける・減らす」という意味です。dent his confidence（彼の自信を傷つける）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "dent の意味は？", "A": "へこみ・くぼみ／へこませる", "B": "でっぱり", "C": "穴を開ける", "D": "磨く", "correct": "A" },
+      { "q": "make a dent in の意味は？", "A": "〜を少し減らす・進める", "B": "〜を完成させる", "C": "〜を無視する", "D": "〜を増やす", "correct": "A" }
+    ]
+  },
+  {
+    "english": "depleted",
+    "pron": "dɪˈpliːtɪd",
+    "kana": "ディプリーテッド",
+    "hinshi": "形容詞 / 動詞(deplete の過去・過去分詞)",
+    "ld_pos": "形容詞・動詞",
+    "ld_etym": "deplete（使い果たす）+ -ed",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "頻出"],
+    "meaning_main": "使い果たされた / 枯渇した / 消耗した",
+    "description": "depleted（ディプリーテッド）は deplete（使い果たす）の過去・過去分詞。「使い果たされた・枯渇した」を表し、資源・体力・在庫などが大きく減って乏しくなった状態を表します。",
+    "keywords": ["depleted 意味", "枯渇 英語", "deplete 過去形", "使い果たす 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】使い果たされた、枯渇した、消耗した", "note": "資源・体力などが大きく減って乏しくなったさま" },
+      { "hinshi": "【動詞】deplete（使い果たす・減らす）の過去・過去分詞", "note": "「使い果たした」" }
+    ],
+    "usages": [
+      { "title": "① 資源の枯渇", "desc": "使い果たす", "example_en": "The country's oil reserves are depleted.", "example_ja": "その国の石油埋蔵量は枯渇している。" },
+      { "title": "② 体力の消耗", "desc": "消耗した", "example_en": "After the race, she felt completely depleted.", "example_ja": "レースのあと、彼女はすっかり消耗しきっていた。" }
+    ],
+    "warn": ["名詞は depletion（枯渇・消耗）。depleted uranium は「劣化ウラン」", "反対は replenished（補充された）"],
+    "etym_note": "ラテン語 deplere（de-「除く」+ plere「満たす」＝空にする）に由来する deplete の過去分詞・形容詞形。「満たされたものを空にする＝使い果たす」の意。",
+    "etym_chain": [
+      { "node": "deplere", "sub": "空にする(ラテン語)", "era": "ラテン語" },
+      { "node": "deplete", "sub": "使い果たす", "era": "19世紀" },
+      { "node": "depleted", "sub": "枯渇した", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "depleted resources", "ja": "枯渇した資源" },
+      { "en": "depleted reserves", "ja": "枯渇した埋蔵量" },
+      { "en": "energy depleted", "ja": "エネルギーを使い果たした" },
+      { "en": "depleted soil", "ja": "やせた土壌" },
+      { "en": "severely depleted", "ja": "ひどく枯渇した" },
+      { "en": "depleted uranium", "ja": "劣化ウラン" }
+    ],
+    "related": [
+      { "en": "deplete", "ja": "使い果たす" },
+      { "en": "depletion", "ja": "枯渇・消耗" },
+      { "en": "exhausted", "ja": "使い果たした・疲れ果てた" },
+      { "en": "replenished", "ja": "補充された" }
+    ],
+    "faq": [
+      { "q": "depleted と exhausted の違いは？", "a": "どちらも「使い果たした」ですが、depleted は「（資源・在庫などが）大きく減って乏しくなった」、exhausted は「（完全に）尽きた・（人が）疲れ果てた」に重点があります。" },
+      { "q": "depleted の名詞形は？", "a": "depletion（枯渇・消耗）です。resource depletion（資源の枯渇）、ozone depletion（オゾン層の破壊）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "depleted の意味は？", "A": "使い果たされた・枯渇した", "B": "満たされた", "C": "新しい", "D": "増えた", "correct": "A" },
+      { "q": "depleted の名詞形は？", "A": "depletion", "B": "deception", "C": "depression", "D": "deposition", "correct": "A" }
+    ]
+  },
+  {
+    "english": "depressing",
+    "pron": "dɪˈpresɪŋ",
+    "kana": "ディプレッシング",
+    "hinshi": "形容詞 / 動詞(depress の現在分詞)",
+    "ld_pos": "形容詞・動詞",
+    "ld_etym": "depress（落ち込ませる）+ -ing",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "頻出"],
+    "meaning_main": "気がめいる / 憂うつにさせる / 陰気な",
+    "description": "depressing（ディプレッシング）は depress（落ち込ませる）の現在分詞。「気がめいる・憂うつにさせる」を表し、気分を暗く沈ませるような、陰気なものを表します。",
+    "keywords": ["depressing 意味", "気がめいる 英語", "憂うつ 英語", "depress 現在分詞"],
+    "meanings": [
+      { "hinshi": "【形容詞】気がめいる、憂うつにさせる、陰気な", "note": "気分を暗く沈ませるさま" },
+      { "hinshi": "【動詞】depress（落ち込ませる）の現在分詞", "note": "「落ち込ませている」" }
+    ],
+    "usages": [
+      { "title": "① 気がめいる状況", "desc": "憂うつな", "example_en": "The weather has been really depressing.", "example_ja": "天気がずっと気がめいるものだった。" },
+      { "title": "② 陰気なもの", "desc": "沈ませる", "example_en": "It's a depressing film about loss.", "example_ja": "それは喪失を描いた気のめいる映画だ。" }
+    ],
+    "warn": ["人が「気がめいった」は depressed（-ed）、物事が「気をめいらせる」は depressing（-ing）", "反対は uplifting / cheerful（元気づける・陽気な）"],
+    "etym_note": "ラテン語 deprimere（de-「下へ」+ premere「押す」＝押し下げる）に由来する depress の -ing 形。「気持ちを押し下げる」の意。",
+    "etym_chain": [
+      { "node": "deprimere", "sub": "押し下げる(ラテン語)", "era": "ラテン語" },
+      { "node": "depress", "sub": "落ち込ませる", "era": "14世紀" },
+      { "node": "depressing", "sub": "気がめいる", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "depressing news", "ja": "気のめいる知らせ" },
+      { "en": "a depressing sight", "ja": "陰気な光景" },
+      { "en": "deeply depressing", "ja": "ひどく憂うつな" },
+      { "en": "depressing weather", "ja": "気のめいる天気" },
+      { "en": "how depressing", "ja": "なんて憂うつな" },
+      { "en": "a depressing thought", "ja": "気のめいる考え" }
+    ],
+    "related": [
+      { "en": "depress", "ja": "落ち込ませる" },
+      { "en": "depressed", "ja": "落ち込んだ・憂うつな" },
+      { "en": "gloomy", "ja": "陰気な" },
+      { "en": "uplifting", "ja": "元気づける" }
+    ],
+    "faq": [
+      { "q": "depressing と depressed の違いは？", "a": "depressing は物事が「（人を）気めいらせるような」（-ing）、depressed は人が「落ち込んだ・憂うつな」（-ed）です。The depressing news made me depressed.（気のめいる知らせで落ち込んだ）。" },
+      { "q": "depressing の反対語は？", "a": "uplifting（元気づける）や cheerful（陽気な）です。気分を明るくするものを表します。" }
+    ],
+    "quiz": [
+      { "q": "depressing の意味は？", "A": "気がめいる・憂うつにさせる", "B": "元気づける", "C": "興奮させる", "D": "笑わせる", "correct": "A" },
+      { "q": "人が「落ち込んだ」を表す形は？", "A": "depressed", "B": "depressing", "C": "depress", "D": "depression", "correct": "A" }
+    ]
+  },
+  {
+    "english": "deregulation",
+    "pron": "diːˌreɡjəˈleɪʃən",
+    "kana": "ディレギュレーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "de-（除去）+ regulation（規制）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "経済・政治"],
+    "meaning_main": "規制緩和 / 規制撤廃",
+    "description": "deregulation（ディレギュレーション）は「規制緩和・規制撤廃」を表す名詞。政府がある産業・分野にかけていた規制をゆるめたり取り除いたりして、自由な競争を促すことを指します。",
+    "keywords": ["deregulation 意味", "規制緩和 英語", "規制撤廃 英語", "regulation 反対"],
+    "meanings": [
+      { "hinshi": "【名詞】規制緩和、規制撤廃", "note": "不可算名詞。政府の規制をゆるめる・取り除くこと" }
+    ],
+    "usages": [
+      { "title": "① 産業の規制緩和", "desc": "自由化", "example_en": "The deregulation of the airline industry increased competition.", "example_ja": "航空業界の規制緩和は競争を激化させた。" },
+      { "title": "② 政策として", "desc": "規制を外す", "example_en": "The government pushed for deregulation.", "example_ja": "政府は規制緩和を推し進めた。" }
+    ],
+    "warn": ["反対は regulation（規制）。動詞は deregulate（規制を緩和する）"],
+    "etym_note": "「除去」を表す接頭辞 de- が regulation（規制）に付いた語。「規制を取り除くこと」の意。",
+    "etym_chain": [
+      { "node": "regulation", "sub": "規制", "era": "17世紀" },
+      { "node": "deregulation", "sub": "規制緩和", "era": "20世紀" }
+    ],
+    "phrases": [
+      { "en": "financial deregulation", "ja": "金融の規制緩和" },
+      { "en": "market deregulation", "ja": "市場の規制緩和" },
+      { "en": "push for deregulation", "ja": "規制緩和を推し進める" },
+      { "en": "the deregulation of", "ja": "〜の規制緩和" },
+      { "en": "economic deregulation", "ja": "経済の規制緩和" },
+      { "en": "energy deregulation", "ja": "エネルギーの規制緩和" }
+    ],
+    "related": [
+      { "en": "deregulate", "ja": "規制を緩和する" },
+      { "en": "regulation", "ja": "規制" },
+      { "en": "liberalization", "ja": "自由化" },
+      { "en": "privatization", "ja": "民営化" }
+    ],
+    "faq": [
+      { "q": "deregulation の反対語は？", "a": "regulation（規制）です。deregulation は規制をゆるめる・取り除くこと、regulation は規制をかけることを指します。" },
+      { "q": "deregulation の狙いは？", "a": "規制をゆるめて企業の自由な競争を促し、価格の低下やサービスの向上、新規参入を期待することです。一方で、行きすぎると弊害も指摘されます。" }
+    ],
+    "quiz": [
+      { "q": "deregulation の意味は？", "A": "規制緩和・規制撤廃", "B": "規制強化", "C": "国有化", "D": "課税", "correct": "A" },
+      { "q": "deregulation の反対語は？", "A": "regulation", "B": "reservation", "C": "recreation", "D": "reputation", "correct": "A" }
+    ]
+  },
+  {
+    "english": "deride",
+    "pron": "dɪˈraɪd",
+    "kana": "ディライド",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 deridere（あざ笑う）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文章表現"],
+    "meaning_main": "あざ笑う / ばかにする / 嘲る",
+    "description": "deride（ディライド）は「あざ笑う・ばかにする」を表す動詞。人や考えを見下して、あざけり笑うことを指します。",
+    "keywords": ["deride 意味", "あざ笑う 英語", "ばかにする 英語", "嘲る 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】あざ笑う、ばかにする、嘲る", "note": "見下してあざけり笑う" }
+    ],
+    "usages": [
+      { "title": "① 人をあざ笑う", "desc": "ばかにする", "example_en": "They derided his old-fashioned ideas.", "example_ja": "彼らは彼の時代遅れの考えをあざ笑った。" },
+      { "title": "② 嘲る", "desc": "見下す", "example_en": "The plan was derided as unrealistic.", "example_ja": "その計画は非現実的だとあざ笑われた。" }
+    ],
+    "warn": ["名詞は derision（嘲笑）、形容詞は derisive（あざ笑うような）。be derided as ... で「〜だとあざ笑われる」"],
+    "etym_note": "ラテン語 deridere（de-「すっかり」+ ridere「笑う」＝あざ笑う）に由来する語。ridiculous（ばかげた）と同語源。",
+    "etym_chain": [
+      { "node": "deridere", "sub": "あざ笑う(ラテン語)", "era": "ラテン語" },
+      { "node": "deride", "sub": "あざ笑う", "era": "16世紀" }
+    ],
+    "phrases": [
+      { "en": "deride someone", "ja": "〜をあざ笑う" },
+      { "en": "be derided as", "ja": "〜だとあざ笑われる" },
+      { "en": "deride the idea", "ja": "その考えをばかにする" },
+      { "en": "openly deride", "ja": "公然とあざ笑う" },
+      { "en": "deride and mock", "ja": "あざけり笑う" },
+      { "en": "widely derided", "ja": "広くあざ笑われた" }
+    ],
+    "related": [
+      { "en": "derision", "ja": "嘲笑" },
+      { "en": "mock", "ja": "あざける" },
+      { "en": "ridicule", "ja": "あざ笑う・嘲笑" },
+      { "en": "praise", "ja": "ほめる" }
+    ],
+    "faq": [
+      { "q": "deride と mock の違いは？", "a": "ほぼ同義で「あざける・ばかにする」を意味します。deride はやや硬い語で「見下してあざ笑う」、mock は「（まねなどで）からかいあざける」に少し重点があります。" },
+      { "q": "deride の名詞・形容詞形は？", "a": "名詞は derision（嘲笑）、形容詞は derisive（あざ笑うような）や derisory（ばかにするような・（額が）雀の涙ほどの）です。" }
+    ],
+    "quiz": [
+      { "q": "deride の意味は？", "A": "あざ笑う・ばかにする", "B": "ほめる", "C": "励ます", "D": "感謝する", "correct": "A" },
+      { "q": "deride の名詞形は？", "A": "derision(嘲笑)", "B": "decision(決定)", "C": "division(分割)", "D": "diversion(気晴らし)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "designated",
+    "pron": "ˈdezɪɡneɪtɪd",
+    "kana": "デジグネイテッド",
+    "hinshi": "形容詞 / 動詞(designate の過去・過去分詞)",
+    "ld_pos": "形容詞・動詞",
+    "ld_etym": "designate（指定する）+ -ed",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "頻出"],
+    "meaning_main": "指定された / 指名された / 所定の",
+    "description": "designated（デジグネイテッド）は designate（指定する）の過去・過去分詞。「指定された・所定の」を表し、公式に定められた場所・役割・人などを表します。designated driver（指定運転者）でおなじみです。",
+    "keywords": ["designated 意味", "指定された 英語", "所定の 英語", "designate 過去形"],
+    "meanings": [
+      { "hinshi": "【形容詞】指定された、指名された、所定の", "note": "公式に定められた場所・役割・人のさま" },
+      { "hinshi": "【動詞】designate（指定する・指名する）の過去・過去分詞", "note": "「指定した」「指名した」" }
+    ],
+    "usages": [
+      { "title": "① 指定された場所", "desc": "所定の", "example_en": "Please park in the designated area.", "example_ja": "所定の区域に駐車してください。" },
+      { "title": "② 指名された人", "desc": "役割を割り当てる", "example_en": "He was the designated driver that night.", "example_ja": "彼はその夜の指定運転者だった。" }
+    ],
+    "warn": ["designated driver は「（飲まずに送る）指定運転者」。名詞は designation（指定・名称）"],
+    "etym_note": "ラテン語 designare（de-「印をつける」+ signare「しるす」＝指し示す）に由来する designate の過去分詞・形容詞形。",
+    "etym_chain": [
+      { "node": "designare", "sub": "指し示す(ラテン語)", "era": "ラテン語" },
+      { "node": "designate", "sub": "指定する", "era": "17世紀" },
+      { "node": "designated", "sub": "指定された", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a designated area", "ja": "指定区域" },
+      { "en": "designated driver", "ja": "指定運転者" },
+      { "en": "a designated smoking area", "ja": "所定の喫煙エリア" },
+      { "en": "designated seats", "ja": "指定席" },
+      { "en": "the designated time", "ja": "指定の時間" },
+      { "en": "a designated hitter", "ja": "指名打者(野球)" }
+    ],
+    "related": [
+      { "en": "designate", "ja": "指定する・指名する" },
+      { "en": "designation", "ja": "指定・名称" },
+      { "en": "appointed", "ja": "任命された" },
+      { "en": "assigned", "ja": "割り当てられた" }
+    ],
+    "faq": [
+      { "q": "designated driver とは？", "a": "「指定運転者」のことです。飲み会などで、自分は飲まずに仲間を車で送る役割を担う人を指します。" },
+      { "q": "designated の名詞形は？", "a": "designation（指定・任命・名称・肩書き）です。official designation（正式な名称）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "designated の意味は？", "A": "指定された・所定の", "B": "禁止された", "C": "偶然の", "D": "自由な", "correct": "A" },
+      { "q": "designated driver の意味は？", "A": "指定運転者", "B": "違反者", "C": "整備士", "D": "乗客", "correct": "A" }
+    ]
+  },
+  {
+    "english": "desired",
+    "pron": "dɪˈzaɪərd",
+    "kana": "ディザイアド",
+    "hinshi": "形容詞 / 動詞(desire の過去・過去分詞)",
+    "ld_pos": "形容詞・動詞",
+    "ld_etym": "desire（望む）+ -ed",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "頻出"],
+    "meaning_main": "望まれた / 希望どおりの / 所期の",
+    "description": "desired（ディザイアド）は desire（望む）の過去・過去分詞。「望まれた・希望どおりの」を表し、目指していた結果や理想の状態について使います。the desired effect（望んだ効果）が定番です。",
+    "keywords": ["desired 意味", "望まれた 英語", "希望どおり 英語", "desire 過去形"],
+    "meanings": [
+      { "hinshi": "【形容詞】望まれた、希望どおりの、所期の", "note": "目指していた・理想とするさま" },
+      { "hinshi": "【動詞】desire（強く望む）の過去・過去分詞", "note": "「望んだ」" }
+    ],
+    "usages": [
+      { "title": "① 望んだ結果", "desc": "希望どおり", "example_en": "The treatment had the desired effect.", "example_ja": "その治療は望んだ効果を上げた。" },
+      { "title": "② 目指す状態", "desc": "理想の", "example_en": "They finally reached the desired outcome.", "example_ja": "彼らはついに所期の結果に達した。" }
+    ],
+    "warn": ["the desired effect / result / outcome（望んだ効果・結果）が定番。名詞は desire（欲望・願望）"],
+    "etym_note": "ラテン語 desiderare（（星を）望む→強く望む）に由来する desire の過去分詞・形容詞形。",
+    "etym_chain": [
+      { "node": "desiderare", "sub": "強く望む(ラテン語)", "era": "ラテン語" },
+      { "node": "desire", "sub": "望む", "era": "13世紀" },
+      { "node": "desired", "sub": "望まれた", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the desired effect", "ja": "望んだ効果" },
+      { "en": "the desired result", "ja": "望んだ結果" },
+      { "en": "the desired outcome", "ja": "所期の結果" },
+      { "en": "achieve the desired", "ja": "望みを達成する" },
+      { "en": "the desired level", "ja": "望ましい水準" },
+      { "en": "much desired", "ja": "切望された" }
+    ],
+    "related": [
+      { "en": "desire", "ja": "望む・欲望" },
+      { "en": "wanted", "ja": "望まれた・欲しい" },
+      { "en": "intended", "ja": "意図された" },
+      { "en": "unwanted", "ja": "望まれない" }
+    ],
+    "faq": [
+      { "q": "the desired effect とは？", "a": "「望んだ効果・意図した効果」という意味です。have the desired effect（望んだ効果を上げる）のように、狙いどおりの結果が得られたことを表します。" },
+      { "q": "desired と wanted の違いは？", "a": "どちらも「望まれた」ですが、desired はやや硬く「（目標として）望まれた・理想の」、wanted は「（単に）欲しい・望まれる」に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "desired の意味は？", "A": "望まれた・希望どおりの", "B": "望まれない", "C": "忘れられた", "D": "壊れた", "correct": "A" },
+      { "q": "the desired effect の意味は？", "A": "望んだ効果", "B": "予想外の効果", "C": "悪い効果", "D": "効果なし", "correct": "A" }
+    ]
+  },
+  {
+    "english": "destabilization",
+    "pron": "diːˌsteɪbɪlaɪˈzeɪʃən",
+    "kana": "ディステイビライゼーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "de-（逆）+ stabilize（安定させる）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "政治・経済"],
+    "meaning_main": "不安定化 / 動揺 / 安定を崩すこと",
+    "description": "destabilization（ディステイビライゼーション）は「不安定化」を表す名詞。安定していた政治・経済・地域などの秩序を崩し、揺るがして不安定にすることを指します。",
+    "keywords": ["destabilization 意味", "不安定化 英語", "stabilize 反対", "安定を崩す 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】不安定化、動揺", "note": "不可算名詞。安定した状態を崩し不安定にすること。英綴りは destabilisation" }
+    ],
+    "usages": [
+      { "title": "① 政治の不安定化", "desc": "秩序を崩す", "example_en": "The coup led to political destabilization.", "example_ja": "そのクーデターは政治の不安定化を招いた。" },
+      { "title": "② 地域の動揺", "desc": "安定を揺るがす", "example_en": "The conflict caused regional destabilization.", "example_ja": "その紛争は地域の不安定化を引き起こした。" }
+    ],
+    "warn": ["反対は stabilization（安定化）。動詞は destabilize（不安定にする）"],
+    "etym_note": "「逆」を表す接頭辞 de- が stabilize（安定させる＝stable「安定した」から）に、名詞化の -ation が付いた語。「安定を崩すこと」の意。",
+    "etym_chain": [
+      { "node": "stabilize", "sub": "安定させる", "era": "19世紀" },
+      { "node": "destabilize", "sub": "不安定にする", "era": "20世紀" },
+      { "node": "destabilization", "sub": "不安定化", "era": "20世紀" }
+    ],
+    "phrases": [
+      { "en": "political destabilization", "ja": "政治の不安定化" },
+      { "en": "economic destabilization", "ja": "経済の不安定化" },
+      { "en": "regional destabilization", "ja": "地域の不安定化" },
+      { "en": "cause destabilization", "ja": "不安定化を招く" },
+      { "en": "the destabilization of", "ja": "〜の不安定化" },
+      { "en": "prevent destabilization", "ja": "不安定化を防ぐ" }
+    ],
+    "related": [
+      { "en": "destabilize", "ja": "不安定にする" },
+      { "en": "stabilization", "ja": "安定化" },
+      { "en": "instability", "ja": "不安定" },
+      { "en": "disruption", "ja": "混乱・撹乱" }
+    ],
+    "faq": [
+      { "q": "destabilization の反対語は？", "a": "stabilization（安定化）です。destabilization は安定を崩すこと、stabilization は安定させることを指します。" },
+      { "q": "destabilization の動詞形は？", "a": "destabilize（不安定にする・動揺させる）です。destabilize the region（地域を不安定にする）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "destabilization の意味は？", "A": "不安定化・安定を崩すこと", "B": "安定化", "C": "近代化", "D": "民主化", "correct": "A" },
+      { "q": "destabilization の反対語は？", "A": "stabilization", "B": "specialization", "C": "socialization", "D": "civilization", "correct": "A" }
+    ]
+  },
+  {
+    "english": "details",
+    "pron": "ˈdiːteɪlz",
+    "kana": "ディーテイルズ",
+    "hinshi": "名詞(detail の複数形) / 動詞(detail の三単現)",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "detail（詳細）の複数形",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "頻出"],
+    "meaning_main": "詳細 / 細部 / 個人情報",
+    "description": "details（ディーテイルズ）は detail（詳細）の複数形。「詳細・細部」を表し、物事の細かい点や、名前・連絡先などの個人情報を指します。",
+    "keywords": ["details 意味", "詳細 英語", "detail 複数形", "細部 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】詳細、細部", "note": "複数形。物事の細かい点・情報" },
+      { "hinshi": "【名詞】(個人の)情報", "note": "名前・住所・連絡先など。contact details（連絡先）" }
+    ],
+    "usages": [
+      { "title": "① 詳しい情報", "desc": "細かい点", "example_en": "Please give me the details of the plan.", "example_ja": "その計画の詳細を教えてください。" },
+      { "title": "② 個人情報", "desc": "連絡先など", "example_en": "Fill in your contact details.", "example_ja": "連絡先を記入してください。" }
+    ],
+    "warn": ["contact details は「連絡先（名前・電話・メールなど）」。in detail で「詳細に」、go into detail で「細かく述べる」"],
+    "etym_note": "古フランス語 detail（小片・細部）に由来する detail の複数形。「細かく切り分けたもの＝詳細」の意。",
+    "etym_chain": [
+      { "node": "detail", "sub": "細部・詳細(古仏語)", "era": "17世紀" },
+      { "node": "details", "sub": "詳細・情報", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "contact details", "ja": "連絡先" },
+      { "en": "in detail", "ja": "詳細に" },
+      { "en": "further details", "ja": "さらなる詳細" },
+      { "en": "the finer details", "ja": "細かい点" },
+      { "en": "personal details", "ja": "個人情報" },
+      { "en": "go into details", "ja": "細かく述べる" }
+    ],
+    "related": [
+      { "en": "detail", "ja": "詳細・細部" },
+      { "en": "information", "ja": "情報" },
+      { "en": "specifics", "ja": "具体的な事柄" },
+      { "en": "particulars", "ja": "詳細・明細" }
+    ],
+    "faq": [
+      { "q": "contact details とは？", "a": "「連絡先」のことです。名前・住所・電話番号・メールアドレスなど、その人に連絡を取るための情報を指します。" },
+      { "q": "in detail と go into detail の違いは？", "a": "in detail は「詳細に（副詞的に）」（explain in detail＝詳しく説明する）、go into detail は「（あえて）細かく述べる・立ち入る」という句動詞です。" }
+    ],
+    "quiz": [
+      { "q": "details の意味は？", "A": "詳細・細部・(個人の)情報", "B": "表紙", "C": "見出し", "D": "結論", "correct": "A" },
+      { "q": "contact details の意味は？", "A": "連絡先", "B": "契約書", "C": "地図", "D": "領収書", "correct": "A" }
+    ]
+  },
+  {
+    "english": "devoid",
+    "pron": "dɪˈvɔɪd",
+    "kana": "ディボイド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "古フランス語 desvoidier（空にする）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文章表現"],
+    "meaning_main": "(〜を)まったく欠いた / 〜が全くない",
+    "description": "devoid（ディボイド）は「（〜を）まったく欠いた・〜が全くない」を表す形容詞。devoid of ... の形で、あるべき性質・感情・内容などが完全に欠けていることを表します。",
+    "keywords": ["devoid 意味", "欠いた 英語", "全くない 英語", "devoid of 使い方"],
+    "meanings": [
+      { "hinshi": "【形容詞】(〜を)まったく欠いた、〜が全くない", "note": "devoid of ... の形で使う。あるべきものが完全に欠けているさま" }
+    ],
+    "usages": [
+      { "title": "① 感情がない", "desc": "全く欠く", "example_en": "His voice was devoid of emotion.", "example_ja": "彼の声はまったく感情を欠いていた。" },
+      { "title": "② 内容がない", "desc": "皆無", "example_en": "The report was devoid of any useful information.", "example_ja": "その報告には有用な情報が皆無だった。" }
+    ],
+    "warn": ["必ず devoid of ... の形で使う叙述用法。名詞の前には置かない", "反対は full of ...（〜に満ちた）"],
+    "etym_note": "古フランス語 desvoidier（des-「除く」+ voidier「空にする」）に由来する語。「（あるべきものを）取り去って空にした」の意。void（空の）と同語源。",
+    "etym_chain": [
+      { "node": "desvoidier", "sub": "空にする(古仏語)", "era": "古フランス語" },
+      { "node": "devoid", "sub": "欠いた", "era": "15世紀" }
+    ],
+    "phrases": [
+      { "en": "devoid of emotion", "ja": "感情を欠いた" },
+      { "en": "devoid of meaning", "ja": "意味のない" },
+      { "en": "devoid of life", "ja": "生命のない" },
+      { "en": "devoid of color", "ja": "色のない" },
+      { "en": "completely devoid of", "ja": "まったく〜を欠いた" },
+      { "en": "devoid of humor", "ja": "ユーモアのない" }
+    ],
+    "related": [
+      { "en": "void", "ja": "空の・空白" },
+      { "en": "lacking", "ja": "欠けている" },
+      { "en": "empty", "ja": "空の" },
+      { "en": "full", "ja": "満ちた" }
+    ],
+    "faq": [
+      { "q": "devoid の使い方は？", "a": "必ず devoid of ...（〜を欠いた）の形で使います。be devoid of feeling（感情を全く欠いている）のように、あるべきものが完全にないことを表す叙述用法の語です。" },
+      { "q": "devoid と lacking の違いは？", "a": "どちらも「欠けている」ですが、devoid of は「（完全に）皆無・全くない」と強い欠如を、lacking は「（十分に）足りない・欠けている」を表します。" }
+    ],
+    "quiz": [
+      { "q": "devoid of emotion の意味は？", "A": "感情をまったく欠いた", "B": "感情豊かな", "C": "感情的な", "D": "感動した", "correct": "A" },
+      { "q": "devoid の正しい使い方は？", "A": "devoid of 〜", "B": "a devoid room", "C": "devoid to 〜", "D": "devoid with 〜", "correct": "A" }
+    ]
+  },
+  {
+    "english": "diabetic",
+    "pron": "ˌdaɪəˈbetɪk",
+    "kana": "ダイアベティック",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "形容詞・名詞",
+    "ld_etym": "diabetes（糖尿病）+ -ic",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR B2", "医学"],
+    "meaning_main": "糖尿病の / 糖尿病患者 / 糖尿病用の",
+    "description": "diabetic（ダイアベティック）は「糖尿病の・糖尿病患者」を表す語。血糖値をうまく調節できない病気「糖尿病（diabetes）」に関することや、その患者、糖尿病者向けの食品などを指します。",
+    "keywords": ["diabetic 意味", "糖尿病 英語", "糖尿病患者 英語", "diabetes 形容詞"],
+    "meanings": [
+      { "hinshi": "【形容詞】糖尿病の、糖尿病用の", "note": "糖尿病に関する。diabetic diet（糖尿病食）など" },
+      { "hinshi": "【名詞】糖尿病患者", "note": "糖尿病を持つ人" }
+    ],
+    "usages": [
+      { "title": "① 糖尿病患者", "desc": "病気を持つ人", "example_en": "As a diabetic, he checks his blood sugar daily.", "example_ja": "糖尿病患者として、彼は毎日血糖値を測る。" },
+      { "title": "② 糖尿病用の", "desc": "患者向けの", "example_en": "She follows a diabetic diet.", "example_ja": "彼女は糖尿病食を実践している。" }
+    ],
+    "warn": ["名詞は diabetes（糖尿病）。血糖を下げるホルモンは insulin（インスリン）"],
+    "etym_note": "ギリシャ語 diabetes（（水が）通り抜ける＝多尿の症状から）に由来する diabetes（糖尿病）に、形容詞化の -ic が付いた語。",
+    "etym_chain": [
+      { "node": "diabetes", "sub": "糖尿病(ギリシャ語由来)", "era": "16世紀" },
+      { "node": "diabetic", "sub": "糖尿病の・患者", "era": "18世紀" }
+    ],
+    "phrases": [
+      { "en": "a diabetic patient", "ja": "糖尿病患者" },
+      { "en": "diabetic diet", "ja": "糖尿病食" },
+      { "en": "type 1 diabetic", "ja": "1型糖尿病の(患者)" },
+      { "en": "diabetic medication", "ja": "糖尿病の薬" },
+      { "en": "become diabetic", "ja": "糖尿病になる" },
+      { "en": "diabetic-friendly", "ja": "糖尿病の人に配慮した" }
+    ],
+    "related": [
+      { "en": "diabetes", "ja": "糖尿病" },
+      { "en": "insulin", "ja": "インスリン" },
+      { "en": "blood sugar", "ja": "血糖" },
+      { "en": "glucose", "ja": "ブドウ糖" }
+    ],
+    "faq": [
+      { "q": "diabetic と diabetes の違いは？", "a": "diabetes は病気そのもの「糖尿病」、diabetic は形容詞「糖尿病の」または名詞「糖尿病患者」です。" },
+      { "q": "diabetic diet とは？", "a": "「糖尿病食」のことです。血糖値の急な上昇を抑えるよう、糖質・カロリーなどに配慮した食事を指します。" }
+    ],
+    "quiz": [
+      { "q": "diabetic の意味は？", "A": "糖尿病の・糖尿病患者", "B": "高血圧の", "C": "貧血の", "D": "花粉症の", "correct": "A" },
+      { "q": "diabetic の名詞(病気)は？", "A": "diabetes", "B": "diagnosis", "C": "dialogue", "D": "diameter", "correct": "A" }
+    ]
+  },
+  {
+    "english": "dicker",
+    "pron": "ˈdɪkər",
+    "kana": "ディッカー",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "由来不詳(交渉を意味する口語)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "口語"],
+    "meaning_main": "値切り交渉する / 細かく駆け引きする",
+    "description": "dicker（ディッカー）は「値切り交渉する・細かく駆け引きする」を表す口語的な動詞。値段や条件をめぐって、こまごまと粘り強く交渉することを指します。主に米国口語です。",
+    "keywords": ["dicker 意味", "値切り 英語", "交渉 英語", "駆け引き 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】値切り交渉する、細かく駆け引きする", "note": "値段・条件をめぐりこまごまと交渉する（米口語）" },
+      { "hinshi": "【名詞】値切り交渉、駆け引き", "note": "こまごました交渉" }
+    ],
+    "usages": [
+      { "title": "① 値切る", "desc": "交渉する", "example_en": "They dickered over the price for an hour.", "example_ja": "彼らは1時間も値段の交渉をした。" },
+      { "title": "② 条件で駆け引き", "desc": "細かく交渉", "example_en": "He likes to dicker at flea markets.", "example_ja": "彼はフリーマーケットで値切るのが好きだ。" }
+    ],
+    "warn": ["くだけた口語。haggle（値切る）とほぼ同義。dicker over ... で「〜をめぐって交渉する」"],
+    "etym_note": "確かな語源は不詳。19世紀のアメリカ口語で「（小さな）取引・交渉」を意味するようになった語とされる。",
+    "etym_chain": [
+      { "node": "(由来不詳)", "sub": "取引・交渉", "era": "19世紀" },
+      { "node": "dicker", "sub": "値切り交渉する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "dicker over the price", "ja": "値段をめぐって値切る" },
+      { "en": "dicker with a seller", "ja": "売り手と交渉する" },
+      { "en": "dicker for a bargain", "ja": "安く買おうと交渉する" },
+      { "en": "no dickering", "ja": "値切り交渉なし" },
+      { "en": "dicker back and forth", "ja": "何度も駆け引きする" },
+      { "en": "start to dicker", "ja": "値切り始める" }
+    ],
+    "related": [
+      { "en": "haggle", "ja": "値切る" },
+      { "en": "bargain", "ja": "交渉する・安売り品" },
+      { "en": "negotiate", "ja": "交渉する" },
+      { "en": "barter", "ja": "物々交換する" }
+    ],
+    "faq": [
+      { "q": "dicker と haggle の違いは？", "a": "ほぼ同義で「値切り交渉する」を意味します。どちらも値段をめぐって粘り強く交渉することを表し、置き換えて使えることが多いです。dicker は主に米国口語です。" },
+      { "q": "dicker と negotiate の違いは？", "a": "negotiate は「（正式に）交渉する」全般、dicker は「（値段・条件を）こまごまと粘って値切る」というくだけたニュアンスです。" }
+    ],
+    "quiz": [
+      { "q": "dicker の意味は？", "A": "値切り交渉する・駆け引きする", "B": "即決する", "C": "寄付する", "D": "無視する", "correct": "A" },
+      { "q": "dicker と近い意味の語は？", "A": "haggle(値切る)", "B": "hurry(急ぐ)", "C": "hesitate(ためらう)", "D": "hide(隠す)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "dill",
+    "pron": "dɪl",
+    "kana": "ディル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 dile（ディル）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR B2", "料理・植物"],
+    "meaning_main": "ディル（香りのよいハーブ）",
+    "description": "dill（ディル）は「ディル」を表す名詞。細い羽状の葉と独特のさわやかな香りを持つハーブで、魚料理やピクルスの風味づけに使われます。",
+    "keywords": ["dill 意味", "ディル 英語", "ハーブ 英語", "dill pickle"],
+    "meanings": [
+      { "hinshi": "【名詞】ディル", "note": "不可算名詞。羽状の葉とさわやかな香りを持つハーブ。魚料理・ピクルスに使う" }
+    ],
+    "usages": [
+      { "title": "① 料理の香草", "desc": "風味づけ", "example_en": "Sprinkle some dill over the salmon.", "example_ja": "サーモンにディルを少し散らしなさい。" },
+      { "title": "② ピクルスに", "desc": "香りづけ", "example_en": "Dill is used to flavor pickles.", "example_ja": "ディルはピクルスの風味づけに使われる。" }
+    ],
+    "warn": ["dill pickle は「ディル風味のピクルス（きゅうりの酢漬け）」。似た名の fennel（フェンネル）とは別のハーブ"],
+    "etym_note": "古英語 dile に由来する語。ゲルマン語系の古いハーブの名で、古くから薬草・香草として使われてきた。",
+    "etym_chain": [
+      { "node": "dile", "sub": "ディル(古英語)", "era": "古英語" },
+      { "node": "dill", "sub": "ディル", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "fresh dill", "ja": "生のディル" },
+      { "en": "dill pickle", "ja": "ディル風味のピクルス" },
+      { "en": "chopped dill", "ja": "刻んだディル" },
+      { "en": "dill and lemon", "ja": "ディルとレモン" },
+      { "en": "a sprig of dill", "ja": "ディルの小枝" },
+      { "en": "dried dill", "ja": "乾燥ディル" }
+    ],
+    "related": [
+      { "en": "herb", "ja": "ハーブ・香草" },
+      { "en": "fennel", "ja": "フェンネル" },
+      { "en": "parsley", "ja": "パセリ" },
+      { "en": "pickle", "ja": "ピクルス" }
+    ],
+    "faq": [
+      { "q": "dill はどんな料理に使う？", "a": "魚料理（特にサーモン）、ピクルス、ヨーグルトソース、サラダ、スープなどの風味づけに使われます。さわやかで少し甘い香りが特徴です。" },
+      { "q": "dill と fennel の違いは？", "a": "どちらも羽状の葉を持つセリ科のハーブですが、dill（ディル）は魚料理やピクルスに、fennel（フェンネル）はアニスのような甘い香りで球根部分も食用にする点が異なります。" }
+    ],
+    "quiz": [
+      { "q": "dill とは？", "A": "香りのよいハーブ", "B": "果物", "C": "肉の部位", "D": "調味料の塩", "correct": "A" },
+      { "q": "dill pickle とは？", "A": "ディル風味のピクルス", "B": "甘いジャム", "C": "辛いソース", "D": "デザート", "correct": "A" }
+    ]
+  }
+]

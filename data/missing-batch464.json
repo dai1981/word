@@ -1,0 +1,985 @@
+[
+  {
+    "english": "addicted",
+    "pron": "əˈdɪktɪd",
+    "kana": "アディクテッド",
+    "hinshi": "形容詞 / 動詞(addict の過去・過去分詞)",
+    "ld_pos": "形容詞・動詞",
+    "ld_etym": "addict（依存させる）+ -ed",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "頻出"],
+    "meaning_main": "中毒の / 依存した / 夢中の",
+    "description": "addicted（アディクテッド）は「中毒の・依存した」を表す形容詞。薬物や酒などがやめられない状態、また何かに夢中でのめり込んでいる状態を表します。",
+    "keywords": ["addicted 意味", "中毒 英語", "依存 英語", "addicted to 使い方"],
+    "meanings": [
+      { "hinshi": "【形容詞】中毒の、依存した", "note": "薬物・酒などがやめられない状態" },
+      { "hinshi": "【形容詞】夢中の、はまった", "note": "何かにのめり込んでいるさま（口語）" }
+    ],
+    "usages": [
+      { "title": "① 依存・中毒", "desc": "やめられない", "example_en": "He became addicted to alcohol.", "example_ja": "彼はアルコール依存になった。" },
+      { "title": "② 夢中になる", "desc": "はまっている", "example_en": "She's addicted to that game.", "example_ja": "彼女はそのゲームに夢中だ。" }
+    ],
+    "warn": ["be addicted to ... の形。to のあとは名詞または動名詞", "名詞は addiction（中毒・依存）、依存者は addict"],
+    "etym_note": "ラテン語 addicere（引き渡す・ゆだねる）に由来する addict の過去分詞・形容詞形。「（何かに）身をゆだねた状態」の意。",
+    "etym_chain": [
+      { "node": "addicere", "sub": "引き渡す(ラテン語)", "era": "ラテン語" },
+      { "node": "addict", "sub": "依存させる", "era": "16世紀" },
+      { "node": "addicted", "sub": "依存した", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "addicted to drugs", "ja": "薬物中毒の" },
+      { "en": "become addicted", "ja": "依存するようになる" },
+      { "en": "addicted to gaming", "ja": "ゲームに夢中の" },
+      { "en": "highly addicted", "ja": "深く依存した" },
+      { "en": "addicted to sugar", "ja": "砂糖がやめられない" },
+      { "en": "get addicted", "ja": "はまる・依存する" }
+    ],
+    "related": [
+      { "en": "addict", "ja": "依存者・依存させる" },
+      { "en": "addiction", "ja": "中毒・依存" },
+      { "en": "addictive", "ja": "中毒性の" },
+      { "en": "hooked", "ja": "はまった(口語)" }
+    ],
+    "faq": [
+      { "q": "be addicted to のあとは何が来る？", "a": "名詞または動名詞（-ing）が来ます。addicted to coffee（コーヒー依存）、addicted to playing games（ゲームに夢中）のように使います。" },
+      { "q": "addicted の名詞・形容詞形は？", "a": "名詞は addiction（中毒・依存）、「中毒性の」を表す形容詞は addictive です。" }
+    ],
+    "quiz": [
+      { "q": "addicted の意味は？", "A": "中毒の・依存した・夢中の", "B": "無関心な", "C": "満足した", "D": "疲れた", "correct": "A" },
+      { "q": "「〜に依存している」の形は？", "A": "be addicted to", "B": "be addicted of", "C": "be addicted at", "D": "be addicted for", "correct": "A" }
+    ]
+  },
+  {
+    "english": "adrenal",
+    "pron": "əˈdriːnəl",
+    "kana": "アドリーナル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ad-（〜の近くに）+ renal（腎臓の）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "医学・解剖"],
+    "meaning_main": "副腎の / 腎臓の近くの",
+    "description": "adrenal（アドリーナル）は「副腎の」を表す解剖学の形容詞。腎臓の上にある小さな器官「副腎」に関するもので、アドレナリンなどのホルモンを分泌します。",
+    "keywords": ["adrenal 意味", "副腎 英語", "adrenal gland", "副腎 ホルモン"],
+    "meanings": [
+      { "hinshi": "【形容詞】副腎の", "note": "腎臓の上にある副腎に関する。adrenal gland（副腎）" }
+    ],
+    "usages": [
+      { "title": "① 副腎について", "desc": "器官を指す", "example_en": "The adrenal glands sit on top of the kidneys.", "example_ja": "副腎は腎臓の上にある。" },
+      { "title": "② ホルモン分泌", "desc": "副腎の働き", "example_en": "Adrenal hormones help the body respond to stress.", "example_ja": "副腎ホルモンは体がストレスに対応するのを助ける。" }
+    ],
+    "warn": ["ad-（〜の近く）+ renal（腎臓の）＝「腎臓の近くの」＝副腎の。アドレナリン(adrenaline)の語源", "副腎は adrenal gland"],
+    "etym_note": "ラテン語 ad-（〜の近くに）+ renes（腎臓）に由来。「腎臓のそばにある（器官）」の意。ホルモン adrenaline もここから。",
+    "etym_chain": [
+      { "node": "ad + renes", "sub": "腎臓の近くに(ラテン語)", "era": "ラテン語" },
+      { "node": "adrenal", "sub": "副腎の", "era": "19世紀" }
+    ],
+    "phrases": [
+      { "en": "adrenal gland", "ja": "副腎" },
+      { "en": "adrenal hormones", "ja": "副腎ホルモン" },
+      { "en": "adrenal fatigue", "ja": "副腎疲労" },
+      { "en": "the adrenal cortex", "ja": "副腎皮質" },
+      { "en": "adrenal function", "ja": "副腎の機能" },
+      { "en": "an adrenal tumor", "ja": "副腎腫瘍" }
+    ],
+    "related": [
+      { "en": "adrenaline", "ja": "アドレナリン" },
+      { "en": "kidney", "ja": "腎臓" },
+      { "en": "gland", "ja": "腺" },
+      { "en": "hormone", "ja": "ホルモン" }
+    ],
+    "faq": [
+      { "q": "adrenal gland とは？", "a": "腎臓の上にある小さな器官「副腎」のことです。アドレナリンやコルチゾールなど、ストレス対応や代謝に関わるホルモンを分泌します。" },
+      { "q": "adrenal と adrenaline の関係は？", "a": "adrenaline（アドレナリン）は副腎（adrenal gland）から分泌されるホルモンです。どちらも「腎臓のそば」を意味するラテン語に由来します。" }
+    ],
+    "quiz": [
+      { "q": "adrenal の意味は？", "A": "副腎の", "B": "心臓の", "C": "肺の", "D": "肝臓の", "correct": "A" },
+      { "q": "adrenal gland はどこにある？", "A": "腎臓の上", "B": "脳の中", "C": "足の裏", "D": "手の甲", "correct": "A" }
+    ]
+  },
+  {
+    "english": "adware",
+    "pron": "ˈædweər",
+    "kana": "アドウェア",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ad（広告）+ software の -ware",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "IT用語"],
+    "meaning_main": "アドウェア（広告表示ソフト）",
+    "description": "adware（アドウェア）は「広告を表示するソフトウェア」を表すIT用語。無料ソフトなどに組み込まれ、画面に広告を出します。中には無断で情報を集める迷惑なものもあります。",
+    "keywords": ["adware 意味", "アドウェア とは", "広告ソフト 英語", "adware 迷惑"],
+    "meanings": [
+      { "hinshi": "【名詞】アドウェア", "note": "不可算・可算。広告を自動表示するソフトウェア。迷惑・不正なものも含む" }
+    ],
+    "usages": [
+      { "title": "① 広告表示ソフト", "desc": "広告を出す", "example_en": "The free app was full of adware.", "example_ja": "その無料アプリはアドウェアだらけだった。" },
+      { "title": "② 除去の文脈", "desc": "迷惑ソフト", "example_en": "He installed software to remove the adware.", "example_ja": "彼はアドウェアを除去するソフトを入れた。" }
+    ],
+    "warn": ["-ware は software（ソフトウェア）由来の接尾辞（malware, spyware など）", "有害なものは malware（悪意あるソフト）の一種"],
+    "etym_note": "ad（advertisement＝広告）と software の -ware を組み合わせた造語。「広告を表示するソフト」の意。",
+    "etym_chain": [
+      { "node": "ad + -ware", "sub": "広告＋ソフト", "era": "20世紀" },
+      { "node": "adware", "sub": "アドウェア", "era": "1990年代" }
+    ],
+    "phrases": [
+      { "en": "remove adware", "ja": "アドウェアを除去する" },
+      { "en": "adware infection", "ja": "アドウェア感染" },
+      { "en": "bundled adware", "ja": "同梱されたアドウェア" },
+      { "en": "block adware", "ja": "アドウェアを防ぐ" },
+      { "en": "annoying adware", "ja": "迷惑なアドウェア" },
+      { "en": "adware and spyware", "ja": "アドウェアとスパイウェア" }
+    ],
+    "related": [
+      { "en": "malware", "ja": "悪意あるソフト" },
+      { "en": "spyware", "ja": "スパイウェア" },
+      { "en": "software", "ja": "ソフトウェア" },
+      { "en": "virus", "ja": "ウイルス" }
+    ],
+    "faq": [
+      { "q": "adware と malware の違いは？", "a": "adware は「広告を表示するソフト」で、必ずしも有害とは限りません。malware は「悪意あるソフト全般（ウイルスなど）」で、有害なアドウェアは malware の一種です。" },
+      { "q": "adware は危険？", "a": "多くは広告を出すだけですが、中には無断で閲覧情報を集めたり、しつこく広告を表示したりする迷惑・不正なものもあります。" }
+    ],
+    "quiz": [
+      { "q": "adware とは？", "A": "広告を表示するソフトウェア", "B": "画像編集ソフト", "C": "表計算ソフト", "D": "動画再生ソフト", "correct": "A" },
+      { "q": "-ware は何に由来する接尾辞？", "A": "software(ソフトウェア)", "B": "hardware store", "C": "warehouse", "D": "warfare", "correct": "A" }
+    ]
+  },
+  {
+    "english": "aerodynamics",
+    "pron": "ˌeəroʊdaɪˈnæmɪks",
+    "kana": "エアロダイナミクス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "aero-（空気）+ dynamics（力学）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "科学・工学"],
+    "meaning_main": "空気力学 / 空力特性",
+    "description": "aerodynamics（エアロダイナミクス）は「空気力学」を表す名詞。空気の流れと、その中を動く物体（飛行機・車など）にはたらく力を研究する分野や、その物体の空力特性を指します。",
+    "keywords": ["aerodynamics 意味", "空気力学 英語", "空力 英語", "aerodynamics とは"],
+    "meanings": [
+      { "hinshi": "【名詞】空気力学", "note": "学問としては単数扱い。空気の流れと物体にはたらく力を研究する分野" },
+      { "hinshi": "【名詞】空力特性", "note": "物体が空気から受ける力の性質。複数扱いのことも" }
+    ],
+    "usages": [
+      { "title": "① 学問分野として", "desc": "空気の力の研究", "example_en": "Aerodynamics is important in aircraft design.", "example_ja": "空気力学は航空機の設計で重要だ。" },
+      { "title": "② 空力特性として", "desc": "物体の空気抵抗など", "example_en": "The car's aerodynamics reduce fuel use.", "example_ja": "その車の空力特性は燃費を良くする。" }
+    ],
+    "warn": ["-ics で終わる学問名は単数扱い（physics など）。形容詞は aerodynamic（空気力学の・流線形の）"],
+    "etym_note": "ギリシャ語 aer（空気）+ dynamis（力）に由来。「空気の力を扱う学問」の意。",
+    "etym_chain": [
+      { "node": "aer + dynamis", "sub": "空気＋力(ギリシャ語)", "era": "ギリシャ語" },
+      { "node": "aerodynamics", "sub": "空気力学", "era": "19世紀" }
+    ],
+    "phrases": [
+      { "en": "the laws of aerodynamics", "ja": "空気力学の法則" },
+      { "en": "study aerodynamics", "ja": "空気力学を学ぶ" },
+      { "en": "good aerodynamics", "ja": "優れた空力特性" },
+      { "en": "car aerodynamics", "ja": "自動車の空力" },
+      { "en": "improve aerodynamics", "ja": "空力特性を改善する" },
+      { "en": "aerodynamic design", "ja": "空力を意識した設計" }
+    ],
+    "related": [
+      { "en": "aerodynamic", "ja": "空気力学の・流線形の" },
+      { "en": "dynamics", "ja": "力学" },
+      { "en": "aviation", "ja": "航空" },
+      { "en": "drag", "ja": "空気抵抗" }
+    ],
+    "faq": [
+      { "q": "aerodynamics は単数？複数？", "a": "学問名としては単数扱いです（Aerodynamics is ...）。「（ある物体の）空力特性」の意味では複数扱いになることもあります。" },
+      { "q": "aerodynamics の形容詞形は？", "a": "aerodynamic（空気力学の・空気抵抗の少ない流線形の）です。an aerodynamic shape（流線形）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "aerodynamics の意味は？", "A": "空気力学・空力特性", "B": "電気工学", "C": "地質学", "D": "経済学", "correct": "A" },
+      { "q": "aero- が表す意味は？", "A": "空気", "B": "水", "C": "火", "D": "土", "correct": "A" }
+    ]
+  },
+  {
+    "english": "aestivation",
+    "pron": "ˌiːstɪˈveɪʃən",
+    "kana": "エスティベーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 aestas（夏）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "生物学"],
+    "meaning_main": "夏眠 / 夏ごもり",
+    "description": "aestivation（エスティベーション）は「夏眠・夏ごもり」を表す生物学の名詞。暑く乾燥した夏の時期に、一部の動物が活動を止めて休眠することを指します。冬眠（hibernation）の夏版です。",
+    "keywords": ["aestivation 意味", "夏眠 英語", "夏ごもり 英語", "hibernation 対"],
+    "meanings": [
+      { "hinshi": "【名詞】夏眠、夏ごもり", "note": "不可算名詞。暑く乾いた夏の間、動物が活動を止めて休眠すること。米綴りは estivation" }
+    ],
+    "usages": [
+      { "title": "① 動物の夏眠", "desc": "夏に休眠する", "example_en": "Some snails survive dry summers by aestivation.", "example_ja": "一部のカタツムリは夏眠によって乾いた夏を生き延びる。" },
+      { "title": "② 冬眠との対比", "desc": "夏版の休眠", "example_en": "Aestivation is like hibernation but in summer.", "example_ja": "夏眠は冬眠に似ているが、夏に起こる。" }
+    ],
+    "warn": ["冬眠は hibernation（冬）、夏眠は aestivation（夏）", "米国綴りは estivation"],
+    "etym_note": "ラテン語 aestas（夏）・aestivus（夏の）に由来する語。「夏を過ごすこと」の意。冬眠 hibernation（ラテン語 hibernus＝冬）と対をなす。",
+    "etym_chain": [
+      { "node": "aestas", "sub": "夏(ラテン語)", "era": "ラテン語" },
+      { "node": "aestivation", "sub": "夏眠", "era": "19世紀" }
+    ],
+    "phrases": [
+      { "en": "enter aestivation", "ja": "夏眠に入る" },
+      { "en": "summer aestivation", "ja": "夏の休眠" },
+      { "en": "aestivation of snails", "ja": "カタツムリの夏眠" },
+      { "en": "survive by aestivation", "ja": "夏眠で生き延びる" },
+      { "en": "a state of aestivation", "ja": "夏眠状態" },
+      { "en": "aestivation and hibernation", "ja": "夏眠と冬眠" }
+    ],
+    "related": [
+      { "en": "hibernation", "ja": "冬眠" },
+      { "en": "dormancy", "ja": "休眠" },
+      { "en": "torpor", "ja": "不活発・休眠状態" },
+      { "en": "summer", "ja": "夏" }
+    ],
+    "faq": [
+      { "q": "aestivation と hibernation の違いは？", "a": "hibernation は「冬眠（寒い冬に休眠）」、aestivation は「夏眠（暑く乾いた夏に休眠）」です。どちらも活動を止めてエネルギーを節約します。" },
+      { "q": "どんな動物が aestivation する？", "a": "カタツムリ、ハイギョ（肺魚）、一部のカエルやワニなどが、暑く乾いた時期を乗り切るために夏眠します。" }
+    ],
+    "quiz": [
+      { "q": "aestivation の意味は？", "A": "夏眠・夏ごもり", "B": "冬眠", "C": "渡り", "D": "換羽", "correct": "A" },
+      { "q": "aestivation と対になる語は？", "A": "hibernation(冬眠)", "B": "migration(渡り)", "C": "evolution(進化)", "D": "digestion(消化)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "affordability",
+    "pron": "əˌfɔːrdəˈbɪləti",
+    "kana": "アフォーダビリティ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "affordable（手頃な）+ -ity",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "経済・ビジネス"],
+    "meaning_main": "手頃さ / 購入しやすさ / 入手のしやすさ",
+    "description": "affordability（アフォーダビリティ）は「手頃さ・購入しやすさ」を表す名詞。価格が人々の収入に見合っていて、無理なく買えるかどうかの度合いを表します。",
+    "keywords": ["affordability 意味", "手頃さ 英語", "購入しやすさ 英語", "affordable 名詞"],
+    "meanings": [
+      { "hinshi": "【名詞】手頃さ、購入しやすさ", "note": "不可算名詞。価格が収入に見合い、無理なく買える度合い" }
+    ],
+    "usages": [
+      { "title": "① 住宅などの手頃さ", "desc": "買いやすさ", "example_en": "Housing affordability is a serious issue.", "example_ja": "住宅の手頃さ（買いやすさ）は深刻な問題だ。" },
+      { "title": "② 価格と収入のバランス", "desc": "無理なく買える", "example_en": "They improved the affordability of the service.", "example_ja": "彼らはそのサービスの利用しやすさ（価格面）を高めた。" }
+    ],
+    "warn": ["形容詞は affordable（手頃な）、動詞は afford（〜する余裕がある）"],
+    "etym_note": "動詞 afford（〜する（金銭的）余裕がある）に -able が付いた affordable（手頃な）に、性質を表す -ity が付いた語。",
+    "etym_chain": [
+      { "node": "afford", "sub": "余裕がある", "era": "古英語" },
+      { "node": "affordable", "sub": "手頃な", "era": "16世紀" },
+      { "node": "affordability", "sub": "手頃さ", "era": "20世紀" }
+    ],
+    "phrases": [
+      { "en": "housing affordability", "ja": "住宅の手頃さ" },
+      { "en": "improve affordability", "ja": "手頃さを高める" },
+      { "en": "affordability and quality", "ja": "手頃さと品質" },
+      { "en": "the affordability of care", "ja": "医療・介護の負担しやすさ" },
+      { "en": "affordability concerns", "ja": "手頃さへの懸念" },
+      { "en": "price affordability", "ja": "価格の手頃さ" }
+    ],
+    "related": [
+      { "en": "affordable", "ja": "手頃な" },
+      { "en": "afford", "ja": "余裕がある" },
+      { "en": "cost", "ja": "費用" },
+      { "en": "accessibility", "ja": "利用しやすさ" }
+    ],
+    "faq": [
+      { "q": "affordability と accessibility の違いは？", "a": "affordability は「（価格面で）無理なく買える手頃さ」、accessibility は「（物理的・制度的に）手に入れやすい・利用しやすいこと」に重点があります。" },
+      { "q": "affordability の形容詞・動詞形は？", "a": "形容詞は affordable（手頃な）、動詞は afford（〜する金銭的余裕がある）です。" }
+    ],
+    "quiz": [
+      { "q": "affordability の意味は？", "A": "手頃さ・購入しやすさ", "B": "高価さ", "C": "危険度", "D": "重さ", "correct": "A" },
+      { "q": "affordability の形容詞形は？", "A": "affordable", "B": "affordful", "C": "affording", "D": "affordive", "correct": "A" }
+    ]
+  },
+  {
+    "english": "agreeably",
+    "pron": "əˈɡriːəbli",
+    "kana": "アグリーアブリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "agreeable（心地よい・快い）+ -ly",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文章表現"],
+    "meaning_main": "心地よく / 快く / 感じよく",
+    "description": "agreeably（アグリーアブリー）は「心地よく・快く」を表す副詞。気持ちよく感じられる様子や、感じよく愛想よくふるまう様子を表します。",
+    "keywords": ["agreeably 意味", "心地よく 英語", "快く 英語", "agreeable 副詞"],
+    "meanings": [
+      { "hinshi": "【副詞】心地よく、快く", "note": "気持ちよく感じられるさま" },
+      { "hinshi": "【副詞】感じよく、愛想よく", "note": "好ましい態度で" }
+    ],
+    "usages": [
+      { "title": "① 心地よく", "desc": "気持ちよく", "example_en": "We were agreeably surprised by the result.", "example_ja": "私たちはその結果にうれしい驚きを覚えた。" },
+      { "title": "② 感じよく", "desc": "愛想よく", "example_en": "She chatted agreeably with the guests.", "example_ja": "彼女は客と感じよくおしゃべりした。" }
+    ],
+    "warn": ["agreeably surprised で「うれしい意味で驚いた」の定番", "形容詞は agreeable（心地よい・快諾する）"],
+    "etym_note": "古フランス語 agreable（好ましい）に由来する agreeable（心地よい）に、副詞化の -ly が付いた語。",
+    "etym_chain": [
+      { "node": "agreable", "sub": "好ましい(古仏語)", "era": "古フランス語" },
+      { "node": "agreeable", "sub": "心地よい", "era": "14世紀" },
+      { "node": "agreeably", "sub": "心地よく", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "agreeably surprised", "ja": "うれしい驚きの" },
+      { "en": "chat agreeably", "ja": "感じよくおしゃべりする" },
+      { "en": "agreeably warm", "ja": "心地よく暖かい" },
+      { "en": "smile agreeably", "ja": "愛想よくほほえむ" },
+      { "en": "agreeably quiet", "ja": "心地よく静かな" },
+      { "en": "respond agreeably", "ja": "快く応じる" }
+    ],
+    "related": [
+      { "en": "agreeable", "ja": "心地よい・快い" },
+      { "en": "pleasantly", "ja": "感じよく・心地よく" },
+      { "en": "pleasingly", "ja": "気持ちよく" },
+      { "en": "disagreeably", "ja": "不快に" }
+    ],
+    "faq": [
+      { "q": "agreeably surprised とは？", "a": "「（予想外に良くて）うれしい驚きを覚えた」という意味です。悪い意味の驚きではなく、良い意味の意外さを表します。" },
+      { "q": "agreeably と pleasantly の違いは？", "a": "ほぼ同義で「心地よく・感じよく」を意味します。置き換えて使えることが多いです。" }
+    ],
+    "quiz": [
+      { "q": "agreeably の意味は？", "A": "心地よく・快く・感じよく", "B": "不快に", "C": "急いで", "D": "静かに", "correct": "A" },
+      { "q": "agreeably surprised の意味は？", "A": "うれしい驚きの", "B": "怒りの", "C": "退屈した", "D": "恐怖の", "correct": "A" }
+    ]
+  },
+  {
+    "english": "alertly",
+    "pron": "əˈlɜːrtli",
+    "kana": "アラートリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "alert（警戒した）+ -ly",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文章表現"],
+    "meaning_main": "油断なく / 機敏に / 警戒して",
+    "description": "alertly（アラートリー）は「油断なく・機敏に」を表す副詞。周囲によく注意を払い、すばやく反応できる状態で何かをする様子を表します。",
+    "keywords": ["alertly 意味", "油断なく 英語", "機敏に 英語", "alert 副詞"],
+    "meanings": [
+      { "hinshi": "【副詞】油断なく、機敏に、警戒して", "note": "注意を払い、すばやく反応できる状態で" }
+    ],
+    "usages": [
+      { "title": "① 油断なく", "desc": "警戒して", "example_en": "The guard watched alertly.", "example_ja": "警備員は油断なく見張っていた。" },
+      { "title": "② 機敏に反応", "desc": "すばやく", "example_en": "She responded alertly to the danger.", "example_ja": "彼女は危険に機敏に反応した。" }
+    ],
+    "warn": ["形容詞は alert（警戒した・機敏な）、名詞は「警報」の意味もある", "反対は inattentively（不注意に）"],
+    "etym_note": "イタリア語 all'erta（見張りに立って）に由来する alert（警戒した）に、副詞化の -ly が付いた語。",
+    "etym_chain": [
+      { "node": "all'erta", "sub": "見張りに立って(イタリア語)", "era": "17世紀" },
+      { "node": "alert", "sub": "警戒した", "era": "17世紀" },
+      { "node": "alertly", "sub": "油断なく", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "watch alertly", "ja": "油断なく見張る" },
+      { "en": "respond alertly", "ja": "機敏に反応する" },
+      { "en": "listen alertly", "ja": "注意深く聞く" },
+      { "en": "move alertly", "ja": "機敏に動く" },
+      { "en": "stand alertly", "ja": "油断なく構える" },
+      { "en": "look alertly around", "ja": "きびきびと周囲を見る" }
+    ],
+    "related": [
+      { "en": "alert", "ja": "警戒した・機敏な" },
+      { "en": "attentively", "ja": "注意深く" },
+      { "en": "vigilantly", "ja": "警戒して" },
+      { "en": "carelessly", "ja": "不注意に" }
+    ],
+    "faq": [
+      { "q": "alertly の形容詞形は？", "a": "alert（警戒した・機敏な・注意を怠らない）です。名詞では「警報・警戒態勢」の意味もあります。" },
+      { "q": "alertly と vigilantly の違いは？", "a": "どちらも「警戒して」ですが、alertly は「（すばやく反応できるよう）機敏に注意して」、vigilantly は「（危険を見逃さぬよう）油断なく見張って」に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "alertly の意味は？", "A": "油断なく・機敏に", "B": "ぼんやりと", "C": "ゆっくりと", "D": "眠そうに", "correct": "A" },
+      { "q": "alertly の形容詞形は？", "A": "alert", "B": "alter", "C": "allure", "D": "align", "correct": "A" }
+    ]
+  },
+  {
+    "english": "alphabetize",
+    "pron": "ˈælfəbətaɪz",
+    "kana": "アルファベタイズ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "alphabet（アルファベット）+ -ize",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "頻出"],
+    "meaning_main": "アルファベット順に並べる / 五十音順のように整列する",
+    "description": "alphabetize（アルファベタイズ）は「アルファベット順に並べる」を表す動詞。名前や単語などを A・B・C…の順に整理することを指します。",
+    "keywords": ["alphabetize 意味", "アルファベット順 英語", "並べ替え 英語", "alphabet 動詞"],
+    "meanings": [
+      { "hinshi": "【動詞】アルファベット順に並べる", "note": "他動詞。語句・名前などを A〜Z の順に整理する。英綴りは alphabetise" }
+    ],
+    "usages": [
+      { "title": "① 順に並べる", "desc": "A〜Zの順に", "example_en": "Please alphabetize the list of names.", "example_ja": "名前のリストをアルファベット順に並べてください。" },
+      { "title": "② 整理する", "desc": "順序立てる", "example_en": "The books are alphabetized by author.", "example_ja": "その本は著者名のアルファベット順に並んでいる。" }
+    ],
+    "warn": ["-ize は「〜化する・〜にする」を表す接尾辞（英綴りは -ise）"],
+    "etym_note": "ギリシャ語の最初の2文字 alpha・beta に由来する alphabet（アルファベット）に、動詞化の -ize が付いた語。「アルファベット順にする」の意。",
+    "etym_chain": [
+      { "node": "alpha + beta", "sub": "ギリシャ語の最初の2文字", "era": "ギリシャ語" },
+      { "node": "alphabet", "sub": "アルファベット", "era": "16世紀" },
+      { "node": "alphabetize", "sub": "アルファベット順に並べる", "era": "19世紀" }
+    ],
+    "phrases": [
+      { "en": "alphabetize the list", "ja": "リストをアルファベット順にする" },
+      { "en": "alphabetize by name", "ja": "名前順に並べる" },
+      { "en": "alphabetize the files", "ja": "ファイルを順に整理する" },
+      { "en": "alphabetize the entries", "ja": "項目を順に並べる" },
+      { "en": "carefully alphabetize", "ja": "きちんと順に並べる" },
+      { "en": "alphabetize the books", "ja": "本を順に並べる" }
+    ],
+    "related": [
+      { "en": "alphabet", "ja": "アルファベット" },
+      { "en": "alphabetical", "ja": "アルファベット順の" },
+      { "en": "sort", "ja": "分類・並べ替える" },
+      { "en": "order", "ja": "順序・並べる" }
+    ],
+    "faq": [
+      { "q": "alphabetize の形容詞形は？", "a": "alphabetical（アルファベット順の）です。in alphabetical order（アルファベット順に）のように使います。" },
+      { "q": "alphabetize と sort の違いは？", "a": "sort は「（何らかの基準で）分類・並べ替える」全般、alphabetize は特に「アルファベット順（A〜Z）に並べる」ことを指します。" }
+    ],
+    "quiz": [
+      { "q": "alphabetize の意味は？", "A": "アルファベット順に並べる", "B": "翻訳する", "C": "暗記する", "D": "削除する", "correct": "A" },
+      { "q": "alphabetize の形容詞形は？", "A": "alphabetical", "B": "alphabetful", "C": "alphabetive", "D": "alphabetous", "correct": "A" }
+    ]
+  },
+  {
+    "english": "amenities",
+    "pron": "əˈmenətiz",
+    "kana": "アメニティーズ",
+    "hinshi": "名詞(amenity の複数形)",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 amoenus（快適な）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "旅行・住宅"],
+    "meaning_main": "設備 / 快適さを与える施設・備品",
+    "description": "amenities（アメニティーズ）は amenity の複数形で「（生活や滞在を快適にする）設備・施設・備品」を表します。ホテルのアメニティや、地域の生活施設（店・公園など）を指します。",
+    "keywords": ["amenities 意味", "設備 英語", "アメニティ 英語", "amenity 複数形"],
+    "meanings": [
+      { "hinshi": "【名詞】(快適さを与える)設備・施設", "note": "複数形。プール・ジム・店・公園など、暮らしや滞在を快適にするもの" },
+      { "hinshi": "【名詞】(ホテルの)備品・アメニティ", "note": "シャンプー・タオルなど客室の備え付け品" }
+    ],
+    "usages": [
+      { "title": "① ホテル・住宅の設備", "desc": "快適にする施設", "example_en": "The hotel offers modern amenities.", "example_ja": "そのホテルは近代的な設備を備えている。" },
+      { "title": "② 地域の生活施設", "desc": "店や公園など", "example_en": "The area has good local amenities.", "example_ja": "その地域には便利な生活施設がそろっている。" }
+    ],
+    "warn": ["単数 amenity は「（場所の）快適さ・魅力」も指す", "日本語の「アメニティ（備品）」は amenities の一部の意味"],
+    "etym_note": "ラテン語 amoenus（快適な・心地よい）に由来する amenity（快適さ・設備）の複数形。「快適さを与えるもの」の意。",
+    "etym_chain": [
+      { "node": "amoenus", "sub": "快適な(ラテン語)", "era": "ラテン語" },
+      { "node": "amenity", "sub": "快適さ・設備", "era": "15世紀" },
+      { "node": "amenities", "sub": "設備・施設", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "modern amenities", "ja": "近代的な設備" },
+      { "en": "local amenities", "ja": "地域の生活施設" },
+      { "en": "hotel amenities", "ja": "ホテルの設備・備品" },
+      { "en": "public amenities", "ja": "公共施設" },
+      { "en": "basic amenities", "ja": "基本的な設備" },
+      { "en": "leisure amenities", "ja": "レジャー施設" }
+    ],
+    "related": [
+      { "en": "amenity", "ja": "快適さ・設備" },
+      { "en": "facilities", "ja": "施設・設備" },
+      { "en": "comfort", "ja": "快適さ" },
+      { "en": "convenience", "ja": "便利さ" }
+    ],
+    "faq": [
+      { "q": "amenities と facilities の違いは？", "a": "どちらも「設備・施設」ですが、amenities は「快適さ・便利さを与えるもの（店・公園・備品など）」、facilities は「（特定の目的の）設備・施設（トイレ・調理設備など）」に重点があります。" },
+      { "q": "ホテルの amenities とは？", "a": "客室に備え付けられたシャンプー・タオル・歯ブラシなどの備品や、プール・ジムなどの館内設備を指します。" }
+    ],
+    "quiz": [
+      { "q": "amenities の意味は？", "A": "快適さを与える設備・施設", "B": "料金", "C": "従業員", "D": "予約", "correct": "A" },
+      { "q": "amenities の単数形は？", "A": "amenity", "B": "amenitie", "C": "amenit", "D": "amen", "correct": "A" }
+    ]
+  },
+  {
+    "english": "amorphous",
+    "pron": "əˈmɔːrfəs",
+    "kana": "アモルファス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "a-（否定）+ morph（形）+ -ous",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "科学・一般"],
+    "meaning_main": "無定形の / はっきりした形のない / とりとめのない",
+    "description": "amorphous（アモルファス）は「無定形の・はっきりした形のない」を表す形容詞。決まった形を持たない物質や、まとまりのない漠然とした考え・組織を表します。",
+    "keywords": ["amorphous 意味", "無定形 英語", "形のない 英語", "アモルファス"],
+    "meanings": [
+      { "hinshi": "【形容詞】無定形の、はっきりした形のない", "note": "決まった形・結晶構造を持たないさま" },
+      { "hinshi": "【形容詞】とりとめのない、漠然とした", "note": "まとまりや明確さのないさま" }
+    ],
+    "usages": [
+      { "title": "① 形のない物質", "desc": "無定形の", "example_en": "Glass is an amorphous solid.", "example_ja": "ガラスは無定形の固体だ。" },
+      { "title": "② 漠然とした集団・考え", "desc": "まとまりがない", "example_en": "The group was a large, amorphous mass of people.", "example_ja": "その集団はまとまりのない大きな人の塊だった。" }
+    ],
+    "warn": ["科学では「結晶構造を持たない（アモルファス）」、比喩では「漠然とした」", "a-（否定）+ morph（形）＝形がない"],
+    "etym_note": "ギリシャ語 a-（否定）+ morphe（形）に由来。「形を持たない」の意。同語源に metamorphosis（変形）がある。",
+    "etym_chain": [
+      { "node": "a + morphe", "sub": "形がない(ギリシャ語)", "era": "ギリシャ語" },
+      { "node": "amorphous", "sub": "無定形の", "era": "18世紀" }
+    ],
+    "phrases": [
+      { "en": "an amorphous solid", "ja": "無定形の固体" },
+      { "en": "an amorphous mass", "ja": "形のない塊" },
+      { "en": "amorphous shape", "ja": "はっきりしない形" },
+      { "en": "a large, amorphous group", "ja": "まとまりのない大集団" },
+      { "en": "amorphous structure", "ja": "無定形の構造" },
+      { "en": "amorphous and vague", "ja": "漠然としてあいまいな" }
+    ],
+    "related": [
+      { "en": "shapeless", "ja": "形のない" },
+      { "en": "formless", "ja": "無定形の" },
+      { "en": "vague", "ja": "漠然とした" },
+      { "en": "crystalline", "ja": "結晶質の" }
+    ],
+    "faq": [
+      { "q": "amorphous の科学での意味は？", "a": "「決まった結晶構造を持たない（無定形の）」という意味です。ガラスなどが例で、規則正しく並んだ結晶（crystalline）とは対照的です。" },
+      { "q": "amorphous の語源は？", "a": "ギリシャ語 a-（否定）+ morphe（形）で「形がない」の意味です。metamorphosis（変形）と同じ morphe に由来します。" }
+    ],
+    "quiz": [
+      { "q": "amorphous の意味は？", "A": "無定形の・はっきりした形のない", "B": "四角い", "C": "球形の", "D": "整った", "correct": "A" },
+      { "q": "amorphous の a- が表すのは？", "A": "否定(形がない)", "B": "強調", "C": "再び", "D": "前に", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ankara",
+    "pron": "ˈæŋkərə",
+    "kana": "アンカラ",
+    "hinshi": "固有名詞(地名)",
+    "ld_pos": "固有名詞",
+    "ld_etym": "古名 Ancyra（いかり）に由来",
+    "ld_level": "—",
+    "badges": ["学習者向け", "固有名詞", "地名", "地理"],
+    "meaning_main": "アンカラ（トルコの首都）",
+    "description": "Ankara（アンカラ）はトルコの首都。イスタンブールに次ぐ第2の都市で、国の政治の中心地です。※固有名詞なので文中では大文字。",
+    "keywords": ["ankara 意味", "アンカラ 首都", "トルコ 首都", "ankara とは"],
+    "meanings": [
+      { "hinshi": "【固有名詞】アンカラ", "note": "トルコの首都。アナトリア中央部にある。※見出しは小文字で登録、実際は Ankara と大文字" },
+      { "hinshi": "【補足】政治の中心", "note": "1923年にトルコ共和国の首都となった。最大都市はイスタンブール" }
+    ],
+    "usages": [
+      { "title": "① 首都として", "desc": "トルコの中心都市", "example_en": "Ankara is the capital of Turkey.", "example_ja": "アンカラはトルコの首都だ。" },
+      { "title": "② 政治の文脈で", "desc": "政府を指すことも", "example_en": "Ankara issued an official statement.", "example_ja": "アンカラ（トルコ政府）は公式声明を出した。" }
+    ],
+    "warn": ["Ankara は固有名詞（地名）なので文中では大文字で始めます", "トルコ最大の都市はイスタンブールだが、首都はアンカラ"],
+    "etym_note": "古代の名 Ancyra（ギリシャ語で「いかり」）に由来するとされる。長い歴史を持つアナトリアの都市。",
+    "etym_chain": [
+      { "node": "Ancyra", "sub": "いかり(ギリシャ語)", "era": "古代" },
+      { "node": "Ankara", "sub": "トルコの首都", "era": "現代" }
+    ],
+    "phrases": [
+      { "en": "the city of Ankara", "ja": "アンカラ市" },
+      { "en": "in Ankara", "ja": "アンカラで" },
+      { "en": "Ankara, the capital", "ja": "首都アンカラ" },
+      { "en": "travel to Ankara", "ja": "アンカラへ旅行する" },
+      { "en": "the government in Ankara", "ja": "アンカラの政府" },
+      { "en": "central Ankara", "ja": "アンカラ中心部" }
+    ],
+    "related": [
+      { "en": "turkey", "ja": "トルコ" },
+      { "en": "istanbul", "ja": "イスタンブール" },
+      { "en": "capital", "ja": "首都" },
+      { "en": "city", "ja": "都市" }
+    ],
+    "faq": [
+      { "q": "トルコの首都は Ankara？ Istanbul？", "a": "首都は Ankara（アンカラ）です。Istanbul（イスタンブール）は最大の都市ですが、首都ではありません。" },
+      { "q": "Ankara はどこにある？", "a": "トルコのほぼ中央、アナトリア地方の内陸部にあります。1923年にトルコ共和国の首都となりました。" }
+    ],
+    "quiz": [
+      { "q": "Ankara はどこの国の首都？", "A": "トルコ", "B": "ギリシャ", "C": "エジプト", "D": "イラン", "correct": "A" },
+      { "q": "トルコの最大都市（首都ではない）は？", "A": "イスタンブール", "B": "アンカラ", "C": "イズミル", "D": "ブルサ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "anode",
+    "pron": "ˈænoʊd",
+    "kana": "アノード",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 anodos（上り道）から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "化学・物理"],
+    "meaning_main": "陽極 / アノード",
+    "description": "anode（アノード）は「陽極」を表す化学・物理の名詞。電池や電気分解で、電流が流れ込む側（＋極側）の電極を指します。反対は陰極（cathode）です。",
+    "keywords": ["anode 意味", "陽極 英語", "アノード とは", "cathode 反対"],
+    "meanings": [
+      { "hinshi": "【名詞】陽極、アノード", "note": "可算名詞。電流が流れ込む電極。電気分解では＋極、電池では放電時の−極側" }
+    ],
+    "usages": [
+      { "title": "① 電極として", "desc": "陽極", "example_en": "In electrolysis, oxidation happens at the anode.", "example_ja": "電気分解では、酸化は陽極で起こる。" },
+      { "title": "② 電池の説明で", "desc": "電極の一つ", "example_en": "The anode and cathode are the two electrodes.", "example_ja": "陽極と陰極が2つの電極だ。" }
+    ],
+    "warn": ["反対語は cathode（陰極）", "「＋か−か」は装置（電池か電気分解か）で変わるが、酸化が起こる側が anode"],
+    "etym_note": "ギリシャ語 anodos（ana「上へ」+ hodos「道」＝上り道）に由来。電流が入ってくる「上り口」のイメージから、物理学者ファラデーが命名した。",
+    "etym_chain": [
+      { "node": "anodos", "sub": "上り道(ギリシャ語)", "era": "ギリシャ語" },
+      { "node": "anode", "sub": "陽極", "era": "1834年" }
+    ],
+    "phrases": [
+      { "en": "the anode", "ja": "陽極" },
+      { "en": "anode and cathode", "ja": "陽極と陰極" },
+      { "en": "at the anode", "ja": "陽極で" },
+      { "en": "a positive anode", "ja": "正の陽極" },
+      { "en": "anode material", "ja": "陽極の材料" },
+      { "en": "oxidation at the anode", "ja": "陽極での酸化" }
+    ],
+    "related": [
+      { "en": "cathode", "ja": "陰極" },
+      { "en": "electrode", "ja": "電極" },
+      { "en": "battery", "ja": "電池" },
+      { "en": "electrolysis", "ja": "電気分解" }
+    ],
+    "faq": [
+      { "q": "anode と cathode の違いは？", "a": "anode（陽極）は酸化が起こる電極、cathode（陰極）は還元が起こる電極です。電気分解では anode が＋極、電池の放電では anode が−極側になります。" },
+      { "q": "anode は常に＋極？", "a": "いいえ。「酸化が起こる側」が anode です。電気分解では＋極ですが、電池の放電時は−極が anode になります。装置によって符号が変わります。" }
+    ],
+    "quiz": [
+      { "q": "anode の意味は？", "A": "陽極", "B": "陰極", "C": "抵抗", "D": "電圧", "correct": "A" },
+      { "q": "anode の反対語は？", "A": "cathode", "B": "diode", "C": "node", "D": "electrode", "correct": "A" }
+    ]
+  },
+  {
+    "english": "anorak",
+    "pron": "ˈænəræk",
+    "kana": "アノラック",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "イヌイット語 annoraaq から",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "衣類・借用語"],
+    "meaning_main": "アノラック（フード付きの防寒・防水上着）",
+    "description": "anorak（アノラック）は「フード付きの防寒・防水の上着」を表す語。もとはイヌイットの毛皮製の上着に由来し、風雨や寒さを防ぐアウトドア用のジャケットを指します。",
+    "keywords": ["anorak 意味", "アノラック 英語", "フード上着 英語", "anorak とは"],
+    "meanings": [
+      { "hinshi": "【名詞】アノラック", "note": "可算名詞。フード付きの防寒・防水の上着。かぶって着るタイプが多い" },
+      { "hinshi": "【名詞】(英・俗)オタク", "note": "アノラックを着た地味な趣味人のイメージから、マニアックな人を指す俗語" }
+    ],
+    "usages": [
+      { "title": "① 防寒・防水の上着", "desc": "アウトドア用", "example_en": "She wore an anorak in the rain.", "example_ja": "彼女は雨の中アノラックを着ていた。" },
+      { "title": "② 寒い日の羽織り", "desc": "フード付き上着", "example_en": "Bring an anorak for the cold weather.", "example_ja": "寒い天気に備えてアノラックを持ってきて。" }
+    ],
+    "warn": ["イヌイット（エスキモー）の言葉に由来する借用語", "英国の俗語では「（地味な趣味に没頭する）オタク」の意味もある"],
+    "etym_note": "グリーンランドのイヌイットの言葉 annoraaq（毛皮の上着）に由来する借用語。防寒用のかぶり式の上着を指すようになった。",
+    "etym_chain": [
+      { "node": "annoraaq", "sub": "毛皮の上着(イヌイット語)", "era": "—" },
+      { "node": "anorak", "sub": "フード付き防寒上着", "era": "20世紀" }
+    ],
+    "phrases": [
+      { "en": "wear an anorak", "ja": "アノラックを着る" },
+      { "en": "a waterproof anorak", "ja": "防水のアノラック" },
+      { "en": "a hooded anorak", "ja": "フード付きアノラック" },
+      { "en": "put on an anorak", "ja": "アノラックを羽織る" },
+      { "en": "a warm anorak", "ja": "暖かいアノラック" },
+      { "en": "zip up the anorak", "ja": "アノラックのファスナーを閉める" }
+    ],
+    "related": [
+      { "en": "parka", "ja": "パーカ・フード付き防寒着" },
+      { "en": "jacket", "ja": "上着" },
+      { "en": "windcheater", "ja": "ウインドブレーカー" },
+      { "en": "raincoat", "ja": "レインコート" }
+    ],
+    "faq": [
+      { "q": "anorak と parka の違いは？", "a": "どちらもフード付きの防寒着ですが、anorak は「かぶって着る（前が開かない）タイプ」が本来の意味、parka は「前開きの丈の長い防寒コート」を指すことが多いです（現在は区別があいまいです）。" },
+      { "q": "anorak の俗語の意味は？", "a": "英国の俗語で「（電車・切手など地味な趣味に熱中する）オタク・マニア」を指すことがあります。アノラックを着た地味な趣味人のイメージから来ています。" }
+    ],
+    "quiz": [
+      { "q": "anorak とは？", "A": "フード付きの防寒・防水の上着", "B": "夏用の帽子", "C": "革靴", "D": "手袋", "correct": "A" },
+      { "q": "anorak の語源は？", "A": "イヌイット語 annoraaq", "B": "ラテン語", "C": "日本語", "D": "フランス語", "correct": "A" }
+    ]
+  },
+  {
+    "english": "anti-",
+    "pron": "ˈænti",
+    "kana": "アンチ",
+    "hinshi": "接頭辞",
+    "ld_pos": "接頭辞",
+    "ld_etym": "ギリシャ語 anti（反対の・対抗する）から",
+    "ld_level": "—",
+    "badges": ["学習者向け", "接頭辞", "語源", "つづりの部品"],
+    "meaning_main": "反〜 / 〜に反対の / 〜を防ぐ（を表す接頭辞）",
+    "description": "anti-（アンチ）は「反〜・〜に反対の・〜を防ぐ」を表す接頭辞。ギリシャ語 anti（反対）に由来し、antibiotic（抗生物質）や anti-war（反戦の）などの語を作ります。※単独の単語ではなく語の部品です。",
+    "keywords": ["anti- 意味", "接頭辞 anti", "反対 接頭辞", "anti 使い方"],
+    "meanings": [
+      { "hinshi": "【接頭辞】反〜、〜に反対の", "note": "何かに反対・対抗する意味を加える。※語頭に付く部品" },
+      { "hinshi": "【接頭辞】〜を防ぐ、抗〜", "note": "作用を打ち消す・防ぐ意味。antibacterial（抗菌の）など" }
+    ],
+    "usages": [
+      { "title": "① 反対を表す", "desc": "〜に反対する", "example_en": "They joined an anti-war protest.", "example_ja": "彼らは反戦の抗議に加わった。" },
+      { "title": "② 防ぐ・打ち消す", "desc": "作用を防ぐ", "example_en": "Antibiotics fight bacterial infections.", "example_ja": "抗生物質は細菌感染と闘う。" }
+    ],
+    "warn": ["anti- は接頭辞（語の部品）で、それ単独では単語になりません（口語で「アンチ＝反対する人」と名詞的に使うことはある）", "反対の接頭辞は pro-（賛成・支持）"],
+    "etym_note": "ギリシャ語 anti（反対の・向かい合う）に由来する結合形。反対・対抗・防止に関わる多くの語を作る。",
+    "etym_chain": [
+      { "node": "anti", "sub": "反対の(ギリシャ語)", "era": "ギリシャ語" },
+      { "node": "anti-", "sub": "反〜・〜を防ぐ", "era": "英語の接頭辞" }
+    ],
+    "phrases": [
+      { "en": "antibiotic", "ja": "抗生物質" },
+      { "en": "anti-war", "ja": "反戦の" },
+      { "en": "antivirus", "ja": "ウイルス対策の" },
+      { "en": "antisocial", "ja": "反社会的な" },
+      { "en": "antifreeze", "ja": "不凍液" },
+      { "en": "antibody", "ja": "抗体" }
+    ],
+    "related": [
+      { "en": "pro-", "ja": "賛成・支持を表す接頭辞" },
+      { "en": "counter-", "ja": "対抗を表す接頭辞" },
+      { "en": "non-", "ja": "非〜を表す接頭辞" },
+      { "en": "de-", "ja": "除去・逆を表す接頭辞" }
+    ],
+    "faq": [
+      { "q": "anti- と pro- の違いは？", "a": "anti- は「反対・対抗（反〜）」、pro- は「賛成・支持（〜派の）」を表します。anti-war（反戦の）↔ pro-war（主戦の）のように対比されます。" },
+      { "q": "anti- で始まる代表的な語は？", "a": "antibiotic（抗生物質）、antivirus（ウイルス対策の）、anti-war（反戦の）、antisocial（反社会的な）、antibody（抗体）などがあります。" }
+    ],
+    "quiz": [
+      { "q": "接頭辞 anti- の意味は？", "A": "反〜・〜に反対の・〜を防ぐ", "B": "賛成の", "C": "再びの", "D": "前の", "correct": "A" },
+      { "q": "anti- と反対の意味の接頭辞は？", "A": "pro-", "B": "non-", "C": "de-", "D": "re-", "correct": "A" }
+    ]
+  },
+  {
+    "english": "apocalypse",
+    "pron": "əˈpɒkəlɪps",
+    "kana": "アポカリプス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 apokalypsis（覆いを取ること・啓示）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "宗教・一般"],
+    "meaning_main": "世界の終末 / 黙示録 / 大惨事",
+    "description": "apocalypse（アポカリプス）は「世界の終末・黙示録」を表す名詞。この世の終わりや、それに匹敵する大規模な破壊・大惨事を指します。もとは聖書の「ヨハネの黙示録」に由来します。",
+    "keywords": ["apocalypse 意味", "終末 英語", "黙示録 英語", "apocalypse とは"],
+    "meanings": [
+      { "hinshi": "【名詞】世界の終末、大惨事", "note": "可算・不可算。この世の終わり、または壊滅的な大災害" },
+      { "hinshi": "【名詞】黙示録", "note": "the Apocalypse で聖書の「ヨハネの黙示録」" }
+    ],
+    "usages": [
+      { "title": "① 世界の終末", "desc": "終末的な破滅", "example_en": "The movie is about a zombie apocalypse.", "example_ja": "その映画はゾンビによる世界の終末を描いている。" },
+      { "title": "② 大惨事の比喩", "desc": "壊滅的な事態", "example_en": "The flood was described as an environmental apocalypse.", "example_ja": "その洪水は環境の大惨事と表現された。" }
+    ],
+    "warn": ["形容詞は apocalyptic（終末的な・黙示録的な）", "もとは「覆いを取る＝啓示」の意味で、聖書の黙示録から終末の意味に"],
+    "etym_note": "ギリシャ語 apokalypsis（apo-「離す」+ kalyptein「覆う」＝覆いを取ること＝啓示）に由来。聖書の「ヨハネの黙示録」が世界の終末を描くことから、「終末」の意味になった。",
+    "etym_chain": [
+      { "node": "apokalypsis", "sub": "覆いを取ること・啓示(ギリシャ語)", "era": "ギリシャ語" },
+      { "node": "Apocalypse", "sub": "黙示録", "era": "中英語" },
+      { "node": "apocalypse", "sub": "世界の終末", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "the zombie apocalypse", "ja": "ゾンビによる終末" },
+      { "en": "a nuclear apocalypse", "ja": "核による終末" },
+      { "en": "environmental apocalypse", "ja": "環境の大惨事" },
+      { "en": "survive the apocalypse", "ja": "終末を生き延びる" },
+      { "en": "post-apocalypse", "ja": "終末後の" },
+      { "en": "an impending apocalypse", "ja": "迫りくる終末" }
+    ],
+    "related": [
+      { "en": "apocalyptic", "ja": "終末的な" },
+      { "en": "doomsday", "ja": "最後の審判の日・終末" },
+      { "en": "catastrophe", "ja": "大惨事" },
+      { "en": "armageddon", "ja": "ハルマゲドン・最終決戦" }
+    ],
+    "faq": [
+      { "q": "apocalypse の形容詞形は？", "a": "apocalyptic（終末的な・黙示録的な・破滅的な）です。an apocalyptic vision（終末的な光景）のように使います。" },
+      { "q": "apocalypse の語源は？", "a": "ギリシャ語 apokalypsis（覆いを取ること＝啓示）です。聖書の『ヨハネの黙示録』が世界の終末を描くことから、「終末・大惨事」の意味になりました。" }
+    ],
+    "quiz": [
+      { "q": "apocalypse の意味は？", "A": "世界の終末・大惨事", "B": "新しい始まり", "C": "平和な時代", "D": "祝祭", "correct": "A" },
+      { "q": "apocalypse の形容詞形は？", "A": "apocalyptic", "B": "apologetic", "C": "apostolic", "D": "apoplectic", "correct": "A" }
+    ]
+  },
+  {
+    "english": "appalled",
+    "pron": "əˈpɔːld",
+    "kana": "アポールド",
+    "hinshi": "形容詞 / 動詞(appall の過去・過去分詞)",
+    "ld_pos": "形容詞・動詞",
+    "ld_etym": "appall（ぞっとさせる）+ -ed",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "頻出"],
+    "meaning_main": "ぞっとした / 憤慨した / 愕然とした",
+    "description": "appalled（アポールド）は「ぞっとした・憤慨した」を表す語。ひどいことや衝撃的なことに強い嫌悪・ショックを感じている状態を表します。",
+    "keywords": ["appalled 意味", "ぞっとする 英語", "憤慨 英語", "appall 過去形"],
+    "meanings": [
+      { "hinshi": "【形容詞】ぞっとした、憤慨した、愕然とした", "note": "ひどいことに強い衝撃・嫌悪を感じたさま" },
+      { "hinshi": "【動詞】appall（ぞっとさせる）の過去・過去分詞", "note": "「ぞっとさせた」" }
+    ],
+    "usages": [
+      { "title": "① ぞっとする", "desc": "強い衝撃", "example_en": "I was appalled by the cruelty.", "example_ja": "私はその残酷さにぞっとした。" },
+      { "title": "② 憤慨する", "desc": "強い嫌悪", "example_en": "She was appalled at his rudeness.", "example_ja": "彼女は彼の無礼さに憤慨した。" }
+    ],
+    "warn": ["be appalled by / at ... の形。動詞 appall（米）/ appal（英）", "形容詞 appalling は「ぞっとするような・ひどい」"],
+    "etym_note": "古フランス語 apalir（青ざめさせる）に由来する appall（ぞっとさせる）の過去分詞・形容詞形。「（恐怖で）青ざめる」イメージから。",
+    "etym_chain": [
+      { "node": "apalir", "sub": "青ざめさせる(古仏語)", "era": "古フランス語" },
+      { "node": "appall", "sub": "ぞっとさせる", "era": "14世紀" },
+      { "node": "appalled", "sub": "ぞっとした", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "be appalled by", "ja": "〜にぞっとする" },
+      { "en": "appalled at the news", "ja": "その知らせに愕然として" },
+      { "en": "utterly appalled", "ja": "まったくぞっとした" },
+      { "en": "appalled by the conditions", "ja": "その状況にぞっとして" },
+      { "en": "look appalled", "ja": "愕然とした顔をする" },
+      { "en": "deeply appalled", "ja": "深く憤慨した" }
+    ],
+    "related": [
+      { "en": "appall", "ja": "ぞっとさせる" },
+      { "en": "appalling", "ja": "ぞっとするような" },
+      { "en": "horrified", "ja": "ぞっとした" },
+      { "en": "shocked", "ja": "衝撃を受けた" }
+    ],
+    "faq": [
+      { "q": "appalled と shocked の違いは？", "a": "shocked は「（衝撃で）驚いた」全般、appalled は「（ひどさに）強い嫌悪・憤慨を伴ってぞっとした」に重点があります。" },
+      { "q": "appalled と appalling の違いは？", "a": "appalled は人が「ぞっとした・憤慨した」（-ed）、appalling は物事が「ぞっとさせるような・ひどい」（-ing）です。" }
+    ],
+    "quiz": [
+      { "q": "appalled の意味は？", "A": "ぞっとした・憤慨した", "B": "大喜びした", "C": "退屈した", "D": "満足した", "correct": "A" },
+      { "q": "「〜にぞっとする」の形は？", "A": "be appalled by/at", "B": "be appalled of", "C": "be appalled for", "D": "be appalled to", "correct": "A" }
+    ]
+  },
+  {
+    "english": "appeared",
+    "pron": "əˈpɪərd",
+    "kana": "アピアード",
+    "hinshi": "動詞(appear の過去・過去分詞)",
+    "ld_pos": "動詞",
+    "ld_etym": "appear（現れる）+ -ed",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "頻出"],
+    "meaning_main": "現れた / 姿を見せた / 〜のように見えた",
+    "description": "appeared（アピアード）は appear（現れる）の過去・過去分詞。「現れた・姿を見せた」を表し、また「〜のように見えた・思われた」の意味でも使います。",
+    "keywords": ["appeared 意味", "appear 過去形", "現れた 英語", "〜に見えた 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】現れた、姿を見せた", "note": "appear の過去・過去分詞。見えるようになった" },
+      { "hinshi": "【動詞】〜のように見えた、思われた", "note": "appear (to be) ... で「〜のようだった」" }
+    ],
+    "usages": [
+      { "title": "① 姿を現す", "desc": "現れた", "example_en": "A rainbow appeared in the sky.", "example_ja": "空に虹が現れた。" },
+      { "title": "② 〜のように見えた", "desc": "思われた", "example_en": "He appeared to be tired.", "example_ja": "彼は疲れているように見えた。" }
+    ],
+    "warn": ["反対（消える）は disappeared。appear to be ... で「〜のようだ」の定番", "「（テレビ・裁判などに）出演・出頭する」の意味もある"],
+    "etym_note": "ラテン語 apparere（ad-「〜へ」+ parere「見える」＝現れる）に由来する appear の過去・過去分詞形。",
+    "etym_chain": [
+      { "node": "apparere", "sub": "現れる(ラテン語)", "era": "ラテン語" },
+      { "node": "appear", "sub": "現れる", "era": "13世紀" },
+      { "node": "appeared", "sub": "現れた", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "appeared suddenly", "ja": "突然現れた" },
+      { "en": "appeared to be", "ja": "〜のように見えた" },
+      { "en": "appeared out of nowhere", "ja": "どこからともなく現れた" },
+      { "en": "appeared on TV", "ja": "テレビに出演した" },
+      { "en": "appeared in court", "ja": "法廷に出頭した" },
+      { "en": "first appeared", "ja": "初めて登場した" }
+    ],
+    "related": [
+      { "en": "appear", "ja": "現れる" },
+      { "en": "appearance", "ja": "出現・外見" },
+      { "en": "disappeared", "ja": "消えた" },
+      { "en": "emerged", "ja": "現れた" }
+    ],
+    "faq": [
+      { "q": "appeared to be の意味は？", "a": "「〜のように見えた・〜のようだった」という意味です。She appeared to be happy.（彼女は幸せそうに見えた）のように、確信のない推測を表します。" },
+      { "q": "appeared の反対語は？", "a": "disappeared（消えた・見えなくなった）です。appear が現れる、disappear が消えることを表します。" }
+    ],
+    "quiz": [
+      { "q": "appeared の意味は？", "A": "現れた・〜のように見えた", "B": "消えた", "C": "こわれた", "D": "眠った", "correct": "A" },
+      { "q": "appeared の反対語は？", "A": "disappeared", "B": "prepared", "C": "repaired", "D": "compared", "correct": "A" }
+    ]
+  },
+  {
+    "english": "appeasing",
+    "pron": "əˈpiːzɪŋ",
+    "kana": "アピージング",
+    "hinshi": "形容詞 / 動詞(appease の現在分詞)",
+    "ld_pos": "形容詞・動詞",
+    "ld_etym": "appease（なだめる）+ -ing",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文章表現"],
+    "meaning_main": "なだめる / 機嫌をとる / 譲歩してなだめる",
+    "description": "appeasing（アピージング）は appease（なだめる）の現在分詞。「なだめる・機嫌をとる」を表し、怒った相手を落ち着かせたり、要求に譲歩して静めたりすることを表します。",
+    "keywords": ["appeasing 意味", "なだめる 英語", "appease 現在分詞", "機嫌をとる 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】appease（なだめる・和らげる）の現在分詞・動名詞", "note": "「なだめている」「機嫌をとること」" },
+      { "hinshi": "【形容詞】なだめるような、機嫌をとる", "note": "相手を落ち着かせようとするさま" }
+    ],
+    "usages": [
+      { "title": "① 相手をなだめる", "desc": "怒りを静める", "example_en": "She spoke in an appeasing tone.", "example_ja": "彼女はなだめるような口調で話した。" },
+      { "title": "② 譲歩して静める", "desc": "要求に応じる", "example_en": "Appeasing the critics did not work.", "example_ja": "批判者たちの機嫌をとっても効果はなかった。" }
+    ],
+    "warn": ["名詞は appeasement（なだめ・宥和）。政治では「宥和政策」を指すことも", "動詞 appease は「（空腹・のどの渇きを）満たす」の意味もある"],
+    "etym_note": "古フランス語 apaisier（a-「〜へ」+ pais「平和」＝平和にする）に由来する appease の -ing 形。「平和に・穏やかにする」の意。",
+    "etym_chain": [
+      { "node": "apaisier", "sub": "平和にする(古仏語)", "era": "古フランス語" },
+      { "node": "appease", "sub": "なだめる", "era": "14世紀" },
+      { "node": "appeasing", "sub": "なだめる", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "an appeasing tone", "ja": "なだめるような口調" },
+      { "en": "appeasing gesture", "ja": "機嫌をとる仕草" },
+      { "en": "appeasing a crowd", "ja": "群衆をなだめること" },
+      { "en": "appeasing smile", "ja": "なだめるような笑顔" },
+      { "en": "appeasing the enemy", "ja": "敵に譲歩して静めること" },
+      { "en": "in an appeasing way", "ja": "なだめるように" }
+    ],
+    "related": [
+      { "en": "appease", "ja": "なだめる" },
+      { "en": "appeasement", "ja": "なだめ・宥和" },
+      { "en": "pacify", "ja": "静める" },
+      { "en": "provoke", "ja": "挑発する" }
+    ],
+    "faq": [
+      { "q": "appeasing と pacifying の違いは？", "a": "どちらも「なだめる」ですが、appeasing は「（要求に譲歩して）機嫌をとり静める」ニュアンス、pacifying は「（騒ぎ・興奮を）静める」に重点があります。" },
+      { "q": "appeasement の政治的な意味は？", "a": "「宥和（ゆうわ）政策」を指すことがあります。相手（特に敵対国）の要求に譲歩して衝突を避けようとする政策です。" }
+    ],
+    "quiz": [
+      { "q": "appeasing の意味は？", "A": "なだめる・機嫌をとる", "B": "挑発する", "C": "無視する", "D": "命令する", "correct": "A" },
+      { "q": "appeasing の名詞形は？", "A": "appeasement", "B": "appearance", "C": "appliance", "D": "appraisal", "correct": "A" }
+    ]
+  },
+  {
+    "english": "appropriation",
+    "pron": "əˌproʊpriˈeɪʃən",
+    "kana": "アプロプリエーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 appropriare（自分のものにする）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "法律・文化"],
+    "meaning_main": "充当 / (予算の)割り当て / 私物化・盗用",
+    "description": "appropriation（アプロプリエーション）は「充当・（予算の）割り当て」を表す名詞。ある目的にお金や資源を割り当てることや、（許可なく）他人のものを自分のものにする「私物化・盗用」を指します。",
+    "keywords": ["appropriation 意味", "充当 英語", "予算 割り当て 英語", "文化盗用 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】充当、(予算の)割り当て", "note": "特定の目的に資金・資源を充てること" },
+      { "hinshi": "【名詞】私物化、盗用", "note": "許可なく他人のもの・文化を自分のものにすること" }
+    ],
+    "usages": [
+      { "title": "① 予算の割り当て", "desc": "資金を充てる", "example_en": "Congress approved the appropriation of funds.", "example_ja": "議会は資金の充当を承認した。" },
+      { "title": "② 文化の盗用", "desc": "無断で取り込む", "example_en": "The design was criticized as cultural appropriation.", "example_ja": "そのデザインは文化の盗用だと批判された。" }
+    ],
+    "warn": ["cultural appropriation は「文化の盗用」。不正な流用は misappropriation（横領）", "動詞は appropriate（充当する・私物化する）"],
+    "etym_note": "ラテン語 appropriare（ad-「〜へ」+ proprius「自分の」＝自分のものにする）に由来する語。「（あるものを）自分・特定の目的に充てること」の意。",
+    "etym_chain": [
+      { "node": "appropriare", "sub": "自分のものにする(ラテン語)", "era": "ラテン語" },
+      { "node": "appropriation", "sub": "充当・私物化", "era": "15世紀" }
+    ],
+    "phrases": [
+      { "en": "appropriation of funds", "ja": "資金の充当" },
+      { "en": "cultural appropriation", "ja": "文化の盗用" },
+      { "en": "budget appropriation", "ja": "予算の割り当て" },
+      { "en": "government appropriation", "ja": "政府の予算充当" },
+      { "en": "land appropriation", "ja": "土地の収用" },
+      { "en": "an appropriation bill", "ja": "歳出予算案" }
+    ],
+    "related": [
+      { "en": "appropriate", "ja": "充当する・私物化する" },
+      { "en": "misappropriation", "ja": "着服・横領" },
+      { "en": "allocation", "ja": "割り当て" },
+      { "en": "funds", "ja": "資金" }
+    ],
+    "faq": [
+      { "q": "appropriation と misappropriation の違いは？", "a": "appropriation は「（正当に）特定の目的に充てること」または「私物化」、misappropriation は「（不正に）着服・横領すること」です。mis- が付くと不正の意味になります。" },
+      { "q": "cultural appropriation とは？", "a": "「文化の盗用」のことです。ある文化の要素（服装・慣習など）を、その背景を尊重せずに、別の（多くは優位な立場の）人々が無断で取り入れることを批判的に指します。" }
+    ],
+    "quiz": [
+      { "q": "appropriation の意味は？", "A": "充当・割り当て／私物化・盗用", "B": "返却", "C": "破壊", "D": "拒否", "correct": "A" },
+      { "q": "cultural appropriation の意味は？", "A": "文化の盗用", "B": "文化交流", "C": "文化財保護", "D": "文化祭", "correct": "A" }
+    ]
+  }
+]
