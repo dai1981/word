@@ -1,0 +1,996 @@
+[
+{
+  "english": "stuffy",
+  "pron": "ˈstʌfi",
+  "kana": "スタッフィー",
+  "hinshi": "形容詞",
+  "ld_pos": "形容詞",
+  "ld_etym": "stuff(詰める)+-y(〜の状態の)",
+  "ld_level": "2級",
+  "badges": ["中学生〜", "英検2級", "CEFR B1", "形容詞"],
+  "meaning_main": "(空気が)むっとする/風通しの悪い/堅苦しい/鼻づまりの",
+  "description": "stuffy（スタッフィー）は「(空気が)むっとする・風通しの悪い」「堅苦しい」「鼻づまりの」。換気の悪い部屋や融通のきかない人に使う。意味・使い方・例文・関連語を解説。",
+  "keywords": ["stuffy 意味", "stuffy 使い方", "stuffy nose", "stuffy 例文"],
+  "meanings": [
+    { "hinshi": "【形容詞】(空気が)むっとする・風通しの悪い", "note": "換気が悪く、こもって息苦しい状態" },
+    { "hinshi": "【形容詞】堅苦しい・古くさい", "note": "格式ばって融通のきかない人・雰囲気" },
+    { "hinshi": "【形容詞】鼻づまりの", "note": "a stuffy nose（鼻がつまった状態）" }
+  ],
+  "usages": [
+    { "title": "① a stuffy room（風通しの悪い部屋）", "desc": "空気がこもった部屋", "example_en": "The room was hot and stuffy.", "example_ja": "その部屋は暑くてむっとしていた。" },
+    { "title": "② a stuffy nose（鼻づまり）", "desc": "鼻がつまった状態", "example_en": "I have a stuffy nose because of my cold.", "example_ja": "風邪で鼻がつまっている。" }
+  ],
+  "warn": ["換気して空気が入れ替わった状態は airy（風通しのよい）が反対", "『堅苦しい人』の意味では否定的（a stuffy old professor）"],
+  "etym_note": "stuff（詰める）＋-y（『〜の状態の』を作る接尾辞）。「詰まってこもった」から空気・鼻づまり・堅苦しさへ広がった。",
+  "etym_chain": [
+    { "node": "stuff", "sub": "詰める", "era": "中英語" },
+    { "node": "stuffy", "sub": "詰まった・こもった", "era": "近代英語" },
+    { "node": "stuffy", "sub": "風通しの悪い・鼻づまりの", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "a stuffy room", "ja": "風通しの悪い部屋" },
+    { "en": "a stuffy nose", "ja": "鼻づまり" },
+    { "en": "hot and stuffy", "ja": "暑くてむっとした" },
+    { "en": "a stuffy atmosphere", "ja": "堅苦しい雰囲気" },
+    { "en": "feel stuffy", "ja": "息苦しく感じる" },
+    { "en": "a stuffy old man", "ja": "堅苦しい老人" }
+  ],
+  "related": [
+    { "en": "airy", "ja": "風通しのよい" },
+    { "en": "stiff", "ja": "堅苦しい・こわばった" },
+    { "en": "congested", "ja": "(鼻が)つまった・混雑した" },
+    { "en": "musty", "ja": "かびくさい" }
+  ],
+  "faq": [
+    { "q": "stuffy の反対は？", "a": "空気の意味では airy（風通しのよい）や fresh（新鮮な）です。a stuffy room（むっとした部屋）⇔ an airy room（風通しのよい部屋）のように使います。" },
+    { "q": "a stuffy nose とは？", "a": "『鼻づまり』のことです。風邪などで鼻がつまって息がしにくい状態を指します。反対に鼻水が出る状態は a runny nose です。" }
+  ],
+  "quiz": [
+    { "q": "a stuffy room の意味は？", "A": "風通しの悪い部屋", "B": "広い部屋", "C": "明るい部屋", "D": "きれいな部屋", "correct": "A" },
+    { "q": "a stuffy nose の意味は？", "A": "鼻づまり", "B": "鼻血", "C": "高い鼻", "D": "小さな鼻", "correct": "A" }
+  ]
+},
+{
+  "english": "stylishly",
+  "pron": "ˈstaɪlɪʃli",
+  "kana": "スタイリッシュリー",
+  "hinshi": "副詞",
+  "ld_pos": "副詞",
+  "ld_etym": "stylish(おしゃれな)+-ly(副詞化)",
+  "ld_level": "2級",
+  "badges": ["高校生〜", "英検2級", "CEFR B2", "副詞"],
+  "meaning_main": "おしゃれに/しゃれた感じで/粋に",
+  "description": "stylishly（スタイリッシュリー）は「おしゃれに・しゃれた感じで・粋に」。センスよく洗練された様子を表す副詞。stylish(おしゃれな)の副詞形。意味・使い方・例文を解説。",
+  "keywords": ["stylishly 意味", "stylish 副詞", "おしゃれに 英語", "stylishly 例文"],
+  "meanings": [
+    { "hinshi": "【副詞】おしゃれに・粋に", "note": "センスよく洗練された、しゃれた様子で" }
+  ],
+  "usages": [
+    { "title": "① stylishly dressed（おしゃれに着こなして）", "desc": "洗練された服装", "example_en": "She was stylishly dressed for the party.", "example_ja": "彼女はパーティーのためにおしゃれに着こなしていた。" },
+    { "title": "② decorated stylishly（しゃれた感じに飾られて）", "desc": "洗練された装飾", "example_en": "The café is stylishly decorated.", "example_ja": "そのカフェはしゃれた感じに飾られている。" }
+  ],
+  "warn": ["形容詞は stylish（おしゃれな・粋な）、名詞は style（様式・スタイル）", "類語 fashionably（流行に合わせて）、elegantly（優雅に）"],
+  "etym_note": "stylish（style「様式・流行」＋-ish）＋-ly（副詞化）。「様式・流行にかなって＝おしゃれに」。",
+  "etym_chain": [
+    { "node": "stylus", "sub": "書く道具(ラテン語)", "era": "ラテン語" },
+    { "node": "style", "sub": "様式・スタイル", "era": "中英語" },
+    { "node": "stylishly", "sub": "おしゃれに", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "stylishly dressed", "ja": "おしゃれに着こなして" },
+    { "en": "decorated stylishly", "ja": "しゃれた感じに飾られて" },
+    { "en": "stylishly designed", "ja": "しゃれたデザインで" },
+    { "en": "dress stylishly", "ja": "おしゃれに装う" },
+    { "en": "stylishly furnished", "ja": "しゃれた家具でそろえて" },
+    { "en": "win stylishly", "ja": "鮮やかに勝つ" }
+  ],
+  "related": [
+    { "en": "stylish", "ja": "おしゃれな・粋な" },
+    { "en": "style", "ja": "様式・スタイル" },
+    { "en": "fashionably", "ja": "流行に合わせて" },
+    { "en": "elegantly", "ja": "優雅に" }
+  ],
+  "faq": [
+    { "q": "stylishly の形容詞・名詞は？", "a": "形容詞は stylish（おしゃれな・粋な）、名詞は style（様式・スタイル）です。stylishly はその副詞形です。" },
+    { "q": "fashionably との違いは？", "a": "stylishly は『センスよく洗練された感じで』、fashionably は『流行に合わせて』という違いがあります。stylish は流行に左右されない個人の洗練さも含みます。" }
+  ],
+  "quiz": [
+    { "q": "stylishly の意味は？", "A": "おしゃれに・粋に", "B": "だらしなく", "C": "急いで", "D": "地味に", "correct": "A" },
+    { "q": "stylishly の形容詞は？", "A": "stylish", "B": "still", "C": "steady", "D": "sturdy", "correct": "A" }
+  ]
+},
+{
+  "english": "stylist",
+  "pron": "ˈstaɪlɪst",
+  "kana": "スタイリスト",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "style(様式)+-ist(専門家)",
+  "ld_level": "2級",
+  "badges": ["中学生〜", "英検2級", "CEFR B1", "可算名詞"],
+  "meaning_main": "スタイリスト/美容師/(服装・髪の)コーディネーター",
+  "description": "stylist（スタイリスト）は「スタイリスト・美容師」。髪型や服装をととのえ演出する専門家。文章の名手の意味もある。意味・使い方・例文・関連語を解説。",
+  "keywords": ["stylist 意味", "stylist スタイリスト", "hair stylist", "stylist 例文"],
+  "meanings": [
+    { "hinshi": "【名詞】スタイリスト", "note": "服装・髪型・見た目をととのえ演出する専門家。可算名詞" },
+    { "hinshi": "【名詞】美容師", "note": "髪を切りととのえる人（hair stylist）" },
+    { "hinshi": "【名詞】文章の名手", "note": "洗練された文体を持つ書き手" }
+  ],
+  "usages": [
+    { "title": "① a hair stylist（ヘアスタイリスト・美容師）", "desc": "髪をととのえる人", "example_en": "My hair stylist gave me a new look.", "example_ja": "私の美容師は新しい髪型にしてくれた。" },
+    { "title": "② a fashion stylist（ファッションスタイリスト）", "desc": "服装を演出する人", "example_en": "The fashion stylist chose her outfits.", "example_ja": "そのファッションスタイリストが彼女の衣装を選んだ。" }
+  ],
+  "warn": ["-ist は『〜の専門家・〜する人』を作る接尾辞（style を扱う人）", "文脈で『美容師』『(服装の)スタイリスト』『文体の名手』のどれかになる"],
+  "etym_note": "style（様式・スタイル）＋-ist（専門家・行為者を表す接尾辞）。「スタイルを扱う専門家」。",
+  "etym_chain": [
+    { "node": "style", "sub": "様式・スタイル", "era": "中英語" },
+    { "node": "stylist", "sub": "文体の名手", "era": "19世紀" },
+    { "node": "stylist", "sub": "スタイリスト・美容師", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "a hair stylist", "ja": "ヘアスタイリスト・美容師" },
+    { "en": "a fashion stylist", "ja": "ファッションスタイリスト" },
+    { "en": "a personal stylist", "ja": "パーソナルスタイリスト" },
+    { "en": "a celebrity stylist", "ja": "有名人担当のスタイリスト" },
+    { "en": "a food stylist", "ja": "フードスタイリスト" },
+    { "en": "work as a stylist", "ja": "スタイリストとして働く" }
+  ],
+  "related": [
+    { "en": "style", "ja": "様式・スタイル" },
+    { "en": "stylish", "ja": "おしゃれな" },
+    { "en": "hairdresser", "ja": "美容師" },
+    { "en": "designer", "ja": "デザイナー" }
+  ],
+  "faq": [
+    { "q": "stylist と hairdresser の違いは？", "a": "hairdresser は主に髪を切り整える『美容師』、stylist は髪だけでなく服装や全体の見た目を演出する『スタイリスト』を指します。美容師の意味では hair stylist とも言います。" },
+    { "q": "文章についての stylist とは？", "a": "『洗練された文体を持つ書き手・文体の名手』の意味もあります。a fine prose stylist（優れた散文の名手）のように使います。" }
+  ],
+  "quiz": [
+    { "q": "stylist の意味は？", "A": "スタイリスト・美容師", "B": "会計士", "C": "運転手", "D": "料理人", "correct": "A" },
+    { "q": "a hair stylist とは？", "A": "ヘアスタイリスト・美容師", "B": "花屋", "C": "写真家", "D": "医者", "correct": "A" }
+  ]
+},
+{
+  "english": "subcutaneous",
+  "pron": "ˌsʌbkjuˈteɪniəs",
+  "kana": "サブキュテイニアス",
+  "hinshi": "形容詞",
+  "ld_pos": "形容詞",
+  "ld_etym": "sub-(下)+cutaneous(皮膚の)",
+  "ld_level": "1級",
+  "badges": ["大学生〜", "英検1級", "CEFR C1", "医学用語"],
+  "meaning_main": "皮下の/皮膚の下の(医学)",
+  "description": "subcutaneous（サブキュテイニアス）は「皮下の・皮膚の下の」。皮下注射(subcutaneous injection)や皮下脂肪などで使う医学用語。意味・使い方・例文・関連語を解説。",
+  "keywords": ["subcutaneous 意味", "subcutaneous 皮下", "subcutaneous injection", "subcutaneous 例文"],
+  "meanings": [
+    { "hinshi": "【形容詞】皮下の・皮膚の下の", "note": "皮膚のすぐ下の層に関する。医学・解剖用語" }
+  ],
+  "usages": [
+    { "title": "① a subcutaneous injection（皮下注射）", "desc": "皮膚の下に打つ注射", "example_en": "Insulin is given by subcutaneous injection.", "example_ja": "インスリンは皮下注射で投与される。" },
+    { "title": "② subcutaneous fat（皮下脂肪）", "desc": "皮膚の下の脂肪", "example_en": "Subcutaneous fat helps keep the body warm.", "example_ja": "皮下脂肪は体を温かく保つのに役立つ。" }
+  ],
+  "warn": ["sub-（下）＋cutaneous（皮膚の。ラテン語 cutis「皮膚」由来）", "注射の種類: subcutaneous（皮下)、intramuscular（筋肉内)、intravenous（静脈内)を区別"],
+  "etym_note": "sub-（下に）＋cutaneous（皮膚の、ラテン語 cutis「皮膚」）。「皮膚の下の」。",
+  "etym_chain": [
+    { "node": "cutis", "sub": "皮膚(ラテン語)", "era": "ラテン語" },
+    { "node": "cutaneous", "sub": "皮膚の", "era": "近代英語" },
+    { "node": "subcutaneous", "sub": "皮下の", "era": "19世紀" }
+  ],
+  "phrases": [
+    { "en": "a subcutaneous injection", "ja": "皮下注射" },
+    { "en": "subcutaneous fat", "ja": "皮下脂肪" },
+    { "en": "subcutaneous tissue", "ja": "皮下組織" },
+    { "en": "the subcutaneous layer", "ja": "皮下層" },
+    { "en": "subcutaneous administration", "ja": "皮下投与" },
+    { "en": "a subcutaneous implant", "ja": "皮下埋め込み" }
+  ],
+  "related": [
+    { "en": "cutaneous", "ja": "皮膚の" },
+    { "en": "intravenous", "ja": "静脈内の" },
+    { "en": "intramuscular", "ja": "筋肉内の" },
+    { "en": "skin", "ja": "皮膚" }
+  ],
+  "faq": [
+    { "q": "subcutaneous injection と intramuscular injection の違いは？", "a": "subcutaneous injection（皮下注射）は皮膚のすぐ下の脂肪層に、intramuscular injection（筋肉注射）はさらに深い筋肉に薬を注入します。吸収の速さや使う薬が異なります。" },
+    { "q": "sub- はどんな意味？", "a": "『下・下位』を表す接頭辞です。subcutaneous（皮下の）、submarine（潜水艦＝海面下）、subway（地下鉄）などがあります。" }
+  ],
+  "quiz": [
+    { "q": "subcutaneous の意味は？", "A": "皮下の・皮膚の下の", "B": "骨の中の", "C": "血管の中の", "D": "脳の中の", "correct": "A" },
+    { "q": "subcutaneous fat とは？", "A": "皮下脂肪", "B": "内臓脂肪", "C": "筋肉", "D": "骨", "correct": "A" }
+  ]
+},
+{
+  "english": "subjectivity",
+  "pron": "ˌsʌbdʒɛkˈtɪvəti",
+  "kana": "サブジェクティビティ",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "subjective(主観的な)+-ity",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "不可算名詞"],
+  "meaning_main": "主観性/主観に基づくこと",
+  "description": "subjectivity（サブジェクティビティ）は「主観性・主観に基づくこと」。個人の感じ方や見方に左右される性質。objectivity(客観性)の対義語。意味・使い方・例文・関連語を解説。",
+  "keywords": ["subjectivity 意味", "subjectivity 主観性", "subjectivity objectivity", "subjectivity 例文"],
+  "meanings": [
+    { "hinshi": "【名詞】主観性", "note": "個人の感じ方・考え方・立場に基づいていること。不可算名詞" }
+  ],
+  "usages": [
+    { "title": "① the subjectivity of judgment（判断の主観性）", "desc": "個人差のある評価", "example_en": "The subjectivity of art criticism is unavoidable.", "example_ja": "芸術批評の主観性は避けられない。" },
+    { "title": "② reduce subjectivity（主観性を減らす）", "desc": "客観的にすること", "example_en": "Clear rules help reduce subjectivity in grading.", "example_ja": "明確な基準は採点の主観性を減らすのに役立つ。" }
+  ],
+  "warn": ["対義語は objectivity（客観性）", "形容詞は subjective（主観的な）⇔ objective（客観的な）"],
+  "etym_note": "subjective（ラテン語 subiectivus「下に置かれた＝主体に属する」）＋-ity（状態）。「主体に属すること＝主観性」。",
+  "etym_chain": [
+    { "node": "subiectivus", "sub": "主体に属する(ラテン語)", "era": "ラテン語" },
+    { "node": "subjective", "sub": "主観的な", "era": "近代英語" },
+    { "node": "subjectivity", "sub": "主観性", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "the subjectivity of judgment", "ja": "判断の主観性" },
+    { "en": "reduce subjectivity", "ja": "主観性を減らす" },
+    { "en": "a degree of subjectivity", "ja": "ある程度の主観性" },
+    { "en": "human subjectivity", "ja": "人間の主観性" },
+    { "en": "avoid subjectivity", "ja": "主観性を避ける" },
+    { "en": "subjectivity in art", "ja": "芸術における主観性" }
+  ],
+  "related": [
+    { "en": "subjective", "ja": "主観的な" },
+    { "en": "objectivity", "ja": "客観性" },
+    { "en": "objective", "ja": "客観的な" },
+    { "en": "bias", "ja": "偏り・先入観" }
+  ],
+  "faq": [
+    { "q": "subjectivity と objectivity の違いは？", "a": "subjectivity（主観性）は個人の感じ方・立場に左右されること、objectivity（客観性）は個人の思いを排し事実に基づくことです。反対の概念です。" },
+    { "q": "形容詞は？", "a": "subjective（主観的な）です。⇔ objective（客観的な）。subjectivity はその名詞形です。" }
+  ],
+  "quiz": [
+    { "q": "subjectivity の意味は？", "A": "主観性", "B": "客観性", "C": "正確性", "D": "透明性", "correct": "A" },
+    { "q": "subjectivity の対義語は？", "A": "objectivity(客観性)", "B": "activity(活動)", "C": "quality(質)", "D": "quantity(量)", "correct": "A" }
+  ]
+},
+{
+  "english": "successively",
+  "pron": "səkˈsɛsɪvli",
+  "kana": "サクセッシブリー",
+  "hinshi": "副詞",
+  "ld_pos": "副詞",
+  "ld_etym": "successive(連続する)+-ly(副詞化)",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "副詞"],
+  "meaning_main": "連続して/次々に/順々に",
+  "description": "successively（サクセッシブリー）は「連続して・次々に・順々に」。物事が続けざまに起こる様子を表す副詞。successive(連続する)の副詞形。意味・使い方・例文を解説。",
+  "keywords": ["successively 意味", "successive 副詞", "連続して 英語", "successively 例文"],
+  "meanings": [
+    { "hinshi": "【副詞】連続して・次々に", "note": "間を置かず、続けざまに・順を追って" }
+  ],
+  "usages": [
+    { "title": "① win successively（連続して勝つ）", "desc": "続けて起こること", "example_en": "The team won three matches successively.", "example_ja": "そのチームは3試合連続で勝った。" },
+    { "title": "② successively larger（次第に大きく）", "desc": "順を追って変化する", "example_en": "The boxes were successively larger in size.", "example_ja": "その箱は順に大きくなっていた。" }
+  ],
+  "warn": ["形容詞は successive（連続する・引き続く）", "success（成功）とは語源が同じだが意味が別。混同しない"],
+  "etym_note": "successive（ラテン語 successus「後に続くこと」＝succedere「後に続く」由来）＋-ly。「続けざまに」。",
+  "etym_chain": [
+    { "node": "succedere", "sub": "後に続く(ラテン語)", "era": "ラテン語" },
+    { "node": "successive", "sub": "連続する", "era": "中英語" },
+    { "node": "successively", "sub": "連続して", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "win successively", "ja": "連続して勝つ" },
+    { "en": "successively larger", "ja": "次第に大きく" },
+    { "en": "three times successively", "ja": "3回連続で" },
+    { "en": "successively numbered", "ja": "順に番号を振られた" },
+    { "en": "occur successively", "ja": "次々に起こる" },
+    { "en": "successively applied", "ja": "順々に適用された" }
+  ],
+  "related": [
+    { "en": "successive", "ja": "連続する" },
+    { "en": "consecutively", "ja": "連続して" },
+    { "en": "in succession", "ja": "続けて" },
+    { "en": "sequentially", "ja": "順を追って" }
+  ],
+  "faq": [
+    { "q": "successively と consecutively の違いは？", "a": "ほぼ同義で『連続して』を表します。どちらも『間を置かず次々に』の意味で使え、three years consecutively / successively（3年連続）のように置き換えられます。" },
+    { "q": "success（成功）と関係ある？", "a": "語源は同じ succedere（後に続く）ですが、意味は別です。successively は『連続して』で、成功（success）とは直接関係ありません。" }
+  ],
+  "quiz": [
+    { "q": "successively の意味は？", "A": "連続して・次々に", "B": "たまに", "C": "同時に", "D": "逆順に", "correct": "A" },
+    { "q": "successively と近い語は？", "A": "consecutively(連続して)", "B": "rarely(まれに)", "C": "randomly(無作為に)", "D": "separately(別々に)", "correct": "A" }
+  ]
+},
+{
+  "english": "suddenness",
+  "pron": "ˈsʌdənnəs",
+  "kana": "サドンネス",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "sudden(突然の)+ness",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "不可算名詞"],
+  "meaning_main": "突然さ/だしぬけであること",
+  "description": "suddenness（サドンネス）は「突然さ・だしぬけであること」。前触れなく急に起こる性質を表す。sudden(突然の)の名詞形。意味・使い方・例文・関連語を解説。",
+  "keywords": ["suddenness 意味", "sudden 名詞", "突然さ 英語", "suddenness 例文"],
+  "meanings": [
+    { "hinshi": "【名詞】突然さ・だしぬけ", "note": "予告なく急に起こること。不可算名詞" }
+  ],
+  "usages": [
+    { "title": "① the suddenness of his death（彼の死の突然さ）", "desc": "予期しない急な出来事", "example_en": "The suddenness of his death shocked everyone.", "example_ja": "彼の死の突然さは皆に衝撃を与えた。" },
+    { "title": "② with startling suddenness（驚くほど突然に）", "desc": "急激さを強調", "example_en": "The storm arrived with startling suddenness.", "example_ja": "嵐は驚くほど突然にやってきた。" }
+  ],
+  "warn": ["形容詞は sudden（突然の）、副詞は suddenly（突然に）", "with + suddenness の形で『突然に』という副詞句としても使う"],
+  "etym_note": "sudden（ラテン語 subitaneus「不意の」由来）＋-ness（状態）。「突然である状態」。",
+  "etym_chain": [
+    { "node": "subitaneus", "sub": "不意の(ラテン語)", "era": "ラテン語" },
+    { "node": "sudden", "sub": "突然の", "era": "中英語" },
+    { "node": "suddenness", "sub": "突然さ", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "the suddenness of his death", "ja": "彼の死の突然さ" },
+    { "en": "with startling suddenness", "ja": "驚くほど突然に" },
+    { "en": "the suddenness of the change", "ja": "変化の突然さ" },
+    { "en": "shocked by the suddenness", "ja": "その突然さに衝撃を受けて" },
+    { "en": "the suddenness of the attack", "ja": "攻撃の突然さ" },
+    { "en": "sheer suddenness", "ja": "まったくの突然さ" }
+  ],
+  "related": [
+    { "en": "sudden", "ja": "突然の" },
+    { "en": "suddenly", "ja": "突然に" },
+    { "en": "abruptness", "ja": "だしぬけ・ぶっきらぼうさ" },
+    { "en": "unexpectedness", "ja": "意外さ" }
+  ],
+  "faq": [
+    { "q": "suddenness の形容詞・副詞は？", "a": "形容詞は sudden（突然の）、副詞は suddenly（突然に）です。suddenness はその名詞形で『突然さ』を表します。" },
+    { "q": "abruptness との違いは？", "a": "どちらも『急さ』を表しますが、abruptness には『ぶっきらぼう・そっけない』という態度の意味もあります。suddenness は主に『前触れのなさ・急さ』を指します。" }
+  ],
+  "quiz": [
+    { "q": "suddenness の意味は？", "A": "突然さ・だしぬけ", "B": "静けさ", "C": "遅さ", "D": "確かさ", "correct": "A" },
+    { "q": "suddenness の形容詞は？", "A": "sudden", "B": "sullen", "C": "solemn", "D": "sodden", "correct": "A" }
+  ]
+},
+{
+  "english": "suffocating",
+  "pron": "ˈsʌfəkeɪtɪŋ",
+  "kana": "サフォケイティング",
+  "hinshi": "形容詞 / 動詞(現在分詞)",
+  "ld_pos": "形容詞",
+  "ld_etym": "suffocate(窒息させる)+-ing",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "現在分詞"],
+  "meaning_main": "息苦しい/窒息しそうな/(比喩)重苦しい",
+  "description": "suffocating（サフォケイティング）は「息苦しい・窒息しそうな」。暑さや煙、比喩で束縛的で重苦しい状況にも使う。suffocateの-ing形。意味・使い方・例文・関連語を解説。",
+  "keywords": ["suffocating 意味", "suffocate 使い方", "息苦しい 英語", "suffocating 例文"],
+  "meanings": [
+    { "hinshi": "【形容詞】息苦しい・窒息しそうな", "note": "空気が足りず息ができないほどの。暑さ・煙などに使う" },
+    { "hinshi": "【形容詞】(比喩)重苦しい・束縛的な", "note": "自由がなく息が詰まるような状況・関係" }
+  ],
+  "usages": [
+    { "title": "① suffocating heat（息苦しい暑さ）", "desc": "耐えがたい暑さ", "example_en": "The suffocating heat made it hard to breathe.", "example_ja": "息苦しい暑さで呼吸するのがつらかった。" },
+    { "title": "② a suffocating atmosphere（重苦しい雰囲気）", "desc": "比喩的な息苦しさ", "example_en": "She felt trapped in a suffocating relationship.", "example_ja": "彼女は息の詰まるような関係に縛られていると感じた。" }
+  ],
+  "warn": ["動詞 suffocate＝『窒息させる・窒息する』、名詞 suffocation（窒息）", "比喩で『自由を奪う重苦しさ』にも使う"],
+  "etym_note": "suffocate（ラテン語 suffocare「のどを締める」＝sub-「下」＋faux「のど」）＋-ing。「息を詰まらせるような」。",
+  "etym_chain": [
+    { "node": "suffocare", "sub": "のどを締める(ラテン語)", "era": "ラテン語" },
+    { "node": "suffocate", "sub": "窒息させる", "era": "近代英語" },
+    { "node": "suffocating", "sub": "息苦しい", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "suffocating heat", "ja": "息苦しい暑さ" },
+    { "en": "suffocating smoke", "ja": "息が詰まる煙" },
+    { "en": "a suffocating atmosphere", "ja": "重苦しい雰囲気" },
+    { "en": "a suffocating relationship", "ja": "息の詰まる関係" },
+    { "en": "feel suffocating", "ja": "息苦しく感じる" },
+    { "en": "suffocating pressure", "ja": "押しつぶすような重圧" }
+  ],
+  "related": [
+    { "en": "suffocate", "ja": "窒息させる・窒息する" },
+    { "en": "suffocation", "ja": "窒息" },
+    { "en": "stifling", "ja": "息の詰まる・むっとする" },
+    { "en": "oppressive", "ja": "重苦しい・抑圧的な" }
+  ],
+  "faq": [
+    { "q": "suffocating と stifling の違いは？", "a": "どちらも『息が詰まるような』を表します。suffocating は『窒息しそうな』という強い息苦しさ、stifling は『むっとして息苦しい・(自由を)抑える』ニュアンスがあります。ほぼ同義で使えます。" },
+    { "q": "比喩的にも使える？", "a": "はい。a suffocating relationship（息の詰まる関係）のように、自由がなく重苦しい状況・人間関係にも使います。" }
+  ],
+  "quiz": [
+    { "q": "suffocating の意味は？", "A": "息苦しい・窒息しそうな", "B": "さわやかな", "C": "冷たい", "D": "静かな", "correct": "A" },
+    { "q": "suffocating の名詞形は？", "A": "suffocation(窒息)", "B": "sufficiency(充足)", "C": "suffix(接尾辞)", "D": "suffering(苦しみ)", "correct": "A" }
+  ]
+},
+{
+  "english": "suffocation",
+  "pron": "ˌsʌfəˈkeɪʃən",
+  "kana": "サフォケイション",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "suffocate(窒息させる)+-ation",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "不可算名詞"],
+  "meaning_main": "窒息/息が詰まること",
+  "description": "suffocation（サフォケイション）は「窒息・息が詰まること」。空気が吸えず呼吸が止まる状態を指す。suffocate(窒息させる)の名詞形。意味・使い方・例文・関連語を解説。",
+  "keywords": ["suffocation 意味", "suffocation 窒息", "suffocate 名詞", "suffocation 例文"],
+  "meanings": [
+    { "hinshi": "【名詞】窒息", "note": "酸素が得られず呼吸ができなくなること。不可算名詞" }
+  ],
+  "usages": [
+    { "title": "① die of suffocation（窒息で死ぬ）", "desc": "呼吸できず死亡すること", "example_en": "The victim died of suffocation.", "example_ja": "被害者は窒息で亡くなった。" },
+    { "title": "② the risk of suffocation（窒息の危険）", "desc": "息が詰まる恐れ", "example_en": "Small parts pose a risk of suffocation for babies.", "example_ja": "小さな部品は赤ちゃんの窒息の危険がある。" }
+  ],
+  "warn": ["動詞は suffocate（窒息させる・窒息する）、形容詞は suffocating（息苦しい）", "類語 asphyxiation（窒息・酸欠。より医学的）、choking（のどが詰まる窒息）"],
+  "etym_note": "suffocate（ラテン語 suffocare「のどを締める」）＋-ation（名詞化）。「のどが締まって息ができないこと」。",
+  "etym_chain": [
+    { "node": "suffocare", "sub": "のどを締める(ラテン語)", "era": "ラテン語" },
+    { "node": "suffocate", "sub": "窒息させる", "era": "近代英語" },
+    { "node": "suffocation", "sub": "窒息", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "die of suffocation", "ja": "窒息で死ぬ" },
+    { "en": "the risk of suffocation", "ja": "窒息の危険" },
+    { "en": "cause suffocation", "ja": "窒息を引き起こす" },
+    { "en": "death by suffocation", "ja": "窒息死" },
+    { "en": "a feeling of suffocation", "ja": "息が詰まる感覚" },
+    { "en": "prevent suffocation", "ja": "窒息を防ぐ" }
+  ],
+  "related": [
+    { "en": "suffocate", "ja": "窒息させる・窒息する" },
+    { "en": "suffocating", "ja": "息苦しい" },
+    { "en": "asphyxiation", "ja": "窒息・酸欠" },
+    { "en": "choking", "ja": "のどが詰まること" }
+  ],
+  "faq": [
+    { "q": "suffocation と choking の違いは？", "a": "suffocation は『酸素が得られず呼吸できなくなること』全般（煙・密閉・圧迫など）、choking は『のどに物が詰まって息ができないこと』を指します。原因が異なります。" },
+    { "q": "動詞・形容詞は？", "a": "動詞は suffocate（窒息させる・窒息する）、形容詞は suffocating（息苦しい）です。" }
+  ],
+  "quiz": [
+    { "q": "suffocation の意味は？", "A": "窒息・息が詰まること", "B": "脱水", "C": "骨折", "D": "発熱", "correct": "A" },
+    { "q": "suffocation の動詞は？", "A": "suffocate", "B": "suffer", "C": "suffice", "D": "suggest", "correct": "A" }
+  ]
+},
+{
+  "english": "suicide",
+  "pron": "ˈsuːɪsaɪd",
+  "kana": "スーイサイド",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "ラテン語 sui(自分)+caedere(殺す)",
+  "ld_level": "準1級",
+  "badges": ["高校生〜", "英検準1級", "CEFR B2", "名詞"],
+  "meaning_main": "自殺/(比喩)自滅的な行為",
+  "description": "suicide（スーイサイド）は「自殺」および比喩で「自滅的な行為」。命に関わる語のため、支援情報も添えて意味・使い方・例文・関連語を丁寧に解説します。",
+  "keywords": ["suicide 意味", "suicide 自殺", "suicide 使い方", "suicide 例文"],
+  "meanings": [
+    { "hinshi": "【名詞】自殺", "note": "自ら命を絶つこと。可算・不可算" },
+    { "hinshi": "【名詞】(比喩)自滅的な行為", "note": "自分の立場・将来を台無しにする行い（political suicide＝政治的自殺）" }
+  ],
+  "usages": [
+    { "title": "① commit suicide / die by suicide（自殺する）", "desc": "命を絶つこと", "example_en": "Suicide is a serious public health issue.", "example_ja": "自殺は深刻な公衆衛生の問題だ。" },
+    { "title": "② political suicide（政治的自殺）", "desc": "自滅的な行為の比喩", "example_en": "Raising taxes now would be political suicide.", "example_ja": "今増税するのは政治的自殺だろう。" }
+  ],
+  "warn": ["近年は commit suicide より die by suicide（自殺で亡くなる）という表現が推奨される傾向がある", "つらいときは一人で抱えず、日本ではいのちの電話(0570-783-556)などの相談窓口に連絡を"],
+  "etym_note": "ラテン語 sui（自分の）＋caedere（殺す）＝『自分を殺すこと』。17世紀に英語に入った。",
+  "etym_chain": [
+    { "node": "sui + caedere", "sub": "自分＋殺す(ラテン語)", "era": "ラテン語" },
+    { "node": "suicidium", "sub": "自殺", "era": "近代ラテン語" },
+    { "node": "suicide", "sub": "自殺", "era": "17世紀" }
+  ],
+  "phrases": [
+    { "en": "die by suicide", "ja": "自殺で亡くなる" },
+    { "en": "attempt suicide", "ja": "自殺を図る" },
+    { "en": "suicide prevention", "ja": "自殺予防" },
+    { "en": "a suicide rate", "ja": "自殺率" },
+    { "en": "political suicide", "ja": "政治的自殺" },
+    { "en": "a suicide hotline", "ja": "自殺予防の相談電話" }
+  ],
+  "related": [
+    { "en": "prevention", "ja": "予防" },
+    { "en": "depression", "ja": "うつ・憂うつ" },
+    { "en": "mental health", "ja": "心の健康" },
+    { "en": "hotline", "ja": "相談電話" }
+  ],
+  "faq": [
+    { "q": "commit suicide と die by suicide どちらを使う？", "a": "従来は commit suicide が一般的でしたが、commit が犯罪を連想させるため、近年は die by suicide（自殺で亡くなる）という中立的な表現が推奨されています。" },
+    { "q": "political suicide とは？", "a": "比喩で『政治生命を自ら断つような自滅的行為』を指します。命を絶つ意味ではなく、立場・将来を台無しにする行いのたとえです。" }
+  ],
+  "quiz": [
+    { "q": "suicide の意味は？", "A": "自殺", "B": "他殺", "C": "事故", "D": "病死", "correct": "A" },
+    { "q": "political suicide の意味は？", "A": "政治的に自滅的な行為", "B": "選挙の勝利", "C": "政党の結成", "D": "政治献金", "correct": "A" }
+  ]
+},
+{
+  "english": "suited",
+  "pron": "ˈsuːtɪd",
+  "kana": "スーティッド",
+  "hinshi": "形容詞 / 動詞(過去・過去分詞)",
+  "ld_pos": "形容詞",
+  "ld_etym": "suit(合う)+-ed",
+  "ld_level": "2級",
+  "badges": ["中学生〜", "英検2級", "CEFR B1", "形容詞"],
+  "meaning_main": "適した/ふさわしい/(人・物が)合っている",
+  "description": "suited（スーティッド）は「適した・ふさわしい・(人や物が)合っている」。be suited to/for(〜に向いている)の形で使う。動詞suitの過去分詞。意味・使い方・例文を解説。",
+  "keywords": ["suited 意味", "be suited to", "suited for", "suited 例文"],
+  "meanings": [
+    { "hinshi": "【形容詞】適した・ふさわしい", "note": "目的・状況・相手にうまく合っている。be suited to/for の形で使う" },
+    { "hinshi": "【動詞】suit の過去・過去分詞", "note": "suit（〜に合う・都合がよい）の活用形" }
+  ],
+  "usages": [
+    { "title": "① be suited to/for（〜に向いている）", "desc": "適性がある", "example_en": "She is well suited to this job.", "example_ja": "彼女はこの仕事によく向いている。" },
+    { "title": "② ideally suited（理想的に適した）", "desc": "ぴったり合っている", "example_en": "The house is ideally suited for a large family.", "example_ja": "その家は大家族に理想的に適している。" }
+  ],
+  "warn": ["be suited to と be suited for はほぼ同義（どちらも『〜に適した』）", "well / ideally / perfectly など程度を表す語を前に付けることが多い"],
+  "etym_note": "suit（古フランス語 suite「後に続くもの・ひとそろい」由来。『合う』の意味に）＋-ed。「合っている」。",
+  "etym_chain": [
+    { "node": "sequi", "sub": "後に続く(ラテン語)", "era": "ラテン語" },
+    { "node": "suit", "sub": "合う・都合がよい", "era": "中英語" },
+    { "node": "suited", "sub": "適した", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "be suited to", "ja": "〜に向いている" },
+    { "en": "well suited", "ja": "よく合った" },
+    { "en": "ideally suited", "ja": "理想的に適した" },
+    { "en": "perfectly suited", "ja": "完璧に合った" },
+    { "en": "suited for the role", "ja": "その役に適した" },
+    { "en": "poorly suited", "ja": "あまり向いていない" }
+  ],
+  "related": [
+    { "en": "suit", "ja": "合う・スーツ" },
+    { "en": "suitable", "ja": "ふさわしい・適した" },
+    { "en": "appropriate", "ja": "適切な" },
+    { "en": "fitting", "ja": "ふさわしい" }
+  ],
+  "faq": [
+    { "q": "be suited to と suitable の違いは？", "a": "be suited to/for は『(人・物が)〜に向いている』と特定の相手・目的に合うことを表し、suitable は『(一般に)ふさわしい・適した』という形容詞です。He is suited to the job. / The job is suitable for him. のように使います。" },
+    { "q": "to と for どちらを使う？", "a": "どちらも使え、意味の差はほとんどありません。be suited to this work も be suited for this work も『この仕事に向いている』です。" }
+  ],
+  "quiz": [
+    { "q": "be suited to の意味は？", "A": "〜に向いている・適している", "B": "〜に反対する", "C": "〜を避ける", "D": "〜を忘れる", "correct": "A" },
+    { "q": "ideally suited の意味は？", "A": "理想的に適した", "B": "全く合わない", "C": "少し不便な", "D": "危険な", "correct": "A" }
+  ]
+},
+{
+  "english": "sunburnt",
+  "pron": "ˈsʌnbɜrnt",
+  "kana": "サンバーント",
+  "hinshi": "形容詞",
+  "ld_pos": "形容詞",
+  "ld_etym": "sun(太陽)+burnt(焼けた)",
+  "ld_level": "2級",
+  "badges": ["中学生〜", "英検2級", "CEFR B1", "形容詞"],
+  "meaning_main": "日焼けした/日光で肌が焼けた(赤くなった)",
+  "description": "sunburnt（サンバーント）は「日焼けした・日光で肌が赤くなった」。強い日差しで肌がひりひり焼けた状態を表す。sunburnedとも綴る。意味・使い方・例文・関連語を解説。",
+  "keywords": ["sunburnt 意味", "sunburnt 日焼け", "sunburned 違い", "sunburnt 例文"],
+  "meanings": [
+    { "hinshi": "【形容詞】日焼けした・肌が焼けた", "note": "強い日光で肌が赤くひりひりに焼けた状態。sunburned とも綴る" }
+  ],
+  "usages": [
+    { "title": "① get sunburnt（日焼けする）", "desc": "肌が焼けて赤くなる", "example_en": "I got sunburnt at the beach.", "example_ja": "ビーチで日焼けしてしまった。" },
+    { "title": "② sunburnt shoulders（日焼けした肩）", "desc": "焼けた部位", "example_en": "Her sunburnt shoulders were sore.", "example_ja": "彼女の日焼けした肩はひりひり痛んだ。" }
+  ],
+  "warn": ["sunburnt(英)と sunburned(米)は同義。ひりひり赤くなる『日焼け(炎症)』を指す", "小麦色に焼く『日焼け』は tanned（tan）で、こちらは肌色が濃くなること"],
+  "etym_note": "sun（太陽）＋burnt（burn「焼ける」の過去分詞）。「太陽に焼かれた」。名詞は sunburn（日焼け・ひりひりの炎症）。",
+  "etym_chain": [
+    { "node": "sun + burnt", "sub": "太陽＋焼けた", "era": "中英語" },
+    { "node": "sunburn", "sub": "日焼け", "era": "近代英語" },
+    { "node": "sunburnt", "sub": "日焼けした", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "get sunburnt", "ja": "日焼けする" },
+    { "en": "sunburnt skin", "ja": "日焼けした肌" },
+    { "en": "sunburnt shoulders", "ja": "日焼けした肩" },
+    { "en": "badly sunburnt", "ja": "ひどく日焼けした" },
+    { "en": "a sunburnt face", "ja": "日焼けした顔" },
+    { "en": "avoid getting sunburnt", "ja": "日焼けを避ける" }
+  ],
+  "related": [
+    { "en": "sunburn", "ja": "日焼け(炎症)" },
+    { "en": "sunburned", "ja": "日焼けした(米)" },
+    { "en": "tanned", "ja": "小麦色に焼けた" },
+    { "en": "sunscreen", "ja": "日焼け止め" }
+  ],
+  "faq": [
+    { "q": "sunburnt と tanned の違いは？", "a": "sunburnt は『(強い日光で)赤くひりひり炎症を起こした日焼け』、tanned は『小麦色に肌の色が濃くなった健康的な日焼け』です。sunburnt は痛みを伴い、避けたい状態です。" },
+    { "q": "sunburnt と sunburned はどちらが正しい？", "a": "どちらも正しく同義です。sunburnt はイギリス英語、sunburned はアメリカ英語で好まれる傾向があります。" }
+  ],
+  "quiz": [
+    { "q": "sunburnt の意味は？", "A": "日焼けして肌が赤くなった", "B": "凍えた", "C": "ぬれた", "D": "青ざめた", "correct": "A" },
+    { "q": "小麦色に焼けた健康的な日焼けは？", "A": "tanned", "B": "sunburnt", "C": "frozen", "D": "pale", "correct": "A" }
+  ]
+},
+{
+  "english": "sunni",
+  "pron": "ˈsʊni",
+  "kana": "スンニ(派)",
+  "hinshi": "名詞 / 形容詞(固有)",
+  "ld_pos": "固有名詞",
+  "ld_etym": "アラビア語 sunnah(慣行・道)",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "宗教用語"],
+  "meaning_main": "スンニ派(の)/イスラム教最大の宗派",
+  "description": "sunni（スンニ）はイスラム教最大の宗派「スンニ派」およびその信徒。預言者の慣行(スンナ)を重んじる。Shia(シーア派)との違いも解説。意味・背景・関連語を紹介。",
+  "keywords": ["sunni 意味", "スンニ派 英語", "sunni shia 違い", "sunni 宗派"],
+  "meanings": [
+    { "hinshi": "【名詞】スンニ派(の信徒)", "note": "イスラム教で最大の宗派、またはその信者。文中では大文字 Sunni と書く" },
+    { "hinshi": "【形容詞】スンニ派の", "note": "スンニ派に関する（Sunni Islam＝スンニ派イスラム）" }
+  ],
+  "usages": [
+    { "title": "① Sunni Muslims（スンニ派のイスラム教徒）", "desc": "最大の宗派の信徒", "example_en": "Most Muslims in the world are Sunni.", "example_ja": "世界のイスラム教徒の大半はスンニ派だ。" },
+    { "title": "② Sunni and Shia（スンニ派とシーア派）", "desc": "二大宗派", "example_en": "Sunni and Shia are the two main branches of Islam.", "example_ja": "スンニ派とシーア派はイスラム教の二大宗派だ。" }
+  ],
+  "warn": ["固有名詞なので文中では大文字 Sunni と書く", "もう一方の主要宗派 Shia（シーア派）と対比される。両者は預言者の後継者をめぐって分かれた"],
+  "etym_note": "アラビア語 sunnah（預言者ムハンマドの慣行・道）に由来。『スンナに従う人々（ahl al-sunnah）』からスンニ派の名がついた。",
+  "etym_chain": [
+    { "node": "sunnah", "sub": "慣行・道(アラビア語)", "era": "アラビア語" },
+    { "node": "ahl al-sunnah", "sub": "スンナの民", "era": "中世アラビア語" },
+    { "node": "Sunni", "sub": "スンニ派", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "Sunni Muslims", "ja": "スンニ派のイスラム教徒" },
+    { "en": "Sunni Islam", "ja": "スンニ派イスラム" },
+    { "en": "Sunni and Shia", "ja": "スンニ派とシーア派" },
+    { "en": "the Sunni majority", "ja": "スンニ派の多数" },
+    { "en": "a Sunni mosque", "ja": "スンニ派のモスク" },
+    { "en": "Sunni tradition", "ja": "スンニ派の伝統" }
+  ],
+  "related": [
+    { "en": "shia", "ja": "シーア派" },
+    { "en": "islam", "ja": "イスラム教" },
+    { "en": "muslim", "ja": "イスラム教徒" },
+    { "en": "mosque", "ja": "モスク" }
+  ],
+  "faq": [
+    { "q": "Sunni と Shia の違いは？", "a": "ともにイスラム教の宗派ですが、預言者ムハンマドの後継者(指導者)を誰と考えるかで分かれました。Sunni（スンニ派）は共同体の合意で選ばれた後継者を認め、世界のイスラム教徒の多数派を占めます。Shia（シーア派）は預言者の血縁アリーとその子孫を正統な指導者とします。" },
+    { "q": "Sunni の語源は？", "a": "アラビア語 sunnah（預言者の慣行・道）に由来し、『スンナに従う人々』を意味します。" }
+  ],
+  "quiz": [
+    { "q": "Sunni とは？", "A": "イスラム教最大の宗派(スンニ派)", "B": "キリスト教の一派", "C": "仏教の宗派", "D": "国の名前", "correct": "A" },
+    { "q": "Sunni と対比されるイスラムの宗派は？", "A": "Shia(シーア派)", "B": "Catholic(カトリック)", "C": "Orthodox(正教会)", "D": "Zen(禅)", "correct": "A" }
+  ]
+},
+{
+  "english": "suppurate",
+  "pron": "ˈsʌpjəreɪt",
+  "kana": "サピュレイト",
+  "hinshi": "動詞",
+  "ld_pos": "動詞",
+  "ld_etym": "ラテン語 suppurare(膿を生じる)",
+  "ld_level": "1級",
+  "badges": ["大学生〜", "英検1級", "CEFR C2", "医学用語"],
+  "meaning_main": "化膿する/膿(うみ)を出す",
+  "description": "suppurate（サピュレイト）は「化膿する・膿を出す」。傷や腫れが感染して膿がたまる医学的な状態を表す動詞。意味・使い方・例文・関連語をわかりやすく解説。",
+  "keywords": ["suppurate 意味", "suppurate 化膿", "化膿する 英語", "suppurate 例文"],
+  "meanings": [
+    { "hinshi": "【動詞】化膿する・膿を出す", "note": "傷や腫れが感染して膿(うみ)を生じること。医学用語。自動詞" }
+  ],
+  "usages": [
+    { "title": "① the wound suppurated（傷が化膿した）", "desc": "膿がたまる状態", "example_en": "The untreated wound began to suppurate.", "example_ja": "手当てされなかった傷は化膿し始めた。" },
+    { "title": "② a suppurating sore（化膿した傷）", "desc": "膿を出している傷", "example_en": "The doctor examined the suppurating sore.", "example_ja": "医師は化膿した傷を診察した。" }
+  ],
+  "warn": ["専門的・医学的な語。日常では get infected（感染する）や form pus（膿ができる）が一般的", "名詞は suppuration（化膿）、膿は pus"],
+  "etym_note": "ラテン語 suppurare（sub-「下に」＋pus/puris「膿」＝膿を生じる）に由来。「膿を作る」。",
+  "etym_chain": [
+    { "node": "pus", "sub": "膿(ラテン語)", "era": "ラテン語" },
+    { "node": "suppurare", "sub": "膿を生じる(ラテン語)", "era": "ラテン語" },
+    { "node": "suppurate", "sub": "化膿する", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "the wound suppurated", "ja": "傷が化膿した" },
+    { "en": "a suppurating sore", "ja": "化膿した傷" },
+    { "en": "begin to suppurate", "ja": "化膿し始める" },
+    { "en": "a suppurating wound", "ja": "膿を出す傷" },
+    { "en": "prevent it from suppurating", "ja": "化膿を防ぐ" },
+    { "en": "the cut suppurated", "ja": "切り傷が化膿した" }
+  ],
+  "related": [
+    { "en": "suppuration", "ja": "化膿" },
+    { "en": "pus", "ja": "膿" },
+    { "en": "infect", "ja": "感染させる" },
+    { "en": "fester", "ja": "化膿する・悪化する" }
+  ],
+  "faq": [
+    { "q": "suppurate と fester の違いは？", "a": "どちらも『化膿する』を表します。suppurate は医学的な語で『膿を生じる』こと、fester は日常語で『傷が化膿してうずく』ことに加え、比喩で『(問題・感情が)悪化する』意味でも使えます。" },
+    { "q": "名詞形は？", "a": "suppuration（化膿）です。膿そのものは pus と言います。" }
+  ],
+  "quiz": [
+    { "q": "suppurate の意味は？", "A": "化膿する・膿を出す", "B": "治る", "C": "乾く", "D": "冷える", "correct": "A" },
+    { "q": "suppurate の名詞形は？", "A": "suppuration(化膿)", "B": "supporter(支持者)", "C": "supper(夕食)", "D": "supply(供給)", "correct": "A" }
+  ]
+},
+{
+  "english": "surefire",
+  "pron": "ˈʃʊrfaɪr",
+  "kana": "シュアファイア",
+  "hinshi": "形容詞",
+  "ld_pos": "形容詞",
+  "ld_etym": "sure(確実な)+fire(発火)",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "口語"],
+  "meaning_main": "確実に成功する/絶対に効く/間違いなしの",
+  "description": "surefire（シュアファイア）は「確実に成功する・絶対に効く・間違いなしの」。まず失敗しない方法や結果を表す口語的な形容詞。意味・使い方・例文・関連語を解説。",
+  "keywords": ["surefire 意味", "surefire way", "確実な 英語", "surefire 例文"],
+  "meanings": [
+    { "hinshi": "【形容詞】確実に成功する・間違いなしの", "note": "まず失敗しない、確実に効果が出る。名詞の前で使う口語的な語" }
+  ],
+  "usages": [
+    { "title": "① a surefire way（確実な方法）", "desc": "必ずうまくいくやり方", "example_en": "There is no surefire way to get rich quickly.", "example_ja": "手っ取り早く金持ちになる確実な方法などない。" },
+    { "title": "② a surefire hit（間違いなしのヒット）", "desc": "確実に成功するもの", "example_en": "The song was a surefire hit.", "example_ja": "その曲は間違いなしのヒットだった。" }
+  ],
+  "warn": ["主に名詞の前で使う口語表現（a surefire way / method / hit）", "もとは銃が『確実に発火する（不発しない）』ことから。sure-fire と綴ることもある"],
+  "etym_note": "sure（確実な）＋fire（発火・射撃）。銃が確実に発火する（不発がない）ことから『確実にうまくいく』の意味に。",
+  "etym_chain": [
+    { "node": "sure + fire", "sub": "確実な＋発火", "era": "近代英語" },
+    { "node": "sure-fire", "sub": "確実に発火する", "era": "19世紀米" },
+    { "node": "surefire", "sub": "確実に成功する", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "a surefire way", "ja": "確実な方法" },
+    { "en": "a surefire method", "ja": "間違いなしのやり方" },
+    { "en": "a surefire hit", "ja": "確実なヒット" },
+    { "en": "a surefire success", "ja": "確実な成功" },
+    { "en": "a surefire recipe", "ja": "失敗しないレシピ" },
+    { "en": "no surefire solution", "ja": "確実な解決策はない" }
+  ],
+  "related": [
+    { "en": "sure", "ja": "確実な・確信した" },
+    { "en": "foolproof", "ja": "誰がやっても失敗しない" },
+    { "en": "guaranteed", "ja": "保証された" },
+    { "en": "reliable", "ja": "信頼できる" }
+  ],
+  "faq": [
+    { "q": "surefire と foolproof の違いは？", "a": "どちらも『確実な』を表します。surefire は『確実に成功する・効く』結果に重点、foolproof は『誰がやっても失敗しようがない』簡単・安全さに重点があります。" },
+    { "q": "語源は？", "a": "銃が『確実に発火する（不発しない）』ことから来ています。そこから『確実にうまくいく』の意味に広がりました。" }
+  ],
+  "quiz": [
+    { "q": "surefire の意味は？", "A": "確実に成功する・間違いなしの", "B": "危険な", "C": "あいまいな", "D": "高価な", "correct": "A" },
+    { "q": "surefire と近い語は？", "A": "foolproof(誰でも失敗しない)", "B": "risky(危険な)", "C": "doubtful(疑わしい)", "D": "uncertain(不確かな)", "correct": "A" }
+  ]
+},
+{
+  "english": "surfing",
+  "pron": "ˈsɜrfɪŋ",
+  "kana": "サーフィン",
+  "hinshi": "名詞 / 動詞(現在分詞)",
+  "ld_pos": "名詞",
+  "ld_etym": "surf(波乗りする)+-ing",
+  "ld_level": "3級",
+  "badges": ["中学生〜", "英検3級", "CEFR A2", "不可算名詞"],
+  "meaning_main": "サーフィン/波乗り/(ネットの)閲覧",
+  "description": "surfing（サーフィン）は「波乗り」および「(インターネットの)閲覧」。ボードで波に乗るスポーツや、ネットを見て回ることを指す。意味・使い方・例文・関連語を解説。",
+  "keywords": ["surfing 意味", "surfing サーフィン", "net surfing", "surfing 例文"],
+  "meanings": [
+    { "hinshi": "【名詞】サーフィン・波乗り", "note": "ボードに乗って波に乗るマリンスポーツ。不可算名詞" },
+    { "hinshi": "【名詞】(ネットの)閲覧", "note": "インターネットを次々と見て回ること（web/net surfing）" },
+    { "hinshi": "【動詞】波乗りしている・ネットを見ている", "note": "surf の現在分詞" }
+  ],
+  "usages": [
+    { "title": "① go surfing（サーフィンに行く）", "desc": "波乗りをしに行く", "example_en": "We went surfing on Sunday morning.", "example_ja": "私たちは日曜の朝サーフィンに行った。" },
+    { "title": "② surfing the internet（ネットサーフィン）", "desc": "ネットを見て回ること", "example_en": "He spent hours surfing the internet.", "example_ja": "彼は何時間もネットサーフィンをして過ごした。" }
+  ],
+  "warn": ["『〜しに行く』は go surfing（go + -ing）", "チャンネルを次々変えるのは channel surfing とも言う"],
+  "etym_note": "surf（打ち寄せる波・波乗りする）＋-ing。波に乗る動作から、20世紀末に『ネットを次々見て回る』意味が生まれた。",
+  "etym_chain": [
+    { "node": "surf", "sub": "打ち寄せる波", "era": "17世紀" },
+    { "node": "surf", "sub": "波乗りする", "era": "20世紀" },
+    { "node": "surfing", "sub": "サーフィン・ネット閲覧", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "go surfing", "ja": "サーフィンに行く" },
+    { "en": "surfing the internet", "ja": "ネットサーフィン" },
+    { "en": "wind surfing", "ja": "ウインドサーフィン" },
+    { "en": "channel surfing", "ja": "チャンネルを次々変えること" },
+    { "en": "a surfing spot", "ja": "サーフィンの名所" },
+    { "en": "learn surfing", "ja": "サーフィンを習う" }
+  ],
+  "related": [
+    { "en": "surf", "ja": "波乗りする・打ち寄せる波" },
+    { "en": "surfer", "ja": "サーファー" },
+    { "en": "surfboard", "ja": "サーフボード" },
+    { "en": "wave", "ja": "波" }
+  ],
+  "faq": [
+    { "q": "surfing にはどんな意味がある？", "a": "海で『波乗り(サーフィン)』をすること、そして比喩的に『インターネットを次々見て回ること(ネットサーフィン)』の両方を指します。波に乗って次々進むイメージから後者が生まれました。" },
+    { "q": "『サーフィンに行く』は？", "a": "go surfing と言います。go + -ing で『〜しに行く』を表す言い方です（go swimming などと同じ）。" }
+  ],
+  "quiz": [
+    { "q": "surfing の意味は？", "A": "波乗り・サーフィン", "B": "登山", "C": "水泳", "D": "スキー", "correct": "A" },
+    { "q": "surfing the internet の意味は？", "A": "ネットを見て回ること", "B": "ネットを切断すること", "C": "ネットを設置すること", "D": "ネットを修理すること", "correct": "A" }
+  ]
+},
+{
+  "english": "surrealist",
+  "pron": "səˈriːəlɪst",
+  "kana": "シュルレアリスト",
+  "hinshi": "名詞 / 形容詞",
+  "ld_pos": "名詞",
+  "ld_etym": "surrealism(シュルレアリスム)+-ist",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "芸術用語"],
+  "meaning_main": "シュルレアリスト/超現実主義の(芸術家)",
+  "description": "surrealist（シュルレアリスト）は「超現実主義(シュルレアリスム)の芸術家」またはその様式の。夢や無意識を表現する20世紀の芸術運動。ダリらが有名。意味・使い方・例文を解説。",
+  "keywords": ["surrealist 意味", "surrealist 超現実主義", "surrealism 芸術", "surrealist 例文"],
+  "meanings": [
+    { "hinshi": "【名詞】シュルレアリスト", "note": "超現実主義(シュルレアリスム)を掲げる芸術家・作家。可算名詞" },
+    { "hinshi": "【形容詞】超現実主義の", "note": "夢・無意識・非現実を表現する様式の" }
+  ],
+  "usages": [
+    { "title": "① a surrealist painter（シュルレアリスムの画家）", "desc": "超現実主義の芸術家", "example_en": "Salvador Dalí was a famous surrealist painter.", "example_ja": "サルバドール・ダリは有名なシュルレアリスムの画家だった。" },
+    { "title": "② surrealist art（シュルレアリスムの芸術）", "desc": "非現実的な様式", "example_en": "Surrealist art often features dreamlike images.", "example_ja": "シュルレアリスムの芸術は夢のような映像を特徴とすることが多い。" }
+  ],
+  "warn": ["surreal（超現実的な・非現実的な）は形容詞。日常でも『現実離れした』の意味で使う", "運動・様式そのものは surrealism（シュルレアリスム・超現実主義）"],
+  "etym_note": "surrealism（フランス語 surréalisme＝sur-「超えて」＋réalisme「現実主義」、1920年代の芸術運動）＋-ist（〜主義者）。",
+  "etym_chain": [
+    { "node": "sur- + réalisme", "sub": "超＋現実主義(フランス語)", "era": "20世紀フランス語" },
+    { "node": "surrealism", "sub": "シュルレアリスム", "era": "1920年代" },
+    { "node": "surrealist", "sub": "シュルレアリスト", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "a surrealist painter", "ja": "シュルレアリスムの画家" },
+    { "en": "surrealist art", "ja": "シュルレアリスムの芸術" },
+    { "en": "the surrealist movement", "ja": "シュルレアリスム運動" },
+    { "en": "a surrealist image", "ja": "超現実的なイメージ" },
+    { "en": "surrealist poetry", "ja": "シュルレアリスムの詩" },
+    { "en": "a leading surrealist", "ja": "代表的なシュルレアリスト" }
+  ],
+  "related": [
+    { "en": "surrealism", "ja": "シュルレアリスム・超現実主義" },
+    { "en": "surreal", "ja": "超現実的な・非現実的な" },
+    { "en": "abstract", "ja": "抽象的な" },
+    { "en": "dreamlike", "ja": "夢のような" }
+  ],
+  "faq": [
+    { "q": "surrealist と surreal の違いは？", "a": "surrealist は『超現実主義(の芸術家)』を指す芸術用語、surreal は日常でも使える形容詞で『現実離れした・夢のような』という意味です。a surreal experience（現実離れした体験）のように使います。" },
+    { "q": "代表的な芸術家は？", "a": "サルバドール・ダリやルネ・マグリットなどが有名なシュルレアリスムの画家です。夢や無意識を題材に、非現実的な映像を描きました。" }
+  ],
+  "quiz": [
+    { "q": "surrealist の意味は？", "A": "超現実主義の芸術家", "B": "写実主義の作家", "C": "音楽の指揮者", "D": "建築の技師", "correct": "A" },
+    { "q": "surrealism の代表的画家は？", "A": "ダリ", "B": "ピカソ(キュビスム)", "C": "モネ(印象派)", "D": "ゴッホ(後期印象派)", "correct": "A" }
+  ]
+},
+{
+  "english": "susceptibility",
+  "pron": "səˌsɛptəˈbɪləti",
+  "kana": "サセプティビリティ",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "susceptible(影響を受けやすい)+-ity",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "名詞"],
+  "meaning_main": "受けやすさ/かかりやすさ/影響されやすさ",
+  "description": "susceptibility（サセプティビリティ）は「(病気や影響の)受けやすさ・かかりやすさ・感受性」。susceptible(影響を受けやすい)の名詞形。意味・使い方・例文・関連語を解説。",
+  "keywords": ["susceptibility 意味", "susceptible 名詞", "かかりやすさ 英語", "susceptibility 例文"],
+  "meanings": [
+    { "hinshi": "【名詞】受けやすさ・かかりやすさ", "note": "病気・影響・刺激などを受けやすい性質。可算・不可算" },
+    { "hinshi": "【名詞】感受性・敏感さ", "note": "外部の作用に反応しやすいこと" }
+  ],
+  "usages": [
+    { "title": "① susceptibility to disease（病気へのかかりやすさ）", "desc": "感染・発症のしやすさ", "example_en": "Stress increases susceptibility to disease.", "example_ja": "ストレスは病気へのかかりやすさを高める。" },
+    { "title": "② susceptibility to influence（影響の受けやすさ）", "desc": "左右されやすさ", "example_en": "Children have a greater susceptibility to peer influence.", "example_ja": "子どもは仲間の影響を受けやすい。" }
+  ],
+  "warn": ["susceptibility to ~（〜への受けやすさ）の形が典型", "形容詞は susceptible（影響を受けやすい・感染しやすい）"],
+  "etym_note": "susceptible（ラテン語 suscipere「下から受け取る」由来）＋-ity（状態）。「受け取りやすいこと」。",
+  "etym_chain": [
+    { "node": "suscipere", "sub": "下から受け取る(ラテン語)", "era": "ラテン語" },
+    { "node": "susceptible", "sub": "影響を受けやすい", "era": "近代英語" },
+    { "node": "susceptibility", "sub": "受けやすさ", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "susceptibility to disease", "ja": "病気へのかかりやすさ" },
+    { "en": "susceptibility to infection", "ja": "感染しやすさ" },
+    { "en": "genetic susceptibility", "ja": "遺伝的なかかりやすさ" },
+    { "en": "increase susceptibility", "ja": "受けやすさを高める" },
+    { "en": "susceptibility to influence", "ja": "影響の受けやすさ" },
+    { "en": "reduce susceptibility", "ja": "かかりやすさを減らす" }
+  ],
+  "related": [
+    { "en": "susceptible", "ja": "影響を受けやすい" },
+    { "en": "vulnerability", "ja": "傷つきやすさ・脆弱性" },
+    { "en": "sensitivity", "ja": "感受性・敏感さ" },
+    { "en": "resistance", "ja": "抵抗力" }
+  ],
+  "faq": [
+    { "q": "susceptibility と vulnerability の違いは？", "a": "どちらも『(悪影響を)受けやすさ』を表します。susceptibility は特に『病気にかかりやすい・影響されやすい』傾向、vulnerability は『傷つきやすい・攻撃や被害に弱い』脆弱さに重点があります。" },
+    { "q": "反対の概念は？", "a": "resistance（抵抗力）や immunity（免疫）です。病気への susceptibility（かかりやすさ）が高いほど resistance（抵抗力）は低い、という関係になります。" }
+  ],
+  "quiz": [
+    { "q": "susceptibility の意味は？", "A": "受けやすさ・かかりやすさ", "B": "抵抗力", "C": "回復力", "D": "免疫", "correct": "A" },
+    { "q": "susceptibility の形容詞は？", "A": "susceptible", "B": "suspicious", "C": "sustainable", "D": "suspended", "correct": "A" }
+  ]
+},
+{
+  "english": "suv",
+  "pron": "ˌɛs juː ˈviː",
+  "kana": "エスユーブイ",
+  "hinshi": "名詞(略語)",
+  "ld_pos": "名詞",
+  "ld_etym": "Sport Utility Vehicle の頭字語",
+  "ld_level": "2級",
+  "badges": ["中学生〜", "英検2級", "CEFR B1", "略語"],
+  "meaning_main": "SUV/スポーツ用多目的車(車高が高く多用途の乗用車)",
+  "description": "SUV（エスユーブイ）は Sport Utility Vehicle の略で、車高が高く悪路にも強い多目的の乗用車。文中では大文字SUV。意味・使い方・例文・関連語をわかりやすく解説。",
+  "keywords": ["SUV 意味", "SUV 車", "sport utility vehicle", "SUV 例文"],
+  "meanings": [
+    { "hinshi": "【名詞】SUV・スポーツ用多目的車", "note": "Sport Utility Vehicle の略。車高が高く、荷室が広く悪路にも対応する乗用車。文中では大文字 SUV。可算名詞" }
+  ],
+  "usages": [
+    { "title": "① drive an SUV（SUVを運転する）", "desc": "多目的車に乗る", "example_en": "They bought an SUV for their camping trips.", "example_ja": "彼らはキャンプ旅行のためにSUVを買った。" },
+    { "title": "② a compact SUV（小型SUV）", "desc": "SUVの種類", "example_en": "Compact SUVs are popular in cities.", "example_ja": "小型SUVは都市部で人気だ。" }
+  ],
+  "warn": ["頭字語なので文中では大文字 SUV と書く。母音で始まる音なので冠詞は an SUV", "sedan（セダン）、minivan（ミニバン）など他の車種と区別"],
+  "etym_note": "Sport Utility Vehicle（スポーツ用多目的車）の頭文字。1980〜90年代にアメリカで普及した車種の呼称。",
+  "etym_chain": [
+    { "node": "Sport Utility Vehicle", "sub": "スポーツ用多目的車", "era": "20世紀" },
+    { "node": "SUV", "sub": "頭字語化", "era": "現代英語" },
+    { "node": "SUV", "sub": "多目的車", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "drive an SUV", "ja": "SUVを運転する" },
+    { "en": "a compact SUV", "ja": "小型SUV" },
+    { "en": "a luxury SUV", "ja": "高級SUV" },
+    { "en": "an electric SUV", "ja": "電気SUV" },
+    { "en": "a family SUV", "ja": "ファミリー向けSUV" },
+    { "en": "a seven-seater SUV", "ja": "7人乗りSUV" }
+  ],
+  "related": [
+    { "en": "vehicle", "ja": "車・乗り物" },
+    { "en": "sedan", "ja": "セダン" },
+    { "en": "minivan", "ja": "ミニバン" },
+    { "en": "truck", "ja": "トラック" }
+  ],
+  "faq": [
+    { "q": "SUV は何の略？", "a": "Sport Utility Vehicle（スポーツ用多目的車）の略です。車高が高く荷室が広く、街乗りからアウトドアまで幅広く使える乗用車を指します。" },
+    { "q": "冠詞は a と an どちら？", "a": "SUV は『エス…』と母音の音で始まるので、an SUV となります（つづりの S ではなく発音で判断します）。" }
+  ],
+  "quiz": [
+    { "q": "SUV は何の略？", "A": "Sport Utility Vehicle(スポーツ用多目的車)", "B": "Super Urban Van", "C": "Small Used Vehicle", "D": "Safe Underground Vault", "correct": "A" },
+    { "q": "SUV の特徴は？", "A": "車高が高く多用途", "B": "屋根のないオープンカー", "C": "1人乗りの超小型車", "D": "線路を走る車両", "correct": "A" }
+  ]
+},
+{
+  "english": "swamped",
+  "pron": "swɒmpt",
+  "kana": "スワンプト",
+  "hinshi": "形容詞 / 動詞(過去・過去分詞)",
+  "ld_pos": "形容詞",
+  "ld_etym": "swamp(沼・水浸しにする)+-ed",
+  "ld_level": "2級",
+  "badges": ["高校生〜", "英検2級", "CEFR B2", "形容詞"],
+  "meaning_main": "(仕事などに)忙殺された/殺到されて手一杯の/水浸しの",
+  "description": "swamped（スワンプト）は「(仕事などに)忙殺された・殺到されて手一杯の」および「水浸しになった」。be swamped with(〜に忙殺される)で使う。意味・使い方・例文を解説。",
+  "keywords": ["swamped 意味", "be swamped with", "忙殺 英語", "swamped 例文"],
+  "meanings": [
+    { "hinshi": "【形容詞】忙殺された・手一杯の", "note": "仕事や依頼が押し寄せて対応しきれない状態。be swamped with/by の形で使う" },
+    { "hinshi": "【形容詞】水浸しになった", "note": "水があふれて沈む・浸かる。swamp（沼）から" },
+    { "hinshi": "【動詞】swamp の過去・過去分詞", "note": "swamp（水浸しにする・殺到する）の活用形" }
+  ],
+  "usages": [
+    { "title": "① be swamped with work（仕事に忙殺される）", "desc": "手が回らないほど忙しい", "example_en": "I'm swamped with work this week.", "example_ja": "今週は仕事に忙殺されている。" },
+    { "title": "② swamped by requests（依頼が殺到して)", "desc": "対応しきれないほど押し寄せる", "example_en": "The office was swamped by calls.", "example_ja": "事務所は電話が殺到して手一杯だった。" }
+  ],
+  "warn": ["be swamped with / by（〜で忙殺される）の形が定型。口語的で『とても忙しい』を表す", "文字どおり『水浸しにする』の意味もある（The boat was swamped.＝ボートが水をかぶった）"],
+  "etym_note": "swamp（沼・湿地。『水浸しにする』の動詞に）＋-ed。「水があふれて沈む」から、比喩で『(仕事などに)押し流される』の意味に。",
+  "etym_chain": [
+    { "node": "swamp", "sub": "沼・湿地", "era": "17世紀" },
+    { "node": "swamp", "sub": "水浸しにする・殺到する", "era": "近代英語" },
+    { "node": "swamped", "sub": "忙殺された・水浸しの", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "be swamped with work", "ja": "仕事に忙殺される" },
+    { "en": "swamped with emails", "ja": "メールに忙殺されて" },
+    { "en": "swamped by requests", "ja": "依頼が殺到して" },
+    { "en": "completely swamped", "ja": "完全に手一杯で" },
+    { "en": "feel swamped", "ja": "手が回らないと感じる" },
+    { "en": "swamped with orders", "ja": "注文が殺到して" }
+  ],
+  "related": [
+    { "en": "swamp", "ja": "沼・水浸しにする" },
+    { "en": "overwhelmed", "ja": "圧倒された・手一杯の" },
+    { "en": "flooded", "ja": "殺到した・浸水した" },
+    { "en": "buried", "ja": "(仕事に)埋もれた" }
+  ],
+  "faq": [
+    { "q": "be swamped with とは？", "a": "『〜に忙殺される・〜で手一杯になる』という口語表現です。I'm swamped with work.（仕事で手一杯だ）のように、対応しきれないほど押し寄せる状況を表します。" },
+    { "q": "overwhelmed との違いは？", "a": "どちらも『圧倒されて手一杯』を表します。swamped は特に『量が殺到して物理的に処理しきれない』イメージ、overwhelmed は感情的な負担も含む広い『圧倒された』状態を指します。" }
+  ],
+  "quiz": [
+    { "q": "be swamped with work の意味は？", "A": "仕事に忙殺される", "B": "仕事を休む", "C": "仕事を辞める", "D": "仕事を探す", "correct": "A" },
+    { "q": "swamped と近い語は？", "A": "overwhelmed(手一杯の)", "B": "relaxed(くつろいだ)", "C": "bored(退屈した)", "D": "free(暇な)", "correct": "A" }
+  ]
+}
+]
