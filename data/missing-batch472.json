@@ -1,0 +1,985 @@
+[
+  {
+    "english": "crematorium",
+    "pron": "ˌkreməˈtɔːriəm",
+    "kana": "クレマトリアム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 cremare（焼く）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "社会"],
+    "meaning_main": "火葬場",
+    "description": "crematorium（クレマトリアム）は「火葬場」を表す名詞。遺体を火葬するための施設を指します。複数形は crematoria または crematoriums、米国では crematory とも言います。",
+    "keywords": ["crematorium 意味", "火葬場 英語", "火葬 英語", "crematorium とは"],
+    "meanings": [
+      { "hinshi": "【名詞】火葬場", "note": "可算名詞。遺体を火葬する施設。複数形は crematoria / crematoriums" }
+    ],
+    "usages": [
+      { "title": "① 火葬の施設", "desc": "遺体を火葬する場所", "example_en": "The funeral was held at the crematorium.", "example_ja": "葬儀は火葬場で行われた。" },
+      { "title": "② 葬送の文脈で", "desc": "火葬", "example_en": "His ashes were collected from the crematorium.", "example_ja": "彼の遺灰は火葬場で受け取られた。" }
+    ],
+    "warn": ["動詞は cremate（火葬する）、火葬は cremation。米国では crematory とも言う", "土葬は burial"],
+    "etym_note": "ラテン語 cremare（焼く）に、場所を表す -orium が付いた語。「焼くための場所」の意。",
+    "etym_chain": [
+      { "node": "cremare", "sub": "焼く(ラテン語)", "era": "ラテン語" },
+      { "node": "crematorium", "sub": "火葬場", "era": "19世紀" }
+    ],
+    "phrases": [
+      { "en": "at the crematorium", "ja": "火葬場で" },
+      { "en": "a local crematorium", "ja": "地元の火葬場" },
+      { "en": "the crematorium chapel", "ja": "火葬場の礼拝堂" },
+      { "en": "taken to the crematorium", "ja": "火葬場へ運ばれた" },
+      { "en": "a modern crematorium", "ja": "近代的な火葬場" },
+      { "en": "the crematorium service", "ja": "火葬場での式" }
+    ],
+    "related": [
+      { "en": "cremate", "ja": "火葬する" },
+      { "en": "cremation", "ja": "火葬" },
+      { "en": "funeral", "ja": "葬儀" },
+      { "en": "burial", "ja": "土葬・埋葬" }
+    ],
+    "faq": [
+      { "q": "crematorium の複数形は？", "a": "crematoria（ラテン語型）または crematoriums のどちらも使われます。" },
+      { "q": "crematorium と crematory の違いは？", "a": "意味は同じ「火葬場」です。crematorium は主に英国、crematory は主に米国で使われます。" }
+    ],
+    "quiz": [
+      { "q": "crematorium の意味は？", "A": "火葬場", "B": "墓地", "C": "病院", "D": "教会", "correct": "A" },
+      { "q": "crematorium の動詞形は？", "A": "cremate", "B": "create", "C": "credit", "D": "crawl", "correct": "A" }
+    ]
+  },
+  {
+    "english": "cross-sectional",
+    "pron": "ˌkrɒsˈsekʃənəl",
+    "kana": "クロスセクショナル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "cross section（断面・横断）+ -al",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "学術・統計"],
+    "meaning_main": "断面の / 横断的な / 代表的な各層を含む",
+    "description": "cross-sectional（クロスセクショナル）は「断面の・横断的な」を表す形容詞。物の切り口（断面）に関することや、ある時点で集団のさまざまな層を横断的に調べる調査（横断研究）を表します。",
+    "keywords": ["cross-sectional 意味", "断面 英語", "横断的 英語", "cross-sectional study"],
+    "meanings": [
+      { "hinshi": "【形容詞】断面の", "note": "物を切ったときの切り口に関する" },
+      { "hinshi": "【形容詞】横断的な、各層を代表する", "note": "ある時点で集団の幅広い層を調べるさま(統計・研究)" }
+    ],
+    "usages": [
+      { "title": "① 断面図として", "desc": "切り口", "example_en": "The diagram shows a cross-sectional view of the engine.", "example_ja": "その図はエンジンの断面図を示している。" },
+      { "title": "② 横断研究として", "desc": "各層を調べる", "example_en": "They conducted a cross-sectional study of the population.", "example_ja": "彼らはその集団の横断研究を行った。" }
+    ],
+    "warn": ["cross-sectional study は「横断研究（ある時点でのデータ）」で、時間を追う longitudinal study（縦断研究）と対比される"],
+    "etym_note": "cross section（横断面・切り口）に、形容詞化の -al が付いた語。「断面の・（集団を）横断的に見る」の意。",
+    "etym_chain": [
+      { "node": "cross section", "sub": "断面・横断", "era": "近代英語" },
+      { "node": "cross-sectional", "sub": "断面の・横断的な", "era": "20世紀" }
+    ],
+    "phrases": [
+      { "en": "a cross-sectional view", "ja": "断面図" },
+      { "en": "a cross-sectional study", "ja": "横断研究" },
+      { "en": "cross-sectional data", "ja": "横断的データ" },
+      { "en": "cross-sectional area", "ja": "断面積" },
+      { "en": "a cross-sectional survey", "ja": "横断調査" },
+      { "en": "cross-sectional analysis", "ja": "横断分析" }
+    ],
+    "related": [
+      { "en": "cross section", "ja": "断面・横断面" },
+      { "en": "longitudinal", "ja": "縦断的な" },
+      { "en": "section", "ja": "断面・部分" },
+      { "en": "survey", "ja": "調査" }
+    ],
+    "faq": [
+      { "q": "cross-sectional study と longitudinal study の違いは？", "a": "cross-sectional study（横断研究）は「ある一時点で」集団の各層を調べる方法、longitudinal study（縦断研究）は「同じ対象を時間を追って」調べる方法です。" },
+      { "q": "cross-sectional area とは？", "a": "「断面積」のことです。物体を切ったときの切り口の面積を指します。" }
+    ],
+    "quiz": [
+      { "q": "cross-sectional の意味は？", "A": "断面の・横断的な", "B": "縦断的な", "C": "円形の", "D": "透明な", "correct": "A" },
+      { "q": "cross-sectional study と対比される研究は？", "A": "longitudinal study(縦断研究)", "B": "case study(事例研究)", "C": "pilot study(予備調査)", "D": "field study(実地調査)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "crucifixion",
+    "pron": "ˌkruːsɪˈfɪkʃən",
+    "kana": "クルーシフィクション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 crucifigere（十字架にかける）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "歴史・宗教"],
+    "meaning_main": "はりつけ / 十字架刑 / (キリストの)磔刑",
+    "description": "crucifixion（クルーシフィクション）は「はりつけ・十字架刑」を表す名詞。古代ローマなどで行われた、十字架に人をかけて処刑する刑罰を指します。特にイエス・キリストの磔刑を指すことが多い語です。",
+    "keywords": ["crucifixion 意味", "はりつけ 英語", "十字架刑 英語", "磔刑 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】はりつけ、十字架刑", "note": "可算・不可算。十字架にかけて処刑すること" },
+      { "hinshi": "【名詞】(キリストの)磔刑", "note": "the Crucifixion でイエス・キリストの十字架刑" }
+    ],
+    "usages": [
+      { "title": "① 処刑方法として", "desc": "古代の刑罰", "example_en": "Crucifixion was a common Roman punishment.", "example_ja": "十字架刑はローマでよく行われた刑罰だった。" },
+      { "title": "② キリスト教で", "desc": "イエスの磔刑", "example_en": "The painting depicts the Crucifixion.", "example_ja": "その絵はキリストの磔刑を描いている。" }
+    ],
+    "warn": ["動詞は crucify（十字架にかける）。キリストの磔刑を指すときは大文字 the Crucifixion"],
+    "etym_note": "ラテン語 crucifigere（crux「十字架」+ figere「留める」＝十字架に留める）に由来する語。",
+    "etym_chain": [
+      { "node": "crucifigere", "sub": "十字架にかける(ラテン語)", "era": "ラテン語" },
+      { "node": "crucifixion", "sub": "はりつけ", "era": "16世紀" }
+    ],
+    "phrases": [
+      { "en": "the Crucifixion", "ja": "キリストの磔刑" },
+      { "en": "death by crucifixion", "ja": "十字架刑による死" },
+      { "en": "a scene of crucifixion", "ja": "はりつけの場面" },
+      { "en": "Roman crucifixion", "ja": "ローマの十字架刑" },
+      { "en": "the cross of crucifixion", "ja": "はりつけの十字架" },
+      { "en": "a painting of the Crucifixion", "ja": "磔刑を描いた絵" }
+    ],
+    "related": [
+      { "en": "crucify", "ja": "十字架にかける" },
+      { "en": "cross", "ja": "十字架" },
+      { "en": "execution", "ja": "処刑" },
+      { "en": "resurrection", "ja": "復活" }
+    ],
+    "faq": [
+      { "q": "crucifixion の動詞形は？", "a": "crucify（十字架にかける・はりつけにする）です。比喩で「（人を）厳しく非難する」の意味でも使われます。" },
+      { "q": "the Crucifixion とは？", "a": "大文字で書くと、特に「イエス・キリストの磔刑（十字架での死）」を指します。キリスト教で最も重要な出来事の一つです。" }
+    ],
+    "quiz": [
+      { "q": "crucifixion の意味は？", "A": "はりつけ・十字架刑", "B": "斬首", "C": "追放", "D": "投獄", "correct": "A" },
+      { "q": "crucifixion の動詞形は？", "A": "crucify", "B": "cruise", "C": "crush", "D": "crawl", "correct": "A" }
+    ]
+  },
+  {
+    "english": "crunchiness",
+    "pron": "ˈkrʌntʃinəs",
+    "kana": "クランチネス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "crunchy（カリカリした）+ -ness",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "料理・食感"],
+    "meaning_main": "カリカリ感 / サクサク感 / 歯ごたえ",
+    "description": "crunchiness（クランチネス）は「カリカリ感・サクサク感」を表す名詞。食べ物をかんだときの、カリッ・サクッとした心地よい歯ごたえや音を表します。",
+    "keywords": ["crunchiness 意味", "カリカリ 英語", "サクサク 英語", "食感 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】カリカリ感、サクサク感、歯ごたえ", "note": "不可算名詞。かんだときのカリッとした食感や音" }
+    ],
+    "usages": [
+      { "title": "① 食感を表す", "desc": "カリカリ感", "example_en": "I love the crunchiness of fresh vegetables.", "example_ja": "私は新鮮な野菜のカリカリ感が大好きだ。" },
+      { "title": "② 料理の特徴", "desc": "歯ごたえ", "example_en": "The coating adds a nice crunchiness.", "example_ja": "その衣が心地よいサクサク感を加える。" }
+    ],
+    "warn": ["形容詞は crunchy（カリカリした・サクサクした）。似た食感の crispy（パリッとした）とは微妙に違う"],
+    "etym_note": "かむときの音をまねた擬音語 crunch（バリバリかむ）から作られた形容詞 crunchy に、性質を表す名詞化接尾辞 -ness が付いた語。",
+    "etym_chain": [
+      { "node": "crunch", "sub": "バリバリかむ(擬音)", "era": "近代英語" },
+      { "node": "crunchy", "sub": "カリカリした", "era": "19世紀" },
+      { "node": "crunchiness", "sub": "カリカリ感", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "add crunchiness", "ja": "カリカリ感を加える" },
+      { "en": "the crunchiness of nuts", "ja": "ナッツの歯ごたえ" },
+      { "en": "lose its crunchiness", "ja": "サクサク感を失う" },
+      { "en": "extra crunchiness", "ja": "さらなるカリカリ感" },
+      { "en": "a satisfying crunchiness", "ja": "満足のいく歯ごたえ" },
+      { "en": "the right crunchiness", "ja": "ちょうどよいサクサク感" }
+    ],
+    "related": [
+      { "en": "crunchy", "ja": "カリカリした" },
+      { "en": "crispy", "ja": "パリッとした" },
+      { "en": "texture", "ja": "食感・質感" },
+      { "en": "crunch", "ja": "バリバリかむ" }
+    ],
+    "faq": [
+      { "q": "crunchiness と crispiness の違いは？", "a": "crunchiness（カリカリ・ザクザク感）はナッツや生野菜のような、かむと硬めの歯ごたえ、crispiness（パリパリ感）は揚げ物やせんべいのような、軽く割れるような食感を指すことが多いです。" },
+      { "q": "crunchiness の形容詞形は？", "a": "crunchy（カリカリした・サクサクした・歯ごたえのある）です。" }
+    ],
+    "quiz": [
+      { "q": "crunchiness の意味は？", "A": "カリカリ感・サクサク感・歯ごたえ", "B": "甘さ", "C": "苦さ", "D": "冷たさ", "correct": "A" },
+      { "q": "crunchiness の形容詞形は？", "A": "crunchy", "B": "creamy", "C": "chewy", "D": "crispy", "correct": "A" }
+    ]
+  },
+  {
+    "english": "crunchy",
+    "pron": "ˈkrʌntʃi",
+    "kana": "クランチー",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "crunch（バリバリかむ）+ -y",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "料理・食感"],
+    "meaning_main": "カリカリした / サクサクした / 歯ごたえのある",
+    "description": "crunchy（クランチー）は「カリカリした・サクサクした」を表す形容詞。食べ物がかむとカリッ・ザクッと音を立てる、心地よい歯ごたえがあるさまを表します。",
+    "keywords": ["crunchy 意味", "カリカリ 英語", "サクサク 英語", "歯ごたえ 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】カリカリした、サクサクした、歯ごたえのある", "note": "かむとカリッ・ザクッと音を立てる食感のさま" }
+    ],
+    "usages": [
+      { "title": "① 食べ物の食感", "desc": "カリカリ", "example_en": "These cookies are nice and crunchy.", "example_ja": "このクッキーはほどよくサクサクしている。" },
+      { "title": "② 生野菜など", "desc": "歯ごたえがある", "example_en": "I like my vegetables crunchy.", "example_ja": "私は野菜が歯ごたえのある方が好きだ。" }
+    ],
+    "warn": ["名詞は crunchiness（カリカリ感）。反対は soggy（ふやけた）・soft（やわらかい）"],
+    "etym_note": "かむときの音をまねた擬音語 crunch（バリバリかむ）に、「〜の性質の」を表す -y が付いた語。",
+    "etym_chain": [
+      { "node": "crunch", "sub": "バリバリかむ(擬音)", "era": "近代英語" },
+      { "node": "crunchy", "sub": "カリカリした", "era": "19世紀" }
+    ],
+    "phrases": [
+      { "en": "crunchy vegetables", "ja": "歯ごたえのある野菜" },
+      { "en": "nice and crunchy", "ja": "ほどよくサクサクした" },
+      { "en": "a crunchy texture", "ja": "カリカリした食感" },
+      { "en": "crunchy peanut butter", "ja": "粒入りピーナッツバター" },
+      { "en": "stay crunchy", "ja": "カリカリのままである" },
+      { "en": "crunchy on the outside", "ja": "外側がカリッとした" }
+    ],
+    "related": [
+      { "en": "crunchiness", "ja": "カリカリ感" },
+      { "en": "crispy", "ja": "パリッとした" },
+      { "en": "soggy", "ja": "ふやけた" },
+      { "en": "chewy", "ja": "かみごたえのある" }
+    ],
+    "faq": [
+      { "q": "crunchy と crispy の違いは？", "a": "crunchy は「（ナッツや生野菜のように）硬めでザクザク・カリカリした」、crispy は「（揚げ物やせんべいのように）軽く割れるパリパリした」食感を指すことが多いです。" },
+      { "q": "crunchy の反対は？", "a": "soggy（水分でふやけた）や soft（やわらかい）です。カリカリ感が失われた状態を表します。" }
+    ],
+    "quiz": [
+      { "q": "crunchy の意味は？", "A": "カリカリした・歯ごたえのある", "B": "やわらかい", "C": "水っぽい", "D": "甘い", "correct": "A" },
+      { "q": "crunchy の反対にあたる語は？", "A": "soggy(ふやけた)", "B": "hard(硬い)", "C": "fresh(新鮮な)", "D": "spicy(辛い)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "crying",
+    "pron": "ˈkraɪɪŋ",
+    "kana": "クライング",
+    "hinshi": "名詞 / 動詞(cry の現在分詞) / 形容詞",
+    "ld_pos": "名詞・動詞・形容詞",
+    "ld_etym": "cry（泣く・叫ぶ）+ -ing",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "頻出"],
+    "meaning_main": "泣くこと / 泣き声 / 差し迫った",
+    "description": "crying（クライング）は cry（泣く・叫ぶ）の現在分詞。「泣くこと・泣き声」を表し、また a crying need（差し迫った必要）のように形容詞的にも使います。",
+    "keywords": ["crying 意味", "泣く 英語", "cry 現在分詞", "泣き声 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】泣くこと、泣き声", "note": "涙を流して声を上げること" },
+      { "hinshi": "【形容詞】差し迫った、切実な", "note": "a crying need（差し迫った必要）など" },
+      { "hinshi": "【動詞】cry（泣く・叫ぶ）の現在分詞", "note": "「泣いている」「叫んでいる」" }
+    ],
+    "usages": [
+      { "title": "① 泣くこと", "desc": "涙を流す", "example_en": "The baby's crying kept us awake.", "example_ja": "赤ちゃんの泣き声で私たちは眠れなかった。" },
+      { "title": "② 切実な必要", "desc": "差し迫った", "example_en": "There is a crying need for reform.", "example_ja": "改革が切実に必要とされている。" }
+    ],
+    "warn": ["a crying shame で「実に残念なこと」、a crying need で「差し迫った必要」の定番表現"],
+    "etym_note": "ラテン語 quiritare（叫ぶ）に由来する cry（泣く・叫ぶ）の -ing 形。名詞・形容詞・現在分詞として使われる。",
+    "etym_chain": [
+      { "node": "quiritare", "sub": "叫ぶ(ラテン語)", "era": "ラテン語" },
+      { "node": "cry", "sub": "泣く・叫ぶ", "era": "13世紀" },
+      { "node": "crying", "sub": "泣くこと", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "start crying", "ja": "泣き始める" },
+      { "en": "a crying baby", "ja": "泣いている赤ちゃん" },
+      { "en": "a crying shame", "ja": "実に残念なこと" },
+      { "en": "a crying need", "ja": "差し迫った必要" },
+      { "en": "burst out crying", "ja": "わっと泣き出す" },
+      { "en": "stop crying", "ja": "泣きやむ" }
+    ],
+    "related": [
+      { "en": "cry", "ja": "泣く・叫ぶ" },
+      { "en": "weeping", "ja": "涙を流すこと" },
+      { "en": "sobbing", "ja": "すすり泣き" },
+      { "en": "laughing", "ja": "笑うこと" }
+    ],
+    "faq": [
+      { "q": "a crying shame とは？", "a": "「実に残念なこと・もったいないこと」という意味の口語表現です。It's a crying shame.（本当にもったいない）のように使います。" },
+      { "q": "a crying need とは？", "a": "「差し迫った必要・切実に求められること」という意味です。ここでの crying は「切実な・差し迫った」の形容詞的な使い方です。" }
+    ],
+    "quiz": [
+      { "q": "crying の意味は？", "A": "泣くこと・泣き声", "B": "笑うこと", "C": "眠ること", "D": "走ること", "correct": "A" },
+      { "q": "a crying shame の意味は？", "A": "実に残念なこと", "B": "うれしいこと", "C": "秘密のこと", "D": "危険なこと", "correct": "A" }
+    ]
+  },
+  {
+    "english": "curable",
+    "pron": "ˈkjʊərəbəl",
+    "kana": "キュアラブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "cure（治す）+ -able（〜できる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "医学"],
+    "meaning_main": "治癒可能な / 治せる",
+    "description": "curable（キュアラブル）は「治癒可能な・治せる」を表す形容詞。病気などが治療によって治せることを表します。反対は incurable（治らない）です。",
+    "keywords": ["curable 意味", "治せる 英語", "治癒可能 英語", "cure 形容詞"],
+    "meanings": [
+      { "hinshi": "【形容詞】治癒可能な、治せる", "note": "病気などが治療で治せるさま" }
+    ],
+    "usages": [
+      { "title": "① 治せる病気", "desc": "治療可能", "example_en": "Many cancers are curable if caught early.", "example_ja": "多くのがんは早期に見つかれば治癒可能だ。" },
+      { "title": "② 治療の見込み", "desc": "治せる", "example_en": "The disease is now curable.", "example_ja": "その病気は今では治せる。" }
+    ],
+    "warn": ["反対語は incurable（治らない・不治の）。動詞は cure（治す）", "「治療できる（手段がある）」の treatable とはニュアンスが異なる（治す=完治）"],
+    "etym_note": "ラテン語 curare（世話をする・治療する）に由来する cure（治す）に、「〜できる」を表す接尾辞 -able が付いた語。",
+    "etym_chain": [
+      { "node": "curare", "sub": "治療する(ラテン語)", "era": "ラテン語" },
+      { "node": "cure", "sub": "治す", "era": "14世紀" },
+      { "node": "curable", "sub": "治せる", "era": "14世紀" }
+    ],
+    "phrases": [
+      { "en": "a curable disease", "ja": "治せる病気" },
+      { "en": "easily curable", "ja": "簡単に治せる" },
+      { "en": "curable if treated early", "ja": "早期治療で治せる" },
+      { "en": "a curable condition", "ja": "治せる病状" },
+      { "en": "fully curable", "ja": "完全に治せる" },
+      { "en": "curable cancer", "ja": "治せるがん" }
+    ],
+    "related": [
+      { "en": "cure", "ja": "治す・治療" },
+      { "en": "incurable", "ja": "治らない・不治の" },
+      { "en": "treatable", "ja": "治療可能な" },
+      { "en": "curative", "ja": "治療の・治す力のある" }
+    ],
+    "faq": [
+      { "q": "curable の反対語は？", "a": "incurable（治らない・不治の）です。curable は治せる、incurable は完治しないことを表します。" },
+      { "q": "curable と treatable の違いは？", "a": "curable は「（完治まで）治せる」、treatable は「（症状を抑える）治療手段がある」に重点があります。治療はできても完治しない病気は treatable but not curable と言えます。" }
+    ],
+    "quiz": [
+      { "q": "curable の意味は？", "A": "治癒可能な・治せる", "B": "治らない", "C": "感染する", "D": "痛みのある", "correct": "A" },
+      { "q": "curable の反対語は？", "A": "incurable", "B": "durable", "C": "capable", "D": "valuable", "correct": "A" }
+    ]
+  },
+  {
+    "english": "curate",
+    "pron": "ˈkjʊərət",
+    "kana": "キュレート",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "ラテン語 curatus（世話をする人）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "芸術・IT"],
+    "meaning_main": "(展示・情報を)厳選して集める / 監修する / (名詞)助任司祭",
+    "description": "curate（キュレート）は「（展示や情報を）厳選して集め、まとめる」を表す動詞。美術館の展示を企画したり、良質な情報・商品を選んで提示したりすることを指します。名詞では「助任司祭」の意味もあります。",
+    "keywords": ["curate 意味", "キュレート 英語", "厳選 英語", "curate とは"],
+    "meanings": [
+      { "hinshi": "【動詞】(展示・情報を)厳選してまとめる、監修する", "note": "良質なものを選び、企画・整理して提示する" },
+      { "hinshi": "【名詞】助任司祭", "note": "教区で主任司祭を補佐する聖職者(発音は同じ)" }
+    ],
+    "usages": [
+      { "title": "① 展示を企画する", "desc": "厳選してまとめる", "example_en": "She curated an exhibition of modern art.", "example_ja": "彼女は現代美術の展覧会を企画した。" },
+      { "title": "② 情報を厳選する", "desc": "選りすぐる", "example_en": "The app curates news for each user.", "example_ja": "そのアプリはユーザーごとにニュースを厳選する。" }
+    ],
+    "warn": ["名詞 curator は「学芸員・キュレーター」。近年はネットの「情報を厳選して届ける」意味でよく使う"],
+    "etym_note": "ラテン語 curatus（cura「世話」から＝世話をする人）に由来。もとは教会の「助任司祭」を指し、そこから「（コレクションを）世話し企画する」動詞の意味が生まれた。",
+    "etym_chain": [
+      { "node": "curatus", "sub": "世話をする人(ラテン語)", "era": "ラテン語" },
+      { "node": "curate", "sub": "助任司祭・厳選する", "era": "14世紀" }
+    ],
+    "phrases": [
+      { "en": "curate an exhibition", "ja": "展覧会を企画する" },
+      { "en": "curate content", "ja": "コンテンツを厳選する" },
+      { "en": "carefully curated", "ja": "入念に厳選された" },
+      { "en": "curate a collection", "ja": "コレクションを監修する" },
+      { "en": "curate a playlist", "ja": "プレイリストを厳選する" },
+      { "en": "a well-curated selection", "ja": "よく吟味された品ぞろえ" }
+    ],
+    "related": [
+      { "en": "curator", "ja": "学芸員・キュレーター" },
+      { "en": "curation", "ja": "キュレーション・厳選" },
+      { "en": "select", "ja": "選ぶ" },
+      { "en": "exhibition", "ja": "展覧会" }
+    ],
+    "faq": [
+      { "q": "curate の現代的な意味は？", "a": "もとは美術館の展示を企画することでしたが、近年は「（大量の情報・商品から）良質なものを厳選して整理・提示する」という意味で広く使われます。" },
+      { "q": "curate と curator の関係は？", "a": "curate は動詞「厳選してまとめる」、curator はそれを行う人「学芸員・キュレーター」です。" }
+    ],
+    "quiz": [
+      { "q": "動詞 curate の意味は？", "A": "(展示・情報を)厳選してまとめる", "B": "破壊する", "C": "翻訳する", "D": "計算する", "correct": "A" },
+      { "q": "curate を行う人（学芸員）を何という？", "A": "curator", "B": "creator", "C": "curer", "D": "carrier", "correct": "A" }
+    ]
+  },
+  {
+    "english": "curation",
+    "pron": "kjʊˈreɪʃən",
+    "kana": "キュレーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "curate（厳選する）+ -ion",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "芸術・IT"],
+    "meaning_main": "キュレーション / (展示・情報の)厳選と整理",
+    "description": "curation（キュレーション）は「（展示や情報を）厳選して整理・提示すること」を表す名詞。美術館の展示企画や、ネット上で良質な情報を選んでまとめることを指します。",
+    "keywords": ["curation 意味", "キュレーション 英語", "厳選 英語", "curation とは"],
+    "meanings": [
+      { "hinshi": "【名詞】キュレーション、厳選と整理", "note": "不可算名詞。良質なものを選び、企画・整理して提示すること" }
+    ],
+    "usages": [
+      { "title": "① 展示の企画", "desc": "厳選と構成", "example_en": "The exhibition's curation was excellent.", "example_ja": "その展覧会のキュレーション（構成）は見事だった。" },
+      { "title": "② 情報の厳選", "desc": "選んでまとめる", "example_en": "Content curation helps readers find quality articles.", "example_ja": "コンテンツのキュレーションは読者が良質な記事を見つけるのに役立つ。" }
+    ],
+    "warn": ["動詞は curate（厳選する）、行う人は curator（キュレーター・学芸員）"],
+    "etym_note": "ラテン語 cura（世話）に由来する curate（厳選する・世話をする）に、名詞化の -ion が付いた語。「（コレクション・情報を）選び整理すること」の意。",
+    "etym_chain": [
+      { "node": "cura", "sub": "世話(ラテン語)", "era": "ラテン語" },
+      { "node": "curate", "sub": "厳選する", "era": "14世紀" },
+      { "node": "curation", "sub": "キュレーション", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "content curation", "ja": "コンテンツのキュレーション" },
+      { "en": "data curation", "ja": "データの整理・管理" },
+      { "en": "museum curation", "ja": "美術館の展示企画" },
+      { "en": "careful curation", "ja": "入念な厳選" },
+      { "en": "news curation", "ja": "ニュースのキュレーション" },
+      { "en": "the curation of a collection", "ja": "コレクションの構成" }
+    ],
+    "related": [
+      { "en": "curate", "ja": "厳選する" },
+      { "en": "curator", "ja": "キュレーター・学芸員" },
+      { "en": "selection", "ja": "選択・精選" },
+      { "en": "organization", "ja": "整理・構成" }
+    ],
+    "faq": [
+      { "q": "content curation とは？", "a": "「コンテンツのキュレーション」のことです。ネット上の大量の情報から良質なものを選び、テーマごとにまとめて読者に届けることを指します。" },
+      { "q": "curation の動詞形は？", "a": "curate（厳選して整理・提示する）です。それを行う人は curator（キュレーター・学芸員）です。" }
+    ],
+    "quiz": [
+      { "q": "curation の意味は？", "A": "(展示・情報の)厳選と整理", "B": "破壊", "C": "翻訳", "D": "計算", "correct": "A" },
+      { "q": "curation の動詞形は？", "A": "curate", "B": "create", "C": "cure", "D": "carry", "correct": "A" }
+    ]
+  },
+  {
+    "english": "cursed",
+    "pron": "ˈkɜːrsɪd",
+    "kana": "カースト",
+    "hinshi": "形容詞 / 動詞(curse の過去・過去分詞)",
+    "ld_pos": "形容詞・動詞",
+    "ld_etym": "curse（呪う）+ -ed",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "頻出"],
+    "meaning_main": "呪われた / たたられた / 忌まわしい",
+    "description": "cursed（カースト）は curse（呪う）の過去・過去分詞。「呪われた・たたられた」を表し、災いや不幸につきまとわれた状態を表します。形容詞では /ˈkɜːrsɪd/（2音節）、動詞の過去形では /kɜːrst/（1音節）と発音が変わります。",
+    "keywords": ["cursed 意味", "呪われた 英語", "curse 過去形", "たたり 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】呪われた、たたられた、忌まわしい", "note": "災い・不幸につきまとわれたさま。発音 /ˈkɜːrsɪd/" },
+      { "hinshi": "【動詞】curse(呪う・ののしる)の過去・過去分詞", "note": "「呪った」「ののしった」。発音 /kɜːrst/" }
+    ],
+    "usages": [
+      { "title": "① 呪われた", "desc": "たたられた", "example_en": "The treasure was said to be cursed.", "example_ja": "その宝は呪われていると言われていた。" },
+      { "title": "② 不幸につきまとわれた", "desc": "災いの", "example_en": "The family seemed cursed by bad luck.", "example_ja": "その一家は不運につきまとわれているようだった。" }
+    ],
+    "warn": ["形容詞は2音節 /ˈkɜːrsɪd/、動詞の過去形は1音節 /kɜːrst/ と発音が異なる", "反対は blessed（祝福された）。be cursed with ... で「〜という災いを負う」"],
+    "etym_note": "古英語 cursian（呪う）に由来する curse の過去分詞・形容詞形。",
+    "etym_chain": [
+      { "node": "cursian", "sub": "呪う(古英語)", "era": "古英語" },
+      { "node": "curse", "sub": "呪う", "era": "中英語" },
+      { "node": "cursed", "sub": "呪われた", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a cursed treasure", "ja": "呪われた宝" },
+      { "en": "be cursed with", "ja": "〜という災いを負う" },
+      { "en": "a cursed place", "ja": "呪われた場所" },
+      { "en": "feel cursed", "ja": "呪われていると感じる" },
+      { "en": "the cursed ring", "ja": "呪われた指輪" },
+      { "en": "cursed by fate", "ja": "運命にたたられた" }
+    ],
+    "related": [
+      { "en": "curse", "ja": "呪う・呪い" },
+      { "en": "blessed", "ja": "祝福された" },
+      { "en": "haunted", "ja": "取りつかれた" },
+      { "en": "doomed", "ja": "運命づけられた・破滅の" }
+    ],
+    "faq": [
+      { "q": "cursed の発音は2種類ある？", "a": "はい。形容詞「呪われた」は /ˈkɜːrsɪd/（カースィド、2音節）、動詞 curse の過去形「呪った」は /kɜːrst/（カースト、1音節）と発音が異なります。" },
+      { "q": "cursed の反対語は？", "a": "blessed（祝福された）です。cursed は呪われた、blessed は恵まれた・祝福されたことを表します。" }
+    ],
+    "quiz": [
+      { "q": "cursed の意味は？", "A": "呪われた・たたられた", "B": "祝福された", "C": "選ばれた", "D": "守られた", "correct": "A" },
+      { "q": "cursed の反対語は？", "A": "blessed", "B": "closed", "C": "caused", "D": "crossed", "correct": "A" }
+    ]
+  },
+  {
+    "english": "cursive",
+    "pron": "ˈkɜːrsɪv",
+    "kana": "カーシブ",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "形容詞・名詞",
+    "ld_etym": "ラテン語 currere（走る）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文字・書写"],
+    "meaning_main": "筆記体の / 続け書きの / 筆記体",
+    "description": "cursive（カーシブ）は「筆記体の・続け書きの」を表す形容詞、また「筆記体」を表す名詞。文字をつなげて流れるように書く書き方を指します。1文字ずつ離して書く活字体（block letters）と対比されます。",
+    "keywords": ["cursive 意味", "筆記体 英語", "続け書き 英語", "cursive とは"],
+    "meanings": [
+      { "hinshi": "【形容詞】筆記体の、続け書きの", "note": "文字をつなげて流れるように書くさま" },
+      { "hinshi": "【名詞】筆記体", "note": "文字をつなげて書く書体" }
+    ],
+    "usages": [
+      { "title": "① 筆記体で書く", "desc": "続け書き", "example_en": "She wrote the letter in cursive.", "example_ja": "彼女はその手紙を筆記体で書いた。" },
+      { "title": "② 書体として", "desc": "つなげた書き方", "example_en": "Cursive is harder to read than print.", "example_ja": "筆記体は活字体より読みにくい。" }
+    ],
+    "warn": ["活字体（1文字ずつ離す）は block letters / print。cursive は文字をつなげて書く"],
+    "etym_note": "ラテン語 currere（走る）に由来する語。ペンが紙の上を「走る」ように文字を続けて書くことから「筆記体」の意味に。",
+    "etym_chain": [
+      { "node": "currere", "sub": "走る(ラテン語)", "era": "ラテン語" },
+      { "node": "cursive", "sub": "筆記体の", "era": "18世紀" }
+    ],
+    "phrases": [
+      { "en": "in cursive", "ja": "筆記体で" },
+      { "en": "cursive writing", "ja": "筆記体の書き方" },
+      { "en": "cursive handwriting", "ja": "筆記体の手書き" },
+      { "en": "learn cursive", "ja": "筆記体を習う" },
+      { "en": "elegant cursive", "ja": "優美な筆記体" },
+      { "en": "cursive letters", "ja": "筆記体の文字" }
+    ],
+    "related": [
+      { "en": "handwriting", "ja": "手書き" },
+      { "en": "print", "ja": "活字体・印刷" },
+      { "en": "calligraphy", "ja": "書道・カリグラフィー" },
+      { "en": "script", "ja": "書体・筆記" }
+    ],
+    "faq": [
+      { "q": "cursive と print の違いは？", "a": "cursive（筆記体）は文字をつなげて流れるように書く書き方、print（活字体・ブロック体）は1文字ずつ離してはっきり書く書き方です。" },
+      { "q": "cursive の語源は？", "a": "ラテン語 currere（走る）です。ペンが紙の上を「走る」ように文字を続けて書くことから来ています。" }
+    ],
+    "quiz": [
+      { "q": "cursive の意味は？", "A": "筆記体の・続け書きの", "B": "活字体の", "C": "太字の", "D": "手描きの絵の", "correct": "A" },
+      { "q": "cursive と対比される書き方は？", "A": "print(活字体)", "B": "cursor(カーソル)", "C": "curse(呪い)", "D": "course(講座)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "curtains",
+    "pron": "ˈkɜːrtənz",
+    "kana": "カーテンズ",
+    "hinshi": "名詞(curtain の複数形)",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 cortina（囲い・幕）から",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "日常"],
+    "meaning_main": "カーテン / (舞台の)幕 / 終わり",
+    "description": "curtains（カーテンズ）は curtain の複数形。窓にかける「カーテン」や、舞台の「幕」を指します。口語で it's curtains で「万事休す・終わりだ」の比喩も表します。",
+    "keywords": ["curtains 意味", "カーテン 英語", "curtain 複数形", "幕 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】カーテン", "note": "複数形。窓や部屋の仕切りにかける布" },
+      { "hinshi": "【名詞】(舞台の)幕", "note": "劇場のステージを仕切る幕" },
+      { "hinshi": "【名詞・口語】終わり、破滅", "note": "it's curtains (for ...) で「（〜は）もう終わりだ」" }
+    ],
+    "usages": [
+      { "title": "① 窓のカーテン", "desc": "布の仕切り", "example_en": "She drew the curtains at night.", "example_ja": "彼女は夜にカーテンを引いた。" },
+      { "title": "② 終わりの比喩", "desc": "万事休す", "example_en": "If they find out, it's curtains for us.", "example_ja": "もし彼らにばれたら、私たちはおしまいだ。" }
+    ],
+    "warn": ["draw the curtains は文脈で「カーテンを引く（閉める）」または「開ける」。it's curtains で「もう終わりだ」の口語", "2枚1組で使うことが多く複数形 curtains"],
+    "etym_note": "ラテン語 cortina（囲い・幕）に由来する curtain の複数形。窓や舞台を仕切る布を指す。",
+    "etym_chain": [
+      { "node": "cortina", "sub": "囲い・幕(ラテン語)", "era": "ラテン語" },
+      { "node": "curtain", "sub": "カーテン・幕", "era": "13世紀" },
+      { "node": "curtains", "sub": "カーテン", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "draw the curtains", "ja": "カーテンを引く" },
+      { "en": "open the curtains", "ja": "カーテンを開ける" },
+      { "en": "close the curtains", "ja": "カーテンを閉める" },
+      { "en": "behind the curtains", "ja": "カーテンの陰で" },
+      { "en": "it's curtains for", "ja": "〜はもう終わりだ" },
+      { "en": "the stage curtains", "ja": "舞台の幕" }
+    ],
+    "related": [
+      { "en": "curtain", "ja": "カーテン・幕" },
+      { "en": "blinds", "ja": "ブラインド" },
+      { "en": "drapes", "ja": "ドレープ・カーテン(米)" },
+      { "en": "window", "ja": "窓" }
+    ],
+    "faq": [
+      { "q": "it's curtains の意味は？", "a": "「（〜は）もう終わりだ・万事休す・おしまいだ」という口語表現です。舞台の幕が下りて劇が終わることから来ています。it's curtains for him（彼はもうおしまいだ）のように使います。" },
+      { "q": "curtains と blinds の違いは？", "a": "curtains は「布製のカーテン」、blinds は「（羽根状の）ブラインド」です。どちらも窓の日よけ・目隠しに使います。" }
+    ],
+    "quiz": [
+      { "q": "curtains の意味は？", "A": "カーテン／(舞台の)幕", "B": "床", "C": "天井", "D": "階段", "correct": "A" },
+      { "q": "it's curtains の口語的な意味は？", "A": "もう終わりだ", "B": "始まりだ", "C": "休憩だ", "D": "成功だ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "curving",
+    "pron": "ˈkɜːrvɪŋ",
+    "kana": "カービング",
+    "hinshi": "形容詞 / 動詞(curve の現在分詞)",
+    "ld_pos": "形容詞・動詞",
+    "ld_etym": "curve（曲がる）+ -ing",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "頻出"],
+    "meaning_main": "曲がっている / 湾曲する / カーブした",
+    "description": "curving（カービング）は curve（曲がる）の現在分詞。「曲がっている・湾曲する」を表し、まっすぐでなくゆるやかに曲線を描いている様子を表します。",
+    "keywords": ["curving 意味", "曲がる 英語", "curve 現在分詞", "湾曲 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】曲がっている、湾曲する、カーブした", "note": "曲線を描いているさま" },
+      { "hinshi": "【動詞】curve（曲がる・曲げる）の現在分詞", "note": "「曲がっている」" }
+    ],
+    "usages": [
+      { "title": "① 曲がった道・線", "desc": "湾曲する", "example_en": "The road was curving through the hills.", "example_ja": "その道は丘の間を曲がりくねっていた。" },
+      { "title": "② 曲線を描く", "desc": "カーブした", "example_en": "A curving staircase led upstairs.", "example_ja": "曲線を描く階段が上へと続いていた。" }
+    ],
+    "warn": ["名詞は curve（曲線・カーブ）。彫刻の carving（彫ること）とは別の語なので注意"],
+    "etym_note": "ラテン語 curvus（曲がった）に由来する curve（曲がる）の -ing 形。",
+    "etym_chain": [
+      { "node": "curvus", "sub": "曲がった(ラテン語)", "era": "ラテン語" },
+      { "node": "curve", "sub": "曲がる・曲線", "era": "15世紀" },
+      { "node": "curving", "sub": "曲がっている", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a curving road", "ja": "曲がりくねった道" },
+      { "en": "a curving line", "ja": "曲線" },
+      { "en": "curving upward", "ja": "上に湾曲して" },
+      { "en": "a curving staircase", "ja": "曲線階段" },
+      { "en": "gently curving", "ja": "ゆるやかに曲がる" },
+      { "en": "a curving coastline", "ja": "湾曲した海岸線" }
+    ],
+    "related": [
+      { "en": "curve", "ja": "曲がる・曲線" },
+      { "en": "curved", "ja": "曲がった" },
+      { "en": "bending", "ja": "曲がること" },
+      { "en": "straight", "ja": "まっすぐな" }
+    ],
+    "faq": [
+      { "q": "curving と curved の違いは？", "a": "curving は「（今）曲がっている・湾曲する（-ing）」、curved は「曲がった（状態）（-ed）」です。a curving road（曲がりくねる道）／a curved line（曲がった線）。" },
+      { "q": "curving と carving を混同しないコツは？", "a": "curving は curve（曲がる）から「曲がっている」、carving は carve（彫る）から「彫ること・彫刻」です。綴りと意味が別なので注意しましょう。" }
+    ],
+    "quiz": [
+      { "q": "curving の意味は？", "A": "曲がっている・湾曲する", "B": "まっすぐな", "C": "止まっている", "D": "彫刻された", "correct": "A" },
+      { "q": "curving の名詞形は？", "A": "curve", "B": "carve", "C": "cave", "D": "curl", "correct": "A" }
+    ]
+  },
+  {
+    "english": "cuticle",
+    "pron": "ˈkjuːtɪkəl",
+    "kana": "キューティクル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 cuticula（小さな皮）から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "美容・生物"],
+    "meaning_main": "甘皮 / (毛髪・植物の)表皮・クチクラ",
+    "description": "cuticle（キューティクル）は「甘皮」を表す名詞。爪の付け根を覆う薄い皮を指します。また、髪の毛の表面のうろこ状の層や、植物・昆虫の外側を覆う保護層（クチクラ）も指します。",
+    "keywords": ["cuticle 意味", "甘皮 英語", "キューティクル 英語", "表皮 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】甘皮", "note": "可算名詞。爪の付け根を覆う薄い皮" },
+      { "hinshi": "【名詞】(毛髪・植物・昆虫の)表皮、クチクラ", "note": "外側を覆う保護層" }
+    ],
+    "usages": [
+      { "title": "① 爪の甘皮", "desc": "爪の付け根の皮", "example_en": "Push back the cuticle gently.", "example_ja": "甘皮をやさしく押し戻しなさい。" },
+      { "title": "② 髪や植物の表皮", "desc": "保護層", "example_en": "The cuticle protects the hair shaft.", "example_ja": "キューティクルは髪の芯を守っている。" }
+    ],
+    "warn": ["「小さな皮」を表すラテン語由来。髪の表面の層は hair cuticle（キューティクル）"],
+    "etym_note": "ラテン語 cuticula（cutis「皮膚」の縮小形＝小さな皮）に由来する語。「（表面を覆う）薄い皮」の意。",
+    "etym_chain": [
+      { "node": "cuticula", "sub": "小さな皮(ラテン語)", "era": "ラテン語" },
+      { "node": "cuticle", "sub": "甘皮・表皮", "era": "17世紀" }
+    ],
+    "phrases": [
+      { "en": "push back the cuticle", "ja": "甘皮を押し戻す" },
+      { "en": "cuticle oil", "ja": "甘皮用オイル" },
+      { "en": "the hair cuticle", "ja": "髪のキューティクル" },
+      { "en": "trim the cuticles", "ja": "甘皮を整える" },
+      { "en": "damaged cuticles", "ja": "傷んだキューティクル" },
+      { "en": "the plant cuticle", "ja": "植物のクチクラ" }
+    ],
+    "related": [
+      { "en": "nail", "ja": "爪" },
+      { "en": "skin", "ja": "皮膚" },
+      { "en": "hair", "ja": "髪" },
+      { "en": "epidermis", "ja": "表皮" }
+    ],
+    "faq": [
+      { "q": "cuticle にはどんな意味がある？", "a": "主に「爪の甘皮」を指しますが、「髪の毛の表面のうろこ状の層（キューティクル）」や「植物・昆虫の表面を覆う保護層（クチクラ）」の意味もあります。" },
+      { "q": "hair cuticle とは？", "a": "髪の毛の一番外側にある、うろこ状に重なった層のことです。髪の内部を保護し、つやを保つ役割があります。" }
+    ],
+    "quiz": [
+      { "q": "cuticle の意味は？", "A": "甘皮・(毛髪や植物の)表皮", "B": "骨", "C": "筋肉", "D": "血管", "correct": "A" },
+      { "q": "hair cuticle とは？", "A": "髪の表面のうろこ状の層", "B": "髪の色素", "C": "髪の根", "D": "頭皮", "correct": "A" }
+    ]
+  },
+  {
+    "english": "cyberattack",
+    "pron": "ˈsaɪbərətæk",
+    "kana": "サイバーアタック",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "cyber-（コンピュータ・ネットの）+ attack（攻撃）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "IT・ニュース"],
+    "meaning_main": "サイバー攻撃",
+    "description": "cyberattack（サイバーアタック）は「サイバー攻撃」を表す名詞。コンピュータやネットワークを標的に、不正侵入・データ破壊・情報窃取などを行う攻撃を指します。",
+    "keywords": ["cyberattack 意味", "サイバー攻撃 英語", "cyber 接頭辞", "cyberattack とは"],
+    "meanings": [
+      { "hinshi": "【名詞】サイバー攻撃", "note": "可算名詞。コンピュータ・ネットワークを標的にした不正な攻撃。cyber attack と2語でも書く" }
+    ],
+    "usages": [
+      { "title": "① 攻撃を受ける", "desc": "システムへの攻撃", "example_en": "The company was hit by a cyberattack.", "example_ja": "その会社はサイバー攻撃を受けた。" },
+      { "title": "② 対策の文脈で", "desc": "防御する", "example_en": "They strengthened defenses against cyberattacks.", "example_ja": "彼らはサイバー攻撃への防御を強化した。" }
+    ],
+    "warn": ["cyber- は「コンピュータ・インターネットの」を表す接頭辞（cyberspace, cybercrime など）"],
+    "etym_note": "cyber-（cybernetics「サイバネティックス」から＝コンピュータ・ネットの）と attack（攻撃）を組み合わせた語。ネット社会の広がりとともに使われるようになった。",
+    "etym_chain": [
+      { "node": "cyber + attack", "sub": "ネットの＋攻撃", "era": "20世紀末" },
+      { "node": "cyberattack", "sub": "サイバー攻撃", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a major cyberattack", "ja": "大規模なサイバー攻撃" },
+      { "en": "launch a cyberattack", "ja": "サイバー攻撃を仕掛ける" },
+      { "en": "prevent cyberattacks", "ja": "サイバー攻撃を防ぐ" },
+      { "en": "a cyberattack on", "ja": "〜へのサイバー攻撃" },
+      { "en": "the target of a cyberattack", "ja": "サイバー攻撃の標的" },
+      { "en": "recover from a cyberattack", "ja": "サイバー攻撃から復旧する" }
+    ],
+    "related": [
+      { "en": "cybersecurity", "ja": "サイバーセキュリティ" },
+      { "en": "cybercrime", "ja": "サイバー犯罪" },
+      { "en": "hacking", "ja": "ハッキング" },
+      { "en": "malware", "ja": "悪意あるソフト" }
+    ],
+    "faq": [
+      { "q": "cyberattack にはどんな種類がある？", "a": "不正侵入（ハッキング）、ウイルス・マルウェア感染、データを人質にするランサムウェア、サービスを停止させるDDoS攻撃、フィッシング詐欺など、さまざまな手口があります。" },
+      { "q": "cyber- は何を表す接頭辞？", "a": "「コンピュータ・インターネットの」を表します。cyberspace（サイバー空間）、cybersecurity（サイバーセキュリティ）、cybercrime（サイバー犯罪）などに使われます。" }
+    ],
+    "quiz": [
+      { "q": "cyberattack の意味は？", "A": "サイバー攻撃", "B": "停電", "C": "地震", "D": "火災", "correct": "A" },
+      { "q": "cyber- が表す意味は？", "A": "コンピュータ・ネットの", "B": "水の", "C": "火の", "D": "空の", "correct": "A" }
+    ]
+  },
+  {
+    "english": "cynically",
+    "pron": "ˈsɪnɪkli",
+    "kana": "シニカリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "cynical（皮肉な・冷笑的な）+ -ly",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文章表現"],
+    "meaning_main": "皮肉に / 冷笑的に / 打算的に",
+    "description": "cynically（シニカリー）は「皮肉に・冷笑的に」を表す副詞。人の善意や理想を信じず、物事を疑ってさげすむように見る態度を表します。また「（利己的に）打算的に」の意味でも使います。",
+    "keywords": ["cynically 意味", "皮肉に 英語", "冷笑的 英語", "cynical 副詞"],
+    "meanings": [
+      { "hinshi": "【副詞】皮肉に、冷笑的に", "note": "人の善意を信じず、疑ってさげすむように" },
+      { "hinshi": "【副詞】打算的に、利己的に", "note": "自分の利益だけを計算して" }
+    ],
+    "usages": [
+      { "title": "① 冷笑的に", "desc": "疑って", "example_en": "He smiled cynically at the promise.", "example_ja": "彼はその約束を冷笑的に受け流した。" },
+      { "title": "② 打算的に", "desc": "利己的に", "example_en": "The company cynically exploited the crisis.", "example_ja": "その会社は打算的に危機を利用した。" }
+    ],
+    "warn": ["形容詞は cynical（皮肉な・冷笑的な）、名詞は cynicism（冷笑・皮肉）。cynic は「冷笑家」"],
+    "etym_note": "ギリシャの哲学者一派「キニコス（犬儒）学派」に由来する cynical（冷笑的な）に、副詞化の -ly が付いた語。世間を斜めに見る態度から。",
+    "etym_chain": [
+      { "node": "kynikos", "sub": "犬のような(ギリシャ語)", "era": "ギリシャ語" },
+      { "node": "cynical", "sub": "冷笑的な", "era": "16世紀" },
+      { "node": "cynically", "sub": "皮肉に", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "smile cynically", "ja": "冷笑的にほほえむ" },
+      { "en": "cynically remark", "ja": "皮肉に言う" },
+      { "en": "cynically exploit", "ja": "打算的に利用する" },
+      { "en": "view cynically", "ja": "冷ややかに見る" },
+      { "en": "cynically dismiss", "ja": "冷笑して退ける" },
+      { "en": "act cynically", "ja": "打算的にふるまう" }
+    ],
+    "related": [
+      { "en": "cynical", "ja": "皮肉な・冷笑的な" },
+      { "en": "cynicism", "ja": "冷笑・皮肉" },
+      { "en": "cynic", "ja": "冷笑家" },
+      { "en": "sarcastically", "ja": "皮肉を込めて" }
+    ],
+    "faq": [
+      { "q": "cynically と sarcastically の違いは？", "a": "cynically は「（人の善意を信じず）冷笑的・打算的に」、sarcastically は「（相手をあてこする）嫌みな皮肉を込めて」に重点があります。" },
+      { "q": "cynically の形容詞・名詞形は？", "a": "形容詞は cynical（冷笑的な・皮肉な）、名詞は cynicism（冷笑・皮肉）、人を指す語は cynic（冷笑家）です。" }
+    ],
+    "quiz": [
+      { "q": "cynically の意味は？", "A": "皮肉に・冷笑的に・打算的に", "B": "素直に", "C": "陽気に", "D": "丁寧に", "correct": "A" },
+      { "q": "cynically の形容詞形は？", "A": "cynical", "B": "clinical", "C": "critical", "D": "chemical", "correct": "A" }
+    ]
+  },
+  {
+    "english": "dampening",
+    "pron": "ˈdæmpənɪŋ",
+    "kana": "ダンプニング",
+    "hinshi": "動詞(dampen の現在分詞) / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "dampen（湿らせる・弱める）+ -ing",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文章表現"],
+    "meaning_main": "湿らせること / (勢い・意欲を)弱めること / 減衰",
+    "description": "dampening（ダンプニング）は dampen（湿らせる・弱める）の現在分詞。「湿らせること」や、比喩で「（勢い・意欲・熱意を）そぐこと」を表します。物理では振動などの「減衰」も指します。",
+    "keywords": ["dampening 意味", "弱める 英語", "dampen 現在分詞", "そぐ 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】dampen（湿らせる・弱める）の現在分詞・動名詞", "note": "「湿らせている」「（意欲などを）そいでいる」" },
+      { "hinshi": "【名詞】減衰、抑制", "note": "勢い・振動などを弱めること" }
+    ],
+    "usages": [
+      { "title": "① 意欲をそぐ", "desc": "勢いを弱める", "example_en": "The bad news had a dampening effect on morale.", "example_ja": "その悪い知らせは士気をそぐ効果があった。" },
+      { "title": "② 湿らせる・抑える", "desc": "弱める", "example_en": "The material is good at dampening noise.", "example_ja": "その素材は騒音を抑えるのに優れている。" }
+    ],
+    "warn": ["dampen は「湿らせる」と「（熱意・勢いを）弱める・そぐ」の両義。物理では「振動を減衰させる」"],
+    "etym_note": "damp（湿った）から作られた動詞 dampen（湿らせる・弱める）の -ing 形。「湿らせて勢いを弱める」イメージから比喩的な意味に。",
+    "etym_chain": [
+      { "node": "damp", "sub": "湿った", "era": "中英語" },
+      { "node": "dampen", "sub": "湿らせる・弱める", "era": "16世紀" },
+      { "node": "dampening", "sub": "弱めること", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a dampening effect", "ja": "そぐような効果" },
+      { "en": "dampening enthusiasm", "ja": "熱意をそぐこと" },
+      { "en": "dampening demand", "ja": "需要を抑えること" },
+      { "en": "noise dampening", "ja": "騒音の抑制" },
+      { "en": "dampening the mood", "ja": "気分をそぐこと" },
+      { "en": "vibration dampening", "ja": "振動の減衰" }
+    ],
+    "related": [
+      { "en": "dampen", "ja": "湿らせる・弱める" },
+      { "en": "damp", "ja": "湿った" },
+      { "en": "weakening", "ja": "弱めること" },
+      { "en": "reducing", "ja": "減らすこと" }
+    ],
+    "faq": [
+      { "q": "dampening の比喩的な意味は？", "a": "「（熱意・勢い・気分などを）そぐ・弱める」という意味です。have a dampening effect on ...（〜に水を差す効果がある）のように使います。" },
+      { "q": "dampen の2つの意味は？", "a": "「（物を）湿らせる」と、「（熱意・勢い・音・振動などを）弱める・抑える・そぐ」の2つがあります。" }
+    ],
+    "quiz": [
+      { "q": "dampening の意味は？", "A": "湿らせること／(勢い・意欲を)弱めること", "B": "燃やすこと", "C": "強めること", "D": "凍らせること", "correct": "A" },
+      { "q": "a dampening effect の意味は？", "A": "そぐような効果", "B": "高める効果", "C": "温める効果", "D": "照らす効果", "correct": "A" }
+    ]
+  },
+  {
+    "english": "dangling",
+    "pron": "ˈdæŋɡlɪŋ",
+    "kana": "ダングリング",
+    "hinshi": "形容詞 / 動詞(dangle の現在分詞)",
+    "ld_pos": "形容詞・動詞",
+    "ld_etym": "dangle（ぶら下がる）+ -ing",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "頻出"],
+    "meaning_main": "ぶら下がっている / ぶらぶら揺れる",
+    "description": "dangling（ダングリング）は dangle（ぶら下がる）の現在分詞。「ぶら下がっている・ぶらぶら揺れる」を表し、何かが宙にゆれながら垂れ下がっている様子を表します。文法用語 dangling modifier（懸垂修飾語）でも使われます。",
+    "keywords": ["dangling 意味", "ぶら下がる 英語", "dangle 現在分詞", "揺れる 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】ぶら下がっている、ぶらぶら揺れる", "note": "宙に垂れ下がって揺れているさま" },
+      { "hinshi": "【動詞】dangle（ぶら下がる・ぶら下げる）の現在分詞", "note": "「ぶら下がっている」" }
+    ],
+    "usages": [
+      { "title": "① ぶら下がる", "desc": "垂れて揺れる", "example_en": "His legs were dangling off the chair.", "example_ja": "彼の足はいすからぶらぶらと垂れていた。" },
+      { "title": "② 垂れ下がったもの", "desc": "宙に揺れる", "example_en": "A dangling wire hung from the ceiling.", "example_ja": "垂れ下がった配線が天井からぶら下がっていた。" }
+    ],
+    "warn": ["dangling modifier は「懸垂修飾語（つながる相手が不明確な修飾語）」という文法用語", "leave someone dangling で「（返事をせず）人を宙ぶらりんにする」"],
+    "etym_note": "スカンジナビア語系の dangle（ぶら下がる・ぶらつく）の -ing 形。ゆらゆら揺れながら垂れ下がるさまを表す。",
+    "etym_chain": [
+      { "node": "dangle", "sub": "ぶら下がる", "era": "16世紀" },
+      { "node": "dangling", "sub": "ぶら下がっている", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "dangling legs", "ja": "ぶらぶらした足" },
+      { "en": "a dangling wire", "ja": "垂れ下がった配線" },
+      { "en": "dangling earrings", "ja": "揺れるイヤリング" },
+      { "en": "leave someone dangling", "ja": "人を宙ぶらりんにする" },
+      { "en": "a dangling modifier", "ja": "懸垂修飾語(文法)" },
+      { "en": "dangling from", "ja": "〜からぶら下がって" }
+    ],
+    "related": [
+      { "en": "dangle", "ja": "ぶら下がる・ぶら下げる" },
+      { "en": "hanging", "ja": "つるされた・垂れた" },
+      { "en": "swinging", "ja": "揺れる" },
+      { "en": "drooping", "ja": "垂れ下がった" }
+    ],
+    "faq": [
+      { "q": "leave someone dangling とは？", "a": "「（返事や決定をせず）人を宙ぶらりんの状態にする・じらす」という意味です。答えを保留して相手を待たせることを表します。" },
+      { "q": "dangling modifier とは？", "a": "文法で「懸垂修飾語」を指します。修飾する相手が文中に明確でなく、意味がねじれてしまう修飾語のことです。" }
+    ],
+    "quiz": [
+      { "q": "dangling の意味は？", "A": "ぶら下がっている・ぶらぶら揺れる", "B": "固定された", "C": "回転する", "D": "沈んでいる", "correct": "A" },
+      { "q": "leave someone dangling の意味は？", "A": "人を宙ぶらりんにする", "B": "人を助ける", "C": "人をほめる", "D": "人を招く", "correct": "A" }
+    ]
+  },
+  {
+    "english": "davey",
+    "pron": "ˈdeɪvi",
+    "kana": "デイビー",
+    "hinshi": "固有名詞(人名)",
+    "ld_pos": "固有名詞",
+    "ld_etym": "David（デイビッド）の愛称",
+    "ld_level": "—",
+    "badges": ["学習者向け", "固有名詞", "人名", "愛称"],
+    "meaning_main": "デイビー（男性名 David の愛称）",
+    "description": "Davey（デイビー）は男性の名前 David（デイビッド）の愛称・親しみを込めた呼び名です。Davy とも綴ります。※固有名詞なので文中では大文字。普通の英単語ではありません。",
+    "keywords": ["davey 意味", "デイビー 名前", "david 愛称", "davey とは"],
+    "meanings": [
+      { "hinshi": "【固有名詞】デイビー", "note": "男性名 David（デイビッド）の愛称。Davy とも綴る。※普通の英単語ではなく人名。実際は Davey と大文字" }
+    ],
+    "usages": [
+      { "title": "① 愛称として", "desc": "親しみを込めた呼び名", "example_en": "Everyone calls David \"Davey.\"", "example_ja": "みんなデイビッドを「デイビー」と呼ぶ。" },
+      { "title": "② 名前として", "desc": "人を指す", "example_en": "Davey is my little brother.", "example_ja": "デイビーは私の弟だ。" }
+    ],
+    "warn": ["Davey は固有名詞（人名の愛称）なので文中では大文字。普通の英単語ではありません", "Davy Jones's locker は「海の底・水死者の墓場」という船乗りの表現"],
+    "etym_note": "ヘブライ語 David（「愛される者」）に由来する男性名 David に、愛称を作る -ey が付いた形。Davy とも綴られる。",
+    "etym_chain": [
+      { "node": "David", "sub": "デイビッド(男性名)", "era": "—" },
+      { "node": "Davey", "sub": "デイビー(愛称)", "era": "現代" }
+    ],
+    "phrases": [
+      { "en": "call him Davey", "ja": "彼をデイビーと呼ぶ" },
+      { "en": "little Davey", "ja": "小さなデイビー" },
+      { "en": "Davey's house", "ja": "デイビーの家" },
+      { "en": "young Davey", "ja": "若きデイビー" },
+      { "en": "Davy Jones's locker", "ja": "海の底(船乗りの表現)" },
+      { "en": "hey, Davey", "ja": "やあ、デイビー" }
+    ],
+    "related": [
+      { "en": "david", "ja": "デイビッド(男性名)" },
+      { "en": "davy", "ja": "デイビー(別綴り)" },
+      { "en": "name", "ja": "名前" },
+      { "en": "nickname", "ja": "愛称・あだ名" }
+    ],
+    "faq": [
+      { "q": "Davey は普通の英単語？", "a": "いいえ、男性名 David（デイビッド）の愛称（固有名詞）です。Davy とも綴られます。" },
+      { "q": "Davy Jones's locker とは？", "a": "船乗りの表現で「海の底・水死者の墓場」を意味します。Davy Jones は海の悪魔を指す言い伝えです。" }
+    ],
+    "quiz": [
+      { "q": "Davey は何の愛称？", "A": "David(デイビッド)", "B": "Daniel(ダニエル)", "C": "Dennis(デニス)", "D": "Derek(デレク)", "correct": "A" },
+      { "q": "Davey の別の綴りは？", "A": "Davy", "B": "Davee", "C": "Davi", "D": "Dave-y", "correct": "A" }
+    ]
+  },
+  {
+    "english": "daycare",
+    "pron": "ˈdeɪkeər",
+    "kana": "デイケア",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "day（日中）+ care（世話）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "育児・福祉"],
+    "meaning_main": "(子どもや高齢者の)日中の預かり / 保育 / デイケア",
+    "description": "daycare（デイケア）は「日中の預かり・保育」を表す名詞。親が働いている間、子どもを日中預かって世話する保育サービスや施設を指します。高齢者向けの日中の介護サービスも指します。",
+    "keywords": ["daycare 意味", "保育 英語", "デイケア 英語", "預かり 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】(子ども・高齢者の)日中の預かり、保育、デイケア", "note": "不可算・可算。日中に子どもや高齢者を預かって世話すること・その施設。day care と2語でも書く" }
+    ],
+    "usages": [
+      { "title": "① 子どもの保育", "desc": "日中預かる", "example_en": "She takes her son to daycare every morning.", "example_ja": "彼女は毎朝、息子を保育所に連れて行く。" },
+      { "title": "② 高齢者のデイケア", "desc": "日中の介護", "example_en": "His grandmother goes to an adult daycare center.", "example_ja": "彼の祖母は高齢者向けのデイケアセンターに通っている。" }
+    ],
+    "warn": ["day（日中）+ care（世話）の複合語。daycare / day care どちらの表記もある"],
+    "etym_note": "day（日中）と care（世話・介護）を組み合わせた複合語。「日中に世話をすること」の意。",
+    "etym_chain": [
+      { "node": "day + care", "sub": "日中＋世話", "era": "20世紀" },
+      { "node": "daycare", "sub": "日中の預かり・保育", "era": "20世紀" }
+    ],
+    "phrases": [
+      { "en": "a daycare center", "ja": "保育所・デイケアセンター" },
+      { "en": "take to daycare", "ja": "保育所に連れて行く" },
+      { "en": "child daycare", "ja": "子どもの保育" },
+      { "en": "adult daycare", "ja": "高齢者向けデイケア" },
+      { "en": "in daycare", "ja": "保育所に預けて" },
+      { "en": "daycare workers", "ja": "保育士" }
+    ],
+    "related": [
+      { "en": "care", "ja": "世話・介護" },
+      { "en": "nursery", "ja": "託児所・保育園" },
+      { "en": "childcare", "ja": "育児・保育" },
+      { "en": "preschool", "ja": "幼稚園・就学前教育" }
+    ],
+    "faq": [
+      { "q": "daycare と nursery の違いは？", "a": "どちらも子どもを預かる施設ですが、daycare は「（働く親のために）日中預かって世話する」ことに重点があり、nursery（英）は保育園・託児所を指します。地域で呼び方が異なります。" },
+      { "q": "daycare は子ども以外にも使う？", "a": "はい。adult daycare（高齢者向けデイケア）のように、日中に高齢者を預かって介護・世話するサービスも指します。" }
+    ],
+    "quiz": [
+      { "q": "daycare の意味は？", "A": "日中の預かり・保育", "B": "夜間学校", "C": "病院", "D": "図書館", "correct": "A" },
+      { "q": "daycare は何と何の複合語？", "A": "day + care", "B": "daily + care", "C": "day + carry", "D": "dawn + care", "correct": "A" }
+    ]
+  }
+]
