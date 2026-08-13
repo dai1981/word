@@ -1,0 +1,995 @@
+[
+{
+  "english": "sheathe",
+  "pron": "ʃiːð",
+  "kana": "シーズ",
+  "hinshi": "動詞",
+  "ld_pos": "動詞",
+  "ld_etym": "sheath(鞘)の動詞形",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "他動詞"],
+  "meaning_main": "(剣を)鞘に収める/覆う/包む",
+  "description": "sheathe（シーズ）は「(剣を)鞘に収める・覆う・包む」。名詞sheath(鞘)の動詞形。ケーブルの被覆などにも使う。意味・使い方・例文・関連語を解説。",
+  "keywords": ["sheathe 意味", "sheathe 使い方", "sheath 動詞", "sheathe 例文"],
+  "meanings": [
+    { "hinshi": "【動詞】(剣を)鞘に収める", "note": "刀剣を鞘(sheath)にしまう。他動詞" },
+    { "hinshi": "【動詞】覆う・包む", "note": "保護のために表面を覆う。ケーブルの被覆や外壁材にも使う" }
+  ],
+  "usages": [
+    { "title": "① sheathe a sword（剣を鞘に収める）", "desc": "刀剣をしまう", "example_en": "The knight sheathed his sword.", "example_ja": "騎士は剣を鞘に収めた。" },
+    { "title": "② be sheathed in（〜で覆われている）", "desc": "何かに包まれた状態", "example_en": "The cable is sheathed in rubber.", "example_ja": "そのケーブルはゴムで被覆されている。" }
+  ],
+  "warn": ["名詞 sheath（鞘）は語尾が /θ/、動詞 sheathe は語尾が /ð/ で綴りに e が付く", "対義語は unsheathe（鞘から抜く）や draw（抜く）"],
+  "etym_note": "名詞 sheath（古英語 scæþ「鞘」）から派生した動詞。名詞に e を付けて動詞化する古い語形成による。",
+  "etym_chain": [
+    { "node": "scæþ", "sub": "鞘(古英語)", "era": "古英語" },
+    { "node": "sheath", "sub": "鞘", "era": "中英語" },
+    { "node": "sheathe", "sub": "鞘に収める・覆う", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "sheathe a sword", "ja": "剣を鞘に収める" },
+    { "en": "sheathe a knife", "ja": "ナイフを鞘に収める" },
+    { "en": "be sheathed in rubber", "ja": "ゴムで被覆されている" },
+    { "en": "sheathe a cable", "ja": "ケーブルを被覆する" },
+    { "en": "sheathe one's claws", "ja": "爪を隠す・矛を収める" },
+    { "en": "sheathe the blade", "ja": "刃を鞘に収める" }
+  ],
+  "related": [
+    { "en": "sheath", "ja": "鞘・覆い" },
+    { "en": "unsheathe", "ja": "鞘から抜く" },
+    { "en": "cover", "ja": "覆う" },
+    { "en": "wrap", "ja": "包む" }
+  ],
+  "faq": [
+    { "q": "sheath と sheathe の違いは？", "a": "sheath は名詞で『鞘・覆い』（発音は/シース/）、sheathe は動詞で『鞘に収める・覆う』（発音は/シーズ/、語尾に e が付く）です。" },
+    { "q": "対義語は？", "a": "unsheathe（鞘から抜く）です。剣を『抜く』は draw a sword とも言います。" }
+  ],
+  "quiz": [
+    { "q": "sheathe の意味は？", "A": "(剣を)鞘に収める", "B": "剣を抜く", "C": "剣を折る", "D": "剣を磨く", "correct": "A" },
+    { "q": "sheathe の対義語は？", "A": "unsheathe", "B": "cover", "C": "wrap", "D": "hide", "correct": "A" }
+  ]
+},
+{
+  "english": "shelf-stable",
+  "pron": "ˈʃɛlf ˌsteɪbl",
+  "kana": "シェルフステイブル",
+  "hinshi": "形容詞",
+  "ld_pos": "形容詞",
+  "ld_etym": "shelf(棚)+stable(安定した)",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "食品用語"],
+  "meaning_main": "常温保存できる/長期保存がきく(食品)",
+  "description": "shelf-stable（シェルフステイブル）は「常温で長期保存できる」食品を表す形容詞。冷蔵不要で棚に置ける状態。意味・使い方・例文・関連語を解説。",
+  "keywords": ["shelf-stable 意味", "shelf stable 食品", "常温保存 英語", "shelf-stable 例文"],
+  "meanings": [
+    { "hinshi": "【形容詞】常温保存できる", "note": "冷蔵・冷凍せずに棚(shelf)に置いても品質が安定している食品について" }
+  ],
+  "usages": [
+    { "title": "① shelf-stable food（常温保存食品）", "desc": "冷蔵不要の食品", "example_en": "Canned soup is shelf-stable for years.", "example_ja": "缶詰スープは何年も常温保存がきく。" },
+    { "title": "② keep something shelf-stable（常温保存を保つ）", "desc": "保存性を確保すること", "example_en": "The packaging keeps the product shelf-stable.", "example_ja": "その包装が製品の常温保存性を保っている。" }
+  ],
+  "warn": ["食品・製品用語。開封前・常温での保存性を指す（開封後は要冷蔵のことが多い）", "perishable（傷みやすい・要冷蔵）が反対の性質"],
+  "etym_note": "shelf（棚）＋stable（安定した）の複合語。「棚に置いても安定している」＝常温で日持ちする、の意味。",
+  "etym_chain": [
+    { "node": "shelf + stable", "sub": "棚＋安定した", "era": "現代英語" },
+    { "node": "shelf-stable", "sub": "常温保存できる", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "shelf-stable food", "ja": "常温保存食品" },
+    { "en": "shelf-stable products", "ja": "常温保存製品" },
+    { "en": "a shelf-stable meal", "ja": "常温保存できる食事" },
+    { "en": "keep it shelf-stable", "ja": "常温保存を保つ" },
+    { "en": "shelf-stable packaging", "ja": "常温保存用包装" },
+    { "en": "shelf-stable for months", "ja": "数か月常温保存がきく" }
+  ],
+  "related": [
+    { "en": "perishable", "ja": "傷みやすい" },
+    { "en": "preservative", "ja": "保存料" },
+    { "en": "canned", "ja": "缶詰の" },
+    { "en": "shelf life", "ja": "保存可能期間" }
+  ],
+  "faq": [
+    { "q": "shelf-stable と perishable の違いは？", "a": "shelf-stable は『常温で長く日持ちする』、perishable は『傷みやすく要冷蔵』という反対の性質です。缶詰やレトルトは shelf-stable、生鮮食品は perishable です。" },
+    { "q": "shelf life とは？", "a": "shelf life は『(品質が保たれる)保存可能期間』のことです。shelf-stable な食品は shelf life が長い傾向があります。" }
+  ],
+  "quiz": [
+    { "q": "shelf-stable の意味は？", "A": "常温で長期保存できる", "B": "冷凍が必要な", "C": "すぐ傷む", "D": "生の", "correct": "A" },
+    { "q": "shelf-stable と反対の性質は？", "A": "perishable", "B": "canned", "C": "dry", "D": "sealed", "correct": "A" }
+  ]
+},
+{
+  "english": "shelling",
+  "pron": "ˈʃɛlɪŋ",
+  "kana": "シェリング",
+  "hinshi": "名詞 / 動詞(現在分詞)",
+  "ld_pos": "名詞",
+  "ld_etym": "shell(砲弾・殻)+-ing",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "不可算名詞"],
+  "meaning_main": "砲撃/(殻・さやを)むくこと",
+  "description": "shelling（シェリング）は「砲撃」または「(豆などの殻・さやを)むくこと」。動詞shellの-ing形。意味・使い方・例文・関連語をわかりやすく解説。",
+  "keywords": ["shelling 意味", "shelling 砲撃", "shell ing", "shelling 例文"],
+  "meanings": [
+    { "hinshi": "【名詞】砲撃", "note": "砲弾(shell)を撃ち込むこと。不可算名詞" },
+    { "hinshi": "【動詞】(殻・さやを)むいている", "note": "shell（殻をむく）の現在分詞。豆・エビ・貝などに使う" }
+  ],
+  "usages": [
+    { "title": "① heavy shelling（激しい砲撃）", "desc": "戦争での砲撃", "example_en": "The city came under heavy shelling.", "example_ja": "その都市は激しい砲撃にさらされた。" },
+    { "title": "② shelling peas（豆のさやむき）", "desc": "殻・さやを取り除くこと", "example_en": "She spent the morning shelling peas.", "example_ja": "彼女は午前中、豆のさやむきをして過ごした。" }
+  ],
+  "warn": ["名詞 shell には『砲弾』と『殻・貝殻』の両方の意味があるため、shelling も文脈で『砲撃』か『殻むき』かが決まる", "軍事の『砲撃』では bombardment も類語"],
+  "etym_note": "shell（古英語 sciell「殻」）＋-ing。『殻』から『砲弾』の意味が生まれ、その動詞化 shell（砲撃する／殻をむく）の-ing形。",
+  "etym_chain": [
+    { "node": "sciell", "sub": "殻(古英語)", "era": "古英語" },
+    { "node": "shell", "sub": "殻・砲弾", "era": "近代英語" },
+    { "node": "shelling", "sub": "砲撃・殻むき", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "heavy shelling", "ja": "激しい砲撃" },
+    { "en": "constant shelling", "ja": "絶え間ない砲撃" },
+    { "en": "come under shelling", "ja": "砲撃にさらされる" },
+    { "en": "shelling peas", "ja": "豆のさやむき" },
+    { "en": "shelling shrimp", "ja": "エビの殻むき" },
+    { "en": "artillery shelling", "ja": "大砲による砲撃" }
+  ],
+  "related": [
+    { "en": "shell", "ja": "砲弾・殻" },
+    { "en": "bombardment", "ja": "砲撃・爆撃" },
+    { "en": "artillery", "ja": "大砲・砲兵" },
+    { "en": "peel", "ja": "皮をむく" }
+  ],
+  "faq": [
+    { "q": "shelling は『砲撃』と『殻むき』どちらの意味？", "a": "文脈によります。軍事の話なら『砲撃』（heavy shelling）、料理の話なら『殻・さやむき』（shelling peas）です。どちらも名詞 shell（砲弾／殻）の動詞化に由来します。" },
+    { "q": "bombardment との違いは？", "a": "shelling は主に大砲による砲撃、bombardment は砲撃・空爆を含むより広い『集中攻撃』を指します。" }
+  ],
+  "quiz": [
+    { "q": "軍事での shelling の意味は？", "A": "砲撃", "B": "撤退", "C": "停戦", "D": "行進", "correct": "A" },
+    { "q": "shelling peas の意味は？", "A": "豆のさやをむくこと", "B": "豆を煮ること", "C": "豆をまくこと", "D": "豆を売ること", "correct": "A" }
+  ]
+},
+{
+  "english": "shenzhen",
+  "pron": "ˈʃɛnˈdʒʌn",
+  "kana": "シェンチェン(深圳)",
+  "hinshi": "名詞(固有名詞)",
+  "ld_pos": "固有名詞",
+  "ld_etym": "中国語 深圳(Shēnzhèn)",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "地名"],
+  "meaning_main": "深圳(シンセン)/中国広東省のハイテク都市",
+  "description": "shenzhen（シェンチェン／深圳）は中国広東省の都市。香港に隣接し、経済特区として発展したハイテク産業の中心地。意味・背景・関連語を解説。",
+  "keywords": ["shenzhen 意味", "深圳 英語", "shenzhen 都市", "shenzhen 中国"],
+  "meanings": [
+    { "hinshi": "【固有名詞】深圳(シンセン)", "note": "中国広東省南部の都市。香港に隣接。文中では大文字で Shenzhen と書く" },
+    { "hinshi": "【固有名詞】経済特区", "note": "1980年に中国初の経済特区に指定され、急成長したハイテク・製造業の拠点" }
+  ],
+  "usages": [
+    { "title": "① 都市として", "desc": "中国のハイテク都市", "example_en": "Shenzhen is home to many technology companies.", "example_ja": "深圳は多くのIT企業の本拠地だ。" },
+    { "title": "② 経済の文脈で", "desc": "急成長した都市", "example_en": "Shenzhen grew from a fishing village into a megacity.", "example_ja": "深圳は漁村から巨大都市へと成長した。" }
+  ],
+  "warn": ["固有名詞なので文中では大文字 Shenzhen と書く", "日本語では『深圳（シンセン）』とも表記。香港(Hong Kong)に隣接する別の都市"],
+  "etym_note": "中国語の地名 深圳（Shēnzhèn）の英語表記。『深』は深い、『圳』は田畑の間の水路を意味するとされる。ピンイン表記が英語に定着した。",
+  "etym_chain": [
+    { "node": "深圳", "sub": "深い水路(中国語)", "era": "中国語" },
+    { "node": "Shēnzhèn", "sub": "ピンイン表記", "era": "現代中国語" },
+    { "node": "Shenzhen", "sub": "深圳(英語表記)", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "the city of Shenzhen", "ja": "深圳市" },
+    { "en": "Shenzhen and Hong Kong", "ja": "深圳と香港" },
+    { "en": "a factory in Shenzhen", "ja": "深圳の工場" },
+    { "en": "the Shenzhen Stock Exchange", "ja": "深圳証券取引所" },
+    { "en": "based in Shenzhen", "ja": "深圳を拠点とする" },
+    { "en": "Shenzhen's tech industry", "ja": "深圳のハイテク産業" }
+  ],
+  "related": [
+    { "en": "china", "ja": "中国" },
+    { "en": "hong kong", "ja": "香港" },
+    { "en": "guangdong", "ja": "広東省" },
+    { "en": "city", "ja": "都市" }
+  ],
+  "faq": [
+    { "q": "Shenzhen はどこにありますか？", "a": "中国広東省南部、香港のすぐ北に隣接する都市です。1980年に中国初の経済特区となり、漁村から人口1000万超のハイテク・製造業都市へ急成長しました。" },
+    { "q": "香港とは同じですか？", "a": "別の都市です。深圳(Shenzhen)は中国本土の都市、香港(Hong Kong)は特別行政区で、両者は境界で隣接しています。" }
+  ],
+  "quiz": [
+    { "q": "Shenzhen はどの国の都市？", "A": "中国", "B": "日本", "C": "韓国", "D": "タイ", "correct": "A" },
+    { "q": "Shenzhen が隣接する都市は？", "A": "香港", "B": "上海", "C": "北京", "D": "台北", "correct": "A" }
+  ]
+},
+{
+  "english": "sherbet",
+  "pron": "ˈʃɜrbət",
+  "kana": "シャーベット",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "トルコ語 şerbet < アラビア語 sharba(飲み物)",
+  "ld_level": "2級",
+  "badges": ["中学生〜", "英検2級", "CEFR B1", "可算・不可算"],
+  "meaning_main": "シャーベット/氷菓/(英)発泡粉末菓子",
+  "description": "sherbet（シャーベット）は果汁などを凍らせた氷菓。英国では発泡する粉末菓子も指す。sorbetとの違いも解説。意味・語源・例文・関連語を紹介。",
+  "keywords": ["sherbet 意味", "sherbet シャーベット", "sherbet sorbet 違い", "sherbet 例文"],
+  "meanings": [
+    { "hinshi": "【名詞】シャーベット・氷菓", "note": "果汁などに乳成分を少し加えて凍らせた冷菓（主に米）。可算・不可算" },
+    { "hinshi": "【名詞】(英)発泡粉末菓子", "note": "英国では、口の中で泡立つ甘酸っぱい粉末菓子を指す" }
+  ],
+  "usages": [
+    { "title": "① lemon sherbet（レモンシャーベット）", "desc": "果汁の氷菓", "example_en": "We had lemon sherbet for dessert.", "example_ja": "デザートにレモンシャーベットを食べた。" },
+    { "title": "② a scoop of sherbet（シャーベット1すくい）", "desc": "冷菓を盛る", "example_en": "She ordered a scoop of raspberry sherbet.", "example_ja": "彼女はラズベリーシャーベットを1すくい注文した。" }
+  ],
+  "warn": ["sherbet(米)は乳成分を少量含むが、sorbet(ソルベ)は乳成分を含まない果汁のみの氷菓", "英国 sherbet は『発泡する粉末菓子』を指すことが多く、地域で意味が異なる"],
+  "etym_note": "トルコ語 şerbet、さらにアラビア語 sharba（飲み物、shariba「飲む」から）に由来。もとは冷たい甘い飲み物を指した。同源に syrup（シロップ）がある。",
+  "etym_chain": [
+    { "node": "shariba", "sub": "飲む(アラビア語)", "era": "アラビア語" },
+    { "node": "şerbet", "sub": "甘い飲み物(トルコ語)", "era": "トルコ語" },
+    { "node": "sherbet", "sub": "シャーベット", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "lemon sherbet", "ja": "レモンシャーベット" },
+    { "en": "a scoop of sherbet", "ja": "シャーベット1すくい" },
+    { "en": "orange sherbet", "ja": "オレンジシャーベット" },
+    { "en": "raspberry sherbet", "ja": "ラズベリーシャーベット" },
+    { "en": "sherbet and ice cream", "ja": "シャーベットとアイスクリーム" },
+    { "en": "sherbet powder", "ja": "(英)発泡粉末菓子" }
+  ],
+  "related": [
+    { "en": "sorbet", "ja": "ソルベ・果汁氷菓" },
+    { "en": "ice cream", "ja": "アイスクリーム" },
+    { "en": "gelato", "ja": "ジェラート" },
+    { "en": "dessert", "ja": "デザート" }
+  ],
+  "faq": [
+    { "q": "sherbet と sorbet の違いは？", "a": "sorbet（ソルベ）は果汁と砂糖のみで乳成分を含まない氷菓、sherbet（米）は少量の乳成分を加えたもので、より滑らかでクリーミーです。" },
+    { "q": "イギリスとアメリカで意味が違う？", "a": "はい。アメリカでは『氷菓（シャーベット）』ですが、イギリスでは口の中で泡立つ『甘酸っぱい粉末菓子』を指すことが多いです。" }
+  ],
+  "quiz": [
+    { "q": "sherbet の主な意味は？", "A": "シャーベット(氷菓)", "B": "焼き菓子", "C": "スープ", "D": "パン", "correct": "A" },
+    { "q": "sherbet と違い乳成分を含まないのは？", "A": "sorbet", "B": "ice cream", "C": "gelato", "D": "custard", "correct": "A" }
+  ]
+},
+{
+  "english": "shifting",
+  "pron": "ˈʃɪftɪŋ",
+  "kana": "シフティング",
+  "hinshi": "形容詞 / 動詞(現在分詞)",
+  "ld_pos": "形容詞",
+  "ld_etym": "shift(移動する・変える)+-ing",
+  "ld_level": "2級",
+  "badges": ["中学生〜", "英検2級", "CEFR B1", "現在分詞"],
+  "meaning_main": "移り変わる/絶えず変化する/移動している",
+  "description": "shifting（シフティング）は「移り変わる・絶えず変化する・移動している」。動詞shiftの-ing形で、状況や砂・視点の変化に使う。意味・使い方・例文・関連語を解説。",
+  "keywords": ["shifting 意味", "shifting 使い方", "shift ing", "shifting 例文"],
+  "meanings": [
+    { "hinshi": "【形容詞】移り変わる", "note": "絶えず変化して定まらないさま。状況・力関係などに使う" },
+    { "hinshi": "【動詞】移動している・変えている", "note": "shift（移す・変える）の現在分詞・動名詞" }
+  ],
+  "usages": [
+    { "title": "① shifting circumstances（移り変わる状況）", "desc": "変化し続ける事情", "example_en": "We must adapt to shifting circumstances.", "example_ja": "私たちは移り変わる状況に適応しなければならない。" },
+    { "title": "② shifting sands（移動する砂）", "desc": "刻々と変わる不安定なもの", "example_en": "The debate rests on shifting sands.", "example_ja": "その議論は移ろいやすい不安定な土台に立っている。" }
+  ],
+  "warn": ["shifting sands は『絶えず変わって当てにならないもの』を表す慣用的な比喩", "動詞 shift は『少し動かす・変える』で、車の shifting gears（ギアチェンジ）にも使う"],
+  "etym_note": "shift（古英語 sciftan「分ける・整える」）＋-ing。『位置・状態を移す』意味から『移り変わる』の形容詞用法が生まれた。",
+  "etym_chain": [
+    { "node": "sciftan", "sub": "分ける・整える(古英語)", "era": "古英語" },
+    { "node": "shift", "sub": "移す・変える", "era": "近代英語" },
+    { "node": "shifting", "sub": "移り変わる", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "shifting circumstances", "ja": "移り変わる状況" },
+    { "en": "shifting sands", "ja": "移ろいやすいもの" },
+    { "en": "shifting priorities", "ja": "変わり続ける優先事項" },
+    { "en": "a shifting balance", "ja": "移り変わる均衡" },
+    { "en": "shifting patterns", "ja": "変化する傾向" },
+    { "en": "shifting gears", "ja": "ギアを変えること" }
+  ],
+  "related": [
+    { "en": "shift", "ja": "移す・変える・交代" },
+    { "en": "changing", "ja": "変化する" },
+    { "en": "moving", "ja": "動いている" },
+    { "en": "fluctuating", "ja": "変動する" }
+  ],
+  "faq": [
+    { "q": "shifting sands とはどんな意味？", "a": "文字どおりは『移動する砂』ですが、比喩で『絶えず変わって当てにならない状況・土台』を表す慣用表現です。" },
+    { "q": "changing との違いは？", "a": "どちらも『変化する』ですが、shifting は『位置・重心が移り変わる』ニュアンスが強く、方向や均衡の移動を含意することが多いです。" }
+  ],
+  "quiz": [
+    { "q": "shifting の意味は？", "A": "移り変わる", "B": "固定した", "C": "壊れた", "D": "眠った", "correct": "A" },
+    { "q": "『移ろいやすく当てにならないもの』を表す表現は？", "A": "shifting sands", "B": "solid rock", "C": "firm ground", "D": "still water", "correct": "A" }
+  ]
+},
+{
+  "english": "shocked",
+  "pron": "ʃɒkt",
+  "kana": "ショックト",
+  "hinshi": "形容詞 / 動詞(過去・過去分詞)",
+  "ld_pos": "形容詞",
+  "ld_etym": "shock(衝撃を与える)+-ed",
+  "ld_level": "3級",
+  "badges": ["中学生〜", "英検3級", "CEFR A2", "感情形容詞"],
+  "meaning_main": "衝撃を受けた/ショックを受けた/驚いた",
+  "description": "shocked（ショックト）は「衝撃を受けた・ショックを受けた・驚いた」。動詞shockの過去分詞から生まれた感情形容詞。意味・使い方・例文・関連語を解説。",
+  "keywords": ["shocked 意味", "shocked 使い方", "shock 過去分詞", "shocked 例文"],
+  "meanings": [
+    { "hinshi": "【形容詞】衝撃を受けた", "note": "驚きや不快な出来事で心が強く動揺した状態" },
+    { "hinshi": "【動詞】shock の過去・過去分詞", "note": "shock（衝撃を与える）の活用形" }
+  ],
+  "usages": [
+    { "title": "① be shocked by/at（〜に衝撃を受ける）", "desc": "驚き動揺すること", "example_en": "I was shocked by the news.", "example_ja": "私はその知らせに衝撃を受けた。" },
+    { "title": "② shocked to hear（聞いて驚いた）", "desc": "to不定詞を続ける", "example_en": "She was shocked to hear he had quit.", "example_ja": "彼女は彼が辞めたと聞いて驚いた。" }
+  ],
+  "warn": ["人の感情には-ed形の shocked（驚いた側）、出来事には-ing形の shocking（衝撃的な）を使う", "前置詞は by / at が一般的（shocked by the result）"],
+  "etym_note": "動詞 shock（フランス語 choc「衝突」由来）の過去分詞。『衝撃を与えられた』から『驚いた』という感情形容詞になった。",
+  "etym_chain": [
+    { "node": "choc", "sub": "衝突(フランス語)", "era": "フランス語" },
+    { "node": "shock", "sub": "衝撃を与える", "era": "近代英語" },
+    { "node": "shocked", "sub": "衝撃を受けた", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "be shocked by", "ja": "〜に衝撃を受ける" },
+    { "en": "shocked at the news", "ja": "その知らせに驚いて" },
+    { "en": "deeply shocked", "ja": "深く衝撃を受けて" },
+    { "en": "shocked to hear", "ja": "聞いて驚いて" },
+    { "en": "shocked and saddened", "ja": "衝撃を受け悲しんで" },
+    { "en": "look shocked", "ja": "驚いた顔をする" }
+  ],
+  "related": [
+    { "en": "shocking", "ja": "衝撃的な" },
+    { "en": "shock", "ja": "衝撃・ショック" },
+    { "en": "surprised", "ja": "驚いた" },
+    { "en": "stunned", "ja": "呆然とした" }
+  ],
+  "faq": [
+    { "q": "shocked と shocking の違いは？", "a": "shocked は『(人が)衝撃を受けた』（I was shocked.）、shocking は『(物事が)衝撃的な』（The news was shocking.）です。感情を受けた人には-ed、原因には-ingを使います。" },
+    { "q": "後ろに続く前置詞は？", "a": "by や at が一般的です（shocked by the accident / shocked at the price）。また shocked to + 動詞で『〜して驚いた』も使えます。" }
+  ],
+  "quiz": [
+    { "q": "shocked の意味は？", "A": "衝撃を受けた", "B": "退屈した", "C": "満足した", "D": "眠い", "correct": "A" },
+    { "q": "『その知らせは衝撃的だった』の下線に入るのは？The news was ___.", "A": "shocking", "B": "shocked", "C": "shock", "D": "shocks", "correct": "A" }
+  ]
+},
+{
+  "english": "shoreline",
+  "pron": "ˈʃɔrlaɪn",
+  "kana": "ショアライン",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "shore(岸)+line(線)",
+  "ld_level": "2級",
+  "badges": ["中学生〜", "英検2級", "CEFR B1", "可算名詞"],
+  "meaning_main": "海岸線/岸辺の線/水際",
+  "description": "shoreline（ショアライン）は「海岸線・水際」。海・湖と陸地が接する線を指す。coastlineとの違いも解説。意味・使い方・例文・関連語を紹介。",
+  "keywords": ["shoreline 意味", "shoreline 海岸線", "shoreline coastline 違い", "shoreline 例文"],
+  "meanings": [
+    { "hinshi": "【名詞】海岸線・水際", "note": "海・湖などの水と陸地が接する境界の線。可算名詞" }
+  ],
+  "usages": [
+    { "title": "① walk along the shoreline（水際を歩く）", "desc": "岸辺に沿って", "example_en": "We walked along the shoreline at sunset.", "example_ja": "私たちは夕暮れに水際を歩いた。" },
+    { "title": "② a rocky shoreline（岩の多い海岸線）", "desc": "海岸線の様子", "example_en": "The island has a rugged, rocky shoreline.", "example_ja": "その島は荒々しく岩の多い海岸線を持つ。" }
+  ],
+  "warn": ["shoreline は海・湖・川など水と陸の境界全般に使えるが、coastline は主に『海』の海岸線を指す", "shore（岸）＋line（線）の複合語"],
+  "etym_note": "shore（古英語 scora「岸」）＋line（線）。「岸の(描く)線」＝水際の境界線。",
+  "etym_chain": [
+    { "node": "scora", "sub": "岸(古英語)", "era": "古英語" },
+    { "node": "shore", "sub": "岸", "era": "中英語" },
+    { "node": "shoreline", "sub": "海岸線", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "along the shoreline", "ja": "水際に沿って" },
+    { "en": "a rocky shoreline", "ja": "岩の多い海岸線" },
+    { "en": "a sandy shoreline", "ja": "砂の海岸線" },
+    { "en": "the lake's shoreline", "ja": "湖の水際" },
+    { "en": "a rugged shoreline", "ja": "荒々しい海岸線" },
+    { "en": "protect the shoreline", "ja": "海岸線を守る" }
+  ],
+  "related": [
+    { "en": "shore", "ja": "岸" },
+    { "en": "coastline", "ja": "海岸線" },
+    { "en": "coast", "ja": "海岸" },
+    { "en": "beach", "ja": "浜辺" }
+  ],
+  "faq": [
+    { "q": "shoreline と coastline の違いは？", "a": "shoreline は海・湖・川など水と陸が接する線を広く指し、coastline は主に『海』の海岸線を指します。湖畔の水際には coastline より shoreline が自然です。" },
+    { "q": "shore と shoreline の違いは？", "a": "shore は『岸（陸地の帯）』という面的な広がり、shoreline は『水と陸が接する線』という境界そのものを指します。" }
+  ],
+  "quiz": [
+    { "q": "shoreline の意味は？", "A": "海岸線・水際", "B": "水平線", "C": "山の稜線", "D": "国境線", "correct": "A" },
+    { "q": "湖の水際に自然なのは？", "A": "shoreline", "B": "coastline", "C": "skyline", "D": "baseline", "correct": "A" }
+  ]
+},
+{
+  "english": "short-lived",
+  "pron": "ˌʃɔrt ˈlɪvd",
+  "kana": "ショートリブド",
+  "hinshi": "形容詞",
+  "ld_pos": "形容詞",
+  "ld_etym": "short(短い)+lived(命の)",
+  "ld_level": "2級",
+  "badges": ["高校生〜", "英検2級", "CEFR B2", "形容詞"],
+  "meaning_main": "短命の/長続きしない/はかない",
+  "description": "short-lived（ショートリブド）は「短命の・長続きしない・はかない」。喜びや成功、流行などがすぐ終わることを表す。意味・使い方・例文・関連語を解説。",
+  "keywords": ["short-lived 意味", "short-lived 使い方", "短命 英語", "short-lived 例文"],
+  "meanings": [
+    { "hinshi": "【形容詞】短命の・長続きしない", "note": "存在・状態が短い時間しか続かないさま" },
+    { "hinshi": "【形容詞】はかない・つかの間の", "note": "喜び・成功・流行などがすぐ消える様子" }
+  ],
+  "usages": [
+    { "title": "① short-lived joy（つかの間の喜び）", "desc": "すぐ終わる喜び", "example_en": "Their happiness was short-lived.", "example_ja": "彼らの幸せはつかの間だった。" },
+    { "title": "② a short-lived success（長続きしない成功）", "desc": "すぐ終わる成功", "example_en": "The company enjoyed a short-lived boom.", "example_ja": "その会社はつかの間の好況を味わった。" }
+  ],
+  "warn": ["発音は /lɪvd/ とも /laɪvd/ とも言われるが /lɪvd/ が一般的", "対義語は long-lived（長命の・長続きする）"],
+  "etym_note": "short（短い）＋lived（life「命」から作られた形容詞的要素、『〜な命を持つ』）。「短い命を持つ」＝短命の。",
+  "etym_chain": [
+    { "node": "short + lived", "sub": "短い＋命の", "era": "近代英語" },
+    { "node": "short-lived", "sub": "短命の", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "short-lived joy", "ja": "つかの間の喜び" },
+    { "en": "a short-lived success", "ja": "長続きしない成功" },
+    { "en": "short-lived fame", "ja": "つかの間の名声" },
+    { "en": "a short-lived trend", "ja": "短命の流行" },
+    { "en": "prove short-lived", "ja": "長続きしないと分かる" },
+    { "en": "a short-lived ceasefire", "ja": "つかの間の停戦" }
+  ],
+  "related": [
+    { "en": "long-lived", "ja": "長命の・長続きする" },
+    { "en": "temporary", "ja": "一時的な" },
+    { "en": "fleeting", "ja": "つかの間の" },
+    { "en": "brief", "ja": "短い" }
+  ],
+  "faq": [
+    { "q": "short-lived の対義語は？", "a": "long-lived（長命の・長続きする）です。short-lived success（長続きしない成功）⇔ long-lived success（長く続く成功）のように対で使えます。" },
+    { "q": "fleeting との違いは？", "a": "どちらも『つかの間の』ですが、fleeting は『一瞬で過ぎ去る』瞬間的なはかなさ、short-lived は『存在・状態がすぐ終わる』短命さに重点があります。" }
+  ],
+  "quiz": [
+    { "q": "short-lived の意味は？", "A": "短命の・長続きしない", "B": "永遠の", "C": "巨大な", "D": "静かな", "correct": "A" },
+    { "q": "short-lived の対義語は？", "A": "long-lived", "B": "short-term", "C": "well-lived", "D": "half-lived", "correct": "A" }
+  ]
+},
+{
+  "english": "shortsightedness",
+  "pron": "ˌʃɔrtˈsaɪtɪdnəs",
+  "kana": "ショートサイティッドネス",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "shortsighted(近視の・近視眼的な)+ness",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "不可算名詞"],
+  "meaning_main": "近視/近視眼的な考え/先見の明のなさ",
+  "description": "shortsightedness（ショートサイティッドネス）は「近視」および「近視眼的な考え・先見の明のなさ」。目先しか見ない態度を表す。意味・使い方・例文・関連語を解説。",
+  "keywords": ["shortsightedness 意味", "shortsightedness 近視眼的", "近視 英語", "shortsightedness 例文"],
+  "meanings": [
+    { "hinshi": "【名詞】近視眼的な考え", "note": "目先のことしか考えず将来を見通さない態度。不可算名詞" },
+    { "hinshi": "【名詞】近視", "note": "遠くが見えにくい目の状態（＝myopia、主に英)" }
+  ],
+  "usages": [
+    { "title": "① political shortsightedness（政治的な近視眼)", "desc": "先を見ない判断", "example_en": "The crisis was blamed on political shortsightedness.", "example_ja": "その危機は政治の近視眼的判断のせいだとされた。" },
+    { "title": "② the shortsightedness of the plan（計画の短慮）", "desc": "先見の明のなさ", "example_en": "Critics pointed out the shortsightedness of the plan.", "example_ja": "批評家たちはその計画の近視眼的なところを指摘した。" }
+  ],
+  "warn": ["比喩の『近視眼的な考え』の意味で使われることが多い", "医学的な『近視』は myopia（マイオピア）が専門語。形容詞は shortsighted"],
+  "etym_note": "shortsighted（short「短い」＋sighted「視力の」＝近くしか見えない）＋-ness。『先が見えないこと』の比喩に発展した。",
+  "etym_chain": [
+    { "node": "short + sighted", "sub": "短い＋視力の", "era": "近代英語" },
+    { "node": "shortsighted", "sub": "近視の・近視眼的な", "era": "近代英語" },
+    { "node": "shortsightedness", "sub": "近視眼的な考え", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "political shortsightedness", "ja": "政治的な近視眼" },
+    { "en": "economic shortsightedness", "ja": "経済的な短慮" },
+    { "en": "sheer shortsightedness", "ja": "まったくの近視眼" },
+    { "en": "the shortsightedness of the policy", "ja": "その政策の近視眼" },
+    { "en": "criticize shortsightedness", "ja": "近視眼的態度を批判する" },
+    { "en": "avoid shortsightedness", "ja": "近視眼的判断を避ける" }
+  ],
+  "related": [
+    { "en": "shortsighted", "ja": "近視の・近視眼的な" },
+    { "en": "myopia", "ja": "近視" },
+    { "en": "foresight", "ja": "先見の明" },
+    { "en": "nearsightedness", "ja": "近視" }
+  ],
+  "faq": [
+    { "q": "shortsightedness は目の病気の意味だけ？", "a": "いいえ。医学的な『近視』の意味もありますが、比喩で『目先しか見ない近視眼的な考え・先見の明のなさ』を表すことが多いです。" },
+    { "q": "対になる語は？", "a": "foresight（先見の明）です。shortsightedness（近視眼）⇔ foresight（先を見通す力）という対比で使えます。" }
+  ],
+  "quiz": [
+    { "q": "shortsightedness の比喩的な意味は？", "A": "近視眼的な考え・先見の明のなさ", "B": "遠大な計画", "C": "鋭い洞察", "D": "強い記憶力", "correct": "A" },
+    { "q": "shortsightedness と対になる語は？", "A": "foresight", "B": "hindsight", "C": "eyesight", "D": "insight", "correct": "A" }
+  ]
+},
+{
+  "english": "shutdown",
+  "pron": "ˈʃʌtdaʊn",
+  "kana": "シャットダウン",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "shut(閉じる)+down(下へ・停止)",
+  "ld_level": "2級",
+  "badges": ["中学生〜", "英検2級", "CEFR B1", "可算名詞"],
+  "meaning_main": "operation停止/(工場・施設の)閉鎖/(政府の)閉鎖",
+  "description": "shutdown（シャットダウン）は「操業停止・施設の閉鎖・(コンピュータの)終了」。政府機関の一時閉鎖(government shutdown)にも使う。意味・使い方・例文・関連語を解説。",
+  "keywords": ["shutdown 意味", "shutdown 使い方", "government shutdown", "shutdown 例文"],
+  "meanings": [
+    { "hinshi": "【名詞】操業停止・閉鎖", "note": "工場や施設の運転・営業を止めること。可算名詞" },
+    { "hinshi": "【名詞】(コンピュータの)終了", "note": "システムやPCの電源を切ること" },
+    { "hinshi": "【名詞】(政府の)一時閉鎖", "note": "予算不成立で政府機関の業務が停止する government shutdown" }
+  ],
+  "usages": [
+    { "title": "① a factory shutdown（工場の操業停止）", "desc": "運転を止めること", "example_en": "The plant faced a temporary shutdown.", "example_ja": "その工場は一時的な操業停止に直面した。" },
+    { "title": "② a government shutdown（政府機関閉鎖）", "desc": "予算不成立による業務停止", "example_en": "The government shutdown lasted several weeks.", "example_ja": "政府機関の閉鎖は数週間続いた。" }
+  ],
+  "warn": ["名詞は1語の shutdown、動詞句は shut down（分けて綴る）", "コンピュータでは shutdown（終了）↔ startup / boot（起動）"],
+  "etym_note": "動詞句 shut down（閉じて止める）から生まれた名詞。shut（閉じる）＋down（停止・下方向）。",
+  "etym_chain": [
+    { "node": "shut + down", "sub": "閉じる＋停止", "era": "近代英語" },
+    { "node": "shut down", "sub": "操業を止める", "era": "近代英語" },
+    { "node": "shutdown", "sub": "操業停止・閉鎖", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "a factory shutdown", "ja": "工場の操業停止" },
+    { "en": "a government shutdown", "ja": "政府機関の閉鎖" },
+    { "en": "an emergency shutdown", "ja": "緊急停止" },
+    { "en": "a system shutdown", "ja": "システムの終了" },
+    { "en": "a temporary shutdown", "ja": "一時的な停止" },
+    { "en": "a plant shutdown", "ja": "工場停止" }
+  ],
+  "related": [
+    { "en": "shut down", "ja": "閉じる・停止する(動詞)" },
+    { "en": "closure", "ja": "閉鎖" },
+    { "en": "startup", "ja": "起動・立ち上げ" },
+    { "en": "lockdown", "ja": "封鎖・都市封鎖" }
+  ],
+  "faq": [
+    { "q": "shutdown と shut down の違いは？", "a": "shutdown は1語の名詞（a system shutdown）、shut down は動詞句（Please shut down the computer.）です。品詞で綴りが変わります。" },
+    { "q": "government shutdown とは？", "a": "予算(歳出)が議会で成立せず、政府機関の一部が業務を停止する状態を指します。主にアメリカで起こる制度上の現象です。" }
+  ],
+  "quiz": [
+    { "q": "shutdown の意味は？", "A": "操業停止・閉鎖", "B": "開業", "C": "拡張", "D": "移転", "correct": "A" },
+    { "q": "動詞として『閉じて止める』の正しい綴りは？", "A": "shut down", "B": "shutdown", "C": "shutsdown", "D": "shut-downing", "correct": "A" }
+  ]
+},
+{
+  "english": "sidewards",
+  "pron": "ˈsaɪdwərdz",
+  "kana": "サイドワーズ",
+  "hinshi": "副詞 / 形容詞",
+  "ld_pos": "副詞",
+  "ld_etym": "side(横)+-wards(〜の方へ)",
+  "ld_level": "準1級",
+  "badges": ["高校生〜", "英検準1級", "CEFR B2", "副詞"],
+  "meaning_main": "横向きに/横の方へ",
+  "description": "sidewards（サイドワーズ）は「横向きに・横の方へ」。sidewaysとほぼ同義の副詞。動きや向きが横であることを表す。意味・使い方・例文・関連語を解説。",
+  "keywords": ["sidewards 意味", "sidewards sideways 違い", "横向き 英語", "sidewards 例文"],
+  "meanings": [
+    { "hinshi": "【副詞】横向きに・横の方へ", "note": "側方(横)への方向を表す。sideways とほぼ同義" },
+    { "hinshi": "【形容詞】横向きの", "note": "横方向の動き・位置を表す" }
+  ],
+  "usages": [
+    { "title": "① move sidewards（横に動く）", "desc": "横方向への移動", "example_en": "The crab scuttled sidewards.", "example_ja": "そのカニは横向きにさっと動いた。" },
+    { "title": "② lean sidewards（横に傾く）", "desc": "横方向に傾く", "example_en": "The tower leans slightly sidewards.", "example_ja": "その塔はわずかに横に傾いている。" }
+  ],
+  "warn": ["sideways と同義で、sidewards はやや堅い・英国的な語形。日常では sideways の方が一般的", "-ward(s) の s は英で付き、米で落ちることが多い（sideward / sidewards）"],
+  "etym_note": "side（横）＋-wards（〜の方向へ、を表す接尾辞。副詞では -wards、形容詞では -ward の形が好まれる）。",
+  "etym_chain": [
+    { "node": "side + -weard", "sub": "横＋〜の方へ(古英語)", "era": "古英語" },
+    { "node": "sideward", "sub": "横向きの", "era": "近代英語" },
+    { "node": "sidewards", "sub": "横向きに", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "move sidewards", "ja": "横に動く" },
+    { "en": "lean sidewards", "ja": "横に傾く" },
+    { "en": "step sidewards", "ja": "横に一歩動く" },
+    { "en": "glance sidewards", "ja": "横目で見る" },
+    { "en": "slide sidewards", "ja": "横に滑る" },
+    { "en": "tip sidewards", "ja": "横に傾く" }
+  ],
+  "related": [
+    { "en": "sideways", "ja": "横向きに" },
+    { "en": "sideward", "ja": "横向きの・に" },
+    { "en": "forwards", "ja": "前方へ" },
+    { "en": "backwards", "ja": "後方へ" }
+  ],
+  "faq": [
+    { "q": "sidewards と sideways の違いは？", "a": "意味はほぼ同じ『横向きに』です。sideways の方が一般的で、sidewards はやや堅く英国的な語形です。どちらを使っても通じます。" },
+    { "q": "sideward と sidewards はどちらが正しい？", "a": "どちらも正しいです。副詞では末尾に s の付く sidewards が、形容詞では s のない sideward が好まれる傾向があります（米ではどちらも s なしが多い）。" }
+  ],
+  "quiz": [
+    { "q": "sidewards の意味は？", "A": "横向きに", "B": "前方へ", "C": "上へ", "D": "後ろへ", "correct": "A" },
+    { "q": "sidewards とほぼ同義なのは？", "A": "sideways", "B": "upwards", "C": "onwards", "D": "inwards", "correct": "A" }
+  ]
+},
+{
+  "english": "silicate",
+  "pron": "ˈsɪlɪkeɪt",
+  "kana": "シリケート",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "silica(ケイ酸・シリカ)+-ate(塩)",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "化学用語"],
+  "meaning_main": "ケイ酸塩/シリケート(鉱物・化学)",
+  "description": "silicate（シリケート）は「ケイ酸塩」。ケイ素と酸素を含む化合物で、地殻の大半を占める鉱物群。意味・使い方・例文・関連語を化学的にわかりやすく解説。",
+  "keywords": ["silicate 意味", "silicate ケイ酸塩", "silicate 鉱物", "silicate 例文"],
+  "meanings": [
+    { "hinshi": "【名詞】ケイ酸塩", "note": "ケイ素(silicon)と酸素を主成分とする化合物・鉱物。地殻の主要構成物。可算・不可算" }
+  ],
+  "usages": [
+    { "title": "① silicate minerals（ケイ酸塩鉱物）", "desc": "地殻を作る主な鉱物群", "example_en": "Most of the Earth's crust is made of silicate minerals.", "example_ja": "地殻の大部分はケイ酸塩鉱物でできている。" },
+    { "title": "② a sodium silicate solution（ケイ酸ナトリウム水溶液）", "desc": "工業で使う化合物", "example_en": "Sodium silicate is used as an adhesive.", "example_ja": "ケイ酸ナトリウムは接着剤として使われる。" }
+  ],
+  "warn": ["silicon（ケイ素・元素）、silica（二酸化ケイ素・シリカ）、silicate（ケイ酸塩)、silicone（シリコーン樹脂）を混同しない", "地質学・化学で頻出の専門語"],
+  "etym_note": "silica（ケイ酸・二酸化ケイ素）＋-ate（酸の塩を表す接尾辞）。ラテン語 silex（火打石・硬い石）に由来する語群。",
+  "etym_chain": [
+    { "node": "silex", "sub": "火打石(ラテン語)", "era": "ラテン語" },
+    { "node": "silica", "sub": "二酸化ケイ素", "era": "近代英語" },
+    { "node": "silicate", "sub": "ケイ酸塩", "era": "19世紀" }
+  ],
+  "phrases": [
+    { "en": "silicate minerals", "ja": "ケイ酸塩鉱物" },
+    { "en": "sodium silicate", "ja": "ケイ酸ナトリウム" },
+    { "en": "a silicate rock", "ja": "ケイ酸塩岩" },
+    { "en": "silicate glass", "ja": "ケイ酸塩ガラス" },
+    { "en": "calcium silicate", "ja": "ケイ酸カルシウム" },
+    { "en": "silicate structure", "ja": "ケイ酸塩構造" }
+  ],
+  "related": [
+    { "en": "silicon", "ja": "ケイ素(元素)" },
+    { "en": "silica", "ja": "シリカ・二酸化ケイ素" },
+    { "en": "mineral", "ja": "鉱物" },
+    { "en": "quartz", "ja": "石英" }
+  ],
+  "faq": [
+    { "q": "silicate と silicon の違いは？", "a": "silicon（ケイ素）は元素そのもの、silicate（ケイ酸塩）はケイ素と酸素などが結びついた化合物・鉱物群です。半導体の silicon と地殻の silicate は別物です。" },
+    { "q": "silicone とは違う？", "a": "違います。silicone（シリコーン）はケイ素を含む合成樹脂・ゴムで、silicate（ケイ酸塩）は天然の鉱物・化合物です。綴りと意味に注意しましょう。" }
+  ],
+  "quiz": [
+    { "q": "silicate の意味は？", "A": "ケイ酸塩", "B": "炭素", "C": "鉄鉱石", "D": "石灰", "correct": "A" },
+    { "q": "silicate の主成分となる元素は？", "A": "ケイ素(silicon)", "B": "炭素(carbon)", "C": "鉄(iron)", "D": "銅(copper)", "correct": "A" }
+  ]
+},
+{
+  "english": "silliness",
+  "pron": "ˈsɪlinəs",
+  "kana": "シリネス",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "silly(ばかげた)+ness(状態)",
+  "ld_level": "2級",
+  "badges": ["中学生〜", "英検2級", "CEFR B1", "不可算名詞"],
+  "meaning_main": "ばかばかしさ/おろかさ/おふざけ",
+  "description": "silliness（シリネス）は「ばかばかしさ・おろかさ・おふざけ」。silly(ばかげた)の名詞形で、深刻でない軽い愚かさや戯れを表す。意味・使い方・例文・関連語を解説。",
+  "keywords": ["silliness 意味", "silliness 使い方", "silly 名詞", "silliness 例文"],
+  "meanings": [
+    { "hinshi": "【名詞】ばかばかしさ・おろかさ", "note": "分別のなさ・愚かさ。深刻でない軽い意味合い。不可算名詞" },
+    { "hinshi": "【名詞】おふざけ・戯れ", "note": "ふざけた言動、たわいのないおどけ" }
+  ],
+  "usages": [
+    { "title": "① childish silliness（子どもっぽいおふざけ）", "desc": "たわいない戯れ", "example_en": "The party was full of laughter and silliness.", "example_ja": "パーティーは笑いとおふざけに満ちていた。" },
+    { "title": "② enough of this silliness（このばかばかしさはもうたくさん）", "desc": "愚かさをたしなめる", "example_en": "Stop this silliness and get back to work.", "example_ja": "こんなばかげたことはやめて仕事に戻りなさい。" }
+  ],
+  "warn": ["stupidity（愚かさ）より軽く、しばしば愛嬌のある『おふざけ・たわいなさ』を含む", "形容詞は silly（ばかげた・愚かな）"],
+  "etym_note": "silly（もと『幸福な・無垢な』→『単純な』→『愚かな』と意味が変化）＋-ness。古英語 sælig（幸運な）に遡る。",
+  "etym_chain": [
+    { "node": "sælig", "sub": "幸運な・無垢な(古英語)", "era": "古英語" },
+    { "node": "silly", "sub": "愚かな", "era": "近代英語" },
+    { "node": "silliness", "sub": "ばかばかしさ", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "childish silliness", "ja": "子どもっぽいおふざけ" },
+    { "en": "sheer silliness", "ja": "まったくのばかばかしさ" },
+    { "en": "enough of this silliness", "ja": "このばかばかしさはもうたくさん" },
+    { "en": "a moment of silliness", "ja": "ふとしたおふざけ" },
+    { "en": "harmless silliness", "ja": "害のないおふざけ" },
+    { "en": "full of silliness", "ja": "おふざけに満ちた" }
+  ],
+  "related": [
+    { "en": "silly", "ja": "ばかげた・愚かな" },
+    { "en": "foolishness", "ja": "愚かさ" },
+    { "en": "nonsense", "ja": "たわごと・ばかげたこと" },
+    { "en": "absurdity", "ja": "ばかばかしさ" }
+  ],
+  "faq": [
+    { "q": "silliness と foolishness の違いは？", "a": "どちらも『愚かさ』ですが、silliness は深刻でない軽いばかばかしさや愛嬌のあるおふざけを含み、foolishness はより判断力を欠いた本格的な愚かさを指す傾向があります。" },
+    { "q": "形容詞は？", "a": "silly（ばかげた・愚かな）です。silly の名詞形が silliness です。" }
+  ],
+  "quiz": [
+    { "q": "silliness の意味は？", "A": "ばかばかしさ・おふざけ", "B": "賢さ", "C": "真剣さ", "D": "悲しさ", "correct": "A" },
+    { "q": "silliness の形容詞は？", "A": "silly", "B": "silent", "C": "single", "D": "simple", "correct": "A" }
+  ]
+},
+{
+  "english": "sisterly",
+  "pron": "ˈsɪstərli",
+  "kana": "シスターリー",
+  "hinshi": "形容詞",
+  "ld_pos": "形容詞",
+  "ld_etym": "sister(姉妹)+-ly(〜らしい)",
+  "ld_level": "2級",
+  "badges": ["中学生〜", "英検2級", "CEFR B1", "形容詞"],
+  "meaning_main": "姉妹のような/姉妹らしい愛情のこもった",
+  "description": "sisterly（シスターリー）は「姉妹のような・姉妹らしい」。姉妹の間柄にふさわしい優しさや愛情を表す形容詞。brotherlyの対も解説。意味・使い方・例文・関連語を紹介。",
+  "keywords": ["sisterly 意味", "sisterly 使い方", "姉妹のような 英語", "sisterly 例文"],
+  "meanings": [
+    { "hinshi": "【形容詞】姉妹のような", "note": "姉妹の間柄らしい、優しさ・親しみ・思いやりのある性質" }
+  ],
+  "usages": [
+    { "title": "① sisterly love（姉妹の愛情）", "desc": "姉妹のような親愛", "example_en": "She felt a sisterly love for her best friend.", "example_ja": "彼女は親友に姉妹のような愛情を感じた。" },
+    { "title": "② sisterly advice（姉のような助言）", "desc": "親身な忠告", "example_en": "She gave me some sisterly advice.", "example_ja": "彼女は私に姉のような親身な助言をくれた。" }
+  ],
+  "warn": ["男性版は brotherly（兄弟のような）", "-ly は副詞語尾のことが多いが、sisterly は名詞＋-ly の『〜らしい』形容詞（friendly, motherly と同じ型）"],
+  "etym_note": "sister（姉妹）＋-ly（『〜らしい・〜にふさわしい』を表す形容詞語尾）。motherly・fatherly・friendly と同じ語形成。",
+  "etym_chain": [
+    { "node": "sweostor", "sub": "姉妹(古英語)", "era": "古英語" },
+    { "node": "sister", "sub": "姉妹", "era": "中英語" },
+    { "node": "sisterly", "sub": "姉妹のような", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "sisterly love", "ja": "姉妹の愛情" },
+    { "en": "sisterly advice", "ja": "姉のような助言" },
+    { "en": "a sisterly bond", "ja": "姉妹のような絆" },
+    { "en": "sisterly affection", "ja": "姉妹らしい親愛" },
+    { "en": "in a sisterly way", "ja": "姉妹のように" },
+    { "en": "sisterly concern", "ja": "姉妹らしい気遣い" }
+  ],
+  "related": [
+    { "en": "sister", "ja": "姉妹" },
+    { "en": "brotherly", "ja": "兄弟のような" },
+    { "en": "motherly", "ja": "母親のような" },
+    { "en": "friendly", "ja": "友好的な" }
+  ],
+  "faq": [
+    { "q": "sisterly の男性版は？", "a": "brotherly（兄弟のような）です。sisterly love ⇔ brotherly love のように対で使えます。" },
+    { "q": "-ly が付くのに形容詞なの？", "a": "はい。-ly は副詞語尾によく使われますが、名詞＋-ly（sisterly, motherly, friendly）は『〜らしい』という形容詞を作ります。" }
+  ],
+  "quiz": [
+    { "q": "sisterly の意味は？", "A": "姉妹のような", "B": "他人行儀な", "C": "冷たい", "D": "厳格な", "correct": "A" },
+    { "q": "sisterly の男性版は？", "A": "brotherly", "B": "fatherly", "C": "manly", "D": "friendly", "correct": "A" }
+  ]
+},
+{
+  "english": "situational",
+  "pron": "ˌsɪtʃuˈeɪʃənl",
+  "kana": "シチュエーショナル",
+  "hinshi": "形容詞",
+  "ld_pos": "形容詞",
+  "ld_etym": "situation(状況)+-al(〜の)",
+  "ld_level": "準1級",
+  "badges": ["高校生〜", "英検準1級", "CEFR B2", "形容詞"],
+  "meaning_main": "状況の/状況に応じた/その場の状況による",
+  "description": "situational（シチュエーショナル）は「状況の・状況に応じた」。特定の状況に依存することを表す形容詞。situational awareness(状況把握)などで使う。意味・使い方・例文・関連語を解説。",
+  "keywords": ["situational 意味", "situational 使い方", "状況の 英語", "situational 例文"],
+  "meanings": [
+    { "hinshi": "【形容詞】状況の・状況に応じた", "note": "その場の状況・場面に依存する、状況によって変わる性質" }
+  ],
+  "usages": [
+    { "title": "① situational awareness（状況把握・状況認識）", "desc": "周囲の状況を的確に把握する力", "example_en": "Good drivers have strong situational awareness.", "example_ja": "良い運転者は高い状況把握力を持つ。" },
+    { "title": "② situational factors（状況要因）", "desc": "その場の状況による要素", "example_en": "His behavior was due to situational factors, not his character.", "example_ja": "彼の行動は性格ではなく状況要因によるものだった。" }
+  ],
+  "warn": ["『性格・気質による』のは dispositional、『状況による』のは situational という対比が心理学で重要", "situational irony（状況の皮肉）など決まった言い回しがある"],
+  "etym_note": "situation（状況。ラテン語 situs「置かれた場所」由来）＋-al（〜の・〜に関する）。「状況に関する」から。",
+  "etym_chain": [
+    { "node": "situs", "sub": "置かれた場所(ラテン語)", "era": "ラテン語" },
+    { "node": "situation", "sub": "状況", "era": "中英語" },
+    { "node": "situational", "sub": "状況の", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "situational awareness", "ja": "状況把握・状況認識" },
+    { "en": "situational factors", "ja": "状況要因" },
+    { "en": "situational irony", "ja": "状況の皮肉" },
+    { "en": "situational judgment", "ja": "状況判断" },
+    { "en": "situational leadership", "ja": "状況対応型リーダーシップ" },
+    { "en": "highly situational", "ja": "非常に状況次第の" }
+  ],
+  "related": [
+    { "en": "situation", "ja": "状況" },
+    { "en": "circumstantial", "ja": "状況による・状況証拠の" },
+    { "en": "contextual", "ja": "文脈の・状況次第の" },
+    { "en": "dispositional", "ja": "気質による" }
+  ],
+  "faq": [
+    { "q": "situational と dispositional の違いは？", "a": "situational は『状況による(外的要因)』、dispositional は『気質・性格による(内的要因)』です。心理学で人の行動の原因をこの二つに分けて考えます。" },
+    { "q": "situational awareness とは？", "a": "『周囲の状況を的確に把握している状態・能力』のことです。運転・航空・防災・スポーツなどで重視されます。" }
+  ],
+  "quiz": [
+    { "q": "situational の意味は？", "A": "状況に応じた", "B": "永久的な", "C": "個人的な", "D": "抽象的な", "correct": "A" },
+    { "q": "situational と対比される『気質による』は？", "A": "dispositional", "B": "national", "C": "rational", "D": "optional", "correct": "A" }
+  ]
+},
+{
+  "english": "skater",
+  "pron": "ˈskeɪtər",
+  "kana": "スケーター",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "skate(スケートをする)+-er(人)",
+  "ld_level": "3級",
+  "badges": ["中学生〜", "英検3級", "CEFR A2", "可算名詞"],
+  "meaning_main": "スケートをする人/スケーター/スケボーをする人",
+  "description": "skater（スケーター）は「スケートをする人」。アイススケート・ローラースケート・スケートボードをする人を指す。意味・使い方・例文・関連語をわかりやすく解説。",
+  "keywords": ["skater 意味", "skater スケーター", "skate 人", "skater 例文"],
+  "meanings": [
+    { "hinshi": "【名詞】スケートをする人", "note": "アイススケートやローラースケートをする人。可算名詞" },
+    { "hinshi": "【名詞】スケートボーダー", "note": "スケートボードをする人。文脈で skateboarder の意味にもなる" }
+  ],
+  "usages": [
+    { "title": "① a figure skater（フィギュアスケーター）", "desc": "氷上で演技する選手", "example_en": "She is a talented figure skater.", "example_ja": "彼女は才能あるフィギュアスケーターだ。" },
+    { "title": "② a group of skaters（スケーターの一団）", "desc": "スケボーをする若者など", "example_en": "A group of skaters gathered at the park.", "example_ja": "スケーターの一団が公園に集まった。" }
+  ],
+  "warn": ["文脈で『アイススケーター』『ローラースケーター』『スケートボーダー』のどれかが決まる", "スケートボード専門なら skateboarder と明示することもある"],
+  "etym_note": "skate（スケートをする。オランダ語 schaats「竹馬・スケート」由来）＋-er（〜する人）。",
+  "etym_chain": [
+    { "node": "schaats", "sub": "スケート(オランダ語)", "era": "オランダ語" },
+    { "node": "skate", "sub": "スケートをする", "era": "近代英語" },
+    { "node": "skater", "sub": "スケートをする人", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "a figure skater", "ja": "フィギュアスケーター" },
+    { "en": "a speed skater", "ja": "スピードスケーター" },
+    { "en": "a roller skater", "ja": "ローラースケーター" },
+    { "en": "a skilled skater", "ja": "熟練したスケーター" },
+    { "en": "a group of skaters", "ja": "スケーターの一団" },
+    { "en": "a young skater", "ja": "若いスケーター" }
+  ],
+  "related": [
+    { "en": "skate", "ja": "スケートをする" },
+    { "en": "skating", "ja": "スケート(をすること)" },
+    { "en": "skateboard", "ja": "スケートボード" },
+    { "en": "ice", "ja": "氷" }
+  ],
+  "faq": [
+    { "q": "skater はどんなスケートをする人？", "a": "文脈によります。フィギュア・スピードなどのアイススケーター、ローラースケーター、スケートボーダーのいずれも指します。競技名を付けて figure skater などと明示すると明確です。" },
+    { "q": "skateboarder との違いは？", "a": "skater はスケート全般をする人を指す広い語で、スケートボード専門と明示したいときは skateboarder を使います。ただし口語では skater でスケボー愛好者を指すことも多いです。" }
+  ],
+  "quiz": [
+    { "q": "skater の意味は？", "A": "スケートをする人", "B": "泳ぐ人", "C": "走る人", "D": "登る人", "correct": "A" },
+    { "q": "a figure skater とは？", "A": "フィギュアスケーター", "B": "水泳選手", "C": "登山家", "D": "体操選手", "correct": "A" }
+  ]
+},
+{
+  "english": "skating",
+  "pron": "ˈskeɪtɪŋ",
+  "kana": "スケーティング",
+  "hinshi": "名詞 / 動詞(現在分詞)",
+  "ld_pos": "名詞",
+  "ld_etym": "skate(スケートをする)+-ing",
+  "ld_level": "3級",
+  "badges": ["中学生〜", "英検3級", "CEFR A2", "不可算名詞"],
+  "meaning_main": "スケート(をすること)/滑走",
+  "description": "skating（スケーティング）は「スケート(をすること)・滑走」。動詞skateの-ing形で、アイススケートやローラースケートなどを指す。意味・使い方・例文・関連語を解説。",
+  "keywords": ["skating 意味", "skating スケート", "figure skating", "skating 例文"],
+  "meanings": [
+    { "hinshi": "【名詞】スケート(をすること)", "note": "氷上や路面を滑るスポーツ・活動。不可算名詞" },
+    { "hinshi": "【動詞】スケートをしている", "note": "skate の現在分詞・進行形" }
+  ],
+  "usages": [
+    { "title": "① go skating（スケートに行く）", "desc": "スケートをしに行く", "example_en": "We went skating on the frozen lake.", "example_ja": "私たちは凍った湖にスケートをしに行った。" },
+    { "title": "② figure skating（フィギュアスケート）", "desc": "競技としてのスケート", "example_en": "Figure skating is popular at the Winter Olympics.", "example_ja": "フィギュアスケートは冬季五輪で人気だ。" }
+  ],
+  "warn": ["『〜しに行く』は go skating のように go + -ing で表す", "on thin ice / skate on thin ice（危ない橋を渡る）という慣用句もある"],
+  "etym_note": "skate（オランダ語 schaats 由来）＋-ing。『スケートをすること』を表す動名詞。",
+  "etym_chain": [
+    { "node": "schaats", "sub": "スケート(オランダ語)", "era": "オランダ語" },
+    { "node": "skate", "sub": "スケートをする", "era": "近代英語" },
+    { "node": "skating", "sub": "スケート(をすること)", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "go skating", "ja": "スケートに行く" },
+    { "en": "figure skating", "ja": "フィギュアスケート" },
+    { "en": "speed skating", "ja": "スピードスケート" },
+    { "en": "ice skating", "ja": "アイススケート" },
+    { "en": "roller skating", "ja": "ローラースケート" },
+    { "en": "a skating rink", "ja": "スケートリンク" }
+  ],
+  "related": [
+    { "en": "skate", "ja": "スケートをする" },
+    { "en": "skater", "ja": "スケートをする人" },
+    { "en": "rink", "ja": "スケート場・リンク" },
+    { "en": "ice", "ja": "氷" }
+  ],
+  "faq": [
+    { "q": "『スケートに行く』は英語で？", "a": "go skating と言います。go + -ing で『〜しに行く』を表す言い方で、go swimming（泳ぎに行く）などと同じ形です。" },
+    { "q": "figure skating と speed skating の違いは？", "a": "figure skating は音楽に合わせて演技し技術と芸術性を競う競技、speed skating は決められた距離を滑る速さを競う競技です。" }
+  ],
+  "quiz": [
+    { "q": "skating の意味は？", "A": "スケート(をすること)", "B": "水泳", "C": "登山", "D": "読書", "correct": "A" },
+    { "q": "『スケートに行く』は？", "A": "go skating", "B": "do skating", "C": "make skating", "D": "play skating", "correct": "A" }
+  ]
+},
+{
+  "english": "sketched",
+  "pron": "skɛtʃt",
+  "kana": "スケッチト",
+  "hinshi": "動詞(過去・過去分詞)",
+  "ld_pos": "動詞",
+  "ld_etym": "sketch(スケッチする)+-ed",
+  "ld_level": "2級",
+  "badges": ["中学生〜", "英検2級", "CEFR B1", "過去形"],
+  "meaning_main": "スケッチした/下絵を描いた/大まかに述べた",
+  "description": "sketched（スケッチト）は動詞sketchの過去・過去分詞で「スケッチした・下絵を描いた・大まかに述べた」。sketch out(概略を示す)も解説。意味・使い方・例文を紹介。",
+  "keywords": ["sketched 意味", "sketch 過去形", "sketched out", "sketched 例文"],
+  "meanings": [
+    { "hinshi": "【動詞】スケッチした・下絵を描いた", "note": "sketch（簡単な絵を描く）の過去・過去分詞" },
+    { "hinshi": "【動詞】大まかに述べた", "note": "sketch out で計画・考えの概略を示すこと" }
+  ],
+  "usages": [
+    { "title": "① sketched a scene（風景をスケッチした）", "desc": "簡単な絵を描く", "example_en": "He sketched the harbor in his notebook.", "example_ja": "彼はノートに港をスケッチした。" },
+    { "title": "② sketched out a plan（計画の概略を示した）", "desc": "大まかに述べる", "example_en": "She sketched out her ideas for the project.", "example_ja": "彼女はプロジェクトの構想の概略を示した。" }
+  ],
+  "warn": ["sketch out で『(計画・考えの)あらましを述べる』という比喩的用法になる", "『スケッチ・下絵』の名詞 sketch と同じ綴り"],
+  "etym_note": "sketch（オランダ語 schets、さらにギリシャ語 skhedios「即席の」に由来）＋-ed。『即席に描いたもの』から。",
+  "etym_chain": [
+    { "node": "skhedios", "sub": "即席の(ギリシャ語)", "era": "ギリシャ語" },
+    { "node": "sketch", "sub": "スケッチする", "era": "近代英語" },
+    { "node": "sketched", "sub": "スケッチした", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "sketched a scene", "ja": "風景をスケッチした" },
+    { "en": "sketched out a plan", "ja": "計画の概略を示した" },
+    { "en": "roughly sketched", "ja": "大まかに描かれた" },
+    { "en": "sketched in pencil", "ja": "鉛筆でスケッチした" },
+    { "en": "sketched the details", "ja": "細部を描いた・述べた" },
+    { "en": "hastily sketched", "ja": "急いで描かれた" }
+  ],
+  "related": [
+    { "en": "sketch", "ja": "スケッチ・下絵" },
+    { "en": "draw", "ja": "描く" },
+    { "en": "outline", "ja": "概略を示す" },
+    { "en": "drawn", "ja": "描かれた" }
+  ],
+  "faq": [
+    { "q": "sketch out はどんな意味？", "a": "『(計画・考えの)あらましを大まかに述べる』という意味です。絵を描く sketch から比喩的に発展した使い方で、sketched out a plan のように使います。" },
+    { "q": "sketched は絵以外にも使える？", "a": "はい。sketch out で計画・アイデアの概略を示すことにも使います。例: He sketched out the main points.（要点の概略を述べた）。" }
+  ],
+  "quiz": [
+    { "q": "sketched の意味は？", "A": "スケッチした・下絵を描いた", "B": "塗りつぶした", "C": "消した", "D": "額に入れた", "correct": "A" },
+    { "q": "sketch out a plan の意味は？", "A": "計画の概略を示す", "B": "計画を中止する", "C": "計画を完成させる", "D": "計画を隠す", "correct": "A" }
+  ]
+},
+{
+  "english": "skier",
+  "pron": "ˈskiːər",
+  "kana": "スキヤー",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "ski(スキーをする)+-er(人)",
+  "ld_level": "3級",
+  "badges": ["中学生〜", "英検3級", "CEFR A2", "可算名詞"],
+  "meaning_main": "スキーをする人/スキーヤー",
+  "description": "skier（スキヤー）は「スキーをする人・スキーヤー」。雪山を滑るスキーの愛好者や選手を指す。意味・使い方・例文・関連語をわかりやすく解説。",
+  "keywords": ["skier 意味", "skier スキーヤー", "ski 人", "skier 例文"],
+  "meanings": [
+    { "hinshi": "【名詞】スキーをする人", "note": "スキーで雪の斜面を滑る人。愛好者・選手の両方に使う。可算名詞" }
+  ],
+  "usages": [
+    { "title": "① an experienced skier（経験豊富なスキーヤー）", "desc": "上手なスキーヤー", "example_en": "She is an experienced skier.", "example_ja": "彼女は経験豊富なスキーヤーだ。" },
+    { "title": "② skiers on the slope（斜面のスキーヤーたち）", "desc": "ゲレンデの人々", "example_en": "The slope was crowded with skiers.", "example_ja": "その斜面はスキーヤーで混雑していた。" }
+  ],
+  "warn": ["綴りは ski + er で skier。発音は『スキーヤー』/ˈskiːər/", "スノーボードをする人は snowboarder で別語"],
+  "etym_note": "ski（ノルウェー語 ski「雪の上を滑る板」由来）＋-er（〜する人）。北欧由来の語。",
+  "etym_chain": [
+    { "node": "skíð", "sub": "板・雪の板(古ノルド語)", "era": "古ノルド語" },
+    { "node": "ski", "sub": "スキー(をする)", "era": "近代英語" },
+    { "node": "skier", "sub": "スキーをする人", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "an experienced skier", "ja": "経験豊富なスキーヤー" },
+    { "en": "a beginner skier", "ja": "初心者のスキーヤー" },
+    { "en": "a downhill skier", "ja": "滑降スキーヤー" },
+    { "en": "skiers and snowboarders", "ja": "スキーヤーとスノーボーダー" },
+    { "en": "a skilled skier", "ja": "熟練したスキーヤー" },
+    { "en": "a professional skier", "ja": "プロのスキーヤー" }
+  ],
+  "related": [
+    { "en": "ski", "ja": "スキー(をする)" },
+    { "en": "skiing", "ja": "スキー(をすること)" },
+    { "en": "snowboarder", "ja": "スノーボーダー" },
+    { "en": "slope", "ja": "斜面・ゲレンデ" }
+  ],
+  "faq": [
+    { "q": "skier の発音は？", "a": "/ˈskiːər/（スキーヤー）です。ski（スキー）に人を表す-erが付いた語で、iのあとにerが続く点に注意します。" },
+    { "q": "snowboarder との違いは？", "a": "skier はスキー板で滑る人、snowboarder はスノーボードで滑る人です。用具が異なる別の競技・愛好者です。" }
+  ],
+  "quiz": [
+    { "q": "skier の意味は？", "A": "スキーをする人", "B": "泳ぐ人", "C": "登る人", "D": "走る人", "correct": "A" },
+    { "q": "スノーボードをする人は？", "A": "snowboarder", "B": "skier", "C": "skater", "D": "surfer", "correct": "A" }
+  ]
+}
+]
