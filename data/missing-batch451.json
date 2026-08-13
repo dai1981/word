@@ -1,0 +1,983 @@
+[
+  {
+    "english": "tearful",
+    "pron": "ˈtɪərfəl",
+    "kana": "ティアフル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "tear（涙）+ -ful（満ちた）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "頻出"],
+    "meaning_main": "涙ぐんだ・涙にくれた・涙を誘う",
+    "description": "tearful（ティアフル）は「涙ぐんだ・涙にくれた」、また「涙を誘う」。感情があふれて泣きそうな様子や、悲しい場面を表す語です。tear（涙）の形容詞形です。意味・使い方・例文を解説します。",
+    "keywords": ["tearful 意味", "涙ぐんだ", "涙にくれた", "tear"],
+    "meanings": [
+      { "hinshi": "【形容詞】涙ぐんだ・涙にくれた", "note": "感情があふれて泣きそう・泣いている。a tearful goodbye（涙の別れ）" },
+      { "hinshi": "【形容詞】涙を誘う・悲しい", "note": "見る人を泣かせるような。a tearful scene（涙を誘う場面）" }
+    ],
+    "usages": [
+      { "title": "① 涙ぐんだ様子", "desc": "泣きそうな", "example_en": "She gave a tearful smile.", "example_ja": "彼女は涙ぐみながらほほ笑んだ。" },
+      { "title": "② 涙の別れ", "desc": "感動的な場面", "example_en": "They said a tearful goodbye.", "example_ja": "彼らは涙ながらに別れを告げた。" }
+    ],
+    "warn": ["tear は『涙 /tɪər/』と『引き裂く /teər/』で発音が異なる同綴り語。tearful は『涙 /tɪər/』のほう。副詞は tearfully（涙ながらに）"],
+    "etym_note": "tear（涙。古英語 tēar より）に -ful（〜に満ちた）が付いた語。『涙に満ちた』の意。",
+    "etym_chain": [
+      { "node": "tēar", "sub": "涙", "era": "古英語" },
+      { "node": "tear", "sub": "涙", "era": "中英語" },
+      { "node": "tearful", "sub": "涙ぐんだ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a tearful goodbye", "ja": "涙の別れ" },
+      { "en": "a tearful smile", "ja": "涙ぐんだほほ笑み" },
+      { "en": "tearful reunion", "ja": "涙の再会" },
+      { "en": "become tearful", "ja": "涙ぐむ" },
+      { "en": "a tearful voice", "ja": "涙声" },
+      { "en": "tearful eyes", "ja": "涙にうるんだ目" }
+    ],
+    "related": [
+      { "en": "tear", "ja": "涙" },
+      { "en": "weepy", "ja": "泣きそうな" },
+      { "en": "emotional", "ja": "感情的な" },
+      { "en": "sobbing", "ja": "すすり泣く" }
+    ],
+    "faq": [
+      { "q": "tearful とはどういう意味ですか？", "a": "「涙ぐんだ・涙にくれた・涙を誘う」という意味です。感情があふれて泣きそう・泣いている様子（a tearful smile＝涙ぐんだほほ笑み）や、見る人を泣かせるような場面（a tearful farewell＝涙の別れ）を表します。" },
+      { "q": "tear の発音に注意点はありますか？", "a": "はい。tear は『涙』の意味では /tɪər/（ティア）、『引き裂く』の意味では /teər/（テア）と発音が異なる同綴り語です。tearful は『涙』のほうで /ˈtɪərfəl/ と読みます。" }
+    ],
+    "quiz": [
+      { "q": "tearful の意味は？", "A": "涙ぐんだ・涙にくれた", "B": "笑っている", "C": "怒っている", "D": "眠っている", "correct": "A" },
+      { "q": "a tearful goodbye の意味は？", "A": "涙の別れ", "B": "楽しい再会", "C": "静かな朝", "D": "怒りの抗議", "correct": "A" }
+    ]
+  },
+  {
+    "english": "teary",
+    "pron": "ˈtɪəri",
+    "kana": "ティアリー",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "tear（涙）+ -y",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "口語"],
+    "meaning_main": "涙ぐんだ・うるんだ・泣きそうな",
+    "description": "teary（ティアリー）は「涙ぐんだ・目がうるんだ・泣きそうな」。目に涙がにじんでいる様子を表すくだけた語です。tearful とほぼ同義。teary-eyed（涙ぐんだ）で頻出します。意味・使い方を解説します。",
+    "keywords": ["teary 意味", "涙ぐんだ", "うるんだ", "teary-eyed"],
+    "meanings": [
+      { "hinshi": "【形容詞】涙ぐんだ・うるんだ・泣きそうな", "note": "目に涙がにじんだ。teary-eyed（涙ぐんだ）。tearful に近いくだけた語" }
+    ],
+    "usages": [
+      { "title": "① 目がうるむ", "desc": "涙ぐむ", "example_en": "She got teary at the wedding.", "example_ja": "彼女は結婚式で涙ぐんだ。" },
+      { "title": "② teary-eyed", "desc": "涙目で", "example_en": "He was teary-eyed with joy.", "example_ja": "彼は喜びで目をうるませていた。" }
+    ],
+    "warn": ["tearful とほぼ同義でよりくだけた語。teary-eyed（涙ぐんだ・涙目の）が定番。tear は『涙 /tɪər/』のほう"],
+    "etym_note": "tear（涙。古英語 tēar より）に -y が付いた語。tearful と同語源のくだけた形。",
+    "etym_chain": [
+      { "node": "tēar", "sub": "涙", "era": "古英語" },
+      { "node": "tear", "sub": "涙", "era": "中英語" },
+      { "node": "teary", "sub": "涙ぐんだ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "teary-eyed", "ja": "涙ぐんだ・涙目の" },
+      { "en": "get teary", "ja": "涙ぐむ" },
+      { "en": "a teary voice", "ja": "涙声" },
+      { "en": "teary with emotion", "ja": "感極まって涙ぐんで" },
+      { "en": "feel teary", "ja": "泣きそうになる" },
+      { "en": "teary and emotional", "ja": "涙ぐんで感傷的な" }
+    ],
+    "related": [
+      { "en": "tearful", "ja": "涙ぐんだ・涙にくれた" },
+      { "en": "tear", "ja": "涙" },
+      { "en": "weepy", "ja": "泣きそうな" },
+      { "en": "misty-eyed", "ja": "目がうるんだ" }
+    ],
+    "faq": [
+      { "q": "teary と tearful の違いは？", "a": "どちらも『涙ぐんだ』でほぼ同義です。teary はよりくだけた語で『目がうるんでいる』様子を、tearful はやや文語的で『涙にくれた・涙を誘う』という強めのニュアンスもあります。teary-eyed の形でよく使います。" },
+      { "q": "teary-eyed とは？", "a": "「涙ぐんだ・涙目の」という意味です。感動・喜び・悲しみなどで目に涙がにじんでいる様子を表します。She looked at him, teary-eyed.（彼女は涙ぐんで彼を見た）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "teary の意味は？", "A": "涙ぐんだ・うるんだ・泣きそうな", "B": "笑っている", "C": "眠そうな", "D": "怒っている", "correct": "A" },
+      { "q": "teary-eyed の意味は？", "A": "涙ぐんだ・涙目の", "B": "大笑いした", "C": "目を閉じた", "D": "遠くを見た", "correct": "A" }
+    ]
+  },
+  {
+    "english": "teasing",
+    "pron": "ˈtiːzɪŋ",
+    "kana": "ティージング",
+    "hinshi": "動詞（tease の現在分詞）/ 形容詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古英語 tǣsan（毛をすく・いらだたせる）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出"],
+    "meaning_main": "からかうこと・じらすこと／からかうような",
+    "description": "teasing（ティージング）は tease（からかう・じらす）の現在分詞・形容詞で「からかうこと・じらすこと」。悪気なくふざけてからかう、または期待を持たせてじらす様子を表します。意味・使い方を解説します。",
+    "keywords": ["teasing 意味", "からかう", "じらす", "tease"],
+    "meanings": [
+      { "hinshi": "【動詞・名詞】からかうこと・じらすこと（tease の現在分詞）", "note": "悪気なくふざけてからかう、または焦らす" },
+      { "hinshi": "【形容詞】からかうような・じらすような", "note": "a teasing smile（からかうようなほほ笑み）" }
+    ],
+    "usages": [
+      { "title": "① 軽くからかう", "desc": "ふざけて", "example_en": "He was just teasing you.", "example_ja": "彼はただ君をからかっていただけだ。" },
+      { "title": "② じらすような態度", "desc": "焦らす", "example_en": "She gave a teasing smile.", "example_ja": "彼女はからかうようにほほ笑んだ。" }
+    ],
+    "warn": ["tease は悪意のない『軽いからかい・冗談』のことが多いが、しつこいと『いじめ』にもなりうる。じらす（期待させて焦らす）の意味も"],
+    "etym_note": "古英語 tǣsan（毛をすく→いらだたせる）由来の tease の -ing 形。もとは羊毛をほぐす作業から『（気持ちを）ほぐす・かき乱す』へ。",
+    "etym_chain": [
+      { "node": "tǣsan", "sub": "毛をすく・いらだたせる", "era": "古英語" },
+      { "node": "tease", "sub": "からかう・じらす", "era": "中英語" },
+      { "node": "teasing", "sub": "からかうこと", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a teasing smile", "ja": "からかうようなほほ笑み" },
+      { "en": "gentle teasing", "ja": "軽いからかい" },
+      { "en": "stop teasing", "ja": "からかうのをやめる" },
+      { "en": "playful teasing", "ja": "ふざけたからかい" },
+      { "en": "a teasing tone", "ja": "からかうような口調" },
+      { "en": "teasing and joking", "ja": "からかいと冗談" }
+    ],
+    "related": [
+      { "en": "tease", "ja": "からかう・じらす" },
+      { "en": "mock", "ja": "あざける" },
+      { "en": "joke", "ja": "冗談を言う" },
+      { "en": "tantalize", "ja": "じらす・じらして苦しめる" }
+    ],
+    "faq": [
+      { "q": "teasing はいつも悪い意味ですか？", "a": "いいえ。多くは悪気のない『軽いからかい・冗談』で、親しみを込めた場合もあります。ただし、しつこかったり相手が嫌がったりすると『いじめ』になりうるので、相手の気持ちに配慮が必要です。" },
+      { "q": "『じらす』の意味もありますか？", "a": "はい。tease には『（期待を持たせて）じらす・焦らす』という意味もあります。a teasing preview（じらすような予告）のように、興味を引きつけつつ全部は見せない様子を表します。" }
+    ],
+    "quiz": [
+      { "q": "teasing の意味は？", "A": "からかうこと・じらすこと", "B": "ほめること", "C": "助けること", "D": "眠ること", "correct": "A" },
+      { "q": "a teasing smile の意味は？", "A": "からかうようなほほ笑み", "B": "怒った表情", "C": "悲しい顔", "D": "無表情", "correct": "A" }
+    ]
+  },
+  {
+    "english": "teenage",
+    "pron": "ˈtiːneɪdʒ",
+    "kana": "ティーンエイジ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "teen（13〜19歳）+ age（年齢）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出"],
+    "meaning_main": "10代の（13〜19歳の）",
+    "description": "teenage（ティーンエイジ）は「10代の（13〜19歳の）」。英語で語尾が -teen になる 13〜19 歳の年代に関することを表す形容詞です。その年代の若者は teenager。意味・使い方を解説します。",
+    "keywords": ["teenage 意味", "10代の", "teenager", "ティーンエイジャー"],
+    "meanings": [
+      { "hinshi": "【形容詞】10代の（13〜19歳の）", "note": "英語で thirteen〜nineteen と -teen が付く年代の。teenage years（10代のころ）" }
+    ],
+    "usages": [
+      { "title": "① 10代の若者", "desc": "13〜19歳", "example_en": "She has two teenage children.", "example_ja": "彼女には10代の子どもが2人いる。" },
+      { "title": "② 10代のころ", "desc": "青春期", "example_en": "He wrote poetry in his teenage years.", "example_ja": "彼は10代のころに詩を書いた。" }
+    ],
+    "warn": ["teenage（形容詞）に対し、その年代の若者は teenager（名詞）。13〜19歳（-teen の付く年齢）を指す"],
+    "etym_note": "teen（-teen＝13〜19の語尾）+ age（年齢）を合わせた語。thirteen〜nineteen の年代を表す。",
+    "etym_chain": [
+      { "node": "teen + age", "sub": "-teen の年齢", "era": "20世紀" },
+      { "node": "teenage", "sub": "10代の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "teenage years", "ja": "10代のころ" },
+      { "en": "a teenage boy", "ja": "10代の少年" },
+      { "en": "teenage children", "ja": "10代の子ども" },
+      { "en": "teenage rebellion", "ja": "10代の反抗" },
+      { "en": "teenage friends", "ja": "10代の友達" },
+      { "en": "a teenage crush", "ja": "10代の淡い恋" }
+    ],
+    "related": [
+      { "en": "teenager", "ja": "10代の若者" },
+      { "en": "teen", "ja": "10代の（若者）" },
+      { "en": "adolescent", "ja": "青年期の・思春期の" },
+      { "en": "youth", "ja": "若者・青春" }
+    ],
+    "faq": [
+      { "q": "teenage は何歳を指しますか？", "a": "13歳から19歳を指します。英語でこれらの数はすべて -teen（thirteen〜nineteen）で終わることから、この年代を teenage（10代の）と呼びます。その年代の若者を teenager と言います。" },
+      { "q": "teenage と adolescent の違いは？", "a": "teenage は『13〜19歳の（年齢による区切り）』、adolescent は『思春期・青年期の（心身の発達段階による区切り）』です。重なる部分は大きいですが、区切り方が異なります。" }
+    ],
+    "quiz": [
+      { "q": "teenage は何歳を指す？", "A": "13〜19歳（10代）", "B": "0〜5歳", "C": "20〜30歳", "D": "60歳以上", "correct": "A" },
+      { "q": "teenage の年代の若者を何という？", "A": "teenager", "B": "teenage only", "C": "teener", "D": "teenling", "correct": "A" }
+    ]
+  },
+  {
+    "english": "teleportation",
+    "pron": "ˌtɛlɪpɔːrˈteɪʃən",
+    "kana": "テレポーテーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "tele-（遠く）+ portation（運ぶこと）",
+    "ld_level": "1級",
+    "badges": ["中学生〜", "英検1級", "CEFR B2", "SF・科学"],
+    "meaning_main": "テレポーテーション（瞬間移動）",
+    "description": "teleportation（テレポーテーション）は「瞬間移動」。人や物が、間の空間を移動せずに離れた場所へ一瞬で移ることです。SFでおなじみで、物理では量子テレポーテーションも研究されています。意味を解説します。",
+    "keywords": ["teleportation 意味", "瞬間移動", "テレポート", "量子"],
+    "meanings": [
+      { "hinshi": "【名詞】テレポーテーション・瞬間移動", "note": "人や物が間の空間を通らずに離れた場所へ一瞬で移ること。SFの定番。動詞は teleport。不可算" }
+    ],
+    "usages": [
+      { "title": "① SFの瞬間移動", "desc": "一瞬で移動", "example_en": "In the movie, they use teleportation to travel.", "example_ja": "その映画では移動に瞬間移動を使う。" },
+      { "title": "② 量子テレポーテーション", "desc": "物理の研究", "example_en": "Quantum teleportation transfers information, not matter.", "example_ja": "量子テレポーテーションは物質ではなく情報を転送する。" }
+    ],
+    "warn": ["動詞は teleport（瞬間移動する）。SFの『物体・人の瞬間移動』と、物理の『量子テレポーテーション（情報の転送）』は別物"],
+    "etym_note": "tele-（遠く。ギリシャ語 tēle）+ portation（porter「運ぶ」より＝運ぶこと）を合わせた語。telephone・transport と同じ要素を含む。",
+    "etym_chain": [
+      { "node": "tele + portation", "sub": "遠くへ運ぶこと", "era": "20世紀" },
+      { "node": "teleportation", "sub": "瞬間移動", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "human teleportation", "ja": "人間の瞬間移動" },
+      { "en": "quantum teleportation", "ja": "量子テレポーテーション" },
+      { "en": "the power of teleportation", "ja": "瞬間移動の能力" },
+      { "en": "teleportation device", "ja": "瞬間移動装置" },
+      { "en": "instant teleportation", "ja": "一瞬の瞬間移動" },
+      { "en": "dream of teleportation", "ja": "瞬間移動を夢見る" }
+    ],
+    "related": [
+      { "en": "teleport", "ja": "瞬間移動する" },
+      { "en": "transport", "ja": "輸送する" },
+      { "en": "quantum", "ja": "量子" },
+      { "en": "science fiction", "ja": "SF" }
+    ],
+    "faq": [
+      { "q": "teleportation（瞬間移動）は実際に可能ですか？", "a": "SFのような『人や物の瞬間移動』は現在の科学では実現していません。ただし物理学では『量子テレポーテーション』という、量子の状態（情報）を離れた場所へ転送する技術が研究されています。物質そのものを送るわけではありません。" },
+      { "q": "quantum teleportation とは？", "a": "「量子テレポーテーション」のことで、量子のもつ状態（情報）を、量子のもつれを利用して離れた場所へ転送する技術です。物質や人を移すのではなく、あくまで情報を転送する点がSFとは異なります。" }
+    ],
+    "quiz": [
+      { "q": "teleportation の意味は？", "A": "瞬間移動", "B": "空中浮遊", "C": "透明化", "D": "時間旅行", "correct": "A" },
+      { "q": "teleportation の動詞形は？", "A": "teleport", "B": "teleportate", "C": "teleporting のみ", "D": "teleportize", "correct": "A" }
+    ]
+  },
+  {
+    "english": "telling-off",
+    "pron": "ˌtɛlɪŋˈɒf",
+    "kana": "テリングオフ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "tell off（叱る）の名詞化",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "口語・英"],
+    "meaning_main": "（口頭での）叱責・お小言（主にイギリス口語）",
+    "description": "telling-off（テリングオフ）は「（口頭での）叱責・お小言」を表すイギリスの口語です。動詞句 tell off（叱る）から生まれた名詞で、give someone a telling-off（〜を叱る）で使います。意味を解説します。",
+    "keywords": ["telling-off 意味", "叱責", "叱る", "tell off"],
+    "meanings": [
+      { "hinshi": "【名詞】（口頭での）叱責・お小言", "note": "叱ること・叱られること。主にイギリス口語。give/get a telling-off（叱る／叱られる）。可算" }
+    ],
+    "usages": [
+      { "title": "① 叱られること", "desc": "お小言", "example_en": "He got a telling-off from his mother.", "example_ja": "彼は母親から叱られた。" },
+      { "title": "② 叱ること", "desc": "give a telling-off", "example_en": "The teacher gave them a good telling-off.", "example_ja": "先生は彼らをこっぴどく叱った。" }
+    ],
+    "warn": ["主にイギリスの口語。動詞句は tell off（叱る）。give/get a telling-off の形で使う。scolding（叱責）と近い"],
+    "etym_note": "動詞句 tell off（（人を）叱る・とがめる）を名詞化した語。tell（言う）+ off（きっぱりと）から『きつく言う＝叱る』。",
+    "etym_chain": [
+      { "node": "tell off", "sub": "叱る", "era": "近代英語" },
+      { "node": "telling-off", "sub": "叱責", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "give a telling-off", "ja": "叱る" },
+      { "en": "get a telling-off", "ja": "叱られる" },
+      { "en": "a good telling-off", "ja": "こっぴどい叱責" },
+      { "en": "deserve a telling-off", "ja": "叱られて当然だ" },
+      { "en": "a stern telling-off", "ja": "厳しい叱責" },
+      { "en": "after a telling-off", "ja": "叱られた後で" }
+    ],
+    "related": [
+      { "en": "tell off", "ja": "叱る" },
+      { "en": "scolding", "ja": "叱責" },
+      { "en": "reprimand", "ja": "けん責・叱責" },
+      { "en": "rebuke", "ja": "非難・叱責" }
+    ],
+    "faq": [
+      { "q": "telling-off とはどういう意味ですか？", "a": "「（口頭での）叱責・お小言」を意味するイギリスの口語です。動詞句 tell off（叱る）から生まれた名詞で、give someone a telling-off（〜を叱る）、get a telling-off（叱られる）の形でよく使います。" },
+      { "q": "アメリカでは何と言いますか？", "a": "telling-off は主にイギリスで使われます。アメリカでは a scolding（叱責）や get chewed out（こっぴどく叱られる）などの言い方がよく使われます。" }
+    ],
+    "quiz": [
+      { "q": "telling-off の意味は？", "A": "（口頭での）叱責・お小言", "B": "ほめ言葉", "C": "招待", "D": "贈り物", "correct": "A" },
+      { "q": "get a telling-off の意味は？", "A": "叱られる", "B": "ほめられる", "C": "招待される", "D": "無視される", "correct": "A" }
+    ]
+  },
+  {
+    "english": "temporarily",
+    "pron": "ˌtɛmpəˈrɛrɪli",
+    "kana": "テンポラリリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "temporary（一時的な）+ -ly",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "頻出"],
+    "meaning_main": "一時的に・仮に・当面",
+    "description": "temporarily（テンポラリリー）は「一時的に・仮に・当面」。ある期間だけ・とりあえずの間だけ、という意味の副詞です。temporary（一時的な）の副詞形です。反対は permanently（永久に）。意味を解説します。",
+    "keywords": ["temporarily 意味", "一時的に", "仮に", "temporary"],
+    "meanings": [
+      { "hinshi": "【副詞】一時的に・仮に・当面", "note": "ある限られた期間だけ。temporarily closed（一時閉店中）。反対は permanently" }
+    ],
+    "usages": [
+      { "title": "① 一時的に", "desc": "限られた期間", "example_en": "The road is temporarily closed.", "example_ja": "その道路は一時的に閉鎖されている。" },
+      { "title": "② 仮に住む", "desc": "当面の間", "example_en": "She is temporarily living with friends.", "example_ja": "彼女は当面、友人と一緒に暮らしている。" }
+    ],
+    "warn": ["temporary（一時的な・仮の）の副詞形。反対は permanently（永久に）。temporarily unavailable（一時的に利用できない）は頻出"],
+    "etym_note": "ラテン語 tempus（時。tempora「時々」）由来の temporary に -ly が付いた語。tempo・temporal と同語源。",
+    "etym_chain": [
+      { "node": "tempus", "sub": "時", "era": "ラテン語" },
+      { "node": "temporary", "sub": "一時的な", "era": "近代英語" },
+      { "node": "temporarily", "sub": "一時的に", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "temporarily closed", "ja": "一時閉店中" },
+      { "en": "temporarily unavailable", "ja": "一時的に利用できない" },
+      { "en": "temporarily suspended", "ja": "一時停止された" },
+      { "en": "live temporarily", "ja": "仮住まいする" },
+      { "en": "temporarily out of stock", "ja": "一時的に在庫切れ" },
+      { "en": "only temporarily", "ja": "一時的にだけ" }
+    ],
+    "related": [
+      { "en": "temporary", "ja": "一時的な・仮の" },
+      { "en": "briefly", "ja": "短い間・手短に" },
+      { "en": "provisionally", "ja": "仮に・暫定的に" },
+      { "en": "permanently", "ja": "永久に（反対）" }
+    ],
+    "faq": [
+      { "q": "temporarily と permanently の違いは？", "a": "temporarily は『一時的に・当面の間だけ』、permanently は『永久に・恒久的に』です。The store is temporarily closed.（一時閉店）／The store is permanently closed.（閉店してしまった）のように、続く期間が正反対です。" },
+      { "q": "temporarily unavailable とは？", "a": "「一時的に利用できない・現在は入手できない」という意味です。商品の在庫切れやサービスの一時停止などで、ウェブサイトや店頭でよく見かける表現です。" }
+    ],
+    "quiz": [
+      { "q": "temporarily の意味は？", "A": "一時的に・仮に・当面", "B": "永久に", "C": "偶然に", "D": "急いで", "correct": "A" },
+      { "q": "temporarily の反対語は？", "A": "permanently", "B": "briefly", "C": "quickly", "D": "recently", "correct": "A" }
+    ]
+  },
+  {
+    "english": "temptress",
+    "pron": "ˈtɛmptrəs",
+    "kana": "テンプトレス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "tempter（誘惑する人）の女性形",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文語"],
+    "meaning_main": "（男性を）誘惑する女性・妖婦",
+    "description": "temptress（テンプトレス）は「（男性を）誘惑する女性・妖婦」。魅力で男性を誘い惑わせる女性を指す文語的な語です。男性形は tempter。物語などで使われます。意味・使い方を解説します。",
+    "keywords": ["temptress 意味", "誘惑する女性", "妖婦", "tempter"],
+    "meanings": [
+      { "hinshi": "【名詞】誘惑する女性・妖婦", "note": "魅力で（特に男性を）誘い惑わせる女性。男性形は tempter。文語的。可算" }
+    ],
+    "usages": [
+      { "title": "① 誘惑する女性", "desc": "妖婦", "example_en": "She played the role of a temptress in the film.", "example_ja": "彼女は映画で妖婦の役を演じた。" },
+      { "title": "② 物語の登場人物", "desc": "誘惑者", "example_en": "The temptress lured the hero astray.", "example_ja": "妖婦は主人公を誘惑して道を誤らせた。" }
+    ],
+    "warn": ["男性形は tempter（誘惑する人）。動詞は tempt（誘惑する）、名詞は temptation（誘惑）。やや古風・文語的な語"],
+    "etym_note": "tempt（誘惑する。ラテン語 temptare「試みる」より）由来の tempter に、女性を表す -ess が付いた語（tempteress → temptress）。",
+    "etym_chain": [
+      { "node": "temptare", "sub": "試みる・誘惑する", "era": "ラテン語" },
+      { "node": "tempter", "sub": "誘惑する人", "era": "中英語" },
+      { "node": "temptress", "sub": "誘惑する女性", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a seductive temptress", "ja": "魅惑的な妖婦" },
+      { "en": "play the temptress", "ja": "妖婦を演じる" },
+      { "en": "a dangerous temptress", "ja": "危険な誘惑者" },
+      { "en": "the temptress lured him", "ja": "妖婦が彼を誘惑した" },
+      { "en": "a beautiful temptress", "ja": "美しい誘惑者" },
+      { "en": "a scheming temptress", "ja": "策略家の妖婦" }
+    ],
+    "related": [
+      { "en": "tempter", "ja": "誘惑する人（男性）" },
+      { "en": "tempt", "ja": "誘惑する" },
+      { "en": "temptation", "ja": "誘惑" },
+      { "en": "seductress", "ja": "誘惑する女性" }
+    ],
+    "faq": [
+      { "q": "temptress とはどういう意味ですか？", "a": "「（特に男性を）魅力で誘い惑わせる女性・妖婦」という文語的な語です。物語や映画で、主人公を誘惑して道を誤らせる女性キャラクターなどを指します。男性形は tempter（誘惑する人）です。" },
+      { "q": "seductress との違いは？", "a": "どちらも『誘惑する女性』でほぼ同義です。temptress は『誘惑して惑わせる』、seductress は『（特に性的に）その気にさせる』というニュアンスがやや強めですが、多くの場面で置き換え可能です。" }
+    ],
+    "quiz": [
+      { "q": "temptress の意味は？", "A": "（男性を）誘惑する女性・妖婦", "B": "看護師", "C": "教師", "D": "女王", "correct": "A" },
+      { "q": "temptress の男性形は？", "A": "tempter", "B": "temptor", "C": "temptman", "D": "temptress のみ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "terms",
+    "pron": "tɜːrmz",
+    "kana": "タームズ",
+    "hinshi": "名詞（複数形）",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 terminus（境界・限界）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "頻出"],
+    "meaning_main": "条件・（契約）条項／間柄・関係／（専門）用語",
+    "description": "terms（タームズ）は term の複数形で「（契約などの）条件・条項」「（人との）間柄・関係」「（専門）用語」など幅広い意味を持ちます。in terms of〜（〜の観点で）でも頻出です。意味を解説します。",
+    "keywords": ["terms 意味", "条件", "in terms of", "間柄"],
+    "meanings": [
+      { "hinshi": "【名詞】条件・（契約）条項", "note": "取り決めの内容。terms and conditions（利用規約）、terms of the contract（契約条件）" },
+      { "hinshi": "【名詞】間柄・関係", "note": "on good terms（仲がよい）、be on speaking terms（口をきく仲）" },
+      { "hinshi": "【名詞】（専門）用語・言葉づかい", "note": "technical terms（専門用語）。in terms of〜（〜の観点で）" }
+    ],
+    "usages": [
+      { "title": "① in terms of〜", "desc": "「〜の観点で」", "example_en": "In terms of cost, it's a good deal.", "example_ja": "費用の観点では、お得な取引だ。" },
+      { "title": "② on good terms", "desc": "「仲がよい」", "example_en": "They are on good terms.", "example_ja": "彼らは仲がよい。" }
+    ],
+    "warn": ["in terms of〜（〜の観点から・〜に関して）、terms and conditions（利用規約）、on good/bad terms（仲がよい/悪い）が頻出"],
+    "etym_note": "ラテン語 terminus（境界・限界・終わり）由来の term の複数形。『区切られた期間・言葉・条件』など多くの意味に広がった。",
+    "etym_chain": [
+      { "node": "terminus", "sub": "境界・限界", "era": "ラテン語" },
+      { "node": "term", "sub": "期間・用語・条件", "era": "中英語" },
+      { "node": "terms", "sub": "条件・間柄・用語", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "in terms of", "ja": "〜の観点で" },
+      { "en": "terms and conditions", "ja": "利用規約" },
+      { "en": "on good terms", "ja": "仲がよい" },
+      { "en": "come to terms with", "ja": "〜を受け入れる" },
+      { "en": "terms of the contract", "ja": "契約条件" },
+      { "en": "in no uncertain terms", "ja": "はっきりと" }
+    ],
+    "related": [
+      { "en": "term", "ja": "期間・用語・条件" },
+      { "en": "condition", "ja": "条件" },
+      { "en": "relationship", "ja": "関係・間柄" },
+      { "en": "vocabulary", "ja": "語彙・用語" }
+    ],
+    "faq": [
+      { "q": "in terms of〜 とはどういう意味ですか？", "a": "「〜の観点から・〜に関して・〜の点では」という意味の頻出表現です。In terms of price, this is cheaper.（値段の点では、こちらのほうが安い）のように、何かを判断・比較する基準を示すときに使います。" },
+      { "q": "come to terms with〜 とは？", "a": "「〜を受け入れる・折り合いをつける」という意味です。特につらい事実や困難な状況を、時間をかけて受け入れることを表します。come to terms with a loss（喪失を受け入れる）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "in terms of の意味は？", "A": "〜の観点で・〜に関して", "B": "〜にもかかわらず", "C": "〜の後で", "D": "〜のために", "correct": "A" },
+      { "q": "on good terms の意味は？", "A": "仲がよい", "B": "とても忙しい", "C": "時間どおりに", "D": "無料で", "correct": "A" }
+    ]
+  },
+  {
+    "english": "terrified",
+    "pron": "ˈtɛrɪfaɪd",
+    "kana": "テリファイド",
+    "hinshi": "形容詞 / 動詞（terrify の過去・過去分詞）",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 terrere（怖がらせる）",
+    "ld_level": "準1級",
+    "badges": ["中学生〜", "英検準1級", "CEFR B2", "頻出"],
+    "meaning_main": "おびえた・恐怖におののいた",
+    "description": "terrified（テリファイド）は「おびえた・恐怖におののいた」。強い恐怖で震え上がる様子を表す語です。be terrified of〜（〜を怖がる）で頻出。terrify（怖がらせる）の過去・過去分詞・形容詞です。意味を解説します。",
+    "keywords": ["terrified 意味", "おびえた", "恐怖", "terrify"],
+    "meanings": [
+      { "hinshi": "【形容詞】おびえた・恐怖におののいた", "note": "強い恐怖で震え上がった。be terrified of〜（〜がとても怖い）、be terrified to do（怖くて〜できない）" }
+    ],
+    "usages": [
+      { "title": "① be terrified of〜", "desc": "「〜がとても怖い」", "example_en": "She is terrified of spiders.", "example_ja": "彼女はクモがとても怖い。" },
+      { "title": "② 恐怖で動けない", "desc": "おびえて", "example_en": "He was terrified to move.", "example_ja": "彼は恐怖で動けなかった。" }
+    ],
+    "warn": ["afraid（怖い）・scared（おびえた）より強い恐怖。terrifying（恐ろしい）は物事の側。terrified は人が『おびえた』"],
+    "etym_note": "ラテン語 terrere（怖がらせる）由来の terrify の過去・過去分詞。terror・terrible と同語源。",
+    "etym_chain": [
+      { "node": "terrere", "sub": "怖がらせる", "era": "ラテン語" },
+      { "node": "terrify", "sub": "怖がらせる", "era": "近代英語" },
+      { "node": "terrified", "sub": "おびえた", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be terrified of", "ja": "〜がとても怖い" },
+      { "en": "terrified to do", "ja": "怖くて〜できない" },
+      { "en": "absolutely terrified", "ja": "本当におびえて" },
+      { "en": "look terrified", "ja": "おびえた顔をする" },
+      { "en": "terrified out of one's wits", "ja": "恐怖で気が動転して" },
+      { "en": "terrified and shaking", "ja": "おびえて震えて" }
+    ],
+    "related": [
+      { "en": "terrify", "ja": "怖がらせる" },
+      { "en": "terrifying", "ja": "恐ろしい" },
+      { "en": "scared", "ja": "おびえた" },
+      { "en": "petrified", "ja": "すくみ上がった" }
+    ],
+    "faq": [
+      { "q": "terrified と scared の違いは？", "a": "どちらも『怖がった』ですが、terrified のほうが『（震え上がるほど）強い恐怖』を表します。scared は日常的な『怖い』、terrified は『恐怖でおののく』という強い状態です。" },
+      { "q": "terrified と terrifying の違いは？", "a": "terrified は『（人が）おびえた』、terrifying は『（物事が）恐ろしい・ぞっとさせる』です。I was terrified.（私はおびえた）／a terrifying experience（恐ろしい体験）のように使い分けます。" }
+    ],
+    "quiz": [
+      { "q": "terrified の意味は？", "A": "おびえた・恐怖におののいた", "B": "喜んだ", "C": "退屈した", "D": "満足した", "correct": "A" },
+      { "q": "be terrified of の意味は？", "A": "〜がとても怖い", "B": "〜が大好きだ", "C": "〜に感謝する", "D": "〜を無視する", "correct": "A" }
+    ]
+  },
+  {
+    "english": "testis",
+    "pron": "ˈtɛstɪs",
+    "kana": "テスティス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 testis（睾丸・証人）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "医学"],
+    "meaning_main": "精巣・睾丸（せいそう）",
+    "description": "testis（テスティス）は「精巣・睾丸」。雄の生殖器官で、精子と男性ホルモンを作ります。複数形は testes。日常語では testicle。解剖学の専門語です。意味・特徴をわかりやすく解説します。",
+    "keywords": ["testis 意味", "精巣", "睾丸", "testes"],
+    "meanings": [
+      { "hinshi": "【名詞】精巣・睾丸", "note": "雄の生殖器官。精子と男性ホルモン（テストステロン）を作る。複数形 testes。日常語は testicle。可算" }
+    ],
+    "usages": [
+      { "title": "① 生殖器官として", "desc": "精子を作る", "example_en": "The testis produces sperm.", "example_ja": "精巣は精子を作る。" },
+      { "title": "② 複数形 testes", "desc": "解剖学で", "example_en": "Males have two testes.", "example_ja": "雄には2つの精巣がある。" }
+    ],
+    "warn": ["複数形は testes（テスティーズ）。日常語では testicle。ホルモンの testosterone（テストステロン）と語源が関連する"],
+    "etym_note": "ラテン語 testis（睾丸。同時に『証人』の意味も持ち、testify「証言する」と同語源）に由来。",
+    "etym_chain": [
+      { "node": "testis", "sub": "睾丸・証人", "era": "ラテン語" },
+      { "node": "testis", "sub": "精巣", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the testis produces sperm", "ja": "精巣が精子を作る" },
+      { "en": "two testes", "ja": "2つの精巣" },
+      { "en": "undescended testis", "ja": "停留精巣" },
+      { "en": "the left testis", "ja": "左の精巣" },
+      { "en": "testis function", "ja": "精巣の機能" },
+      { "en": "male testis", "ja": "雄の精巣" }
+    ],
+    "related": [
+      { "en": "testicle", "ja": "睾丸（日常語）" },
+      { "en": "testes", "ja": "精巣（複数）" },
+      { "en": "sperm", "ja": "精子" },
+      { "en": "testosterone", "ja": "テストステロン" }
+    ],
+    "faq": [
+      { "q": "testis（精巣）の働きは？", "a": "雄の生殖器官で、精子を作るとともに、男性ホルモンであるテストステロンを分泌します。生殖と、体つき・声変わりなど男性らしい特徴の発達に関わる重要な器官です。" },
+      { "q": "testis と testicle の違いは？", "a": "同じ『精巣・睾丸』を指します。testis は解剖学・医学の専門語（複数形 testes）、testicle は日常的な言い方です。ラテン語 testis に由来する語です。" }
+    ],
+    "quiz": [
+      { "q": "testis の意味は？", "A": "精巣・睾丸", "B": "心臓", "C": "腎臓", "D": "肝臓", "correct": "A" },
+      { "q": "testis の複数形は？", "A": "testes", "B": "testises", "C": "testi", "D": "testus", "correct": "A" }
+    ]
+  },
+  {
+    "english": "theatre",
+    "pron": "ˈθɪətər",
+    "kana": "シアター",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 theatron（見る場所）",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A1", "頻出"],
+    "meaning_main": "劇場・演劇（イギリス綴り。米は theater）",
+    "description": "theatre（シアター）は「劇場・演劇」。舞台で劇を上演する建物や、演劇という芸術を指します。theatre はイギリス綴りで、アメリカでは theater と綴ります。意味・使い方・例文を解説します。",
+    "keywords": ["theatre 意味", "劇場", "演劇", "theater 違い"],
+    "meanings": [
+      { "hinshi": "【名詞】劇場", "note": "舞台で劇・映画などを上演・上映する建物。イギリス綴り。米は theater" },
+      { "hinshi": "【名詞】演劇・芝居", "note": "舞台芸術としての演劇。go to the theatre（観劇に行く）" }
+    ],
+    "usages": [
+      { "title": "① 劇場（建物）", "desc": "上演する場所", "example_en": "We went to the theatre last night.", "example_ja": "私たちは昨夜、劇場へ行った。" },
+      { "title": "② 演劇（芸術）", "desc": "舞台芸術", "example_en": "She has a passion for theatre.", "example_ja": "彼女は演劇に情熱を持っている。" }
+    ],
+    "warn": ["theatre（英）と theater（米）は綴り違いで同じ意味。イギリスでは operating theatre で『手術室』の意味も"],
+    "etym_note": "ギリシャ語 theatron（theasthai「見る」より＝見る場所）に由来。ラテン語 theatrum を経て英語へ。",
+    "etym_chain": [
+      { "node": "theatron", "sub": "見る場所", "era": "ギリシャ語" },
+      { "node": "theatrum", "sub": "劇場", "era": "ラテン語" },
+      { "node": "theatre", "sub": "劇場・演劇", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "go to the theatre", "ja": "観劇に行く" },
+      { "en": "a theatre performance", "ja": "劇場公演" },
+      { "en": "musical theatre", "ja": "ミュージカル演劇" },
+      { "en": "a movie theatre", "ja": "映画館" },
+      { "en": "theatre company", "ja": "劇団" },
+      { "en": "operating theatre", "ja": "手術室（英）" }
+    ],
+    "related": [
+      { "en": "theater", "ja": "劇場・演劇（米綴り）" },
+      { "en": "drama", "ja": "演劇・戯曲" },
+      { "en": "stage", "ja": "舞台" },
+      { "en": "cinema", "ja": "映画館（英）" }
+    ],
+    "faq": [
+      { "q": "theatre と theater の違いは？", "a": "綴りの違いだけで意味は同じ『劇場・演劇』です。theatre はイギリス綴り、theater はアメリカ綴りです。center/centre、color/colour などと同じ英米の綴りの違いです。" },
+      { "q": "operating theatre とは？", "a": "イギリス英語で「手術室」を意味します。かつて手術が階段状の見学席のある部屋（劇場のような構造）で行われたことに由来します。アメリカでは operating room と言います。" }
+    ],
+    "quiz": [
+      { "q": "theatre の意味は？", "A": "劇場・演劇", "B": "図書館", "C": "銀行", "D": "駅", "correct": "A" },
+      { "q": "theatre のアメリカ式の綴りは？", "A": "theater", "B": "theatr", "C": "theatur", "D": "theeter", "correct": "A" }
+    ]
+  },
+  {
+    "english": "theologian",
+    "pron": "ˌθiːəˈloʊdʒən",
+    "kana": "シオロジアン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 theos（神）+ logos（言葉・学）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "宗教"],
+    "meaning_main": "神学者（神学を研究する人）",
+    "description": "theologian（シオロジアン）は「神学者」。神や信仰、宗教の教えについて学問的に研究する人です。研究分野は theology（神学）。意味・使い方・例文をわかりやすく解説します。",
+    "keywords": ["theologian 意味", "神学者", "theology", "神学"],
+    "meanings": [
+      { "hinshi": "【名詞】神学者", "note": "神・信仰・宗教の教えを学問的に研究する人。研究分野は theology（神学）。可算" }
+    ],
+    "usages": [
+      { "title": "① 神学の研究者", "desc": "信仰を学問的に", "example_en": "He is a respected theologian.", "example_ja": "彼は尊敬される神学者だ。" },
+      { "title": "② 教義を論じる", "desc": "宗教思想", "example_en": "Theologians debated the nature of faith.", "example_ja": "神学者たちは信仰の本質を論じた。" }
+    ],
+    "warn": ["研究分野は theology（神学）、形容詞は theological（神学の）。theo-（神）は theism（有神論）などにも共通する要素"],
+    "etym_note": "ギリシャ語 theos（神）+ logos（言葉・学問）を合わせた theology（神学）に、人を表す接尾辞が付いた語。theism・theocracy と同じ theo を含む。",
+    "etym_chain": [
+      { "node": "theos + logos", "sub": "神の学", "era": "ギリシャ語" },
+      { "node": "theology", "sub": "神学", "era": "中英語" },
+      { "node": "theologian", "sub": "神学者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a respected theologian", "ja": "尊敬される神学者" },
+      { "en": "a Christian theologian", "ja": "キリスト教神学者" },
+      { "en": "a medieval theologian", "ja": "中世の神学者" },
+      { "en": "theologians and philosophers", "ja": "神学者と哲学者" },
+      { "en": "a leading theologian", "ja": "一流の神学者" },
+      { "en": "the works of a theologian", "ja": "神学者の著作" }
+    ],
+    "related": [
+      { "en": "theology", "ja": "神学" },
+      { "en": "theological", "ja": "神学の" },
+      { "en": "philosopher", "ja": "哲学者" },
+      { "en": "religion", "ja": "宗教" }
+    ],
+    "faq": [
+      { "q": "theologian（神学者）とはどういう人ですか？", "a": "神・信仰・宗教の教えや聖典について、学問的に研究・考察する人です。研究分野を theology（神学）と言います。宗教の教義や神の性質、信仰のあり方などを体系的に論じます。" },
+      { "q": "theology とは何ですか？", "a": "「神学」のことで、神や信仰・宗教の教えを学問的に研究する分野です。ギリシャ語 theos（神）+ logos（学）に由来します。キリスト教神学、イスラム神学など宗教ごとの神学があります。" }
+    ],
+    "quiz": [
+      { "q": "theologian の意味は？", "A": "神学者", "B": "生物学者", "C": "地質学者", "D": "経済学者", "correct": "A" },
+      { "q": "theologian の研究分野は？", "A": "theology（神学）", "B": "biology（生物学）", "C": "geology（地質学）", "D": "psychology（心理学）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "thereto",
+    "pron": "ˌðɛərˈtuː",
+    "kana": "ゼアトゥー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "there（そこ）+ to（へ）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "法律・文語"],
+    "meaning_main": "それに・そこへ・それに関して（古風・法律用語）",
+    "description": "thereto（ゼアトゥー）は「それに・そこへ・それに関して」。there（そこ）+ to（へ）からなる、契約書などで使う古風で堅い副詞です。前に述べたものを指します。意味・使い方を解説します。",
+    "keywords": ["thereto 意味", "それに", "法律用語", "there"],
+    "meanings": [
+      { "hinshi": "【副詞】それに・そこへ・それに関して", "note": "前に述べたもの（to that / to it）を指す。契約書・法律文書で使う古風で堅い語" }
+    ],
+    "usages": [
+      { "title": "① 契約書などで", "desc": "前述のものを指す", "example_en": "the contract and any amendments thereto", "example_ja": "本契約およびそれに対する変更" },
+      { "title": "② 堅い文書で", "desc": "それに関して", "example_en": "the rights attached thereto", "example_ja": "それに付随する権利" }
+    ],
+    "warn": ["there + 前置詞の語（thereof それの、therein その中に、thereby それによって）の一つ。法律・契約の古風な文語で、日常では to it などを使う"],
+    "etym_note": "there（そこ・それ）+ to（へ・に）を組み合わせた古い副詞。thereof・therein・thereby などと同じ作り。",
+    "etym_chain": [
+      { "node": "there + to", "sub": "そこへ・それに", "era": "古英語" },
+      { "node": "thereto", "sub": "それに", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "amendments thereto", "ja": "それに対する変更" },
+      { "en": "rights thereto", "ja": "それに付随する権利" },
+      { "en": "attached thereto", "ja": "それに添付された" },
+      { "en": "the schedule thereto", "ja": "それに付属する別表" },
+      { "en": "related thereto", "ja": "それに関連する" },
+      { "en": "pursuant thereto", "ja": "それに従って" }
+    ],
+    "related": [
+      { "en": "thereof", "ja": "それの・それについて" },
+      { "en": "therein", "ja": "その中に" },
+      { "en": "thereby", "ja": "それによって" },
+      { "en": "hereto", "ja": "これに" }
+    ],
+    "faq": [
+      { "q": "thereto とはどういう意味ですか？", "a": "「それに・そこへ・それに関して（to that / to it）」を意味する、契約書や法律文書で使われる古風で堅い副詞です。前に述べた物事を指し、amendments thereto（それに対する変更）のように使います。" },
+      { "q": "他にも there+前置詞の語はありますか？", "a": "はい。thereof（それの）、therein（その中に）、thereby（それによって）、thereafter（その後）などがあります。いずれも法律・契約などの堅い文書で使われる古風な語です。" }
+    ],
+    "quiz": [
+      { "q": "thereto の意味は？", "A": "それに・そこへ・それに関して", "B": "その前に", "C": "それにもかかわらず", "D": "偶然に", "correct": "A" },
+      { "q": "thereto はどんな文書でよく使う？", "A": "契約書・法律文書", "B": "友達へのメール", "C": "料理のレシピ", "D": "漫画", "correct": "A" }
+    ]
+  },
+  {
+    "english": "thoughtless",
+    "pron": "ˈθɔːtləs",
+    "kana": "ソートレス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "thought（考え）+ -less（〜のない）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出"],
+    "meaning_main": "思いやりのない・軽率な・考えの浅い",
+    "description": "thoughtless（ソートレス）は「思いやりのない・軽率な・考えの浅い」。他人の気持ちを考えない、または深く考えずに行動する様子を表す語です。反対は thoughtful（思いやりのある）。意味を解説します。",
+    "keywords": ["thoughtless 意味", "思いやりのない", "軽率な", "thoughtful 反対"],
+    "meanings": [
+      { "hinshi": "【形容詞】思いやりのない・軽率な・考えの浅い", "note": "他人の気持ちを考えない、または深く考えずに行動する。否定的。反対は thoughtful" }
+    ],
+    "usages": [
+      { "title": "① 思いやりに欠ける", "desc": "他人を考えない", "example_en": "It was thoughtless of him to forget her birthday.", "example_ja": "彼女の誕生日を忘れるとは彼は思いやりがなかった。" },
+      { "title": "② 軽率な行動", "desc": "考えなしに", "example_en": "A thoughtless remark hurt her feelings.", "example_ja": "軽率な発言が彼女を傷つけた。" }
+    ],
+    "warn": ["反対は thoughtful（思いやりのある・思慮深い）。-less（〜のない）+ thought（考え）＝『考え・思いやりがない』"],
+    "etym_note": "thought（考え。think の名詞形）に -less（〜のない）が付いた語。『考えのない・思いやりのない』の意。",
+    "etym_chain": [
+      { "node": "thought", "sub": "考え", "era": "古英語" },
+      { "node": "thoughtless", "sub": "思いやりのない", "era": "中英語" },
+      { "node": "thoughtless", "sub": "思いやりのない", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a thoughtless remark", "ja": "軽率な発言" },
+      { "en": "thoughtless of", "ja": "〜するとは思いやりがない" },
+      { "en": "a thoughtless act", "ja": "考えのない行い" },
+      { "en": "careless and thoughtless", "ja": "不注意で思いやりがない" },
+      { "en": "a thoughtless comment", "ja": "無神経なコメント" },
+      { "en": "thoughtless behavior", "ja": "思いやりのない振る舞い" }
+    ],
+    "related": [
+      { "en": "thoughtful", "ja": "思いやりのある（反対）" },
+      { "en": "careless", "ja": "不注意な" },
+      { "en": "inconsiderate", "ja": "思いやりのない" },
+      { "en": "reckless", "ja": "無謀な" }
+    ],
+    "faq": [
+      { "q": "thoughtless の2つのニュアンスは？", "a": "1つは『他人の気持ちを考えない・思いやりのない』、もう1つは『深く考えずに行動する・軽率な』です。a thoughtless remark（無神経な発言）、a thoughtless mistake（考えなしのミス）のように使います。" },
+      { "q": "反対の意味の語は？", "a": "thoughtful（思いやりのある・思慮深い）です。a thoughtful gift（心のこもった贈り物）、a thoughtful person（思いやりのある人）のように使います。thought に -less/-ful が付いて反対の意味になります。" }
+    ],
+    "quiz": [
+      { "q": "thoughtless の意味は？", "A": "思いやりのない・軽率な", "B": "思いやりのある", "C": "賢い", "D": "勇敢な", "correct": "A" },
+      { "q": "thoughtless の反対語は？", "A": "thoughtful", "B": "thoughtable", "C": "thoughty", "D": "unthought", "correct": "A" }
+    ]
+  },
+  {
+    "english": "threatened",
+    "pron": "ˈθrɛtənd",
+    "kana": "スレットゥンド",
+    "hinshi": "動詞（threaten の過去・過去分詞）/ 形容詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古英語 þrēatian（脅す）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "頻出"],
+    "meaning_main": "脅した・脅かされた／（絶滅などの）危機にある",
+    "description": "threatened（スレットゥンド）は threaten（脅す・脅かす）の過去・過去分詞で「脅した・脅かされた」。形容詞で「危機にある・絶滅の危機に瀕した」。threatened species（絶滅危惧種）で頻出。意味を解説します。",
+    "keywords": ["threatened 意味", "脅した", "危機にある", "絶滅危惧"],
+    "meanings": [
+      { "hinshi": "【動詞】脅した・脅かした（threaten の過去・過去分詞）", "note": "危害を加えると言って脅した、または危険にさらした" },
+      { "hinshi": "【形容詞】危機にある・脅かされた", "note": "threatened species（絶滅の危機に瀕した種）。feel threatened（脅威を感じる）" }
+    ],
+    "usages": [
+      { "title": "① 脅かされた・危機にある", "desc": "危険にさらされる", "example_en": "Many species are threatened with extinction.", "example_ja": "多くの種が絶滅の危機にある。" },
+      { "title": "② feel threatened", "desc": "「脅威を感じる」", "example_en": "She felt threatened by his behavior.", "example_ja": "彼女は彼の振る舞いに脅威を感じた。" }
+    ],
+    "warn": ["threatened species（絶滅危惧種）、feel threatened（脅威を感じる）が頻出。名詞は threat（脅威）、動詞は threaten"],
+    "etym_note": "古英語 þrēatian（脅す・迫る。þrēat「群れ・圧迫」より）由来の threaten の過去・過去分詞。threat と同語源。",
+    "etym_chain": [
+      { "node": "þrēatian", "sub": "脅す", "era": "古英語" },
+      { "node": "threaten", "sub": "脅す・脅かす", "era": "中英語" },
+      { "node": "threatened", "sub": "脅かされた・危機にある", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "threatened species", "ja": "絶滅危惧種" },
+      { "en": "feel threatened", "ja": "脅威を感じる" },
+      { "en": "threatened with extinction", "ja": "絶滅の危機にある" },
+      { "en": "a threatened habitat", "ja": "脅かされた生息地" },
+      { "en": "threatened to leave", "ja": "出て行くと脅した" },
+      { "en": "under threat", "ja": "脅威にさらされて" }
+    ],
+    "related": [
+      { "en": "threaten", "ja": "脅す・脅かす" },
+      { "en": "threat", "ja": "脅威" },
+      { "en": "endangered", "ja": "絶滅危惧の" },
+      { "en": "menaced", "ja": "脅かされた" }
+    ],
+    "faq": [
+      { "q": "threatened species とは？", "a": "「（絶滅などの）危機に瀕した種・絶滅危惧種」という意味です。生息数の減少などで、将来的に絶滅する恐れのある動植物を指します。より危機が深刻なものは endangered species（絶滅危惧種）と呼ばれます。" },
+      { "q": "feel threatened とは？", "a": "「脅威を感じる・身の危険を感じる」という意味です。物理的な危険だけでなく、立場や存在が脅かされる心理的な脅威にも使います。feel threatened by change（変化に脅威を感じる）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "threatened の意味は？", "A": "脅した・脅かされた／危機にある", "B": "守られた・安全な", "C": "祝われた", "D": "忘れられた", "correct": "A" },
+      { "q": "threatened species の意味は？", "A": "絶滅の危機に瀕した種", "B": "新種", "C": "外来種", "D": "家畜", "correct": "A" }
+    ]
+  },
+  {
+    "english": "throwback",
+    "pron": "ˈθroʊbæk",
+    "kana": "スローバック",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "throw（投げる）+ back（後ろへ）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "口語"],
+    "meaning_main": "昔を思い出させるもの・先祖返り",
+    "description": "throwback（スローバック）は「（過去を思い出させる）懐かしいもの・昔風のもの」、また「先祖返り」。SNSの #throwback（昔の写真の投稿）でもおなじみです。意味・使い方をわかりやすく解説します。",
+    "keywords": ["throwback 意味", "懐かしい", "昔風", "先祖返り"],
+    "meanings": [
+      { "hinshi": "【名詞】昔を思い出させるもの・昔風のもの", "note": "過去の時代を思わせるもの。a throwback to the 80s（80年代を思わせるもの）" },
+      { "hinshi": "【名詞】先祖返り", "note": "祖先の特徴が現れること（生物学）" }
+    ],
+    "usages": [
+      { "title": "① 昔風のもの", "desc": "懐かしさ", "example_en": "His style is a throwback to the 1970s.", "example_ja": "彼のスタイルは1970年代を思わせる。" },
+      { "title": "② SNSで", "desc": "昔の写真", "example_en": "She posted a throwback photo from high school.", "example_ja": "彼女は高校時代の懐かしい写真を投稿した。" }
+    ],
+    "warn": ["a throwback to〜（〜を思い出させるもの・〜の時代を思わせるもの）が定番。SNSの #throwback（#TBT＝Throwback Thursday）で昔の写真投稿に使う"],
+    "etym_note": "throw（投げる）+ back（後ろへ・過去へ）を合わせた語。動詞句 throw back（〜を思い起こさせる）から名詞化した。",
+    "etym_chain": [
+      { "node": "throw back", "sub": "後ろへ投げる・思い起こさせる", "era": "近代英語" },
+      { "node": "throwback", "sub": "昔を思い出させるもの", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a throwback to", "ja": "〜を思わせるもの" },
+      { "en": "a throwback photo", "ja": "懐かしい写真" },
+      { "en": "throwback style", "ja": "昔風のスタイル" },
+      { "en": "a genetic throwback", "ja": "遺伝的な先祖返り" },
+      { "en": "a throwback to the past", "ja": "過去を思わせるもの" },
+      { "en": "feel like a throwback", "ja": "昔に戻ったよう" }
+    ],
+    "related": [
+      { "en": "nostalgia", "ja": "郷愁・懐かしさ" },
+      { "en": "retro", "ja": "レトロな・懐古的な" },
+      { "en": "reversion", "ja": "逆戻り・先祖返り" },
+      { "en": "vintage", "ja": "年代物の" }
+    ],
+    "faq": [
+      { "q": "throwback とはどういう意味ですか？", "a": "「（ある過去の時代を）思い出させるもの・昔風のもの」という意味です。a throwback to the 90s（90年代を思わせるもの）のように使います。SNSでは昔の写真を投稿するときに #throwback とタグを付けることでおなじみです。" },
+      { "q": "先祖返りの意味もありますか？", "a": "はい。生物学で『（何世代か前の）祖先の特徴が現れること（先祖返り・隔世遺伝）』も throwback と言います。a genetic throwback のように使います。" }
+    ],
+    "quiz": [
+      { "q": "throwback の意味は？", "A": "昔を思い出させるもの・昔風のもの", "B": "最新のもの", "C": "使い捨てのもの", "D": "壊れたもの", "correct": "A" },
+      { "q": "SNSの #throwback は何に使う？", "A": "昔の懐かしい写真の投稿", "B": "最新ニュース", "C": "天気予報", "D": "商品の宣伝", "correct": "A" }
+    ]
+  },
+  {
+    "english": "tibetan",
+    "pron": "tɪˈbɛtən",
+    "kana": "チベタン",
+    "hinshi": "形容詞 / 名詞（固有名詞）",
+    "ld_pos": "形容詞",
+    "ld_etym": "Tibet（チベット）+ -an",
+    "ld_level": "-",
+    "badges": ["地名・民族", "固有名詞", "アジア", "文化"],
+    "meaning_main": "チベットの／チベット人・チベット語",
+    "description": "Tibetan（チベタン）は「チベットの・チベット人・チベット語」。中国南西部の高原地帯チベットに関することを表す語です。チベット仏教でも知られます。読み方や由来を解説します。",
+    "keywords": ["tibetan 意味", "チベットの", "チベット人", "チベット語"],
+    "meanings": [
+      { "hinshi": "【形容詞】チベットの", "note": "チベット高原の文化・言語・宗教に関する。文中では大文字 Tibetan" },
+      { "hinshi": "【名詞】チベット人", "note": "チベットの民族。複数形 Tibetans" },
+      { "hinshi": "【名詞】チベット語", "note": "チベットで話される言語" }
+    ],
+    "usages": [
+      { "title": "① 形容詞として", "desc": "文化・宗教", "example_en": "Tibetan Buddhism is practiced in the region.", "example_ja": "その地域ではチベット仏教が信仰されている。" },
+      { "title": "② 言語・民族", "desc": "チベット語・人", "example_en": "She speaks Tibetan.", "example_ja": "彼女はチベット語を話す。" }
+    ],
+    "warn": ["固有名詞なので文中では大文字 Tibetan（見出しは小文字で登録）。チベットは中国南西部の高原。チベット仏教（ダライ・ラマ）で知られる"],
+    "etym_note": "地名 Tibet（チベット）に -an（〜の・〜人）が付いた語。チベット高原の民族・文化・言語を表す。",
+    "etym_chain": [
+      { "node": "Tibet", "sub": "チベット", "era": "地名" },
+      { "node": "Tibetan", "sub": "チベットの", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Tibetan Buddhism", "ja": "チベット仏教" },
+      { "en": "the Tibetan language", "ja": "チベット語" },
+      { "en": "Tibetan culture", "ja": "チベット文化" },
+      { "en": "the Tibetan plateau", "ja": "チベット高原" },
+      { "en": "Tibetan monks", "ja": "チベットの僧侶" },
+      { "en": "a Tibetan temple", "ja": "チベットの寺院" }
+    ],
+    "related": [
+      { "en": "tibet", "ja": "チベット" },
+      { "en": "buddhism", "ja": "仏教" },
+      { "en": "himalaya", "ja": "ヒマラヤ" },
+      { "en": "china", "ja": "中国" }
+    ],
+    "faq": [
+      { "q": "Tibetan（チベット）とはどこですか？", "a": "中国南西部にある高原地帯チベットに関することを指します。ヒマラヤ山脈の北側に広がる標高の高い地域で、独自の言語・文化・宗教（チベット仏教）を持ちます。" },
+      { "q": "Tibetan Buddhism とは？", "a": "「チベット仏教」のことです。チベットを中心に信仰される仏教の一派で、ダライ・ラマを精神的指導者とすることで知られます。独特の儀式や経典、僧院文化を持ちます。" }
+    ],
+    "quiz": [
+      { "q": "Tibetan が指す地域は？", "A": "チベット（中国南西部の高原）", "B": "北欧", "C": "南米", "D": "アフリカ", "correct": "A" },
+      { "q": "チベットで信仰される仏教は？", "A": "チベット仏教", "B": "禅宗のみ", "C": "イスラム教", "D": "ヒンドゥー教", "correct": "A" }
+    ]
+  },
+  {
+    "english": "tidily",
+    "pron": "ˈtaɪdɪli",
+    "kana": "タイディリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "tidy（きちんとした）+ -ly",
+    "ld_level": "1級",
+    "badges": ["中学生〜", "英検1級", "CEFR B2", "頻出"],
+    "meaning_main": "きちんと・整然と・こぎれいに",
+    "description": "tidily（タイディリー）は「きちんと・整然と・こぎれいに」。散らからず整った様子で物事を行うことを表す副詞です。tidy（きちんとした）の副詞形です。意味・使い方・例文をわかりやすく解説します。",
+    "keywords": ["tidily 意味", "きちんと", "整然と", "tidy"],
+    "meanings": [
+      { "hinshi": "【副詞】きちんと・整然と・こぎれいに", "note": "散らからず整った様子で。folded tidily（きちんとたたまれて）" }
+    ],
+    "usages": [
+      { "title": "① 整然と片づける", "desc": "きちんと", "example_en": "The books were arranged tidily.", "example_ja": "本はきちんと並べられていた。" },
+      { "title": "② こぎれいに", "desc": "整った様子", "example_en": "She dressed tidily for the interview.", "example_ja": "彼女は面接にこぎれいな身なりをした。" }
+    ],
+    "warn": ["tidy（きちんとした・整った）の副詞形。反対は untidily / messily（散らかして）。動詞 tidy は『片づける』"],
+    "etym_note": "tidy（きちんとした。もとは tide「時・季節」から『時にかなった→きちんとした』へ）に -ly が付いた語。",
+    "etym_chain": [
+      { "node": "tide", "sub": "時・季節", "era": "古英語" },
+      { "node": "tidy", "sub": "きちんとした", "era": "中英語" },
+      { "node": "tidily", "sub": "きちんと", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "folded tidily", "ja": "きちんとたたまれて" },
+      { "en": "arranged tidily", "ja": "整然と並べられて" },
+      { "en": "written tidily", "ja": "きれいに書かれて" },
+      { "en": "packed tidily", "ja": "きちんと詰められて" },
+      { "en": "dress tidily", "ja": "こぎれいな身なりをする" },
+      { "en": "keep things tidily", "ja": "物を整然と保つ" }
+    ],
+    "related": [
+      { "en": "tidy", "ja": "きちんとした・整った" },
+      { "en": "neatly", "ja": "きちんと・こぎれいに" },
+      { "en": "orderly", "ja": "整然と" },
+      { "en": "messily", "ja": "散らかして（反対）" }
+    ],
+    "faq": [
+      { "q": "tidily と neatly の違いは？", "a": "どちらも『きちんと・こぎれいに』を意味しほぼ同義です。tidy（散らからず整った）と neat（こぎれいで整った）の副詞形で、多くの場面で置き換え可能です。tidily は『散らかっていない』、neatly は『こぎれいで美しい』ニュアンスがやや強めです。" },
+      { "q": "反対の意味の語は？", "a": "untidily や messily（散らかして・雑然と）です。tidy（整った）↔ untidy/messy（散らかった）が形容詞の対で、その副詞形になります。" }
+    ],
+    "quiz": [
+      { "q": "tidily の意味は？", "A": "きちんと・整然と・こぎれいに", "B": "散らかして", "C": "急いで", "D": "偶然に", "correct": "A" },
+      { "q": "tidily のもとの形容詞は？", "A": "tidy", "B": "tiny", "C": "tight", "D": "tired", "correct": "A" }
+    ]
+  },
+  {
+    "english": "tidiness",
+    "pron": "ˈtaɪdinəs",
+    "kana": "タイディネス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "tidy（きちんとした）+ -ness",
+    "ld_level": "1級",
+    "badges": ["中学生〜", "英検1級", "CEFR B2", "頻出"],
+    "meaning_main": "きちんとしていること・整頓・こぎれいさ",
+    "description": "tidiness（タイディネス）は「きちんとしていること・整頓・こぎれいさ」。物や場所が散らからず整っている状態を表す語です。tidy（きちんとした）の名詞形です。意味・使い方・例文を解説します。",
+    "keywords": ["tidiness 意味", "整頓", "こぎれいさ", "tidy"],
+    "meanings": [
+      { "hinshi": "【名詞】きちんとしていること・整頓・こぎれいさ", "note": "物・場所が散らからず整っている状態。不可算。反対は untidiness（散らかっていること）" }
+    ],
+    "usages": [
+      { "title": "① 整った状態", "desc": "整頓", "example_en": "She values tidiness in the home.", "example_ja": "彼女は家の整頓を重んじる。" },
+      { "title": "② こぎれいさ", "desc": "整った様子", "example_en": "The tidiness of his desk impressed me.", "example_ja": "彼の机の整頓ぶりに感心した。" }
+    ],
+    "warn": ["tidy（きちんとした）の名詞形。反対は untidiness / messiness（散らかっていること）。cleanliness（清潔さ）とは別（散らかっていないこと）"],
+    "etym_note": "tidy（きちんとした。tide「時」から）に、性質・状態を表す -ness が付いた語。",
+    "etym_chain": [
+      { "node": "tidy", "sub": "きちんとした", "era": "中英語" },
+      { "node": "tidiness", "sub": "整頓・こぎれいさ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "value tidiness", "ja": "整頓を重んじる" },
+      { "en": "the tidiness of", "ja": "〜の整頓ぶり" },
+      { "en": "a sense of tidiness", "ja": "整頓の感覚" },
+      { "en": "cleanliness and tidiness", "ja": "清潔さと整頓" },
+      { "en": "maintain tidiness", "ja": "整頓を保つ" },
+      { "en": "obsessive tidiness", "ja": "度を越した几帳面さ" }
+    ],
+    "related": [
+      { "en": "tidy", "ja": "きちんとした" },
+      { "en": "neatness", "ja": "こぎれいさ" },
+      { "en": "orderliness", "ja": "整然さ" },
+      { "en": "untidiness", "ja": "散らかっていること（反対）" }
+    ],
+    "faq": [
+      { "q": "tidiness と cleanliness の違いは？", "a": "tidiness は『（物が散らからず）整頓されていること』、cleanliness は『（汚れがなく）清潔なこと』です。部屋が片づいていても汚れていれば tidy だが clean ではない、というように別の概念です。" },
+      { "q": "反対の意味の語は？", "a": "untidiness や messiness（散らかっていること・雑然さ）です。tidy（整った）↔ untidy/messy（散らかった）が形容詞の対で、その名詞形になります。" }
+    ],
+    "quiz": [
+      { "q": "tidiness の意味は？", "A": "きちんとしていること・整頓", "B": "散らかっていること", "C": "汚れ", "D": "騒音", "correct": "A" },
+      { "q": "tidiness の反対に近い語は？", "A": "untidiness", "B": "cleanliness", "C": "brightness", "D": "kindness", "correct": "A" }
+    ]
+  }
+]

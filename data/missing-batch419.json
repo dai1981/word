@@ -1,0 +1,979 @@
+[
+  {
+    "english": "macro",
+    "pron": "ˈmækroʊ",
+    "kana": "マクロ",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 makros（大きい・長い）に由来",
+    "ld_level": "対象外",
+    "badges": ["高校生〜", "IT", "CEFR B2", "IT"],
+    "meaning_main": "マクロ（一連の操作の自動化命令）／大きな・巨視的な",
+    "description": "macro（マクロ）はコンピュータで一連の操作をまとめて自動実行する命令のこと。また『大きな・巨視的な』を意味する接頭辞的な語でもあります。",
+    "keywords": ["macro 意味", "マクロ 英語", "macro 自動化"],
+    "meanings": [
+      { "hinshi": "【名詞】マクロ", "note": "一連の操作・命令をまとめて自動実行する仕組み。表計算やプログラムで使う。可算名詞。" },
+      { "hinshi": "【形容詞】大きな、巨視的な", "note": "全体的・大規模な視点の。macro view（マクロな視点）。反対は micro（微視的な）。" },
+      { "hinshi": "【名詞】(写真)マクロ撮影", "note": "被写体に近づいて大きく写す接写。macro lens（マクロレンズ）。" }
+    ],
+    "usages": [
+      { "title": "① 自動化のマクロ", "desc": "IT の文脈で。", "example_en": "I wrote a macro to speed up the task.", "example_ja": "作業を速めるためにマクロを書いた。" },
+      { "title": "② 大きな視点", "desc": "全体を見る。", "example_en": "Let's look at this on a macro level.", "example_ja": "これをマクロな(大局的な)視点で見よう。" }
+    ],
+    "warn": ["反対は micro（微視的な・小さな）。経済学の macroeconomics（マクロ経済学）でも使う。"],
+    "etym_note": "ギリシャ語 makros（大きい・長い）に由来する接頭辞 macro-（大きな）から。IT・写真・経済など幅広く使われる。",
+    "etym_chain": [
+      { "node": "makros", "sub": "大きい（ギリシャ語）", "era": "古代" },
+      { "node": "macro", "sub": "マクロ・大きな", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "write a macro", "ja": "マクロを書く" },
+      { "en": "run a macro", "ja": "マクロを実行する" },
+      { "en": "a macro view", "ja": "マクロな視点" },
+      { "en": "on a macro level", "ja": "大局的な次元で" },
+      { "en": "a macro lens", "ja": "マクロレンズ" },
+      { "en": "macro and micro", "ja": "マクロとミクロ" }
+    ],
+    "related": [
+      { "en": "micro", "ja": "微視的な・小さな" },
+      { "en": "automation", "ja": "自動化" },
+      { "en": "macroeconomics", "ja": "マクロ経済学" },
+      { "en": "script", "ja": "スクリプト" }
+    ],
+    "faq": [
+      { "q": "macro の反対語は？", "a": "micro（微視的な・小さな）です。" },
+      { "q": "IT の macro とは？", "a": "一連の操作・命令をまとめて自動的に実行する仕組みのことです。定型作業の効率化に使います。" }
+    ],
+    "quiz": [
+      { "q": "IT での macro の意味は？", "A": "一連の操作を自動実行する命令", "B": "画面の明るさ", "C": "電源の種類", "D": "音量の設定", "correct": "A" },
+      { "q": "macro の反対語は？", "A": "micro", "B": "mega", "C": "mini", "D": "multi", "correct": "A" }
+    ]
+  },
+  {
+    "english": "macron",
+    "pron": "ˈmækrɒn",
+    "kana": "マクロン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 makros（長い）に由来",
+    "ld_level": "対象外",
+    "badges": ["社会人〜", "英検1級", "CEFR C1", "言語"],
+    "meaning_main": "マクロン（母音の上につける長音記号「¯」）",
+    "description": "macron（マクロン）は母音の上につけて長音を示す記号「¯」のこと。ローマ字表記で日本語の長音（ō, ū など）を表すのにも使われます。",
+    "keywords": ["macron 意味", "長音記号 英語", "マクロン 記号"],
+    "meanings": [
+      { "hinshi": "【名詞】マクロン(長音記号)", "note": "母音字の上につける横棒「¯」で、その母音が長いことを示す。ō, ā, ū など。可算名詞。" }
+    ],
+    "usages": [
+      { "title": "① ローマ字表記", "desc": "日本語などで。", "example_en": "\"Tōkyō\" is written with macrons.", "example_ja": "「Tōkyō」はマクロン(長音記号)付きで書かれる。" },
+      { "title": "② 発音の指示", "desc": "辞書などで。", "example_en": "A macron shows that the vowel is long.", "example_ja": "マクロンはその母音が長いことを示す。" }
+    ],
+    "warn": ["フランス大統領 Macron（マクロン）とは別（同じつづりの人名）。母音の短さを示すのは breve「˘」。"],
+    "etym_note": "ギリシャ語 makros（長い）に由来する語。『長い（母音）を示す記号』を意味する。短音記号 breve の対。",
+    "etym_chain": [
+      { "node": "makros", "sub": "長い（ギリシャ語）", "era": "古代" },
+      { "node": "macron", "sub": "長音記号", "era": "19世紀" }
+    ],
+    "phrases": [
+      { "en": "a macron over the vowel", "ja": "母音の上のマクロン" },
+      { "en": "written with a macron", "ja": "マクロン付きで書かれた" },
+      { "en": "add a macron", "ja": "長音記号をつける" },
+      { "en": "a macron mark", "ja": "マクロン記号" },
+      { "en": "use macrons", "ja": "長音記号を使う" },
+      { "en": "the macron on 'o'", "ja": "oの上のマクロン" }
+    ],
+    "related": [
+      { "en": "diacritic", "ja": "発音区別符号" },
+      { "en": "breve", "ja": "短音記号(˘)" },
+      { "en": "accent", "ja": "アクセント記号" },
+      { "en": "vowel", "ja": "母音" }
+    ],
+    "faq": [
+      { "q": "macron とは？", "a": "母音の上につける横棒「¯」で、その母音が長いことを示す記号です。ō, ū など、日本語のローマ字表記の長音にも使われます。" },
+      { "q": "macron の反対の記号は？", "a": "母音が短いことを示す breve（短音記号「˘」）です。" }
+    ],
+    "quiz": [
+      { "q": "macron が示すのは？", "A": "母音が長いこと", "B": "母音が短いこと", "C": "子音の重複", "D": "アクセントの位置のみ", "correct": "A" },
+      { "q": "macron はどこにつける？", "A": "母音の上", "B": "子音の下", "C": "文の最後", "D": "単語の間", "correct": "A" }
+    ]
+  },
+  {
+    "english": "madness",
+    "pron": "ˈmædnəs",
+    "kana": "マッドネス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "mad（狂った・怒った）＋-ness",
+    "ld_level": "対象外",
+    "badges": ["中学生〜", "英検2級", "CEFR B2", "描写"],
+    "meaning_main": "狂気／常軌を逸したこと／熱狂・大混乱",
+    "description": "madness（マッドネス）は「狂気・常軌を逸したこと」を意味する名詞。ばかげた行いや、熱狂・大混乱を表すこともあります。",
+    "keywords": ["madness 意味", "狂気 英語", "mad 名詞"],
+    "meanings": [
+      { "hinshi": "【名詞】狂気、常軌を逸したこと", "note": "正気でないこと、非常に無謀・ばかげたこと。sheer madness（まったくの狂気の沙汰）。不可算。" },
+      { "hinshi": "【名詞】熱狂、大混乱", "note": "興奮・混乱した状態。the madness of the crowd（群衆の熱狂・混乱）。" }
+    ],
+    "usages": [
+      { "title": "① 常軌を逸したこと", "desc": "無謀さに。", "example_en": "It would be madness to go out in this storm.", "example_ja": "この嵐の中で外に出るなんて正気の沙汰ではない。" },
+      { "title": "② 大混乱", "desc": "混乱の様子に。", "example_en": "The sales caused shopping madness.", "example_ja": "そのセールは買い物の大騒ぎを引き起こした。" }
+    ],
+    "warn": ["形容詞は mad（狂った・(米で)怒った）。lunacy（狂気の沙汰）と近い。米では mad は『怒った』の意味が強い。"],
+    "etym_note": "古英語 gemǣdd（気の狂った）に由来する mad に、状態を表す -ness が付いた語。",
+    "etym_chain": [
+      { "node": "mad", "sub": "狂った・怒った", "era": "古英語" },
+      { "node": "madness", "sub": "狂気", "era": "中世" }
+    ],
+    "phrases": [
+      { "en": "sheer madness", "ja": "まったくの狂気の沙汰" },
+      { "en": "a moment of madness", "ja": "魔が差した瞬間" },
+      { "en": "pure madness", "ja": "正気でないこと" },
+      { "en": "method in the madness", "ja": "一見無茶に見える計算" },
+      { "en": "drive someone to madness", "ja": "気が狂いそうにさせる" },
+      { "en": "shopping madness", "ja": "買い物の大騒ぎ" }
+    ],
+    "related": [
+      { "en": "mad", "ja": "狂った・怒った" },
+      { "en": "insanity", "ja": "正気でないこと" },
+      { "en": "lunacy", "ja": "狂気の沙汰" },
+      { "en": "chaos", "ja": "大混乱" }
+    ],
+    "faq": [
+      { "q": "madness の形容詞形は？", "a": "mad（狂った、米では『怒った』の意味が強い）です。" },
+      { "q": "method in the madness とは？", "a": "『一見むちゃに見える行動にも、実は理にかなった計算がある』という意味の表現です。" }
+    ],
+    "quiz": [
+      { "q": "madness の意味は？", "A": "狂気・常軌を逸したこと", "B": "冷静さ", "C": "親切さ", "D": "静けさ", "correct": "A" },
+      { "q": "madness の形容詞形は？", "A": "mad", "B": "made", "C": "maid", "D": "mud", "correct": "A" }
+    ]
+  },
+  {
+    "english": "magenta",
+    "pron": "məˈdʒentə",
+    "kana": "マゼンタ",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "イタリアの町 Magenta の戦いにちなむ",
+    "ld_level": "対象外",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "色"],
+    "meaning_main": "マゼンタ（赤紫色）",
+    "description": "magenta（マゼンタ）は「赤紫色」を意味する語。印刷の三原色（CMY）の一つでもあり、鮮やかな赤みがかった紫色を指します。",
+    "keywords": ["magenta 意味", "マゼンタ 色", "赤紫 英語"],
+    "meanings": [
+      { "hinshi": "【名詞・形容詞】マゼンタ、赤紫色(の)", "note": "鮮やかな赤みがかった紫色。印刷の三原色（シアン・マゼンタ・イエロー）の一つ。" }
+    ],
+    "usages": [
+      { "title": "① 色として", "desc": "色を指す。", "example_en": "The flowers were a bright magenta.", "example_ja": "その花は鮮やかなマゼンタ色だった。" },
+      { "title": "② 印刷の原色", "desc": "デザインの文脈で。", "example_en": "Magenta is one of the printing primary colors.", "example_ja": "マゼンタは印刷の原色の一つだ。" }
+    ],
+    "warn": ["印刷の三原色は cyan（シアン）・magenta（マゼンタ）・yellow（イエロー）。1859年のマゼンタの戦いにちなむ命名。"],
+    "etym_note": "1859年、イタリア北部の町 Magenta 近郊の戦いにちなんで、当時発見された鮮やかな染料の名として名づけられた。",
+    "etym_chain": [
+      { "node": "Magenta", "sub": "イタリアの町(戦いの地)", "era": "1859年" },
+      { "node": "magenta", "sub": "マゼンタ(赤紫色)", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a bright magenta", "ja": "鮮やかなマゼンタ" },
+      { "en": "magenta ink", "ja": "マゼンタのインク" },
+      { "en": "deep magenta", "ja": "濃いマゼンタ" },
+      { "en": "cyan, magenta, and yellow", "ja": "シアン・マゼンタ・イエロー" },
+      { "en": "a magenta dress", "ja": "マゼンタ色のドレス" },
+      { "en": "a magenta flower", "ja": "赤紫色の花" }
+    ],
+    "related": [
+      { "en": "cyan", "ja": "シアン(青緑)" },
+      { "en": "purple", "ja": "紫" },
+      { "en": "pink", "ja": "ピンク" },
+      { "en": "color", "ja": "色" }
+    ],
+    "faq": [
+      { "q": "magenta はどんな色？", "a": "鮮やかな赤みがかった紫色（赤紫）です。印刷の三原色の一つでもあります。" },
+      { "q": "magenta の名の由来は？", "a": "1859年のイタリア・マゼンタの戦いにちなんで、その頃発見された鮮やかな染料に名づけられました。" }
+    ],
+    "quiz": [
+      { "q": "magenta はどんな色？", "A": "赤紫色", "B": "青緑色", "C": "黄色", "D": "灰色", "correct": "A" },
+      { "q": "magenta が含まれる三原色は？", "A": "印刷の三原色(CMY)", "B": "音の三要素", "C": "味の三要素", "D": "季節", "correct": "A" }
+    ]
+  },
+  {
+    "english": "magically",
+    "pron": "ˈmædʒɪkli",
+    "kana": "マジカリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "magical（魔法の）＋-ly",
+    "ld_level": "対象外",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "描写"],
+    "meaning_main": "魔法のように／不思議なほど／魔法で",
+    "description": "magically（マジカリー）は「魔法のように・不思議なほど」という意味の副詞。まるで魔法のように物事が起こる様子を表します。",
+    "keywords": ["magically 意味", "魔法のように 英語", "magical 副詞"],
+    "meanings": [
+      { "hinshi": "【副詞】魔法のように、不思議なほど", "note": "まるで魔法によるかのように。説明のつかない不思議さや、鮮やかさを表す。magical（魔法の）＋-ly。" }
+    ],
+    "usages": [
+      { "title": "① 魔法のように", "desc": "不思議さに。", "example_en": "The problem magically disappeared.", "example_ja": "その問題は魔法のように消えた。" },
+      { "title": "② 突然の変化", "desc": "急な出来事に。", "example_en": "The room was magically transformed.", "example_ja": "その部屋は魔法のように様変わりした。" }
+    ],
+    "warn": ["形容詞は magical（魔法の・魔法のような）、名詞は magic（魔法）。"],
+    "etym_note": "ギリシャ語 magikos（魔術の）に由来する magic に、形容詞化の -al と副詞化の -ly が付いた語。",
+    "etym_chain": [
+      { "node": "magic", "sub": "魔法", "era": "中世" },
+      { "node": "magical", "sub": "魔法の", "era": "近代" },
+      { "node": "magically", "sub": "魔法のように", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "magically disappear", "ja": "魔法のように消える" },
+      { "en": "magically appear", "ja": "魔法のように現れる" },
+      { "en": "magically transformed", "ja": "魔法のように様変わりして" },
+      { "en": "as if by magic", "ja": "まるで魔法のように" },
+      { "en": "magically fixed", "ja": "不思議なほど直った" },
+      { "en": "work magically", "ja": "魔法のように効く" }
+    ],
+    "related": [
+      { "en": "magical", "ja": "魔法の・魔法のような" },
+      { "en": "magic", "ja": "魔法" },
+      { "en": "mysteriously", "ja": "不思議なことに" },
+      { "en": "miraculously", "ja": "奇跡的に" }
+    ],
+    "faq": [
+      { "q": "magically の形容詞形は？", "a": "magical（魔法の・魔法のような）です。名詞は magic（魔法）です。" },
+      { "q": "magically はどんなときに使う？", "a": "説明がつかないほど不思議に、あるいは鮮やかに物事が起きる様子を『魔法のように』と表すときに使います。" }
+    ],
+    "quiz": [
+      { "q": "magically の意味は？", "A": "魔法のように・不思議なほど", "B": "論理的に", "C": "ゆっくりと", "D": "静かに", "correct": "A" },
+      { "q": "magically の形容詞形は？", "A": "magical", "B": "magnetic", "C": "massive", "D": "major", "correct": "A" }
+    ]
+  },
+  {
+    "english": "magistracy",
+    "pron": "ˈmædʒɪstrəsi",
+    "kana": "マジストラシー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "magistrate（治安判事）＋-cy",
+    "ld_level": "対象外",
+    "badges": ["社会人〜", "英検1級", "CEFR C2", "法律"],
+    "meaning_main": "治安判事の職／(集合的に)判事たち／行政官の職",
+    "description": "magistracy（マジストラシー）は「治安判事の職・地位」を意味する名詞。集合的に判事・行政官の全体を指すこともあります。",
+    "keywords": ["magistracy 意味", "治安判事 英語", "magistrate 名詞"],
+    "meanings": [
+      { "hinshi": "【名詞】治安判事の職・地位", "note": "magistrate（治安判事・行政官）の職務や地位。不可算・可算。" },
+      { "hinshi": "【名詞】(集合的に)判事たち、行政官団", "note": "the magistracy で、治安判事・行政官の全体を指す。" }
+    ],
+    "usages": [
+      { "title": "① 職・地位", "desc": "法律の文脈で。", "example_en": "He was appointed to the magistracy.", "example_ja": "彼は治安判事の職に任命された。" },
+      { "title": "② 判事の集団", "desc": "集合的に。", "example_en": "The magistracy plays a key role in local justice.", "example_ja": "治安判事団は地域の司法で重要な役割を果たす。" }
+    ],
+    "warn": ["magistrate は『治安判事・軽罪を扱う判事』。magistracy はその職・地位、または判事団を指す集合的な語。"],
+    "etym_note": "ラテン語 magister（長・主人）に由来する magistrate（行政官・治安判事）に、職・状態を表す -cy が付いた語。",
+    "etym_chain": [
+      { "node": "magister", "sub": "長・主人（ラテン語）", "era": "古代" },
+      { "node": "magistrate", "sub": "治安判事", "era": "中世" },
+      { "node": "magistracy", "sub": "判事の職", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "appointed to the magistracy", "ja": "治安判事に任命されて" },
+      { "en": "the local magistracy", "ja": "地元の治安判事団" },
+      { "en": "hold a magistracy", "ja": "判事の職を務める" },
+      { "en": "the role of the magistracy", "ja": "判事団の役割" },
+      { "en": "enter the magistracy", "ja": "判事の職に就く" },
+      { "en": "the office of magistracy", "ja": "治安判事の官職" }
+    ],
+    "related": [
+      { "en": "magistrate", "ja": "治安判事・行政官" },
+      { "en": "judiciary", "ja": "司法・司法官全体" },
+      { "en": "judge", "ja": "裁判官" },
+      { "en": "court", "ja": "裁判所" }
+    ],
+    "faq": [
+      { "q": "magistrate と magistracy の違いは？", "a": "magistrate は『治安判事・行政官（人）』、magistracy はその『職・地位』、または判事たちの『集団』を指します。" },
+      { "q": "magistrate とは？", "a": "主に軽い罪や地域の事件を扱う『治安判事』、または行政官のことです。" }
+    ],
+    "quiz": [
+      { "q": "magistracy の意味は？", "A": "治安判事の職・判事団", "B": "商店街", "C": "工場", "D": "病院", "correct": "A" },
+      { "q": "magistracy のもとになる語は？", "A": "magistrate", "B": "magazine", "C": "magnet", "D": "margin", "correct": "A" }
+    ]
+  },
+  {
+    "english": "maglev",
+    "pron": "ˈmæɡlev",
+    "kana": "マグレブ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "magnetic levitation（磁気浮上）の短縮",
+    "ld_level": "対象外",
+    "badges": ["中学生〜", "科学", "CEFR B1", "科学"],
+    "meaning_main": "リニアモーターカー／磁気浮上式鉄道",
+    "description": "maglev（マグレブ）は磁気の力で車体を浮かせて走る「磁気浮上式鉄道（リニアモーターカー）」のこと。摩擦がなく高速で走れます。",
+    "keywords": ["maglev 意味", "リニアモーターカー 英語", "磁気浮上 鉄道"],
+    "meanings": [
+      { "hinshi": "【名詞】磁気浮上式鉄道、リニアモーターカー", "note": "magnetic levitation（磁気浮上）の略。磁力で車体を線路から浮かせて走る高速鉄道。可算名詞。" }
+    ],
+    "usages": [
+      { "title": "① 高速鉄道", "desc": "乗り物に。", "example_en": "The maglev train can reach very high speeds.", "example_ja": "リニアモーターカーは非常に高速に達する。" },
+      { "title": "② 仕組みを述べる", "desc": "技術に。", "example_en": "A maglev floats above the track using magnets.", "example_ja": "リニアは磁石で線路の上に浮いて走る。" }
+    ],
+    "warn": ["magnetic（磁気の）＋levitation（浮上）の合成語。車輪でなく磁力で浮くため摩擦が少なく高速。"],
+    "etym_note": "magnetic（磁気の）＋levitation（浮上）を縮めた造語。『磁気で浮く（鉄道）』を意味する。",
+    "etym_chain": [
+      { "node": "magnetic levitation", "sub": "磁気浮上", "era": "20世紀" },
+      { "node": "maglev", "sub": "リニアモーターカー", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a maglev train", "ja": "リニアモーターカー" },
+      { "en": "ride a maglev", "ja": "リニアに乗る" },
+      { "en": "maglev technology", "ja": "磁気浮上技術" },
+      { "en": "a high-speed maglev", "ja": "高速リニア" },
+      { "en": "the maglev line", "ja": "リニアの路線" },
+      { "en": "float on a maglev", "ja": "リニアで浮いて進む" }
+    ],
+    "related": [
+      { "en": "magnetic", "ja": "磁気の" },
+      { "en": "levitation", "ja": "浮上" },
+      { "en": "train", "ja": "列車" },
+      { "en": "railway", "ja": "鉄道" }
+    ],
+    "faq": [
+      { "q": "maglev とは？", "a": "magnetic levitation（磁気浮上）の略で、磁力で車体を線路から浮かせて走る高速鉄道（リニアモーターカー）です。" },
+      { "q": "maglev が速いのはなぜ？", "a": "車輪と線路の摩擦がなく、磁力で浮いて走るため、抵抗が少なく高速で走行できます。" }
+    ],
+    "quiz": [
+      { "q": "maglev とは？", "A": "磁気浮上式の高速鉄道", "B": "地下鉄のみ", "C": "路面電車", "D": "蒸気機関車", "correct": "A" },
+      { "q": "maglev は何の略？", "A": "magnetic levitation", "B": "major level", "C": "magnetic level", "D": "maximum leverage", "correct": "A" }
+    ]
+  },
+  {
+    "english": "magnetism",
+    "pron": "ˈmæɡnətɪzəm",
+    "kana": "マグネティズム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "magnet（磁石）＋-ism",
+    "ld_level": "対象外",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "科学"],
+    "meaning_main": "磁気／磁力／(比喩)人を引きつける魅力",
+    "description": "magnetism（マグネティズム）は「磁気・磁力」を意味する名詞。物理の磁石の力のほか、比喩で『人を引きつける魅力』も表します。",
+    "keywords": ["magnetism 意味", "磁気 英語", "magnet 名詞"],
+    "meanings": [
+      { "hinshi": "【名詞】磁気、磁力", "note": "磁石が鉄などを引きつける力・性質。不可算。" },
+      { "hinshi": "【名詞】(比喩)人を引きつける魅力", "note": "人を強く惹きつける個人的な魅力。personal magnetism（人を引きつける魅力）。" }
+    ],
+    "usages": [
+      { "title": "① 磁気の力", "desc": "物理の文脈で。", "example_en": "Magnetism can move iron objects.", "example_ja": "磁気は鉄の物体を動かすことができる。" },
+      { "title": "② 人の魅力", "desc": "比喩的に。", "example_en": "The leader had a natural magnetism.", "example_ja": "そのリーダーには生来の人を引きつける魅力があった。" }
+    ],
+    "warn": ["形容詞は magnetic（磁気の・魅力的な）。電気と磁気を合わせたのは electromagnetism（電磁気）。"],
+    "etym_note": "ギリシャの地名 Magnesia（磁石の産地）に由来する magnet（磁石）に、性質を表す -ism が付いた語。",
+    "etym_chain": [
+      { "node": "magnet", "sub": "磁石", "era": "中世" },
+      { "node": "magnetism", "sub": "磁気・磁力", "era": "17世紀" }
+    ],
+    "phrases": [
+      { "en": "the force of magnetism", "ja": "磁力" },
+      { "en": "personal magnetism", "ja": "人を引きつける魅力" },
+      { "en": "study magnetism", "ja": "磁気を研究する" },
+      { "en": "electromagnetism", "ja": "電磁気" },
+      { "en": "animal magnetism", "ja": "人を魅了する力・色気" },
+      { "en": "the magnetism of the stage", "ja": "舞台の引きつける魅力" }
+    ],
+    "related": [
+      { "en": "magnet", "ja": "磁石" },
+      { "en": "magnetic", "ja": "磁気の・魅力的な" },
+      { "en": "electricity", "ja": "電気" },
+      { "en": "charisma", "ja": "カリスマ性" }
+    ],
+    "faq": [
+      { "q": "magnetism の二つの意味は？", "a": "物理の『磁気・磁力』という意味と、比喩で『人を引きつける魅力』という意味があります。" },
+      { "q": "magnetism の形容詞形は？", "a": "magnetic（磁気の・磁石の、または魅力的な）です。" }
+    ],
+    "quiz": [
+      { "q": "magnetism の意味は？", "A": "磁気・磁力／人を引きつける魅力", "B": "重力", "C": "音", "D": "熱", "correct": "A" },
+      { "q": "magnetism のもとの名詞は？", "A": "magnet", "B": "magazine", "C": "magic", "D": "margin", "correct": "A" }
+    ]
+  },
+  {
+    "english": "magnetite",
+    "pron": "ˈmæɡnətaɪt",
+    "kana": "マグネタイト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "magnet（磁石）＋-ite（鉱物)",
+    "ld_level": "対象外",
+    "badges": ["社会人〜", "英検1級", "CEFR C1", "地学"],
+    "meaning_main": "磁鉄鉱（じてっこう）／天然の磁性を持つ酸化鉄",
+    "description": "magnetite（マグネタイト）は「磁鉄鉱」を意味する名詞。天然で磁性を持つ黒い酸化鉄の鉱物で、重要な鉄鉱石の一つです。",
+    "keywords": ["magnetite 意味", "磁鉄鉱 英語", "magnetite 使い方"],
+    "meanings": [
+      { "hinshi": "【名詞】磁鉄鉱", "note": "天然で強い磁性を持つ黒色の酸化鉄鉱物（Fe3O4）。重要な鉄鉱石。不可算。" }
+    ],
+    "usages": [
+      { "title": "① 鉱物として", "desc": "地学の文脈で。", "example_en": "Magnetite is a naturally magnetic mineral.", "example_ja": "磁鉄鉱は天然で磁性を持つ鉱物だ。" },
+      { "title": "② 鉄鉱石として", "desc": "資源に。", "example_en": "Magnetite is mined as an important iron ore.", "example_ja": "磁鉄鉱は重要な鉄鉱石として採掘される。" }
+    ],
+    "warn": ["-ite は鉱物名を作る接尾辞（例：granite 花崗岩）。天然磁石 lodestone は磁鉄鉱の一種。"],
+    "etym_note": "magnet（磁石）に、鉱物を表す接尾辞 -ite が付いた語。『磁性を持つ鉱物＝磁鉄鉱』を意味する。",
+    "etym_chain": [
+      { "node": "magnet", "sub": "磁石", "era": "中世" },
+      { "node": "magnetite", "sub": "磁鉄鉱", "era": "19世紀" }
+    ],
+    "phrases": [
+      { "en": "a magnetite deposit", "ja": "磁鉄鉱の鉱床" },
+      { "en": "mine magnetite", "ja": "磁鉄鉱を採掘する" },
+      { "en": "magnetite crystals", "ja": "磁鉄鉱の結晶" },
+      { "en": "rich in magnetite", "ja": "磁鉄鉱に富む" },
+      { "en": "black magnetite", "ja": "黒い磁鉄鉱" },
+      { "en": "magnetite ore", "ja": "磁鉄鉱鉱石" }
+    ],
+    "related": [
+      { "en": "magnet", "ja": "磁石" },
+      { "en": "iron ore", "ja": "鉄鉱石" },
+      { "en": "lodestone", "ja": "天然磁石" },
+      { "en": "mineral", "ja": "鉱物" }
+    ],
+    "faq": [
+      { "q": "magnetite とは？", "a": "天然で強い磁性を持つ黒い酸化鉄の鉱物『磁鉄鉱』です。重要な鉄鉱石でもあります。" },
+      { "q": "-ite は何を表す？", "a": "鉱物の名前を作る接尾辞で、granite（花崗岩）、graphite（黒鉛）などに使われます。" }
+    ],
+    "quiz": [
+      { "q": "magnetite の意味は？", "A": "磁鉄鉱(磁性のある鉄鉱物)", "B": "ダイヤモンド", "C": "石灰岩", "D": "石炭", "correct": "A" },
+      { "q": "magnetite が持つ性質は？", "A": "天然の磁性", "B": "強い甘み", "C": "高い透明度", "D": "強い匂い", "correct": "A" }
+    ]
+  },
+  {
+    "english": "making",
+    "pron": "ˈmeɪkɪŋ",
+    "kana": "メイキング",
+    "hinshi": "名詞 / 動詞(make の -ing形)",
+    "ld_pos": "名詞",
+    "ld_etym": "make（作る）＋-ing",
+    "ld_level": "対象外",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "頻出"],
+    "meaning_main": "作ること／製作／(複数で)素質・要素",
+    "description": "making（メイキング）は「作ること・製作」を意味する名詞。make（作る）の動名詞で、慣用句や複数形で『素質・成功のもと』の意味にもなります。",
+    "keywords": ["making 意味", "作ること 英語", "make 名詞"],
+    "meanings": [
+      { "hinshi": "【名詞】作ること、製作", "note": "make（作る）の動名詞。the making of ~（〜の製作・成り立ち）。" },
+      { "hinshi": "【名詞】(複数 makings)素質、要素", "note": "have the makings of ~ で『〜の素質がある』。" },
+      { "hinshi": "【動詞】make の現在分詞", "note": "make（作る）の -ing 形。" }
+    ],
+    "usages": [
+      { "title": "① 製作", "desc": "作る過程に。", "example_en": "The making of the film took two years.", "example_ja": "その映画の製作には2年かかった。" },
+      { "title": "② 素質がある", "desc": "慣用句で。", "example_en": "She has the makings of a great leader.", "example_ja": "彼女には優れたリーダーの素質がある。" }
+    ],
+    "warn": ["in the making（進行中の・でき上がりつつある）、of one's own making（自分で招いた）などの慣用句が頻出。"],
+    "etym_note": "古英語 macian（作る）に由来する make に、-ing が付いた語。",
+    "etym_chain": [
+      { "node": "macian", "sub": "作る（古英語）", "era": "古英語" },
+      { "node": "making", "sub": "作ること", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the making of ~", "ja": "〜の製作・成り立ち" },
+      { "en": "in the making", "ja": "進行中の・でき上がりつつある" },
+      { "en": "have the makings of ~", "ja": "〜の素質がある" },
+      { "en": "of one's own making", "ja": "自分で招いた" },
+      { "en": "decision-making", "ja": "意思決定" },
+      { "en": "history in the making", "ja": "作られつつある歴史" }
+    ],
+    "related": [
+      { "en": "make", "ja": "作る" },
+      { "en": "creation", "ja": "創造・製作" },
+      { "en": "production", "ja": "生産・製作" },
+      { "en": "maker", "ja": "作り手・製造者" }
+    ],
+    "faq": [
+      { "q": "in the making とは？", "a": "『進行中の・でき上がりつつある』という意味です。a star in the making（将来のスター）のように使います。" },
+      { "q": "have the makings of ~ とは？", "a": "『〜になる素質・資質がある』という意味です。" }
+    ],
+    "quiz": [
+      { "q": "in the making の意味は？", "A": "進行中の・でき上がりつつある", "B": "完全に壊れた", "C": "とっくに終わった", "D": "存在しない", "correct": "A" },
+      { "q": "have the makings of ~ の意味は？", "A": "〜の素質がある", "B": "〜を嫌う", "C": "〜を壊す", "D": "〜を忘れる", "correct": "A" }
+    ]
+  },
+  {
+    "english": "malay",
+    "pron": "məˈleɪ",
+    "kana": "マレー",
+    "hinshi": "名詞 / 形容詞（固有）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "マレー語の民族名に由来",
+    "ld_level": "対象外",
+    "badges": ["高校生〜", "民族・言語", "CEFR B1", "固有名詞"],
+    "meaning_main": "マレー人／マレー語／マレーの（東南アジアの民族・言語）",
+    "description": "Malay（マレー）は東南アジアの民族「マレー人」や、その言語「マレー語」を指す語。マレーシアやインドネシア周辺に広がる民族・言語です。",
+    "keywords": ["malay 意味", "マレー 英語", "マレー語"],
+    "meanings": [
+      { "hinshi": "【名詞】マレー人／マレー語", "note": "マレー半島・スマトラ島などに住む民族と、その言語。頭文字は大文字 Malay。" },
+      { "hinshi": "【形容詞】マレーの", "note": "マレー人・マレー語・マレー文化に関する。" }
+    ],
+    "usages": [
+      { "title": "① 言語として", "desc": "言葉に。", "example_en": "Malay is spoken in Malaysia and Indonesia.", "example_ja": "マレー語はマレーシアとインドネシアで話される。" },
+      { "title": "② 民族・文化", "desc": "文化に。", "example_en": "Malay culture is rich and diverse.", "example_ja": "マレーの文化は豊かで多様だ。" }
+    ],
+    "warn": ["固有名詞なので先頭は大文字 Malay。国名 Malaysia（マレーシア）とは区別。マレー語はインドネシア語と近い。"],
+    "etym_note": "マレー人が自らを指す民族名に由来する語。マレー語（Bahasa Melayu）は東南アジアの広域で話される。",
+    "etym_chain": [
+      { "node": "Melayu", "sub": "マレー(民族名)", "era": "古くから" },
+      { "node": "Malay", "sub": "マレー人・語", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the Malay language", "ja": "マレー語" },
+      { "en": "the Malay people", "ja": "マレー人" },
+      { "en": "Malay culture", "ja": "マレー文化" },
+      { "en": "speak Malay", "ja": "マレー語を話す" },
+      { "en": "the Malay Peninsula", "ja": "マレー半島" },
+      { "en": "Malay cuisine", "ja": "マレー料理" }
+    ],
+    "related": [
+      { "en": "Malaysia", "ja": "マレーシア" },
+      { "en": "Indonesia", "ja": "インドネシア" },
+      { "en": "Southeast Asia", "ja": "東南アジア" },
+      { "en": "Malaysian", "ja": "マレーシアの・マレーシア人" }
+    ],
+    "faq": [
+      { "q": "Malay と Malaysian の違いは？", "a": "Malay は『マレー人・マレー語（民族・言語）』、Malaysian は『マレーシアの・マレーシア国民（国籍）』を指します。" },
+      { "q": "Malay 語はどこで話される？", "a": "マレーシア、インドネシア、ブルネイ、シンガポールなど東南アジアの広い地域で話されます。" }
+    ],
+    "quiz": [
+      { "q": "Malay が指すものは？", "A": "マレー人・マレー語", "B": "国名だけ", "C": "料理だけ", "D": "通貨", "correct": "A" },
+      { "q": "Malay 語が話される地域は？", "A": "東南アジア", "B": "北欧", "C": "南米", "D": "中央アフリカ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "male-dominated",
+    "pron": "ˌmeɪl ˈdɒmɪneɪtɪd",
+    "kana": "メイルドミネイティド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "male（男性）＋dominated（支配された）",
+    "ld_level": "対象外",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "社会"],
+    "meaning_main": "男性優位の／男性が多数を占める",
+    "description": "male-dominated（メイルドミネイティド）は「男性優位の・男性が多数を占める」という意味の形容詞。分野・職場などで男性の割合や影響力が大きい様子を表します。",
+    "keywords": ["male-dominated 意味", "男性優位 英語", "male-dominated 使い方"],
+    "meanings": [
+      { "hinshi": "【形容詞】男性優位の、男性が多数を占める", "note": "ある分野・組織・場で男性が数や影響力の面で支配的なさま。ハイフンでつなぐ。" }
+    ],
+    "usages": [
+      { "title": "① 男性の多い分野", "desc": "職場に。", "example_en": "Engineering is still a male-dominated field.", "example_ja": "工学はいまだに男性優位の分野だ。" },
+      { "title": "② 業界を述べる", "desc": "社会の文脈で。", "example_en": "She succeeded in a male-dominated industry.", "example_ja": "彼女は男性優位の業界で成功した。" }
+    ],
+    "warn": ["反対は female-dominated（女性優位の）。dominate（支配する）の過去分詞 dominated を含む。ハイフンでつなぐ。"],
+    "etym_note": "male（男性）＋dominate（支配する、ラテン語 dominari 由来）の過去分詞 dominated を組み合わせた複合語。",
+    "etym_chain": [
+      { "node": "male + dominated", "sub": "男性＋支配された", "era": "20世紀" },
+      { "node": "male-dominated", "sub": "男性優位の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a male-dominated field", "ja": "男性優位の分野" },
+      { "en": "a male-dominated industry", "ja": "男性優位の業界" },
+      { "en": "a male-dominated workplace", "ja": "男性の多い職場" },
+      { "en": "a male-dominated culture", "ja": "男性優位の文化" },
+      { "en": "in a male-dominated society", "ja": "男性優位の社会で" },
+      { "en": "a male-dominated profession", "ja": "男性の多い職業" }
+    ],
+    "related": [
+      { "en": "female-dominated", "ja": "女性優位の" },
+      { "en": "dominate", "ja": "支配する" },
+      { "en": "patriarchal", "ja": "家父長制の・男性支配の" },
+      { "en": "gender", "ja": "性別・ジェンダー" }
+    ],
+    "faq": [
+      { "q": "male-dominated の反対語は？", "a": "female-dominated（女性優位の・女性が多数を占める）です。" },
+      { "q": "male-dominated はどんな文脈で使う？", "a": "特定の職業・業界・組織・社会などで、男性の数や影響力が大きいことを述べるときに使います。" }
+    ],
+    "quiz": [
+      { "q": "male-dominated の意味は？", "A": "男性優位の・男性が多数を占める", "B": "女性優位の", "C": "年齢が高い", "D": "収入が多い", "correct": "A" },
+      { "q": "male-dominated の反対語は？", "A": "female-dominated", "B": "male-friendly", "C": "male-only", "D": "male-free", "correct": "A" }
+    ]
+  },
+  {
+    "english": "malfunctioning",
+    "pron": "ˌmælˈfʌŋkʃənɪŋ",
+    "kana": "マルファンクショニング",
+    "hinshi": "形容詞 / 動詞(malfunction の -ing形)",
+    "ld_pos": "形容詞",
+    "ld_etym": "mal-（悪く）＋function（機能する）＋-ing",
+    "ld_level": "対象外",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "描写"],
+    "meaning_main": "正常に動かない／故障している／誤作動している",
+    "description": "malfunctioning（マルファンクショニング）は「正常に動かない・故障している」という意味。機械やシステムが正しく機能しない状態を表します。",
+    "keywords": ["malfunctioning 意味", "故障 英語", "malfunction 使い方"],
+    "meanings": [
+      { "hinshi": "【形容詞】正常に動かない、故障している", "note": "機械・システムが正しく機能しないさま。a malfunctioning sensor（誤作動するセンサー）。" },
+      { "hinshi": "【動詞】malfunction の現在分詞", "note": "malfunction（正常に機能しない・故障する）の -ing 形。" }
+    ],
+    "usages": [
+      { "title": "① 故障した機器", "desc": "機械に。", "example_en": "The malfunctioning printer jammed again.", "example_ja": "故障したプリンターがまた紙詰まりを起こした。" },
+      { "title": "② 誤作動", "desc": "動作の不具合に。", "example_en": "A malfunctioning alarm went off at night.", "example_ja": "誤作動した警報が夜中に鳴った。" }
+    ],
+    "warn": ["mal-（悪く）＋function（機能する）。反対は functioning / working（正常に動く）。名詞・動詞は malfunction。"],
+    "etym_note": "ラテン語由来の mal-（悪く）＋function（機能する、ラテン語 fungi＝果たす より）＋-ing から成る語。",
+    "etym_chain": [
+      { "node": "mal + function", "sub": "悪く＋機能する", "era": "20世紀" },
+      { "node": "malfunctioning", "sub": "正常に動かない", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a malfunctioning device", "ja": "故障した機器" },
+      { "en": "a malfunctioning system", "ja": "誤作動するシステム" },
+      { "en": "a malfunctioning engine", "ja": "不調のエンジン" },
+      { "en": "a malfunctioning sensor", "ja": "誤作動するセンサー" },
+      { "en": "replace a malfunctioning part", "ja": "故障した部品を交換する" },
+      { "en": "a malfunctioning alarm", "ja": "誤作動する警報" }
+    ],
+    "related": [
+      { "en": "malfunction", "ja": "故障・誤作動(する)" },
+      { "en": "broken", "ja": "壊れた" },
+      { "en": "faulty", "ja": "欠陥のある" },
+      { "en": "functioning", "ja": "正常に動く" }
+    ],
+    "faq": [
+      { "q": "malfunctioning の反対に近い語は？", "a": "functioning や working properly（正常に動いている）です。" },
+      { "q": "mal- は何を表す？", "a": "『悪く・不正に』を表す接頭辞で、malfunction（誤作動）、malnutrition（栄養失調）などに使われます。" }
+    ],
+    "quiz": [
+      { "q": "malfunctioning の意味は？", "A": "正常に動かない・故障している", "B": "正常に動く", "C": "とても新しい", "D": "とても速い", "correct": "A" },
+      { "q": "mal- が表す意味は？", "A": "悪く・不正に", "B": "多く", "C": "後で", "D": "前に", "correct": "A" }
+    ]
+  },
+  {
+    "english": "maliciously",
+    "pron": "məˈlɪʃəsli",
+    "kana": "マリシャスリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "malicious（悪意のある）＋-ly",
+    "ld_level": "対象外",
+    "badges": ["社会人〜", "英検準1級", "CEFR C1", "描写"],
+    "meaning_main": "悪意を持って／意地悪く",
+    "description": "maliciously（マリシャスリー）は「悪意を持って・意地悪く」という意味の副詞。人を害そうとする悪意ある態度で行う様子を表します。",
+    "keywords": ["maliciously 意味", "悪意を持って 英語", "malicious 副詞"],
+    "meanings": [
+      { "hinshi": "【副詞】悪意を持って、意地悪く", "note": "故意に人を傷つけ・困らせようとするさま。malicious（悪意のある）＋-ly。" }
+    ],
+    "usages": [
+      { "title": "① 悪意ある行為", "desc": "故意の害に。", "example_en": "The rumor was spread maliciously.", "example_ja": "そのうわさは悪意を持って広められた。" },
+      { "title": "② 意地悪な態度", "desc": "対人に。", "example_en": "He maliciously deleted the files.", "example_ja": "彼は悪意を持ってファイルを削除した。" }
+    ],
+    "warn": ["形容詞は malicious（悪意のある）、名詞は malice（悪意）。IT で malicious software＝malware（不正プログラム）。"],
+    "etym_note": "ラテン語 malus（悪い）に由来する malice（悪意）＋-ous の malicious に、副詞化の -ly が付いた語。",
+    "etym_chain": [
+      { "node": "malus", "sub": "悪い（ラテン語）", "era": "古代" },
+      { "node": "malicious", "sub": "悪意のある", "era": "中世" },
+      { "node": "maliciously", "sub": "悪意を持って", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "act maliciously", "ja": "悪意を持って行動する" },
+      { "en": "maliciously spread", "ja": "悪意で広める" },
+      { "en": "maliciously damage", "ja": "故意に損害を与える" },
+      { "en": "grin maliciously", "ja": "意地悪くにやりと笑う" },
+      { "en": "maliciously false", "ja": "悪意ある虚偽の" },
+      { "en": "maliciously attack", "ja": "悪意を持って攻撃する" }
+    ],
+    "related": [
+      { "en": "malicious", "ja": "悪意のある" },
+      { "en": "malice", "ja": "悪意" },
+      { "en": "spitefully", "ja": "意地悪く" },
+      { "en": "deliberately", "ja": "故意に" }
+    ],
+    "faq": [
+      { "q": "maliciously の形容詞・名詞形は？", "a": "形容詞は malicious（悪意のある）、名詞は malice（悪意）です。" },
+      { "q": "maliciously と deliberately の違いは？", "a": "deliberately は『故意に』（善悪を問わない）、maliciously は『悪意を持って（害を与えようとして）』という否定的な意味合いです。" }
+    ],
+    "quiz": [
+      { "q": "maliciously の意味は？", "A": "悪意を持って・意地悪く", "B": "親切に", "C": "偶然に", "D": "静かに", "correct": "A" },
+      { "q": "maliciously の名詞形は？", "A": "malice", "B": "malaria", "C": "mansion", "D": "margin", "correct": "A" }
+    ]
+  },
+  {
+    "english": "malingerer",
+    "pron": "məˈlɪŋɡərər",
+    "kana": "マリンガラー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 malingre（病弱な）に由来する malinger＋-er",
+    "ld_level": "対象外",
+    "badges": ["社会人〜", "英検1級", "CEFR C2", "描写"],
+    "meaning_main": "仮病を使う人／(義務逃れに)病気のふりをする人",
+    "description": "malingerer（マリンガラー）は「仮病を使う人」を意味する名詞。仕事や義務を避けるために病気やけがのふりをする人を指します。",
+    "keywords": ["malingerer 意味", "仮病 英語", "malinger 人"],
+    "meanings": [
+      { "hinshi": "【名詞】仮病を使う人", "note": "義務・仕事を避けるために病気・けがを装う人。可算名詞。" }
+    ],
+    "usages": [
+      { "title": "① 義務逃れ", "desc": "職場などで。", "example_en": "The manager suspected he was a malingerer.", "example_ja": "上司は彼が仮病を使っているのではと疑った。" },
+      { "title": "② 軍隊などで", "desc": "任務回避に。", "example_en": "Malingerers tried to avoid duty by faking illness.", "example_ja": "仮病を使う者たちは病気を装って任務を逃れようとした。" }
+    ],
+    "warn": ["動詞は malinger（仮病を使う）。本当に病気なのではなく『装う』のがポイント。"],
+    "etym_note": "フランス語 malingre（病弱な・みじめな）に由来する malinger（仮病を使う）に、人を表す -er が付いた語。",
+    "etym_chain": [
+      { "node": "malingre", "sub": "病弱な（フランス語）", "era": "中世" },
+      { "node": "malinger", "sub": "仮病を使う", "era": "19世紀" },
+      { "node": "malingerer", "sub": "仮病を使う人", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a suspected malingerer", "ja": "仮病を疑われる人" },
+      { "en": "catch a malingerer", "ja": "仮病を見破る" },
+      { "en": "a lazy malingerer", "ja": "怠けて仮病を使う人" },
+      { "en": "expose a malingerer", "ja": "仮病を暴く" },
+      { "en": "accused of being a malingerer", "ja": "仮病だと非難されて" },
+      { "en": "a habitual malingerer", "ja": "常習的に仮病を使う人" }
+    ],
+    "related": [
+      { "en": "malinger", "ja": "仮病を使う" },
+      { "en": "shirker", "ja": "怠け者・義務逃れをする人" },
+      { "en": "faker", "ja": "偽る人" },
+      { "en": "slacker", "ja": "怠け者" }
+    ],
+    "faq": [
+      { "q": "malingerer とは？", "a": "仕事や義務を避けるために、病気やけがのふりをする『仮病を使う人』のことです。" },
+      { "q": "malingerer の動詞形は？", "a": "malinger（仮病を使う・病気を装う）です。" }
+    ],
+    "quiz": [
+      { "q": "malingerer の意味は？", "A": "仮病を使う人", "B": "医者", "C": "看護師", "D": "薬剤師", "correct": "A" },
+      { "q": "malingerer の動詞形は？", "A": "malinger", "B": "manage", "C": "mingle", "D": "mangle", "correct": "A" }
+    ]
+  },
+  {
+    "english": "managed",
+    "pron": "ˈmænɪdʒd",
+    "kana": "マネジド",
+    "hinshi": "動詞(manage の過去形) / 形容詞",
+    "ld_pos": "動詞",
+    "ld_etym": "manage（管理する・何とかやり遂げる）＋-ed",
+    "ld_level": "対象外",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出"],
+    "meaning_main": "管理された／何とか成し遂げた／(業者に)運営された",
+    "description": "managed（マネジド）は「管理された・何とか成し遂げた」という意味。動詞 manage（管理する・どうにかやり遂げる）の過去・過去分詞形です。",
+    "keywords": ["managed 意味", "管理された 英語", "manage 過去形"],
+    "meanings": [
+      { "hinshi": "【動詞】manage の過去・過去分詞", "note": "manage（管理する／manage to do で『どうにか〜する』）の -ed 形。" },
+      { "hinshi": "【形容詞】管理された、運営された", "note": "誰か・何かによって管理・運営されている。a managed service（管理サービス）。" }
+    ],
+    "usages": [
+      { "title": "① 何とか成し遂げた", "desc": "manage to で。", "example_en": "We managed to finish on time.", "example_ja": "私たちは何とか時間内に終えた。" },
+      { "title": "② 管理された", "desc": "運営に。", "example_en": "The forest is carefully managed.", "example_ja": "その森林は注意深く管理されている。" }
+    ],
+    "warn": ["manage to do（どうにか〜する）の用法が重要。IT の managed service（管理サービス）も頻出。名詞は management。"],
+    "etym_note": "イタリア語 maneggiare（馬を扱う→取り扱う）に由来する manage に、-ed が付いた語。",
+    "etym_chain": [
+      { "node": "manage", "sub": "管理する・やり遂げる", "era": "16世紀" },
+      { "node": "managed", "sub": "管理された・やり遂げた", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "managed to do", "ja": "どうにか〜した" },
+      { "en": "a managed service", "ja": "管理サービス" },
+      { "en": "well-managed", "ja": "よく管理された" },
+      { "en": "a managed fund", "ja": "運用ファンド" },
+      { "en": "carefully managed", "ja": "注意深く管理された" },
+      { "en": "managed the situation", "ja": "状況をうまく処理した" }
+    ],
+    "related": [
+      { "en": "manage", "ja": "管理する・やり遂げる" },
+      { "en": "management", "ja": "管理・経営" },
+      { "en": "manager", "ja": "管理者・経営者" },
+      { "en": "handled", "ja": "処理された" }
+    ],
+    "faq": [
+      { "q": "managed to do とは？", "a": "『どうにか〜することができた・何とか〜した』という意味の頻出表現です。" },
+      { "q": "managed の名詞形は？", "a": "management（管理・経営）です。" }
+    ],
+    "quiz": [
+      { "q": "managed to finish の意味は？", "A": "何とか終えた", "B": "終えられなかった", "C": "始めた", "D": "忘れた", "correct": "A" },
+      { "q": "managed の原形は？", "A": "manage", "B": "manager", "C": "manner", "D": "manual", "correct": "A" }
+    ]
+  },
+  {
+    "english": "manchu",
+    "pron": "mænˈtʃuː",
+    "kana": "マンチュー",
+    "hinshi": "名詞 / 形容詞（固有）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "満州語の民族名に由来",
+    "ld_level": "対象外",
+    "badges": ["高校生〜", "民族・歴史", "CEFR B1", "固有名詞"],
+    "meaning_main": "満州族（マンチュー）／満州語／清朝を建てた民族(の)",
+    "description": "Manchu（マンチュー）は中国東北部の民族「満州族」や、その言語「満州語」を指す語。清朝（1636〜1912）を建てた民族として知られます。",
+    "keywords": ["manchu 意味", "満州族 英語", "清朝 民族"],
+    "meanings": [
+      { "hinshi": "【名詞】満州族／満州語", "note": "中国東北部（満州）の民族と、その言語（アルタイ諸語系）。頭文字は大文字 Manchu。清朝を建てた。" },
+      { "hinshi": "【形容詞】満州族の", "note": "満州族・満州語・満州文化に関する。the Manchu dynasty（清朝）。" }
+    ],
+    "usages": [
+      { "title": "① 民族として", "desc": "歴史の文脈で。", "example_en": "The Manchu founded the Qing dynasty.", "example_ja": "満州族は清朝を建てた。" },
+      { "title": "② 言語として", "desc": "言葉に。", "example_en": "The Manchu language is now rarely spoken.", "example_ja": "満州語は今ではほとんど話されていない。" }
+    ],
+    "warn": ["固有名詞なので先頭は大文字 Manchu。清朝＝the Qing dynasty（満州族の王朝）。地域名は Manchuria（満州）。"],
+    "etym_note": "満州族が自らを指す民族名に由来する語。彼らが建てた清朝は中国最後の王朝となった。",
+    "etym_chain": [
+      { "node": "Manchu（民族名）", "sub": "満州族", "era": "17世紀" },
+      { "node": "Manchu", "sub": "満州族・満州語", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the Manchu people", "ja": "満州族" },
+      { "en": "the Manchu language", "ja": "満州語" },
+      { "en": "the Manchu dynasty", "ja": "清朝(満州族の王朝)" },
+      { "en": "Manchu rule", "ja": "満州族の支配" },
+      { "en": "Manchu culture", "ja": "満州の文化" },
+      { "en": "a Manchu emperor", "ja": "満州族の皇帝" }
+    ],
+    "related": [
+      { "en": "Qing", "ja": "清(王朝)" },
+      { "en": "Manchuria", "ja": "満州(地域)" },
+      { "en": "China", "ja": "中国" },
+      { "en": "dynasty", "ja": "王朝" }
+    ],
+    "faq": [
+      { "q": "Manchu とは？", "a": "中国東北部の民族『満州族』と、その言語『満州語』を指します。清朝（Qing dynasty）を建てた民族です。" },
+      { "q": "Manchu と Manchuria の違いは？", "a": "Manchu は『満州族・満州語（民族・言語）』、Manchuria は彼らの故地である『満州（地域）』を指します。" }
+    ],
+    "quiz": [
+      { "q": "Manchu が建てた中国の王朝は？", "A": "清(Qing)", "B": "唐(Tang)", "C": "宋(Song)", "D": "漢(Han)", "correct": "A" },
+      { "q": "Manchu の故地(地域名)は？", "A": "満州(Manchuria)", "B": "チベット", "C": "モンゴル", "D": "雲南", "correct": "A" }
+    ]
+  },
+  {
+    "english": "manic",
+    "pron": "ˈmænɪk",
+    "kana": "マニック",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ギリシャ語 mania（熱狂・狂気）に由来",
+    "ld_level": "対象外",
+    "badges": ["社会人〜", "英検1級", "CEFR C1", "描写"],
+    "meaning_main": "躁(そう)状態の／異常に興奮した／めちゃくちゃ忙しい",
+    "description": "manic（マニック）は「躁(そう)状態の・異常に興奮した」という意味の形容詞。医学的な躁のほか、口語で『目まぐるしく忙しい』様子も表します。",
+    "keywords": ["manic 意味", "躁状態 英語", "manic 使い方"],
+    "meanings": [
+      { "hinshi": "【形容詞】躁(そう)状態の、異常に高揚した", "note": "医学で、気分が異常に高ぶり活動的になる躁の状態。manic-depressive（躁うつの）。" },
+      { "hinshi": "【形容詞】(口語)めちゃくちゃ忙しい、あわただしい", "note": "エネルギッシュで落ち着かないほど忙しいさま。a manic week（目まぐるしい一週間）。" }
+    ],
+    "usages": [
+      { "title": "① 躁状態", "desc": "医学の文脈で。", "example_en": "During a manic phase, he barely slept.", "example_ja": "躁の時期には、彼はほとんど眠らなかった。" },
+      { "title": "② あわただしい", "desc": "口語で。", "example_en": "It's been a manic morning at the office.", "example_ja": "オフィスは目まぐるしい朝だった。" }
+    ],
+    "warn": ["名詞は mania（熱狂・躁病）。反対の落ち込みは depressive（うつの）。躁うつは manic-depressive / bipolar。"],
+    "etym_note": "ギリシャ語 mania（熱狂・狂気）に由来する語。医学の『躁』と、口語の『あわただしい』の意味を持つ。",
+    "etym_chain": [
+      { "node": "mania", "sub": "熱狂・狂気（ギリシャ語）", "era": "古代" },
+      { "node": "manic", "sub": "躁状態の・あわただしい", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a manic phase", "ja": "躁の時期" },
+      { "en": "manic energy", "ja": "異常な高揚感" },
+      { "en": "manic-depressive", "ja": "躁うつの" },
+      { "en": "a manic morning", "ja": "目まぐるしい朝" },
+      { "en": "manic laughter", "ja": "異常な高笑い" },
+      { "en": "in a manic state", "ja": "躁状態で" }
+    ],
+    "related": [
+      { "en": "mania", "ja": "熱狂・躁病" },
+      { "en": "frantic", "ja": "半狂乱の・あわただしい" },
+      { "en": "hyperactive", "ja": "過度に活動的な" },
+      { "en": "depressive", "ja": "うつの" }
+    ],
+    "faq": [
+      { "q": "manic の医学的な意味は？", "a": "気分が異常に高ぶり、活動的になりすぎる『躁（そう）状態の』という意味です。うつ状態の反対の状態です。" },
+      { "q": "manic は口語でも使う？", "a": "はい。『目まぐるしく忙しい・あわただしい』という意味でも使われます（a manic day）。" }
+    ],
+    "quiz": [
+      { "q": "manic の意味は？", "A": "躁状態の・異常に興奮した", "B": "落ち着いた", "C": "眠そうな", "D": "冷静な", "correct": "A" },
+      { "q": "manic の名詞形は？", "A": "mania", "B": "manner", "C": "manual", "D": "mansion", "correct": "A" }
+    ]
+  },
+  {
+    "english": "mantelpiece",
+    "pron": "ˈmæntlpiːs",
+    "kana": "マントルピース",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "mantel（暖炉の上枠）＋piece（部分）",
+    "ld_level": "対象外",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "住まい"],
+    "meaning_main": "マントルピース（暖炉の上の飾り棚・枠）",
+    "description": "mantelpiece（マントルピース）は暖炉の上部を囲う枠や、その上の飾り棚のこと。写真や置物を並べる場所として使われます。",
+    "keywords": ["mantelpiece 意味", "暖炉 棚 英語", "マントルピース"],
+    "meanings": [
+      { "hinshi": "【名詞】マントルピース、暖炉の飾り棚", "note": "暖炉の上部を囲う枠、およびその上の棚。写真・時計・置物を飾る。可算名詞。mantel とも。" }
+    ],
+    "usages": [
+      { "title": "① 飾り棚として", "desc": "住まいの文脈で。", "example_en": "Family photos stood on the mantelpiece.", "example_ja": "家族の写真がマントルピースの上に並んでいた。" },
+      { "title": "② 位置を述べる", "desc": "場所に。", "example_en": "A clock ticked on the mantelpiece.", "example_ja": "時計がマントルピースの上でかちかち鳴っていた。" }
+    ],
+    "warn": ["mantel（暖炉の上枠）＋piece。地球内部の mantle（マントル）とは別（つづり注意）。"],
+    "etym_note": "mantel（暖炉の上を覆う枠、ラテン語 mantellum＝覆い に由来）＋piece（部分）から成る語。",
+    "etym_chain": [
+      { "node": "mantel + piece", "sub": "暖炉の上枠＋部分", "era": "19世紀" },
+      { "node": "mantelpiece", "sub": "マントルピース", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "on the mantelpiece", "ja": "マントルピースの上に" },
+      { "en": "a clock on the mantelpiece", "ja": "マントルピースの上の時計" },
+      { "en": "the marble mantelpiece", "ja": "大理石のマントルピース" },
+      { "en": "decorate the mantelpiece", "ja": "マントルピースを飾る" },
+      { "en": "above the mantelpiece", "ja": "マントルピースの上方に" },
+      { "en": "photos on the mantelpiece", "ja": "マントルピースの上の写真" }
+    ],
+    "related": [
+      { "en": "mantel", "ja": "暖炉の上枠" },
+      { "en": "fireplace", "ja": "暖炉" },
+      { "en": "hearth", "ja": "炉床" },
+      { "en": "shelf", "ja": "棚" }
+    ],
+    "faq": [
+      { "q": "mantelpiece とは？", "a": "暖炉の上部を囲う枠や、その上の飾り棚のことです。写真・時計・置物などを並べます。" },
+      { "q": "mantelpiece と mantle の違いは？", "a": "mantelpiece は『暖炉の飾り棚』、mantle は『(地球内部の)マントル』や『外套』を指し、別の語です。" }
+    ],
+    "quiz": [
+      { "q": "mantelpiece とは？", "A": "暖炉の上の飾り棚・枠", "B": "台所の流し台", "C": "玄関のドア", "D": "屋根の煙突", "correct": "A" },
+      { "q": "mantelpiece の上によく置かれるものは？", "A": "写真や時計", "B": "自動車", "C": "冷蔵庫", "D": "ベッド", "correct": "A" }
+    ]
+  },
+  {
+    "english": "manually",
+    "pron": "ˈmænjuəli",
+    "kana": "マニュアリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "manual（手動の・手の）＋-ly",
+    "ld_level": "対象外",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "描写"],
+    "meaning_main": "手動で／手作業で／(自動でなく)人の手で",
+    "description": "manually（マニュアリー）は「手動で・手作業で」という意味の副詞。機械の自動でなく、人の手で行う様子を表します。",
+    "keywords": ["manually 意味", "手動で 英語", "manual 副詞"],
+    "meanings": [
+      { "hinshi": "【副詞】手動で、手作業で", "note": "自動（automatically）でなく、人の手で行うさま。manual（手の・手動の）＋-ly。" }
+    ],
+    "usages": [
+      { "title": "① 手作業で", "desc": "作業に。", "example_en": "The data had to be entered manually.", "example_ja": "そのデータは手作業で入力しなければならなかった。" },
+      { "title": "② 手動操作", "desc": "機械に。", "example_en": "You can open the door manually.", "example_ja": "そのドアは手動で開けられる。" }
+    ],
+    "warn": ["反対は automatically（自動で）。形容詞は manual（手の・手動の）、名詞 manual は『取扱説明書』。"],
+    "etym_note": "ラテン語 manus（手）に由来する manual（手の・手動の）に、副詞化の -ly が付いた語。",
+    "etym_chain": [
+      { "node": "manus", "sub": "手（ラテン語）", "era": "古代" },
+      { "node": "manual", "sub": "手動の・手の", "era": "中世" },
+      { "node": "manually", "sub": "手動で", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "enter data manually", "ja": "データを手入力する" },
+      { "en": "operate manually", "ja": "手動で操作する" },
+      { "en": "do it manually", "ja": "手作業でやる" },
+      { "en": "manually adjust", "ja": "手動で調整する" },
+      { "en": "check manually", "ja": "手作業で確認する" },
+      { "en": "manually controlled", "ja": "手動で制御された" }
+    ],
+    "related": [
+      { "en": "manual", "ja": "手の・手動の／取扱説明書" },
+      { "en": "automatically", "ja": "自動で" },
+      { "en": "by hand", "ja": "手で" },
+      { "en": "handmade", "ja": "手作りの" }
+    ],
+    "faq": [
+      { "q": "manually の反対語は？", "a": "automatically（自動で）です。" },
+      { "q": "manually の形容詞形は？", "a": "manual（手の・手動の）です。名詞では『取扱説明書（マニュアル）』の意味もあります。" }
+    ],
+    "quiz": [
+      { "q": "manually の意味は？", "A": "手動で・手作業で", "B": "自動で", "C": "急いで", "D": "静かに", "correct": "A" },
+      { "q": "manually の反対語は？", "A": "automatically", "B": "annually", "C": "actually", "D": "additionally", "correct": "A" }
+    ]
+  }
+]

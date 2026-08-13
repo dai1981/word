@@ -1,0 +1,976 @@
+[
+  {
+    "english": "margarita",
+    "pron": "ˌmɑːrɡəˈriːtə",
+    "kana": "マルガリータ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "スペイン語 Margarita（女性名・真珠の意）に由来",
+    "ld_level": "対象外",
+    "badges": ["社会人〜", "食べ物", "CEFR B1", "外来語"],
+    "meaning_main": "マルガリータ（テキーラベースのカクテル）",
+    "description": "margarita（マルガリータ）はテキーラをベースに、ライムと塩を合わせた有名なカクテル。グラスの縁に塩をつけて飲むのが特徴です。",
+    "keywords": ["margarita 意味", "マルガリータ カクテル", "テキーラ"],
+    "meanings": [
+      { "hinshi": "【名詞】マルガリータ", "note": "テキーラ・ライム果汁・オレンジリキュールで作るカクテル。グラスの縁に塩をつける。可算名詞。" }
+    ],
+    "usages": [
+      { "title": "① カクテルとして", "desc": "飲み物に。", "example_en": "She ordered a margarita at the bar.", "example_ja": "彼女はバーでマルガリータを注文した。" },
+      { "title": "② 味を述べる", "desc": "特徴に。", "example_en": "A margarita has a salty, sour taste.", "example_ja": "マルガリータは塩気と酸味のある味だ。" }
+    ],
+    "warn": ["ピザの margherita（マルゲリータ）とはつづり・意味が異なる（別物）。テキーラベースのカクテル。"],
+    "etym_note": "スペイン語の女性名 Margarita（『真珠』の意、ギリシャ語 margarites 由来）にちなむとされるカクテル名。",
+    "etym_chain": [
+      { "node": "Margarita", "sub": "真珠・女性名（スペイン語）", "era": "近代" },
+      { "node": "margarita", "sub": "マルガリータ(カクテル)", "era": "20世紀" }
+    ],
+    "phrases": [
+      { "en": "order a margarita", "ja": "マルガリータを注文する" },
+      { "en": "a frozen margarita", "ja": "フローズンマルガリータ" },
+      { "en": "a classic margarita", "ja": "定番のマルガリータ" },
+      { "en": "a salt-rimmed margarita", "ja": "塩を縁につけたマルガリータ" },
+      { "en": "a strawberry margarita", "ja": "ストロベリーマルガリータ" },
+      { "en": "make a margarita", "ja": "マルガリータを作る" }
+    ],
+    "related": [
+      { "en": "tequila", "ja": "テキーラ" },
+      { "en": "cocktail", "ja": "カクテル" },
+      { "en": "lime", "ja": "ライム" },
+      { "en": "margherita", "ja": "マルゲリータ(ピザ)" }
+    ],
+    "faq": [
+      { "q": "margarita とは？", "a": "テキーラをベースに、ライム果汁とオレンジリキュールを合わせたカクテルです。グラスの縁に塩をつけて飲みます。" },
+      { "q": "margarita と margherita の違いは？", "a": "margarita はカクテル、margherita はトマトとモッツァレラの『マルゲリータ・ピザ』で、別物です。" }
+    ],
+    "quiz": [
+      { "q": "margarita とは？", "A": "テキーラベースのカクテル", "B": "ピザの一種", "C": "パスタ", "D": "デザート", "correct": "A" },
+      { "q": "margarita のベースの酒は？", "A": "テキーラ", "B": "ウイスキー", "C": "ビール", "D": "日本酒", "correct": "A" }
+    ]
+  },
+  {
+    "english": "marjoram",
+    "pron": "ˈmɑːrdʒərəm",
+    "kana": "マージョラム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "中世ラテン語 majorana に由来",
+    "ld_level": "対象外",
+    "badges": ["社会人〜", "食べ物", "CEFR B2", "外来語"],
+    "meaning_main": "マジョラム（甘い香りのハーブ）",
+    "description": "marjoram（マージョラム）は甘い香りを持つハーブの一種。料理の香りづけに使われ、オレガノに近い風味を持ちます。",
+    "keywords": ["marjoram 意味", "マジョラム ハーブ", "marjoram 使い方"],
+    "meanings": [
+      { "hinshi": "【名詞】マジョラム", "note": "シソ科の香草。甘くやわらかな香りで、肉料理・スープなどの香りづけに使う。オレガノの近縁。不可算。" }
+    ],
+    "usages": [
+      { "title": "① 香りづけに", "desc": "料理の文脈で。", "example_en": "Add some marjoram to the sauce.", "example_ja": "ソースにマジョラムを少し加えて。" },
+      { "title": "② ハーブとして", "desc": "食材に。", "example_en": "Marjoram has a milder flavor than oregano.", "example_ja": "マジョラムはオレガノより穏やかな風味だ。" }
+    ],
+    "warn": ["オレガノ（oregano）は近縁でワイルドマジョラムとも呼ばれるが、marjoram はより甘く穏やかな香り。"],
+    "etym_note": "中世ラテン語 majorana に由来し、古フランス語を経て英語に入った。香草マジョラムを指す。",
+    "etym_chain": [
+      { "node": "majorana", "sub": "マジョラム（中世ラテン語）", "era": "中世" },
+      { "node": "marjoram", "sub": "マジョラム", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "dried marjoram", "ja": "乾燥マジョラム" },
+      { "en": "fresh marjoram", "ja": "生のマジョラム" },
+      { "en": "a pinch of marjoram", "ja": "ひとつまみのマジョラム" },
+      { "en": "sweet marjoram", "ja": "スイートマジョラム" },
+      { "en": "add marjoram", "ja": "マジョラムを加える" },
+      { "en": "marjoram leaves", "ja": "マジョラムの葉" }
+    ],
+    "related": [
+      { "en": "oregano", "ja": "オレガノ" },
+      { "en": "herb", "ja": "ハーブ・薬草" },
+      { "en": "thyme", "ja": "タイム" },
+      { "en": "basil", "ja": "バジル" }
+    ],
+    "faq": [
+      { "q": "marjoram とは？", "a": "甘くやわらかな香りを持つシソ科のハーブで、肉料理やスープの香りづけに使われます。" },
+      { "q": "marjoram と oregano の違いは？", "a": "近縁ですが、marjoram はより甘く穏やかな香り、oregano はより強く辛みのある香りが特徴です。" }
+    ],
+    "quiz": [
+      { "q": "marjoram とは？", "A": "香りづけに使うハーブ", "B": "肉の一種", "C": "魚の一種", "D": "果物", "correct": "A" },
+      { "q": "marjoram の近縁のハーブは？", "A": "オレガノ", "B": "しょうが", "C": "にんにく", "D": "唐辛子", "correct": "A" }
+    ]
+  },
+  {
+    "english": "marked",
+    "pron": "mɑːrkt",
+    "kana": "マークト",
+    "hinshi": "形容詞 / 動詞(mark の過去形)",
+    "ld_pos": "形容詞",
+    "ld_etym": "mark（印をつける）＋-ed",
+    "ld_level": "対象外",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "描写"],
+    "meaning_main": "著しい／はっきりした／印のついた",
+    "description": "marked（マークト）は「著しい・はっきりした」という意味の形容詞。目立つほど明確な違いや変化を表します。動詞 mark の過去形でもあります。",
+    "keywords": ["marked 意味", "著しい 英語", "mark 過去形"],
+    "meanings": [
+      { "hinshi": "【形容詞】著しい、はっきりした、目立つ", "note": "はっきり気づくほど明確なさま。a marked difference（著しい違い）。" },
+      { "hinshi": "【形容詞】印のついた、記された", "note": "印・目印がつけられた。a marked path（印のついた道）。" },
+      { "hinshi": "【動詞】mark の過去・過去分詞", "note": "mark（印をつける・採点する）の -ed 形。" }
+    ],
+    "usages": [
+      { "title": "① 著しい違い", "desc": "変化・差に。", "example_en": "There was a marked improvement in her health.", "example_ja": "彼女の健康には著しい改善が見られた。" },
+      { "title": "② 目立つ対比", "desc": "対比に。", "example_en": "a marked contrast between them", "example_ja": "彼らの間の際立った対比" }
+    ],
+    "warn": ["副詞は markedly（著しく）。marked man（目をつけられた人）という表現もある。"],
+    "etym_note": "古英語 mearc（境界・印）に由来する mark（印をつける）に、-ed が付いた語。『はっきり印がついた→著しい』へ発展した。",
+    "etym_chain": [
+      { "node": "mark", "sub": "印をつける", "era": "古英語" },
+      { "node": "marked", "sub": "著しい・印のついた", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a marked difference", "ja": "著しい違い" },
+      { "en": "a marked improvement", "ja": "著しい改善" },
+      { "en": "a marked contrast", "ja": "際立った対比" },
+      { "en": "a marked increase", "ja": "顕著な増加" },
+      { "en": "a marked change", "ja": "はっきりした変化" },
+      { "en": "a marked man", "ja": "目をつけられた人" }
+    ],
+    "related": [
+      { "en": "mark", "ja": "印をつける・印" },
+      { "en": "markedly", "ja": "著しく" },
+      { "en": "noticeable", "ja": "目立つ" },
+      { "en": "pronounced", "ja": "顕著な" }
+    ],
+    "faq": [
+      { "q": "marked（形容詞）の意味は？", "a": "『著しい・はっきりした・目立つ』という意味です。a marked difference（著しい違い）のように使います。" },
+      { "q": "marked の副詞形は？", "a": "markedly（著しく・目立って）です。" }
+    ],
+    "quiz": [
+      { "q": "marked（形容詞）の意味は？", "A": "著しい・はっきりした", "B": "わずかな", "C": "静かな", "D": "透明な", "correct": "A" },
+      { "q": "marked の副詞形は？", "A": "markedly", "B": "marking", "C": "marker", "D": "market", "correct": "A" }
+    ]
+  },
+  {
+    "english": "marketplace",
+    "pron": "ˈmɑːrkɪtpleɪs",
+    "kana": "マーケットプレイス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "market（市場）＋place（場所）",
+    "ld_level": "対象外",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "経済"],
+    "meaning_main": "市場（いちば）／(比喩)商取引・競争の場",
+    "description": "marketplace（マーケットプレイス）は「市場（いちば）」を意味する名詞。物を売買する広場や、比喩で商取引・競争の場、オンラインの売買サイトも指します。",
+    "keywords": ["marketplace 意味", "市場 英語", "marketplace 使い方"],
+    "meanings": [
+      { "hinshi": "【名詞】市場(いちば)、市の立つ広場", "note": "商品を売買する場所・広場。可算名詞。" },
+      { "hinshi": "【名詞】(比喩)商取引・競争の場、市場", "note": "経済活動が行われる領域。the global marketplace（世界市場）。オンラインの売買サイトも指す。" }
+    ],
+    "usages": [
+      { "title": "① 市場の広場", "desc": "場所に。", "example_en": "The town's marketplace was busy on Saturdays.", "example_ja": "町の市場は土曜日にはにぎわった。" },
+      { "title": "② 競争の場", "desc": "比喩的に。", "example_en": "The product succeeded in a crowded marketplace.", "example_ja": "その製品は競争の激しい市場で成功した。" }
+    ],
+    "warn": ["market（市場）とほぼ同義だが、marketplace は『場所』や『競争の場』のニュアンスを強調。the marketplace of ideas（自由な意見の競争の場）という表現も。"],
+    "etym_note": "market（市場、ラテン語 mercatus 由来）＋place（場所）から成る複合語。『市の立つ場所』を意味する。",
+    "etym_chain": [
+      { "node": "market + place", "sub": "市場＋場所", "era": "中世" },
+      { "node": "marketplace", "sub": "市場・競争の場", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the global marketplace", "ja": "世界市場" },
+      { "en": "a crowded marketplace", "ja": "競争の激しい市場" },
+      { "en": "the marketplace of ideas", "ja": "自由な意見の競争の場" },
+      { "en": "an online marketplace", "ja": "オンライン売買サイト" },
+      { "en": "enter the marketplace", "ja": "市場に参入する" },
+      { "en": "the town marketplace", "ja": "町の市場" }
+    ],
+    "related": [
+      { "en": "market", "ja": "市場" },
+      { "en": "bazaar", "ja": "バザール・市場" },
+      { "en": "commerce", "ja": "商業" },
+      { "en": "trade", "ja": "取引・貿易" }
+    ],
+    "faq": [
+      { "q": "marketplace の比喩的な意味は？", "a": "商取引・競争が行われる『場』を指します。the global marketplace（世界市場）、the marketplace of ideas（意見の競争の場）のように使います。" },
+      { "q": "オンラインの marketplace とは？", "a": "多数の売り手と買い手が売買を行うインターネット上の取引サイトのことです。" }
+    ],
+    "quiz": [
+      { "q": "marketplace の意味は？", "A": "市場・商取引の場", "B": "図書館", "C": "工場", "D": "病院", "correct": "A" },
+      { "q": "the marketplace of ideas とは？", "A": "自由な意見の競争の場", "B": "静かな図書室", "C": "秘密の会議", "D": "個人の日記", "correct": "A" }
+    ]
+  },
+  {
+    "english": "marksmanship",
+    "pron": "ˈmɑːrksmənʃɪp",
+    "kana": "マークスマンシップ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "marksman（射撃の名手）＋-ship",
+    "ld_level": "対象外",
+    "badges": ["社会人〜", "英検1級", "CEFR C1", "技能"],
+    "meaning_main": "射撃の腕前／射撃術",
+    "description": "marksmanship（マークスマンシップ）は「射撃の腕前・射撃術」を意味する名詞。銃や弓などで正確に的を射る技能を指します。",
+    "keywords": ["marksmanship 意味", "射撃術 英語", "marksman 名詞"],
+    "meanings": [
+      { "hinshi": "【名詞】射撃の腕前、射撃術", "note": "銃・弓などで正確に的を射る技能。marksman（射撃の名手）の技量。不可算。" }
+    ],
+    "usages": [
+      { "title": "① 射撃の腕前", "desc": "技能に。", "example_en": "The soldier was praised for his marksmanship.", "example_ja": "その兵士は射撃の腕前をたたえられた。" },
+      { "title": "② 訓練の文脈", "desc": "上達に。", "example_en": "Regular practice improves marksmanship.", "example_ja": "定期的な練習は射撃術を向上させる。" }
+    ],
+    "warn": ["marksman は『射撃の名手』。-ship は『技量・状態』を作る（例：leadership 指導力）。"],
+    "etym_note": "mark（的）＋man（人）から成る marksman（射撃の名手）に、技量を表す -ship が付いた語。",
+    "etym_chain": [
+      { "node": "marksman", "sub": "射撃の名手", "era": "17世紀" },
+      { "node": "marksmanship", "sub": "射撃術", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "excellent marksmanship", "ja": "優れた射撃術" },
+      { "en": "improve one's marksmanship", "ja": "射撃の腕を上げる" },
+      { "en": "test marksmanship", "ja": "射撃の腕を試す" },
+      { "en": "a marksmanship award", "ja": "射撃の表彰" },
+      { "en": "precise marksmanship", "ja": "正確な射撃術" },
+      { "en": "skilled marksmanship", "ja": "熟練した射撃術" }
+    ],
+    "related": [
+      { "en": "marksman", "ja": "射撃の名手" },
+      { "en": "sharpshooter", "ja": "狙撃の名人" },
+      { "en": "aim", "ja": "狙い・狙う" },
+      { "en": "shooting", "ja": "射撃" }
+    ],
+    "faq": [
+      { "q": "marksmanship とは？", "a": "銃や弓などで正確に的を射る『射撃の腕前・射撃術』のことです。" },
+      { "q": "-ship は何を表す？", "a": "『技量・状態・身分』を作る接尾辞で、leadership（指導力）、friendship（友情）などにも使われます。" }
+    ],
+    "quiz": [
+      { "q": "marksmanship の意味は？", "A": "射撃の腕前・射撃術", "B": "料理の腕前", "C": "運転技術", "D": "書道の技", "correct": "A" },
+      { "q": "marksman の意味は？", "A": "射撃の名手", "B": "船乗り", "C": "商人", "D": "農夫", "correct": "A" }
+    ]
+  },
+  {
+    "english": "markup",
+    "pron": "ˈmɑːrkʌp",
+    "kana": "マークアップ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "mark up（値を上げる・印をつける）の名詞化",
+    "ld_level": "対象外",
+    "badges": ["高校生〜", "経済・IT", "CEFR B2", "経済"],
+    "meaning_main": "(原価への)上乗せ額・利幅／(IT)マークアップ（文書の構造指定）",
+    "description": "markup（マークアップ）は「(仕入れ値への)上乗せ額・利幅」を意味する名詞。またITでは、HTMLなど文書の構造を指定する『マークアップ』も指します。",
+    "keywords": ["markup 意味", "利幅 英語", "マークアップ HTML"],
+    "meanings": [
+      { "hinshi": "【名詞】(原価への)上乗せ額、利幅", "note": "仕入れ値に上乗せして販売価格とする差額・割合。a 50% markup（50%の上乗せ）。可算・不可算。" },
+      { "hinshi": "【名詞】(IT)マークアップ", "note": "HTMLなどで、文書の構造や体裁をタグで指定すること。markup language（マークアップ言語）。" }
+    ],
+    "usages": [
+      { "title": "① 利幅・上乗せ", "desc": "商売の文脈で。", "example_en": "The store adds a large markup on imported goods.", "example_ja": "その店は輸入品に大きな利幅を上乗せする。" },
+      { "title": "② HTMLのマークアップ", "desc": "IT の文脈で。", "example_en": "HTML is a markup language.", "example_ja": "HTMLはマークアップ言語だ。" }
+    ],
+    "warn": ["反対に価格を下げるのは markdown（値下げ）。IT の markup language（HTML など）と、商売の『利幅』は別の意味。"],
+    "etym_note": "動詞句 mark up（値を上げる／(校正で)印をつける）が名詞化した語。商業と IT の両方で使われる。",
+    "etym_chain": [
+      { "node": "mark up", "sub": "値を上げる・印をつける", "era": "近代" },
+      { "node": "markup", "sub": "利幅・マークアップ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a 50% markup", "ja": "50%の上乗せ" },
+      { "en": "a high markup", "ja": "大きな利幅" },
+      { "en": "a markup language", "ja": "マークアップ言語" },
+      { "en": "add a markup", "ja": "上乗せする" },
+      { "en": "the retail markup", "ja": "小売の利幅" },
+      { "en": "HTML markup", "ja": "HTMLのマークアップ" }
+    ],
+    "related": [
+      { "en": "markdown", "ja": "値下げ／記法の一種" },
+      { "en": "profit", "ja": "利益" },
+      { "en": "HTML", "ja": "HTML" },
+      { "en": "tag", "ja": "タグ" }
+    ],
+    "faq": [
+      { "q": "markup の二つの意味は？", "a": "商業では『仕入れ値への上乗せ額・利幅』、ITでは『HTMLなど文書の構造をタグで指定するマークアップ』を指します。" },
+      { "q": "markup と markdown の違いは？", "a": "商業では markup が『値上げ・利幅』、markdown が『値下げ』です。（ITでは markdown は軽量な記法名も指します。）" }
+    ],
+    "quiz": [
+      { "q": "商業での markup の意味は？", "A": "原価への上乗せ額・利幅", "B": "値下げ", "C": "返品", "D": "在庫", "correct": "A" },
+      { "q": "HTML は何の言語？", "A": "マークアップ言語", "B": "話し言葉", "C": "音楽の記譜", "D": "手話", "correct": "A" }
+    ]
+  },
+  {
+    "english": "marxist",
+    "pron": "ˈmɑːrksɪst",
+    "kana": "マルクシスト",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "思想家 Karl Marx（マルクス）＋-ist",
+    "ld_level": "対象外",
+    "badges": ["社会人〜", "英検1級", "CEFR C1", "思想"],
+    "meaning_main": "マルクス主義者／マルクス主義の",
+    "description": "Marxist（マルクシスト）は「マルクス主義者・マルクス主義の」を意味する語。哲学者カール・マルクスの思想に基づく立場を表します。",
+    "keywords": ["marxist 意味", "マルクス主義 英語", "marxist 使い方"],
+    "meanings": [
+      { "hinshi": "【名詞】マルクス主義者", "note": "カール・マルクスの思想（階級闘争・資本主義批判など）に基づく立場の人。頭文字は大文字 Marxist。可算名詞。" },
+      { "hinshi": "【形容詞】マルクス主義の", "note": "マルクス主義に基づく。Marxist theory（マルクス主義理論）。" }
+    ],
+    "usages": [
+      { "title": "① 立場を指す", "desc": "思想の文脈で。", "example_en": "He is a committed Marxist.", "example_ja": "彼は信念あるマルクス主義者だ。" },
+      { "title": "② 理論として", "desc": "分析に。", "example_en": "A Marxist analysis focuses on class and economics.", "example_ja": "マルクス主義的な分析は階級と経済に注目する。" }
+    ],
+    "warn": ["主義は Marxism（マルクス主義）。人名 Marx に由来するため頭文字は大文字。共産主義 communism と関連が深い。"],
+    "etym_note": "ドイツの哲学者・経済学者カール・マルクス（Karl Marx）の名に、人・主義を表す -ist が付いた語。",
+    "etym_chain": [
+      { "node": "Karl Marx", "sub": "思想家の名", "era": "19世紀" },
+      { "node": "Marxist", "sub": "マルクス主義者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Marxist theory", "ja": "マルクス主義理論" },
+      { "en": "a Marxist analysis", "ja": "マルクス主義的分析" },
+      { "en": "Marxist ideology", "ja": "マルクス主義思想" },
+      { "en": "a committed Marxist", "ja": "信念あるマルクス主義者" },
+      { "en": "Marxist economics", "ja": "マルクス経済学" },
+      { "en": "a Marxist perspective", "ja": "マルクス主義的視点" }
+    ],
+    "related": [
+      { "en": "Marxism", "ja": "マルクス主義" },
+      { "en": "communism", "ja": "共産主義" },
+      { "en": "socialism", "ja": "社会主義" },
+      { "en": "capitalism", "ja": "資本主義" }
+    ],
+    "faq": [
+      { "q": "Marxist の主義は？", "a": "Marxism（マルクス主義）です。階級闘争や資本主義批判を中心とする、カール・マルクスの思想に基づきます。" },
+      { "q": "Marxist はなぜ大文字？", "a": "人名 Marx（マルクス）に由来する固有名詞的な語のため、頭文字は大文字で書きます。" }
+    ],
+    "quiz": [
+      { "q": "Marxist の意味は？", "A": "マルクス主義者・マルクス主義の", "B": "資本主義者", "C": "無政府主義者", "D": "環境保護者", "correct": "A" },
+      { "q": "Marxist の由来となった人物は？", "A": "カール・マルクス", "B": "アダム・スミス", "C": "プラトン", "D": "ニュートン", "correct": "A" }
+    ]
+  },
+  {
+    "english": "masked",
+    "pron": "mæskt",
+    "kana": "マスクト",
+    "hinshi": "形容詞 / 動詞(mask の過去形)",
+    "ld_pos": "形容詞",
+    "ld_etym": "mask（覆う・隠す）＋-ed",
+    "ld_level": "対象外",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "描写"],
+    "meaning_main": "覆面をした／マスクをつけた／(本心などを)隠した",
+    "description": "masked（マスクト）は「覆面をした・マスクをつけた」という意味。また、動詞 mask（覆い隠す）の過去形で『(本心などを)隠した』の意味にもなります。",
+    "keywords": ["masked 意味", "覆面 英語", "mask 過去形"],
+    "meanings": [
+      { "hinshi": "【形容詞】覆面をした、マスクをつけた", "note": "顔を仮面やマスクで覆った。a masked man（覆面の男）。" },
+      { "hinshi": "【形容詞】(本心・事実が)隠された", "note": "隠されて表に出ない。masked feelings（隠された感情）。" },
+      { "hinshi": "【動詞】mask の過去・過去分詞", "note": "mask（覆う・隠す）の -ed 形。" }
+    ],
+    "usages": [
+      { "title": "① 覆面の人", "desc": "見た目に。", "example_en": "A masked figure appeared at the door.", "example_ja": "覆面の人物がドアのところに現れた。" },
+      { "title": "② 隠された感情", "desc": "本心に。", "example_en": "His anger was masked by a calm smile.", "example_ja": "彼の怒りは穏やかな笑みで隠されていた。" }
+    ],
+    "warn": ["反対は unmasked（覆いを取られた・正体を暴かれた）。動詞 mask には『覆い隠す・見えなくする』の意味も。"],
+    "etym_note": "中世ラテン語 masca（仮面・魔女）に由来する mask（仮面・覆う）に、-ed が付いた語。",
+    "etym_chain": [
+      { "node": "mask", "sub": "仮面・覆う", "era": "16世紀" },
+      { "node": "masked", "sub": "覆面をした・隠された", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a masked man", "ja": "覆面の男" },
+      { "en": "a masked ball", "ja": "仮面舞踏会" },
+      { "en": "masked feelings", "ja": "隠された感情" },
+      { "en": "a masked intruder", "ja": "覆面の侵入者" },
+      { "en": "masked by ~", "ja": "〜によって隠されて" },
+      { "en": "a masked threat", "ja": "隠された脅威" }
+    ],
+    "related": [
+      { "en": "mask", "ja": "仮面・マスク・覆う" },
+      { "en": "unmasked", "ja": "覆いを取られた・暴かれた" },
+      { "en": "disguised", "ja": "変装した" },
+      { "en": "hidden", "ja": "隠された" }
+    ],
+    "faq": [
+      { "q": "masked の反対語は？", "a": "unmasked（覆いを取られた・正体を暴かれた）です。" },
+      { "q": "a masked ball とは？", "a": "参加者が仮面をつけて踊る『仮面舞踏会』のことです。" }
+    ],
+    "quiz": [
+      { "q": "masked の意味は？", "A": "覆面をした・隠された", "B": "むき出しの", "C": "巨大な", "D": "透明な", "correct": "A" },
+      { "q": "masked の反対語は？", "A": "unmasked", "B": "marked", "C": "matched", "D": "mashed", "correct": "A" }
+    ]
+  },
+  {
+    "english": "master's",
+    "pron": "ˈmæstərz",
+    "kana": "マスターズ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "master（修士・主人）＋所有格の 's",
+    "ld_level": "対象外",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "学問"],
+    "meaning_main": "修士号（master's degree の略）／修士の",
+    "description": "master's（マスターズ）は「修士号」を意味する語で、master's degree の略です。学士（bachelor's）の上、博士（doctorate）の下の学位を指します。",
+    "keywords": ["master's 意味", "修士号 英語", "master's degree"],
+    "meanings": [
+      { "hinshi": "【名詞】修士号", "note": "master's degree の略。学士号の上、博士号の下の大学院の学位。a master's in economics（経済学の修士号）。可算名詞。" }
+    ],
+    "usages": [
+      { "title": "① 学位として", "desc": "学歴の文脈で。", "example_en": "She has a master's in biology.", "example_ja": "彼女は生物学の修士号を持っている。" },
+      { "title": "② 進学を述べる", "desc": "計画に。", "example_en": "He is studying for a master's.", "example_ja": "彼は修士号を取るために勉強している。" }
+    ],
+    "warn": ["アポストロフィ付きの master's が正式（master's degree の略）。学士は bachelor's、博士は doctorate / PhD。"],
+    "etym_note": "ラテン語 magister（師・主人）に由来する master に、所有格の 's が付いた語。master's degree（修士の学位）の略。",
+    "etym_chain": [
+      { "node": "magister", "sub": "師・主人（ラテン語）", "era": "古代" },
+      { "node": "master's", "sub": "修士号", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a master's degree", "ja": "修士号" },
+      { "en": "have a master's", "ja": "修士号を持つ" },
+      { "en": "a master's in ~", "ja": "〜の修士号" },
+      { "en": "study for a master's", "ja": "修士号を目指して学ぶ" },
+      { "en": "complete a master's", "ja": "修士課程を修了する" },
+      { "en": "a master's thesis", "ja": "修士論文" }
+    ],
+    "related": [
+      { "en": "bachelor's", "ja": "学士号" },
+      { "en": "doctorate", "ja": "博士号" },
+      { "en": "degree", "ja": "学位" },
+      { "en": "graduate", "ja": "大学院の・卒業する" }
+    ],
+    "faq": [
+      { "q": "master's とは？", "a": "master's degree（修士号）の略で、学士号の上、博士号の下にあたる大学院の学位です。" },
+      { "q": "学士・修士・博士は英語で？", "a": "学士は bachelor's、修士は master's、博士は doctorate（または PhD）です。" }
+    ],
+    "quiz": [
+      { "q": "master's が指す学位は？", "A": "修士号", "B": "学士号", "C": "博士号", "D": "高校卒業", "correct": "A" },
+      { "q": "master's の一つ上の学位は？", "A": "doctorate(博士号)", "B": "bachelor's(学士号)", "C": "diploma", "D": "certificate", "correct": "A" }
+    ]
+  },
+  {
+    "english": "matched",
+    "pron": "mætʃt",
+    "kana": "マッチト",
+    "hinshi": "形容詞 / 動詞(match の過去形)",
+    "ld_pos": "形容詞",
+    "ld_etym": "match（合う・対にする）＋-ed",
+    "ld_level": "対象外",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出"],
+    "meaning_main": "つり合った／対になった／(相手と)合わせた",
+    "description": "matched（マッチト）は「つり合った・対になった」という意味。動詞 match（合う・対にする・匹敵する）の過去・過去分詞形です。",
+    "keywords": ["matched 意味", "つり合った 英語", "match 過去形"],
+    "meanings": [
+      { "hinshi": "【形容詞】つり合った、対になった、調和した", "note": "互いに合った・そろった。a matched pair（そろいの一対）。" },
+      { "hinshi": "【動詞】match の過去・過去分詞", "note": "match（合う・対にする・匹敵する・照合する）の -ed 形。" }
+    ],
+    "usages": [
+      { "title": "① つり合った", "desc": "調和に。", "example_en": "They were well matched as a team.", "example_ja": "彼らはチームとしてよくかみ合っていた。" },
+      { "title": "② 照合した", "desc": "動詞の過去。", "example_en": "The system matched the fingerprints.", "example_ja": "そのシステムは指紋を照合した。" }
+    ],
+    "warn": ["well-matched（つり合いのとれた）、evenly matched（互角の）などの表現が頻出。反対は mismatched（不釣り合いの）。"],
+    "etym_note": "古英語 gemæcca（連れ合い・対）に由来する match（合う・対にする）に、-ed が付いた語。",
+    "etym_chain": [
+      { "node": "match", "sub": "合う・対にする", "era": "古英語" },
+      { "node": "matched", "sub": "つり合った・対になった", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "well matched", "ja": "つり合いのとれた" },
+      { "en": "evenly matched", "ja": "互角の" },
+      { "en": "a matched pair", "ja": "そろいの一対" },
+      { "en": "perfectly matched", "ja": "完全にかみ合った" },
+      { "en": "matched the description", "ja": "説明と一致した" },
+      { "en": "closely matched", "ja": "接戦の・よく似た" }
+    ],
+    "related": [
+      { "en": "match", "ja": "合う・対にする・試合" },
+      { "en": "mismatched", "ja": "不釣り合いの" },
+      { "en": "paired", "ja": "対にした" },
+      { "en": "suited", "ja": "適した・似合った" }
+    ],
+    "faq": [
+      { "q": "evenly matched とは？", "a": "『互角の・実力が拮抗した』という意味です。an evenly matched game（互角の試合）のように使います。" },
+      { "q": "matched の反対に近い語は？", "a": "mismatched（不釣り合いの・合っていない）です。" }
+    ],
+    "quiz": [
+      { "q": "well matched の意味は？", "A": "つり合いのとれた", "B": "全く合わない", "C": "壊れた", "D": "空っぽの", "correct": "A" },
+      { "q": "matched の反対に近い語は？", "A": "mismatched", "B": "marched", "C": "mashed", "D": "masked", "correct": "A" }
+    ]
+  },
+  {
+    "english": "mater",
+    "pron": "ˈmeɪtər",
+    "kana": "メイター",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 mater（母）に由来",
+    "ld_level": "対象外",
+    "badges": ["社会人〜", "英検1級", "CEFR C2", "古語"],
+    "meaning_main": "(英・古風/俗)母／(ラテン語で)母",
+    "description": "mater（メイター）はラテン語で「母」を意味する語。英語では古風・俗語的に『母』を指すほか、alma mater（母校）などの表現に残ります。",
+    "keywords": ["mater 意味", "母 ラテン語", "alma mater"],
+    "meanings": [
+      { "hinshi": "【名詞】(英・古風/俗)母", "note": "ラテン語 mater（母）に由来。英で古風・冗談めかして『母』を指すことがある。可算名詞。" },
+      { "hinshi": "【名詞】(ラテン語)母", "note": "alma mater（母校＝『育ての母』）などの表現に残る。" }
+    ],
+    "usages": [
+      { "title": "① 母校の表現", "desc": "alma mater で。", "example_en": "He donated to his alma mater.", "example_ja": "彼は母校に寄付した。" },
+      { "title": "② 古風な『母』", "desc": "くだけて。", "example_en": "I'm visiting the mater this weekend.", "example_ja": "今週末は母のところに行くんだ。" }
+    ],
+    "warn": ["ラテン語由来。父は pater。alma mater（母校）、mater は語源として maternal（母の）などに残る。日常の『母』は mother。"],
+    "etym_note": "ラテン語 mater（母）に由来する語。英語の maternal（母の）、maternity（母性）などの語源でもある。",
+    "etym_chain": [
+      { "node": "mater", "sub": "母（ラテン語）", "era": "古代" },
+      { "node": "mater", "sub": "母(英・古風)", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "alma mater", "ja": "母校" },
+      { "en": "the mater", "ja": "(古風)母" },
+      { "en": "mater and pater", "ja": "母と父(古風)" },
+      { "en": "visit the mater", "ja": "母を訪ねる" },
+      { "en": "one's alma mater", "ja": "自分の母校" },
+      { "en": "dear old mater", "ja": "なつかしの母" }
+    ],
+    "related": [
+      { "en": "mother", "ja": "母" },
+      { "en": "maternal", "ja": "母の・母方の" },
+      { "en": "pater", "ja": "父(ラテン語・古風)" },
+      { "en": "alma mater", "ja": "母校" }
+    ],
+    "faq": [
+      { "q": "mater とは？", "a": "ラテン語で『母』を意味する語です。英語では古風・冗談めかして『母』を指すほか、alma mater（母校）などに残ります。" },
+      { "q": "alma mater とは？", "a": "『母校』を意味する表現で、ラテン語で『育ての母（alma＝育む＋mater＝母）』が原義です。" }
+    ],
+    "quiz": [
+      { "q": "mater のもとの意味は？", "A": "母", "B": "父", "C": "兄", "D": "友", "correct": "A" },
+      { "q": "alma mater の意味は？", "A": "母校", "B": "母国語", "C": "母の日", "D": "義母", "correct": "A" }
+    ]
+  },
+  {
+    "english": "materialism",
+    "pron": "məˈtɪəriəlɪzəm",
+    "kana": "マテリアリズム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "material（物質の）＋-ism",
+    "ld_level": "対象外",
+    "badges": ["社会人〜", "英検準1級", "CEFR C1", "思想"],
+    "meaning_main": "物質主義（お金や物を重んじる態度）／(哲学)唯物論",
+    "description": "materialism（マテリアリズム）は「物質主義」を意味する名詞。お金や物の所有を重んじる態度や、哲学で『唯物論』を指します。",
+    "keywords": ["materialism 意味", "物質主義 英語", "唯物論 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】物質主義", "note": "お金・物の所有・快楽を精神的な価値より重んじる態度。しばしば否定的。不可算。" },
+      { "hinshi": "【名詞】(哲学)唯物論", "note": "世界の根本は物質であり、精神も物質から生じるとする哲学的立場。" }
+    ],
+    "usages": [
+      { "title": "① 物質主義", "desc": "価値観の文脈で。", "example_en": "He criticized the materialism of modern society.", "example_ja": "彼は現代社会の物質主義を批判した。" },
+      { "title": "② 唯物論", "desc": "哲学の文脈で。", "example_en": "Materialism holds that only matter truly exists.", "example_ja": "唯物論は物質のみが真に存在すると考える。" }
+    ],
+    "warn": ["反対の哲学は idealism（観念論）。物質主義者は materialist。日常では『物欲重視』の否定的な意味が中心。"],
+    "etym_note": "ラテン語 materia（材料・物質）に由来する material に、主義を表す -ism が付いた語。",
+    "etym_chain": [
+      { "node": "material", "sub": "物質の・材料", "era": "中世" },
+      { "node": "materialism", "sub": "物質主義・唯物論", "era": "18世紀" }
+    ],
+    "phrases": [
+      { "en": "rampant materialism", "ja": "はびこる物質主義" },
+      { "en": "consumer materialism", "ja": "消費的物質主義" },
+      { "en": "reject materialism", "ja": "物質主義を退ける" },
+      { "en": "dialectical materialism", "ja": "弁証法的唯物論" },
+      { "en": "the materialism of society", "ja": "社会の物質主義" },
+      { "en": "spiritual vs. materialism", "ja": "精神性対物質主義" }
+    ],
+    "related": [
+      { "en": "materialist", "ja": "物質主義者・唯物論者" },
+      { "en": "material", "ja": "物質の・材料" },
+      { "en": "idealism", "ja": "観念論・理想主義" },
+      { "en": "consumerism", "ja": "消費主義" }
+    ],
+    "faq": [
+      { "q": "materialism の二つの意味は？", "a": "日常語では『お金や物を重んじる物質主義（しばしば否定的）』、哲学では『世界の根本を物質とする唯物論』を指します。" },
+      { "q": "materialism（哲学)の反対は？", "a": "idealism（観念論）です。精神・観念を根本とする立場です。" }
+    ],
+    "quiz": [
+      { "q": "materialism(日常)の意味は？", "A": "お金や物を重んじる物質主義", "B": "精神を重んじる態度", "C": "無関心", "D": "節約", "correct": "A" },
+      { "q": "materialism(哲学)の反対は？", "A": "idealism(観念論)", "B": "realism", "C": "tourism", "D": "optimism", "correct": "A" }
+    ]
+  },
+  {
+    "english": "matricide",
+    "pron": "ˈmætrɪsaɪd",
+    "kana": "マトリサイド",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 mater（母）＋-cide（殺すこと）",
+    "ld_level": "対象外",
+    "badges": ["社会人〜", "英検1級", "CEFR C2", "法律"],
+    "meaning_main": "母殺し（自分の母を殺すこと・その犯人）",
+    "description": "matricide（マトリサイド）は「母殺し」を意味する名詞。自分の母親を殺す行為、またはその犯人を指す語です。",
+    "keywords": ["matricide 意味", "母殺し 英語", "matricide 使い方"],
+    "meanings": [
+      { "hinshi": "【名詞】母殺し(の行為)", "note": "自分の母親を殺すこと。不可算・可算。" },
+      { "hinshi": "【名詞】母殺しの犯人", "note": "自分の母親を殺した人。" }
+    ],
+    "usages": [
+      { "title": "① 行為として", "desc": "犯罪の文脈で。", "example_en": "Matricide is a rare and terrible crime.", "example_ja": "母殺しはまれで恐ろしい犯罪だ。" },
+      { "title": "② 文学・神話で", "desc": "物語に。", "example_en": "The myth deals with matricide and revenge.", "example_ja": "その神話は母殺しと復讐を扱う。" }
+    ],
+    "warn": ["-cide は『殺すこと』を作る（父殺し patricide、兄弟殺し fratricide、自殺 suicide など）。mater は『母』。"],
+    "etym_note": "ラテン語 mater（母）＋-cide（caedere＝殺す より）から成る語。『母を殺すこと』を意味する。",
+    "etym_chain": [
+      { "node": "mater + cide", "sub": "母＋殺すこと（ラテン語）", "era": "古代" },
+      { "node": "matricide", "sub": "母殺し", "era": "16世紀" }
+    ],
+    "phrases": [
+      { "en": "commit matricide", "ja": "母殺しを犯す" },
+      { "en": "accused of matricide", "ja": "母殺しで告発されて" },
+      { "en": "a case of matricide", "ja": "母殺しの事件" },
+      { "en": "the crime of matricide", "ja": "母殺しの罪" },
+      { "en": "matricide and patricide", "ja": "母殺しと父殺し" },
+      { "en": "guilty of matricide", "ja": "母殺しの罪を犯して" }
+    ],
+    "related": [
+      { "en": "patricide", "ja": "父殺し" },
+      { "en": "fratricide", "ja": "兄弟殺し" },
+      { "en": "homicide", "ja": "殺人" },
+      { "en": "suicide", "ja": "自殺" }
+    ],
+    "faq": [
+      { "q": "matricide とは？", "a": "自分の母親を殺す『母殺し』の行為、またはその犯人を指す語です。" },
+      { "q": "-cide は何を表す？", "a": "『殺すこと』を作る接尾辞で、patricide（父殺し）、homicide（殺人）、suicide（自殺）などがあります。" }
+    ],
+    "quiz": [
+      { "q": "matricide の意味は？", "A": "母殺し", "B": "父殺し", "C": "自殺", "D": "兄弟殺し", "correct": "A" },
+      { "q": "『父殺し』を表す語は？", "A": "patricide", "B": "matricide", "C": "genocide", "D": "pesticide", "correct": "A" }
+    ]
+  },
+  {
+    "english": "measly",
+    "pron": "ˈmiːzli",
+    "kana": "ミーズリー",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "measles（はしか）に関連する語から",
+    "ld_level": "対象外",
+    "badges": ["高校生〜", "会話", "CEFR B2", "口語"],
+    "meaning_main": "ごくわずかな／けちくさい／取るに足らない",
+    "description": "measly（ミーズリー）は「ごくわずかな・けちくさい」という意味のくだけた形容詞。量や額が少なすぎて不満に思う気持ちを表します。",
+    "keywords": ["measly 意味", "わずか 英語", "measly 使い方"],
+    "meanings": [
+      { "hinshi": "【形容詞】ごくわずかな、けちくさい、取るに足らない", "note": "量・額が少なすぎて不満・軽蔑を感じるさま。くだけた語。a measly amount（雀の涙ほどの額）。" }
+    ],
+    "usages": [
+      { "title": "① わずかな額", "desc": "不満を込めて。", "example_en": "I got a measly five dollars for the job.", "example_ja": "その仕事でたった5ドルぽっちしかもらえなかった。" },
+      { "title": "② 少なすぎる量", "desc": "軽蔑して。", "example_en": "A measly slice of cake was left.", "example_ja": "ケーキがほんのひと切れしか残っていなかった。" }
+    ],
+    "warn": ["くだけた口語で、しばしば不満・軽蔑を込める。はしか（measles）に由来するが、現在は『わずかな』の意味で使う。"],
+    "etym_note": "measles（はしか）に関連する語に由来し、『みすぼらしい→取るに足らない・わずかな』の意味に発展した。",
+    "etym_chain": [
+      { "node": "measles", "sub": "はしか", "era": "中世" },
+      { "node": "measly", "sub": "ごくわずかな", "era": "19世紀" }
+    ],
+    "phrases": [
+      { "en": "a measly amount", "ja": "雀の涙ほどの額" },
+      { "en": "a measly sum", "ja": "わずかな金額" },
+      { "en": "a measly portion", "ja": "少なすぎる分量" },
+      { "en": "only a measly ~", "ja": "たった〜ぽっち" },
+      { "en": "a measly raise", "ja": "けちくさい昇給" },
+      { "en": "a measly tip", "ja": "雀の涙のチップ" }
+    ],
+    "related": [
+      { "en": "paltry", "ja": "わずかな・微々たる" },
+      { "en": "meager", "ja": "乏しい" },
+      { "en": "stingy", "ja": "けちな" },
+      { "en": "generous", "ja": "気前のよい" }
+    ],
+    "faq": [
+      { "q": "measly はどんなニュアンス？", "a": "『量や額が少なすぎて不満・軽蔑を感じる』というくだけた否定的な語です。a measly amount（雀の涙ほど）のように使います。" },
+      { "q": "measly と paltry の違いは？", "a": "ほぼ同義で『わずかな』ですが、measly の方がより口語的で感情的な不満がこもります。" }
+    ],
+    "quiz": [
+      { "q": "measly の意味は？", "A": "ごくわずかな・けちくさい", "B": "たっぷりの", "C": "巨大な", "D": "高価な", "correct": "A" },
+      { "q": "measly の反対に近い語は？", "A": "generous", "B": "greedy", "C": "gloomy", "D": "gentle", "correct": "A" }
+    ]
+  },
+  {
+    "english": "measurably",
+    "pron": "ˈmeʒərəbli",
+    "kana": "メジャラブリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "measurable（測定できる）＋-ly",
+    "ld_level": "対象外",
+    "badges": ["高校生〜", "英検準1級", "CEFR C1", "描写"],
+    "meaning_main": "測定できるほどに／目に見えて／はっきりと",
+    "description": "measurably（メジャラブリー）は「測定できるほどに・目に見えて」という意味の副詞。数値で確認できるほど明確な変化を表します。",
+    "keywords": ["measurably 意味", "目に見えて 英語", "measurable 副詞"],
+    "meanings": [
+      { "hinshi": "【副詞】測定できるほどに、目に見えて、はっきりと", "note": "数値で確かめられるほど明確に変化するさま。measurable（測定できる）＋-ly。" }
+    ],
+    "usages": [
+      { "title": "① 目に見える変化", "desc": "改善などに。", "example_en": "The new method measurably improved results.", "example_ja": "その新手法は結果を目に見えて改善した。" },
+      { "title": "② はっきりとした差", "desc": "程度に。", "example_en": "Sales rose measurably this year.", "example_ja": "今年、売上は測定できるほどに増えた。" }
+    ],
+    "warn": ["反対は immeasurably（計り知れないほど）。形容詞は measurable（測定できる・明確な）。"],
+    "etym_note": "ラテン語 mensura（測定）に由来する measure に、可能の -able と副詞化の -ly が付いた語。",
+    "etym_chain": [
+      { "node": "measurable", "sub": "測定できる", "era": "中世" },
+      { "node": "measurably", "sub": "測定できるほどに", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "measurably better", "ja": "目に見えて良く" },
+      { "en": "measurably improved", "ja": "はっきり改善して" },
+      { "en": "measurably increased", "ja": "測定できるほど増加して" },
+      { "en": "measurably different", "ja": "はっきり異なる" },
+      { "en": "measurably reduced", "ja": "目に見えて減って" },
+      { "en": "measurably faster", "ja": "はっきり速く" }
+    ],
+    "related": [
+      { "en": "measurable", "ja": "測定できる・明確な" },
+      { "en": "measure", "ja": "測る・測定" },
+      { "en": "noticeably", "ja": "目立って" },
+      { "en": "immeasurably", "ja": "計り知れないほど" }
+    ],
+    "faq": [
+      { "q": "measurably の反対語は？", "a": "immeasurably（計り知れないほど・測れないほど）です。" },
+      { "q": "measurably はどんなときに使う？", "a": "数値で確認できるほど『目に見えて・はっきりと』変化したことを述べるときに使います。" }
+    ],
+    "quiz": [
+      { "q": "measurably の意味は？", "A": "測定できるほどに・目に見えて", "B": "計り知れないほど", "C": "偶然に", "D": "静かに", "correct": "A" },
+      { "q": "measurably の形容詞形は？", "A": "measurable", "B": "measured", "C": "measly", "D": "meager", "correct": "A" }
+    ]
+  },
+  {
+    "english": "meddling",
+    "pron": "ˈmedlɪŋ",
+    "kana": "メドリング",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "meddle（おせっかいをやく）＋-ing",
+    "ld_level": "対象外",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "描写"],
+    "meaning_main": "おせっかい／干渉／(形容詞)差し出がましい",
+    "description": "meddling（メドリング）は「おせっかい・干渉」を意味する名詞。人のことに余計な口出しをすることや、その様子を表します。",
+    "keywords": ["meddling 意味", "おせっかい 英語", "meddle 名詞"],
+    "meanings": [
+      { "hinshi": "【名詞】おせっかい、余計な干渉", "note": "他人のことに不必要に口出し・介入すること。meddle（おせっかいをやく）の動名詞。不可算。" },
+      { "hinshi": "【形容詞】差し出がましい、おせっかいな", "note": "余計な干渉をする。a meddling neighbor（おせっかいな隣人）。" }
+    ],
+    "usages": [
+      { "title": "① 余計な干渉", "desc": "口出しに。", "example_en": "Stop your constant meddling in my affairs.", "example_ja": "私のことにいちいち干渉するのはやめて。" },
+      { "title": "② おせっかいな人", "desc": "形容詞で。", "example_en": "The meddling relative gave unwanted advice.", "example_ja": "そのおせっかいな親戚は頼んでもいない助言をした。" }
+    ],
+    "warn": ["動詞は meddle（with / in を伴う）。interference（干渉）と近いが、meddling は『不必要でうっとうしい口出し』の否定的な含み。"],
+    "etym_note": "古フランス語 medler（混ぜる）に由来する meddle（余計な手出しをする）に、-ing が付いた語。",
+    "etym_chain": [
+      { "node": "meddle", "sub": "おせっかいをやく", "era": "中世" },
+      { "node": "meddling", "sub": "おせっかい・干渉", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "constant meddling", "ja": "絶え間ない干渉" },
+      { "en": "meddling in ~", "ja": "〜への干渉" },
+      { "en": "political meddling", "ja": "政治的干渉" },
+      { "en": "a meddling neighbor", "ja": "おせっかいな隣人" },
+      { "en": "stop meddling", "ja": "干渉をやめる" },
+      { "en": "foreign meddling", "ja": "外国からの干渉" }
+    ],
+    "related": [
+      { "en": "meddle", "ja": "おせっかいをやく・干渉する" },
+      { "en": "interference", "ja": "干渉" },
+      { "en": "intrusion", "ja": "立ち入り・侵害" },
+      { "en": "nosy", "ja": "詮索好きな" }
+    ],
+    "faq": [
+      { "q": "meddling の動詞形は？", "a": "meddle（おせっかいをやく・干渉する）です。meddle in / with ~ の形で使います。" },
+      { "q": "meddling と interference の違いは？", "a": "どちらも『干渉』ですが、meddling は『不必要でうっとうしい口出し』という否定的な含みが強めです。" }
+    ],
+    "quiz": [
+      { "q": "meddling の意味は？", "A": "おせっかい・余計な干渉", "B": "手助け", "C": "無関心", "D": "称賛", "correct": "A" },
+      { "q": "meddling の動詞形は？", "A": "meddle", "B": "muddle", "C": "middle", "D": "model", "correct": "A" }
+    ]
+  },
+  {
+    "english": "meditative",
+    "pron": "ˈmedɪteɪtɪv",
+    "kana": "メディテイティブ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "meditate（瞑想する・熟考する）＋-ive",
+    "ld_level": "対象外",
+    "badges": ["高校生〜", "英検準1級", "CEFR C1", "描写"],
+    "meaning_main": "瞑想的な／もの思いにふける／落ち着いて考える",
+    "description": "meditative（メディテイティブ）は「瞑想的な・もの思いにふける」という意味の形容詞。静かに深く考え込む様子や落ち着いた雰囲気を表します。",
+    "keywords": ["meditative 意味", "瞑想的 英語", "meditate 形容詞"],
+    "meanings": [
+      { "hinshi": "【形容詞】瞑想的な、もの思いにふける", "note": "静かに深く考え込むさま。落ち着いて内省的な雰囲気。meditate（瞑想する）の形容詞形。" }
+    ],
+    "usages": [
+      { "title": "① もの思いの様子", "desc": "気分に。", "example_en": "She was in a meditative mood.", "example_ja": "彼女はもの思いにふける気分だった。" },
+      { "title": "② 落ち着いた雰囲気", "desc": "音楽などに。", "example_en": "The music had a calm, meditative quality.", "example_ja": "その音楽は静かで瞑想的な趣があった。" }
+    ],
+    "warn": ["名詞は meditation（瞑想・熟考）、動詞は meditate。contemplative（瞑想的な）と近い。"],
+    "etym_note": "ラテン語 meditari（熟考する）に由来する meditate に、性質を表す -ive が付いた語。",
+    "etym_chain": [
+      { "node": "meditari", "sub": "熟考する（ラテン語）", "era": "古代" },
+      { "node": "meditate", "sub": "瞑想する・熟考する", "era": "16世紀" },
+      { "node": "meditative", "sub": "瞑想的な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a meditative mood", "ja": "もの思いにふける気分" },
+      { "en": "a meditative state", "ja": "瞑想的な状態" },
+      { "en": "a meditative silence", "ja": "静かな沈黙" },
+      { "en": "meditative music", "ja": "瞑想的な音楽" },
+      { "en": "in a meditative way", "ja": "落ち着いて考えるように" },
+      { "en": "a meditative walk", "ja": "もの思いの散歩" }
+    ],
+    "related": [
+      { "en": "meditation", "ja": "瞑想・熟考" },
+      { "en": "meditate", "ja": "瞑想する・熟考する" },
+      { "en": "contemplative", "ja": "瞑想的な・沈思する" },
+      { "en": "reflective", "ja": "内省的な" }
+    ],
+    "faq": [
+      { "q": "meditative の名詞形は？", "a": "meditation（瞑想・熟考）です。動詞は meditate（瞑想する・熟考する）です。" },
+      { "q": "meditative と reflective の違いは？", "a": "どちらも『内省的な』ですが、meditative は特に『静かに深く考え込む・瞑想するような』落ち着きを表します。" }
+    ],
+    "quiz": [
+      { "q": "meditative の意味は？", "A": "瞑想的な・もの思いにふける", "B": "騒がしい", "C": "とても速い", "D": "とても明るい", "correct": "A" },
+      { "q": "meditative の名詞形は？", "A": "meditation", "B": "medication", "C": "mediation", "D": "moderation", "correct": "A" }
+    ]
+  },
+  {
+    "english": "medulla",
+    "pron": "mɪˈdʌlə",
+    "kana": "メデュラ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 medulla（髄・中心）に由来",
+    "ld_level": "対象外",
+    "badges": ["社会人〜", "英検1級", "CEFR C2", "医療"],
+    "meaning_main": "髄（ずい）／(特に)延髄／臓器の内部組織",
+    "description": "medulla（メデュラ）は「髄（ずい）」を意味する医学用語。特に脳の下部にある延髄や、臓器の内側の組織を指します。",
+    "keywords": ["medulla 意味", "延髄 英語", "髄 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】延髄", "note": "脳幹の最下部で脊髄につながる部分（medulla oblongata）。呼吸・心拍など生命維持を担う。可算名詞。" },
+      { "hinshi": "【名詞】(臓器の)髄、内部組織", "note": "腎臓・副腎などの内側の組織。外側は cortex（皮質）。" }
+    ],
+    "usages": [
+      { "title": "① 延髄", "desc": "医学の文脈で。", "example_en": "The medulla controls breathing and heartbeat.", "example_ja": "延髄は呼吸と心拍をつかさどる。" },
+      { "title": "② 臓器の内側", "desc": "解剖の文脈で。", "example_en": "The kidney has an outer cortex and an inner medulla.", "example_ja": "腎臓は外側の皮質と内側の髄から成る。" }
+    ],
+    "warn": ["延髄は medulla oblongata。外側の皮質は cortex（cortex ↔ medulla）。ラテン語で『中心・髄』の意。"],
+    "etym_note": "ラテン語 medulla（骨髄・中心・髄）に由来する語。臓器や脳の『内側・中心の組織』を指す。",
+    "etym_chain": [
+      { "node": "medulla", "sub": "髄・中心（ラテン語）", "era": "古代" },
+      { "node": "medulla", "sub": "延髄・髄", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the medulla oblongata", "ja": "延髄" },
+      { "en": "the adrenal medulla", "ja": "副腎髄質" },
+      { "en": "the renal medulla", "ja": "腎髄質" },
+      { "en": "cortex and medulla", "ja": "皮質と髄質" },
+      { "en": "damage to the medulla", "ja": "延髄の損傷" },
+      { "en": "the medulla controls ~", "ja": "延髄が〜を制御する" }
+    ],
+    "related": [
+      { "en": "cortex", "ja": "皮質(外側)" },
+      { "en": "brainstem", "ja": "脳幹" },
+      { "en": "spinal cord", "ja": "脊髄" },
+      { "en": "brain", "ja": "脳" }
+    ],
+    "faq": [
+      { "q": "medulla とは？", "a": "『髄（ずい）』を意味し、特に脳幹下部の『延髄（medulla oblongata）』や、臓器の内側の組織を指します。" },
+      { "q": "延髄のはたらきは？", "a": "呼吸・心拍・血圧など、生命維持に欠かせない機能をつかさどります。" }
+    ],
+    "quiz": [
+      { "q": "medulla(延髄)がつかさどるのは？", "A": "呼吸や心拍", "B": "視覚のみ", "C": "味覚のみ", "D": "髪の成長", "correct": "A" },
+      { "q": "臓器で medulla の外側にあるのは？", "A": "cortex(皮質)", "B": "membrane", "C": "muscle", "D": "marrow", "correct": "A" }
+    ]
+  },
+  {
+    "english": "megacity",
+    "pron": "ˈmeɡəsɪti",
+    "kana": "メガシティ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "mega-（巨大な）＋city（都市）",
+    "ld_level": "対象外",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "社会"],
+    "meaning_main": "巨大都市（人口1000万人以上の都市）",
+    "description": "megacity（メガシティ）は「巨大都市」を意味する名詞。一般に人口1000万人を超える非常に大きな都市を指します。",
+    "keywords": ["megacity 意味", "巨大都市 英語", "megacity 使い方"],
+    "meanings": [
+      { "hinshi": "【名詞】巨大都市", "note": "人口が非常に多い都市。一般に人口1000万人以上を指すことが多い。可算名詞。" }
+    ],
+    "usages": [
+      { "title": "① 巨大都市", "desc": "都市の話題で。", "example_en": "Tokyo is one of the world's largest megacities.", "example_ja": "東京は世界最大級の巨大都市の一つだ。" },
+      { "title": "② 課題を述べる", "desc": "社会の文脈で。", "example_en": "Megacities face problems like traffic and pollution.", "example_ja": "巨大都市は交通渋滞や汚染などの問題に直面する。" }
+    ],
+    "warn": ["mega-（巨大な）＋city。一般に人口1000万人超が目安。metropolis（大都市）よりさらに大規模。"],
+    "etym_note": "ギリシャ語 megas（大きい）に由来する mega-（巨大な）＋city（都市）から成る語。『非常に大きな都市』を意味する。",
+    "etym_chain": [
+      { "node": "mega + city", "sub": "巨大な＋都市", "era": "20世紀" },
+      { "node": "megacity", "sub": "巨大都市", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a growing megacity", "ja": "成長する巨大都市" },
+      { "en": "the world's megacities", "ja": "世界の巨大都市" },
+      { "en": "life in a megacity", "ja": "巨大都市での暮らし" },
+      { "en": "an Asian megacity", "ja": "アジアの巨大都市" },
+      { "en": "megacity problems", "ja": "巨大都市の課題" },
+      { "en": "become a megacity", "ja": "巨大都市になる" }
+    ],
+    "related": [
+      { "en": "metropolis", "ja": "大都市" },
+      { "en": "city", "ja": "都市" },
+      { "en": "urban", "ja": "都市の" },
+      { "en": "population", "ja": "人口" }
+    ],
+    "faq": [
+      { "q": "megacity とは？", "a": "人口が非常に多い巨大都市のことで、一般に人口1000万人を超える都市を指すことが多いです。" },
+      { "q": "mega- は何を表す？", "a": "『巨大な・100万倍の』を表す接頭辞で、megaphone（拡声器）、megabyte（メガバイト）などに使われます。" }
+    ],
+    "quiz": [
+      { "q": "megacity とは？", "A": "人口が非常に多い巨大都市", "B": "小さな村", "C": "無人島", "D": "山村", "correct": "A" },
+      { "q": "megacity の人口の目安は？", "A": "1000万人以上", "B": "1000人以上", "C": "1万人以上", "D": "100人以上", "correct": "A" }
+    ]
+  },
+  {
+    "english": "memorization",
+    "pron": "ˌmemərɪˈzeɪʃn",
+    "kana": "メモリゼイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "memorize（暗記する）＋-ation",
+    "ld_level": "対象外",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "学習"],
+    "meaning_main": "暗記／記憶すること",
+    "description": "memorization（メモリゼイション）は「暗記・記憶すること」を意味する名詞。情報を覚えて頭に入れる行為を指します。",
+    "keywords": ["memorization 意味", "暗記 英語", "memorize 名詞"],
+    "meanings": [
+      { "hinshi": "【名詞】暗記、記憶すること", "note": "情報・言葉などを覚えて頭に入れること。memorize（暗記する）の名詞形。英つづり memorisation も可。不可算。" }
+    ],
+    "usages": [
+      { "title": "① 暗記の学習", "desc": "勉強の文脈で。", "example_en": "Rote memorization is not always effective.", "example_ja": "丸暗記は必ずしも効果的ではない。" },
+      { "title": "② 記憶の作業", "desc": "覚えることに。", "example_en": "The role required the memorization of many lines.", "example_ja": "その役は多くのせりふの暗記を必要とした。" }
+    ],
+    "warn": ["動詞は memorize（暗記する）、名詞 memory は『記憶(力)』。rote memorization は『丸暗記』。"],
+    "etym_note": "ラテン語 memor（覚えている）に由来する memory から派生した memorize（暗記する）に、名詞化の -ation が付いた語。",
+    "etym_chain": [
+      { "node": "memorize", "sub": "暗記する", "era": "16世紀" },
+      { "node": "memorization", "sub": "暗記", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rote memorization", "ja": "丸暗記" },
+      { "en": "memorization of facts", "ja": "事実の暗記" },
+      { "en": "rely on memorization", "ja": "暗記に頼る" },
+      { "en": "memorization skills", "ja": "暗記の技術" },
+      { "en": "require memorization", "ja": "暗記を必要とする" },
+      { "en": "aid memorization", "ja": "暗記を助ける" }
+    ],
+    "related": [
+      { "en": "memorize", "ja": "暗記する" },
+      { "en": "memory", "ja": "記憶・記憶力" },
+      { "en": "recall", "ja": "思い出す・想起" },
+      { "en": "learning", "ja": "学習" }
+    ],
+    "faq": [
+      { "q": "memorization の動詞形は？", "a": "memorize（暗記する・記憶する）です。" },
+      { "q": "rote memorization とは？", "a": "意味を深く理解せず、ただ繰り返して覚える『丸暗記』のことです。" }
+    ],
+    "quiz": [
+      { "q": "memorization の意味は？", "A": "暗記・記憶すること", "B": "忘却", "C": "計算", "D": "翻訳", "correct": "A" },
+      { "q": "memorization の動詞形は？", "A": "memorize", "B": "memory", "C": "mention", "D": "measure", "correct": "A" }
+    ]
+  }
+]

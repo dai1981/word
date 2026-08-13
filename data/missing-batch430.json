@@ -1,0 +1,997 @@
+[
+  {
+    "english": "phonology",
+    "pron": "fəˈnɒlədʒi",
+    "kana": "フォノロジー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 phone（音）+ -logy（学問）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "言語学"],
+    "meaning_main": "音韻論・音韻体系",
+    "description": "phonology（フォノロジー）は「音韻論」。言語の音がどう体系づけられ機能するかを研究する言語学の一分野です。意味・使い方・例文を解説します。",
+    "keywords": ["phonology 意味", "音韻論", "phonology 使い方", "音韻体系"],
+    "meanings": [
+      { "hinshi": "【名詞】音韻論", "note": "言語の音がどのように体系を成し意味の区別に働くかを研究する分野。不可算" },
+      { "hinshi": "【名詞】音韻体系", "note": "ある言語がもつ音の仕組みそのもの" }
+    ],
+    "usages": [
+      { "title": "① 学問分野として", "desc": "言語学の一分野", "example_en": "She specializes in the phonology of Japanese.", "example_ja": "彼女は日本語の音韻論を専門にしている。" },
+      { "title": "② phonetics との違い", "desc": "音声学と対比される", "example_en": "Phonology studies how sounds function in a language.", "example_ja": "音韻論は音が言語の中でどう機能するかを研究する。" }
+    ],
+    "warn": ["phonetics（音声学＝音の物理的側面）と区別する。phonology は音の「体系・機能」を扱う"],
+    "etym_note": "ギリシャ語 phone（音・声）に -logy（〜学）が付いた語。phonetic・telephone と同じ phone を含む。",
+    "etym_chain": [
+      { "node": "phone", "sub": "音・声", "era": "ギリシャ語" },
+      { "node": "phonologia", "sub": "音の学問", "era": "近代ラテン語" },
+      { "node": "phonology", "sub": "音韻論", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "study phonology", "ja": "音韻論を学ぶ" },
+      { "en": "English phonology", "ja": "英語音韻論" },
+      { "en": "phonology and phonetics", "ja": "音韻論と音声学" },
+      { "en": "generative phonology", "ja": "生成音韻論" },
+      { "en": "the phonology of a language", "ja": "言語の音韻体系" },
+      { "en": "historical phonology", "ja": "歴史音韻論" }
+    ],
+    "related": [
+      { "en": "phonetics", "ja": "音声学" },
+      { "en": "phonetic", "ja": "音声の" },
+      { "en": "linguistics", "ja": "言語学" },
+      { "en": "syntax", "ja": "統語論" }
+    ],
+    "faq": [
+      { "q": "phonology と phonetics の違いは？", "a": "phonetics（音声学）は音の物理的な性質を扱い、phonology（音韻論）はその音が言語の中でどう体系づけられ意味の区別に働くかを扱います。" },
+      { "q": "何を研究するのですか？", "a": "ある言語の音の仕組み、音のつながり方、意味を区別する最小単位（音素）などを研究します。言語学の基礎分野の一つです。" }
+    ],
+    "quiz": [
+      { "q": "phonology の意味は？", "A": "音韻論", "B": "生物学", "C": "地理学", "D": "経済学", "correct": "A" },
+      { "q": "phonology が扱うのは？", "A": "言語の音の体系", "B": "文字の形", "C": "天体の運動", "D": "細胞の構造", "correct": "A" }
+    ]
+  },
+  {
+    "english": "phony",
+    "pron": "ˈfoʊni",
+    "kana": "フォーニー",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "英語俗語 fawney（偽の指輪）が由来とされる",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "口語"],
+    "meaning_main": "偽の／いんちきの／偽物・食わせ者",
+    "description": "phony（フォーニー）は「偽の・いんちきの」、名詞で「偽物・食わせ者」。くだけた口語表現です。意味・使い方・例文をわかりやすく解説します。",
+    "keywords": ["phony 意味", "phony 使い方", "偽の", "いんちき"],
+    "meanings": [
+      { "hinshi": "【形容詞】偽の・いんちきの", "note": "本物のように見せかけた。phoney とも綴る（主に英）" },
+      { "hinshi": "【名詞】偽物・食わせ者", "note": "本物ぶった人や物" }
+    ],
+    "usages": [
+      { "title": "① 偽物を指して", "desc": "見せかけを批判する", "example_en": "He gave a phony smile.", "example_ja": "彼は作り笑いを浮かべた。" },
+      { "title": "② 人を評して", "desc": "名詞で「食わせ者」", "example_en": "She called him a total phony.", "example_ja": "彼女は彼をまったくの偽善者呼ばわりした。" }
+    ],
+    "warn": ["くだけた口語。フォーマルには fake・false・fraudulent を使う。英ではつづり phoney も一般的"],
+    "etym_note": "19世紀の英語俗語 fawney（詐欺に使う偽の金の指輪）が語源とされる。fake の口語的な言い換え。",
+    "etym_chain": [
+      { "node": "fawney", "sub": "偽の指輪", "era": "19世紀俗語" },
+      { "node": "phony", "sub": "偽の", "era": "20世紀米語" },
+      { "node": "phony", "sub": "偽の・いんちきの", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "phony smile", "ja": "作り笑い" },
+      { "en": "phony excuse", "ja": "でっち上げの言い訳" },
+      { "en": "a phony accent", "ja": "わざとらしいなまり" },
+      { "en": "phony money", "ja": "偽札" },
+      { "en": "sound phony", "ja": "うそくさく聞こえる" },
+      { "en": "a total phony", "ja": "まったくの食わせ者" }
+    ],
+    "related": [
+      { "en": "fake", "ja": "偽の" },
+      { "en": "false", "ja": "偽りの" },
+      { "en": "fraudulent", "ja": "詐欺の" },
+      { "en": "genuine", "ja": "本物の（反対）" }
+    ],
+    "faq": [
+      { "q": "phony と fake の違いは？", "a": "意味はほぼ同じ「偽の」ですが、phony はよりくだけた口語で、人の態度や言い分が「うそっぽい・わざとらしい」ときにもよく使います。" },
+      { "q": "phoney と phony は違いますか？", "a": "同じ語のつづり違いです。phony は主にアメリカ、phoney は主にイギリスで使われます。" }
+    ],
+    "quiz": [
+      { "q": "phony の意味は？", "A": "偽の・いんちきの", "B": "本物の", "C": "高価な", "D": "新しい", "correct": "A" },
+      { "q": "phony smile の意味は？", "A": "作り笑い", "B": "満面の笑み", "C": "苦笑い", "D": "泣き笑い", "correct": "A" }
+    ]
+  },
+  {
+    "english": "physicist",
+    "pron": "ˈfɪzɪsɪst",
+    "kana": "フィジシスト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "physic（自然学）+ -ist（〜する人）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "科学"],
+    "meaning_main": "物理学者",
+    "description": "physicist（フィジシスト）は「物理学者」。物理学（physics）を研究する人です。physician（医師）と混同しやすい語です。意味・使い方・例文を解説します。",
+    "keywords": ["physicist 意味", "物理学者", "physicist physician 違い", "physics"],
+    "meanings": [
+      { "hinshi": "【名詞】物理学者", "note": "physics（物理学）を研究・専門とする人。可算名詞" }
+    ],
+    "usages": [
+      { "title": "① 職業・専門家として", "desc": "科学者の一種", "example_en": "Einstein was a famous physicist.", "example_ja": "アインシュタインは有名な物理学者だった。" },
+      { "title": "② physician との違い", "desc": "つづり・発音に注意", "example_en": "A physicist studies matter and energy, not patients.", "example_ja": "物理学者が研究するのは物質とエネルギーで、患者ではない。" }
+    ],
+    "warn": ["physician（内科医・医師）と混同しやすい。physicist は「物理学者」、physician は「医師」"],
+    "etym_note": "ギリシャ語 physis（自然）に由来する physics（物理学）に、人を表す -ist が付いた語。",
+    "etym_chain": [
+      { "node": "physis", "sub": "自然", "era": "ギリシャ語" },
+      { "node": "physics", "sub": "物理学", "era": "近代英語" },
+      { "node": "physicist", "sub": "物理学者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a nuclear physicist", "ja": "核物理学者" },
+      { "en": "theoretical physicist", "ja": "理論物理学者" },
+      { "en": "particle physicist", "ja": "素粒子物理学者" },
+      { "en": "become a physicist", "ja": "物理学者になる" },
+      { "en": "a famous physicist", "ja": "有名な物理学者" },
+      { "en": "quantum physicist", "ja": "量子物理学者" }
+    ],
+    "related": [
+      { "en": "physics", "ja": "物理学" },
+      { "en": "physician", "ja": "医師" },
+      { "en": "scientist", "ja": "科学者" },
+      { "en": "chemist", "ja": "化学者" }
+    ],
+    "faq": [
+      { "q": "physicist と physician の違いは？", "a": "physicist は「物理学者」、physician は「（内科の）医師」です。つづりも発音も似ていますが、まったく別の職業なので注意しましょう。" },
+      { "q": "physicist と scientist の関係は？", "a": "scientist（科学者）は科学全般を研究する人の総称で、physicist（物理学者）はそのうち物理学を専門とする人を指します。" }
+    ],
+    "quiz": [
+      { "q": "physicist の意味は？", "A": "物理学者", "B": "医師", "C": "薬剤師", "D": "画家", "correct": "A" },
+      { "q": "「医師」を表す似た語は？", "A": "physician", "B": "physicist", "C": "physique", "D": "physical", "correct": "A" }
+    ]
+  },
+  {
+    "english": "piety",
+    "pron": "ˈpaɪəti",
+    "kana": "パイエティ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 pietas（敬虔・孝心）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "宗教"],
+    "meaning_main": "敬虔（けいけん）／信心深さ／親孝行",
+    "description": "piety（パイエティ）は「敬虔・信心深さ」、また「親への孝心」。神や親を敬う心を表す語です。意味・使い方・例文をわかりやすく解説します。",
+    "keywords": ["piety 意味", "piety 使い方", "敬虔", "信心深さ"],
+    "meanings": [
+      { "hinshi": "【名詞】敬虔・信心深さ", "note": "神を深く敬い信仰に厚いこと。不可算" },
+      { "hinshi": "【名詞】孝心・敬愛", "note": "filial piety で「親孝行・孝行の心」" }
+    ],
+    "usages": [
+      { "title": "① 信仰の厚さ", "desc": "宗教的な文脈で", "example_en": "She was known for her deep piety.", "example_ja": "彼女は深い信心深さで知られていた。" },
+      { "title": "② filial piety", "desc": "「親孝行」を表す定番表現", "example_en": "Filial piety is highly valued in many cultures.", "example_ja": "親孝行は多くの文化で重んじられている。" }
+    ],
+    "warn": ["形容詞は pious（敬虔な）。pity（哀れみ）とはつづり・意味とも別なので注意"],
+    "etym_note": "ラテン語 pietas（神や親への義務を果たす心）に由来。pious（敬虔な）と同語源。pity（哀れみ）も遠縁。",
+    "etym_chain": [
+      { "node": "pietas", "sub": "敬虔・孝心", "era": "ラテン語" },
+      { "node": "piete", "sub": "敬虔", "era": "古仏語" },
+      { "node": "piety", "sub": "敬虔", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "filial piety", "ja": "親孝行・孝心" },
+      { "en": "deep piety", "ja": "深い信心" },
+      { "en": "religious piety", "ja": "宗教的敬虔" },
+      { "en": "an act of piety", "ja": "信仰的な行い" },
+      { "en": "show piety", "ja": "敬虔さを示す" },
+      { "en": "genuine piety", "ja": "真の敬虔さ" }
+    ],
+    "related": [
+      { "en": "pious", "ja": "敬虔な" },
+      { "en": "devotion", "ja": "献身・信心" },
+      { "en": "reverence", "ja": "崇敬" },
+      { "en": "faith", "ja": "信仰" }
+    ],
+    "faq": [
+      { "q": "piety と pity の違いは？", "a": "piety は「敬虔・信心深さ」、pity は「哀れみ・同情」です。つづりも意味もまったく異なるので混同しないよう注意しましょう。" },
+      { "q": "filial piety とは何ですか？", "a": "「親孝行・親への孝心」という意味です。特に儒教文化で重んじられる、親や年長者を敬い大切にする道徳を指します。" }
+    ],
+    "quiz": [
+      { "q": "piety の意味は？", "A": "敬虔・信心深さ", "B": "哀れみ", "C": "怒り", "D": "喜び", "correct": "A" },
+      { "q": "filial piety の意味は？", "A": "親孝行", "B": "自由競争", "C": "犯罪防止", "D": "経済成長", "correct": "A" }
+    ]
+  },
+  {
+    "english": "pigtails",
+    "pron": "ˈpɪɡteɪlz",
+    "kana": "ピッグテイルズ",
+    "hinshi": "名詞（複数形）",
+    "ld_pos": "名詞",
+    "ld_etym": "pig（豚）+ tail（しっぽ）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "日常"],
+    "meaning_main": "おさげ髪・ツインテール",
+    "description": "pigtails（ピッグテイルズ）は「おさげ髪・ツインテール」。左右で束ねたり編んだりした髪型を指します。意味・使い方・例文をわかりやすく解説します。",
+    "keywords": ["pigtails 意味", "おさげ", "ツインテール 英語", "pigtail 髪型"],
+    "meanings": [
+      { "hinshi": "【名詞】おさげ髪・ツインテール", "note": "髪を左右2つに分けて束ねた、または編んだ髪型。通常は複数形" },
+      { "hinshi": "【名詞】三つ編み（1本）", "note": "単数 pigtail で編んだ房1本を指すこともある" }
+    ],
+    "usages": [
+      { "title": "① 髪型を表す", "desc": "wear one's hair in pigtails", "example_en": "The little girl wore her hair in pigtails.", "example_ja": "その小さな女の子はおさげ髪にしていた。" },
+      { "title": "② braids との違い", "desc": "編むと braided pigtails", "example_en": "She tied her hair into two neat pigtails.", "example_ja": "彼女は髪をきれいなツインテール2つに結んだ。" }
+    ],
+    "warn": ["日本語の「ツインテール」は和製英語寄り。英語では pigtails や bunches（英）が一般的"],
+    "etym_note": "束ねた髪が豚の巻いたしっぽ（pig's tail）に似ていることから生まれた語。もとは巻きたばこの形にも使われた。",
+    "etym_chain": [
+      { "node": "pig + tail", "sub": "豚のしっぽ", "era": "近代英語" },
+      { "node": "pigtail", "sub": "束ねた髪", "era": "18世紀" },
+      { "node": "pigtails", "sub": "おさげ髪", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "wear pigtails", "ja": "おさげ髪にする" },
+      { "en": "in pigtails", "ja": "おさげ髪で" },
+      { "en": "braided pigtails", "ja": "編んだおさげ" },
+      { "en": "two pigtails", "ja": "ツインテール" },
+      { "en": "tie one's hair in pigtails", "ja": "髪をおさげに結ぶ" },
+      { "en": "little pigtails", "ja": "小さなおさげ" }
+    ],
+    "related": [
+      { "en": "ponytail", "ja": "ポニーテール" },
+      { "en": "braid", "ja": "三つ編み" },
+      { "en": "hairstyle", "ja": "髪型" },
+      { "en": "bun", "ja": "お団子ヘア" }
+    ],
+    "faq": [
+      { "q": "pigtails と ponytail の違いは？", "a": "ponytail は髪を後ろで1つに束ねた「ポニーテール」、pigtails は左右2つに分けて束ねた「おさげ・ツインテール」です。数と位置が違います。" },
+      { "q": "ツインテールは英語で何と言いますか？", "a": "pigtails が一般的です。イギリスでは bunches とも言います。「twin tails」は主に日本のサブカル用語です。" }
+    ],
+    "quiz": [
+      { "q": "pigtails の意味は？", "A": "おさげ髪・ツインテール", "B": "豚の群れ", "C": "しっぽの長い犬", "D": "編み物", "correct": "A" },
+      { "q": "後ろで1つに束ねる髪型は？", "A": "ponytail", "B": "pigtails", "C": "bun", "D": "braid", "correct": "A" }
+    ]
+  },
+  {
+    "english": "piles",
+    "pron": "paɪlz",
+    "kana": "パイルズ",
+    "hinshi": "名詞（複数形）/ 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 pila（柱）/ pilus（毛）など複数語源",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "頻出"],
+    "meaning_main": "積み重ね（複数）／たくさん／（医）痔",
+    "description": "piles（パイルズ）は pile（積み重ね）の複数形。piles of〜で「たくさんの〜」。また医学では「痔」も指します。意味・使い方・例文を解説します。",
+    "keywords": ["piles 意味", "piles of 使い方", "pile 複数形", "たくさん"],
+    "meanings": [
+      { "hinshi": "【名詞】積み重ね（複数）", "note": "pile（山・積み重ね）の複数形。piles of paper（山積みの紙）" },
+      { "hinshi": "【名詞】たくさん・大量", "note": "piles of〜で「たくさんの〜」。口語" },
+      { "hinshi": "【名詞】痔（じ）", "note": "医学用語で hemorrhoids と同義。この意味では常に複数形" }
+    ],
+    "usages": [
+      { "title": "① piles of〜", "desc": "「たくさんの〜」口語表現", "example_en": "There are piles of work to do.", "example_ja": "やるべき仕事が山ほどある。" },
+      { "title": "② 動詞 pile の三単現", "desc": "pile up で「積み上がる」", "example_en": "Snow piles up quickly in winter.", "example_ja": "冬は雪がすぐに積もる。" }
+    ],
+    "warn": ["「痔」の意味では常に複数形 piles。日常の「たくさん」は piles of〜、lots of〜と同様のくだけた表現"],
+    "etym_note": "「積み重ね」の pile はラテン語 pila（柱・杭）由来。「痔」の pile は別語源のラテン語 pila（球）にさかのぼるとされる。",
+    "etym_chain": [
+      { "node": "pila", "sub": "柱・球", "era": "ラテン語" },
+      { "node": "pile", "sub": "積み重ね", "era": "中英語" },
+      { "node": "piles", "sub": "積み重ね・たくさん", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "piles of work", "ja": "山積みの仕事" },
+      { "en": "piles of money", "ja": "大金" },
+      { "en": "piles of books", "ja": "山積みの本" },
+      { "en": "in piles", "ja": "山にして・積み重ねて" },
+      { "en": "pile up", "ja": "積み上がる・たまる" },
+      { "en": "make piles of", "ja": "〜を山ほど作る" }
+    ],
+    "related": [
+      { "en": "pile", "ja": "積み重ね・山" },
+      { "en": "heap", "ja": "山盛り" },
+      { "en": "stack", "ja": "積み重ね" },
+      { "en": "lots", "ja": "たくさん" }
+    ],
+    "faq": [
+      { "q": "piles of と lots of の違いは？", "a": "どちらも「たくさんの」というくだけた表現で、ほぼ同義です。piles of のほうが「山積みになっている」イメージがやや強く出ます。" },
+      { "q": "piles には別の意味もありますか？", "a": "はい。医学用語では「痔（じ）」を意味し、この場合は常に複数形 piles で使います。正式には hemorrhoids と言います。" }
+    ],
+    "quiz": [
+      { "q": "piles of work の意味は？", "A": "山積みの仕事", "B": "簡単な仕事", "C": "終わった仕事", "D": "楽しい仕事", "correct": "A" },
+      { "q": "pile up の意味は？", "A": "積み上がる・たまる", "B": "崩れる", "C": "消える", "D": "軽くなる", "correct": "A" }
+    ]
+  },
+  {
+    "english": "pillaging",
+    "pron": "ˈpɪlɪdʒɪŋ",
+    "kana": "ピラジング",
+    "hinshi": "動詞（pillage の現在分詞）/ 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古仏語 piller（略奪する）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "歴史"],
+    "meaning_main": "略奪（すること）・強奪",
+    "description": "pillaging（ピラジング）は pillage（略奪する）の現在分詞・動名詞で「略奪・強奪」。戦争や襲撃での掠奪を指す語です。意味・使い方・例文を解説します。",
+    "keywords": ["pillaging 意味", "pillage 使い方", "略奪", "強奪"],
+    "meanings": [
+      { "hinshi": "【動詞】略奪している（pillage の現在分詞）", "note": "戦争や襲撃で暴力的に財産を奪うこと" },
+      { "hinshi": "【名詞】略奪・掠奪", "note": "動名詞として「略奪行為」" }
+    ],
+    "usages": [
+      { "title": "① 戦争・襲撃で", "desc": "しばしば looting と並べて使う", "example_en": "The soldiers were pillaging the village.", "example_ja": "兵士たちが村を略奪していた。" },
+      { "title": "② 名詞的に", "desc": "掠奪行為を指す", "example_en": "The city suffered years of pillaging.", "example_ja": "その都市は何年もの略奪に苦しんだ。" }
+    ],
+    "warn": ["loot（略奪品を奪う）とほぼ同義だが、pillage はより暴力的・組織的な掠奪を含意することが多い"],
+    "etym_note": "古仏語 piller（奪う・はぎ取る）に由来する pillage の -ing 形。中世の戦争を語る文脈で頻出。",
+    "etym_chain": [
+      { "node": "piller", "sub": "略奪する", "era": "古仏語" },
+      { "node": "pillage", "sub": "略奪", "era": "中英語" },
+      { "node": "pillaging", "sub": "略奪すること", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "looting and pillaging", "ja": "略奪と掠奪" },
+      { "en": "pillaging a town", "ja": "町を略奪する" },
+      { "en": "stop the pillaging", "ja": "略奪をやめさせる" },
+      { "en": "widespread pillaging", "ja": "広範な略奪" },
+      { "en": "pillaging by soldiers", "ja": "兵士による略奪" },
+      { "en": "raiding and pillaging", "ja": "襲撃と略奪" }
+    ],
+    "related": [
+      { "en": "pillage", "ja": "略奪する" },
+      { "en": "loot", "ja": "略奪する・戦利品" },
+      { "en": "plunder", "ja": "略奪する" },
+      { "en": "raid", "ja": "襲撃" }
+    ],
+    "faq": [
+      { "q": "pillaging と looting の違いは？", "a": "どちらも「略奪」ですが、looting は混乱に乗じて物を持ち去ること全般、pillaging は主に戦争や襲撃での組織的・暴力的な掠奪を指す傾向があります。" },
+      { "q": "原形は何ですか？", "a": "pillage（略奪する・略奪）です。pillaging はその現在分詞・動名詞形で、「略奪している／略奪すること」を表します。" }
+    ],
+    "quiz": [
+      { "q": "pillaging の意味は？", "A": "略奪・強奪", "B": "建設", "C": "祝賀", "D": "耕作", "correct": "A" },
+      { "q": "pillage に近い意味の語は？", "A": "plunder", "B": "protect", "C": "provide", "D": "praise", "correct": "A" }
+    ]
+  },
+  {
+    "english": "pins",
+    "pron": "pɪnz",
+    "kana": "ピンズ",
+    "hinshi": "名詞（複数形）/ 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 pinn（留め針・くぎ）",
+    "ld_level": "3級",
+    "badges": ["小学生〜", "英検3級", "CEFR A2", "日常"],
+    "meaning_main": "ピン（複数）・留め針／ピンで留める",
+    "description": "pins（ピンズ）は pin（ピン・留め針）の複数形。安全ピンやまち針、バッジのピンなどを指します。意味・使い方・例文をわかりやすく解説します。",
+    "keywords": ["pins 意味", "pin 複数形", "留め針", "ピン"],
+    "meanings": [
+      { "hinshi": "【名詞】ピン・留め針（複数）", "note": "pin の複数形。まち針・安全ピン・バッジなど" },
+      { "hinshi": "【動詞】ピンで留める（pin の三単現）", "note": "pin A to B で「AをBに留める」" }
+    ],
+    "usages": [
+      { "title": "① 留め具として", "desc": "裁縫や掲示に", "example_en": "She fastened the fabric with pins.", "example_ja": "彼女は布をピンで留めた。" },
+      { "title": "② 慣用表現", "desc": "pins and needles など", "example_en": "My foot has pins and needles.", "example_ja": "足がしびれてピリピリする。" }
+    ],
+    "warn": ["pins and needles は「（血行が戻るときの）しびれ」または「気をもむこと」。on pins and needles で「そわそわして」"],
+    "etym_note": "古英語 pinn（くぎ・栓）に由来。ボウリングのピンやバッジのピンなど、細い留め具全般に意味が広がった。",
+    "etym_chain": [
+      { "node": "pinn", "sub": "くぎ・栓", "era": "古英語" },
+      { "node": "pin", "sub": "留め針", "era": "中英語" },
+      { "node": "pins", "sub": "ピン（複数）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "safety pins", "ja": "安全ピン" },
+      { "en": "pins and needles", "ja": "しびれ・そわそわ" },
+      { "en": "on pins and needles", "ja": "気が気でない" },
+      { "en": "bowling pins", "ja": "ボウリングのピン" },
+      { "en": "stick pins in", "ja": "〜にピンを刺す" },
+      { "en": "hairpins", "ja": "ヘアピン" }
+    ],
+    "related": [
+      { "en": "pin", "ja": "ピン・留め針" },
+      { "en": "needle", "ja": "針" },
+      { "en": "clip", "ja": "クリップ・留め具" },
+      { "en": "badge", "ja": "バッジ" }
+    ],
+    "faq": [
+      { "q": "pins and needles とはどんな意味ですか？", "a": "血行が戻るときの「チクチクするしびれ」を指します。また on pins and needles で「そわそわして落ち着かない・気が気でない」という慣用表現にもなります。" },
+      { "q": "pin の複数形は？", "a": "pins です。規則変化で -s を付けるだけです。動詞としては pin/pins/pinned/pinning と変化します。" }
+    ],
+    "quiz": [
+      { "q": "pins の意味は？", "A": "ピン・留め針（複数）", "B": "皿", "C": "窓", "D": "橋", "correct": "A" },
+      { "q": "on pins and needles の意味は？", "A": "そわそわして・気が気でない", "B": "ぐっすり眠って", "C": "大喜びして", "D": "退屈して", "correct": "A" }
+    ]
+  },
+  {
+    "english": "pinyin",
+    "pron": "ˌpɪnˈjɪn",
+    "kana": "ピンイン",
+    "hinshi": "名詞（固有名詞的）",
+    "ld_pos": "名詞",
+    "ld_etym": "中国語 拼音 pīnyīn（音を綴る）",
+    "ld_level": "-",
+    "badges": ["中学生〜", "外来語", "言語", "中国語"],
+    "meaning_main": "ピンイン（中国語のローマ字表記法）",
+    "description": "pinyin（ピンイン）は「中国語の発音をローマ字で表す表記法」。正式には Hanyu Pinyin。中国語学習に不可欠な仕組みです。意味・使い方を解説します。",
+    "keywords": ["pinyin 意味", "ピンイン とは", "中国語 ローマ字", "拼音"],
+    "meanings": [
+      { "hinshi": "【名詞】ピンイン", "note": "中国語（普通話）の発音をローマ字と声調記号で表す公式表記法。正式には Hanyu Pinyin（漢語拼音）" }
+    ],
+    "usages": [
+      { "title": "① 中国語学習で", "desc": "発音を学ぶ土台", "example_en": "Beginners learn Chinese pronunciation through pinyin.", "example_ja": "初心者はピンインを通して中国語の発音を学ぶ。" },
+      { "title": "② 入力方式として", "desc": "パソコンの中国語入力に使う", "example_en": "Most people type Chinese using pinyin input.", "example_ja": "多くの人はピンイン入力で中国語を打つ。" }
+    ],
+    "warn": ["ピンインには声調（4つのトーン＋軽声）を表す記号が伴う。ローマ字のつづりだけでは発音は確定しない"],
+    "etym_note": "中国語の 拼音（pīnyīn＝「音を綴る」）から。1958年に中国で正式採用された。英語では固有名詞的に pinyin と綴る。",
+    "etym_chain": [
+      { "node": "拼音", "sub": "音を綴る", "era": "現代中国語" },
+      { "node": "pinyin", "sub": "ピンイン", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Hanyu Pinyin", "ja": "漢語拼音（正式名称）" },
+      { "en": "learn pinyin", "ja": "ピンインを学ぶ" },
+      { "en": "pinyin input", "ja": "ピンイン入力" },
+      { "en": "pinyin spelling", "ja": "ピンイン表記" },
+      { "en": "read pinyin", "ja": "ピンインを読む" },
+      { "en": "pinyin with tone marks", "ja": "声調記号付きピンイン" }
+    ],
+    "related": [
+      { "en": "chinese", "ja": "中国語" },
+      { "en": "mandarin", "ja": "標準中国語" },
+      { "en": "tone", "ja": "声調" },
+      { "en": "romanization", "ja": "ローマ字化" }
+    ],
+    "faq": [
+      { "q": "ピンインとは何ですか？", "a": "中国語（普通話）の発音を、アルファベットと声調記号で表す公式の表記法です。中国語の学習や、パソコン・スマホでの中国語入力に使われます。" },
+      { "q": "ピンインだけで発音できますか？", "a": "つづりに加えて声調（4声＋軽声）を示す記号が必要です。同じつづりでも声調が違えば意味が変わるため、声調まで含めて覚えることが大切です。" }
+    ],
+    "quiz": [
+      { "q": "pinyin は何を表す仕組み？", "A": "中国語の発音のローマ字表記", "B": "日本語の敬語", "C": "英語の文法", "D": "韓国語の文字", "correct": "A" },
+      { "q": "ピンインに伴う記号は？", "A": "声調記号", "B": "句読点", "C": "数字", "D": "絵文字", "correct": "A" }
+    ]
+  },
+  {
+    "english": "pitiable",
+    "pron": "ˈpɪtiəbəl",
+    "kana": "ピティアブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "pity（哀れみ）+ -able",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "文語"],
+    "meaning_main": "哀れな／情けない／みじめな",
+    "description": "pitiable（ピティアブル）は「哀れな・情けない」。同情を誘うほど気の毒な、または見下すほど情けない様子を表します。意味・使い方・例文を解説します。",
+    "keywords": ["pitiable 意味", "pitiable 使い方", "哀れな", "情けない"],
+    "meanings": [
+      { "hinshi": "【形容詞】哀れな・気の毒な", "note": "同情を誘うほどみじめな" },
+      { "hinshi": "【形容詞】情けない・見下げた", "note": "軽蔑を含んで「あわれなほどお粗末な」" }
+    ],
+    "usages": [
+      { "title": "① 同情を誘う", "desc": "気の毒な様子", "example_en": "The refugees were in a pitiable condition.", "example_ja": "難民たちは哀れな状態にあった。" },
+      { "title": "② 軽蔑して", "desc": "情けないほどお粗末", "example_en": "His excuses were pitiable.", "example_ja": "彼の言い訳は情けないものだった。" }
+    ],
+    "warn": ["pitiful（哀れな・お粗末な）とほぼ同義。文脈により「気の毒」と「情けない」の両方に振れる"],
+    "etym_note": "pity（哀れみ）に -able（〜させる）が付いた語で「哀れみを催させる」。piteous・pitiful と同語源。",
+    "etym_chain": [
+      { "node": "pietas", "sub": "敬虔・哀れみ", "era": "ラテン語" },
+      { "node": "pity", "sub": "哀れみ", "era": "中英語" },
+      { "node": "pitiable", "sub": "哀れな", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a pitiable sight", "ja": "哀れな光景" },
+      { "en": "pitiable condition", "ja": "みじめな状態" },
+      { "en": "pitiable creature", "ja": "哀れな生き物" },
+      { "en": "in a pitiable state", "ja": "哀れな有様で" },
+      { "en": "pitiable attempt", "ja": "情けない試み" },
+      { "en": "look pitiable", "ja": "哀れに見える" }
+    ],
+    "related": [
+      { "en": "pitiful", "ja": "哀れな・お粗末な" },
+      { "en": "pity", "ja": "哀れみ" },
+      { "en": "wretched", "ja": "みじめな" },
+      { "en": "miserable", "ja": "みじめな" }
+    ],
+    "faq": [
+      { "q": "pitiable と pitiful の違いは？", "a": "ほぼ同義で「哀れな・情けない」ですが、pitiful のほうが日常的でよく使われます。どちらも同情を誘う意味と、軽蔑して『お粗末な』の意味の両方があります。" },
+      { "q": "piety や pity と関係がありますか？", "a": "pity（哀れみ）から派生した語です。piety（敬虔）とも遠い語源を共有しますが、現代では意味が分かれています。" }
+    ],
+    "quiz": [
+      { "q": "pitiable の意味は？", "A": "哀れな・情けない", "B": "誇らしい", "C": "楽しい", "D": "勇敢な", "correct": "A" },
+      { "q": "pitiable のもとになった名詞は？", "A": "pity", "B": "piety", "C": "pit", "D": "pipe", "correct": "A" }
+    ]
+  },
+  {
+    "english": "pixel",
+    "pron": "ˈpɪksəl",
+    "kana": "ピクセル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "picture（画像）+ element（要素）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "IT"],
+    "meaning_main": "画素（ピクセル）",
+    "description": "pixel（ピクセル）は「画素」。デジタル画像を構成する最小の点のことです。解像度の単位としても使われます。意味・使い方・例文を解説します。",
+    "keywords": ["pixel 意味", "画素", "ピクセル とは", "解像度"],
+    "meanings": [
+      { "hinshi": "【名詞】画素・ピクセル", "note": "デジタル画像を構成する最小の色付きの点。可算名詞" }
+    ],
+    "usages": [
+      { "title": "① 解像度の単位", "desc": "画像の細かさを表す", "example_en": "This image is 1920 by 1080 pixels.", "example_ja": "この画像は1920×1080ピクセルだ。" },
+      { "title": "② 画質の話で", "desc": "拡大すると見える", "example_en": "You can see the pixels when you zoom in.", "example_ja": "拡大すると画素が見える。" }
+    ],
+    "warn": ["megapixel（100万画素）は px の100万倍。dpi（1インチあたりのドット数）とは別の概念"],
+    "etym_note": "picture（画像）と element（要素）を組み合わせた造語 pix + el。1960年代の映像技術で生まれた。",
+    "etym_chain": [
+      { "node": "picture element", "sub": "画像の要素", "era": "20世紀" },
+      { "node": "pix + el", "sub": "画素", "era": "1960年代" },
+      { "node": "pixel", "sub": "画素", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "pixel by pixel", "ja": "1画素ずつ" },
+      { "en": "high pixel count", "ja": "高い画素数" },
+      { "en": "pixel resolution", "ja": "画素解像度" },
+      { "en": "dead pixel", "ja": "ドット抜け（不良画素）" },
+      { "en": "pixel art", "ja": "ドット絵・ピクセルアート" },
+      { "en": "millions of pixels", "ja": "数百万画素" }
+    ],
+    "related": [
+      { "en": "resolution", "ja": "解像度" },
+      { "en": "image", "ja": "画像" },
+      { "en": "megapixel", "ja": "メガピクセル" },
+      { "en": "screen", "ja": "画面" }
+    ],
+    "faq": [
+      { "q": "pixel とは何ですか？", "a": "デジタル画像を構成する最小の点（画素）です。無数の小さな色付きの点が集まって1枚の画像に見えます。画面や写真の細かさは画素数で表されます。" },
+      { "q": "megapixel との関係は？", "a": "megapixel（メガピクセル）は100万画素を1単位とする言い方です。1200万画素のカメラは 12 megapixels と表します。" }
+    ],
+    "quiz": [
+      { "q": "pixel の意味は？", "A": "画素", "B": "音量", "C": "重さ", "D": "速度", "correct": "A" },
+      { "q": "pixel の語源となった2語は？", "A": "picture + element", "B": "pick + sell", "C": "pixie + level", "D": "pin + cell", "correct": "A" }
+    ]
+  },
+  {
+    "english": "pizza",
+    "pron": "ˈpiːtsə",
+    "kana": "ピッツァ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "イタリア語 pizza",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A1", "食べ物"],
+    "meaning_main": "ピザ",
+    "description": "pizza（ピッツァ）は「ピザ」。生地にトマトソースやチーズ、具をのせて焼くイタリア発祥の料理です。意味・使い方・例文をわかりやすく解説します。",
+    "keywords": ["pizza 意味", "ピザ 英語", "pizza 発音", "イタリア料理"],
+    "meanings": [
+      { "hinshi": "【名詞】ピザ", "note": "平たい生地にソース・チーズ・具をのせて焼いた料理。可算・不可算どちらも" }
+    ],
+    "usages": [
+      { "title": "① 食べ物として", "desc": "a slice of pizza（1切れ）", "example_en": "Let's order a pizza for dinner.", "example_ja": "夕食にピザを注文しよう。" },
+      { "title": "② 数え方", "desc": "1枚は a pizza、1切れは a slice", "example_en": "She ate two slices of pizza.", "example_ja": "彼女はピザを2切れ食べた。" }
+    ],
+    "warn": ["発音は「ピーツァ」に近い。zz は /ts/ の音。丸ごと1枚は a pizza、切り分けた1切れは a slice of pizza"],
+    "etym_note": "イタリア語 pizza（ナポリ発祥とされる料理）がそのまま英語に入った外来語。20世紀に世界中へ広まった。",
+    "etym_chain": [
+      { "node": "pizza", "sub": "ピザ", "era": "イタリア語" },
+      { "node": "pizza", "sub": "ピザ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a slice of pizza", "ja": "ピザ1切れ" },
+      { "en": "order a pizza", "ja": "ピザを注文する" },
+      { "en": "pizza topping", "ja": "ピザの具" },
+      { "en": "frozen pizza", "ja": "冷凍ピザ" },
+      { "en": "pizza delivery", "ja": "ピザの宅配" },
+      { "en": "homemade pizza", "ja": "手作りピザ" }
+    ],
+    "related": [
+      { "en": "pasta", "ja": "パスタ" },
+      { "en": "cheese", "ja": "チーズ" },
+      { "en": "italian", "ja": "イタリアの" },
+      { "en": "dough", "ja": "生地" }
+    ],
+    "faq": [
+      { "q": "pizza の発音は？", "a": "「ピッツァ／ピーツァ」に近い音です。zz の部分は /ts/ と発音します。カタカナの「ピザ」より tsの音を意識するとより近くなります。" },
+      { "q": "ピザ1切れは英語で何と言いますか？", "a": "a slice of pizza と言います。丸ごと1枚は a pizza または a whole pizza です。" }
+    ],
+    "quiz": [
+      { "q": "pizza の意味は？", "A": "ピザ", "B": "スープ", "C": "サラダ", "D": "ケーキ", "correct": "A" },
+      { "q": "「ピザ1切れ」は？", "A": "a slice of pizza", "B": "a cup of pizza", "C": "a glass of pizza", "D": "a sheet of pizza", "correct": "A" }
+    ]
+  },
+  {
+    "english": "placement",
+    "pron": "ˈpleɪsmənt",
+    "kana": "プレイスメント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "place（置く）+ -ment（名詞化）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出"],
+    "meaning_main": "配置／就職あっせん／（学力）クラス分け",
+    "description": "placement（プレイスメント）は「配置・設置」、また「就職あっせん」や「クラス分け」。幅広く使われる名詞です。意味・使い方・例文を解説します。",
+    "keywords": ["placement 意味", "placement 使い方", "配置", "クラス分け"],
+    "meanings": [
+      { "hinshi": "【名詞】配置・設置", "note": "物や人を置くこと・置かれた場所" },
+      { "hinshi": "【名詞】就職・職業あっせん", "note": "job placement（就職紹介）、placement service（職業紹介所）" },
+      { "hinshi": "【名詞】クラス分け・振り分け", "note": "placement test（クラス分けテスト）" }
+    ],
+    "usages": [
+      { "title": "① 物・人の配置", "desc": "位置決めの意味で", "example_en": "The placement of the furniture makes the room feel bigger.", "example_ja": "家具の配置で部屋が広く感じられる。" },
+      { "title": "② placement test", "desc": "レベル分けのテスト", "example_en": "New students take a placement test.", "example_ja": "新入生はクラス分けテストを受ける。" }
+    ],
+    "warn": ["イギリスでは placement が「（学生の）実習・インターン期間」の意味でもよく使われる"],
+    "etym_note": "動詞 place（置く・配置する）に、行為や結果を表す -ment が付いた名詞。",
+    "etym_chain": [
+      { "node": "platea", "sub": "広場・場所", "era": "ラテン語" },
+      { "node": "place", "sub": "置く", "era": "中英語" },
+      { "node": "placement", "sub": "配置", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "placement test", "ja": "クラス分けテスト" },
+      { "en": "job placement", "ja": "就職あっせん" },
+      { "en": "product placement", "ja": "作品内の商品広告" },
+      { "en": "work placement", "ja": "職場実習" },
+      { "en": "placement service", "ja": "職業紹介" },
+      { "en": "careful placement", "ja": "慎重な配置" }
+    ],
+    "related": [
+      { "en": "place", "ja": "置く・場所" },
+      { "en": "position", "ja": "位置・配置" },
+      { "en": "arrangement", "ja": "配置・取り決め" },
+      { "en": "internship", "ja": "インターンシップ" }
+    ],
+    "faq": [
+      { "q": "placement test とは何ですか？", "a": "学習者の学力レベルを測り、適切なクラスやコースに振り分けるためのテストです。語学学校などで入学時に行われます。" },
+      { "q": "product placement とは？", "a": "映画やドラマの中に実在の商品をさりげなく登場させる広告手法です。「作品内広告・プロダクトプレイスメント」と呼ばれます。" }
+    ],
+    "quiz": [
+      { "q": "placement の意味は？", "A": "配置・クラス分け", "B": "破壊", "C": "収穫", "D": "睡眠", "correct": "A" },
+      { "q": "placement test の意味は？", "A": "クラス分けテスト", "B": "体力測定", "C": "視力検査", "D": "性格診断", "correct": "A" }
+    ]
+  },
+  {
+    "english": "plagued",
+    "pron": "pleɪɡd",
+    "kana": "プレイグド",
+    "hinshi": "動詞（plague の過去・過去分詞）",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 plaga（打撃・災い）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出"],
+    "meaning_main": "悩ませた／苦しめた／絶えず困らせた",
+    "description": "plagued（プレイグド）は plague（悩ませる）の過去・過去分詞で「悩ませた・苦しめた」。be plagued by/with〜で「〜に悩まされる」。意味・使い方を解説します。",
+    "keywords": ["plagued 意味", "be plagued by 使い方", "悩まされる", "plague 過去形"],
+    "meanings": [
+      { "hinshi": "【動詞】悩ませた・苦しめた", "note": "plague（絶えず苦しめる）の過去・過去分詞" },
+      { "hinshi": "【受動】〜に悩まされる", "note": "be plagued by/with〜で「〜に絶えず苦しめられる」" }
+    ],
+    "usages": [
+      { "title": "① be plagued by〜", "desc": "「〜に悩まされる」定番表現", "example_en": "The project was plagued by delays.", "example_ja": "その計画は遅延に悩まされた。" },
+      { "title": "② 病気・問題が続く", "desc": "長く困らせる", "example_en": "He was plagued with doubts.", "example_ja": "彼は疑念に苦しめられ続けた。" }
+    ],
+    "warn": ["名詞 plague は「疫病・災い」。動詞では「絶えず悩ませる」。be plagued by も with も使える"],
+    "etym_note": "ラテン語 plaga（打撃・傷・災い）に由来。名詞は「疫病・厄災」、動詞は「絶えず苦しめる」の意味。",
+    "etym_chain": [
+      { "node": "plaga", "sub": "打撃・災い", "era": "ラテン語" },
+      { "node": "plague", "sub": "疫病・悩ませる", "era": "中英語" },
+      { "node": "plagued", "sub": "悩ませた", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be plagued by", "ja": "〜に悩まされる" },
+      { "en": "plagued with problems", "ja": "問題だらけの" },
+      { "en": "plagued by doubts", "ja": "疑念に苦しむ" },
+      { "en": "plagued by injuries", "ja": "けがに悩まされる" },
+      { "en": "plagued by debt", "ja": "借金に苦しむ" },
+      { "en": "constantly plagued", "ja": "絶えず苦しめられる" }
+    ],
+    "related": [
+      { "en": "plague", "ja": "疫病・悩ませる" },
+      { "en": "trouble", "ja": "悩ませる・困難" },
+      { "en": "afflict", "ja": "苦しめる" },
+      { "en": "torment", "ja": "苦しめる" }
+    ],
+    "faq": [
+      { "q": "be plagued by と be plagued with の違いは？", "a": "ほぼ同じで「〜に悩まされる」を意味します。by は原因の主体を、with は付随する問題を強調する傾向がありますが、多くの場合入れ替え可能です。" },
+      { "q": "plague は名詞でもありますか？", "a": "はい。名詞では「疫病・伝染病」や「災い・厄介なもの」を意味します。動詞では「絶えず悩ませる・苦しめる」です。" }
+    ],
+    "quiz": [
+      { "q": "be plagued by〜 の意味は？", "A": "〜に悩まされる", "B": "〜を楽しむ", "C": "〜を無視する", "D": "〜を称える", "correct": "A" },
+      { "q": "plague の名詞の意味は？", "A": "疫病・災い", "B": "祝福", "C": "遊び", "D": "計画", "correct": "A" }
+    ]
+  },
+  {
+    "english": "plainly",
+    "pron": "ˈpleɪnli",
+    "kana": "プレインリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "plain（明白な・質素な）+ -ly",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "頻出"],
+    "meaning_main": "はっきりと／明らかに／質素に",
+    "description": "plainly（プレインリー）は「はっきりと・明らかに」、また「質素に・飾らずに」。plain の副詞形です。意味・使い方・例文をわかりやすく解説します。",
+    "keywords": ["plainly 意味", "plainly 使い方", "はっきりと", "明らかに"],
+    "meanings": [
+      { "hinshi": "【副詞】はっきりと・明瞭に", "note": "誰にでもわかるように。speak plainly（率直に話す）" },
+      { "hinshi": "【副詞】明らかに", "note": "疑いようもなく。plainly visible（はっきり見える）" },
+      { "hinshi": "【副詞】質素に・飾らずに", "note": "plainly dressed（地味な服装で）" }
+    ],
+    "usages": [
+      { "title": "① 率直に話す", "desc": "speak/put plainly", "example_en": "To put it plainly, we have no money.", "example_ja": "はっきり言えば、お金がないのだ。" },
+      { "title": "② 明らかに", "desc": "疑いなく", "example_en": "It was plainly a mistake.", "example_ja": "それは明らかに間違いだった。" }
+    ],
+    "warn": ["clearly（明確に）と近いが、plainly は「飾らず率直に・誰にでもわかるように」のニュアンスが強い"],
+    "etym_note": "ラテン語 planus（平らな）由来の plain（平明な・質素な）に -ly が付いた副詞。",
+    "etym_chain": [
+      { "node": "planus", "sub": "平らな", "era": "ラテン語" },
+      { "node": "plain", "sub": "明白な・質素な", "era": "中英語" },
+      { "node": "plainly", "sub": "はっきりと", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "to put it plainly", "ja": "はっきり言えば" },
+      { "en": "speak plainly", "ja": "率直に話す" },
+      { "en": "plainly visible", "ja": "はっきり見える" },
+      { "en": "plainly dressed", "ja": "地味な服装で" },
+      { "en": "state plainly", "ja": "明言する" },
+      { "en": "plainly wrong", "ja": "明らかに誤った" }
+    ],
+    "related": [
+      { "en": "plain", "ja": "明白な・質素な" },
+      { "en": "clearly", "ja": "明確に" },
+      { "en": "obviously", "ja": "明らかに" },
+      { "en": "simply", "ja": "簡単に・単に" }
+    ],
+    "faq": [
+      { "q": "plainly と clearly の違いは？", "a": "どちらも「はっきりと」ですが、clearly は「明瞭で誤解がない」、plainly は「飾らず率直に・誰の目にも明らかに」というニュアンスが加わります。" },
+      { "q": "to put it plainly はどう使いますか？", "a": "「はっきり言えば・率直に言うと」と前置きするときに使います。込み入った話を単純にまとめて伝える場面で便利な表現です。" }
+    ],
+    "quiz": [
+      { "q": "plainly の意味は？", "A": "はっきりと・明らかに", "B": "ひそかに", "C": "急いで", "D": "偶然に", "correct": "A" },
+      { "q": "to put it plainly の意味は？", "A": "はっきり言えば", "B": "念のため言うと", "C": "冗談だが", "D": "後で言うが", "correct": "A" }
+    ]
+  },
+  {
+    "english": "planned",
+    "pron": "plænd",
+    "kana": "プランド",
+    "hinshi": "動詞（plan の過去・過去分詞）/ 形容詞",
+    "ld_pos": "動詞",
+    "ld_etym": "plan（計画）+ -ed",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A1", "頻出"],
+    "meaning_main": "計画した／予定された／計画的な",
+    "description": "planned（プランド）は plan（計画する）の過去・過去分詞で「計画した・予定された」。形容詞で「計画的な」。意味・使い方・例文を解説します。",
+    "keywords": ["planned 意味", "plan 過去形", "計画した", "予定された"],
+    "meanings": [
+      { "hinshi": "【動詞】計画した（plan の過去・過去分詞）", "note": "n を重ねて planned。plan/planned/planning" },
+      { "hinshi": "【形容詞】計画的な・予定された", "note": "planned economy（計画経済）、as planned（予定どおり）" }
+    ],
+    "usages": [
+      { "title": "① 過去形として", "desc": "「計画した」", "example_en": "We planned the trip for months.", "example_ja": "私たちは何か月もかけて旅行を計画した。" },
+      { "title": "② as planned", "desc": "「予定どおり」", "example_en": "Everything went as planned.", "example_ja": "すべて予定どおりに進んだ。" }
+    ],
+    "warn": ["つづりは n を重ねて planned。planed（かんなをかけた=plane の過去）とは別語なので注意"],
+    "etym_note": "plan（平面図・計画）に -ed が付いた形。plan はラテン語 planus（平らな）に由来し、もとは「平面図」の意味。",
+    "etym_chain": [
+      { "node": "planus", "sub": "平らな", "era": "ラテン語" },
+      { "node": "plan", "sub": "計画", "era": "近代英語" },
+      { "node": "planned", "sub": "計画した", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "as planned", "ja": "予定どおりに" },
+      { "en": "planned economy", "ja": "計画経済" },
+      { "en": "well planned", "ja": "よく練られた" },
+      { "en": "planned obsolescence", "ja": "計画的陳腐化" },
+      { "en": "carefully planned", "ja": "入念に計画された" },
+      { "en": "planned event", "ja": "予定された催し" }
+    ],
+    "related": [
+      { "en": "plan", "ja": "計画・計画する" },
+      { "en": "scheduled", "ja": "予定された" },
+      { "en": "intended", "ja": "意図された" },
+      { "en": "unplanned", "ja": "無計画の（反対）" }
+    ],
+    "faq": [
+      { "q": "planned のつづりで注意する点は？", "a": "n を2つ重ねて planned と書きます。plan は短母音+子音で終わるため、-ed を付けるとき子音を重ねます。planed（plane の過去）とは別語です。" },
+      { "q": "as planned はどういう意味ですか？", "a": "「予定どおりに・計画どおりに」という意味の決まった表現です。Everything went as planned.（すべて予定どおりに進んだ）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "as planned の意味は？", "A": "予定どおりに", "B": "突然に", "C": "残念ながら", "D": "偶然に", "correct": "A" },
+      { "q": "plan の正しい過去形は？", "A": "planned", "B": "planed", "C": "planing", "D": "plained", "correct": "A" }
+    ]
+  },
+  {
+    "english": "planter",
+    "pron": "ˈplæntər",
+    "kana": "プランター",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "plant（植える）+ -er",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "日常"],
+    "meaning_main": "植木鉢・プランター／栽培者・農園主",
+    "description": "planter（プランター）は「植木用の容器（プランター）」、また「植える人・農園主」。意味が複数ある語です。意味・使い方・例文をわかりやすく解説します。",
+    "keywords": ["planter 意味", "プランター 英語", "planter 使い方", "農園主"],
+    "meanings": [
+      { "hinshi": "【名詞】植木鉢・プランター", "note": "草花や野菜を育てる容器。装飾的な大型のものも指す" },
+      { "hinshi": "【名詞】栽培者・農園主", "note": "作物を植える人。歴史的には大農園（plantation）の経営者" },
+      { "hinshi": "【名詞】播種機", "note": "種をまく農業機械" }
+    ],
+    "usages": [
+      { "title": "① 植木の容器", "desc": "園芸用品として", "example_en": "She planted herbs in a wooden planter.", "example_ja": "彼女は木製のプランターにハーブを植えた。" },
+      { "title": "② 農園主として", "desc": "歴史的な用法", "example_en": "The planter owned vast fields of cotton.", "example_ja": "その農園主は広大な綿花畑を所有していた。" }
+    ],
+    "warn": ["日本語の「プランター」は主に容器の意味だが、英語では「植える人・農園主」の意味も重要"],
+    "etym_note": "動詞 plant（植える）に -er（〜する人／もの）が付いた語。ラテン語 planta（若木・苗）に由来する。",
+    "etym_chain": [
+      { "node": "planta", "sub": "苗・若木", "era": "ラテン語" },
+      { "node": "plant", "sub": "植える", "era": "古英語" },
+      { "node": "planter", "sub": "植える人・容器", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a window planter", "ja": "窓辺のプランター" },
+      { "en": "wooden planter", "ja": "木製プランター" },
+      { "en": "plant in a planter", "ja": "プランターに植える" },
+      { "en": "cotton planter", "ja": "綿花農園主" },
+      { "en": "hanging planter", "ja": "つり下げ式プランター" },
+      { "en": "large planter", "ja": "大型プランター" }
+    ],
+    "related": [
+      { "en": "plant", "ja": "植える・植物" },
+      { "en": "pot", "ja": "鉢" },
+      { "en": "plantation", "ja": "大農園" },
+      { "en": "gardener", "ja": "庭師" }
+    ],
+    "faq": [
+      { "q": "planter には容器以外の意味がありますか？", "a": "はい。「作物を植える人・農園主」の意味があります。特にアメリカ南部の歴史では、大農園（plantation）を経営する人を planter と呼びました。" },
+      { "q": "planter と pot の違いは？", "a": "pot は一般的な「鉢」、planter はやや大きめで装飾的な、または複数の植物を植える「プランター・植栽容器」を指すことが多いです。" }
+    ],
+    "quiz": [
+      { "q": "planter の意味の一つは？", "A": "植木鉢・プランター", "B": "掃除機", "C": "冷蔵庫", "D": "望遠鏡", "correct": "A" },
+      { "q": "planter のもう一つの意味は？", "A": "栽培者・農園主", "B": "配管工", "C": "教師", "D": "運転手", "correct": "A" }
+    ]
+  },
+  {
+    "english": "planting",
+    "pron": "ˈplæntɪŋ",
+    "kana": "プランティング",
+    "hinshi": "名詞 / 動詞（plant の現在分詞）",
+    "ld_pos": "名詞",
+    "ld_etym": "plant（植える）+ -ing",
+    "ld_level": "3級",
+    "badges": ["小学生〜", "英検3級", "CEFR A2", "日常"],
+    "meaning_main": "植え付け・植栽（すること）",
+    "description": "planting（プランティング）は「植え付け・植栽」。plant（植える）の動名詞・現在分詞で、種や苗を植える作業を指します。意味・使い方・例文を解説します。",
+    "keywords": ["planting 意味", "植え付け", "planting 使い方", "植栽"],
+    "meanings": [
+      { "hinshi": "【名詞】植え付け・植栽", "note": "種や苗を土に植える作業。tree planting（植樹）" },
+      { "hinshi": "【動詞】植えている（plant の現在分詞）", "note": "進行形や分詞構文で" }
+    ],
+    "usages": [
+      { "title": "① 植え付けの作業", "desc": "農業・園芸で", "example_en": "Spring is the best time for planting.", "example_ja": "春は植え付けに最適な時期だ。" },
+      { "title": "② 進行形として", "desc": "「植えている」", "example_en": "They are planting rice in the field.", "example_ja": "彼らは田んぼに稲を植えている。" }
+    ],
+    "warn": ["planting season（植え付けの時期）は harvesting（収穫）と対になる。tree planting は「植樹」"],
+    "etym_note": "動詞 plant（植える）の -ing 形。ラテン語 planta（苗）に由来する plant から派生した。",
+    "etym_chain": [
+      { "node": "planta", "sub": "苗", "era": "ラテン語" },
+      { "node": "plant", "sub": "植える", "era": "古英語" },
+      { "node": "planting", "sub": "植え付け", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "tree planting", "ja": "植樹" },
+      { "en": "planting season", "ja": "植え付けの時期" },
+      { "en": "spring planting", "ja": "春の植え付け" },
+      { "en": "planting and harvesting", "ja": "植え付けと収穫" },
+      { "en": "start planting", "ja": "植え付けを始める" },
+      { "en": "planting of crops", "ja": "作物の植え付け" }
+    ],
+    "related": [
+      { "en": "plant", "ja": "植える" },
+      { "en": "sowing", "ja": "種まき" },
+      { "en": "harvest", "ja": "収穫" },
+      { "en": "cultivation", "ja": "栽培・耕作" }
+    ],
+    "faq": [
+      { "q": "planting と sowing の違いは？", "a": "sowing は主に「種をまくこと」、planting は種だけでなく苗や球根、木などを土に「植えること」全般を指します。planting のほうが広い意味です。" },
+      { "q": "tree planting とは何ですか？", "a": "「植樹」のことです。森林再生や環境保護のために木を植える活動を指し、tree-planting campaign（植樹キャンペーン）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "planting の意味は？", "A": "植え付け・植栽", "B": "収穫", "C": "伐採", "D": "運搬", "correct": "A" },
+      { "q": "tree planting の意味は？", "A": "植樹", "B": "伐採", "C": "剪定", "D": "落葉", "correct": "A" }
+    ]
+  },
+  {
+    "english": "platelet",
+    "pron": "ˈpleɪtlət",
+    "kana": "プレイトレット",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "plate（板）+ -let（小さい）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "医学"],
+    "meaning_main": "血小板",
+    "description": "platelet（プレイトレット）は「血小板」。血液に含まれ、出血を止める働き（止血）をする細胞成分です。意味・使い方・例文をわかりやすく解説します。",
+    "keywords": ["platelet 意味", "血小板", "platelet 使い方", "止血"],
+    "meanings": [
+      { "hinshi": "【名詞】血小板", "note": "血液中の小さな細胞成分で、傷口をふさぎ止血に働く。通常は複数形 platelets" }
+    ],
+    "usages": [
+      { "title": "① 止血の働き", "desc": "血を固める", "example_en": "Platelets help the blood to clot.", "example_ja": "血小板は血液を凝固させるのを助ける。" },
+      { "title": "② 検査・数値で", "desc": "platelet count（血小板数）", "example_en": "His platelet count was low.", "example_ja": "彼の血小板数は低かった。" }
+    ],
+    "warn": ["赤血球（red blood cell）・白血球（white blood cell）と並ぶ血液成分。-let は「小さい」を表す指小辞"],
+    "etym_note": "plate（平たい板）に -let（小さいものを表す指小辞）が付いた語で「小さな板」。円盤状の形にちなむ。",
+    "etym_chain": [
+      { "node": "plate", "sub": "板・皿", "era": "中英語" },
+      { "node": "platelet", "sub": "小さな板＝血小板", "era": "近代英語" },
+      { "node": "platelet", "sub": "血小板", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "platelet count", "ja": "血小板数" },
+      { "en": "low platelets", "ja": "血小板減少" },
+      { "en": "platelet transfusion", "ja": "血小板輸血" },
+      { "en": "blood platelets", "ja": "血小板" },
+      { "en": "platelet function", "ja": "血小板の機能" },
+      { "en": "clotting platelets", "ja": "凝固する血小板" }
+    ],
+    "related": [
+      { "en": "blood", "ja": "血液" },
+      { "en": "clot", "ja": "血の塊・凝固する" },
+      { "en": "plasma", "ja": "血漿" },
+      { "en": "cell", "ja": "細胞" }
+    ],
+    "faq": [
+      { "q": "platelet（血小板）の働きは？", "a": "血管が傷ついたときに集まって傷口をふさぎ、血を固めて出血を止める（止血する）働きをします。血液の重要な成分の一つです。" },
+      { "q": "赤血球や白血球との違いは？", "a": "赤血球は酸素を運び、白血球は病原体と戦います。血小板（platelet）はこれらより小さく、止血・血液凝固を担当します。" }
+    ],
+    "quiz": [
+      { "q": "platelet の意味は？", "A": "血小板", "B": "赤血球", "C": "神経細胞", "D": "筋肉", "correct": "A" },
+      { "q": "血小板の主な働きは？", "A": "止血・血液凝固", "B": "酸素の運搬", "C": "病原体との戦い", "D": "栄養の吸収", "correct": "A" }
+    ]
+  },
+  {
+    "english": "playback",
+    "pron": "ˈpleɪbæk",
+    "kana": "プレイバック",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "play（再生する）+ back（戻して）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "IT・機器"],
+    "meaning_main": "再生（録音・録画の）",
+    "description": "playback（プレイバック）は「録音・録画したものの再生」。記録した音声や映像を再び流すことです。意味・使い方・例文をわかりやすく解説します。",
+    "keywords": ["playback 意味", "プレイバック", "再生", "playback 使い方"],
+    "meanings": [
+      { "hinshi": "【名詞】再生", "note": "録音・録画したものを再び再生すること・その音や映像。通常は不可算" }
+    ],
+    "usages": [
+      { "title": "① 録画・録音の再生", "desc": "機器の操作で", "example_en": "The playback quality was excellent.", "example_ja": "再生の画質・音質は素晴らしかった。" },
+      { "title": "② 動詞句 play back", "desc": "2語だと動詞", "example_en": "She played back the recording.", "example_ja": "彼女は録音を再生した。" }
+    ],
+    "warn": ["名詞・形容詞は1語 playback、動詞は2語 play back。record（録音・録画）と対になる語"],
+    "etym_note": "動詞句 play back（再生する）が名詞化した語。back は「（記録を）さかのぼって・戻して」の意味。",
+    "etym_chain": [
+      { "node": "play back", "sub": "再生する", "era": "20世紀" },
+      { "node": "playback", "sub": "再生", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "playback quality", "ja": "再生品質" },
+      { "en": "video playback", "ja": "映像再生" },
+      { "en": "audio playback", "ja": "音声再生" },
+      { "en": "playback speed", "ja": "再生速度" },
+      { "en": "instant playback", "ja": "即時再生" },
+      { "en": "playback device", "ja": "再生機器" }
+    ],
+    "related": [
+      { "en": "record", "ja": "録音・録画する" },
+      { "en": "replay", "ja": "再生・リプレイ" },
+      { "en": "recording", "ja": "録音・録画" },
+      { "en": "pause", "ja": "一時停止" }
+    ],
+    "faq": [
+      { "q": "playback と replay の違いは？", "a": "playback は録音・録画したものを「再生すること」全般、replay は特にスポーツ中継などで「もう一度見せる再生映像」を指すことが多い語です。" },
+      { "q": "playback と play back の使い分けは？", "a": "1語の playback は名詞・形容詞、2語の play back は動詞です。『再生（機能）』なら playback、『再生する』なら play back the tape のように使います。" }
+    ],
+    "quiz": [
+      { "q": "playback の意味は？", "A": "再生", "B": "録音", "C": "削除", "D": "編集", "correct": "A" },
+      { "q": "「録音を再生する」を表す動詞句は？", "A": "play back", "B": "back up", "C": "put off", "D": "take in", "correct": "A" }
+    ]
+  }
+]

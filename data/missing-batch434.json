@@ -1,0 +1,995 @@
+[
+  {
+    "english": "provided",
+    "pron": "prəˈvaɪdɪd",
+    "kana": "プロヴァイデッド",
+    "hinshi": "動詞（provide の過去・過去分詞）/ 接続詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 providere（前もって見る・備える）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "頻出"],
+    "meaning_main": "提供した／〜という条件で（もし〜なら）",
+    "description": "provided（プロヴァイデッド）は provide（提供する）の過去・過去分詞で「提供した」。接続詞では provided (that)「〜という条件で」。意味・使い方を解説します。",
+    "keywords": ["provided 意味", "provided that", "provide 過去形", "条件"],
+    "meanings": [
+      { "hinshi": "【動詞】提供した（provide の過去・過去分詞）", "note": "必要な物を与えた・用意した" },
+      { "hinshi": "【接続詞】〜という条件で・もし〜なら", "note": "provided (that)〜で「〜でありさえすれば」。if より条件を強調" }
+    ],
+    "usages": [
+      { "title": "① provided (that)〜", "desc": "条件を表す接続詞", "example_en": "You can go, provided that you finish your work.", "example_ja": "仕事を終わらせるなら行ってよい。" },
+      { "title": "② 提供した", "desc": "provide の過去形", "example_en": "The hotel provided free breakfast.", "example_ja": "そのホテルは無料の朝食を提供した。" }
+    ],
+    "warn": ["接続詞の provided (that) は『〜という条件でのみ』と条件を強調。providing (that) もほぼ同義"],
+    "etym_note": "ラテン語 providere（pro-「前もって」+ videre「見る」＝先を見て備える）由来の provide に -ed が付いた形。video・evident と同じ vid を含む。",
+    "etym_chain": [
+      { "node": "providere", "sub": "前もって備える", "era": "ラテン語" },
+      { "node": "provide", "sub": "提供する", "era": "中英語" },
+      { "node": "provided", "sub": "提供した・〜の条件で", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "provided that", "ja": "〜という条件で" },
+      { "en": "provided with", "ja": "〜を与えられて" },
+      { "en": "food and shelter provided", "ja": "食事と宿が提供される" },
+      { "en": "provided free of charge", "ja": "無料で提供される" },
+      { "en": "provided by law", "ja": "法律で定められた" },
+      { "en": "well provided for", "ja": "十分に生活が保障された" }
+    ],
+    "related": [
+      { "en": "provide", "ja": "提供する" },
+      { "en": "providing", "ja": "〜という条件で" },
+      { "en": "supply", "ja": "供給する" },
+      { "en": "as long as", "ja": "〜する限り" }
+    ],
+    "faq": [
+      { "q": "provided that と if の違いは？", "a": "どちらも条件を表しますが、provided (that) は『〜という条件でのみ・〜でありさえすれば』と条件を強調し、ややフォーマルです。if はより一般的で幅広く使えます。" },
+      { "q": "provided と providing は同じですか？", "a": "接続詞としてはほぼ同義で「〜という条件で」を表します。provided (that) のほうがやや形式的で、providing (that) はよりくだけた場面で使われます。" }
+    ],
+    "quiz": [
+      { "q": "provided (that)〜 の意味は？", "A": "〜という条件で", "B": "〜にもかかわらず", "C": "〜の後で", "D": "〜のように", "correct": "A" },
+      { "q": "provide の意味は？", "A": "提供する", "B": "破壊する", "C": "禁止する", "D": "忘れる", "correct": "A" }
+    ]
+  },
+  {
+    "english": "provocation",
+    "pron": "ˌprɒvəˈkeɪʃən",
+    "kana": "プロヴォケーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 provocare（呼び出す・挑発する）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "頻出"],
+    "meaning_main": "挑発・怒らせること・きっかけ",
+    "description": "provocation（プロヴォケーション）は「挑発・怒らせること」。相手を刺激して反応を引き出す行為を指します。動詞は provoke。意味・使い方・例文を解説します。",
+    "keywords": ["provocation 意味", "挑発", "provoke 名詞", "怒らせる"],
+    "meanings": [
+      { "hinshi": "【名詞】挑発・怒らせること", "note": "相手を怒らせたり反応を引き出したりする言動" },
+      { "hinshi": "【名詞】（怒りの）きっかけ・誘因", "note": "without provocation（何のきっかけもなく）" }
+    ],
+    "usages": [
+      { "title": "① 挑発として", "desc": "相手を刺激する言動", "example_en": "He ignored the provocation and stayed calm.", "example_ja": "彼は挑発を無視して冷静を保った。" },
+      { "title": "② without provocation", "desc": "「理由もなく」", "example_en": "The dog attacked without provocation.", "example_ja": "その犬は何のきっかけもなく襲いかかった。" }
+    ],
+    "warn": ["動詞は provoke（挑発する・引き起こす）。形容詞 provocative は『挑発的な・刺激的な』"],
+    "etym_note": "ラテン語 provocare（pro-「前に」+ vocare「呼ぶ」＝呼び出す・挑む）由来。voice・vocal と同じ voc を含む。",
+    "etym_chain": [
+      { "node": "provocare", "sub": "呼び出す・挑む", "era": "ラテン語" },
+      { "node": "provocation", "sub": "挑発", "era": "中英語" },
+      { "node": "provocation", "sub": "挑発", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "without provocation", "ja": "理由もなく" },
+      { "en": "act of provocation", "ja": "挑発行為" },
+      { "en": "respond to provocation", "ja": "挑発に応じる" },
+      { "en": "under provocation", "ja": "挑発を受けて" },
+      { "en": "deliberate provocation", "ja": "意図的な挑発" },
+      { "en": "ignore the provocation", "ja": "挑発を無視する" }
+    ],
+    "related": [
+      { "en": "provoke", "ja": "挑発する・引き起こす" },
+      { "en": "provocative", "ja": "挑発的な" },
+      { "en": "incitement", "ja": "扇動" },
+      { "en": "taunt", "ja": "あざけり・挑発" }
+    ],
+    "faq": [
+      { "q": "without provocation とはどういう意味ですか？", "a": "「何のきっかけ・理由もなく」という意味です。相手に怒らせるようなことをされていないのに、という文脈で使われる定番表現です。" },
+      { "q": "provocation の動詞・形容詞形は？", "a": "動詞は provoke（挑発する・引き起こす）、形容詞は provocative（挑発的な・刺激的な）です。" }
+    ],
+    "quiz": [
+      { "q": "provocation の意味は？", "A": "挑発・怒らせること", "B": "祝福", "C": "感謝", "D": "休息", "correct": "A" },
+      { "q": "without provocation の意味は？", "A": "何のきっかけもなく", "B": "許可を得て", "C": "急いで", "D": "喜んで", "correct": "A" }
+    ]
+  },
+  {
+    "english": "provocative",
+    "pron": "prəˈvɒkətɪv",
+    "kana": "プロヴォカティブ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 provocare（挑発する）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "頻出"],
+    "meaning_main": "挑発的な・刺激的な・（議論を）かき立てる",
+    "description": "provocative（プロヴォカティブ）は「挑発的な・（考えや議論を）かき立てる・刺激的な」。反応を引き出そうとする言動を表します。意味・使い方・例文を解説します。",
+    "keywords": ["provocative 意味", "挑発的", "刺激的", "provocative 使い方"],
+    "meanings": [
+      { "hinshi": "【形容詞】挑発的な・怒らせる", "note": "わざと反応・怒りを引き出そうとする" },
+      { "hinshi": "【形容詞】（思考・議論を）かき立てる", "note": "thought-provoking に近い良い意味。刺激的で考えさせる" }
+    ],
+    "usages": [
+      { "title": "① 議論をかき立てる", "desc": "良い意味の刺激", "example_en": "She made a provocative but insightful argument.", "example_ja": "彼女は挑発的だが示唆に富む主張をした。" },
+      { "title": "② 挑発的な言動", "desc": "怒らせる・刺激する", "example_en": "His provocative remarks angered the crowd.", "example_ja": "彼の挑発的な発言は群衆を怒らせた。" }
+    ],
+    "warn": ["文脈で『怒らせる（否定的）』とも『考えさせる（肯定的）』ともなる。thought-provoking は肯定的な『考えさせる』"],
+    "etym_note": "ラテン語 provocare（挑発する・呼び出す）由来の形容詞。provoke・provocation と同語源。",
+    "etym_chain": [
+      { "node": "provocare", "sub": "挑発する", "era": "ラテン語" },
+      { "node": "provocative", "sub": "挑発的な", "era": "中英語" },
+      { "node": "provocative", "sub": "挑発的な・刺激的な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "provocative remark", "ja": "挑発的な発言" },
+      { "en": "provocative question", "ja": "刺激的な問い" },
+      { "en": "deliberately provocative", "ja": "わざと挑発的な" },
+      { "en": "provocative and controversial", "ja": "挑発的で物議を醸す" },
+      { "en": "a provocative title", "ja": "刺激的な題名" },
+      { "en": "thought-provoking", "ja": "考えさせる" }
+    ],
+    "related": [
+      { "en": "provoke", "ja": "挑発する" },
+      { "en": "provocation", "ja": "挑発" },
+      { "en": "inflammatory", "ja": "扇情的な" },
+      { "en": "stimulating", "ja": "刺激的な" }
+    ],
+    "faq": [
+      { "q": "provocative は良い意味ですか悪い意味ですか？", "a": "文脈次第です。『わざと怒らせる・挑発する』という否定的な意味にも、『（議論や思考を）刺激してかき立てる』という肯定的な意味にも使われます。" },
+      { "q": "thought-provoking との違いは？", "a": "thought-provoking は『考えさせる・示唆に富む』という肯定的な意味に限られます。provocative は挑発・刺激の両面を持つ、より広い語です。" }
+    ],
+    "quiz": [
+      { "q": "provocative の意味は？", "A": "挑発的な・刺激的な", "B": "退屈な", "C": "安全な", "D": "静かな", "correct": "A" },
+      { "q": "provocative の動詞形は？", "A": "provoke", "B": "provide", "C": "prove", "D": "propose", "correct": "A" }
+    ]
+  },
+  {
+    "english": "provoker",
+    "pron": "prəˈvoʊkər",
+    "kana": "プロヴォーカー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "provoke（挑発する）+ -er",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "上級"],
+    "meaning_main": "挑発する人・扇動者・引き起こす人",
+    "description": "provoker（プロヴォーカー）は「挑発する人・引き起こす人」。provoke（挑発する・引き起こす）に -er が付いた語です。意味・使い方・例文をわかりやすく解説します。",
+    "keywords": ["provoker 意味", "挑発する人", "provoke er", "扇動者"],
+    "meanings": [
+      { "hinshi": "【名詞】挑発する人・扇動者", "note": "相手を怒らせたり反応を引き出したりする人" },
+      { "hinshi": "【名詞】引き起こす人・要因", "note": "何かを誘発するもの・人" }
+    ],
+    "usages": [
+      { "title": "① 挑発者として", "desc": "けんかや騒ぎを煽る人", "example_en": "He was seen as the provoker of the fight.", "example_ja": "彼はそのけんかの挑発者と見なされた。" },
+      { "title": "② 引き起こすもの", "desc": "反応を誘発する要因", "example_en": "Stress can be a provoker of illness.", "example_ja": "ストレスは病気を引き起こす要因になりうる。" }
+    ],
+    "warn": ["やや硬い語。日常では instigator（扇動者）や troublemaker（もめごとを起こす人）のほうが一般的"],
+    "etym_note": "動詞 provoke（挑発する・引き起こす。ラテン語 provocare より）に -er（〜する人）が付いた語。",
+    "etym_chain": [
+      { "node": "provocare", "sub": "挑発する", "era": "ラテン語" },
+      { "node": "provoke", "sub": "挑発する", "era": "中英語" },
+      { "node": "provoker", "sub": "挑発する人", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the provoker of trouble", "ja": "もめごとの扇動者" },
+      { "en": "a known provoker", "ja": "知られた挑発者" },
+      { "en": "act as a provoker", "ja": "挑発者として振る舞う" },
+      { "en": "the main provoker", "ja": "主な扇動者" },
+      { "en": "a provoker of conflict", "ja": "対立を引き起こす者" },
+      { "en": "identify the provoker", "ja": "挑発者を特定する" }
+    ],
+    "related": [
+      { "en": "provoke", "ja": "挑発する" },
+      { "en": "provocation", "ja": "挑発" },
+      { "en": "instigator", "ja": "扇動者" },
+      { "en": "agitator", "ja": "扇動家" }
+    ],
+    "faq": [
+      { "q": "provoker と instigator の違いは？", "a": "どちらも『けしかける・扇動する人』ですが、provoker は『挑発して怒らせる・反応を引き出す人』、instigator は『事を計画的に始めさせる扇動者』のニュアンスがあります。" },
+      { "q": "日常でよく使われますか？", "a": "やや硬い語で、日常では troublemaker（もめごとを起こす人）や instigator のほうが一般的です。provoker は文章語的な響きがあります。" }
+    ],
+    "quiz": [
+      { "q": "provoker の意味は？", "A": "挑発する人・扇動者", "B": "仲裁する人", "C": "見物人", "D": "被害者", "correct": "A" },
+      { "q": "provoker のもとの動詞は？", "A": "provoke", "B": "provide", "C": "prove", "D": "promote", "correct": "A" }
+    ]
+  },
+  {
+    "english": "proxy",
+    "pron": "ˈprɒksi",
+    "kana": "プロキシ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 procuratio（代理）の短縮",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "IT・ビジネス"],
+    "meaning_main": "代理（人）・委任状／（IT）プロキシ・代替指標",
+    "description": "proxy（プロキシ）は「代理（人）・委任状」。また IT では中継サーバー、統計では『代替指標』も指します。by proxy（代理で）で頻出。意味・使い方を解説します。",
+    "keywords": ["proxy 意味", "代理", "プロキシサーバー", "by proxy"],
+    "meanings": [
+      { "hinshi": "【名詞】代理（人）・委任", "note": "本人の代わりに行動する人や権限。vote by proxy（代理投票）" },
+      { "hinshi": "【名詞】代替指標・代用となるもの", "note": "直接測れないものの代わりに使う指標。a proxy for〜（〜の代わり）" },
+      { "hinshi": "【名詞】プロキシ（サーバー）", "note": "ネットで通信を中継するサーバー" }
+    ],
+    "usages": [
+      { "title": "① by proxy（代理で）", "desc": "本人の代わりに", "example_en": "She voted by proxy at the meeting.", "example_ja": "彼女は会議で代理投票をした。" },
+      { "title": "② a proxy for〜", "desc": "「〜の代用・代替指標」", "example_en": "Income is often used as a proxy for well-being.", "example_ja": "所得はしばしば幸福度の代替指標として使われる。" }
+    ],
+    "warn": ["by proxy は『代理で』。IT のプロキシサーバーは通信を中継するもの。文脈で意味が変わる"],
+    "etym_note": "ラテン語 procuratio（世話・代理。procurare「世話をする」から）が中英語で短縮されて proxy に。procure・cure と同語源。",
+    "etym_chain": [
+      { "node": "procuratio", "sub": "代理・世話", "era": "ラテン語" },
+      { "node": "procuracie", "sub": "代理権", "era": "中英語" },
+      { "node": "proxy", "sub": "代理", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "by proxy", "ja": "代理で" },
+      { "en": "vote by proxy", "ja": "代理投票する" },
+      { "en": "a proxy for", "ja": "〜の代用・代替指標" },
+      { "en": "proxy server", "ja": "プロキシサーバー" },
+      { "en": "proxy war", "ja": "代理戦争" },
+      { "en": "act as a proxy", "ja": "代理を務める" }
+    ],
+    "related": [
+      { "en": "representative", "ja": "代表・代理人" },
+      { "en": "agent", "ja": "代理人" },
+      { "en": "substitute", "ja": "代用・代わり" },
+      { "en": "delegate", "ja": "代表を委任する" }
+    ],
+    "faq": [
+      { "q": "by proxy とはどういう意味ですか？", "a": "「代理で・代理人を通じて」という意味です。vote by proxy（代理投票する）のように、本人が直接ではなく代理を立てて行うことを表します。" },
+      { "q": "統計で proxy とは何ですか？", "a": "直接は測りにくいものを推し量るための『代替指標』です。a proxy for〜で「〜の代わりの指標」を意味し、例えば所得を生活水準の proxy として使うことがあります。" }
+    ],
+    "quiz": [
+      { "q": "by proxy の意味は？", "A": "代理で", "B": "偶然に", "C": "無料で", "D": "急いで", "correct": "A" },
+      { "q": "proxy server とは？", "A": "通信を中継するサーバー", "B": "電源装置", "C": "印刷機", "D": "冷却装置", "correct": "A" }
+    ]
+  },
+  {
+    "english": "prudish",
+    "pron": "ˈpruːdɪʃ",
+    "kana": "プルーディッシュ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "prude（上品ぶる人）+ -ish",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "上級"],
+    "meaning_main": "（特に性に）潔癖すぎる・お上品ぶった",
+    "description": "prudish（プルーディッシュ）は「（特に性の話題に）潔癖すぎる・上品ぶった」。過度にお堅く、はしたないことを嫌う様子を表す語です。意味・使い方・例文を解説します。",
+    "keywords": ["prudish 意味", "潔癖", "上品ぶった", "prude"],
+    "meanings": [
+      { "hinshi": "【形容詞】（性に）潔癖すぎる・お堅い", "note": "性や下品なことを過度に嫌い、お上品ぶるさま。やや否定的" }
+    ],
+    "usages": [
+      { "title": "① お堅い態度", "desc": "過度な潔癖さを表す", "example_en": "She was too prudish to watch the movie.", "example_ja": "彼女は潔癖すぎてその映画を見られなかった。" },
+      { "title": "② 名詞 prude", "desc": "prude（上品ぶる人）も関連", "example_en": "Don't be such a prude about it.", "example_ja": "そんなにお堅いこと言わないで。" }
+    ],
+    "warn": ["名詞は prude（上品ぶる人・お堅い人）。『慎み深い（modest）』を通り越して『潔癖すぎる』という否定的な語"],
+    "etym_note": "フランス語 prude（しとやかな女性）由来の prude に -ish（〜っぽい）が付いた語。もとは肯定的だったが、後に『お堅すぎる』の否定的な意味に。",
+    "etym_chain": [
+      { "node": "prude", "sub": "しとやかな女性", "era": "フランス語" },
+      { "node": "prude", "sub": "上品ぶる人", "era": "近代英語" },
+      { "node": "prudish", "sub": "潔癖すぎる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a prudish attitude", "ja": "お堅い態度" },
+      { "en": "too prudish", "ja": "潔癖すぎる" },
+      { "en": "prudish about sex", "ja": "性の話にお堅い" },
+      { "en": "sound prudish", "ja": "堅苦しく聞こえる" },
+      { "en": "prudish and old-fashioned", "ja": "お堅くて古風な" },
+      { "en": "don't be prudish", "ja": "お堅くならないで" }
+    ],
+    "related": [
+      { "en": "prude", "ja": "上品ぶる人" },
+      { "en": "puritanical", "ja": "厳格な・清教徒的な" },
+      { "en": "prim", "ja": "とりすました" },
+      { "en": "modest", "ja": "慎み深い" }
+    ],
+    "faq": [
+      { "q": "prudish と modest の違いは？", "a": "modest は『慎み深い』という中立〜肯定的な語ですが、prudish は『潔癖すぎる・お堅すぎる』という、度を越して否定的なニュアンスの語です。" },
+      { "q": "名詞形は何ですか？", "a": "prude で「上品ぶる人・お堅い人」を意味します。Don't be a prude.（お堅いこと言わないで）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "prudish の意味は？", "A": "（特に性に）潔癖すぎる・お堅い", "B": "気前のよい", "C": "陽気な", "D": "大胆な", "correct": "A" },
+      { "q": "prudish の名詞形は？", "A": "prude", "B": "prudity", "C": "pruder", "D": "prudeness", "correct": "A" }
+    ]
+  },
+  {
+    "english": "psalm",
+    "pron": "sɑːm",
+    "kana": "サーム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 psalmos（竪琴の伴奏の歌）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "宗教"],
+    "meaning_main": "賛美歌・詩編（旧約聖書の）",
+    "description": "psalm（サーム）は「賛美歌・詩編」。特に旧約聖書の『詩編（Psalms）』を指します。p は発音しない点に注意する語です。意味・使い方・例文を解説します。",
+    "keywords": ["psalm 意味", "詩編", "賛美歌", "psalm 発音"],
+    "meanings": [
+      { "hinshi": "【名詞】賛美歌・聖歌", "note": "神をたたえる歌・祈りの歌" },
+      { "hinshi": "【名詞】詩編", "note": "旧約聖書の一書『詩編（the Psalms）』。全150編" }
+    ],
+    "usages": [
+      { "title": "① 聖書の詩編", "desc": "旧約聖書の一書", "example_en": "She read a psalm at the funeral.", "example_ja": "彼女は葬儀で詩編を朗読した。" },
+      { "title": "② 発音に注意", "desc": "p は読まない", "example_en": "The word psalm is pronounced without the p.", "example_ja": "psalm という語は p を発音しない。" }
+    ],
+    "warn": ["語頭の p は発音しない（サーム）。psychology・pneumonia など ps- 語と同じく p は黙字"],
+    "etym_note": "ギリシャ語 psalmos（竪琴をつま弾いて歌う歌）に由来。psaltery（プサルタリー＝弦楽器）と同語源。",
+    "etym_chain": [
+      { "node": "psalmos", "sub": "竪琴の歌", "era": "ギリシャ語" },
+      { "node": "psalmus", "sub": "賛美歌", "era": "ラテン語" },
+      { "node": "psalm", "sub": "詩編・賛美歌", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the Book of Psalms", "ja": "詩編（聖書の一書）" },
+      { "en": "sing a psalm", "ja": "賛美歌を歌う" },
+      { "en": "read a psalm", "ja": "詩編を読む" },
+      { "en": "a psalm of praise", "ja": "賛美の詩編" },
+      { "en": "recite a psalm", "ja": "詩編を唱える" },
+      { "en": "Psalm 23", "ja": "詩編23編" }
+    ],
+    "related": [
+      { "en": "hymn", "ja": "賛美歌・聖歌" },
+      { "en": "prayer", "ja": "祈り" },
+      { "en": "scripture", "ja": "聖典・聖書" },
+      { "en": "verse", "ja": "詩句・節" }
+    ],
+    "faq": [
+      { "q": "psalm の発音は？", "a": "語頭の p を発音せず「サーム」/sɑːm/ と読みます。ps- で始まる語（psychology, pneumonia など）と同じく、p は黙字になります。" },
+      { "q": "psalm と hymn の違いは？", "a": "psalm は特に旧約聖書の『詩編』や神をたたえる祈りの歌を指し、hymn はより広く教会で歌う『賛美歌』全般を指します。" }
+    ],
+    "quiz": [
+      { "q": "psalm の意味は？", "A": "賛美歌・詩編", "B": "手のひら", "C": "静けさ", "D": "計画", "correct": "A" },
+      { "q": "psalm の発音で正しいのは？", "A": "p を発音しない（サーム）", "B": "プサルム", "C": "ピーサーム", "D": "パーム", "correct": "A" }
+    ]
+  },
+  {
+    "english": "pseudoscience",
+    "pron": "ˌsuːdoʊˈsaɪəns",
+    "kana": "スードサイエンス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 pseudo-（偽の）+ science（科学）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "科学"],
+    "meaning_main": "疑似科学・えせ科学",
+    "description": "pseudoscience（スードサイエンス）は「疑似科学・えせ科学」。科学のように見せかけているが、科学的な検証に基づかない主張や理論を指します。意味・使い方を解説します。",
+    "keywords": ["pseudoscience 意味", "疑似科学", "えせ科学", "pseudo"],
+    "meanings": [
+      { "hinshi": "【名詞】疑似科学・えせ科学", "note": "科学的を装うが、検証可能性や証拠に欠ける主張・体系。不可算" }
+    ],
+    "usages": [
+      { "title": "① 科学を装う主張", "desc": "検証に耐えないもの", "example_en": "Astrology is often called a pseudoscience.", "example_ja": "占星術はしばしば疑似科学と呼ばれる。" },
+      { "title": "② 科学との区別", "desc": "反証可能性がない", "example_en": "Pseudoscience lacks the rigor of real science.", "example_ja": "疑似科学には本物の科学のような厳密さが欠けている。" }
+    ],
+    "warn": ["語頭の p は発音しない（スードサイエンス）。pseudo-（偽の・見せかけの）は多くの語を作る接頭辞"],
+    "etym_note": "ギリシャ語 pseudes（偽の）由来の接頭辞 pseudo- に science（科学）が付いた語。pseudonym（偽名）と同じ pseudo を含む。",
+    "etym_chain": [
+      { "node": "pseudo + science", "sub": "偽の科学", "era": "近代英語" },
+      { "node": "pseudoscience", "sub": "疑似科学", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "dismiss as pseudoscience", "ja": "疑似科学として退ける" },
+      { "en": "labeled pseudoscience", "ja": "疑似科学と分類された" },
+      { "en": "science and pseudoscience", "ja": "科学と疑似科学" },
+      { "en": "modern pseudoscience", "ja": "現代の疑似科学" },
+      { "en": "a form of pseudoscience", "ja": "疑似科学の一種" },
+      { "en": "expose pseudoscience", "ja": "疑似科学を暴く" }
+    ],
+    "related": [
+      { "en": "science", "ja": "科学" },
+      { "en": "pseudonym", "ja": "偽名・ペンネーム" },
+      { "en": "superstition", "ja": "迷信" },
+      { "en": "quackery", "ja": "いんちき療法" }
+    ],
+    "faq": [
+      { "q": "pseudoscience とは何ですか？", "a": "科学のように見せかけているが、反証可能性や客観的な証拠に基づかない主張や体系を指します。占星術や一部の代替療法などが例に挙げられることがあります。" },
+      { "q": "pseudo- はどんな意味ですか？", "a": "『偽の・見せかけの』を表すギリシャ語由来の接頭辞です。pseudonym（偽名）、pseudo-intellectual（えせ知識人）のように多くの語を作ります。" }
+    ],
+    "quiz": [
+      { "q": "pseudoscience の意味は？", "A": "疑似科学・えせ科学", "B": "最先端科学", "C": "自然科学", "D": "社会科学", "correct": "A" },
+      { "q": "pseudo- が表す意味は？", "A": "偽の・見せかけの", "B": "本物の", "C": "巨大な", "D": "古い", "correct": "A" }
+    ]
+  },
+  {
+    "english": "psychic",
+    "pron": "ˈsaɪkɪk",
+    "kana": "サイキック",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ギリシャ語 psychikos（魂の）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "頻出"],
+    "meaning_main": "超能力の・霊的な／霊能者・超能力者",
+    "description": "psychic（サイキック）は「超能力の・霊的な・心霊の」、名詞で「霊能者・超能力者」。心や超自然的な力に関する語です。意味・使い方・例文を解説します。",
+    "keywords": ["psychic 意味", "超能力", "霊能者", "サイキック"],
+    "meanings": [
+      { "hinshi": "【形容詞】超能力の・霊的な", "note": "テレパシーや予知など、科学で説明できない心の力に関する" },
+      { "hinshi": "【名詞】霊能者・超能力者", "note": "予知や霊視ができるとされる人" },
+      { "hinshi": "【形容詞】心的な・精神の", "note": "心・精神に関する（やや専門的）" }
+    ],
+    "usages": [
+      { "title": "① 超能力・霊的な", "desc": "超自然的な力", "example_en": "She claims to have psychic powers.", "example_ja": "彼女は超能力があると主張している。" },
+      { "title": "② 名詞（霊能者）", "desc": "予知する人", "example_en": "They consulted a psychic about the future.", "example_ja": "彼らは未来について霊能者に相談した。" }
+    ],
+    "warn": ["語頭の p は発音しない（サイキック）。psycho-（心）は psychology・psychiatry などにも共通する要素"],
+    "etym_note": "ギリシャ語 psyche（魂・心）由来の psychikos（魂の）に基づく。psychology（心理学）・psyche と同語源。",
+    "etym_chain": [
+      { "node": "psyche", "sub": "魂・心", "era": "ギリシャ語" },
+      { "node": "psychikos", "sub": "魂の", "era": "ギリシャ語" },
+      { "node": "psychic", "sub": "霊的な・超能力の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "psychic powers", "ja": "超能力" },
+      { "en": "psychic ability", "ja": "霊能力" },
+      { "en": "consult a psychic", "ja": "霊能者に相談する" },
+      { "en": "psychic reading", "ja": "霊視・占い" },
+      { "en": "psychic phenomena", "ja": "心霊現象" },
+      { "en": "a psychic connection", "ja": "心の結びつき" }
+    ],
+    "related": [
+      { "en": "psyche", "ja": "魂・精神" },
+      { "en": "telepathy", "ja": "テレパシー" },
+      { "en": "supernatural", "ja": "超自然の" },
+      { "en": "medium", "ja": "霊媒" }
+    ],
+    "faq": [
+      { "q": "psychic の発音は？", "a": "語頭の p を発音せず「サイキック」/ˈsaɪkɪk/ と読みます。psycho- で始まる語（psychology など）と同じく p は黙字です。" },
+      { "q": "psychic と psychological の違いは？", "a": "psychic は主に『超能力の・霊的な』を意味します。psychological は『心理（学）的な』で、学問的・日常的な心の働きを指します。意味が大きく異なるので注意しましょう。" }
+    ],
+    "quiz": [
+      { "q": "psychic の意味は？", "A": "超能力の・霊的な／霊能者", "B": "物理的な", "C": "経済的な", "D": "化学的な", "correct": "A" },
+      { "q": "psychic の語源 psyche の意味は？", "A": "魂・心", "B": "体", "C": "手", "D": "目", "correct": "A" }
+    ]
+  },
+  {
+    "english": "psychoanalysis",
+    "pron": "ˌsaɪkoʊəˈnæləsɪs",
+    "kana": "サイコアナリシス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "psycho-（心）+ analysis（分析）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "心理学"],
+    "meaning_main": "精神分析（学）",
+    "description": "psychoanalysis（サイコアナリシス）は「精神分析」。フロイトが創始した、無意識を探って心の問題を治療・研究する方法・理論です。意味・使い方を解説します。",
+    "keywords": ["psychoanalysis 意味", "精神分析", "フロイト", "無意識"],
+    "meanings": [
+      { "hinshi": "【名詞】精神分析（学）", "note": "無意識の働きを探り、心の問題を理解・治療する理論と方法。フロイトが創始。不可算" }
+    ],
+    "usages": [
+      { "title": "① 治療法・理論として", "desc": "無意識を探る", "example_en": "Freud is the founder of psychoanalysis.", "example_ja": "フロイトは精神分析の創始者だ。" },
+      { "title": "② 治療を受ける", "desc": "自由連想など", "example_en": "She underwent psychoanalysis for several years.", "example_ja": "彼女は数年間、精神分析を受けた。" }
+    ],
+    "warn": ["語頭の p は黙字（サイコアナリシス）。専門家は psychoanalyst（精神分析家）、形容詞は psychoanalytic"],
+    "etym_note": "psycho-（心・精神。ギリシャ語 psyche より）と analysis（分析）を合わせた語。19世紀末〜20世紀初頭にフロイトが確立。",
+    "etym_chain": [
+      { "node": "psyche + analysis", "sub": "心の分析", "era": "20世紀初頭" },
+      { "node": "psychoanalysis", "sub": "精神分析", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "undergo psychoanalysis", "ja": "精神分析を受ける" },
+      { "en": "Freudian psychoanalysis", "ja": "フロイト派の精神分析" },
+      { "en": "the theory of psychoanalysis", "ja": "精神分析の理論" },
+      { "en": "practice psychoanalysis", "ja": "精神分析を行う" },
+      { "en": "classical psychoanalysis", "ja": "古典的精神分析" },
+      { "en": "a session of psychoanalysis", "ja": "精神分析のセッション" }
+    ],
+    "related": [
+      { "en": "psychology", "ja": "心理学" },
+      { "en": "psychiatry", "ja": "精神医学" },
+      { "en": "unconscious", "ja": "無意識" },
+      { "en": "therapy", "ja": "療法" }
+    ],
+    "faq": [
+      { "q": "psychoanalysis とは何ですか？", "a": "無意識の働きを探ることで心の問題を理解・治療しようとする理論と方法です。ジークムント・フロイトが創始し、自由連想や夢の分析などを用います。" },
+      { "q": "psychology とは違いますか？", "a": "はい。psychology（心理学）は心の働き全般を科学的に研究する広い学問で、psychoanalysis（精神分析）はその中の一つの理論・治療体系です。" }
+    ],
+    "quiz": [
+      { "q": "psychoanalysis の意味は？", "A": "精神分析", "B": "地質分析", "C": "化学分析", "D": "経済分析", "correct": "A" },
+      { "q": "精神分析の創始者は？", "A": "フロイト", "B": "ダーウィン", "C": "ニュートン", "D": "アインシュタイン", "correct": "A" }
+    ]
+  },
+  {
+    "english": "psychosurgery",
+    "pron": "ˌsaɪkoʊˈsɜːrdʒəri",
+    "kana": "サイコサージェリー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "psycho-（心）+ surgery（外科手術）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "医学"],
+    "meaning_main": "精神外科（脳の手術による精神疾患治療）",
+    "description": "psychosurgery（サイコサージェリー）は「精神外科」。重い精神疾患を脳の外科手術で治療しようとする分野です。ロボトミーなどの歴史で知られます。意味・使い方を解説します。",
+    "keywords": ["psychosurgery 意味", "精神外科", "ロボトミー", "脳手術"],
+    "meanings": [
+      { "hinshi": "【名詞】精神外科", "note": "脳に外科的処置を施して精神疾患を治療しようとする分野。不可算。歴史的にロボトミーで知られる" }
+    ],
+    "usages": [
+      { "title": "① 医学分野として", "desc": "脳手術による治療", "example_en": "Psychosurgery was controversial in the 20th century.", "example_ja": "精神外科は20世紀に物議を醸した。" },
+      { "title": "② 歴史的背景", "desc": "ロボトミーなど", "example_en": "Lobotomy is a notorious form of psychosurgery.", "example_ja": "ロボトミーは悪名高い精神外科の一つだ。" }
+    ],
+    "warn": ["語頭の p は黙字（サイコサージェリー）。ロボトミー（lobotomy）など過去の乱用で倫理的な批判を受けた歴史がある"],
+    "etym_note": "psycho-（心・精神）と surgery（外科手術。ギリシャ語 kheirourgia「手仕事」より）を合わせた語。20世紀に確立した。",
+    "etym_chain": [
+      { "node": "psyche + surgery", "sub": "心の外科", "era": "20世紀" },
+      { "node": "psychosurgery", "sub": "精神外科", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "undergo psychosurgery", "ja": "精神外科手術を受ける" },
+      { "en": "the history of psychosurgery", "ja": "精神外科の歴史" },
+      { "en": "controversial psychosurgery", "ja": "物議を醸す精神外科" },
+      { "en": "modern psychosurgery", "ja": "現代の精神外科" },
+      { "en": "a form of psychosurgery", "ja": "精神外科の一種" },
+      { "en": "ban psychosurgery", "ja": "精神外科を禁じる" }
+    ],
+    "related": [
+      { "en": "lobotomy", "ja": "ロボトミー" },
+      { "en": "surgery", "ja": "外科手術" },
+      { "en": "psychiatry", "ja": "精神医学" },
+      { "en": "neurosurgery", "ja": "脳神経外科" }
+    ],
+    "faq": [
+      { "q": "psychosurgery とは何ですか？", "a": "重い精神疾患を、脳への外科的処置によって治療しようとする分野です。20世紀に行われたロボトミーが有名ですが、乱用と重い後遺症から強い倫理的批判を受けました。" },
+      { "q": "今も行われているのですか？", "a": "かつてのロボトミーはほぼ廃れました。現在はごく限られた重症例に対し、より精密で慎重な方法（脳深部刺激など）が研究・実施されることがありますが、非常に限定的です。" }
+    ],
+    "quiz": [
+      { "q": "psychosurgery の意味は？", "A": "精神外科（脳の手術による治療）", "B": "美容整形", "C": "歯科治療", "D": "眼科手術", "correct": "A" },
+      { "q": "psychosurgery の歴史で有名な手術は？", "A": "ロボトミー", "B": "盲腸手術", "C": "白内障手術", "D": "骨折の手術", "correct": "A" }
+    ]
+  },
+  {
+    "english": "publicly",
+    "pron": "ˈpʌblɪkli",
+    "kana": "パブリクリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "public（公の）+ -ly",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出"],
+    "meaning_main": "公然と・人前で・公的に",
+    "description": "publicly（パブリクリー）は「公然と・人前で・公的に」。public の副詞形で、つづりは publically ではなく publicly が正しい点に注意します。意味・使い方を解説します。",
+    "keywords": ["publicly 意味", "公然と", "publicly つづり", "人前で"],
+    "meanings": [
+      { "hinshi": "【副詞】公然と・人前で", "note": "多くの人の前で・おおやけに。publicly announce（公に発表する）" },
+      { "hinshi": "【副詞】公的に・国により", "note": "publicly funded（公費で賄われた）、publicly owned（公有の）" }
+    ],
+    "usages": [
+      { "title": "① 公然と表明する", "desc": "人前で・おおやけに", "example_en": "He publicly apologized for the mistake.", "example_ja": "彼はその誤りを公然と謝罪した。" },
+      { "title": "② 公的に・公費で", "desc": "国や自治体による", "example_en": "The hospital is publicly funded.", "example_ja": "その病院は公費で運営されている。" }
+    ],
+    "warn": ["つづりは publicly が正しく、publically は誤り（-ic で終わる形容詞の副詞化の例外）"],
+    "etym_note": "ラテン語 publicus（公の。populus「人々」から）由来の public に -ly が付いた副詞。people・popular と同語源。",
+    "etym_chain": [
+      { "node": "publicus", "sub": "公の", "era": "ラテン語" },
+      { "node": "public", "sub": "公の", "era": "中英語" },
+      { "node": "publicly", "sub": "公然と", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "publicly announce", "ja": "公に発表する" },
+      { "en": "publicly available", "ja": "一般に入手できる" },
+      { "en": "publicly funded", "ja": "公費で賄われた" },
+      { "en": "publicly traded", "ja": "上場している" },
+      { "en": "speak publicly", "ja": "公の場で話す" },
+      { "en": "publicly owned", "ja": "公有の" }
+    ],
+    "related": [
+      { "en": "public", "ja": "公の・一般の" },
+      { "en": "openly", "ja": "公然と" },
+      { "en": "officially", "ja": "公式に" },
+      { "en": "privately", "ja": "内密に（反対）" }
+    ],
+    "faq": [
+      { "q": "publicly のつづりで注意する点は？", "a": "publicly が正しく、publically は誤りです。多くの -ic 形容詞は -ically と副詞化しますが、public は例外で publicly となります。" },
+      { "q": "publicly traded とはどういう意味ですか？", "a": "「（株式が）公開・上場されている」という意味です。証券取引所で一般の投資家が売買できる会社を publicly traded company（上場企業）と言います。" }
+    ],
+    "quiz": [
+      { "q": "publicly の意味は？", "A": "公然と・人前で・公的に", "B": "内緒で", "C": "偶然に", "D": "急いで", "correct": "A" },
+      { "q": "正しいつづりは？", "A": "publicly", "B": "publically", "C": "publicaly", "D": "publicley", "correct": "A" }
+    ]
+  },
+  {
+    "english": "published",
+    "pron": "ˈpʌblɪʃt",
+    "kana": "パブリッシュト",
+    "hinshi": "動詞（publish の過去・過去分詞）/ 形容詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 publicare（公にする）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "頻出"],
+    "meaning_main": "出版した・公表した／発表された",
+    "description": "published（パブリッシュト）は publish（出版する・公表する）の過去・過去分詞で「出版した・公表した」。形容詞で「発表された・刊行された」。意味・使い方を解説します。",
+    "keywords": ["published 意味", "publish 過去形", "出版した", "公表した"],
+    "meanings": [
+      { "hinshi": "【動詞】出版した・公表した（publish の過去・過去分詞）", "note": "本・記事などを世に出した、情報を公にした" },
+      { "hinshi": "【形容詞】発表された・刊行された", "note": "published author（著書のある作家）、published research（発表済みの研究）" }
+    ],
+    "usages": [
+      { "title": "① 出版・掲載された", "desc": "本・論文など", "example_en": "Her novel was published last year.", "example_ja": "彼女の小説は昨年出版された。" },
+      { "title": "② 公表された", "desc": "情報・結果など", "example_en": "The results were published online.", "example_ja": "その結果はオンラインで公表された。" }
+    ],
+    "warn": ["published author は『著書を出したことのある作家』で、プロの証とされる。printed（印刷された）とは意味が異なる"],
+    "etym_note": "ラテン語 publicare（公にする。publicus「公の」から）由来の publish に -ed が付いた形。public と同語源。",
+    "etym_chain": [
+      { "node": "publicare", "sub": "公にする", "era": "ラテン語" },
+      { "node": "publish", "sub": "出版する", "era": "中英語" },
+      { "node": "published", "sub": "出版した・公表した", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "published author", "ja": "著書のある作家" },
+      { "en": "recently published", "ja": "最近出版された" },
+      { "en": "published online", "ja": "オンラインで公表された" },
+      { "en": "a published work", "ja": "刊行された作品" },
+      { "en": "widely published", "ja": "広く発表された" },
+      { "en": "published research", "ja": "発表済みの研究" }
+    ],
+    "related": [
+      { "en": "publish", "ja": "出版する・公表する" },
+      { "en": "publication", "ja": "出版（物）" },
+      { "en": "publisher", "ja": "出版社・出版者" },
+      { "en": "unpublished", "ja": "未発表の（反対）" }
+    ],
+    "faq": [
+      { "q": "published author とはどういう意味ですか？", "a": "「著書を出版したことのある作家」という意味です。自費出版や商業出版を問わず、実際に作品が世に出た作家を指し、プロの作家の証とされます。" },
+      { "q": "published と printed の違いは？", "a": "printed は単に『印刷された』こと、published は『（世の中に向けて）出版・公表された』ことを指します。印刷しただけでは published とは言いません。" }
+    ],
+    "quiz": [
+      { "q": "published の意味は？", "A": "出版した・公表した", "B": "隠した", "C": "破棄した", "D": "翻訳した", "correct": "A" },
+      { "q": "published author の意味は？", "A": "著書のある作家", "B": "無名の読者", "C": "印刷工", "D": "書店員", "correct": "A" }
+    ]
+  },
+  {
+    "english": "publishing",
+    "pron": "ˈpʌblɪʃɪŋ",
+    "kana": "パブリッシング",
+    "hinshi": "名詞 / 動詞（publish の現在分詞）",
+    "ld_pos": "名詞",
+    "ld_etym": "publish（出版する）+ -ing",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出"],
+    "meaning_main": "出版（業）・刊行",
+    "description": "publishing（パブリッシング）は「出版・出版業」。本や雑誌などを世に出す仕事や産業を指します。publishing house（出版社）で頻出。意味・使い方・例文を解説します。",
+    "keywords": ["publishing 意味", "出版業", "publishing house", "刊行"],
+    "meanings": [
+      { "hinshi": "【名詞】出版・出版業", "note": "本・雑誌・電子コンテンツなどを制作し世に出す仕事や産業。不可算" },
+      { "hinshi": "【動詞】出版している（publish の現在分詞）", "note": "進行形・動名詞で" }
+    ],
+    "usages": [
+      { "title": "① 産業・業界として", "desc": "出版ビジネス", "example_en": "She works in the publishing industry.", "example_ja": "彼女は出版業界で働いている。" },
+      { "title": "② publishing house", "desc": "「出版社」", "example_en": "The book was released by a major publishing house.", "example_ja": "その本は大手出版社から刊行された。" }
+    ],
+    "warn": ["publishing house / publishing company で『出版社』。self-publishing は『自費出版』、desktop publishing（DTP）は『卓上出版』"],
+    "etym_note": "動詞 publish（公にする・出版する。ラテン語 publicare より）の -ing 形が名詞化した語。",
+    "etym_chain": [
+      { "node": "publicare", "sub": "公にする", "era": "ラテン語" },
+      { "node": "publish", "sub": "出版する", "era": "中英語" },
+      { "node": "publishing", "sub": "出版業", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "publishing house", "ja": "出版社" },
+      { "en": "publishing industry", "ja": "出版業界" },
+      { "en": "self-publishing", "ja": "自費出版" },
+      { "en": "digital publishing", "ja": "電子出版" },
+      { "en": "publishing rights", "ja": "出版権" },
+      { "en": "desktop publishing", "ja": "卓上出版（DTP）" }
+    ],
+    "related": [
+      { "en": "publish", "ja": "出版する" },
+      { "en": "publisher", "ja": "出版社・出版者" },
+      { "en": "publication", "ja": "出版物" },
+      { "en": "printing", "ja": "印刷" }
+    ],
+    "faq": [
+      { "q": "publishing と printing の違いは？", "a": "printing（印刷）は紙にインクで刷る製造工程、publishing（出版）は企画・編集・流通まで含めて作品を世に送り出す事業全体を指します。出版の一工程が印刷です。" },
+      { "q": "self-publishing とは何ですか？", "a": "「自費出版」のことです。出版社を通さず、著者自身が費用や工程を負担して作品を刊行することを指します。電子書籍の普及で身近になりました。" }
+    ],
+    "quiz": [
+      { "q": "publishing の意味は？", "A": "出版・出版業", "B": "印刷機", "C": "図書館", "D": "書店", "correct": "A" },
+      { "q": "publishing house の意味は？", "A": "出版社", "B": "印刷所", "C": "書店", "D": "図書館", "correct": "A" }
+    ]
+  },
+  {
+    "english": "puffin",
+    "pron": "ˈpʌfɪn",
+    "kana": "パフィン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "中英語 poffin（海鳥の名）",
+    "ld_level": "1級",
+    "badges": ["中学生〜", "英検1級", "CEFR B2", "動物"],
+    "meaning_main": "ツノメドリ（パフィン）",
+    "description": "puffin（パフィン）は「ツノメドリ」。カラフルで大きなくちばしを持つ、北の海に生息する愛らしい海鳥です。意味・特徴・例文をわかりやすく解説します。",
+    "keywords": ["puffin 意味", "ツノメドリ", "パフィン 鳥", "海鳥"],
+    "meanings": [
+      { "hinshi": "【名詞】ツノメドリ", "note": "北大西洋・北太平洋に生息する海鳥。大きく色鮮やかなくちばしが特徴。可算" }
+    ],
+    "usages": [
+      { "title": "① 海鳥として", "desc": "特徴的なくちばし", "example_en": "Puffins nest in burrows on cliffs.", "example_ja": "ツノメドリは崖の巣穴に営巣する。" },
+      { "title": "② 観察・観光で", "desc": "人気の野鳥", "example_en": "Tourists visit the island to see puffins.", "example_ja": "観光客はツノメドリを見にその島を訪れる。" }
+    ],
+    "warn": ["penguin（ペンギン）とは別の鳥。パフィンは飛べるし、主に北半球の海に生息する"],
+    "etym_note": "中英語 poffin（もとは塩漬けにした幼鳥を指したとされる）に由来。ふっくらした姿から puff（膨らむ）と結びつけられることも。",
+    "etym_chain": [
+      { "node": "poffin", "sub": "海鳥（の幼鳥）", "era": "中英語" },
+      { "node": "puffin", "sub": "ツノメドリ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a colony of puffins", "ja": "ツノメドリの群れ" },
+      { "en": "Atlantic puffin", "ja": "ニシツノメドリ" },
+      { "en": "puffin colony", "ja": "ツノメドリの繁殖地" },
+      { "en": "see puffins", "ja": "ツノメドリを見る" },
+      { "en": "a nesting puffin", "ja": "営巣中のツノメドリ" },
+      { "en": "puffin beak", "ja": "ツノメドリのくちばし" }
+    ],
+    "related": [
+      { "en": "seabird", "ja": "海鳥" },
+      { "en": "penguin", "ja": "ペンギン" },
+      { "en": "cliff", "ja": "崖" },
+      { "en": "colony", "ja": "繁殖地・コロニー" }
+    ],
+    "faq": [
+      { "q": "puffin とはどんな鳥ですか？", "a": "北の海に生息する海鳥で、大きく色鮮やかなオレンジ色のくちばしが特徴です。崖の巣穴に営巣し、泳ぎも飛ぶのも得意な愛らしい鳥です。" },
+      { "q": "ペンギンとは違うのですか？", "a": "はい、別の鳥です。ペンギンは飛べず主に南半球にすみますが、パフィン（ツノメドリ）は空を飛べて、北大西洋や北太平洋に生息します。" }
+    ],
+    "quiz": [
+      { "q": "puffin の意味は？", "A": "ツノメドリ（海鳥）", "B": "ペンギン", "C": "わし", "D": "すずめ", "correct": "A" },
+      { "q": "puffin の特徴は？", "A": "大きく色鮮やかなくちばし", "B": "長い首", "C": "赤いとさか", "D": "白黒のしま模様の脚", "correct": "A" }
+    ]
+  },
+  {
+    "english": "pulpit",
+    "pron": "ˈpʊlpɪt",
+    "kana": "プルピット",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 pulpitum（演壇）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "宗教"],
+    "meaning_main": "説教壇／（比喩的に）意見発信の場",
+    "description": "pulpit（プルピット）は「（教会の）説教壇」。牧師が説教を行う一段高い台です。比喩的に『意見を発信する立場』も指します。意味・使い方・例文を解説します。",
+    "keywords": ["pulpit 意味", "説教壇", "bully pulpit", "pulpit 使い方"],
+    "meanings": [
+      { "hinshi": "【名詞】説教壇", "note": "教会で牧師・神父が説教をする一段高い台" },
+      { "hinshi": "【名詞】意見発信の場・地位", "note": "比喩的に、広く意見を訴えられる立場。bully pulpit（影響力のある発言の場）" }
+    ],
+    "usages": [
+      { "title": "① 教会の説教壇", "desc": "説教を行う台", "example_en": "The priest stood at the pulpit.", "example_ja": "神父は説教壇に立った。" },
+      { "title": "② bully pulpit", "desc": "比喩的な発言の場", "example_en": "The president used the office as a bully pulpit.", "example_ja": "大統領はその地位を意見発信の場として使った。" }
+    ],
+    "warn": ["bully pulpit は『（地位を利用した）意見発信の絶好の場』。ここでの bully は『いじめ』ではなく『すばらしい』の古い意味"],
+    "etym_note": "ラテン語 pulpitum（演壇・舞台）に由来。教会の説教台の意味で英語に定着した。",
+    "etym_chain": [
+      { "node": "pulpitum", "sub": "演壇", "era": "ラテン語" },
+      { "node": "pulpit", "sub": "説教壇", "era": "中英語" },
+      { "node": "pulpit", "sub": "説教壇", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "stand at the pulpit", "ja": "説教壇に立つ" },
+      { "en": "bully pulpit", "ja": "意見発信の絶好の場" },
+      { "en": "preach from the pulpit", "ja": "説教壇から説く" },
+      { "en": "a wooden pulpit", "ja": "木製の説教壇" },
+      { "en": "climb into the pulpit", "ja": "説教壇に上がる" },
+      { "en": "use as a pulpit", "ja": "意見発信の場に使う" }
+    ],
+    "related": [
+      { "en": "sermon", "ja": "説教" },
+      { "en": "preacher", "ja": "説教者" },
+      { "en": "church", "ja": "教会" },
+      { "en": "podium", "ja": "演壇" }
+    ],
+    "faq": [
+      { "q": "pulpit と podium の違いは？", "a": "pulpit は主に『教会の説教壇』を指します。podium は一般的な『演壇・指揮台』です。pulpit には宗教的な文脈と、比喩的な『意見発信の場』の意味があります。" },
+      { "q": "bully pulpit とは何ですか？", "a": "「（地位や立場を利用して）広く意見を訴えられる絶好の場」という意味です。ここでの bully は古い意味の『すばらしい』で、いじめとは関係ありません。" }
+    ],
+    "quiz": [
+      { "q": "pulpit の意味は？", "A": "説教壇", "B": "祭壇", "C": "地下室", "D": "鐘楼", "correct": "A" },
+      { "q": "bully pulpit の意味は？", "A": "意見を訴える絶好の場", "B": "けんかの場", "C": "運動場", "D": "刑務所", "correct": "A" }
+    ]
+  },
+  {
+    "english": "pummel",
+    "pron": "ˈpʌməl",
+    "kana": "パメル",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "pommel（鞍頭・柄頭）から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "上級"],
+    "meaning_main": "こぶしで続けざまに打つ・めった打ちにする",
+    "description": "pummel（パメル）は「こぶしで続けざまに打つ・めった打ちにする」。激しく何度も殴りつける様子を表す語です。比喩的に「打ちのめす」とも。意味・使い方を解説します。",
+    "keywords": ["pummel 意味", "めった打ち", "pummel 使い方", "殴る"],
+    "meanings": [
+      { "hinshi": "【動詞】こぶしで続けざまに打つ", "note": "何度も激しく殴りつける。pummel/pummeled/pummeling" },
+      { "hinshi": "【動詞】打ちのめす・徹底的に叩く", "note": "比喩的に、試合・批判などで圧倒する" }
+    ],
+    "usages": [
+      { "title": "① 続けざまに殴る", "desc": "拳で激しく打つ", "example_en": "He pummeled the punching bag.", "example_ja": "彼はサンドバッグを続けざまに叩いた。" },
+      { "title": "② 比喩的に打ちのめす", "desc": "圧倒する", "example_en": "The team was pummeled in the final.", "example_ja": "そのチームは決勝でこてんぱんにやられた。" }
+    ],
+    "warn": ["pommel（鞍頭・剣の柄頭）が語源。動詞 pummel はイギリスでは pummelled と l を重ねる綴りも使う"],
+    "etym_note": "pommel（鞍の前部の丸い突起・柄頭）から派生し、『こぶしで（柄頭のように丸めた手で）打つ』の意味になった。",
+    "etym_chain": [
+      { "node": "pomel", "sub": "丸い突起・柄頭", "era": "古仏語" },
+      { "node": "pommel", "sub": "鞍頭・柄頭", "era": "中英語" },
+      { "node": "pummel", "sub": "こぶしで打つ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "pummel with fists", "ja": "こぶしで殴りつける" },
+      { "en": "pummel the bag", "ja": "サンドバッグを叩く" },
+      { "en": "pummel someone", "ja": "〜をめった打ちにする" },
+      { "en": "get pummeled", "ja": "こてんぱんにやられる" },
+      { "en": "pummel repeatedly", "ja": "続けざまに打つ" },
+      { "en": "pummel into submission", "ja": "打ちのめして屈服させる" }
+    ],
+    "related": [
+      { "en": "punch", "ja": "こぶしで打つ" },
+      { "en": "beat", "ja": "打つ・叩く" },
+      { "en": "pound", "ja": "強く打つ" },
+      { "en": "batter", "ja": "続けざまに打つ" }
+    ],
+    "faq": [
+      { "q": "pummel と punch の違いは？", "a": "punch は『一発（または数発）こぶしで打つ』、pummel は『続けざまに何度も激しく殴る・めった打ちにする』ことを表します。pummel のほうが連続性と激しさが強い語です。" },
+      { "q": "比喩的にも使えますか？", "a": "はい。スポーツで『こてんぱんに負かす』、批判や悪天候などが『打ちのめす』といった比喩的な使い方もよくされます。" }
+    ],
+    "quiz": [
+      { "q": "pummel の意味は？", "A": "こぶしで続けざまに打つ", "B": "そっと撫でる", "C": "静かに歩く", "D": "軽く笑う", "correct": "A" },
+      { "q": "pummel に近い意味の語は？", "A": "batter", "B": "caress", "C": "whisper", "D": "praise", "correct": "A" }
+    ]
+  },
+  {
+    "english": "pun",
+    "pron": "pʌn",
+    "kana": "パン",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "由来不明（17世紀の口語）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "頻出"],
+    "meaning_main": "だじゃれ・語呂合わせ・言葉遊び",
+    "description": "pun（パン）は「だじゃれ・語呂合わせ」。同音・多義の語を使った言葉遊びのことです。make a pun（だじゃれを言う）で頻出。意味・使い方・例文を解説します。",
+    "keywords": ["pun 意味", "だじゃれ", "語呂合わせ", "pun 使い方"],
+    "meanings": [
+      { "hinshi": "【名詞】だじゃれ・語呂合わせ", "note": "同じ音や複数の意味を持つ語を利用した言葉遊び。可算" },
+      { "hinshi": "【動詞】だじゃれを言う", "note": "pun on〜で「〜で語呂合わせをする」" }
+    ],
+    "usages": [
+      { "title": "① だじゃれを言う", "desc": "make a pun", "example_en": "He loves to make puns.", "example_ja": "彼はだじゃれを言うのが大好きだ。" },
+      { "title": "② pun intended", "desc": "「だじゃれのつもり」の決まり文句", "example_en": "It was a huge success, no pun intended.", "example_ja": "大成功だった、だじゃれのつもりはないけど。" }
+    ],
+    "warn": ["no pun intended（だじゃれのつもりはない）/ pun intended（だじゃれです）は会話でよく使う決まり文句"],
+    "etym_note": "17世紀に現れた口語で、確かな語源は不明。イタリア語 puntiglio（細かい点）由来説などがある。",
+    "etym_chain": [
+      { "node": "?", "sub": "由来不明", "era": "17世紀" },
+      { "node": "pun", "sub": "だじゃれ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "make a pun", "ja": "だじゃれを言う" },
+      { "en": "pun intended", "ja": "だじゃれです" },
+      { "en": "no pun intended", "ja": "だじゃれのつもりはない" },
+      { "en": "a clever pun", "ja": "気の利いた語呂合わせ" },
+      { "en": "a terrible pun", "ja": "ひどいだじゃれ" },
+      { "en": "pun on words", "ja": "言葉遊び" }
+    ],
+    "related": [
+      { "en": "wordplay", "ja": "言葉遊び" },
+      { "en": "joke", "ja": "冗談" },
+      { "en": "double meaning", "ja": "二重の意味" },
+      { "en": "humor", "ja": "ユーモア" }
+    ],
+    "faq": [
+      { "q": "no pun intended とはどういう意味ですか？", "a": "「だじゃれのつもりはないけれど」という前置きの決まり文句です。たまたまだじゃれのように聞こえてしまう表現を使ったときに添えます。わざとの場合は pun intended と言います。" },
+      { "q": "pun と joke の違いは？", "a": "joke は『冗談』全般、pun はその中でも特に『同音や多義の語を利用した言葉遊び（だじゃれ・語呂合わせ）』を指します。" }
+    ],
+    "quiz": [
+      { "q": "pun の意味は？", "A": "だじゃれ・語呂合わせ", "B": "本気の主張", "C": "深い悲しみ", "D": "正式な演説", "correct": "A" },
+      { "q": "no pun intended の意味は？", "A": "だじゃれのつもりはない", "B": "本気で言っている", "C": "急いでいる", "D": "怒っている", "correct": "A" }
+    ]
+  },
+  {
+    "english": "punt",
+    "pron": "pʌnt",
+    "kana": "パント",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 ponto（平底舟）/ 球技用語",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "スポーツ"],
+    "meaning_main": "パント（球を手放し蹴る）／平底舟（で進む）",
+    "description": "punt（パント）は、アメフト・ラグビーで「（手から落として）蹴るパント」。また「平底の舟（で棹をさして進む）」も指します。意味・使い方・例文を解説します。",
+    "keywords": ["punt 意味", "パント サッカー", "平底舟", "punt 使い方"],
+    "meanings": [
+      { "hinshi": "【名詞・動詞】パント（する）", "note": "アメフト・ラグビーで、手から落とした球を地面につく前に蹴ること" },
+      { "hinshi": "【名詞・動詞】平底舟（で進む）", "note": "棹（さお）で川底を押して進む平底の舟。英の川遊びで有名" },
+      { "hinshi": "【動詞】（英・口語）賭ける・やってみる", "note": "take a punt で「一か八かやってみる」" }
+    ],
+    "usages": [
+      { "title": "① スポーツのパント", "desc": "手放して蹴る", "example_en": "The punter punted the ball downfield.", "example_ja": "パンターはボールを敵陣へ蹴り込んだ。" },
+      { "title": "② 平底舟で川下り", "desc": "英ケンブリッジなどで有名", "example_en": "We went punting on the river.", "example_ja": "私たちは川で平底舟遊びをした。" }
+    ],
+    "warn": ["文脈でスポーツの『パント』・川の『平底舟』・英口語の『賭け／挑戦』と意味が変わる"],
+    "etym_note": "『平底舟』はラテン語 ponto（渡し舟）由来。『球を蹴るパント』は19世紀の球技用語で、別系統とされる。",
+    "etym_chain": [
+      { "node": "ponto", "sub": "平底舟", "era": "ラテン語" },
+      { "node": "punt", "sub": "平底舟", "era": "古英語" },
+      { "node": "punt", "sub": "パント・平底舟", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "punt the ball", "ja": "ボールをパントする" },
+      { "en": "go punting", "ja": "平底舟遊びに行く" },
+      { "en": "a punt on the river", "ja": "川の平底舟" },
+      { "en": "take a punt", "ja": "一か八かやってみる（英）" },
+      { "en": "punt return", "ja": "パントリターン" },
+      { "en": "punt downfield", "ja": "敵陣へ蹴り込む" }
+    ],
+    "related": [
+      { "en": "kick", "ja": "蹴る" },
+      { "en": "boat", "ja": "舟" },
+      { "en": "gamble", "ja": "賭ける" },
+      { "en": "football", "ja": "アメフト・サッカー" }
+    ],
+    "faq": [
+      { "q": "スポーツの punt とは何ですか？", "a": "アメフトやラグビーで、手から落としたボールが地面につく前に蹴ることです。相手陣地の奥へボールを送るために使われます。蹴る選手を punter と呼びます。" },
+      { "q": "イギリスの punt（舟）とは？", "a": "棹（さお）で川底を押して進む平底の舟です。ケンブリッジやオックスフォードの川遊びとして有名で、go punting で『平底舟に乗って遊びに行く』を意味します。" }
+    ],
+    "quiz": [
+      { "q": "スポーツでの punt の意味は？", "A": "手から落とした球を蹴ること", "B": "球を投げること", "C": "球を止めること", "D": "球を隠すこと", "correct": "A" },
+      { "q": "イギリスの punt が指す乗り物は？", "A": "平底の舟", "B": "自転車", "C": "馬車", "D": "気球", "correct": "A" }
+    ]
+  },
+  {
+    "english": "pup",
+    "pron": "pʌp",
+    "kana": "パップ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "puppy（子犬）の短縮",
+    "ld_level": "3級",
+    "badges": ["小学生〜", "英検3級", "CEFR A2", "動物"],
+    "meaning_main": "子犬／（アザラシなどの）子",
+    "description": "pup（パップ）は「子犬」。puppy の短縮形です。また、アザラシ・アシカ・オオカミなどの動物の子も指します。意味・使い方・例文をわかりやすく解説します。",
+    "keywords": ["pup 意味", "子犬", "puppy 短縮", "アザラシの子"],
+    "meanings": [
+      { "hinshi": "【名詞】子犬", "note": "puppy の短縮形。可算" },
+      { "hinshi": "【名詞】（動物の）子", "note": "アザラシ・アシカ・オオカミ・コウモリなどの子。seal pup（アザラシの子）" }
+    ],
+    "usages": [
+      { "title": "① 子犬として", "desc": "puppy と同義", "example_en": "The pup wagged its tail happily.", "example_ja": "その子犬は嬉しそうにしっぽを振った。" },
+      { "title": "② 動物の子", "desc": "seal pup など", "example_en": "A baby seal is called a pup.", "example_ja": "アザラシの赤ちゃんは pup と呼ばれる。" }
+    ],
+    "warn": ["犬だけでなくアザラシ・オオカミなどの子も pup。子猫は kitten、子牛は calf など動物ごとに呼び名が異なる"],
+    "etym_note": "puppy（子犬。古仏語 poupée「人形」由来とされる）を短縮した語。かわいらしい小動物の子を広く指すようになった。",
+    "etym_chain": [
+      { "node": "poupée", "sub": "人形", "era": "古仏語" },
+      { "node": "puppy", "sub": "子犬", "era": "近代英語" },
+      { "node": "pup", "sub": "子犬・動物の子", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a cute pup", "ja": "かわいい子犬" },
+      { "en": "seal pup", "ja": "アザラシの子" },
+      { "en": "a litter of pups", "ja": "ひと腹の子犬たち" },
+      { "en": "raise a pup", "ja": "子犬を育てる" },
+      { "en": "wolf pup", "ja": "オオカミの子" },
+      { "en": "a playful pup", "ja": "やんちゃな子犬" }
+    ],
+    "related": [
+      { "en": "puppy", "ja": "子犬" },
+      { "en": "dog", "ja": "犬" },
+      { "en": "kitten", "ja": "子猫" },
+      { "en": "cub", "ja": "（熊・ライオンなどの）子" }
+    ],
+    "faq": [
+      { "q": "pup と puppy の違いは？", "a": "基本的に同じ『子犬』を意味し、pup は puppy の短縮形です。ただし pup はアザラシやオオカミなど、犬以外の動物の子にも使えるのに対し、puppy は主に子犬を指します。" },
+      { "q": "犬以外の動物の子も pup と言いますか？", "a": "はい。アザラシ・アシカ・オオカミ・コウモリ・サメなどの子を pup と呼びます。一方、熊やライオンの子は cub、猫の子は kitten と呼び分けます。" }
+    ],
+    "quiz": [
+      { "q": "pup の意味は？", "A": "子犬・（動物の）子", "B": "老犬", "C": "鳥", "D": "魚", "correct": "A" },
+      { "q": "seal pup の意味は？", "A": "アザラシの子", "B": "犬小屋", "C": "封筒", "D": "印鑑", "correct": "A" }
+    ]
+  }
+]
