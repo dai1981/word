@@ -1,0 +1,995 @@
+[
+{
+  "english": "grilled",
+  "pron": "ɡrɪld",
+  "kana": "グリルド",
+  "hinshi": "形容詞 / 動詞(過去・過去分詞)",
+  "ld_pos": "形容詞",
+  "ld_etym": "grill(網焼きにする)+-ed",
+  "ld_level": "3級",
+  "badges": ["中学生〜", "英検3級", "CEFR A2", "形容詞"],
+  "meaning_main": "網焼きの/直火で焼いた/(口語)厳しく問い詰められた",
+  "description": "grilled（グリルド）は「網焼きの・直火で焼いた」。grilled fish(焼き魚)などで使う。口語で「厳しく質問された」の意味も。動詞grillの過去分詞。意味・使い方・例文を解説。",
+  "keywords": ["grilled 意味", "grilled fish", "grill 過去形", "grilled 例文"],
+  "meanings": [
+    { "hinshi": "【形容詞】網焼きの・直火で焼いた", "note": "網や鉄板で直火焼きにした食べ物について" },
+    { "hinshi": "【動詞】grill の過去・過去分詞", "note": "grill（網焼きにする／(口語)厳しく問い詰める）の活用形" }
+  ],
+  "usages": [
+    { "title": "① grilled fish（焼き魚）", "desc": "直火で焼いた魚", "example_en": "We had grilled fish for dinner.", "example_ja": "私たちは夕食に焼き魚を食べた。" },
+    { "title": "② be grilled by（〜に厳しく問い詰められる）", "desc": "口語表現", "example_en": "The suspect was grilled by the police.", "example_ja": "容疑者は警察に厳しく問い詰められた。" }
+  ],
+  "warn": ["料理では『網焼き・直火焼き』。イギリスでは grill が『(上火の)ロースター』を指し、アメリカの broil に近い", "口語で『(質問攻めで)厳しく問い詰める』の意味もある"],
+  "etym_note": "grill（フランス語 gril「焼き網」由来。『網焼きにする』）＋-ed。「網焼きにした」。",
+  "etym_chain": [
+    { "node": "gril", "sub": "焼き網(フランス語)", "era": "フランス語" },
+    { "node": "grill", "sub": "網焼きにする", "era": "近代英語" },
+    { "node": "grilled", "sub": "網焼きの", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "grilled fish", "ja": "焼き魚" },
+    { "en": "grilled chicken", "ja": "焼き鶏・グリルチキン" },
+    { "en": "grilled vegetables", "ja": "焼き野菜" },
+    { "en": "grilled cheese", "ja": "グリルドチーズ(サンド)" },
+    { "en": "be grilled by", "ja": "〜に厳しく問い詰められる" },
+    { "en": "grilled to perfection", "ja": "見事に焼き上げられた" }
+  ],
+  "related": [
+    { "en": "grill", "ja": "網焼きにする・焼き網" },
+    { "en": "roasted", "ja": "オーブンで焼いた・あぶった" },
+    { "en": "broiled", "ja": "(上火で)焼いた" },
+    { "en": "barbecued", "ja": "バーベキューした" }
+  ],
+  "faq": [
+    { "q": "grilled と roasted の違いは？", "a": "grilled は『網や鉄板で直火焼きにした』、roasted は『オーブンなどでじっくり焼いた・あぶった』です。grilled fish（網焼きの魚）と roasted chicken（ローストチキン）のように使い分けます。" },
+    { "q": "be grilled の口語の意味は？", "a": "『(質問攻めにして)厳しく問い詰められる』という意味です。The candidate was grilled about his past.（候補者は過去について厳しく追及された）のように使います。" }
+  ],
+  "quiz": [
+    { "q": "grilled fish の意味は？", "A": "焼き魚(網焼きの魚)", "B": "生魚", "C": "煮魚", "D": "揚げ魚", "correct": "A" },
+    { "q": "be grilled の口語の意味は？", "A": "厳しく問い詰められる", "B": "ほめられる", "C": "無視される", "D": "招待される", "correct": "A" }
+  ]
+},
+{
+  "english": "idly",
+  "pron": "ˈaɪdli",
+  "kana": "アイドリー",
+  "hinshi": "副詞",
+  "ld_pos": "副詞",
+  "ld_etym": "idle(何もしない・怠惰な)+-ly",
+  "ld_level": "準1級",
+  "badges": ["高校生〜", "英検準1級", "CEFR B2", "副詞"],
+  "meaning_main": "何もせずに/ぼんやりと/手持ちぶさたに",
+  "description": "idly（アイドリー）は「何もせずに・ぼんやりと・手持ちぶさたに」。特に目的もなくのんびり過ごす様子を表す副詞。idle(何もしない)の副詞形。意味・使い方・例文を解説。",
+  "keywords": ["idly 意味", "idle 副詞", "ぼんやりと 英語", "idly 例文"],
+  "meanings": [
+    { "hinshi": "【副詞】何もせずに・ぼんやりと", "note": "特に目的もなく、のんびり・手持ちぶさたに" },
+    { "hinshi": "【副詞】なんとなく・気まぐれに", "note": "深い考えなしに(idly wonder＝ふと思う)" }
+  ],
+  "usages": [
+    { "title": "① sit idly（何もせず座っている）", "desc": "手持ちぶさたな様子", "example_en": "He sat idly by the window.", "example_ja": "彼は窓辺で何をするでもなく座っていた。" },
+    { "title": "② idly wonder（ふと思う）", "desc": "なんとなく考える", "example_en": "She idly wondered what he was doing.", "example_ja": "彼女はふと彼が何をしているのかと思った。" }
+  ],
+  "warn": ["形容詞は idle（何もしていない・怠惰な・(機械が)遊んでいる）", "sit idly by（何もせず傍観する）は『手をこまねいて見ている』という定型表現"],
+  "etym_note": "idle（古英語 īdel「むなしい・無為の」）＋-ly。「無為に・ぼんやりと」。",
+  "etym_chain": [
+    { "node": "īdel", "sub": "むなしい・無為の(古英語)", "era": "古英語" },
+    { "node": "idle", "sub": "何もしない・怠惰な", "era": "中英語" },
+    { "node": "idly", "sub": "何もせずに", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "sit idly", "ja": "何もせず座っている" },
+    { "en": "sit idly by", "ja": "手をこまねいて傍観する" },
+    { "en": "idly wonder", "ja": "ふと思う" },
+    { "en": "stand idly", "ja": "ぼんやり立っている" },
+    { "en": "idly chat", "ja": "とりとめなくおしゃべりする" },
+    { "en": "gaze idly", "ja": "ぼんやり眺める" }
+  ],
+  "related": [
+    { "en": "idle", "ja": "何もしない・怠惰な" },
+    { "en": "lazily", "ja": "怠けて・のんびり" },
+    { "en": "aimlessly", "ja": "あてもなく" },
+    { "en": "absentmindedly", "ja": "うわの空で" }
+  ],
+  "faq": [
+    { "q": "sit idly by とは？", "a": "『何もせずに傍観する・手をこまねいて見ている』という定型表現です。We cannot sit idly by.（黙って見過ごすわけにはいかない）のように使います。" },
+    { "q": "idly と lazily の違いは？", "a": "idly は『(することがなく)何もせず・ぼんやり』、lazily は『(やる気がなく)怠けて・だらだら』というニュアンスの違いがあります。" }
+  ],
+  "quiz": [
+    { "q": "idly の意味は？", "A": "何もせずに・ぼんやりと", "B": "急いで", "C": "熱心に", "D": "正確に", "correct": "A" },
+    { "q": "sit idly by の意味は？", "A": "何もせず傍観する", "B": "急いで助ける", "C": "熱心に働く", "D": "静かに眠る", "correct": "A" }
+  ]
+},
+{
+  "english": "impropriety",
+  "pron": "ˌɪmprəˈpraɪəti",
+  "kana": "インプロプライエティ",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "im-(否定)+propriety(礼儀正しさ)",
+  "ld_level": "1級",
+  "badges": ["大学生〜", "英検1級", "CEFR C1", "名詞"],
+  "meaning_main": "不適切な行為/不品行/礼儀に反すること",
+  "description": "impropriety（インプロプライエティ）は「不適切な行為・不品行・礼儀に反すること」。道義・礼儀・規範にそぐわない振る舞いを表す。propriety(礼儀正しさ)の否定。意味・使い方・例文を解説。",
+  "keywords": ["impropriety 意味", "propriety 否定", "不適切 英語", "impropriety 例文"],
+  "meanings": [
+    { "hinshi": "【名詞】不適切な行為・不品行", "note": "道義・礼儀・規範にそぐわない振る舞い。可算(個々の行為)・不可算(性質)" },
+    { "hinshi": "【名詞】礼儀に反すること", "note": "場にふさわしくない言動・不作法" }
+  ],
+  "usages": [
+    { "title": "① financial impropriety（金銭上の不正)", "desc": "不適切な金銭行為", "example_en": "He was accused of financial impropriety.", "example_ja": "彼は金銭上の不正を疑われた。" },
+    { "title": "② any hint of impropriety（不適切さの気配)", "desc": "疑いを避ける", "example_en": "They wanted to avoid any hint of impropriety.", "example_ja": "彼らはいかなる不適切さの疑いも避けたかった。" }
+  ],
+  "warn": ["対義語は propriety（礼儀正しさ・適切さ）。形容詞は improper（不適切な）⇔ proper（適切な）", "しばしば政治・ビジネスで『不正・不品行』の婉曲な言い方として使う"],
+  "etym_note": "im-（否定）＋propriety（proper「適切な」＝ラテン語 proprius「自分自身の・固有の」由来＋-ty）。「適切さがないこと」。",
+  "etym_chain": [
+    { "node": "proprius", "sub": "固有の・適切な(ラテン語)", "era": "ラテン語" },
+    { "node": "propriety", "sub": "礼儀正しさ・適切さ", "era": "近代英語" },
+    { "node": "impropriety", "sub": "不適切な行為", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "financial impropriety", "ja": "金銭上の不正" },
+    { "en": "a hint of impropriety", "ja": "不適切さの気配" },
+    { "en": "sexual impropriety", "ja": "性的な不品行" },
+    { "en": "avoid impropriety", "ja": "不適切さを避ける" },
+    { "en": "an act of impropriety", "ja": "不適切な行為" },
+    { "en": "no impropriety", "ja": "不正はない" }
+  ],
+  "related": [
+    { "en": "propriety", "ja": "礼儀正しさ・適切さ" },
+    { "en": "improper", "ja": "不適切な" },
+    { "en": "misconduct", "ja": "不正行為・非行" },
+    { "en": "indecency", "ja": "下品・みだらさ" }
+  ],
+  "faq": [
+    { "q": "impropriety の対義語は？", "a": "propriety（礼儀正しさ・適切さ・妥当さ）です。形容詞では improper（不適切な）⇔ proper（適切な）が対になります。" },
+    { "q": "misconduct との違いは？", "a": "どちらも『不正・不品行』を表します。impropriety は『礼儀・規範にそぐわない不適切さ』を婉曲に指し、misconduct は『(職務上などの)明確な不正行為・違反』を指すことが多いです。" }
+  ],
+  "quiz": [
+    { "q": "impropriety の意味は？", "A": "不適切な行為・不品行", "B": "礼儀正しさ", "C": "正直さ", "D": "寛大さ", "correct": "A" },
+    { "q": "impropriety の対義語は？", "A": "propriety(礼儀正しさ)", "B": "property(財産)", "C": "prosperity(繁栄)", "D": "priority(優先)", "correct": "A" }
+  ]
+},
+{
+  "english": "internally",
+  "pron": "ɪnˈtɜːrnəli",
+  "kana": "インターナリー",
+  "hinshi": "副詞",
+  "ld_pos": "副詞",
+  "ld_etym": "internal(内部の)+-ly",
+  "ld_level": "2級",
+  "badges": ["高校生〜", "英検2級", "CEFR B2", "副詞"],
+  "meaning_main": "内部で/内側に/組織の内部で/(薬を)内服で",
+  "description": "internally（インターナリー）は「内部で・内側に・組織の内部で」。体の内部、組織の内部、内心などに使う副詞。external(外部の)の対 externally が反対。意味・使い方・例文を解説。",
+  "keywords": ["internally 意味", "internal 副詞", "内部で 英語", "internally 例文"],
+  "meanings": [
+    { "hinshi": "【副詞】内部で・内側に", "note": "物・体・組織の内側で" },
+    { "hinshi": "【副詞】内心で・心の中で", "note": "表に出さず、内面で" },
+    { "hinshi": "【副詞】(薬を)内服で", "note": "体内に取り入れる形で(飲み薬として)" }
+  ],
+  "usages": [
+    { "title": "① handled internally（内部で処理される）", "desc": "組織の内側で", "example_en": "The complaint was handled internally.", "example_ja": "その苦情は社内で処理された。" },
+    { "title": "② bleed internally（内出血する）", "desc": "体の内部で", "example_en": "The patient was bleeding internally.", "example_ja": "その患者は内出血していた。" }
+  ],
+  "warn": ["対義語は externally（外部で・外側に）。形容詞は internal（内部の）⇔ external（外部の）", "薬で『内服』は internally、『外用』は externally（For external use only＝外用のみ）"],
+  "etym_note": "internal（ラテン語 internus「内側の」由来）＋-ly。「内部で」。",
+  "etym_chain": [
+    { "node": "internus", "sub": "内側の(ラテン語)", "era": "ラテン語" },
+    { "node": "internal", "sub": "内部の", "era": "中英語" },
+    { "node": "internally", "sub": "内部で", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "handled internally", "ja": "内部で処理される" },
+    { "en": "bleed internally", "ja": "内出血する" },
+    { "en": "internally consistent", "ja": "内部で首尾一貫した" },
+    { "en": "communicate internally", "ja": "組織内で連絡する" },
+    { "en": "used internally", "ja": "内服で用いる" },
+    { "en": "internally displaced", "ja": "国内避難した" }
+  ],
+  "related": [
+    { "en": "internal", "ja": "内部の" },
+    { "en": "externally", "ja": "外部で" },
+    { "en": "inwardly", "ja": "内心で" },
+    { "en": "within", "ja": "〜の内部に" }
+  ],
+  "faq": [
+    { "q": "internally の対義語は？", "a": "externally（外部で・外側に）です。handled internally（内部で処理）⇔ handled externally（外部に委ねて処理）のように使います。" },
+    { "q": "薬の internally / externally とは？", "a": "internally は『内服で(飲んで体内に)』、externally は『外用で(肌などに塗って)』です。For external use only は『外用のみ・飲まないこと』を意味します。" }
+  ],
+  "quiz": [
+    { "q": "internally の意味は？", "A": "内部で・内側に", "B": "外部で", "C": "遠くで", "D": "急いで", "correct": "A" },
+    { "q": "internally の対義語は？", "A": "externally(外部で)", "B": "eternally(永遠に)", "C": "normally(通常)", "D": "finally(最後に)", "correct": "A" }
+  ]
+},
+{
+  "english": "lewis",
+  "pron": "ˈluːɪs",
+  "kana": "ルイス",
+  "hinshi": "名詞(固有名詞)",
+  "ld_pos": "固有名詞",
+  "ld_etym": "ゲルマン系の名 Hludwig(名高い戦士)",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "人名"],
+  "meaning_main": "ルイス(英語圏の男性名・姓)/(化学)ルイス構造など",
+  "description": "lewis（ルイス）は英語圏の男性名・姓。作家ルイス・キャロルやC.S.ルイスで有名。化学のルイス構造(Lewis structure)にも使う。文中では大文字Lewis。意味・由来・関連語を解説。",
+  "keywords": ["lewis 意味", "ルイス 名前", "Lewis structure", "lewis 由来"],
+  "meanings": [
+    { "hinshi": "【固有名詞】ルイス(男性名・姓)", "note": "英語圏の男性の名・姓。文中では大文字 Lewis。フランス語 Louis と同源" },
+    { "hinshi": "【固有名詞】(化学)ルイスの〜", "note": "化学者ルイスにちなむ用語。Lewis structure(ルイス構造式)、Lewis acid(ルイス酸)など" }
+  ],
+  "usages": [
+    { "title": "① 人名として", "desc": "名・姓", "example_en": "Lewis Carroll wrote Alice in Wonderland.", "example_ja": "ルイス・キャロルは『不思議の国のアリス』を書いた。" },
+    { "title": "② 化学用語として", "desc": "ルイス構造", "example_en": "A Lewis structure shows how atoms bond.", "example_ja": "ルイス構造式は原子がどう結合するかを示す。" }
+  ],
+  "warn": ["固有名詞なので文中では大文字 Lewis。フランス語の Louis(ルイ)、ドイツ語の Ludwig(ルートヴィヒ)と同源", "化学の Lewis structure / Lewis acid は米国の化学者ギルバート・ルイスにちなむ"],
+  "etym_note": "ゲルマン系の名 Hludwig（hlud「名高い」＋wig「戦士」＝名高い戦士）に由来。フランス語 Louis、英語 Lewis と発展した。",
+  "etym_chain": [
+    { "node": "Hludwig", "sub": "名高い戦士(ゲルマン語)", "era": "ゲルマン語" },
+    { "node": "Louis", "sub": "ルイ(フランス語)", "era": "古フランス語" },
+    { "node": "Lewis", "sub": "ルイス", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "Lewis Carroll", "ja": "ルイス・キャロル(作家)" },
+    { "en": "C. S. Lewis", "ja": "C.S.ルイス(作家)" },
+    { "en": "a Lewis structure", "ja": "ルイス構造式" },
+    { "en": "a Lewis acid", "ja": "ルイス酸" },
+    { "en": "the name Lewis", "ja": "ルイスという名前" },
+    { "en": "Lewis and Clark", "ja": "ルイスとクラーク(探検家)" }
+  ],
+  "related": [
+    { "en": "louis", "ja": "ルイ(フランス語の名)" },
+    { "en": "ludwig", "ja": "ルートヴィヒ(ドイツ語の名)" },
+    { "en": "name", "ja": "名前" },
+    { "en": "surname", "ja": "姓" }
+  ],
+  "faq": [
+    { "q": "Lewis の名前の意味・由来は？", "a": "ゲルマン系の名 Hludwig（名高い戦士）に由来し、フランス語の Louis、ドイツ語の Ludwig と同源です。英語圏では男性の名・姓として使われます。" },
+    { "q": "化学の Lewis structure とは？", "a": "原子と価電子(結合や非共有電子対)を点や線で示した図で、分子の結合の様子を表します。米国の化学者ギルバート・ルイスにちなみます。" }
+  ],
+  "quiz": [
+    { "q": "Lewis の名の由来の意味は？", "A": "名高い戦士", "B": "海の民", "C": "光の子", "D": "神の恵み", "correct": "A" },
+    { "q": "Lewis と同源のフランス語の名は？", "A": "Louis(ルイ)", "B": "Pierre(ピエール)", "C": "Jean(ジャン)", "D": "Marc(マルク)", "correct": "A" }
+  ]
+},
+{
+  "english": "liberalization",
+  "pron": "ˌlɪbərələˈzeɪʃən",
+  "kana": "リベラライゼーション",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "liberalize(自由化する)+-ation",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "不可算名詞"],
+  "meaning_main": "自由化/規制緩和/(経済・制度の)開放",
+  "description": "liberalization（リベラライゼーション）は「自由化・規制緩和」。経済・貿易・制度の規制をゆるめ、より自由にすること。liberalize(自由化する)の名詞形。意味・使い方・例文を解説。",
+  "keywords": ["liberalization 意味", "自由化 英語", "規制緩和 英語", "liberalization 例文"],
+  "meanings": [
+    { "hinshi": "【名詞】自由化・規制緩和", "note": "経済・貿易・制度などの規制をゆるめ、より自由にすること。不可算名詞。英つづり liberalisation" }
+  ],
+  "usages": [
+    { "title": "① trade liberalization（貿易自由化）", "desc": "貿易の規制緩和", "example_en": "Trade liberalization boosted exports.", "example_ja": "貿易自由化は輸出を押し上げた。" },
+    { "title": "② economic liberalization（経済自由化）", "desc": "市場の開放", "example_en": "The country underwent economic liberalization in the 1990s.", "example_ja": "その国は1990年代に経済自由化を進めた。" }
+  ],
+  "warn": ["対の動きは regulation（規制）や protectionism（保護主義）", "deregulation（規制撤廃）と近いが、liberalization は『より自由にする』広い概念"],
+  "etym_note": "liberalize（liberal「自由な」＝ラテン語 liber「自由な」由来＋-ize）＋-ation（名詞化）。「自由にすること」。",
+  "etym_chain": [
+    { "node": "liber", "sub": "自由な(ラテン語)", "era": "ラテン語" },
+    { "node": "liberalize", "sub": "自由化する", "era": "近代英語" },
+    { "node": "liberalization", "sub": "自由化", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "trade liberalization", "ja": "貿易自由化" },
+    { "en": "economic liberalization", "ja": "経済自由化" },
+    { "en": "financial liberalization", "ja": "金融自由化" },
+    { "en": "market liberalization", "ja": "市場開放" },
+    { "en": "political liberalization", "ja": "政治的自由化" },
+    { "en": "the liberalization of trade", "ja": "貿易の自由化" }
+  ],
+  "related": [
+    { "en": "liberalize", "ja": "自由化する" },
+    { "en": "deregulation", "ja": "規制撤廃" },
+    { "en": "privatization", "ja": "民営化" },
+    { "en": "protectionism", "ja": "保護主義" }
+  ],
+  "faq": [
+    { "q": "liberalization と deregulation の違いは？", "a": "deregulation（規制撤廃）は『特定の規制を取り除くこと』、liberalization（自由化）は『規制をゆるめ市場・制度をより自由にすること』全般を指します。自由化の手段の一つが規制撤廃です。" },
+    { "q": "対になる考え方は？", "a": "protectionism（保護主義）や regulation（規制強化）です。自由化(開放)⇔保護主義(規制・保護)という対比になります。" }
+  ],
+  "quiz": [
+    { "q": "liberalization の意味は？", "A": "自由化・規制緩和", "B": "規制強化", "C": "国有化", "D": "封鎖", "correct": "A" },
+    { "q": "liberalization と対になる考え方は？", "A": "protectionism(保護主義)", "B": "capitalism(資本主義)", "C": "globalization(グローバル化)", "D": "modernization(近代化)", "correct": "A" }
+  ]
+},
+{
+  "english": "mass-produced",
+  "pron": "ˌmæs prəˈduːst",
+  "kana": "マスプロデュースト",
+  "hinshi": "形容詞",
+  "ld_pos": "形容詞",
+  "ld_etym": "mass(大量)+produced(生産された)",
+  "ld_level": "2級",
+  "badges": ["高校生〜", "英検2級", "CEFR B2", "形容詞"],
+  "meaning_main": "大量生産の/量産された",
+  "description": "mass-produced（マスプロデュースト）は「大量生産の・量産された」。工場で同じ製品を大量に作ることを表す複合形容詞。handmade(手作り)の対。意味・使い方・例文・関連語を解説。",
+  "keywords": ["mass-produced 意味", "mass produced 使い方", "大量生産 英語", "mass-produced 例文"],
+  "meanings": [
+    { "hinshi": "【形容詞】大量生産の・量産された", "note": "工場で規格化された同じ製品を大量に作った(作られた)さま" }
+  ],
+  "usages": [
+    { "title": "① mass-produced goods（大量生産品）", "desc": "量産された商品", "example_en": "Mass-produced goods are usually cheaper.", "example_ja": "大量生産品はたいてい安い。" },
+    { "title": "② mass-produced cars（量産車）", "desc": "工場での大量生産", "example_en": "The factory makes mass-produced cars.", "example_ja": "その工場は量産車を作っている。" }
+  ],
+  "warn": ["mass（大量）＋produced（produce「生産する」の過去分詞）の複合形容詞。ハイフンでつなぐ", "対義的には handmade（手作りの）、custom-made（あつらえの）。名詞は mass production（大量生産）"],
+  "etym_note": "mass（大量・多数）＋produced（produce「生産する」の過去分詞）。「大量に生産された」。20世紀の工業化で広まった語。",
+  "etym_chain": [
+    { "node": "mass + produced", "sub": "大量＋生産された", "era": "20世紀" },
+    { "node": "mass-produce", "sub": "大量生産する", "era": "20世紀" },
+    { "node": "mass-produced", "sub": "大量生産の", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "mass-produced goods", "ja": "大量生産品" },
+    { "en": "mass-produced cars", "ja": "量産車" },
+    { "en": "mass-produced furniture", "ja": "量産家具" },
+    { "en": "cheap and mass-produced", "ja": "安くて量産された" },
+    { "en": "mass-produced clothing", "ja": "量産された衣料" },
+    { "en": "a mass-produced item", "ja": "量産品" }
+  ],
+  "related": [
+    { "en": "mass production", "ja": "大量生産" },
+    { "en": "handmade", "ja": "手作りの" },
+    { "en": "custom-made", "ja": "あつらえの" },
+    { "en": "factory", "ja": "工場" }
+  ],
+  "faq": [
+    { "q": "mass-produced の対義語は？", "a": "handmade（手作りの）や custom-made（あつらえの・特注の）です。mass-produced goods（大量生産品）⇔ handmade goods（手作り品）のように使います。" },
+    { "q": "名詞形は？", "a": "mass production（大量生産）です。動詞は mass-produce（大量生産する）です。" }
+  ],
+  "quiz": [
+    { "q": "mass-produced の意味は？", "A": "大量生産の・量産された", "B": "手作りの", "C": "一点物の", "D": "中古の", "correct": "A" },
+    { "q": "mass-produced の対義語は？", "A": "handmade(手作りの)", "B": "massive(巨大な)", "C": "modern(現代の)", "D": "produced(生産された)", "correct": "A" }
+  ]
+},
+{
+  "english": "parasitism",
+  "pron": "ˈpærəsaɪtɪzəm",
+  "kana": "パラサイティズム",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "parasite(寄生生物)+-ism",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "不可算名詞"],
+  "meaning_main": "寄生(生物)/寄生関係/(比喩)他人にたかること",
+  "description": "parasitism（パラサイティズム）は「寄生」。ある生物が他の生物(宿主)から栄養を得て害を与える関係。比喩で「他人にたかること」も。生物学用語。意味・使い方・例文を解説。",
+  "keywords": ["parasitism 意味", "寄生 英語", "parasite 名詞", "parasitism 例文"],
+  "meanings": [
+    { "hinshi": "【名詞】寄生", "note": "ある生物(寄生者)が他の生物(宿主)から栄養などを奪い、害を与えて生きる関係。不可算名詞" },
+    { "hinshi": "【名詞】(比喩)他人にたかること", "note": "自分は働かず他人に依存して利益を得ること" }
+  ],
+  "usages": [
+    { "title": "① a case of parasitism（寄生の一例）", "desc": "生物の寄生関係", "example_en": "Tapeworms are an example of parasitism.", "example_ja": "サナダムシは寄生の一例だ。" },
+    { "title": "② social parasitism（社会的寄生)", "desc": "比喩的用法", "example_en": "He criticized what he called social parasitism.", "example_ja": "彼はいわゆる社会的寄生を批判した。" }
+  ],
+  "warn": ["生物の共生関係: parasitism(寄生＝一方が利益・他方が損害)、mutualism(相利共生＝双方利益)、commensalism(片利共生＝一方利益・他方無害)を区別", "寄生する生物は parasite(寄生虫・寄生生物)、宿主は host"],
+  "etym_note": "parasite（ギリシャ語 parasitos「食卓を共にする者・居候」＝para-「そばで」＋sitos「食物」）＋-ism。「寄生という関係・性質」。",
+  "etym_chain": [
+    { "node": "parasitos", "sub": "食卓の居候(ギリシャ語)", "era": "ギリシャ語" },
+    { "node": "parasite", "sub": "寄生生物", "era": "近代英語" },
+    { "node": "parasitism", "sub": "寄生", "era": "19世紀" }
+  ],
+  "phrases": [
+    { "en": "a case of parasitism", "ja": "寄生の一例" },
+    { "en": "social parasitism", "ja": "社会的寄生" },
+    { "en": "brood parasitism", "ja": "托卵(繁殖寄生)" },
+    { "en": "parasitism and mutualism", "ja": "寄生と相利共生" },
+    { "en": "a form of parasitism", "ja": "寄生の一形態" },
+    { "en": "the parasitism of ticks", "ja": "ダニの寄生" }
+  ],
+  "related": [
+    { "en": "parasite", "ja": "寄生虫・寄生生物" },
+    { "en": "host", "ja": "宿主" },
+    { "en": "symbiosis", "ja": "共生" },
+    { "en": "mutualism", "ja": "相利共生" }
+  ],
+  "faq": [
+    { "q": "parasitism と symbiosis の違いは？", "a": "symbiosis（共生）は異なる生物が密接に生活する関係全般で、そのうち一方が利益を得て他方が害を受けるものが parasitism（寄生）です。双方が利益を得るのは mutualism（相利共生）です。" },
+    { "q": "brood parasitism とは？", "a": "『托卵』のことです。カッコウのように、他の鳥の巣に卵を産んで育てさせる繁殖上の寄生を指します。" }
+  ],
+  "quiz": [
+    { "q": "parasitism の意味は？", "A": "寄生(一方が利益・他方が損害)", "B": "相利共生", "C": "捕食", "D": "競争", "correct": "A" },
+    { "q": "寄生する生物は英語で？", "A": "parasite(寄生生物)", "B": "host(宿主)", "C": "predator(捕食者)", "D": "prey(獲物)", "correct": "A" }
+  ]
+},
+{
+  "english": "pollinate",
+  "pron": "ˈpɒləneɪt",
+  "kana": "ポリネイト",
+  "hinshi": "動詞",
+  "ld_pos": "動詞",
+  "ld_etym": "ラテン語 pollen(花粉)+-ate",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "他動詞"],
+  "meaning_main": "受粉させる/花粉を運んで実らせる",
+  "description": "pollinate（ポリネイト）は「受粉させる・花粉を運んで実らせる」。ハチなどが花粉を雌しべに運び、植物が実や種をつくれるようにすること。名詞pollination。意味・使い方・例文を解説。",
+  "keywords": ["pollinate 意味", "受粉 英語", "pollination", "pollinate 例文"],
+  "meanings": [
+    { "hinshi": "【動詞】受粉させる", "note": "花粉(pollen)を雌しべに運び、植物が種子・果実をつくれるようにすること。他動詞" }
+  ],
+  "usages": [
+    { "title": "① bees pollinate flowers（ハチが花を受粉させる）", "desc": "花粉を運ぶ", "example_en": "Bees pollinate many crops.", "example_ja": "ハチは多くの作物を受粉させる。" },
+    { "title": "② be pollinated by（〜によって受粉される）", "desc": "受動態で", "example_en": "The plant is pollinated by the wind.", "example_ja": "その植物は風によって受粉する。" }
+  ],
+  "warn": ["名詞は pollination（受粉）、花粉は pollen、受粉を担うものは pollinator(花粉媒介者＝ハチ・チョウ・風など)", "受粉と受精は別: pollination(花粉が雌しべに着く)→fertilization(受精)"],
+  "etym_note": "ラテン語 pollen（微粉・花粉）＋-ate（〜する）。「花粉を運ぶ・つける」。",
+  "etym_chain": [
+    { "node": "pollen", "sub": "微粉・花粉(ラテン語)", "era": "ラテン語" },
+    { "node": "pollinate", "sub": "受粉させる", "era": "19世紀" },
+    { "node": "pollinate", "sub": "花粉を運んで実らせる", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "bees pollinate flowers", "ja": "ハチが花を受粉させる" },
+    { "en": "be pollinated by wind", "ja": "風で受粉する" },
+    { "en": "pollinate crops", "ja": "作物を受粉させる" },
+    { "en": "help pollinate", "ja": "受粉を助ける" },
+    { "en": "cross-pollinate", "ja": "他家受粉させる" },
+    { "en": "pollinate by hand", "ja": "人工授粉する" }
+  ],
+  "related": [
+    { "en": "pollination", "ja": "受粉" },
+    { "en": "pollen", "ja": "花粉" },
+    { "en": "pollinator", "ja": "花粉媒介者" },
+    { "en": "fertilize", "ja": "受精させる・肥料を与える" }
+  ],
+  "faq": [
+    { "q": "pollinate と fertilize の違いは？", "a": "pollinate（受粉させる）は『花粉を雌しべに運ぶ』段階、fertilize（受精させる）はその後『花粉から精細胞が卵細胞と結合する』段階です。受粉が起きて受精につながります。" },
+    { "q": "何が受粉を担う？", "a": "ハチ・チョウ・鳥などの動物や、風・水が花粉を運びます。これらを pollinator（花粉媒介者）と呼びます。" }
+  ],
+  "quiz": [
+    { "q": "pollinate の意味は？", "A": "受粉させる", "B": "収穫する", "C": "枯らす", "D": "水をやる", "correct": "A" },
+    { "q": "受粉を担う代表的な虫は？", "A": "bee(ハチ)", "B": "spider(クモ)", "C": "ant(アリ)", "D": "cockroach(ゴキブリ)", "correct": "A" }
+  ]
+},
+{
+  "english": "postponed",
+  "pron": "poʊstˈpoʊnd",
+  "kana": "ポストポウンド",
+  "hinshi": "形容詞 / 動詞(過去・過去分詞)",
+  "ld_pos": "形容詞",
+  "ld_etym": "postpone(延期する)+-ed",
+  "ld_level": "2級",
+  "badges": ["中学生〜", "英検2級", "CEFR B1", "過去分詞"],
+  "meaning_main": "延期された/延ばされた/(postponeの過去)延期した",
+  "description": "postponed（ポストポウンド）は「延期された・延ばされた」。予定を後の時期に延ばすこと。動詞postponeの過去分詞。cancel(中止)との違いも解説。意味・使い方・例文を紹介。",
+  "keywords": ["postponed 意味", "postpone 過去形", "延期 英語", "postponed 例文"],
+  "meanings": [
+    { "hinshi": "【形容詞】延期された・延ばされた", "note": "予定が後の時期に延ばされた状態" },
+    { "hinshi": "【動詞】postpone の過去・過去分詞", "note": "postpone（延期する）の活用形" }
+  ],
+  "usages": [
+    { "title": "① the game was postponed（試合は延期された）", "desc": "予定を延ばす", "example_en": "The game was postponed due to rain.", "example_ja": "試合は雨のため延期された。" },
+    { "title": "② a postponed meeting（延期された会議）", "desc": "延期された予定", "example_en": "We rescheduled the postponed meeting.", "example_ja": "延期された会議の日程を組み直した。" }
+  ],
+  "warn": ["postpone(延期＝後に延ばすが実施予定は残る)と cancel(中止＝取りやめ)は別。混同しない", "類語 put off（延期する・口語）、delay（遅らせる）"],
+  "etym_note": "postpone（ラテン語 postponere＝post-「後に」＋ponere「置く」＝後に置く）＋-ed。「後に延ばされた」。",
+  "etym_chain": [
+    { "node": "postponere", "sub": "後に置く(ラテン語)", "era": "ラテン語" },
+    { "node": "postpone", "sub": "延期する", "era": "近代英語" },
+    { "node": "postponed", "sub": "延期された", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "the game was postponed", "ja": "試合は延期された" },
+    { "en": "a postponed meeting", "ja": "延期された会議" },
+    { "en": "indefinitely postponed", "ja": "無期限に延期された" },
+    { "en": "postponed until further notice", "ja": "追って通知があるまで延期" },
+    { "en": "the postponed event", "ja": "延期された催し" },
+    { "en": "postponed due to weather", "ja": "天候で延期された" }
+  ],
+  "related": [
+    { "en": "postpone", "ja": "延期する" },
+    { "en": "delay", "ja": "遅らせる・遅れ" },
+    { "en": "cancel", "ja": "中止する" },
+    { "en": "reschedule", "ja": "日程を組み直す" }
+  ],
+  "faq": [
+    { "q": "postponed と cancelled の違いは？", "a": "postponed（延期）は『後の日時に延ばす(実施予定は残る)』、cancelled（中止）は『取りやめる(実施しない)』です。延期なら後日行われますが、中止なら行われません。" },
+    { "q": "put off との違いは？", "a": "ほぼ同義です。put off は『延期する』のより口語的な言い方で、postpone はややかたい言い方です。" }
+  ],
+  "quiz": [
+    { "q": "postponed の意味は？", "A": "延期された", "B": "中止された", "C": "前倒しされた", "D": "完了した", "correct": "A" },
+    { "q": "postpone と cancel の違いで正しいのは？", "A": "postponeは延期、cancelは中止", "B": "同じ意味", "C": "postponeは中止、cancelは延期", "D": "どちらも前倒し", "correct": "A" }
+  ]
+},
+{
+  "english": "respondent",
+  "pron": "rɪˈspɒndənt",
+  "kana": "リスポンデント",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "respond(応答する)+-ent(人)",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "可算名詞"],
+  "meaning_main": "(調査の)回答者/(法律)被告・応訴人",
+  "description": "respondent（リスポンデント）は「(アンケート・調査の)回答者」。また法律で「(離婚・上訴などの)被告・応訴人」。respond(応答する)の名詞。意味・使い方・例文・関連語を解説。",
+  "keywords": ["respondent 意味", "回答者 英語", "respond 名詞", "respondent 例文"],
+  "meanings": [
+    { "hinshi": "【名詞】(調査の)回答者", "note": "アンケート・世論調査などで質問に答える人。可算名詞" },
+    { "hinshi": "【名詞】(法律)被告・応訴人", "note": "離婚訴訟・上訴などで訴えを起こされた側" }
+  ],
+  "usages": [
+    { "title": "① survey respondents（調査の回答者）", "desc": "アンケートに答える人", "example_en": "Most respondents supported the plan.", "example_ja": "回答者の大半がその案を支持した。" },
+    { "title": "② the respondent in the case（訴訟の被告)", "desc": "法律用語", "example_en": "The respondent denied the allegations.", "example_ja": "被告(応訴人)はその主張を否定した。" }
+  ],
+  "warn": ["調査では『回答者』。法律では『(申立てを受けた側の)被告・応訴人』で、申立人は petitioner/applicant", "動詞は respond（応答する）、名詞 response（応答）"],
+  "etym_note": "respond（ラテン語 respondere＝re-「返して」＋spondere「約束する」＝答える）＋-ent（〜する人）。「答える人」。",
+  "etym_chain": [
+    { "node": "respondere", "sub": "答える(ラテン語)", "era": "ラテン語" },
+    { "node": "respond", "sub": "応答する", "era": "中英語" },
+    { "node": "respondent", "sub": "回答者・被告", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "survey respondents", "ja": "調査の回答者" },
+    { "en": "most respondents", "ja": "回答者の大半" },
+    { "en": "a respondent said", "ja": "ある回答者が言った" },
+    { "en": "the respondent in the case", "ja": "訴訟の被告" },
+    { "en": "respondents were asked", "ja": "回答者は尋ねられた" },
+    { "en": "half of respondents", "ja": "回答者の半分" }
+  ],
+  "related": [
+    { "en": "respond", "ja": "応答する" },
+    { "en": "response", "ja": "応答・回答" },
+    { "en": "participant", "ja": "参加者・被験者" },
+    { "en": "petitioner", "ja": "申立人・請願者" }
+  ],
+  "faq": [
+    { "q": "respondent の主な意味は？", "a": "アンケート・調査で『質問に答える人（回答者）』を指すのが最も一般的です。法律では『訴えられた側（被告・応訴人）』を意味し、文脈で使い分けます。" },
+    { "q": "法律で respondent の反対は？", "a": "petitioner（申立人）や applicant（申請人）です。申立てをした側が petitioner、それを受けた側が respondent です。" }
+  ],
+  "quiz": [
+    { "q": "調査での respondent の意味は？", "A": "回答者", "B": "調査員", "C": "主催者", "D": "傍観者", "correct": "A" },
+    { "q": "respondent の動詞形は？", "A": "respond(応答する)", "B": "respect(尊重する)", "C": "restore(回復する)", "D": "resist(抵抗する)", "correct": "A" }
+  ]
+},
+{
+  "english": "seducer",
+  "pron": "sɪˈduːsər",
+  "kana": "シデューサー",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "seduce(誘惑する)+-er(人)",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "可算名詞"],
+  "meaning_main": "誘惑する人/(色仕掛けで)たぶらかす人",
+  "description": "seducer（シデューサー）は「誘惑する人・色仕掛けでたぶらかす人」。特に恋愛・性的に人を誘い込む男性を指す。女性形seductress。seduce(誘惑する)の名詞。意味・使い方・例文を解説。",
+  "keywords": ["seducer 意味", "seduce 名詞", "誘惑する人 英語", "seducer 例文"],
+  "meanings": [
+    { "hinshi": "【名詞】誘惑する人・たぶらかす人", "note": "特に恋愛・性的に人を巧みに誘い込む人(多くは男性)。可算名詞" }
+  ],
+  "usages": [
+    { "title": "① a smooth seducer（口の巧みな誘惑者）", "desc": "人を誘い込む人", "example_en": "He had a reputation as a smooth seducer.", "example_ja": "彼は口の巧みな誘惑者として知られていた。" },
+    { "title": "② a notorious seducer（悪名高い女たらし）", "desc": "色仕掛けの人", "example_en": "The character is a notorious seducer.", "example_ja": "その登場人物は悪名高い女たらしだ。" }
+  ],
+  "warn": ["女性形は seductress（男を惑わす女・妖婦）。動詞 seduce（誘惑する）、名詞 seduction（誘惑）", "誘惑一般の tempter より、恋愛・性的な誘い込みを指すことが多い"],
+  "etym_note": "seduce（ラテン語 seducere＝se-「離れて」＋ducere「導く」＝わきへ導く・惑わす）＋-er（〜する人）。「(道を外れさせて)誘惑する人」。",
+  "etym_chain": [
+    { "node": "seducere", "sub": "わきへ導く(ラテン語)", "era": "ラテン語" },
+    { "node": "seduce", "sub": "誘惑する", "era": "近代英語" },
+    { "node": "seducer", "sub": "誘惑する人", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "a smooth seducer", "ja": "口の巧みな誘惑者" },
+    { "en": "a notorious seducer", "ja": "悪名高い女たらし" },
+    { "en": "a practiced seducer", "ja": "手慣れた誘惑者" },
+    { "en": "play the seducer", "ja": "誘惑者を演じる" },
+    { "en": "a charming seducer", "ja": "魅力的な誘惑者" },
+    { "en": "the seducer's charm", "ja": "誘惑者の魅力" }
+  ],
+  "related": [
+    { "en": "seduce", "ja": "誘惑する" },
+    { "en": "seduction", "ja": "誘惑" },
+    { "en": "seductress", "ja": "男を惑わす女" },
+    { "en": "tempter", "ja": "誘惑する人" }
+  ],
+  "faq": [
+    { "q": "seducer の女性形は？", "a": "seductress（シダクトレス／男を惑わす女・妖婦）です。seducer が男性・中立、seductress が女性を指します。" },
+    { "q": "seducer と tempter の違いは？", "a": "tempter は『(悪事一般に)誘惑する人』、seducer は特に『恋愛・性的に誘い込む人』を指すことが多い語です。どちらも巧みに人を惑わす存在です。" }
+  ],
+  "quiz": [
+    { "q": "seducer の意味は？", "A": "誘惑する人・たぶらかす人", "B": "助言者", "C": "保護者", "D": "教育者", "correct": "A" },
+    { "q": "seducer の女性形は？", "A": "seductress", "B": "seduceress", "C": "seductrix", "D": "seducera", "correct": "A" }
+  ]
+},
+{
+  "english": "self-awareness",
+  "pron": "ˌsɛlf əˈwɛərnəs",
+  "kana": "セルフアウェアネス",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "self(自己)+awareness(気づき)",
+  "ld_level": "準1級",
+  "badges": ["高校生〜", "英検準1級", "CEFR B2", "不可算名詞"],
+  "meaning_main": "自己認識/自分を客観的に理解すること",
+  "description": "self-awareness（セルフアウェアネス）は「自己認識・自分を客観的に理解すること」。自分の感情・性格・行動を的確に把握する力。self-consciousとの違いも解説。意味・使い方・例文を紹介。",
+  "keywords": ["self-awareness 意味", "自己認識 英語", "self awareness 使い方", "self-awareness 例文"],
+  "meanings": [
+    { "hinshi": "【名詞】自己認識・自己理解", "note": "自分の感情・性格・強みや弱み・行動を客観的に把握していること。不可算名詞" }
+  ],
+  "usages": [
+    { "title": "① develop self-awareness（自己認識を高める）", "desc": "自分を理解する力を育てる", "example_en": "Good leaders have a high degree of self-awareness.", "example_ja": "優れた指導者は高い自己認識を持つ。" },
+    { "title": "② a lack of self-awareness（自己認識の欠如)", "desc": "自分が見えていないこと", "example_en": "His lack of self-awareness caused problems.", "example_ja": "彼の自己認識の欠如が問題を引き起こした。" }
+  ],
+  "warn": ["self-awareness(自分を客観的に理解する肯定的な力)と self-consciousness(人目を気にして落ち着かないこと)は別", "self（自己）＋awareness（気づき・意識）の複合語。ハイフンでつなぐ"],
+  "etym_note": "self（自己）＋awareness（aware「気づいている」＋-ness）。「自分自身への気づき」。",
+  "etym_chain": [
+    { "node": "aware", "sub": "気づいている", "era": "古英語系" },
+    { "node": "awareness", "sub": "気づき・意識", "era": "近代英語" },
+    { "node": "self-awareness", "sub": "自己認識", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "develop self-awareness", "ja": "自己認識を高める" },
+    { "en": "a lack of self-awareness", "ja": "自己認識の欠如" },
+    { "en": "greater self-awareness", "ja": "より高い自己認識" },
+    { "en": "emotional self-awareness", "ja": "感情面の自己認識" },
+    { "en": "a sense of self-awareness", "ja": "自己認識の感覚" },
+    { "en": "self-awareness and empathy", "ja": "自己認識と共感" }
+  ],
+  "related": [
+    { "en": "self-aware", "ja": "自己を客観視できる" },
+    { "en": "awareness", "ja": "気づき・意識" },
+    { "en": "introspection", "ja": "内省" },
+    { "en": "self-reflection", "ja": "自己反省" }
+  ],
+  "faq": [
+    { "q": "self-awareness と self-consciousness の違いは？", "a": "self-awareness は『自分を客観的に理解する力』で肯定的、self-consciousness は『人目を気にして落ち着かないこと(自意識過剰)』で否定的なニュアンスがあります。" },
+    { "q": "形容詞は？", "a": "self-aware（自分を客観的に見られる・自己認識のある）です。self-awareness はその名詞形です。" }
+  ],
+  "quiz": [
+    { "q": "self-awareness の意味は？", "A": "自己認識・自分を客観的に理解すること", "B": "自己嫌悪", "C": "他者への無関心", "D": "自慢", "correct": "A" },
+    { "q": "self-awareness の形容詞は？", "A": "self-aware", "B": "self-made", "C": "self-taught", "D": "self-employed", "correct": "A" }
+  ]
+},
+{
+  "english": "acutely",
+  "pron": "əˈkjuːtli",
+  "kana": "アキュートリー",
+  "hinshi": "副詞",
+  "ld_pos": "副詞",
+  "ld_etym": "acute(鋭い・激しい)+-ly",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "副詞"],
+  "meaning_main": "痛切に/鋭く/(感覚・程度が)強く",
+  "description": "acutely（アキュートリー）は「痛切に・鋭く・強く」。感覚や意識が非常に鋭い、程度が激しい様子を表す副詞。acutely aware(痛いほど分かって)などで使う。意味・使い方・例文を解説。",
+  "keywords": ["acutely 意味", "acute 副詞", "痛切に 英語", "acutely 例文"],
+  "meanings": [
+    { "hinshi": "【副詞】痛切に・強く", "note": "感覚・感情・意識が非常に鋭く、身にしみて強いさま" },
+    { "hinshi": "【副詞】鋭く・激しく", "note": "程度が甚だしいさま(acutely painful＝激しく痛む)" }
+  ],
+  "usages": [
+    { "title": "① acutely aware（痛いほど自覚して）", "desc": "強く意識する", "example_en": "She was acutely aware of the danger.", "example_ja": "彼女は危険を痛いほど意識していた。" },
+    { "title": "② acutely embarrassed（ひどく恥ずかしい）", "desc": "程度が強い", "example_en": "He felt acutely embarrassed.", "example_ja": "彼はひどく恥ずかしい思いをした。" }
+  ],
+  "warn": ["形容詞は acute（鋭い・激しい・(病気が)急性の）。医学で acute(急性)⇔ chronic(慢性)", "acutely aware（痛いほど自覚している）は頻出の言い回し"],
+  "etym_note": "acute（ラテン語 acutus「鋭くとがった」＝acuere「鋭くする」由来）＋-ly。「鋭く・痛切に」。",
+  "etym_chain": [
+    { "node": "acutus", "sub": "鋭くとがった(ラテン語)", "era": "ラテン語" },
+    { "node": "acute", "sub": "鋭い・激しい", "era": "中英語" },
+    { "node": "acutely", "sub": "痛切に・鋭く", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "acutely aware", "ja": "痛いほど自覚して" },
+    { "en": "acutely conscious of", "ja": "〜を強く意識して" },
+    { "en": "acutely embarrassed", "ja": "ひどく恥ずかしい" },
+    { "en": "acutely painful", "ja": "激しく痛む" },
+    { "en": "feel acutely", "ja": "痛切に感じる" },
+    { "en": "acutely sensitive", "ja": "非常に敏感な" }
+  ],
+  "related": [
+    { "en": "acute", "ja": "鋭い・激しい・急性の" },
+    { "en": "keenly", "ja": "痛切に・鋭く" },
+    { "en": "intensely", "ja": "激しく・強烈に" },
+    { "en": "sharply", "ja": "鋭く・急激に" }
+  ],
+  "faq": [
+    { "q": "acutely aware とは？", "a": "『痛いほど(はっきりと)自覚している・強く意識している』という意味の頻出表現です。be acutely aware of ~（〜を痛感している）の形でよく使います。" },
+    { "q": "keenly との違いは？", "a": "どちらも『痛切に・鋭く』を表しほぼ同義です。acutely はやや程度の強さ・切実さ、keenly は熱意や関心の鋭さに重点があることがあります。" }
+  ],
+  "quiz": [
+    { "q": "acutely の意味は？", "A": "痛切に・鋭く・強く", "B": "ぼんやりと", "C": "ゆっくりと", "D": "軽く", "correct": "A" },
+    { "q": "acutely aware の意味は？", "A": "痛いほど自覚している", "B": "全く気づかない", "C": "うっすら感じる", "D": "忘れている", "correct": "A" }
+  ]
+},
+{
+  "english": "added",
+  "pron": "ˈædɪd",
+  "kana": "アディッド",
+  "hinshi": "形容詞 / 動詞(過去・過去分詞)",
+  "ld_pos": "形容詞",
+  "ld_etym": "add(加える)+-ed",
+  "ld_level": "3級",
+  "badges": ["中学生〜", "英検3級", "CEFR A2", "形容詞"],
+  "meaning_main": "加えられた/追加の/added sugar(添加された砂糖)",
+  "description": "added（アディッド）は「加えられた・追加の」。added value(付加価値)やadded sugar(添加糖)などで使う。動詞addの過去分詞。意味・使い方・例文・関連語をわかりやすく解説。",
+  "keywords": ["added 意味", "add 過去形", "added value", "added 例文"],
+  "meanings": [
+    { "hinshi": "【形容詞】加えられた・追加の", "note": "もとのものに付け足された。added sugar（添加された砂糖）、added value（付加価値）" },
+    { "hinshi": "【動詞】add の過去・過去分詞", "note": "add（加える・足す）の活用形" }
+  ],
+  "usages": [
+    { "title": "① no added sugar（砂糖不使用・砂糖無添加）", "desc": "後から加えていない", "example_en": "This juice has no added sugar.", "example_ja": "このジュースは砂糖無添加だ。" },
+    { "title": "② added value（付加価値）", "desc": "付け加えられた価値", "example_en": "The service offers added value.", "example_ja": "そのサービスは付加価値を提供する。" }
+  ],
+  "warn": ["no added ~（〜無添加の）は食品表示で頻出。added sugar／added salt など", "動詞 add の活用は add-added-added（規則変化）"],
+  "etym_note": "add（ラテン語 addere＝ad-「〜へ」＋dare「与える」＝加える）＋-ed。「加えられた」。",
+  "etym_chain": [
+    { "node": "addere", "sub": "加える(ラテン語)", "era": "ラテン語" },
+    { "node": "add", "sub": "加える・足す", "era": "中英語" },
+    { "node": "added", "sub": "加えられた・追加の", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "no added sugar", "ja": "砂糖無添加" },
+    { "en": "added value", "ja": "付加価値" },
+    { "en": "added cost", "ja": "追加の費用" },
+    { "en": "with added vitamins", "ja": "ビタミンを添加して" },
+    { "en": "an added bonus", "ja": "おまけの利点" },
+    { "en": "added pressure", "ja": "さらなる重圧" }
+  ],
+  "related": [
+    { "en": "add", "ja": "加える・足す" },
+    { "en": "addition", "ja": "追加・足し算" },
+    { "en": "additional", "ja": "追加の" },
+    { "en": "extra", "ja": "余分の・追加の" }
+  ],
+  "faq": [
+    { "q": "no added sugar とは？", "a": "『砂糖無添加(後から砂糖を加えていない)』という食品表示です。果物本来の糖分は含みますが、製造時に砂糖を足していないことを示します。" },
+    { "q": "added value とは？", "a": "『付加価値』のことで、もとの製品・サービスに付け加えられた価値を指します。ビジネスでよく使われる表現です。" }
+  ],
+  "quiz": [
+    { "q": "no added sugar の意味は？", "A": "砂糖無添加", "B": "砂糖たっぷり", "C": "砂糖の代用", "D": "砂糖の産地", "correct": "A" },
+    { "q": "added value の意味は？", "A": "付加価値", "B": "定価", "C": "割引", "D": "税金", "correct": "A" }
+  ]
+},
+{
+  "english": "addendum",
+  "pron": "əˈdɛndəm",
+  "kana": "アデンダム",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "ラテン語 addendum(加えられるべきもの)",
+  "ld_level": "1級",
+  "badges": ["大学生〜", "英検1級", "CEFR C1", "可算名詞"],
+  "meaning_main": "追加事項/補遺(ほい)/付録・追記",
+  "description": "addendum（アデンダム）は「追加事項・補遺・追記」。書物・契約・報告書などに後から付け加える補足部分。複数形はaddenda。意味・使い方・例文・関連語を解説。",
+  "keywords": ["addendum 意味", "addendum 複数形", "補遺 英語", "addendum 例文"],
+  "meanings": [
+    { "hinshi": "【名詞】追加事項・補遺・追記", "note": "書物・契約・文書などに後から付け加える補足部分。可算名詞。複数形は addenda" }
+  ],
+  "usages": [
+    { "title": "① an addendum to the contract（契約への追加条項）", "desc": "後から加える補足", "example_en": "They signed an addendum to the contract.", "example_ja": "彼らは契約への追加条項に署名した。" },
+    { "title": "② add an addendum（補遺を加える）", "desc": "文書への追記", "example_en": "The author added an addendum to the report.", "example_ja": "著者は報告書に補遺を加えた。" }
+  ],
+  "warn": ["複数形は addenda(ラテン語式)。addendums も使われる", "appendix(付録＝関連資料)と近いが、addendum は特に『後から加えた補足・修正事項』を指す"],
+  "etym_note": "ラテン語 addendum（addere「加える」の動形容詞で『加えられるべきもの』）。「付け加えるべき事項」。",
+  "etym_chain": [
+    { "node": "addere", "sub": "加える(ラテン語)", "era": "ラテン語" },
+    { "node": "addendum", "sub": "加えられるべきもの", "era": "ラテン語" },
+    { "node": "addendum", "sub": "追加事項・補遺", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "an addendum to the contract", "ja": "契約への追加条項" },
+    { "en": "add an addendum", "ja": "補遺を加える" },
+    { "en": "an addendum to the report", "ja": "報告書への補遺" },
+    { "en": "as an addendum", "ja": "追記として" },
+    { "en": "a brief addendum", "ja": "短い補足" },
+    { "en": "see the addendum", "ja": "補遺を参照" }
+  ],
+  "related": [
+    { "en": "appendix", "ja": "付録・付属資料" },
+    { "en": "supplement", "ja": "補足・付録" },
+    { "en": "annex", "ja": "付属書・別添" },
+    { "en": "add", "ja": "加える" }
+  ],
+  "faq": [
+    { "q": "addendum の複数形は？", "a": "ラテン語式の addenda が正式ですが、英語式の addendums も使われます。an addendum（1つの補遺）→ addenda（複数の補遺）です。" },
+    { "q": "addendum と appendix の違いは？", "a": "appendix（付録）は本文を補う関連資料・データを巻末に付けたもの、addendum（補遺・追記）は特に『(完成後に)後から付け加えた補足・修正事項』を指します。" }
+  ],
+  "quiz": [
+    { "q": "addendum の意味は？", "A": "追加事項・補遺・追記", "B": "目次", "C": "序文", "D": "索引", "correct": "A" },
+    { "q": "addendum の複数形は？", "A": "addenda", "B": "addendi", "C": "addendae", "D": "addendas", "correct": "A" }
+  ]
+},
+{
+  "english": "amazingly",
+  "pron": "əˈmeɪzɪŋli",
+  "kana": "アメイジングリー",
+  "hinshi": "副詞",
+  "ld_pos": "副詞",
+  "ld_etym": "amazing(驚くべき)+-ly",
+  "ld_level": "2級",
+  "badges": ["中学生〜", "英検2級", "CEFR B1", "副詞"],
+  "meaning_main": "驚くほど/びっくりするほど/意外にも",
+  "description": "amazingly（アメイジングリー）は「驚くほど・びっくりするほど・意外にも」。程度が並外れて大きいことや、意外な事実を強調する副詞。amazing(驚くべき)の副詞形。意味・使い方・例文を解説。",
+  "keywords": ["amazingly 意味", "amazing 副詞", "驚くほど 英語", "amazingly 例文"],
+  "meanings": [
+    { "hinshi": "【副詞】驚くほど・非常に", "note": "程度が並外れて大きいことを強調する" },
+    { "hinshi": "【副詞】意外にも・驚いたことに", "note": "文全体を修飾し、意外な事実を示す(Amazingly, ~)" }
+  ],
+  "usages": [
+    { "title": "① amazingly good（驚くほど良い）", "desc": "程度を強める", "example_en": "The food was amazingly good.", "example_ja": "その料理は驚くほどおいしかった。" },
+    { "title": "② Amazingly, ~（意外にも〜）", "desc": "文修飾", "example_en": "Amazingly, no one was hurt.", "example_ja": "驚いたことに、誰もけがをしなかった。" }
+  ],
+  "warn": ["形容詞は amazing（驚くべき・すばらしい）、動詞 amaze（驚かせる）", "文頭で Amazingly, ~ と使うと『驚いたことに』という文修飾になる"],
+  "etym_note": "amazing（amaze「(ひどく)驚かせる」＝古英語 āmasian「当惑させる」由来＋-ing）＋-ly。「驚くほど」。",
+  "etym_chain": [
+    { "node": "āmasian", "sub": "当惑させる(古英語)", "era": "古英語" },
+    { "node": "amazing", "sub": "驚くべき", "era": "近代英語" },
+    { "node": "amazingly", "sub": "驚くほど", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "amazingly good", "ja": "驚くほど良い" },
+    { "en": "amazingly fast", "ja": "驚くほど速い" },
+    { "en": "amazingly simple", "ja": "驚くほど単純な" },
+    { "en": "Amazingly, ~", "ja": "驚いたことに〜" },
+    { "en": "amazingly enough", "ja": "驚いたことに" },
+    { "en": "amazingly well", "ja": "驚くほど上手に" }
+  ],
+  "related": [
+    { "en": "amazing", "ja": "驚くべき・すばらしい" },
+    { "en": "amaze", "ja": "驚かせる" },
+    { "en": "surprisingly", "ja": "驚くほど・意外にも" },
+    { "en": "incredibly", "ja": "信じられないほど" }
+  ],
+  "faq": [
+    { "q": "amazingly の2つの使い方は？", "a": "①形容詞・副詞を強めて『驚くほど(amazingly good)』、②文頭で文全体を修飾して『意外にも・驚いたことに(Amazingly, ~)』の2通りがあります。" },
+    { "q": "surprisingly との違いは？", "a": "どちらも『驚くほど・意外にも』を表します。amazingly は『感嘆するほどすごい』というプラスの驚きが強く、surprisingly はより中立的な『意外にも』です。" }
+  ],
+  "quiz": [
+    { "q": "amazingly の意味は？", "A": "驚くほど・意外にも", "B": "退屈に", "C": "ゆっくりと", "D": "静かに", "correct": "A" },
+    { "q": "amazingly の形容詞は？", "A": "amazing", "B": "amused", "C": "amiable", "D": "ambitious", "correct": "A" }
+  ]
+},
+{
+  "english": "anti-slip",
+  "pron": "ˌænti ˈslɪp",
+  "kana": "アンチスリップ",
+  "hinshi": "形容詞",
+  "ld_pos": "形容詞",
+  "ld_etym": "anti-(防ぐ)+slip(滑る)",
+  "ld_level": "2級",
+  "badges": ["中学生〜", "英検2級", "CEFR B1", "形容詞"],
+  "meaning_main": "滑り止めの/すべりにくい加工の",
+  "description": "anti-slip（アンチスリップ）は「滑り止めの・すべりにくい加工の」。床・靴底・マットなどが滑らないように工夫されていることを表す形容詞。non-slipとほぼ同義。意味・使い方・例文を解説。",
+  "keywords": ["anti-slip 意味", "滑り止め 英語", "anti slip non-slip", "anti-slip 例文"],
+  "meanings": [
+    { "hinshi": "【形容詞】滑り止めの・すべりにくい", "note": "床・靴底・マットなどが滑らないよう加工されているさま" }
+  ],
+  "usages": [
+    { "title": "① an anti-slip mat（滑り止めマット）", "desc": "滑らないマット", "example_en": "Put an anti-slip mat in the bathtub.", "example_ja": "浴槽に滑り止めマットを敷こう。" },
+    { "title": "② an anti-slip surface（滑りにくい表面）", "desc": "滑り止め加工", "example_en": "The stairs have an anti-slip surface.", "example_ja": "その階段は滑り止め加工がされている。" }
+  ],
+  "warn": ["non-slip（滑り止めの）とほぼ同義。どちらも使われる", "anti-（〜を防ぐ・反〜）＋slip（滑る）の複合語。ハイフンでつなぐ"],
+  "etym_note": "anti-（〜を防ぐ・反対の。ギリシャ語 anti「反対」由来）＋slip（滑る）。「滑るのを防ぐ」。",
+  "etym_chain": [
+    { "node": "anti-", "sub": "反対・防ぐ(ギリシャ語)", "era": "ギリシャ語" },
+    { "node": "anti-slip", "sub": "滑り止めの", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "an anti-slip mat", "ja": "滑り止めマット" },
+    { "en": "an anti-slip surface", "ja": "滑りにくい表面" },
+    { "en": "anti-slip coating", "ja": "滑り止め加工" },
+    { "en": "anti-slip flooring", "ja": "滑り止めの床材" },
+    { "en": "anti-slip soles", "ja": "滑り止めの靴底" },
+    { "en": "anti-slip tape", "ja": "滑り止めテープ" }
+  ],
+  "related": [
+    { "en": "non-slip", "ja": "滑り止めの" },
+    { "en": "slip", "ja": "滑る" },
+    { "en": "slippery", "ja": "滑りやすい" },
+    { "en": "grip", "ja": "握り・グリップ・滑り止め" }
+  ],
+  "faq": [
+    { "q": "anti-slip と non-slip の違いは？", "a": "意味はほぼ同じ『滑り止めの・すべりにくい』です。anti-slip は『滑るのを防ぐ』、non-slip は『滑らない』という言い方の違いだけで、どちらも使われます。" },
+    { "q": "anti- はどんな意味？", "a": "『〜を防ぐ・反対の』を表す接頭辞です。anti-slip（滑り止め）、antivirus（ウイルス対策）、anti-aging（老化防止）などがあります。" }
+  ],
+  "quiz": [
+    { "q": "anti-slip の意味は？", "A": "滑り止めの・すべりにくい", "B": "とても滑りやすい", "C": "防水の", "D": "耐熱の", "correct": "A" },
+    { "q": "anti-slip とほぼ同義の語は？", "A": "non-slip(滑り止めの)", "B": "slippery(滑りやすい)", "C": "smooth(なめらかな)", "D": "wet(ぬれた)", "correct": "A" }
+  ]
+},
+{
+  "english": "appointed",
+  "pron": "əˈpɔɪntɪd",
+  "kana": "アポインティッド",
+  "hinshi": "形容詞 / 動詞(過去・過去分詞)",
+  "ld_pos": "形容詞",
+  "ld_etym": "appoint(任命する・定める)+-ed",
+  "ld_level": "2級",
+  "badges": ["高校生〜", "英検2級", "CEFR B2", "過去分詞"],
+  "meaning_main": "任命された/(日時などが)指定された/定められた",
+  "description": "appointed（アポインティッド）は「任命された」「(日時・場所が)指定された・定められた」。役職への任命や、決められた時刻を表す。動詞appointの過去分詞。意味・使い方・例文を解説。",
+  "keywords": ["appointed 意味", "appoint 過去形", "任命された 英語", "appointed 例文"],
+  "meanings": [
+    { "hinshi": "【形容詞】任命された", "note": "役職・地位に正式に選び任じられた" },
+    { "hinshi": "【形容詞】(日時・場所が)指定された・定められた", "note": "あらかじめ決められた(the appointed time＝定刻)" },
+    { "hinshi": "【動詞】appoint の過去・過去分詞", "note": "appoint（任命する・(日時を)定める）の活用形" }
+  ],
+  "usages": [
+    { "title": "① a newly appointed manager（新任のマネージャー）", "desc": "任命された人", "example_en": "She is the newly appointed manager.", "example_ja": "彼女は新しく任命されたマネージャーだ。" },
+    { "title": "② at the appointed time（定刻に）", "desc": "定められた時刻", "example_en": "Please arrive at the appointed time.", "example_ja": "定刻にお越しください。" }
+  ],
+  "warn": ["『任命された』と『(日時が)定められた』の両義。文脈で判断", "動詞 appoint、名詞 appointment（任命／(面会などの)約束・予約）"],
+  "etym_note": "appoint（古フランス語 apointer「取り決める」＝a-「〜へ」＋point「点・定める」）＋-ed。「定められた・任じられた」。",
+  "etym_chain": [
+    { "node": "apointer", "sub": "取り決める(古仏語)", "era": "古フランス語" },
+    { "node": "appoint", "sub": "任命する・定める", "era": "中英語" },
+    { "node": "appointed", "sub": "任命された・定められた", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "a newly appointed manager", "ja": "新任のマネージャー" },
+    { "en": "at the appointed time", "ja": "定刻に" },
+    { "en": "the appointed place", "ja": "指定された場所" },
+    { "en": "an appointed official", "ja": "任命された役人" },
+    { "en": "the appointed day", "ja": "定められた日" },
+    { "en": "duly appointed", "ja": "正式に任命された" }
+  ],
+  "related": [
+    { "en": "appoint", "ja": "任命する・定める" },
+    { "en": "appointment", "ja": "任命・約束・予約" },
+    { "en": "designated", "ja": "指定された" },
+    { "en": "nominated", "ja": "指名された" }
+  ],
+  "faq": [
+    { "q": "appointed の2つの意味は？", "a": "①『(役職に)任命された』(a newly appointed director)、②『(日時・場所が)指定された・定められた』(at the appointed time＝定刻に)の2つがあります。文脈で判断します。" },
+    { "q": "appointed と elected の違いは？", "a": "appointed は『(上位者などによって)任命された』、elected は『(選挙で)選ばれた』です。任命職か選挙職かで使い分けます。" }
+  ],
+  "quiz": [
+    { "q": "at the appointed time の意味は？", "A": "定刻に", "B": "早朝に", "C": "真夜中に", "D": "いつでも", "correct": "A" },
+    { "q": "a newly appointed manager の意味は？", "A": "新しく任命されたマネージャー", "B": "退任したマネージャー", "C": "代理のマネージャー", "D": "元マネージャー", "correct": "A" }
+  ]
+},
+{
+  "english": "archetypal",
+  "pron": "ˌɑːrkɪˈtaɪpl",
+  "kana": "アーキタイパル",
+  "hinshi": "形容詞",
+  "ld_pos": "形容詞",
+  "ld_etym": "archetype(原型)+-al",
+  "ld_level": "1級",
+  "badges": ["大学生〜", "英検1級", "CEFR C1", "形容詞"],
+  "meaning_main": "典型的な/原型的な/そのものの手本となる",
+  "description": "archetypal（アーキタイパル）は「典型的な・原型的な・手本となる」。あるものの最も代表的・根源的な型を表す形容詞。archetype(原型・典型)の形容詞。意味・使い方・例文を解説。",
+  "keywords": ["archetypal 意味", "archetype 形容詞", "典型的 英語", "archetypal 例文"],
+  "meanings": [
+    { "hinshi": "【形容詞】典型的な・原型的な", "note": "あるものの最も代表的・根源的な型にあたるさま。手本・原型となる" }
+  ],
+  "usages": [
+    { "title": "① an archetypal hero（典型的な英雄像）", "desc": "原型となる型", "example_en": "He is the archetypal action hero.", "example_ja": "彼は典型的なアクションヒーローだ。" },
+    { "title": "② an archetypal example（典型的な例）", "desc": "代表例", "example_en": "It is an archetypal example of the style.", "example_ja": "それはその様式の典型的な例だ。" }
+  ],
+  "warn": ["名詞は archetype（原型・典型・(心理学の)元型）。typical(典型的な)より『根源的な型・手本』というニュアンスが強い", "つづり注意: arch(e)- の e。archetypical という形もある"],
+  "etym_note": "archetype（ギリシャ語 arkhetypon＝arkhe「最初の・根源」＋typos「型」＝最初の型）＋-al。「原型の・典型的な」。",
+  "etym_chain": [
+    { "node": "arkhetypon", "sub": "最初の型(ギリシャ語)", "era": "ギリシャ語" },
+    { "node": "archetype", "sub": "原型・典型", "era": "近代英語" },
+    { "node": "archetypal", "sub": "典型的な・原型的な", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "an archetypal hero", "ja": "典型的な英雄像" },
+    { "en": "an archetypal example", "ja": "典型的な例" },
+    { "en": "the archetypal villain", "ja": "典型的な悪役" },
+    { "en": "an archetypal figure", "ja": "原型的な人物像" },
+    { "en": "archetypal images", "ja": "元型的なイメージ" },
+    { "en": "the archetypal city", "ja": "典型的な都市" }
+  ],
+  "related": [
+    { "en": "archetype", "ja": "原型・典型・元型" },
+    { "en": "typical", "ja": "典型的な" },
+    { "en": "quintessential", "ja": "真髄の・典型的な" },
+    { "en": "prototypical", "ja": "原型的な・典型的な" }
+  ],
+  "faq": [
+    { "q": "archetypal と typical の違いは？", "a": "typical は『よくある・平均的で典型的な』、archetypal は『そのものの根源的な型・原型となるほど典型的な』という、より強く本質的なニュアンスです。archetypal hero は『英雄の原型そのもの』を指します。" },
+    { "q": "名詞形は？", "a": "archetype（原型・典型・(心理学ユングの)元型）です。archetypal はその形容詞形です。" }
+  ],
+  "quiz": [
+    { "q": "archetypal の意味は？", "A": "典型的な・原型的な", "B": "例外的な", "C": "現代的な", "D": "偽物の", "correct": "A" },
+    { "q": "archetypal の名詞形は？", "A": "archetype(原型)", "B": "architecture(建築)", "C": "archive(記録保管)", "D": "arch(アーチ)", "correct": "A" }
+  ]
+}
+]

@@ -1,0 +1,993 @@
+[
+{
+  "english": "footwork",
+  "pron": "ˈfʊtwɜːrk",
+  "kana": "フットワーク",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "foot(足)+work(働き)",
+  "ld_level": "2級",
+  "badges": ["中学生〜", "英検2級", "CEFR B1", "不可算名詞"],
+  "meaning_main": "足さばき/フットワーク/(比喩)身のこなし・巧みな立ち回り",
+  "description": "footwork（フットワーク）は「足さばき」。スポーツやダンスでの足の動き。比喩で「巧みな立ち回り・機敏な対応」も。意味・使い方・例文・関連語をわかりやすく解説。",
+  "keywords": ["footwork 意味", "フットワーク 足さばき", "footwork 使い方", "footwork 例文"],
+  "meanings": [
+    { "hinshi": "【名詞】足さばき・フットワーク", "note": "スポーツ・ダンス・ボクシングなどでの足の動かし方。不可算名詞" },
+    { "hinshi": "【名詞】(比喩)巧みな立ち回り", "note": "機敏で巧妙な対応・交渉術(fancy footwork＝巧妙な立ち回り)" }
+  ],
+  "usages": [
+    { "title": "① quick footwork（素早い足さばき）", "desc": "俊敏な足の動き", "example_en": "The boxer is known for his quick footwork.", "example_ja": "そのボクサーは素早い足さばきで知られる。" },
+    { "title": "② fancy footwork（巧妙な立ち回り）", "desc": "比喩的用法", "example_en": "It took some fancy footwork to close the deal.", "example_ja": "その取引をまとめるには巧妙な立ち回りが必要だった。" }
+  ],
+  "warn": ["fancy footwork は『(困難を切り抜ける)巧妙な立ち回り・機転』の比喩表現", "日本語の『フットワークが軽い』は英語では quick to act / nimble などで表す"],
+  "etym_note": "foot（足）＋work（働き・作業）。「足の働き＝足さばき」。そこから比喩的に『巧みな立ち回り』の意味も。",
+  "etym_chain": [
+    { "node": "foot + work", "sub": "足＋働き", "era": "近代英語" },
+    { "node": "footwork", "sub": "足さばき", "era": "19世紀" },
+    { "node": "footwork", "sub": "足さばき・立ち回り", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "quick footwork", "ja": "素早い足さばき" },
+    { "en": "fancy footwork", "ja": "巧妙な立ち回り" },
+    { "en": "nimble footwork", "ja": "機敏な足さばき" },
+    { "en": "good footwork", "ja": "良い足さばき" },
+    { "en": "practice footwork", "ja": "足さばきを練習する" },
+    { "en": "clever footwork", "ja": "巧妙な立ち回り" }
+  ],
+  "related": [
+    { "en": "foot", "ja": "足" },
+    { "en": "movement", "ja": "動き" },
+    { "en": "agility", "ja": "敏捷さ" },
+    { "en": "maneuvering", "ja": "巧みな操作・立ち回り" }
+  ],
+  "faq": [
+    { "q": "fancy footwork とは？", "a": "文字どおりは『凝った足さばき』ですが、比喩で『(困難や難局を)巧みに切り抜ける立ち回り・機転』を表します。It took some fancy footwork.(巧妙な立ち回りが必要だった)のように使います。" },
+    { "q": "どんなスポーツで使う？", "a": "ボクシング・サッカー・テニス・バスケットボール・ダンスなど、足の動きが重要な競技で広く使われます。" }
+  ],
+  "quiz": [
+    { "q": "footwork の意味は？", "A": "足さばき・フットワーク", "B": "手先の器用さ", "C": "記憶力", "D": "声の大きさ", "correct": "A" },
+    { "q": "fancy footwork の比喩的な意味は？", "A": "巧妙な立ち回り", "B": "派手な服装", "C": "遅い動き", "D": "大きな失敗", "correct": "A" }
+  ]
+},
+{
+  "english": "foreshadowing",
+  "pron": "fɔːrˈʃædoʊɪŋ",
+  "kana": "フォアシャドウイング",
+  "hinshi": "名詞 / 動詞(現在分詞)",
+  "ld_pos": "名詞",
+  "ld_etym": "fore-(前もって)+shadowing(影を落とすこと)",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "文学用語"],
+  "meaning_main": "伏線/前触れ/(後の展開を)ほのめかすこと",
+  "description": "foreshadowing（フォアシャドウイング）は「伏線・前触れ」。物語で後の展開をあらかじめほのめかす手法。動詞foreshadowの-ing形。意味・使い方・例文・関連語を解説。",
+  "keywords": ["foreshadowing 意味", "伏線 英語", "foreshadow 使い方", "foreshadowing 例文"],
+  "meanings": [
+    { "hinshi": "【名詞】伏線・前触れ", "note": "物語で、後の出来事をあらかじめそれとなくほのめかす手法・要素。不可算名詞" },
+    { "hinshi": "【動詞】(後のことを)ほのめかしている", "note": "foreshadow(前もって暗示する)の現在分詞" }
+  ],
+  "usages": [
+    { "title": "① a good example of foreshadowing（伏線の好例）", "desc": "後の展開の暗示", "example_en": "The storm is a classic example of foreshadowing.", "example_ja": "その嵐は伏線の典型的な例だ。" },
+    { "title": "② use foreshadowing（伏線を使う）", "desc": "手法として用いる", "example_en": "The author uses foreshadowing to build suspense.", "example_ja": "作者はサスペンスを高めるために伏線を使う。" }
+  ],
+  "warn": ["動詞は foreshadow(前もって暗示する・前触れとなる)。fore-(前もって)＋shadow(影)", "回収されていない伏線を指摘するのに『(その伏線が)payoff される』などと言うこともある"],
+  "etym_note": "fore-（前もって）＋shadow（影を投げかける）＝『(来るべきものが)前もって影を落とす』。そこから『前触れ・伏線』の意味に。",
+  "etym_chain": [
+    { "node": "fore- + shadow", "sub": "前もって＋影", "era": "近代英語" },
+    { "node": "foreshadow", "sub": "前もって暗示する", "era": "16世紀" },
+    { "node": "foreshadowing", "sub": "伏線・前触れ", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "use foreshadowing", "ja": "伏線を使う" },
+    { "en": "an example of foreshadowing", "ja": "伏線の例" },
+    { "en": "subtle foreshadowing", "ja": "さりげない伏線" },
+    { "en": "foreshadowing of events", "ja": "出来事の前触れ" },
+    { "en": "heavy foreshadowing", "ja": "あからさまな伏線" },
+    { "en": "a hint of foreshadowing", "ja": "伏線の気配" }
+  ],
+  "related": [
+    { "en": "foreshadow", "ja": "前もって暗示する" },
+    { "en": "hint", "ja": "ほのめかし・暗示" },
+    { "en": "premonition", "ja": "予感・虫の知らせ" },
+    { "en": "clue", "ja": "手がかり" }
+  ],
+  "faq": [
+    { "q": "foreshadowing とは？", "a": "物語で『後の展開・結末をあらかじめそれとなくほのめかす手法(伏線)』のことです。読者・観客に先の出来事を予感させ、サスペンスや納得感を生み出します。" },
+    { "q": "動詞の使い方は？", "a": "foreshadow(前もって暗示する)を使い、The scene foreshadows the tragedy.(その場面は悲劇の伏線になっている)のように表します。" }
+  ],
+  "quiz": [
+    { "q": "foreshadowing の意味は？", "A": "伏線・前触れ", "B": "結末", "C": "要約", "D": "背景説明", "correct": "A" },
+    { "q": "foreshadowing の動詞形は？", "A": "foreshadow(前もって暗示する)", "B": "forecast(予報する)", "C": "forget(忘れる)", "D": "forgive(許す)", "correct": "A" }
+  ]
+},
+{
+  "english": "forwards",
+  "pron": "ˈfɔːrwərdz",
+  "kana": "フォワーズ",
+  "hinshi": "副詞",
+  "ld_pos": "副詞",
+  "ld_etym": "forward(前へ)+-s",
+  "ld_level": "2級",
+  "badges": ["中学生〜", "英検2級", "CEFR A2", "副詞"],
+  "meaning_main": "前方へ/前へ/先へ(forwardと同義)",
+  "description": "forwards（フォワーズ）は「前方へ・前へ・先へ」。backwards(後ろへ)の反対の方向を表す副詞。forwardとも綴る。意味・使い方・例文・関連語をわかりやすく解説。",
+  "keywords": ["forwards 意味", "forward forwards", "前へ 英語", "forwards 例文"],
+  "meanings": [
+    { "hinshi": "【副詞】前方へ・前へ", "note": "前の方向へ、または将来・先へ向かって" }
+  ],
+  "usages": [
+    { "title": "① step forwards（前に進み出る）", "desc": "前方への動き", "example_en": "He stepped forwards to speak.", "example_ja": "彼は話すために前に進み出た。" },
+    { "title": "② move forwards（前進する）", "desc": "先へ進む", "example_en": "We need to move forwards with the plan.", "example_ja": "私たちはその計画を前に進める必要がある。" }
+  ],
+  "warn": ["forward(主に米)と forwards(主に英)は副詞で同義。形容詞・動詞は forward のみ", "対義語は backwards(後ろへ)。backwards and forwards(行ったり来たり)"],
+  "etym_note": "forward（古英語 foreweard「前方の」）＋-s（副詞語尾）。「前方へ」。",
+  "etym_chain": [
+    { "node": "foreweard", "sub": "前方の(古英語)", "era": "古英語" },
+    { "node": "forward", "sub": "前へ", "era": "中英語" },
+    { "node": "forwards", "sub": "前方へ", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "step forwards", "ja": "前に進み出る" },
+    { "en": "move forwards", "ja": "前進する" },
+    { "en": "lean forwards", "ja": "前かがみになる" },
+    { "en": "look forwards", "ja": "前を見る・先を見通す" },
+    { "en": "backwards and forwards", "ja": "行ったり来たり" },
+    { "en": "go forwards", "ja": "前へ進む" }
+  ],
+  "related": [
+    { "en": "forward", "ja": "前へ・前方の" },
+    { "en": "backwards", "ja": "後ろへ" },
+    { "en": "ahead", "ja": "前方に・先に" },
+    { "en": "onward", "ja": "前方へ・前進して" }
+  ],
+  "faq": [
+    { "q": "forward と forwards の違いは？", "a": "副詞としては同義で、forwards は主にイギリス英語、forward は主にアメリカ英語で好まれます。ただし形容詞(前方の)や動詞(転送する)には forward のみを使います。" },
+    { "q": "対義語は？", "a": "backwards(後ろへ)です。move forwards(前進する)⇔ move backwards(後退する)のように対で使います。" }
+  ],
+  "quiz": [
+    { "q": "forwards の意味は？", "A": "前方へ・前へ", "B": "後ろへ", "C": "上へ", "D": "横へ", "correct": "A" },
+    { "q": "forwards の対義語は？", "A": "backwards(後ろへ)", "B": "upwards(上へ)", "C": "inwards(内へ)", "D": "sidewards(横へ)", "correct": "A" }
+  ]
+},
+{
+  "english": "fossilized",
+  "pron": "ˈfɒsəlaɪzd",
+  "kana": "フォシライズド",
+  "hinshi": "形容詞 / 動詞(過去・過去分詞)",
+  "ld_pos": "形容詞",
+  "ld_etym": "fossilize(化石化する)+-ed",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "形容詞"],
+  "meaning_main": "化石化した/(比喩)古くさく固定化した",
+  "description": "fossilized（フォシライズド）は「化石化した」および比喩で「古くさく固定化した・時代遅れの」。生物が化石になる、考えや制度が硬直することを表す。英つづりfossilised。意味・使い方・例文を解説。",
+  "keywords": ["fossilized 意味", "化石化 英語", "fossilize 過去形", "fossilized 例文"],
+  "meanings": [
+    { "hinshi": "【形容詞】化石化した", "note": "生物の遺骸が長い年月をかけて化石になった" },
+    { "hinshi": "【形容詞】(比喩)古くさく固定化した", "note": "考え・制度・習慣が古いまま硬直して変わらない" }
+  ],
+  "usages": [
+    { "title": "① fossilized bones（化石化した骨）", "desc": "化石になったもの", "example_en": "They found fossilized bones of a dinosaur.", "example_ja": "彼らは恐竜の化石化した骨を発見した。" },
+    { "title": "② fossilized attitudes（古くさく固定した考え）", "desc": "比喩的用法", "example_en": "The company's fossilized attitudes slowed change.", "example_ja": "その会社の凝り固まった考えが変化を遅らせた。" }
+  ],
+  "warn": ["動詞 fossilize(化石化する・硬直させる)、名詞 fossil(化石)。英つづり fossilised", "比喩で『時代遅れで変化しない』という否定的な意味でも使う"],
+  "etym_note": "fossil（ラテン語 fossilis「掘り出された」＝fodere「掘る」由来）＋-ize＋-ed。「掘り出されるもの＝化石になった」。",
+  "etym_chain": [
+    { "node": "fossilis", "sub": "掘り出された(ラテン語)", "era": "ラテン語" },
+    { "node": "fossil", "sub": "化石", "era": "近代英語" },
+    { "node": "fossilized", "sub": "化石化した", "era": "19世紀" }
+  ],
+  "phrases": [
+    { "en": "fossilized bones", "ja": "化石化した骨" },
+    { "en": "fossilized remains", "ja": "化石化した遺骸" },
+    { "en": "a fossilized shell", "ja": "化石化した貝殻" },
+    { "en": "fossilized attitudes", "ja": "凝り固まった考え" },
+    { "en": "become fossilized", "ja": "化石化する・硬直する" },
+    { "en": "fossilized traditions", "ja": "旧態依然の伝統" }
+  ],
+  "related": [
+    { "en": "fossilize", "ja": "化石化する・硬直させる" },
+    { "en": "fossil", "ja": "化石" },
+    { "en": "petrified", "ja": "石化した" },
+    { "en": "outdated", "ja": "時代遅れの" }
+  ],
+  "faq": [
+    { "q": "fossilized の比喩的な意味は？", "a": "『古くさく固定化した・硬直して変わらない』という意味です。fossilized attitudes(凝り固まった考え)のように、時代遅れで柔軟性を失った状態を否定的に表します。" },
+    { "q": "名詞・動詞は？", "a": "名詞は fossil(化石)、動詞は fossilize(化石化する・硬直させる)です。" }
+  ],
+  "quiz": [
+    { "q": "fossilized の意味は？", "A": "化石化した・(比喩で)固定化した", "B": "新しくできた", "C": "溶けた", "D": "燃えた", "correct": "A" },
+    { "q": "fossilized attitudes の意味は？", "A": "凝り固まった古い考え", "B": "斬新な発想", "C": "柔軟な姿勢", "D": "楽観的な見方", "correct": "A" }
+  ]
+},
+{
+  "english": "freed",
+  "pron": "friːd",
+  "kana": "フリード",
+  "hinshi": "動詞(過去・過去分詞) / 形容詞",
+  "ld_pos": "動詞",
+  "ld_etym": "free(自由にする)+-ed",
+  "ld_level": "3級",
+  "badges": ["中学生〜", "英検3級", "CEFR A2", "過去形"],
+  "meaning_main": "解放された/自由にされた/(束縛から)解き放たれた",
+  "description": "freed（フリード）は「解放された・自由にされた・解き放たれた」。動詞free(自由にする・解放する)の過去・過去分詞。人・動物・時間などを束縛から解くことを表す。意味・使い方・例文を解説。",
+  "keywords": ["freed 意味", "free 過去形", "解放された 英語", "freed 例文"],
+  "meanings": [
+    { "hinshi": "【動詞】解放された・自由にされた", "note": "free(自由にする・解放する)の過去・過去分詞。束縛・拘束から解き放つ" }
+  ],
+  "usages": [
+    { "title": "① be freed from（〜から解放される）", "desc": "束縛から解かれる", "example_en": "The prisoners were freed after ten years.", "example_ja": "囚人たちは10年後に解放された。" },
+    { "title": "② freed up time（空いた時間）", "desc": "余裕を生む", "example_en": "The new system freed up a lot of time.", "example_ja": "新しいシステムは多くの時間を生み出した。" }
+  ],
+  "warn": ["free の活用は free-freed-freed(規則変化)。be freed from ~(〜から解放される)", "free up ~(〜(時間・資源)を空ける・生み出す)という句動詞も頻出"],
+  "etym_note": "free（古英語 frēo「自由な」）＋-ed。「自由にされた・解放された」。",
+  "etym_chain": [
+    { "node": "frēo", "sub": "自由な(古英語)", "era": "古英語" },
+    { "node": "free", "sub": "自由にする・解放する", "era": "中英語" },
+    { "node": "freed", "sub": "解放された", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "be freed from", "ja": "〜から解放される" },
+    { "en": "freed up time", "ja": "空いた時間" },
+    { "en": "freed the hostages", "ja": "人質を解放した" },
+    { "en": "freed from prison", "ja": "刑務所から釈放された" },
+    { "en": "freed from worry", "ja": "心配から解き放たれて" },
+    { "en": "newly freed", "ja": "解放されたばかりの" }
+  ],
+  "related": [
+    { "en": "free", "ja": "自由な・自由にする" },
+    { "en": "freedom", "ja": "自由" },
+    { "en": "released", "ja": "釈放された・解き放たれた" },
+    { "en": "liberated", "ja": "解放された" }
+  ],
+  "faq": [
+    { "q": "be freed from とは？", "a": "『〜から解放される・解き放たれる』という意味です。be freed from prison(刑務所から釈放される)、be freed from worry(心配から解放される)のように、束縛・拘束・負担から解かれることを表します。" },
+    { "q": "free up とは？", "a": "『(時間・資源・空間を)空ける・生み出す』という句動詞です。free up time(時間を作る)、free up space(空きを作る)のように使います。" }
+  ],
+  "quiz": [
+    { "q": "freed の意味は？", "A": "解放された・自由にされた", "B": "捕らえられた", "C": "隠された", "D": "壊された", "correct": "A" },
+    { "q": "free up time の意味は？", "A": "時間を空ける・生み出す", "B": "時間を無駄にする", "C": "時間を測る", "D": "時間を忘れる", "correct": "A" }
+  ]
+},
+{
+  "english": "garter",
+  "pron": "ˈɡɑːrtər",
+  "kana": "ガーター",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "古フランス語 gartier(ひざの)",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "可算名詞"],
+  "meaning_main": "ガーター(靴下留め)/(ガーター編み)",
+  "description": "garter（ガーター）は「靴下留め」。靴下やストッキングがずり落ちないよう留めるバンド。編み物のガーター編みや英国の勲章(ガーター勲章)にも使う。意味・語源・例文・関連語を解説。",
+  "keywords": ["garter 意味", "ガーター 靴下留め", "garter stitch", "garter 例文"],
+  "meanings": [
+    { "hinshi": "【名詞】ガーター・靴下留め", "note": "靴下やストッキングがずり落ちないよう脚に留めるバンド・ひも。可算名詞" },
+    { "hinshi": "【名詞】(ガーター編み)", "note": "編み物で表編みだけを繰り返す基本の編み方(garter stitch)" }
+  ],
+  "usages": [
+    { "title": "① a garter belt（ガーターベルト）", "desc": "靴下留めのベルト", "example_en": "She wore a garter belt with stockings.", "example_ja": "彼女はストッキングにガーターベルトを合わせた。" },
+    { "title": "② garter stitch（ガーター編み）", "desc": "編み物の技法", "example_en": "The scarf is knitted in garter stitch.", "example_ja": "そのマフラーはガーター編みで編まれている。" }
+  ],
+  "warn": ["garter belt(ガーターベルト)は靴下留めの下着。garter snake(ガーターヘビ)は北米の縞模様のヘビ", "英国の Order of the Garter(ガーター勲章)は最高位の騎士団勲章"],
+  "etym_note": "古フランス語 gartier（『ひざ(garet)の』）に由来。ひざの下で靴下を留めるバンドを指したことから。",
+  "etym_chain": [
+    { "node": "gartier", "sub": "ひざの(古フランス語)", "era": "古フランス語" },
+    { "node": "garter", "sub": "靴下留め", "era": "中英語" },
+    { "node": "garter", "sub": "ガーター", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "a garter belt", "ja": "ガーターベルト" },
+    { "en": "garter stitch", "ja": "ガーター編み" },
+    { "en": "a garter snake", "ja": "ガーターヘビ" },
+    { "en": "the Order of the Garter", "ja": "ガーター勲章" },
+    { "en": "wear a garter", "ja": "ガーターを着ける" },
+    { "en": "a lace garter", "ja": "レースのガーター" }
+  ],
+  "related": [
+    { "en": "stocking", "ja": "ストッキング・靴下" },
+    { "en": "belt", "ja": "ベルト" },
+    { "en": "elastic", "ja": "ゴムひも・伸縮性の" },
+    { "en": "suspenders", "ja": "サスペンダー・(英)靴下留め" }
+  ],
+  "faq": [
+    { "q": "garter とは？", "a": "靴下やストッキングがずり落ちないよう脚に留めるバンド・ひものことです。ガーターベルト(garter belt)という下着に付いていることが多いです。" },
+    { "q": "garter stitch とは？", "a": "編み物で『表編みだけを繰り返す基本の編み方(ガーター編み)』のことです。表裏が同じ見た目になり、初心者向けの編み方です。" }
+  ],
+  "quiz": [
+    { "q": "garter の意味は？", "A": "靴下留め(ガーター)", "B": "帽子", "C": "手袋", "D": "腕時計", "correct": "A" },
+    { "q": "garter stitch とは？", "A": "編み物のガーター編み", "B": "縫い目の一種の刺繍", "C": "織物の模様", "D": "靴のひも", "correct": "A" }
+  ]
+},
+{
+  "english": "generalities",
+  "pron": "ˌdʒɛnəˈrælətiz",
+  "kana": "ジェネラリティーズ",
+  "hinshi": "名詞(複数)",
+  "ld_pos": "名詞",
+  "ld_etym": "generality(一般論)の複数",
+  "ld_level": "1級",
+  "badges": ["大学生〜", "英検1級", "CEFR C1", "複数名詞"],
+  "meaning_main": "一般論/概括的な話/当たり障りのない言葉",
+  "description": "generalities（ジェネラリティーズ）は「一般論・概括的な話・当たり障りのない言葉」。具体性を欠いた漠然とした話を指す。specifics(具体的な事柄)の対。generalityの複数形。意味・使い方・例文を解説。",
+  "keywords": ["generalities 意味", "generality 複数", "一般論 英語", "generalities 例文"],
+  "meanings": [
+    { "hinshi": "【名詞】一般論・概括的な話", "note": "具体性を欠いた漠然とした一般的な言い方。しばしば『当たり障りのない話』。ふつう複数形" }
+  ],
+  "usages": [
+    { "title": "① speak in generalities（一般論を述べる）", "desc": "具体性を欠く話", "example_en": "He spoke only in generalities.", "example_ja": "彼は一般論しか述べなかった。" },
+    { "title": "② vague generalities（漠然とした一般論）", "desc": "当たり障りのない話", "example_en": "The report was full of vague generalities.", "example_ja": "その報告は漠然とした一般論ばかりだった。" }
+  ],
+  "warn": ["対になる語は specifics / particulars(具体的な事柄・詳細)。単数 generality は『一般性・大多数』の意味", "speak in generalities(一般論に終始する)は否定的に使われることが多い"],
+  "etym_note": "generality（general「一般の」＋-ity＝一般性）の複数用法。『個々の具体でなく一般的な言い方』を指す。",
+  "etym_chain": [
+    { "node": "generalis", "sub": "一般の(ラテン語)", "era": "ラテン語" },
+    { "node": "generality", "sub": "一般性・一般論", "era": "中英語" },
+    { "node": "generalities", "sub": "一般論", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "speak in generalities", "ja": "一般論を述べる" },
+    { "en": "vague generalities", "ja": "漠然とした一般論" },
+    { "en": "broad generalities", "ja": "大まかな一般論" },
+    { "en": "beyond generalities", "ja": "一般論を超えて" },
+    { "en": "empty generalities", "ja": "中身のない一般論" },
+    { "en": "stick to generalities", "ja": "一般論に終始する" }
+  ],
+  "related": [
+    { "en": "generality", "ja": "一般性・一般論" },
+    { "en": "specifics", "ja": "具体的な事柄・詳細" },
+    { "en": "abstraction", "ja": "抽象・抽象概念" },
+    { "en": "platitude", "ja": "月並みな言葉" }
+  ],
+  "faq": [
+    { "q": "generalities と specifics の違いは？", "a": "generalities は『(具体性を欠いた)一般論・概括的な話』、specifics は『具体的な事柄・詳細』です。speak in generalities(一般論に終始する)⇔ get into specifics(詳細に立ち入る)のように対比されます。" },
+    { "q": "否定的な意味？", "a": "しばしば否定的です。『中身の具体性がなく当たり障りのない話』というニュアンスで、vague/empty generalities(漠然とした・中身のない一般論)のように使われます。" }
+  ],
+  "quiz": [
+    { "q": "generalities の意味は？", "A": "一般論・概括的な話", "B": "具体的な詳細", "C": "正確な数値", "D": "個別の事例", "correct": "A" },
+    { "q": "generalities と対になる語は？", "A": "specifics(具体的な事柄)", "B": "quantities(量)", "C": "qualities(質)", "D": "faculties(能力)", "correct": "A" }
+  ]
+},
+{
+  "english": "globular",
+  "pron": "ˈɡlɒbjələr",
+  "kana": "グロビュラー",
+  "hinshi": "形容詞",
+  "ld_pos": "形容詞",
+  "ld_etym": "globule(小球)+-ar",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "形容詞"],
+  "meaning_main": "球状の/球形の/小球からなる",
+  "description": "globular（グロビュラー）は「球状の・球形の・小球からなる」。丸い立体の形をしたものを表す。sphericalとほぼ同義。天文のglobular cluster(球状星団)にも使う。意味・使い方・例文を解説。",
+  "keywords": ["globular 意味", "球状の 英語", "globular cluster", "globular 例文"],
+  "meanings": [
+    { "hinshi": "【形容詞】球状の・球形の", "note": "丸い立体(球)の形をした。spherical とほぼ同義" },
+    { "hinshi": "【形容詞】小球からなる", "note": "小さな球の集まりでできた" }
+  ],
+  "usages": [
+    { "title": "① a globular shape（球状の形）", "desc": "丸い立体", "example_en": "The cactus has a globular shape.", "example_ja": "そのサボテンは球状の形をしている。" },
+    { "title": "② a globular cluster（球状星団）", "desc": "天文用語", "example_en": "A globular cluster contains many old stars.", "example_ja": "球状星団は多くの古い星を含む。" }
+  ],
+  "warn": ["spherical(球形の)とほぼ同義。名詞 globe(球・地球)、globule(小球・粒)", "globular cluster(球状星団)、globular protein(球状タンパク質)など専門用語で頻出"],
+  "etym_note": "globule（ラテン語 globulus「小さな球」＝globus「球」の指小形）＋-ar。「小球の・球状の」。",
+  "etym_chain": [
+    { "node": "globus", "sub": "球(ラテン語)", "era": "ラテン語" },
+    { "node": "globule", "sub": "小球・粒", "era": "近代英語" },
+    { "node": "globular", "sub": "球状の", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "a globular shape", "ja": "球状の形" },
+    { "en": "a globular cluster", "ja": "球状星団" },
+    { "en": "globular protein", "ja": "球状タンパク質" },
+    { "en": "a globular mass", "ja": "球状の塊" },
+    { "en": "roughly globular", "ja": "ほぼ球状の" },
+    { "en": "a globular form", "ja": "球状の形態" }
+  ],
+  "related": [
+    { "en": "spherical", "ja": "球形の" },
+    { "en": "globe", "ja": "球・地球儀" },
+    { "en": "round", "ja": "丸い" },
+    { "en": "spheroidal", "ja": "回転楕円体の" }
+  ],
+  "faq": [
+    { "q": "globular と spherical の違いは？", "a": "どちらも『球状の・球形の』を表しほぼ同義です。spherical は『完全な球の』というニュアンス、globular は『(小球の集まりや)丸みを帯びた球状の』というニュアンスで使われることがあります。専門用語では慣用的にどちらかが使われます。" },
+    { "q": "globular cluster とは？", "a": "『球状星団』のことで、数万〜数百万個の古い星が球状に密集した天体です。銀河のまわりに分布しています。" }
+  ],
+  "quiz": [
+    { "q": "globular の意味は？", "A": "球状の・球形の", "B": "四角い", "C": "平らな", "D": "細長い", "correct": "A" },
+    { "q": "globular とほぼ同義の語は？", "A": "spherical(球形の)", "B": "angular(角ばった)", "C": "circular(円形の)", "D": "regular(規則的な)", "correct": "A" }
+  ]
+},
+{
+  "english": "graded",
+  "pron": "ˈɡreɪdɪd",
+  "kana": "グレイディッド",
+  "hinshi": "形容詞 / 動詞(過去・過去分詞)",
+  "ld_pos": "形容詞",
+  "ld_etym": "grade(等級をつける・採点する)+-ed",
+  "ld_level": "2級",
+  "badges": ["中学生〜", "英検2級", "CEFR B1", "過去分詞"],
+  "meaning_main": "段階分けされた/等級づけされた/採点された",
+  "description": "graded（グレイディッド）は「段階分けされた・等級づけされた・採点された」。難易度や品質を段階に分ける、答案を採点する意味で使う。動詞gradeの過去分詞。意味・使い方・例文を解説。",
+  "keywords": ["graded 意味", "grade 過去形", "graded readers", "graded 例文"],
+  "meanings": [
+    { "hinshi": "【形容詞】段階分けされた・等級づけされた", "note": "難易度・品質・大きさなどが段階に分けられた(graded readers＝段階別の読み物)" },
+    { "hinshi": "【動詞】grade の過去・過去分詞", "note": "grade(等級をつける・(米)採点する・地ならしする)の活用形" }
+  ],
+  "usages": [
+    { "title": "① graded readers（段階別読み物）", "desc": "難易度別の教材", "example_en": "Graded readers help learners build reading skills.", "example_ja": "段階別読み物は学習者の読解力育成に役立つ。" },
+    { "title": "② graded exams（採点された試験）", "desc": "採点済みの答案", "example_en": "The teacher returned the graded exams.", "example_ja": "先生は採点した試験を返却した。" }
+  ],
+  "warn": ["grade は米で『採点する』、英では mark を使うことが多い。名詞 grade(等級・成績・学年)", "graded readers(語彙・文法を段階分けした学習用の読み物)は英語学習で頻出"],
+  "etym_note": "grade（ラテン語 gradus「段階・歩み」由来。『等級をつける』）＋-ed。「段階分けされた」。",
+  "etym_chain": [
+    { "node": "gradus", "sub": "段階・歩み(ラテン語)", "era": "ラテン語" },
+    { "node": "grade", "sub": "等級をつける・採点する", "era": "近代英語" },
+    { "node": "graded", "sub": "段階分けされた", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "graded readers", "ja": "段階別読み物" },
+    { "en": "graded exercises", "ja": "段階別の練習問題" },
+    { "en": "graded exams", "ja": "採点された試験" },
+    { "en": "a graded test", "ja": "採点済みのテスト" },
+    { "en": "finely graded", "ja": "細かく段階分けされた" },
+    { "en": "graded by difficulty", "ja": "難易度別に分けられた" }
+  ],
+  "related": [
+    { "en": "grade", "ja": "等級・成績・採点する" },
+    { "en": "graded reader", "ja": "段階別読み物" },
+    { "en": "ranked", "ja": "順位づけされた" },
+    { "en": "marked", "ja": "採点された(英)" }
+  ],
+  "faq": [
+    { "q": "graded readers とは？", "a": "語彙や文法を学習者のレベルに合わせて段階分けした『段階別の読み物』のことです。やさしいものから徐々に難しくして、無理なく読解力を伸ばせます。" },
+    { "q": "grade と mark の違いは？", "a": "どちらも『採点する』を表します。grade は主にアメリカ英語、mark は主にイギリス英語で使われます。名詞の grade は『成績・等級・学年』も表します。" }
+  ],
+  "quiz": [
+    { "q": "graded の意味は？", "A": "段階分けされた・採点された", "B": "壊された", "C": "隠された", "D": "混ぜられた", "correct": "A" },
+    { "q": "graded readers とは？", "A": "難易度を段階分けした学習用の読み物", "B": "採点者", "C": "図書館の司書", "D": "電子辞書", "correct": "A" }
+  ]
+},
+{
+  "english": "greatest",
+  "pron": "ˈɡreɪtɪst",
+  "kana": "グレイテスト",
+  "hinshi": "形容詞(最上級)",
+  "ld_pos": "形容詞",
+  "ld_etym": "great(偉大な・大きい)の最上級",
+  "ld_level": "3級",
+  "badges": ["中学生〜", "英検3級", "CEFR A2", "最上級"],
+  "meaning_main": "最も偉大な/最大の/最高の(greatの最上級)",
+  "description": "greatest（グレイテスト）は形容詞great(偉大な・大きい・すばらしい)の最上級で「最も偉大な・最大の・最高の」。the greatest(最高のもの・最も偉大な人)で使う。意味・使い方・例文を解説。",
+  "keywords": ["greatest 意味", "great 最上級", "the greatest", "greatest 例文"],
+  "meanings": [
+    { "hinshi": "【形容詞】最も偉大な・最大の・最高の", "note": "great(偉大な・大きい・すばらしい)の最上級" }
+  ],
+  "usages": [
+    { "title": "① the greatest of all time（史上最高の）", "desc": "最上級の評価", "example_en": "He is called the greatest of all time.", "example_ja": "彼は史上最高と呼ばれている。" },
+    { "title": "② my greatest fear（最大の恐れ）", "desc": "最も大きいもの", "example_en": "My greatest fear is failure.", "example_ja": "私の最大の恐れは失敗だ。" }
+  ],
+  "warn": ["変化は great-greater-greatest。the greatest(最も偉大な人・もの)。GOAT(Greatest Of All Time＝史上最高)という略語も", "greatest hits(ベスト盤・代表曲集)は音楽で頻出"],
+  "etym_note": "great（古英語 grēat「大きい・太い」）の最上級 greatest。「最も大きい・偉大な」。",
+  "etym_chain": [
+    { "node": "grēat", "sub": "大きい・太い(古英語)", "era": "古英語" },
+    { "node": "great", "sub": "偉大な・大きい", "era": "中英語" },
+    { "node": "greatest", "sub": "最も偉大な・最大の", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "the greatest of all time", "ja": "史上最高の" },
+    { "en": "my greatest fear", "ja": "最大の恐れ" },
+    { "en": "the greatest ever", "ja": "史上最高の" },
+    { "en": "greatest hits", "ja": "ベスト盤・代表曲集" },
+    { "en": "one's greatest achievement", "ja": "最大の功績" },
+    { "en": "the greatest number", "ja": "最大数" }
+  ],
+  "related": [
+    { "en": "great", "ja": "偉大な・大きい" },
+    { "en": "greater", "ja": "より偉大な・より大きい" },
+    { "en": "biggest", "ja": "最も大きい" },
+    { "en": "finest", "ja": "最高の・最良の" }
+  ],
+  "faq": [
+    { "q": "great の比較変化は？", "a": "great-greater-greatest です。greater が比較級『より偉大な・より大きい』、greatest が最上級『最も偉大な・最大の』です。" },
+    { "q": "GOAT とは？", "a": "Greatest Of All Time(史上最高)の略で、スポーツや音楽などで『史上最高の人物』を指すスラングです。ヤギ(goat)とかけた表現です。" }
+  ],
+  "quiz": [
+    { "q": "greatest の意味は？", "A": "最も偉大な・最大の・最高の", "B": "最も小さい", "C": "より大きい", "D": "普通の", "correct": "A" },
+    { "q": "great の最上級は？", "A": "greatest", "B": "greater", "C": "most great", "D": "greatly", "correct": "A" }
+  ]
+},
+{
+  "english": "guangdong",
+  "pron": "ˌɡwæŋˈdʊŋ",
+  "kana": "グアンドン(広東)",
+  "hinshi": "名詞(固有名詞)",
+  "ld_pos": "固有名詞",
+  "ld_etym": "中国語 広東(Guǎngdōng)",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "地名"],
+  "meaning_main": "広東(カントン)省/中国南部の省",
+  "description": "guangdong（グアンドン／広東）は中国南部の省。省都は広州(Guangzhou)で、深圳(Shenzhen)も位置する経済的に発展した地域。広東料理・広東語でも有名。文中では大文字Guangdong。意味・背景を解説。",
+  "keywords": ["guangdong 意味", "広東省 英語", "Guangdong 中国", "広東 場所"],
+  "meanings": [
+    { "hinshi": "【固有名詞】広東(カントン)省", "note": "中国南部の省。省都は広州(Guangzhou)。深圳(Shenzhen)も位置する。経済的に発展した地域。文中では大文字 Guangdong" }
+  ],
+  "usages": [
+    { "title": "① 省として", "desc": "中国南部の省", "example_en": "Guangdong is one of China's most populous provinces.", "example_ja": "広東は中国で最も人口の多い省の一つだ。" },
+    { "title": "② 経済の文脈で", "desc": "発展した地域", "example_en": "Guangdong is a major manufacturing hub.", "example_ja": "広東は主要な製造業の拠点だ。" }
+  ],
+  "warn": ["固有名詞なので文中では大文字 Guangdong。省都の広州は Guangzhou(旧称カントン)、深圳は Shenzhen", "広東語(Cantonese)・広東料理(Cantonese cuisine)の Canton は広州・広東の旧称に由来"],
+  "etym_note": "中国語の地名『広東(Guǎngdōng)』のピンイン表記。『広』は広い、『東』は東を意味する。英語では旧称 Canton(カントン)としても知られる。",
+  "etym_chain": [
+    { "node": "広東", "sub": "広い東(中国語)", "era": "中国語" },
+    { "node": "Guǎngdōng", "sub": "ピンイン表記", "era": "現代中国語" },
+    { "node": "Guangdong", "sub": "広東省(英語表記)", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "Guangdong Province", "ja": "広東省" },
+    { "en": "southern Guangdong", "ja": "広東省南部" },
+    { "en": "Guangdong and Hong Kong", "ja": "広東と香港" },
+    { "en": "based in Guangdong", "ja": "広東を拠点とする" },
+    { "en": "Guangdong cuisine", "ja": "広東料理" },
+    { "en": "the Guangdong economy", "ja": "広東の経済" }
+  ],
+  "related": [
+    { "en": "china", "ja": "中国" },
+    { "en": "shenzhen", "ja": "深圳" },
+    { "en": "hong kong", "ja": "香港" },
+    { "en": "province", "ja": "省・州" }
+  ],
+  "faq": [
+    { "q": "Guangdong はどこにある？", "a": "中国南部の省で、香港に隣接します。省都は広州(Guangzhou)、経済特区の深圳(Shenzhen)も位置し、中国有数の人口と製造業を持つ経済的に発展した地域です。" },
+    { "q": "広東語(Cantonese)との関係は？", "a": "広東語(Cantonese)はこの地域で話される言語で、香港でも広く使われます。Canton は広州・広東の旧称に由来します。" }
+  ],
+  "quiz": [
+    { "q": "Guangdong はどの国の省？", "A": "中国", "B": "日本", "C": "韓国", "D": "ベトナム", "correct": "A" },
+    { "q": "Guangdong 省にある経済特区の都市は？", "A": "深圳(Shenzhen)", "B": "北京", "C": "上海", "D": "西安", "correct": "A" }
+  ]
+},
+{
+  "english": "guaranteed",
+  "pron": "ˌɡærənˈtiːd",
+  "kana": "ギャランティード",
+  "hinshi": "形容詞 / 動詞(過去・過去分詞)",
+  "ld_pos": "形容詞",
+  "ld_etym": "guarantee(保証する)+-ed",
+  "ld_level": "2級",
+  "badges": ["中学生〜", "英検2級", "CEFR B1", "過去分詞"],
+  "meaning_main": "保証された/確実な/請け合いの",
+  "description": "guaranteed（ギャランティード）は「保証された・確実な・請け合いの」。品質・結果などが確実に約束されていることを表す。動詞guaranteeの過去分詞。意味・使い方・例文・関連語を解説。",
+  "keywords": ["guaranteed 意味", "guarantee 過去形", "保証された 英語", "guaranteed 例文"],
+  "meanings": [
+    { "hinshi": "【形容詞】保証された・確実な", "note": "品質・結果・支払いなどが確実に約束された。まず間違いない" },
+    { "hinshi": "【動詞】guarantee の過去・過去分詞", "note": "guarantee(保証する・請け合う)の活用形" }
+  ],
+  "usages": [
+    { "title": "① guaranteed to work（必ず効くと保証された）", "desc": "確実性の保証", "example_en": "This method is guaranteed to work.", "example_ja": "この方法は必ずうまくいくと保証されている。" },
+    { "title": "② a guaranteed income（保証された収入）", "desc": "確実な約束", "example_en": "The job offers a guaranteed income.", "example_ja": "その仕事は保証された収入をもたらす。" }
+  ],
+  "warn": ["動詞 guarantee(保証する)、名詞 guarantee / guaranty(保証)。つづり注意(guarantee)", "guaranteed to do(必ず〜する・〜すると保証された)は決まった形"],
+  "etym_note": "guarantee（古フランス語 garant「保証人」由来）＋-ed。「保証された」。warrant(保証する)と同系。",
+  "etym_chain": [
+    { "node": "garant", "sub": "保証人(古フランス語)", "era": "古フランス語" },
+    { "node": "guarantee", "sub": "保証する", "era": "近代英語" },
+    { "node": "guaranteed", "sub": "保証された", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "guaranteed to work", "ja": "必ずうまくいくと保証された" },
+    { "en": "a guaranteed income", "ja": "保証された収入" },
+    { "en": "satisfaction guaranteed", "ja": "満足保証" },
+    { "en": "guaranteed delivery", "ja": "確実な配達" },
+    { "en": "guaranteed for a year", "ja": "1年間保証" },
+    { "en": "money-back guaranteed", "ja": "返金保証つき" }
+  ],
+  "related": [
+    { "en": "guarantee", "ja": "保証する・保証" },
+    { "en": "warranty", "ja": "(製品の)保証" },
+    { "en": "ensured", "ja": "確実にされた" },
+    { "en": "assured", "ja": "保証された・確信した" }
+  ],
+  "faq": [
+    { "q": "guaranteed to do とは？", "a": "『必ず〜する・〜すると保証された』という意味です。guaranteed to succeed(必ず成功する)のように、結果が確実だと請け合う表現です。" },
+    { "q": "guarantee と warranty の違いは？", "a": "どちらも『保証』ですが、guarantee は『(結果・品質を)確実に約束すること』全般、warranty は特に『(製品の)一定期間の品質保証』を指す法的・商業的な語です。" }
+  ],
+  "quiz": [
+    { "q": "guaranteed の意味は？", "A": "保証された・確実な", "B": "疑わしい", "C": "禁止された", "D": "壊れた", "correct": "A" },
+    { "q": "guaranteed to work の意味は？", "A": "必ずうまくいくと保証された", "B": "動かない可能性が高い", "C": "修理が必要な", "D": "高価な", "correct": "A" }
+  ]
+},
+{
+  "english": "half-day",
+  "pron": "ˈhɑːf deɪ",
+  "kana": "ハーフデイ",
+  "hinshi": "名詞 / 形容詞",
+  "ld_pos": "名詞",
+  "ld_etym": "half(半分)+day(日)",
+  "ld_level": "2級",
+  "badges": ["中学生〜", "英検2級", "CEFR B1", "可算名詞"],
+  "meaning_main": "半日/半日勤務・半日授業(の)",
+  "description": "half-day（ハーフデイ）は「半日」。仕事や学校が午前または午後だけの半分の日。形容詞で「半日の」も。意味・使い方・例文・関連語をわかりやすく解説。",
+  "keywords": ["half-day 意味", "half day 半日", "half-day 使い方", "half-day 例文"],
+  "meanings": [
+    { "hinshi": "【名詞】半日", "note": "1日の半分(午前だけ・午後だけ)。仕事・学校が半分の日。可算名詞" },
+    { "hinshi": "【形容詞】半日の", "note": "半日で行われる(a half-day tour＝半日ツアー)" }
+  ],
+  "usages": [
+    { "title": "① take a half-day（半休をとる）", "desc": "半日休む", "example_en": "I'm taking a half-day on Friday.", "example_ja": "金曜は半休をとる。" },
+    { "title": "② a half-day tour（半日ツアー）", "desc": "半日の予定", "example_en": "We booked a half-day tour of the city.", "example_ja": "私たちは市内の半日ツアーを予約した。" }
+  ],
+  "warn": ["half(半分)＋day(日)の複合語。名詞・形容詞で使う", "take a half-day(半休をとる)、a half-day off(半日の休み)。対になる語は full day(丸1日)"],
+  "etym_note": "half（半分）＋day（日）。「1日の半分」。",
+  "etym_chain": [
+    { "node": "half + day", "sub": "半分＋日", "era": "古英語系" },
+    { "node": "half-day", "sub": "半日", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "take a half-day", "ja": "半休をとる" },
+    { "en": "a half-day tour", "ja": "半日ツアー" },
+    { "en": "a half-day off", "ja": "半日の休み" },
+    { "en": "a half-day course", "ja": "半日コース" },
+    { "en": "work a half-day", "ja": "半日働く" },
+    { "en": "a half-day holiday", "ja": "半日の休日" }
+  ],
+  "related": [
+    { "en": "full day", "ja": "丸1日" },
+    { "en": "half", "ja": "半分" },
+    { "en": "morning", "ja": "午前" },
+    { "en": "afternoon", "ja": "午後" }
+  ],
+  "faq": [
+    { "q": "half-day とは？", "a": "『半日』のことで、仕事や学校が午前だけ・午後だけの半分の日を指します。take a half-day(半休をとる)、a half-day tour(半日ツアー)のように使います。" },
+    { "q": "対になる語は？", "a": "full day(丸1日)です。a half-day tour(半日ツアー)⇔ a full-day tour(1日ツアー)のように使い分けます。" }
+  ],
+  "quiz": [
+    { "q": "half-day の意味は？", "A": "半日", "B": "真夜中", "C": "1週間", "D": "祝日", "correct": "A" },
+    { "q": "take a half-day の意味は？", "A": "半休をとる", "B": "残業する", "C": "早起きする", "D": "出張する", "correct": "A" }
+  ]
+},
+{
+  "english": "hand-me-down",
+  "pron": "ˈhænd mi daʊn",
+  "kana": "ハンドミーダウン",
+  "hinshi": "名詞 / 形容詞",
+  "ld_pos": "名詞",
+  "ld_etym": "hand me down(私に渡して)から",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "口語"],
+  "meaning_main": "お下がり/(兄姉などからの)使い古しの品",
+  "description": "hand-me-down（ハンドミーダウン）は「お下がり」。兄姉や年上の人から譲り受けた使い古しの衣服・品物。形容詞で「お下がりの」も。意味・語源・例文・関連語を解説。",
+  "keywords": ["hand-me-down 意味", "お下がり 英語", "hand me down 使い方", "hand-me-down 例文"],
+  "meanings": [
+    { "hinshi": "【名詞】お下がり", "note": "兄姉や年上の人から譲り受けた使い古しの衣服・持ち物。ふつう複数形でも。可算名詞" },
+    { "hinshi": "【形容詞】お下がりの・使い古しの", "note": "譲り受けた(hand-me-down clothes＝お下がりの服)" }
+  ],
+  "usages": [
+    { "title": "① wear hand-me-downs（お下がりを着る）", "desc": "譲り受けた服", "example_en": "As the youngest, he wore hand-me-downs.", "example_ja": "末っ子の彼はお下がりを着ていた。" },
+    { "title": "② hand-me-down clothes（お下がりの服）", "desc": "形容詞用法", "example_en": "She grew up in hand-me-down clothes.", "example_ja": "彼女はお下がりの服で育った。" }
+  ],
+  "warn": ["hand something down(〜を(下の世代に)伝える・譲る)という句動詞から生まれた名詞。ハイフンでつなぐ", "類語 secondhand(中古の)。ただし hand-me-down は特に『身内から譲り受けた』ニュアンス"],
+  "etym_note": "句動詞 hand down（(下の世代へ)譲り渡す）＋me（私に）から。『私に譲り渡された(もの)』が名詞化した。",
+  "etym_chain": [
+    { "node": "hand down", "sub": "譲り渡す", "era": "近代英語" },
+    { "node": "hand-me-down", "sub": "お下がり", "era": "19世紀米" },
+    { "node": "hand-me-down", "sub": "お下がり(の)", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "wear hand-me-downs", "ja": "お下がりを着る" },
+    { "en": "hand-me-down clothes", "ja": "お下がりの服" },
+    { "en": "a hand-me-down bike", "ja": "お下がりの自転車" },
+    { "en": "get hand-me-downs", "ja": "お下がりをもらう" },
+    { "en": "hand-me-down furniture", "ja": "譲り受けた家具" },
+    { "en": "old hand-me-downs", "ja": "古いお下がり" }
+  ],
+  "related": [
+    { "en": "secondhand", "ja": "中古の" },
+    { "en": "used", "ja": "使い古した・中古の" },
+    { "en": "inherited", "ja": "受け継いだ" },
+    { "en": "pre-owned", "ja": "中古の" }
+  ],
+  "faq": [
+    { "q": "hand-me-down とは？", "a": "『お下がり』のことで、兄姉や年上の人から譲り受けた使い古しの衣服・品物を指します。wear hand-me-downs(お下がりを着る)のように使います。" },
+    { "q": "secondhand との違いは？", "a": "どちらも『中古の』ですが、hand-me-down は特に『身内・知人から譲り受けた』ニュアンス、secondhand は『(店などで買う)中古品』全般を指します。" }
+  ],
+  "quiz": [
+    { "q": "hand-me-down の意味は？", "A": "お下がり(譲り受けた使い古しの品)", "B": "新品", "C": "手作りの品", "D": "高級品", "correct": "A" },
+    { "q": "hand-me-down と近い語は？", "A": "secondhand(中古の)", "B": "brand-new(新品の)", "C": "handmade(手作りの)", "D": "expensive(高価な)", "correct": "A" }
+  ]
+},
+{
+  "english": "heavily",
+  "pron": "ˈhɛvɪli",
+  "kana": "ヘビリー",
+  "hinshi": "副詞",
+  "ld_pos": "副詞",
+  "ld_etym": "heavy(重い・激しい)+-ly",
+  "ld_level": "2級",
+  "badges": ["中学生〜", "英検2級", "CEFR B1", "副詞"],
+  "meaning_main": "重く/激しく/大量に/大いに",
+  "description": "heavily（ヘビリー）は「重く・激しく・大量に・大いに」。程度が大きいこと(雨・依存・投資など)を強調する副詞。heavy(重い・激しい)の副詞形。rain heavily(激しく降る)など。意味・使い方・例文を解説。",
+  "keywords": ["heavily 意味", "heavy 副詞", "激しく 英語", "heavily 例文"],
+  "meanings": [
+    { "hinshi": "【副詞】激しく・大量に", "note": "雨・降雪などが激しく(rain heavily＝激しく降る)" },
+    { "hinshi": "【副詞】大いに・大幅に", "note": "程度が大きく(rely heavily on＝大いに依存する)" },
+    { "hinshi": "【副詞】重く・重々しく", "note": "重量・動作が重い(breathe heavily＝荒く息をする)" }
+  ],
+  "usages": [
+    { "title": "① rain heavily（激しく降る）", "desc": "程度の強さ", "example_en": "It was raining heavily.", "example_ja": "雨が激しく降っていた。" },
+    { "title": "② rely heavily on（大いに依存する）", "desc": "程度を強める", "example_en": "They rely heavily on imports.", "example_ja": "彼らは輸入に大きく依存している。" }
+  ],
+  "warn": ["形容詞 heavy(重い・激しい・多量の)。多くの動詞と結びつく(rain/rely/invest/drink heavily など)", "heavily armed(重装備の)、heavily populated(人口の多い)などの複合的表現も"],
+  "etym_note": "heavy（古英語 hefig「重い」）＋-ly。「重く・激しく・大いに」。",
+  "etym_chain": [
+    { "node": "hefig", "sub": "重い(古英語)", "era": "古英語" },
+    { "node": "heavy", "sub": "重い・激しい", "era": "中英語" },
+    { "node": "heavily", "sub": "重く・激しく・大いに", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "rain heavily", "ja": "激しく降る" },
+    { "en": "rely heavily on", "ja": "大いに依存する" },
+    { "en": "invest heavily", "ja": "多額の投資をする" },
+    { "en": "heavily armed", "ja": "重装備の" },
+    { "en": "heavily populated", "ja": "人口の多い" },
+    { "en": "breathe heavily", "ja": "荒く息をする" }
+  ],
+  "related": [
+    { "en": "heavy", "ja": "重い・激しい・多量の" },
+    { "en": "greatly", "ja": "大いに" },
+    { "en": "intensely", "ja": "激しく" },
+    { "en": "lightly", "ja": "軽く" }
+  ],
+  "faq": [
+    { "q": "heavily の対義的な副詞は？", "a": "lightly(軽く)です。rain heavily(激しく降る)⇔ rain lightly(小降りに降る)、rely heavily on(大いに依存する)⇔ rely lightly のように対比できます。" },
+    { "q": "rely heavily on とは？", "a": "『〜に大いに依存する・大きく頼る』という意味です。The economy relies heavily on tourism.(経済は観光に大きく依存している)のように使います。" }
+  ],
+  "quiz": [
+    { "q": "rain heavily の意味は？", "A": "激しく(大量に)降る", "B": "小降りに降る", "C": "やむ", "D": "晴れる", "correct": "A" },
+    { "q": "rely heavily on の意味は？", "A": "〜に大いに依存する", "B": "〜を軽視する", "C": "〜を避ける", "D": "〜を疑う", "correct": "A" }
+  ]
+},
+{
+  "english": "heckler",
+  "pron": "ˈhɛklər",
+  "kana": "ヘクラー",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "heckle(やじる)+-er(人)",
+  "ld_level": "1級",
+  "badges": ["大学生〜", "英検1級", "CEFR C1", "可算名詞"],
+  "meaning_main": "やじる人/(演説・演技を)野次って妨害する人",
+  "description": "heckler（ヘクラー）は「やじる人」。演説・公演・コメディなどで、話し手を野次って妨害する人を指す。動詞heckle(やじる)の名詞。意味・使い方・例文・関連語を解説。",
+  "keywords": ["heckler 意味", "heckle 名詞", "やじる 英語", "heckler 例文"],
+  "meanings": [
+    { "hinshi": "【名詞】やじる人・野次って妨害する人", "note": "演説・公演・コメディなどで話し手に野次を飛ばし邪魔する人。可算名詞" }
+  ],
+  "usages": [
+    { "title": "① silence a heckler（やじる人を黙らせる）", "desc": "妨害者への対応", "example_en": "The comedian silenced the heckler with a joke.", "example_ja": "そのコメディアンは冗談でやじる人を黙らせた。" },
+    { "title": "② deal with hecklers（やじ客をあしらう）", "desc": "妨害への対処", "example_en": "Politicians must learn to deal with hecklers.", "example_ja": "政治家はやじ客をあしらう術を身につけねばならない。" }
+  ],
+  "warn": ["動詞は heckle(やじる・野次って妨害する)。名詞 heckling(やじ)", "コメディで観客のやじにその場で切り返す返しを comeback / put-down などと呼ぶ"],
+  "etym_note": "heckle（もと『(繊維を)すく』の意から『厳しく問いただす・やじる』へ）＋-er（〜する人）。「やじる人」。",
+  "etym_chain": [
+    { "node": "heckle", "sub": "繊維をすく→問いただす", "era": "中英語" },
+    { "node": "heckle", "sub": "やじる", "era": "19世紀" },
+    { "node": "heckler", "sub": "やじる人", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "silence a heckler", "ja": "やじる人を黙らせる" },
+    { "en": "deal with hecklers", "ja": "やじ客をあしらう" },
+    { "en": "a persistent heckler", "ja": "しつこいやじ客" },
+    { "en": "shout down a heckler", "ja": "やじる人を怒鳴りつける" },
+    { "en": "a drunken heckler", "ja": "酔ったやじ客" },
+    { "en": "ignore the hecklers", "ja": "やじ客を無視する" }
+  ],
+  "related": [
+    { "en": "heckle", "ja": "やじる・野次って妨害する" },
+    { "en": "heckling", "ja": "やじ" },
+    { "en": "jeer", "ja": "あざける・やじる" },
+    { "en": "interrupt", "ja": "さえぎる・妨害する" }
+  ],
+  "faq": [
+    { "q": "heckler とは？", "a": "演説・公演・コメディなどで、話し手や演者に野次を飛ばして妨害する人のことです。動詞 heckle(やじる)から生まれた語で、コメディでは演者がやじにその場で切り返すのが見せ場になることもあります。" },
+    { "q": "jeer との違いは？", "a": "heckle は『(話の途中に割り込んで)野次を飛ばし妨害する』こと、jeer は『あざけり笑う・ばかにする』ことに重点があります。heckler は特に妨害する野次を飛ばす人です。" }
+  ],
+  "quiz": [
+    { "q": "heckler の意味は？", "A": "やじって妨害する人", "B": "熱心な支持者", "C": "司会者", "D": "観客の代表", "correct": "A" },
+    { "q": "heckler の動詞形は？", "A": "heckle(やじる)", "B": "handle(扱う)", "C": "huddle(群がる)", "D": "hustle(急がせる)", "correct": "A" }
+  ]
+},
+{
+  "english": "hedonistic",
+  "pron": "ˌhiːdəˈnɪstɪk",
+  "kana": "ヒードニスティック",
+  "hinshi": "形容詞",
+  "ld_pos": "形容詞",
+  "ld_etym": "hedonism(快楽主義)+-istic",
+  "ld_level": "1級",
+  "badges": ["大学生〜", "英検1級", "CEFR C1", "形容詞"],
+  "meaning_main": "快楽主義の/享楽的な/快楽を追い求める",
+  "description": "hedonistic（ヒードニスティック）は「快楽主義の・享楽的な・快楽を追い求める」。快楽を人生の最大の目的とする態度を表す。hedonism(快楽主義)の形容詞。意味・使い方・例文を解説。",
+  "keywords": ["hedonistic 意味", "hedonism 快楽主義", "享楽的 英語", "hedonistic 例文"],
+  "meanings": [
+    { "hinshi": "【形容詞】快楽主義の・享楽的な", "note": "快楽・楽しみを人生の最大の目的として追い求めるさま" }
+  ],
+  "usages": [
+    { "title": "① a hedonistic lifestyle（享楽的な生活）", "desc": "快楽中心の暮らし", "example_en": "He led a hedonistic lifestyle.", "example_ja": "彼は享楽的な生活を送った。" },
+    { "title": "② hedonistic pleasures（快楽の追求）", "desc": "楽しみへの傾倒", "example_en": "The resort caters to hedonistic pleasures.", "example_ja": "そのリゾートは享楽的な楽しみに応える。" }
+  ],
+  "warn": ["名詞は hedonism(快楽主義)、快楽主義者は hedonist。ギリシャ語 hēdonē(快楽)由来", "対になる考え方は asceticism(禁欲主義)、stoicism(ストア主義・克己)"],
+  "etym_note": "hedonism（ギリシャ語 hēdonē「快楽」＋-ism）＋-istic。「快楽を目的とする」。",
+  "etym_chain": [
+    { "node": "hēdonē", "sub": "快楽(ギリシャ語)", "era": "ギリシャ語" },
+    { "node": "hedonism", "sub": "快楽主義", "era": "近代英語" },
+    { "node": "hedonistic", "sub": "快楽主義の", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "a hedonistic lifestyle", "ja": "享楽的な生活" },
+    { "en": "hedonistic pleasures", "ja": "快楽の追求" },
+    { "en": "a hedonistic culture", "ja": "享楽的な文化" },
+    { "en": "purely hedonistic", "ja": "純粋に快楽主義的な" },
+    { "en": "hedonistic tendencies", "ja": "享楽的な傾向" },
+    { "en": "a hedonistic society", "ja": "享楽的な社会" }
+  ],
+  "related": [
+    { "en": "hedonism", "ja": "快楽主義" },
+    { "en": "hedonist", "ja": "快楽主義者" },
+    { "en": "asceticism", "ja": "禁欲主義" },
+    { "en": "indulgent", "ja": "快楽にふける・甘い" }
+  ],
+  "faq": [
+    { "q": "hedonistic の名詞形は？", "a": "hedonism(快楽主義)です。快楽・楽しみを人生の最大の目的とする考え方を指します。快楽主義者は hedonist と言います。" },
+    { "q": "対になる考え方は？", "a": "asceticism(禁欲主義)や stoicism(ストア主義・克己)です。快楽を追う hedonistic に対し、快楽を抑え質素を尊ぶのが ascetic(禁欲的)です。" }
+  ],
+  "quiz": [
+    { "q": "hedonistic の意味は？", "A": "快楽主義の・享楽的な", "B": "禁欲的な", "C": "勤勉な", "D": "悲観的な", "correct": "A" },
+    { "q": "hedonistic の名詞形は？", "A": "hedonism(快楽主義)", "B": "heroism(英雄主義)", "C": "hedge(垣根)", "D": "helium(ヘリウム)", "correct": "A" }
+  ]
+},
+{
+  "english": "heliocentric",
+  "pron": "ˌhiːlioʊˈsɛntrɪk",
+  "kana": "ヒーリオセントリック",
+  "hinshi": "形容詞",
+  "ld_pos": "形容詞",
+  "ld_etym": "helio-(太陽)+centric(中心の)",
+  "ld_level": "1級",
+  "badges": ["高校生〜", "英検1級", "CEFR C1", "天文用語"],
+  "meaning_main": "太陽中心の/地動説の(太陽を中心とする宇宙観)",
+  "description": "heliocentric（ヒーリオセントリック）は「太陽中心の・地動説の」。太陽を中心に地球などの惑星が回るとする宇宙観。geocentric(天動説)の対。コペルニクスの説で有名。意味・使い方・例文を解説。",
+  "keywords": ["heliocentric 意味", "地動説 英語", "heliocentric geocentric", "heliocentric 例文"],
+  "meanings": [
+    { "hinshi": "【形容詞】太陽中心の・地動説の", "note": "太陽を中心として地球などの惑星がそのまわりを回るとする考え(地動説)" }
+  ],
+  "usages": [
+    { "title": "① the heliocentric model（太陽中心モデル）", "desc": "地動説の宇宙観", "example_en": "Copernicus proposed the heliocentric model.", "example_ja": "コペルニクスは太陽中心モデルを唱えた。" },
+    { "title": "② a heliocentric view（地動説の見方）", "desc": "宇宙観", "example_en": "The heliocentric view replaced the geocentric one.", "example_ja": "地動説は天動説に取って代わった。" }
+  ],
+  "warn": ["対義語は geocentric(地球中心の・天動説の)。helio-(太陽)、geo-(地球)、-centric(中心の)", "16世紀にコペルニクスが唱え、ガリレオ・ケプラーが発展させた"],
+  "etym_note": "helio-（ギリシャ語 hēlios「太陽」）＋centric（kentron「中心」）。「太陽を中心とする」。",
+  "etym_chain": [
+    { "node": "hēlios", "sub": "太陽(ギリシャ語)", "era": "ギリシャ語" },
+    { "node": "helio- + centric", "sub": "太陽＋中心の", "era": "近代英語" },
+    { "node": "heliocentric", "sub": "太陽中心の", "era": "17世紀" }
+  ],
+  "phrases": [
+    { "en": "the heliocentric model", "ja": "太陽中心モデル" },
+    { "en": "a heliocentric view", "ja": "地動説の見方" },
+    { "en": "the heliocentric theory", "ja": "地動説" },
+    { "en": "a heliocentric system", "ja": "太陽中心の体系" },
+    { "en": "the heliocentric universe", "ja": "太陽中心の宇宙" },
+    { "en": "heliocentric orbits", "ja": "太陽中心の軌道" }
+  ],
+  "related": [
+    { "en": "geocentric", "ja": "地球中心の・天動説の" },
+    { "en": "sun", "ja": "太陽" },
+    { "en": "orbit", "ja": "軌道" },
+    { "en": "Copernicus", "ja": "コペルニクス" }
+  ],
+  "faq": [
+    { "q": "heliocentric と geocentric の違いは？", "a": "heliocentric(地動説)は『太陽を中心に地球や惑星が回る』とする考え、geocentric(天動説)は『地球を中心に太陽や星が回る』とする考えです。コペルニクスの地動説が天動説に取って代わりました。" },
+    { "q": "誰が唱えた？", "a": "16世紀にコペルニクスが体系的に唱え、ガリレオやケプラーが観測と理論で発展させました。" }
+  ],
+  "quiz": [
+    { "q": "heliocentric の意味は？", "A": "太陽中心の(地動説の)", "B": "地球中心の(天動説の)", "C": "月中心の", "D": "銀河中心の", "correct": "A" },
+    { "q": "heliocentric の対義語は？", "A": "geocentric(地球中心の)", "B": "eccentric(風変わりな)", "C": "concentric(同心の)", "D": "electric(電気の)", "correct": "A" }
+  ]
+},
+{
+  "english": "hellenism",
+  "pron": "ˈhɛlənɪzəm",
+  "kana": "ヘレニズム",
+  "hinshi": "名詞",
+  "ld_pos": "名詞",
+  "ld_etym": "ギリシャ語 Hellēn(ギリシャ人)+-ism",
+  "ld_level": "1級",
+  "badges": ["大学生〜", "英検1級", "CEFR C1", "歴史用語"],
+  "meaning_main": "ヘレニズム/ギリシャ文化・精神(特に東西融合の文化)",
+  "description": "hellenism（ヘレニズム）は「ギリシャ文化・精神」。特にアレクサンドロス大王以降、ギリシャ文化が東方と融合して広まった時代・文化を指す。文中では大文字Hellenism。意味・背景を解説。",
+  "keywords": ["hellenism 意味", "ヘレニズム 文化", "Hellenism 歴史", "ヘレニズム時代"],
+  "meanings": [
+    { "hinshi": "【名詞】ギリシャ文化・精神(ヘレニズム)", "note": "古代ギリシャの文化・思想・様式。文中では大文字 Hellenism" },
+    { "hinshi": "【名詞】ヘレニズム(東西融合文化)", "note": "アレクサンドロス大王の東方遠征以降、ギリシャ文化がオリエントと融合して広まった時代・文化" }
+  ],
+  "usages": [
+    { "title": "① the spread of Hellenism（ヘレニズムの広がり）", "desc": "ギリシャ文化の伝播", "example_en": "Alexander's conquests spread Hellenism across Asia.", "example_ja": "アレクサンドロスの征服はヘレニズムをアジアに広めた。" },
+    { "title": "② Hellenism and Hebraism（ヘレニズムとヘブライズム）", "desc": "二つの精神的源流", "example_en": "Western culture draws on both Hellenism and Hebraism.", "example_ja": "西洋文化はヘレニズムとヘブライズムの両方に由来する。" }
+  ],
+  "warn": ["固有・歴史用語では大文字 Hellenism。Hebraism(ヘブライ文化・精神)と対に語られることがある", "Hellenistic(ヘレニズムの)は形容詞。ヘレニズム時代は前4世紀〜前1世紀ごろ"],
+  "etym_note": "ギリシャ語 Hellēn（ギリシャ人。ギリシャの自称 Hellas「ヘラス」から）＋-ism。「ギリシャ文化・精神」。",
+  "etym_chain": [
+    { "node": "Hellēn", "sub": "ギリシャ人(ギリシャ語)", "era": "古代ギリシャ" },
+    { "node": "Hellenism", "sub": "ギリシャ文化・精神", "era": "近代英語" },
+    { "node": "Hellenism", "sub": "ヘレニズム", "era": "現代英語" }
+  ],
+  "phrases": [
+    { "en": "the spread of Hellenism", "ja": "ヘレニズムの広がり" },
+    { "en": "Hellenism and Hebraism", "ja": "ヘレニズムとヘブライズム" },
+    { "en": "Greek Hellenism", "ja": "ギリシャのヘレニズム" },
+    { "en": "the influence of Hellenism", "ja": "ヘレニズムの影響" },
+    { "en": "the Hellenistic period", "ja": "ヘレニズム時代" },
+    { "en": "classical Hellenism", "ja": "古典期のヘレニズム" }
+  ],
+  "related": [
+    { "en": "hellenistic", "ja": "ヘレニズムの" },
+    { "en": "greece", "ja": "ギリシャ" },
+    { "en": "hebraism", "ja": "ヘブライ文化・精神" },
+    { "en": "culture", "ja": "文化" }
+  ],
+  "faq": [
+    { "q": "Hellenism とは？", "a": "古代ギリシャの文化・思想・精神のことです。特にアレクサンドロス大王の東方遠征(前4世紀)以降、ギリシャ文化がオリエント(東方)と融合して広まった時代・文化(ヘレニズム)を指すことが多いです。" },
+    { "q": "Hebraism との対比とは？", "a": "評論家マシュー・アーノルドが、西洋精神の二大源流として Hellenism(ギリシャ的な理性・美)と Hebraism(ヘブライ的な倫理・信仰)を対比したことで知られます。" }
+  ],
+  "quiz": [
+    { "q": "Hellenism とは？", "A": "ギリシャの文化・精神(ヘレニズム)", "B": "エジプトの宗教", "C": "ローマの法律", "D": "中国の思想", "correct": "A" },
+    { "q": "ヘレニズムを東方に広めたとされる人物は？", "A": "アレクサンドロス大王", "B": "カエサル", "C": "ハンニバル", "D": "ダレイオス", "correct": "A" }
+  ]
+},
+{
+  "english": "hesitantly",
+  "pron": "ˈhɛzɪtəntli",
+  "kana": "ヘジタントリー",
+  "hinshi": "副詞",
+  "ld_pos": "副詞",
+  "ld_etym": "hesitant(ためらいがちな)+-ly",
+  "ld_level": "2級",
+  "badges": ["高校生〜", "英検2級", "CEFR B2", "副詞"],
+  "meaning_main": "ためらいがちに/おずおずと/迷いながら",
+  "description": "hesitantly（ヘジタントリー）は「ためらいがちに・おずおずと・迷いながら」。決心がつかず、ためらう様子を表す副詞。hesitant(ためらいがちな)の副詞形。意味・使い方・例文・関連語を解説。",
+  "keywords": ["hesitantly 意味", "hesitant 副詞", "ためらいがちに 英語", "hesitantly 例文"],
+  "meanings": [
+    { "hinshi": "【副詞】ためらいがちに・おずおずと", "note": "決心がつかず、迷いながら控えめに" }
+  ],
+  "usages": [
+    { "title": "① speak hesitantly（ためらいがちに話す）", "desc": "自信なさげに", "example_en": "\"Maybe...\" she said hesitantly.", "example_ja": "「たぶん…」と彼女はためらいがちに言った。" },
+    { "title": "② hesitantly agree（しぶしぶ同意する）", "desc": "迷いながら", "example_en": "He hesitantly agreed to the plan.", "example_ja": "彼はためらいながらその案に同意した。" }
+  ],
+  "warn": ["形容詞は hesitant(ためらいがちな)、動詞 hesitate(ためらう)、名詞 hesitation(ためらい)", "対義的には confidently(自信をもって)、decisively(きっぱりと)"],
+  "etym_note": "hesitant（ラテン語 haesitare「ためらう・つっかえる」由来）＋-ly。「ためらいがちに」。",
+  "etym_chain": [
+    { "node": "haesitare", "sub": "ためらう(ラテン語)", "era": "ラテン語" },
+    { "node": "hesitant", "sub": "ためらいがちな", "era": "近代英語" },
+    { "node": "hesitantly", "sub": "ためらいがちに", "era": "近代英語" }
+  ],
+  "phrases": [
+    { "en": "speak hesitantly", "ja": "ためらいがちに話す" },
+    { "en": "hesitantly agree", "ja": "しぶしぶ同意する" },
+    { "en": "smile hesitantly", "ja": "おずおずと微笑む" },
+    { "en": "hesitantly ask", "ja": "ためらいがちに尋ねる" },
+    { "en": "step forward hesitantly", "ja": "おずおずと進み出る" },
+    { "en": "nod hesitantly", "ja": "迷いながらうなずく" }
+  ],
+  "related": [
+    { "en": "hesitant", "ja": "ためらいがちな" },
+    { "en": "hesitate", "ja": "ためらう" },
+    { "en": "tentatively", "ja": "おずおずと・暫定的に" },
+    { "en": "confidently", "ja": "自信をもって" }
+  ],
+  "faq": [
+    { "q": "hesitantly の対義語は？", "a": "confidently(自信をもって)や decisively(きっぱりと)です。speak hesitantly(ためらいがちに話す)⇔ speak confidently(自信をもって話す)のように対比できます。" },
+    { "q": "動詞・名詞は？", "a": "動詞は hesitate(ためらう)、名詞は hesitation(ためらい)、形容詞は hesitant(ためらいがちな)です。" }
+  ],
+  "quiz": [
+    { "q": "hesitantly の意味は？", "A": "ためらいがちに・おずおずと", "B": "自信をもって", "C": "急いで", "D": "楽しげに", "correct": "A" },
+    { "q": "hesitantly の対義語は？", "A": "confidently(自信をもって)", "B": "quietly(静かに)", "C": "slowly(ゆっくり)", "D": "sadly(悲しげに)", "correct": "A" }
+  ]
+}
+]
