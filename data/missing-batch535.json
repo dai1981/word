@@ -1,0 +1,990 @@
+[
+  {
+    "english": "largest",
+    "pron": "ˈlɑːrdʒɪst",
+    "kana": "ラージェスト",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "large(大きい)の最上級",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "基本語"],
+    "meaning_main": "最も大きい／最大の（large の最上級）",
+    "description": "largest（ラージェスト）は large（大きい）の最上級で「最も大きい・最大の」という意味。3つ以上を比べて一番大きいものに使い、the largest の形が基本です。",
+    "keywords": ["largest 意味", "large 最上級", "largest 使い方", "the largest"],
+    "meanings": [
+      { "hinshi": "【形容詞】最も大きい・最大の", "note": "large の最上級。ふつう the largest。面積・規模・数量に使う" }
+    ],
+    "usages": [
+      { "title": "① 3つ以上を比べる", "desc": "一番大きい", "example_en": "This is the largest lake in Japan.", "example_ja": "これは日本で最大の湖だ。" },
+      { "title": "② 規模・数量", "desc": "最大の", "example_en": "It is one of the largest companies.", "example_ja": "そこは最大級の企業の一つだ。" }
+    ],
+    "warn": ["ふつう the largest。biggest とほぼ同義だが largest はやや硬い"],
+    "etym_note": "古フランス語 large（広い、ラテン語 largus 由来）の最上級。-est を付けて largest。",
+    "etym_chain": [
+      { "node": "largus", "sub": "豊富な・広い", "era": "ラテン語" },
+      { "node": "large", "sub": "大きい", "era": "中英語" },
+      { "node": "largest", "sub": "最も大きい", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the largest in the world", "ja": "世界最大の" },
+      { "en": "the largest city", "ja": "最大の都市" },
+      { "en": "one of the largest", "ja": "最大級の一つ" },
+      { "en": "the largest share", "ja": "最大の割合" },
+      { "en": "the third largest", "ja": "3番目に大きい" },
+      { "en": "the largest ever", "ja": "史上最大の" }
+    ],
+    "related": [
+      { "en": "large", "ja": "大きい" },
+      { "en": "larger", "ja": "より大きい" },
+      { "en": "biggest", "ja": "最も大きい" },
+      { "en": "smallest", "ja": "最も小さい" }
+    ],
+    "faq": [
+      { "q": "largest と biggest の違いは？", "a": "ほぼ同義ですが、largest はやや硬く、面積や規模・数量によく使います。" },
+      { "q": "large の比較級は？", "a": "larger（より大きい）です。" }
+    ],
+    "quiz": [
+      { "q": "largest の意味は？", "A": "最も大きい・最大の", "B": "最も小さい", "C": "同じ大きさの", "D": "より小さい", "correct": "A" },
+      { "q": "large の比較級は？", "A": "larger", "B": "largest", "C": "more large", "D": "largist", "correct": "A" }
+    ]
+  },
+  {
+    "english": "laughing",
+    "pron": "ˈlæfɪŋ",
+    "kana": "ラフィング",
+    "hinshi": "動詞 / 形容詞",
+    "ld_pos": "動詞",
+    "ld_etym": "laugh(笑う)+ing",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "基本語"],
+    "meaning_main": "笑っている／笑いの（laugh の -ing 形）",
+    "description": "laughing（ラフィング）は laugh（声を出して笑う）の現在分詞・動名詞。「笑っている」状態や、笑いに関する形容詞的な使い方をします。gh は /f/ と発音します。",
+    "keywords": ["laughing 意味", "laughing 使い方", "laughing 発音", "laugh ing"],
+    "meanings": [
+      { "hinshi": "【動詞】笑っている", "note": "laugh の現在分詞。be laughing" },
+      { "hinshi": "【形容詞/動名詞】笑いの・笑うこと", "note": "a laughing face（笑った顔）" }
+    ],
+    "usages": [
+      { "title": "① 笑っている", "desc": "進行形", "example_en": "The children were laughing loudly.", "example_ja": "子供たちは大声で笑っていた。" },
+      { "title": "② 笑いをこらえる", "desc": "動名詞", "example_en": "I couldn't stop laughing.", "example_ja": "私は笑いが止まらなかった。" }
+    ],
+    "warn": ["gh は /f/(ラフィング)。laugh at ~＝〜を笑う・あざ笑う"],
+    "etym_note": "古英語 hlæhhan（笑う）由来の laugh に -ing が付いた語。gh はかつての喉音の名残。",
+    "etym_chain": [
+      { "node": "hlæhhan", "sub": "笑う", "era": "古英語" },
+      { "node": "laugh", "sub": "笑う", "era": "中英語" },
+      { "node": "laughing", "sub": "笑っている", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "burst out laughing", "ja": "どっと笑い出す" },
+      { "en": "stop laughing", "ja": "笑うのをやめる" },
+      { "en": "a laughing face", "ja": "笑った顔" },
+      { "en": "laughing and joking", "ja": "笑ったり冗談を言ったり" },
+      { "en": "keep laughing", "ja": "笑い続ける" },
+      { "en": "laughing out loud", "ja": "声を出して笑う" }
+    ],
+    "related": [
+      { "en": "laugh", "ja": "笑う" },
+      { "en": "laughter", "ja": "笑い" },
+      { "en": "smile", "ja": "ほほえむ" },
+      { "en": "giggle", "ja": "くすくす笑う" }
+    ],
+    "faq": [
+      { "q": "laughing の発音の注意は？", "a": "gh を /f/ と読み「ラフィング」となります。" },
+      { "q": "laugh at ~ とは？", "a": "「〜を笑う・あざ笑う」という意味です。" }
+    ],
+    "quiz": [
+      { "q": "laughing の意味は？", "A": "笑っている", "B": "泣いている", "C": "眠っている", "D": "走っている", "correct": "A" },
+      { "q": "laugh の gh の発音は？", "A": "/f/(フ)", "B": "/g/(グ)", "C": "無音", "D": "/k/(ク)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "lawmaker",
+    "pron": "ˈlɔːmeɪkər",
+    "kana": "ローメイカー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "law(法)+maker(作る人)",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "政治"],
+    "meaning_main": "立法者／議員（法律を作る人）",
+    "description": "lawmaker（ローメイカー）は「法律を作る人・立法者」を表す名詞。多くは国会議員や州議会議員など、法を制定する立場の人を指します。ニュースで議員を指してよく使われる語です。",
+    "keywords": ["lawmaker 意味", "lawmaker 使い方", "lawmaker 発音", "立法者 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】立法者・議員", "note": "法律を作る人。国会・議会の議員を指すことが多い" }
+    ],
+    "usages": [
+      { "title": "① 議員を指して", "desc": "政治の話題で", "example_en": "Lawmakers voted on the new bill.", "example_ja": "議員たちは新法案を採決した。" },
+      { "title": "② 法を作る立場", "desc": "立法者", "example_en": "Lawmakers must consider the public.", "example_ja": "立法者は国民のことを考えねばならない。" }
+    ],
+    "warn": ["法を『作る』人。法を『執行/司法』する人とは役割が違う"],
+    "etym_note": "law（法、古ノルド語 lag 由来）と maker（作る人）を結んだ複合語。",
+    "etym_chain": [
+      { "node": "lagu", "sub": "定められたもの・法", "era": "古英語" },
+      { "node": "law + maker", "sub": "法を作る人", "era": "近代英語" },
+      { "node": "lawmaker", "sub": "立法者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "state lawmakers", "ja": "州議会議員" },
+      { "en": "lawmakers debated", "ja": "議員たちが討論した" },
+      { "en": "a senior lawmaker", "ja": "ベテラン議員" },
+      { "en": "lawmakers passed a bill", "ja": "議員が法案を可決した" },
+      { "en": "urge lawmakers", "ja": "議員に働きかける" },
+      { "en": "opposition lawmakers", "ja": "野党議員" }
+    ],
+    "related": [
+      { "en": "law", "ja": "法" },
+      { "en": "legislator", "ja": "立法者・議員" },
+      { "en": "politician", "ja": "政治家" },
+      { "en": "congress", "ja": "議会" }
+    ],
+    "faq": [
+      { "q": "lawmaker と legislator の違いは？", "a": "ほぼ同義です。lawmaker はニュースなどでよく使われる、やや日常的な言い方です。" },
+      { "q": "何をする人？", "a": "法律を作る（制定する）立場の人、多くは議員を指します。" }
+    ],
+    "quiz": [
+      { "q": "lawmaker の意味は？", "A": "立法者・議員", "B": "裁判官", "C": "弁護士", "D": "警察官", "correct": "A" },
+      { "q": "lawmaker は何を作る？", "A": "法律", "B": "建物", "C": "料理", "D": "機械", "correct": "A" }
+    ]
+  },
+  {
+    "english": "liner",
+    "pron": "ˈlaɪnər",
+    "kana": "ライナー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "line(定期航路・線)+er",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "多義語"],
+    "meaning_main": "定期客船・大型旅客機／裏地・内張り／(アイ)ライナー",
+    "description": "liner（ライナー）は「（定期航路を走る）大型客船・定期旅客機」を表す名詞。また「内側に張る裏地・内張り」や、化粧品の「アイライナー」など、文脈で意味が変わる多義語です。",
+    "keywords": ["liner 意味", "ocean liner", "liner 発音", "ライナー 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】定期客船・大型旅客機", "note": "定期航路(line)を走る大型の船・飛行機。an ocean liner（豪華客船）" },
+      { "hinshi": "【名詞】裏地・内張り", "note": "容器や衣類の内側に張るもの。a bin liner（ゴミ袋）" },
+      { "hinshi": "【名詞】(アイ)ライナー", "note": "目もとを縁取る化粧品" }
+    ],
+    "usages": [
+      { "title": "① 客船として", "desc": "大型の船", "example_en": "They sailed on a luxury ocean liner.", "example_ja": "彼らは豪華客船で航海した。" },
+      { "title": "② 内張り", "desc": "裏地", "example_en": "Put a liner in the trash can.", "example_ja": "ゴミ箱に袋(内張り)をかけて。" }
+    ],
+    "warn": ["文脈で「客船/裏地/アイライナー」と意味が変わる多義語"],
+    "etym_note": "line（航路・線）に -er が付いた語。「定期航路を走るもの」「内側の線・張り」など多義に。",
+    "etym_chain": [
+      { "node": "linea", "sub": "線", "era": "ラテン語" },
+      { "node": "line", "sub": "線・航路", "era": "中英語" },
+      { "node": "liner", "sub": "定期船・裏地", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an ocean liner", "ja": "豪華客船" },
+      { "en": "a cruise liner", "ja": "クルーズ客船" },
+      { "en": "a bin liner", "ja": "ゴミ袋(内張り)" },
+      { "en": "eye liner", "ja": "アイライナー" },
+      { "en": "a jacket liner", "ja": "上着の裏地" },
+      { "en": "a passenger liner", "ja": "旅客用の定期船" }
+    ],
+    "related": [
+      { "en": "line", "ja": "線・航路" },
+      { "en": "ship", "ja": "船" },
+      { "en": "lining", "ja": "裏地" },
+      { "en": "cruise", "ja": "船旅" }
+    ],
+    "faq": [
+      { "q": "ocean liner とは？", "a": "定期航路を走る大型の客船、いわゆる豪華客船のことです。" },
+      { "q": "liner の意味は一つ？", "a": "いいえ。客船、裏地・内張り、アイライナーなど文脈で意味が変わります。" }
+    ],
+    "quiz": [
+      { "q": "an ocean liner とは？", "A": "大型の定期客船", "B": "小さなボート", "C": "潜水艦", "D": "いかだ", "correct": "A" },
+      { "q": "a bin liner の意味は？", "A": "ゴミ袋(内張り)", "B": "本棚", "C": "冷蔵庫", "D": "掃除機", "correct": "A" }
+    ]
+  },
+  {
+    "english": "litigate",
+    "pron": "ˈlɪtɪɡeɪt",
+    "kana": "リティゲイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 litigare(争う)から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "法律"],
+    "meaning_main": "訴訟する／法廷で争う",
+    "description": "litigate（リティゲイト）は「（争いを）法廷に持ち込む・訴訟する」という意味の動詞。当事者が裁判で権利や責任を争うことを表します。名詞は litigation（訴訟）です。",
+    "keywords": ["litigate 意味", "litigate 使い方", "litigate 発音", "訴訟 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】訴訟する・法廷で争う", "note": "争いを裁判に持ち込み、法廷で決着をつけること" }
+    ],
+    "usages": [
+      { "title": "① 裁判で争う", "desc": "法廷へ", "example_en": "They chose to litigate rather than settle.", "example_ja": "彼らは和解せず訴訟することを選んだ。" },
+      { "title": "② 権利を争う", "desc": "訴える", "example_en": "The company litigated the patent dispute.", "example_ja": "その会社は特許紛争を法廷で争った。" }
+    ],
+    "warn": ["settle(和解する)の対比。名詞は litigation、争う人は litigant"],
+    "etym_note": "ラテン語 litigare（争う、lis「争い」+ agere「行う」）に由来する。",
+    "etym_chain": [
+      { "node": "litigare", "sub": "争う", "era": "ラテン語" },
+      { "node": "litigate", "sub": "訴訟する", "era": "近代英語" },
+      { "node": "litigate", "sub": "訴訟する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "litigate a dispute", "ja": "紛争を法廷で争う" },
+      { "en": "litigate the case", "ja": "その件を訴訟する" },
+      { "en": "threaten to litigate", "ja": "訴訟をちらつかせる" },
+      { "en": "litigate in court", "ja": "法廷で争う" },
+      { "en": "costly to litigate", "ja": "訴訟には費用がかかる" },
+      { "en": "rather than litigate", "ja": "訴訟する代わりに" }
+    ],
+    "related": [
+      { "en": "litigation", "ja": "訴訟" },
+      { "en": "sue", "ja": "訴える" },
+      { "en": "settle", "ja": "和解する" },
+      { "en": "lawsuit", "ja": "訴訟" }
+    ],
+    "faq": [
+      { "q": "litigate と settle の違いは？", "a": "litigate は法廷で争うこと、settle は裁判外で和解することです。" },
+      { "q": "名詞形は？", "a": "litigation（訴訟）です。当事者は litigant と言います。" }
+    ],
+    "quiz": [
+      { "q": "litigate の意味は？", "A": "訴訟する・法廷で争う", "B": "和解する", "C": "祝う", "D": "謝る", "correct": "A" },
+      { "q": "litigate の名詞形は？", "A": "litigation(訴訟)", "B": "limitation(制限)", "C": "location(場所)", "D": "liberation(解放)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "loaves",
+    "pron": "loʊvz",
+    "kana": "ローブズ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "loaf(パンのかたまり)の複数形",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "食べ物"],
+    "meaning_main": "パンのかたまり（複数）／loaf の複数形",
+    "description": "loaves（ローブズ）は loaf（焼いて成形した一つのパンのかたまり）の複数形。f が v に変わる不規則な複数変化をします。two loaves of bread（パン2つ）のように使います。",
+    "keywords": ["loaves 意味", "loaf 複数形", "loaves 発音", "パン 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】パンのかたまり(複数)", "note": "loaf の複数形。f→v に変化する不規則複数" }
+    ],
+    "usages": [
+      { "title": "① 数えるとき", "desc": "パンの数", "example_en": "I bought two loaves of bread.", "example_ja": "私はパンを2つ買った。" },
+      { "title": "② 焼く・並べる", "desc": "かたまり", "example_en": "The loaves were fresh from the oven.", "example_ja": "そのパンはオーブンから出したてだった。" }
+    ],
+    "warn": ["loaf→loaves(f→v)。knife→knives, leaf→leaves と同じ変化"],
+    "etym_note": "古英語 hlāf（パン）由来の loaf の複数形。語尾 f が v に変わる古い複数変化を残す。",
+    "etym_chain": [
+      { "node": "hlāf", "sub": "パン", "era": "古英語" },
+      { "node": "loaf", "sub": "パンのかたまり", "era": "中英語" },
+      { "node": "loaves", "sub": "パンのかたまり(複数)", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "two loaves of bread", "ja": "パン2つ" },
+      { "en": "fresh loaves", "ja": "焼きたてのパン" },
+      { "en": "bake loaves", "ja": "パンを焼く" },
+      { "en": "loaves and fishes", "ja": "パンと魚(聖書の奇跡)" },
+      { "en": "sliced loaves", "ja": "スライスしたパン" },
+      { "en": "a dozen loaves", "ja": "パン12個" }
+    ],
+    "related": [
+      { "en": "loaf", "ja": "パンのかたまり" },
+      { "en": "bread", "ja": "パン" },
+      { "en": "slice", "ja": "薄切り" },
+      { "en": "bakery", "ja": "パン屋" }
+    ],
+    "faq": [
+      { "q": "loaf の複数形は？", "a": "loaves です。語尾の f が v に変わります（knife→knives と同じ）。" },
+      { "q": "パンを数えるには？", "a": "two loaves of bread のように loaf/loaves を単位に使います。" }
+    ],
+    "quiz": [
+      { "q": "loaves は何の複数形？", "A": "loaf(パンのかたまり)", "B": "love(愛)", "C": "leaf(葉)", "D": "life(命)", "correct": "A" },
+      { "q": "loaf の複数形の作り方は？", "A": "f を v に変えて -es", "B": "そのまま -s", "C": "-ies", "D": "無変化", "correct": "A" }
+    ]
+  },
+  {
+    "english": "louse",
+    "pron": "laʊs",
+    "kana": "ラウス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 lūs(シラミ)から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "生き物"],
+    "meaning_main": "シラミ（人や動物に寄生する小さな虫）／(俗)嫌なやつ",
+    "description": "louse（ラウス）は人や動物の体に寄生して血を吸う小さな虫「シラミ」を表す名詞。複数形は lice と不規則に変化します。俗語で「卑劣なやつ・嫌なやつ」の意味でも使われます。",
+    "keywords": ["louse 意味", "louse lice 複数", "louse 発音", "シラミ 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】シラミ", "note": "人や動物に寄生し血を吸う小さな虫。複数形は lice" },
+      { "hinshi": "【名詞】(俗)卑劣なやつ・嫌なやつ", "note": "この意味の複数形は louses" }
+    ],
+    "usages": [
+      { "title": "① 寄生虫として", "desc": "衛生の話題で", "example_en": "The children got head lice at school.", "example_ja": "子供たちは学校で頭ジラミにかかった。" },
+      { "title": "② 俗語で", "desc": "嫌なやつ", "example_en": "He's a real louse for lying.", "example_ja": "うそをつくなんて彼は本当に卑劣なやつだ。" }
+    ],
+    "warn": ["虫の複数は lice(不規則)。俗語『嫌なやつ』の複数は louses"],
+    "etym_note": "古英語 lūs（シラミ）に由来する。複数形 lice は古い母音変化(mouse→mice と同型)を残す。",
+    "etym_chain": [
+      { "node": "lūs", "sub": "シラミ", "era": "古英語" },
+      { "node": "louse", "sub": "シラミ", "era": "中英語" },
+      { "node": "louse", "sub": "シラミ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "head lice", "ja": "頭ジラミ" },
+      { "en": "body lice", "ja": "コロモジラミ" },
+      { "en": "catch lice", "ja": "シラミにかかる" },
+      { "en": "a single louse", "ja": "1匹のシラミ" },
+      { "en": "lice infestation", "ja": "シラミの発生" },
+      { "en": "a louse of a man", "ja": "卑劣な男" }
+    ],
+    "related": [
+      { "en": "lice", "ja": "シラミ(複数)" },
+      { "en": "flea", "ja": "ノミ" },
+      { "en": "parasite", "ja": "寄生虫" },
+      { "en": "insect", "ja": "昆虫" }
+    ],
+    "faq": [
+      { "q": "louse の複数形は？", "a": "虫の意味では lice（不規則）です（mouse→mice と同じ型）。" },
+      { "q": "俗語の意味は？", "a": "「卑劣なやつ・嫌なやつ」で、この意味の複数形は louses です。" }
+    ],
+    "quiz": [
+      { "q": "louse とは？", "A": "寄生する小さな虫(シラミ)", "B": "大きな鳥", "C": "魚", "D": "花", "correct": "A" },
+      { "q": "louse(虫)の複数形は？", "A": "lice", "B": "louses", "C": "louse", "D": "lices", "correct": "A" }
+    ]
+  },
+  {
+    "english": "luminescent",
+    "pron": "ˌluːmɪˈnesənt",
+    "kana": "ルミネッセント",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 lumen(光)+-escent",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "科学"],
+    "meaning_main": "発光する／(熱を出さず)冷たく光る",
+    "description": "luminescent（ルミネッセント）は「（高温によらず）冷たく光を放つ・発光する」という意味の形容詞。蛍やクラゲの発光、蓄光塗料などがこれにあたります。名詞は luminescence（ルミネセンス・冷光）です。",
+    "keywords": ["luminescent 意味", "luminescent 使い方", "luminescent 発音", "発光 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】発光する・冷たく光る", "note": "高温によらず光を放つ。蛍・蓄光塗料など。incandescent(白熱)と対比" }
+    ],
+    "usages": [
+      { "title": "① 生き物の光", "desc": "自然の発光", "example_en": "Some jellyfish are luminescent.", "example_ja": "一部のクラゲは発光する。" },
+      { "title": "② 塗料・素材", "desc": "蓄光", "example_en": "The dial has luminescent paint.", "example_ja": "その文字盤には蓄光塗料が使われている。" }
+    ],
+    "warn": ["incandescent(白熱＝高温発光)と対比。冷たく光るのが特徴"],
+    "etym_note": "ラテン語 lumen（光）に、「〜し始める」の -escent が付いた語。luminous（光る）と同語根。",
+    "etym_chain": [
+      { "node": "lumen", "sub": "光", "era": "ラテン語" },
+      { "node": "luminescent", "sub": "発光する", "era": "19世紀" },
+      { "node": "luminescent", "sub": "発光する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a luminescent glow", "ja": "冷たい光の輝き" },
+      { "en": "luminescent paint", "ja": "蓄光塗料" },
+      { "en": "luminescent organisms", "ja": "発光生物" },
+      { "en": "a luminescent dial", "ja": "発光する文字盤" },
+      { "en": "faintly luminescent", "ja": "かすかに発光する" },
+      { "en": "luminescent colors", "ja": "光る色" }
+    ],
+    "related": [
+      { "en": "luminescence", "ja": "ルミネセンス・冷光" },
+      { "en": "luminous", "ja": "光る・明るい" },
+      { "en": "glow", "ja": "光る" },
+      { "en": "incandescent", "ja": "白熱の" }
+    ],
+    "faq": [
+      { "q": "luminescent と incandescent の違いは？", "a": "luminescent は高温によらず冷たく光る、incandescent は高温になって白熱して光る、という違いです。" },
+      { "q": "身近な例は？", "a": "蛍やクラゲの発光、時計の蓄光塗料などです。" }
+    ],
+    "quiz": [
+      { "q": "luminescent の意味は？", "A": "(冷たく)発光する", "B": "熱くなる", "C": "凍る", "D": "溶ける", "correct": "A" },
+      { "q": "luminescent の例は？", "A": "蛍の光", "B": "氷", "C": "石炭", "D": "砂", "correct": "A" }
+    ]
+  },
+  {
+    "english": "luxor",
+    "pron": "ˈlʌksɔːr",
+    "kana": "ルクソール",
+    "hinshi": "名詞（固有名詞）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "アラビア語 al-Uqsur(宮殿群)から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "地名"],
+    "meaning_main": "ルクソール（エジプトの古代遺跡で知られる都市）",
+    "description": "luxor（ルクソール）はエジプト南部、ナイル川沿いの都市。古代エジプトの都テーベがあった地で、ルクソール神殿や王家の谷など壮大な遺跡で知られます。文中では大文字 Luxor と書きます。",
+    "keywords": ["luxor 意味", "Luxor エジプト", "luxor 発音", "ルクソール 英語"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ルクソール", "note": "エジプトの都市。古代の都テーベの地。神殿や王家の谷で有名。文中では大文字 Luxor" }
+    ],
+    "usages": [
+      { "title": "① 遺跡の都市", "desc": "観光・歴史", "example_en": "We visited the temples of Luxor.", "example_ja": "私たちはルクソールの神殿を訪れた。" },
+      { "title": "② 大文字で書く", "desc": "固有名詞", "example_en": "Luxor lies on the Nile.", "example_ja": "ルクソールはナイル川沿いにある。" }
+    ],
+    "warn": ["文中では大文字 Luxor。古代エジプトのテーベがあった地"],
+    "etym_note": "アラビア語 al-Uqsur（宮殿群・城砦）に由来する。古代の壮大な建造物にちなむ。",
+    "etym_chain": [
+      { "node": "al-Uqsur", "sub": "宮殿群", "era": "アラビア語" },
+      { "node": "Luxor", "sub": "ルクソール", "era": "近代" },
+      { "node": "Luxor", "sub": "ルクソール", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the temples of Luxor", "ja": "ルクソールの神殿" },
+      { "en": "in Luxor", "ja": "ルクソールで" },
+      { "en": "Luxor Temple", "ja": "ルクソール神殿" },
+      { "en": "travel to Luxor", "ja": "ルクソールへ旅する" },
+      { "en": "ancient Luxor", "ja": "古代ルクソール" },
+      { "en": "the Valley of the Kings near Luxor", "ja": "ルクソール近くの王家の谷" }
+    ],
+    "related": [
+      { "en": "egypt", "ja": "エジプト" },
+      { "en": "temple", "ja": "神殿" },
+      { "en": "nile", "ja": "ナイル川" },
+      { "en": "pharaoh", "ja": "ファラオ" }
+    ],
+    "faq": [
+      { "q": "Luxor は何で有名？", "a": "古代エジプトの都テーベがあった地で、ルクソール神殿や王家の谷など壮大な遺跡で知られます。" },
+      { "q": "どこにある？", "a": "エジプト南部、ナイル川沿いにあります。" }
+    ],
+    "quiz": [
+      { "q": "Luxor とは？", "A": "エジプトの古代遺跡の都市", "B": "北欧の港町", "C": "南米の山", "D": "アジアの島", "correct": "A" },
+      { "q": "Luxor が沿う川は？", "A": "ナイル川", "B": "アマゾン川", "C": "テムズ川", "D": "ガンジス川", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ma'am",
+    "pron": "mæm",
+    "kana": "マム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "madam の短縮形",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "会話"],
+    "meaning_main": "奥様／お嬢様／(女性への)ていねいな呼びかけ",
+    "description": "ma'am（マム）は madam の短縮形で、女性に対するていねいな呼びかけの語。店員や係員が女性客に、また軍・警察などで女性の上官に使います。男性への sir に対応します。",
+    "keywords": ["ma'am 意味", "ma'am 使い方", "ma'am 発音", "呼びかけ 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】奥様・お嬢様(女性へのていねいな呼びかけ)", "note": "madam の短縮。男性への sir に対応する" }
+    ],
+    "usages": [
+      { "title": "① 接客で", "desc": "女性客に", "example_en": "Can I help you, ma'am?", "example_ja": "お手伝いしましょうか、奥様。" },
+      { "title": "② 敬意を込めて", "desc": "返事など", "example_en": "Yes, ma'am.", "example_ja": "はい、かしこまりました。" }
+    ],
+    "warn": ["madam の短縮。アポストロフィ付き ma'am。男性へは sir"],
+    "etym_note": "フランス語 ma dame（我が貴婦人）由来の madam を短縮した形。省略部分をアポストロフィで示す。",
+    "etym_chain": [
+      { "node": "ma dame", "sub": "我が貴婦人", "era": "フランス語" },
+      { "node": "madam", "sub": "奥様", "era": "中英語" },
+      { "node": "ma'am", "sub": "奥様(呼びかけ)", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Yes, ma'am.", "ja": "はい、かしこまりました。" },
+      { "en": "Excuse me, ma'am.", "ja": "失礼します、奥様。" },
+      { "en": "Thank you, ma'am.", "ja": "ありがとうございます、奥様。" },
+      { "en": "May I help you, ma'am?", "ja": "お手伝いしましょうか。" },
+      { "en": "No, ma'am.", "ja": "いいえ、違います(ていねいに)。" },
+      { "en": "Right away, ma'am.", "ja": "ただ今、奥様。" }
+    ],
+    "related": [
+      { "en": "madam", "ja": "奥様" },
+      { "en": "sir", "ja": "(男性への)敬称" },
+      { "en": "miss", "ja": "お嬢さん" },
+      { "en": "lady", "ja": "婦人" }
+    ],
+    "faq": [
+      { "q": "ma'am はどんな時に使う？", "a": "女性にていねいに呼びかけるときに使います。接客や、軍・警察での上官への返事などです。" },
+      { "q": "男性への言い方は？", "a": "sir です。" }
+    ],
+    "quiz": [
+      { "q": "ma'am の意味は？", "A": "女性へのていねいな呼びかけ", "B": "男性への呼びかけ", "C": "子供の名前", "D": "あいさつ「さようなら」", "correct": "A" },
+      { "q": "ma'am のもとの語は？", "A": "madam", "B": "mother", "C": "match", "D": "market", "correct": "A" }
+    ]
+  },
+  {
+    "english": "madman",
+    "pron": "ˈmædmæn",
+    "kana": "マッドマン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "mad(狂った)+man(人)",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "口語"],
+    "meaning_main": "狂人／無謀な人／(比喩)がむしゃらな人",
+    "description": "madman（マッドマン）は「正気を失った人・狂人」を表す名詞。比喩的に「（危険なほど）無謀な人」や、like a madman（狂ったように必死に）の形で「がむしゃらな様子」を表すのにも使います。",
+    "keywords": ["madman 意味", "like a madman", "madman 発音", "狂人 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】狂人・無謀な人", "note": "正気を失った人、危険なほど無分別な人" },
+      { "hinshi": "【副詞的】(like a madman)狂ったように・必死に", "note": "がむしゃらな様子を表す" }
+    ],
+    "usages": [
+      { "title": "① 無謀な人", "desc": "危険な様子", "example_en": "He drove like a madman.", "example_ja": "彼は狂ったように(乱暴に)運転した。" },
+      { "title": "② 必死に", "desc": "like a madman", "example_en": "She worked like a madman to finish.", "example_ja": "彼女は終わらせようと必死に働いた。" }
+    ],
+    "warn": ["複数は madmen。like a madman＝狂ったように・必死に"],
+    "etym_note": "mad（狂った、古英語 gemǣded）と man（人）を結んだ複合語。",
+    "etym_chain": [
+      { "node": "mad + man", "sub": "狂った人", "era": "中英語" },
+      { "node": "madman", "sub": "狂人", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "like a madman", "ja": "狂ったように・必死に" },
+      { "en": "drive like a madman", "ja": "無謀に運転する" },
+      { "en": "a raving madman", "ja": "わめき散らす狂人" },
+      { "en": "run like a madman", "ja": "がむしゃらに走る" },
+      { "en": "shout like a madman", "ja": "狂ったように叫ぶ" },
+      { "en": "act like a madman", "ja": "無分別に振る舞う" }
+    ],
+    "related": [
+      { "en": "mad", "ja": "狂った・腹を立てた" },
+      { "en": "lunatic", "ja": "狂人" },
+      { "en": "maniac", "ja": "狂人・熱狂者" },
+      { "en": "madmen", "ja": "狂人(複数)" }
+    ],
+    "faq": [
+      { "q": "like a madman とは？", "a": "「狂ったように・必死に・がむしゃらに」という意味で、勢いの激しさを表します。" },
+      { "q": "複数形は？", "a": "madmen です。" }
+    ],
+    "quiz": [
+      { "q": "madman の意味は？", "A": "狂人・無謀な人", "B": "医者", "C": "先生", "D": "案内人", "correct": "A" },
+      { "q": "like a madman の意味は？", "A": "狂ったように・必死に", "B": "ゆっくりと", "C": "静かに", "D": "礼儀正しく", "correct": "A" }
+    ]
+  },
+  {
+    "english": "madonna",
+    "pron": "məˈdɑːnə",
+    "kana": "マドンナ",
+    "hinshi": "名詞（固有名詞）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "イタリア語 ma donna(我が貴婦人)から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "美術/宗教"],
+    "meaning_main": "聖母マリア／聖母（子）像（the Madonna）",
+    "description": "madonna（マドンナ）はキリスト教の「聖母マリア」、またその絵画や彫像（聖母子像）を指す語。the Madonna の形で使い、美術史でも重要な主題です。イタリア語で「我が貴婦人」を意味し、文中では大文字 Madonna。",
+    "keywords": ["madonna 意味", "the Madonna", "madonna 発音", "聖母マリア 英語"],
+    "meanings": [
+      { "hinshi": "【固有名詞】聖母マリア・聖母(子)像", "note": "the Madonna。マリアやその絵画・彫像。文中では大文字" }
+    ],
+    "usages": [
+      { "title": "① 宗教・美術で", "desc": "聖母マリア", "example_en": "The painting shows the Madonna and Child.", "example_ja": "その絵は聖母子(マリアと幼子イエス)を描いている。" },
+      { "title": "② 美術の主題", "desc": "聖母像", "example_en": "Many artists painted the Madonna.", "example_ja": "多くの画家が聖母を描いた。" }
+    ],
+    "warn": ["文中では大文字 Madonna。歌手名も同じ綴りだが別"],
+    "etym_note": "イタリア語 ma donna（我が貴婦人）に由来する。聖母マリアへの敬称として広まった。",
+    "etym_chain": [
+      { "node": "ma donna", "sub": "我が貴婦人", "era": "イタリア語" },
+      { "node": "Madonna", "sub": "聖母マリア", "era": "近代英語" },
+      { "node": "Madonna", "sub": "聖母(像)", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the Madonna and Child", "ja": "聖母子(マリアと幼子)" },
+      { "en": "a painting of the Madonna", "ja": "聖母の絵" },
+      { "en": "the Sistine Madonna", "ja": "システィーナの聖母" },
+      { "en": "a Madonna statue", "ja": "聖母像" },
+      { "en": "images of the Madonna", "ja": "聖母の図像" },
+      { "en": "worship the Madonna", "ja": "聖母を崇敬する" }
+    ],
+    "related": [
+      { "en": "mary", "ja": "マリア" },
+      { "en": "virgin", "ja": "処女・聖処女" },
+      { "en": "saint", "ja": "聖人" },
+      { "en": "icon", "ja": "聖像・イコン" }
+    ],
+    "faq": [
+      { "q": "the Madonna とは？", "a": "キリスト教の聖母マリア、またその絵画・彫像(聖母子像)を指します。" },
+      { "q": "由来は？", "a": "イタリア語で「我が貴婦人」を意味する ma donna です。" }
+    ],
+    "quiz": [
+      { "q": "the Madonna とは？", "A": "聖母マリア・聖母像", "B": "古代の女王", "C": "海の女神", "D": "有名な城", "correct": "A" },
+      { "q": "the Madonna and Child が描くのは？", "A": "マリアと幼子イエス", "B": "王と王妃", "C": "戦士と馬", "D": "農夫と牛", "correct": "A" }
+    ]
+  },
+  {
+    "english": "makealiving",
+    "pron": "meɪk ə ˈlɪvɪŋ",
+    "kana": "メイク ア リビング",
+    "hinshi": "熟語（正しくは make a living）",
+    "ld_pos": "熟語",
+    "ld_etym": "make a living を続けて綴った形",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "連語"],
+    "meaning_main": "「make a living（生計を立てる）」の続け書き",
+    "description": "makealiving は正しくは「make a living」で、3語を続けて書いた形です。「（働いて）生計を立てる・暮らしを立てる」という意味の連語です。make a living as/by ~ の形でよく使います。",
+    "keywords": ["make a living 意味", "make a living 使い方", "makealiving 綴り", "生計を立てる 英語"],
+    "meanings": [
+      { "hinshi": "【熟語】生計を立てる・暮らしを立てる", "note": "働いて生活費を稼ぐこと。make a living as/by/from ~。正しくは分けて書く" }
+    ],
+    "usages": [
+      { "title": "① 生計を立てる", "desc": "働いて稼ぐ", "example_en": "He makes a living as a writer.", "example_ja": "彼は作家として生計を立てている。" },
+      { "title": "② 方法を示す", "desc": "by/from で", "example_en": "She makes a living by teaching.", "example_ja": "彼女は教えることで生計を立てている。" }
+    ],
+    "warn": ["正しくは make a living。earn a living とも言う"],
+    "etym_note": "make（作る・得る）+ a + living（生計、live より）から成る連語。「暮らしを作り出す」の意。",
+    "etym_chain": [
+      { "node": "living", "sub": "生計・暮らし", "era": "中英語" },
+      { "node": "make a living", "sub": "生計を立てる", "era": "近代英語" },
+      { "node": "make a living", "sub": "生計を立てる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "make a living", "ja": "生計を立てる" },
+      { "en": "make a living as", "ja": "〜として生計を立てる" },
+      { "en": "make a living from", "ja": "〜で生計を立てる" },
+      { "en": "hard to make a living", "ja": "生計を立てるのが難しい" },
+      { "en": "make a decent living", "ja": "まずまずの暮らしをする" },
+      { "en": "earn a living", "ja": "生計を立てる" }
+    ],
+    "related": [
+      { "en": "living", "ja": "生計・暮らし" },
+      { "en": "earn", "ja": "稼ぐ" },
+      { "en": "income", "ja": "収入" },
+      { "en": "job", "ja": "仕事" }
+    ],
+    "faq": [
+      { "q": "makealiving は正しい？", "a": "いいえ。正しくは make a living と分けて書きます。" },
+      { "q": "earn a living との違いは？", "a": "ほぼ同義で、どちらも「生計を立てる」を表します。" }
+    ],
+    "quiz": [
+      { "q": "make a living の意味は？", "A": "生計を立てる", "B": "引っ越す", "C": "旅行する", "D": "退職する", "correct": "A" },
+      { "q": "make a living と同義なのは？", "A": "earn a living(生計を立てる)", "B": "make a mistake(間違える)", "C": "make friends(友達を作る)", "D": "make sense(意味をなす)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "makeupone",
+    "pron": "meɪk ʌp wʌnz maɪnd",
+    "kana": "メイク アップ ワンズ マインド",
+    "hinshi": "熟語（正しくは make up one's mind）",
+    "ld_pos": "熟語",
+    "ld_etym": "make up one's mind を途中まで続けて綴った形",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "連語"],
+    "meaning_main": "「make up one's mind（決心する）」の続け書き",
+    "description": "makeupone は「make up one's mind（決心する・心を決める）」を途中まで続けて書いた形と考えられます。正しくは make up one's mind と分けて書き、「決断する」という意味の連語です。",
+    "keywords": ["make up one's mind 意味", "make up one's mind 使い方", "makeupone 綴り", "決心する 英語"],
+    "meanings": [
+      { "hinshi": "【熟語】決心する・心を決める", "note": "make up one's mind (to do)。迷いを断ち切って決断する。正しくは分けて書く" }
+    ],
+    "usages": [
+      { "title": "① 決断する", "desc": "心を決める", "example_en": "I can't make up my mind.", "example_ja": "私は決心がつかない。" },
+      { "title": "② to do を続けて", "desc": "〜する決心", "example_en": "She made up her mind to study abroad.", "example_ja": "彼女は留学する決心をした。" }
+    ],
+    "warn": ["正しくは make up one's mind。one's は my/his/her などに変える"],
+    "etym_note": "make up（組み立てる・まとめる）+ one's mind（心）から成る連語。「心をまとめる＝決める」の意。",
+    "etym_chain": [
+      { "node": "mind", "sub": "心・考え", "era": "古英語" },
+      { "node": "make up one's mind", "sub": "決心する", "era": "近代英語" },
+      { "node": "make up one's mind", "sub": "決心する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "make up your mind", "ja": "決心しなさい" },
+      { "en": "make up one's mind to do", "ja": "〜する決心をする" },
+      { "en": "can't make up my mind", "ja": "決心がつかない" },
+      { "en": "made up her mind", "ja": "彼女は決心した" },
+      { "en": "make up your mind about", "ja": "〜について決める" },
+      { "en": "quickly make up one's mind", "ja": "素早く決断する" }
+    ],
+    "related": [
+      { "en": "mind", "ja": "心・考え" },
+      { "en": "decide", "ja": "決める" },
+      { "en": "decision", "ja": "決断" },
+      { "en": "choose", "ja": "選ぶ" }
+    ],
+    "faq": [
+      { "q": "makeupone は正しい？", "a": "いいえ。正しくは make up one's mind と分けて書きます。one's は my/his/her などに変えます。" },
+      { "q": "decide との違いは？", "a": "ほぼ同義ですが、make up one's mind は「迷いを断ち切って決める」ニュアンスがあります。" }
+    ],
+    "quiz": [
+      { "q": "make up one's mind の意味は？", "A": "決心する・心を決める", "B": "気を失う", "C": "忘れる", "D": "謝る", "correct": "A" },
+      { "q": "\"I can't ___ my mind.\" に入るのは？", "A": "make up", "B": "make out", "C": "make for", "D": "make off", "correct": "A" }
+    ]
+  },
+  {
+    "english": "malformation",
+    "pron": "ˌmælfɔːrˈmeɪʃən",
+    "kana": "マルフォーメイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "mal-(悪い)+formation(形成)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR B2", "医学"],
+    "meaning_main": "奇形／(正常でない)形成異常・変形",
+    "description": "malformation（マルフォーメイション）は「（体の一部などが）正常に形づくられないこと・奇形・形成異常」を表す名詞。mal-（悪い）+ formation（形成）から成ります。医学でよく使われます。",
+    "keywords": ["malformation 意味", "malformation 使い方", "malformation 発音", "奇形 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】奇形・形成異常・変形", "note": "正常に形づくられないこと。mal-(悪い)+formation(形成)" }
+    ],
+    "usages": [
+      { "title": "① 医学で", "desc": "形成異常", "example_en": "The scan revealed a heart malformation.", "example_ja": "検査で心臓の形成異常が判明した。" },
+      { "title": "② 一般的に", "desc": "変形", "example_en": "The plant showed a malformation of the leaves.", "example_ja": "その植物は葉の変形を示した。" }
+    ],
+    "warn": ["mal-＝悪い/異常の(接頭辞)。deformation(変形)と近いが先天的な意味合いも"],
+    "etym_note": "「悪い・異常の」を表す接頭辞 mal-（ラテン語 malus「悪い」より）と formation（形成）を結んだ語。",
+    "etym_chain": [
+      { "node": "malus", "sub": "悪い", "era": "ラテン語" },
+      { "node": "mal- + formation", "sub": "異常な形成", "era": "近代英語" },
+      { "node": "malformation", "sub": "奇形", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a congenital malformation", "ja": "先天性奇形" },
+      { "en": "a heart malformation", "ja": "心臓の形成異常" },
+      { "en": "a rare malformation", "ja": "まれな奇形" },
+      { "en": "a vascular malformation", "ja": "血管奇形" },
+      { "en": "correct a malformation", "ja": "形成異常を治す" },
+      { "en": "signs of malformation", "ja": "形成異常の兆候" }
+    ],
+    "related": [
+      { "en": "deformation", "ja": "変形" },
+      { "en": "deformity", "ja": "奇形・変形" },
+      { "en": "formation", "ja": "形成" },
+      { "en": "abnormality", "ja": "異常" }
+    ],
+    "faq": [
+      { "q": "malformation の mal- の意味は？", "a": "「悪い・異常の」を表す接頭辞です（malfunction＝故障 など）。" },
+      { "q": "deformation との違いは？", "a": "malformation は正常に形づくられない(先天的な)異常、deformation は後から力などで変形することを指すことが多いです。" }
+    ],
+    "quiz": [
+      { "q": "malformation の意味は？", "A": "奇形・形成異常", "B": "正常な発達", "C": "回復", "D": "成長", "correct": "A" },
+      { "q": "接頭辞 mal- が表すのは？", "A": "悪い・異常の", "B": "多くの", "C": "小さい", "D": "再び", "correct": "A" }
+    ]
+  },
+  {
+    "english": "malt",
+    "pron": "mɔːlt",
+    "kana": "モルト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 mealt(麦芽)から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "食べ物"],
+    "meaning_main": "麦芽（発芽させた大麦など）／モルト（ウイスキーの原料）",
+    "description": "malt（モルト）は大麦などを発芽させて乾燥させた「麦芽」を表す名詞。ビールやウイスキー、麦芽飲料の原料になります。ウイスキーの文脈では「モルト（麦芽由来）」の意味で使われます。",
+    "keywords": ["malt 意味", "malt 使い方", "malt 発音", "麦芽 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】麦芽", "note": "発芽させ乾燥させた穀物(主に大麦)。ビール・ウイスキーの原料。不可算" },
+      { "hinshi": "【名詞】モルト・麦芽飲料", "note": "single malt(シングルモルト)ウイスキーなど" }
+    ],
+    "usages": [
+      { "title": "① 原料として", "desc": "醸造", "example_en": "Beer is made from malt.", "example_ja": "ビールは麦芽から作られる。" },
+      { "title": "② ウイスキー", "desc": "モルト", "example_en": "He prefers single malt whisky.", "example_ja": "彼はシングルモルトウイスキーを好む。" }
+    ],
+    "warn": ["麦芽そのものは不可算。single malt＝単一蒸留所の麦芽ウイスキー"],
+    "etym_note": "古英語 mealt（麦芽）に由来する。発芽で糖化しやすくした穀物を指す。",
+    "etym_chain": [
+      { "node": "mealt", "sub": "麦芽", "era": "古英語" },
+      { "node": "malt", "sub": "麦芽", "era": "中英語" },
+      { "node": "malt", "sub": "麦芽・モルト", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "single malt", "ja": "シングルモルト" },
+      { "en": "malt whisky", "ja": "モルトウイスキー" },
+      { "en": "malted barley", "ja": "麦芽にした大麦" },
+      { "en": "malt vinegar", "ja": "モルトビネガー" },
+      { "en": "a malt drink", "ja": "麦芽飲料" },
+      { "en": "roasted malt", "ja": "ロースト麦芽" }
+    ],
+    "related": [
+      { "en": "barley", "ja": "大麦" },
+      { "en": "beer", "ja": "ビール" },
+      { "en": "whisky", "ja": "ウイスキー" },
+      { "en": "brew", "ja": "醸造する" }
+    ],
+    "faq": [
+      { "q": "malt とは？", "a": "大麦などを発芽させて乾燥させた麦芽で、ビールやウイスキーの原料になります。" },
+      { "q": "single malt とは？", "a": "一つの蒸留所で麦芽だけから造られたウイスキーのことです。" }
+    ],
+    "quiz": [
+      { "q": "malt とは？", "A": "発芽させた麦芽", "B": "砂糖", "C": "塩", "D": "米", "correct": "A" },
+      { "q": "malt から作られるのは？", "A": "ビール・ウイスキー", "B": "パスタ", "C": "チーズ", "D": "紅茶", "correct": "A" }
+    ]
+  },
+  {
+    "english": "maneuvering",
+    "pron": "məˈnuːvərɪŋ",
+    "kana": "マヌーバリング",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "maneuver(巧みに動かす)+ing",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR B2", "行動"],
+    "meaning_main": "巧みに操作すること／(有利にするための)駆け引き・工作",
+    "description": "maneuvering（マヌーバリング）は maneuver（巧みに動かす・操縦する）の -ing 形。車や船を巧みに動かすこと、また比喩的に「（目的を果たすための）巧妙な駆け引き・立ち回り」を表します。英国式は manoeuvring。",
+    "keywords": ["maneuvering 意味", "maneuvering 使い方", "maneuvering 発音", "駆け引き 英語"],
+    "meanings": [
+      { "hinshi": "【動詞/名詞】巧みに動かす(こと)", "note": "車・船などを慎重に操作する" },
+      { "hinshi": "【名詞】(有利にするための)駆け引き・工作", "note": "political maneuvering（政治的な駆け引き)" }
+    ],
+    "usages": [
+      { "title": "① 巧みな操作", "desc": "車・船", "example_en": "Maneuvering the truck was difficult.", "example_ja": "そのトラックを巧みに動かすのは難しかった。" },
+      { "title": "② 駆け引き", "desc": "立ち回り", "example_en": "There was a lot of political maneuvering.", "example_ja": "多くの政治的な駆け引きがあった。" }
+    ],
+    "warn": ["英国式は manoeuvring。比喩の『駆け引き』が頻出"],
+    "etym_note": "フランス語 manœuvre（手仕事、ラテン語 manu operari「手で働く」より）由来の maneuver に -ing が付いた語。",
+    "etym_chain": [
+      { "node": "manu operari", "sub": "手で働く", "era": "ラテン語" },
+      { "node": "maneuver", "sub": "巧みに動かす", "era": "近代英語" },
+      { "node": "maneuvering", "sub": "駆け引き・操作", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "political maneuvering", "ja": "政治的な駆け引き" },
+      { "en": "careful maneuvering", "ja": "慎重な操作" },
+      { "en": "behind-the-scenes maneuvering", "ja": "水面下の工作" },
+      { "en": "maneuvering for position", "ja": "有利な立場を得るための駆け引き" },
+      { "en": "skillful maneuvering", "ja": "巧みな立ち回り" },
+      { "en": "maneuvering the car", "ja": "車を巧みに動かすこと" }
+    ],
+    "related": [
+      { "en": "maneuver", "ja": "巧みに動かす・策略" },
+      { "en": "tactic", "ja": "戦術・策" },
+      { "en": "navigate", "ja": "進む・操縦する" },
+      { "en": "scheme", "ja": "たくらみ" }
+    ],
+    "faq": [
+      { "q": "maneuvering の比喩的な意味は？", "a": "目的を果たすための「巧妙な駆け引き・立ち回り・工作」を指します。" },
+      { "q": "英国式の綴りは？", "a": "manoeuvring です。" }
+    ],
+    "quiz": [
+      { "q": "political maneuvering の意味は？", "A": "政治的な駆け引き", "B": "選挙の投票", "C": "法律の条文", "D": "国旗の掲揚", "correct": "A" },
+      { "q": "maneuvering の元の動詞は？", "A": "maneuver(巧みに動かす)", "B": "manage(管理する)", "C": "manner(方法)", "D": "manual(手引き)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "marvelously",
+    "pron": "ˈmɑːrvələsli",
+    "kana": "マーベラスリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "marvelous(すばらしい)+ly",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "副詞"],
+    "meaning_main": "すばらしく／見事に／驚くほどうまく",
+    "description": "marvelously（マーベラスリー）は「すばらしく・見事に・驚くほど」という意味の副詞。marvelous（すばらしい・驚くべき）に-lyが付いた形で、称賛や強調に使います。英国式は marvellously。",
+    "keywords": ["marvelously 意味", "marvelously 使い方", "marvelously 発音", "marvelous 副詞"],
+    "meanings": [
+      { "hinshi": "【副詞】すばらしく・見事に・驚くほど", "note": "非常にうまく、感嘆するほど。称賛・強調に使う" }
+    ],
+    "usages": [
+      { "title": "① 称賛して", "desc": "見事に", "example_en": "The plan worked marvelously.", "example_ja": "その計画は見事にうまくいった。" },
+      { "title": "② 程度の強調", "desc": "驚くほど", "example_en": "She sang marvelously.", "example_ja": "彼女は見事に歌った。" }
+    ],
+    "warn": ["英国式は marvellously。wonderfully とほぼ同義"],
+    "etym_note": "ラテン語 mirari（驚く）由来の marvelous に、副詞化の -ly が付いた語。",
+    "etym_chain": [
+      { "node": "mirari", "sub": "驚く", "era": "ラテン語" },
+      { "node": "marvelous", "sub": "すばらしい", "era": "中英語" },
+      { "node": "marvelously", "sub": "すばらしく", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "work marvelously", "ja": "見事にうまくいく" },
+      { "en": "marvelously well", "ja": "驚くほどうまく" },
+      { "en": "marvelously simple", "ja": "見事にシンプルな" },
+      { "en": "perform marvelously", "ja": "すばらしい演技をする" },
+      { "en": "get on marvelously", "ja": "とても仲良くやる" },
+      { "en": "marvelously detailed", "ja": "見事に細かい" }
+    ],
+    "related": [
+      { "en": "marvelous", "ja": "すばらしい" },
+      { "en": "wonderfully", "ja": "すばらしく" },
+      { "en": "splendidly", "ja": "見事に" },
+      { "en": "poorly", "ja": "下手に" }
+    ],
+    "faq": [
+      { "q": "marvelously の意味は？", "a": "「すばらしく・見事に・驚くほどうまく」という称賛の副詞です。" },
+      { "q": "英国式の綴りは？", "a": "marvellously（l を重ねる）です。" }
+    ],
+    "quiz": [
+      { "q": "marvelously の意味は？", "A": "すばらしく・見事に", "B": "下手に", "C": "静かに", "D": "遅く", "correct": "A" },
+      { "q": "marvelously の類語は？", "A": "wonderfully(すばらしく)", "B": "badly(ひどく)", "C": "slowly(ゆっくり)", "D": "sadly(悲しげに)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "mastery",
+    "pron": "ˈmæstəri",
+    "kana": "マスタリー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "master(習得する・主人)+y",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "抽象"],
+    "meaning_main": "熟達／精通／(完全な)支配・掌握",
+    "description": "mastery（マスタリー）は「（技術・知識を）完全に身につけていること・熟達」を表す名詞。また「（対象を思いのままにする）支配・掌握」の意味でも使われます。mastery of ~（〜の習熟）の形が定番です。",
+    "keywords": ["mastery 意味", "mastery 使い方", "mastery 発音", "熟達 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】熟達・精通", "note": "技術や知識を完全に身につけていること。mastery of ~" },
+      { "hinshi": "【名詞】(完全な)支配・掌握", "note": "対象を思いのままにする力" }
+    ],
+    "usages": [
+      { "title": "① 技能の習熟", "desc": "使いこなす", "example_en": "She has complete mastery of English.", "example_ja": "彼女は英語を完全に使いこなす。" },
+      { "title": "② 支配・掌握", "desc": "思いのまま", "example_en": "They fought for mastery of the seas.", "example_ja": "彼らは制海権を求めて戦った。" }
+    ],
+    "warn": ["mastery of ~＝〜の習熟/支配。動詞は master(習得する)"],
+    "etym_note": "ラテン語 magister（師・主人）由来の master に、-y が付いた語。「主人であること→熟達・支配」へ。",
+    "etym_chain": [
+      { "node": "magister", "sub": "師・主人", "era": "ラテン語" },
+      { "node": "master", "sub": "習得する・主人", "era": "中英語" },
+      { "node": "mastery", "sub": "熟達・支配", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "mastery of a language", "ja": "言語の習熟" },
+      { "en": "complete mastery", "ja": "完全な習熟" },
+      { "en": "technical mastery", "ja": "技術的な熟達" },
+      { "en": "gain mastery over", "ja": "〜を掌握する" },
+      { "en": "mastery of the subject", "ja": "その分野への精通" },
+      { "en": "achieve mastery", "ja": "熟達を成し遂げる" }
+    ],
+    "related": [
+      { "en": "master", "ja": "習得する・達人" },
+      { "en": "expertise", "ja": "専門的技能" },
+      { "en": "command", "ja": "駆使する力" },
+      { "en": "control", "ja": "支配・制御" }
+    ],
+    "faq": [
+      { "q": "mastery of ~ とは？", "a": "「〜を完全に使いこなすこと(習熟)」または「〜を思いのままにすること(支配)」という意味です。" },
+      { "q": "動詞形は？", "a": "master（習得する・使いこなす）です。" }
+    ],
+    "quiz": [
+      { "q": "mastery の意味は？", "A": "熟達・精通／支配", "B": "初心・未熟", "C": "怠惰", "D": "混乱", "correct": "A" },
+      { "q": "mastery の動詞形は？", "A": "master(習得する)", "B": "matter(重要である)", "C": "manage(管理する)", "D": "measure(測る)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "mayflower",
+    "pron": "ˈmeɪflaʊər",
+    "kana": "メイフラワー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "May(5月)+flower(花)",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "植物/歴史"],
+    "meaning_main": "5月に咲く花（サンザシなど）／(the Mayflower)メイフラワー号",
+    "description": "mayflower（メイフラワー）は「5月ごろに咲く花（英国ではサンザシなど）」を表す名詞。大文字の the Mayflower は、1620年に清教徒（ピルグリム）をアメリカへ運んだ帆船「メイフラワー号」を指します。",
+    "keywords": ["mayflower 意味", "the Mayflower 船", "mayflower 発音", "メイフラワー 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】5月に咲く花", "note": "英国ではサンザシなど。春を告げる花" },
+      { "hinshi": "【固有名詞】(the Mayflower)メイフラワー号", "note": "1620年に清教徒をアメリカへ運んだ帆船。文中では大文字" }
+    ],
+    "usages": [
+      { "title": "① 花として", "desc": "春の花", "example_en": "The mayflower blooms in spring.", "example_ja": "メイフラワー(サンザシ)は春に咲く。" },
+      { "title": "② 歴史の船", "desc": "the Mayflower", "example_en": "The Pilgrims sailed on the Mayflower.", "example_ja": "清教徒たちはメイフラワー号で航海した。" }
+    ],
+    "warn": ["船の意味では大文字 the Mayflower。花はどの花を指すか地域差あり"],
+    "etym_note": "May（5月）と flower（花）を結んだ語。5月ごろ咲く花にちなむ。帆船の名にもなった。",
+    "etym_chain": [
+      { "node": "May + flower", "sub": "5月の花", "era": "中英語" },
+      { "node": "mayflower", "sub": "5月に咲く花", "era": "近代英語" },
+      { "node": "the Mayflower", "sub": "メイフラワー号", "era": "17世紀" }
+    ],
+    "phrases": [
+      { "en": "the Mayflower", "ja": "メイフラワー号" },
+      { "en": "the Pilgrims and the Mayflower", "ja": "清教徒とメイフラワー号" },
+      { "en": "a mayflower in bloom", "ja": "咲いたサンザシの花" },
+      { "en": "sail on the Mayflower", "ja": "メイフラワー号で航海する" },
+      { "en": "the Mayflower Compact", "ja": "メイフラワー誓約" },
+      { "en": "pick mayflowers", "ja": "春の花を摘む" }
+    ],
+    "related": [
+      { "en": "flower", "ja": "花" },
+      { "en": "ship", "ja": "船" },
+      { "en": "pilgrim", "ja": "巡礼者・清教徒" },
+      { "en": "spring", "ja": "春" }
+    ],
+    "faq": [
+      { "q": "the Mayflower とは？", "a": "1620年に清教徒(ピルグリム)をイングランドから北米へ運んだ帆船です。" },
+      { "q": "花としての mayflower は？", "a": "5月ごろ咲く花で、英国ではサンザシなどを指します(地域で異なります)。" }
+    ],
+    "quiz": [
+      { "q": "the Mayflower とは？", "A": "清教徒を北米へ運んだ帆船", "B": "有名な城", "C": "大きな川", "D": "古代の神殿", "correct": "A" },
+      { "q": "mayflower(花)が咲く季節は？", "A": "春(5月ごろ)", "B": "真冬", "C": "真夏", "D": "晩秋", "correct": "A" }
+    ]
+  }
+]
