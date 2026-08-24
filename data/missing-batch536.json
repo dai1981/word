@@ -1,0 +1,982 @@
+[
+  {
+    "english": "mealtime",
+    "pron": "ˈmiːltaɪm",
+    "kana": "ミールタイム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "meal(食事)+time(時間)",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "生活"],
+    "meaning_main": "食事時間／食事どき",
+    "description": "mealtime（ミールタイム）は「食事をする時間・食事どき」を表す名詞。朝食・昼食・夕食など、食事のために決まった時間帯を指します。meal（食事）+ time（時間）の複合語です。",
+    "keywords": ["mealtime 意味", "mealtime 使い方", "mealtime 発音", "食事時間 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】食事時間・食事どき", "note": "食事をとる決まった時間帯" }
+    ],
+    "usages": [
+      { "title": "① 食事の時間", "desc": "決まった時間帯", "example_en": "Turn off the TV at mealtimes.", "example_ja": "食事時間にはテレビを消しなさい。" },
+      { "title": "② 家族の時間", "desc": "だんらん", "example_en": "Mealtimes are a chance to talk.", "example_ja": "食事どきは話をする機会だ。" }
+    ],
+    "warn": ["複数形は mealtimes。at mealtimes＝食事時に"],
+    "etym_note": "meal（食事、古英語 mǣl「定まった時」）と time（時間）を結んだ複合語。",
+    "etym_chain": [
+      { "node": "mǣl", "sub": "定まった時・食事", "era": "古英語" },
+      { "node": "meal + time", "sub": "食事の時間", "era": "近代英語" },
+      { "node": "mealtime", "sub": "食事時間", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "at mealtimes", "ja": "食事時に" },
+      { "en": "a family mealtime", "ja": "家族の食事時間" },
+      { "en": "regular mealtimes", "ja": "規則正しい食事時間" },
+      { "en": "during mealtime", "ja": "食事中に" },
+      { "en": "a pleasant mealtime", "ja": "楽しい食事どき" },
+      { "en": "mealtime routine", "ja": "食事の習慣" }
+    ],
+    "related": [
+      { "en": "meal", "ja": "食事" },
+      { "en": "breakfast", "ja": "朝食" },
+      { "en": "dinner", "ja": "夕食" },
+      { "en": "table", "ja": "食卓" }
+    ],
+    "faq": [
+      { "q": "mealtime の複数形は？", "a": "mealtimes です。at mealtimes（食事時に）の形でよく使います。" },
+      { "q": "どんな時間？", "a": "朝食・昼食・夕食など、食事をとる決まった時間帯のことです。" }
+    ],
+    "quiz": [
+      { "q": "mealtime の意味は？", "A": "食事時間・食事どき", "B": "就寝時間", "C": "始業時間", "D": "休憩時間だけ", "correct": "A" },
+      { "q": "at mealtimes の意味は？", "A": "食事時に", "B": "真夜中に", "C": "旅行中に", "D": "運動中に", "correct": "A" }
+    ]
+  },
+  {
+    "english": "megabit",
+    "pron": "ˈmeɡəbɪt",
+    "kana": "メガビット",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "mega-(百万)+bit(ビット)",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "IT"],
+    "meaning_main": "メガビット（約100万ビットのデータ量／通信速度の単位）",
+    "description": "megabit（メガビット）は情報量の単位で、約100万（10^6）ビットを表します。記号は Mb。通信速度では「メガビット毎秒（Mbps）」として使われます。8メガビット＝1メガバイトの関係にあります。",
+    "keywords": ["megabit 意味", "megabit Mbps", "megabit 発音", "メガビット 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】メガビット", "note": "約100万ビットの情報量。記号 Mb。通信速度は Mbps(メガビット毎秒)" }
+    ],
+    "usages": [
+      { "title": "① 通信速度", "desc": "ネットの速さ", "example_en": "The connection runs at 100 megabits per second.", "example_ja": "その回線は毎秒100メガビットで通信する。" },
+      { "title": "② データ量", "desc": "情報の大きさ", "example_en": "The file is a few megabits in size.", "example_ja": "そのファイルは数メガビットの大きさだ。" }
+    ],
+    "warn": ["ビット(bit,小文字b)とバイト(byte,大文字B)は別。8メガビット=1メガバイト"],
+    "etym_note": "ギリシャ語 megas（大きい）由来の接頭辞 mega-（100万）と bit（binary digit の略）を結んだ語。",
+    "etym_chain": [
+      { "node": "megas", "sub": "大きい", "era": "ギリシャ語" },
+      { "node": "mega- + bit", "sub": "百万ビット", "era": "20世紀" },
+      { "node": "megabit", "sub": "メガビット", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "megabits per second", "ja": "メガビット毎秒(Mbps)" },
+      { "en": "100 megabits", "ja": "100メガビット" },
+      { "en": "download speed in megabits", "ja": "メガビット単位の通信速度" },
+      { "en": "a megabit connection", "ja": "メガビット級の回線" },
+      { "en": "measured in megabits", "ja": "メガビットで測る" },
+      { "en": "gigabit and megabit", "ja": "ギガビットとメガビット" }
+    ],
+    "related": [
+      { "en": "bit", "ja": "ビット" },
+      { "en": "megabyte", "ja": "メガバイト" },
+      { "en": "gigabit", "ja": "ギガビット" },
+      { "en": "data", "ja": "データ" }
+    ],
+    "faq": [
+      { "q": "megabit と megabyte の違いは？", "a": "1バイト＝8ビットなので、8メガビット＝1メガバイトです。通信速度はメガビット(Mbps)で表すことが多いです。" },
+      { "q": "Mbps とは？", "a": "megabits per second（メガビット毎秒）で、通信速度の単位です。" }
+    ],
+    "quiz": [
+      { "q": "megabit とは？", "A": "約100万ビットのデータ量の単位", "B": "重さの単位", "C": "長さの単位", "D": "温度の単位", "correct": "A" },
+      { "q": "8メガビットは何メガバイト？", "A": "1メガバイト", "B": "8メガバイト", "C": "64メガバイト", "D": "0.1メガバイト", "correct": "A" }
+    ]
+  },
+  {
+    "english": "megahertz",
+    "pron": "ˈmeɡəhɜːrts",
+    "kana": "メガヘルツ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "mega-(百万)+hertz(ヘルツ)",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "科学/IT"],
+    "meaning_main": "メガヘルツ（周波数の単位、100万ヘルツ）",
+    "description": "megahertz（メガヘルツ）は周波数の単位で、100万ヘルツ（1秒間に100万回の振動）を表します。記号は MHz。ラジオの電波やコンピューターの処理速度などに使われます。単複同形です。",
+    "keywords": ["megahertz 意味", "megahertz MHz", "megahertz 発音", "メガヘルツ 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】メガヘルツ", "note": "周波数の単位。100万ヘルツ。記号 MHz。単複同形" }
+    ],
+    "usages": [
+      { "title": "① 電波の周波数", "desc": "ラジオなど", "example_en": "The station broadcasts at 90 megahertz.", "example_ja": "その局は90メガヘルツで放送している。" },
+      { "title": "② 処理速度", "desc": "コンピューター", "example_en": "Old computers ran at a few hundred megahertz.", "example_ja": "昔のコンピューターは数百メガヘルツで動いていた。" }
+    ],
+    "warn": ["単複同形(hertz)。1000メガヘルツ=1ギガヘルツ"],
+    "etym_note": "接頭辞 mega-（100万）と hertz（周波数の単位、ドイツの物理学者ヘルツの名から）を結んだ語。",
+    "etym_chain": [
+      { "node": "Hertz", "sub": "物理学者名", "era": "19世紀" },
+      { "node": "hertz", "sub": "周波数の単位", "era": "20世紀" },
+      { "node": "megahertz", "sub": "メガヘルツ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "at 100 megahertz", "ja": "100メガヘルツで" },
+      { "en": "radio megahertz", "ja": "ラジオの周波数(MHz)" },
+      { "en": "a few hundred megahertz", "ja": "数百メガヘルツ" },
+      { "en": "measured in megahertz", "ja": "メガヘルツで測る" },
+      { "en": "the megahertz range", "ja": "メガヘルツ帯" },
+      { "en": "gigahertz and megahertz", "ja": "ギガヘルツとメガヘルツ" }
+    ],
+    "related": [
+      { "en": "hertz", "ja": "ヘルツ" },
+      { "en": "frequency", "ja": "周波数" },
+      { "en": "gigahertz", "ja": "ギガヘルツ" },
+      { "en": "radio", "ja": "ラジオ・電波" }
+    ],
+    "faq": [
+      { "q": "megahertz とは？", "a": "1秒間に100万回の振動を表す周波数の単位です。記号は MHz です。" },
+      { "q": "ギガヘルツとの関係は？", "a": "1000メガヘルツ＝1ギガヘルツ(GHz)です。" }
+    ],
+    "quiz": [
+      { "q": "megahertz とは？", "A": "周波数の単位(100万ヘルツ)", "B": "重さの単位", "C": "距離の単位", "D": "明るさの単位", "correct": "A" },
+      { "q": "1000メガヘルツは？", "A": "1ギガヘルツ", "B": "1キロヘルツ", "C": "1テラヘルツ", "D": "1ヘルツ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "menorah",
+    "pron": "məˈnɔːrə",
+    "kana": "メノーラー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ヘブライ語 menorah(燭台)から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "宗教"],
+    "meaning_main": "メノーラー（ユダヤ教の枝付き燭台）",
+    "description": "menorah（メノーラー）はユダヤ教で用いられる枝付きの燭台を表す名詞。伝統的な7枝のものと、ハヌカーの祭りで使う9枝のもの（ハヌキヤー）があります。ユダヤ教の象徴の一つです。",
+    "keywords": ["menorah 意味", "menorah 使い方", "menorah 発音", "メノーラー ユダヤ教"],
+    "meanings": [
+      { "hinshi": "【名詞】メノーラー(ユダヤ教の枝付き燭台)", "note": "伝統的な7枝、ハヌカー用の9枝(ハヌキヤー)がある。ユダヤ教の象徴" }
+    ],
+    "usages": [
+      { "title": "① 宗教の象徴", "desc": "ユダヤ教で", "example_en": "The menorah is a symbol of Judaism.", "example_ja": "メノーラーはユダヤ教の象徴だ。" },
+      { "title": "② ハヌカーで", "desc": "祭りの燭台", "example_en": "They lit the menorah during Hanukkah.", "example_ja": "彼らはハヌカーの間メノーラーに火をともした。" }
+    ],
+    "warn": ["ヘブライ語由来。7枝が伝統。ハヌカー用の9枝はハヌキヤーとも呼ぶ"],
+    "etym_note": "ヘブライ語 menorah（燭台・ランプ台）に由来する。旧約聖書にも記される聖具。",
+    "etym_chain": [
+      { "node": "menorah", "sub": "燭台", "era": "ヘブライ語" },
+      { "node": "menorah", "sub": "メノーラー", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "light the menorah", "ja": "メノーラーに火をともす" },
+      { "en": "a seven-branched menorah", "ja": "7枝のメノーラー" },
+      { "en": "a Hanukkah menorah", "ja": "ハヌカー用メノーラー" },
+      { "en": "the menorah's candles", "ja": "メノーラーのろうそく" },
+      { "en": "a golden menorah", "ja": "金のメノーラー" },
+      { "en": "a symbol like the menorah", "ja": "メノーラーのような象徴" }
+    ],
+    "related": [
+      { "en": "candle", "ja": "ろうそく" },
+      { "en": "hanukkah", "ja": "ハヌカー(祭り)" },
+      { "en": "judaism", "ja": "ユダヤ教" },
+      { "en": "candlestick", "ja": "燭台" }
+    ],
+    "faq": [
+      { "q": "menorah とは？", "a": "ユダヤ教で使う枝付きの燭台です。7枝が伝統的で、ハヌカーでは9枝のものを使います。" },
+      { "q": "ハヌカーとの関係は？", "a": "ハヌカーの祭りでは、8日間かけて1本ずつ火をともす9枝のメノーラー(ハヌキヤー)を使います。" }
+    ],
+    "quiz": [
+      { "q": "menorah とは？", "A": "ユダヤ教の枝付き燭台", "B": "仏教の鐘", "C": "教会の十字架", "D": "神社の鳥居", "correct": "A" },
+      { "q": "伝統的な menorah の枝の数は？", "A": "7枝", "B": "3枝", "C": "12枝", "D": "1枝", "correct": "A" }
+    ]
+  },
+  {
+    "english": "meson",
+    "pron": "ˈmezɑːn",
+    "kana": "メゾン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 mesos(中間の)から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "物理"],
+    "meaning_main": "中間子（クォークと反クォークからなる素粒子）",
+    "description": "meson（メゾン）は物理学で「中間子」を表す名詞。クォークと反クォークが1つずつ結びついた素粒子で、質量が電子と陽子の中間程度であることから名づけられました。原子核をまとめる力に関わります。",
+    "keywords": ["meson 意味", "meson 使い方", "meson 発音", "中間子 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】中間子", "note": "クォークと反クォークからなる素粒子。原子核の力に関わる" }
+    ],
+    "usages": [
+      { "title": "① 素粒子として", "desc": "物理学で", "example_en": "A meson is made of a quark and an antiquark.", "example_ja": "中間子はクォークと反クォークからできている。" },
+      { "title": "② 核力の担い手", "desc": "力の媒介", "example_en": "Mesons help bind the atomic nucleus.", "example_ja": "中間子は原子核を結びつける働きをする。" }
+    ],
+    "warn": ["mesos(中間の)由来。質量が電子と陽子の中間なことにちなむ"],
+    "etym_note": "ギリシャ語 mesos（中間の）に、素粒子を表す語尾を付けた語。質量が中間的であることにちなむ。",
+    "etym_chain": [
+      { "node": "mesos", "sub": "中間の", "era": "ギリシャ語" },
+      { "node": "meson", "sub": "中間子", "era": "20世紀" },
+      { "node": "meson", "sub": "中間子", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a pi meson", "ja": "パイ中間子" },
+      { "en": "meson and quark", "ja": "中間子とクォーク" },
+      { "en": "the discovery of the meson", "ja": "中間子の発見" },
+      { "en": "meson exchange", "ja": "中間子の交換" },
+      { "en": "a heavy meson", "ja": "重い中間子" },
+      { "en": "detect a meson", "ja": "中間子を検出する" }
+    ],
+    "related": [
+      { "en": "quark", "ja": "クォーク" },
+      { "en": "particle", "ja": "粒子" },
+      { "en": "nucleus", "ja": "原子核" },
+      { "en": "physics", "ja": "物理学" }
+    ],
+    "faq": [
+      { "q": "meson は何からできている？", "a": "クォークと反クォークが1つずつ結びついた素粒子です。" },
+      { "q": "名前の由来は？", "a": "質量が電子と陽子の「中間(mesos)」であることにちなみます。" }
+    ],
+    "quiz": [
+      { "q": "meson とは？", "A": "クォークと反クォークからなる素粒子(中間子)", "B": "大きな星", "C": "金属元素", "D": "細胞", "correct": "A" },
+      { "q": "meson の名の由来 mesos の意味は？", "A": "中間の", "B": "大きい", "C": "速い", "D": "重い", "correct": "A" }
+    ]
+  },
+  {
+    "english": "messi",
+    "pron": "ˈmesi",
+    "kana": "メッシ",
+    "hinshi": "名詞（固有名詞）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "人名（リオネル・メッシ）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "人名/スポーツ"],
+    "meaning_main": "メッシ（アルゼンチンの伝説的サッカー選手リオネル・メッシ）",
+    "description": "messi（メッシ）はアルゼンチン出身の世界的サッカー選手「リオネル・メッシ（Lionel Messi）」の姓。史上最高の選手の一人とされ、数々の記録を持ちます。人名なので文中では大文字 Messi と書きます。",
+    "keywords": ["messi 意味", "Lionel Messi", "messi サッカー", "メッシ 英語"],
+    "meanings": [
+      { "hinshi": "【固有名詞】メッシ", "note": "アルゼンチンのサッカー選手リオネル・メッシ。文中では大文字 Messi" }
+    ],
+    "usages": [
+      { "title": "① 選手として", "desc": "スポーツの話題で", "example_en": "Messi is one of the greatest footballers ever.", "example_ja": "メッシは史上最高のサッカー選手の一人だ。" },
+      { "title": "② 大文字で書く", "desc": "人名", "example_en": "Messi scored a brilliant goal.", "example_ja": "メッシは見事なゴールを決めた。" }
+    ],
+    "warn": ["人名なので文中では大文字 Messi。散らかった意の messy(乱雑な)とは別語"],
+    "etym_note": "アルゼンチンのサッカー選手リオネル・メッシ(Lionel Messi)の姓。イタリア系の名字に由来する。",
+    "etym_chain": [
+      { "node": "Messi", "sub": "イタリア系の姓", "era": "—" },
+      { "node": "Lionel Messi", "sub": "サッカー選手", "era": "現代" },
+      { "node": "Messi", "sub": "メッシ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Lionel Messi", "ja": "リオネル・メッシ" },
+      { "en": "a Messi goal", "ja": "メッシのゴール" },
+      { "en": "watch Messi play", "ja": "メッシのプレーを見る" },
+      { "en": "Messi and Ronaldo", "ja": "メッシとロナウド" },
+      { "en": "a fan of Messi", "ja": "メッシのファン" },
+      { "en": "Messi's skill", "ja": "メッシの技術" }
+    ],
+    "related": [
+      { "en": "football", "ja": "サッカー" },
+      { "en": "soccer", "ja": "サッカー(米)" },
+      { "en": "player", "ja": "選手" },
+      { "en": "goal", "ja": "ゴール" }
+    ],
+    "faq": [
+      { "q": "Messi は誰？", "a": "アルゼンチン出身の世界的サッカー選手リオネル・メッシです。史上最高の選手の一人とされます。" },
+      { "q": "messy と同じ？", "a": "いいえ。人名 Messi と「乱雑な」の messy は別の語です。綴りと意味が違います。" }
+    ],
+    "quiz": [
+      { "q": "Messi とは？", "A": "アルゼンチンのサッカー選手", "B": "アメリカの都市", "C": "料理の名前", "D": "楽器", "correct": "A" },
+      { "q": "Messi はどの競技の選手？", "A": "サッカー", "B": "野球", "C": "テニス", "D": "水泳", "correct": "A" }
+    ]
+  },
+  {
+    "english": "meta",
+    "pron": "ˈmetə",
+    "kana": "メタ",
+    "hinshi": "形容詞 / 接頭辞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ギリシャ語 meta(超えて・後に)から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "現代語"],
+    "meaning_main": "メタ（自己言及的な・それ自体について言及する）／(接頭辞)超〜・高次の",
+    "description": "meta（メタ）は「それ自体について言及する・自己言及的な」という意味で使われる現代的な形容詞。もとはギリシャ語で「超えて・後に」を表す接頭辞で、metadata（メタデータ）、metaphor（隠喩）などをつくります。",
+    "keywords": ["meta 意味", "meta 使い方", "meta 発音", "メタ 自己言及"],
+    "meanings": [
+      { "hinshi": "【形容詞】自己言及的な・メタな", "note": "作品などが、それ自体について言及する様子。口語的" },
+      { "hinshi": "【接頭辞】超〜・高次の・〜について", "note": "metadata(データについてのデータ)、metaphysics(形而上学)など" }
+    ],
+    "usages": [
+      { "title": "① 自己言及的な", "desc": "口語で", "example_en": "The movie is very meta, joking about being a movie.", "example_ja": "その映画はとてもメタで、自分が映画であることをネタにしている。" },
+      { "title": "② 接頭辞として", "desc": "高次の・〜について", "example_en": "Metadata is data about other data.", "example_ja": "メタデータとは他のデータについてのデータだ。" }
+    ],
+    "warn": ["接頭辞 meta-（〜について・超）と、口語の形容詞『メタな(自己言及的)』の両方"],
+    "etym_note": "ギリシャ語 meta（〜の後に・〜を超えて）に由来する。metaphysics（物理学の後＝形而上学）などから「高次の・〜について」の意へ。",
+    "etym_chain": [
+      { "node": "meta", "sub": "超えて・後に", "era": "ギリシャ語" },
+      { "node": "meta-", "sub": "高次の・〜について", "era": "近代英語" },
+      { "node": "meta", "sub": "自己言及的な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "so meta", "ja": "すごくメタ(自己言及的)" },
+      { "en": "metadata", "ja": "メタデータ" },
+      { "en": "metaphor", "ja": "隠喩・メタファー" },
+      { "en": "metaphysics", "ja": "形而上学" },
+      { "en": "a meta joke", "ja": "メタ的な冗談" },
+      { "en": "get meta", "ja": "メタな話になる" }
+    ],
+    "related": [
+      { "en": "metadata", "ja": "メタデータ" },
+      { "en": "metaphor", "ja": "隠喩" },
+      { "en": "self-referential", "ja": "自己言及的な" },
+      { "en": "abstract", "ja": "抽象的な" }
+    ],
+    "faq": [
+      { "q": "「メタな」とはどういう意味？", "a": "作品や発言が、それ自体について言及する自己言及的な様子を指す口語です（映画が『これは映画だ』とネタにするなど）。" },
+      { "q": "接頭辞 meta- の意味は？", "a": "「〜を超えて・高次の・〜についての」を表します（metadata＝データについてのデータ）。" }
+    ],
+    "quiz": [
+      { "q": "口語の「メタ(meta)」の意味は？", "A": "自己言及的な", "B": "とても古い", "C": "巨大な", "D": "危険な", "correct": "A" },
+      { "q": "metadata の意味は？", "A": "他のデータについてのデータ", "B": "壊れたデータ", "C": "秘密のデータ", "D": "無料のデータ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "mindless",
+    "pron": "ˈmaɪndləs",
+    "kana": "マインドレス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "mind(考え)+less(〜がない)",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "性質"],
+    "meaning_main": "何も考えない／無分別な／(頭を使わず)単調な",
+    "description": "mindless（マインドレス）は「何も考えていない・無分別な」という意味の形容詞。考えなしの行動や、頭を使わない単調な作業を表します。mindless violence（無分別な暴力）などで使います。",
+    "keywords": ["mindless 意味", "mindless 使い方", "mindless 発音", "無分別 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】何も考えない・無分別な", "note": "考えなしの。mindless violence（理由なき暴力)" },
+      { "hinshi": "【形容詞】(頭を使わず)単調な", "note": "mindless work（頭を使わない単純作業)" }
+    ],
+    "usages": [
+      { "title": "① 考えなしの行為", "desc": "無分別", "example_en": "It was an act of mindless violence.", "example_ja": "それは理由なき無分別な暴力だった。" },
+      { "title": "② 単調な作業", "desc": "頭を使わない", "example_en": "Data entry can be mindless work.", "example_ja": "データ入力は頭を使わない単調な作業になりうる。" }
+    ],
+    "warn": ["mind(考え)+less(〜がない)。thoughtful(思慮深い)の対"],
+    "etym_note": "mind（心・考え、古英語 gemynd）に否定の -less（〜がない）が付いた語。",
+    "etym_chain": [
+      { "node": "gemynd", "sub": "心・記憶", "era": "古英語" },
+      { "node": "mind + less", "sub": "考えがない", "era": "中英語" },
+      { "node": "mindless", "sub": "何も考えない", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "mindless violence", "ja": "理由なき暴力" },
+      { "en": "mindless work", "ja": "単調な作業" },
+      { "en": "mindless entertainment", "ja": "頭を使わない娯楽" },
+      { "en": "a mindless act", "ja": "無分別な行為" },
+      { "en": "mindless chatter", "ja": "とりとめのないおしゃべり" },
+      { "en": "mindless scrolling", "ja": "だらだらスクロール" }
+    ],
+    "related": [
+      { "en": "thoughtless", "ja": "考えのない" },
+      { "en": "senseless", "ja": "無分別な" },
+      { "en": "thoughtful", "ja": "思慮深い" },
+      { "en": "mind", "ja": "心・考え" }
+    ],
+    "faq": [
+      { "q": "mindless の反対は？", "a": "thoughtful（思慮深い）や mindful（注意を払う）です。" },
+      { "q": "mindless work とは？", "a": "頭をあまり使わずにできる単調な作業のことです。" }
+    ],
+    "quiz": [
+      { "q": "mindless の意味は？", "A": "何も考えない・無分別な", "B": "思慮深い", "C": "とても賢い", "D": "勇敢な", "correct": "A" },
+      { "q": "mindless の対義語に近いのは？", "A": "thoughtful(思慮深い)", "B": "careless(不注意な)", "C": "helpless(無力な)", "D": "endless(終わりのない)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "misconceive",
+    "pron": "ˌmɪskənˈsiːv",
+    "kana": "ミスコンシーブ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "mis-(誤って)+conceive(考える)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "抽象"],
+    "meaning_main": "誤解する／誤って理解する・考える",
+    "description": "misconceive（ミスコンシーブ）は「（物事を）誤って理解する・思い違いをする」という意味の動詞。mis-（誤って）+ conceive（考える・思い描く）から成ります。過去分詞 misconceived（見当違いの）でよく使われます。",
+    "keywords": ["misconceive 意味", "misconceived 使い方", "misconceive 発音", "誤解 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】誤解する・誤って考える", "note": "物事を正しくとらえずに思い違いする。名詞は misconception" }
+    ],
+    "usages": [
+      { "title": "① 誤って理解する", "desc": "思い違い", "example_en": "People often misconceive the risks.", "example_ja": "人々はしばしばそのリスクを誤解する。" },
+      { "title": "② 見当違いの計画", "desc": "misconceived", "example_en": "The project was badly misconceived.", "example_ja": "その計画はひどく見当違いだった。" }
+    ],
+    "warn": ["名詞は misconception(誤解)。過去分詞 misconceived＝見当違いの"],
+    "etym_note": "「誤って」を表す mis- と、ラテン語 concipere（思い描く）由来の conceive を結んだ語。",
+    "etym_chain": [
+      { "node": "concipere", "sub": "思い描く", "era": "ラテン語" },
+      { "node": "conceive", "sub": "考える・思い描く", "era": "中英語" },
+      { "node": "misconceive", "sub": "誤解する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "misconceive the idea", "ja": "その考えを誤解する" },
+      { "en": "badly misconceived", "ja": "ひどく見当違いの" },
+      { "en": "a misconceived plan", "ja": "見当違いの計画" },
+      { "en": "misconceive the situation", "ja": "状況を誤解する" },
+      { "en": "commonly misconceived", "ja": "よく誤解される" },
+      { "en": "a misconceived notion", "ja": "誤った考え" }
+    ],
+    "related": [
+      { "en": "misconception", "ja": "誤解" },
+      { "en": "misunderstand", "ja": "誤解する" },
+      { "en": "conceive", "ja": "考える・思い描く" },
+      { "en": "misinterpret", "ja": "誤って解釈する" }
+    ],
+    "faq": [
+      { "q": "misconceive の名詞形は？", "a": "misconception（誤解・思い違い）です。" },
+      { "q": "misconceived とは？", "a": "「(計画などが)見当違いの・誤った前提に基づく」という意味の形容詞的な使い方です。" }
+    ],
+    "quiz": [
+      { "q": "misconceive の意味は？", "A": "誤解する・誤って考える", "B": "正しく理解する", "C": "発明する", "D": "記録する", "correct": "A" },
+      { "q": "misconceive の名詞形は？", "A": "misconception(誤解)", "B": "conception", "C": "misconduct", "D": "mischief", "correct": "A" }
+    ]
+  },
+  {
+    "english": "misinformation",
+    "pron": "ˌmɪsɪnfərˈmeɪʃən",
+    "kana": "ミスインフォメーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "mis-(誤った)+information(情報)",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "社会/報道"],
+    "meaning_main": "誤情報／(必ずしも故意でない)間違った情報",
+    "description": "misinformation（ミスインフォメーション）は「誤った情報・間違った情報」を表す名詞。だます意図があるとは限らない点で、故意にだます disinformation（偽情報）と区別されます。うわさの拡散などが例です。",
+    "keywords": ["misinformation 意味", "disinformation 違い", "misinformation 発音", "誤情報 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】誤情報・間違った情報", "note": "必ずしも故意でない誤り。故意にだます disinformation と区別。不可算" }
+    ],
+    "usages": [
+      { "title": "① 誤りの拡散", "desc": "うわさなど", "example_en": "Misinformation spreads quickly online.", "example_ja": "誤情報はネットで素早く広まる。" },
+      { "title": "② 対策の話題", "desc": "正す", "example_en": "We must correct this misinformation.", "example_ja": "私たちはこの誤情報を正さねばならない。" }
+    ],
+    "warn": ["disinformation(故意の偽情報)と区別。mis-＝誤って(故意とは限らない)"],
+    "etym_note": "information（情報）に「誤って」を表す mis- が付いた語。",
+    "etym_chain": [
+      { "node": "information", "sub": "情報", "era": "近代英語" },
+      { "node": "misinformation", "sub": "誤情報", "era": "20世紀" },
+      { "node": "misinformation", "sub": "誤情報", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "spread misinformation", "ja": "誤情報を広める" },
+      { "en": "correct misinformation", "ja": "誤情報を正す" },
+      { "en": "online misinformation", "ja": "ネット上の誤情報" },
+      { "en": "health misinformation", "ja": "健康に関する誤情報" },
+      { "en": "counter misinformation", "ja": "誤情報に対抗する" },
+      { "en": "a piece of misinformation", "ja": "一つの誤情報" }
+    ],
+    "related": [
+      { "en": "disinformation", "ja": "(故意の)偽情報" },
+      { "en": "information", "ja": "情報" },
+      { "en": "rumor", "ja": "うわさ" },
+      { "en": "fact-check", "ja": "事実確認" }
+    ],
+    "faq": [
+      { "q": "misinformation と disinformation の違いは？", "a": "misinformation は「(故意でない)誤った情報」、disinformation は「だます目的で故意に流す偽情報」です。" },
+      { "q": "身近な例は？", "a": "誤ったうわさや、確認されていない情報が善意で拡散される場合などです。" }
+    ],
+    "quiz": [
+      { "q": "misinformation の意味は？", "A": "(故意とは限らない)誤った情報", "B": "正確な統計", "C": "公式発表", "D": "取扱説明", "correct": "A" },
+      { "q": "disinformation との違いは？", "A": "misinformation は故意とは限らない", "B": "両者は同じ", "C": "misinformation は必ず故意", "D": "misinformation は真実", "correct": "A" }
+    ]
+  },
+  {
+    "english": "misleadingly",
+    "pron": "ˌmɪsˈliːdɪŋli",
+    "kana": "ミスリーディングリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "misleading(誤解を招く)+ly",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "副詞"],
+    "meaning_main": "誤解を招くように／紛らわしく",
+    "description": "misleadingly（ミスリーディングリー）は「誤解を招くように・紛らわしく」という意味の副詞。実際とは違う印象を与えてしまう様子を表します。misleading（誤解させる）に-lyが付いた形です。",
+    "keywords": ["misleadingly 意味", "misleadingly 使い方", "misleadingly 発音", "misleading 副詞"],
+    "meanings": [
+      { "hinshi": "【副詞】誤解を招くように・紛らわしく", "note": "実際と違う印象を与える様子で" }
+    ],
+    "usages": [
+      { "title": "① 紛らわしい表示", "desc": "誤解させる", "example_en": "The product was misleadingly labeled.", "example_ja": "その製品は誤解を招く表示がされていた。" },
+      { "title": "② 実態と違う印象", "desc": "紛らわしく", "example_en": "The name is misleadingly simple.", "example_ja": "その名前は(実態と違い)紛らわしいほど単純だ。" }
+    ],
+    "warn": ["misleading(誤解させる)の副詞。故意・過失どちらにも使える"],
+    "etym_note": "mis-（誤って）+ lead（導く）から成る mislead の -ing 形 misleading を、-ly で副詞化した語。",
+    "etym_chain": [
+      { "node": "mislead", "sub": "誤り導く", "era": "中英語" },
+      { "node": "misleading", "sub": "誤解を招く", "era": "近代英語" },
+      { "node": "misleadingly", "sub": "誤解を招くように", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "misleadingly labeled", "ja": "誤解を招く表示で" },
+      { "en": "misleadingly simple", "ja": "紛らわしいほど単純な" },
+      { "en": "misleadingly named", "ja": "紛らわしい名前で" },
+      { "en": "advertise misleadingly", "ja": "誤解を招く宣伝をする" },
+      { "en": "misleadingly high", "ja": "実態より高く見える" },
+      { "en": "presented misleadingly", "ja": "誤解を招く形で示された" }
+    ],
+    "related": [
+      { "en": "misleading", "ja": "誤解を招く" },
+      { "en": "mislead", "ja": "誤り導く" },
+      { "en": "deceptively", "ja": "見かけと違って" },
+      { "en": "clearly", "ja": "はっきりと" }
+    ],
+    "faq": [
+      { "q": "misleadingly の意味は？", "a": "「誤解を招くように・紛らわしく」という意味です。" },
+      { "q": "元の形容詞は？", "a": "misleading（誤解を招く・紛らわしい）です。" }
+    ],
+    "quiz": [
+      { "q": "misleadingly の意味は？", "A": "誤解を招くように・紛らわしく", "B": "はっきりと", "C": "正直に", "D": "静かに", "correct": "A" },
+      { "q": "misleadingly の元の形容詞は？", "A": "misleading(誤解を招く)", "B": "meaningful(意味深い)", "C": "measuring(測る)", "D": "meeting(会議)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "mm-mm",
+    "pron": "ˈm̩ˈm̩",
+    "kana": "ンーン",
+    "hinshi": "間投詞",
+    "ld_pos": "間投詞",
+    "ld_etym": "口を閉じて出す否定の音",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A1", "会話"],
+    "meaning_main": "ううん／いいえ（口を閉じて出す否定の相づち）",
+    "description": "mm-mm（ンーン）は口を閉じたまま出す「いいえ・ううん」という否定の相づち。高低の下がる二音で表します。肯定の mm-hmm（うん）と対になる、会話でよく使われる音です。",
+    "keywords": ["mm-mm 意味", "mm-mm 使い方", "mm-mm 否定", "相づち 英語"],
+    "meanings": [
+      { "hinshi": "【間投詞】ううん・いいえ(否定の相づち)", "note": "口を閉じて出す否定の音。肯定の mm-hmm と対" }
+    ],
+    "usages": [
+      { "title": "① 否定の返事", "desc": "口語で", "example_en": "\"Did you eat it?\" \"Mm-mm.\"", "example_ja": "「食べた？」「ううん」" },
+      { "title": "② 拒否・辞退", "desc": "いいえ", "example_en": "\"Want more?\" \"Mm-mm, I'm full.\"", "example_ja": "「もっといる？」「ううん、おなかいっぱい」" }
+    ],
+    "warn": ["肯定の mm-hmm(うん)と混同しない。mm-mm は否定"],
+    "etym_note": "口を閉じたまま鼻から出す音を文字にした語。音の高低で肯定(mm-hmm)と否定(mm-mm)を区別する。",
+    "etym_chain": [
+      { "node": "mm(鼻音)", "sub": "口を閉じた音", "era": "—" },
+      { "node": "mm-mm", "sub": "否定の相づち", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Mm-mm.", "ja": "ううん(いいえ)。" },
+      { "en": "Mm-mm, not me.", "ja": "ううん、私じゃない。" },
+      { "en": "Mm-mm, no thanks.", "ja": "ううん、けっこうです。" },
+      { "en": "shake head and say mm-mm", "ja": "首を振って「ううん」と言う" },
+      { "en": "just mm-mm", "ja": "ただ「ううん」と" },
+      { "en": "Mm-mm, I don't think so.", "ja": "ううん、違うと思う。" }
+    ],
+    "related": [
+      { "en": "mm-hmm", "ja": "うん(肯定)" },
+      { "en": "uh-uh", "ja": "ううん(否定)" },
+      { "en": "no", "ja": "いいえ" },
+      { "en": "nope", "ja": "いや(くだけた否定)" }
+    ],
+    "faq": [
+      { "q": "mm-mm と mm-hmm の違いは？", "a": "mm-mm は「ううん(いいえ)」の否定、mm-hmm は「うん(はい)」の肯定です。音の高低で区別します。" },
+      { "q": "uh-uh との違いは？", "a": "どちらも否定の相づちで、ほぼ同じ意味です。" }
+    ],
+    "quiz": [
+      { "q": "mm-mm の意味は？", "A": "ううん・いいえ(否定)", "B": "うん・はい(肯定)", "C": "ありがとう", "D": "さようなら", "correct": "A" },
+      { "q": "mm-mm と対になる肯定の相づちは？", "A": "mm-hmm(うん)", "B": "no(いいえ)", "C": "bye(じゃあね)", "D": "wow(わあ)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "modestly",
+    "pron": "ˈmɑːdɪstli",
+    "kana": "モデストリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "modest(控えめな)+ly",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "副詞"],
+    "meaning_main": "控えめに／謙虚に／(程度が)ほどほどに",
+    "description": "modestly（モデストリー）は「控えめに・謙虚に」という意味の副詞。自慢せずつつましく振る舞う様子や、程度が「ほどほどに」であることを表します。modest（控えめな）に-lyが付いた形です。",
+    "keywords": ["modestly 意味", "modestly 使い方", "modestly 発音", "modest 副詞"],
+    "meanings": [
+      { "hinshi": "【副詞】控えめに・謙虚に", "note": "自慢せずつつましく振る舞う様子で" },
+      { "hinshi": "【副詞】ほどほどに・適度に", "note": "程度が大きすぎない様子。modestly priced(手ごろな値段の)" }
+    ],
+    "usages": [
+      { "title": "① 謙虚に", "desc": "自慢せず", "example_en": "She spoke modestly about her success.", "example_ja": "彼女は自分の成功を控えめに語った。" },
+      { "title": "② 程度がほどほど", "desc": "適度に", "example_en": "Sales rose modestly last year.", "example_ja": "売上は昨年ほどほどに増えた。" }
+    ],
+    "warn": ["『謙虚に』と『ほどほどに』の両方。boastfully(自慢げに)の対"],
+    "etym_note": "ラテン語 modestus（節度のある、modus「程度」より）由来の modest に、-ly が付いた語。",
+    "etym_chain": [
+      { "node": "modestus", "sub": "節度のある", "era": "ラテン語" },
+      { "node": "modest", "sub": "控えめな", "era": "近代英語" },
+      { "node": "modestly", "sub": "控えめに", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "smile modestly", "ja": "控えめにほほえむ" },
+      { "en": "modestly dressed", "ja": "地味な服装で" },
+      { "en": "modestly priced", "ja": "手ごろな値段の" },
+      { "en": "rise modestly", "ja": "ほどほどに増える" },
+      { "en": "speak modestly", "ja": "謙虚に話す" },
+      { "en": "live modestly", "ja": "つつましく暮らす" }
+    ],
+    "related": [
+      { "en": "modest", "ja": "控えめな" },
+      { "en": "humbly", "ja": "謙虚に" },
+      { "en": "moderately", "ja": "適度に" },
+      { "en": "boastfully", "ja": "自慢げに" }
+    ],
+    "faq": [
+      { "q": "modestly の反対に近いのは？", "a": "boastfully（自慢げに）や extravagantly（派手に）です。" },
+      { "q": "二つの意味は？", "a": "①謙虚に・控えめに、②(程度が)ほどほどに・適度に、の二つです。" }
+    ],
+    "quiz": [
+      { "q": "modestly の意味は？", "A": "控えめに・謙虚に", "B": "自慢げに", "C": "怒って", "D": "急いで", "correct": "A" },
+      { "q": "modestly priced の意味は？", "A": "手ごろな値段の", "B": "とても高価な", "C": "無料の", "D": "値段のない", "correct": "A" }
+    ]
+  },
+  {
+    "english": "monet",
+    "pron": "moʊˈneɪ",
+    "kana": "モネ",
+    "hinshi": "名詞（固有名詞）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "人名（クロード・モネ）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "美術/人名"],
+    "meaning_main": "モネ（フランスの画家クロード・モネ、印象派の中心人物）",
+    "description": "monet（モネ）はフランスの画家「クロード・モネ（Claude Monet）」の姓。印象派を代表する画家で、「印象・日の出」や「睡蓮」の連作で知られます。光と色の移ろいをとらえました。文中では大文字 Monet。",
+    "keywords": ["monet 意味", "Claude Monet", "monet 印象派", "モネ 英語"],
+    "meanings": [
+      { "hinshi": "【固有名詞】モネ", "note": "フランスの画家クロード・モネ。印象派の中心人物。文中では大文字 Monet" }
+    ],
+    "usages": [
+      { "title": "① 画家として", "desc": "美術の話題で", "example_en": "Monet painted the same scene many times.", "example_ja": "モネは同じ風景を何度も描いた。" },
+      { "title": "② 代表作", "desc": "睡蓮など", "example_en": "Monet is famous for his water lilies.", "example_ja": "モネは睡蓮の絵で有名だ。" }
+    ],
+    "warn": ["文中では大文字 Monet。同時代の画家マネ(Manet)と混同しない"],
+    "etym_note": "フランスの画家クロード・モネ(Claude Monet)の姓。作品「印象・日の出」が印象派(impressionism)の名の由来。",
+    "etym_chain": [
+      { "node": "Monet", "sub": "フランスの姓", "era": "—" },
+      { "node": "Claude Monet", "sub": "画家", "era": "19世紀" },
+      { "node": "Monet", "sub": "モネ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a Monet painting", "ja": "モネの絵" },
+      { "en": "Monet's water lilies", "ja": "モネの睡蓮" },
+      { "en": "in the style of Monet", "ja": "モネ風に" },
+      { "en": "Monet and Renoir", "ja": "モネとルノワール" },
+      { "en": "an exhibition of Monet", "ja": "モネ展" },
+      { "en": "Monet's garden", "ja": "モネの庭" }
+    ],
+    "related": [
+      { "en": "impressionism", "ja": "印象主義・印象派" },
+      { "en": "painting", "ja": "絵画" },
+      { "en": "artist", "ja": "芸術家" },
+      { "en": "art", "ja": "美術" }
+    ],
+    "faq": [
+      { "q": "Monet は誰？", "a": "フランスの画家クロード・モネで、印象派を代表する存在です。「印象・日の出」「睡蓮」で有名です。" },
+      { "q": "Manet と同じ？", "a": "いいえ。エドゥアール・マネ(Manet)は別の画家です。綴りも人物も異なります。" }
+    ],
+    "quiz": [
+      { "q": "Monet とは？", "A": "フランスの印象派の画家", "B": "アメリカの作曲家", "C": "イタリアの彫刻家", "D": "ドイツの科学者", "correct": "A" },
+      { "q": "Monet の代表作は？", "A": "睡蓮", "B": "モナ・リザ", "C": "最後の晩餐", "D": "叫び", "correct": "A" }
+    ]
+  },
+  {
+    "english": "mononucleosis",
+    "pron": "ˌmɑːnoʊˌnuːkliˈoʊsɪs",
+    "kana": "モノヌクレオーシス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "mono-(単一)+nucleo(核)+-osis(症)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "医学"],
+    "meaning_main": "伝染性単核球症（俗称モノ、キス病）",
+    "description": "mononucleosis（モノヌクレオーシス）は主にエプスタイン・バーウイルスによって起こる感染症「伝染性単核球症」を表す名詞。発熱・のどの痛み・強い倦怠感が特徴で、俗に mono や「キス病」と呼ばれます。",
+    "keywords": ["mononucleosis 意味", "mono キス病", "mononucleosis 発音", "単核球症 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】伝染性単核球症", "note": "主にEBウイルスによる感染症。発熱・のどの痛み・倦怠感。俗称 mono・キス病" }
+    ],
+    "usages": [
+      { "title": "① 病名として", "desc": "医学の話題で", "example_en": "She was diagnosed with mononucleosis.", "example_ja": "彼女は伝染性単核球症と診断された。" },
+      { "title": "② 俗称で", "desc": "mono", "example_en": "Mono is sometimes called the kissing disease.", "example_ja": "モノは「キス病」と呼ばれることもある。" }
+    ],
+    "warn": ["俗称は mono。だ液を介してうつるため『キス病』とも呼ばれる"],
+    "etym_note": "mono-（単一）+ nucleo（細胞核）+ -osis（症）を結んだ語。血中に単核の白血球が増えることにちなむ。",
+    "etym_chain": [
+      { "node": "mono- + nucleus", "sub": "単一の核", "era": "近代医学" },
+      { "node": "mononucleosis", "sub": "単核球症", "era": "20世紀" },
+      { "node": "mononucleosis", "sub": "伝染性単核球症", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "infectious mononucleosis", "ja": "伝染性単核球症" },
+      { "en": "have mononucleosis", "ja": "単核球症にかかっている" },
+      { "en": "diagnosed with mono", "ja": "モノと診断された" },
+      { "en": "the kissing disease", "ja": "キス病(俗称)" },
+      { "en": "recover from mono", "ja": "モノから回復する" },
+      { "en": "symptoms of mononucleosis", "ja": "単核球症の症状" }
+    ],
+    "related": [
+      { "en": "virus", "ja": "ウイルス" },
+      { "en": "infection", "ja": "感染" },
+      { "en": "fever", "ja": "発熱" },
+      { "en": "fatigue", "ja": "倦怠感" }
+    ],
+    "faq": [
+      { "q": "mononucleosis の俗称は？", "a": "mono、また「キス病(the kissing disease)」です。だ液を介してうつることにちなみます。" },
+      { "q": "主な原因は？", "a": "多くはエプスタイン・バー(EB)ウイルスによる感染です。" }
+    ],
+    "quiz": [
+      { "q": "mononucleosis とは？", "A": "ウイルスによる感染症(単核球症)", "B": "骨折", "C": "アレルギー", "D": "近視", "correct": "A" },
+      { "q": "mononucleosis の俗称は？", "A": "キス病(mono)", "B": "水ぼうそう", "C": "はしか", "D": "おたふく風邪", "correct": "A" }
+    ]
+  },
+  {
+    "english": "mostofall",
+    "pron": "moʊst əv ˈɔːl",
+    "kana": "モースト オブ オール",
+    "hinshi": "熟語（正しくは most of all）",
+    "ld_pos": "熟語",
+    "ld_etym": "most of all を続けて綴った形",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "連語"],
+    "meaning_main": "「most of all（何よりも・とりわけ）」の続け書き",
+    "description": "mostofall は正しくは「most of all」で、3語を続けて書いた形です。「何よりも・とりわけ・いちばん」という意味の連語で、複数のものの中で最も、と強調するときに使います。",
+    "keywords": ["most of all 意味", "most of all 使い方", "mostofall 綴り", "何よりも 英語"],
+    "meanings": [
+      { "hinshi": "【熟語】何よりも・とりわけ・いちばん", "note": "複数の中で最もと強調する。正しくは分けて書く" }
+    ],
+    "usages": [
+      { "title": "① 最も強調", "desc": "いちばん", "example_en": "I love summer most of all.", "example_ja": "私は何よりも夏が好きだ。" },
+      { "title": "② 文末で", "desc": "とりわけ", "example_en": "Most of all, thank you for coming.", "example_ja": "何よりも、来てくれてありがとう。" }
+    ],
+    "warn": ["正しくは most of all。at most(せいぜい)とは別の表現"],
+    "etym_note": "most（最も、much/many の最上級）+ of + all（すべて）から成る連語。",
+    "etym_chain": [
+      { "node": "most", "sub": "最も", "era": "古英語" },
+      { "node": "most of all", "sub": "何よりも", "era": "近代英語" },
+      { "node": "most of all", "sub": "何よりも", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "most of all", "ja": "何よりも" },
+      { "en": "like it most of all", "ja": "それがいちばん好き" },
+      { "en": "most of all, remember", "ja": "何よりも、覚えておいて" },
+      { "en": "want it most of all", "ja": "それを何よりも欲しい" },
+      { "en": "miss you most of all", "ja": "君がいちばん恋しい" },
+      { "en": "most of all in winter", "ja": "とりわけ冬に" }
+    ],
+    "related": [
+      { "en": "most", "ja": "最も" },
+      { "en": "above all", "ja": "とりわけ・何よりも" },
+      { "en": "especially", "ja": "特に" },
+      { "en": "particularly", "ja": "とりわけ" }
+    ],
+    "faq": [
+      { "q": "mostofall は正しい？", "a": "いいえ。正しくは most of all と分けて書きます。" },
+      { "q": "above all との違いは？", "a": "ほぼ同義で、どちらも「何よりも・とりわけ」を表します。" }
+    ],
+    "quiz": [
+      { "q": "most of all の意味は？", "A": "何よりも・とりわけ", "B": "少なくとも", "C": "せいぜい", "D": "決して〜ない", "correct": "A" },
+      { "q": "most of all と近い表現は？", "A": "above all(何よりも)", "B": "at least(少なくとも)", "C": "at most(せいぜい)", "D": "after all(結局)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "mountaineer",
+    "pron": "ˌmaʊntəˈnɪr",
+    "kana": "マウンテニア",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "mountain(山)+-eer(する人)",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "スポーツ"],
+    "meaning_main": "登山家／山に登る人",
+    "description": "mountaineer（マウンテニア）は「（技術を使って高い山に登る）登山家」を表す名詞。険しい山や高峰への本格的な登山をする人を指します。動詞・行為は mountaineering（登山）です。",
+    "keywords": ["mountaineer 意味", "mountaineer 使い方", "mountaineer 発音", "登山家 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】登山家・山に登る人", "note": "技術を使って高い山に登る人。行為は mountaineering" }
+    ],
+    "usages": [
+      { "title": "① 登山家として", "desc": "山に挑む", "example_en": "The mountaineer reached the summit.", "example_ja": "その登山家は頂上に到達した。" },
+      { "title": "② 装備・技術", "desc": "本格登山", "example_en": "Mountaineers use ropes and ice axes.", "example_ja": "登山家はロープやピッケルを使う。" }
+    ],
+    "warn": ["hiker(ハイカー)より本格的・技術的な登山者。行為は mountaineering"],
+    "etym_note": "mountain（山、ラテン語 mons 由来）に、「〜する人」の -eer が付いた語。",
+    "etym_chain": [
+      { "node": "mons", "sub": "山", "era": "ラテン語" },
+      { "node": "mountain", "sub": "山", "era": "中英語" },
+      { "node": "mountaineer", "sub": "登山家", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an experienced mountaineer", "ja": "熟練の登山家" },
+      { "en": "a team of mountaineers", "ja": "登山家のチーム" },
+      { "en": "a famous mountaineer", "ja": "有名な登山家" },
+      { "en": "mountaineers on Everest", "ja": "エベレストの登山家" },
+      { "en": "become a mountaineer", "ja": "登山家になる" },
+      { "en": "a solo mountaineer", "ja": "単独登山家" }
+    ],
+    "related": [
+      { "en": "mountain", "ja": "山" },
+      { "en": "climber", "ja": "登る人・クライマー" },
+      { "en": "hiker", "ja": "ハイカー" },
+      { "en": "summit", "ja": "頂上" }
+    ],
+    "faq": [
+      { "q": "mountaineer と hiker の違いは？", "a": "hiker は山道を歩く人、mountaineer はロープやピッケルなど技術を使って険しい山に登る本格的な登山家です。" },
+      { "q": "登山という行為は？", "a": "mountaineering（登山・山岳登はん）と言います。" }
+    ],
+    "quiz": [
+      { "q": "mountaineer の意味は？", "A": "登山家・山に登る人", "B": "漁師", "C": "農家", "D": "パイロット", "correct": "A" },
+      { "q": "mountaineer が使う道具は？", "A": "ロープやピッケル", "B": "釣りざお", "C": "包丁", "D": "望遠鏡だけ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "narrowminded",
+    "pron": "ˌnæroʊˈmaɪndɪd",
+    "kana": "ナローマインデッド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "narrow(狭い)+minded(心の)",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "性格"],
+    "meaning_main": "心の狭い／偏狭な／視野の狭い（標準表記は narrow-minded）",
+    "description": "narrowminded は「心が狭い・偏狭で他の考えを受け入れない」という意味の形容詞。標準的にはハイフンを入れて narrow-minded と綴ります。open-minded（心の広い）の反対です。",
+    "keywords": ["narrow-minded 意味", "narrowminded 使い方", "narrowminded 発音", "偏狭 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】心の狭い・偏狭な", "note": "他の考え方を受け入れない。標準表記は narrow-minded。open-minded の反対" }
+    ],
+    "usages": [
+      { "title": "① 考え方が狭い", "desc": "偏狭", "example_en": "Don't be so narrow-minded.", "example_ja": "そんなに心が狭くならないで。" },
+      { "title": "② 受け入れない", "desc": "頑固に", "example_en": "His narrow-minded views annoyed everyone.", "example_ja": "彼の偏狭な考えはみなをいらだたせた。" }
+    ],
+    "warn": ["標準はハイフン付き narrow-minded。open-minded(心が広い)の反対"],
+    "etym_note": "narrow（狭い）と mind（心）に -ed が付いた minded を結んだ複合語。「心が狭い」の意。",
+    "etym_chain": [
+      { "node": "narrow + minded", "sub": "心が狭い", "era": "近代英語" },
+      { "node": "narrow-minded", "sub": "偏狭な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a narrow-minded person", "ja": "心の狭い人" },
+      { "en": "narrow-minded views", "ja": "偏狭な考え" },
+      { "en": "so narrow-minded", "ja": "とても心が狭い" },
+      { "en": "narrow-minded attitude", "ja": "偏狭な態度" },
+      { "en": "become narrow-minded", "ja": "視野が狭くなる" },
+      { "en": "a narrow-minded rule", "ja": "融通のきかない規則" }
+    ],
+    "related": [
+      { "en": "open-minded", "ja": "心の広い" },
+      { "en": "intolerant", "ja": "不寛容な" },
+      { "en": "biased", "ja": "偏った" },
+      { "en": "broad-minded", "ja": "度量の大きい" }
+    ],
+    "faq": [
+      { "q": "narrowminded の標準的な綴りは？", "a": "narrow-minded とハイフンを入れて書くのが標準です。" },
+      { "q": "反対語は？", "a": "open-minded（心の広い）や broad-minded（度量の大きい）です。" }
+    ],
+    "quiz": [
+      { "q": "narrow-minded の意味は？", "A": "心の狭い・偏狭な", "B": "心の広い", "C": "とても賢い", "D": "背の高い", "correct": "A" },
+      { "q": "narrow-minded の対義語は？", "A": "open-minded(心の広い)", "B": "narrow(狭い)", "C": "absent-minded(うっかりした)", "D": "single-minded(一途な)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "nastily",
+    "pron": "ˈnæstɪli",
+    "kana": "ナスティリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "nasty(意地悪な・不快な)+ly",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "副詞"],
+    "meaning_main": "意地悪く／不快に／ひどく（悪い方向に）",
+    "description": "nastily（ナスティリー）は「意地悪く・不快に」という意味の副詞。人に対する意地の悪い態度や、物事が嫌な・ひどいありさまであることを表します。nasty（意地悪な・不快な）に-lyが付いた形です。",
+    "keywords": ["nastily 意味", "nastily 使い方", "nastily 発音", "nasty 副詞"],
+    "meanings": [
+      { "hinshi": "【副詞】意地悪く・不快に", "note": "人に意地悪な態度で、また物事が嫌な・ひどいありさまで" }
+    ],
+    "usages": [
+      { "title": "① 意地悪な態度", "desc": "人に対して", "example_en": "She spoke nastily to the waiter.", "example_ja": "彼女はウェイターに意地悪な口をきいた。" },
+      { "title": "② ひどい様子", "desc": "悪い方向に", "example_en": "He fell and cut his knee nastily.", "example_ja": "彼は転んでひどく膝を切った。" }
+    ],
+    "warn": ["nasty(意地悪な・不快な)の副詞。nicely(親切に)の対"],
+    "etym_note": "由来ははっきりしないが中英語期からの nasty（不潔な・不快な）に、-ly が付いた語。",
+    "etym_chain": [
+      { "node": "nasty", "sub": "不潔な・不快な", "era": "中英語" },
+      { "node": "nasty", "sub": "意地悪な・不快な", "era": "近代英語" },
+      { "node": "nastily", "sub": "意地悪く", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "speak nastily", "ja": "意地悪く話す" },
+      { "en": "grin nastily", "ja": "いやらしくにやりと笑う" },
+      { "en": "nastily cold", "ja": "不快なほど寒い" },
+      { "en": "behave nastily", "ja": "意地悪に振る舞う" },
+      { "en": "cut nastily", "ja": "ひどく切る" },
+      { "en": "react nastily", "ja": "険悪に反応する" }
+    ],
+    "related": [
+      { "en": "nasty", "ja": "意地悪な・不快な" },
+      { "en": "meanly", "ja": "意地悪く" },
+      { "en": "cruelly", "ja": "残酷に" },
+      { "en": "nicely", "ja": "親切に・上手に" }
+    ],
+    "faq": [
+      { "q": "nastily の反対に近いのは？", "a": "nicely（親切に・感じよく）や kindly（優しく）です。" },
+      { "q": "元の形容詞は？", "a": "nasty（意地悪な・不快な・ひどい）です。" }
+    ],
+    "quiz": [
+      { "q": "nastily の意味は？", "A": "意地悪く・不快に", "B": "親切に", "C": "静かに", "D": "正確に", "correct": "A" },
+      { "q": "nastily の元の形容詞は？", "A": "nasty(意地悪な)", "B": "nervous(緊張した)", "C": "narrow(狭い)", "D": "natural(自然な)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "nominated",
+    "pron": "ˈnɑːmɪneɪtɪd",
+    "kana": "ノミネイティド",
+    "hinshi": "動詞 / 形容詞",
+    "ld_pos": "動詞",
+    "ld_etym": "nominate(指名する)+ed",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "基本語"],
+    "meaning_main": "指名された／候補に挙げられた（nominate の過去・過去分詞）",
+    "description": "nominated（ノミネイティド）は nominate（指名する・候補に挙げる）の過去形・過去分詞。賞や役職の候補として選ばれることを表します。be nominated for ~（〜の候補になる）の形でよく使います。",
+    "keywords": ["nominated 意味", "nominated for", "nominated 発音", "nominate 過去形"],
+    "meanings": [
+      { "hinshi": "【動詞】指名した・候補に挙げた", "note": "nominate の過去形・過去分詞。be nominated for ~（〜にノミネートされる）" }
+    ],
+    "usages": [
+      { "title": "① 賞の候補", "desc": "ノミネート", "example_en": "The film was nominated for an award.", "example_ja": "その映画は賞にノミネートされた。" },
+      { "title": "② 役職に指名", "desc": "候補にする", "example_en": "She was nominated as chairperson.", "example_ja": "彼女は議長に指名された。" }
+    ],
+    "warn": ["be nominated for ~＝〜の候補になる。名詞は nomination"],
+    "etym_note": "ラテン語 nominare（名づける、nomen「名前」より）由来の nominate に -ed が付いた形。",
+    "etym_chain": [
+      { "node": "nominare", "sub": "名づける", "era": "ラテン語" },
+      { "node": "nominate", "sub": "指名する", "era": "近代英語" },
+      { "node": "nominated", "sub": "指名された", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "nominated for an award", "ja": "賞にノミネートされた" },
+      { "en": "nominated as", "ja": "〜として指名された" },
+      { "en": "Oscar-nominated", "ja": "アカデミー賞候補の" },
+      { "en": "nominated candidate", "ja": "指名された候補者" },
+      { "en": "twice nominated", "ja": "2度ノミネートされた" },
+      { "en": "nominated for president", "ja": "大統領候補に指名された" }
+    ],
+    "related": [
+      { "en": "nominate", "ja": "指名する" },
+      { "en": "nomination", "ja": "指名・ノミネート" },
+      { "en": "nominee", "ja": "候補者" },
+      { "en": "candidate", "ja": "候補者" }
+    ],
+    "faq": [
+      { "q": "be nominated for ~ とは？", "a": "「〜(賞・役職)の候補に挙げられる・ノミネートされる」という意味です。" },
+      { "q": "名詞形は？", "a": "nomination（指名・ノミネート）です。候補者は nominee と言います。" }
+    ],
+    "quiz": [
+      { "q": "nominated の意味は？", "A": "指名された・候補に挙げられた", "B": "落選した", "C": "辞退した", "D": "解雇された", "correct": "A" },
+      { "q": "nominated の名詞形は？", "A": "nomination(指名)", "B": "nutrition(栄養)", "C": "notification(通知)", "D": "navigation(航行)", "correct": "A" }
+    ]
+  }
+]
