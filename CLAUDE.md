@@ -26,11 +26,12 @@
 - 不足リスト（`data/_missing_words.tsv`）はローカルで作られた確定版なので、
   **これを信頼して上から作ればよい**
 
-### スラングページは対象外
+### スラング・トレンド語は対象外
 
-`slang-*.html` は別テンプレート（安全度メーター、会話形式、フォーマル度別の
-言い換えなど）で、別途管理されています。`generate.py` では生成できません。
-不足リストからも除外済みです。もし `slang-` で始まる語が現れたら飛ばしてください。
+`slang-*.html` と `trend-*.html` は別テンプレート（安全度メーター、会話形式、
+フォーマル度別の言い換えなど）で、別途管理されています。
+`generate.py` では生成できません。不足リストからも除外済みです。
+もし `slang-` `trend-` で始まる語が現れたら飛ばしてください。
 
 ---
 
@@ -96,10 +97,10 @@ Git 側では実在判定ができないため、生成時の自動チェック�
 
 ```
 word	links	searches	score
-capital	11	0	11
-flower	11	0	11
-language	11	0	11
-city	10	0	10
+border	17	0	17
+plateau	15	0	15
+sentimental	14	0	14
+comprehensive	13	0	13
 ```
 
 | 列 | 意味 |
@@ -109,12 +110,16 @@ city	10	0	10
 | `searches` | サイト内検索で入力されたが結果が無かった回数（`logmiss.php` の記録） |
 | `score` | `links + searches × 5` の優先度。**この降順で並んでいる** |
 
-### 現在の状況（2026年8月）
+### リストの3つの供給源
 
-- **966語**（ローカル実ファイルと突合済みの確定版。スラング除外済み）
-- 本番の総ページ数は約21,600
+不足語は3つのルートで集まります。どれもローカルで実在チェック済みの状態で
+`data/_missing_words.tsv` に統合されます。
 
-上から順に作れば、切れている内部リンクが効率よく塞がります。
+1. **サイト内リンク漏れ** — `related` から張られたが実体が無いページ（`links` 列）
+2. **サイト内検索ログ** — `logmiss.php` が記録した、検索されたが結果が0件だった語（`searches` 列）
+3. **Search Console の 404 レポート** — Google が実際にクロールして404になったURL。
+   外部リンクや過去に存在したページも拾えるので、1 では取れない語が見つかる。
+   統合時は `links=1` として扱う（クロールされた＝どこかからリンクされている証拠）
 
 ### 単語ではないがその意味を調べて追加してほしい語
 
@@ -130,6 +135,10 @@ city	10	0	10
 できる限りユーザーに分かりやすいように、それが何なのかの説明を入れてください。
 関連などが分からないものは飛ばしてOKです。
 
+接尾辞・接頭辞（`-ful`, `-ist`, `-osis`, `-th` など）も含まれます。
+これらは語そのものではなく造語成分なので、
+「どんな語を作るか」「例：careful, hopeful」という切り口で説明してください。
+
 ---
 
 ## 不足リストの棚卸し（ローカルで実行）
@@ -138,20 +147,48 @@ city	10	0	10
 月に一度など定期的に、**ローカルの PowerShell** でリストを作り直し、
 `data/_missing_words.tsv` に上書きコミットしてください。
 
-**ステップ1: リンク漏れを抽出**
+**ステップ1: サイト内リンク漏れを抽出**
 
 ```powershell
-$root='C:\xampp\htdocs\word\word'; $e=[Collections.Generic.HashSet[string]]::new([StringComparer]::OrdinalIgnoreCase); foreach($f in [IO.Directory]::GetFiles($root,'*.html')){[void]$e.Add([IO.Path]::GetFileNameWithoutExtension($f))}; $rx=[regex]::new('href="/word/word/([^"]+)\.html"','Compiled'); $d=@{}; foreach($f in [IO.Directory]::GetFiles($root,'*.html')){foreach($m in $rx.Matches([IO.File]::ReadAllText($f,[Text.Encoding]::UTF8))){$s=[uri]::UnescapeDataString($m.Groups[1].Value); if($s -match '\s'){continue}; $l=$s.ToLower(); if($l -like 'slang-*'){continue}; if(-not $e.Contains($l)){$d[$l]=[int]$d[$l]+1}}}; $out=[Environment]::GetFolderPath('Desktop')+'\_missing_links.tsv'; "word`tlinks"|Set-Content -Encoding UTF8 $out; $d.GetEnumerator()|Sort @{e={$_.Value};Descending=$true},@{e={$_.Key}}|%{"{0}`t{1}" -f $_.Key,$_.Value}|Add-Content -Encoding UTF8 $out; "実在 $($e.Count) / 不足 $($d.Count) 語 -> $out"
+$root='C:\xampp\htdocs\word\word'; $e=[Collections.Generic.HashSet[string]]::new([StringComparer]::OrdinalIgnoreCase); foreach($f in [IO.Directory]::GetFiles($root,'*.html')){[void]$e.Add([IO.Path]::GetFileNameWithoutExtension($f))}; $rx=[regex]::new('href="/word/word/([^"]+)\.html"','Compiled'); $d=@{}; foreach($f in [IO.Directory]::GetFiles($root,'*.html')){foreach($m in $rx.Matches([IO.File]::ReadAllText($f,[Text.Encoding]::UTF8))){$s=[uri]::UnescapeDataString($m.Groups[1].Value); if($s -match '\s'){continue}; $l=$s.ToLower(); if($l -like 'slang-*' -or $l -like 'trend-*'){continue}; if(-not $e.Contains($l)){$d[$l]=[int]$d[$l]+1}}}; $out=[Environment]::GetFolderPath('Desktop')+'\_missing_links.tsv'; "word`tlinks"|Set-Content -Encoding UTF8 $out; $d.GetEnumerator()|Sort @{e={$_.Value};Descending=$true},@{e={$_.Key}}|%{"{0}`t{1}" -f $_.Key,$_.Value}|Add-Content -Encoding UTF8 $out; "実在 $($e.Count) / 不足 $($d.Count) 語 -> $out"
 ```
 
-**ステップ2: 既存の TSV を実ファイルで検証（Git 側で作ったリストを持ち込んだ場合は必須）**
+**ステップ2: Search Console の404レポートを取り込む**
+
+GSC の「見つかりませんでした（404）」からエクスポートした CSV をデスクトップに置き、
+`/word/word/*.html` の単語だけを `_gsc_words.txt` に抜き出してから、
+既存TSVと統合して実在チェックをかけます。
 
 ```powershell
-$src=[Environment]::GetFolderPath('Desktop')+'\_missing_words.tsv'; $out=[Environment]::GetFolderPath('Desktop')+'\_missing_words_clean.tsv'; $e=[Collections.Generic.HashSet[string]]::new([StringComparer]::OrdinalIgnoreCase); foreach($f in [IO.Directory]::GetFiles('C:\xampp\htdocs\word\word','*.html')){[void]$e.Add([IO.Path]::GetFileNameWithoutExtension($f))}; $l=Get-Content $src -Encoding UTF8; $k=$l[1..($l.Count-1)]|?{$_ -and -not $e.Contains(($_ -split "`t")[0]) -and ($_ -split "`t")[0] -notlike 'slang-*'}; $l[0]|Set-Content -Encoding UTF8 $out; $k|Add-Content -Encoding UTF8 $out; "実在 $($e.Count) / 入力 $($l.Count-1) 語 → 本当に不足 $($k.Count) 語 -> $out"
+$dsk=[Environment]::GetFolderPath('Desktop'); $gsc="$dsk\_gsc_words.txt"; $cur="$dsk\_missing_words.tsv"; $out="$dsk\_missing_words_new.tsv"; $e=[Collections.Generic.HashSet[string]]::new([StringComparer]::OrdinalIgnoreCase); foreach($f in [IO.Directory]::GetFiles('C:\xampp\htdocs\word\word','*.html')){[void]$e.Add([IO.Path]::GetFileNameWithoutExtension($f))}; $d=@{}; if(Test-Path $cur){Get-Content $cur -Encoding UTF8|Select -Skip 1|?{$_}|%{$a=$_ -split "`t"; $d[$a[0].Trim().ToLower()]=[int]$a[1]}}; $add=0; Get-Content $gsc -Encoding UTF8|?{$_}|%{$w=$_.Trim().ToLower(); if(-not $d.ContainsKey($w)){$d[$w]=1; $script:add++}}; $k=$d.GetEnumerator()|?{$_.Key -and $_.Key -notlike 'slang-*' -and $_.Key -notlike 'trend-*' -and $_.Key -notmatch '\s' -and -not $e.Contains($_.Key)}|Sort-Object @{e={$_.Value};Descending=$true},@{e={$_.Key}}; "word`tlinks`tsearches`tscore"|Set-Content -Encoding UTF8 $out; $k|%{"{0}`t{1}`t0`t{1}" -f $_.Key,$_.Value}|Add-Content -Encoding UTF8 $out; "既存 $($d.Count-$add) + GSC新規 $add 語 → 実在チェック後 $($k.Count) 語 -> $out"
 ```
 
-検索ログ（`missing_words.log`）も合わせる場合は、`word` をキーに
-`links` と `searches` を突き合わせ、`score = links + searches × 5` で並べ直します。
+**ステップ3: 任意のTSVを実ファイルで再検証**
+
+Git 側で作ったリストを持ち込んだ場合など、実在チェックだけをやり直したいとき。
+
+```powershell
+$src=[Environment]::GetFolderPath('Desktop')+'\_missing_words.tsv'; $out=[Environment]::GetFolderPath('Desktop')+'\_missing_words_clean.tsv'; $e=[Collections.Generic.HashSet[string]]::new([StringComparer]::OrdinalIgnoreCase); foreach($f in [IO.Directory]::GetFiles('C:\xampp\htdocs\word\word','*.html')){[void]$e.Add([IO.Path]::GetFileNameWithoutExtension($f))}; $l=Get-Content $src -Encoding UTF8; $k=$l[1..($l.Count-1)]|?{$_ -and -not $e.Contains(($_ -split "`t")[0]) -and ($_ -split "`t")[0] -notlike 'slang-*' -and ($_ -split "`t")[0] -notlike 'trend-*'}; $l[0]|Set-Content -Encoding UTF8 $out; $k|Add-Content -Encoding UTF8 $out; "実在 $($e.Count) / 入力 $($l.Count-1) 語 → 本当に不足 $($k.Count) 語 -> $out"
+```
+
+---
+
+## GSC の404レポートで見るべき他の項目
+
+単語ページ以外にも 404 が出ています。棚卸しのついでに確認してください。
+
+**発音記号URL（`/ˈkʌmpəs/` など）** — JSON-LD 修正前のページがまだ本番に残っていると
+発生し続けます。既に Google がクロール済みのURLはしばらく報告され続けるので、
+判断材料は「**新しい発音記号URLが増えているか**」です。増えていなければ収束中。
+
+**`/upload/*.m3u8`** — HLS プレイリスト。クロールさせる必要が無いので robots.txt で除外。
+
+```
+Disallow: /upload/*.m3u8$
+Disallow: /upload/*.ts$
+```
+
+**`slang-*` / `trend-*`** — 別管理なので、そちらの生成フローに回してください。
 
 ---
 
@@ -222,7 +259,7 @@ etym_chain 2〜3段（最後が現代英語）。
   - Claude Code のセッションで作業ブランチが指定されている場合はそちらへコミットし、
     あとで GitHub 上で PR をマージしてください
 - 1バッチごとに、生成した `/word/word/*.html` と追加した `data/*.json` をまとめて1コミットにする
-- コミットメッセージ例: `Add missing-batch5 (20 words: capital...city)`
+- コミットメッセージ例: `Add missing-batch5 (20 words: border...tight)`
 
 ## デプロイ（手動・バッチ単位）
 
@@ -246,7 +283,7 @@ Search Console のインデックス率を確認しながら進めてくださ�
 
 ## 今後の予定
 
-- 不足リスト966語の消化
+- 不足リストの消化（サイト内リンク漏れ ＋ GSC 404 由来）
 - 旧HTML（Homepage Builder 製、`name="GENERATOR"` を含む）2,381語の作り直し。
   中身をJSで描画する作りのため検索エンジンから本文が見えていない。
   ただし `babycarriage` `bro._Bro.` のような整理対象も含まれるため要精査
