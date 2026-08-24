@@ -1,0 +1,991 @@
+[
+  {
+    "english": "doomed",
+    "pron": "duːmd",
+    "kana": "ドゥームド",
+    "hinshi": "形容詞 / 動詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "doom(運命づける)+ed",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "感情"],
+    "meaning_main": "運命づけられた／(失敗・破滅が)避けられない",
+    "description": "doomed（ドゥームド）は「（悪い結末が）運命づけられた・避けられない」という意味の形容詞。失敗・破滅・死などが確実に待ち受けている様子を表します。be doomed to ~（〜する運命にある）の形で使います。",
+    "keywords": ["doomed 意味", "doomed 使い方", "doomed 発音", "doom 形容詞"],
+    "meanings": [
+      { "hinshi": "【形容詞】運命づけられた・破滅が避けられない", "note": "悪い結末が確実に待つこと。be doomed to ~" },
+      { "hinshi": "【動詞】運命づけた", "note": "doom の過去形・過去分詞" }
+    ],
+    "usages": [
+      { "title": "① 失敗が確実", "desc": "避けられない結末", "example_en": "The plan was doomed from the start.", "example_ja": "その計画は最初から失敗する運命だった。" },
+      { "title": "② be doomed to", "desc": "〜する運命に", "example_en": "They were doomed to fail.", "example_ja": "彼らは失敗する運命にあった。" }
+    ],
+    "warn": ["悪い結末に使う。be doomed to + 動詞の原形/名詞"],
+    "etym_note": "古英語 dōm（判決・運命）由来の doom（運命づける）に -ed が付いた形。",
+    "etym_chain": [
+      { "node": "dōm", "sub": "判決・運命", "era": "古英語" },
+      { "node": "doom", "sub": "運命づける", "era": "中英語" },
+      { "node": "doomed", "sub": "運命づけられた", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be doomed to fail", "ja": "失敗する運命にある" },
+      { "en": "doomed from the start", "ja": "最初から絶望的で" },
+      { "en": "a doomed relationship", "ja": "うまくいかない運命の関係" },
+      { "en": "doomed to repeat", "ja": "繰り返す運命の" },
+      { "en": "a doomed ship", "ja": "沈む運命の船" },
+      { "en": "feel doomed", "ja": "もうだめだと感じる" }
+    ],
+    "related": [
+      { "en": "doom", "ja": "運命・破滅" },
+      { "en": "fated", "ja": "運命づけられた" },
+      { "en": "hopeless", "ja": "望みのない" },
+      { "en": "condemned", "ja": "宿命づけられた" }
+    ],
+    "faq": [
+      { "q": "be doomed to の後は？", "a": "動詞の原形か名詞が来ます（be doomed to failure＝失敗する運命）。" },
+      { "q": "良い意味でも使う？", "a": "基本的に悪い結末（失敗・破滅・死）についてのみ使います。" }
+    ],
+    "quiz": [
+      { "q": "doomed の意味は？", "A": "破滅・失敗が避けられない", "B": "成功が約束された", "C": "始まったばかりの", "D": "とても幸運な", "correct": "A" },
+      { "q": "be doomed to fail の意味は？", "A": "失敗する運命にある", "B": "必ず成功する", "C": "挑戦しない", "D": "途中でやめる", "correct": "A" }
+    ]
+  },
+  {
+    "english": "doping",
+    "pron": "ˈdoʊpɪŋ",
+    "kana": "ドーピング",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "dope(薬物を与える)+ing",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "スポーツ/科学"],
+    "meaning_main": "ドーピング（禁止薬物の使用）／(半導体の)不純物添加",
+    "description": "doping（ドーピング）はスポーツで成績を上げるため禁止薬物を使う「ドーピング」を表す名詞。また物理・工学では、半導体に微量の不純物を加える「ドーピング（不純物添加）」も指します。",
+    "keywords": ["doping 意味", "doping 使い方", "doping 発音", "ドーピング 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】ドーピング(禁止薬物の使用)", "note": "競技力向上のため禁止薬物を使う不正行為" },
+      { "hinshi": "【名詞】(半導体の)不純物添加", "note": "半導体に微量の元素を加えて性質を変えること" }
+    ],
+    "usages": [
+      { "title": "① スポーツで", "desc": "不正行為", "example_en": "The athlete was banned for doping.", "example_ja": "その選手はドーピングで出場停止になった。" },
+      { "title": "② 半導体で", "desc": "工学の用語", "example_en": "Doping changes the conductivity of silicon.", "example_ja": "ドーピングはシリコンの導電性を変える。" }
+    ],
+    "warn": ["スポーツの不正と半導体の技術用語の両方。反ドーピングは anti-doping"],
+    "etym_note": "オランダ語 doop（ソース・混ぜ物）由来の dope（薬物を与える）に -ing が付いた語。",
+    "etym_chain": [
+      { "node": "doop", "sub": "混ぜ物", "era": "オランダ語" },
+      { "node": "dope", "sub": "薬物を与える", "era": "近代英語" },
+      { "node": "doping", "sub": "ドーピング", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a doping scandal", "ja": "ドーピング疑惑" },
+      { "en": "anti-doping rules", "ja": "反ドーピング規則" },
+      { "en": "banned for doping", "ja": "ドーピングで出場停止に" },
+      { "en": "a doping test", "ja": "ドーピング検査" },
+      { "en": "blood doping", "ja": "血液ドーピング" },
+      { "en": "doping of semiconductors", "ja": "半導体のドーピング" }
+    ],
+    "related": [
+      { "en": "drug", "ja": "薬物" },
+      { "en": "cheating", "ja": "不正行為" },
+      { "en": "athlete", "ja": "運動選手" },
+      { "en": "semiconductor", "ja": "半導体" }
+    ],
+    "faq": [
+      { "q": "スポーツの doping とは？", "a": "競技力を高めるために禁止薬物を使う不正行為です。検査で発覚すると処分されます。" },
+      { "q": "半導体の doping とは？", "a": "半導体に微量の不純物を加え、電気的性質を調整する工程です。" }
+    ],
+    "quiz": [
+      { "q": "スポーツでの doping とは？", "A": "禁止薬物の使用(不正)", "B": "準備運動", "C": "作戦会議", "D": "応援", "correct": "A" },
+      { "q": "反ドーピングを表す語は？", "A": "anti-doping", "B": "pro-doping", "C": "re-doping", "D": "un-doping", "correct": "A" }
+    ]
+  },
+  {
+    "english": "drapes",
+    "pron": "dreɪps",
+    "kana": "ドレイプス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "drape(垂らす)の複数形",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "住まい"],
+    "meaning_main": "厚手のカーテン／ドレープ（主に米）",
+    "description": "drapes（ドレイプス）は床まで届くような「厚手のカーテン」を表す名詞（主にアメリカ英語）。通常は複数形で使います。動詞 drape は「（布などを）ゆったり垂らす・掛ける」の意です。",
+    "keywords": ["drapes 意味", "drapes 使い方", "drapes 発音", "カーテン 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】厚手のカーテン・ドレープ", "note": "主に米。床まで届くような厚手のカーテン。通常は複数形" }
+    ],
+    "usages": [
+      { "title": "① 部屋の装飾", "desc": "窓を覆う", "example_en": "She closed the heavy drapes.", "example_ja": "彼女は厚手のカーテンを閉めた。" },
+      { "title": "② 光をさえぎる", "desc": "遮光", "example_en": "The drapes blocked out the sunlight.", "example_ja": "そのカーテンは日光をさえぎった。" }
+    ],
+    "warn": ["主に米国語。英国では curtains。ふつう複数形 drapes"],
+    "etym_note": "古フランス語 draper（布を織る・垂らす）由来の drape（垂らす）の複数形。",
+    "etym_chain": [
+      { "node": "draper", "sub": "布を織る", "era": "古フランス語" },
+      { "node": "drape", "sub": "垂らす・掛ける", "era": "近代英語" },
+      { "node": "drapes", "sub": "厚手のカーテン", "era": "現代英語(米)" }
+    ],
+    "phrases": [
+      { "en": "close the drapes", "ja": "カーテンを閉める" },
+      { "en": "open the drapes", "ja": "カーテンを開ける" },
+      { "en": "heavy drapes", "ja": "厚手のカーテン" },
+      { "en": "velvet drapes", "ja": "ベルベットのカーテン" },
+      { "en": "blackout drapes", "ja": "遮光カーテン" },
+      { "en": "draw the drapes", "ja": "カーテンを引く" }
+    ],
+    "related": [
+      { "en": "drape", "ja": "垂らす・掛ける" },
+      { "en": "curtain", "ja": "カーテン" },
+      { "en": "blind", "ja": "ブラインド" },
+      { "en": "window", "ja": "窓" }
+    ],
+    "faq": [
+      { "q": "drapes と curtains の違いは？", "a": "drapes は主に米国で床まで届く厚手のカーテン、curtains はより一般的な語です。" },
+      { "q": "単数でも使う？", "a": "通常は複数形 drapes で使います。" }
+    ],
+    "quiz": [
+      { "q": "drapes の意味は？", "A": "厚手のカーテン", "B": "じゅうたん", "C": "まくら", "D": "テーブル", "correct": "A" },
+      { "q": "drapes は主にどの国の語？", "A": "アメリカ", "B": "日本", "C": "フランス", "D": "中国", "correct": "A" }
+    ]
+  },
+  {
+    "english": "drooping",
+    "pron": "ˈdruːpɪŋ",
+    "kana": "ドゥルーピング",
+    "hinshi": "形容詞 / 動詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "droop(垂れ下がる)+ing",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "状態"],
+    "meaning_main": "垂れ下がった／しおれた／うなだれた",
+    "description": "drooping（ドゥルーピング）は「（力なく）垂れ下がった・しおれた」という意味の形容詞。花・肩・まぶたなどが力なく下がる様子を表します。droop（垂れる）の -ing 形です。",
+    "keywords": ["drooping 意味", "drooping 使い方", "drooping 発音", "droop 形容詞"],
+    "meanings": [
+      { "hinshi": "【形容詞】垂れ下がった・しおれた", "note": "力なく下がる様子。疲れ・元気のなさを表すことも" },
+      { "hinshi": "【動詞】垂れ下がっている", "note": "droop の現在分詞" }
+    ],
+    "usages": [
+      { "title": "① 植物・体の一部", "desc": "力なく下がる", "example_en": "The flowers were drooping in the heat.", "example_ja": "花は暑さでしおれていた。" },
+      { "title": "② 疲れ・眠気", "desc": "うなだれる", "example_en": "His eyelids were drooping.", "example_ja": "彼のまぶたは垂れ下がっていた。" }
+    ],
+    "warn": ["droop(垂れる)の-ing形。元気のなさ・疲れを表すことも"],
+    "etym_note": "古ノルド語 drúpa（うなだれる）由来の droop に -ing が付いた語。drop（落ちる）と同語根。",
+    "etym_chain": [
+      { "node": "drúpa", "sub": "うなだれる", "era": "古ノルド語" },
+      { "node": "droop", "sub": "垂れ下がる", "era": "中英語" },
+      { "node": "drooping", "sub": "垂れ下がった", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "drooping flowers", "ja": "しおれた花" },
+      { "en": "drooping shoulders", "ja": "うなだれた肩" },
+      { "en": "drooping eyelids", "ja": "垂れ下がったまぶた" },
+      { "en": "a drooping branch", "ja": "垂れ下がった枝" },
+      { "en": "drooping with fatigue", "ja": "疲れてうなだれて" },
+      { "en": "drooping leaves", "ja": "しおれた葉" }
+    ],
+    "related": [
+      { "en": "droop", "ja": "垂れ下がる" },
+      { "en": "sagging", "ja": "たるんだ" },
+      { "en": "wilting", "ja": "しおれる" },
+      { "en": "hanging", "ja": "垂れている" }
+    ],
+    "faq": [
+      { "q": "drooping の原形は？", "a": "droop（垂れ下がる・しおれる）です。" },
+      { "q": "wilting との違いは？", "a": "wilting は特に植物が水分を失ってしおれること、drooping は広く「力なく垂れる」ことを表します。" }
+    ],
+    "quiz": [
+      { "q": "drooping の意味は？", "A": "垂れ下がった・しおれた", "B": "ぴんと張った", "C": "上を向いた", "D": "回転した", "correct": "A" },
+      { "q": "drooping flowers の意味は？", "A": "しおれた花", "B": "満開の花", "C": "造花", "D": "香りの強い花", "correct": "A" }
+    ]
+  },
+  {
+    "english": "eden",
+    "pron": "ˈiːdən",
+    "kana": "イーデン",
+    "hinshi": "名詞（固有名詞）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ヘブライ語 ʿēden(喜び)から",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "宗教/比喩"],
+    "meaning_main": "エデン（の園）／楽園・理想郷",
+    "description": "eden（イーデン）は聖書で最初の人アダムとイブが暮らした「エデンの園（the Garden of Eden）」。転じて「楽園・理想郷」の比喩にも使われます。文中では大文字 Eden と書きます。",
+    "keywords": ["eden 意味", "Garden of Eden", "eden 発音", "エデンの園 英語"],
+    "meanings": [
+      { "hinshi": "【固有名詞】エデン(の園)", "note": "聖書でアダムとイブが暮らした楽園。文中では大文字 Eden" },
+      { "hinshi": "【名詞】楽園・理想郷", "note": "比喩的に、完璧で幸福な場所" }
+    ],
+    "usages": [
+      { "title": "① 聖書の楽園", "desc": "宗教の話題で", "example_en": "Adam and Eve lived in the Garden of Eden.", "example_ja": "アダムとイブはエデンの園に暮らした。" },
+      { "title": "② 比喩的に", "desc": "理想郷", "example_en": "The island felt like an Eden.", "example_ja": "その島はまるで楽園のようだった。" }
+    ],
+    "warn": ["文中では大文字 Eden。the Garden of Eden の形が定番"],
+    "etym_note": "ヘブライ語 ʿēden（喜び・楽しみ）に由来するとされる、聖書の楽園の名。",
+    "etym_chain": [
+      { "node": "ʿēden", "sub": "喜び", "era": "ヘブライ語" },
+      { "node": "Eden", "sub": "エデンの園", "era": "聖書" },
+      { "node": "Eden", "sub": "楽園・理想郷", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the Garden of Eden", "ja": "エデンの園" },
+      { "en": "a lost Eden", "ja": "失われた楽園" },
+      { "en": "like an Eden", "ja": "楽園のような" },
+      { "en": "expelled from Eden", "ja": "エデンから追放された" },
+      { "en": "a green Eden", "ja": "緑豊かな楽園" },
+      { "en": "return to Eden", "ja": "楽園へ帰る" }
+    ],
+    "related": [
+      { "en": "paradise", "ja": "楽園" },
+      { "en": "garden", "ja": "庭・園" },
+      { "en": "utopia", "ja": "理想郷" },
+      { "en": "heaven", "ja": "天国" }
+    ],
+    "faq": [
+      { "q": "the Garden of Eden とは？", "a": "聖書で最初の人アダムとイブが暮らしたとされる楽園です。" },
+      { "q": "比喩ではどう使う？", "a": "「楽園・理想郷」を表し、完璧で幸福な場所のたとえに使います。" }
+    ],
+    "quiz": [
+      { "q": "the Garden of Eden とは？", "A": "聖書の楽園", "B": "有名な博物館", "C": "大きな空港", "D": "スポーツ施設", "correct": "A" },
+      { "q": "Eden の比喩的な意味は？", "A": "楽園・理想郷", "B": "戦場", "C": "監獄", "D": "砂漠", "correct": "A" }
+    ]
+  },
+  {
+    "english": "egalitarianism",
+    "pron": "ɪˌɡælɪˈteəriənɪzəm",
+    "kana": "イガリタリアニズム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 égalité(平等)+-arianism",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "思想/政治"],
+    "meaning_main": "平等主義（すべての人が平等であるべきという考え)",
+    "description": "egalitarianism（イガリタリアニズム）は「すべての人は平等であり、平等に扱われるべきだ」という考え方「平等主義」を表す名詞。政治や社会の思想として、権利・機会の平等を重んじます。",
+    "keywords": ["egalitarianism 意味", "egalitarianism 使い方", "egalitarianism 発音", "平等主義 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】平等主義", "note": "すべての人が平等であり平等に扱われるべきという考え方" }
+    ],
+    "usages": [
+      { "title": "① 思想として", "desc": "平等を重んじる", "example_en": "The movement was based on egalitarianism.", "example_ja": "その運動は平等主義に基づいていた。" },
+      { "title": "② 社会の理念", "desc": "機会の平等", "example_en": "Egalitarianism calls for equal opportunity.", "example_ja": "平等主義は機会の平等を求める。" }
+    ],
+    "warn": ["形容詞・信奉者は egalitarian。elitism(エリート主義)と対比"],
+    "etym_note": "フランス語 égal（等しい、ラテン語 aequalis 由来）から。「平等」を重んじる主義を表す -arianism が付いた語。",
+    "etym_chain": [
+      { "node": "aequalis", "sub": "等しい", "era": "ラテン語" },
+      { "node": "égalité", "sub": "平等", "era": "フランス語" },
+      { "node": "egalitarianism", "sub": "平等主義", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "believe in egalitarianism", "ja": "平等主義を信じる" },
+      { "en": "social egalitarianism", "ja": "社会的平等主義" },
+      { "en": "the spirit of egalitarianism", "ja": "平等主義の精神" },
+      { "en": "economic egalitarianism", "ja": "経済的平等主義" },
+      { "en": "promote egalitarianism", "ja": "平等主義を推し進める" },
+      { "en": "an egalitarian society", "ja": "平等な社会" }
+    ],
+    "related": [
+      { "en": "equality", "ja": "平等" },
+      { "en": "egalitarian", "ja": "平等主義の(人)" },
+      { "en": "fairness", "ja": "公平さ" },
+      { "en": "elitism", "ja": "エリート主義" }
+    ],
+    "faq": [
+      { "q": "egalitarianism の中心の考えは？", "a": "すべての人は平等で、平等に扱われ、平等な権利・機会を持つべきだという考えです。" },
+      { "q": "形容詞形は？", "a": "egalitarian（平等主義の／平等主義者）です。" }
+    ],
+    "quiz": [
+      { "q": "egalitarianism の意味は？", "A": "平等主義", "B": "独裁主義", "C": "個人主義", "D": "神秘主義", "correct": "A" },
+      { "q": "egalitarianism が重んじるのは？", "A": "平等", "B": "身分の差", "C": "秘密", "D": "競争の排除だけ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "eggs",
+    "pron": "eɡz",
+    "kana": "エッグズ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "egg(卵)の複数形",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "基本語"],
+    "meaning_main": "卵（複数）／(生物の)卵",
+    "description": "eggs（エッグズ）は egg（卵）の複数形。鶏卵など食用の卵や、鳥・魚・昆虫などが産む卵を指します。料理や慣用表現でもよく使われる基本語です。",
+    "keywords": ["eggs 意味", "eggs 使い方", "eggs 発音", "egg 複数形"],
+    "meanings": [
+      { "hinshi": "【名詞】卵(複数)", "note": "egg の複数形。食用の卵や生物が産む卵" }
+    ],
+    "usages": [
+      { "title": "① 食べ物", "desc": "料理で", "example_en": "I bought a dozen eggs.", "example_ja": "卵を1ダース買った。" },
+      { "title": "② 生き物の卵", "desc": "産卵", "example_en": "The bird laid three eggs.", "example_ja": "その鳥は卵を3個産んだ。" }
+    ],
+    "warn": ["数えられる名詞。a dozen eggs＝卵1ダース。単数は egg"],
+    "etym_note": "古ノルド語 egg 由来。もとの古英語 ǣg に代わって広まった。複数形は -s。",
+    "etym_chain": [
+      { "node": "egg", "sub": "卵", "era": "古ノルド語" },
+      { "node": "egg", "sub": "卵", "era": "中英語" },
+      { "node": "eggs", "sub": "卵(複数)", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a dozen eggs", "ja": "卵1ダース" },
+      { "en": "fried eggs", "ja": "目玉焼き" },
+      { "en": "boiled eggs", "ja": "ゆで卵" },
+      { "en": "scrambled eggs", "ja": "スクランブルエッグ" },
+      { "en": "lay eggs", "ja": "卵を産む" },
+      { "en": "put all your eggs in one basket", "ja": "一つに全てを賭ける" }
+    ],
+    "related": [
+      { "en": "egg", "ja": "卵" },
+      { "en": "chicken", "ja": "鶏" },
+      { "en": "nest", "ja": "巣" },
+      { "en": "omelet", "ja": "オムレツ" }
+    ],
+    "faq": [
+      { "q": "eggs の単数形は？", "a": "egg（卵）です。" },
+      { "q": "put all your eggs in one basket とは？", "a": "「すべてを一つにかける（危険な集中）」という意味のことわざです。" }
+    ],
+    "quiz": [
+      { "q": "eggs の意味は？", "A": "卵(複数)", "B": "パン", "C": "牛乳", "D": "肉", "correct": "A" },
+      { "q": "boiled eggs の意味は？", "A": "ゆで卵", "B": "生卵", "C": "目玉焼き", "D": "卵焼き", "correct": "A" }
+    ]
+  },
+  {
+    "english": "eid",
+    "pron": "iːd",
+    "kana": "イード",
+    "hinshi": "名詞（固有名詞）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "アラビア語 ʿīd(祭り)から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "宗教/行事"],
+    "meaning_main": "イード（イスラム教の祝祭）",
+    "description": "eid（イード）はイスラム教の大きな祝祭を表す語。断食月ラマダンの終わりを祝う Eid al-Fitr（イード・アル・フィトル）などがあります。文中では大文字 Eid と書きます。",
+    "keywords": ["eid 意味", "Eid al-Fitr", "eid 発音", "イード イスラム"],
+    "meanings": [
+      { "hinshi": "【固有名詞】イード(イスラムの祝祭)", "note": "Eid al-Fitr(断食明けの祭)、Eid al-Adha(犠牲祭)など。文中では大文字" }
+    ],
+    "usages": [
+      { "title": "① 祝祭として", "desc": "宗教行事", "example_en": "Muslims celebrate Eid with family.", "example_ja": "イスラム教徒は家族とイードを祝う。" },
+      { "title": "② あいさつ", "desc": "祝いの言葉", "example_en": "People say \"Eid Mubarak\" to each other.", "example_ja": "人々は互いに「イード・ムバーラク」と言う。" }
+    ],
+    "warn": ["文中では大文字 Eid。Eid al-Fitr(断食明け)とEid al-Adha(犠牲祭)がある"],
+    "etym_note": "アラビア語 ʿīd（祭り・繰り返す祝日）に由来する。",
+    "etym_chain": [
+      { "node": "ʿīd", "sub": "祭り", "era": "アラビア語" },
+      { "node": "Eid", "sub": "イスラムの祝祭", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Eid al-Fitr", "ja": "断食明けの祭" },
+      { "en": "Eid al-Adha", "ja": "犠牲祭" },
+      { "en": "celebrate Eid", "ja": "イードを祝う" },
+      { "en": "Eid Mubarak", "ja": "イードおめでとう" },
+      { "en": "during Eid", "ja": "イードの間" },
+      { "en": "the Eid holiday", "ja": "イードの休日" }
+    ],
+    "related": [
+      { "en": "ramadan", "ja": "ラマダン" },
+      { "en": "islam", "ja": "イスラム教" },
+      { "en": "festival", "ja": "祝祭" },
+      { "en": "muslim", "ja": "イスラム教徒" }
+    ],
+    "faq": [
+      { "q": "Eid al-Fitr とは？", "a": "断食月ラマダンの終わりを祝うイスラム教の祝祭です。" },
+      { "q": "Eid Mubarak とは？", "a": "「イードおめでとう」という祝いのあいさつです。" }
+    ],
+    "quiz": [
+      { "q": "Eid とは？", "A": "イスラム教の祝祭", "B": "キリスト教の教会", "C": "国の名前", "D": "料理名", "correct": "A" },
+      { "q": "Eid al-Fitr は何を祝う？", "A": "ラマダン(断食)の終わり", "B": "新年", "C": "収穫", "D": "建国", "correct": "A" }
+    ]
+  },
+  {
+    "english": "eire",
+    "pron": "ˈeərə",
+    "kana": "エール",
+    "hinshi": "名詞（固有名詞）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "アイルランド語 Éire(アイルランド)",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "地名"],
+    "meaning_main": "エール（アイルランドのアイルランド語名）",
+    "description": "eire（エール）はアイルランド（Ireland）を指すアイルランド語の名称「Éire」。アイルランド共和国の正式名称に使われます。文中では大文字・アクセント付きで Éire と書くのが正式です。",
+    "keywords": ["eire 意味", "Eire Ireland", "eire 発音", "アイルランド 英語"],
+    "meanings": [
+      { "hinshi": "【固有名詞】エール(アイルランド)", "note": "アイルランドのアイルランド語名。正式には Éire。英語では Ireland" }
+    ],
+    "usages": [
+      { "title": "① 国名として", "desc": "アイルランド", "example_en": "Éire is the Irish name for Ireland.", "example_ja": "エールはアイルランドのアイルランド語名だ。" },
+      { "title": "② 公的な場で", "desc": "正式名称", "example_en": "The stamp said \"Éire.\"", "example_ja": "その切手には「Éire」と書かれていた。" }
+    ],
+    "warn": ["英語では Ireland。正式にはアクセント付き Éire。文中では大文字"],
+    "etym_note": "アイルランド語 Éire（女神エリウ Ériu に由来する島の名）から。英語 Ireland の元にもなった。",
+    "etym_chain": [
+      { "node": "Ériu", "sub": "女神・島の名", "era": "古アイルランド" },
+      { "node": "Éire", "sub": "アイルランド", "era": "アイルランド語" },
+      { "node": "Eire", "sub": "エール", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the name Éire", "ja": "エールという名" },
+      { "en": "Éire and Ireland", "ja": "エールとアイルランド" },
+      { "en": "made in Éire", "ja": "アイルランド製" },
+      { "en": "the Republic of Ireland", "ja": "アイルランド共和国" },
+      { "en": "travel to Ireland", "ja": "アイルランドへ旅する" },
+      { "en": "the people of Éire", "ja": "アイルランドの人々" }
+    ],
+    "related": [
+      { "en": "ireland", "ja": "アイルランド" },
+      { "en": "irish", "ja": "アイルランドの・アイルランド人" },
+      { "en": "country", "ja": "国" },
+      { "en": "dublin", "ja": "ダブリン" }
+    ],
+    "faq": [
+      { "q": "Eire と Ireland の違いは？", "a": "同じ国です。Éire はアイルランド語の名、Ireland は英語の名です。" },
+      { "q": "首都は？", "a": "ダブリン（Dublin）です。" }
+    ],
+    "quiz": [
+      { "q": "Éire(Eire) とは？", "A": "アイルランドのアイルランド語名", "B": "スコットランドの都市", "C": "北欧の島", "D": "アフリカの国", "correct": "A" },
+      { "q": "Eire の英語名は？", "A": "Ireland", "B": "Iceland", "C": "England", "D": "Poland", "correct": "A" }
+    ]
+  },
+  {
+    "english": "electrolysis",
+    "pron": "ɪˌlekˈtrɑːləsɪs",
+    "kana": "エレクトロリシス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "electro-(電気)+lysis(分解)",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "化学"],
+    "meaning_main": "電気分解／(電気による)脱毛",
+    "description": "electrolysis（エレクトロリシス）は電流を流して物質を分解する「電気分解」を表す名詞。水を水素と酸素に分けるなどに使われます。また電気で毛根を処理する「電気脱毛」の意味もあります。",
+    "keywords": ["electrolysis 意味", "electrolysis 使い方", "electrolysis 発音", "電気分解 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】電気分解", "note": "電流を流して化合物を成分に分解すること" },
+      { "hinshi": "【名詞】電気脱毛", "note": "電流で毛根を処理して脱毛する方法" }
+    ],
+    "usages": [
+      { "title": "① 化学で", "desc": "物質の分解", "example_en": "Water can be split by electrolysis.", "example_ja": "水は電気分解で分けられる。" },
+      { "title": "② 美容で", "desc": "脱毛", "example_en": "She had electrolysis to remove hair.", "example_ja": "彼女は脱毛のため電気脱毛を受けた。" }
+    ],
+    "warn": ["electro-(電気)+lysis(分解)。-lysis は「分解」を表す語尾"],
+    "etym_note": "ギリシャ語由来の electro-（電気）と lysis（分解・ゆるめること）を結んだ語。",
+    "etym_chain": [
+      { "node": "lysis", "sub": "分解・ゆるめること", "era": "ギリシャ語" },
+      { "node": "electrolysis", "sub": "電気分解", "era": "19世紀" },
+      { "node": "electrolysis", "sub": "電気分解", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "electrolysis of water", "ja": "水の電気分解" },
+      { "en": "by electrolysis", "ja": "電気分解によって" },
+      { "en": "hydrogen from electrolysis", "ja": "電気分解による水素" },
+      { "en": "undergo electrolysis", "ja": "電気分解される" },
+      { "en": "electrolysis hair removal", "ja": "電気脱毛" },
+      { "en": "industrial electrolysis", "ja": "工業的電気分解" }
+    ],
+    "related": [
+      { "en": "electric", "ja": "電気の" },
+      { "en": "electrolyte", "ja": "電解質" },
+      { "en": "chemistry", "ja": "化学" },
+      { "en": "current", "ja": "電流" }
+    ],
+    "faq": [
+      { "q": "electrolysis の代表例は？", "a": "水を電流で水素と酸素に分ける「水の電気分解」が代表例です。" },
+      { "q": "美容の electrolysis とは？", "a": "電流で毛根を処理して行う脱毛法のことです。" }
+    ],
+    "quiz": [
+      { "q": "electrolysis(化学)の意味は？", "A": "電流で物質を分解すること", "B": "光で温めること", "C": "水を凍らせること", "D": "音を出すこと", "correct": "A" },
+      { "q": "electrolysis で水を分けると得られるのは？", "A": "水素と酸素", "B": "塩と砂糖", "C": "鉄と銅", "D": "油と水", "correct": "A" }
+    ]
+  },
+  {
+    "english": "emerged",
+    "pron": "ɪˈmɜːrdʒd",
+    "kana": "イマージド",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "emerge(現れる)+d",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "基本語"],
+    "meaning_main": "現れた／出てきた／明らかになった（emerge の過去・過去分詞）",
+    "description": "emerged（イマージド）は emerge（現れる・出てくる）の過去形・過去分詞。隠れていたものが姿を現す、事実が明らかになる、困難から抜け出す、などの意味で使います。",
+    "keywords": ["emerged 意味", "emerged 使い方", "emerged 発音", "emerge 過去形"],
+    "meanings": [
+      { "hinshi": "【動詞】現れた・出てきた", "note": "隠れていたものが姿を現す。emerge の過去形・過去分詞" },
+      { "hinshi": "【動詞】(事実が)明らかになった", "note": "It emerged that ~ で「〜が判明した」" }
+    ],
+    "usages": [
+      { "title": "① 姿を現す", "desc": "出てくる", "example_en": "The sun emerged from behind the clouds.", "example_ja": "太陽が雲の後ろから現れた。" },
+      { "title": "② 事実が判明", "desc": "明らかになる", "example_en": "It emerged that he had lied.", "example_ja": "彼がうそをついていたことが判明した。" }
+    ],
+    "warn": ["emerge from ~（〜から現れる）。It emerged that ~（〜が判明した）"],
+    "etym_note": "ラテン語 emergere（浮かび上がる、e-「外へ」+ mergere「沈める」）由来の emerge に -d が付いた形。",
+    "etym_chain": [
+      { "node": "emergere", "sub": "浮かび上がる", "era": "ラテン語" },
+      { "node": "emerge", "sub": "現れる", "era": "近代英語" },
+      { "node": "emerged", "sub": "現れた", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "emerged from", "ja": "〜から現れた" },
+      { "en": "it emerged that", "ja": "〜が判明した" },
+      { "en": "emerged victorious", "ja": "勝利して現れた" },
+      { "en": "newly emerged", "ja": "新たに現れた" },
+      { "en": "emerged as a leader", "ja": "指導者として台頭した" },
+      { "en": "emerged unharmed", "ja": "無傷で出てきた" }
+    ],
+    "related": [
+      { "en": "emerge", "ja": "現れる" },
+      { "en": "appear", "ja": "現れる" },
+      { "en": "arise", "ja": "生じる" },
+      { "en": "disappear", "ja": "消える" }
+    ],
+    "faq": [
+      { "q": "emerged の原形は？", "a": "emerge（現れる・出てくる）です。" },
+      { "q": "It emerged that ~ とは？", "a": "「〜ということが明らかになった・判明した」という意味です。" }
+    ],
+    "quiz": [
+      { "q": "emerged の意味は？", "A": "現れた・出てきた", "B": "消えた", "C": "沈んだ", "D": "眠った", "correct": "A" },
+      { "q": "emerged の原形は？", "A": "emerge(現れる)", "B": "emergency(緊急)", "C": "merge(合併する)のみ", "D": "emerald(エメラルド)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "encampment",
+    "pron": "ɪnˈkæmpmənt",
+    "kana": "エンキャンプメント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "encamp(野営する)+ment",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "場所"],
+    "meaning_main": "野営地／宿営地（テントなどの一時的な集まり）",
+    "description": "encampment（エンキャンプメント）は「（軍やグループが張る）野営地・宿営地」を表す名詞。テントなどで作られた一時的な滞在場所を指します。抗議活動などのテント村にも使われます。",
+    "keywords": ["encampment 意味", "encampment 使い方", "encampment 発音", "野営地 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】野営地・宿営地", "note": "テントなどで作られた一時的な滞在場所" }
+    ],
+    "usages": [
+      { "title": "① 軍の宿営", "desc": "テントの集まり", "example_en": "The soldiers set up an encampment.", "example_ja": "兵士たちは野営地を設けた。" },
+      { "title": "② 抗議・避難のテント村", "desc": "一時的な集落", "example_en": "A protest encampment appeared in the square.", "example_ja": "広場に抗議のテント村が現れた。" }
+    ],
+    "warn": ["camp(キャンプ)より、まとまった宿営『地』を指す。動詞は encamp"],
+    "etym_note": "camp（陣営、ラテン語 campus「野原」由来）に en-（〜にする）と -ment が付いた語。",
+    "etym_chain": [
+      { "node": "campus", "sub": "野原", "era": "ラテン語" },
+      { "node": "encamp", "sub": "野営する", "era": "近代英語" },
+      { "node": "encampment", "sub": "野営地", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a military encampment", "ja": "軍の宿営地" },
+      { "en": "set up an encampment", "ja": "野営地を設ける" },
+      { "en": "a temporary encampment", "ja": "一時的な野営地" },
+      { "en": "a protest encampment", "ja": "抗議のテント村" },
+      { "en": "break camp", "ja": "野営をたたむ" },
+      { "en": "a refugee encampment", "ja": "難民の宿営地" }
+    ],
+    "related": [
+      { "en": "camp", "ja": "キャンプ・陣営" },
+      { "en": "tent", "ja": "テント" },
+      { "en": "base", "ja": "基地" },
+      { "en": "settlement", "ja": "集落・入植地" }
+    ],
+    "faq": [
+      { "q": "encampment と camp の違いは？", "a": "camp は活動や場所を広く指し、encampment は「テントなどで作った宿営地そのもの」を指します。" },
+      { "q": "動詞形は？", "a": "encamp（野営する）です。" }
+    ],
+    "quiz": [
+      { "q": "encampment の意味は？", "A": "野営地・宿営地", "B": "高層ビル", "C": "地下鉄", "D": "図書館", "correct": "A" },
+      { "q": "encampment を作るのに使うのは？", "A": "テント", "B": "コンクリート", "C": "レンガ", "D": "鉄骨", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ensured",
+    "pron": "ɪnˈʃʊrd",
+    "kana": "エンシュアド",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ensure(確実にする)+d",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B2", "ビジネス"],
+    "meaning_main": "確実にした／保証した／確保した（ensure の過去・過去分詞）",
+    "description": "ensured（エンシュアド）は ensure（確実にする・保証する）の過去形・過去分詞。あることが必ず起こるように取り計らったことを表します。ensure that ~ の形でよく使います。",
+    "keywords": ["ensured 意味", "ensured 使い方", "ensured 発音", "ensure 過去形"],
+    "meanings": [
+      { "hinshi": "【動詞】確実にした・保証した", "note": "ensure の過去形・過去分詞。ensure that ~ で「〜を確実にする」" }
+    ],
+    "usages": [
+      { "title": "① 確実にする", "desc": "取り計らう", "example_en": "We ensured that everyone was safe.", "example_ja": "私たちは全員の安全を確実にした。" },
+      { "title": "② 結果を保証", "desc": "確保", "example_en": "Good preparation ensured our success.", "example_ja": "十分な準備が成功を確実にした。" }
+    ],
+    "warn": ["ensure(確実にする)とinsure(保険をかける)/assure(安心させる)を混同しない"],
+    "etym_note": "古フランス語 enseurer（確実にする）由来の ensure に -d が付いた形。sure（確かな）と同語根。",
+    "etym_chain": [
+      { "node": "enseurer", "sub": "確実にする", "era": "古フランス語" },
+      { "node": "ensure", "sub": "確実にする", "era": "中英語" },
+      { "node": "ensured", "sub": "確実にした", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "ensured that", "ja": "〜を確実にした" },
+      { "en": "ensured safety", "ja": "安全を確保した" },
+      { "en": "ensured success", "ja": "成功を確実にした" },
+      { "en": "ensured fairness", "ja": "公平さを保証した" },
+      { "en": "carefully ensured", "ja": "念入りに確実にした" },
+      { "en": "ensured access", "ja": "利用を確保した" }
+    ],
+    "related": [
+      { "en": "ensure", "ja": "確実にする" },
+      { "en": "guarantee", "ja": "保証する" },
+      { "en": "assure", "ja": "安心させる" },
+      { "en": "insure", "ja": "保険をかける" }
+    ],
+    "faq": [
+      { "q": "ensure と insure と assure の違いは？", "a": "ensure は「確実にする」、insure は「保険をかける」、assure は「(人を)安心させる」です。" },
+      { "q": "原形は？", "a": "ensure（確実にする・保証する）です。" }
+    ],
+    "quiz": [
+      { "q": "ensured の意味は？", "A": "確実にした・保証した", "B": "疑った", "C": "壊した", "D": "無視した", "correct": "A" },
+      { "q": "「保険をかける」を表すのは？", "A": "insure", "B": "ensure", "C": "assure", "D": "endure", "correct": "A" }
+    ]
+  },
+  {
+    "english": "eu",
+    "pron": "ˌiːˈjuː",
+    "kana": "イーユー",
+    "hinshi": "名詞（略語）",
+    "ld_pos": "略語",
+    "ld_etym": "European Union の頭字語",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "略語/政治"],
+    "meaning_main": "EU（欧州連合）",
+    "description": "eu は European Union（欧州連合）の略で「EU」。ヨーロッパの国々が経済・政治で協力する連合体です。共通通貨ユーロを使う国もあります。文中では大文字 EU と書きます。",
+    "keywords": ["eu 意味", "EU 欧州連合", "European Union", "EU とは"],
+    "meanings": [
+      { "hinshi": "【略語】EU・欧州連合", "note": "European Union の頭字語。ヨーロッパ諸国の経済・政治連合。文中では大文字 EU" }
+    ],
+    "usages": [
+      { "title": "① 連合体として", "desc": "政治・経済", "example_en": "Many European countries belong to the EU.", "example_ja": "多くのヨーロッパの国がEUに属している。" },
+      { "title": "② 通貨・制度", "desc": "共通ルール", "example_en": "Some EU countries use the euro.", "example_ja": "一部のEU諸国はユーロを使う。" }
+    ],
+    "warn": ["文中では大文字 EU。通貨のユーロ(euro)とは別。頭字語"],
+    "etym_note": "European Union（欧州連合）の頭字語。1993年のマーストリヒト条約で発足した。",
+    "etym_chain": [
+      { "node": "European Community", "sub": "欧州共同体", "era": "20世紀半ば" },
+      { "node": "European Union", "sub": "欧州連合", "era": "1993年" },
+      { "node": "EU", "sub": "EU", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the EU", "ja": "欧州連合" },
+      { "en": "EU member states", "ja": "EU加盟国" },
+      { "en": "join the EU", "ja": "EUに加盟する" },
+      { "en": "leave the EU", "ja": "EUを離脱する" },
+      { "en": "EU law", "ja": "EU法" },
+      { "en": "an EU citizen", "ja": "EU市民" }
+    ],
+    "related": [
+      { "en": "europe", "ja": "ヨーロッパ" },
+      { "en": "euro", "ja": "ユーロ(通貨)" },
+      { "en": "union", "ja": "連合" },
+      { "en": "country", "ja": "国" }
+    ],
+    "faq": [
+      { "q": "EU は何の略？", "a": "European Union（欧州連合）の略です。" },
+      { "q": "EU とユーロの違いは？", "a": "EU は国々の連合体、ユーロ(euro)はその一部の国が使う共通通貨です。" }
+    ],
+    "quiz": [
+      { "q": "EU は何の略？", "A": "European Union(欧州連合)", "B": "英語連合", "C": "アジア連合", "D": "国際連合", "correct": "A" },
+      { "q": "EU の一部の国が使う共通通貨は？", "A": "ユーロ", "B": "ドル", "C": "ポンド", "D": "円", "correct": "A" }
+    ]
+  },
+  {
+    "english": "exemplar",
+    "pron": "ɪɡˈzemplɑːr",
+    "kana": "イグゼンプラー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 exemplar(手本)から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "抽象"],
+    "meaning_main": "模範／手本／典型（の例）",
+    "description": "exemplar（イグゼンプラー）は「（従うべき）模範・手本」または「典型的な例」を表す名詞。優れていてお手本になるものを指す、ややかたい語です。",
+    "keywords": ["exemplar 意味", "exemplar 使い方", "exemplar 発音", "模範 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】模範・手本", "note": "従うべき優れた例。an exemplar of ~" },
+      { "hinshi": "【名詞】典型(の例)", "note": "そのものの代表的な一例" }
+    ],
+    "usages": [
+      { "title": "① 手本として", "desc": "見習うべき例", "example_en": "She is an exemplar of hard work.", "example_ja": "彼女は勤勉の模範だ。" },
+      { "title": "② 典型例", "desc": "代表するもの", "example_en": "This building is an exemplar of Gothic style.", "example_ja": "この建物はゴシック様式の典型例だ。" }
+    ],
+    "warn": ["example(単なる例)より『模範・お手本』の意が強い"],
+    "etym_note": "ラテン語 exemplar（手本・模範、exemplum「例」より）に由来する。example と同語源。",
+    "etym_chain": [
+      { "node": "exemplum", "sub": "例", "era": "ラテン語" },
+      { "node": "exemplar", "sub": "手本・模範", "era": "中英語" },
+      { "node": "exemplar", "sub": "模範", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an exemplar of", "ja": "〜の模範" },
+      { "en": "a shining exemplar", "ja": "輝かしい手本" },
+      { "en": "the perfect exemplar", "ja": "完璧な典型例" },
+      { "en": "serve as an exemplar", "ja": "手本となる" },
+      { "en": "a classic exemplar", "ja": "典型的な例" },
+      { "en": "an exemplar of virtue", "ja": "徳の鑑" }
+    ],
+    "related": [
+      { "en": "example", "ja": "例" },
+      { "en": "model", "ja": "模範・模型" },
+      { "en": "ideal", "ja": "理想" },
+      { "en": "paragon", "ja": "手本・鑑" }
+    ],
+    "faq": [
+      { "q": "exemplar と example の違いは？", "a": "example は単なる例、exemplar は「模範・お手本になるような優れた例」です。" },
+      { "q": "形容詞形は？", "a": "exemplary（模範的な・見事な）です。" }
+    ],
+    "quiz": [
+      { "q": "exemplar の意味は？", "A": "模範・手本・典型例", "B": "失敗例", "C": "偽物", "D": "例外", "correct": "A" },
+      { "q": "exemplar の形容詞形は？", "A": "exemplary(模範的な)", "B": "example", "C": "exemplified", "D": "exemplarly", "correct": "A" }
+    ]
+  },
+  {
+    "english": "expanding",
+    "pron": "ɪkˈspændɪŋ",
+    "kana": "イクスパンディング",
+    "hinshi": "動詞 / 形容詞",
+    "ld_pos": "動詞",
+    "ld_etym": "expand(広がる)+ing",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "基本語"],
+    "meaning_main": "拡大する／膨張する／広がりつつある（expand の -ing 形）",
+    "description": "expanding（イクスパンディング）は expand（広がる・拡大する）の現在分詞・動名詞。規模・体積・事業などが大きくなること、また「拡大しつつある」という形容詞的な使い方をします。",
+    "keywords": ["expanding 意味", "expanding 使い方", "expanding 発音", "expand ing"],
+    "meanings": [
+      { "hinshi": "【動詞】拡大している・膨張している", "note": "expand の現在分詞。規模や体積が大きくなる" },
+      { "hinshi": "【形容詞】拡大しつつある", "note": "an expanding market（拡大する市場）" }
+    ],
+    "usages": [
+      { "title": "① 事業・規模", "desc": "大きくなる", "example_en": "The company is expanding overseas.", "example_ja": "その会社は海外に事業を拡大している。" },
+      { "title": "② 物理的な膨張", "desc": "体積が増す", "example_en": "Metal expands when heated.", "example_ja": "金属は熱すると膨張する。" }
+    ],
+    "warn": ["contract(縮む)/shrink(縮小する)の反対。expand の -ing 形"],
+    "etym_note": "ラテン語 expandere（広げる、ex-「外へ」+ pandere「広げる」）由来の expand に -ing が付いた語。",
+    "etym_chain": [
+      { "node": "expandere", "sub": "広げる", "era": "ラテン語" },
+      { "node": "expand", "sub": "広がる・拡大する", "era": "中英語" },
+      { "node": "expanding", "sub": "拡大している", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an expanding market", "ja": "拡大する市場" },
+      { "en": "expanding business", "ja": "拡大する事業" },
+      { "en": "the expanding universe", "ja": "膨張する宇宙" },
+      { "en": "rapidly expanding", "ja": "急速に拡大している" },
+      { "en": "expanding gas", "ja": "膨張する気体" },
+      { "en": "an ever-expanding list", "ja": "増え続けるリスト" }
+    ],
+    "related": [
+      { "en": "expand", "ja": "広がる・拡大する" },
+      { "en": "grow", "ja": "成長する" },
+      { "en": "increase", "ja": "増える" },
+      { "en": "shrink", "ja": "縮む" }
+    ],
+    "faq": [
+      { "q": "expanding の反対は？", "a": "shrinking（縮小している）や contracting（収縮している）です。" },
+      { "q": "原形は？", "a": "expand（広がる・拡大する）です。" }
+    ],
+    "quiz": [
+      { "q": "expanding の意味は？", "A": "拡大している・膨張している", "B": "縮んでいる", "C": "止まっている", "D": "消えている", "correct": "A" },
+      { "q": "expanding の反対は？", "A": "shrinking(縮小している)", "B": "growing(成長している)", "C": "rising(上がっている)", "D": "moving(動いている)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "exterminator",
+    "pron": "ɪkˈstɜːrmɪneɪtər",
+    "kana": "イクスターミネーター",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "exterminate(根絶する)+or",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "職業"],
+    "meaning_main": "害虫（害獣）駆除業者／駆除する人",
+    "description": "exterminator（イクスターミネーター）は「（ネズミやゴキブリなどの）害虫・害獣を駆除する業者・人」を表す名詞。exterminate（根絶する・全滅させる）から来た語です。",
+    "keywords": ["exterminator 意味", "exterminator 使い方", "exterminator 発音", "害虫駆除 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】害虫(害獣)駆除業者", "note": "ネズミ・ゴキブリ・シロアリなどを駆除する専門業者" }
+    ],
+    "usages": [
+      { "title": "① 業者を呼ぶ", "desc": "駆除の依頼", "example_en": "We called an exterminator for the termites.", "example_ja": "私たちはシロアリのため駆除業者を呼んだ。" },
+      { "title": "② 仕事として", "desc": "駆除する人", "example_en": "The exterminator sprayed the kitchen.", "example_ja": "駆除業者は台所に薬剤をまいた。" }
+    ],
+    "warn": ["害虫・害獣を『根絶する』業者。動詞は exterminate"],
+    "etym_note": "ラテン語 exterminare（追い払う・根絶する、ex-「外へ」+ terminus「境界」）由来の exterminate に -or が付いた語。",
+    "etym_chain": [
+      { "node": "exterminare", "sub": "追い払う", "era": "ラテン語" },
+      { "node": "exterminate", "sub": "根絶する", "era": "近代英語" },
+      { "node": "exterminator", "sub": "駆除業者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "call an exterminator", "ja": "駆除業者を呼ぶ" },
+      { "en": "a pest exterminator", "ja": "害虫駆除業者" },
+      { "en": "hire an exterminator", "ja": "駆除業者を雇う" },
+      { "en": "the exterminator's van", "ja": "駆除業者の車" },
+      { "en": "a termite exterminator", "ja": "シロアリ駆除業者" },
+      { "en": "a professional exterminator", "ja": "プロの駆除業者" }
+    ],
+    "related": [
+      { "en": "exterminate", "ja": "根絶する" },
+      { "en": "pest", "ja": "害虫・害獣" },
+      { "en": "insect", "ja": "昆虫" },
+      { "en": "spray", "ja": "薬剤をまく" }
+    ],
+    "faq": [
+      { "q": "exterminator は何をする人？", "a": "ネズミやゴキブリ、シロアリなどの害虫・害獣を駆除する専門業者です。" },
+      { "q": "動詞形は？", "a": "exterminate（根絶する・全滅させる）です。" }
+    ],
+    "quiz": [
+      { "q": "exterminator の意味は？", "A": "害虫・害獣の駆除業者", "B": "建築家", "C": "料理人", "D": "運転手", "correct": "A" },
+      { "q": "exterminator の動詞形は？", "A": "exterminate(根絶する)", "B": "external(外の)", "C": "extend(延ばす)", "D": "explain(説明する)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "faculty",
+    "pron": "ˈfækəlti",
+    "kana": "ファカルティ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 facultas(能力)から",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B2", "多義語"],
+    "meaning_main": "(大学の)学部／教職員（全体）／(生来の)能力・機能",
+    "description": "faculty（ファカルティ）は「大学の学部」や、その「教職員全体」を表す名詞。また「（人が生まれ持つ）能力・機能」の意味もあります（the faculty of speech＝言語能力）。",
+    "keywords": ["faculty 意味", "faculty 使い方", "faculty 発音", "学部 教職員 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】(大学の)学部", "note": "the Faculty of Law（法学部）など" },
+      { "hinshi": "【名詞】教職員(全体)", "note": "特に米国で、大学の教員をまとめて指す" },
+      { "hinshi": "【名詞】(生来の)能力・機能", "note": "the faculty of sight（視覚)など" }
+    ],
+    "usages": [
+      { "title": "① 学部・教員", "desc": "大学で", "example_en": "She is a member of the faculty.", "example_ja": "彼女は教員の一員だ。" },
+      { "title": "② 能力・機能", "desc": "生来の力", "example_en": "He lost the faculty of speech.", "example_ja": "彼は言語能力を失った。" }
+    ],
+    "warn": ["文脈で「学部/教職員/能力」と意味が変わる多義語"],
+    "etym_note": "ラテン語 facultas（能力・可能性、facere「する」より）に由来する。「〜する力」から学問の分野・教員団へ意味が広がった。",
+    "etym_chain": [
+      { "node": "facultas", "sub": "能力", "era": "ラテン語" },
+      { "node": "faculty", "sub": "能力・学部", "era": "中英語" },
+      { "node": "faculty", "sub": "学部・教職員・能力", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the Faculty of Science", "ja": "理学部" },
+      { "en": "a faculty member", "ja": "教員" },
+      { "en": "faculty and students", "ja": "教職員と学生" },
+      { "en": "mental faculties", "ja": "知的能力" },
+      { "en": "the faculty of reason", "ja": "理性の能力" },
+      { "en": "join the faculty", "ja": "教員陣に加わる" }
+    ],
+    "related": [
+      { "en": "department", "ja": "学科・部門" },
+      { "en": "professor", "ja": "教授" },
+      { "en": "university", "ja": "大学" },
+      { "en": "ability", "ja": "能力" }
+    ],
+    "faq": [
+      { "q": "faculty と department の違いは？", "a": "faculty はより大きな「学部」、department はその中の「学科・部門」を指すことが多いです。" },
+      { "q": "「能力」の意味の例は？", "a": "the faculty of sight（視覚）、mental faculties（知的能力）などです。" }
+    ],
+    "quiz": [
+      { "q": "faculty の意味に含まれないのは？", "A": "台所", "B": "(大学の)学部", "C": "教職員", "D": "生来の能力", "correct": "A" },
+      { "q": "a faculty member とは？", "A": "教員", "B": "新入生", "C": "来客", "D": "警備員", "correct": "A" }
+    ]
+  },
+  {
+    "english": "fadeaway",
+    "pron": "ˈfeɪdəweɪ",
+    "kana": "フェイダウェイ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "fade away(消えていく)から",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "スポーツ/一般"],
+    "meaning_main": "徐々に消えること／(バスケ)フェイダウェイシュート",
+    "description": "fadeaway（フェイダウェイ）は「（音・光などが）徐々に消えていくこと」を表す名詞。特にバスケットボールで、後ろに下がりながら放つ「フェイダウェイシュート」を指す語として有名です。",
+    "keywords": ["fadeaway 意味", "fadeaway シュート", "fadeaway 発音", "フェイダウェイ 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】徐々に消えること", "note": "音・光・存在などが次第に薄れて消えること" },
+      { "hinshi": "【名詞】(バスケ)フェイダウェイシュート", "note": "後ろへ跳びながら放つシュート" }
+    ],
+    "usages": [
+      { "title": "① 消えていくこと", "desc": "一般的に", "example_en": "The song ends with a slow fadeaway.", "example_ja": "その曲はゆっくり消えていって終わる。" },
+      { "title": "② バスケで", "desc": "シュート", "example_en": "He sank a fadeaway jumper.", "example_ja": "彼はフェイダウェイシュートを決めた。" }
+    ],
+    "warn": ["動詞句は fade away（2語）、名詞は fadeaway（1語）"],
+    "etym_note": "fade（薄れる）と away（去って）から成る fade away を名詞化した語。",
+    "etym_chain": [
+      { "node": "fade + away", "sub": "薄れて去る", "era": "近代英語" },
+      { "node": "fadeaway", "sub": "徐々に消えること", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a slow fadeaway", "ja": "ゆっくりした消え方" },
+      { "en": "a fadeaway jumper", "ja": "フェイダウェイシュート" },
+      { "en": "a fadeaway shot", "ja": "フェイダウェイシュート" },
+      { "en": "end in a fadeaway", "ja": "消え入るように終わる" },
+      { "en": "a graceful fadeaway", "ja": "優雅なフェイダウェイ" },
+      { "en": "shoot a fadeaway", "ja": "フェイダウェイを放つ" }
+    ],
+    "related": [
+      { "en": "fade", "ja": "薄れる・色あせる" },
+      { "en": "disappear", "ja": "消える" },
+      { "en": "vanish", "ja": "消え去る" },
+      { "en": "basketball", "ja": "バスケットボール" }
+    ],
+    "faq": [
+      { "q": "fadeaway と fade away の違いは？", "a": "fade away は動詞句（消えていく）、fadeaway は名詞（消えること／バスケのシュート）です。" },
+      { "q": "バスケの fadeaway とは？", "a": "ディフェンスをかわすため後ろに跳びながら放つシュートです。" }
+    ],
+    "quiz": [
+      { "q": "fadeaway の意味は？", "A": "徐々に消えること／バスケのシュート", "B": "急な上昇", "C": "大きな爆発", "D": "強い衝突", "correct": "A" },
+      { "q": "動詞句としての形は？", "A": "fade away(2語)", "B": "fadeaway(1語)のみ", "C": "faded", "D": "fadeing", "correct": "A" }
+    ]
+  },
+  {
+    "english": "fahrenheit",
+    "pron": "ˈfærənhaɪt",
+    "kana": "ファーレンハイト",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ドイツの物理学者 Fahrenheit の名から",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "科学"],
+    "meaning_main": "華氏（℉）／カ氏の",
+    "description": "fahrenheit（ファーレンハイト）は温度の単位「華氏（℉）」。水が32℉で凍り212℉で沸騰します。主にアメリカで使われます。考案者の名にちなみ、文中では大文字 Fahrenheit と書きます。",
+    "keywords": ["fahrenheit 意味", "fahrenheit 華氏", "fahrenheit 発音", "華氏 英語"],
+    "meanings": [
+      { "hinshi": "【名詞/形容詞】華氏(℉)・カ氏の", "note": "水の凝固点32℉・沸点212℉。主に米国で使用。記号は ℉" }
+    ],
+    "usages": [
+      { "title": "① 気温を言う", "desc": "米国の温度", "example_en": "It's 70 degrees Fahrenheit outside.", "example_ja": "外は華氏70度だ。" },
+      { "title": "② 摂氏と対比", "desc": "単位の違い", "example_en": "Water freezes at 32 degrees Fahrenheit.", "example_ja": "水は華氏32度で凍る。" }
+    ],
+    "warn": ["人名由来で大文字 Fahrenheit。摂氏(Celsius)と混同しない"],
+    "etym_note": "この目盛りを考案したドイツの物理学者ダニエル・ファーレンハイト（Daniel Fahrenheit）の名に由来する。",
+    "etym_chain": [
+      { "node": "Fahrenheit", "sub": "人名(物理学者)", "era": "18世紀" },
+      { "node": "degrees Fahrenheit", "sub": "華氏度", "era": "近代" },
+      { "node": "Fahrenheit", "sub": "華氏", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "degrees Fahrenheit", "ja": "華氏〜度" },
+      { "en": "90 degrees Fahrenheit", "ja": "華氏90度" },
+      { "en": "the Fahrenheit scale", "ja": "華氏目盛り" },
+      { "en": "Fahrenheit and Celsius", "ja": "華氏と摂氏" },
+      { "en": "in Fahrenheit", "ja": "華氏で" },
+      { "en": "convert to Fahrenheit", "ja": "華氏に換算する" }
+    ],
+    "related": [
+      { "en": "celsius", "ja": "摂氏" },
+      { "en": "temperature", "ja": "温度" },
+      { "en": "degree", "ja": "度" },
+      { "en": "thermometer", "ja": "温度計" }
+    ],
+    "faq": [
+      { "q": "Fahrenheit と Celsius の違いは？", "a": "Fahrenheit(華氏)は水の凝固点32/沸点212、Celsius(摂氏)は0/100を基準にします。米国では主に華氏を使います。" },
+      { "q": "なぜ大文字？", "a": "考案者ファーレンハイトの人名に由来するためです。" }
+    ],
+    "quiz": [
+      { "q": "Fahrenheit とは？", "A": "温度の単位(華氏)", "B": "長さの単位", "C": "重さの単位", "D": "時間の単位", "correct": "A" },
+      { "q": "水が凍るのは華氏何度？", "A": "32度", "B": "0度", "C": "100度", "D": "212度", "correct": "A" }
+    ]
+  }
+]

@@ -1,0 +1,985 @@
+[
+  {
+    "english": "cybersecurity",
+    "pron": "ˈsaɪbərsɪˌkjʊrəti",
+    "kana": "サイバーセキュリティ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "cyber-(コンピューターの)+security(安全)",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "IT"],
+    "meaning_main": "サイバーセキュリティ（コンピューター・ネットの安全対策）",
+    "description": "cybersecurity（サイバーセキュリティ）はコンピューターやネットワークを不正アクセスや攻撃から守る「情報セキュリティ対策」を表す名詞。サイバー犯罪（cybercrime）から身を守る取り組みです。",
+    "keywords": ["cybersecurity 意味", "cybersecurity 使い方", "cybersecurity 発音", "サイバーセキュリティ 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】サイバーセキュリティ", "note": "コンピューター・ネットを攻撃や不正アクセスから守ること。不可算" }
+    ],
+    "usages": [
+      { "title": "① 企業の対策", "desc": "IT の話題で", "example_en": "The company improved its cybersecurity.", "example_ja": "その会社はサイバーセキュリティを強化した。" },
+      { "title": "② 職業・分野", "desc": "専門領域", "example_en": "She works in cybersecurity.", "example_ja": "彼女はサイバーセキュリティの分野で働いている。" }
+    ],
+    "warn": ["cybercrime(サイバー犯罪)を防ぐ側の語。cyber-＝コンピューターの"],
+    "etym_note": "ギリシャ語 kybernetes（舵取り）由来の接頭辞 cyber-（コンピューター・ネットの）と security（安全）を結んだ語。",
+    "etym_chain": [
+      { "node": "kybernetes", "sub": "舵取り", "era": "ギリシャ語" },
+      { "node": "cyber-", "sub": "コンピューターの", "era": "20世紀" },
+      { "node": "cybersecurity", "sub": "サイバーセキュリティ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "improve cybersecurity", "ja": "サイバーセキュリティを強化する" },
+      { "en": "cybersecurity threats", "ja": "サイバー上の脅威" },
+      { "en": "a cybersecurity expert", "ja": "セキュリティの専門家" },
+      { "en": "cybersecurity measures", "ja": "セキュリティ対策" },
+      { "en": "national cybersecurity", "ja": "国家のサイバー防衛" },
+      { "en": "invest in cybersecurity", "ja": "セキュリティに投資する" }
+    ],
+    "related": [
+      { "en": "cybercrime", "ja": "サイバー犯罪" },
+      { "en": "security", "ja": "安全・警備" },
+      { "en": "hacking", "ja": "ハッキング" },
+      { "en": "password", "ja": "パスワード" }
+    ],
+    "faq": [
+      { "q": "cybersecurity と cybercrime の違いは？", "a": "cybercrime は「攻撃・犯罪そのもの」、cybersecurity は「それから守る対策」です。" },
+      { "q": "身近な対策は？", "a": "強いパスワード、ソフトの更新、不審なリンクを開かないことなどです。" }
+    ],
+    "quiz": [
+      { "q": "cybersecurity とは？", "A": "ネットやPCを守る安全対策", "B": "ネット犯罪そのもの", "C": "配線工事", "D": "動画編集", "correct": "A" },
+      { "q": "cybersecurity が守る相手は？", "A": "サイバー攻撃・不正アクセス", "B": "自然災害", "C": "交通事故", "D": "食中毒", "correct": "A" }
+    ]
+  },
+  {
+    "english": "dashi",
+    "pron": "ˈdɑːʃi",
+    "kana": "ダシ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "日本語「出汁(だし)」から",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "食べ物"],
+    "meaning_main": "出汁（だし）／和食の基本のスープストック",
+    "description": "dashi（ダシ）は「出汁」を表す名詞で、昆布やかつお節などからとる和食の基本のうまみスープ。みそ汁や煮物のベースになります。日本語由来の外来語として英語でも使われます。",
+    "keywords": ["dashi 意味", "dashi 使い方", "dashi 発音", "出汁 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】出汁(だし)", "note": "昆布・かつお節などからとる和食のうまみスープ。不可算" }
+    ],
+    "usages": [
+      { "title": "① 料理のベース", "desc": "和食で", "example_en": "Miso soup is made with dashi.", "example_ja": "みそ汁は出汁で作る。" },
+      { "title": "② うまみの源", "desc": "風味づけ", "example_en": "Dashi gives Japanese dishes their umami.", "example_ja": "出汁は和食にうまみを与える。" }
+    ],
+    "warn": ["日本語由来。昆布だし・かつおだしなど種類がある。不可算名詞"],
+    "etym_note": "日本語「出汁（だし）」がそのまま英語に取り入れられた外来語。",
+    "etym_chain": [
+      { "node": "出汁(だし)", "sub": "うまみスープ", "era": "日本語" },
+      { "node": "dashi", "sub": "出汁", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "make dashi", "ja": "出汁をとる" },
+      { "en": "kombu dashi", "ja": "昆布だし" },
+      { "en": "bonito dashi", "ja": "かつおだし" },
+      { "en": "dashi stock", "ja": "だし汁" },
+      { "en": "a bowl of dashi", "ja": "だし一杯" },
+      { "en": "add dashi", "ja": "出汁を加える" }
+    ],
+    "related": [
+      { "en": "broth", "ja": "だし汁・スープ" },
+      { "en": "stock", "ja": "スープストック" },
+      { "en": "umami", "ja": "うまみ" },
+      { "en": "soup", "ja": "スープ" }
+    ],
+    "faq": [
+      { "q": "dashi は何からとる？", "a": "昆布やかつお節、煮干し、干し椎茸などからとります。" },
+      { "q": "broth や stock との違いは？", "a": "dashi は和食特有のうまみだし。broth/stock は肉や野菜を煮出した西洋のだしを指すことが多いです。" }
+    ],
+    "quiz": [
+      { "q": "dashi とは？", "A": "和食のうまみだし", "B": "デザート", "C": "麺の一種", "D": "調味料の砂糖", "correct": "A" },
+      { "q": "dashi の代表的な材料は？", "A": "昆布・かつお節", "B": "小麦粉", "C": "コーヒー豆", "D": "オリーブ油", "correct": "A" }
+    ]
+  },
+  {
+    "english": "de-",
+    "pron": "diː",
+    "kana": "ディ",
+    "hinshi": "接頭辞",
+    "ld_pos": "接頭辞",
+    "ld_etym": "ラテン語 de-(離れて・下へ)から",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "造語成分"],
+    "meaning_main": "除去／逆・反対／下降・低下（動詞をつくる接頭辞）",
+    "description": "de-（ディ）は「取り除く・逆にする・下げる」といった意味を加える接頭辞。動詞について defrost（霜を取る）、decode（解読する）、devalue（価値を下げる）などをつくります。",
+    "keywords": ["de- 意味", "de 接頭辞", "de- 例", "defrost decode 意味"],
+    "meanings": [
+      { "hinshi": "【接頭辞】取り除く", "note": "defrost(霜を取る)、deforest(森林を伐採する)" },
+      { "hinshi": "【接頭辞】逆にする・元に戻す", "note": "decode(解読する)、deactivate(無効にする)" },
+      { "hinshi": "【接頭辞】下げる・低下させる", "note": "devalue(価値を下げる)、degrade(格を下げる)" }
+    ],
+    "usages": [
+      { "title": "① 取り除く", "desc": "de-+語", "example_en": "\"Defrost\" means to remove frost or ice.", "example_ja": "defrost は「霜・氷を取り除く」という意味。" },
+      { "title": "② 逆にする", "desc": "元に戻す", "example_en": "\"Decode\" means to turn code back into words.", "example_ja": "decode は「暗号を元の言葉に戻す」意味。" }
+    ],
+    "warn": ["反対の接頭辞 re-(再び)などと対比。付く語で意味の焦点が変わる"],
+    "etym_note": "ラテン語 de-（〜から離れて・下へ）に由来する接頭辞。除去・分離・低下などを表す。",
+    "etym_chain": [
+      { "node": "de", "sub": "離れて・下へ", "era": "ラテン語" },
+      { "node": "de-", "sub": "除去・逆・下降", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "defrost", "ja": "霜を取る・解凍する" },
+      { "en": "decode", "ja": "解読する" },
+      { "en": "devalue", "ja": "価値を下げる" },
+      { "en": "deactivate", "ja": "無効にする" },
+      { "en": "deforest", "ja": "森林を伐採する" },
+      { "en": "detox", "ja": "解毒する" }
+    ],
+    "related": [
+      { "en": "un-", "ja": "否定・逆(接頭辞)" },
+      { "en": "dis-", "ja": "否定・分離(接頭辞)" },
+      { "en": "re-", "ja": "再び(接頭辞)" },
+      { "en": "remove", "ja": "取り除く" }
+    ],
+    "faq": [
+      { "q": "de- はどんな意味を加える？", "a": "「取り除く・逆にする・下げる」などの意味を加えます（defrost, decode, devalue）。" },
+      { "q": "un- や dis- との違いは？", "a": "重なる部分もありますが、de- は特に『除去・分離・低下』の動作を表すことが多いです。" }
+    ],
+    "quiz": [
+      { "q": "de- が表す意味に含まれないのは？", "A": "再び〜する", "B": "取り除く", "C": "逆にする", "D": "下げる", "correct": "A" },
+      { "q": "defrost の意味は？", "A": "霜・氷を取り除く", "B": "凍らせる", "C": "焼く", "D": "混ぜる", "correct": "A" }
+    ]
+  },
+  {
+    "english": "deceived",
+    "pron": "dɪˈsiːvd",
+    "kana": "ディシーブド",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "deceive(だます)+d",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "基本語"],
+    "meaning_main": "だました／欺いた／思い違いをさせた（deceive の過去・過去分詞）",
+    "description": "deceived（ディシーブド）は deceive（だます・欺く）の過去形・過去分詞。うそや偽りで相手に誤った信じ込みをさせることを表します。be deceived で「だまされる」。",
+    "keywords": ["deceived 意味", "deceived 使い方", "deceived 発音", "deceive 過去形"],
+    "meanings": [
+      { "hinshi": "【動詞】だました・欺いた", "note": "deceive の過去形・過去分詞。be deceived＝だまされる" }
+    ],
+    "usages": [
+      { "title": "① 人をだます", "desc": "欺く", "example_en": "He deceived his friends for money.", "example_ja": "彼は金のために友人をだました。" },
+      { "title": "② だまされる", "desc": "受け身", "example_en": "Don't be deceived by his smile.", "example_ja": "彼の笑顔にだまされてはいけない。" }
+    ],
+    "warn": ["つづりは -ei-（i before e の例外）。名詞は deception、形容詞は deceptive"],
+    "etym_note": "ラテン語 decipere（だます、de-+capere「つかむ」）由来の deceive に -d が付いた形。",
+    "etym_chain": [
+      { "node": "decipere", "sub": "だます", "era": "ラテン語" },
+      { "node": "deceive", "sub": "だます", "era": "中英語" },
+      { "node": "deceived", "sub": "だました", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be deceived", "ja": "だまされる" },
+      { "en": "deceived by appearances", "ja": "見た目にだまされて" },
+      { "en": "feel deceived", "ja": "だまされたと感じる" },
+      { "en": "deceived the public", "ja": "世間を欺いた" },
+      { "en": "deceived himself", "ja": "自分を偽った" },
+      { "en": "cruelly deceived", "ja": "むごくだまされて" }
+    ],
+    "related": [
+      { "en": "deceive", "ja": "だます" },
+      { "en": "deception", "ja": "欺瞞" },
+      { "en": "trick", "ja": "だます・策略" },
+      { "en": "mislead", "ja": "誤解させる" }
+    ],
+    "faq": [
+      { "q": "deceived の原形は？", "a": "deceive（だます・欺く）です。" },
+      { "q": "名詞・形容詞形は？", "a": "名詞は deception（欺瞞）、形容詞は deceptive（人を欺く）です。" }
+    ],
+    "quiz": [
+      { "q": "deceived の意味は？", "A": "だました・欺いた", "B": "助けた", "C": "ほめた", "D": "許した", "correct": "A" },
+      { "q": "be deceived の意味は？", "A": "だまされる", "B": "だます", "C": "気づく", "D": "疑う", "correct": "A" }
+    ]
+  },
+  {
+    "english": "deceleration",
+    "pron": "diːˌseləˈreɪʃən",
+    "kana": "ディセラレイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "de-(下降)+celerate(速める)+ion",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "科学"],
+    "meaning_main": "減速／減速度（速度が下がること）",
+    "description": "deceleration（ディセラレイション）は「減速・減速度」を表す名詞。速度がだんだん下がることを指し、acceleration（加速）の反対です。物理や交通の文脈で使われます。",
+    "keywords": ["deceleration 意味", "deceleration 使い方", "deceleration 発音", "減速 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】減速・減速度", "note": "速度が下がること。acceleration(加速)の反対" }
+    ],
+    "usages": [
+      { "title": "① 乗り物の減速", "desc": "交通で", "example_en": "The sudden deceleration threw us forward.", "example_ja": "急な減速で私たちは前へ投げ出された。" },
+      { "title": "② 物理・経済", "desc": "勢いの低下", "example_en": "There was a deceleration in economic growth.", "example_ja": "経済成長の減速が見られた。" }
+    ],
+    "warn": ["acceleration(加速)の反対。動詞は decelerate"],
+    "etym_note": "接頭辞 de-（下降）と、ラテン語 celer（速い）由来の accelerate から作られた decelerate を名詞化した語。",
+    "etym_chain": [
+      { "node": "celer", "sub": "速い", "era": "ラテン語" },
+      { "node": "decelerate", "sub": "減速する", "era": "19世紀" },
+      { "node": "deceleration", "sub": "減速", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "sudden deceleration", "ja": "急な減速" },
+      { "en": "rate of deceleration", "ja": "減速の割合" },
+      { "en": "gradual deceleration", "ja": "ゆるやかな減速" },
+      { "en": "deceleration of growth", "ja": "成長の減速" },
+      { "en": "hard deceleration", "ja": "急減速" },
+      { "en": "acceleration and deceleration", "ja": "加速と減速" }
+    ],
+    "related": [
+      { "en": "decelerate", "ja": "減速する" },
+      { "en": "acceleration", "ja": "加速" },
+      { "en": "speed", "ja": "速度" },
+      { "en": "brake", "ja": "ブレーキ" }
+    ],
+    "faq": [
+      { "q": "deceleration の反対は？", "a": "acceleration（加速・加速度）です。" },
+      { "q": "動詞形は？", "a": "decelerate（減速する）です。" }
+    ],
+    "quiz": [
+      { "q": "deceleration の意味は？", "A": "減速", "B": "加速", "C": "停止したまま", "D": "後退", "correct": "A" },
+      { "q": "deceleration の対義語は？", "A": "acceleration(加速)", "B": "declaration(宣言)", "C": "decoration(装飾)", "D": "dedication(献身)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "deep-rooted",
+    "pron": "ˌdiːpˈruːtɪd",
+    "kana": "ディープルーティド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "deep(深い)+rooted(根を張った)",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "比喩表現"],
+    "meaning_main": "根深い／深く根づいた／簡単には変わらない",
+    "description": "deep-rooted（ディープルーティド）は「根深い・深く根づいた」という意味の形容詞。習慣・信念・問題などが深く定着していて、簡単には変えられない様子を表します。",
+    "keywords": ["deep-rooted 意味", "deep-rooted 使い方", "deep-rooted 発音", "根深い 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】根深い・深く根づいた", "note": "習慣・信念・問題などが深く定着し、変えにくいこと" }
+    ],
+    "usages": [
+      { "title": "① 問題・偏見", "desc": "根深さを表す", "example_en": "Racism is a deep-rooted problem.", "example_ja": "人種差別は根深い問題だ。" },
+      { "title": "② 習慣・信念", "desc": "深く定着", "example_en": "She has a deep-rooted fear of heights.", "example_ja": "彼女には根深い高所恐怖がある。" }
+    ],
+    "warn": ["deeply rooted とも。deep-seated(根深い)とほぼ同義"],
+    "etym_note": "deep（深い）と root（根）に -ed が付いた rooted を結んだ複合形容詞。「深く根を張った」の意。",
+    "etym_chain": [
+      { "node": "deep + rooted", "sub": "深く根を張った", "era": "近代英語" },
+      { "node": "deep-rooted", "sub": "根深い", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a deep-rooted problem", "ja": "根深い問題" },
+      { "en": "deep-rooted beliefs", "ja": "深く根づいた信念" },
+      { "en": "deep-rooted prejudice", "ja": "根深い偏見" },
+      { "en": "a deep-rooted fear", "ja": "根深い恐れ" },
+      { "en": "deep-rooted traditions", "ja": "深く根づいた伝統" },
+      { "en": "deep-rooted habits", "ja": "染みついた習慣" }
+    ],
+    "related": [
+      { "en": "deep-seated", "ja": "根深い" },
+      { "en": "ingrained", "ja": "染みついた" },
+      { "en": "entrenched", "ja": "定着した" },
+      { "en": "root", "ja": "根" }
+    ],
+    "faq": [
+      { "q": "deep-rooted と deep-seated の違いは？", "a": "ほぼ同義で、どちらも「根深い・深く定着した」を表します。" },
+      { "q": "良い意味でも使う？", "a": "伝統や信念など中立〜肯定的にも使えますが、問題・偏見など否定的な文脈が多めです。" }
+    ],
+    "quiz": [
+      { "q": "deep-rooted の意味は？", "A": "根深い・深く根づいた", "B": "浅い・表面的な", "C": "新しい", "D": "一時的な", "correct": "A" },
+      { "q": "deep-rooted の類語は？", "A": "deep-seated(根深い)", "B": "shallow(浅い)", "C": "temporary(一時的な)", "D": "recent(最近の)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "deformed",
+    "pron": "dɪˈfɔːrmd",
+    "hinshi": "形容詞 / 動詞",
+    "kana": "ディフォームド",
+    "ld_pos": "形容詞",
+    "ld_etym": "de-(崩す)+form(形)+ed",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "状態"],
+    "meaning_main": "変形した／ゆがんだ／奇形の（deform の過去・過去分詞）",
+    "description": "deformed（ディフォームド）は「本来の形がゆがんだ・変形した」という意味の形容詞。deform（変形させる）の過去分詞で、物や体の形が正常でない状態を表します。",
+    "keywords": ["deformed 意味", "deformed 使い方", "deformed 発音", "変形 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】変形した・ゆがんだ・奇形の", "note": "本来の形が損なわれた状態" },
+      { "hinshi": "【動詞】変形させた", "note": "deform の過去形・過去分詞" }
+    ],
+    "usages": [
+      { "title": "① 物の変形", "desc": "形がゆがむ", "example_en": "The metal bar was deformed by heat.", "example_ja": "その金属棒は熱で変形した。" },
+      { "title": "② 体の形", "desc": "正常でない形", "example_en": "The accident left his hand deformed.", "example_ja": "事故で彼の手は変形してしまった。" }
+    ],
+    "warn": ["体に使うと配慮が必要な語。物には広く『変形した』の意で使う"],
+    "etym_note": "ラテン語 deformare（形を崩す、de-+forma「形」）由来の deform に -ed が付いた形。",
+    "etym_chain": [
+      { "node": "deformare", "sub": "形を崩す", "era": "ラテン語" },
+      { "node": "deform", "sub": "変形させる", "era": "中英語" },
+      { "node": "deformed", "sub": "変形した", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a deformed shape", "ja": "ゆがんだ形" },
+      { "en": "badly deformed", "ja": "ひどく変形した" },
+      { "en": "deformed by heat", "ja": "熱で変形した" },
+      { "en": "become deformed", "ja": "変形する" },
+      { "en": "a deformed wheel", "ja": "ゆがんだ車輪" },
+      { "en": "deformed under pressure", "ja": "圧力で変形した" }
+    ],
+    "related": [
+      { "en": "deform", "ja": "変形させる" },
+      { "en": "distorted", "ja": "ゆがんだ" },
+      { "en": "misshapen", "ja": "形の崩れた" },
+      { "en": "warped", "ja": "そり返った・ゆがんだ" }
+    ],
+    "faq": [
+      { "q": "deformed の原形は？", "a": "deform（変形させる）です。" },
+      { "q": "distorted との違いは？", "a": "ほぼ同義ですが、deformed は「本来の形が崩れた」、distorted は「ねじれ・ゆがみ」に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "deformed の意味は？", "A": "変形した・ゆがんだ", "B": "整った", "C": "新品の", "D": "清潔な", "correct": "A" },
+      { "q": "deformed の原形は？", "A": "deform(変形させる)", "B": "defend(守る)", "C": "define(定義する)", "D": "defer(延期する)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "degas",
+    "pron": "diːˈɡæs",
+    "kana": "ディーギャス",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "de-(除去)+gas(気体)",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "技術"],
+    "meaning_main": "脱気する／(液体・材料から)ガスを抜く",
+    "description": "degas（ディーギャス）は「（液体や材料から）溶け込んだ気体を取り除く・脱気する」という意味の動詞。工業や実験で気泡や溶存ガスを抜く処理を指します（※画家エドガー・ドガ Degas は別の固有名詞）。",
+    "keywords": ["degas 意味", "degas 使い方", "degas 発音", "脱気 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】脱気する・ガスを抜く", "note": "液体や材料に溶け込んだ気体を取り除く。de-(除去)+gas" }
+    ],
+    "usages": [
+      { "title": "① 実験・工業で", "desc": "気体を抜く", "example_en": "You must degas the resin before pouring.", "example_ja": "流し込む前に樹脂を脱気しなければならない。" },
+      { "title": "② 液体の処理", "desc": "溶存ガス除去", "example_en": "The water is degassed to remove air bubbles.", "example_ja": "その水は気泡を除くため脱気される。" }
+    ],
+    "warn": ["de-+gas の動詞。※画家エドガー・ドガ(Degas)は無関係の固有名詞"],
+    "etym_note": "接頭辞 de-（除去）と gas（気体）を結んだ語。「ガスを取り除く」の意。",
+    "etym_chain": [
+      { "node": "gas", "sub": "気体", "era": "17世紀" },
+      { "node": "de- + gas", "sub": "ガスを除く", "era": "20世紀" },
+      { "node": "degas", "sub": "脱気する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "degas the liquid", "ja": "液体を脱気する" },
+      { "en": "degas the resin", "ja": "樹脂を脱気する" },
+      { "en": "degas under vacuum", "ja": "真空で脱気する" },
+      { "en": "degas a sample", "ja": "試料を脱気する" },
+      { "en": "fully degassed", "ja": "完全に脱気された" },
+      { "en": "degas the water", "ja": "水を脱気する" }
+    ],
+    "related": [
+      { "en": "gas", "ja": "気体" },
+      { "en": "vacuum", "ja": "真空" },
+      { "en": "bubble", "ja": "気泡" },
+      { "en": "remove", "ja": "取り除く" }
+    ],
+    "faq": [
+      { "q": "degas は何をすること？", "a": "液体や材料に溶け込んだ気体（気泡）を取り除く「脱気」のことです。" },
+      { "q": "画家の Degas と同じ？", "a": "いいえ。動詞 degas（脱気する）と、画家エドガー・ドガ（Degas）は無関係です。" }
+    ],
+    "quiz": [
+      { "q": "degas（動詞）の意味は？", "A": "ガスを抜く・脱気する", "B": "ガスを注入する", "C": "凍らせる", "D": "加熱する", "correct": "A" },
+      { "q": "degas の de- が表すのは？", "A": "取り除く", "B": "再び", "C": "とても", "D": "前の", "correct": "A" }
+    ]
+  },
+  {
+    "english": "deism",
+    "pron": "ˈdiːɪzəm",
+    "kana": "ディーイズム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 deus(神)+-ism",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "思想/宗教"],
+    "meaning_main": "理神論（神を認めるが人間界への介入は否定する立場）",
+    "description": "deism（ディーイズム）は「理神論」を表す名詞。神を世界の創造者としては認めるが、その後は世界に介入せず奇跡や啓示は否定する、理性に基づく宗教観です。17〜18世紀に広まりました。",
+    "keywords": ["deism 意味", "deism 理神論", "deism 発音", "理神論 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】理神論", "note": "神を創造者と認めるが、世界への介入・啓示・奇跡を否定する立場" }
+    ],
+    "usages": [
+      { "title": "① 思想として", "desc": "宗教哲学", "example_en": "Deism sees God as a creator who does not intervene.", "example_ja": "理神論は神を介入しない創造者とみなす。" },
+      { "title": "② 歴史的背景", "desc": "啓蒙時代", "example_en": "Deism was popular in the Enlightenment.", "example_ja": "理神論は啓蒙時代に広まった。" }
+    ],
+    "warn": ["theism(有神論)や atheism(無神論)と区別。理性を重んじる立場"],
+    "etym_note": "ラテン語 deus（神）に主義を表す -ism が付いた語。17世紀に思想用語として定着した。",
+    "etym_chain": [
+      { "node": "deus", "sub": "神", "era": "ラテン語" },
+      { "node": "deism", "sub": "理神論", "era": "17世紀" },
+      { "node": "deism", "sub": "理神論", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "believe in deism", "ja": "理神論を信じる" },
+      { "en": "the ideas of deism", "ja": "理神論の考え" },
+      { "en": "deism and theism", "ja": "理神論と有神論" },
+      { "en": "Enlightenment deism", "ja": "啓蒙期の理神論" },
+      { "en": "a form of deism", "ja": "理神論の一形態" },
+      { "en": "reject deism", "ja": "理神論を否定する" }
+    ],
+    "related": [
+      { "en": "theism", "ja": "有神論" },
+      { "en": "atheism", "ja": "無神論" },
+      { "en": "religion", "ja": "宗教" },
+      { "en": "philosophy", "ja": "哲学" }
+    ],
+    "faq": [
+      { "q": "deism と theism の違いは？", "a": "theism は神が世界に関わり続けると考え、deism は創造後は介入しないと考えます。" },
+      { "q": "いつ広まった？", "a": "主に17〜18世紀の啓蒙時代に、理性を重んじる立場として広まりました。" }
+    ],
+    "quiz": [
+      { "q": "deism(理神論)の考えは？", "A": "神は創造者だが世界に介入しない", "B": "神は存在しない", "C": "多くの神がいる", "D": "神が奇跡を頻繁に起こす", "correct": "A" },
+      { "q": "deism の反対に近いのは？", "A": "atheism(無神論)", "B": "optimism(楽観主義)", "C": "realism(現実主義)", "D": "tourism(観光)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "dermal",
+    "pron": "ˈdɜːrməl",
+    "kana": "ダーマル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ギリシャ語 derma(皮膚)+-al",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "医学"],
+    "meaning_main": "皮膚の／真皮の",
+    "description": "dermal（ダーマル）は「皮膚の・真皮の」という意味の形容詞。特に皮膚の内側の層「真皮（dermis）」に関することを指します。dermal filler（皮膚充填剤）などで使われます。",
+    "keywords": ["dermal 意味", "dermal 使い方", "dermal 発音", "皮膚の 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】皮膚の・真皮の", "note": "皮膚、特に真皮(dermis)に関すること" }
+    ],
+    "usages": [
+      { "title": "① 医学・美容で", "desc": "皮膚に関する", "example_en": "Dermal fillers are used to smooth wrinkles.", "example_ja": "皮膚充填剤はしわを目立たなくするのに使われる。" },
+      { "title": "② 皮膚の層", "desc": "真皮の", "example_en": "The dermal layer contains blood vessels.", "example_ja": "真皮の層には血管が含まれる。" }
+    ],
+    "warn": ["dermis(真皮)の形容詞。epidermal(表皮の)と区別"],
+    "etym_note": "ギリシャ語 derma（皮膚）に形容詞化の -al が付いた語。derma- は皮膚を表す語幹。",
+    "etym_chain": [
+      { "node": "derma", "sub": "皮膚", "era": "ギリシャ語" },
+      { "node": "dermal", "sub": "皮膚の", "era": "近代英語" },
+      { "node": "dermal", "sub": "皮膚の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "dermal layer", "ja": "真皮層" },
+      { "en": "dermal filler", "ja": "皮膚充填剤" },
+      { "en": "dermal tissue", "ja": "皮膚組織" },
+      { "en": "dermal absorption", "ja": "経皮吸収" },
+      { "en": "dermal cells", "ja": "皮膚の細胞" },
+      { "en": "dermal irritation", "ja": "皮膚の刺激・炎症" }
+    ],
+    "related": [
+      { "en": "skin", "ja": "皮膚" },
+      { "en": "dermis", "ja": "真皮" },
+      { "en": "epidermal", "ja": "表皮の" },
+      { "en": "dermatology", "ja": "皮膚科" }
+    ],
+    "faq": [
+      { "q": "dermal と epidermal の違いは？", "a": "dermal は「真皮（内側の層）の」、epidermal は「表皮（一番外側の層）の」です。" },
+      { "q": "dermal filler とは？", "a": "しわやくぼみを目立たなくするため皮膚に注入する充填剤です。" }
+    ],
+    "quiz": [
+      { "q": "dermal の意味は？", "A": "皮膚の・真皮の", "B": "骨の", "C": "筋肉の", "D": "血液の", "correct": "A" },
+      { "q": "dermal の語源 derma の意味は？", "A": "皮膚", "B": "心臓", "C": "水", "D": "光", "correct": "A" }
+    ]
+  },
+  {
+    "english": "diatonic",
+    "pron": "ˌdaɪəˈtɑːnɪk",
+    "kana": "ダイアトニック",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ギリシャ語 diatonikos(全音階の)から",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "音楽"],
+    "meaning_main": "全音階の／ダイアトニックの（音楽用語）",
+    "description": "diatonic（ダイアトニック）は音楽で「全音階の」という意味の形容詞。1オクターブを7音（ドレミファソラシ）で構成する音階に関することを指し、半音階（chromatic）と対比されます。",
+    "keywords": ["diatonic 意味", "diatonic scale", "diatonic 発音", "全音階 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】全音階の・ダイアトニックの", "note": "ドレミファソラシの7音からなる音階に関すること。chromatic の対" }
+    ],
+    "usages": [
+      { "title": "① 音階として", "desc": "音楽理論で", "example_en": "The song uses a simple diatonic scale.", "example_ja": "その曲は単純な全音階を使っている。" },
+      { "title": "② 和音・進行", "desc": "調性の中で", "example_en": "These chords are all diatonic.", "example_ja": "これらの和音はすべて全音階内のものだ。" }
+    ],
+    "warn": ["chromatic(半音階の)の対比。7音の音階に基づく"],
+    "etym_note": "ギリシャ語 diatonikos（dia-「通して」+ tonos「音」）に由来する音楽用語。",
+    "etym_chain": [
+      { "node": "diatonikos", "sub": "音を通した", "era": "ギリシャ語" },
+      { "node": "diatonic", "sub": "全音階の", "era": "近代英語" },
+      { "node": "diatonic", "sub": "全音階の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a diatonic scale", "ja": "全音階" },
+      { "en": "diatonic chords", "ja": "ダイアトニックコード" },
+      { "en": "diatonic harmony", "ja": "全音階的和声" },
+      { "en": "the diatonic notes", "ja": "全音階の音" },
+      { "en": "diatonic and chromatic", "ja": "全音階と半音階" },
+      { "en": "a diatonic melody", "ja": "全音階の旋律" }
+    ],
+    "related": [
+      { "en": "chromatic", "ja": "半音階の" },
+      { "en": "scale", "ja": "音階" },
+      { "en": "note", "ja": "音符・音" },
+      { "en": "music", "ja": "音楽" }
+    ],
+    "faq": [
+      { "q": "diatonic と chromatic の違いは？", "a": "diatonic は7音の全音階、chromatic は半音を含む12音の半音階に関する語です。" },
+      { "q": "身近な例は？", "a": "ピアノの白鍵だけで作るドレミファソラシの音階が全音階（diatonic）の一例です。" }
+    ],
+    "quiz": [
+      { "q": "diatonic の意味は？", "A": "全音階の", "B": "半音階の", "C": "無音の", "D": "とても大きい音の", "correct": "A" },
+      { "q": "diatonic の対になる語は？", "A": "chromatic(半音階の)", "B": "electric(電気の)", "C": "classic(古典の)", "D": "dramatic(劇的な)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "dipper",
+    "pron": "ˈdɪpər",
+    "kana": "ディッパー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "dip(浸す・すくう)+er",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "道具/天体"],
+    "meaning_main": "ひしゃく／(the Big Dipper)北斗七星／水鳥カワガラス",
+    "description": "dipper（ディッパー）は水などをくむ「ひしゃく」を表す名詞。ひしゃくの形にちなみ、the Big Dipper で「北斗七星」を指します。また水中に潜ってえさをとる鳥「カワガラス」の名でもあります。",
+    "keywords": ["dipper 意味", "Big Dipper 北斗七星", "dipper 発音", "ひしゃく 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】ひしゃく", "note": "水などをくむ長柄の道具" },
+      { "hinshi": "【名詞】(the Big Dipper)北斗七星", "note": "ひしゃく形の星の並び。小さいものは the Little Dipper" },
+      { "hinshi": "【名詞】カワガラス", "note": "水に潜ってえさをとる鳥" }
+    ],
+    "usages": [
+      { "title": "① 道具として", "desc": "水をくむ", "example_en": "She filled the bucket with a dipper.", "example_ja": "彼女はひしゃくでバケツを満たした。" },
+      { "title": "② 星座として", "desc": "北斗七星", "example_en": "You can see the Big Dipper tonight.", "example_ja": "今夜は北斗七星が見える。" }
+    ],
+    "warn": ["the Big Dipper＝北斗七星（ひしゃく形）。動詞 dip(浸す)から"],
+    "etym_note": "dip（浸す・すくう、古英語 dyppan）に -er が付いた語。「すくう道具」の意。",
+    "etym_chain": [
+      { "node": "dyppan", "sub": "浸す", "era": "古英語" },
+      { "node": "dip", "sub": "浸す・すくう", "era": "中英語" },
+      { "node": "dipper", "sub": "ひしゃく", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the Big Dipper", "ja": "北斗七星" },
+      { "en": "the Little Dipper", "ja": "小北斗(こぐま座の一部)" },
+      { "en": "a water dipper", "ja": "水くみのひしゃく" },
+      { "en": "fill with a dipper", "ja": "ひしゃくで満たす" },
+      { "en": "a metal dipper", "ja": "金属のひしゃく" },
+      { "en": "scoop with a dipper", "ja": "ひしゃくですくう" }
+    ],
+    "related": [
+      { "en": "dip", "ja": "浸す・すくう" },
+      { "en": "ladle", "ja": "おたま" },
+      { "en": "scoop", "ja": "すくう・スプーン" },
+      { "en": "star", "ja": "星" }
+    ],
+    "faq": [
+      { "q": "the Big Dipper とは？", "a": "ひしゃくの形に並んだ7つの星、つまり北斗七星のことです。" },
+      { "q": "dipper は鳥の名でもある？", "a": "はい。水に潜ってえさをとる「カワガラス」の英名でもあります。" }
+    ],
+    "quiz": [
+      { "q": "the Big Dipper の意味は？", "A": "北斗七星", "B": "天の川", "C": "流れ星", "D": "満月", "correct": "A" },
+      { "q": "dipper（道具）の意味は？", "A": "ひしゃく", "B": "包丁", "C": "はさみ", "D": "定規", "correct": "A" }
+    ]
+  },
+  {
+    "english": "disagreeably",
+    "pron": "ˌdɪsəˈɡriːəbli",
+    "kana": "ディサグリーアブリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "disagreeable(不快な)+ly",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "副詞"],
+    "meaning_main": "不快に／感じ悪く／いやな感じで",
+    "description": "disagreeably（ディサグリーアブリー）は「不快に・感じ悪く」という意味の副詞。disagreeable（不快な・感じの悪い）に-lyが付いた形で、いやな印象を与える様子を表します。",
+    "keywords": ["disagreeably 意味", "disagreeably 使い方", "disagreeably 発音", "disagreeable 副詞"],
+    "meanings": [
+      { "hinshi": "【副詞】不快に・感じ悪く", "note": "いやな感じ・不愉快な様子で" }
+    ],
+    "usages": [
+      { "title": "① 態度・口調", "desc": "感じ悪く", "example_en": "He spoke to us disagreeably.", "example_ja": "彼は私たちに感じ悪く話しかけた。" },
+      { "title": "② 感覚として", "desc": "不快に", "example_en": "The room smelled disagreeably of smoke.", "example_ja": "部屋は煙で不快なにおいがした。" }
+    ],
+    "warn": ["agreeably(気持ちよく)の反対。disagreeable(不快な)の副詞"],
+    "etym_note": "agree（一致する・気に入る）に否定の dis- が付いた disagreeable（不快な）を、副詞化の -ly で修飾語にした語。",
+    "etym_chain": [
+      { "node": "agreeable", "sub": "気持ちのよい", "era": "中英語" },
+      { "node": "disagreeable", "sub": "不快な", "era": "近代英語" },
+      { "node": "disagreeably", "sub": "不快に", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "speak disagreeably", "ja": "感じ悪く話す" },
+      { "en": "disagreeably cold", "ja": "不快なほど寒い" },
+      { "en": "smell disagreeably", "ja": "いやなにおいがする" },
+      { "en": "behave disagreeably", "ja": "感じ悪く振る舞う" },
+      { "en": "disagreeably surprised", "ja": "不快な驚きを覚えて" },
+      { "en": "react disagreeably", "ja": "不快そうに反応する" }
+    ],
+    "related": [
+      { "en": "disagreeable", "ja": "不快な" },
+      { "en": "agreeably", "ja": "気持ちよく" },
+      { "en": "unpleasantly", "ja": "不快に" },
+      { "en": "rudely", "ja": "無礼に" }
+    ],
+    "faq": [
+      { "q": "disagreeably の反対は？", "a": "agreeably（気持ちよく・快く）です。" },
+      { "q": "元の形容詞は？", "a": "disagreeable（不快な・感じの悪い）です。" }
+    ],
+    "quiz": [
+      { "q": "disagreeably の意味は？", "A": "不快に・感じ悪く", "B": "気持ちよく", "C": "静かに", "D": "急いで", "correct": "A" },
+      { "q": "disagreeably の対義語は？", "A": "agreeably(気持ちよく)", "B": "quickly(素早く)", "C": "loudly(大声で)", "D": "sadly(悲しげに)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "discernible",
+    "pron": "dɪˈsɜːrnəbəl",
+    "kana": "ディサーナブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "discern(識別する)+ible",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "抽象"],
+    "meaning_main": "認められる／識別できる／それと分かる",
+    "description": "discernible（ディサーナブル）は「（注意すれば）見分けられる・それと分かる」という意味の形容詞。はっきりとは目立たないが、認識できる程度に存在することを表します。",
+    "keywords": ["discernible 意味", "discernible 使い方", "discernible 発音", "discern 形容詞"],
+    "meanings": [
+      { "hinshi": "【形容詞】認められる・識別できる", "note": "注意すれば見分けられる・それと分かる程度に存在する" }
+    ],
+    "usages": [
+      { "title": "① わずかに分かる", "desc": "認識できる", "example_en": "There was no discernible difference.", "example_ja": "はっきり分かる違いはなかった。" },
+      { "title": "② かすかな変化", "desc": "見て取れる", "example_en": "A discernible improvement was seen.", "example_ja": "それと分かる改善が見られた。" }
+    ],
+    "warn": ["否定形 no discernible ~（それと分かる〜がない）で頻出。動詞は discern"],
+    "etym_note": "ラテン語 discernere（見分ける、dis-+cernere「ふるい分ける」）由来の discern に、-ible（〜できる）が付いた語。",
+    "etym_chain": [
+      { "node": "discernere", "sub": "見分ける", "era": "ラテン語" },
+      { "node": "discern", "sub": "識別する", "era": "中英語" },
+      { "node": "discernible", "sub": "識別できる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "no discernible difference", "ja": "それと分かる違いがない" },
+      { "en": "a discernible pattern", "ja": "見て取れるパターン" },
+      { "en": "clearly discernible", "ja": "はっきり識別できる" },
+      { "en": "barely discernible", "ja": "かろうじて分かる" },
+      { "en": "a discernible change", "ja": "それと分かる変化" },
+      { "en": "discernible to the eye", "ja": "目で見分けられる" }
+    ],
+    "related": [
+      { "en": "discern", "ja": "識別する" },
+      { "en": "noticeable", "ja": "目立つ・気づく" },
+      { "en": "perceptible", "ja": "知覚できる" },
+      { "en": "visible", "ja": "目に見える" }
+    ],
+    "faq": [
+      { "q": "discernible の意味は？", "a": "「注意すれば見分けられる・それと分かる」という意味です。" },
+      { "q": "動詞形は？", "a": "discern（識別する・見分ける）です。" }
+    ],
+    "quiz": [
+      { "q": "discernible の意味は？", "A": "認められる・識別できる", "B": "全く見えない", "C": "食べられる", "D": "壊れやすい", "correct": "A" },
+      { "q": "discernible の動詞形は？", "A": "discern(識別する)", "B": "describe(描写する)", "C": "discuss(議論する)", "D": "dismiss(退ける)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "discouraging",
+    "pron": "dɪsˈkɜːrɪdʒɪŋ",
+    "kana": "ディスカリッジング",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "discourage(落胆させる)+ing",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "感情"],
+    "meaning_main": "がっかりさせる／気をくじく／先行きが暗い",
+    "description": "discouraging（ディスカリッジング）は「（人を）がっかりさせる・やる気をくじく」という意味の形容詞。結果や状況が思わしくなく、意欲をそぐような様子を表します。encouraging（励みになる）の反対です。",
+    "keywords": ["discouraging 意味", "discouraging 使い方", "discouraging 発音", "discourage 形容詞"],
+    "meanings": [
+      { "hinshi": "【形容詞】がっかりさせる・気をくじく", "note": "意欲や希望をそぐような。encouraging の反対" }
+    ],
+    "usages": [
+      { "title": "① 結果・知らせ", "desc": "落胆させる", "example_en": "The test results were discouraging.", "example_ja": "テストの結果はがっかりするものだった。" },
+      { "title": "② 状況として", "desc": "先行きが暗い", "example_en": "It was a discouraging start to the year.", "example_ja": "それは先行きの暗い年明けだった。" }
+    ],
+    "warn": ["encouraging(励みになる)の反対。人が主語なら discouraged(落胆した)"],
+    "etym_note": "courage（勇気、ラテン語 cor「心」由来）に否定の dis- が付いた discourage に -ing が付いた語。",
+    "etym_chain": [
+      { "node": "corage", "sub": "勇気", "era": "古フランス語" },
+      { "node": "discourage", "sub": "落胆させる", "era": "中英語" },
+      { "node": "discouraging", "sub": "がっかりさせる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "discouraging news", "ja": "がっかりする知らせ" },
+      { "en": "discouraging results", "ja": "思わしくない結果" },
+      { "en": "deeply discouraging", "ja": "ひどく落胆させる" },
+      { "en": "a discouraging sign", "ja": "先行きの暗い兆候" },
+      { "en": "sound discouraging", "ja": "がっかりする話に聞こえる" },
+      { "en": "rather discouraging", "ja": "かなり気をくじく" }
+    ],
+    "related": [
+      { "en": "discourage", "ja": "落胆させる" },
+      { "en": "discouraged", "ja": "落胆した" },
+      { "en": "encouraging", "ja": "励みになる" },
+      { "en": "disheartening", "ja": "がっかりさせる" }
+    ],
+    "faq": [
+      { "q": "discouraging と discouraged の違いは？", "a": "discouraging は「(物事が)がっかりさせる」、discouraged は「(人が)落胆した」です。" },
+      { "q": "反対語は？", "a": "encouraging（励みになる・心強い）です。" }
+    ],
+    "quiz": [
+      { "q": "discouraging の意味は？", "A": "がっかりさせる・気をくじく", "B": "励みになる", "C": "楽しい", "D": "静かな", "correct": "A" },
+      { "q": "discouraging の対義語は？", "A": "encouraging(励みになる)", "B": "exciting(わくわくする)", "C": "boring(退屈な)", "D": "amazing(驚くべき)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "disinformation",
+    "pron": "ˌdɪsɪnfərˈmeɪʃən",
+    "kana": "ディスインフォメーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "dis-(否定)+information(情報)",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "社会/報道"],
+    "meaning_main": "偽情報／(意図的に流す)虚偽の情報",
+    "description": "disinformation（ディスインフォメーション）は「（人をあざむくために意図的に流す）偽情報」を表す名詞。単なる誤り（misinformation）と違い、故意にだます目的があるのが特徴です。",
+    "keywords": ["disinformation 意味", "misinformation 違い", "disinformation 発音", "偽情報 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】偽情報・意図的な虚偽情報", "note": "だます目的で故意に流す誤った情報。不可算" }
+    ],
+    "usages": [
+      { "title": "① 情報操作", "desc": "意図的な虚偽", "example_en": "The campaign spread disinformation online.", "example_ja": "そのキャンペーンはネットで偽情報を広めた。" },
+      { "title": "② 対策の話題", "desc": "見抜く", "example_en": "We must fight disinformation.", "example_ja": "私たちは偽情報と戦わねばならない。" }
+    ],
+    "warn": ["misinformation(誤情報＝故意でない)と区別。dis-＝故意にだます"],
+    "etym_note": "information（情報）に否定・敵対の dis- が付いた語。ロシア語 dezinformatsiya の訳語として広まった。",
+    "etym_chain": [
+      { "node": "information", "sub": "情報", "era": "近代英語" },
+      { "node": "disinformation", "sub": "偽情報", "era": "20世紀" },
+      { "node": "disinformation", "sub": "偽情報", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "spread disinformation", "ja": "偽情報を広める" },
+      { "en": "a disinformation campaign", "ja": "偽情報工作" },
+      { "en": "online disinformation", "ja": "ネット上の偽情報" },
+      { "en": "combat disinformation", "ja": "偽情報に対抗する" },
+      { "en": "state disinformation", "ja": "国家による偽情報" },
+      { "en": "detect disinformation", "ja": "偽情報を見抜く" }
+    ],
+    "related": [
+      { "en": "misinformation", "ja": "誤情報" },
+      { "en": "propaganda", "ja": "プロパガンダ" },
+      { "en": "information", "ja": "情報" },
+      { "en": "fake", "ja": "偽の" }
+    ],
+    "faq": [
+      { "q": "disinformation と misinformation の違いは？", "a": "disinformation は「だます目的で故意に流す偽情報」、misinformation は「(故意でない)誤った情報」です。" },
+      { "q": "身近な例は？", "a": "選挙や国際問題で人々を誤らせるために意図的に流されるうそなどです。" }
+    ],
+    "quiz": [
+      { "q": "disinformation の意味は？", "A": "意図的に流す偽情報", "B": "正しい統計", "C": "天気予報", "D": "取扱説明書", "correct": "A" },
+      { "q": "misinformation との違いは？", "A": "disinformation は故意にだます", "B": "両者は全く同じ", "C": "disinformation は真実", "D": "misinformation は故意", "correct": "A" }
+    ]
+  },
+  {
+    "english": "disingenuous",
+    "pron": "ˌdɪsɪnˈdʒenjuəs",
+    "kana": "ディスインジェニュアス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "dis-(否定)+ingenuous(率直な)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "抽象"],
+    "meaning_main": "不誠実な／うわべだけの／腹に一物ある",
+    "description": "disingenuous（ディスインジェニュアス）は「（率直そうに見せかけて）本心を隠した、不誠実な」という意味の形容詞。ingenuous（純真な・率直な）の反対で、狡猾さを含みます。",
+    "keywords": ["disingenuous 意味", "disingenuous 使い方", "disingenuous 発音", "不誠実 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】不誠実な・うわべだけの", "note": "率直そうに見せて本心を隠すこと。ingenuous(率直な)の反対" }
+    ],
+    "usages": [
+      { "title": "① 見せかけの誠実さ", "desc": "本心を隠す", "example_en": "His apology seemed disingenuous.", "example_ja": "彼の謝罪はうわべだけに思えた。" },
+      { "title": "② 議論・弁明", "desc": "ずるい主張", "example_en": "It's disingenuous to claim you didn't know.", "example_ja": "知らなかったと主張するのは不誠実だ。" }
+    ],
+    "warn": ["ingenuous(純真な・率直な)の反対。ingenious(独創的な)と混同しない"],
+    "etym_note": "ラテン語 ingenuus（生まれの良い・率直な）由来の ingenuous に否定の dis- が付いた語。",
+    "etym_chain": [
+      { "node": "ingenuus", "sub": "率直な・生まれの良い", "era": "ラテン語" },
+      { "node": "ingenuous", "sub": "純真な・率直な", "era": "近代英語" },
+      { "node": "disingenuous", "sub": "不誠実な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a disingenuous answer", "ja": "不誠実な答え" },
+      { "en": "sound disingenuous", "ja": "うわべだけに聞こえる" },
+      { "en": "disingenuous claims", "ja": "ずるい主張" },
+      { "en": "somewhat disingenuous", "ja": "いくぶん不誠実な" },
+      { "en": "a disingenuous smile", "ja": "腹に一物ある笑み" },
+      { "en": "deeply disingenuous", "ja": "きわめて不誠実な" }
+    ],
+    "related": [
+      { "en": "ingenuous", "ja": "純真な・率直な" },
+      { "en": "insincere", "ja": "不誠実な" },
+      { "en": "deceitful", "ja": "人を欺く" },
+      { "en": "sincere", "ja": "誠実な" }
+    ],
+    "faq": [
+      { "q": "disingenuous と insincere の違いは？", "a": "ほぼ同義ですが、disingenuous は「率直・純真そうに装う」ずるさを特に含みます。" },
+      { "q": "ingenious と混同しやすい？", "a": "はい。ingenious は「独創的な」で全く別の語です。綴りと意味に注意しましょう。" }
+    ],
+    "quiz": [
+      { "q": "disingenuous の意味は？", "A": "不誠実な・うわべだけの", "B": "とても正直な", "C": "独創的な", "D": "親切な", "correct": "A" },
+      { "q": "disingenuous の対義語は？", "A": "sincere(誠実な)", "B": "clever(賢い)", "C": "quiet(静かな)", "D": "brave(勇敢な)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "dismissive",
+    "pron": "dɪsˈmɪsɪv",
+    "kana": "ディスミッシブ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "dismiss(退ける)+ive",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "態度"],
+    "meaning_main": "そっけない／軽くあしらう／取り合わない",
+    "description": "dismissive（ディスミッシブ）は「（相手や意見を）取るに足らないものとして軽くあしらう、そっけない」という意味の形容詞。相手を見下すような冷たい態度を表します。",
+    "keywords": ["dismissive 意味", "dismissive 使い方", "dismissive 発音", "dismiss 形容詞"],
+    "meanings": [
+      { "hinshi": "【形容詞】そっけない・軽くあしらう", "note": "相手や意見を重要でないものとして取り合わない態度" }
+    ],
+    "usages": [
+      { "title": "① 態度として", "desc": "取り合わない", "example_en": "He was dismissive of my idea.", "example_ja": "彼は私の考えを軽くあしらった。" },
+      { "title": "② 口調・しぐさ", "desc": "そっけない", "example_en": "She gave a dismissive wave.", "example_ja": "彼女はそっけなく手を振ってあしらった。" }
+    ],
+    "warn": ["be dismissive of ~ で「〜を軽視する」。動詞は dismiss"],
+    "etym_note": "ラテン語 dimittere（去らせる、dis-+mittere「送る」）由来の dismiss に、-ive が付いた語。",
+    "etym_chain": [
+      { "node": "dimittere", "sub": "去らせる", "era": "ラテン語" },
+      { "node": "dismiss", "sub": "退ける", "era": "中英語" },
+      { "node": "dismissive", "sub": "そっけない", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be dismissive of", "ja": "〜を軽視する" },
+      { "en": "a dismissive attitude", "ja": "取り合わない態度" },
+      { "en": "a dismissive tone", "ja": "そっけない口調" },
+      { "en": "a dismissive gesture", "ja": "あしらうしぐさ" },
+      { "en": "dismissive of concerns", "ja": "懸念を軽んじて" },
+      { "en": "sound dismissive", "ja": "そっけなく聞こえる" }
+    ],
+    "related": [
+      { "en": "dismiss", "ja": "退ける・解雇する" },
+      { "en": "scornful", "ja": "軽蔑的な" },
+      { "en": "contemptuous", "ja": "見下した" },
+      { "en": "attentive", "ja": "気を配る" }
+    ],
+    "faq": [
+      { "q": "be dismissive of とは？", "a": "「〜を取るに足らないものとして軽視する・そっけなくあしらう」という意味です。" },
+      { "q": "動詞形は？", "a": "dismiss（退ける・解雇する・却下する）です。" }
+    ],
+    "quiz": [
+      { "q": "dismissive の意味は？", "A": "そっけない・軽くあしらう", "B": "熱心な", "C": "親切な", "D": "臆病な", "correct": "A" },
+      { "q": "be dismissive of の意味は？", "A": "〜を軽視する", "B": "〜を尊重する", "C": "〜を心配する", "D": "〜を歓迎する", "correct": "A" }
+    ]
+  },
+  {
+    "english": "dissolving",
+    "pron": "dɪˈzɑːlvɪŋ",
+    "kana": "ディゾルビング",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "dissolve(溶ける)+ing",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "科学"],
+    "meaning_main": "溶けている／溶かすこと／(組織などを)解散すること（dissolve の -ing 形）",
+    "description": "dissolving（ディゾルビング）は dissolve（溶ける・溶かす／解散する）の現在分詞・動名詞。物質が液体に溶けること、また組織・議会などが解散することを表します。",
+    "keywords": ["dissolving 意味", "dissolving 使い方", "dissolving 発音", "dissolve ing"],
+    "meanings": [
+      { "hinshi": "【動詞】溶けている・溶かしている", "note": "固体が液体に溶ける・溶かす。dissolve の -ing 形" },
+      { "hinshi": "【名詞/動名詞】溶解・(組織の)解散", "note": "溶かすこと、議会などを解散すること" }
+    ],
+    "usages": [
+      { "title": "① 溶ける", "desc": "液体に混ざる", "example_en": "The sugar is dissolving in the tea.", "example_ja": "砂糖が紅茶に溶けている。" },
+      { "title": "② 解散する", "desc": "組織を解く", "example_en": "The dissolving of the committee surprised us.", "example_ja": "委員会の解散は私たちを驚かせた。" }
+    ],
+    "warn": ["dissolve は「溶ける/溶かす」と「(組織を)解散する」の両義。つづり ss に注意"],
+    "etym_note": "ラテン語 dissolvere（解き放つ、dis-+solvere「解く」）由来の dissolve に -ing が付いた語。",
+    "etym_chain": [
+      { "node": "dissolvere", "sub": "解き放つ", "era": "ラテン語" },
+      { "node": "dissolve", "sub": "溶ける・解散する", "era": "中英語" },
+      { "node": "dissolving", "sub": "溶けている・解散", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "dissolving in water", "ja": "水に溶けて" },
+      { "en": "slowly dissolving", "ja": "ゆっくり溶けて" },
+      { "en": "a dissolving tablet", "ja": "溶けるタブレット" },
+      { "en": "dissolving the parliament", "ja": "議会を解散すること" },
+      { "en": "dissolving into tears", "ja": "泣き崩れて" },
+      { "en": "keep dissolving", "ja": "溶け続ける" }
+    ],
+    "related": [
+      { "en": "dissolve", "ja": "溶ける・解散する" },
+      { "en": "melt", "ja": "溶ける(固体→液体)" },
+      { "en": "solution", "ja": "溶液・解決" },
+      { "en": "disband", "ja": "解散する" }
+    ],
+    "faq": [
+      { "q": "dissolve と melt の違いは？", "a": "melt は熱で固体そのものが液体になること、dissolve は物質が液体の中に混ざって溶けることです。" },
+      { "q": "「解散」の意味もある？", "a": "はい。議会や組織を dissolve（解散する）と言えます。" }
+    ],
+    "quiz": [
+      { "q": "dissolving の意味は？", "A": "溶けている・溶かすこと", "B": "凍っている", "C": "燃えている", "D": "固まっている", "correct": "A" },
+      { "q": "dissolve のもう一つの意味は？", "A": "(組織を)解散する", "B": "建設する", "C": "招待する", "D": "記録する", "correct": "A" }
+    ]
+  },
+  {
+    "english": "divergent",
+    "pron": "daɪˈvɜːrdʒənt",
+    "kana": "ダイバージェント",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "diverge(分岐する)+ent",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "抽象"],
+    "meaning_main": "分岐する／(意見などが)異なる・食い違う",
+    "description": "divergent（ダイバージェント）は「（一点から）枝分かれする、（意見・方向が）異なる・食い違う」という意味の形容詞。converge（収束する）の反対で、離れていく・多様であることを表します。",
+    "keywords": ["divergent 意味", "divergent 使い方", "divergent 発音", "diverge 形容詞"],
+    "meanings": [
+      { "hinshi": "【形容詞】分岐する・食い違う", "note": "一点から離れていく、意見や方向が異なること。convergent の反対" }
+    ],
+    "usages": [
+      { "title": "① 意見の相違", "desc": "食い違う", "example_en": "They held divergent views on the issue.", "example_ja": "彼らはその問題で食い違う意見を持っていた。" },
+      { "title": "② 方向の分岐", "desc": "枝分かれ", "example_en": "The two paths became divergent.", "example_ja": "2つの道は分かれていった。" }
+    ],
+    "warn": ["convergent(収束する)の反対。動詞は diverge"],
+    "etym_note": "ラテン語 divergere（分かれて進む、dis-+vergere「傾く」）由来の diverge に、-ent が付いた語。",
+    "etym_chain": [
+      { "node": "divergere", "sub": "分かれて進む", "era": "ラテン語" },
+      { "node": "diverge", "sub": "分岐する", "era": "近代英語" },
+      { "node": "divergent", "sub": "分岐する・異なる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "divergent views", "ja": "食い違う意見" },
+      { "en": "divergent opinions", "ja": "分かれた意見" },
+      { "en": "divergent paths", "ja": "分かれていく道" },
+      { "en": "widely divergent", "ja": "大きく異なる" },
+      { "en": "divergent interests", "ja": "食い違う利害" },
+      { "en": "divergent thinking", "ja": "拡散的思考" }
+    ],
+    "related": [
+      { "en": "diverge", "ja": "分岐する" },
+      { "en": "convergent", "ja": "収束する" },
+      { "en": "different", "ja": "異なる" },
+      { "en": "conflicting", "ja": "対立する" }
+    ],
+    "faq": [
+      { "q": "divergent の反対は？", "a": "convergent（収束する・一点に向かう）です。" },
+      { "q": "divergent thinking とは？", "a": "一つの問題に多様なアイデアを広げて考える「拡散的思考」のことです。" }
+    ],
+    "quiz": [
+      { "q": "divergent の意味は？", "A": "分岐する・食い違う", "B": "一致する", "C": "静かな", "D": "重い", "correct": "A" },
+      { "q": "divergent の対義語は？", "A": "convergent(収束する)", "B": "different(異なる)", "C": "distant(遠い)", "D": "direct(直接の)", "correct": "A" }
+    ]
+  }
+]
