@@ -1,0 +1,986 @@
+[
+  {
+    "english": "quark",
+    "pron": "kwɑːrk",
+    "kana": "クォーク",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "物理学者ゲルマンが小説の語から命名",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "物理"],
+    "meaning_main": "クォーク（物質を構成する最小単位の素粒子）",
+    "description": "quark（クォーク）は陽子や中性子などを構成する、これ以上分けられないとされる素粒子。アップ・ダウンなど6種類があり、3つ集まって陽子・中性子を作ります。物質の最も基本的な構成要素の一つです。",
+    "keywords": ["quark 意味", "quark 使い方", "quark 発音", "クォーク 素粒子"],
+    "meanings": [
+      { "hinshi": "【名詞】クォーク", "note": "陽子・中性子を構成する素粒子。6種類ある。物質の最小単位の一つ" }
+    ],
+    "usages": [
+      { "title": "① 素粒子として", "desc": "物理学で", "example_en": "Protons are made of quarks.", "example_ja": "陽子はクォークからできている。" },
+      { "title": "② 種類の話題", "desc": "6種", "example_en": "There are six types of quark.", "example_ja": "クォークには6種類ある。" }
+    ],
+    "warn": ["中間子(meson)や陽子を構成する。単独では取り出せないとされる"],
+    "etym_note": "物理学者マレー・ゲルマンが、ジョイスの小説の語 quark から名づけたとされる。",
+    "etym_chain": [
+      { "node": "quark", "sub": "小説中の語", "era": "20世紀" },
+      { "node": "quark", "sub": "素粒子の名", "era": "1960年代" },
+      { "node": "quark", "sub": "クォーク", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an up quark", "ja": "アップクォーク" },
+      { "en": "a down quark", "ja": "ダウンクォーク" },
+      { "en": "made of quarks", "ja": "クォークからできている" },
+      { "en": "quark and antiquark", "ja": "クォークと反クォーク" },
+      { "en": "six types of quark", "ja": "6種類のクォーク" },
+      { "en": "quarks and leptons", "ja": "クォークとレプトン" }
+    ],
+    "related": [
+      { "en": "particle", "ja": "粒子" },
+      { "en": "meson", "ja": "中間子" },
+      { "en": "proton", "ja": "陽子" },
+      { "en": "physics", "ja": "物理学" }
+    ],
+    "faq": [
+      { "q": "quark は何を作る？", "a": "3つ集まって陽子や中性子を作ります。クォークと反クォークが結びつくと中間子になります。" },
+      { "q": "何種類ある？", "a": "アップ・ダウン・チャーム・ストレンジ・トップ・ボトムの6種類です。" }
+    ],
+    "quiz": [
+      { "q": "quark とは？", "A": "物質を構成する素粒子", "B": "大きな星", "C": "金属元素", "D": "細胞", "correct": "A" },
+      { "q": "陽子は何からできている？", "A": "クォーク", "B": "砂", "C": "水", "D": "ガラス", "correct": "A" }
+    ]
+  },
+  {
+    "english": "queue",
+    "pron": "kjuː",
+    "kana": "キュー",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 queue(尾・列)から",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "英国式"],
+    "meaning_main": "(順番待ちの)列／列に並ぶ（主に英。米は line）",
+    "description": "queue（キュー）は「順番を待つ人・車などの列」を表す名詞、また「列に並ぶ」という動詞（主に英国、米国では line / line up）。IT では処理を順に待たせる「待ち行列」も指します。発音は「キュー」です。",
+    "keywords": ["queue 意味", "queue 使い方", "queue 発音", "列 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】(順番待ちの)列", "note": "主に英。米では line。IT では待ち行列" },
+      { "hinshi": "【動詞】列に並ぶ", "note": "queue up で「列を作って並ぶ」" }
+    ],
+    "usages": [
+      { "title": "① 列として", "desc": "順番待ち", "example_en": "There was a long queue at the ticket office.", "example_ja": "切符売り場に長い列ができていた。" },
+      { "title": "② 並ぶ", "desc": "動詞", "example_en": "We queued for an hour.", "example_ja": "私たちは1時間並んだ。" }
+    ],
+    "warn": ["発音は「キュー」。米国では line/line up。IT の待ち行列も queue"],
+    "etym_note": "フランス語 queue（尾・しっぽ、ラテン語 cauda 由来）から。「後ろに続く列」の意へ。",
+    "etym_chain": [
+      { "node": "cauda", "sub": "尾", "era": "ラテン語" },
+      { "node": "queue", "sub": "尾・列", "era": "フランス語" },
+      { "node": "queue", "sub": "順番待ちの列", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a long queue", "ja": "長い列" },
+      { "en": "queue up", "ja": "列に並ぶ" },
+      { "en": "join the queue", "ja": "列に加わる" },
+      { "en": "jump the queue", "ja": "列に割り込む" },
+      { "en": "in the queue", "ja": "列の中で" },
+      { "en": "a queue of cars", "ja": "車の列" }
+    ],
+    "related": [
+      { "en": "line", "ja": "(米)列" },
+      { "en": "line up", "ja": "並ぶ" },
+      { "en": "wait", "ja": "待つ" },
+      { "en": "row", "ja": "列・並び" }
+    ],
+    "faq": [
+      { "q": "queue と line の違いは？", "a": "同じ「列」で、queue は主に英国、line は主に米国で使います。" },
+      { "q": "jump the queue とは？", "a": "「列に割り込む」という意味です。" }
+    ],
+    "quiz": [
+      { "q": "queue の意味は？", "A": "(順番待ちの)列", "B": "地図", "C": "階段", "D": "鍵", "correct": "A" },
+      { "q": "queue の米国式の語は？", "A": "line", "B": "row", "C": "queue のみ", "D": "column", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ra",
+    "pron": "rɑː",
+    "kana": "ラー",
+    "hinshi": "名詞（固有名詞）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "古代エジプト語 Ra(太陽神)から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "神話"],
+    "meaning_main": "ラー（古代エジプトの太陽神）",
+    "description": "ra（ラー）は古代エジプト神話の太陽神。神々の王とされ、太陽とともに天空を渡ると信じられました。ハヤブサの頭に太陽円盤をのせた姿で描かれます。文中では大文字 Ra と書きます。",
+    "keywords": ["ra 意味", "Ra 太陽神", "ra 発音", "ラー エジプト神話"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ラー(太陽神)", "note": "古代エジプトの太陽神。神々の王。文中では大文字 Ra" }
+    ],
+    "usages": [
+      { "title": "① 神として", "desc": "神話の話題で", "example_en": "Ra was the sun god of ancient Egypt.", "example_ja": "ラーは古代エジプトの太陽神だった。" },
+      { "title": "② 大文字で書く", "desc": "固有名詞", "example_en": "The pharaohs were linked to Ra.", "example_ja": "ファラオたちはラーと結びつけられた。" }
+    ],
+    "warn": ["文中では大文字 Ra。Re とも表記される"],
+    "etym_note": "古代エジプト語で「太陽」を意味する Ra に由来する。太陽神の名として広く知られる。",
+    "etym_chain": [
+      { "node": "Ra", "sub": "太陽", "era": "古代エジプト" },
+      { "node": "Ra", "sub": "太陽神ラー", "era": "古代〜" },
+      { "node": "Ra", "sub": "ラー", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the sun god Ra", "ja": "太陽神ラー" },
+      { "en": "worship Ra", "ja": "ラーを崇拝する" },
+      { "en": "the eye of Ra", "ja": "ラーの目" },
+      { "en": "Ra and the pharaohs", "ja": "ラーとファラオ" },
+      { "en": "temples of Ra", "ja": "ラーの神殿" },
+      { "en": "the journey of Ra", "ja": "ラーの(天空の)旅" }
+    ],
+    "related": [
+      { "en": "egypt", "ja": "エジプト" },
+      { "en": "god", "ja": "神" },
+      { "en": "sun", "ja": "太陽" },
+      { "en": "myth", "ja": "神話" }
+    ],
+    "faq": [
+      { "q": "Ra は何の神？", "a": "古代エジプトの太陽神で、神々の王とされました。" },
+      { "q": "どんな姿で描かれる？", "a": "ハヤブサの頭に太陽円盤をのせた姿でよく描かれます。" }
+    ],
+    "quiz": [
+      { "q": "Ra とは？", "A": "古代エジプトの太陽神", "B": "海の怪物", "C": "古代の武器", "D": "星座の名", "correct": "A" },
+      { "q": "Ra は何をつかさどる神？", "A": "太陽", "B": "海", "C": "戦争", "D": "収穫", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ragù",
+    "pron": "rɑːˈɡuː",
+    "kana": "ラグー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "イタリア語 ragù(肉の煮込みソース)から",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "食べ物"],
+    "meaning_main": "ラグー（イタリアの肉入り煮込みソース）",
+    "description": "ragù（ラグー）はイタリア料理で、ひき肉や角切り肉を野菜・トマトなどと長時間煮込んだソース。パスタに合わせます。ボローニャ風のものが ragù alla bolognese（いわゆるボロネーゼ）です。フランス語の ragout が語源です。",
+    "keywords": ["ragù 意味", "ragù bolognese", "ragù 発音", "ラグー 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】ラグー(肉の煮込みソース)", "note": "肉・野菜・トマトを煮込んだイタリアのパスタソース。ボロネーゼもその一種" }
+    ],
+    "usages": [
+      { "title": "① パスタソース", "desc": "料理の話題で", "example_en": "She served pasta with a rich ragù.", "example_ja": "彼女はコクのあるラグーを添えたパスタを出した。" },
+      { "title": "② ボロネーゼ", "desc": "本場の呼び名", "example_en": "Ragù alla bolognese is the classic meat sauce.", "example_ja": "ラグー・アッラ・ボロネーゼが定番のミートソースだ。" }
+    ],
+    "warn": ["アクセント付き ragù。ボロネーゼ(bolognese)の本場での呼び名でもある"],
+    "etym_note": "フランス語 ragoût（食欲をそそる煮込み）に由来するイタリア語 ragù。肉を長く煮込んだソースを指す。",
+    "etym_chain": [
+      { "node": "ragoût", "sub": "煮込み", "era": "フランス語" },
+      { "node": "ragù", "sub": "肉の煮込みソース", "era": "イタリア語" },
+      { "node": "ragù", "sub": "ラグー", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "ragù alla bolognese", "ja": "ラグー・アッラ・ボロネーゼ" },
+      { "en": "a rich ragù", "ja": "コクのあるラグー" },
+      { "en": "pasta with ragù", "ja": "ラグーのパスタ" },
+      { "en": "make a ragù", "ja": "ラグーを作る" },
+      { "en": "slow-cooked ragù", "ja": "じっくり煮込んだラグー" },
+      { "en": "a meat ragù", "ja": "肉のラグー" }
+    ],
+    "related": [
+      { "en": "bolognese", "ja": "ボロネーゼ" },
+      { "en": "sauce", "ja": "ソース" },
+      { "en": "pasta", "ja": "パスタ" },
+      { "en": "stew", "ja": "煮込み" }
+    ],
+    "faq": [
+      { "q": "ragù と bolognese の違いは？", "a": "ragù は肉の煮込みソース全般で、ボローニャ風のものが ragù alla bolognese（ボロネーゼ）です。" },
+      { "q": "語源は？", "a": "フランス語 ragoût（煮込み）に由来します。" }
+    ],
+    "quiz": [
+      { "q": "ragù とは？", "A": "肉の煮込みソース", "B": "白いクリームソース", "C": "デザート", "D": "パン", "correct": "A" },
+      { "q": "ragù alla bolognese は何の別名？", "A": "ボロネーゼ(ミートソース)", "B": "カルボナーラ", "C": "ペペロンチーノ", "D": "ジェノベーゼ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ready-made",
+    "pron": "ˌrediˈmeɪd",
+    "kana": "レディメイド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ready(用意ができた)+made(作られた)",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "一般"],
+    "meaning_main": "既製の／出来合いの／(考えなどが)ありきたりの",
+    "description": "ready-made（レディメイド）は「（注文でなく）あらかじめ作られた・既製の・出来合いの」という意味の形容詞。既製服や出来合いの食品に使うほか、「（自分で考えずに使える）ありきたりの・借り物の」意味でも使います。",
+    "keywords": ["ready-made 意味", "ready-made 使い方", "ready-made 発音", "既製 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】既製の・出来合いの", "note": "あらかじめ作られた。custom-made(注文製)の対" },
+      { "hinshi": "【形容詞】ありきたりの・借り物の", "note": "自分で考えずに使える既成の(考え・答え)" }
+    ],
+    "usages": [
+      { "title": "① 既製品", "desc": "出来合い", "example_en": "He bought a ready-made suit.", "example_ja": "彼は既製のスーツを買った。" },
+      { "title": "② 既成の考え", "desc": "ありきたり", "example_en": "There is no ready-made answer.", "example_ja": "出来合いの答えなどない。" }
+    ],
+    "warn": ["custom-made / made-to-order(注文製)の対。ハイフンでつなぐ"],
+    "etym_note": "ready（用意のできた）と make の過去分詞 made を結んだ複合語。「すでに作られた」の意。",
+    "etym_chain": [
+      { "node": "ready + made", "sub": "すでに作られた", "era": "近代英語" },
+      { "node": "ready-made", "sub": "既製の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a ready-made suit", "ja": "既製のスーツ" },
+      { "en": "ready-made meals", "ja": "出来合いの食事" },
+      { "en": "a ready-made solution", "ja": "出来合いの解決策" },
+      { "en": "ready-made clothes", "ja": "既製服" },
+      { "en": "no ready-made answer", "ja": "出来合いの答えはない" },
+      { "en": "a ready-made excuse", "ja": "用意された言い訳" }
+    ],
+    "related": [
+      { "en": "custom-made", "ja": "注文製の" },
+      { "en": "prefabricated", "ja": "プレハブの・既製の" },
+      { "en": "off-the-shelf", "ja": "既製の・棚から出してすぐの" },
+      { "en": "handmade", "ja": "手作りの" }
+    ],
+    "faq": [
+      { "q": "ready-made の反対は？", "a": "custom-made / made-to-order（注文製の）です。" },
+      { "q": "比喩的な意味は？", "a": "「自分で考えずに使える、ありきたり・借り物の（考え・答え）」という意味でも使います。" }
+    ],
+    "quiz": [
+      { "q": "ready-made の意味は？", "A": "既製の・出来合いの", "B": "注文製の", "C": "壊れた", "D": "高価な", "correct": "A" },
+      { "q": "ready-made の対義語は？", "A": "custom-made(注文製の)", "B": "well-made(よくできた)", "C": "home-made(手作りの)のみ", "D": "brand-new(新品の)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recommit",
+    "pron": "ˌriːkəˈmɪt",
+    "kana": "リコミット",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-(再び)+commit(約束する)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR B2", "ビジネス"],
+    "meaning_main": "改めて約束する／再び専念する／(再び)委ねる",
+    "description": "recommit（リコミット）は「改めて（強く）約束・決意する・再び専念する」という意味の動詞。re-（再び）+ commit から成り、いったん離れたことに再び本気で取り組む場合などに使います。recommit oneself to ~ の形が定番です。",
+    "keywords": ["recommit 意味", "recommit 使い方", "recommit 発音", "再び約束 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】改めて約束する・再び専念する", "note": "re-(再び)+commit。recommit (oneself) to ~ の形" }
+    ],
+    "usages": [
+      { "title": "① 再び専念する", "desc": "決意を新たに", "example_en": "The company recommitted to safety.", "example_ja": "その会社は安全に改めて取り組むと誓った。" },
+      { "title": "② 自らを捧げ直す", "desc": "oneself を伴って", "example_en": "She recommitted herself to her studies.", "example_ja": "彼女は改めて勉強に専念した。" }
+    ],
+    "warn": ["re-(再び)+commit。commit(約束する・専念する)を再びする"],
+    "etym_note": "「再び」を表す re- と、ラテン語 committere（ゆだねる）由来の commit を結んだ語。",
+    "etym_chain": [
+      { "node": "committere", "sub": "ゆだねる", "era": "ラテン語" },
+      { "node": "commit", "sub": "約束する・専念する", "era": "中英語" },
+      { "node": "recommit", "sub": "改めて約束する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "recommit to", "ja": "〜に改めて取り組む" },
+      { "en": "recommit oneself to", "ja": "改めて〜に専念する" },
+      { "en": "recommit to the goal", "ja": "目標に再び専念する" },
+      { "en": "recommit resources", "ja": "資源を再び投じる" },
+      { "en": "recommit to peace", "ja": "平和に改めて努める" },
+      { "en": "publicly recommit", "ja": "公に改めて誓う" }
+    ],
+    "related": [
+      { "en": "commit", "ja": "約束する・専念する" },
+      { "en": "commitment", "ja": "約束・献身" },
+      { "en": "dedicate", "ja": "捧げる" },
+      { "en": "pledge", "ja": "誓う" }
+    ],
+    "faq": [
+      { "q": "recommit の re- の意味は？", "a": "「再び」を表します。commit（約束する・専念する）をもう一度する、という意味です。" },
+      { "q": "よく使う形は？", "a": "recommit (oneself) to ~（改めて〜に専念する）です。" }
+    ],
+    "quiz": [
+      { "q": "recommit の意味は？", "A": "改めて約束する・再び専念する", "B": "あきらめる", "C": "忘れる", "D": "拒む", "correct": "A" },
+      { "q": "recommit の re- が表すのは？", "A": "再び", "B": "反対に", "C": "下に", "D": "前に", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recontaminate",
+    "pron": "ˌriːkənˈtæmɪneɪt",
+    "kana": "リコンタミネイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-(再び)+contaminate(汚染する)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "科学/衛生"],
+    "meaning_main": "再び汚染する／(いったんきれいにしたものを)再汚染する",
+    "description": "recontaminate（リコンタミネイト）は「（いったん除染・洗浄したものを）再び汚染する」という意味の動詞。re-（再び）+ contaminate から成り、食品衛生や環境・医療の場面で使われます。名詞は recontamination です。",
+    "keywords": ["recontaminate 意味", "recontaminate 使い方", "recontaminate 発音", "再汚染 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】再び汚染する・再汚染する", "note": "いったんきれいにしたものを再び汚す。re-(再び)+contaminate" }
+    ],
+    "usages": [
+      { "title": "① 食品衛生で", "desc": "再汚染", "example_en": "Touching cooked food with dirty hands can recontaminate it.", "example_ja": "汚れた手で調理済み食品に触れると再汚染しうる。" },
+      { "title": "② 環境・医療", "desc": "除染後の再汚染", "example_en": "The site was recontaminated after cleanup.", "example_ja": "その場所は除染後に再び汚染された。" }
+    ],
+    "warn": ["re-(再び)+contaminate(汚染する)。名詞は recontamination"],
+    "etym_note": "「再び」の re- と、ラテン語 contaminare（汚す）由来の contaminate を結んだ語。",
+    "etym_chain": [
+      { "node": "contaminare", "sub": "汚す", "era": "ラテン語" },
+      { "node": "contaminate", "sub": "汚染する", "era": "近代英語" },
+      { "node": "recontaminate", "sub": "再び汚染する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "recontaminate the food", "ja": "食品を再汚染する" },
+      { "en": "avoid recontaminating", "ja": "再汚染を避ける" },
+      { "en": "recontaminate the water", "ja": "水を再び汚染する" },
+      { "en": "risk of recontamination", "ja": "再汚染の危険" },
+      { "en": "recontaminate the wound", "ja": "傷口を再び汚染する" },
+      { "en": "prevent recontamination", "ja": "再汚染を防ぐ" }
+    ],
+    "related": [
+      { "en": "contaminate", "ja": "汚染する" },
+      { "en": "contamination", "ja": "汚染" },
+      { "en": "decontaminate", "ja": "除染する" },
+      { "en": "pollute", "ja": "汚染する" }
+    ],
+    "faq": [
+      { "q": "recontaminate と decontaminate の違いは？", "a": "decontaminate は「汚染を取り除く(除染)」、recontaminate は「再び汚染する」で反対の動きです。" },
+      { "q": "名詞形は？", "a": "recontamination（再汚染）です。" }
+    ],
+    "quiz": [
+      { "q": "recontaminate の意味は？", "A": "再び汚染する", "B": "きれいにする", "C": "冷やす", "D": "乾かす", "correct": "A" },
+      { "q": "recontaminate の反対に近いのは？", "A": "decontaminate(除染する)", "B": "recover(回復する)", "C": "recycle(再生する)", "D": "reduce(減らす)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reconvert",
+    "pron": "ˌriːkənˈvɜːrt",
+    "kana": "リコンバート",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-(再び)+convert(変換する)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR B2", "一般"],
+    "meaning_main": "再び変換する／元の状態に戻す・戻る",
+    "description": "reconvert（リコンバート）は「再び変換する・（変えたものを）元の状態に戻す」という意味の動詞。re-（再び）+ convert から成り、施設・データ・信仰などを元に戻す場合に使われます。名詞は reconversion です。",
+    "keywords": ["reconvert 意味", "reconvert 使い方", "reconvert 発音", "再変換 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】再び変換する・元に戻す", "note": "re-(再び)+convert。変えたものを元の状態や別の状態に戻す" }
+    ],
+    "usages": [
+      { "title": "① 元に戻す", "desc": "施設など", "example_en": "The factory was reconverted to civilian use.", "example_ja": "その工場は民間用に戻された。" },
+      { "title": "② データ・形式", "desc": "再変換", "example_en": "You can reconvert the file to its original format.", "example_ja": "そのファイルを元の形式に再変換できる。" }
+    ],
+    "warn": ["re-(再び)+convert(変換する)。名詞は reconversion"],
+    "etym_note": "「再び」の re- と、ラテン語 convertere（向きを変える）由来の convert を結んだ語。",
+    "etym_chain": [
+      { "node": "convertere", "sub": "向きを変える", "era": "ラテン語" },
+      { "node": "convert", "sub": "変換する", "era": "中英語" },
+      { "node": "reconvert", "sub": "再び変換する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reconvert to", "ja": "〜に(再)変換する・戻す" },
+      { "en": "reconvert the building", "ja": "建物を元の用途に戻す" },
+      { "en": "reconvert the file", "ja": "ファイルを再変換する" },
+      { "en": "reconvert to civilian use", "ja": "民間用に戻す" },
+      { "en": "reconvert the currency", "ja": "通貨を再び換える" },
+      { "en": "reconvert land", "ja": "土地を元に戻す" }
+    ],
+    "related": [
+      { "en": "convert", "ja": "変換する" },
+      { "en": "conversion", "ja": "変換" },
+      { "en": "restore", "ja": "元に戻す" },
+      { "en": "transform", "ja": "変える" }
+    ],
+    "faq": [
+      { "q": "reconvert の re- の意味は？", "a": "「再び」を表します。convert（変換する）を再び行い、元や別の状態に戻すことです。" },
+      { "q": "名詞形は？", "a": "reconversion（再変換）です。" }
+    ],
+    "quiz": [
+      { "q": "reconvert の意味は？", "A": "再び変換する・元に戻す", "B": "破壊する", "C": "増やす", "D": "隠す", "correct": "A" },
+      { "q": "reconvert の名詞形は？", "A": "reconversion(再変換)", "B": "reconstruction", "C": "recreation", "D": "recognition", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rededicate",
+    "pron": "ˌriːˈdedɪkeɪt",
+    "kana": "リデディケイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-(再び)+dedicate(捧げる)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "一般"],
+    "meaning_main": "改めて捧げる／再び専念する／(記念碑などを)再び献納する",
+    "description": "rededicate（リデディケイト）は「改めて（身・力を）捧げる・再び専念する」という意味の動詞。re-（再び）+ dedicate から成り、決意を新たにする場合や、修復した記念碑・建物を再び献納する場合に使います。",
+    "keywords": ["rededicate 意味", "rededicate 使い方", "rededicate 発音", "再び捧げる 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】改めて捧げる・再び専念する", "note": "rededicate oneself to ~ で「改めて〜に専念する」" },
+      { "hinshi": "【動詞】(記念碑などを)再び献納する", "note": "修復した建造物を改めて奉献する" }
+    ],
+    "usages": [
+      { "title": "① 決意を新たに", "desc": "再び専念", "example_en": "He rededicated himself to his work.", "example_ja": "彼は改めて仕事に専念した。" },
+      { "title": "② 記念碑の再献納", "desc": "式典", "example_en": "The monument was rededicated after repairs.", "example_ja": "その記念碑は修復後に改めて奉献された。" }
+    ],
+    "warn": ["re-(再び)+dedicate(捧げる)。rededicate oneself to ~ が定番"],
+    "etym_note": "「再び」の re- と、ラテン語 dedicare（奉献する）由来の dedicate を結んだ語。",
+    "etym_chain": [
+      { "node": "dedicare", "sub": "奉献する", "era": "ラテン語" },
+      { "node": "dedicate", "sub": "捧げる", "era": "中英語" },
+      { "node": "rededicate", "sub": "改めて捧げる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rededicate oneself to", "ja": "改めて〜に専念する" },
+      { "en": "rededicate our efforts", "ja": "努力を新たにする" },
+      { "en": "rededicate the memorial", "ja": "記念碑を再び奉献する" },
+      { "en": "rededicate to the cause", "ja": "大義に改めて尽くす" },
+      { "en": "solemnly rededicate", "ja": "厳かに再び献ずる" },
+      { "en": "rededicate the church", "ja": "教会を改めて奉献する" }
+    ],
+    "related": [
+      { "en": "dedicate", "ja": "捧げる" },
+      { "en": "dedication", "ja": "献身・献納" },
+      { "en": "recommit", "ja": "改めて約束する" },
+      { "en": "devote", "ja": "捧げる" }
+    ],
+    "faq": [
+      { "q": "rededicate の二つの意味は？", "a": "①改めて身や力を捧げる・専念する、②修復した記念碑や建物を再び奉献する、の二つです。" },
+      { "q": "よく使う形は？", "a": "rededicate oneself to ~（改めて〜に専念する）です。" }
+    ],
+    "quiz": [
+      { "q": "rededicate の意味は？", "A": "改めて捧げる・再び専念する", "B": "見捨てる", "C": "破壊する", "D": "忘れる", "correct": "A" },
+      { "q": "rededicate の元の動詞は？", "A": "dedicate(捧げる)", "B": "decide(決める)", "C": "deduct(差し引く)", "D": "declare(宣言する)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "redeliver",
+    "pron": "ˌriːdɪˈlɪvər",
+    "kana": "リデリバー",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-(再び)+deliver(配達する)",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "一般"],
+    "meaning_main": "再配達する／もう一度届ける",
+    "description": "redeliver（リデリバー）は「（届かなかった荷物などを）再び配達する・もう一度届ける」という意味の動詞。re-（再び）+ deliver から成ります。名詞は redelivery（再配達）です。",
+    "keywords": ["redeliver 意味", "redeliver 使い方", "redeliver 発音", "再配達 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】再配達する・もう一度届ける", "note": "re-(再び)+deliver。名詞は redelivery" }
+    ],
+    "usages": [
+      { "title": "① 荷物の再配達", "desc": "配送", "example_en": "They will redeliver the parcel tomorrow.", "example_ja": "彼らは明日その荷物を再配達する。" },
+      { "title": "② もう一度届ける", "desc": "再送", "example_en": "Please redeliver the message.", "example_ja": "そのメッセージをもう一度届けてください。" }
+    ],
+    "warn": ["re-(再び)+deliver(配達する)。名詞は redelivery(再配達)"],
+    "etym_note": "「再び」の re- と、古フランス語 delivrer（引き渡す）由来の deliver を結んだ語。",
+    "etym_chain": [
+      { "node": "delivrer", "sub": "引き渡す", "era": "古フランス語" },
+      { "node": "deliver", "sub": "配達する", "era": "中英語" },
+      { "node": "redeliver", "sub": "再配達する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "redeliver the parcel", "ja": "荷物を再配達する" },
+      { "en": "arrange redelivery", "ja": "再配達を手配する" },
+      { "en": "redeliver tomorrow", "ja": "明日再配達する" },
+      { "en": "request redelivery", "ja": "再配達を依頼する" },
+      { "en": "redeliver the package", "ja": "小包を再び届ける" },
+      { "en": "free redelivery", "ja": "無料の再配達" }
+    ],
+    "related": [
+      { "en": "deliver", "ja": "配達する" },
+      { "en": "delivery", "ja": "配達" },
+      { "en": "redelivery", "ja": "再配達" },
+      { "en": "parcel", "ja": "小包" }
+    ],
+    "faq": [
+      { "q": "redeliver の名詞形は？", "a": "redelivery（再配達）です。" },
+      { "q": "どんな時に使う？", "a": "不在などで届かなかった荷物を、改めて配達するときに使います。" }
+    ],
+    "quiz": [
+      { "q": "redeliver の意味は？", "A": "再配達する・もう一度届ける", "B": "受け取る", "C": "返品する", "D": "注文する", "correct": "A" },
+      { "q": "redeliver の名詞形は？", "A": "redelivery(再配達)", "B": "delivery のみ", "C": "recovery", "D": "removal", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reducing",
+    "pron": "rɪˈduːsɪŋ",
+    "kana": "リデューシング",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "reduce(減らす)+ing",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "基本語"],
+    "meaning_main": "減らすこと／削減している（reduce の -ing 形）",
+    "description": "reducing（リデューシング）は reduce（減らす・下げる）の現在分詞・動名詞。量・大きさ・程度を小さくすることを表します。reducing costs（コスト削減）のように使います。",
+    "keywords": ["reducing 意味", "reducing 使い方", "reducing 発音", "reduce ing"],
+    "meanings": [
+      { "hinshi": "【動詞】減らすこと・削減している", "note": "reduce の現在分詞・動名詞。量・程度を小さくする" }
+    ],
+    "usages": [
+      { "title": "① 削減する", "desc": "量を減らす", "example_en": "We are reducing our costs.", "example_ja": "私たちはコストを削減している。" },
+      { "title": "② 動名詞", "desc": "減らすこと", "example_en": "Reducing waste helps the planet.", "example_ja": "ごみを減らすことは地球を助ける。" }
+    ],
+    "warn": ["increase(増やす)の反対。reduce＝減らす。名詞は reduction"],
+    "etym_note": "ラテン語 reducere（引き戻す、re-+ducere「導く」）由来の reduce に -ing が付いた語。",
+    "etym_chain": [
+      { "node": "reducere", "sub": "引き戻す", "era": "ラテン語" },
+      { "node": "reduce", "sub": "減らす", "era": "中英語" },
+      { "node": "reducing", "sub": "減らすこと", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reducing costs", "ja": "コスト削減" },
+      { "en": "reducing waste", "ja": "ごみの削減" },
+      { "en": "reducing emissions", "ja": "排出量の削減" },
+      { "en": "aimed at reducing", "ja": "〜を減らすことを目指した" },
+      { "en": "reducing the risk", "ja": "リスクを減らすこと" },
+      { "en": "reducing speed", "ja": "速度を落とすこと" }
+    ],
+    "related": [
+      { "en": "reduce", "ja": "減らす" },
+      { "en": "reduction", "ja": "削減" },
+      { "en": "cut", "ja": "削る・減らす" },
+      { "en": "increase", "ja": "増やす" }
+    ],
+    "faq": [
+      { "q": "reducing の反対は？", "a": "increasing（増やすこと）です。" },
+      { "q": "名詞形は？", "a": "reduction（削減・縮小）です。" }
+    ],
+    "quiz": [
+      { "q": "reducing の意味は？", "A": "減らすこと・削減している", "B": "増やすこと", "C": "止めること", "D": "始めること", "correct": "A" },
+      { "q": "reducing の名詞形は？", "A": "reduction(削減)", "B": "reduce のみ", "C": "reducer only", "D": "reducement", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rehire",
+    "pron": "ˌriːˈhaɪər",
+    "kana": "リハイア",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-(再び)+hire(雇う)",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "ビジネス"],
+    "meaning_main": "再雇用する／(辞めた・解雇した人を)また雇う",
+    "description": "rehire（リハイア）は「（いったん辞めた・解雇した人を）再び雇う・再雇用する」という意味の動詞。re-（再び）+ hire から成ります。名詞として「再雇用された人」を指すこともあります。",
+    "keywords": ["rehire 意味", "rehire 使い方", "rehire 発音", "再雇用 英語"],
+    "meanings": [
+      { "hinshi": "【動詞】再雇用する・また雇う", "note": "re-(再び)+hire。いったん離れた従業員を再び雇う" },
+      { "hinshi": "【名詞】再雇用された人", "note": "会社に戻って再び雇われた人" }
+    ],
+    "usages": [
+      { "title": "① 再雇用する", "desc": "また雇う", "example_en": "The company rehired several former workers.", "example_ja": "その会社は元従業員を数人再雇用した。" },
+      { "title": "② 景気回復で", "desc": "呼び戻す", "example_en": "They plan to rehire staff next year.", "example_ja": "彼らは来年スタッフを再雇用する予定だ。" }
+    ],
+    "warn": ["re-(再び)+hire(雇う)。fire(解雇する)/lay off(一時解雇)の後に使うことが多い"],
+    "etym_note": "「再び」の re- と、hire（雇う、古英語 hyrian）を結んだ語。",
+    "etym_chain": [
+      { "node": "hyrian", "sub": "雇う", "era": "古英語" },
+      { "node": "hire", "sub": "雇う", "era": "中英語" },
+      { "node": "rehire", "sub": "再雇用する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rehire former employees", "ja": "元従業員を再雇用する" },
+      { "en": "rehire staff", "ja": "スタッフを再雇用する" },
+      { "en": "be rehired", "ja": "再雇用される" },
+      { "en": "rehire after layoffs", "ja": "一時解雇後に再雇用する" },
+      { "en": "plan to rehire", "ja": "再雇用を計画する" },
+      { "en": "rehire workers", "ja": "労働者を呼び戻す" }
+    ],
+    "related": [
+      { "en": "hire", "ja": "雇う" },
+      { "en": "fire", "ja": "解雇する" },
+      { "en": "lay off", "ja": "一時解雇する" },
+      { "en": "employ", "ja": "雇用する" }
+    ],
+    "faq": [
+      { "q": "rehire の re- の意味は？", "a": "「再び」を表します。hire（雇う）を再びする、つまり再雇用です。" },
+      { "q": "反対の動きは？", "a": "fire（解雇する）や lay off（一時解雇する）です。" }
+    ],
+    "quiz": [
+      { "q": "rehire の意味は？", "A": "再雇用する・また雇う", "B": "解雇する", "C": "昇進させる", "D": "退職する", "correct": "A" },
+      { "q": "rehire の元の動詞は？", "A": "hire(雇う)", "B": "higher(より高い)", "C": "hide(隠す)", "D": "here(ここに)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rememberの意味",
+    "pron": "rɪˈmembər",
+    "kana": "リメンバー",
+    "hinshi": "検索語（remember の意味を調べたもの）",
+    "ld_pos": "動詞",
+    "ld_etym": "remember(覚えている)+日本語「の意味」",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "検索語"],
+    "meaning_main": "「remember（覚えている・思い出す）」の意味を調べた検索語",
+    "description": "「rememberの意味」は、英単語 remember の意味を調べようとして入力された検索語です。remember は「（忘れずに）覚えている・思い出す」という意味の基本動詞。forget（忘れる）の反対です。",
+    "keywords": ["remember 意味", "remember 使い方", "remember 発音", "remember 覚えている"],
+    "meanings": [
+      { "hinshi": "【動詞】覚えている・記憶している", "note": "情報や出来事を忘れずに心にとどめている" },
+      { "hinshi": "【動詞】思い出す", "note": "過去のことを心によみがえらせる" }
+    ],
+    "usages": [
+      { "title": "① 覚えている", "desc": "記憶にある", "example_en": "I remember your name.", "example_ja": "私はあなたの名前を覚えている。" },
+      { "title": "② 思い出す・忘れずに〜する", "desc": "remember to do", "example_en": "Remember to lock the door.", "example_ja": "忘れずにドアに鍵をかけてね。" }
+    ],
+    "warn": ["この見出しは検索語。正しくは remember(動詞)。forget(忘れる)の反対"],
+    "etym_note": "ラテン語 rememorari（思い出す、re-+memor「記憶する」）に由来する remember。日本語「の意味」は検索時に付いたもの。",
+    "etym_chain": [
+      { "node": "rememorari", "sub": "思い出す", "era": "ラテン語" },
+      { "node": "remembren", "sub": "覚えている", "era": "中英語" },
+      { "node": "remember", "sub": "覚えている・思い出す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "remember to do", "ja": "忘れずに〜する" },
+      { "en": "remember doing", "ja": "〜したことを覚えている" },
+      { "en": "as far as I remember", "ja": "私が覚えている限り" },
+      { "en": "remember me to", "ja": "〜によろしく伝えて" },
+      { "en": "hard to remember", "ja": "覚えにくい" },
+      { "en": "remember the day", "ja": "その日を覚えている" }
+    ],
+    "related": [
+      { "en": "remember", "ja": "覚えている・思い出す" },
+      { "en": "forget", "ja": "忘れる" },
+      { "en": "memory", "ja": "記憶" },
+      { "en": "recall", "ja": "思い出す" }
+    ],
+    "faq": [
+      { "q": "remember to do と remember doing の違いは？", "a": "remember to do は「これから忘れずに〜する」、remember doing は「〜したことを覚えている」です。" },
+      { "q": "remember の反対は？", "a": "forget（忘れる）です。" }
+    ],
+    "quiz": [
+      { "q": "remember の意味は？", "A": "覚えている・思い出す", "B": "忘れる", "C": "壊す", "D": "急ぐ", "correct": "A" },
+      { "q": "remember の反対は？", "A": "forget(忘れる)", "B": "remind(思い出させる)", "C": "remove(取り除く)", "D": "return(戻る)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rental",
+    "pron": "ˈrentl",
+    "kana": "レンタル",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rent(賃借する)+-al",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "生活"],
+    "meaning_main": "賃貸／レンタル（すること・料金・物件）／賃貸の",
+    "description": "rental（レンタル）は「（お金を払って一定期間借りること）賃貸・レンタル」を表す名詞。賃貸料や賃貸物件・レンタル品も指します。形容詞では「賃貸の・レンタルの」の意味です。",
+    "keywords": ["rental 意味", "rental 使い方", "rental 発音", "レンタル 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】賃貸・レンタル(料・物件)", "note": "料金を払って借りること。賃貸料・賃貸物件・レンタル品" },
+      { "hinshi": "【形容詞】賃貸の・レンタルの", "note": "a rental car(レンタカー)" }
+    ],
+    "usages": [
+      { "title": "① 借りること", "desc": "賃貸", "example_en": "The car rental was cheap.", "example_ja": "その車のレンタルは安かった。" },
+      { "title": "② 形容詞で", "desc": "レンタルの", "example_en": "We booked a rental apartment.", "example_ja": "私たちは賃貸のアパートを予約した。" }
+    ],
+    "warn": ["rent(賃借する・家賃)から。a rental car＝レンタカー"],
+    "etym_note": "rent（賃借する・家賃、古フランス語 rente 由来）に -al が付いた語。",
+    "etym_chain": [
+      { "node": "rente", "sub": "収入・地代", "era": "古フランス語" },
+      { "node": "rent", "sub": "賃借する・家賃", "era": "中英語" },
+      { "node": "rental", "sub": "賃貸・レンタル", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rental car", "ja": "レンタカー" },
+      { "en": "car rental", "ja": "車のレンタル(業)" },
+      { "en": "a rental property", "ja": "賃貸物件" },
+      { "en": "monthly rental", "ja": "月々の賃貸料" },
+      { "en": "a rental agreement", "ja": "賃貸契約" },
+      { "en": "bike rental", "ja": "自転車レンタル" }
+    ],
+    "related": [
+      { "en": "rent", "ja": "賃借する・家賃" },
+      { "en": "lease", "ja": "賃貸借(契約)" },
+      { "en": "hire", "ja": "(英)賃借する" },
+      { "en": "tenant", "ja": "借り手" }
+    ],
+    "faq": [
+      { "q": "rental と rent の違いは？", "a": "rent は動詞「借りる」・名詞「家賃」、rental は「賃貸すること・賃貸料・レンタル品」や形容詞「賃貸の」を表します。" },
+      { "q": "a rental car とは？", "a": "レンタカー（貸し出し用の車）のことです。" }
+    ],
+    "quiz": [
+      { "q": "rental の意味は？", "A": "賃貸・レンタル(すること)", "B": "販売", "C": "寄付", "D": "廃棄", "correct": "A" },
+      { "q": "a rental car とは？", "A": "レンタカー", "B": "中古車", "C": "新車", "D": "壊れた車", "correct": "A" }
+    ]
+  },
+  {
+    "english": "repaving",
+    "pron": "ˌriːˈpeɪvɪŋ",
+    "kana": "リペイビング",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-(再び)+pave(舗装する)+ing",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "土木"],
+    "meaning_main": "再舗装（すること）／(道路を)舗装し直すこと",
+    "description": "repaving（リペイビング）は repave（舗装し直す）の-ing形で、「（傷んだ道路などを）再び舗装すること・再舗装」を表します。re-（再び）+ pave（舗装する）から成ります。",
+    "keywords": ["repaving 意味", "repave 使い方", "repaving 発音", "再舗装 英語"],
+    "meanings": [
+      { "hinshi": "【動詞/名詞】再舗装(すること)", "note": "re-(再び)+pave(舗装する)+ing。傷んだ道路などを舗装し直す" }
+    ],
+    "usages": [
+      { "title": "① 道路工事で", "desc": "舗装し直す", "example_en": "The city is repaving the main road.", "example_ja": "市は幹線道路を再舗装している。" },
+      { "title": "② 名詞として", "desc": "再舗装工事", "example_en": "Repaving will take two weeks.", "example_ja": "再舗装には2週間かかる。" }
+    ],
+    "warn": ["re-(再び)+pave(舗装する)。動詞は repave"],
+    "etym_note": "「再び」の re- と、ラテン語 pavire（打ち固める）由来の pave を結んだ repave に -ing が付いた語。",
+    "etym_chain": [
+      { "node": "pavire", "sub": "打ち固める", "era": "ラテン語" },
+      { "node": "pave", "sub": "舗装する", "era": "中英語" },
+      { "node": "repaving", "sub": "再舗装(すること)", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "repaving the road", "ja": "道路の再舗装" },
+      { "en": "repaving work", "ja": "再舗装工事" },
+      { "en": "start repaving", "ja": "再舗装を始める" },
+      { "en": "repaving the parking lot", "ja": "駐車場の再舗装" },
+      { "en": "road repaving", "ja": "道路の再舗装" },
+      { "en": "finish repaving", "ja": "再舗装を終える" }
+    ],
+    "related": [
+      { "en": "pave", "ja": "舗装する" },
+      { "en": "pavement", "ja": "舗装・歩道" },
+      { "en": "road", "ja": "道路" },
+      { "en": "resurface", "ja": "路面を張り替える" }
+    ],
+    "faq": [
+      { "q": "repaving の元の動詞は？", "a": "repave（舗装し直す）です。pave（舗装する）に「再び」の re- が付いた語です。" },
+      { "q": "どんな時に行う？", "a": "道路や駐車場の表面が傷んだときに、舗装をやり直す工事です。" }
+    ],
+    "quiz": [
+      { "q": "repaving の意味は？", "A": "再舗装(すること)", "B": "解体すること", "C": "掃除すること", "D": "植樹すること", "correct": "A" },
+      { "q": "repaving の re- が表すのは？", "A": "再び", "B": "反対に", "C": "下に", "D": "多くの", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rephrasing",
+    "pron": "ˌriːˈfreɪzɪŋ",
+    "kana": "リフレイジング",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-(再び)+phrase(言い表す)+ing",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "言語"],
+    "meaning_main": "言い換え／別の言葉で言い直すこと（rephrase の -ing 形）",
+    "description": "rephrasing（リフレイジング）は rephrase（言い換える・言い直す）の-ing形で、「同じ内容を別の言葉で表現し直すこと・言い換え」を表します。誤解を避けたり分かりやすくしたりするために使われます。",
+    "keywords": ["rephrasing 意味", "rephrase 使い方", "rephrasing 発音", "言い換え 英語"],
+    "meanings": [
+      { "hinshi": "【動詞/名詞】言い換え・言い直すこと", "note": "re-(再び)+phrase(言い表す)。同じ内容を別の言葉で表す" }
+    ],
+    "usages": [
+      { "title": "① 分かりやすく言い直す", "desc": "言い換え", "example_en": "Rephrasing the question made it clearer.", "example_ja": "質問を言い換えると分かりやすくなった。" },
+      { "title": "② 動詞として", "desc": "言い直す", "example_en": "Try rephrasing that sentence.", "example_ja": "その文を言い換えてみて。" }
+    ],
+    "warn": ["re-(再び)+phrase(言い表す)。動詞は rephrase"],
+    "etym_note": "「再び」の re- と、ギリシャ語 phrasis（言い回し）由来の phrase（言い表す）を結んだ rephrase に -ing が付いた語。",
+    "etym_chain": [
+      { "node": "phrasis", "sub": "言い回し", "era": "ギリシャ語" },
+      { "node": "phrase", "sub": "言い表す", "era": "近代英語" },
+      { "node": "rephrasing", "sub": "言い換え", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rephrasing the question", "ja": "質問の言い換え" },
+      { "en": "try rephrasing", "ja": "言い換えてみる" },
+      { "en": "a rephrasing of", "ja": "〜の言い換え" },
+      { "en": "rephrasing for clarity", "ja": "分かりやすくするための言い換え" },
+      { "en": "careful rephrasing", "ja": "慎重な言い換え" },
+      { "en": "rephrasing the sentence", "ja": "文を言い直すこと" }
+    ],
+    "related": [
+      { "en": "rephrase", "ja": "言い換える" },
+      { "en": "phrase", "ja": "言い回し・言い表す" },
+      { "en": "paraphrase", "ja": "言い換える・要約する" },
+      { "en": "reword", "ja": "言い換える" }
+    ],
+    "faq": [
+      { "q": "rephrasing の元の動詞は？", "a": "rephrase（言い換える・言い直す）です。" },
+      { "q": "paraphrase との違いは？", "a": "どちらも言い換えですが、paraphrase は他人の文をかみくだいて別の言葉で説明することを特に指します。" }
+    ],
+    "quiz": [
+      { "q": "rephrasing の意味は？", "A": "言い換え・言い直すこと", "B": "暗記すること", "C": "翻訳すること", "D": "削除すること", "correct": "A" },
+      { "q": "rephrasing の元の動詞は？", "A": "rephrase(言い換える)", "B": "refresh(元気づける)", "C": "replace(取り替える)", "D": "reply(返事する)", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ridgepole",
+    "pron": "ˈrɪdʒpoʊl",
+    "kana": "リッジポール",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ridge(尾根・棟)+pole(棒)",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "建築"],
+    "meaning_main": "棟木（むなぎ）／(テントの)棟の棒",
+    "description": "ridgepole（リッジポール）は屋根の一番高いところ（棟）を水平に通す「棟木（むなぎ）」を表す名詞。屋根の骨組みの頂点にあたります。テントでは、頂点を支える横棒も指します。",
+    "keywords": ["ridgepole 意味", "ridgepole 使い方", "ridgepole 発音", "棟木 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】棟木・(テントの)棟の棒", "note": "屋根の頂点を水平に通す横木。テントの頂点を支える棒" }
+    ],
+    "usages": [
+      { "title": "① 建築で", "desc": "屋根の頂点", "example_en": "The rafters meet at the ridgepole.", "example_ja": "垂木は棟木の所で合わさる。" },
+      { "title": "② テントで", "desc": "棟の棒", "example_en": "The tent's ridgepole holds up the roof.", "example_ja": "テントの棟の棒が屋根を支える。" }
+    ],
+    "warn": ["屋根の最頂部の横木。ridge(尾根・棟)+pole(棒)"],
+    "etym_note": "ridge（尾根・屋根の棟、古英語 hrycg）と pole（棒）を結んだ複合語。",
+    "etym_chain": [
+      { "node": "hrycg + pole", "sub": "棟の棒", "era": "古英語〜" },
+      { "node": "ridgepole", "sub": "棟木", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the ridgepole of the roof", "ja": "屋根の棟木" },
+      { "en": "a wooden ridgepole", "ja": "木の棟木" },
+      { "en": "support the ridgepole", "ja": "棟木を支える" },
+      { "en": "the tent ridgepole", "ja": "テントの棟の棒" },
+      { "en": "rafters and ridgepole", "ja": "垂木と棟木" },
+      { "en": "under the ridgepole", "ja": "棟木の下で" }
+    ],
+    "related": [
+      { "en": "ridge", "ja": "尾根・屋根の棟" },
+      { "en": "roof", "ja": "屋根" },
+      { "en": "beam", "ja": "梁" },
+      { "en": "rafter", "ja": "垂木" }
+    ],
+    "faq": [
+      { "q": "ridgepole とは？", "a": "屋根の一番高いところ（棟）を水平に通す横木、いわゆる棟木のことです。" },
+      { "q": "テントでは？", "a": "テントの頂点を支える横棒を ridgepole と呼びます。" }
+    ],
+    "quiz": [
+      { "q": "ridgepole の意味は？", "A": "屋根の棟木(最頂部の横木)", "B": "床板", "C": "窓枠", "D": "土台の石", "correct": "A" },
+      { "q": "ridgepole がある位置は？", "A": "屋根の一番高い所(棟)", "B": "地下", "C": "玄関の前", "D": "庭", "correct": "A" }
+    ]
+  },
+  {
+    "english": "roasted",
+    "pron": "ˈroʊstɪd",
+    "kana": "ローステッド",
+    "hinshi": "動詞 / 形容詞",
+    "ld_pos": "動詞",
+    "ld_etym": "roast(あぶり焼きにする)+ed",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "食べ物"],
+    "meaning_main": "ローストした／(オーブン・直火で)焼いた・あぶった（roast の過去・過去分詞）",
+    "description": "roasted（ローステッド）は roast（オーブンや直火でじっくり焼く・あぶる）の過去形・過去分詞。肉・野菜・豆などをこんがり焼いたことを表します。roasted coffee（焙煎コーヒー）などにも使います。",
+    "keywords": ["roasted 意味", "roasted 使い方", "roasted 発音", "roast 過去形"],
+    "meanings": [
+      { "hinshi": "【動詞/形容詞】ローストした・焼いた・あぶった", "note": "オーブンや直火でじっくり焼く。roasted coffee(焙煎コーヒー)" }
+    ],
+    "usages": [
+      { "title": "① 料理として", "desc": "こんがり焼く", "example_en": "We had roasted chicken for dinner.", "example_ja": "私たちは夕食にローストチキンを食べた。" },
+      { "title": "② 焙煎", "desc": "豆・ナッツ", "example_en": "I like freshly roasted coffee.", "example_ja": "私は焙煎したてのコーヒーが好きだ。" }
+    ],
+    "warn": ["roast は主にオーブン等でじっくり焼く。grill(網焼き)/broil(直火)と区別"],
+    "etym_note": "古フランス語 rostir（あぶる）由来の roast に -ed が付いた形。",
+    "etym_chain": [
+      { "node": "rostir", "sub": "あぶる", "era": "古フランス語" },
+      { "node": "roast", "sub": "あぶり焼く", "era": "中英語" },
+      { "node": "roasted", "sub": "ローストした", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "roasted chicken", "ja": "ローストチキン" },
+      { "en": "roasted vegetables", "ja": "焼き野菜" },
+      { "en": "roasted coffee", "ja": "焙煎コーヒー" },
+      { "en": "roasted nuts", "ja": "ロースト(いり)ナッツ" },
+      { "en": "slow-roasted", "ja": "じっくり焼いた" },
+      { "en": "freshly roasted", "ja": "焙煎したての" }
+    ],
+    "related": [
+      { "en": "roast", "ja": "あぶり焼く・ロースト" },
+      { "en": "baked", "ja": "オーブンで焼いた" },
+      { "en": "grilled", "ja": "網焼きの" },
+      { "en": "broiled", "ja": "直火で焼いた" }
+    ],
+    "faq": [
+      { "q": "roasted と baked の違いは？", "a": "どちらもオーブンで焼きますが、roast は肉や野菜をこんがり焼く、bake はパンや菓子を焼くのに使うことが多いです。" },
+      { "q": "roasted coffee とは？", "a": "コーヒー豆を焙煎（ロースト）したものです。" }
+    ],
+    "quiz": [
+      { "q": "roasted の意味は？", "A": "ローストした・こんがり焼いた", "B": "ゆでた", "C": "生の", "D": "凍らせた", "correct": "A" },
+      { "q": "roasted coffee の意味は？", "A": "焙煎したコーヒー", "B": "冷たいコーヒー", "C": "甘いコーヒー", "D": "薄いコーヒー", "correct": "A" }
+    ]
+  },
+  {
+    "english": "robof",
+    "pron": "rɑːb əv",
+    "kana": "ロブ オブ",
+    "hinshi": "熟語（正しくは rob ... of）",
+    "ld_pos": "熟語",
+    "ld_etym": "rob ... of を続けて綴った形",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "連語"],
+    "meaning_main": "「rob ... of（〜から〜を奪う）」の続け書き",
+    "description": "robof は正しくは「rob ... of」で、続けて書いた形です。「（人・場所）から（金品や大切なもの）を奪う」という意味の連語です。rob 人 of 物 の語順で使います。",
+    "keywords": ["rob of 意味", "rob someone of", "robof 綴り", "奪う 英語"],
+    "meanings": [
+      { "hinshi": "【熟語】(人)から(物)を奪う", "note": "rob + 人/場所 + of + 奪うもの。正しくは分けて書く" }
+    ],
+    "usages": [
+      { "title": "① 金品を奪う", "desc": "強盗など", "example_en": "They robbed him of his wallet.", "example_ja": "彼らは彼から財布を奪った。" },
+      { "title": "② 大切なものを奪う", "desc": "比喩的に", "example_en": "The injury robbed her of a chance to win.", "example_ja": "そのけがは彼女から勝つ機会を奪った。" }
+    ],
+    "warn": ["rob 人 of 物（物でなく人・場所が目的語）。steal は物を直接目的語にする"],
+    "etym_note": "古フランス語 rober（略奪する）由来の rob と、of（〜から分離）から成る連語。",
+    "etym_chain": [
+      { "node": "rober", "sub": "略奪する", "era": "古フランス語" },
+      { "node": "rob", "sub": "奪う", "era": "中英語" },
+      { "node": "rob of", "sub": "〜から〜を奪う", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rob someone of money", "ja": "人から金を奪う" },
+      { "en": "rob a bank of cash", "ja": "銀行から現金を奪う" },
+      { "en": "rob of a chance", "ja": "機会を奪う" },
+      { "en": "rob of sleep", "ja": "睡眠を奪う" },
+      { "en": "be robbed of", "ja": "〜を奪われる" },
+      { "en": "rob of dignity", "ja": "尊厳を奪う" }
+    ],
+    "related": [
+      { "en": "rob", "ja": "奪う・強盗する" },
+      { "en": "robbery", "ja": "強盗" },
+      { "en": "steal", "ja": "盗む" },
+      { "en": "deprive", "ja": "奪う" }
+    ],
+    "faq": [
+      { "q": "rob と steal の違いは？", "a": "rob は「(人・場所)から奪う」で人・場所が目的語、steal は「(物)を盗む」で物が目的語です。" },
+      { "q": "正しい語順は？", "a": "rob + 人/場所 + of + 奪うもの、です（rob him of his money）。" }
+    ],
+    "quiz": [
+      { "q": "rob ... of の意味は？", "A": "(人)から(物)を奪う", "B": "(人)に(物)を与える", "C": "(物)を作る", "D": "(物)を返す", "correct": "A" },
+      { "q": "正しい形は？", "A": "rob him of his money", "B": "rob his money of him", "C": "rob to him money", "D": "rob for money", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rootfor",
+    "pron": "ruːt fɔːr",
+    "kana": "ルート フォー",
+    "hinshi": "熟語（正しくは root for）",
+    "ld_pos": "熟語",
+    "ld_etym": "root for を続けて綴った形",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "連語"],
+    "meaning_main": "「root for（〜を応援する）」の続け書き",
+    "description": "rootfor は正しくは「root for」で、2語を続けて書いた形です。「（チームや人を）応援する・声援を送る」という意味の連語です（主に米国のくだけた表現）。",
+    "keywords": ["root for 意味", "root for 使い方", "rootfor 綴り", "応援する 英語"],
+    "meanings": [
+      { "hinshi": "【熟語】〜を応援する・声援を送る", "note": "root for + チーム/人。主に米口語。正しくは分けて書く" }
+    ],
+    "usages": [
+      { "title": "① スポーツで", "desc": "応援する", "example_en": "We're rooting for the home team.", "example_ja": "私たちは地元チームを応援している。" },
+      { "title": "② 人を後押し", "desc": "成功を願う", "example_en": "Everyone is rooting for you.", "example_ja": "みんなが君を応援しているよ。" }
+    ],
+    "warn": ["主に米口語。root(根)/root out(根絶する)とは別の意味"],
+    "etym_note": "root（応援する、由来には諸説）と for（〜のために）から成る句動詞。主に米国で使われる。",
+    "etym_chain": [
+      { "node": "root", "sub": "応援する(米俗)", "era": "19世紀" },
+      { "node": "root for", "sub": "〜を応援する", "era": "近代英語" },
+      { "node": "root for", "sub": "〜を応援する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "root for the team", "ja": "チームを応援する" },
+      { "en": "rooting for you", "ja": "君を応援している" },
+      { "en": "root for the underdog", "ja": "劣勢の側を応援する" },
+      { "en": "keep rooting for", "ja": "〜を応援し続ける" },
+      { "en": "root for both sides", "ja": "両方を応援する" },
+      { "en": "we're rooting for", "ja": "私たちは〜を応援している" }
+    ],
+    "related": [
+      { "en": "cheer for", "ja": "〜を応援する" },
+      { "en": "support", "ja": "支持する・応援する" },
+      { "en": "encourage", "ja": "励ます" },
+      { "en": "back", "ja": "後押しする" }
+    ],
+    "faq": [
+      { "q": "root for と cheer for の違いは？", "a": "ほぼ同義で「応援する」です。cheer for は声を出して応援するニュアンスがやや強めです。" },
+      { "q": "root の別の意味は？", "a": "「根」や「root out（根絶する）」など別の意味もあります。" }
+    ],
+    "quiz": [
+      { "q": "root for の意味は？", "A": "〜を応援する", "B": "〜を批判する", "C": "〜を無視する", "D": "〜を壊す", "correct": "A" },
+      { "q": "root for と同義なのは？", "A": "cheer for(応援する)", "B": "look for(探す)", "C": "care for(世話する)", "D": "wait for(待つ)", "correct": "A" }
+    ]
+  }
+]
