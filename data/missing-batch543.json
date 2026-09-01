@@ -1,0 +1,988 @@
+[
+  {
+    "english": "-an",
+    "pron": "ən",
+    "kana": "アン",
+    "hinshi": "接尾辞",
+    "ld_pos": "接尾辞",
+    "ld_etym": "ラテン語 -anus（〜に属する）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "語形成"],
+    "meaning_main": "〜に属する／〜の人（名詞・形容詞を作る接尾辞）",
+    "description": "-an（アン）は「〜に属する・〜の人・〜出身の」という意味を加える接尾辞。名詞や形容詞を作り、American（アメリカ人）、urban（都市の）、Roman（ローマの）のような語を作ります。",
+    "keywords": ["-an 意味", "-an 接尾辞", "-an 例", "American 語形成"],
+    "meanings": [
+      { "hinshi": "【接尾】〜出身の人、〜国民", "note": "地名などに付いて『その土地の人』を表す。例：American, Mexican。" },
+      { "hinshi": "【接尾】〜に属する、〜の（形容詞）", "note": "『〜に関する』の意味の形容詞を作る。例：urban, Roman。" }
+    ],
+    "usages": [
+      { "title": "① 国民・出身者を作る", "desc": "地名＋-an で『〜人』。", "example_en": "America → American (アメリカ人)", "example_ja": "地名に付けて出身者を表す。" },
+      { "title": "② 形容詞を作る", "desc": "『〜に関する』の形容詞を作る。", "example_en": "suburb → suburban (郊外の)", "example_ja": "名詞から『〜の』という形容詞を作る。" }
+    ],
+    "warn": ["-ian（音楽家 musician など）と近い仲間の接尾辞。母音の前などで -ian になることが多い。", "語そのものではなく造語成分なので、単独では使わない。"],
+    "etym_note": "ラテン語 -anus（〜に属する）に由来する接尾辞。フランス語を経て英語に入り、名詞・形容詞を作る。",
+    "etym_chain": [
+      { "node": "-anus", "sub": "〜に属する", "era": "ラテン語" },
+      { "node": "-an", "sub": "〜の人・〜の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "American", "ja": "アメリカ人（の）" },
+      { "en": "Mexican", "ja": "メキシコ人（の）" },
+      { "en": "urban", "ja": "都市の" },
+      { "en": "suburban", "ja": "郊外の" },
+      { "en": "Roman", "ja": "ローマの、ローマ人" },
+      { "en": "veteran", "ja": "退役軍人、熟練者" }
+    ],
+    "related": [
+      { "en": "-ian", "ja": "〜の人（接尾辞）" },
+      { "en": "-ese", "ja": "〜人・〜語（接尾辞）" },
+      { "en": "-ist", "ja": "〜する人（接尾辞）" },
+      { "en": "American", "ja": "アメリカ人" }
+    ],
+    "faq": [
+      { "q": "-an と -ian の違いは？", "a": "どちらも『〜の人・〜の』を表しますが、母音の前などでは -ian になりやすいです（例：music→musician）。ほぼ同じ仲間の接尾辞です。" },
+      { "q": "-an はどんな語を作る？", "a": "American（アメリカ人）のような国民名や、urban（都市の）のような形容詞を作ります。" }
+    ],
+    "quiz": [
+      { "q": "America に -an を付けると？", "A": "Americaful", "B": "American", "C": "Americaness", "D": "Americaly", "correct": "B" },
+      { "q": "-an が表す意味は？", "A": "〜に属する・〜の人", "B": "〜がない", "C": "〜する前に", "D": "とても〜", "correct": "A" }
+    ]
+  },
+  {
+    "english": "-ee",
+    "pron": "iː",
+    "kana": "イー",
+    "hinshi": "接尾辞",
+    "ld_pos": "接尾辞",
+    "ld_etym": "古フランス語 -é（過去分詞語尾）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "語形成"],
+    "meaning_main": "〜される人／行為を受ける人（名詞を作る接尾辞）",
+    "description": "-ee（イー）は「〜される人・行為を受ける側の人」を表す接尾辞。employee（雇われる人＝従業員）、trainee（訓練される人）のように、動作を受ける人を表す名詞を作ります。",
+    "keywords": ["-ee 意味", "-ee 接尾辞", "-ee 例", "employee 語形成"],
+    "meanings": [
+      { "hinshi": "【接尾】〜される人、受け手", "note": "動作を受ける側の人を表す。例：employee（雇われる人）。" },
+      { "hinshi": "【接尾】〜の対象となる人", "note": "-er（する人）と対をなす。interviewer↔interviewee。" }
+    ],
+    "usages": [
+      { "title": "① 行為を受ける人を作る", "desc": "動詞＋-ee で『〜される人』。", "example_en": "employ → employee (従業員)", "example_ja": "雇う→雇われる人。" },
+      { "title": "② -er と対で覚える", "desc": "する人（-er）と受ける人（-ee）。", "example_en": "interviewer ↔ interviewee", "example_ja": "面接する人↔面接される人。" }
+    ],
+    "warn": ["-er（行為をする人）と対になる。employer（雇う人）↔employee（雇われる人）。", "語そのものではなく造語成分なので、単独では使わない。"],
+    "etym_note": "古フランス語の過去分詞語尾 -é に由来し、『行為を受けた人』を表す名詞を作る接尾辞になった。",
+    "etym_chain": [
+      { "node": "-é", "sub": "〜された", "era": "古フランス語" },
+      { "node": "-ee", "sub": "〜される人", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "employee", "ja": "従業員（雇われる人）" },
+      { "en": "trainee", "ja": "研修生（訓練される人）" },
+      { "en": "interviewee", "ja": "面接を受ける人" },
+      { "en": "payee", "ja": "受取人" },
+      { "en": "addressee", "ja": "受取人、宛先の人" },
+      { "en": "refugee", "ja": "難民" }
+    ],
+    "related": [
+      { "en": "-er", "ja": "〜する人（接尾辞）" },
+      { "en": "-or", "ja": "〜する人（接尾辞）" },
+      { "en": "employee", "ja": "従業員" },
+      { "en": "trainee", "ja": "研修生" }
+    ],
+    "faq": [
+      { "q": "-ee と -er の違いは？", "a": "-er は『行為をする人』、-ee は『行為を受ける人』です。例：employer（雇う人）↔ employee（雇われる人）。" },
+      { "q": "-ee はどう発音する？", "a": "語尾が強く『イー』と伸ばして発音します。例：employee（インプロイイー）。" }
+    ],
+    "quiz": [
+      { "q": "employ に -ee を付けると？", "A": "employee（雇われる人）", "B": "employer（雇う人）", "C": "employful", "D": "employly", "correct": "A" },
+      { "q": "-ee が表すのは？", "A": "行為を受ける人", "B": "行為をする人", "C": "場所", "D": "道具", "correct": "A" }
+    ]
+  },
+  {
+    "english": "-en",
+    "pron": "ən",
+    "kana": "エン",
+    "hinshi": "接尾辞",
+    "ld_pos": "接尾辞",
+    "ld_etym": "古英語 -nian（〜にする）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "語形成"],
+    "meaning_main": "〜にする／〜になる／〜製の（動詞・形容詞を作る接尾辞）",
+    "description": "-en（エン）は「〜にする・〜になる」という動詞や、「〜製の」という形容詞を作る接尾辞。widen（広くする）、shorten（短くする）、wooden（木製の）のような語を作ります。",
+    "keywords": ["-en 意味", "-en 接尾辞", "-en 例", "widen 語形成"],
+    "meanings": [
+      { "hinshi": "【接尾】〜にする、〜になる（動詞）", "note": "形容詞に付いて動詞を作る。例：wide→widen（広くする）。" },
+      { "hinshi": "【接尾】〜製の、〜でできた（形容詞）", "note": "材料の名詞に付く。例：wood→wooden（木製の）。" }
+    ],
+    "usages": [
+      { "title": "① 動詞を作る", "desc": "形容詞＋-en で『〜にする』。", "example_en": "short → shorten (短くする)", "example_ja": "短い→短くする。" },
+      { "title": "② 『〜製の』を作る", "desc": "材料＋-en で『〜でできた』。", "example_en": "gold → golden (金色の)", "example_ja": "金→金色の・金製の。" }
+    ],
+    "warn": ["複数形（children, oxen）や過去分詞（broken, eaten）の -en とは働きが別。", "語そのものではなく造語成分なので、単独では使わない。"],
+    "etym_note": "古英語で動詞を作る -nian、形容詞を作る -en に由来。現代では『〜にする』『〜製の』を表す。",
+    "etym_chain": [
+      { "node": "-nian / -en", "sub": "〜にする・〜製の", "era": "古英語" },
+      { "node": "-en", "sub": "〜にする・〜製の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "widen", "ja": "広くする" },
+      { "en": "shorten", "ja": "短くする" },
+      { "en": "strengthen", "ja": "強くする" },
+      { "en": "darken", "ja": "暗くする" },
+      { "en": "wooden", "ja": "木製の" },
+      { "en": "golden", "ja": "金色の" }
+    ],
+    "related": [
+      { "en": "-ify", "ja": "〜化する（接尾辞）" },
+      { "en": "-ize", "ja": "〜化する（接尾辞）" },
+      { "en": "widen", "ja": "広くする" },
+      { "en": "wooden", "ja": "木製の" }
+    ],
+    "faq": [
+      { "q": "-en はどんな語を作る？", "a": "widen（広くする）のような動詞や、wooden（木製の）のような形容詞を作ります。" },
+      { "q": "children の -en と同じ？", "a": "いいえ。children や oxen の -en は複数形を作る別の -en で、『〜にする』の -en とは働きが異なります。" }
+    ],
+    "quiz": [
+      { "q": "short に -en を付けると？", "A": "shorten（短くする）", "B": "shortly", "C": "shortness", "D": "shortful", "correct": "A" },
+      { "q": "wooden の -en が表すのは？", "A": "〜製の", "B": "〜がない", "C": "〜する人", "D": "とても〜", "correct": "A" }
+    ]
+  },
+  {
+    "english": "-esque",
+    "pron": "esk",
+    "kana": "エスク",
+    "hinshi": "接尾辞",
+    "ld_pos": "接尾辞",
+    "ld_etym": "イタリア語 -esco / フランス語 -esque",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "語形成"],
+    "meaning_main": "〜風の／〜のような（形容詞を作る接尾辞）",
+    "description": "-esque（エスク）は「〜風の・〜のような・〜の様式の」という形容詞を作る接尾辞。picturesque（絵のように美しい）、statuesque（彫像のような）、Kafkaesque（カフカ的な）のような語を作ります。",
+    "keywords": ["-esque 意味", "-esque 接尾辞", "-esque 例", "picturesque 語形成"],
+    "meanings": [
+      { "hinshi": "【接尾】〜風の、〜のような", "note": "名詞に付いて『〜に似た・〜の様式の』の形容詞を作る。" },
+      { "hinshi": "【接尾】（人名に付いて）〜的な", "note": "作家名などに付き作風を表す。例：Kafkaesque。" }
+    ],
+    "usages": [
+      { "title": "① 『〜のような』を作る", "desc": "名詞＋-esque で様子を表す。", "example_en": "picture → picturesque (絵のように美しい)", "example_ja": "絵→絵のような。" },
+      { "title": "② 作風・様式を表す", "desc": "人名に付けて『〜的な』。", "example_en": "Kafka → Kafkaesque (カフカ的な)", "example_ja": "不条理で悪夢的な様子を表す。" }
+    ],
+    "warn": ["やや文語的・気取った響きになることがある。", "語そのものではなく造語成分なので、単独では使わない。"],
+    "etym_note": "イタリア語 -esco、フランス語 -esque に由来する接尾辞。『〜の様式の』を表す。",
+    "etym_chain": [
+      { "node": "-esco", "sub": "〜風の", "era": "イタリア語" },
+      { "node": "-esque", "sub": "〜のような", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "picturesque", "ja": "絵のように美しい" },
+      { "en": "statuesque", "ja": "彫像のように均整のとれた" },
+      { "en": "grotesque", "ja": "グロテスクな、異様な" },
+      { "en": "Romanesque", "ja": "ロマネスク様式の" },
+      { "en": "Kafkaesque", "ja": "カフカ的な、不条理な" },
+      { "en": "arabesque", "ja": "アラベスク（模様・舞踊）" }
+    ],
+    "related": [
+      { "en": "-like", "ja": "〜のような（接尾辞）" },
+      { "en": "-ish", "ja": "〜っぽい（接尾辞）" },
+      { "en": "picturesque", "ja": "絵のように美しい" },
+      { "en": "style", "ja": "様式、スタイル" }
+    ],
+    "faq": [
+      { "q": "-esque はどんな語を作る？", "a": "picturesque（絵のように美しい）のような『〜風の・〜のような』を表す形容詞を作ります。" },
+      { "q": "人名にも付く？", "a": "はい。Kafkaesque（カフカ的な）のように、作家名などに付けてその作風を表せます。" }
+    ],
+    "quiz": [
+      { "q": "picture に -esque を付けると？", "A": "picturesque（絵のように美しい）", "B": "pictureful", "C": "pictureless", "D": "picturely", "correct": "A" },
+      { "q": "-esque が表す意味は？", "A": "〜風の・〜のような", "B": "〜がない", "C": "〜する人", "D": "〜の前に", "correct": "A" }
+    ]
+  },
+  {
+    "english": "-free",
+    "pron": "friː",
+    "kana": "フリー",
+    "hinshi": "接尾辞（結合語）",
+    "ld_pos": "接尾辞",
+    "ld_etym": "free（〜のない）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "語形成"],
+    "meaning_main": "〜のない／〜を含まない（形容詞を作る結合形）",
+    "description": "-free（フリー）は「〜のない・〜を含まない・〜が免除された」という形容詞を作る結合形。sugar-free（砂糖不使用の）、duty-free（免税の）、hands-free（手を使わない）のような語を作ります。",
+    "keywords": ["-free 意味", "-free 接尾辞", "sugar-free 意味", "duty-free 意味"],
+    "meanings": [
+      { "hinshi": "【結合】〜のない、〜を含まない", "note": "名詞に付いて『それがない』状態を表す。例：sugar-free。" },
+      { "hinshi": "【結合】〜が免除された、〜なしで済む", "note": "例：duty-free（免税）、hands-free（手を使わない）。" }
+    ],
+    "usages": [
+      { "title": "① 『〜不使用』を作る", "desc": "名詞＋-free で『〜が入っていない』。", "example_en": "sugar → sugar-free (砂糖不使用の)", "example_ja": "砂糖→砂糖なしの。" },
+      { "title": "② 『〜なしで済む』を作る", "desc": "手間や負担がないことを表す。", "example_en": "hands → hands-free (手を使わない)", "example_ja": "手を使わずに操作できる。" }
+    ],
+    "warn": ["ハイフンでつなぐことが多い：sugar-free, tax-free。", "carefree（気楽な）のように1語になる例もある。語そのものとしての free とは別に、造語成分として使う。"],
+    "etym_note": "『自由な・〜のない』を意味する free が、他の名詞と結び付いて『〜がない』を表す結合形になった。",
+    "etym_chain": [
+      { "node": "frēo", "sub": "自由な", "era": "古英語" },
+      { "node": "-free", "sub": "〜のない", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "sugar-free", "ja": "砂糖不使用の" },
+      { "en": "duty-free", "ja": "免税の" },
+      { "en": "tax-free", "ja": "非課税の" },
+      { "en": "hands-free", "ja": "手を使わない" },
+      { "en": "fat-free", "ja": "無脂肪の" },
+      { "en": "carefree", "ja": "気楽な、心配のない" }
+    ],
+    "related": [
+      { "en": "-less", "ja": "〜のない（接尾辞）" },
+      { "en": "free", "ja": "自由な、無料の" },
+      { "en": "sugar-free", "ja": "砂糖不使用の" },
+      { "en": "duty-free", "ja": "免税の" }
+    ],
+    "faq": [
+      { "q": "-free と -less の違いは？", "a": "どちらも『〜がない』ですが、-free は『（望ましくないものが）なくて良い』という肯定的な含みが多く、-less は単に『〜を欠く』を表します。" },
+      { "q": "-free はどんな語を作る？", "a": "sugar-free（砂糖不使用）、tax-free（非課税）のように『〜がない・〜を含まない』を表す形容詞を作ります。" }
+    ],
+    "quiz": [
+      { "q": "sugar に -free を付けると？", "A": "sugar-free（砂糖不使用の）", "B": "sugarful", "C": "sugary", "D": "sugarness", "correct": "A" },
+      { "q": "duty-free の意味は？", "A": "免税の", "B": "義務的な", "C": "高価な", "D": "無料の飲食", "correct": "A" }
+    ]
+  },
+  {
+    "english": "-graphy",
+    "pron": "ɡrəfi",
+    "kana": "グラフィー",
+    "hinshi": "接尾辞",
+    "ld_pos": "接尾辞",
+    "ld_etym": "ギリシャ語 graphein（書く）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "語形成"],
+    "meaning_main": "〜を書くこと／記録・記述の学問（名詞を作る接尾辞）",
+    "description": "-graphy（グラフィー）は「〜を書くこと・記録すること・記述する学問」を表す接尾辞。photography（写真術）、biography（伝記）、geography（地理学）のような語を作ります。ギリシャ語graphein（書く）に由来します。",
+    "keywords": ["-graphy 意味", "-graphy 接尾辞", "photography 語形成", "biography 語形成"],
+    "meanings": [
+      { "hinshi": "【接尾】〜を記述する学問・技術", "note": "『〜を書く・記録する分野』を表す名詞を作る。例：geography。" },
+      { "hinshi": "【接尾】〜を書いたもの、記録", "note": "例：biography（伝記＝人生を書いたもの）。" }
+    ],
+    "usages": [
+      { "title": "① 学問・技術を作る", "desc": "『〜を記録する分野』を表す。", "example_en": "photo + -graphy → photography (写真術)", "example_ja": "光を記録する技術。" },
+      { "title": "② 記述したものを作る", "desc": "『〜について書いたもの』。", "example_en": "bio + -graphy → biography (伝記)", "example_ja": "人生を書いたもの。" }
+    ],
+    "warn": ["『書く人・記録する人』は -grapher（photographer 写真家）。", "語そのものではなく造語成分なので、単独では使わない。"],
+    "etym_note": "ギリシャ語 graphein（書く）に由来する結合形。『書くこと・記録すること』を表す。",
+    "etym_chain": [
+      { "node": "graphein", "sub": "書く", "era": "ギリシャ語" },
+      { "node": "-graphy", "sub": "〜を書くこと", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "photography", "ja": "写真術、写真撮影" },
+      { "en": "biography", "ja": "伝記" },
+      { "en": "geography", "ja": "地理学" },
+      { "en": "calligraphy", "ja": "書道、カリグラフィー" },
+      { "en": "choreography", "ja": "振り付け" },
+      { "en": "autobiography", "ja": "自伝" }
+    ],
+    "related": [
+      { "en": "-graph", "ja": "〜を書く器具（接尾辞）" },
+      { "en": "-grapher", "ja": "〜を記録する人（接尾辞）" },
+      { "en": "photography", "ja": "写真術" },
+      { "en": "geography", "ja": "地理学" }
+    ],
+    "faq": [
+      { "q": "-graphy と -grapher の違いは？", "a": "-graphy は『〜を記録する技術・学問』（photography 写真術）、-grapher はそれを『する人』（photographer 写真家）です。" },
+      { "q": "-graphy はどんな語を作る？", "a": "geography（地理学）、biography（伝記）のように『記録・記述に関する』名詞を作ります。" }
+    ],
+    "quiz": [
+      { "q": "photo に -graphy を付けると？", "A": "photography（写真術）", "B": "photographer", "C": "photoful", "D": "photoless", "correct": "A" },
+      { "q": "-graphy の元の意味は？", "A": "書く・記録する", "B": "話す", "C": "見る", "D": "作る", "correct": "A" }
+    ]
+  },
+  {
+    "english": "-hood",
+    "pron": "hʊd",
+    "kana": "フッド",
+    "hinshi": "接尾辞",
+    "ld_pos": "接尾辞",
+    "ld_etym": "古英語 -hād（状態・身分）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "語形成"],
+    "meaning_main": "〜の状態／〜の期間／〜の集まり（名詞を作る接尾辞）",
+    "description": "-hood（フッド）は「〜の状態・〜の時期・〜の集まり」を表す名詞を作る接尾辞。childhood（子ども時代）、neighborhood（近所）、brotherhood（兄弟愛・団体）のような語を作ります。",
+    "keywords": ["-hood 意味", "-hood 接尾辞", "childhood 語形成", "neighborhood 語形成"],
+    "meanings": [
+      { "hinshi": "【接尾】〜の状態・時期", "note": "『〜である期間・状態』を表す。例：childhood（子ども時代）。" },
+      { "hinshi": "【接尾】〜の集まり・仲間", "note": "『同じ性質の集団』を表す。例：brotherhood（同胞団）。" }
+    ],
+    "usages": [
+      { "title": "① 時期・状態を作る", "desc": "『〜である期間』。", "example_en": "child → childhood (子ども時代)", "example_ja": "子ども→子どもである時期。" },
+      { "title": "② 集団を作る", "desc": "『〜の仲間の集まり』。", "example_en": "brother → brotherhood (兄弟愛・団体)", "example_ja": "兄弟→同胞の集まり。" }
+    ],
+    "warn": ["likelihood（可能性）のように状態を表す抽象名詞も作る。", "語そのものではなく造語成分なので、単独では使わない。"],
+    "etym_note": "古英語 -hād（状態・身分・性質）に由来する接尾辞。『〜である状態』を表す。",
+    "etym_chain": [
+      { "node": "-hād", "sub": "状態・身分", "era": "古英語" },
+      { "node": "-hood", "sub": "〜の状態・集まり", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "childhood", "ja": "子ども時代" },
+      { "en": "neighborhood", "ja": "近所、地域" },
+      { "en": "brotherhood", "ja": "兄弟愛、同胞団" },
+      { "en": "adulthood", "ja": "大人であること、成人期" },
+      { "en": "motherhood", "ja": "母であること、母性" },
+      { "en": "likelihood", "ja": "可能性、見込み" }
+    ],
+    "related": [
+      { "en": "-ship", "ja": "〜の状態（接尾辞）" },
+      { "en": "-ness", "ja": "〜の性質（接尾辞）" },
+      { "en": "childhood", "ja": "子ども時代" },
+      { "en": "neighborhood", "ja": "近所" }
+    ],
+    "faq": [
+      { "q": "-hood と -ship の違いは？", "a": "どちらも『状態』を表しますが、-hood は時期や集団（childhood, brotherhood）、-ship は地位や関係（friendship, leadership）に使われやすいです。" },
+      { "q": "-hood はどんな語を作る？", "a": "childhood（子ども時代）、neighborhood（近所）のように『状態・時期・集まり』を表す名詞を作ります。" }
+    ],
+    "quiz": [
+      { "q": "child に -hood を付けると？", "A": "childhood（子ども時代）", "B": "childful", "C": "childless", "D": "childly", "correct": "A" },
+      { "q": "-hood が表すのは？", "A": "〜の状態・時期・集まり", "B": "〜がない", "C": "〜する人", "D": "とても〜", "correct": "A" }
+    ]
+  },
+  {
+    "english": "-ian",
+    "pron": "iən",
+    "kana": "イアン",
+    "hinshi": "接尾辞",
+    "ld_pos": "接尾辞",
+    "ld_etym": "ラテン語 -ianus（〜に属する）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "語形成"],
+    "meaning_main": "〜する人／〜出身の（名詞・形容詞を作る接尾辞）",
+    "description": "-ian（イアン）は「〜を職業とする人・〜出身の・〜に関する」という名詞や形容詞を作る接尾辞。musician（音楽家）、librarian（図書館員）、Italian（イタリア人）のような語を作ります。",
+    "keywords": ["-ian 意味", "-ian 接尾辞", "musician 語形成", "Italian 語形成"],
+    "meanings": [
+      { "hinshi": "【接尾】〜する人、〜の専門家", "note": "職業や専門を表す。例：musician（音楽家）。" },
+      { "hinshi": "【接尾】〜出身の（人）、〜の", "note": "地名に付いて国民・形容詞を作る。例：Italian。" }
+    ],
+    "usages": [
+      { "title": "① 職業・専門家を作る", "desc": "『〜を専門とする人』。", "example_en": "music → musician (音楽家)", "example_ja": "音楽→音楽をする人。" },
+      { "title": "② 出身・国民を作る", "desc": "『〜出身の人』。", "example_en": "Italy → Italian (イタリア人)", "example_ja": "イタリア→イタリアの人。" }
+    ],
+    "warn": ["-an（American など）と近い仲間の接尾辞。母音の前などで -ian になりやすい。", "語そのものではなく造語成分なので、単独では使わない。"],
+    "etym_note": "ラテン語 -ianus（〜に属する）に由来する接尾辞。名詞・形容詞を作る。",
+    "etym_chain": [
+      { "node": "-ianus", "sub": "〜に属する", "era": "ラテン語" },
+      { "node": "-ian", "sub": "〜する人・〜の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "musician", "ja": "音楽家" },
+      { "en": "librarian", "ja": "図書館員" },
+      { "en": "historian", "ja": "歴史家" },
+      { "en": "Italian", "ja": "イタリア人（の）" },
+      { "en": "comedian", "ja": "コメディアン" },
+      { "en": "vegetarian", "ja": "菜食主義者" }
+    ],
+    "related": [
+      { "en": "-an", "ja": "〜の人（接尾辞）" },
+      { "en": "-ist", "ja": "〜する人（接尾辞）" },
+      { "en": "musician", "ja": "音楽家" },
+      { "en": "librarian", "ja": "図書館員" }
+    ],
+    "faq": [
+      { "q": "-ian と -an の違いは？", "a": "ほぼ同じ仲間で『〜の人・〜の』を表します。music→musician のように母音や語尾の都合で -ian になりやすいです。" },
+      { "q": "-ian はどんな語を作る？", "a": "musician（音楽家）のような職業名や、Italian（イタリア人）のような国民名・形容詞を作ります。" }
+    ],
+    "quiz": [
+      { "q": "music に -ian を付けると？", "A": "musician（音楽家）", "B": "musicful", "C": "musicness", "D": "musicly", "correct": "A" },
+      { "q": "-ian が表すのは？", "A": "〜する人・〜出身の", "B": "〜がない", "C": "〜の前に", "D": "〜を壊す", "correct": "A" }
+    ]
+  },
+  {
+    "english": "-ics",
+    "pron": "ɪks",
+    "kana": "イクス",
+    "hinshi": "接尾辞",
+    "ld_pos": "接尾辞",
+    "ld_etym": "ギリシャ語 -ika（〜に関する事柄）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "語形成"],
+    "meaning_main": "〜学／〜術／〜に関する活動（名詞を作る接尾辞）",
+    "description": "-ics（イクス）は「〜学・〜術・〜に関する活動」を表す名詞を作る接尾辞。physics（物理学）、mathematics（数学）、economics（経済学）のような学問名を作ります。",
+    "keywords": ["-ics 意味", "-ics 接尾辞", "physics 語形成", "economics 語形成"],
+    "meanings": [
+      { "hinshi": "【接尾】〜学、〜論", "note": "学問分野を表す。例：physics（物理学）。多くは単数扱い。" },
+      { "hinshi": "【接尾】〜術、〜に関する活動", "note": "例：athletics（陸上競技）、politics（政治）。" }
+    ],
+    "usages": [
+      { "title": "① 学問名を作る", "desc": "『〜に関する学問』。", "example_en": "econom- + -ics → economics (経済学)", "example_ja": "経済に関する学問。" },
+      { "title": "② 活動分野を作る", "desc": "『〜に関する活動』。", "example_en": "athlet- + -ics → athletics (陸上競技)", "example_ja": "運動に関する競技。" }
+    ],
+    "warn": ["学問名（physics, mathematics）は形は複数だが単数扱い：Physics is difficult.", "語そのものではなく造語成分なので、単独では使わない。"],
+    "etym_note": "ギリシャ語 -ika（〜に関する事柄）に由来する接尾辞。学問や活動の分野を表す。",
+    "etym_chain": [
+      { "node": "-ika", "sub": "〜に関する事柄", "era": "ギリシャ語" },
+      { "node": "-ics", "sub": "〜学・〜術", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "physics", "ja": "物理学" },
+      { "en": "mathematics", "ja": "数学" },
+      { "en": "economics", "ja": "経済学" },
+      { "en": "politics", "ja": "政治" },
+      { "en": "athletics", "ja": "陸上競技" },
+      { "en": "ethics", "ja": "倫理学" }
+    ],
+    "related": [
+      { "en": "-ology", "ja": "〜学（接尾辞）" },
+      { "en": "-ism", "ja": "〜主義（接尾辞）" },
+      { "en": "physics", "ja": "物理学" },
+      { "en": "economics", "ja": "経済学" }
+    ],
+    "faq": [
+      { "q": "-ics は単数？複数？", "a": "学問名として使うときは形は複数でも単数扱いです。例：Mathematics is fun.（数学は楽しい）" },
+      { "q": "-ics はどんな語を作る？", "a": "physics（物理学）、economics（経済学）のような学問名や、athletics（陸上競技）のような活動分野を表す名詞を作ります。" }
+    ],
+    "quiz": [
+      { "q": "econom- に -ics を付けると？", "A": "economics（経済学）", "B": "economer", "C": "economful", "D": "economless", "correct": "A" },
+      { "q": "Mathematics ___ difficult. に入るのは？", "A": "is", "B": "are", "C": "were", "D": "have", "correct": "A" }
+    ]
+  },
+  {
+    "english": "-ing",
+    "pron": "ɪŋ",
+    "kana": "イング",
+    "hinshi": "接尾辞",
+    "ld_pos": "接尾辞",
+    "ld_etym": "古英語 -ung / -ing",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A1", "語形成"],
+    "meaning_main": "〜すること／〜している（動名詞・現在分詞・名詞を作る）",
+    "description": "-ing（イング）は動詞に付いて「〜すること（動名詞）」「〜している（現在分詞）」を作る接尾辞。running（走ること）、swimming（水泳）のほか、building（建物）、painting（絵）のような名詞も作ります。",
+    "keywords": ["-ing 意味", "-ing 接尾辞", "動名詞 作り方", "現在分詞 -ing"],
+    "meanings": [
+      { "hinshi": "【接尾】〜すること（動名詞）", "note": "動詞を名詞化する。例：swim→swimming（水泳）。" },
+      { "hinshi": "【接尾】〜している（現在分詞）", "note": "進行や状態を表す。例：running water（流れる水）。" },
+      { "hinshi": "【接尾】〜されたもの・行為の結果（名詞）", "note": "例：building（建物）、painting（絵）。" }
+    ],
+    "usages": [
+      { "title": "① 動名詞を作る", "desc": "『〜すること』の名詞。", "example_en": "swim → swimming (水泳)", "example_ja": "泳ぐ→泳ぐこと。" },
+      { "title": "② 現在分詞を作る", "desc": "『〜している』の形。", "example_en": "run → running (走っている)", "example_ja": "進行中の動作を表す。" }
+    ],
+    "warn": ["短母音＋子音で終わる語は子音を重ねる：run→running, swim→swimming。", "eで終わる語はeを取る：make→making。"],
+    "etym_note": "古英語で動名詞を作る -ung、現在分詞を作る -ende が、中英語期に -ing に統合された。",
+    "etym_chain": [
+      { "node": "-ung / -ende", "sub": "〜すること・〜している", "era": "古英語" },
+      { "node": "-ing", "sub": "〜すること・〜している", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "running", "ja": "走ること、ランニング" },
+      { "en": "swimming", "ja": "水泳" },
+      { "en": "building", "ja": "建物" },
+      { "en": "painting", "ja": "絵、絵画" },
+      { "en": "clothing", "ja": "衣類" },
+      { "en": "meeting", "ja": "会議" }
+    ],
+    "related": [
+      { "en": "-ed", "ja": "〜した（接尾辞）" },
+      { "en": "-tion", "ja": "〜すること（接尾辞）" },
+      { "en": "running", "ja": "走ること" },
+      { "en": "building", "ja": "建物" }
+    ],
+    "faq": [
+      { "q": "-ing の付け方の注意は？", "a": "短母音＋子音1つで終わる語は子音を重ねます（run→running）。eで終わる語はeを取ります（make→making）。" },
+      { "q": "-ing はどんな語を作る？", "a": "動名詞（swimming 水泳）や現在分詞（running 走っている）、building（建物）のような名詞を作ります。" }
+    ],
+    "quiz": [
+      { "q": "swim に -ing を付けると？", "A": "swimming", "B": "swiming", "C": "swimingg", "D": "swimm", "correct": "A" },
+      { "q": "動名詞 swimming の意味は？", "A": "泳ぐこと", "B": "泳いだ", "C": "泳ぐ人", "D": "泳げない", "correct": "A" }
+    ]
+  },
+  {
+    "english": "-ism",
+    "pron": "ɪzəm",
+    "kana": "イズム",
+    "hinshi": "接尾辞",
+    "ld_pos": "接尾辞",
+    "ld_etym": "ギリシャ語 -ismos（行為・状態）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "語形成"],
+    "meaning_main": "〜主義／〜説／〜の状態（名詞を作る接尾辞）",
+    "description": "-ism（イズム）は「〜主義・〜説・〜の性質や状態」を表す名詞を作る接尾辞。capitalism（資本主義）、socialism（社会主義）、tourism（観光）のような語を作ります。",
+    "keywords": ["-ism 意味", "-ism 接尾辞", "capitalism 語形成", "主義 英語"],
+    "meanings": [
+      { "hinshi": "【接尾】〜主義、〜説", "note": "思想や信条を表す。例：capitalism（資本主義）。" },
+      { "hinshi": "【接尾】〜の状態・行為・特徴", "note": "例：tourism（観光）、criticism（批評）。" }
+    ],
+    "usages": [
+      { "title": "① 主義・思想を作る", "desc": "『〜という考え方』。", "example_en": "social → socialism (社会主義)", "example_ja": "社会→社会主義。" },
+      { "title": "② 行為・状態を作る", "desc": "『〜すること・〜の性質』。", "example_en": "tour → tourism (観光)", "example_ja": "旅行する行為・産業。" }
+    ],
+    "warn": ["『〜主義者』は -ist（capitalist 資本主義者）。", "語そのものではなく造語成分なので、単独では使わない（日本語の『イズム』とは別）。"],
+    "etym_note": "ギリシャ語 -ismos（行為・状態）に由来する接尾辞。思想・状態・特徴を表す名詞を作る。",
+    "etym_chain": [
+      { "node": "-ismos", "sub": "行為・状態", "era": "ギリシャ語" },
+      { "node": "-ism", "sub": "〜主義・〜の状態", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "capitalism", "ja": "資本主義" },
+      { "en": "socialism", "ja": "社会主義" },
+      { "en": "criticism", "ja": "批評、批判" },
+      { "en": "tourism", "ja": "観光" },
+      { "en": "optimism", "ja": "楽観主義" },
+      { "en": "racism", "ja": "人種差別" }
+    ],
+    "related": [
+      { "en": "-ist", "ja": "〜主義者（接尾辞）" },
+      { "en": "-ity", "ja": "〜の性質（接尾辞）" },
+      { "en": "capitalism", "ja": "資本主義" },
+      { "en": "tourism", "ja": "観光" }
+    ],
+    "faq": [
+      { "q": "-ism と -ist の違いは？", "a": "-ism は『〜主義・思想そのもの』（socialism 社会主義）、-ist は『それを信じる人』（socialist 社会主義者）です。" },
+      { "q": "-ism はどんな語を作る？", "a": "capitalism（資本主義）のような思想名や、tourism（観光）、criticism（批評）のような行為・状態を表す名詞を作ります。" }
+    ],
+    "quiz": [
+      { "q": "social に -ism を付けると？", "A": "socialism（社会主義）", "B": "socialist", "C": "socialful", "D": "socially", "correct": "A" },
+      { "q": "-ism が表すのは？", "A": "〜主義・〜の状態", "B": "〜がない", "C": "〜する道具", "D": "〜の前に", "correct": "A" }
+    ]
+  },
+  {
+    "english": "-let",
+    "pron": "lət",
+    "kana": "レット",
+    "hinshi": "接尾辞",
+    "ld_pos": "接尾辞",
+    "ld_etym": "古フランス語 -et（指小辞）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "語形成"],
+    "meaning_main": "小さな〜／〜の小さいもの（名詞を作る指小の接尾辞）",
+    "description": "-let（レット）は「小さな〜・かわいらしい〜」を表す指小の接尾辞。booklet（小冊子）、piglet（子豚）、droplet（しずく）のような『小さいもの』を表す名詞を作ります。",
+    "keywords": ["-let 意味", "-let 接尾辞", "booklet 語形成", "piglet 語形成"],
+    "meanings": [
+      { "hinshi": "【接尾】小さな〜、〜の小型のもの", "note": "『小型・少量』を表す指小辞。例：booklet（小冊子）。" },
+      { "hinshi": "【接尾】〜の子・かわいらしい〜", "note": "例：piglet（子豚）、starlet（駆け出しの女優）。" }
+    ],
+    "usages": [
+      { "title": "① 小さいものを作る", "desc": "『小型の〜』。", "example_en": "book → booklet (小冊子)", "example_ja": "本→小さな冊子。" },
+      { "title": "② 動物の子を作る", "desc": "『〜の子』。", "example_en": "pig → piglet (子豚)", "example_ja": "豚→子豚。" }
+    ],
+    "warn": ["leaflet（ちらし）のように意味が特化した語もある。", "語そのものではなく造語成分なので、単独では使わない。"],
+    "etym_note": "古フランス語の指小辞 -et（小さいもの）に由来する接尾辞。『小型・少量』を表す。",
+    "etym_chain": [
+      { "node": "-et", "sub": "小さいもの", "era": "古フランス語" },
+      { "node": "-let", "sub": "小さな〜", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "booklet", "ja": "小冊子" },
+      { "en": "piglet", "ja": "子豚" },
+      { "en": "droplet", "ja": "しずく、小滴" },
+      { "en": "leaflet", "ja": "ちらし、リーフレット" },
+      { "en": "starlet", "ja": "駆け出しの女優" },
+      { "en": "streamlet", "ja": "小川" }
+    ],
+    "related": [
+      { "en": "-ette", "ja": "小さな〜（接尾辞）" },
+      { "en": "-ling", "ja": "小さな〜（接尾辞）" },
+      { "en": "booklet", "ja": "小冊子" },
+      { "en": "droplet", "ja": "しずく" }
+    ],
+    "faq": [
+      { "q": "-let はどんな語を作る？", "a": "booklet（小冊子）、droplet（しずく）のように『小さいもの』を表す名詞を作ります。" },
+      { "q": "-let と -ette の違いは？", "a": "どちらも『小さな〜』を表しますが、-ette はフランス風で kitchenette（簡易台所）などに、-let は booklet などに使われます。" }
+    ],
+    "quiz": [
+      { "q": "book に -let を付けると？", "A": "booklet（小冊子）", "B": "bookful", "C": "bookish", "D": "bookless", "correct": "A" },
+      { "q": "-let が表すのは？", "A": "小さな〜", "B": "大きな〜", "C": "〜がない", "D": "〜する人", "correct": "A" }
+    ]
+  },
+  {
+    "english": "-like",
+    "pron": "laɪk",
+    "kana": "ライク",
+    "hinshi": "接尾辞（結合語）",
+    "ld_pos": "接尾辞",
+    "ld_etym": "like（〜のような）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "語形成"],
+    "meaning_main": "〜のような／〜に似た（形容詞を作る結合形）",
+    "description": "-like（ライク）は「〜のような・〜に似た・〜らしい」という形容詞を作る結合形。childlike（子どものような）、lifelike（本物そっくりの）、businesslike（てきぱきした）のような語を作ります。",
+    "keywords": ["-like 意味", "-like 接尾辞", "childlike 語形成", "lifelike 語形成"],
+    "meanings": [
+      { "hinshi": "【結合】〜のような、〜に似た", "note": "名詞に付いて『〜に似た性質の』を表す。例：lifelike。" },
+      { "hinshi": "【結合】〜にふさわしい、〜らしい", "note": "例：businesslike（てきぱきした）。" }
+    ],
+    "usages": [
+      { "title": "① 『〜に似た』を作る", "desc": "『〜のような』。", "example_en": "life → lifelike (本物そっくりの)", "example_ja": "命→生きているような。" },
+      { "title": "② 『〜らしい』を作る", "desc": "『〜にふさわしい様子』。", "example_en": "child → childlike (子どものような)", "example_ja": "純真で子どもらしい様子。" }
+    ],
+    "warn": ["childlike（純真な良い意味）と childish（子どもっぽい悪い意味）は区別する。", "多くはそのまま付けるが、l で終わる語はハイフンを入れることがある（bell-like）。"],
+    "etym_note": "『〜のような』を意味する like が、他の名詞と結び付いて『〜に似た』を表す結合形になった。",
+    "etym_chain": [
+      { "node": "gelīc", "sub": "似た", "era": "古英語" },
+      { "node": "-like", "sub": "〜のような", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "childlike", "ja": "子どものような、純真な" },
+      { "en": "lifelike", "ja": "本物そっくりの" },
+      { "en": "businesslike", "ja": "てきぱきした、事務的な" },
+      { "en": "dreamlike", "ja": "夢のような" },
+      { "en": "ladylike", "ja": "上品な、淑女らしい" },
+      { "en": "godlike", "ja": "神のような" }
+    ],
+    "related": [
+      { "en": "-ish", "ja": "〜っぽい（接尾辞）" },
+      { "en": "-esque", "ja": "〜風の（接尾辞）" },
+      { "en": "childlike", "ja": "子どものような" },
+      { "en": "lifelike", "ja": "本物そっくりの" }
+    ],
+    "faq": [
+      { "q": "-like と -ish の違いは？", "a": "-like は『〜に似た』（lifelike 本物そっくり）、-ish は『〜っぽい・やや〜』（reddish 赤みがかった）で、-ish の方がぼかした言い方です。" },
+      { "q": "childlike と childish の違いは？", "a": "childlike は『純真な』という良い意味、childish は『子どもっぽい・幼稚な』という悪い意味です。" }
+    ],
+    "quiz": [
+      { "q": "life に -like を付けると？", "A": "lifelike（本物そっくりの）", "B": "lifeful", "C": "lifeless", "D": "lifely", "correct": "A" },
+      { "q": "-like が表すのは？", "A": "〜のような・〜に似た", "B": "〜がない", "C": "〜する人", "D": "〜の前に", "correct": "A" }
+    ]
+  },
+  {
+    "english": "-ment",
+    "pron": "mənt",
+    "kana": "メント",
+    "hinshi": "接尾辞",
+    "ld_pos": "接尾辞",
+    "ld_etym": "ラテン語 -mentum（手段・結果）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "語形成"],
+    "meaning_main": "〜すること／〜の結果・状態（名詞を作る接尾辞）",
+    "description": "-ment（メント）は動詞に付いて「〜すること・〜の結果・〜の状態」を表す名詞を作る接尾辞。movement（動き）、development（発展）、agreement（合意）のような語を作ります。",
+    "keywords": ["-ment 意味", "-ment 接尾辞", "movement 語形成", "development 語形成"],
+    "meanings": [
+      { "hinshi": "【接尾】〜すること、〜の行為", "note": "動詞を名詞化する。例：move→movement（動き）。" },
+      { "hinshi": "【接尾】〜の結果・状態", "note": "例：agreement（合意）、enjoyment（楽しみ）。" }
+    ],
+    "usages": [
+      { "title": "① 行為の名詞を作る", "desc": "『〜すること』。", "example_en": "develop → development (発展)", "example_ja": "発展させる→発展。" },
+      { "title": "② 結果・状態を作る", "desc": "『〜した結果』。", "example_en": "agree → agreement (合意)", "example_ja": "同意する→合意。" }
+    ],
+    "warn": ["argument（議論）のように e が落ちるつづりに注意（argue→argument）。", "語そのものではなく造語成分なので、単独では使わない。"],
+    "etym_note": "ラテン語 -mentum（手段・結果）に由来し、古フランス語を経て英語に入った。動詞を名詞化する。",
+    "etym_chain": [
+      { "node": "-mentum", "sub": "手段・結果", "era": "ラテン語" },
+      { "node": "-ment", "sub": "〜すること・〜の結果", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "movement", "ja": "動き、運動" },
+      { "en": "development", "ja": "発展、開発" },
+      { "en": "agreement", "ja": "合意、協定" },
+      { "en": "government", "ja": "政府" },
+      { "en": "enjoyment", "ja": "楽しみ" },
+      { "en": "argument", "ja": "議論、口論" }
+    ],
+    "related": [
+      { "en": "-tion", "ja": "〜すること（接尾辞）" },
+      { "en": "-ance", "ja": "〜の状態（接尾辞）" },
+      { "en": "movement", "ja": "動き" },
+      { "en": "development", "ja": "発展" }
+    ],
+    "faq": [
+      { "q": "-ment はどんな語を作る？", "a": "動詞から movement（動き）、development（発展）、agreement（合意）のような名詞を作ります。" },
+      { "q": "argument のつづりの注意は？", "a": "argue の e が落ちて argument になります（argue → argument）。" }
+    ],
+    "quiz": [
+      { "q": "develop に -ment を付けると？", "A": "development（発展）", "B": "developful", "C": "developer", "D": "developly", "correct": "A" },
+      { "q": "-ment が表すのは？", "A": "〜すること・〜の結果", "B": "〜がない", "C": "〜する人", "D": "とても〜", "correct": "A" }
+    ]
+  },
+  {
+    "english": "-ologist",
+    "pron": "ɒlədʒɪst",
+    "kana": "オロジスト",
+    "hinshi": "接尾辞",
+    "ld_pos": "接尾辞",
+    "ld_etym": "-ology（学問）＋-ist（する人）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "語形成"],
+    "meaning_main": "〜学者／〜を研究する人（名詞を作る接尾辞）",
+    "description": "-ologist（オロジスト）は「〜学の専門家・〜を研究する人」を表す接尾辞。biologist（生物学者）、psychologist（心理学者）、geologist（地質学者）のような研究者を表す語を作ります。",
+    "keywords": ["-ologist 意味", "-ologist 接尾辞", "biologist 語形成", "学者 英語"],
+    "meanings": [
+      { "hinshi": "【接尾】〜学者、〜の研究者", "note": "『〜ology（〜学）を研究する人』を表す。例：biologist。" },
+      { "hinshi": "【接尾】〜の専門家", "note": "-ology（学問）＋ -ist（する人）の組み合わせ。" }
+    ],
+    "usages": [
+      { "title": "① 研究者を作る", "desc": "『〜学を研究する人』。", "example_en": "biology → biologist (生物学者)", "example_ja": "生物学→生物学者。" },
+      { "title": "② 専門家を作る", "desc": "『〜の専門家』。", "example_en": "psychology → psychologist (心理学者)", "example_ja": "心理学→心理学者。" }
+    ],
+    "warn": ["学問名は -ology（biology）、研究者は -ologist（biologist）。", "語そのものではなく造語成分なので、単独では使わない。"],
+    "etym_note": "ギリシャ語由来の -ology（〜の学問）に、行為者を表す -ist が付いた結合形。『〜学者』を表す。",
+    "etym_chain": [
+      { "node": "-ologia + -istes", "sub": "学問＋する人", "era": "ギリシャ語" },
+      { "node": "-ologist", "sub": "〜学者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "biologist", "ja": "生物学者" },
+      { "en": "psychologist", "ja": "心理学者" },
+      { "en": "geologist", "ja": "地質学者" },
+      { "en": "zoologist", "ja": "動物学者" },
+      { "en": "archaeologist", "ja": "考古学者" },
+      { "en": "meteorologist", "ja": "気象学者" }
+    ],
+    "related": [
+      { "en": "-ology", "ja": "〜学（接尾辞）" },
+      { "en": "-ist", "ja": "〜する人（接尾辞）" },
+      { "en": "biologist", "ja": "生物学者" },
+      { "en": "scientist", "ja": "科学者" }
+    ],
+    "faq": [
+      { "q": "-ology と -ologist の違いは？", "a": "-ology は『〜学』という学問（biology 生物学）、-ologist はそれを『研究する人』（biologist 生物学者）です。" },
+      { "q": "-ologist はどんな語を作る？", "a": "biologist（生物学者）、psychologist（心理学者）のような研究者・専門家を表す名詞を作ります。" }
+    ],
+    "quiz": [
+      { "q": "biology の研究者は？", "A": "biologist（生物学者）", "B": "biologer", "C": "biologian", "D": "biologee", "correct": "A" },
+      { "q": "-ologist が表すのは？", "A": "〜学者・研究者", "B": "〜がない", "C": "〜の場所", "D": "とても〜", "correct": "A" }
+    ]
+  },
+  {
+    "english": "bach",
+    "pron": "bɑːk",
+    "kana": "バッハ",
+    "hinshi": "固有名詞（人名）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ドイツ語の姓 Bach（小川の意）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "固有名詞"],
+    "meaning_main": "バッハ（ドイツの作曲家ヨハン・ゼバスティアン・バッハ）",
+    "description": "bach（バッハ）はドイツの作曲家ヨハン・ゼバスティアン・バッハ（Johann Sebastian Bach, 1685-1750）を指す固有名詞。バロック音楽を代表し「音楽の父」と呼ばれます。文中では大文字で Bach と書きます。",
+    "keywords": ["Bach 意味", "Bach 作曲家", "バッハ 音楽の父", "Bach 誰"],
+    "meanings": [
+      { "hinshi": "【固名】ヨハン・ゼバスティアン・バッハ", "note": "バロック時代を代表する作曲家。文中では大文字 Bach。" },
+      { "hinshi": "【固名】バッハ（姓）", "note": "ドイツ語で『小川』を意味する姓。音楽一家として有名。" }
+    ],
+    "usages": [
+      { "title": "① 作曲家を指す", "desc": "バロック音楽の巨匠として。", "example_en": "Bach composed the Brandenburg Concertos.", "example_ja": "バッハはブランデンブルク協奏曲を作曲した。" },
+      { "title": "② 作品とともに", "desc": "代表作を挙げる文脈。", "example_en": "I love listening to Bach's organ music.", "example_ja": "私はバッハのオルガン曲を聴くのが大好きだ。" }
+    ],
+    "warn": ["見出し語は小文字だが、文中では固有名詞なので大文字 Bach と書く。", "発音は『バック』に近い（バッハはドイツ語読み）。同じくバロックの Handel（ヘンデル）と同時代。"],
+    "etym_note": "ドイツ語で『小川』を意味する姓 Bach に由来。ヨハン・ゼバスティアン・バッハで広く知られる。",
+    "etym_chain": [
+      { "node": "Bach", "sub": "小川", "era": "ドイツ語" },
+      { "node": "Bach", "sub": "バッハ（姓）", "era": "現代" }
+    ],
+    "phrases": [
+      { "en": "Bach's music", "ja": "バッハの音楽" },
+      { "en": "a piece by Bach", "ja": "バッハの作品" },
+      { "en": "Bach's cantatas", "ja": "バッハのカンタータ" },
+      { "en": "play Bach on the organ", "ja": "オルガンでバッハを弾く" },
+      { "en": "the music of Bach", "ja": "バッハの音楽" },
+      { "en": "Bach and Handel", "ja": "バッハとヘンデル" }
+    ],
+    "related": [
+      { "en": "composer", "ja": "作曲家" },
+      { "en": "music", "ja": "音楽" },
+      { "en": "baroque", "ja": "バロック（様式）" },
+      { "en": "organ", "ja": "オルガン" }
+    ],
+    "faq": [
+      { "q": "Bach とは誰？", "a": "ヨハン・ゼバスティアン・バッハ（1685-1750）というドイツの作曲家です。バロック音楽の頂点とされ『音楽の父』と呼ばれます。" },
+      { "q": "Bach の意味は？", "a": "ドイツ語で『小川』を意味する姓です。作曲家バッハの家系は多くの音楽家を輩出しました。" }
+    ],
+    "quiz": [
+      { "q": "Bach の職業は？", "A": "作曲家", "B": "画家", "C": "科学者", "D": "作家", "correct": "A" },
+      { "q": "Bach が活躍した時代は？", "A": "バロック時代", "B": "ルネサンス以前", "C": "20世紀", "D": "現代", "correct": "A" }
+    ]
+  },
+  {
+    "english": "admitted",
+    "pron": "ədˈmɪtɪd",
+    "kana": "アドミッティド",
+    "hinshi": "動詞（admitの過去・過去分詞）/ 形容詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 admittere（中へ入れる）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "活用形"],
+    "meaning_main": "認めた／入場を許した（admitの過去形・過去分詞）",
+    "description": "admitted（アドミッティド）はadmit（認める・入れる）の過去形・過去分詞。「（事実・非を）認めた」「入場・入学を許可した」という意味です。形容詞で「公認の」という使い方もあります。",
+    "keywords": ["admitted 意味", "admit 過去形", "admitted 使い方", "認めた 英語"],
+    "meanings": [
+      { "hinshi": "【動】（事実・非を）認めた", "note": "admitの過去・過去分詞。しぶしぶ認めるニュアンス。" },
+      { "hinshi": "【動】入場・入学を許可した", "note": "be admitted to 〜 で『〜への入場・入学が許される』。" },
+      { "hinshi": "【形】公認の、明白な", "note": "an admitted fact（周知の事実）。" }
+    ],
+    "usages": [
+      { "title": "① 非や事実を認める", "desc": "自分の誤りなどを認める。", "example_en": "He admitted that he was wrong.", "example_ja": "彼は自分が間違っていたと認めた。" },
+      { "title": "② 入場・入学を許す", "desc": "受け入れを許可する。", "example_en": "She was admitted to a top university.", "example_ja": "彼女は一流大学への入学を許された。" }
+    ],
+    "warn": ["つづりに注意：admit の t を重ねて admitted。", "admit doing / admit that ...（〜を認める）。admit to 〜 は『〜を打ち明ける』。"],
+    "etym_note": "ラテン語 admittere（ad-（〜へ）＋ mittere（送る）＝中へ入れる）に由来。過去形は t を重ねて admitted。",
+    "etym_chain": [
+      { "node": "admittere", "sub": "中へ入れる", "era": "ラテン語" },
+      { "node": "admit", "sub": "認める・入れる", "era": "中英語" },
+      { "node": "admitted", "sub": "認めた", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "admitted his mistake", "ja": "自分の誤りを認めた" },
+      { "en": "admitted defeat", "ja": "負けを認めた" },
+      { "en": "was admitted to hospital", "ja": "入院した" },
+      { "en": "admitted to the club", "ja": "クラブへの入会を許された" },
+      { "en": "an admitted fact", "ja": "周知の事実" },
+      { "en": "admitted the truth", "ja": "真実を認めた" }
+    ],
+    "related": [
+      { "en": "admit", "ja": "認める（原形）" },
+      { "en": "confess", "ja": "告白する、認める" },
+      { "en": "acknowledge", "ja": "認める" },
+      { "en": "deny", "ja": "否定する" }
+    ],
+    "faq": [
+      { "q": "admit の過去形は？", "a": "admitted です。t を重ねます。過去分詞も同じ admitted です。" },
+      { "q": "admit と confess の違いは？", "a": "どちらも『認める』ですが、confess は罪や秘密の『告白』に、admit はより広く事実や非を認めることに使います。" }
+    ],
+    "quiz": [
+      { "q": "admit の過去形は？", "A": "admitted", "B": "admited", "C": "admit", "D": "admitting", "correct": "A" },
+      { "q": "was admitted to hospital の意味は？", "A": "入院した", "B": "退院した", "C": "病院を建てた", "D": "病院を訪れた", "correct": "A" }
+    ]
+  },
+  {
+    "english": "aggressiveness",
+    "pron": "əˈɡresɪvnəs",
+    "kana": "アグレッシブネス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "aggressive（攻撃的な）＋-ness（性質）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "感情表現"],
+    "meaning_main": "攻撃性／積極性／強引さ",
+    "description": "aggressiveness（アグレッシブネス）は「攻撃性・積極性・強引さ」という意味の名詞。aggressive（攻撃的な・積極的な）に-nessがついた語で、良い意味の『積極性』にも悪い意味の『攻撃性』にも使われます。",
+    "keywords": ["aggressiveness 意味", "aggressiveness 使い方", "攻撃性 英語", "積極性 英語"],
+    "meanings": [
+      { "hinshi": "【名】攻撃性、好戦性", "note": "他者を攻撃しようとする性質。不可算名詞。" },
+      { "hinshi": "【名】積極性、意欲の強さ", "note": "良い意味で『押しの強さ・意欲』を表すこともある。" }
+    ],
+    "usages": [
+      { "title": "① 攻撃的な性質", "desc": "怒りっぽさや好戦性。", "example_en": "His aggressiveness scared the other children.", "example_ja": "彼の攻撃性は他の子どもたちを怖がらせた。" },
+      { "title": "② 積極性・意欲", "desc": "ビジネスやスポーツで前向きな強さ。", "example_en": "The team played with great aggressiveness.", "example_ja": "そのチームは非常に積極的にプレーした。" }
+    ],
+    "warn": ["文脈で『攻撃性（悪い）』か『積極性（良い）』かが変わる。", "類語 aggression は『攻撃・侵略』という行為を指すことが多い。"],
+    "etym_note": "ラテン語 aggredi（攻撃する）由来の aggressive に、名詞化の -ness が付いた語。「攻撃的である性質」。",
+    "etym_chain": [
+      { "node": "aggredi", "sub": "攻撃する", "era": "ラテン語" },
+      { "node": "aggressive", "sub": "攻撃的な", "era": "近代英語" },
+      { "node": "aggressiveness", "sub": "攻撃性", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "show aggressiveness", "ja": "攻撃性を見せる" },
+      { "en": "verbal aggressiveness", "ja": "言葉の攻撃性" },
+      { "en": "play with aggressiveness", "ja": "積極的にプレーする" },
+      { "en": "control one's aggressiveness", "ja": "攻撃性を抑える" },
+      { "en": "sales aggressiveness", "ja": "販売の積極性" },
+      { "en": "a sudden aggressiveness", "ja": "突然の攻撃的態度" }
+    ],
+    "related": [
+      { "en": "aggressive", "ja": "攻撃的な、積極的な" },
+      { "en": "aggression", "ja": "攻撃、侵略" },
+      { "en": "hostility", "ja": "敵意" },
+      { "en": "assertiveness", "ja": "自己主張の強さ" }
+    ],
+    "faq": [
+      { "q": "aggressiveness と aggression の違いは？", "a": "aggressiveness は『攻撃的な性質・傾向』、aggression は『攻撃・侵略』という具体的な行為を指すことが多いです。" },
+      { "q": "良い意味でも使える？", "a": "はい。スポーツやビジネスでは『積極性・意欲の強さ』という前向きな意味でも使われます。" }
+    ],
+    "quiz": [
+      { "q": "aggressiveness の意味は？", "A": "攻撃性・積極性", "B": "臆病さ", "C": "優しさ", "D": "正直さ", "correct": "A" },
+      { "q": "play with aggressiveness の意味は？", "A": "積極的にプレーする", "B": "消極的にプレーする", "C": "楽しく遊ぶ", "D": "静かに待つ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "armageddon",
+    "pron": "ˌɑːrməˈɡedn",
+    "kana": "アルマゲドン",
+    "hinshi": "名詞（固有名詞由来）",
+    "ld_pos": "名詞",
+    "ld_etym": "ヘブライ語 Har Megiddo（メギドの丘）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "宗教・比喩"],
+    "meaning_main": "アルマゲドン（世界最終戦争）／破滅的な大決戦",
+    "description": "armageddon（アルマゲドン）は「世界の終末に起こるとされる善悪の最終決戦」や「破滅的な大戦・大惨事」という意味の名詞。新約聖書『ヨハネの黙示録』に由来します。特定の戦いを指すときは大文字 Armageddon と書きます。",
+    "keywords": ["Armageddon 意味", "アルマゲドン 意味", "最終戦争 英語", "黙示録 アルマゲドン"],
+    "meanings": [
+      { "hinshi": "【名】ハルマゲドン、世界最終戦争", "note": "聖書で善と悪が戦う終末の決戦。大文字 Armageddon。" },
+      { "hinshi": "【名】破滅的な大戦・大惨事（比喩）", "note": "小文字で『壊滅的な争い・危機』の意味でも使う。" }
+    ],
+    "usages": [
+      { "title": "① 聖書の最終決戦", "desc": "終末の善悪の戦い。", "example_en": "The book describes Armageddon, the final battle.", "example_ja": "その本は最終決戦であるハルマゲドンを描いている。" },
+      { "title": "② 比喩的な大破滅", "desc": "壊滅的な事態のたとえ。", "example_en": "People feared a nuclear armageddon during the Cold War.", "example_ja": "冷戦中、人々は核による破滅を恐れた。" }
+    ],
+    "warn": ["聖書の具体的な戦いを指すときは大文字 Armageddon、比喩では小文字も使う。", "日本語では『ハルマゲドン』とも表記する。"],
+    "etym_note": "ヘブライ語 Har Megiddo（メギドの丘）に由来。黙示録でここが最終決戦の場とされたことから。",
+    "etym_chain": [
+      { "node": "Har Megiddo", "sub": "メギドの丘", "era": "ヘブライ語" },
+      { "node": "Armageddon", "sub": "最終決戦", "era": "新約聖書" },
+      { "node": "armageddon", "sub": "大破滅", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "nuclear armageddon", "ja": "核による破滅" },
+      { "en": "the battle of Armageddon", "ja": "ハルマゲドンの戦い" },
+      { "en": "face armageddon", "ja": "破滅に直面する" },
+      { "en": "economic armageddon", "ja": "経済的大破綻" },
+      { "en": "avoid armageddon", "ja": "破滅を回避する" },
+      { "en": "a financial armageddon", "ja": "金融の大崩壊" }
+    ],
+    "related": [
+      { "en": "apocalypse", "ja": "黙示録、この世の終わり" },
+      { "en": "doomsday", "ja": "最後の審判の日" },
+      { "en": "catastrophe", "ja": "大惨事" },
+      { "en": "disaster", "ja": "災害、大失敗" }
+    ],
+    "faq": [
+      { "q": "Armageddon の由来は？", "a": "新約聖書『ヨハネの黙示録』で、善と悪の軍勢が戦う場所とされたメギドの丘（Har Megiddo）に由来します。" },
+      { "q": "armageddon と apocalypse の違いは？", "a": "armageddon は『最終決戦（の戦い）』、apocalypse は『世界の終末・黙示録』全体を指します。" }
+    ],
+    "quiz": [
+      { "q": "armageddon の意味は？", "A": "世界最終戦争・大破滅", "B": "平和条約", "C": "祝祭", "D": "建国記念", "correct": "A" },
+      { "q": "Armageddon の由来は？", "A": "聖書（黙示録）", "B": "ギリシャ神話", "C": "科学用語", "D": "スポーツ用語", "correct": "A" }
+    ]
+  },
+  {
+    "english": "astrophysicist",
+    "pron": "ˌæstroʊˈfɪzɪsɪst",
+    "kana": "アストロフィジシスト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "astro-（星の）＋physicist（物理学者）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "職業"],
+    "meaning_main": "天体物理学者",
+    "description": "astrophysicist（アストロフィジシスト）は「天体物理学者」という意味の名詞。astro-（星・宇宙の）とphysicist（物理学者）を合わせた語で、星や銀河など宇宙の物理現象を研究する科学者を指します。",
+    "keywords": ["astrophysicist 意味", "astrophysicist 使い方", "天体物理学者 英語", "宇宙 研究者 英語"],
+    "meanings": [
+      { "hinshi": "【名】天体物理学者", "note": "星・銀河・宇宙の物理を研究する科学者。可算名詞。" },
+      { "hinshi": "【名】宇宙物理の専門家", "note": "astrophysics（天体物理学）を専門とする人。" }
+    ],
+    "usages": [
+      { "title": "① 職業を指す", "desc": "宇宙の物理を研究する人。", "example_en": "The astrophysicist studies distant galaxies.", "example_ja": "その天体物理学者は遠い銀河を研究している。" },
+      { "title": "② 専門家として紹介", "desc": "宇宙分野の権威。", "example_en": "She became a famous astrophysicist.", "example_ja": "彼女は有名な天体物理学者になった。" }
+    ],
+    "warn": ["astronomer（天文学者）は天体の観測、astrophysicist はその物理法則の研究に重点がある。", "つづりが長いので注意：astro＋physicist。"],
+    "etym_note": "ギリシャ語 astro-（星）＋ physics 由来の physicist（物理学者）による複合語。「星の物理を扱う人」。",
+    "etym_chain": [
+      { "node": "astron", "sub": "星", "era": "ギリシャ語" },
+      { "node": "astrophysics", "sub": "天体物理学", "era": "19世紀英語" },
+      { "node": "astrophysicist", "sub": "天体物理学者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a famous astrophysicist", "ja": "有名な天体物理学者" },
+      { "en": "a leading astrophysicist", "ja": "第一線の天体物理学者" },
+      { "en": "work as an astrophysicist", "ja": "天体物理学者として働く" },
+      { "en": "a team of astrophysicists", "ja": "天体物理学者のチーム" },
+      { "en": "the astrophysicist explained", "ja": "その天体物理学者は説明した" },
+      { "en": "become an astrophysicist", "ja": "天体物理学者になる" }
+    ],
+    "related": [
+      { "en": "astronomer", "ja": "天文学者" },
+      { "en": "physicist", "ja": "物理学者" },
+      { "en": "astronomy", "ja": "天文学" },
+      { "en": "universe", "ja": "宇宙" }
+    ],
+    "faq": [
+      { "q": "astrophysicist と astronomer の違いは？", "a": "astronomer（天文学者）は天体の観測や位置を扱い、astrophysicist（天体物理学者）は星や銀河が従う物理法則を研究します。重なる部分もあります。" },
+      { "q": "何を研究する？", "a": "星の誕生や死、銀河、ブラックホール、宇宙の成り立ちなど、宇宙の物理現象を研究します。" }
+    ],
+    "quiz": [
+      { "q": "astrophysicist の意味は？", "A": "天体物理学者", "B": "気象予報士", "C": "地質学者", "D": "考古学者", "correct": "A" },
+      { "q": "astrophysicist が研究するのは？", "A": "宇宙の物理現象", "B": "海の生物", "C": "古代遺跡", "D": "人間の心理", "correct": "A" }
+    ]
+  }
+]
