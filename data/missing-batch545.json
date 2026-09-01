@@ -1,0 +1,994 @@
+[
+  {
+    "english": "flames",
+    "pron": "fleɪmz",
+    "kana": "フレイムズ",
+    "hinshi": "名詞（flameの複数形）/ 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 flamma（炎）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "自然"],
+    "meaning_main": "炎（flameの複数形）／燃え上がる",
+    "description": "flames（フレイムズ）はflame（炎）の複数形。「（複数の）炎・燃え盛る火」という意味です。in flames（炎に包まれて）、burst into flames（急に燃え上がる）などの表現でよく使います。",
+    "keywords": ["flames 意味", "flame 複数形", "in flames 意味", "炎 英語"],
+    "meanings": [
+      { "hinshi": "【名】炎（複数）、燃え盛る火", "note": "flameの複数形。ゆらめく複数の炎。" },
+      { "hinshi": "【動】燃え上がる、赤く輝く", "note": "flameの三人称単数現在形としても使う。" }
+    ],
+    "usages": [
+      { "title": "① 燃え盛る炎", "desc": "複数の炎が上がる様子。", "example_en": "The building was in flames within minutes.", "example_ja": "その建物は数分で炎に包まれた。" },
+      { "title": "② 急に燃え上がる", "desc": "burst into flames の形で。", "example_en": "The car burst into flames after the crash.", "example_ja": "その車は衝突後に急に燃え上がった。" }
+    ],
+    "warn": ["in flames（炎上して）、burst into flames（急に燃え上がる）は頻出。", "単数 flame は1つの炎、flames は燃え盛る複数の炎。"],
+    "etym_note": "ラテン語 flamma（炎）に由来する flame の複数形。古フランス語 flame を経て英語に入った。",
+    "etym_chain": [
+      { "node": "flamma", "sub": "炎", "era": "ラテン語" },
+      { "node": "flame", "sub": "炎", "era": "中英語" },
+      { "node": "flames", "sub": "炎（複数）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "in flames", "ja": "炎に包まれて" },
+      { "en": "burst into flames", "ja": "急に燃え上がる" },
+      { "en": "go up in flames", "ja": "炎上する、灰になる" },
+      { "en": "the flames spread", "ja": "炎が広がった" },
+      { "en": "engulfed in flames", "ja": "炎に飲み込まれて" },
+      { "en": "fan the flames", "ja": "（争いなどを）あおる" }
+    ],
+    "related": [
+      { "en": "flame", "ja": "炎（単数）" },
+      { "en": "fire", "ja": "火、火事" },
+      { "en": "blaze", "ja": "大きな炎" },
+      { "en": "burn", "ja": "燃える" }
+    ],
+    "faq": [
+      { "q": "in flames の意味は？", "a": "『炎に包まれて・炎上して』という意味です。The house was in flames.（家が炎に包まれていた）のように使います。" },
+      { "q": "fan the flames とは？", "a": "『（争いや感情を）あおる・悪化させる』という比喩表現です。" }
+    ],
+    "quiz": [
+      { "q": "in flames の意味は？", "A": "炎に包まれて", "B": "水浸しで", "C": "凍りついて", "D": "暗闇で", "correct": "A" },
+      { "q": "burst into flames の意味は？", "A": "急に燃え上がる", "B": "静かに消える", "C": "冷える", "D": "光る", "correct": "A" }
+    ]
+  },
+  {
+    "english": "flint",
+    "pron": "flɪnt",
+    "kana": "フリント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 flint（硬い石）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "物質"],
+    "meaning_main": "火打ち石／燧石（すいせき）／硬い石",
+    "description": "flint（フリント）は「火打ち石・燧石（すいせき）」という意味の名詞。鋼と打ち合わせて火花を出す硬い石で、古くは火起こしや石器に使われました。比喩で『冷酷さ・硬さ』も表します。",
+    "keywords": ["flint 意味", "flint 使い方", "火打ち石 英語", "燧石 英語"],
+    "meanings": [
+      { "hinshi": "【名】火打ち石、燧石", "note": "打つと火花を出す硬い石。可算・不可算両用。" },
+      { "hinshi": "【名】（比喩）冷酷さ、硬いもの", "note": "a heart of flint（冷酷な心）。" }
+    ],
+    "usages": [
+      { "title": "① 火を起こす石", "desc": "火花を出す硬い石。", "example_en": "They used flint to start a fire.", "example_ja": "彼らは火打ち石で火を起こした。" },
+      { "title": "② 石器・道具の材料", "desc": "古代の刃物などに使われた。", "example_en": "Ancient people made tools from flint.", "example_ja": "古代の人々は火打ち石から道具を作った。" }
+    ],
+    "warn": ["a heart of flint（火打ち石のような心）は『冷酷な心』を表す比喩。", "ライターの発火石も flint と呼ぶ。"],
+    "etym_note": "古英語 flint（硬い石）に由来。ゲルマン系の語で、硬さ・火花を出す性質から名づけられた。",
+    "etym_chain": [
+      { "node": "flint", "sub": "硬い石", "era": "古英語" },
+      { "node": "flint", "sub": "火打ち石", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "flint and steel", "ja": "火打ち石と鋼" },
+      { "en": "strike a flint", "ja": "火打ち石を打つ" },
+      { "en": "a heart of flint", "ja": "冷酷な心" },
+      { "en": "flint tools", "ja": "石器（火打ち石製の道具）" },
+      { "en": "a lighter flint", "ja": "ライターの発火石" },
+      { "en": "hard as flint", "ja": "火打ち石のように硬い" }
+    ],
+    "related": [
+      { "en": "stone", "ja": "石" },
+      { "en": "spark", "ja": "火花" },
+      { "en": "rock", "ja": "岩" },
+      { "en": "fire", "ja": "火" }
+    ],
+    "faq": [
+      { "q": "flint は何に使う？", "a": "鋼と打ち合わせて火花を出し、火を起こすのに使う硬い石『火打ち石』です。古代には石器の材料にもなりました。" },
+      { "q": "a heart of flint とは？", "a": "『火打ち石のように硬い心＝冷酷な心』を表す比喩表現です。" }
+    ],
+    "quiz": [
+      { "q": "flint の意味は？", "A": "火打ち石", "B": "砂", "C": "粘土", "D": "氷", "correct": "A" },
+      { "q": "a heart of flint の意味は？", "A": "冷酷な心", "B": "優しい心", "C": "臆病な心", "D": "広い心", "correct": "A" }
+    ]
+  },
+  {
+    "english": "folding",
+    "pron": "ˈfoʊldɪŋ",
+    "kana": "フォールディング",
+    "hinshi": "動詞（foldの現在分詞）/ 形容詞",
+    "ld_pos": "動詞",
+    "ld_etym": "fold（折る）＋-ing",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "活用形"],
+    "meaning_main": "折りたたんでいる（foldの-ing形）／折りたたみ式の",
+    "description": "folding（フォールディング）はfold（折る・折りたたむ）の現在分詞・動名詞。「折りたたんでいる」の意味に加え、形容詞で「折りたたみ式の」という意味があり、folding chair（折りたたみ椅子）が定番です。",
+    "keywords": ["folding 意味", "fold 現在分詞", "folding chair 意味", "折りたたみ 英語"],
+    "meanings": [
+      { "hinshi": "【動】折りたたんでいる", "note": "foldの-ing形。折る動作を表す。" },
+      { "hinshi": "【形】折りたたみ式の", "note": "folding chair / folding bike（折りたたみ椅子・自転車）。" }
+    ],
+    "usages": [
+      { "title": "① 折る動作", "desc": "折りたたむ進行形・動名詞。", "example_en": "She is folding the laundry.", "example_ja": "彼女は洗濯物をたたんでいる。" },
+      { "title": "② 折りたたみ式を表す", "desc": "コンパクトに畳める製品。", "example_en": "We brought folding chairs to the picnic.", "example_ja": "私たちはピクニックに折りたたみ椅子を持って行った。" }
+    ],
+    "warn": ["folding chair / folding table / folding bike など、折りたたみ製品の定番語。", "つづり注意：fold＋ing で folding。"],
+    "etym_note": "古英語 fealdan（折る）に由来する fold に、-ing が付いた形。",
+    "etym_chain": [
+      { "node": "fealdan", "sub": "折る", "era": "古英語" },
+      { "node": "fold", "sub": "折る", "era": "中英語" },
+      { "node": "folding", "sub": "折りたたみの", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a folding chair", "ja": "折りたたみ椅子" },
+      { "en": "a folding table", "ja": "折りたたみテーブル" },
+      { "en": "a folding bike", "ja": "折りたたみ自転車" },
+      { "en": "a folding umbrella", "ja": "折りたたみ傘" },
+      { "en": "folding the laundry", "ja": "洗濯物をたたむこと" },
+      { "en": "a folding screen", "ja": "折りたたみ式の衝立、屏風" }
+    ],
+    "related": [
+      { "en": "fold", "ja": "折る（原形）" },
+      { "en": "bend", "ja": "曲げる" },
+      { "en": "portable", "ja": "持ち運びできる" },
+      { "en": "chair", "ja": "椅子" }
+    ],
+    "faq": [
+      { "q": "folding chair とは？", "a": "『折りたたみ椅子』のことです。使わないときはコンパクトに畳んで収納できます。" },
+      { "q": "folding は形容詞になる？", "a": "はい。『折りたたみ式の』という意味で、folding table（折りたたみテーブル）のように名詞の前で使います。" }
+    ],
+    "quiz": [
+      { "q": "a folding chair の意味は？", "A": "折りたたみ椅子", "B": "回転椅子", "C": "揺り椅子", "D": "長椅子", "correct": "A" },
+      { "q": "fold の現在分詞は？", "A": "folding", "B": "foldding", "C": "foldeing", "D": "foldiing", "correct": "A" }
+    ]
+  },
+  {
+    "english": "halal",
+    "pron": "həˈlɑːl",
+    "kana": "ハラル",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "アラビア語 ḥalāl（許されたもの）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "宗教・食"],
+    "meaning_main": "ハラル（イスラム法で許された・食べてよい）",
+    "description": "halal（ハラル）は「イスラム法で許された・食べてもよい」という意味の形容詞・名詞。特に、定められた作法で処理された食べ物を指します。対義語は haram（禁じられたもの）です。",
+    "keywords": ["halal 意味", "halal 使い方", "ハラル 食べ物", "ハラルフード 英語"],
+    "meanings": [
+      { "hinshi": "【形】ハラルの、イスラム法で許された", "note": "戒律にかなった食品や行為。halal food（ハラル食品）。" },
+      { "hinshi": "【名】ハラル（許されたもの）", "note": "イスラム教で認められたもの全般。" }
+    ],
+    "usages": [
+      { "title": "① 許された食べ物", "desc": "戒律に従って処理された食品。", "example_en": "This restaurant serves only halal meat.", "example_ja": "このレストランはハラルの肉だけを提供する。" },
+      { "title": "② 戒律にかなうこと", "desc": "宗教的に認められた行い。", "example_en": "Muslims look for the halal label on products.", "example_ja": "イスラム教徒は製品のハラル表示を探す。" }
+    ],
+    "warn": ["対義語は haram（ハラム、禁じられたもの）。豚肉やアルコールは haram。", "食肉は定められた作法で処理されている必要がある。"],
+    "etym_note": "アラビア語 ḥalāl（許されたもの・合法なもの）に由来。イスラム法で認められたことを表す。",
+    "etym_chain": [
+      { "node": "ḥalāl", "sub": "許されたもの", "era": "アラビア語" },
+      { "node": "halal", "sub": "ハラルの", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "halal food", "ja": "ハラル食品" },
+      { "en": "halal meat", "ja": "ハラルの肉" },
+      { "en": "a halal restaurant", "ja": "ハラル対応のレストラン" },
+      { "en": "halal certification", "ja": "ハラル認証" },
+      { "en": "is this halal?", "ja": "これはハラルですか？" },
+      { "en": "halal and haram", "ja": "ハラルとハラム（許可と禁止）" }
+    ],
+    "related": [
+      { "en": "haram", "ja": "ハラム（禁じられたもの）" },
+      { "en": "Islam", "ja": "イスラム教" },
+      { "en": "Muslim", "ja": "イスラム教徒" },
+      { "en": "kosher", "ja": "コーシャ（ユダヤ教の適法食）" }
+    ],
+    "faq": [
+      { "q": "halal と haram の違いは？", "a": "halal は『イスラム法で許されたもの』、haram は『禁じられたもの』です。豚肉やアルコールは haram にあたります。" },
+      { "q": "halal と kosher の違いは？", "a": "halal はイスラム教の適法食、kosher はユダヤ教の適法食です。似ていますが戒律が異なります。" }
+    ],
+    "quiz": [
+      { "q": "halal の意味は？", "A": "イスラム法で許された", "B": "高価な", "C": "冷たい", "D": "甘い", "correct": "A" },
+      { "q": "halal の対義語は？", "A": "haram（禁じられたもの）", "B": "kosher", "C": "vegan", "D": "organic", "correct": "A" }
+    ]
+  },
+  {
+    "english": "helpline",
+    "pron": "ˈhelplaɪn",
+    "kana": "ヘルプライン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "help（助け）＋line（電話回線）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "社会"],
+    "meaning_main": "相談電話／ヘルプライン／支援窓口",
+    "description": "helpline（ヘルプライン）は「相談電話・支援のための電話窓口」という意味の名詞。悩みや困りごとを抱えた人が助けや情報を得るために電話できる専用回線を指します。",
+    "keywords": ["helpline 意味", "helpline 使い方", "相談電話 英語", "支援窓口 英語"],
+    "meanings": [
+      { "hinshi": "【名】相談電話、ヘルプライン", "note": "助けや情報を提供する専用電話。可算名詞。" },
+      { "hinshi": "【名】支援窓口の電話回線", "note": "悩み相談や問い合わせに応じる。" }
+    ],
+    "usages": [
+      { "title": "① 悩み相談の電話", "desc": "困った人が助けを求める窓口。", "example_en": "She called a helpline for advice.", "example_ja": "彼女は助言を求めて相談電話にかけた。" },
+      { "title": "② 問い合わせ窓口", "desc": "サービスの支援回線。", "example_en": "The company set up a 24-hour helpline.", "example_ja": "その会社は24時間対応のヘルプラインを設けた。" }
+    ],
+    "warn": ["hotline（ホットライン）とほぼ同義。helplineは特に『相談・支援』の色合いが強い。", "1語で helpline と書く。"],
+    "etym_note": "help（助け）＋ line（電話回線）による20世紀後半の複合語。「助けの電話回線」。",
+    "etym_chain": [
+      { "node": "help + line", "sub": "助けの回線", "era": "20世紀英語" },
+      { "node": "helpline", "sub": "相談電話", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "call a helpline", "ja": "相談電話にかける" },
+      { "en": "a 24-hour helpline", "ja": "24時間対応の相談電話" },
+      { "en": "a free helpline", "ja": "無料の相談電話" },
+      { "en": "a crisis helpline", "ja": "危機相談の電話" },
+      { "en": "set up a helpline", "ja": "ヘルプラインを設ける" },
+      { "en": "a support helpline", "ja": "支援窓口の電話" }
+    ],
+    "related": [
+      { "en": "hotline", "ja": "ホットライン、直通電話" },
+      { "en": "help", "ja": "助け" },
+      { "en": "support", "ja": "支援" },
+      { "en": "advice", "ja": "助言" }
+    ],
+    "faq": [
+      { "q": "helpline と hotline の違いは？", "a": "ほぼ同義ですが、helpline は『悩み相談・支援』の色合いが強く、hotline は緊急連絡や直通電話全般に使われます。" },
+      { "q": "helpline は1語？", "a": "はい、1語で helpline と書きます。" }
+    ],
+    "quiz": [
+      { "q": "helpline の意味は？", "A": "相談・支援のための電話窓口", "B": "登山道", "C": "電気配線", "D": "洗濯ひも", "correct": "A" },
+      { "q": "a 24-hour helpline の意味は？", "A": "24時間対応の相談電話", "B": "1回限りの通話", "C": "有料放送", "D": "国際電話", "correct": "A" }
+    ]
+  },
+  {
+    "english": "herder",
+    "pron": "ˈhɜːrdər",
+    "kana": "ハーダー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "herd（群れ）＋-er（する人）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "職業"],
+    "meaning_main": "牧夫／家畜の群れを世話する人",
+    "description": "herder（ハーダー）は「家畜の群れを世話し導く人・牧夫」という意味の名詞。herd（群れ）に-erがついた語で、羊や牛などの群れを管理する人を指します。cattle herder（牛飼い）のように使います。",
+    "keywords": ["herder 意味", "herder 使い方", "牧夫 英語", "羊飼い 英語"],
+    "meanings": [
+      { "hinshi": "【名】牧夫、家畜の番人", "note": "家畜の群れを世話し導く人。可算名詞。" },
+      { "hinshi": "【名】〜飼い", "note": "cattle herder（牛飼い）、reindeer herder（トナカイ飼い）など。" }
+    ],
+    "usages": [
+      { "title": "① 家畜を世話する人", "desc": "群れを導き管理する。", "example_en": "The herder led the sheep to the pasture.", "example_ja": "牧夫は羊を牧草地へ導いた。" },
+      { "title": "② 特定の家畜の番人", "desc": "cattle herder などの形で。", "example_en": "He works as a cattle herder in Mongolia.", "example_ja": "彼はモンゴルで牛飼いとして働いている。" }
+    ],
+    "warn": ["shepherd（羊飼い）は羊専門。herderはより広く家畜全般の番人。", "動詞 herd は『群れを追う・かき集める』。"],
+    "etym_note": "古英語 heord（群れ）に由来する herd に、行為者を表す -er が付いた語。「群れを世話する人」。",
+    "etym_chain": [
+      { "node": "heord", "sub": "群れ", "era": "古英語" },
+      { "node": "herd", "sub": "群れ", "era": "中英語" },
+      { "node": "herder", "sub": "牧夫", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a cattle herder", "ja": "牛飼い" },
+      { "en": "a goat herder", "ja": "ヤギ飼い" },
+      { "en": "a reindeer herder", "ja": "トナカイ飼い" },
+      { "en": "a nomadic herder", "ja": "遊牧民の牧夫" },
+      { "en": "the herder and his dog", "ja": "牧夫と牧羊犬" },
+      { "en": "work as a herder", "ja": "牧夫として働く" }
+    ],
+    "related": [
+      { "en": "herd", "ja": "群れ、群れを追う" },
+      { "en": "shepherd", "ja": "羊飼い" },
+      { "en": "cattle", "ja": "牛（の群れ）" },
+      { "en": "farmer", "ja": "農民、牧場主" }
+    ],
+    "faq": [
+      { "q": "herder と shepherd の違いは？", "a": "shepherd は羊専門の『羊飼い』、herder は牛やヤギなど家畜全般の群れを世話する『牧夫』です。" },
+      { "q": "herder はどう使う？", "a": "cattle herder（牛飼い）のように、世話する家畜の名前と組み合わせてよく使います。" }
+    ],
+    "quiz": [
+      { "q": "herder の意味は？", "A": "家畜の群れを世話する人", "B": "船乗り", "C": "料理人", "D": "医者", "correct": "A" },
+      { "q": "a cattle herder の意味は？", "A": "牛飼い", "B": "馬車の御者", "C": "肉屋", "D": "乳製品店", "correct": "A" }
+    ]
+  },
+  {
+    "english": "horrified",
+    "pron": "ˈhɔːrɪfaɪd",
+    "kana": "ホリファイド",
+    "hinshi": "形容詞 / 動詞（horrifyの過去・過去分詞）",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 horrere（身の毛がよだつ）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "感情表現"],
+    "meaning_main": "ぞっとした／恐怖に震えた／衝撃を受けた",
+    "description": "horrified（ホリファイド）は「ぞっとした・恐怖におびえた・強い衝撃を受けた」という意味の形容詞。horrify（ぞっとさせる）の過去分詞由来で、恐ろしさやショックで震える気持ちを表します。",
+    "keywords": ["horrified 意味", "horrified 使い方", "ぞっとした 英語", "恐怖 英語"],
+    "meanings": [
+      { "hinshi": "【形】ぞっとした、おびえた", "note": "恐怖やショックに強く動揺した状態。" },
+      { "hinshi": "【動】ぞっとさせた（horrifyの過去・過去分詞）", "note": "be horrified at/by 〜 で『〜にぞっとする』。" }
+    ],
+    "usages": [
+      { "title": "① 恐怖におびえる", "desc": "恐ろしくて震える様子。", "example_en": "She was horrified by the terrible news.", "example_ja": "彼女はそのひどい知らせにぞっとした。" },
+      { "title": "② 強い衝撃を受ける", "desc": "ショックで動揺する。", "example_en": "I was horrified to see the mess.", "example_ja": "そのひどい散らかりようを見て私は衝撃を受けた。" }
+    ],
+    "warn": ["前置詞は at / by。be horrified at the sight（その光景にぞっとする）。", "scared（怖がった）より強く『ぞっとする・戦慄する』ニュアンス。"],
+    "etym_note": "ラテン語 horrere（身の毛がよだつ）由来の horrify に、-ed が付いた形。「ぞっとさせられた」。",
+    "etym_chain": [
+      { "node": "horrere", "sub": "身の毛がよだつ", "era": "ラテン語" },
+      { "node": "horrify", "sub": "ぞっとさせる", "era": "近代英語" },
+      { "node": "horrified", "sub": "ぞっとした", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "horrified by the news", "ja": "知らせにぞっとして" },
+      { "en": "horrified at the sight", "ja": "その光景に戦慄して" },
+      { "en": "a horrified expression", "ja": "恐怖におびえた表情" },
+      { "en": "utterly horrified", "ja": "すっかり震え上がって" },
+      { "en": "horrified to find", "ja": "見つけてぞっとして" },
+      { "en": "stare in horrified silence", "ja": "恐怖のあまり黙って見つめる" }
+    ],
+    "related": [
+      { "en": "horrify", "ja": "ぞっとさせる" },
+      { "en": "horror", "ja": "恐怖" },
+      { "en": "terrified", "ja": "おびえきった" },
+      { "en": "shocked", "ja": "衝撃を受けた" }
+    ],
+    "faq": [
+      { "q": "horrified と terrified の違いは？", "a": "terrified は『恐怖でおびえきった』、horrified は『ぞっとする・強い嫌悪や衝撃を伴う恐怖』を表します。" },
+      { "q": "horrified の前置詞は？", "a": "at または by を使います。例：horrified by/at the news（その知らせにぞっとして）。" }
+    ],
+    "quiz": [
+      { "q": "horrified の意味は？", "A": "ぞっとした・衝撃を受けた", "B": "喜んだ", "C": "退屈した", "D": "満足した", "correct": "A" },
+      { "q": "be horrified の後にくる前置詞は？", "A": "at / by", "B": "on", "C": "of", "D": "for", "correct": "A" }
+    ]
+  },
+  {
+    "english": "increasingly",
+    "pron": "ɪnˈkriːsɪŋli",
+    "kana": "インクリーシングリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "increasing（増えていく）＋-ly",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "様子"],
+    "meaning_main": "ますます／だんだんと／いっそう",
+    "description": "increasingly（インクリーシングリー）は「ますます・だんだんと・いっそう」という意味の副詞。increasing（増えていく）に-lyがついた語で、程度が次第に強まっていく様子を表します。",
+    "keywords": ["increasingly 意味", "increasingly 使い方", "ますます 英語", "だんだん 英語"],
+    "meanings": [
+      { "hinshi": "【副】ますます、だんだんと", "note": "程度が次第に強まる様子を表す。" },
+      { "hinshi": "【副】いっそう、より一層", "note": "形容詞や動詞を修飾する。" }
+    ],
+    "usages": [
+      { "title": "① 程度が強まる", "desc": "だんだん〜になる。", "example_en": "It is becoming increasingly difficult to find parking.", "example_ja": "駐車場を見つけるのがますます難しくなっている。" },
+      { "title": "② 傾向が増す", "desc": "次第に多くなる様子。", "example_en": "People are increasingly using their phones to shop.", "example_ja": "人々はますますスマホで買い物をするようになっている。" }
+    ],
+    "warn": ["『increasingly + 形容詞』の形が頻出：increasingly popular（ますます人気の）。", "対義語的なのは decreasingly（次第に減って）だが、こちらはまれ。"],
+    "etym_note": "ラテン語 increscere（増える）由来の increase の現在分詞 increasing に、-ly が付いた語。",
+    "etym_chain": [
+      { "node": "increscere", "sub": "増える", "era": "ラテン語" },
+      { "node": "increasing", "sub": "増えていく", "era": "中英語" },
+      { "node": "increasingly", "sub": "ますます", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "increasingly popular", "ja": "ますます人気の" },
+      { "en": "increasingly difficult", "ja": "ますます難しい" },
+      { "en": "increasingly important", "ja": "いっそう重要な" },
+      { "en": "become increasingly common", "ja": "ますます一般的になる" },
+      { "en": "increasingly worried", "ja": "だんだん心配になって" },
+      { "en": "an increasingly complex world", "ja": "ますます複雑になる世界" }
+    ],
+    "related": [
+      { "en": "increasing", "ja": "増えていく" },
+      { "en": "increase", "ja": "増える" },
+      { "en": "more and more", "ja": "ますます" },
+      { "en": "gradually", "ja": "だんだん" }
+    ],
+    "faq": [
+      { "q": "increasingly と more and more の違いは？", "a": "意味はほぼ同じで『ますます』です。increasingly は1語でフォーマル、more and more は口語的でくだけた言い方です。" },
+      { "q": "どんな語を修飾する？", "a": "主に形容詞や動詞を修飾します。例：increasingly popular（ますます人気の）。" }
+    ],
+    "quiz": [
+      { "q": "increasingly の意味は？", "A": "ますます・だんだんと", "B": "急に", "C": "まったく〜ない", "D": "すでに", "correct": "A" },
+      { "q": "increasingly popular の意味は？", "A": "ますます人気の", "B": "人気が落ちた", "C": "無名の", "D": "一時的な", "correct": "A" }
+    ]
+  },
+  {
+    "english": "inequal",
+    "pron": "ɪnˈiːkwəl",
+    "kana": "イニークォル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "in-（否定）＋equal（等しい）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "注意語"],
+    "meaning_main": "不平等な／等しくない（※通常は unequal を使う）",
+    "description": "inequal（イニークォル）は「不平等な・等しくない」という意味の形容詞。ただし現代英語では非常にまれで、標準的には unequal を使います。名詞形の inequality（不平等）は普通に使われます。",
+    "keywords": ["inequal 意味", "inequal unequal 違い", "不平等な 英語", "等しくない 英語"],
+    "meanings": [
+      { "hinshi": "【形】等しくない、不平等な", "note": "unequal の古い・まれな異形。現代では unequal が標準。" },
+      { "hinshi": "【形】不均衡な", "note": "釣り合いが取れていないこと。" }
+    ],
+    "usages": [
+      { "title": "① 等しくないことを表す", "desc": "現代では unequal が普通。", "example_en": "The two shares were inequal (usually: unequal).", "example_ja": "2つの取り分は等しくなかった（通常は unequal）。" },
+      { "title": "② 名詞形で使う", "desc": "inequality（不平等）は一般的。", "example_en": "The report focuses on social inequality.", "example_ja": "その報告書は社会的不平等に焦点を当てている。" }
+    ],
+    "warn": ["現代英語では inequal はほとんど使われず、unequal が正しい標準形。", "名詞 inequality（不平等）や不等式（数学）は普通に使う。"],
+    "etym_note": "ラテン語 aequalis（等しい）由来の equal に否定の in- が付いた語。現在は同義の unequal が一般的。",
+    "etym_chain": [
+      { "node": "aequalis", "sub": "等しい", "era": "ラテン語" },
+      { "node": "equal", "sub": "等しい", "era": "中英語" },
+      { "node": "inequal", "sub": "等しくない（まれ）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "inequal shares", "ja": "等しくない取り分" },
+      { "en": "prefer 'unequal'", "ja": "『unequal』を使うのが普通" },
+      { "en": "inequality", "ja": "不平等（名詞）" },
+      { "en": "social inequality", "ja": "社会的不平等" },
+      { "en": "economic inequality", "ja": "経済的不平等" },
+      { "en": "an inequality (math)", "ja": "不等式（数学）" }
+    ],
+    "related": [
+      { "en": "unequal", "ja": "等しくない（標準形）" },
+      { "en": "equal", "ja": "等しい" },
+      { "en": "inequality", "ja": "不平等" },
+      { "en": "uneven", "ja": "不均一な" }
+    ],
+    "faq": [
+      { "q": "inequal と unequal の違いは？", "a": "意味は同じ『等しくない』ですが、現代英語では inequal はほとんど使われず、unequal が標準です。inequal を見かけたら unequal に置き換えて理解しましょう。" },
+      { "q": "inequality は使える？", "a": "はい。名詞の inequality（不平等）は普通に使われ、social inequality（社会的不平等）などでよく登場します。" }
+    ],
+    "quiz": [
+      { "q": "inequal の標準的な形は？", "A": "unequal", "B": "equalize", "C": "equally", "D": "equalness", "correct": "A" },
+      { "q": "inequal の意味は？", "A": "等しくない・不平等な", "B": "とても等しい", "C": "平和な", "D": "巨大な", "correct": "A" }
+    ]
+  },
+  {
+    "english": "inferred",
+    "pron": "ɪnˈfɜːrd",
+    "kana": "インファード",
+    "hinshi": "動詞（inferの過去・過去分詞）",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 inferre（持ち込む・推論する）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "活用形"],
+    "meaning_main": "推論した／推測して結論づけた（inferの過去形・過去分詞）",
+    "description": "inferred（インファード）はinfer（推論する・推測する）の過去形・過去分詞。「（証拠や情報から）推論した・結論づけた」という意味です。直接言われなくても手がかりから読み取ることを表します。",
+    "keywords": ["inferred 意味", "infer 過去形", "inferred 使い方", "推論 英語"],
+    "meanings": [
+      { "hinshi": "【動】推論した、推測して結論づけた", "note": "inferの過去・過去分詞。証拠から結論を導く。" },
+      { "hinshi": "【動】（言外の意味を）読み取った", "note": "infer from 〜 で『〜から推測する』。" }
+    ],
+    "usages": [
+      { "title": "① 証拠から推論する", "desc": "手がかりから結論を導く。", "example_en": "From her smile, he inferred that she was pleased.", "example_ja": "彼女の笑顔から、彼は彼女が喜んでいると推測した。" },
+      { "title": "② 言外の意味を読む", "desc": "直接言われないことを察する。", "example_en": "We inferred the meaning from the context.", "example_ja": "私たちは文脈から意味を推測した。" }
+    ],
+    "warn": ["infer（受け手が推論する）と imply（話し手がほのめかす）は混同注意。聞く側が infer、言う側が imply。", "つづり注意：infer の r を重ねて inferred。"],
+    "etym_note": "ラテン語 inferre（in-（中へ）＋ ferre（運ぶ）＝持ち込む・導く）に由来。過去形は r を重ねて inferred。",
+    "etym_chain": [
+      { "node": "inferre", "sub": "持ち込む・導く", "era": "ラテン語" },
+      { "node": "infer", "sub": "推論する", "era": "近代英語" },
+      { "node": "inferred", "sub": "推論した", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "inferred from the data", "ja": "データから推論した" },
+      { "en": "inferred that ...", "ja": "〜と推測した" },
+      { "en": "readily inferred", "ja": "容易に推測される" },
+      { "en": "inferred meaning", "ja": "推測される意味" },
+      { "en": "can be inferred", "ja": "推論できる" },
+      { "en": "inferred his intentions", "ja": "彼の意図を読み取った" }
+    ],
+    "related": [
+      { "en": "infer", "ja": "推論する（原形）" },
+      { "en": "imply", "ja": "ほのめかす" },
+      { "en": "deduce", "ja": "推論する、演繹する" },
+      { "en": "conclude", "ja": "結論づける" }
+    ],
+    "faq": [
+      { "q": "infer の過去形は？", "a": "inferred です。r を重ねます。過去分詞も同じ inferred です。" },
+      { "q": "infer と imply の違いは？", "a": "imply は話し手が『ほのめかす』、infer は聞き手が『推測する』です。方向が逆なので混同に注意しましょう。" }
+    ],
+    "quiz": [
+      { "q": "infer の過去形は？", "A": "inferred", "B": "infered", "C": "infer", "D": "inferring", "correct": "A" },
+      { "q": "『聞き手が推測する』のは？", "A": "infer", "B": "imply", "C": "suggest", "D": "hint", "correct": "A" }
+    ]
+  },
+  {
+    "english": "junkmail",
+    "pron": "ˈdʒʌŋk meɪl",
+    "kana": "ジャンク・メール",
+    "hinshi": "名詞（junk mail）",
+    "ld_pos": "名詞",
+    "ld_etym": "junk（がらくた）＋mail（郵便）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "IT・生活"],
+    "meaning_main": "迷惑メール／ジャンクメール／不要な宣伝郵便（junk mail）",
+    "description": "junk mail（ジャンク・メール）は「頼んでいないのに送られてくる宣伝の郵便やメール・迷惑メール」という意味の名詞。正しくは junk mail と2語で書きます。不要なダイレクトメールや広告メールを指します。",
+    "keywords": ["junk mail 意味", "junk mail 使い方", "迷惑メール 英語", "ジャンクメール 英語"],
+    "meanings": [
+      { "hinshi": "【名】迷惑メール、不要な宣伝郵便", "note": "頼んでいない広告の郵便やメール。不可算名詞。" },
+      { "hinshi": "【名】ジャンクメール", "note": "メールソフトの迷惑メールフォルダにも使う。" }
+    ],
+    "usages": [
+      { "title": "① 不要な宣伝郵便", "desc": "頼まないのに届く広告。", "example_en": "My mailbox is full of junk mail.", "example_ja": "私の郵便受けは迷惑な宣伝郵便でいっぱいだ。" },
+      { "title": "② 迷惑メール（電子）", "desc": "受信箱に届く不要なメール。", "example_en": "The filter moves junk mail to a separate folder.", "example_ja": "そのフィルターは迷惑メールを別のフォルダに移す。" }
+    ],
+    "warn": ["リンクの都合で junkmail とつなげて書かれますが、正しくは junk mail（2語）です。", "電子メールの迷惑メールは spam（スパム）とも言う。"],
+    "etym_note": "junk（がらくた・不要品）＋ mail（郵便）による複合語。「不要な郵便物」。後に電子メールにも広がった。",
+    "etym_chain": [
+      { "node": "junk + mail", "sub": "がらくた郵便", "era": "20世紀英語" },
+      { "node": "junk mail", "sub": "迷惑メール", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a lot of junk mail", "ja": "たくさんの迷惑メール" },
+      { "en": "throw away junk mail", "ja": "迷惑な宣伝郵便を捨てる" },
+      { "en": "a junk mail folder", "ja": "迷惑メールフォルダ" },
+      { "en": "filter junk mail", "ja": "迷惑メールをより分ける" },
+      { "en": "block junk mail", "ja": "迷惑メールを遮断する" },
+      { "en": "junk mail and spam", "ja": "迷惑郵便とスパム" }
+    ],
+    "related": [
+      { "en": "spam", "ja": "スパム、迷惑メール" },
+      { "en": "mail", "ja": "郵便、メール" },
+      { "en": "advertisement", "ja": "広告" },
+      { "en": "inbox", "ja": "受信箱" }
+    ],
+    "faq": [
+      { "q": "junk mail と spam の違いは？", "a": "junk mail は紙の宣伝郵便にも電子メールにも使い、spam は特に大量に送られる迷惑な電子メールを指します。" },
+      { "q": "junk mail は1語？2語？", "a": "正しくは junk mail と2語で書きます。" }
+    ],
+    "quiz": [
+      { "q": "junk mail の意味は？", "A": "頼んでいない不要な宣伝郵便・迷惑メール", "B": "大切な手紙", "C": "請求書", "D": "招待状", "correct": "A" },
+      { "q": "電子メールの迷惑メールを表す別の語は？", "A": "spam", "B": "inbox", "C": "draft", "D": "reply", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kind-hearted",
+    "pron": "ˌkaɪndˈhɑːrtɪd",
+    "kana": "カインドハーティド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "kind（親切な）＋hearted（心を持つ）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "感情表現"],
+    "meaning_main": "心の優しい／思いやりのある／親切な",
+    "description": "kind-hearted（カインドハーティド）は「心の優しい・思いやりのある・親切な」という意味の形容詞。kind（親切な）とhearted（心を持った）を合わせた語で、他人に温かく接する性質を表します。",
+    "keywords": ["kind-hearted 意味", "kind-hearted 使い方", "心の優しい 英語", "親切な 英語"],
+    "meanings": [
+      { "hinshi": "【形】心の優しい、親切な", "note": "他人に温かく思いやりを持って接する様子。" },
+      { "hinshi": "【形】情け深い", "note": "cold-hearted（冷酷な）の反対。" }
+    ],
+    "usages": [
+      { "title": "① 優しい人柄を表す", "desc": "思いやりのある性格。", "example_en": "She is a kind-hearted woman who helps everyone.", "example_ja": "彼女は誰にでも手を貸す心の優しい女性だ。" },
+      { "title": "② 親切な行いを表す", "desc": "温かい態度を示す。", "example_en": "It was kind-hearted of him to share his lunch.", "example_ja": "昼食を分けてくれるとは彼は親切だった。" }
+    ],
+    "warn": ["対義語は cold-hearted（冷酷な）、hard-hearted（無情な）。", "ハイフンでつなぐ：kind-hearted。warm-hearted（心の温かい）とほぼ同義。"],
+    "etym_note": "kind（親切な）＋ heart（心）＋ -ed（〜を持つ）による複合形容詞。「優しい心を持った」。",
+    "etym_chain": [
+      { "node": "kind + hearted", "sub": "優しい心の", "era": "近代英語" },
+      { "node": "kind-hearted", "sub": "心の優しい", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a kind-hearted person", "ja": "心の優しい人" },
+      { "en": "kind-hearted and gentle", "ja": "優しく穏やかな" },
+      { "en": "a kind-hearted gesture", "ja": "思いやりのある振る舞い" },
+      { "en": "kind-hearted to animals", "ja": "動物に優しい" },
+      { "en": "a kind-hearted soul", "ja": "優しい心の持ち主" },
+      { "en": "so kind-hearted", "ja": "とても心優しい" }
+    ],
+    "related": [
+      { "en": "warm-hearted", "ja": "心の温かい" },
+      { "en": "cold-hearted", "ja": "冷酷な" },
+      { "en": "kind", "ja": "親切な" },
+      { "en": "generous", "ja": "寛大な" }
+    ],
+    "faq": [
+      { "q": "kind-hearted と warm-hearted の違いは？", "a": "ほぼ同義で、どちらも『心の優しい』です。kind-hearted は『親切さ』、warm-hearted は『温かさ』にやや重点があります。" },
+      { "q": "対義語は？", "a": "cold-hearted（冷酷な）や hard-hearted（無情な）です。" }
+    ],
+    "quiz": [
+      { "q": "kind-hearted の意味は？", "A": "心の優しい・親切な", "B": "冷たい", "C": "怒りっぽい", "D": "臆病な", "correct": "A" },
+      { "q": "kind-hearted の対義語は？", "A": "cold-hearted", "B": "warm-hearted", "C": "light-hearted", "D": "good-hearted", "correct": "A" }
+    ]
+  },
+  {
+    "english": "leafthrough",
+    "pron": "ˈliːf θruː",
+    "kana": "リーフ・スルー",
+    "hinshi": "句動詞（leaf through）",
+    "ld_pos": "句動詞",
+    "ld_etym": "leaf（ページをめくる）＋through（通して）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "句動詞"],
+    "meaning_main": "（本を）ぱらぱらとめくる／ざっと目を通す（leaf through）",
+    "description": "leaf through（リーフ・スルー）は「本や雑誌をぱらぱらとめくる・ざっと目を通す」という意味の句動詞。正しくは leaf through と2語で書きます。leaf には『ページをめくる』という動詞の意味があります。",
+    "keywords": ["leaf through 意味", "leaf through 使い方", "ぱらぱらめくる 英語", "ざっと目を通す 英語"],
+    "meanings": [
+      { "hinshi": "【句動】ぱらぱらとめくる", "note": "本や雑誌のページを次々にめくる。" },
+      { "hinshi": "【句動】ざっと目を通す", "note": "じっくり読まず流し読みする。" }
+    ],
+    "usages": [
+      { "title": "① 本をめくる", "desc": "ページを次々にめくる。", "example_en": "She leafed through the magazine while waiting.", "example_ja": "彼女は待つ間、雑誌をぱらぱらめくっていた。" },
+      { "title": "② ざっと目を通す", "desc": "流し読みする。", "example_en": "He leafed through the report before the meeting.", "example_ja": "彼は会議の前に報告書にざっと目を通した。" }
+    ],
+    "warn": ["リンクの都合で leafthrough とつなげて書かれますが、正しくは leaf through（2語）です。", "過去形は leafed through。似た表現に flip through / thumb through がある。"],
+    "etym_note": "leaf（木の葉→本のページ）を動詞にした語に、through（通して）が付いた句動詞。「ページを次々めくる」。",
+    "etym_chain": [
+      { "node": "lēaf", "sub": "葉・ページ", "era": "古英語" },
+      { "node": "leaf through", "sub": "ぱらぱらめくる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "leaf through a book", "ja": "本をぱらぱらめくる" },
+      { "en": "leaf through a magazine", "ja": "雑誌をめくる" },
+      { "en": "leaf through the pages", "ja": "ページをめくる" },
+      { "en": "leafed through quickly", "ja": "さっと目を通した" },
+      { "en": "leaf through an album", "ja": "アルバムをめくる" },
+      { "en": "flip through (類義)", "ja": "ぱらぱらめくる（類義）" }
+    ],
+    "related": [
+      { "en": "leaf", "ja": "葉、ページをめくる" },
+      { "en": "flip through", "ja": "ぱらぱらめくる" },
+      { "en": "browse", "ja": "ざっと見る" },
+      { "en": "skim", "ja": "拾い読みする" }
+    ],
+    "faq": [
+      { "q": "leaf through と read の違いは？", "a": "read はじっくり読むこと、leaf through はページを次々めくって『ざっと目を通す』ことです。" },
+      { "q": "leaf through は1語？2語？", "a": "正しくは leaf through と2語で書きます。過去形は leafed through です。" }
+    ],
+    "quiz": [
+      { "q": "leaf through a book の意味は？", "A": "本をぱらぱらめくる", "B": "本を書く", "C": "本を破る", "D": "本を暗記する", "correct": "A" },
+      { "q": "leaf through と似た意味の表現は？", "A": "flip through", "B": "write down", "C": "look up", "D": "give up", "correct": "A" }
+    ]
+  },
+  {
+    "english": "mongol",
+    "pron": "ˈmɑːŋɡəl",
+    "kana": "モンゴル",
+    "hinshi": "名詞（固有名詞）",
+    "ld_pos": "名詞",
+    "ld_etym": "モンゴル語 Mongγol",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "固有名詞"],
+    "meaning_main": "モンゴル人（中央アジアの民族）",
+    "description": "mongol（モンゴル）は「モンゴル人」という意味の名詞。中央アジアの草原に暮らす民族で、13世紀にはチンギス・ハンのもとで大帝国を築きました。民族を指すときは大文字 Mongol と書きます。",
+    "keywords": ["Mongol 意味", "モンゴル人 英語", "Mongol 帝国", "チンギスハン 英語"],
+    "meanings": [
+      { "hinshi": "【名】モンゴル人", "note": "中央アジアの遊牧民族。大文字 Mongol。" },
+      { "hinshi": "【形】モンゴルの、モンゴル人の", "note": "the Mongol Empire（モンゴル帝国）。" }
+    ],
+    "usages": [
+      { "title": "① 民族を指す", "desc": "モンゴルの人々。", "example_en": "The Mongols were skilled horsemen.", "example_ja": "モンゴル人は馬術に長けた民族だった。" },
+      { "title": "② 帝国・歴史の文脈で", "desc": "モンゴル帝国を表す。", "example_en": "The Mongol Empire was the largest land empire in history.", "example_ja": "モンゴル帝国は史上最大の陸上帝国だった。" }
+    ],
+    "warn": ["見出し語は小文字だが、民族名なので文中では大文字 Mongol と書く。", "かつて医学で使われた蔑称的な用法（ダウン症を指す旧称）は差別的で不適切。民族・歴史の意味で使う。"],
+    "etym_note": "モンゴル語の自称 Mongγol に由来。13世紀にチンギス・ハンが諸部族を統一し大帝国を築いた。",
+    "etym_chain": [
+      { "node": "Mongγol", "sub": "モンゴル", "era": "モンゴル語" },
+      { "node": "Mongol", "sub": "モンゴル人", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the Mongols", "ja": "モンゴル人（民族）" },
+      { "en": "the Mongol Empire", "ja": "モンゴル帝国" },
+      { "en": "a Mongol warrior", "ja": "モンゴルの戦士" },
+      { "en": "Mongol horsemen", "ja": "モンゴルの騎馬兵" },
+      { "en": "the Mongol invasions", "ja": "モンゴルの侵攻" },
+      { "en": "a proud Mongol", "ja": "誇り高きモンゴル人" }
+    ],
+    "related": [
+      { "en": "Mongolia", "ja": "モンゴル（国）" },
+      { "en": "empire", "ja": "帝国" },
+      { "en": "nomad", "ja": "遊牧民" },
+      { "en": "horseman", "ja": "騎手、騎馬兵" }
+    ],
+    "faq": [
+      { "q": "Mongol とは？", "a": "中央アジアの草原に暮らす民族『モンゴル人』です。13世紀にチンギス・ハンのもとで史上最大級の帝国を築きました。" },
+      { "q": "Mongol と Mongolia の違いは？", "a": "Mongol は民族『モンゴル人』、Mongolia は国『モンゴル』を指します。" }
+    ],
+    "quiz": [
+      { "q": "Mongol の意味は？", "A": "モンゴル人", "B": "ロシア人", "C": "トルコ人", "D": "インド人", "correct": "A" },
+      { "q": "the Mongol Empire を築いた人物は？", "A": "チンギス・ハン", "B": "ナポレオン", "C": "カエサル", "D": "アレクサンドロス", "correct": "A" }
+    ]
+  },
+  {
+    "english": "on-time",
+    "pron": "ˌɑːnˈtaɪm",
+    "kana": "オンタイム",
+    "hinshi": "形容詞 / 副詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "on（〜に）＋time（時間）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "時間"],
+    "meaning_main": "時間通りの／定刻の／遅れのない",
+    "description": "on-time（オンタイム）は「時間通りの・定刻の・遅れのない」という意味の形容詞。名詞の前で使うときはハイフンでつなぎ、副詞句 on time（時間通りに）は2語で書きます。列車の定時運行などに使います。",
+    "keywords": ["on-time 意味", "on time 使い方", "時間通り 英語", "定刻 英語"],
+    "meanings": [
+      { "hinshi": "【形】時間通りの、定刻の", "note": "名詞の前で使う。例：an on-time arrival（定刻到着）。" },
+      { "hinshi": "【副】時間通りに（on time）", "note": "副詞句はハイフンなしの on time。" }
+    ],
+    "usages": [
+      { "title": "① 定刻であることを表す", "desc": "遅れがないさま。", "example_en": "The airline is proud of its on-time performance.", "example_ja": "その航空会社は定時運航率を誇りにしている。" },
+      { "title": "② 時間通りに（副詞）", "desc": "on time の形で。", "example_en": "The train arrived on time.", "example_ja": "列車は時間通りに到着した。" }
+    ],
+    "warn": ["名詞の前は on-time（ハイフンあり）、副詞句は on time（2語）。", "『in time』は『間に合って』で意味が異なる。on time は『定刻ちょうどに』。"],
+    "etym_note": "前置詞句 on time（定刻に）が、名詞を修飾する形容詞 on-time になった。",
+    "etym_chain": [
+      { "node": "on time", "sub": "定刻に", "era": "近代英語" },
+      { "node": "on-time", "sub": "時間通りの", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an on-time arrival", "ja": "定刻到着" },
+      { "en": "on-time delivery", "ja": "時間通りの配達" },
+      { "en": "on-time performance", "ja": "定時運航率" },
+      { "en": "arrive on time", "ja": "時間通りに着く" },
+      { "en": "always on time", "ja": "いつも時間通りで" },
+      { "en": "an on-time payment", "ja": "期日通りの支払い" }
+    ],
+    "related": [
+      { "en": "punctual", "ja": "時間を守る" },
+      { "en": "in time", "ja": "間に合って" },
+      { "en": "time", "ja": "時間" },
+      { "en": "late", "ja": "遅れた" }
+    ],
+    "faq": [
+      { "q": "on time と in time の違いは？", "a": "on time は『定刻ちょうどに』、in time は『（締め切りなどに）間に合って』です。意味が異なるので注意しましょう。" },
+      { "q": "ハイフンは必要？", "a": "名詞を修飾するとき（an on-time flight）はハイフンあり、副詞句（arrive on time）は2語で書きます。" }
+    ],
+    "quiz": [
+      { "q": "on-time の意味は？", "A": "時間通りの・定刻の", "B": "遅れた", "C": "早すぎる", "D": "中止の", "correct": "A" },
+      { "q": "The train arrived ___ .（時間通りに）に入るのは？", "A": "on time", "B": "in time", "C": "at time", "D": "by time", "correct": "A" }
+    ]
+  },
+  {
+    "english": "pallet",
+    "pron": "ˈpælət",
+    "kana": "パレット",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 paillet（わらの寝床）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "物流"],
+    "meaning_main": "パレット（荷役台）／簡易な寝床",
+    "description": "pallet（パレット）は「荷物を載せて運ぶための木製の台（荷役台）」という意味の名詞。フォークリフトで持ち上げて運びます。また、わらなどで作った『簡易な寝床』の意味もあります。",
+    "keywords": ["pallet 意味", "pallet 使い方", "パレット 荷役台", "palette 違い"],
+    "meanings": [
+      { "hinshi": "【名】パレット、荷役台", "note": "荷物を載せて運ぶ木製などの台。可算名詞。" },
+      { "hinshi": "【名】簡易な寝床、わらぶとん", "note": "床に敷く粗末な寝床。" }
+    ],
+    "usages": [
+      { "title": "① 物流の荷役台", "desc": "荷物を載せて運ぶ台。", "example_en": "The boxes were stacked on a wooden pallet.", "example_ja": "箱は木製のパレットに積み重ねられていた。" },
+      { "title": "② 簡易な寝床", "desc": "床に敷く粗末な寝具。", "example_en": "He slept on a straw pallet.", "example_ja": "彼はわらの簡易寝床で寝た。" }
+    ],
+    "warn": ["palette（絵の具を混ぜる板・色調）、palate（口の中の口蓋・味覚）と同音異義。つづりと意味を区別。", "物流では forklift（フォークリフト）でパレットごと持ち上げる。"],
+    "etym_note": "荷役台の意味は palette（板）と同系。寝床の意味は古フランス語 paillet（わら paille の寝床）に由来。",
+    "etym_chain": [
+      { "node": "paillet", "sub": "わらの寝床", "era": "古フランス語" },
+      { "node": "pallet", "sub": "寝床・荷役台", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a wooden pallet", "ja": "木製パレット" },
+      { "en": "stack boxes on a pallet", "ja": "パレットに箱を積む" },
+      { "en": "a pallet of goods", "ja": "パレット1枚分の荷物" },
+      { "en": "load a pallet", "ja": "パレットに積む" },
+      { "en": "a straw pallet", "ja": "わらの簡易寝床" },
+      { "en": "a plastic pallet", "ja": "プラスチック製パレット" }
+    ],
+    "related": [
+      { "en": "palette", "ja": "パレット（絵の具板）" },
+      { "en": "forklift", "ja": "フォークリフト" },
+      { "en": "warehouse", "ja": "倉庫" },
+      { "en": "cargo", "ja": "貨物" }
+    ],
+    "faq": [
+      { "q": "pallet と palette の違いは？", "a": "pallet は『荷役台・簡易寝床』、palette は『絵の具を混ぜる板・色調』です。発音は同じですがつづりと意味が異なります。palate（口蓋・味覚）とも別語です。" },
+      { "q": "pallet は何に使う？", "a": "荷物を載せてフォークリフトで運ぶための台です。倉庫や物流でよく使われます。" }
+    ],
+    "quiz": [
+      { "q": "pallet（物流）の意味は？", "A": "荷物を載せて運ぶ台", "B": "絵の具の板", "C": "味覚", "D": "宮殿", "correct": "A" },
+      { "q": "pallet と同音でつづりが違う語は？", "A": "palette（絵の具板）", "B": "pallet", "C": "pellet", "D": "pilot", "correct": "A" }
+    ]
+  },
+  {
+    "english": "passed",
+    "pron": "pæst",
+    "kana": "パスト",
+    "hinshi": "動詞（passの過去・過去分詞）",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 passus（歩み）",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A1", "活用形"],
+    "meaning_main": "通り過ぎた／合格した／手渡した（passの過去形・過去分詞）",
+    "description": "passed（パスト）はpass（通る・合格する・手渡す）の過去形・過去分詞。「通り過ぎた・合格した・（時が）過ぎた・手渡した」という意味です。同音の past（過去・〜を過ぎて）と混同しないよう注意します。",
+    "keywords": ["passed 意味", "pass 過去形", "passed past 違い", "合格した 英語"],
+    "meanings": [
+      { "hinshi": "【動】通り過ぎた、通過した", "note": "passの過去・過去分詞。そばを通り過ぎる。" },
+      { "hinshi": "【動】合格した、（試験に）通った", "note": "passed the exam（試験に合格した）。" },
+      { "hinshi": "【動】（時が）過ぎた／手渡した", "note": "Time passed. / passed the salt。" }
+    ],
+    "usages": [
+      { "title": "① 通り過ぎる・合格する", "desc": "動作の過去を表す。", "example_en": "She passed the driving test on her first try.", "example_ja": "彼女は一回目で運転試験に合格した。" },
+      { "title": "② 時が過ぎる・手渡す", "desc": "経過や受け渡し。", "example_en": "Several years passed before they met again.", "example_ja": "彼らが再会するまで数年が過ぎた。" }
+    ],
+    "warn": ["同音の past は『過去・〜を過ぎて（前置詞・名詞・形容詞）』。動詞の過去形は必ず passed。", "『walk past（歩いて通り過ぎる）』の past は前置詞なので passed ではない。"],
+    "etym_note": "ラテン語 passus（歩み）由来の pass（通る）の過去形。-ed が付いた規則変化。",
+    "etym_chain": [
+      { "node": "passus", "sub": "歩み", "era": "ラテン語" },
+      { "node": "pass", "sub": "通る", "era": "中英語" },
+      { "node": "passed", "sub": "通り過ぎた", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "passed the exam", "ja": "試験に合格した" },
+      { "en": "passed by", "ja": "そばを通り過ぎた" },
+      { "en": "time passed", "ja": "時が過ぎた" },
+      { "en": "passed the salt", "ja": "塩を手渡した" },
+      { "en": "passed away", "ja": "亡くなった（婉曲）" },
+      { "en": "passed the ball", "ja": "ボールをパスした" }
+    ],
+    "related": [
+      { "en": "pass", "ja": "通る、合格する（原形）" },
+      { "en": "past", "ja": "過去、〜を過ぎて" },
+      { "en": "succeed", "ja": "成功する" },
+      { "en": "fail", "ja": "落ちる、失敗する" }
+    ],
+    "faq": [
+      { "q": "passed と past の違いは？", "a": "passed は動詞 pass の過去形（通り過ぎた・合格した）、past は名詞・前置詞・形容詞（過去・〜を過ぎて）です。動作を表すなら passed です。" },
+      { "q": "passed away の意味は？", "a": "『亡くなった』を婉曲に表す表現です。died より柔らかい言い方です。" }
+    ],
+    "quiz": [
+      { "q": "pass の過去形は？", "A": "passed", "B": "past", "C": "pased", "D": "passing", "correct": "A" },
+      { "q": "「試験に合格した」は？", "A": "passed the exam", "B": "past the exam", "C": "pass the exam", "D": "passing exam", "correct": "A" }
+    ]
+  },
+  {
+    "english": "pigmentation",
+    "pron": "ˌpɪɡmenˈteɪʃn",
+    "kana": "ピグメンテーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 pigmentum（色素）＋-ation",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "生物・美容"],
+    "meaning_main": "色素形成／色素沈着／体の色づき",
+    "description": "pigmentation（ピグメンテーション）は「（皮膚・毛・葉などの）色素による色づき・色素沈着」という意味の名詞。生物が持つ色のもと（色素）による着色を指し、美容ではしみなどの色素沈着の意味でも使います。",
+    "keywords": ["pigmentation 意味", "pigmentation 使い方", "色素沈着 英語", "色素 英語"],
+    "meanings": [
+      { "hinshi": "【名】色素形成、体の色づき", "note": "皮膚・毛・植物などの色素による着色。不可算名詞。" },
+      { "hinshi": "【名】色素沈着（美容・医学）", "note": "しみなど、部分的に色が濃くなること。" }
+    ],
+    "usages": [
+      { "title": "① 生物の色づき", "desc": "皮膚や毛の色のもと。", "example_en": "Skin pigmentation is determined by melanin.", "example_ja": "肌の色はメラニン色素によって決まる。" },
+      { "title": "② 色素沈着（しみ）", "desc": "部分的に色が濃くなること。", "example_en": "Sun exposure can cause pigmentation on the skin.", "example_ja": "日光を浴びると肌に色素沈着が生じることがある。" }
+    ],
+    "warn": ["色のもとは pigment（色素）。pigmentation はその『色づき・沈着』の状態。", "メラニン（melanin）は肌の色を決める代表的な色素。"],
+    "etym_note": "ラテン語 pigmentum（色素・絵の具）由来の pigment に、状態を表す -ation が付いた語。",
+    "etym_chain": [
+      { "node": "pigmentum", "sub": "色素", "era": "ラテン語" },
+      { "node": "pigment", "sub": "色素", "era": "中英語" },
+      { "node": "pigmentation", "sub": "色素形成", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "skin pigmentation", "ja": "肌の色素形成" },
+      { "en": "dark pigmentation", "ja": "濃い色素沈着" },
+      { "en": "loss of pigmentation", "ja": "色素の消失" },
+      { "en": "uneven pigmentation", "ja": "むらのある色素沈着" },
+      { "en": "pigmentation of the skin", "ja": "皮膚の色づき" },
+      { "en": "reduce pigmentation", "ja": "色素沈着を薄くする" }
+    ],
+    "related": [
+      { "en": "pigment", "ja": "色素" },
+      { "en": "melanin", "ja": "メラニン" },
+      { "en": "skin", "ja": "肌、皮膚" },
+      { "en": "color", "ja": "色" }
+    ],
+    "faq": [
+      { "q": "pigment と pigmentation の違いは？", "a": "pigment は色のもとになる『色素』そのもの、pigmentation はその色素による『色づき・色素沈着』の状態を指します。" },
+      { "q": "肌の色を決める色素は？", "a": "主にメラニン（melanin）です。メラニンの量や種類で肌や髪の色が変わります。" }
+    ],
+    "quiz": [
+      { "q": "pigmentation の意味は？", "A": "色素による色づき・色素沈着", "B": "血液循環", "C": "筋肉の動き", "D": "骨の成長", "correct": "A" },
+      { "q": "肌の色を決める代表的な色素は？", "A": "メラニン", "B": "カルシウム", "C": "鉄", "D": "酸素", "correct": "A" }
+    ]
+  },
+  {
+    "english": "positioning",
+    "pron": "pəˈzɪʃənɪŋ",
+    "kana": "ポジショニング",
+    "hinshi": "名詞 / 動詞（positionの現在分詞）",
+    "ld_pos": "名詞",
+    "ld_etym": "position（位置）＋-ing",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "ビジネス"],
+    "meaning_main": "位置づけ／配置／ポジショニング（立ち位置の設定）",
+    "description": "positioning（ポジショニング）は「位置づけ・配置・（市場での）立ち位置の設定」という意味の名詞。position（位置に置く）の動名詞で、物の配置や、商品・ブランドを市場でどう位置づけるかを表します。",
+    "keywords": ["positioning 意味", "positioning 使い方", "ポジショニング 英語", "位置づけ 英語"],
+    "meanings": [
+      { "hinshi": "【名】配置、位置決め", "note": "物や人を適切な位置に置くこと。不可算名詞。" },
+      { "hinshi": "【名】（市場での）位置づけ、ポジショニング", "note": "商品・ブランドの立ち位置の戦略。" }
+    ],
+    "usages": [
+      { "title": "① 物の配置", "desc": "適切な位置に置くこと。", "example_en": "Careful positioning of the camera is important.", "example_ja": "カメラの位置決めを慎重に行うことが大切だ。" },
+      { "title": "② 市場での位置づけ", "desc": "ブランド戦略の一つ。", "example_en": "The brand's positioning targets young customers.", "example_ja": "そのブランドの位置づけは若い顧客を狙っている。" }
+    ],
+    "warn": ["マーケティングでは『商品を消費者の心にどう位置づけるか』の戦略を指す重要語。", "GPS などの『測位』の意味でも使う（satellite positioning）。"],
+    "etym_note": "ラテン語 positio（置くこと）由来の position を動詞化し、-ing が付いた語。「位置づけること」。",
+    "etym_chain": [
+      { "node": "positio", "sub": "置くこと", "era": "ラテン語" },
+      { "node": "position", "sub": "位置", "era": "中英語" },
+      { "node": "positioning", "sub": "位置づけ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "brand positioning", "ja": "ブランドの位置づけ" },
+      { "en": "market positioning", "ja": "市場での位置づけ" },
+      { "en": "careful positioning", "ja": "慎重な位置決め" },
+      { "en": "product positioning", "ja": "商品のポジショニング" },
+      { "en": "satellite positioning", "ja": "衛星測位" },
+      { "en": "strategic positioning", "ja": "戦略的な位置づけ" }
+    ],
+    "related": [
+      { "en": "position", "ja": "位置、位置づける" },
+      { "en": "placement", "ja": "配置" },
+      { "en": "strategy", "ja": "戦略" },
+      { "en": "marketing", "ja": "マーケティング" }
+    ],
+    "faq": [
+      { "q": "マーケティングの positioning とは？", "a": "商品やブランドを、消費者の心の中で競合とどう区別して位置づけるかという戦略のことです。" },
+      { "q": "測位の意味もある？", "a": "はい。GPSなどで位置を特定することも positioning（測位）と言います。例：satellite positioning（衛星測位）。" }
+    ],
+    "quiz": [
+      { "q": "positioning の意味は？", "A": "位置づけ・配置", "B": "破壊", "C": "会話", "D": "睡眠", "correct": "A" },
+      { "q": "brand positioning の意味は？", "A": "ブランドの市場での位置づけ", "B": "ブランドの廃止", "C": "商品の値下げ", "D": "在庫の廃棄", "correct": "A" }
+    ]
+  },
+  {
+    "english": "potage",
+    "pron": "poʊˈtɑːʒ",
+    "kana": "ポタージュ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 potage（鍋の料理）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "料理"],
+    "meaning_main": "ポタージュ（濃厚な西洋スープ）",
+    "description": "potage（ポタージュ）は「濃厚でとろみのある西洋スープ」という意味の名詞。フランス料理で、野菜などを煮込んで裏ごしした、こくのあるスープを指します。澄んだスープ（consommé）と対照的です。",
+    "keywords": ["potage 意味", "potage 使い方", "ポタージュ 英語", "濃厚スープ 英語"],
+    "meanings": [
+      { "hinshi": "【名】ポタージュ、濃厚スープ", "note": "とろみのある濃いスープ。不可算・可算両用。" },
+      { "hinshi": "【名】煮込みスープ全般（古風）", "note": "元は鍋で煮た料理全般を指した。" }
+    ],
+    "usages": [
+      { "title": "① 濃厚なスープ", "desc": "とろみのあるスープ。", "example_en": "We started the meal with a creamy potage.", "example_ja": "私たちはクリーミーなポタージュから食事を始めた。" },
+      { "title": "② コース料理の一品", "desc": "前菜に続くスープ。", "example_en": "The potage was made from fresh pumpkin.", "example_ja": "そのポタージュは新鮮なかぼちゃで作られていた。" }
+    ],
+    "warn": ["澄んだスープは consommé（コンソメ）、濃いスープが potage（ポタージュ）。", "フランス語由来なので発音は『ポタージュ』（-ジュ）に近い。"],
+    "etym_note": "フランス語 potage（pot（鍋）で煮た料理）に由来。もとは鍋料理全般を指し、後に濃厚スープの意味に。",
+    "etym_chain": [
+      { "node": "pot", "sub": "鍋", "era": "古フランス語" },
+      { "node": "potage", "sub": "鍋の料理", "era": "フランス語" },
+      { "node": "potage", "sub": "濃厚スープ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a creamy potage", "ja": "クリーミーなポタージュ" },
+      { "en": "pumpkin potage", "ja": "かぼちゃのポタージュ" },
+      { "en": "a thick potage", "ja": "とろみのあるポタージュ" },
+      { "en": "serve the potage", "ja": "ポタージュを出す" },
+      { "en": "potage and consommé", "ja": "ポタージュとコンソメ" },
+      { "en": "a bowl of potage", "ja": "ポタージュ1杯" }
+    ],
+    "related": [
+      { "en": "soup", "ja": "スープ" },
+      { "en": "consommé", "ja": "コンソメ（澄んだスープ）" },
+      { "en": "broth", "ja": "だし汁、スープ" },
+      { "en": "cream", "ja": "クリーム" }
+    ],
+    "faq": [
+      { "q": "potage と consommé の違いは？", "a": "potage は野菜などを裏ごしした『濃厚でとろみのあるスープ』、consommé は澄んだ透明なスープです。" },
+      { "q": "potage はどんな料理？", "a": "フランス料理の、野菜などを煮込んでなめらかにした、こくのあるスープです。かぼちゃやコーンのポタージュが有名です。" }
+    ],
+    "quiz": [
+      { "q": "potage の意味は？", "A": "濃厚でとろみのあるスープ", "B": "澄んだスープ", "C": "焼き菓子", "D": "サラダ", "correct": "A" },
+      { "q": "potage と対照的な澄んだスープは？", "A": "consommé", "B": "potage", "C": "pudding", "D": "porridge", "correct": "A" }
+    ]
+  }
+]
