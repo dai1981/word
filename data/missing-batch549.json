@@ -1,0 +1,984 @@
+[
+  {
+    "english": "innuendo",
+    "pron": "ˌɪnjuˈendoʊ",
+    "kana": "イニュエンドー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 innuere（ほのめかす）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "書き言葉"],
+    "meaning_main": "当てこすり／ほのめかし（特に性的・悪意ある遠回しの示唆）",
+    "description": "innuendo（イニュエンドー）は「（はっきり言わずに）ほのめかすこと・当てこすり」という意味の名詞。特に性的な、または悪意のある内容を遠回しに示唆するときに使います。sexual innuendo（性的なほのめかし）のように使います。",
+    "keywords": ["innuendo 意味", "innuendo 使い方", "当てこすり 英語", "ほのめかし 英語"],
+    "meanings": [
+      { "hinshi": "【名】ほのめかし、当てこすり", "note": "はっきり言わず遠回しに示唆すること。可算・不可算両用。" },
+      { "hinshi": "【名】（性的・悪意ある）暗示", "note": "sexual innuendo など。複数形は innuendos/innuendoes。" }
+    ],
+    "usages": [
+      { "title": "① 遠回しの当てこすり", "desc": "直接言わずにほのめかす。", "example_en": "The article was full of innuendo about the actor.", "example_ja": "その記事はその俳優についての当てこすりだらけだった。" },
+      { "title": "② 性的なほのめかし", "desc": "きわどい暗示。", "example_en": "The comedy relied on sexual innuendo.", "example_ja": "そのコメディーは性的なほのめかしに頼っていた。" }
+    ],
+    "warn": ["はっきり述べず『におわせる』点がポイント。多く否定的な内容に使う。", "動詞 imply（ほのめかす）と関連。suggestion より悪意・きわどさの含み。"],
+    "etym_note": "ラテン語 innuere（in-（〜に）＋ nuere（うなずく・合図する）＝ほのめかす）に由来。もとは法律用語。",
+    "etym_chain": [
+      { "node": "innuere", "sub": "ほのめかす", "era": "ラテン語" },
+      { "node": "innuendo", "sub": "当てこすり", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "sexual innuendo", "ja": "性的なほのめかし" },
+      { "en": "full of innuendo", "ja": "当てこすりだらけの" },
+      { "en": "a sly innuendo", "ja": "ずるい当てこすり" },
+      { "en": "by innuendo", "ja": "ほのめかしによって" },
+      { "en": "veiled innuendo", "ja": "遠回しな当てこすり" },
+      { "en": "innuendo and gossip", "ja": "当てこすりとうわさ" }
+    ],
+    "related": [
+      { "en": "imply", "ja": "ほのめかす" },
+      { "en": "insinuation", "ja": "当てこすり" },
+      { "en": "hint", "ja": "ほのめかし" },
+      { "en": "suggestion", "ja": "示唆" }
+    ],
+    "faq": [
+      { "q": "innuendo はどんなニュアンス？", "a": "はっきり言わずに遠回しに示唆することで、特に性的な、または悪意のある内容をにおわせるときに使う、否定的な含みの語です。" },
+      { "q": "複数形は？", "a": "innuendos または innuendoes の両方が使われます。" }
+    ],
+    "quiz": [
+      { "q": "innuendo の意味は？", "A": "遠回しの当てこすり・ほのめかし", "B": "率直な称賛", "C": "公式発表", "D": "大きな音", "correct": "A" },
+      { "q": "sexual innuendo の意味は？", "A": "性的なほのめかし", "B": "医学的説明", "C": "法的通告", "D": "科学論文", "correct": "A" }
+    ]
+  },
+  {
+    "english": "deprecate",
+    "pron": "ˈdeprəkeɪt",
+    "kana": "デプリケイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 deprecari（嘆願して避ける）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "IT・書き言葉"],
+    "meaning_main": "（強く）非難する／見下す／（IT）非推奨にする",
+    "description": "deprecate（デプリケイト）は「（強く）非難する・けなす」という意味の動詞。また、IT分野では「（古い機能を）非推奨にする（将来廃止予定として使用を勧めない）」という意味で頻繁に使われます。self-deprecating（自虐的な）も重要表現です。",
+    "keywords": ["deprecate 意味", "deprecate 使い方", "非推奨 英語", "非難する 英語"],
+    "meanings": [
+      { "hinshi": "【動】非難する、けなす", "note": "強く反対・批判する。かたい語。" },
+      { "hinshi": "【動】（IT）非推奨にする", "note": "古い機能を将来廃止予定として使用を勧めない。" },
+      { "hinshi": "【動】見下す、過小評価する", "note": "self-deprecating（自虐的な）。" }
+    ],
+    "usages": [
+      { "title": "① 強く非難する", "desc": "反対・批判する。", "example_en": "Officials deprecated the use of violence.", "example_ja": "当局は暴力の行使を強く非難した。" },
+      { "title": "② IT で非推奨にする", "desc": "将来廃止予定とする。", "example_en": "This function is now deprecated.", "example_ja": "この関数は現在非推奨となっている。" }
+    ],
+    "warn": ["IT の『非推奨（deprecated）』が今や最も頻出の用法。", "self-deprecating は『自虐的な・自分を卑下する』（ふつう好意的な謙遜）。depreciate（価値が下がる）とは別語。"],
+    "etym_note": "ラテン語 deprecari（de-（除く）＋ precari（祈る・願う）＝願って避けようとする）に由来。「退けようとする」。",
+    "etym_chain": [
+      { "node": "deprecari", "sub": "嘆願して避ける", "era": "ラテン語" },
+      { "node": "deprecate", "sub": "非難する", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "now deprecated", "ja": "現在は非推奨" },
+      { "en": "a deprecated function", "ja": "非推奨の関数" },
+      { "en": "self-deprecating humor", "ja": "自虐的なユーモア" },
+      { "en": "deprecate violence", "ja": "暴力を非難する" },
+      { "en": "deprecate a feature", "ja": "機能を非推奨にする" },
+      { "en": "deprecated in favor of", "ja": "〜に取って代わられ非推奨に" }
+    ],
+    "related": [
+      { "en": "condemn", "ja": "非難する" },
+      { "en": "disapprove", "ja": "よしとしない" },
+      { "en": "obsolete", "ja": "廃れた" },
+      { "en": "depreciate", "ja": "価値が下がる（別語）" }
+    ],
+    "faq": [
+      { "q": "deprecate と depreciate の違いは？", "a": "deprecate は『非難する／（IT）非推奨にする』、depreciate は『価値が下がる・減価する』です。つづりと意味が異なります。" },
+      { "q": "IT の deprecated とは？", "a": "『非推奨』の意味で、まだ使えるが将来廃止予定なので新規利用は避けるべき、という状態を表します。" }
+    ],
+    "quiz": [
+      { "q": "deprecate の意味は？", "A": "非難する／（IT）非推奨にする", "B": "称賛する", "C": "購入する", "D": "修理する", "correct": "A" },
+      { "q": "a deprecated function とは？", "A": "非推奨の（将来廃止予定の）関数", "B": "最新の関数", "C": "有料の関数", "D": "壊れた関数", "correct": "A" }
+    ]
+  },
+  {
+    "english": "propitious",
+    "pron": "prəˈpɪʃəs",
+    "kana": "プロピシャス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 propitius（好意的な）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "書き言葉"],
+    "meaning_main": "好都合な／（物事をするのに）幸先のよい・絶好の",
+    "description": "propitious（プロピシャス）は「（何かをするのに）好都合な・幸先のよい・絶好の」という意味の形容詞。条件やタイミングが望ましく、成功を後押しするような状況を表す、かたい語です。a propitious time（絶好の時機）のように使います。",
+    "keywords": ["propitious 意味", "propitious 使い方", "好都合な 英語", "幸先のよい 英語"],
+    "meanings": [
+      { "hinshi": "【形】好都合な、絶好の", "note": "何かをするのに条件が良い。かたい語。" },
+      { "hinshi": "【形】幸先のよい、吉兆の", "note": "成功を予感させる。" }
+    ],
+    "usages": [
+      { "title": "① 好都合なタイミング", "desc": "条件が望ましい。", "example_en": "It was a propitious moment to launch the product.", "example_ja": "それは製品を売り出す絶好の時機だった。" },
+      { "title": "② 幸先のよい状況", "desc": "成功を予感させる。", "example_en": "The weather was propitious for the voyage.", "example_ja": "天候はその航海に好都合だった。" }
+    ],
+    "warn": ["対義語は unpropitious / inauspicious（不都合な・縁起の悪い）。", "favorable（好意的な・有利な）のかたい語。"],
+    "etym_note": "ラテン語 propitius（好意的な・神が味方する）に由来。「幸先のよい」。",
+    "etym_chain": [
+      { "node": "propitius", "sub": "好意的な", "era": "ラテン語" },
+      { "node": "propitious", "sub": "好都合な", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "a propitious moment", "ja": "絶好の時機" },
+      { "en": "a propitious time", "ja": "好都合な時" },
+      { "en": "propitious conditions", "ja": "好条件" },
+      { "en": "a propitious sign", "ja": "吉兆" },
+      { "en": "propitious circumstances", "ja": "好都合な状況" },
+      { "en": "less than propitious", "ja": "あまり好都合でない" }
+    ],
+    "related": [
+      { "en": "favorable", "ja": "好意的な、有利な" },
+      { "en": "auspicious", "ja": "幸先のよい" },
+      { "en": "opportune", "ja": "時宜を得た" },
+      { "en": "unfavorable", "ja": "不利な" }
+    ],
+    "faq": [
+      { "q": "propitious と favorable の違いは？", "a": "ほぼ同義ですが、propitious はかたい語で『何かをするのに幸先がよく好都合』というニュアンスが強い語です。" },
+      { "q": "auspicious と似ている？", "a": "はい。どちらも『幸先のよい』を表し、近い意味です。" }
+    ],
+    "quiz": [
+      { "q": "propitious の意味は？", "A": "好都合な・幸先のよい", "B": "不吉な", "C": "退屈な", "D": "危険な", "correct": "A" },
+      { "q": "a propitious moment の意味は？", "A": "絶好の時機", "B": "最悪の瞬間", "C": "退屈な時間", "D": "危険な瞬間", "correct": "A" }
+    ]
+  },
+  {
+    "english": "extraneous",
+    "pron": "ɪkˈstreɪniəs",
+    "kana": "イクストレイニアス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 extraneus（外部の）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "書き言葉"],
+    "meaning_main": "（本題と）無関係な／余分な／外部からの",
+    "description": "extraneous（イクストレイニアス）は「（本題に）無関係な・余分な・外部からの」という意味の形容詞。必要のない、本筋から外れた要素を表す、かたい語です。extraneous information（余計な情報）のように使います。",
+    "keywords": ["extraneous 意味", "extraneous 使い方", "無関係な 英語", "余分な 英語"],
+    "meanings": [
+      { "hinshi": "【形】（本題と）無関係な、余分な", "note": "必要なく本筋から外れた。" },
+      { "hinshi": "【形】外部からの", "note": "外から入り込んだ。extraneous noise（外部の雑音）。" }
+    ],
+    "usages": [
+      { "title": "① 余計・無関係な要素", "desc": "本題に不要なもの。", "example_en": "Remove any extraneous details from the report.", "example_ja": "報告書から余計な詳細を取り除きなさい。" },
+      { "title": "② 外部からの要因", "desc": "外から入り込むもの。", "example_en": "The experiment must exclude extraneous factors.", "example_ja": "その実験は外部の要因を排除しなければならない。" }
+    ],
+    "warn": ["relevant（関連のある）の反対的な『無関係・余分』を表す。", "irrelevant（無関係な）と近いが、extraneous は『余分で取り除くべき・外からの』ニュアンス。"],
+    "etym_note": "ラテン語 extraneus（extra（外）由来、外部の）に由来。「外のもの→本筋に関係ない」。",
+    "etym_chain": [
+      { "node": "extra", "sub": "外", "era": "ラテン語" },
+      { "node": "extraneus", "sub": "外部の", "era": "ラテン語" },
+      { "node": "extraneous", "sub": "無関係な", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "extraneous information", "ja": "余計な情報" },
+      { "en": "extraneous details", "ja": "余分な詳細" },
+      { "en": "extraneous factors", "ja": "外部の要因" },
+      { "en": "extraneous noise", "ja": "外部の雑音" },
+      { "en": "remove extraneous material", "ja": "余計なものを取り除く" },
+      { "en": "extraneous to the topic", "ja": "本題に無関係な" }
+    ],
+    "related": [
+      { "en": "irrelevant", "ja": "無関係な" },
+      { "en": "unnecessary", "ja": "不必要な" },
+      { "en": "superfluous", "ja": "余分な" },
+      { "en": "relevant", "ja": "関連のある" }
+    ],
+    "faq": [
+      { "q": "extraneous と irrelevant の違いは？", "a": "どちらも『無関係な』ですが、extraneous は『余分で取り除くべき・外から入り込んだ』というニュアンスが強い、かたい語です。" },
+      { "q": "対義語は？", "a": "relevant（関連のある・本題に関わる）です。" }
+    ],
+    "quiz": [
+      { "q": "extraneous の意味は？", "A": "（本題と）無関係な・余分な", "B": "最も重要な", "C": "内部の", "D": "有名な", "correct": "A" },
+      { "q": "extraneous information の意味は？", "A": "余計な情報", "B": "重要な情報", "C": "秘密情報", "D": "最新情報", "correct": "A" }
+    ]
+  },
+  {
+    "english": "anachronistic",
+    "pron": "əˌnækrəˈnɪstɪk",
+    "kana": "アナクロニスティック",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ギリシャ語 ana-（逆に）＋chronos（時）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "書き言葉"],
+    "meaning_main": "時代錯誤の／時代遅れの／時代考証の誤った",
+    "description": "anachronistic（アナクロニスティック）は「時代錯誤の・時代遅れの」という意味の形容詞。ある時代にそぐわないもの（特に、過去の作品に後の時代のものが紛れ込む『時代考証の誤り』や、今では古すぎる考え）を表します。",
+    "keywords": ["anachronistic 意味", "anachronistic 使い方", "時代錯誤 英語", "時代遅れ 英語"],
+    "meanings": [
+      { "hinshi": "【形】時代錯誤の、時代遅れの", "note": "その時代にそぐわない。古すぎる。" },
+      { "hinshi": "【形】時代考証が誤った", "note": "作品に別時代のものが紛れ込む。" }
+    ],
+    "usages": [
+      { "title": "① 時代遅れの考え・制度", "desc": "今の時代に合わない。", "example_en": "The rule now seems anachronistic.", "example_ja": "その規則は今や時代錯誤に思える。" },
+      { "title": "② 時代考証の誤り", "desc": "別の時代のものが紛れ込む。", "example_en": "The movie has an anachronistic detail: a clock in ancient Rome.", "example_ja": "その映画には時代考証の誤りがある。古代ローマに時計が出てくるのだ。" }
+    ],
+    "warn": ["名詞は anachronism（時代錯誤・時代考証の誤り）。", "古代の場面にスマホが映るなど『別時代のものの混入』の意味が典型。"],
+    "etym_note": "ギリシャ語 anachronismos（ana-（逆に）＋ chronos（時）＝時のずれ）に由来。「時代がずれた」。",
+    "etym_chain": [
+      { "node": "ana- + chronos", "sub": "時のずれ", "era": "ギリシャ語" },
+      { "node": "anachronism", "sub": "時代錯誤", "era": "近代英語" },
+      { "node": "anachronistic", "sub": "時代錯誤の", "era": "19世紀英語" }
+    ],
+    "phrases": [
+      { "en": "an anachronistic view", "ja": "時代錯誤の見方" },
+      { "en": "seem anachronistic", "ja": "時代遅れに思える" },
+      { "en": "anachronistic rules", "ja": "時代錯誤の規則" },
+      { "en": "an anachronistic detail", "ja": "時代考証の誤り" },
+      { "en": "hopelessly anachronistic", "ja": "どうしようもなく時代遅れな" },
+      { "en": "an anachronistic attitude", "ja": "時代遅れの態度" }
+    ],
+    "related": [
+      { "en": "anachronism", "ja": "時代錯誤" },
+      { "en": "outdated", "ja": "時代遅れの" },
+      { "en": "obsolete", "ja": "廃れた" },
+      { "en": "old-fashioned", "ja": "旧式の" }
+    ],
+    "faq": [
+      { "q": "anachronistic の名詞形は？", "a": "anachronism（時代錯誤・時代考証の誤り）です。" },
+      { "q": "どんな例がある？", "a": "古代ローマを描いた映画に腕時計が映る、といった『別の時代のものの混入』が典型例です。今では古すぎる考えにも使います。" }
+    ],
+    "quiz": [
+      { "q": "anachronistic の意味は？", "A": "時代錯誤の・時代遅れの", "B": "最先端の", "C": "国際的な", "D": "自然の", "correct": "A" },
+      { "q": "anachronistic の名詞形は？", "A": "anachronism", "B": "anatomy", "C": "analogy", "D": "anarchy", "correct": "A" }
+    ]
+  },
+  {
+    "english": "consequential",
+    "pron": "ˌkɑːnsɪˈkwenʃl",
+    "kana": "コンシクエンシャル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "consequence（結果）＋-ial",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "書き言葉"],
+    "meaning_main": "重大な／重要な結果を伴う／（結果として）生じる",
+    "description": "consequential（コンシクエンシャル）は「重大な・大きな結果をもたらす」という意味の形容詞。また「（ある出来事の）結果として生じる」という意味もあります。a consequential decision（重大な決定）のように使います。",
+    "keywords": ["consequential 意味", "consequential 使い方", "重大な 英語", "結果として生じる 英語"],
+    "meanings": [
+      { "hinshi": "【形】重大な、重要な結果を伴う", "note": "大きな影響・結果をもたらす。" },
+      { "hinshi": "【形】（結果として）生じる、間接的な", "note": "consequential damage（間接損害）。" }
+    ],
+    "usages": [
+      { "title": "① 重大な意味を持つ", "desc": "大きな結果をもたらす。", "example_en": "It was one of the most consequential decisions of his life.", "example_ja": "それは彼の人生で最も重大な決定の一つだった。" },
+      { "title": "② 結果として生じる", "desc": "派生的に起こる。", "example_en": "The policy led to consequential changes in the economy.", "example_ja": "その政策は経済に結果としての変化をもたらした。" }
+    ],
+    "warn": ["対義語的には inconsequential（取るに足りない）。", "名詞 consequence（結果・重大さ）から。『重大な』の意味は重要語。"],
+    "etym_note": "ラテン語 consequi（後に続く）由来の consequence（結果）に、-ial が付いた語。「結果をもたらす→重大な」。",
+    "etym_chain": [
+      { "node": "consequi", "sub": "後に続く", "era": "ラテン語" },
+      { "node": "consequence", "sub": "結果", "era": "中英語" },
+      { "node": "consequential", "sub": "重大な", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a consequential decision", "ja": "重大な決定" },
+      { "en": "a consequential event", "ja": "重大な出来事" },
+      { "en": "highly consequential", "ja": "きわめて重大な" },
+      { "en": "consequential damage", "ja": "間接損害" },
+      { "en": "a consequential figure", "ja": "重要な人物" },
+      { "en": "far-reaching and consequential", "ja": "広範で重大な" }
+    ],
+    "related": [
+      { "en": "consequence", "ja": "結果、重大さ" },
+      { "en": "significant", "ja": "重要な" },
+      { "en": "momentous", "ja": "重大な" },
+      { "en": "inconsequential", "ja": "取るに足りない" }
+    ],
+    "faq": [
+      { "q": "consequential の対義語は？", "a": "inconsequential（取るに足りない・重要でない）です。" },
+      { "q": "consequential と significant の違いは？", "a": "どちらも『重要な』ですが、consequential は特に『大きな結果・影響をもたらす』点を強調します。" }
+    ],
+    "quiz": [
+      { "q": "consequential の意味は？", "A": "重大な・大きな結果を伴う", "B": "取るに足りない", "C": "無料の", "D": "一時的な", "correct": "A" },
+      { "q": "consequential の対義語は？", "A": "inconsequential", "B": "consequence", "C": "consistent", "D": "confident", "correct": "A" }
+    ]
+  },
+  {
+    "english": "substantive",
+    "pron": "ˈsʌbstəntɪv",
+    "kana": "サブスタンティブ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 substantia（実体）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "書き言葉"],
+    "meaning_main": "実質的な／中身のある／重要な",
+    "description": "substantive（サブスタンティブ）は「実質的な・中身のある・重要な」という意味の形容詞。見かけや形式だけでなく、本質的で意味のある内容を伴うことを表す、かたい語です。substantive changes（実質的な変更）のように使います。",
+    "keywords": ["substantive 意味", "substantive 使い方", "実質的な 英語", "中身のある 英語"],
+    "meanings": [
+      { "hinshi": "【形】実質的な、中身のある", "note": "形式でなく本質的で意味のある。" },
+      { "hinshi": "【形】重要な、相当の", "note": "substantive issues（重要な論点）。" }
+    ],
+    "usages": [
+      { "title": "① 実質的な中身を持つ", "desc": "形だけでない本質。", "example_en": "We need a substantive discussion, not just small talk.", "example_ja": "世間話ではなく、中身のある議論が必要だ。" },
+      { "title": "② 重要な・相当の", "desc": "意味のある規模・内容。", "example_en": "The report made substantive recommendations.", "example_ja": "その報告書は実質的な提言を行った。" }
+    ],
+    "warn": ["substantial（かなりの・相当な）と混同注意。substantive は『実質・中身のある』、substantial は『量・規模が大きい』。", "文法用語では『名詞（substantive）』の意味もある。"],
+    "etym_note": "ラテン語 substantia（実体・本質）由来の substance に関連する形容詞。「実体のある」。",
+    "etym_chain": [
+      { "node": "substantia", "sub": "実体", "era": "ラテン語" },
+      { "node": "substantive", "sub": "実質的な", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "substantive changes", "ja": "実質的な変更" },
+      { "en": "a substantive issue", "ja": "重要な論点" },
+      { "en": "substantive discussion", "ja": "中身のある議論" },
+      { "en": "substantive evidence", "ja": "実質的な証拠" },
+      { "en": "substantive progress", "ja": "実質的な進展" },
+      { "en": "nothing substantive", "ja": "中身のあるものは何も" }
+    ],
+    "related": [
+      { "en": "substantial", "ja": "かなりの、相当な" },
+      { "en": "significant", "ja": "重要な" },
+      { "en": "meaningful", "ja": "意味のある" },
+      { "en": "substance", "ja": "実体、中身" }
+    ],
+    "faq": [
+      { "q": "substantive と substantial の違いは？", "a": "substantive は『実質・中身のある・本質的な』、substantial は『量・規模が大きい・かなりの』です。似ていますが焦点が異なります。" },
+      { "q": "substantive discussion とは？", "a": "『中身のある（本質的な）議論』のことで、表面的な雑談でなく実質を伴う話し合いを指します。" }
+    ],
+    "quiz": [
+      { "q": "substantive の意味は？", "A": "実質的な・中身のある", "B": "表面的な", "C": "空っぽの", "D": "一時的な", "correct": "A" },
+      { "q": "substantive と substantial、『実質・中身のある』は？", "A": "substantive", "B": "substantial", "C": "どちらも同じ", "D": "どちらでもない", "correct": "A" }
+    ]
+  },
+  {
+    "english": "paradigm",
+    "pron": "ˈpærədaɪm",
+    "kana": "パラダイム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 paradeigma（模範）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "学術"],
+    "meaning_main": "（ものの見方の）枠組み／模範・典型",
+    "description": "paradigm（パラダイム）は「（ある時代・分野に共通する）ものの見方の枠組み・模範・典型」という意味の名詞。考え方の土台となる基本的な枠組みを指します。a paradigm shift（パラダイムシフト＝枠組みの転換）が特に有名です。",
+    "keywords": ["paradigm 意味", "paradigm 使い方", "パラダイム 英語", "paradigm shift 意味"],
+    "meanings": [
+      { "hinshi": "【名】（ものの見方の）枠組み、理論的枠組み", "note": "考え方の土台となる基本的な型。可算名詞。" },
+      { "hinshi": "【名】模範、典型、手本", "note": "a paradigm of 〜（〜の典型）。" }
+    ],
+    "usages": [
+      { "title": "① 考え方の枠組み", "desc": "分野共通のものの見方。", "example_en": "The discovery changed the scientific paradigm.", "example_ja": "その発見は科学の枠組みを変えた。" },
+      { "title": "② 模範・典型", "desc": "手本となる例。", "example_en": "The city is a paradigm of good urban planning.", "example_ja": "その都市は優れた都市計画の典型だ。" }
+    ],
+    "warn": ["a paradigm shift（パラダイムシフト）は『それまでの枠組みが根本から転換すること』。", "発音は『パラダイム』、g は読まない。"],
+    "etym_note": "ギリシャ語 paradeigma（para-（傍らに）＋ deiknynai（示す）＝模範）に由来。「手本・型」。",
+    "etym_chain": [
+      { "node": "paradeigma", "sub": "模範", "era": "ギリシャ語" },
+      { "node": "paradigm", "sub": "枠組み・典型", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a paradigm shift", "ja": "パラダイムシフト、枠組みの転換" },
+      { "en": "the dominant paradigm", "ja": "支配的な枠組み" },
+      { "en": "a new paradigm", "ja": "新しい枠組み" },
+      { "en": "a paradigm of", "ja": "〜の典型" },
+      { "en": "shift the paradigm", "ja": "枠組みを転換する" },
+      { "en": "challenge the paradigm", "ja": "枠組みに挑む" }
+    ],
+    "related": [
+      { "en": "model", "ja": "模型、模範" },
+      { "en": "framework", "ja": "枠組み" },
+      { "en": "pattern", "ja": "型、パターン" },
+      { "en": "example", "ja": "例、典型" }
+    ],
+    "faq": [
+      { "q": "a paradigm shift とは？", "a": "それまで当然とされてきたものの見方（枠組み）が、根本から大きく転換することを指します。" },
+      { "q": "発音の注意は？", "a": "『パラダイム（ˈpærədaɪm）』で、語末の g は発音しません。" }
+    ],
+    "quiz": [
+      { "q": "paradigm の意味は？", "A": "ものの見方の枠組み・模範", "B": "小さな誤り", "C": "偶然の一致", "D": "短い休憩", "correct": "A" },
+      { "q": "a paradigm shift の意味は？", "A": "枠組みの根本的な転換", "B": "小さな修正", "C": "時間の変更", "D": "場所の移動", "correct": "A" }
+    ]
+  },
+  {
+    "english": "flabbergasted",
+    "pron": "ˈflæbərɡæstɪd",
+    "kana": "フラバガスティド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "18世紀の口語（語源不詳）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "感情表現"],
+    "meaning_main": "（あっけにとられて）仰天した／たまげた",
+    "description": "flabbergasted（フラバガスティド）は「あっけにとられるほど仰天した・たまげた」という意味の形容詞。驚きのあまり言葉を失うほどびっくりした状態を表す、ややくだけた強調表現です。",
+    "keywords": ["flabbergasted 意味", "flabbergasted 使い方", "仰天した 英語", "たまげた 英語"],
+    "meanings": [
+      { "hinshi": "【形】仰天した、あっけにとられた", "note": "驚きで言葉を失うほど。口語的な強調。" },
+      { "hinshi": "【形】たまげた", "note": "be flabbergasted by/at 〜（〜に仰天する）。" }
+    ],
+    "usages": [
+      { "title": "① ひどく驚く", "desc": "あっけにとられる。", "example_en": "I was flabbergasted by the news.", "example_ja": "私はその知らせに仰天した。" },
+      { "title": "② 言葉を失う驚き", "desc": "あまりの意外さに。", "example_en": "She looked absolutely flabbergasted.", "example_ja": "彼女は完全にあっけにとられた様子だった。" }
+    ],
+    "warn": ["surprised より強い『仰天・たまげた』の口語的強調語。", "前置詞は by / at。語源ははっきりしない18世紀の造語。"],
+    "etym_note": "18世紀の口語に現れた語で、語源ははっきりしない。flabby（たるんだ）＋ aghast（仰天した）の混成とも言われる。",
+    "etym_chain": [
+      { "node": "flabbergast", "sub": "仰天させる", "era": "18世紀英語" },
+      { "node": "flabbergasted", "sub": "仰天した", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "absolutely flabbergasted", "ja": "完全に仰天して" },
+      { "en": "flabbergasted by the news", "ja": "知らせに仰天して" },
+      { "en": "left flabbergasted", "ja": "あっけにとられたまま" },
+      { "en": "utterly flabbergasted", "ja": "すっかりたまげて" },
+      { "en": "flabbergasted at the result", "ja": "結果に仰天して" },
+      { "en": "look flabbergasted", "ja": "あっけにとられた顔をする" }
+    ],
+    "related": [
+      { "en": "astonished", "ja": "びっくりした" },
+      { "en": "astounded", "ja": "仰天した" },
+      { "en": "stunned", "ja": "呆然とした" },
+      { "en": "amazed", "ja": "驚いた" }
+    ],
+    "faq": [
+      { "q": "flabbergasted はどのくらい驚いた状態？", "a": "surprised よりずっと強く、『言葉を失うほど仰天した』状態を表す口語的な強調語です。" },
+      { "q": "前置詞は？", "a": "by または at を使います。例：flabbergasted by/at the news（その知らせに仰天して）。" }
+    ],
+    "quiz": [
+      { "q": "flabbergasted の意味は？", "A": "あっけにとられて仰天した", "B": "少し退屈した", "C": "満足した", "D": "眠くなった", "correct": "A" },
+      { "q": "flabbergasted のニュアンスは？", "A": "surprised より強い『仰天』", "B": "surprised より弱い", "C": "怒り", "D": "悲しみ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "misogyny",
+    "pron": "mɪˈsɑːdʒəni",
+    "kana": "ミソジニー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 misos（憎しみ）＋gyne（女性）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "社会"],
+    "meaning_main": "女性嫌悪／女性蔑視",
+    "description": "misogyny（ミソジニー）は「女性嫌悪・女性蔑視」という意味の名詞。女性に対する根深い嫌悪や差別的な態度を指す、社会的なテーマで使われる語です。ギリシャ語の『憎しみ＋女性』に由来します。",
+    "keywords": ["misogyny 意味", "misogyny 使い方", "女性嫌悪 英語", "女性蔑視 英語"],
+    "meanings": [
+      { "hinshi": "【名】女性嫌悪、女性蔑視", "note": "女性への根深い嫌悪・差別。不可算名詞。" },
+      { "hinshi": "【名】女性を見下す態度", "note": "制度や言動に表れる女性軽視。" }
+    ],
+    "usages": [
+      { "title": "① 女性への差別・嫌悪", "desc": "根深い女性蔑視。", "example_en": "The book examines misogyny in society.", "example_ja": "その本は社会における女性蔑視を検証している。" },
+      { "title": "② 言動に表れる女性軽視", "desc": "差別的な態度。", "example_en": "Her comments were criticized as misogyny.", "example_ja": "彼女の発言は女性蔑視だと批判された。" }
+    ],
+    "warn": ["女性蔑視者は misogynist、形容詞は misogynistic。", "対になる語は misandry（男性嫌悪）。『女性好き』ではない点に注意。"],
+    "etym_note": "ギリシャ語 misos（憎しみ）＋ gyne（女性）による語。「女性を憎むこと」。",
+    "etym_chain": [
+      { "node": "misos + gyne", "sub": "女性への憎しみ", "era": "ギリシャ語" },
+      { "node": "misogyny", "sub": "女性嫌悪", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "deep-rooted misogyny", "ja": "根深い女性蔑視" },
+      { "en": "everyday misogyny", "ja": "日常にひそむ女性蔑視" },
+      { "en": "institutional misogyny", "ja": "制度的な女性蔑視" },
+      { "en": "challenge misogyny", "ja": "女性蔑視に立ち向かう" },
+      { "en": "online misogyny", "ja": "ネット上の女性蔑視" },
+      { "en": "misogyny and sexism", "ja": "女性蔑視と性差別" }
+    ],
+    "related": [
+      { "en": "misogynist", "ja": "女性嫌悪者" },
+      { "en": "sexism", "ja": "性差別" },
+      { "en": "prejudice", "ja": "偏見" },
+      { "en": "misandry", "ja": "男性嫌悪" }
+    ],
+    "faq": [
+      { "q": "misogyny の形容詞・人を表す語は？", "a": "形容詞は misogynistic（女性蔑視的な）、人は misogynist（女性嫌悪者）です。" },
+      { "q": "対になる語は？", "a": "misandry（男性嫌悪）です。misogyny が『女性』嫌悪である点に注意しましょう。" }
+    ],
+    "quiz": [
+      { "q": "misogyny の意味は？", "A": "女性嫌悪・女性蔑視", "B": "女性崇拝", "C": "男性嫌悪", "D": "人類愛", "correct": "A" },
+      { "q": "misogyny と対になる『男性嫌悪』は？", "A": "misandry", "B": "misogynist", "C": "monogamy", "D": "misanthropy", "correct": "A" }
+    ]
+  },
+  {
+    "english": "effervescent",
+    "pron": "ˌefərˈvesnt",
+    "kana": "エファベセント",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 effervescere（沸き立つ）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "様子"],
+    "meaning_main": "（飲み物が）発泡性の／（人が）快活で生き生きした",
+    "description": "effervescent（エファベセント）は「（飲み物が）泡立つ・発泡性の」という意味の形容詞。そこから比喩で「（人や雰囲気が）快活で生き生きした・はつらつとした」という意味にも使われます。炭酸のように弾ける明るさを表します。",
+    "keywords": ["effervescent 意味", "effervescent 使い方", "発泡性 英語", "快活な 英語"],
+    "meanings": [
+      { "hinshi": "【形】発泡性の、泡立つ", "note": "炭酸のように泡が出る。" },
+      { "hinshi": "【形】（人が）快活な、はつらつとした", "note": "泡が弾けるように生き生きした様子。" }
+    ],
+    "usages": [
+      { "title": "① 泡立つ飲み物", "desc": "炭酸のように発泡する。", "example_en": "The drink was cold and effervescent.", "example_ja": "その飲み物は冷たくて発泡性だった。" },
+      { "title": "② 快活な人柄", "desc": "弾けるような明るさ。", "example_en": "She has an effervescent personality.", "example_ja": "彼女は生き生きとした快活な人柄だ。" }
+    ],
+    "warn": ["名詞は effervescence（発泡・快活さ）。", "人を表すときは『炭酸のように弾ける明るさ』のほめ言葉。"],
+    "etym_note": "ラテン語 effervescere（ex-（外へ）＋ fervescere（沸き始める）＝沸き立つ）に由来。「泡立つ」。",
+    "etym_chain": [
+      { "node": "effervescere", "sub": "沸き立つ", "era": "ラテン語" },
+      { "node": "effervescent", "sub": "発泡性の・快活な", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "an effervescent drink", "ja": "発泡性の飲み物" },
+      { "en": "an effervescent personality", "ja": "快活な人柄" },
+      { "en": "effervescent and lively", "ja": "はつらつとして活発な" },
+      { "en": "an effervescent tablet", "ja": "発泡錠" },
+      { "en": "bubbly and effervescent", "ja": "泡立って快活な" },
+      { "en": "effervescent charm", "ja": "弾けるような魅力" }
+    ],
+    "related": [
+      { "en": "bubbly", "ja": "泡立った、快活な" },
+      { "en": "fizzy", "ja": "炭酸の" },
+      { "en": "lively", "ja": "活発な" },
+      { "en": "vivacious", "ja": "快活な" }
+    ],
+    "faq": [
+      { "q": "effervescent の比喩的な意味は？", "a": "『（人や雰囲気が）炭酸のように弾ける明るさで、快活・はつらつとしている』というほめ言葉です。" },
+      { "q": "名詞形は？", "a": "effervescence（発泡・快活さ）です。" }
+    ],
+    "quiz": [
+      { "q": "effervescent の意味は？", "A": "発泡性の／快活な", "B": "平らで静かな", "C": "暗く沈んだ", "D": "乾いた", "correct": "A" },
+      { "q": "an effervescent personality の意味は？", "A": "快活な人柄", "B": "陰気な人柄", "C": "怒りっぽい人柄", "D": "無口な人柄", "correct": "A" }
+    ]
+  },
+  {
+    "english": "degenerate",
+    "pron": "dɪˈdʒenəreɪt",
+    "kana": "ディジェネレイト",
+    "hinshi": "動詞 / 形容詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 degenerare（堕落する）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "書き言葉"],
+    "meaning_main": "（次第に）悪化する・退化する／（形）堕落した",
+    "description": "degenerate（ディジェネレイト）は「（次第に）悪化する・退化する・堕落する」という意味の動詞。良い状態からだんだん悪い状態へ落ちていくことを表します。形容詞では「堕落した・退廃した」。動詞と形容詞で発音（語尾）が異なります。",
+    "keywords": ["degenerate 意味", "degenerate 使い方", "悪化する 英語", "退化する 英語"],
+    "meanings": [
+      { "hinshi": "【動】（次第に）悪化する、退化する", "note": "良い状態から悪い状態へ落ちる。degenerate into 〜。" },
+      { "hinshi": "【形】堕落した、退廃した", "note": "形容詞は語尾が /rət/。" }
+    ],
+    "usages": [
+      { "title": "① 状況が悪化する", "desc": "だんだん悪くなる。", "example_en": "The discussion degenerated into an argument.", "example_ja": "その話し合いは口論へと悪化した。" },
+      { "title": "② 退化・堕落する", "desc": "質が落ちていく。", "example_en": "Over time, the tissue begins to degenerate.", "example_ja": "時間とともに、その組織は退化し始める。" }
+    ],
+    "warn": ["degenerate into 〜（〜へと悪化する）の形が頻出。", "動詞は語尾 -ate を /eɪt/、形容詞・名詞は /ət/ と発音が異なる。名詞は degeneration（退化・悪化）。"],
+    "etym_note": "ラテン語 degenerare（de-（下へ）＋ genus（種族・質）＝質が落ちる）に由来。「質が下がる」。",
+    "etym_chain": [
+      { "node": "degenerare", "sub": "堕落する", "era": "ラテン語" },
+      { "node": "degenerate", "sub": "悪化する", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "degenerate into chaos", "ja": "混乱へと悪化する" },
+      { "en": "degenerate into violence", "ja": "暴力沙汰に発展する" },
+      { "en": "begin to degenerate", "ja": "退化し始める" },
+      { "en": "degenerate over time", "ja": "時とともに悪化する" },
+      { "en": "a degenerate state", "ja": "堕落した状態" },
+      { "en": "rapidly degenerate", "ja": "急速に悪化する" }
+    ],
+    "related": [
+      { "en": "degeneration", "ja": "退化、悪化" },
+      { "en": "deteriorate", "ja": "悪化する" },
+      { "en": "decline", "ja": "衰える" },
+      { "en": "worsen", "ja": "悪化する" }
+    ],
+    "faq": [
+      { "q": "degenerate into とは？", "a": "『（だんだん悪くなって）〜へと悪化する・成り下がる』という意味です。例：degenerate into a fight（けんかに発展する）。" },
+      { "q": "動詞と形容詞で発音が違う？", "a": "はい。動詞は語尾を /eɪt/（ディジェネレイト）、形容詞・名詞は /ət/（ディジェネレット）と発音します。" }
+    ],
+    "quiz": [
+      { "q": "degenerate（動詞）の意味は？", "A": "次第に悪化する・退化する", "B": "改善する", "C": "完成する", "D": "出発する", "correct": "A" },
+      { "q": "degenerate into an argument の意味は？", "A": "口論へと悪化する", "B": "合意に達する", "C": "笑い話になる", "D": "沈黙する", "correct": "A" }
+    ]
+  },
+  {
+    "english": "inthelongrun",
+    "pron": "ɪn ðə ˈlɔːŋ rʌn",
+    "kana": "イン・ザ・ロング・ラン",
+    "hinshi": "熟語（in the long run）",
+    "ld_pos": "熟語",
+    "ld_etym": "long run（長い道のり）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "熟語"],
+    "meaning_main": "長い目で見れば／結局は／長期的には（in the long run）",
+    "description": "in the long run（イン・ザ・ロング・ラン）は「長い目で見れば・結局は・長期的には」という意味の熟語。正しくは in the long run と4語で書きます。目先ではなく、長期的に見た結果を述べるときに使います。",
+    "keywords": ["in the long run 意味", "in the long run 使い方", "長い目で見れば 英語", "長期的に 英語"],
+    "meanings": [
+      { "hinshi": "【熟】長い目で見れば、長期的には", "note": "目先でなく将来的に見ると。" },
+      { "hinshi": "【熟】結局は、最終的には", "note": "時間がたてば最終的にこうなる、という結論。" }
+    ],
+    "usages": [
+      { "title": "① 長期的な結果を述べる", "desc": "将来を見据えて。", "example_en": "Saving money now will pay off in the long run.", "example_ja": "今お金を貯めれば、長い目で見れば得になる。" },
+      { "title": "② 目先と対比する", "desc": "短期ではなく長期で。", "example_en": "It may be hard now, but in the long run it's worth it.", "example_ja": "今は大変でも、長期的には価値がある。" }
+    ],
+    "warn": ["リンクの都合で inthelongrun とつなげて書かれますが、正しくは in the long run（4語）です。", "対になる表現は in the short run / in the short term（短期的には）。"],
+    "etym_note": "the long run（長い道のり・長期）を使った定型表現。「長く走った先では」から『長期的には』。",
+    "etym_chain": [
+      { "node": "the long run", "sub": "長い道のり", "era": "近代英語" },
+      { "node": "in the long run", "sub": "長期的には", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "in the long run", "ja": "長い目で見れば" },
+      { "en": "pay off in the long run", "ja": "長期的には報われる" },
+      { "en": "cheaper in the long run", "ja": "長い目で見れば安い" },
+      { "en": "better in the long run", "ja": "結局はより良い" },
+      { "en": "in the long run, ...", "ja": "長期的には、…" },
+      { "en": "in the short run", "ja": "短期的には（対義）" }
+    ],
+    "related": [
+      { "en": "in the long term", "ja": "長期的には" },
+      { "en": "eventually", "ja": "最終的に" },
+      { "en": "ultimately", "ja": "結局は" },
+      { "en": "in the short run", "ja": "短期的には" }
+    ],
+    "faq": [
+      { "q": "in the long run の対義語は？", "a": "in the short run / in the short term（短期的には）です。" },
+      { "q": "in the long run は何語で書く？", "a": "in the long run と4語で書きます。『結局は・長い目で見れば』という意味です。" }
+    ],
+    "quiz": [
+      { "q": "in the long run の意味は？", "A": "長い目で見れば・結局は", "B": "すぐに", "C": "まったく〜ない", "D": "偶然に", "correct": "A" },
+      { "q": "in the long run の対義表現は？", "A": "in the short run", "B": "in a hurry", "C": "at once", "D": "by chance", "correct": "A" }
+    ]
+  },
+  {
+    "english": "whenitcomesto",
+    "pron": "wen ɪt ˈkʌmz tuː",
+    "kana": "ウェン・イット・カムズ・トゥ",
+    "hinshi": "熟語（when it comes to）",
+    "ld_pos": "熟語",
+    "ld_etym": "come to（〜のことになる）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "熟語"],
+    "meaning_main": "〜のことになると／〜に関して言えば（when it comes to）",
+    "description": "when it comes to（ウェン・イット・カムズ・トゥ）は「〜のことになると・〜に関して言えば」という意味の熟語。正しくは when it comes to と4語で書きます。話題をある分野に絞って述べるときの前置きに使います。to の後は名詞か動名詞（-ing）です。",
+    "keywords": ["when it comes to 意味", "when it comes to 使い方", "〜のことになると 英語", "〜に関して 英語"],
+    "meanings": [
+      { "hinshi": "【熟】〜のことになると、〜に関して言えば", "note": "話題をある分野に絞る前置き。to の後は名詞か -ing。" },
+      { "hinshi": "【熟】〜という話になると", "note": "特定の事柄を取り上げるときに。" }
+    ],
+    "usages": [
+      { "title": "① 話題を絞る前置き", "desc": "ある分野に限って述べる。", "example_en": "When it comes to cooking, she's an expert.", "example_ja": "料理のことになると、彼女は専門家だ。" },
+      { "title": "② 動名詞を続ける", "desc": "to の後は -ing。", "example_en": "When it comes to saving money, he's very careful.", "example_ja": "お金を貯めることになると、彼はとても慎重だ。" }
+    ],
+    "warn": ["リンクの都合で whenitcomesto とつなげて書かれますが、正しくは when it comes to（4語）です。", "to は前置詞なので、後ろは名詞か動名詞（-ing）。動詞の原形は続かない。"],
+    "etym_note": "come to（〜のことに至る・及ぶ）を使った定型表現。「〜の話に及ぶと」。",
+    "etym_chain": [
+      { "node": "come to", "sub": "〜に及ぶ", "era": "近代英語" },
+      { "node": "when it comes to", "sub": "〜のことになると", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "when it comes to money", "ja": "お金のことになると" },
+      { "en": "when it comes to work", "ja": "仕事に関して言えば" },
+      { "en": "when it comes to cooking", "ja": "料理のことになると" },
+      { "en": "when it comes to learning", "ja": "学ぶことになると" },
+      { "en": "when it comes to sports", "ja": "スポーツのことになると" },
+      { "en": "especially when it comes to", "ja": "特に〜のことになると" }
+    ],
+    "related": [
+      { "en": "as for", "ja": "〜に関しては" },
+      { "en": "regarding", "ja": "〜に関して" },
+      { "en": "concerning", "ja": "〜について" },
+      { "en": "come to", "ja": "〜に及ぶ" }
+    ],
+    "faq": [
+      { "q": "when it comes to の後は何が来る？", "a": "to は前置詞なので、後ろは名詞か動名詞（-ing）です。動詞の原形は続きません。例：when it comes to cooking（料理のことになると）。" },
+      { "q": "どんなときに使う？", "a": "話題をある分野に絞って『〜のことになると』と前置きするときに使います。" }
+    ],
+    "quiz": [
+      { "q": "when it comes to の意味は？", "A": "〜のことになると・〜に関して言えば", "B": "〜する前に", "C": "〜のあとで", "D": "〜にもかかわらず", "correct": "A" },
+      { "q": "when it comes to の後にくる形は？", "A": "名詞か動名詞(-ing)", "B": "動詞の原形", "C": "過去形", "D": "形容詞のみ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ruleout",
+    "pron": "ˌruːl ˈaʊt",
+    "kana": "ルール・アウト",
+    "hinshi": "句動詞（rule out）",
+    "ld_pos": "句動詞",
+    "ld_etym": "rule（判定する）＋out（除外して）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "句動詞"],
+    "meaning_main": "除外する／可能性を否定する／（ルールで）禁じる（rule out）",
+    "description": "rule out（ルール・アウト）は「（可能性・候補を）除外する・あり得ないと否定する」という意味の句動詞。正しくは rule out と2語で書きます。検討の対象から外す、または起こり得ないと判断することを表します。",
+    "keywords": ["rule out 意味", "rule out 使い方", "除外する 英語", "可能性を否定する 英語"],
+    "meanings": [
+      { "hinshi": "【句動】除外する、候補から外す", "note": "検討の対象から外す。" },
+      { "hinshi": "【句動】（可能性を）否定する、あり得ないとする", "note": "起こり得ないと判断する。" }
+    ],
+    "usages": [
+      { "title": "① 可能性を否定する", "desc": "あり得ないと判断。", "example_en": "Police have not ruled out foul play.", "example_ja": "警察は事件性を否定していない。" },
+      { "title": "② 候補から外す", "desc": "検討対象から除く。", "example_en": "We can rule out that option because it's too expensive.", "example_ja": "その選択肢は高すぎるので除外できる。" }
+    ],
+    "warn": ["リンクの都合で ruleout とつなげて書かれますが、正しくは rule out（2語）です。", "対義的に rule in（候補として残す）もあるがまれ。not rule out（否定しない＝可能性を残す）の形も頻出。"],
+    "etym_note": "rule（判定する・線を引く）＋ out（除外して）による句動詞。「線を引いて外に出す→除外する」。",
+    "etym_chain": [
+      { "node": "rule out", "sub": "除外する", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "rule out the possibility", "ja": "可能性を否定する" },
+      { "en": "cannot rule out", "ja": "否定できない" },
+      { "en": "rule out an option", "ja": "選択肢を除外する" },
+      { "en": "not ruled out", "ja": "否定されていない" },
+      { "en": "rule out a candidate", "ja": "候補から外す" },
+      { "en": "completely rule out", "ja": "完全に除外する" }
+    ],
+    "related": [
+      { "en": "exclude", "ja": "除外する" },
+      { "en": "eliminate", "ja": "排除する" },
+      { "en": "dismiss", "ja": "退ける" },
+      { "en": "rule in", "ja": "候補に入れる" }
+    ],
+    "faq": [
+      { "q": "rule out は1語？2語？", "a": "正しくは rule out と2語で書きます。『除外する・可能性を否定する』という意味です。" },
+      { "q": "not rule out の意味は？", "a": "『否定しない＝（その）可能性を残す』という意味です。例：not rule out an increase（値上げの可能性を残す）。" }
+    ],
+    "quiz": [
+      { "q": "rule out の意味は？", "A": "除外する・可能性を否定する", "B": "採用する", "C": "称賛する", "D": "延期する", "correct": "A" },
+      { "q": "cannot rule out の意味は？", "A": "否定できない（可能性が残る）", "B": "必ず起こる", "C": "完全に除外する", "D": "興味がない", "correct": "A" }
+    ]
+  },
+  {
+    "english": "makethemostof",
+    "pron": "ˌmeɪk ðə ˈmoʊst əv",
+    "kana": "メイク・ザ・モスト・オブ",
+    "hinshi": "熟語（make the most of）",
+    "ld_pos": "熟語",
+    "ld_etym": "make the most（最大限にする）＋of",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "熟語"],
+    "meaning_main": "〜を最大限に活用する／精一杯生かす（make the most of）",
+    "description": "make the most of（メイク・ザ・モスト・オブ）は「（限られた機会・条件などを）最大限に活用する・精一杯生かす」という意味の熟語。正しくは make the most of と4語で書きます。あるものを無駄なく生かすときに使います。",
+    "keywords": ["make the most of 意味", "make the most of 使い方", "最大限に活用 英語", "生かす 英語"],
+    "meanings": [
+      { "hinshi": "【熟】〜を最大限に活用する", "note": "限られたものを無駄なく生かす。" },
+      { "hinshi": "【熟】〜を精一杯楽しむ・生かす", "note": "機会や時間を十分に使う。" }
+    ],
+    "usages": [
+      { "title": "① 機会を生かす", "desc": "最大限に活用する。", "example_en": "Let's make the most of our time here.", "example_ja": "ここでの時間を最大限に生かそう。" },
+      { "title": "② 限られた条件を生かす", "desc": "無駄なく使う。", "example_en": "She made the most of her small budget.", "example_ja": "彼女は少ない予算を精一杯生かした。" }
+    ],
+    "warn": ["リンクの都合で makethemostof とつなげて書かれますが、正しくは make the most of（4語）です。", "make the best of（不本意な状況でも最善を尽くす）とは少しニュアンスが異なる。"],
+    "etym_note": "make the most（最大限にする）＋ of 〜 による定型表現。「〜を最大限にする」。",
+    "etym_chain": [
+      { "node": "make the most", "sub": "最大限にする", "era": "近代英語" },
+      { "node": "make the most of", "sub": "最大限に活用する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "make the most of it", "ja": "それを最大限に生かす" },
+      { "en": "make the most of your time", "ja": "時間を最大限に活用する" },
+      { "en": "make the most of the opportunity", "ja": "機会を生かす" },
+      { "en": "make the most of life", "ja": "人生を精一杯生きる" },
+      { "en": "make the most of every day", "ja": "毎日を存分に生かす" },
+      { "en": "make the best of", "ja": "（不本意でも）最善を尽くす" }
+    ],
+    "related": [
+      { "en": "take advantage of", "ja": "〜を活用する" },
+      { "en": "utilize", "ja": "活用する" },
+      { "en": "exploit", "ja": "生かす、活用する" },
+      { "en": "benefit from", "ja": "〜から利益を得る" }
+    ],
+    "faq": [
+      { "q": "make the most of と make the best of の違いは？", "a": "make the most of は『（良い機会を）最大限に生かす』、make the best of は『（不本意な状況でも）最善を尽くす』です。" },
+      { "q": "何語で書く？", "a": "make the most of と4語で書きます。" }
+    ],
+    "quiz": [
+      { "q": "make the most of の意味は？", "A": "〜を最大限に活用する", "B": "〜を無駄にする", "C": "〜を避ける", "D": "〜を忘れる", "correct": "A" },
+      { "q": "make the most of your time の意味は？", "A": "時間を最大限に生かす", "B": "時間を無駄にする", "C": "時間に遅れる", "D": "時間を計る", "correct": "A" }
+    ]
+  },
+  {
+    "english": "cometopass",
+    "pron": "ˌkʌm tə ˈpæs",
+    "kana": "カム・トゥ・パス",
+    "hinshi": "熟語（come to pass）",
+    "ld_pos": "熟語",
+    "ld_etym": "come to（〜に至る）＋pass（起こる）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "熟語・文語"],
+    "meaning_main": "（物事が）起こる／実現する（come to pass）",
+    "description": "come to pass（カム・トゥ・パス）は「（物事が）起こる・実現する・そうなる」という意味の熟語。正しくは come to pass と3語で書きます。happen のやや古風・文語的な言い方で、聖書や格式ある文章でよく見られます。",
+    "keywords": ["come to pass 意味", "come to pass 使い方", "起こる 英語", "実現する 英語"],
+    "meanings": [
+      { "hinshi": "【熟】起こる、生じる", "note": "happen の古風・文語的な表現。" },
+      { "hinshi": "【熟】（予言・願いが）実現する", "note": "予言したことがその通りになる。" }
+    ],
+    "usages": [
+      { "title": "① 物事が起こる", "desc": "happen の文語的表現。", "example_en": "It came to pass that the kingdom fell.", "example_ja": "やがてその王国は滅びることとなった。" },
+      { "title": "② 予言・願いが実現する", "desc": "その通りになる。", "example_en": "His prediction finally came to pass.", "example_ja": "彼の予言はついに現実となった。" }
+    ],
+    "warn": ["リンクの都合で cometopass とつなげて書かれますが、正しくは come to pass（3語）です。", "やや古風・文語的で、日常会話より格式ある文章・聖書的表現で使う。happen が普通の言い方。"],
+    "etym_note": "come to（〜に至る）＋ pass（起こる・経過する）による古い定型表現。聖書英語などで定着。",
+    "etym_chain": [
+      { "node": "come to pass", "sub": "起こるに至る", "era": "中英語" },
+      { "node": "come to pass", "sub": "起こる・実現する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "it came to pass that", "ja": "やがて〜することとなった" },
+      { "en": "come to pass", "ja": "実現する、起こる" },
+      { "en": "may it come to pass", "ja": "そうなりますように" },
+      { "en": "finally came to pass", "ja": "ついに実現した" },
+      { "en": "never came to pass", "ja": "結局実現しなかった" },
+      { "en": "come to pass as predicted", "ja": "予言通りに実現する" }
+    ],
+    "related": [
+      { "en": "happen", "ja": "起こる" },
+      { "en": "occur", "ja": "生じる" },
+      { "en": "materialize", "ja": "実現する" },
+      { "en": "transpire", "ja": "起こる、判明する" }
+    ],
+    "faq": [
+      { "q": "come to pass と happen の違いは？", "a": "意味は同じ『起こる』ですが、come to pass はやや古風・文語的で、聖書や格式ある文章でよく使われます。日常では happen が普通です。" },
+      { "q": "何語で書く？", "a": "come to pass と3語で書きます。" }
+    ],
+    "quiz": [
+      { "q": "come to pass の意味は？", "A": "（物事が）起こる・実現する", "B": "通り過ぎる", "C": "合格する", "D": "立ち止まる", "correct": "A" },
+      { "q": "come to pass の文体は？", "A": "やや古風・文語的", "B": "くだけた俗語", "C": "専門の医学用語", "D": "命令表現", "correct": "A" }
+    ]
+  },
+  {
+    "english": "takeawayfrom",
+    "pron": "ˌteɪk əˈweɪ frəm",
+    "kana": "テイク・アウェイ・フロム",
+    "hinshi": "句動詞（take away from）",
+    "ld_pos": "句動詞",
+    "ld_etym": "take away（取り去る）＋from",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "句動詞"],
+    "meaning_main": "〜の価値を損なう／〜から取り去る（take away from）",
+    "description": "take away from（テイク・アウェイ・フロム）は「〜の価値や良さを損なう・減じる」という意味の句動詞。正しくは take away from と3語で書きます。あるものが別のものの魅力や成果を減らしてしまう、という文脈で使います。",
+    "keywords": ["take away from 意味", "take away from 使い方", "価値を損なう 英語", "減じる 英語"],
+    "meanings": [
+      { "hinshi": "【句動】〜の価値・良さを損なう、減じる", "note": "魅力や成果を減らす。detract from とほぼ同義。" },
+      { "hinshi": "【句動】〜から取り去る", "note": "文字どおり取り除く意味も。" }
+    ],
+    "usages": [
+      { "title": "① 価値を損なう", "desc": "良さを減らしてしまう。", "example_en": "The ugly fence takes away from the beauty of the garden.", "example_ja": "その見苦しい柵が庭の美しさを損なっている。" },
+      { "title": "② 成果を減じない（否定）", "desc": "〜を損なうものではない。", "example_en": "This doesn't take away from his achievement.", "example_ja": "これは彼の功績を損なうものではない。" }
+    ],
+    "warn": ["リンクの都合で takeawayfrom とつなげて書かれますが、正しくは take away from（3語）です。", "『価値を損なう』の意味では detract from とほぼ同義。『要点』の意味の名詞 takeaway とは別。"],
+    "etym_note": "句動詞 take away（取り去る）＋ from 〜 による表現。「〜から良さを取り去る→損なう」。",
+    "etym_chain": [
+      { "node": "take away", "sub": "取り去る", "era": "近代英語" },
+      { "node": "take away from", "sub": "価値を損なう", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "take away from the beauty", "ja": "美しさを損なう" },
+      { "en": "not take away from", "ja": "〜を損なわない" },
+      { "en": "take away from the experience", "ja": "体験の良さを減じる" },
+      { "en": "detract from (類義)", "ja": "〜の価値を損なう（類義）" },
+      { "en": "take away from the mood", "ja": "雰囲気を損なう" },
+      { "en": "take away from the achievement", "ja": "功績を損なう" }
+    ],
+    "related": [
+      { "en": "detract from", "ja": "〜の価値を損なう" },
+      { "en": "diminish", "ja": "減じる" },
+      { "en": "undermine", "ja": "損なう" },
+      { "en": "take away", "ja": "取り去る" }
+    ],
+    "faq": [
+      { "q": "take away from と detract from の違いは？", "a": "ほぼ同義で『〜の価値や良さを損なう』を表します。take away from の方が口語的です。" },
+      { "q": "名詞の takeaway と関係ある？", "a": "別物です。名詞 takeaway は『持ち帰り・要点』、句動詞 take away from は『価値を損なう』です。" }
+    ],
+    "quiz": [
+      { "q": "take away from の意味は？", "A": "〜の価値・良さを損なう", "B": "〜の価値を高める", "C": "〜を購入する", "D": "〜を忘れる", "correct": "A" },
+      { "q": "This doesn't take away from his success. の意味は？", "A": "これは彼の成功を損なうものではない", "B": "これは彼の成功を証明する", "C": "彼は成功を奪った", "D": "彼は失敗した", "correct": "A" }
+    ]
+  },
+  {
+    "english": "passdown",
+    "pron": "ˌpæs ˈdaʊn",
+    "kana": "パス・ダウン",
+    "hinshi": "句動詞（pass down）",
+    "ld_pos": "句動詞",
+    "ld_etym": "pass（渡す）＋down（下の世代へ）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "句動詞"],
+    "meaning_main": "（次の世代に）受け継ぐ・伝える（pass down）",
+    "description": "pass down（パス・ダウン）は「（知識・伝統・財産などを）次の世代へ受け継ぐ・伝える」という意味の句動詞。正しくは pass down と2語で書きます。しばしば受け身 be passed down（代々伝えられる）で使われます。",
+    "keywords": ["pass down 意味", "pass down 使い方", "受け継ぐ 英語", "代々伝える 英語"],
+    "meanings": [
+      { "hinshi": "【句動】（次の世代に）受け継ぐ、伝える", "note": "伝統・知識・財産を下の世代へ。" },
+      { "hinshi": "【句動】be passed down（代々伝えられる）", "note": "受け身で使うことが多い。" }
+    ],
+    "usages": [
+      { "title": "① 世代を超えて伝える", "desc": "次の世代へ受け継ぐ。", "example_en": "These stories are passed down from generation to generation.", "example_ja": "これらの物語は世代から世代へと受け継がれている。" },
+      { "title": "② 財産・技術を継ぐ", "desc": "代々伝える。", "example_en": "The recipe was passed down by her grandmother.", "example_ja": "そのレシピは祖母から受け継がれたものだ。" }
+    ],
+    "warn": ["リンクの都合で passdown とつなげて書かれますが、正しくは pass down（2語）です。", "be passed down from generation to generation（代々受け継がれる）が定番。"],
+    "etym_note": "pass（渡す）＋ down（下へ・下の世代へ）による句動詞。「下の世代へ渡す」。",
+    "etym_chain": [
+      { "node": "pass down", "sub": "受け継ぐ", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "passed down through generations", "ja": "代々受け継がれて" },
+      { "en": "pass down traditions", "ja": "伝統を受け継ぐ" },
+      { "en": "pass down knowledge", "ja": "知識を伝える" },
+      { "en": "passed down from", "ja": "〜から受け継がれた" },
+      { "en": "pass down a skill", "ja": "技術を継承する" },
+      { "en": "pass down a story", "ja": "物語を語り継ぐ" }
+    ],
+    "related": [
+      { "en": "inherit", "ja": "受け継ぐ" },
+      { "en": "hand down", "ja": "伝える、継ぐ" },
+      { "en": "pass on", "ja": "伝える、譲る" },
+      { "en": "inheritance", "ja": "継承、遺産" }
+    ],
+    "faq": [
+      { "q": "pass down と hand down の違いは？", "a": "ほぼ同義で、どちらも『（次の世代へ）受け継ぐ・伝える』です。どちらもよく使われます。" },
+      { "q": "pass down は何語で書く？", "a": "pass down と2語で書きます。受け身 be passed down（代々伝えられる）の形が頻出です。" }
+    ],
+    "quiz": [
+      { "q": "pass down の意味は？", "A": "（次の世代に）受け継ぐ・伝える", "B": "捨てる", "C": "売り払う", "D": "忘れる", "correct": "A" },
+      { "q": "passed down through generations の意味は？", "A": "代々受け継がれて", "B": "一度で消えて", "C": "輸入されて", "D": "発明されて", "correct": "A" }
+    ]
+  },
+  {
+    "english": "attheexpenseof",
+    "pron": "ət ði ɪkˈspens əv",
+    "kana": "アット・ジ・エクスペンス・オブ",
+    "hinshi": "熟語（at the expense of）",
+    "ld_pos": "熟語",
+    "ld_etym": "expense（犠牲・費用）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "熟語"],
+    "meaning_main": "〜を犠牲にして／〜に負担をかけて（at the expense of）",
+    "description": "at the expense of（アット・ジ・エクスペンス・オブ）は「〜を犠牲にして・〜を損なって・〜に負担をかけて」という意味の熟語。正しくは at the expense of と4語で書きます。何かを得る代わりに別の大切なものを失う、という文脈で使います。",
+    "keywords": ["at the expense of 意味", "at the expense of 使い方", "〜を犠牲にして 英語", "犠牲 英語"],
+    "meanings": [
+      { "hinshi": "【熟】〜を犠牲にして、〜を損なって", "note": "何かを得る代わりに別のものを失う。" },
+      { "hinshi": "【熟】〜の費用負担で", "note": "文字どおり『〜の出費で』の意味も。" }
+    ],
+    "usages": [
+      { "title": "① 何かを犠牲にする", "desc": "代わりに大切なものを失う。", "example_en": "He succeeded at the expense of his health.", "example_ja": "彼は健康を犠牲にして成功した。" },
+      { "title": "② 〜を笑いものにして", "desc": "at someone's expense（〜をだしにして）。", "example_en": "They laughed at his expense.", "example_ja": "彼らは彼をだしにして笑った。" }
+    ],
+    "warn": ["リンクの都合で attheexpenseof とつなげて書かれますが、正しくは at the expense of（4語）です。", "at someone's expense は『〜の費用で』または『〜をだしにして（からかって）』の二通りの意味がある。"],
+    "etym_note": "expense（費用・犠牲）を使った定型表現。「〜の犠牲のうえに」。",
+    "etym_chain": [
+      { "node": "expense", "sub": "費用・犠牲", "era": "中英語" },
+      { "node": "at the expense of", "sub": "〜を犠牲にして", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "at the expense of health", "ja": "健康を犠牲にして" },
+      { "en": "at the expense of others", "ja": "他人を犠牲にして" },
+      { "en": "at the expense of quality", "ja": "品質を損なって" },
+      { "en": "at someone's expense", "ja": "〜の費用で／〜をだしにして" },
+      { "en": "at great expense", "ja": "多大な費用をかけて" },
+      { "en": "not at the expense of", "ja": "〜を犠牲にせずに" }
+    ],
+    "related": [
+      { "en": "sacrifice", "ja": "犠牲にする" },
+      { "en": "expense", "ja": "費用、犠牲" },
+      { "en": "at the cost of", "ja": "〜を犠牲にして" },
+      { "en": "to the detriment of", "ja": "〜を損なって" }
+    ],
+    "faq": [
+      { "q": "at the expense of の意味は？", "a": "『〜を犠牲にして・〜を損なって』という意味です。何かを得る代わりに別の大切なものを失う文脈で使います。" },
+      { "q": "at someone's expense には別の意味がある？", "a": "はい。『〜の費用で』のほか、『〜をだしにして（からかって）』の意味もあります。例：a joke at my expense（私をだしにした冗談）。" }
+    ],
+    "quiz": [
+      { "q": "at the expense of の意味は？", "A": "〜を犠牲にして", "B": "〜のおかげで", "C": "〜と一緒に", "D": "〜の前に", "correct": "A" },
+      { "q": "succeed at the expense of his health の意味は？", "A": "健康を犠牲にして成功する", "B": "健康的に成功する", "C": "健康のために働く", "D": "健康を取り戻す", "correct": "A" }
+    ]
+  }
+]
