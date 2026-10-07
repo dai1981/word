@@ -1,0 +1,991 @@
+[
+  {
+    "english": "infiltrate",
+    "pron": "ˈɪnfɪltreɪt",
+    "kana": "インフィルトレイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "in-（中へ）＋filtrate（ろ過して通す）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "書き言葉"],
+    "meaning_main": "（ひそかに）潜入する／浸透する／入り込む",
+    "description": "infiltrate（インフィルトレイト）は「（組織などに）ひそかに潜入する・（液体などが）浸透する」という意味の動詞。スパイが敵に入り込む、思想や水がじわじわ入り込むといった場面で使います。",
+    "keywords": ["infiltrate 意味", "infiltrate 使い方", "潜入する 英語", "浸透する 英語"],
+    "meanings": [
+      { "hinshi": "【動】ひそかに潜入する", "note": "敵や組織に気づかれず入り込む。" },
+      { "hinshi": "【動】（液体・気体が）浸透する", "note": "じわじわとしみ込む。" }
+    ],
+    "usages": [
+      { "title": "① 組織に潜入する", "desc": "スパイなどが入り込む。", "example_en": "Agents infiltrated the criminal group.", "example_ja": "捜査員たちはその犯罪組織に潜入した。" },
+      { "title": "② 浸透する", "desc": "液体や思想がしみ込む。", "example_en": "Water had infiltrated the walls.", "example_ja": "水が壁にしみ込んでいた。" }
+    ],
+    "warn": ["名詞は infiltration（潜入・浸透）。", "『気づかれずに入り込む』点が penetrate（突き抜ける）との違い。"],
+    "etym_note": "in-（中へ）＋ filtrate（ろ過して通す、ラテン語 filtrum＝フェルト由来）による語。「しみ込んで入る」。",
+    "etym_chain": [
+      { "node": "filtrum", "sub": "フェルト・ろ過材", "era": "中世ラテン語" },
+      { "node": "filtrate", "sub": "ろ過して通す", "era": "近代英語" },
+      { "node": "infiltrate", "sub": "潜入する", "era": "19世紀英語" }
+    ],
+    "phrases": [
+      { "en": "infiltrate an organization", "ja": "組織に潜入する" },
+      { "en": "infiltrate enemy lines", "ja": "敵陣に潜入する" },
+      { "en": "infiltrate a group", "ja": "集団に入り込む" },
+      { "en": "water infiltrates the soil", "ja": "水が土にしみ込む" },
+      { "en": "secretly infiltrate", "ja": "ひそかに潜入する" },
+      { "en": "infiltrate the system", "ja": "システムに入り込む" }
+    ],
+    "related": [
+      { "en": "infiltration", "ja": "潜入、浸透" },
+      { "en": "penetrate", "ja": "突き抜ける、入り込む" },
+      { "en": "sneak", "ja": "こっそり入る" },
+      { "en": "seep", "ja": "しみ出る、しみ込む" }
+    ],
+    "faq": [
+      { "q": "infiltrate と penetrate の違いは？", "a": "penetrate は『突き抜ける・貫く』、infiltrate は『気づかれずにひそかに入り込む・浸透する』という点が特徴です。" },
+      { "q": "名詞形は？", "a": "infiltration（潜入・浸透）です。" }
+    ],
+    "quiz": [
+      { "q": "infiltrate の意味は？", "A": "ひそかに潜入する・浸透する", "B": "堂々と出て行く", "C": "大声で叫ぶ", "D": "高く飛ぶ", "correct": "A" },
+      { "q": "infiltrate an organization の意味は？", "A": "組織に潜入する", "B": "組織を作る", "C": "組織を去る", "D": "組織を褒める", "correct": "A" }
+    ]
+  },
+  {
+    "english": "dichotomy",
+    "pron": "daɪˈkɑːtəmi",
+    "kana": "ダイコトミー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 dicha（二つに）＋tomos（切る）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "論理"],
+    "meaning_main": "二分／二項対立／（正反対の）二分割",
+    "description": "dichotomy（ダイコトミー）は「（はっきり対立する）二つへの分割・二項対立」という意味の名詞。物事を正反対の二つに分ける考え方や、その対立を指します。the dichotomy between A and B（AとBの対立）のように使います。",
+    "keywords": ["dichotomy 意味", "dichotomy 使い方", "二項対立 英語", "二分 英語"],
+    "meanings": [
+      { "hinshi": "【名】二分、二項対立", "note": "正反対の二つに分けること・その対立。可算名詞。" },
+      { "hinshi": "【名】（相反する）二分割", "note": "a false dichotomy（誤った二分法）。" }
+    ],
+    "usages": [
+      { "title": "① 対立する二つに分ける", "desc": "正反対の二分。", "example_en": "There is a dichotomy between theory and practice.", "example_ja": "理論と実践の間には対立（二分）がある。" },
+      { "title": "② 誤った二分法を指す", "desc": "本当は二択でない場合。", "example_en": "Saying you must choose one or the other is a false dichotomy.", "example_ja": "どちらか一方を選べというのは誤った二分法だ。" }
+    ],
+    "warn": ["a false dichotomy（誤った二分法）＝本当は二択でないのに二択だと決めつける論法。", "形容詞は dichotomous（二分された）。"],
+    "etym_note": "ギリシャ語 dichotomia（dicha（二つに）＋ tomos（切る））に由来。「二つに切ること」。",
+    "etym_chain": [
+      { "node": "dichotomia", "sub": "二分", "era": "ギリシャ語" },
+      { "node": "dichotomy", "sub": "二項対立", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a false dichotomy", "ja": "誤った二分法" },
+      { "en": "the dichotomy between", "ja": "〜の間の対立" },
+      { "en": "a clear dichotomy", "ja": "はっきりした二分" },
+      { "en": "a simple dichotomy", "ja": "単純な二項対立" },
+      { "en": "create a dichotomy", "ja": "二分を生む" },
+      { "en": "mind-body dichotomy", "ja": "心身二元論" }
+    ],
+    "related": [
+      { "en": "division", "ja": "分割" },
+      { "en": "contrast", "ja": "対比" },
+      { "en": "opposition", "ja": "対立" },
+      { "en": "split", "ja": "分裂" }
+    ],
+    "faq": [
+      { "q": "a false dichotomy とは？", "a": "本当はもっと選択肢があるのに『AかBか』の二択しかないかのように決めつける、誤った論法のことです。" },
+      { "q": "dichotomy の形容詞形は？", "a": "dichotomous（二分された・正反対に分かれた）です。" }
+    ],
+    "quiz": [
+      { "q": "dichotomy の意味は？", "A": "二分・二項対立", "B": "統合・一体化", "C": "増加", "D": "偶然", "correct": "A" },
+      { "q": "a false dichotomy の意味は？", "A": "誤った二分法", "B": "正しい分類", "C": "完全な一致", "D": "偶然の一致", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ameliorate",
+    "pron": "əˈmiːliəreɪt",
+    "kana": "アミーリオレイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 melior（より良い）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "書き言葉"],
+    "meaning_main": "改善する／（状況を）良くする・和らげる",
+    "description": "ameliorate（アミーリオレイト）は「（悪い状況を）改善する・良くする・和らげる」という意味の動詞。improve とほぼ同義ですが、特に苦しい・問題のある状態をましにするときに使う、かたい書き言葉です。",
+    "keywords": ["ameliorate 意味", "ameliorate 使い方", "改善する 英語", "和らげる 英語"],
+    "meanings": [
+      { "hinshi": "【動】改善する、良くする", "note": "悪い状況をましにする。improve のかたい語。" },
+      { "hinshi": "【動】（苦痛・問題を）和らげる", "note": "深刻さを軽くする。" }
+    ],
+    "usages": [
+      { "title": "① 状況を改善する", "desc": "悪い状態をましにする。", "example_en": "The new policy aims to ameliorate poverty.", "example_ja": "その新しい政策は貧困の改善を目指している。" },
+      { "title": "② 苦痛を和らげる", "desc": "深刻さを軽くする。", "example_en": "Measures were taken to ameliorate the crisis.", "example_ja": "危機を和らげるための対策がとられた。" }
+    ],
+    "warn": ["improve よりかたい書き言葉。『悪い状況をましにする』ニュアンス。", "名詞は amelioration（改善）。"],
+    "etym_note": "ラテン語 melior（より良い）に由来。「より良くする」。",
+    "etym_chain": [
+      { "node": "melior", "sub": "より良い", "era": "ラテン語" },
+      { "node": "ameliorate", "sub": "改善する", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "ameliorate the situation", "ja": "状況を改善する" },
+      { "en": "ameliorate conditions", "ja": "状況・環境を良くする" },
+      { "en": "ameliorate poverty", "ja": "貧困を改善する" },
+      { "en": "ameliorate suffering", "ja": "苦しみを和らげる" },
+      { "en": "help ameliorate", "ja": "改善を助ける" },
+      { "en": "ameliorate the problem", "ja": "問題を和らげる" }
+    ],
+    "related": [
+      { "en": "improve", "ja": "改善する" },
+      { "en": "alleviate", "ja": "和らげる" },
+      { "en": "better", "ja": "良くする" },
+      { "en": "worsen", "ja": "悪化させる" }
+    ],
+    "faq": [
+      { "q": "ameliorate と improve の違いは？", "a": "意味はほぼ同じ『改善する』ですが、ameliorate はかたい書き言葉で、特に『悪い・苦しい状況をましにする』ニュアンスがあります。" },
+      { "q": "alleviate との違いは？", "a": "alleviate は『(苦痛・負担を)和らげる』に特化、ameliorate は『状況全体を改善する』を広く表します。" }
+    ],
+    "quiz": [
+      { "q": "ameliorate の意味は？", "A": "改善する・和らげる", "B": "悪化させる", "C": "放置する", "D": "破壊する", "correct": "A" },
+      { "q": "ameliorate the situation の意味は？", "A": "状況を改善する", "B": "状況を悪くする", "C": "状況を記録する", "D": "状況を無視する", "correct": "A" }
+    ]
+  },
+  {
+    "english": "draconian",
+    "pron": "drəˈkoʊniən",
+    "kana": "ドラコニアン",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "古代アテネの立法者 Draco（ドラコン）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "政治・書き言葉"],
+    "meaning_main": "（法律・罰が）過酷な／厳しすぎる",
+    "description": "draconian（ドラコニアン）は「（法律や処罰が）過酷な・厳しすぎる」という意味の形容詞。古代アテネの厳しい法を定めた立法者ドラコン（Draco）に由来します。draconian measures（厳しすぎる措置）のように使います。",
+    "keywords": ["draconian 意味", "draconian 使い方", "過酷な 英語", "厳しすぎる 英語"],
+    "meanings": [
+      { "hinshi": "【形】（罰・法が）過酷な、厳格すぎる", "note": "度を越して厳しいこと。非難的に使う。" },
+      { "hinshi": "【形】容赦のない", "note": "draconian laws（過酷な法律）。" }
+    ],
+    "usages": [
+      { "title": "① 厳しすぎる法・措置", "desc": "度を越した厳しさ。", "example_en": "The government introduced draconian laws.", "example_ja": "政府は過酷な法律を導入した。" },
+      { "title": "② 容赦ない規則", "desc": "厳格すぎる取り締まり。", "example_en": "The school's rules seemed draconian.", "example_ja": "その学校の規則は厳しすぎるように思えた。" }
+    ],
+    "warn": ["しばしば非難・批判のニュアンスで使う。", "固有名詞由来だが、形容詞としては小文字 draconian が一般的。"],
+    "etym_note": "紀元前7世紀アテネの立法者 Draco（ドラコン）が、軽罪にも死刑を科す過酷な法を定めたことに由来。",
+    "etym_chain": [
+      { "node": "Draco", "sub": "ドラコン（立法者）", "era": "古代ギリシャ" },
+      { "node": "draconian", "sub": "過酷な", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "draconian laws", "ja": "過酷な法律" },
+      { "en": "draconian measures", "ja": "厳しすぎる措置" },
+      { "en": "draconian rules", "ja": "厳格すぎる規則" },
+      { "en": "draconian punishment", "ja": "過酷な処罰" },
+      { "en": "draconian restrictions", "ja": "厳しすぎる制限" },
+      { "en": "a draconian policy", "ja": "容赦ない政策" }
+    ],
+    "related": [
+      { "en": "harsh", "ja": "過酷な" },
+      { "en": "severe", "ja": "厳しい" },
+      { "en": "strict", "ja": "厳格な" },
+      { "en": "ruthless", "ja": "容赦のない" }
+    ],
+    "faq": [
+      { "q": "draconian の由来は？", "a": "古代アテネの立法者ドラコン（Draco）が、ささいな罪にも死刑を科すほど過酷な法を定めたことに由来します。" },
+      { "q": "どんなニュアンス？", "a": "『厳しすぎる・度を越している』という非難・批判の色合いで使われることが多いです。" }
+    ],
+    "quiz": [
+      { "q": "draconian の意味は？", "A": "（罰・法が）過酷な・厳しすぎる", "B": "とても優しい", "C": "自由な", "D": "曖昧な", "correct": "A" },
+      { "q": "draconian の由来となった人物は？", "A": "古代アテネの立法者ドラコン", "B": "ローマ皇帝", "C": "エジプトの王", "D": "中国の思想家", "correct": "A" }
+    ]
+  },
+  {
+    "english": "metastasize",
+    "pron": "məˈtæstəsaɪz",
+    "kana": "メタスタサイズ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ギリシャ語 metastasis（移動）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "医学"],
+    "meaning_main": "（がんが）転移する／（悪いものが）広がる",
+    "description": "metastasize（メタスタサイズ）は「（がんが）転移する」という意味の医学用語の動詞。比喩で「（問題や悪いものが）手に負えないほど広がる」という意味でも使われます。英国つづりは metastasise。",
+    "keywords": ["metastasize 意味", "metastasize 使い方", "転移する 英語", "がん 転移 英語"],
+    "meanings": [
+      { "hinshi": "【動】（がんが）転移する", "note": "がん細胞が別の部位に広がる。医学用語。" },
+      { "hinshi": "【動】（悪いものが）広がる（比喩）", "note": "問題などが制御できず拡大する。" }
+    ],
+    "usages": [
+      { "title": "① がんの転移", "desc": "別の臓器に広がる。", "example_en": "The cancer had metastasized to the liver.", "example_ja": "そのがんは肝臓に転移していた。" },
+      { "title": "② 比喩的な拡大", "desc": "問題が手に負えなく広がる。", "example_en": "The crisis metastasized into a global problem.", "example_ja": "その危機は世界的な問題へと広がった。" }
+    ],
+    "warn": ["名詞は metastasis（転移、複数 metastases）。", "英国つづりは metastasise。"],
+    "etym_note": "ギリシャ語 metastasis（meta-（移って）＋ stasis（位置）＝移動）に由来。「別の場所へ移る」。",
+    "etym_chain": [
+      { "node": "metastasis", "sub": "移動", "era": "ギリシャ語" },
+      { "node": "metastasize", "sub": "転移する", "era": "19世紀英語" }
+    ],
+    "phrases": [
+      { "en": "metastasize to the liver", "ja": "肝臓に転移する" },
+      { "en": "the cancer metastasized", "ja": "がんが転移した" },
+      { "en": "metastasize rapidly", "ja": "急速に転移する" },
+      { "en": "metastasize into a crisis", "ja": "危機へと広がる" },
+      { "en": "prevent it from metastasizing", "ja": "転移を防ぐ" },
+      { "en": "a metastasizing tumor", "ja": "転移していく腫瘍" }
+    ],
+    "related": [
+      { "en": "metastasis", "ja": "転移" },
+      { "en": "spread", "ja": "広がる" },
+      { "en": "tumor", "ja": "腫瘍" },
+      { "en": "cancer", "ja": "がん" }
+    ],
+    "faq": [
+      { "q": "metastasize の名詞形は？", "a": "metastasis（転移）です。複数形は metastases（メタスタシーズ）です。" },
+      { "q": "比喩的にも使える？", "a": "はい。『問題や悪いものが手に負えないほど広がる』という比喩でも使われます。" }
+    ],
+    "quiz": [
+      { "q": "metastasize の意味は？", "A": "（がんが）転移する・広がる", "B": "治る", "C": "縮む", "D": "固まる", "correct": "A" },
+      { "q": "metastasize の名詞形は？", "A": "metastasis", "B": "metabolism", "C": "metaphor", "D": "metronome", "correct": "A" }
+    ]
+  },
+  {
+    "english": "eschew",
+    "pron": "ɪsˈtʃuː",
+    "kana": "イスチュー",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古フランス語 eschiver（避ける）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "書き言葉"],
+    "meaning_main": "（意図的に）避ける／控える・断つ",
+    "description": "eschew（イスチュー）は「（好ましくないものを意図的に）避ける・控える・断つ」という意味の動詞。信念や方針から、あえて何かを遠ざけることを表す、かたい書き言葉です。eschew violence（暴力を避ける）のように使います。",
+    "keywords": ["eschew 意味", "eschew 使い方", "避ける 英語", "控える 英語"],
+    "meanings": [
+      { "hinshi": "【動】（意図的に）避ける、控える", "note": "信念や方針からあえて遠ざける。かたい語。" },
+      { "hinshi": "【動】断つ、慎む", "note": "好ましくない物事を退ける。" }
+    ],
+    "usages": [
+      { "title": "① 信念から避ける", "desc": "あえて遠ざける。", "example_en": "The group eschews all forms of violence.", "example_ja": "その団体はあらゆる形の暴力を避けている。" },
+      { "title": "② ぜいたくなどを控える", "desc": "慎んで断つ。", "example_en": "She eschews luxury and lives simply.", "example_ja": "彼女はぜいたくを避け、質素に暮らしている。" }
+    ],
+    "warn": ["avoid よりかたく文語的。『信念・方針からあえて避ける』ニュアンス。", "発音は『イスチュー』（esは『イス』）。"],
+    "etym_note": "古フランス語 eschiver（避ける、ゲルマン系 skiuhan＝おじけづく由来）に由来。「避ける」。",
+    "etym_chain": [
+      { "node": "eschiver", "sub": "避ける", "era": "古フランス語" },
+      { "node": "eschew", "sub": "避ける", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "eschew violence", "ja": "暴力を避ける" },
+      { "en": "eschew luxury", "ja": "ぜいたくを控える" },
+      { "en": "eschew politics", "ja": "政治に関わらない" },
+      { "en": "eschew conflict", "ja": "争いを避ける" },
+      { "en": "eschew publicity", "ja": "人目を避ける" },
+      { "en": "deliberately eschew", "ja": "意図的に避ける" }
+    ],
+    "related": [
+      { "en": "avoid", "ja": "避ける" },
+      { "en": "shun", "ja": "避ける、遠ざける" },
+      { "en": "abstain", "ja": "控える" },
+      { "en": "forgo", "ja": "やめておく" }
+    ],
+    "faq": [
+      { "q": "eschew と avoid の違いは？", "a": "どちらも『避ける』ですが、eschew はかたい文語で『信念や方針からあえて遠ざける』ニュアンスが強い語です。" },
+      { "q": "発音は？", "a": "『イスチュー（ɪsˈtʃuː）』です。es を『イス』と読みます。" }
+    ],
+    "quiz": [
+      { "q": "eschew の意味は？", "A": "（意図的に）避ける・控える", "B": "追い求める", "C": "歓迎する", "D": "忘れる", "correct": "A" },
+      { "q": "eschew violence の意味は？", "A": "暴力を避ける", "B": "暴力をふるう", "C": "暴力を記録する", "D": "暴力を見物する", "correct": "A" }
+    ]
+  },
+  {
+    "english": "visceral",
+    "pron": "ˈvɪsərəl",
+    "kana": "ヴィセラル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 viscera（内臓）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "感情表現"],
+    "meaning_main": "本能的な／（理屈でなく）腹の底から感じる／内臓の",
+    "description": "visceral（ヴィセラル）は「本能的な・（理屈でなく）腹の底から湧く・内臓の」という意味の形容詞。頭で考える前に体の奥から湧き上がる強い感情・反応を表します。a visceral reaction（本能的な反応）のように使います。",
+    "keywords": ["visceral 意味", "visceral 使い方", "本能的な 英語", "腹の底から 英語"],
+    "meanings": [
+      { "hinshi": "【形】本能的な、腹の底から湧く", "note": "理性より先に体の奥から感じる。" },
+      { "hinshi": "【形】内臓の", "note": "医学で『内臓に関する』。" }
+    ],
+    "usages": [
+      { "title": "① 本能的な反応・感情", "desc": "理屈抜きの強い反応。", "example_en": "She felt a visceral fear of snakes.", "example_ja": "彼女はヘビに本能的な恐怖を感じた。" },
+      { "title": "② 腹の底から響く", "desc": "強く直接的に訴える。", "example_en": "The film has a visceral impact.", "example_ja": "その映画は腹の底に響く衝撃がある。" }
+    ],
+    "warn": ["名詞 viscera は『内臓』。『感情が内臓（腹）から来る』イメージ。", "intellectual（理知的な）の対極として使われることが多い。"],
+    "etym_note": "ラテン語 viscera（内臓）に由来。「内臓の」から『腹の底から湧く・本能的な』に意味が広がった。",
+    "etym_chain": [
+      { "node": "viscera", "sub": "内臓", "era": "ラテン語" },
+      { "node": "visceral", "sub": "本能的な", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a visceral reaction", "ja": "本能的な反応" },
+      { "en": "a visceral fear", "ja": "腹の底からの恐怖" },
+      { "en": "visceral emotion", "ja": "本能的な感情" },
+      { "en": "a visceral response", "ja": "直感的な反応" },
+      { "en": "visceral appeal", "ja": "本能に訴える魅力" },
+      { "en": "on a visceral level", "ja": "本能的なレベルで" }
+    ],
+    "related": [
+      { "en": "instinctive", "ja": "本能的な" },
+      { "en": "gut", "ja": "直感の、腹の" },
+      { "en": "emotional", "ja": "感情的な" },
+      { "en": "intellectual", "ja": "理知的な" }
+    ],
+    "faq": [
+      { "q": "visceral はどんな感情？", "a": "頭で考える前に、体の奥（腹）から湧き上がる本能的で強い感情・反応を表します。" },
+      { "q": "intellectual との違いは？", "a": "intellectual は『理性・頭で考える』、visceral は『本能・腹の底から感じる』で、対照的に使われます。" }
+    ],
+    "quiz": [
+      { "q": "visceral の意味は？", "A": "本能的な・腹の底から湧く", "B": "理性的で冷静な", "C": "表面的な", "D": "計画的な", "correct": "A" },
+      { "q": "a visceral reaction の意味は？", "A": "本能的な反応", "B": "計算された反応", "C": "ゆっくりした反応", "D": "無反応", "correct": "A" }
+    ]
+  },
+  {
+    "english": "delve",
+    "pron": "delv",
+    "kana": "デルヴ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古英語 delfan（掘る）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "書き言葉"],
+    "meaning_main": "（深く）探る／掘り下げる／調べる",
+    "description": "delve（デルヴ）は「（情報・問題などを）深く探る・掘り下げる・徹底的に調べる」という意味の動詞。もとは『（土を）掘る』で、そこから『深く調査する』の比喩になりました。delve into 〜（〜を掘り下げる）の形で使います。",
+    "keywords": ["delve 意味", "delve into 使い方", "掘り下げる 英語", "深く探る 英語"],
+    "meanings": [
+      { "hinshi": "【動】深く探る、掘り下げる", "note": "delve into 〜 で『〜を徹底的に調べる』。" },
+      { "hinshi": "【動】（中を）手を入れて探す", "note": "かばんなどの中を探る。" }
+    ],
+    "usages": [
+      { "title": "① 問題を掘り下げる", "desc": "深く調査・探究する。", "example_en": "The book delves into the history of jazz.", "example_ja": "その本はジャズの歴史を深く掘り下げている。" },
+      { "title": "② 中を探る", "desc": "手を入れて探す。", "example_en": "She delved into her bag for the keys.", "example_ja": "彼女はかばんの中を探って鍵を見つけようとした。" }
+    ],
+    "warn": ["多くは delve into 〜（〜を掘り下げる）の形で使う。", "もとの意味は『(土を)掘る』で、現在は比喩的な『深く調べる』が中心。"],
+    "etym_note": "古英語 delfan（掘る）に由来。「掘る」から『深く探究する』に意味が広がった。",
+    "etym_chain": [
+      { "node": "delfan", "sub": "掘る", "era": "古英語" },
+      { "node": "delve", "sub": "深く探る", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "delve into the past", "ja": "過去を掘り下げる" },
+      { "en": "delve deeper", "ja": "さらに深く探る" },
+      { "en": "delve into the details", "ja": "詳細を掘り下げる" },
+      { "en": "delve into a subject", "ja": "ある主題を深く調べる" },
+      { "en": "delve into one's bag", "ja": "かばんの中を探る" },
+      { "en": "delve into history", "ja": "歴史を掘り下げる" }
+    ],
+    "related": [
+      { "en": "explore", "ja": "探究する" },
+      { "en": "investigate", "ja": "調査する" },
+      { "en": "dig", "ja": "掘る" },
+      { "en": "probe", "ja": "詳しく調べる" }
+    ],
+    "faq": [
+      { "q": "delve の後にくる前置詞は？", "a": "into です。delve into 〜 で『〜を深く掘り下げる・調べる』という意味になります。" },
+      { "q": "explore との違いは？", "a": "explore は『探究する』全般、delve は『(土を掘るように)さらに深く徹底的に探る』ニュアンスが強い語です。" }
+    ],
+    "quiz": [
+      { "q": "delve into の意味は？", "A": "〜を深く掘り下げる・探る", "B": "〜を無視する", "C": "〜を捨てる", "D": "〜を売る", "correct": "A" },
+      { "q": "delve の後にくる前置詞は？", "A": "into", "B": "at", "C": "of", "D": "by", "correct": "A" }
+    ]
+  },
+  {
+    "english": "impressionable",
+    "pron": "ɪmˈpreʃənəbl",
+    "kana": "インプレッショナブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "impression（印象）＋-able",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "性格"],
+    "meaning_main": "（特に若者が）影響を受けやすい／感化されやすい",
+    "description": "impressionable（インプレッショナブル）は「（特に若くて経験が浅く）影響を受けやすい・感化されやすい」という意味の形容詞。周りの人や考えにすぐ心を動かされる性質を表します。impressionable young people（感化されやすい若者）のように使います。",
+    "keywords": ["impressionable 意味", "impressionable 使い方", "影響を受けやすい 英語", "感化 英語"],
+    "meanings": [
+      { "hinshi": "【形】影響を受けやすい、感化されやすい", "note": "周りの考えにすぐ心を動かされる。特に若者に。" },
+      { "hinshi": "【形】純真で染まりやすい", "note": "at an impressionable age（多感な年ごろで）。" }
+    ],
+    "usages": [
+      { "title": "① 若者が感化されやすい", "desc": "周囲の影響を受けやすい。", "example_en": "Teenagers are often impressionable.", "example_ja": "10代は影響を受けやすいことが多い。" },
+      { "title": "② 多感な年ごろ", "desc": "心が染まりやすい時期。", "example_en": "He read the book at an impressionable age.", "example_ja": "彼は多感な年ごろにその本を読んだ。" }
+    ],
+    "warn": ["impressive（印象的な）とは別語。impressionable は『影響を受けやすい』。", "at an impressionable age（多感な年ごろで）は定番表現。"],
+    "etym_note": "ラテン語 imprimere（押しつける）由来の impression（印象）に、-able（〜されやすい）が付いた語。「印象づけられやすい」。",
+    "etym_chain": [
+      { "node": "impression", "sub": "印象", "era": "中英語" },
+      { "node": "impressionable", "sub": "影響を受けやすい", "era": "19世紀英語" }
+    ],
+    "phrases": [
+      { "en": "an impressionable age", "ja": "多感な年ごろ" },
+      { "en": "impressionable young people", "ja": "感化されやすい若者" },
+      { "en": "highly impressionable", "ja": "とても影響を受けやすい" },
+      { "en": "an impressionable child", "ja": "染まりやすい子ども" },
+      { "en": "impressionable minds", "ja": "影響を受けやすい心" },
+      { "en": "young and impressionable", "ja": "若くて感化されやすい" }
+    ],
+    "related": [
+      { "en": "impression", "ja": "印象" },
+      { "en": "susceptible", "ja": "影響されやすい" },
+      { "en": "naive", "ja": "世間知らずの" },
+      { "en": "gullible", "ja": "だまされやすい" }
+    ],
+    "faq": [
+      { "q": "impressionable と impressive の違いは？", "a": "impressive は『印象的な・見事な』、impressionable は『（人が）影響を受けやすい』で、全く意味が異なります。" },
+      { "q": "at an impressionable age とは？", "a": "『多感で影響を受けやすい年ごろに』という意味の定番表現です。" }
+    ],
+    "quiz": [
+      { "q": "impressionable の意味は？", "A": "影響を受けやすい", "B": "印象的な", "C": "頑固な", "D": "無関心な", "correct": "A" },
+      { "q": "at an impressionable age の意味は？", "A": "多感な年ごろで", "B": "年老いてから", "C": "生まれてすぐ", "D": "引退後に", "correct": "A" }
+    ]
+  },
+  {
+    "english": "inveterate",
+    "pron": "ɪnˈvetərət",
+    "kana": "インヴェテレット",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 inveterare（古くする・根づかせる）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "書き言葉"],
+    "meaning_main": "（習慣・癖が）根深い／常習的な／筋金入りの",
+    "description": "inveterate（インヴェテレット）は「（習慣や性質が）根深い・常習的な・筋金入りの」という意味の形容詞。長年にわたって染みついて、簡単には変わらない癖や性分を表します。an inveterate liar（筋金入りのうそつき）のように使います。",
+    "keywords": ["inveterate 意味", "inveterate 使い方", "常習的な 英語", "筋金入り 英語"],
+    "meanings": [
+      { "hinshi": "【形】（癖・習慣が）根深い、常習的な", "note": "長年染みついて変わらない。多く人を評して。" },
+      { "hinshi": "【形】筋金入りの、きっての", "note": "an inveterate gambler（常習的なギャンブラー）。" }
+    ],
+    "usages": [
+      { "title": "① 根深い癖を表す", "desc": "長年の染みついた性分。", "example_en": "He is an inveterate smoker.", "example_ja": "彼は常習的な喫煙者だ。" },
+      { "title": "② 筋金入りの人", "desc": "徹底してそうである人。", "example_en": "She is an inveterate traveler.", "example_ja": "彼女は筋金入りの旅行好きだ。" }
+    ],
+    "warn": ["多く『好ましくない癖・性質』に使うが、traveler など中立的にも。", "habitual（習慣的な）より『根深く変わらない』ニュアンスが強い。"],
+    "etym_note": "ラテン語 inveterare（in-（中へ）＋ vetus（古い）＝古くする）に由来。「長年かけて染みついた」。",
+    "etym_chain": [
+      { "node": "vetus", "sub": "古い", "era": "ラテン語" },
+      { "node": "inveterare", "sub": "根づかせる", "era": "ラテン語" },
+      { "node": "inveterate", "sub": "根深い", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "an inveterate liar", "ja": "筋金入りのうそつき" },
+      { "en": "an inveterate smoker", "ja": "常習的な喫煙者" },
+      { "en": "an inveterate gambler", "ja": "常習的なギャンブラー" },
+      { "en": "an inveterate habit", "ja": "根深い癖" },
+      { "en": "an inveterate traveler", "ja": "筋金入りの旅行好き" },
+      { "en": "inveterate optimist", "ja": "根っからの楽天家" }
+    ],
+    "related": [
+      { "en": "habitual", "ja": "習慣的な" },
+      { "en": "chronic", "ja": "慢性的な" },
+      { "en": "confirmed", "ja": "筋金入りの" },
+      { "en": "ingrained", "ja": "深く染みついた" }
+    ],
+    "faq": [
+      { "q": "inveterate と habitual の違いは？", "a": "habitual は単に『習慣的な』、inveterate は『長年染みついて簡単には変わらない、根深い』ニュアンスが強い語です。" },
+      { "q": "どんな語と使う？", "a": "an inveterate liar / smoker / gambler のように、根深い癖を持つ人を評して使うことが多いです。" }
+    ],
+    "quiz": [
+      { "q": "inveterate の意味は？", "A": "（癖が）根深い・常習的な", "B": "一時的な", "C": "新しい", "D": "珍しい", "correct": "A" },
+      { "q": "an inveterate liar の意味は？", "A": "筋金入りのうそつき", "B": "正直な人", "C": "新人", "D": "有名人", "correct": "A" }
+    ]
+  },
+  {
+    "english": "derelict",
+    "pron": "ˈderəlɪkt",
+    "kana": "デレリクト",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 derelinquere（見捨てる）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "書き言葉"],
+    "meaning_main": "（建物が）打ち捨てられた・荒れ果てた／（義務を）怠った",
+    "description": "derelict（デレリクト）は「（建物などが）打ち捨てられて荒れ果てた」という意味の形容詞。また「（義務を）怠った」の意味や、名詞で『浮浪者・放棄物』も表します。a derelict building（廃屋）のように使います。",
+    "keywords": ["derelict 意味", "derelict 使い方", "廃屋 英語", "荒れ果てた 英語"],
+    "meanings": [
+      { "hinshi": "【形】打ち捨てられた、荒れ果てた", "note": "放置されて朽ちた状態。a derelict house（廃屋）。" },
+      { "hinshi": "【形】（義務を）怠った", "note": "derelict in one's duty（職務怠慢で）。" },
+      { "hinshi": "【名】浮浪者、放棄物", "note": "見捨てられた人・物。" }
+    ],
+    "usages": [
+      { "title": "① 荒れ果てた建物", "desc": "放置されて朽ちた。", "example_en": "They explored a derelict factory.", "example_ja": "彼らは荒れ果てた工場を探検した。" },
+      { "title": "② 義務を怠る", "desc": "責任を果たさない。", "example_en": "He was derelict in his duties.", "example_ja": "彼は職務を怠っていた。" }
+    ],
+    "warn": ["abandoned（放棄された）と近いが、derelict は『放置されて朽ちた』荒廃の色合いが強い。", "derelict in one's duty（職務怠慢）は定番表現。"],
+    "etym_note": "ラテン語 derelinquere（de-＋ relinquere（残す・捨てる）＝完全に見捨てる）の過去分詞 derelictus に由来。",
+    "etym_chain": [
+      { "node": "derelinquere", "sub": "見捨てる", "era": "ラテン語" },
+      { "node": "derelict", "sub": "打ち捨てられた", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a derelict building", "ja": "廃屋、荒れ果てた建物" },
+      { "en": "a derelict house", "ja": "廃屋" },
+      { "en": "a derelict site", "ja": "放置された敷地" },
+      { "en": "derelict in one's duty", "ja": "職務怠慢で" },
+      { "en": "fall into a derelict state", "ja": "荒廃した状態に陥る" },
+      { "en": "a derelict ship", "ja": "放棄された船" }
+    ],
+    "related": [
+      { "en": "abandoned", "ja": "放棄された" },
+      { "en": "dilapidated", "ja": "老朽化した" },
+      { "en": "neglected", "ja": "放置された" },
+      { "en": "ruined", "ja": "荒廃した" }
+    ],
+    "faq": [
+      { "q": "derelict と abandoned の違いは？", "a": "abandoned は単に『放棄された』、derelict は『放置されて朽ち、荒れ果てた』という荒廃の様子が強く表れます。" },
+      { "q": "derelict in one's duty とは？", "a": "『職務を怠って』という意味の定番表現です。" }
+    ],
+    "quiz": [
+      { "q": "a derelict building の意味は？", "A": "打ち捨てられて荒れ果てた建物", "B": "新築の建物", "C": "高層ビル", "D": "歴史的建造物", "correct": "A" },
+      { "q": "derelict in one's duty の意味は？", "A": "職務を怠って", "B": "職務に忠実で", "C": "昇進して", "D": "退職して", "correct": "A" }
+    ]
+  },
+  {
+    "english": "adjudicate",
+    "pron": "əˈdʒuːdɪkeɪt",
+    "kana": "アジュディケイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 adjudicare（裁定する）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "法律・ビジネス"],
+    "meaning_main": "裁定する／判定する／（争いを）裁く",
+    "description": "adjudicate（アジュディケイト）は「（争い・申し立てを）公式に裁定する・判定する」という意味の動詞。裁判やコンテストなどで、権限を持つ第三者が正式に判断を下すことを表す、かたい語です。",
+    "keywords": ["adjudicate 意味", "adjudicate 使い方", "裁定する 英語", "判定する 英語"],
+    "meanings": [
+      { "hinshi": "【動】裁定する、判定を下す", "note": "権限ある立場で正式に判断する。" },
+      { "hinshi": "【動】（コンテストを）審査する", "note": "勝敗や優劣を公式に決める。" }
+    ],
+    "usages": [
+      { "title": "① 争いを裁定する", "desc": "公式に判断を下す。", "example_en": "A judge will adjudicate the dispute.", "example_ja": "裁判官がその紛争を裁定する。" },
+      { "title": "② 審査・判定する", "desc": "優劣や勝敗を決める。", "example_en": "Experts adjudicated the competition.", "example_ja": "専門家たちがそのコンテストを審査した。" }
+    ],
+    "warn": ["名詞は adjudication（裁定）、審査員は adjudicator。", "judge と近いが、adjudicate は『公式・権限をもって裁定する』かたい語。"],
+    "etym_note": "ラテン語 adjudicare（ad-（〜に）＋ judicare（裁く）＝裁定する）に由来。judge と同語源。",
+    "etym_chain": [
+      { "node": "judicare", "sub": "裁く", "era": "ラテン語" },
+      { "node": "adjudicare", "sub": "裁定する", "era": "ラテン語" },
+      { "node": "adjudicate", "sub": "裁定する", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "adjudicate a dispute", "ja": "紛争を裁定する" },
+      { "en": "adjudicate a case", "ja": "訴訟を裁定する" },
+      { "en": "adjudicate a claim", "ja": "申し立てを裁定する" },
+      { "en": "adjudicate the contest", "ja": "コンテストを審査する" },
+      { "en": "adjudicate fairly", "ja": "公平に裁定する" },
+      { "en": "adjudicate between parties", "ja": "当事者間を裁く" }
+    ],
+    "related": [
+      { "en": "judge", "ja": "裁く、判断する" },
+      { "en": "arbitrate", "ja": "仲裁する" },
+      { "en": "rule", "ja": "裁定する" },
+      { "en": "verdict", "ja": "評決" }
+    ],
+    "faq": [
+      { "q": "adjudicate と judge の違いは？", "a": "judge は『判断する』全般、adjudicate は『権限をもって公式に裁定する』かたい語で、裁判や審査でよく使います。" },
+      { "q": "名詞形は？", "a": "adjudication（裁定）です。審査する人は adjudicator（審査員）です。" }
+    ],
+    "quiz": [
+      { "q": "adjudicate の意味は？", "A": "裁定する・判定を下す", "B": "宣伝する", "C": "贈る", "D": "延期する", "correct": "A" },
+      { "q": "adjudicate a dispute の意味は？", "A": "紛争を裁定する", "B": "紛争を起こす", "C": "紛争を隠す", "D": "紛争を無視する", "correct": "A" }
+    ]
+  },
+  {
+    "english": "assuage",
+    "pron": "əˈsweɪdʒ",
+    "kana": "アスウェイジ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 suavis（心地よい）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "感情表現"],
+    "meaning_main": "（苦痛・不安を）和らげる／静める／なだめる",
+    "description": "assuage（アスウェイジ）は「（苦痛・不安・怒りなどを）和らげる・静める・なだめる」という意味の動詞。つらい気持ちや強い感情を軽くしてやわらげることを表す、かたい語です。assuage one's fears（不安を和らげる）のように使います。",
+    "keywords": ["assuage 意味", "assuage 使い方", "和らげる 英語", "なだめる 英語"],
+    "meanings": [
+      { "hinshi": "【動】（苦痛・不安を）和らげる", "note": "つらい感情を軽くする。かたい語。" },
+      { "hinshi": "【動】（怒り・飢えを）静める、なだめる", "note": "強い感情や欲求をしずめる。" }
+    ],
+    "usages": [
+      { "title": "① 不安・苦痛を和らげる", "desc": "つらい気持ちを軽くする。", "example_en": "Nothing could assuage her grief.", "example_ja": "何も彼女の悲しみを和らげることはできなかった。" },
+      { "title": "② 怒りをなだめる", "desc": "感情を静める。", "example_en": "He tried to assuage their anger with an apology.", "example_ja": "彼は謝罪で彼らの怒りを静めようとした。" }
+    ],
+    "warn": ["alleviate / soothe と近いが、assuage は特に『感情・苦痛を和らげる』かたい語。", "発音は『アスウェイジ（əˈsweɪdʒ）』。"],
+    "etym_note": "ラテン語 suavis（心地よい）に由来し、古フランス語 assouagier を経て英語に。「心地よくする→和らげる」。",
+    "etym_chain": [
+      { "node": "suavis", "sub": "心地よい", "era": "ラテン語" },
+      { "node": "assouagier", "sub": "和らげる", "era": "古フランス語" },
+      { "node": "assuage", "sub": "和らげる", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "assuage one's fears", "ja": "不安を和らげる" },
+      { "en": "assuage grief", "ja": "悲しみを和らげる" },
+      { "en": "assuage anger", "ja": "怒りを静める" },
+      { "en": "assuage guilt", "ja": "罪悪感を和らげる" },
+      { "en": "assuage concerns", "ja": "懸念を和らげる" },
+      { "en": "do little to assuage", "ja": "ほとんど和らげない" }
+    ],
+    "related": [
+      { "en": "alleviate", "ja": "和らげる" },
+      { "en": "soothe", "ja": "なだめる" },
+      { "en": "ease", "ja": "和らげる" },
+      { "en": "relieve", "ja": "軽減する" }
+    ],
+    "faq": [
+      { "q": "assuage と alleviate の違いは？", "a": "どちらも『和らげる』ですが、assuage は特に『不安・悲しみ・怒りなどの感情』を静めることに使う、かたい語です。" },
+      { "q": "発音は？", "a": "『アスウェイジ（əˈsweɪdʒ）』です。" }
+    ],
+    "quiz": [
+      { "q": "assuage の意味は？", "A": "（苦痛・不安を）和らげる", "B": "悪化させる", "C": "記録する", "D": "祝う", "correct": "A" },
+      { "q": "assuage one's fears の意味は？", "A": "不安を和らげる", "B": "不安をあおる", "C": "不安を隠す", "D": "不安を忘れる", "correct": "A" }
+    ]
+  },
+  {
+    "english": "construe",
+    "pron": "kənˈstruː",
+    "kana": "コンストルー",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 construere（組み立てる）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "書き言葉"],
+    "meaning_main": "（ある意味に）解釈する／受け取る",
+    "description": "construe（コンストルー）は「（言葉・行動を）ある意味に解釈する・受け取る」という意味の動詞。特に、どう意味を取るかが問題になる文脈で使う、かたい語です。be construed as 〜（〜と解釈される）の形が頻出です。",
+    "keywords": ["construe 意味", "construe 使い方", "解釈する 英語", "受け取る 英語"],
+    "meanings": [
+      { "hinshi": "【動】（ある意味に）解釈する", "note": "言動の意味をそのように受け取る。" },
+      { "hinshi": "【動】〜と受け取られる（受け身）", "note": "be construed as 〜（〜と解釈される）。" }
+    ],
+    "usages": [
+      { "title": "① 意味を解釈する", "desc": "どう受け取るかを示す。", "example_en": "Her silence was construed as agreement.", "example_ja": "彼女の沈黙は同意と解釈された。" },
+      { "title": "② 誤解・曲解を表す", "desc": "ある意味に取る。", "example_en": "Don't construe my comment as criticism.", "example_ja": "私の発言を批判と受け取らないで。" }
+    ],
+    "warn": ["be construed as 〜（〜と解釈される）の形が頻出。", "interpret（解釈する）のかたい語。文法で『(文を)解析する』の意味もある。"],
+    "etym_note": "ラテン語 construere（con-（共に）＋ struere（積む）＝組み立てる）に由来。「組み立てて意味を取る」。",
+    "etym_chain": [
+      { "node": "construere", "sub": "組み立てる", "era": "ラテン語" },
+      { "node": "construe", "sub": "解釈する", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "be construed as", "ja": "〜と解釈される" },
+      { "en": "construe it as", "ja": "それを〜と受け取る" },
+      { "en": "wrongly construe", "ja": "誤って解釈する" },
+      { "en": "construe the meaning", "ja": "意味を解釈する" },
+      { "en": "construe a remark", "ja": "発言を受け取る" },
+      { "en": "could be construed", "ja": "〜と解釈されうる" }
+    ],
+    "related": [
+      { "en": "interpret", "ja": "解釈する" },
+      { "en": "understand", "ja": "理解する" },
+      { "en": "take", "ja": "受け取る" },
+      { "en": "misconstrue", "ja": "誤解する" }
+    ],
+    "faq": [
+      { "q": "construe と interpret の違いは？", "a": "ほぼ同義ですが、construe は『どう意味を取るか』が問題になる文脈で使うかたい語で、be construed as の形が多いです。" },
+      { "q": "misconstrue とは？", "a": "『誤って解釈する・取り違える』という意味です。construe に mis-（誤って）が付いた語です。" }
+    ],
+    "quiz": [
+      { "q": "construe の意味は？", "A": "（ある意味に）解釈する", "B": "建設する", "C": "破壊する", "D": "計算する", "correct": "A" },
+      { "q": "be construed as の意味は？", "A": "〜と解釈される", "B": "〜を建てる", "C": "〜を壊す", "D": "〜を数える", "correct": "A" }
+    ]
+  },
+  {
+    "english": "bifurcate",
+    "pron": "ˈbaɪfərkeɪt",
+    "kana": "バイファーケイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 bifurcus（二又の）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "学術"],
+    "meaning_main": "二又に分かれる／二分する",
+    "description": "bifurcate（バイファーケイト）は「（道・川・系統などが）二又に分かれる・二分する」という意味の動詞。一つのものが二つの枝に分岐することを表す、学術的・技術的なかたい語です。",
+    "keywords": ["bifurcate 意味", "bifurcate 使い方", "二又に分かれる 英語", "分岐 英語"],
+    "meanings": [
+      { "hinshi": "【動】二又に分かれる、分岐する", "note": "一つが二つの枝に分かれる。自動詞・他動詞。" },
+      { "hinshi": "【動】二分する", "note": "二つの部分に分ける。" }
+    ],
+    "usages": [
+      { "title": "① 道や川が分岐する", "desc": "二又に分かれる。", "example_en": "The road bifurcates near the river.", "example_ja": "その道は川の近くで二又に分かれる。" },
+      { "title": "② 系統が二分する", "desc": "二つに分かれる。", "example_en": "The species bifurcated into two lineages.", "example_ja": "その種は二つの系統に分かれた。" }
+    ],
+    "warn": ["名詞は bifurcation（分岐・二又）。", "日常語の fork（分かれる）のかたい・専門的な語。"],
+    "etym_note": "ラテン語 bifurcus（bi-（二）＋ furca（フォーク・又）＝二又の）に由来。「二又になる」。",
+    "etym_chain": [
+      { "node": "furca", "sub": "又・フォーク", "era": "ラテン語" },
+      { "node": "bifurcus", "sub": "二又の", "era": "ラテン語" },
+      { "node": "bifurcate", "sub": "二又に分かれる", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "the road bifurcates", "ja": "道が二又に分かれる" },
+      { "en": "bifurcate into two", "ja": "二つに分かれる" },
+      { "en": "a bifurcating path", "ja": "二又に分かれる道" },
+      { "en": "bifurcate the process", "ja": "過程を二分する" },
+      { "en": "bifurcate sharply", "ja": "はっきり二分する" },
+      { "en": "the river bifurcates", "ja": "川が分岐する" }
+    ],
+    "related": [
+      { "en": "bifurcation", "ja": "分岐、二又" },
+      { "en": "fork", "ja": "分岐する" },
+      { "en": "diverge", "ja": "分かれる" },
+      { "en": "split", "ja": "分裂する" }
+    ],
+    "faq": [
+      { "q": "bifurcate の名詞形は？", "a": "bifurcation（分岐・二又）です。" },
+      { "q": "fork とどう違う？", "a": "意味は近い『分かれる』ですが、bifurcate は学術的・技術的なかたい語で、道・川・系統などの二分岐に使います。" }
+    ],
+    "quiz": [
+      { "q": "bifurcate の意味は？", "A": "二又に分かれる・二分する", "B": "合流する", "C": "まっすぐ進む", "D": "止まる", "correct": "A" },
+      { "q": "bifurcate の名詞形は？", "A": "bifurcation", "B": "bifocal", "C": "biography", "D": "bilingual", "correct": "A" }
+    ]
+  },
+  {
+    "english": "vestigial",
+    "pron": "veˈstɪdʒiəl",
+    "kana": "ヴェスティジアル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 vestigium（足跡・痕跡）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "生物・学術"],
+    "meaning_main": "痕跡の／（進化で）退化した／名残の",
+    "description": "vestigial（ヴェスティジアル）は「痕跡として残った・（進化の過程で）退化した・名残の」という意味の形容詞。かつて機能していたものが、わずかな痕跡だけ残っている状態を表します。生物学の『痕跡器官』などで使います。",
+    "keywords": ["vestigial 意味", "vestigial 使い方", "痕跡器官 英語", "退化した 英語"],
+    "meanings": [
+      { "hinshi": "【形】痕跡の、退化して残った", "note": "かつての機能が失われ痕跡だけ残る。" },
+      { "hinshi": "【形】名残の、わずかに残った", "note": "過去のものの残存。" }
+    ],
+    "usages": [
+      { "title": "① 生物の痕跡器官", "desc": "退化して残った器官。", "example_en": "The appendix is a vestigial organ.", "example_ja": "虫垂は痕跡器官だ。" },
+      { "title": "② 名残として残る", "desc": "過去のものの残存。", "example_en": "The custom is a vestigial remnant of old traditions.", "example_ja": "その習慣は古い伝統の名残だ。" }
+    ],
+    "warn": ["名詞は vestige（痕跡・名残）。", "生物学の『痕跡器官（vestigial organ）』が代表的な用法。"],
+    "etym_note": "ラテン語 vestigium（足跡・痕跡）由来の vestige に、形容詞化の -ial が付いた語。「痕跡の」。",
+    "etym_chain": [
+      { "node": "vestigium", "sub": "足跡・痕跡", "era": "ラテン語" },
+      { "node": "vestige", "sub": "痕跡、名残", "era": "近代英語" },
+      { "node": "vestigial", "sub": "痕跡の", "era": "19世紀英語" }
+    ],
+    "phrases": [
+      { "en": "a vestigial organ", "ja": "痕跡器官" },
+      { "en": "vestigial wings", "ja": "退化した翼" },
+      { "en": "vestigial remains", "ja": "痕跡・名残" },
+      { "en": "a vestigial structure", "ja": "痕跡的な構造" },
+      { "en": "vestigial traces", "ja": "わずかな痕跡" },
+      { "en": "become vestigial", "ja": "退化して痕跡となる" }
+    ],
+    "related": [
+      { "en": "vestige", "ja": "痕跡、名残" },
+      { "en": "remnant", "ja": "残り、名残" },
+      { "en": "trace", "ja": "痕跡" },
+      { "en": "rudimentary", "ja": "未発達の、原始的な" }
+    ],
+    "faq": [
+      { "q": "vestigial organ とは？", "a": "進化の過程で本来の機能を失い、痕跡だけ残った器官のことです。ヒトの虫垂などが例に挙げられます。" },
+      { "q": "名詞形は？", "a": "vestige（痕跡・名残）です。" }
+    ],
+    "quiz": [
+      { "q": "vestigial の意味は？", "A": "痕跡の・退化して残った", "B": "新しく発達した", "C": "巨大な", "D": "活発な", "correct": "A" },
+      { "q": "a vestigial organ の意味は？", "A": "痕跡器官", "B": "主要な臓器", "C": "人工臓器", "D": "移植臓器", "correct": "A" }
+    ]
+  },
+  {
+    "english": "eclectic",
+    "pron": "ɪˈklektɪk",
+    "kana": "イクレクティック",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ギリシャ語 eklegein（選び出す）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "文化"],
+    "meaning_main": "（さまざまな源から）広く取り入れた／折衷的な",
+    "description": "eclectic（イクレクティック）は「さまざまな源から良いものを広く選んで取り入れた・折衷的な」という意味の形容詞。多様なスタイルや要素が混ざっていることを、ふつう肯定的に表します。an eclectic mix（多彩な寄せ集め）のように使います。",
+    "keywords": ["eclectic 意味", "eclectic 使い方", "折衷的 英語", "多彩な 英語"],
+    "meanings": [
+      { "hinshi": "【形】折衷的な、広く取り入れた", "note": "多様な源から選び集めた。ふつう肯定的。" },
+      { "hinshi": "【形】多彩な、幅広い趣味の", "note": "eclectic taste（幅広い好み）。" }
+    ],
+    "usages": [
+      { "title": "① 多様な要素の混在", "desc": "いろいろな源から集めた。", "example_en": "The restaurant has an eclectic menu.", "example_ja": "そのレストランは多彩なメニューをそろえている。" },
+      { "title": "② 幅広い趣味・好み", "desc": "さまざまを好む。", "example_en": "She has eclectic taste in music.", "example_ja": "彼女は音楽の好みが幅広い。" }
+    ],
+    "warn": ["ふつう肯定的に『多彩で幅広い』の意味。ごちゃまぜの否定的含みは文脈次第。", "名詞は eclecticism（折衷主義）。"],
+    "etym_note": "ギリシャ語 eklektikos（eklegein＝選び出すに由来）から。「選び集めた」。",
+    "etym_chain": [
+      { "node": "eklegein", "sub": "選び出す", "era": "ギリシャ語" },
+      { "node": "eclectic", "sub": "折衷的な", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "an eclectic mix", "ja": "多彩な寄せ集め" },
+      { "en": "eclectic taste", "ja": "幅広い好み" },
+      { "en": "an eclectic style", "ja": "折衷的なスタイル" },
+      { "en": "an eclectic collection", "ja": "多彩なコレクション" },
+      { "en": "an eclectic range", "ja": "幅広い品ぞろえ" },
+      { "en": "eclectic influences", "ja": "多様な影響" }
+    ],
+    "related": [
+      { "en": "diverse", "ja": "多様な" },
+      { "en": "varied", "ja": "さまざまな" },
+      { "en": "mixed", "ja": "混ざった" },
+      { "en": "wide-ranging", "ja": "広範囲の" }
+    ],
+    "faq": [
+      { "q": "eclectic は良い意味？悪い意味？", "a": "ふつうは『多彩で幅広い』という肯定的な意味で使われます。文脈によっては『ごちゃまぜ』の含みになることもあります。" },
+      { "q": "名詞形は？", "a": "eclecticism（折衷主義）です。" }
+    ],
+    "quiz": [
+      { "q": "eclectic の意味は？", "A": "広く取り入れた・折衷的な", "B": "単一で画一的な", "C": "古くさい", "D": "高価な", "correct": "A" },
+      { "q": "eclectic taste の意味は？", "A": "幅広い好み", "B": "偏った好み", "C": "好みがない", "D": "高級志向", "correct": "A" }
+    ]
+  },
+  {
+    "english": "penchant",
+    "pron": "ˈpentʃənt",
+    "kana": "ペンチャント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 pencher（傾く）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "書き言葉"],
+    "meaning_main": "（強い）好み／傾向／性向",
+    "description": "penchant（ペンチャント）は「（ある物事への）強い好み・傾向・性向」という意味の名詞。何かを好んでよくする性質を表す、ややかたい語です。a penchant for 〜（〜を好む性向）の形で使います。",
+    "keywords": ["penchant 意味", "penchant 使い方", "好み 英語", "傾向 英語"],
+    "meanings": [
+      { "hinshi": "【名】（強い）好み、傾向", "note": "a penchant for 〜 で『〜を好む性向』。可算名詞。" },
+      { "hinshi": "【名】性向、くせ", "note": "好んでよくする性質。" }
+    ],
+    "usages": [
+      { "title": "① 好む傾向を表す", "desc": "よく好んでする性質。", "example_en": "He has a penchant for expensive cars.", "example_ja": "彼は高級車を好む性向がある。" },
+      { "title": "② くせ・性向", "desc": "ある行動を好む傾向。", "example_en": "She has a penchant for telling jokes.", "example_ja": "彼女は冗談を言うのが好きな性分だ。" }
+    ],
+    "warn": ["a penchant for 〜（〜を好む）の形で使う。前置詞は for。", "フランス語由来で発音は『ペンチャント』。liking よりかたい語。"],
+    "etym_note": "フランス語 pencher（傾く）の現在分詞 penchant（傾いている）に由来。「心が傾くこと→好み」。",
+    "etym_chain": [
+      { "node": "pencher", "sub": "傾く", "era": "フランス語" },
+      { "node": "penchant", "sub": "好み・傾向", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a penchant for", "ja": "〜を好む性向" },
+      { "en": "a penchant for drama", "ja": "芝居がかったことを好む性向" },
+      { "en": "have a penchant for", "ja": "〜を好む傾向がある" },
+      { "en": "a natural penchant", "ja": "生まれつきの性向" },
+      { "en": "a penchant for risk", "ja": "リスクを好む傾向" },
+      { "en": "a penchant for luxury", "ja": "ぜいたくを好む性向" }
+    ],
+    "related": [
+      { "en": "liking", "ja": "好み" },
+      { "en": "fondness", "ja": "愛好" },
+      { "en": "inclination", "ja": "傾向" },
+      { "en": "tendency", "ja": "傾向" }
+    ],
+    "faq": [
+      { "q": "penchant の後にくる前置詞は？", "a": "for です。a penchant for 〜 で『〜を好む性向・傾向』という意味になります。" },
+      { "q": "liking とどう違う？", "a": "どちらも『好み』ですが、penchant はフランス語由来のかたい語で、『習慣的によく好んでする強い傾向』を表します。" }
+    ],
+    "quiz": [
+      { "q": "penchant の意味は？", "A": "（強い）好み・傾向", "B": "嫌悪", "C": "無関心", "D": "恐怖", "correct": "A" },
+      { "q": "a penchant ___ 〜（〜を好む）に入る前置詞は？", "A": "for", "B": "at", "C": "of", "D": "in", "correct": "A" }
+    ]
+  },
+  {
+    "english": "excruciating",
+    "pron": "ɪkˈskruːʃieɪtɪŋ",
+    "kana": "イクスクルーシエイティング",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 excruciare（激しく苦しめる）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "感情表現"],
+    "meaning_main": "（痛み・苦痛が）耐えがたい／ひどく苦しい／いたたまれない",
+    "description": "excruciating（イクスクルーシエイティング）は「（痛みや苦しみが）耐えがたいほど激しい・ひどく苦しい」という意味の形容詞。身体の激痛や、気まずさ・退屈など精神的な苦痛にも使います。excruciating pain（耐えがたい痛み）のように使います。",
+    "keywords": ["excruciating 意味", "excruciating 使い方", "耐えがたい痛み 英語", "激痛 英語"],
+    "meanings": [
+      { "hinshi": "【形】（痛みが）耐えがたい、激烈な", "note": "身体の激しい痛みを表す。" },
+      { "hinshi": "【形】（精神的に）いたたまれない", "note": "気まずさ・退屈などがひどい。" }
+    ],
+    "usages": [
+      { "title": "① 身体の激痛", "desc": "耐えられない痛み。", "example_en": "He was in excruciating pain after the fall.", "example_ja": "彼は転倒後、耐えがたい痛みに苦しんでいた。" },
+      { "title": "② 精神的な苦痛", "desc": "気まずさ・退屈など。", "example_en": "The silence was excruciating.", "example_ja": "その沈黙はいたたまれないものだった。" }
+    ],
+    "warn": ["excruciating pain（激痛）が最も典型的。", "副詞 excruciatingly は『耐えがたいほど』（例：excruciatingly slow 耐えがたく遅い）。"],
+    "etym_note": "ラテン語 excruciare（ex-（すっかり）＋ cruciare（十字架にかける・苦しめる）＝激しく苦しめる）に由来。",
+    "etym_chain": [
+      { "node": "crux", "sub": "十字架", "era": "ラテン語" },
+      { "node": "excruciare", "sub": "激しく苦しめる", "era": "ラテン語" },
+      { "node": "excruciating", "sub": "耐えがたい", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "excruciating pain", "ja": "耐えがたい痛み" },
+      { "en": "an excruciating headache", "ja": "激しい頭痛" },
+      { "en": "excruciatingly slow", "ja": "耐えがたく遅い" },
+      { "en": "in excruciating detail", "ja": "うんざりするほど細かく" },
+      { "en": "an excruciating wait", "ja": "いたたまれない待ち時間" },
+      { "en": "excruciating embarrassment", "ja": "いたたまれない恥ずかしさ" }
+    ],
+    "related": [
+      { "en": "agonizing", "ja": "苦悶の、激しい" },
+      { "en": "unbearable", "ja": "耐えられない" },
+      { "en": "intense", "ja": "激しい" },
+      { "en": "severe", "ja": "ひどい" }
+    ],
+    "faq": [
+      { "q": "excruciating はどんな痛み？", "a": "耐えられないほど激しい痛みを表します。身体の激痛のほか、気まずさや退屈など精神的な苦痛にも使えます。" },
+      { "q": "in excruciating detail とは？", "a": "『うんざりするほど細かく』という意味の表現です。細かすぎて苦痛なほど、というニュアンスです。" }
+    ],
+    "quiz": [
+      { "q": "excruciating の意味は？", "A": "耐えがたい・ひどく苦しい", "B": "心地よい", "C": "軽い", "D": "静かな", "correct": "A" },
+      { "q": "excruciating pain の意味は？", "A": "耐えがたい痛み", "B": "軽い痛み", "C": "痛みの消失", "D": "心地よさ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "dissuade",
+    "pron": "dɪˈsweɪd",
+    "kana": "ディスウェイド",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 dissuadere（思いとどまらせる）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "書き言葉"],
+    "meaning_main": "（説得して）思いとどまらせる／やめさせる",
+    "description": "dissuade（ディスウェイド）は「（説得して）思いとどまらせる・やめさせる」という意味の動詞。persuade（説得してさせる）の反対で、やめるように説き伏せることを表します。dissuade someone from doing（〜するのをやめさせる）の形で使います。",
+    "keywords": ["dissuade 意味", "dissuade 使い方", "思いとどまらせる 英語", "やめさせる 英語"],
+    "meanings": [
+      { "hinshi": "【動】思いとどまらせる、やめさせる", "note": "説得して行動をやめさせる。persuade の反対。" },
+      { "hinshi": "【動】（from doing で）〜するのを止める", "note": "dissuade 人 from doing。" }
+    ],
+    "usages": [
+      { "title": "① 行動をやめさせる", "desc": "説得して思いとどまらせる。", "example_en": "They tried to dissuade her from quitting.", "example_ja": "彼らは彼女が辞めるのを思いとどまらせようとした。" },
+      { "title": "② 考えを変えさせる", "desc": "やめるよう説く。", "example_en": "Nothing could dissuade him from going.", "example_ja": "何も彼が行くのを思いとどまらせることはできなかった。" }
+    ],
+    "warn": ["対義語は persuade（説得してさせる）。", "dissuade 人 from doing（人が〜するのをやめさせる）の形。前置詞は from。"],
+    "etym_note": "ラテン語 dissuadere（dis-（離れて）＋ suadere（勧める）＝勧めるのをやめさせる）に由来。",
+    "etym_chain": [
+      { "node": "suadere", "sub": "勧める", "era": "ラテン語" },
+      { "node": "dissuadere", "sub": "思いとどまらせる", "era": "ラテン語" },
+      { "node": "dissuade", "sub": "やめさせる", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "dissuade from doing", "ja": "〜するのをやめさせる" },
+      { "en": "try to dissuade", "ja": "思いとどまらせようとする" },
+      { "en": "dissuade him from going", "ja": "彼が行くのを止める" },
+      { "en": "fail to dissuade", "ja": "思いとどまらせられない" },
+      { "en": "dissuade someone", "ja": "〜を説き伏せてやめさせる" },
+      { "en": "nothing could dissuade", "ja": "何も思いとどまらせられない" }
+    ],
+    "related": [
+      { "en": "persuade", "ja": "説得してさせる" },
+      { "en": "discourage", "ja": "思いとどまらせる" },
+      { "en": "deter", "ja": "思いとどまらせる" },
+      { "en": "advise against", "ja": "〜しないよう勧める" }
+    ],
+    "faq": [
+      { "q": "dissuade の対義語は？", "a": "persuade（説得してさせる）です。dissuade は『やめさせる』で反対の意味です。" },
+      { "q": "dissuade の後の形は？", "a": "dissuade 人 from doing（人が〜するのを思いとどまらせる）の形で使います。前置詞は from です。" }
+    ],
+    "quiz": [
+      { "q": "dissuade の意味は？", "A": "思いとどまらせる・やめさせる", "B": "説得してさせる", "C": "手伝う", "D": "命令する", "correct": "A" },
+      { "q": "dissuade の対義語は？", "A": "persuade", "B": "discourage", "C": "deter", "D": "prevent", "correct": "A" }
+    ]
+  }
+]

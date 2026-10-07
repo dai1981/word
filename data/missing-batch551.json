@@ -1,0 +1,986 @@
+[
+  {
+    "english": "hemorrhage",
+    "pron": "ˈhemərɪdʒ",
+    "kana": "ヘモリッジ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 haima（血）＋rhegnynai（ほとばしる）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "医学"],
+    "meaning_main": "出血（特に大量の）／（比喩）流出・大量喪失",
+    "description": "hemorrhage（ヘモリッジ）は「（体内の）大量出血」という意味の医学用語の名詞・動詞。比喩で「（お金・人材などの）大量流出・止まらない喪失」も表します。英国つづりは haemorrhage。発音は『ヘモリッジ』です。",
+    "keywords": ["hemorrhage 意味", "hemorrhage 使い方", "出血 英語", "大量流出 英語"],
+    "meanings": [
+      { "hinshi": "【名】（大量の）出血", "note": "体内外の激しい出血。医学用語。" },
+      { "hinshi": "【名/動】（比喩）流出、大量に失う", "note": "資金・人材などが止まらず流出する。" }
+    ],
+    "usages": [
+      { "title": "① 医学的な出血", "desc": "大量の出血。", "example_en": "He died of a brain hemorrhage.", "example_ja": "彼は脳出血で亡くなった。" },
+      { "title": "② 比喩的な流出", "desc": "止まらない喪失。", "example_en": "The company is hemorrhaging money.", "example_ja": "その会社は資金を垂れ流している。" }
+    ],
+    "warn": ["つづりに注意：hemorrhage（米）／haemorrhage（英）。発音は『ヘモリッジ』。", "動詞では『（資金・人材が）どんどん流出する』の比喩が頻出。"],
+    "etym_note": "ギリシャ語 haimorrhagia（haima（血）＋ rhegnynai（ほとばしる））に由来。「血がほとばしること」。",
+    "etym_chain": [
+      { "node": "haima", "sub": "血", "era": "ギリシャ語" },
+      { "node": "haemorrhagia", "sub": "出血", "era": "ギリシャ語" },
+      { "node": "hemorrhage", "sub": "出血・流出", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a brain hemorrhage", "ja": "脳出血" },
+      { "en": "internal hemorrhage", "ja": "内出血" },
+      { "en": "stop the hemorrhage", "ja": "出血を止める" },
+      { "en": "hemorrhage money", "ja": "資金を垂れ流す" },
+      { "en": "hemorrhage talent", "ja": "人材を流出させる" },
+      { "en": "a severe hemorrhage", "ja": "激しい出血" }
+    ],
+    "related": [
+      { "en": "bleeding", "ja": "出血" },
+      { "en": "blood", "ja": "血" },
+      { "en": "outflow", "ja": "流出" },
+      { "en": "loss", "ja": "喪失" }
+    ],
+    "faq": [
+      { "q": "hemorrhage の発音は？", "a": "『ヘモリッジ（ˈhemərɪdʒ）』です。つづりは難しいですが h は発音します。" },
+      { "q": "比喩的な意味は？", "a": "『（資金・人材などが）止まらず大量に流出する・失われる』という意味で、動詞でもよく使われます。" }
+    ],
+    "quiz": [
+      { "q": "hemorrhage の意味は？", "A": "（大量の）出血／流出", "B": "治癒", "C": "休息", "D": "成長", "correct": "A" },
+      { "q": "hemorrhage money の意味は？", "A": "資金を垂れ流す", "B": "資金を貯める", "C": "資金を借りる", "D": "資金を数える", "correct": "A" }
+    ]
+  },
+  {
+    "english": "epidemiology",
+    "pron": "ˌepɪdiːmiˈɑːlədʒi",
+    "kana": "エピデミオロジー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 epidemia（流行病）＋-logy（学問）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "医学・学術"],
+    "meaning_main": "疫学（病気の発生・分布・原因を研究する学問）",
+    "description": "epidemiology（エピデミオロジー）は「疫学」という意味の名詞。病気がどのように広がり、どんな要因で起こるかを、集団を対象に統計的に研究する医学の一分野です。感染症の流行分析などで重要な学問です。",
+    "keywords": ["epidemiology 意味", "epidemiology 使い方", "疫学 英語", "感染症 研究 英語"],
+    "meanings": [
+      { "hinshi": "【名】疫学", "note": "病気の発生・分布・原因を集団単位で研究する学問。不可算名詞。" },
+      { "hinshi": "【名】（ある病気の）発生動態", "note": "the epidemiology of 〜（〜の疫学的特徴）。" }
+    ],
+    "usages": [
+      { "title": "① 学問分野として", "desc": "病気の広がりを研究。", "example_en": "She studies epidemiology at the university.", "example_ja": "彼女は大学で疫学を研究している。" },
+      { "title": "② 病気の発生動態", "desc": "どう広がるかの分析。", "example_en": "The epidemiology of the virus is still unclear.", "example_ja": "そのウイルスの疫学的な特徴はまだ不明だ。" }
+    ],
+    "warn": ["研究者は epidemiologist（疫学者）、形容詞は epidemiological。", "epidemic（流行病）＋ -ology（学問）。発音は『エピデミオロジー』。"],
+    "etym_note": "ギリシャ語 epidemia（epi-（〜の間に）＋ demos（民衆）＝流行病）＋ -logy（学問）による語。",
+    "etym_chain": [
+      { "node": "epidemia", "sub": "流行病", "era": "ギリシャ語" },
+      { "node": "epidemiology", "sub": "疫学", "era": "19世紀英語" }
+    ],
+    "phrases": [
+      { "en": "study epidemiology", "ja": "疫学を研究する" },
+      { "en": "the epidemiology of a disease", "ja": "ある病気の疫学的特徴" },
+      { "en": "modern epidemiology", "ja": "現代疫学" },
+      { "en": "a professor of epidemiology", "ja": "疫学の教授" },
+      { "en": "clinical epidemiology", "ja": "臨床疫学" },
+      { "en": "epidemiology data", "ja": "疫学データ" }
+    ],
+    "related": [
+      { "en": "epidemic", "ja": "流行病" },
+      { "en": "pandemic", "ja": "世界的大流行" },
+      { "en": "medicine", "ja": "医学" },
+      { "en": "statistics", "ja": "統計" }
+    ],
+    "faq": [
+      { "q": "epidemiology とは何の学問？", "a": "病気が集団の中でどう発生・分布し、どんな要因で広がるかを統計的に研究する『疫学』です。" },
+      { "q": "研究者は英語で？", "a": "epidemiologist（疫学者）です。形容詞は epidemiological です。" }
+    ],
+    "quiz": [
+      { "q": "epidemiology の意味は？", "A": "疫学（病気の発生・広がりの研究）", "B": "皮膚科学", "C": "経済学", "D": "地質学", "correct": "A" },
+      { "q": "epidemiology の研究者は？", "A": "epidemiologist", "B": "epidemic", "C": "epicenter", "D": "epilogue", "correct": "A" }
+    ]
+  },
+  {
+    "english": "enclave",
+    "pron": "ˈenkleɪv",
+    "kana": "エンクレイブ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 inclavare（鍵で閉じ込める）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "地理・社会"],
+    "meaning_main": "飛び地／（周囲と異なる集団の）居留地・一角",
+    "description": "enclave（エンクレイブ）は「（周囲を他の領域に囲まれた）飛び地・特定の集団が集まる一角」という意味の名詞。民族・文化・経済的に周囲と異なる、囲まれた地域を指します。an ethnic enclave（民族の居留地）のように使います。",
+    "keywords": ["enclave 意味", "enclave 使い方", "飛び地 英語", "居留地 英語"],
+    "meanings": [
+      { "hinshi": "【名】飛び地", "note": "他国・他地域に囲まれた領土。可算名詞。" },
+      { "hinshi": "【名】（異なる集団の）一角、居留地", "note": "周囲と違う民族・文化の集まる地域。" }
+    ],
+    "usages": [
+      { "title": "① 地理的な飛び地", "desc": "囲まれた領土。", "example_en": "The town is an enclave surrounded by another country.", "example_ja": "その町は他国に囲まれた飛び地だ。" },
+      { "title": "② 特定集団の一角", "desc": "周囲と異なる地区。", "example_en": "The area is a wealthy enclave.", "example_ja": "その地域は裕福な人々が集まる一角だ。" }
+    ],
+    "warn": ["周囲と異なる民族・文化の集まる地区の意味も頻出（an ethnic enclave）。", "exclave（本国から見た飛び地）とは視点が逆の語。"],
+    "etym_note": "ラテン語 inclavare（in-（中に）＋ clavis（鍵）＝鍵で閉じ込める）に由来し、フランス語 enclave を経て。「囲い込まれた地」。",
+    "etym_chain": [
+      { "node": "clavis", "sub": "鍵", "era": "ラテン語" },
+      { "node": "enclave", "sub": "飛び地", "era": "フランス語" }
+    ],
+    "phrases": [
+      { "en": "an ethnic enclave", "ja": "民族の居留地" },
+      { "en": "a wealthy enclave", "ja": "富裕層の一角" },
+      { "en": "a cultural enclave", "ja": "文化的な一角" },
+      { "en": "a tiny enclave", "ja": "小さな飛び地" },
+      { "en": "an enclave surrounded by", "ja": "〜に囲まれた飛び地" },
+      { "en": "a gated enclave", "ja": "門で囲われた居住区" }
+    ],
+    "related": [
+      { "en": "exclave", "ja": "飛び地（本国側から）" },
+      { "en": "territory", "ja": "領土" },
+      { "en": "district", "ja": "地区" },
+      { "en": "community", "ja": "共同体" }
+    ],
+    "faq": [
+      { "q": "enclave とは？", "a": "周囲を他の領域に囲まれた『飛び地』や、周囲と民族・文化・経済が異なる集団が集まる『一角・居留地』を指します。" },
+      { "q": "exclave との違いは？", "a": "同じ地域でも、囲んでいる側から見ると enclave（内側の飛び地）、本国から見ると exclave（本国の飛び地）と呼び、視点が異なります。" }
+    ],
+    "quiz": [
+      { "q": "enclave の意味は？", "A": "飛び地／特定集団の集まる一角", "B": "広大な草原", "C": "高層ビル", "D": "地下道", "correct": "A" },
+      { "q": "an ethnic enclave の意味は？", "A": "民族の居留地", "B": "国際空港", "C": "工業団地", "D": "観光名所", "correct": "A" }
+    ]
+  },
+  {
+    "english": "imperil",
+    "pron": "ɪmˈperəl",
+    "kana": "インペリル",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "im-（中へ）＋peril（危険）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "書き言葉"],
+    "meaning_main": "危険にさらす／危うくする",
+    "description": "imperil（インペリル）は「（人・物・計画などを）危険にさらす・危うくする」という意味の動詞。peril（危険）から派生した、endanger とほぼ同義のかたい書き言葉です。imperil lives（命を危険にさらす）のように使います。",
+    "keywords": ["imperil 意味", "imperil 使い方", "危険にさらす 英語", "危うくする 英語"],
+    "meanings": [
+      { "hinshi": "【動】危険にさらす、危うくする", "note": "endanger のかたい語。命・計画などを危機に陥れる。" },
+      { "hinshi": "【動】（成功・存続を）脅かす", "note": "imperil the project（計画を危うくする）。" }
+    ],
+    "usages": [
+      { "title": "① 命・安全を脅かす", "desc": "危険にさらす。", "example_en": "The storm imperiled the sailors' lives.", "example_ja": "その嵐は船員たちの命を危険にさらした。" },
+      { "title": "② 計画・立場を危うくする", "desc": "成功を脅かす。", "example_en": "The scandal imperiled his career.", "example_ja": "そのスキャンダルは彼の経歴を危うくした。" }
+    ],
+    "warn": ["名詞 peril（危険）＋ im-（中へ）。endanger（危険にさらす）のかたい同義語。", "対義的には protect / safeguard（守る）。"],
+    "etym_note": "古フランス語由来の peril（危険、ラテン語 periculum）に、接頭辞 im-（中へ）が付いた語。「危険の中へ入れる」。",
+    "etym_chain": [
+      { "node": "periculum", "sub": "危険", "era": "ラテン語" },
+      { "node": "peril", "sub": "危険", "era": "中英語" },
+      { "node": "imperil", "sub": "危険にさらす", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "imperil lives", "ja": "命を危険にさらす" },
+      { "en": "imperil the mission", "ja": "任務を危うくする" },
+      { "en": "imperil peace", "ja": "平和を脅かす" },
+      { "en": "imperil one's career", "ja": "経歴を危うくする" },
+      { "en": "seriously imperil", "ja": "深刻に危険にさらす" },
+      { "en": "imperil the future", "ja": "将来を危うくする" }
+    ],
+    "related": [
+      { "en": "peril", "ja": "危険" },
+      { "en": "endanger", "ja": "危険にさらす" },
+      { "en": "jeopardize", "ja": "危うくする" },
+      { "en": "threaten", "ja": "脅かす" }
+    ],
+    "faq": [
+      { "q": "imperil と endanger の違いは？", "a": "意味はほぼ同じ『危険にさらす』ですが、imperil はよりかたい書き言葉です。" },
+      { "q": "名詞形は？", "a": "元になった名詞は peril（危険）です。" }
+    ],
+    "quiz": [
+      { "q": "imperil の意味は？", "A": "危険にさらす・危うくする", "B": "守る", "C": "祝う", "D": "修理する", "correct": "A" },
+      { "q": "imperil lives の意味は？", "A": "命を危険にさらす", "B": "命を救う", "C": "命を祝う", "D": "命を数える", "correct": "A" }
+    ]
+  },
+  {
+    "english": "inexhaustible",
+    "pron": "ˌɪnɪɡˈzɔːstəbl",
+    "kana": "イニグゾースティブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "in-（否定）＋exhaustible（尽きうる）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "書き言葉"],
+    "meaning_main": "尽きることのない／無尽蔵の／疲れ知らずの",
+    "description": "inexhaustible（イニグゾースティブル）は「尽きることのない・無尽蔵の・いくら使っても尽きない」という意味の形容詞。資源・エネルギー・好奇心などが無限に思えるほど豊富なことを表します。exhaust（使い尽くす）にin-がついた語です。",
+    "keywords": ["inexhaustible 意味", "inexhaustible 使い方", "無尽蔵 英語", "尽きない 英語"],
+    "meanings": [
+      { "hinshi": "【形】尽きることのない、無尽蔵の", "note": "いくら使っても尽きない。" },
+      { "hinshi": "【形】疲れ知らずの", "note": "inexhaustible energy（尽きないエネルギー）。" }
+    ],
+    "usages": [
+      { "title": "① 無尽蔵の資源・供給", "desc": "尽きない豊富さ。", "example_en": "The sun is an almost inexhaustible source of energy.", "example_ja": "太陽はほぼ無尽蔵のエネルギー源だ。" },
+      { "title": "② 尽きない活力・好奇心", "desc": "疲れ知らず。", "example_en": "She has an inexhaustible supply of ideas.", "example_ja": "彼女は尽きることのないアイデアを持っている。" }
+    ],
+    "warn": ["対義語は exhaustible（尽きうる）/ limited（限られた）。", "exhaust（使い尽くす・疲れさせる）＋ -ible ＋ in-（否定）。"],
+    "etym_note": "ラテン語 exhaurire（くみ尽くす）由来の exhaust に、-ible（〜できる）と否定の in- が付いた語。「尽くしきれない」。",
+    "etym_chain": [
+      { "node": "exhaust", "sub": "使い尽くす", "era": "近代英語" },
+      { "node": "inexhaustible", "sub": "尽きない", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "an inexhaustible source", "ja": "無尽蔵の供給源" },
+      { "en": "inexhaustible energy", "ja": "尽きないエネルギー" },
+      { "en": "an inexhaustible supply", "ja": "無尽蔵の蓄え" },
+      { "en": "seemingly inexhaustible", "ja": "尽きないように見える" },
+      { "en": "inexhaustible patience", "ja": "尽きることのない忍耐" },
+      { "en": "an inexhaustible resource", "ja": "無尽蔵の資源" }
+    ],
+    "related": [
+      { "en": "exhaust", "ja": "使い尽くす" },
+      { "en": "endless", "ja": "果てしない" },
+      { "en": "limitless", "ja": "無限の" },
+      { "en": "boundless", "ja": "限りない" }
+    ],
+    "faq": [
+      { "q": "inexhaustible の対義語は？", "a": "exhaustible（尽きうる）や limited（限られた）です。" },
+      { "q": "どんなものに使う？", "a": "資源・エネルギー・供給のほか、energy / patience / curiosity（活力・忍耐・好奇心）など尽きない豊かさに使います。" }
+    ],
+    "quiz": [
+      { "q": "inexhaustible の意味は？", "A": "尽きることのない・無尽蔵の", "B": "すぐ尽きる", "C": "小さな", "D": "高価な", "correct": "A" },
+      { "q": "an inexhaustible source の意味は？", "A": "無尽蔵の供給源", "B": "限られた供給", "C": "枯渇した井戸", "D": "小さな泉", "correct": "A" }
+    ]
+  },
+  {
+    "english": "transitional",
+    "pron": "trænˈzɪʃənl",
+    "kana": "トランジショナル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "transition（移行）＋-al",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "書き言葉"],
+    "meaning_main": "過渡期の／移行の／（次の段階への）つなぎの",
+    "description": "transitional（トランジショナル）は「過渡期の・移行の・（次の段階への）つなぎの」という意味の形容詞。ある状態から別の状態へ移り変わる途中の段階に関することを表します。a transitional period（過渡期）のように使います。",
+    "keywords": ["transitional 意味", "transitional 使い方", "過渡期 英語", "移行 英語"],
+    "meanings": [
+      { "hinshi": "【形】過渡期の、移行の", "note": "ある状態から別の状態へ移る途中の。" },
+      { "hinshi": "【形】（次の段階への）つなぎの、暫定の", "note": "a transitional government（暫定政府）。" }
+    ],
+    "usages": [
+      { "title": "① 過渡期を表す", "desc": "移り変わる途中。", "example_en": "The country is in a transitional period.", "example_ja": "その国は過渡期にある。" },
+      { "title": "② つなぎ・暫定の", "desc": "次の段階への橋渡し。", "example_en": "A transitional government was formed.", "example_ja": "暫定政府が樹立された。" }
+    ],
+    "warn": ["名詞は transition（移行・推移）、動詞は transition（移行する）。", "a transitional phase/period（過渡期）が頻出。"],
+    "etym_note": "ラテン語 transire（通り越す）由来の transition（移行）に、形容詞化の -al が付いた語。",
+    "etym_chain": [
+      { "node": "transire", "sub": "通り越す", "era": "ラテン語" },
+      { "node": "transition", "sub": "移行", "era": "近代英語" },
+      { "node": "transitional", "sub": "過渡期の", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a transitional period", "ja": "過渡期" },
+      { "en": "a transitional phase", "ja": "移行段階" },
+      { "en": "a transitional government", "ja": "暫定政府" },
+      { "en": "transitional housing", "ja": "一時的な住まい" },
+      { "en": "a transitional stage", "ja": "移行の段階" },
+      { "en": "transitional arrangements", "ja": "暫定措置" }
+    ],
+    "related": [
+      { "en": "transition", "ja": "移行、推移" },
+      { "en": "interim", "ja": "暫定の" },
+      { "en": "temporary", "ja": "一時的な" },
+      { "en": "intermediate", "ja": "中間の" }
+    ],
+    "faq": [
+      { "q": "transitional の名詞形は？", "a": "transition（移行・推移）です。動詞としても transition（移行する）が使われます。" },
+      { "q": "a transitional period とは？", "a": "『過渡期』のことで、ある状態から別の状態へ移り変わる途中の時期を指します。" }
+    ],
+    "quiz": [
+      { "q": "transitional の意味は？", "A": "過渡期の・移行の", "B": "永久の", "C": "伝統的な", "D": "国際的な", "correct": "A" },
+      { "q": "a transitional period の意味は？", "A": "過渡期", "B": "休憩時間", "C": "黄金期", "D": "終了時刻", "correct": "A" }
+    ]
+  },
+  {
+    "english": "lurid",
+    "pron": "ˈlʊrɪd",
+    "kana": "ルリッド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 luridus（青ざめた）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "書き言葉"],
+    "meaning_main": "どぎつい／（暴力・性を）生々しく描いた／けばけばしい",
+    "description": "lurid（ルリッド）は「（暴力や性などを）生々しく・どぎつく描いた」という意味の形容詞。また「けばけばしい・毒々しい色の」という意味もあります。衝撃的でセンセーショナルな内容や、不気味に派手な色合いを表します。",
+    "keywords": ["lurid 意味", "lurid 使い方", "どぎつい 英語", "生々しい 英語"],
+    "meanings": [
+      { "hinshi": "【形】どぎつい、生々しい、扇情的な", "note": "暴力・性などを衝撃的に描く。" },
+      { "hinshi": "【形】けばけばしい、毒々しい色の", "note": "不気味なほど派手な色。" }
+    ],
+    "usages": [
+      { "title": "① 生々しく扇情的", "desc": "衝撃的に描く。", "example_en": "The tabloid gave lurid details of the crime.", "example_ja": "そのタブロイド紙は事件のどぎつい詳細を報じた。" },
+      { "title": "② けばけばしい色", "desc": "毒々しく派手。", "example_en": "The sky turned a lurid orange.", "example_ja": "空は毒々しいオレンジ色に染まった。" }
+    ],
+    "warn": ["『どぎつい・扇情的な』の意味が中心で、やや否定的。lurid details（生々しい詳細）が頻出。", "元の意味は『青ざめた・不気味な』で、そこから色・描写に広がった。"],
+    "etym_note": "ラテン語 luridus（青ざめた・不気味な黄色の）に由来。「不気味な色→どぎつい」。",
+    "etym_chain": [
+      { "node": "luridus", "sub": "青ざめた", "era": "ラテン語" },
+      { "node": "lurid", "sub": "どぎつい", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "lurid details", "ja": "生々しい詳細" },
+      { "en": "a lurid story", "ja": "扇情的な話" },
+      { "en": "lurid headlines", "ja": "どぎつい見出し" },
+      { "en": "in lurid detail", "ja": "生々しく詳細に" },
+      { "en": "a lurid color", "ja": "けばけばしい色" },
+      { "en": "lurid green", "ja": "毒々しい緑色" }
+    ],
+    "related": [
+      { "en": "sensational", "ja": "扇情的な" },
+      { "en": "graphic", "ja": "生々しい" },
+      { "en": "garish", "ja": "けばけばしい" },
+      { "en": "shocking", "ja": "衝撃的な" }
+    ],
+    "faq": [
+      { "q": "lurid はどんなニュアンス？", "a": "暴力や性などを『生々しく・どぎつく・扇情的に』描くという、やや否定的な語です。報道や物語の描写によく使います。" },
+      { "q": "色について使うと？", "a": "『けばけばしい・毒々しいほど派手な色』を表します。例：a lurid orange（毒々しいオレンジ）。" }
+    ],
+    "quiz": [
+      { "q": "lurid details の意味は？", "A": "生々しい（どぎつい）詳細", "B": "簡潔な要約", "C": "正確な数字", "D": "公式の記録", "correct": "A" },
+      { "q": "lurid の色についての意味は？", "A": "けばけばしい・毒々しい", "B": "淡く上品な", "C": "白黒の", "D": "透明な", "correct": "A" }
+    ]
+  },
+  {
+    "english": "forthright",
+    "pron": "ˈfɔːrθraɪt",
+    "kana": "フォースライト",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "古英語 forthriht（まっすぐに）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "性格"],
+    "meaning_main": "率直な／単刀直入な／歯に衣着せぬ",
+    "description": "forthright（フォースライト）は「率直な・単刀直入な・歯に衣着せぬ」という意味の形容詞。遠回しにせず、思っていることをはっきり正直に言う様子を表します。ふつう好意的な評価で使われます。",
+    "keywords": ["forthright 意味", "forthright 使い方", "率直な 英語", "単刀直入 英語"],
+    "meanings": [
+      { "hinshi": "【形】率直な、単刀直入な", "note": "遠回しにせずはっきり言う。ふつう好意的。" },
+      { "hinshi": "【形】歯に衣着せぬ、正直な", "note": "a forthright manner（率直な態度）。" }
+    ],
+    "usages": [
+      { "title": "① 率直にものを言う", "desc": "遠回しにしない。", "example_en": "She was forthright about her opinions.", "example_ja": "彼女は自分の意見をはっきり率直に述べた。" },
+      { "title": "② 単刀直入な態度", "desc": "正直で直接的。", "example_en": "I appreciate his forthright answer.", "example_ja": "彼の単刀直入な答えはありがたい。" }
+    ],
+    "warn": ["ふつう好意的に『正直で率直』の意味。blunt（ぶっきらぼうな）より肯定的。", "evasive（言葉を濁す）の反対。"],
+    "etym_note": "古英語 forthriht（forth（前へ）＋ riht（まっすぐ）＝まっすぐに）に由来。「まっすぐな→率直な」。",
+    "etym_chain": [
+      { "node": "forthriht", "sub": "まっすぐに", "era": "古英語" },
+      { "node": "forthright", "sub": "率直な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a forthright manner", "ja": "率直な態度" },
+      { "en": "forthright about", "ja": "〜について率直な" },
+      { "en": "a forthright answer", "ja": "単刀直入な答え" },
+      { "en": "forthright and honest", "ja": "率直で正直な" },
+      { "en": "a forthright approach", "ja": "率直なやり方" },
+      { "en": "refreshingly forthright", "ja": "すがすがしいほど率直な" }
+    ],
+    "related": [
+      { "en": "frank", "ja": "率直な" },
+      { "en": "candid", "ja": "率直な" },
+      { "en": "direct", "ja": "直接的な" },
+      { "en": "evasive", "ja": "言葉を濁す" }
+    ],
+    "faq": [
+      { "q": "forthright と blunt の違いは？", "a": "どちらも『率直』ですが、forthright は好意的に『正直で単刀直入』、blunt は『無遠慮・ぶっきらぼう』とやや否定的なこともあります。" },
+      { "q": "対義的な語は？", "a": "evasive（言葉を濁す・はぐらかす）です。" }
+    ],
+    "quiz": [
+      { "q": "forthright の意味は？", "A": "率直な・単刀直入な", "B": "遠回しな", "C": "臆病な", "D": "無関心な", "correct": "A" },
+      { "q": "forthright の対義的な語は？", "A": "evasive（言葉を濁す）", "B": "frank", "C": "candid", "D": "honest", "correct": "A" }
+    ]
+  },
+  {
+    "english": "impinge",
+    "pron": "ɪmˈpɪndʒ",
+    "kana": "インピンジ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 impingere（打ちつける）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "書き言葉"],
+    "meaning_main": "（権利・生活に）影響を及ぼす・侵害する／ぶつかる（impinge on）",
+    "description": "impinge（インピンジ）は「（権利・自由・生活などに）影響を及ぼす・差し障る・侵害する」という意味の動詞。多く impinge on 〜 の形で使います。好ましくない形で何かに作用する、というかたい語です。",
+    "keywords": ["impinge 意味", "impinge on 使い方", "影響を及ぼす 英語", "侵害する 英語"],
+    "meanings": [
+      { "hinshi": "【動】（権利・生活に）影響を及ぼす、差し障る", "note": "impinge on 〜 で『〜に悪影響を及ぼす』。" },
+      { "hinshi": "【動】（権利を）侵害する", "note": "好ましくない形で作用する。" }
+    ],
+    "usages": [
+      { "title": "① 生活・権利に影響する", "desc": "好ましくない形で及ぶ。", "example_en": "The new rules impinge on our freedom.", "example_ja": "その新しい規則は私たちの自由を侵害する。" },
+      { "title": "② 差し障る", "desc": "悪影響を与える。", "example_en": "Work shouldn't impinge on family time.", "example_ja": "仕事が家族との時間に差し障るべきではない。" }
+    ],
+    "warn": ["多く impinge on/upon 〜（〜に影響・侵害する）の形。前置詞は on。", "ふつう『好ましくない影響』を表す。affect より『侵害・差し障り』のニュアンス。"],
+    "etym_note": "ラテン語 impingere（in-（〜に）＋ pangere（打つ）＝打ちつける）に由来。「ぶつかる→影響を及ぼす」。",
+    "etym_chain": [
+      { "node": "impingere", "sub": "打ちつける", "era": "ラテン語" },
+      { "node": "impinge", "sub": "影響を及ぼす", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "impinge on freedom", "ja": "自由を侵害する" },
+      { "en": "impinge on rights", "ja": "権利を侵す" },
+      { "en": "impinge on privacy", "ja": "プライバシーに差し障る" },
+      { "en": "impinge upon", "ja": "〜に影響を及ぼす" },
+      { "en": "start to impinge", "ja": "影響し始める" },
+      { "en": "impinge on daily life", "ja": "日常生活に差し障る" }
+    ],
+    "related": [
+      { "en": "infringe", "ja": "侵害する" },
+      { "en": "affect", "ja": "影響する" },
+      { "en": "encroach", "ja": "侵食する" },
+      { "en": "interfere", "ja": "妨げる" }
+    ],
+    "faq": [
+      { "q": "impinge の後の前置詞は？", "a": "on（または upon）です。impinge on 〜 で『〜に（好ましくない）影響を及ぼす・侵害する』という意味になります。" },
+      { "q": "infringe とどう違う？", "a": "どちらも『侵害する』ですが、infringe は法的な権利侵害に、impinge はより広く『差し障る・悪影響を及ぼす』に使われます。" }
+    ],
+    "quiz": [
+      { "q": "impinge on の意味は？", "A": "〜に（好ましくない）影響を及ぼす・侵害する", "B": "〜を称賛する", "C": "〜を無視する", "D": "〜を購入する", "correct": "A" },
+      { "q": "impinge の後にくる前置詞は？", "A": "on", "B": "at", "C": "of", "D": "by", "correct": "A" }
+    ]
+  },
+  {
+    "english": "dispel",
+    "pron": "dɪˈspel",
+    "kana": "ディスペル",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 dispellere（追い散らす）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "書き言葉"],
+    "meaning_main": "（不安・誤解・うわさを）払いのける／一掃する",
+    "description": "dispel（ディスペル）は「（不安・疑い・誤解・うわさなどを）払いのける・一掃する」という意味の動詞。目に見えないネガティブな気持ちや考えを、散らして消し去ることを表します。dispel doubts（疑いを晴らす）のように使います。",
+    "keywords": ["dispel 意味", "dispel 使い方", "払いのける 英語", "誤解を解く 英語"],
+    "meanings": [
+      { "hinshi": "【動】（不安・疑い・誤解を）払いのける", "note": "ネガティブな気持ち・考えを散らして消す。" },
+      { "hinshi": "【動】（うわさ・迷信を）一掃する", "note": "dispel a myth（俗説を打ち消す）。" }
+    ],
+    "usages": [
+      { "title": "① 不安・疑いを晴らす", "desc": "気持ちを散らして消す。", "example_en": "His calm words dispelled our fears.", "example_ja": "彼の落ち着いた言葉が私たちの不安を払いのけた。" },
+      { "title": "② 誤解・うわさを打ち消す", "desc": "一掃する。", "example_en": "The report dispelled the rumors.", "example_ja": "その報告がうわさを打ち消した。" }
+    ],
+    "warn": ["対象は doubts / fears / myths / rumors（疑い・不安・俗説・うわさ）など、目に見えないもの。", "物理的なものを散らすのは disperse。"],
+    "etym_note": "ラテン語 dispellere（dis-（ばらばらに）＋ pellere（追う）＝追い散らす）に由来。「散らして追い払う」。",
+    "etym_chain": [
+      { "node": "dispellere", "sub": "追い散らす", "era": "ラテン語" },
+      { "node": "dispel", "sub": "払いのける", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "dispel doubts", "ja": "疑いを晴らす" },
+      { "en": "dispel fears", "ja": "不安を払いのける" },
+      { "en": "dispel a myth", "ja": "俗説を打ち消す" },
+      { "en": "dispel rumors", "ja": "うわさを一掃する" },
+      { "en": "dispel the darkness", "ja": "暗闇を払う" },
+      { "en": "help dispel", "ja": "払いのける助けとなる" }
+    ],
+    "related": [
+      { "en": "disperse", "ja": "（物理的に）散らす" },
+      { "en": "banish", "ja": "追い払う" },
+      { "en": "eliminate", "ja": "取り除く" },
+      { "en": "allay", "ja": "（不安を）和らげる" }
+    ],
+    "faq": [
+      { "q": "dispel と disperse の違いは？", "a": "dispel は『不安・誤解・うわさなど目に見えないものを払いのける』、disperse は『群衆・煙など物理的なものを散らす』です。" },
+      { "q": "どんな語と使う？", "a": "dispel doubts / fears / myths / rumors（疑い・不安・俗説・うわさを払う）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "dispel の意味は？", "A": "（不安・誤解を）払いのける", "B": "呼び寄せる", "C": "作り出す", "D": "記録する", "correct": "A" },
+      { "q": "dispel doubts の意味は？", "A": "疑いを晴らす", "B": "疑いを強める", "C": "疑いを隠す", "D": "疑いを記録する", "correct": "A" }
+    ]
+  },
+  {
+    "english": "quell",
+    "pron": "kwel",
+    "kana": "クウェル",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古英語 cwellan（殺す・鎮める）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "書き言葉"],
+    "meaning_main": "（反乱・暴動を）鎮圧する／（感情・不安を）鎮める・抑える",
+    "description": "quell（クウェル）は「（反乱・暴動などを）鎮圧する」「（恐れ・不安・疑念などを）鎮める・抑える」という意味の動詞。力や働きかけで、騒ぎや強い感情を抑え込むことを表す、かたい語です。quell a rebellion（反乱を鎮圧する）のように使います。",
+    "keywords": ["quell 意味", "quell 使い方", "鎮圧する 英語", "鎮める 英語"],
+    "meanings": [
+      { "hinshi": "【動】（反乱・暴動を）鎮圧する", "note": "力で騒ぎを抑え込む。" },
+      { "hinshi": "【動】（感情・不安を）鎮める、抑える", "note": "quell fears（不安を鎮める）。" }
+    ],
+    "usages": [
+      { "title": "① 反乱・騒ぎを鎮圧する", "desc": "力で抑え込む。", "example_en": "Troops were sent to quell the riot.", "example_ja": "暴動を鎮圧するために軍隊が送られた。" },
+      { "title": "② 感情・不安を抑える", "desc": "鎮めて静める。", "example_en": "She tried to quell her nerves before the speech.", "example_ja": "彼女はスピーチの前に緊張を鎮めようとした。" }
+    ],
+    "warn": ["対象は rebellion / riot / unrest（反乱・暴動・騒乱）や fears / doubts（不安・疑念）。", "suppress（抑圧する）に近いが、quell はより『鎮める・静める』ニュアンス。"],
+    "etym_note": "古英語 cwellan（殺す）に由来。「殺す→鎮圧する・鎮める」と意味が和らいだ。",
+    "etym_chain": [
+      { "node": "cwellan", "sub": "殺す・鎮める", "era": "古英語" },
+      { "node": "quell", "sub": "鎮圧する", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "quell a rebellion", "ja": "反乱を鎮圧する" },
+      { "en": "quell the riot", "ja": "暴動を鎮圧する" },
+      { "en": "quell unrest", "ja": "騒乱を鎮める" },
+      { "en": "quell fears", "ja": "不安を鎮める" },
+      { "en": "quell doubts", "ja": "疑念を抑える" },
+      { "en": "quell the protest", "ja": "抗議を鎮める" }
+    ],
+    "related": [
+      { "en": "suppress", "ja": "抑圧する" },
+      { "en": "subdue", "ja": "制圧する" },
+      { "en": "calm", "ja": "静める" },
+      { "en": "put down", "ja": "鎮圧する" }
+    ],
+    "faq": [
+      { "q": "quell と suppress の違いは？", "a": "どちらも『抑える』ですが、quell は『（騒ぎ・感情を）鎮めて静める』、suppress は『（力で）抑圧する・押さえ込む』に焦点があります。" },
+      { "q": "どんな語と使う？", "a": "quell a rebellion / riot / unrest（反乱・暴動・騒乱）や quell fears / doubts（不安・疑念）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "quell の意味は？", "A": "鎮圧する・鎮める", "B": "あおる・扇動する", "C": "称賛する", "D": "延期する", "correct": "A" },
+      { "q": "quell a rebellion の意味は？", "A": "反乱を鎮圧する", "B": "反乱を起こす", "C": "反乱を支援する", "D": "反乱を記録する", "correct": "A" }
+    ]
+  },
+  {
+    "english": "dearth",
+    "pron": "dɜːrθ",
+    "kana": "ダース",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "中英語 derthe（高価・不足）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "書き言葉"],
+    "meaning_main": "（深刻な）不足／欠乏",
+    "description": "dearth（ダース）は「（必要なものの深刻な）不足・欠乏」という意味の名詞。あるべきものがひどく足りない状態を表す、かたい語です。a dearth of 〜（〜の不足）の形で使います。発音は『ダース』です。",
+    "keywords": ["dearth 意味", "dearth 使い方", "不足 英語", "欠乏 英語"],
+    "meanings": [
+      { "hinshi": "【名】（深刻な）不足、欠乏", "note": "a dearth of 〜 で『〜の不足』。ふつう単数。" },
+      { "hinshi": "【名】払底、乏しさ", "note": "必要なものがひどく足りない状態。" }
+    ],
+    "usages": [
+      { "title": "① 深刻な不足を表す", "desc": "ひどく足りない。", "example_en": "There is a dearth of skilled workers.", "example_ja": "熟練労働者が深刻に不足している。" },
+      { "title": "② 乏しさを嘆く", "desc": "あるべきものがない。", "example_en": "The report revealed a dearth of evidence.", "example_ja": "その報告書は証拠の乏しさを明らかにした。" }
+    ],
+    "warn": ["a dearth of 〜（〜の不足）の形が基本。shortage より『かたく・深刻な不足』。", "対義語は abundance（豊富）。発音は『ダース（dɜːrθ）』。"],
+    "etym_note": "中英語 derthe（dear（高価な・乏しい）＋ -th）に由来。「乏しくて高価なこと→不足」。",
+    "etym_chain": [
+      { "node": "dear", "sub": "高価な・乏しい", "era": "古英語" },
+      { "node": "derthe", "sub": "不足", "era": "中英語" },
+      { "node": "dearth", "sub": "欠乏", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a dearth of", "ja": "〜の不足" },
+      { "en": "a dearth of information", "ja": "情報の不足" },
+      { "en": "a dearth of talent", "ja": "人材の不足" },
+      { "en": "a dearth of evidence", "ja": "証拠の乏しさ" },
+      { "en": "a dearth of resources", "ja": "資源の欠乏" },
+      { "en": "no dearth of", "ja": "〜には事欠かない" }
+    ],
+    "related": [
+      { "en": "shortage", "ja": "不足" },
+      { "en": "lack", "ja": "欠如" },
+      { "en": "scarcity", "ja": "欠乏" },
+      { "en": "abundance", "ja": "豊富（対義）" }
+    ],
+    "faq": [
+      { "q": "dearth と shortage の違いは？", "a": "どちらも『不足』ですが、dearth はよりかたい書き言葉で『深刻な欠乏』を表します。a dearth of の形で使います。" },
+      { "q": "no dearth of とは？", "a": "『〜には事欠かない・十分にある』という意味です。否定で逆の意味になります。" }
+    ],
+    "quiz": [
+      { "q": "dearth の意味は？", "A": "（深刻な）不足・欠乏", "B": "豊富", "C": "価格", "D": "深さ", "correct": "A" },
+      { "q": "a dearth of talent の意味は？", "A": "人材の不足", "B": "人材の豊富さ", "C": "才能の開花", "D": "人材の募集", "correct": "A" }
+    ]
+  },
+  {
+    "english": "solongas",
+    "pron": "ˌsoʊ ˈlɔːŋ əz",
+    "kana": "ソー・ロング・アズ",
+    "hinshi": "熟語（so long as）",
+    "ld_pos": "熟語",
+    "ld_etym": "so long（それだけ長く）＋as",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "熟語"],
+    "meaning_main": "〜する限り／〜しさえすれば（条件）（so long as）",
+    "description": "so long as（ソー・ロング・アズ）は「〜する限り・〜しさえすれば」という意味の熟語（接続詞的）。正しくは so long as と3語で書きます。条件を表し、as long as とほぼ同じ意味で使えます。",
+    "keywords": ["so long as 意味", "so long as 使い方", "〜する限り 英語", "as long as 違い"],
+    "meanings": [
+      { "hinshi": "【熟】〜する限り、〜しさえすれば", "note": "条件を表す。as long as と同義。" },
+      { "hinshi": "【熟】〜という条件で", "note": "ある条件が満たされる限り。" }
+    ],
+    "usages": [
+      { "title": "① 条件を示す", "desc": "〜しさえすれば。", "example_en": "You can stay so long as you stay quiet.", "example_ja": "静かにしている限り、いてもいいよ。" },
+      { "title": "② 期間の条件", "desc": "〜する間はずっと。", "example_en": "So long as it rains, we'll stay inside.", "example_ja": "雨が降っている限り、中にいよう。" }
+    ],
+    "warn": ["リンクの都合で solongas とつなげて書かれますが、正しくは so long as（3語）です。", "as long as とほぼ同義。別れ際の So long!（さようなら）とは別の表現。"],
+    "etym_note": "so long（それだけ長く）＋ as による条件表現。「〜する間はずっと→〜する限り」。",
+    "etym_chain": [
+      { "node": "so long as", "sub": "〜する限り", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "so long as you try", "ja": "挑戦する限り" },
+      { "en": "so long as it works", "ja": "うまくいく限り" },
+      { "en": "so long as possible", "ja": "できる限り（長く）" },
+      { "en": "so long as you're happy", "ja": "君が幸せである限り" },
+      { "en": "work so long as", "ja": "〜する限り機能する" },
+      { "en": "as long as (類義)", "ja": "〜する限り（類義）" }
+    ],
+    "related": [
+      { "en": "as long as", "ja": "〜する限り" },
+      { "en": "provided that", "ja": "〜という条件で" },
+      { "en": "if", "ja": "もし〜なら" },
+      { "en": "on condition that", "ja": "〜という条件で" }
+    ],
+    "faq": [
+      { "q": "so long as と as long as の違いは？", "a": "条件を表す意味ではほぼ同じで、入れ替えて使えます。どちらも『〜する限り・〜しさえすれば』です。" },
+      { "q": "So long! とは別物？", "a": "はい。So long! は『さようなら』というくだけた別れのあいさつで、so long as（〜する限り）とは別の表現です。" }
+    ],
+    "quiz": [
+      { "q": "so long as の意味は？", "A": "〜する限り・〜しさえすれば", "B": "〜のあとで", "C": "〜にもかかわらず", "D": "〜する前に", "correct": "A" },
+      { "q": "so long as と同義の表現は？", "A": "as long as", "B": "so far", "C": "so that", "D": "as soon as", "correct": "A" }
+    ]
+  },
+  {
+    "english": "atlarge",
+    "pron": "ət ˈlɑːrdʒ",
+    "kana": "アット・ラージ",
+    "hinshi": "熟語（at large）",
+    "ld_pos": "熟語",
+    "ld_etym": "large（自由な・広い）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "熟語"],
+    "meaning_main": "（犯人が）逃走中で／（社会）全体として（at large）",
+    "description": "at large（アット・ラージ）は「（犯人・危険な動物などが）捕まらず逃走中で」「（社会・集団）全体として」という意味の熟語。正しくは at large と2語で書きます。文脈により二つの主要な意味があります。",
+    "keywords": ["at large 意味", "at large 使い方", "逃走中 英語", "全体として 英語"],
+    "meanings": [
+      { "hinshi": "【熟】（犯人などが）逃走中で、捕まらずに", "note": "まだ拘束されず自由の身で。" },
+      { "hinshi": "【熟】（社会・集団）全体として", "note": "society at large（社会全体）。名詞の後に置く。" }
+    ],
+    "usages": [
+      { "title": "① 犯人が逃走中", "desc": "捕まらず自由の身。", "example_en": "The suspect is still at large.", "example_ja": "容疑者はまだ逃走中だ。" },
+      { "title": "② 〜全体として", "desc": "society at large など。", "example_en": "The decision affects society at large.", "example_ja": "その決定は社会全体に影響する。" }
+    ],
+    "warn": ["リンクの都合で atlarge とつなげて書かれますが、正しくは at large（2語）です。", "『全体として』の意味では名詞の後に置く：the public at large（一般大衆全体）。"],
+    "etym_note": "large（かつて『自由な』の意味）を使った古い表現。「自由な状態で→逃走中／広く全体に」。",
+    "etym_chain": [
+      { "node": "large", "sub": "自由な・広い", "era": "中英語" },
+      { "node": "at large", "sub": "逃走中／全体として", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "still at large", "ja": "まだ逃走中で" },
+      { "en": "remain at large", "ja": "逃走を続ける" },
+      { "en": "a killer at large", "ja": "逃走中の殺人犯" },
+      { "en": "society at large", "ja": "社会全体" },
+      { "en": "the public at large", "ja": "一般大衆全体" },
+      { "en": "the community at large", "ja": "地域社会全体" }
+    ],
+    "related": [
+      { "en": "free", "ja": "自由な" },
+      { "en": "on the loose", "ja": "逃走中で" },
+      { "en": "as a whole", "ja": "全体として" },
+      { "en": "in general", "ja": "一般に" }
+    ],
+    "faq": [
+      { "q": "at large の二つの意味は？", "a": "①（犯人などが）逃走中で・捕まらずに ②（society at large のように）社会・集団全体として、の二つです。文脈で判断します。" },
+      { "q": "『全体として』はどう使う？", "a": "名詞の後に置きます。例：society at large（社会全体）、the public at large（一般大衆全体）。" }
+    ],
+    "quiz": [
+      { "q": "The suspect is still at large. の意味は？", "A": "容疑者はまだ逃走中だ", "B": "容疑者は逮捕された", "C": "容疑者は無実だ", "D": "容疑者は入院中だ", "correct": "A" },
+      { "q": "society at large の意味は？", "A": "社会全体", "B": "大きな会社", "C": "広い土地", "D": "大都市", "correct": "A" }
+    ]
+  },
+  {
+    "english": "onthehorizon",
+    "pron": "ɑːn ðə həˈraɪzn",
+    "kana": "オン・ザ・ホライズン",
+    "hinshi": "熟語（on the horizon）",
+    "ld_pos": "熟語",
+    "ld_etym": "horizon（地平線）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "熟語"],
+    "meaning_main": "（変化などが）間近に迫って／起ころうとして（on the horizon）",
+    "description": "on the horizon（オン・ザ・ホライズン）は「（変化・出来事が）間近に迫って・起ころうとして」という意味の熟語。正しくは on the horizon と3語で書きます。地平線の向こうに見え始めた、これから来そうなものを比喩的に表します。",
+    "keywords": ["on the horizon 意味", "on the horizon 使い方", "間近に迫る 英語", "地平線 英語"],
+    "meanings": [
+      { "hinshi": "【熟】（変化などが）間近に迫って、起ころうとして", "note": "これから来そうな出来事を比喩的に表す。" },
+      { "hinshi": "【熟】地平線（水平線）上に", "note": "文字どおりの意味も。" }
+    ],
+    "usages": [
+      { "title": "① 変化が近づく", "desc": "これから起ころうとする。", "example_en": "Big changes are on the horizon.", "example_ja": "大きな変化が間近に迫っている。" },
+      { "title": "② 予感される出来事", "desc": "先に見え始める。", "example_en": "There's trouble on the horizon.", "example_ja": "面倒なことが起ころうとしている。" }
+    ],
+    "warn": ["リンクの都合で onthehorizon とつなげて書かれますが、正しくは on the horizon（3語）です。", "『地平線の向こうに見え始めた＝これから来る』という比喩。"],
+    "etym_note": "horizon（地平線・水平線）を使った比喩表現。「地平線の向こうに見え始める→間近に迫る」。",
+    "etym_chain": [
+      { "node": "horizon", "sub": "地平線", "era": "中英語" },
+      { "node": "on the horizon", "sub": "間近に迫って", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "on the horizon", "ja": "間近に迫って" },
+      { "en": "changes on the horizon", "ja": "迫りくる変化" },
+      { "en": "trouble on the horizon", "ja": "起ころうとする面倒" },
+      { "en": "nothing on the horizon", "ja": "当面の予定はない" },
+      { "en": "new opportunities on the horizon", "ja": "間近に迫る新たな機会" },
+      { "en": "appear on the horizon", "ja": "兆しが見え始める" }
+    ],
+    "related": [
+      { "en": "approaching", "ja": "近づいている" },
+      { "en": "imminent", "ja": "差し迫った" },
+      { "en": "upcoming", "ja": "今度の、来たる" },
+      { "en": "looming", "ja": "迫りくる" }
+    ],
+    "faq": [
+      { "q": "on the horizon の比喩的な意味は？", "a": "『（変化や出来事が）間近に迫って・これから起ころうとして』という意味です。地平線の向こうに見え始めたイメージです。" },
+      { "q": "何語で書く？", "a": "on the horizon と3語で書きます。" }
+    ],
+    "quiz": [
+      { "q": "on the horizon の意味は？", "A": "（変化などが）間近に迫って", "B": "ずっと昔に", "C": "完全に終わって", "D": "地下に", "correct": "A" },
+      { "q": "changes on the horizon の意味は？", "A": "迫りくる変化", "B": "過ぎ去った変化", "C": "中止された変化", "D": "小さな変化", "correct": "A" }
+    ]
+  },
+  {
+    "english": "makedowith",
+    "pron": "ˌmeɪk ˈduː wɪð",
+    "kana": "メイク・ドゥ・ウィズ",
+    "hinshi": "熟語（make do with）",
+    "ld_pos": "熟語",
+    "ld_etym": "make do（間に合わせる）＋with",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "熟語"],
+    "meaning_main": "〜で間に合わせる／〜で何とかやりくりする（make do with）",
+    "description": "make do with（メイク・ドゥ・ウィズ）は「（十分でないが）〜で間に合わせる・何とかやりくりする」という意味の熟語。正しくは make do with と3語で書きます。理想的ではないものでどうにか済ませる、という文脈で使います。",
+    "keywords": ["make do with 意味", "make do with 使い方", "間に合わせる 英語", "やりくり 英語"],
+    "meanings": [
+      { "hinshi": "【熟】〜で間に合わせる、やりくりする", "note": "十分でないものでどうにか済ませる。" },
+      { "hinshi": "【熟】（ないので）〜で我慢する", "note": "make do without 〜（〜なしで済ます）。" }
+    ],
+    "usages": [
+      { "title": "① 不十分なもので済ます", "desc": "間に合わせる。", "example_en": "We'll have to make do with what we have.", "example_ja": "あるものでやりくりするしかない。" },
+      { "title": "② 代用して我慢する", "desc": "それで済ませる。", "example_en": "There was no coffee, so we made do with tea.", "example_ja": "コーヒーがなかったので、紅茶で間に合わせた。" }
+    ],
+    "warn": ["リンクの都合で makedowith とつなげて書かれますが、正しくは make do with（3語）です。", "『ないものはないので、あるもので済ます』ニュアンス。make do without は『〜なしで済ます』。"],
+    "etym_note": "make do（間に合わせる）＋ with 〜 による表現。「〜でやっていけるようにする」。",
+    "etym_chain": [
+      { "node": "make do", "sub": "間に合わせる", "era": "近代英語" },
+      { "node": "make do with", "sub": "〜で間に合わせる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "make do with what we have", "ja": "あるものでやりくりする" },
+      { "en": "make do with less", "ja": "少ないもので済ます" },
+      { "en": "make do for now", "ja": "さしあたり間に合わせる" },
+      { "en": "have to make do", "ja": "間に合わせるしかない" },
+      { "en": "make do without", "ja": "〜なしで済ます" },
+      { "en": "make do with a substitute", "ja": "代用品で済ます" }
+    ],
+    "related": [
+      { "en": "get by", "ja": "何とかやっていく" },
+      { "en": "manage", "ja": "何とかやる" },
+      { "en": "improvise", "ja": "ありあわせで間に合わせる" },
+      { "en": "cope", "ja": "対処する" }
+    ],
+    "faq": [
+      { "q": "make do with の意味は？", "a": "『（十分でないが）〜で間に合わせる・やりくりする』という意味です。あるもので何とか済ませる文脈で使います。" },
+      { "q": "make do without とは？", "a": "『〜なしで済ます・我慢する』という意味です。with（〜で）の代わりに without（〜なしで）を使います。" }
+    ],
+    "quiz": [
+      { "q": "make do with の意味は？", "A": "〜で間に合わせる・やりくりする", "B": "〜を捨てる", "C": "〜を新調する", "D": "〜を自慢する", "correct": "A" },
+      { "q": "make do with what we have の意味は？", "A": "あるものでやりくりする", "B": "全部買い替える", "C": "何も使わない", "D": "人に借りる", "correct": "A" }
+    ]
+  },
+  {
+    "english": "onaccountof",
+    "pron": "ɑːn əˈkaʊnt əv",
+    "kana": "オン・アカウント・オブ",
+    "hinshi": "熟語（on account of）",
+    "ld_pos": "熟語",
+    "ld_etym": "account（理由・勘定）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "熟語"],
+    "meaning_main": "〜の理由で／〜のために（on account of）",
+    "description": "on account of（オン・アカウント・オブ）は「〜の理由で・〜のために」という意味の熟語。正しくは on account of と3語で書きます。because of（〜のために）とほぼ同義の、ややかたい原因・理由を表す表現です。",
+    "keywords": ["on account of 意味", "on account of 使い方", "〜の理由で 英語", "because of 違い"],
+    "meanings": [
+      { "hinshi": "【熟】〜の理由で、〜のために", "note": "because of のややかたい言い方。後ろは名詞句。" },
+      { "hinshi": "【熟】〜のことを考えて", "note": "原因・理由を導く。" }
+    ],
+    "usages": [
+      { "title": "① 理由を述べる", "desc": "〜のために。", "example_en": "The game was canceled on account of rain.", "example_ja": "試合は雨のために中止された。" },
+      { "title": "② 原因を示す", "desc": "〜が理由で。", "example_en": "He retired early on account of poor health.", "example_ja": "彼は健康がすぐれないため早期退職した。" }
+    ],
+    "warn": ["リンクの都合で onaccountof とつなげて書かれますが、正しくは on account of（3語）です。", "後ろは名詞（句）。because of とほぼ同義だが、ややかたい。"],
+    "etym_note": "account（勘定・理由）を使った定型表現。「〜の勘定に入れて→〜の理由で」。",
+    "etym_chain": [
+      { "node": "account", "sub": "勘定・理由", "era": "中英語" },
+      { "node": "on account of", "sub": "〜の理由で", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "on account of rain", "ja": "雨のために" },
+      { "en": "on account of illness", "ja": "病気のために" },
+      { "en": "on account of the weather", "ja": "天候のために" },
+      { "en": "on account of his age", "ja": "彼の年齢のために" },
+      { "en": "canceled on account of", "ja": "〜のため中止された" },
+      { "en": "on no account", "ja": "決して〜ない（別表現）" }
+    ],
+    "related": [
+      { "en": "because of", "ja": "〜のために" },
+      { "en": "due to", "ja": "〜が原因で" },
+      { "en": "owing to", "ja": "〜のために" },
+      { "en": "thanks to", "ja": "〜のおかげで" }
+    ],
+    "faq": [
+      { "q": "on account of と because of の違いは？", "a": "意味はほぼ同じ『〜のために』ですが、on account of はややかたい表現です。どちらも後ろは名詞（句）です。" },
+      { "q": "on no account は関係ある？", "a": "別の表現で『決して〜ない（強い否定）』という意味です。混同しないよう注意しましょう。" }
+    ],
+    "quiz": [
+      { "q": "on account of の意味は？", "A": "〜の理由で・〜のために", "B": "〜にもかかわらず", "C": "〜のあとで", "D": "〜の代わりに", "correct": "A" },
+      { "q": "canceled on account of rain の意味は？", "A": "雨のために中止された", "B": "雨でも開催された", "C": "雨を願って", "D": "雨の中で続いた", "correct": "A" }
+    ]
+  },
+  {
+    "english": "infavorof",
+    "pron": "ɪn ˈfeɪvər əv",
+    "kana": "イン・フェイバー・オブ",
+    "hinshi": "熟語（in favor of）",
+    "ld_pos": "熟語",
+    "ld_etym": "favor（支持・好意）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "熟語"],
+    "meaning_main": "〜に賛成して／〜を支持して／〜を選んで（in favor of）",
+    "description": "in favor of（イン・フェイバー・オブ）は「〜に賛成して・〜を支持して」「〜を選んで（別のものの代わりに）」という意味の熟語。正しくは in favor of と3語で書きます（英つづりは in favour of）。賛否や選択を表すときに使います。",
+    "keywords": ["in favor of 意味", "in favor of 使い方", "〜に賛成 英語", "〜を支持 英語"],
+    "meanings": [
+      { "hinshi": "【熟】〜に賛成して、〜を支持して", "note": "be in favor of 〜（〜に賛成だ）。" },
+      { "hinshi": "【熟】〜を選んで、〜のほうを取って", "note": "A を捨てて B を選ぶ。reject A in favor of B。" }
+    ],
+    "usages": [
+      { "title": "① 賛成・支持を表す", "desc": "〜に賛成だ。", "example_en": "Most members are in favor of the plan.", "example_ja": "ほとんどのメンバーはその計画に賛成だ。" },
+      { "title": "② 〜のほうを選ぶ", "desc": "別のものの代わりに。", "example_en": "They dropped the old system in favor of a new one.", "example_ja": "彼らは古いシステムをやめて新しいものを採用した。" }
+    ],
+    "warn": ["リンクの都合で infavorof とつなげて書かれますが、正しくは in favor of（3語）です。", "米 favor／英 favour。対義は against（反対して）。"],
+    "etym_note": "favor（好意・支持）を使った定型表現。「〜への好意のうちに→〜に賛成して」。",
+    "etym_chain": [
+      { "node": "favor", "sub": "好意・支持", "era": "中英語" },
+      { "node": "in favor of", "sub": "〜に賛成して", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "be in favor of", "ja": "〜に賛成だ" },
+      { "en": "vote in favor of", "ja": "〜に賛成票を投じる" },
+      { "en": "argue in favor of", "ja": "〜を支持して主張する" },
+      { "en": "in favor of a new plan", "ja": "新しい計画を支持して" },
+      { "en": "reject A in favor of B", "ja": "Aを退けBを選ぶ" },
+      { "en": "come out in favor of", "ja": "〜への支持を表明する" }
+    ],
+    "related": [
+      { "en": "support", "ja": "支持する" },
+      { "en": "for", "ja": "〜に賛成で" },
+      { "en": "against", "ja": "〜に反対で" },
+      { "en": "prefer", "ja": "〜のほうを好む" }
+    ],
+    "faq": [
+      { "q": "in favor of の対義表現は？", "a": "against（〜に反対して）です。be in favor of 〜 ⇔ be against 〜。" },
+      { "q": "『〜を選んで』の意味は？", "a": "『別のものの代わりに〜のほうを取って』という意味です。例：reject A in favor of B（Aを退けてBを選ぶ）。" }
+    ],
+    "quiz": [
+      { "q": "be in favor of の意味は？", "A": "〜に賛成だ・〜を支持する", "B": "〜に反対だ", "C": "〜を知らない", "D": "〜を忘れる", "correct": "A" },
+      { "q": "in favor of の対義表現は？", "A": "against", "B": "because of", "C": "instead", "D": "in terms of", "correct": "A" }
+    ]
+  },
+  {
+    "english": "proneto",
+    "pron": "ˈproʊn tuː",
+    "kana": "プローン・トゥ",
+    "hinshi": "熟語（prone to）",
+    "ld_pos": "熟語",
+    "ld_etym": "prone（〜しがちな）＋to",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "熟語"],
+    "meaning_main": "〜しがちな／〜しやすい／〜の傾向がある（prone to）",
+    "description": "prone to（プローン・トゥ）は「〜しがちな・〜しやすい・（好ましくないことの）傾向がある」という意味の熟語。正しくは prone to と2語で書きます。多く悪いこと（病気・失敗・事故など）が起こりやすい性質を表します。to の後は名詞か動詞の原形です。",
+    "keywords": ["prone to 意味", "prone to 使い方", "〜しがち 英語", "〜しやすい 英語"],
+    "meanings": [
+      { "hinshi": "【熟】〜しがちな、〜しやすい", "note": "多く好ましくないことが起こりやすい。be prone to 〜。" },
+      { "hinshi": "【熟】〜の傾向がある", "note": "to の後は名詞か動詞の原形。" }
+    ],
+    "usages": [
+      { "title": "① 起こりやすい傾向", "desc": "〜しがち。", "example_en": "He is prone to making mistakes when tired.", "example_ja": "彼は疲れると間違いをしがちだ。" },
+      { "title": "② 影響を受けやすい", "desc": "〜になりやすい。", "example_en": "This area is prone to flooding.", "example_ja": "この地域は洪水が起こりやすい。" }
+    ],
+    "warn": ["リンクの都合で proneto とつなげて書かれますが、正しくは prone to（2語）です。", "多く『好ましくないこと』に使う。to の後は名詞か動詞の原形（prone to error / prone to make mistakes）。"],
+    "etym_note": "ラテン語 pronus（前かがみの・傾いた）由来の prone（〜に傾いた）＋ to による表現。「〜へ傾いている→〜しがち」。",
+    "etym_chain": [
+      { "node": "pronus", "sub": "前かがみの", "era": "ラテン語" },
+      { "node": "prone", "sub": "〜しがちな", "era": "中英語" },
+      { "node": "prone to", "sub": "〜しやすい", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be prone to", "ja": "〜しがちだ" },
+      { "en": "prone to error", "ja": "間違いを犯しやすい" },
+      { "en": "prone to accidents", "ja": "事故を起こしやすい" },
+      { "en": "prone to flooding", "ja": "洪水が起こりやすい" },
+      { "en": "prone to illness", "ja": "病気にかかりやすい" },
+      { "en": "accident-prone", "ja": "事故を起こしやすい（複合）" }
+    ],
+    "related": [
+      { "en": "liable to", "ja": "〜しがちな" },
+      { "en": "likely to", "ja": "〜しそうな" },
+      { "en": "susceptible to", "ja": "〜の影響を受けやすい" },
+      { "en": "inclined to", "ja": "〜する傾向がある" }
+    ],
+    "faq": [
+      { "q": "prone to の後は何が来る？", "a": "名詞か動詞の原形です。例：prone to error（名詞）、prone to make mistakes（動詞の原形）。" },
+      { "q": "良いことにも使う？", "a": "ふつうは病気・失敗・事故など『好ましくないこと』が起こりやすい場合に使います。" }
+    ],
+    "quiz": [
+      { "q": "prone to の意味は？", "A": "〜しがちな・〜しやすい", "B": "〜できない", "C": "〜を嫌う", "D": "〜を終えた", "correct": "A" },
+      { "q": "This area is prone to flooding. の意味は？", "A": "この地域は洪水が起こりやすい", "B": "この地域は乾燥している", "C": "この地域は安全だ", "D": "この地域は人気だ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "fitthebill",
+    "pron": "ˌfɪt ðə ˈbɪl",
+    "kana": "フィット・ザ・ビル",
+    "hinshi": "熟語（fit the bill）",
+    "ld_pos": "熟語",
+    "ld_etym": "fit（合う）＋the bill（請求書・条件書き）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "熟語"],
+    "meaning_main": "条件にぴったり合う／もってこいである（fit the bill）",
+    "description": "fit the bill（フィット・ザ・ビル）は「（必要な）条件にぴったり合う・うってつけである」という意味の熟語。正しくは fit the bill と3語で書きます。求められている条件や目的に、ちょうどよく当てはまることを表します。fill the bill とも言います。",
+    "keywords": ["fit the bill 意味", "fit the bill 使い方", "条件に合う 英語", "うってつけ 英語"],
+    "meanings": [
+      { "hinshi": "【熟】条件にぴったり合う、うってつけだ", "note": "求められる条件・目的にちょうど当てはまる。" },
+      { "hinshi": "【熟】もってこいである", "note": "fill the bill とも言う。" }
+    ],
+    "usages": [
+      { "title": "① 条件に合う", "desc": "目的にぴったり。", "example_en": "This apartment fits the bill perfectly.", "example_ja": "このアパートは条件にぴったりだ。" },
+      { "title": "② うってつけの人・物", "desc": "求める要件に合致。", "example_en": "We need someone reliable, and she fits the bill.", "example_ja": "信頼できる人が必要で、彼女はうってつけだ。" }
+    ],
+    "warn": ["リンクの都合で fitthebill とつなげて書かれますが、正しくは fit the bill（3語）です。", "the bill は『（求める条件を並べた）請求書・張り紙』の意味から。fill the bill とも言う。"],
+    "etym_note": "the bill（興行の演目表・条件書き）に fit（合う）が付いた表現。「条件書きに合う→要件にぴったり」。",
+    "etym_chain": [
+      { "node": "the bill", "sub": "条件書き・演目表", "era": "近代英語" },
+      { "node": "fit the bill", "sub": "条件に合う", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "fit the bill", "ja": "条件にぴったり合う" },
+      { "en": "fit the bill perfectly", "ja": "条件に完璧に合う" },
+      { "en": "someone who fits the bill", "ja": "条件に合う人" },
+      { "en": "nicely fit the bill", "ja": "うまく条件に合う" },
+      { "en": "fill the bill (同義)", "ja": "条件に合う（同義）" },
+      { "en": "does it fit the bill?", "ja": "それは条件に合う？" }
+    ],
+    "related": [
+      { "en": "suit", "ja": "合う、適する" },
+      { "en": "meet the requirements", "ja": "要件を満たす" },
+      { "en": "be suitable", "ja": "適している" },
+      { "en": "do the trick", "ja": "うまくいく" }
+    ],
+    "faq": [
+      { "q": "fit the bill の意味は？", "a": "『（求められる）条件にぴったり合う・うってつけである』という意味です。fill the bill とも言います。" },
+      { "q": "the bill とは何？", "a": "ここでの bill は『条件を並べた書き・張り紙（演目表）』の意味で、そこに fit（合う）＝『条件に合致する』となります。" }
+    ],
+    "quiz": [
+      { "q": "fit the bill の意味は？", "A": "条件にぴったり合う・うってつけだ", "B": "請求書を払う", "C": "法案を作る", "D": "予約する", "correct": "A" },
+      { "q": "She fits the bill. の意味は？", "A": "彼女は条件にぴったりだ", "B": "彼女は支払った", "C": "彼女は反対だ", "D": "彼女は欠席した", "correct": "A" }
+    ]
+  }
+]
