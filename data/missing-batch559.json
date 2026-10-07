@@ -1,0 +1,977 @@
+[
+  {
+    "english": "austere",
+    "pron": "ɔːˈstɪr",
+    "kana": "オースティア",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ギリシャ語 austeros（渋い、厳しい）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "書き言葉"],
+    "meaning_main": "（人・態度が）厳格な・いかめしい／（生活・装飾が）簡素な・質素な",
+    "description": "austere（オースティア）は「（人・態度が)厳格な・いかめしい・取りつく島のない」「（生活・部屋・装飾が)簡素な・質素な・飾り気のない」という意味の形容詞。ぜいたくや華やかさを排した、厳しく引き締まった様子を表す、かたい語です。",
+    "keywords": ["austere 意味", "austere 使い方", "厳格な 英語", "簡素な 英語"],
+    "meanings": [
+      { "hinshi": "【形】（人・態度が）厳格な、いかめしい", "note": "取りつく島のない厳しさ。" },
+      { "hinshi": "【形】（生活・装飾が）簡素な、質素な", "note": "飾り気がない。an austere room（飾り気のない部屋）。" }
+    ],
+    "usages": [
+      { "title": "① 厳格な人", "desc": "いかめしい。", "example_en": "He was an austere and distant man.", "example_ja": "彼は厳格でよそよそしい人だった。" },
+      { "title": "② 簡素な暮らし", "desc": "飾り気がない。", "example_en": "They lived an austere life.", "example_ja": "彼らは質素な暮らしをしていた。" }
+    ],
+    "warn": ["『（人が)厳格でいかめしい』と『（物・暮らしが)簡素・質素』の両方。名詞 austerity は『質素・緊縮（財政）』。", "strict（規則に厳しい)に加え『華やかさを排した厳しさ・冷たさ』のニュアンス。"],
+    "etym_note": "ギリシャ語 austeros（渋い・舌を刺す→厳しい）に由来。「渋く厳しい→厳格な・簡素な」。",
+    "etym_chain": [
+      { "node": "austeros", "sub": "渋い・厳しい", "era": "ギリシャ語" },
+      { "node": "austere", "sub": "厳格な・簡素な", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "an austere man", "ja": "厳格な人" },
+      { "en": "an austere life", "ja": "質素な暮らし" },
+      { "en": "austere surroundings", "ja": "飾り気のない環境" },
+      { "en": "an austere expression", "ja": "いかめしい表情" },
+      { "en": "austere beauty", "ja": "簡素な美しさ" },
+      { "en": "austere measures", "ja": "厳しい（緊縮）措置" }
+    ],
+    "related": [
+      { "en": "stern", "ja": "厳格な、いかめしい" },
+      { "en": "severe", "ja": "厳しい" },
+      { "en": "spartan", "ja": "簡素な、質素な" },
+      { "en": "frugal", "ja": "質素な、倹約の" }
+    ],
+    "faq": [
+      { "q": "austere の意味は？", "a": "『（人・態度が)厳格な・いかめしい』『（生活・装飾が)簡素な・質素な・飾り気のない』という意味のかたい語です。" },
+      { "q": "名詞形は？", "a": "austerity（質素・厳格さ・緊縮）です。austerity measures は『緊縮（財政）策』の意味でニュースによく出ます。" }
+    ],
+    "quiz": [
+      { "q": "an austere life の意味は？", "A": "質素な暮らし", "B": "ぜいたくな暮らし", "C": "にぎやかな暮らし", "D": "気ままな暮らし", "correct": "A" },
+      { "q": "austere の意味に近いのは？", "A": "厳格な・簡素な", "B": "華やかな", "C": "のんきな", "D": "寛大な", "correct": "A" }
+    ]
+  },
+  {
+    "english": "contrite",
+    "pron": "kənˈtraɪt",
+    "kana": "コントライト",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 contritus（すりつぶされた）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "書き言葉"],
+    "meaning_main": "（心から）悔いている・申し訳なく思う・ざんげの気持ちの",
+    "description": "contrite（コントライト）は「（自分の過ちを心から)悔いている・申し訳なく思う・ざんげの気持ちでいっぱいの」という意味の形容詞。深く反省して、すまなく思う様子を表す、ややかたい語です。a contrite apology（心からの謝罪)のように使います。",
+    "keywords": ["contrite 意味", "contrite 使い方", "悔いている 英語", "反省 英語"],
+    "meanings": [
+      { "hinshi": "【形】（心から）悔いている、申し訳なく思う", "note": "深く反省している。" },
+      { "hinshi": "【形】ざんげの気持ちの、慚愧(ざんき)に堪えない", "note": "a contrite apology（心からの謝罪）。" }
+    ],
+    "usages": [
+      { "title": "① 心から悔いて", "desc": "深く反省。", "example_en": "He looked genuinely contrite.", "example_ja": "彼は心から悔いているように見えた。" },
+      { "title": "② ざんげの謝罪", "desc": "すまなく思って。", "example_en": "She gave a contrite apology.", "example_ja": "彼女は心からの謝罪をした。" }
+    ],
+    "warn": ["『自分の過ちを深く悔いて申し訳なく思う』気持ち。sorry より強く、改心のニュアンスを含むかたい語。", "名詞は contrition（悔恨・ざんげ）。"],
+    "etym_note": "ラテン語 contritus（すりつぶされた、conterere＝すりつぶす由来）に由来。「（心が)打ちくだかれた→悔いた」。",
+    "etym_chain": [
+      { "node": "contritus", "sub": "すりつぶされた", "era": "ラテン語" },
+      { "node": "contrite", "sub": "悔いている", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "a contrite apology", "ja": "心からの謝罪" },
+      { "en": "look contrite", "ja": "悔いているように見える" },
+      { "en": "feel contrite", "ja": "申し訳なく思う" },
+      { "en": "a contrite expression", "ja": "反省の表情" },
+      { "en": "genuinely contrite", "ja": "心から悔いて" },
+      { "en": "a contrite heart", "ja": "悔い改めた心" }
+    ],
+    "related": [
+      { "en": "remorseful", "ja": "後悔している" },
+      { "en": "repentant", "ja": "悔い改めた" },
+      { "en": "apologetic", "ja": "すまなく思っている" },
+      { "en": "penitent", "ja": "改悛(かいしゅん)した" }
+    ],
+    "faq": [
+      { "q": "contrite の意味は？", "a": "『（自分の過ちを心から)悔いている・申し訳なく思う・ざんげの気持ちの』という意味のややかたい語です。" },
+      { "q": "sorry とどう違う？", "a": "sorry は一般的な『すまない』、contrite は『深く反省し改心する』ほどの強い悔恨を表します。" }
+    ],
+    "quiz": [
+      { "q": "contrite の意味は？", "A": "心から悔いている", "B": "開き直っている", "C": "得意になっている", "D": "無関心でいる", "correct": "A" },
+      { "q": "a contrite apology の意味は？", "A": "心からの謝罪", "B": "形だけの謝罪", "C": "謝罪の拒否", "D": "言い訳", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jaded",
+    "pron": "ˈdʒeɪdɪd",
+    "kana": "ジェイディッド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "jade（疲れ果てた馬）＋-ed",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "書き言葉"],
+    "meaning_main": "（やりすぎて）うんざりした・食傷した・新鮮味を感じなくなった",
+    "description": "jaded（ジェイディッド）は「（同じことをやりすぎて)うんざりした・食傷した・感動しなくなった・疲れて興味を失った」という意味の形容詞。経験を積みすぎて、もう何にも新鮮さや喜びを感じなくなった様子を表します。a jaded traveler（旅に飽きた人)のように使います。",
+    "keywords": ["jaded 意味", "jaded 使い方", "うんざりした 英語", "食傷した 英語"],
+    "meanings": [
+      { "hinshi": "【形】（やりすぎて）うんざりした、食傷した", "note": "新鮮味を感じなくなった。" },
+      { "hinshi": "【形】感動しなくなった、興味を失った", "note": "become jaded（擦れてしまう）。" }
+    ],
+    "usages": [
+      { "title": "① 食傷してうんざり", "desc": "新鮮味を失う。", "example_en": "I'm jaded with city life.", "example_ja": "私は都会暮らしに飽き飽きしている。" },
+      { "title": "② 擦れて感動しない", "desc": "興味を失う。", "example_en": "Years in the job left her jaded.", "example_ja": "長年の仕事で彼女は擦れてしまった。" }
+    ],
+    "warn": ["『同じことの経験が多すぎて、新鮮さ・喜びを感じなくなった』状態。bored（退屈した)より『擦れて冷めた』ニュアンス。", "宝石の jade（ひすい)とは別語源。もとは『疲れ果てた駄馬 jade』から。"],
+    "etym_note": "jade（疲れ果てた老馬・駄馬）＋ -ed に由来。「疲れ果てた馬のように→擦れてうんざりした」。",
+    "etym_chain": [
+      { "node": "jade", "sub": "疲れ果てた馬", "era": "中英語" },
+      { "node": "jaded", "sub": "うんざりした", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "become jaded", "ja": "擦れてうんざりする" },
+      { "en": "a jaded palate", "ja": "食傷した味覚" },
+      { "en": "feel jaded", "ja": "うんざりしている" },
+      { "en": "jaded with life", "ja": "人生に飽きて" },
+      { "en": "a jaded traveler", "ja": "旅に飽きた人" },
+      { "en": "jaded and cynical", "ja": "擦れて皮肉っぽい" }
+    ],
+    "related": [
+      { "en": "weary", "ja": "疲れ飽きた" },
+      { "en": "cynical", "ja": "冷めた、皮肉な" },
+      { "en": "disillusioned", "ja": "幻滅した" },
+      { "en": "burned out", "ja": "燃え尽きた" }
+    ],
+    "faq": [
+      { "q": "jaded の意味は？", "a": "『（同じことをやりすぎて)うんざりした・食傷した・新鮮味や感動を感じなくなった』という意味です。擦れて冷めた状態を表します。" },
+      { "q": "宝石の jade と関係ある？", "a": "別語源です。jaded は『疲れ果てた駄馬 jade』が元で、宝石のひすい(jade)とは関係ありません。" }
+    ],
+    "quiz": [
+      { "q": "jaded の意味は？", "A": "やりすぎてうんざりした", "B": "わくわくした", "C": "初々しい", "D": "好奇心旺盛な", "correct": "A" },
+      { "q": "become jaded の意味は？", "A": "擦れてうんざりする", "B": "元気になる", "C": "若返る", "D": "感動する", "correct": "A" }
+    ]
+  },
+  {
+    "english": "lithe",
+    "pron": "laɪð",
+    "kana": "ライズ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "古英語 līþe（しなやかな、優しい）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "描写"],
+    "meaning_main": "（体が）しなやかな・柔軟で優美な・身軽な",
+    "description": "lithe（ライズ）は「（体・動きが)しなやかな・柔軟で優美な・身軽な」という意味の形容詞。無駄なく柔らかく、優雅に動く体つきや身のこなしを表すほめ言葉です。a lithe dancer（しなやかなダンサー)のように使います。",
+    "keywords": ["lithe 意味", "lithe 使い方", "しなやかな 英語", "身軽な 英語"],
+    "meanings": [
+      { "hinshi": "【形】（体が）しなやかな、柔軟な", "note": "柔らかくよく曲がる。" },
+      { "hinshi": "【形】優美な、身軽な", "note": "a lithe body（しなやかな体）。" }
+    ],
+    "usages": [
+      { "title": "① しなやかな体", "desc": "柔軟で優美。", "example_en": "She had the lithe body of a gymnast.", "example_ja": "彼女は体操選手のようなしなやかな体つきをしていた。" },
+      { "title": "② 身軽な動き", "desc": "優雅に動く。", "example_en": "The cat made a lithe leap.", "example_ja": "その猫は身軽に跳んだ。" }
+    ],
+    "warn": ["体や動きの『しなやかさ・柔軟さ・優美さ』をほめる語。flexible より『優雅で美しい身のこなし』のニュアンス。", "発音は『ライズ（laɪð）』。lithe and supple（しなやかで柔らかい)の組み合わせも。"],
+    "etym_note": "古英語 līþe（しなやかな・優しい・穏やかな）に由来。「柔らかい→しなやかな」。",
+    "etym_chain": [
+      { "node": "līþe", "sub": "しなやかな・優しい", "era": "古英語" },
+      { "node": "lithe", "sub": "しなやかな", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "a lithe body", "ja": "しなやかな体" },
+      { "en": "a lithe dancer", "ja": "しなやかなダンサー" },
+      { "en": "lithe and graceful", "ja": "しなやかで優美な" },
+      { "en": "lithe movements", "ja": "優雅な身のこなし" },
+      { "en": "a lithe figure", "ja": "しなやかな体つき" },
+      { "en": "move lithely", "ja": "しなやかに動く" }
+    ],
+    "related": [
+      { "en": "supple", "ja": "しなやかな、柔軟な" },
+      { "en": "nimble", "ja": "身軽な、すばやい" },
+      { "en": "agile", "ja": "機敏な、敏捷な" },
+      { "en": "graceful", "ja": "優美な" }
+    ],
+    "faq": [
+      { "q": "lithe の意味は？", "a": "『（体・動きが)しなやかな・柔軟で優美な・身軽な』という意味のほめ言葉です。優雅で美しい身のこなしを表します。" },
+      { "q": "supple とどう違う？", "a": "どちらも『しなやか』ですが、lithe は体や動きの『優美さ・身軽さ』、supple は素材や関節の『柔らかさ・柔軟さ』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "a lithe body の意味は？", "A": "しなやかな体", "B": "こわばった体", "C": "大きな体", "D": "弱々しい体", "correct": "A" },
+      { "q": "lithe の意味に近いのは？", "A": "しなやかな・身軽な", "B": "重々しい", "C": "ぎこちない", "D": "固い", "correct": "A" }
+    ]
+  },
+  {
+    "english": "prudent",
+    "pron": "ˈpruːdnt",
+    "kana": "プルーデント",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 prudens（先を見通す）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "書き言葉"],
+    "meaning_main": "（先を見越して）慎重な・賢明な・分別のある",
+    "description": "prudent（プルーデント）は「（先々のことを見越して)慎重な・賢明な・分別のある・用心深い」という意味の形容詞。将来のリスクを考え、軽はずみを避けて賢く判断する様子を表すほめ言葉です。a prudent decision（賢明な判断)のように使います。",
+    "keywords": ["prudent 意味", "prudent 使い方", "慎重な 英語", "賢明な 英語"],
+    "meanings": [
+      { "hinshi": "【形】（先を見越して）慎重な、用心深い", "note": "将来のリスクを考える。" },
+      { "hinshi": "【形】賢明な、分別のある", "note": "a prudent decision（賢明な判断）。" }
+    ],
+    "usages": [
+      { "title": "① 慎重で用心深い", "desc": "先を見越す。", "example_en": "It would be prudent to save some money.", "example_ja": "いくらか貯金しておくのが賢明だろう。" },
+      { "title": "② 分別のある判断", "desc": "賢明に。", "example_en": "She made a prudent choice.", "example_ja": "彼女は賢明な選択をした。" }
+    ],
+    "warn": ["『先を見越して軽はずみを避ける』賢明さ。careful より『将来のリスクを考えた判断』のニュアンス。", "名詞は prudence（慎重・分別）。対義語は imprudent / rash（軽率な）。"],
+    "etym_note": "ラテン語 prudens（先を見通す、providens＝先を見る の短縮形）に由来。「先を見通す→慎重な」。",
+    "etym_chain": [
+      { "node": "prudens", "sub": "先を見通す", "era": "ラテン語" },
+      { "node": "prudent", "sub": "慎重な・賢明な", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "a prudent decision", "ja": "賢明な判断" },
+      { "en": "a prudent choice", "ja": "分別のある選択" },
+      { "en": "it would be prudent to", "ja": "〜するのが賢明だろう" },
+      { "en": "prudent management", "ja": "堅実な運営" },
+      { "en": "financially prudent", "ja": "財政的に堅実な" },
+      { "en": "a prudent investor", "ja": "慎重な投資家" }
+    ],
+    "related": [
+      { "en": "cautious", "ja": "用心深い" },
+      { "en": "sensible", "ja": "分別のある" },
+      { "en": "judicious", "ja": "思慮分別のある" },
+      { "en": "wise", "ja": "賢明な" }
+    ],
+    "faq": [
+      { "q": "prudent の意味は？", "a": "『（先々のことを見越して)慎重な・賢明な・分別のある・用心深い』という意味のほめ言葉です。" },
+      { "q": "対義語は？", "a": "imprudent（軽率な・無分別な）や rash（軽はずみな）です。名詞形は prudence（慎重・分別)です。" }
+    ],
+    "quiz": [
+      { "q": "a prudent decision の意味は？", "A": "賢明な判断", "B": "軽率な判断", "C": "強引な判断", "D": "思いつきの判断", "correct": "A" },
+      { "q": "prudent の対義語は？", "A": "rash（軽率な）", "B": "wise", "C": "cautious", "D": "sensible", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rash",
+    "pron": "ræʃ",
+    "kana": "ラッシュ",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "中英語 rasch（すばやい、せっかちな）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "描写"],
+    "meaning_main": "（形）軽はずみな・性急な／（名）発疹・（好ましくない）多発",
+    "description": "rash（ラッシュ）は、形容詞で「（結果を考えずに)軽はずみな・性急な・無分別な」、名詞で「発疹・吹き出物」「（好ましくないことの)多発・続発」という意味の語。形容詞では a rash decision（軽はずみな決定)、名詞では skin rash（発疹)のように使います。",
+    "keywords": ["rash 意味", "rash 使い方", "軽はずみな 英語", "発疹 英語"],
+    "meanings": [
+      { "hinshi": "【形】軽はずみな、性急な、無分別な", "note": "結果を考えずに行動する。対義は prudent。" },
+      { "hinshi": "【名】発疹、吹き出物", "note": "skin rash（肌の発疹）。" },
+      { "hinshi": "【名】（好ましくないことの）多発、続発", "note": "a rash of 〜（〜の続発）。" }
+    ],
+    "usages": [
+      { "title": "① 軽はずみな決定", "desc": "性急な。", "example_en": "Don't make any rash decisions.", "example_ja": "軽はずみな決定はしないで。" },
+      { "title": "② 発疹", "desc": "肌の症状。", "example_en": "The baby developed a rash.", "example_ja": "赤ちゃんに発疹ができた。" }
+    ],
+    "warn": ["形容詞『軽はずみな』と名詞『発疹／多発』は同じ綴りの別用法。a rash of 〜（〜の続発)も頻出。", "形容詞の対義語は prudent / cautious（慎重な）。"],
+    "etym_note": "形容詞は中英語 rasch（すばやい・せっかちな）、名詞『発疹』は古フランス語系の別系統で、同形になった。",
+    "etym_chain": [
+      { "node": "rasch", "sub": "すばやい・せっかちな", "era": "中英語" },
+      { "node": "rash", "sub": "軽はずみな／発疹", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a rash decision", "ja": "軽はずみな決定" },
+      { "en": "a rash promise", "ja": "軽々しい約束" },
+      { "en": "don't be rash", "ja": "軽はずみなことはするな" },
+      { "en": "a skin rash", "ja": "肌の発疹" },
+      { "en": "break out in a rash", "ja": "発疹が出る" },
+      { "en": "a rash of thefts", "ja": "盗難の続発" }
+    ],
+    "related": [
+      { "en": "reckless", "ja": "無謀な" },
+      { "en": "hasty", "ja": "性急な" },
+      { "en": "impulsive", "ja": "衝動的な" },
+      { "en": "prudent", "ja": "慎重な（対義）" }
+    ],
+    "faq": [
+      { "q": "rash の形容詞の意味は？", "a": "『（結果を考えずに)軽はずみな・性急な・無分別な』という意味です。a rash decision（軽はずみな決定)のように使います。" },
+      { "q": "名詞の rash とは？", "a": "『発疹・吹き出物』、また『（盗難・抗議など好ましくないことの)多発・続発』の意味です。a rash of 〜 の形も使います。" }
+    ],
+    "quiz": [
+      { "q": "a rash decision の意味は？", "A": "軽はずみな決定", "B": "慎重な決定", "C": "賢明な決定", "D": "最終的な決定", "correct": "A" },
+      { "q": "名詞 rash の意味は？", "A": "発疹", "B": "骨折", "C": "頭痛", "D": "骨", "correct": "A" }
+    ]
+  },
+  {
+    "english": "mull",
+    "pron": "mʌl",
+    "kana": "マル",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "中英語 mullen（粉にする）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "書き言葉"],
+    "meaning_main": "（mull over で）じっくり考える・熟考する／（ワインを）温めて香料を加える",
+    "description": "mull（マル）は「（mull over の形で)〜をじっくり考える・熟考する・思いめぐらす」という意味の動詞。時間をかけて、あれこれ考え込むことを表します。また『（ワイン・ビールを)温めて香辛料を加える』の意味もあり、mulled wine（ホットワイン)が有名です。",
+    "keywords": ["mull 意味", "mull over 使い方", "熟考する 英語", "ホットワイン 英語"],
+    "meanings": [
+      { "hinshi": "【動】（mull over で）じっくり考える、熟考する", "note": "時間をかけて思いめぐらす。" },
+      { "hinshi": "【動】（ワインを）温めて香料を加える", "note": "mulled wine（ホットワイン）。" }
+    ],
+    "usages": [
+      { "title": "① じっくり考える", "desc": "mull over の形で。", "example_en": "She mulled over the offer for a week.", "example_ja": "彼女はその申し出を一週間じっくり考えた。" },
+      { "title": "② ホットワインにする", "desc": "温めて香料を加える。", "example_en": "They served mulled wine at the party.", "example_ja": "パーティーでホットワインがふるまわれた。" }
+    ],
+    "warn": ["『考える』意味では多く mull over 〜（〜をじっくり考える)の形で使う。", "mulled wine（マルドワイン＝香辛料入りホットワイン)はクリスマスの定番。この用法も覚えておくとよい。"],
+    "etym_note": "『熟考する』は mull（粉にする→細かく砕いて考える)から。『ワイン』の用法は別系統とされる。",
+    "etym_chain": [
+      { "node": "mullen", "sub": "粉にする", "era": "中英語" },
+      { "node": "mull (over)", "sub": "じっくり考える", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "mull over", "ja": "〜をじっくり考える" },
+      { "en": "mull over an idea", "ja": "考えを思いめぐらす" },
+      { "en": "mull over a decision", "ja": "決断をじっくり考える" },
+      { "en": "mull things over", "ja": "ものごとを熟考する" },
+      { "en": "mulled wine", "ja": "ホットワイン" },
+      { "en": "take time to mull", "ja": "じっくり考える時間を取る" }
+    ],
+    "related": [
+      { "en": "ponder", "ja": "熟考する" },
+      { "en": "consider", "ja": "よく考える" },
+      { "en": "contemplate", "ja": "じっくり考える" },
+      { "en": "deliberate", "ja": "熟慮する" }
+    ],
+    "faq": [
+      { "q": "mull over とは？", "a": "『〜をじっくり考える・熟考する・思いめぐらす』という意味です。時間をかけてあれこれ考え込むことを表します。" },
+      { "q": "mulled wine とは？", "a": "ワインを温めて砂糖・香辛料（シナモンなど)を加えた『ホットワイン』のことです。欧米ではクリスマスの定番です。" }
+    ],
+    "quiz": [
+      { "q": "mull over the offer の意味は？", "A": "その申し出をじっくり考える", "B": "その申し出を断る", "C": "その申し出を受ける", "D": "その申し出を忘れる", "correct": "A" },
+      { "q": "mulled wine とは？", "A": "香辛料入りホットワイン", "B": "冷やした白ワイン", "C": "ワインビネガー", "D": "炭酸入りワイン", "correct": "A" }
+    ]
+  },
+  {
+    "english": "curt",
+    "pron": "kɜːrt",
+    "kana": "カート",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 curtus（短い、切り詰めた）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "描写"],
+    "meaning_main": "（言い方が）そっけない・ぶっきらぼうな・無愛想に短い",
+    "description": "curt（カート）は「（言い方・返事が)そっけない・ぶっきらぼうな・無愛想なほど短い」という意味の形容詞。必要最小限の言葉で、失礼に感じられるほど素っ気なく応じる様子を表します。a curt reply（そっけない返事)のように使います。",
+    "keywords": ["curt 意味", "curt 使い方", "そっけない 英語", "ぶっきらぼう 英語"],
+    "meanings": [
+      { "hinshi": "【形】（言い方が）そっけない、ぶっきらぼうな", "note": "無愛想に短い。失礼な感じ。" },
+      { "hinshi": "【形】素っ気なく短い", "note": "a curt nod（そっけないうなずき）。" }
+    ],
+    "usages": [
+      { "title": "① そっけない返事", "desc": "無愛想に短い。", "example_en": "He gave a curt reply.", "example_ja": "彼はそっけない返事をした。" },
+      { "title": "② 素っ気ない態度", "desc": "ぶっきらぼう。", "example_en": "\"No,\" she said curtly.", "example_ja": "「いいえ」と彼女はぶっきらぼうに言った。" }
+    ],
+    "warn": ["『（短すぎて)失礼・無愛想に感じられる』否定的ニュアンス。brief（簡潔な)が中立なのに対し、curt は冷たさを含む。", "副詞は curtly（そっけなく・ぶっきらぼうに）。"],
+    "etym_note": "ラテン語 curtus（短い・切り詰めた）に由来。「短く切り詰めた→（言い方が)そっけない」。",
+    "etym_chain": [
+      { "node": "curtus", "sub": "短い", "era": "ラテン語" },
+      { "node": "curt", "sub": "そっけない", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a curt reply", "ja": "そっけない返事" },
+      { "en": "a curt nod", "ja": "そっけないうなずき" },
+      { "en": "a curt tone", "ja": "ぶっきらぼうな口調" },
+      { "en": "answer curtly", "ja": "そっけなく答える" },
+      { "en": "a curt dismissal", "ja": "素っ気ない却下" },
+      { "en": "short and curt", "ja": "短くそっけない" }
+    ],
+    "related": [
+      { "en": "brusque", "ja": "ぶっきらぼうな" },
+      { "en": "terse", "ja": "簡潔でそっけない" },
+      { "en": "abrupt", "ja": "ぶっきらぼうな、突然の" },
+      { "en": "blunt", "ja": "無遠慮な、率直な" }
+    ],
+    "faq": [
+      { "q": "curt の意味は？", "a": "『（言い方・返事が)そっけない・ぶっきらぼうな・無愛想なほど短い』という意味です。失礼に感じられるほど素っ気ない様子を表します。" },
+      { "q": "brief とどう違う？", "a": "brief は中立の『簡潔な』、curt は『短すぎて無愛想・失礼』という否定的な響きがあります。" }
+    ],
+    "quiz": [
+      { "q": "a curt reply の意味は？", "A": "そっけない返事", "B": "丁寧な返事", "C": "長い返事", "D": "優しい返事", "correct": "A" },
+      { "q": "curt の意味に近いのは？", "A": "ぶっきらぼうな", "B": "愛想のよい", "C": "おしゃべりな", "D": "穏やかな", "correct": "A" }
+    ]
+  },
+  {
+    "english": "terse",
+    "pron": "tɜːrs",
+    "kana": "タース",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 tersus（磨かれた、簡潔な）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "書き言葉"],
+    "meaning_main": "（言葉が）簡潔な・そっけないほど短い・ぶっきらぼうな",
+    "description": "terse（タース）は「（言葉・文章が)簡潔な・無駄のない・（ときにそっけなく)ぶっきらぼうな」という意味の形容詞。余計な言葉を省いた引き締まった表現を指し、文脈により『簡にして要を得た』とも『愛想がなく短い』とも受け取られます。a terse reply（そっけなく短い返事)のように使います。",
+    "keywords": ["terse 意味", "terse 使い方", "簡潔な 英語", "そっけない 英語"],
+    "meanings": [
+      { "hinshi": "【形】（言葉が）簡潔な、無駄のない", "note": "余計な言葉を省いた。a terse style（簡潔な文体）。" },
+      { "hinshi": "【形】そっけないほど短い、ぶっきらぼうな", "note": "愛想のなさを含むことも。a terse reply。" }
+    ],
+    "usages": [
+      { "title": "① 簡潔な文体", "desc": "無駄がない。", "example_en": "He writes in a terse, economical style.", "example_ja": "彼は簡潔で無駄のない文体で書く。" },
+      { "title": "② そっけなく短い返事", "desc": "愛想がない。", "example_en": "She gave a terse \"No comment.\"", "example_ja": "彼女はそっけなく「ノーコメント」と言った。" }
+    ],
+    "warn": ["『簡潔で引き締まった』良い意味と、『そっけなく無愛想』な含みの両方。文脈で判断する。", "もとはラテン語 tersus（磨かれた）。『磨き上げて無駄をそぎ落とした→簡潔な』。"],
+    "etym_note": "ラテン語 tersus（磨かれた、tergere＝磨く由来）に由来。「磨いて無駄をなくした→簡潔な」。",
+    "etym_chain": [
+      { "node": "tersus", "sub": "磨かれた・簡潔な", "era": "ラテン語" },
+      { "node": "terse", "sub": "簡潔な", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a terse reply", "ja": "そっけなく短い返事" },
+      { "en": "a terse style", "ja": "簡潔な文体" },
+      { "en": "a terse statement", "ja": "簡潔な声明" },
+      { "en": "terse and to the point", "ja": "簡潔で的を射た" },
+      { "en": "a terse comment", "ja": "そっけないコメント" },
+      { "en": "reply tersely", "ja": "簡潔に（そっけなく）答える" }
+    ],
+    "related": [
+      { "en": "concise", "ja": "簡潔な" },
+      { "en": "succinct", "ja": "簡潔な、要を得た" },
+      { "en": "curt", "ja": "そっけない、ぶっきらぼうな" },
+      { "en": "pithy", "ja": "簡潔で力強い" }
+    ],
+    "faq": [
+      { "q": "terse の意味は？", "a": "『（言葉・文章が)簡潔な・無駄のない』、また『そっけないほど短い・ぶっきらぼうな』という意味です。文脈で良い意味にも否定的にもなります。" },
+      { "q": "concise とどう違う？", "a": "concise は純粋に『簡潔な』と肯定的、terse は『簡潔』だが『そっけない・無愛想』という含みを持つことがあります。" }
+    ],
+    "quiz": [
+      { "q": "a terse reply の意味は？", "A": "そっけなく短い返事", "B": "長々とした返事", "C": "優しい返事", "D": "あいまいな返事", "correct": "A" },
+      { "q": "terse の意味に近いのは？", "A": "簡潔な・そっけない", "B": "冗長な", "C": "華やかな", "D": "大げさな", "correct": "A" }
+    ]
+  },
+  {
+    "english": "wary",
+    "pron": "ˈweri",
+    "kana": "ウェアリー",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "古英語 wær（用心深い）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "描写"],
+    "meaning_main": "用心深い・警戒した・慎重な（be wary of 〜）",
+    "description": "wary（ウェアリー）は「（危険・だまされることを警戒して)用心深い・警戒した・慎重な」という意味の形容詞。何か悪いことが起こらないか気をつけ、簡単には信用しない様子を表します。be wary of 〜（〜を警戒する)の形が頻出です。",
+    "keywords": ["wary 意味", "wary 使い方", "用心深い 英語", "警戒する 英語"],
+    "meanings": [
+      { "hinshi": "【形】用心深い、警戒した", "note": "危険・だましを警戒する。be wary of 〜。" },
+      { "hinshi": "【形】（簡単に信じない）慎重な", "note": "疑いの目を向ける。" }
+    ],
+    "usages": [
+      { "title": "① 〜を警戒する", "desc": "be wary of の形で。", "example_en": "Be wary of strangers online.", "example_ja": "ネット上の見知らぬ人には用心しなさい。" },
+      { "title": "② 用心深い態度", "desc": "慎重に構える。", "example_en": "She gave him a wary look.", "example_ja": "彼女は彼に警戒の目を向けた。" }
+    ],
+    "warn": ["be wary of 〜（〜を警戒する・用心する)の形が基本。前置詞は of。", "weary（ウィアリー＝疲れた)とつづり・発音が近い別語。混同に注意。"],
+    "etym_note": "古英語 wær（用心深い、aware・beware と同語源）に由来。「気づいて用心する」。",
+    "etym_chain": [
+      { "node": "wær", "sub": "用心深い", "era": "古英語" },
+      { "node": "wary", "sub": "警戒した", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "be wary of", "ja": "〜を警戒する、用心する" },
+      { "en": "a wary look", "ja": "警戒の目つき" },
+      { "en": "wary of strangers", "ja": "見知らぬ人を警戒して" },
+      { "en": "remain wary", "ja": "用心し続ける" },
+      { "en": "a wary eye", "ja": "警戒の目" },
+      { "en": "grow wary", "ja": "警戒心を強める" }
+    ],
+    "related": [
+      { "en": "cautious", "ja": "用心深い" },
+      { "en": "careful", "ja": "注意深い" },
+      { "en": "suspicious", "ja": "疑い深い" },
+      { "en": "vigilant", "ja": "警戒を怠らない" }
+    ],
+    "faq": [
+      { "q": "wary の意味は？", "a": "『（危険・だましを警戒して)用心深い・警戒した・慎重な』という意味です。be wary of 〜（〜を警戒する)の形で使います。" },
+      { "q": "weary と同じ？", "a": "別語です。wary は『用心深い』、weary（ウィアリー)は『疲れ果てた』です。つづり・発音が似ているので注意しましょう。" }
+    ],
+    "quiz": [
+      { "q": "be wary of strangers の意味は？", "A": "見知らぬ人を警戒する", "B": "見知らぬ人を信用する", "C": "見知らぬ人と仲良くする", "D": "見知らぬ人を無視する", "correct": "A" },
+      { "q": "wary の意味に近いのは？", "A": "用心深い・警戒した", "B": "のんきな", "C": "疲れた", "D": "大胆な", "correct": "A" }
+    ]
+  },
+  {
+    "english": "wily",
+    "pron": "ˈwaɪli",
+    "kana": "ワイリー",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "wile（たくらみ）＋-y",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "描写"],
+    "meaning_main": "ずる賢い・抜け目のない・策略にたけた",
+    "description": "wily（ワイリー）は「ずる賢い・抜け目のない・策略にたけた・食えない」という意味の形容詞。相手を出し抜く巧妙なたくらみや知恵にたけた様子を表します。a wily old fox（ずる賢い古だぬき)のように使います。",
+    "keywords": ["wily 意味", "wily 使い方", "ずる賢い 英語", "抜け目のない 英語"],
+    "meanings": [
+      { "hinshi": "【形】ずる賢い、抜け目のない", "note": "巧妙なたくらみにたけた。" },
+      { "hinshi": "【形】策略にたけた、食えない", "note": "a wily opponent（手ごわく狡猾な相手）。" }
+    ],
+    "usages": [
+      { "title": "① ずる賢い", "desc": "出し抜く。", "example_en": "He is a wily old politician.", "example_ja": "彼は海千山千の老練な政治家だ。" },
+      { "title": "② 策略にたけた相手", "desc": "食えない。", "example_en": "The fox is a wily creature.", "example_ja": "キツネはずる賢い動物だ。" }
+    ],
+    "warn": ["『ずるく巧妙で抜け目ない』。悪賢さと同時に『したたかさ・老練さ』への(半ば感心した)評価を含むことも。", "wile（たくらみ・策略)＋ -y。cunning / crafty とほぼ同義。"],
+    "etym_note": "wile（たくらみ・策略、古ノルド語由来）＋ -y に由来。「たくらみに満ちた→ずる賢い」。",
+    "etym_chain": [
+      { "node": "wile", "sub": "たくらみ", "era": "中英語" },
+      { "node": "wily", "sub": "ずる賢い", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "a wily old fox", "ja": "ずる賢い古だぬき" },
+      { "en": "a wily opponent", "ja": "手ごわく狡猾な相手" },
+      { "en": "a wily strategy", "ja": "巧妙な策略" },
+      { "en": "wily and cunning", "ja": "ずる賢く狡猾な" },
+      { "en": "a wily negotiator", "ja": "抜け目のない交渉人" },
+      { "en": "a wily move", "ja": "巧妙な一手" }
+    ],
+    "related": [
+      { "en": "cunning", "ja": "ずる賢い、狡猾な" },
+      { "en": "crafty", "ja": "悪賢い、策略的な" },
+      { "en": "sly", "ja": "ずるい、こそこそした" },
+      { "en": "shrewd", "ja": "抜け目のない、鋭い" }
+    ],
+    "faq": [
+      { "q": "wily の意味は？", "a": "『ずる賢い・抜け目のない・策略にたけた・食えない』という意味です。相手を出し抜く巧妙さを表します。" },
+      { "q": "cunning と同じ？", "a": "ほぼ同義です。どちらも『ずる賢い・狡猾な』ですが、wily はときに『したたかで老練』という半ば感心したニュアンスを帯びます。" }
+    ],
+    "quiz": [
+      { "q": "a wily old fox の意味は？", "A": "ずる賢い古だぬき", "B": "正直者", "C": "お人よし", "D": "初心者", "correct": "A" },
+      { "q": "wily の意味に近いのは？", "A": "ずる賢い・抜け目のない", "B": "正直な", "C": "不器用な", "D": "のんきな", "correct": "A" }
+    ]
+  },
+  {
+    "english": "zany",
+    "pron": "ˈzeɪni",
+    "kana": "ゼイニー",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "イタリア語 zanni（道化役）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "口語"],
+    "meaning_main": "（こっけいなほど）ばかげて面白い・奇抜でこっけいな・はちゃめちゃな",
+    "description": "zany（ゼイニー）は「（こっけいなほど)ばかげて面白い・奇抜でこっけいな・はちゃめちゃな」という意味の形容詞。常識はずれでとっぴだが、笑いを誘う陽気なおかしさを表します。多く肯定的・好意的に使います。zany humor（はちゃめちゃな笑い)のように使います。",
+    "keywords": ["zany 意味", "zany 使い方", "ばかげて面白い 英語", "奇抜な 英語"],
+    "meanings": [
+      { "hinshi": "【形】（こっけいなほど）ばかげて面白い、奇抜な", "note": "とっぴで笑いを誘う。多く好意的。" },
+      { "hinshi": "【形】はちゃめちゃな、ふざけた", "note": "zany humor（突拍子もない笑い）。" }
+    ],
+    "usages": [
+      { "title": "① ばかげて面白い", "desc": "奇抜でこっけい。", "example_en": "The movie is full of zany humor.", "example_ja": "その映画ははちゃめちゃな笑いに満ちている。" },
+      { "title": "② とっぴなふるまい", "desc": "陽気でふざけた。", "example_en": "He has a zany sense of humor.", "example_ja": "彼は突拍子もないユーモアのセンスの持ち主だ。" }
+    ],
+    "warn": ["『とっぴでばかげているが面白い』という好意的なおかしさを表す口語。単なる『おかしい(strange)』とは違う。", "イタリアの即興喜劇(コンメディア・デッラルテ)の道化役 Zanni に由来する。"],
+    "etym_note": "イタリア語 zanni（即興喜劇の道化役、Giovanni の方言形）に由来。「道化のような→こっけいな」。",
+    "etym_chain": [
+      { "node": "zanni", "sub": "道化役", "era": "イタリア語" },
+      { "node": "zany", "sub": "ばかげて面白い", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "zany humor", "ja": "はちゃめちゃな笑い" },
+      { "en": "a zany comedy", "ja": "ドタバタ喜劇" },
+      { "en": "zany antics", "ja": "ばかげた芸当" },
+      { "en": "a zany character", "ja": "とっぴな人物" },
+      { "en": "zany and fun", "ja": "奇抜で楽しい" },
+      { "en": "a zany idea", "ja": "突拍子もないアイデア" }
+    ],
+    "related": [
+      { "en": "wacky", "ja": "とっぴな、風変わりな" },
+      { "en": "madcap", "ja": "むちゃな、はちゃめちゃな" },
+      { "en": "goofy", "ja": "おどけた、まぬけな" },
+      { "en": "eccentric", "ja": "風変わりな" }
+    ],
+    "faq": [
+      { "q": "zany の意味は？", "a": "『（こっけいなほど)ばかげて面白い・奇抜でこっけいな・はちゃめちゃな』という意味の口語で、多く好意的に使います。" },
+      { "q": "strange とどう違う？", "a": "strange は単に『奇妙な』、zany は『とっぴでばかげているが笑いを誘う・面白い』という陽気で好意的な響きです。" }
+    ],
+    "quiz": [
+      { "q": "zany humor の意味は？", "A": "はちゃめちゃで面白い笑い", "B": "上品な笑い", "C": "冷たい皮肉", "D": "退屈な話", "correct": "A" },
+      { "q": "zany の意味に近いのは？", "A": "ばかげて面白い・奇抜な", "B": "まじめで堅い", "C": "退屈な", "D": "陰気な", "correct": "A" }
+    ]
+  },
+  {
+    "english": "mellowout",
+    "pron": "ˌmeloʊ ˈaʊt",
+    "kana": "メロウ・アウト",
+    "hinshi": "句動詞（mellow out）",
+    "ld_pos": "句動詞",
+    "ld_etym": "mellow（まろやかな）＋out",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "句動詞"],
+    "meaning_main": "（緊張をほぐして）くつろぐ・落ち着く・穏やかになる（mellow out）",
+    "description": "mellow out（メロウ・アウト）は「（緊張・興奮をほぐして)くつろぐ・リラックスする・落ち着く・（人が)丸くなる」という意味の句動詞。正しくは mellow out と2語で書きます。おもにくだけたアメリカ英語で、ゆったりと穏やかになる様子を表します。",
+    "keywords": ["mellow out 意味", "mellow out 使い方", "くつろぐ 英語", "落ち着く 英語"],
+    "meanings": [
+      { "hinshi": "【句動】くつろぐ、リラックスする", "note": "緊張をほぐして落ち着く。主に米・口語。" },
+      { "hinshi": "【句動】（人が）丸くなる、穏やかになる", "note": "年とともに角が取れる。" }
+    ],
+    "usages": [
+      { "title": "① くつろぐ", "desc": "リラックスする。", "example_en": "Let's just mellow out and watch a movie.", "example_ja": "のんびりくつろいで映画でも見よう。" },
+      { "title": "② 丸くなる", "desc": "穏やかになる。", "example_en": "He's mellowed out as he's gotten older.", "example_ja": "彼は年をとって丸くなった。" }
+    ],
+    "warn": ["リンクの都合で mellowout とつなげて書かれますが、正しくは mellow out（2語）です。", "おもにくだけたアメリカ英語。『緊張をほぐしてゆったり落ち着く』『（性格が)角が取れる』。"],
+    "etym_note": "mellow（（果実・ワインが)熟してまろやかな→穏やかな）＋ out による句動詞。「まろやかになる→くつろぐ」。",
+    "etym_chain": [
+      { "node": "mellow out", "sub": "くつろぐ・穏やかになる", "era": "現代英語（米口語）" }
+    ],
+    "phrases": [
+      { "en": "mellow out", "ja": "くつろぐ、落ち着く" },
+      { "en": "just mellow out", "ja": "のんびりする" },
+      { "en": "mellow out a bit", "ja": "少し落ち着く" },
+      { "en": "need to mellow out", "ja": "リラックスする必要がある" },
+      { "en": "mellow out with age", "ja": "年とともに丸くなる" },
+      { "en": "tell someone to mellow out", "ja": "〜に落ち着くよう言う" }
+    ],
+    "related": [
+      { "en": "relax", "ja": "くつろぐ" },
+      { "en": "chill out", "ja": "のんびりする、落ち着く" },
+      { "en": "unwind", "ja": "緊張をほぐす" },
+      { "en": "calm down", "ja": "落ち着く" }
+    ],
+    "faq": [
+      { "q": "mellow out の意味は？", "a": "『（緊張をほぐして)くつろぐ・リラックスする・落ち着く』、また『（人が)年とともに丸くなる』という意味の、くだけた口語です。" },
+      { "q": "chill out と同じ？", "a": "ほぼ同義です。どちらも『のんびりくつろぐ・落ち着く』という意味のくだけたアメリカ英語です。" }
+    ],
+    "quiz": [
+      { "q": "mellow out の意味は？", "A": "くつろぐ・落ち着く", "B": "いらいらする", "C": "急ぐ", "D": "出かける", "correct": "A" },
+      { "q": "He's mellowed out with age. の意味は？", "A": "年をとって丸くなった", "B": "年をとって怒りっぽくなった", "C": "若返った", "D": "太った", "correct": "A" }
+    ]
+  },
+  {
+    "english": "phaseout",
+    "pron": "ˌfeɪz ˈaʊt",
+    "kana": "フェイズ・アウト",
+    "hinshi": "句動詞（phase out）",
+    "ld_pos": "句動詞",
+    "ld_etym": "phase（段階）＋out",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "句動詞"],
+    "meaning_main": "（段階的に）廃止する・徐々に打ち切る（phase out）",
+    "description": "phase out（フェイズ・アウト）は「（制度・製品などを)段階的に廃止する・徐々に打ち切る・だんだんなくしていく」という意味の句動詞。正しくは phase out と2語で書きます。一度にではなく、少しずつ段階を踏んで終わらせることを表します。対義は phase in（段階的に導入する)です。",
+    "keywords": ["phase out 意味", "phase out 使い方", "段階的に廃止 英語", "打ち切る 英語"],
+    "meanings": [
+      { "hinshi": "【句動】（段階的に）廃止する、徐々に打ち切る", "note": "少しずつ終わらせる。対義は phase in。" },
+      { "hinshi": "【句動】だんだんなくしていく", "note": "phase out a product（製品を徐々に生産終了する）。" }
+    ],
+    "usages": [
+      { "title": "① 段階的に廃止する", "desc": "少しずつ打ち切る。", "example_en": "The company will phase out the old model.", "example_ja": "その会社は旧モデルを段階的に生産終了する。" },
+      { "title": "② 徐々になくす", "desc": "だんだん終わらせる。", "example_en": "Subsidies are being phased out.", "example_ja": "補助金は段階的に廃止されつつある。" }
+    ],
+    "warn": ["リンクの都合で phaseout とつなげて書かれますが、句動詞は phase out（2語）です（名詞 phase-out は別）。", "一度にやめる cancel と違い、『段階を踏んで徐々に』廃止する点が核。対義は phase in（段階的導入）。"],
+    "etym_note": "phase（段階）＋ out による句動詞。「段階を踏んで外へ→徐々に廃止する」。",
+    "etym_chain": [
+      { "node": "phase out", "sub": "段階的に廃止する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "phase out", "ja": "段階的に廃止する" },
+      { "en": "phase out a product", "ja": "製品を徐々に生産終了する" },
+      { "en": "be phased out", "ja": "段階的に廃止される" },
+      { "en": "phase out subsidies", "ja": "補助金を徐々に打ち切る" },
+      { "en": "gradually phase out", "ja": "少しずつ廃止する" },
+      { "en": "phase out fossil fuels", "ja": "化石燃料を段階的に廃止する" }
+    ],
+    "related": [
+      { "en": "phase in", "ja": "段階的に導入する（対義）" },
+      { "en": "discontinue", "ja": "（製造・販売を）打ち切る" },
+      { "en": "wind down", "ja": "徐々に縮小する" },
+      { "en": "scrap", "ja": "廃止する" }
+    ],
+    "faq": [
+      { "q": "phase out の意味は？", "a": "『（制度・製品などを)段階的に廃止する・徐々に打ち切る・だんだんなくしていく』という意味です。少しずつ段階を踏んで終わらせます。" },
+      { "q": "対義語は？", "a": "phase in（段階的に導入する・徐々に取り入れる）です。" }
+    ],
+    "quiz": [
+      { "q": "phase out the old model の意味は？", "A": "旧モデルを段階的に生産終了する", "B": "旧モデルを再発売する", "C": "旧モデルを値上げする", "D": "旧モデルを改良する", "correct": "A" },
+      { "q": "phase out の対義語は？", "A": "phase in", "B": "phase up", "C": "phase on", "D": "phase off", "correct": "A" }
+    ]
+  },
+  {
+    "english": "optfor",
+    "pron": "ˌɑːpt ˈfɔːr",
+    "kana": "オプト・フォー",
+    "hinshi": "句動詞（opt for）",
+    "ld_pos": "句動詞",
+    "ld_etym": "opt（選ぶ）＋for",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "句動詞"],
+    "meaning_main": "（複数の中から）〜を選ぶ・〜のほうにする（opt for）",
+    "description": "opt for（オプト・フォー）は「（複数の選択肢の中から)〜を選ぶ・〜のほうを選択する・〜にする」という意味の句動詞。正しくは opt for と2語で書きます。choose よりややかたく、意識的に選び取るニュアンスがあります。opt to do（〜することを選ぶ)の形もあります。",
+    "keywords": ["opt for 意味", "opt for 使い方", "選ぶ 英語", "選択する 英語"],
+    "meanings": [
+      { "hinshi": "【句動】（複数の中から）〜を選ぶ、〜のほうにする", "note": "意識的に選び取る。choose よりかたい。" },
+      { "hinshi": "【句動】〜を選択する", "note": "opt to do（〜することを選ぶ）も。" }
+    ],
+    "usages": [
+      { "title": "① 〜のほうを選ぶ", "desc": "選択肢から選ぶ。", "example_en": "Many customers opt for the cheaper plan.", "example_ja": "多くの客は安いほうのプランを選ぶ。" },
+      { "title": "② 〜することを選ぶ", "desc": "opt to do。", "example_en": "She opted to stay home.", "example_ja": "彼女は家にいることを選んだ。" }
+    ],
+    "warn": ["リンクの都合で optfor とつなげて書かれますが、正しくは opt for（2語）です。", "『〜を選ぶ』は opt for 〜（名詞）、『〜することを選ぶ』は opt to do。opt out of 〜（〜から抜ける)も関連表現。"],
+    "etym_note": "opt（選ぶ、ラテン語 optare＝選ぶ由来）＋ for による句動詞。「〜を求めて選ぶ」。",
+    "etym_chain": [
+      { "node": "optare", "sub": "選ぶ・望む", "era": "ラテン語" },
+      { "node": "opt for", "sub": "〜を選ぶ", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "opt for", "ja": "〜を選ぶ" },
+      { "en": "opt for the cheaper option", "ja": "安いほうを選ぶ" },
+      { "en": "opt to do", "ja": "〜することを選ぶ" },
+      { "en": "opt out of", "ja": "〜から抜ける、参加しない" },
+      { "en": "choose to opt for", "ja": "あえて〜を選ぶ" },
+      { "en": "opt for simplicity", "ja": "簡素さを選ぶ" }
+    ],
+    "related": [
+      { "en": "choose", "ja": "選ぶ" },
+      { "en": "select", "ja": "選ぶ、選択する" },
+      { "en": "go for", "ja": "〜を選ぶ" },
+      { "en": "opt out", "ja": "抜ける、参加しない" }
+    ],
+    "faq": [
+      { "q": "opt for の意味は？", "a": "『（複数の選択肢の中から)〜を選ぶ・〜のほうにする・〜を選択する』という意味です。choose よりややかたい語です。" },
+      { "q": "opt to と opt for の違いは？", "a": "opt for のあとは名詞（opt for the plan)、opt to のあとは動詞（opt to stay)です。" }
+    ],
+    "quiz": [
+      { "q": "opt for the cheaper plan の意味は？", "A": "安いほうのプランを選ぶ", "B": "プランを断る", "C": "プランを変更する", "D": "プランを作る", "correct": "A" },
+      { "q": "opt for の後にくるのは？", "A": "名詞（選ぶもの）", "B": "動詞の原形", "C": "場所", "D": "時刻", "correct": "A" }
+    ]
+  },
+  {
+    "english": "pinefor",
+    "pron": "ˌpaɪn ˈfɔːr",
+    "kana": "パイン・フォー",
+    "hinshi": "句動詞（pine for）",
+    "ld_pos": "句動詞",
+    "ld_etym": "pine（思いこがれる）＋for",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "句動詞"],
+    "meaning_main": "〜を切望する・（いないものを）恋しく思い焦がれる（pine for）",
+    "description": "pine for（パイン・フォー）は「〜を切望する・（手の届かないもの・いない人を)恋しく思い焦がれる・慕い焦がれる」という意味の句動詞。正しくは pine for と2語で書きます。失ったものや遠い存在を、つらいほど恋しく思う気持ちを表す文語的な語です。",
+    "keywords": ["pine for 意味", "pine for 使い方", "恋しく思う 英語", "思い焦がれる 英語"],
+    "meanings": [
+      { "hinshi": "【句動】〜を切望する、恋しく思い焦がれる", "note": "手の届かないものを慕う。文語的。" },
+      { "hinshi": "【句動】（いない人を）慕い焦がれる", "note": "pine for home（故郷を恋しがる）。" }
+    ],
+    "usages": [
+      { "title": "① 人を恋しく思う", "desc": "慕い焦がれる。", "example_en": "She pined for her lost love.", "example_ja": "彼女は失った恋人を恋しく思い焦がれた。" },
+      { "title": "② 故郷などを切望する", "desc": "恋しがる。", "example_en": "He pined for the countryside.", "example_ja": "彼はいなかを恋しがった。" }
+    ],
+    "warn": ["リンクの都合で pinefor とつなげて書かれますが、正しくは pine for（2語）です。", "『手の届かないもの・失ったものを、つらいほど恋しく思う』文語的な語。松の木 pine とは別の動詞用法。"],
+    "etym_note": "動詞 pine（やつれるほど思いこがれる、古英語 pīnian＝苦しむ由来）＋ for による句動詞。「苦しいほど〜を恋しがる」。",
+    "etym_chain": [
+      { "node": "pīnian", "sub": "苦しむ", "era": "古英語" },
+      { "node": "pine for", "sub": "恋しく思い焦がれる", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "pine for", "ja": "〜を恋しく思い焦がれる" },
+      { "en": "pine for home", "ja": "故郷を恋しがる" },
+      { "en": "pine for someone", "ja": "〜を慕い焦がれる" },
+      { "en": "pine for the past", "ja": "過去を懐かしく思う" },
+      { "en": "pine away", "ja": "恋い焦がれてやつれる" },
+      { "en": "secretly pine for", "ja": "ひそかに〜を恋しがる" }
+    ],
+    "related": [
+      { "en": "long for", "ja": "〜を切望する" },
+      { "en": "yearn for", "ja": "〜を強く望む、慕う" },
+      { "en": "crave", "ja": "切望する" },
+      { "en": "miss", "ja": "恋しく思う" }
+    ],
+    "faq": [
+      { "q": "pine for の意味は？", "a": "『〜を切望する・（手の届かないもの・いない人を)恋しく思い焦がれる・慕い焦がれる』という意味の、文語的な語です。" },
+      { "q": "long for とどう違う？", "a": "どちらも『切望する』ですが、pine for は『やつれるほどつらく恋しがる』という切なさが強く、より文学的です。" }
+    ],
+    "quiz": [
+      { "q": "pine for home の意味は？", "A": "故郷を恋しく思い焦がれる", "B": "故郷を離れる", "C": "故郷を嫌う", "D": "故郷を建てる", "correct": "A" },
+      { "q": "pine for の意味に近いのは？", "A": "恋しく思い焦がれる", "B": "忘れる", "C": "拒む", "D": "急ぐ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "bankon",
+    "pron": "ˌbæŋk ˈɑːn",
+    "kana": "バンク・オン",
+    "hinshi": "句動詞（bank on）",
+    "ld_pos": "句動詞",
+    "ld_etym": "bank（銀行に預ける）＋on",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "句動詞"],
+    "meaning_main": "〜を当てにする・頼りにする・（起こると）あてにして期待する（bank on）",
+    "description": "bank on（バンク・オン）は「〜を当てにする・頼りにする・（確実だと見込んで)あてにして期待する」という意味の句動詞。正しくは bank on と2語で書きます。銀行にお金を預けて信頼するように、何かが確実に起こる・うまくいくと見込むことを表します。",
+    "keywords": ["bank on 意味", "bank on 使い方", "当てにする 英語", "頼りにする 英語"],
+    "meanings": [
+      { "hinshi": "【句動】〜を当てにする、頼りにする", "note": "確実だと見込んで期待する。" },
+      { "hinshi": "【句動】（起こると）あてにする", "note": "bank on 〜 (to do / doing / that節)。" }
+    ],
+    "usages": [
+      { "title": "① 〜を当てにする", "desc": "確実と見込む。", "example_en": "Don't bank on the weather staying fine.", "example_ja": "天気が晴れのままだと当てにしないほうがいい。" },
+      { "title": "② 人を頼りにする", "desc": "あてにする。", "example_en": "We're banking on you to help.", "example_ja": "あなたの助けを当てにしています。" }
+    ],
+    "warn": ["リンクの都合で bankon とつなげて書かれますが、正しくは bank on（2語）です。", "『確実だと見込んで当てにする』。count on / rely on とほぼ同義。否定文 Don't bank on it（当てにしないで)も頻出。"],
+    "etym_note": "bank（銀行にお金を預ける＝信頼して託す）＋ on による句動詞。「預けて頼る→当てにする」。",
+    "etym_chain": [
+      { "node": "bank on", "sub": "当てにする", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "bank on", "ja": "〜を当てにする" },
+      { "en": "don't bank on it", "ja": "それを当てにしないで" },
+      { "en": "bank on someone", "ja": "〜を頼りにする" },
+      { "en": "bank on a win", "ja": "勝利を見込む" },
+      { "en": "bank on support", "ja": "支援を当てにする" },
+      { "en": "can't bank on", "ja": "〜は当てにできない" }
+    ],
+    "related": [
+      { "en": "count on", "ja": "〜を当てにする" },
+      { "en": "rely on", "ja": "〜に頼る" },
+      { "en": "depend on", "ja": "〜に頼る、次第である" },
+      { "en": "bet on", "ja": "〜に賭ける、見込む" }
+    ],
+    "faq": [
+      { "q": "bank on の意味は？", "a": "『〜を当てにする・頼りにする・（確実だと見込んで)あてにして期待する』という意味です。count on / rely on とほぼ同義です。" },
+      { "q": "Don't bank on it. とは？", "a": "『それを当てにしないほうがいい・そうなるとは限らない』という、くだけた定番表現です。" }
+    ],
+    "quiz": [
+      { "q": "bank on someone の意味は？", "A": "〜を頼りにする、当てにする", "B": "〜を疑う", "C": "〜を無視する", "D": "〜を責める", "correct": "A" },
+      { "q": "Don't bank on it. の意味は？", "A": "それを当てにしないで", "B": "それを信じて", "C": "それを買って", "D": "それを売って", "correct": "A" }
+    ]
+  },
+  {
+    "english": "counton",
+    "pron": "ˌkaʊnt ˈɑːn",
+    "kana": "カウント・オン",
+    "hinshi": "句動詞（count on）",
+    "ld_pos": "句動詞",
+    "ld_etym": "count（数に入れる）＋on",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "句動詞"],
+    "meaning_main": "〜を当てにする・頼りにする・（確実だと）期待する（count on）",
+    "description": "count on（カウント・オン）は「〜を当てにする・頼りにする・（確実に起こると)期待する・信頼する」という意味の句動詞。正しくは count on と2語で書きます。困ったときに頼れる、確実だと信じて当てにする気持ちを表す基本・重要表現です。You can count on me.（任せて)が定番です。",
+    "keywords": ["count on 意味", "count on 使い方", "頼りにする 英語", "当てにする 英語"],
+    "meanings": [
+      { "hinshi": "【句動】〜を当てにする、頼りにする", "note": "困ったとき頼れる。信頼する。" },
+      { "hinshi": "【句動】（確実だと）期待する", "note": "count on 〜 (to do / doing / that節)。" }
+    ],
+    "usages": [
+      { "title": "① 人を頼りにする", "desc": "信頼して当てにする。", "example_en": "You can count on me.", "example_ja": "私に任せて（頼りにしていいよ）。" },
+      { "title": "② 確実だと期待する", "desc": "見込む。", "example_en": "We can't count on good weather.", "example_ja": "良い天気を当てにはできない。" }
+    ],
+    "warn": ["リンクの都合で counton とつなげて書かれますが、正しくは count on（2語）です。", "You can count on me.（任せて・頼りにしていいよ)は最頻出。count on 〜 to do（〜が…してくれると当てにする)も。"],
+    "etym_note": "count（数に入れる・計算に入れる）＋ on による句動詞。「計算に入れる→当てにする」。",
+    "etym_chain": [
+      { "node": "count on", "sub": "当てにする・頼りにする", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "count on", "ja": "〜を当てにする、頼りにする" },
+      { "en": "you can count on me", "ja": "私に任せて" },
+      { "en": "count on someone to do", "ja": "〜が…してくれると当てにする" },
+      { "en": "count on support", "ja": "支援を当てにする" },
+      { "en": "can't count on", "ja": "〜は当てにできない" },
+      { "en": "count on it", "ja": "それは確実だ、当てにしていい" }
+    ],
+    "related": [
+      { "en": "rely on", "ja": "〜に頼る" },
+      { "en": "depend on", "ja": "〜に頼る" },
+      { "en": "bank on", "ja": "〜を当てにする" },
+      { "en": "trust", "ja": "信頼する" }
+    ],
+    "faq": [
+      { "q": "count on の意味は？", "a": "『〜を当てにする・頼りにする・（確実だと)期待する・信頼する』という意味の基本表現です。You can count on me.（任せて)が定番です。" },
+      { "q": "rely on と同じ？", "a": "ほぼ同義です。どちらも『〜に頼る・当てにする』で、日常では count on のほうがくだけてよく使われます。" }
+    ],
+    "quiz": [
+      { "q": "You can count on me. の意味は？", "A": "私を頼りにしていいよ", "B": "私を数えて", "C": "私を無視して", "D": "私を疑って", "correct": "A" },
+      { "q": "count on の意味に近いのは？", "A": "当てにする・頼りにする", "B": "見捨てる", "C": "疑う", "D": "断る", "correct": "A" }
+    ]
+  },
+  {
+    "english": "touchon",
+    "pron": "ˌtʌtʃ ˈɑːn",
+    "kana": "タッチ・オン",
+    "hinshi": "句動詞（touch on）",
+    "ld_pos": "句動詞",
+    "ld_etym": "touch（触れる）＋on",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "句動詞"],
+    "meaning_main": "（話・文章で）〜に軽く触れる・簡単に言及する（touch on）",
+    "description": "touch on（タッチ・オン）は「（話・文章で)〜に軽く触れる・簡単に言及する・ちょっと取り上げる」という意味の句動詞。正しくは touch on と2語で書きます（touch upon とも)。深く扱うのではなく、さらっと話題にする様子を表します。",
+    "keywords": ["touch on 意味", "touch on 使い方", "軽く触れる 英語", "言及する 英語"],
+    "meanings": [
+      { "hinshi": "【句動】（話・文章で）〜に軽く触れる、簡単に言及する", "note": "さらっと話題にする。touch upon とも。" },
+      { "hinshi": "【句動】ちょっと取り上げる", "note": "深く扱わずに触れる。" }
+    ],
+    "usages": [
+      { "title": "① 軽く触れる", "desc": "さらっと言及。", "example_en": "The report only touches on the issue.", "example_ja": "その報告はその問題に軽く触れているだけだ。" },
+      { "title": "② ちょっと取り上げる", "desc": "簡単に述べる。", "example_en": "She touched on several topics in her speech.", "example_ja": "彼女はスピーチでいくつかの話題に軽く触れた。" }
+    ],
+    "warn": ["リンクの都合で touchon とつなげて書かれますが、正しくは touch on（2語）です（touch upon も可）。", "『深く論じる』のではなく『さらっと軽く触れる』のがポイント。discuss（じっくり論じる)とは対照的。"],
+    "etym_note": "touch（触れる）＋ on による句動詞。「（話題に)ちょっと触れる→軽く言及する」。",
+    "etym_chain": [
+      { "node": "touch on", "sub": "軽く触れる", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "touch on", "ja": "〜に軽く触れる" },
+      { "en": "touch on a topic", "ja": "話題に軽く触れる" },
+      { "en": "briefly touch on", "ja": "手短に触れる" },
+      { "en": "touch on the issue", "ja": "その問題に言及する" },
+      { "en": "only touch on", "ja": "〜に軽く触れるだけ" },
+      { "en": "touch upon", "ja": "〜に軽く触れる（= touch on）" }
+    ],
+    "related": [
+      { "en": "mention", "ja": "言及する" },
+      { "en": "refer to", "ja": "〜に言及する" },
+      { "en": "allude to", "ja": "それとなく触れる" },
+      { "en": "bring up", "ja": "話題に出す" }
+    ],
+    "faq": [
+      { "q": "touch on の意味は？", "a": "『（話・文章で)〜に軽く触れる・簡単に言及する・ちょっと取り上げる』という意味です。深く扱わずさらっと話題にします。" },
+      { "q": "discuss とどう違う？", "a": "discuss は『じっくり論じる』、touch on は『軽くさらっと触れるだけ』で、扱いの深さが対照的です。" }
+    ],
+    "quiz": [
+      { "q": "touch on a topic の意味は？", "A": "話題に軽く触れる", "B": "話題を深く論じる", "C": "話題を避ける", "D": "話題を決める", "correct": "A" },
+      { "q": "touch on の意味に近いのは？", "A": "軽く言及する", "B": "詳しく論じる", "C": "無視する", "D": "暗記する", "correct": "A" }
+    ]
+  },
+  {
+    "english": "dwellon",
+    "pron": "ˌdwel ˈɑːn",
+    "kana": "ドウェル・オン",
+    "hinshi": "句動詞（dwell on）",
+    "ld_pos": "句動詞",
+    "ld_etym": "dwell（とどまる）＋on",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "句動詞"],
+    "meaning_main": "（特に嫌なことを）くよくよ考える・長々と述べ続ける（dwell on）",
+    "description": "dwell on（ドウェル・オン）は「（特に不快なこと・過去を)くよくよ考え続ける・いつまでも思い悩む」「（一つのことを)長々と述べ続ける・こだわる」という意味の句動詞。正しくは dwell on と2語で書きます（dwell upon とも)。ある事柄に心をとどめて離れない様子を表します。",
+    "keywords": ["dwell on 意味", "dwell on 使い方", "くよくよ考える 英語", "こだわる 英語"],
+    "meanings": [
+      { "hinshi": "【句動】（嫌なことを）くよくよ考える、思い悩む", "note": "いつまでも気にして離れない。" },
+      { "hinshi": "【句動】（一つのことを）長々と述べ続ける、こだわる", "note": "dwell upon とも。" }
+    ],
+    "usages": [
+      { "title": "① くよくよ考える", "desc": "思い悩む。", "example_en": "Don't dwell on your mistakes.", "example_ja": "自分の失敗をくよくよ考えないで。" },
+      { "title": "② 長々とこだわる", "desc": "述べ続ける。", "example_en": "He dwelt on the problem for an hour.", "example_ja": "彼はその問題を一時間も長々と論じ続けた。" }
+    ],
+    "warn": ["リンクの都合で dwellon とつなげて書かれますが、正しくは dwell on（2語）です（dwell upon も可）。", "特に『嫌なこと・過去をいつまでも気にしてくよくよする』否定的な含みで使うことが多い。Don't dwell on it（くよくよしないで）。"],
+    "etym_note": "dwell（（場所に)とどまる・住む）＋ on による句動詞。「（心が)そこにとどまる→くよくよ考える」。",
+    "etym_chain": [
+      { "node": "dwell on", "sub": "くよくよ考える・長々と述べる", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "dwell on", "ja": "〜をくよくよ考える" },
+      { "en": "don't dwell on it", "ja": "くよくよしないで" },
+      { "en": "dwell on the past", "ja": "過去にこだわる" },
+      { "en": "dwell on mistakes", "ja": "失敗をくよくよ考える" },
+      { "en": "dwell on the negative", "ja": "悪いことばかり考える" },
+      { "en": "no need to dwell on", "ja": "〜に長々とこだわる必要はない" }
+    ],
+    "related": [
+      { "en": "brood over", "ja": "くよくよ思い悩む" },
+      { "en": "obsess over", "ja": "〜に取りつかれる" },
+      { "en": "fixate on", "ja": "〜に固執する" },
+      { "en": "ruminate", "ja": "思いめぐらす、反すうする" }
+    ],
+    "faq": [
+      { "q": "dwell on の意味は？", "a": "『（嫌なこと・過去を)くよくよ考え続ける・思い悩む』『（一つのことを)長々と述べ続ける・こだわる』という意味です。" },
+      { "q": "Don't dwell on it. とは？", "a": "『それをくよくよ考えないで・気にしすぎないで』という、励ましの定番表現です。" }
+    ],
+    "quiz": [
+      { "q": "dwell on your mistakes の意味は？", "A": "失敗をくよくよ考える", "B": "失敗を忘れる", "C": "失敗を直す", "D": "失敗を隠す", "correct": "A" },
+      { "q": "Don't dwell on it. の意味は？", "A": "くよくよしないで", "B": "もっと考えて", "C": "それを書いて", "D": "それを調べて", "correct": "A" }
+    ]
+  }
+]
