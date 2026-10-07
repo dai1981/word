@@ -1,0 +1,975 @@
+[
+  {
+    "english": "emulate",
+    "pron": "ˈemjuleɪt",
+    "kana": "エミュレイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 aemulari（張り合う）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "書き言葉"],
+    "meaning_main": "（手本として）見習う・まねる・（しのごうと）張り合う／（機器を）エミュレートする",
+    "description": "emulate（エミュレイト）は「（すぐれた人・ものを手本として)見習う・まねる・（追いつこう・しのごうと)張り合う」という意味の動詞。単にまねるだけでなく、それに並ぶ・超えようと努力するニュアンスを含みます。ITでは『（別の機器・環境を)エミュレートする（模倣して再現する)』の意味でも使います。",
+    "keywords": ["emulate 意味", "emulate 使い方", "見習う 英語", "まねる 英語"],
+    "meanings": [
+      { "hinshi": "【動】（手本として）見習う、まねる、張り合う", "note": "並ぶ・超えようと努力する。" },
+      { "hinshi": "【動】（機器・環境を）エミュレートする", "note": "IT。模倣して再現する。" }
+    ],
+    "usages": [
+      { "title": "① 見習う", "desc": "手本にする。", "example_en": "He tried to emulate his hero.", "example_ja": "彼は憧れの人を見習おうとした。" },
+      { "title": "② エミュレートする", "desc": "IT。", "example_en": "The software emulates an old console.", "example_ja": "そのソフトは古いゲーム機を再現する。" }
+    ],
+    "warn": ["単なる imitate（まねる)と違い、emulate は『手本に並ぶ・超えようと努力する』前向きなニュアンス。", "名詞は emulation（模倣・競争）。ITの emulator（エミュレーター)も関連。"],
+    "etym_note": "ラテン語 aemulari（張り合う、aemulus＝競争相手由来）に由来。「張り合う→見習う」。",
+    "etym_chain": [
+      { "node": "aemulari", "sub": "張り合う", "era": "ラテン語" },
+      { "node": "emulate", "sub": "見習う・まねる", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "emulate a role model", "ja": "手本を見習う" },
+      { "en": "emulate success", "ja": "成功にならう" },
+      { "en": "seek to emulate", "ja": "見習おうとする" },
+      { "en": "emulate the masters", "ja": "巨匠に学ぶ" },
+      { "en": "emulate a system", "ja": "システムを再現する" },
+      { "en": "worthy of emulation", "ja": "見習うに値する" }
+    ],
+    "related": [
+      { "en": "imitate", "ja": "まねる" },
+      { "en": "copy", "ja": "まねる、複製する" },
+      { "en": "mimic", "ja": "まねる" },
+      { "en": "rival", "ja": "張り合う、匹敵する" }
+    ],
+    "faq": [
+      { "q": "emulate の意味は？", "a": "『（すぐれた人・ものを手本として)見習う・まねる・張り合う』という意味です。それに並ぶ・超えようと努力するニュアンスを含みます。ITでは『エミュレートする（模倣再現する）』の意味もあります。" },
+      { "q": "imitate とどう違う？", "a": "imitate は単に『まねる』、emulate は『手本に並ぶ・超えようと努力してまねる』前向きな語です。" }
+    ],
+    "quiz": [
+      { "q": "emulate his hero の意味は？", "A": "憧れの人を見習う", "B": "憧れの人を批判する", "C": "憧れの人を無視する", "D": "憧れの人を忘れる", "correct": "A" },
+      { "q": "emulate の意味に近いのは？", "A": "見習う・張り合う", "B": "見下す", "C": "拒む", "D": "壊す", "correct": "A" }
+    ]
+  },
+  {
+    "english": "alleviate",
+    "pron": "əˈliːvieɪt",
+    "kana": "アリーヴィエイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 alleviare（軽くする）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "書き言葉"],
+    "meaning_main": "（苦痛・問題を）和らげる・軽減する・緩和する",
+    "description": "alleviate（アリーヴィエイト）は「（苦痛・症状・問題・負担を)和らげる・軽減する・緩和する」という意味の動詞。完全になくすのではなく、つらさや程度を軽くすることを表す、かたい語です。alleviate pain（痛みを和らげる)、alleviate poverty（貧困を緩和する)のように使います。",
+    "keywords": ["alleviate 意味", "alleviate 使い方", "和らげる 英語", "軽減する 英語"],
+    "meanings": [
+      { "hinshi": "【動】（苦痛・問題を）和らげる、軽減する、緩和する", "note": "つらさ・程度を軽くする。完全除去ではない。" },
+      { "hinshi": "【動】（負担を）楽にする", "note": "alleviate the burden（負担を軽くする）。" }
+    ],
+    "usages": [
+      { "title": "① 痛みを和らげる", "desc": "軽減する。", "example_en": "The medicine helps alleviate the pain.", "example_ja": "その薬は痛みを和らげるのに役立つ。" },
+      { "title": "② 問題を緩和する", "desc": "負担を軽く。", "example_en": "measures to alleviate poverty", "example_ja": "貧困を緩和する対策" }
+    ],
+    "warn": ["『完全になくす』のではなく『つらさ・程度を軽くする』。名詞は alleviation（軽減・緩和）。", "relieve（和らげる)とほぼ同義のかたい語。alleviate pain / suffering / poverty が頻出。"],
+    "etym_note": "ラテン語 alleviare（ad-＋ levis＝軽い）に由来。「軽くする→和らげる」。",
+    "etym_chain": [
+      { "node": "alleviare", "sub": "軽くする", "era": "ラテン語" },
+      { "node": "alleviate", "sub": "和らげる", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "alleviate pain", "ja": "痛みを和らげる" },
+      { "en": "alleviate suffering", "ja": "苦しみを和らげる" },
+      { "en": "alleviate poverty", "ja": "貧困を緩和する" },
+      { "en": "alleviate the burden", "ja": "負担を軽くする" },
+      { "en": "help alleviate", "ja": "〜の軽減に役立つ" },
+      { "en": "alleviate symptoms", "ja": "症状を和らげる" }
+    ],
+    "related": [
+      { "en": "relieve", "ja": "和らげる" },
+      { "en": "ease", "ja": "和らげる、楽にする" },
+      { "en": "mitigate", "ja": "緩和する" },
+      { "en": "lessen", "ja": "少なくする" }
+    ],
+    "faq": [
+      { "q": "alleviate の意味は？", "a": "『（苦痛・症状・問題・負担を)和らげる・軽減する・緩和する』という意味のかたい語です。完全になくすのではなく、程度を軽くすることを表します。" },
+      { "q": "mitigate とどう違う？", "a": "どちらも『和らげる・緩和する』ですが、alleviate は『（苦痛・つらさを)楽にする』、mitigate は『（悪影響・深刻さを)軽減する』にやや重点があります。" }
+    ],
+    "quiz": [
+      { "q": "alleviate the pain の意味は？", "A": "痛みを和らげる", "B": "痛みを増す", "C": "痛みを無視する", "D": "痛みを記録する", "correct": "A" },
+      { "q": "alleviate の意味に近いのは？", "A": "和らげる・軽減する", "B": "悪化させる", "C": "固定する", "D": "複製する", "correct": "A" }
+    ]
+  },
+  {
+    "english": "precipitate",
+    "pron": "prɪˈsɪpɪteɪt",
+    "kana": "プリシピテイト",
+    "hinshi": "動詞 / 形容詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 praecipitare（まっさかさまに落とす）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "書き言葉"],
+    "meaning_main": "（動）（悪い事態を）引き起こす・早める／（形）性急な／（化学で）沈殿する",
+    "description": "precipitate（プリシピテイト）は、動詞で「（悪い事態・危機を)急に引き起こす・早める」「（化学で)沈殿させる・沈殿する」、形容詞（発音は -tət）で「性急な・軽率な」という意味の語。多くは『突然・急に(悪いことを)引き起こす』の意味で使う、かたい語です。",
+    "keywords": ["precipitate 意味", "precipitate 使い方", "引き起こす 英語", "性急な 英語"],
+    "meanings": [
+      { "hinshi": "【動】（悪い事態を）急に引き起こす、早める", "note": "危機・崩壊などを招く。" },
+      { "hinshi": "【動】（化学で）沈殿させる、沈殿する", "note": "溶液から固体が分離する。" },
+      { "hinshi": "【形】性急な、軽率な", "note": "発音は -tət。a precipitate decision。" }
+    ],
+    "usages": [
+      { "title": "① 事態を引き起こす", "desc": "急に招く。", "example_en": "The scandal precipitated a crisis.", "example_ja": "そのスキャンダルは危機を招いた。" },
+      { "title": "② 性急な（形容詞）", "desc": "軽率な。", "example_en": "a precipitate decision", "example_ja": "性急な決定" }
+    ],
+    "warn": ["動詞は『（悪い事態を)急に引き起こす』が中心。化学では『沈殿（させる)』。形容詞『性急な』は発音が -tət と変わる。", "名詞 precipitation は『降水（量)』や『沈殿』の意味。混同に注意。"],
+    "etym_note": "ラテン語 praecipitare（prae-＋ caput＝頭→まっさかさまに落とす）に由来。「急に落とす→急に引き起こす」。",
+    "etym_chain": [
+      { "node": "praecipitare", "sub": "まっさかさまに落とす", "era": "ラテン語" },
+      { "node": "precipitate", "sub": "引き起こす・性急な", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "precipitate a crisis", "ja": "危機を招く" },
+      { "en": "precipitate a conflict", "ja": "争いを引き起こす" },
+      { "en": "precipitate change", "ja": "急激な変化を招く" },
+      { "en": "a precipitate decision", "ja": "性急な決定" },
+      { "en": "precipitate out", "ja": "（化学で）沈殿する" },
+      { "en": "precipitate the collapse", "ja": "崩壊を早める" }
+    ],
+    "related": [
+      { "en": "trigger", "ja": "引き起こす" },
+      { "en": "cause", "ja": "引き起こす" },
+      { "en": "hasty", "ja": "性急な（形容詞）" },
+      { "en": "precipitation", "ja": "降水／沈殿（名詞）" }
+    ],
+    "faq": [
+      { "q": "precipitate の意味は？", "a": "動詞で『（悪い事態・危機を)急に引き起こす・早める』、化学で『沈殿させる』、形容詞で『性急な・軽率な』という意味です。" },
+      { "q": "precipitation との違いは？", "a": "precipitation は名詞で『降水（量）』や『沈殿』の意味です。動詞 precipitate（引き起こす・沈殿させる)とは品詞・意味が異なります。" }
+    ],
+    "quiz": [
+      { "q": "precipitate a crisis の意味は？", "A": "危機を（急に）引き起こす", "B": "危機を回避する", "C": "危機を予測する", "D": "危機を終わらせる", "correct": "A" },
+      { "q": "形容詞 precipitate の意味は？", "A": "性急な・軽率な", "B": "慎重な", "C": "正確な", "D": "寛大な", "correct": "A" }
+    ]
+  },
+  {
+    "english": "inextricably",
+    "pron": "ˌɪnɪkˈstrɪkəbli",
+    "kana": "インエクストリカブリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "in-（否定）＋extricable（解ける）＋-ly",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "書き言葉"],
+    "meaning_main": "切り離せないほど・ほどけないほど密接に・不可分に",
+    "description": "inextricably（インエクストリカブリー）は「切り離せないほど・ほどけないほど密接に・分かちがたく・不可分に」という意味の副詞。二つ以上のものが固く結びついて、切り離すことができない様子を表す、かたい語です。inextricably linked（切っても切れないほど結びついて)が定番です。",
+    "keywords": ["inextricably 意味", "inextricably 使い方", "切り離せない 英語", "不可分に 英語"],
+    "meanings": [
+      { "hinshi": "【副】切り離せないほど、分かちがたく", "note": "固く結びついて。inextricably linked。" },
+      { "hinshi": "【副】ほどけないほど密接に", "note": "もつれて解けない。" }
+    ],
+    "usages": [
+      { "title": "① 切り離せないほど結びついて", "desc": "inextricably linked。", "example_en": "The two issues are inextricably linked.", "example_ja": "その二つの問題は切っても切れないほど結びついている。" },
+      { "title": "② 分かちがたく", "desc": "不可分に。", "example_en": "inextricably bound up with", "example_ja": "〜と分かちがたく結びついて" }
+    ],
+    "warn": ["in-（否定）＋ extricable（解ける）＋ -ly。『解けない・切り離せないほど』。inextricably linked / bound / intertwined が定番。", "形容詞は inextricable（解きほぐせない）。動詞 extricate は『（もつれから)救い出す』。"],
+    "etym_note": "in-（否定）＋ extricable（extricare＝もつれを解く由来）＋ -ly に由来。「解きほぐせないほど」。",
+    "etym_chain": [
+      { "node": "extricare", "sub": "もつれを解く", "era": "ラテン語" },
+      { "node": "inextricably", "sub": "切り離せないほど", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "inextricably linked", "ja": "切っても切れないほど結びついて" },
+      { "en": "inextricably bound up with", "ja": "〜と分かちがたく結びついて" },
+      { "en": "inextricably intertwined", "ja": "固く絡み合って" },
+      { "en": "inextricably connected", "ja": "密接につながって" },
+      { "en": "inextricably tied to", "ja": "〜と切り離せず結びついて" },
+      { "en": "become inextricably", "ja": "切り離せないほどになる" }
+    ],
+    "related": [
+      { "en": "inextricable", "ja": "解きほぐせない（形容詞）" },
+      { "en": "intertwined", "ja": "絡み合った" },
+      { "en": "inseparably", "ja": "切り離せないほど" },
+      { "en": "intrinsically", "ja": "本質的に" }
+    ],
+    "faq": [
+      { "q": "inextricably の意味は？", "a": "『切り離せないほど・ほどけないほど密接に・分かちがたく・不可分に』という意味の副詞です。inextricably linked（切っても切れないほど結びついて)が定番です。" },
+      { "q": "形容詞形は？", "a": "inextricable（解きほぐせない・切り離せない）です。" }
+    ],
+    "quiz": [
+      { "q": "inextricably linked の意味は？", "A": "切っても切れないほど結びついて", "B": "まったく無関係で", "C": "一時的に関係して", "D": "簡単に分けられて", "correct": "A" },
+      { "q": "inextricably の意味に近いのは？", "A": "分かちがたく・不可分に", "B": "別々に", "C": "ゆるく", "D": "偶然に", "correct": "A" }
+    ]
+  },
+  {
+    "english": "anticipatory",
+    "pron": "ænˈtɪsəpətɔːri",
+    "kana": "アンティシパトリー",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 anticipare（先に取る）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "書き言葉"],
+    "meaning_main": "予期した・先回りの・期待に満ちた",
+    "description": "anticipatory（アンティシパトリー）は「予期した・先回りの・（これから起こることを)見越した・期待に満ちた」という意味の形容詞。何かが起こるのを前もって見越して、それに備えたり待ち望んだりする様子を表す、かたい語です。動詞 anticipate（予期する)の形容詞形です。",
+    "keywords": ["anticipatory 意味", "anticipatory 使い方", "予期した 英語", "先回りの 英語"],
+    "meanings": [
+      { "hinshi": "【形】予期した、先回りの、見越した", "note": "前もって備えた。anticipatory measures。" },
+      { "hinshi": "【形】期待に満ちた", "note": "an anticipatory smile（期待のこもった笑み）。" }
+    ],
+    "usages": [
+      { "title": "① 先回りの", "desc": "見越した。", "example_en": "anticipatory measures against flooding", "example_ja": "洪水に対する先回りの対策" },
+      { "title": "② 期待に満ちた", "desc": "待ち望んで。", "example_en": "an anticipatory hush fell over the crowd", "example_ja": "期待に満ちた静けさが観衆を包んだ" }
+    ],
+    "warn": ["動詞 anticipate（予期する・見越す）、名詞 anticipation（予期・期待）の形容詞形。『前もって見越した・期待に満ちた』。", "preemptive（先制の)に近いが、anticipatory は『待ち望む期待』の意味も含む。"],
+    "etym_note": "ラテン語 anticipare（ante-＝前に ＋ capere＝取る）に由来。「先に取る→予期した」。",
+    "etym_chain": [
+      { "node": "anticipare", "sub": "先に取る", "era": "ラテン語" },
+      { "node": "anticipatory", "sub": "予期した", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "anticipatory measures", "ja": "先回りの対策" },
+      { "en": "anticipatory action", "ja": "予防的な行動" },
+      { "en": "an anticipatory smile", "ja": "期待のこもった笑み" },
+      { "en": "anticipatory excitement", "ja": "期待に満ちた高揚" },
+      { "en": "anticipatory anxiety", "ja": "予期不安" },
+      { "en": "an anticipatory hush", "ja": "期待に満ちた静けさ" }
+    ],
+    "related": [
+      { "en": "anticipate", "ja": "予期する（動詞）" },
+      { "en": "anticipation", "ja": "予期、期待（名詞）" },
+      { "en": "preemptive", "ja": "先制の、予防的な" },
+      { "en": "expectant", "ja": "期待している" }
+    ],
+    "faq": [
+      { "q": "anticipatory の意味は？", "a": "『予期した・先回りの・（これから起こることを)見越した・期待に満ちた』という意味のかたい形容詞です。" },
+      { "q": "動詞・名詞形は？", "a": "動詞は anticipate（予期する・見越す）、名詞は anticipation（予期・期待）です。" }
+    ],
+    "quiz": [
+      { "q": "anticipatory measures の意味は？", "A": "先回りの（予防的な）対策", "B": "事後の対応", "C": "無計画な行動", "D": "過去の記録", "correct": "A" },
+      { "q": "anticipatory の動詞形は？", "A": "anticipate", "B": "antiquate", "C": "anticipare", "D": "anticise", "correct": "A" }
+    ]
+  },
+  {
+    "english": "burgeoning",
+    "pron": "ˈbɜːrdʒənɪŋ",
+    "kana": "バージョニング",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "古フランス語 burjon（芽）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "書き言葉"],
+    "meaning_main": "急成長している・急増している・芽吹きつつある",
+    "description": "burgeoning（バージョニング）は「急成長している・急増している・（勢いよく)発展しつつある・芽吹きつつある」という意味の形容詞。勢いよく伸び盛りで大きくなっていく様子を表す、かたい語です。a burgeoning market（急成長する市場)のように使います。動詞は burgeon（急成長する)です。",
+    "keywords": ["burgeoning 意味", "burgeoning 使い方", "急成長 英語", "急増 英語"],
+    "meanings": [
+      { "hinshi": "【形】急成長している、急増している", "note": "勢いよく大きくなる。a burgeoning market。" },
+      { "hinshi": "【形】芽吹きつつある、発展途上の", "note": "伸び盛りの。" }
+    ],
+    "usages": [
+      { "title": "① 急成長している", "desc": "勢いよく伸びる。", "example_en": "the burgeoning tech industry", "example_ja": "急成長するテクノロジー産業" },
+      { "title": "② 急増している", "desc": "ふくらみつつある。", "example_en": "a burgeoning population", "example_ja": "急増する人口" }
+    ],
+    "warn": ["動詞 burgeon（急成長する・芽吹く）の現在分詞・形容詞。『勢いよく伸び盛り』の前向きなニュアンス。", "growing より『勢いよく・急速に』大きくなる感じが強い。"],
+    "etym_note": "古フランス語 burjon（芽・新芽）に由来。「芽吹く→急成長する」。",
+    "etym_chain": [
+      { "node": "burjon", "sub": "芽", "era": "古フランス語" },
+      { "node": "burgeoning", "sub": "急成長している", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a burgeoning market", "ja": "急成長する市場" },
+      { "en": "the burgeoning industry", "ja": "急成長する産業" },
+      { "en": "a burgeoning population", "ja": "急増する人口" },
+      { "en": "burgeoning demand", "ja": "急増する需要" },
+      { "en": "a burgeoning career", "ja": "伸び盛りのキャリア" },
+      { "en": "burgeoning interest", "ja": "高まりつつある関心" }
+    ],
+    "related": [
+      { "en": "burgeon", "ja": "急成長する（動詞）" },
+      { "en": "booming", "ja": "急成長している" },
+      { "en": "thriving", "ja": "繁栄している" },
+      { "en": "expanding", "ja": "拡大している" }
+    ],
+    "faq": [
+      { "q": "burgeoning の意味は？", "a": "『急成長している・急増している・（勢いよく)発展しつつある・芽吹きつつある』という意味のかたい形容詞です。" },
+      { "q": "growing とどう違う？", "a": "growing は一般的な『成長している』、burgeoning は『勢いよく・急速に伸び盛りで大きくなる』という強い語です。" }
+    ],
+    "quiz": [
+      { "q": "a burgeoning market の意味は？", "A": "急成長する市場", "B": "縮小する市場", "C": "停滞した市場", "D": "閉鎖された市場", "correct": "A" },
+      { "q": "burgeoning の意味に近いのは？", "A": "急成長している", "B": "衰退している", "C": "変わらない", "D": "消えつつある", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reconnaissance",
+    "pron": "rɪˈkɑːnəsns",
+    "kana": "リコネサンス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 reconnaissance（認識・偵察）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "専門"],
+    "meaning_main": "（軍事などの）偵察・事前調査・下見",
+    "description": "reconnaissance（リコネサンス）は「（軍事の)偵察・斥候（せっこう)」という意味の名詞。敵地や現場の情報を前もって探ることを指します。転じて、一般に『事前調査・下見』の意味でも使います。つづりが難しい語で、略して recon とも言います。",
+    "keywords": ["reconnaissance 意味", "reconnaissance 使い方", "偵察 英語", "事前調査 英語"],
+    "meanings": [
+      { "hinshi": "【名】（軍事の）偵察、斥候", "note": "敵地・現場の情報を前もって探る。" },
+      { "hinshi": "【名】事前調査、下見", "note": "略して recon。" }
+    ],
+    "usages": [
+      { "title": "① 偵察", "desc": "軍事。", "example_en": "They sent a plane on a reconnaissance mission.", "example_ja": "彼らは偵察任務に航空機を送った。" },
+      { "title": "② 下見・事前調査", "desc": "情報を探る。", "example_en": "do some reconnaissance before the meeting", "example_ja": "会議の前に下調べをする" }
+    ],
+    "warn": ["つづりが難しい（n が二つ、ss が入る）。略語は recon。発音は『リコネサンス（rɪˈkɑːnəsns）』。", "動詞は reconnoiter（偵察する）。知り合いの recognize（認識する)と同語源。"],
+    "etym_note": "フランス語 reconnaissance（認識・偵察、reconnaître＝再認識する由来）に由来。「（前もって)探り認識すること→偵察」。",
+    "etym_chain": [
+      { "node": "reconnaissance", "sub": "認識・偵察", "era": "フランス語" },
+      { "node": "reconnaissance", "sub": "偵察・事前調査", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a reconnaissance mission", "ja": "偵察任務" },
+      { "en": "aerial reconnaissance", "ja": "空中偵察" },
+      { "en": "do reconnaissance", "ja": "偵察・下見をする" },
+      { "en": "a reconnaissance plane", "ja": "偵察機" },
+      { "en": "carry out reconnaissance", "ja": "偵察を行う" },
+      { "en": "recon (略)", "ja": "reconnaissance の略" }
+    ],
+    "related": [
+      { "en": "scouting", "ja": "偵察、斥候" },
+      { "en": "surveillance", "ja": "監視" },
+      { "en": "survey", "ja": "調査、下見" },
+      { "en": "recon", "ja": "偵察（略語）" }
+    ],
+    "faq": [
+      { "q": "reconnaissance の意味は？", "a": "『（軍事の)偵察・斥候』、転じて『事前調査・下見』という意味です。前もって現場や敵地の情報を探ることを指します。" },
+      { "q": "つづり・略語は？", "a": "reconnaissance（n が二つ、ss を含む)という難しいつづりで、略して recon とも言います。動詞は reconnoiter（偵察する）です。" }
+    ],
+    "quiz": [
+      { "q": "a reconnaissance mission の意味は？", "A": "偵察任務", "B": "救助任務", "C": "輸送任務", "D": "訓練任務", "correct": "A" },
+      { "q": "reconnaissance の略語は？", "A": "recon", "B": "recog", "C": "rec", "D": "reco", "correct": "A" }
+    ]
+  },
+  {
+    "english": "escrow",
+    "pron": "ˈeskroʊ",
+    "kana": "エスクロー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 escroue（証書）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "ビジネス"],
+    "meaning_main": "エスクロー（第三者預託）・（条件成立まで)第三者が預かる仕組み",
+    "description": "escrow（エスクロー）は「エスクロー・第三者預託」という意味の名詞。取引で、お金や証書などを、契約条件が満たされるまで信頼できる第三者が一時的に預かっておく仕組みを指します。不動産やネット取引でよく使われます。in escrow（第三者預託中で)の形で使います。",
+    "keywords": ["escrow 意味", "escrow 使い方", "第三者預託 英語", "エスクロー 英語"],
+    "meanings": [
+      { "hinshi": "【名】エスクロー、第三者預託", "note": "条件成立まで第三者が預かる仕組み。" },
+      { "hinshi": "【名】（第三者が預かる）預託金・預託物", "note": "in escrow（預託中で）。" }
+    ],
+    "usages": [
+      { "title": "① 第三者預託", "desc": "預かる仕組み。", "example_en": "The money is held in escrow.", "example_ja": "その資金は第三者預託されている。" },
+      { "title": "② エスクロー口座", "desc": "預託口座。", "example_en": "an escrow account", "example_ja": "エスクロー口座（預託口座）" }
+    ],
+    "warn": ["『契約条件が満たされるまで第三者が一時的に預かる仕組み』。in escrow（預託中で）、escrow account（エスクロー口座)が頻出。", "不動産・ネット取引・国際取引などで買い手・売り手双方を保護するために使う。"],
+    "etym_note": "古フランス語 escroue（証書・巻物）に由来。「（条件成立まで預ける)証書→第三者預託」。",
+    "etym_chain": [
+      { "node": "escroue", "sub": "証書", "era": "古フランス語" },
+      { "node": "escrow", "sub": "第三者預託", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "in escrow", "ja": "第三者預託中で" },
+      { "en": "an escrow account", "ja": "エスクロー口座" },
+      { "en": "hold in escrow", "ja": "第三者預託する" },
+      { "en": "escrow service", "ja": "エスクローサービス" },
+      { "en": "place funds in escrow", "ja": "資金を預託する" },
+      { "en": "release from escrow", "ja": "預託を解除する" }
+    ],
+    "related": [
+      { "en": "deposit", "ja": "預け金、預ける" },
+      { "en": "trust", "ja": "信託" },
+      { "en": "custody", "ja": "保管、管理" },
+      { "en": "intermediary", "ja": "仲介者、第三者" }
+    ],
+    "faq": [
+      { "q": "escrow の意味は？", "a": "『エスクロー・第三者預託』という意味です。取引で、契約条件が満たされるまでお金や証書を信頼できる第三者が一時的に預かる仕組みを指します。" },
+      { "q": "in escrow とは？", "a": "『（お金などが)第三者預託中で・エスクローに入れられて』という意味です。例：held in escrow（預託されている）。" }
+    ],
+    "quiz": [
+      { "q": "held in escrow の意味は？", "A": "第三者預託されている", "B": "使い果たされた", "C": "返金された", "D": "盗まれた", "correct": "A" },
+      { "q": "escrow の意味に近いのは？", "A": "第三者預託の仕組み", "B": "値引き", "C": "分割払い", "D": "前払い", "correct": "A" }
+    ]
+  },
+  {
+    "english": "interlocutor",
+    "pron": "ˌɪntərˈlɑːkjətər",
+    "kana": "インターロキュター",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 interloqui（間で話す）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "書き言葉"],
+    "meaning_main": "対話の相手・会話の相手／（交渉などの）仲介対話者",
+    "description": "interlocutor（インターロキュター）は「対話の相手・会話の相手・話し相手」という意味の名詞。会話・議論・交渉で、こちらと話す相手方の人を指す、かたい語です。外交・交渉の文脈では『（交渉の)対話相手・窓口』の意味でも使われます。",
+    "keywords": ["interlocutor 意味", "interlocutor 使い方", "対話の相手 英語", "会話の相手 英語"],
+    "meanings": [
+      { "hinshi": "【名】対話の相手、会話の相手、話し相手", "note": "こちらと話す相手方。かたい語。" },
+      { "hinshi": "【名】（交渉などの）対話相手、窓口", "note": "外交・交渉の相手方。" }
+    ],
+    "usages": [
+      { "title": "① 対話の相手", "desc": "話し相手。", "example_en": "She listened carefully to her interlocutor.", "example_ja": "彼女は対話相手の話を注意深く聞いた。" },
+      { "title": "② 交渉の相手方", "desc": "窓口。", "example_en": "a key interlocutor in the talks", "example_ja": "その協議における重要な対話相手" }
+    ],
+    "warn": ["『（こちらと話す)相手方の人』を指すかたい語。日常では the other person / the speaker などで足りる。", "inter-（間）＋ loqui（話す）。loquacious（多弁な）、eloquent（雄弁な)と同語源。"],
+    "etym_note": "ラテン語 interloqui（inter-＝間で ＋ loqui＝話す）に由来。「間で話す人→対話の相手」。",
+    "etym_chain": [
+      { "node": "interloqui", "sub": "間で話す", "era": "ラテン語" },
+      { "node": "interlocutor", "sub": "対話の相手", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "one's interlocutor", "ja": "対話の相手" },
+      { "en": "a key interlocutor", "ja": "重要な対話相手" },
+      { "en": "listen to one's interlocutor", "ja": "相手の話を聞く" },
+      { "en": "a trusted interlocutor", "ja": "信頼できる対話相手" },
+      { "en": "address one's interlocutor", "ja": "対話相手に話しかける" },
+      { "en": "the main interlocutor", "ja": "主要な交渉相手" }
+    ],
+    "related": [
+      { "en": "conversant", "ja": "会話の相手" },
+      { "en": "counterpart", "ja": "相手方" },
+      { "en": "speaker", "ja": "話し手" },
+      { "en": "negotiator", "ja": "交渉者" }
+    ],
+    "faq": [
+      { "q": "interlocutor の意味は？", "a": "『対話の相手・会話の相手・話し相手』という意味のかたい語です。外交・交渉では『（交渉の)対話相手・窓口』の意味でも使います。" },
+      { "q": "どんな場面で使う？", "a": "言語学・哲学・外交などの改まった文脈で『こちらと話す相手方』を指すときに使います。日常会話ではまれです。" }
+    ],
+    "quiz": [
+      { "q": "interlocutor の意味は？", "A": "対話の相手・話し相手", "B": "通訳者", "C": "観客", "D": "司会者", "correct": "A" },
+      { "q": "interlocutor の意味に近いのは？", "A": "会話の相手方", "B": "聴衆", "C": "執筆者", "D": "出版社", "correct": "A" }
+    ]
+  },
+  {
+    "english": "figuratively",
+    "pron": "ˈfɪɡjərətɪvli",
+    "kana": "フィギュラティブリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "figurative（比喩的な）＋-ly",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "書き言葉"],
+    "meaning_main": "比喩的に・たとえとして（文字どおりではなく）",
+    "description": "figuratively（フィギュラティブリー）は「比喩的に・たとえとして・（文字どおりではなく)あやの表現として」という意味の副詞。言葉を文字どおりの意味ではなく、たとえ・あやとして使っていることを示します。対義は literally（文字どおりに）。figuratively speaking（たとえて言えば)が定番です。",
+    "keywords": ["figuratively 意味", "figuratively 使い方", "比喩的に 英語", "たとえとして 英語"],
+    "meanings": [
+      { "hinshi": "【副】比喩的に、たとえとして", "note": "文字どおりではなく、あやとして。対義は literally。" },
+      { "hinshi": "【副】あやの表現として", "note": "figuratively speaking（たとえて言えば）。" }
+    ],
+    "usages": [
+      { "title": "① 比喩的に", "desc": "たとえとして。", "example_en": "I was figuratively drowning in work.", "example_ja": "私は比喩的に言えば仕事に溺れていた。" },
+      { "title": "② たとえて言えば", "desc": "figuratively speaking。", "example_en": "Figuratively speaking, he jumped for joy.", "example_ja": "たとえて言えば、彼は小躍りして喜んだ。" }
+    ],
+    "warn": ["対義は literally（文字どおりに）。『文字どおりではなく、あや・たとえとして』を明示する語。", "形容詞は figurative（比喩的な）。figuratively speaking（たとえて言えば)が定番。"],
+    "etym_note": "figurative（比喩的な、ラテン語 figura＝形・あや由来）＋ -ly に由来。「あやとして→比喩的に」。",
+    "etym_chain": [
+      { "node": "figura", "sub": "形・あや", "era": "ラテン語" },
+      { "node": "figuratively", "sub": "比喩的に", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "figuratively speaking", "ja": "たとえて言えば" },
+      { "en": "speak figuratively", "ja": "比喩的に言う" },
+      { "en": "use figuratively", "ja": "比喩として使う" },
+      { "en": "both literally and figuratively", "ja": "文字どおりにも比喩的にも" },
+      { "en": "mean figuratively", "ja": "比喩の意味で言う" },
+      { "en": "figuratively dead", "ja": "比喩的に言えば死んだも同然" }
+    ],
+    "related": [
+      { "en": "figurative", "ja": "比喩的な（形容詞）" },
+      { "en": "literally", "ja": "文字どおりに（対義）" },
+      { "en": "metaphorically", "ja": "比喩的に" },
+      { "en": "symbolically", "ja": "象徴的に" }
+    ],
+    "faq": [
+      { "q": "figuratively の意味は？", "a": "『比喩的に・たとえとして・（文字どおりではなく)あやの表現として』という意味の副詞です。対義は literally（文字どおりに）です。" },
+      { "q": "figuratively speaking とは？", "a": "『たとえて言えば・比喩的に言えば』という意味の定番表現です。" }
+    ],
+    "quiz": [
+      { "q": "figuratively の対義語は？", "A": "literally（文字どおりに）", "B": "actually", "C": "clearly", "D": "really", "correct": "A" },
+      { "q": "figuratively speaking の意味は？", "A": "たとえて言えば", "B": "正確に言えば", "C": "大声で言えば", "D": "早口で言えば", "correct": "A" }
+    ]
+  },
+  {
+    "english": "perpetual",
+    "pron": "pərˈpetʃuəl",
+    "kana": "パーペチュアル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 perpetuus（絶え間ない）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "書き言葉"],
+    "meaning_main": "絶え間ない・永続する・ひっきりなしの",
+    "description": "perpetual（パーペチュアル）は「絶え間ない・永続する・ひっきりなしの・終わりのない」という意味の形容詞。止まることなくずっと続くことを表します。永久に続くもの（perpetual motion＝永久運動)にも、うんざりするほど続くこと（perpetual complaints＝絶え間ない不平)にも使います。",
+    "keywords": ["perpetual 意味", "perpetual 使い方", "絶え間ない 英語", "永続する 英語"],
+    "meanings": [
+      { "hinshi": "【形】絶え間ない、永続する", "note": "止まることなく続く。" },
+      { "hinshi": "【形】ひっきりなしの、終わりのない", "note": "ときにうんざりする繰り返しにも。" }
+    ],
+    "usages": [
+      { "title": "① 絶え間ない", "desc": "ずっと続く。", "example_en": "the perpetual noise of the city", "example_ja": "絶え間ない都会の騒音" },
+      { "title": "② 永続する", "desc": "終わりがない。", "example_en": "perpetual snow on the mountains", "example_ja": "山々の万年雪" }
+    ],
+    "warn": ["『止まることなくずっと続く』。副詞は perpetually（絶え間なく）、動詞 perpetuate は『（状態を)永続させる』。", "constant（絶え間ない)に近いが、perpetual は『永久に・終わりなく』のニュアンスが強い。"],
+    "etym_note": "ラテン語 perpetuus（絶え間ない、per-＋ petere＝向かう由来）に由来。「ずっと続く→絶え間ない」。",
+    "etym_chain": [
+      { "node": "perpetuus", "sub": "絶え間ない", "era": "ラテン語" },
+      { "node": "perpetual", "sub": "絶え間ない・永続する", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "perpetual motion", "ja": "永久運動" },
+      { "en": "perpetual snow", "ja": "万年雪" },
+      { "en": "a perpetual state of", "ja": "絶え間ない〜の状態" },
+      { "en": "perpetual complaints", "ja": "絶え間ない不平" },
+      { "en": "in perpetual fear", "ja": "絶え間ない恐怖の中で" },
+      { "en": "a perpetual calendar", "ja": "万年暦" }
+    ],
+    "related": [
+      { "en": "constant", "ja": "絶え間ない" },
+      { "en": "eternal", "ja": "永遠の" },
+      { "en": "endless", "ja": "終わりのない" },
+      { "en": "ceaseless", "ja": "絶え間ない" }
+    ],
+    "faq": [
+      { "q": "perpetual の意味は？", "a": "『絶え間ない・永続する・ひっきりなしの・終わりのない』という意味です。止まることなくずっと続くことを表します。" },
+      { "q": "constant とどう違う？", "a": "どちらも『絶え間ない』ですが、perpetual は『永久に・終わりなく続く』というニュアンスがより強い語です。" }
+    ],
+    "quiz": [
+      { "q": "perpetual motion の意味は？", "A": "永久運動", "B": "一時的な動き", "C": "急な動き", "D": "静止", "correct": "A" },
+      { "q": "perpetual の意味に近いのは？", "A": "絶え間ない・永続する", "B": "一時的な", "C": "まれな", "D": "突然の", "correct": "A" }
+    ]
+  },
+  {
+    "english": "certitude",
+    "pron": "ˈsɜːrtɪtuːd",
+    "kana": "サーティテュード",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 certus（確かな）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "書き言葉"],
+    "meaning_main": "確信・確実性・（疑いのない）自信",
+    "description": "certitude（サーティテュード）は「確信・（主観的な)確実性・疑いのない自信」という意味の名詞。何かが正しい・真実だと固く信じて疑わない心の状態を表す、かたい文語的な語です。with certitude（確信をもって)のように使います。",
+    "keywords": ["certitude 意味", "certitude 使い方", "確信 英語", "確実性 英語"],
+    "meanings": [
+      { "hinshi": "【名】確信、（疑いのない）自信", "note": "固く信じて疑わない心の状態。かたい語。" },
+      { "hinshi": "【名】確実性", "note": "with certitude（確信をもって）。" }
+    ],
+    "usages": [
+      { "title": "① 確信", "desc": "疑わない。", "example_en": "He spoke with absolute certitude.", "example_ja": "彼は絶対の確信をもって語った。" },
+      { "title": "② 確実性", "desc": "疑いのなさ。", "example_en": "There is no certitude in life.", "example_ja": "人生に確実なものはない。" }
+    ],
+    "warn": ["certainty（確実性)とほぼ同義のかたい文語的な語。『主観的に固く信じて疑わない確信』のニュアンスが強い。", "with certitude（確信をもって)が定番。形容詞は certain（確かな）。"],
+    "etym_note": "ラテン語 certus（確かな、cernere＝見分ける由来）＋ -itude に由来。「確かさ→確信」。",
+    "etym_chain": [
+      { "node": "certus", "sub": "確かな", "era": "ラテン語" },
+      { "node": "certitude", "sub": "確信", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "with certitude", "ja": "確信をもって" },
+      { "en": "absolute certitude", "ja": "絶対の確信" },
+      { "en": "moral certitude", "ja": "道徳的確信" },
+      { "en": "a sense of certitude", "ja": "確信の感覚" },
+      { "en": "lack certitude", "ja": "確信に欠ける" },
+      { "en": "speak with certitude", "ja": "確信をもって話す" }
+    ],
+    "related": [
+      { "en": "certainty", "ja": "確実性、確信" },
+      { "en": "conviction", "ja": "確信、信念" },
+      { "en": "assurance", "ja": "確信、自信" },
+      { "en": "doubt", "ja": "疑い（対義）" }
+    ],
+    "faq": [
+      { "q": "certitude の意味は？", "a": "『確信・（主観的な)確実性・疑いのない自信』という意味のかたい文語的な語です。with certitude（確信をもって)のように使います。" },
+      { "q": "certainty とどう違う？", "a": "意味はほぼ同じですが、certitude のほうが文語的で、『主観的に固く信じて疑わない確信』のニュアンスが強いです。" }
+    ],
+    "quiz": [
+      { "q": "with certitude の意味は？", "A": "確信をもって", "B": "ためらって", "C": "いやいや", "D": "急いで", "correct": "A" },
+      { "q": "certitude の対義語は？", "A": "doubt（疑い）", "B": "certainty", "C": "conviction", "D": "assurance", "correct": "A" }
+    ]
+  },
+  {
+    "english": "playout",
+    "pron": "ˌpleɪ ˈaʊt",
+    "kana": "プレイ・アウト",
+    "hinshi": "句動詞（play out）",
+    "ld_pos": "句動詞",
+    "ld_etym": "play（行われる）＋out",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "句動詞"],
+    "meaning_main": "（事態が）展開する・成り行く／（最後まで）演じ切る（play out）",
+    "description": "play out（プレイ・アウト）は「（事態・状況が)展開する・成り行く・（ある形で)繰り広げられる」「（最後まで)演じ切る・やり通す」という意味の句動詞。正しくは play out と2語で書きます。多く自動詞で『どう展開するか』という成り行きを表します。多く受け身・自動詞 be played out でも使います。",
+    "keywords": ["play out 意味", "play out 使い方", "展開する 英語", "成り行く 英語"],
+    "meanings": [
+      { "hinshi": "【句動】（事態が）展開する、成り行く、繰り広げられる", "note": "どう進むか。how it plays out（どう展開するか）。" },
+      { "hinshi": "【句動】（最後まで）演じ切る、やり通す", "note": "play out a scene（場面を演じ切る）。" }
+    ],
+    "usages": [
+      { "title": "① 展開する", "desc": "成り行く。", "example_en": "Let's see how things play out.", "example_ja": "物事がどう展開するか見てみよう。" },
+      { "title": "② 繰り広げられる", "desc": "ある形で進む。", "example_en": "The drama played out in public.", "example_ja": "その騒動は公の場で繰り広げられた。" }
+    ],
+    "warn": ["リンクの都合で playout とつなげて書かれますが、句動詞は play out（2語）です（名詞 playout は別）。", "『（事態が)どう展開・成り行くか』が中心。how it plays out（どう展開するか)が頻出。"],
+    "etym_note": "play（行われる・演じる）＋ out による句動詞。「（最後まで)繰り広げられる→展開する」。",
+    "etym_chain": [
+      { "node": "play out", "sub": "展開する・演じ切る", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "how things play out", "ja": "物事がどう展開するか" },
+      { "en": "see how it plays out", "ja": "成り行きを見る" },
+      { "en": "play out in public", "ja": "公の場で繰り広げられる" },
+      { "en": "play out a scenario", "ja": "シナリオを展開させる" },
+      { "en": "let it play out", "ja": "成り行きに任せる" },
+      { "en": "play itself out", "ja": "（自然に）展開していく" }
+    ],
+    "related": [
+      { "en": "unfold", "ja": "展開する" },
+      { "en": "develop", "ja": "展開する、発展する" },
+      { "en": "turn out", "ja": "結果として〜になる" },
+      { "en": "transpire", "ja": "（事が）起こる" }
+    ],
+    "faq": [
+      { "q": "play out の意味は？", "a": "『（事態・状況が)展開する・成り行く・繰り広げられる』『（最後まで)演じ切る・やり通す』という意味です。how it plays out（どう展開するか)が頻出です。" },
+      { "q": "see how it plays out とは？", "a": "『（結論を急がず)どう展開するか成り行きを見守る』という意味の表現です。" }
+    ],
+    "quiz": [
+      { "q": "see how things play out の意味は？", "A": "物事がどう展開するか見る", "B": "物事を止める", "C": "物事を決める", "D": "物事を隠す", "correct": "A" },
+      { "q": "play out の意味に近いのは？", "A": "展開する・成り行く", "B": "始める", "C": "中止する", "D": "拒む", "correct": "A" }
+    ]
+  },
+  {
+    "english": "actup",
+    "pron": "ˌækt ˈʌp",
+    "kana": "アクト・アップ",
+    "hinshi": "句動詞（act up）",
+    "ld_pos": "句動詞",
+    "ld_etym": "act（ふるまう）＋up",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "句動詞"],
+    "meaning_main": "（子どもが）行儀悪くする・ふざける／（機械・体が）不調になる・調子が悪い（act up）",
+    "description": "act up（アクト・アップ）は「（子どもなどが)行儀悪くふるまう・ふざける・手を焼かせる」「（機械・体・古傷が)調子が悪くなる・不調になる・ぐずる」という意味の句動詞。正しくは act up と2語で書きます。人にも物にも使えるくだけた口語です。",
+    "keywords": ["act up 意味", "act up 使い方", "行儀悪くする 英語", "不調になる 英語"],
+    "meanings": [
+      { "hinshi": "【句動】（子どもが）行儀悪くする、ふざける", "note": "手を焼かせる。" },
+      { "hinshi": "【句動】（機械・体が）不調になる、調子が悪い", "note": "My knee is acting up.（膝の調子が悪い）。" }
+    ],
+    "usages": [
+      { "title": "① 行儀悪くする", "desc": "ふざける。", "example_en": "The kids were acting up in class.", "example_ja": "子どもたちは授業中にふざけていた。" },
+      { "title": "② 不調になる", "desc": "調子が悪い。", "example_en": "My computer is acting up again.", "example_ja": "私のパソコンがまた調子が悪い。" }
+    ],
+    "warn": ["リンクの都合で actup とつなげて書かれますが、正しくは act up（2語）です。", "『（人が)行儀悪くする』と『（機械・体が)不調になる』の両方。くだけた口語。"],
+    "etym_note": "act（ふるまう・作動する）＋ up による句動詞。「（おかしく)ふるまう→行儀悪くする・不調になる」。",
+    "etym_chain": [
+      { "node": "act up", "sub": "行儀悪くする・不調になる", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "the kids are acting up", "ja": "子どもたちがふざけている" },
+      { "en": "my knee acts up", "ja": "膝の調子が悪い" },
+      { "en": "the car is acting up", "ja": "車の調子が悪い" },
+      { "en": "start to act up", "ja": "調子が悪くなり始める" },
+      { "en": "act up again", "ja": "また不調になる" },
+      { "en": "stop acting up", "ja": "ふざけるのをやめる" }
+    ],
+    "related": [
+      { "en": "misbehave", "ja": "行儀悪くふるまう" },
+      { "en": "play up", "ja": "（英）ふざける、不調になる" },
+      { "en": "malfunction", "ja": "誤作動する" },
+      { "en": "flare up", "ja": "（病状が）悪化する" }
+    ],
+    "faq": [
+      { "q": "act up の意味は？", "a": "『（子どもなどが)行儀悪くふるまう・ふざける』『（機械・体・古傷が)調子が悪くなる・不調になる』という意味のくだけた口語です。" },
+      { "q": "人にも物にも使える？", "a": "はい。人には『行儀悪くする』、機械・体には『不調になる』の意味で、どちらにも使えます。" }
+    ],
+    "quiz": [
+      { "q": "The kids were acting up. の意味は？", "A": "子どもたちがふざけていた", "B": "子どもたちが勉強していた", "C": "子どもたちが眠っていた", "D": "子どもたちが帰った", "correct": "A" },
+      { "q": "My computer is acting up. の意味は？", "A": "パソコンの調子が悪い", "B": "パソコンが新しい", "C": "パソコンが速い", "D": "パソコンを買った", "correct": "A" }
+    ]
+  },
+  {
+    "english": "buyinto",
+    "pron": "ˌbaɪ ˈɪntuː",
+    "kana": "バイ・イントゥ",
+    "hinshi": "句動詞（buy into）",
+    "ld_pos": "句動詞",
+    "ld_etym": "buy（買う）＋into",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "句動詞"],
+    "meaning_main": "（考え・話を）信じ込む・受け入れる／（株などを買って）出資する（buy into）",
+    "description": "buy into（バイ・イントゥ）は「（考え・主張・うわさを)信じ込む・鵜呑みにする・受け入れる」「（株・事業を買って)出資する・経営に加わる」という意味の句動詞。正しくは buy into と3語…ではなく2語の buy into（into は1語)で書きます。多く否定文 don't buy into（真に受けない)でも使います。",
+    "keywords": ["buy into 意味", "buy into 使い方", "信じ込む 英語", "出資する 英語"],
+    "meanings": [
+      { "hinshi": "【句動】（考え・話を）信じ込む、受け入れる", "note": "鵜呑みにする。多く否定でも。" },
+      { "hinshi": "【句動】（株などを買って）出資する、加わる", "note": "buy into a company（会社に出資する）。" }
+    ],
+    "usages": [
+      { "title": "① 信じ込む", "desc": "受け入れる。", "example_en": "I don't buy into that theory.", "example_ja": "私はその説を信じない。" },
+      { "title": "② 出資する", "desc": "株を買って加わる。", "example_en": "They bought into the startup.", "example_ja": "彼らはそのスタートアップに出資した。" }
+    ],
+    "warn": ["リンクの都合で buyinto とつなげて書かれますが、正しくは buy into（buy ＋ into）です。", "『（考えを)信じ込む・受け入れる』と『（株を買って)出資する』の両方。否定 don't buy into（真に受けない)も頻出。"],
+    "etym_note": "buy（買う）＋ into（中へ)による句動詞。「買って中に入る→出資する／（考えを)受け入れる」。",
+    "etym_chain": [
+      { "node": "buy into", "sub": "信じ込む・出資する", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "buy into an idea", "ja": "考えを受け入れる" },
+      { "en": "don't buy into", "ja": "〜を真に受けない" },
+      { "en": "buy into the hype", "ja": "宣伝を鵜呑みにする" },
+      { "en": "buy into a company", "ja": "会社に出資する" },
+      { "en": "buy into the plan", "ja": "計画に賛同する" },
+      { "en": "fully buy into", "ja": "すっかり信じ込む" }
+    ],
+    "related": [
+      { "en": "believe", "ja": "信じる" },
+      { "en": "accept", "ja": "受け入れる" },
+      { "en": "invest in", "ja": "〜に投資する" },
+      { "en": "subscribe to", "ja": "（考えに）賛同する" }
+    ],
+    "faq": [
+      { "q": "buy into の意味は？", "a": "『（考え・主張・うわさを)信じ込む・鵜呑みにする・受け入れる』『（株・事業を買って)出資する・加わる』という意味です。" },
+      { "q": "don't buy into とは？", "a": "『〜を真に受けない・信じない・鵜呑みにしない』という意味で、否定文でよく使います。例：Don't buy into the hype.（宣伝文句を真に受けないで）。" }
+    ],
+    "quiz": [
+      { "q": "I don't buy into that theory. の意味は？", "A": "その説を信じない", "B": "その説を証明する", "C": "その説を教える", "D": "その説を書く", "correct": "A" },
+      { "q": "buy into a company の意味は？", "A": "会社に出資する", "B": "会社を辞める", "C": "会社を訴える", "D": "会社を売る", "correct": "A" }
+    ]
+  },
+  {
+    "english": "stepup",
+    "pron": "ˌstep ˈʌp",
+    "kana": "ステップ・アップ",
+    "hinshi": "句動詞（step up）",
+    "ld_pos": "句動詞",
+    "ld_etym": "step（踏み出す）＋up",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "句動詞"],
+    "meaning_main": "（量・努力を）増やす・強化する／（必要なときに）進んで引き受ける（step up）",
+    "description": "step up（ステップ・アップ）は「（量・努力・ペースを)増やす・強化する・高める」「（必要なときに)進み出て引き受ける・責任を果たす」という意味の句動詞。正しくは step up と2語で書きます。step up efforts（努力を強化する)、step up to the plate（進んで役割を引き受ける)のように使います。",
+    "keywords": ["step up 意味", "step up 使い方", "強化する 英語", "引き受ける 英語"],
+    "meanings": [
+      { "hinshi": "【句動】（量・努力を）増やす、強化する、高める", "note": "step up efforts（努力を強化する）。" },
+      { "hinshi": "【句動】（必要なときに）進んで引き受ける、責任を果たす", "note": "step up and take charge。" }
+    ],
+    "usages": [
+      { "title": "① 強化する", "desc": "増やす。", "example_en": "They stepped up security.", "example_ja": "彼らは警備を強化した。" },
+      { "title": "② 進んで引き受ける", "desc": "責任を果たす。", "example_en": "Someone needs to step up and lead.", "example_ja": "誰かが進み出て指揮を執る必要がある。" }
+    ],
+    "warn": ["リンクの都合で stepup とつなげて書かれますが、句動詞は step up（2語）です（名詞 step-up は別）。", "『（量・努力を)強化する』と『（必要な場面で)進んで引き受ける』の両方。step up to the plate（進んで役割を担う)も。"],
+    "etym_note": "step（踏み出す）＋ up による句動詞。「一歩前へ出る→強化する／進んで引き受ける」。",
+    "etym_chain": [
+      { "node": "step up", "sub": "強化する・進んで引き受ける", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "step up efforts", "ja": "努力を強化する" },
+      { "en": "step up security", "ja": "警備を強化する" },
+      { "en": "step up production", "ja": "生産を増やす" },
+      { "en": "step up to the plate", "ja": "進んで役割を引き受ける" },
+      { "en": "step up and lead", "ja": "進み出て指揮を執る" },
+      { "en": "step up the pace", "ja": "ペースを上げる" }
+    ],
+    "related": [
+      { "en": "increase", "ja": "増やす" },
+      { "en": "intensify", "ja": "強化する" },
+      { "en": "boost", "ja": "高める" },
+      { "en": "take charge", "ja": "責任を引き受ける" }
+    ],
+    "faq": [
+      { "q": "step up の意味は？", "a": "『（量・努力・ペースを)増やす・強化する・高める』『（必要なときに)進み出て引き受ける・責任を果たす』という意味です。" },
+      { "q": "step up to the plate とは？", "a": "『（責任ある役割に)進んで名乗りを上げて取り組む』という意味の表現です（野球の打席に立つことから）。" }
+    ],
+    "quiz": [
+      { "q": "step up security の意味は？", "A": "警備を強化する", "B": "警備をやめる", "C": "警備を減らす", "D": "警備を隠す", "correct": "A" },
+      { "q": "step up and lead の意味は？", "A": "進み出て指揮を執る", "B": "後ろに下がる", "C": "指揮を断る", "D": "黙って従う", "correct": "A" }
+    ]
+  },
+  {
+    "english": "zoneout",
+    "pron": "ˌzoʊn ˈaʊt",
+    "kana": "ゾーン・アウト",
+    "hinshi": "句動詞（zone out）",
+    "ld_pos": "句動詞",
+    "ld_etym": "zone（ぼんやりした状態）＋out",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "句動詞"],
+    "meaning_main": "（意識が）ぼうっとする・上の空になる・ぼんやりする（zone out）",
+    "description": "zone out（ゾーン・アウト）は「（意識が)ぼうっとする・上の空になる・ぼんやりして周りが耳に入らなくなる」という意味の句動詞。正しくは zone out と2語で書きます。疲れや退屈で、意識がよそにいってしまい、話や周囲に注意が向かなくなる状態を表すくだけた口語です。",
+    "keywords": ["zone out 意味", "zone out 使い方", "ぼうっとする 英語", "上の空 英語"],
+    "meanings": [
+      { "hinshi": "【句動】（意識が）ぼうっとする、上の空になる", "note": "注意がよそへ。疲れ・退屈で。" },
+      { "hinshi": "【句動】ぼんやりして周りが耳に入らなくなる", "note": "くだけた口語。" }
+    ],
+    "usages": [
+      { "title": "① ぼうっとする", "desc": "上の空になる。", "example_en": "I zoned out during the lecture.", "example_ja": "私は講義中にぼうっとしていた。" },
+      { "title": "② ぼんやりする", "desc": "注意がそれる。", "example_en": "Sorry, I zoned out for a second.", "example_ja": "ごめん、一瞬上の空になってた。" }
+    ],
+    "warn": ["リンクの都合で zoneout とつなげて書かれますが、正しくは zone out（2語）です。", "『疲れ・退屈で意識がよそへいき、ぼうっとする』くだけた口語。daydream（空想にふける)に近いが、無意識にぼんやりする感じ。"],
+    "etym_note": "zone（ぼんやりした心の状態）＋ out による句動詞。「意識がよそのゾーンへ→ぼうっとする」。",
+    "etym_chain": [
+      { "node": "zone out", "sub": "ぼうっとする", "era": "現代英語（米口語）" }
+    ],
+    "phrases": [
+      { "en": "zone out", "ja": "ぼうっとする" },
+      { "en": "zone out during", "ja": "〜中に上の空になる" },
+      { "en": "completely zone out", "ja": "すっかりぼんやりする" },
+      { "en": "zone out for a second", "ja": "一瞬ぼうっとする" },
+      { "en": "tend to zone out", "ja": "ぼうっとしがち" },
+      { "en": "zone out in class", "ja": "授業中に上の空になる" }
+    ],
+    "related": [
+      { "en": "daydream", "ja": "空想にふける" },
+      { "en": "space out", "ja": "ぼうっとする" },
+      { "en": "drift off", "ja": "注意がそれる、うとうとする" },
+      { "en": "lose focus", "ja": "集中が切れる" }
+    ],
+    "faq": [
+      { "q": "zone out の意味は？", "a": "『（意識が)ぼうっとする・上の空になる・ぼんやりして周りが耳に入らなくなる』という意味のくだけた口語です。" },
+      { "q": "daydream とどう違う？", "a": "daydream は『（楽しい)空想にふける』、zone out は『疲れ・退屈で無意識にぼうっとして注意がそれる』感じです。" }
+    ],
+    "quiz": [
+      { "q": "I zoned out during the lecture. の意味は？", "A": "講義中にぼうっとしていた", "B": "講義に集中していた", "C": "講義をした", "D": "講義を欠席した", "correct": "A" },
+      { "q": "zone out の意味に近いのは？", "A": "ぼうっとする・上の空になる", "B": "集中する", "C": "急ぐ", "D": "興奮する", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sealoff",
+    "pron": "ˌsiːl ˈɔːf",
+    "kana": "シール・オフ",
+    "hinshi": "句動詞（seal off）",
+    "ld_pos": "句動詞",
+    "ld_etym": "seal（封じる）＋off",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "句動詞"],
+    "meaning_main": "（区域を）封鎖する・立ち入り禁止にする・遮断する（seal off）",
+    "description": "seal off（シール・オフ）は「（区域・場所を)封鎖する・立ち入り禁止にして遮断する・閉鎖する」という意味の句動詞。正しくは seal off と2語で書きます。警察・当局などが、事件現場や危険区域を囲って出入りできないようにすることを表します。",
+    "keywords": ["seal off 意味", "seal off 使い方", "封鎖する 英語", "立ち入り禁止 英語"],
+    "meanings": [
+      { "hinshi": "【句動】（区域を）封鎖する、立ち入り禁止にする", "note": "出入りできないよう遮断する。" },
+      { "hinshi": "【句動】（すき間などを）ふさぐ、密閉する", "note": "空気・水が通らないようにする。" }
+    ],
+    "usages": [
+      { "title": "① 封鎖する", "desc": "立ち入り禁止に。", "example_en": "Police sealed off the area.", "example_ja": "警察はその区域を封鎖した。" },
+      { "title": "② 遮断する", "desc": "出入りを止める。", "example_en": "The building was sealed off after the fire.", "example_ja": "その建物は火災後に立ち入り禁止にされた。" }
+    ],
+    "warn": ["リンクの都合で sealoff とつなげて書かれますが、正しくは seal off（2語）です。", "『（区域を)囲って出入りできないよう封鎖する』が中心。事件現場・危険区域によく使う。多く受け身 be sealed off。"],
+    "etym_note": "seal（封じる・密閉する）＋ off による句動詞。「封じて遮断する→封鎖する」。",
+    "etym_chain": [
+      { "node": "seal off", "sub": "封鎖する", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "seal off the area", "ja": "区域を封鎖する" },
+      { "en": "seal off a building", "ja": "建物を立ち入り禁止にする" },
+      { "en": "be sealed off", "ja": "封鎖される" },
+      { "en": "seal off the scene", "ja": "現場を封鎖する" },
+      { "en": "seal off the border", "ja": "国境を閉鎖する" },
+      { "en": "completely seal off", "ja": "完全に遮断する" }
+    ],
+    "related": [
+      { "en": "cordon off", "ja": "（非常線で）封鎖する" },
+      { "en": "block off", "ja": "ふさぐ、通行止めにする" },
+      { "en": "close off", "ja": "閉鎖する" },
+      { "en": "quarantine", "ja": "隔離する" }
+    ],
+    "faq": [
+      { "q": "seal off の意味は？", "a": "『（区域・場所を)封鎖する・立ち入り禁止にして遮断する・閉鎖する』という意味です。事件現場や危険区域を囲って出入りできないようにすることを表します。" },
+      { "q": "cordon off と同じ？", "a": "近い意味です。cordon off は『非常線（ロープなど)で囲って封鎖する』、seal off は『出入りを完全に遮断して封鎖する』です。" }
+    ],
+    "quiz": [
+      { "q": "Police sealed off the area. の意味は？", "A": "警察はその区域を封鎖した", "B": "警察はその区域を開放した", "C": "警察はその区域を掃除した", "D": "警察はその区域を調べた", "correct": "A" },
+      { "q": "seal off の意味に近いのは？", "A": "封鎖する・立ち入り禁止にする", "B": "開放する", "C": "宣伝する", "D": "拡大する", "correct": "A" }
+    ]
+  },
+  {
+    "english": "bringout",
+    "pron": "ˌbrɪŋ ˈaʊt",
+    "kana": "ブリング・アウト",
+    "hinshi": "句動詞（bring out）",
+    "ld_pos": "句動詞",
+    "ld_etym": "bring（もたらす）＋out",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "句動詞"],
+    "meaning_main": "（性質・味を）引き出す・際立たせる／（製品・本を）売り出す・発表する（bring out）",
+    "description": "bring out（ブリング・アウト）は「（かくれた性質・才能・味・色を)引き出す・際立たせる・引き立てる」「（新製品・本・CDを)売り出す・発売する・発表する」という意味の句動詞。正しくは bring out と2語で書きます。良さを表に出す用法と、世に出す用法があります。",
+    "keywords": ["bring out 意味", "bring out 使い方", "引き出す 英語", "売り出す 英語"],
+    "meanings": [
+      { "hinshi": "【句動】（性質・味・色を）引き出す、際立たせる", "note": "良さを表に出す。bring out the flavor（味を引き立てる）。" },
+      { "hinshi": "【句動】（製品・本を）売り出す、発表する", "note": "世に出す。bring out a new model。" }
+    ],
+    "usages": [
+      { "title": "① 引き出す", "desc": "際立たせる。", "example_en": "The spice brings out the flavor.", "example_ja": "その香辛料が味を引き立てる。" },
+      { "title": "② 売り出す", "desc": "発表する。", "example_en": "They brought out a new model.", "example_ja": "彼らは新モデルを売り出した。" }
+    ],
+    "warn": ["リンクの都合で bringout とつなげて書かれますが、正しくは bring out（2語）です。", "『（良さ・性質・味を)引き出す・際立たせる』と『（製品・本を)世に出す』の両方。bring out the best in 〜（〜の最高の面を引き出す)も頻出。"],
+    "etym_note": "bring（もたらす）＋ out（外へ)による句動詞。「外へ出す→引き出す／世に出す」。",
+    "etym_chain": [
+      { "node": "bring out", "sub": "引き出す・売り出す", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "bring out the flavor", "ja": "味を引き立てる" },
+      { "en": "bring out the best in", "ja": "〜の最高の面を引き出す" },
+      { "en": "bring out the color", "ja": "色を際立たせる" },
+      { "en": "bring out a new model", "ja": "新モデルを売り出す" },
+      { "en": "bring out a book", "ja": "本を出版する" },
+      { "en": "bring out one's talent", "ja": "才能を引き出す" }
+    ],
+    "related": [
+      { "en": "highlight", "ja": "際立たせる" },
+      { "en": "emphasize", "ja": "強調する" },
+      { "en": "release", "ja": "発売する、公開する" },
+      { "en": "launch", "ja": "売り出す" }
+    ],
+    "faq": [
+      { "q": "bring out の意味は？", "a": "『（かくれた性質・才能・味・色を)引き出す・際立たせる』『（新製品・本・CDを)売り出す・発売する・発表する』という意味です。" },
+      { "q": "bring out the best in 〜 とは？", "a": "『〜の（持っている)最高の面・良さを引き出す』という定番表現です。" }
+    ],
+    "quiz": [
+      { "q": "bring out the flavor の意味は？", "A": "味を引き立てる", "B": "味を消す", "C": "味見する", "D": "味を変える", "correct": "A" },
+      { "q": "bring out a new model の意味は？", "A": "新モデルを売り出す", "B": "新モデルを回収する", "C": "新モデルを隠す", "D": "新モデルを壊す", "correct": "A" }
+    ]
+  },
+  {
+    "english": "leton",
+    "pron": "ˌlet ˈɑːn",
+    "kana": "レット・オン",
+    "hinshi": "句動詞（let on）",
+    "ld_pos": "句動詞",
+    "ld_etym": "let（〜させる）＋on",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "句動詞"],
+    "meaning_main": "（秘密・本心を）漏らす・ばらす・気づかせる（多く否定で）（let on）",
+    "description": "let on（レット・オン）は「（秘密・本心・知っていることを)漏らす・ばらす・それとなく気づかせる」という意味の句動詞。正しくは let on と2語で書きます。多く否定文 don't let on（さとられないようにする・そぶりを見せない)の形で使われます。",
+    "keywords": ["let on 意味", "let on 使い方", "漏らす 英語", "ばらす 英語"],
+    "meanings": [
+      { "hinshi": "【句動】（秘密・本心を）漏らす、ばらす、気づかせる", "note": "多く否定文で。don't let on（そぶりを見せない）。" },
+      { "hinshi": "【句動】（知っていることを）さとらせる", "note": "let on that 〜（〜だと漏らす）。" }
+    ],
+    "usages": [
+      { "title": "① 漏らさない（否定）", "desc": "そぶりを見せない。", "example_en": "Don't let on that you know.", "example_ja": "知っているそぶりを見せないで。" },
+      { "title": "② ばらす", "desc": "気づかせる。", "example_en": "She never let on how she felt.", "example_ja": "彼女は自分の気持ちをおくびにも出さなかった。" }
+    ],
+    "warn": ["リンクの都合で leton とつなげて書かれますが、正しくは let on（2語）です。", "多く否定文 don't let on / never let on（さとられないようにする・そぶりを見せない)の形。let on that 〜 / let on how 〜 も。"],
+    "etym_note": "let（〜させる・許す）＋ on による句動詞。「（知っていることを)表に出させる→漏らす」。",
+    "etym_chain": [
+      { "node": "let on", "sub": "漏らす・ばらす", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "don't let on", "ja": "そぶりを見せない" },
+      { "en": "never let on", "ja": "おくびにも出さない" },
+      { "en": "let on that", "ja": "〜だと漏らす" },
+      { "en": "without letting on", "ja": "さとられずに" },
+      { "en": "let on how one feels", "ja": "気持ちをさとらせる" },
+      { "en": "not let on", "ja": "気づかせない" }
+    ],
+    "related": [
+      { "en": "reveal", "ja": "明かす" },
+      { "en": "give away", "ja": "（秘密を）漏らす" },
+      { "en": "disclose", "ja": "打ち明ける" },
+      { "en": "hint", "ja": "ほのめかす" }
+    ],
+    "faq": [
+      { "q": "let on の意味は？", "a": "『（秘密・本心・知っていることを)漏らす・ばらす・それとなく気づかせる』という意味です。多く否定文 don't let on（そぶりを見せない)の形で使います。" },
+      { "q": "don't let on とは？", "a": "『（知っている・感じているそぶりを)見せない・さとられないようにする』という意味の頻出表現です。" }
+    ],
+    "quiz": [
+      { "q": "Don't let on that you know. の意味は？", "A": "知っているそぶりを見せないで", "B": "知っていると言って", "C": "知らないふりをやめて", "D": "大声で言って", "correct": "A" },
+      { "q": "never let on の意味は？", "A": "おくびにも出さない", "B": "すぐにばらす", "C": "大声で叫ぶ", "D": "正直に話す", "correct": "A" }
+    ]
+  }
+]
