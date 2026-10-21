@@ -1,0 +1,985 @@
+[
+  {
+    "english": "competition",
+    "pron": "ˌkɑːmpəˈtɪʃn",
+    "kana": "コンペティション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 competere（競い合う）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "基本語"],
+    "meaning_main": "競争・張り合い／競技会・コンテスト・大会",
+    "description": "competition（コンペティション）は「競争・張り合い」という意味の名詞。限られたものや勝利などを求めて、互いに競い合うことを指します。また「競技会・コンテスト・大会」という意味もあります。in competition with 〜（〜と競って）、enter a competition（大会に出る)のように使います。動詞は compete（競争する)です。",
+    "keywords": ["competition 意味", "competition 使い方", "競争 英語", "競技会 英語"],
+    "meanings": [
+      { "hinshi": "【名】競争、張り合い", "note": "互いに競い合うこと。不可算。" },
+      { "hinshi": "【名】競技会、コンテスト、大会", "note": "enter a competition（大会に出る）。可算。" }
+    ],
+    "usages": [
+      { "title": "① 競争", "desc": "張り合い。", "example_en": "There is fierce competition for jobs.", "example_ja": "仕事をめぐる激しい競争がある。" },
+      { "title": "② 競技会", "desc": "大会。", "example_en": "She won first place in the competition.", "example_ja": "彼女は競技会で1位になった。" }
+    ],
+    "warn": ["『競争・張り合い』（不可算）と『競技会・コンテスト・大会』（可算）。in competition with 〜（〜と競って）、fierce competition（激しい競争）。", "the competition で『競争相手（全体）』を指すことも。動詞 compete、形容詞 competitive（競争の）。"],
+    "etym_note": "ラテン語 competere（com＝共に ＋ petere＝求める）＝『共に求める→競い合う』に由来。「競争」。",
+    "etym_chain": [
+      { "node": "competere", "sub": "競い合う", "era": "ラテン語" },
+      { "node": "competition", "sub": "競争・競技会", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "in competition with", "ja": "〜と競って" },
+      { "en": "fierce competition", "ja": "激しい競争" },
+      { "en": "enter a competition", "ja": "大会に出場する" },
+      { "en": "win a competition", "ja": "競技会で優勝する" },
+      { "en": "a singing competition", "ja": "歌のコンテスト" },
+      { "en": "face competition", "ja": "競争に直面する" }
+    ],
+    "related": [
+      { "en": "contest", "ja": "コンテスト、競争" },
+      { "en": "rivalry", "ja": "対抗、張り合い" },
+      { "en": "match", "ja": "試合" },
+      { "en": "race", "ja": "競走、競争" }
+    ],
+    "faq": [
+      { "q": "competition の意味は？", "a": "『競争・張り合い』（不可算）という意味が中心で、『競技会・コンテスト・大会』（可算）の意味もあります。" },
+      { "q": "動詞・形容詞は？", "a": "動詞は compete（競争する）、形容詞は competitive（競争の・競争力のある）です。" }
+    ],
+    "quiz": [
+      { "q": "fierce competition の意味は？", "A": "激しい競争", "B": "穏やかな協力", "C": "長い休憩", "D": "静かな会話", "correct": "A" },
+      { "q": "competition の動詞形は？", "A": "compete", "B": "complete", "C": "compose", "D": "compute", "correct": "A" }
+    ]
+  },
+  {
+    "english": "competitor",
+    "pron": "kəmˈpetɪtər",
+    "kana": "コンペティター",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "compete（競争する）＋-itor",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "論説"],
+    "meaning_main": "競争相手・ライバル／（競技の）出場者・選手／競合他社",
+    "description": "competitor（コンペティター）は「競争相手・ライバル」という意味の名詞。同じものを求めて競い合う相手を指します。スポーツなどでは「出場者・選手」、ビジネスでは「競合他社」を指します。a strong competitor（手ごわい競争相手）、our main competitor（最大の競合相手)のように使います。動詞は compete です。可算名詞です。",
+    "keywords": ["competitor 意味", "competitor 使い方", "競争相手 英語", "競合他社 英語"],
+    "meanings": [
+      { "hinshi": "【名】競争相手、ライバル", "note": "同じものを求めて競う相手。可算。" },
+      { "hinshi": "【名】（競技の）出場者、選手／競合他社", "note": "a business competitor（競合企業）。" }
+    ],
+    "usages": [
+      { "title": "① 競争相手", "desc": "ライバル。", "example_en": "a strong competitor", "example_ja": "手ごわい競争相手" },
+      { "title": "② 出場者・競合", "desc": "選手・企業。", "example_en": "our main competitor", "example_ja": "最大の競合相手" }
+    ],
+    "warn": ["『競争相手・ライバル』『（競技の)出場者・選手』『競合他社』。a strong/main competitor（手ごわい/最大の競争相手）。", "compete（競争する）＋ -itor（〜する人）。rival（ライバル）、opponent（対戦相手)と近い。"],
+    "etym_note": "compete（競争する、ラテン語 competere 由来）＋ -itor（〜する人）。「競争する人→競争相手」。",
+    "etym_chain": [
+      { "node": "compete + -itor", "sub": "競争する人", "era": "近代英語" },
+      { "node": "competitor", "sub": "競争相手", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a strong competitor", "ja": "手ごわい競争相手" },
+      { "en": "our main competitor", "ja": "最大の競合相手" },
+      { "en": "a fierce competitor", "ja": "激しく競う相手" },
+      { "en": "beat a competitor", "ja": "競争相手に勝つ" },
+      { "en": "the other competitors", "ja": "ほかの出場者" },
+      { "en": "a business competitor", "ja": "競合企業" }
+    ],
+    "related": [
+      { "en": "rival", "ja": "ライバル、競争相手" },
+      { "en": "contestant", "ja": "出場者、参加者" },
+      { "en": "opponent", "ja": "対戦相手" },
+      { "en": "participant", "ja": "参加者" }
+    ],
+    "faq": [
+      { "q": "competitor の意味は？", "a": "『競争相手・ライバル』という意味です。スポーツなどでは『出場者・選手』、ビジネスでは『競合他社』を指します。" },
+      { "q": "rival との違いは？", "a": "ほぼ同義ですが、competitor は『（同じものを求めて)競う相手』全般、rival は『（しのぎを削る)好敵手』という強い対抗の含みがあります。" }
+    ],
+    "quiz": [
+      { "q": "our main competitor の意味は？", "A": "最大の競合相手", "B": "最大の顧客", "C": "最大の協力者", "D": "最大の工場", "correct": "A" },
+      { "q": "competitor の動詞形は？", "A": "compete", "B": "complete", "C": "compile", "D": "compose", "correct": "A" }
+    ]
+  },
+  {
+    "english": "completely",
+    "pron": "kəmˈpliːtli",
+    "kana": "コンプリートリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "complete（完全な）＋-ly",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "基本語"],
+    "meaning_main": "完全に・すっかり・まったく（残らず、徹底的に）",
+    "description": "completely（コンプリートリー）は「完全に・すっかり・まったく」という意味の副詞。ある状態や程度が、何も残さず徹底している・100%そうであることを表します。completely different（まったく違う）、completely forget（すっかり忘れる)のように使います。形容詞 complete（完全な)の副詞で、totally（まったく)と近い意味です。",
+    "keywords": ["completely 意味", "completely 使い方", "完全に 英語", "すっかり 英語"],
+    "meanings": [
+      { "hinshi": "【副】完全に、すっかり、まったく", "note": "100%、残らず。completely different。" },
+      { "hinshi": "【副】徹底的に", "note": "程度を強める。" }
+    ],
+    "usages": [
+      { "title": "① 完全に", "desc": "すっかり。", "example_en": "I completely forgot.", "example_ja": "すっかり忘れていた。" },
+      { "title": "② まったく", "desc": "100%。", "example_en": "completely different", "example_ja": "まったく違う" }
+    ],
+    "warn": ["『完全に・すっかり・まったく（100%、残らず）』。completely different/wrong/full（まったく違う/間違った/いっぱい）。", "totally / entirely / fully（まったく・完全に)と近い。形容詞 complete（完全な）。"],
+    "etym_note": "complete（完全な、ラテン語 complere＝満たす 由来）＋ -ly（副詞化）。「完全に」。",
+    "etym_chain": [
+      { "node": "complete + -ly", "sub": "完全に", "era": "近代英語" },
+      { "node": "completely", "sub": "完全に", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "completely different", "ja": "まったく違う" },
+      { "en": "completely forget", "ja": "すっかり忘れる" },
+      { "en": "completely wrong", "ja": "まったく間違っている" },
+      { "en": "completely agree", "ja": "まったく同感だ" },
+      { "en": "completely empty", "ja": "からっぽの" },
+      { "en": "almost completely", "ja": "ほぼ完全に" }
+    ],
+    "related": [
+      { "en": "totally", "ja": "まったく、完全に" },
+      { "en": "entirely", "ja": "完全に、まったく" },
+      { "en": "fully", "ja": "十分に、完全に" },
+      { "en": "utterly", "ja": "まったく、徹底的に" }
+    ],
+    "faq": [
+      { "q": "completely の意味は？", "a": "『完全に・すっかり・まったく』という意味の副詞です。ある状態や程度が100%そうである・何も残さず徹底していることを表します。" },
+      { "q": "totally との違いは？", "a": "意味はほぼ同じ『完全に・まったく』です。どちらも強調によく使われます。" }
+    ],
+    "quiz": [
+      { "q": "I completely forgot. の意味は？", "A": "すっかり忘れていた", "B": "少し覚えていた", "C": "ちょうど思い出した", "D": "まだ覚えている", "correct": "A" },
+      { "q": "completely と近い意味は？", "A": "totally", "B": "partly", "C": "hardly", "D": "slightly", "correct": "A" }
+    ]
+  },
+  {
+    "english": "complexion",
+    "pron": "kəmˈplekʃn",
+    "kana": "コンプレクション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 complexio（組み合わせ）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "描写"],
+    "meaning_main": "顔色・肌の色つや／（事態の）様相・性質",
+    "description": "complexion（コンプレクション）は「顔色・肌の色つや・肌の状態」という意味の名詞。顔の肌の色や、きめ・つやなどの様子を指します。a fair complexion（色白の肌）、a clear complexion（きれいな肌)のように使います。また比喩で「（物事の)様相・性質・局面」も表し、put a new complexion on 〜（〜の様相を一変させる)のように使います。可算名詞です。",
+    "keywords": ["complexion 意味", "complexion 使い方", "顔色 英語", "肌の色つや 英語"],
+    "meanings": [
+      { "hinshi": "【名】顔色、肌の色つや", "note": "顔の肌の色・状態。可算。" },
+      { "hinshi": "【名】（事態の）様相、性質、局面", "note": "put a new complexion on 〜（〜の様相を変える）。" }
+    ],
+    "usages": [
+      { "title": "① 肌の色つや", "desc": "顔色。", "example_en": "She has a fair complexion.", "example_ja": "彼女は色白の肌をしている。" },
+      { "title": "② 様相", "desc": "比喩。", "example_en": "This puts a new complexion on things.", "example_ja": "これで事態の様相が変わる。" }
+    ],
+    "warn": ["『顔色・肌の色つや・肌の状態』が中心。a fair/dark complexion（色白/色黒の肌）、a clear complexion（きれいな肌）。", "比喩で『（物事の)様相・局面』。put a new complexion on 〜（〜の様相を一変させる）。肌そのものの『肌』は skin。"],
+    "etym_note": "ラテン語 complexio（組み合わせ・体質、complecti＝包み込む 由来）に由来。古くは体質→（それが表れる)顔色へ。",
+    "etym_chain": [
+      { "node": "complexio", "sub": "組み合わせ・体質", "era": "ラテン語" },
+      { "node": "complexion", "sub": "顔色・様相", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "a fair complexion", "ja": "色白の肌" },
+      { "en": "a dark complexion", "ja": "色黒の肌" },
+      { "en": "a clear complexion", "ja": "きれいな肌" },
+      { "en": "a healthy complexion", "ja": "健康的な肌の色つや" },
+      { "en": "put a new complexion on", "ja": "〜の様相を一変させる" },
+      { "en": "a rosy complexion", "ja": "血色のよい肌" }
+    ],
+    "related": [
+      { "en": "skin", "ja": "肌、皮膚" },
+      { "en": "color", "ja": "色" },
+      { "en": "appearance", "ja": "外見" },
+      { "en": "aspect", "ja": "様相、側面" }
+    ],
+    "faq": [
+      { "q": "complexion の意味は？", "a": "『顔色・肌の色つや・肌の状態』という意味です。顔の肌の色やきめ・つやの様子を指します。比喩で『（物事の)様相・性質・局面』も表します。" },
+      { "q": "put a new complexion on 〜 とは？", "a": "『〜の様相を一変させる・〜の見え方を変える』という意味の表現です。" }
+    ],
+    "quiz": [
+      { "q": "a fair complexion の意味は？", "A": "色白の肌", "B": "日焼けした肌", "C": "荒れた肌", "D": "乾いた肌", "correct": "A" },
+      { "q": "put a new complexion on things の意味は？", "A": "事態の様相を一変させる", "B": "顔に化粧をする", "C": "新しい服を着る", "D": "部屋を塗り替える", "correct": "A" }
+    ]
+  },
+  {
+    "english": "complexity",
+    "pron": "kəmˈpleksəti",
+    "kana": "コンプレクシティ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "complex（複雑な）＋-ity",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "論説"],
+    "meaning_main": "複雑さ・複雑性／（複数で）複雑な点・込み入った事柄",
+    "description": "complexity（コンプレクシティ）は「複雑さ・複雑性」という意味の名詞。多くの要素が入り組んでいて、理解したり扱ったりするのが難しい状態を指します。the complexity of 〜（〜の複雑さ)のように使います。複数形 complexities で「複雑な点・込み入った事柄」を指します。対義語は simplicity（単純さ)、形容詞は complex です。",
+    "keywords": ["complexity 意味", "complexity 使い方", "複雑さ 英語", "複雑性 英語"],
+    "meanings": [
+      { "hinshi": "【名】複雑さ、複雑性", "note": "要素が入り組んだ状態。不可算。" },
+      { "hinshi": "【名】（複数で）複雑な点、込み入った事柄", "note": "the complexities of 〜。" }
+    ],
+    "usages": [
+      { "title": "① 複雑さ", "desc": "複雑性。", "example_en": "the complexity of the problem", "example_ja": "その問題の複雑さ" },
+      { "title": "② 複雑な点", "desc": "複数。", "example_en": "the complexities of modern life", "example_ja": "現代生活の複雑な面々" }
+    ],
+    "warn": ["『複雑さ・複雑性』。the complexity of 〜（〜の複雑さ）。複数 complexities は『複雑な点・込み入った事柄』。対義語は simplicity。", "形容詞 complex（複雑な）。complication（複雑化・やっかいごと)と近い。"],
+    "etym_note": "complex（複雑な、ラテン語 complexus＝組み合わさった 由来）＋ -ity（名詞化）。「複雑であること→複雑さ」。",
+    "etym_chain": [
+      { "node": "complex + -ity", "sub": "複雑であること", "era": "近代英語" },
+      { "node": "complexity", "sub": "複雑さ", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "the complexity of", "ja": "〜の複雑さ" },
+      { "en": "great complexity", "ja": "大きな複雑さ" },
+      { "en": "the complexities of life", "ja": "人生の複雑な面々" },
+      { "en": "add complexity", "ja": "複雑さを増す" },
+      { "en": "reduce complexity", "ja": "複雑さを減らす" },
+      { "en": "increasing complexity", "ja": "増していく複雑さ" }
+    ],
+    "related": [
+      { "en": "complication", "ja": "複雑化、やっかいごと" },
+      { "en": "intricacy", "ja": "入り組んでいること" },
+      { "en": "difficulty", "ja": "難しさ" },
+      { "en": "complex", "ja": "複雑な" }
+    ],
+    "faq": [
+      { "q": "complexity の意味は？", "a": "『複雑さ・複雑性』という意味です。多くの要素が入り組んでいて、理解したり扱ったりするのが難しい状態を指します。複数形 complexities で『複雑な点・込み入った事柄』を指します。" },
+      { "q": "対義語は？", "a": "simplicity（単純さ・簡素さ）です。形容詞は complex（複雑な）です。" }
+    ],
+    "quiz": [
+      { "q": "the complexity of the problem の意味は？", "A": "その問題の複雑さ", "B": "その問題の解決", "C": "その問題の原因", "D": "その問題の大きさだけ", "correct": "A" },
+      { "q": "complexity の対義語は？", "A": "simplicity", "B": "complex", "C": "complication", "D": "clarity", "correct": "A" }
+    ]
+  },
+  {
+    "english": "compliance",
+    "pron": "kəmˈplaɪəns",
+    "kana": "コンプライアンス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "comply（従う）＋-ance",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "論説"],
+    "meaning_main": "（規則・要求などへの）順守・遵守・応じること／言いなりになること",
+    "description": "compliance（コンプライアンス）は「（規則・法律・要求などに)従うこと・順守」という意味の名詞。決められたことやルールにきちんと従うことを指します。in compliance with 〜（〜に従って)、compliance with the law（法令順守)のように使います。ビジネスでは「法令順守（コンプライアンス)」の意味で使われます。対義語は noncompliance、動詞は comply（従う)です。",
+    "keywords": ["compliance 意味", "compliance 使い方", "順守 英語", "コンプライアンス 英語"],
+    "meanings": [
+      { "hinshi": "【名】（規則・要求への）順守、遵守、応じること", "note": "ルールにきちんと従うこと。不可算。" },
+      { "hinshi": "【名】言いなりになること", "note": "要求に素直に応じること。" }
+    ],
+    "usages": [
+      { "title": "① 順守", "desc": "従う。", "example_en": "in compliance with the regulations", "example_ja": "規則に従って" },
+      { "title": "② 法令順守", "desc": "ビジネス。", "example_en": "compliance with the law", "example_ja": "法令順守（コンプライアンス）" }
+    ],
+    "warn": ["『（規則・法律・要求への)順守・遵守・応じること』。in compliance with 〜（〜に従って）、compliance with the law（法令順守）。", "ビジネスの『コンプライアンス（法令順守）』。対義語は noncompliance。動詞 comply（with 〜 で従う）。"],
+    "etym_note": "comply（従う、ラテン語 complere＝満たす 由来）＋ -ance（名詞化）。「従うこと→順守」。",
+    "etym_chain": [
+      { "node": "comply + -ance", "sub": "従うこと", "era": "近代英語" },
+      { "node": "compliance", "sub": "順守", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "in compliance with", "ja": "〜に従って、〜を順守して" },
+      { "en": "compliance with the law", "ja": "法令順守" },
+      { "en": "ensure compliance", "ja": "順守を徹底する" },
+      { "en": "regulatory compliance", "ja": "規制の順守" },
+      { "en": "tax compliance", "ja": "納税の順守" },
+      { "en": "a compliance officer", "ja": "コンプライアンス担当者" }
+    ],
+    "related": [
+      { "en": "conformity", "ja": "一致、順応" },
+      { "en": "obedience", "ja": "服従" },
+      { "en": "adherence", "ja": "順守、固守" },
+      { "en": "observance", "ja": "順守、遵守" }
+    ],
+    "faq": [
+      { "q": "compliance の意味は？", "a": "『（規則・法律・要求などに)従うこと・順守』という意味です。in compliance with 〜（〜に従って）のように使います。ビジネスでは『法令順守（コンプライアンス）』の意味で使われます。" },
+      { "q": "動詞・対義語は？", "a": "動詞は comply（with 〜 で『〜に従う』）、対義語は noncompliance（不順守）です。" }
+    ],
+    "quiz": [
+      { "q": "in compliance with の意味は？", "A": "〜に従って、〜を順守して", "B": "〜に反対して", "C": "〜のかわりに", "D": "〜なしで", "correct": "A" },
+      { "q": "compliance の動詞形は？", "A": "comply", "B": "compile", "C": "complete", "D": "complain", "correct": "A" }
+    ]
+  },
+  {
+    "english": "complicated",
+    "pron": "ˈkɑːmplɪkeɪtɪd",
+    "kana": "コンプリケイティッド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "complicate（複雑にする）＋-ed",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "基本語"],
+    "meaning_main": "複雑な・込み入った・やっかいな（理解・処理が難しい）",
+    "description": "complicated（コンプリケイティッド）は「複雑な・込み入った・やっかいな」という意味の形容詞。多くの部分や要素が絡み合っていて、理解したり扱ったりするのが難しいようすを表します。a complicated process（込み入った手続き)のように使います。対義語は simple（単純な)です。動詞 complicate（複雑にする)の過去分詞由来です。",
+    "keywords": ["complicated 意味", "complicated 使い方", "複雑な 英語", "込み入った 英語"],
+    "meanings": [
+      { "hinshi": "【形】複雑な、込み入った", "note": "多くの要素が絡み合った。a complicated process。" },
+      { "hinshi": "【形】やっかいな、わかりにくい", "note": "It's complicated.（話せば長い・複雑なんだ）。" }
+    ],
+    "usages": [
+      { "title": "① 複雑な", "desc": "込み入った。", "example_en": "This is too complicated.", "example_ja": "これは複雑すぎる。" },
+      { "title": "② やっかいな", "desc": "わかりにくい。", "example_en": "a complicated situation", "example_ja": "込み入った状況" }
+    ],
+    "warn": ["『複雑な・込み入った・やっかいな』。a complicated process/situation（込み入った手続き/状況）。It's complicated.（話せば長い）。", "対義語は simple（単純な）。complex（複雑な)と近いが、complicated は『（絡み合って)わかりにくい・困る』という含みが強い。"],
+    "etym_note": "complicate（複雑にする、ラテン語 complicare＝折り重ねる 由来）＋ -ed。「折り重なった→複雑な」。",
+    "etym_chain": [
+      { "node": "complicate + -ed", "sub": "複雑にされた", "era": "近代英語" },
+      { "node": "complicated", "sub": "複雑な", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a complicated process", "ja": "込み入った手続き" },
+      { "en": "a complicated situation", "ja": "込み入った状況" },
+      { "en": "too complicated", "ja": "複雑すぎる" },
+      { "en": "It's complicated.", "ja": "話せば長い（複雑なんだ）" },
+      { "en": "make things complicated", "ja": "事をややこしくする" },
+      { "en": "a complicated relationship", "ja": "複雑な関係" }
+    ],
+    "related": [
+      { "en": "complex", "ja": "複雑な" },
+      { "en": "intricate", "ja": "入り組んだ" },
+      { "en": "involved", "ja": "込み入った" },
+      { "en": "elaborate", "ja": "手の込んだ" }
+    ],
+    "faq": [
+      { "q": "complicated の意味は？", "a": "『複雑な・込み入った・やっかいな』という意味です。多くの部分や要素が絡み合っていて、理解したり扱ったりするのが難しいようすを表します。" },
+      { "q": "complex との違いは？", "a": "どちらも『複雑な』ですが、complicated は『（絡み合って)わかりにくい・困る』という否定的な含みが強く、complex は中立的に『入り組んでいる』ことを表します。" }
+    ],
+    "quiz": [
+      { "q": "a complicated process の意味は？", "A": "込み入った手続き", "B": "簡単な手続き", "C": "速い手続き", "D": "無料の手続き", "correct": "A" },
+      { "q": "complicated の対義語は？", "A": "simple", "B": "complex", "C": "clear", "D": "direct", "correct": "A" }
+    ]
+  },
+  {
+    "english": "complication",
+    "pron": "ˌkɑːmplɪˈkeɪʃn",
+    "kana": "コンプリケイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "complicate（複雑にする）＋-ion",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "論説"],
+    "meaning_main": "複雑化・やっかいな事態・問題／（医学）合併症",
+    "description": "complication（コンプリケイション）は「複雑化・（物事を)ややこしくする事情・やっかいな問題」という意味の名詞。順調に進んでいたものを妨げる、思わぬ困りごとを指します。ふつう複数形 complications でよく使われます。また医学では「合併症（ある病気や手術に伴って起こる別の病気)」を指します。動詞は complicate です。可算名詞です。",
+    "keywords": ["complication 意味", "complication 使い方", "やっかいな問題 英語", "合併症 英語"],
+    "meanings": [
+      { "hinshi": "【名】複雑化、やっかいな事態、問題", "note": "物事を妨げる困りごと。複数 complications。可算。" },
+      { "hinshi": "【名】（医学）合併症", "note": "病気・手術に伴う別の病気。" }
+    ],
+    "usages": [
+      { "title": "① やっかいな問題", "desc": "困りごと。", "example_en": "There were some complications.", "example_ja": "いくつかやっかいな問題が起きた。" },
+      { "title": "② 合併症", "desc": "医学。", "example_en": "complications after surgery", "example_ja": "手術後の合併症" }
+    ],
+    "warn": ["『（物事を妨げる)やっかいな問題・複雑化』。ふつう複数 complications。without complications（問題なく）。医学では『合併症』。", "complexity（複雑さ）が『状態』を指すのに対し、complication は『（起こる)困りごと・問題』を指す。動詞 complicate。"],
+    "etym_note": "complicate（複雑にする、ラテン語 complicare＝折り重ねる 由来）＋ -ion（名詞化）。「複雑にすること→複雑化・やっかいごと」。",
+    "etym_chain": [
+      { "node": "complicate + -ion", "sub": "複雑にすること", "era": "近代英語" },
+      { "node": "complication", "sub": "複雑化・合併症", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "without complications", "ja": "問題なく、順調に" },
+      { "en": "unforeseen complications", "ja": "予期せぬ問題" },
+      { "en": "cause complications", "ja": "問題を引き起こす" },
+      { "en": "medical complications", "ja": "医学的な合併症" },
+      { "en": "complications after surgery", "ja": "手術後の合併症" },
+      { "en": "a further complication", "ja": "さらなるやっかいごと" }
+    ],
+    "related": [
+      { "en": "problem", "ja": "問題" },
+      { "en": "difficulty", "ja": "困難" },
+      { "en": "issue", "ja": "問題、課題" },
+      { "en": "complexity", "ja": "複雑さ" }
+    ],
+    "faq": [
+      { "q": "complication の意味は？", "a": "『複雑化・（物事をややこしくする)やっかいな事態・問題』という意味です。ふつう複数形 complications で使われます。医学では『合併症』を指します。" },
+      { "q": "complexity との違いは？", "a": "complexity は『複雑さ（という状態）』、complication は『（起こってくる)やっかいな問題・困りごと』を指します。" }
+    ],
+    "quiz": [
+      { "q": "without complications の意味は？", "A": "問題なく、順調に", "B": "複雑に", "C": "急いで", "D": "高くついて", "correct": "A" },
+      { "q": "医学での complication の意味は？", "A": "合併症", "B": "予防接種", "C": "健康診断", "D": "リハビリ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "composer",
+    "pron": "kəmˈpoʊzər",
+    "kana": "コンポーザー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "compose（作曲する）＋-er",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "日常"],
+    "meaning_main": "作曲家（音楽を作り出す人）",
+    "description": "composer（コンポーザー）は「作曲家」という意味の名詞。音楽（曲)を作り出す人を指します。バッハやモーツァルトのようなクラシックの作曲家から、現代の映画音楽やポップスの作曲家まで広く使われます。compose（作曲する・組み立てる）＋ -er（〜する人)が語源です。a classical composer（クラシックの作曲家)のように使います。可算名詞です。",
+    "keywords": ["composer 意味", "composer 使い方", "作曲家 英語", "音楽 英語"],
+    "meanings": [
+      { "hinshi": "【名】作曲家", "note": "音楽を作り出す人。可算。" },
+      { "hinshi": "【名】（曲を書く）人", "note": "a classical composer（クラシックの作曲家）。" }
+    ],
+    "usages": [
+      { "title": "① 作曲家", "desc": "音楽。", "example_en": "Mozart was a great composer.", "example_ja": "モーツァルトは偉大な作曲家だった。" },
+      { "title": "② 映画音楽", "desc": "現代。", "example_en": "a film music composer", "example_ja": "映画音楽の作曲家" }
+    ],
+    "warn": ["『作曲家（音楽を作る人）』。compose（作曲する）＋ -er。作詞家は lyricist / songwriter（作詞作曲の両方を指すことも）。", "a classical/film composer（クラシック/映画音楽の作曲家）。演奏する人は performer / musician。"],
+    "etym_note": "compose（作曲する・組み立てる、ラテン語 componere＝組み立てる 由来）＋ -er（〜する人）。「作曲する人→作曲家」。",
+    "etym_chain": [
+      { "node": "compose + -er", "sub": "作曲する人", "era": "近代英語" },
+      { "node": "composer", "sub": "作曲家", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a classical composer", "ja": "クラシックの作曲家" },
+      { "en": "a famous composer", "ja": "有名な作曲家" },
+      { "en": "a film composer", "ja": "映画音楽の作曲家" },
+      { "en": "a great composer", "ja": "偉大な作曲家" },
+      { "en": "a contemporary composer", "ja": "現代の作曲家" },
+      { "en": "works by the composer", "ja": "その作曲家の作品" }
+    ],
+    "related": [
+      { "en": "musician", "ja": "音楽家" },
+      { "en": "songwriter", "ja": "ソングライター、作詞作曲家" },
+      { "en": "artist", "ja": "芸術家" },
+      { "en": "compose", "ja": "作曲する" }
+    ],
+    "faq": [
+      { "q": "composer の意味は？", "a": "『作曲家』という意味です。音楽（曲）を作り出す人を指します。クラシックから映画音楽・ポップスまで広く使われます。" },
+      { "q": "songwriter との違いは？", "a": "composer は主に『（曲を作る)作曲家』、songwriter は『（歌の詞と曲を書く)ソングライター』を指すことが多いです。" }
+    ],
+    "quiz": [
+      { "q": "composer の意味は？", "A": "作曲家", "B": "指揮者", "C": "演奏者", "D": "歌手", "correct": "A" },
+      { "q": "composer の動詞形は？", "A": "compose", "B": "complete", "C": "compete", "D": "compile", "correct": "A" }
+    ]
+  },
+  {
+    "english": "composite",
+    "pron": "kəmˈpɑːzɪt",
+    "kana": "コンポジット",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 componere（組み立てる）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "専門"],
+    "meaning_main": "（形）合成の・複合の／（名）合成物・混合物・複合材料",
+    "description": "composite（コンポジット）は「合成の・複合の・（いくつかの部分を)組み合わせた」という意味の形容詞。複数の要素・材料を合わせて作られていることを表します。名詞では「合成物・混合物・複合材料」を指します。a composite image（合成画像）、composite materials（複合材料)のように使います。compose（組み立てる)と同語源です。",
+    "keywords": ["composite 意味", "composite 使い方", "合成の 英語", "複合材料 英語"],
+    "meanings": [
+      { "hinshi": "【形】合成の、複合の、組み合わせた", "note": "複数の要素を合わせた。a composite image。" },
+      { "hinshi": "【名】合成物、混合物、複合材料", "note": "composite materials（複合材料）。可算。" }
+    ],
+    "usages": [
+      { "title": "① 合成の", "desc": "複合。", "example_en": "a composite image", "example_ja": "合成画像" },
+      { "title": "② 複合材料", "desc": "名詞。", "example_en": "made of composite", "example_ja": "複合材料でできている" }
+    ],
+    "warn": ["『合成の・複合の・組み合わせた』、名詞『合成物・複合材料』。a composite image/picture（合成画像）、composite materials（複合材料＝炭素繊維など）。", "compose（組み立てる）、composition（構成)と同系。『いくつかを合わせて一つにした』が核。"],
+    "etym_note": "ラテン語 componere（com＝共に ＋ ponere＝置く＝組み立てる）→ compositus。「組み合わされた→合成の」。",
+    "etym_chain": [
+      { "node": "componere", "sub": "組み立てる", "era": "ラテン語" },
+      { "node": "composite", "sub": "合成の", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a composite image", "ja": "合成画像" },
+      { "en": "composite materials", "ja": "複合材料" },
+      { "en": "a composite picture", "ja": "合成写真（モンタージュ）" },
+      { "en": "a composite number", "ja": "合成数（素数でない数）" },
+      { "en": "a composite structure", "ja": "複合構造" },
+      { "en": "made of composite", "ja": "複合材料でできた" }
+    ],
+    "related": [
+      { "en": "combined", "ja": "組み合わさった" },
+      { "en": "compound", "ja": "複合の、化合物" },
+      { "en": "mixture", "ja": "混合物" },
+      { "en": "blend", "ja": "混合" }
+    ],
+    "faq": [
+      { "q": "composite の意味は？", "a": "『合成の・複合の・（いくつかの部分を)組み合わせた』という意味の形容詞です。名詞で『合成物・混合物・複合材料』を指します。" },
+      { "q": "composite materials とは？", "a": "『複合材料』のことで、炭素繊維とプラスチックを組み合わせた素材など、複数の材料を合わせて作った材料を指します。" }
+    ],
+    "quiz": [
+      { "q": "a composite image の意味は？", "A": "合成画像", "B": "元の写真", "C": "白黒写真", "D": "手描きの絵", "correct": "A" },
+      { "q": "composite と近い意味は？", "A": "combined（組み合わさった）", "B": "single（単一の）", "C": "pure（純粋な）", "D": "empty（からの）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "composition",
+    "pron": "ˌkɑːmpəˈzɪʃn",
+    "kana": "コンポジション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "compose（組み立てる）＋-ition",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "論説"],
+    "meaning_main": "構成・組成・成分／作文／作曲・楽曲・（絵画などの）構図・作品",
+    "description": "composition（コンポジション）は「構成・組み立て・組成（成分の組み合わせ)」という意味の名詞。何がどう組み合わさってできているかを指します。また「作文」「作曲・楽曲・（絵画などの)構図・作品」の意味もあります。the composition of 〜（〜の構成・組成）、write a composition（作文を書く)のように使います。動詞は compose です。",
+    "keywords": ["composition 意味", "composition 使い方", "構成 英語", "作文 作曲 英語"],
+    "meanings": [
+      { "hinshi": "【名】構成、組成、成分", "note": "何がどう組み合わさっているか。the composition of 〜。不可算。" },
+      { "hinshi": "【名】作文", "note": "write a composition（作文を書く）。可算。" },
+      { "hinshi": "【名】作曲、楽曲、構図、作品", "note": "a musical composition（楽曲）。" }
+    ],
+    "usages": [
+      { "title": "① 構成・組成", "desc": "組み合わせ。", "example_en": "the composition of the soil", "example_ja": "土壌の組成" },
+      { "title": "② 作文・作品", "desc": "作る。", "example_en": "write a composition", "example_ja": "作文を書く" }
+    ],
+    "warn": ["『構成・組成・成分』『作文』『作曲・楽曲・（絵画の)構図・作品』の多義。the composition of 〜（〜の構成・組成）。", "音楽・絵画では『作品・構図』、学校では『作文』。動詞 compose（組み立てる・作曲する）、形容詞 composite（合成の）。"],
+    "etym_note": "compose（組み立てる、ラテン語 componere 由来）＋ -ition（名詞化）。「組み立てること→構成」。",
+    "etym_chain": [
+      { "node": "compose + -ition", "sub": "組み立てること", "era": "近代英語" },
+      { "node": "composition", "sub": "構成・作品", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "the composition of", "ja": "〜の構成・組成" },
+      { "en": "write a composition", "ja": "作文を書く" },
+      { "en": "a musical composition", "ja": "楽曲" },
+      { "en": "chemical composition", "ja": "化学組成" },
+      { "en": "the composition of a photo", "ja": "写真の構図" },
+      { "en": "a famous composition", "ja": "有名な作品" }
+    ],
+    "related": [
+      { "en": "structure", "ja": "構造" },
+      { "en": "arrangement", "ja": "配置、編曲" },
+      { "en": "essay", "ja": "小論文、作文" },
+      { "en": "work", "ja": "作品" }
+    ],
+    "faq": [
+      { "q": "composition の意味は？", "a": "『構成・組成・成分』が中心で、『作文』『作曲・楽曲・（絵画の)構図・作品』の意味もあります。the composition of 〜（〜の構成・組成）のように使います。" },
+      { "q": "動詞形は？", "a": "compose（組み立てる・作曲する）です。形容詞 composite（合成の）も関連語です。" }
+    ],
+    "quiz": [
+      { "q": "the composition of the soil の意味は？", "A": "土壌の組成（成分の構成）", "B": "土壌の広さ", "C": "土壌の価格", "D": "土壌の重さ", "correct": "A" },
+      { "q": "write a composition の意味は？", "A": "作文を書く", "B": "絵を描く", "C": "歌を聞く", "D": "本を読む", "correct": "A" }
+    ]
+  },
+  {
+    "english": "compost",
+    "pron": "ˈkɑːmpoʊst",
+    "kana": "コンポスト",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 compositum（混ぜ合わせたもの）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "日常"],
+    "meaning_main": "堆肥（たいひ）・コンポスト／堆肥にする",
+    "description": "compost（コンポスト）は「堆肥（たいひ)・コンポスト」という意味の名詞。落ち葉・生ごみ・草などの有機物を、微生物の働きで腐らせて分解し、作物を育てる栄養豊富な肥料にしたものを指します。動詞では「（有機物を)堆肥にする・堆肥化する」という意味になります。a compost heap（堆肥の山)のように使います。不可算名詞です。",
+    "keywords": ["compost 意味", "compost 使い方", "堆肥 英語", "コンポスト 英語"],
+    "meanings": [
+      { "hinshi": "【名】堆肥、コンポスト", "note": "有機物を腐らせた肥料。不可算。" },
+      { "hinshi": "【動】堆肥にする、堆肥化する", "note": "生ごみなどを分解させる。" }
+    ],
+    "usages": [
+      { "title": "① 堆肥", "desc": "肥料。", "example_en": "Add compost to the garden.", "example_ja": "庭に堆肥を加えて。" },
+      { "title": "② 堆肥にする", "desc": "動詞。", "example_en": "compost kitchen waste", "example_ja": "生ごみを堆肥にする" }
+    ],
+    "warn": ["落ち葉・生ごみ・草などを微生物で腐らせて作る『堆肥・コンポスト』。a compost heap/bin（堆肥の山/容器）。", "動詞『堆肥にする・堆肥化する』。manure（（動物のふんの)肥やし）、fertilizer（肥料)と近い。"],
+    "etym_note": "ラテン語 compositum（混ぜ合わせたもの、componere＝組み立てる 由来）に由来。「混ぜ合わせたもの→堆肥」。",
+    "etym_chain": [
+      { "node": "compositum", "sub": "混ぜ合わせたもの", "era": "ラテン語" },
+      { "node": "compost", "sub": "堆肥", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "a compost heap", "ja": "堆肥の山" },
+      { "en": "a compost bin", "ja": "堆肥づくりの容器" },
+      { "en": "add compost", "ja": "堆肥を加える" },
+      { "en": "make compost", "ja": "堆肥を作る" },
+      { "en": "garden compost", "ja": "庭の堆肥" },
+      { "en": "compost kitchen waste", "ja": "生ごみを堆肥にする" }
+    ],
+    "related": [
+      { "en": "fertilizer", "ja": "肥料" },
+      { "en": "manure", "ja": "（動物のふんの）肥やし" },
+      { "en": "humus", "ja": "腐植土" },
+      { "en": "soil", "ja": "土壌" }
+    ],
+    "faq": [
+      { "q": "compost の意味は？", "a": "『堆肥（たいひ）・コンポスト』という意味です。落ち葉・生ごみ・草などの有機物を微生物の働きで腐らせて分解し、栄養豊富な肥料にしたものを指します。動詞で『堆肥にする』の意味もあります。" },
+      { "q": "fertilizer との違いは？", "a": "compost は『（有機物を腐らせて作った)堆肥』、fertilizer は『肥料（化学肥料も含む）』です。compost は fertilizer の一種です。" }
+    ],
+    "quiz": [
+      { "q": "compost の意味は？", "A": "堆肥（有機物を腐らせた肥料）", "B": "殺虫剤", "C": "種", "D": "鉢", "correct": "A" },
+      { "q": "a compost heap の意味は？", "A": "堆肥の山", "B": "ごみ収集車", "C": "花壇", "D": "物置", "correct": "A" }
+    ]
+  },
+  {
+    "english": "comprehend",
+    "pron": "ˌkɑːmprɪˈhend",
+    "kana": "コンプリヘンド",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 comprehendere（つかむ）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "論説"],
+    "meaning_main": "（完全に）理解する・把握する／（文語）含む・包含する",
+    "description": "comprehend（コンプリヘンド）は「理解する・（しっかり)把握する」という意味の動詞。物事の意味や内容を、頭でとらえてわかることを表します。understand よりかたい語で、『完全に理解する』という含みがあります。hard to comprehend（理解しがたい)のように使います。また文語では「含む・包含する」の意味もあります。名詞は comprehension（理解）です。",
+    "keywords": ["comprehend 意味", "comprehend 使い方", "理解する 英語", "把握する 英語"],
+    "meanings": [
+      { "hinshi": "【動】（完全に）理解する、把握する", "note": "意味・内容を頭でとらえる。understand より硬い。" },
+      { "hinshi": "【動】（文語）含む、包含する", "note": "〜を中に含む。" }
+    ],
+    "usages": [
+      { "title": "① 理解する", "desc": "把握。", "example_en": "It's hard to comprehend.", "example_ja": "それは理解しがたい。" },
+      { "title": "② 完全に理解", "desc": "とらえる。", "example_en": "fully comprehend the situation", "example_ja": "状況を完全に把握する" }
+    ],
+    "warn": ["『（しっかり・完全に)理解する・把握する』。understand より硬い語。hard/difficult to comprehend（理解しがたい）、fully comprehend（完全に理解する）。", "名詞 comprehension（理解、（英語の)読解）、形容詞 comprehensible（理解できる）。comprehensive（包括的な)とは別語なので注意。"],
+    "etym_note": "ラテン語 comprehendere（com＝共に ＋ prehendere＝つかむ）＝『しっかりつかむ→理解する』に由来。",
+    "etym_chain": [
+      { "node": "comprehendere", "sub": "つかむ", "era": "ラテン語" },
+      { "node": "comprehend", "sub": "理解する", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "hard to comprehend", "ja": "理解しがたい" },
+      { "en": "fully comprehend", "ja": "完全に理解する" },
+      { "en": "fail to comprehend", "ja": "理解できない" },
+      { "en": "comprehend the meaning", "ja": "意味を理解する" },
+      { "en": "barely comprehend", "ja": "かろうじて理解する" },
+      { "en": "comprehend the situation", "ja": "状況を把握する" }
+    ],
+    "related": [
+      { "en": "understand", "ja": "理解する" },
+      { "en": "grasp", "ja": "把握する" },
+      { "en": "follow", "ja": "（話を）理解する" },
+      { "en": "perceive", "ja": "知覚する、気づく" }
+    ],
+    "faq": [
+      { "q": "comprehend の意味は？", "a": "『理解する・（しっかり)把握する』という意味です。understand よりかたい語で、『完全に理解する』という含みがあります。文語では『含む・包含する』の意味もあります。" },
+      { "q": "名詞形は？", "a": "comprehension（理解・（英語の)読解）です。形容詞は comprehensible（理解できる）です。comprehensive（包括的な）とは別語なので注意しましょう。" }
+    ],
+    "quiz": [
+      { "q": "hard to comprehend の意味は？", "A": "理解しがたい", "B": "簡単に理解できる", "C": "覚えやすい", "D": "見つけやすい", "correct": "A" },
+      { "q": "comprehend の名詞形は？", "A": "comprehension", "B": "comprehensive", "C": "comprise", "D": "compression", "correct": "A" }
+    ]
+  },
+  {
+    "english": "compress",
+    "pron": "kəmˈpres",
+    "kana": "コンプレス",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 comprimere（押しつける）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "論説"],
+    "meaning_main": "（動）圧縮する・押し縮める・（情報を）要約する／（名）湿布",
+    "description": "compress（コンプレス）は、動詞で「圧縮する・押し縮める・（空間や時間・情報を)ぎゅっと縮める・要約する」という意味です。物を押して小さくすることや、データ・文章などをコンパクトにまとめることを表します。compress a file（ファイルを圧縮する)のように使います。名詞では「湿布（患部に当てる布)」を指します。名詞と動詞でアクセントが変わることがあります。",
+    "keywords": ["compress 意味", "compress 使い方", "圧縮する 英語", "湿布 英語"],
+    "meanings": [
+      { "hinshi": "【動】圧縮する、押し縮める", "note": "押して小さくする。compress a file。" },
+      { "hinshi": "【動】（情報・時間を）要約する、短縮する", "note": "ぎゅっとまとめる。" },
+      { "hinshi": "【名】湿布", "note": "患部に当てる布。a cold compress（冷湿布）。" }
+    ],
+    "usages": [
+      { "title": "① 圧縮する", "desc": "縮める。", "example_en": "compress a file", "example_ja": "ファイルを圧縮する" },
+      { "title": "② 湿布", "desc": "名詞。", "example_en": "a cold compress", "example_ja": "冷湿布" }
+    ],
+    "warn": ["動詞『圧縮する・押し縮める・（情報を)要約する』、名詞『湿布』。compress a file（ファイルを圧縮する）、a cold compress（冷湿布）。", "名詞と動詞でアクセントが変わることがある（動 kəmˈpres / 名 ˈkɑːmpres）。名詞は compression（圧縮）。"],
+    "etym_note": "ラテン語 comprimere（com＝共に ＋ premere＝押す）＝『押しつける→圧縮する』に由来。",
+    "etym_chain": [
+      { "node": "comprimere", "sub": "押しつける", "era": "ラテン語" },
+      { "node": "compress", "sub": "圧縮する", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "compress a file", "ja": "ファイルを圧縮する" },
+      { "en": "compress data", "ja": "データを圧縮する" },
+      { "en": "compress air", "ja": "空気を圧縮する" },
+      { "en": "a cold compress", "ja": "冷湿布" },
+      { "en": "a warm compress", "ja": "温湿布" },
+      { "en": "compress into", "ja": "〜に押し込める、短縮する" }
+    ],
+    "related": [
+      { "en": "squeeze", "ja": "押しつぶす、絞る" },
+      { "en": "condense", "ja": "凝縮する、要約する" },
+      { "en": "shrink", "ja": "縮む、縮める" },
+      { "en": "compact", "ja": "小さくまとめる" }
+    ],
+    "faq": [
+      { "q": "compress の意味は？", "a": "動詞で『圧縮する・押し縮める・（情報を)要約する』、名詞で『湿布』という意味です。compress a file（ファイルを圧縮する）のように使います。" },
+      { "q": "名詞形は？", "a": "compression（圧縮）です。名詞の compress は『湿布』を指します。" }
+    ],
+    "quiz": [
+      { "q": "compress a file の意味は？", "A": "ファイルを圧縮する", "B": "ファイルを削除する", "C": "ファイルを開く", "D": "ファイルを印刷する", "correct": "A" },
+      { "q": "a cold compress の意味は？", "A": "冷湿布", "B": "冷蔵庫", "C": "冷たい飲み物", "D": "冷凍食品", "correct": "A" }
+    ]
+  },
+  {
+    "english": "compression",
+    "pron": "kəmˈpreʃn",
+    "kana": "コンプレッション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "compress（圧縮する）＋-ion",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "論説"],
+    "meaning_main": "圧縮・圧搾／（データなどの）圧縮／（医療）圧迫",
+    "description": "compression（コンプレッション）は「圧縮・圧搾・押し縮めること」という意味の名詞。物や空気、データなどを押して小さくすること、またその力を指します。data compression（データ圧縮）、chest compression（（心肺蘇生の)胸骨圧迫)のように使います。動詞は compress です。衣類の『コンプレッションウェア（体を適度に締めつける衣類)』でも知られます。不可算名詞です。",
+    "keywords": ["compression 意味", "compression 使い方", "圧縮 英語", "データ圧縮 英語"],
+    "meanings": [
+      { "hinshi": "【名】圧縮、圧搾、押し縮めること", "note": "押して小さくすること。不可算。" },
+      { "hinshi": "【名】（データの）圧縮／（医療）圧迫", "note": "data compression（データ圧縮）。" }
+    ],
+    "usages": [
+      { "title": "① 圧縮", "desc": "データなど。", "example_en": "data compression", "example_ja": "データ圧縮" },
+      { "title": "② 圧迫", "desc": "医療。", "example_en": "chest compression", "example_ja": "胸骨圧迫（心臓マッサージ）" }
+    ],
+    "warn": ["『圧縮・圧搾・押し縮めること』。data compression（データ圧縮）、chest compression（（心肺蘇生の)胸骨圧迫）、air compression（空気圧縮）。", "動詞 compress。対義語は expansion（膨張）。コンプレッションウェア（体を締めつける衣類)でも使う。"],
+    "etym_note": "compress（圧縮する、ラテン語 comprimere＝押しつける 由来）＋ -ion（名詞化）。「圧縮すること→圧縮」。",
+    "etym_chain": [
+      { "node": "compress + -ion", "sub": "圧縮すること", "era": "近代英語" },
+      { "node": "compression", "sub": "圧縮", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "data compression", "ja": "データ圧縮" },
+      { "en": "chest compression", "ja": "胸骨圧迫" },
+      { "en": "air compression", "ja": "空気の圧縮" },
+      { "en": "image compression", "ja": "画像圧縮" },
+      { "en": "under compression", "ja": "圧縮されて" },
+      { "en": "compression socks", "ja": "着圧ソックス" }
+    ],
+    "related": [
+      { "en": "compress", "ja": "圧縮する" },
+      { "en": "squeezing", "ja": "押しつぶすこと" },
+      { "en": "condensing", "ja": "凝縮" },
+      { "en": "pressure", "ja": "圧力" }
+    ],
+    "faq": [
+      { "q": "compression の意味は？", "a": "『圧縮・圧搾・押し縮めること』という意味です。物や空気、データなどを押して小さくすること、またその力を指します。data compression（データ圧縮）などで使います。" },
+      { "q": "chest compression とは？", "a": "心肺蘇生（CPR）での『胸骨圧迫（心臓マッサージ）』のことです。" }
+    ],
+    "quiz": [
+      { "q": "data compression の意味は？", "A": "データ圧縮", "B": "データ入力", "C": "データ削除", "D": "データ保存", "correct": "A" },
+      { "q": "compression の動詞形は？", "A": "compress", "B": "comprise", "C": "comprehend", "D": "compose", "correct": "A" }
+    ]
+  },
+  {
+    "english": "compromise",
+    "pron": "ˈkɑːmprəmaɪz",
+    "kana": "コンプロマイズ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 compromittere（互いに約束する）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "論説"],
+    "meaning_main": "（名）妥協・歩み寄り・妥協案／（動）妥協する／（名誉・安全を）危うくする・損なう",
+    "description": "compromise（コンプロマイズ）は「妥協・歩み寄り・妥協案」という意味の名詞。対立する者同士が、互いに要求を少しずつ譲り合って、折り合いをつけることを指します。動詞では「妥協する・歩み寄る」の意味になります。また別の意味で「（名誉・安全・信用などを)危うくする・損なう」という使い方もあります。reach a compromise（妥協に達する)のように使います。",
+    "keywords": ["compromise 意味", "compromise 使い方", "妥協 英語", "歩み寄り 英語"],
+    "meanings": [
+      { "hinshi": "【名】妥協、歩み寄り、妥協案", "note": "互いに譲り合って折り合うこと。可算・不可算。" },
+      { "hinshi": "【動】妥協する、歩み寄る", "note": "compromise on 〜（〜で妥協する）。" },
+      { "hinshi": "【動】（名誉・安全を）危うくする、損なう", "note": "compromise safety（安全を損なう）。" }
+    ],
+    "usages": [
+      { "title": "① 妥協", "desc": "歩み寄り。", "example_en": "They reached a compromise.", "example_ja": "彼らは妥協に達した。" },
+      { "title": "② 危うくする", "desc": "損なう。", "example_en": "Don't compromise your safety.", "example_ja": "安全を犠牲にしないで。" }
+    ],
+    "warn": ["『妥協・歩み寄り・妥協案』『妥協する』が中心。reach/make a compromise（妥協に達する）、compromise on 〜（〜で妥協する）。", "もう一つの意味『（名誉・安全・信用を)危うくする・損なう』にも注意。compromise safety/security（安全/安全保障を損なう）。"],
+    "etym_note": "ラテン語 compromittere（com＝共に ＋ promittere＝約束する）＝『互いに約束する→歩み寄る』に由来。",
+    "etym_chain": [
+      { "node": "compromittere", "sub": "互いに約束する", "era": "ラテン語" },
+      { "node": "compromise", "sub": "妥協", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "reach a compromise", "ja": "妥協に達する" },
+      { "en": "make a compromise", "ja": "妥協する" },
+      { "en": "compromise on", "ja": "〜で妥協する" },
+      { "en": "a reasonable compromise", "ja": "妥当な妥協案" },
+      { "en": "compromise safety", "ja": "安全を損なう" },
+      { "en": "a willingness to compromise", "ja": "歩み寄る姿勢" }
+    ],
+    "related": [
+      { "en": "concession", "ja": "譲歩" },
+      { "en": "settlement", "ja": "和解、解決" },
+      { "en": "agreement", "ja": "合意" },
+      { "en": "bargain", "ja": "取り決め、交渉" }
+    ],
+    "faq": [
+      { "q": "compromise の意味は？", "a": "『妥協・歩み寄り・妥協案』が中心で、動詞『妥協する・歩み寄る』もあります。別の意味で『（名誉・安全・信用を)危うくする・損なう』という使い方もあります。" },
+      { "q": "reach a compromise とは？", "a": "『妥協に達する・折り合いをつける』という意味の表現です。" }
+    ],
+    "quiz": [
+      { "q": "reach a compromise の意味は？", "A": "妥協に達する", "B": "対立を深める", "C": "降参する", "D": "交渉を打ち切る", "correct": "A" },
+      { "q": "compromise safety の意味は？", "A": "安全を損なう", "B": "安全を高める", "C": "安全を確認する", "D": "安全を宣言する", "correct": "A" }
+    ]
+  },
+  {
+    "english": "comptometer",
+    "pron": "kɑːmpˈtɑːmɪtər",
+    "kana": "コンプトメーター",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "compute（計算する）＋-meter（計器）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "歴史"],
+    "meaning_main": "コンプトメーター（キーを押して計算する機械式の計算機）",
+    "description": "comptometer（コンプトメーター）は「コンプトメーター」という意味の名詞で、電卓が普及する前に使われた、キーを押して足し算などの計算をする機械式の計算機を指します。もとはある計算機のブランド名でしたが、同種の機械の一般名詞としても使われました。事務や会計の現場で広く使われた、歴史的な器具です。可算名詞です。",
+    "keywords": ["comptometer 意味", "comptometer 使い方", "計算機 英語 歴史", "機械式計算機 英語"],
+    "meanings": [
+      { "hinshi": "【名】コンプトメーター", "note": "キーを押して計算する機械式の計算機。可算。" },
+      { "hinshi": "【名】（電卓以前の）加算・計算機", "note": "事務・会計で使われた歴史的な器具。" }
+    ],
+    "usages": [
+      { "title": "① 機械式計算機", "desc": "歴史。", "example_en": "Clerks used a comptometer to add figures.", "example_ja": "事務員は数字を足すのにコンプトメーターを使った。" },
+      { "title": "② 電卓以前", "desc": "器具。", "example_en": "the age of the comptometer", "example_ja": "コンプトメーターの時代" }
+    ],
+    "warn": ["電卓（calculator)が広まる前に使われた『キーを押して計算する機械式の計算機』。もとはブランド名が一般名詞化した歴史的な語。", "compute（計算する）＋ -meter（計器）。adding machine（加算機）、abacus（そろばん)と同じく計算の道具。"],
+    "etym_note": "compute（計算する）＋ -meter（計るもの）を組み合わせた造語（もとは商標）。「計算する計器→コンプトメーター」。",
+    "etym_chain": [
+      { "node": "compute + -meter", "sub": "計算する計器", "era": "19世紀英語" },
+      { "node": "comptometer", "sub": "コンプトメーター", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "use a comptometer", "ja": "コンプトメーターを使う" },
+      { "en": "a mechanical comptometer", "ja": "機械式のコンプトメーター" },
+      { "en": "operate a comptometer", "ja": "コンプトメーターを操作する" },
+      { "en": "the keys of a comptometer", "ja": "コンプトメーターのキー" },
+      { "en": "a comptometer operator", "ja": "コンプトメーター操作員" },
+      { "en": "an old comptometer", "ja": "古いコンプトメーター" }
+    ],
+    "related": [
+      { "en": "calculator", "ja": "計算機、電卓" },
+      { "en": "adding machine", "ja": "加算機" },
+      { "en": "abacus", "ja": "そろばん" },
+      { "en": "machine", "ja": "機械" }
+    ],
+    "faq": [
+      { "q": "comptometer の意味は？", "a": "『コンプトメーター』という意味で、電卓が普及する前に使われた、キーを押して足し算などの計算をする機械式の計算機を指します。歴史的な器具です。" },
+      { "q": "由来は？", "a": "もとはある計算機のブランド名で、compute（計算する）＋ -meter（計器）を組み合わせた造語です。同種の機械の一般名詞としても使われました。" }
+    ],
+    "quiz": [
+      { "q": "comptometer の意味は？", "A": "キーを押して計算する機械式の計算機", "B": "温度計", "C": "顕微鏡", "D": "タイプライター", "correct": "A" },
+      { "q": "comptometer が使われたのは？", "A": "電卓が普及する前", "B": "インターネット普及後", "C": "紙の発明前", "D": "未来", "correct": "A" }
+    ]
+  },
+  {
+    "english": "compulsory",
+    "pron": "kəmˈpʌlsəri",
+    "kana": "コンパルソリー",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 compellere（強いる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "論説"],
+    "meaning_main": "義務的な・強制的な・必修の（必ずしなければならない）",
+    "description": "compulsory（コンパルソリー）は「義務的な・強制的な・必修の」という意味の形容詞。法律や規則によって、必ずしなければならないと定められていることを表します。compulsory education（義務教育）、a compulsory subject（必修科目)のように使います。対義語は optional / voluntary（任意の・自由選択の)です。mandatory（義務の)と近い意味です。",
+    "keywords": ["compulsory 意味", "compulsory 使い方", "義務的な 英語", "必修の 英語"],
+    "meanings": [
+      { "hinshi": "【形】義務的な、強制的な", "note": "必ずしなければならない。compulsory education。" },
+      { "hinshi": "【形】必修の", "note": "a compulsory subject（必修科目）。" }
+    ],
+    "usages": [
+      { "title": "① 義務的な", "desc": "強制。", "example_en": "compulsory education", "example_ja": "義務教育" },
+      { "title": "② 必修の", "desc": "科目など。", "example_en": "a compulsory subject", "example_ja": "必修科目" }
+    ],
+    "warn": ["『義務的な・強制的な・必修の（必ずしなければならない）』。compulsory education（義務教育）、a compulsory subject（必修科目）。", "対義語は optional / voluntary（任意の・自由選択の）、elective（選択の）。mandatory / obligatory（義務の)と近い。"],
+    "etym_note": "ラテン語 compellere（com＝共に ＋ pellere＝押す＝強いる）に由来。「強いる→義務的な」。",
+    "etym_chain": [
+      { "node": "compellere", "sub": "強いる", "era": "ラテン語" },
+      { "node": "compulsory", "sub": "義務的な", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "compulsory education", "ja": "義務教育" },
+      { "en": "a compulsory subject", "ja": "必修科目" },
+      { "en": "compulsory attendance", "ja": "出席義務" },
+      { "en": "make it compulsory", "ja": "義務化する" },
+      { "en": "compulsory insurance", "ja": "強制保険" },
+      { "en": "compulsory military service", "ja": "徴兵制" }
+    ],
+    "related": [
+      { "en": "mandatory", "ja": "義務的な、必須の" },
+      { "en": "required", "ja": "必須の、必要とされる" },
+      { "en": "obligatory", "ja": "義務的な" },
+      { "en": "forced", "ja": "強制された" }
+    ],
+    "faq": [
+      { "q": "compulsory の意味は？", "a": "『義務的な・強制的な・必修の』という意味です。法律や規則によって、必ずしなければならないと定められていることを表します。" },
+      { "q": "対義語は？", "a": "optional / voluntary（任意の・自由選択の）、elective（選択の）です。mandatory（義務の）と近い意味です。" }
+    ],
+    "quiz": [
+      { "q": "compulsory education の意味は？", "A": "義務教育", "B": "高等教育", "C": "生涯教育", "D": "通信教育", "correct": "A" },
+      { "q": "compulsory の対義語は？", "A": "optional（任意の）", "B": "mandatory（義務の）", "C": "required（必須の）", "D": "forced（強制の）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "computation",
+    "pron": "ˌkɑːmpjuˈteɪʃn",
+    "kana": "コンピュテーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "compute（計算する）＋-ation",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "論説"],
+    "meaning_main": "計算・計算すること・算定／（コンピューターによる）演算",
+    "description": "computation（コンピュテーション）は「計算・計算すること・算定」という意味の名詞。数や量を計算して求めることや、その過程を指します。特に、複雑な計算やコンピューターによる演算について使われることが多い、ややあらたまった語です。a complex computation（複雑な計算)のように使います。動詞は compute、形容詞は computational（計算の)です。",
+    "keywords": ["computation 意味", "computation 使い方", "計算 英語", "演算 英語"],
+    "meanings": [
+      { "hinshi": "【名】計算、計算すること、算定", "note": "数・量を計算して求めること。可算・不可算。" },
+      { "hinshi": "【名】（コンピューターによる）演算", "note": "a complex computation（複雑な計算）。" }
+    ],
+    "usages": [
+      { "title": "① 計算", "desc": "算定。", "example_en": "a complex computation", "example_ja": "複雑な計算" },
+      { "title": "② 演算", "desc": "コンピューター。", "example_en": "require a lot of computation", "example_ja": "多くの演算を必要とする" }
+    ],
+    "warn": ["『計算・計算すること・算定』、特に複雑な計算やコンピューターの演算について使うあらたまった語。a complex computation（複雑な計算）。", "動詞 compute、形容詞 computational（計算の）。calculation（計算)とほぼ同義だが、computation はより学術的・大規模な計算の含み。"],
+    "etym_note": "compute（計算する、ラテン語 computare＝数える 由来）＋ -ation（名詞化）。「計算すること→計算」。",
+    "etym_chain": [
+      { "node": "compute + -ation", "sub": "計算すること", "era": "近代英語" },
+      { "node": "computation", "sub": "計算", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a complex computation", "ja": "複雑な計算" },
+      { "en": "mathematical computation", "ja": "数学的計算" },
+      { "en": "require computation", "ja": "計算を必要とする" },
+      { "en": "perform a computation", "ja": "計算を行う" },
+      { "en": "numerical computation", "ja": "数値計算" },
+      { "en": "computation power", "ja": "計算能力" }
+    ],
+    "related": [
+      { "en": "calculation", "ja": "計算" },
+      { "en": "reckoning", "ja": "計算、勘定" },
+      { "en": "arithmetic", "ja": "算数、計算" },
+      { "en": "counting", "ja": "数えること" }
+    ],
+    "faq": [
+      { "q": "computation の意味は？", "a": "『計算・計算すること・算定』という意味です。数や量を計算して求めること、特に複雑な計算やコンピューターの演算について使われるあらたまった語です。" },
+      { "q": "calculation との違いは？", "a": "ほぼ同義ですが、computation はより学術的・大規模な計算やコンピューターの演算という含みが強い語です。" }
+    ],
+    "quiz": [
+      { "q": "a complex computation の意味は？", "A": "複雑な計算", "B": "簡単な会話", "C": "長い物語", "D": "大きな機械", "correct": "A" },
+      { "q": "computation の動詞形は？", "A": "compute", "B": "complete", "C": "compose", "D": "compare", "correct": "A" }
+    ]
+  },
+  {
+    "english": "compute",
+    "pron": "kəmˈpjuːt",
+    "kana": "コンピュート",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 computare（数える）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "論説"],
+    "meaning_main": "計算する・算出する（数値を計算して求める）",
+    "description": "compute（コンピュート）は「計算する・算出する」という意味の動詞。数や量を、計算によって正確に求めることを表します。compute the total（合計を計算する)のように使います。ラテン語 computare（数える)が語源で、computer（計算する機械→コンピューター)の元になった語です。名詞は computation、やや口語で It doesn't compute.（つじつまが合わない)という使い方もあります。",
+    "keywords": ["compute 意味", "compute 使い方", "計算する 英語", "算出する 英語"],
+    "meanings": [
+      { "hinshi": "【動】計算する、算出する", "note": "数値を計算して求める。compute the total。" },
+      { "hinshi": "【動】（it computes で）つじつまが合う", "note": "口語。It doesn't compute.（理解できない）。" }
+    ],
+    "usages": [
+      { "title": "① 計算する", "desc": "算出。", "example_en": "compute the total cost", "example_ja": "総費用を計算する" },
+      { "title": "② つじつまが合う", "desc": "口語。", "example_en": "It doesn't compute.", "example_ja": "つじつまが合わない（理解できない）。" }
+    ],
+    "warn": ["『計算する・算出する』。compute the total/cost/average（合計/費用/平均を計算する）。calculate（計算する)とほぼ同義。", "computer（コンピューター）、computation（計算）の元になった語。口語の It doesn't compute.（つじつまが合わない・納得できない）も。"],
+    "etym_note": "ラテン語 computare（com＝共に ＋ putare＝数える）に由来。「数える→計算する」。",
+    "etym_chain": [
+      { "node": "computare", "sub": "数える", "era": "ラテン語" },
+      { "node": "compute", "sub": "計算する", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "compute the total", "ja": "合計を計算する" },
+      { "en": "compute the cost", "ja": "費用を計算する" },
+      { "en": "compute the average", "ja": "平均を算出する" },
+      { "en": "compute a value", "ja": "値を計算する" },
+      { "en": "It doesn't compute.", "ja": "つじつまが合わない" },
+      { "en": "compute by hand", "ja": "手で計算する" }
+    ],
+    "related": [
+      { "en": "calculate", "ja": "計算する" },
+      { "en": "work out", "ja": "計算して出す" },
+      { "en": "reckon", "ja": "計算する、見積もる" },
+      { "en": "count", "ja": "数える" }
+    ],
+    "faq": [
+      { "q": "compute の意味は？", "a": "『計算する・算出する』という意味です。数や量を計算によって正確に求めることを表します。ラテン語 computare（数える）が語源で、computer の元になった語です。" },
+      { "q": "It doesn't compute. とは？", "a": "口語で『つじつまが合わない・納得できない・理解できない』という意味の表現です。" }
+    ],
+    "quiz": [
+      { "q": "compute the total の意味は？", "A": "合計を計算する", "B": "合計を消す", "C": "合計を忘れる", "D": "合計を隠す", "correct": "A" },
+      { "q": "compute の元になった機械は？", "A": "computer（コンピューター）", "B": "camera", "C": "printer", "D": "scanner", "correct": "A" }
+    ]
+  }
+]

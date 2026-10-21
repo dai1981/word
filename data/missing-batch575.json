@@ -1,0 +1,990 @@
+[
+  {
+    "english": "cave",
+    "pron": "keɪv",
+    "kana": "ケイブ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 cavus（うつろな）",
+    "ld_level": "4級",
+    "badges": ["中学生〜", "英検4級", "CEFR A2", "基本語"],
+    "meaning_main": "洞穴・洞窟／（cave in で）陥没する・崩れ落ちる・屈する",
+    "description": "cave（ケイブ）は「洞穴・洞窟」という意味の名詞。山や岩、地下にできた、人や動物が入れる大きな空洞を指します。動詞では cave in の形で「（屋根・地面などが)陥没する・崩れ落ちる」、また比喩で「（圧力に)屈する・折れる」という意味になります。可算名詞です。",
+    "keywords": ["cave 意味", "cave 使い方", "洞穴 英語", "cave in"],
+    "meanings": [
+      { "hinshi": "【名】洞穴、洞窟", "note": "岩や地下の大きな空洞。可算。" },
+      { "hinshi": "【動】（cave in で）陥没する、崩れ落ちる", "note": "屋根・地面などが落ちる。" },
+      { "hinshi": "【動】（cave in で）屈する、折れる", "note": "圧力に負ける。" }
+    ],
+    "usages": [
+      { "title": "① 洞穴", "desc": "空洞。", "example_en": "They explored a dark cave.", "example_ja": "彼らは暗い洞穴を探検した。" },
+      { "title": "② 陥没・屈する", "desc": "cave in。", "example_en": "The roof caved in.", "example_ja": "屋根が陥没した。" }
+    ],
+    "warn": ["cave in（（屋根・地面が)陥没する／（圧力に)屈する・折れる)が重要。give in（屈する)に近い比喩。", "cavern（（より大きな)洞窟）、grotto（（美しい)小洞窟)も関連。"],
+    "etym_note": "ラテン語 cavus（うつろな・空洞の）→ 古フランス語 cave 経由。「空洞→洞穴」。",
+    "etym_chain": [
+      { "node": "cavus", "sub": "うつろな", "era": "ラテン語" },
+      { "node": "cave", "sub": "洞穴", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "explore a cave", "ja": "洞穴を探検する" },
+      { "en": "cave in", "ja": "陥没する／屈する" },
+      { "en": "a dark cave", "ja": "暗い洞穴" },
+      { "en": "a cave man", "ja": "穴居人、原始人" },
+      { "en": "an underground cave", "ja": "地下の洞穴" },
+      { "en": "live in a cave", "ja": "洞穴に住む" }
+    ],
+    "related": [
+      { "en": "cavern", "ja": "（大きな）洞窟" },
+      { "en": "hole", "ja": "穴" },
+      { "en": "grotto", "ja": "（美しい）小洞窟" },
+      { "en": "den", "ja": "（動物の）巣穴" }
+    ],
+    "faq": [
+      { "q": "cave の意味は？", "a": "『洞穴・洞窟』という意味です。動詞では cave in の形で『（屋根・地面が)陥没する・崩れ落ちる』、比喩で『（圧力に)屈する・折れる』の意味になります。" },
+      { "q": "cave in とは？", "a": "『（屋根や地面が)陥没する・崩れ落ちる』、また比喩で『（圧力・要求に)屈する・折れる』という意味の句動詞です。" }
+    ],
+    "quiz": [
+      { "q": "The roof caved in. の意味は？", "A": "屋根が陥没した", "B": "屋根を直した", "C": "屋根を塗った", "D": "屋根に登った", "correct": "A" },
+      { "q": "cave in のもう一つの意味は？", "A": "（圧力に）屈する", "B": "勝利する", "C": "逃げる", "D": "笑う", "correct": "A" }
+    ]
+  },
+  {
+    "english": "cavernous",
+    "pron": "ˈkævərnəs",
+    "kana": "キャバナス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "cavern（洞窟）＋-ous",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "描写"],
+    "meaning_main": "洞穴のような・広大でがらんとした／（目・頬が）落ちくぼんだ",
+    "description": "cavernous（キャバナス）は「洞穴のような・（洞穴のように)広大でがらんとした・ほら穴のように深い」という意味の形容詞。だだっ広くて薄暗い空間を描写するのに使います。また『（目や頬が)落ちくぼんだ』という意味でも使われます。a cavernous hall（がらんとした広間)のように使います。",
+    "keywords": ["cavernous 意味", "cavernous 使い方", "広大な 英語", "がらんとした 英語"],
+    "meanings": [
+      { "hinshi": "【形】洞穴のような、広大でがらんとした", "note": "だだっ広く薄暗い。" },
+      { "hinshi": "【形】（目・頬が）落ちくぼんだ", "note": "深くくぼんだ。" }
+    ],
+    "usages": [
+      { "title": "① がらんとした", "desc": "広大。", "example_en": "The cavernous warehouse echoed.", "example_ja": "がらんとした倉庫は反響した。" },
+      { "title": "② 落ちくぼんだ", "desc": "目・頬。", "example_en": "cavernous eyes", "example_ja": "落ちくぼんだ目" }
+    ],
+    "warn": ["『（洞穴のように)広大でがらんとした・薄暗い』が中心。大きな部屋・建物・空間の描写に使う。", "『（目・頬が)落ちくぼんだ』の意味もある。名詞 cavern（洞窟)＋ -ous（〜に満ちた）。"],
+    "etym_note": "cavern（洞窟、ラテン語 caverna 由来）＋ -ous（〜のような）。「洞窟のような→広大でがらんとした」。",
+    "etym_chain": [
+      { "node": "caverna", "sub": "洞窟", "era": "ラテン語" },
+      { "node": "cavern + -ous", "sub": "洞窟のような", "era": "近代英語" },
+      { "node": "cavernous", "sub": "がらんとした", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a cavernous hall", "ja": "がらんとした広間" },
+      { "en": "a cavernous room", "ja": "だだっ広い部屋" },
+      { "en": "a cavernous warehouse", "ja": "広大な倉庫" },
+      { "en": "cavernous eyes", "ja": "落ちくぼんだ目" },
+      { "en": "a cavernous space", "ja": "ほら穴のような空間" },
+      { "en": "a cavernous mouth", "ja": "ぽっかり開いた大きな口" }
+    ],
+    "related": [
+      { "en": "cave", "ja": "洞穴" },
+      { "en": "vast", "ja": "広大な" },
+      { "en": "hollow", "ja": "うつろな、くぼんだ" },
+      { "en": "deep", "ja": "深い" }
+    ],
+    "faq": [
+      { "q": "cavernous の意味は？", "a": "『洞穴のような・（洞穴のように)広大でがらんとした・薄暗い』という意味の形容詞です。『（目や頬が)落ちくぼんだ』の意味でも使います。" },
+      { "q": "どんなものに使う？", "a": "だだっ広く薄暗い部屋・建物・空間（a cavernous hall など）や、落ちくぼんだ目・頬の描写に使います。" }
+    ],
+    "quiz": [
+      { "q": "a cavernous hall の意味は？", "A": "がらんとした広い広間", "B": "小さな個室", "C": "明るい台所", "D": "狭い廊下", "correct": "A" },
+      { "q": "cavernous の元になった名詞は？", "A": "cavern（洞窟）", "B": "canvas", "C": "cabin", "D": "candle", "correct": "A" }
+    ]
+  },
+  {
+    "english": "cavort",
+    "pron": "kəˈvɔːrt",
+    "kana": "カボート",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "19世紀米口語（由来不詳）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "描写"],
+    "meaning_main": "跳ね回る・はしゃぎ回る・ふざけ騒ぐ",
+    "description": "cavort（カボート）は「跳ね回る・はしゃぎ回る・陽気にふざけ騒ぐ」という意味の動詞。人や動物が、うれしそうに元気よく飛び跳ねたり遊び戯れたりするようすを表します。しばしば『（人目もはばからず)浮かれ騒ぐ』というややくだけた含みで使われます。cavort about（はしゃぎ回る)のように使います。",
+    "keywords": ["cavort 意味", "cavort 使い方", "跳ね回る 英語", "はしゃぐ 英語"],
+    "meanings": [
+      { "hinshi": "【動】跳ね回る、はしゃぎ回る", "note": "元気よく飛び跳ねて遊ぶ。" },
+      { "hinshi": "【動】浮かれ騒ぐ、ふざけ戯れる", "note": "ややくだけた含み。" }
+    ],
+    "usages": [
+      { "title": "① 跳ね回る", "desc": "はしゃぐ。", "example_en": "The children cavorted on the beach.", "example_ja": "子どもたちは浜辺で跳ね回った。" },
+      { "title": "② 浮かれ騒ぐ", "desc": "ふざける。", "example_en": "They cavorted in the pool.", "example_ja": "彼らはプールではしゃぎ回った。" }
+    ],
+    "warn": ["『（うれしそうに)跳ね回る・はしゃぎ回る』。しばしば『人目を気にせず浮かれ騒ぐ』というくだけた含みで使う。", "frolic / caper / romp（はしゃぎ回る)と類義。"],
+    "etym_note": "19世紀のアメリカ口語に現れた語で、由来ははっきりしない（curvet＝（馬の)跳躍 の変形とも）。「跳ね回る」。",
+    "etym_chain": [
+      { "node": "cavort", "sub": "跳ね回る", "era": "19世紀米口語" }
+    ],
+    "phrases": [
+      { "en": "cavort about", "ja": "はしゃぎ回る" },
+      { "en": "cavort on the beach", "ja": "浜辺で跳ね回る" },
+      { "en": "cavort in the water", "ja": "水の中ではしゃぐ" },
+      { "en": "cavort around", "ja": "あちこち跳ね回る" },
+      { "en": "cavort playfully", "ja": "戯れて跳ね回る" },
+      { "en": "frolic and cavort", "ja": "はしゃぎ跳ね回る" }
+    ],
+    "related": [
+      { "en": "frolic", "ja": "はしゃぎ回る" },
+      { "en": "caper", "ja": "跳ね回る" },
+      { "en": "romp", "ja": "はしゃぎ回る、遊び騒ぐ" },
+      { "en": "prance", "ja": "（得意げに）跳ね歩く" }
+    ],
+    "faq": [
+      { "q": "cavort の意味は？", "a": "『跳ね回る・はしゃぎ回る・陽気にふざけ騒ぐ』という意味です。人や動物がうれしそうに飛び跳ねて遊び戯れるようすを表します。" },
+      { "q": "frolic との違いは？", "a": "どちらも『はしゃぎ回る』ですが、cavort は『人目を気にせず浮かれ騒ぐ』というくだけた含みを持つことがあります。" }
+    ],
+    "quiz": [
+      { "q": "cavort の意味は？", "A": "跳ね回る、はしゃぐ", "B": "静かに座る", "C": "泣く", "D": "眠る", "correct": "A" },
+      { "q": "cavort と近い意味は？", "A": "frolic", "B": "freeze", "C": "faint", "D": "frown", "correct": "A" }
+    ]
+  },
+  {
+    "english": "cecum",
+    "pron": "ˈsiːkəm",
+    "kana": "シーカム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 caecus（盲の、行き止まりの）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "医学"],
+    "meaning_main": "盲腸（大腸の始まりにある袋状の部分）",
+    "description": "cecum（シーカム、イギリス綴りは caecum)は「盲腸」という意味の解剖学用語で、小腸から大腸へ移る境目にある、行き止まりの袋状の部分を指します。ここに虫垂（appendix)がつながっています。ラテン語の『盲の・行き止まりの』が語源です。複数形は ceca。日常でいう「盲腸（炎)」は正確には虫垂炎を指すことが多い点に注意します。",
+    "keywords": ["cecum 意味", "cecum 使い方", "盲腸 英語", "caecum"],
+    "meanings": [
+      { "hinshi": "【名】盲腸", "note": "大腸の始まりの袋状部分。caecum とも綴る。可算。複数 ceca。" },
+      { "hinshi": "【名】（消化管の）行き止まりの袋", "note": "虫垂がつながる。" }
+    ],
+    "usages": [
+      { "title": "① 盲腸", "desc": "解剖。", "example_en": "The appendix is attached to the cecum.", "example_ja": "虫垂は盲腸につながっている。" },
+      { "title": "② 消化管の一部", "desc": "大腸の始まり。", "example_en": "The cecum is the start of the large intestine.", "example_ja": "盲腸は大腸の始まりの部分だ。" }
+    ],
+    "warn": ["cecum（盲腸）は『大腸の始まりの袋状部分』。そこにつながる細い突起が appendix（虫垂）。日常の『盲腸（炎)で手術』は実際には appendicitis（虫垂炎)を指すことが多い。", "イギリス綴りは caecum。複数形は ceca。"],
+    "etym_note": "ラテン語 caecus（盲の・行き止まりの）→ intestinum caecum（行き止まりの腸）に由来。「行き止まりの腸→盲腸」。",
+    "etym_chain": [
+      { "node": "caecus", "sub": "盲の・行き止まりの", "era": "ラテン語" },
+      { "node": "cecum / caecum", "sub": "盲腸", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "the cecum", "ja": "盲腸" },
+      { "en": "the appendix and cecum", "ja": "虫垂と盲腸" },
+      { "en": "the wall of the cecum", "ja": "盲腸の壁" },
+      { "en": "inflammation of the cecum", "ja": "盲腸の炎症" },
+      { "en": "the start of the cecum", "ja": "盲腸の起始部" },
+      { "en": "the cecum and colon", "ja": "盲腸と結腸" }
+    ],
+    "related": [
+      { "en": "appendix", "ja": "虫垂" },
+      { "en": "intestine", "ja": "腸" },
+      { "en": "colon", "ja": "結腸" },
+      { "en": "bowel", "ja": "腸、腸管" }
+    ],
+    "faq": [
+      { "q": "cecum の意味は？", "a": "『盲腸』という解剖学用語で、小腸から大腸へ移る境目にある、行き止まりの袋状の部分です。ここに虫垂（appendix）がつながっています。" },
+      { "q": "『盲腸の手術』は正確には？", "a": "日常で『盲腸』と呼ばれる炎症は、多くの場合、盲腸につながる虫垂の炎症＝appendicitis（虫垂炎）のことです。" }
+    ],
+    "quiz": [
+      { "q": "cecum の意味は？", "A": "盲腸（大腸の始まりの袋）", "B": "心臓", "C": "肺", "D": "肝臓", "correct": "A" },
+      { "q": "cecum につながっている突起は？", "A": "appendix（虫垂）", "B": "tonsil", "C": "spleen", "D": "kidney", "correct": "A" }
+    ]
+  },
+  {
+    "english": "cedarchest",
+    "pron": "ˈsiːdər tʃest",
+    "kana": "シダー・チェスト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "cedar（スギ・ヒマラヤスギ）＋chest（箱）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "日常"],
+    "meaning_main": "杉材の衣装箱・収納箱（防虫効果のある香り高い箱）",
+    "description": "cedarchest は、本来 cedar chest と2語で書く語で「杉材（シダー)でつくった衣装箱・収納箱」という意味です。杉の木がもつ独特の香りには虫よけの効果があるとされ、衣類や毛布・寝具を虫から守って保管するのに使われます。欧米では嫁入り道具を入れる箱（hope chest)としても知られます。正しくは cedar chest と分けて書きます。",
+    "keywords": ["cedar chest 意味", "cedarchest 使い方", "杉の箱 英語", "衣装箱 英語"],
+    "meanings": [
+      { "hinshi": "【名】杉材の衣装箱、収納箱", "note": "防虫効果のある香りの箱。正しくは cedar chest。可算。" },
+      { "hinshi": "【名】（嫁入り道具を入れる）保管箱", "note": "hope chest としても使われる。" }
+    ],
+    "usages": [
+      { "title": "① 杉の収納箱", "desc": "防虫。", "example_en": "She kept blankets in a cedar chest.", "example_ja": "彼女は毛布を杉の衣装箱にしまっていた。" },
+      { "title": "② 保管", "desc": "衣類など。", "example_en": "The cedar chest smells of wood.", "example_ja": "その杉の箱は木の香りがする。" }
+    ],
+    "warn": ["正しくは cedar chest と2語で書く。杉（cedar)の香りが虫よけになり、衣類・寝具の保管に使う木箱。", "cedar（ここでは香りのよい針葉樹の木材)。欧米では hope chest（嫁入り道具箱)として使われることも。"],
+    "etym_note": "cedar（スギ・ヒマラヤスギなどの香木）＋ chest（箱・ひつ）の複合語。「杉材の箱→防虫の衣装箱」。",
+    "etym_chain": [
+      { "node": "cedar + chest", "sub": "杉材の箱", "era": "近代英語" },
+      { "node": "cedar chest", "sub": "杉の衣装箱", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a cedar chest", "ja": "杉材の衣装箱" },
+      { "en": "store in a cedar chest", "ja": "杉の箱に保管する" },
+      { "en": "an antique cedar chest", "ja": "アンティークの杉の箱" },
+      { "en": "a cedar-lined chest", "ja": "内側を杉張りにした箱" },
+      { "en": "open the cedar chest", "ja": "杉の衣装箱を開ける" },
+      { "en": "a hope chest", "ja": "（嫁入り道具を入れる）箱" }
+    ],
+    "related": [
+      { "en": "chest", "ja": "大箱、ひつ" },
+      { "en": "cedar", "ja": "スギ、ヒマラヤスギ" },
+      { "en": "box", "ja": "箱" },
+      { "en": "trunk", "ja": "大型のトランク、収納箱" }
+    ],
+    "faq": [
+      { "q": "cedar chest の意味は？", "a": "『杉材（シダー）でつくった衣装箱・収納箱』です。杉の香りに虫よけ効果があるとされ、衣類や寝具を虫から守って保管するのに使われます。" },
+      { "q": "正しい書き方は？", "a": "cedar chest と2語で書きます。欧米では嫁入り道具を入れる hope chest としても使われます。" }
+    ],
+    "quiz": [
+      { "q": "cedar chest の意味は？", "A": "杉材の衣装箱・収納箱", "B": "杉の木", "C": "胸の病気", "D": "宝の地図", "correct": "A" },
+      { "q": "cedar chest が使われる理由は？", "A": "杉の香りに虫よけ効果があるから", "B": "軽いから", "C": "透明だから", "D": "水に浮くから", "correct": "A" }
+    ]
+  },
+  {
+    "english": "celebrated",
+    "pron": "ˈselɪbreɪtɪd",
+    "kana": "セレブレイテッド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "celebrate（祝う・たたえる）＋-ed",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "論説"],
+    "meaning_main": "有名な・名高い・著名な（広くたたえられている）",
+    "description": "celebrated（セレブレイテッド）は「有名な・名高い・著名な」という意味の形容詞。多くの人に知られ、高く評価されてたたえられている人や物事について使います。動詞 celebrate（祝う・たたえる)の過去分詞から来た語で、『広く称賛されている』という前向きな響きがあります。a celebrated author（著名な作家)のように使います。",
+    "keywords": ["celebrated 意味", "celebrated 使い方", "有名な 英語", "名高い 英語"],
+    "meanings": [
+      { "hinshi": "【形】有名な、名高い、著名な", "note": "広くたたえられている。ほめる含み。" },
+      { "hinshi": "【形】高く評価された", "note": "a celebrated work（名高い作品）。" }
+    ],
+    "usages": [
+      { "title": "① 著名な", "desc": "名高い。", "example_en": "a celebrated author", "example_ja": "著名な作家" },
+      { "title": "② 高名な作品", "desc": "評価された。", "example_en": "her most celebrated novel", "example_ja": "彼女の最も名高い小説" }
+    ],
+    "warn": ["『（よい意味で)広く称賛され有名な』。famous（単に有名)より『たたえられている』前向きな含みが強い。notorious（悪い意味で有名)とは対照的。", "動詞 celebrate（祝う・たたえる）の過去分詞由来の形容詞。名詞は celebrity（有名人）。"],
+    "etym_note": "celebrate（祝う・たたえる、ラテン語 celebrare 由来）＋ -ed。「たたえられた→名高い」。",
+    "etym_chain": [
+      { "node": "celebrare", "sub": "たたえる・祝う", "era": "ラテン語" },
+      { "node": "celebrate + -ed", "sub": "たたえられた", "era": "近代英語" },
+      { "node": "celebrated", "sub": "名高い", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a celebrated author", "ja": "著名な作家" },
+      { "en": "a celebrated artist", "ja": "名高い芸術家" },
+      { "en": "a celebrated work", "ja": "名高い作品" },
+      { "en": "celebrated for", "ja": "〜で名高い" },
+      { "en": "a celebrated chef", "ja": "有名なシェフ" },
+      { "en": "world-celebrated", "ja": "世界的に名高い" }
+    ],
+    "related": [
+      { "en": "famous", "ja": "有名な" },
+      { "en": "renowned", "ja": "名高い" },
+      { "en": "celebrity", "ja": "有名人" },
+      { "en": "noted", "ja": "著名な" }
+    ],
+    "faq": [
+      { "q": "celebrated の意味は？", "a": "『有名な・名高い・著名な』という意味の形容詞です。多くの人に知られ、高く評価されてたたえられている人や物事について使います。" },
+      { "q": "famous との違いは？", "a": "どちらも『有名な』ですが、celebrated は『（よい意味で)広くたたえられている』という称賛の含みが強い語です。悪い意味で有名なのは notorious です。" }
+    ],
+    "quiz": [
+      { "q": "a celebrated author の意味は？", "A": "著名な作家", "B": "無名の作家", "C": "新人作家", "D": "作家志望", "correct": "A" },
+      { "q": "celebrated と近い意味は？", "A": "renowned", "B": "unknown", "C": "ordinary", "D": "secret", "correct": "A" }
+    ]
+  },
+  {
+    "english": "cellar",
+    "pron": "ˈselər",
+    "kana": "セラー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 cellarium（貯蔵室）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "日常"],
+    "meaning_main": "地下室・地下貯蔵室／（ワインの）貯蔵室・そのコレクション",
+    "description": "cellar（セラー）は「地下室・地下貯蔵室」という意味の名詞。食料や燃料、特にワインなどを冷暗所で保存するために使う、家の地下の部屋を指します。a wine cellar（ワインセラー)や、そこに蓄えたワインそのものも指します。居住もできる地下階は basement と区別します。可算名詞です。",
+    "keywords": ["cellar 意味", "cellar 使い方", "地下室 英語", "ワインセラー 英語"],
+    "meanings": [
+      { "hinshi": "【名】地下室、地下貯蔵室", "note": "冷暗所の保存用の部屋。可算。" },
+      { "hinshi": "【名】（ワインの）貯蔵室、ワインのコレクション", "note": "a wine cellar。" }
+    ],
+    "usages": [
+      { "title": "① 地下貯蔵室", "desc": "保存用。", "example_en": "They store potatoes in the cellar.", "example_ja": "彼らは地下室にジャガイモを保存している。" },
+      { "title": "② ワインセラー", "desc": "ワイン。", "example_en": "He has an excellent wine cellar.", "example_ja": "彼はすばらしいワインのコレクションを持っている。" }
+    ],
+    "warn": ["cellar は『（保存のための)地下貯蔵室』。居住にも使う地下階は basement。a wine cellar（ワインセラー）、a salt cellar（食卓の塩入れ)も。", "蓄えたワインそのものを指すこともある（a good cellar＝良いワインの蓄え）。"],
+    "etym_note": "ラテン語 cellarium（貯蔵室、cella＝小部屋 由来）→ 古フランス語 celier 経由。「貯蔵室→地下室」。",
+    "etym_chain": [
+      { "node": "cellarium", "sub": "貯蔵室", "era": "ラテン語" },
+      { "node": "celier", "sub": "貯蔵室", "era": "古フランス語" },
+      { "node": "cellar", "sub": "地下室", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "a wine cellar", "ja": "ワインセラー" },
+      { "en": "a coal cellar", "ja": "石炭の貯蔵室" },
+      { "en": "down in the cellar", "ja": "地下室で" },
+      { "en": "a salt cellar", "ja": "食卓用の塩入れ" },
+      { "en": "a root cellar", "ja": "（野菜用の）地下貯蔵庫" },
+      { "en": "stock the cellar", "ja": "貯蔵室に蓄える" }
+    ],
+    "related": [
+      { "en": "basement", "ja": "地下室、地階（居住可）" },
+      { "en": "vault", "ja": "地下貯蔵室、金庫室" },
+      { "en": "storeroom", "ja": "貯蔵室、物置" },
+      { "en": "underground", "ja": "地下の" }
+    ],
+    "faq": [
+      { "q": "cellar の意味は？", "a": "『地下室・地下貯蔵室』という意味です。食料や燃料、特にワインなどを冷暗所で保存する家の地下の部屋を指します。そこに蓄えたワインそのものも指します。" },
+      { "q": "basement との違いは？", "a": "cellar は『（保存用の)地下貯蔵室』、basement は『（部屋として使える)地下階』という違いがあります。" }
+    ],
+    "quiz": [
+      { "q": "a wine cellar の意味は？", "A": "ワインセラー（ワインの貯蔵室）", "B": "ワイングラス", "C": "ワイン畑", "D": "ワインの栓", "correct": "A" },
+      { "q": "居住にも使う地下階を指す語は？", "A": "basement", "B": "cellar", "C": "attic", "D": "balcony", "correct": "A" }
+    ]
+  },
+  {
+    "english": "cemetery",
+    "pron": "ˈseməteri",
+    "kana": "セメタリー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 koimeterion（眠る場所）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "日常"],
+    "meaning_main": "墓地・共同墓地（教会に属さない埋葬地も含む）",
+    "description": "cemetery（セメタリー）は「墓地・共同墓地」という意味の名詞。死者を埋葬する区域を指します。特定の教会に属さない、広い公共の墓地にも使われます（教会の敷地内の墓地は churchyard / graveyard)。つづりが難しく、すべて e で cem-e-te-ry となる点に注意します。可算名詞です。",
+    "keywords": ["cemetery 意味", "cemetery 使い方", "墓地 英語", "cemetery 綴り"],
+    "meanings": [
+      { "hinshi": "【名】墓地、共同墓地", "note": "死者を埋葬する区域。可算。" },
+      { "hinshi": "【名】（教会に属さない）公共の埋葬地", "note": "graveyard より広い墓地にも。" }
+    ],
+    "usages": [
+      { "title": "① 墓地", "desc": "埋葬地。", "example_en": "He was buried in the city cemetery.", "example_ja": "彼は市の墓地に埋葬された。" },
+      { "title": "② 墓参り", "desc": "訪れる。", "example_en": "We visited the cemetery.", "example_ja": "私たちは墓地を訪れた。" }
+    ],
+    "warn": ["つづりはすべて e（cem-e-te-ry）。a が入らない点に注意。教会敷地の墓地は graveyard / churchyard。", "cemetery は教会に属さない独立した広い墓地にも使う一般的な語。"],
+    "etym_note": "ギリシャ語 koimeterion（眠る場所、koiman＝眠らせる 由来）→ ラテン語 coemeterium 経由。「眠る場所→墓地」。",
+    "etym_chain": [
+      { "node": "koimeterion", "sub": "眠る場所", "era": "ギリシャ語" },
+      { "node": "coemeterium", "sub": "墓地", "era": "ラテン語" },
+      { "node": "cemetery", "sub": "墓地", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "a city cemetery", "ja": "市の墓地" },
+      { "en": "a national cemetery", "ja": "国立墓地" },
+      { "en": "visit the cemetery", "ja": "墓地を訪れる" },
+      { "en": "buried in the cemetery", "ja": "墓地に埋葬されて" },
+      { "en": "a military cemetery", "ja": "軍人墓地" },
+      { "en": "a cemetery plot", "ja": "墓地の区画" }
+    ],
+    "related": [
+      { "en": "graveyard", "ja": "（教会付属の）墓地" },
+      { "en": "grave", "ja": "墓" },
+      { "en": "tomb", "ja": "墓、墓所" },
+      { "en": "burial", "ja": "埋葬" }
+    ],
+    "faq": [
+      { "q": "cemetery の意味は？", "a": "『墓地・共同墓地』という意味です。死者を埋葬する区域を指し、特定の教会に属さない広い公共の墓地にも使われます。" },
+      { "q": "graveyard との違いは？", "a": "graveyard は『教会の敷地内の墓地』を指すことが多く、cemetery は教会に属さない独立した広い墓地にも使う一般的な語です。" }
+    ],
+    "quiz": [
+      { "q": "cemetery の意味は？", "A": "墓地・共同墓地", "B": "教会", "C": "病院", "D": "公園", "correct": "A" },
+      { "q": "cemetery の正しいつづりは？", "A": "cemetery", "B": "cemetary", "C": "cematery", "D": "semetery", "correct": "A" }
+    ]
+  },
+  {
+    "english": "cent",
+    "pron": "sent",
+    "kana": "セント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 centum（100）",
+    "ld_level": "4級",
+    "badges": ["中学生〜", "英検4級", "CEFR A2", "基本語"],
+    "meaning_main": "セント（ドル・ユーロなどの通貨の100分の1の単位）",
+    "description": "cent（セント）は「セント」という意味の名詞で、アメリカのドルやユーロなどの通貨の100分の1にあたる最小単位のお金を指します。1ドル＝100セントです。percent（パーセント＝100につき)や century（世紀＝100年)と同じく、ラテン語の『100(centum)』に由来します。可算名詞です。",
+    "keywords": ["cent 意味", "cent 使い方", "セント 通貨 英語", "ドル セント"],
+    "meanings": [
+      { "hinshi": "【名】セント", "note": "ドル・ユーロの100分の1。可算。" },
+      { "hinshi": "【名】（ごくわずかな）お金", "note": "not a cent（一文も〜ない）。" }
+    ],
+    "usages": [
+      { "title": "① 通貨単位", "desc": "100分の1。", "example_en": "It costs ninety-nine cents.", "example_ja": "それは99セントだ。" },
+      { "title": "② わずかな金", "desc": "比喩。", "example_en": "I don't have a cent.", "example_ja": "私は一文も持っていない。" }
+    ],
+    "warn": ["1ドル＝100セント。percent（100につき＝パーセント）、century（100年＝世紀)と同根（centum＝100）。", "硬貨の1セントは penny とも呼ばれる（米）。not a cent（1円も〜ない）、put in one's two cents（意見を言う)などの表現も。"],
+    "etym_note": "ラテン語 centum（100）→ フランス語 cent 経由。「100分の1の単位→セント」。",
+    "etym_chain": [
+      { "node": "centum", "sub": "100", "era": "ラテン語" },
+      { "node": "cent", "sub": "100分の1・セント", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "fifty cents", "ja": "50セント" },
+      { "en": "a hundred cents", "ja": "100セント（1ドル）" },
+      { "en": "not a cent", "ja": "一文も〜ない" },
+      { "en": "put in one's two cents", "ja": "意見を述べる" },
+      { "en": "down to the last cent", "ja": "1セント残らず" },
+      { "en": "a few cents", "ja": "数セント" }
+    ],
+    "related": [
+      { "en": "dollar", "ja": "ドル" },
+      { "en": "coin", "ja": "硬貨" },
+      { "en": "penny", "ja": "ペニー、1セント硬貨" },
+      { "en": "money", "ja": "お金" }
+    ],
+    "faq": [
+      { "q": "cent の意味は？", "a": "『セント』という通貨の単位で、ドルやユーロの100分の1にあたります。1ドル＝100セントです。" },
+      { "q": "percent や century と関係ある？", "a": "はい、どれもラテン語の centum（100）に由来します。cent（100分の1）、percent（100につき）、century（100年）です。" }
+    ],
+    "quiz": [
+      { "q": "1ドルは何セント？", "A": "100セント", "B": "10セント", "C": "50セント", "D": "1000セント", "correct": "A" },
+      { "q": "cent と同じ語源を持つのは？", "A": "percent（100につき）", "B": "second", "C": "center", "D": "scent", "correct": "A" }
+    ]
+  },
+  {
+    "english": "center_centre",
+    "pron": "ˈsentər",
+    "kana": "センター",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 kentron（中心点）",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "基本語"],
+    "meaning_main": "中心・中央／中枢・活動の拠点／（動）中心に置く・集中させる",
+    "description": "center（センター、イギリス綴りは centre)は「中心・中央」という意味の基本的な名詞。円や図形の真ん中、物事の中心、活動や施設の拠点（shopping center＝ショッピングセンター)などを指します。動詞では「中心に置く・集中させる」という意味になります。スペルは center（米)／centre（英)の2通りです。可算名詞です。",
+    "keywords": ["center 意味", "centre 使い方", "中心 英語", "中央 英語"],
+    "meanings": [
+      { "hinshi": "【名】中心、中央", "note": "真ん中。可算。center / centre。" },
+      { "hinshi": "【名】中枢、活動・施設の拠点", "note": "a shopping center（ショッピングセンター）。" },
+      { "hinshi": "【動】中心に置く、集中させる", "note": "center on 〜（〜を中心とする）。" }
+    ],
+    "usages": [
+      { "title": "① 中心", "desc": "真ん中。", "example_en": "the center of the circle", "example_ja": "円の中心" },
+      { "title": "② 拠点・集中", "desc": "施設・動詞。", "example_en": "The debate centered on the economy.", "example_ja": "議論は経済に集中した。" }
+    ],
+    "warn": ["スペルは center（米）／centre（英）の2通り（このページは両方を併記した見出しです）。", "the center of 〜（〜の中心）、center on/around 〜（〜を中心とする）、a community center（公民館・センター)が頻出。"],
+    "etym_note": "ギリシャ語 kentron（中心点・針）→ ラテン語 centrum →フランス語 centre 経由。「中心点→中心」。",
+    "etym_chain": [
+      { "node": "kentron", "sub": "中心点", "era": "ギリシャ語" },
+      { "node": "centrum / centre", "sub": "中心", "era": "ラテン語・フランス語" },
+      { "node": "center / centre", "sub": "中心", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "the center of", "ja": "〜の中心" },
+      { "en": "a shopping center", "ja": "ショッピングセンター" },
+      { "en": "center on", "ja": "〜を中心とする" },
+      { "en": "the city center", "ja": "市の中心部" },
+      { "en": "a community center", "ja": "公民館、コミュニティセンター" },
+      { "en": "center of attention", "ja": "注目の的" }
+    ],
+    "related": [
+      { "en": "middle", "ja": "真ん中" },
+      { "en": "core", "ja": "核、中心部" },
+      { "en": "hub", "ja": "中心、拠点" },
+      { "en": "heart", "ja": "中心、核心" }
+    ],
+    "faq": [
+      { "q": "center の意味は？", "a": "『中心・中央』が中心で、『中枢・活動や施設の拠点』、動詞で『中心に置く・集中させる』の意味もあります。" },
+      { "q": "center と centre の違いは？", "a": "意味は同じで、center はアメリカ綴り、centre はイギリス綴りです。" }
+    ],
+    "quiz": [
+      { "q": "the center of the circle の意味は？", "A": "円の中心", "B": "円の外側", "C": "円の面積", "D": "円の半径", "correct": "A" },
+      { "q": "center のイギリス綴りは？", "A": "centre", "B": "centar", "C": "sentre", "D": "centrе", "correct": "A" }
+    ]
+  },
+  {
+    "english": "centigrade",
+    "pron": "ˈsentɪɡreɪd",
+    "kana": "センチグレード",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 centum（100）＋gradus（度）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "専門"],
+    "meaning_main": "摂氏の・セ氏（＝Celsius。水の氷点0度・沸点100度）",
+    "description": "centigrade（センチグレード）は「摂氏の・セ氏（温度)」という意味で、水の凍る温度を0度、沸騰する温度を100度とする温度目盛りを指します。Celsius（セルシウス)と同じもので、100 degrees centigrade＝摂氏100度のように使います。『100(centi)の目盛り(grade)』が語源です。現在は Celsius の語を使うのが一般的です。",
+    "keywords": ["centigrade 意味", "centigrade 使い方", "摂氏 英語", "Celsius"],
+    "meanings": [
+      { "hinshi": "【形】摂氏の、セ氏の", "note": "水の氷点0度・沸点100度。= Celsius。" },
+      { "hinshi": "【名】摂氏（温度目盛り）", "note": "100 degrees centigrade（摂氏100度）。" }
+    ],
+    "usages": [
+      { "title": "① 摂氏の", "desc": "温度。", "example_en": "Water boils at 100 degrees centigrade.", "example_ja": "水は摂氏100度で沸騰する。" },
+      { "title": "② 気温", "desc": "数値。", "example_en": "It's 25 centigrade today.", "example_ja": "今日は摂氏25度だ。" }
+    ],
+    "warn": ["centigrade ＝ Celsius（摂氏）。水の氷点0度・沸点100度。記号は °C。現在は Celsius の語を使うことが多い。", "対して Fahrenheit（華氏＝°F)は水の氷点32度・沸点212度。centum（100）＋ gradus（度）が語源。"],
+    "etym_note": "ラテン語 centum（100）＋ gradus（段階・度）。「100目盛りの温度→摂氏」。",
+    "etym_chain": [
+      { "node": "centum + gradus", "sub": "100の目盛り", "era": "ラテン語" },
+      { "node": "centigrade", "sub": "摂氏", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "degrees centigrade", "ja": "摂氏〜度" },
+      { "en": "100 degrees centigrade", "ja": "摂氏100度" },
+      { "en": "zero centigrade", "ja": "摂氏0度" },
+      { "en": "centigrade scale", "ja": "摂氏目盛り" },
+      { "en": "below zero centigrade", "ja": "摂氏0度以下" },
+      { "en": "25 centigrade", "ja": "摂氏25度" }
+    ],
+    "related": [
+      { "en": "celsius", "ja": "セルシウス、摂氏" },
+      { "en": "temperature", "ja": "温度、気温" },
+      { "en": "degree", "ja": "度" },
+      { "en": "fahrenheit", "ja": "華氏" }
+    ],
+    "faq": [
+      { "q": "centigrade の意味は？", "a": "『摂氏の・セ氏（温度）』という意味です。水の凍る温度を0度、沸騰する温度を100度とする温度目盛りで、Celsius（セルシウス）と同じものです。" },
+      { "q": "Fahrenheit との違いは？", "a": "centigrade（摂氏）は水の氷点0度・沸点100度、Fahrenheit（華氏）は水の氷点32度・沸点212度です。" }
+    ],
+    "quiz": [
+      { "q": "centigrade で水は何度で沸騰する？", "A": "100度", "B": "32度", "C": "212度", "D": "0度", "correct": "A" },
+      { "q": "centigrade と同じ意味は？", "A": "Celsius（摂氏）", "B": "Fahrenheit（華氏）", "C": "Kelvin", "D": "Newton", "correct": "A" }
+    ]
+  },
+  {
+    "english": "centigram_centigramme",
+    "pron": "ˈsentɪɡræm",
+    "kana": "センチグラム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "centi-（100分の1）＋gram（グラム）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "専門"],
+    "meaning_main": "センチグラム（1グラムの100分の1の重さ。記号 cg）",
+    "description": "centigram（センチグラム、イギリス綴りは centigramme)は「センチグラム」という意味の名詞で、重さの単位です。1グラムの100分の1（0.01グラム)にあたります。記号は cg。centi-（100分の1)＋ gram（グラム)という成り立ちで、ミリグラム（1000分の1)より大きい単位です。スペルは centigram（米)／centigramme（英)の2通りです。可算名詞です。",
+    "keywords": ["centigram 意味", "centigramme 使い方", "センチグラム 英語", "重さの単位"],
+    "meanings": [
+      { "hinshi": "【名】センチグラム", "note": "1グラムの100分の1。記号 cg。可算。" },
+      { "hinshi": "【名】（メートル法の）微量の重さの単位", "note": "centigram / centigramme。" }
+    ],
+    "usages": [
+      { "title": "① 重さの単位", "desc": "0.01グラム。", "example_en": "One centigram is a hundredth of a gram.", "example_ja": "1センチグラムは1グラムの100分の1だ。" },
+      { "title": "② 微量", "desc": "計量。", "example_en": "a few centigrams of the substance", "example_ja": "その物質の数センチグラム" }
+    ],
+    "warn": ["1 centigram ＝ 1グラムの100分の1（0.01 g）。記号 cg。milligram（1000分の1＝mg)より大きく、decigram（10分の1)より小さい。", "スペルは centigram（米）／centigramme（英）の2通り（このページは両方を併記した見出しです）。centi-（100分の1）。"],
+    "etym_note": "centi-（100分の1、ラテン語 centum＝100 由来）＋ gram（グラム）。「グラムの100分の1→センチグラム」。",
+    "etym_chain": [
+      { "node": "centum + gram", "sub": "100分の1のグラム", "era": "近代（メートル法）" },
+      { "node": "centigram / centigramme", "sub": "センチグラム", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "one centigram", "ja": "1センチグラム" },
+      { "en": "a few centigrams", "ja": "数センチグラム" },
+      { "en": "milligrams and centigrams", "ja": "ミリグラムとセンチグラム" },
+      { "en": "measure in centigrams", "ja": "センチグラム単位ではかる" },
+      { "en": "a hundredth of a gram", "ja": "1グラムの100分の1" },
+      { "en": "ten milligrams (= one centigram)", "ja": "10ミリグラム（＝1センチグラム）" }
+    ],
+    "related": [
+      { "en": "gram", "ja": "グラム" },
+      { "en": "milligram", "ja": "ミリグラム" },
+      { "en": "weight", "ja": "重さ" },
+      { "en": "metric", "ja": "メートル法の" }
+    ],
+    "faq": [
+      { "q": "centigram の意味は？", "a": "『センチグラム』という重さの単位で、1グラムの100分の1（0.01グラム）にあたります。記号は cg です。" },
+      { "q": "なぜ centigram_centigramme という見出し？", "a": "同じ語に centigram（米）／centigramme（英）の2通りのつづりがあるため、両方を併記した見出しにしています。" }
+    ],
+    "quiz": [
+      { "q": "1センチグラムは1グラムの何分の1？", "A": "100分の1", "B": "10分の1", "C": "1000分の1", "D": "2分の1", "correct": "A" },
+      { "q": "centigram のイギリス綴りは？", "A": "centigramme", "B": "centigramm", "C": "sentigram", "D": "centegram", "correct": "A" }
+    ]
+  },
+  {
+    "english": "centimeter_centimetre",
+    "pron": "ˈsentɪmiːtər",
+    "kana": "センチメートル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "centi-（100分の1）＋meter（メートル）",
+    "ld_level": "4級",
+    "badges": ["中学生〜", "英検4級", "CEFR A2", "基本語"],
+    "meaning_main": "センチメートル（1メートルの100分の1の長さ。記号 cm）",
+    "description": "centimeter（センチメートル、イギリス綴りは centimetre)は「センチメートル」という意味の名詞で、長さの単位です。1メートルの100分の1（0.01メートル)にあたり、100センチメートル＝1メートルです。記号は cm。日常でよく使う身近な長さの単位です。スペルは centimeter（米)／centimetre（英)の2通りです。可算名詞です。",
+    "keywords": ["centimeter 意味", "centimetre 使い方", "センチメートル 英語", "cm"],
+    "meanings": [
+      { "hinshi": "【名】センチメートル", "note": "1メートルの100分の1。記号 cm。可算。" },
+      { "hinshi": "【名】（メートル法の）長さの単位", "note": "centimeter / centimetre。100 cm = 1 m。" }
+    ],
+    "usages": [
+      { "title": "① 長さの単位", "desc": "0.01メートル。", "example_en": "The box is 30 centimeters wide.", "example_ja": "その箱は幅30センチメートルだ。" },
+      { "title": "② 寸法", "desc": "計測。", "example_en": "Cut a piece 10 centimeters long.", "example_ja": "10センチの長さに切って。" }
+    ],
+    "warn": ["1 centimeter ＝ 1メートルの100分の1（0.01 m）、100 cm ＝ 1 m。millimeter（1000分の1＝mm)より大きい。", "スペルは centimeter（米）／centimetre（英）の2通り（このページは両方を併記した見出しです）。記号 cm。"],
+    "etym_note": "centi-（100分の1、ラテン語 centum＝100 由来）＋ meter（メートル）。「メートルの100分の1→センチメートル」。",
+    "etym_chain": [
+      { "node": "centum + meter", "sub": "100分の1のメートル", "era": "近代（メートル法）" },
+      { "node": "centimeter / centimetre", "sub": "センチメートル", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "thirty centimeters", "ja": "30センチメートル" },
+      { "en": "a hundred centimeters", "ja": "100センチ（1メートル）" },
+      { "en": "square centimeters", "ja": "平方センチメートル" },
+      { "en": "centimeters and millimeters", "ja": "センチとミリ" },
+      { "en": "measure in centimeters", "ja": "センチ単位ではかる" },
+      { "en": "a few centimeters", "ja": "数センチ" }
+    ],
+    "related": [
+      { "en": "meter", "ja": "メートル" },
+      { "en": "millimeter", "ja": "ミリメートル" },
+      { "en": "length", "ja": "長さ" },
+      { "en": "metric", "ja": "メートル法の" }
+    ],
+    "faq": [
+      { "q": "centimeter の意味は？", "a": "『センチメートル』という長さの単位で、1メートルの100分の1（0.01メートル）にあたります。100センチメートル＝1メートル、記号は cm です。" },
+      { "q": "なぜ centimeter_centimetre という見出し？", "a": "同じ語に centimeter（米）／centimetre（英）の2通りのつづりがあるため、両方を併記した見出しにしています。" }
+    ],
+    "quiz": [
+      { "q": "1メートルは何センチメートル？", "A": "100センチ", "B": "10センチ", "C": "1000センチ", "D": "50センチ", "correct": "A" },
+      { "q": "centimeter のイギリス綴りは？", "A": "centimetre", "B": "centimeter", "C": "sentimeter", "D": "centimetr", "correct": "A" }
+    ]
+  },
+  {
+    "english": "centipede",
+    "pron": "ˈsentɪpiːd",
+    "kana": "センチピード",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 centum（100）＋pes（足）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "日常"],
+    "meaning_main": "ムカデ（細長い体に多くの足を持つ節足動物）",
+    "description": "centipede（センチピード）は「ムカデ」という意味の名詞。細長く平たい体が多くの節に分かれ、各節に1対ずつ足がある節足動物を指します。『100(centi)の足(pede)』が語源ですが、実際の足の数は100本とは限りません。各節に2対の足があるヤスデ(millipede)とは区別されます。可算名詞です。",
+    "keywords": ["centipede 意味", "centipede 使い方", "ムカデ 英語", "millipede 違い"],
+    "meanings": [
+      { "hinshi": "【名】ムカデ", "note": "各節に1対の足を持つ節足動物。可算。" },
+      { "hinshi": "【名】多足の虫", "note": "細長い体に多くの足。" }
+    ],
+    "usages": [
+      { "title": "① ムカデ", "desc": "虫。", "example_en": "A centipede crawled across the floor.", "example_ja": "ムカデが床を這って横切った。" },
+      { "title": "② 足の多さ", "desc": "特徴。", "example_en": "A centipede has many legs.", "example_ja": "ムカデは多くの足を持つ。" }
+    ],
+    "warn": ["『100の足』が語源だが、実際の足の数は種によって異なり100本とは限らない。各節に1対（2本)の足。", "各節に2対（4本)の足を持つのは millipede（ヤスデ）。centipede（ムカデ)は咬むことがある。centum（100）＋ pes（足）。"],
+    "etym_note": "ラテン語 centum（100）＋ pes / pedis（足）。「100の足→ムカデ」。",
+    "etym_chain": [
+      { "node": "centum + pes", "sub": "100の足", "era": "ラテン語" },
+      { "node": "centipede", "sub": "ムカデ", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a centipede", "ja": "ムカデ（一匹）" },
+      { "en": "a venomous centipede", "ja": "毒のあるムカデ" },
+      { "en": "a giant centipede", "ja": "大型のムカデ" },
+      { "en": "a centipede bite", "ja": "ムカデにかまれること" },
+      { "en": "centipede legs", "ja": "ムカデの足" },
+      { "en": "a centipede crawling", "ja": "這うムカデ" }
+    ],
+    "related": [
+      { "en": "insect", "ja": "昆虫、虫" },
+      { "en": "millipede", "ja": "ヤスデ" },
+      { "en": "bug", "ja": "虫" },
+      { "en": "leg", "ja": "足" }
+    ],
+    "faq": [
+      { "q": "centipede の意味は？", "a": "『ムカデ』という意味です。細長く平たい体が多くの節に分かれ、各節に1対の足を持つ節足動物を指します。" },
+      { "q": "millipede との違いは？", "a": "centipede（ムカデ）は各節に1対（2本）の足、millipede（ヤスデ）は各節に2対（4本）の足を持ちます。ムカデは咬むことがあります。" }
+    ],
+    "quiz": [
+      { "q": "centipede の意味は？", "A": "ムカデ", "B": "チョウ", "C": "クモ", "D": "カタツムリ", "correct": "A" },
+      { "q": "centipede の語源は？", "A": "centum（100）＋ pes（足）", "B": "cent（セント）＋ pet", "C": "center＋pede", "D": "cell＋pipe", "correct": "A" }
+    ]
+  },
+  {
+    "english": "central",
+    "pron": "ˈsentrəl",
+    "kana": "セントラル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "center（中心）＋-al",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "基本語"],
+    "meaning_main": "中心の・中央の／主要な・中心的な・最も重要な",
+    "description": "central（セントラル）は「中心の・中央の」という意味の形容詞。場所が中心にあることや、物事の中で最も重要・中心的であることを表します。a central location（中心的な立地)、central to 〜（〜にとって極めて重要)、central heating（（建物全体の)集中暖房)のように使います。名詞 center/centre（中心)の形容詞です。",
+    "keywords": ["central 意味", "central 使い方", "中心の 英語", "central heating"],
+    "meanings": [
+      { "hinshi": "【形】中心の、中央の", "note": "場所が真ん中にある。a central area。" },
+      { "hinshi": "【形】主要な、中心的な、最も重要な", "note": "central to 〜（〜にとって極めて重要）。" }
+    ],
+    "usages": [
+      { "title": "① 中央の", "desc": "場所。", "example_en": "The hotel is in a central location.", "example_ja": "そのホテルは中心的な立地にある。" },
+      { "title": "② 重要な", "desc": "中心的。", "example_en": "This idea is central to the plan.", "example_ja": "この考えは計画にとって極めて重要だ。" }
+    ],
+    "warn": ["『中心の・中央の』と『主要な・最も重要な』の両方の意味。central to 〜（〜の核心・要)が頻出。", "central heating（集中暖房）、central government（中央政府）、Central America（中央アメリカ)などの複合でも。名詞は center/centre。"],
+    "etym_note": "center（中心、ラテン語 centrum 由来）＋ -al（〜の）。「中心の」。",
+    "etym_chain": [
+      { "node": "centrum", "sub": "中心", "era": "ラテン語" },
+      { "node": "central", "sub": "中心の", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a central location", "ja": "中心的な立地" },
+      { "en": "central to", "ja": "〜にとって極めて重要" },
+      { "en": "central heating", "ja": "集中暖房、セントラルヒーティング" },
+      { "en": "the central government", "ja": "中央政府" },
+      { "en": "a central role", "ja": "中心的な役割" },
+      { "en": "the central idea", "ja": "中心となる考え" }
+    ],
+    "related": [
+      { "en": "middle", "ja": "真ん中の" },
+      { "en": "main", "ja": "主要な" },
+      { "en": "key", "ja": "重要な、かぎとなる" },
+      { "en": "center", "ja": "中心" }
+    ],
+    "faq": [
+      { "q": "central の意味は？", "a": "『中心の・中央の』と、『主要な・中心的な・最も重要な』という意味があります。central to 〜 で『〜にとって極めて重要』を表します。" },
+      { "q": "central heating とは？", "a": "『集中暖房（セントラルヒーティング）』のことで、1か所から建物全体を暖める仕組みです。" }
+    ],
+    "quiz": [
+      { "q": "central to the plan の意味は？", "A": "計画にとって極めて重要", "B": "計画に無関係", "C": "計画の最後", "D": "計画の例外", "correct": "A" },
+      { "q": "central の名詞は？", "A": "center / centre", "B": "centric", "C": "centrally", "D": "centering", "correct": "A" }
+    ]
+  },
+  {
+    "english": "centralcity",
+    "pron": "ˈsentrəl ˌsɪti",
+    "kana": "セントラル・シティ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "central（中心の）＋city（都市）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "論説"],
+    "meaning_main": "中心市街地・都心部（大都市圏の中核をなす都市）",
+    "description": "centralcity は、本来 central city と2語で書く語で「中心市街地・都心部」という意味です。郊外（suburb)に対して、大都市圏の中核をなす、人口や商業・行政が集中した中心部の都市を指します。都市計画や社会学でよく使われる語です。正しくは central city と分けて書きます。",
+    "keywords": ["central city 意味", "centralcity 使い方", "都心 英語", "中心市街地 英語"],
+    "meanings": [
+      { "hinshi": "【名】中心市街地、都心部", "note": "大都市圏の中核都市。正しくは central city。可算。" },
+      { "hinshi": "【名】（郊外に対する）中心都市", "note": "suburb の対。" }
+    ],
+    "usages": [
+      { "title": "① 都心部", "desc": "中核。", "example_en": "Many people commute to the central city.", "example_ja": "多くの人が都心部に通勤する。" },
+      { "title": "② 郊外との対比", "desc": "中心都市。", "example_en": "the central city and its suburbs", "example_ja": "中心都市とその郊外" }
+    ],
+    "warn": ["正しくは central city と2語で書く。『郊外（suburb)に対する、大都市圏の中核都市・都心部』を指す。", "downtown（繁華街・中心街)と近いが、central city は『（郊外と対比した)中心都市』という都市計画的な語。"],
+    "etym_note": "central（中心の）＋ city（都市）の複合語。「中心となる都市→都心部」。",
+    "etym_chain": [
+      { "node": "central + city", "sub": "中心の都市", "era": "近代英語" },
+      { "node": "central city", "sub": "中心市街地", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "the central city", "ja": "中心市街地、都心部" },
+      { "en": "commute to the central city", "ja": "都心に通勤する" },
+      { "en": "central city and suburbs", "ja": "中心都市と郊外" },
+      { "en": "the central city area", "ja": "都心地域" },
+      { "en": "live in the central city", "ja": "都心部に住む" },
+      { "en": "central city decline", "ja": "都心部の衰退" }
+    ],
+    "related": [
+      { "en": "downtown", "ja": "繁華街、中心街" },
+      { "en": "metropolis", "ja": "大都市" },
+      { "en": "urban", "ja": "都市の" },
+      { "en": "suburb", "ja": "郊外" }
+    ],
+    "faq": [
+      { "q": "central city の意味は？", "a": "『中心市街地・都心部』です。郊外（suburb）に対して、大都市圏の中核をなす、人口や商業・行政が集中した中心部の都市を指します。" },
+      { "q": "正しい書き方は？", "a": "central city と2語で書きます。都市計画や社会学で、郊外と対比して使われる語です。" }
+    ],
+    "quiz": [
+      { "q": "central city の意味は？", "A": "中心市街地・都心部", "B": "田舎の村", "C": "山間の集落", "D": "海辺のリゾート", "correct": "A" },
+      { "q": "central city と対比される語は？", "A": "suburb（郊外）", "B": "downtown", "C": "metropolis", "D": "capital", "correct": "A" }
+    ]
+  },
+  {
+    "english": "centralize_centralise",
+    "pron": "ˈsentrəlaɪz",
+    "kana": "セントラライズ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "central（中心の）＋-ize",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "論説"],
+    "meaning_main": "中央に集める・集中させる・中央集権化する",
+    "description": "centralize（セントラライズ、イギリス綴りは centralise)は「中央に集める・（権限・機能を)一か所に集中させる・中央集権化する」という意味の動詞。分散していた権力・管理・情報などを中心に集めることを表します。対義語は decentralize（分散化する)です。スペルは centralize（米)／centralise（英)の2通りです。",
+    "keywords": ["centralize 意味", "centralise 使い方", "集中させる 英語", "中央集権化 英語"],
+    "meanings": [
+      { "hinshi": "【動】中央に集める、集中させる", "note": "権限・機能を一か所に集める。" },
+      { "hinshi": "【動】中央集権化する", "note": "対義 decentralize。" }
+    ],
+    "usages": [
+      { "title": "① 集中させる", "desc": "一か所に。", "example_en": "They centralized all operations in one office.", "example_ja": "彼らは全業務を一つのオフィスに集約した。" },
+      { "title": "② 中央集権化", "desc": "権力。", "example_en": "The government centralized power.", "example_ja": "政府は権力を中央に集中させた。" }
+    ],
+    "warn": ["『（分散していたものを)中央・一か所に集める』。対義語は decentralize（分散化する）。", "スペルは centralize（米）／centralise（英）の2通り（このページは両方を併記した見出しです）。名詞は centralization。"],
+    "etym_note": "central（中心の）＋ -ize（〜化する）。「中心に集める→集中させる」。",
+    "etym_chain": [
+      { "node": "central + -ize", "sub": "中心化する", "era": "近代英語" },
+      { "node": "centralize / centralise", "sub": "集中させる", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "centralize power", "ja": "権力を中央に集中させる" },
+      { "en": "centralize operations", "ja": "業務を集約する" },
+      { "en": "centralize control", "ja": "管理を一元化する" },
+      { "en": "a centralized system", "ja": "中央集権的なシステム" },
+      { "en": "centralize data", "ja": "データを一元化する" },
+      { "en": "centralize decision-making", "ja": "意思決定を中央に集める" }
+    ],
+    "related": [
+      { "en": "concentrate", "ja": "集中させる" },
+      { "en": "consolidate", "ja": "統合する、まとめる" },
+      { "en": "central", "ja": "中心の" },
+      { "en": "decentralize", "ja": "分散化する（対義）" }
+    ],
+    "faq": [
+      { "q": "centralize の意味は？", "a": "『中央に集める・（権限・機能を)一か所に集中させる・中央集権化する』という意味です。分散していた権力・管理・情報などを中心に集めることを表します。" },
+      { "q": "対義語とつづりは？", "a": "対義語は decentralize（分散化する）です。つづりは centralize（米）／centralise（英）の2通りです。" }
+    ],
+    "quiz": [
+      { "q": "centralize の意味は？", "A": "中央に集める、集中させる", "B": "分け散らす", "C": "破壊する", "D": "放棄する", "correct": "A" },
+      { "q": "centralize の対義語は？", "A": "decentralize", "B": "central", "C": "centralization", "D": "concentrate", "correct": "A" }
+    ]
+  },
+  {
+    "english": "centralpark",
+    "pron": "ˈsentrəl ˌpɑːrk",
+    "kana": "セントラル・パーク",
+    "hinshi": "名詞（固有名詞）",
+    "ld_pos": "名詞",
+    "ld_etym": "central（中央の）＋park（公園）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "固有名詞"],
+    "meaning_main": "セントラルパーク（アメリカ・ニューヨーク市マンハッタンにある大公園）",
+    "description": "centralpark は、本来 Central Park と2語で書く固有名詞で、アメリカ・ニューヨーク市マンハッタンの中心部に広がる広大な都市公園「セントラルパーク」を指します。南北に細長い長方形で、芝生・池・遊歩道が整備され、市民の憩いの場や映画の舞台として世界的に有名です。固有名詞なので文中では大文字で Central Park と書きます。",
+    "keywords": ["Central Park 意味", "セントラルパーク 英語", "ニューヨーク 公園", "マンハッタン"],
+    "meanings": [
+      { "hinshi": "【名】セントラルパーク", "note": "ニューヨーク市マンハッタンの大公園。正しくは Central Park。文中では大文字。" },
+      { "hinshi": "【名】（都市の）中央公園", "note": "固有名詞としては NY のものが有名。" }
+    ],
+    "usages": [
+      { "title": "① セントラルパーク", "desc": "NY。", "example_en": "We went jogging in Central Park.", "example_ja": "私たちはセントラルパークでジョギングした。" },
+      { "title": "② 憩いの場", "desc": "公園。", "example_en": "Central Park is in the heart of Manhattan.", "example_ja": "セントラルパークはマンハッタンの中心にある。" }
+    ],
+    "warn": ["正しくは Central Park と2語で書き、固有名詞なので大文字。アメリカ・ニューヨーク市マンハッタンの広大な都市公園。", "南北に細長い長方形の公園で、市民の憩いの場。多くの映画やドラマの舞台にもなっている。"],
+    "etym_note": "central（中央の）＋ park（公園）。マンハッタン中央部に位置することから「中央公園→Central Park」。",
+    "etym_chain": [
+      { "node": "central + park", "sub": "中央の公園", "era": "19世紀英語" },
+      { "node": "Central Park", "sub": "セントラルパーク", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "in Central Park", "ja": "セントラルパークで" },
+      { "en": "a walk in Central Park", "ja": "セントラルパークの散歩" },
+      { "en": "Central Park, New York", "ja": "ニューヨークのセントラルパーク" },
+      { "en": "jog in Central Park", "ja": "セントラルパークでジョギングする" },
+      { "en": "the Central Park Zoo", "ja": "セントラルパーク動物園" },
+      { "en": "overlooking Central Park", "ja": "セントラルパークを見下ろす" }
+    ],
+    "related": [
+      { "en": "park", "ja": "公園" },
+      { "en": "newyork", "ja": "ニューヨーク" },
+      { "en": "manhattan", "ja": "マンハッタン" },
+      { "en": "garden", "ja": "庭園" }
+    ],
+    "faq": [
+      { "q": "Central Park とは？", "a": "アメリカ・ニューヨーク市マンハッタンの中心部に広がる広大な都市公園です。芝生・池・遊歩道が整備され、市民の憩いの場や映画の舞台として世界的に有名です。" },
+      { "q": "書き方は？", "a": "正しくは Central Park と2語で書き、固有名詞なので大文字にします。" }
+    ],
+    "quiz": [
+      { "q": "Central Park はどこにある？", "A": "ニューヨーク市マンハッタン", "B": "ロンドン", "C": "パリ", "D": "東京", "correct": "A" },
+      { "q": "Central Park の正しい書き方は？", "A": "Central Park（2語・大文字）", "B": "centralpark", "C": "central park", "D": "CentralPark", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ceramics",
+    "pron": "səˈræmɪks",
+    "kana": "セラミックス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 keramos（陶土）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "日常"],
+    "meaning_main": "陶磁器・焼き物（複数扱い）／製陶術・窯業・セラミック工学（単数扱い）",
+    "description": "ceramics（セラミックス）は「陶磁器・焼き物（作品)」という意味の名詞。粘土を成形して高温で焼いた器や置物などを指します（この意味では複数扱い)。また「製陶術・窯業・セラミック工学（粘土や無機物を焼き固める技術・学問)」の意味では単数扱いになります。形容詞は ceramic（陶製の・セラミックの)です。",
+    "keywords": ["ceramics 意味", "ceramics 使い方", "陶磁器 英語", "セラミックス 英語"],
+    "meanings": [
+      { "hinshi": "【名】陶磁器、焼き物（作品）", "note": "複数扱い。粘土を焼いた器・置物など。" },
+      { "hinshi": "【名】製陶術、窯業、セラミック工学", "note": "単数扱い。技術・学問。" }
+    ],
+    "usages": [
+      { "title": "① 陶磁器", "desc": "作品。", "example_en": "The shop sells handmade ceramics.", "example_ja": "その店は手作りの陶磁器を売っている。" },
+      { "title": "② 製陶術", "desc": "技術・学問。", "example_en": "She studies ceramics.", "example_ja": "彼女は陶芸（製陶）を学んでいる。" }
+    ],
+    "warn": ["『陶磁器（作品)』の意味では複数扱い、『製陶術・窯業・セラミック工学』の意味では単数扱い。", "形容詞は ceramic（陶製の・セラミックの）。pottery（（主に土もの)陶器)より広く、磁器や工業用セラミックも含む。"],
+    "etym_note": "ギリシャ語 keramos（陶土・粘土）→ keramikos（陶器の）に由来。「陶土のもの→陶磁器」。",
+    "etym_chain": [
+      { "node": "keramos", "sub": "陶土", "era": "ギリシャ語" },
+      { "node": "keramikos", "sub": "陶器の", "era": "ギリシャ語" },
+      { "node": "ceramics", "sub": "陶磁器・製陶術", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "handmade ceramics", "ja": "手作りの陶磁器" },
+      { "en": "a ceramics class", "ja": "陶芸教室" },
+      { "en": "study ceramics", "ja": "陶芸を学ぶ" },
+      { "en": "fine ceramics", "ja": "ファインセラミックス、精密陶磁器" },
+      { "en": "a ceramics exhibition", "ja": "陶芸展" },
+      { "en": "glazed ceramics", "ja": "うわぐすりをかけた陶磁器" }
+    ],
+    "related": [
+      { "en": "pottery", "ja": "陶器、焼き物" },
+      { "en": "porcelain", "ja": "磁器" },
+      { "en": "clay", "ja": "粘土" },
+      { "en": "china", "ja": "瀬戸物、磁器" }
+    ],
+    "faq": [
+      { "q": "ceramics の意味は？", "a": "『陶磁器・焼き物（作品）』（複数扱い）という意味です。また『製陶術・窯業・セラミック工学（技術・学問）』（単数扱い）の意味もあります。" },
+      { "q": "pottery との違いは？", "a": "pottery は主に『土もの（陶器）』を指すのに対し、ceramics は磁器や工業用セラミックも含む、より広い語です。" }
+    ],
+    "quiz": [
+      { "q": "ceramics の意味は？", "A": "陶磁器／製陶術", "B": "金属加工", "C": "木工", "D": "ガラス吹き", "correct": "A" },
+      { "q": "ceramics の形容詞は？", "A": "ceramic", "B": "ceramical", "C": "ceramous", "D": "ceramy", "correct": "A" }
+    ]
+  },
+  {
+    "english": "cerebellum",
+    "pron": "ˌserəˈbeləm",
+    "kana": "セレベラム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 cerebellum（小さな脳）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "医学"],
+    "meaning_main": "小脳（運動の調整・バランスをつかさどる脳の部分）",
+    "description": "cerebellum（セレベラム）は「小脳」という意味の解剖学用語で、脳の後ろの下の方にある部分を指します。体の動きをなめらかに調整したり、姿勢やバランス（平衡感覚)を保ったりする働きをします。大きな大脳（cerebrum)に対して『小さな脳』を意味するラテン語が語源です。複数形は cerebella。",
+    "keywords": ["cerebellum 意味", "cerebellum 使い方", "小脳 英語", "cerebrum 違い"],
+    "meanings": [
+      { "hinshi": "【名】小脳", "note": "運動の調整・バランスをつかさどる。可算。複数 cerebella。" },
+      { "hinshi": "【名】（脳の後下部の）部位", "note": "大脳 cerebrum の下にある。" }
+    ],
+    "usages": [
+      { "title": "① 小脳", "desc": "解剖。", "example_en": "The cerebellum controls balance.", "example_ja": "小脳はバランスを調整する。" },
+      { "title": "② 運動の調整", "desc": "機能。", "example_en": "Damage to the cerebellum affects movement.", "example_ja": "小脳の損傷は運動に影響する。" }
+    ],
+    "warn": ["cerebellum（小脳）は『運動の調整・姿勢・バランス（平衡感覚)』を担う。思考・記憶・感覚などを担う大きな脳は cerebrum（大脳)で区別する。", "『小さな脳』の意味のラテン語が語源。複数形は cerebella。形容詞 cerebellar（小脳の）。"],
+    "etym_note": "ラテン語 cerebellum（小さな脳、cerebrum＝脳 の縮小形）に由来。「小さな脳→小脳」。",
+    "etym_chain": [
+      { "node": "cerebrum", "sub": "脳", "era": "ラテン語" },
+      { "node": "cerebellum", "sub": "小さな脳", "era": "ラテン語" },
+      { "node": "cerebellum", "sub": "小脳", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "the cerebellum", "ja": "小脳" },
+      { "en": "the cerebrum and cerebellum", "ja": "大脳と小脳" },
+      { "en": "damage to the cerebellum", "ja": "小脳の損傷" },
+      { "en": "the cerebellum controls balance", "ja": "小脳はバランスを調整する" },
+      { "en": "cerebellar function", "ja": "小脳の働き" },
+      { "en": "the role of the cerebellum", "ja": "小脳の役割" }
+    ],
+    "related": [
+      { "en": "brain", "ja": "脳" },
+      { "en": "cerebrum", "ja": "大脳" },
+      { "en": "balance", "ja": "バランス、平衡" },
+      { "en": "coordination", "ja": "協調、調整" }
+    ],
+    "faq": [
+      { "q": "cerebellum の意味は？", "a": "『小脳』という意味の解剖学用語です。脳の後ろの下の方にあり、体の動きの調整や姿勢・バランス（平衡感覚）を保つ働きをします。" },
+      { "q": "cerebrum との違いは？", "a": "cerebellum（小脳）は運動の調整・バランスを担い、cerebrum（大脳）は思考・記憶・感覚などを担う大きな部分です。" }
+    ],
+    "quiz": [
+      { "q": "cerebellum の意味は？", "A": "小脳（運動・バランスの調整）", "B": "心臓", "C": "胃", "D": "肺", "correct": "A" },
+      { "q": "cerebellum が主に担う働きは？", "A": "運動の調整・バランス", "B": "血液の循環", "C": "食べ物の消化", "D": "呼吸", "correct": "A" }
+    ]
+  }
+]

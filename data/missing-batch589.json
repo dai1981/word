@@ -1,0 +1,988 @@
+[
+  {
+    "english": "contrail",
+    "pron": "ˈkɑːntreɪl",
+    "kana": "コントレイル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "condensation（凝結）＋trail（跡）の略",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "専門"],
+    "meaning_main": "飛行機雲（高空を飛ぶ飛行機のあとにできる白い雲）",
+    "description": "contrail（コントレイル）は「飛行機雲」という意味の名詞。高い空を飛ぶ飛行機のエンジンから出た水蒸気が、冷たい空気で急に冷やされて凍り、あとに細長い白い雲となって残るものを指します。condensation trail（凝結の跡)を縮めた語です。a jet contrail（ジェット機の飛行機雲)のように使います。可算名詞です。",
+    "keywords": ["contrail 意味", "contrail 使い方", "飛行機雲 英語", "ひこうき雲 英語"],
+    "meanings": [
+      { "hinshi": "【名】飛行機雲", "note": "高空の飛行機のあとにできる白い雲。可算。" },
+      { "hinshi": "【名】（エンジンの）凝結跡", "note": "condensation trail の略。" }
+    ],
+    "usages": [
+      { "title": "① 飛行機雲", "desc": "白い筋。", "example_en": "A contrail stretched across the sky.", "example_ja": "飛行機雲が空に長く伸びていた。" },
+      { "title": "② ジェット機の", "desc": "高空。", "example_en": "a jet contrail", "example_ja": "ジェット機の飛行機雲" }
+    ],
+    "warn": ["『飛行機雲』。condensation trail（凝結の跡）を縮めた語。高空の飛行機のエンジンから出た水蒸気が凍ってできる白い筋。", "vapor trail（蒸気の跡）とも言う。日常語というより気象・航空寄りの語。"],
+    "etym_note": "condensation（凝結）＋ trail（跡）を縮めた混成語。「凝結の跡→飛行機雲」。",
+    "etym_chain": [
+      { "node": "condensation + trail", "sub": "凝結の跡", "era": "20世紀" },
+      { "node": "contrail", "sub": "飛行機雲", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a jet contrail", "ja": "ジェット機の飛行機雲" },
+      { "en": "a white contrail", "ja": "白い飛行機雲" },
+      { "en": "leave a contrail", "ja": "飛行機雲を残す" },
+      { "en": "a long contrail", "ja": "長い飛行機雲" },
+      { "en": "contrails in the sky", "ja": "空の飛行機雲" },
+      { "en": "fade like a contrail", "ja": "飛行機雲のように消える" }
+    ],
+    "related": [
+      { "en": "trail", "ja": "跡、筋" },
+      { "en": "cloud", "ja": "雲" },
+      { "en": "jet", "ja": "ジェット機" },
+      { "en": "vapor", "ja": "蒸気" }
+    ],
+    "faq": [
+      { "q": "contrail の意味は？", "a": "『飛行機雲』という意味です。高い空を飛ぶ飛行機のエンジンから出た水蒸気が冷やされて凍り、あとに細長い白い雲となって残るものを指します。condensation trail（凝結の跡）の略です。" },
+      { "q": "どうしてできるの？", "a": "エンジンの排気に含まれる水蒸気が、高空の冷たい空気で急に冷やされて氷の粒になり、白く見えるためです。" }
+    ],
+    "quiz": [
+      { "q": "contrail の意味は？", "A": "飛行機雲", "B": "滑走路", "C": "操縦席", "D": "航空券", "correct": "A" },
+      { "q": "contrail は何の略？", "A": "condensation trail（凝結の跡）", "B": "control rail", "C": "contract mail", "D": "contrary tail", "correct": "A" }
+    ]
+  },
+  {
+    "english": "contrary",
+    "pron": "ˈkɑːntreri",
+    "kana": "コントラリー",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 contrarius（反対の）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "論説"],
+    "meaning_main": "反対の・逆の／（名）正反対のこと／（contrary to で）〜に反して",
+    "description": "contrary（コントラリー）は「反対の・逆の」という意味の形容詞。二つのものが互いに逆であることを表します。名詞では「正反対のこと」を指し、on the contrary（それどころか・とんでもない)、contrary to 〜（〜に反して)のような決まった言い方でよく使います。opposite（反対の)と近い意味です。別に「（人が)へそ曲がりの・強情な」という意味でも使われます。",
+    "keywords": ["contrary 意味", "contrary 使い方", "反対の 英語", "それどころか 英語"],
+    "meanings": [
+      { "hinshi": "【形】反対の、逆の", "note": "互いに逆。a contrary opinion（反対の意見）。" },
+      { "hinshi": "【名】正反対のこと", "note": "on the contrary（それどころか）。" },
+      { "hinshi": "【形】（人が）へそ曲がりの、強情な", "note": "わざと逆らう。" }
+    ],
+    "usages": [
+      { "title": "① それどころか", "desc": "on the contrary。", "example_en": "On the contrary, I enjoyed it.", "example_ja": "それどころか、楽しかった。" },
+      { "title": "② 〜に反して", "desc": "contrary to。", "example_en": "contrary to expectations", "example_ja": "予想に反して" }
+    ],
+    "warn": ["『反対の・逆の』『（名)正反対のこと』。on the contrary（それどころか・いや逆に）、contrary to 〜（〜に反して）、to the contrary（それと反対の）。", "『（人が)へそ曲がりの・強情な』の意味も。opposite（反対の)と近い。"],
+    "etym_note": "ラテン語 contrarius（contra＝反対に 由来）＝『反対の』に由来。",
+    "etym_chain": [
+      { "node": "contrarius", "sub": "反対の", "era": "ラテン語" },
+      { "node": "contrary", "sub": "反対の・逆の", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "on the contrary", "ja": "それどころか、いや逆に" },
+      { "en": "contrary to", "ja": "〜に反して" },
+      { "en": "to the contrary", "ja": "それと反対の" },
+      { "en": "a contrary opinion", "ja": "反対の意見" },
+      { "en": "contrary to expectations", "ja": "予想に反して" },
+      { "en": "in a contrary direction", "ja": "逆の方向に" }
+    ],
+    "related": [
+      { "en": "opposite", "ja": "反対の" },
+      { "en": "reverse", "ja": "逆の" },
+      { "en": "conflicting", "ja": "相反する" },
+      { "en": "contradictory", "ja": "矛盾する" }
+    ],
+    "faq": [
+      { "q": "contrary の意味は？", "a": "『反対の・逆の』が中心で、名詞で『正反対のこと』の意味もあります。on the contrary（それどころか）、contrary to 〜（〜に反して）のような決まった言い方でよく使います。" },
+      { "q": "on the contrary と on the other hand の違いは？", "a": "on the contrary は前の内容を否定して『それどころか・いや逆に』、on the other hand は『一方で』と対比を示します。意味が違うので注意します。" }
+    ],
+    "quiz": [
+      { "q": "On the contrary, I enjoyed it. の意味は？", "A": "それどころか、楽しかった", "B": "だから、楽しくなかった", "C": "たぶん、楽しかった", "D": "つまり、退屈だった", "correct": "A" },
+      { "q": "contrary to expectations の意味は？", "A": "予想に反して", "B": "予想どおり", "C": "予想を超えて", "D": "予想のように", "correct": "A" }
+    ]
+  },
+  {
+    "english": "controversy",
+    "pron": "ˈkɑːntrəvɜːrsi",
+    "kana": "コントロバーシー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 controversia（対立・争い）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "論説"],
+    "meaning_main": "論争・論議・物議（意見が激しく分かれて争うこと）",
+    "description": "controversy（コントロバーシー）は「論争・論議・物議」という意味の名詞。あることをめぐって人々の意見が激しく分かれ、公に言い争いになる状態を指します。cause controversy（物議をかもす)、a heated controversy（激しい論争)のように使います。形容詞は controversial（論争を呼ぶ・物議をかもす)です。可算・不可算で使います。",
+    "keywords": ["controversy 意味", "controversy 使い方", "論争 英語", "物議 英語"],
+    "meanings": [
+      { "hinshi": "【名】論争、論議", "note": "意見が激しく分かれて争うこと。可算・不可算。" },
+      { "hinshi": "【名】物議", "note": "cause controversy（物議をかもす）。" }
+    ],
+    "usages": [
+      { "title": "① 論争", "desc": "言い争い。", "example_en": "a heated controversy", "example_ja": "激しい論争" },
+      { "title": "② 物議をかもす", "desc": "cause。", "example_en": "The decision caused controversy.", "example_ja": "その決定は物議をかもした。" }
+    ],
+    "warn": ["『論争・論議・物議（意見が激しく分かれて争うこと）』。cause/spark/stir controversy（物議をかもす）、a heated controversy（激しい論争）、surrounded by controversy（物議に包まれて）。", "形容詞 controversial（論争を呼ぶ）。debate（討論)より対立・感情的な含みが強い。"],
+    "etym_note": "ラテン語 controversia（contra＝反対に ＋ vertere＝向ける）＝『互いに向き合う→対立・論争』に由来。",
+    "etym_chain": [
+      { "node": "controversia", "sub": "対立・争い", "era": "ラテン語" },
+      { "node": "controversy", "sub": "論争", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "cause controversy", "ja": "物議をかもす" },
+      { "en": "a heated controversy", "ja": "激しい論争" },
+      { "en": "spark controversy", "ja": "論争を引き起こす" },
+      { "en": "surrounded by controversy", "ja": "物議に包まれて" },
+      { "en": "political controversy", "ja": "政治的な論争" },
+      { "en": "the controversy over", "ja": "〜をめぐる論争" }
+    ],
+    "related": [
+      { "en": "debate", "ja": "討論、論争" },
+      { "en": "dispute", "ja": "論争、争い" },
+      { "en": "argument", "ja": "議論、口論" },
+      { "en": "disagreement", "ja": "意見の不一致" }
+    ],
+    "faq": [
+      { "q": "controversy の意味は？", "a": "『論争・論議・物議』という意味です。あることをめぐって人々の意見が激しく分かれ、公に言い争いになる状態を指します。cause controversy（物議をかもす）のように使います。" },
+      { "q": "形容詞は？", "a": "controversial（論争を呼ぶ・物議をかもす）です。a controversial decision（物議をかもす決定）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "cause controversy の意味は？", "A": "物議をかもす", "B": "平和をもたらす", "C": "賛同を得る", "D": "問題を解決する", "correct": "A" },
+      { "q": "controversy の形容詞は？", "A": "controversial", "B": "controvertible", "C": "controlling", "D": "contrary", "correct": "A" }
+    ]
+  },
+  {
+    "english": "controvertible",
+    "pron": "ˌkɑːntrəˈvɜːrtəbl",
+    "kana": "コントロバーティブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "controvert（論駁する）＋-ible",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "書き言葉"],
+    "meaning_main": "議論の余地のある・反論できる（異議を唱えられる）",
+    "description": "controvertible（コントロバーティブル）は「議論の余地のある・反論できる」という意味の形容詞。ある主張や事実に対して、異議を唱えたり反対の立場をとったりできることを表します。かたい書き言葉で、実際には否定の incontrovertible（議論の余地のない・争えない)の形で使われることのほうが多い語です。動詞 controvert（論駁する・反対する)から来ています。",
+    "keywords": ["controvertible 意味", "controvertible 使い方", "議論の余地のある 英語", "反論できる 英語"],
+    "meanings": [
+      { "hinshi": "【形】議論の余地のある、反論できる", "note": "異議を唱えられる。かたい語。" },
+      { "hinshi": "【形】争える", "note": "対義語 incontrovertible（争えない）。" }
+    ],
+    "usages": [
+      { "title": "① 議論の余地のある", "desc": "反論可。", "example_en": "a controvertible claim", "example_ja": "議論の余地のある主張" },
+      { "title": "② 反論できる", "desc": "異議。", "example_en": "controvertible evidence", "example_ja": "異議を唱えられる証拠" }
+    ],
+    "warn": ["『議論の余地のある・反論できる（異議を唱えられる）』。かたい書き言葉で、実際には否定形 incontrovertible（議論の余地のない・争えない)でよく使われる。", "動詞 controvert（論駁する・反対する）＋ -ible。debatable / disputable（議論の余地のある)と近い。"],
+    "etym_note": "controvert（論駁する、ラテン語 controversus＝対立した 由来）＋ -ible（〜できる）。「反論できる」。",
+    "etym_chain": [
+      { "node": "controvert + -ible", "sub": "反論できる", "era": "近代英語" },
+      { "node": "controvertible", "sub": "議論の余地のある", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a controvertible claim", "ja": "議論の余地のある主張" },
+      { "en": "controvertible evidence", "ja": "異議を唱えられる証拠" },
+      { "en": "a controvertible point", "ja": "争える論点" },
+      { "en": "clearly controvertible", "ja": "明らかに反論できる" },
+      { "en": "a controvertible assumption", "ja": "議論の余地のある前提" },
+      { "en": "far from incontrovertible", "ja": "決して争えないわけではない" }
+    ],
+    "related": [
+      { "en": "debatable", "ja": "議論の余地のある" },
+      { "en": "disputable", "ja": "異論のある" },
+      { "en": "questionable", "ja": "疑わしい" },
+      { "en": "arguable", "ja": "議論の余地のある" }
+    ],
+    "faq": [
+      { "q": "controvertible の意味は？", "a": "『議論の余地のある・反論できる』という意味です。ある主張や事実に対して異議を唱えられることを表します。かたい語で、実際には否定形 incontrovertible（議論の余地のない）でよく使われます。" },
+      { "q": "incontrovertible とは？", "a": "controvertible に否定の in- がついた形で『議論の余地のない・争えない・明白な』という意味です。incontrovertible evidence（動かぬ証拠）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "controvertible の意味は？", "A": "議論の余地のある、反論できる", "B": "変換できない", "C": "持ち運べる", "D": "避けられない", "correct": "A" },
+      { "q": "incontrovertible の意味は？", "A": "議論の余地のない、明白な", "B": "議論の余地のある", "C": "改宗できる", "D": "回転できる", "correct": "A" }
+    ]
+  },
+  {
+    "english": "convene",
+    "pron": "kənˈviːn",
+    "kana": "コンビーン",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 convenire（集まる）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "論説"],
+    "meaning_main": "（会議などを）招集する・開く／（人が）集まる・開会する",
+    "description": "convene（コンビーン）は「（会議・委員会などを)招集する・開く」という意味の動詞。また自動詞として「（人々が公式に)集まる・開会する」という意味でも使います。かたい公式な語です。convene a meeting（会議を招集する）、The committee convened at noon.（委員会は正午に開かれた)のように使います。con-（共に)＋ venire（来る)が語源です。名詞は convention です。",
+    "keywords": ["convene 意味", "convene 使い方", "招集する 英語", "開会する 英語"],
+    "meanings": [
+      { "hinshi": "【動】（会議を）招集する、開く", "note": "公式に召集。convene a meeting。" },
+      { "hinshi": "【動】（人が）集まる、開会する", "note": "The committee convened（委員会が開かれた）。" }
+    ],
+    "usages": [
+      { "title": "① 招集する", "desc": "会議を。", "example_en": "convene a meeting", "example_ja": "会議を招集する" },
+      { "title": "② 集まる", "desc": "開会。", "example_en": "The council convened.", "example_ja": "評議会が開かれた。" }
+    ],
+    "warn": ["『（会議・委員会を)招集する・開く』（他動詞）と『（公式に)集まる・開会する』（自動詞）。convene a meeting/conference/committee。かたい公式語。", "con-（共に）＋ venire（来る）＝『共に来る→集まる』。名詞 convention（会議・大会）。call / assemble（召集する・集まる)と近い。"],
+    "etym_note": "ラテン語 convenire（con＝共に ＋ venire＝来る）＝『共に来る→集まる・招集する』に由来。",
+    "etym_chain": [
+      { "node": "convenire", "sub": "共に来る・集まる", "era": "ラテン語" },
+      { "node": "convene", "sub": "招集する・集まる", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "convene a meeting", "ja": "会議を招集する" },
+      { "en": "convene a conference", "ja": "会議を開く" },
+      { "en": "convene a committee", "ja": "委員会を招集する" },
+      { "en": "the court convened", "ja": "法廷が開かれた" },
+      { "en": "convene an emergency session", "ja": "緊急会議を招集する" },
+      { "en": "reconvene later", "ja": "後で再び集まる" }
+    ],
+    "related": [
+      { "en": "assemble", "ja": "集める、集まる" },
+      { "en": "gather", "ja": "集まる" },
+      { "en": "summon", "ja": "召集する" },
+      { "en": "call", "ja": "招集する" }
+    ],
+    "faq": [
+      { "q": "convene の意味は？", "a": "『（会議・委員会などを)招集する・開く』、また『（人々が公式に)集まる・開会する』という意味の動詞です。convene a meeting（会議を招集する）のように使います。かたい公式な語です。" },
+      { "q": "名詞形は？", "a": "convention（会議・大会・慣習）です。con-（共に)＋ venire（来る)で『共に来る→集まる』という成り立ちです。" }
+    ],
+    "quiz": [
+      { "q": "convene a meeting の意味は？", "A": "会議を招集する", "B": "会議を中止する", "C": "会議に遅れる", "D": "会議を欠席する", "correct": "A" },
+      { "q": "convene と近い意味は？", "A": "assemble（集まる）", "B": "cancel（中止する）", "C": "postpone（延期する）", "D": "leave（去る）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "conversational",
+    "pron": "ˌkɑːnvərˈseɪʃənl",
+    "kana": "カンバセーショナル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "conversation（会話）＋-al",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "日常"],
+    "meaning_main": "会話の・話し言葉の・打ち解けた（くだけた話し方の）",
+    "description": "conversational（カンバセーショナル）は「会話の・話し言葉の・打ち解けた」という意味の形容詞。会話に関すること、また書き言葉に対してくだけた『話し言葉ふうの』調子を表します。conversational English（日常会話の英語）、a conversational tone（打ち解けた口調)のように使います。また conversational skills（会話力）のように「会話の」を表します。名詞は conversation（会話)です。",
+    "keywords": ["conversational 意味", "conversational 使い方", "会話の 英語", "話し言葉の 英語"],
+    "meanings": [
+      { "hinshi": "【形】会話の", "note": "会話に関する。conversational skills（会話力）。" },
+      { "hinshi": "【形】話し言葉の、打ち解けた", "note": "くだけた調子。a conversational tone。" }
+    ],
+    "usages": [
+      { "title": "① 会話の", "desc": "やりとり。", "example_en": "conversational English", "example_ja": "日常会話の英語" },
+      { "title": "② 打ち解けた", "desc": "口調。", "example_en": "a conversational tone", "example_ja": "打ち解けた口調" }
+    ],
+    "warn": ["『会話の』（conversational skills／English＝会話力/日常会話英語）と『話し言葉の・打ち解けた』（a conversational tone/style＝くだけた口調/文体）。", "書き言葉のかたさに対して、話し言葉ふうの調子を表す。名詞 conversation（会話）、動詞 converse（会話する）。"],
+    "etym_note": "conversation（会話、ラテン語 conversari＝交わる 由来）＋ -al（〜の）。「会話の」。",
+    "etym_chain": [
+      { "node": "conversation + -al", "sub": "会話の", "era": "近代英語" },
+      { "node": "conversational", "sub": "会話の・打ち解けた", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "conversational English", "ja": "日常会話の英語" },
+      { "en": "conversational skills", "ja": "会話力" },
+      { "en": "a conversational tone", "ja": "打ち解けた口調" },
+      { "en": "a conversational style", "ja": "話し言葉ふうの文体" },
+      { "en": "conversational Japanese", "ja": "日常会話の日本語" },
+      { "en": "in a conversational manner", "ja": "打ち解けた調子で" }
+    ],
+    "related": [
+      { "en": "informal", "ja": "くだけた、略式の" },
+      { "en": "colloquial", "ja": "口語の" },
+      { "en": "chatty", "ja": "おしゃべりな" },
+      { "en": "spoken", "ja": "話し言葉の" }
+    ],
+    "faq": [
+      { "q": "conversational の意味は？", "a": "『会話の・話し言葉の・打ち解けた』という意味です。conversational English（日常会話の英語）、a conversational tone（打ち解けた口調）のように使います。" },
+      { "q": "colloquial との違いは？", "a": "conversational は『会話の・打ち解けた調子の』、colloquial は『（文語に対して)口語の・くだけた語の』という言葉づかいの区別を強く表します。重なる場面も多い語です。" }
+    ],
+    "quiz": [
+      { "q": "conversational English の意味は？", "A": "日常会話の英語", "B": "文語の英語", "C": "専門用語の英語", "D": "古語の英語", "correct": "A" },
+      { "q": "a conversational tone の意味は？", "A": "打ち解けた口調", "B": "厳しい口調", "C": "命令口調", "D": "無言", "correct": "A" }
+    ]
+  },
+  {
+    "english": "converse",
+    "pron": "kənˈvɜːrs",
+    "kana": "コンバース",
+    "hinshi": "動詞 / 名詞 / 形容詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 conversari（交わる）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "書き言葉"],
+    "meaning_main": "（動）会話する・語り合う／（名・形）逆・正反対（の）",
+    "description": "converse（コンバース）は、動詞で「会話する・語り合う」というかたい意味です（talk より格式ばった語）。converse with 〜（〜と語り合う)のように使います。また、名詞・形容詞で「逆・正反対（の)」という意味もあり、the converse is true（その逆が当てはまる)のように使います。動詞ではアクセントが後ろ（kənˈvɜːrs)、名詞・形容詞では前（ˈkɑːnvɜːrs)に来ることがあります。",
+    "keywords": ["converse 意味", "converse 使い方", "会話する 英語", "正反対 英語"],
+    "meanings": [
+      { "hinshi": "【動】会話する、語り合う", "note": "talk のかたい語。converse with 〜。" },
+      { "hinshi": "【名】正反対、逆", "note": "the converse（その逆）。" },
+      { "hinshi": "【形】逆の、正反対の", "note": "the converse statement（逆の命題）。" }
+    ],
+    "usages": [
+      { "title": "① 語り合う", "desc": "動詞。", "example_en": "They conversed in French.", "example_ja": "彼らはフランス語で語り合った。" },
+      { "title": "② その逆", "desc": "名詞。", "example_en": "The converse is also true.", "example_ja": "その逆もまた当てはまる。" }
+    ],
+    "warn": ["動詞『会話する・語り合う』（talk よりかたい。converse with 〜）と、名詞・形容詞『逆・正反対（の)』の両方。the converse is true（その逆が成り立つ）。", "動詞はアクセント後ろ（kənˈvɜːrs）、名詞・形容詞は前（ˈkɑːnvɜːrs）に来ることがある。名詞 conversation（会話）。"],
+    "etym_note": "ラテン語 conversari（con＝共に ＋ versari＝身を置く）＝『共に身を置く→交わる・語り合う』に由来。『逆』の意味は『向きを変える』の系統から。",
+    "etym_chain": [
+      { "node": "conversari", "sub": "交わる", "era": "ラテン語" },
+      { "node": "converse", "sub": "語り合う・逆", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "converse with", "ja": "〜と語り合う" },
+      { "en": "converse freely", "ja": "自由に語り合う" },
+      { "en": "the converse is true", "ja": "その逆が当てはまる" },
+      { "en": "the converse statement", "ja": "逆の命題" },
+      { "en": "converse in English", "ja": "英語で会話する" },
+      { "en": "quite the converse", "ja": "まったくその逆" }
+    ],
+    "related": [
+      { "en": "talk", "ja": "話す" },
+      { "en": "chat", "ja": "おしゃべりする" },
+      { "en": "opposite", "ja": "反対（の）" },
+      { "en": "reverse", "ja": "逆（の）" }
+    ],
+    "faq": [
+      { "q": "converse の意味は？", "a": "動詞で『会話する・語り合う』（talk よりかたい語）、名詞・形容詞で『逆・正反対（の)』という意味があります。converse with 〜（〜と語り合う）、the converse is true（その逆が成り立つ）のように使います。" },
+      { "q": "アクセントは？", "a": "動詞は後ろ（kənˈvɜːrs）、名詞・形容詞は前（ˈkɑːnvɜːrs）にアクセントが来ることがあります。スポーツ靴の商標 Converse も同じつづりです。" }
+    ],
+    "quiz": [
+      { "q": "They conversed in French. の意味は？", "A": "彼らはフランス語で語り合った", "B": "彼らはフランス語を習った", "C": "彼らはフランスへ行った", "D": "彼らはフランス語を忘れた", "correct": "A" },
+      { "q": "The converse is also true. の意味は？", "A": "その逆もまた当てはまる", "B": "それは正しくない", "C": "それは同じだ", "D": "それは例外だ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "conversion",
+    "pron": "kənˈvɜːrʒn",
+    "kana": "コンバージョン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 convertere（向きを変える）＋-ion",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "論説"],
+    "meaning_main": "転換・変換・切り替え／（単位の）換算／改宗・転向",
+    "description": "conversion（コンバージョン）は「転換・変換・切り替え」という意味の名詞。あるものを別の形・状態・用途に変えることを指します。the conversion of 〜 into 〜（〜を〜へ変えること）、unit conversion（単位の換算)のように使います。また「改宗・転向（信仰や考えを変えること)」の意味もあります。動詞は convert（変える・改宗する)です。可算・不可算で使います。",
+    "keywords": ["conversion 意味", "conversion 使い方", "変換 英語", "換算 英語"],
+    "meanings": [
+      { "hinshi": "【名】転換、変換、切り替え", "note": "別の形・状態・用途に変えること。可算・不可算。" },
+      { "hinshi": "【名】（単位の）換算", "note": "currency conversion（通貨の換算）。" },
+      { "hinshi": "【名】改宗、転向", "note": "信仰・考えを変えること。" }
+    ],
+    "usages": [
+      { "title": "① 変換", "desc": "別の形へ。", "example_en": "the conversion of data", "example_ja": "データの変換" },
+      { "title": "② 換算", "desc": "単位。", "example_en": "currency conversion", "example_ja": "通貨の換算" }
+    ],
+    "warn": ["『転換・変換・切り替え』『（単位・通貨の)換算』『改宗・転向』。the conversion of A into/to B（AをBへ変えること）。", "動詞 convert、形容詞・名詞 convertible。マーケティングでは『コンバージョン（成約・目標達成)』、ラグビーでは『コンバージョンキック』の意味も。"],
+    "etym_note": "ラテン語 convertere（con＝完全に ＋ vertere＝向ける）＝『向きを変える→転換』＋ -ion（名詞化）。",
+    "etym_chain": [
+      { "node": "convertere + -ion", "sub": "向きを変えること", "era": "ラテン語" },
+      { "node": "conversion", "sub": "転換・変換", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "the conversion of", "ja": "〜の変換・転換" },
+      { "en": "currency conversion", "ja": "通貨の換算" },
+      { "en": "unit conversion", "ja": "単位の換算" },
+      { "en": "data conversion", "ja": "データ変換" },
+      { "en": "energy conversion", "ja": "エネルギー変換" },
+      { "en": "a religious conversion", "ja": "改宗" }
+    ],
+    "related": [
+      { "en": "change", "ja": "変化、変更" },
+      { "en": "transformation", "ja": "変換、変容" },
+      { "en": "switch", "ja": "切り替え" },
+      { "en": "convert", "ja": "変える、改宗する" }
+    ],
+    "faq": [
+      { "q": "conversion の意味は？", "a": "『転換・変換・切り替え』が中心で、『（単位・通貨の)換算』『改宗・転向』の意味もあります。the conversion of A into B（AをBへ変えること）のように使います。" },
+      { "q": "動詞形は？", "a": "convert（変える・変換する・改宗する）です。形容詞・名詞に convertible（変換できる／オープンカー）があります。" }
+    ],
+    "quiz": [
+      { "q": "currency conversion の意味は？", "A": "通貨の換算", "B": "通貨の発行", "C": "通貨の廃止", "D": "通貨の偽造", "correct": "A" },
+      { "q": "conversion の動詞形は？", "A": "convert", "B": "converse", "C": "convey", "D": "convict", "correct": "A" }
+    ]
+  },
+  {
+    "english": "converter",
+    "pron": "kənˈvɜːrtər",
+    "kana": "コンバーター",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "convert（変える）＋-er",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "専門"],
+    "meaning_main": "変換器・変換装置・コンバーター（あるものを別の形式に変える機器）",
+    "description": "converter（コンバーター）は「変換器・変換装置」という意味の名詞。電気・信号・データ・形式などを、別のものに変える機器やソフトを指します。a currency converter（通貨換算ツール)、an AC/DC converter（交流・直流変換器)のように使います。convert（変える)＋ -er（〜するもの)が語源です。convertor とつづることもあります。可算名詞です。",
+    "keywords": ["converter 意味", "converter 使い方", "変換器 英語", "コンバーター 英語"],
+    "meanings": [
+      { "hinshi": "【名】変換器、変換装置", "note": "別の形式に変える機器・ソフト。可算。" },
+      { "hinshi": "【名】コンバーター", "note": "a currency converter（通貨換算ツール）。" }
+    ],
+    "usages": [
+      { "title": "① 変換器", "desc": "機器。", "example_en": "an AC/DC converter", "example_ja": "交流・直流変換器" },
+      { "title": "② 換算ツール", "desc": "ソフト。", "example_en": "a currency converter", "example_ja": "通貨換算ツール" }
+    ],
+    "warn": ["『変換器・変換装置』。電気・信号・データ・形式などを別のものに変える機器・ソフト。a currency/unit/file converter。", "convert（変える）＋ -er（〜するもの）。convertor ともつづる。a catalytic converter（排ガス浄化の触媒コンバーター）。"],
+    "etym_note": "convert（変える、ラテン語 convertere＝向きを変える 由来）＋ -er（〜するもの）。「変えるもの→変換器」。",
+    "etym_chain": [
+      { "node": "convert + -er", "sub": "変えるもの", "era": "近代英語" },
+      { "node": "converter", "sub": "変換器", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a currency converter", "ja": "通貨換算ツール" },
+      { "en": "an AC/DC converter", "ja": "交流・直流変換器" },
+      { "en": "a file converter", "ja": "ファイル変換ソフト" },
+      { "en": "a catalytic converter", "ja": "触媒コンバーター（排ガス浄化）" },
+      { "en": "a unit converter", "ja": "単位換算ツール" },
+      { "en": "a signal converter", "ja": "信号変換器" }
+    ],
+    "related": [
+      { "en": "convert", "ja": "変える、変換する" },
+      { "en": "adapter", "ja": "アダプター、変換器" },
+      { "en": "transformer", "ja": "変圧器" },
+      { "en": "device", "ja": "装置、機器" }
+    ],
+    "faq": [
+      { "q": "converter の意味は？", "a": "『変換器・変換装置』という意味です。電気・信号・データ・形式などを別のものに変える機器やソフトを指します。a currency converter（通貨換算ツール）のように使います。" },
+      { "q": "adapter との違いは？", "a": "converter は『（中身・形式そのものを)変換する』、adapter は『（形状・規格を)合わせてつなぐ』機器を指すことが多いです。重なる場面もあります。" }
+    ],
+    "quiz": [
+      { "q": "a currency converter の意味は？", "A": "通貨換算ツール", "B": "両替所の店員", "C": "紙幣印刷機", "D": "金庫", "correct": "A" },
+      { "q": "converter の動詞形は？", "A": "convert", "B": "converse", "C": "cover", "D": "convey", "correct": "A" }
+    ]
+  },
+  {
+    "english": "convertible",
+    "pron": "kənˈvɜːrtəbl",
+    "kana": "コンバーティブル",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "convert（変える）＋-ible",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "日常"],
+    "meaning_main": "（形）変換できる・交換できる／（名）オープンカー（屋根が開く車）",
+    "description": "convertible（コンバーティブル）は、形容詞で「変換できる・（別のものに)交換できる・切り替えられる」という意味です。a sofa convertible into a bed（ベッドに変えられるソファ）、convertible currency（交換可能な通貨)のように使います。名詞では「オープンカー（屋根を開け閉めできる車)」を指します。convert（変える)＋ -ible（〜できる)が語源です。可算名詞です。",
+    "keywords": ["convertible 意味", "convertible 使い方", "変換できる 英語", "オープンカー 英語"],
+    "meanings": [
+      { "hinshi": "【形】変換できる、交換できる", "note": "別の形・用途に変えられる。convertible currency。" },
+      { "hinshi": "【名】オープンカー", "note": "屋根を開け閉めできる車。可算。" }
+    ],
+    "usages": [
+      { "title": "① 変換できる", "desc": "形容詞。", "example_en": "a sofa convertible into a bed", "example_ja": "ベッドに変えられるソファ" },
+      { "title": "② オープンカー", "desc": "名詞。", "example_en": "drive a convertible", "example_ja": "オープンカーを運転する" }
+    ],
+    "warn": ["形容詞『変換できる・交換できる・切り替えられる』（convertible into 〜／convertible currency＝交換可能通貨）と、名詞『オープンカー（屋根が開く車）』。", "convert（変える）＋ -ible（〜できる）。金融では『転換社債（convertible bond）』。"],
+    "etym_note": "convert（変える、ラテン語 convertere＝向きを変える 由来）＋ -ible（〜できる）。「変えられる」。",
+    "etym_chain": [
+      { "node": "convert + -ible", "sub": "変えられる", "era": "中英語" },
+      { "node": "convertible", "sub": "変換できる・オープンカー", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "convertible into", "ja": "〜に変えられる" },
+      { "en": "convertible currency", "ja": "交換可能な通貨" },
+      { "en": "a convertible sofa", "ja": "ソファベッド" },
+      { "en": "drive a convertible", "ja": "オープンカーを運転する" },
+      { "en": "a convertible bond", "ja": "転換社債" },
+      { "en": "a convertible top", "ja": "開閉式の屋根" }
+    ],
+    "related": [
+      { "en": "convert", "ja": "変える、変換する" },
+      { "en": "adaptable", "ja": "適応できる" },
+      { "en": "changeable", "ja": "変えられる" },
+      { "en": "exchangeable", "ja": "交換できる" }
+    ],
+    "faq": [
+      { "q": "convertible の意味は？", "a": "形容詞で『変換できる・交換できる・切り替えられる』、名詞で『オープンカー（屋根を開け閉めできる車)』という意味です。a sofa convertible into a bed（ベッドに変えられるソファ）のように使います。" },
+      { "q": "名詞の意味は？", "a": "『オープンカー（コンバーチブル）』で、屋根を開け閉めできる車を指します。金融では『転換社債（convertible bond）』の意味もあります。" }
+    ],
+    "quiz": [
+      { "q": "drive a convertible の意味は？", "A": "オープンカーを運転する", "B": "トラックを運転する", "C": "電車を運転する", "D": "バスを運転する", "correct": "A" },
+      { "q": "a sofa convertible into a bed の意味は？", "A": "ベッドに変えられるソファ", "B": "壊れたソファ", "C": "高価なソファ", "D": "小さなソファ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "convinced",
+    "pron": "kənˈvɪnst",
+    "kana": "コンビンスト",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "convince（納得させる）の過去分詞",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "日常"],
+    "meaning_main": "確信して・納得して（〜だと固く信じて）",
+    "description": "convinced（コンビンスト）は「確信して・納得して」という意味の形容詞。あることを固く信じて疑わない状態を表します。be convinced that 〜（〜だと確信している）、be convinced of 〜（〜を確信している)のように使います。動詞 convince（納得させる・確信させる)の過去分詞から来た形です。sure / certain（確信して)と近い意味です。",
+    "keywords": ["convinced 意味", "convinced 使い方", "確信して 英語", "納得して 英語"],
+    "meanings": [
+      { "hinshi": "【形】確信して、納得して", "note": "固く信じて疑わない。be convinced that 〜。" },
+      { "hinshi": "【形】（be convinced of で）〜を確信して", "note": "be convinced of his innocence（彼の無実を確信して）。" }
+    ],
+    "usages": [
+      { "title": "① 確信して", "desc": "that節。", "example_en": "I'm convinced that he is right.", "example_ja": "彼は正しいと確信している。" },
+      { "title": "② 〜を確信して", "desc": "of。", "example_en": "convinced of the truth", "example_ja": "真実を確信して" }
+    ],
+    "warn": ["『確信して・納得して（固く信じて疑わない）』。be convinced that 〜／of 〜。not convinced（納得していない・半信半疑で）。", "動詞 convince（納得させる・確信させる）の過去分詞。convince A of B / convince A that 〜（AにBを/〜を納得させる）。sure / certain（確信して)と近い。"],
+    "etym_note": "convince（納得させる、ラテン語 convincere＝打ち負かす・証明する 由来）の過去分詞。「納得させられた→確信して」。",
+    "etym_chain": [
+      { "node": "convincere", "sub": "証明する・打ち負かす", "era": "ラテン語" },
+      { "node": "convinced", "sub": "確信して", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "be convinced that", "ja": "〜だと確信している" },
+      { "en": "be convinced of", "ja": "〜を確信している" },
+      { "en": "not convinced", "ja": "納得していない、半信半疑で" },
+      { "en": "firmly convinced", "ja": "固く確信して" },
+      { "en": "become convinced", "ja": "確信するようになる" },
+      { "en": "a convinced believer", "ja": "確信をもった信者" }
+    ],
+    "related": [
+      { "en": "sure", "ja": "確信して" },
+      { "en": "certain", "ja": "確信して" },
+      { "en": "positive", "ja": "確信して" },
+      { "en": "persuaded", "ja": "説得されて、納得して" }
+    ],
+    "faq": [
+      { "q": "convinced の意味は？", "a": "『確信して・納得して』という意味です。あることを固く信じて疑わない状態を表します。be convinced that 〜（〜だと確信している）のように使います。" },
+      { "q": "動詞は？", "a": "convince（人を納得させる・確信させる）です。convince A of B / convince A that 〜 の形で使います。" }
+    ],
+    "quiz": [
+      { "q": "I'm convinced that he is right. の意味は？", "A": "彼は正しいと確信している", "B": "彼は間違っていると思う", "C": "彼のことを知らない", "D": "彼に反対だ", "correct": "A" },
+      { "q": "not convinced の意味は？", "A": "納得していない、半信半疑で", "B": "完全に信じて", "C": "とても喜んで", "D": "まったく知らずに", "correct": "A" }
+    ]
+  },
+  {
+    "english": "convoy",
+    "pron": "ˈkɑːnvɔɪ",
+    "kana": "コンボイ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 convoyer（護衛する）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "書き言葉"],
+    "meaning_main": "（護衛付きの）車列・船団／護送（隊）／（動）護送する",
+    "description": "convoy（コンボイ）は「（護衛付きで一緒に移動する)車列・船団・護送隊」という意味の名詞。安全のために、何台もの車や何隻もの船がまとまって、護衛とともに進むようすを指します。a convoy of trucks（トラックの車列）、a military convoy（軍の護送隊)のように使います。動詞では「護送する・護衛して運ぶ」という意味です。可算名詞です。",
+    "keywords": ["convoy 意味", "convoy 使い方", "車列 英語", "護送 英語"],
+    "meanings": [
+      { "hinshi": "【名】（護衛付きの）車列、船団、護送隊", "note": "まとまって護衛と進む集団。可算。" },
+      { "hinshi": "【動】護送する、護衛して運ぶ", "note": "convoy the ships（船団を護送する）。" }
+    ],
+    "usages": [
+      { "title": "① 車列・船団", "desc": "集団。", "example_en": "a convoy of trucks", "example_ja": "トラックの車列" },
+      { "title": "② 護送隊", "desc": "軍など。", "example_en": "a military convoy", "example_ja": "軍の護送隊" }
+    ],
+    "warn": ["『（護衛付きの)車列・船団・護送隊』。a convoy of trucks/ships（トラックの車列/船団）、a military/aid convoy（軍の護送隊/支援物資の車列）。in convoy（隊列を組んで）。", "動詞で『護送する・護衛して運ぶ』。フランス語 convoyer（護衛する）由来。発音はコンボイ（ˈkɑːnvɔɪ）。"],
+    "etym_note": "フランス語 convoyer（con＝共に ＋ voie＝道）＝『共に道を行かせる→護送する』に由来。",
+    "etym_chain": [
+      { "node": "convoyer", "sub": "護衛する", "era": "フランス語" },
+      { "node": "convoy", "sub": "車列・護送隊", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "a convoy of trucks", "ja": "トラックの車列" },
+      { "en": "a military convoy", "ja": "軍の護送隊" },
+      { "en": "an aid convoy", "ja": "支援物資の車列" },
+      { "en": "in convoy", "ja": "隊列を組んで" },
+      { "en": "a convoy of ships", "ja": "船団" },
+      { "en": "escort a convoy", "ja": "車列を護衛する" }
+    ],
+    "related": [
+      { "en": "escort", "ja": "護衛（する）" },
+      { "en": "fleet", "ja": "船団、車両群" },
+      { "en": "caravan", "ja": "隊商、車列" },
+      { "en": "procession", "ja": "行列" }
+    ],
+    "faq": [
+      { "q": "convoy の意味は？", "a": "『（護衛付きで一緒に移動する)車列・船団・護送隊』という意味です。安全のために、何台もの車や何隻もの船がまとまって護衛とともに進むようすを指します。動詞では『護送する』です。" },
+      { "q": "発音は？", "a": "名詞は『コンボイ（ˈkɑːnvɔɪ）』で前にアクセントがあります。a convoy of trucks（トラックの車列）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "a convoy of trucks の意味は？", "A": "トラックの車列", "B": "トラック1台", "C": "トラック工場", "D": "トラック事故", "correct": "A" },
+      { "q": "in convoy の意味は？", "A": "隊列を組んで", "B": "ばらばらに", "C": "停車して", "D": "逆走して", "correct": "A" }
+    ]
+  },
+  {
+    "english": "cony_coney",
+    "pron": "ˈkoʊni",
+    "kana": "コウニー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 cuniculus（ウサギ）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "古語"],
+    "meaning_main": "（古）ウサギ／ウサギの毛皮（cony は主に古い米つづり、coney は英つづりも）",
+    "description": "cony（コウニー）は「ウサギ」を表す古い語で、coney ともつづります。今は普通 rabbit を使い、cony/coney は古風な語や、ウサギの毛皮を指す語として残っています。cony は主に古い・米つづり、coney は英つづりでも用いられます。ニューヨークの地名 Coney Island（コニーアイランド＝もとは「ウサギの島」の意)にもこのつづりが見られます。可算名詞です。",
+    "keywords": ["cony 意味", "coney 意味", "ウサギ 英語 古語", "Coney Island 由来"],
+    "meanings": [
+      { "hinshi": "【名】（古）ウサギ", "note": "今は普通 rabbit。古風な語。可算。" },
+      { "hinshi": "【名】ウサギの毛皮", "note": "衣料などの素材。" }
+    ],
+    "usages": [
+      { "title": "① ウサギ（古語）", "desc": "rabbit の古語。", "example_en": "hunt cony in the woods", "example_ja": "森でウサギを狩る" },
+      { "title": "② 地名に残る", "desc": "Coney Island。", "example_en": "Coney Island", "example_ja": "コニーアイランド（もと「ウサギの島」）" }
+    ],
+    "warn": ["『（古)ウサギ・ウサギの毛皮』を表す古い語。今は普通 rabbit を使う。cony は主に古い・米つづり、coney は英つづりでも用いられる（両方ある）。", "ニューヨークの Coney Island はもと『ウサギの島』の意とされる。発音はコウニー（ˈkoʊni）。"],
+    "etym_note": "ラテン語 cuniculus（ウサギ）→ 古フランス語 conin → 英語 cony/coney。「ウサギ」。",
+    "etym_chain": [
+      { "node": "cuniculus", "sub": "ウサギ", "era": "ラテン語" },
+      { "node": "conin", "sub": "ウサギ", "era": "古フランス語" },
+      { "node": "cony / coney", "sub": "ウサギ", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "a cony in the field", "ja": "野のウサギ" },
+      { "en": "cony fur", "ja": "ウサギの毛皮" },
+      { "en": "hunt coney", "ja": "ウサギを狩る" },
+      { "en": "Coney Island", "ja": "コニーアイランド" },
+      { "en": "a cony-skin", "ja": "ウサギの毛皮" },
+      { "en": "wild coney", "ja": "野生のウサギ" }
+    ],
+    "related": [
+      { "en": "rabbit", "ja": "ウサギ" },
+      { "en": "hare", "ja": "野ウサギ" },
+      { "en": "fur", "ja": "毛皮" },
+      { "en": "burrow", "ja": "巣穴" }
+    ],
+    "faq": [
+      { "q": "cony / coney の意味は？", "a": "どちらも『（古)ウサギ・ウサギの毛皮』を表す古い語です。今は普通 rabbit を使います。cony は主に古い・米つづり、coney は英つづりでも用いられます。" },
+      { "q": "Coney Island との関係は？", "a": "ニューヨークの Coney Island は、もと『ウサギの島』の意とされ、この coney（ウサギ）のつづりが地名に残ったものです。" }
+    ],
+    "quiz": [
+      { "q": "cony / coney の意味は？", "A": "（古）ウサギ", "B": "キツネ", "C": "リス", "D": "ネズミ", "correct": "A" },
+      { "q": "今、普通『ウサギ』を表す語は？", "A": "rabbit", "B": "cony", "C": "coney", "D": "hare", "correct": "A" }
+    ]
+  },
+  {
+    "english": "coop",
+    "pron": "kuːp",
+    "kana": "クープ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "中英語 coupe（かご・おり）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "日常"],
+    "meaning_main": "（名）鶏小屋・おり／（動）（coop up で）狭い所に閉じ込める",
+    "description": "coop（クープ）は、名詞で「鶏小屋・（鳥や小動物の)おり」という意味です。a chicken coop（鶏小屋)のように使います。動詞では、ふつう coop up の形で「（人・動物を)狭い所に閉じ込める」という意味になります。be cooped up（閉じこもって・缶詰めで)のように使います。発音はクープ（kuːp）で、cooperation の coop(コウオプ)とは違います。可算名詞です。",
+    "keywords": ["coop 意味", "coop 使い方", "鶏小屋 英語", "閉じ込める 英語"],
+    "meanings": [
+      { "hinshi": "【名】鶏小屋、おり", "note": "鳥・小動物を入れる囲い。a chicken coop。可算。" },
+      { "hinshi": "【動】（coop up で）狭い所に閉じ込める", "note": "be cooped up（閉じこもって）。" }
+    ],
+    "usages": [
+      { "title": "① 鶏小屋", "desc": "名詞。", "example_en": "a chicken coop", "example_ja": "鶏小屋" },
+      { "title": "② 閉じ込める", "desc": "coop up。", "example_en": "cooped up indoors all day", "example_ja": "一日中屋内に閉じこもって" }
+    ],
+    "warn": ["名詞『鶏小屋・（鳥や小動物の)おり』（a chicken coop）、動詞は ふつう coop up『（狭い所に)閉じ込める』（be cooped up＝閉じこもって・缶詰めで）。", "発音はクープ（kuːp）。co-op（協同組合、cooperative の略）とはつづりも意味も別。"],
+    "etym_note": "中英語 coupe（かご・おり、ラテン語 cupa＝おけ 由来）に由来。「おり→鶏小屋」。",
+    "etym_chain": [
+      { "node": "cupa", "sub": "おけ・器", "era": "ラテン語" },
+      { "node": "coupe", "sub": "かご・おり", "era": "中英語" },
+      { "node": "coop", "sub": "鶏小屋", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a chicken coop", "ja": "鶏小屋" },
+      { "en": "coop up", "ja": "狭い所に閉じ込める" },
+      { "en": "be cooped up", "ja": "閉じこもっている、缶詰めだ" },
+      { "en": "cooped up indoors", "ja": "屋内に閉じこもって" },
+      { "en": "keep hens in a coop", "ja": "鶏を小屋で飼う" },
+      { "en": "fly the coop", "ja": "（口語）逃げ出す" }
+    ],
+    "related": [
+      { "en": "cage", "ja": "おり、かご" },
+      { "en": "pen", "ja": "囲い、おり" },
+      { "en": "hutch", "ja": "（ウサギの）小屋" },
+      { "en": "confine", "ja": "閉じ込める" }
+    ],
+    "faq": [
+      { "q": "coop の意味は？", "a": "名詞で『鶏小屋・（鳥や小動物の)おり』、動詞で（ふつう coop up の形で)『（人・動物を)狭い所に閉じ込める』という意味です。a chicken coop（鶏小屋）、be cooped up（閉じこもって）のように使います。" },
+      { "q": "co-op との違いは？", "a": "coop（クープ）は『鶏小屋』、co-op（コウオプ）は cooperative（協同組合）の略で別の語です。つづりと発音に注意します。" }
+    ],
+    "quiz": [
+      { "q": "a chicken coop の意味は？", "A": "鶏小屋", "B": "鶏料理", "C": "養鶏場の会社", "D": "鶏の卵", "correct": "A" },
+      { "q": "be cooped up の意味は？", "A": "閉じこもっている、缶詰めだ", "B": "自由に出歩く", "C": "協力している", "D": "引っ越す", "correct": "A" }
+    ]
+  },
+  {
+    "english": "cooperation",
+    "pron": "koʊˌɑːpəˈreɪʃn",
+    "kana": "コウオペレーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 cooperari（共に働く）＋-ion",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "基本語"],
+    "meaning_main": "協力・協同・連携（力を合わせて物事をすること）",
+    "description": "cooperation（コウオペレーション）は「協力・協同・連携」という意味の名詞。複数の人や組織が力を合わせて、同じ目的に向かって物事をすることを指します。in cooperation with 〜（〜と協力して）、international cooperation（国際協力)のように使います。動詞は cooperate（協力する）、形容詞は cooperative（協力的な)です。ふつう不可算名詞です。",
+    "keywords": ["cooperation 意味", "cooperation 使い方", "協力 英語", "連携 英語"],
+    "meanings": [
+      { "hinshi": "【名】協力、協同", "note": "力を合わせて物事をすること。不可算。" },
+      { "hinshi": "【名】連携", "note": "in cooperation with 〜（〜と協力して）。" }
+    ],
+    "usages": [
+      { "title": "① 協力", "desc": "力を合わせる。", "example_en": "Thank you for your cooperation.", "example_ja": "ご協力ありがとうございます。" },
+      { "title": "② 〜と協力して", "desc": "in cooperation with。", "example_en": "in cooperation with the police", "example_ja": "警察と協力して" }
+    ],
+    "warn": ["『協力・協同・連携（力を合わせて物事をすること）』。in cooperation with 〜（〜と協力して）、international/close cooperation（国際協力/緊密な連携）。ふつう不可算。", "動詞 cooperate（協力する）、形容詞 cooperative（協力的な／協同の）。co-（共に）＋ operate（働く）。collaboration（共同作業)と近い。"],
+    "etym_note": "ラテン語 cooperari（co＝共に ＋ operari＝働く）＝『共に働く→協力』＋ -ion（名詞化）。",
+    "etym_chain": [
+      { "node": "cooperari + -ion", "sub": "共に働くこと", "era": "ラテン語" },
+      { "node": "cooperation", "sub": "協力", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "in cooperation with", "ja": "〜と協力して" },
+      { "en": "international cooperation", "ja": "国際協力" },
+      { "en": "close cooperation", "ja": "緊密な連携" },
+      { "en": "thank you for your cooperation", "ja": "ご協力ありがとうございます" },
+      { "en": "economic cooperation", "ja": "経済協力" },
+      { "en": "mutual cooperation", "ja": "相互協力" }
+    ],
+    "related": [
+      { "en": "collaboration", "ja": "共同作業、協力" },
+      { "en": "teamwork", "ja": "チームワーク" },
+      { "en": "partnership", "ja": "提携、協力関係" },
+      { "en": "help", "ja": "助け、援助" }
+    ],
+    "faq": [
+      { "q": "cooperation の意味は？", "a": "『協力・協同・連携』という意味です。複数の人や組織が力を合わせて、同じ目的に向かって物事をすることを指します。in cooperation with 〜（〜と協力して）のように使います。" },
+      { "q": "collaboration との違いは？", "a": "cooperation は『（広く)力を合わせること・協力』、collaboration は『（具体的な仕事・作品を)一緒に作り上げる共同作業』を指すことが多いです。" }
+    ],
+    "quiz": [
+      { "q": "Thank you for your cooperation. の意味は？", "A": "ご協力ありがとうございます", "B": "ご来場ありがとうございます", "C": "ご購入ありがとうございます", "D": "ご予約ありがとうございます", "correct": "A" },
+      { "q": "cooperation の動詞形は？", "A": "cooperate", "B": "corporate", "C": "operate", "D": "cope", "correct": "A" }
+    ]
+  },
+  {
+    "english": "cooperative",
+    "pron": "koʊˈɑːpərətɪv",
+    "kana": "コウオペラティブ",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "cooperate（協力する）＋-ive",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "日常"],
+    "meaning_main": "（形）協力的な・協同の／（名）協同組合",
+    "description": "cooperative（コウオペラティブ）は、形容詞で「協力的な（進んで力を貸す)・協同の」という意味です。a cooperative attitude（協力的な態度）、a cooperative effort（共同の取り組み)のように使います。名詞では「協同組合（組合員が共同で所有・運営する組織)」を指し、co-op（コウオプ)と略されます。動詞は cooperate（協力する）、名詞は cooperation（協力)です。",
+    "keywords": ["cooperative 意味", "cooperative 使い方", "協力的な 英語", "協同組合 英語"],
+    "meanings": [
+      { "hinshi": "【形】協力的な、協同の", "note": "進んで力を貸す／共同の。a cooperative attitude。" },
+      { "hinshi": "【名】協同組合", "note": "co-op と略す。組合員が共同運営。可算。" }
+    ],
+    "usages": [
+      { "title": "① 協力的な", "desc": "形容詞。", "example_en": "a cooperative attitude", "example_ja": "協力的な態度" },
+      { "title": "② 協同組合", "desc": "名詞。", "example_en": "a farmers' cooperative", "example_ja": "農業協同組合" }
+    ],
+    "warn": ["形容詞『協力的な（進んで力を貸す)・協同の』（a cooperative attitude／effort）、名詞『協同組合』（co-op と略す）。対義語は uncooperative（非協力的な）。", "動詞 cooperate（協力する）、名詞 cooperation（協力）。co-（共に）＋ operate（働く）。"],
+    "etym_note": "cooperate（協力する、ラテン語 cooperari＝共に働く 由来）＋ -ive（〜の性質の）。「協力する性質の→協力的な」。",
+    "etym_chain": [
+      { "node": "cooperate + -ive", "sub": "協力する性質の", "era": "近代英語" },
+      { "node": "cooperative", "sub": "協力的な・協同組合", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a cooperative attitude", "ja": "協力的な態度" },
+      { "en": "a cooperative effort", "ja": "共同の取り組み" },
+      { "en": "a farmers' cooperative", "ja": "農業協同組合" },
+      { "en": "very cooperative", "ja": "とても協力的な" },
+      { "en": "a housing cooperative", "ja": "住宅協同組合" },
+      { "en": "uncooperative", "ja": "非協力的な" }
+    ],
+    "related": [
+      { "en": "helpful", "ja": "助けになる、協力的な" },
+      { "en": "collaborative", "ja": "共同の" },
+      { "en": "supportive", "ja": "支えになる" },
+      { "en": "union", "ja": "組合" }
+    ],
+    "faq": [
+      { "q": "cooperative の意味は？", "a": "形容詞で『協力的な（進んで力を貸す)・協同の』、名詞で『協同組合（組合員が共同で所有・運営する組織)』という意味です。a cooperative attitude（協力的な態度）のように使います。" },
+      { "q": "co-op とは？", "a": "cooperative（協同組合）を略した語です。発音は『コウオプ』で、組合員が共同で運営する店や組織を指します。" }
+    ],
+    "quiz": [
+      { "q": "a cooperative attitude の意味は？", "A": "協力的な態度", "B": "反抗的な態度", "C": "無関心な態度", "D": "ていねいな態度", "correct": "A" },
+      { "q": "名詞 cooperative の意味は？", "A": "協同組合", "B": "競争相手", "C": "独裁者", "D": "個人商店", "correct": "A" }
+    ]
+  },
+  {
+    "english": "coordinate",
+    "pron": "koʊˈɔːrdɪneɪt",
+    "kana": "コウオーディネイト",
+    "hinshi": "動詞 / 名詞 / 形容詞",
+    "ld_pos": "動詞",
+    "ld_etym": "co（共に）＋ordinate（順序づける）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "論説"],
+    "meaning_main": "（動）調整する・まとめる・連携させる／（名）座標／（形）同等の",
+    "description": "coordinate（コウオーディネイト）は、動詞で「（複数のものを)調整する・まとめる・連携させる」という意味です。coordinate efforts（取り組みを調整する）、coordinate with 〜（〜と連携する)のように使います。名詞では数学・地図の「座標」（coordinates＝座標・位置)、形容詞では「同等の・対等の」という意味です。動詞・名詞でアクセントは変わりませんが、語尾の発音が動詞 -neit、名詞・形容詞 -nət と変わります。",
+    "keywords": ["coordinate 意味", "coordinate 使い方", "調整する 英語", "座標 英語"],
+    "meanings": [
+      { "hinshi": "【動】調整する、まとめる、連携させる", "note": "複数のものをうまく合わせる。coordinate efforts。" },
+      { "hinshi": "【名】座標", "note": "coordinates（座標・位置）。可算。" },
+      { "hinshi": "【形】同等の、対等の", "note": "coordinate clauses（対等な節）。" }
+    ],
+    "usages": [
+      { "title": "① 調整する", "desc": "動詞。", "example_en": "coordinate the schedule", "example_ja": "予定を調整する" },
+      { "title": "② 座標", "desc": "名詞。", "example_en": "GPS coordinates", "example_ja": "GPS座標" }
+    ],
+    "warn": ["動詞『調整する・まとめる・連携させる』（coordinate efforts/with 〜）、名詞『座標』（coordinates）、形容詞『同等の』。語尾の音が動詞 -neit、名詞・形容詞 -nət と変わる。", "co-（共に）＋ ordinate（順序づける）。動詞 coordinate は服装などを『コーディネートする（合わせる)』意味でも使う。"],
+    "etym_note": "co（共に）＋ ordinate（順序づける、ラテン語 ordo＝順序 由来）＝『共に順序づける→調整する』に由来。",
+    "etym_chain": [
+      { "node": "co + ordinate", "sub": "共に順序づける", "era": "近代英語" },
+      { "node": "coordinate", "sub": "調整する・座標", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "coordinate efforts", "ja": "取り組みを調整する" },
+      { "en": "coordinate with", "ja": "〜と連携する" },
+      { "en": "coordinate the schedule", "ja": "予定を調整する" },
+      { "en": "GPS coordinates", "ja": "GPS座標" },
+      { "en": "map coordinates", "ja": "地図の座標" },
+      { "en": "coordinate colors", "ja": "色を合わせる" }
+    ],
+    "related": [
+      { "en": "organize", "ja": "まとめる、組織する" },
+      { "en": "arrange", "ja": "整える、手配する" },
+      { "en": "integrate", "ja": "統合する" },
+      { "en": "align", "ja": "そろえる、連携させる" }
+    ],
+    "faq": [
+      { "q": "coordinate の意味は？", "a": "動詞で『（複数のものを)調整する・まとめる・連携させる』、名詞で『座標』、形容詞で『同等の』という意味です。coordinate efforts（取り組みを調整する）、GPS coordinates（GPS座標）のように使います。" },
+      { "q": "発音の注意は？", "a": "動詞は語尾が -neit（コウオーディネイト）、名詞・形容詞は -nət（コウオーディネット）と変わります。アクセントの位置は変わりません。" }
+    ],
+    "quiz": [
+      { "q": "coordinate the schedule の意味は？", "A": "予定を調整する", "B": "予定を忘れる", "C": "予定を取り消す", "D": "予定を守る", "correct": "A" },
+      { "q": "名詞 coordinates の意味は？", "A": "座標", "B": "命令", "C": "予定", "D": "規則", "correct": "A" }
+    ]
+  },
+  {
+    "english": "coordination",
+    "pron": "koʊˌɔːrdɪˈneɪʃn",
+    "kana": "コウオーディネーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "coordinate（調整する）＋-ion",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "論説"],
+    "meaning_main": "調整・連携・まとめること／（体の）協調運動・動きの調和",
+    "description": "coordination（コウオーディネーション）は「調整・連携・まとめること」という意味の名詞。複数の人・部署・動きが、うまくかみ合って働くようにすることを指します。in coordination with 〜（〜と連携して)のように使います。また「（体の)協調運動・動きの調和」という意味もあり、hand-eye coordination（手と目の協応)のように使います。動詞は coordinate です。ふつう不可算名詞です。",
+    "keywords": ["coordination 意味", "coordination 使い方", "調整 英語", "協調運動 英語"],
+    "meanings": [
+      { "hinshi": "【名】調整、連携、まとめること", "note": "うまくかみ合わせること。不可算。" },
+      { "hinshi": "【名】（体の）協調運動、動きの調和", "note": "hand-eye coordination（手と目の協応）。" }
+    ],
+    "usages": [
+      { "title": "① 調整・連携", "desc": "組織。", "example_en": "in coordination with the team", "example_ja": "チームと連携して" },
+      { "title": "② 協調運動", "desc": "体。", "example_en": "good hand-eye coordination", "example_ja": "良い手と目の協応" }
+    ],
+    "warn": ["『調整・連携・まとめること』と『（体の)協調運動・動きの調和』。in coordination with 〜（〜と連携して）、hand-eye coordination（手と目の協応）。ふつう不可算。", "動詞 coordinate、名詞 coordinator（調整役）。co-（共に）＋ ordinate（順序づける）。organization / collaboration と近い。"],
+    "etym_note": "coordinate（調整する）＋ -ion（名詞化）。「調整すること→調整・連携」。",
+    "etym_chain": [
+      { "node": "coordinate + -ion", "sub": "調整すること", "era": "近代英語" },
+      { "node": "coordination", "sub": "調整・連携", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "in coordination with", "ja": "〜と連携して" },
+      { "en": "hand-eye coordination", "ja": "手と目の協応" },
+      { "en": "close coordination", "ja": "緊密な連携" },
+      { "en": "lack of coordination", "ja": "連携の欠如／運動のぎこちなさ" },
+      { "en": "policy coordination", "ja": "政策の調整" },
+      { "en": "motor coordination", "ja": "運動の協調" }
+    ],
+    "related": [
+      { "en": "organization", "ja": "組織化、まとめること" },
+      { "en": "collaboration", "ja": "共同、連携" },
+      { "en": "harmony", "ja": "調和" },
+      { "en": "balance", "ja": "バランス" }
+    ],
+    "faq": [
+      { "q": "coordination の意味は？", "a": "『調整・連携・まとめること』が中心で、『（体の)協調運動・動きの調和』の意味もあります。in coordination with 〜（〜と連携して）、hand-eye coordination（手と目の協応）のように使います。" },
+      { "q": "hand-eye coordination とは？", "a": "『手と目の協応（きょうおう）』のことで、目で見た情報に合わせて手をうまく動かす能力を指します。スポーツなどで重要とされます。" }
+    ],
+    "quiz": [
+      { "q": "in coordination with the team の意味は？", "A": "チームと連携して", "B": "チームに反対して", "C": "チームを離れて", "D": "チームを率いて", "correct": "A" },
+      { "q": "hand-eye coordination の意味は？", "A": "手と目の協応", "B": "手の大きさ", "C": "目の色", "D": "視力の良さ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "coordinator",
+    "pron": "koʊˈɔːrdɪneɪtər",
+    "kana": "コウオーディネイター",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "coordinate（調整する）＋-or",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "日常"],
+    "meaning_main": "調整役・まとめ役・コーディネーター（全体をうまく動かす担当者）",
+    "description": "coordinator（コウオーディネイター）は「調整役・まとめ役・コーディネーター」という意味の名詞。複数の人・部署・作業がうまくかみ合うように、全体を調整し取りまとめる担当者を指します。a project coordinator（プロジェクトの調整役）、an event coordinator（イベントの運営責任者)のように使います。coordinate（調整する)＋ -or（〜する人)が語源です。可算名詞です。",
+    "keywords": ["coordinator 意味", "coordinator 使い方", "調整役 英語", "コーディネーター 英語"],
+    "meanings": [
+      { "hinshi": "【名】調整役、まとめ役", "note": "全体を取りまとめる担当者。可算。" },
+      { "hinshi": "【名】コーディネーター", "note": "a project coordinator（プロジェクト調整役）。" }
+    ],
+    "usages": [
+      { "title": "① 調整役", "desc": "まとめ役。", "example_en": "a project coordinator", "example_ja": "プロジェクトの調整役" },
+      { "title": "② 運営担当", "desc": "イベント。", "example_en": "an event coordinator", "example_ja": "イベントの運営責任者" }
+    ],
+    "warn": ["『調整役・まとめ役・コーディネーター』。全体をうまく動かす担当者。a project/event/program coordinator（プロジェクト/イベント/プログラムの調整役）。", "coordinate（調整する）＋ -or（〜する人）。名詞 coordination（調整・連携）、動詞 coordinate。organizer / manager（まとめ役・管理者)と近い。"],
+    "etym_note": "coordinate（調整する）＋ -or（〜する人）。「調整する人→調整役」。",
+    "etym_chain": [
+      { "node": "coordinate + -or", "sub": "調整する人", "era": "近代英語" },
+      { "node": "coordinator", "sub": "調整役", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a project coordinator", "ja": "プロジェクトの調整役" },
+      { "en": "an event coordinator", "ja": "イベントの運営責任者" },
+      { "en": "a program coordinator", "ja": "プログラムの調整役" },
+      { "en": "a volunteer coordinator", "ja": "ボランティア調整役" },
+      { "en": "the campaign coordinator", "ja": "キャンペーンのまとめ役" },
+      { "en": "act as coordinator", "ja": "調整役を務める" }
+    ],
+    "related": [
+      { "en": "organizer", "ja": "まとめ役、主催者" },
+      { "en": "manager", "ja": "管理者、責任者" },
+      { "en": "director", "ja": "指揮者、責任者" },
+      { "en": "facilitator", "ja": "進行役、促進者" }
+    ],
+    "faq": [
+      { "q": "coordinator の意味は？", "a": "『調整役・まとめ役・コーディネーター』という意味です。複数の人・部署・作業がうまくかみ合うように、全体を調整し取りまとめる担当者を指します。a project coordinator（プロジェクトの調整役）のように使います。" },
+      { "q": "manager との違いは？", "a": "coordinator は『（各部をかみ合わせる)調整役』、manager は『（人や業務を)管理・指揮する責任者』という含みです。役割が重なる職場も多いです。" }
+    ],
+    "quiz": [
+      { "q": "a project coordinator の意味は？", "A": "プロジェクトの調整役", "B": "プロジェクトの客", "C": "プロジェクトの資料", "D": "プロジェクトの予算", "correct": "A" },
+      { "q": "coordinator の動詞形は？", "A": "coordinate", "B": "cooperate", "C": "correlate", "D": "collaborate", "correct": "A" }
+    ]
+  },
+  {
+    "english": "cop",
+    "pron": "kɑːp",
+    "kana": "コップ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "cop（捕まえる）から",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "口語"],
+    "meaning_main": "（名・口語）警官・おまわり／（動・口語）捕まえる・（罰などを）食らう",
+    "description": "cop（コップ）は、名詞で「警官・おまわり」という意味のくだけた口語です。police officer のカジュアルな言い方で、a traffic cop（交通警官)のように使います。動詞では口語で「捕まえる」「（非難・罰などを)食らう・受ける」の意味があり、cop a fine（罰金を食らう)のように使います。cop out（責任から逃げる・言い逃れする)という句動詞もよく使われます。やや口語的なので改まった場面では officer を使います。",
+    "keywords": ["cop 意味", "cop 使い方", "警官 英語 口語", "おまわり 英語"],
+    "meanings": [
+      { "hinshi": "【名】（口語）警官、おまわり", "note": "police officer のくだけた言い方。可算。" },
+      { "hinshi": "【動】（口語）捕まえる、（罰などを）食らう", "note": "cop a fine（罰金を食らう）。" }
+    ],
+    "usages": [
+      { "title": "① 警官（口語）", "desc": "名詞。", "example_en": "Call the cops!", "example_ja": "警察を呼んで！" },
+      { "title": "② 食らう", "desc": "動詞。", "example_en": "cop a fine", "example_ja": "罰金を食らう" }
+    ],
+    "warn": ["名詞『警官・おまわり』はくだけた口語（police officer のカジュアル版）。改まった場面では officer を使う。a traffic cop（交通警官）、call the cops（警察を呼ぶ）。", "動詞『捕まえる／（罰・非難を)食らう』。句動詞 cop out（責任から逃げる・言い逃れする）、cop it（叱られる・罰を受ける）。"],
+    "etym_note": "動詞 cop（捕まえる、ラテン語 capere＝つかむ の系統とされる）から。「捕まえる者→警官」。",
+    "etym_chain": [
+      { "node": "capere", "sub": "つかむ", "era": "ラテン語" },
+      { "node": "cop", "sub": "捕まえる・警官", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "call the cops", "ja": "警察を呼ぶ" },
+      { "en": "a traffic cop", "ja": "交通警官" },
+      { "en": "cop a fine", "ja": "罰金を食らう" },
+      { "en": "cop out", "ja": "責任から逃げる、言い逃れする" },
+      { "en": "cop it", "ja": "叱られる、罰を受ける" },
+      { "en": "a good cop, bad cop", "ja": "（尋問の）硬軟両様の役" }
+    ],
+    "related": [
+      { "en": "police", "ja": "警察" },
+      { "en": "officer", "ja": "警官（改まった語）" },
+      { "en": "detective", "ja": "刑事" },
+      { "en": "catch", "ja": "捕まえる" }
+    ],
+    "faq": [
+      { "q": "cop の意味は？", "a": "名詞で『警官・おまわり』というくだけた口語です（police officer のカジュアルな言い方）。動詞では『捕まえる／（罰・非難を)食らう』の意味があります。Call the cops!（警察を呼んで！）のように使います。" },
+      { "q": "cop out とは？", "a": "句動詞で『（やるべきことや責任から)逃げる・言い逃れする』という意味です。名詞の cop-out は『言い逃れ・責任逃れ』を指します。" }
+    ],
+    "quiz": [
+      { "q": "Call the cops! の意味は？", "A": "警察を呼んで！", "B": "店を閉めて！", "C": "電話を切って！", "D": "タクシーを呼んで！", "correct": "A" },
+      { "q": "cop out の意味は？", "A": "責任から逃げる、言い逃れする", "B": "警官になる", "C": "逮捕する", "D": "協力する", "correct": "A" }
+    ]
+  }
+]
