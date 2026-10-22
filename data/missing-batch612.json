@@ -1,0 +1,983 @@
+[
+  {
+    "english": "homebred",
+    "pron": "ˌhoʊmˈbred",
+    "kana": "ホームブレッド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "home（家・国内）＋bred（育てられた）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "描写"],
+    "meaning_main": "自家で育てた・国産の・土地育ちの／（人が）生粋の・あかぬけない",
+    "description": "homebred（ホームブレッド）は「自家で育てた・国産の・土地育ちの」という意味の形容詞。よそから持ちこんだのではなく、その家・その土地・その国で生まれ育てられたことを表します。homebred horses（自家で育てた馬)のように使います。人について使うと「生まれ育った土地から出たことのない・あかぬけない・素朴な」という含みになることもあります。home（家・国内）＋ bred（育てられた、breed＝育てる の過去分詞)が語源です。対になる語は foreign / imported（外国の・輸入の)です。home-grown（自家栽培の・地元産の)と近い意味です。",
+    "keywords": ["homebred 意味", "homebred 使い方", "国産の 英語", "自家で育てた 英語"],
+    "meanings": [
+      { "hinshi": "【形】自家で育てた、国産の、土地育ちの", "note": "その家・土地・国で生まれ育った。homebred horses。" },
+      { "hinshi": "【形】（人が）生粋の、あかぬけない", "note": "土地から出たことのない素朴な。" }
+    ],
+    "usages": [
+      { "title": "① 自家育ちの", "desc": "動物。", "example_en": "homebred horses", "example_ja": "自家で育てた馬" },
+      { "title": "② 土地育ちの", "desc": "人。", "example_en": "a homebred lad", "example_ja": "土地育ちの若者" }
+    ],
+    "warn": ["『自家で育てた・国産の・土地育ちの（その家・土地・国で生まれ育った）』。人では『生粋の・あかぬけない・素朴な』の含みにも。homebred horses（自家で育てた馬）、a homebred lad（土地育ちの若者）。", "home（家・国内）＋ bred（育てられた、breed の過去分詞）。対は foreign / imported（外国の/輸入の）。home-grown（自家栽培の)と近い。"],
+    "etym_note": "home（家・国内）＋ bred（育てられた、breed＝育てる の過去分詞）＝『家で育てられた→自家育ちの』に由来。",
+    "etym_chain": [
+      { "node": "home + bred", "sub": "家で育てられた", "era": "近代英語" },
+      { "node": "homebred", "sub": "自家育ちの・国産の", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "homebred horses", "ja": "自家で育てた馬" },
+      { "en": "a homebred lad", "ja": "土地育ちの若者" },
+      { "en": "homebred cattle", "ja": "自家で育てた牛" },
+      { "en": "homebred talent", "ja": "国内で育った才能" },
+      { "en": "homebred manners", "ja": "素朴な作法" },
+      { "en": "homebred and foreign", "ja": "国産と外国産" }
+    ],
+    "related": [
+      { "en": "home-grown", "ja": "自家栽培の、地元産の" },
+      { "en": "native", "ja": "土着の、生まれ故郷の" },
+      { "en": "domestic", "ja": "国内の、家庭の" },
+      { "en": "foreign", "ja": "外国の（反対）" }
+    ],
+    "faq": [
+      { "q": "homebred の意味は？", "a": "『自家で育てた・国産の・土地育ちの』という意味です。よそから持ちこんだのではなく、その家・その土地・その国で生まれ育てられたことを表します。homebred horses（自家で育てた馬）のように使います。人については『生粋の・あかぬけない』の含みにもなります。" },
+      { "q": "home-grown との違いは？", "a": "近い意味です。home-grown は主に『自家栽培の（野菜など）・地元産の・国内で育った』、homebred は特に『自家で（動物を)繁殖・飼育した・土地育ちの』の含みが強い語です。対義語はどちらも foreign / imported です。" }
+    ],
+    "quiz": [
+      { "q": "homebred の意味は？", "A": "自家で育てた・国産の・土地育ちの", "B": "輸入された", "C": "新しく買った", "D": "借りた", "correct": "A" },
+      { "q": "homebred の対義語は？", "A": "foreign（外国の）", "B": "native（土着の）", "C": "domestic（国内の）", "D": "local（地元の）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "homebrew",
+    "pron": "ˈhoʊmbruː",
+    "kana": "ホームブルー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "home（家）＋brew（醸造したもの）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "日常"],
+    "meaning_main": "自家製の酒（ビールなど）・自家醸造／（比喩・IT）自作のもの・手作りのプログラム",
+    "description": "homebrew（ホームブルー）は「自家製の酒・自家醸造」という意味の名詞。家庭で自分で造ったビールなどの醸造酒を指します。a glass of homebrew（自家製ビール一杯)のように使います。また比喩的・IT分野で「自分で作った（市販でない)もの・手作りのプログラムやシステム」を指すこともあり、homebrew software（自作ソフト)のように使います。home（家）＋ brew（醸造する・醸造したもの)が語源です。home-brew / home brew と書くこともあります。ふつう不可算名詞です（IT では可算的にも）。",
+    "keywords": ["homebrew 意味", "homebrew 使い方", "自家製ビール 英語", "自家醸造 英語"],
+    "meanings": [
+      { "hinshi": "【名】自家製の酒、自家醸造", "note": "家庭で造ったビールなど。a glass of homebrew。不可算。" },
+      { "hinshi": "【名】（比喩・IT）自作のもの、手作りのプログラム", "note": "homebrew software（自作ソフト）。" }
+    ],
+    "usages": [
+      { "title": "① 自家製ビール", "desc": "酒。", "example_en": "a glass of homebrew", "example_ja": "自家製ビール一杯" },
+      { "title": "② 自作のもの", "desc": "IT。", "example_en": "homebrew software", "example_ja": "自作のソフト" }
+    ],
+    "warn": ["『自家製の酒（家庭で造ったビールなどの醸造酒）・自家醸造』、比喩・ITで『自分で作った（市販でない)もの・手作りのプログラム』。a glass of homebrew（自家製ビール）、homebrew software（自作ソフト）。home-brew / home brew とも書く。", "home（家）＋ brew（醸造する・醸造したもの）。動詞的に home-brew（自家醸造する）も。"],
+    "etym_note": "home（家）＋ brew（醸造する・醸造したもの、古英語 brēowan 由来）＝『家で醸造したもの→自家製の酒』に由来。",
+    "etym_chain": [
+      { "node": "home + brew", "sub": "家で醸造したもの", "era": "近代英語" },
+      { "node": "homebrew", "sub": "自家製の酒・自作のもの", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a glass of homebrew", "ja": "自家製ビール一杯" },
+      { "en": "make homebrew", "ja": "自家醸造する" },
+      { "en": "homebrew beer", "ja": "自家製ビール" },
+      { "en": "a batch of homebrew", "ja": "一仕込みの自家製酒" },
+      { "en": "homebrew software", "ja": "自作のソフト" },
+      { "en": "a homebrew solution", "ja": "手作りの解決策" }
+    ],
+    "related": [
+      { "en": "brew", "ja": "醸造する、醸造したもの" },
+      { "en": "beer", "ja": "ビール" },
+      { "en": "ale", "ja": "エール（ビールの一種）" },
+      { "en": "homemade", "ja": "自家製の、手作りの" }
+    ],
+    "faq": [
+      { "q": "homebrew の意味は？", "a": "『自家製の酒・自家醸造』という意味です。家庭で自分で造ったビールなどの醸造酒を指します。a glass of homebrew（自家製ビール一杯）のように使います。比喩・IT分野で『自分で作った（市販でない)もの・手作りのプログラム』を指すこともあります。" },
+      { "q": "homemade との違いは？", "a": "homemade は『自家製の・手作りの』全般（料理・お菓子など）、homebrew は特に『家庭で醸造した酒（ビールなど）』を指します。ITでは『自作のソフト・システム』の意味で使われます。home-brew / home brew とも書きます。" }
+    ],
+    "quiz": [
+      { "q": "homebrew の意味は？", "A": "自家製の酒（自家醸造したビールなど）", "B": "市販の高級ワイン", "C": "輸入ビール", "D": "炭酸水", "correct": "A" },
+      { "q": "IT分野での homebrew の意味は？", "A": "自作の（手作りの）ソフトやシステム", "B": "最新の市販ソフト", "C": "ウイルス", "D": "通信回線", "correct": "A" }
+    ]
+  },
+  {
+    "english": "homescreen",
+    "pron": "ˈhoʊmskriːn",
+    "kana": "ホームスクリーン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "home（基本の）＋screen（画面）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "日常"],
+    "meaning_main": "（スマホ・タブレットなどの）ホーム画面（アプリのアイコンが並ぶ基本の画面）",
+    "description": "homescreen は、本来 home screen と2語で書く語で「ホーム画面」という意味です。スマートフォンやタブレット、パソコンなどで、電源を入れたりロックを解除したりしたときに最初に表示される、アプリのアイコンが並ぶ基本の画面を指します。add an app to the home screen（ホーム画面にアプリを追加する)のように使います。ここでの home は「基本・出発点となる」という意味で、ウェブの home page（ホームページ＝最初のページ)と同じ使い方です。home（基本の）＋ screen（画面)が語源で、正しくは home screen と2語で書きます。可算名詞です。",
+    "keywords": ["home screen 意味", "homescreen 使い方", "ホーム画面 英語", "スマホ 画面 英語"],
+    "meanings": [
+      { "hinshi": "【名】（スマホなどの）ホーム画面", "note": "アプリのアイコンが並ぶ基本の画面。正しくは home screen。可算。" },
+      { "hinshi": "【名】最初に表示される基本画面", "note": "home は『基本・出発点』の意味。" }
+    ],
+    "usages": [
+      { "title": "① ホーム画面", "desc": "スマホ。", "example_en": "add an app to the home screen", "example_ja": "ホーム画面にアプリを追加する" },
+      { "title": "② 基本画面", "desc": "表示。", "example_en": "return to the home screen", "example_ja": "ホーム画面に戻る" }
+    ],
+    "warn": ["正しくは home screen と2語で書く。『（スマホ・タブレット・PCなどの)ホーム画面（電源を入れたりロック解除したときに最初に出る、アプリのアイコンが並ぶ基本の画面）』。add to / return to the home screen（ホーム画面に追加する/戻る）。", "home（基本・出発点となる）＋ screen（画面）。ウェブの home page（最初のページ)の home と同じ使い方。"],
+    "etym_note": "home（基本・出発点となる、home page の home と同じ）＋ screen（画面）＝『基本となる画面→ホーム画面』に由来。",
+    "etym_chain": [
+      { "node": "home + screen", "sub": "基本の画面", "era": "20世紀" },
+      { "node": "home screen", "sub": "ホーム画面", "era": "21世紀" }
+    ],
+    "phrases": [
+      { "en": "add an app to the home screen", "ja": "ホーム画面にアプリを追加する" },
+      { "en": "return to the home screen", "ja": "ホーム画面に戻る" },
+      { "en": "customize the home screen", "ja": "ホーム画面をカスタマイズする" },
+      { "en": "a home screen icon", "ja": "ホーム画面のアイコン" },
+      { "en": "swipe the home screen", "ja": "ホーム画面をスワイプする" },
+      { "en": "set a home screen wallpaper", "ja": "ホーム画面の壁紙を設定する" }
+    ],
+    "related": [
+      { "en": "screen", "ja": "画面" },
+      { "en": "home page", "ja": "ホームページ（最初のページ）" },
+      { "en": "lock screen", "ja": "ロック画面" },
+      { "en": "app", "ja": "アプリ" }
+    ],
+    "faq": [
+      { "q": "home screen の意味は？", "a": "『ホーム画面』です。スマートフォンやタブレット、パソコンなどで、電源を入れたりロックを解除したりしたときに最初に表示される、アプリのアイコンが並ぶ基本の画面を指します。add an app to the home screen（ホーム画面にアプリを追加する）のように使います。正しくは home screen と2語で書きます。" },
+      { "q": "lock screen との違いは？", "a": "lock screen（ロック画面）はロックがかかった状態の画面、home screen（ホーム画面）はロックを解除したあとに出る、アプリが並ぶ基本画面です。home は home page（最初のページ）と同じ『基本・出発点』の意味です。" }
+    ],
+    "quiz": [
+      { "q": "home screen の意味は？", "A": "アプリのアイコンが並ぶ基本の画面（ホーム画面）", "B": "テレビの画面", "C": "映画のスクリーン", "D": "窓の網戸", "correct": "A" },
+      { "q": "home screen の home の意味は？", "A": "基本・出発点となる", "B": "家庭用の", "C": "自分の家の", "D": "暖かい", "correct": "A" }
+    ]
+  },
+  {
+    "english": "homingpigeon",
+    "pron": "ˈhoʊmɪŋ ˌpɪdʒɪn",
+    "kana": "ホーミング・ピジョン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "homing（家に帰る）＋pigeon（ハト）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "日常"],
+    "meaning_main": "伝書バト・帰巣バト（遠くからでも自分の巣に戻る能力を持つよう訓練されたハト）",
+    "description": "homingpigeon は、本来 homing pigeon と2語で書く語で「伝書バト・帰巣バト」という意味です。遠く離れた場所から放されても、自分の巣（家)まで正確に飛んで帰ることができるよう訓練されたハトを指します。release a homing pigeon（伝書バトを放つ)のように使います。この帰巣本能を使い、昔は手紙を運ばせたり（伝書バト）、レースをしたりしました。homing（巣・家に帰る、home＝家に帰る の現在分詞)＋ pigeon（ハト)が語源で、正しくは homing pigeon と2語で書きます。carrier pigeon（伝書バト)とも呼ばれます。可算名詞です。",
+    "keywords": ["homing pigeon 意味", "homingpigeon 使い方", "伝書バト 英語", "帰巣バト 英語"],
+    "meanings": [
+      { "hinshi": "【名】伝書バト、帰巣バト", "note": "遠くから自分の巣に戻る能力を持つハト。正しくは homing pigeon。可算。" },
+      { "hinshi": "【名】帰巣本能のあるハト", "note": "carrier pigeon とも。" }
+    ],
+    "usages": [
+      { "title": "① 伝書バト", "desc": "通信。", "example_en": "release a homing pigeon", "example_ja": "伝書バトを放つ" },
+      { "title": "② 帰巣バト", "desc": "レース。", "example_en": "train a homing pigeon", "example_ja": "帰巣バトを訓練する" }
+    ],
+    "warn": ["正しくは homing pigeon と2語で書く。『伝書バト・帰巣バト（遠く離れた場所から放されても自分の巣まで正確に飛んで帰るよう訓練されたハト）』。release/train a homing pigeon（伝書バトを放つ/訓練する）。昔は手紙を運ばせた。", "homing（巣・家に帰る、home＝家に帰る の現在分詞）＋ pigeon（ハト）。carrier pigeon（伝書バト)とも呼ぶ。"],
+    "etym_note": "homing（巣・家に帰る、home＝家に帰る の現在分詞）＋ pigeon（ハト、古フランス語 pijon 由来）＝『巣に帰るハト→帰巣バト』に由来。",
+    "etym_chain": [
+      { "node": "homing + pigeon", "sub": "巣に帰るハト", "era": "19世紀" },
+      { "node": "homing pigeon", "sub": "伝書バト・帰巣バト", "era": "19世紀" }
+    ],
+    "phrases": [
+      { "en": "release a homing pigeon", "ja": "伝書バトを放つ" },
+      { "en": "train a homing pigeon", "ja": "帰巣バトを訓練する" },
+      { "en": "a message by homing pigeon", "ja": "伝書バトによる手紙" },
+      { "en": "a homing pigeon race", "ja": "伝書バトのレース" },
+      { "en": "the homing instinct", "ja": "帰巣本能" },
+      { "en": "a flock of homing pigeons", "ja": "伝書バトの群れ" }
+    ],
+    "related": [
+      { "en": "pigeon", "ja": "ハト" },
+      { "en": "carrier pigeon", "ja": "伝書バト" },
+      { "en": "dove", "ja": "ハト（小型・白い）" },
+      { "en": "instinct", "ja": "本能" }
+    ],
+    "faq": [
+      { "q": "homing pigeon の意味は？", "a": "『伝書バト・帰巣バト』です。遠く離れた場所から放されても、自分の巣（家）まで正確に飛んで帰ることができるよう訓練されたハトを指します。この帰巣本能を使い、昔は手紙を運ばせたりレースをしたりしました。正しくは homing pigeon と2語で書きます。" },
+      { "q": "carrier pigeon と同じ？", "a": "ほぼ同じで、どちらも『伝書バト』を指します。homing（巣に帰る）＋ pigeon（ハト）で帰巣本能を強調し、carrier（運ぶもの）＋ pigeon は手紙を運ぶ役割を強調した言い方です。home（家に帰る）の現在分詞が homing です。" }
+    ],
+    "quiz": [
+      { "q": "homing pigeon の意味は？", "A": "自分の巣に戻る能力を持つハト（伝書バト）", "B": "飛べないハト", "C": "食用の鶏", "D": "渡り鳥のツバメ", "correct": "A" },
+      { "q": "homing pigeon の別の呼び方は？", "A": "carrier pigeon（伝書バト）", "B": "chicken（ニワトリ）", "C": "sparrow（スズメ）", "D": "eagle（ワシ）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "hoopskirt",
+    "pron": "ˈhuːp skɜːrt",
+    "kana": "フープスカート",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "hoop（輪）＋skirt（スカート）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "描写"],
+    "meaning_main": "フープスカート（輪状の骨を入れて大きくふくらませたスカート）",
+    "description": "hoopskirt は、本来 hoop skirt と2語で書く語で「フープスカート」という意味です。何本もの輪（hoop)状の骨組みを下着として入れることで、スカートを大きく・丸くふくらませた、昔の女性のスカートを指します。19世紀ごろのドレスで流行しました。wear a hoop skirt（フープスカートをはく)のように使います。骨組みそのものや、それを入れた下着（ペチコート)を指すこともあります。hoop（輪・たが）＋ skirt（スカート)が語源で、正しくは hoop skirt と2語で書きます。crinoline（クリノリン＝同様のふくらんだスカート・骨組み)と近い意味です。可算名詞です。",
+    "keywords": ["hoop skirt 意味", "hoopskirt 使い方", "フープスカート 英語", "ふくらんだスカート 英語"],
+    "meanings": [
+      { "hinshi": "【名】フープスカート", "note": "輪状の骨を入れて大きくふくらませたスカート。正しくは hoop skirt。可算。" },
+      { "hinshi": "【名】輪骨入りのスカート（下着）", "note": "19世紀に流行。crinoline と近い。" }
+    ],
+    "usages": [
+      { "title": "① フープスカート", "desc": "衣類。", "example_en": "wear a hoop skirt", "example_ja": "フープスカートをはく" },
+      { "title": "② ふくらんだスカート", "desc": "歴史。", "example_en": "a wide hoop skirt", "example_ja": "大きく広がったフープスカート" }
+    ],
+    "warn": ["正しくは hoop skirt と2語で書く。『フープスカート（何本もの輪〔hoop〕状の骨組みを入れて大きく丸くふくらませた、昔の女性のスカート）』。19世紀ごろ流行。wear a hoop skirt（フープスカートをはく）。", "hoop（輪・たが）＋ skirt（スカート）。crinoline（クリノリン＝同様のふくらんだスカート・骨組み)と近い。"],
+    "etym_note": "hoop（輪・たが）＋ skirt（スカート）＝『輪で広げたスカート→フープスカート』に由来。",
+    "etym_chain": [
+      { "node": "hoop + skirt", "sub": "輪のスカート", "era": "近代英語" },
+      { "node": "hoop skirt", "sub": "フープスカート", "era": "19世紀" }
+    ],
+    "phrases": [
+      { "en": "wear a hoop skirt", "ja": "フープスカートをはく" },
+      { "en": "a wide hoop skirt", "ja": "大きく広がったフープスカート" },
+      { "en": "a ball gown with a hoop skirt", "ja": "フープスカートのついた舞踏会用ドレス" },
+      { "en": "the hoops of a hoop skirt", "ja": "フープスカートの輪骨" },
+      { "en": "a Victorian hoop skirt", "ja": "ビクトリア朝のフープスカート" },
+      { "en": "a wire hoop skirt", "ja": "針金の輪のフープスカート" }
+    ],
+    "related": [
+      { "en": "crinoline", "ja": "クリノリン（ふくらんだスカート・骨組み）" },
+      { "en": "petticoat", "ja": "ペチコート" },
+      { "en": "skirt", "ja": "スカート" },
+      { "en": "gown", "ja": "ガウン、ドレス" }
+    ],
+    "faq": [
+      { "q": "hoop skirt の意味は？", "a": "『フープスカート』という意味です。何本もの輪（hoop）状の骨組みを下着として入れることで、スカートを大きく・丸くふくらませた、昔の女性のスカートを指します。19世紀ごろのドレスで流行しました。正しくは hoop skirt と2語で書きます。" },
+      { "q": "crinoline との違いは？", "a": "どちらも『大きくふくらんだスカート』にかかわる語です。crinoline（クリノリン）はスカートを広げるための骨組み・下着やその生地を指し、hoop skirt はその輪（hoop）で広げたスカートそのものを指します。意味が重なって使われます。" }
+    ],
+    "quiz": [
+      { "q": "hoop skirt の意味は？", "A": "輪状の骨を入れて大きくふくらませたスカート", "B": "とても短いスカート", "C": "すその狭いスカート", "D": "ズボン", "correct": "A" },
+      { "q": "hoop skirt と近い語は？", "A": "crinoline（クリノリン）", "B": "necktie（ネクタイ）", "C": "sneaker（スニーカー）", "D": "glove（手袋）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "horselaugh",
+    "pron": "ˈhɔːrslæf",
+    "kana": "ホースラフ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "horse（馬）＋laugh（笑い）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "描写"],
+    "meaning_main": "高笑い・ばか笑い・（あざけるような）下品な大笑い",
+    "description": "horselaugh（ホースラフ）は「高笑い・ばか笑い」という意味の名詞。馬のいななきのように大きく粗野な笑い声を指し、しばしば人をばかにする・あざけるような、下品で無遠慮な大笑いの含みがあります。let out a horselaugh（ばか笑いする)のように使います。上品な笑いではなく、がさつで耳ざわりな笑いというニュアンスです。horse（馬）＋ laugh（笑い)が語源で、馬のいななきにたとえた語です。horse-laugh と書くこともあります。guffaw（高笑い)と近い意味です。可算名詞です。",
+    "keywords": ["horselaugh 意味", "horselaugh 使い方", "高笑い 英語", "ばか笑い 英語"],
+    "meanings": [
+      { "hinshi": "【名】高笑い、ばか笑い", "note": "馬のいななきのような大きく粗野な笑い。let out a horselaugh。可算。" },
+      { "hinshi": "【名】（あざけるような）下品な大笑い", "note": "無遠慮で耳ざわりな笑い。horse-laugh とも。" }
+    ],
+    "usages": [
+      { "title": "① ばか笑い", "desc": "大笑い。", "example_en": "let out a horselaugh", "example_ja": "ばか笑いする" },
+      { "title": "② あざけり笑い", "desc": "下品。", "example_en": "a mocking horselaugh", "example_ja": "あざけるような高笑い" }
+    ],
+    "warn": ["『高笑い・ばか笑い（馬のいななきのような大きく粗野な笑い）』。しばしば人をばかにする・あざけるような、下品で無遠慮な大笑いの含み。let out a horselaugh（ばか笑いする）。horse-laugh とも書く。", "horse（馬）＋ laugh（笑い）＝馬のいななきにたとえた語。guffaw（高笑い)と近い。上品な笑いではない含み。"],
+    "etym_note": "horse（馬）＋ laugh（笑い）＝『馬のいななきのような笑い→粗野な高笑い』に由来。",
+    "etym_chain": [
+      { "node": "horse + laugh", "sub": "馬のような笑い", "era": "近代英語" },
+      { "node": "horselaugh", "sub": "高笑い・ばか笑い", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "let out a horselaugh", "ja": "ばか笑いする" },
+      { "en": "a mocking horselaugh", "ja": "あざけるような高笑い" },
+      { "en": "a loud horselaugh", "ja": "大きなばか笑い" },
+      { "en": "give a horselaugh", "ja": "高笑いする" },
+      { "en": "a coarse horselaugh", "ja": "下品な大笑い" },
+      { "en": "burst into a horselaugh", "ja": "どっとばか笑いする" }
+    ],
+    "related": [
+      { "en": "guffaw", "ja": "高笑い" },
+      { "en": "laugh", "ja": "笑い" },
+      { "en": "cackle", "ja": "甲高い笑い" },
+      { "en": "jeer", "ja": "あざけり、やじ" }
+    ],
+    "faq": [
+      { "q": "horselaugh の意味は？", "a": "『高笑い・ばか笑い』という意味です。馬のいななきのように大きく粗野な笑い声を指し、しばしば人をばかにする・あざけるような、下品で無遠慮な大笑いの含みがあります。let out a horselaugh（ばか笑いする）のように使います。" },
+      { "q": "guffaw との違いは？", "a": "どちらも『高笑い・大笑い』ですが、guffaw は単にこらえきれず大声で笑うこと、horselaugh は馬のいななきのような粗野で、しばしばあざけり・ばかにする含みのある下品な笑いです。horse（馬）＋ laugh（笑い）の成り立ちです。" }
+    ],
+    "quiz": [
+      { "q": "horselaugh の意味は？", "A": "馬のいななきのような粗野な高笑い・ばか笑い", "B": "静かな微笑み", "C": "小さなくすくす笑い", "D": "泣き声", "correct": "A" },
+      { "q": "horselaugh の含みは？", "A": "下品で、あざけるような無遠慮な笑い", "B": "上品でおだやかな笑い", "C": "悲しみの涙", "D": "恐怖の叫び", "correct": "A" }
+    ]
+  },
+  {
+    "english": "hosiery",
+    "pron": "ˈhoʊʒəri",
+    "kana": "ホージャリー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "hose（靴下・ホーズ）＋-ery",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "日常"],
+    "meaning_main": "靴下類・ストッキング類（くつ下・タイツなど足にはく編み物の総称）",
+    "description": "hosiery（ホージャリー）は「靴下類・ストッキング類」という意味の集合的な名詞。くつ下・ストッキング・タイツ・パンティストッキングなど、足にはく編み物（ニット製品)をまとめて指す語です。the hosiery department（靴下売り場)のように使います。店の売り場名や業界用語としてよく使われる、ややかたい語です。hose（靴下・ホーズ、昔は脚衣を指した)＋ -ery（類・製品をまとめる語尾)が語源です。socks / stockings / tights（くつ下・ストッキング・タイツ)などをまとめた呼び名です。ふつう不可算名詞です。",
+    "keywords": ["hosiery 意味", "hosiery 使い方", "靴下類 英語", "ストッキング 英語"],
+    "meanings": [
+      { "hinshi": "【名】靴下類、ストッキング類", "note": "くつ下・タイツなど足にはく編み物の総称。the hosiery department。不可算。" },
+      { "hinshi": "【名】メリヤス製品", "note": "店の売り場名・業界用語。ややかたい語。" }
+    ],
+    "usages": [
+      { "title": "① 靴下類", "desc": "総称。", "example_en": "the hosiery department", "example_ja": "靴下売り場" },
+      { "title": "② ストッキング類", "desc": "商品。", "example_en": "sell hosiery", "example_ja": "靴下類を売る" }
+    ],
+    "warn": ["『靴下類・ストッキング類（くつ下・ストッキング・タイツなど、足にはく編み物をまとめて指す語）』。the hosiery department（靴下売り場）、sell hosiery（靴下類を売る）。店の売り場名・業界用語のややかたい集合名詞。ふつう不可算。", "hose（靴下・ホーズ）＋ -ery（類・製品）。socks / stockings / tights をまとめた呼び名。"],
+    "etym_note": "hose（靴下・ホーズ、昔は脚衣を指した、古英語 hosa 由来）＋ -ery（類・製品をまとめる語尾）＝『靴下類』に由来。",
+    "etym_chain": [
+      { "node": "hose + -ery", "sub": "靴下の類", "era": "近代英語" },
+      { "node": "hosiery", "sub": "靴下類・ストッキング類", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "the hosiery department", "ja": "靴下売り場" },
+      { "en": "sell hosiery", "ja": "靴下類を売る" },
+      { "en": "ladies' hosiery", "ja": "婦人用靴下類" },
+      { "en": "a hosiery manufacturer", "ja": "靴下メーカー" },
+      { "en": "fine hosiery", "ja": "上質なストッキング類" },
+      { "en": "socks and hosiery", "ja": "くつ下と靴下類" }
+    ],
+    "related": [
+      { "en": "socks", "ja": "くつ下" },
+      { "en": "stockings", "ja": "ストッキング" },
+      { "en": "tights", "ja": "タイツ" },
+      { "en": "knitwear", "ja": "ニット製品" }
+    ],
+    "faq": [
+      { "q": "hosiery の意味は？", "a": "『靴下類・ストッキング類』という意味の集合名詞です。くつ下・ストッキング・タイツ・パンティストッキングなど、足にはく編み物（ニット製品）をまとめて指す語です。the hosiery department（靴下売り場）のように使います。" },
+      { "q": "どんな場面で使う？", "a": "店の売り場名（the hosiery department）や、業界用語としてよく使われる、ややかたい集合名詞です。socks（くつ下）、stockings（ストッキング）、tights（タイツ）などをまとめた呼び名で、hose（靴下）＋ -ery の成り立ちです。" }
+    ],
+    "quiz": [
+      { "q": "hosiery の意味は？", "A": "くつ下・ストッキングなど足にはく編み物の総称", "B": "帽子類", "C": "手袋類", "D": "靴そのもの", "correct": "A" },
+      { "q": "hosiery に含まれるものは？", "A": "tights（タイツ）", "B": "hat（帽子）", "C": "coat（コート）", "D": "belt（ベルト）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "hostelry",
+    "pron": "ˈhɒstəlri",
+    "kana": "ホステルリー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 hostelerie（宿屋）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文語"],
+    "meaning_main": "（古風・おどけて）宿屋・旅館・パブ（旅人を泊め、飲食を出す店）",
+    "description": "hostelry（ホステルリー）は「宿屋・旅館・パブ」という意味の、古風でややおどけた名詞。旅人を泊め、飲食を出す宿屋や、酒を飲ませる宿・パブを指します。a country hostelry（いなかの宿屋)のように使います。今では、わざと古めかしく・しゃれて宿やパブを言うときに使われる語です。古フランス語 hostelerie（宿屋)が語源で、hostel（簡易宿泊所)や hotel（ホテル)と同じ語源です。複数形は hostelries です。inn / tavern / pub（宿屋・居酒屋・パブ)と近い意味です。可算名詞です。",
+    "keywords": ["hostelry 意味", "hostelry 使い方", "宿屋 英語 古風", "旅館 英語"],
+    "meanings": [
+      { "hinshi": "【名】（古風・おどけて）宿屋、旅館、パブ", "note": "旅人を泊め飲食を出す店。a country hostelry。複数 hostelries。可算。" },
+      { "hinshi": "【名】酒を出す宿・パブ", "note": "古めかしく・しゃれて言う語。" }
+    ],
+    "usages": [
+      { "title": "① 宿屋", "desc": "古風。", "example_en": "a country hostelry", "example_ja": "いなかの宿屋" },
+      { "title": "② パブ", "desc": "おどけて。", "example_en": "a local hostelry", "example_ja": "地元のパブ（をしゃれて言う）" }
+    ],
+    "warn": ["『宿屋・旅館・パブ（旅人を泊め、飲食を出す店）』の古風でややおどけた語。今はわざと古めかしく・しゃれて宿やパブを言うときに使う。a country/local hostelry（いなかの宿屋/地元のパブ）。複数形は hostelries。", "古フランス語 hostelerie（宿屋）由来。hostel（簡易宿泊所）、hotel（ホテル)と同じ語源。inn / tavern / pub（宿屋/居酒屋/パブ)と近い。"],
+    "etym_note": "古フランス語 hostelerie（宿屋、hostel＝宿 から）に由来。hostel、hotel と同語源。「宿屋」。",
+    "etym_chain": [
+      { "node": "hostelerie", "sub": "宿屋", "era": "古フランス語" },
+      { "node": "hostelry", "sub": "宿屋・旅館（古風）", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "a country hostelry", "ja": "いなかの宿屋" },
+      { "en": "a local hostelry", "ja": "地元のパブ（をしゃれて言う）" },
+      { "en": "an old hostelry", "ja": "古い宿屋" },
+      { "en": "stay at a hostelry", "ja": "宿屋に泊まる" },
+      { "en": "a wayside hostelry", "ja": "道ばたの宿屋" },
+      { "en": "a cozy hostelry", "ja": "居心地のよい宿" }
+    ],
+    "related": [
+      { "en": "inn", "ja": "宿屋、旅館" },
+      { "en": "tavern", "ja": "居酒屋、宿屋" },
+      { "en": "pub", "ja": "パブ、酒場" },
+      { "en": "hostel", "ja": "簡易宿泊所" }
+    ],
+    "faq": [
+      { "q": "hostelry の意味は？", "a": "『宿屋・旅館・パブ』という意味の、古風でややおどけた語です。旅人を泊め、飲食を出す宿屋や、酒を飲ませる宿・パブを指します。a country hostelry（いなかの宿屋）のように使います。今では、わざと古めかしく・しゃれて宿やパブを言うときに使われます。" },
+      { "q": "hotel や hostel と関係ある？", "a": "はい、すべて古フランス語 hostel（宿）に由来する同語源の語です。hostelry は古風な『宿屋・パブ』、hostel は『簡易宿泊所（ユースホステルなど）』、hotel は『ホテル』です。inn / tavern / pub とも近い意味です。" }
+    ],
+    "quiz": [
+      { "q": "（古風）hostelry の意味は？", "A": "宿屋・旅館・パブ（旅人を泊め飲食を出す店）", "B": "病院", "C": "学校", "D": "刑務所", "correct": "A" },
+      { "q": "hostelry と同語源の語は？", "A": "hotel（ホテル）", "B": "hospital（病院）", "C": "history（歴史）", "D": "hostage（人質）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "hotfoot",
+    "pron": "ˈhɒtfʊt",
+    "kana": "ホットフット",
+    "hinshi": "副詞 / 動詞",
+    "ld_pos": "副詞",
+    "ld_etym": "hot（熱い・急いだ）＋foot（足）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "口語"],
+    "meaning_main": "（副）大急ぎで・一目散に／（動）hotfoot it で 大急ぎで行く・急いで駆けつける",
+    "description": "hotfoot（ホットフット）は「大急ぎで・一目散に」という意味の副詞、また hotfoot it の形で「大急ぎで行く・急いで駆けつける」という意味の口語表現です。足が熱くなるほど急いで走る・駆けつけるようすを表します。run hotfoot to the station（駅へ一目散に走る）、hotfoot it home（大急ぎで家に帰る)のように使います。hot（熱い・急いだ）＋ foot（足)が語源で、「足が熱くなるほど急ぐ」というイメージです。くだけた口語で、in a hurry / at full speed（急いで・全速力で)と近い意味です。",
+    "keywords": ["hotfoot 意味", "hotfoot 使い方", "大急ぎで 英語", "一目散に 英語"],
+    "meanings": [
+      { "hinshi": "【副】大急ぎで、一目散に", "note": "足が熱くなるほど急いで。run hotfoot。" },
+      { "hinshi": "【動】hotfoot it で 大急ぎで行く、駆けつける", "note": "hotfoot it home（大急ぎで家に帰る）。口語。" }
+    ],
+    "usages": [
+      { "title": "① 一目散に", "desc": "副詞。", "example_en": "run hotfoot to the station", "example_ja": "駅へ一目散に走る" },
+      { "title": "② 大急ぎで行く", "desc": "動詞。", "example_en": "hotfoot it home", "example_ja": "大急ぎで家に帰る" }
+    ],
+    "warn": ["副詞『大急ぎで・一目散に（足が熱くなるほど急いで）』、動詞 hotfoot it『大急ぎで行く・駆けつける』。run hotfoot to 〜（〜へ一目散に走る）、hotfoot it home（大急ぎで家に帰る）。くだけた口語。", "hot（熱い・急いだ）＋ foot（足）＝『足が熱くなるほど急ぐ』イメージ。in a hurry / at full speed（急いで/全速力で)と近い。"],
+    "etym_note": "hot（熱い・急いだ）＋ foot（足）＝『足が熱くなるほど急いで→大急ぎで』に由来。",
+    "etym_chain": [
+      { "node": "hot + foot", "sub": "熱い足", "era": "中英語" },
+      { "node": "hotfoot", "sub": "大急ぎで", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "run hotfoot to the station", "ja": "駅へ一目散に走る" },
+      { "en": "hotfoot it home", "ja": "大急ぎで家に帰る" },
+      { "en": "come hotfoot", "ja": "大急ぎでやって来る" },
+      { "en": "hotfoot it out of there", "ja": "そこから急いで逃げ出す" },
+      { "en": "go hotfoot after", "ja": "〜を一目散に追う" },
+      { "en": "arrive hotfoot", "ja": "急いで到着する" }
+    ],
+    "related": [
+      { "en": "hurriedly", "ja": "急いで" },
+      { "en": "hastily", "ja": "あわてて、急いで" },
+      { "en": "at full speed", "ja": "全速力で" },
+      { "en": "rush", "ja": "急ぐ、突進する" }
+    ],
+    "faq": [
+      { "q": "hotfoot の意味は？", "a": "『大急ぎで・一目散に』という意味の副詞、また hotfoot it の形で『大急ぎで行く・急いで駆けつける』という口語表現です。足が熱くなるほど急いで走る・駆けつけるようすを表します。run hotfoot to the station（駅へ一目散に走る）のように使います。" },
+      { "q": "hotfoot it とは？", "a": "『大急ぎで行く・急いで駆けつける』という意味の口語表現です。hotfoot it home（大急ぎで家に帰る）、hotfoot it out of there（そこから急いで逃げ出す）のように使います。hot（熱い・急いだ）＋ foot（足）で『足が熱くなるほど急ぐ』イメージです。" }
+    ],
+    "quiz": [
+      { "q": "run hotfoot の意味は？", "A": "大急ぎで（一目散に）走る", "B": "ゆっくり歩く", "C": "立ち止まる", "D": "引き返す", "correct": "A" },
+      { "q": "hotfoot it home の意味は？", "A": "大急ぎで家に帰る", "B": "家でくつろぐ", "C": "家を出る", "D": "道に迷う", "correct": "A" }
+    ]
+  },
+  {
+    "english": "housephysician",
+    "pron": "ˌhaʊs fɪˈzɪʃn",
+    "kana": "ハウス・フィジシャン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "house（院内の）＋physician（医師）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "専門"],
+    "meaning_main": "院内常勤医・研修医（病院に住み込み/常駐して勤務する医師）",
+    "description": "housephysician は、本来 house physician と2語で書く語で「院内常勤医・研修医」という意味です。病院に常駐（かつては住み込み)して、入院患者の内科的な診療にあたる医師を指します。the house physician on duty（当直の院内医)のように使います。ここでの house は「（その)施設内の・住み込みの」という意味です。house（院内の）＋ physician（（内科の)医師)が語源で、正しくは house physician と2語で書きます。外科にあたるのは house surgeon（院内外科医)です。アメリカでは resident（研修医)に近い立場を指します。可算名詞です。",
+    "keywords": ["house physician 意味", "housephysician 使い方", "院内常勤医 英語", "研修医 英語"],
+    "meanings": [
+      { "hinshi": "【名】院内常勤医、研修医", "note": "病院に常駐して診療する医師。正しくは house physician。可算。" },
+      { "hinshi": "【名】住み込みの内科医", "note": "外科は house surgeon。米の resident に近い。" }
+    ],
+    "usages": [
+      { "title": "① 院内常勤医", "desc": "病院。", "example_en": "the house physician on duty", "example_ja": "当直の院内医" },
+      { "title": "② 研修医", "desc": "常駐。", "example_en": "work as a house physician", "example_ja": "院内常勤医として働く" }
+    ],
+    "warn": ["正しくは house physician と2語で書く。『院内常勤医・研修医（病院に常駐〔かつては住み込み〕して入院患者の内科的な診療にあたる医師）』。the house physician on duty（当直の院内医）。ここの house は『施設内の・住み込みの』。", "house（院内の）＋ physician（内科医）。外科は house surgeon。米では resident（研修医)に近い立場。"],
+    "etym_note": "house（院内の・住み込みの）＋ physician（内科医、ギリシャ語 physis＝自然 由来）＝『院内の医師→院内常勤医』に由来。",
+    "etym_chain": [
+      { "node": "house + physician", "sub": "院内の医師", "era": "近代英語" },
+      { "node": "house physician", "sub": "院内常勤医", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "the house physician on duty", "ja": "当直の院内医" },
+      { "en": "work as a house physician", "ja": "院内常勤医として働く" },
+      { "en": "call the house physician", "ja": "院内医を呼ぶ" },
+      { "en": "a hospital house physician", "ja": "病院の院内常勤医" },
+      { "en": "the house physician's rounds", "ja": "院内医の回診" },
+      { "en": "house physician and house surgeon", "ja": "院内内科医と院内外科医" }
+    ],
+    "related": [
+      { "en": "physician", "ja": "内科医、医師" },
+      { "en": "house surgeon", "ja": "院内外科医" },
+      { "en": "resident", "ja": "研修医（米）" },
+      { "en": "intern", "ja": "インターン、研修医" }
+    ],
+    "faq": [
+      { "q": "house physician の意味は？", "a": "『院内常勤医・研修医』という意味です。病院に常駐（かつては住み込み）して、入院患者の内科的な診療にあたる医師を指します。the house physician on duty（当直の院内医）のように使います。正しくは house physician と2語で書きます。" },
+      { "q": "house surgeon との違いは？", "a": "house physician は病院に常駐する『内科医』、house surgeon は同じく常駐する『外科医』です。ここでの house は『（その)施設内の・住み込みの』という意味です。アメリカでは resident（研修医）に近い立場を指します。" }
+    ],
+    "quiz": [
+      { "q": "house physician の意味は？", "A": "病院に常駐して診療する院内常勤医（研修医）", "B": "開業医", "C": "往診専門の医者", "D": "薬剤師", "correct": "A" },
+      { "q": "house physician に対する外科は？", "A": "house surgeon（院内外科医）", "B": "house physician のまま", "C": "dentist（歯医者）", "D": "nurse（看護師）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "howbeit",
+    "pron": "haʊˈbiːɪt",
+    "kana": "ハウビーイット",
+    "hinshi": "副詞 / 接続詞",
+    "ld_pos": "副詞",
+    "ld_etym": "how（どのように）＋be＋it（それ）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "古語"],
+    "meaning_main": "（古語）とはいえ・それでもなお・しかし／どうであろうとも",
+    "description": "howbeit（ハウビーイット）は「とはいえ・それでもなお・しかし」という意味の、非常に古風・文語的な副詞・接続詞です。前に述べたことを受けて「それはそうだが、しかし」と逆のことを続けるときや、「どうであろうとも」という意味で使われます。Howbeit, he refused.（とはいえ、彼は断った)のように使います。how（どのように）＋ be（ある）＋ it（それ)が合わさった語で、文字どおりには「それがどうであっても」という意味です。欽定訳聖書やシェイクスピアなど古い文章で見られます。現代の日常では however / nevertheless（しかし・それでもなお)を使います。",
+    "keywords": ["howbeit 意味", "howbeit 使い方", "とはいえ 英語 古語", "それでもなお 英語"],
+    "meanings": [
+      { "hinshi": "【副】（古語）とはいえ、それでもなお、しかし", "note": "逆のことを続ける。Howbeit, he refused.。" },
+      { "hinshi": "【接続】どうであろうとも", "note": "how＋be＋it から。現代は however。" }
+    ],
+    "usages": [
+      { "title": "① とはいえ", "desc": "古語。", "example_en": "Howbeit, he refused.", "example_ja": "とはいえ、彼は断った。" },
+      { "title": "② どうであろうと", "desc": "文語。", "example_en": "howbeit it may be", "example_ja": "それがどうであろうとも" }
+    ],
+    "warn": ["『（古語)とはいえ・それでもなお・しかし』『どうであろうとも』の非常に古風・文語的な語。Howbeit, he refused.（とはいえ、彼は断った）。欽定訳聖書やシェイクスピアなど古い文章に見られる。現代の日常では however / nevertheless を使う。", "how（どのように）＋ be（ある）＋ it（それ）＝『それがどうであっても』。"],
+    "etym_note": "how（どのように）＋ be（ある）＋ it（それ）が合わさった語。文字どおり『それがどうであっても』。「とはいえ」。",
+    "etym_chain": [
+      { "node": "how be it", "sub": "それがどうであっても", "era": "中英語" },
+      { "node": "howbeit", "sub": "とはいえ・しかし", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "Howbeit, he refused.", "ja": "とはいえ、彼は断った。" },
+      { "en": "howbeit it may be", "ja": "それがどうであろうとも" },
+      { "en": "Howbeit, the truth remains.", "ja": "それでもなお、真実は変わらない。" },
+      { "en": "howbeit for a time", "ja": "しばらくの間はそうだとしても" },
+      { "en": "Howbeit, we must go on.", "ja": "とはいえ、我々は進まねばならない。" },
+      { "en": "howbeit difficult", "ja": "たとえ困難であろうとも" }
+    ],
+    "related": [
+      { "en": "however", "ja": "しかし、それでも" },
+      { "en": "nevertheless", "ja": "それでもなお" },
+      { "en": "nonetheless", "ja": "それにもかかわらず" },
+      { "en": "yet", "ja": "しかし" }
+    ],
+    "faq": [
+      { "q": "howbeit の意味は？", "a": "『とはいえ・それでもなお・しかし』『どうであろうとも』という意味の、非常に古風・文語的な副詞・接続詞です。前に述べたことを受けて逆のことを続けるときに使います。Howbeit, he refused.（とはいえ、彼は断った）のように使います。" },
+      { "q": "今も使う？", "a": "現代の日常ではまず使われません。欽定訳聖書やシェイクスピアなど古い文章で見られる語です。how（どのように）＋ be（ある）＋ it（それ）から成ります。現代では however / nevertheless / nonetheless（しかし・それでもなお）を使います。" }
+    ],
+    "quiz": [
+      { "q": "（古語）howbeit の意味は？", "A": "とはいえ・それでもなお・しかし", "B": "だから・したがって", "C": "たとえば", "D": "まず最初に", "correct": "A" },
+      { "q": "howbeit の現代の言い方は？", "A": "however（しかし）", "B": "therefore（だから）", "C": "because（なぜなら）", "D": "also（また）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "hoyden",
+    "pron": "ˈhɔɪdn",
+    "kana": "ホイドゥン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "中オランダ語 heiden（田舎者・異教徒）か",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "古語"],
+    "meaning_main": "（古風）おてんば娘・はねっかえりの女の子（活発で元気のよい少女）",
+    "description": "hoyden（ホイドゥン）は「おてんば娘・はねっかえりの女の子」という意味の、古風な名詞。しとやかにふるまわず、男の子のように元気よく走り回ったり騒いだりする、活発で大胆な少女を指します。a lively hoyden（元気なおてんば娘)のように使います。昔は「女らしくない」という批判の含みがありましたが、今では古めかしく、ほほえましい響きで使われることが多い語です。中オランダ語 heiden（田舎者・異教徒)に由来するとされます。tomboy（おてんば・男まさりの女の子)と近い意味です。可算名詞です。",
+    "keywords": ["hoyden 意味", "hoyden 使い方", "おてんば娘 英語", "はねっかえり 英語"],
+    "meanings": [
+      { "hinshi": "【名】（古風）おてんば娘、はねっかえりの女の子", "note": "元気よく走り回る活発な少女。a lively hoyden。可算。" },
+      { "hinshi": "【名】活発で大胆な少女", "note": "tomboy と近い。古めかしい語。" }
+    ],
+    "usages": [
+      { "title": "① おてんば娘", "desc": "古風。", "example_en": "a lively hoyden", "example_ja": "元気なおてんば娘" },
+      { "title": "② はねっかえり", "desc": "活発。", "example_en": "a wild hoyden", "example_ja": "わんぱくな女の子" }
+    ],
+    "warn": ["『おてんば娘・はねっかえりの女の子（しとやかにせず男の子のように元気よく走り回る活発な少女）』の古風な語。a lively hoyden（元気なおてんば娘）。昔は『女らしくない』という批判の含みがあったが、今は古めかしくほほえましい響き。", "中オランダ語 heiden（田舎者・異教徒）に由来するとされる。tomboy（おてんば・男まさりの女の子)と近い。"],
+    "etym_note": "中オランダ語 heiden（田舎者・異教徒）に由来するとされる。「田舎者→行儀にとらわれないおてんば娘」。",
+    "etym_chain": [
+      { "node": "heiden", "sub": "田舎者・異教徒", "era": "中オランダ語" },
+      { "node": "hoyden", "sub": "おてんば娘", "era": "16世紀" }
+    ],
+    "phrases": [
+      { "en": "a lively hoyden", "ja": "元気なおてんば娘" },
+      { "en": "a wild hoyden", "ja": "わんぱくな女の子" },
+      { "en": "a tomboyish hoyden", "ja": "男まさりのおてんば娘" },
+      { "en": "a romping hoyden", "ja": "はしゃぎ回る少女" },
+      { "en": "grow out of being a hoyden", "ja": "おてんばを卒業する" },
+      { "en": "a cheerful hoyden", "ja": "陽気なおてんば娘" }
+    ],
+    "related": [
+      { "en": "tomboy", "ja": "おてんば、男まさりの女の子" },
+      { "en": "romp", "ja": "はしゃぎ回る" },
+      { "en": "girl", "ja": "女の子" },
+      { "en": "madcap", "ja": "むこうみずな人" }
+    ],
+    "faq": [
+      { "q": "hoyden の意味は？", "a": "『おてんば娘・はねっかえりの女の子』という意味の古風な語です。しとやかにふるまわず、男の子のように元気よく走り回ったり騒いだりする、活発で大胆な少女を指します。a lively hoyden（元気なおてんば娘）のように使います。" },
+      { "q": "tomboy との違いは？", "a": "どちらも『おてんば・男まさりの女の子』を指し近い意味です。tomboy は現代でもふつうに使われますが、hoyden は古風で、昔は『女らしくない』という批判の含みがありました。今では古めかしく、ほほえましい響きで使われます。" }
+    ],
+    "quiz": [
+      { "q": "hoyden の意味は？", "A": "元気よく走り回る活発なおてんば娘", "B": "しとやかな令嬢", "C": "年老いた女性", "D": "赤ちゃん", "correct": "A" },
+      { "q": "hoyden と近い意味は？", "A": "tomboy（おてんば）", "B": "lady（淑女）", "C": "nurse（看護師）", "D": "queen（女王）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "hubby",
+    "pron": "ˈhʌbi",
+    "kana": "ハビー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "husband（夫）の愛称",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "口語"],
+    "meaning_main": "（くだけた）夫・だんな（husband の親しみを込めた言い方）",
+    "description": "hubby（ハビー）は「夫・だんな」という意味の、親しみを込めたくだけた口語の名詞。husband（夫)を、妻などが愛情をこめて気軽に呼ぶときの言い方です。my hubby（うちの夫)のように使います。会話やくだけた文章で使われる、かわいらしく親しみのある語です。husband（夫)の愛称として生まれた語が語源です。複数形は hubbies です。改まった場や正式な文章では husband を使います。可算名詞です。",
+    "keywords": ["hubby 意味", "hubby 使い方", "夫 口語 英語", "だんな 英語"],
+    "meanings": [
+      { "hinshi": "【名】（くだけた）夫、だんな", "note": "husband の親しみを込めた言い方。my hubby。複数 hubbies。可算。" },
+      { "hinshi": "【名】愛称としての夫", "note": "会話・くだけた文章で使う。" }
+    ],
+    "usages": [
+      { "title": "① 夫", "desc": "口語。", "example_en": "my hubby", "example_ja": "うちの夫" },
+      { "title": "② だんな", "desc": "親しみ。", "example_en": "her hubby", "example_ja": "彼女のだんな" }
+    ],
+    "warn": ["『夫・だんな』は husband（夫)の親しみを込めたくだけた口語。my hubby（うちの夫）。会話やくだけた文章で使う、かわいらしく親しみのある語。複数形は hubbies。改まった場・正式な文章では husband。", "husband（夫）の愛称。妻などが愛情をこめて使うことが多い。"],
+    "etym_note": "husband（夫）を短く・親しみを込めて呼ぶ愛称として生まれた語。「だんな・夫」。",
+    "etym_chain": [
+      { "node": "husband", "sub": "夫", "era": "近代英語" },
+      { "node": "hubby", "sub": "夫・だんな（愛称）", "era": "17世紀" }
+    ],
+    "phrases": [
+      { "en": "my hubby", "ja": "うちの夫" },
+      { "en": "her hubby", "ja": "彼女のだんな" },
+      { "en": "hubby and I", "ja": "夫と私" },
+      { "en": "a loving hubby", "ja": "愛情深い夫" },
+      { "en": "my future hubby", "ja": "将来の夫" },
+      { "en": "a gift for hubby", "ja": "夫へのプレゼント" }
+    ],
+    "related": [
+      { "en": "husband", "ja": "夫" },
+      { "en": "wife", "ja": "妻" },
+      { "en": "spouse", "ja": "配偶者" },
+      { "en": "partner", "ja": "伴侶、パートナー" }
+    ],
+    "faq": [
+      { "q": "hubby の意味は？", "a": "『夫・だんな』という意味の、親しみを込めたくだけた口語です。husband（夫）を、妻などが愛情をこめて気軽に呼ぶときの言い方です。my hubby（うちの夫）のように使います。会話やくだけた文章で使われます。" },
+      { "q": "husband との違いは？", "a": "意味は同じ『夫』ですが、hubby は親しみ・愛情のこもったくだけた言い方、husband は標準語です。改まった場や正式な文章では husband を使います。複数形は hubbies です。妻を親しんで呼ぶ wifey もあります。" }
+    ],
+    "quiz": [
+      { "q": "hubby の意味は？", "A": "夫・だんな（親しみを込めた言い方）", "B": "妻", "C": "子ども", "D": "友だち", "correct": "A" },
+      { "q": "hubby のもとの語は？", "A": "husband（夫）", "B": "hobby（趣味）", "C": "hub（中心）", "D": "hug（抱擁）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "huckleberry",
+    "pron": "ˈhʌklbɛri",
+    "kana": "ハックルベリー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "hurtleberry（コケモモ）の変化",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "日常"],
+    "meaning_main": "ハックルベリー（北米産の、青黒くて小さな食用の実／その低木）",
+    "description": "huckleberry（ハックルベリー）は「ハックルベリー」という意味の名詞。北アメリカに自生する低木と、その青黒くて小さな食用の実を指します。ブルーベリーによく似た実で、ジャムやパイ、お菓子などに使われます。pick huckleberries（ハックルベリーを摘む)のように使います。マーク・トウェインの小説の主人公 Huckleberry Finn（ハックルベリー・フィン)の名でも知られます。昔の英語 hurtleberry（コケモモ)が変化した語が語源です。複数形は huckleberries です。blueberry（ブルーベリー)と近い仲間です。可算名詞です。",
+    "keywords": ["huckleberry 意味", "huckleberry 使い方", "ハックルベリー 英語", "コケモモ 英語"],
+    "meanings": [
+      { "hinshi": "【名】ハックルベリー（実）", "note": "北米産の青黒くて小さな食用の実。複数 huckleberries。可算。" },
+      { "hinshi": "【名】ハックルベリーの低木", "note": "ブルーベリーに似た仲間。" }
+    ],
+    "usages": [
+      { "title": "① 実", "desc": "果実。", "example_en": "pick huckleberries", "example_ja": "ハックルベリーを摘む" },
+      { "title": "② お菓子", "desc": "料理。", "example_en": "huckleberry pie", "example_ja": "ハックルベリーパイ" }
+    ],
+    "warn": ["『ハックルベリー（北アメリカに自生する低木と、その青黒くて小さな食用の実）』。ブルーベリーによく似た実で、ジャム・パイ・お菓子に使う。pick huckleberries（ハックルベリーを摘む）。複数形は huckleberries。", "昔の英語 hurtleberry（コケモモ）が変化した語。マーク・トウェインの Huckleberry Finn の名でも有名。blueberry（ブルーベリー)と近い仲間。"],
+    "etym_note": "昔の英語 hurtleberry（コケモモ、hurt＝コケモモの実 ＋ berry）が変化した語とされる。「ハックルベリー」。",
+    "etym_chain": [
+      { "node": "hurtleberry", "sub": "コケモモ", "era": "近代英語" },
+      { "node": "huckleberry", "sub": "ハックルベリー", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "pick huckleberries", "ja": "ハックルベリーを摘む" },
+      { "en": "huckleberry pie", "ja": "ハックルベリーパイ" },
+      { "en": "huckleberry jam", "ja": "ハックルベリージャム" },
+      { "en": "wild huckleberries", "ja": "野生のハックルベリー" },
+      { "en": "a huckleberry bush", "ja": "ハックルベリーの低木" },
+      { "en": "ripe huckleberries", "ja": "熟したハックルベリー" }
+    ],
+    "related": [
+      { "en": "blueberry", "ja": "ブルーベリー" },
+      { "en": "berry", "ja": "ベリー、小さな実" },
+      { "en": "bilberry", "ja": "ビルベリー、コケモモ" },
+      { "en": "cranberry", "ja": "クランベリー" }
+    ],
+    "faq": [
+      { "q": "huckleberry の意味は？", "a": "『ハックルベリー』という意味です。北アメリカに自生する低木と、その青黒くて小さな食用の実を指します。ブルーベリーによく似た実で、ジャムやパイ、お菓子などに使われます。pick huckleberries（ハックルベリーを摘む）のように使います。" },
+      { "q": "blueberry と同じ？", "a": "よく似た仲間ですが別の植物です。huckleberry（ハックルベリー）は主に北米に自生し、ブルーベリーより種が大きめでやや野生的です。マーク・トウェインの小説の主人公 Huckleberry Finn の名でも知られます。" }
+    ],
+    "quiz": [
+      { "q": "huckleberry とは？", "A": "北米産の青黒くて小さな食用の実（とその低木）", "B": "大きな赤いリンゴ", "C": "黄色いバナナ", "D": "緑のメロン", "correct": "A" },
+      { "q": "huckleberry に似た実は？", "A": "blueberry（ブルーベリー）", "B": "watermelon（スイカ）", "C": "pineapple（パイナップル）", "D": "grape だけ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "huh",
+    "pron": "hʌ",
+    "kana": "ハッ",
+    "hinshi": "間投詞",
+    "ld_pos": "間投詞",
+    "ld_etym": "声を模した擬音語",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "口語"],
+    "meaning_main": "（くだけた）えっ？・何だって？（聞き返し）／へえ・ふーん（驚き）／〜だよね？（同意を求める）",
+    "description": "huh（ハッ）は、会話で使うくだけた間投詞。言い方（イントネーション)によっていくつかの意味になります。1つは「えっ？・何だって？」と聞き返す意味（Huh? What did you say?）。2つめは「へえ・ふーん・おや」という驚き・意外・納得の気持ち（Huh, that's interesting.）。3つめは文の終わりにつけて「〜だよね？・だろ？」と相手に同意や返事を求める意味（Nice day, huh?）です。声を模した擬音語が語源です。とてもくだけた話し言葉で、改まった場では使いません。",
+    "keywords": ["huh 意味", "huh 使い方", "えっ 英語", "だよね 英語"],
+    "meanings": [
+      { "hinshi": "【間】えっ？、何だって？", "note": "聞き返し。Huh? What did you say?。" },
+      { "hinshi": "【間】へえ、ふーん、おや", "note": "驚き・意外・納得。Huh, that's interesting.。" },
+      { "hinshi": "【間】〜だよね？、だろ？", "note": "文末で同意を求める。Nice day, huh?。" }
+    ],
+    "usages": [
+      { "title": "① えっ？", "desc": "聞き返し。", "example_en": "Huh? Say that again.", "example_ja": "えっ？もう一度言って。" },
+      { "title": "② だよね？", "desc": "同意。", "example_en": "Nice day, huh?", "example_ja": "いい天気だよね？" }
+    ],
+    "warn": ["くだけた間投詞で、言い方で意味が変わる。①『えっ？・何だって？』（聞き返し）②『へえ・ふーん・おや』（驚き・納得）③文末で『〜だよね？・だろ？』（同意を求める）。Huh? / Huh, interesting. / Nice day, huh?。", "声を模した擬音語。とてもくだけた話し言葉で、改まった場では使わない。聞き返しは Pardon? / Sorry? がていねい。"],
+    "etym_note": "とまどい・問いかけ・納得などの声を模した擬音語。「えっ／ふーん／だよね」。",
+    "etym_chain": [
+      { "node": "擬音語", "sub": "とまどい・問いの声", "era": "近代英語" },
+      { "node": "huh", "sub": "えっ／ふーん／だよね", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "Huh? What did you say?", "ja": "えっ？何て言ったの？" },
+      { "en": "Huh, that's interesting.", "ja": "へえ、それはおもしろい。" },
+      { "en": "Nice day, huh?", "ja": "いい天気だよね？" },
+      { "en": "Huh, I didn't know that.", "ja": "ふーん、知らなかった。" },
+      { "en": "You did it, huh?", "ja": "やったんだね？" },
+      { "en": "Huh? Really?", "ja": "えっ？ほんとに？" }
+    ],
+    "related": [
+      { "en": "what", "ja": "何（聞き返し）" },
+      { "en": "pardon", "ja": "もう一度（ていねいな聞き返し）" },
+      { "en": "oh", "ja": "おお、へえ" },
+      { "en": "right", "ja": "だよね（同意）" }
+    ],
+    "faq": [
+      { "q": "huh の意味は？", "a": "会話で使うくだけた間投詞で、言い方によって①『えっ？・何だって？』と聞き返す、②『へえ・ふーん・おや』と驚き・納得を表す、③文末で『〜だよね？・だろ？』と同意を求める、の意味になります。Huh? / Huh, interesting. / Nice day, huh? のように使います。" },
+      { "q": "使うときの注意は？", "a": "とてもくだけた話し言葉で、改まった場やていねいな場面では使いません。聞き返すときは、より礼儀正しい Pardon? / Sorry? / Excuse me? を使うほうが安全です。声を模した擬音語です。" }
+    ],
+    "quiz": [
+      { "q": "Nice day, huh? の huh の意味は？", "A": "〜だよね？（同意を求める）", "B": "さようなら", "C": "ありがとう", "D": "ごめんなさい", "correct": "A" },
+      { "q": "聞き返しの Huh? に近いのは？", "A": "What?（えっ？）", "B": "Yes.（はい）", "C": "No.（いいえ）", "D": "Please.（どうぞ）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "hummock",
+    "pron": "ˈhʌmək",
+    "kana": "ハマック",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "語源不詳（16世紀の航海用語）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "描写"],
+    "meaning_main": "小さな丘・塚（こんもりした盛り上がり）／（氷原の）氷丘・盛り上がった氷",
+    "description": "hummock（ハマック）は「小さな丘・塚」という意味の名詞。地面がこんもりと小さく盛り上がった部分を指します。a grassy hummock（草の生えた小さな丘)のように使います。また、氷原や海氷の上で、氷が押し上げられてできた盛り上がり「氷丘（ひょうきゅう)」も hummock と呼びます。もとは16世紀の航海用語で、陸地に見える小さな盛り上がりを指したとされ、正確な語源ははっきりしません。mound / hillock（塚・小さな丘)と近い意味です。寝具のハンモック（hammock)とはつづり・意味が違うので注意します。可算名詞です。",
+    "keywords": ["hummock 意味", "hummock 使い方", "小さな丘 英語", "氷丘 英語"],
+    "meanings": [
+      { "hinshi": "【名】小さな丘、塚", "note": "地面のこんもりした盛り上がり。a grassy hummock。可算。" },
+      { "hinshi": "【名】（氷原の）氷丘、盛り上がった氷", "note": "海氷が押し上げられてできる。" }
+    ],
+    "usages": [
+      { "title": "① 小さな丘", "desc": "地面。", "example_en": "a grassy hummock", "example_ja": "草の生えた小さな丘" },
+      { "title": "② 氷丘", "desc": "氷原。", "example_en": "hummocks of ice", "example_ja": "盛り上がった氷の塊" }
+    ],
+    "warn": ["『小さな丘・塚（地面のこんもりした盛り上がり）』『（氷原・海氷の)氷丘・盛り上がった氷（氷が押し上げられてできる）』。a grassy hummock（草の生えた小さな丘）、hummocks of ice（氷丘）。mound / hillock（塚/小さな丘)と近い。", "もとは16世紀の航海用語で語源は不確か。寝具の hammock（ハンモック)とはつづり・意味が違うので注意。"],
+    "etym_note": "16世紀の航海用語として現れ、正確な語源ははっきりしない。陸地に見える小さな盛り上がりを指した。「小さな丘」。",
+    "etym_chain": [
+      { "node": "hammock（航海用語）", "sub": "陸の小さな盛り上がり", "era": "16世紀" },
+      { "node": "hummock", "sub": "小さな丘・氷丘", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a grassy hummock", "ja": "草の生えた小さな丘" },
+      { "en": "hummocks of ice", "ja": "盛り上がった氷の塊" },
+      { "en": "climb a hummock", "ja": "小さな丘に登る" },
+      { "en": "a low hummock", "ja": "低い塚" },
+      { "en": "sit on a hummock", "ja": "小さな丘に座る" },
+      { "en": "hummocks on the frozen sea", "ja": "凍った海の氷丘" }
+    ],
+    "related": [
+      { "en": "mound", "ja": "塚、盛り土" },
+      { "en": "hillock", "ja": "小さな丘" },
+      { "en": "knoll", "ja": "小山、丘" },
+      { "en": "bump", "ja": "こぶ、隆起" }
+    ],
+    "faq": [
+      { "q": "hummock の意味は？", "a": "『小さな丘・塚』という意味です。地面がこんもりと小さく盛り上がった部分を指します。a grassy hummock（草の生えた小さな丘）のように使います。また、氷原や海氷の上で氷が押し上げられてできた盛り上がり『氷丘』も hummock と呼びます。" },
+      { "q": "hammock と同じ？", "a": "いいえ、別語です。hummock は『小さな丘・氷丘』、hammock は木などにつるして寝る『ハンモック』です。つづりと意味が違うので注意します。hummock は mound / hillock / knoll（塚・小さな丘）と近い意味です。" }
+    ],
+    "quiz": [
+      { "q": "hummock の意味は？", "A": "こんもりした小さな丘・塚", "B": "深い谷", "C": "広い平原", "D": "高い山脈", "correct": "A" },
+      { "q": "hummock と近い意味は？", "A": "mound（塚）", "B": "hammock（ハンモック）", "C": "ocean（海）", "D": "valley（谷）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "hurler",
+    "pron": "ˈhɜːrlər",
+    "kana": "ハーラー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "hurl（投げる）＋-er",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "日常"],
+    "meaning_main": "（野球の）投手・ピッチャー／（力強く）投げる人／（スポーツのハーリングの）選手",
+    "description": "hurler（ハーラー）は「（野球の)投手・ピッチャー」という意味の名詞。特にスポーツ記事などで、pitcher（ピッチャー)の言いかえとして使われます。the team's ace hurler（チームのエース投手)のように使います。もともとは hurl（力をこめて投げる・ほうる)＋ -er（〜する人)で、「（物を)力強く投げる人」という意味です。また、アイルランドの伝統的な球技「ハーリング（hurling)」の選手も hurler と呼びます。hurl（投げる）＋ -er が語源です。pitcher / thrower（投手・投げる人)と近い意味です。可算名詞です。",
+    "keywords": ["hurler 意味", "hurler 使い方", "投手 英語", "ピッチャー 言いかえ 英語"],
+    "meanings": [
+      { "hinshi": "【名】（野球の）投手、ピッチャー", "note": "pitcher の言いかえ。the team's ace hurler。可算。" },
+      { "hinshi": "【名】（力強く）投げる人／ハーリングの選手", "note": "hurl（投げる）＋ -er。" }
+    ],
+    "usages": [
+      { "title": "① 投手", "desc": "野球。", "example_en": "the team's ace hurler", "example_ja": "チームのエース投手" },
+      { "title": "② 投げる人", "desc": "一般。", "example_en": "a hard-throwing hurler", "example_ja": "剛速球の投手" }
+    ],
+    "warn": ["『（野球の)投手・ピッチャー』はスポーツ記事などで pitcher の言いかえとして使う。the team's ace hurler（チームのエース投手）。もとは hurl（力をこめて投げる）＋ -er で『力強く投げる人』。アイルランドの球技ハーリング（hurling)の選手も hurler。", "hurl（投げる）＋ -er。pitcher / thrower（投手/投げる人)と近い。"],
+    "etym_note": "hurl（力をこめて投げる・ほうる、中英語 hurlen 由来）＋ -er（〜する人）＝『力強く投げる人→投手』に由来。",
+    "etym_chain": [
+      { "node": "hurl + -er", "sub": "投げる人", "era": "中英語" },
+      { "node": "hurler", "sub": "投手・投げる人", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "the team's ace hurler", "ja": "チームのエース投手" },
+      { "en": "a hard-throwing hurler", "ja": "剛速球の投手" },
+      { "en": "a right-handed hurler", "ja": "右投げの投手" },
+      { "en": "a veteran hurler", "ja": "ベテラン投手" },
+      { "en": "the starting hurler", "ja": "先発投手" },
+      { "en": "a skilled hurler", "ja": "腕のよい投手" }
+    ],
+    "related": [
+      { "en": "pitcher", "ja": "投手、ピッチャー" },
+      { "en": "thrower", "ja": "投げる人" },
+      { "en": "hurl", "ja": "力をこめて投げる" },
+      { "en": "baseball", "ja": "野球" }
+    ],
+    "faq": [
+      { "q": "hurler の意味は？", "a": "『（野球の)投手・ピッチャー』という意味です。特にスポーツ記事などで pitcher の言いかえとして使われます。the team's ace hurler（チームのエース投手）のように使います。もともとは『（物を)力強く投げる人』の意味です。" },
+      { "q": "pitcher との違いは？", "a": "どちらも『投手』を指します。pitcher がふつうの語、hurler はスポーツ記事などで変化をつけるための言いかえです。hurl（力をこめて投げる）＋ -er から来ています。アイルランドの球技ハーリング（hurling）の選手も hurler と呼びます。" }
+    ],
+    "quiz": [
+      { "q": "（野球の）hurler の意味は？", "A": "投手・ピッチャー", "B": "打者・バッター", "C": "監督", "D": "審判", "correct": "A" },
+      { "q": "hurler のもとの動詞は？", "A": "hurl（力をこめて投げる）", "B": "hurt（傷つける）", "C": "hurry（急ぐ）", "D": "hunt（狩る）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "husbandman",
+    "pron": "ˈhʌzbəndmən",
+    "kana": "ハズバンドマン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "husband（家長・農業）＋man（人）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "古語"],
+    "meaning_main": "（古語）農夫・農民・耕作者（土地を耕して作物を育てる人）",
+    "description": "husbandman（ハズバンドマン）は「農夫・農民・耕作者」という意味の、古風・文語的な名詞。土地を耕し、作物を育てて暮らす人を指します。a poor husbandman（貧しい農夫)のように使います。聖書や古い文学でよく見られる語です。husband は現代では「夫」の意味ですが、もとは「家をとりしきる人・農業を営む人」の意味があり、ここからこの語が生まれました。関連して husbandry は「農業・農作・（資源の)管理」を意味します。複数形は husbandmen です。現代では farmer（農夫)を使います。可算名詞です。",
+    "keywords": ["husbandman 意味", "husbandman 使い方", "農夫 英語 古語", "耕作者 英語"],
+    "meanings": [
+      { "hinshi": "【名】（古語）農夫、農民、耕作者", "note": "土地を耕し作物を育てる人。a poor husbandman。複数 husbandmen。可算。" },
+      { "hinshi": "【名】（古語）農業を営む人", "note": "現代は farmer。husbandry＝農業。" }
+    ],
+    "usages": [
+      { "title": "① 農夫", "desc": "古語。", "example_en": "a poor husbandman", "example_ja": "貧しい農夫" },
+      { "title": "② 耕作者", "desc": "農業。", "example_en": "a hardworking husbandman", "example_ja": "よく働く農民" }
+    ],
+    "warn": ["『農夫・農民・耕作者（土地を耕し作物を育てる人）』の古風・文語的な語。a poor husbandman（貧しい農夫）。聖書や古い文学に見られる。複数形は husbandmen。現代では farmer を使う。", "husband はもと『家をとりしきる人・農業を営む人』の意で、そこから。husbandry＝農業・（資源の)管理。"],
+    "etym_note": "husband（もと『家をとりしきる人・農業を営む人』、古ノルド語 húsbóndi＝家の主 由来）＋ man（人）＝『農業を営む人→農夫』に由来。",
+    "etym_chain": [
+      { "node": "husband + man", "sub": "農業を営む人", "era": "中英語" },
+      { "node": "husbandman", "sub": "農夫・耕作者", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "a poor husbandman", "ja": "貧しい農夫" },
+      { "en": "a hardworking husbandman", "ja": "よく働く農民" },
+      { "en": "the husbandman's toil", "ja": "農夫の労苦" },
+      { "en": "a simple husbandman", "ja": "素朴な農夫" },
+      { "en": "husbandmen and shepherds", "ja": "農夫と羊飼い" },
+      { "en": "the life of a husbandman", "ja": "農夫の暮らし" }
+    ],
+    "related": [
+      { "en": "farmer", "ja": "農夫、農場主" },
+      { "en": "husbandry", "ja": "農業、（資源の）管理" },
+      { "en": "peasant", "ja": "小作農、農民" },
+      { "en": "cultivator", "ja": "耕作者" }
+    ],
+    "faq": [
+      { "q": "husbandman の意味は？", "a": "『農夫・農民・耕作者』という意味の古風・文語的な語です。土地を耕し、作物を育てて暮らす人を指します。a poor husbandman（貧しい農夫）のように使います。聖書や古い文学でよく見られます。現代では farmer を使います。" },
+      { "q": "husband（夫）と関係ある？", "a": "同じ語から来ています。husband はもともと『家をとりしきる人・農業を営む人』の意味で（古ノルド語 húsbóndi＝家の主）、そこから husbandman（農夫）が生まれました。husbandry は『農業・農作・（資源の）管理』を意味します。" }
+    ],
+    "quiz": [
+      { "q": "（古語）husbandman の意味は？", "A": "農夫・農民・耕作者", "B": "既婚の男性", "C": "船乗り", "D": "商人", "correct": "A" },
+      { "q": "husbandman の現代の言い方は？", "A": "farmer（農夫）", "B": "husband（夫）", "C": "sailor（船乗り）", "D": "teacher（教師）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "january",
+    "pron": "ˈdʒænjueri",
+    "kana": "ジャニュアリー",
+    "hinshi": "名詞",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ローマ神話の神ヤヌス（Janus）",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "基本語"],
+    "meaning_main": "1月（一年の最初の月）（固有名詞で、文中では January と大文字）",
+    "description": "january は、本来 January と大文字で書く固有名詞で「1月」という意味です。一年の最初の月で、31日まであります。in January（1月に）、on January 1（1月1日に)のように使います。月の名前なので、文中では文頭でなくても必ず最初を大文字にして January と書きます。ローマ神話の、物事の初め・門をつかさどる神ヤヌス（Janus)が語源で、一年の入り口の月にふさわしい名です。略して Jan. とも書きます。北半球では冬の寒い時期にあたります。",
+    "keywords": ["January 意味", "january 使い方", "1月 英語", "January 大文字"],
+    "meanings": [
+      { "hinshi": "【固有名】1月", "note": "一年の最初の月、31日まで。文中では January と大文字。" },
+      { "hinshi": "【名】年の初めの月", "note": "略して Jan.。" }
+    ],
+    "usages": [
+      { "title": "① 1月に", "desc": "月。", "example_en": "in January", "example_ja": "1月に" },
+      { "title": "② 日付", "desc": "特定日。", "example_en": "on January 1", "example_ja": "1月1日に" }
+    ],
+    "warn": ["正しくは January と大文字で書く固有名詞。『1月（一年の最初の月、31日まで）』。月の名前なので文中でも必ず大文字。in January（1月に）、on January 1（1月1日に）。略は Jan.。", "ローマ神話の初め・門の神ヤヌス（Janus）由来。前は December（12月）、次は February（2月）。北半球では冬。"],
+    "etym_note": "ローマ神話の、物事の初め・門をつかさどる神ヤヌス（Janus）に由来。一年の入り口の月にふさわしい名。",
+    "etym_chain": [
+      { "node": "Janus", "sub": "初め・門の神", "era": "ローマ神話" },
+      { "node": "January", "sub": "1月", "era": "ラテン語→英語" }
+    ],
+    "phrases": [
+      { "en": "in January", "ja": "1月に" },
+      { "en": "on January 1", "ja": "1月1日に" },
+      { "en": "early January", "ja": "1月初旬" },
+      { "en": "late January", "ja": "1月下旬" },
+      { "en": "last January", "ja": "去年の1月" },
+      { "en": "a cold January morning", "ja": "寒い1月の朝" }
+    ],
+    "related": [
+      { "en": "December", "ja": "12月（前の月）" },
+      { "en": "February", "ja": "2月（次の月）" },
+      { "en": "month", "ja": "月" },
+      { "en": "winter", "ja": "冬" }
+    ],
+    "faq": [
+      { "q": "January の意味は？", "a": "『1月』です。一年の最初の月で、31日まであります。in January（1月に）、on January 1（1月1日に）のように使います。正しくは January と大文字で書きます。" },
+      { "q": "なぜ大文字で書くの？", "a": "月の名前は固有名詞なので、文の途中でも必ず最初を大文字にして January と書きます。ローマ神話の初め・門の神ヤヌス（Janus）が語源です。前の月は December（12月）、次の月は February（2月）、略は Jan. です。" }
+    ],
+    "quiz": [
+      { "q": "January の意味は？", "A": "1月（一年の最初の月）", "B": "7月", "C": "12月", "D": "3月", "correct": "A" },
+      { "q": "January の書き方で正しいのは？", "A": "文中でも大文字で January と書く", "B": "いつも小文字で january", "C": "文頭だけ大文字", "D": "すべて大文字 JANUARY", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jetplane",
+    "pron": "ˈdʒet pleɪn",
+    "kana": "ジェットプレーン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "jet（ジェット）＋plane（飛行機）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "日常"],
+    "meaning_main": "ジェット機（ジェットエンジンで飛ぶ飛行機）",
+    "description": "jetplane は、本来 jet plane と2語で書く語で「ジェット機」という意味です。ジェットエンジンの力で飛ぶ飛行機を指します。prop（プロペラ)機より速く、高く飛べるのが特徴です。board a jet plane（ジェット機に乗る)のように使います。jet（ジェット＝勢いよく噴き出すもの、ジェットエンジン）＋ plane（飛行機)が語源で、正しくは jet plane と2語で書きます。単に jet だけでも「ジェット機」を指します。プロペラで飛ぶ飛行機は propeller plane（プロペラ機)です。可算名詞です。",
+    "keywords": ["jet plane 意味", "jetplane 使い方", "ジェット機 英語", "飛行機 英語"],
+    "meanings": [
+      { "hinshi": "【名】ジェット機", "note": "ジェットエンジンで飛ぶ飛行機。正しくは jet plane。可算。" },
+      { "hinshi": "【名】噴射推進の飛行機", "note": "単に jet とも。対はプロペラ機。" }
+    ],
+    "usages": [
+      { "title": "① ジェット機", "desc": "飛行機。", "example_en": "board a jet plane", "example_ja": "ジェット機に乗る" },
+      { "title": "② 高速飛行", "desc": "特徴。", "example_en": "a fast jet plane", "example_ja": "速いジェット機" }
+    ],
+    "warn": ["正しくは jet plane と2語で書く。『ジェット機（ジェットエンジンの力で飛ぶ飛行機）』。プロペラ機より速く高く飛べる。board a jet plane（ジェット機に乗る）。単に jet だけでも『ジェット機』。", "jet（ジェット＝勢いよく噴き出すもの、ジェットエンジン）＋ plane（飛行機）。プロペラ機は propeller plane。"],
+    "etym_note": "jet（ジェット＝勢いよく噴き出すもの、ジェットエンジン）＋ plane（飛行機、airplane の短縮）＝『ジェットエンジンの飛行機→ジェット機』に由来。",
+    "etym_chain": [
+      { "node": "jet + plane", "sub": "ジェットの飛行機", "era": "20世紀" },
+      { "node": "jet plane", "sub": "ジェット機", "era": "20世紀" }
+    ],
+    "phrases": [
+      { "en": "board a jet plane", "ja": "ジェット機に乗る" },
+      { "en": "a fast jet plane", "ja": "速いジェット機" },
+      { "en": "a passenger jet plane", "ja": "旅客用ジェット機" },
+      { "en": "a military jet plane", "ja": "軍用ジェット機" },
+      { "en": "a jet plane takes off", "ja": "ジェット機が離陸する" },
+      { "en": "travel by jet plane", "ja": "ジェット機で旅する" }
+    ],
+    "related": [
+      { "en": "jet", "ja": "ジェット機、噴射" },
+      { "en": "airplane", "ja": "飛行機" },
+      { "en": "aircraft", "ja": "航空機" },
+      { "en": "propeller plane", "ja": "プロペラ機" }
+    ],
+    "faq": [
+      { "q": "jet plane の意味は？", "a": "『ジェット機』です。ジェットエンジンの力で飛ぶ飛行機を指します。プロペラ機より速く、高く飛べるのが特徴です。board a jet plane（ジェット機に乗る）のように使います。正しくは jet plane と2語で書きます。単に jet だけでもジェット機を指します。" },
+      { "q": "propeller plane との違いは？", "a": "jet plane（ジェット機）はジェットエンジンで飛ぶ飛行機、propeller plane（プロペラ機）はプロペラを回して飛ぶ飛行機です。ジェット機のほうが速く高く飛べます。jet（ジェット）＋ plane（飛行機）の成り立ちです。" }
+    ],
+    "quiz": [
+      { "q": "jet plane の意味は？", "A": "ジェットエンジンで飛ぶ飛行機（ジェット機）", "B": "気球", "C": "ヘリコプター", "D": "ロケットだけ", "correct": "A" },
+      { "q": "jet plane と対になるのは？", "A": "propeller plane（プロペラ機）", "B": "jet plane のまま", "C": "train（列車）", "D": "ship（船）", "correct": "A" }
+    ]
+  }
+]
