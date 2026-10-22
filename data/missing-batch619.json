@@ -1,0 +1,982 @@
+[
+  {
+    "english": "milligram_milligramme",
+    "pron": "ˈmɪliɡræm",
+    "kana": "ミリグラム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "milli-（1000分の1）＋gram（グラム）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "専門"],
+    "meaning_main": "ミリグラム（重さの単位。1グラムの1000分の1）（milligram＝米／milligramme＝英）",
+    "description": "milligram（ミリグラム）は「ミリグラム」という意味の、重さの単位の名詞。1グラム（gram)の1000分の1（0.001グラム)の重さを指します。記号は mg です。a 500 mg tablet（500ミリグラムの錠剤)のように使います。薬の量や、ごく少量の成分の重さを表すときによく使われます。milli-（1000分の1）＋ gram（グラム)が語源です。つづりは、アメリカ英語では milligram、イギリス英語では milligramme と書きます。1000ミリグラムが1グラムです。milli- は millimeter（ミリメートル）、milliliter（ミリリットル)などにも使われます。可算名詞です。",
+    "keywords": ["milligram 意味", "milligramme 意味", "ミリグラム 英語", "mg 単位"],
+    "meanings": [
+      { "hinshi": "【名】ミリグラム", "note": "1グラムの1000分の1。記号 mg。米 milligram／英 milligramme。可算。" },
+      { "hinshi": "【名】ごく小さな重さの単位", "note": "1000ミリグラム＝1グラム。" }
+    ],
+    "usages": [
+      { "title": "① ミリグラム", "desc": "単位。", "example_en": "a 500 mg tablet", "example_ja": "500ミリグラムの錠剤" },
+      { "title": "② 薬の量", "desc": "成分。", "example_en": "ten milligrams of the drug", "example_ja": "その薬10ミリグラム" }
+    ],
+    "warn": ["『ミリグラム（1グラムの1000分の1＝0.001グラムの重さ）』。記号は mg。a 500 mg tablet（500ミリグラムの錠剤）。薬の量やごく少量の成分の重さに使う。1000ミリグラム＝1グラム。つづりは米 milligram／英 milligramme。可算。", "milli-（1000分の1）＋ gram（グラム）。millimeter / milliliter などの milli- も同じ。"],
+    "etym_note": "milli-（1000分の1、ラテン語 mille＝千 由来）＋ gram（グラム）＝『1グラムの1000分の1』に由来。米 -gram、英 -gramme。",
+    "etym_chain": [
+      { "node": "milli- + gram", "sub": "グラムの1000分の1", "era": "近代英語" },
+      { "node": "milligram / milligramme", "sub": "ミリグラム", "era": "19世紀" }
+    ],
+    "phrases": [
+      { "en": "a 500 mg tablet", "ja": "500ミリグラムの錠剤" },
+      { "en": "ten milligrams of the drug", "ja": "その薬10ミリグラム" },
+      { "en": "milligrams per liter", "ja": "1リットルあたりのミリグラム" },
+      { "en": "a few milligrams", "ja": "数ミリグラム" },
+      { "en": "measured in milligrams", "ja": "ミリグラム単位で測られる" },
+      { "en": "1000 milligrams", "ja": "1000ミリグラム（＝1グラム）" }
+    ],
+    "related": [
+      { "en": "gram", "ja": "グラム" },
+      { "en": "milligramme", "ja": "ミリグラム（英つづり）" },
+      { "en": "kilogram", "ja": "キログラム" },
+      { "en": "milliliter", "ja": "ミリリットル" }
+    ],
+    "faq": [
+      { "q": "milligram の意味は？", "a": "『ミリグラム』という意味の重さの単位です。1グラム（gram）の1000分の1（0.001グラム）の重さを指します。記号は mg です。a 500 mg tablet（500ミリグラムの錠剤）のように使い、薬の量やごく少量の成分の重さを表すときによく使われます。" },
+      { "q": "milligram と milligramme の違いは？", "a": "同じ単位でつづりの違いです。アメリカ英語では milligram、イギリス英語では milligramme と書きます。意味は同じです。milli-（1000分の1）＋ gram（グラム）で、1000ミリグラムが1グラムです。" }
+    ],
+    "quiz": [
+      { "q": "1ミリグラムはどれくらい？", "A": "1グラムの1000分の1", "B": "1グラムの10倍", "C": "1キログラム", "D": "1グラムと同じ", "correct": "A" },
+      { "q": "milligram（米）を英では？", "A": "milligramme", "B": "milligrams", "C": "miligram", "D": "milligrame", "correct": "A" }
+    ]
+  },
+  {
+    "english": "millimeter_millimetre",
+    "pron": "ˈmɪlimiːtər",
+    "kana": "ミリメートル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "milli-（1000分の1）＋meter（メートル）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "専門"],
+    "meaning_main": "ミリメートル（長さの単位。1メートルの1000分の1）（millimeter＝米／millimetre＝英）",
+    "description": "millimeter（ミリメートル）は「ミリメートル」という意味の、長さの単位の名詞。1メートル（meter)の1000分の1（0.001メートル)の長さを指します。記号は mm です。a few millimeters thick（数ミリの厚さ)のように使います。1センチメートルの10分の1にあたり、ごく短い長さを細かく測るときに使われます。milli-（1000分の1）＋ meter（メートル)が語源です。つづりは、アメリカ英語では millimeter、イギリス英語では millimetre と書きます。10ミリメートルが1センチメートル、1000ミリメートルが1メートルです。可算名詞です。",
+    "keywords": ["millimeter 意味", "millimetre 意味", "ミリメートル 英語", "mm 単位"],
+    "meanings": [
+      { "hinshi": "【名】ミリメートル", "note": "1メートルの1000分の1。記号 mm。米 millimeter／英 millimetre。可算。" },
+      { "hinshi": "【名】ごく短い長さの単位", "note": "10ミリ＝1センチ、1000ミリ＝1メートル。" }
+    ],
+    "usages": [
+      { "title": "① ミリメートル", "desc": "単位。", "example_en": "a few millimeters thick", "example_ja": "数ミリの厚さ" },
+      { "title": "② 細かい長さ", "desc": "計測。", "example_en": "five millimeters long", "example_ja": "長さ5ミリ" }
+    ],
+    "warn": ["『ミリメートル（1メートルの1000分の1＝0.001メートルの長さ）』。記号は mm。a few millimeters thick（数ミリの厚さ）。10ミリ＝1センチ、1000ミリ＝1メートル。つづりは米 millimeter／英 millimetre。可算。", "milli-（1000分の1）＋ meter（メートル）。centimeter（センチメートル）、kilometer（キロメートル)とあわせて。"],
+    "etym_note": "milli-（1000分の1、ラテン語 mille＝千 由来）＋ meter（メートル）＝『1メートルの1000分の1』に由来。米 -meter、英 -metre。",
+    "etym_chain": [
+      { "node": "milli- + meter", "sub": "メートルの1000分の1", "era": "19世紀" },
+      { "node": "millimeter / millimetre", "sub": "ミリメートル", "era": "19世紀" }
+    ],
+    "phrases": [
+      { "en": "a few millimeters thick", "ja": "数ミリの厚さ" },
+      { "en": "five millimeters long", "ja": "長さ5ミリ" },
+      { "en": "a millimeter of rain", "ja": "1ミリの雨" },
+      { "en": "within a millimeter", "ja": "1ミリの誤差内で" },
+      { "en": "measured in millimeters", "ja": "ミリメートル単位で測る" },
+      { "en": "10 millimeters", "ja": "10ミリ（＝1センチ）" }
+    ],
+    "related": [
+      { "en": "meter", "ja": "メートル" },
+      { "en": "centimeter", "ja": "センチメートル" },
+      { "en": "millimetre", "ja": "ミリメートル（英つづり）" },
+      { "en": "kilometer", "ja": "キロメートル" }
+    ],
+    "faq": [
+      { "q": "millimeter の意味は？", "a": "『ミリメートル』という意味の長さの単位です。1メートル（meter）の1000分の1（0.001メートル）の長さを指します。記号は mm です。a few millimeters thick（数ミリの厚さ）のように使い、ごく短い長さを細かく測るときに使われます。" },
+      { "q": "millimeter と millimetre の違いは？", "a": "同じ単位でつづりの違いです。アメリカ英語では millimeter、イギリス英語では millimetre と書きます。意味は同じです。10ミリメートルが1センチメートル、1000ミリメートルが1メートルです。milli-（1000分の1）＋ meter（メートル）の成り立ちです。" }
+    ],
+    "quiz": [
+      { "q": "1ミリメートルはどれくらい？", "A": "1メートルの1000分の1", "B": "1メートルの10倍", "C": "1キロメートル", "D": "1センチメートルと同じ", "correct": "A" },
+      { "q": "10ミリメートルは何センチ？", "A": "1センチメートル", "B": "10センチメートル", "C": "100センチメートル", "D": "0.1センチメートル", "correct": "A" }
+    ]
+  },
+  {
+    "english": "millipede_millepede",
+    "pron": "ˈmɪlɪpiːd",
+    "kana": "ミリピード",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 mille（千）＋pes（足）",
+    "ld_level": "1級",
+    "badges": ["中学生〜", "英検1級", "CEFR C1", "日常"],
+    "meaning_main": "ヤスデ（細長い体に非常にたくさんの足をもつ、多足の虫）（millipede／millepede とつづる）",
+    "description": "millipede（ミリピード）は「ヤスデ」という意味の名詞。細長い体がたくさんの節に分かれ、1つの節に2対（4本)ずつの足をもつ、きわめて足の多い虫を指します。a millipede curled up（丸まったヤスデ)のように使います。ラテン語 mille（千）＋ pes（足)が語源で、「千本の足」という意味ですが、実際に千本あるわけではありません。つづりは millipede が主で、millepede とも書きます。似た虫のムカデ（centipede＝百の足)は1つの節に1対（2本)の足をもち、肉食で動きが速いのに対し、ヤスデ（millipede)は足が多く、落ち葉などを食べ、刺激を受けると丸まります。可算名詞です。",
+    "keywords": ["millipede 意味", "millepede 意味", "ヤスデ 英語", "多足の虫 英語"],
+    "meanings": [
+      { "hinshi": "【名】ヤスデ", "note": "細長い体に非常に多くの足をもつ多足の虫。1節に2対の足。millipede/millepede とつづる。可算。" },
+      { "hinshi": "【名】多足類の虫", "note": "ムカデ（centipede）と区別。落ち葉などを食べる。" }
+    ],
+    "usages": [
+      { "title": "① ヤスデ", "desc": "虫。", "example_en": "a millipede curled up", "example_ja": "丸まったヤスデ" },
+      { "title": "② 多足", "desc": "特徴。", "example_en": "a millipede has many legs", "example_ja": "ヤスデはたくさん足がある" }
+    ],
+    "warn": ["『ヤスデ（細長い体がたくさんの節に分かれ、1節に2対〔4本〕ずつの足をもつ、きわめて足の多い虫）』。つづりは millipede が主、millepede とも。a millipede curled up（丸まったヤスデ）。ムカデ（centipede）は1節に1対・肉食で速いが、ヤスデは足が多く落ち葉を食べ刺激で丸まる。可算。", "ラテン語 mille（千）＋ pes（足）＝『千本の足』だが実際に千本あるわけではない。centipede（ムカデ＝百の足)と対。"],
+    "etym_note": "ラテン語 mille（千）＋ pes（足）＝『千本の足→ヤスデ』に由来（実際に千本あるわけではない）。centipede（百の足＝ムカデ）と対。",
+    "etym_chain": [
+      { "node": "mille + pes", "sub": "千の足", "era": "ラテン語" },
+      { "node": "millipede / millepede", "sub": "ヤスデ", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a millipede curled up", "ja": "丸まったヤスデ" },
+      { "en": "a millipede has many legs", "ja": "ヤスデはたくさん足がある" },
+      { "en": "a long millipede", "ja": "細長いヤスデ" },
+      { "en": "a millipede crawling", "ja": "はうヤスデ" },
+      { "en": "a millipede under a log", "ja": "丸太の下のヤスデ" },
+      { "en": "a millipede and a centipede", "ja": "ヤスデとムカデ" }
+    ],
+    "related": [
+      { "en": "centipede", "ja": "ムカデ" },
+      { "en": "insect", "ja": "昆虫、虫" },
+      { "en": "worm", "ja": "虫、ミミズ" },
+      { "en": "arthropod", "ja": "節足動物" }
+    ],
+    "faq": [
+      { "q": "millipede の意味は？", "a": "『ヤスデ』という意味です。細長い体がたくさんの節に分かれ、1つの節に2対（4本）ずつの足をもつ、きわめて足の多い虫を指します。a millipede curled up（丸まったヤスデ）のように使います。ラテン語 mille（千）＋ pes（足）＝『千本の足』が語源です（実際に千本あるわけではありません）。" },
+      { "q": "centipede との違いは？", "a": "millipede（ヤスデ）は1つの節に2対の足をもち足が非常に多く、落ち葉などを食べ、刺激を受けると丸まります。centipede（ムカデ＝百の足）は1節に1対の足で、肉食で動きが速いです。つづりは millipede が主、millepede とも書きます。" }
+    ],
+    "quiz": [
+      { "q": "millipede の意味は？", "A": "細長い体にたくさんの足をもつ虫（ヤスデ）", "B": "羽のある鳥", "C": "海の魚", "D": "大きな犬", "correct": "A" },
+      { "q": "millipede の語源の意味は？", "A": "千の足", "B": "百の足", "C": "大きな体", "D": "速い動き", "correct": "A" }
+    ]
+  },
+  {
+    "english": "millisecond",
+    "pron": "ˈmɪlisekənd",
+    "kana": "ミリセカンド",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "milli-（1000分の1）＋second（秒）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "専門"],
+    "meaning_main": "ミリ秒（1秒の1000分の1）／（比喩・くだけて）ほんの一瞬",
+    "description": "millisecond（ミリセカンド）は「ミリ秒」という意味の、科学・技術の名詞。1秒の1000分の1（0.001秒)という、ごく短い時間の単位を指します。記号は ms です。in a few milliseconds（数ミリ秒で)のように使います。コンピューターの処理速度や、反応時間の計測などで使われます。milli-（1000分の1）＋ second（秒)が語源です。また比喩的・くだけて「ほんの一瞬・ごくわずかな間」の意味で使うこともあります。1000ミリ秒が1秒、1000マイクロ秒（microsecond)が1ミリ秒です。可算名詞です。",
+    "keywords": ["millisecond 意味", "millisecond 使い方", "ミリ秒 英語", "1000分の1秒 英語"],
+    "meanings": [
+      { "hinshi": "【名】ミリ秒（1秒の1000分の1）", "note": "記号 ms。in a few milliseconds。可算。" },
+      { "hinshi": "【名】（比喩・くだけて）ほんの一瞬", "note": "1000ミリ秒＝1秒。" }
+    ],
+    "usages": [
+      { "title": "① ミリ秒", "desc": "単位。", "example_en": "in a few milliseconds", "example_ja": "数ミリ秒で" },
+      { "title": "② ほんの一瞬", "desc": "比喩。", "example_en": "for a few milliseconds", "example_ja": "ほんの一瞬" }
+    ],
+    "warn": ["『ミリ秒（1秒の1000分の1＝0.001秒）』。記号は ms。in a few milliseconds（数ミリ秒で）。コンピューターの処理速度や反応時間の計測に使う。比喩・くだけて『ほんの一瞬』。1000ミリ秒＝1秒、1000マイクロ秒＝1ミリ秒。可算。", "milli-（1000分の1）＋ second（秒）。microsecond（マイクロ秒＝100万分の1秒）、nanosecond（ナノ秒＝10億分の1秒)とあわせて。"],
+    "etym_note": "milli-（1000分の1、ラテン語 mille＝千 由来）＋ second（秒）＝『1秒の1000分の1』に由来。",
+    "etym_chain": [
+      { "node": "milli- + second", "sub": "1秒の1000分の1", "era": "20世紀" },
+      { "node": "millisecond", "sub": "ミリ秒", "era": "20世紀" }
+    ],
+    "phrases": [
+      { "en": "in a few milliseconds", "ja": "数ミリ秒で" },
+      { "en": "for a few milliseconds", "ja": "ほんの一瞬" },
+      { "en": "a few milliseconds faster", "ja": "数ミリ秒速い" },
+      { "en": "measured in milliseconds", "ja": "ミリ秒単位で測られる" },
+      { "en": "within milliseconds", "ja": "ミリ秒のうちに" },
+      { "en": "response time in milliseconds", "ja": "ミリ秒単位の反応時間" }
+    ],
+    "related": [
+      { "en": "microsecond", "ja": "マイクロ秒（100万分の1秒）" },
+      { "en": "second", "ja": "秒" },
+      { "en": "nanosecond", "ja": "ナノ秒（10億分の1秒）" },
+      { "en": "instant", "ja": "瞬間" }
+    ],
+    "faq": [
+      { "q": "millisecond の意味は？", "a": "『ミリ秒』という意味の科学・技術の語です。1秒の1000分の1（0.001秒）という、ごく短い時間の単位を指します。記号は ms です。in a few milliseconds（数ミリ秒で）のように使います。コンピューターの処理速度や反応時間の計測などで使います。" },
+      { "q": "microsecond との違いは？", "a": "millisecond（ミリ秒）は1秒の1000分の1、microsecond（マイクロ秒）は1秒の100万分の1です。1000マイクロ秒が1ミリ秒、1000ミリ秒が1秒です。さらに短い nanosecond（ナノ秒）は10億分の1秒です。milli-（1000分の1）＋ second（秒）の成り立ちです。" }
+    ],
+    "quiz": [
+      { "q": "millisecond はどれくらいの長さ？", "A": "1秒の1000分の1", "B": "1秒の10倍", "C": "100秒", "D": "1分", "correct": "A" },
+      { "q": "1秒は何ミリ秒？", "A": "1000ミリ秒", "B": "10ミリ秒", "C": "100万ミリ秒", "D": "1ミリ秒", "correct": "A" }
+    ]
+  },
+  {
+    "english": "millpond",
+    "pron": "ˈmɪlpɒnd",
+    "kana": "ミルポンド",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "mill（水車小屋）＋pond（池）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "描写"],
+    "meaning_main": "水車用の池（水車を回すためにためた池）／（比喩）鏡のように穏やかな水面",
+    "description": "millpond（ミルポンド）は「水車用の池」という意味の名詞。昔、水車小屋（water mill)の水車を回すために、川の水をせきとめてためておいた池を指します。the still millpond（静かな水車池)のように使います。こうした池は水の流れがなく、とても静かでなめらかな水面をしていたことから、比喩的に「鏡のようにおだやかな水面・海面」を表すのにも使われます。The sea was like a millpond.（海は鏡のように穏やかだった)という言い方が有名です。mill（水車小屋・製粉所）＋ pond（池)が語源です。可算名詞です。",
+    "keywords": ["millpond 意味", "millpond 使い方", "水車用の池 英語", "穏やかな水面 英語"],
+    "meanings": [
+      { "hinshi": "【名】水車用の池", "note": "水車を回すためにためた池。the still millpond。可算。" },
+      { "hinshi": "【名】（比喩）鏡のように穏やかな水面", "note": "like a millpond（鏡のように穏やか）。" }
+    ],
+    "usages": [
+      { "title": "① 水車池", "desc": "池。", "example_en": "the still millpond", "example_ja": "静かな水車池" },
+      { "title": "② 穏やかな水面", "desc": "比喩。", "example_en": "The sea was like a millpond.", "example_ja": "海は鏡のように穏やかだった。" }
+    ],
+    "warn": ["『水車用の池（昔、水車小屋の水車を回すために川の水をせきとめてためた池）』。the still millpond（静かな水車池）。流れがなく静かな水面だったことから、比喩で『鏡のようにおだやかな水面・海面』：The sea was like a millpond.（海は鏡のように穏やかだった）。可算。", "mill（水車小屋・製粉所）＋ pond（池）。"],
+    "etym_note": "mill（水車小屋・製粉所）＋ pond（池）＝『水車を回すための池→水車用の池』に由来。その静かな水面から比喩的な意味も。",
+    "etym_chain": [
+      { "node": "mill + pond", "sub": "水車の池", "era": "中英語" },
+      { "node": "millpond", "sub": "水車用の池・穏やかな水面", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "the still millpond", "ja": "静かな水車池" },
+      { "en": "The sea was like a millpond.", "ja": "海は鏡のように穏やかだった。" },
+      { "en": "a calm millpond", "ja": "穏やかな水車池" },
+      { "en": "as smooth as a millpond", "ja": "鏡のようになめらかで" },
+      { "en": "the surface of the millpond", "ja": "水車池の水面" },
+      { "en": "a frozen millpond", "ja": "凍った水車池" }
+    ],
+    "related": [
+      { "en": "pond", "ja": "池" },
+      { "en": "mill", "ja": "水車小屋、製粉所" },
+      { "en": "calm", "ja": "穏やかな" },
+      { "en": "still", "ja": "静かな、動かない" }
+    ],
+    "faq": [
+      { "q": "millpond の意味は？", "a": "『水車用の池』という意味です。昔、水車小屋（water mill）の水車を回すために、川の水をせきとめてためておいた池を指します。the still millpond（静かな水車池）のように使います。" },
+      { "q": "比喩的にはどう使う？", "a": "水車用の池は流れがなく、とても静かでなめらかな水面をしていたことから、『鏡のようにおだやかな水面・海面』を表すのに使われます。The sea was like a millpond.（海は鏡のように穏やかだった）という言い方が有名です。mill（水車小屋）＋ pond（池）の成り立ちです。" }
+    ],
+    "quiz": [
+      { "q": "millpond の意味は？", "A": "水車を回すためにためた池（水車用の池）", "B": "大きな海", "C": "高い滝", "D": "深い井戸", "correct": "A" },
+      { "q": "like a millpond の比喩的な意味は？", "A": "鏡のように穏やかな（水面）", "B": "荒れ狂った", "C": "泥だらけの", "D": "凍りついた", "correct": "A" }
+    ]
+  },
+  {
+    "english": "mince",
+    "pron": "mɪns",
+    "kana": "ミンス",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古フランス語 mincier（細かく切る）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "日常"],
+    "meaning_main": "（動）（肉などを）細かく刻む／（英）（名）ひき肉／（動）気取って小またで歩く",
+    "description": "mince（ミンス）は「（肉・野菜などを)細かく刻む・ひき肉にする」という意味の動詞。包丁や機械で食材を細かくこまぎれにすることを表します。mince the onion（たまねぎをみじん切りにする)のように使います。イギリスでは名詞として「ひき肉（ground meat)」も指し、a pound of mince（ひき肉1ポンド)のように使います。また「（気取って)小またでちょこちょこ歩く」という意味の動詞でもあります。重要表現に not mince (one's) words（遠慮なくずけずけ言う)があります。古フランス語 mincier（細かく切る)が語源です。クリスマスのお菓子 mince pie（ミンスパイ)の mince でもあります。",
+    "keywords": ["mince 意味", "mince 使い方", "細かく刻む 英語", "ひき肉 英語"],
+    "meanings": [
+      { "hinshi": "【動】（肉などを）細かく刻む、ひき肉にする", "note": "包丁・機械でこまぎれにする。mince the onion。" },
+      { "hinshi": "【名】（英）ひき肉／【動】気取って小またで歩く", "note": "a pound of mince。not mince words（ずけずけ言う）。" }
+    ],
+    "usages": [
+      { "title": "① 細かく刻む", "desc": "料理。", "example_en": "mince the onion", "example_ja": "たまねぎをみじん切りにする" },
+      { "title": "② ひき肉", "desc": "英・名詞。", "example_en": "a pound of mince", "example_ja": "ひき肉1ポンド" }
+    ],
+    "warn": ["動詞『（肉・野菜などを)細かく刻む・ひき肉にする』、英の名詞『ひき肉（ground meat）』、動詞『（気取って)小またでちょこちょこ歩く』。mince the onion（みじん切りにする）、a pound of mince（ひき肉1ポンド）。重要表現 not mince (one's) words（遠慮なくずけずけ言う）。", "古フランス語 mincier（細かく切る）由来。米ではひき肉は ground meat / ground beef。お菓子の mince pie の mince でもある。"],
+    "etym_note": "古フランス語 mincier（細かく切る、ラテン語 minutus＝小さい 由来）に由来。「細かく刻む→ひき肉」。minute（微小な)と同系統。",
+    "etym_chain": [
+      { "node": "mincier", "sub": "細かく切る", "era": "古フランス語" },
+      { "node": "mince", "sub": "細かく刻む・ひき肉", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "mince the onion", "ja": "たまねぎをみじん切りにする" },
+      { "en": "a pound of mince", "ja": "ひき肉1ポンド（英）" },
+      { "en": "minced meat", "ja": "ひき肉" },
+      { "en": "not mince words", "ja": "遠慮なくずけずけ言う" },
+      { "en": "mince garlic", "ja": "にんにくをみじん切りにする" },
+      { "en": "mince across the room", "ja": "気取って小またで部屋を横切る" }
+    ],
+    "related": [
+      { "en": "chop", "ja": "刻む、切る" },
+      { "en": "grind", "ja": "ひく、すりつぶす" },
+      { "en": "ground meat", "ja": "ひき肉（米）" },
+      { "en": "dice", "ja": "さいの目に切る" }
+    ],
+    "faq": [
+      { "q": "mince の意味は？", "a": "動詞で『（肉・野菜などを)細かく刻む・ひき肉にする』という意味です。mince the onion（たまねぎをみじん切りにする）のように使います。イギリスでは名詞で『ひき肉』も指します（a pound of mince）。『気取って小またで歩く』という意味もあります。" },
+      { "q": "not mince words とは？", "a": "『遠慮なくずけずけ言う・歯に衣（きぬ）着せずに言う』という意味の重要な慣用表現です。He didn't mince words.（彼は遠慮なくはっきり言った）のように使います。言葉を『細かく刻んで(やわらげて)言わない』ことからこの意味になります。" }
+    ],
+    "quiz": [
+      { "q": "mince the onion の意味は？", "A": "たまねぎを細かく刻む（みじん切りにする）", "B": "たまねぎを焼く", "C": "たまねぎを育てる", "D": "たまねぎを買う", "correct": "A" },
+      { "q": "not mince words の意味は？", "A": "遠慮なくずけずけ言う", "B": "黙っている", "C": "小声で話す", "D": "外国語で話す", "correct": "A" }
+    ]
+  },
+  {
+    "english": "mincepie",
+    "pron": "ˈmɪns paɪ",
+    "kana": "ミンス・パイ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "mince（刻んだもの）＋pie（パイ）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "日常"],
+    "meaning_main": "ミンスパイ（刻んだドライフルーツなどを詰めた、クリスマスの小さな甘いパイ）",
+    "description": "mincepie は、本来 mince pie と2語で書く語で「ミンスパイ」という意味です。細かく刻んだレーズン・干しぶどう・りんご・ナッツ・香辛料などを、牛脂（スエット)や砂糖とともに混ぜた詰め物（mincemeat)を、小さなパイ生地に入れて焼いた、甘いお菓子を指します。eat a mince pie（ミンスパイを食べる)のように使います。特にイギリスで、クリスマスの時期に食べる定番のお菓子です。名前に mince（刻んだもの)とありますが、現在はふつう肉は入っていません（昔は肉も入れた)。mince（刻んだもの）＋ pie（パイ)が語源で、正しくは mince pie と2語で書きます。可算名詞です。",
+    "keywords": ["mince pie 意味", "mincepie 使い方", "ミンスパイ 英語", "クリスマス お菓子 英語"],
+    "meanings": [
+      { "hinshi": "【名】ミンスパイ", "note": "刻んだドライフルーツなどを詰めた小さな甘いパイ。正しくは mince pie。可算。" },
+      { "hinshi": "【名】クリスマスの定番菓子", "note": "特に英。現在はふつう肉は入らない。" }
+    ],
+    "usages": [
+      { "title": "① ミンスパイ", "desc": "お菓子。", "example_en": "eat a mince pie", "example_ja": "ミンスパイを食べる" },
+      { "title": "② クリスマス", "desc": "定番。", "example_en": "mince pies at Christmas", "example_ja": "クリスマスのミンスパイ" }
+    ],
+    "warn": ["正しくは mince pie と2語で書く。『ミンスパイ（刻んだレーズン・りんご・ナッツ・香辛料などの詰め物〔mincemeat〕を小さなパイ生地に入れて焼いた甘いお菓子）』。特に英でクリスマスの定番。eat a mince pie（ミンスパイを食べる）。名前に mince（刻んだもの)とあるが現在はふつう肉は入らない。可算。", "mince（刻んだもの）＋ pie（パイ）。詰め物は mincemeat（ミンスミート）。"],
+    "etym_note": "mince（刻んだもの、細かく刻む）＋ pie（パイ）＝『刻んだ詰め物のパイ→ミンスパイ』に由来。詰め物を mincemeat と呼ぶ。",
+    "etym_chain": [
+      { "node": "mince + pie", "sub": "刻んだ詰め物のパイ", "era": "近代英語" },
+      { "node": "mince pie", "sub": "ミンスパイ", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "eat a mince pie", "ja": "ミンスパイを食べる" },
+      { "en": "mince pies at Christmas", "ja": "クリスマスのミンスパイ" },
+      { "en": "a homemade mince pie", "ja": "手作りのミンスパイ" },
+      { "en": "bake mince pies", "ja": "ミンスパイを焼く" },
+      { "en": "a warm mince pie", "ja": "温かいミンスパイ" },
+      { "en": "a box of mince pies", "ja": "ミンスパイひと箱" }
+    ],
+    "related": [
+      { "en": "mincemeat", "ja": "ミンスミート（詰め物）" },
+      { "en": "pie", "ja": "パイ" },
+      { "en": "pastry", "ja": "パイ生地、焼き菓子" },
+      { "en": "Christmas", "ja": "クリスマス" }
+    ],
+    "faq": [
+      { "q": "mince pie の意味は？", "a": "『ミンスパイ』という意味です。細かく刻んだレーズン・りんご・ナッツ・香辛料などを混ぜた詰め物（mincemeat）を、小さなパイ生地に入れて焼いた甘いお菓子を指します。特にイギリスで、クリスマスの時期に食べる定番のお菓子です。正しくは mince pie と2語で書きます。" },
+      { "q": "肉は入っているの？", "a": "名前に mince（刻んだもの）とあり、昔は刻んだ肉も入れていましたが、現在のミンスパイにはふつう肉は入っておらず、ドライフルーツなどの甘い詰め物（mincemeat）が入っています。mince（刻んだもの）＋ pie（パイ）の成り立ちです。" }
+    ],
+    "quiz": [
+      { "q": "mince pie とは？", "A": "刻んだドライフルーツなどを詰めた甘いパイ", "B": "肉だけのステーキ", "C": "野菜サラダ", "D": "魚料理", "correct": "A" },
+      { "q": "mince pie をよく食べる時期は？", "A": "クリスマス（特に英）", "B": "お正月だけ", "C": "夏休み", "D": "入学式", "correct": "A" }
+    ]
+  },
+  {
+    "english": "minibike",
+    "pron": "ˈmɪnibaɪk",
+    "kana": "ミニバイク",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "mini（小型の）＋bike（バイク）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "日常"],
+    "meaning_main": "ミニバイク・小型のオートバイ（車体の小さなバイク）",
+    "description": "minibike（ミニバイク）は「ミニバイク・小型のオートバイ」という意味の名詞。ふつうのオートバイより車体の小さい、小型のバイクを指します。ride a minibike（ミニバイクに乗る)のように使います。遊びやレジャー用の小さなバイクや、排気量の小さい小型二輪車などをいいます。mini（小型の）＋ bike（バイク、bicycle / motorbike の略)が語源です。mini- は minibus（マイクロバス）、miniskirt（ミニスカート)などにも使われ、「小型の・短い」を表します。可算名詞です。",
+    "keywords": ["minibike 意味", "minibike 使い方", "ミニバイク 英語", "小型バイク 英語"],
+    "meanings": [
+      { "hinshi": "【名】ミニバイク、小型のオートバイ", "note": "車体の小さいバイク。ride a minibike。可算。" },
+      { "hinshi": "【名】小型二輪車", "note": "mini-（小型の）＋ bike（バイク）。" }
+    ],
+    "usages": [
+      { "title": "① ミニバイク", "desc": "乗り物。", "example_en": "ride a minibike", "example_ja": "ミニバイクに乗る" },
+      { "title": "② 小型バイク", "desc": "レジャー。", "example_en": "a small minibike", "example_ja": "小さなミニバイク" }
+    ],
+    "warn": ["『ミニバイク・小型のオートバイ（ふつうのオートバイより車体の小さい、小型のバイク）』。ride a minibike（ミニバイクに乗る）。遊び・レジャー用の小さなバイクや排気量の小さい小型二輪車をいう。", "mini（小型の）＋ bike（バイク、bicycle / motorbike の略）。mini- は minibus / miniskirt などの『小型の・短い』。"],
+    "etym_note": "mini（小型の、miniature＝小型の の短縮）＋ bike（バイク、bicycle / motorbike の略）＝『小型のバイク→ミニバイク』に由来。",
+    "etym_chain": [
+      { "node": "mini + bike", "sub": "小型のバイク", "era": "20世紀" },
+      { "node": "minibike", "sub": "ミニバイク", "era": "20世紀" }
+    ],
+    "phrases": [
+      { "en": "ride a minibike", "ja": "ミニバイクに乗る" },
+      { "en": "a small minibike", "ja": "小さなミニバイク" },
+      { "en": "a gas-powered minibike", "ja": "ガソリンのミニバイク" },
+      { "en": "race a minibike", "ja": "ミニバイクでレースする" },
+      { "en": "a kid's minibike", "ja": "子ども用ミニバイク" },
+      { "en": "a folding minibike", "ja": "折りたたみミニバイク" }
+    ],
+    "related": [
+      { "en": "motorbike", "ja": "オートバイ" },
+      { "en": "motorcycle", "ja": "オートバイ" },
+      { "en": "scooter", "ja": "スクーター" },
+      { "en": "bike", "ja": "自転車、バイク" }
+    ],
+    "faq": [
+      { "q": "minibike の意味は？", "a": "『ミニバイク・小型のオートバイ』という意味です。ふつうのオートバイより車体の小さい、小型のバイクを指します。ride a minibike（ミニバイクに乗る）のように使います。遊びやレジャー用の小さなバイクなどをいいます。" },
+      { "q": "mini- とは？", "a": "『小型の・短い』を表す接頭辞です（miniature＝小型の の短縮）。mini＋bike で『ミニバイク』、ほかに minibus（マイクロバス）、miniskirt（ミニスカート）などがあります。bike は bicycle / motorbike の略です。" }
+    ],
+    "quiz": [
+      { "q": "minibike の意味は？", "A": "小型のオートバイ（ミニバイク）", "B": "大型トラック", "C": "三輪車", "D": "電車", "correct": "A" },
+      { "q": "mini- の意味は？", "A": "小型の・短い", "B": "大きい", "C": "速い", "D": "新しい", "correct": "A" }
+    ]
+  },
+  {
+    "english": "minibus",
+    "pron": "ˈmɪnibʌs",
+    "kana": "ミニバス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "mini（小型の）＋bus（バス）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "日常"],
+    "meaning_main": "マイクロバス・小型バス（ふつう10〜15人ほどが乗れる小型のバス）",
+    "description": "minibus（ミニバス）は「マイクロバス・小型バス」という意味の名詞。ふつうの大型バスより小さく、だいたい10〜15人ほどが乗れる小型のバスを指します。travel by minibus（マイクロバスで移動する)のように使います。送迎・団体旅行・地域の交通などに使われます。mini（小型の）＋ bus（バス)が語源です。日本語では「マイクロバス」と呼ぶことが多いですが、英語では minibus と言います。mini- は minibike（ミニバイク）、miniskirt（ミニスカート)などにも使われ、「小型の・短い」を表します。可算名詞です。",
+    "keywords": ["minibus 意味", "minibus 使い方", "マイクロバス 英語", "小型バス 英語"],
+    "meanings": [
+      { "hinshi": "【名】マイクロバス、小型バス", "note": "だいたい10〜15人乗りの小型のバス。travel by minibus。可算。" },
+      { "hinshi": "【名】小型の乗合車", "note": "送迎・団体旅行などに。mini-（小型の）＋ bus。" }
+    ],
+    "usages": [
+      { "title": "① マイクロバス", "desc": "乗り物。", "example_en": "travel by minibus", "example_ja": "マイクロバスで移動する" },
+      { "title": "② 送迎", "desc": "団体。", "example_en": "a hotel minibus", "example_ja": "ホテルの送迎バス" }
+    ],
+    "warn": ["『マイクロバス・小型バス（ふつうの大型バスより小さく、だいたい10〜15人ほどが乗れる小型のバス）』。travel by minibus（マイクロバスで移動する）。送迎・団体旅行・地域交通に使う。日本語では『マイクロバス』が多いが、英語は minibus。可算。", "mini（小型の）＋ bus（バス）。mini- は minibike / miniskirt などの『小型の・短い』。"],
+    "etym_note": "mini（小型の、miniature の短縮）＋ bus（バス、omnibus＝乗合馬車 の略）＝『小型のバス→マイクロバス』に由来。",
+    "etym_chain": [
+      { "node": "mini + bus", "sub": "小型のバス", "era": "20世紀" },
+      { "node": "minibus", "sub": "マイクロバス・小型バス", "era": "20世紀" }
+    ],
+    "phrases": [
+      { "en": "travel by minibus", "ja": "マイクロバスで移動する" },
+      { "en": "a hotel minibus", "ja": "ホテルの送迎バス" },
+      { "en": "a 12-seat minibus", "ja": "12人乗りのマイクロバス" },
+      { "en": "hire a minibus", "ja": "マイクロバスを借りる" },
+      { "en": "a school minibus", "ja": "学校の送迎バス" },
+      { "en": "board the minibus", "ja": "マイクロバスに乗る" }
+    ],
+    "related": [
+      { "en": "bus", "ja": "バス" },
+      { "en": "van", "ja": "バン、ワゴン車" },
+      { "en": "coach", "ja": "長距離バス（英）" },
+      { "en": "shuttle", "ja": "送迎（バス）、シャトル" }
+    ],
+    "faq": [
+      { "q": "minibus の意味は？", "a": "『マイクロバス・小型バス』という意味です。ふつうの大型バスより小さく、だいたい10〜15人ほどが乗れる小型のバスを指します。travel by minibus（マイクロバスで移動する）のように使います。送迎・団体旅行・地域の交通などに使われます。" },
+      { "q": "日本語の『マイクロバス』と同じ？", "a": "はい、同じ乗り物を指します。日本語では『マイクロバス』と呼ぶことが多いですが、英語では minibus と言います。mini（小型の）＋ bus（バス）の成り立ちで、mini- は minibike / miniskirt などの『小型の・短い』です。" }
+    ],
+    "quiz": [
+      { "q": "minibus の意味は？", "A": "10〜15人乗りの小型バス（マイクロバス）", "B": "大型トラック", "C": "2人乗りのスポーツカー", "D": "電車", "correct": "A" },
+      { "q": "minibus の成り立ちは？", "A": "mini（小型の）＋ bus（バス）", "B": "mini（小型の）＋ box（箱）", "C": "many（多くの）＋ bus", "D": "mine（私の）＋ bus", "correct": "A" }
+    ]
+  },
+  {
+    "english": "miniskirt",
+    "pron": "ˈmɪniskɜːrt",
+    "kana": "ミニスカート",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "mini（短い）＋skirt（スカート）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "日常"],
+    "meaning_main": "ミニスカート（すそが非常に短い、ひざよりかなり上のスカート）",
+    "description": "miniskirt（ミニスカート）は「ミニスカート」という意味の名詞。すそが非常に短く、ひざよりかなり上までの、短い女性用スカートを指します。wear a miniskirt（ミニスカートをはく)のように使います。1960年代に流行し、若者のファッションの象徴になりました。mini（短い・小型の）＋ skirt（スカート)が語源です。日本語でも「ミニスカート」「ミニスカ」としておなじみです。mini- は minibus（マイクロバス）、minibike（ミニバイク)などにも使われ、「小型の・短い」を表します。長いスカートは maxi skirt / long skirt です。可算名詞です。",
+    "keywords": ["miniskirt 意味", "miniskirt 使い方", "ミニスカート 英語", "短いスカート 英語"],
+    "meanings": [
+      { "hinshi": "【名】ミニスカート", "note": "すそが非常に短い、ひざよりかなり上のスカート。wear a miniskirt。可算。" },
+      { "hinshi": "【名】短いスカート", "note": "1960年代に流行。mini-（短い）＋ skirt。" }
+    ],
+    "usages": [
+      { "title": "① ミニスカート", "desc": "衣類。", "example_en": "wear a miniskirt", "example_ja": "ミニスカートをはく" },
+      { "title": "② 短いスカート", "desc": "流行。", "example_en": "a short miniskirt", "example_ja": "とても短いミニスカート" }
+    ],
+    "warn": ["『ミニスカート（すそが非常に短く、ひざよりかなり上までの短い女性用スカート）』。wear a miniskirt（ミニスカートをはく）。1960年代に流行し若者ファッションの象徴に。長いスカートは maxi skirt / long skirt。可算。", "mini（短い・小型の）＋ skirt（スカート）。mini- は minibus / minibike などの『小型の・短い』。"],
+    "etym_note": "mini（短い・小型の、miniature の短縮）＋ skirt（スカート）＝『短いスカート→ミニスカート』に由来。1960年代に流行。",
+    "etym_chain": [
+      { "node": "mini + skirt", "sub": "短いスカート", "era": "1960年代" },
+      { "node": "miniskirt", "sub": "ミニスカート", "era": "1960年代" }
+    ],
+    "phrases": [
+      { "en": "wear a miniskirt", "ja": "ミニスカートをはく" },
+      { "en": "a short miniskirt", "ja": "とても短いミニスカート" },
+      { "en": "a denim miniskirt", "ja": "デニムのミニスカート" },
+      { "en": "a pleated miniskirt", "ja": "プリーツのミニスカート" },
+      { "en": "the miniskirt was popular in the 1960s", "ja": "ミニスカートは1960年代に流行した" },
+      { "en": "a leather miniskirt", "ja": "革のミニスカート" }
+    ],
+    "related": [
+      { "en": "skirt", "ja": "スカート" },
+      { "en": "maxi skirt", "ja": "マキシスカート（長い）" },
+      { "en": "dress", "ja": "ドレス、ワンピース" },
+      { "en": "fashion", "ja": "流行、ファッション" }
+    ],
+    "faq": [
+      { "q": "miniskirt の意味は？", "a": "『ミニスカート』という意味です。すそが非常に短く、ひざよりかなり上までの、短い女性用スカートを指します。wear a miniskirt（ミニスカートをはく）のように使います。1960年代に流行しました。" },
+      { "q": "mini- とは？", "a": "『小型の・短い』を表す接頭辞です（miniature＝小型の の短縮）。mini＋skirt で『ミニスカート』、ほかに minibus（マイクロバス）、minibike（ミニバイク）などがあります。長いスカートは maxi skirt / long skirt です。" }
+    ],
+    "quiz": [
+      { "q": "miniskirt の意味は？", "A": "すそが非常に短いスカート（ミニスカート）", "B": "とても長いスカート", "C": "ズボン", "D": "帽子", "correct": "A" },
+      { "q": "miniskirt が流行したのは？", "A": "1960年代", "B": "江戸時代", "C": "1800年代", "D": "2100年代", "correct": "A" }
+    ]
+  },
+  {
+    "english": "minus",
+    "pron": "ˈmaɪnəs",
+    "kana": "マイナス",
+    "hinshi": "前置詞 / 形容詞 / 名詞",
+    "ld_pos": "前置詞",
+    "ld_etym": "ラテン語 minus（より少なく）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "日常"],
+    "meaning_main": "（前）〜を引いた・〜なしで／（形）マイナスの・負の／（名）マイナス記号・欠点",
+    "description": "minus（マイナス）は「〜を引いた・〜を減じた」という意味の前置詞。ある数から別の数を引くことを表します。Seven minus three is four.（7引く3は4）、5 minus 2（5引く2)のように使います。くだけて「〜なしで・〜を失って」の意味でも使い、arrive minus his luggage（荷物をなくして到着する)のように使います。形容詞では「マイナスの・負の・0より小さい」の意味で、minus five degrees（マイナス5度)のように使います。名詞では「マイナス記号（−)」や「欠点・不利な点」を指します。ラテン語 minus（より少なく)が語源です。対義語は plus（足す・プラスの)です。",
+    "keywords": ["minus 意味", "minus 使い方", "マイナス 英語", "引く 英語"],
+    "meanings": [
+      { "hinshi": "【前】〜を引いた、〜なしで", "note": "ある数から引く。Seven minus three is four." },
+      { "hinshi": "【形】マイナスの、負の／【名】マイナス記号、欠点", "note": "minus five degrees（マイナス5度）。対は plus。" }
+    ],
+    "usages": [
+      { "title": "① 〜を引いた", "desc": "計算。", "example_en": "Seven minus three is four.", "example_ja": "7引く3は4。" },
+      { "title": "② マイナスの", "desc": "負。", "example_en": "minus five degrees", "example_ja": "マイナス5度" }
+    ],
+    "warn": ["前置詞『〜を引いた・〜を減じた』、くだけて『〜なしで・〜を失って』、形容詞『マイナスの・負の・0より小さい』、名詞『マイナス記号（−）・欠点・不利な点』。Seven minus three is four（7引く3は4）、minus five degrees（マイナス5度）。対義語は plus（足す・プラスの）。", "ラテン語 minus（より少なく、minor＝より小さい 由来）。minimum（最小）、minor（小さい)と同系統。"],
+    "etym_note": "ラテン語 minus（より少なく、minor＝より小さい 由来）に由来。「より少なく→引いた・マイナスの」。対は plus（より多く）。",
+    "etym_chain": [
+      { "node": "minus", "sub": "より少なく", "era": "ラテン語" },
+      { "node": "minus", "sub": "引いた・マイナスの", "era": "15世紀" }
+    ],
+    "phrases": [
+      { "en": "Seven minus three is four.", "ja": "7引く3は4。" },
+      { "en": "minus five degrees", "ja": "マイナス5度" },
+      { "en": "a minus sign", "ja": "マイナス記号（−）" },
+      { "en": "arrive minus his luggage", "ja": "荷物をなくして到着する" },
+      { "en": "a B minus", "ja": "B マイナス（成績）" },
+      { "en": "the pluses and minuses", "ja": "長所と短所、プラスとマイナス" }
+    ],
+    "related": [
+      { "en": "plus", "ja": "足す、プラスの（反対）" },
+      { "en": "subtract", "ja": "引く、減じる" },
+      { "en": "negative", "ja": "負の、マイナスの" },
+      { "en": "drawback", "ja": "欠点、不利な点" }
+    ],
+    "faq": [
+      { "q": "minus の意味は？", "a": "前置詞で『〜を引いた・〜を減じた』という意味です。Seven minus three is four.（7引く3は4）のように使います。形容詞で『マイナスの・負の』（minus five degrees＝マイナス5度）、名詞で『マイナス記号（−）・欠点』の意味もあります。" },
+      { "q": "対義語は？", "a": "plus（足す・プラスの）です。minus（引く・マイナスの）と plus（足す・プラスの）は対になります。the pluses and minuses で『長所と短所』という言い方もよく使います。ラテン語 minus（より少なく）に由来します。" }
+    ],
+    "quiz": [
+      { "q": "Seven minus three is ... の答えは？", "A": "four（4）", "B": "ten（10）", "C": "twenty-one（21）", "D": "zero（0）", "correct": "A" },
+      { "q": "minus の対義語は？", "A": "plus（足す・プラスの）", "B": "times（かける）", "C": "equal（等しい）", "D": "divide（割る）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "misadventure",
+    "pron": "ˌmɪsədˈventʃər",
+    "kana": "ミスアドベンチャー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "mis-（悪い）＋adventure（出来事）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文語"],
+    "meaning_main": "（やや古風・法律）不運な出来事・災難・ふとした事故／（法律）過失のない事故死",
+    "description": "misadventure（ミスアドベンチャー）は「不運な出来事・災難・ふとした事故」という意味の、やや古風・文語的な名詞。思いがけずおこる、ちょっとした不運やトラブルを指します。a series of misadventures（次々とおこる災難)のように使います。ときにユーモラスな失敗談の響きもあります。また法律用語として、だれの過失でもない「不慮の事故・事故死」を指し、death by misadventure（事故死〔過失のない死〕)のように使います。mis-（悪い・誤った）＋ adventure（冒険・出来事)が語源です。mishap / mischance（災難・不運)と近い意味です。可算・不可算で使います。",
+    "keywords": ["misadventure 意味", "misadventure 使い方", "不運な出来事 英語", "事故死 英語"],
+    "meanings": [
+      { "hinshi": "【名】不運な出来事、災難、ふとした事故", "note": "思いがけずおこる不運・トラブル。a series of misadventures。可算。" },
+      { "hinshi": "【名】（法律）過失のない事故死", "note": "death by misadventure（事故死）。" }
+    ],
+    "usages": [
+      { "title": "① 災難", "desc": "出来事。", "example_en": "a series of misadventures", "example_ja": "次々とおこる災難" },
+      { "title": "② 事故死", "desc": "法律。", "example_en": "death by misadventure", "example_ja": "事故死（過失のない死）" }
+    ],
+    "warn": ["『不運な出来事・災難・ふとした事故（思いがけずおこる不運・トラブル）』のやや古風・文語的な語。ときにユーモラスな失敗談の響きも。a series of misadventures（次々とおこる災難）。法律用語で『過失のない事故死』：death by misadventure（事故死）。可算・不可算。", "mis-（悪い・誤った）＋ adventure（冒険・出来事）。mishap / mischance / misfortune（災難/不運)と近い。"],
+    "etym_note": "mis-（悪い・誤った）＋ adventure（冒険・出来事、ラテン語 advenire＝起こる 由来）＝『悪い出来事→災難』に由来。",
+    "etym_chain": [
+      { "node": "mis- + adventure", "sub": "悪い出来事", "era": "中英語" },
+      { "node": "misadventure", "sub": "災難・事故死", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "a series of misadventures", "ja": "次々とおこる災難" },
+      { "en": "death by misadventure", "ja": "事故死（過失のない死）" },
+      { "en": "a comic misadventure", "ja": "こっけいな失敗談" },
+      { "en": "after many misadventures", "ja": "数々の災難のあと" },
+      { "en": "a tale of misadventure", "ja": "災難の物語" },
+      { "en": "financial misadventure", "ja": "財政上の失敗" }
+    ],
+    "related": [
+      { "en": "mishap", "ja": "災難、ちょっとした事故" },
+      { "en": "mischance", "ja": "不運、災難" },
+      { "en": "misfortune", "ja": "不運、不幸" },
+      { "en": "accident", "ja": "事故" }
+    ],
+    "faq": [
+      { "q": "misadventure の意味は？", "a": "『不運な出来事・災難・ふとした事故』という意味のやや古風・文語的な語です。思いがけずおこる、ちょっとした不運やトラブルを指します。a series of misadventures（次々とおこる災難）のように使います。ときにユーモラスな失敗談の響きもあります。" },
+      { "q": "death by misadventure とは？", "a": "法律用語で『過失のない事故死（だれの責任でもない不慮の事故による死）』という意味です。検死などで死因を表すときに使われます。mis-（悪い）＋ adventure（出来事）で、mishap / mischance / misfortune（災難・不運）と近い語です。" }
+    ],
+    "quiz": [
+      { "q": "misadventure の意味は？", "A": "不運な出来事・災難・ふとした事故", "B": "大成功", "C": "計画された旅行", "D": "楽しい祝祭", "correct": "A" },
+      { "q": "death by misadventure の意味は？", "A": "過失のない事故死", "B": "計画的な殺人", "C": "病死", "D": "老衰死", "correct": "A" }
+    ]
+  },
+  {
+    "english": "misapply",
+    "pron": "ˌmɪsəˈplaɪ",
+    "kana": "ミスアプライ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "mis-（誤って）＋apply（適用する）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "論説"],
+    "meaning_main": "誤って適用する・誤用する／（資金などを）不正に流用する",
+    "description": "misapply（ミスアプライ）は「誤って適用する・誤用する」という意味の動詞。規則・方法・言葉・知識などを、本来とは違うまちがった形で使う・当てはめることを表します。misapply a rule（規則を誤って適用する)のように使います。また、資金・財産などを「不正に使う・流用する」という意味でも使い、misapply public funds（公金を不正流用する)のように使います。mis-（誤って・悪く）＋ apply（適用する・用いる)が語源です。接頭辞 mis- は misuse（誤用する）、misunderstand（誤解する)などにも使われ、「誤って・悪く」を表します。名詞は misapplication（誤用・不正流用)です。",
+    "keywords": ["misapply 意味", "misapply 使い方", "誤用する 英語", "不正流用 英語"],
+    "meanings": [
+      { "hinshi": "【動】誤って適用する、誤用する", "note": "本来と違う誤った形で使う・当てはめる。misapply a rule。" },
+      { "hinshi": "【動】（資金などを）不正に流用する", "note": "misapply public funds（公金を流用する）。名詞 misapplication。" }
+    ],
+    "usages": [
+      { "title": "① 誤用する", "desc": "規則。", "example_en": "misapply a rule", "example_ja": "規則を誤って適用する" },
+      { "title": "② 不正流用する", "desc": "資金。", "example_en": "misapply public funds", "example_ja": "公金を不正流用する" }
+    ],
+    "warn": ["『誤って適用する・誤用する（規則・方法・言葉・知識を本来と違う誤った形で使う・当てはめる）』『（資金などを)不正に流用する』。misapply a rule（規則を誤って適用する）、misapply funds（資金を流用する）。名詞は misapplication。", "mis-（誤って・悪く）＋ apply（適用する・用いる）。mis- は misuse / misunderstand などの『誤って・悪く』。"],
+    "etym_note": "mis-（誤って・悪く）＋ apply（適用する・用いる、ラテン語 applicare＝結びつける 由来）＝『誤って適用する→誤用する』に由来。",
+    "etym_chain": [
+      { "node": "mis- + apply", "sub": "誤って適用する", "era": "近代英語" },
+      { "node": "misapply", "sub": "誤用する・不正流用する", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "misapply a rule", "ja": "規則を誤って適用する" },
+      { "en": "misapply public funds", "ja": "公金を不正流用する" },
+      { "en": "misapply the law", "ja": "法を誤って適用する" },
+      { "en": "misapply a theory", "ja": "理論を誤用する" },
+      { "en": "misapply resources", "ja": "資源を誤って使う" },
+      { "en": "be misapplied", "ja": "誤用される" }
+    ],
+    "related": [
+      { "en": "misuse", "ja": "誤用する、悪用する" },
+      { "en": "apply", "ja": "適用する、用いる" },
+      { "en": "misappropriate", "ja": "不正流用する、着服する" },
+      { "en": "misapplication", "ja": "誤用、不正流用" }
+    ],
+    "faq": [
+      { "q": "misapply の意味は？", "a": "『誤って適用する・誤用する』という意味です。規則・方法・言葉・知識などを、本来とは違うまちがった形で使う・当てはめることを表します。misapply a rule（規則を誤って適用する）のように使います。『（資金を)不正に流用する』の意味もあります。" },
+      { "q": "mis- とは？", "a": "『誤って・悪く・不適切に』を表す接頭辞です。mis＋apply で『誤って適用する→誤用する』、ほかに misuse（誤用する）、misunderstand（誤解する）、miscalculate（計算違いをする）などがあります。名詞は misapplication（誤用・不正流用）です。" }
+    ],
+    "quiz": [
+      { "q": "misapply a rule の意味は？", "A": "規則を誤って適用する（誤用する）", "B": "規則を正しく守る", "C": "規則を作る", "D": "規則を覚える", "correct": "A" },
+      { "q": "misapply の mis- の意味は？", "A": "誤って・悪く", "B": "大きく", "C": "多く", "D": "速く", "correct": "A" }
+    ]
+  },
+  {
+    "english": "miscalculation",
+    "pron": "ˌmɪskælkjuˈleɪʃn",
+    "kana": "ミスカルキュレーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "mis-（誤って）＋calculation（計算）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "論説"],
+    "meaning_main": "計算違い・誤算／（判断の）見込み違い・読み違い",
+    "description": "miscalculation（ミスカルキュレーション）は「計算違い・誤算」という意味の名詞。数の計算をまちがえることや、状況・結果についての見込み・判断をあやまることを指します。a serious miscalculation（重大な誤算)のように使います。単なる数字の計算間違いだけでなく、「相手の出方や結果を読みちがえる」という判断の誤りにもよく使われます。a political miscalculation（政治的な読み違い)のように使います。mis-（誤って）＋ calculation（計算)が語源です。動詞は miscalculate（計算違いをする・見込みをあやまる)です。error / misjudgment（誤り・判断ミス)と近い意味です。可算・不可算で使います。",
+    "keywords": ["miscalculation 意味", "miscalculation 使い方", "計算違い 英語", "誤算 英語"],
+    "meanings": [
+      { "hinshi": "【名】計算違い、誤算", "note": "数の計算間違い。a serious miscalculation。可算・不可算。" },
+      { "hinshi": "【名】（判断の）見込み違い、読み違い", "note": "a political miscalculation（政治的な読み違い）。動詞 miscalculate。" }
+    ],
+    "usages": [
+      { "title": "① 計算違い", "desc": "数。", "example_en": "a serious miscalculation", "example_ja": "重大な誤算" },
+      { "title": "② 読み違い", "desc": "判断。", "example_en": "a political miscalculation", "example_ja": "政治的な読み違い" }
+    ],
+    "warn": ["『計算違い・誤算（数の計算間違い）』『（状況・結果についての)見込み違い・読み違い（判断の誤り）』。a serious/political miscalculation（重大な誤算/政治的な読み違い）。相手の出方や結果を読みちがえる判断の誤りにもよく使う。動詞は miscalculate。可算・不可算。", "mis-（誤って）＋ calculation（計算）。error / misjudgment（誤り/判断ミス)と近い。"],
+    "etym_note": "mis-（誤って）＋ calculation（計算、ラテン語 calculus＝小石〔数えるのに使った〕 由来）＝『計算をあやまること→計算違い』に由来。",
+    "etym_chain": [
+      { "node": "mis- + calculation", "sub": "誤った計算", "era": "近代英語" },
+      { "node": "miscalculation", "sub": "計算違い・誤算", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a serious miscalculation", "ja": "重大な誤算" },
+      { "en": "a political miscalculation", "ja": "政治的な読み違い" },
+      { "en": "a costly miscalculation", "ja": "高くついた誤算" },
+      { "en": "a simple miscalculation", "ja": "単純な計算違い" },
+      { "en": "due to a miscalculation", "ja": "計算違いのために" },
+      { "en": "a strategic miscalculation", "ja": "戦略上の読み違い" }
+    ],
+    "related": [
+      { "en": "miscalculate", "ja": "計算違いをする、見込みをあやまる" },
+      { "en": "calculation", "ja": "計算" },
+      { "en": "error", "ja": "誤り、間違い" },
+      { "en": "misjudgment", "ja": "判断ミス、誤審" }
+    ],
+    "faq": [
+      { "q": "miscalculation の意味は？", "a": "『計算違い・誤算』という意味です。数の計算をまちがえることや、状況・結果についての見込み・判断をあやまることを指します。a serious miscalculation（重大な誤算）のように使います。相手の出方や結果を読みちがえる判断の誤りにもよく使われます。" },
+      { "q": "動詞形は？", "a": "miscalculate（計算違いをする・見込みをあやまる）です。mis-（誤って）＋ calculation（計算）の名詞で、error（誤り）や misjudgment（判断ミス）と近い意味です。a political miscalculation（政治的な読み違い）のように判断の誤りにもよく使います。" }
+    ],
+    "quiz": [
+      { "q": "a serious miscalculation の意味は？", "A": "重大な計算違い・誤算", "B": "正しい計算", "C": "簡単な問題", "D": "大きな成功", "correct": "A" },
+      { "q": "miscalculation の動詞形は？", "A": "miscalculate（計算違いをする）", "B": "calculate（計算する）だけ", "C": "miscount（数え違える）", "D": "measure（測る）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "miscarry",
+    "pron": "mɪsˈkæri",
+    "kana": "ミスキャリー",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "mis-（誤って）＋carry（運ぶ・やり通す）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "論説"],
+    "meaning_main": "流産する／（計画などが）失敗する・うまくいかない／（郵便物が）誤配される",
+    "description": "miscarry（ミスキャリー）は、主に3つの意味をもつ動詞です。1つは「流産する」で、妊娠が自然に中断して胎児を失うことを指します。She miscarried.（彼女は流産した)のように使います。2つめは「（計画・くわだてなどが)失敗する・うまくいかない」で、The plan miscarried.（計画は失敗した)のように使います。3つめは「（郵便物・荷物が)誤配される・あて先に届かない」です。mis-（誤って・悪く）＋ carry（運ぶ・やり通す)が語源です。名詞は miscarriage で、「流産」や、裁判の誤り a miscarriage of justice（誤審・冤罪〔えんざい〕)の意味で使われます。",
+    "keywords": ["miscarry 意味", "miscarry 使い方", "流産する 英語", "計画 失敗 英語"],
+    "meanings": [
+      { "hinshi": "【動】流産する", "note": "妊娠が自然に中断して胎児を失う。She miscarried.。" },
+      { "hinshi": "【動】（計画などが）失敗する／（郵便物が）誤配される", "note": "The plan miscarried.。名詞 miscarriage。" }
+    ],
+    "usages": [
+      { "title": "① 流産する", "desc": "妊娠。", "example_en": "She miscarried.", "example_ja": "彼女は流産した。" },
+      { "title": "② 失敗する", "desc": "計画。", "example_en": "The plan miscarried.", "example_ja": "計画は失敗した。" }
+    ],
+    "warn": ["『流産する（妊娠が自然に中断して胎児を失う）』『（計画・くわだてが)失敗する・うまくいかない』『（郵便物・荷物が)誤配される』。She miscarried.（流産した）、The plan miscarried.（計画は失敗した）。名詞は miscarriage。", "mis-（誤って・悪く）＋ carry（運ぶ・やり通す）。a miscarriage of justice（誤審・冤罪）という重要表現も。"],
+    "etym_note": "mis-（誤って・悪く）＋ carry（運ぶ・やり通す）＝『うまく運べない→失敗する・流産する』に由来。名詞は miscarriage。",
+    "etym_chain": [
+      { "node": "mis- + carry", "sub": "うまく運べない", "era": "中英語" },
+      { "node": "miscarry", "sub": "流産する・失敗する", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "She miscarried.", "ja": "彼女は流産した。" },
+      { "en": "The plan miscarried.", "ja": "計画は失敗した。" },
+      { "en": "miscarry a child", "ja": "子を流産する" },
+      { "en": "the scheme miscarried", "ja": "もくろみは失敗した" },
+      { "en": "a miscarriage of justice", "ja": "誤審、冤罪" },
+      { "en": "the letter miscarried", "ja": "手紙が誤配された" }
+    ],
+    "related": [
+      { "en": "miscarriage", "ja": "流産／誤り" },
+      { "en": "fail", "ja": "失敗する" },
+      { "en": "abort", "ja": "中絶する、中止する" },
+      { "en": "go wrong", "ja": "うまくいかない" }
+    ],
+    "faq": [
+      { "q": "miscarry の意味は？", "a": "主に3つあります。①『流産する（妊娠が自然に中断して胎児を失う）』、②『（計画・くわだてが)失敗する・うまくいかない』、③『（郵便物・荷物が)誤配される』です。She miscarried.（彼女は流産した）、The plan miscarried.（計画は失敗した）のように使います。" },
+      { "q": "名詞形は？", "a": "miscarriage です。『流産』の意味のほか、a miscarriage of justice（誤審・冤罪）という重要な言い方で『（裁判の)誤り』を表します。mis-（誤って・悪く）＋ carry（運ぶ・やり通す）の成り立ちです。" }
+    ],
+    "quiz": [
+      { "q": "The plan miscarried. の意味は？", "A": "計画は失敗した", "B": "計画は成功した", "C": "計画を立てた", "D": "計画を変えた", "correct": "A" },
+      { "q": "a miscarriage of justice の意味は？", "A": "誤審・冤罪", "B": "公正な裁判", "C": "正しい判決", "D": "示談", "correct": "A" }
+    ]
+  },
+  {
+    "english": "miscast",
+    "pron": "ˌmɪsˈkɑːst",
+    "kana": "ミスキャスト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "mis-（誤って）＋cast（配役する）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "論説"],
+    "meaning_main": "（俳優を）不適切に配役する・役に合わない人を当てる／（比喩）ふさわしくない役割につける",
+    "description": "miscast（ミスキャスト）は「（俳優を)不適切に配役する」という意味の動詞。映画・演劇などで、ある役に合わない俳優を当ててしまうことを表します。He was miscast as the hero.（彼は主役に合っていなかった)のように使います。その役にふさわしくない人を選んでしまった、という意味です。比喩的に、人を「本来ふさわしくない役割・立場につける」という意味でも使います。mis-（誤って・悪く）＋ cast（配役する・役を割り当てる)が語源です。活用は miscast - miscast - miscast（cast と同じく無変化)です。日本語の「ミスキャスト」も同じ意味です。おもに受け身（be miscast)で使われます。",
+    "keywords": ["miscast 意味", "miscast 使い方", "ミスキャスト 英語", "不適切な配役 英語"],
+    "meanings": [
+      { "hinshi": "【動】（俳優を）不適切に配役する", "note": "役に合わない人を当てる。be miscast as 〜。活用無変化。" },
+      { "hinshi": "【動】（比喩）ふさわしくない役割につける", "note": "mis-（誤って）＋ cast（配役する）。" }
+    ],
+    "usages": [
+      { "title": "① 不適切に配役する", "desc": "映画。", "example_en": "He was miscast as the hero.", "example_ja": "彼は主役に合っていなかった。" },
+      { "title": "② 役に合わない", "desc": "配役。", "example_en": "a miscast actor", "example_ja": "役に合っていない俳優" }
+    ],
+    "warn": ["『（俳優を)不適切に配役する・役に合わない人を当てる』『（比喩)ふさわしくない役割・立場につける』。He was miscast as the hero.（彼は主役に合っていなかった）。おもに受け身 be miscast で使う。活用は miscast - miscast - miscast（無変化）。日本語の『ミスキャスト』と同じ。", "mis-（誤って・悪く）＋ cast（配役する・役を割り当てる）。cast は『配役する』の意味。"],
+    "etym_note": "mis-（誤って・悪く）＋ cast（配役する・役を割り当てる）＝『誤って配役する→不適切に配役する』に由来。cast と同じく活用無変化。",
+    "etym_chain": [
+      { "node": "mis- + cast", "sub": "誤って配役する", "era": "近代英語" },
+      { "node": "miscast", "sub": "不適切に配役する", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "He was miscast as the hero.", "ja": "彼は主役に合っていなかった。" },
+      { "en": "a miscast actor", "ja": "役に合っていない俳優" },
+      { "en": "be badly miscast", "ja": "ひどく役に合っていない" },
+      { "en": "miscast in the role", "ja": "その役に合わない配役で" },
+      { "en": "feel miscast", "ja": "役(立場)に合っていないと感じる" },
+      { "en": "a miscast production", "ja": "配役の合わない作品" }
+    ],
+    "related": [
+      { "en": "cast", "ja": "配役する、配役" },
+      { "en": "casting", "ja": "配役、キャスティング" },
+      { "en": "role", "ja": "役、役割" },
+      { "en": "actor", "ja": "俳優" }
+    ],
+    "faq": [
+      { "q": "miscast の意味は？", "a": "『（俳優を)不適切に配役する・役に合わない人を当てる』という意味です。映画・演劇などで、ある役に合わない俳優を当ててしまうことを表します。He was miscast as the hero.（彼は主役に合っていなかった）のように、おもに受け身で使います。" },
+      { "q": "活用は？", "a": "miscast - miscast - miscast と、cast（投げる・配役する）と同じく活用が変化しません。mis-（誤って・悪く）＋ cast（配役する）の成り立ちで、日本語の『ミスキャスト』と同じ意味です。比喩的に『ふさわしくない役割・立場につける』にも使います。" }
+    ],
+    "quiz": [
+      { "q": "He was miscast as the hero. の意味は？", "A": "彼は主役に合っていなかった（不適切な配役だった）", "B": "彼は主役を断った", "C": "彼は主役で大成功した", "D": "彼は脚本を書いた", "correct": "A" },
+      { "q": "miscast の活用は？", "A": "miscast - miscast - miscast（無変化）", "B": "miscast - miscasted - miscasted", "C": "miscast - miscost - miscost", "D": "miscast - miscasting - miscast", "correct": "A" }
+    ]
+  },
+  {
+    "english": "mischance",
+    "pron": "ˌmɪsˈtʃɑːns",
+    "kana": "ミスチャンス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "mis-（悪い）＋chance（巡り合わせ）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文語"],
+    "meaning_main": "（やや古風）不運・不幸なめぐり合わせ・ふとした災難",
+    "description": "mischance（ミスチャンス）は「不運・不幸なめぐり合わせ・ふとした災難」という意味の、やや古風・文語的な名詞。思いがけずおこる、運の悪い出来事を指します。by mischance（運悪く・はからずも)のように使います。だれのせいでもなく、偶然おこってしまった不運というニュアンスです。mis-（悪い・誤った）＋ chance（巡り合わせ・偶然)が語源です。misfortune / mishap / bad luck（不運・災難)と近い意味です。日本語の「ミスチャンス（好機を逃すこと)」とは意味が違うので注意します（英語では「不運」の意味)。可算・不可算で使います。",
+    "keywords": ["mischance 意味", "mischance 使い方", "不運 英語 文語", "災難 英語"],
+    "meanings": [
+      { "hinshi": "【名】（やや古風）不運、不幸なめぐり合わせ、ふとした災難", "note": "思いがけずおこる運の悪い出来事。by mischance。可算・不可算。" },
+      { "hinshi": "【名】偶然の不運", "note": "misfortune / mishap と近い。" }
+    ],
+    "usages": [
+      { "title": "① 不運", "desc": "災難。", "example_en": "by mischance", "example_ja": "運悪く、はからずも" },
+      { "title": "② 不幸な出来事", "desc": "偶然。", "example_en": "a strange mischance", "example_ja": "奇妙な不運" }
+    ],
+    "warn": ["『不運・不幸なめぐり合わせ・ふとした災難（思いがけずおこる運の悪い出来事）』のやや古風・文語的な語。by mischance（運悪く・はからずも）。だれのせいでもない偶然の不運の含み。【注意】日本語の『ミスチャンス（好機を逃す)』とは意味が違い、英語では『不運』。可算・不可算。", "mis-（悪い・誤った）＋ chance（巡り合わせ・偶然）。misfortune / mishap / bad luck（不運/災難)と近い。"],
+    "etym_note": "mis-（悪い・誤った）＋ chance（巡り合わせ・偶然、ラテン語 cadere＝落ちる 由来）＝『悪いめぐり合わせ→不運』に由来。",
+    "etym_chain": [
+      { "node": "mis- + chance", "sub": "悪いめぐり合わせ", "era": "中英語" },
+      { "node": "mischance", "sub": "不運・災難", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "by mischance", "ja": "運悪く、はからずも" },
+      { "en": "a strange mischance", "ja": "奇妙な不運" },
+      { "en": "by some mischance", "ja": "何かの不運で" },
+      { "en": "a cruel mischance", "ja": "むごい不運" },
+      { "en": "through mischance", "ja": "不運によって" },
+      { "en": "an unfortunate mischance", "ja": "不幸な災難" }
+    ],
+    "related": [
+      { "en": "misfortune", "ja": "不運、不幸" },
+      { "en": "mishap", "ja": "災難、ちょっとした事故" },
+      { "en": "bad luck", "ja": "不運" },
+      { "en": "misadventure", "ja": "不運な出来事、災難" }
+    ],
+    "faq": [
+      { "q": "mischance の意味は？", "a": "『不運・不幸なめぐり合わせ・ふとした災難』という意味のやや古風・文語的な語です。思いがけずおこる、運の悪い出来事を指します。by mischance（運悪く・はからずも）のように使います。だれのせいでもなく偶然おこった不運というニュアンスです。" },
+      { "q": "日本語の『ミスチャンス』と同じ？", "a": "違うので注意が必要です。日本語の『ミスチャンス』は『好機を逃すこと』ですが、英語の mischance は『不運・災難』の意味です。mis-（悪い）＋ chance（巡り合わせ）で、misfortune / mishap / bad luck（不運・災難）と近い語です。" }
+    ],
+    "quiz": [
+      { "q": "by mischance の意味は？", "A": "運悪く、はからずも", "B": "計画どおりに", "C": "わざと", "D": "急いで", "correct": "A" },
+      { "q": "mischance と近い意味は？", "A": "misfortune（不運）", "B": "good luck（幸運）", "C": "success（成功）", "D": "chance（好機）だけ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "misdeal",
+    "pron": "ˌmɪsˈdiːl",
+    "kana": "ミスディール",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "mis-（誤って）＋deal（カードを配る）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "日常"],
+    "meaning_main": "（トランプの）配り間違い／（動）カードを配り間違える",
+    "description": "misdeal（ミスディール）は「（トランプの)配り間違い」という意味の名詞、また「（カードを)配り間違える」という意味の動詞です。カードゲームで、札の枚数や順番をまちがえて配ってしまうことを指します。a misdeal means a redeal（配り間違いはやり直しになる)のように使います。配り間違いがあると、ふつうその回はやり直し（配り直し)になります。mis-（誤って・悪く）＋ deal（カードを配る)が語源です。動詞の活用は misdeal - misdealt - misdealt（deal と同じ)です。トランプなどゲームの用語です。可算名詞です。",
+    "keywords": ["misdeal 意味", "misdeal 使い方", "配り間違い 英語", "トランプ 英語"],
+    "meanings": [
+      { "hinshi": "【名】（トランプの）配り間違い", "note": "札の枚数・順番をまちがえて配ること。可算。" },
+      { "hinshi": "【動】カードを配り間違える", "note": "活用 misdeal - misdealt - misdealt。" }
+    ],
+    "usages": [
+      { "title": "① 配り間違い", "desc": "名詞。", "example_en": "a misdeal means a redeal", "example_ja": "配り間違いはやり直しになる" },
+      { "title": "② 配り間違える", "desc": "動詞。", "example_en": "misdeal the cards", "example_ja": "カードを配り間違える" }
+    ],
+    "warn": ["名詞『（トランプの)配り間違い（札の枚数・順番をまちがえて配ること）』、動詞『（カードを)配り間違える』。a misdeal means a redeal（配り間違いはやり直しになる）。配り間違いがあるとふつうその回はやり直し（配り直し）に。動詞の活用は misdeal - misdealt - misdealt。", "mis-（誤って・悪く）＋ deal（カードを配る）。トランプなどゲームの用語。"],
+    "etym_note": "mis-（誤って・悪く）＋ deal（カードを配る）＝『誤って配ること→配り間違い』に由来。活用は deal と同じく misdealt。",
+    "etym_chain": [
+      { "node": "mis- + deal", "sub": "誤って配る", "era": "近代英語" },
+      { "node": "misdeal", "sub": "配り間違い", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a misdeal means a redeal", "ja": "配り間違いはやり直しになる" },
+      { "en": "misdeal the cards", "ja": "カードを配り間違える" },
+      { "en": "call a misdeal", "ja": "配り間違いを指摘する" },
+      { "en": "a misdeal occurred", "ja": "配り間違いが起きた" },
+      { "en": "correct the misdeal", "ja": "配り間違いを直す" },
+      { "en": "declare a misdeal", "ja": "配り直しを宣言する" }
+    ],
+    "related": [
+      { "en": "deal", "ja": "カードを配る、配ること" },
+      { "en": "redeal", "ja": "配り直す、配り直し" },
+      { "en": "shuffle", "ja": "カードを切る" },
+      { "en": "card game", "ja": "カードゲーム" }
+    ],
+    "faq": [
+      { "q": "misdeal の意味は？", "a": "『（トランプの)配り間違い』という意味の名詞、また『（カードを)配り間違える』という動詞です。カードゲームで、札の枚数や順番をまちがえて配ってしまうことを指します。a misdeal means a redeal（配り間違いはやり直しになる）のように使います。" },
+      { "q": "配り間違いがあるとどうなる？", "a": "ふつう、その回はやり直し（配り直し＝redeal）になります。mis-（誤って・悪く）＋ deal（カードを配る）の成り立ちで、動詞の活用は misdeal - misdealt - misdealt（deal と同じ）です。トランプなどゲームの用語です。" }
+    ],
+    "quiz": [
+      { "q": "misdeal の意味は？", "A": "（トランプの）配り間違い", "B": "大勝利", "C": "最後の1枚", "D": "強いカード", "correct": "A" },
+      { "q": "misdeal の動詞の活用は？", "A": "misdeal - misdealt - misdealt", "B": "misdeal - misdealed - misdealed", "C": "misdeal - misdole - misdolen", "D": "misdeal - misdealing - misdeal", "correct": "A" }
+    ]
+  },
+  {
+    "english": "misdirect",
+    "pron": "ˌmɪsdəˈrekt",
+    "kana": "ミスディレクト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "mis-（誤って）＋direct（向ける・案内する）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "論説"],
+    "meaning_main": "（誤った方向に）向ける・導く／（道・あて先を）まちがえて教える・誤って送る",
+    "description": "misdirect（ミスディレクト）は「（誤った方向に)向ける・導く」という意味の動詞。力・努力・注意・怒りなどを、本来向けるべきでない方向に向けてしまうことを表します。misdirect one's energy（力を誤った方向に使う)のように使います。また「（人に)道をまちがえて教える」「（郵便物・手紙を)あて先をまちがえて送る」という意味でも使い、The letter was misdirected.（手紙は誤って送られた)のように使います。手品で、観客の注意をわざと別のところへそらすことも misdirection（ミスディレクション)と言います。mis-（誤って・悪く）＋ direct（向ける・案内する)が語源です。名詞は misdirection です。",
+    "keywords": ["misdirect 意味", "misdirect 使い方", "誤った方向に向ける 英語", "道を間違えて教える 英語"],
+    "meanings": [
+      { "hinshi": "【動】（誤った方向に）向ける、導く", "note": "力・注意・怒りを向けるべきでない方向に。misdirect one's energy。" },
+      { "hinshi": "【動】（道・あて先を）まちがえて教える、誤って送る", "note": "The letter was misdirected.。名詞 misdirection。" }
+    ],
+    "usages": [
+      { "title": "① 誤った方向に向ける", "desc": "努力。", "example_en": "misdirect one's energy", "example_ja": "力を誤った方向に使う" },
+      { "title": "② 誤って送る", "desc": "郵便。", "example_en": "The letter was misdirected.", "example_ja": "手紙は誤って送られた。" }
+    ],
+    "warn": ["『（力・努力・注意・怒りなどを)誤った方向に向ける・導く』『（人に)道をまちがえて教える』『（郵便物を)あて先をまちがえて送る』。misdirect one's energy（力を誤った方向に使う）、The letter was misdirected.（手紙は誤配された）。手品で注意をそらすのは misdirection。名詞は misdirection。", "mis-（誤って・悪く）＋ direct（向ける・案内する）。"],
+    "etym_note": "mis-（誤って・悪く）＋ direct（向ける・案内する、ラテン語 dirigere＝まっすぐ導く 由来）＝『誤った方向に向ける』に由来。名詞は misdirection。",
+    "etym_chain": [
+      { "node": "mis- + direct", "sub": "誤って向ける", "era": "近代英語" },
+      { "node": "misdirect", "sub": "誤った方向に向ける", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "misdirect one's energy", "ja": "力を誤った方向に使う" },
+      { "en": "The letter was misdirected.", "ja": "手紙は誤って送られた。" },
+      { "en": "misdirect one's anger", "ja": "怒りを見当違いの相手に向ける" },
+      { "en": "misdirect a traveler", "ja": "旅行者に道を誤って教える" },
+      { "en": "misdirect attention", "ja": "注意を別の方へそらす" },
+      { "en": "a misdirected effort", "ja": "見当違いの努力" }
+    ],
+    "related": [
+      { "en": "direct", "ja": "向ける、案内する" },
+      { "en": "misdirection", "ja": "誤った指示、（手品の）注意そらし" },
+      { "en": "mislead", "ja": "誤った方向に導く、惑わす" },
+      { "en": "misguide", "ja": "誤り導く" }
+    ],
+    "faq": [
+      { "q": "misdirect の意味は？", "a": "『（誤った方向に)向ける・導く』という意味です。力・努力・注意・怒りなどを、本来向けるべきでない方向に向けてしまうことを表します。misdirect one's energy（力を誤った方向に使う）のように使います。『道をまちがえて教える』『郵便物を誤って送る』の意味もあります。" },
+      { "q": "misdirection とは？", "a": "misdirect の名詞形で『誤った指示・（力などを)誤って向けること』、また手品で『観客の注意をわざと別のところへそらすこと（ミスディレクション）』を指します。mis-（誤って）＋ direct（向ける）の成り立ちで、mislead（惑わす）とも近い語です。" }
+    ],
+    "quiz": [
+      { "q": "misdirect one's energy の意味は？", "A": "力を誤った方向に使う", "B": "力を正しく使う", "C": "力を蓄える", "D": "力を失う", "correct": "A" },
+      { "q": "misdirect の名詞形は？", "A": "misdirection（誤った指示・注意そらし）", "B": "direction（方向）だけ", "C": "director（監督）", "D": "directory（名簿）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "mislay",
+    "pron": "ˌmɪsˈleɪ",
+    "kana": "ミスレイ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "mis-（誤って）＋lay（置く）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "日常"],
+    "meaning_main": "（物を)置き忘れる・どこに置いたか分からなくする（一時的に見失う）",
+    "description": "mislay（ミスレイ）は「（物を)置き忘れる・どこに置いたか分からなくする」という意味の動詞。物を、どこかに置いたものの、その場所を思い出せず、一時的に見つけられなくなることを表します。mislay one's keys（鍵をどこかに置き忘れる)のように使います。完全になくす（lose)のとは少し違い、「どこかにはあるはずだが、置き場所を忘れてしまった」というニュアンスです。mis-（誤って・悪く）＋ lay（置く)が語源です。活用は mislay - mislaid - mislaid（lay と同じ)です。misplace（置き忘れる・置き間違える)とほぼ同じ意味です。おもにイギリスで使われます。",
+    "keywords": ["mislay 意味", "mislay 使い方", "置き忘れる 英語", "どこに置いたか分からない 英語"],
+    "meanings": [
+      { "hinshi": "【動】（物を）置き忘れる、どこに置いたか分からなくする", "note": "置き場所を思い出せず一時的に見失う。mislay one's keys。活用 mislaid。" },
+      { "hinshi": "【動】一時的に見失う", "note": "lose（完全になくす）とは少し違う。misplace とほぼ同じ。" }
+    ],
+    "usages": [
+      { "title": "① 置き忘れる", "desc": "物。", "example_en": "mislay one's keys", "example_ja": "鍵をどこかに置き忘れる" },
+      { "title": "② 見失う", "desc": "一時的。", "example_en": "I've mislaid my glasses.", "example_ja": "めがねをどこに置いたか分からなくなった。" }
+    ],
+    "warn": ["『（物を)置き忘れる・どこに置いたか分からなくする（置き場所を思い出せず一時的に見つけられなくなる）』。mislay one's keys（鍵を置き忘れる）。完全になくす lose とは少し違い、『どこかにはあるが置き場所を忘れた』ニュアンス。活用は mislay - mislaid - mislaid。おもに英で使う。", "mis-（誤って・悪く）＋ lay（置く）。misplace（置き忘れる・置き間違える)とほぼ同じ。"],
+    "etym_note": "mis-（誤って・悪く）＋ lay（置く、古英語 lecgan 由来）＝『誤って置く→置き忘れる』に由来。活用は lay と同じく mislaid。",
+    "etym_chain": [
+      { "node": "mis- + lay", "sub": "誤って置く", "era": "中英語" },
+      { "node": "mislay", "sub": "置き忘れる", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "mislay one's keys", "ja": "鍵をどこかに置き忘れる" },
+      { "en": "I've mislaid my glasses.", "ja": "めがねをどこに置いたか分からなくなった。" },
+      { "en": "mislay an important document", "ja": "大事な書類を置き忘れる" },
+      { "en": "a mislaid letter", "ja": "置き忘れた手紙" },
+      { "en": "seem to have mislaid it", "ja": "どこかに置き忘れたらしい" },
+      { "en": "mislay one's wallet", "ja": "財布を置き忘れる" }
+    ],
+    "related": [
+      { "en": "misplace", "ja": "置き忘れる、置き間違える" },
+      { "en": "lose", "ja": "なくす、失う" },
+      { "en": "lay", "ja": "置く" },
+      { "en": "forget", "ja": "忘れる" }
+    ],
+    "faq": [
+      { "q": "mislay の意味は？", "a": "『（物を)置き忘れる・どこに置いたか分からなくする』という意味です。物を、どこかに置いたものの、その場所を思い出せず、一時的に見つけられなくなることを表します。mislay one's keys（鍵をどこかに置き忘れる）のように使います。" },
+      { "q": "lose との違いは？", "a": "lose は『（完全に)なくす・失う』、mislay は『どこかにはあるはずだが、置き場所を忘れて一時的に見つけられない』という少し軽いニュアンスです。活用は mislay - mislaid - mislaid（lay と同じ）で、misplace とほぼ同じ意味です。おもにイギリスで使います。" }
+    ],
+    "quiz": [
+      { "q": "mislay one's keys の意味は？", "A": "鍵をどこに置いたか分からなくする（置き忘れる）", "B": "鍵を新しく作る", "C": "鍵をかける", "D": "鍵を渡す", "correct": "A" },
+      { "q": "mislay の活用は？", "A": "mislay - mislaid - mislaid", "B": "mislay - mislayed - mislayed", "C": "mislay - mislew - mislain", "D": "mislay - mislaying - mislay", "correct": "A" }
+    ]
+  }
+]
