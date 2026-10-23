@@ -1,0 +1,985 @@
+[
+  {
+    "english": "solong",
+    "pron": "soʊ ˈlɔːŋ",
+    "kana": "ソー・ロング",
+    "hinshi": "間投詞",
+    "ld_pos": "間投詞",
+    "ld_etym": "so long（それまで）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "口語"],
+    "meaning_main": "じゃあね・さようなら・またね（親しい間でのくだけた別れのあいさつ）（正しくは so long）",
+    "description": "solong は、本来 so long と2語で書く語で「じゃあね・さようなら・またね」という意味の、くだけた別れのあいさつです。親しい人どうしが、気軽に別れるときに使う、ややカジュアルな「さよなら」です。So long! See you tomorrow!（じゃあね！また明日！)のように使います。正しくは so long と2語で書きます。goodbye（さようなら)よりくだけた、軽い言い方で、「それまで(またね)」というニュアンスがあります。語源にはいくつかの説があり、はっきりしませんが、別れぎわに軽く言う、あたたかみのあるあいさつとして広く使われています。farewell（お別れ)のようなあらたまった語ではなく、日常のちょっとした別れに使います。",
+    "keywords": ["so long 意味", "solong 使い方", "じゃあね さようなら 英語", "くだけた 別れ 英語"],
+    "meanings": [
+      { "hinshi": "【間】じゃあね、さようなら、またね", "note": "親しい間でのくだけた別れのあいさつ。So long!。正しくは so long。" },
+      { "hinshi": "【間】それまで（また会うまで）", "note": "goodbye よりくだけた軽い言い方。so long（2語）。" }
+    ],
+    "usages": [
+      { "title": "① じゃあね", "desc": "口語。", "example_en": "So long! See you tomorrow!", "example_ja": "じゃあね！また明日！" },
+      { "title": "② またね", "desc": "別れ。", "example_en": "So long for now.", "example_ja": "とりあえず、またね。" }
+    ],
+    "warn": ["正しくは so long と2語で書く、くだけた別れのあいさつ。『じゃあね・さようなら・またね（親しい人どうしが、気軽に別れるときに使う、ややカジュアルなさよなら）』。So long! See you tomorrow!（じゃあね！また明日！）。goodbye よりくだけた軽い言い方で、『それまで（またね）』というニュアンス。farewell のようなあらたまった語ではなく、日常のちょっとした別れに使う。", "語源には諸説あり、はっきりしない。goodbye のくだけた言い方。"],
+    "etym_note": "so long（それまで・また会うまで、の意）に由来するが、語源には諸説ありはっきりしない。goodbye のくだけた・軽い別れのあいさつ。正しくは so long と2語。",
+    "etym_chain": [
+      { "node": "so long", "sub": "それまで・またね", "era": "19世紀" },
+      { "node": "so long", "sub": "じゃあね・さようなら", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "So long! See you tomorrow!", "ja": "じゃあね！また明日！" },
+      { "en": "So long for now.", "ja": "とりあえず、またね。" },
+      { "en": "say so long", "ja": "別れのあいさつをする" },
+      { "en": "So long, everyone!", "ja": "じゃあね、みんな！" },
+      { "en": "wave and say so long", "ja": "手をふって『じゃあね』と言う" },
+      { "en": "So long, old friend.", "ja": "じゃあな、旧友よ。" }
+    ],
+    "related": [
+      { "en": "goodbye", "ja": "さようなら" },
+      { "en": "see you", "ja": "じゃあね、またね" },
+      { "en": "farewell", "ja": "お別れ（あらたまった語）" },
+      { "en": "bye", "ja": "バイバイ、じゃあね" }
+    ],
+    "faq": [
+      { "q": "so long の意味は？", "a": "『じゃあね・さようなら・またね』という意味の、くだけた別れのあいさつです。親しい人どうしが、気軽に別れるときに使う、ややカジュアルな『さよなら』です。So long! See you tomorrow!（じゃあね！また明日！）のように使います。正しくは so long と2語で書きます。" },
+      { "q": "goodbye との違いは？", "a": "どちらも別れのあいさつですが、so long は goodbye よりくだけた、軽い言い方で、『それまで（またね）』というニュアンスがあります。farewell（お別れ）のようなあらたまった語ではなく、日常のちょっとした別れに使います。語源には諸説あり、はっきりしませんが、あたたかみのあるあいさつとして広く使われています。" }
+    ],
+    "quiz": [
+      { "q": "So long! の意味は？", "A": "じゃあね・さようなら（くだけた別れ）", "B": "こんにちは", "C": "ありがとう", "D": "ごめんなさい", "correct": "A" },
+      { "q": "so long はどんな言い方？", "A": "goodbye よりくだけた、軽い別れのあいさつ", "B": "とてもあらたまった正式な別れ", "C": "朝のあいさつ", "D": "食事の前のあいさつ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "someplace",
+    "pron": "ˈsʌmpleɪs",
+    "kana": "サムプレイス",
+    "hinshi": "副詞 / 名詞",
+    "ld_pos": "副詞",
+    "ld_etym": "some（ある）＋place（場所）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "口語"],
+    "meaning_main": "（米・口語）どこかに・どこかへ・どこか（はっきりしない、ある場所に）（＝somewhere）",
+    "description": "someplace（サムプレイス）は、主にアメリカの口語で「どこかに・どこかへ・どこか」という意味の副詞・名詞。はっきりとは決まっていない・わからない、ある場所を指して言う語です。let's go someplace quiet（どこか静かなところへ行こう)のように使います。some（ある・いくらかの）＋ place（場所)が語源です。意味は somewhere（どこかに)とほぼ同じで、someplace のほうがくだけた、話し言葉的なアメリカ英語の言い方です。I left my keys someplace.（鍵をどこかに置き忘れた)のように使います。name 名詞的にも使い、find someplace to eat（どこか食べる場所を見つける)のようにも言います。日常会話でよく使われる、カジュアルな語です。",
+    "keywords": ["someplace 意味", "someplace 使い方", "どこかに どこかへ 英語", "somewhere 違い"],
+    "meanings": [
+      { "hinshi": "【副】（米・口語）どこかに、どこかへ", "note": "はっきりしない、ある場所に。let's go someplace quiet。＝somewhere。" },
+      { "hinshi": "【名】どこか（ある場所）", "note": "some（ある）＋ place（場所）。somewhere のくだけた米口語。" }
+    ],
+    "usages": [
+      { "title": "① どこかへ", "desc": "米口語。", "example_en": "let's go someplace quiet", "example_ja": "どこか静かなところへ行こう" },
+      { "title": "② どこかに", "desc": "場所。", "example_en": "I left my keys someplace.", "example_ja": "鍵をどこかに置き忘れた。" }
+    ],
+    "warn": ["『（米・口語)どこかに・どこかへ・どこか（はっきりとは決まっていない・わからない、ある場所）』。let's go someplace quiet（どこか静かなところへ行こう）、I left my keys someplace.（鍵をどこかに置き忘れた）。意味は somewhere とほぼ同じで、someplace のほうがくだけた、話し言葉的なアメリカ英語の言い方。名詞的にも使う（find someplace to eat）。", "some（ある・いくらかの）＋ place（場所）。somewhere のくだけた米口語。"],
+    "etym_note": "some（ある・いくらかの）＋ place（場所）＝『ある場所→どこか』に由来。somewhere とほぼ同義で、くだけた米口語。",
+    "etym_chain": [
+      { "node": "some + place", "sub": "ある場所", "era": "近代英語" },
+      { "node": "someplace", "sub": "どこかに（米口語）", "era": "19世紀" }
+    ],
+    "phrases": [
+      { "en": "let's go someplace quiet", "ja": "どこか静かなところへ行こう" },
+      { "en": "I left my keys someplace.", "ja": "鍵をどこかに置き忘れた。" },
+      { "en": "find someplace to eat", "ja": "どこか食べる場所を見つける" },
+      { "en": "someplace warm", "ja": "どこか暖かいところ" },
+      { "en": "someplace else", "ja": "どこかほかのところ" },
+      { "en": "live someplace near the sea", "ja": "海の近くのどこかに住む" }
+    ],
+    "related": [
+      { "en": "somewhere", "ja": "どこかに（一般的な語）" },
+      { "en": "anyplace", "ja": "（米・口語）どこでも、どこかに" },
+      { "en": "place", "ja": "場所" },
+      { "en": "nowhere", "ja": "どこにも〜ない" }
+    ],
+    "faq": [
+      { "q": "someplace の意味は？", "a": "主にアメリカの口語で『どこかに・どこかへ・どこか』という意味です。はっきりとは決まっていない・わからない、ある場所を指して言う語です。let's go someplace quiet（どこか静かなところへ行こう）、I left my keys someplace.（鍵をどこかに置き忘れた）のように使います。" },
+      { "q": "somewhere との違いは？", "a": "意味はほぼ同じ『どこかに』ですが、someplace のほうがくだけた、話し言葉的なアメリカ英語の言い方です。somewhere は、アメリカでもイギリスでも使われる、より一般的な語です。some（ある）＋ place（場所）の成り立ちで、名詞的にも使います（find someplace to eat＝どこか食べる場所を見つける）。日常会話でよく使われる、カジュアルな語です。" }
+    ],
+    "quiz": [
+      { "q": "（米・口語）someplace の意味は？", "A": "どこかに・どこかへ（＝somewhere）", "B": "いつも", "C": "だれか", "D": "何か", "correct": "A" },
+      { "q": "someplace とほぼ同じ意味の一般的な語は？", "A": "somewhere", "B": "someone", "C": "sometime", "D": "somehow", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sooth",
+    "pron": "suːθ",
+    "kana": "スース",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 sōth（真実の）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "古語"],
+    "meaning_main": "（古・文語）真実・事実／本当の（今は in sooth＝本当に の形などで残る古い語）",
+    "description": "sooth（スース）は「真実・事実」「本当の」という意味の、今はほとんど使われない古い文語の語です。おもに in sooth（本当に・まことに)、forsooth（なんとまあ・本当に)といった古風な言い回しの中に残っています。古英語 sōth（真実の・本当の)が語源です。現代の英語ではふつう truth（真実)や true（本当の)を使い、sooth は、シェークスピアなどの古い文学や、古めかしい・おどけた言い回しで見かける程度です。動詞の soothe（なだめる・やわらげる)とは、つづりも意味も別の語なので注意が必要です（soothe は語末に e がつく)。また、未来を予言する人を soothsayer（予言者＝『真実を言う人』)と言い、この sooth が使われています。可算・不可算で使われました。",
+    "keywords": ["sooth 意味", "sooth 使い方", "真実 本当の 古語 英語", "soothsayer 予言者"],
+    "meanings": [
+      { "hinshi": "【名】（古・文語）真実、事実", "note": "in sooth（本当に）、forsooth（なんとまあ）の形で残る。今は truth を使う。" },
+      { "hinshi": "【形】（古）本当の、真実の", "note": "古英語 sōth（真実の）。soothsayer（予言者）に残る。soothe とは別語。" }
+    ],
+    "usages": [
+      { "title": "① 本当に（in sooth）", "desc": "古語。", "example_en": "in sooth", "example_ja": "本当に、まことに" },
+      { "title": "② なんとまあ（forsooth）", "desc": "古風。", "example_en": "forsooth", "example_ja": "なんとまあ、本当に" }
+    ],
+    "warn": ["今はほとんど使われない古い文語。『真実・事実／本当の』。おもに in sooth（本当に・まことに）、forsooth（なんとまあ・本当に）といった古風な言い回しに残る。古英語 sōth（真実の）由来。現代ではふつう truth（真実）/ true（本当の）を使い、シェークスピアなどの古い文学や、古めかしい・おどけた言い回しで見かける程度。動詞 soothe（なだめる、語末に e）とは別語なので注意。soothsayer（予言者）に残る。", "古英語 sōth（真実の）。動詞 soothe（なだめる）とは別語。soothsayer（予言者）の sooth。"],
+    "etym_note": "古英語 sōth（真実の・本当の）に由来。今は in sooth / forsooth の形や soothsayer（予言者＝真実を言う人）に残る程度。動詞 soothe（なだめる）とは別語。",
+    "etym_chain": [
+      { "node": "sōth", "sub": "真実の・本当の", "era": "古英語" },
+      { "node": "sooth", "sub": "真実（古・文語）", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "in sooth", "ja": "本当に、まことに" },
+      { "en": "forsooth", "ja": "なんとまあ、本当に" },
+      { "en": "to tell the sooth", "ja": "本当のことを言えば（古）" },
+      { "en": "a soothsayer", "ja": "予言者、占い師" },
+      { "en": "sooth to say", "ja": "実を言うと（古）" },
+      { "en": "the sooth of the matter", "ja": "その件の真実（古）" }
+    ],
+    "related": [
+      { "en": "truth", "ja": "真実（現代の語）" },
+      { "en": "soothsayer", "ja": "予言者、占い師" },
+      { "en": "forsooth", "ja": "なんとまあ、本当に（古）" },
+      { "en": "soothe", "ja": "なだめる、やわらげる（別語）" }
+    ],
+    "faq": [
+      { "q": "sooth の意味は？", "a": "『真実・事実』『本当の』という意味の、今はほとんど使われない古い文語の語です。おもに in sooth（本当に・まことに）、forsooth（なんとまあ・本当に）といった古風な言い回しの中に残っています。古英語 sōth（真実の・本当の）が語源です。現代の英語ではふつう truth（真実）や true（本当の）を使います。" },
+      { "q": "soothe と同じ語？", "a": "いいえ、別の語なので注意が必要です。sooth（スース）は『真実』を意味する古語で、語末に e はつきません。一方 soothe（スーズ、語末に e）は『なだめる・やわらげる』という意味の、今もよく使う動詞です。なお、未来を予言する人を soothsayer（予言者＝『真実を言う人』）と言い、ここにこの sooth が使われています。" }
+    ],
+    "quiz": [
+      { "q": "（古）in sooth の意味は？", "A": "本当に、まことに", "B": "とても速く", "C": "静かに", "D": "昨日", "correct": "A" },
+      { "q": "sooth（真実）を使った『予言者』を表す語は？", "A": "soothsayer", "B": "soothe", "C": "smoother", "D": "southerner", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sophist",
+    "pron": "ˈsɑːfɪst",
+    "kana": "ソフィスト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 sophistēs（知者・教師）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "専門"],
+    "meaning_main": "ソフィスト（古代ギリシャの職業的な弁論・哲学の教師）／詭弁家（きべんか）（もっともらしいがごまかしの議論をする人）",
+    "description": "sophist（ソフィスト）は、主に2つの意味をもつ名詞。1つは歴史用語で「ソフィスト」＝古代ギリシャで、お金をとって、弁論術(べんろんじゅつ)や処世術などを教えた、職業的な教師・学者を指します。the Greek sophists（ギリシャのソフィストたち)のように使います。2つめは、そこから転じて「詭弁家(きべんか)」＝もっともらしく聞こえるが、実は中身のない、人をまるめ込むようなごまかしの議論をする人を指します（けなす意味合い)。ギリシャ語 sophistēs（知者・教師、sophia＝知恵 から)が語源です。ソフィストは、言葉たくみに相手を言い負かす議論の技術で知られ、ソクラテスやプラトンから「真理よりも勝つことを重んじる」と批判されたことから、「詭弁家」というよくない意味も生まれました。その議論を sophistry（詭弁)と言います。可算名詞です。",
+    "keywords": ["sophist 意味", "sophist 使い方", "ソフィスト 詭弁家 英語", "sophistry 詭弁"],
+    "meanings": [
+      { "hinshi": "【名】ソフィスト（古代ギリシャの職業的教師）", "note": "お金をとって弁論術などを教えた教師・学者。the Greek sophists。可算。" },
+      { "hinshi": "【名】詭弁家（きべんか）", "note": "もっともらしいがごまかしの議論をする人。ギリシャ語 sophistēs（知者）。詭弁は sophistry。" }
+    ],
+    "usages": [
+      { "title": "① ソフィスト", "desc": "歴史。", "example_en": "the Greek sophists", "example_ja": "ギリシャのソフィストたち" },
+      { "title": "② 詭弁家", "desc": "けなして。", "example_en": "a clever sophist", "example_ja": "弁の立つ詭弁家" }
+    ],
+    "warn": ["『ソフィスト（古代ギリシャで、お金をとって弁論術〔べんろんじゅつ〕や処世術などを教えた、職業的な教師・学者）』the Greek sophists、転じて『詭弁家〔きべんか〕（もっともらしく聞こえるが、実は中身のない、人をまるめ込むごまかしの議論をする人。けなす意味合い）』。ギリシャ語 sophistēs（知者・教師、sophia＝知恵 から）由来。ソクラテス・プラトンから批判されたことで『詭弁家』の悪い意味も生まれた。その議論は sophistry（詭弁）。可算。", "ギリシャ語 sophistēs（知者・教師、sophia＝知恵 から）。sophistry（詭弁）、philosophy（哲学)と関連。"],
+    "etym_note": "ギリシャ語 sophistēs（知者・教師、sophia＝知恵 から）に由来。古代ギリシャの職業的教師が、言葉たくみな議論で真理より勝つことを重んじると批判され、『詭弁家』の意味も生まれた。詭弁は sophistry。",
+    "etym_chain": [
+      { "node": "sophistēs", "sub": "知者・教師", "era": "ギリシャ語" },
+      { "node": "sophist", "sub": "ソフィスト／詭弁家", "era": "16世紀" }
+    ],
+    "phrases": [
+      { "en": "the Greek sophists", "ja": "ギリシャのソフィストたち" },
+      { "en": "a clever sophist", "ja": "弁の立つ詭弁家" },
+      { "en": "argue like a sophist", "ja": "詭弁家のように議論する" },
+      { "en": "the sophists of Athens", "ja": "アテネのソフィストたち" },
+      { "en": "mere sophistry", "ja": "ただの詭弁" },
+      { "en": "expose a sophist", "ja": "詭弁家の正体をあばく" }
+    ],
+    "related": [
+      { "en": "sophistry", "ja": "詭弁（きべん）" },
+      { "en": "philosopher", "ja": "哲学者" },
+      { "en": "rhetoric", "ja": "弁論術、修辞" },
+      { "en": "sophisticated", "ja": "洗練された、高度な" }
+    ],
+    "faq": [
+      { "q": "sophist の意味は？", "a": "主に2つあります。1つは歴史用語で『ソフィスト』＝古代ギリシャで、お金をとって、弁論術や処世術などを教えた、職業的な教師・学者です（the Greek sophists）。もう1つは、そこから転じて『詭弁家（きべんか）』＝もっともらしく聞こえるが、実は中身のない、人をまるめ込むようなごまかしの議論をする人です（けなす意味合い）。" },
+      { "q": "なぜ『詭弁家』の悪い意味に？", "a": "ソフィストは、言葉たくみに相手を言い負かす議論の技術で知られ、ソクラテスやプラトンから『真理よりも勝つことを重んじる』と批判されました。そこから『詭弁家』というよくない意味も生まれました。ギリシャ語 sophistēs（知者・教師、sophia＝知恵 から）が語源で、そのごまかしの議論を sophistry（詭弁）と言います。philosophy（哲学）とも語源がつながります。" }
+    ],
+    "quiz": [
+      { "q": "sophist の歴史的な意味は？", "A": "古代ギリシャの職業的な弁論・哲学の教師（ソフィスト）", "B": "農民", "C": "兵士", "D": "商人", "correct": "A" },
+      { "q": "sophist が転じた悪い意味は？", "A": "詭弁家（ごまかしの議論をする人）", "B": "正直者", "C": "英雄", "D": "科学者", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sophisticate",
+    "pron": "səˈfɪstɪkeɪt",
+    "kana": "ソフィスティケイト",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "中世ラテン語 sophisticare（混ぜ物をする）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文語"],
+    "meaning_main": "（名）洗練された人・世慣れた人／（動）洗練させる・高度にする・世慣れさせる",
+    "description": "sophisticate（ソフィスティケイト）は、主に名詞と動詞で使われる語。名詞では「洗練された人・世慣れた人」で、教養があり、都会的で、ものごとに通じた、あか抜けた人を指します。a city sophisticate（都会的で洗練された人)のように使います（名詞のときは発音の語尾が少し変わります)。動詞では「洗練させる・高度にする・世慣れさせる」の意味で、人や物を、より複雑で高度な・洗練されたものにすることを指します。もとは中世ラテン語 sophisticare（混ぜ物をする・まぜものでごまかす)に由来し、さらにギリシャ語 sophia（知恵)につながります。形容詞 sophisticated（洗練された・高度な・精巧な)のほうが、日常ではよく使われます。可算名詞です。",
+    "keywords": ["sophisticate 意味", "sophisticate 使い方", "洗練された人 世慣れた 英語", "sophisticated 関連"],
+    "meanings": [
+      { "hinshi": "【名】洗練された人、世慣れた人", "note": "教養があり都会的であか抜けた人。a city sophisticate。可算。" },
+      { "hinshi": "【動】洗練させる、高度にする、世慣れさせる", "note": "より複雑で高度・洗練されたものにする。形容詞 sophisticated がよく使われる。" }
+    ],
+    "usages": [
+      { "title": "① 洗練された人", "desc": "名詞。", "example_en": "a city sophisticate", "example_ja": "都会的で洗練された人" },
+      { "title": "② 高度にする", "desc": "動詞。", "example_en": "sophisticate the system", "example_ja": "システムを高度化する" }
+    ],
+    "warn": ["名詞『洗練された人・世慣れた人（教養があり、都会的で、ものごとに通じた、あか抜けた人）』a city sophisticate、動詞『洗練させる・高度にする・世慣れさせる（人や物を、より複雑で高度な・洗練されたものにする）』。もとは中世ラテン語 sophisticare（混ぜ物をする・ごまかす）由来で、さらにギリシャ語 sophia（知恵）につながる。日常では形容詞 sophisticated（洗練された・高度な・精巧な）のほうがよく使われる。可算。", "中世ラテン語 sophisticare（混ぜ物をする）→ギリシャ語 sophia（知恵）。sophisticated（洗練された)の動詞・名詞。"],
+    "etym_note": "中世ラテン語 sophisticare（混ぜ物をする・ごまかす）に由来し、ギリシャ語 sophia（知恵）につながる。『洗練された人／洗練させる』。形容詞 sophisticated がよく使われる。",
+    "etym_chain": [
+      { "node": "sophia", "sub": "知恵", "era": "ギリシャ語" },
+      { "node": "sophisticare", "sub": "混ぜ物をする", "era": "中世ラテン語" },
+      { "node": "sophisticate", "sub": "洗練された人／洗練させる", "era": "17世紀" }
+    ],
+    "phrases": [
+      { "en": "a city sophisticate", "ja": "都会的で洗練された人" },
+      { "en": "a cultured sophisticate", "ja": "教養のある洗練された人" },
+      { "en": "sophisticate the system", "ja": "システムを高度化する" },
+      { "en": "sophisticate one's taste", "ja": "好みを洗練させる" },
+      { "en": "a worldly sophisticate", "ja": "世慣れたあか抜けた人" },
+      { "en": "become more sophisticated", "ja": "より洗練される" }
+    ],
+    "related": [
+      { "en": "sophisticated", "ja": "洗練された、高度な、精巧な" },
+      { "en": "refine", "ja": "洗練する、精製する" },
+      { "en": "cultured", "ja": "教養のある" },
+      { "en": "worldly", "ja": "世慣れた、世俗的な" }
+    ],
+    "faq": [
+      { "q": "sophisticate の意味は？", "a": "主に名詞と動詞で使われます。名詞では『洗練された人・世慣れた人』で、教養があり、都会的で、ものごとに通じた、あか抜けた人を指します（a city sophisticate）。動詞では『洗練させる・高度にする・世慣れさせる』の意味で、人や物を、より複雑で高度な・洗練されたものにすることを指します。" },
+      { "q": "sophisticated との関係は？", "a": "sophisticated は sophisticate の形容詞（過去分詞）で、『洗練された・高度な・精巧な』という意味で、日常ではこちらのほうがよく使われます。sophisticate はもとは中世ラテン語 sophisticare（混ぜ物をする・まぜものでごまかす）に由来し、さらにギリシャ語 sophia（知恵）につながります。refine（洗練する）、cultured（教養のある）と近い意味です。" }
+    ],
+    "quiz": [
+      { "q": "名詞 a sophisticate の意味は？", "A": "洗練された人、世慣れた人", "B": "田舎くさい人", "C": "乱暴な人", "D": "無口な人", "correct": "A" },
+      { "q": "sophisticate の形容詞は？", "A": "sophisticated（洗練された・高度な）", "B": "sophistry（詭弁）", "C": "sophomore（2年生）", "D": "soothing（なだめる）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sophisticated",
+    "pron": "səˈfɪstɪkeɪtɪd",
+    "kana": "ソフィスティケイティッド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "sophisticate（洗練させる）＋-ed",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "論説"],
+    "meaning_main": "洗練された・あか抜けた・世慣れた／（機械・方法などが）高度な・精巧な・複雑な",
+    "description": "sophisticated（ソフィスティケイティッド）は、主に2つの意味をもつ形容詞。1つは人や物について「洗練された・あか抜けた・世慣れた」で、教養があり、趣味がよく、都会的で、ものごとに通じているようすを表します。a sophisticated woman（洗練された女性)のように使います。2つめは、機械・方法・システムなどについて「高度な・精巧な・複雑な」で、技術的にとても進んでいて、こみ入っているようすを表します。sophisticated technology（高度な技術)のように使います。sophisticate（洗練させる）＋ -ed が語源で、もとはギリシャ語 sophia（知恵)につながります。ほめ言葉として使われることが多く、単純(simple)・素朴(naive)の反対のイメージです。日常でも論説でもよく使う、重要な語です。",
+    "keywords": ["sophisticated 意味", "sophisticated 使い方", "洗練された 高度な 精巧な 英語", "あか抜けた 英語"],
+    "meanings": [
+      { "hinshi": "【形】洗練された、あか抜けた、世慣れた", "note": "教養があり趣味がよく都会的。a sophisticated woman。ほめ言葉。" },
+      { "hinshi": "【形】（機械・方法が）高度な、精巧な、複雑な", "note": "技術的に進んでこみ入っている。sophisticated technology。" }
+    ],
+    "usages": [
+      { "title": "① 洗練された", "desc": "人・物。", "example_en": "a sophisticated woman", "example_ja": "洗練された女性" },
+      { "title": "② 高度な", "desc": "技術。", "example_en": "sophisticated technology", "example_ja": "高度な技術" }
+    ],
+    "warn": ["『洗練された・あか抜けた・世慣れた（教養があり、趣味がよく、都会的で、ものごとに通じている）』a sophisticated woman、『（機械・方法・システムが)高度な・精巧な・複雑な（技術的にとても進んでいて、こみ入っている）』sophisticated technology。ほめ言葉として使われることが多く、単純〔simple〕・素朴〔naive〕の反対のイメージ。日常でも論説でもよく使う重要語。", "sophisticate（洗練させる）＋ -ed。もとはギリシャ語 sophia（知恵）につながる。"],
+    "etym_note": "sophisticate（洗練させる）＋ -ed＝『洗練された』に由来。もとは中世ラテン語 sophisticare（混ぜ物をする）→ギリシャ語 sophia（知恵）につながる。simple / naive の反対のイメージ。",
+    "etym_chain": [
+      { "node": "sophia", "sub": "知恵", "era": "ギリシャ語" },
+      { "node": "sophisticate + -ed", "sub": "洗練された", "era": "17世紀" },
+      { "node": "sophisticated", "sub": "洗練された・高度な", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a sophisticated woman", "ja": "洗練された女性" },
+      { "en": "sophisticated technology", "ja": "高度な技術" },
+      { "en": "a sophisticated system", "ja": "精巧なシステム" },
+      { "en": "sophisticated taste", "ja": "洗練された趣味" },
+      { "en": "a sophisticated argument", "ja": "こみ入った高度な議論" },
+      { "en": "highly sophisticated equipment", "ja": "非常に高度な機器" }
+    ],
+    "related": [
+      { "en": "sophisticate", "ja": "洗練させる／洗練された人" },
+      { "en": "refined", "ja": "洗練された、上品な" },
+      { "en": "advanced", "ja": "高度な、進んだ" },
+      { "en": "complex", "ja": "複雑な" }
+    ],
+    "faq": [
+      { "q": "sophisticated の意味は？", "a": "主に2つあります。1つは人や物について『洗練された・あか抜けた・世慣れた』で、教養があり、趣味がよく、都会的で、ものごとに通じているようすを表します（a sophisticated woman）。もう1つは、機械・方法・システムなどについて『高度な・精巧な・複雑な』で、技術的にとても進んでいて、こみ入っているようすを表します（sophisticated technology）。" },
+      { "q": "よい意味？悪い意味？", "a": "基本的にほめ言葉として使われることが多く、単純（simple）・素朴（naive）の反対のイメージです。人についてなら『あか抜けて教養がある』、技術についてなら『高度で精巧』という、プラスの評価です。sophisticate（洗練させる）＋ -ed の成り立ちで、refined（洗練された）、advanced（高度な）、complex（複雑な）と近い意味です。" }
+    ],
+    "quiz": [
+      { "q": "a sophisticated woman の意味は？", "A": "洗練された（あか抜けた）女性", "B": "田舎くさい女性", "C": "こわい女性", "D": "ねむそうな女性", "correct": "A" },
+      { "q": "sophisticated technology の意味は？", "A": "高度で精巧な技術", "B": "古くさい技術", "C": "こわれた技術", "D": "安い技術", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sophomore",
+    "pron": "ˈsɑːfəmɔːr",
+    "kana": "ソフォモア",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 sophos（賢い）＋mōros（愚かな）か",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "日常"],
+    "meaning_main": "（米）（高校・大学の）2年生（4年制の、下から2番目の学年の生徒・学生）",
+    "description": "sophomore（ソフォモア）は、主にアメリカで「（高校・大学の)2年生」という意味の名詞。4年制の高校(ハイスクール)や大学で、下から2番目の学年の生徒・学生を指します。a college sophomore（大学2年生)のように使います。アメリカの4学年は、下から順に freshman（1年生）、sophomore（2年生）、junior（3年生）、senior（4年生)と呼ばれます。語源には、ギリシャ語 sophos（賢い）＋ mōros（愚かな)を合わせた「賢くもあり愚かでもある(=なまかじりの)者」という説があります（1年生よりは慣れたが、まだ未熟、というニュアンス)。形容詞的にも使い、a sophomore album（アーティストの2枚目のアルバム)のように、「2番目の」の意味でも使われます。可算名詞です。",
+    "keywords": ["sophomore 意味", "sophomore 使い方", "2年生 米 英語", "freshman junior senior 学年"],
+    "meanings": [
+      { "hinshi": "【名】（米）（高校・大学の）2年生", "note": "4年制の下から2番目の学年。a college sophomore。可算。" },
+      { "hinshi": "【名】2番目のもの", "note": "a sophomore album（2枚目のアルバム）。freshman→sophomore→junior→senior。" }
+    ],
+    "usages": [
+      { "title": "① 大学2年生", "desc": "米。", "example_en": "a college sophomore", "example_ja": "大学2年生" },
+      { "title": "② 2番目の", "desc": "形容詞的。", "example_en": "a sophomore album", "example_ja": "（アーティストの）2枚目のアルバム" }
+    ],
+    "warn": ["『（米)（高校・大学の)2年生（4年制の高校〔ハイスクール〕や大学で、下から2番目の学年の生徒・学生）』。a college sophomore（大学2年生）。アメリカの4学年は下から freshman（1年生）→ sophomore（2年生）→ junior（3年生）→ senior（4年生）。形容詞的に『2番目の』の意味でも（a sophomore album＝2枚目のアルバム）。可算。", "ギリシャ語 sophos（賢い）＋ mōros（愚かな）＝『なまかじりの者』の説。freshman / junior / senior と対。"],
+    "etym_note": "語源には、ギリシャ語 sophos（賢い）＋ mōros（愚かな）を合わせた『賢くもあり愚かでもある（＝なまかじりの）者』という説がある（1年生よりは慣れたが、まだ未熟、のニュアンス）。米の学年は freshman→sophomore→junior→senior。",
+    "etym_chain": [
+      { "node": "sophos + mōros", "sub": "賢い＋愚かな", "era": "ギリシャ語" },
+      { "node": "sophomore", "sub": "2年生", "era": "17世紀" }
+    ],
+    "phrases": [
+      { "en": "a college sophomore", "ja": "大学2年生" },
+      { "en": "a high school sophomore", "ja": "高校2年生" },
+      { "en": "in my sophomore year", "ja": "（私の）2年生のときに" },
+      { "en": "a sophomore album", "ja": "（アーティストの）2枚目のアルバム" },
+      { "en": "the sophomore class", "ja": "2年生のクラス（学年）" },
+      { "en": "a sophomore slump", "ja": "2年目のスランプ（2年目の不振）" }
+    ],
+    "related": [
+      { "en": "freshman", "ja": "（米）1年生、新入生" },
+      { "en": "junior", "ja": "（米）3年生" },
+      { "en": "senior", "ja": "（米）4年生、最上級生" },
+      { "en": "student", "ja": "学生、生徒" }
+    ],
+    "faq": [
+      { "q": "sophomore の意味は？", "a": "主にアメリカで『（高校・大学の）2年生』という意味です。4年制の高校（ハイスクール）や大学で、下から2番目の学年の生徒・学生を指します。a college sophomore（大学2年生）のように使います。アメリカの4学年は、下から順に freshman（1年生）、sophomore（2年生）、junior（3年生）、senior（4年生）と呼ばれます。" },
+      { "q": "語源は？", "a": "語源には、ギリシャ語 sophos（賢い）＋ mōros（愚かな）を合わせた『賢くもあり愚かでもある（＝なまかじりの）者』という説があります（1年生よりは慣れたが、まだ未熟、というニュアンス）。形容詞的にも使い、a sophomore album（アーティストの2枚目のアルバム）、a sophomore slump（2年目のスランプ）のように、『2番目の』の意味でも使われます。" }
+    ],
+    "quiz": [
+      { "q": "（米）sophomore の意味は？", "A": "（高校・大学の）2年生", "B": "校長", "C": "卒業生", "D": "新入生（1年生）", "correct": "A" },
+      { "q": "米の学年で sophomore の次は？", "A": "junior（3年生）", "B": "freshman（1年生）", "C": "senior（4年生）", "D": "sophomore のまま", "correct": "A" }
+    ]
+  },
+  {
+    "english": "soreness",
+    "pron": "ˈsɔːrnəs",
+    "kana": "ソアネス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "sore（痛い）＋-ness",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "日常"],
+    "meaning_main": "（体の）痛み・ひりひり・筋肉痛（さわったり動かしたりすると痛む、ひりつくような感じ）",
+    "description": "soreness（ソアネス）は「（体の)痛み・ひりひり」という意味の名詞。筋肉や皮膚などが、さわったり動かしたりすると、ひりひり・ずきずきと痛む、その痛みや、痛む状態を指します。muscle soreness（筋肉痛)のように使います。sore（痛い・ひりひりする）＋ -ness（状態を表す名詞をつくる)が語源です。とくに、運動のあとの筋肉痛や、炎症・けが・使いすぎなどによる、局所的な（その部分の)鈍い痛み・ひりつきを表すのによく使われます。feel soreness in the legs（脚に痛みを感じる)のように使います。するどい激痛(pain)というより、ひりひり・じんじんとした、こわばりをともなう痛みのイメージです。ふつう不可算名詞です。",
+    "keywords": ["soreness 意味", "soreness 使い方", "痛み ひりひり 筋肉痛 英語", "sore 痛い"],
+    "meanings": [
+      { "hinshi": "【名】（体の）痛み、ひりひり、筋肉痛", "note": "さわったり動かしたりすると痛む、ひりつく感じ。muscle soreness。不可算。" },
+      { "hinshi": "【名】痛む状態・こわばり", "note": "sore（痛い・ひりひりする）＋ -ness。運動後の筋肉痛などに。" }
+    ],
+    "usages": [
+      { "title": "① 筋肉痛", "desc": "運動後。", "example_en": "muscle soreness", "example_ja": "筋肉痛" },
+      { "title": "② ひりひりした痛み", "desc": "体。", "example_en": "feel soreness in the legs", "example_ja": "脚に痛みを感じる" }
+    ],
+    "warn": ["『（体の)痛み・ひりひり（筋肉や皮膚などが、さわったり動かしたりすると、ひりひり・ずきずきと痛む、その痛みや、痛む状態）』。muscle soreness（筋肉痛）、feel soreness in the legs（脚に痛みを感じる）。とくに運動のあとの筋肉痛や、炎症・けが・使いすぎによる局所的な鈍い痛み・ひりつきに。するどい激痛〔pain〕より、ひりひり・じんじんした、こわばりをともなう痛みのイメージ。不可算。", "sore（痛い・ひりひりする）＋ -ness（状態を表す）。ache（うずき)と近い。"],
+    "etym_note": "sore（痛い・ひりひりする、古英語 sār）＋ -ness（状態を表す名詞をつくる）＝『痛む状態→痛み・ひりひり』に由来。運動後の筋肉痛などに使う。",
+    "etym_chain": [
+      { "node": "sore + -ness", "sub": "痛む状態", "era": "中英語" },
+      { "node": "soreness", "sub": "痛み・ひりひり", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "muscle soreness", "ja": "筋肉痛" },
+      { "en": "feel soreness in the legs", "ja": "脚に痛みを感じる" },
+      { "en": "ease the soreness", "ja": "痛みをやわらげる" },
+      { "en": "soreness after exercise", "ja": "運動後の痛み" },
+      { "en": "a slight soreness", "ja": "軽い痛み" },
+      { "en": "redness and soreness", "ja": "赤みとひりひりした痛み" }
+    ],
+    "related": [
+      { "en": "sore", "ja": "痛い、ひりひりする" },
+      { "en": "ache", "ja": "うずき、鈍い痛み" },
+      { "en": "pain", "ja": "痛み" },
+      { "en": "stiffness", "ja": "こわばり、こり" }
+    ],
+    "faq": [
+      { "q": "soreness の意味は？", "a": "『（体の）痛み・ひりひり』という意味です。筋肉や皮膚などが、さわったり動かしたりすると、ひりひり・ずきずきと痛む、その痛みや、痛む状態を指します。muscle soreness（筋肉痛）、feel soreness in the legs（脚に痛みを感じる）のように使います。sore（痛い・ひりひりする）＋ -ness（状態を表す）が語源です。" },
+      { "q": "pain との違いは？", "a": "pain は『痛み』全般を指す一般的な語で、するどい激痛もふくみます。soreness は、とくに、ひりひり・じんじんとした、こわばりをともなう、局所的な（その部分の）鈍い痛み・ひりつきのイメージです。とくに、運動のあとの筋肉痛や、炎症・けが・使いすぎなどによる痛みを表すのによく使われます。ache（うずき）、stiffness（こわばり）と近い意味です。" }
+    ],
+    "quiz": [
+      { "q": "muscle soreness の意味は？", "A": "筋肉痛（筋肉のひりひり・ずきずきする痛み）", "B": "筋肉の名前", "C": "筋力トレーニング", "D": "筋肉の量", "correct": "A" },
+      { "q": "soreness の形容詞 sore の意味は？", "A": "痛い、ひりひりする", "B": "うれしい", "C": "ねむい", "D": "空腹の", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sorrowful",
+    "pron": "ˈsɑːroʊfl",
+    "kana": "ソローフル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "sorrow（悲しみ）＋-ful（〜に満ちた）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "文語"],
+    "meaning_main": "悲しい・悲しげな・いたましい（深い悲しみに満ちた、またそれを表すようす）",
+    "description": "sorrowful（ソローフル）は「悲しい・悲しげな・いたましい」という意味の、ややかたい文語的な形容詞。深い悲しみに満ちている、またそれが表情・声・ようすににじみ出ているさまを表します。a sorrowful expression（悲しげな表情)のように使います。sorrow（悲しみ・悲嘆）＋ -ful（〜に満ちた)が語源です。ただの sad（悲しい)よりも、重く、深く、しみじみとした悲しみを表す、文学的な語です。人・表情・声・音楽・できごとなどについて使います。a sorrowful song（もの悲しい歌）、sorrowful news（いたましい知らせ)のように使います。喜ばしい joyful（喜びに満ちた)とは反対のイメージです。",
+    "keywords": ["sorrowful 意味", "sorrowful 使い方", "悲しい 悲しげな いたましい 英語", "sad 違い"],
+    "meanings": [
+      { "hinshi": "【形】悲しい、悲しげな、いたましい", "note": "深い悲しみに満ちた、またそれを表すようす。a sorrowful expression。かたい文語。" },
+      { "hinshi": "【形】もの悲しい", "note": "sorrow（悲しみ）＋ -ful。sad より重く深い。反対は joyful。" }
+    ],
+    "usages": [
+      { "title": "① 悲しげな", "desc": "表情。", "example_en": "a sorrowful expression", "example_ja": "悲しげな表情" },
+      { "title": "② もの悲しい", "desc": "歌など。", "example_en": "a sorrowful song", "example_ja": "もの悲しい歌" }
+    ],
+    "warn": ["『悲しい・悲しげな・いたましい（深い悲しみに満ちている、またそれが表情・声・ようすににじみ出ているさま）』のややかたい文語的な語。a sorrowful expression（悲しげな表情）、a sorrowful song（もの悲しい歌）、sorrowful news（いたましい知らせ）。ただの sad より、重く、深く、しみじみとした悲しみを表す文学的な語。喜ばしい joyful（喜びに満ちた）とは反対のイメージ。", "sorrow（悲しみ・悲嘆）＋ -ful（〜に満ちた）。sad より重い文語。"],
+    "etym_note": "sorrow（悲しみ・悲嘆、古英語 sorg）＋ -ful（〜に満ちた）＝『悲しみに満ちた→悲しい・悲しげな』に由来。sad より重く深い文語。反対は joyful。",
+    "etym_chain": [
+      { "node": "sorrow + -ful", "sub": "悲しみに満ちた", "era": "中英語" },
+      { "node": "sorrowful", "sub": "悲しい・悲しげな", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "a sorrowful expression", "ja": "悲しげな表情" },
+      { "en": "a sorrowful song", "ja": "もの悲しい歌" },
+      { "en": "sorrowful news", "ja": "いたましい知らせ" },
+      { "en": "sorrowful eyes", "ja": "悲しげな目" },
+      { "en": "a sorrowful farewell", "ja": "悲しい別れ" },
+      { "en": "look sorrowful", "ja": "悲しそうに見える" }
+    ],
+    "related": [
+      { "en": "sorrow", "ja": "悲しみ、悲嘆" },
+      { "en": "sad", "ja": "悲しい" },
+      { "en": "mournful", "ja": "悲しげな、哀悼の" },
+      { "en": "joyful", "ja": "喜びに満ちた（反対）" }
+    ],
+    "faq": [
+      { "q": "sorrowful の意味は？", "a": "『悲しい・悲しげな・いたましい』という意味の、ややかたい文語的な形容詞です。深い悲しみに満ちている、またそれが表情・声・ようすににじみ出ているさまを表します。a sorrowful expression（悲しげな表情）、a sorrowful song（もの悲しい歌）のように使います。sorrow（悲しみ）＋ -ful（〜に満ちた）が語源です。" },
+      { "q": "sad との違いは？", "a": "どちらも『悲しい』ですが、sad はもっとも一般的な日常語、sorrowful は、ただの sad よりも、重く、深く、しみじみとした悲しみを表す、文学的な語です。人・表情・声・音楽・できごとなどについて使います。mournful（悲しげな・哀悼の）と近く、喜ばしい joyful（喜びに満ちた）とは反対のイメージです。" }
+    ],
+    "quiz": [
+      { "q": "a sorrowful expression の意味は？", "A": "悲しげな表情", "B": "うれしそうな表情", "C": "おこった表情", "D": "おどろいた表情", "correct": "A" },
+      { "q": "sorrowful の反対のイメージの語は？", "A": "joyful（喜びに満ちた）", "B": "sad（悲しい）", "C": "mournful（悲しげな）", "D": "tearful（涙ぐんだ）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "soulbrother",
+    "pron": "ˈsoʊl brʌðər",
+    "kana": "ソウル・ブラザー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "soul（ソウル＝黒人文化）＋brother（兄弟・仲間）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文化"],
+    "meaning_main": "（米・くだけて）ソウルブラザー（黒人の男性どうしが、仲間・同胞として呼び合う言い方）（正しくは soul brother）",
+    "description": "soulbrother は、本来 soul brother と2語で書く語で、主にアメリカで、くだけて「ソウルブラザー」という意味です。黒人(アフリカ系アメリカ人)の男性どうしが、同じ文化・体験・ルーツを分かち合う、仲間・同胞(どうほう)として、親しみを込めて呼び合うときに使う言い方です。正しくは soul brother と2語で書きます。soul（ソウル＝アフリカ系アメリカ人の文化・精神・音楽を指す語）＋ brother（兄弟・仲間)が語源です。1960〜70年代の公民権運動や、ソウルミュージックの時代に広まった言い方で、連帯感やほこりを表します。女性どうしなら soul sister（ソウルシスター)と言います。文化的・歴史的な背景をもつ語です。可算名詞です。",
+    "keywords": ["soul brother 意味", "soulbrother 使い方", "ソウルブラザー 黒人 仲間 英語", "soul sister"],
+    "meanings": [
+      { "hinshi": "【名】（米・くだけて）ソウルブラザー", "note": "黒人男性どうしが仲間・同胞として呼び合う言い方。正しくは soul brother。可算。" },
+      { "hinshi": "【名】同胞としての仲間", "note": "soul（黒人文化）＋ brother（兄弟・仲間）。女性は soul sister。" }
+    ],
+    "usages": [
+      { "title": "① ソウルブラザー", "desc": "米・文化。", "example_en": "Hey, soul brother!", "example_ja": "よう、ブラザー！" },
+      { "title": "② 同胞・仲間", "desc": "連帯。", "example_en": "we're soul brothers", "example_ja": "おれたちは同胞だ" }
+    ],
+    "warn": ["正しくは soul brother と2語で書く。『（米・くだけて)ソウルブラザー（黒人〔アフリカ系アメリカ人〕の男性どうしが、同じ文化・体験・ルーツを分かち合う、仲間・同胞〔どうほう〕として、親しみを込めて呼び合うときに使う言い方）』。1960〜70年代の公民権運動やソウルミュージックの時代に広まり、連帯感やほこりを表す。女性どうしなら soul sister。文化的・歴史的背景をもつ語。可算。", "soul（ソウル＝アフリカ系アメリカ人の文化・精神・音楽）＋ brother（兄弟・仲間）。女性は soul sister。"],
+    "etym_note": "soul（ソウル＝アフリカ系アメリカ人の文化・精神・音楽を指す語）＋ brother（兄弟・仲間）＝『文化を分かち合う仲間』に由来。1960〜70年代に広まった。女性は soul sister。正しくは soul brother。",
+    "etym_chain": [
+      { "node": "soul + brother", "sub": "文化を分かち合う仲間", "era": "20世紀" },
+      { "node": "soul brother", "sub": "ソウルブラザー", "era": "1960年代" }
+    ],
+    "phrases": [
+      { "en": "Hey, soul brother!", "ja": "よう、ブラザー！" },
+      { "en": "we're soul brothers", "ja": "おれたちは同胞だ" },
+      { "en": "a true soul brother", "ja": "真の仲間" },
+      { "en": "greet a soul brother", "ja": "仲間にあいさつする" },
+      { "en": "soul brothers and sisters", "ja": "ソウルブラザーとソウルシスター" },
+      { "en": "like a soul brother", "ja": "同胞のように" }
+    ],
+    "related": [
+      { "en": "soul sister", "ja": "ソウルシスター（女性の同胞）" },
+      { "en": "soul", "ja": "魂、ソウル（黒人文化・音楽）" },
+      { "en": "brother", "ja": "兄弟、仲間" },
+      { "en": "comrade", "ja": "同志、仲間" }
+    ],
+    "faq": [
+      { "q": "soul brother の意味は？", "a": "主にアメリカで、くだけて『ソウルブラザー』という意味です。黒人（アフリカ系アメリカ人）の男性どうしが、同じ文化・体験・ルーツを分かち合う、仲間・同胞（どうほう）として、親しみを込めて呼び合うときに使う言い方です。正しくは soul brother と2語で書きます。" },
+      { "q": "どんな背景がある語？", "a": "soul（ソウル＝アフリカ系アメリカ人の文化・精神・音楽を指す語）＋ brother（兄弟・仲間）が語源です。1960〜70年代の公民権運動や、ソウルミュージックの時代に広まった言い方で、連帯感やほこりを表します。女性どうしなら soul sister（ソウルシスター）と言います。文化的・歴史的な背景をもつ語です。" }
+    ],
+    "quiz": [
+      { "q": "（米）soul brother の意味は？", "A": "黒人男性どうしが仲間・同胞として呼び合う言い方", "B": "本当の血のつながった兄", "C": "教会の牧師", "D": "音楽の先生", "correct": "A" },
+      { "q": "soul brother の女性版は？", "A": "soul sister", "B": "soul mother", "C": "soul friend", "D": "soul lady", "correct": "A" }
+    ]
+  },
+  {
+    "english": "soulmusic",
+    "pron": "ˈsoʊl mjuːzɪk",
+    "kana": "ソウル・ミュージック",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "soul（ソウル）＋music（音楽）",
+    "ld_level": "1級",
+    "badges": ["中学生〜", "英検1級", "CEFR B1", "文化"],
+    "meaning_main": "ソウルミュージック（アフリカ系アメリカ人のゴスペルやR&Bから生まれた、感情豊かな音楽のジャンル）（正しくは soul music）",
+    "description": "soulmusic は、本来 soul music と2語で書く語で「ソウルミュージック」という意味です。1950〜60年代のアメリカで、アフリカ系アメリカ人の教会音楽であるゴスペルや、リズム・アンド・ブルース(R&B)から生まれた、感情のこもった、力強く情熱的な音楽のジャンルを指します。listen to soul music（ソウルミュージックを聴く)のように使います。正しくは soul music と2語で書きます。soul（魂・ソウル＝アフリカ系アメリカ人の文化・精神)＋ music（音楽)が語源です。心の底(魂)に訴えかける、歌声の表現力ゆたかなところが特徴で、アレサ・フランクリンやレイ・チャールズなどが知られます。単に soul だけでもこのジャンルを指します。ふつう不可算名詞です。",
+    "keywords": ["soul music 意味", "soulmusic 使い方", "ソウルミュージック 英語", "ゴスペル R&B 音楽ジャンル"],
+    "meanings": [
+      { "hinshi": "【名】ソウルミュージック", "note": "ゴスペルやR&Bから生まれた感情豊かな音楽のジャンル。listen to soul music。正しくは soul music。不可算。" },
+      { "hinshi": "【名】ソウル（音楽ジャンル）", "note": "soul（魂・黒人文化）＋ music。単に soul だけでも指す。" }
+    ],
+    "usages": [
+      { "title": "① ソウルミュージック", "desc": "音楽。", "example_en": "listen to soul music", "example_ja": "ソウルミュージックを聴く" },
+      { "title": "② ソウル（ジャンル）", "desc": "文化。", "example_en": "a soul music classic", "example_ja": "ソウルの名曲" }
+    ],
+    "warn": ["正しくは soul music と2語で書く。『ソウルミュージック（1950〜60年代のアメリカで、アフリカ系アメリカ人の教会音楽ゴスペルや、リズム・アンド・ブルース〔R&B〕から生まれた、感情のこもった、力強く情熱的な音楽のジャンル）』。listen to soul music（ソウルミュージックを聴く）。心の底〔魂〕に訴えかける、歌声の表現力ゆたかなところが特徴。単に soul だけでもこのジャンルを指す。不可算。", "soul（魂・ソウル＝アフリカ系アメリカ人の文化・精神）＋ music（音楽）。アレサ・フランクリンらが有名。"],
+    "etym_note": "soul（魂・ソウル＝アフリカ系アメリカ人の文化・精神）＋ music（音楽）＝『魂に訴える音楽』に由来。ゴスペルやR&Bから生まれたジャンル。単に soul だけでも指す。正しくは soul music。",
+    "etym_chain": [
+      { "node": "soul + music", "sub": "魂の音楽", "era": "20世紀" },
+      { "node": "soul music", "sub": "ソウルミュージック", "era": "1950年代" }
+    ],
+    "phrases": [
+      { "en": "listen to soul music", "ja": "ソウルミュージックを聴く" },
+      { "en": "a soul music classic", "ja": "ソウルの名曲" },
+      { "en": "classic soul music", "ja": "古き良きソウルミュージック" },
+      { "en": "the history of soul music", "ja": "ソウルミュージックの歴史" },
+      { "en": "love soul music", "ja": "ソウルミュージックが大好きだ" },
+      { "en": "a soul singer", "ja": "ソウルシンガー" }
+    ],
+    "related": [
+      { "en": "soul", "ja": "魂、ソウル（音楽ジャンル）" },
+      { "en": "gospel", "ja": "ゴスペル（教会音楽）" },
+      { "en": "blues", "ja": "ブルース" },
+      { "en": "rhythm and blues", "ja": "リズム・アンド・ブルース（R&B）" }
+    ],
+    "faq": [
+      { "q": "soul music の意味は？", "a": "『ソウルミュージック』という意味です。1950〜60年代のアメリカで、アフリカ系アメリカ人の教会音楽であるゴスペルや、リズム・アンド・ブルース（R&B）から生まれた、感情のこもった、力強く情熱的な音楽のジャンルを指します。listen to soul music（ソウルミュージックを聴く）のように使います。正しくは soul music と2語で書きます。" },
+      { "q": "どんな特徴がある？", "a": "soul（魂・ソウル＝アフリカ系アメリカ人の文化・精神）＋ music（音楽）が語源で、心の底（魂）に訴えかける、歌声の表現力ゆたかなところが特徴です。アレサ・フランクリンやレイ・チャールズなどが知られます。ゴスペルやブルース、R&B と深いつながりがあり、単に soul だけでもこのジャンルを指します。" }
+    ],
+    "quiz": [
+      { "q": "soul music の意味は？", "A": "ゴスペルやR&Bから生まれた感情豊かな音楽ジャンル（ソウル）", "B": "クラシック音楽", "C": "行進曲", "D": "子守歌", "correct": "A" },
+      { "q": "soul music のもとになった教会音楽は？", "A": "gospel（ゴスペル）", "B": "opera（オペラ）", "C": "techno（テクノ）", "D": "waltz（ワルツ）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "southamerica",
+    "pron": "ˌsaʊθ əˈmerɪkə",
+    "kana": "サウス・アメリカ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "south（南）＋America（アメリカ大陸）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "固有名詞"],
+    "meaning_main": "南アメリカ・南米（ブラジル・アルゼンチンなどがある大陸。固有名詞なので大文字で South America と書く）",
+    "description": "southamerica は、本来 South America と2語・大文字で書く固有名詞で「南アメリカ・南米」という意味です。見出し語は小文字ですが、実際には大文字で、2語に分けて South America と書きます。地球の西半球の南側にある大陸で、ブラジル・アルゼンチン・ペルー・チリ・コロンビアなどの国々があります。travel to South America（南アメリカへ旅行する)のように使います。south（南）＋ America（アメリカ大陸)が語源です。北アメリカ(North America)とは、中央アメリカ(パナマ地峡など)でつながっています。アマゾン川の熱帯雨林、アンデス山脈などの雄大な自然で知られ、多くの国でスペイン語やポルトガル語が話されます。ラテンアメリカ(Latin America)の大部分をふくみます。固有名詞なので大文字で書きます。",
+    "keywords": ["South America 意味", "southamerica 使い方", "南アメリカ 南米 英語", "大陸 ブラジル 英語"],
+    "meanings": [
+      { "hinshi": "【名】南アメリカ、南米", "note": "ブラジル・アルゼンチンなどがある大陸。正しくは大文字で South America。" },
+      { "hinshi": "【名】南アメリカ大陸", "note": "south（南）＋ America。北アメリカ（North America）と対。" }
+    ],
+    "usages": [
+      { "title": "① 南アメリカ", "desc": "地名。", "example_en": "travel to South America", "example_ja": "南アメリカへ旅行する" },
+      { "title": "② 南米大陸", "desc": "大陸。", "example_en": "the countries of South America", "example_ja": "南アメリカの国々" }
+    ],
+    "warn": ["固有名詞なので実際には大文字で、2語に分けて South America と書く（見出し語は小文字だが要注意）。『南アメリカ・南米（地球の西半球の南側にある大陸で、ブラジル・アルゼンチン・ペルー・チリ・コロンビアなどの国々がある）』。travel to South America（南アメリカへ旅行する）。北アメリカ（North America）と中央アメリカ（パナマ地峡など）でつながる。アマゾン川の熱帯雨林、アンデス山脈で知られ、多くの国でスペイン語やポルトガル語が話される。", "south（南）＋ America（アメリカ大陸）。North America（北アメリカ）と対。Latin America の大部分。"],
+    "etym_note": "south（南）＋ America（アメリカ大陸、探検家アメリゴ・ベスプッチの名に由来）＝『南のアメリカ大陸→南アメリカ』。North America（北アメリカ）と対。固有名詞で大文字の South America。",
+    "etym_chain": [
+      { "node": "south + America", "sub": "南のアメリカ大陸", "era": "近代英語" },
+      { "node": "South America", "sub": "南アメリカ・南米", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "travel to South America", "ja": "南アメリカへ旅行する" },
+      { "en": "the countries of South America", "ja": "南アメリカの国々" },
+      { "en": "live in South America", "ja": "南アメリカに住む" },
+      { "en": "South America and Africa", "ja": "南アメリカとアフリカ" },
+      { "en": "the largest country in South America", "ja": "南アメリカで最大の国" },
+      { "en": "native to South America", "ja": "南アメリカ原産の" }
+    ],
+    "related": [
+      { "en": "north america", "ja": "北アメリカ（大文字 North America）" },
+      { "en": "brazil", "ja": "ブラジル（大文字 Brazil）" },
+      { "en": "continent", "ja": "大陸" },
+      { "en": "latin america", "ja": "ラテンアメリカ（大文字 Latin America）" }
+    ],
+    "faq": [
+      { "q": "South America とは？", "a": "『南アメリカ・南米』という意味の、大陸の名前です。地球の西半球の南側にある大陸で、ブラジル・アルゼンチン・ペルー・チリ・コロンビアなどの国々があります。travel to South America（南アメリカへ旅行する）のように使います。固有名詞なので、実際には大文字で、2語に分けて South America と書きます。" },
+      { "q": "どんな大陸？", "a": "south（南）＋ America（アメリカ大陸）が語源です。北アメリカ（North America）とは、中央アメリカ（パナマ地峡など）でつながっています。アマゾン川の熱帯雨林、アンデス山脈などの雄大な自然で知られ、多くの国でスペイン語やポルトガル語が話されます。ラテンアメリカ（Latin America）の大部分をふくみます。" }
+    ],
+    "quiz": [
+      { "q": "South America とは？", "A": "ブラジル・アルゼンチンなどがある南アメリカ大陸", "B": "ヨーロッパの国", "C": "アフリカの砂漠", "D": "太平洋の島", "correct": "A" },
+      { "q": "South America とつながっている大陸は？", "A": "North America（北アメリカ）", "B": "Australia（オーストラリア）", "C": "Antarctica（南極）", "D": "Europe（ヨーロッパ）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "southeast",
+    "pron": "ˌsaʊθˈiːst",
+    "kana": "サウスイースト",
+    "hinshi": "名詞 / 形容詞 / 副詞",
+    "ld_pos": "名詞",
+    "ld_etym": "south（南）＋east（東）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "日常"],
+    "meaning_main": "南東（なんとう）・南東の・南東へ（南と東のちょうど中間の方角）",
+    "description": "southeast（サウスイースト）は「南東(なんとう)」という意味の語。南と東のちょうど中間の方角を指します。SE と略します。to the southeast（南東に)のように使います。south（南）＋ east（東)が語源です。名詞で「南東（の方角・地域)」、形容詞で「南東の・南東向きの」、副詞で「南東へ・南東に」と、いろいろな品詞で使います。the southeast of the country（その国の南東部）、a southeast wind（南東の風）、travel southeast（南東へ進む)のように使います。方角は、北(north)・南(south)・東(east)・西(west)を基本に、その中間が northeast（北東）・southeast（南東）・southwest（南西）・northwest（北西)です。日常・地理・天気でよく使う語です。",
+    "keywords": ["southeast 意味", "southeast 使い方", "南東 方角 英語", "SE 方位 英語"],
+    "meanings": [
+      { "hinshi": "【名】南東（なんとう）", "note": "南と東のちょうど中間の方角。SE。to the southeast。" },
+      { "hinshi": "【形・副】南東の／南東へ", "note": "a southeast wind（南東の風）、travel southeast。south（南）＋ east（東）。" }
+    ],
+    "usages": [
+      { "title": "① 南東（方角）", "desc": "方位。", "example_en": "to the southeast", "example_ja": "南東に" },
+      { "title": "② 南東の／南東へ", "desc": "形容詞・副詞。", "example_en": "a southeast wind", "example_ja": "南東の風" }
+    ],
+    "warn": ["『南東〔なんとう〕（南と東のちょうど中間の方角）』。SE と略す。名詞『南東（の方角・地域）』the southeast of the country、形容詞『南東の・南東向きの』a southeast wind（南東の風）、副詞『南東へ・南東に』travel southeast。方角は north・south・east・west を基本に、その中間が northeast（北東）・southeast（南東）・southwest（南西）・northwest（北西）。日常・地理・天気でよく使う。", "south（南）＋ east（東）。northeast（北東)などの仲間。"],
+    "etym_note": "south（南）＋ east（東）＝『南と東の中間→南東』に由来。SE と略す。northeast（北東）・southwest（南西）・northwest（北西）の仲間。",
+    "etym_chain": [
+      { "node": "south + east", "sub": "南と東の中間", "era": "古英語" },
+      { "node": "southeast", "sub": "南東", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "to the southeast", "ja": "南東に" },
+      { "en": "a southeast wind", "ja": "南東の風" },
+      { "en": "the southeast of the country", "ja": "その国の南東部" },
+      { "en": "travel southeast", "ja": "南東へ進む" },
+      { "en": "face southeast", "ja": "南東を向く" },
+      { "en": "Southeast Asia", "ja": "東南アジア" }
+    ],
+    "related": [
+      { "en": "southwest", "ja": "南西" },
+      { "en": "northeast", "ja": "北東" },
+      { "en": "south", "ja": "南" },
+      { "en": "east", "ja": "東" }
+    ],
+    "faq": [
+      { "q": "southeast の意味は？", "a": "『南東（なんとう）』という意味です。南と東のちょうど中間の方角を指します。SE と略します。名詞で『南東（の方角・地域）』、形容詞で『南東の・南東向きの』、副詞で『南東へ・南東に』と、いろいろな品詞で使います。to the southeast（南東に）、a southeast wind（南東の風）、travel southeast（南東へ進む）のように使います。" },
+      { "q": "ほかの中間の方角は？", "a": "方角は、北（north）・南（south）・東（east）・西（west）を基本に、その中間が northeast（北東）・southeast（南東）・southwest（南西）・northwest（北西）です。south（南）＋ east（東）の成り立ちで、日常・地理・天気でよく使います。Southeast Asia は『東南アジア』です。" }
+    ],
+    "quiz": [
+      { "q": "southeast の意味は？", "A": "南と東の中間の方角（南東）", "B": "北と西の中間", "C": "まっすぐ北", "D": "まっすぐ西", "correct": "A" },
+      { "q": "southeast の成り立ちは？", "A": "south（南）＋ east（東）", "B": "south（南）＋ west（西）", "C": "north（北）＋ east（東）", "D": "sun（太陽）＋ east（東）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "southeastern",
+    "pron": "ˌsaʊθˈiːstərn",
+    "kana": "サウスイースタン",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "southeast（南東）＋-ern",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "日常"],
+    "meaning_main": "南東の・南東部の・南東地方の（ある地域の南東の部分にある、または南東に向いた）",
+    "description": "southeastern（サウスイースタン）は「南東の・南東部の・南東地方の」という意味の形容詞。ある国や地域の、南東の部分にある、または南東に位置する・南東に向いていることを表します。the southeastern United States（アメリカの南東部)のように使います。southeast（南東）＋ -ern（方角を表す形容詞をつくる)が語源です。おもに地名・地域について使い、southeastern は「南東部の」という地域を表すのに、southeast は方角そのものを表すのによく使われます。northern（北の）、southern（南の）、eastern（東の）、western（西の)などと同じく、-ern がついて方角の形容詞になっています。southeastern Asia（東南アジアの)のようにも使います。地理の話でよく使う語です。",
+    "keywords": ["southeastern 意味", "southeastern 使い方", "南東の 南東部の 英語", "southeast 違い"],
+    "meanings": [
+      { "hinshi": "【形】南東の、南東部の、南東地方の", "note": "ある地域の南東の部分にある、南東に向いた。the southeastern United States。" },
+      { "hinshi": "【形】南東に位置する", "note": "southeast（南東）＋ -ern。northern / southern などの仲間。" }
+    ],
+    "usages": [
+      { "title": "① 南東部の", "desc": "地域。", "example_en": "the southeastern United States", "example_ja": "アメリカの南東部" },
+      { "title": "② 南東地方の", "desc": "地名。", "example_en": "southeastern Asia", "example_ja": "東南アジアの" }
+    ],
+    "warn": ["『南東の・南東部の・南東地方の（ある国や地域の、南東の部分にある、または南東に位置する・南東に向いている）』。the southeastern United States（アメリカの南東部）。おもに地名・地域について使い、southeastern は『南東部の』という地域を、southeast は方角そのものを表すのによく使う。northern（北の）、southern（南の）、eastern（東の）、western（西の）などと同じく -ern がついて方角の形容詞に。地理の話で使う。", "southeast（南東）＋ -ern（方角を表す形容詞をつくる）。southern / eastern などの仲間。"],
+    "etym_note": "southeast（南東）＋ -ern（方角を表す形容詞をつくる）＝『南東の・南東部の』に由来。northern / southern / eastern / western と同じく -ern 形。",
+    "etym_chain": [
+      { "node": "southeast + -ern", "sub": "南東の", "era": "中英語" },
+      { "node": "southeastern", "sub": "南東の・南東部の", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "the southeastern United States", "ja": "アメリカの南東部" },
+      { "en": "southeastern Asia", "ja": "東南アジアの" },
+      { "en": "a southeastern region", "ja": "南東部の地域" },
+      { "en": "the southeastern coast", "ja": "南東の海岸" },
+      { "en": "southeastern Europe", "ja": "南東ヨーロッパの" },
+      { "en": "a southeastern state", "ja": "南東部の州" }
+    ],
+    "related": [
+      { "en": "southeast", "ja": "南東" },
+      { "en": "southern", "ja": "南の、南部の" },
+      { "en": "eastern", "ja": "東の、東部の" },
+      { "en": "southwestern", "ja": "南西の、南西部の" }
+    ],
+    "faq": [
+      { "q": "southeastern の意味は？", "a": "『南東の・南東部の・南東地方の』という意味の形容詞です。ある国や地域の、南東の部分にある、または南東に位置する・南東に向いていることを表します。the southeastern United States（アメリカの南東部）のように使います。southeast（南東）＋ -ern（方角を表す形容詞をつくる）が語源です。" },
+      { "q": "southeast との違いは？", "a": "southeastern は『南東部の』という地域を表す形容詞として、southeast は『南東』という方角そのものを表すのによく使われます。northern（北の）、southern（南の）、eastern（東の）、western（西の）などと同じく、-ern がついて方角の形容詞になっています。southeastern Asia（東南アジアの）のように地理の話でよく使います。" }
+    ],
+    "quiz": [
+      { "q": "the southeastern United States の意味は？", "A": "アメリカの南東部", "B": "アメリカの北西部", "C": "アメリカ全体", "D": "アメリカの中央部", "correct": "A" },
+      { "q": "southeastern の成り立ちは？", "A": "southeast（南東）＋ -ern（方角の形容詞）", "B": "south（南）＋ western（西の）", "C": "sea（海）＋ eastern（東の）", "D": "sun（太陽）＋ eastern", "correct": "A" }
+    ]
+  },
+  {
+    "english": "southkorea",
+    "pron": "ˌsaʊθ kəˈriːə",
+    "kana": "サウス・コリア",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "south（南）＋Korea（朝鮮）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "固有名詞"],
+    "meaning_main": "韓国・大韓民国（朝鮮半島の南側にある国。固有名詞なので大文字で South Korea と書く）",
+    "description": "southkorea は、本来 South Korea と2語・大文字で書く固有名詞で「韓国・大韓民国(だいかんみんこく)」という意味です。見出し語は小文字ですが、実際には大文字で、2語に分けて South Korea と書きます。東アジアの朝鮮半島の南側にある国で、首都はソウル(Seoul)です。visit South Korea（韓国を訪れる)のように使います。south（南）＋ Korea（朝鮮・コリア)が語源です。朝鮮半島は、北側の North Korea（北朝鮮)と、南側の South Korea（韓国)に分かれています。正式には the Republic of Korea（大韓民国)と言います。日本の隣国で、K-POPやドラマ、キムチなどの食文化、ハングルという文字でも知られます。固有名詞なので大文字で書きます。",
+    "keywords": ["South Korea 意味", "southkorea 使い方", "韓国 大韓民国 英語", "North Korea ソウル"],
+    "meanings": [
+      { "hinshi": "【名】韓国、大韓民国", "note": "朝鮮半島の南側にある国。首都はソウル。正しくは大文字で South Korea。" },
+      { "hinshi": "【名】大韓民国（the Republic of Korea）", "note": "south（南）＋ Korea。北側は North Korea（北朝鮮）。" }
+    ],
+    "usages": [
+      { "title": "① 韓国", "desc": "地名。", "example_en": "visit South Korea", "example_ja": "韓国を訪れる" },
+      { "title": "② 大韓民国", "desc": "国名。", "example_en": "the capital of South Korea", "example_ja": "韓国の首都" }
+    ],
+    "warn": ["固有名詞なので実際には大文字で、2語に分けて South Korea と書く（見出し語は小文字だが要注意）。『韓国・大韓民国〔だいかんみんこく〕（東アジアの朝鮮半島の南側にある国。首都はソウル〔Seoul〕）』。visit South Korea（韓国を訪れる）。朝鮮半島は、北側の North Korea（北朝鮮）と、南側の South Korea（韓国）に分かれる。正式には the Republic of Korea。日本の隣国で、K-POPやドラマ、食文化、ハングルでも知られる。", "south（南）＋ Korea（朝鮮・コリア）。North Korea（北朝鮮）と対。正式名は the Republic of Korea。"],
+    "etym_note": "south（南）＋ Korea（朝鮮・コリア、高麗〔こうらい・コリョ〕に由来）＝『南の朝鮮→韓国』。朝鮮半島は North Korea（北朝鮮）と South Korea（韓国）に分かれる。正式名は the Republic of Korea。固有名詞で大文字。",
+    "etym_chain": [
+      { "node": "south + Korea", "sub": "南の朝鮮", "era": "20世紀" },
+      { "node": "South Korea", "sub": "韓国・大韓民国", "era": "1948年〜" }
+    ],
+    "phrases": [
+      { "en": "visit South Korea", "ja": "韓国を訪れる" },
+      { "en": "the capital of South Korea", "ja": "韓国の首都（ソウル）" },
+      { "en": "live in South Korea", "ja": "韓国に住む" },
+      { "en": "South Korea and Japan", "ja": "韓国と日本" },
+      { "en": "made in South Korea", "ja": "韓国製の" },
+      { "en": "North and South Korea", "ja": "北朝鮮と韓国" }
+    ],
+    "related": [
+      { "en": "north korea", "ja": "北朝鮮（大文字 North Korea）" },
+      { "en": "korea", "ja": "朝鮮、コリア（大文字 Korea）" },
+      { "en": "seoul", "ja": "ソウル（韓国の首都、大文字 Seoul）" },
+      { "en": "japan", "ja": "日本（大文字 Japan）" }
+    ],
+    "faq": [
+      { "q": "South Korea とは？", "a": "『韓国・大韓民国』という意味の、国の名前です。東アジアの朝鮮半島の南側にある国で、首都はソウル（Seoul）です。visit South Korea（韓国を訪れる）のように使います。固有名詞なので、実際には大文字で、2語に分けて South Korea と書きます。正式には the Republic of Korea（大韓民国）と言います。" },
+      { "q": "North Korea との関係は？", "a": "朝鮮半島は、北側の North Korea（北朝鮮）と、南側の South Korea（韓国）に分かれています。south（南）＋ Korea（朝鮮・コリア）が語源です。韓国は日本の隣国で、K-POPやドラマ、キムチなどの食文化、ハングルという文字でも知られます。North and South Korea（北朝鮮と韓国）のように言います。" }
+    ],
+    "quiz": [
+      { "q": "South Korea とは？", "A": "朝鮮半島の南側にある国（韓国・大韓民国）", "B": "ヨーロッパの国", "C": "アフリカの国", "D": "南アメリカの国", "correct": "A" },
+      { "q": "South Korea の首都は？", "A": "Seoul（ソウル）", "B": "Tokyo（東京）", "C": "Beijing（北京）", "D": "Bangkok（バンコク）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "southpole",
+    "pron": "ˌsaʊθ ˈpoʊl",
+    "kana": "サウス・ポール",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "south（南）＋pole（極）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "専門"],
+    "meaning_main": "南極・南極点（地球のいちばん南のはし。地軸の南のはしの点）（正しくは the South Pole）",
+    "description": "southpole は、本来 the South Pole と2語・大文字で、ふつう the をつけて書く語で「南極・南極点」という意味です。見出し語は小文字ですが、実際には大文字で South Pole と書きます。地球を回転させる軸(地軸)の、南のいちばんはしの点で、地球上でもっとも南にある地点を指します。reach the South Pole（南極点に到達する)のように使います。south（南）＋ pole（（地軸の)極)が語源です。南極点は、南極大陸(Antarctica)の上にあり、一年じゅう氷と雪におおわれた、とても寒い場所です。地球の反対のはし、北のいちばんはしは the North Pole（北極・北極点)です。探検家が到達をめざしたことでも知られます。磁石の南の極(S極)を指すこともあります。",
+    "keywords": ["South Pole 意味", "southpole 使い方", "南極 南極点 英語", "North Pole 南極大陸"],
+    "meanings": [
+      { "hinshi": "【名】南極、南極点", "note": "地軸の南のはしの点。地球上でもっとも南。正しくは the South Pole。" },
+      { "hinshi": "【名】（磁石の）S極", "note": "south（南）＋ pole（極）。反対は the North Pole（北極）。" }
+    ],
+    "usages": [
+      { "title": "① 南極点", "desc": "地理。", "example_en": "reach the South Pole", "example_ja": "南極点に到達する" },
+      { "title": "② 南極", "desc": "地球。", "example_en": "an expedition to the South Pole", "example_ja": "南極への探検" }
+    ],
+    "warn": ["固有名詞的に、実際には大文字で、2語に分けて、ふつう the をつけて the South Pole と書く（見出し語は小文字だが要注意）。『南極・南極点（地球を回転させる軸〔地軸〕の、南のいちばんはしの点で、地球上でもっとも南にある地点）』。reach the South Pole（南極点に到達する）。南極点は南極大陸〔Antarctica〕の上にあり、一年じゅう氷と雪におおわれた、とても寒い場所。反対のはしは the North Pole（北極・北極点）。磁石のS極を指すことも。", "south（南）＋ pole（（地軸の)極）。the North Pole（北極）と対。南極大陸は Antarctica。"],
+    "etym_note": "south（南）＋ pole（（地軸の)極）＝『地軸の南のはし→南極点』に由来。the North Pole（北極）と対。南極点がある大陸は Antarctica（南極大陸）。ふつう the South Pole。",
+    "etym_chain": [
+      { "node": "south + pole", "sub": "南の極", "era": "近代英語" },
+      { "node": "the South Pole", "sub": "南極・南極点", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "reach the South Pole", "ja": "南極点に到達する" },
+      { "en": "an expedition to the South Pole", "ja": "南極への探検" },
+      { "en": "at the South Pole", "ja": "南極点で" },
+      { "en": "the first to reach the South Pole", "ja": "南極点に初めて到達した人" },
+      { "en": "the North and South Poles", "ja": "北極と南極" },
+      { "en": "ice at the South Pole", "ja": "南極点の氷" }
+    ],
+    "related": [
+      { "en": "north pole", "ja": "北極、北極点（大文字 North Pole）" },
+      { "en": "antarctica", "ja": "南極大陸（大文字 Antarctica）" },
+      { "en": "pole", "ja": "極（地軸・磁石の）" },
+      { "en": "arctic", "ja": "北極（地方）の" }
+    ],
+    "faq": [
+      { "q": "the South Pole の意味は？", "a": "『南極・南極点』という意味です。地球を回転させる軸（地軸）の、南のいちばんはしの点で、地球上でもっとも南にある地点を指します。reach the South Pole（南極点に到達する）のように使います。固有名詞的に、実際には大文字で、2語に分けて、ふつう the をつけて the South Pole と書きます。" },
+      { "q": "南極大陸（Antarctica）との違いは？", "a": "the South Pole（南極点）は、地軸の南のはしの『点』を指し、Antarctica（南極大陸）は、その南極点がある『大陸』全体を指します。南極点は、一年じゅう氷と雪におおわれた、とても寒い場所です。地球の反対のはし、北のいちばんはしは the North Pole（北極・北極点）です。south（南）＋ pole（極）の成り立ちで、磁石の南の極（S極）を指すこともあります。" }
+    ],
+    "quiz": [
+      { "q": "the South Pole の意味は？", "A": "地球のいちばん南のはし（南極点）", "B": "赤道", "C": "高い山の頂上", "D": "海の底", "correct": "A" },
+      { "q": "the South Pole の反対のはしは？", "A": "the North Pole（北極・北極点）", "B": "the equator（赤道）", "C": "the Sahara（サハラ砂漠）", "D": "the Alps（アルプス）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "south-southeast",
+    "pron": "ˌsaʊθ ˌsaʊθˈiːst",
+    "kana": "サウス・サウスイースト",
+    "hinshi": "名詞 / 形容詞 / 副詞",
+    "ld_pos": "名詞",
+    "ld_etym": "south（南）＋southeast（南東）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "専門"],
+    "meaning_main": "南南東（なんなんとう）（南と南東のちょうど中間の方角。16方位の一つ）",
+    "description": "south-southeast（サウス・サウスイースト）は「南南東(なんなんとう)」という意味の語。南(south)と南東(southeast)の、ちょうど中間の方角を指します。SSE と略します。the wind blew from the south-southeast（風は南南東から吹いた)のように使います。south（南）＋ southeast（南東)を合わせた語で、ハイフンでつないで書きます。方角をより細かく表す「16方位」の一つで、北・南・東・西の4方位、その中間の北東・南東・南西・北西の8方位、さらにその中間を分けたものが16方位です。south-southeast は、ちょうど南(180度)と南東(135度)の間の、約157.5度の方角です。おもに航海・気象・測量など、方角を細かく言う必要があるときに使われます。名詞・形容詞・副詞で使います。",
+    "keywords": ["south-southeast 意味", "south-southeast 使い方", "南南東 16方位 英語", "SSE 方角 英語"],
+    "meanings": [
+      { "hinshi": "【名】南南東（なんなんとう）", "note": "南と南東のちょうど中間の方角。16方位の一つ。SSE。約157.5度。" },
+      { "hinshi": "【形・副】南南東の／南南東へ", "note": "south（南）＋ southeast（南東）。ハイフンでつなぐ。航海・気象で使う。" }
+    ],
+    "usages": [
+      { "title": "① 南南東（方角）", "desc": "方位。", "example_en": "from the south-southeast", "example_ja": "南南東から" },
+      { "title": "② 南南東へ", "desc": "航海・気象。", "example_en": "head south-southeast", "example_ja": "南南東へ進む" }
+    ],
+    "warn": ["『南南東〔なんなんとう〕（南〔south〕と南東〔southeast〕の、ちょうど中間の方角）』。SSE と略す。south（南）＋ southeast（南東）を合わせ、ハイフンでつないで書く。方角を細かく表す『16方位』の一つで、ちょうど南〔180度〕と南東〔135度〕の間の、約157.5度の方角。おもに航海・気象・測量など、方角を細かく言う必要があるときに使う。名詞・形容詞・副詞。", "south（南）＋ southeast（南東）。16方位の一つ。south-southwest（南南西)などの仲間。"],
+    "etym_note": "south（南）＋ southeast（南東）＝『南と南東の中間→南南東』に由来。16方位の一つで約157.5度。SSE と略す。航海・気象で使う。",
+    "etym_chain": [
+      { "node": "south + southeast", "sub": "南と南東の中間", "era": "近代英語" },
+      { "node": "south-southeast", "sub": "南南東", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "from the south-southeast", "ja": "南南東から" },
+      { "en": "head south-southeast", "ja": "南南東へ進む" },
+      { "en": "a south-southeast wind", "ja": "南南東の風" },
+      { "en": "winds from the south-southeast", "ja": "南南東からの風" },
+      { "en": "sail south-southeast", "ja": "南南東へ航行する" },
+      { "en": "abbreviated as SSE", "ja": "SSE と略される" }
+    ],
+    "related": [
+      { "en": "southeast", "ja": "南東" },
+      { "en": "south-southwest", "ja": "南南西" },
+      { "en": "south", "ja": "南" },
+      { "en": "compass", "ja": "方位磁石、コンパス" }
+    ],
+    "faq": [
+      { "q": "south-southeast の意味は？", "a": "『南南東（なんなんとう）』という意味です。南（south）と南東（southeast）の、ちょうど中間の方角を指します。SSE と略します。the wind blew from the south-southeast（風は南南東から吹いた）のように使います。south（南）＋ southeast（南東）を合わせた語で、ハイフンでつないで書きます。" },
+      { "q": "16方位とは？", "a": "方角をより細かく表すしくみです。北・南・東・西の4方位、その中間の北東・南東・南西・北西の8方位、さらにその中間を分けたものが16方位です。south-southeast は、ちょうど南（180度）と南東（135度）の間の、約157.5度の方角です。おもに航海・気象・測量など、方角を細かく言う必要があるときに使われます。" }
+    ],
+    "quiz": [
+      { "q": "south-southeast の意味は？", "A": "南と南東の中間の方角（南南東）", "B": "まっすぐ北", "C": "北と北西の中間", "D": "東と南東の中間", "correct": "A" },
+      { "q": "south-southeast の略は？", "A": "SSE", "B": "NNE", "C": "SSW", "D": "ESE", "correct": "A" }
+    ]
+  },
+  {
+    "english": "south-southwest",
+    "pron": "ˌsaʊθ ˌsaʊθˈwest",
+    "kana": "サウス・サウスウエスト",
+    "hinshi": "名詞 / 形容詞 / 副詞",
+    "ld_pos": "名詞",
+    "ld_etym": "south（南）＋southwest（南西）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "専門"],
+    "meaning_main": "南南西（なんなんせい）（南と南西のちょうど中間の方角。16方位の一つ）",
+    "description": "south-southwest（サウス・サウスウエスト）は「南南西(なんなんせい)」という意味の語。南(south)と南西(southwest)の、ちょうど中間の方角を指します。SSW と略します。the wind came from the south-southwest（風は南南西から来た)のように使います。south（南）＋ southwest（南西)を合わせた語で、ハイフンでつないで書きます。方角をより細かく表す「16方位」の一つで、ちょうど南(180度)と南西(225度)の間の、約202.5度の方角です。おもに航海・気象・測量など、方角を細かく言う必要があるときに使われます。south-southeast（南南東)が南の東より、south-southwest（南南西)は南の西よりの方角です。名詞・形容詞・副詞で使います。",
+    "keywords": ["south-southwest 意味", "south-southwest 使い方", "南南西 16方位 英語", "SSW 方角 英語"],
+    "meanings": [
+      { "hinshi": "【名】南南西（なんなんせい）", "note": "南と南西のちょうど中間の方角。16方位の一つ。SSW。約202.5度。" },
+      { "hinshi": "【形・副】南南西の／南南西へ", "note": "south（南）＋ southwest（南西）。ハイフンでつなぐ。航海・気象で使う。" }
+    ],
+    "usages": [
+      { "title": "① 南南西（方角）", "desc": "方位。", "example_en": "from the south-southwest", "example_ja": "南南西から" },
+      { "title": "② 南南西へ", "desc": "航海・気象。", "example_en": "head south-southwest", "example_ja": "南南西へ進む" }
+    ],
+    "warn": ["『南南西〔なんなんせい〕（南〔south〕と南西〔southwest〕の、ちょうど中間の方角）』。SSW と略す。south（南）＋ southwest（南西）を合わせ、ハイフンでつないで書く。方角を細かく表す『16方位』の一つで、ちょうど南〔180度〕と南西〔225度〕の間の、約202.5度の方角。おもに航海・気象・測量など、方角を細かく言う必要があるときに使う。south-southeast（南南東)は南の東より、こちらは南の西より。名詞・形容詞・副詞。", "south（南）＋ southwest（南西）。16方位の一つ。south-southeast（南南東)などの仲間。"],
+    "etym_note": "south（南）＋ southwest（南西）＝『南と南西の中間→南南西』に由来。16方位の一つで約202.5度。SSW と略す。航海・気象で使う。",
+    "etym_chain": [
+      { "node": "south + southwest", "sub": "南と南西の中間", "era": "近代英語" },
+      { "node": "south-southwest", "sub": "南南西", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "from the south-southwest", "ja": "南南西から" },
+      { "en": "head south-southwest", "ja": "南南西へ進む" },
+      { "en": "a south-southwest wind", "ja": "南南西の風" },
+      { "en": "winds from the south-southwest", "ja": "南南西からの風" },
+      { "en": "sail south-southwest", "ja": "南南西へ航行する" },
+      { "en": "abbreviated as SSW", "ja": "SSW と略される" }
+    ],
+    "related": [
+      { "en": "southwest", "ja": "南西" },
+      { "en": "south-southeast", "ja": "南南東" },
+      { "en": "south", "ja": "南" },
+      { "en": "compass", "ja": "方位磁石、コンパス" }
+    ],
+    "faq": [
+      { "q": "south-southwest の意味は？", "a": "『南南西（なんなんせい）』という意味です。南（south）と南西（southwest）の、ちょうど中間の方角を指します。SSW と略します。the wind came from the south-southwest（風は南南西から来た）のように使います。south（南）＋ southwest（南西）を合わせた語で、ハイフンでつないで書きます。" },
+      { "q": "south-southeast との違いは？", "a": "どちらも南を基準にした16方位の方角ですが、south-southeast（南南東, SSE）は南の『東より』、south-southwest（南南西, SSW）は南の『西より』の方角です。south-southwest は、ちょうど南（180度）と南西（225度）の間の、約202.5度の方角です。おもに航海・気象・測量など、方角を細かく言う必要があるときに使われます。" }
+    ],
+    "quiz": [
+      { "q": "south-southwest の意味は？", "A": "南と南西の中間の方角（南南西）", "B": "南と南東の中間", "C": "まっすぐ北", "D": "北と北東の中間", "correct": "A" },
+      { "q": "south-southwest の略は？", "A": "SSW", "B": "SSE", "C": "NNW", "D": "WSW", "correct": "A" }
+    ]
+  },
+  {
+    "english": "southwest",
+    "pron": "ˌsaʊθˈwest",
+    "kana": "サウスウエスト",
+    "hinshi": "名詞 / 形容詞 / 副詞",
+    "ld_pos": "名詞",
+    "ld_etym": "south（南）＋west（西）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "日常"],
+    "meaning_main": "南西（なんせい）・南西の・南西へ（南と西のちょうど中間の方角）",
+    "description": "southwest（サウスウエスト）は「南西(なんせい)」という意味の語。南と西のちょうど中間の方角を指します。SW と略します。to the southwest（南西に)のように使います。south（南）＋ west（西)が語源です。名詞で「南西（の方角・地域)」、形容詞で「南西の・南西向きの」、副詞で「南西へ・南西に」と、いろいろな品詞で使います。the southwest of the country（その国の南西部）、a southwest wind（南西の風）、travel southwest（南西へ進む)のように使います。方角は、北(north)・南(south)・東(east)・西(west)を基本に、その中間が northeast（北東）・southeast（南東）・southwest（南西）・northwest（北西)です。日常・地理・天気でよく使う語です。",
+    "keywords": ["southwest 意味", "southwest 使い方", "南西 方角 英語", "SW 方位 英語"],
+    "meanings": [
+      { "hinshi": "【名】南西（なんせい）", "note": "南と西のちょうど中間の方角。SW。to the southwest。" },
+      { "hinshi": "【形・副】南西の／南西へ", "note": "a southwest wind（南西の風）、travel southwest。south（南）＋ west（西）。" }
+    ],
+    "usages": [
+      { "title": "① 南西（方角）", "desc": "方位。", "example_en": "to the southwest", "example_ja": "南西に" },
+      { "title": "② 南西の／南西へ", "desc": "形容詞・副詞。", "example_en": "a southwest wind", "example_ja": "南西の風" }
+    ],
+    "warn": ["『南西〔なんせい〕（南と西のちょうど中間の方角）』。SW と略す。名詞『南西（の方角・地域）』the southwest of the country、形容詞『南西の・南西向きの』a southwest wind（南西の風）、副詞『南西へ・南西に』travel southwest。方角は north・south・east・west を基本に、その中間が northeast（北東）・southeast（南東）・southwest（南西）・northwest（北西）。日常・地理・天気でよく使う。", "south（南）＋ west（西）。northwest（北西)などの仲間。"],
+    "etym_note": "south（南）＋ west（西）＝『南と西の中間→南西』に由来。SW と略す。northeast（北東）・southeast（南東）・northwest（北西）の仲間。",
+    "etym_chain": [
+      { "node": "south + west", "sub": "南と西の中間", "era": "古英語" },
+      { "node": "southwest", "sub": "南西", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "to the southwest", "ja": "南西に" },
+      { "en": "a southwest wind", "ja": "南西の風" },
+      { "en": "the southwest of the country", "ja": "その国の南西部" },
+      { "en": "travel southwest", "ja": "南西へ進む" },
+      { "en": "face southwest", "ja": "南西を向く" },
+      { "en": "the American Southwest", "ja": "アメリカ南西部" }
+    ],
+    "related": [
+      { "en": "southeast", "ja": "南東" },
+      { "en": "northwest", "ja": "北西" },
+      { "en": "south", "ja": "南" },
+      { "en": "west", "ja": "西" }
+    ],
+    "faq": [
+      { "q": "southwest の意味は？", "a": "『南西（なんせい）』という意味です。南と西のちょうど中間の方角を指します。SW と略します。名詞で『南西（の方角・地域）』、形容詞で『南西の・南西向きの』、副詞で『南西へ・南西に』と、いろいろな品詞で使います。to the southwest（南西に）、a southwest wind（南西の風）、travel southwest（南西へ進む）のように使います。" },
+      { "q": "ほかの中間の方角は？", "a": "方角は、北（north）・南（south）・東（east）・西（west）を基本に、その中間が northeast（北東）・southeast（南東）・southwest（南西）・northwest（北西）です。south（南）＋ west（西）の成り立ちで、日常・地理・天気でよく使います。the American Southwest は『アメリカ南西部』です。" }
+    ],
+    "quiz": [
+      { "q": "southwest の意味は？", "A": "南と西の中間の方角（南西）", "B": "北と東の中間", "C": "まっすぐ南", "D": "まっすぐ東", "correct": "A" },
+      { "q": "southwest の成り立ちは？", "A": "south（南）＋ west（西）", "B": "south（南）＋ east（東）", "C": "north（北）＋ west（西）", "D": "sun（太陽）＋ west（西）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "soy",
+    "pron": "sɔɪ",
+    "kana": "ソイ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "日本語「しょうゆ」→オランダ語 soya 経由",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "日常"],
+    "meaning_main": "大豆（だいず）／しょうゆ（soy sauce）／大豆の（大豆からできた食品を指す）",
+    "description": "soy（ソイ）は「大豆(だいず)」、またその加工品や関連する食品を指す名詞。とくに、料理や健康食品でおなじみの大豆を指し、soy milk（豆乳）、soy sauce（しょうゆ）、soybeans（大豆)のように、ほかの語と組み合わせてよく使います。意外にも、語源は日本語の「しょうゆ」で、それがオランダ語 soya などを経て英語に取り入れられました。そのため、soy だけでも「しょうゆ」を指すことがあります（pass me the soy＝しょうゆを取って)。大豆は、豆腐・みそ・納豆・豆乳など、さまざまな食品のもとになる、たんぱく質ゆたかな豆です。肉の代わりになる植物性たんぱくとして、soy protein（大豆たんぱく)も注目されています。イギリスでは soya（ソヤ)という形もよく使われます。ふつう不可算名詞です。",
+    "keywords": ["soy 意味", "soy 使い方", "大豆 しょうゆ 英語", "soy sauce soy milk"],
+    "meanings": [
+      { "hinshi": "【名】大豆（だいず）", "note": "soybeans（大豆）、soy milk（豆乳）。たんぱく質ゆたかな豆。不可算。" },
+      { "hinshi": "【名】しょうゆ（soy sauce）", "note": "soy だけでもしょうゆを指すことも。語源は日本語の『しょうゆ』。英では soya。" }
+    ],
+    "usages": [
+      { "title": "① 大豆（の）", "desc": "食品。", "example_en": "soy milk", "example_ja": "豆乳" },
+      { "title": "② しょうゆ", "desc": "調味料。", "example_en": "soy sauce", "example_ja": "しょうゆ" }
+    ],
+    "warn": ["『大豆〔だいず〕』、またその加工品や関連食品を指す。soy milk（豆乳）、soy sauce（しょうゆ）、soybeans（大豆）のようにほかの語と組み合わせて使う。語源は意外にも日本語の『しょうゆ』で、オランダ語 soya などを経て英語に。soy だけでも『しょうゆ』を指すことも（pass me the soy）。肉の代わりの植物性たんぱく soy protein（大豆たんぱく）も注目。英では soya（ソヤ）の形も。不可算。", "日本語『しょうゆ』→オランダ語 soya 経由で英語へ。英では soya。"],
+    "etym_note": "意外にも、語源は日本語の『しょうゆ』で、オランダ語 soya などを経て英語に取り入れられた。そのため soy だけでも『しょうゆ』を指すことがある。イギリスでは soya の形も使う。",
+    "etym_chain": [
+      { "node": "しょうゆ", "sub": "醤油", "era": "日本語" },
+      { "node": "soya", "sub": "しょうゆ・大豆", "era": "オランダ語" },
+      { "node": "soy", "sub": "大豆・しょうゆ", "era": "17世紀" }
+    ],
+    "phrases": [
+      { "en": "soy milk", "ja": "豆乳" },
+      { "en": "soy sauce", "ja": "しょうゆ" },
+      { "en": "soybeans", "ja": "大豆" },
+      { "en": "soy protein", "ja": "大豆たんぱく" },
+      { "en": "a soy latte", "ja": "ソイラテ（豆乳のラテ）" },
+      { "en": "made from soy", "ja": "大豆からできた" }
+    ],
+    "related": [
+      { "en": "soybean", "ja": "大豆（の豆）" },
+      { "en": "tofu", "ja": "豆腐" },
+      { "en": "bean", "ja": "豆" },
+      { "en": "sauce", "ja": "ソース、たれ" }
+    ],
+    "faq": [
+      { "q": "soy の意味は？", "a": "『大豆（だいず）』、またその加工品や関連する食品を指す名詞です。とくに、料理や健康食品でおなじみの大豆を指し、soy milk（豆乳）、soy sauce（しょうゆ）、soybeans（大豆）のように、ほかの語と組み合わせてよく使います。大豆は、豆腐・みそ・納豆・豆乳など、さまざまな食品のもとになる、たんぱく質ゆたかな豆です。" },
+      { "q": "語源が日本語って本当？", "a": "はい。soy の語源は、意外にも日本語の『しょうゆ』で、それがオランダ語 soya などを経て英語に取り入れられました。そのため、soy だけでも『しょうゆ』を指すことがあります（pass me the soy＝しょうゆを取って）。肉の代わりになる植物性たんぱくとして soy protein（大豆たんぱく）も注目されています。イギリスでは soya（ソヤ）という形もよく使われます。" }
+    ],
+    "quiz": [
+      { "q": "soy milk の意味は？", "A": "豆乳（大豆からつくった飲み物）", "B": "牛乳", "C": "果汁", "D": "炭酸水", "correct": "A" },
+      { "q": "soy の語源は？", "A": "日本語の『しょうゆ』", "B": "フランス語の『絹』", "C": "ラテン語の『豆』", "D": "ドイツ語の『塩』", "correct": "A" }
+    ]
+  }
+]

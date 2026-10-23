@@ -1,0 +1,982 @@
+[
+  {
+    "english": "shipwreck",
+    "pron": "ˈʃɪprek",
+    "kana": "シップレック",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ship（船）＋wreck（難破・残骸）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "日常"],
+    "meaning_main": "難破・船の遭難（嵐や事故で船がこわれ沈むこと）／難破船（の残骸）／（動）難破させる",
+    "description": "shipwreck（シップレック）は「難破・船の遭難」という意味の名詞。嵐や事故などで、船が大きくこわれたり、沈んだりすることを指します。survive a shipwreck（難破を生きのびる)のように使います。また、その結果として海にのこった「難破船・その残骸」も指します。the remains of a shipwreck（難破船の残骸)のように使います。ship（船）＋ wreck（難破・残骸・破壊する)が語源です。動詞としても使い、ふつう be shipwrecked（難破する・船が遭難して遭難者になる)の形で、They were shipwrecked on a desert island.（彼らは難破して無人島に流れ着いた)のように使います。比喩的に、計画・人生などが「破綻する・だめになる」ことにも使われます。可算名詞です。",
+    "keywords": ["shipwreck 意味", "shipwreck 使い方", "難破 船の遭難 英語", "難破船 英語"],
+    "meanings": [
+      { "hinshi": "【名】難破、船の遭難／難破船（の残骸）", "note": "嵐や事故で船がこわれ沈むこと。survive a shipwreck。可算。" },
+      { "hinshi": "【動】難破させる（be shipwrecked で難破する）", "note": "They were shipwrecked.。ship（船）＋ wreck（難破・残骸）。" }
+    ],
+    "usages": [
+      { "title": "① 難破", "desc": "遭難。", "example_en": "survive a shipwreck", "example_ja": "難破を生きのびる" },
+      { "title": "② 難破する", "desc": "動詞。", "example_en": "They were shipwrecked.", "example_ja": "彼らは難破した。" }
+    ],
+    "warn": ["『難破・船の遭難（嵐や事故で船が大きくこわれたり沈んだりすること）』『難破船・その残骸』。survive a shipwreck（難破を生きのびる）、the remains of a shipwreck（難破船の残骸）。動詞はふつう be shipwrecked（難破する）の形（They were shipwrecked on a desert island.）。比喩的に計画・人生が『破綻する』ことにも。可算。", "ship（船）＋ wreck（難破・残骸・破壊する）。wreck は car wreck（自動車事故)などにも使う。"],
+    "etym_note": "ship（船）＋ wreck（難破・残骸・破壊する、古ノルド語 系）＝『船の難破→難破・難破船』に由来。",
+    "etym_chain": [
+      { "node": "ship + wreck", "sub": "船の難破", "era": "中英語" },
+      { "node": "shipwreck", "sub": "難破・難破船", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "survive a shipwreck", "ja": "難破を生きのびる" },
+      { "en": "the remains of a shipwreck", "ja": "難破船の残骸" },
+      { "en": "be shipwrecked on an island", "ja": "難破して島に流れ着く" },
+      { "en": "a terrible shipwreck", "ja": "ひどい船の遭難" },
+      { "en": "the wreck of an old ship", "ja": "古い船の残骸" },
+      { "en": "cause a shipwreck", "ja": "難破を引き起こす" }
+    ],
+    "related": [
+      { "en": "wreck", "ja": "難破、残骸、破壊する" },
+      { "en": "ship", "ja": "船" },
+      { "en": "sink", "ja": "沈む、沈める" },
+      { "en": "disaster", "ja": "災害、大惨事" }
+    ],
+    "faq": [
+      { "q": "shipwreck の意味は？", "a": "『難破・船の遭難』という意味です。嵐や事故などで、船が大きくこわれたり、沈んだりすることを指します。survive a shipwreck（難破を生きのびる）のように使います。その結果として海にのこった『難破船・その残骸』も指します。ship（船）＋ wreck（難破・残骸）が語源です。" },
+      { "q": "動詞としてはどう使う？", "a": "動詞としても使い、ふつう be shipwrecked（難破する・船が遭難して遭難者になる）の形で、They were shipwrecked on a desert island.（彼らは難破して無人島に流れ着いた）のように使います。比喩的に、計画・人生などが『破綻する・だめになる』ことにも使われます。" }
+    ],
+    "quiz": [
+      { "q": "survive a shipwreck の意味は？", "A": "難破（船の遭難）を生きのびる", "B": "船を造る", "C": "船を運転する", "D": "船を買う", "correct": "A" },
+      { "q": "shipwreck の成り立ちは？", "A": "ship（船）＋ wreck（難破・残骸）", "B": "ship（船）＋ work（仕事）", "C": "sheep（羊）＋ wreck", "D": "ship（船）＋ rock（岩）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "shit",
+    "pron": "ʃɪt",
+    "kana": "シット",
+    "hinshi": "名詞 / 間投詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 scitan（排泄する）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR B1", "注意語"],
+    "meaning_main": "（卑語・下品）大便・くそ／（間）くそっ・ちくしょう／くだらないもの ※非常に下品な俗語で、学習者は使用を避けるべき語",
+    "description": "shit（シット）は、非常に下品な俗語（卑語)で、使うと相手を不快にさせたり、下品・乱暴に受け取られたりする語です。意味を知識として知っておくための説明にとどめ、学習者は使用をさけるべき語です。もとの意味は「大便・くそ（体の外に出す排泄物)」です。そこから、強い不満・いらだち・おどろきを表す間投詞「くそっ・ちくしょう」として使われたり、「くだらないもの・でたらめ・たわごと」などの意味で、乱暴に使われたりします。古英語 scitan（排泄する)が語源です。公の場・目上の人の前・ていねいな場面では決して使ってはいけない、強い禁句（タブー語)の一つです。同じような気持ちは、より穏やかな Oh no! / Darn! / Shoot!（しまった！)などで表せます。「ばかげたこと・でたらめ」は nonsense、「大便」は医学的には feces / stool と言います。",
+    "keywords": ["shit 意味", "shit 注意", "下品 俗語 英語", "使用を避ける 英語"],
+    "meanings": [
+      { "hinshi": "【名】（卑語・下品）大便、くそ", "note": "体の外に出す排泄物。※非常に下品。学習者は使用を避ける。" },
+      { "hinshi": "【間・名】（卑語）くそっ・ちくしょう／くだらないもの", "note": "強い不満・いらだちの間投詞。乱暴な語。穏やかには Shoot! など。" }
+    ],
+    "usages": [
+      { "title": "① （卑語）くそ", "desc": "下品。", "example_en": "a very rude, taboo word", "example_ja": "非常に下品な禁句" },
+      { "title": "② 穏やかな言いかえ", "desc": "推奨。", "example_en": "Oh no! / Shoot!", "example_ja": "しまった！（穏やかな言い方）" }
+    ],
+    "warn": ["【重要】非常に下品な俗語（卑語）で、使うと相手を不快にさせたり、乱暴・下品に受け取られたりする強い禁句（タブー語）の一つ。学習者は使用を避け、意味は知識として知っておくにとどめること。もとの意味は『大便・くそ』、そこから間投詞『くそっ・ちくしょう』、『くだらないもの・でたらめ』など乱暴に使われる。公の場・目上の人の前・ていねいな場面では決して使わない。", "古英語 scitan（排泄する）由来。穏やかな言いかえは Oh no! / Darn! / Shoot!。『大便』は医学的には feces / stool、『でたらめ』は nonsense。"],
+    "etym_note": "古英語 scitan（排泄する）に由来。もとは『大便』の意味。のちに強い不満やののしりの卑語として使われるようになった、使用に強い注意が必要な禁句。",
+    "etym_chain": [
+      { "node": "scitan", "sub": "排泄する", "era": "古英語" },
+      { "node": "shit", "sub": "くそ（卑語・注意語）", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "a taboo swear word", "ja": "禁句（タブーのののしり語）" },
+      { "en": "avoid using it", "ja": "使うのを避ける" },
+      { "en": "say 'Shoot!' instead", "ja": "代わりに『Shoot!』と言う" },
+      { "en": "feces (medical term)", "ja": "大便（医学用語）" },
+      { "en": "nonsense (for 'nonsense')", "ja": "でたらめ（『たわごと』の意味には nonsense）" },
+      { "en": "a very rude word", "ja": "とても下品な語" }
+    ],
+    "related": [
+      { "en": "feces", "ja": "大便（医学用語）" },
+      { "en": "nonsense", "ja": "ばかげたこと、でたらめ" },
+      { "en": "darn", "ja": "ちくしょう（穏やかな言いかえ）" },
+      { "en": "rubbish", "ja": "ごみ、くだらないもの" }
+    ],
+    "faq": [
+      { "q": "shit はどんな語？", "a": "非常に下品な俗語（卑語）で、使うと相手を不快にさせたり、下品・乱暴に受け取られたりする、強い禁句（タブー語）の一つです。学習者は使用をさけ、意味は知識として知っておくにとどめるべき語です。もとの意味は『大便・くそ』で、そこから間投詞『くそっ・ちくしょう』や『くだらないもの・でたらめ』の意味で乱暴に使われます。" },
+      { "q": "どう言いかえればよい？", "a": "公の場・目上の人の前・ていねいな場面では決して使ってはいけません。強い不満・おどろきは、より穏やかな Oh no! / Darn! / Shoot!（しまった！）などで表せます。『大便』は医学的には feces / stool、『ばかげたこと・でたらめ』は nonsense と言います。" }
+    ],
+    "quiz": [
+      { "q": "shit はどんな語？", "A": "非常に下品な禁句（学習者は使用を避けるべき語）", "B": "ていねいな敬語", "C": "ふつうの日常語", "D": "専門の学術用語", "correct": "A" },
+      { "q": "『しまった！』を穏やかに言うには？", "A": "Oh no! / Shoot!", "B": "shit を使う", "C": "どれも使えない", "D": "feces と言う", "correct": "A" }
+    ]
+  },
+  {
+    "english": "shoal",
+    "pron": "ʃoʊl",
+    "kana": "ショール",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 scolu（群れ）／sceald（浅い）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "日常"],
+    "meaning_main": "（魚の）群れ／浅瀬・砂州（さす）（水の浅いところ、水面近くに盛り上がった砂）",
+    "description": "shoal（ショール）は、主に2つの意味をもつ名詞。1つは「（魚の)群れ」で、同じ種類の魚が、たくさん集まって泳いでいるかたまりを指します。a shoal of fish（魚の群れ)のように使います。school（魚の群れ)とほぼ同じ意味です。2つめは「浅瀬・砂州(さす)」で、海や川で、水が浅くなっているところや、水面近くまで砂が盛り上がって、船の航行があぶない場所を指します。a dangerous shoal（危険な浅瀬)のように使います。群れの意味は古英語 scolu（群れ)、浅瀬の意味は古英語 sceald（浅い)から来た、別の由来の同つづり語です。浅瀬は、船が座礁（ざしょう)する危険があるため、航海で注意される場所です。可算名詞です。",
+    "keywords": ["shoal 意味", "shoal 使い方", "魚の群れ 英語", "浅瀬 砂州 英語"],
+    "meanings": [
+      { "hinshi": "【名】（魚の）群れ", "note": "同じ種類の魚がたくさん集まって泳ぐかたまり。a shoal of fish。school とほぼ同じ。可算。" },
+      { "hinshi": "【名】浅瀬、砂州", "note": "水が浅く、船の航行があぶない場所。a dangerous shoal。" }
+    ],
+    "usages": [
+      { "title": "① 魚の群れ", "desc": "魚。", "example_en": "a shoal of fish", "example_ja": "魚の群れ" },
+      { "title": "② 浅瀬", "desc": "海。", "example_en": "a dangerous shoal", "example_ja": "危険な浅瀬" }
+    ],
+    "warn": ["『（魚の)群れ（同じ種類の魚がたくさん集まって泳ぐかたまり）』a shoal of fish（school とほぼ同じ）、『浅瀬・砂州〔さす〕（海や川で水が浅くなっている、または砂が盛り上がって船の航行があぶない場所）』a dangerous shoal。群れの意味は古英語 scolu、浅瀬の意味は古英語 sceald（浅い）から来た別の由来の同つづり語。浅瀬は座礁の危険があり航海で注意される。可算。", "群れは古英語 scolu（群れ）、浅瀬は古英語 sceald（浅い）。shallow（浅い)とも関連。"],
+    "etym_note": "『魚の群れ』は古英語 scolu（群れ、school と同系）、『浅瀬』は古英語 sceald（浅い、shallow と同系）から。別々の由来の同つづり語。",
+    "etym_chain": [
+      { "node": "scolu / sceald", "sub": "群れ／浅い", "era": "古英語" },
+      { "node": "shoal", "sub": "魚の群れ／浅瀬", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "a shoal of fish", "ja": "魚の群れ" },
+      { "en": "a shoal of herring", "ja": "ニシンの群れ" },
+      { "en": "a dangerous shoal", "ja": "危険な浅瀬" },
+      { "en": "run onto a shoal", "ja": "浅瀬に乗り上げる" },
+      { "en": "hidden shoals", "ja": "かくれた浅瀬" },
+      { "en": "swim in shoals", "ja": "群れをなして泳ぐ" }
+    ],
+    "related": [
+      { "en": "school", "ja": "（魚の）群れ" },
+      { "en": "shallow", "ja": "浅い" },
+      { "en": "sandbank", "ja": "砂州、砂堆" },
+      { "en": "reef", "ja": "岩礁、暗礁" }
+    ],
+    "faq": [
+      { "q": "shoal の意味は？", "a": "主に2つあります。1つは『（魚の）群れ（同じ種類の魚がたくさん集まって泳いでいるかたまり）』で、a shoal of fish（魚の群れ）のように使います（school とほぼ同じ）。もう1つは『浅瀬・砂州（水が浅くなっているところや、船の航行があぶない場所）』で、a dangerous shoal（危険な浅瀬）のように使います。" },
+      { "q": "なぜ同じつづりで意味が2つ？", "a": "別々の由来の同つづり語だからです。『魚の群れ』は古英語 scolu（群れ、school と同系）、『浅瀬』は古英語 sceald（浅い、shallow と同系）から来ています。浅瀬は、船が座礁する危険があるため、航海で注意される場所です。" }
+    ],
+    "quiz": [
+      { "q": "a shoal of fish の意味は？", "A": "魚の群れ", "B": "一匹の大きな魚", "C": "魚の料理", "D": "魚つりの道具", "correct": "A" },
+      { "q": "shoal のもう一つの意味は？", "A": "浅瀬・砂州", "B": "深い海の底", "C": "高い山", "D": "広い砂漠", "correct": "A" }
+    ]
+  },
+  {
+    "english": "shoestring",
+    "pron": "ˈʃuːstrɪŋ",
+    "kana": "シューストリング",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "shoe（靴）＋string（ひも）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "日常"],
+    "meaning_main": "靴ひも／（on a shoestring で）わずかな資金で・低予算で／（形）細々とした・ぎりぎりの",
+    "description": "shoestring（シューストリング）は、もともと「靴ひも」という意味の名詞ですが、特に重要なのは、on a shoestring という決まった言い方で「わずかな資金で・ごく少ない予算で」という意味になることです。run a business on a shoestring（わずかな資金で事業を営む)のように使います。live on a shoestring（ぎりぎりの金で暮らす)のように使います。shoe（靴）＋ string（ひも)が語源で、靴ひものように「細くて、わずかな・頼りない」というイメージから、「ごくわずかなお金」の意味が生まれました。形容詞的に a shoestring budget（ごく限られた予算)のように使います。アメリカでは、細く切ったフライドポテトを shoestring potatoes（シューストリングポテト)とも言います。靴ひもそのものは shoelace とも言います。可算名詞です。",
+    "keywords": ["shoestring 意味", "shoestring 使い方", "靴ひも 英語", "on a shoestring わずかな資金"],
+    "meanings": [
+      { "hinshi": "【名】靴ひも", "note": "靴を結ぶひも。shoelace とも。可算。" },
+      { "hinshi": "【名・形】（on a shoestring で）わずかな資金で／細々とした", "note": "run a business on a shoestring。a shoestring budget（ごく限られた予算）。" }
+    ],
+    "usages": [
+      { "title": "① わずかな資金で", "desc": "on a shoestring。", "example_en": "run a business on a shoestring", "example_ja": "わずかな資金で事業を営む" },
+      { "title": "② 低予算の", "desc": "形容詞。", "example_en": "a shoestring budget", "example_ja": "ごく限られた予算" }
+    ],
+    "warn": ["もともと『靴ひも』だが、特に重要なのは on a shoestring（わずかな資金で・ごく少ない予算で）という決まった言い方。run a business / live on a shoestring（わずかな資金で事業を営む/ぎりぎりの金で暮らす）。形容詞的に a shoestring budget（ごく限られた予算）。米では細切りフライドポテトを shoestring potatoes とも。靴ひもは shoelace とも。可算。", "shoe（靴）＋ string（ひも）。靴ひものように『細くて、わずかな・頼りない』イメージから『ごくわずかなお金』の意味に。"],
+    "etym_note": "shoe（靴）＋ string（ひも）＝『靴ひも』。靴ひものように『細くてわずか・頼りない』イメージから、on a shoestring（わずかな資金で）の言い方が生まれた。",
+    "etym_chain": [
+      { "node": "shoe + string", "sub": "靴のひも", "era": "17世紀" },
+      { "node": "shoestring", "sub": "靴ひも／わずかな資金", "era": "17世紀" }
+    ],
+    "phrases": [
+      { "en": "run a business on a shoestring", "ja": "わずかな資金で事業を営む" },
+      { "en": "live on a shoestring", "ja": "ぎりぎりの金で暮らす" },
+      { "en": "a shoestring budget", "ja": "ごく限られた予算" },
+      { "en": "made on a shoestring", "ja": "低予算で作られた" },
+      { "en": "tie one's shoestrings", "ja": "靴ひもを結ぶ" },
+      { "en": "shoestring potatoes", "ja": "シューストリングポテト（細切りフライドポテト）" }
+    ],
+    "related": [
+      { "en": "shoelace", "ja": "靴ひも" },
+      { "en": "budget", "ja": "予算" },
+      { "en": "string", "ja": "ひも、糸" },
+      { "en": "tight", "ja": "（予算などが）ぎりぎりの、きつい" }
+    ],
+    "faq": [
+      { "q": "shoestring の意味は？", "a": "もともと『靴ひも』という意味の名詞ですが、特に重要なのは、on a shoestring という決まった言い方で『わずかな資金で・ごく少ない予算で』という意味になることです。run a business on a shoestring（わずかな資金で事業を営む）、live on a shoestring（ぎりぎりの金で暮らす）のように使います。" },
+      { "q": "なぜ靴ひもが『わずかな資金』に？", "a": "shoe（靴）＋ string（ひも）で、靴ひものように『細くて、わずかな・頼りない』というイメージから、『ごくわずかなお金』の意味が生まれました。形容詞的に a shoestring budget（ごく限られた予算）のように使います。靴ひもそのものは shoelace とも言います。" }
+    ],
+    "quiz": [
+      { "q": "on a shoestring の意味は？", "A": "わずかな資金で・低予算で", "B": "たっぷりの予算で", "C": "靴をはいて", "D": "急いで", "correct": "A" },
+      { "q": "shoestring のもともとの意味は？", "A": "靴ひも", "B": "帽子", "C": "手袋", "D": "ベルト", "correct": "A" }
+    ]
+  },
+  {
+    "english": "shooter",
+    "pron": "ˈʃuːtər",
+    "kana": "シューター",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "shoot（撃つ・シュートする）＋-er",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "日常"],
+    "meaning_main": "射撃する人・射手・撃つ人／（バスケ・サッカーなどで）シュートする人／（ゲームの）シューティングゲーム",
+    "description": "shooter（シューター）は「射撃する人・射手・撃つ人」という意味の名詞。銃や弓などで的（まと)をねらって撃つ人を指します。a skilled shooter（腕のいい射手)のように使います。残念ながら、銃の事件で「発砲した人・銃撃犯」の意味で、ニュースなどに出てくることもあります。また、スポーツで、バスケットボールやサッカー、ホッケーなどで「シュート(ゴールをねらって球を放つこと)をする人」も指します。a good three-point shooter（スリーポイントのうまい選手)のように使います。さらに、コンピューターゲームで、銃などで敵を撃つ「シューティングゲーム(a shooter game)」も指します。shoot（撃つ・シュートする）＋ -er（〜する人・もの)が語源です。可算名詞です。",
+    "keywords": ["shooter 意味", "shooter 使い方", "射手 撃つ人 英語", "シュート シューティングゲーム 英語"],
+    "meanings": [
+      { "hinshi": "【名】射撃する人、射手、撃つ人", "note": "銃や弓で的をねらって撃つ人。a skilled shooter。可算。" },
+      { "hinshi": "【名】（球技の）シュートする人／（ゲームの）シューティングゲーム", "note": "a good three-point shooter。shoot（撃つ・シュートする）＋ -er。" }
+    ],
+    "usages": [
+      { "title": "① 射手", "desc": "射撃。", "example_en": "a skilled shooter", "example_ja": "腕のいい射手" },
+      { "title": "② シュートする人", "desc": "球技。", "example_en": "a good three-point shooter", "example_ja": "スリーポイントのうまい選手" }
+    ],
+    "warn": ["『射撃する人・射手・撃つ人（銃や弓などで的をねらって撃つ人）』a skilled shooter。銃の事件で『発砲した人・銃撃犯』の意味でニュースに出ることも。『（バスケ・サッカー・ホッケーなどで)シュートをする人』a good three-point shooter、『（ゲームの)シューティングゲーム』a shooter game も。shoot（撃つ・シュートする）＋ -er。可算。", "shoot（撃つ・シュートする）＋ -er（〜する人・もの）。"],
+    "etym_note": "shoot（撃つ・（球技で)シュートする）＋ -er（〜する人・もの）＝『撃つ人・シュートする人→射手・シューター』に由来。",
+    "etym_chain": [
+      { "node": "shoot + -er", "sub": "撃つ人", "era": "近代英語" },
+      { "node": "shooter", "sub": "射手・シューター", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a skilled shooter", "ja": "腕のいい射手" },
+      { "en": "a good three-point shooter", "ja": "スリーポイントのうまい選手" },
+      { "en": "a sharp shooter", "ja": "射撃の名手" },
+      { "en": "a first-person shooter", "ja": "一人称シューティングゲーム（FPS）" },
+      { "en": "the leading shooter", "ja": "得点王（シュートの多い選手）" },
+      { "en": "a clay-pigeon shooter", "ja": "クレー射撃の選手" }
+    ],
+    "related": [
+      { "en": "shoot", "ja": "撃つ、シュートする" },
+      { "en": "marksman", "ja": "射撃の名手、射手" },
+      { "en": "gunman", "ja": "ガンマン、銃を持った者" },
+      { "en": "scorer", "ja": "得点する人、得点者" }
+    ],
+    "faq": [
+      { "q": "shooter の意味は？", "a": "『射撃する人・射手・撃つ人』という意味です。銃や弓などで的をねらって撃つ人を指します。a skilled shooter（腕のいい射手）のように使います。スポーツで、バスケットボールやサッカーなどで『シュートをする人』（a good three-point shooter）、コンピューターゲームの『シューティングゲーム』（a shooter game）も指します。" },
+      { "q": "a first-person shooter とは？", "a": "コンピューターゲームの一種で、主人公の視点（一人称）で、銃などを使って敵を撃つシューティングゲームを指します（略して FPS）。shooter は shoot（撃つ・シュートする）＋ -er（〜する人・もの）の成り立ちで、射撃の名手は marksman / sharpshooter とも言います。" }
+    ],
+    "quiz": [
+      { "q": "a skilled shooter の意味は？", "A": "腕のいい射手（撃つのがうまい人）", "B": "速く走る人", "C": "料理のうまい人", "D": "歌のうまい人", "correct": "A" },
+      { "q": "球技での shooter の意味は？", "A": "シュート（ゴールをねらって球を放つ）をする人", "B": "審判", "C": "観客", "D": "監督", "correct": "A" }
+    ]
+  },
+  {
+    "english": "shoplift",
+    "pron": "ˈʃɒplɪft",
+    "kana": "ショップリフト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "shop（店）＋lift（くすねる）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "日常"],
+    "meaning_main": "万引きする（店の商品を、代金を払わずにこっそり盗む）",
+    "description": "shoplift（ショップリフト）は「万引きする」という意味の動詞。店の客のふりをして、売り物の商品を、代金を払わずに、こっそり持ち去って盗むことを表します。be caught shoplifting（万引きして捕まる)のように使います。shop（店）＋ lift（持ち上げる→くすねる・盗む、という古い俗語の意味)が語源です。万引きという行為そのものは shoplifting（万引き）、万引きをする人は shoplifter（万引き犯)です。万引きは、れっきとした犯罪（窃盗)です。steal（盗む)の中でも、特に「店の商品を万引きする」ことをはっきり表す語です。自動詞としても他動詞としても使います。",
+    "keywords": ["shoplift 意味", "shoplift 使い方", "万引きする 英語", "shoplifter 万引き犯 英語"],
+    "meanings": [
+      { "hinshi": "【動】万引きする", "note": "店の商品を代金を払わずこっそり盗む。be caught shoplifting。" },
+      { "hinshi": "【動】店の品をくすねる", "note": "shop（店）＋ lift（くすねる）。行為は shoplifting、人は shoplifter。" }
+    ],
+    "usages": [
+      { "title": "① 万引きする", "desc": "犯罪。", "example_en": "be caught shoplifting", "example_ja": "万引きして捕まる" },
+      { "title": "② 店の品を盗む", "desc": "窃盗。", "example_en": "shoplift a candy bar", "example_ja": "チョコバーを万引きする" }
+    ],
+    "warn": ["『万引きする（店の客のふりをして、売り物の商品を、代金を払わずに、こっそり持ち去って盗む）』。be caught shoplifting（万引きして捕まる）。万引きという行為は shoplifting（万引き）、する人は shoplifter（万引き犯）。万引きはれっきとした犯罪（窃盗）。steal（盗む）の中でも特に『店の商品を万引きする』ことをはっきり表す。", "shop（店）＋ lift（持ち上げる→くすねる・盗む、古い俗語）。steal / theft（盗む/窃盗)と関連。"],
+    "etym_note": "shop（店）＋ lift（持ち上げる→くすねる・盗む、という古い俗語の意味）＝『店の品をくすねる→万引きする』に由来。行為は shoplifting、人は shoplifter。",
+    "etym_chain": [
+      { "node": "shop + lift", "sub": "店の品をくすねる", "era": "17世紀" },
+      { "node": "shoplift", "sub": "万引きする", "era": "19世紀" }
+    ],
+    "phrases": [
+      { "en": "be caught shoplifting", "ja": "万引きして捕まる" },
+      { "en": "shoplift a candy bar", "ja": "チョコバーを万引きする" },
+      { "en": "try to shoplift", "ja": "万引きしようとする" },
+      { "en": "arrested for shoplifting", "ja": "万引きで逮捕されて" },
+      { "en": "a shoplifting incident", "ja": "万引き事件" },
+      { "en": "catch a shoplifter", "ja": "万引き犯を捕まえる" }
+    ],
+    "related": [
+      { "en": "shoplifter", "ja": "万引き犯" },
+      { "en": "shoplifting", "ja": "万引き（行為）" },
+      { "en": "steal", "ja": "盗む" },
+      { "en": "theft", "ja": "窃盗" }
+    ],
+    "faq": [
+      { "q": "shoplift の意味は？", "a": "『万引きする』という意味の動詞です。店の客のふりをして、売り物の商品を、代金を払わずに、こっそり持ち去って盗むことを表します。be caught shoplifting（万引きして捕まる）のように使います。万引きはれっきとした犯罪（窃盗）です。" },
+      { "q": "shoplifter・shoplifting との関係は？", "a": "shoplift が動詞『万引きする』、shoplifting が名詞『万引き（という行為）』、shoplifter が『万引きをする人（万引き犯）』です。shop（店）＋ lift（くすねる・盗む、という古い俗語）の成り立ちです。steal（盗む）の中でも、特に『店の商品を万引きする』ことをはっきり表す語です。" }
+    ],
+    "quiz": [
+      { "q": "shoplift の意味は？", "A": "店の商品を代金を払わずこっそり盗む（万引きする）", "B": "店で買い物をする", "C": "店を開く", "D": "店で働く", "correct": "A" },
+      { "q": "万引きをする人は？", "A": "shoplifter（万引き犯）", "B": "shopper（買い物客）", "C": "shopkeeper（店主）", "D": "shop assistant（店員）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "shoppingcenter",
+    "pron": "ˈʃɒpɪŋ sentər",
+    "kana": "ショッピング・センター",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "shopping（買い物）＋center（中心）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "日常"],
+    "meaning_main": "ショッピングセンター（多くの店が集まった買い物のための施設）（正しくは shopping center）",
+    "description": "shoppingcenter は、本来 shopping center と2語で書く語で「ショッピングセンター」という意味です。たくさんの店や、スーパー・レストラン・映画館などが、一つの建物や敷地に集まった、買い物のための大きな施設を指します。go to the shopping center（ショッピングセンターに行く)のように使います。shopping（買い物）＋ center（中心・施設)が語源で、正しくは shopping center と2語で書きます。つづりは、アメリカ英語では center、イギリス英語では centre なので、イギリスでは shopping centre と書きます。同じような施設を、アメリカでは（shopping)mall（モール)とも言います。駐車場を備え、車で行って一か所でいろいろな買い物ができるのが特徴です。可算名詞です。",
+    "keywords": ["shopping center 意味", "shoppingcenter 使い方", "ショッピングセンター 英語", "mall 違い"],
+    "meanings": [
+      { "hinshi": "【名】ショッピングセンター", "note": "多くの店が集まった買い物のための施設。go to the shopping center。正しくは shopping center。可算。" },
+      { "hinshi": "【名】商業施設", "note": "米では mall とも。英つづりは shopping centre。shopping（買い物）＋ center。" }
+    ],
+    "usages": [
+      { "title": "① ショッピングセンター", "desc": "買い物。", "example_en": "go to the shopping center", "example_ja": "ショッピングセンターに行く" },
+      { "title": "② 商業施設", "desc": "店の集まり。", "example_en": "a large shopping center", "example_ja": "大きなショッピングセンター" }
+    ],
+    "warn": ["正しくは shopping center と2語で書く。『ショッピングセンター（たくさんの店や、スーパー・レストラン・映画館などが、一つの建物や敷地に集まった、買い物のための大きな施設）』。go to the shopping center（ショッピングセンターに行く）。つづりは米 center／英 centre（shopping centre）。米では（shopping)mall（モール)とも。駐車場を備え車で行くのが特徴。可算。", "shopping（買い物）＋ center（中心・施設）。shop（店・買い物をする）、department store（デパート)と関連。"],
+    "etym_note": "shopping（買い物、shop＝買い物をする から）＋ center（中心・施設）＝『買い物の中心施設→ショッピングセンター』に由来。米 center／英 centre。",
+    "etym_chain": [
+      { "node": "shopping + center", "sub": "買い物の中心", "era": "20世紀" },
+      { "node": "shopping center", "sub": "ショッピングセンター", "era": "20世紀" }
+    ],
+    "phrases": [
+      { "en": "go to the shopping center", "ja": "ショッピングセンターに行く" },
+      { "en": "a large shopping center", "ja": "大きなショッピングセンター" },
+      { "en": "a new shopping center", "ja": "新しいショッピングセンター" },
+      { "en": "shops in the shopping center", "ja": "ショッピングセンターの店" },
+      { "en": "the local shopping center", "ja": "地元のショッピングセンター" },
+      { "en": "a shopping centre (英)", "ja": "ショッピングセンター（英つづり）" }
+    ],
+    "related": [
+      { "en": "mall", "ja": "モール、ショッピングモール" },
+      { "en": "department store", "ja": "デパート、百貨店" },
+      { "en": "shop", "ja": "店、買い物をする" },
+      { "en": "supermarket", "ja": "スーパーマーケット" }
+    ],
+    "faq": [
+      { "q": "shopping center の意味は？", "a": "『ショッピングセンター』という意味です。たくさんの店や、スーパー・レストラン・映画館などが、一つの建物や敷地に集まった、買い物のための大きな施設を指します。go to the shopping center（ショッピングセンターに行く）のように使います。正しくは shopping center と2語で書きます。" },
+      { "q": "mall や centre との違いは？", "a": "同じような施設を、アメリカでは（shopping）mall（モール）とも言います。つづりは、アメリカ英語では center、イギリス英語では centre なので、イギリスでは shopping centre と書きます。駐車場を備え、車で行って一か所でいろいろな買い物ができるのが特徴です。shopping（買い物）＋ center（中心・施設）の成り立ちです。" }
+    ],
+    "quiz": [
+      { "q": "shopping center の意味は？", "A": "多くの店が集まった買い物のための施設（ショッピングセンター）", "B": "一軒の小さな店", "C": "駅", "D": "図書館", "correct": "A" },
+      { "q": "shopping center をアメリカで言う別の言い方は？", "A": "（shopping）mall", "B": "shopping center のまま", "C": "station", "D": "market のみ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "shortcake",
+    "pron": "ˈʃɔːrtkeɪk",
+    "kana": "ショートケーキ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "short（サクサクした）＋cake（ケーキ）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "日常"],
+    "meaning_main": "ショートケーキ（英米では、サクサクした生地に果物とクリームをはさんだ菓子。日本のスポンジのショートケーキとはやや異なる）",
+    "description": "shortcake（ショートケーキ）は「ショートケーキ」という意味の名詞ですが、英語（特にアメリカ)のショートケーキは、日本でおなじみのものとは少しちがいます。英米では、ビスケットやスコーンのような、サクサク・ほろほろとした生地を焼き、それを横に切って、間に果物（特にイチゴ)と生クリームをはさんだお菓子を指します。strawberry shortcake（ストロベリーショートケーキ)が有名です。short（サクサクした・もろい＝バターをたくさん使った生地の食感)＋ cake（ケーキ)が語源で、この short は「背が低い」ではなく「（バターで)サクサク・ほろほろした」という意味です。日本の「ショートケーキ」は、やわらかいスポンジにクリームとイチゴをのせたものですが、これは日本で独自に発展した形です。可算・不可算で使います。",
+    "keywords": ["shortcake 意味", "shortcake 使い方", "ショートケーキ 英語", "ストロベリーショートケーキ 英語"],
+    "meanings": [
+      { "hinshi": "【名】ショートケーキ", "note": "英米ではサクサクした生地に果物とクリームをはさんだ菓子。strawberry shortcake。可算・不可算。" },
+      { "hinshi": "【名】サクサク生地の菓子", "note": "short（サクサクした）＋ cake。日本のスポンジのものとはやや異なる。" }
+    ],
+    "usages": [
+      { "title": "① ショートケーキ", "desc": "菓子。", "example_en": "strawberry shortcake", "example_ja": "ストロベリーショートケーキ" },
+      { "title": "② サクサク生地の菓子", "desc": "英米。", "example_en": "a slice of shortcake", "example_ja": "ショートケーキ一切れ" }
+    ],
+    "warn": ["『ショートケーキ』だが、英語（特に米)のものは日本のとやや異なる。英米では、ビスケットやスコーンのようなサクサク・ほろほろの生地を焼いて横に切り、間に果物（特にイチゴ）と生クリームをはさんだ菓子。strawberry shortcake が有名。日本の、やわらかいスポンジにクリームとイチゴをのせたものは日本で独自に発展した形。可算・不可算。", "short（サクサクした・もろい、バターを多く使った生地の食感）＋ cake（ケーキ）。この short は『背が低い』ではない。shortbread（ショートブレッド)の short と同じ。"],
+    "etym_note": "short（サクサクした・もろい、バターを多く使った生地の食感、shortbread の short と同じ）＋ cake（ケーキ）＝『サクサクした生地のケーキ→ショートケーキ』に由来。",
+    "etym_chain": [
+      { "node": "short + cake", "sub": "サクサクした生地のケーキ", "era": "16世紀" },
+      { "node": "shortcake", "sub": "ショートケーキ", "era": "16世紀" }
+    ],
+    "phrases": [
+      { "en": "strawberry shortcake", "ja": "ストロベリーショートケーキ" },
+      { "en": "a slice of shortcake", "ja": "ショートケーキ一切れ" },
+      { "en": "make shortcake", "ja": "ショートケーキを作る" },
+      { "en": "shortcake with cream", "ja": "クリームをそえたショートケーキ" },
+      { "en": "homemade shortcake", "ja": "手作りのショートケーキ" },
+      { "en": "a piece of strawberry shortcake", "ja": "ストロベリーショートケーキ一切れ" }
+    ],
+    "related": [
+      { "en": "cake", "ja": "ケーキ" },
+      { "en": "shortbread", "ja": "ショートブレッド（サクサクのクッキー）" },
+      { "en": "biscuit", "ja": "ビスケット、（米）スコーン風のパン" },
+      { "en": "dessert", "ja": "デザート" }
+    ],
+    "faq": [
+      { "q": "shortcake の意味は？", "a": "『ショートケーキ』という意味ですが、英語（特にアメリカ）のものは日本のとは少しちがいます。英米では、ビスケットやスコーンのような、サクサク・ほろほろとした生地を焼き、それを横に切って、間に果物（特にイチゴ）と生クリームをはさんだお菓子を指します。strawberry shortcake（ストロベリーショートケーキ）が有名です。" },
+      { "q": "なぜ short（短い）がつく？", "a": "この short は『背が低い・短い』ではなく、『（バターをたくさん使って）サクサク・ほろほろした』という、生地の食感を表す意味です。shortbread（ショートブレッド＝サクサクのクッキー）の short と同じです。日本の、やわらかいスポンジにクリームとイチゴをのせた『ショートケーキ』は、日本で独自に発展した形です。" }
+    ],
+    "quiz": [
+      { "q": "英米の strawberry shortcake の特徴は？", "A": "サクサクした生地に果物とクリームをはさんだ菓子", "B": "長くて細いパン", "C": "しょっぱいスープ", "D": "冷たいアイスだけ", "correct": "A" },
+      { "q": "shortcake の short の意味は？", "A": "（バターで）サクサク・ほろほろした", "B": "背が低い", "C": "時間が短い", "D": "お金が足りない", "correct": "A" }
+    ]
+  },
+  {
+    "english": "shortly",
+    "pron": "ˈʃɔːrtli",
+    "kana": "ショートリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "short（短い）＋-ly",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "日常"],
+    "meaning_main": "まもなく・すぐに・まもなく（少し後に）／（話し方が）そっけなく・ぶっきらぼうに",
+    "description": "shortly（ショートリー）は「まもなく・すぐに」という意味の副詞。今から少し後に、間もなく、ということを表します。The meeting will begin shortly.（会議はまもなく始まります)のように使います。shortly after 〜（〜のすぐあとに）、shortly before 〜（〜の少し前に)のように、時間を表す言い方でよく使います。short（短い）＋ -ly（副詞をつくる)が語源で、「短い時間のうちに→まもなく」という成り立ちです。また、話し方が「そっけなく・ぶっきらぼうに・きつく」という意味でも使い、answer shortly（そっけなく答える)のように使います。soon（まもなく)と近い意味です。アナウンスや案内などで、ていねいに「まもなく」と言うときによく使われます。",
+    "keywords": ["shortly 意味", "shortly 使い方", "まもなく すぐに 英語", "そっけなく 英語"],
+    "meanings": [
+      { "hinshi": "【副】まもなく、すぐに", "note": "今から少し後に。The meeting will begin shortly.。soon と近い。" },
+      { "hinshi": "【副】（話し方が）そっけなく、ぶっきらぼうに", "note": "answer shortly（そっけなく答える）。short（短い）＋ -ly。" }
+    ],
+    "usages": [
+      { "title": "① まもなく", "desc": "時間。", "example_en": "The meeting will begin shortly.", "example_ja": "会議はまもなく始まります。" },
+      { "title": "② そっけなく", "desc": "話し方。", "example_en": "answer shortly", "example_ja": "そっけなく答える" }
+    ],
+    "warn": ["『まもなく・すぐに（今から少し後に）』The meeting will begin shortly.、shortly after / before 〜（〜のすぐあと/少し前に）。『（話し方が)そっけなく・ぶっきらぼうに・きつく』answer shortly（そっけなく答える）。soon（まもなく）と近い。アナウンスや案内でていねいに『まもなく』と言うときによく使う。", "short（短い）＋ -ly（副詞化）＝『短い時間のうちに→まもなく』。"],
+    "etym_note": "short（短い）＋ -ly（副詞化）＝『短い時間のうちに→まもなく・すぐに』に由来。話し方が『そっけなく』の意味も。",
+    "etym_chain": [
+      { "node": "short + -ly", "sub": "短い時間のうちに", "era": "中英語" },
+      { "node": "shortly", "sub": "まもなく・そっけなく", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "The meeting will begin shortly.", "ja": "会議はまもなく始まります。" },
+      { "en": "shortly after", "ja": "〜のすぐあとに" },
+      { "en": "shortly before", "ja": "〜の少し前に" },
+      { "en": "arrive shortly", "ja": "まもなく到着する" },
+      { "en": "answer shortly", "ja": "そっけなく答える" },
+      { "en": "I'll be with you shortly.", "ja": "すぐにうかがいます。" }
+    ],
+    "related": [
+      { "en": "soon", "ja": "まもなく、すぐに" },
+      { "en": "short", "ja": "短い" },
+      { "en": "briefly", "ja": "手短に、短時間" },
+      { "en": "presently", "ja": "まもなく、やがて" }
+    ],
+    "faq": [
+      { "q": "shortly の意味は？", "a": "『まもなく・すぐに』という意味の副詞です。今から少し後に、間もなく、ということを表します。The meeting will begin shortly.（会議はまもなく始まります）のように使います。shortly after 〜（〜のすぐあとに）、shortly before 〜（〜の少し前に）のように、時間を表す言い方でよく使います。" },
+      { "q": "ほかの意味は？", "a": "話し方が『そっけなく・ぶっきらぼうに・きつく』という意味でも使い、answer shortly（そっけなく答える）のように使います。short（短い）＋ -ly の成り立ちで、『短い時間のうちに→まもなく』です。soon（まもなく）と近い意味で、アナウンスや案内でていねいに『まもなく』と言うときによく使われます。" }
+    ],
+    "quiz": [
+      { "q": "The meeting will begin shortly. の意味は？", "A": "会議はまもなく始まります。", "B": "会議はもう終わりました。", "C": "会議は中止です。", "D": "会議は長く続きます。", "correct": "A" },
+      { "q": "shortly と近い意味の語は？", "A": "soon（まもなく）", "B": "never（決して〜ない）", "C": "yesterday（昨日）", "D": "slowly（ゆっくり）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "showery",
+    "pron": "ˈʃaʊəri",
+    "kana": "シャワリー",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "shower（にわか雨）＋-y",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B1", "日常"],
+    "meaning_main": "にわか雨の多い・降ったりやんだりの・雨模様の（短い雨が、ときどき降る天気の）",
+    "description": "showery（シャワリー）は「にわか雨の多い・降ったりやんだりの」という意味の形容詞。短い雨（にわか雨)が、一日のうちにときどき降っては、またやむ、という不安定な天気を表します。a showery day（にわか雨の多い日)のように使います。shower（にわか雨・ひとしきりの雨）＋ -y（〜の多い・〜っぽい)が語源です。一日中ずっと降り続く雨ではなく、降ったりやんだり、晴れ間が出たりする、変わりやすい天気を表すのがポイントです。天気予報でよく使われる語です。rainy（雨の・雨降りの)が雨がちな天気全般を表すのに対し、showery は特に「にわか雨がときどき」というニュアンスがあります。shower（シャワー)は、浴びるシャワーの意味もあります。",
+    "keywords": ["showery 意味", "showery 使い方", "にわか雨の多い 英語", "雨模様 英語"],
+    "meanings": [
+      { "hinshi": "【形】にわか雨の多い、降ったりやんだりの、雨模様の", "note": "短い雨がときどき降る不安定な天気。a showery day。" },
+      { "hinshi": "【形】変わりやすい雨の", "note": "shower（にわか雨）＋ -y。rainy より『にわか雨がときどき』のニュアンス。" }
+    ],
+    "usages": [
+      { "title": "① にわか雨の多い", "desc": "天気。", "example_en": "a showery day", "example_ja": "にわか雨の多い日" },
+      { "title": "② 降ったりやんだりの", "desc": "予報。", "example_en": "showery weather", "example_ja": "降ったりやんだりの天気" }
+    ],
+    "warn": ["『にわか雨の多い・降ったりやんだりの・雨模様の（短い雨〔にわか雨〕が、一日のうちにときどき降っては、またやむ、という不安定な天気の）』。a showery day（にわか雨の多い日）、showery weather。一日中降り続く雨ではなく、降ったりやんだり、晴れ間が出たりする変わりやすい天気。天気予報でよく使う。rainy（雨がちな)に対し、showery は特に『にわか雨がときどき』のニュアンス。", "shower（にわか雨・ひとしきりの雨）＋ -y（〜の多い・〜っぽい）。"],
+    "etym_note": "shower（にわか雨・ひとしきりの雨）＋ -y（〜の多い・〜っぽい）＝『にわか雨の多い→降ったりやんだりの』に由来。",
+    "etym_chain": [
+      { "node": "shower + -y", "sub": "にわか雨の多い", "era": "近代英語" },
+      { "node": "showery", "sub": "にわか雨の多い", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a showery day", "ja": "にわか雨の多い日" },
+      { "en": "showery weather", "ja": "降ったりやんだりの天気" },
+      { "en": "a showery afternoon", "ja": "にわか雨の多い午後" },
+      { "en": "bright and showery", "ja": "晴れ間もあるがにわか雨も" },
+      { "en": "a showery spell", "ja": "にわか雨がちな期間" },
+      { "en": "cool and showery", "ja": "涼しくてにわか雨の多い" }
+    ],
+    "related": [
+      { "en": "shower", "ja": "にわか雨／シャワー" },
+      { "en": "rainy", "ja": "雨の、雨降りの" },
+      { "en": "drizzly", "ja": "霧雨の降る" },
+      { "en": "wet", "ja": "ぬれた、雨の" }
+    ],
+    "faq": [
+      { "q": "showery の意味は？", "a": "『にわか雨の多い・降ったりやんだりの』という意味の形容詞です。短い雨（にわか雨）が、一日のうちにときどき降っては、またやむ、という不安定な天気を表します。a showery day（にわか雨の多い日）のように使います。天気予報でよく使われます。" },
+      { "q": "rainy との違いは？", "a": "rainy は『雨の・雨降りの』で、雨がちな天気全般を表しますが、showery は特に『にわか雨（短い雨）がときどき降る、降ったりやんだりする変わりやすい天気』というニュアンスがあります。shower（にわか雨）＋ -y の成り立ちです。shower には、浴びる『シャワー』の意味もあります。" }
+    ],
+    "quiz": [
+      { "q": "a showery day の意味は？", "A": "にわか雨が降ったりやんだりする日", "B": "一日中晴れた日", "C": "雪の日", "D": "風のない日", "correct": "A" },
+      { "q": "showery の成り立ちは？", "A": "shower（にわか雨）＋ -y（〜の多い）", "B": "show（見せる）＋ -ery", "C": "shore（岸）＋ -y", "D": "sure（確かな）＋ -y", "correct": "A" }
+    ]
+  },
+  {
+    "english": "showing",
+    "pron": "ˈʃoʊɪŋ",
+    "kana": "ショーイング",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "show（見せる）＋-ing",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "論説"],
+    "meaning_main": "見せること・展示・上映／（試合・選挙などの）成績・出来ばえ・結果",
+    "description": "showing（ショーイング）は、動詞 show（見せる)から来た名詞で、主に2つの意味があります。1つは「見せること・展示・上映・公開」で、作品・映画・商品などを人に見せることを指します。a private showing of the paintings（絵画の内覧会)、the first showing of the film（その映画の初上映)のように使います。2つめは「（試合・選挙・取り組みなどの)成績・出来ばえ・結果」で、どれくらいうまくやったかを表します。make a good showing（よい成績をおさめる・健闘する)のように使います。a strong showing in the election（選挙での善戦)のように使います。show（見せる）＋ -ing が語源です。この「成績・出来ばえ」の意味は、「自分（の実力)をどう見せたか」というところから来ています。可算・不可算で使います。",
+    "keywords": ["showing 意味", "showing 使い方", "展示 上映 英語", "成績 出来ばえ 英語"],
+    "meanings": [
+      { "hinshi": "【名】見せること、展示、上映、公開", "note": "作品・映画などを見せること。the first showing of the film。" },
+      { "hinshi": "【名】（試合・選挙の）成績、出来ばえ、結果", "note": "make a good showing（よい成績をおさめる・健闘する）。show（見せる）＋ -ing。" }
+    ],
+    "usages": [
+      { "title": "① 上映・展示", "desc": "公開。", "example_en": "the first showing of the film", "example_ja": "その映画の初上映" },
+      { "title": "② 成績・出来ばえ", "desc": "結果。", "example_en": "make a good showing", "example_ja": "よい成績をおさめる、健闘する" }
+    ],
+    "warn": ["『見せること・展示・上映・公開（作品・映画・商品などを人に見せること）』a private showing（内覧会）、the first showing of the film（初上映）、『（試合・選挙・取り組みの)成績・出来ばえ・結果（どれくらいうまくやったか）』make a good showing（よい成績・健闘する）、a strong showing in the election（選挙での善戦）。『成績』の意味は『自分の実力をどう見せたか』から。可算・不可算。", "show（見せる）＋ -ing。make a good / poor showing（よい/悪い成績をおさめる)の形でよく使う。"],
+    "etym_note": "show（見せる）＋ -ing（動作・結果）＝『見せること→展示・上映』、『（実力を)見せた結果→成績・出来ばえ』に由来。",
+    "etym_chain": [
+      { "node": "show + -ing", "sub": "見せること", "era": "中英語" },
+      { "node": "showing", "sub": "展示・上映／成績", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "the first showing of the film", "ja": "その映画の初上映" },
+      { "en": "a private showing", "ja": "内覧会、試写会" },
+      { "en": "make a good showing", "ja": "よい成績をおさめる、健闘する" },
+      { "en": "a strong showing in the election", "ja": "選挙での善戦" },
+      { "en": "a poor showing", "ja": "ふるわない成績" },
+      { "en": "the late showing", "ja": "レイトショー（遅い時間の上映）" }
+    ],
+    "related": [
+      { "en": "show", "ja": "見せる、示す、番組" },
+      { "en": "display", "ja": "展示、陳列" },
+      { "en": "exhibition", "ja": "展覧会、展示" },
+      { "en": "performance", "ja": "成績、出来ばえ、演技" }
+    ],
+    "faq": [
+      { "q": "showing の意味は？", "a": "動詞 show（見せる）から来た名詞で、主に2つの意味があります。1つは『見せること・展示・上映・公開』（the first showing of the film＝その映画の初上映）、もう1つは『（試合・選挙・取り組みなどの）成績・出来ばえ・結果』（make a good showing＝よい成績をおさめる・健闘する）です。" },
+      { "q": "make a good showing とは？", "a": "『よい成績をおさめる・健闘する・よい結果を出す』という意味の言い方です。試合・選挙・競争などで、どれくらいうまくやったか、という成績・出来ばえを表します。逆に a poor showing は『ふるわない成績』です。show（見せる）＋ -ing の成り立ちで、この意味は『自分（の実力）をどう見せたか』というところから来ています。" }
+    ],
+    "quiz": [
+      { "q": "make a good showing の意味は？", "A": "よい成績をおさめる、健闘する", "B": "映画を見に行く", "C": "絵をかく", "D": "買い物をする", "correct": "A" },
+      { "q": "the first showing of the film の意味は？", "A": "その映画の初上映", "B": "その映画の最終回", "C": "その映画の主役", "D": "その映画の値段", "correct": "A" }
+    ]
+  },
+  {
+    "english": "shrubbery",
+    "pron": "ˈʃrʌbəri",
+    "kana": "シュラバリー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "shrub（低木）＋-ery",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "日常"],
+    "meaning_main": "低木の植え込み・かん木の茂み（庭などに植えられた、背の低い木の集まり・その場所）",
+    "description": "shrubbery（シュラバリー）は「低木の植え込み・かん木の茂み」という意味の名詞。庭や公園などに植えられた、背の低い木（低木・かん木)の集まりや、それが茂っている場所を指します。hide behind the shrubbery（植え込みのかげにかくれる)のように使います。shrub（低木・かん木＝木のうち、幹が1本ではなく、根元から枝分かれして、背の低いもの）＋ -ery（〜の集まり・〜のある場所)が語源です。-ery は、集まりや場所を表す接尾辞です（nursery＝保育室、bakery＝パン屋 など)。バラ・つつじ・生け垣にする木などが shrubbery によく使われます。tree（高木・木)よりも背の低い木の集まり、という点がポイントです。可算・不可算で使います。",
+    "keywords": ["shrubbery 意味", "shrubbery 使い方", "低木の植え込み 英語", "かん木 茂み 英語"],
+    "meanings": [
+      { "hinshi": "【名】低木の植え込み、かん木の茂み", "note": "庭などに植えられた背の低い木の集まり・その場所。hide behind the shrubbery。可算・不可算。" },
+      { "hinshi": "【名】低木の茂った場所", "note": "shrub（低木）＋ -ery（〜の集まり・場所）。" }
+    ],
+    "usages": [
+      { "title": "① 低木の植え込み", "desc": "庭。", "example_en": "hide behind the shrubbery", "example_ja": "植え込みのかげにかくれる" },
+      { "title": "② かん木の茂み", "desc": "場所。", "example_en": "trim the shrubbery", "example_ja": "植え込みを刈り込む" }
+    ],
+    "warn": ["『低木の植え込み・かん木の茂み（庭や公園などに植えられた、背の低い木〔低木・かん木〕の集まりや、それが茂っている場所）』。hide behind the shrubbery（植え込みのかげにかくれる）、trim the shrubbery（植え込みを刈り込む）。バラ・つつじ・生け垣の木などによく使う。tree（高木・木）よりも背の低い木の集まり。可算・不可算。", "shrub（低木・かん木＝根元から枝分かれして背の低い木）＋ -ery（〜の集まり・場所、nursery / bakery と同じ）。"],
+    "etym_note": "shrub（低木・かん木＝根元から枝分かれして背の低い木）＋ -ery（〜の集まり・〜のある場所、nursery / bakery と同じ）＝『低木の集まり・場所→低木の植え込み』に由来。",
+    "etym_chain": [
+      { "node": "shrub + -ery", "sub": "低木の集まり・場所", "era": "18世紀" },
+      { "node": "shrubbery", "sub": "低木の植え込み", "era": "18世紀" }
+    ],
+    "phrases": [
+      { "en": "hide behind the shrubbery", "ja": "植え込みのかげにかくれる" },
+      { "en": "trim the shrubbery", "ja": "植え込みを刈り込む" },
+      { "en": "a thick shrubbery", "ja": "こんもりした低木の茂み" },
+      { "en": "plant a shrubbery", "ja": "低木を植え込む" },
+      { "en": "walk through the shrubbery", "ja": "植え込みの中を歩く" },
+      { "en": "the garden shrubbery", "ja": "庭の低木の植え込み" }
+    ],
+    "related": [
+      { "en": "shrub", "ja": "低木、かん木" },
+      { "en": "bush", "ja": "低木、やぶ" },
+      { "en": "hedge", "ja": "生け垣" },
+      { "en": "garden", "ja": "庭" }
+    ],
+    "faq": [
+      { "q": "shrubbery の意味は？", "a": "『低木の植え込み・かん木の茂み』という意味です。庭や公園などに植えられた、背の低い木（低木・かん木）の集まりや、それが茂っている場所を指します。hide behind the shrubbery（植え込みのかげにかくれる）のように使います。" },
+      { "q": "shrub との関係は？", "a": "shrub は『低木・かん木（木のうち、幹が1本ではなく、根元から枝分かれして、背の低いもの）』、shrubbery はそれが集まって茂っている『植え込み・茂み・その場所』です。-ery は集まりや場所を表す接尾辞で、nursery（保育室）、bakery（パン屋）などと同じです。tree（高木・木）よりも背の低い木の集まり、という点がポイントです。" }
+    ],
+    "quiz": [
+      { "q": "shrubbery の意味は？", "A": "庭などの低木の植え込み・かん木の茂み", "B": "高い一本の大木", "C": "広い芝生", "D": "池", "correct": "A" },
+      { "q": "shrubbery の shrub の意味は？", "A": "低木、かん木", "B": "花だけ", "C": "草だけ", "D": "石", "correct": "A" }
+    ]
+  },
+  {
+    "english": "shuteye",
+    "pron": "ˈʃʌtaɪ",
+    "kana": "シャットアイ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "shut（閉じる）＋eye（目）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "口語"],
+    "meaning_main": "（くだけて）睡眠・ひと眠り・寝ること（目を閉じて眠ること）",
+    "description": "shuteye（シャットアイ）は「睡眠・ひと眠り」という意味の、くだけた口語の名詞。眠ること、特にちょっと眠ること・仮眠をユーモラスに言う言い方です。get some shuteye（ひと眠りする・少し寝る)のように使います。shut（閉じる）＋ eye（目)が語源で、「目を閉じる＝眠る」ということから来ています。日本語の「ひと寝入り」「目をつぶる」に近い、くだけた・親しみのある表現です。I need to get some shuteye.（少し寝ないと)のように、会話でよく使われます。sleep / a nap（睡眠・昼寝)を、くだけて・おどけて言うときの語です。ふつう不可算名詞です。",
+    "keywords": ["shuteye 意味", "shuteye 使い方", "睡眠 ひと眠り 英語", "get some shuteye"],
+    "meanings": [
+      { "hinshi": "【名】（くだけて）睡眠、ひと眠り、寝ること", "note": "目を閉じて眠ること。get some shuteye。くだけた口語。不可算。" },
+      { "hinshi": "【名】仮眠、ちょっと寝ること", "note": "shut（閉じる）＋ eye（目）。sleep / nap をおどけて言う。" }
+    ],
+    "usages": [
+      { "title": "① ひと眠り", "desc": "口語。", "example_en": "get some shuteye", "example_ja": "ひと眠りする、少し寝る" },
+      { "title": "② 睡眠", "desc": "くだけて。", "example_en": "I need some shuteye.", "example_ja": "少し寝ないと。" }
+    ],
+    "warn": ["『（くだけて)睡眠・ひと眠り・寝ること（目を閉じて眠ること、特にちょっと眠ること・仮眠をユーモラスに言う）』。get some shuteye（ひと眠りする・少し寝る）、I need some shuteye.（少し寝ないと）。日本語の『ひと寝入り』『目をつぶる』に近い、くだけた・親しみのある表現。sleep / a nap をおどけて言う語。不可算。", "shut（閉じる）＋ eye（目）＝『目を閉じる→眠る』。"],
+    "etym_note": "shut（閉じる）＋ eye（目）＝『目を閉じること→眠ること』に由来。sleep / nap をくだけて・おどけて言う口語。",
+    "etym_chain": [
+      { "node": "shut + eye", "sub": "目を閉じること", "era": "19世紀" },
+      { "node": "shuteye", "sub": "睡眠・ひと眠り", "era": "19世紀" }
+    ],
+    "phrases": [
+      { "en": "get some shuteye", "ja": "ひと眠りする、少し寝る" },
+      { "en": "I need some shuteye.", "ja": "少し寝ないと。" },
+      { "en": "a little shuteye", "ja": "ちょっとした睡眠" },
+      { "en": "catch some shuteye", "ja": "少し眠る" },
+      { "en": "grab some shuteye", "ja": "ひと眠りする" },
+      { "en": "no shuteye last night", "ja": "昨夜はまったく眠れなかった" }
+    ],
+    "related": [
+      { "en": "sleep", "ja": "眠り、眠る" },
+      { "en": "nap", "ja": "昼寝、仮眠" },
+      { "en": "snooze", "ja": "うたた寝（する）" },
+      { "en": "doze", "ja": "うとうとする" }
+    ],
+    "faq": [
+      { "q": "shuteye の意味は？", "a": "『睡眠・ひと眠り』という意味の、くだけた口語の名詞です。眠ること、特にちょっと眠ること・仮眠をユーモラスに言う言い方です。get some shuteye（ひと眠りする・少し寝る）のように使います。shut（閉じる）＋ eye（目）が語源で、『目を閉じる＝眠る』ということから来ています。" },
+      { "q": "どんな場面で使う？", "a": "日本語の『ひと寝入り』『目をつぶる』に近い、くだけた・親しみのある表現です。I need to get some shuteye.（少し寝ないと）のように、会話でよく使われます。sleep / a nap（睡眠・昼寝）を、くだけて・おどけて言うときの語です。ふつう不可算名詞です。" }
+    ],
+    "quiz": [
+      { "q": "get some shuteye の意味は？", "A": "ひと眠りする、少し寝る", "B": "目を洗う", "C": "本を読む", "D": "運動する", "correct": "A" },
+      { "q": "shuteye の成り立ちは？", "A": "shut（閉じる）＋ eye（目）＝目を閉じる→眠る", "B": "shoot（撃つ）＋ eye", "C": "shut（閉じる）＋ ear（耳）", "D": "shy（内気な）＋ eye", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sickly",
+    "pron": "ˈsɪkli",
+    "kana": "シックリー",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "sick（病気の）＋-ly",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "日常"],
+    "meaning_main": "病弱な・病気がちな／青白い・不健康そうな／（甘さ・においが）むかつくような・吐き気をもよおす",
+    "description": "sickly（シックリー）は「病弱な・病気がちな」という意味の形容詞。もともと体が弱く、よく病気になる、健康でないことを表します。a sickly child（病弱な子ども)のように使います。また、顔色などが「青白い・不健康そうな」という意味でも使い、a sickly pale face（青白く不健康そうな顔)のように使います。さらに、甘さ・味・においなどが「むかつくような・吐き気をもよおすほど強い・甘ったるい」という意味でも使い、a sickly sweet smell（むかつくほど甘ったるいにおい)のように使います。sick（病気の）＋ -ly が語源です。この -ly は副詞ではなく、形容詞をつくる -ly（friendly＝親しみやすい、と同じ)です。全体に、健康でない・不快な、というマイナスのイメージの語です。",
+    "keywords": ["sickly 意味", "sickly 使い方", "病弱な 病気がちな 英語", "青白い むかつく 英語"],
+    "meanings": [
+      { "hinshi": "【形】病弱な、病気がちな", "note": "もともと体が弱くよく病気になる。a sickly child。" },
+      { "hinshi": "【形】青白い・不健康そうな／（甘さ・においが）むかつくような", "note": "a sickly pale face、a sickly sweet smell。sick（病気の）＋ -ly。" }
+    ],
+    "usages": [
+      { "title": "① 病弱な", "desc": "体。", "example_en": "a sickly child", "example_ja": "病弱な子ども" },
+      { "title": "② むかつくような", "desc": "甘さ。", "example_en": "a sickly sweet smell", "example_ja": "むかつくほど甘ったるいにおい" }
+    ],
+    "warn": ["『病弱な・病気がちな（もともと体が弱く、よく病気になる、健康でない）』a sickly child、『青白い・不健康そうな』a sickly pale face、『（甘さ・味・においが)むかつくような・吐き気をもよおすほど強い・甘ったるい』a sickly sweet smell。sick（病気の）＋ -ly だが、この -ly は副詞ではなく形容詞をつくる -ly（friendly と同じ）。全体に健康でない・不快なマイナスのイメージ。", "sick（病気の）＋ -ly（形容詞をつくる、friendly と同じ）。healthy（健康な)の反対のイメージ。"],
+    "etym_note": "sick（病気の）＋ -ly（形容詞をつくる、friendly / lovely と同じ）＝『病気がちな・不健康な』に由来。副詞の -ly ではない点に注意。",
+    "etym_chain": [
+      { "node": "sick + -ly", "sub": "病気がちな", "era": "中英語" },
+      { "node": "sickly", "sub": "病弱な・むかつくような", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "a sickly child", "ja": "病弱な子ども" },
+      { "en": "a sickly pale face", "ja": "青白く不健康そうな顔" },
+      { "en": "a sickly sweet smell", "ja": "むかつくほど甘ったるいにおい" },
+      { "en": "a sickly color", "ja": "不健康そうな色" },
+      { "en": "look sickly", "ja": "具合が悪そうに見える" },
+      { "en": "a sickly green", "ja": "気持ち悪いくすんだ緑色" }
+    ],
+    "related": [
+      { "en": "sick", "ja": "病気の、気分が悪い" },
+      { "en": "unhealthy", "ja": "不健康な" },
+      { "en": "pale", "ja": "青白い、顔色の悪い" },
+      { "en": "healthy", "ja": "健康な（反対）" }
+    ],
+    "faq": [
+      { "q": "sickly の意味は？", "a": "『病弱な・病気がちな』という意味の形容詞です。もともと体が弱く、よく病気になる、健康でないことを表します。a sickly child（病弱な子ども）のように使います。顔色が『青白い・不健康そうな』（a sickly pale face）、甘さ・においが『むかつくような・甘ったるい』（a sickly sweet smell）の意味でも使います。" },
+      { "q": "-ly がつくのに形容詞なのはなぜ？", "a": "sickly の -ly は、副詞をつくる -ly ではなく、形容詞をつくる -ly です。friendly（親しみやすい）、lovely（すてきな）、lonely（さびしい）などと同じタイプです。sick（病気の）＋ -ly で『病気がちな・不健康な』という形容詞になります。全体に、健康でない・不快な、というマイナスのイメージの語です。" }
+    ],
+    "quiz": [
+      { "q": "a sickly child の意味は？", "A": "病弱な（病気がちな）子ども", "B": "元気いっぱいの子ども", "C": "背の高い子ども", "D": "かしこい子ども", "correct": "A" },
+      { "q": "a sickly sweet smell の意味は？", "A": "むかつくほど甘ったるいにおい", "B": "さわやかないいにおい", "C": "においがしないこと", "D": "焦げたにおい", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sickroom",
+    "pron": "ˈsɪkruːm",
+    "kana": "シックルーム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "sick（病気の）＋room（部屋）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "日常"],
+    "meaning_main": "病室・病人のための部屋（病気の人が休み、療養するための部屋）",
+    "description": "sickroom（シックルーム）は「病室・病人のための部屋」という意味の名詞。病気の人が、横になって休み、療養するための部屋を指します。特に、家庭や学校などで、病人・具合の悪くなった人のために用意された部屋をいいます。rest in the sickroom（病室で休む)のように使います。sick（病気の・具合の悪い）＋ room（部屋)が語源です。学校の保健室のように、具合が悪くなった生徒が休む部屋や、家で病人を寝かせておく部屋などが sickroom にあたります。病院の患者の部屋は、ふつう a hospital room / a ward（病棟)と言います。静かで、療養に適した部屋、というイメージです。可算名詞です。",
+    "keywords": ["sickroom 意味", "sickroom 使い方", "病室 英語", "病人の部屋 保健室 英語"],
+    "meanings": [
+      { "hinshi": "【名】病室、病人のための部屋", "note": "病気の人が休み療養するための部屋。rest in the sickroom。可算。" },
+      { "hinshi": "【名】療養のための部屋", "note": "家庭・学校で病人のために用意された部屋。sick（病気の）＋ room。" }
+    ],
+    "usages": [
+      { "title": "① 病室", "desc": "療養。", "example_en": "rest in the sickroom", "example_ja": "病室で休む" },
+      { "title": "② 病人の部屋", "desc": "家庭。", "example_en": "a quiet sickroom", "example_ja": "静かな病室" }
+    ],
+    "warn": ["『病室・病人のための部屋（病気の人が、横になって休み、療養するための部屋）』。特に、家庭や学校などで、病人・具合の悪くなった人のために用意された部屋。rest in the sickroom（病室で休む）。学校の保健室のように具合が悪くなった生徒が休む部屋など。病院の患者の部屋はふつう a hospital room / a ward（病棟）。可算。", "sick（病気の・具合の悪い）＋ room（部屋）。bedroom / classroom などと同じ -room。"],
+    "etym_note": "sick（病気の・具合の悪い）＋ room（部屋）＝『病人のための部屋→病室』に由来。",
+    "etym_chain": [
+      { "node": "sick + room", "sub": "病人の部屋", "era": "近代英語" },
+      { "node": "sickroom", "sub": "病室", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "rest in the sickroom", "ja": "病室で休む" },
+      { "en": "a quiet sickroom", "ja": "静かな病室" },
+      { "en": "keep the sickroom clean", "ja": "病室を清潔に保つ" },
+      { "en": "the air of the sickroom", "ja": "病室の空気" },
+      { "en": "visit the sickroom", "ja": "病室を見舞う" },
+      { "en": "take the child to the sickroom", "ja": "子どもを保健室（病室）へ連れていく" }
+    ],
+    "related": [
+      { "en": "sick", "ja": "病気の、具合の悪い" },
+      { "en": "ward", "ja": "病棟" },
+      { "en": "hospital room", "ja": "病室（病院の）" },
+      { "en": "infirmary", "ja": "（学校・施設の）医務室、保健室" }
+    ],
+    "faq": [
+      { "q": "sickroom の意味は？", "a": "『病室・病人のための部屋』という意味です。病気の人が、横になって休み、療養するための部屋を指します。特に、家庭や学校などで、病人・具合の悪くなった人のために用意された部屋をいいます。rest in the sickroom（病室で休む）のように使います。sick（病気の）＋ room（部屋）が語源です。" },
+      { "q": "病院の病室と同じ？", "a": "sickroom は、特に家庭や学校などで病人のために用意された部屋を指すことが多い語です。学校で具合が悪くなった生徒が休む部屋（保健室 infirmary に近い）や、家で病人を寝かせておく部屋などがこれにあたります。病院の患者の部屋は、ふつう a hospital room や a ward（病棟）と言います。" }
+    ],
+    "quiz": [
+      { "q": "sickroom の意味は？", "A": "病気の人が休み療養するための部屋（病室）", "B": "台所", "C": "体育館", "D": "応接間", "correct": "A" },
+      { "q": "sickroom の成り立ちは？", "A": "sick（病気の）＋ room（部屋）", "B": "six（6）＋ room", "C": "sick（病気の）＋ broom（ほうき）", "D": "seek（さがす）＋ room", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sideboard",
+    "pron": "ˈsaɪdbɔːrd",
+    "kana": "サイドボード",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "side（わき）＋board（板・台）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B1", "日常"],
+    "meaning_main": "食器棚・サイドボード（食堂のわきに置く、食器や料理を置くための家具）／（英・複数 sideboards で）もみあげ",
+    "description": "sideboard（サイドボード）は「食器棚・サイドボード」という意味の名詞。食堂（ダイニング)のわきに置き、食器・ナイフフォーク・テーブルクロスなどをしまったり、料理や飲み物を上にのせて置いたりするための、戸棚のついた横長の家具を指します。serve the food from the sideboard（サイドボードから料理を取り分ける)のように使います。side（わき・横）＋ board（板・台)が語源です。上が平らな天板になっていて、下に引き出しや戸棚がついているものが多いです。また、イギリスでは、複数形の sideboards で「もみあげ(耳の前の、ほおに沿って生やしたひげ)」を指すこともあります（アメリカでは sideburns)。可算名詞です。",
+    "keywords": ["sideboard 意味", "sideboard 使い方", "食器棚 サイドボード 英語", "もみあげ 英語"],
+    "meanings": [
+      { "hinshi": "【名】食器棚、サイドボード", "note": "食堂のわきに置く、食器や料理を置く家具。serve from the sideboard。可算。" },
+      { "hinshi": "【名】（英・複数 sideboards で）もみあげ", "note": "ほおに沿って生やしたひげ。米では sideburns。side（わき）＋ board。" }
+    ],
+    "usages": [
+      { "title": "① 食器棚", "desc": "家具。", "example_en": "serve the food from the sideboard", "example_ja": "サイドボードから料理を取り分ける" },
+      { "title": "② もみあげ", "desc": "英・複数。", "example_en": "grow sideboards", "example_ja": "もみあげをはやす" }
+    ],
+    "warn": ["『食器棚・サイドボード（食堂のわきに置き、食器やテーブルクロスをしまったり、料理や飲み物をのせて置いたりする、戸棚のついた横長の家具）』。serve the food from the sideboard（サイドボードから料理を取り分ける）。上が平らな天板で、下に引き出しや戸棚がついたものが多い。英では複数形 sideboards で『もみあげ（ほおに沿ったひげ）』も（米では sideburns）。可算。", "side（わき・横）＋ board（板・台）。cupboard（食器棚）、cabinet（棚)と近い。"],
+    "etym_note": "side（わき・横）＋ board（板・台）＝『わきに置く台→食器棚・サイドボード』に由来。英では複数形で『もみあげ』も。",
+    "etym_chain": [
+      { "node": "side + board", "sub": "わきの台", "era": "中英語" },
+      { "node": "sideboard", "sub": "食器棚／もみあげ", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "serve the food from the sideboard", "ja": "サイドボードから料理を取り分ける" },
+      { "en": "a wooden sideboard", "ja": "木製の食器棚" },
+      { "en": "put the plates on the sideboard", "ja": "皿をサイドボードに置く" },
+      { "en": "an antique sideboard", "ja": "アンティークのサイドボード" },
+      { "en": "grow sideboards", "ja": "もみあげをはやす（英）" },
+      { "en": "a dining room sideboard", "ja": "食堂のサイドボード" }
+    ],
+    "related": [
+      { "en": "cupboard", "ja": "食器棚、戸棚" },
+      { "en": "cabinet", "ja": "飾り棚、キャビネット" },
+      { "en": "sideburns", "ja": "もみあげ（米）" },
+      { "en": "furniture", "ja": "家具" }
+    ],
+    "faq": [
+      { "q": "sideboard の意味は？", "a": "『食器棚・サイドボード』という意味です。食堂（ダイニング）のわきに置き、食器・ナイフフォーク・テーブルクロスなどをしまったり、料理や飲み物を上にのせて置いたりするための、戸棚のついた横長の家具を指します。serve the food from the sideboard（サイドボードから料理を取り分ける）のように使います。" },
+      { "q": "『もみあげ』の意味もある？", "a": "はい。イギリスでは、複数形の sideboards で『もみあげ（耳の前の、ほおに沿って生やしたひげ）』を指すこともあります。アメリカでは、もみあげは sideburns と言います。sideboard は side（わき・横）＋ board（板・台）の成り立ちで、家具の意味では cupboard（食器棚）、cabinet（棚）と近い語です。" }
+    ],
+    "quiz": [
+      { "q": "sideboard の意味は？", "A": "食堂のわきに置く食器棚（サイドボード）", "B": "まな板", "C": "黒板", "D": "本棚だけ", "correct": "A" },
+      { "q": "（英）複数形 sideboards のもう一つの意味は？", "A": "もみあげ", "B": "食器", "C": "料理", "D": "テーブル", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sidereal",
+    "pron": "saɪˈdɪriəl",
+    "kana": "サイディリアル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 sidus（星）＋-al",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "専門"],
+    "meaning_main": "恒星の・星の／恒星を基準にして測った（天文学）",
+    "description": "sidereal（サイディリアル）は「恒星の・星の」という意味の、天文学の専門的な形容詞。恒星（自ら光る星)に関すること、特に、恒星を基準として時間や周期を測ることを表します。a sidereal day（恒星日)のように使います。ラテン語 sidus（星)＋ -al（〜の)が語源です。最も重要な使い方は sidereal day（恒星日)で、これは、地球が、遠くの恒星を基準にして、ちょうど1回自転するのにかかる時間を指します（約23時間56分)。これは、太陽を基準にした1日（太陽日＝24時間)とはわずかにちがいます。また sidereal year（恒星年)もあります。星・恒星を基準にした、天文学の時間や位置を表すのに使われる、かたい専門語です。日常ではまず使われません。",
+    "keywords": ["sidereal 意味", "sidereal 使い方", "恒星の 英語", "恒星日 天文 英語"],
+    "meanings": [
+      { "hinshi": "【形】恒星の、星の", "note": "恒星に関する。ラテン語 sidus（星）＋ -al。かたい天文用語。" },
+      { "hinshi": "【形】恒星を基準にして測った", "note": "a sidereal day（恒星日＝約23時間56分）。a sidereal year（恒星年）。" }
+    ],
+    "usages": [
+      { "title": "① 恒星日", "desc": "天文。", "example_en": "a sidereal day", "example_ja": "恒星日" },
+      { "title": "② 恒星の", "desc": "星。", "example_en": "sidereal time", "example_ja": "恒星時" }
+    ],
+    "warn": ["『恒星の・星の／恒星を基準にして測った（恒星〔自ら光る星〕に関すること、特に恒星を基準に時間や周期を測ること）』の天文学の専門語。最も重要なのは a sidereal day（恒星日＝地球が遠くの恒星を基準にちょうど1回自転するのにかかる時間、約23時間56分）で、太陽を基準にした1日〔太陽日＝24時間〕とはわずかにちがう。a sidereal year（恒星年）も。日常ではまず使わない。", "ラテン語 sidus（星）＋ -al（〜の）。consider（＜星を見て考える)の語源とも関わる。"],
+    "etym_note": "ラテン語 sidus（星、属格 sideris）＋ -al（〜の）＝『星の・恒星の』に由来。consider（もとは『星を観察する』の意とも)と関わる sidus の仲間。",
+    "etym_chain": [
+      { "node": "sidus + -al", "sub": "星の", "era": "ラテン語" },
+      { "node": "sidereal", "sub": "恒星の・星の", "era": "17世紀" }
+    ],
+    "phrases": [
+      { "en": "a sidereal day", "ja": "恒星日（約23時間56分）" },
+      { "en": "sidereal time", "ja": "恒星時" },
+      { "en": "a sidereal year", "ja": "恒星年" },
+      { "en": "sidereal period", "ja": "（天体の）恒星周期" },
+      { "en": "sidereal and solar time", "ja": "恒星時と太陽時" },
+      { "en": "measured in sidereal days", "ja": "恒星日で測られて" }
+    ],
+    "related": [
+      { "en": "star", "ja": "星、恒星" },
+      { "en": "stellar", "ja": "星の、恒星の" },
+      { "en": "solar", "ja": "太陽の" },
+      { "en": "astronomical", "ja": "天文の、天文学的な" }
+    ],
+    "faq": [
+      { "q": "sidereal の意味は？", "a": "『恒星の・星の／恒星を基準にして測った』という意味の、天文学の専門的な形容詞です。恒星（自ら光る星）に関すること、特に、恒星を基準として時間や周期を測ることを表します。a sidereal day（恒星日）のように使います。ラテン語 sidus（星）＋ -al が語源です。" },
+      { "q": "sidereal day（恒星日）とは？", "a": "地球が、遠くの恒星を基準にして、ちょうど1回自転するのにかかる時間を指します（約23時間56分）。これは、太陽を基準にした1日（太陽日＝24時間）とはわずかにちがいます。sidereal は星・恒星を基準にした天文学の時間や位置を表すかたい専門語で、日常ではまず使われません。stellar（星の）、solar（太陽の）と関連します。" }
+    ],
+    "quiz": [
+      { "q": "sidereal の意味は？", "A": "恒星の・星の（恒星を基準にして測った）", "B": "太陽の", "C": "海の", "D": "地下の", "correct": "A" },
+      { "q": "a sidereal day（恒星日）はおよそ？", "A": "約23時間56分（恒星を基準にした自転1回）", "B": "ちょうど24時間", "C": "1週間", "D": "1年", "correct": "A" }
+    ]
+  },
+  {
+    "english": "sightless",
+    "pron": "ˈsaɪtləs",
+    "kana": "サイトレス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "sight（視力）＋-less（〜のない）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文語"],
+    "meaning_main": "目の見えない・視力のない（盲目の）（blind のやや文語的な言い方）",
+    "description": "sightless（サイトレス）は「目の見えない・視力のない」という意味の、やや文語的な形容詞。目が見えないこと、視力がないことを表します。sightless eyes（光を失った目)のように使います。sight（視力・見ること）＋ -less（〜のない)が語源で、「視力がない」という成り立ちです。日常では blind（目の見えない)を使うのがふつうで、sightless は文学的・改まった文章で使われる、やや硬い語です。また、文学などで、見えてはいても「何も見ていないような・うつろな（目)」を表すのに使われることもあります。-less は、hopeless（希望のない）、useless（役に立たない)のように「〜がない」の意味をそえる接尾辞です。反対にあたるのは sighted（目の見える)です。",
+    "keywords": ["sightless 意味", "sightless 使い方", "目の見えない 盲目の 英語", "blind 違い"],
+    "meanings": [
+      { "hinshi": "【形】目の見えない、視力のない（盲目の）", "note": "blind のやや文語的な言い方。sightless eyes。" },
+      { "hinshi": "【形】何も見ていないような、うつろな", "note": "sight（視力）＋ -less（〜のない）。日常は blind。反対は sighted。" }
+    ],
+    "usages": [
+      { "title": "① 目の見えない", "desc": "視力。", "example_en": "sightless eyes", "example_ja": "光を失った目" },
+      { "title": "② うつろな", "desc": "文学。", "example_en": "a sightless stare", "example_ja": "うつろな凝視" }
+    ],
+    "warn": ["『目の見えない・視力のない（盲目の）』のやや文語的な語。sightless eyes（光を失った目）。日常では blind（目の見えない）を使うのがふつうで、sightless は文学的・改まった文章で使う硬い語。文学で、見えてはいても『何も見ていないような・うつろな（目）』を表すことも。反対にあたるのは sighted（目の見える）。", "sight（視力・見ること）＋ -less（〜のない、hopeless / useless と同じ）。"],
+    "etym_note": "sight（視力・見ること）＋ -less（〜のない、hopeless / useless と同じ）＝『視力のない→目の見えない』に由来。blind のやや文語的な語。反対は sighted。",
+    "etym_chain": [
+      { "node": "sight + -less", "sub": "視力のない", "era": "中英語" },
+      { "node": "sightless", "sub": "目の見えない", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "sightless eyes", "ja": "光を失った目" },
+      { "en": "a sightless man", "ja": "目の見えない男性" },
+      { "en": "born sightless", "ja": "生まれつき目が見えない" },
+      { "en": "a sightless stare", "ja": "うつろな凝視" },
+      { "en": "the sightless", "ja": "目の見えない人々" },
+      { "en": "sightless from birth", "ja": "生まれつき視力がない" }
+    ],
+    "related": [
+      { "en": "blind", "ja": "目の見えない" },
+      { "en": "sight", "ja": "視力、見ること" },
+      { "en": "visually impaired", "ja": "視覚に障害のある" },
+      { "en": "sighted", "ja": "目の見える（反対）" }
+    ],
+    "faq": [
+      { "q": "sightless の意味は？", "a": "『目の見えない・視力のない（盲目の）』という意味の、やや文語的な形容詞です。目が見えないこと、視力がないことを表します。sightless eyes（光を失った目）のように使います。sight（視力・見ること）＋ -less（〜のない）が語源です。" },
+      { "q": "blind との違いは？", "a": "意味は同じ『目の見えない』ですが、日常では blind を使うのがふつうで、sightless は文学的・改まった文章で使われる、やや硬い語です。文学などで、見えてはいても『何も見ていないような・うつろな（目）』を表すのに使われることもあります。-less は hopeless / useless と同じ『〜がない』の接尾辞で、反対にあたるのは sighted（目の見える）です。" }
+    ],
+    "quiz": [
+      { "q": "sightless の意味は？", "A": "目の見えない・視力のない（盲目の）", "B": "耳の聞こえない", "C": "口のきけない", "D": "足の不自由な", "correct": "A" },
+      { "q": "sightless の日常的な語は？", "A": "blind（目の見えない）", "B": "deaf（耳の聞こえない）", "C": "sighted（目の見える）", "D": "bright（明るい）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "signaler_signaller",
+    "pron": "ˈsɪɡnələr",
+    "kana": "シグナラー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "signal（信号を送る）＋-er",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "専門"],
+    "meaning_main": "信号を送る人・信号手（手旗・ランプ・無線などで合図や信号を送る役の人）（signaler＝米／signaller＝英）",
+    "description": "signaler（シグナラー）は「信号を送る人・信号手」という意味の名詞。手旗・ランプ・無線・信号機などを使って、合図や信号を送る役目の人を指します。特に、軍隊や鉄道などで、通信や合図を担当する人をいいます。a signaler in the army（軍の通信兵)のように使います。signal（信号・合図／信号を送る）＋ -er（〜する人)が語源です。つづりは、アメリカ英語では signaler、イギリス英語では signaller（l を重ねる)と書きます。鉄道で、信号を操作して列車の運行を管理する人（信号係)や、軍で手旗・無線などで連絡をとる通信兵などが signaler にあたります。広く、何らかの合図・信号を送る人を指します。可算名詞です。",
+    "keywords": ["signaler 意味", "signaller 意味", "信号を送る人 信号手 英語", "通信兵 英語"],
+    "meanings": [
+      { "hinshi": "【名】信号を送る人、信号手", "note": "手旗・ランプ・無線などで合図や信号を送る役の人。a signaler in the army。米 signaler／英 signaller。可算。" },
+      { "hinshi": "【名】（軍・鉄道の）通信兵・信号係", "note": "signal（信号を送る）＋ -er。" }
+    ],
+    "usages": [
+      { "title": "① 信号手", "desc": "軍・鉄道。", "example_en": "a signaler in the army", "example_ja": "軍の通信兵" },
+      { "title": "② 合図を送る人", "desc": "通信。", "example_en": "the signaler waved a flag", "example_ja": "信号手が旗を振った" }
+    ],
+    "warn": ["『信号を送る人・信号手（手旗・ランプ・無線・信号機などを使って、合図や信号を送る役目の人）』。特に軍隊や鉄道などで通信や合図を担当する人。a signaler in the army（軍の通信兵）。つづりは米 signaler／英 signaller（l を重ねる）。鉄道の信号係、軍の通信兵などが signaler にあたる。可算。", "signal（信号・合図／信号を送る）＋ -er（〜する人）。"],
+    "etym_note": "signal（信号・合図／信号を送る、ラテン語 signum＝しるし から）＋ -er（〜する人）＝『信号を送る人→信号手』に由来。米 signaler／英 signaller。",
+    "etym_chain": [
+      { "node": "signal + -er", "sub": "信号を送る人", "era": "19世紀" },
+      { "node": "signaler / signaller", "sub": "信号手", "era": "19世紀" }
+    ],
+    "phrases": [
+      { "en": "a signaler in the army", "ja": "軍の通信兵" },
+      { "en": "the signaler waved a flag", "ja": "信号手が旗を振った" },
+      { "en": "a railway signaler", "ja": "鉄道の信号係" },
+      { "en": "a trained signaler", "ja": "訓練された信号手" },
+      { "en": "the ship's signaler", "ja": "船の信号手" },
+      { "en": "signal to the signaler", "ja": "信号手に合図する" }
+    ],
+    "related": [
+      { "en": "signal", "ja": "信号、合図／信号を送る" },
+      { "en": "signalman", "ja": "信号手、信号係" },
+      { "en": "flag", "ja": "旗、手旗" },
+      { "en": "communication", "ja": "通信、伝達" }
+    ],
+    "faq": [
+      { "q": "signaler の意味は？", "a": "『信号を送る人・信号手』という意味です。手旗・ランプ・無線・信号機などを使って、合図や信号を送る役目の人を指します。特に、軍隊や鉄道などで、通信や合図を担当する人をいいます。a signaler in the army（軍の通信兵）のように使います。signal（信号・合図）＋ -er（〜する人）が語源です。" },
+      { "q": "signaler と signaller の違いは？", "a": "同じ語でつづりの違いです。アメリカ英語では signaler、イギリス英語では signaller（l を重ねる）と書きます。意味は同じです。鉄道で信号を操作して列車の運行を管理する人（信号係）や、軍で手旗・無線などで連絡をとる通信兵などが signaler にあたります。signalman（信号手・信号係）も近い語です。" }
+    ],
+    "quiz": [
+      { "q": "signaler の意味は？", "A": "手旗や無線などで合図・信号を送る人（信号手）", "B": "荷物を運ぶ人", "C": "料理を作る人", "D": "絵をかく人", "correct": "A" },
+      { "q": "signaler（米）をイギリス英語では？", "A": "signaller", "B": "signaler のまま", "C": "signalor", "D": "signeler", "correct": "A" }
+    ]
+  },
+  {
+    "english": "significantly",
+    "pron": "sɪɡˈnɪfɪkəntli",
+    "kana": "シグニフィカントリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "significant（重要な・著しい）＋-ly",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "論説"],
+    "meaning_main": "著しく・かなり・大幅に／意味ありげに・意味深長に",
+    "description": "significantly（シグニフィカントリー）は「著しく・かなり・大幅に」という意味の副詞。程度や量が、はっきりとわかるほど大きく変化・ちがいがあることを表します。improve significantly（著しく改善する)のように使います。Sales increased significantly.（売り上げが大幅に増えた)のように使います。また「意味ありげに・意味深長(いみしんちょう)に」という意味もあり、smile significantly（意味ありげにほほえむ)のように使います。significant（重要な・著しい・意味のある）＋ -ly（副詞をつくる)が語源です。統計では「有意に（偶然とは考えにくいほどはっきりと)」という専門的な意味でも使われます。considerably / substantially（かなり・相当に)と近い意味です。slightly（わずかに)の反対にあたります。",
+    "keywords": ["significantly 意味", "significantly 使い方", "著しく かなり 英語", "意味ありげに 英語"],
+    "meanings": [
+      { "hinshi": "【副】著しく、かなり、大幅に", "note": "はっきりわかるほど大きく変化・ちがいがある。improve significantly。" },
+      { "hinshi": "【副】意味ありげに、意味深長に", "note": "smile significantly（意味ありげにほほえむ）。significant ＋ -ly。" }
+    ],
+    "usages": [
+      { "title": "① 著しく・大幅に", "desc": "程度。", "example_en": "improve significantly", "example_ja": "著しく改善する" },
+      { "title": "② 意味ありげに", "desc": "態度。", "example_en": "smile significantly", "example_ja": "意味ありげにほほえむ" }
+    ],
+    "warn": ["『著しく・かなり・大幅に（程度や量が、はっきりとわかるほど大きく変化・ちがいがある）』improve significantly（著しく改善する）、Sales increased significantly.（売り上げが大幅に増えた）。『意味ありげに・意味深長に』smile significantly（意味ありげにほほえむ）。統計で『有意に（偶然とは考えにくいほどはっきりと）』の専門的な意味も。considerably / substantially と近い。slightly（わずかに）の反対。", "significant（重要な・著しい・意味のある）＋ -ly（副詞化）。sign（しるし）、signify（意味する)の仲間。"],
+    "etym_note": "significant（重要な・著しい・意味のある、ラテン語 significare＝しるしで示す から）＋ -ly（副詞化）＝『著しく・意味ありげに』に由来。",
+    "etym_chain": [
+      { "node": "significant + -ly", "sub": "著しく", "era": "17世紀" },
+      { "node": "significantly", "sub": "著しく・意味ありげに", "era": "17世紀" }
+    ],
+    "phrases": [
+      { "en": "improve significantly", "ja": "著しく改善する" },
+      { "en": "Sales increased significantly.", "ja": "売り上げが大幅に増えた。" },
+      { "en": "significantly higher", "ja": "著しく高い" },
+      { "en": "significantly different", "ja": "大きく異なる、有意に異なる" },
+      { "en": "smile significantly", "ja": "意味ありげにほほえむ" },
+      { "en": "change significantly", "ja": "大きく変わる" }
+    ],
+    "related": [
+      { "en": "significant", "ja": "重要な、著しい、意味のある" },
+      { "en": "considerably", "ja": "かなり、相当に" },
+      { "en": "substantially", "ja": "大幅に、実質的に" },
+      { "en": "slightly", "ja": "わずかに（反対）" }
+    ],
+    "faq": [
+      { "q": "significantly の意味は？", "a": "『著しく・かなり・大幅に』という意味の副詞です。程度や量が、はっきりとわかるほど大きく変化・ちがいがあることを表します。improve significantly（著しく改善する）、Sales increased significantly.（売り上げが大幅に増えた）のように使います。『意味ありげに・意味深長に』の意味もあります。" },
+      { "q": "slightly との違いは？", "a": "significantly（著しく・大幅に）は変化やちがいが大きいこと、slightly（わずかに）は小さいことを表し、反対にあたります。significantly は considerably / substantially（かなり・相当に）と近い意味です。統計では『有意に（偶然とは考えにくいほどはっきりと）』の専門的な意味もあります。significant（重要な・著しい）＋ -ly の成り立ちで、sign（しるし）、signify（意味する）の仲間です。" }
+    ],
+    "quiz": [
+      { "q": "improve significantly の意味は？", "A": "著しく（大幅に）改善する", "B": "少しだけ改善する", "C": "まったく変わらない", "D": "悪化する", "correct": "A" },
+      { "q": "significantly の反対にあたる語は？", "A": "slightly（わずかに）", "B": "considerably（かなり）", "C": "substantially（大幅に）", "D": "greatly（大いに）", "correct": "A" }
+    ]
+  }
+]
