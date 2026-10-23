@@ -1,0 +1,982 @@
+[
+  {
+    "english": "statics",
+    "pron": "ˈstætɪks",
+    "kana": "スタティックス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "static（静止の）＋-s（学問名）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "専門"],
+    "meaning_main": "静力学（せいりきがく）（力のつり合いや、静止している物体にはたらく力を研究する、物理学・力学の一分野）",
+    "description": "statics（スタティックス）は「静力学(せいりきがく)」という意味の、物理学・力学の専門的な名詞。止まっている（静止している)物体や、動いていない構造物に、どのように力がはたらき、どうやってつり合っているか、を研究する学問の分野を指します。study statics（静力学を学ぶ)のように使います。static（静止の・動かない）＋ -s（学問名をつくる、physics＝物理学 などと同じ)が語源です。-s で終わりますが、学問名なので、ふつう単数あつかいにします（Statics is...)。動いているものの力や運動をあつかう dynamics（動力学・力学)と対になる分野で、橋や建物が、力を受けてもくずれずに立っていられるしくみなどを調べるのに役立ちます。なお、static の複数形（静電気・雑音)としての statics とは別の、学問名としての用法です。ふつう不可算的（単数あつかい)に使います。",
+    "keywords": ["statics 意味", "statics 使い方", "静力学 英語", "dynamics 対 力学"],
+    "meanings": [
+      { "hinshi": "【名】静力学（せいりきがく）", "note": "静止した物体にはたらく力やつり合いを研究する力学の分野。study statics。単数あつかい。" },
+      { "hinshi": "【名】力のつり合いの学問", "note": "static（静止の）＋ -s（学問名）。dynamics（動力学）と対。" }
+    ],
+    "usages": [
+      { "title": "① 静力学", "desc": "物理。", "example_en": "study statics", "example_ja": "静力学を学ぶ" },
+      { "title": "② 力のつり合い", "desc": "力学。", "example_en": "a problem in statics", "example_ja": "静力学の問題" }
+    ],
+    "warn": ["『静力学〔せいりきがく〕（止まっている〔静止している〕物体や、動いていない構造物に、どのように力がはたらき、どうやってつり合っているか、を研究する、物理学・力学の分野）』。study statics（静力学を学ぶ）。-s で終わるが学問名なのでふつう単数あつかい（Statics is...）。動いているものをあつかう dynamics（動力学・力学）と対。橋や建物がくずれずに立つしくみなどを調べる。static の複数形（静電気・雑音）とは別の用法。単数あつかい。", "static（静止の・動かない）＋ -s（学問名をつくる、physics などと同じ）。dynamics（動力学)と対。"],
+    "etym_note": "static（静止の・動かない）＋ -s（学問名をつくる、physics＝物理学 などと同じ）＝『静止をあつかう学問→静力学』に由来。dynamics（動力学・力学）と対。学問名なので単数あつかい。",
+    "etym_chain": [
+      { "node": "static + -s", "sub": "静止をあつかう学問", "era": "17世紀" },
+      { "node": "statics", "sub": "静力学", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "study statics", "ja": "静力学を学ぶ" },
+      { "en": "a problem in statics", "ja": "静力学の問題" },
+      { "en": "statics and dynamics", "ja": "静力学と動力学" },
+      { "en": "the laws of statics", "ja": "静力学の法則" },
+      { "en": "apply statics to a bridge", "ja": "橋に静力学を応用する" },
+      { "en": "Statics is a branch of mechanics.", "ja": "静力学は力学の一分野だ。" }
+    ],
+    "related": [
+      { "en": "dynamics", "ja": "動力学、力学（対）" },
+      { "en": "mechanics", "ja": "力学" },
+      { "en": "static", "ja": "静的な、動かない" },
+      { "en": "physics", "ja": "物理学" }
+    ],
+    "faq": [
+      { "q": "statics の意味は？", "a": "『静力学（せいりきがく）』という意味の、物理学・力学の専門的な名詞です。止まっている（静止している）物体や、動いていない構造物に、どのように力がはたらき、どうやってつり合っているか、を研究する学問の分野を指します。study statics（静力学を学ぶ）のように使います。-s で終わりますが、学問名なので、ふつう単数あつかいにします。" },
+      { "q": "dynamics との違いは？", "a": "statics（静力学）は、止まっている物体の力のつり合いを研究し、dynamics（動力学・力学）は、動いている物体の力や運動を研究します。対になる分野で、どちらも mechanics（力学）の一部です。statics は、橋や建物が、力を受けてもくずれずに立っていられるしくみなどを調べるのに役立ちます。なお、static の複数形（静電気・雑音）としての statics とは別の、学問名としての用法です。" }
+    ],
+    "quiz": [
+      { "q": "statics の意味は？", "A": "静止した物体の力のつり合いを研究する静力学", "B": "動物の分類学", "C": "星の観測", "D": "言語の文法", "correct": "A" },
+      { "q": "statics と対になる分野は？", "A": "dynamics（動力学・力学）", "B": "statistics（統計学）", "C": "economics（経済学）", "D": "ethics（倫理学）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "stationary",
+    "pron": "ˈsteɪʃəneri",
+    "kana": "ステイショナリー",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 stationarius（定位置の）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "論説"],
+    "meaning_main": "静止した・動かない・（位置が）変わらない（じっと止まっていて動いていない）（文房具の stationery と混同注意）",
+    "description": "stationary（ステイショナリー）は「静止した・動かない・（位置が)変わらない」という意味の形容詞。乗り物や物などが、じっと止まっていて、動いたり、場所が変わったりしていない状態を表します。a stationary car（止まっている車)のように使います。ラテン語 stationarius（定位置の、statio＝立っている場所 から)に由来します。remain stationary（じっと動かないでいる)のように使います。とくに注意したいのが、発音がまったく同じ stationery（ステイショナリー＝文房具・便せん)との区別です。つづりが -ary なら「静止した（形容詞)」、-ery なら「文房具（名詞)」です。「car（車)は a が入って stationary（止まっている)」「e（＝envelope 封筒)が入って stationery（文房具)」のように覚えるとよいでしょう。moving（動いている)の反対です。論説・理科でよく使う語です。",
+    "keywords": ["stationary 意味", "stationary 使い方", "静止した 動かない 英語", "stationery 文房具 違い"],
+    "meanings": [
+      { "hinshi": "【形】静止した、動かない、（位置が）変わらない", "note": "じっと止まって動いていない。a stationary car。moving の反対。" },
+      { "hinshi": "【形】定位置の", "note": "ラテン語 stationarius（定位置の）。文房具の stationery（-ery）と混同注意。" }
+    ],
+    "usages": [
+      { "title": "① 止まっている", "desc": "乗り物。", "example_en": "a stationary car", "example_ja": "止まっている車" },
+      { "title": "② 動かないでいる", "desc": "状態。", "example_en": "remain stationary", "example_ja": "じっと動かないでいる" }
+    ],
+    "warn": ["『静止した・動かない・（位置が)変わらない（乗り物や物などが、じっと止まっていて、動いたり、場所が変わったりしていない状態）』。a stationary car（止まっている車）、remain stationary（じっと動かないでいる）。発音がまったく同じ stationery（文房具・便せん）との区別に注意。-ary なら『静止した（形容詞）』、-ery なら『文房具（名詞）』。moving（動いている）の反対。論説・理科で使う。", "ラテン語 stationarius（定位置の、statio＝立っている場所 から）。stationery（文房具)と同音異義で混同注意。moving の反対。"],
+    "etym_note": "ラテン語 stationarius（定位置の、statio＝立っている場所 から）に由来。『静止した・動かない』。発音が同じ stationery（文房具、-ery）とは別語なので混同注意。moving の反対。",
+    "etym_chain": [
+      { "node": "stationarius", "sub": "定位置の", "era": "ラテン語" },
+      { "node": "stationary", "sub": "静止した・動かない", "era": "15世紀" }
+    ],
+    "phrases": [
+      { "en": "a stationary car", "ja": "止まっている車" },
+      { "en": "remain stationary", "ja": "じっと動かないでいる" },
+      { "en": "a stationary object", "ja": "静止した物体" },
+      { "en": "a stationary bike", "ja": "エアロバイク（室内の固定式自転車）" },
+      { "en": "keep the camera stationary", "ja": "カメラを動かさないでおく" },
+      { "en": "prices remained stationary", "ja": "価格は動かないままだった" }
+    ],
+    "related": [
+      { "en": "stationery", "ja": "文房具、便せん（同音・別語）" },
+      { "en": "static", "ja": "静的な、動かない" },
+      { "en": "motionless", "ja": "動かない、静止した" },
+      { "en": "moving", "ja": "動いている（反対）" }
+    ],
+    "faq": [
+      { "q": "stationary の意味は？", "a": "『静止した・動かない・（位置が）変わらない』という意味の形容詞です。乗り物や物などが、じっと止まっていて、動いたり、場所が変わったりしていない状態を表します。a stationary car（止まっている車）、remain stationary（じっと動かないでいる）のように使います。moving（動いている）の反対です。" },
+      { "q": "stationery との違いは？", "a": "発音はまったく同じですが、別の語なので注意が必要です。つづりが -ary の stationary は『静止した（形容詞）』、-ery の stationery は『文房具・便せん（名詞）』です。『car（車）は a が入って stationary（止まっている）』『e（＝envelope 封筒）が入って stationery（文房具）』のように覚えるとよいでしょう。stationary はラテン語 stationarius（定位置の）に由来します。" }
+    ],
+    "quiz": [
+      { "q": "a stationary car の意味は？", "A": "止まっている（動いていない）車", "B": "走っている車", "C": "新しい車", "D": "こわれた車", "correct": "A" },
+      { "q": "stationary と発音が同じで『文房具』を意味する語は？", "A": "stationery", "B": "station", "C": "stationary のまま", "D": "stature", "correct": "A" }
+    ]
+  },
+  {
+    "english": "stationwagon",
+    "pron": "ˈsteɪʃn wæɡən",
+    "kana": "ステーション・ワゴン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "station（駅）＋wagon（荷車）",
+    "ld_level": "1級",
+    "badges": ["中学生〜", "英検1級", "CEFR B1", "日常"],
+    "meaning_main": "（米）ステーションワゴン（後部の荷室が客室とつながった、荷物をたくさん積める箱型の乗用車）（正しくは station wagon）",
+    "description": "stationwagon は、本来 station wagon と2語で書く語で、主にアメリカで「ステーションワゴン」という意味です。ふつうの乗用車(セダン)の後ろをのばして、屋根を後端まで水平にのばし、後部の荷物スペース(荷室)が客室とつながった、箱型で、荷物をたくさん積める乗用車を指します。drive a station wagon（ステーションワゴンを運転する)のように使います。正しくは station wagon と2語で書きます。station（駅）＋ wagon（荷車・ワゴン)が語源で、もともと、駅と宿の間で、客や荷物を運ぶのに使われた車に由来するとされます。後ろのドア(テールゲート)から、大きな荷物も積みおろしでき、家族連れやアウトドアに便利です。イギリス英語では estate car（エステートカー)と言います。可算名詞です。",
+    "keywords": ["station wagon 意味", "stationwagon 使い方", "ステーションワゴン 英語", "estate car 米英"],
+    "meanings": [
+      { "hinshi": "【名】（米）ステーションワゴン", "note": "後部の荷室が客室とつながった箱型で荷物を積める乗用車。正しくは station wagon。可算。" },
+      { "hinshi": "【名】荷物をたくさん積める乗用車", "note": "station（駅）＋ wagon（荷車）。英では estate car。" }
+    ],
+    "usages": [
+      { "title": "① ステーションワゴン", "desc": "自動車。", "example_en": "drive a station wagon", "example_ja": "ステーションワゴンを運転する" },
+      { "title": "② 荷物の積める車", "desc": "家族向け。", "example_en": "a family station wagon", "example_ja": "家族向けのステーションワゴン" }
+    ],
+    "warn": ["正しくは station wagon と2語で書く。『（米)ステーションワゴン（ふつうの乗用車〔セダン〕の後ろをのばして、屋根を後端まで水平にのばし、後部の荷物スペース〔荷室〕が客室とつながった、箱型で、荷物をたくさん積める乗用車）』。drive a station wagon（運転する）。後ろのドア〔テールゲート〕から大きな荷物も積みおろしでき、家族連れやアウトドアに便利。イギリス英語では estate car（エステートカー）。可算。", "station（駅）＋ wagon（荷車・ワゴン）。もと駅と宿の間で客・荷物を運んだ車から。英では estate car。"],
+    "etym_note": "station（駅）＋ wagon（荷車・ワゴン）＝もともと、駅と宿の間で、客や荷物を運ぶのに使われた車に由来するとされる。正しくは station wagon。イギリス英語では estate car。",
+    "etym_chain": [
+      { "node": "station + wagon", "sub": "駅の荷車", "era": "20世紀初め" },
+      { "node": "station wagon", "sub": "ステーションワゴン", "era": "20世紀" }
+    ],
+    "phrases": [
+      { "en": "drive a station wagon", "ja": "ステーションワゴンを運転する" },
+      { "en": "a family station wagon", "ja": "家族向けのステーションワゴン" },
+      { "en": "load up the station wagon", "ja": "ステーションワゴンに荷物を積む" },
+      { "en": "an old station wagon", "ja": "古いステーションワゴン" },
+      { "en": "the back of the station wagon", "ja": "ステーションワゴンの後部" },
+      { "en": "an estate car (英)", "ja": "ステーションワゴン（英の言い方）" }
+    ],
+    "related": [
+      { "en": "estate car", "ja": "ステーションワゴン（英）" },
+      { "en": "sedan", "ja": "セダン（箱型の乗用車）" },
+      { "en": "car", "ja": "車、自動車" },
+      { "en": "hatchback", "ja": "ハッチバック（後部に跳ね上げ式ドアのある車）" }
+    ],
+    "faq": [
+      { "q": "station wagon とは？", "a": "主にアメリカで『ステーションワゴン』という意味です。ふつうの乗用車（セダン）の後ろをのばして、屋根を後端まで水平にのばし、後部の荷物スペース（荷室）が客室とつながった、箱型で、荷物をたくさん積める乗用車を指します。drive a station wagon（ステーションワゴンを運転する）のように使います。正しくは station wagon と2語で書きます。" },
+      { "q": "estate car との違いは？", "a": "同じものを指しますが、station wagon はアメリカ英語、estate car はイギリス英語です。station（駅）＋ wagon（荷車）が語源で、もともと、駅と宿の間で、客や荷物を運ぶのに使われた車に由来するとされます。後ろのドア（テールゲート）から、大きな荷物も積みおろしでき、家族連れやアウトドアに便利な車です。" }
+    ],
+    "quiz": [
+      { "q": "（米）station wagon とは？", "A": "後部の荷室が客室とつながった、荷物を積める箱型の乗用車", "B": "駅の待合室", "C": "貨物列車", "D": "2人乗りのスポーツカー", "correct": "A" },
+      { "q": "station wagon をイギリス英語では？", "A": "estate car", "B": "station wagon のまま", "C": "sedan", "D": "truck", "correct": "A" }
+    ]
+  },
+  {
+    "english": "statistician",
+    "pron": "ˌstætɪˈstɪʃn",
+    "kana": "スタティスティシャン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "statistic（統計）＋-ian（専門家）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "専門"],
+    "meaning_main": "統計学者・統計の専門家（数字のデータを集め、分析し、意味を読み解くことを専門にする人）",
+    "description": "statistician（スタティスティシャン）は「統計学者・統計の専門家」という意味の名詞。たくさんの数字のデータ(統計)を、集めて、整理し、分析して、その意味や傾向(けいこう)を読み解くことを専門にする人を指します。a government statistician（政府の統計専門家)のように使います。statistic（統計・統計値）＋ -ian（〜の専門家)が語源です。-ician は、musician（音楽家）、physician（内科医）、politician（政治家)などと同じく、「ある分野の専門家・技術者」を表します。統計学者は、調査やアンケートの結果、人口・経済・医療などのデータを分析し、そこから、確かなことを見つけ出したり、未来を予測したりします。データサイエンスの時代に、ますます重要になっている専門職です。可算名詞です。",
+    "keywords": ["statistician 意味", "statistician 使い方", "統計学者 統計の専門家 英語", "statistics 統計"],
+    "meanings": [
+      { "hinshi": "【名】統計学者、統計の専門家", "note": "数字のデータを集め分析し意味を読み解く人。a government statistician。可算。" },
+      { "hinshi": "【名】統計を専門にする人", "note": "statistic（統計）＋ -ian（専門家）。musician / physician などと同じ -ician。" }
+    ],
+    "usages": [
+      { "title": "① 統計学者", "desc": "専門職。", "example_en": "a government statistician", "example_ja": "政府の統計専門家" },
+      { "title": "② 統計の専門家", "desc": "分析。", "example_en": "work as a statistician", "example_ja": "統計の専門家として働く" }
+    ],
+    "warn": ["『統計学者・統計の専門家（たくさんの数字のデータ〔統計〕を、集めて、整理し、分析して、その意味や傾向〔けいこう〕を読み解くことを専門にする人）』。a government statistician（政府の統計専門家）。-ician は musician（音楽家）、physician（内科医）、politician（政治家）などと同じく『ある分野の専門家・技術者』を表す。調査・人口・経済・医療などのデータを分析し、確かなことを見つけたり未来を予測したりする。データサイエンスの時代に重要な専門職。可算。", "statistic（統計・統計値）＋ -ian（〜の専門家）。statistics（統計学）の専門家。"],
+    "etym_note": "statistic（統計・統計値）＋ -ian（〜の専門家、musician / physician などと同じ）＝『統計の専門家→統計学者』に由来。statistics（統計学）を専門にする人。",
+    "etym_chain": [
+      { "node": "statistic + -ian", "sub": "統計の専門家", "era": "19世紀" },
+      { "node": "statistician", "sub": "統計学者", "era": "19世紀" }
+    ],
+    "phrases": [
+      { "en": "a government statistician", "ja": "政府の統計専門家" },
+      { "en": "work as a statistician", "ja": "統計の専門家として働く" },
+      { "en": "a medical statistician", "ja": "医療統計の専門家" },
+      { "en": "a team of statisticians", "ja": "統計学者のチーム" },
+      { "en": "according to statisticians", "ja": "統計学者によれば" },
+      { "en": "a skilled statistician", "ja": "腕のいい統計学者" }
+    ],
+    "related": [
+      { "en": "statistics", "ja": "統計、統計学" },
+      { "en": "statistic", "ja": "統計値、統計の数字" },
+      { "en": "data", "ja": "データ、資料" },
+      { "en": "analyst", "ja": "分析者、アナリスト" }
+    ],
+    "faq": [
+      { "q": "statistician の意味は？", "a": "『統計学者・統計の専門家』という意味です。たくさんの数字のデータ（統計）を、集めて、整理し、分析して、その意味や傾向を読み解くことを専門にする人を指します。a government statistician（政府の統計専門家）のように使います。statistic（統計）＋ -ian（〜の専門家）が語源です。" },
+      { "q": "-ician とは？", "a": "-ician は、musician（音楽家）、physician（内科医）、politician（政治家）などと同じく、『ある分野の専門家・技術者』を表す語尾です。統計学者は、調査やアンケートの結果、人口・経済・医療などのデータを分析し、そこから、確かなことを見つけ出したり、未来を予測したりします。データサイエンスの時代に、ますます重要になっている専門職です。" }
+    ],
+    "quiz": [
+      { "q": "statistician の意味は？", "A": "数字のデータを分析する統計の専門家（統計学者）", "B": "音楽家", "C": "小説家", "D": "大工", "correct": "A" },
+      { "q": "statistician の -ician と同じ語尾の語は？", "A": "musician（音楽家）", "B": "statistics（統計学）", "C": "data（データ）", "D": "number（数）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "statuary",
+    "pron": "ˈstætʃueri",
+    "kana": "スタチュアリー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 statuarius（彫像の）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "専門"],
+    "meaning_main": "（集合的に）彫像（ちょうぞう）・彫像群／彫像製作術（まとめて指す、像の集まりや、像を作る技術）",
+    "description": "statuary（スタチュアリー）は「（集合的に)彫像(ちょうぞう)・彫像群」という意味の名詞。一つ一つの像ではなく、彫像(statue)を、ひとまとめにして・集合的に指す語です。classical statuary（古典的な彫像群)のように使います。また、彫像を作る技術・芸術「彫像製作術・彫塑(ちょうそ)」の意味もあります。ラテン語 statuarius（彫像の、statua＝像 から)に由来します。公園・庭園・美術館・建物などに置かれた、たくさんの彫像をまとめて言うときに使われます。marble statuary（大理石の彫像群)のように使います。一つの像を指す statue とは、集合的に使う点で違います。美術・建築・歴史の、ややかたい文脈で使われる語です。ふつう不可算的（集合名詞)に使います。",
+    "keywords": ["statuary 意味", "statuary 使い方", "彫像 彫像群 英語", "statue 彫像製作術"],
+    "meanings": [
+      { "hinshi": "【名】（集合的に）彫像・彫像群", "note": "彫像をひとまとめに指す集合名詞。classical statuary。不可算的。" },
+      { "hinshi": "【名】彫像製作術・彫塑（ちょうそ）", "note": "ラテン語 statuarius（彫像の）。一つの像は statue。" }
+    ],
+    "usages": [
+      { "title": "① 彫像群", "desc": "集合。", "example_en": "classical statuary", "example_ja": "古典的な彫像群" },
+      { "title": "② 彫像製作術", "desc": "芸術。", "example_en": "the art of statuary", "example_ja": "彫像製作の芸術" }
+    ],
+    "warn": ["『（集合的に)彫像〔ちょうぞう〕・彫像群（一つ一つの像ではなく、彫像〔statue〕を、ひとまとめにして・集合的に指す語）』classical statuary（古典的な彫像群）。『彫像を作る技術・芸術＝彫像製作術・彫塑〔ちょうそ〕』の意味も。公園・庭園・美術館・建物などの、たくさんの彫像をまとめて言うときに使う。一つの像を指す statue とは集合的に使う点で違う。美術・建築・歴史のややかたい文脈。不可算的（集合名詞）。", "ラテン語 statuarius（彫像の、statua＝像 から）。一つの像は statue、彫刻は sculpture。"],
+    "etym_note": "ラテン語 statuarius（彫像の、statua＝像 から）に由来。『（集合的に)彫像・彫像群／彫像製作術』。一つの像を指す statue とは、集合的に使う点で異なる。",
+    "etym_chain": [
+      { "node": "statuarius", "sub": "彫像の", "era": "ラテン語" },
+      { "node": "statuary", "sub": "彫像群・彫像製作術", "era": "16世紀" }
+    ],
+    "phrases": [
+      { "en": "classical statuary", "ja": "古典的な彫像群" },
+      { "en": "marble statuary", "ja": "大理石の彫像群" },
+      { "en": "the art of statuary", "ja": "彫像製作の芸術" },
+      { "en": "garden statuary", "ja": "庭園の彫像群" },
+      { "en": "ancient statuary", "ja": "古代の彫像群" },
+      { "en": "a collection of statuary", "ja": "彫像のコレクション" }
+    ],
+    "related": [
+      { "en": "statue", "ja": "彫像、像（一つ）" },
+      { "en": "sculpture", "ja": "彫刻" },
+      { "en": "statuette", "ja": "小さな彫像、小立像" },
+      { "en": "monument", "ja": "記念碑、記念像" }
+    ],
+    "faq": [
+      { "q": "statuary の意味は？", "a": "『（集合的に）彫像（ちょうぞう）・彫像群』という意味です。一つ一つの像ではなく、彫像（statue）を、ひとまとめにして・集合的に指す語です。classical statuary（古典的な彫像群）のように使います。また、彫像を作る技術・芸術『彫像製作術・彫塑（ちょうそ）』の意味もあります。" },
+      { "q": "statue との違いは？", "a": "statue は一つ一つの『彫像・像』を指す数えられる名詞ですが、statuary は、たくさんの彫像を、ひとまとめにして・集合的に指す集合名詞です。公園・庭園・美術館・建物などに置かれた、たくさんの彫像をまとめて言うときに使われます（marble statuary＝大理石の彫像群）。ラテン語 statuarius（彫像の）に由来し、美術・建築・歴史の、ややかたい文脈で使われます。" }
+    ],
+    "quiz": [
+      { "q": "statuary の意味は？", "A": "（集合的に）彫像・彫像群", "B": "絵画一枚", "C": "一冊の本", "D": "一本の木", "correct": "A" },
+      { "q": "一つの『彫像』を表す語は？", "A": "statue", "B": "statuary", "C": "stationary", "D": "statistic", "correct": "A" }
+    ]
+  },
+  {
+    "english": "statuette",
+    "pron": "ˌstætʃuˈet",
+    "kana": "スタチュエット",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "statue（彫像）＋-ette（小さい）",
+    "ld_level": "1級",
+    "badges": ["中学生〜", "英検1級", "CEFR B1", "日常"],
+    "meaning_main": "小立像（しょうりつぞう）・小さな彫像（棚などに飾れる、小型の人・動物などの像）",
+    "description": "statuette（スタチュエット）は「小立像(しょうりつぞう)・小さな彫像」という意味の名詞。棚やテーブルの上などに飾れるくらいの、小型の、人や動物などをかたどった像を指します。a bronze statuette（ブロンズ〔青銅〕の小立像)のように使います。statue（彫像・像）＋ -ette（小さいものを表す)が語源です。-ette は、cigarette（紙巻きたばこ）、kitchenette（簡易キッチン)などと同じく、「小さい〜」を表すフランス語ふうの語尾です。大きな statue（彫像、屋外や広場に立つような大きな像)に対して、手に持てる・室内に飾れるような、小さな像が statuette です。トロフィーや賞として贈られる小さな人物像(たとえば映画賞のオスカー像)なども statuette と呼ばれます。可算名詞です。",
+    "keywords": ["statuette 意味", "statuette 使い方", "小立像 小さな彫像 英語", "statue -ette 小さい"],
+    "meanings": [
+      { "hinshi": "【名】小立像（しょうりつぞう）、小さな彫像", "note": "棚などに飾れる小型の人・動物などの像。a bronze statuette。可算。" },
+      { "hinshi": "【名】（賞の）小さな人物像", "note": "statue（彫像）＋ -ette（小さい）。トロフィーの像など。" }
+    ],
+    "usages": [
+      { "title": "① 小立像", "desc": "飾り。", "example_en": "a bronze statuette", "example_ja": "ブロンズの小立像" },
+      { "title": "② 小さな彫像", "desc": "像。", "example_en": "a statuette on the shelf", "example_ja": "棚の上の小さな彫像" }
+    ],
+    "warn": ["『小立像〔しょうりつぞう〕・小さな彫像（棚やテーブルの上などに飾れるくらいの、小型の、人や動物などをかたどった像）』。a bronze statuette（ブロンズ〔青銅〕の小立像）。-ette は cigarette（紙巻きたばこ）、kitchenette（簡易キッチン）などと同じく『小さい〜』を表すフランス語ふうの語尾。大きな statue（屋外や広場に立つような大きな像）に対し、手に持てる・室内に飾れる小さな像。トロフィー・賞の小さな人物像（映画賞のオスカー像など）も statuette。可算。", "statue（彫像・像）＋ -ette（小さいものを表す、cigarette などと同じ）。大きな像は statue。"],
+    "etym_note": "statue（彫像・像）＋ -ette（小さいものを表す、cigarette / kitchenette などと同じフランス語ふうの語尾）＝『小さな彫像→小立像』に由来。大きな像は statue。",
+    "etym_chain": [
+      { "node": "statue + -ette", "sub": "小さな彫像", "era": "19世紀" },
+      { "node": "statuette", "sub": "小立像", "era": "19世紀" }
+    ],
+    "phrases": [
+      { "en": "a bronze statuette", "ja": "ブロンズの小立像" },
+      { "en": "a statuette on the shelf", "ja": "棚の上の小さな彫像" },
+      { "en": "a small statuette", "ja": "小さな小立像" },
+      { "en": "a porcelain statuette", "ja": "磁器の小立像" },
+      { "en": "win a golden statuette", "ja": "金色の小像（賞）を受賞する" },
+      { "en": "collect statuettes", "ja": "小立像を集める" }
+    ],
+    "related": [
+      { "en": "statue", "ja": "彫像、像（大きいもの）" },
+      { "en": "statuary", "ja": "彫像群、彫像製作術" },
+      { "en": "figurine", "ja": "小さな人形・置物" },
+      { "en": "sculpture", "ja": "彫刻" }
+    ],
+    "faq": [
+      { "q": "statuette の意味は？", "a": "『小立像（しょうりつぞう）・小さな彫像』という意味です。棚やテーブルの上などに飾れるくらいの、小型の、人や動物などをかたどった像を指します。a bronze statuette（ブロンズ〔青銅〕の小立像）のように使います。statue（彫像）＋ -ette（小さいものを表す）が語源です。" },
+      { "q": "statue との違いは？", "a": "大きな statue（彫像、屋外や広場に立つような大きな像）に対して、手に持てる・室内に飾れるような、小さな像が statuette です。-ette は、cigarette（紙巻きたばこ）、kitchenette（簡易キッチン）などと同じく、『小さい〜』を表すフランス語ふうの語尾です。トロフィーや賞として贈られる小さな人物像（たとえば映画賞のオスカー像）なども statuette と呼ばれます。" }
+    ],
+    "quiz": [
+      { "q": "statuette の意味は？", "A": "棚などに飾れる小さな彫像（小立像）", "B": "広場に立つ巨大な像", "C": "大きな絵画", "D": "高い塔", "correct": "A" },
+      { "q": "statuette の -ette の意味は？", "A": "小さい〜（cigarette などと同じ）", "B": "大きい〜", "C": "古い〜", "D": "速い〜", "correct": "A" }
+    ]
+  },
+  {
+    "english": "status",
+    "pron": "ˈsteɪtəs",
+    "kana": "ステイタス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 status（立っていること・状態）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "論説"],
+    "meaning_main": "地位・身分・ステータス／状態・状況（社会的な立場、またものごとの現在のようす）",
+    "description": "status（ステイタス）は、主に2つの意味をもつ名詞。1つは「地位・身分・ステータス」で、社会や組織の中での、その人の立場・ランク・格を指します。social status（社会的地位)のように使います。高い地位・名声をともなう立場、という意味合いでもよく使われます(a symbol of status＝ステータスシンボル・地位の象徴)。2つめは「状態・状況」で、ものごとの、今の、ありさま・進みぐあいを指します。check the status of an order（注文の状況を確認する)のように使います。ラテン語 status（立っていること・状態、stare＝立つ から)に由来します。marital status（配偶〔はいぐう〕の有無・未婚か既婚かの別）、the status quo（現状)のような言い方もよく使います。日常・ビジネス・社会の話で広く使う、重要な語です。可算・不可算で使います。",
+    "keywords": ["status 意味", "status 使い方", "地位 身分 状態 英語", "ステータス status quo"],
+    "meanings": [
+      { "hinshi": "【名】地位、身分、ステータス", "note": "社会や組織の中での立場・ランク・格。social status。高い地位・名声の意味合いも。" },
+      { "hinshi": "【名】状態、状況", "note": "ものごとの今のありさま・進みぐあい。check the status。ラテン語 status（状態）。" }
+    ],
+    "usages": [
+      { "title": "① 地位・身分", "desc": "社会。", "example_en": "social status", "example_ja": "社会的地位" },
+      { "title": "② 状態・状況", "desc": "進行。", "example_en": "check the status of an order", "example_ja": "注文の状況を確認する" }
+    ],
+    "warn": ["主に2つ。『地位・身分・ステータス（社会や組織の中での、その人の立場・ランク・格。高い地位・名声をともなう立場の意味合いも）』social status（社会的地位）、a symbol of status（ステータスシンボル）、『状態・状況（ものごとの今のありさま・進みぐあい）』check the status of an order（注文の状況を確認する）。marital status（未婚か既婚かの別）、the status quo（現状）。日常・ビジネス・社会で広く使う重要語。可算・不可算。", "ラテン語 status（立っていること・状態、stare＝立つ から）。state（状態)と同語源。"],
+    "etym_note": "ラテン語 status（立っていること・状態、stare＝立つ から）に由来。『地位・身分／状態・状況』。state（状態）と同語源。the status quo（現状）などの言い方も。",
+    "etym_chain": [
+      { "node": "status", "sub": "立っていること・状態", "era": "ラテン語" },
+      { "node": "status", "sub": "地位・状態", "era": "17世紀" }
+    ],
+    "phrases": [
+      { "en": "social status", "ja": "社会的地位" },
+      { "en": "check the status of an order", "ja": "注文の状況を確認する" },
+      { "en": "a symbol of status", "ja": "ステータスシンボル、地位の象徴" },
+      { "en": "marital status", "ja": "配偶の有無（未婚か既婚かの別）" },
+      { "en": "the status quo", "ja": "現状" },
+      { "en": "high social status", "ja": "高い社会的地位" }
+    ],
+    "related": [
+      { "en": "state", "ja": "状態、状況" },
+      { "en": "rank", "ja": "地位、階級、ランク" },
+      { "en": "position", "ja": "立場、地位、位置" },
+      { "en": "prestige", "ja": "名声、威信" }
+    ],
+    "faq": [
+      { "q": "status の意味は？", "a": "主に2つあります。1つは『地位・身分・ステータス』で、社会や組織の中での、その人の立場・ランク・格を指します（social status＝社会的地位）。高い地位・名声をともなう立場、という意味合いでもよく使われます。もう1つは『状態・状況』で、ものごとの、今の、ありさま・進みぐあいを指します（check the status of an order＝注文の状況を確認する）。" },
+      { "q": "どんな言い方がある？", "a": "marital status（配偶の有無・未婚か既婚かの別）、a symbol of status（ステータスシンボル・地位の象徴）、the status quo（現状）のような言い方をよく使います。ラテン語 status（立っていること・状態、stare＝立つ から）に由来し、state（状態）と同じ語源です。日常・ビジネス・社会の話で広く使う、重要な語です。" }
+    ],
+    "quiz": [
+      { "q": "social status の意味は？", "A": "社会的地位（社会の中での立場・ランク）", "B": "社会の問題", "C": "社会の授業", "D": "社会の人口", "correct": "A" },
+      { "q": "check the status of an order の status の意味は？", "A": "（注文の）状態・状況", "B": "注文の金額", "C": "注文の相手", "D": "注文の日付", "correct": "A" }
+    ]
+  },
+  {
+    "english": "steeple",
+    "pron": "ˈstiːpl",
+    "kana": "スティープル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 stēpel（高い塔）",
+    "ld_level": "1級",
+    "badges": ["中学生〜", "英検1級", "CEFR B1", "日常"],
+    "meaning_main": "尖塔（せんとう）（教会などの屋根の上にそびえる、先のとがった高い塔）",
+    "description": "steeple（スティープル）は「尖塔(せんとう)」という意味の名詞。おもに教会(きょうかい)の建物の屋根の上に、空に向かって高くそびえる、先のとがった塔を指します。the church steeple（教会の尖塔)のように使います。古英語 stēpel（高い塔、steep＝けわしい・切り立った に関係)が語源です。ふつう、鐘(かね)をつるす塔(bell tower)の上に、とがった三角すいの屋根(spire〔スパイア〕)がのった形をしていて、遠くからでもよく見え、町のシンボルになっていることが多いです。教会の場所の目じるしにもなります。steeple のように「指先を合わせて三角の形を作るしぐさ」を、動詞で steeple one's fingers（指で三角を作る)のように言うこともあります。可算名詞です。",
+    "keywords": ["steeple 意味", "steeple 使い方", "尖塔 教会 英語", "spire 塔"],
+    "meanings": [
+      { "hinshi": "【名】尖塔（せんとう）", "note": "教会などの屋根の上にそびえる先のとがった高い塔。the church steeple。可算。" },
+      { "hinshi": "【名】とがった塔", "note": "古英語 stēpel（高い塔）。鐘の塔に spire（とがった屋根）がのった形。" }
+    ],
+    "usages": [
+      { "title": "① 尖塔", "desc": "教会。", "example_en": "the church steeple", "example_ja": "教会の尖塔" },
+      { "title": "② とがった塔", "desc": "目じるし。", "example_en": "a tall steeple", "example_ja": "高い尖塔" }
+    ],
+    "warn": ["『尖塔〔せんとう〕（おもに教会〔きょうかい〕の建物の屋根の上に、空に向かって高くそびえる、先のとがった塔）』。the church steeple（教会の尖塔）。ふつう、鐘〔かね〕をつるす塔〔bell tower〕の上に、とがった三角すいの屋根〔spire＝スパイア〕がのった形で、遠くからよく見え、町のシンボル・教会の目じるしになることが多い。『指先を合わせて三角を作るしぐさ』を steeple one's fingers とも言う。可算。", "古英語 stēpel（高い塔、steep＝けわしい・切り立った に関係）。とがった屋根の部分は spire。"],
+    "etym_note": "古英語 stēpel（高い塔、steep＝けわしい・切り立った に関係）に由来。教会の屋根の上の尖塔。とがった三角すいの屋根の部分は spire（スパイア）と言う。",
+    "etym_chain": [
+      { "node": "stēpel", "sub": "高い塔", "era": "古英語" },
+      { "node": "steeple", "sub": "尖塔", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "the church steeple", "ja": "教会の尖塔" },
+      { "en": "a tall steeple", "ja": "高い尖塔" },
+      { "en": "a steeple against the sky", "ja": "空にそびえる尖塔" },
+      { "en": "the steeple of the cathedral", "ja": "大聖堂の尖塔" },
+      { "en": "a village with a white steeple", "ja": "白い尖塔のある村" },
+      { "en": "steeple one's fingers", "ja": "指で三角を作る" }
+    ],
+    "related": [
+      { "en": "spire", "ja": "尖塔のとがった屋根、スパイア" },
+      { "en": "tower", "ja": "塔、タワー" },
+      { "en": "church", "ja": "教会" },
+      { "en": "bell tower", "ja": "鐘楼（しょうろう）、鐘の塔" }
+    ],
+    "faq": [
+      { "q": "steeple の意味は？", "a": "『尖塔（せんとう）』という意味です。おもに教会の建物の屋根の上に、空に向かって高くそびえる、先のとがった塔を指します。the church steeple（教会の尖塔）のように使います。古英語 stēpel（高い塔、steep＝けわしい・切り立った に関係）が語源です。" },
+      { "q": "spire との違いは？", "a": "steeple は、ふつう、鐘（かね）をつるす塔（bell tower）の上に、とがった三角すいの屋根（spire〔スパイア〕）がのった、塔の全体を指します。spire は、そのいちばん上の、とがった屋根の部分を指します。steeple は遠くからでもよく見え、町のシンボルや、教会の場所の目じるしになっていることが多いです。なお、指先を合わせて三角の形を作るしぐさを steeple one's fingers と言うこともあります。" }
+    ],
+    "quiz": [
+      { "q": "steeple の意味は？", "A": "教会などの屋根の上にそびえる先のとがった高い塔（尖塔）", "B": "地下室", "C": "玄関のドア", "D": "庭の池", "correct": "A" },
+      { "q": "steeple がよく見られる建物は？", "A": "church（教会）", "B": "factory（工場）", "C": "supermarket（スーパー）", "D": "garage（車庫）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "stepchild",
+    "pron": "ˈsteptʃaɪld",
+    "kana": "ステップチャイルド",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "step-（継（まま）の）＋child（子）",
+    "ld_level": "1級",
+    "badges": ["中学生〜", "英検1級", "CEFR B1", "日常"],
+    "meaning_main": "継子（ままこ）（結婚相手の、前の結婚でできた子。自分の血のつながらない、配偶者の子）",
+    "description": "stepchild（ステップチャイルド）は「継子(ままこ)」という意味の名詞。結婚した相手(配偶者)が、前の結婚や関係でもうけた子どものことを、自分から見て指す語です。自分とは血のつながりがない、配偶者の子にあたります。her stepchild（彼女の継子)のように使います。step-（継(まま)の＝血のつながりのない家族関係を表す)＋ child（子ども)が語源です。step- は、「血のつながりではなく、親の再婚などによって family になった関係」を表す接頭辞で、stepmother（継母〔ままはは〕）、stepfather（継父〔ままちち〕）、stepbrother（継兄弟)などをつくります。男の子なら stepson（継息子）、女の子なら stepdaughter（継娘)と、性別で分けても言えます。複数形は stepchildren です。可算名詞です。",
+    "keywords": ["stepchild 意味", "stepchild 使い方", "継子 ままこ 英語", "step- stepson stepdaughter"],
+    "meanings": [
+      { "hinshi": "【名】継子（ままこ）", "note": "配偶者の、前の結婚でできた子。血のつながらない配偶者の子。her stepchild。可算。複数は stepchildren。" },
+      { "hinshi": "【名】血のつながらない配偶者の子", "note": "step-（継の）＋ child（子）。男は stepson、女は stepdaughter。" }
+    ],
+    "usages": [
+      { "title": "① 継子", "desc": "家族。", "example_en": "her stepchild", "example_ja": "彼女の継子" },
+      { "title": "② 配偶者の子", "desc": "再婚。", "example_en": "raise a stepchild", "example_ja": "継子を育てる" }
+    ],
+    "warn": ["『継子〔ままこ〕（結婚した相手〔配偶者〕が、前の結婚や関係でもうけた子どもを、自分から見て指す語。自分とは血のつながりがない、配偶者の子）』。her stepchild（彼女の継子）。step- は『血のつながりではなく、親の再婚などによって家族になった関係』を表す接頭辞で、stepmother（継母）、stepfather（継父）などをつくる。男の子なら stepson、女の子なら stepdaughter。複数形は stepchildren。可算。", "step-（継〔まま〕の＝血のつながりのない家族関係を表す）＋ child（子ども）。stepson / stepdaughter。"],
+    "etym_note": "step-（継〔まま〕の＝血のつながりのない家族関係を表す接頭辞。古英語 stēop- で、もとは『親を亡くした』の意）＋ child（子ども）＝『継子』に由来。男は stepson、女は stepdaughter。複数は stepchildren。",
+    "etym_chain": [
+      { "node": "step- + child", "sub": "継の子", "era": "古英語" },
+      { "node": "stepchild", "sub": "継子", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "her stepchild", "ja": "彼女の継子" },
+      { "en": "raise a stepchild", "ja": "継子を育てる" },
+      { "en": "love one's stepchild", "ja": "継子を愛する" },
+      { "en": "two stepchildren", "ja": "2人の継子" },
+      { "en": "a stepchild and a stepparent", "ja": "継子と継親" },
+      { "en": "adopt a stepchild", "ja": "継子を養子にする" }
+    ],
+    "related": [
+      { "en": "stepson", "ja": "継息子（ままむすこ）" },
+      { "en": "stepdaughter", "ja": "継娘（ままむすめ）" },
+      { "en": "stepmother", "ja": "継母（ままはは）" },
+      { "en": "stepfather", "ja": "継父（ままちち）" }
+    ],
+    "faq": [
+      { "q": "stepchild の意味は？", "a": "『継子（ままこ）』という意味です。結婚した相手（配偶者）が、前の結婚や関係でもうけた子どものことを、自分から見て指す語です。自分とは血のつながりがない、配偶者の子にあたります。her stepchild（彼女の継子）のように使います。複数形は stepchildren です。" },
+      { "q": "step- とは？", "a": "step- は、『血のつながりではなく、親の再婚などによって family（家族）になった関係』を表す接頭辞です。stepmother（継母〔ままはは〕）、stepfather（継父〔ままちち〕）、stepbrother（継兄弟）などをつくります。stepchild は、男の子なら stepson（継息子）、女の子なら stepdaughter（継娘）と、性別で分けても言えます。" }
+    ],
+    "quiz": [
+      { "q": "stepchild の意味は？", "A": "配偶者の、前の結婚でできた子（継子）", "B": "自分の実の子", "C": "となりの家の子", "D": "養子にした孤児だけ", "correct": "A" },
+      { "q": "stepchild の step- が表すのは？", "A": "血のつながりのない、再婚などでできた家族関係", "B": "とても小さいこと", "C": "とても速いこと", "D": "とても古いこと", "correct": "A" }
+    ]
+  },
+  {
+    "english": "stepdaughter",
+    "pron": "ˈstepdɔːtər",
+    "kana": "ステップドーター",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "step-（継（まま）の）＋daughter（娘）",
+    "ld_level": "1級",
+    "badges": ["中学生〜", "英検1級", "CEFR B1", "日常"],
+    "meaning_main": "継娘（ままむすめ）（結婚相手の、前の結婚でできた娘。自分の血のつながらない、配偶者の娘）",
+    "description": "stepdaughter（ステップドーター）は「継娘(ままむすめ)」という意味の名詞。結婚した相手(配偶者)が、前の結婚や関係でもうけた娘(女の子)のことを、自分から見て指す語です。自分とは血のつながりがない、配偶者の娘にあたります。his stepdaughter（彼の継娘)のように使います。step-（継(まま)の＝血のつながりのない家族関係を表す）＋ daughter（娘)が語源です。性別を問わない言い方は stepchild（継子)で、男の子なら stepson（継息子)です。昔話(シンデレラなど)では、意地悪な stepmother（継母)と stepsister（継姉妹)が出てくることがありますが、現実には、再婚によって family になった、あたたかい親子関係も多くあります。可算名詞です。",
+    "keywords": ["stepdaughter 意味", "stepdaughter 使い方", "継娘 ままむすめ 英語", "stepson stepchild"],
+    "meanings": [
+      { "hinshi": "【名】継娘（ままむすめ）", "note": "配偶者の、前の結婚でできた娘。血のつながらない配偶者の娘。his stepdaughter。可算。" },
+      { "hinshi": "【名】血のつながらない配偶者の娘", "note": "step-（継の）＋ daughter（娘）。男は stepson、性別問わず stepchild。" }
+    ],
+    "usages": [
+      { "title": "① 継娘", "desc": "家族。", "example_en": "his stepdaughter", "example_ja": "彼の継娘" },
+      { "title": "② 配偶者の娘", "desc": "再婚。", "example_en": "raise his stepdaughter", "example_ja": "継娘を育てる" }
+    ],
+    "warn": ["『継娘〔ままむすめ〕（結婚した相手〔配偶者〕が、前の結婚や関係でもうけた娘〔女の子〕を、自分から見て指す語。自分とは血のつながりがない、配偶者の娘）』。his stepdaughter（彼の継娘）。性別を問わない言い方は stepchild（継子）、男の子なら stepson（継息子）。step- は『血のつながりではなく、再婚などで家族になった関係』を表す接頭辞。可算。", "step-（継〔まま〕の＝血のつながりのない家族関係を表す）＋ daughter（娘）。男は stepson、性別問わず stepchild。"],
+    "etym_note": "step-（継〔まま〕の＝血のつながりのない家族関係を表す接頭辞）＋ daughter（娘）＝『継娘』に由来。男は stepson（継息子）、性別を問わない言い方は stepchild（継子）。",
+    "etym_chain": [
+      { "node": "step- + daughter", "sub": "継の娘", "era": "古英語" },
+      { "node": "stepdaughter", "sub": "継娘", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "his stepdaughter", "ja": "彼の継娘" },
+      { "en": "raise his stepdaughter", "ja": "継娘を育てる" },
+      { "en": "love his stepdaughter", "ja": "継娘を愛する" },
+      { "en": "a stepdaughter and a stepson", "ja": "継娘と継息子" },
+      { "en": "her husband's stepdaughter", "ja": "夫の継娘" },
+      { "en": "treat a stepdaughter as one's own", "ja": "継娘を実の子のように扱う" }
+    ],
+    "related": [
+      { "en": "stepson", "ja": "継息子（ままむすこ）" },
+      { "en": "stepchild", "ja": "継子（性別を問わない）" },
+      { "en": "stepmother", "ja": "継母（ままはは）" },
+      { "en": "daughter", "ja": "娘" }
+    ],
+    "faq": [
+      { "q": "stepdaughter の意味は？", "a": "『継娘（ままむすめ）』という意味です。結婚した相手（配偶者）が、前の結婚や関係でもうけた娘（女の子）のことを、自分から見て指す語です。自分とは血のつながりがない、配偶者の娘にあたります。his stepdaughter（彼の継娘）のように使います。" },
+      { "q": "stepson や stepchild との違いは？", "a": "stepdaughter は女の子（娘）、stepson（継息子）は男の子（息子）で、性別を分けた言い方です。性別を問わない言い方は stepchild（継子）です。step- は、『血のつながりではなく、親の再婚などによって家族になった関係』を表す接頭辞で、stepmother（継母）、stepfather（継父）などをつくります。" }
+    ],
+    "quiz": [
+      { "q": "stepdaughter の意味は？", "A": "配偶者の、前の結婚でできた娘（継娘）", "B": "自分の実の娘", "C": "継息子（男の子）", "D": "孫娘", "correct": "A" },
+      { "q": "stepdaughter の男の子版は？", "A": "stepson（継息子）", "B": "stepdaughter のまま", "C": "stepmother", "D": "stepfather", "correct": "A" }
+    ]
+  },
+  {
+    "english": "stepfather",
+    "pron": "ˈstepfɑːðər",
+    "kana": "ステップファーザー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "step-（継（まま）の）＋father（父）",
+    "ld_level": "1級",
+    "badges": ["中学生〜", "英検1級", "CEFR B1", "日常"],
+    "meaning_main": "継父（ままちち）（母親の再婚相手。自分の血のつながらない、父にあたる人）",
+    "description": "stepfather（ステップファーザー）は「継父(ままちち)」という意味の名詞。自分の母親が、（実の父親と別れたあとなどに)新しく結婚した相手の男性、つまり再婚相手を、自分から見て指す語です。自分とは血のつながりがない、父にあたる人です。my stepfather（私の継父)のように使います。step-（継(まま)の＝血のつながりのない家族関係を表す）＋ father（父)が語源です。実の父親(biological father / real father)に対して、再婚によって父になった人、というのが stepfather です。女性の場合、母の再婚相手に対する「継母」は stepmother（ままはは)です。血のつながりはなくても、よい関係を築き、本当の父子のように、あたたかく暮らす家庭も多くあります。可算名詞です。",
+    "keywords": ["stepfather 意味", "stepfather 使い方", "継父 ままちち 英語", "stepmother 母の再婚相手"],
+    "meanings": [
+      { "hinshi": "【名】継父（ままちち）", "note": "母親の再婚相手。血のつながらない父にあたる人。my stepfather。可算。" },
+      { "hinshi": "【名】血のつながらない父", "note": "step-（継の）＋ father（父）。実の父は biological father。継母は stepmother。" }
+    ],
+    "usages": [
+      { "title": "① 継父", "desc": "家族。", "example_en": "my stepfather", "example_ja": "私の継父" },
+      { "title": "② 母の再婚相手", "desc": "再婚。", "example_en": "get along with my stepfather", "example_ja": "継父と仲よくやっていく" }
+    ],
+    "warn": ["『継父〔ままちち〕（自分の母親が、〔実の父親と別れたあとなどに〕新しく結婚した相手の男性、つまり再婚相手を、自分から見て指す語。自分とは血のつながりがない、父にあたる人）』。my stepfather（私の継父）。実の父親〔biological father / real father〕に対して、再婚によって父になった人。母の再婚相手が女性の『継母』は stepmother。血のつながりがなくても、よい父子関係の家庭も多い。可算。", "step-（継〔まま〕の＝血のつながりのない家族関係を表す）＋ father（父）。継母は stepmother、実の父は biological father。"],
+    "etym_note": "step-（継〔まま〕の＝血のつながりのない家族関係を表す接頭辞）＋ father（父）＝『継父』に由来。母の再婚相手。実の父は biological father / real father、継母は stepmother。",
+    "etym_chain": [
+      { "node": "step- + father", "sub": "継の父", "era": "古英語" },
+      { "node": "stepfather", "sub": "継父", "era": "古英語" }
+    ],
+    "phrases": [
+      { "en": "my stepfather", "ja": "私の継父" },
+      { "en": "get along with my stepfather", "ja": "継父と仲よくやっていく" },
+      { "en": "a kind stepfather", "ja": "やさしい継父" },
+      { "en": "her new stepfather", "ja": "彼女の新しい継父" },
+      { "en": "a stepfather and stepmother", "ja": "継父と継母" },
+      { "en": "like a father to me", "ja": "私にとって本当の父のような（人）" }
+    ],
+    "related": [
+      { "en": "stepmother", "ja": "継母（ままはは）" },
+      { "en": "stepchild", "ja": "継子（ままこ）" },
+      { "en": "father", "ja": "父" },
+      { "en": "stepparent", "ja": "継親（ままおや）" }
+    ],
+    "faq": [
+      { "q": "stepfather の意味は？", "a": "『継父（ままちち）』という意味です。自分の母親が、（実の父親と別れたあとなどに）新しく結婚した相手の男性、つまり再婚相手を、自分から見て指す語です。自分とは血のつながりがない、父にあたる人です。my stepfather（私の継父）のように使います。" },
+      { "q": "stepmother との違いは？", "a": "stepfather は、母の再婚相手である『継父（男性）』、stepmother は、父の再婚相手である『継母（女性）』です。step- は、『血のつながりではなく、親の再婚などによって家族になった関係』を表す接頭辞です。実の父親は biological father / real father と言います。血のつながりがなくても、よい関係を築き、本当の父子のように、あたたかく暮らす家庭も多くあります。" }
+    ],
+    "quiz": [
+      { "q": "stepfather の意味は？", "A": "母親の再婚相手（継父）", "B": "自分の実の父", "C": "祖父", "D": "おじ", "correct": "A" },
+      { "q": "stepfather の女性版（父の再婚相手）は？", "A": "stepmother（継母）", "B": "stepfather のまま", "C": "stepdaughter", "D": "stepson", "correct": "A" }
+    ]
+  },
+  {
+    "english": "stethoscope",
+    "pron": "ˈsteθəskoʊp",
+    "kana": "ステソスコープ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 stēthos（胸）＋-scope（見る・調べる器具）",
+    "ld_level": "1級",
+    "badges": ["中学生〜", "英検1級", "CEFR B1", "専門"],
+    "meaning_main": "聴診器（ちょうしんき）（医者が、心臓や肺などの体の中の音を聞くのに使う道具）",
+    "description": "stethoscope（ステソスコープ）は「聴診器(ちょうしんき)」という意味の、医療の名詞。医者や看護師が、患者の心臓の鼓動(こどう)や、肺の呼吸の音、おなかの音など、体の中の音を聞いて、体の調子を調べるのに使う道具を指します。the doctor used a stethoscope（医者は聴診器を使った)のように使います。ギリシャ語 stēthos（胸）＋ -scope（〜を見る・調べる器具)が語源です。-scope は telescope（望遠鏡）、microscope（顕微鏡)などと同じですが、聴診器は「見る」のではなく「（胸の音を)聞いて調べる」道具です。胸や背中にあてる丸い部分から、管(くだ)を通して、両耳につけた部分へ音を伝えるしくみです。医者のシンボルとして、首にかけた姿がよく知られています。可算名詞です。",
+    "keywords": ["stethoscope 意味", "stethoscope 使い方", "聴診器 英語", "医者 心臓 音 英語"],
+    "meanings": [
+      { "hinshi": "【名】聴診器（ちょうしんき）", "note": "心臓や肺など体の中の音を聞く医療器具。the doctor used a stethoscope。可算。" },
+      { "hinshi": "【名】体の音を調べる道具", "note": "ギリシャ語 stēthos（胸）＋ -scope（調べる器具）。医者のシンボル。" }
+    ],
+    "usages": [
+      { "title": "① 聴診器", "desc": "医療。", "example_en": "the doctor used a stethoscope", "example_ja": "医者は聴診器を使った" },
+      { "title": "② 体の音を聞く", "desc": "診察。", "example_en": "listen with a stethoscope", "example_ja": "聴診器で（音を）聞く" }
+    ],
+    "warn": ["『聴診器〔ちょうしんき〕（医者や看護師が、患者の心臓の鼓動〔こどう〕や、肺の呼吸の音、おなかの音など、体の中の音を聞いて、体の調子を調べるのに使う道具）』。the doctor used a stethoscope（医者は聴診器を使った）。-scope は telescope（望遠鏡）、microscope（顕微鏡）などと同じだが、聴診器は『見る』のではなく『（胸の音を)聞いて調べる』道具。胸や背中にあてる丸い部分から管を通して両耳へ音を伝える。医者のシンボル。可算。", "ギリシャ語 stēthos（胸）＋ -scope（〜を見る・調べる器具）。telescope / microscope と同じ -scope。"],
+    "etym_note": "ギリシャ語 stēthos（胸）＋ -scope（〜を見る・調べる器具、skopein＝見る から）＝『胸を調べる器具→聴診器』に由来。-scope は telescope / microscope と同じ。",
+    "etym_chain": [
+      { "node": "stēthos + -scope", "sub": "胸を調べる器具", "era": "19世紀" },
+      { "node": "stethoscope", "sub": "聴診器", "era": "19世紀" }
+    ],
+    "phrases": [
+      { "en": "the doctor used a stethoscope", "ja": "医者は聴診器を使った" },
+      { "en": "listen with a stethoscope", "ja": "聴診器で（音を）聞く" },
+      { "en": "put on a stethoscope", "ja": "聴診器を（耳に）つける" },
+      { "en": "a stethoscope around the neck", "ja": "首にかけた聴診器" },
+      { "en": "check the heartbeat with a stethoscope", "ja": "聴診器で心音を調べる" },
+      { "en": "a doctor's stethoscope", "ja": "医者の聴診器" }
+    ],
+    "related": [
+      { "en": "doctor", "ja": "医者" },
+      { "en": "heartbeat", "ja": "心臓の鼓動、心音" },
+      { "en": "telescope", "ja": "望遠鏡" },
+      { "en": "microscope", "ja": "顕微鏡" }
+    ],
+    "faq": [
+      { "q": "stethoscope の意味は？", "a": "『聴診器（ちょうしんき）』という意味の、医療の名詞です。医者や看護師が、患者の心臓の鼓動（こどう）や、肺の呼吸の音、おなかの音など、体の中の音を聞いて、体の調子を調べるのに使う道具を指します。the doctor used a stethoscope（医者は聴診器を使った）のように使います。" },
+      { "q": "-scope がつくのに『聞く』道具？", "a": "はい。stethoscope は、ギリシャ語 stēthos（胸）＋ -scope（〜を見る・調べる器具）が語源です。-scope は telescope（望遠鏡）、microscope（顕微鏡）などと同じですが、聴診器は『見る』のではなく『（胸の音を）聞いて調べる』道具です。胸や背中にあてる丸い部分から、管を通して、両耳につけた部分へ音を伝えるしくみで、医者のシンボルとして首にかけた姿がよく知られています。" }
+    ],
+    "quiz": [
+      { "q": "stethoscope の意味は？", "A": "心臓や肺など体の中の音を聞く医療器具（聴診器）", "B": "体温計", "C": "注射器", "D": "顕微鏡", "correct": "A" },
+      { "q": "stethoscope の stēthos の意味は？", "A": "胸", "B": "頭", "C": "足", "D": "目", "correct": "A" }
+    ]
+  },
+  {
+    "english": "stickinsect",
+    "pron": "ˈstɪk ˌɪnsekt",
+    "kana": "スティック・インセクト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "stick（枝）＋insect（昆虫）",
+    "ld_level": "1級",
+    "badges": ["小学生〜", "英検1級", "CEFR B1", "日常"],
+    "meaning_main": "ナナフシ（木の枝（えだ）そっくりの、細長い体をした昆虫）（正しくは stick insect）",
+    "description": "stickinsect は、本来 stick insect と2語で書く語で「ナナフシ」という意味です。木の枝(えだ)や小枝(こえだ)にそっくりな、細長い体と、細い足をもつ昆虫を指します。a stick insect on a branch（枝にとまったナナフシ)のように使います。正しくは stick insect と2語で書きます。stick（棒・枝)＋ insect（昆虫)が語源で、「枝のような虫」という成り立ちです。木の枝に、じっととまっていると、本物の枝と見分けがつかないほどよく似ていて、これは、敵(鳥など)に見つからないようにするための「擬態(ぎたい)＝まわりにまぎれてかくれるしくみ」です。カモフラージュ(camouflage)の名人として知られ、子どもにも人気の、おもしろい虫です。アメリカ英語では walking stick（歩く枝)とも言います。可算名詞です。",
+    "keywords": ["stick insect 意味", "stickinsect 使い方", "ナナフシ 英語", "枝 昆虫 擬態 英語"],
+    "meanings": [
+      { "hinshi": "【名】ナナフシ", "note": "木の枝そっくりの細長い体をした昆虫。a stick insect on a branch。正しくは stick insect。可算。" },
+      { "hinshi": "【名】枝に擬態する虫", "note": "stick（枝）＋ insect（昆虫）。米では walking stick。" }
+    ],
+    "usages": [
+      { "title": "① ナナフシ", "desc": "昆虫。", "example_en": "a stick insect on a branch", "example_ja": "枝にとまったナナフシ" },
+      { "title": "② 擬態の虫", "desc": "自然。", "example_en": "a stick insect hiding on a twig", "example_ja": "小枝にかくれるナナフシ" }
+    ],
+    "warn": ["正しくは stick insect と2語で書く。『ナナフシ（木の枝〔えだ〕や小枝にそっくりな、細長い体と、細い足をもつ昆虫）』。a stick insect on a branch（枝にとまったナナフシ）。木の枝にじっととまっていると本物の枝と見分けがつかないほど似ていて、これは敵〔鳥など〕に見つからないための『擬態〔ぎたい〕』。カモフラージュ（camouflage）の名人。アメリカ英語では walking stick（歩く枝）とも。可算。", "stick（棒・枝）＋ insect（昆虫）＝『枝のような虫』。米では walking stick。"],
+    "etym_note": "stick（棒・枝）＋ insect（昆虫）＝『枝のような虫→ナナフシ』に由来。枝に擬態（ぎたい）してかくれる。アメリカ英語では walking stick（歩く枝）とも言う。正しくは stick insect。",
+    "etym_chain": [
+      { "node": "stick + insect", "sub": "枝のような虫", "era": "19世紀" },
+      { "node": "stick insect", "sub": "ナナフシ", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a stick insect on a branch", "ja": "枝にとまったナナフシ" },
+      { "en": "a stick insect hiding on a twig", "ja": "小枝にかくれるナナフシ" },
+      { "en": "a green stick insect", "ja": "緑色のナナフシ" },
+      { "en": "keep a stick insect as a pet", "ja": "ナナフシをペットとして飼う" },
+      { "en": "the stick insect's camouflage", "ja": "ナナフシの擬態（カモフラージュ）" },
+      { "en": "a walking stick (米)", "ja": "ナナフシ（米の言い方）" }
+    ],
+    "related": [
+      { "en": "insect", "ja": "昆虫、虫" },
+      { "en": "camouflage", "ja": "擬態、カモフラージュ" },
+      { "en": "twig", "ja": "小枝" },
+      { "en": "mantis", "ja": "カマキリ" }
+    ],
+    "faq": [
+      { "q": "stick insect とは？", "a": "『ナナフシ』という意味です。木の枝（えだ）や小枝（こえだ）にそっくりな、細長い体と、細い足をもつ昆虫を指します。a stick insect on a branch（枝にとまったナナフシ）のように使います。正しくは stick insect と2語で書きます。" },
+      { "q": "なぜ枝そっくり？", "a": "木の枝に、じっととまっていると、本物の枝と見分けがつかないほどよく似ていて、これは、敵（鳥など）に見つからないようにするための『擬態（ぎたい）＝まわりにまぎれてかくれるしくみ』です。カモフラージュ（camouflage）の名人として知られ、子どもにも人気の、おもしろい虫です。stick（枝）＋ insect（昆虫）が語源で、アメリカ英語では walking stick（歩く枝）とも言います。" }
+    ],
+    "quiz": [
+      { "q": "stick insect とは？", "A": "木の枝そっくりの細長い体をした昆虫（ナナフシ）", "B": "木でできた棒", "C": "アイスキャンディー", "D": "釣りざお", "correct": "A" },
+      { "q": "stick insect が枝に似ているのはなぜ？", "A": "敵に見つからないための擬態（カモフラージュ）", "B": "速く走るため", "C": "空を飛ぶため", "D": "水に浮かぶため", "correct": "A" }
+    ]
+  },
+  {
+    "english": "stillness",
+    "pron": "ˈstɪlnəs",
+    "kana": "スティルネス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "still（静かな・動かない）＋-ness",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "文語"],
+    "meaning_main": "静けさ・静寂（せいじゃく）・静止（しずまりかえって、音や動きがないこと）",
+    "description": "stillness（スティルネス）は「静けさ・静寂(せいじゃく)・静止」という意味の名詞。あたりがしずまりかえって、物音も、動きもなく、ひっそりとしている状態を指します。the stillness of the night（夜の静けさ)のように使います。still（静かな・動かない・じっとした）＋ -ness（状態を表す名詞をつくる)が語源です。ただ音がないというより、心が落ち着くような、おごそかで、深い静けさ、というニュアンスでよく使われ、やや文語的・情緒(じょうちょ)的な語です。in the stillness of the morning（朝の静けさの中で)のように使います。また、物が動かずにじっとしている「静止」の意味でも使います。silence（沈黙・無音)が「音がないこと」に重点があるのに対し、stillness は「音も動きもなく、しずまっていること」を表します。ふつう不可算名詞です。",
+    "keywords": ["stillness 意味", "stillness 使い方", "静けさ 静寂 静止 英語", "silence 違い"],
+    "meanings": [
+      { "hinshi": "【名】静けさ、静寂（せいじゃく）", "note": "しずまりかえって音も動きもない状態。the stillness of the night。不可算。" },
+      { "hinshi": "【名】静止（じっと動かないこと）", "note": "still（静かな・動かない）＋ -ness。silence（無音）より音と動きの両方。" }
+    ],
+    "usages": [
+      { "title": "① 静けさ", "desc": "文語。", "example_en": "the stillness of the night", "example_ja": "夜の静けさ" },
+      { "title": "② 静寂の中で", "desc": "情景。", "example_en": "in the stillness of the morning", "example_ja": "朝の静けさの中で" }
+    ],
+    "warn": ["『静けさ・静寂〔せいじゃく〕・静止（あたりがしずまりかえって、物音も、動きもなく、ひっそりとしている状態）』。the stillness of the night（夜の静けさ）。ただ音がないというより、心が落ち着くような、おごそかで、深い静けさ、というニュアンスでよく使い、やや文語的・情緒〔じょうちょ〕的な語。物が動かずにじっとしている『静止』の意味も。silence（沈黙・無音）が『音がないこと』に重点があるのに対し、stillness は『音も動きもなく、しずまっていること』。不可算。", "still（静かな・動かない・じっとした）＋ -ness（状態を表す）。silence（沈黙)と近いが音と動きの両方。"],
+    "etym_note": "still（静かな・動かない・じっとした）＋ -ness（状態を表す名詞をつくる）＝『静かな・動かない状態→静けさ・静止』に由来。silence（音がないこと）より、音と動きの両方がないことを表す。",
+    "etym_chain": [
+      { "node": "still + -ness", "sub": "静かな・動かない状態", "era": "古英語" },
+      { "node": "stillness", "sub": "静けさ・静止", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "the stillness of the night", "ja": "夜の静けさ" },
+      { "en": "in the stillness of the morning", "ja": "朝の静けさの中で" },
+      { "en": "a sudden stillness", "ja": "突然の静けさ" },
+      { "en": "break the stillness", "ja": "静けさを破る" },
+      { "en": "an eerie stillness", "ja": "不気味な静けさ" },
+      { "en": "the stillness of the forest", "ja": "森の静けさ" }
+    ],
+    "related": [
+      { "en": "still", "ja": "静かな、動かない、じっとした" },
+      { "en": "silence", "ja": "沈黙、無音" },
+      { "en": "quiet", "ja": "静けさ、静かな" },
+      { "en": "calm", "ja": "静けさ、おだやかさ" }
+    ],
+    "faq": [
+      { "q": "stillness の意味は？", "a": "『静けさ・静寂（せいじゃく）・静止』という意味です。あたりがしずまりかえって、物音も、動きもなく、ひっそりとしている状態を指します。the stillness of the night（夜の静けさ）のように使います。still（静かな・動かない）＋ -ness（状態を表す）が語源です。ただ音がないというより、心が落ち着くような、おごそかで、深い静けさ、というニュアンスでよく使われます。" },
+      { "q": "silence との違いは？", "a": "silence（沈黙・無音）が『音がないこと』に重点があるのに対し、stillness は『音も動きもなく、しずまっていること』を表します。still（静かな・動かない）から来ているので、物が動かずにじっとしている『静止』の意味でも使います。stillness は、やや文語的・情緒的な語で、夜や朝、森などの、おごそかで深い静けさの情景を描くときによく使われます。" }
+    ],
+    "quiz": [
+      { "q": "the stillness of the night の意味は？", "A": "夜の静けさ（しずまりかえった静寂）", "B": "夜のにぎやかさ", "C": "夜の暗さ", "D": "夜の寒さ", "correct": "A" },
+      { "q": "stillness の成り立ちは？", "A": "still（静かな・動かない）＋ -ness（状態）", "B": "steal（盗む）＋ -ness", "C": "skill（技能）＋ -ness", "D": "steel（鋼）＋ -ness", "correct": "A" }
+    ]
+  },
+  {
+    "english": "stilly",
+    "pron": "ˈstɪli",
+    "kana": "スティリー",
+    "hinshi": "形容詞 / 副詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "still（静かな）＋-y/-ly",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "古語"],
+    "meaning_main": "（詩・文語）静かな・ひっそりとした／静かに（しずまりかえった、動きのない）",
+    "description": "stilly（スティリー）は「静かな・ひっそりとした」「静かに」という意味の、詩的・文語的な、やや古風な語。形容詞としても副詞としても使われ、あたりがしずまりかえって、音も動きもない、ひっそりとしたようすを表します。the stilly night（しずかな夜)のように使います。still（静かな・動かない）に由来します。現代の日常英語では、ふつう still（静かな)や quiet（静かな)、副詞なら quietly（静かに)を使い、stilly は、詩や歌、古い文学作品などで見かける程度の、あまり使われない語です。とくに、「the stilly night（しずかな夜)」という表現は、古い詩や歌で知られます。古風で、情緒(じょうちょ)ゆたかな響きをもつ語です。",
+    "keywords": ["stilly 意味", "stilly 使い方", "静かな ひっそりとした 詩 英語", "still 文語"],
+    "meanings": [
+      { "hinshi": "【形】（詩・文語）静かな、ひっそりとした", "note": "しずまりかえって音も動きもない。the stilly night（しずかな夜）。やや古風。" },
+      { "hinshi": "【副】（詩・文語）静かに", "note": "still（静かな）に由来。今は still / quiet / quietly を使う。詩・歌で見かける程度。" }
+    ],
+    "usages": [
+      { "title": "① 静かな", "desc": "詩・文語。", "example_en": "the stilly night", "example_ja": "しずかな夜" },
+      { "title": "② 静かに", "desc": "副詞。", "example_en": "the stilly hours", "example_ja": "静かな時間" }
+    ],
+    "warn": ["詩的・文語的な、やや古風な語。形容詞『静かな・ひっそりとした（あたりがしずまりかえって、音も動きもない）』、副詞『静かに』。the stilly night（しずかな夜）。現代の日常英語では、ふつう still（静かな）や quiet（静かな）、副詞なら quietly（静かに）を使い、stilly は詩や歌、古い文学作品で見かける程度のあまり使われない語。『the stilly night（しずかな夜）』という表現は古い詩・歌で知られる。古風で情緒ゆたかな響き。", "still（静かな・動かない）に由来。今は still / quiet / quietly を使う。詩・歌の語。"],
+    "etym_note": "still（静かな・動かない）に由来する、詩的・文語的な語。形容詞『静かな』、副詞『静かに』。現代では still / quiet / quietly を使い、stilly は詩や歌（the stilly night など）で見かける程度。",
+    "etym_chain": [
+      { "node": "still", "sub": "静かな・動かない", "era": "古英語" },
+      { "node": "stilly", "sub": "静かな・静かに（詩）", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "the stilly night", "ja": "しずかな夜" },
+      { "en": "the stilly hours", "ja": "静かな時間" },
+      { "en": "a stilly scene", "ja": "ひっそりとした情景" },
+      { "en": "in the stilly air", "ja": "静かな大気の中で" },
+      { "en": "the stilly woods", "ja": "静かな森" },
+      { "en": "sleep stilly", "ja": "静かに眠る" }
+    ],
+    "related": [
+      { "en": "still", "ja": "静かな、動かない" },
+      { "en": "quiet", "ja": "静かな" },
+      { "en": "stillness", "ja": "静けさ、静寂" },
+      { "en": "silent", "ja": "静かな、無言の" }
+    ],
+    "faq": [
+      { "q": "stilly の意味は？", "a": "『静かな・ひっそりとした』『静かに』という意味の、詩的・文語的な、やや古風な語です。形容詞としても副詞としても使われ、あたりがしずまりかえって、音も動きもない、ひっそりとしたようすを表します。the stilly night（しずかな夜）のように使います。still（静かな・動かない）に由来します。" },
+      { "q": "今も使う語？", "a": "現代の日常英語では、ふつう still（静かな）や quiet（静かな）、副詞なら quietly（静かに）を使い、stilly は、詩や歌、古い文学作品などで見かける程度の、あまり使われない語です。とくに、『the stilly night（しずかな夜）』という表現は、古い詩や歌で知られます。古風で、情緒ゆたかな響きをもつ語です。" }
+    ],
+    "quiz": [
+      { "q": "（詩）the stilly night の意味は？", "A": "しずかな（ひっそりとした）夜", "B": "にぎやかな夜", "C": "まだ明けない夜", "D": "寒い夜", "correct": "A" },
+      { "q": "stilly は今の日常ではどんな語で言う？", "A": "still / quiet（静かな）", "B": "loud（うるさい）", "C": "busy（にぎやかな）", "D": "bright（明るい）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "stimulant",
+    "pron": "ˈstɪmjələnt",
+    "kana": "スティミュラント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 stimulare（刺激する）＋-ant",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "専門"],
+    "meaning_main": "興奮剤・刺激物（心身の働きを一時的に活発にする、カフェインなどの物質）／刺激になるもの",
+    "description": "stimulant（スティミュラント）は「興奮剤・刺激物(しげきぶつ)」という意味の名詞。体や心の働きを、一時的に活発にする（元気づける・目をさまさせる)作用のある物質を指します。caffeine is a stimulant（カフェインは刺激物だ)のように使います。ラテン語 stimulare（刺激する)＋ -ant（〜するもの)が語源です。コーヒーや紅茶にふくまれるカフェイン、たばこのニコチンなどが、身近な stimulant です。医療では、神経を興奮させて眠気をとったり、気分を高めたりする薬も指します（使い方をあやまると害もある)。比ゆ的に「（経済・活動などを)活発にするもの・刺激になるもの」の意味でも使います（a stimulant to the economy＝経済への刺激)。眠くさせる sedative（鎮静剤・精神を落ち着かせる薬)とは、反対の作用です。可算名詞です。",
+    "keywords": ["stimulant 意味", "stimulant 使い方", "興奮剤 刺激物 英語", "カフェイン sedative 反対"],
+    "meanings": [
+      { "hinshi": "【名】興奮剤、刺激物（しげきぶつ）", "note": "心身の働きを一時的に活発にする物質。caffeine is a stimulant。可算。" },
+      { "hinshi": "【名】刺激になるもの", "note": "a stimulant to the economy（経済への刺激）。ラテン語 stimulare。反対は sedative。" }
+    ],
+    "usages": [
+      { "title": "① 興奮剤・刺激物", "desc": "物質。", "example_en": "caffeine is a stimulant", "example_ja": "カフェインは刺激物だ" },
+      { "title": "② 刺激になるもの", "desc": "比ゆ。", "example_en": "a stimulant to the economy", "example_ja": "経済への刺激" }
+    ],
+    "warn": ["『興奮剤・刺激物〔しげきぶつ〕（体や心の働きを、一時的に活発にする〔元気づける・目をさまさせる〕作用のある物質）』caffeine is a stimulant（カフェインは刺激物だ）。コーヒー・紅茶のカフェイン、たばこのニコチンなど。医療では神経を興奮させる薬も指す（使い方をあやまると害も）。比ゆ的に『（経済・活動を)活発にするもの・刺激になるもの』a stimulant to the economy。眠くさせる sedative（鎮静剤）とは反対の作用。可算。", "ラテン語 stimulare（刺激する）＋ -ant（〜するもの）。反対は sedative（鎮静剤）。動詞は stimulate。"],
+    "etym_note": "ラテン語 stimulare（刺激する、stimulus＝突き棒 から）＋ -ant（〜するもの）＝『刺激するもの→興奮剤・刺激物』に由来。反対の作用は sedative（鎮静剤）。動詞は stimulate。",
+    "etym_chain": [
+      { "node": "stimulare + -ant", "sub": "刺激するもの", "era": "ラテン語" },
+      { "node": "stimulant", "sub": "興奮剤・刺激物", "era": "18世紀" }
+    ],
+    "phrases": [
+      { "en": "caffeine is a stimulant", "ja": "カフェインは刺激物だ" },
+      { "en": "a stimulant to the economy", "ja": "経済への刺激" },
+      { "en": "a powerful stimulant", "ja": "強力な興奮剤" },
+      { "en": "avoid stimulants before bed", "ja": "寝る前は刺激物をさける" },
+      { "en": "a mild stimulant", "ja": "弱い刺激物" },
+      { "en": "use a stimulant to stay awake", "ja": "眠気覚ましに刺激物を使う" }
+    ],
+    "related": [
+      { "en": "stimulate", "ja": "刺激する、活発にする" },
+      { "en": "stimulus", "ja": "刺激" },
+      { "en": "caffeine", "ja": "カフェイン" },
+      { "en": "sedative", "ja": "鎮静剤（反対の作用）" }
+    ],
+    "faq": [
+      { "q": "stimulant の意味は？", "a": "『興奮剤・刺激物（しげきぶつ）』という意味です。体や心の働きを、一時的に活発にする（元気づける・目をさまさせる）作用のある物質を指します。caffeine is a stimulant（カフェインは刺激物だ）のように使います。コーヒーや紅茶にふくまれるカフェイン、たばこのニコチンなどが、身近な stimulant です。" },
+      { "q": "sedative との違いは？", "a": "stimulant（興奮剤・刺激物）は、心身の働きを活発にする（元気づける・目をさまさせる）のに対し、sedative（鎮静剤）は、神経を落ち着かせ、眠くさせる薬で、反対の作用です。stimulant は、医療では、眠気をとったり気分を高めたりする薬も指します（使い方をあやまると害もあります）。比ゆ的に『（経済・活動などを）活発にするもの・刺激になるもの』の意味でも使います。動詞は stimulate（刺激する）です。" }
+    ],
+    "quiz": [
+      { "q": "stimulant の意味は？", "A": "心身の働きを一時的に活発にする物質（興奮剤・刺激物）", "B": "眠くさせる薬", "C": "痛み止め", "D": "ビタミン", "correct": "A" },
+      { "q": "stimulant と反対の作用の薬は？", "A": "sedative（鎮静剤）", "B": "caffeine（カフェイン）", "C": "nicotine（ニコチン）", "D": "stimulant のまま", "correct": "A" }
+    ]
+  },
+  {
+    "english": "stimulating",
+    "pron": "ˈstɪmjəleɪtɪŋ",
+    "kana": "スティミュレイティング",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "stimulate（刺激する）＋-ing",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "日常"],
+    "meaning_main": "刺激的な・わくわくさせる・（知的に）興味をそそる／（心身を）元気づける",
+    "description": "stimulating（スティミュレイティング）は「刺激的な・わくわくさせる・興味をそそる」という意味の形容詞。人の心や知性を刺激して、興味・関心や、やる気、新しい考えをかき立てる、わくわくさせるようすを表します。a stimulating discussion（刺激的な議論)のように使います。stimulate（刺激する・活発にする）＋ -ing（〜させるような)が語源です。とくに、知的におもしろく、頭を活発にはたらかせ、やる気を引き出すような、よい意味で使われることが多い語です。a stimulating book（知的刺激にあふれた本)のように使います。また、体や感覚を元気づける、という意味でも使います（a stimulating drink＝元気の出る飲み物)。退屈な boring（つまらない)の反対のイメージです。日常でもよく使う、ほめ言葉的な語です。",
+    "keywords": ["stimulating 意味", "stimulating 使い方", "刺激的な わくわくさせる 興味をそそる 英語", "boring 反対"],
+    "meanings": [
+      { "hinshi": "【形】刺激的な、わくわくさせる、興味をそそる", "note": "心や知性を刺激し興味・やる気をかき立てる。a stimulating discussion。" },
+      { "hinshi": "【形】（心身を）元気づける", "note": "stimulate（刺激する）＋ -ing。boring（つまらない）の反対。" }
+    ],
+    "usages": [
+      { "title": "① 刺激的な", "desc": "知的。", "example_en": "a stimulating discussion", "example_ja": "刺激的な議論" },
+      { "title": "② わくわくさせる", "desc": "興味。", "example_en": "a stimulating book", "example_ja": "知的刺激にあふれた本" }
+    ],
+    "warn": ["『刺激的な・わくわくさせる・興味をそそる（人の心や知性を刺激して、興味・関心や、やる気、新しい考えをかき立てる、わくわくさせるようす）』a stimulating discussion（刺激的な議論）。とくに、知的におもしろく、頭を活発にはたらかせ、やる気を引き出すような、よい意味で使うことが多い。『（心身を)元気づける』の意味も（a stimulating drink＝元気の出る飲み物）。退屈な boring（つまらない）の反対のイメージ。ほめ言葉的な語。", "stimulate（刺激する・活発にする）＋ -ing（〜させるような）。boring（つまらない)の反対。"],
+    "etym_note": "stimulate（刺激する・活発にする、ラテン語 stimulare＝突く・刺激する 由来）＋ -ing（〜させるような）＝『刺激する→刺激的な・わくわくさせる』に由来。boring（つまらない）の反対のイメージ。",
+    "etym_chain": [
+      { "node": "stimulate + -ing", "sub": "刺激するような", "era": "近代英語" },
+      { "node": "stimulating", "sub": "刺激的な・わくわくさせる", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a stimulating discussion", "ja": "刺激的な議論" },
+      { "en": "a stimulating book", "ja": "知的刺激にあふれた本" },
+      { "en": "a stimulating environment", "ja": "刺激的な（成長をうながす）環境" },
+      { "en": "intellectually stimulating", "ja": "知的に刺激的な" },
+      { "en": "a stimulating conversation", "ja": "わくわくする会話" },
+      { "en": "a stimulating drink", "ja": "元気の出る飲み物" }
+    ],
+    "related": [
+      { "en": "stimulate", "ja": "刺激する、活発にする" },
+      { "en": "exciting", "ja": "わくわくさせる、刺激的な" },
+      { "en": "inspiring", "ja": "やる気を起こさせる、感激させる" },
+      { "en": "boring", "ja": "つまらない、退屈な（反対）" }
+    ],
+    "faq": [
+      { "q": "stimulating の意味は？", "a": "『刺激的な・わくわくさせる・興味をそそる』という意味の形容詞です。人の心や知性を刺激して、興味・関心や、やる気、新しい考えをかき立てる、わくわくさせるようすを表します。a stimulating discussion（刺激的な議論）、a stimulating book（知的刺激にあふれた本）のように使います。stimulate（刺激する）＋ -ing が語源です。" },
+      { "q": "よい意味？", "a": "はい。とくに、知的におもしろく、頭を活発にはたらかせ、やる気を引き出すような、よい意味（ほめ言葉）で使われることが多い語です。退屈な boring（つまらない）の反対のイメージです。また、体や感覚を元気づける、という意味でも使います（a stimulating drink＝元気の出る飲み物）。exciting（わくわくさせる）、inspiring（やる気を起こさせる）と近い意味です。" }
+    ],
+    "quiz": [
+      { "q": "a stimulating discussion の意味は？", "A": "刺激的な（知的にわくわくする）議論", "B": "退屈な議論", "C": "短い議論", "D": "けんかの議論", "correct": "A" },
+      { "q": "stimulating の反対のイメージの語は？", "A": "boring（つまらない・退屈な）", "B": "exciting（わくわくさせる）", "C": "inspiring（やる気を起こさせる）", "D": "interesting（おもしろい）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "stimulation",
+    "pron": "ˌstɪmjəˈleɪʃn",
+    "kana": "スティミュレイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "stimulate（刺激する）＋-ation",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "論説"],
+    "meaning_main": "刺激・興奮・活性化（心・体・活動などを、活発にはたらかせること・はたらきが活発になること）",
+    "description": "stimulation（スティミュレイション）は「刺激・興奮・活性化」という意味の名詞。心・体・神経・活動などを、外からはたらきかけて、活発にすること、またそうして活発になることを指します。intellectual stimulation（知的な刺激)のように使います。stimulate（刺激する・活発にする）＋ -ation（名詞をつくる)が語源です。知性・好奇心を刺激すること、神経や筋肉に刺激をあたえること、経済や産業を活発にすること、など、さまざまな分野で使います。need more stimulation（もっと刺激が必要だ）、economic stimulation（経済の活性化)のように使います。ほどよい stimulation は、心身の成長や、やる気、健康によいとされます（刺激がなさすぎると退屈し、ありすぎると疲れる)。動詞は stimulate、形容詞は stimulating です。ふつう不可算名詞です。",
+    "keywords": ["stimulation 意味", "stimulation 使い方", "刺激 興奮 活性化 英語", "stimulate stimulating"],
+    "meanings": [
+      { "hinshi": "【名】刺激、興奮、活性化", "note": "心・体・活動を活発にはたらかせること・なること。intellectual stimulation。不可算。" },
+      { "hinshi": "【名】活発にすること", "note": "stimulate（刺激する）＋ -ation。economic stimulation（経済の活性化）。" }
+    ],
+    "usages": [
+      { "title": "① 知的な刺激", "desc": "知性。", "example_en": "intellectual stimulation", "example_ja": "知的な刺激" },
+      { "title": "② 活性化", "desc": "経済など。", "example_en": "economic stimulation", "example_ja": "経済の活性化" }
+    ],
+    "warn": ["『刺激・興奮・活性化（心・体・神経・活動などを、外からはたらきかけて、活発にすること、またそうして活発になること）』。intellectual stimulation（知的な刺激）、economic stimulation（経済の活性化）。知性・好奇心を刺激すること、神経や筋肉への刺激、経済・産業の活発化など幅広く使う。ほどよい刺激は心身の成長・やる気・健康によいとされる（なさすぎると退屈、ありすぎると疲れる）。動詞は stimulate、形容詞は stimulating。不可算。", "stimulate（刺激する・活発にする）＋ -ation（名詞化）。動詞 stimulate、形容詞 stimulating。"],
+    "etym_note": "stimulate（刺激する・活発にする、ラテン語 stimulare 由来）＋ -ation（名詞化）＝『刺激すること→刺激・活性化』に由来。動詞は stimulate、形容詞は stimulating。",
+    "etym_chain": [
+      { "node": "stimulate + -ation", "sub": "刺激すること", "era": "近代英語" },
+      { "node": "stimulation", "sub": "刺激・活性化", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "intellectual stimulation", "ja": "知的な刺激" },
+      { "en": "economic stimulation", "ja": "経済の活性化" },
+      { "en": "need more stimulation", "ja": "もっと刺激が必要だ" },
+      { "en": "sensory stimulation", "ja": "感覚への刺激" },
+      { "en": "mental stimulation", "ja": "心・頭への刺激" },
+      { "en": "provide stimulation for children", "ja": "子どもに刺激（学びの機会）をあたえる" }
+    ],
+    "related": [
+      { "en": "stimulate", "ja": "刺激する、活発にする" },
+      { "en": "stimulating", "ja": "刺激的な、わくわくさせる" },
+      { "en": "stimulus", "ja": "刺激（1つの）" },
+      { "en": "excitement", "ja": "興奮、わくわく" }
+    ],
+    "faq": [
+      { "q": "stimulation の意味は？", "a": "『刺激・興奮・活性化』という意味です。心・体・神経・活動などを、外からはたらきかけて、活発にすること、またそうして活発になることを指します。intellectual stimulation（知的な刺激）、economic stimulation（経済の活性化）のように使います。stimulate（刺激する）＋ -ation が語源です。" },
+      { "q": "刺激はよいこと？", "a": "ほどよい stimulation（刺激）は、心身の成長や、やる気、健康によいとされます。刺激がなさすぎると退屈し、ありすぎると疲れてしまう、というように、ほどよさが大切です。知性・好奇心を刺激すること、神経や筋肉に刺激をあたえること、経済や産業を活発にすることなど、さまざまな分野で使います。動詞は stimulate、形容詞は stimulating（刺激的な）です。" }
+    ],
+    "quiz": [
+      { "q": "intellectual stimulation の意味は？", "A": "知的な刺激（頭を活発にはたらかせること）", "B": "退屈な時間", "C": "長い休み", "D": "深い眠り", "correct": "A" },
+      { "q": "stimulation の動詞は？", "A": "stimulate（刺激する）", "B": "stimulant（興奮剤）", "C": "stimulating（刺激的な）", "D": "stimulus のみ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "stirring",
+    "pron": "ˈstɜːrɪŋ",
+    "kana": "スターリング",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "stir（かき混ぜる・奮い立たせる）＋-ing",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "文語"],
+    "meaning_main": "（形）感動的な・心を奮い立たせる・胸をわくわくさせる／（名）かき混ぜること・動き",
+    "description": "stirring（スターリング）は、動詞 stir（かき混ぜる／（感情を)かき立てる・奮い立たせる)の -ing 形で、主に形容詞として使われる語。形容詞では「感動的な・心を奮い立たせる・胸をわくわくさせる」で、人の心を強く動かし、感動させたり、勇気や情熱をかき立てたりするようすを表します。a stirring speech（心を奮い立たせる演説)のように使います。stir（かき混ぜる／（心を)かき立てる）＋ -ing（〜させるような)が語源です。音楽・演説・物語・できごとなどが、聞く人・見る人の胸を熱くする、というときに使う、ほめ言葉的な語です。a stirring piece of music（感動的な音楽)のように使います。名詞としては「かき混ぜること」や「（かすかな)動き・騒ぎ」の意味でも使います。moving（感動的な)と近い意味です。",
+    "keywords": ["stirring 意味", "stirring 使い方", "感動的な 心を奮い立たせる 英語", "stir かき立てる"],
+    "meanings": [
+      { "hinshi": "【形】感動的な、心を奮い立たせる、胸をわくわくさせる", "note": "心を強く動かし感動・勇気・情熱をかき立てる。a stirring speech。" },
+      { "hinshi": "【名】かき混ぜること／（かすかな）動き", "note": "stir（かき混ぜる／かき立てる）＋ -ing。moving と近い。" }
+    ],
+    "usages": [
+      { "title": "① 感動的な", "desc": "演説。", "example_en": "a stirring speech", "example_ja": "心を奮い立たせる演説" },
+      { "title": "② 胸をわくわくさせる", "desc": "音楽。", "example_en": "a stirring piece of music", "example_ja": "感動的な音楽" }
+    ],
+    "warn": ["動詞 stir（かき混ぜる／（感情を)かき立てる・奮い立たせる）の -ing 形。形容詞『感動的な・心を奮い立たせる・胸をわくわくさせる（人の心を強く動かし、感動させたり、勇気や情熱をかき立てたりするようす）』a stirring speech（心を奮い立たせる演説）。音楽・演説・物語・できごとが、聞く人・見る人の胸を熱くするときに使う、ほめ言葉的な語。名詞では『かき混ぜること／（かすかな)動き・騒ぎ』。moving（感動的な）と近い。", "stir（かき混ぜる／（心を)かき立てる・奮い立たせる）＋ -ing（〜させるような）。moving（感動的な)と近い。"],
+    "etym_note": "stir（かき混ぜる／（感情を)かき立てる・奮い立たせる、古英語 styrian）＋ -ing（〜させるような）＝『心をかき立てる→感動的な』に由来。moving（感動的な）と近い。",
+    "etym_chain": [
+      { "node": "stir + -ing", "sub": "心をかき立てるような", "era": "中英語" },
+      { "node": "stirring", "sub": "感動的な・奮い立たせる", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a stirring speech", "ja": "心を奮い立たせる演説" },
+      { "en": "a stirring piece of music", "ja": "感動的な音楽" },
+      { "en": "a stirring story", "ja": "胸を打つ物語" },
+      { "en": "a stirring performance", "ja": "感動的な演奏・演技" },
+      { "en": "stirring words", "ja": "心を奮い立たせる言葉" },
+      { "en": "not a stirring in the house", "ja": "家の中は物音一つしない" }
+    ],
+    "related": [
+      { "en": "stir", "ja": "かき混ぜる／（心を）かき立てる" },
+      { "en": "moving", "ja": "感動的な、心を動かす" },
+      { "en": "inspiring", "ja": "やる気を起こさせる、感激させる" },
+      { "en": "rousing", "ja": "奮い立たせる、熱狂させる" }
+    ],
+    "faq": [
+      { "q": "stirring の意味は？", "a": "動詞 stir（かき混ぜる／感情をかき立てる・奮い立たせる）の -ing 形で、主に形容詞として『感動的な・心を奮い立たせる・胸をわくわくさせる』という意味です。人の心を強く動かし、感動させたり、勇気や情熱をかき立てたりするようすを表します。a stirring speech（心を奮い立たせる演説）のように使います。" },
+      { "q": "moving との違いは？", "a": "どちらも『感動的な』ですが、moving は、しみじみと心を動かし、ときに涙を誘うような感動、stirring は、勇気・情熱・やる気をかき立て、胸を熱く奮い立たせるような感動、というニュアンスの違いがあります。音楽・演説・物語などが、聞く人・見る人の胸を熱くするときに使う、ほめ言葉的な語です。rousing（奮い立たせる）とも近い意味です。名詞では『かき混ぜること』や『（かすかな）動き』の意味でも使います。" }
+    ],
+    "quiz": [
+      { "q": "a stirring speech の意味は？", "A": "心を奮い立たせる（感動的な）演説", "B": "退屈な演説", "C": "短い演説", "D": "静かな演説", "correct": "A" },
+      { "q": "stirring のもとの動詞 stir の意味は？", "A": "かき混ぜる／（心を）かき立てる・奮い立たせる", "B": "眠る", "C": "数える", "D": "黙る", "correct": "A" }
+    ]
+  },
+  {
+    "english": "stockade",
+    "pron": "stɑːˈkeɪd",
+    "kana": "ストッケイド",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "スペイン語 estacada（くいの列）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "専門"],
+    "meaning_main": "（名）防御柵（ぼうぎょさく）・さく囲い（とがったくいを並べて立てた囲い・とりで）／（動）さくで囲う",
+    "description": "stockade（ストッケイド）は「防御柵(ぼうぎょさく)・さく囲い」という意味の名詞。先をとがらせた、たくさんの木のくい(丸太)を、地面に立てて並べ、ぐるりと囲ってつくった、防御用のさくや、とりでを指します。build a stockade（防御柵をつくる)のように使います。スペイン語 estacada（くいの列、estaca＝くい から)に由来します。昔、西部開拓時代のアメリカや、各地で、敵や、野生動物の侵入(しんにゅう)を防ぐために、村・とりで・陣地などのまわりに築かれました。映画の西部劇などでよく見られる、丸太を立て並べたとりでが、この stockade です。動詞では「さくで囲う・防御柵をめぐらす」の意味で使います。また、軍の施設内の「営倉(えいそう)＝兵士を閉じこめる留置場」の意味で使うこともあります。可算名詞です。",
+    "keywords": ["stockade 意味", "stockade 使い方", "防御柵 さく囲い とりで 英語", "西部開拓 丸太 英語"],
+    "meanings": [
+      { "hinshi": "【名】防御柵（ぼうぎょさく）、さく囲い", "note": "とがったくいを並べて立てた囲い・とりで。build a stockade。可算。" },
+      { "hinshi": "【動】さくで囲う／【名】営倉（えいそう）", "note": "スペイン語 estacada（くいの列）。西部開拓時代のとりでなど。" }
+    ],
+    "usages": [
+      { "title": "① 防御柵・とりで", "desc": "防御。", "example_en": "build a stockade", "example_ja": "防御柵をつくる" },
+      { "title": "② さくで囲う", "desc": "動詞。", "example_en": "stockade the camp", "example_ja": "陣地をさくで囲う" }
+    ],
+    "warn": ["『防御柵〔ぼうぎょさく〕・さく囲い（先をとがらせた、たくさんの木のくい〔丸太〕を、地面に立てて並べ、ぐるりと囲ってつくった、防御用のさくや、とりで）』build a stockade（防御柵をつくる）。昔、西部開拓時代のアメリカなどで、敵や野生動物の侵入を防ぐため、村・とりで・陣地のまわりに築いた。西部劇でよく見る丸太のとりで。動詞『さくで囲う』。軍の『営倉〔えいそう〕＝兵士を閉じこめる留置場』の意味も。可算。", "スペイン語 estacada（くいの列、estaca＝くい から）。palisade（さく、防柵)と近い。"],
+    "etym_note": "スペイン語 estacada（くいの列、estaca＝くい から）に由来。『とがったくいを並べて立てた防御柵・とりで』。西部開拓時代のとりでなどに築かれた。palisade（防柵）と近い。",
+    "etym_chain": [
+      { "node": "estacada", "sub": "くいの列", "era": "スペイン語" },
+      { "node": "stockade", "sub": "防御柵・とりで", "era": "17世紀" }
+    ],
+    "phrases": [
+      { "en": "build a stockade", "ja": "防御柵をつくる" },
+      { "en": "stockade the camp", "ja": "陣地をさくで囲う" },
+      { "en": "a wooden stockade", "ja": "木のさく囲い（とりで）" },
+      { "en": "behind the stockade", "ja": "さくの内側で" },
+      { "en": "a fort surrounded by a stockade", "ja": "さくに囲まれたとりで" },
+      { "en": "defend the stockade", "ja": "とりでを守る" }
+    ],
+    "related": [
+      { "en": "palisade", "ja": "さく、防柵（ぼうさく）" },
+      { "en": "fence", "ja": "さく、へい" },
+      { "en": "fort", "ja": "とりで、要塞（ようさい）" },
+      { "en": "barricade", "ja": "バリケード、防塁" }
+    ],
+    "faq": [
+      { "q": "stockade の意味は？", "a": "『防御柵（ぼうぎょさく）・さく囲い』という意味です。先をとがらせた、たくさんの木のくい（丸太）を、地面に立てて並べ、ぐるりと囲ってつくった、防御用のさくや、とりでを指します。build a stockade（防御柵をつくる）のように使います。スペイン語 estacada（くいの列）に由来します。" },
+      { "q": "どんなときに使われた？", "a": "昔、西部開拓時代のアメリカや、各地で、敵や、野生動物の侵入を防ぐために、村・とりで・陣地などのまわりに築かれました。映画の西部劇などでよく見られる、丸太を立て並べたとりでが、この stockade です。動詞では『さくで囲う・防御柵をめぐらす』の意味で使います。また、軍の施設内の『営倉（えいそう）＝兵士を閉じこめる留置場』の意味で使うこともあります。palisade（防柵）と近い語です。" }
+    ],
+    "quiz": [
+      { "q": "stockade の意味は？", "A": "とがったくいを並べて立てた防御柵・とりで", "B": "高層ビル", "C": "地下鉄の駅", "D": "大きな橋", "correct": "A" },
+      { "q": "stockade はどんな時代によく築かれた？", "A": "西部開拓時代などに、敵や動物の侵入を防ぐため", "B": "宇宙開発の時代", "C": "インターネットの時代", "D": "産業革命後の工場で", "correct": "A" }
+    ]
+  }
+]
